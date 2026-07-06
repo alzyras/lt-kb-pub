@@ -13,6 +13,18 @@ tags:
   - dokumentas
 amziai:
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Išsaugotos Toros
 
@@ -46,12 +58,24 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-19534"></a>
-- t-001
+- t-003
   global_id: t-19534
-  teiginys: 'Lietuva siekė grąžinti žydams išblaškytas kultūros vertybes, tarp jų išsaugotas 300 Torų.'
+  teiginys: "Lietuva siekė grąžinti žydams išblaškytas kultūros vertybes, tarp jų išsaugotas 300 Torų."
+  semantiniai_rysiai: "Išsaugotos Toros priklausė Žydai (0.76)"
+  temporaliniai_duomenys: "įvykio data: 2004 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "534023-534874; hash=09634c66c789381163b4bc894e9ef95e1075590f4e0563647dd998499fca989b; match=exact"
+  sprendimo_priezastis: "gap::items"
+  ryšio_patikimumas: "priklause -> Žydai: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Išsaugotos Toros: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Žydai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Toros minimos kaip žydams grąžintinų kultūros vertybių dalis."
   pagrindžia:
-    - c-001
-
+    - c-22247
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -71,6 +95,7 @@ Nenurodyta
     prieš antisemitizmą ir rasinį bei religinį nepakantumą, garantuoti žodžio,
     spaudos, rinkimų laisvę.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -80,6 +105,31 @@ Nenurodyta
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
+
+## Citatos
+
+- id: c-22247
+  citata_originali: |
+    Apskri-
+    tai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Hercego-
+    vinoje, Gruzijoje dalyvavo per du šimtus Lietuvos karių. 2004 m. pabaigoje
+    Lietuvai pasiūlyta vadovauti vienos iš Afganistano provincijų – Goro – at-
+    kūrimo grupei, sudaryti šioje provincijoje sąlygas užtikrinti stabilumą ir
+    saugumą, padėti Afganistano centrinei valdžiai plėsti savo įtaką regione.
+    Narystės ir demokratijos įtvirtinimui Lietuva ėmė ryžtingai siekti de-
+    mokratinių vertybių – užtikrinti galimybes puoselėti savo kalbą ir kultūrą
+    tautinėms mažumoms, vykdyti religinio turto restituciją, įvertinti Holo-
+    kausto pamokas, grąžinti žydams išblaškytas kultūros vertybes (išsaugo-
+    tas 300 Torų, YIVO instituto dokumentus), sakralinius pastatus, kovoti
+    prieš antisemitizmą ir rasinį bei religinį nepakantumą, garantuoti žodžio,
+    spaudos, rinkimų laisvę.
+  citata_rodoma: "tas 300 Torų, YIVO instituto dokumentus), sakralinius pastatus, kovoti"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-19534
 
 ## Ryšiai
 - Išsaugotos Toros priklausė [[objektai/grupes/Žydai]]

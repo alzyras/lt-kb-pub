@@ -17,6 +17,18 @@ tags:
   - saltinis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Słownik starożytności słowiańskich 6 t., 1962—1980
 
@@ -29,10 +41,22 @@ Dusburgietis teigia, kad słownik starożytności słowiańskich: 6 t., 1962—1
 <a id="claim-t-61307"></a>
 - t-001
   global_id: t-61307
-  teiginys: '„Słownik starożytności słowiańskich“ sudaro šeši tomai, leisti 1962–1980 m. Vroclave, Varšuvoje ir Krokuvoje.'
+  teiginys: "„Słownik starożytności słowiańskich“ sudaro šeši tomai, leisti 1962–1980 m. Vroclave, Varšuvoje ir Krokuvoje."
+  temporaliniai_duomenys: "įvykio data: 1962-1980; įvykio data: 1980 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata patvirtina leidinio apimtį, metus ir leidimo vietas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "797900-798073; hash=19767f41c921cf4921d7e70e98bdfb6a1da22d8654670062726632389eaf427f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Słownik starożytności słowiańskich 6 t., 1962—1980: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=98"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Słownik starożytności słowiańskich 6 t., 1962—1980\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-61939
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,8 +67,23 @@ Dusburgietis teigia, kad słownik starożytności słowiańskich: 6 t., 1962—1
     Kraków.— T. 1, cz. 2, 1962; t. 4, cz. 1, 1970; t. 4, cz. 2, 1972; t. 5. 1975; t. 6, cz. 2,
     1980.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-61939
+  citata_originali: |
+    Słownik  starożytności  słowiańskich:  6   t.,  1962—1980.—Wrocław—Warszawa—
+    Kraków.— T. 1, cz. 2, 1962; t. 4, cz. 1, 1970; t. 4, cz. 2, 1972; t. 5. 1975; t. 6, cz. 2,
+    1980.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-61307

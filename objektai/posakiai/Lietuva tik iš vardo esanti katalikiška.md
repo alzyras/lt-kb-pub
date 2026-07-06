@@ -5,6 +5,18 @@ saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuva tik iš vardo esanti katalikiška
 
@@ -25,10 +37,19 @@ Formulė pateikiama kaip Ordino propagandinis teiginys, menkinantis Lietuvos kri
 <a id="claim-t-11645"></a>
 - t-001
   global_id: t-11645
-  teiginys: 'Formulė pateikiama kaip Ordino skleidžiamas teiginys, menkinantis Lietuvos katalikiškumą.'
+  teiginys: "Formulė pateikiama kaip Ordino skleidžiamas teiginys, menkinantis Lietuvos katalikiškumą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "270063-270379; hash=f2fa5cea73b324efa15274b91b0f531945816b0842d33888b6a40415c075a393; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuva tik iš vardo esanti katalikiška: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva tik iš vardo esanti katalikiška\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-14541
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -41,8 +62,27 @@ Formulė pateikiama kaip Ordino propagandinis teiginys, menkinantis Lietuvos kri
     talikiška: bažnyčios joje nestatomos, kat. tikėjimas nesklei­
     džiamas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-14541
+  citata_originali: |
+    Vok. Ordinas nenorėjo nusileisti. Apie Vytautą jis skelbė
+    Vak. Europoje, kad tai yra labai pavojingas katalikams valdo­
+    vas, nes visas pilis paveda stačiatikiams ir susideda su toto­
+    riais, kurie veržiasi Europon. Lietuva tik iš vardo esanti ka­
+    talikiška: bažnyčios joje nestatomos, kat. tikėjimas nesklei­
+    džiamas.
+  citata_rodoma: "Vok. Ordinas nenorėjo nusileisti. Apie Vytautą jis skelbė\nVak. Europoje, kad tai yra labai pavojingas katalikams valdo-\nvas, nes visas pilis paveda stačiatikiams ir susideda su toto-\nriais, kurie veržiasi Europon. Lietuva tik iš vardo esanti ka-\ntalikiška: bažnyčios joje nestatomos, kat. tikėjimas nesklei-\ndžiamas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-11645

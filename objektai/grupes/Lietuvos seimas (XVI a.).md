@@ -20,6 +20,18 @@ tags:
   - unija
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvos seimas (XVI a.)
 
@@ -32,10 +44,22 @@ Prieš bendrąjį seimą buvo sušauktas dar atskiras Lietuvos seimas, tačiau j
 <a id="claim-t-01408"></a>
 - t-001
   global_id: t-01408
-  teiginys: 'Prieš bendrąjį unijos seimą sušauktame Lietuvos seime unijos klausimas nepasistūmėjo.'
+  teiginys: "Prieš bendrąjį unijos seimą sušauktame Lietuvos seime unijos klausimas nepasistūmėjo."
+  temporaliniai_duomenys: "įvykio data: 1564 m.; įvykio data: 1568 m.; įvykio data: 1569 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys sutrumpintas ir susietas su seimo objektu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "455260-455785; hash=c12f3ea3abf39c7920f0c2f1fdf706a4516dd87edca9db8a97f47dd825c41dc7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos seimas (XVI a.): owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos seimas (XVI a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-01646
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -50,8 +74,28 @@ Prieš bendrąjį seimą buvo sušauktas dar atskiras Lietuvos seimas, tačiau j
     Lietuvos delegacija, atvykusi į 1569 m. seimą, vėl siūlė naujus unijos
     projektus ir vėl reikalavo iš naujo pradėti derybas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-01646
+  citata_originali: |
+    Prieš bendrąjį seimą buvo sušauktas dar atskiras Lietuvos sei-
+    mas, tačiau jame unijos klausimas nė kiek nepasistūmėjo. Bendrasis
+    unijos seimas buvo sušauktas vos 1568 m. gale, o iš tikro susirinko
+    tik 1569 m. sausio 10 d.—1564 m. iš Varšuvos išvažiuodamas, Lietuvos
+    delegacijos pirmininkas Radvila pasisakė abejojąs, ar kraštas su-
+    tiksiąs su Lenkų reikalavimais ir su receso nuostatais. Ir iš tikro,
+    Lietuvos delegacija, atvykusi į 1569 m. seimą, vėl siūlė naujus unijos
+    projektus ir vėl reikalavo iš naujo pradėti derybas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-01408

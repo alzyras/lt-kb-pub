@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # E. Gudavičius
 
@@ -19,10 +31,19 @@ Gudavičius.
 <a id="claim-t-19388"></a>
 - t-001
   global_id: t-19388
-  teiginys: 'E. Gudavičius kartu su S. Lazutka parengė Pirmojo Lietuvos Statuto Dzialinskio, Lauryno ir Ališavos nuorašų faksimiles.'
+  teiginys: "E. Gudavičius kartu su S. Lazutka parengė Pirmojo Lietuvos Statuto Dzialinskio, Lauryno ir Ališavos nuorašų faksimiles."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "552125-552292; hash=cc092287dbe50bfd9377be48e5bf66618583d310378dd30abdce1810ff66da56; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "E. Gudavičius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=50"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"E. Gudavičius\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-22125
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -31,8 +52,23 @@ Gudavičius.
     Kraków, 1989; Pirmasis Lietuvos Statutas: Dzialinskio, Lauryno ir Ališavos
     nuorašų faksimilės. Parengė S. Lazutka, E. Gudavičius. T. 1, d. 2. Vilnius, 1985; E. Rimša.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-22125
+  citata_originali: |
+    Kraków, 1989; Pirmasis Lietuvos Statutas: Dzialinskio, Lauryno ir Ališavos
+    nuorašų faksimilės. Parengė S. Lazutka, E. Gudavičius. T. 1, d. 2. Vilnius, 1985; E. Rimša.
+  citata_rodoma: "nuorašų faksimilės. Parengė S. Lazutka, E. Gudavičius. T. 1, d. 2. Vilnius, 1985;"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-19388

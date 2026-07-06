@@ -9,6 +9,18 @@ tags:
   - mūšis
   - upė
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Elko upė
 
@@ -21,10 +33,19 @@ Mūšis Spalio 8 d. kariuomenės suartėjo ties Prostkais skiriamos Elko upės.
 <a id="claim-t-41711"></a>
 - t-001
   global_id: t-41711
-  teiginys: 'Spalio 8 d. kariuomenės ties Prostkais suartėjo prie jas skyrusios Elko upės.'
+  teiginys: "Spalio 8 d. kariuomenės ties Prostkais suartėjo prie jas skyrusios Elko upės."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "524076-524338; hash=6b7989986ead096d9cb59ad9f518398e632a67d48bfcd6686b4a8b6f7f2d0b43; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Elko upė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elko upė\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-45092
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,8 +63,32 @@ Mūšis Spalio 8 d. kariuomenės suartėjo ties Prostkais skiriamos Elko upės.
     kad šiauriau Prostkų per upę keliasi toto-
     riai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-45092
+  citata_originali: |
+    Mūšis
+    Spalio 8 d. kariuomenės suartėjo ties
+    Prostkais skiriamos Elko upės. Lietuviai
+
+    E gf
+
+    apgaulingu atsitraukimo manevru išvi-
+    liojo brandenburgiečius persikelti į kita
+    krantą. Tuo tarpu G. Valdekas gavo žinią,
+    kad šiauriau Prostkų per upę keliasi toto-
+    riai.
+  citata_rodoma: "Mūšis\nSpalio 8 d. kariuomenės suartėjo ties\nProstkais skiriamos Elko upės. Lietuviai\n\nE gf\n\napgaulingu atsitraukimo manevru išvi-\nliojo brandenburgiečius persikelti į kita\nkrantą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-41711

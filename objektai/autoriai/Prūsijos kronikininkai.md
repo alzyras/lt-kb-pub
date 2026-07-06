@@ -5,6 +5,18 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Prūsijos kronikininkai
 
@@ -13,22 +25,50 @@ atnaujinta: ''
 Prūsijos kronikininkų, besirėmusių Olafo Didžiojo „Istorija“, manymu, lietuviai paskutines penkias dievaičių rūšis perėmė iš skandinavų. Prūsijos kronikininkai kartojo, kad stabmeldžiai slėpė tam tikras religines apeigas.
 
 ## Teiginiai
+
 <a id="claim-t-190378"></a>
 - t-001
   global_id: t-190378
-  teiginys: 'Prūsijos kronikininkų, besirėmusių Olafo Didžiojo „Istorija“, manymu, lietuviai paskutines penkias dievaičių rūšis perėmė iš skandinavų.'
+  teiginys: "Prūsijos kronikininkų, besirėmusių Olafo Didžiojo „Istorija“, manymu, lietuviai paskutines penkias dievaičių rūšis perėmė iš skandinavų."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "314421-314636; hash=30a77e8127b1ef6fea9589428fa99a19f960b9969d248689d2df0daf09c6eed3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsijos kronikininkai: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=70"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsijos kronikininkai\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173261
+
 <a id="claim-t-190379"></a>
 - t-002
   global_id: t-190379
-  teiginys: 'Prūsijos kronikininkai kartojo, kad stabmeldžiai slėpė tam tikras religines apeigas.'
+  teiginys: "Prūsijos kronikininkai kartojo, kad stabmeldžiai slėpė tam tikras religines apeigas."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "335029-335525; hash=cefa85a573fc7d0d218e38448ef5528d6d4b4f6362d3b7f633aa65cc5d745b95; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsijos kronikininkai: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsijos kronikininkai\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-002
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173262
 - susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188318|Prūsai]]: Narbutas rašo, kad Prūsijos kronikininkai aprašo tautinį senovės prūsų herbą, kurio kilmę sieja su Vaidevučio laikais.
 - susijęs iš Prūsija: Narbutas rašo, kad Prūsijos kronikininkai šiuo vardu siejo dievintą senovės kunigaikštį Vaidevutį.
 - susijęs iš Prūsija: Narbutas rašo, kad Prūsijos kronikininkai burtininkams priskyrė ateities pranašavimą liejant ištirpintą vašką į šaltą vandenį.
@@ -36,6 +76,7 @@ Prūsijos kronikininkų, besirėmusių Olafo Didžiojo „Istorija“, manymu, l
 - susijęs iš [[objektai/grupes/Burtininkai.md#claim-t-189451|Burtininkai]]: Narbutas rašė, kad Prūsijos kronikininkai burtininkams priskyrė ateities spėjimą liejant ištirpintą vašką į šaltą vandenį.
 - susijęs iš [[objektai/paprociai/Pranašavimas liejant vašką į šaltą vandenį.md#claim-t-189856|Pranašavimas liejant vašką į šaltą vandenį]]: Narbutas rašė, kad Prūsijos kronikininkai burtininkams priskyrė ateities spėjimą liejant ištirpintą vašką į šaltą vandenį.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Prūsijos kronikininkų, besirėmusių Olafo Didžiojo „Istorija“, manymu, lietuviai paskutines penkias dievaičių rūšis perėmė iš skandinavų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -45,11 +86,14 @@ Prūsijos kronikininkų, besirėmusių Olafo Didžiojo „Istorija“, manymu, l
     „Istorija“ , manymu, paskutines penkias dievaičių rūšis lietu­
     viai perėmę iš skandinavų.
     30 Stenden Lettische Grammatik.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Prūsijos kronikininkai kartojo, kad stabmeldžiai slėpė tam tikras religines apeigas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -67,8 +111,48 @@ Prūsijos kronikininkų, besirėmusių Olafo Didžiojo „Istorija“, manymu, l
     be jų apsieiti, kadangi kiekviena daugiadieviška religija, pa­
     siekusi tam tikrą vystymosi pakopą, net iki juokingumo apau­
     ga prietarais, keistenybėmis.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-173261
+  citata_originali: |
+    Šie dievaičiai atitinka Antikos Paną.
+    Prūsijos kronikininkų, besivadovaujančių Olafo Didžiojo
+    „Istorija“ , manymu, paskutines penkias dievaičių rūšis lietu­
+    viai perėmę iš skandinavų.
+    30 Stenden Lettische Grammatik.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190378
+
+- id: c-173262
+  citata_originali: |
+    Iš čia slap­
+    tos sueigos, slaptos reikšmės dievybės, kurių mūsų mitologas
+    197
+
+    ## Puslapis 197
+
+    išvardija net aštuonetą. Prūsijos kronikininkai be perstojo kar­
+    toja, kad stabmeldžiai slepią tam tikras religines apeigas.
+    Negaliu paneigti nuomonės, kad lietuviai yra turėję religi­
+    nių paslapčių; priešingai, manau, kad lietuviai nebūtų galėję
+    be jų apsieiti, kadangi kiekviena daugiadieviška religija, pa­
+    siekusi tam tikrą vystymosi pakopą, net iki juokingumo apau­
+    ga prietarais, keistenybėmis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190379

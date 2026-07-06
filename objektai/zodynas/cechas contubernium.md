@@ -10,6 +10,18 @@ tags:
   - kunigaikštis
   - miestas
   - privilegija
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # cechas contubernium
 
@@ -20,19 +32,31 @@ Už tai, kad jis nepakluso Lenkijos karaliaus it taip pat didžiojo Lietuvos kun
 ## Teiginiai
 
 <a id="claim-t-86461"></a>
-- t-001
+- t-002
   global_id: t-86461
-  teiginys: 'Auksakalys kaltintas savavališkai plėtojęs amatą atskirai nuo cecho narių ir pardavinėjęs dirbinius nepaisydamas cecho privilegijų.'
+  teiginys: "Auksakalys kaltintas savavališkai plėtojęs amatą atskirai nuo cecho narių ir pardavinėjęs dirbinius nepaisydamas cecho privilegijų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "819951-821530; hash=a9236669bea6f0797b3835b43ce6dea7dcf809b267bfec5ce25c37f31ebb37c1; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
+    - c-82440
 
 <a id="claim-t-86462"></a>
-- t-002
+- t-001
   global_id: t-86462
-  teiginys: 'Vilniaus auksakalių cecho reikalavimu auksakalys Steponas Genseris buvo pašauktas į teismą dėl nepaklusimo cecho privilegijai.'
+  teiginys: "Vilniaus auksakalių cecho reikalavimu auksakalys Steponas Genseris buvo pašauktas į teismą dėl nepaklusimo cecho privilegijai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "818002-819025; hash=601ecc7cd9b69e434675cd806bc1d8e1111cdd70508c455ac9fd15e5de36ac3e; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Steponas Genseris: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "cechas contubernium: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Steponas Genseris: mention_match, person, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"cechas contubernium\" parinktas kaip owner_note_path. Targetas \"Steponas Genseris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
-
+    - c-82441
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -71,6 +95,7 @@ Už tai, kad jis nepakluso Lenkijos karaliaus it taip pat didžiojo Lietuvos kun
     negerbdamas privilegijų, leistų minėtam cechui, kaip visa
     tai mūsų šaukime į teismą aiškiau yra aprašyta.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -102,8 +127,81 @@ Už tai, kad jis nepakluso Lenkijos karaliaus it taip pat didžiojo Lietuvos kun
     Senjoras gali reikšti kunigaikštį
     (vert.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-82440
+  citata_originali: |
+    Convento vero forum decli­
+    nante, atque subditum et Civem Episcopalem Vilnensem se
+    esse allegante, et illic tanquam ad forum competens se remitti
+    affectante, Nobilique Andrea ^(fodzinski famulo, et plenipo­
+    tente illustris et Reverendissimi Domini Georgii, divina mi­
+    seratione Sanctae Romanae Ecclesiae Presbyteris, Cardinalis
+    Radzivilij, et Episcopatus Vilnen. perpetui Administratoris,
+    Ducis in Olika et Nieśwież, et in Livonia nostri Locum te­
+    nentis, privilegia Serenissimi praedecessoris nostri, piae me­
+    moriae Wladislai Regis producente, nec non partem Civita­
+    tis, iurisdictionis Episcopalis, ab omni obedientia, et iure Civili
+    saeculari exemptam esse, iusque suum et Magistratum babe-
+    re allegante; ac etiam Constitutionem in Conventu generali
+    Bielscensi, in Anno Millesimo Quingentesimo Sexagesimo
+    quarto factam, exhibente, qua mediante iura et privilegia, om-
+    nesque libertates, Ecclesiis Romanae religionis, antiquitus con­
+    cessa, approbata esse docuit circaque privilegia se conservari
+    petiit. Nos cum Consiliariis nostris, lateri nostro tunc assi­
+    dentibus, audita beneque examinata partium controversia,
+    436
+
+    ## Puslapis 453
+
+    IV KNYGA
+    pagal minėtos privilegijos nuostatus buvo įprasta laikytis,
+    savą auksakalystės meną atskirai nuo cecho narių neapgal­
+    votai išdrįso vystyti ir savo dirbinius pagal savus įgeidžius,
+    be jokios tvarkos ir dėmesio atliktus, visų žmonių, kurie tik
+    norėjo, vartojimui išdrįso gaminti ir pardavinėti. Visa tai darė
+    negerbdamas privilegijų, leistų minėtam cechui, kaip visa
+    tai mūsų šaukime į teismą aiškiau yra aprašyta.
+  citata_rodoma: "perpetui Administratoris, \nDucis in Olika et Nieśwież, et in Livonia nostri Locum te­\nnentis, privilegia Serenissimi praedecessoris nostri, piae me­\nmoriae Wladislai Regis producente, nec non partem Civita­\ntis, iurisdictionis Episcopalis, ab omni obedientia, et iure Civili \nsaeculari exemptam esse, iusque suum et Magistratum babe- \nre allegante; ac etiam Constitutionem in Conventu generali \nBielscensi, in Anno Millesimo Quingentesimo Sexagesimo \nquarto factam, exhibente, qua mediante iura et privilegia, om- \nnesque libertates, Ecclesiis Romanae religionis, antiquitus con­\ncessa, approbata esse docuit circaque privilegia se conservari \npetiit. Nos cum Consiliariis nostris, lateri nostro tunc assi­\ndentibus, audita beneque examinata partium controversia,\n436\n\n## Puslapis 453\n\nIV KNYGA\npagal minėtos privilegijos nuostatus buvo įprasta laikytis, \nsavą auksakalystės meną atskirai nuo cecho narių neapgal­\nvotai išdrįso vystyti ir savo dirbinius pagal savus įgeidžius, \nbe jokios tvarkos ir dėmesio atliktus, visų žmonių, kurie tik \nnorėjo, vartojimui išdrįso gaminti ir pardavinėti. Visa tai darė \nnegerbdamas privilegijų, leistų minėtam cechui, kaip visa \ntai mūsų šaukime į teismą aiškiau yra aprašyta."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86461
+
+- id: c-82441
+  citata_originali: |
+    Šiuo raštu skel­
+    biame visiems ir kiekvienam, kam dera žinoti, kad pas mus
+    ir į mūsų teismą raštišku šaukimu, reikalaujant garbiesiems
+    senjorams* ir visam mūsų Vilniaus miesto auksakalių ce­
+    chui, buvo pakviestas garsusis Steponas Genseris, auksaka­
+    lys, tiek dėl jo paties, tiek dėl jo nekilnojamojo turto, jei kokį
+    turėtų. Už tai, kad jis nepakluso Lenkijos karaliaus it taip
+    pat didžiojo Lietuvos kunigaikščio šviesiausiojo Aleksandro,
+    mūsų pirmtako, minėtiems senjorams ir mūsų Vilniaus mies­
+    to auksakalių cechui duotai ir mūsų patvirtintai privilegi­
+    jai, nebijodamas toje pačioje privilegijoje nedrausmingiems,
+    besiverčiantiems auksakalystės menu nesilaikant civilinės
+    teisės ir atsiskyrusiems nuo Vilniaus auksakalių cecho meist­
+    rams numatytos bausmės. Jis prieš-anksčiau paminėtos pri­
+    vilegijos taisykles, nesilaikydamas civilinės teisės ir paklus­
+    numo auksakalių cechui ir taip pat be jokios tvarkos,
+    įprastos tarp šio auksakalystės meno auksakalių, kurios
+    [35
+    Senjoras gali reikšti kunigaikštį
+    (vert.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86462

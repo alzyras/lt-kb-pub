@@ -1,0 +1,88 @@
+---
+tipas: asmuo
+pavadinimas: 'Surovieckis'
+saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
+sukurta: ''
+atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Surovieckis
+
+## Santrauka
+
+Teodoro Narbuto vertinimu, Surovieckis teisingai pastebėjo, kad senovės geografai variagus-lietuvius žinojo gitonų vardu.
+
+## Teiginiai
+
+<a id="claim-t-191473"></a>
+- t-001
+  global_id: t-191473
+  teiginys: "Teodoro Narbuto vertinimu, Surovieckis teisingai pastebėjo, kad senovės geografai variagus-lietuvius žinojo gitonų vardu."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "418627-418876; hash=e6349f3f3edc92e8bd3a3c1eb33db6c88f8d604700183684537646fdab01bf75; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gitonai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Surovieckis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Gitonai: mention_match, group, gap=81"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Surovieckis\" parinktas kaip owner_note_path. Targetas \"Gitonai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-174355
+- susijęs iš [[objektai/grupes/Variagai (normanai).md#claim-t-192478|Variagai (normanai)]]: Narbutas variagų-lietuvių giminę apibūdina kaip karingą ir sumanią, vėliau išgarsėjusią rusų variagų vardu.
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Teodoro Narbuto vertinimu, Surovieckis teisingai pastebėjo, kad senovės geografai variagus-lietuvius žinojo gitonų vardu.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Apie juos mes dar kalbėsime chro­
+    nologine mūsų pasakojimo tvarka. Čia tik pateikiame
+    anksčiau mūsų Surovieckio padarytą ir labai teisingą pa­
+    stabą, jog senovės geografai šią variagų-lietuvių tautą
+    žinojo gitonų vardu1.
+    228
+    Istoriniai pastebėjimai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Citatos
+
+- id: c-174355
+  citata_originali: |
+    Apie juos mes dar kalbėsime chro­
+    nologine mūsų pasakojimo tvarka. Čia tik pateikiame
+    anksčiau mūsų Surovieckio padarytą ir labai teisingą pa­
+    stabą, jog senovės geografai šią variagų-lietuvių tautą
+    žinojo gitonų vardu1.
+    228
+    Istoriniai pastebėjimai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-191473

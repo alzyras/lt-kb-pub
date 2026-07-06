@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Leopoldas (Austrijos erchercogas)
 
@@ -17,10 +29,22 @@ Leopoldas, Austrijos erchercogas, dalyvavo Sanoke vykusioje Jogailos ir Elžbiet
 <a id="claim-t-186233"></a>
 - t-001
   global_id: t-186233
-  teiginys: 'Leopoldas, Austrijos erchercogas, dalyvavo Sanoke vykusioje Jogailos ir Elžbietos vestuvių puotoje.'
+  teiginys: "Leopoldas, Austrijos erchercogas, dalyvavo Sanoke vykusioje Jogailos ir Elžbietos vestuvių puotoje."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "688671-689174; hash=9cf2eca81d6df31f5df3d7623514f2a654a98537ca6aa2ebc0308769898afb41; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Austrija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Leopoldas (Austrijos erchercogas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Austrija: mention_match, place, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Leopoldas (Austrijos erchercogas)\" parinktas kaip owner_note_path. Targetas \"Austrija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-169594
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -38,8 +62,30 @@ Leopoldas, Austrijos erchercogas, dalyvavo Sanoke vykusioje Jogailos ir Elžbiet
     gus, nes niekas neabejojo, kad ir dangus smerkė tai,
     ką atmetė lyg susitarę žmonės.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-169594
+  citata_originali: |
+    Karalius, padrąsintas Vytauto tylėjimo, nu­
+    mojo ranka į visokius nemalonumus, kurių ši santuoka
+    galėjo pridaryti valdovo rūmams. Kai Edigejus siaubė
+    Rusią kalaviju bei ugnimi, Jogaila susituokė Sanoke su
+    Elžbieta ir iškėlė vestuvių puotą, kurioje dalyvavo ir
+    Leopoldas, Austrijos erchercogas. Aptemdė vestuvių
+    džiaugsmą visuotinis žmonių nepritarimas, o Rusioje —
+    baisus pralaimėjimas, kurį, pasak žmonių, siuntęs dan­
+    gus, nes niekas neabejojo, kad ir dangus smerkė tai,
+    ką atmetė lyg susitarę žmonės.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186233

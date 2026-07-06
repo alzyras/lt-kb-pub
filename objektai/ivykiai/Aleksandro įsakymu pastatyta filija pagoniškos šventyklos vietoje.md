@@ -5,6 +5,18 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Aleksandro įsakymu pastatyta filija pagoniškos šventyklos vietoje
 
@@ -25,16 +37,30 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-189617"></a>
 - t-001
   global_id: t-189617
-  teiginys: 'Narbutas rašo, kad karaliaus Aleksandro įsakymu prie Kražių, Medžiokalnyje, pagoniškos šventyklos vietoje buvo pastatyta filija.'
+  teiginys: "Narbutas rašo, kad karaliaus Aleksandro įsakymu prie Kražių, Medžiokalnyje, pagoniškos šventyklos vietoje buvo pastatyta filija."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "482875-483261; hash=d0d3f9c38e09435f0ae6e664266af8a06566e47f2065c5f8fac941603efb6e53; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kražiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandro įsakymu pastatyta filija pagoniškos šventyklos vietoje: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Kražiai: mention_match, place, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandro įsakymu pastatyta filija pagoniškos šventyklos vietoje\" parinktas kaip owner_note_path. Targetas \"Kražiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
-
+    - c-172500
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Narbutas rašo, kad karaliaus Aleksandro įsakymu prie Kražių, Medžiokalnyje, pagoniškos šventyklos vietoje buvo pastatyta filija.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -46,8 +72,28 @@ Nenurodyta
     Vilkatupės (Wilkotupy) ežero ir Žurblio (Žurblis) pievos. Val­
     dant karaliui Aleksandrui^ jo įsakymu, pagoniškos šventyklos vie­
     toje buvo pastatyta filija .
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-172500
+  citata_originali: |
+    Prie Kražių miestelio, Kražantės upės
+    kairiajame krante, ant Medžiokalnio kalno, stovėjo deivės Me-
+    dziojnos šventykla . Tai tikriausiai pati seniausia šventovė Že­
+    maitijoje, Ramygalos parapijoje, tarp Nevėžio ir Agluonos upių,
+    Vilkatupės (Wilkotupy) ežero ir Žurblio (Žurblis) pievos. Val­
+    dant karaliui Aleksandrui^ jo įsakymu, pagoniškos šventyklos vie­
+    toje buvo pastatyta filija .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-189617

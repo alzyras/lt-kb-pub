@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - posakis
   - tikėjimas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # „prišlieti“
 
@@ -17,19 +29,56 @@ rties sąlygos: Jogaila ima žmona Lenkijos karalaitę Jadvygą, pažada įvesti
 
 ## Teiginiai
 
-<a id="claim-t-45869"></a>
+<a id="claim-t-45871"></a>
 - t-001
-  global_id: t-45869
-  teiginys: 'Sutartyje Jogaila pažadėjo vesti Jadvygą, įvesti Lietuvoje katalikų tikėjimą ir „prišlieti“ Lietuvą prie Lenkijos.'
+  global_id: t-45871
+  teiginys: "Sutartyje Jogaila pažadėjo vesti Jadvygą, įvesti Lietuvoje katalikų tikėjimą ir „prišlieti“ Lietuvą prie Lenkijos."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "70564-70933; hash=f0ebe7490ae2f0b45b1d6a2d4e5990c2e171f5a0f0fb1eb37c5b7ff9e2a7e789; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "„prišlieti“: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„prišlieti“\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-23661
 
 <a id="claim-t-45870"></a>
-- t-002
+- t-003
   global_id: t-45870
-  teiginys: 'Krėvos sutartyje Jogaila pažadėjo įvesti Lietuvoje katalikų tikėjimą ir „prišlieti“ Lietuvą prie Lenkijos.'
+  teiginys: "Krėvos sutartyje Jogaila pažadėjo įvesti Lietuvoje katalikų tikėjimą ir „prišlieti“ Lietuvą prie Lenkijos."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "70724-71189; hash=abbc2dccdff43f2a0f8a40839353e159a90deba8e72cbbdb7df68a8318167887; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "„prišlieti“: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„prišlieti“\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-48533
+
+<a id="claim-t-45871"></a>
+- t-001
+  global_id: t-45871
+  teiginys: "Sutartyje Jogaila pažadėjo vesti Jadvygą, įvesti Lietuvoje katalikų tikėjimą ir „prišlieti“ Lietuvą prie Lenkijos."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "70564-70933; hash=f0ebe7490ae2f0b45b1d6a2d4e5990c2e171f5a0f0fb1eb37c5b7ff9e2a7e789; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "„prišlieti“: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„prišlieti“\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-23661
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179184|Lenkai]]: Jogaila pažadėjo atgauti prarastas Lenkijos žemes, paleisti lenkų belaisvius ir „prišlieti“ Lietuvą prie Lenkijos.
 - susijęs iš [[objektai/ivykiai/Krėvos sutarties priėmimas.md#claim-t-20236|Krėvos sutarties priėmimas (sutartis)]]: Krėvos sutartimi Jogaila pažadėjo vesti Jadvygą, įvesti Lietuvoje katalikybę ir prišlieti Lietuvą prie Lenkijos.
 - susijęs iš [[objektai/ivykiai/Krėvos sutartis (1385 m.).md#claim-t-45348|Krėvos sutartis (1385 m.)]]: Krėvos sutartyje Jogaila įsipareigojo vesti Jadvygą, įvesti Lietuvoje katalikybę ir „prišlieti“ Lietuvą prie Lenkijos.
@@ -51,8 +100,9 @@ rties sąlygos: Jogaila ima žmona Lenkijos karalaitę Jadvygą, pažada įvesti
     Lietuvoje katalikų tikėjimą, atgauti prarastas Lenkijos žemes, paleisti lenkų
     belaisvius ir „prišlieti“ Lietuvą prie Lenkijos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -69,8 +119,44 @@ rties sąlygos: Jogaila ima žmona Lenkijos karalaitę Jadvygą, pažada įvesti
     Sudarydamas Krėvos sutartį, Jogaila, kaip ankstyvasis monarchas, visą
     valstybę laikė savo nuosavybe ir manė galįs elgtis su Lietuva kaip patinka.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-23661
+  citata_originali: |
+    Lenkai,
+    regis, jau turėjo parengtą sutarties dokumentą. Jogaila su šio dokumento
+    turiniu sutiko, jis buvo priimtas ir į istoriją įėjo Krėvos sutarties vardu. Su-
+    tarties sąlygos: Jogaila ima žmona Lenkijos karalaitę Jadvygą, pažada įvesti
+    Lietuvoje katalikų tikėjimą, atgauti prarastas Lenkijos žemes, paleisti lenkų
+    belaisvius ir „prišlieti“ Lietuvą prie Lenkijos.
+  citata_rodoma: "Su-\ntarties sąlygos: Jogaila ima žmona Lenkijos karalaitę Jadvygą, pažada įvesti\nLietuvoje katalikų tikėjimą, atgauti prarastas Lenkijos žemes, paleisti lenkų\nbelaisvius ir „prišlieti“ Lietuvą prie Lenkijos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-45871
+    - t-45869
+
+- id: c-48533
+  citata_originali: |
+    Su-
+    tarties sąlygos: Jogaila ima žmona Lenkijos karalaitę Jadvygą, pažada įvesti
+    Lietuvoje katalikų tikėjimą, atgauti prarastas Lenkijos žemes, paleisti lenkų
+    belaisvius ir „prišlieti“ Lietuvą prie Lenkijos. „Prišlieti“ būtina rašyti su ka-
+    butėmis: mat iki šiol ginčijamasi, kaip išversti lotynišką žodį applicare.
+    Sudarydamas Krėvos sutartį, Jogaila, kaip ankstyvasis monarchas, visą
+    valstybę laikė savo nuosavybe ir manė galįs elgtis su Lietuva kaip patinka.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-45870

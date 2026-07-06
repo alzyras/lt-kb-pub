@@ -5,6 +5,18 @@ saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # ekspansija
 
@@ -15,19 +27,39 @@ Ekspansija čia reiškia Lietuvos plėtimąsi į rytus. Lietuvos ekspansija rytu
 ## Teiginiai
 
 <a id="claim-t-70130"></a>
-- t-001
+- t-003
   global_id: t-70130
-  teiginys: 'Ekspansija čia reiškia Lietuvos plėtimąsi į rytus.'
+  teiginys: "Ekspansija čia reiškia Lietuvos plėtimąsi į rytus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "20578-20999; hash=ba53224a57c94ab445fe042873f5bad306ee665a2981457fc0be58362d0b3d9a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "ekspansija: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"ekspansija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-    - c-002
+    - c-14689
+    - c-14690
 
 <a id="claim-t-70131"></a>
-- t-002
+- t-004
   global_id: t-70131
-  teiginys: 'Lietuvos ekspansija rytuose prasidėjo dar Mindaugo valdymo laikais.'
+  teiginys: "Lietuvos ekspansija rytuose prasidėjo dar Mindaugo valdymo laikais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "20578-20999; hash=ba53224a57c94ab445fe042873f5bad306ee665a2981457fc0be58362d0b3d9a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Mindaugas (valdovas, XIII a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "ekspansija: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Mindaugas (valdovas, XIII a.): mention_match, person, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"ekspansija\" parinktas kaip owner_note_path. Targetas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-14689
 - susijęs iš [[objektai/grupes/Slavai.md#claim-t-89228|Slavai]]: Slavų ekspansija artėjo prie Lietuvos žemių.
 - susijęs iš [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.).md#claim-t-10289|Saulės mūšis (1236 m. rugsėjo 22 d.)]]: Saulės mūšis išstūmė vokiečių ekspansiją iki Dauguvos ir paskatino žiemgalių, kuršių bei saremiečių sukilimus.
 - susijęs iš [[objektai/posakiai/„senovės negriauname, naujovių neįvedame“.md#claim-t-186416|„senovės negriauname, naujovių neįvedame“]]: „Senovės nekeitimo“ tezė tėra istoriografinis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė į dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo savarankiškais keliais.
@@ -56,8 +88,9 @@ Ekspansija čia reiškia Lietuvos plėtimąsi į rytus. Lietuvos ekspansija rytu
     rytų politiškų galybių tarpą, kaip pirmaeilės reikšmės narį.
     Lietuvos ekspansija rytuose prasidėjo dar prie Mindaugo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -69,8 +102,40 @@ Ekspansija čia reiškia Lietuvos plėtimąsi į rytus. Lietuvos ekspansija rytu
     Jau jis prijungė Lietuvai trikampį plotą tarp Gardino, L. Bras­
     tos ir Naugarduko, t. y. vad. Juodąją Rusiją.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-14689
+  citata_originali: |
+    Kaip Vytenis buvo nenuilstamas kovotojas ir tolimų
+    ekspedicijų organizatorius bei vadas, taip po jo viešpatavęs jo
+    brolis Gediminas (1316 — 1341) buvo didelis politikas, tikra­
+    sis Didžiosios Lietuvos kunigaikštijos organizatorius. Jis ne
+    tik glaudžiai sujungė bei sutvirtino valstybę, bet ir įvedė ją į
+    rytų politiškų galybių tarpą, kaip pirmaeilės reikšmės narį.
+    Lietuvos ekspansija rytuose prasidėjo dar prie Mindaugo.
+  citata_rodoma: "Lietuvos ekspansija rytuose prasidėjo dar prie Mindaugo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-70130
+    - t-70131
+
+- id: c-14690
+  citata_originali: |
+    Jau jis prijungė Lietuvai trikampį plotą tarp Gardino, L. Bras­
+    tos ir Naugarduko, t. y. vad. Juodąją Rusiją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-70130

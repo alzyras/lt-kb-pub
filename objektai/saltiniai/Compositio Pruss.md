@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Compositio Pruss
 
@@ -19,10 +31,12 @@ Compositio Pruss., p. 35, parašyta: Tandem Christianissimum principem dominum C
 <a id="claim-t-88412"></a>
 - t-001
   global_id: t-88412
-  teiginys: '„Compositio Pruss“ rašoma, kad karaliaus brolis Kazimieras, vadintas Cortgello, buvo nužudytas ir paniekintas.'
+  teiginys: "„Compositio Pruss“ rašoma, kad karaliaus brolis Kazimieras, vadintas Cortgello, buvo nužudytas ir paniekintas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "273450-273787; hash=2bd896df12471fdac669abb61e021c2972b197bd2697759dc30080c2a8cafe55; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
-
+    - c-84391
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -40,8 +54,30 @@ Compositio Pruss., p. 35, parašyta: Tandem Christianissimum principem dominum C
     ria et multas subsannaciones fecerunt
     in vilipendium Regis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-84391
+  citata_originali: |
+    Viename MSS.
+    tit. Compositio Pruss., p. 35, parašyta:
+    Tandem Christianissimum principem
+    dominum Cazimirum dictum Cortgel-
+    lo, fratrem germanum domini Regis, in­
+    terfecerunt, interfectique caput a corpo­
+    re scindentes et amputantes et
+    detruncantes, cum eodem capite ludib­
+    ria et multas subsannaciones fecerunt
+    in vilipendium Regis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88412

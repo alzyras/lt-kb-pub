@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vladislovas IV
 
@@ -20,16 +32,37 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
 <a id="claim-t-87592"></a>
 - t-001
   global_id: t-87592
-  teiginys: 'Karalienė Bona ir Vladislovas IV Veliuonos kleboniją taip gausiai apdovanojo turtais, kad ji tapo reikšmingiausia Žemaitijoje.'
+  teiginys: "Karalienė Bona ir Vladislovas IV Veliuonos kleboniją taip gausiai apdovanojo turtais, kad ji tapo reikšmingiausia Žemaitijoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "224171-224626; hash=056a1a2f7ac3ddd29ae26f2555a7aace5c4839f0a79f236129557c5e26697ebb; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Veliuona: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vladislovas IV: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Veliuona: mention_match, place, gap=15"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vladislovas IV\" parinktas kaip owner_note_path. Targetas \"Veliuona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-83572
 
 <a id="claim-t-87593"></a>
 - t-002
   global_id: t-87593
-  teiginys: 'Vladislovas IV, atvykęs į Lietuvą, Rūdninkuose leisdavo laiką medžiodamas.'
+  teiginys: "Vladislovas IV, atvykęs į Lietuvą, Rūdninkuose leisdavo laiką medžiodamas."
+  semantiniai_rysiai: "Vladislovas IV keliavo į Rūdninkai (0.74)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "511762-512274; hash=1e2bd4d461212c0b093c7039afc19432bd135ffc0e1269ccd7906f35e9e9b657; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Rūdninkai: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vladislovas IV: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Rūdninkai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas rodo, kad Vladislovas IV būdavo Rūdninkuose."
   pagrindžia:
-    - c-001
+    - c-83571
 - susijęs iš [[objektai/asmenys/Bona.md#claim-t-87468|Bona]]: Karalienė Bona ir Vladislovas IV gausiai apdovanojo Veliuonos bažnyčią turtais, todėl jos klebonija tapo reikšmingiausia Žemaitijoje.
 - susijęs iš Karalių privilegijos dėl Dievo Kūno koplyčios mūrinių namų atleidimo nuo mokesčių: Dievo Kūno koplyčiai skirtus mūrinius namus nuo mokesčių atleido Žygimantas III, Vladislovas IV ir Jonas Kazimieras.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176705|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautui priskiriama pirmoji vienos Žemaitijos bažnyčios fundacija po krikščionybės įvedimo.
@@ -59,6 +92,7 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
     Kadangi čia dažnai viešėdavo karaliai ir buvo jų dvaras, Rūd­
     ninkai anais amžiais turėję būti garsi gyvenvietė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -79,11 +113,50 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
     jimas atitvertas, kai Veliuona kurį laiką buvo Žemaitijos
     pavieto centras.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83571
+  citata_originali: |
+    Kazimieras pamėgo Rūdninkus ir dažnai juose
+    buvodavo, bet jie nebuvo tokie garsūs, kaip pasidarė vėliau,
+    Žygimantų - Senojo ir Augusto - laikais, kai net Vilniuje
+    atsirado nauji vartai, Aleksandro laikais dar nežinomi, ir ga­
+    vo Rūdninkų vardą, kaip ir nuo jų vingiuojanti gatvė. Vė­
+    liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­
+    da Rūdninkuose smagiai leisdavo laiką medžiodami.
+    Kadangi čia dažnai viešėdavo karaliai ir buvo jų dvaras, Rūd­
+    ninkai anais amžiais turėję būti garsi gyvenvietė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87593
+
+- id: c-83572
+  citata_originali: |
+    Pirmoji baž­
+    nyčios fundacija priklauso Vytautui, tai viena pirmųjų baž­
+    nyčių Žemaitijoje po krikščionybės įvedimo. Vėliau karalienė
+    Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad ta
+    klebonija tapo išties reikšmingiausia Žemaitijoje. Senoji pi­
+    liavietė rėpė du kalnus ties Nemunu, sujungtus tiltu, nu­
+    tiestu per gana gilią griovą, tarp kurios polių buvo net kalė­
+    jimas atitvertas, kai Veliuona kurį laiką buvo Žemaitijos
+    pavieto centras.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87592
 
 ## Ryšiai
 - Vladislovas IV keliavo į [[objektai/vietos/Rūdninkai]]

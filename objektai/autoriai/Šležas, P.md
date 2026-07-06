@@ -17,6 +17,18 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'modernioji Lietuva'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Šležas, P
 
@@ -29,10 +41,21 @@ periodo_grupes:
 <a id="claim-t-31095"></a>
 - t-001
   global_id: t-31095
-  teiginys: 'P. Šležas 1937 m. leidinyje „Naujoji Romuva“ paskelbė darbą „Lietuvos krikštas“.'
+  teiginys: "P. Šležas 1937 m. leidinyje „Naujoji Romuva“ paskelbė darbą „Lietuvos krikštas“."
+  temporaliniai_duomenys: "įvykio data: 1937 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "962482-962827; hash=7a39e0578a75855490970fc9386d364849c0a8cfae9420db366e2232c67ff10f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šležas, P: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=61"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šležas, P\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-33217
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -45,8 +68,27 @@ periodo_grupes:
     ker, K. : Die Kirchenpolitik der Jagiellonem, Zeitschr. f. Kirchenge-
     schichte, t. 10, 1928, 357-368 p.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33217
+  citata_originali: |
+    1923. — Sužiedėlis, S. :
+    Vytautas Didysis ir Lietuvos christianizacija , TK, nr. 7-8, 1930, 442-
+    483 p. — (”) Veidu į Katalikų Bažnyčią , Židinys, nr. 4, 1937, 441-453 p.
+    — Šležas, P. : Lietuvos krikštas, NaR, nr. 16, 1937, 345-351 p. — Völ­
+    ker, K. : Die Kirchenpolitik der Jagiellonem, Zeitschr. f. Kirchenge-
+    schichte, t. 10, 1928, 357-368 p.
+  citata_rodoma: "— Šležas, P. : Lietuvos krikštas, NaR, nr. 16, 1937, 345-351 p. — Völ­\nker, K. : Die Kirchenpolitik der Jagiellonem, Zeitschr. f. Kirchenge-\nschichte, t. 10, 1928, 357-368 p."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31095

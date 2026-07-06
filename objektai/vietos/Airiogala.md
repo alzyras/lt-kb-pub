@@ -16,6 +16,18 @@ tags:
   - vyskupas
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Airiogala
 
@@ -26,26 +38,57 @@ Kaip jau matėme, 1416 metais Vytautas Varniuose pastatė katedrą ir aštuonias
 ## Teiginiai
 
 <a id="claim-t-36139"></a>
-- t-001
+- t-003
   global_id: t-36139
-  teiginys: 'Vytautas Žemaitijoje pastatė bažnyčią Airiogaloje kartu su bažnyčiomis Betygaloje, Kelmėje, Kražiuose ir kitose vietose.'
+  teiginys: "Vytautas Žemaitijoje pastatė bažnyčią Airiogaloje kartu su bažnyčiomis Betygaloje, Kelmėje, Kražiuose ir kitose vietose."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "310952-311543; hash=88182443cc961625d2a2966c1dec8c0e27657a440451226d2d2eacc0ae55846d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kražiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Airiogala: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kražiai: mention_match, place, gap=54"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Airiogala\" parinktas kaip owner_note_path. Targetas \"Kražiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-38448
 
 <a id="claim-t-36140"></a>
-- t-002
+- t-001
   global_id: t-36140
-  teiginys: '1416 m. Vytautas pastatė vieną iš aštuonių Žemaitijos parapijinių bažnyčių Airiogaloje.'
+  teiginys: "1416 m. Vytautas pastatė vieną iš aštuonių Žemaitijos parapijinių bažnyčių Airiogaloje."
+  temporaliniai_duomenys: "pastatymo data: 1416 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "284463-284887; hash=c7c9a1de2f409361f91fc43679710ec46b827f4c1e4b92e881f4175cc641a9b0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jonas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Airiogala: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Jonas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Airiogala\" parinktas kaip owner_note_path. Targetas \"Jonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-38449
 
 <a id="claim-t-36141"></a>
-- t-003
+- t-002
   global_id: t-36141
-  teiginys: 'Žemaičių sukilimas, prasidėjęs Raseinių apskrityje, atsiliepė Airiogaloje, Kražiuose, Medininkuose ir kitose Žemaitijos vietose.'
+  teiginys: "Žemaičių sukilimas, prasidėjęs Raseinių apskrityje, atsiliepė Airiogaloje, Kražiuose, Medininkuose ir kitose Žemaitijos vietose."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "287472-287884; hash=37e80ceb0e91458e1c8cd296e499a22b2ddc04b4bcd0f3843d2f06c15230885d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Medininkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Airiogala: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Medininkai: mention_match, place, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Airiogala\" parinktas kaip owner_note_path. Targetas \"Medininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-38447
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -59,6 +102,7 @@ Kaip jau matėme, 1416 metais Vytautas Varniuose pastatė katedrą ir aštuonias
     Žemaičių vietas. Daugiausia sukilėliai degino dvarus ir žudė
     jų savininkus; buvo užpuolę Klaipėdą ir sudegino Liepoją.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -80,6 +124,7 @@ Kaip jau matėme, 1416 metais Vytautas Varniuose pastatė katedrą ir aštuonias
     statytų bažnyčių tinklas apėmęs ne tik Lietuvą, bet ir kraštus,
     esančius toliau nuo Lietuvos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -97,8 +142,66 @@ Kaip jau matėme, 1416 metais Vytautas Varniuose pastatė katedrą ir aštuonias
     kimo pasiuntiniai—Lvovo vysk. Jonas ir Vilniaus vysk. Petras
     — buvo Vytauto sutikti ir su dideliu didikų būriu nulydėti į Že-
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-38447
+  citata_originali: |
+    Prie jų prisidėjo taip pat ir uolesni seno
+    lietuvių tikėjimo garbintojai, kurie buvo priešingi įvedamam ka­
+    talikų tikėjimui. Sukilimas prasidėjo Raseinių apskrityje, kur
+    buvo sudegintas Sudeikių dvaras, atsiliepė Airiogaloje, Kra­
+    žiuose, pasiekė net Medininkus, kur gyveno vyskupas, ir kitas
+    Žemaičių vietas. Daugiausia sukilėliai degino dvarus ir žudė
+    jų savininkus; buvo užpuolę Klaipėdą ir sudegino Liepoją.
+  citata_rodoma: "Sukilimas prasidėjo Raseinių apskrityje, kur\nbuvo sudegintas Sudeikių dvaras, atsiliepė Airiogaloje, Kra­\nžiuose, pasiekė net Medininkus, kur gyveno vyskupas, ir kitas\nŽemaičių vietas. Daugiausia sukilėliai degino dvarus ir žudė\njų savininkus; buvo užpuolę Klaipėdą ir sudegino Liepoją."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36141
+
+- id: c-38448
+  citata_originali: |
+    Trakuose,
+    Darsūniškyje, Dauguose, Punioje, Perlojoje, Švenčionyse, Du­
+    bingiuose, Utenoje, Eišiškiuose, Gardine, Liet. Brastoje (pirmos
+    žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko
+    Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne,
+    Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­
+    niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje,
+    Kražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Sen­
+    varniuose, Veliuonoje. Iš čia matome, kaip platus buvo Vytauto
+    statytų bažnyčių tinklas apėmęs ne tik Lietuvą, bet ir kraštus,
+    esančius toliau nuo Lietuvos.
+  citata_rodoma: "Brastoje (pirmos\nžmonos Marijos Praksėdos atminimui), Volkoviske, Visoko\nLitevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne,\nPinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­\nniuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje,\nKražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Sen­\nvarniuose, Veliuonoje. Iš čia matome, kaip platus buvo Vytauto\nstatytų bažnyčių tinklas apėmęs ne tik Lietuvą, bet ir kraštus,\nesančius toliau nuo Lietuvos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36139
+
+- id: c-38449
+  citata_originali: |
+    Ordinu, jis pats darbavosi Žemaitijoje, stiprindamas ten
+    katalikų tikėjimą. Kaip jau matėme, 1416 metais Vytautas
+    Varniuose pastatė katedrą ir aštuonias parapijines bažnyčias:
+    Viduklėje, Kaltinėnuose, Kelmėje, Raseiniuose, Luokėje, Kra­
+    žiuose, Airiogaloje, Veliuonoje. Atvykę Konstancijos susirin­
+    kimo pasiuntiniai—Lvovo vysk. Jonas ir Vilniaus vysk. Petras
+    — buvo Vytauto sutikti ir su dideliu didikų būriu nulydėti į Že-
+  citata_rodoma: "Kaip jau matėme, 1416 metais Vytautas\nVarniuose pastatė katedrą ir aštuonias parapijines bažnyčias:\nViduklėje, Kaltinėnuose, Kelmėje, Raseiniuose, Luokėje, Kra­\nžiuose, Airiogaloje, Veliuonoje. Atvykę Konstancijos susirin­\nkimo pasiuntiniai—Lvovo vysk."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36140

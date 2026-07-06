@@ -13,6 +13,18 @@ tags:
   - vieta
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Aukskalių piliakalnis
 
@@ -25,17 +37,41 @@ Dusburgietis teigia, kad nadruvoje, Auksinės ir Didlovos santakoje, esama Auksk
 <a id="claim-t-58519"></a>
 - t-001
   global_id: t-58519
-  teiginys: 'Nadruvoje, Auksinės ir Didlovos santakoje, esama Aukskalių piliakalnio (HE, p. 46; CV, t.'
+  teiginys: "Nadruvoje, Auksinės ir Didlovos santakoje, esama Aukskalių piliakalnio (HE, p. 46; CV, t."
+  temporaliniai_duomenys: "įvykio data: 1845 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "claim_quality_pipeline deterministic repair"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "216446-216922; hash=7ac6315b24fb79d574ef07455cb4b8e5dc631d3e2a853947c132c65121837bd3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Auksinė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aukskalių piliakalnis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Auksinė: mention_match, place, gap=38"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukskalių piliakalnis\" parinktas kaip owner_note_path. Targetas \"Auksinė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
-    - c-001
+    - c-59151
 
 <a id="claim-t-58520"></a>
 - t-002
   global_id: t-58520
-  teiginys: 'Aukskalių piliakalnis yra buvusių Obeliškių apylinkėse, į pietvakarius nuo Įsruties, Auksinės žemupyje.'
+  teiginys: "Aukskalių piliakalnis yra buvusių Obeliškių apylinkėse, į pietvakarius nuo Įsruties, Auksinės žemupyje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "218091-218339; hash=7c678908b95c17ca3b2b93320096a1426a2074f7ca90cb86512445c71d82c845; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Auksinė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aukskalių piliakalnis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Auksinė: mention_match, place, gap=85"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukskalių piliakalnis\" parinktas kaip owner_note_path. Targetas \"Auksinė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
-
+    - c-59152
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -49,6 +85,7 @@ Dusburgietis teigia, kad nadruvoje, Auksinės ir Didlovos santakoje, esama Auksk
     Romovupių k. Greta — plačiose apylinkėse vyraujanti, upelių ir girių apsupta Obeliškių
     kalva (joje 1845 m. pastatyta bažnyčia).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -63,8 +100,39 @@ Dusburgietis teigia, kad nadruvoje, Auksinės ir Didlovos santakoje, esama Auksk
     ir Aukskalių piliakalniu, esančios  į pietvakarius nuo Įsruties (dab. Cerniachovsko),
     Auksinės (dab. Golubaja) žemupyje (jos santakoje su Didlova, dab. Svoboda).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-59151
+  citata_originali: |
+    Nadruvoje, Auksinės ir Didlovos santakoje, esama Aukskalių piliakalnio (HE, p. 46; CV,
+    t. 32, d. 1, p. 178; d. 2, p. 309), įrengto kyšulyje (aikštelė dabar deformuota, jos dydis
+    —30x 80 m, su gynybiniu grioviu ir maždaug 3 m aukščio pylimu). Per 0,5 km žemiau
+    piliakalnio, kair. Auksinės krante, upės vingio kyšulyje, yra kalva, netoli kurios buvęs
+    Romovupių k. Greta — plačiose apylinkėse vyraujanti, upelių ir girių apsupta Obeliškių
+    kalva (joje 1845 m. pastatyta bažnyčia).
+  citata_rodoma: "Nadruvoje, Auksinės ir Didlovos santakoje, esama Aukskalių piliakalnio (HE, p. 46; CV,\nt. 32, d. 1, p. 178; d. 2, p. 309), įrengto kyšulyje (aikštelė dabar deformuota, jos dydis\n—30x 80 m, su gynybiniu grioviu ir maždaug 3 m aukščio pylimu)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58519
+
+- id: c-59152
+  citata_originali: |
+    Taigi su pagonišku kultu sietųsi buv. Obeliškių (dab. Zelencovo) apylinkės su Romovupe
+    ir Aukskalių piliakalniu, esančios  į pietvakarius nuo Įsruties (dab. Cerniachovsko),
+    Auksinės (dab. Golubaja) žemupyje (jos santakoje su Didlova, dab. Svoboda).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58520

@@ -18,6 +18,18 @@ tags:
   - posakis
 amziai:
   - 'XII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Išmintis pasistatė sau namus, ji išsikirto septynis šulus
 
@@ -28,26 +40,80 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
 ## Teiginiai
 
 <a id="claim-t-89583"></a>
-- t-001
+- t-003
   global_id: t-89583
-  teiginys: 'Petras Dusburgietis septyniais dvasiniais šulais vadino klusnumą, neturtą, skaistybę, gailestį, išpažinimą, atgailą ir artimo meilę.'
+  teiginys: "Petras Dusburgietis septyniais dvasiniais šulais vadino klusnumą, neturtą, skaistybę, gailestį, išpažinimą, atgailą ir artimo meilę."
+  temporaliniai_duomenys: "įvykio data: 1196 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia aiškiau susieti teiginį su posakyje aiškinamais septyniais šulais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "109447-110334; hash=daa637cc2b28f4afaf942a55eebf228f50de388c6224a24c95e45af376c94ac8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Celestinas III: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Išmintis pasistatė sau namus, ji išsikirto septynis šulus: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Celestinas III: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Išmintis pasistatė sau namus, ji išsikirto septynis šulus\" parinktas kaip owner_note_path. Targetas \"Celestinas III\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-85524
 
 <a id="claim-t-89584"></a>
 - t-002
   global_id: t-89584
-  teiginys: 'Petras Dusburgietis „namus“ aiškina kaip Celestino III Jeruzalėje įkurtą ir pašventintą Teutonų ordino ligoninę.'
+  teiginys: "Petras Dusburgietis „namus“ aiškina kaip Celestino III Jeruzalėje įkurtą ir pašventintą Teutonų ordino ligoninę."
+  semantiniai_rysiai: "Celestinas III pastatė Namas (0.80); Namas priklausė Teutonai (0.74); Celestinas III pastatė Jeruzalė (0.62)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "108711-109866; hash=5f89bac1ac25e9433ed7b4d5501d3475d978946bb787953997ab9fd17dc32fc1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Namas: 0.80"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Celestinas III: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Namas: llm_allowed_candidate, thing"
+  ryšio_paaiskinimas: "Tekste tiesiogiai sakoma, kad Celestinas III Jeruzalėje „pastatė namus“, o kandidatuose yra Namas."
   pagrindžia:
-    - c-003
+    - c-85527
 
 <a id="claim-t-89585"></a>
-- t-003
+- t-004
   global_id: t-89585
-  teiginys: 'Petras Dusburgietis rašo, kad Celestinas III Jeruzalėje „pastatė namus“ ir „išsikirto septynis šulus“, paskirdamas septynis kraštų komtūrus.'
+  teiginys: "Petras Dusburgietis rašo, kad Celestinas III Jeruzalėje „pastatė namus“ ir „išsikirto septynis šulus“, paskirdamas septynis kraštų komtūrus."
+  semantiniai_rysiai: "Celestinas III pastatė Namas (0.82); Namas priklausė Teutonai (0.74); Celestinas III pastatė Jeruzalė (0.62)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "108564-109446; hash=a550373758af764d9cd36ee4c82255fcfde8707a3c7554222dec81f1b75ffd71; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Namas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Celestinas III: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Namas: llm_allowed_candidate, thing"
+  ryšio_paaiskinimas: "Ištrauka tiesiogiai priskiria Celestinui III namų pastatymą."
   pagrindžia:
-    - c-002
+    - c-85526
 
+<a id="claim-t-89583"></a>
+- t-003
+  global_id: t-89583
+  teiginys: "Petras Dusburgietis septyniais dvasiniais šulais vadino klusnumą, neturtą, skaistybę, gailestį, išpažinimą, atgailą ir artimo meilę."
+  temporaliniai_duomenys: "įvykio data: 1196 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia aiškiau susieti teiginį su posakyje aiškinamais septyniais šulais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "109447-110334; hash=daa637cc2b28f4afaf942a55eebf228f50de388c6224a24c95e45af376c94ac8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Celestinas III: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Išmintis pasistatė sau namus, ji išsikirto septynis šulus: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Celestinas III: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Išmintis pasistatė sau namus, ji išsikirto septynis šulus\" parinktas kaip owner_note_path. Targetas \"Celestinas III\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  pagrindžia:
+    - c-85524
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -70,6 +136,7 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
       151 Popiežius Celestinas III (1191—1198) 1196 m. patvirtino Vokiečių namų Jeruzalėje
     ligoninės šventosios Marijos broliją.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -93,6 +160,7 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
     šulai, o kiti broliai—sienos. Šitaip jo šventenybė popiežius pasekė tuo išmintingu vyru,
     pasistačiusiu savo namą ant uolos ir pasakiusiu (Jn 6, 63): „Aš sutvirtinau jo šulus“.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -118,8 +186,81 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
     nuodėmių išpažinimas, atgaila ir gausius nusidėjimus atperkanti artimo meilė, tramdė
     šventuoju pagarbumu tuos, kurie atbuko karštam teisybės ieškojimui.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-85524
+  citata_originali: |
+    Kadangi parašyta: „Dvasia teikia gyvybę, o kūnas nieko neduoda“, todėl buvo reikalingi
+    šiam namui septyni kitoniški šulai — dvasiniai, kurių trimis, būtent: klusnumu, neturtu ir
+    skaistybe, rėmėsi visiems privaloma drausmė, o keturi kiti, būtent: gailestis nusidėjus,
+    nuodėmių išpažinimas, atgaila ir gausius nusidėjimus atperkanti artimo meilė, tramdė
+    šventuoju pagarbumu tuos, kurie atbuko karštam teisybės ieškojimui. Šitokie dvasiniai
+    šulai iškirsti išminties ranka to šventojo tikėjimo namuose, kuriuos taip pastatydino jo
+    šventenybė popiežius, kad, pasipylus ant jų godumo liūčiai ir užplūdus juos prabangos
+    potvyniui, puikybės vėjui juos užgriuvus ir įsibrovus į vidų, jie negalėtų sugriūti: mat jie
+    pastatyti ant tvirtos uolos, o toji uola — Kristus.
+
+
+
+
+
+      151 Popiežius Celestinas III (1191—1198) 1196 m. patvirtino Vokiečių namų Jeruzalėje
+    ligoninės šventosios Marijos broliją.
+  citata_rodoma: "Šitokie dvasiniai\nšulai iškirsti išminties ranka to šventojo tikėjimo namuose, kuriuos taip pastatydino jo\nšventenybė popiežius, kad, pasipylus ant jų godumo liūčiai ir užplūdus juos prabangos\npotvyniui, puikybės vėjui juos užgriuvus ir įsibrovus į vidų, jie negalėtų sugriūti: mat jie\npastatyti ant tvirtos uolos, o toji uola — Kristus.\n\n\n\n\n\n  151 Popiežius Celestinas III (1191—1198) 1196 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89583
+    - t-89586
+
+- id: c-85526
+  citata_originali: |
+    Mat
+    prie jo skuba visuotinė bažnyčia, trokšdama išgirsti ir pažinti jo mokymą, nelyginant
+    karalienė Saba, norėjusi patirti Saliamono išmintingumą. Štai šis popiežius Celestinas
+    III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios
+    naudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151  ir „išsikirto
+    septynis šulus“, tai yra paskyrė septynis brolius krašto komtūrus, arba kraštų valdytojus,
+    būtent: Livonijos, Prūsijos, Vokietijos, Austrijos, Apulijos, Romanijos  ir Armėnijos152,
+    kurie ir laiko šio ordino brolius sakytum tikras namas, remiamas šulų, taigi šio namo
+    pamatai — didysis magistras bei kapitula; krašto komtūrai, arba kraštų valdytojai,— jo
+    šulai, o kiti broliai—sienos. Šitaip jo šventenybė popiežius pasekė tuo išmintingu vyru,
+    pasistačiusiu savo namą ant uolos ir pasakiusiu (Jn 6, 63): „Aš sutvirtinau jo šulus“.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89585
+
+- id: c-85527
+  citata_originali: |
+    Štai šis popiežius Celestinas
+    III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios
+    naudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151  ir „išsikirto
+    septynis šulus“, tai yra paskyrė septynis brolius krašto komtūrus, arba kraštų valdytojus,
+    būtent: Livonijos, Prūsijos, Vokietijos, Austrijos, Apulijos, Romanijos  ir Armėnijos152,
+    kurie ir laiko šio ordino brolius sakytum tikras namas, remiamas šulų, taigi šio namo
+    pamatai — didysis magistras bei kapitula; krašto komtūrai, arba kraštų valdytojai,— jo
+    šulai, o kiti broliai—sienos. Šitaip jo šventenybė popiežius pasekė tuo išmintingu vyru,
+    pasistačiusiu savo namą ant uolos ir pasakiusiu (Jn 6, 63): „Aš sutvirtinau jo šulus“.
+    Kadangi parašyta: „Dvasia teikia gyvybę, o kūnas nieko neduoda“, todėl buvo reikalingi
+    šiam namui septyni kitoniški šulai — dvasiniai, kurių trimis, būtent: klusnumu, neturtu ir
+    skaistybe, rėmėsi visiems privaloma drausmė, o keturi kiti, būtent: gailestis nusidėjus,
+    nuodėmių išpažinimas, atgaila ir gausius nusidėjimus atperkanti artimo meilė, tramdė
+    šventuoju pagarbumu tuos, kurie atbuko karštam teisybės ieškojimui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89584

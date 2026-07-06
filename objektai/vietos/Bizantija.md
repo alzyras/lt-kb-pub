@@ -9,6 +9,18 @@ tags:
   - karalius
   - kunigaikštis
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Bizantija
 
@@ -21,19 +33,34 @@ Atkeliavo ir Vytauto giminaičiai, Mo­ zūrijos kunigaikščiai, Maskvos d. kun
 <a id="claim-t-36157"></a>
 - t-001
   global_id: t-36157
-  teiginys: 'Bizantijos imperatoriaus pasiuntiniai buvo tarp svečių, atvykusių pas Vytautą.'
+  teiginys: "Bizantijos imperatoriaus pasiuntiniai buvo tarp svečių, atvykusių pas Vytautą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "523585-523977; hash=99682e2ec5022bd9b1ad11b7a89741233c97d4c790c0a0de28df37e92f039359; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Hanza: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bizantija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Hanza: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bizantija\" parinktas kaip owner_note_path. Targetas \"Hanza\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-38458
+- susijęs iš [[objektai/ivykiai/Herulų žygis prieš Bizantiją III a. pabaigoje.md#claim-t-191031|Herulų žygis prieš Bizantiją III a. pabaigoje]]: Narbuto pasakojimu, III a. pabaigoje herulai surengė žygį prieš Bizantiją su trijų šimtų ginkluotų jūros laivų laivynu.
+- susijęs iš [[objektai/autoriai/Hesichijas.md#claim-t-191610|Hesichijas]]: Hesichijas, kaip ir vėlesni Bizantijos tyrinėtojai, vartojo formą ’Iv8ixvję.
 - susijęs iš [[objektai/autoriai/M. Liubavskij.md#claim-t-30839|M. Liubavskij]]: M. Liubavskij teigė, kad rusai siekė pasipelnyti iš lietuvių kailių, vaško ir medaus prekybos su Bizantija.
+- susijęs iš [[objektai/autoriai/Steponas Bizantietis.md#claim-t-191582|Steponas Bizantietis]]: Teodoras Narbutas nurodo, kad Steponas Bizantietis, Eustatijas, scholastai ir vėlesni Bizantijos tyrinėtojai vartojo formą ’Iv8ixvję.
 - susijęs iš [[objektai/daiktai/Bizantijos imperatorių herbas.md#claim-t-47802|Bizantijos imperatorių herbas]]: Jonas III, laikydamas save žlugusios Bizantijos paveldėtoju, pasisavino jos dvigalvį erelį ir imperatoriaus dvaro ceremonialą.
 - susijęs iš [[objektai/daiktai/Bizantijos imperatorių herbas.md#claim-t-47803|Bizantijos imperatorių herbas]]: Jonas III, laikydamas save žlugusios Bizantijos imperijos paveldėtoju, pasisavino jos dvigalvį erelį ir dvaro ceremonialą.
 - susijęs iš [[objektai/grupes/Bizantijos imperija.md#claim-t-01290|Bizantijos imperija]]: Bizantijos imperiją su skandinavais siejo nuolatinis upių susisiekimas.
 - susijęs iš [[objektai/grupes/Dregovičiai.md#claim-t-31176|Dregovičiai]]: Dregovičiai Beržūnės baseine, nors Kijevo Rusia 988 m. priėmė Bizantijos krikštą, gyveno gana žemame kultūros laipsnyje.
+- susijęs iš [[objektai/ivykiai/Herulų žygis prieš Bizantiją III a. pabaigoje.md#claim-t-191031|Herulų žygis prieš Bizantiją III a. pabaigoje]]: Narbuto pasakojimu, III a. pabaigoje herulai surengė žygį prieš Bizantiją su trijų šimtų ginkluotų jūros laivų laivynu.
 - susijęs iš [[objektai/posakiai/rex` `bazileus.md#claim-t-186408|rex` `bazileus]]: Gediminas laiškuose Vakarams vartojo titulą „rex“, o Algirdas laiškuose Bizantijos imperijai vartojo titulą „bazileus“.
 - susijęs iš [[objektai/posakiai/rex` `bazileus.md#claim-t-186409|rex` `bazileus]]: Gediminas laiškuose Vakarams vartojo titulą „rex“, o Algirdas laiškuose Bizantijos imperijai vartojo titulą „bazileus“.
 - susijęs iš [[objektai/posakiai/„lietuvių imperatoriumi“ `vasilea Letvon`.md#claim-t-186396|„lietuvių imperatoriumi“ `vasilea Letvon`]]: 1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadino „lietuvių imperatoriumi“ ir taip prilygino save Bizantijos imperatoriui.
 - susijęs iš Algirdo laiškas Konstantinopolio patriarchui (1371 m.): Algirdas laiškuose Bizantijos imperijai vadinosi bazileus, o Gediminas laiškuose Vakarams vartojo titulą rex.
 - susijęs iš Algirdo laiškas Konstantinopolio patriarchui (1371 m.): Algirdas laiškuose Bizantijos imperijai vadinosi bazileus, o Gediminas laiškuose Vakarams vartojo titulą rex.
+- susijęs iš Hesichijaus leidimas: Teodoras Narbutas nurodė, kad Hesichijas, kaip ir vėlesni Bizantijos tyrinėtojai, vartojo formą ’Iv8ixvję ginče dėl skaitymo Indi ar Sindi.
 - susijęs iš [[objektai/zodynas/aukščiausiasis karalius nesisteminė karalystė valdovo titulavimo terminai.md#claim-t-104181|aukščiausiasis karalius nesisteminė karalystė valdovo titulavimo terminai]]: Lietuvos valdovai vadinosi karaliais: Gediminas laiškuose Vakarams vartojo titulą rex, o Algirdas laiškuose Bizantijai - bazileus.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176311|Algirdas (Lietuvos valdovas)]]: Remdamas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmenybę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą, tačiau Kremliaus užimti nepajėgė.
 - susijęs iš [[objektai/asmenys/Dmitrijus Ivanovičius.md#claim-t-183734|Dmitrijus Ivanovičius]]: Maskvos didysis kunigaikštis Dmitrijus Ivanovičius, siekdamas plėsti savo valdžią ir remiamas Ordos, puolė Tverę.
@@ -41,7 +68,10 @@ Atkeliavo ir Vytauto giminaičiai, Mo­ zūrijos kunigaikščiai, Maskvos d. kun
 - susijęs iš [[objektai/asmenys/Timūras (Tamerlanas).md#claim-t-40469|Timūras (Tamerlanas)]]: Timūro mongolų kariuomenė XV a. pradžioje pristabdė Osmanų plėtrą.
 - susijęs iš [[objektai/asmenys/Zigmantas I.md#claim-t-114075|Zigmantas I]]: 1429 m. sausio 9–29 d. Lucko suvažiavime Zigmantas I susitiko su Vytautu ir Jogaila aptarti Vidurio ir Rytų Europos politikos.
 - susijęs iš [[objektai/asmenys/Zigmantas I.md#claim-t-114076|Zigmantas I]]: Zigmantas I rėmė Vytauto vainikavimo planą, kuriuo siekta regione sukurti atsvarą Lenkijai.
+- susijęs iš [[objektai/autoriai/Eustatijas.md#claim-t-191595|Eustatijas]]: Narbutas nurodo, kad Eustatijas, kaip ir Steponas bei senovės scholastai, vartojo formą „’Iv8ixvję“.
 - susijęs iš [[objektai/daiktai/Vytauto ir Julijonos karūnos.md#claim-t-19614|Vytauto ir Julijonos karūnos]]: Lucko suvažiavimas į Lietuvos istoriją įėjo dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I ir Vokiečių ordinas.
+- susijęs iš [[objektai/grupes/Boristeniečiai.md#claim-t-192948|Boristeniečiai]]: Narbuto svarstymu, Ptolemėjo geninai galėjo būti graikai boristeniečiai, kilę iš Kijanėjos, arba Chianėjos, krašto.
+- susijęs iš [[objektai/grupes/Geninai.md#claim-t-192981|Geninai]]: Narbutas mini nuomonę, kad Ptolemėjo geninai iš tikrųjų galėję būti chueninai, gyvenę dabartinio Kijevo apylinkėse.
 - susijęs iš [[objektai/grupes/Krivičiai.md#claim-t-31222|Krivičiai]]: Zenono Ivinskio vertinimu, krivičiai Dniepro ir Dauguvos aukštupiuose gyveno gana žemame kultūros laipsnyje.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179008|Kryžiuočių ordinas]]: 1429 m. Lucko suvažiavime dalyvavo ir Vokiečių ordino pasiuntiniai.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179067|Kryžiuočių ordinas]]: Lucko suvažiavime Vokiečių ordinas rėmė Vytauto vainikavimo planą kaip atsvarą Lenkijai regione.
@@ -71,6 +101,7 @@ Atkeliavo ir Vytauto giminaičiai, Mo­ zūrijos kunigaikščiai, Maskvos d. kun
 - susijęs iš K. Chodynicki Legenda o męczeństwie czternastu Franciszkanów w Wilnie: K. Chodynickio „Legenda o męczeństwie czternastu Franciszkanów w Wilnie“ 1927 m. paskelbta AW IV tome, 53–78 puslapiuose.
 - susijęs iš Melno taika (1422 m.): Po Melno taikos santykiai su Lenkija tapo svarbiausia politine Lietuvos problema, todėl Vytauto vainikavimo projektas įgijo tarptautinę reikšmę.
 - susijęs iš Melno taika (1422 m.): Po Melno taikos santykiai su Lenkija tapo svarbiausia politine problema, todėl Vytauto vainikavimo projektas įgijo tarptautinę reikšmę.
+- susijęs iš Dakija: Narbutas iš Bizantijos rašytojų užuominų sprendė, kad susivienijusios lietuvių gentys gyveno Dakijoje ir vertėsi žemdirbyste.
 - susijęs iš Kazanė: Į Vytauto suvažiavimą atvyko ir Kazanės pasiuntiniai.
 - susijęs iš Luckas: 1429 m. sausio 9–29 d. Lucko suvažiavime Vytautas ir Jogaila susitiko su Zigmantu I aptarti Vidurio ir Rytų Europos politikos problemų.
 - susijęs iš Maskva: Pas Vytautą atvyko Maskvos didysis kunigaikštis, Tverės, Riazanės, Naugardo ir Pskovo kunigaikščiai.
@@ -99,11 +130,32 @@ Atkeliavo ir Vytauto giminaičiai, Mo­ zūrijos kunigaikščiai, Maskvos d. kun
     niai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­
     džiai priimti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
+## Citatos
+
+- id: c-38458
+  citata_originali: |
+    Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
+    čiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­
+    zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­
+    niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­
+    riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
+    niai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­
+    džiai priimti.
+  citata_rodoma: "Atkeliavo ir Vytauto giminaičiai, Mo­\nzūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­\nniaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­\nriaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­\nniai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­\ndžiai priimti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36157
+
 ## Ryšiai
+- Puolė Bizantiją: [[objektai/grupes/Herulai]]
 - Prekiavo su: [[objektai/grupes/Skandinavai]]

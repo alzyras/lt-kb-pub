@@ -15,6 +15,18 @@ tags:
   - karalius
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Antspaudai
 
@@ -47,23 +59,47 @@ Nenurodyta
 <a id="claim-t-86979"></a>
 - t-001
   global_id: t-86979
-  teiginys: 'Horodlės privilegija turėjo Žygimanto Augusto patvirtinimą su dviem antspaudais.'
+  teiginys: "Horodlės privilegija turėjo Žygimanto Augusto patvirtinimą su dviem antspaudais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "331723-332001; hash=2f864c1998d627295387634076c5c5dba67a322379aabcd0fd0d3cff82d96327; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Augustas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antspaudai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antspaudai\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-82959
 
 <a id="claim-t-86981"></a>
 - t-002
   global_id: t-86981
-  teiginys: 'Komisarai prisiekusių liudininkų žinias apie Pabaisko bažnyčios įkūrimą aprašė ir patvirtino savo antspaudais.'
+  teiginys: "Komisarai prisiekusių liudininkų žinias apie Pabaisko bažnyčios įkūrimą aprašė ir patvirtino savo antspaudais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "492187-492842; hash=19f7f6bc2ea466b5688169379d644f784052a76dcf06b360739057ee12a2ebcc; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
+    - c-82958
 
 <a id="claim-t-86982"></a>
-- t-003
+- t-004
   global_id: t-86982
-  teiginys: 'Vilniaus magistratas viešiesiems reikalams turėjo naudoti senąjį miesto antspaudą su šventojo Kristoforo atvaizdu ant raudono lako.'
+  teiginys: "Vilniaus magistratas viešiesiems reikalams turėjo naudoti senąjį miesto antspaudą su šventojo Kristoforo atvaizdu ant raudono lako."
+  semantiniai_rysiai: "Antspaudai priklausė Vilniaus magistratas (0.72)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "558639-560534; hash=98c325922d2800eac6807d1a4b13ef2761d2917df30f9d716d8e1c10e50e3d03; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Vilniaus magistratas: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Antspaudai: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Vilniaus magistratas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata nurodo, kad viešiesiems reikalams Vilniaus magistratas turėjo naudoti miesto antspaudą, tad ryšys su magistratu tiesiogiai pagrįstas."
   pagrindžia:
-    - c-003
+    - c-82960
 - susijęs iš [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius.md#claim-t-101649|Jonas Jeronimaitis Chodkevičius]]: Jonas Jeronimaitis Chodkevičius apgynė LDK antspaudus ir nukėlė konkrečių Lenkijos bei Lietuvos ryšių ar unijos klausimų sprendimą.
 - susijęs iš [[objektai/asmenys/Mickus Pocaitis.md#claim-t-190234|Mickus Pocaitis]]: Narbutas IV lentelėje mini Mickaus Pocaičio antspaudą su žalčiais, datuojamą maždaug XV amžiaus viduriu.
 - susijęs iš [[objektai/asmenys/Pašičius.md#claim-t-190236|Pašičius]]: Narbutas Pašičių mini tarp asmenų, kurių antspaudai su žalčiais pateikti IV lentelės 18-ajame piešinyje, ir nurodo 1510 metus.
@@ -146,6 +182,7 @@ Nenurodyta
     Valentinui iš Pilzno, naująją privilegiją amžiams suteikti nu­
     sprendėme ir suteikiame.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -165,6 +202,7 @@ Nenurodyta
     tos privilegijos Žygimanto Augusto
     patvirtinimas su dviem antspaudais.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -220,11 +258,105 @@ Nenurodyta
     sų-palikuonių sutikimo ar kitos
     naujos ar atskiros privilegijos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-82958
+  citata_originali: |
+    išsiaiškinti apie pelną ir
+    pajamas bei visus dalykus, susijusius su Pabaisko bažny­
+    čios įkūrimu ir pastatymu, ir mus apie tai geriau informuo­
+    ti. Tada jie, tai atlikę, kaip reikėjo, rūpestingai ir kruopščiai,
+    visa, ką iš prisiekusių liudininkų apie šios bažnyčios įkūri­
+    mą išgirdo, mums aprašė ir savo antspaudais patvirtino. Tai­
+    gi mes, gerai informuoti apie fundaciją ir lėšas, kuriomis mū­
+    sų protėviai bažnyčią aprūpino, remdamiesi tikrais ir
+    priesaika patvirtintais įrodymais, kuriuos iš mūsų komisa­
+    rų sužinojome, dabartiniam bažnyčios klebonui, minėtam
+    Valentinui iš Pilzno, naująją privilegiją amžiams suteikti nu­
+    sprendėme ir suteikiame.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86981
+
+- id: c-82959
+  citata_originali: |
+    Unia v-a
+    Litewska z Koroną. Szuflada I. A. 1413.
+    Przywilej łaciński Stanów Koronnych,
+    przyjęcia do herbów Stanów W . X-twa
+    Lit. sprawiony w Horodle, u niego piec­
+    zęć 46. datt. Ida mens 8-bris. Buvo ir
+    tos privilegijos Žygimanto Augusto
+    patvirtinimas su dviem antspaudais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86979
+
+- id: c-82960
+  citata_originali: |
+    Tas pats Gardino seimas Vilniaus miesto
+    gyventojams buvo labai įsimintinas dėl suteiktos privilegi­
+    jos, kurios galia kiekvienas miestietis, nepriekaištingai ėjęs
+    vaito, tarybos nario ar šuolininko pareigas Vilniaus magist­
+    rate, su palikuonimis buvo visiems laikams pakeltas į bajo­
+    rų luomą ir įgijo teisę į visus pasaulietinius ir dvasinius ran­
+    gus. Tokiems miestiečiams galėjo būti suteikti bajorų herbai,
+    bet tik sutikus nors vienai pastariesiems priklausančiai šei­
+    mai, o viešiesiems reikalams magistratas negalėjo naudoti
+    kito antspaudo, tik tą, kurį miestas nuo seno turėjo - su
+    šventojo Kristoforo atvaizdu, ant raudono lako, kaip buvo
+    įprasta pirmuosiuose Karalystės miestuose39. Labdaringas
+    39
+    Licebitque, praedicto Magistratui et
+    eorum Liberis Nobilium stemmata seu
+    insignia, si velint sibi assumere, de con­
+    sensu tamen et voluntate alicujus fami­
+    liae ejus generis, quod ea arma gerit; qu­
+    ae illi assumere optaverint, quibus
+    insignibus in omnibus actis suis, tam
+    in annulis signatoriis, quam in sculp­
+    turis, ac picturis privatis uti poterint
+    non requisito deinceps vėl nostro, vėl
+    successorum Nostrorum consensu, aut
+    alio privilegio novo et speciali: In pub­
+    licis vero Officii civilis negotiis et actis,
+    utentur sigillo, Civitatis usitato, Sanc­
+    ti Christophori, imaginem continente,
+    caera vero rubea, more primariarum in
+    Regno Poloniae civitatum [Tegu bus
+    leista minėtam magistratui ir jo pi­
+    liečiams priimti bajorišką kilmę ir
+    skiriamuosius ženklus, jei norėtų
+    prisiimti, tačiau gavus sutikimą ir
+    valią tos giminės, kurios nors šeimy­
+    nos, kad leistų tuos atributus turėti,
+    kuriuos anie pageidavo priimti, tais
+    ženklais visuose savo veiksmuose,
+    tiek žyminiams antspaudams, tiek
+    skulptūroms ir privatiems paveiks­
+    lams, kaip tinkami, gali naudoti, ne­
+    klausdami po to nei mūsų, nei mū­
+    sų-palikuonių sutikimo ar kitos
+    naujos ar atskiros privilegijos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86982
 
 ## Ryšiai
 - Antspaudai priklausė [[objektai/grupes/Bajorai]], [[objektai/grupes/Vilniaus magistratas]]

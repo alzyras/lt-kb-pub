@@ -15,6 +15,18 @@ tags:
   - saltinis
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Zweck A. Ueber die Entstehung des Flusslaufes der Deime (Mit einer Skizze über die Abmündung der Deime bei Tapiau)
 
@@ -27,10 +39,15 @@ Dusburgietis teigia, kad zweck A.
 <a id="claim-t-61389"></a>
 - t-001
   global_id: t-61389
-  teiginys: 'A. Zwecko straipsnis apie Deimės upės vagos susidarymą publikuotas 1896 m. AM 33 tome.'
+  teiginys: "A. Zwecko straipsnis apie Deimės upės vagos susidarymą publikuotas 1896 m. AM 33 tome."
+  temporaliniai_duomenys: "įvykio data: 1896 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pateikia straipsnio temą, metus ir leidinį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "806197-806343; hash=52851e44eb58b9180f9f41e90bdd5cc6fc1ad8975106a948de4830441a29b7b5; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
-
+    - c-62021
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -40,8 +57,22 @@ Dusburgietis teigia, kad zweck A.
     Zweck A. Ueber die Entstehung des Flusslaufes der Deime (Mit einer Skizze über die
     Abmündung der Deime bei Tapiau).— AM, 1896, Bd. 33, S. 110—136.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-62021
+  citata_originali: |
+    Zweck A. Ueber die Entstehung des Flusslaufes der Deime (Mit einer Skizze über die
+    Abmündung der Deime bei Tapiau).— AM, 1896, Bd. 33, S. 110—136.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-61389

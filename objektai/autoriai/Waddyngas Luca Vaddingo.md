@@ -18,6 +18,18 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Waddyngas Luca Vaddingo
 
@@ -30,17 +42,40 @@ periodo_grupes:
 <a id="claim-t-88049"></a>
 - t-001
   global_id: t-88049
-  teiginys: 'Waddyngas ir Antoni Melissanius de Macro pasakojo, kad 1333 m. Petras Goštautas į Vilnių atkvietė keturiolika pranciškonų.'
+  teiginys: "Waddyngas ir Antoni Melissanius de Macro pasakojo, kad 1333 m. Petras Goštautas į Vilnių atkvietė keturiolika pranciškonų."
+  semantiniai_rysiai: "Petras Goštautas keliavo į Vilnius (0.82); Pranciškonų ordinas keliavo į Vilnius (0.77)"
+  temporaliniai_duomenys: "įvykio data: 1333 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Ilgas OCR fragmentas sutrumpintas iki citata pagrįsto fakto apie Waddyngo pasakojimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "83476-84007; hash=97c440c8ed9ceb4859ec10f01a7549b082422ba8336fa03675ae75bc8ab1692c; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Petras Goštautas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo, kad Petras Goštautas atkvietė vienuolius į Vilnių."
   pagrindžia:
-    - c-001
+    - c-84028
 
 <a id="claim-t-88050"></a>
 - t-002
   global_id: t-88050
-  teiginys: 'Balińskis Waddyngo pasakojimą laikė painiu ir nepatikimu dėl neaiškių šaltinių.'
+  teiginys: "Balińskis Waddyngo pasakojimą laikė painiu ir nepatikimu dėl neaiškių šaltinių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "84090-84682; hash=2b373caec4e4befa3a40a1d5e155dc089306f54af1ccd496748ec115539c2b9f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pranciškonų ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Waddyngas Luca Vaddingo: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Pranciškonų ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Waddyngas Luca Vaddingo\" parinktas kaip owner_note_path. Targetas \"Pranciškonų ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
-
+    - c-84029
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -65,6 +100,7 @@ periodo_grupes:
     žiaus bažnyčios, sodyboje, vėliau ta­
     pusioje Vyskupo rūmais.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -94,8 +130,65 @@ periodo_grupes:
     a S. Francisco institutorum auctore A. R.
     P .
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-84028
+  citata_originali: |
+    Šios
+    19
+    Waddyngas,  Mažesniųjų brolių
+    ordino istorijos autorius, ir jo komen­
+    tatorius Antoni Melissanius
+    de Macro pasakoja, kad dar 1333
+    metais (prieš Gedimino mirtį) Pet­
+    ras Goštautas, būdamas Podolės vai­
+    vada, iš Rusios ir Podolės atkvietęs
+    į Vilnių keturiolika Šv. Pranciškaus
+    regulos vienuolių vietoje anksčiau,
+    1325 metais, atvykusių su popie­
+    žiaus pasiuntinybe ir jau mirusių ar
+    įvairiais laikais pagonių nukankin­
+    tų, ir apgyvendino juos prie Šv. Kry­
+    žiaus bažnyčios, sodyboje, vėliau ta­
+    pusioje Vyskupo rūmais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88049
+
+- id: c-84029
+  citata_originali: |
+    To­
+    liau rašoma, jog, remiantis Baroni-
+    j a u s nuomone, 36 kiti pranciško­
+    nai 1341 metų gegužės 24 dieną bu­
+    vę Vilniuje nužudyti, tarp jų ir pats
+    Petras Goštautas, kuris, atsisakęs
+    vaivadystės, esą apsivilkęs pranciš­
+    kono abitą, o vėliau netgi tapęs pir­
+    muoju Vilniaus vyskupu. Bet dėl
+    painiavos, kurios pilna Waddyngo
+    pasakojime, ir dėl to, kad jo remtasi
+    nežinia kokiais šaltiniais, negalima
+    lengvai patikėti ir tuo Goštauto vys­
+    kupavimu, ir tokiu dideliu nukan­
+    kintų pranciškonų skaičiumi. Žr.
+    Annales Minorum seu trium ordinum
+    a S. Francisco institutorum auctore A. R.
+    P .
+  citata_rodoma: "To­\nliau rašoma, jog, remiantis Baroni- \nj a u s nuomone, 36 kiti pranciško­\nnai 1341 metų gegužės 24 dieną bu­\nvę Vilniuje nužudyti, tarp jų ir pats \nPetras Goštautas, kuris, atsisakęs \nvaivadystės, esą apsivilkęs pranciš­\nkono abitą, o vėliau netgi tapęs pir­\nmuoju Vilniaus vyskupu. Bet dėl \npainiavos, kurios pilna Waddyngo \npasakojime, ir dėl to, kad jo remtasi \nnežinia kokiais šaltiniais, negalima\nlengvai patikėti ir tuo Goštauto vys­\nkupavimu, ir tokiu dideliu nukan­\nkintų pranciškonų skaičiumi. Žr."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88050

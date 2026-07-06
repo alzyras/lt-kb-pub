@@ -9,6 +9,18 @@ tags:
   - bajorija
   - karas
   - sąvoka
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # vergai
 
@@ -21,16 +33,25 @@ Tai buvo vergai.
 <a id="claim-t-03214"></a>
 - t-001
   global_id: t-03214
-  teiginys: 'Vergais paprastai būdavo karo belaisviai ir jų šeimos, neturėję laisvės ir privalėję dirbti bajorui.'
+  teiginys: "Vergais paprastai būdavo karo belaisviai ir jų šeimos, neturėję laisvės ir privalėję dirbti bajorui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "81003-81149; hash=9dc1ccbc7acd947a22a8c9865607c81c498cdc08f5339a4bce8f7478968c83e3; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
+    - c-166386
 
 <a id="claim-t-182989"></a>
 - t-002
   global_id: t-182989
-  teiginys: 'Vergais paprastai būdavo karo belaisviai ir jų šeimos, neturėję laisvės ir dirbę bajoro ar kunigaikščio ūkyje.'
+  teiginys: "Vergais paprastai būdavo karo belaisviai ir jų šeimos, neturėję laisvės ir dirbę bajoro ar kunigaikščio ūkyje."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "81003-81149; hash=9dc1ccbc7acd947a22a8c9865607c81c498cdc08f5339a4bce8f7478968c83e3; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
+    - c-166386
 - susijęs iš [[objektai/ivykiai/Įtvirtinto malūno prie Baigos pastatymas ir sunaikinimas.md#claim-t-91921|Įtvirtinto malūno prie Baigos pastatymas ir sunaikinimas]]: Prie Baigos broliai pastatė prie upės į pilį panašiai sutvirtintą malūną, kurį prūsai netrukus užėmė, gynėjus išžudė ir sudegino.
 - susijęs iš Valstiečių «tarnyba» - feodalinio prievolių vienetas iki valakų įvedimo Lietuvoje: Studija „Valstiečių tarnyba - feodalinio prievolių vienetas iki valakų įvedimo Lietuvoje“ paskelbta 1957 m. AkMD 3 tome, p. 93-103.
 - susijęs iš Valstiečių «veldamai» Lietuvoje XV-XVI a: „Valstiečiai «veldamai» Lietuvoje XV-XVI a.“ išspausdintas AkMD 4 tome 1958 m., p. 113-126.
@@ -50,9 +71,27 @@ Tai buvo vergai.
 
     ar kunigaikščio ūky.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+
+## Citatos
+
+- id: c-166386
+  citata_originali: |
+    Tai buvo vergai. Vergais paprastai būdavo karo belaisviai
+    ir jų šeimos. Jie neturėjo jokios laisvės ir turėjo dirbti bajoro
+
+
+    ar kunigaikščio ūky.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-03214
+    - t-182989

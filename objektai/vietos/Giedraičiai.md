@@ -18,6 +18,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Giedraičiai
 
@@ -27,33 +39,103 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
 
 ## Teiginiai
 
-<a id="claim-t-177099"></a>
+<a id="claim-t-177103"></a>
 - t-001
-  global_id: t-177099
-  teiginys: '1920 m. lapkritį Lietuvos kariuomenė sustabdė lenkų dalinius mūšiuose prie Širvintų ir Giedraičių.'
+  global_id: t-177103
+  teiginys: "1920 m. lapkritį Lietuvos kariuomenė sustabdė lenkų dalinius mūšiuose prie Širvintų ir Giedraičių."
+  semantiniai_rysiai: "Lietuvos kariuomenė kariavo prieš Lenkai (0.88)"
+  temporaliniai_duomenys: "įvykio data: 1920 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir atitinka citatoje nurodytą faktą apie Giedraičius."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "286224-286880; hash=187a65544a50a53d2e0f784d91cd7004b6ff24051ad13863604ec1c6c665df78; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Lenkai: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lenkai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Mūšiuose Lietuvos kariuomenė veikė prieš lenkų dalinius."
   pagrindžia:
-    - c-002
+    - c-161005
 
 <a id="claim-t-177101"></a>
-- t-002
+- t-006
   global_id: t-177101
-  teiginys: 'Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraičius, Želvą, Dubingius, Vidiškį.'
+  teiginys: "Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraičius, Želvą, Dubingius, Vidiškį."
+  semantiniai_rysiai: "Lenkai užėmė Giedraičiai (0.94); Lenkai užėmė Vidiškis (0.91); Lenkai kariavo prieš Lietuviai (0.86)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "858454-858759; hash=4e54d15a51ac7339ab8e7619400b758243c4f77fa7eadf1dd5b919bb4ae4b8b7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Giedraičiai: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Giedraičiai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad lenkai užėmė Giedraičius."
   pagrindžia:
-    - c-003
+    - c-161006
 
 <a id="claim-t-177102"></a>
-- t-003
+- t-005
   global_id: t-177102
-  teiginys: 'Viena svarbiausių lenkų puolimo krypčių buvo Ukmergės link pro Giedraičius su galutiniu tikslu pulti Kauną iš šiaurės rytų.'
+  teiginys: "Viena svarbiausių lenkų puolimo krypčių buvo Ukmergės link pro Giedraičius su galutiniu tikslu pulti Kauną iš šiaurės rytų."
+  semantiniai_rysiai: "Želigovskininkai užėmė Vilnius (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1920 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "858188-858528; hash=612de018014c6b1fed8936e1ab33e9c317a9cb35e911388938cff63ace536342; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Vilnius: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Želigovskininkai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad želigovskininkai užėmė Vilnių."
   pagrindžia:
-    - c-001
+    - c-161004
+
+<a id="claim-t-177103"></a>
+- t-001
+  global_id: t-177103
+  teiginys: "1920 m. lapkritį Lietuvos kariuomenė sustabdė lenkų dalinius mūšiuose prie Širvintų ir Giedraičių."
+  semantiniai_rysiai: "Lietuvos kariuomenė kariavo prieš Lenkai (0.88)"
+  temporaliniai_duomenys: "įvykio data: 1920 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir atitinka citatoje nurodytą faktą apie Giedraičius."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "286224-286880; hash=187a65544a50a53d2e0f784d91cd7004b6ff24051ad13863604ec1c6c665df78; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Lenkai: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lenkai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Mūšiuose Lietuvos kariuomenė veikė prieš lenkų dalinius."
+  pagrindžia:
+    - c-161005
 
 <a id="claim-t-177104"></a>
-- t-005
+- t-004
   global_id: t-177104
-  teiginys: 'Adamkavičiaus vadovaujama 1-oji divizija spalio 29-31 d. sėkmingai kontraatakavo ir išvadavo Giedraičius.'
+  teiginys: "Adamkavičiaus vadovaujama 1-oji divizija spalio 29-31 d. sėkmingai kontraatakavo ir išvadavo Giedraičius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "840016-840391; hash=1ea04f627b39923ee0d5c9ef689d3ae006207b9609011f109f972d24321647c9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Giedraičiai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Giedraičiai\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-161007
 - susijęs iš [[objektai/grupes/9-asis pėstininkų pulkas.md#claim-t-40831|9-asis pėstininkų pulkas]]: Spalio 30 d. trys lietuvių batalionai iš 2-ojo, 7-ojo ir 9-ojo pėstininkų pulkų pradėjo kontrpuolimą ir po permainingų ir nemažai nuostolių pareikalavusių kovų atsiėmė po paskutinio lenkų puolimo prarastas Lietuvos žemes.
 - susijęs iš [[objektai/daiktai/Artilerija.md#claim-t-187516|Artilerija]]: Lietuvių artilerija 1920 m. kovose prie Giedraičių veikė prieš lenkų dalinius.
 - susijęs iš [[objektai/grupes/J. Baranovskio brigada.md#claim-t-40892|J. Baranovskio brigada]]: Lapkričio 17 d. gen. J. Baranovskio brigada atakavo 2-ojo pėstininkų pulko pozicijas ir privertė lietuvius pasitraukti iš Giedraičių.
@@ -104,8 +186,9 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
     atsilaikyti prieš gausių lenkų pajėgų puo-
     lima.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -127,6 +210,7 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
     tuvą buferine valstybe, kuri drauge su Latvija, Estija, Suomija, Lenkijos
     vadovaujama, sudarytų patikimą saugumo kordoną nuo bolševizmo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -147,6 +231,7 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
     limo tikslą, Lietuvai būtų iškilęs pavojus
     prarasti nepriklausomybę.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -171,11 +256,104 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
     Musninkų-Širvintų- Giedraičių
     Dubingių-Švenčionėlių linijoje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
+## Citatos
+
+- id: c-161004
+  citata_originali: |
+    LIETUVOS
+    RESPUBLIKA
+
+    Kautynių priešistorė
+
+    1920 m. spalio 9 d. želigovskininkai užė-
+    mė Vilnių ir ėmė veržtis toliau į Lietuvos
+    teritoriją. Viena svarbiausių lenkų puo-
+    limo krypčių buvo Ukmergės link pro
+    Giedraičius su galutiniu tikslu pulti Kauną
+    iš šiaurės rytų. Lietuvių pajėgos negalėjo
+    atsilaikyti prieš gausių lenkų pajėgų puo-
+    lima.
+  citata_rodoma: "LIETUVOS\nRESPUBLIKA\n\nKautynių priešistorė\n\n1920 m. spalio 9 d. želigovskininkai užė-\nmė Vilnių ir ėmė veržtis toliau į Lietuvos\nteritoriją. Viena svarbiausių lenkų puo-\nlimo krypčių buvo Ukmergės link pro\nGiedraičius su galutiniu tikslu pulti Kauną\niš šiaurės rytų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177102
+
+- id: c-161005
+  citata_originali: |
+    L. Želigovskio akciją sveikino minios Vilniaus lenkų, Tautų
+    Sąjunga pasirodė bejėgė, o Lietuvai dabar jau reikėjo sustabdyti tolesnį
+    želigovskininkų judėjimą į Lietuvos teritoriją. Persigrupavusi Lietuvos
+    kariuomenė tik lapkričio viduryje sustabdė lenkų dalinius mūšiuose prie
+    Širvintų ir Giedraičių.
+    Lietuvių artilerija prieš lenkų dalinius
+    1920 m. kovose prie Giedraičių
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    145
+    Sąjungininkų architektai, konstravę pokario tvarką, įsivaizdavo Lie-
+    tuvą buferine valstybe, kuri drauge su Latvija, Estija, Suomija, Lenkijos
+    vadovaujama, sudarytų patikimą saugumo kordoną nuo bolševizmo.
+  citata_rodoma: "Lietuvių artilerija prieš lenkų dalinius  \n1920 m. kovose prie Giedraičių\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n145\nSąjungininkų architektai, konstravę pokario tvarką, įsivaizdavo Lie-\ntuvą buferine valstybe, kuri drauge su Latvija, Estija, Suomija, Lenkijos \nvadovaujama, sudarytų patikimą saugumo kordoną nuo bolševizmo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177103
+    - t-177099
+
+- id: c-161006
+  citata_originali: |
+    Lietuvių pajėgos negalėjo
+    atsilaikyti prieš gausių lenkų pajėgų puo-
+    lima. Spalio 26-27 d. lenkai apėjo kai-
+
+    rįjį lietuvių sparną ir užėmė Giedraičius,
+    Želvą, Dubingius, Vidiškį. Susidarė pavo-
+    jinga padėtis, lenkams pasiekus savo puo-
+    limo tikslą, Lietuvai būtų iškilęs pavojus
+    prarasti nepriklausomybę.
+  citata_rodoma: "Spalio 26-27 d. lenkai apėjo kai-\n\nrįjį lietuvių sparną ir užėmė Giedraičius,\nŽelvą, Dubingius, Vidiškį. Susidarė pavo-\njinga padėtis, lenkams pasiekus savo puo-\nlimo tikslą, Lietuvai būtų iškilęs pavojus\nprarasti nepriklausomybę."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177101
+
+- id: c-161007
+  citata_originali: |
+    Šis ženklas atspindėjo siekį
+    atkurti didžiąją Lenkiją
+    inkorporuojant į ją visą
+    Lietuvos teritoriją
+
+    jau E. Adamkavičiaus vado-
+    vaujama 1-oji divizija spalio
+    29-31 d. sėkmingai kontraat-
+    akavo ir išvadavo Giedraičius.
+    Želigovskio ketinimas greitai pa-
+    siekti pergalę buvo sužlugdytas.
+    Frontas nusistovėjo Kernavės-
+    Musninkų-Širvintų- Giedraičių
+    Dubingių-Švenčionėlių linijoje.
+  citata_rodoma: "Šis ženklas atspindėjo siekį\natkurti didžiąją Lenkiją\ninkorporuojant į ją visą\nLietuvos teritoriją\n\njau E. Adamkavičiaus vado-\nvaujama 1-oji divizija spalio\n29-31 d. sėkmingai kontraat-\nakavo ir išvadavo Giedraičius."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177104
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]

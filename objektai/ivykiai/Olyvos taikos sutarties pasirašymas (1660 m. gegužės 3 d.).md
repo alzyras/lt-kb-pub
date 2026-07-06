@@ -16,6 +16,18 @@ tags:
   - sutartis
 amziai:
   - 'XVII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Olyvos taikos sutarties pasirašymas (1660 m. gegužės 3 d.)
 
@@ -44,10 +56,22 @@ Nenurodyta
 <a id="claim-t-41333"></a>
 - t-001
   global_id: t-41333
-  teiginys: '1660 m. Olyvos sutartimi buvo patvirtinta Prūsijos nepriklausomybė nuo Lenkijos.'
+  teiginys: "1660 m. Olyvos sutartimi buvo patvirtinta Prūsijos nepriklausomybė nuo Lenkijos."
+  temporaliniai_duomenys: "įvykio data: 1657 m.; įvykio data: 1660 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako sutarties patvirtintą padarinį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "514791-514954; hash=3f4c25f293fb45db76cd93d99cb81f1cde6d7c1988488138320db0beaed2687d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Olyvos taikos sutarties pasirašymas (1660 m. gegužės 3 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=63"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Olyvos taikos sutarties pasirašymas (1660 m. gegužės 3 d.)\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-43095
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -58,8 +82,24 @@ Nenurodyta
     buvo patvirtinta 1660 m. Olyvos sutartimi
     (ATR ir Švedijos taikos sutartis).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-43095
+  citata_originali: |
+    1657 m. Prūsija atsikratė vasalinės priklau-
+    somybės nuo Lenkijos. Jos nepriklausomybė
+    buvo patvirtinta 1660 m. Olyvos sutartimi
+    (ATR ir Švedijos taikos sutartis).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-41333

@@ -9,6 +9,18 @@ tags:
   - asmuo
   - popiežius
   - vyskupas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # St. Ciolką
 
@@ -21,10 +33,20 @@ Ciolką.
 <a id="claim-t-34827"></a>
 - t-001
   global_id: t-34827
-  teiginys: 'St. Ciolka buvo Vytauto proteguojamas kandidatas į Poznanės vyskupus.'
+  teiginys: "St. Ciolka buvo Vytauto proteguojamas kandidatas į Poznanės vyskupus."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) rėmė St. Ciolką (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "317317-317743; hash=2f44e05f5b311a428a3b99ccb37afbbdc53915797ec3ff6d3440eb8dfffe024c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> St. Ciolką: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "St. Ciolką: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Protegavimas tiesiogiai reiškia Vytauto paramą St. Ciolkai."
   pagrindžia:
-    - c-001
-
+    - c-36052
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -39,11 +61,31 @@ Ciolką.
     Bažnyčios visuotinį susirinkimą, kurio popiežius tuo tarpu ne­
     norėjo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-36052
+  citata_originali: |
+    Ypač jie buvo susvyravę Vytauto amžiaus pabaigoj, kai
+    Vytautas buvo susidėjęs su husitais ir į Poznaniaus vyskupus
+    prisispyręs protegavo savo kandidatą St. Ciolką. Per Lucko
+    suvažiavimą Vytautas nepalaikė Martyno V pageidavimo, kad
+    Lietuva ir Lenkija aktyviai pradėtų malšinti husitus; jis labiau
+    rėmė ciesoriaus Zigmanto sumanymą tiems reikalams sušaukti
+    Bažnyčios visuotinį susirinkimą, kurio popiežius tuo tarpu ne­
+    norėjo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-34827
 
 ## Ryšiai
 - Rėmė St. Ciolką: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

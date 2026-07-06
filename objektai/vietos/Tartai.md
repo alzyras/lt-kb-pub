@@ -16,6 +16,18 @@ tags:
   - vyskupas
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Tartai
 
@@ -28,9 +40,22 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
 <a id="claim-t-02783"></a>
 - t-001
   global_id: t-02783
-  teiginys: 'Tuo metu Maskva buvo užgrobusi Tartų, dar vadintų Dorpatu, vyskupystę.'
+  teiginys: "Tuo metu Maskva buvo užgrobusi Tartų, dar vadintų Dorpatu, vyskupystę."
+  temporaliniai_duomenys: "įvykio data: iki 1582 m.; įvykio data: 1582 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citatoje vartojama forma „turėjo užgrobusi“, todėl teiginys pataisytas tiksliau ir sklandžiau."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "443756-444139; hash=01f9c271670b04ca2e4cde017c6d17cc928d2577601407c23967fb495d4335ac; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kuršas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tartai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kuršas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tartai\" parinktas kaip owner_note_path. Targetas \"Kuršas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-03021
 - susijęs iš Tartu: Paskutinis Gedimino laiškas (1325.VI.2) yra rašytas Talino ir Tartu vyskupams, Rygos miesto tarybai ir Danijos vietininkui Taline.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178830|Kryžiuočių ordinas]]: Popiežiaus rūmuose Avinjone buvo svarstomi Kryžiuočių ordino santykiai su Lenkija, Ryga ir Lietuvos valdovu.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178973|Kryžiuočių ordinas]]: Popiežiaus rūmuose Avinjone buvo svarstomi prieštaringi skundai už ir prieš Kryžiuočių ordiną.
@@ -56,11 +81,31 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
     tenę, ir Saremos (Eželio) vyskupystę. Bet didžiausioji Livonijos
     dalis teko Lietuvai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-03021
+  citata_originali: |
+    Šitos sutarties nepripažino tik Rygos miestas; jis liko nepri-
+    klausomos iki 1582 m., kada jį nukariavo Steponas Batoras.
+    Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vys-
+    kupystę, Švedai — Talino (Revelio) miestą su apylinkėmis, o
+    Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Pil-
+    tenę, ir Saremos (Eželio) vyskupystę. Bet didžiausioji Livonijos
+    dalis teko Lietuvai.
+  citata_rodoma: "Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vys-\nkupystę, Švedai — Talino (Revelio) miestą su apylinkėmis, o\nDanai — buvusias Kuršo vyskupystės žemes, vadinamąją Pil-\ntenę, ir Saremos (Eželio) vyskupystę. Bet didžiausioji Livonijos\ndalis teko Lietuvai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-02783
 
 ## Ryšiai
 - Tartai priklausė [[objektai/vietos/Maskva]]

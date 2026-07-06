@@ -10,11 +10,6 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
-description: 'Kryžiuočių ordino kunigas Petras iš Dusburgo, 1326 m. užbaigęs „Prūsijos žemės kroniką“ apie Ordino karus ir Lietuvą.'
-socialDescription: 'Petras iš Dusburgo ir jo „Prūsijos žemės kronika“: Vytenio žygiai, Junigėdos bei Pagraudenės paminėjimai ir Ordino karų atmintis.'
-seo_atnaujinta: '2026-07-02T23:12:35.328782+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -22,12 +17,24 @@ tags:
   - mokslininkas
 amziai: []
 periodo_grupes: []
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Dusburgas
 
 ## Santrauka
 
-Petras iš Dusburgo buvo Kryžiuočių ordino brolis kunigas ir kronikininkas, 1326 m. užbaigęs „Prūsijos žemės kroniką“, vėliau pratęstą iki 1330 m. Jo kronika siejama su žiniomis apie prūsus, lietuvius ir Ordino karus, joje minimi Vytenio žygiai, Junigėda, Pagraudenė ir Gedimino diplomatijos epizodai. 1985 m. leidinyje ši kronika išskirta kaip svarbus XIII–XIV a. šaltinis.
+Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikininkas. Šiame leidinyje jis papildomai tiesiogiai siejamas su „Prūsijos žemės kronika“, kurios ištraukos naudojamos aprašant Durbės mūšį ir Vytenio žygį į Ordino žemes.
 
 ## Darbai
 
@@ -38,123 +45,328 @@ Petras iš Dusburgo buvo Kryžiuočių ordino brolis kunigas ir kronikininkas, 1
 ## Teiginiai
 
 <a id="claim-t-102840"></a>
-- t-001
+- t-009
   global_id: t-102840
-  teiginys: 'Dusburgas laikytas aprašomų įvykių amžininku ir patikimu liudytoju apie Gedimino pilį.'
+  teiginys: "Dusburgas laikytas aprašomų įvykių amžininku ir patikimu liudytoju apie Gedimino pilį."
+  semantiniai_rysiai: "Konradas Lichtenhagenas keliavo į Lietuva (0.70)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "125433-126144; hash=9d1b540915adb6893e83166bf2bf2ee34ca47103c86bf94561bddaac29bf17ac; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Konradas Lichtenhagenas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo Konrado Lichtenhageno atėjimą į minėtą Lietuvos pasienio pilį ar valsčių, todėl palaikomas judėjimo į vietą ryšys."
   pagrindžia:
-    - c-012
+    - c-96085
 
 <a id="claim-t-102841"></a>
-- t-002
+- t-007
   global_id: t-102841
-  teiginys: 'Dusburgo kronikoje Junigėda pirmą kartą paminėta aprašant 1291 m. puolimą.'
+  teiginys: "Dusburgo kronikoje Junigėda pirmą kartą paminėta aprašant 1291 m. puolimą."
+  semantiniai_rysiai: "Kryžiuočių ordinas puolė Aukaimis (0.76)"
+  temporaliniai_duomenys: "įvykio data: 1291 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "602170-602550; hash=de2dce7c59393ee1d39a0e4d6efd9ddc754bf8c3bfba2dbf1dd59b114e5d00e5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Aukaimis: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Aukaimis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje sakoma, kad kryžiuočiai teriojo sritį prie sudegintos Aukaimio pilies; tai palaiko puolimo ryšį su Aukaimiu kaip vieta."
   pagrindžia:
-    - c-002
+    - c-30477
 
 <a id="claim-t-102843"></a>
-- t-003
+- t-021
   global_id: t-102843
-  teiginys: 'Dusburgas prie 1304 m. pirmą kartą paminėjo Pagraudenę, pasakodamas apie Eberhardo de Virnemburgo įsiveržimą į Lietuvą.'
+  teiginys: "Dusburgas prie 1304 m. pirmą kartą paminėjo Pagraudenę, pasakodamas apie Eberhardo de Virnemburgo įsiveržimą į Lietuvą."
+  semantiniai_rysiai: "Eberhardas (Varmės vyskupas) surengė žygį į Pagraudenė (0.74)"
+  temporaliniai_duomenys: "įvykio data: 1304 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko aiškesnį faktą apie Dusburgo pasakojimą, o pradinis tekstas yra fragmentiškas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "125611-126580; hash=dc09acc6ab3bc242da4284de39972780d7504a6c2b1c2e5a4675b121b9df55ff; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Pagraudenė: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Eberhardas (Varmės vyskupas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Pagraudenė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Pagraudenė identifikuojama kaip Lietuvos teritorija, į kurią netikėtai įsiveržė Eberhardas."
   pagrindžia:
-    - c-010
+    - c-96082
 
 <a id="claim-t-102844"></a>
-- t-004
+- t-024
   global_id: t-102844
-  teiginys: 'Dusburgas trumpai paminėjo, kad popiežius Jonas XXII Rygos arkivyskupo Fridricho ir miestiečių prašymu pasiuntė į Livoniją du legatus.'
+  teiginys: "Dusburgas trumpai paminėjo, kad popiežius Jonas XXII Rygos arkivyskupo Fridricho ir miestiečių prašymu pasiuntė į Livoniją du legatus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "205074-205998; hash=e7c128d19e56c24359b989f2127e7fa21c65f5ad187243f116ee4cb853fb4194; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jonas XXII (arkivyskupas, XIV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dusburgas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Jonas XXII (arkivyskupas, XIV a.): mention_match, person, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dusburgas\" parinktas kaip owner_note_path. Targetas \"Jonas XXII (arkivyskupas, XIV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-96077
 
 <a id="claim-t-102845"></a>
-- t-005
+- t-017
   global_id: t-102845
-  teiginys: 'Dusburgietis rašo, kad kroniką surašė apie Ordino brolių karus ir 1326 m. užbaigtą knygą siunčia pataisyti, kad būsimoms kartoms liktų šio žygio atminimas.'
+  teiginys: "Dusburgietis rašo, kad kroniką surašė apie Ordino brolių karus ir 1326 m. užbaigtą knygą siunčia pataisyti, kad būsimoms kartoms liktų šio žygio atminimas."
+  temporaliniai_duomenys: "įvykio data: 1326 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "96887-97482; hash=e4cdc77fda250648e9fca51478a799e9c327c0dccfb7a2a44a1a592234df4827; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-006
+    - c-55992
 
 <a id="claim-t-102846"></a>
-- t-006
+- t-012
   global_id: t-102846
-  teiginys: 'Dusburgas pranešė, kad Gedimino pasiuntinys paneigė valdovo valia siųstus laiškus dėl krikšto.'
+  teiginys: "Dusburgas pranešė, kad Gedimino pasiuntinys paneigė valdovo valia siųstus laiškus dėl krikšto."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "200202-201049; hash=c8a259dd533fddbf17c3296f27fffafbdf41dbf7bcae71b117eb2c3b3f66d0ea; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dusburgas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dusburgas\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-011
+    - c-96084
 
 <a id="claim-t-102847"></a>
-- t-007
+- t-014
   global_id: t-102847
-  teiginys: 'Dedikacijoje Petras iš Dusburgo prisistato tų pačių šventųjų įžadų kunigu ir kreipiasi į magistrą Vernerį iš Orzelno.'
+  teiginys: "Dedikacijoje Petras iš Dusburgo prisistato tų pačių šventųjų įžadų kunigu ir kreipiasi į magistrą Vernerį iš Orzelno."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "96259-96884; hash=a6a7340fdce5fd8021153bc7d0412ac8fc62af7443824e776e3a2322d89b316c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jeruzalė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dusburgas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Jeruzalė: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dusburgas\" parinktas kaip owner_note_path. Targetas \"Jeruzalė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-55989
 
 <a id="claim-t-102848"></a>
-- t-008
+- t-020
   global_id: t-102848
-  teiginys: '1985 m. leidinio įvade Petro iš Dusburgo „Prūsijos žemės kronika“ išskiriama tarp svarbių XIII—XIV a. kronikų ir siejama su unikaliomis žiniomis apie prūsus, lietuvius bei jų kovą iki 1330 m.'
+  teiginys: "1985 m. leidinio įvade Petro iš Dusburgo „Prūsijos žemės kronika“ išskiriama tarp svarbių XIII—XIV a. kronikų ir siejama su unikaliomis žiniomis apie prūsus, lietuvius bei jų kovą iki 1330 m."
+  semantiniai_rysiai: "Lietuviai kariavo prieš Kryžiuočių ordinas (0.88)"
+  temporaliniai_duomenys: "įvykio data: iki 1330 m.; įvykio data: 1330 m.; įvykio data: 1985 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "5243-6109; hash=c6213f961ad7f1df93e926c813ee0e229de60d57f6396847ddc90d769db80d72; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai mini lietuvių kovą prieš Kryžiuočių ordiną."
   pagrindžia:
-    - c-008
+    - c-55994
 
 <a id="claim-t-102849"></a>
-- t-009
+- t-015
   global_id: t-102849
-  teiginys: '1985 m. leidinio įžangoje Petras iš Dusburgo apibūdinamas kaip Kryžiuočių ordino brolis kunigas, 1326 m. užbaigęs savo kroniką; nurodoma, kad ji pratęsta iki 1330 m.'
+  teiginys: "1985 m. leidinio įžangoje Petras iš Dusburgo apibūdinamas kaip Kryžiuočių ordino brolis kunigas, 1326 m. užbaigęs savo kroniką; nurodoma, kad ji pratęsta iki 1330 m."
+  semantiniai_rysiai: "Gediminas kariavo prieš Kryžiuočių ordinas (0.80)"
+  temporaliniai_duomenys: "įvykio data: iki 1330 m.; įvykio data: 1326 m.; įvykio data: 1330 m.; įvykio data: 1985 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1133-1638; hash=5a366af36f9b41b88693ca24d22a613548daa68c4cf03390885aa5c80dfc72a9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.80"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata sieja Gedimino vyriausybę su kova prieš Kryžiuočių ordino agresiją, todėl atsargiai palaikomas Gedimino kaip subjekto karinis ryšys."
   pagrindžia:
-    - c-005
+    - c-55990
 
 <a id="claim-t-102850"></a>
-- t-010
+- t-006
   global_id: t-102850
-  teiginys: 'Petras Dusburgietis „Prūsijos žemės kronikoje“ aprašė Vytenio įsiveržimą į Ordino žemes.'
+  teiginys: "Petras Dusburgietis „Prūsijos žemės kronikoje“ aprašė Vytenio įsiveržimą į Ordino žemes."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "126051-126382; hash=3039c06344b18b0eeed60fcfb9016266a105f6b9db50d78eb1204536c45de8a5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dusburgas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dusburgas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-11407
 
 <a id="claim-t-102851"></a>
-- t-011
+- t-010
   global_id: t-102851
-  teiginys: 'Dusburgas rašė, kad brolių vėliava nuo ryto iki vidurdienio kovojo kalne priešais Gedimino pilį.'
+  teiginys: "Dusburgas rašė, kad brolių vėliava nuo ryto iki vidurdienio kovojo kalne priešais Gedimino pilį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "125611-126580; hash=dc09acc6ab3bc242da4284de39972780d7504a6c2b1c2e5a4675b121b9df55ff; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dusburgas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=82"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dusburgas\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-010
+    - c-96082
 
 <a id="claim-t-102852"></a>
-- t-012
+- t-023
   global_id: t-102852
-  teiginys: 'Dusburgas 1296 m. Vytenį vadino „rex Vithenus“ ir rašė, kad jis surengė žygį į Livoniją.'
+  teiginys: "Dusburgas 1296 m. Vytenį vadino „rex Vithenus“ ir rašė, kad jis surengė žygį į Livoniją."
+  semantiniai_rysiai: "Vytenis surengė žygį į Livonija (0.95)"
+  temporaliniai_duomenys: "įvykio data: 1296 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradiniame teiginyje yra OCR ir nuorodų triukšmo, todėl reikia švarios formuluotės."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "605263-605726; hash=29612e7f0dee02576e9e1532bc701fb68e6d17c86b284553b5dd772ea01dd335; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Livonija: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Vytenis darė žygį į Livoniją."
   pagrindžia:
-    - c-003
+    - c-30478
 
 <a id="claim-t-102853"></a>
-- t-013
+- t-008
   global_id: t-102853
-  teiginys: 'Dusburgas 1296 m. Vytenį vadino „rex Vithenus“ ir rašė apie jo žygį į Livoniją.'
+  teiginys: "Dusburgas 1296 m. Vytenį vadino „rex Vithenus“ ir rašė apie jo žygį į Livoniją."
+  semantiniai_rysiai: "Vytenis surengė žygį į Livonija (0.95)"
+  temporaliniai_duomenys: "įvykio data: 1296 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "605263-605726; hash=29612e7f0dee02576e9e1532bc701fb68e6d17c86b284553b5dd772ea01dd335; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Livonija: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vytenis darė žygį į Livoniją."
   pagrindžia:
-    - c-003
+    - c-30478
 
 <a id="claim-t-102854"></a>
-- t-014
+- t-019
   global_id: t-102854
-  teiginys: 'Dusburgietis nurodo aprašysiąs tiek savo matytus įvykius, tiek dalyvių pasakojimus ir patikimų šaltinių liudijimus.'
+  teiginys: "Dusburgietis nurodo aprašysiąs tiek savo matytus įvykius, tiek dalyvių pasakojimus ir patikimų šaltinių liudijimus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "106161-106779; hash=82c5df1f229da89f2fc1a7a38f4a09e079e5c84d92adfcc432bc44df985b129e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dusburgas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Prūsija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dusburgas\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-55993
 
 <a id="claim-t-102855"></a>
-- t-015
+- t-022
   global_id: t-102855
-  teiginys: 'Dusburgo kronikoje Junigėda pirmą kartą paminėta 1291 m., kai kryžiuočiai ją puolė, bet nepaėmė.'
+  teiginys: "Dusburgo kronikoje Junigėda pirmą kartą paminėta 1291 m., kai kryžiuočiai ją puolė, bet nepaėmė."
+  temporaliniai_duomenys: "įvykio data: 1291 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys turi fragmentų ir perteklinių detalių, bet citata leidžia suformuluoti aiškų faktą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "602170-602550; hash=de2dce7c59393ee1d39a0e4d6efd9ddc754bf8c3bfba2dbf1dd59b114e5d00e5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aukaimis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dusburgas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Aukaimis: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dusburgas\" parinktas kaip owner_note_path. Targetas \"Aukaimis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-30477
 
 <a id="claim-t-102856"></a>
-- t-016
+- t-013
   global_id: t-102856
-  teiginys: 'Dusburgas trumpai užsiminė, kad popiežius Jonas XXII Rygos arkivyskupo Fridricho ir miestiečių prašymu pasiuntė į Livoniją du legatus.'
+  teiginys: "Dusburgas trumpai užsiminė, kad popiežius Jonas XXII Rygos arkivyskupo Fridricho ir miestiečių prašymu pasiuntė į Livoniją du legatus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "205074-205998; hash=e7c128d19e56c24359b989f2127e7fa21c65f5ad187243f116ee4cb853fb4194; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jonas XXII (arkivyskupas, XIV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dusburgas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Jonas XXII (arkivyskupas, XIV a.): mention_match, person, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dusburgas\" parinktas kaip owner_note_path. Targetas \"Jonas XXII (arkivyskupas, XIV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-96077
 
 <a id="claim-t-184607"></a>
-- t-017
+- t-025
   global_id: t-184607
-  teiginys: 'Petras iš Dusburgo buvo Livonijos riterių kunigas ir istorikas.'
+  teiginys: "Petras iš Dusburgo buvo Livonijos riterių kunigas ir istorikas."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "97336-97907; hash=d38f0b319d94ea04e89ae89c0c6ec9fb5b6dd132d081a59b082fd05a175db390; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dusburgas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dusburgas\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-013
+    - c-167968
+
+<a id="claim-t-194197"></a>
+- t-026
+  global_id: t-194197
+  teiginys: "Kita užuomina Dusburgo kronikoje apie Castrum Gedemini [Gedimino pilį] yra prie 1317 m. (1."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "126820-127322; hash=cceada81afcbf2b810c8622e2666c41a934e0a22295449dd313e178f032ede5a; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176800
 - susijęs iš [[objektai/asmenys/Jonas Chodkevičius.md#claim-t-63716|Jonas Chodkevičius]]: XVI a. antrojoje pusėje Jonas Chodkevičius Roneburgo pilies bažnyčioje rado Petro iš Dusburgo kronikos nuorašą ir perdavė jį Augustinui Rotundui.
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-184140|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Petras iš Dusburgo dedikacijoje Vernerį iš Orzelno vadino Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistru.
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64226|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Petras iš Dusburgo dedikacijoje Vernerį iš Orzelno vadino Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistru.
@@ -196,6 +408,7 @@ Petras iš Dusburgo buvo Kryžiuočių ordino brolis kunigas ir kronikininkas, 1
 - susijęs iš Dusburgo kronika: Dusburgo teigimu, Gedimino pasiuntinys Rygoje pareiškė, kad valdovas nesiuntė laiškų dėl savo ar valdinių krikšto.
 - susijęs iš Hartknocho pastabos Dusburgo kronikai: Hartknochas Dusburgo kronikos pastabose Castrum Gedemini tapatino su Vilniumi ir manė, kad miestas įkurtas 1322 m.
 - susijęs iš Petras Dusburgietis, Prūsijos žemės kronika (1985 m.): Įžanginiame straipsnyje Petro iš Dusburgo kronika vadinama nepakeičiamai svarbia baltistikos ir lituanistikos mokslui dėl unikalių žinių apie vakarų baltų ir lietuvių istoriją.
+- susijęs iš Petro Dusburgiečio Prūsijos žemės kronika: Petro Dusburgiečio Prūsijos žemės kronika cituojama kaip nuoroda teiginiui, kad Merūniškio apskrityje buvo aštuoniolika didelių žemvaldžių.
 - susijęs iš Pollakówna M. Sprawa ocenzurowania kroniki Piotra z Dusburga: M. Pollakównos straipsnis apie Petro Dusburgiečio kronikos cenzūravimą paskelbtas 1970 m. Poznanėje išleistame rinkinyje, p. 127–134.
 - susijęs iš Powierski J. Przekaz Dusburga o najazdach pruskich i przejściowej okupacj ziemi Chełmińskiej: J. Powierskio straipsnis apie Dusburgo žinią dėl prūsų antpuolių ir laikinos Kulmo žemės okupacijos paskelbtas 1971 m. Olsztyne.
 - susijęs iš Wenta J. Kronika Piotra z Dusburga a dzieje Zakonu Krzyżackiego zawarte w Kronice oliwskiej: J. Wentos straipsnis apie Petro Dusburgiečio kroniką ir Kryžiuočių ordino istoriją Oliwos kronikoje paskelbtas 1980 m. leidinyje „Studia źródłoznawcze“.
@@ -257,10 +470,6 @@ Petras iš Dusburgo buvo Kryžiuočių ordino brolis kunigas ir kronikininkas, 1
 - susijęs iš Petras Dusburgietis, Prūsijos žemės kronika (1985 m.): Leidinyje nurodoma, kad pilnas kronikos lietuviškas vertimas čia publikuojamas pirmą kartą.
 - susijęs iš Petras Dusburgietis, Prūsijos žemės kronika (1985 m.): Leidinyje nurodoma, kad M. Tepenas 1861 m. „Scriptores rerum Prussicarum“ serijoje paskelbė kronikos mokslinį leidimą originalo lotynų kalba.
 - susijęs iš Petras Dusburgietis, Prūsijos žemės kronika (1985 m.): Leidinio pratarmėje kronika apibūdinama kaip oficialus Kryžiuočių ordino valstybės kūrinys.
-- susijęs iš Prūsijos žemės kronika: Petro Dusburgiečio „Prūsijos žemės kronikoje“ yra ištrauka apie Durbės mūšį.
-- susijęs iš Prūsijos žemės kronika: Mikalojus iš Jarošino, versdamas Dusburgo kroniką į vokiečių kalbą, pridėjo nemažai savo papildymų ir paaiškinimų.
-- susijęs iš Prūsijos žemės kronika: 1311 m. Vytenis su didele kariuomene degindamas ir plėšdamas nusiaubė Sembą ir Notangą.
-- susijęs iš Prūsijos žemės kronika: Mikalojus iš Jarošino, versdamas Dusburgo kroniką iš lotynų į vokiečių kalbą, pridėjo papildymų ir paaiškinimų nuo savęs.
 - susijęs iš Roneburgo pilies bažnyčios Dusburgiečio kronikos nuorašas: Petro iš Dusburgo kronikos nuorašas buvo Livonijoje, Roneburgo pilies bažnyčioje, kur jį XVI a. antroje pusėje rado Jonas Chodkevičius.
 - susijęs iš Scriptores rerum Prussicarum: M. Tepenas 1861 m. „Scriptores rerum Prussicarum“ serijoje paskelbė mokslinį kronikos leidimą lotynų kalba.
 - susijęs iš Volynijos kronika: Volynijos kronika nurodė, kad 1248 m. viename mūšyje žuvo net 40 jotvingių kunigų.
@@ -339,6 +548,7 @@ Petras iš Dusburgo buvo Kryžiuočių ordino brolis kunigas ir kronikininkas, 1
     degindamas ir plėšdamas, nusiaubė Sembą ir Notangą, išžudė daug žmonių, o beveik
     penkis šimtus išsivarė į nelaisvę drauge su dideliu grobiu...“
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -355,8 +565,9 @@ Petras iš Dusburgo buvo Kryžiuočių ordino brolis kunigas ir kronikininkas, 1
     pilis «Mederaba»^23. Grįždami nuo Junigėdos 1292, kryžiuočiai
     teriojo sritį pernykščiai sudegintos Aukaimio (« Oukaym ») pilies^24.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -374,6 +585,7 @@ Petras iš Dusburgo buvo Kryžiuočių ordino brolis kunigas ir kronikininkas, 1
     Išskyrus šią kroniką ir keletą įvairių užuominų^3 , kiti bendralaikiai
     šaltiniai jo nemini.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -393,6 +605,7 @@ Petras iš Dusburgo buvo Kryžiuočių ordino brolis kunigas ir kronikininkas, 1
     būsimosioms kartoms pamokyti. Mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, kad
     apreikšti dievo darbus yra šlovinga.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -410,6 +623,7 @@ Petras iš Dusburgo buvo Kryžiuočių ordino brolis kunigas ir kronikininkas, 1
     kroniką ir įteikė magistrui (ji pratęsta iki 1330 m.). Tai oficialus Kryžiuočių ordino
     valstybės kūrinys.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -427,6 +641,7 @@ Petras iš Dusburgo buvo Kryžiuočių ordino brolis kunigas ir kronikininkas, 1
     kad būtų paskelbta šitaip pataisyta, idant būsimosioms kartoms liktų šio šventojo žygio
     atminimas. Surašyta ir užbaigta 1326 metais nuo viešpaties įsikūnijimo.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -444,6 +659,7 @@ Petras iš Dusburgo buvo Kryžiuočių ordino brolis kunigas ir kronikininkas, 1
     Ketvirta, paraštėse surašysiu popiežius ir imperatorius, kurie viešpatavo nuo tų metų,
     kai buvo įkurtas šis ordinas, be to, kai kuriuos reikšmingus įvykius, kurie jų laikais dėjosi.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -465,6 +681,7 @@ Petras iš Dusburgo buvo Kryžiuočių ordino brolis kunigas ir kronikininkas, 1
     lietuvių kalbiniai tarpusavio santykiai, bendradarbiavimo kovoje prieš Ordino agresiją
     klausimai.
   citata_rodoma: ''
+  teiginio_tipas: interpretacija
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -491,6 +708,7 @@ Petras iš Dusburgo buvo Kryžiuočių ordino brolis kunigas ir kronikininkas, 1
     tis du legatus]. Tai paakino Jerošiną visą įvykį išdėstyti kaip
     buvo tikrovėje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -522,8 +740,9 @@ Petras iš Dusburgo buvo Kryžiuočių ordino brolis kunigas ir kronikininkas, 1
     na apylinkę Žemaitijoje: pograudien-
     b C S 7/7 Samogitia agri.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
@@ -552,8 +771,9 @@ Petras iš Dusburgo buvo Kryžiuočių ordino brolis kunigas ir kronikininkas, 1
     minėtasis pasiuntinys pats visos sueigos akivaizdoje stojęs
     patvirtinob.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
@@ -574,6 +794,7 @@ Petras iš Dusburgo buvo Kryžiuočių ordino brolis kunigas ir kronikininkas, 1
     no, tai yra Gardino, valsčiaus ir pilies, į kurią tuojau po ano
     atėjo Brandenburgo komtūras Konradas Lichtenhagenas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -597,8 +818,317 @@ Petras iš Dusburgo buvo Kryžiuočių ordino brolis kunigas ir kronikininkas, 1
     vonijos riterių kunigas ir istorikas, gyvenęs arčiau anų
     laikų nei mūsų.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-017
+
+- c-014
+  santrauka: 'Kita užuomina Dusburgo kronikoje apie Castrum Gedemini [Gedimino pilį] yra prie 1317 m. (1.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kita užuomina
+    Dusburgo kronikoje apie Castrum Gedemini [Gedimino pilį]
+    yra prie 1317 m. (1. 387); anot jos, Ragainės komtūras Fridri­
+    chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė
+    jos užimti, o tik sudegino papilį. Trečią kartą šis papilys bu­
+    vo sudegintas 1324 metais; rašo apie tai Dusburgas, kad bir­
+    želio Il dieną, švintant, Ragainės komtūras Tomas Alden-
+    burgas ir 44 broliai su 400 žmonių iš Sembos ir Natangos
+    netikėtai užpuolė Gedimino pilies papilį ir plėnimis palei­
+    do8.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017
+    - t-018
+
+## Citatos
+
+- id: c-11407
+  citata_originali: |
+    Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Vytenio įsiveržimą į
+    Ordino žemes:
+
+    „1311 viešpaties metais, per Užgavėnes, Vytenis, Lietuvos karalius, su didele kariuomene,
+    degindamas ir plėšdamas, nusiaubė Sembą ir Notangą, išžudė daug žmonių, o beveik
+    penkis šimtus išsivarė į nelaisvę drauge su dideliu grobiu...“
+  citata_rodoma: "Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Vytenio įsiveržimą į\nOrdino žemes:\n\n„1311 viešpaties metais, per Užgavėnes, Vytenis, Lietuvos karalius, su didele kariuomene,\ndegindamas ir plėšdamas, nusiaubė Sembą ir Notangą, išžudė daug žmonių, o beveik\npenkis šimtus išsivarė į nelaisvę drauge su dideliu grobiu...“"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-102850
+
+- id: c-30477
+  citata_originali: |
+    Nors pradiniai jų smūgiai atrodė energingi, bet per dešimt­
+    metį apčiuopiamų laimėjimų nebuvo pasiekta. 1291 buvo pulta,
+    Dusburgo kronikoje pirmą kartą paminėta, Junigėda (nuo 1315
+    ten stovėjo Veliuona), bet, jos nepaėmus, netoliese buvo sunaikinta
+    pilis «Mederaba»^23. Grįždami nuo Junigėdos 1292, kryžiuočiai
+    teriojo sritį pernykščiai sudegintos Aukaimio (« Oukaym ») pilies^24.
+  citata_rodoma: "1291 buvo pulta,\nDusburgo kronikoje pirmą kartą paminėta, Junigėda (nuo 1315\nten stovėjo Veliuona), bet, jos nepaėmus, netoliese buvo sunaikinta\npilis «Mederaba»^23. Grįždami nuo Junigėdos 1292, kryžiuočiai\nteriojo sritį pernykščiai sudegintos Aukaimio (« Oukaym ») pilies^24."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-102841
+    - t-102855
+
+- id: c-30478
+  citata_originali: |
+    Vytenio kovos su ordinu ir jo sąjunga su Ryga**
+    Pukuveras, apie kurį galima aiškiai pasakyti, kad jis (o gal
+    jau ir jo tėvas) pradėjo per 280 metų trukusį paveldimosios mo­
+    narchijos perijodą, apie 1295 turėjo būti miręs. Kronikininkas
+    Dusburgas, kuriam anksčiau Vytenis tebuvo « Lietuvos karaliaus
+    sūnus »^1 , 1296 jau rašė, jog « rex Vithenus » darė žygį Livonijon 1 2.
+    Išskyrus šią kroniką ir keletą įvairių užuominų^3 , kiti bendralaikiai
+    šaltiniai jo nemini.
+  citata_rodoma: "Kronikininkas\nDusburgas, kuriam anksčiau Vytenis tebuvo « Lietuvos karaliaus\nsūnus »^1 , 1296 jau rašė, jog « rex Vithenus » darė žygį Livonijon 1 2.\nIšskyrus šią kroniką ir keletą įvairių užuominų^3 , kiti bendralaikiai\nšaltiniai jo nemini."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-102853
+    - t-102852
+
+- id: c-55989
+  citata_originali: |
+    Gerbiamam  vyrui   ir  Kristuje  pasišventusiam  broliui  Verneriui  iš  Orzelno,
+    Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą
+    sveikindamas  reiškia  brolis Petras  iš Dusburgo, tų pačių šventųjų įžadų kunigas.
+    Kiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje
+    šventieji tėvai stebuklingus mūsų viešpaties Jėzaus Kristaus darbus, kuriuos jis teikėsi
+    nuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei
+    būsimosioms kartoms pamokyti. Mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, kad
+    apreikšti dievo darbus yra šlovinga.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-102847
+
+- id: c-55990
+  citata_originali: |
+    XIV a. trečiajame dešimtmetyje Lietuvos valstybei, Gedimino vyriausybei vedant
+    sėkmingą karinę  ir diplomatinę kovą prieš Kryžiuočių ordino agresiją, Vakarų
+    Europoje pasigirdo kritiškų balsų Ordino atžvilgiu. Siekdamas pagrįsti kryžiuočių
+    užkariavimus Prūsijoje  ir jau kuris metas vedamą karą prieš Lietuvą, parodyti
+    Ordino „nuopelnus“, 1326 m. Ordino brolis kunigas Petras iš Dusburgo užbaigė savo
+    kroniką ir įteikė magistrui (ji pratęsta iki 1330 m.). Tai oficialus Kryžiuočių ordino
+    valstybės kūrinys.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-102849
+
+- id: c-55992
+  citata_originali: |
+    Sekiau jų pėdomis, nenorėdamas būti nublokštas į gilias tamsybes (Lk 19,20) su tuo
+    tarnu, netikusiu bei nenaudingu ir paslėpusiu pono jam duotą pinigą, todėl surašiau
+    karus, kuriuose sėkmė lydėjo ir mus, ir mūsų protėvius, Ordino brolius, ir sudėjau  į
+    šią knygą, kurią štai ir siunčiu maloniai jūsų globai ir maldauju ją įvertinti, nes niekas
+    negali būti savo darbu patenkintas, kad būtų galima pataisyti, jeigu joje kas taisytina, ir
+    kad būtų paskelbta šitaip pataisyta, idant būsimosioms kartoms liktų šio šventojo žygio
+    atminimas. Surašyta ir užbaigta 1326 metais nuo viešpaties įsikūnijimo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-102845
+
+- id: c-55993
+  citata_originali: |
+    Ši knyga šitaip bus sudėta. Pirma, aprašysiu, kuriuo laiku buvo įkurtas Teutonų namų
+    ordinas, kas ir kaip jį įkūrė, antra, kada ir kaip minėtieji broliai atsikėlė į Prūsijos žemę,
+    trečia, apsakysiu karus, vykusius šioje žemėje, bei kitus žygius, pakalbėsiu  ir apie
+    tuos, kuriuos pats esu matęs, ir apie tuos, apie kuriuos pasakojo juos matę ir juose
+    dalyvavę žmonės, pagaliau  ir apie tuos, apie kuriuos sužinojau iš patikimų šaltinių.
+    Ketvirta, paraštėse surašysiu popiežius ir imperatorius, kurie viešpatavo nuo tų metų,
+    kai buvo įkurtas šis ordinas, be to, kai kuriuos reikšmingus įvykius, kurie jų laikais dėjosi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-102854
+
+- id: c-55994
+  citata_originali: |
+    Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus
+    karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,
+    nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš
+    Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo (rašytos XIV a.) ir kt. kronikos.
+    Tarp jų ypatingą vietą užima Petro iš Dusburgo  „Prūsijos žemės kronika“, pateikianti
+    daugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir
+    jo sąjungininkų agresiją XIII—XIV a. pirmame trečdalyje (iki 1330 m.).
+      Kad geriau suvoktume kronikoje vaizduojamus Prūsijos  ir Lietuvos istorijos faktus
+    bei epochą, iš pradžių aptarsime, kaip mokslo sprendžiami prūsų ir jų artimų giminaičių
+    lietuvių kalbiniai tarpusavio santykiai, bendradarbiavimo kovoje prieš Ordino agresiją
+    klausimai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-102848
+
+- id: c-96077
+  citata_originali: |
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    baptisma et fidem libenter cum suis susciperent, sed fratres nollet
+    eos suscipere, et idem intimant litteris apostołko [Rygos mies­
+    tiečiai ir jų arkivyskupas anuomet dar Romoje ir Livonijoje
+    prieš brolius nesantaiką sėjo ir visuose pajūrio miestuose ir
+    vietovėse platino ir skelbė, esą rutėnų ir lietuvių karalius
+    noriai su saviškiais krikštą ir tikėjimą priimtų, bet broliai
+    nenorį, kad jie priimtų, ir taip pat įteikė laiškus Apaštalų
+    Sostui]. Kadangi Dusburgas,  p. 349, trumpai teužsime-
+    na, kad Joannes Papa XXII, ad suggestionem fratris Priderki Or­
+    dinis fratrum Minorum Archiepiscopi de Riga et civium ibidem
+    misit ad partes Livoniae duos Legatos [Popiežius Jonas XXII Ma­
+    žesniųjų brolių ordino brolio Fridricho, Rygos arkivyskupo
+    ir miestiečių prašymu tuo pat metu pasiuntė į Livonijos sri­
+    tis du legatus]. Tai paakino Jerošiną visą įvykį išdėstyti kaip
+    buvo tikrovėje.
+  citata_rodoma: "Kadangi Dusburgas,  p. 349, trumpai teužsime- \nna, kad Joannes Papa XXII, ad suggestionem fratris Priderki Or­\ndinis fratrum Minorum Archiepiscopi de Riga et civium ibidem \nmisit ad partes Livoniae duos Legatos [Popiežius Jonas XXII Ma­\nžesniųjų brolių ordino brolio Fridricho, Rygos arkivyskupo \nir miestiečių prašymu tuo pat metu pasiuntė į Livonijos sri­\ntis du legatus]. Tai paakino Jerošiną visą įvykį išdėstyti kaip \nbuvo tikrovėje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-102856
+    - t-102844
+
+- id: c-96082
+  citata_originali: |
+    Pirmą kartą jį Dusburgas mini prie 1304 metų
+    (356 lape), pasakodamas, kaip brolis Eberhardas de Virnem-
+    burgas nusiaubė Lietuvos valsčių, vadintą Pagraudenef: im­
+    provise intravit territorium Lettoviae, dictum Pograuden [neti­
+    kėtai įsiveržė į Lietuvos teritoriją, vadinamą Pagraudenę].
+    Buvo tai Lietuvos ar Žemaitijos ir Prūsijos pasienio valsčius,
+    kuriame stovėjo Gedimino pilis, ir, regis, netoli nuo Garte-
+    no, tai yra Gardino, valsčiaus ir pilies, į kurią tuojau po ano
+    atėjo Brandenburgo komtūras Konradas Lichtenhagenas. To­
+    liau Dusburgas rašo: Sed vexillum fratrum cum sibi adjuncti
+    petit ä mane usque ad meridiem in monte ex opposito Castri Jede-
+    mine ubi dictus comes de Homberg et piures alii nobiles dignita­
+    tem militiae susceperunt [Bet brolių vėliava jam prisijungus
+    kovojo nuo ryto iki pat vidurdienio kalne priešais Gedimino
+    e
+    Chroniam Prussiae.
+    f
+    Kojelavičius Pagraudenę vadi-
+    na apylinkę Žemaitijoje: pograudien-
+    b C S 7/7 Samogitia agri.
+  citata_rodoma: "To­\nliau Dusburgas rašo: Sed vexillum fratrum cum sibi adjuncti\npetit ä mane usque ad meridiem in monte ex opposito Castri Jede-\nmine ubi dictus comes de Homberg et piures alii nobiles dignita­\ntem militiae susceperunt [Bet brolių vėliava jam prisijungus\nkovojo nuo ryto iki pat vidurdienio kalne priešais Gedimino\ne\nChroniam Prussiae.\nf\nKojelavičius Pagraudenę vadi-\nna apylinkę Žemaitijoje: pograudien-\nb C S 7/7 Samogitia agri."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-102851
+    - t-102843
+
+- id: c-96084
+  citata_originali: |
+    Anot amžininko Dusburgo(c.  352) pranešimo, Gedi­
+    minas nuleido pas popiežiaus nuncijus, atvykusius į Rygą
+    jo atvertimo reikalų tvarkyti, įžymų pasiuntinį, kuris iš pa­
+    ties valdovo lūpų gavęs pavedimą? dalyvaujant legatams,
+    gausiam būriui dvasininkų ir kitų tikinčiųjų, tvirtu balsu pa­
+    reiškęs, kad niekados jokie laiškai su karaliaus žinia, jo pa­
+    ties ar jo valdinių krikšto reikalu, jo valia nebuvo rašyti ir
+    nebuvo siunčiami nei popiežiui, nei pajūrio miestams ar pro­
+    vincijoms, turint tikslą juos viešai paskelbti. Pagaliau pri­
+    dūrė dar tai, kad valdovas savo dievams prisiekė niekada
+    89
+
+    ## Puslapis 106
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    jokių kitų teisių nepriimsiąs ir laikysiąsis tų, kurių jo tėvai
+    laikydamiesi gyveno ir mirė. Tokį Gedimino prisipažinimą
+    minėtasis pasiuntinys pats visos sueigos akivaizdoje stojęs
+    patvirtinob.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-102846
+
+- id: c-96085
+  citata_originali: |
+    Tačiau atkreipus dėmesį į tai, ką Dus-
+    burgas, aprašomų įvykių amžininkas, todėl labiausiai ver­
+    tas pasitikėjimo, apie tą pilį byloja, ta Hartknocho nuomonė
+    negali atlaikyti. Pirmą kartą jį Dusburgas mini prie 1304 metų
+    (356 lape), pasakodamas, kaip brolis Eberhardas de Virnem-
+    burgas nusiaubė Lietuvos valsčių, vadintą Pagraudenef: im­
+    provise intravit territorium Lettoviae, dictum Pograuden [neti­
+    kėtai įsiveržė į Lietuvos teritoriją, vadinamą Pagraudenę].
+    Buvo tai Lietuvos ar Žemaitijos ir Prūsijos pasienio valsčius,
+    kuriame stovėjo Gedimino pilis, ir, regis, netoli nuo Garte-
+    no, tai yra Gardino, valsčiaus ir pilies, į kurią tuojau po ano
+    atėjo Brandenburgo komtūras Konradas Lichtenhagenas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-102840
+
+- id: c-167968
+  citata_originali: |
+    Daug kartų iš naujo
+    imdavo garbinti stabus tie, kurių šeimoms pradžią yra
+    davę herulų, gepidų, gotų ar langobardų likučiai, Šie
+    paveldėtus prietarus perduodavo vėlesnėms kartoms.
+    Tadgi Palemonas, iš tokių ir kilęs, nepanaikino Lie­
+    tuvoje daugelio dievų garbinimo: senąsias apeigas jis
+    dargi papildė naujais prietarais. Jis pirmąją Lietuvos
+    sodybą Romanovą paskyrė vyriausiajam žyniui, tu­
+    rinčiam saugoti tikėjimą; šitai tvirtina prieš keturis
+    šimtmečius surašytame veikale Petras iš Dusburgo, Li­
+    vonijos riterių kunigas ir istorikas, gyvenęs arčiau anų
+    laikų nei mūsų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184607
+
+- id: c-176800
+  citata_originali: |
+    Kita užuomina
+    Dusburgo kronikoje apie Castrum Gedemini [Gedimino pilį]
+    yra prie 1317 m. (1. 387); anot jos, Ragainės komtūras Fridri­
+    chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė
+    jos užimti, o tik sudegino papilį. Trečią kartą šis papilys bu­
+    vo sudegintas 1324 metais; rašo apie tai Dusburgas, kad bir­
+    želio Il dieną, švintant, Ragainės komtūras Tomas Alden-
+    burgas ir 44 broliai su 400 žmonių iš Sembos ir Natangos
+    netikėtai užpuolė Gedimino pilies papilį ir plėnimis palei­
+    do8.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194197

@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 18.
+Objektų skaičius: 19.
 
 ## Kaip naudoti
 
@@ -37,3 +37,4 @@ Objektų skaičius: 18.
 - [[objektai/zodynas/tautinė sąmonė]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/zodynas/valstybingumo idėja]]
+- [[objektai/zodynas/Vidurio Europa]]

@@ -20,6 +20,18 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'viduramžiai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Heidenreichas (vyskupas, XIII–XIV a.)
 
@@ -32,10 +44,22 @@ Dusburgietis teigia, kad apie Kulmo žemės karus antrosios atskalūnybės metai
 <a id="claim-t-60301"></a>
 - t-001
   global_id: t-60301
-  teiginys: 'Pamokslininkų ordino brolis Heidenreichas antrosios atskalūnybės metais buvo Kulmo vyskupas.'
+  teiginys: "Pamokslininkų ordino brolis Heidenreichas antrosios atskalūnybės metais buvo Kulmo vyskupas."
+  temporaliniai_duomenys: "įvykio data: 1263 m.; įvykio data: 1326 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "449447-451107; hash=b6480c4a59ac0202577690abff923c56179b57beed7093e6066f800845e0caa0; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kulmas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Heidenreichas (vyskupas, XIII–XIV a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kulmas: mention_match, place, gap=49"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Heidenreichas (vyskupas, XIII–XIV a.)\" parinktas kaip owner_note_path. Targetas \"Kulmas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-60933
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -68,8 +92,45 @@ Dusburgietis teigia, kad apie Kulmo žemės karus antrosios atskalūnybės metai
 
     Prūsijos žemėje krikščionims teksią dar daug patirti vargo bei kančių nuo prūsų.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-60933
+  citata_originali: |
+    Apie Kulmo žemės karus antrosios atskalūnybės metais, o pirmiausia apie
+                                  brolį Heidenreichą, Kulmo vyskupą
+
+      Pamokslininkų  ordino  brolis Heidenreichas  antrosios atskalūnybės metais buvo
+    Kulmo vyskupas432. Apie  jį sklido neabejotinų žinių, kad švenčiausioji mergelė Marija
+    pasirodžiusi vienam pavargėliui ir jam įdavusi laišką nunešti šiam vyskupui; perskaitęs
+    laišką, vyskupas rado jame aprašytą visą savo gyvenimą, be to, ten buvę pridurta, kad
+
+      430  Pirmoji Ordino Starkenbergo pilis, statyta 1263 (1256— 1272) m, buvo prie
+    Osos, deš. upės krante, tarp dab. Lasino ir Osos, kur į pietus nuo gyvenvietės Sčepankai
+    (Szczepanki)  išliko ovalus  piliakalnis. Kai prūsai šią  pilį sunaikino, 1326 m. buvo
+    pastatyta antroji Štarkenbergo pilis kair. Osos krante, tarp upės ir Meino ežero, kur išliko
+    keturkampis piliakalnis. Dab. Slupas (Ewald A. L., Die Eroberung.., 4, 49—51; SZCh, p.
+    119).
+      431 D.— Spittenbergk, Jer.— Spittinberc. Šios mažos kryžiuočių pilies ieškota Osos
+    žemupio deš. krante (Voigt J., Geschichte.., 3, p. 293; VBK); pažymima, kad tikslesnė
+    pilies vieta Pamedėje nenustatoma (Ewald A. L., Die Eroberung.., 4, p. 51).
+      Norime atkreipti dėmesį į kalvą Spittels (Sch-K, X; Boetticher A., Die Bau-.., 3, p. 42;
+    dėl vardo plg. Spitteynen, Spitten, lie. spitė — GAO, p. 170) kair. Veisikos krante, kiek į
+    rytus nuo dab. Paslenko (Pasłęk). Sis kraštas XIII a. viduryje įėjo į Pamedės vyskupiją
+    (PUB, 1, 1, Nr. 233).
+      432 D.— Hedenricus, Jer.— Heidinrîch; dominikonas iš Leipcigo, Kulmo vyskupu buvęs
+    1246—1263 m. (AB, 1, p. 258).
+
+    Prūsijos žemėje krikščionims teksią dar daug patirti vargo bei kančių nuo prūsų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60301

@@ -9,6 +9,18 @@ tags:
   - ežeras
   - tikėjimas
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kimenava
 
@@ -19,11 +31,21 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
 ## Teiginiai
 
 <a id="claim-t-58452"></a>
-- t-001
+- t-003
   global_id: t-58452
-  teiginys: 'Magistras su kariuomene įsibrovė į Kimenavos valsčių ir privertė Kimenavos pilėnus atiduoti to paties vardo pilį.'
+  teiginys: "Magistras su kariuomene įsibrovė į Kimenavos valsčių ir privertė Kimenavos pilėnus atiduoti to paties vardo pilį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "537016-537559; hash=03b0f261fb0b5724391e5ab53e8e334a179c3ba9ba7fbfff6de7564aedb0354a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pilėnai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kimenava: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Pilėnai: mention_match, place, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kimenava\" parinktas kaip owner_note_path. Targetas \"Pilėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-59083
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175119|Sūduviai-jotvingiai]]: Konradas iš Tirbergo su daug brolių ir 1500 raitelių įsiveržė į Sūduvos Kimenavos valsčių, jį nusiaubė ir išsivarė 1000 belaisvių.
 - susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89238|Sūduviai]]: Konradas iš Tirbergo su daug brolių ir 1500 raitelių įsiveržė į Sūduvos Kimenavos valsčių, jį nusiaubė ir išsivarė 1000 belaisvių.
 - susijęs iš [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis.md#claim-t-89916|Konradas iš Tirbergo Vyresnysis]]: Konradas iš Tirbergo Vyresnysis su 1500 raitelių įsiveržė į Sūduvą ir nusiaubė Kimenavos valsčių.
@@ -71,11 +93,30 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
     dieną, nusiaubę Kimenavos valsčių, broliai su savo kariuomene patraukė atgal,  jie
     sužinojo, kad minėtieji Kimenavos pilėnai, nužudę vedlį, visai kitu keliu pasuko į Lietuvą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-59083
+  citata_originali: |
+    Sitai padaręs,
+    magistras kitą dieną su savo kariuomene įsibrovė  į Sūduvos valsčių, vardu Kimenava,
+    ir taip smarkiai užpuolė to pat vardo pilį513, kad pilėnai netruko ją atiduoti sulygę, jog
+    jiems bus leista netrukdomiems iš čia išeiti su visa manta, pasižadėjus priimti Kristaus
+    tikėjimą. Tada jiems paskyrė vedlį ir įsakė nedelsiant keliauti  į Sembos žemę. Kai kitą
+    dieną, nusiaubę Kimenavos valsčių, broliai su savo kariuomene patraukė atgal,  jie
+    sužinojo, kad minėtieji Kimenavos pilėnai, nužudę vedlį, visai kitu keliu pasuko į Lietuvą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58452
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Gedetas]]

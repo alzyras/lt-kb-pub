@@ -17,6 +17,18 @@ tags:
   - vieta
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Pieštvė
 
@@ -27,32 +39,78 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginim�
 ## Teiginiai
 
 <a id="claim-t-58400"></a>
-- t-001
+- t-004
   global_id: t-58400
-  teiginys: 'Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieštvės pilis ir iki pamatų sudegino jų papilius.'
+  teiginys: "Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieštvės pilis ir iki pamatų sudegino jų papilius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "602132-602701; hash=a1608c724cf5a20badd2b035ee0b8e8dcd2b5ac8d66331d41697cc2dc2b4a141; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Junigeda: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pieštvė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Junigeda: mention_match, place, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pieštvė\" parinktas kaip owner_note_path. Targetas \"Junigeda\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-59033
 
 <a id="claim-t-58401"></a>
-- t-002
+- t-003
   global_id: t-58401
-  teiginys: 'Pieštvės pilis buvo deš.'
+  teiginys: "Pieštvės pilis buvo deš."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "581566-581817; hash=4c15e972ff74a1c3e2339af1aee86eca8bdf714eb06964e2c6671afd8e6dbf96; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Nemunas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pieštvė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Nemunas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pieštvė\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
-    - c-001
+    - c-59032
 
 <a id="claim-t-58402"></a>
-- t-003
+- t-001
   global_id: t-58402
-  teiginys: 'Švento Jokūbo apaštalo dieną Meinhardas užpuolė Junigedą ir Pieštvę ir iki pamatų sudegino abiejų pilių papilius.'
+  teiginys: "Švento Jokūbo apaštalo dieną Meinhardas užpuolė Junigedą ir Pieštvę ir iki pamatų sudegino abiejų pilių papilius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "579120-579646; hash=6630773b52756fc7be68935856b4bfb4a3df33a29df8571f018fbcd17cdf49cf; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jokūbas (vėliau Urbonas IV): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pieštvė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Jokūbas (vėliau Urbonas IV): mention_match, person, gap=53"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pieštvė\" parinktas kaip owner_note_path. Targetas \"Jokūbas (vėliau Urbonas IV)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-59034
 
 <a id="claim-t-185084"></a>
-- t-004
+- t-005
   global_id: t-185084
-  teiginys: 'Kryžiuočiai per vieną žygį sugriovė Pieštvės ir Veliuonos pilis, o Pieštvės gynėjai pilį atidavė be kovos.'
+  teiginys: "Kryžiuočiai per vieną žygį sugriovė Pieštvės ir Veliuonos pilis, o Pieštvės gynėjai pilį atidavė be kovos."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Kryžiuočių ordinas užėmė Veliuona (0.86); Kryžiuočių ordinas užėmė Pieštvė (0.80)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "428448-429205; hash=750c70323c0f3263cde1db4e160a9acae5fab0c113c1eb1b292b2bbdaf4b8da5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Veliuona: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Veliuona: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Veliuona nurodyta kaip paimta po apgulties tame pačiame kryžiuočių žygyje."
   pagrindžia:
-    - c-004
+    - c-168445
 - susijęs iš [[objektai/asmenys/Meinhardas Saksas iš Kverfurto.md#claim-t-59872|Meinhardas Saksas iš Kverfurto]]: Meinhardas Saksas iš Kverfurto švento Jokūbo dieną su raiteliais užpuolė Junigedą ir Pieštvę ir sudegino abiejų pilių papilius.
 - susijęs iš [[objektai/asmenys/Ditrichas iš Ezbeko.md#claim-t-60106|Ditrichas iš Ezbeko]]: 1294 m. Ditrichas iš Ezbeko su Otonu iš Bergo ir Otonu iš Cedlico buvo pasiųstas saugoti Ragainės pilies.
 - susijęs iš [[objektai/asmenys/Kunonas (Brandenburgo komtūras).md#claim-t-60163|Kunonas (Brandenburgo komtūras)]]: Brolis Kunonas, Brandenburgo komtūras, su didele kariuomene užpuolė Junigedos ir Pieštvės pilis ir sudegino jų papilius.
@@ -102,6 +160,7 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginim�
     kyšulyje, Seredžiaus vakariniame pakraštyje esančiame piliakalnyje prie Pieštvės upelio
     (Zajączkowski S., Studya..., p. 39—40; SZM, p. 230; LAA, 2, p. 151, Nr. 664).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -121,6 +180,7 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginim�
     privertė visą brolių kariuomenę sugrįžti į mūšį ir pradėti kovą, kurioje žuvo vienas narsus
     lietuvis, o abi šalys neteko daug karių sunkiai sužeistaisiais.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -144,6 +204,7 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginim�
 
                 255 (248).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -172,11 +233,92 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginim�
     latinių priešo antpuolių iš baimės niekas nebedirbo
     žemės ar iš viso nebuvo kam ją dirbti.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
+## Citatos
+
+- id: c-59032
+  citata_originali: |
+    541 D.— Pistam [...] impugnavit, Jer.— Pisten. Pieštvės pilis buvo deš. Nemuno kranto
+    kyšulyje, Seredžiaus vakariniame pakraštyje esančiame piliakalnyje prie Pieštvės upelio
+    (Zajączkowski S., Studya..., p. 39—40; SZM, p. 230; LAA, 2, p. 151, Nr. 664).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58401
+
+- id: c-59033
+  citata_originali: |
+    271 (264). Apie Junigedos ir Pieštvės papilių sudeginimą 298 metais
+
+      Tuo metu, kai Prūsijos brolių kariuomenė dar tebebuvo Livonijos žemėse, brolis
+    Kunonas, Brandenburgo komtūras, užpuolė su didele kariuomene Junigedos bei Pieštvės
+    pilis ir iki pamatų sudegino jų papilius; kada jis traukė atgal, prie jo prisijungė laivu
+    atplaukęs vienas Ragainės brolis su būreliu ginklanešių, kurie, stoję į kovą su pilėnais,
+    privertė visą brolių kariuomenę sugrįžti į mūšį ir pradėti kovą, kurioje žuvo vienas narsus
+    lietuvis, o abi šalys neteko daug karių sunkiai sužeistaisiais.
+  citata_rodoma: "Apie Junigedos ir Pieštvės papilių sudeginimą 298 metais\n\n  Tuo metu, kai Prūsijos brolių kariuomenė dar tebebuvo Livonijos žemėse, brolis\nKunonas, Brandenburgo komtūras, užpuolė su didele kariuomene Junigedos bei Pieštvės\npilis ir iki pamatų sudegino jų papilius; kada jis traukė atgal, prie jo prisijungė laivu\natplaukęs vienas Ragainės brolis su būreliu ginklanešių, kurie, stoję į kovą su pilėnais,\nprivertė visą brolių kariuomenę sugrįžti į mūšį ir pradėti kovą, kurioje žuvo vienas narsus\nlietuvis, o abi šalys neteko daug karių sunkiai sužeistaisiais."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58400
+
+- id: c-59034
+  citata_originali: |
+    254 (247). Apie Junigedos ir Pieštvės pilių papilių sudeginimą
+
+    Tais pačiais metais, švento Jokūbo apaštalo dieną (liepos 25), brolis Meinhardas,
+    magistras, kurio nei vargai nepalaužė, nei mirtis nepalauš, kuris nei žūti nebijojo, nei
+    gyventi neatsižadėjo, subūrė galybę raitelių ir smarkiai užpuolė abi lietuvių pilis, būtent:
+    Junigedą ir Pieštvę541; kai abi šalys patyrė nuostolių užmuštaisiais ir sužeistaisiais, jie iki
+    pamatų sudegino abiejų pilių papilius, nes nieko daugiau nestengė padaryti.
+
+
+
+
+                255 (248).
+  citata_rodoma: "Apie Junigedos ir Pieštvės pilių papilių sudeginimą\n\nTais pačiais metais, švento Jokūbo apaštalo dieną (liepos 25), brolis Meinhardas,\nmagistras, kurio nei vargai nepalaužė, nei mirtis nepalauš, kuris nei žūti nebijojo, nei\ngyventi neatsižadėjo, subūrė galybę raitelių ir smarkiai užpuolė abi lietuvių pilis, būtent:\nJunigedą ir Pieštvę541; kai abi šalys patyrė nuostolių užmuštaisiais ir sužeistaisiais, jie iki\npamatų sudegino abiejų pilių papilius, nes nieko daugiau nestengė padaryti.\n\n\n\n\n            255 (248)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58402
+
+- id: c-168445
+  citata_originali: |
+    Pagerbdami
+    didelę šventę,, kitą dieną kryžiuočiai praleido ramiai,
+    tačiau trečią dieną iki pat pamatų sugriovė kur ne
+    kur tarp sudegintos pilies išlikusius gynybinius įren­
+    ginius: išvertė sienų likučius, nukasė pylimus, išlygino
+    griovius. Tuo pačiu žygiu sugriovė Pieštvės ir Veliuo­
+    nos pilis: pirmąją išsigandę gynėjai atidavė be kovos,
+    antrąją paėmė po keturias dienas užtrukusios apgul-
+    ties. Kai priešai sugrįžo į Prūsiją, užgriuvo dar di­
+    desnė nelaimė — badas, siau-
+    B adas L ie tu v o je
+    binga našta užgulęs visą Lie­
+    tuvą, galimas daiktas, dėl to,
+    kad tais metais apskritai visur buvo blogas oras, net­
+    gi Lenkijoje bei Rusioje, galbūt dėl to, kad dėl nuo­
+    latinių priešo antpuolių iš baimės niekas nebedirbo
+    žemės ar iš viso nebuvo kam ją dirbti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185084
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Ditrichas iš Ezbeko]]

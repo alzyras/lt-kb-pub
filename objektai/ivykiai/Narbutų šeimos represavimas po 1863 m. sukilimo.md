@@ -12,6 +12,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Narbutų šeimos represavimas po 1863 m. sukilimo (sukilimas, XIX a.)
 
@@ -43,16 +55,31 @@ M. Muravjovas siekė ištremti Narbutų šeimą, o Rusijos valdžia sekvestravo 
 Knygos, archyvai ir muziejaus eksponatai buvo suvežti į vieną Vilniaus bažnyčią.
 
 ## Teiginiai
-- t-004
-  teiginys: 'Po Šaurų dvaro sekvestravimo Narbutų šeimos knygos, archyvai ir muziejaus eksponatai buvo suvežti į vieną Vilniaus bažnyčią.'
-  pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
 
+<a id="claim-t-187970"></a>
+- t-004
+  global_id: t-187970
+  teiginys: "Po Šaurų dvaro sekvestravimo Narbutų šeimos knygos, archyvai ir muziejaus eksponatai buvo suvežti į vieną Vilniaus bažnyčią."
+  teiginio_tipas: "faktas"
+  semantiniai_rysiai: "Narbutai priklausė Šaurų dvaras (0.62)"
+  temporaliniai_duomenys: "priklausymo laikotarpis: 1864 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Narbutai priklausė Šaurų dvaras“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Narbutų šeimos represavimo pasekmes. Citata tiesiogiai patvirtina knygų, archyvų ir muziejaus eksponatų suvežimą į Vilniaus bažnyčią."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "19775-20234; hash=bb4e1f15b61e8c0b957d965ab3d148da7a6bc898380c836e7f6d6be176416bf5; match=exact"
+  sprendimo_priezastis: "gap::events"
+  ryšio_patikimumas: "priklause -> Šaurų dvaras: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Narbutai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Šaurų dvaras: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claimas nurodo Narbutų šeimos turtą po Šaurų dvaro sekvestravimo; ryšys su dvaru remiamas kontekstu, bet pats priklausymas pasakytas netiesiogiai."
+  pagrindžia:
+    - c-170972
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Po Šaurų dvaro sekvestravimo Narbutų šeimos knygos, archyvai ir muziejaus eksponatai buvo suvežti į vieną Vilniaus bažnyčią.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Sukilimo slopintojas Michailas Muravjovas norėjo ištrem­
@@ -63,12 +90,34 @@ Knygos, archyvai ir muziejaus eksponatai buvo suvežti į vieną Vilniaus bažny
     natus suvežė į vieną iš Vilniaus bažnyčių, iš kurios, pasakoja­
     ma, už rublio mokestį sargas leisdavo ten saugomą biblioteką
     ir rankraščius išgabenti.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
+    - t-001
 
 ## Data ir vieta
 
 Laikotarpis siejamas su 1863 m. sukilimo slopinimu ir 1864 m. lapkričio 26 d. T. Narbuto mirtimi.
+
+## Citatos
+
+- id: c-170972
+  citata_originali: |
+    Sukilimo slopintojas Michailas Muravjovas norėjo ištrem­
+    ti į Sibirą visą Narbutų šeimą, bet duktė Teodora ir sūnus Pran­
+    ciškus spėjo pasitraukti į užsienį, o pats Lietuvos praeities ty­
+    rėjas 1864 m. lapkričio 26 d. mirė Vilniuje. Rusijos valdžia
+    Saurų dvarą sekvestravo. Knygas, archyvus, muziejaus ekspo­
+    natus suvežė į vieną iš Vilniaus bažnyčių, iš kurios, pasakoja­
+    ma, už rublio mokestį sargas leisdavo ten saugomą biblioteką
+    ir rankraščius išgabenti.
+  citata_rodoma: "Sukilimo slopintojas Michailas Muravjovas norėjo ištrem­\nti į Sibirą visą Narbutų šeimą, bet duktė Teodora ir sūnus Pran­\nciškus spėjo pasitraukti į užsienį, o pats Lietuvos praeities ty­\nrėjas 1864 m. lapkričio 26 d. mirė Vilniuje. Rusijos valdžia\nSaurų dvarą sekvestravo. Knygas, archyvus, muziejaus ekspo­\nnatus suvežė į vieną iš Vilniaus bažnyčių, iš kurios, pasakoja­\nma, už rublio mokestį sargas leisdavo ten saugomą biblioteką\nir rankraščius išgabenti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187970

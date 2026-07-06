@@ -9,41 +9,43 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '880 m.'
   - '1231 m.'
+  - '1242 m.'
+  - '1253 m.'
   - '1278 m.'
   - '1294 m.'
   - '1304 m.'
-  - '1322 m.'
-  - '1325 m.'
   - '1806 m.'
 date_start: '880'
 date_end: '1806'
-aliases:
-  - 'objektai/vietos/Parusija'
-  - 'objektai/vietos/Parusis'
-variantai:
-  - 'Parusija'
-  - 'Parusis'
 sukurta: ''
 atnaujinta: ''
 amziai:
   - 'IX'
   - 'XIX'
-description: 'Prūsija Lietuvos istorijoje siejama su Kryžiuočių ordinu, karais, Vilniaus prekyba, Klaipėdos uostu ir Respublikos padalijimais.'
-socialDescription: 'Prūsijos įrašas apima Kryžiuočių ordino veiklą, Lietuvos kovas ir sutartis, Vilniaus prekybos ryšius bei vėlesnius Respublikos padalijimus.'
-seo_atnaujinta: '2026-07-02T23:12:34.942841+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Prūsija
 
 ## Santrauka
 
-Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veikla, karais ir Lietuvos valdovų pretenzijomis į žemes iki Deimės ir Alės upių. 1325 m. Vilniuje Gediminas ir Lokietka sudarė sutartį kovoti su Prūsijos ordinu, o Vytauto laikais Vilniaus prekyba siekė Prūsijos miestus. Vėlesniuose šaltiniuose Prūsija minima dėl švedams laikinai paliktų uostų, tarp jų Klaipėdos, ir dėl Abiejų Tautų Respublikos II padalijimo 1793 m.
+Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklausomą Prūsiją. Prūsijoje (ji, kaip Lenkijos lenas, buvo valdoma Brandenburgo elektoriaus) 6 metams buvo palikti švedams kai kurie uostai, jų tarpe ir Klaipėda. To meto Lietuvos miestuose beveik visi pirkliai buvo vokiečiai, kurie, priešams užplūdus, daugumas išbėgo į Prūsiją, ypač į Karaliaučių. Žemaičių kraštas tarp Išlos ir Nemuno buvo vadinamas Prūsais arba Parusais. Su šiuo kraštu siejama Rusnės salos vardo kilmė.
 
 ## Pavadinimai šaltiniuose
 
@@ -61,652 +63,2048 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - tipas: pajūrio kraštas / regionas; kraštas / regionas; kraštas / istorinis regionas
 
 ## Teiginiai
+
 <a id="claim-t-178018"></a>
-- t-001
+- t-050
   global_id: t-178018
-  teiginys: '1394 m. Prūsijos ordinas pasinaudojo proga pradėti karą ir niokoti Lietuvą.'
+  teiginys: "1394 m. Prūsijos ordinas pasinaudojo proga pradėti karą ir niokoti Lietuvą."
+  temporaliniai_duomenys: "įvykio data: 1394 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "298774-299508; hash=caf8ca4df248d6f243d3c4d2a086bdf1a302975598e13d608ed368acbb18935f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-034
+    - c-161849
 
 <a id="claim-t-178019"></a>
-- t-002
+- t-033
   global_id: t-178019
-  teiginys: 'Kryžiuočiai, užėmę Prūsiją, sunaikino Romuvą.'
+  teiginys: "Kryžiuočiai, užėmę Prūsiją, sunaikino Romuvą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "63946-64506; hash=b2cc2bc323d95d5dbaee55dea1dcd5948b5999ba74f527440abaac3059c88925; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Romuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Romuva: mention_match, place, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Romuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-057
+    - c-161890
 
 <a id="claim-t-178020"></a>
-- t-003
+- t-091
   global_id: t-178020
-  teiginys: 'Rugpjūčio 8 d. apie trečią valandą visoje Prūsijoje tris kartus drebėjo žemė su pastatais.'
+  teiginys: "Rugpjūčio 8 d. apie trečią valandą visoje Prūsijoje tris kartus drebėjo žemė su pastatais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "616125-616340; hash=c1487879ec4628edf15085b445cf4eb0e5b79cdebfe133670b4c136ede578d01; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-044
+    - c-161865
 
 <a id="claim-t-178021"></a>
-- t-004
+- t-026
   global_id: t-178021
-  teiginys: 'Sutikdami apsikrikštyti, Jogaila ir Vytautas reikalavo grąžinti Lietuvai žemes iki Deimės ir Alės upių Prūsijoje.'
+  teiginys: "Sutikdami apsikrikštyti, Jogaila ir Vytautas reikalavo grąžinti Lietuvai žemes iki Deimės ir Alės upių Prūsijoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "44060-44537; hash=5a568f6c5bd53762fb63245aa0dc41cf65d841018062cfee33dba8b16c30ea0e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=78"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-047
+    - c-161869
 
 <a id="claim-t-178022"></a>
-- t-005
+- t-027
   global_id: t-178022
-  teiginys: 'Vytautas pareiškė galįs siekti Prūsijos, nes šis kraštas seniau priklausė jo protėviams.'
+  teiginys: "Vytautas pareiškė galįs siekti Prūsijos, nes šis kraštas seniau priklausė jo protėviams."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "332360-332902; hash=47fbe6f5cd6fed1b0c71d99cc98175fc8f3193d8f897bdfe98929bfca7c8685c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-039
+    - c-161855
 
 <a id="claim-t-178023"></a>
-- t-006
+- t-009
   global_id: t-178023
-  teiginys: 'Sutikdami apsikrikštyti, Jogaila ir Vytautas reikalavo, kad Vokiečių Ordinas grąžintų Lietuvai žemes iki Deimės ir Alės upių Prūsijoje.'
+  teiginys: "Sutikdami apsikrikštyti, Jogaila ir Vytautas reikalavo, kad Vokiečių Ordinas grąžintų Lietuvai žemes iki Deimės ir Alės upių Prūsijoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "44060-44537; hash=5a568f6c5bd53762fb63245aa0dc41cf65d841018062cfee33dba8b16c30ea0e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=100"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-047
+    - c-161869
 
 <a id="claim-t-178024"></a>
-- t-007
+- t-077
   global_id: t-178024
-  teiginys: 'Vytauto laikais Vilniaus prekyba išsišakojo su Prūsijos ir Livonijos miestais, Pskovu, Naugardu ir Maskva.'
+  teiginys: "Vytauto laikais Vilniaus prekyba išsišakojo su Prūsijos ir Livonijos miestais, Pskovu, Naugardu ir Maskva."
+  semantiniai_rysiai: "Vilnius prekiavo su Prūsija (0.90); Vilnius prekiavo su Livonija (0.90); Vilnius prekiavo su Maskva (0.88)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "297585-298500; hash=859af48acd0d764849264671c094e06cb6f11d04c09f7dcae60126379694ea2e; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Livonija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo Vilniaus prekybos ryšius su Livonijos miestais."
   pagrindžia:
-    - c-030
+    - c-161840
 
 <a id="claim-t-178025"></a>
-- t-008
+- t-067
   global_id: t-178025
-  teiginys: '1385 m. rugpjūtį didysis magistras Konradas Ciolneris Rotenšteinas iš Prūsijos puolė Lietuvos žemes.'
+  teiginys: "1385 m. rugpjūtį didysis magistras Konradas Ciolneris Rotenšteinas iš Prūsijos puolė Lietuvos žemes."
+  semantiniai_rysiai: "Konradas Ciolneris Rotenšteinas puolė Lietuva (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1385 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Nutrūkęs fragmentas perrašytas į aiškų sakinį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "113634-114215; hash=1768a18f30d457693b9fc4c72beb0906e1a38a35dc323e42ec487b77de8b1792; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Lietuva: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Konradas Ciolneris Rotenšteinas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Konradas su pajėgomis persikėlė į Lietuvos kraštą ir jį niokojo, todėl puolimo ryšys tiesiogiai pagrįstas."
   pagrindžia:
-    - c-013
+    - c-161820
 
 <a id="claim-t-178026"></a>
-- t-009
+- t-063
   global_id: t-178026
-  teiginys: '1325 m. Vilniuje Gediminas ir Lokietka sudarė sutartį bendromis jėgomis kovoti su Prūsijos ordinu.'
+  teiginys: "1325 m. Vilniuje Gediminas ir Lokietka sudarė sutartį bendromis jėgomis kovoti su Prūsijos ordinu."
+  semantiniai_rysiai: "Gediminas sudarė sutartį su Lokietka (0.95)"
+  temporaliniai_duomenys: "įvykio data: 1325 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Ilgas fragmentas sutrumpintas iki palaikomo fakto apie Prūsijos ordiną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "70697-71589; hash=3d271c0059e87caed8577ec65527e95148e1db6c290904fe5bd57743357551d4; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "sudare_sutarti_su -> Lokietka: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lokietka: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Frazė tiesiogiai nurodo Gedimino sutartį su Lokietka."
   pagrindžia:
-    - c-038
+    - c-161854
 
-<a id="claim-t-178027"></a>
-- t-010
-  global_id: t-178027
-  teiginys: 'Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai nusiaubė kraštą ir grįžo į Prūsiją bei Livoniją.'
+<a id="claim-t-178044"></a>
+- t-048
+  global_id: t-178044
+  teiginys: "Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai nusiaubė kraštą ir grįžo į Prūsiją bei Livoniją."
+  semantiniai_rysiai: "Kryžiuočių ordinas keliavo į Prūsija (0.88); Kryžiuočių ordinas keliavo į Livonija (0.86)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "278499-279159; hash=0620ac87232121fb85bd5ee4ec7b2cabcd90b142e6a510f84448e13a1cae6348; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad kryžiuočiai grįžo į Prūsiją."
   pagrindžia:
-    - c-031
+    - c-161842
 
 <a id="claim-t-178028"></a>
-- t-011
+- t-046
   global_id: t-178028
-  teiginys: '1390 m. sausio pradžioje Vytautas išsiuntė savo šeimą iš Gardino į Prūsiją.'
+  teiginys: "1390 m. sausio pradžioje Vytautas išsiuntė savo šeimą iš Gardino į Prūsiją."
+  temporaliniai_duomenys: "įvykio data: 1390 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "257198-257831; hash=260e90123c56d5149e97f632d71275d7d0ca9efe008b60e035fb6c613e460003; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gardinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gardinas: mention_match, place, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-012
+    - c-161819
 
 <a id="claim-t-178029"></a>
-- t-012
+- t-024
   global_id: t-178029
-  teiginys: 'Carienės Kotrynos II vykdytuose Respublikos padalijimuose trečdalį jos teritorijos teko užleisti Prūsijai ir Austrijai.'
+  teiginys: "Carienės Kotrynos II vykdytuose Respublikos padalijimuose trečdalį jos teritorijos teko užleisti Prūsijai ir Austrijai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "85443-85839; hash=f07691878e0fd886274f3f1e85a35014bc5b7220f77ef916080145a77d982f5b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Austrija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Austrija: mention_match, place, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Austrija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-32359
 
 <a id="claim-t-178030"></a>
-- t-013
+- t-065
   global_id: t-178030
-  teiginys: '1380 m. Vaidila kaip pasiuntinys nuvyko į Prūsiją ir paruošė dirvą slaptam Jogailos sandėriui su arkikomtūru.'
+  teiginys: "1380 m. Vaidila kaip pasiuntinys nuvyko į Prūsiją ir paruošė dirvą slaptam Jogailos sandėriui su arkikomtūru."
+  semantiniai_rysiai: "Vaidila keliavo į Prūsija (0.96)"
+  temporaliniai_duomenys: "kelionės data: 1380 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys išvalytas nuo OCR triukšmo ir paliktas palaikomas faktas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "97360-97825; hash=4d5f356223629a7876c1df3f38637714b8b05e8d0c7be2253074f650393efdca; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vaidila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Vaidila nuvyko į Prūsiją."
   pagrindžia:
-    - c-018
+    - c-161826
 
-<a id="claim-t-178031"></a>
-- t-014
-  global_id: t-178031
-  teiginys: 'Abraomo Kulviečio ir Martyno Mažvydo kultūrinė programa Prūsijoje pradėjo lietuviakalbės raštijos tradiciją.'
+<a id="claim-t-178066"></a>
+- t-018
+  global_id: t-178066
+  teiginys: "Abraomo Kulviečio ir Martyno Mažvydo kultūrinė programa Prūsijoje pradėjo lietuviakalbės raštijos tradiciją."
+  temporaliniai_duomenys: "įvykio data: 1595 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Prūsijoje kurtą raštijos tradiciją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "140347-140659; hash=10f0dd9c80385ec759e2a3b102bdf3a8ffd2d4faae3018545a6871f73b47e267; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Martynas Mažvydas Vaitkūnas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Martynas Mažvydas Vaitkūnas: mention_match, author, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Martynas Mažvydas Vaitkūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-161815
 
 <a id="claim-t-178032"></a>
-- t-015
+- t-074
   global_id: t-178032
-  teiginys: '1390 m. sausio pradžioje Vytautas išsiuntė šeimą iš Gardino į Prūsiją ir rengėsi atnaujinti sutartis su didžiuoju magistru.'
+  teiginys: "1390 m. sausio pradžioje Vytautas išsiuntė šeimą iš Gardino į Prūsiją ir rengėsi atnaujinti sutartis su didžiuoju magistru."
+  temporaliniai_duomenys: "sutarties data: 1390 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išplėstas numanomas veikėjas ir pašalintas OCR triukšmas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "257198-257831; hash=260e90123c56d5149e97f632d71275d7d0ca9efe008b60e035fb6c613e460003; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gardinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gardinas: mention_match, place, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-012
+    - c-161819
 
 <a id="claim-t-178033"></a>
-- t-016
+- t-072
   global_id: t-178033
-  teiginys: 'Gedimino laiškai, anot pasakojimo, riterių buvo paimti į Prūsiją ir taip atsidūrė kryžiuočių archyve.'
+  teiginys: "Gedimino laiškai, anot pasakojimo, riterių buvo paimti į Prūsiją ir taip atsidūrė kryžiuočių archyve."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "222761-223329; hash=612c82c515ee28e3f3ed19fbbd6baf2be93d42bead8b873ad76dca3dac944c9a; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=25"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-015
+    - c-161822
 
 <a id="claim-t-178034"></a>
-- t-017
+- t-031
   global_id: t-178034
-  teiginys: 'Apie 880 m. iš Danijos ištremti žmonės persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje.'
+  teiginys: "Apie 880 m. iš Danijos ištremti žmonės persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje."
+  temporaliniai_duomenys: "įvykio data: 880 m; įvykio data: apie 880 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Reikia išplėsti neaiškų žodį „tremtiniai“ ir pašalinti perteklinę detalę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "55503-55948; hash=5dfc9b9666c3518734b49aebfe9f2016f63bd2bbf99a1e273ca0012f7c73619d; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Karelija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Karelija: mention_match, place, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Karelija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-033
+    - c-161847
 
 <a id="claim-t-178036"></a>
-- t-018
+- t-083
   global_id: t-178036
-  teiginys: 'Petro iš Dusburgo kronikoje Prūsijos žemė skirstoma į 11 atskirų žemių.'
+  teiginys: "Petro iš Dusburgo kronikoje Prūsijos žemė skirstoma į 11 atskirų žemių."
+  semantiniai_rysiai: "Kulmas priklausė Prūsija (0.72); Lubavas priklausė Prūsija (0.72); Varmė priklausė Prūsija (0.72)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "161483-161993; hash=33ad3a900c6737210f6f8cca637ba0acd1f5cc92b5989fed0ea6eb0f177ace24; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Prūsija: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Varmė: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Varmė minima tarp Prūsijos žemės dalių."
   pagrindžia:
-    - c-035
+    - c-161850
 
 <a id="claim-t-178037"></a>
-- t-019
+- t-097
   global_id: t-178037
-  teiginys: '1960 m. buvo suredaguotas leidinys „Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietuviams valstiečiams“.'
+  teiginys: "1960 m. buvo suredaguotas leidinys „Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietuviams valstiečiams“."
+  temporaliniai_duomenys: "įvykio data: 1960 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia leidinio faktą, bet įvardis nepakankamai aiškus asmeniui įvardyti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "174443-174742; hash=63d1a7a258a03b2d027e447e33f845f3417ceb6fcf9d2ad6204203b64fb368bf; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=55"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-022
+    - c-161831
 
 <a id="claim-t-178038"></a>
-- t-020
+- t-040
   global_id: t-178038
-  teiginys: 'Per didelius šalčius Prūsijoje ir Livonijoje nušalo visi vaismedžiai.'
+  teiginys: "Per didelius šalčius Prūsijoje ir Livonijoje nušalo visi vaismedžiai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "161329-161870; hash=35ab6cf765f956ab262f420a4db57df76d178336f2922bd4b5965c0cb8fab17f; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-029
+    - c-161839
 
 <a id="claim-t-178039"></a>
-- t-021
+- t-066
   global_id: t-178039
-  teiginys: 'Skirgaila, gavęs pavedimą, nuvyko į Prūsiją ir ėmė rengti antpuolius prieš Kęstutį bei Lietuvą.'
+  teiginys: "Skirgaila, gavęs pavedimą, nuvyko į Prūsiją ir ėmė rengti antpuolius prieš Kęstutį bei Lietuvą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "102746-103115; hash=7afedf7e8f9c47602d98dbf49258911bbcf623fd49be44f92648e8cbb36c21cb; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-056
+    - c-161889
 
 <a id="claim-t-178040"></a>
-- t-022
+- t-015
   global_id: t-178040
-  teiginys: 'XVIII a. pabaigoje didesnė dalis LDK kariuomenei skirtų muškietų buvo nupirkta stiprią karinę pramonę turėjusioje Prūsijoje.'
+  teiginys: "XVIII a. pabaigoje didesnė dalis LDK kariuomenei skirtų muškietų buvo nupirkta stiprią karinę pramonę turėjusioje Prūsijoje."
+  temporaliniai_duomenys: "įvykio data: 1792 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra faktinis sakinys apie Prūsiją ir LDK kariuomenės ginkluotę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "610409-610970; hash=25861f8a31874820cc3fa9ac27a96461ffa4b67989b6b707f1ff1cff777b20ba; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baiga: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Baiga: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Baiga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-43771
 
 <a id="claim-t-178041"></a>
-- t-023
+- t-090
   global_id: t-178041
-  teiginys: 'Po Kryžiuočių ordino užkariavimo Prūsija galutinai imtas vadinti visas kraštas tarp Vyslos ir Nemuno.'
+  teiginys: "Po Kryžiuočių ordino užkariavimo Prūsija galutinai imtas vadinti visas kraštas tarp Vyslos ir Nemuno."
+  semantiniai_rysiai: "Kryžiuočių ordinas užkariavo Prūsija (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "173294-173840; hash=49b1473fcdba7ce439caae7283fa7b9bf65542f5e0a17ac47ec658b103baab3d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzkariavo -> Prūsija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai sieja krašto pavergimą su Kryžiuočių ordinu."
   pagrindžia:
-    - c-008
+    - c-161814
 
 <a id="claim-t-178042"></a>
-- t-024
+- t-030
   global_id: t-178042
-  teiginys: 'Salyno taikoje nutarta, kad lietuvių pirkliai Prūsijoje ir Livonijoje galės laisvai prekiauti be naujų muitų.'
+  teiginys: "Salyno taikoje nutarta, kad lietuvių pirkliai Prūsijoje ir Livonijoje galės laisvai prekiauti be naujų muitų."
+  semantiniai_rysiai: "Lietuviai prekiavo su Prūsija (0.90); Lietuviai prekiavo su Livonija (0.88)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "614489-614969; hash=b820c420ffe2c7cbb2386a8042c38a3c0b2ef0ed733e85c84461bbd3652ed95c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Prūsija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo lietuvių pirklius prekiaujant Prūsijoje."
   pagrindžia:
-    - c-046
+    - c-161867
 
 <a id="claim-t-178043"></a>
-- t-025
+- t-010
   global_id: t-178043
-  teiginys: 'Vytautas pareiškė galįs siekti Prūsijos, nes šis kraštas esą anksčiau priklausė jo protėviams.'
+  teiginys: "Vytautas pareiškė galįs siekti Prūsijos, nes šis kraštas esą anksčiau priklausė jo protėviams."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "332360-332902; hash=47fbe6f5cd6fed1b0c71d99cc98175fc8f3193d8f897bdfe98929bfca7c8685c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-039
+    - c-161855
+
+<a id="claim-t-178044"></a>
+- t-048
+  global_id: t-178044
+  teiginys: "Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai nusiaubė kraštą ir grįžo į Prūsiją bei Livoniją."
+  semantiniai_rysiai: "Kryžiuočių ordinas keliavo į Prūsija (0.88); Kryžiuočių ordinas keliavo į Livonija (0.86)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "278499-279159; hash=0620ac87232121fb85bd5ee4ec7b2cabcd90b142e6a510f84448e13a1cae6348; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad kryžiuočiai grįžo į Prūsiją."
+  pagrindžia:
+    - c-161842
 
 <a id="claim-t-178045"></a>
-- t-027
+- t-011
   global_id: t-178045
-  teiginys: 'Zigmantas siekė su kryžiuočių pagalba sudaryti Lietuvos, Prūsijos, Vengrijos ir Čekijos sąjungą prieš Lenkiją.'
+  teiginys: "Zigmantas siekė su kryžiuočių pagalba sudaryti Lietuvos, Prūsijos, Vengrijos ir Čekijos sąjungą prieš Lenkiją."
+  semantiniai_rysiai: "Zigmantas (Romos imperatorius) rėmė Kryžiuočių ordinas (0.76)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "535950-536444; hash=62a9b5e8f177e2fa6e1f6e9a22016681bbeba43e73d4bea3fe2f50c068c3b9dc; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Kryžiuočių ordinas: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Zigmantas (Romos imperatorius): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Zigmantas siekė tikslo su kryžiuočių pagalba, todėl kryžiuočių parama jo planui tiesiogiai nurodyta."
   pagrindžia:
-    - c-041
+    - c-161859
 
 <a id="claim-t-178046"></a>
-- t-028
+- t-023
   global_id: t-178046
-  teiginys: 'Po pralaimėjimo Vilniaus prieigose dalies lenkų dalinių likučiai perėjo sieną su Prūsija.'
+  teiginys: "Po pralaimėjimo Vilniaus prieigose dalies lenkų dalinių likučiai perėjo sieną su Prūsija."
+  semantiniai_rysiai: "Lenkai keliavo į Prūsija (0.70)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "196942-197198; hash=c8925a2058725ee1e027dab99e0a4010594c04e5c011bbe1ce31f2133933a2e9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas nurodo, kad lenkų dalinių likučiai perėjo sieną su Prūsija, tai reiškia judėjimą į Prūsiją."
   pagrindžia:
-    - c-010
+    - c-161816
 
 <a id="claim-t-178048"></a>
-- t-029
+- t-049
   global_id: t-178048
-  teiginys: 'Vilniaus prekyba buvo išsišakojusi su Prūsijos ir Livonijos miestais, Pskovu, Naugardu ir Maskva.'
+  teiginys: "Vilniaus prekyba buvo išsišakojusi su Prūsijos ir Livonijos miestais, Pskovu, Naugardu ir Maskva."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "297585-298500; hash=859af48acd0d764849264671c094e06cb6f11d04c09f7dcae60126379694ea2e; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-030
+    - c-161840
 
 <a id="claim-t-178050"></a>
-- t-030
+- t-054
   global_id: t-178050
-  teiginys: 'Livonija vis glaudžiau šliejosi prie Prūsijos.'
+  teiginys: "Livonija vis glaudžiau šliejosi prie Prūsijos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "430609-430872; hash=8da10ae7c4ab9d5b43ae8e75d6e94c56d7131efd39e131b12e8b75ecd4a5a464; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-017
+    - c-161824
 
 <a id="claim-t-178051"></a>
-- t-031
+- t-070
   global_id: t-178051
-  teiginys: 'Popiežius nenorėjo be tolesnio nagrinėjimo patvirtinti sutarties, galbūt dėl naujesnių žinių iš Prūsijos.'
+  teiginys: "Popiežius nenorėjo be tolesnio nagrinėjimo patvirtinti sutarties, galbūt dėl naujesnių žinių iš Prūsijos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "176021-177149; hash=bef9323d457b3864381f9e14cced233651c83ed30c1377342d1e8ca7aa35c562; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dorpatas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Dorpatas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Dorpatas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-016
+    - c-161823
 
 <a id="claim-t-178052"></a>
-- t-032
+- t-071
   global_id: t-178052
-  teiginys: 'Prūsijos teutonų ordino broliai pasiuntė kariuomenę aplinkiniais keliais ir sudegino Vytenio pranciškonams pastatytą bažnyčią.'
+  teiginys: "Prūsijos teutonų ordino broliai pasiuntė kariuomenę aplinkiniais keliais ir sudegino Vytenio pranciškonams pastatytą bažnyčią."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "193781-194689; hash=389761b2bf32064570db8523d5c5943f1787dc2b586facf0caa435cec7f2ef6c; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pranciškonų ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Pranciškonų ordinas: mention_match, group, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Pranciškonų ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-023
+    - c-161832
 
 <a id="claim-t-178053"></a>
-- t-033
+- t-013
   global_id: t-178053
-  teiginys: '1231 m. Prūsijoje pradėjęs veikti Kryžiuočių ordinas buvo stipresnis ir geriau organizuotas nei kalavijuočiai.'
+  teiginys: "1231 m. Prūsijoje pradėjęs veikti Kryžiuočių ordinas buvo stipresnis ir geriau organizuotas nei kalavijuočiai."
+  temporaliniai_duomenys: "įvykio data: 1231 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Prūsiją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "50675-50904; hash=f5ba3398bcd4fa4e128eb656d60aff62338eadf66b66a3166e11d2eecab30e32; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kalavijuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kalavijuočių ordinas: mention_match, group, gap=37"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Kalavijuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-43769
 
 <a id="claim-t-178054"></a>
-- t-034
+- t-039
   global_id: t-178054
-  teiginys: '1322 m. žiemą po ilgos ramybės nauja kryžiuočių ekspedicija patraukė į Prūsiją.'
+  teiginys: "1322 m. žiemą po ilgos ramybės nauja kryžiuočių ekspedicija patraukė į Prūsiją."
+  temporaliniai_duomenys: "įvykio data: 1322 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir atitinka citatos informaciją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "157341-157685; hash=0688e02507c1f3a89f95d457d731ed49d69f4990eb86246c06ace9e782c2b545; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bernardas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Bernardas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Bernardas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-053
+    - c-161884
+
+<a id="claim-t-178034"></a>
+- t-031
+  global_id: t-178034
+  teiginys: "Apie 880 m. iš Danijos ištremti žmonės persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje."
+  temporaliniai_duomenys: "įvykio data: 880 m; įvykio data: apie 880 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Reikia išplėsti neaiškų žodį „tremtiniai“ ir pašalinti perteklinę detalę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "55503-55948; hash=5dfc9b9666c3518734b49aebfe9f2016f63bd2bbf99a1e273ca0012f7c73619d; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Karelija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Karelija: mention_match, place, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Karelija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-161847
 
 <a id="claim-t-178057"></a>
-- t-036
+- t-032
   global_id: t-178057
-  teiginys: 'Prūsijos dokumentuose Vilija XIII amžiuje buvo vadinama Nerimi arba Neria.'
+  teiginys: "Prūsijos dokumentuose Vilija XIII amžiuje buvo vadinama Nerimi arba Neria."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "59082-59416; hash=4ced0defc9f97388a756d78735c5d178a934461846b9668dbd499c603a9c73a0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Neris: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Neris: mention_match, place, gap=56"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Neris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-049
+    - c-161875
 
-<a id="claim-t-178058"></a>
-- t-037
-  global_id: t-178058
-  teiginys: '1793 m. sausio 23 d. Prūsija su Rusija pasirašė susitarimą dėl Abiejų Tautų Respublikos II padalijimo.'
+<a id="claim-t-178093"></a>
+- t-014
+  global_id: t-178093
+  teiginys: "1793 m. sausio 23 d. Prūsija su Rusija pasirašė susitarimą dėl Abiejų Tautų Respublikos II padalijimo."
+  temporaliniai_duomenys: "įvykio data: 1793 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "606389-606799; hash=e00d297b09f9f787c1ab3e6885545e49e32042f5bbdeb9e647d54198ccf61e0e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-43770
 
 <a id="claim-t-178059"></a>
-- t-038
+- t-075
   global_id: t-178059
-  teiginys: 'Baigus pasirengimą mūšiams Prūsijoje, rugpjūtį atvyko savanorių iš Anglijos ir Prancūzijos.'
+  teiginys: "Baigus pasirengimą mūšiams Prūsijoje, rugpjūtį atvyko savanorių iš Anglijos ir Prancūzijos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "259602-260285; hash=2221a93e3f8c6e9ee62076d811d681f92f08dc9e23441ab7cafcf8e6a82889da; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Anglija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Anglija: mention_match, place, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Anglija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-026
+    - c-161835
 
 <a id="claim-t-178060"></a>
-- t-039
+- t-035
   global_id: t-178060
-  teiginys: '1375 m. ekspedicija iš Prūsijos sukėlė Vilniui grėsmę.'
+  teiginys: "1375 m. ekspedicija iš Prūsijos sukėlė Vilniui grėsmę."
+  temporaliniai_duomenys: "įvykio data: 1375 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "90449-91040; hash=7c99cb02808678bcac2f235645346e330b879d36249974bae430965458945dd1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=16"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-032
+    - c-161843
 
 <a id="claim-t-178061"></a>
-- t-040
+- t-086
   global_id: t-178061
-  teiginys: 'Dusburgiečio kronikoje teigiama, kad kryžiaus karui „viešpats pasirinko Prūsijos žemę“, o Ordino veiksmai laikyti Dievo veiksmais.'
+  teiginys: "Dusburgiečio kronikoje teigiama, kad kryžiaus karui „viešpats pasirinko Prūsijos žemę“, o Ordino veiksmai laikyti Dievo veiksmais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "742966-743524; hash=53bcc9886dea7ce3c986b963569b5a159531e635d5668261c3b11e4dcd0e4474; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžius: mention_match, thing, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Kryžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-161812
 
 <a id="claim-t-178062"></a>
-- t-041
+- t-084
   global_id: t-178062
-  teiginys: 'Petro iš Dusburgo kronikoje Prūsijos vardu politine prasme vadintas Ordino užkariautas plotas nuo Vyslos iki Nemuno.'
+  teiginys: "Petro iš Dusburgo kronikoje Prūsijos vardu politine prasme vadintas Ordino užkariautas plotas nuo Vyslos iki Nemuno."
+  semantiniai_rysiai: "Prūsai valdė teritoriją Kulmas (0.90); Kryžiuočių ordinas užkariavo Prūsija (0.88); Kulmas priklausė Lenkai (0.76)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "519578-520061; hash=d211fde8467c220c0263a945badfdabda79ca578a57e149bc6a4975efea3459f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_teritorija -> Kulmas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Prūsai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kulmas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Kulmo sritį valdė prūsai."
   pagrindžia:
-    - c-043
+    - c-161862
 
 <a id="claim-t-178064"></a>
-- t-042
+- t-055
   global_id: t-178064
-  teiginys: 'Po Žygimanto Kęstutaičio mirties Prūsijos ordino įtaka Lietuvos likimui liovėsi vyravusi.'
+  teiginys: "Po Žygimanto Kęstutaičio mirties Prūsijos ordino įtaka Lietuvos likimui liovėsi vyravusi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "452726-453378; hash=0b60a14e68cec6b18e7cb11d5e97f1a2a3e5c1e74058c857a1fc81cdfe43a11c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-025
+    - c-161834
 
 <a id="claim-t-178065"></a>
-- t-043
+- t-094
   global_id: t-178065
-  teiginys: '1329 m. Jonas Liuksemburgietis, Čekijos karalius, su kilmingaisiais atžygiavo į Prūsijos žemę.'
+  teiginys: "1329 m. Jonas Liuksemburgietis, Čekijos karalius, su kilmingaisiais atžygiavo į Prūsijos žemę."
+  temporaliniai_duomenys: "įvykio data: 1329 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Jono Liuksemburgiečio atvykimą į Prūsiją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "748283-749070; hash=36e3f0c9a55d4ce721f7ed1a3f81891a9c33ee636eeb451a2d4c5ae88e4f6de2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Anglija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Anglija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Anglija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-037
+    - c-161853
+
+<a id="claim-t-178066"></a>
+- t-018
+  global_id: t-178066
+  teiginys: "Abraomo Kulviečio ir Martyno Mažvydo kultūrinė programa Prūsijoje pradėjo lietuviakalbės raštijos tradiciją."
+  temporaliniai_duomenys: "įvykio data: 1595 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Prūsijoje kurtą raštijos tradiciją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "140347-140659; hash=10f0dd9c80385ec759e2a3b102bdf3a8ffd2d4faae3018545a6871f73b47e267; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Martynas Mažvydas Vaitkūnas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Martynas Mažvydas Vaitkūnas: mention_match, author, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Martynas Mažvydas Vaitkūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  pagrindžia:
+    - c-161815
 
 <a id="claim-t-178068"></a>
-- t-045
+- t-036
   global_id: t-178068
-  teiginys: 'Vaidila 1380 m. nuvyko į Prūsiją ir paruošė Jogailai dirvą slaptam sandėriui su arkikomtūru.'
+  teiginys: "Vaidila 1380 m. nuvyko į Prūsiją ir paruošė Jogailai dirvą slaptam sandėriui su arkikomtūru."
+  temporaliniai_duomenys: "kelionės data: 1380 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "97360-97825; hash=4d5f356223629a7876c1df3f38637714b8b05e8d0c7be2253074f650393efdca; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-018
+    - c-161826
 
 <a id="claim-t-178069"></a>
-- t-046
+- t-096
   global_id: t-178069
-  teiginys: 'Per Kotrynos II įvykdytus Respublikos padalijimus trečdalis valstybės buvo atiduotas Prūsijai ir Austrijai.'
+  teiginys: "Per Kotrynos II įvykdytus Respublikos padalijimus trečdalis valstybės buvo atiduotas Prūsijai ir Austrijai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "85363-85701; hash=ac6384c4e7510ba7804c10e6ce999d025a73a24a98551d6c53bac4bbb8324499; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Austrija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Austrija: mention_match, place, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Austrija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-054
+    - c-161885
 
 <a id="claim-t-178070"></a>
-- t-047
+- t-087
   global_id: t-178070
-  teiginys: 'Dusburgiečio kronikoje pabrėžiama, kad Ordino broliai apvalė „šventąją Prūsijos žemę“ nuo stabmeldystės.'
+  teiginys: "Dusburgiečio kronikoje pabrėžiama, kad Ordino broliai apvalė „šventąją Prūsijos žemę“ nuo stabmeldystės."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "775518-776221; hash=71fbe071b2b429d43f3d5c217e8d098d2d9e13cb61aa62c500ed2554ff1bcee1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-021
+    - c-161830
 
 <a id="claim-t-178071"></a>
-- t-048
+- t-093
   global_id: t-178071
-  teiginys: 'Vienais metais Prūsijos žemėje buvo pagaunama kur kas mažiau silkių negu anksčiau.'
+  teiginys: "Vienais metais Prūsijos žemėje buvo pagaunama kur kas mažiau silkių negu anksčiau."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "740427-740606; hash=99554f6378dc9a594fbfa8f72dbc2e79f5138e5af6a6c178c883a27a56e4b88e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Burtininkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Burtininkai: mention_match, group, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Burtininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-048
+    - c-161873
 
 <a id="claim-t-178072"></a>
-- t-049
+- t-062
   global_id: t-178072
-  teiginys: 'Kryžiuočiai sunaikino Romuvas, užėmę Prūsiją.'
+  teiginys: "Kryžiuočiai sunaikino Romuvas, užėmę Prūsiją."
+  semantiniai_rysiai: "Kryžiuočių ordinas užėmė Prūsija (0.94)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "63826-64379; hash=1900f68393eba5aa1e769cdd667fbe4c4b7377e16697d37490d3e30704d14a5e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Prūsija: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad kryžiuočiai užėmė Prūsiją."
   pagrindžia:
-    - c-040
+    - c-161857
 
 <a id="claim-t-178073"></a>
-- t-050
+- t-085
   global_id: t-178073
-  teiginys: 'Petro iš Dusburgo kronikos IV dalies paaiškinimai Prūsijos įvykius gretino su visuotinės istorijos faktais.'
+  teiginys: "Petro iš Dusburgo kronikos IV dalies paaiškinimai Prūsijos įvykius gretino su visuotinės istorijos faktais."
+  temporaliniai_duomenys: "įvykio data: 1278 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir paremtas citata apie IV dalies paaiškinimų pobūdį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "716883-717111; hash=0e96549574ae8f54d841f4cc3a3fdcf57c5cb01eedfb088e339ac5bda8725f9a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dusburgas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Dusburgas: mention_match, author, gap=41"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Dusburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-014
+    - c-161821
 
 <a id="claim-t-178074"></a>
-- t-051
+- t-038
   global_id: t-178074
-  teiginys: 'Prūsiją pasiekus žiniai apie Jogailos derybų sėkmę, Konradas Ciolneris Rotenšteinas 1385 m. rugpjūtį puolė Lietuvą.'
+  teiginys: "Prūsiją pasiekus žiniai apie Jogailos derybų sėkmę, Konradas Ciolneris Rotenšteinas 1385 m. rugpjūtį puolė Lietuvą."
+  temporaliniai_duomenys: "įvykio data: 1385 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "113634-114215; hash=1768a18f30d457693b9fc4c72beb0906e1a38a35dc323e42ec487b77de8b1792; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Konradas Ciolneris Rotenšteinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Konradas Ciolneris Rotenšteinas: mention_match, person, gap=52"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Konradas Ciolneris Rotenšteinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-013
+    - c-161820
 
 <a id="claim-t-178075"></a>
-- t-052
+- t-034
   global_id: t-178075
-  teiginys: '1325 m. Vilniuje pasirašyta Gedimino sutartis su Lokietka numatė bendrą kovą su Prūsijos ordinu.'
+  teiginys: "1325 m. Vilniuje pasirašyta Gedimino sutartis su Lokietka numatė bendrą kovą su Prūsijos ordinu."
+  temporaliniai_duomenys: "sutarties data: 1325 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "70697-71589; hash=3d271c0059e87caed8577ec65527e95148e1db6c290904fe5bd57743357551d4; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-038
+    - c-161854
 
 <a id="claim-t-178076"></a>
-- t-053
+- t-088
   global_id: t-178076
-  teiginys: 'Dusburgiečio kronikoje Ordino karas Prūsijoje vaizduojamas kaip vykęs „pagal dievo valią“.'
+  teiginys: "Dusburgiečio kronikoje Ordino karas Prūsijoje vaizduojamas kaip vykęs „pagal dievo valią“."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "814862-815269; hash=037a73142cb14e78becb7dec6e5923114f008c33d8e6a269d856bcf771e3036e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Baltai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-050
+    - c-161877
 
 <a id="claim-t-178077"></a>
-- t-054
+- t-021
   global_id: t-178077
-  teiginys: 'Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo.'
+  teiginys: "Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo."
+  temporaliniai_duomenys: "įvykio data: 1795 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "179105-179498; hash=f806dce32b8c48dae5159da6b9429a97eb986b2e41a134673e26baaa001f15ff; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=41"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-052
+    - c-161880
 
 <a id="claim-t-178078"></a>
-- t-055
+- t-078
   global_id: t-178078
-  teiginys: '1394 m. Prūsijos ordinas pasinaudojo Švitrigailos išvykimu pas kryžiuočius ir pradėjo karą prieš Lietuvą bei Lenkiją.'
+  teiginys: "1394 m. Prūsijos ordinas pasinaudojo Švitrigailos išvykimu pas kryžiuočius ir pradėjo karą prieš Lietuvą bei Lenkiją."
+  temporaliniai_duomenys: "įvykio data: 1394 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Ilgas fragmentas sutrumpintas iki aiškaus fakto apie Prūsijos ordiną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "298182-299319; hash=47bfdc462b944138e31f5a8480086b32f98f3f9f333d446d24cc37e49640b362; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-161813
 
 <a id="claim-t-178080"></a>
-- t-056
+- t-012
   global_id: t-178080
-  teiginys: 'Lietuvių pirkliai Prūsijoje ir Livonijoje galėjo laisvai prekiauti be naujų muitų, išskyrus senuosius.'
+  teiginys: "Lietuvių pirkliai Prūsijoje ir Livonijoje galėjo laisvai prekiauti be naujų muitų, išskyrus senuosius."
+  semantiniai_rysiai: "Lietuviai prekiavo su Prūsija (0.88); Lietuviai prekiavo su Livonija (0.86)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "614489-614969; hash=b820c420ffe2c7cbb2386a8042c38a3c0b2ef0ed733e85c84461bbd3652ed95c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Prūsija: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo lietuvių pirklių prekybą Prūsijoje."
   pagrindžia:
-    - c-046
+    - c-161867
+
+<a id="claim-t-178082"></a>
+- t-064
+  global_id: t-178082
+  teiginys: "1375 m. ekspedicija iš Prūsijos sukėlė Vilniui grėsmę."
+  temporaliniai_duomenys: "įvykio data: 1375 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir paremtas citata apie 1375 metų ekspediciją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "90375-90784; hash=b4aa9e14a6e510b74b6633f962fd3c9107994b88827495c5d06843a19f70ceaa; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=16"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-161866
 
 <a id="claim-t-178083"></a>
-- t-058
+- t-089
   global_id: t-178083
-  teiginys: 'Prūsijos žemę ribojo Vysla, Sūrioji jūra, Nemunas, Rusios žemė, Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė.'
+  teiginys: "Prūsijos žemę ribojo Vysla, Sūrioji jūra, Nemunas, Rusios žemė, Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "834736-835116; hash=9e88df0fddafe08e984bf16d505be0551738b1fdcd961b048200a9c093313faa; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dobrynė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Dobrynė: mention_match, place, gap=92"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Dobrynė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-055
+    - c-161887
 
 <a id="claim-t-178084"></a>
-- t-059
+- t-041
   global_id: t-178084
-  teiginys: 'Prūsijoje pasklido gandas, kad Gediminas laiškais skelbė norą priimti krikštą.'
+  teiginys: "Prūsijoje pasklido gandas, kad Gediminas laiškais skelbė norą priimti krikštą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "167988-168825; hash=26feb7333d651cec9edd1a5112ead024e469d01de837c52e150d5316fc95e7f1; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-042
+    - c-161860
 
 <a id="claim-t-178085"></a>
-- t-060
+- t-092
   global_id: t-178085
-  teiginys: '1304 m. Vokietijos maldininkai vėl išsirengė keliauti į Prūsijos žemę.'
+  teiginys: "1304 m. Vokietijos maldininkai vėl išsirengė keliauti į Prūsijos žemę."
+  semantiniai_rysiai: "Vokietijos maldininkai keliavo į Prūsija (0.97)"
+  temporaliniai_duomenys: "įvykio data: 1304 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo 1304 m. maldininkų kelionę į Prūsiją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "616427-616759; hash=8522aaad9d6e28b2464ef71294ba028337833d9bac7b1a572c9c2c06299b259f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.97"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vokietijos maldininkai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad Vokietijos maldininkai keliavo į Prūsijos žemę."
   pagrindžia:
-    - c-028
+    - c-161837
 
 <a id="claim-t-178087"></a>
-- t-061
+- t-047
   global_id: t-178087
-  teiginys: 'Kai rugpjūtį Prūsijoje baigta pasirengtis mūšiams, atvyko savanorių iš Anglijos ir Prancūzijos.'
+  teiginys: "Kai rugpjūtį Prūsijoje baigta pasirengtis mūšiams, atvyko savanorių iš Anglijos ir Prancūzijos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "259602-260285; hash=2221a93e3f8c6e9ee62076d811d681f92f08dc9e23441ab7cafcf8e6a82889da; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Anglija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Anglija: mention_match, place, gap=58"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Anglija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-026
+    - c-161835
 
 <a id="claim-t-178088"></a>
-- t-062
+- t-056
   global_id: t-178088
-  teiginys: 'Vokiečių ordino valstybėje, vėliau tapusioje Prūsija, lietuviai ilgainiui pradėti vadinti lietuvininkais.'
+  teiginys: "Vokiečių ordino valstybėje, vėliau tapusioje Prūsija, lietuviai ilgainiui pradėti vadinti lietuvininkais."
+  temporaliniai_duomenys: "įvykio data: 1422 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiau susietas su Prūsija ir pašalinta perteklinė dalis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "19147-19794; hash=a82e9a12e1f7b8f7345a8baa5ea1982058be179abea83630c016b7f272094a80; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-024
+    - c-161833
 
 <a id="claim-t-178089"></a>
-- t-063
+- t-053
   global_id: t-178089
-  teiginys: 'Prūsijos ir Livonijos kryžiuočių galybė rėmė asmenį, troškusį tapti Lietuvos valdovu ir atkeršyti.'
+  teiginys: "Prūsijos ir Livonijos kryžiuočių galybė rėmė asmenį, troškusį tapti Lietuvos valdovu ir atkeršyti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "426090-426652; hash=8a1d712645da179c0e981ff3d3994791bd4f302f84b9972230280111effeaf30; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-036
+    - c-161851
 
 <a id="claim-t-178090"></a>
-- t-064
+- t-068
   global_id: t-178090
-  teiginys: 'Dėl baisių šalčių Prūsijoje ir Livonijoje nušalo visi vaismedžiai, o kryžiuočiai negalėjo imtis žygio.'
+  teiginys: "Dėl baisių šalčių Prūsijoje ir Livonijoje nušalo visi vaismedžiai, o kryžiuočiai negalėjo imtis žygio."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "161329-161870; hash=35ab6cf765f956ab262f420a4db57df76d178336f2922bd4b5965c0cb8fab17f; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-029
+    - c-161839
 
 <a id="claim-t-178091"></a>
-- t-065
+- t-082
   global_id: t-178091
-  teiginys: '1326 m. Petras iš Dusburgo užbaigė kroniką, skirtą pagrįsti kryžiuočių užkariavimus Prūsijoje ir karą prieš Lietuvą.'
+  teiginys: "1326 m. Petras iš Dusburgo užbaigė kroniką, skirtą pagrįsti kryžiuočių užkariavimus Prūsijoje ir karą prieš Lietuvą."
+  semantiniai_rysiai: "Kryžiuočių ordinas užkariavo Prūsija (0.91)"
+  temporaliniai_duomenys: "įvykio data: iki 1330 m.; įvykio data: 1326 m.; įvykio data: 1330 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia sklandesnio sakinio be perteklinio autoriaus kaip veikėjo akcento."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "159909-160116; hash=dba6f039f29c1829b7e060ec351c69c5eb72f003b992b3b7526fe30fc6966527; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzkariavo -> Prūsija: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai mini kryžiuočių užkariavimus Prūsijoje."
   pagrindžia:
-    - c-020
+    - c-161829
 
 <a id="claim-t-178092"></a>
-- t-066
+- t-043
   global_id: t-178092
-  teiginys: 'Prūsijos teutonų broliai pasiuntė kariuomenę ir sudegino Vytenio pranciškonams skirtą bažnyčią.'
+  teiginys: "Prūsijos teutonų broliai pasiuntė kariuomenę ir sudegino Vytenio pranciškonams skirtą bažnyčią."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "194301-195274; hash=ee722fc7be2221621093c957db648a66623742328c04222e864ebc70c466cae7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Teutonai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Teutonai: mention_match, group, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Teutonai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-011
+    - c-161818
+
+<a id="claim-t-178093"></a>
+- t-014
+  global_id: t-178093
+  teiginys: "1793 m. sausio 23 d. Prūsija su Rusija pasirašė susitarimą dėl Abiejų Tautų Respublikos II padalijimo."
+  temporaliniai_duomenys: "įvykio data: 1793 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "606389-606799; hash=e00d297b09f9f787c1ab3e6885545e49e32042f5bbdeb9e647d54198ccf61e0e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-43770
 
 <a id="claim-t-178094"></a>
-- t-068
+- t-057
   global_id: t-178094
-  teiginys: 'XVIII a. Prūsijoje veikė Lietuvos departamentas su centru Gumbinėje, tačiau lietuvių kalbos vartojimas Prūsijoje ilgainiui siaurėjo.'
+  teiginys: "XVIII a. Prūsijoje veikė Lietuvos departamentas su centru Gumbinėje, tačiau lietuvių kalbos vartojimas Prūsijoje ilgainiui siaurėjo."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "19889-20398; hash=f9ef8c1fabad51fa058f189962ec026ef70b6a4c7ddcc7ef5e727cccf9de58f5; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=16"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-051
+    - c-161879
 
 <a id="claim-t-178095"></a>
-- t-069
+- t-017
   global_id: t-178095
-  teiginys: 'XVIII a. Prūsijoje oficialiai vartotas Lietuvos vardas, nes buvo įsteigtas Lietuvos departamentas su centru Gumbinėje.'
+  teiginys: "XVIII a. Prūsijoje oficialiai vartotas Lietuvos vardas, nes buvo įsteigtas Lietuvos departamentas su centru Gumbinėje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "19889-20398; hash=f9ef8c1fabad51fa058f189962ec026ef70b6a4c7ddcc7ef5e727cccf9de58f5; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gumbinė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gumbinė: mention_match, place, gap=99"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Gumbinė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-051
+    - c-161879
 
 <a id="claim-t-178096"></a>
-- t-070
+- t-044
   global_id: t-178096
-  teiginys: 'Riteriai grįždami paėmė dokumentus į Prūsiją, todėl jie atsidūrė kryžiuočių archyve.'
+  teiginys: "Riteriai grįždami paėmė dokumentus į Prūsiją, todėl jie atsidūrė kryžiuočių archyve."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "222761-223329; hash=612c82c515ee28e3f3ed19fbbd6baf2be93d42bead8b873ad76dca3dac944c9a; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-015
+    - c-161822
 
 <a id="claim-t-178097"></a>
-- t-071
+- t-037
   global_id: t-178097
-  teiginys: 'Skirgaila nuvyko į Prūsiją ir, remdamasis sandėriu su Ordinu, rengė naujus antpuolius prieš Kęstutį ir Lietuvą.'
+  teiginys: "Skirgaila nuvyko į Prūsiją ir, remdamasis sandėriu su Ordinu, rengė naujus antpuolius prieš Kęstutį ir Lietuvą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "102858-103275; hash=70f7de5c7c0c655f4304276a8bc90a6caa85aa81644a4a9fdb1f8a649f8cb6e3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-019
+    - c-161828
+
+<a id="claim-t-178098"></a>
+- t-059
+  global_id: t-178098
+  teiginys: "1231 m. Prūsijoje pradėjęs veikti Kryžiuočių ordinas buvo stipresnis ir geriau organizuotas nei kalavijuočiai."
+  temporaliniai_duomenys: "įvykio data: 1231 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Prūsiją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "50652-50811; hash=6ccded4ca19d55ac548e6e3a9356daf21a0bc38f8423d1fe94840e814ee27246; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kalavijuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kalavijuočių ordinas: mention_match, group, gap=37"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Kalavijuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-161836
 
 <a id="claim-t-178099"></a>
-- t-073
+- t-069
   global_id: t-178099
-  teiginys: 'Prūsijoje pasklido gandas, kad Gediminas išsiuntinėjo laiškus apie norą priimti krikštą ir prisijungti prie tikinčiųjų.'
+  teiginys: "Prūsijoje pasklido gandas, kad Gediminas išsiuntinėjo laiškus apie norą priimti krikštą ir prisijungti prie tikinčiųjų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "167988-168825; hash=26feb7333d651cec9edd1a5112ead024e469d01de837c52e150d5316fc95e7f1; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-042
+    - c-161860
 
 <a id="claim-t-183083"></a>
-- t-074
+- t-094
   global_id: t-183083
-  teiginys: '1629 m. Altmarko paliaubomis švedams šešeriems metams buvo palikti kai kurie Prūsijos uostai, tarp jų Klaipėda.'
+  teiginys: "1629 m. Altmarko paliaubomis švedams šešeriems metams buvo palikti kai kurie Prūsijos uostai, tarp jų Klaipėda."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Klaipėda priklausė Prūsija (0.86); Švedai valdė miestą Klaipėda (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1278 m.; įvykio data: 1629 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys sukonkretintas data ir pašalinta griozdiška parentetinė dalis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "716883-717111; hash=0e96549574ae8f54d841f4cc3a3fdcf57c5cb01eedfb088e339ac5bda8725f9a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Prūsija: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Klaipėda: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Klaipėda tiesiogiai įvardyta kaip vienas iš Prūsijos uostų."
   pagrindžia:
-    - c-001
+    - c-24417
 
 <a id="claim-t-183084"></a>
-- t-075
+- t-095
   global_id: t-183084
-  teiginys: 'Priešams užplūdus Lietuvos miestus, daugelis vokiečių pirklių pabėgo į Prūsiją, ypač į Karaliaučių.'
+  teiginys: "Priešams užplūdus Lietuvos miestus, daugelis vokiečių pirklių pabėgo į Prūsiją, ypač į Karaliaučių."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Vokiečiai gyveno Lietuva (0.70)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "742966-743524; hash=53bcc9886dea7ce3c986b963569b5a159531e635d5668261c3b11e4dcd0e4474; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Lietuva: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas kalba apie vokiečius pirklius Lietuvos miestuose, todėl gyveno ryšys taikomas atsargiai."
   pagrindžia:
-    - c-058
+    - c-166472
+
+<a id="claim-t-183869"></a>
+- t-101
+  global_id: t-183869
+  teiginys: "Livonija vis glaudžiau šliejosi prie Prūsijos."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "430395-430741; hash=1e2e1994733f16bae2e01ecc8be5316e21030d5eba7b92b65ecc73f40088c960; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  pagrindžia:
+    - c-167254
 
 <a id="claim-t-185102"></a>
-- t-077
+- t-102
   global_id: t-185102
-  teiginys: 'Sudeginus Karšuvos ir Heilsbergo pilis Kurše, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.'
+  teiginys: "Sudeginus Karšuvos ir Heilsbergo pilis Kurše, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Karšuva priklausė Kuršas (0.76); Heilsbergas priklausė Kuršas (0.76)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "173191-173690; hash=3388e27b32be0e566137ee7e7f680e85c77989814c7289a5280dbab6ea1319b1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Kuršas: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Heilsbergas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Kuršas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Heilsbergo pilis lokalizuojama Kurše."
   pagrindžia:
-    - c-060
+    - c-168463
 
 <a id="claim-t-185103"></a>
-- t-078
+- t-103
   global_id: t-185103
-  teiginys: 'Mindaugas, atgavęs Žemaitiją bei Kuršą ir nusiaubęs Sembą, po kelerių metų vėl sukėlė karą Prūsijoje.'
+  teiginys: "Mindaugas, atgavęs Žemaitiją bei Kuršą ir nusiaubęs Sembą, po kelerių metų vėl sukėlė karą Prūsijoje."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "173691-174297; hash=fce05c6cbf713782094eabe647812a9b5daf533d65dba81033106020afdd5790; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-061
+    - c-168464
 
 <a id="claim-t-185104"></a>
-- t-079
+- t-104
   global_id: t-185104
-  teiginys: 'Į pagalbą prieš Prūsijos ir Žemaitijos gyventojus buvo sutelkta daug kariuomenės iš Vokietijos.'
+  teiginys: "Į pagalbą prieš Prūsijos ir Žemaitijos gyventojus buvo sutelkta daug kariuomenės iš Vokietijos."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "174534-175197; hash=9f637ef5828ee5d5c3f47e43b2264d10e1df8333d4c86460d5d9d99fb8b48bfc; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vokietija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vokietija: mention_match, place, gap=68"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Vokietija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-062
+    - c-168465
 
 <a id="claim-t-185105"></a>
-- t-080
+- t-105
   global_id: t-185105
-  teiginys: 'Skomantas, neseniai pabėgęs į Prūsiją, su prūsų kariais netikėtai patraukė Gardino kryptimi.'
+  teiginys: "Skomantas, neseniai pabėgęs į Prūsiją, su prūsų kariais netikėtai patraukė Gardino kryptimi."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "267286-267637; hash=9e5a1d474a5a30ea10687499e7e0a5f866cec07554ae6c1bfa0fd224b82f3c7a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gardinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gardinas: mention_match, place, gap=45"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-063
+    - c-168466
 
 <a id="claim-t-185106"></a>
-- t-081
+- t-106
   global_id: t-185106
-  teiginys: 'Vytenio pulkai beveik tris mėnesius niokojo Prūsiją, kurią siaubė žudynės ir gaisrai.'
+  teiginys: "Vytenio pulkai beveik tris mėnesius niokojo Prūsiją, kurią siaubė žudynės ir gaisrai."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Vytenis puolė Prūsija (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1294 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Įvardytas veikėjas pagal citatos kontekstą ir paliktas faktas apie Prūsiją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "289152-289876; hash=7104a0cd3f3e9490dc52e3f552b36b17a5ac0df3f64f91e1eb6c75be5fbe9724; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Prūsija: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vytenio pulkų Prūsijos niokojimas tiesiogiai reiškia karinį puolimą."
   pagrindžia:
-    - c-064
+    - c-168467
 
 <a id="claim-t-185107"></a>
-- t-082
+- t-107
   global_id: t-185107
-  teiginys: 'Bertoldas Briuhavenas į Livoniją buvo pasiųstas su Prūsijos kryžiuočių daliniu ir nugalėjo apgulties išsekintus lietuvius.'
+  teiginys: "Bertoldas Briuhavenas į Livoniją buvo pasiųstas su Prūsijos kryžiuočių daliniu ir nugalėjo apgulties išsekintus lietuvius."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Bertoldas Briuhavenas keliavo į Livonija (0.75)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "303552-304388; hash=8e074b38de297dadb17294bcbd23efd32a07ff0c848b51d595915e8ef037bc9f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Livonija: 0.75"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bertoldas Briuhavenas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Bertoldas Briuhavenas buvo pasiųstas į Livoniją."
   pagrindžia:
-    - c-065
+    - c-168468
 
 <a id="claim-t-185108"></a>
-- t-083
+- t-108
   global_id: t-185108
-  teiginys: 'Kęstutis, priešui pasitraukus iš Lietuvos, slaptais miškų keliais užpuolė Prūsiją.'
+  teiginys: "Kęstutis, priešui pasitraukus iš Lietuvos, slaptais miškų keliais užpuolė Prūsiją."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "431050-431477; hash=f385e139f492e8f84f47438c7050bc5f4ec74bdcc9f411c7b2dfdb179104dd93; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person, gap=74"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-066
+    - c-168469
 
 <a id="claim-t-185109"></a>
-- t-084
+- t-109
   global_id: t-185109
-  teiginys: 'Kryžiuočiai po ariergardo pralaimėjimo skubiai pasitraukė į Prūsiją, pakelėse išmesdami gausų grobį.'
+  teiginys: "Kryžiuočiai po ariergardo pralaimėjimo skubiai pasitraukė į Prūsiją, pakelėse išmesdami gausų grobį."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Kryžiuočių ordinas keliavo į Prūsija (0.88)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "431611-432011; hash=cf8c0786af0f77917599a9f8467681c4000a7b2f90d4f9de945167977522daa0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kryžiuočiai tiesiogiai nurodyti kaip pasitraukę į Prūsiją."
   pagrindžia:
-    - c-067
+    - c-168470
 
 <a id="claim-t-185110"></a>
-- t-085
+- t-110
   global_id: t-185110
-  teiginys: 'Nugalėtojai, išžudę ginkluotus priešininkus kovos lauke, be grobio sugrįžo į Prūsiją.'
+  teiginys: "Nugalėtojai, išžudę ginkluotus priešininkus kovos lauke, be grobio sugrįžo į Prūsiją."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "561588-562106; hash=9c7c149e8e1fd6b19f23d5ccec4837956bb92f4918793470b117a804e3d14a6c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-068
+    - c-168471
 
 <a id="claim-t-185111"></a>
-- t-086
+- t-111
   global_id: t-185111
-  teiginys: 'Kryžiuočiai paragino ginkluotis Prūsijos vyrus ir pasikvietė pagalbininkų iš Silezijos, Austrijos, Vokietijos, Anglijos bei Prancūzijos.'
+  teiginys: "Kryžiuočiai paragino ginkluotis Prūsijos vyrus ir pasikvietė pagalbininkų iš Silezijos, Austrijos, Vokietijos, Anglijos bei Prancūzijos."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "580295-581017; hash=86626a4f267c366c3a23918988cfa17daec5f968f50f4ccb1858ba1936aaf0b3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Anglija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Anglija: mention_match, place, gap=79"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Anglija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-069
+    - c-168472
 
 <a id="claim-t-185112"></a>
-- t-087
+- t-112
   global_id: t-185112
-  teiginys: 'Jogaila įsakė dvidešimt laivų su grūdais Vysla nuplukdyti į Prūsijos pasienį, kad maistas būtų nugabentas į Lietuvą.'
+  teiginys: "Jogaila įsakė dvidešimt laivų su grūdais Vysla nuplukdyti į Prūsijos pasienį, kad maistas būtų nugabentas į Lietuvą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) siuntė į Prūsija (0.76); Jogaila (kunigaikštis, XIV–XV a.) siuntė į Lietuva (0.74)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "646450-646819; hash=98911dc1ba7bfbd63c935ff495627b7db8debec74d59d8c85f27a8a633e5690e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Prūsija: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Jogaila įsakė siųsti krovinius į Prūsijos pasienį; objektas apibendrintas kaip Prūsija."
   pagrindžia:
-    - c-070
+    - c-168473
 
 <a id="claim-t-185113"></a>
-- t-088
+- t-113
   global_id: t-185113
-  teiginys: 'Jogaila, matydamas kryžiuočių sėkmę, įsakė visoms Lenkijos žemėms stoti į kovą su Prūsija.'
+  teiginys: "Jogaila, matydamas kryžiuočių sėkmę, įsakė visoms Lenkijos žemėms stoti į kovą su Prūsija."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "651140-651446; hash=59d9c038162bb233ed06d0db41f1bbc6183d950b0e04f788a3389ee71358f58a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bobrovnikai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Bobrovnikai: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Bobrovnikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-071
+    - c-168474
 
 <a id="claim-t-185114"></a>
-- t-089
+- t-114
   global_id: t-185114
-  teiginys: 'Lietuvių kariuomenė, sugrįžusi iš Prūsijos, šiek tiek pailsėjo ir patraukė iš vakarų į rytus.'
+  teiginys: "Lietuvių kariuomenė, sugrįžusi iš Prūsijos, šiek tiek pailsėjo ir patraukė iš vakarų į rytus."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1419 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra savarankiškas ir tiksliai perteikia citatos faktą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "694159-694668; hash=02c539018d7158a65cf5c7030903be740c69f45b5aebefc7199100d1bdfb2c4c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=34"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-072
+    - c-168475
 
 <a id="claim-t-185115"></a>
-- t-090
+- t-115
   global_id: t-185115
-  teiginys: 'Rengiantis traukti į Prūsiją, Vilniuje buvo sušauktas lietuvių seimas.'
+  teiginys: "Rengiantis traukti į Prūsiją, Vilniuje buvo sušauktas lietuvių seimas."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "897855-898450; hash=9dc593265b6131361ebe7de268955cccce71a8a1df66729bce84628aa24ff54e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-073
+    - c-168476
 
 <a id="claim-t-188808"></a>
 - t-091
   global_id: t-188808
-  teiginys: 'Narbutas ginčija išvadą apie dievo kilmę, nes, jo teigimu, žemės drebėjimų būta Prūsijoje ir jie buvo žinomi tolimesnei Lietuvai.'
+  teiginys: "Narbutas ginčija išvadą apie dievo kilmę, nes, jo teigimu, žemės drebėjimų būta Prūsijoje ir jie buvo žinomi tolimesnei Lietuvai."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "159909-160116; hash=dba6f039f29c1829b7e060ec351c69c5eb72f003b992b3b7526fe30fc6966527; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-074
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171697
+
 <a id="claim-t-188809"></a>
 - t-092
   global_id: t-188809
-  teiginys: 'Narbutas rašo, kad Prūsijos kronikininkai šiuo vardu siejo dievintą senovės kunigaikštį Vaidevutį.'
+  teiginys: "Narbutas rašo, kad Prūsijos kronikininkai šiuo vardu siejo dievintą senovės kunigaikštį Vaidevutį."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "161483-161993; hash=33ad3a900c6737210f6f8cca637ba0acd1f5cc92b5989fed0ea6eb0f177ace24; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Prūsai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-075
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171698
+
 <a id="claim-t-188811"></a>
 - t-093
   global_id: t-188811
-  teiginys: 'Narbutas rašo, kad Prūsijos kronikininkai burtininkams priskyrė ateities pranašavimą liejant ištirpintą vašką į šaltą vandenį.'
+  teiginys: "Narbutas rašo, kad Prūsijos kronikininkai burtininkams priskyrė ateities pranašavimą liejant ištirpintą vašką į šaltą vandenį."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "519578-520061; hash=d211fde8467c220c0263a945badfdabda79ca578a57e149bc6a4975efea3459f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Burtininkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Burtininkai: mention_match, group, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Burtininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-076
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171700
+
 <a id="claim-t-188812"></a>
 - t-094
   global_id: t-188812
-  teiginys: 'Narbutas rašo, kad Prūsijos kronikininkai senovės prūsų herbo kilmę siejo su Vaidevučio laikais.'
+  teiginys: "Narbutas rašo, kad Prūsijos kronikininkai senovės prūsų herbo kilmę siejo su Vaidevučio laikais."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1278 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Kilmės teiginys paliktas kaip kronikininkų pozicija Narbuto pasakojime. Nepridėtas skydo vaizdo aprašymas, nes claim objektui pakanka pagrindinio fakto."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "716883-717111; hash=0e96549574ae8f54d841f4cc3a3fdcf57c5cb01eedfb088e339ac5bda8725f9a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Herbas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Herbas: mention_match, thing, gap=37"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Herbas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-077
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171701
+
 <a id="claim-t-188813"></a>
 - t-095
   global_id: t-188813
-  teiginys: 'Narbutas Dusburgiečio pasakojimą apie senovės Prūsiją laiko patikimu krivio istorinės egzistencijos argumentu.'
+  teiginys: "Narbutas Dusburgiečio pasakojimą apie senovės Prūsiją laiko patikimu krivio istorinės egzistencijos argumentu."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "742966-743524; hash=53bcc9886dea7ce3c986b963569b5a159531e635d5668261c3b11e4dcd0e4474; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krivis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Krivis: mention_match, person, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Krivis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-078
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171702
+
 <a id="claim-t-188814"></a>
 - t-096
   global_id: t-188814
-  teiginys: 'Narbutas ginkluoto atvertimo eigą sieja su tikėjimo smukimu ir vardija ją nuo Livonijos iki Prūsijos, Lietuvos ir Žemaitijos.'
+  teiginys: "Narbutas ginkluoto atvertimo eigą sieja su tikėjimo smukimu ir vardija ją nuo Livonijos iki Prūsijos, Lietuvos ir Žemaitijos."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "775518-776221; hash=71fbe071b2b429d43f3d5c217e8d098d2d9e13cb61aa62c500ed2554ff1bcee1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-079
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171703
+
 <a id="claim-t-188815"></a>
 - t-097
   global_id: t-188815
-  teiginys: 'Narbutas pateikia Hartknocho duomenis apie lietuvių kalbą, vartotą Prūsijoje, Nemuno žemupyje.'
+  teiginys: "Narbutas pateikia Hartknocho duomenis apie lietuvių kalbą, vartotą Prūsijoje, Nemuno žemupyje."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "814862-815269; hash=037a73142cb14e78becb7dec6e5923114f008c33d8e6a269d856bcf771e3036e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Baltai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-080
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171704
+
 <a id="claim-t-188816"></a>
 - t-098
   global_id: t-188816
-  teiginys: 'Narbutas VII lentelėje Romovę vaizduoja Prūsijoje, Prūsos ir Bysleidos upių santakoje, kaip šventą miestą su šventovės aptvaru.'
+  teiginys: "Narbutas VII lentelėje Romovę vaizduoja Prūsijoje, Prūsos ir Bysleidos upių santakoje, kaip šventą miestą su šventovės aptvaru."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Romovė priklausė Prūsija (0.90)"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "834736-835116; hash=9e88df0fddafe08e984bf16d505be0551738b1fdcd961b048200a9c093313faa; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Prūsija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Romovė: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Romovė tiesiogiai apibūdinta kaip buvusi Prūsijoje."
   pagrindžia:
-    - c-081
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171705
+
+<a id="claim-t-192727"></a>
+- t-116
+  global_id: t-192727
+  teiginys: "Teodoras Narbutas laiko tikėtina nuomonę, kad Prūsija turėjo pirmykščių gyventojų, su kuriais susipažino kimbrai."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "83342-83697; hash=0a6063ee72c3e7481475d2179f2f0df3b4abdc143fb6b08a0826450427071f75; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kimbrai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kimbrai: mention_match, group, gap=59"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Kimbrai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175497
+
+<a id="claim-t-192728"></a>
+- t-117
+  global_id: t-192728
+  teiginys: "1242-1253 metais klajokliai tarp Mazovijos, Prūsijos ir Lietuvos lengvino lietuvių ryšius su Pamariu ir Prūsija."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "221108-221461; hash=0f0cf5933eedc7bfb416fbef141276ef6c13962c35b7c37237a81e629e1e4a09; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175498
+
+<a id="claim-t-192729"></a>
+- t-118
+  global_id: t-192729
+  teiginys: "Narbutas rašo, kad 1253 metų pradžioje kryžiuočiai, sustiprinę saugumą nuo Vyslos pusės, ėmė siekti užkariauti Prūsiją."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Kryžiuočių ordinas užkariavo Prūsija (0.74)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "222157-222553; hash=83df90e94a8a45d040838c9467a4d6b2c14d0fc9c67eb53c0f7145c43ce03eaa; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzkariavo -> Prūsija: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nusako kryžiuočių siekį užkariauti Prūsiją; tai ketinimas, todėl ne aukščiausias pasitikėjimas."
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175499
+
+<a id="claim-t-192730"></a>
+- t-119
+  global_id: t-192730
+  teiginys: "Teodoras Narbutas Ordino politiką vadina kruvina ir rašo, kad sūduviai buvo iškapoti arba išgabenti į kitas Prūsijos dalis."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Sūduviai keliavo į Prūsija (0.84)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "242335-242731; hash=54954e283437e7d28baf1f16d7de5d7c92b1ac2b74194357ce2ab9b566b50ce5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sūduviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Sūduviai tiesiogiai nurodyti kaip išgabenti į kitas Prūsijos dalis."
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175500
+
+<a id="claim-t-192732"></a>
+- t-121
+  global_id: t-192732
+  teiginys: "Narbutas tikrosios Prūsijos sieną aprašo ėjusią Vyslos žemupiu, Baltijos jūra iki Nemunyno žiočių ir toliau iki Širvintos upės."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "447656-448203; hash=aa3e6158c8015f3dd4cb6cebba60d7779356f07f48e3802786f05163f0d6c94a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=45"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175502
+
+<a id="claim-t-192734"></a>
+- t-123
+  global_id: t-192734
+  teiginys: "Narbutas nurodo skirtingas nuomones apie gintare rastų vabzdžių kilmę: Masė jų tėvyne laikė Prūsiją, o Ragenas manė juos patekus iš šalies."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "609247-609625; hash=3a692132906c372f4ca6d8e70a7a0ded339bd675f2693d2010c0976020c7d855; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Hagenas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Hagenas: mention_match, author"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Hagenas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175504
+
+<a id="claim-t-192735"></a>
+- t-124
+  global_id: t-192735
+  teiginys: "Narbutas, remdamasis Nestoru, rašo, kad mirusiųjų deginimas, pelenų rinkimas į urnas ir laidotuvių turnyrai išliko Prūsijoje."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "613658-613878; hash=8b611ccd41184fb1afca0ebe6b435f7e51d8766a22a286453e230686478837d5; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175505
+
+<a id="claim-t-194745"></a>
+- t-125
+  global_id: t-194745
+  teiginys: "Šilinyčius (Syleniczus) yra lietuviškos kilmės, iš Sylla - šilas; Prūsijos lietuvių kalba Syilenas - stalius."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "301098-301434; hash=afbb3004e7ee3ea237acc789a3ab62d83ee9f9cd7b0ff96fe367fc3eb4d7a0aa; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-177141
+
+<a id="claim-t-194935"></a>
+- t-126
+  global_id: t-194935
+  teiginys: "Šie pokyčiai labiausiai pa veikė Baltijos jūros pakrantes tarp Vyslos ir Dauguvos žiočių; žemės ¡gelmių sluoksniai, linkę į vulkaninius ju desius, taip pat įrodo, kad kitados Prūsijoje vyko žemės drebėjimai2."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "258973-259497; hash=97c9048fb92c8e3c000ffb0fcc9db03dc54f1b7d613df7db6aeae9f0b42dced9; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-177331
+
+<a id="claim-t-194936"></a>
+- t-127
+  global_id: t-194936
+  teiginys: "Aes tuarium, pasak lotyniško Pitėjo vertimo, reiškia negilias, seklias vietas, kurios kartais būva apsemtos, o kartais — sausos; toks aprašymas iš tikrųjų tinka senovės Prūsijai."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "602700-603084; hash=91767cf748f9b48c3d978b6c8c0db9e7bed553af270b6fda841893bb107133d3; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-177332
 - susijęs iš [[objektai/asmenys/Adolfas fon Vintimelis.md#claim-t-186172|Adolfas fon Vintimelis (didikas)]]: Adolfas fon Vintimelis su kitais Reino krašto didikais atvyko į Prūsiją prieš Konrado žygį į Lietuvą.
+- susijęs iš Salavija: Narbutas Salaviją vadino vienuolikta Prūsijos provincija ir pažymėjo, kad jos sienas sunku nustatyti.
 - susijęs iš [[objektai/asmenys/Ditrichas (Meiseno markos valdovas).md#claim-t-60263|Ditrichas (Meiseno markos valdovas)]]: 1272 m. Meiseno markos valdovas Ditrichas atvyko į Prūsiją su daugybe karių ir ketino pulti Notangos žemę.
 - susijęs iš [[objektai/asmenys/Gerhardas.md#claim-t-60122|Gerhardas (valdovas)]]: Gerhardas, išsigandęs perspėjimo dėl savo gyvenimo būdo, atvyko į Prūsiją ir davė įžadus Teutonų ordinui.
 - susijęs iš [[objektai/asmenys/Henrikas iš Kunceno.md#claim-t-184080|Henrikas iš Kunceno]]: Henrikas iš Kunceno mirė Prūsijoje ir buvo gimęs Tiuringijoje.
@@ -753,12 +2151,16 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš Notanga: Petro iš Dusburgo kronikoje Notanga nurodoma kaip viena iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Plikoji Barta: Petro Dusburgiečio kronikoje Plikoji Barta minima kaip viena iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš [[objektai/zodynas/Romovė Romuva Romow.md#claim-t-189139|Romovė Romuva Romow]]: Narbutas rašė, kad Dusburgietis Romovę vaizdavo kaip kadaise Prūsijoje buvusį šventą miestą ir krivio buveinę.
+- susijęs iš [[objektai/zodynas/vitingas.md#claim-t-192273|vitingas]]: Teodoras Narbutas nurodo, kad pastaruoju laiku vyriausias karvedys buvo vitingas Glaudė.
+- susijęs iš [[objektai/zodynas/vitingas.md#claim-t-192274|vitingas]]: Teodoras Narbutas rašo, kad iš vitingų buvo renkamas vyriausias karvedys.
 - susijęs iš [[objektai/asmenys/Hermanas (Petro iš Rozenbergo dėdė).md#claim-t-60323|Hermanas (Petro iš Rozenbergo dėdė)]]: 1324 m. Petras iš Rozenbergo ir jo dėdė Hermanas su daugybe riterių bei ginklanešių atvyko į Prūsiją.
 - susijęs iš Petras Dusburgietis, Prūsijos žemės kronika (1985 m.): Leidinio pratarmėje kronika apibūdinama kaip oficialus Kryžiuočių ordino valstybės kūrinys.
 - susijęs iš [[objektai/asmenys/Aleksandras Karijotaitis.md#claim-t-186174|Aleksandras Karijotaitis]]: Aleksandras Karijotaitis su Algirdu nuniokojo daug Prūsijos vietų, sugriovė Tilžę ir Ragainę bei išsivarė 800 belaisvių.
+- susijęs iš [[objektai/asmenys/Augustas Oktavianas.md#claim-t-191182|Augustas Oktavianas]]: Narbutas Augusto valdymo epochai priskiria pasakojimą, kad Bitinijos keliautojas Divonis neva 17 m. pr. Kr. apsilankė vėliau Prūsija pavadintame krašte.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173131|Dovydas (Gardino pilininkas)]]: Gardino pilininkas Dovydas su 800 vyrų surengė žygį ir su 80 vyrų įsibrovė į Prūsijos Unzatrapio valsčių.
 - susijęs iš [[objektai/asmenys/Henrikas iš Veidos.md#claim-t-60136|Henrikas iš Veidos]]: Nuo 1247 m. Henrikas iš Veidos buvo trečiasis Prūsijos žemės magistras ir vadovavo aštuonerius metus.
 - susijęs iš [[objektai/asmenys/Jonas.md#claim-t-60338|Jonas]]: 1324 m. grafas Jonas iš Španheimo atvyko į Prūsiją, bet dėl plono ledo nesiėmė veiksmų prieš tikėjimo priešus.
+- susijęs iš [[objektai/ivykiai/Herulų atsiskyrimas prie Dunojaus ir kelionė į Tūlą Reitgotiją.md#claim-t-191044|Herulų atsiskyrimas prie Dunojaus ir kelionė į Tūlą Reitgotiją]]: Narbutas artimiausiu ir saugiausiu herulų keliu į Reitgotiją laikė maršrutą per Pamarį, Kujaviją, Mazoviją ir Prūsiją.
 - susijęs iš [[objektai/ivykiai/Vytenio trijų mėnesių žygis po Prūsiją ir lietuvių sutriuškinimas traukiantis.md#claim-t-185835|Vytenio trijų mėnesių žygis po Prūsiją ir lietuvių sutriuškinimas traukiantis]]: Vytenis beveik tris mėnesius siaubė Prūsiją, kol kryžiuočiai užklupo grįžtančius lietuvius ir beveik visus išžudė.
 - susijęs iš [[objektai/ivykiai/Žemaičių žygis į Sembą (1308 m.).md#claim-t-185843|Žemaičių žygis į Sembą (1308 m.)]]: 1308 m. žemaičiai smarkiai nusiaubė Sembos žemę, žygiuodami į Prūsiją su penkių tūkstančių vyrų kariuomene, vadovaujama Mansto ir Sudargo.
 - susijęs iš Gunlaukenas: Gunlaukeno apskritis buvo priskirta pietinei Prūsijos daliai, kurios lietuviai pasižadėjo nebepuldinėti.
@@ -785,7 +2187,10 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš [[objektai/asmenys/Adalbertas.md#claim-t-18754|Adalbertas]]: Šv. Adalberto misija Prūsijoje 997 m. baigėsi kankinyste.
 - susijęs iš [[objektai/asmenys/Adolfas fon Vintimelis.md#claim-t-186172|Adolfas fon Vintimelis (didikas)]]: Adolfas fon Vintimelis su kitais Reino krašto didikais atvyko į Prūsiją prieš Konrado žygį į Lietuvą.
 - susijęs iš [[objektai/asmenys/Adomas Bremenietis.md#claim-t-190040|Adomas Bremenietis]]: Narbutas pripažįsta, kad Adomas Bremenietis ir kiti užsienio kronikininkai nemini Prūsijos krivio.
+- susijęs iš [[objektai/asmenys/Adomas Bremenietis.md#claim-t-190836|Adomas Bremenietis]]: Narbutas rašo, kad Adomas Bremenietis Sembą siejo su rusais arba Rusia, bet Rusios nepriskyrė Prūsijos provincijoms.
+- susijęs iš [[objektai/asmenys/Adomas Stanislovas Naruševičius.md#claim-t-191113|Adomas Stanislovas Naruševičius]]: Narbutas rašo, kad Naruševičius rėmė nuomonę, jog senoji Owim žemė buvo dabar Prūsija vadinama teritorija.
 - susijęs iš [[objektai/asmenys/Agota.md#claim-t-56965|Agota (kunigaikščio žmona, XIII a.)]]: Agotos valia Ordino broliai pasitelkė daug Lenkijos vyrų ir stojo į kovą su Prūsijos kariuomene.
+- susijęs iš [[objektai/asmenys/Albertas.md#claim-t-190837|Albertas]]: Narbutas Albertą vadina Prūsijos ir Livonijos arkivyskupu, kurio kivirčą su kryžiuočiais sprendė popiežiaus bulė.
 - susijęs iš [[objektai/asmenys/Albrechtas (Pamedės vyskupas).md#claim-t-60229|Albrechtas (Pamedės vyskupas)]]: Albrechtas, Pamedės vyskupas, Prūsijos žemėje pastatė Rizenburgo pilį ir miestą.
 - susijęs iš [[objektai/asmenys/Albrechtas (Prūsijos kunigaikštis).md#claim-t-87612|Albrechtas (Prūsijos kunigaikštis)]]: Albrechtas, Prūsijos kunigaikštis, testamente turėjo gauti du gerus žirgus ir būti paskutinės valios gynėju bei globėju.
 - susijęs iš [[objektai/asmenys/Albrechtas.md#claim-t-18766|Albrechtas]]: Kunigaikštis Albrechtas Prūsijoje priglobė 1542 m. iš Vilniaus emigravusį A. Kulvietį.
@@ -796,6 +2201,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184668|Algirdas (Lietuvos valdovas)]]: Algirdas ir Aleksandras Karijotaitis nuniokojo daug Prūsijos vietų, sugriovė Tilžės ir Ragainės pilis ir išsivarė 800 belaisvių.
 - susijęs iš [[objektai/asmenys/Anonas (didysis magistras).md#claim-t-60083|Anonas (didysis magistras)]]: Didysis magistras Anonas įsakė Prūsijos magistrui ir broliams pastatyti pilį Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje.
 - susijęs iš [[objektai/asmenys/Augustas III.md#claim-t-82227|Augustas III]]: Po Augusto II mirties Rusija, Austrija ir Prūsija priešinosi tiek Fridriko Augusto, tiek Leščinskio išrinkimui į sostą.
+- susijęs iš [[objektai/asmenys/Augustas Oktavianas.md#claim-t-191182|Augustas Oktavianas]]: Narbutas Augusto valdymo epochai priskiria pasakojimą, kad Bitinijos keliautojas Divonis neva 17 m. pr. Kr. apsilankė vėliau Prūsija pavadintame krašte.
+- susijęs iš [[objektai/asmenys/Bajeris.md#claim-t-191197|Bajeris]]: Teodoro Narbuto pasakojime Bajeris norėjo 1590 m. Jenoje išleistą knygelę apie gintarą, briedį ir Prūsijos žoles įdėti į savo „Monumentą Prussica“.
 - susijęs iš [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis).md#claim-t-60249|Bernardas (Vroclavo kunigaikštis)]]: 1322 m. Vroclavo kunigaikštis Bernardas su kitais valdovais ir kariais atvyko į Prūsijos žemę.
 - susijęs iš [[objektai/asmenys/Bernardas iš Svidnicos.md#claim-t-87633|Bernardas iš Svidnicos]]: 1322 m. žiemą Silezijos kunigaikštis Bernardas iš Svidnicos vedė atskirą kryžiuočių ekspedicijos į Prūsiją pulką.
 - susijęs iš [[objektai/asmenys/Ditrichas (Meiseno markos valdovas).md#claim-t-60263|Ditrichas (Meiseno markos valdovas)]]: 1272 m. Meiseno markos valdovas Ditrichas atvyko į Prūsiją su daugybe karių ir ketino pulti Notangos žemę.
@@ -805,6 +2212,7 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš [[objektai/asmenys/Ditrichas iš Gaterslebeno.md#claim-t-60265|Ditrichas iš Gaterslebeno]]: Ditrichas iš Gaterslebeno buvo aštuntasis Prūsijos žemės magistras ir nuo 1271 m. vadovavo šešerius metus.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173131|Dovydas (Gardino pilininkas)]]: Gardino pilininkas Dovydas su 800 vyrų surengė žygį ir su 80 vyrų įsibrovė į Prūsijos Unzatrapio valsčių.
 - susijęs iš [[objektai/asmenys/Eberhardas (Varmės vyskupas).md#claim-t-82281|Eberhardas (Varmės vyskupas)]]: Varmės vyskupas Eberhardas Elblionge surengė pasitarimą dėl taikos sutarties ir su kitais vyskupais paskelbė ją pražūtinga Prūsijai.
+- susijęs iš [[objektai/asmenys/Foigtas.md#claim-t-191346|Foigtas]]: Narbutas IV priede rėmėsi Foigto surinktomis žiniomis apie senovės Prūsijos geografiją, statistiką ir provincijų istoriją.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176376|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: 1325 m. Vilniuje Gediminas sudarė sutartį su Vladislovu Lokietka dėl bendros kovos su Prūsijos ordinu.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176381|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: 1325 m. Vilniuje Gediminas sudarė sutartį su Vladislovu Lokietka dėl bendros kovos su Prūsijos ordinu.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176396|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas, kaip skelbė Prūsijoje pasklidęs gandas, į visas šalis išsiuntinėjo laiškus apie norą priimti krikštą.
@@ -816,9 +2224,11 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš [[objektai/asmenys/Gotfridas Hohenlohė.md#claim-t-60020|Gotfridas Hohenlohė]]: 1298 m. Gotfridas Hohenlohė lankėsi Prūsijoje ir pasiuntė Bertoldą Briuhaveną su kariais į pagalbą Livonijos broliams.
 - susijęs iš [[objektai/asmenys/Gotfridas Hohenlohė.md#claim-t-60021|Gotfridas Hohenlohė]]: 1302 m. didysis magistras Gotfridas Hohenlohė su 50 brolių per Prūsiją atvyko į Livoniją, o kitais metais Elbinge atsisakė pareigų.
 - susijęs iš [[objektai/asmenys/Hartknochas.md#claim-t-190098|Hartknochas]]: Narbutas nurodo, kad Hartknochas senosios Prūsijos žemėlapyje Romnowe pažymėjo tarp Prūsos ir Bysleidos upių.
+- susijęs iš [[objektai/asmenys/Hartknochas.md#claim-t-190861|Hartknochas]]: Hartknochas, remdamasis vietos padavimais ir tyrimais, Baltijos pakrantės pokyčius siejo su smarkių šiaurinių vėjų sukeltais potvyniais Prūsijoje.
 - susijęs iš [[objektai/asmenys/Hartmanas iš Grumbacho.md#claim-t-60300|Hartmanas iš Grumbacho]]: Hartmanas iš Grumbacho buvo penktasis Prūsijos žemės magistras ir vadovavo trejus metus.
 - susijęs iš [[objektai/asmenys/Helmerichas.md#claim-t-89794|Helmerichas]]: Helmerichas buvo šeštasis Prūsijos žemės magistras, vadovavo trejus metus ir buvo palaidotas Kulmenzės bažnyčioje.
 - susijęs iš [[objektai/asmenys/Helvigas iš Goldbacho.md#claim-t-60023|Helvigas iš Goldbacho]]: Helvigas iš Goldbacho iš Tiuringijos buvo penkioliktas Prūsijos žemės magistras ir vadovavo vienus metus.
+- susijęs iš [[objektai/asmenys/Henenbergeris.md#claim-t-190864|Henenbergeris]]: Narbutas Henenbergerį mini tarp kronikininkų, citavusių pirmojo Kulmo, arba Prūsijos, vyskupo Kristijono kroniką apie senovės Prūsiją.
 - susijęs iš [[objektai/asmenys/Henrikas (Meiseno markgrafas).md#claim-t-63616|Henrikas (Meiseno markgrafas)]]: Meiseno markgrafas Henrikas atvyko į Prūsijos žemę su penkiais šimtais kilmingų kovai pasirengusių vyrų ir dideliais turtais.
 - susijęs iš [[objektai/asmenys/Henrikas Botelis.md#claim-t-116281|Henrikas Botelis]]: Henrikas Botelis, Prūsijos maršalas, žuvo liepos 13 d. kautynėse prie Durbės upės Kuršo žemėje.
 - susijęs iš [[objektai/asmenys/Henrikas Lankasteris.md#claim-t-87428|Henrikas Lankasteris]]: Henrikas Lankasteris apie 1390 m. buvo prie Vilniaus ir Prūsijoje išgarsėjo riteriškais žygiais.
@@ -839,10 +2249,12 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš [[objektai/asmenys/Inocentas IV.md#claim-t-60333|Inocentas IV]]: 1243 m. popiežius Inocentas IV pasiuntė Vilhelmą į Prūsiją padalyti žemės į keturias vyskupystes ir sutvarkyti taisytinus dalykus.
 - susijęs iš [[objektai/asmenys/Jodokas.md#claim-t-60336|Jodokas]]: Šventas Jodokas ėmė daryti stebuklus Prūsijoje, Pamedės vyskupystėje.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184730|Jogaila (kunigaikštis, XIV–XV a.)]]: Matydamas kryžiuočių sėkmę, karalius Jogaila įsakė visoms Lenkijos žemėms stoti į kovą su Prūsija.
+- susijęs iš [[objektai/asmenys/Johanas Foigtas.md#claim-t-190891|Johanas Foigtas]]: IV priede Narbutas pateikė Johano Foigto surinktas žinias apie senovės Prūsijos provincijų geografiją, statistiką ir istoriją.
 - susijęs iš [[objektai/asmenys/Jonas (Brandenburgo markgrafas).md#claim-t-60341|Jonas (Brandenburgo markgrafas)]]: 1255 m. žiemą Jonas, Brandenburgo markgrafas, su stipria kariuomene atžygiavo į Prūsiją, bet dėl šiltos žiemos nepasiekė tikėjimo priešų.
 - susijęs iš [[objektai/asmenys/Jonas (Čekijos karalius).md#claim-t-39558|Jonas (Čekijos karalius)]]: 1345 m. sausį Čekijos karalius Jonas su sūnumi Karoliu ir kitais valdovais bei kilmingaisiais atvyko į Prūsiją.
 - susijęs iš [[objektai/asmenys/Jonas iš Liuksemburgo.md#claim-t-60347|Jonas iš Liuksemburgo]]: 1329 m. Jonas iš Liuksemburgo, Čekijos karalius, su kilmingųjų palyda atžygiavo į Prūsiją.
 - susijęs iš [[objektai/asmenys/Jonas.md#claim-t-60338|Jonas]]: 1324 m. grafas Jonas iš Španheimo atvyko į Prūsiją, bet dėl plono ledo nesiėmė veiksmų prieš tikėjimo priešus.
+- susijęs iš [[objektai/asmenys/Jordanas.md#claim-t-191085|Jordanas]]: Narbutas rašo, kad Jordano darbuose pirmiausia randama žinia apie seniausią Prūsijos srities pavadinimą Owim.
 - susijęs iš [[objektai/asmenys/Konradas (Mazovijos kunigaikštis).md#claim-t-59934|Konradas (Mazovijos kunigaikštis)]]: Kunigaikštis Konradas valdė Mazoviją, Kujaviją ir Lenkiją tuo metu, kai Prūsijos vyskupas Kristijonas ragino prūsus priimti krikščionybę.
 - susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93424|Konradas (Mozūrijos kunigaikštis)]]: Mozūrijos kunigaikštis Konradas pakvietė Ordiną ir padovanojo jam Kulmo žemę, po ko prasidėjo metodiški kryžiaus žygiai į Prūsiją.
 - susijęs iš [[objektai/asmenys/Konradas Celneris.md#claim-t-185990|Konradas Celneris]]: Ordino magistras Konradas Celneris Prūsijoje visokeriopai parėmė Vytauto sumanymus.
@@ -861,6 +2273,7 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis.md#claim-t-89920|Konradas iš Tirbergo Vyresnysis]]: Konradas iš Tirbergo Vyresnysis buvo devintas Prūsijos žemės magistras ir nuo 1273 m. vadovavo šešerius metus.
 - susijęs iš [[objektai/asmenys/Konradas Žakas.md#claim-t-60045|Konradas Žakas]]: Konradas Žakas buvo šešioliktas Prūsijos magistras ir vadovavo šešerius metus.
 - susijęs iš [[objektai/asmenys/Kotryna II.md#claim-t-63849|Kotryna II]]: Kotryna II įvykdė Respublikos padalijimus, kurių metu jos trečdalį turėjo užleisti Prūsijai ir Austrijai.
+- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-190909|Kristijonas (vyskupas, XIII a.)]]: Narbuto perteikiamas Hartknochas Kristijoną vadino pirmuoju Kulmo arba Prūsijos vyskupu ir dingusios kronikos autoriumi.
 - susijęs iš [[objektai/asmenys/Kristoforas Hartknochas.md#claim-t-189974|Kristoforas Hartknochas]]: Hartknochas senosios Prūsijos žemėlapyje užrašą Romnowe padėjo tarp Prūsos ir Bysleidos upių.
 - susijęs iš [[objektai/asmenys/Kristoforas Hartknochas.md#claim-t-189976|Kristoforas Hartknochas]]: Narbutas teigė, kad Hartknochas savo Prūsijos istorijoje kruopščiai surinko kronikose išlikusius raštiškus paminėjimus.
 - susijęs iš [[objektai/asmenys/Kristupas Hartknochas.md#claim-t-190175|Kristupas Hartknochas]]: Narbutas teigė, kad Hartknochas savo Prūsijos istorijoje kruopščiai surinko kronikose išlikusius raštiškus paminėjimus.
@@ -885,6 +2298,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš [[objektai/asmenys/Petras Dusburgietis.md#claim-t-190025|Petras Dusburgietis]]: Narbutas rašo, kad Petras Dusburgietis 1326 metais įteikė savo kroniką didžiajam magistrui, aprašęs prūsų papročius netrukus po Prūsijos užkariavimo.
 - susijęs iš [[objektai/asmenys/Petras iš Rozenbergo.md#claim-t-60408|Petras iš Rozenbergo]]: 1324 m. Petras iš Rozenbergo su kitais kilmingaisiais atvyko į Prūsiją, bet prieš tikėjimo priešus nesiėmė veiksmų dėl plono ledo.
 - susijęs iš [[objektai/asmenys/Pilypas.md#claim-t-60410|Pilypas]]: 1324 m. grafas Pilypas iš Španheimo su kitais kilmingaisiais atvyko į Prūsiją, bet prieš tikėjimo priešus nesiėmė veiksmų dėl plono ledo.
+- susijęs iš [[objektai/asmenys/Pitėjas Masilietis.md#claim-t-191137|Pitėjas Masilietis]]: Narbutas aiškino, kad lotyniškame Pitėjo vertime Aestuarium reiškė seklias, kartais apsemiamas vietas, tinkamas senovės Prūsijai apibūdinti.
+- susijęs iš [[objektai/asmenys/Pitėjas.md#claim-t-191222|Pitėjas]]: Narbutas aiškino, kad lotyniškame Pitėjo vertime Aestuarium reiškė seklias, kartais apsemiamas vietas, tinkamas senovės Prūsijai apibūdinti.
 - susijęs iš [[objektai/asmenys/Plihta.md#claim-t-87833|Plihta]]: 1322 m. žiemą Plihta su broliu iš Čekijos vedė vieną kryžiuočių ekspedicijos į Prūsiją pulką.
 - susijęs iš [[objektai/asmenys/Popiežius Honorijus II.md#claim-t-60415|Popiežius Honorijus II]]: Popiežius Honorijus II 1218 m. organizavo didelį kryžiaus žygį į Prūsiją.
 - susijęs iš [[objektai/asmenys/Poponas iš Osternos.md#claim-t-59944|Poponas iš Osternos]]: Poponas iš Osternos buvo antras Prūsijos žemės magistras, pareigas ėjo septynerius metus ir 1241 m. jų atsisakė.
@@ -892,6 +2307,7 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš [[objektai/asmenys/Rabė.md#claim-t-60422|Rabė]]: Brolis Rabė iš Rudino patarė pasiųsti Mstivojų Austrijos kunigaikščiui kaip įkaitą ir prašyti pagalbos Prūsijai.
 - susijęs iš [[objektai/asmenys/Rėza.md#claim-t-190116|Rėza]]: Rėza, Narbuto perteikimu, pažymėjo, kad skaičius devyni Prūsijos lietuviams buvo religinis ir perimtas iš skandinavų.
 - susijęs iš [[objektai/asmenys/Samboras.md#claim-t-60202|Samboras]]: Samboras su broliu Sventopelku ir kitais kunigaikščiais atvyko į Prūsiją ir sustiprino Marienverderio pilį.
+- susijęs iš [[objektai/asmenys/Simonas Grunau.md#claim-t-190968|Simonas Grunau]]: Narbutas, remdamasis Hartknochu, mini Simoną Grunau tarp kronikininkų, citavusių Kristijono kroniką apie senovės Prūsiją.
 - susijęs iš [[objektai/asmenys/Simonas Grunau.md#claim-t-64054|Simonas Grunau]]: XVI a. 3-iajame dešimtmetyje Simonas Grunau Prūsijoje parašė išsamią visos Prūsijos istoriją iki 1529 m.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179670|Skirgaila]]: Skirgaila nuolatine buveine pasirinko Trakų pilį ir išvykdavo į mūšius su Prūsijos ordinu bei maištaujančiais kunigaikščiais.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90012|Sventopelkas]]: Prūsai išsirinko Sventopelką savo vyresniuoju ir vadu prieš antpuolį į Prūsijos žemutines apygardas.
@@ -901,9 +2317,11 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90040|Sventopelkas]]: Sventopelkas sudarė sąjungą su prūsais, kad jie išvarytų Teutonų ordino brolius ir kitus krikščionis iš Prūsijos.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90042|Sventopelkas]]: Sventopelkas sutelkė kariuomenę iš savo valdinių ir Prūsijos atsivertėlių ir nusekė paskui atsitraukiančius brolius.
 - susijęs iš [[objektai/asmenys/Sviatopelkas.md#claim-t-190213|Sviatopelkas]]: Narbutas rašo, kad 1247 metais Pamario kunigaikštis Sviatopelkas rėmė kitų Prūsijos provincijų gyventojų kovas su kryžiuočiais.
+- susijęs iš [[objektai/asmenys/Tacitas.md#claim-t-190976|Tacitas]]: Narbutas nurodo, kad Tacitas I a. pabaigoje, aprašęs germanus ir svebus, perėjo prie Prūsijos pakrančių ir paminėjo estus.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-184845|Traidenis (valdovas, XIII a.)]]: Traidenis, Giliginui dar esant gyvam, su trisdešimties tūkstančių kariuomene iš Lietuvos ir Prūsijos nusiaubė Mazoviją ir Kulmo žemę.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-90046|Traidenis (valdovas, XIII a.)]]: Traidenis 1269-1282 m., remdamas žiemgalius, telkė jėgas kovai Prūsijoje.
 - susijęs iš [[objektai/asmenys/Ulrichas iš Magdeburgo.md#claim-t-184136|Ulrichas iš Magdeburgo]]: Ulrichui iš Magdeburgo buvo patikėta su keliais broliais ir ginklanešiais saugoti krikščionių laivus, atplaukiančius į Prūsiją.
+- susijęs iš [[objektai/asmenys/Vaiselijus.md#claim-t-191481|Vaiselijus]]: Narbutas Vaiselijų mini tarp kronikininkų, citavusių vyskupo Kristijono kroniką apie senovės Prūsiją.
 - susijęs iš [[objektai/asmenys/Verneris fon Hoinbergas.md#claim-t-186264|Verneris fon Hoinbergas (didikas)]]: Grafas Verneris fon Hoinbergas, Adolfas fon Vintimelis ir kiti Reino krašto didikai atvyko į Prūsiją.
 - susijęs iš [[objektai/asmenys/Videvutis.md#claim-t-60073|Videvutis]]: Kai kuriuose šaltiniuose Prūsijos pradžia siejama su Pruteniu ir Videvučiu.
 - susijęs iš [[objektai/asmenys/Vigandas fon Baldersheimas.md#claim-t-186266|Vigandas fon Baldersheimas]]: Įsruties komtūras Vigandas fon Baldersheimas, vydamasis iš Prūsijos traukiančius lietuvius, apiplėšė ir sudegino daug kaimų.
@@ -913,17 +2331,25 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173242|Vladislovas Jogaila]]: Bajoras Vaidila patarimais ir įtaka rėmė Jogailos siekius, o 1380 m. Prūsijoje ruošė dirvą slaptam sandėriui.
 - susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-90073|Vladislovas Lokietka]]: Kazimieras ir Lokietka, Lenkijos kunigaikščiai, dėl savo žmonių likimo paprašė Prūsijos magistro Meinhardo pagalbos.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-184898|Švitrigaila]]: Švitrigaila nuolat kurstė Prūsijos ir Livonijos kryžiuočių magistrus prieš Vytautą.
+- susijęs iš [[objektai/autoriai/Adomas Bremenietis.md#claim-t-190681|Adomas Bremenietis]]: Adomas Bremenietis, Narbuto teigimu, Sembą laikė besiribojančia su rusais arba Rusia, bet Rusios nepriskyrė Prūsijos provincijoms.
+- susijęs iš [[objektai/autoriai/Adomas Stanislovas Naruševičius.md#claim-t-192517|Adomas Stanislovas Naruševičius]]: Narbutas rašo, kad Naruševičius rėmė nuomonę, jog Owim žemė buvo dabartinė Prūsija.
 - susijęs iš [[objektai/autoriai/August von Kotzebue.md#claim-t-87944|August von Kotzebue]]: Michałas Balińskis Kotzebue „Prūsijos istoriją“ vadino geriausiu dokumentų vertės paliudijimu.
+- susijęs iš [[objektai/autoriai/Bajeris.md#claim-t-191538|Bajeris]]: Teodoro Narbuto pasakojime Bajeris norėjo 1590 m. Jenoje išleistą knygelę apie gintarą, briedį ir Prūsijos žoles įtraukti į „Monumentą Prussica“.
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102848|Dusburgas]]: 1985 m. leidinio įvade Petro iš Dusburgo „Prūsijos žemės kronika“ išskiriama tarp svarbių XIII—XIV a. kronikų ir siejama su unikaliomis žiniomis apie prūsus, lietuvius bei jų kovą iki 1330 m.
+- susijęs iš [[objektai/autoriai/Gaudencijus.md#claim-t-191606|Gaudencijus]]: Arkivyskupas Gaudencijus, šv. Vaitiekaus mokinys ir apaštalavimo Prūsijoje bičiulis, rašė 997-1006 metais.
 - susijęs iš [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas.md#claim-t-19393|Georgas (liet. Jurgis) Zauerveinas]]: Georgas Zauerveinas kovojo už lietuvių kalbą Rytų Prūsijoje ir parašė Mažosios Lietuvos himną.
 - susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-172869|J. Dlugošas]]: J. Dlugošas tarp Švitrigailos ir Livonijos ordino pajėgų mini apie 100 Prūsijos magistro karių.
 - susijęs iš [[objektai/autoriai/J. Foigtas.md#claim-t-188411|Johanas Foigtas]]: Narbutas Foigto „Geschichte Preussens“ nurodo kaip veikalą, kuriame iš Prūsijos kronikų išrašyti prūsiški deivių vardai.
+- susijęs iš [[objektai/autoriai/J. Foigtas.md#claim-t-190729|Johanas Foigtas]]: Teodoras Narbutas IV priede pateikė Foigto surinktas žinias apie senovės Prūsijos provincijas, kokias jas XIII a. pradžioje rado kryžiuočiai.
 - susijęs iš [[objektai/autoriai/K. Hartknochas.md#claim-t-188433|Kristupas Hartknochas]]: Narbutas nurodo, kad Hartknochas senosios Prūsijos žemėlapyje Romnowe užrašą padėjo tarp Prūsos ir Bysleidos upių.
 - susijęs iš [[objektai/autoriai/K. Hartknochas.md#claim-t-188434|Kristupas Hartknochas]]: Narbutas kritikuoja Hartknochą dėl neapsisprendimo, kurią iš kelių Prūsijos vietovių laikyti tikrąja Romove.
 - susijęs iš [[objektai/autoriai/K. Hartknochas.md#claim-t-188435|Kristupas Hartknochas]]: Narbutas rašo, kad Hartknochas savo Prūsijos istorijoje kruopščiai surinko kronikose išlikusius raštiškus paminėjimus.
 - susijęs iš [[objektai/autoriai/Kotzebue.md#claim-t-88072|Kotzebue]]: Michałas Balińskis Kotzebue Prūsijos istoriją vadino geriausiu paliudijimu apie Foigto pirmtako darbą.
+- susijęs iš [[objektai/autoriai/Kristijonas Henenbergeris.md#claim-t-191599|Kristijonas Henenbergeris]]: Narbutas Henenbergerį priskyrė kronikininkams, citavusiems vyskupo Kristijono kroniką apie senovės Prūsiją.
+- susijęs iš [[objektai/autoriai/Kristijonas.md#claim-t-190751|Kristijonas]]: Hartknocho perteikimu, Kristijonas buvo pirmasis Kulmo, arba Prūsijos, vyskupas ir kronikos apie senovės Prūsiją autorius.
 - susijęs iš [[objektai/autoriai/Labuda G.md#claim-t-64698|Labuda G]]: G. Labuda nurodė, kad Henriko Barzdotojo dokumentai liudija jo buvimą Prūsijoje 1235 metais.
 - susijęs iš [[objektai/autoriai/Labuda G.md#claim-t-64701|Labuda G]]: G. Labuda recenzavo M. Hellmanno darbą apie Prūsijos istorijos pagrindus.
+- susijęs iš [[objektai/autoriai/Leo.md#claim-t-191613|Leo]]: Leo nurodė, kad borusai 523 ar 530 metais persikėlė iš šiaurės į dabartinę Prūsiją.
 - susijęs iš [[objektai/autoriai/M. Perlbachas.md#claim-t-175145|M. Perlbachas]]: M. Perlbachas teigė, kad nuo 1289 metų Petras Dusburgietis jau gyveno Prūsijoje.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-190645|Motiejus Strijkovskis (kronikininkas)]]: Narbutas rašo, kad Strijkovskis apie aukštas lietuvių pareigas pateikė daugiau žinių nei Prūsijos ir Livonijos kronikininkai.
 - susijęs iš [[objektai/autoriai/Matulevičius A.md#claim-t-62645|Matulevičius A]]: A. Matulevičius 1972 m. paskelbė straipsnį apie lietuvių etninę ribą Prūsijoje XVIII a. pradžioje.
@@ -936,7 +2362,9 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš [[objektai/autoriai/Prūsijos kronikininkai.md#claim-t-190379|Prūsijos kronikininkai]]: Prūsijos kronikininkai kartojo, kad stabmeldžiai slėpė tam tikras religines apeigas.
 - susijęs iš [[objektai/autoriai/Prūsijos vyskupas Kristijonas.md#claim-t-190450|Prūsijos vyskupas Kristijonas]]: Narbutas spėjo, kad prūsų vėliavos runų užrašas buvo senovinis vertimas iš dingusios Prūsijos vyskupo Kristijono kronikos.
 - susijęs iš [[objektai/autoriai/Sembritzki J.md#claim-t-62657|Sembritzki J]]: J. Sembritzkis 1926 m. Memelyje išleido knygą apie karališkojo Prūsijos jūrų ir prekybos miesto Memelio istoriją.
+- susijęs iš [[objektai/autoriai/Tacitas (romėnų rašytojas, I amžiaus gale).md#claim-t-190797|Tacitas (romėnų rašytojas, I amžiaus gale)]]: Teodoras Narbutas nurodo, kad I a. pabaigoje rašęs Tacitas po germanų aprašymo perėjo prie Prūsijos pakrančių ir estų.
 - susijęs iš [[objektai/autoriai/Toppen M.md#claim-t-60800|Toppen M]]: M. Toppenas 1853 m. Berlyne išleido veikalą apie Prūsijos istoriografiją nuo Petro Dusburgiečio iki K. Schützo.
+- susijęs iš [[objektai/autoriai/Vaiselijus.md#claim-t-191910|Vaiselijus]]: Narbuto perteiktas Hartknochas Vaiselijų įvardijo tarp kronikininkų, citavusių vyskupo Kristijono kroniką apie senovės Prūsiją.
 - susijęs iš [[objektai/autoriai/Vygandas Marburgietis.md#claim-t-172967|Vygandas Marburgietis]]: Vygandas Marburgietis „Naujojoje Prūsijos kronikoje“ aprašė lietuvių karaliaus dezinformaciją 1345 m.
 - susijęs iš [[objektai/autoriai/Vygandas Marburgietis.md#claim-t-172968|Vygandas Marburgietis]]: Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ ištrauka pateikta apie 1348 m. Strėvos mūšį.
 - susijęs iš [[objektai/autoriai/Vygandas Marburgietis.md#claim-t-172971|Vygandas Marburgietis]]: Vygando Marburgiečio „Naujosios Prūsijos kronikos“ ištraukoje aprašomas pilies šturmas.
@@ -952,6 +2380,7 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš [[objektai/grupes/Chlapovskio kariuomenė.md#claim-t-168145|Chlapovskio kariuomenė]]: Chlapovskio vadovaujama kariuomenė nekovojo su rusais ir, prieš pereidama Prūsijos sieną, padėjo ginklus.
 - susijęs iš [[objektai/grupes/Cistersų ordinas.md#claim-t-88539|Cistersų ordinas]]: 1210 m. pabaigos popiežiaus bulėje Cistersų ordino vienuolis Kristijonas minimas kaip vienas krikščioniškosios misijos Prūsijoje vadovų.
 - susijęs iš [[objektai/grupes/Dobrynės broliai.md#claim-t-65111|Dobrynės broliai]]: Kristaus karių ordino broliai buvo burti žemei ginti Prūsijos vyskupo Kristijono ir didikų patariamo kunigaikščio iniciatyva.
+- susijęs iš [[objektai/grupes/Kimbrai.md#claim-t-192934|Kimbrai]]: Narbutas, remdamasis Herodotu ir senovės tyrinėtojais, kimbrus laiko kadaise Prūsijoje viešėjusia gentimi.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178788|Kryžiuočių ordinas]]: Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grąžintų žemes Prūsijoje, Žiemgalius ir Kuršius.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178801|Kryžiuočių ordinas]]: Vytautas atnaujino ryšius su Prūsija ir kryžiuočiams pažadėjo padėti atstatyti sudegintas jų pilis prie Kauno.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178898|Kryžiuočių ordinas]]: Teutonų ordino didysis magistras Anonas įsakė Prūsijos magistrui ir broliams pastatyti pilį Osos pakrantėje.
@@ -980,6 +2409,7 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188309|Prūsai]]: Narbutas spėja, kad paskutinis Prūsijos Krivių Krivaitis Alepas buvo išguitas iš Romovės ir slapstėsi nuo kryžiuočių, siekusių jį sučiupti.
 - susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188318|Prūsai]]: Narbutas rašo, kad Prūsijos kronikininkai aprašo tautinį senovės prūsų herbą, kurio kilmę sieja su Vaidevučio laikais.
 - susijęs iš [[objektai/grupes/Prūsai.md#claim-t-190614|Prūsai]]: Narbutas pabrėžia, kad Dusburgietis 1326 metais įteikė kroniką, kai nuo visiško Prūsijos užkariavimo buvo praėję kiek daugiau nei keturiasdešimt metų.
+- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-192448|Prūsai]]: Teodoras Narbutas tikrąja Prūsija iki XIII a. vadina dvylikos provincijų ir dvylikos genčių savarankišką kraštą.
 - susijęs iš [[objektai/grupes/Prūsijos lietuviai.md#claim-t-189461|Prūsijos lietuviai]]: Narbutas rašo, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi dar iki 1530 metų, kaip liudija Karaliaučiaus bažnyčios Agenda.
 - susijęs iš [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai.md#claim-t-89176|Prūsijos naujakrikščiai atsimetėliai]]: Prūsijos naujakrikščiai dalyvavo kariuomenėje, kuri buvo padalyta į dvi dalis pulti pilį iš priekio ir iš kitos pusės.
 - susijęs iš [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai.md#claim-t-89177|Prūsijos naujakrikščiai atsimetėliai]]: Po Vokietijos kunigaikščių žygių minėti Prūsijos naujakrikščiai atsimetėliai grįžo į tikėjimą ir iš naujo pasidavė broliams.
@@ -1017,9 +2447,11 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš [[objektai/ivykiai/Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas.md#claim-t-183923|Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas]]: Henrikas, Meiseno markgrafas, atvyko į Prūsiją su 500 kilmingų kovai pasirengusių vyrų ir dideliais turtais.
 - susijęs iš [[objektai/ivykiai/Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas.md#claim-t-66557|Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas]]: Henrikas Meiseno markgrafas 1236 m. atvyko į Prūsiją ir niokojo Pamedę.
 - susijęs iš [[objektai/ivykiai/Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas.md#claim-t-66559|Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas]]: Henrikas, Meiseno markgrafas, atvyko į Prūsiją su 500 kilmingų kovai pasirengusių vyrų ir dideliais turtais.
+- susijęs iš [[objektai/ivykiai/Herulų atsiskyrimas prie Dunojaus ir kelionė į Tūlą Reitgotiją.md#claim-t-191044|Herulų atsiskyrimas prie Dunojaus ir kelionė į Tūlą Reitgotiją]]: Narbutas artimiausiu ir saugiausiu herulų keliu į Reitgotiją laikė maršrutą per Pamarį, Kujaviją, Mazoviją ir Prūsiją.
 - susijęs iš [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos.md#claim-t-186604|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)]]: Lietuvos metraščio pasakojime prie Dubrovnos Jogaila, Vytautas ir Prūsijos magistras sutelkė didžiules kariuomenes.
 - susijęs iš [[objektai/ivykiai/Karo su Prūsija pradžia ir dvejų metų paliaubos per popiežiaus legatą.md#claim-t-185711|Karo su Prūsija pradžia ir dvejų metų paliaubos per popiežiaus legatą]]: Karo su Prūsija pradžioje lenkų ir lietuvių kariuomenės peržengė sienas ir įsiveržė į Prūsiją.
 - susijęs iš [[objektai/ivykiai/Kauno taikos derybos su kryžiuočiais ir jų žlugimas (1408 m.).md#claim-t-185805|Kauno taikos derybos su kryžiuočiais ir jų žlugimas (1408 m.)]]: Kaune Jogaila ir Vytautas pradėjo tartis su kryžiuočių vadovais dėl tvirtos ir pastovios Prūsijos bei Lietuvos taikos.
+- susijęs iš [[objektai/ivykiai/Kimbrų epochos potvynis Baltijos pakrantėse.md#claim-t-191024|Kimbrų epochos potvynis Baltijos pakrantėse]]: Narbutas, remdamasis Hartknochu, kimbrų epochos potvynį sieja su dideliais Baltijos jūros krantų reljefo ir pavidalo pokyčiais Prūsijoje.
 - susijęs iš [[objektai/ivykiai/Klaipėdos pilies perdavimas Prūsijos kryžiuočiams (1328 m.).md#claim-t-01667|Klaipėdos pilies perdavimas Prūsijos kryžiuočiams (1328 m.)]]: 1328 m. livoniškiai kryžiuočiai perdavė atkirstą Klaipėdos pilį Prūsijos kryžiuočiams.
 - susijęs iš [[objektai/ivykiai/Kolainių apgultis ir pilies sunaikinimas (1290 m.).md#claim-t-185714|Kolainių apgultis ir pilies sunaikinimas (1290 m.)]]: Apie balandžio vidurį Prūsijos magistras Meinhardas apgulė Kolainius, Lietuvos pilį Nemuno pakrantėje prie Prūsijos.
 - susijęs iš [[objektai/ivykiai/Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru.md#claim-t-183934|Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru]]: Didysis magistras 1279 m. paskyrė Konradą iš Foichtvangeno Prūsijos ir Livonijos brolių magistru.
@@ -1041,6 +2473,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš [[objektai/ivykiai/Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.).md#claim-t-66830|Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)]]: Sventopelkas įsakė naujakrikščiams visose Prūsijos žemėse sukilti prieš Teutonų ordino brolius ir atmesti tikėjimą.
 - susijęs iš [[objektai/ivykiai/Popono iš Osternos atsisakymas Prūsijos magistro pareigų ir vėlesnis išrinkimas didžiuoju magistru.md#claim-t-62442|Popono iš Osternos atsisakymas Prūsijos magistro pareigų ir vėlesnis išrinkimas didžiuoju magistru]]: Poponas iš Osternos septynerius metus buvo antrasis Prūsijos žemės magistras, 1241 m. atsisakė pareigų ir vėliau tapo didžiuoju magistru.
 - susijęs iš [[objektai/ivykiai/Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.).md#claim-t-185496|Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.)]]: 1307 m. į Prūsiją atvyko grafo Jono fon Španheimo vedama kariuomenė su kilmingais vokiečių riteriais.
+- susijęs iš [[objektai/ivykiai/Prūsijos žemės drebėjimas 1303 m.md#claim-t-191071|Prūsijos žemės drebėjimas 1303 m]]: Prūsų kronikose minima, kad 1303 metais Prūsijoje įvyko žemės drebėjimas.
+- susijęs iš [[objektai/ivykiai/Slavų įsiveržimas į Daniją ir Jarmeriko antroji pergalė prieš slavus.md#claim-t-191075|Slavų įsiveržimas į Daniją ir Jarmeriko antroji pergalė prieš slavus]]: Narbutas pasakoja, kad Jarmerikui žygiuojant Prūsijoje slavai įsiveržė į Daniją, o grįžęs valdovas antrą kartą juos nugalėjo.
 - susijęs iš [[objektai/ivykiai/Taikos susitarimas su Prūsijos magistru Albrechtu ir jo paskelbimas Prūsijos kunigaikščiu.md#claim-t-185775|Taikos susitarimas su Prūsijos magistru Albrechtu ir jo paskelbimas Prūsijos kunigaikščiu]]: Albrechtas kunigaikščio teisėmis gavo valdyti Prūsijos kunigaikštystę, likdamas su žeme pavaldus karaliui.
 - susijęs iš [[objektai/ivykiai/Trečiasis Lenkijos-Lietuvos valstybės padalijimas (1795 m.).md#claim-t-187973|Trečiasis Lenkijos-Lietuvos valstybės padalijimas (1795 m.)]]: Po trečiojo padalijimo Lenkijos-Lietuvos valstybės teritorijos priklausė Rusijos, Prūsijos ir Austrijos imperijoms.
 - susijęs iš [[objektai/ivykiai/Trečiojo Lenkijos ir Lietuvos valstybės padalijimo konvencijos pasirašymas.md#claim-t-183279|Trečiojo Lenkijos ir Lietuvos valstybės padalijimo konvencijos pasirašymas]]: Po 1795 m. spalio 24 d. konvencijos etninės lietuvių žemės atiteko Rusijai, Prūsija prisijungė Užnemunę, o pietvakarinis LDK kampas – Austrijai.
@@ -1076,15 +2510,25 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš 1325 m. Gedimino sutartis su Łokietka: 1325 m. Vilniuje Gedimino sutartimi su Łokietka susitarta bendromis jėgomis kovoti su Prūsijos ordinu.
 - susijęs iš 1411 m. Torunės taika: Taikos sutartis užbaigė Prūsijos karą, o karalius per Lietuvą sugrįžo į Lenkiją.
 - susijęs iš 1432 m. Lietuvos ir lietuviškos Rusios priesaika Prūsijos ordinui dėl Švitrigailos sutarties: 1432 m. Lietuvos ir lietuviškos Rusios kunigaikščiai, bajorai ir miestai raštu prisiekė Prūsijos ordinui laikytis Švitrigailos sutarties.
+- susijęs iš Adomo Bremenietio De situ Daniae: Narbutas rašo, kad Adomas Bremenietis Sembą siejo su rusais arba Rusios kraštu, bet jo nepriskyrė Prūsijos provincijoms.
 - susijęs iš August von Kotzebue Prūsijos istorija: Augusto von Kotzebue nuomonės apie Prūsijos istoriją vertinamos kritiškai, remiantis teiginiu apie dokumentų patekimą į kryžiuočių archyvą.
+- susijęs iš Bajerio Monumenta Prussica: Narbutas nurodė, kad Bajeris norėjo į „Monumentą Prussica“ įdėti 1590 m. Jenoje išleistą knygelę apie gintarą, briedį ir Prūsijos žoles.
 - susijęs iš Diunamiundės metraštis: Dusburgietis galėjo žinoti Diunamiundės metraštį, susijusį su Seniausio Prūsijos metraščio tradicija.
+- susijęs iš Foigto Geschichte Preussens: Foigto „Geschichte Preussens“ ištrauka aprašo senovės Prūsijos provincijas taip, kaip jas XIII a. pradžioje rado kryžiuočiai.
 - susijęs iš Gedimino laiškai: Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumentas buvo Karaliaučiaus Slaptajame archyve, o Kotzebue juos paskelbė „Prūsijos istorijoje“.
+- susijęs iš Hartknoch, Alt und neues Preussen oder Preussische Historien: Narbutas rašė, kad Hartknochas, remdamasis vietos padavimais ir tyrinėjimais, buvo įsitikinęs didelio Prūsijos potvynio tikrumu.
+- susijęs iš Hartknocho Prūsijos istorija: Narbutas nurodė, kad Hartknochas aprašė padavimus apie Bitinijos keliautojo Divonio apsilankymą būsimame Prūsijos krašte.
 - susijęs iš Hartknocho veikalas: Hartknocho veikalas pateikė lietuvių kalbos, vartotos Prūsijoje Nemuno žemupyje, pavyzdį.
+- susijęs iš Henenbergerio Prūsijos kronika ir senovės Prūsijos žemėlapis: Teodoro Narbuto teigimu, XV a. prūsų kronikininkas Henenbergeris nurodė nebeegzistuojančias Prūsijos upių šakas Akmenę, Szyrwinde, Alt-Russe ir Neyupe.
 - susijęs iš J. Dlugošo Analai, arba kronikos: J. Dlugošo „Analuose“ Prūsijos vardas buvo siejamas su II a. pr. m. e. Bitinijos karaliumi Prūsijumi.
 - susijęs iš Johanneso Voigto Prūsijos istorija, V tomas: Balińskis pataisytą žygio į Vilnių aprašymą grindė Johanneso Voigto Prūsijos istorijos V tomu ir Ignaco Onacevičiaus pastabomis.
+- susijęs iš Johanno Voigto Prūsijos istorija: Narbutas Voigto Prūsijos istoriją apibūdino kaip aštuonių tomų veikalą, paremtą Karaliaučiuje sukauptais kryžiuočių dokumentais ir kronikomis.
+- susijęs iš Johanno Voigto Prūsijos istorija: Narbutas rašė, kad kryžiuočiai į Polesę įsiveržė laikydami ją senąja Prūsijos provincija ir kaltindami Kujavijos kunigaikštį sulaužius sutartį.
+- susijęs iš Johanno Voigto Prūsijos istorija: 1242–1253 m. klajojusi grupė tarp Mazovijos, Prūsijos ir Lietuvos lengvino su vokiečiais kariavusių lietuvių ryšius su Pamariu ir Prūsija.
 - susijęs iš Karaliaučiaus bažnyčios Agenda: Narbutas nurodo, kad Karaliaučiaus bažnyčios Agenda liudija Prūsijos lietuvius iki 1530 m. laikiusis aukų Pergrubei apeigų.
 - susijęs iš Karinė sutartis su Prūsija (1790 m.): 1790 m. seimas sudarė karinę sutartį su Prūsija, tačiau Prūsija atsisakė padėti karaliui.
 - susijęs iš Karinė sutartis su Prūsija (1790 m.): Prūsija rėmė seimą siekdama spausti Rusiją, kuri nesutiko leisti jai užimti Dancigo ir Torno.
+- susijęs iš Kvedlinburgo kronika: Narbuto perteikimu, Kvedlinburgo kronika prieš 1009 m. minėjo rusus ir Rusią, buvusią toje pačioje vietoje arba Prūsijos šiaurėje.
 - susijęs iš Mažosios Lietuvos himnas: Už lietuvių kalbą Rytų Prūsijoje kovojęs Jurgis Zauerveinas parašė Mažosios Lietuvos himną, išpopuliarėjusį ir Didžiojoje Lietuvoje.
 - susijęs iš Naujosios Prūsijos kronika: Vygando Naujoji Prūsijos kronika aprašė Kęstučio laidotuves Vilniuje, kur su jo palaikais sudeginti rūbai, ginklai, žirgai, šunys ir paukščiai.
 - susijęs iš Naujosios Prūsijos žemės kronika: Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie Marienverderio pilies šturmą 1384 m.
@@ -1096,6 +2540,7 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš Peterburgo konvencija dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo (1795 m.): Po 1795 m. Peterburgo konvencijos LDK etninės lietuvių žemės atiteko Rusijai, Užnemunė Prūsijai, o pietvakarinis LDK kampas Austrijai.
 - susijęs iš Peterburgo konvencija dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo (1795 m.): 1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo.
 - susijęs iš Petras Dusburgietis, Prūsijos žemės kronika (1985 m.): Įžanginiame straipsnyje Petro iš Dusburgo „Prūsijos žemės kronika“ išskiriama kaip ypač svarbi tarp XIII-XIV a. kronikų ir siejama su unikaliomis žiniomis apie prūsus, lietuvius bei jų kovą iki 1330 m.
+- susijęs iš Petro Dusburgiečio Prūsijos žemės kronika: Petro Dusburgiečio Prūsijos žemės kronika cituojama kaip nuoroda teiginiui, kad Merūniškio apskrityje buvo aštuoniolika didelių žemvaldžių.
 - susijęs iš Pranešimas apie Prūsijos užkariavimą: „Pranešimo apie Prūsijos užkariavimą“ XVI a. nuorašas aptiktas Ordino archyve Vienoje.
 - susijęs iš Preussisches Urkundenbuch: „Preussisches Urkundenbuch“ nurodomas prie teiginio, kad Kristijonas 1215 m. antroje pusėje arba 1216 m. pradžioje paskelbtas pirmuoju Prūsijos vyskupu.
 - susijęs iš Prūsijos trumpoji eiliuotoji kronika: Prūsijos trumpojoje eiliuotojoje kronikoje Kristburgo vardas pateiktas forma „Kirsburg“.
@@ -1106,19 +2551,17 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš Prūsijos vyskupų laiškas dėl 1323 m. sutarties: Prūsijos vyskupų laiškas ragino atmesti 1323 m. sutartį ir nenutraukti kovos su priešu.
 - susijęs iš Prūsijos vyskupų laiškas dėl 1323 m. sutarties: Prūsijos vyskupai laiške 1323 m. taikos sutartį vadino velnio žabangomis ir gėda krikščioniškajam pasauliui.
 - susijęs iš Prūsijos žemės kronika (iki 1450 m.): „Prūsijos žemės kronika“ susijusi su Torunės analais, pratęsta iki 1450 m. ir sudaryta Chelmžos vyskupo aplinkoje.
-- susijęs iš Prūsijos žemės kronika: Petras Dusburgas Prūsijos žemės kronikoje nurodė Žemaitijoje buvus net 70 tokių „karaliukų“.
-- susijęs iš Prūsijos žemės kronika: Prūsijos žemės kronikoje minima tik Dobrynės kunigaikštystė, o kitame dokumente nurodoma ir kaimyninė Kulmo žemė.
+- susijęs iš Prūsų vyskupo Kristijono kronika: Hartknocho liudijimu, vyskupas Kristijonas buvo senovės Prūsijos kronikos autorius, o ją citavo Grunau, Henenbergeris, Vaiselijus ir Lukas Davidas.
 - susijęs iš Schützo Prūsijos kronika: Narbutas, remdamasis Prūsijos kronikomis, pasakoja, kad 1247 m. Pamedėje aitvarai esą viešai rodydavosi žmonių pavidalu.
-- susijęs iš Schützo Prūsijos kronika: Schützo Prūsijos kronika minima kaip šaltinis apie viduramžių riterių puotas prieš karo žygius.
 - susijęs iš Sembos kanauninko rinkinys: Sembos kanauninko rinkinio tyrinėjimai rodo, kad jame yra žinių iš neišlikusio Seniausio Prūsijos metraščio.
 - susijęs iš Seniausieji Prūsijos analai: Seniausieji Prūsijos analai pirmajame raidos etape iš esmės apėmė 1230–1293 m. įvykius.
 - susijęs iš Seniausieji Prūsijos analai: Seniausiųjų Prūsijos analų pagrindas susidarė XIII a. pabaigoje Ordino valstybėje buvusios oficialios analistikos aplinkoje.
-- susijęs iš Simono Grunau kronika: Simonas Grunau XVI a. 3-iajame dešimtmetyje parašė Prūsijos istoriją, kurioje plačiai rėmėsi Petru iš Dusburgo.
 - susijęs iš Trumpieji Prūsijos analai: „Trumpieji Prūsijos analai“ buvo pratęsti iki 1337 m.
 - susijęs iš Vytauto 1398 m. laiškas Prūsijos ordinui dėl pagalbos statant pilis: 1398 m. laiške Vytautas žadėjo Prūsijos ordinui pagalbą statant dvi pilis.
 - susijęs iš Vytauto byla su Jogaila Karaliaučiaus Slaptajame archyve: Vytauto byloje su Jogaila aiškinta, kad Jogaila slapta sudarė taiką su Prūsija ir Livonija.
 - susijęs iš [[objektai/saltiniai/[Schroetter-Karte], Karte von Ost-Preussen nebst Preussisch Litthauen und West- Preussen nebst dem Netzdistrict 1 150000. 25 Sectionen (Schr.md#claim-t-61288|[Schroetter-Karte], Karte von Ost-Preussen nebst Preussisch Litthauen und West- Preussen nebst dem Netzdistrict 1 150000. 25 Sectionen (Schr]]: „Schroetter-Karte“ yra 1796-1802 m. sudarytas 25 sekcijų 1:150000 mastelio Rytų Prūsijos, Prūsų Lietuvos, Vakarų Prūsijos ir Netzdistrict žemėlapis.
 - susijęs iš [[objektai/saltiniai/[Schroetter-Karte], Karte von Ost-Preussen nebst Preussisch Litthauen und West- Preussen nebst dem Netzdistriect Von Schroetter in den Jahre.md#claim-t-61289|[Schroetter-Karte], Karte von Ost-Preussen nebst Preussisch Litthauen und West- Preussen nebst dem Netzdistriect Von Schroetter in den Jahre]]: Schroetterio Rytų Prūsijos, Prūsų Lietuvos, Vakarų Prūsijos ir Notecės distrikto žemėlapis sudarytas 1796-1802 m. 1:150000 masteliu.
+- susijęs iš Barta: Bartos provincija plytėjo į pietryčius nuo Natangijos, su kuria ribojosi Alnos upe, ir buvo viena didžiausių Prūsijos provincijų.
 - susijęs iš Barta: Petro Dusburgiečio kronikoje Barta ir Plikoji Barta priskiriamos vienai iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas): Vytauto laikais Vilniaus prekyba išsiplėtė su Pskovu, Naugardu, Maskva, Prūsijos ir Livonijos miestais.
 - susijęs iš Dobrynė: Dusburgiečio aprašyme Dobrynės kunigaikštystė minima tarp Prūsijos žemę ribojusių teritorijų.
@@ -1128,12 +2571,14 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš Gunlaukenas: Gunlaukeno apskritis buvo priskirta pietinei Prūsijos daliai, kurios lietuviai pasižadėjo nebepuldinėti.
 - susijęs iš Halė: Halėje gimęs tarnas Dusburgiečio apibūdintas kaip toks padorus ir protingas, kad visoje Prūsijoje neturėjo sau lygaus.
 - susijęs iš Heilsbergas: Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.
+- susijęs iš Insterburgas: Narbutas rašo, kad Strijkovskis prie Raigardo ir Insterburgo Prūsijoje pastebėdavo galimų išvestų jotvingių palikuonių.
 - susijęs iš Karšuva: Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.
 - susijęs iš Karšuvos žemė: 1259 m. Karšuvos žemėje ant švento Jurgio kalno buvo pastatyta pilis, kurią saugojo Prūsijos ir Livonijos įgula.
 - susijęs iš Klaipėda: Nemunas prie Klaipėdos pilies ir miesto įteka į jūrą ir atskiria Prūsiją nuo Rusios, Lietuvos ir Kuršo.
 - susijęs iš Kujavija: Kunigaikštis Konradas valdė Mazoviją, Kujaviją ir Lenkiją tuo metu, kai Prūsijoje veikė vyskupas Kristijonas.
 - susijęs iš Kujavija: Kunigaikštis Konradas valdė Mazoviją, Kujaviją ir Lenkiją tuo metu, kai veikė Prūsijos vyskupas Kristijonas.
 - susijęs iš Kulmas: Petro Dusburgiečio kronikoje Kulmo ir Lubavo žemė įvardyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.
+- susijęs iš Kulmas: Narbutas nurodė, kad sena siena prie Drevantos skyrė Kulmo kraštą nuo senovės Prūsijos.
 - susijęs iš Kulmas: Petro Dusburgiečio kronikoje Kulmo ir Lubavo žemė įvardyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Kulmo žemė: Ordino įsikūrimas Mazovijos kunigaikščio Konrado dovanotoje Kulmo žemėje laikomas Ordino veiklos Prūsijoje pagrindu.
 - susijęs iš Kuršas: Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.
@@ -1145,11 +2590,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš Lietuvos valdos Lietuva: Lietuva juto baisią maisto stoką, todėl Jogaila įsakė grūdų laivus siųsti į Prūsijos pasienį ir vežti grūdus į Lietuvą.
 - susijęs iš Livonija: Livonija vis glaudžiau šliejosi prie Prūsijos.
 - susijęs iš Lubava: Petro iš Dusburgo kronikoje Kulmo ir Lubavo sritis nurodyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.
+- susijęs iš Lubava: Narbutas rašo, kad mažosios Lubavos ir Sasavos žemės ribojosi prie senosios sienos tarp Kulmo krašto ir senovės Prūsijos.
 - susijęs iš Lubava: Petro iš Dusburgo kronikoje Kulmo ir Lubavo sritis nurodyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Lubavas: Petro iš Dusburgo kronikoje Kulmo ir Lubavo sritis nurodyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Lubavas: Petro iš Dusburgo kronikoje Kulmo ir Lubavo sritis nurodyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Lunenburgas: Vasarį lietuvių valdovai apgulė Lunenburgą ir sunaikino jo papilį per puolimą Prūsijoje.
 - susijęs iš Nadruva: Petro Dusburgiečio kronikoje Nadruva minima kaip viena iš vienuolikos Prūsijos žemės dalių.
+- susijęs iš Narevas: Teodoras Narbutas sprendė, kad po 1237 m. jotvingiai traukėsi nuo Bugo ir Narevo Prūsijos bei Lietuvos sienų link.
 - susijęs iš Naugardas: Vytauto valdymo laikais Vilniaus prekyba išsiplėtė su Naugardu, Pskovu, Maskva ir Prūsijos bei Livonijos miestais.
 - susijęs iš Naugardas: Vytauto remiama Vilniaus prekyba išsiplėtė su Pskovu, Naugardu, Maskva, Prūsijos ir Livonijos miestais.
 - susijęs iš Naujoji Prūsija: Prūsija prisijungė Užnemunę ir pavadino ją Naująja Prūsija.
@@ -1169,6 +2616,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš Piotrkovas: Piotrkovo seimas, luomams pritariant, paskyrė kunigaikščiui Augustui karaliaus pajamas iš Mazovijos ir Prūsijos.
 - susijęs iš Plikoji Barta: Petro Dusburgiečio kronikoje Plikoji Barta minima kaip viena iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Pomeranija: Vysla, tekėdama nuo Krokuvos į Pomeraniją ir įtekėdama į jūrą prie Gdansko, skyrė Lenkiją bei Pomeraniją nuo Prūsijos.
+- susijęs iš Raigardas: Narbutas spėja, kad Strijkovskio prie Raigardo ir Insterburgo Prūsijoje pastebėti žmonės galėjo būti išvestų jotvingių palikuonys.
+- susijęs iš Romovė: Narbutas Romovę vaizdavo kaip dievų šventovę didelės šventos girios viduryje Prūsijos provincijos vakaruose.
 - susijęs iš Romuniškiai: Narbutas, remdamasis Hartknochu, Romuniškius mini Žemaitijoje, už sienos nuo Prūsijos Romučių kaimo prie Tenenio upės.
 - susijęs iš Rusia Rusios žemės: Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi.
 - susijęs iš Rusia: Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi.
@@ -1181,6 +2630,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš Rytų Prūsija: „Lituanica“ aviatoriai be nusileidimo per 37 val. 11 min. įveikė 6 411 km ir patyrė katastrofą tuometinėje Rytų Prūsijoje.
 - susijęs iš Rytų Prūsija: Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmečio tautinio lietuvių judėjimo planų dalis, nors LDK niekuomet Rytų Prūsijos, lietuvių vadinamos Mažąja Lietuva, nevaldė.
 - susijęs iš Rytų Prūsija: Be nusileidimo 37 val. 11 min. skridę ir 6 411 km įveikę aviatoriai patyrė katastrofą tuometinėje Rytų Prūsijoje.
+- susijęs iš Rytų Prūsija: Erazmas Stela veikale „Apie Prūsijos senienas“ įrodinėjo, kad vokiečiai buvo seniausi Rytų Prūsijos gyventojai.
+- susijęs iš Salavija: Narbutas Salaviją vadino vienuolikta Prūsijos provincija ir pažymėjo, kad jos sienas sunku nustatyti.
 - susijęs iš Skalva: Petro iš Dusburgo kronikoje Skalva priskirta vienai iš 11 Prūsijos žemės dalių.
 - susijęs iš Suvalkų kraštas: Suvalkų kraštas tada buvo beveik negyvenamas, apaugęs tankiais miškais, o į Prūsiją per jį ėjo tik du keliai.
 - susijęs iš Sūduva: Petro iš Dusburgo kronikoje Sūduva minima kaip viena iš vienuolikos Prūsijos žemės dalių.
@@ -1198,6 +2649,7 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš Žemaitija: Sudeginus Kurše Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.
 - susijęs iš Žemaitija: Tuo žygiu Mindaugas atgavo Žemaitiją ir Kuršą, nusiaubė Sembą ir vėliau vėl sukėlė karą Prūsijoje.
 - susijęs iš [[objektai/zodynas/Ordino brolis.md#claim-t-58861|Ordino brolis]]: Petras Dusburgietis buvo Ordino brolis kunigas ir Prūsijos žemės kronikos autorius.
+- susijęs iš [[objektai/zodynas/Phyllantus Emblica.md#claim-t-192252|Phyllantus Emblica]]: Narbutas rašo, kad Phyllantus Emblica kaip karšto klimato medis neturėtų stebinti Prūsijoje tik jei minėtas vaisius neišaugo Emblikoje.
 - susijęs iš [[objektai/zodynas/Prūsijos žemė terra Prussiae.md#claim-t-184018|Prūsijos žemė terra Prussiae]]: Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į vienuolika atskirų žemių.
 - susijęs iš [[objektai/zodynas/Prūsijos žemė terra Prussiae.md#claim-t-184019|Prūsijos žemė terra Prussiae]]: Tyrimų duomenimis, Petras Dusburgietis Prūsija vadino Ordino užkariautą plotą nuo Vyslos iki Nemuno.
 - susijęs iš [[objektai/zodynas/Prūsijos žemė terra Prussiae.md#claim-t-58920|Prūsijos žemė terra Prussiae]]: Tyrimų duomenimis, Petras Dusburgietis Prūsija vadino Ordino užkariautą plotą nuo Vyslos iki Nemuno.
@@ -1221,9 +2673,11 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181475|Petras Dusburgietis]]: Petras iš Dusburgo nurodė, kad kronikoje aprašys Teutonų ordino įkūrimą, brolių atvykimą į Prūsiją ir karus Prūsijoje.
 - susijęs iš [[objektai/grupes/Cistersų ordinas.md#claim-t-88536|Cistersų ordinas]]: Prūsijos vyskupas Kristijonas buvo Cistersų ordino vienuolis, skelbęs krikščionybę prūsams.
 - susijęs iš [[objektai/grupes/Cistersų ordinas.md#claim-t-88538|Cistersų ordinas]]: Prūsijos vyskupas Kristijonas buvo Cistersų ordino vienuolis ir ragino prūsus atsisakyti stabų garbinimo.
+- susijęs iš Barta: Bartos provincija plytėjo į pietryčius nuo Natangijos, su kuria ribojosi Alnos upe, ir buvo viena didžiausių Prūsijos provincijų.
 - susijęs iš Livonija: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė ir grįžo į Prūsiją bei Livoniją.
 - susijęs iš Livonija: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė į Prūsiją ir Livoniją.
 - susijęs iš Nemunas: Tyrimų duomenimis, Dusburgietis Prūsija vadino Kryžiuočių ordino užkariautą ir į jo valstybę patekusį plotą nuo Vyslos iki Nemuno.
+- susijęs iš [[objektai/zodynas/Phyllantus Emblica.md#claim-t-192252|Phyllantus Emblica]]: Narbutas rašo, kad Phyllantus Emblica kaip karšto klimato medis neturėtų stebinti Prūsijoje tik jei minėtas vaisius neišaugo Emblikoje.
 - susijęs iš [[objektai/zodynas/maršalas.md#claim-t-184628|maršalas]]: Vytenis, suaugęs Traidenio šeimoje, tapo rūmų pareigūnu, kurį paprastai vadino maršalu.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77981|A. Smetona]]: A. Smetona hitlerininkams skirtą mirties bausmę pakeitė kalėjimu iki gyvos galvos, o 1937 m. juos amnestavo.
 - susijęs iš [[objektai/asmenys/Abraomas.md#claim-t-60226|Abraomas]]: Abraomas su 318 tarnų kovojo dėl savo dievobaimingo brolio laisvės ir nekalto kalinio sugrąžinimo.
@@ -1341,6 +2795,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš [[objektai/asmenys/Jekaterina II.md#claim-t-170049|Jekaterina II]]: Rusijos imperatorė Jekaterina II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos sienas.
 - susijęs iš [[objektai/asmenys/Jeronimas.md#claim-t-60150|Jeronimas]]: Jeronimas ragino dėl kryžiaus karo atsisakyti net šeimos kliūčių ir pulti prie kryžiaus karo vėliavos.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184728|Jogaila (kunigaikštis, XIV–XV a.)]]: Norėdamas palengvinti maisto stokos kamuojamos Lietuvos dalią, Jogaila įsakė į Lietuvą gabenti dvidešimt laivų grūdų.
+- susijęs iš [[objektai/asmenys/Johanas Foigtas.md#claim-t-190892|Johanas Foigtas]]: Pasak Narbuto, Johanas Foigtas manė, kad Salavija senais pagonių laikais buvo kitas Lietuvos kraštas, vadintas Pusne.
+- susijęs iš [[objektai/asmenys/Jokimas Rozencveigas.md#claim-t-191283|Jokimas Rozencveigas]]: Pasak Narbuto, prūsų kronikininkas Jokimas Rozencveigas buvo cituojamas pasakojant apie didžiulį kimbrų epochos potvynį, arba vietinį tvaną.
 - susijęs iš [[objektai/asmenys/Jokūbas (vėliau Urbonas IV).md#claim-t-60337|Jokūbas (vėliau Urbonas IV)]]: Jokūbas, Liežo arkidiakonas ir vėlesnis popiežius Urbonas IV, sudarė sutartį tarp Sventopelko ir brolių.
 - susijęs iš [[objektai/asmenys/Jokūbas Jasinskis.md#claim-t-63711|Jokūbas Jasinskis]]: Ginant Varšuvą žuvo Lietuvos sukilėlių vadas Jokūbas Jasinskis.
 - susijęs iš [[objektai/asmenys/Jokūbas, Leodijos arkidiakonas.md#claim-t-190163|Jokūbas, Leodijos arkidiakonas]]: Narbutas ypač reikšmingomis laikė ištraukas iš popiežiaus legato, Leodijos arkidiakono Jokūbo, 1249 metais prūsams duotos privilegijos.
@@ -1358,6 +2814,7 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš [[objektai/asmenys/Karolis XII.md#claim-t-171587|Karolis XII]]: Dalis Livonijos aristokratijos, nepatenkintos Karolio XII valdymu, rėmė Augusto II siekius.
 - susijęs iš [[objektai/asmenys/Kazimieras Karigaila.md#claim-t-54975|Kazimieras Karigaila]]: Karigaila kovėsi su Vytautu, žemaičiais, Derbio kunigaikščiu ir anglų pėstininkais Vilniaus puolimo metu.
 - susijęs iš [[objektai/asmenys/Kiršenšteinas.md#claim-t-87913|Kiršenšteinas]]: Prūsijoje lietuvių paimtos karo belaisvės sūnus buvo vadinamas Kiršenšteinu, o jo giminė vėliau valdė Raudonės pilį.
+- susijęs iš [[objektai/asmenys/Kitėjas.md#claim-t-191958|Kitėjas]]: Narbuto pasakojime Masilijos keliautojas Kitėjas laikomas seniausio išlikusio istorinio padavimo apie Estiją autoriumi, šalia gotonų minėjusiu estus.
 - susijęs iš [[objektai/asmenys/Konradas (Mazovijos kunigaikštis).md#claim-t-59932|Konradas (Mazovijos kunigaikštis)]]: Kunigaikštis Konradas, vyskupo Kristijono ir kai kurių didikų patartas, savo žemei ginti ėmė burti Kristaus karius.
 - susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93420|Konradas (Mozūrijos kunigaikštis)]]: Kunigaikštis Konradas su kitais Lenkijos kunigaikščiais atvyko į Kulmą ir prisidėjo prie Marienverderio miesto pastatymo.
 - susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93422|Konradas (Mozūrijos kunigaikštis)]]: Vokiečių ordino įsikūrimas Kulmo žemėje siejamas su Mazovijos kunigaikščio Konrado dovanojimu Ordinui.
@@ -1405,9 +2862,11 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš [[objektai/asmenys/Olafas (Norvegijos valdovas).md#claim-t-19180|Olafas (Norvegijos valdovas)]]: Norvegijos valdovas Olafas 997 m. pradėjo šalies christianizaciją.
 - susijęs iš [[objektai/asmenys/Olafas (pietų Švedijos kunigaikštis).md#claim-t-19181|Olafas (pietų Švedijos kunigaikštis)]]: Pietų Švedijos kunigaikštis Olafas buvo pakrikštytas 1008 m.
 - susijęs iš [[objektai/asmenys/P. Speratas.md#claim-t-60403|P. Speratas]]: Pamedės vyskupui P. Speratui priklausė knyga, iš kurios 1540 m. pradėtas perrašinėti Karaliaučiaus bibliotekos tekstas.
+- susijęs iš [[objektai/asmenys/Paulius Rusdorfas.md#claim-t-190960|Paulius Rusdorfas]]: Narbutas Paulių Rusdorfą vadino kryžiuočių magistru, 1436 m. su Vladislovu Varniečiu sudariusiu pasienio konvenciją.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-184823|Petras Goštautas]]: Veliuonos įgulos vadas Goštautas pasidavė priešams, bet žuvo nuo nugalėtojų rankų jiems susiginčijus dėl belaisvio.
 - susijęs iš [[objektai/asmenys/Petras I Didysis.md#claim-t-184425|Petras I Didysis]]: Petras I susitarė su Augustu II dėl Rusijos paramos prieš Švediją.
 - susijęs iš [[objektai/asmenys/Pilypas (Fermo vyskupas).md#claim-t-60411|Pilypas (Fermo vyskupas)]]: Pilypas, Fermo vyskupas ir apaštališkojo sosto legatas, atvyko į Lenkijos žemę, kur Konradas iš Tirbergo jam skundėsi dėl Mstivojaus skriaudų.
+- susijęs iš [[objektai/asmenys/Pitėjas Masilietis.md#claim-t-191130|Pitėjas Masilietis]]: Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki Tacito senovės autoriai estų neminėjo.
 - susijęs iš [[objektai/asmenys/Polencas.md#claim-t-190201|Polencas]]: Narbutas Polencą mini kaip liuteronų vyskupą, kurio ir Pauliaus Sprito Karaliaučiaus bažnyčios Agenda liudijo Pergrubei skirtas apeigas iki 1530 m.
 - susijęs iš [[objektai/asmenys/Popiežius Celestinas III.md#claim-t-60480|Popiežius Celestinas III]]: Dusburgietis rašo, kad popiežius Celestinas III Jeruzalėje įkūrė Švč. Marijos Teutonų ordino ligoninę.
 - susijęs iš [[objektai/asmenys/Popiežius Honorijus III.md#claim-t-60416|Popiežius Honorijus III]]: Popiežius Honorijus III ir imperatorius Fridrichas II patikėjo broliui Hermanui spręsti jų slaptų nesutarimų bylą.
@@ -1450,6 +2909,7 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš [[objektai/asmenys/Tavernjė.md#claim-t-190214|Tavernjė]]: Narbutas nurodo, kad Tavernjė čerkesų ir kumanų totorių papročiuose rado tam tikrą Motinos žemės kulto panašybę.
 - susijęs iš [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus).md#claim-t-60446|Tomas (Hertvigo iš Pokarvių sūnus)]]: Kronikoje pasakojama, kad 1322 m. Brandenburgo pilyje ketverių metų Tomas, Hertvigo iš Pokarvių sūnus, mirė ir atgijo per Viešpaties kryžiaus atskalą.
 - susijęs iš [[objektai/asmenys/Treniota.md#claim-t-90060|Treniota]]: Treniota su talkininkais subūrė iki 30 000 vyrų, nusiaubė Mazoviją ir Pamedę, o jo pajėgos paėmė Birgelavos pilį.
+- susijęs iš [[objektai/asmenys/Tunmanas.md#claim-t-191235|Tunmanas]]: Narbutas rašo, kad Tunmanas lietuvių kilmę siejo su bėgliais, apie 550 metus įsikūrusiais Vyslos šakų skalaujamoje saloje.
 - susijęs iš [[objektai/asmenys/Ulrichas iš Drinlevės.md#claim-t-184135|Ulrichas iš Drinlevės]]: 1319 m. Ulrichas iš Drinlevės ir Fridrichas Kvicas persekiojo Dovydo karius, nukovė 55 lietuvius ir atsiėmė visą grobį.
 - susijęs iš [[objektai/asmenys/Ulrichas iš Drinlevės.md#claim-t-60450|Ulrichas iš Drinlevės]]: 1319 m. Ulrichas iš Drinlevės ir Fridrichas Kvicas persekiojo Dovydo karius, nukovė 55 lietuvius ir atsiėmė visą grobį.
 - susijęs iš [[objektai/asmenys/Ulrichas iš Magdeburgo.md#claim-t-60214|Ulrichas iš Magdeburgo]]: Petras Dusburgietis rašė, kad Ulrichas iš Magdeburgo gyveno Karaliaučiaus brolių konvente ir buvo itin stipraus kūno sudėjimo.
@@ -1468,6 +2928,7 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš [[objektai/asmenys/Vilius Gaigalaitis.md#claim-t-26464|Vilius Gaigalaitis]]: Prūsijos Landtago parlamentaras Vilius Gaigalaitis lietuvių vardu pareiškė, kad tikimasi Didžiosios Lietuvos prijungimo prie Vokietijos.
 - susijęs iš [[objektai/asmenys/Vinrichas Kniprodė.md#claim-t-87590|Vinrichas Kniprodė]]: Vinrichas Kniprodė 1365 metais su didele kariauna įsiveržė į Lietuvą ir priartėjo prie Vilniaus pilių.
 - susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-90071|Vladislovas Lokietka]]: Dusburgietis Vladislovą Lokietką vaizduoja kaip Gedimino sąjungininką, kovojusį prieš Ordiną dėl Pamario.
+- susijęs iš [[objektai/asmenys/Vladislovas Varnietis.md#claim-t-190997|Vladislovas Varnietis]]: 1436 m. Lenkijos karalius Vladislovas Varnietis ir kryžiuočių magistras Povilas Rusdorfas sudarė pasienio konvenciją dėl sienos.
 - susijęs iš [[objektai/asmenys/Vladislovas.md#claim-t-184856|Vladislovas]]: Gediminas atskubėjo į pagalbą Vladislovui ir kariuomenės dalinius patikėjo vadovauti savo sūnums.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176669|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Puolant Vilnių Vytautas su žemaičiais, Derbio kunigaikščiu ir anglų pėstininkais kovėsi su Karigaila.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176709|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vėlesniais Vytauto valdymo laikais Vilnius atsigavo po Skirgailos valdymo ir praturtėjo.
@@ -1491,6 +2952,7 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102849|Dusburgas]]: 1985 m. leidinio įžangoje Petras iš Dusburgo apibūdinamas kaip Kryžiuočių ordino brolis kunigas, 1326 m. užbaigęs savo kroniką; nurodoma, kad ji pratęsta iki 1330 m.
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102851|Dusburgas]]: Dusburgas rašė, kad brolių vėliava nuo ryto iki vidurdienio kovojo kalne priešais Gedimino pilį.
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102854|Dusburgas]]: Dusburgietis nurodo aprašysiąs tiek savo matytus įvykius, tiek dalyvių pasakojimus ir patikimų šaltinių liudijimus.
+- susijęs iš [[objektai/autoriai/Erazmas Stela.md#claim-t-190697|Erazmas Stela]]: Narbutas Erazmui Stelai priskiria išvadą, kad Ptolemėjo boruskų arba borusų ieškota prie Ritėjų kalnų.
 - susijęs iš [[objektai/autoriai/H. Baueris.md#claim-t-60605|H. Baueris]]: H. Baueris XX a. ketvirtajame dešimtmetyje aptarė kai kuriuos Dusburgiečio kronikos klausimus.
 - susijęs iš [[objektai/autoriai/Helmoldas.md#claim-t-190365|Helmoldas]]: Narbutas nurodė, kad Helmoldas, kaip ir kiti užsienio kronikininkai bei dokumentai, neužsimena apie krivį.
 - susijęs iš [[objektai/autoriai/Henrikas Latvis.md#claim-t-171490|Henrikas Latvis]]: Henriko Latvio kronika laikoma svarbiu šaltiniu XIII-XIV a. Lietuvos feodalinio laikotarpio istorijai nušviesti.
@@ -1510,6 +2972,7 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172899|Motiejus Strijkovskis (kronikininkas)]]: Strijkovskis klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Valenrodui kaip didžiajam magistrui.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172908|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis klydo žygio vadovavimą priskirdamas Konradui Valenrodui ir tuo metu vadindamas jį didžiuoju magistru.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-188449|Motiejus Strijkovskis (kronikininkas)]]: Narbutas rašo, kad Strijkovskis Ilgių šventę laikė visai neseniai pradėta žemaičių švente.
+- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-190767|Motiejus Strijkovskis (kronikininkas)]]: Teodoro Narbuto spėjimu, Strijkovskio prie Raigardo ir Insterburgo pastebėti žmonės galėjo būti išvestų jotvingių palikuonys.
 - susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182793|Michał Baliński Mykolas Balinskis]]: Mykolas Balinskis parašė „Vilniaus miesto istoriją“, kurios antras tomas apėmė 1430-1586 m. Vilniaus istoriją.
 - susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182794|Michał Baliński Mykolas Balinskis]]: Mykolas Balinskis Vilnių apibūdino kaip Lietuvos mokslo ir vyriausiosios valdžios centrą.
 - susijęs iš [[objektai/autoriai/Miechovita.md#claim-t-88096|Miechovita]]: Miechovita klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Valenrodui kaip didžiajam magistrui.
@@ -1523,7 +2986,9 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-188467|Petras Dusburgietis]]: Narbutas teigė, kad Dusburgietis galėjo gauti tikriausių žinių apie tai, ką norėjo papasakoti apie stabmeldystės laikus.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-188468|Petras Dusburgietis]]: Narbutas, perpasakodamas Dusburgietį, aiškino krivūlę kaip krivio turėtą lazdą ir įsakomąjį ženklą.
 - susijęs iš [[objektai/autoriai/Plinijus.md#claim-t-190377|Plinijus]]: Narbutas Plinijumi grindė teiginį, kad romėnų laivai prieš Kristaus gimimą plaukiojo Baltijos jūroje.
+- susijęs iš [[objektai/autoriai/Plinijus.md#claim-t-190779|Plinijus]]: Teodoras Narbutas pažymi, kad Diodoras Sicilietis, Mela ir Plinijus, rėmęsi Šiaurės jūrų kelionių aprašymais, estų neminėjo.
 - susijęs iš [[objektai/autoriai/Pretorijus.md#claim-t-190332|Pretorijus]]: Pretorijus, perpasakodamas Dusburgiečio kronikos vietą apie žynio lazdą, vadino ją krivūle.
+- susijęs iš [[objektai/autoriai/Ptolemėjas.md#claim-t-191520|Ptolemėjas]]: Narbutas atmetė Erazmo Stelos požiūrį, kad Ptolemėjo boruskų ar borusų reikėtų ieškoti prie Ritėjų kalnų.
 - susijęs iš [[objektai/autoriai/Rygos arkivyskupas Fridrichas.md#claim-t-88043|Rygos arkivyskupas Fridrichas]]: Balińskis manė, kad Rygos arkivyskupas Gedimino vardu parengė laiškus ir siekė palankaus popiežiaus sprendimo ginče su kryžiuočiais.
 - susijęs iš [[objektai/autoriai/Rėza (leidėjas, 1818 m.).md#claim-t-188472|Rėza (leidėjas, 1818 m.)]]: Narbutas nurodo, kad Rėzos tyrimai patvirtino lietuvių vyresnybės siųstų viršuje sukreivintų lazdų paprotį.
 - susijęs iš [[objektai/autoriai/Stasys Šalkauskis.md#claim-t-81965|Stasys Šalkauskis]]: Stasio Šalkauskio „Raštų“ IX tomas buvo nurodytas tarp spaudai rengiamų leidinių.
@@ -1531,6 +2996,7 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš [[objektai/autoriai/Tadas Korsakas.md#claim-t-23259|Tadas Korsakas]]: Tadas Korsakas buvo Gegužės trečiosios konstitucijos pataisos autorius ir žuvo ginant Varšuvą.
 - susijęs iš [[objektai/autoriai/Tadas Korsakas.md#claim-t-23260|Tadas Korsakas]]: Tadas Korsakas žuvo ginant Varšuvą.
 - susijęs iš [[objektai/autoriai/Tadas Korsakas.md#claim-t-23262|Tadas Korsakas]]: Tadas Korsakas buvo Gegužės trečiosios konstitucijos pataisos autorius ir žuvo ginant Varšuvą.
+- susijęs iš [[objektai/autoriai/Tunmanas.md#claim-t-190813|Tunmanas]]: Narbutas rašo, kad Tunmanas lietuvius kildino iš gaujos bėglių, apie 550 metus įsikūrusių Vyslos šakų skalaujamoje saloje.
 - susijęs iš [[objektai/autoriai/Vincas Vyčinas.md#claim-t-88083|Vincas Vyčinas]]: Vinco Vyčino „Raštų“ III tomas buvo nurodytas tarp spaudai rengiamų leidinių.
 - susijęs iš [[objektai/autoriai/Vulfstanas (jūrininkas, IX amžius).md#claim-t-188486|Vulfstanas (jūrininkas, IX amžius)]]: Narbutas pripažįsta, kad Vulfstanas ir kiti užsienio kronikininkai bei dokumentai nemini krivio.
 - susijęs iš [[objektai/autoriai/Vygandas Marburgietis.md#claim-t-172965|Vygandas Marburgietis]]: Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kryžiuočius, siekdamas apsiginti ir užpulti priešo teritoriją.
@@ -1561,6 +3027,7 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš [[objektai/grupes/Baltai.md#claim-t-96078|Baltai]]: Mindaugas siekė padaryti Lietuvą bendrąja baltų valstybe, apimančia šiaurines ir pietvakarines baltų žemes.
 - susijęs iš [[objektai/grupes/Baltai.md#claim-t-96080|Baltai]]: Kronikoje vaizduojamu laikotarpiu prūsai, lietuviai ir latviai priskiriami baltams, siejamiems kalbos, kultūros, tradicijų, senosios religijos ir teritorijos bendrumo.
 - susijęs iš [[objektai/grupes/Bartai.md#claim-t-88531|Bartai]]: Pamedėnai, pagudėnai, varmiai, notangai ir bartai grįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.
+- susijęs iš [[objektai/grupes/Budinai.md#claim-t-192374|Budinai]]: Narbuto pasakojime lietuvių protėviams atėjus į Prūsijos kraštus, Sambijoje įsikūrė daugiausia senovės budinų gyventojai.
 - susijęs iš [[objektai/grupes/Burtininkai.md#claim-t-189451|Burtininkai]]: Narbutas rašė, kad Prūsijos kronikininkai burtininkams priskyrė ateities spėjimą liejant ištirpintą vašką į šaltą vandenį.
 - susijęs iš [[objektai/grupes/Cistersų ordinas.md#claim-t-88536|Cistersų ordinas]]: Prūsijos vyskupas Kristijonas buvo Cistersų ordino vienuolis, skelbęs krikščionybę prūsams.
 - susijęs iš [[objektai/grupes/Cistersų ordinas.md#claim-t-88538|Cistersų ordinas]]: Prūsijos vyskupas Kristijonas buvo Cistersų ordino vienuolis ir ragino prūsus atsisakyti stabų garbinimo.
@@ -1571,6 +3038,7 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš [[objektai/grupes/Dobrynės broliai.md#claim-t-65113|Dobrynės broliai]]: 1235 m. Dobrynės ordinas susijungė su kryžiuočiais.
 - susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172085|Dominikonų ordinas]]: 1323 m. notaro parengtas Gedimino laiškų dominikonams, pranciškonams ir Hanzos miestams dokumentas buvo Karaliaučiaus Slaptajame archyve.
 - susijęs iš [[objektai/grupes/Dono kazokų pulkas.md#claim-t-78167|Dono kazokų pulkas]]: 1794 m. balandžio 23 d. lietuviams puolant Vilnių, Dono kazokų pulkas buvo rusų įgulos dalis.
+- susijęs iš [[objektai/grupes/Estai.md#claim-t-192378|Estai]]: Narbutas iš Pitėjo aprašymo sprendė, kad jo laikų Prūsijos gyventojai nesivadino estais.
 - susijęs iš [[objektai/grupes/Estai.md#claim-t-65145|Estai]]: 1260 m. Klaipėdoje estai minimi tarp Ordino prievarta buriamų karių iš užgrobtų žemių.
 - susijęs iš [[objektai/grupes/Haličo kunigaikščiai.md#claim-t-55065|Haličo kunigaikščiai]]: 1272 m. Haličo kunigaikščiai kartu su Nogajaus mongolais puolė Lietuvą.
 - susijęs iš [[objektai/grupes/Haličo kunigaikščiai.md#claim-t-55066|Haličo kunigaikščiai]]: Slonimas smarkiai pasipriešino 1272 m. Lietuvą puolusiems Haličo kunigaikščiams ir Nogajaus mongolams.
@@ -1646,6 +3114,7 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188265|Lietuviai]]: Narbutas aiškino, kad lietuviai, siekdami išsivaduoti iš priespaudos, naudodavo laisvės deivės simbolį.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190587|Lietuviai]]: Narbutas teigė, kad lietuviai turėjo kilnojamųjų, arba stovyklinių, šventovių, priklausiusių ugnies šventovėms.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190592|Lietuviai]]: Narbutas lietuvių priesaikas aiškino kaip dievų šaukimą liudytojais, minėdamas formules „dėl Dievo“ ir „Kad man Perkūnas sumuštų“.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-192424|Lietuviai]]: Teodoras Narbutas, remdamasis Kepenu, lietuvių dialektą laikė viduriniu tarp senovės prūsų ir latvių dialektų.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169696|Lietuvos Didžioji Kunigaikštija]]: Po antrojo Abiejų Tautų Respublikos padalijimo Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179354|Livonijos ordinas]]: 1372 m. Lietuva vienu metu buvo puolama iš Prūsijos ir Livonijos.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179398|Livonijos ordinas]]: Taikos sutartyje Livonijos ordino pusėje buvo minimi tarpininkai, tarp jų Rygos arkivyskupas, kapitula ir miesto atstovai.
@@ -1679,6 +3148,7 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108328|Pranciškonų ordinas]]: Gedimino laiškai buvo rašyti dominikonams, pranciškonams ir Hanzos miestams.
 - susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188307|Prūsai]]: Narbutas, remdamasis Hartknochu, nurodo garsų prūsų šventąjį mišką prie Žemaitijos sienos, dviejų upių santakoje netoli Rusnės įlankos.
 - susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188308|Prūsai]]: Narbutas prūsų religijos duomenims svarbiomis laiko Hartknocho surinktas kronikų žinias ir 1249 metų popiežiaus legato Jokūbo privilegijos ištraukas.
+- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-192447|Prūsai]]: Pasak Hartknocho, prie Baltijos jūros nuo seno buvo žinomi padavimai apie tenykščių genčių, ypač prūsų, ištakas.
 - susijęs iš [[objektai/grupes/Pskovo muškietininkų pulkas.md#claim-t-78425|Pskovo muškietininkų pulkas]]: Lietuviams puolant Vilnių balandžio 23 d., rusų įguloje buvo du Pskovo muškietininkų pulko batalionai.
 - susijęs iš [[objektai/grupes/Saksų dinastija.md#claim-t-20001|Saksų dinastija]]: Žlugus Saksų dinastijai, 1764 m. LLV valdovu buvo išrinktas Stanislovas Augustas Poniatovskis.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175081|Sembai]]: Sembai nukankino Teutonų ordino kunigą, atsiųstą jų krikštyti, suspaudę jam kaklą dviem kartimis.
@@ -1693,6 +3163,7 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš [[objektai/grupes/Skandinavai.md#claim-t-188336|Skandinavai]]: Narbutas perteikia Prūsijos kronikininkų nuomonę, kad lietuviai paskutines penkias dievaičių rūšis perėmė iš skandinavų.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171397|Totoriai]]: 1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-187748|Totoriai]]: Vytautas į karą su Prūsijos vokiečiais sutelkė Lietuvos ir Rusios pajėgas bei daug Ordos totorių.
+- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-192476|Totoriai]]: Narbutas rašo, kad totorių puldinėjimai tuo metu palietė Lenkiją ir Polesę nuo Bugo.
 - susijęs iš [[objektai/grupes/Tverės ir Riazanės kunigaikščiai.md#claim-t-86772|Tverės ir Riazanės kunigaikščiai]]: 1430 m. Tverės ir Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi.
 - susijęs iš [[objektai/grupes/Varmiai.md#claim-t-78538|Varmiai]]: 1260 m. Klaipėdoje varmiai minimi tarp Ordino pavaldžių užgrobtų žemių prievarta buriamų karių prieš Lietuvą.
 - susijęs iš [[objektai/grupes/Varmiai.md#claim-t-78540|Varmiai]]: Varmės, Notangos ir Bartos prūsai, nusilpninti brolių ir kunigaikščio, davė įkaitų ir pasidavė tikėjimui bei broliams.
@@ -1850,6 +3321,7 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš [[objektai/paprociai/Popiežiaus kurijos ginčo svarstymas, sprendimo paskelbimas ir iškilminga priesaika vykdyti nurodymus.md#claim-t-87180|Popiežiaus kurijos ginčo svarstymas, sprendimo paskelbimas ir iškilminga priesaika vykdyti nurodymus]]: Popiežius su kardinolais viešoje konsistorijoje svarstė Rygos arkivyskupo ginčą su Livonijos ordinu ir paskelbė sprendimą.
 - susijęs iš [[objektai/paprociai/Pranašavimas liejant vašką į šaltą vandenį.md#claim-t-189856|Pranašavimas liejant vašką į šaltą vandenį]]: Narbutas rašė, kad Prūsijos kronikininkai burtininkams priskyrė ateities spėjimą liejant ištirpintą vašką į šaltą vandenį.
 - susijęs iš [[objektai/paprociai/Prūsų teritorinis-administracinis skirstymas valsčiais, laukais ir pilies apygardomis.md#claim-t-59731|Prūsų teritorinis-administracinis skirstymas valsčiais, laukais ir pilies apygardomis (pilis, XIV a.)]]: Prūsijoje žemiausias teritorinio skirstymo vienetas buvo pulka arba polka, Dusburgiečio vadinta campus.
+- susijęs iš [[objektai/paprociai/Sambijos vitingų paklusnumas Romovės vyriausiajam žyniui ir vyriausiojo karvedžio rinkimas.md#claim-t-192102|Sambijos vitingų paklusnumas Romovės vyriausiajam žyniui ir vyriausiojo karvedžio rinkimas]]: Pasak Narbuto, prireikus Sambijos vitingai vadovavo ginkluotiems žmonėms, o iš jų buvo renkamas vyriausias karvedys, paskiausiai Glaudė.
 - susijęs iš [[objektai/paprociai/Stojimas į Ordiną kaip šventas sumanymas.md#claim-t-89448|Stojimas į Ordiną kaip šventas sumanymas]]: Kronikoje stojimas į Teutonų ordiną vadinamas šventu sumanymu.
 - susijęs iš [[objektai/paprociai/Stojimas į Ordiną kaip šventas sumanymas.md#claim-t-89449|Stojimas į Ordiną kaip šventas sumanymas]]: Kronikoje stojimas į Teutonų ordiną vadinamas šventu sumanymu.
 - susijęs iš [[objektai/paprociai/Taikos derybų tarpininkavimas per pasiuntinius, dvasininkus, miestus ir daugiašales misijas.md#claim-t-87253|Taikos derybų tarpininkavimas per pasiuntinius, dvasininkus, miestus ir daugiašales misijas]]: Taikos sutarties tarpininkais minėti arkivyskupas, Rygos kapitula, Eželio ir Dorpato vyskupai, Vokiečių ordinas ir Rygos miestas.
@@ -1889,6 +3361,7 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš 1323 m. Vilniaus sutartis: 1323 m. spalio 2 d. Vilniuje pasirašyta sutartis laikoma pirmuoju autentišku Vilniaus kaip Gedimino sostinės paliudijimu.
 - susijęs iš 1323 m. Vilniaus taikos sutartis: Popiežius nepatvirtino 1323 m. Vilniaus taikos sutarties be tolesnio nagrinėjimo.
 - susijęs iš 1323 m. Vilniaus taikos sutartis: 1323 m. Vilniaus taikos sutartyje buvo numatyta keliauninkų sauga, ginčų sprendimas ir pagrobtų turtų bei pabėgusių tarnų grąžinimas.
+- susijęs iš 1436 m. pasienio konvencija tarp Vladislovo Varniečio ir Povilo Rusdorfo: Narbutas rašo, kad 1436 m. Vladislovas Varnietis ir Povilas Rusdorfas sudarė pasienio konvenciją, nustačiusią Lenkijos ir Ordino sieną.
 - susijęs iš Dusburgo kronika: Michałas Balińskis atmetė Hartknocho nuomonę, kad Dusburgo minima Castrum Gedemini buvo Vilnius.
 - susijęs iš Dziennik Wileński Nr. 1 (1829 m.) žygio į Vilnių aprašymas: Įsidėmėtino žygio į Vilnių aprašymas buvo nepasirašytas išspausdintas 1829 metų „Dziennik Wileński“ Nr. 1.
 - susijęs iš Fridricho II 1226 m. aukso bulė: M. Perlbachas nurodė, kad Dusburgietis, rašydamas apie Ordino teises, panaudojo imperatoriaus Fridricho II 1226 m. aukso bulę.
@@ -1910,7 +3383,9 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš LLV padalijimų aktai: Nors LLV padalijimų aktus 1918 m. rugpjūčio 29 d. panaikino Rusijos imperijos teisių perėmėja Sovietų Rusija, buvusi valstybė nebeatsikūrė.
 - susijęs iš Leodijos arkidiakono Jokūbo privilegija prūsams: Narbutas ypač reikšmingomis laiko Hartknocho pateiktas ištraukas iš Leodijos arkidiakono Jokūbo privilegijos, duotos prūsams 1249 metais.
 - susijęs iš M. Strijkovskio kronika: Strijkovskis prie Vilniaus apsupties aukų priskyrė Narimantą, remdamasis Długoszo pramanytu pasakojimu.
+- susijęs iš M. Strijkovskio kronika: Teodoras Narbutas rašo, kad Strijkovskis Karaliaučiuje turėjo po ranka prūsų kronikininko Jokimo Rozencveigo veikalus apie kimbrų epochos potvynį.
 - susijęs iš M. Strijkovskio kronika: Strijkovskis Narimantą priskyrė prie apgulties metu nukautųjų ir perpasakojo Długoszo sukurtą jo mirties istoriją.
+- susijęs iš Matthäus Praetorius, Schaubühne: Matthäuso Praetoriaus „Schaubühne“ Teodoro Narbuto nuorodoje pateikiama kaip šaltinis sudargų genties pavadinimo kilmei aiškinti.
 - susijęs iš Metai: Kristijono Donelaičio poema „Metai“ apibūdinama kaip pirmasis reikšmingas lietuviakalbės literatūros kūrinys Mažojoje Lietuvoje.
 - susijęs iš Metai: Apie 1750 m. sukurta Kristijono Donelaičio poema „Metai“ laikoma pirmuoju reikšmingu lietuviakalbės literatūros kūriniu Mažojoje Lietuvoje.
 - susijęs iš Metai: Kristijono Donelaičio poema „Metai“ apie 1750 m. Mažojoje Lietuvoje iškilo kaip pirmasis reikšmingas lietuviakalbės literatūros kūrinys.
@@ -1926,13 +3401,12 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš Peterburgo konvencija dėl LLV padalijimo patvirtinimo (1797 m.): 1797 m. sausio 26 d. Rusija, Prūsija ir Austrija pasirašė naują Peterburgo konvenciją, kuri patvirtino trečiąjį LLV padalijimą, panaikino jos valstybingumo likučius ir nubrėžė tikslias sienas.
 - susijęs iš Petras Dusburgietis, Prūsijos žemės kronika (1985 m.): Leidinio pratarmėje kronika apibūdinama kaip oficialus Kryžiuočių ordino valstybės kūrinys.
 - susijęs iš Preussens aeltere Geschichte: Augustas Kotzebue veikale „Preussens aeltere Geschichte“ išspausdino Gedimino laiškus dominikonams, pranciškonams ir Hanzos miestams.
-- susijęs iš Prūsijos žemės kronika: 1292 m. Pukuveras pasiuntė savo sūnų Vytenį su didele kariuomene į Lenkijos Bresto žemę.
 - susijęs iš Prūsijos žemės kronika: Narbutas rašė, kad Pretorijus Dusburgiečio kronikos vietoje minimą žynio lazdą vadino krivūle.
 - susijęs iš Prūsų kalba: „Prūsų kalba“ nurodyta kaip MLTE 1968 m. antro tomo 935–936 puslapių publikacija.
 - susijęs iš Regesta historico-diplomatica Ordinis Mariae Theutonicorum: 1235 m. Dobrynės ordinas susijungė su kryžiuočiais.
+- susijęs iš Rozencveigo kronika: Teodoras Narbutas Rozencveigo kroniką siejo su pasakojimu apie kimbrų epochos potvynį, kuris esą buvęs iki prūsų įsikūrimo prie Baltijos jūros.
 - susijęs iš Simono Grunau kronika: Narbutas rašo, kad Grunau pasakojo dalyvavęs ožio aukojimo išpažintyje ir prisiekęs Perkūnui neišduoti apeigos vyskupui.
 - susijęs iš Simono Grunau kronika: Narbutas Simoną Grunau vadina suniekintu, bet didesnės pagarbos vertu kronikininku, nors pripažįsta jo šališkumą ir nekritiškumą.
-- susijęs iš Simono Grunau kronika: Romantikai rėmėsi XVI-XVII a. Prūsijos šaltiniais, kuriuose kronikininkai kalbėjo apie prūsų dievus.
 - susijęs iš Specimen Juris publici Lubecensis: Gedimino laiškas Šiaurės Vokietijos pajūrio miestams buvo įdėtas Dreyerio veikale „Specimen Juris publici Lubecensis“.
 - susijęs iš Stanislovo Augusto Poniatovskio abdikacijos aktas: Stanislovo Augusto Poniatovskio abdikacijos aktas buvo pridėtas prie 1797 m. sausio 26 d. Peterburgo konvencijos.
 - susijęs iš Tobijo knyga: Petras Dusburgietis dedikacijoje remiasi Tobijo knygos žodžiais, kad apreikšti Dievo darbus yra šlovinga.
@@ -1951,6 +3425,7 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš Bajerburgas Bajerburgo pilis (sujungti pirminiai pavadinimai Bajerburgo pilis; Bajerburgas Raudonė): Gediminas 1337 m. birželio 15 d. su kariuomene sustojo ties Bajerburgu, siekdamas išvyti priešais Veliuoną įsikūrusius kryžiuočius.
 - susijęs iš Bajerburgas Raudonė: Gediminas 1337 m. birželio 15 d. su kariuomene sustojo ties Bajerburgu, siekdamas išvyti priešais Veliuoną įsikūrusius kryžiuočius.
 - susijęs iš Baltijos jūra: Versalyje Lietuvos delegacija kėlė Rytų Prūsijos perdavimo Lietuvai ir išėjimo į Baltijos jūrą per Klaipėdą klausimą.
+- susijęs iš Baltijos jūra: Narbutas Tikrosios Prūsijos sieną vedė Vyslos žemupiu, Baltijos jūra iki Nemunyno žiočių, toliau link Rusios, Širvintos ir Mazovijos.
 - susijęs iš Baltoji Rusia: Skirgaila iš Trakų pilies vykdavo į mūšius su Baltojoje Rusioje maištavusiais įvairių valdų kunigaikščiais.
 - susijęs iš Baltoji Rusia: Skirgaila iš Trakų pilies išvykdavo į mūšius su Prūsijos ordinu arba su Baltojoje Rusioje maištaujančiais kunigaikščiais.
 - susijęs iš Bartos žemė: 1347 m. vasarį „abu lietuvių karaliai“ Prūsijoje puolė Rastenburgą, niokojo Bartos žemę iki Girdavų pilies, apgulė Lunenburgą ir sunaikino Lunenburgo papilį.
@@ -1966,6 +3441,7 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš Chotinas: Chotino mūšis vyko 1621 m. rugsėjo 22-spalio 10 d.
 - susijęs iš Christmemelio pilis (pilis): Kryžiuočiai puolė Christmemelio pilį, daužė jos sienas taranais ir sužeidė ar nukovė daug pilies gynėjų.
 - susijęs iš Daugpilis: Vytautas, įsiveržęs į Livoniją ir nusiaubęs kaimus, užėmė Daugpilį Dauguvos pakrantėje.
+- susijęs iš Dauguva: Narbutas teigė, kad potvynių ir šiaurės vėjų sukelti pokyčiai labiausiai paveikė Baltijos pakrantes tarp Vyslos ir Dauguvos žiočių.
 - susijęs iš Dresvenco upė: Prūsijos kraštas apie Vislos ir Dresvenco upes pateko į karo sūkurį.
 - susijęs iš Drohičinas: Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl kurių vokiečiai sutiko laikytis taikos.
 - susijęs iš Drohičinas: Švitrigaila su kryžiuočių pulku įsibrovė į Lietuvą ir sudegino Drohičiną, Naugarduką, Mirą bei Lydą.
@@ -1998,6 +3474,7 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš Karaliaučius: 1323 m. notaro parengtas Gedimino laiškų dokumentas buvo saugomas Karaliaučiaus slaptajame archyve.
 - susijęs iš Karaliaučius: Autentiškas 1323 m. notaro parengtas Gedimino laiškų dokumentas buvo Karaliaučiaus slaptajame archyve.
 - susijęs iš Karaliaučius: Karaliaučiaus karališkos bibliotekos tekstas 1540 m. sausio 16 d. pradėtas perrašinėti iš Pamedės vyskupui P. Speratui priklausiusios knygos.
+- susijęs iš Karaliaučius: Narbutas rašo, kad Strijkovskis, būdamas Karaliaučiuje, tikriausiai turėjo po ranka prūsų kronikininko Jokimo Rozencveigo veikalus.
 - susijęs iš Karšuvos žemė: Burchardas iš Hornhauzeno patvarkė, kad Karšuvos žemėje ant švento Jurgio kalno būtų pastatyta pilis.
 - susijęs iš Kaunas: Kaunas senovėje buvo laikomas vartais į pagoniškąją Lietuvą ir garsėjo tvirtovėmis bei prekyba.
 - susijęs iš Kaunas: 1985 m. Petro Dusburgiečio „Prūsijos žemės kronikos“ leidinys spausdintas K. Požėlos spaustuvėje Kaune.
@@ -2077,6 +3554,7 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš Nemunas: Prūsijos magistras Meinhardas apie balandžio vidurį apgulė Kolainius, Lietuvos pilį Nemuno pakrantėje prie Prūsijos.
 - susijęs iš Nemunas: Narbutas rašė, kad prie Sancinės, kur Nemunas išsišakoja į Giliją ir Rusnę, buvo vietinių Kroniszkas-Pilnis vadintas piliakalnis.
 - susijęs iš Nemunas: Narbutas pateikė iš Hartknocho paimtą lietuvių kalbos, vartotos Prūsijoje Nemuno žemupyje, maldos pavyzdį.
+- susijęs iš Nemunas: Teodoro Narbuto aprašyme po kurio laiko kryžiuočiai pastūmė Prūsijos sieną iki Nemuno žemupio.
 - susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Vilija galėjo būti vadinama Nerimi arba Neria dėl gilios vagos ir aukštų smėlingų pakrančių.
 - susijęs iš Neris: Prūsijos dokumentuose Neris XIII a. buvo vadinama Neria.
 - susijęs iš Neris: Neris arba Neria galėjo būti taip vadinama dėl gilios upės vagos ir aukštų smėlingų pakrančių.
@@ -2119,6 +3597,7 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš Rusia Rusios žemės: 1430 m. į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės, Riazanės kunigaikščiai ir daugelis kitų iš Rusios.
 - susijęs iš Rusia: 1430 m. į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės, Riazanės kunigaikščiai ir daugelis kitų iš Rusios.
 - susijęs iš Santyras: Santyras tapo Kristijono būstine, o apie 1212 m. čia, matyt, buvo įkurtas reguliarus vienuolynas.
+- susijęs iš Semba: Narbutas rašė, kad Adomas Bremenietis Sembą laikė besiribojančia su rusais arba Rusios kraštu.
 - susijęs iš Senasis Kristburgas: Pamedėnų pilis stovėjo vietoje, kuri Petro Dusburgiečio kronikoje vadinama Senuoju Kristburgu.
 - susijęs iš Silezija: 1432 m. Silezijos, ypač Vroclavo, gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su savo prekėmis.
 - susijęs iš Skalvių pilis (pilis, XIII a.): Prie Nemuno pastatyta Skalvių pilis buvo skirta skalviams, atsivertusiems į krikščionybę.
@@ -2180,6 +3659,7 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš Vysla: 1231 m. Ordino magistras iš kairiojo Vyslos kranto persikėlė į Kulmo žemę, pastatė Torunės pilį ir pradėjo sistemingą agresiją prieš prūsus.
 - susijęs iš Vysla: Dusburgietis Prūsija vadino Kryžiuočių ordino užkariautą ir į Ordino valstybę patekusį plotą nuo Vyslos iki Nemuno.
 - susijęs iš Vysla: Prūsijos žemės aprašyme Vysla minima kaip viena iš Prūsijos ribų.
+- susijęs iš Vysla: Narbutas rašė, kad potvyniai ir ilgalaikiai šiaurės vėjai labiausiai paveikė Baltijos pakrantes tarp Vyslos ir Dauguvos žiočių.
 - susijęs iš Vėluva: Prūsijos magistras sudegino miestą, o Vėluvos ir Tapiavos kraštą sulygino su žeme.
 - susijęs iš Zlotorija: Zlotorija buvo užimta po aštuonių dienų apsupties, pasidavus Bobrovnikams ir išdavus Bidgoščių.
 - susijęs iš Šalčininkai: 1382 m. kryžiuočiai, niokodami kraštą, buvo pasiekę Šalčininkus ir Trakus.
@@ -2193,6 +3673,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš Žemaitija: Veliuonos pilis tikriausiai pastatyta XIII a. Žemaitijos sienoms nuo kryžiuočių puldinėjimų saugoti.
 - susijęs iš Žemaitija: Iš Prūsijos patraukęs priešas nusiaubė Žemaitiją ir sulygino su žeme Vaikių, Raseinių, Ariogalos bei Klogėnų valsčius.
 - susijęs iš Žemaičių jūra: Šią jūrą kai kurie raštininkai vadino Rusų mare.
+- susijęs iš [[objektai/zodynas/Aestuarium.md#claim-t-192249|Aestuarium]]: Pasak Narbuto cituojamo lotyniško Pitėjo vertimo, Aestuarium vietos kartais būna apsemtos, o kartais sausos.
+- susijęs iš [[objektai/zodynas/Aestuarium.md#claim-t-192251|Aestuarium]]: Pasak Narbuto cituojamo lotyniško Pitėjo vertimo, Aestuarium reiškia negilias, seklias vietas.
 - susijęs iš [[objektai/zodynas/Arkikomtūras.md#claim-t-86453|Arkikomtūras]]: Arkikomtūras Redigeris Elneris kartu su Ordino maršalu Gotfridu Lindenu buvo pasiųstas užimti Vilniaus.
 - susijęs iš [[objektai/zodynas/Arkikomtūras.md#claim-t-86454|Arkikomtūras]]: Vaidila 1380 m. Prūsijoje paruošė dirvą Jogailos slaptam sandėriui su arkikomtūru.
 - susijęs iš [[objektai/zodynas/Kaukai.md#claim-t-189151|Kaukai]]: Narbutas rašo, kad kaukų garbintojai nakčiai palikdavo jiems maisto ir iš jo suvalgymo pranašaudavo panašiai kaip su barstukais.
@@ -2206,6 +3688,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš [[objektai/zodynas/Ordino maršalas didysis maršalas.md#claim-t-86490|Ordino maršalas didysis maršalas]]: Ordino maršalas Engelhardas Rabė vadovavo žygiui, nes didysis magistras Konradas Ciolneris sirgo sunkia liga.
 - susijęs iš [[objektai/zodynas/Ordino maršalas didysis maršalas.md#claim-t-86491|Ordino maršalas didysis maršalas]]: Konradas Valenrodas 1382 metais buvo paskirtas Ordino didžiuoju maršalu, o 1391 m. kovo 12 d. išrinktas didžiuoju magistru.
 - susijęs iš [[objektai/zodynas/Pergrubė Grubytė Grubios.md#claim-t-189132|Pergrubė Grubytė Grubios]]: Narbutas nurodė, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi dar iki 1530 metų.
+- susijęs iš [[objektai/zodynas/Russ ir Ross.md#claim-t-192188|Russ ir Ross]]: Narbutas rašo, kad vienas lietuvių pamokslininkas iš Viikiškių Prūsijoje žodį Russ vertė į vokiečių kalbą kaip Stammorth.
+- susijęs iš [[objektai/zodynas/Russ ir Ross.md#claim-t-192192|Russ ir Ross]]: Narbuto aiškinimu, Russ atitinka lenkišką Gtomna osada, o dainelėje reiškia Ojcow dziedzina, tėviškę.
 - susijęs iš [[objektai/zodynas/Vilija Vigilia Neris Nerige.md#claim-t-86447|Vilija Vigilia Neris Nerige]]: Vilija seniau vadinta Neris arba Neria, nes, autoriaus manymu, upė išrausė gilią vagą ir suformavo aukštas smėlingas pakrantes.
 - susijęs iš [[objektai/zodynas/Watmal Vatmalis.md#claim-t-58930|Watmal Vatmalis]]: Hartmanas iš Grumbacho buvo pramintas Vatmaliu dėl vilnonių drabužių, vadintų Watmal, kuriuos įsakė išduoti broliams.
 - susijęs iš [[objektai/zodynas/abdikacija.md#claim-t-23430|abdikacija]]: Prie konvencijos buvo pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisakymo) aktas.
@@ -2255,6 +3739,9 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš [[objektai/zodynas/vasalas.md#claim-t-111382|vasalas]]: Vokiečių Prūsija tapo Lenkijos karūnos vasale.
 - susijęs iš [[objektai/zodynas/viešpaties dievo kariuomenė dievo tauta.md#claim-t-184020|viešpaties dievo kariuomenė dievo tauta]]: Petras Dusburgietis Ordino veiksmus teisino krikščionybės platinimu ir vadino Ordino brolius „dievo tauta“.
 - susijęs iš [[objektai/zodynas/viešpaties dievo kariuomenė dievo tauta.md#claim-t-58940|viešpaties dievo kariuomenė dievo tauta]]: Kronikoje Ordino broliai vadinami „viešpaties dievo kariuomene“ ir „dievo tauta“.
+- susijęs iš [[objektai/zodynas/vitingas.md#claim-t-192273|vitingas]]: Teodoras Narbutas nurodo, kad pastaruoju laiku vyriausias karvedys buvo vitingas Glaudė.
+- susijęs iš [[objektai/zodynas/vitingas.md#claim-t-192274|vitingas]]: Teodoras Narbutas rašo, kad iš vitingų buvo renkamas vyriausias karvedys.
+- susijęs iš [[objektai/zodynas/vitingas.md#claim-t-192275|vitingas]]: Teodoras Narbutas rašo, kad vitingai prireikus vadovavo ginkluotiems žmonėms.
 - susijęs iš [[objektai/zodynas/Šventasis miškas miškelis.md#claim-t-189212|Šventasis miškas miškelis]]: Narbutas rašo, kad krikščionims iš smalsumo buvo draudžiama įžengti į šventuosius miškelius, o nelaimingiesiems tikriausiai ne.
 - susijęs iš [[objektai/zodynas/Šventasis miškelis šventasis miškas.md#claim-t-189216|Šventasis miškelis šventasis miškas]]: Narbutas rašo, kad krikščionims iš smalsumo buvo draudžiama įžengti į šventuosius miškelius, o nelaimingiesiems tikriausiai ne.
 - susijęs iš [[objektai/zodynas/šeimyna familia domus.md#claim-t-58819|šeimyna familia domus]]: Prūsai nužudė brolį Konradą iš Dortmundo su visa jo šeimyna.
@@ -2284,15 +3771,21 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš [[objektai/asmenys/Petras Dusburgietis.md#claim-t-190025|Petras Dusburgietis]]: Narbutas rašo, kad Petras Dusburgietis 1326 metais įteikė savo kroniką didžiajam magistrui, aprašęs prūsų papročius netrukus po Prūsijos užkariavimo.
 - susijęs iš [[objektai/grupes/Anglai.md#claim-t-172073|Anglai]]: Rugpjūtį į Prūsiją atvyko savanorių iš Anglijos ir Prancūzijos, norėjusių kartu su kryžiuočiais kariauti su pagonimis.
 - susijęs iš [[objektai/ivykiai/Christmemelio pilies apgultis ir Vytenio paskutinis žygis į Prūsiją (1315 m.).md#claim-t-185560|Christmemelio pilies apgultis ir Vytenio paskutinis žygis į Prūsiją (1315 m.)]]: Gandas apie su didele kariuomene ateinantį Prūsijos magistrą sužlugdė lietuvių viltis paimti Christmemelio pilį.
+- susijęs iš [[objektai/paprociai/Sambijos vitingų paklusnumas Romovės vyriausiajam žyniui ir vyriausiojo karvedžio rinkimas.md#claim-t-192102|Sambijos vitingų paklusnumas Romovės vyriausiajam žyniui ir vyriausiojo karvedžio rinkimas]]: Pasak Narbuto, prireikus Sambijos vitingai vadovavo ginkluotiems žmonėms, o iš jų buvo renkamas vyriausias karvedys, paskiausiai Glaudė.
 - susijęs iš [[objektai/posakiai/dieviškojo žodžio sėkla krito į negerą dirvą.md#claim-t-59090|dieviškojo žodžio sėkla krito į negerą dirvą]]: Vyskupas Kristijonas dažnai ragino prūsus atsisakyti stabų, tačiau dieviškojo žodžio sėkla tarp jų krito į negerą dirvą.
 - susijęs iš Nadruva: Petro Dusburgiečio kronikoje Nadruva minima kaip viena iš vienuolikos Prūsijos žemės dalių.
+- susijęs iš [[objektai/zodynas/Aestuarium.md#claim-t-192249|Aestuarium]]: Pasak Narbuto cituojamo lotyniško Pitėjo vertimo, Aestuarium vietos kartais būna apsemtos, o kartais sausos.
+- susijęs iš [[objektai/zodynas/Aestuarium.md#claim-t-192251|Aestuarium]]: Pasak Narbuto cituojamo lotyniško Pitėjo vertimo, Aestuarium reiškia negilias, seklias vietas.
 - susijęs iš [[objektai/zodynas/Prūsijos žemė terra Prussiae.md#claim-t-184019|Prūsijos žemė terra Prussiae]]: Tyrimų duomenimis, Petras Dusburgietis Prūsija vadino Ordino užkariautą plotą nuo Vyslos iki Nemuno.
 - susijęs iš [[objektai/zodynas/Prūsijos žemė terra Prussiae.md#claim-t-58920|Prūsijos žemė terra Prussiae]]: Tyrimų duomenimis, Petras Dusburgietis Prūsija vadino Ordino užkariautą plotą nuo Vyslos iki Nemuno.
 - susijęs iš [[objektai/zodynas/Prūsijos žemė terra Prussiae.md#claim-t-58921|Prūsijos žemė terra Prussiae]]: Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į vienuolika atskirų žemių.
 - susijęs iš [[objektai/zodynas/Prūsijos žemė.md#claim-t-184017|Prūsijos žemė]]: Tyrimų duomenimis, Petras Dusburgietis Prūsija vadino Ordino užkariautą plotą nuo Vyslos iki Nemuno.
 - susijęs iš [[objektai/zodynas/Prūsijos žemė.md#claim-t-89573|Prūsijos žemė]]: Tyrimų duomenimis, Petras Dusburgietis Prūsija vadino Ordino užkariautą plotą nuo Vyslos iki Nemuno.
 - susijęs iš [[objektai/zodynas/Prūsijos žemė.md#claim-t-89574|Prūsijos žemė]]: Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į vienuolika atskirų žemių.
+- susijęs iš [[objektai/zodynas/Russ ir Ross.md#claim-t-192188|Russ ir Ross]]: Narbutas rašo, kad vienas lietuvių pamokslininkas iš Viikiškių Prūsijoje žodį Russ vertė į vokiečių kalbą kaip Stammorth.
+- susijęs iš [[objektai/zodynas/Russ ir Ross.md#claim-t-192192|Russ ir Ross]]: Narbuto aiškinimu, Russ atitinka lenkišką Gtomna osada, o dainelėje reiškia Ojcow dziedzina, tėviškę.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179248|Lietuviai]]: Šv. Kryžiaus Išaukštinimo dieną gausus lietuvių pulkas užgriuvo Prūsiją.
+- susijęs iš [[objektai/autoriai/Leo.md#claim-t-191613|Leo]]: Leo nurodė, kad borusai 523 ar 530 metais persikėlė iš šiaurės į dabartinę Prūsiją.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-188463|Petras Dusburgietis]]: Narbutas nurodo, kad Dusburgietis paliko pasakojimą apie vieną prūsų moterį pranašautoją.
 - susijęs iš [[objektai/ivykiai/Vytauto Vilniaus apgultis ir atsitraukimas į Prūsiją.md#claim-t-185665|Vytauto Vilniaus apgultis ir atsitraukimas į Prūsiją]]: Po kelių nesėkmingų bandymų užimti Vilniaus pilis Vytautas nutraukė apsiaustį ir išvedė kariuomenę atgal į Prūsiją.
 - susijęs iš Lubava: Petro iš Dusburgo kronikoje Kulmo ir Lubavo sritis nurodyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.
@@ -2302,12 +3795,12 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179109|Kryžiuočių ordinas]]: Vokiečių ordinas nukariavo ir asimiliavo prūsus bei jotvingius, o vėliau įkūrė Prūsijos valstybę.
 - susijęs iš [[objektai/paprociai/Pergrubei skirtos pavasario aukos.md#claim-t-189853|Pergrubei skirtos pavasario aukos]]: Narbutas rašė, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi dar iki 1530 metų.
 - susijęs iš Simono Grunau kronika: Narbutas rašo, kad Grunau pasakojo dalyvavęs ožio aukojimo išpažintyje ir prisiekęs Perkūnui neišduoti apeigos vyskupui.
-- susijęs iš Simono Grunau kronika: Simonas Grunau XVI a. 3-iajame dešimtmetyje parašė Prūsijos istoriją, kurioje plačiai rėmėsi Petru iš Dusburgo.
 - susijęs iš Kulmas: Petro Dusburgiečio kronikoje Kulmo ir Lubavo žemė įvardyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Romuniškiai: Narbutas, remdamasis Hartknochu, Romuniškius mini Žemaitijoje, už sienos nuo Prūsijos Romučių kaimo prie Tenenio upės.
 - susijęs iš Romučiai: Hartknochas Narbuto perteikime Romučių kaimo apylinkėse prie Tenenio upės lokalizavo garsų šventąjį mišką prie Žemaitijos sienos.
 - susijęs iš Užnemunė: Užnemunė Prūsų valdžioje ir Lenkų karalystėje Užnemunė Prūsų karalystėje.
 - susijęs iš [[objektai/ivykiai/Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.).md#claim-t-185496|Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.)]]: 1307 m. į Prūsiją atvyko grafo Jono fon Španheimo vedama kariuomenė su kilmingais vokiečių riteriais.
+- susijęs iš Romovė: Narbutas Romovę vaizdavo kaip dievų šventovę didelės šventos girios viduryje Prūsijos provincijos vakaruose.
 - susijęs iš [[objektai/daiktai/Pilys.md#claim-t-59675|Pilys]]: Per vienuolika metų Prūsijoje broliai pastatė daug įtvirtinimų, miestų ir pilių.
 - susijęs iš [[objektai/asmenys/Ditrichas iš Bernheimo.md#claim-t-59908|Ditrichas iš Bernheimo]]: Hermanas iš Zalcos pasiuntė Ditrichą iš Bernheimo eiti maršalo pareigų į Prūsiją.
 - susijęs iš [[objektai/asmenys/Geroldzekas iš Švabijos.md#claim-t-87679|Geroldzekas iš Švabijos]]: 1322 m. žiemą grafas Geroldzekas iš Švabijos vedė vieną iš atskirų kryžiuočių ekspedicijos į Prūsiją pulkų.
@@ -2316,14 +3809,17 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - susijęs iš [[objektai/ivykiai/1265-1268 m. maldininkų atvykimai į Prūsiją.md#claim-t-183908|1265-1268 m. maldininkų atvykimai į Prūsiją]]: 1265-1268 m. Vokietijos žemių valdovai su kariuomenėmis vyko į Prūsiją gelbėti krikščionių ir tramdyti prūsų sukilimo.
 - susijęs iš [[objektai/ivykiai/1265-1268 m. maldininkų atvykimai į Prūsiją.md#claim-t-62734|1265-1268 m. maldininkų atvykimai į Prūsiją]]: 1265-1268 m. į Prūsiją atvykę kunigaikščiai dėl minkštos žiemos nepasiekė savo tikslo ir sugrįžo į savo kraštus.
 - susijęs iš [[objektai/ivykiai/1265-1268 m. maldininkų atvykimai į Prūsiją.md#claim-t-62735|1265-1268 m. maldininkų atvykimai į Prūsiją]]: 1265-1268 m. Vokietijos žemių valdovai su kariuomenėmis vyko į Prūsiją gelbėti krikščionių ir tramdyti prūsų sukilimo.
+- susijęs iš Narevas: Teodoras Narbutas sprendė, kad po 1237 m. jotvingiai traukėsi nuo Bugo ir Narevo Prūsijos bei Lietuvos sienų link.
 - susijęs iš [[objektai/autoriai/Vygandas Marburgietis.md#claim-t-172965|Vygandas Marburgietis]]: Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kryžiuočius, siekdamas apsiginti ir užpulti priešo teritoriją.
 - susijęs iš [[objektai/autoriai/Vygandas Marburgietis.md#claim-t-172978|Vygandas Marburgietis]]: Vygandas Marburgietis buvo „Naujosios Prūsijos žemės kronikos“ autorius.
 - susijęs iš [[objektai/zodynas/prūsas Prūsa Prūsija.md#claim-t-58793|prūsas Prūsa Prūsija]]: XIII a. pirmojoje pusėje Semba šaltiniuose minima atskirai nuo Prūsijos.
 - susijęs iš [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus).md#claim-t-60446|Tomas (Hertvigo iš Pokarvių sūnus)]]: Kronikoje pasakojama, kad 1322 m. Brandenburgo pilyje ketverių metų Tomas, Hertvigo iš Pokarvių sūnus, mirė ir atgijo per Viešpaties kryžiaus atskalą.
+- susijęs iš Semba: Narbutas rašė, kad Adomas Bremenietis Sembą laikė besiribojančia su rusais arba Rusios kraštu.
 - susijęs iš [[objektai/zodynas/Watmal Vatmalis.md#claim-t-58930|Watmal Vatmalis]]: Hartmanas iš Grumbacho buvo pramintas Vatmaliu dėl vilnonių drabužių, vadintų Watmal, kuriuos įsakė išduoti broliams.
 - susijęs iš [[objektai/asmenys/Vilhelmas iš Modenos.md#claim-t-60076|Vilhelmas iš Modenos (vyskupas, XIII–XIV a.)]]: M. Poliakuvna atkreipė dėmesį į dokumentus, susijusius su popiežiaus pasiuntinio Vilhelmo iš Modenos veikla Prūsijoje.
 - susijęs iš [[objektai/paprociai/Lietuvininkų ir Mažosios Lietuvos vardų vartojimas Prūsijoje.md#claim-t-54273|Lietuvininkų ir Mažosios Lietuvos vardų vartojimas Prūsijoje]]: Lietuvius Vokiečių ordino valstybėje ilgainiui pradėta vadinti lietuvininkais, o jų žemes – Prūsų Lietuva arba Mažąja Lietuva.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: '1629 m. Altmarko paliaubomis švedams šešeriems metams buvo palikti kai kurie Prūsijos uostai, tarp jų Klaipėda.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -2336,11 +3832,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     valdoma Brandenburgo elektoriaus) 6 metams buvo palikti šve-
     dams kai kurie uostai, jų tarpe ir Klaipėda.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-074
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -2353,11 +3851,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     mas į Rusijos orbitą turėjo vieną dieną sąmoningai pribrandinti
     jos galą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -2367,11 +3867,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     jimo Saulės mūšyje kalavijuočių likučiai buvo prijungti prie
     Kryžiuočių ordino.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-033
+
 - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -2386,12 +3888,14 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     kurio Abiejų Tautų Respublika neteko apie
     300 tūkst. kv. km teritorijos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-067
     - t-037
+
 - c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -2404,11 +3908,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     pramonę turinčioje Prūsijoje. Tačiau sprendžiant iš 1792 m. dokumentuose aptinkamų žinių, kartais
     Prūsijoje būdavo įsigyjama ne ypač geros kokybės šautuvų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
+
 - c-006
   santrauka: 'Dusburgiečio kronikoje teigiama, kad kryžiaus karui „viešpats pasirinko Prūsijos žemę“, o Ordino veiksmai laikyti Dievo veiksmais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -2425,11 +3931,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     praturtėti, užvaldyti nekrikščioniškas šalis, skelbė kryžiaus žygių idėjas: žemė su visais
     turtais esanti dievo dovana, ja neteisėtai naudojasi krikščionybės priešai.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-040
+
 - c-007
   santrauka: '1394 m. Prūsijos ordinas pasinaudojo Švitrigailos išvykimu pas kryžiuočius ir pradėjo karą prieš Lietuvą bei Lenkiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -2460,11 +3968,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     prisiplėšė daugybę grobio, niekur nesutikę pasipriešinimo,
     net iki Šalčininkų nusigavo51.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-055
+
 - c-008
   santrauka: 'Po Kryžiuočių ordino užkariavimo Prūsija galutinai imtas vadinti visas kraštas tarp Vyslos ir Nemuno.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -2477,11 +3987,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     Prusowie..., p. 368—371; to paties, Uwagi..., p. 128; HP, 1, 1, p. 280—281; Bednarczuk
     L. Onomastyka..., p. 59—61).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-023
+
 - c-009
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2492,12 +4004,14 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     ji buvo kuriama emigracijoje – Prūsijoje, ir jos neprireikė LDK elitui.
     1595 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-044
     - t-014
+
 - c-010
   santrauka: 'Po pralaimėjimo Vilniaus prieigose dalies lenkų dalinių likučiai perėjo sieną su Prūsija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -2507,11 +4021,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     ko prasiveržti atgal į Karalystės teritoriją, kitų dalinių likučiai perėjo sieną
     su Prūsija. Rudenį Rusija susigrąžino ir Lenkijos karalystę.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-028
+
 - c-011
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2537,11 +4053,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     et de ordine fratrum predicatorum, quihus dedimus plenam
     libertatem baptizandi, predicandi et alia sacra ministrandi.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-066
+
 - c-012
   santrauka: '1390 m. sausio pradžioje Vytautas išsiuntė šeimą iš Gardino į Prūsiją ir rengėsi atnaujinti sutartis su didžiuoju magistru.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -2563,12 +4081,14 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     siuntė į Gardiną, kur tasai sausio 19 dieną netoli nuo šios
     pilies sudarė sutartį su Vytautu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
     - t-011
+
 - c-013
   santrauka: '1385 m. rugpjūtį didysis magistras Konradas Ciolneris Rotenšteinas iš Prūsijos puolė Lietuvos žemes.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -2589,12 +4109,14 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     ninkų, netgi iki pat Ašmenos, buvo didžiojo magistro nunio­
     kotos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
     - t-051
+
 - c-014
   santrauka: 'Petro iš Dusburgo kronikos IV dalies paaiškinimai Prūsijos įvykius gretino su visuotinės istorijos faktais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -2608,11 +4130,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     po to Romoje, popiežiaus kurijoje, 1278 m. buvo paskirtas Gnezno arkivyskupu (todėl
     „Polonus“), bet mirė ten nenuvykęs.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-050
+
 - c-015
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2626,12 +4150,14 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     dija, kokią vertę teturi Kotzebue, bent jau jo nuomonės,
     klasikiniam paminklui Prūsijos istorijai, Klijo išgarbintam.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-070
     - t-016
+
 - c-016
   santrauka: 'Popiežius nenorėjo be tolesnio nagrinėjimo patvirtinti sutarties, galbūt dėl naujesnių žinių iš Prūsijos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -2657,11 +4183,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     myniniams kraštams. Jie rašo: „Tie velnio sūnūs savo suk­
     tybėmis klastingai sandėriais taikosi jus ir mus pražudytip.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-031
+
 - c-017
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2671,11 +4199,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     desnis pasitikėjimas, o prekyba išsiplėtė net iki atokiausių
     Vokietijos žemių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-030
+
 - c-018
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2688,12 +4218,14 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     dėrį su arkikomtūru, siekiant užsitikrinti saugumą nuo kry­
     žiuočių ir palengvinti jiems Kęstučio valdų puolimą28.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-045
     - t-013
+
 - c-019
   santrauka: 'Skirgaila nuvyko į Prūsiją ir, remdamasis sandėriu su Ordinu, rengė naujus antpuolius prieš Kęstutį ir Lietuvą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -2707,11 +4239,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     ginėjimai, o kryžiuočiai, niokodami viską pakeliui, jau net
     Šalčininkus ir Trakus buvo pasiekę.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-071
+
 - c-020
   santrauka: '1326 m. Petras iš Dusburgo užbaigė kroniką, skirtą pagrįsti kryžiuočių užkariavimus Prūsijoje ir karą prieš Lietuvą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -2722,11 +4256,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     kroniką ir įteikė magistrui (ji pratęsta iki 1330 m.). Tai oficialus Kryžiuočių ordino
     valstybės kūrinys.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-065
+
 - c-021
   santrauka: 'Dusburgiečio kronikoje pabrėžiama, kad Ordino broliai apvalė „šventąją Prūsijos žemę“ nuo stabmeldystės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -2735,11 +4271,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     Prūsijos žemę, kurią tenykštės gentys teršė stabmeldyste,  ir dabar čia kas dieną
     aukojama dievui“ (Pratarmė).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-047
+
 - c-022
   santrauka: '1960 m. buvo suredaguotas leidinys „Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietuviams valstiečiams“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -2750,11 +4288,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     viams valstiečiams » (1960) ir ten parašė pratarmę. Jablonskis
     buvo ir vienas iš redaktorių « Lietuvos archeologijos bruožų » (1961).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
+
 - c-023
   santrauka: 'Prūsijos teutonų ordino broliai pasiuntė kariuomenę aplinkiniais keliais ir sudegino Vytenio pranciškonams pastatytą bažnyčią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -2776,11 +4316,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     namo broliai pasiuntė aplinkiniais keliais savo kariuomenę
     ir minėtą bažnyčią sudegino.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-032
+
 - c-024
   santrauka: 'Vokiečių ordino valstybėje, vėliau tapusioje Prūsija, lietuviai ilgainiui pradėti vadinti lietuvininkais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -2796,11 +4338,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     va (visa kita Lietuva vėliau – atrodo, XIX a. – pradėta vadinti Didžiosios
     Lietuvos vardu).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-062
+
 - c-025
   santrauka: 'Po Žygimanto Kęstutaičio mirties Prūsijos ordino įtaka Lietuvos likimui liovėsi vyravusi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -2824,11 +4368,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     in districtu Jenkmen, Kirkitto et Szo-
     dejko, cum eorum filiis et posteris.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-042
+
 - c-026
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2845,12 +4391,14 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     vai įkalbėjo tieką svetimtaučių, kad visa Lietuva iki šiol dar
     esanti pagonių šalis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-061
     - t-038
+
 - c-027
   santrauka: '1231 m. Prūsijoje pradėjęs veikti Kryžiuočių ordinas buvo stipresnis ir geriau organizuotas nei kalavijuočiai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -2859,11 +4407,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     1231 m. Prūsijoje pradėjęs veikti Kryžiuočių ordinas buvo stip-
     resnis ir geriau organizuotas nei kalavijuočiai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-072
+
 - c-028
   santrauka: '1304 m. Vokietijos maldininkai vėl išsirengė keliauti į Prūsijos žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -2875,11 +4425,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     Adolfas iš Vintimelio su savo broliu ir Ditrichas iš Elnerio su savo broliu Arnoldu bei daug
     kitų kilmingųjų iš Reino.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-060
+
 - c-029
   santrauka: 'Dėl baisių šalčių Prūsijoje ir Livonijoje nušalo visi vaismedžiai, o kryžiuočiai negalėjo imtis žygio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -2895,12 +4447,14 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     Taigi tas žygis nuėjo perniek; vis dėlto antpuoliai senu
     papročiu nesiliovė ir tais metais.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-064
     - t-020
+
 - c-030
   santrauka: 'Vytauto laikais Vilniaus prekyba išsišakojo su Prūsijos ir Livonijos miestais, Pskovu, Naugardu ir Maskva.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -2922,12 +4476,14 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     tas Kristaus tikėjimo šviesos, miestai tikrai dar negalėjo su­
     klestėti!
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
     - t-029
+
 - c-031
   santrauka: 'Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai nusiaubė kraštą ir grįžo į Prūsiją bei Livoniją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -2953,12 +4509,14 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     čio sūnus, Vytauto tikras brolis Tautvilas ir Hohenšteino gra­
     fas Algardas34.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
     - t-026
+
 - c-032
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2974,11 +4532,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     pavykus staiga užimti gerai ginamo miesto, grįžo atgalios
     plėšti aplinkinių žemių23.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-039
+
 - c-033
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2996,12 +4556,14 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     Karelijoje, tarp vietinių gyventojų.
     Žr. P e t r i Olai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
     - t-035
+
 - c-034
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3019,11 +4581,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     nai grįžti į savo kraštą, taigi jie nepriėjo iki sostinės ir pen­
     kiolika dienų teplėšė Lietuvą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-035
   santrauka: 'Petro iš Dusburgo kronikoje Prūsijos žemė skirstoma į 11 atskirų žemių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -3039,11 +4603,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
     Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
+
 - c-036
   santrauka: 'Prūsijos ir Livonijos kryžiuočių galybė rėmė asmenį, troškusį tapti Lietuvos valdovu ir atkeršyti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -3064,11 +4630,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     Podolę, visą šį kraštą nuo Lietuvos atplėšė Lenkijai, atiduo­
     dami viršenybę Bučackiams.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-063
+
 - c-037
   santrauka: '1329 m. Jonas Liuksemburgietis, Čekijos karalius, su kilmingaisiais atžygiavo į Prūsijos žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -3085,11 +4653,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     pasidavė krikščionių tikėjimui, o šeši tūkstančiai šios pilies žmonių tapo viešpaties vardu
     pakrikštyti, tačiau neilgai trukus jie atkrito nuo krikščionybės.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-043
+
 - c-038
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3109,12 +4679,14 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     iš to naujai iškilusio miesto nusidriekė dviejų kaimyninių tau­
     tų vėlesnio susijungimo ir galios pirmosios gijos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-052
     - t-009
+
 - c-039
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -3129,12 +4701,14 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     Jogailos mirties, dabar jis tokį raštą kartu su Jogaila parašė, bet
     labai neformalų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
     - t-025
+
 - c-040
   santrauka: 'Kryžiuočiai sunaikino Romuvas, užėmę Prūsiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -3157,11 +4731,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     Kauno, ant Nevėžio kranto, .būtent
     toj vietoj, kur dabar Romainiai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-049
+
 - c-041
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -3175,11 +4751,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     kryžiuočių pagalba sudaryti iš Lietuvos, Prūsijos, Vengrijos ir
     Čekijos sąjungą prieš Lenkiją.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-027
+
 - c-042
   santrauka: 'Prūsijoje pasklido gandas, kad Gediminas išsiuntinėjo laiškus apie norą priimti krikštą ir prisijungti prie tikinčiųjų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -3208,12 +4786,14 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     mas apie savo norą priimti krikštą ir prisijungti prie tikinčių­
     jų. Netrukus su tais laiškais ir Prūsijoje buvo susipažinta.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-073
     - t-059
+
 - c-043
   santrauka: 'Petro iš Dusburgo kronikoje Prūsijos vardu politine prasme vadintas Ordino užkariautas plotas nuo Vyslos iki Nemuno.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -3228,11 +4808,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     prūsai), nors Ordino agresijos pradžioje anksčiau kurį laiką lenkams priklausiusią Kulmo
     sritį valdė prūsai, turėję ten savo pilių (III,7).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-041
+
 - c-044
   santrauka: 'Rugpjūčio 8 d. apie trečią valandą visoje Prūsijoje tris kartus drebėjo žemė su pastatais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -3242,11 +4824,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
       Tų pačių metų rugpjūčio 8 dieną, apie trečią valandą, visoje Prūsijoje drebėjo žemė.
     Tris kartus suvirpėjo žemė drauge su pastatais, kurių retas išliko nesugriuvęs.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-045
   santrauka: '1375 m. ekspedicija iš Prūsijos sukėlė Vilniui grėsmę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -3264,11 +4848,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     binai trauktis atgal į Prūsiją dėl staigaus atodrėkio ir upių
     polaidžio.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-057
+
 - c-046
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -3281,12 +4867,14 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     vo bei Naugardo miestus ir pasidalyti juos taip, kad pirmasis
     tektų Ordinui, o antrasis — Vytautui^1 ).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-056
     - t-024
+
 - c-047
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -3299,12 +4887,14 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     tai jiedu siūlė Ordinui išsikelti į Rusijos pietus, ginti krikščionis
     nuo totorių užpuldinėjimo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
     - t-004
+
 - c-048
   santrauka: 'Vienais metais Prūsijos žemėje buvo pagaunama kur kas mažiau silkių negu anksčiau.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -3318,11 +4908,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 
                    115.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-048
+
 - c-049
   santrauka: 'Prūsijos dokumentuose Vilija XIII amžiuje buvo vadinama Nerimi arba Neria.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -3338,11 +4930,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     gą, suformuodama aukštas smėlin­
     gas pakrantes.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-036
+
 - c-050
   santrauka: 'Dusburgiečio kronikoje Ordino karas Prūsijoje vaizduojamas kaip vykęs „pagal dievo valią“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -3354,11 +4948,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     krikščionybės platinimo skraiste, buvo plėtojama vokiečių feodalų ir katalikų bažnyčios
     ekspansija  į baltų žemes.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-053
+
 - c-051
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3371,12 +4967,14 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     pasaulinio karo, iš Prūsijos pasitraukus seniesiems gyventojams, lietuviš-
     kai kalbančiųjų nebeliko.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-068
     - t-069
+
 - c-052
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3388,11 +4986,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     burge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos
     ir Lietuvos valstybės padalijimo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-054
+
 - c-053
   santrauka: '1322 m. žiemą po ilgos ramybės nauja kryžiuočių ekspedicija patraukė į Prūsiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -3406,11 +5006,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     iš Lichtenbergo, taip pat Plihta su savo broliu iš Čekijos ir
     daug kitų riterių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-034
+
 - c-054
   santrauka: 'Per Kotrynos II įvykdytus Respublikos padalijimus trečdalis valstybės buvo atiduotas Prūsijai ir Austrijai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -3422,11 +5024,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     kurios trečdalį ji turėjo užleisti Prūsijai ir Austrijai. Tai sudarė
     visai naują epochą Lietuvos istorijoje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-046
+
 - c-055
   santrauka: 'Prūsijos žemę ribojo Vysla, Sūrioji jūra, Nemunas, Rusios žemė, Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -3438,11 +5042,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     Krokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją
     bei Pomeraniją nuo Prūsijos186.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-058
+
 - c-056
   santrauka: 'Skirgaila, gavęs pavedimą, nuvyko į Prūsiją ir ėmė rengti antpuolius prieš Kęstutį bei Lietuvą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -3454,11 +5060,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     vedimą, nuvyko į Prūsiją ir, remdamasis sandėrio su Ordinu
     galia, ėmė rengti naujus Kęstučio ir Lietuvos antpuolius.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-021
+
 - c-057
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3479,11 +5087,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     šventos girios buvo saugomos galin­
     gos tvirtovės.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-058
   santrauka: 'Priešams užplūdus Lietuvos miestus, daugelis vokiečių pirklių pabėgo į Prūsiją, ypač į Karaliaučių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -3494,11 +5104,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     bėgo į Prūsiją, ypač į Karaliaučių.
     Vazų laikais, be to, dar pablogėjo ir sąlygos prekybai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-075
+
 - c-059
   santrauka: 'Livonija vis glaudžiau šliejosi prie Prūsijos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -3516,11 +5128,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     ruojančiai Lietuvos galiai. Livonija vis glaudžiau šliejosi prie
     Prūsijos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-076
+
 - c-060
   santrauka: 'Sudeginus Karšuvos ir Heilsbergo pilis Kurše, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -3539,11 +5153,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     nusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­
     tas, čekų karaliaus Otokaro visai neseniai įkurtas.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-077
+
 - c-061
   santrauka: 'Mindaugas, atgavęs Žemaitiją bei Kuršą ir nusiaubęs Sembą, po kelerių metų vėl sukėlė karą Prūsijoje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -3562,11 +5178,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     čiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie
     kerštą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-078
+
 - c-062
   santrauka: 'Į pagalbą prieš Prūsijos ir Žemaitijos gyventojus buvo sutelkta daug kariuomenės iš Vokietijos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -3601,11 +5219,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     ko stovyklai vietą, iš kurios patogu bet kuria krypti­
     mi puldinėti priešą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-079
+
 - c-063
   santrauka: 'Skomantas, neseniai pabėgęs į Prūsiją, su prūsų kariais netikėtai patraukė Gardino kryptimi.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -3619,11 +5239,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     tūkstančiai raitelių, pasklidusių niokoti kraštą, išsivarė
     didžiulį grobį.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-080
+
 - c-064
   santrauka: 'Vytenio pulkai beveik tris mėnesius niokojo Prūsiją, kurią siaubė žudynės ir gaisrai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -3647,11 +5269,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     tų p u o la  L ie tu vą
     miškuose.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-081
+
 - c-065
   santrauka: 'Bertoldas Briuhavenas į Livoniją buvo pasiųstas su Prūsijos kryžiuočių daliniu ir nugalėjo apgulties išsekintus lietuvius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -3682,11 +5306,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     Šis žygis iš pradžių labai se­
     kėsi.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-082
+
 - c-066
   santrauka: 'Kęstutis, priešui pasitraukus iš Lietuvos, slaptais miškų keliais užpuolė Prūsiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -3709,11 +5335,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     grobio, nė vieno savo kario
     nepraradęs.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-083
+
 - c-067
   santrauka: 'Kryžiuočiai po ariergardo pralaimėjimo skubiai pasitraukė į Prūsiją, pakelėse išmesdami gausų grobį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -3728,11 +5356,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     dantį bėgti. Kurį laiką Kęstutis laikėsi ramiai, tačiau
     žemėmis.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-084
+
 - c-068
   santrauka: 'Nugalėtojai, išžudę ginkluotus priešininkus kovos lauke, be grobio sugrįžo į Prūsiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -3751,11 +5381,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     tiją, kur nuniokojo dvi apygardas, ligi šiol karo nepa­
     liestas.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-085
+
 - c-069
   santrauka: 'Kryžiuočiai paragino ginkluotis Prūsijos vyrus ir pasikvietė pagalbininkų iš Silezijos, Austrijos, Vokietijos, Anglijos bei Prancūzijos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -3781,11 +5413,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     sario pabaigoje patraukė į
     Lietuvą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-086
+
 - c-070
   santrauka: 'Jogaila įsakė dvidešimt laivų su grūdais Vysla nuplukdyti į Prūsijos pasienį, kad maistas būtų nugabentas į Lietuvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -3801,11 +5435,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     gas karu i
     juos išsivežė kitur.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-087
+
 - c-071
   santrauka: 'Jogaila, matydamas kryžiuočių sėkmę, įsakė visoms Lenkijos žemėms stoti į kovą su Prūsija.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -3818,11 +5454,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     riams paliepė rinktis į Volbožą, Didžiosios Lenkijos —
     į Lenčicą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-088
+
 - c-072
   santrauka: 'Lietuvių kariuomenė, sugrįžusi iš Prūsijos, šiek tiek pailsėjo ir patraukė iš vakarų į rytus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -3843,11 +5481,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     mirusio valdovo sūnų siūlė
     sosto įpėdiniu.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-089
+
 - c-073
   santrauka: 'Rengiantis traukti į Prūsiją, Vilniuje buvo sušauktas lietuvių seimas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -3868,11 +5508,13 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     lietuvių seimą.
     Atvyko į jį prieš Velykas gausybė žmonių.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-090
+
 - c-074
   santrauka: 'Narbutas ginčija išvadą apie dievo kilmę, nes, jo teigimu, žemės drebėjimų būta Prūsijoje ir jie buvo žinomi tolimesnei Lietuvai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -3881,11 +5523,14 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     1 Stender. Lettische Grammatik*. Tačiau tai klaidinga išvada, ka­
     dangi žemės drebėjimų būta Prūsijoje, taigi jie buvo žinomi ir toli­
     mesnei Lietuvai.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-091
+
 - c-075
   santrauka: 'Narbutas rašo, kad Prūsijos kronikininkai šiuo vardu siejo dievintą senovės kunigaikštį Vaidevutį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -3903,11 +5548,14 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 
     gaikštį, pirmąjį vyriausiąjį žynį ir tautos įstatymų leidėją, kuris
     buvo laikomas tautos tėvu, kaip Viršaitis buvo dievų tėvas3.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-092
+
 - c-076
   santrauka: 'Narbutas rašo, kad Prūsijos kronikininkai burtininkams priskyrė ateities pranašavimą liejant ištirpintą vašką į šaltą vandenį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -3920,11 +5568,14 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     letijus pažino Prūsijoje moterį, kuriai burtininkas šitaip išpra­
     našavo, kad jos sūnus nuskęsiąs jūroje -  parodė vaškinį sudu­
     žusį laivą ir aukštielninką plaukiantį žmogų.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-093
+
 - c-077
   santrauka: 'Narbutas rašo, kad Prūsijos kronikininkai senovės prūsų herbo kilmę siejo su Vaidevučio laikais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -3938,11 +5589,14 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     bą, kurio kilmė siekia Vaidevučio laikus6. Skyde pavaizduota
     pusė prūsišku susegtu švarku apsirengusio žmogaus su lokio
     galva, pasukta kairėn.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-094
+
 - c-078
   santrauka: 'Narbutas Dusburgiečio pasakojimą apie senovės Prūsiją laiko patikimu krivio istorinės egzistencijos argumentu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -3960,11 +5614,14 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     visiško Prūsijos užkariavimo, kai Dusburgietis rašė tą prūsų
     tautos papročių ir įpročių apybraižą ir kai 1326 metais įteikė
     savo kroniką didžiajam magistrui.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-095
+
 - c-079
   santrauka: 'Narbutas ginkluoto atvertimo eigą sieja su tikėjimo smukimu ir vardija ją nuo Livonijos iki Prūsijos, Lietuvos ir Žemaitijos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -3981,11 +5638,14 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     kant tikėjimo dalykams, atėjo ginkluoto atvertimo laikai -  pir­
     miausia Livonijoje, vėliau Prūsijoje, paskui Lietuvoje, paga­
     liau Žemaitijoje.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-096
+
 - c-080
   santrauka: 'Narbutas pateikia Hartknocho duomenis apie lietuvių kalbą, vartotą Prūsijoje, Nemuno žemupyje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -4003,11 +5663,14 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     Tewe musu, kuris essi dangui; te essie Swanczamas wardas
     tawo; te atejg tawo karaliste; te nusi dode tawo walle kaip dau­
     giu tejp ir ant žemes.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-097
+
 - c-081
   santrauka: 'Narbutas VII lentelėje Romovę vaizduoja Prūsijoje, Prūsos ir Bysleidos upių santakoje, kaip šventą miestą su šventovės aptvaru.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -4023,15 +5686,2075 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
     tovės tarnams ir pačiam vyriausiajam žyniui, auga žiemą vasarą ža­
     liuojantis ąžuolas, prie kurio nišose stovi dievų stabai, o prieš juos -
     aukų deginimo aukuras su nuolat degančia ugnimi.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-098
 
+- c-082
+  santrauka: 'Teodoras Narbutas laiko tikėtina nuomonę, kad Prūsija turėjo pirmykščių gyventojų, su kuriais susipažino kimbrai.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Nereikia ir abejoti, kad ne kimbrai buvo pir­
+    mieji žmonės, kuriuos priglobė lietuvių žemės. Mes net
+    laikysime panašia į tiesą nuomonę, jog šios žemės, ypač
+    esančios arčiau jūros, kaip Prūsija, turėjo savo aborige­
+    nų, arba pirmykščių gyventojų, su kuriais susipažino
+    kimbrai. Skaitytojas kituose šios knygos skyriuose ras
+    smulkesnių šio požiūrio įrodymų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-099
+
+- c-083
+  santrauka: '1242-1253 metais klajokliai tarp Mazovijos, Prūsijos ir Lietuvos lengvino lietuvių ryšius su Pamariu ir Prūsija.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    126
+
+    ## Puslapis 124
+
+    čius; jie kovodavo ir su vėliavomis Pamario kunigaikščio
+    Sventopelko, kai šis kovėsi su prūsais prieš kryžiuočius.
+    Tai jie, klajodami tarp Mazovijos, Prūsijos ir Lietuvos
+    net ligi Drevantos pelkių, lengvino kariaujančių su vo­
+    kiečiais lietuvių ryšius su Pamariu ir Prūsija. Tai vyko
+    su tam tikromis pertraukomis 1242—1253 metais1.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-100
+
+- c-084
+  santrauka: 'Narbutas rašo, kad 1253 metų pradžioje kryžiuočiai, sustiprinę saugumą nuo Vyslos pusės, ėmė siekti užkariauti Prūsiją.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Daug kitų Vasilka paėmė į nelaisvę ir pasiun­
+    tė į Haličą savo broliui; visi tuo labai džiaugėsi2.
+    123
+    Kai 1253 metų pradžioje susiklostė draugiški Pamario
+    kunigaikščių ir kryžiuočių santykiai, kurie laidavo jiems
+    saugumą nuo Vyslos pusės, jie tuojau pat ėmė stengtis
+    užkariauti Prūsiją. Ypač vokiečių godumą skatino tur­
+    tinga Sembos provincija, bet šie atkaklūs bandymai ją
+    užkariauti nepavyko.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-101
+
+- c-085
+  santrauka: 'Teodoras Narbutas Ordino politiką vadina kruvina ir rašo, kad sūduviai buvo iškapoti arba išgabenti į kitas Prūsijos dalis.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    137
+
+    ## Puslapis 135
+
+    kryžiaus vardu jie medžiojo juos po miškus ir neišbren­
+    damas pelkes tarsi laukinius žvėris. Kruvina šio Ordino
+    politika numatė padaryti Sūduvą visiškai negyvenamą,
+    tad jos gyventojai ¡buvo arba iškapoti, arba išgabenti į
+    kitas Prūsijos dalis. Galbūt jie ir buvo likučiai išvestų jot­
+    vingių, kurių palikuonis Strijkovskis pastebėdavo prie
+    Raigardo ir Insterburgo Prūsijoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-102
+
+- c-086
+  santrauka: 'Narbutas tikrosios Prūsijos sieną aprašo ėjusią Vyslos žemupiu, Baltijos jūra iki Nemunyno žiočių ir toliau iki Širvintos upės.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    245
+    Tikrosios Prūsijos siena ėjo Vyslos žemupiu, Baltijos
+    jūra ligi Nemunyno žiočių, paskui atsiribojo nuo Rusios
+    siena, kurią parodėme anksčiau (§ 223), net iki Širvintos
+    upės, vėliau žinoma siena su Mazovija, Michalovo ir Dob-
+    rynės žemėmis. Po kurio laiko kryžiuočiai pastūmė sieną
+    ligi Nemuno žemupio, o po 1436 metų susidarė dabartinė
+    siena su Žemaitija (§228). Kadangi Rusios tema mūsų
+    jau pakankamai išnagrinėta, nelaikydami jos atsikira pro­
+    vincija, žiūrėsime į Prūsiją, turinčią vėlesnes ribas, kurios
+    labai nedaug skyrėsi nuo senovinių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-103
+
+- c-087
+  santrauka: 'Narbutas nurodo skirtingas nuomones apie gintare rastų vabzdžių kilmę: Masė jų tėvyne laikė Prūsiją, o Ragenas manė juos patekus iš šalies.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Tai rodo vabzdžiai, iš kurių pozų matyti, kad buvo už­
+    klupti staiga, bet palengva srūvančių sakų suvilioti tarsi
+    įklimpo juose, kartais netgi poravimosi metu, tačiau dėl
+    kažkokių , priežasčių pateko po žemėmis. Masė įrodinėja,
+    jog jų tėvynė yra Prūsija, o Ragenas mano, kad ten
+    pateko iš šalies.
+    Aš pats mačiau pas poną Hageną migdolus prime­
+    nančius gintarinės palmės vaisius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-104
+
+- c-088
+  santrauka: 'Narbutas, remdamasis Nestoru, rašo, kad mirusiųjų deginimas, pelenų rinkimas į urnas ir laidotuvių turnyrai išliko Prūsijoje.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Be to, reikia pridurti nors ir nepilną, tačiau Nestoro
+    išsaugotą jų gyvenimo paveikslą. Jie degindavo mirusių­
+    jų palaikus ir jų pelenus surinkdavo į urnas, o laidotuvių
+    metu rengdavo turnyrus. Visa tai išliko Prūsijoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-105
+
+- c-089
+  santrauka: 'Šilinyčius (Syleniczus) yra lietuviškos kilmės, iš Sylla - šilas; Prūsijos lietuvių kalba Syilenas - stalius.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Latviškai Kirpis reiškia kirmi­
+    ną, medžio graužiką, išradėjo vardas virto pavadinimu išrasto
+    daikto, kurį priėmė kaimyninės tautos kalba.
+    Šilinyčius (Syleniczus) yra lietuviškos kilmės, iš Sylla -  šilas;
+    Prūsijos lietuvių kalba Syilenas -  stalius. Todėl šis vardas aiškiai
+    susijęs su kažkokiu mitiniu staliumi, arba stalių dievaičiu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-106
+
+- c-090
+  santrauka: 'Šie pokyčiai labiausiai pa veikė Baltijos jūros pakrantes tarp Vyslos ir Dauguvos žiočių; žemės ¡gelmių sluoksniai, linkę į vulkaninius ju desius, taip pat įrodo, kad kitados Prūsijoje vyko žemės drebėjimai2.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Čia dar kartą pakartosime
+    aukščiau minėtą pastabą (§ 25, 26) apie kai kuriuos vie­
+    tinius pokyčius, kuriuos sukėlė dideli potvyniai ar ilga­
+    laikiai smarkūs-šiaurės vėjai. Šie pokyčiai labiausiai pa­
+    veikė Baltijos jūros pakrantes tarp Vyslos ir Dauguvos
+    žiočių; žemės ¡gelmių sluoksniai, linkę į vulkaninius ju­
+    desius, taip pat įrodo, kad kitados Prūsijoje vyko žemės
+    drebėjimai2. Kalbant apie mūsų žemės formavimąsi, ne­
+    1 Vienas milžinas, suspaudęs savo rankoje Atos kalną, nusviedė
+    jį iš Trakijos į Makedoniją (Noet Fr.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-107
+
+- c-091
+  santrauka: 'Aes tuarium, pasak lotyniško Pitėjo vertimo, reiškia negilias, seklias vietas, kurios kartais būva apsemtos, o kartais — sausos; toks aprašymas iš tikrųjų tinka senovės Prūsijai.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Priekaištaujama, kad, norint su­
+    skaičiuoti 6000 stadijų, reikia imti visą jūros ilgį. Aes­
+    tuarium, pasak lotyniško Pitėjo vertimo, reiškia negilias,
+    seklias vietas, kurios kartais būva apsemtos, o kartais —
+    sausos; toks aprašymas iš tikrųjų tinka senovės Prūsijai.
+    Sala, kurią Plinijus vadina Baltija, remdamasis visais
+    Hardua rankraščiais ir stebėjimais, turėtų vadintis Basi-
+    lia.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-108
+
+## Citatos
+
+- id: c-24417
+  citata_originali: |
+    Pagaliau įsimaišė Pran-
+    cūziją, kuri norėjo Gustavą Adolfą įtraukti į einantį Vokie-
+    tijoje 30 metų karą, ir 1629 m. Altmarke buvo padarytos
+    6 metams paliaubos. Visa Livonija, anapus Dauguvos, su Ryga
+    buvo palikta švedams. Prūsijoje (ji, kaip Lenkijos lenas, buvo
+    valdoma Brandenburgo elektoriaus) 6 metams buvo palikti šve-
+    dams kai kurie uostai, jų tarpe ir Klaipėda.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183083
+
+- id: c-32359
+  citata_originali: |
+    Nuo «nebylių
+    seimo » (1717) į tolimą perspektyvą užmestos Petro politikos vaisius
+    ir buvo carienės Kotrynos II-sios pravesti padalinimai respublikos,
+    kurios trečdalį ji turėjo užleisti Prūsijai ir Austrijai. Tai sudarė
+    visai naują epochą Lietuvos istorijoje.
+    Buvo aišku, kad jungtinės lietuvių ir lenkų respublikos pateki­
+    mas į Rusijos orbitą turėjo vieną dieną sąmoningai pribrandinti
+    jos galą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178029
+
+- id: c-43769
+  citata_originali: |
+    Nemuno gynybinė sistema
+    1231 m. Prūsijoje pradėjęs veikti Kryžiuočių ordinas buvo stip-
+    resnis ir geriau organizuotas nei kalavijuočiai. Po pralaimė-
+    jimo Saulės mūšyje kalavijuočių likučiai buvo prijungti prie
+    Kryžiuočių ordino.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178053
+
+- id: c-43770
+  citata_originali: |
+    Pralaimėjimo kaina buvo labai didelė.
+    Perėmus valdžią, Targovicos konfederacijos
+    šalininkams Ketverių metų seimo pradėtos
+    reformos panaikintos, valstybė tapo visiš-
+    kai priklausoma nuo kaimynų. Siekiant dar
+    labiau susilpninti Abiejų Tautų Respubliką,
+    1793 m. sausio 23 d. Prūsija su Rusija pa-
+    sirašė susitarimą dėl jos II padalijimo, po
+    kurio Abiejų Tautų Respublika neteko apie
+    300 tūkst. kv. km teritorijos.
+  citata_rodoma: "Siekiant dar\nlabiau susilpninti Abiejų Tautų Respubliką,\n1793 m. sausio 23 d. Prūsija su Rusija pa-\nsirašė susitarimą dėl jos II padalijimo, po\nkurio Abiejų Tautų Respublika neteko apie\n300 tūkst. kv. km teritorijos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178093
+    - t-178058
+
+- id: c-43771
+  citata_originali: |
+    ## Puslapis 151
+
+    Pėstininkų muškieta titnagine spyna (pėstininkų fuzėja). Kalibras — 18 mm, Prūsija, XVIII a.
+    pabaiga. Lygiavamzdžiai šautuvai titnaginėmis spynomis XVIII-XIX a. buvo pėstininkų ginkluotės
+    pagrindas, artimajame mūšyje juos naudodavo su pritvirtintais durtuvais. Didesnė dalis XVIII a. pa-
+    baigoje LDK kariuomenei skirtų muškietų, kaip ir kitų šaunamųjų ginklų, buvo nupirkta stiprią karinę
+    pramonę turinčioje Prūsijoje. Tačiau sprendžiant iš 1792 m. dokumentuose aptinkamų žinių, kartais
+    Prūsijoje būdavo įsigyjama ne ypač geros kokybės šautuvų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178040
+
+- id: c-161812
+  citata_originali: |
+    Kronikos idėjinė reikšmė ir mokslinė svarba
+
+      Kronikos tekstas ryškiai parodo jos autoriaus, kaip vokiečių feodalų karinės-religinės
+    organizacijos ideologo, siekimus išaukštinti ir pateisinti Ordino veiksmus krikščionybės
+    platinimu. Čia pabrėžiama, kad kryžiaus karui pats „viešpats pasirinko Prūsijos žemę“
+    (III, 8), todėl Ordino veiksmai yra dievo veiksmai (II, 6), Ordino broliai — tai viešpaties
+    dievo kariuomenė (III, 19), „dievo tauta“ („populus dei“) (III, 123), todėl stojimas  į
+    Ordiną — tai „šventas sumanymas“ (III,284).
+      Čia verta priminti, kad Vakarų Europos pasaulietiniai ir bažnytiniai feodalai, norėdami
+    praturtėti, užvaldyti nekrikščioniškas šalis, skelbė kryžiaus žygių idėjas: žemė su visais
+    turtais esanti dievo dovana, ja neteisėtai naudojasi krikščionybės priešai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178061
+
+- id: c-161813
+  citata_originali: |
+    Esant karinei valdžiai, viešpataujant valdovams, besirūpinan­
+    tiems vien nukariavimais ir, po teisybei, naujos monarchijos
+    kūrimu, toje sumaištyje, kuri anuomet dar tvyrojo šiaurės
+    kraštuose, kai barbariškumas lėtai ir sunkiai traukėsi, įveik­
+    tas Kristaus tikėjimo šviesos, miestai tikrai dar negalėjo su­
+    klestėti!
+    Dar neįsitvirtinus savo soste Vytautui, kitas karaliaus Jo­
+    gailos brolis, Švitrigaila, dėl ano iškėlimo nuoskaudą paju­
+    tęs, išvyko pas kryžiuočius - visų rezgamų pinklių ir pasikė­
+    sinimų prieš Lenkiją ir Lietuvą židinį, ieškodamas pagalbos
+    -- • --
+    135
+
+    ## Puslapis 152
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    bandant nuversti naująjį Lietuvos valdovą. Prūsijos ordi­
+    nas iš sykio griebėsi tos patogios progos pradėti karą ir nio­
+    koti tuos pavojingus jam kaimynus (1394 m.); kitais metais
+    Švitrigaila, kryžiuočių pulku vedinas, kartu su didžiuoju ma­
+    gistru Konradu Jungingenu įsibrovė į Lietuvą ir, nusiaubę
+    prie Gardino panemunės pavietus, sudegino Drohičiną, Nau­
+    garduką, Mirą ir Lydą, paėmė 2 200 belaisvių, 1 400 žirgų ir
+    prisiplėšė daugybę grobio, niekur nesutikę pasipriešinimo,
+    net iki Šalčininkų nusigavo51.
+  citata_rodoma: "Dar neįsitvirtinus savo soste Vytautui, kitas karaliaus Jo­\ngailos brolis, Švitrigaila, dėl ano iškėlimo nuoskaudą paju­\ntęs, išvyko pas kryžiuočius - visų rezgamų pinklių ir pasikė­\nsinimų prieš Lenkiją ir Lietuvą židinį, ieškodamas pagalbos\n-- • --\n135\n\n## Puslapis 152\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nbandant nuversti naująjį Lietuvos valdovą. Prūsijos ordi­\nnas iš sykio griebėsi tos patogios progos pradėti karą ir nio­\nkoti tuos pavojingus jam kaimynus (1394 m.); kitais metais \nŠvitrigaila, kryžiuočių pulku vedinas, kartu su didžiuoju ma­\ngistru Konradu Jungingenu įsibrovė į Lietuvą ir, nusiaubę \nprie Gardino panemunės pavietus, sudegino Drohičiną, Nau­\ngarduką, Mirą ir Lydą, paėmė 2 200 belaisvių, 1 400 žirgų ir \nprisiplėšė daugybę grobio, niekur nesutikę pasipriešinimo, \nnet iki Šalčininkų nusigavo51."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178078
+
+- id: c-161814
+  citata_originali: |
+    XIII a. šaltiniuose skyrium nuo Prūsų minima ir Barta (ПСРЛ, т. 2 (1908), стб.
+    813, 877) bei kt. vakarinių baltų žemės. Prūsais, Prūsija visas kraštas tarp Vyslos ir
+    Nemuno galutinai pradėta vadinti tada, kai buvo pavergtas Kryžiuočių ordino (Būga K. 3,
+    p. 120—121; Кушнер П. И. Этнические..., с. 154—155; Jasas R. Didysis..., p. 11; Salys
+    A. Prūsai (kalba), p. 147; MPKP, 1, p. 14—15; Powierski J. Stosunki..., p. 139; to paties,
+    Prusowie..., p. 368—371; to paties, Uwagi..., p. 128; HP, 1, 1, p. 280—281; Bednarczuk
+    L. Onomastyka..., p. 59—61).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178041
+
+- id: c-161815
+  citata_originali: |
+    Tautos, kalbos, raštijos
+    Pradėkime nuo lietuviakalbės raštijos. Visų pirma – tai
+    Abraomo Kulviečio ir Martyno Mažvydo kultūrinė programa, pateikusi
+    pirmą lietuvišką knygą, o ir pradėjusi lietuviakalbės raštijos tradiciją, tačiau
+    ji buvo kuriama emigracijoje – Prūsijoje, ir jos neprireikė LDK elitui.
+    1595 m.
+  citata_rodoma: "Visų pirma – tai \nAbraomo Kulviečio ir Martyno Mažvydo kultūrinė programa, pateikusi \npirmą lietuvišką knygą, o ir pradėjusi lietuviakalbės raštijos tradiciją, tačiau \nji buvo kuriama emigracijoje – Prūsijoje, ir jos neprireikė LDK elitui. \n1595 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178066
+    - t-178031
+
+- id: c-161816
+  citata_originali: |
+    Vilniaus prieigose lenkų kariuomenė ir
+    sukilėlių daliniai patyrė pralaimėjimą. Kai kuriems lenkų daliniams pavy-
+    ko prasiveržti atgal į Karalystės teritoriją, kitų dalinių likučiai perėjo sieną
+    su Prūsija. Rudenį Rusija susigrąžino ir Lenkijos karalystę.
+  citata_rodoma: "Kai kuriems lenkų daliniams pavy-\nko prasiveržti atgal į Karalystės teritoriją, kitų dalinių likučiai perėjo sieną \nsu Prūsija. Rudenį Rusija susigrąžino ir Lenkijos karalystę."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178046
+
+- id: c-161818
+  citata_originali: |
+    Taip pat mūsų pirmtakas karalius Vytenis buvo pasiun­
+    tęs savo laišką ponui legatui Pranciškui ir ponui arkivysku­
+    pui Fridrichui, prašydamas, kad jie atsiųstų jam du brolius
+    iš pranciškonų ordino, [drauge] paskirdamas jiems vietą ir
+    jau pastatytą bažnyčią. Apie tai sužinoję, Prūsijos iš teutonų
+    namo broliai pasiuntė aplinkiniais keliais savo kariuomenę
+    ir minėtą bažnyčią sudegino.
+    Taip pat jie smurtu ima ponus arkivyskupus ir vyskupus,
+    ir dvasininkus, kaip matyti pono Jono atveju, kuris buvo
+    numarintas kurijoje viešpaties Bonifacijaus metu, ir pono
+    85
+
+    ## Puslapis 102
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    sancte et Reverende, nos christianos non impugnamus, ut fi­
+    dem catholicam destruamus, sed ut iniuriis nostris resista­
+    mus, sicut faciunt Reges et principes christiani, quod patet
+    quia hahemus nohiscum fratres de ordine fratrum minorum
+    et de ordine fratrum predicatorum, quihus dedimus plenam
+    libertatem baptizandi, predicandi et alia sacra ministrandi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178092
+
+- id: c-161819
+  citata_originali: |
+    Vilniaus kapitulos archy­
+    vas: MSS, vad. Acta, tai yra*
+    117
+
+    ## Puslapis 134
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    Ordino pagalbos. 1390 metų sausio pradžioje visą savo šei­
+    mą iš Gardino išsiuntęs į Prūsiją, ruošdamasis atnaujinti anks­
+    tesnes sutartis su didžiuoju magistru Konradu Ciolneriu, dar
+    labiau įtvirtino Gardiną kaip savo buveinę, sustiprino ir kitų
+    savo pilių gynybą. Tų karingų vienuolių viršininkas, greitas
+    pasinaudoti kaimynų nesutarimais, tik ir laukdamas pro­
+    gos išardyti Lietuvos ir Lenkijos sąjungą, vieną komtūrą at­
+    siuntė į Gardiną, kur tasai sausio 19 dieną netoli nuo šios
+    pilies sudarė sutartį su Vytautu.
+  citata_rodoma: "Acta, tai yra*\n117\n\n## Puslapis 134\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nOrdino pagalbos. 1390 metų sausio pradžioje visą savo šei­\nmą iš Gardino išsiuntęs į Prūsiją, ruošdamasis atnaujinti anks­\ntesnes sutartis su didžiuoju magistru Konradu Ciolneriu, dar \nlabiau įtvirtino Gardiną kaip savo buveinę, sustiprino ir kitų \nsavo pilių gynybą. Tų karingų vienuolių viršininkas, greitas \npasinaudoti kaimynų nesutarimais, tik ir laukdamas pro­\ngos išardyti Lietuvos ir Lenkijos sąjungą, vieną komtūrą at­\nsiuntė į Gardiną, kur tasai sausio 19 dieną netoli nuo šios \npilies sudarė sutartį su Vytautu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178032
+    - t-178028
+
+- id: c-161820
+  citata_originali: |
+    40
+
+    ## Puslapis 57
+
+    I  KNYGA
+    vokiečių nagų į Lietuvą, suduodamas jiems didelį smūgį41.
+    Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­
+    jos didikais ir Vengrijos karaliene Elžbieta dėl Jadvygos ran­
+    kos sėkmingos, didysis magistras Konradas Ciolneris Ro-
+    tenšteinas tuojau pat, surinkęs didžiules pajėgas, 1385 metų
+    rugpjūtį ties Kaunu persikėlė per Nemuną ir ėmė siautėti
+    visame krašte. Vilnius, tiesa, turėdamas tvirtovėse labai stip­
+    rias įgulas, išvengė puolimo, bet aplinkinės žemės iki Medi­
+    ninkų, netgi iki pat Ašmenos, buvo didžiojo magistro nunio­
+    kotos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178025
+    - t-178074
+
+- id: c-161821
+  citata_originali: |
+    229—235.
+      127 PUB, B. 1, Nr. 56, 72, 78, 80, 87, 142—144, 147, 152 160—162, 213, 487; B.
+
+    Petro iš Dusburgo kronikos IV dalies paaiškinimai, gretinantys Prūsijos įvykius su to
+    meto visuotinės istorijos faktais, iš esmės paremti dviejų autorių dominikonų veikalais.
+      Čekijos vienuolis Martynas iš Opavos (Martinus Polonus), gyvenęs ir veikęs Prahoje,
+    po to Romoje, popiežiaus kurijoje, 1278 m. buvo paskirtas Gnezno arkivyskupu (todėl
+    „Polonus“), bet mirė ten nenuvykęs.
+  citata_rodoma: "56, 72, 78, 80, 87, 142—144, 147, 152 160—162, 213, 487; B.\n\nPetro iš Dusburgo kronikos IV dalies paaiškinimai, gretinantys Prūsijos įvykius su to\nmeto visuotinės istorijos faktais, iš esmės paremti dviejų autorių dominikonų veikalais.\n  Čekijos vienuolis Martynas iš Opavos (Martinus Polonus), gyvenęs ir veikęs Prahoje,\npo to Romoje, popiežiaus kurijoje, 1278 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178073
+
+- id: c-161822
+  citata_originali: |
+    Visą tą aukščiau aprašytą reikalą raštininkas išdėstė tarny­
+    biniame pranešime (Notariats instrument), į kurį taip pat buvo
+    įrašyti ir tariamieji Gedimino laiškai dviem ordinams ir pajū­
+    rio miestams, ir kaip tik šis dokumentas yra Kryžiuočių archy­
+    ve, ir tik iš jo su tais laiškais galima susipažinti. Be abejonės,
+    anie riteriai grįždami paėmė juos į Prūsiją, taip jie ne „per Or­
+    dino piktadarystę" atsidūrė kryžiuočių archyve. Šitai vėlei liu­
+    dija, kokią vertę teturi Kotzebue, bent jau jo nuomonės,
+    klasikiniam paminklui Prūsijos istorijai, Klijo išgarbintam.
+  citata_rodoma: "Be abejonės,\nanie riteriai grįždami paėmė juos į Prūsiją, taip jie ne „per Or­\ndino piktadarystę\" atsidūrė kryžiuočių archyve. Šitai vėlei liu­\ndija, kokią vertę teturi Kotzebue, bent jau jo nuomonės,\nklasikiniam paminklui Prūsijos istorijai, Klijo išgarbintam."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178096
+    - t-178033
+
+- id: c-161823
+  citata_originali: |
+    I  KNYGA
+    čų tarp abiejų pusių pavaldinių, apie prisigrobtų turtų grą­
+    žinimą, apie pabėgusių knechtų ir tarnų grąžinimą ir t. t.
+    Nors popiežiaus buvo primygtinai prašoma, kad savo ga­
+    nytojišku žodžiu tą sutartį pripažintų ir patvirtintų0, jis bet­
+    gi nenorėjo to prašymo patenkinti be tolesnio nagrinėjimo,
+    gal to priežastis buvo naujesnės žinios iš Prūsijos.
+    Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­
+    pas Eberhardas, Sembos vyskupas Jonas, Pomezanijos vys­
+    kupas Rudolfas (kadangi Mikolajus Kulmietis neseniai buvo
+    miręs), kartu su savo diecezijos klebonais Elblionge bemat
+    surengė pasitarimą ir pasiuntė laišką vyskupui į Eželį, Ry­
+    gos, Eželio, Dorpato ir Revelio kapituloms, Livonijos ma­
+    gistrui ir visam Ordinui, Danijos karaliaus vietininkui ir
+    visiems Livonijos bei Estijos didikams ir vasalams, daly­
+    vavusiems taikos sutartį sudarant, ir paskelbė tą sutartį
+    esant velnio žabangomis, visam krikščioniškajam pasau­
+    liui gėda, neabejotinai užtrauksiančia pražūtį Prūsijai ir kai­
+    myniniams kraštams. Jie rašo: „Tie velnio sūnūs savo suk­
+    tybėmis klastingai sandėriais taikosi jus ir mus pražudytip.
+  citata_rodoma: "Nors popiežiaus buvo primygtinai prašoma, kad savo ga­\nnytojišku žodžiu tą sutartį pripažintų ir patvirtintų0, jis bet­\ngi nenorėjo to prašymo patenkinti be tolesnio nagrinėjimo, \ngal to priežastis buvo naujesnės žinios iš Prūsijos.\nVos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­\npas Eberhardas, Sembos vyskupas Jonas, Pomezanijos vys­\nkupas Rudolfas (kadangi Mikolajus Kulmietis neseniai buvo \nmiręs), kartu su savo diecezijos klebonais Elblionge bemat \nsurengė pasitarimą ir pasiuntė laišką vyskupui į Eželį, Ry­\ngos, Eželio, Dorpato ir Revelio kapituloms, Livonijos ma­\ngistrui ir visam Ordinui, Danijos karaliaus vietininkui ir \nvisiems Livonijos bei Estijos didikams ir vasalams, daly­\nvavusiems taikos sutartį sudarant, ir paskelbė tą sutartį \nesant velnio žabangomis, visam krikščioniškajam pasau­\nliui gėda, neabejotinai užtrauksiančia pražūtį Prūsijai ir kai­\nmyniniams kraštams. Jie rašo: „Tie velnio sūnūs savo suk­\ntybėmis klastingai sandėriais taikosi jus ir mus pražudytip."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178051
+
+- id: c-161824
+  citata_originali: |
+    Rusija visą laiką buvo palanki arba vis dar pakluso svy­
+    ruojančiai Lietuvos galiai. Livonija vis glaudžiau šliejosi prie
+    Prūsijos. Per itin galingas Švitrigailos sąjungas radosi di­
+    desnis pasitikėjimas, o prekyba išsiplėtė net iki atokiausių
+    Vokietijos žemių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178050
+
+- id: c-161826
+  citata_originali: |
+    Tai buvo žmogus, kurį dar Algirdas dėl didelių
+    gabumų iš kepėjo sūnaus iki rūmų pataurininkio iškėlė. O
+    Jogaila, labai jį pamilęs, ne tik Lydos vietininku padarė, bet,
+    nepaisydamas Kęstučio prieštaravimų, dargi atidavė jam į
+    žmonas savo seserį. Kaip pasiuntinys nuvykęs į Prūsiją, Vai­
+    dila 1380 metais paruošė dirvą Jogailai sudaryti slaptą san­
+    dėrį su arkikomtūru, siekiant užsitikrinti saugumą nuo kry­
+    žiuočių ir palengvinti jiems Kęstučio valdų puolimą28.
+  citata_rodoma: "Kaip pasiuntinys nuvykęs į Prūsiją, Vai­\ndila 1380 metais paruošė dirvą Jogailai sudaryti slaptą san­\ndėrį su arkikomtūru, siekiant užsitikrinti saugumą nuo kry­\nžiuočių ir palengvinti jiems Kęstučio valdų puolimą28."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178068
+    - t-178030
+
+- id: c-161828
+  citata_originali: |
+    Tuo tarpu Skir­
+    gaila antrąkart grįžo iš Polocko nieko nepešęs, bet sugebėjo
+    pasikalbėti su Jogaila, dar tebesėdėjusiu kalėjime. Gavęs pa­
+    vedimą, nuvyko į Prūsiją ir, remdamasis sandėrio su Ordinu
+    galia, ėmė rengti naujus Kęstučio ir Lietuvos antpuolius. Išti­
+    sus 1382-uosius metus tęsėsi tarpusavio žudynės ir pade­
+    ginėjimai, o kryžiuočiai, niokodami viską pakeliui, jau net
+    Šalčininkus ir Trakus buvo pasiekę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178097
+
+- id: c-161829
+  citata_originali: |
+    Siekdamas pagrįsti kryžiuočių
+    užkariavimus Prūsijoje  ir jau kuris metas vedamą karą prieš Lietuvą, parodyti
+    Ordino „nuopelnus“, 1326 m. Ordino brolis kunigas Petras iš Dusburgo užbaigė savo
+    kroniką ir įteikė magistrui (ji pratęsta iki 1330 m.). Tai oficialus Kryžiuočių ordino
+    valstybės kūrinys.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178091
+
+- id: c-161830
+  citata_originali: |
+    Dusburgiečio kronika pabrėžia, kad ne kas kitas, o „broliai apšvarino [...] šventąją
+    Prūsijos žemę, kurią tenykštės gentys teršė stabmeldyste,  ir dabar čia kas dieną
+    aukojama dievui“ (Pratarmė).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178070
+
+- id: c-161831
+  citata_originali: |
+    Drauge su M. Juču jis sudarė rinkinį
+    «Lietuvos inventoriai XVII amž. » (1962). Suredagavo jis taip pat
+    «Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietu­
+    viams valstiečiams » (1960) ir ten parašė pratarmę. Jablonskis
+    buvo ir vienas iš redaktorių « Lietuvos archeologijos bruožų » (1961).
+  citata_rodoma: "» (1962). Suredagavo jis taip pat\n«Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietu­\nviams valstiečiams » (1960) ir ten parašė pratarmę. Jablonskis\nbuvo ir vienas iš redaktorių « Lietuvos archeologijos bruožų » (1961)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178037
+
+- id: c-161832
+  citata_originali: |
+    Iš tikrųjų, daugelį kartų mūsų pirmtakai, norėdami su­
+    daryti taiką, siuntė savo pasiuntinius ponams Rygos arki­
+    vyskupams, tačiau tie [teutonų ordino broliai] juos žiauriai
+    nužudydavo, kaip tai matyti iš atvejo, buvusio pono Isamo
+    metu, kai jis, kaip viešpaties Bonifacijaus atstovas, sudarė
+    taiką bei paliaubas tarp mūsų ir teutonų namo brolių ir sa­
+    vo laišką mums atsiuntė; tačiau, kai pasiuntiniai grįžo iš po­
+    no Isamo namo, pakeliui vienus jie užmušė, kitus pakorė
+    arba privertė, kad jie patys pasiskandintų.
+    Taip pat mūsų pirmtakas karalius Vytenis buvo pasiun­
+    tęs savo laišką ponui legatui Pranciškui ir ponui arkivysku­
+    pui Fridrichui, prašydamas, kad jie atsiųstų jam du brolius
+    iš pranciškonų ordino, [drauge] paskirdamas jiems vietą ir
+    jau pastatytą bažnyčią. Apie tai sužinoję, Prūsijos iš teutonų
+    namo broliai pasiuntė aplinkiniais keliais savo kariuomenę
+    ir minėtą bažnyčią sudegino.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178052
+
+- id: c-161833
+  citata_originali: |
+    Į dykra paverstas jotvingių,
+    skalvių, nadruvių žemes iš Lietuvos XV a. pradėjo grįžti šių genčių pali-
+    kuonys, o dar gausiau – lietuviai. Jie apsigyveno ne tik Lietuvos pusėje
+    esančioje dykroje, bet ir anapus sienos (1422 m. tarp Lietuvos ir Vokiečių
+    ordino nustačius sieną, Lietuvai atiteko tik dalis senųjų jotvingių terito-
+    rijos – Užnemunė). Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau
+    pasivadinusioje Prūsijos hercogija, o dar vėliau – Prūsijos karalija) pradė-
+    ta vadinti lietuvininkais, o jų žemes – Prūsų Lietuva arba Mažąja Lietu-
+    va (visa kita Lietuva vėliau – atrodo, XIX a. – pradėta vadinti Didžiosios
+    Lietuvos vardu).
+  citata_rodoma: "tarp Lietuvos ir Vokiečių \nordino nustačius sieną, Lietuvai atiteko tik dalis senųjų jotvingių terito-\nrijos – Užnemunė). Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau \npasivadinusioje Prūsijos hercogija, o dar vėliau – Prūsijos karalija) pradė-\nta vadinti lietuvininkais, o jų žemes – Prūsų Lietuva arba Mažąja Lietu-\nva (visa kita Lietuva vėliau – atrodo, XIX a. – pradėta vadinti Didžiosios \nLietuvos vardu)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178088
+
+- id: c-161834
+  citata_originali: |
+    Addicimus etiam duos homines
+    222
+
+    ## Puslapis 239
+
+    III KNYGA
+    Žygimanto Kęstutaičio mirtis užvertė svarbų Lietuvos is­
+    torijos puslapį, nes kartu su juo jau visiems laikams pasi­
+    baigė šitiek metų trukę kryžiuočių puldinėjimai. Nuo tada
+    liovėsi vyravusi Prūsijos ordino įtaka krašto likimui, ir sve­
+    timšalių riterių brolija jau nežvangino savo ginklais prie
+    Vilniaus sienų. Nusilpęs, nesėkmių pribaigtas prūsas lio­
+    vėsi kliudęs Lietuvos ryšiams bei svarbiems šios valstybės
+    reikalams su kylančia rytuose Rusija, o Jogailos ir Vytauto
+    įpėdinių kova su žlungančiu
+    Lenkiją.
+    in districtu Jenkmen, Kirkitto et Szo-
+    dejko, cum eorum filiis et posteris.
+  citata_rodoma: "Addicimus etiam duos homines\n222\n\n## Puslapis 239\n\nIII KNYGA\nŽygimanto Kęstutaičio mirtis užvertė svarbų Lietuvos is­\ntorijos puslapį, nes kartu su juo jau visiems laikams pasi­\nbaigė šitiek metų trukę kryžiuočių puldinėjimai. Nuo tada\nliovėsi vyravusi Prūsijos ordino įtaka krašto likimui, ir sve­\ntimšalių riterių brolija jau nežvangino savo ginklais prie\nVilniaus sienų. Nusilpęs, nesėkmių pribaigtas prūsas lio­\nvėsi kliudęs Lietuvos ryšiams bei svarbiems šios valstybės\nreikalams su kylančia rytuose Rusija, o Jogailos ir Vytauto\nįpėdinių kova su žlungančiu\nLenkiją."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178064
+
+- id: c-161835
+  citata_originali: |
+    Vytauto rūpesčiu žemaičiai Karaliaučiuje
+    sudarė sutartį su Ordinu, taigi Vytauto galia vėl sustiprėjo,
+    ir didysis magistras, įsitikinęs, jog lietuvių pajėgos susi­
+    skaldžiusios, ėmė ruoštis į pakartotiną, bet daug reikšmin­
+    gesnį žygį, kurio tikslas jau buvo ne tik apiplėšti Lietuvą,
+    tačiau užimti jos sostinę ir įkurdinti ten Vytautą21. Kai rug­
+    pjūtį visa parengtis mūšiams Prūsijoj buvo baigta, dar atvy­
+    ko savanorių iš Anglijos ir Prancūzijos, kurie, tų laikų pa­
+    pročiu, noriai eidavo kariauti su pagonimis, kur tik užgirdę
+    jų esant. Tad, visuotinei tamsybei klestint, kryžiuočiai leng­
+    vai įkalbėjo tieką svetimtaučių, kad visa Lietuva iki šiol dar
+    esanti pagonių šalis.
+  citata_rodoma: "Kai rug­\npjūtį visa parengtis mūšiams Prūsijoj buvo baigta, dar atvy­\nko savanorių iš Anglijos ir Prancūzijos, kurie, tų laikų pa­\npročiu, noriai eidavo kariauti su pagonimis, kur tik užgirdę\njų esant. Tad, visuotinei tamsybei klestint, kryžiuočiai leng­\nvai įkalbėjo tieką svetimtaučių, kad visa Lietuva iki šiol dar\nesanti pagonių šalis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178087
+    - t-178059
+
+- id: c-161836
+  citata_originali: |
+    Karas su kryžiuočiais. Nemuno gynybinė sistema
+    1231 m. Prūsijoje pradėjęs veikti Kryžiuočių ordinas buvo stip-
+    resnis ir geriau organizuotas nei kalavijuočiai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178098
+
+- id: c-161837
+  citata_originali: |
+    288 (281). Apie maldininkų atvykimą
+
+      1304 viešpaties metais viešpaties įkvėpti Vokietijos maldininkai vėl suskato keliauti
+    į Prūsijos žemę. Atvyko šie kilmingieji: jo kilnybė Verneris, Hoinbergo grafas, riteriai
+    Adolfas iš Vintimelio su savo broliu ir Ditrichas iš Elnerio su savo broliu Arnoldu bei daug
+    kitų kilmingųjų iš Reino.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178085
+
+- id: c-161839
+  citata_originali: |
+    Kai didysis magistras prie jų prijungė
+    vietinius savo pulkus, visa kariauna patraukė į kovą su lie­
+    tuviais. Tačiau greitai užėjo tokie baisūs šalčiai, kad ne tik
+    Prūsijoje ir Livonijoje nušalo visi vaismedžiai, o jūra 15 my­
+    lių pasidengė tokio storio ledu, kad juo iš Danijos iki Liube­
+    ko buvo galima keliauti0; tad ir kryžiuočiai nieko negalėjo
+    imtis, baimindamiesi, kad iš pietų atvykę ir prie smarkių
+    šalčių nepripratę kariai visi nežūtų.
+    Taigi tas žygis nuėjo perniek; vis dėlto antpuoliai senu
+    papročiu nesiliovė ir tais metais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178090
+    - t-178038
+
+- id: c-161840
+  citata_originali: |
+    Vis dėlto nereikėtų manyti, kad Vilnius
+    ypač vėlesniais Vytauto valdymo laikais neužgydė žaizdų,
+    patirtų nesėkmingai valdant Skirgailai, ir nepraturtėjo. Juk
+    tas didis žmogus mėgo tvarką ir krašte jos reikalaudavo, glo­
+    bojo pirklius, ir prekyba Vilniuje jau plačiai išsišakojo - su
+    Prūsijos bei Livonijos miestais, su Pskovu, Naugardu ir Mask­
+    va, o naudodamasi galingo monarcho parama, jau pasiekė ir
+    tolimus kraštus, bet jai trukdydavo dažni karai: ir, regis, Vil­
+    nius savo dydžiu ir turtais nepasiekė tokių aukštumų, iki ko­
+    kių turėjo išaugti būdamas tokios didelės valstybės sostinė.
+    Esant karinei valdžiai, viešpataujant valdovams, besirūpinan­
+    tiems vien nukariavimais ir, po teisybei, naujos monarchijos
+    kūrimu, toje sumaištyje, kuri anuomet dar tvyrojo šiaurės
+    kraštuose, kai barbariškumas lėtai ir sunkiai traukėsi, įveik­
+    tas Kristaus tikėjimo šviesos, miestai tikrai dar negalėjo su­
+    klestėti!
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178024
+    - t-178048
+
+- id: c-161842
+  citata_originali: |
+    Vygan­
+    das  tačiau byloja: Steterunt V septi­
+    manis in continuo agone nocte dieque
+    et pugna et ex utraque parte multi sunt
+    occisi [stovėjo 5 savaites nuolatinėse
+    kautynėse dieną naktį ir kovoje iš
+    abiejų pusių daug buvo užmuštų].
+    - • —
+    126
+
+    ## Puslapis 143
+
+    Il KNYGA
+    po įtemptos, tačiau perniek nuėjusios, pilies apsupties, kry­
+    žiuočiai galop atsitraukė ir, palikę Vilnių, kraštą ugnimi ir
+    kalaviju nusiaubę, grįžo į Prūsiją ir Livoniją. Puolėjų nuos­
+    toliai buvo irgi ne mažesni; be daugybės nukautų karių, prie
+    Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis, Kęstu­
+    čio sūnus, Vytauto tikras brolis Tautvilas ir Hohenšteino gra­
+    fas Algardas34.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178027
+    - t-178044
+
+- id: c-161843
+  citata_originali: |
+    Kita ekspe­
+    dicija iš Prūsijos 1375 metais irgi buvo sukėlusi Vilniui pa­
+    našią grėsmę. Tąkart Vinrichas, vasario pradžioje kirtęs Lie­
+    tuvos sieną su didele govėda baronų ir riterių iš Prancūzijos
+    bei Vokietijos, sutelktų stoti po kryžiaus ženklu, turėjo sku­
+    binai trauktis atgal į Prūsiją dėl staigaus atodrėkio ir upių
+    polaidžio. Ordino maršalas Gotfridas Lindenas, įsibrovęs su
+    daugybe komtūrų ir savanorių, sudegino Trakų paviete Se­
+    meliškes ir pašėlusiai veržėsi iki Vilniaus tvirtovių, tik ne­
+    pavykus staiga užimti gerai ginamo miesto, grįžo atgalios
+    plėšti aplinkinių žemių23.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178060
+
+- id: c-161847
+  citata_originali: |
+    Juk šis kroniki­
+    ninkas pasakoja, kad apie 880 me­
+    tus, viešpataujant Danijoje karaliui
+    Kanutui (Cnud), kai dėl pragaištingo
+    nederliaus visiems gyventojams trū­
+    ko grūdų, buvo įsakyta kas trečią
+    žmogų išvaryti iš valsčiaus visiems
+    laikams. Likimo lemties tremtiniai,
+    sutelkę į draugę valtis, vadovauja­
+    mi išsirinkto vado, persikėlė per jū­
+    rą ir įsikūrė Prūsijoje, Žemaitijoje bei
+    Karelijoje, tarp vietinių gyventojų.
+    Žr. P e t r i Olai.
+  citata_rodoma: "Likimo lemties tremtiniai,\nsutelkę į draugę valtis, vadovauja­\nmi išsirinkto vado, persikėlė per jū­\nrą ir įsikūrė Prūsijoje, Žemaitijoje bei\nKarelijoje, tarp vietinių gyventojų.\nŽr."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178034
+    - t-178055
+
+- id: c-161849
+  citata_originali: |
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    bandant nuversti naująjį Lietuvos valdovą. Prūsijos ordi­
+    nas iš sykio griebėsi tos patogios progos pradėti karą ir nio­
+    koti tuos pavojingus jam kaimynus (1394 m.); kitais metais
+    Švitrigaila, kryžiuočių pulku vedinas, kartu su didžiuoju ma­
+    gistru Konradu Jungingenu įsibrovė į Lietuvą ir, nusiaubę
+    prie Gardino panemunės pavietus, sudegino Drohičiną, Nau­
+    garduką, Mirą ir Lydą, paėmė 2 200 belaisvių, 1 400 žirgų ir
+    prisiplėšė daugybę grobio, niekur nesutikę pasipriešinimo,
+    net iki Šalčininkų nusigavo51. Visa tai vyko žiemos pabaigo­
+    je, tik staigus atodrėkis privertė vokiečių kariuomenę skubi­
+    nai grįžti į savo kraštą, taigi jie nepriėjo iki sostinės ir pen­
+    kiolika dienų teplėšė Lietuvą.
+  citata_rodoma: "Prūsijos ordi­\nnas iš sykio griebėsi tos patogios progos pradėti karą ir nio­\nkoti tuos pavojingus jam kaimynus (1394 m.); kitais metais\nŠvitrigaila, kryžiuočių pulku vedinas, kartu su didžiuoju ma­\ngistru Konradu Jungingenu įsibrovė į Lietuvą ir, nusiaubę\nprie Gardino panemunės pavietus, sudegino Drohičiną, Nau­\ngarduką, Mirą ir Lydą, paėmė 2 200 belaisvių, 1 400 žirgų ir\nprisiplėšė daugybę grobio, niekur nesutikę pasipriešinimo,\nnet iki Šalčininkų nusigavo51. Visa tai vyko žiemos pabaigo­\nje, tik staigus atodrėkis privertė vokiečių kariuomenę skubi­\nnai grįžti į savo kraštą, taigi jie nepriėjo iki sostinės ir pen­\nkiolika dienų teplėšė Lietuvą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178018
+
+- id: c-161850
+  citata_originali: |
+    Prūsai ir Lietuva
+
+       Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
+    artimai  sieja  kalbos,  kultūros,  tradicijų,  senosios  religijos bendrumas,  teritorijos
+    vientisumas.
+      Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
+    atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
+    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
+    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
+    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178036
+
+- id: c-161851
+  citata_originali: |
+    3, p. 141.
+    210
+
+    ## Puslapis 227
+
+    III KNYGA
+    čų su Vytautu nuolat susijęs su Ordinu, visiškai pasidavęs jo
+    įtakai, dabar, remiamas stipraus šalininko ir visos Prūsijos
+    bei Livonijos kryžiuočių galybės, buvo taip pakerėtas noro
+    tapti Lietuvos valdovu, jog nebeįstengė slėpti troškimo at­
+    keršyti. Šį norą dar labiau sustiprino Vilniuje gauta žinia, kad
+    Podolės bajorai, vadovaujami Gregoro Kierdėjaus, klastingai
+    sugavę Daugirdą Gedgailą, anuomet Vytauto vardu valdžiusį
+    Podolę, visą šį kraštą nuo Lietuvos atplėšė Lenkijai, atiduo­
+    dami viršenybę Bučackiams.
+  citata_rodoma: "210\n\n## Puslapis 227\n\nIII KNYGA\nčų su Vytautu nuolat susijęs su Ordinu, visiškai pasidavęs jo\nįtakai, dabar, remiamas stipraus šalininko ir visos Prūsijos\nbei Livonijos kryžiuočių galybės, buvo taip pakerėtas noro\ntapti Lietuvos valdovu, jog nebeįstengė slėpti troškimo at­\nkeršyti. Šį norą dar labiau sustiprino Vilniuje gauta žinia, kad\nPodolės bajorai, vadovaujami Gregoro Kierdėjaus, klastingai\nsugavę Daugirdą Gedgailą, anuomet Vytauto vardu valdžiusį\nPodolę, visą šį kraštą nuo Lietuvos atplėšė Lenkijai, atiduo­\ndami viršenybę Bučackiams."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178089
+
+- id: c-161853
+  citata_originali: |
+    9. Apie Medvėgalio pilėnus
+
+    1329 viešpaties metais  į Prūsijos žemę atžygiavo Jonas iš Liuksemburgo, Čekijos
+    karalius, su savo karalystės kilmingaisiais, su Silezijos kunigaikščiu iš Falkenbergo, su
+    Leiningeno, Etingeno, Nojenaro, Vilnau, Hanau, Virtenbergo, Saumburgo, Falkenšteino
+    grafais  ir Kerpeno, Geros, Bergo, Rotenšteino, Damiso, Kotbuso, Meiseno valdovais
+    bei Donos burggrafu  ir su daugybe Vokietijos bei Anglijos karalysčių kilmingųjų. Su
+    šiais visais patraukė link Lietuvos brolis Verneris, 200 brolių  ir 18 tūkstančių karių,
+    neskaitant pėstijos, ir grabnyčių išvakarėse apsupo Medvėgalio pilį601, kuri po ilgų kovų
+    pasidavė krikščionių tikėjimui, o šeši tūkstančiai šios pilies žmonių tapo viešpaties vardu
+    pakrikštyti, tačiau neilgai trukus jie atkrito nuo krikščionybės.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178065
+
+- id: c-161854
+  citata_originali: |
+    Pirmąjį Vilniaus paminėjimą, pirmą autentišką
+    paliudijimą, kad jau buvęs miestas ir Gedimino sostinė, be
+    abejonių, mums pateikia sutartis, iškilmingai pasirašyta Vil­
+    niuje 1323 metų spalio 2 d. iš vienos pusės, - valdovo su Ry­
+    gos arkivyskupu, Eželio, Dorpato, Revelio vyskupais, jų ka­
+    pitulomis ir miestais, Danijos ginkluotųjų pajėgų vadu, taip
+    pat su Vokiečių ordino Livonijoje magistru ir broliais - iš
+    kitos12. Dar didesnis garsas apie Vilnių pasklido 1325 me­
+    tais, kai ryšius nutraukus su kryžiuočiais tame mieste buvo
+    laisva valia pasirašyta toji Gedimino sutartis su Łokietka, ku­
+    ria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­
+    nu, išvaduota 20 000 lenkų belaisvių ir Aldona, Gedimino
+    duktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo. Tad
+    iš to naujai iškilusio miesto nusidriekė dviejų kaimyninių tau­
+    tų vėlesnio susijungimo ir galios pirmosios gijos.
+  citata_rodoma: "Dar didesnis garsas apie Vilnių pasklido 1325 me­\ntais, kai ryšius nutraukus su kryžiuočiais tame mieste buvo\nlaisva valia pasirašyta toji Gedimino sutartis su Łokietka, ku­\nria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­\nnu, išvaduota 20 000 lenkų belaisvių ir Aldona, Gedimino\nduktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo. Tad\niš to naujai iškilusio miesto nusidriekė dviejų kaimyninių tau­\ntų vėlesnio susijungimo ir galios pirmosios gijos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178075
+    - t-178026
+
+- id: c-161855
+  citata_originali: |
+    Bet
+    Vytautas mąstė apie visišką Žemaitijos krašto priskyrimą Lie­
+    tuvai, nepaisant jokių terminų, ir todėl nebesutiko su reikalavi­
+    mais, aprėkiančiais jo valdžią. Jis griežtai pareiškė, ne tiktai
+    niekada neišsižadėsiąs savo tėviškės, Veliuonos, bet galįs siek­
+    ti ir Prūsijos, nes ir tas kraštas seniau priklausė jo protėviams.
+    Ordino gi pasiuntiniui, kuris dar kaltino Vytautą, kad jis nebeiš­
+    duoda Torne žadėto rašto apie Žemaitijos grąžinimą po savo ir
+    Jogailos mirties, dabar jis tokį raštą kartu su Jogaila parašė, bet
+    labai neformalų.
+  citata_rodoma: "Jis griežtai pareiškė, ne tiktai\nniekada neišsižadėsiąs savo tėviškės, Veliuonos, bet galįs siek­\nti ir Prūsijos, nes ir tas kraštas seniau priklausė jo protėviams.\nOrdino gi pasiuntiniui, kuris dar kaltino Vytautą, kad jis nebeiš­\nduoda Torne žadėto rašto apie Žemaitijos grąžinimą po savo ir\nJogailos mirties, dabar jis tokį raštą kartu su Jogaila parašė, bet\nlabai neformalų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178022
+    - t-178043
+
+- id: c-161857
+  citata_originali: |
+    Prie viso
+    to reikia pridurti, kad graikų apei­
+    gų tikėjimo plitimas tuo metu lietu­
+    vių kalbai sudavė galutinį smūgį.
+    8
+    Lietuvos istorijoje yra žinomos šven­
+    tos vietovės, senovės lietuvių vadin­
+    tos Romuvomis [ramovėmis], kur
+    vidur šventų girių būdavo garbina­
+    mas Perkūnas ir kur gyveno vyriau­
+    siasis jų vaidila Krivių Krivaitis. Tas
+    Romuvas sunaikino kryžiuočiai, už­
+    ėmę Prūsiją; tačiau nežinia, ar kitos,
+    ar tos pačios iš anos žemės perkel­
+    tos, buvo pačioje Lietuvoje, prie
+    Kauno, ant Nevėžio kranto, .būtent
+    toj vietoj, kur dabar Romainiai.
+  citata_rodoma: "8\nLietuvos istorijoje yra žinomos šven­\ntos vietovės, senovės lietuvių vadin­\ntos Romuvomis [ramovėmis], kur \nvidur šventų girių būdavo garbina­\nmas Perkūnas ir kur gyveno vyriau­\nsiasis jų vaidila Krivių Krivaitis. Tas \nRomuvas sunaikino kryžiuočiai, už­\nėmę Prūsiją; tačiau nežinia, ar kitos, \nar tos pačios iš anos žemės perkel­\ntos, buvo pačioje Lietuvoje, prie \nKauno, ant Nevėžio kranto, ."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178072
+
+- id: c-161859
+  citata_originali: |
+    Tačiau Zigmantas nė ne­
+    manė to padaryti. Jis tą reikalą gerai apsvarstęs, pasiūlė su­
+    šaukt kur nors Prūsų pasieny suvažiavimą, žadėdamas dėl jo
+    vietos ir laiko pasitarti kartu su Vytautu^1 ). Tuo pačiu laiku
+    Zigmantas pasiuntė lenkų laiško nuorašus ir Vytautui, taip pat
+    ir Ordinui, kurį nuo to laiko Romos ciesorius informuodavo apie
+    kiekvieną žingsnį, liečiantį karūnacijos reikalą, siekdamas su
+    kryžiuočių pagalba sudaryti iš Lietuvos, Prūsijos, Vengrijos ir
+    Čekijos sąjungą prieš Lenkiją.
+  citata_rodoma: "Jis tą reikalą gerai apsvarstęs, pasiūlė su­\nšaukt kur nors Prūsų pasieny suvažiavimą, žadėdamas dėl jo\nvietos ir laiko pasitarti kartu su Vytautu^1 ). Tuo pačiu laiku\nZigmantas pasiuntė lenkų laiško nuorašus ir Vytautui, taip pat\nir Ordinui, kurį nuo to laiko Romos ciesorius informuodavo apie\nkiekvieną žingsnį, liečiantį karūnacijos reikalą, siekdamas su\nkryžiuočių pagalba sudaryti iš Lietuvos, Prūsijos, Vengrijos ir\nČekijos sąjungą prieš Lenkiją."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178045
+
+- id: c-161860
+  citata_originali: |
+    Et nihilominus opi-
+    do quodam munito Dobryn vulgariter
+    dicto expugnato et in favillam prorsus
+    redacto multis inibi christifidelibus fer­
+    ro peremptis decem millia et utra homi­
+    num utriusque sexus secum abegit si­
+    militer et deduxit [Kai bedievis vadas
+    Dovydas prieš pat anksčiau minėtas
+    paliaubas įžengęs su stipria lietuvių
+    kariuomene į Dobrynės žemę, esan­
+    čią minėtoje Plocko diecezijoje, visą
+    pragaištingai nusiaubė. Ir kaip tik
+    70
+
+    ## Puslapis 87
+
+    I  KNYGA
+    Kai plėšikaujančių lietuvių gaujos, dažniausiai valdovo
+    numylėtinių ir bičiulių vedamos, su laukiniu įniršiu šitaip
+    niokojo krikščionių žemes, Prūsijoje pasklido gandas, jog ka­
+    ralius Gediminas į visas šalis išsiuntinėjo laiškus, skelbda­
+    mas apie savo norą priimti krikštą ir prisijungti prie tikinčių­
+    jų. Netrukus su tais laiškais ir Prūsijoje buvo susipažinta.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178099
+    - t-178084
+
+- id: c-161862
+  citata_originali: |
+    Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
+    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
+    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
+    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
+      Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
+    vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos
+    iki Nemuno. Pavyslyje, ypač Kulmo bei Lubavo srityse, gyventojai buvo mišrūs (lenkai ir
+    prūsai), nors Ordino agresijos pradžioje anksčiau kurį laiką lenkams priklausiusią Kulmo
+    sritį valdė prūsai, turėję ten savo pilių (III,7).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178062
+
+- id: c-161865
+  citata_originali: |
+    287 (280). Apie žemės drebėjimą Prūsijos žemėje
+
+      Tų pačių metų rugpjūčio 8 dieną, apie trečią valandą, visoje Prūsijoje drebėjo žemė.
+    Tris kartus suvirpėjo žemė drauge su pastatais, kurių retas išliko nesugriuvęs.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178020
+
+- id: c-161866
+  citata_originali: |
+    30
+
+    ## Puslapis 47
+
+    I  KNYGA
+    degindamas ir siaubdamas miesto apylinkės22. Kita ekspe­
+    dicija iš Prūsijos 1375 metais irgi buvo sukėlusi Vilniui pa­
+    našią grėsmę. Tąkart Vinrichas, vasario pradžioje kirtęs Lie­
+    tuvos sieną su didele govėda baronų ir riterių iš Prancūzijos
+    bei Vokietijos, sutelktų stoti po kryžiaus ženklu, turėjo sku­
+    binai trauktis atgal į Prūsiją dėl staigaus atodrėkio ir upių
+    polaidžio.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178082
+
+- id: c-161867
+  citata_originali: |
+    Jau Salyno taikoje (1398) buvo paliesti prekybos reikalai,
+    kuriais abi šalys pasirodė labai užinteresuotos. Joje buvo nu­
+    tarta, kad lietuvių pirkliai Ordino žemėse — Prūsijoje ir Livo­
+    nijoje, o šio pirkliai Lietuvoje, nevaržomi naujų muitų, išsky­
+    rus senuosius, galės laisvai prekiauti. Taip pat buvo susitarta
+    užkariauti savarankiškus, turtingus ir prekybai patogius Psko­
+    vo bei Naugardo miestus ir pasidalyti juos taip, kad pirmasis
+    tektų Ordinui, o antrasis — Vytautui^1 ).
+  citata_rodoma: "Joje buvo nu­\ntarta, kad lietuvių pirkliai Ordino žemėse — Prūsijoje ir Livo­\nnijoje, o šio pirkliai Lietuvoje, nevaržomi naujų muitų, išsky­\nrus senuosius, galės laisvai prekiauti. Taip pat buvo susitarta\nužkariauti savarankiškus, turtingus ir prekybai patogius Psko­\nvo bei Naugardo miestus ir pasidalyti juos taip, kad pirmasis\ntektų Ordinui, o antrasis — Vytautui^1 )."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178080
+    - t-178042
+
+- id: c-161869
+  citata_originali: |
+    bergan pas ciesorių Karolių IV vieną savo giminaitį tartis dėl
+    priėmimo krikščionių tikėjimo. Iš savo pusės, sutikdami apsi­
+    krikštyti, jiedu pirmiausia reikalavo, kad Vokiečių Ordinas Lie­
+    tuvai grąžintų žemes iki Deimės ir Alės upių Prūsijoje ir Žiemga­
+    lius bei Kuršius Livonijoje. Kadangi Lietuvai apsikrikštijus
+    Ordino egzistencijai Lietuvos pasieniuose nebūtų buvę pagrindo,
+    tai jiedu siūlė Ordinui išsikelti į Rusijos pietus, ginti krikščionis
+    nuo totorių užpuldinėjimo.
+  citata_rodoma: "Iš savo pusės, sutikdami apsi­\nkrikštyti, jiedu pirmiausia reikalavo, kad Vokiečių Ordinas Lie­\ntuvai grąžintų žemes iki Deimės ir Alės upių Prūsijoje ir Žiemga­\nlius bei Kuršius Livonijoje. Kadangi Lietuvai apsikrikštijus\nOrdino egzistencijai Lietuvos pasieniuose nebūtų buvę pagrindo,\ntai jiedu siūlė Ordinui išsikelti į Rusijos pietus, ginti krikščionis\nnuo totorių užpuldinėjimo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178023
+    - t-178021
+
+- id: c-161873
+  citata_originali: |
+    114. Apie mažesnį silkių sugavimą Prūsijoje
+
+       Tais metais Prūsijos žemėje kur kas mažiau buvo pagaunama silkių, kurių ten buvę
+    gausu nuo neatmenamų laikų.
+
+
+
+                   115.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178071
+
+- id: c-161875
+  citata_originali: |
+    Iš kur kilo Nehrung arba Ne-
+    hring - vokiečių kalboje didžiulių
+    smėlio kaupų jūrų įlankose pavadi­
+    nimas [neringa]. Prūsijos dokumen­
+    tuose dar XIII amžiuje ji vadinta Ne­
+    ria. Tad, manau, jog lietuviai seniau
+    vadino Vilija, Neris arba Neria to­
+    dėl, kad ši upė išrausė sau gilią va­
+    gą, suformuodama aukštas smėlin­
+    gas pakrantes.
+  citata_rodoma: "Prūsijos dokumen­\ntuose dar XIII amžiuje ji vadinta Ne­\nria. Tad, manau, jog lietuviai seniau\nvadino Vilija, Neris arba Neria to­\ndėl, kad ši upė išrausė sau gilią va­\ngą, suformuodama aukštas smėlin­\ngas pakrantes."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178057
+
+- id: c-161877
+  citata_originali: |
+    8).
+      Ordinas kariavęs „pagal dievo valią“, todėl, kaip pabrėžia kronikininkas, broliai „nuo
+    tos dienos, kai atkilo į Prūsijos žemę, iki dabar neišleidžia iš rankų kalavijų“ (II, 9).
+      Kronikos tekstas akivaizdžiai rodo, kokiomis žiauriomis priemonėmis, dangstantis
+    krikščionybės platinimo skraiste, buvo plėtojama vokiečių feodalų ir katalikų bažnyčios
+    ekspansija  į baltų žemes.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178076
+
+- id: c-161879
+  citata_originali: |
+    Mažojoje Lietuvoje iškilo ir pirmasis
+    reikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Done-
+    laičio poema „Metai“ (apie 1750). Nors XVIII a. Prūsijoje buvo net oficia-
+    liai vartojamas Lietuvos vardas – įsteigtas Lietuvos departamentas, kurio
+    centras Gumbinė, – ilgainiui dėl germanizacijos ir savaiminio lietuvių
+    vokietėjimo lietuvių kalbos vartojimas Prūsijoje siaurėjo, o po Antrojo
+    pasaulinio karo, iš Prūsijos pasitraukus seniesiems gyventojams, lietuviš-
+    kai kalbančiųjų nebeliko.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178094
+    - t-178095
+
+- id: c-161880
+  citata_originali: |
+    Lapkričio 5 dieną pasidavė Varšuva, kurią
+    gynė ir pasitraukę Lietuvos sukilėliai. Ginant Varšuvą žuvo Lietuvos suki-
+    lėlių vadas J. Jasinskis ir Gegužės trečiosios konstitucijos pataisos autorius
+    T. Korsakas.
+    Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peter-
+    burge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos
+    ir Lietuvos valstybės padalijimo.
+  citata_rodoma: "Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peter-\nburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos \nir Lietuvos valstybės padalijimo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178077
+
+- id: c-161884
+  citata_originali: |
+    IV Band,
+    p. 358-376).
+    1322-ųjų žiemą, po ilgos ramybės, nauja kryžiuočių eks­
+    pedicija patraukė į Prūsiją. Atskirus pulkus vedė: Silezijos
+    kunigaikštis Bernardas iš Svidnicos, grafas Geroldzekas iš
+    Švabijos, abu Reino grafai iš Julicho ir Vildenbergo, didikai
+    iš Lichtenbergo, taip pat Plihta su savo broliu iš Čekijos ir
+    daug kitų riterių.
+  citata_rodoma: "1322-ųjų žiemą, po ilgos ramybės, nauja kryžiuočių eks­\npedicija patraukė į Prūsiją. Atskirus pulkus vedė: Silezijos\nkunigaikštis Bernardas iš Svidnicos, grafas Geroldzekas iš\nŠvabijos, abu Reino grafai iš Julicho ir Vildenbergo, didikai\niš Lichtenbergo, taip pat Plihta su savo broliu iš Čekijos ir\ndaug kitų riterių."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178054
+
+- id: c-161885
+  citata_originali: |
+    Abu rusų valdovai stengėsi savo
+    valstybę stiprinti vakarinio kaimyno sąskaiton. Nuo «nebylių
+    seimo » (1717) į tolimą perspektyvą užmestos Petro politikos vaisius
+    ir buvo carienės Kotrynos II-sios pravesti padalinimai respublikos,
+    kurios trečdalį ji turėjo užleisti Prūsijai ir Austrijai. Tai sudarė
+    visai naują epochą Lietuvos istorijoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178069
+
+- id: c-161887
+  citata_originali: |
+    2. Prūsijos žemės aprašymas
+
+       Prūsijos žemę riboja  iš visų pusių Vysla,  Sūrioji  jūra, Nemunas, Rusios žemė,
+    Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė. Vysla — tai upė, atitekanti nuo
+    Krokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją
+    bei Pomeraniją nuo Prūsijos186.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178083
+
+- id: c-161889
+  citata_originali: |
+    Tačiau, tapęs savo paties intrigų auka, krito Vaidila, kurį Kęs­
+    tutis, kaip to karo kurstytoją, įsakė pakarti. Tuo tarpu Skir­
+    gaila antrąkart grįžo iš Polocko nieko nepešęs, bet sugebėjo
+    pasikalbėti su Jogaila, dar tebesėdėjusiu kalėjime. Gavęs pa­
+    vedimą, nuvyko į Prūsiją ir, remdamasis sandėrio su Ordinu
+    galia, ėmė rengti naujus Kęstučio ir Lietuvos antpuolius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178039
+
+- id: c-161890
+  citata_originali: |
+    Lietuvos istorijoje yra žinomos šven­
+    tos vietovės, senovės lietuvių vadin­
+    tos Romuvomis [ramovėmis], kur
+    vidur šventų girių būdavo garbina­
+    mas Perkūnas ir kur gyveno vyriau­
+    siasis jų vaidila Krivių Krivaitis. Tas
+    Romuvas sunaikino kryžiuočiai, už­
+    ėmę Prūsiją; tačiau nežinia, ar kitos,
+    ar tos pačios iš anos žemės perkel­
+    tos, buvo pačioje Lietuvoje, prie
+    Kauno, ant Nevėžio kranto, .būtent
+    toj vietoj, kur dabar Romainiai. XIII
+    amžiuje tai buvo labai tankiai gyve­
+    nama gyvenvietė, o šventovės ir
+    šventos girios buvo saugomos galin­
+    gos tvirtovės.
+  citata_rodoma: "Tas\nRomuvas sunaikino kryžiuočiai, už­\nėmę Prūsiją; tačiau nežinia, ar kitos,\nar tos pačios iš anos žemės perkel­\ntos, buvo pačioje Lietuvoje, prie\nKauno, ant Nevėžio kranto, ."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178019
+
+- id: c-166472
+  citata_originali: |
+    Priešams naikinant miestus,
+    pirkliai išbėgiojo. To meto Lietuvos miestuose beveik visi
+    pirkliai buvo vokiečiai, kurie, priešams užplūdus, daugumas iš-
+    bėgo į Prūsiją, ypač į Karaliaučių.
+    Vazų laikais, be to, dar pablogėjo ir sąlygos prekybai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183084
+
+- id: c-167254
+  citata_originali: |
+    Didysis kunigaikštis pra­
+    neša, kad jo pageidavimu „garbin-
+    212
+
+    ## Puslapis 229
+
+    III KNYGA
+    laikotarpiu Vilnius su Lenkija dvejus metus beveik jokio
+    ryšio nepalaikė, bet, kita vertus, prekyba visai nenukentė­
+    jo. Rusija visą laiką buvo palanki arba vis dar pakluso svy­
+    ruojančiai Lietuvos galiai. Livonija vis glaudžiau šliejosi prie
+    Prūsijos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183869
+
+- id: c-168463
+  citata_originali: |
+    105
+
+    ## Puslapis 104
+
+    bėgti; Saksonijos riteris Gebhardas, pavijęs to būrio
+    paskutinę eilę, kalaviju nukirto vienam raiteliui gal­
+    vą, tačiau lavonas be galvos bėgo kaip bėgęs nė ne­
+    susvyravęs daugelį varstų, nesitraukdamas iš bėgan­
+    čiųjų rikiuotės ir nenukrisdamas nuo žirgo. Sudeginus
+    po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė
+    buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją. Tenai,
+    nusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­
+    tas, čekų karaliaus Otokaro visai neseniai įkurtas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185102
+
+- id: c-168464
+  citata_originali: |
+    Ka­
+    dangi miestą gynė rinktinių karių įgula, apsuptis
+    buvusi nesėkminga, ji atnešė nemažų nuostolių: čia pra­
+    rasta daug be galo narsių karių, kurie tiltu per Prieg­
+    liaus upę atkakliai veržėsi prie miesto vartų, nepaisy­
+    dami laidomų strėlių ir iečių. Tuo žygiu atgavęs Že­
+    maitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne­
+    norėdamas, kad atrodytų, jog veltui puolęs Prūsiją,
+    sukurstė žmones visame krašte atsimesti nuo kryžiuo­
+    čių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po ke-
+    lerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­
+    čiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie
+    kerštą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185103
+
+- id: c-168465
+  citata_originali: |
+    Į pagalbą buvo sutraukta galybė
+    kariuomenės iš Vokietijos: puikiai ginkluotų karių,
+    patyrusių kariauti vadų; rodėsi, jog nieko netrūksta
+    Prūsijos ir Žemaitijos žemdirbiams išžudyti. Per No-
+    tangos kraštą įžengę į priešų žemę, jie, ketindami per­
+    kelti karo židinį į šalies gilumą, Prūsijos centre parin­
+    P rūsai
+    išsiža d a
+    k r i­
+    k ščio n ių
+    tik ė jim o  ir
+    a tsim e ta
+    n u o
+    k r y ­
+    žiu o čių
+    riuos beįmanė pagauti, žiau­
+    riai nukankino; jie nepaliko
+    neišniekinę nė vienos krikš­
+    čionių
+    šventenybės,
+    kurią
+    tik valiojo pasiekti jų stai­
+    gus įsiūtis. Todėl krikščio-
+    106
+
+    ## Puslapis 105
+
+    ko stovyklai vietą, iš kurios patogu bet kuria krypti­
+    mi puldinėti priešą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185104
+
+- id: c-168466
+  citata_originali: |
+    Ramiai
+    praslinkus pavasariui, vasaros pradžioje prasidėjo nau­
+    ji susirėmimai. Skomantas, neseniai pabėgęs į Prūsiją,
+    netikėtai patraukė su prūsų kariais Gardino kryptimi.
+    Po kruvino antpuolio jis paėmė Gardino pilį, išžudė
+    įgulą, sugriovė arba sudegino visus įtvirtinimus; du
+    tūkstančiai raitelių, pasklidusių niokoti kraštą, išsivarė
+    didžiulį grobį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185105
+
+- id: c-168467
+  citata_originali: |
+    Vis
+    dėlto kryžiuočiai, padarę savo darbą, jau buvo sku­
+    biai pasitraukę, todėl Vytenis ėmė juos vytis grįžtan­
+    čius, tykoti priešo jo žemėje, o vėliau, niekur neuž­
+    tikęs nei pačios kariuomenės, nei stovyklos, bastytis
+    su pulkais po visą kraštą ir niokoti. Beveik tris mė­
+    nesius visą Prūsiją siaubė žudynės ir gaisrai. Tuo tar­
+    pu kryžiuočiai, nedrįsdami sueiti į atvirą kovą su ga­
+    lybe siautėjančių karių, laukė tinkamos progos, galop
+    jie užklupo lietuvius, kai šie, grįždami siaurais keliais,
+    susigrūdo, apsikrovę grobiu, į krūvą, ir beveik visus
+    išžudė, išsigelbėjo nedidelis
+    1294 m e ta i
+    būrelis, kurie su Vyteniu, pa-
+    K ry žiu o č ia i d a u g  k a i-
+    likę kitus karius, išsislapstė
+    tų p u o la  L ie tu vą
+    miškuose.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185106
+
+- id: c-168468
+  citata_originali: |
+    Sėkmingai užbaigti kovos nedavė
+    Bertoldas Briuhavenas, Karaliaučiaus komtūras, pasiųs­
+    tas pagalbon į Livoniją su Prūsijos kryžiuočių daliniu:
+    užpuolęs su nepavargusia kariuomene sunkios apgul-
+    ties išsekintus lietuvius, nugalėjo juos ir išvaikė; dau­
+    gybė žuvo, daugybė nuskendo upėje, per kurią bėg­
+    dami turėjo keltis. Šiek tiek vėliau Vytenis, gal bijo­
+    damas, kad po jo pergalės pablogėjusi Livonijos ordino
+    padėtis, Prūsijos kryžiuočiams suteikus pagalbą ko­
+    voje prieš Rygą, nesustiprėtų, gal norėdamas gandais
+    apie vidaus sąmyšius atgrasinti Prūsijos kryžiuočius
+    nuo karo Livonijoje, o gai trokšdamas atsiteisti už pra­
+    laimėjimą, kurį patyrė prie Nojermiuieno sumušta jo
+    kariauna,
+    pasiuntė
+    keletą
+    P rū sija
+    n io k o ja m a
+    lengvosios raitijos būrių į
+    lie tu v ių
+    Prūsiją
+    pasiieškoti
+    grobio.
+    Šis žygis iš pradžių labai se­
+    kėsi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185107
+
+- id: c-168469
+  citata_originali: |
+    Įgulos vadas Goštautas,
+    nors pats pasidavęs priešams, žuvo nuo nugalėtojų
+    rankų, kai šie susiginčijo dėl belaisvio. Vos priešas pa­
+    sitraukė iš Lietuvos, Kęstutis slaptomis miškų prami-
+    nomis pasileido įpėdin ir užpuolė Prūsiją. Jis nunio­
+    kojo Jurgenburgo apylinkes, išsivarė daugybę belais-
+    248
+
+    ## Puslapis 247
+
+    K ę stu č io
+    ž y g ia i
+    d ė l
+    tė v y n ė s
+    vių ir išsigabeno visokiausio
+    grobio, nė vieno savo kario
+    nepraradęs.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185108
+
+- id: c-168470
+  citata_originali: |
+    Iš pradžių
+    užpuolęs ariergardinę vorą ir būrius, paliktus gurguo­
+    lių apsaugai, jis sumušė priešą ir atsiėmė grobį; po
+    to kuo skubiausiai patraukė su pergalę laimėjusiais
+    kariais prieš patį kariuomenės branduolį. Tačiau kry­
+    žiuočiai, sutrikę dėl ariergardo pralaimėjimo, skubiai
+    pasitraukė į Prūsiją išmetę pakelėse gausų grobį, truk­
+    dantį bėgti. Kurį laiką Kęstutis laikėsi ramiai, tačiau
+    žemėmis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185109
+
+- id: c-168471
+  citata_originali: |
+    Netekęs ka­
+    riuomenės, vargais negalais jis paspruko į Trakus, nors
+    vargstančiai tėvynei būtų daugiau pagelbėjęs, likdamas
+    kautynių lauke: narsia mirtimi būtų užbaigęs nelaimin­
+    gą valdymą ir Lietuvos bėdas. Nugalėtojai, išžudę ko­
+    vos lauke visus laikančius rankose ginklą, negalėdami
+    gauti daugel kartų nuniokotuose kaimuose jokio gro­
+    bio, sugrįžo į Prūsiją. Ten
+    N io k o ja  Ž e m a itiją
+    leidęs šiek tiek kariuomenei
+    pailsėti, vėl įsiveržė į Žemai­
+    tiją, kur nuniokojo dvi apygardas, ligi šiol karo nepa­
+    liestas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185110
+
+- id: c-168472
+  citata_originali: |
+    Šie papildė regulia­
+    riąją kariuomenę paraginę
+    imtis ginklo Prūsijos vyrus, be to, pakvietė nemaža pa­
+    galbininkų iš kitur— iš Silezijos, Austrijos ir visos Vo­
+    kietijos; daug karių susiruošė į šlovės žygį iš Anglijos
+    bei Prancūzijos. Mat teutonų riterių, arba kryžiuočių,
+    ordinas dėl nuolatinių karų tuo metu ten buvo laikomas
+    3 3 5
+
+    ## Puslapis 334
+
+    nelyginant kokia arena, kur galima pelnyti karo šlovę,
+    todėl ne tik išgarsėję savo žygiais bei nuopelnais kariai,
+    bet ir didžiai patyrę karvedžiai, tikėdamiesi pelnyti dar
+    didesnę šlovę, traukė iš visų krikščioniškųjų karalys­
+    čių į Prūsiją. Riterių magistras Konradas su savo bei
+    svetimšalių kariuomene pava-
+    Įsiv e ržia  į L ietu vą
+    sario pabaigoje patraukė į
+    Lietuvą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185111
+
+- id: c-168473
+  citata_originali: |
+    Lietuva juto baisią maisto sto­
+    ką. Norėdamas palengvinti nuniokotos tėvynės dalią,
+    Jogaila įsakė pakrauti visokiais grūdais dvidešimt di­
+    delių laivų ir pasroviui Vysla nuplukdyti į Prūsijos pa­
+    sienį, o iš ten pasieniu vežimais nugabenti viską į Lie­
+    tuvą. Užgrobę visus grūdus,
+    J ie  su daro k elia s pro-
+    gabenamus Vysla, kryžiuočiai
+    gas karu i
+    juos išsivežė kitur.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185112
+
+- id: c-168474
+  citata_originali: |
+    Kai pasidavė Bobrovnikai
+    ir buvo išduotas Bidgoščius, po aštuonių dienų apsup­
+    ties užėmė Zlotoriją. Karalius Jogaila, matydamas tokią
+    kryžiuočių sėkmę, įsakė visoms Lenkijos žemėms stoti
+    į kovą su Prūsija. Mažosios Lenkijos bei Volynės ka­
+    riams paliepė rinktis į Volbožą, Didžiosios Lenkijos —
+    į Lenčicą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185113
+
+- id: c-168475
+  citata_originali: |
+    Mat juodi debesys ap­
+    traukė dangų, pakilo nepaprasta audra, sugriaudėjo
+    perkūnas, ir žaibas nutrenkė du karaliaus kinkinio pa­
+    lydovus, keturis arklius iš šešių ir penktą ginklanešio
+    žirgą.
+    Sugrįžusi iš Prūsijos, lietuvių kariuomenė šiek tiek
+    pailsėjo ir patraukė iš vakarų į rytus. Užvolgio skitai,
+    netekę mirusio chano Saladi-
+    1419 m eta i
+    no, suskilo atskiromis grupė-
+    S k itų  ta u to m s V y ta u -
+    mis: vieni vieną, kiti kitą
+    tas p a s k y r ė  v a ld o v u s
+    mirusio valdovo sūnų siūlė
+    sosto įpėdiniu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185114
+
+- id: c-168476
+  citata_originali: |
+    Kadangi skausmas dėl patirtos skriau­
+    dos, tai yra dėl atimtų žemių, tebuvo tik sušvelnėjus,
+    karaliaus akivaizdoje jie, tiesa, nerodė ypatingo įkar­
+    ščio, tačiau, jam išvykus, vėl
+    K araliui p a v y k s ta  n u-
+    ryžtingai rengdavosi karui ir
+    ram inti
+    griebdavosi ginklų. Štai to­
+    dėl karalius, nusprendęs, jog
+    nėra jokio reikalo malšinti nuolatos stiprėjančio sopu­
+    lio kad ir stipriomis, bet laikinomis priemonėmis, o rei­
+    kia ieškoti tokių vaistų, kurie visiems laikams išgydy­
+    tų negalę, sušaukė, susiruošęs traukti į Prūsiją, Vilniuje
+    lietuvių seimą.
+    Atvyko į jį prieš Velykas gausybė žmonių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185115
+
+- id: c-171697
+  citata_originali: |
+    Šio dievo garbei buvo švenčiama šventė apie gruodžio 25
+    1 Stender. Lettische Grammatik*. Tačiau tai klaidinga išvada, ka­
+    dangi žemės drebėjimų būta Prūsijoje, taigi jie buvo žinomi ir toli­
+    mesnei Lietuvai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188808
+
+- id: c-171698
+  citata_originali: |
+    Tas
+    senovės mitas, primenantis labai reikšmingą Titanų šeimynos
+    asmenį, negalėjo būti nežinomas lietuvių mitologijai.
+    Tačiau Prūsijos kronikininkai linkę manyti, kad šiuo vardu
+    buvo garbinamas senovės kunigaikštis Vaidevutis, neva laiky­
+    tas dievu. Pagal lietuvių mitologijos dvasią galėjo būti taip,
+    kad aukštesniojo dievo mitas vėliau virto legenda apie kuni-
+    92
+
+    ## Puslapis 92
+
+    gaikštį, pirmąjį vyriausiąjį žynį ir tautos įstatymų leidėją, kuris
+    buvo laikomas tautos tėvu, kaip Viršaitis buvo dievų tėvas3.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188809
+
+- id: c-171700
+  citata_originali: |
+    Prūsijos kronikininkai, kurie prisimena, kad jų gyvenimo
+    metais dar būta burtininkų pėdsakų, priskiria jiems ateities
+    išpranašavimą liejant ištirpintą vašką į šaltą vandenį. Šitaip
+    atsirandančios vaškinės figūros ir įvairūs pavidalai teikia pro­
+    gos juokdariams pripūsti lengvatikių galvas visokių niekų. Me-
+    letijus pažino Prūsijoje moterį, kuriai burtininkas šitaip išpra­
+    našavo, kad jos sūnus nuskęsiąs jūroje -  parodė vaškinį sudu­
+    žusį laivą ir aukštielninką plaukiantį žmogų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188811
+
+- id: c-171701
+  citata_originali: |
+    10)**.
+    400
+
+    ## Puslapis 400
+
+    Prūsijos kronikininkai aprašo tautinį senovės prūsų her­
+    bą, kurio kilmė siekia Vaidevučio laikus6. Skyde pavaizduota
+    pusė prūsišku susegtu švarku apsirengusio žmogaus su lokio
+    galva, pasukta kairėn.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188812
+
+- id: c-171702
+  citata_originali: |
+    Juk kuo gi remiasi to reiškinio tiesa, kokie gi stimulai skati-
+    413
+
+    ## Puslapis 413
+
+    na teigti, kad krivis istoriškai realiai egzistavo? Visų pirma kry­
+    žiuočių kronikininko pasakojimas tame pačiame skyrelyje, kur
+    jis aprašo senovės Prūsiją, atitinka tiesą ir negali kelti jokios
+    abejonės. Vos šimtas metų buvo praėję nuo kryžiuočių atsi­
+    kraustymo ir vos truputį daugiau nei keturiasdešimt metų nuo
+    visiško Prūsijos užkariavimo, kai Dusburgietis rašė tą prūsų
+    tautos papročių ir įpročių apybraižą ir kai 1326 metais įteikė
+    savo kroniką didžiajam magistrui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188813
+
+- id: c-171703
+  citata_originali: |
+    Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori­
+    tetas vyriausiojo žynio, Krivių Krivaičio, kurio valdžia anks­
+    čiau apėmė visas lietuvių tautos gyvenamas žemes, tai yra nuo
+    Vyslos iki Dauguvos, nuo Baltijos jūros į Rusios gilumą, kur
+    slavų krivičių tauta taip pat buvusi pavaldi vyriausiajam žy­
+    niui. Jeigu taip iš tikrųjų buvo, tai lengvai rasime tos tautos
+    pavadinimo priežastį, kitaip sakant, kad ta tauta turėjo savo
+    krivius, kaip ir lietuvių genties tautos, tai yra kad laikėsi religi­
+    nių apeigų papročių, vienodų su jų lietuvių apeigomis. Smun­
+    kant tikėjimo dalykams, atėjo ginkluoto atvertimo laikai -  pir­
+    miausia Livonijoje, vėliau Prūsijoje, paskui Lietuvoje, paga­
+    liau Žemaitijoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188814
+
+- id: c-171704
+  citata_originali: |
+    Musa dieniszku mausu dod mums szoden, unpedod muns
+    musu paradus, ka mes pedodam musum paradukam; un ne wed
+    mus kierdi na szane, bet pestino ta launa.
+    Lietuvių kalba, vartojama Prūsijoje, Nemuno žemupyje; imta
+    iš Hartknocho (ten pat):
+    15. 93
+    449
+
+    ## Puslapis 449
+
+    Tewe musu, kuris essi dangui; te essie Swanczamas wardas
+    tawo; te atejg tawo karaliste; te nusi dode tawo walle kaip dau­
+    giu tejp ir ant žemes.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188815
+
+- id: c-171705
+  citata_originali: |
+    42 pav. Senovės prūsų herbas
+    470
+
+    ## Puslapis 465
+
+    VII lentelė
+    Vaizduoja šventą Romovės miestą, buvusį Prūsijoje, Prūsos ir
+    Bysleidos upių santakoje. Aptvare, kurį supa namai, pastatyti šven­
+    tovės tarnams ir pačiam vyriausiajam žyniui, auga žiemą vasarą ža­
+    liuojantis ąžuolas, prie kurio nišose stovi dievų stabai, o prieš juos -
+    aukų deginimo aukuras su nuolat degančia ugnimi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188816
+
+- id: c-175497
+  citata_originali: |
+    Nereikia ir abejoti, kad ne kimbrai buvo pir­
+    mieji žmonės, kuriuos priglobė lietuvių žemės. Mes net
+    laikysime panašia į tiesą nuomonę, jog šios žemės, ypač
+    esančios arčiau jūros, kaip Prūsija, turėjo savo aborige­
+    nų, arba pirmykščių gyventojų, su kuriais susipažino
+    kimbrai. Skaitytojas kituose šios knygos skyriuose ras
+    smulkesnių šio požiūrio įrodymų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192727
+
+- id: c-175498
+  citata_originali: |
+    126
+
+    ## Puslapis 124
+
+    čius; jie kovodavo ir su vėliavomis Pamario kunigaikščio
+    Sventopelko, kai šis kovėsi su prūsais prieš kryžiuočius.
+    Tai jie, klajodami tarp Mazovijos, Prūsijos ir Lietuvos
+    net ligi Drevantos pelkių, lengvino kariaujančių su vo­
+    kiečiais lietuvių ryšius su Pamariu ir Prūsija. Tai vyko
+    su tam tikromis pertraukomis 1242—1253 metais1.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192728
+
+- id: c-175499
+  citata_originali: |
+    Daug kitų Vasilka paėmė į nelaisvę ir pasiun­
+    tė į Haličą savo broliui; visi tuo labai džiaugėsi2.
+    123
+    Kai 1253 metų pradžioje susiklostė draugiški Pamario
+    kunigaikščių ir kryžiuočių santykiai, kurie laidavo jiems
+    saugumą nuo Vyslos pusės, jie tuojau pat ėmė stengtis
+    užkariauti Prūsiją. Ypač vokiečių godumą skatino tur­
+    tinga Sembos provincija, bet šie atkaklūs bandymai ją
+    užkariauti nepavyko.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192729
+
+- id: c-175500
+  citata_originali: |
+    137
+
+    ## Puslapis 135
+
+    kryžiaus vardu jie medžiojo juos po miškus ir neišbren­
+    damas pelkes tarsi laukinius žvėris. Kruvina šio Ordino
+    politika numatė padaryti Sūduvą visiškai negyvenamą,
+    tad jos gyventojai ¡buvo arba iškapoti, arba išgabenti į
+    kitas Prūsijos dalis. Galbūt jie ir buvo likučiai išvestų jot­
+    vingių, kurių palikuonis Strijkovskis pastebėdavo prie
+    Raigardo ir Insterburgo Prūsijoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192730
+
+- id: c-175502
+  citata_originali: |
+    245
+    Tikrosios Prūsijos siena ėjo Vyslos žemupiu, Baltijos
+    jūra ligi Nemunyno žiočių, paskui atsiribojo nuo Rusios
+    siena, kurią parodėme anksčiau (§ 223), net iki Širvintos
+    upės, vėliau žinoma siena su Mazovija, Michalovo ir Dob-
+    rynės žemėmis. Po kurio laiko kryžiuočiai pastūmė sieną
+    ligi Nemuno žemupio, o po 1436 metų susidarė dabartinė
+    siena su Žemaitija (§228). Kadangi Rusios tema mūsų
+    jau pakankamai išnagrinėta, nelaikydami jos atsikira pro­
+    vincija, žiūrėsime į Prūsiją, turinčią vėlesnes ribas, kurios
+    labai nedaug skyrėsi nuo senovinių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192732
+
+- id: c-175504
+  citata_originali: |
+    Tai rodo vabzdžiai, iš kurių pozų matyti, kad buvo už­
+    klupti staiga, bet palengva srūvančių sakų suvilioti tarsi
+    įklimpo juose, kartais netgi poravimosi metu, tačiau dėl
+    kažkokių , priežasčių pateko po žemėmis. Masė įrodinėja,
+    jog jų tėvynė yra Prūsija, o Ragenas mano, kad ten
+    pateko iš šalies.
+    Aš pats mačiau pas poną Hageną migdolus prime­
+    nančius gintarinės palmės vaisius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192734
+
+- id: c-175505
+  citata_originali: |
+    Be to, reikia pridurti nors ir nepilną, tačiau Nestoro
+    išsaugotą jų gyvenimo paveikslą. Jie degindavo mirusių­
+    jų palaikus ir jų pelenus surinkdavo į urnas, o laidotuvių
+    metu rengdavo turnyrus. Visa tai išliko Prūsijoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192735
+
+- id: c-177141
+  citata_originali: |
+    Latviškai Kirpis reiškia kirmi­
+    ną, medžio graužiką, išradėjo vardas virto pavadinimu išrasto
+    daikto, kurį priėmė kaimyninės tautos kalba.
+    Šilinyčius (Syleniczus) yra lietuviškos kilmės, iš Sylla -  šilas;
+    Prūsijos lietuvių kalba Syilenas -  stalius. Todėl šis vardas aiškiai
+    susijęs su kažkokiu mitiniu staliumi, arba stalių dievaičiu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194745
+
+- id: c-177331
+  citata_originali: |
+    Čia dar kartą pakartosime
+    aukščiau minėtą pastabą (§ 25, 26) apie kai kuriuos vie­
+    tinius pokyčius, kuriuos sukėlė dideli potvyniai ar ilga­
+    laikiai smarkūs-šiaurės vėjai. Šie pokyčiai labiausiai pa­
+    veikė Baltijos jūros pakrantes tarp Vyslos ir Dauguvos
+    žiočių; žemės ¡gelmių sluoksniai, linkę į vulkaninius ju­
+    desius, taip pat įrodo, kad kitados Prūsijoje vyko žemės
+    drebėjimai2. Kalbant apie mūsų žemės formavimąsi, ne­
+    1 Vienas milžinas, suspaudęs savo rankoje Atos kalną, nusviedė
+    jį iš Trakijos į Makedoniją (Noet Fr.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194935
+
+- id: c-177332
+  citata_originali: |
+    Priekaištaujama, kad, norint su­
+    skaičiuoti 6000 stadijų, reikia imti visą jūros ilgį. Aes­
+    tuarium, pasak lotyniško Pitėjo vertimo, reiškia negilias,
+    seklias vietas, kurios kartais būva apsemtos, o kartais —
+    sausos; toks aprašymas iš tikrųjų tinka senovės Prūsijai.
+    Sala, kurią Plinijus vadina Baltija, remdamasis visais
+    Hardua rankraščiais ir stebėjimais, turėtų vadintis Basi-
+    lia.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194936
+
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Hartmanas iš Grumbacho]], [[objektai/asmenys/Henrikas iš Veidos]], [Mangoldas [iš Šternbergo]](/objektai/asmenys/Mangoldas%20%5Bi%C5%A1%20%C5%A0ternbergo%5D)
-- Buvo kelionės vieta: [[objektai/asmenys/Abraomas Kulvietis]], [[objektai/asmenys/Adalbertas]], [[objektai/asmenys/Adolfas fon Vintimelis|Adolfas fon Vintimelis (didikas)]], [[objektai/grupes/Anglai]], [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis)]], [[objektai/asmenys/Ditrichas (Meiseno markos valdovas)]], [[objektai/asmenys/Gerhardas|Gerhardas (valdovas)]], [[objektai/asmenys/Gotfridas Hohenlohė]], [[objektai/asmenys/Henrikas (Meiseno markgrafas)]], [[objektai/asmenys/Henrikas iš Kunceno]], [[objektai/asmenys/Henrikas iš Lichtenšteino]], [[objektai/asmenys/Henrikas iš Veidos]], [[objektai/asmenys/Henrikas Lankasteris]], [[objektai/asmenys/Hermanas (Petro iš Rozenbergo dėdė)]], [[objektai/asmenys/Jonas]], [[objektai/asmenys/Jonas (Brandenburgo markgrafas)]], [[objektai/asmenys/Jonas (Čekijos karalius)]], [[objektai/asmenys/Konradas iš Foichtvangeno]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Lenkijos karalystės kariuomenė]], [[objektai/asmenys/Odoničius]], [[objektai/asmenys/Otonas]], [[objektai/asmenys/Otonas (Braunšveigo-Liuneburgo kunigaikštis)]], [[objektai/asmenys/Petras iš Rozenbergo]], [[objektai/asmenys/Pilypas]], [[objektai/grupes/Prancūzai]], [[objektai/asmenys/Samboras]], [[objektai/grupes/Teutonai]], [[objektai/asmenys/Vaidila]], [[objektai/asmenys/Verneris fon Hoinbergas|Verneris fon Hoinbergas (didikas)]], [[objektai/asmenys/Vinrichas Kniprodė]], [[objektai/grupes/Vokiečiai]], [[objektai/grupes/Vokietijos maldininkai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo kelionės vieta: [[objektai/asmenys/Abraomas Kulvietis]], [[objektai/asmenys/Adalbertas]], [[objektai/asmenys/Adolfas fon Vintimelis|Adolfas fon Vintimelis (didikas)]], [[objektai/grupes/Anglai]], [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis)]], [[objektai/asmenys/Ditrichas (Meiseno markos valdovas)]], [[objektai/asmenys/Divonis]], [[objektai/asmenys/Gerhardas|Gerhardas (valdovas)]], [[objektai/asmenys/Gotfridas Hohenlohė]], [[objektai/asmenys/Henrikas (Meiseno markgrafas)]], [[objektai/asmenys/Henrikas iš Kunceno]], [[objektai/asmenys/Henrikas iš Lichtenšteino]], [[objektai/asmenys/Henrikas iš Veidos]], [[objektai/asmenys/Henrikas Lankasteris]], [[objektai/asmenys/Hermanas (Petro iš Rozenbergo dėdė)]], [[objektai/grupes/Herulai]], [[objektai/asmenys/Jonas]], [[objektai/asmenys/Jonas (Brandenburgo markgrafas)]], [[objektai/asmenys/Jonas (Čekijos karalius)]], [[objektai/grupes/Jotvingiai]], [[objektai/asmenys/Konradas iš Foichtvangeno]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Lenkijos karalystės kariuomenė]], [[objektai/asmenys/Odoničius]], [[objektai/asmenys/Otonas]], [[objektai/asmenys/Otonas (Braunšveigo-Liuneburgo kunigaikštis)]], [[objektai/asmenys/Petras iš Rozenbergo]], [[objektai/asmenys/Pilypas]], [[objektai/grupes/Prancūzai]], [[objektai/grupes/Prūsai]], [[objektai/asmenys/Samboras]], [[objektai/grupes/Sūduviai]], [[objektai/grupes/Teutonai]], [[objektai/asmenys/Vaidila]], [[objektai/asmenys/Verneris fon Hoinbergas|Verneris fon Hoinbergas (didikas)]], [[objektai/asmenys/Vinrichas Kniprodė]], [[objektai/grupes/Vokiečiai]], [[objektai/grupes/Vokietijos maldininkai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Mirties vieta: [[objektai/asmenys/Henrikas iš Kunceno]], [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]
 - Puolė Prūsiją: [[objektai/asmenys/Aleksandras Karijotaitis]], [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]], [[objektai/grupes/Žemaičiai]]
@@ -4042,5 +7765,5 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
 - Prekiavo su: [[objektai/grupes/Lietuviai]], [[objektai/vietos/Vilnius]]
 - Buvo užkariauta: [[objektai/grupes/Kryžiuočių ordinas]]
 - Gyvenamoji vieta: [[objektai/asmenys/Kristijonas|Kristijonas (vyskupas, XIII a.)]], [[objektai/asmenys/Krivis]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Prūsijos lietuviai]], [[objektai/asmenys/Simonas Grunau]], [[objektai/asmenys/Vilhelmas iš Modenos|Vilhelmas iš Modenos (vyskupas, XIII–XIV a.)]]
-- Turėjo priklausinį: [[objektai/vietos/Barta]], [[objektai/vietos/Galinda]], [[objektai/vietos/Gunlaukenas]], [[objektai/vietos/Klaipėda]], [[objektai/vietos/Kulmas]], [[objektai/vietos/Lubava]], [[objektai/vietos/Lubavas]], [[objektai/vietos/Nadruva]], [[objektai/vietos/Naujoji Prūsija]], [[objektai/vietos/Notanga]], [[objektai/vietos/Pamedė]], [[objektai/daiktai/Pėstininkų muškieta titnagine spyna]], [[objektai/daiktai/Pilys]], [[objektai/vietos/Plikoji Barta]], [[objektai/daiktai/Prūsijos hercogo Albrechto herbas]], [[objektai/vietos/Rizenburgas]], [[objektai/vietos/Romovė]], [[objektai/vietos/Romučiai]], [[objektai/vietos/Skalva]], [[objektai/vietos/Sūduva]], [[objektai/vietos/Užnemunė]], [[objektai/vietos/Varmė]], [[objektai/vietos/Vartenburgas]]
+- Turėjo priklausinį: [[objektai/vietos/Barta]], [[objektai/vietos/Galinda]], [[objektai/vietos/Gunlaukenas]], [[objektai/vietos/Klaipėda]], [[objektai/vietos/Kulmas]], [[objektai/vietos/Lubava]], [[objektai/vietos/Lubavas]], [[objektai/vietos/Nadruva]], [[objektai/vietos/Naujoji Prūsija]], [[objektai/vietos/Notanga]], [[objektai/vietos/Pamedė]], [[objektai/daiktai/Pėstininkų muškieta titnagine spyna]], [[objektai/daiktai/Pilys]], [[objektai/vietos/Plikoji Barta]], [[objektai/daiktai/Prūsijos hercogo Albrechto herbas]], [[objektai/vietos/Rizenburgas]], [[objektai/vietos/Romovė]], [[objektai/vietos/Romučiai]], [[objektai/vietos/Salavija]], [[objektai/vietos/Semba]], [[objektai/vietos/Skalva]], [[objektai/vietos/Sūduva]], [[objektai/vietos/Užnemunė]], [[objektai/vietos/Varmė]], [[objektai/vietos/Vartenburgas]]
 - Prūsija priklausė [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/vietos/Lenkija]], [[objektai/grupes/Teutonai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

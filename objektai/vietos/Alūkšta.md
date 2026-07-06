@@ -14,6 +14,18 @@ tags:
   - vieta
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Alūkšta
 
@@ -26,9 +38,25 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
 <a id="claim-t-21342"></a>
 - t-001
   global_id: t-21342
-  teiginys: '1917 m. Berno konferencijoje Alūkštos apskritį Kurše iki Dauguvos upės numatyta įtraukti į būsimos Lietuvos teritoriją.'
+  teiginys: "1917 m. Berno konferencijoje Alūkštos apskritį Kurše iki Dauguvos upės numatyta įtraukti į būsimos Lietuvos teritoriją."
+  semantiniai_rysiai: "Alūkšta priklausė Kuršas (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1917 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys per stipriai susiejo Alūkštą su reikalavimu; citata aiškiau remia įtraukimą į teritorijos sampratą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "260732-261703; hash=b911b7b24a1758358d3f414a75e5b93052e7f5bf0e627914d37744c90f8a4cd2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Kuršas: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Alūkšta: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Kuršas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Frazė nurodo, kad Alūkštos apskritis buvo Kurše."
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
+    - c-24041
 - susijęs iš [[objektai/asmenys/Jurgis Šaulys.md#claim-t-19033|Jurgis Šaulys]]: Jurgis Šaulys 1917 m. lapkričio 2–10 d. dalyvavo Berno konferencijoje kaip Lietuvos Tarybos prezidiumo narys.
 - susijęs iš [[objektai/asmenys/Steponas Kairys.md#claim-t-64123|Steponas Kairys]]: Steponas Kairys 1917 m. lapkričio 2–10 d. dalyvavo Berno konferencijoje kaip Lietuvos Tarybos prezidiumo narys.
 - susijęs iš [[objektai/posakiai/„Lithuania Propria“.md#claim-t-67315|„Lithuania Propria“]]: 1917 m. Berno konferencijoje būsimos Lietuvos teritoriją siūlyta formuoti etnografiniu principu „Lithuania Propria“ ribose.
@@ -62,11 +90,38 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
     be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti
     ir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-24041
+  citata_originali: |
+    Reali valdžia Tarybai nebuvo suteikta, tad ji ėmėsi sunkaus
+    vaidmens – tarpininkės tarp lietuvių tautos ir Oberosto, stengdamasi pa-
+    sinaudoti Vokietijoje prasibrėžiančiais skirtumais tarp kaizerio, Užsienio
+    reikalų ministerijos ir Reichstago centro (katalikų) deputatų ir trukdyti
+    Lietuvos aneksijos planus.
+    Viena iš svarbiausių diskusijos temų – būsimos Lietuvos teritorija.
+    Europos ir JAV lietuvių atstovų Berno konferencijoje 1917 m. lapkričio
+    2–10 d., kurioje dalyvavo ir visas Lietuvos Tarybos prezidiumas (A. Sme-
+    tona, Steponas Kairys, J. Šaulys) bei užsienio lietuvių atstovai, pasisakyta
+    už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose:
+    Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko
+    apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis),
+    be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti
+    ir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais).
+  citata_rodoma: "apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis),"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-21342
 
 ## Ryšiai
 - Alūkšta priklausė [[objektai/vietos/Kuršas]]

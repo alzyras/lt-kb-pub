@@ -14,6 +14,18 @@ tags:
   - ivykis
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jotvingių ir lietuvių prisidėjimas prie pamarėnų-prūsų sąjungos (1245 m.)
 
@@ -42,10 +54,24 @@ Nenurodyta
 <a id="claim-t-62809"></a>
 - t-001
   global_id: t-62809
-  teiginys: '1245 m. prie pamarėnų ir prūsų sąjungos prisidėjo jotvingiai ir lietuviai.'
+  teiginys: "1245 m. prie pamarėnų ir prūsų sąjungos prisidėjo jotvingiai ir lietuviai."
+  teiginio_tipas: "faktas"
+  semantiniai_rysiai: "Jotvingiai buvo sąjungininkas su Pamarėnai (0.86); Lietuviai buvo sąjungininkas su Pamarėnai (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1245 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys glaustai ir tiksliai perteikia citatos faktą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "19567-19779; hash=288c035aa386a08604f7a92a19d153b834a6219803bdb9c645a35e4c85755188; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Pamarėnai: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jotvingiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Pamarėnai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Jotvingių prisidėjimas prie pamarėnų-prūsų sąjungos tiesiogiai rodo sąjunginį ryšį su pamarėnais."
   pagrindžia:
-    - c-001
-
+    - c-63619
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -57,8 +83,25 @@ Nenurodyta
     liudija 1245 m. dokumentai. Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai  ir
     lietuviai29.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-63619
+  citata_originali: |
+    Kryžiuočiai patyrė pirmą nuo pat
+    atsikraustymo  į pavyslį tokio masto pralaimėjimą28. Lietuvių—prūsų bendradarbiavimą
+    liudija 1245 m. dokumentai. Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai  ir
+    lietuviai29.
+  citata_rodoma: "Kryžiuočiai patyrė pirmą nuo pat\natsikraustymo  į pavyslį tokio masto pralaimėjimą28. Lietuvių—prūsų bendradarbiavimą\nliudija 1245 m. dokumentai. Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai  ir\nlietuviai29."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-62809

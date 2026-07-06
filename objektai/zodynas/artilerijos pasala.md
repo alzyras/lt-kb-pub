@@ -9,6 +9,18 @@ tags:
   - ginklas
   - karas
   - sąvoka
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # artilerijos pasala
 
@@ -21,10 +33,21 @@ Pergalė prie Oršos buvo didžiausias Konstantino Ostrogiškio karinis triumfas
 <a id="claim-t-42432"></a>
 - t-001
   global_id: t-42432
-  teiginys: 'Per Oršos mūšį atsitraukianti kariuomenė atviliojo priešą į artilerijos pasalą.'
+  teiginys: "Per Oršos mūšį atsitraukianti kariuomenė atviliojo priešą į artilerijos pasalą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "346875-347593; hash=398b2447d3c160f21eac353abce58576453285381656a75b725c6aeab01b8c22; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Artilerija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "artilerijos pasala: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Artilerija: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"artilerijos pasala\" parinktas kaip owner_note_path. Targetas \"Artilerija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-13T14:20:43Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
-
+    - c-45502
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -58,8 +81,47 @@ Pergalė prie Oršos buvo didžiausias Konstantino Ostrogiškio karinis triumfas
     Žygimanto Senojo kalavijas su
     Lietuvos ir Lenkijos herbais. XVI a.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-45502
+  citata_originali: |
+    vėl atiteko Mstislavlis, Dubrovnos,
+    Kryčevo pilys. Pergalė prie Oršos buvo
+    didžiausias Konstantino Ostrogiškio
+    karinis triumfas, ją pasiekiant didelę
+    reikšmę turėjo šio didžiojo etmono
+    vadovavimo sugebėjimai, jo kariuo-
+    menės kovinės savybės, suderinti
+    kariuomenės dalių veiksmai, puikūs
+    taktiniai manevrai - atsitraukiant
+    priešas atviliotas į artilerijos pasalą
+    (dažnai teigiama, kad tai pirmoji
+    žinoma artilerijos pasala pasau-
+
+    lio karybos istorijoje) ir pavykusios
+    karinės gudrybės (parodomaisiais
+    veiksmais atitrauktas priešo dėme-
+    sys nuo kitoje vietoje statomo tilto),
+    išnaudota iniciatyva ir karo inži-
+    nerijos galimybės (pastatytas
+
+    |
+
+    iai V
+
+    Žygimanto Senojo kalavijas su
+    Lietuvos ir Lenkijos herbais. XVI a.
+  citata_rodoma: "Pergalė prie Oršos buvo\ndidžiausias Konstantino Ostrogiškio\nkarinis triumfas, ją pasiekiant didelę\nreikšmę turėjo šio didžiojo etmono\nvadovavimo sugebėjimai, jo kariuo-\nmenės kovinės savybės, suderinti\nkariuomenės dalių veiksmai, puikūs\ntaktiniai manevrai - atsitraukiant\npriešas atviliotas į artilerijos pasalą\n(dažnai teigiama, kad tai pirmoji\nžinoma artilerijos pasala pasau-\n\nlio karybos istorijoje) ir pavykusios\nkarinės gudrybės (parodomaisiais\nveiksmais atitrauktas priešo dėme-\nsys nuo kitoje vietoje statomo tilto),\nišnaudota iniciatyva ir karo inži-\nnerijos galimybės (pastatytas\n\n|\n\niai V\n\nŽygimanto Senojo kalavijas su\nLietuvos ir Lenkijos herbais."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-42432

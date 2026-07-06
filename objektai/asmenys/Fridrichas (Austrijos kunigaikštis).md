@@ -18,6 +18,18 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Fridrichas (Austrijos kunigaikštis)
 
@@ -25,6 +37,20 @@ periodo_grupes:
 
 Dusburgietis teigia, kad fridrichas (Austrijos kunigaikštis) sušakosiąs ir ateityje duosiąs gausybę vaisių, štai todėl visi mūsų aukščiau suminėti valdovai priėjo nuomonės, kad ponas Fridrichas, Svabijos kunigaikštis, turįs pasiųsti oficialius legatus pas savo brolį šviesiausiąjį valdovą Henriką VI, Romos karalių, busimąjį imperatorių, kuris privaląs paprašyti jo šventenybę popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti. Dusburgietis teigia, kad apie tai, kaip dėl nesantarvės Liudvikas iš Bavarijos ir Fridrichas, Austrijos kuni­ gaikštis, buvo išrinkti Romos karaliais Tų pačių metų spalio 21 dieną Liudvikas iš Bavarijos ir Fridrichas, Austrijos kunigaikštis, dėl nesantarvės vienu metu buvo išrinkti.
 
+## Teiginiai
+
+<a id="claim-t-194481"></a>
+- t-001
+  global_id: t-194481
+  teiginys: "Apie tai, kaip dėl nesantarvės Liudvikas iš Bavarijos ir Fridrichas, Austrijos kuni gaikštis, buvo išrinkti Romos karaliais Tų pačių metų spalio 21 dieną Liudvikas iš Bavarijos ir Fridrichas, Austrijos kunigaikštis, dėl nesantarvės vienu metu buvo išrinkti."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "741506-742184; hash=232def42700b6b5f970e03d1c5fd559ec1689ea8cc77839cb7b7e1460c447b30; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-60749
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,9 +72,11 @@ Dusburgietis teigia, kad fridrichas (Austrijos kunigaikštis) sušakosiąs ir at
                     118.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindžia:
+    - t-001
 
 - c-002
   santrauka: 'Austrijos kunigaikštis Fridrichas buvo tarp Vokietijos didikų, dalyvavusių svarstant ką tik įsteigtos ligoninės ateitį.'
@@ -84,3 +112,27 @@ Dusburgietis teigia, kad fridrichas (Austrijos kunigaikštis) sušakosiąs ir at
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Citatos
+
+- id: c-60749
+  citata_originali: |
+    Apie tai, kaip dėl nesantarvės Liudvikas iš Bavarijos ir Fridrichas, Austrijos kuni­
+                               gaikštis, buvo išrinkti Romos karaliais
+
+      Tų pačių metų spalio 21 dieną Liudvikas iš Bavarijos ir Fridrichas, Austrijos kunigaikštis,
+    dėl nesantarvės vienu metu buvo išrinkti Romos karaliais tada, kai apaštališkasis sostas
+    28 mėnesius buvo neužimtas, o ši juodviejų nesantarvė truko ligi 1322 viešpaties metų,
+    kol Liudvikas, Bavarijos kunigaikštis, po daugybės karų, vykusių tarp juodviejų, švento
+    Mykolo išvakarėse (rugsėjo 28) paėmė mūšyje į nelaisvę Fridrichą, Austrijos kunigaikštį,
+    ir išlaikė suimtą dvejus metus. Po to jiedu susitaikė.
+
+
+
+                    118.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194481

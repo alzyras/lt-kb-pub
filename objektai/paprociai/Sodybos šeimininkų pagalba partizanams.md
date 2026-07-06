@@ -5,6 +5,18 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Sodybos šeimininkų pagalba partizanams
 
@@ -31,26 +43,34 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-09597"></a>
-- t-001
+- t-005
   global_id: t-09597
-  teiginys: 'Sodybų šeimininkai stebėdavo aplinką ir pranešdavo partizanams apie pavojų.'
+  teiginys: "Sodybų šeimininkai stebėdavo aplinką ir pranešdavo partizanams apie pavojų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "911071-911709; hash=d2b5fdcffe6c345175d35549bbf7742bc87a35e9b7526e546f66103998d2d70a; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   pagrindžia:
-    - c-001
+    - c-12349
 
 <a id="claim-t-09598"></a>
-- t-002
+- t-004
   global_id: t-09598
-  teiginys: 'Sodybų šeimininkai aprūpindavo partizanus maistu ir kitomis būtinomis priemonėmis.'
+  teiginys: "Sodybų šeimininkai aprūpindavo partizanus maistu ir kitomis būtinomis priemonėmis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "911071-911709; hash=d2b5fdcffe6c345175d35549bbf7742bc87a35e9b7526e546f66103998d2d70a; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   pagrindžia:
-    - c-001
+    - c-12349
 
 <a id="claim-t-09599"></a>
-- t-003
+- t-006
   global_id: t-09599
-  teiginys: 'Demaskavus slėptuvę nukentėdavo ir sodybos šeimininkai: sodyba dažnai būdavo sudeginama, o gyvi likę šeimininkai ištremiami.'
+  teiginys: "Demaskavus slėptuvę nukentėdavo ir sodybos šeimininkai: sodyba dažnai būdavo sudeginama, o gyvi likę šeimininkai ištremiami."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "911071-911709; hash=d2b5fdcffe6c345175d35549bbf7742bc87a35e9b7526e546f66103998d2d70a; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   pagrindžia:
-    - c-001
-
+    - c-12349
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -65,10 +85,33 @@ Nenurodyta
     ir šeimininkai, sodyba šturmo metu, ar po jo, dažnai būdavo sudeginama, šeimininkai,
     jei likdavo gyvi, ištremiami.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
     - t-003
+
+## Citatos
+
+- id: c-12349
+  citata_originali: |
+    Okupacijos pradžioje laisvės kovotojai laikydavosi miško stovyklose ar apsistodavo pas
+    ūkininkus. Okupacinėms pajėgoms pradėjus dominuoti vietovėje, žaliukams teko įsirengti
+    gerai užmaskuotas slėptuves. Slėptuvę būdavo patogu įsirengti pas žmones sodyboje - po
+    krosnimi, tarp dviejų pastato sienų, šuliniuose ir pan. Sodybos šeimininkai aprūpindavo
+    partizanus maistu ir kitomis būtinomis priemonėmis, jie stebėdavo aplinką ir pranešdavo
+    partizanams apie pavojų, tačiau slėptuvę demaskavus nukentėdavo ne tik partizanai, bet
+    ir šeimininkai, sodyba šturmo metu, ar po jo, dažnai būdavo sudeginama, šeimininkai,
+    jei likdavo gyvi, ištremiami.
+  citata_rodoma: "Sodybos šeimininkai aprūpindavo\npartizanus maistu ir kitomis būtinomis priemonėmis, jie stebėdavo aplinką ir pranešdavo\npartizanams apie pavojų, tačiau slėptuvę demaskavus nukentėdavo ne tik partizanai, bet\nir šeimininkai, sodyba šturmo metu, ar po jo, dažnai būdavo sudeginama, šeimininkai,\njei likdavo gyvi, ištremiami."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-09598
+    - t-09597
+    - t-09599

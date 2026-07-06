@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Liepoja-Romnai
 
@@ -19,10 +31,19 @@ Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis Peterbur
 <a id="claim-t-21555"></a>
 - t-001
   global_id: t-21555
-  teiginys: 'Septintąjį–aštuntąjį dešimtmetį Lietuvą kirto geležinkelio linija Liepoja–Romnai.'
+  teiginys: "Septintąjį–aštuntąjį dešimtmetį Lietuvą kirto geležinkelio linija Liepoja–Romnai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "229988-230605; hash=6de2fbfc971d9492b1e7c91b80afd6a4e7ab114f2ccfd235d3f8c375287e9e6d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Liepoja-Romnai: owner_note_path, place"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liepoja-Romnai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-24244
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -38,8 +59,30 @@ Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis Peterbur
     Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių
     (Kenigsbergą), linija Liepoja–Romnai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-24244
+  citata_originali: |
+    Absoliučią tautos daugumą sudarė valstiečiai, apie 26 000 lietuvių
+    dirbo pramonės įmonėse ir vertėsi amatais, inteligentijai santykinai
+    priklausė apie 5 000 lietuvių: kunigai, mokytojai, gydytojai, tarnautojai,
+    bajorai – štai lietuvių šviesuomenės dalis, kuri tiesė kelią lietuvių virti-
+    mui modernia tauta. Ekonominio augimo raidą skatino XIX a. viduryje
+    pradėjusios veikti pirmosios telegrafo linijos, Nemune pradėta garlaivių
+    navigacija. Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis
+    Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių
+    (Kenigsbergą), linija Liepoja–Romnai.
+  citata_rodoma: "Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-21555

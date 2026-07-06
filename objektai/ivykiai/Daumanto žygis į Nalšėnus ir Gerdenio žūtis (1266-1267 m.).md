@@ -14,6 +14,18 @@ tags:
   - ivykis
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Daumanto žygis į Nalšėnus ir Gerdenio žūtis (1266-1267 m.)
 
@@ -42,10 +54,22 @@ Nenurodyta
 <a id="claim-t-31409"></a>
 - t-001
   global_id: t-31409
-  teiginys: 'Gerdenis pralaimėjo Daumantui, pasitraukė su kariuomenės likučiais, o per kitą Daumanto žygį į Nalšėnus 1267 m. žiemą žuvo.'
+  teiginys: "Gerdenis pralaimėjo Daumantui, pasitraukė su kariuomenės likučiais, o per kitą Daumanto žygį į Nalšėnus 1267 m. žiemą žuvo."
+  semantiniai_rysiai: "Daumantas (kunigaikštis, XV a.) surengė žygį į Nalšėnai (0.88)"
+  temporaliniai_duomenys: "įvykio data: 1267 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "554406-554589; hash=384fa7505973f31db05045675e2cacc274929dd9b265ef3ef628f6dcdb75c68b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Nalšėnai: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Daumantas (kunigaikštis, XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Nalšėnai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai įvardija Daumanto žygį į Nalšėnus."
   pagrindžia:
-    - c-001
-
+    - c-33387
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -56,8 +80,25 @@ Nenurodyta
     m. žiemą) ir pats žuvo^219. Apie jo sūnus yra žinoma, kad jie
     išaugo stačiatikiais.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33387
+  citata_originali: |
+    VI). Gerdenis pralaimėjo ir tik
+    su likučiais išsigelbėjo, o kitame Daumanto žygyje į Nalšėnus (1267
+    m. žiemą) ir pats žuvo^219. Apie jo sūnus yra žinoma, kad jie
+    išaugo stačiatikiais.
+  citata_rodoma: "Gerdenis pralaimėjo ir tik\nsu likučiais išsigelbėjo, o kitame Daumanto žygyje į Nalšėnus (1267\nm. žiemą) ir pats žuvo^219. Apie jo sūnus yra žinoma, kad jie\nišaugo stačiatikiais."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31409

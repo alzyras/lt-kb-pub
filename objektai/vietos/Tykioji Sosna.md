@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Tykioji Sosna
 
@@ -19,10 +31,44 @@ Prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius. Tyk
 <a id="claim-t-187362"></a>
 - t-001
   global_id: t-187362
-  teiginys: 'Lietuvos metraštis pasakoja, kad prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius.'
+  teiginys: "Lietuvos metraštis pasakoja, kad prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius."
+  teiginio_tipas: "faktas"
+  semantiniai_rysiai: "Maskvėnai puolė Tykioji Sosna (0.78)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "178036-178422; hash=2f333367391eec4f6977b78af889a3982105896db9b9d5f773bdac8560faff6d; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  ryšio_patikimumas: "puole -> Tykioji Sosna: 0.78"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Maskvėnai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Tykioji Sosna: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Maskvėnų užpuolimo vieta tiesiogiai nurodyta prie Tykiosios Sosnos."
+  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
+    - c-170376
 
+<a id="claim-t-187362"></a>
+- t-001
+  global_id: t-187362
+  teiginys: "Lietuvos metraštis pasakoja, kad prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius."
+  teiginio_tipas: "faktas"
+  semantiniai_rysiai: "Maskvėnai puolė Tykioji Sosna (0.78)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "178036-178422; hash=2f333367391eec4f6977b78af889a3982105896db9b9d5f773bdac8560faff6d; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  ryšio_patikimumas: "puole -> Tykioji Sosna: 0.78"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Maskvėnai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Tykioji Sosna: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Maskvėnų užpuolimo vieta tiesiogiai nurodyta prie Tykiosios Sosnos."
+  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-170376
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -37,12 +83,34 @@ Prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius. Tyk
     prie Tykiosios Sosnos 3  užpuolė Vytauto valdinius se-
     verskiečius, atėmė iš jų du bebrus ir tris statines me-
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+
+## Citatos
+
+- id: c-170376
+  citata_originali: |
+    Ir suspindo žvaigždės kaip naktį, ir
+    švietė tris valandas:.
+    Štai kas nutiko po šito dangaus ženklo didžiajam
+    kunigaikščiui Vytautui, draugiškai sugyvenusiam su
+    savo žentu, Maskvos didžiuoju kunigaikščiu Vasilijumi
+    Dimitrijevičiumi. Maskvėnai, atsibastę netoli Putivlio,
+    prie Tykiosios Sosnos 3  užpuolė Vytauto valdinius se-
+    verskiečius, atėmė iš jų du bebrus ir tris statines me-
+  citata_rodoma: "Maskvėnai, atsibastę netoli Putivlio, \nprie Tykiosios Sosnos 3  užpuolė Vytauto valdinius se- \nverskiečius, atėmė iš jų du bebrus ir tris statines me-\ndaus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187362
+    - t-187363
 
 ## Ryšiai
 - Puolė Tykioji Sosną: [[objektai/grupes/Maskvėnai]]

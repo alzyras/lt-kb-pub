@@ -5,17 +5,13 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1432 m.'
   - '2026 m.'
 date_start: '1432'
 date_end: '2026'
-description: 'Silezija minima kaip Vilniaus prekybos ir migracijos kryptis: 1432 m. Vroclavo pirkliai vyko į Lietuvą, o amatininkai kūrėsi Vilniuje.'
-socialDescription: 'Silezija Lietuvos istorijoje siejama su Vilniaus prekyba, Vroclavo pirkliais, iš Vokietijos žemių atvykusiais amatininkais ir Byčinos mūšiu.'
-seo_atnaujinta: '2026-07-02T23:12:35.449263+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,97 +21,256 @@ tags:
 amziai:
   - 'XV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Silezija
 
 ## Santrauka
 
-Silezija Lietuvos istorijos kontekste minima kaip svarbi Vilniaus prekybinių ryšių kryptis, pasiekta Vytauto ir Švitrigailos laikais. 1432 m. Silezijos, ypač Vroclavo, gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su prekėmis. Iš Silezijos ir kitų Vokietijos žemių į Vilnių kėlėsi amatininkai, o ties Byčina Maksimilijonas pralaimėjo mūšį ir pateko į Zamoiskio nelaisvę.
+Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties Byčina) pralaimėjo mūšį, pateko Zamoiskiui į nelaisvę ir buvo priverstas atsisakyti nuo sosto.
 
 ## Teiginiai
 
 <a id="claim-t-95160"></a>
-- t-001
+- t-004
   global_id: t-95160
-  teiginys: 'Anų laikų Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos ir rusų miestų, su kuriais buvo prekiaujama nuo seno.'
+  teiginys: "Anų laikų Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos ir rusų miestų, su kuriais buvo prekiaujama nuo seno."
+  semantiniai_rysiai: "Vilnius prekiavo su Silezija (0.82); Vilnius prekiavo su Ryga (0.82)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "429105-429645; hash=24fa86eb4931af9307e82fc0a58a02250fa6cb2123f66107f3d35c86b73564e6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Ryga: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Ryga: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad su Ryga buvo prekiaujama nuo seno."
   pagrindžia:
-    - c-002
+    - c-90134
 
 <a id="claim-t-95161"></a>
-- t-002
+- t-009
   global_id: t-95161
-  teiginys: '1432 m. Silezijos, ypač Vroclavo, gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su prekėmis.'
+  teiginys: "1432 m. Silezijos, ypač Vroclavo, gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su prekėmis."
+  semantiniai_rysiai: "Silezija prekiavo su Vilnius (0.82); Silezija prekiavo su Lietuva (0.80); Vroclavas prekiavo su Vilnius (0.76)"
+  temporaliniai_duomenys: "įvykio data: 1432 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys faktinis, bet reikia pataisyti OCR ir sutrumpinti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "430742-431170; hash=1b09e5b1d79f3b3e6d7d13fc8b0c2a5b4c74908865e787ac2a732f0c795d7bb8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Vilnius: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Silezija: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sieja Sileziją su prekių atvykimu į Vilnių."
   pagrindžia:
-    - c-005
+    - c-90137
 
 <a id="claim-t-95162"></a>
-- t-003
+- t-005
   global_id: t-95162
-  teiginys: '1432 m. Silezijos, ypač Vroclavo, gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su savo prekėmis.'
+  teiginys: "1432 m. Silezijos, ypač Vroclavo, gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su savo prekėmis."
+  semantiniai_rysiai: "Silezija prekiavo su Vilnius (0.82); Silezija prekiavo su Lietuva (0.80); Vroclavas prekiavo su Vilnius (0.76)"
+  temporaliniai_duomenys: "įvykio data: 1432 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Silezijos gyventojų keliones į Lietuvą ir Vilnių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "430873-431453; hash=c908dc4f788ee51d654f217f60bec163d695ee80244062303980d7d1888d3491; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Vilnius: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Silezija: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Silezijos gyventojų atvykimą į Vilnių su prekėmis."
   pagrindžia:
-    - c-004
+    - c-90136
 
 <a id="claim-t-95163"></a>
-- t-004
+- t-012
   global_id: t-95163
-  teiginys: 'Silezijoje, ties Byčina, Maksimilijonas pralaimėjo mūšį, pateko į Zamoiskio nelaisvę ir atsisakė sosto.'
+  teiginys: "Silezijoje, ties Byčina, Maksimilijonas pralaimėjo mūšį, pateko į Zamoiskio nelaisvę ir atsisakė sosto."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "606630-606991; hash=6b36c4ff5ef4ca9683b972a2cbd2dda0284c82635dfac51e52a6c9184d03a8c7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Silezija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Silezija\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-90135
 
 <a id="claim-t-95164"></a>
-- t-005
+- t-011
   global_id: t-95164
-  teiginys: 'Silezijos kunigaikščiai buvo tarp susirinkimo dalyvių kartu su Vokietijos pasiuntiniais ir Hanzos atstovais.'
+  teiginys: "Silezijos kunigaikščiai buvo tarp susirinkimo dalyvių kartu su Vokietijos pasiuntiniais ir Hanzos atstovais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "523336-523905; hash=8831aaa45c4f9669960a6fd62ecfd05ade86254f4c0bbc23cca78b194e26c714; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Hanza: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Silezija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Hanza: mention_match, group, gap=91"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Silezija\" parinktas kaip owner_note_path. Targetas \"Hanza\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-90141
 
 <a id="claim-t-95165"></a>
 - t-006
   global_id: t-95165
-  teiginys: 'Švitrigaila prašė garantijų Hansui Tscheizui, jo svainiui Mikalojui Sachsei ir dvariškiams, vykusiems su reikalais į Sileziją.'
+  teiginys: "Švitrigaila prašė garantijų Hansui Tscheizui, jo svainiui Mikalojui Sachsei ir dvariškiams, vykusiems su reikalais į Sileziją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "431454-431826; hash=05c7189edf10dc248b3539a40317a34524ddbefe8f84ee35aae754e1e7af1a0d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> maršalka: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Silezija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "maršalka: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Silezija\" parinktas kaip owner_note_path. Targetas \"maršalka\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-90138
 
 <a id="claim-t-95166"></a>
-- t-007
+- t-010
   global_id: t-95166
-  teiginys: 'Švitrigaila prašė garantijų Hansui Tscheizui, jo svainiui Mikalojui Sachsei ir dvariškiams, vykusiems į Sileziją.'
+  teiginys: "Švitrigaila prašė garantijų Hansui Tscheizui, jo svainiui Mikalojui Sachsei ir dvariškiams, vykusiems į Sileziją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "431454-431826; hash=05c7189edf10dc248b3539a40317a34524ddbefe8f84ee35aae754e1e7af1a0d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> maršalka: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Silezija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "maršalka: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Silezija\" parinktas kaip owner_note_path. Targetas \"maršalka\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-90138
 
 <a id="claim-t-95167"></a>
-- t-008
+- t-003
   global_id: t-95167
-  teiginys: 'Į Vilnių atvyko nemažai amatininkų iš Vokietijos, įskaitant Saksoniją, Sileziją, Liubeką ir kitus Hanzos miestus.'
+  teiginys: "Į Vilnių atvyko nemažai amatininkų iš Vokietijos, įskaitant Saksoniją, Sileziją, Liubeką ir kitus Hanzos miestus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "72813-73456; hash=7008859c6d0089dd1f4f696e73c80f815e81fdac572a61852cbb414b7b496046; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Hanza: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Silezija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Hanza: mention_match, group, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Silezija\" parinktas kaip owner_note_path. Targetas \"Hanza\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-90133
 
 <a id="claim-t-95168"></a>
-- t-009
+- t-007
   global_id: t-95168
-  teiginys: 'Į Vilnių atvykęs Žygimantas buvo Silezijos Glogovo kunigaikštis ir mirusio karaliaus brolis.'
+  teiginys: "Į Vilnių atvykęs Žygimantas buvo Silezijos Glogovo kunigaikštis ir mirusio karaliaus brolis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "477200-477655; hash=2417c7e119690ce002dfaefd39b4f4ab49496a634388d6e1e649433e92806e51; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Silezija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Silezija\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-90139
 
 <a id="claim-t-95169"></a>
-- t-010
+- t-008
   global_id: t-95169
-  teiginys: 'Į Vilnių atvykę amatininkai iš Silezijos ir kitų Vokietijos žemių tapo turtingiausiu miesto gyventojų sluoksniu.'
+  teiginys: "Į Vilnių atvykę amatininkai iš Silezijos ir kitų Vokietijos žemių tapo turtingiausiu miesto gyventojų sluoksniu."
+  semantiniai_rysiai: "Silezija prekiavo su Vilnius (0.66); Vokietija prekiavo su Vilnius (0.62)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "72813-73456; hash=7008859c6d0089dd1f4f696e73c80f815e81fdac572a61852cbb414b7b496046; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Vilnius: 0.66"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Silezija: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Amatininkai iš Silezijos atvyko į Vilnių ir tapo miesto turtingu sluoksniu, bet pats keliaujantis subjektas nėra leistinas kandidatas."
   pagrindžia:
-    - c-001
+    - c-90133
 
 <a id="claim-t-185143"></a>
-- t-011
+- t-012
   global_id: t-185143
-  teiginys: 'Pagal Vladislovo ir Jono susitarimą Jonas turėjo gauti Sileziją kaip beneficiją iš Vladislovo.'
+  teiginys: "Pagal Vladislovo ir Jono susitarimą Jonas turėjo gauti Sileziją kaip beneficiją iš Vladislovo."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Silezija priklausė Jonas (0.78)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "947820-948257; hash=4b983557cc6f9c3bf4ed174e40774888a9f2195662b8819f885171c385860eb6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Jonas: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Silezija: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Jonas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Pagal susitarimą Jonas turėjo gauti Sileziją kaip beneficiją, todėl Silezija priklausytų Jonui."
   pagrindžia:
-    - c-009
+    - c-168504
+
+<a id="claim-t-192760"></a>
+- t-013
+  global_id: t-192760
+  teiginys: "Narbutas minėjo Sileziją tarp vietų, kur randama pavienių gintaro gabalų."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "267076-267633; hash=19df40dae9e110730be2564c6d9c58ad694891eb0cd1f5a86c0f25e7cc4c4935; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Archelajas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Silezija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Archelajas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Silezija\" parinktas kaip owner_note_path. Targetas \"Archelajas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175530
 - susijęs iš [[objektai/asmenys/Mikalojus Sachse.md#claim-t-87788|Mikalojus Sachse]]: Švitrigaila laiške prašė garantijų Mikalojui Sachsei, vykstančiam su reikalais į Sileziją.
 - susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182793|Michał Baliński Mykolas Balinskis]]: Mykolas Balinskis parašė „Vilniaus miesto istoriją“, kurios antras tomas apėmė 1430-1586 m. Vilniaus istoriją.
 - susijęs iš Gdanskas: Vytauto laikais Vilniaus prekybiniai ryšiai jau siekė Gdanską ir Sileziją.
 - susijęs iš [[objektai/asmenys/Hansas Tscheizas.md#claim-t-87683|Hansas Tscheizas]]: Švitrigaila prašė garantijų Hansui Tscheizui, jo svainiui Mikalojui Sachsei ir dvariškiams, vykstantiems į Sileziją.
 - susijęs iš [[objektai/asmenys/Hansas Tscheizas.md#claim-t-87683|Hansas Tscheizas]]: Švitrigaila prašė garantijų Hansui Tscheizui, jo svainiui Mikalojui Sachsei ir dvariškiams, vykstantiems į Sileziją.
 - susijęs iš [[objektai/asmenys/Mikalojus Sachse.md#claim-t-87788|Mikalojus Sachse]]: Švitrigaila laiške prašė garantijų Mikalojui Sachsei, vykstančiam su reikalais į Sileziją.
+- susijęs iš [[objektai/asmenys/Ptolemėjas.md#claim-t-191098|Ptolemėjas]]: Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, kurią tyrinėtojai siejo su Silezija arba Vyslos apylinkėmis.
 - susijęs iš [[objektai/asmenys/Vladislovas iš Opolijos.md#claim-t-35323|Vladislovas iš Opolijos]]: Vladislovas iš Opolijos buvo vienas kandidatų tapti Jadvygos vyru, bet lenkams nepatiko dėl kilmės iš Silezijos kunigaikščių giminės.
 - susijęs iš [[objektai/grupes/Silezijos ir Vroclavo gyventojai.md#claim-t-86825|Silezijos ir Vroclavo gyventojai]]: 1432 m. Silezijos, ypač Vroclavo, gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su prekėmis.
 - susijęs iš [[objektai/grupes/Čekų ir Silezijos savanoriai.md#claim-t-86838|Čekų ir Silezijos savanoriai]]: Čekų ir Silezijos savanorių vadai pateko į nelaisvę po nesėkmės brastoje per Šventosios upę ties Ukmerge.
@@ -197,6 +352,7 @@ Silezija Lietuvos istorijos kontekste minima kaip svarbi Vilniaus prekybinių ry
     dimino dvare, statydinosi ties pilimi medinius savo rūmus,
     o aplink kurdino savo valdinius.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -218,6 +374,7 @@ Silezija Lietuvos istorijos kontekste minima kaip svarbi Vilniaus prekybinių ry
     niekada Kryžiuočių ordinas neturėjo tokios įtakos Lietuvos
     reikalams, kaip tuomet.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -235,6 +392,7 @@ Silezija Lietuvos istorijos kontekste minima kaip svarbi Vilniaus prekybinių ry
     Byčina) pralaimėjo mūšį, pateko Zamoiskiui į nelaisvę ir buvo
     priverstas atsisakyti nuo sosto.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -257,6 +415,7 @@ Silezija Lietuvos istorijos kontekste minima kaip svarbi Vilniaus prekybinių ry
     kad panašią paslaugą padarytų to
     paties svečio broliui Prūsijoje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -276,6 +435,7 @@ Silezija Lietuvos istorijos kontekste minima kaip svarbi Vilniaus prekybinių ry
     turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­
     čio dvare9.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -297,6 +457,7 @@ Silezija Lietuvos istorijos kontekste minima kaip svarbi Vilniaus prekybinių ry
     vykstantiems į Sileziją. Žr. K o t z e-
     b u e Sivitrigail, p. 58-59 ir 61.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -318,6 +479,7 @@ Silezija Lietuvos istorijos kontekste minima kaip svarbi Vilniaus prekybinių ry
     tuvai, nuo kurios visiems laikams buvo atplėšta tiek žemių,
     jos sostinei tam tikru atžvilgiu buvo naudingas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -340,6 +502,7 @@ Silezija Lietuvos istorijos kontekste minima kaip svarbi Vilniaus prekybinių ry
     riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
     niai^2 ).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -360,11 +523,238 @@ Silezija Lietuvos istorijos kontekste minima kaip svarbi Vilniaus prekybinių ry
     Apie šiuos susitarimus karalius nieko nežinojo, mat
     tuo metu buvo išvykęs į Lietuvą, kur sušaukė seimą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
+- c-010
+  santrauka: 'Narbutas minėjo Sileziją tarp vietų, kur randama pavienių gintaro gabalų.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Jūra dažnai išmeta gintarą, prikibusį prie
+    supuvusių šių medžių skiedrų, ir kartu patvirtina Plini-
+    jaus užrašytą Kapadokijos karaliaus Archelajo pasakoji­
+    mą, kad iš Indijos atvežama gintaro žaliavos, dar neat­
+    skirtos nuo medžių žievės1.
+    152
+    Pavienių gintaro gabalų randama beveik visur: Lie­
+    tuvoje, Lenkijoje, Silezijoje, Čekijoje, Halės žemės ang­
+    lių kasyklose, taip pat Danijos pakrantėse, nemažai ga­
+    balų išmesdavo Švedijos ežeras Maeleras. Kai kuriose Ja­
+    ponijos salose turėtų būti gintaro, nes tenykščiai gyven­
+    tojai žino, iš ko jis atsiranda2.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-012
+
+## Citatos
+
+- id: c-90133
+  citata_originali: |
+    Lietu­
+    vos valdovas įsikurdino Žemutinės pilies teritorijoje, aplink
+    įgyvendino savo dvariškius bei tarnus, žinoma, dar reikė­
+    tų pridurti ir nemažai paimtų į nelaisvę lenkų bei rusinu.
+    Žinodami gausią globą ir ypatingas privilegijas, o krikščio­
+    nys - garantuotą tikėjimo laisvę, atvyko nemažai amatinin­
+    kų iš Vokietijos - Saksonijos, Silezijos, Liubeko ir kitų Han­
+    zos miestų, ir kartu su Rusios bei Livonijos pirkliais jie
+    pasidarė turtingiausias Vilniaus gyventojų sluoksnis. Savo
+    ruožtu lietuvių didikai ir kunigaikščio giminės, gyvenę Ge­
+    dimino dvare, statydinosi ties pilimi medinius savo rūmus,
+    o aplink kurdino savo valdinius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-95169
+    - t-95167
+
+- id: c-90134
+  citata_originali: |
+    Tik tada Švitrigaila
+    energingai ėmėsi taikos reikalų; į Vilnių iš Didžiojo Naugardo
+    pasiųsti bojarinai - Ivanas Jermoliničius ir Chariničius - pir­
+    momis vasario dienomis sudarė su juo sutartį, kuria buvo ga­
+    rantuojama abipusis saugumas ir prekybos laisvė6. Anų laikų
+    Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo
+    pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos
+    ir rusų miestų, su kuriais buvo prekiaujama nuo seno. Dar
+    niekada Kryžiuočių ordinas neturėjo tokios įtakos Lietuvos
+    reikalams, kaip tuomet.
+  citata_rodoma: "Anų laikų\nVilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo\npasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos\nir rusų miestų, su kuriais buvo prekiaujama nuo seno. Dar\nniekada Kryžiuočių ordinas neturėjo tokios įtakos Lietuvos\nreikalams, kaip tuomet."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-95160
+
+- id: c-90135
+  citata_originali: |
+    Tuo tarpu Lenkijoj laimėjo Za-
+    moiskis. Būdamas hetmonas, vadovaudamas Lenkijos kariuo-
+    menei, jis atvykstančio Maksimilijono neįleido į Krokuvą
+    Tuo būdu buvo karūnuotas atvykęs Zigmantas. Maksimilijonas
+    dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties
+    Byčina) pralaimėjo mūšį, pateko Zamoiskiui į nelaisvę ir buvo
+    priverstas atsisakyti nuo sosto.
+  citata_rodoma: "Maksimilijonas\ndar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties\nByčina) pralaimėjo mūšį, pateko Zamoiskiui į nelaisvę ir buvo\npriverstas atsisakyti nuo sosto."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-95163
+
+- id: c-90136
+  citata_originali: |
+    Valdant Švitrigailai, Vilniaus miestietis
+    Bomannas, tikriausiai garsus pirklys, prekiavo su Gdans­
+    ku8. Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­
+    no žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o
+    turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­
+    čio dvare9. Prekybos sutartis su Pskovu, kaip ir prieš metus
+    sudarytoji su Naugardu, buvo patvirtinta Vilniuje ir, ano
+    gą poną Fridrichą fon Bebirsteyną,
+    priėmiau į savo dvariškių būrį ir
+    kaip malonų patikėtinį", bei prašo,
+    kad panašią paslaugą padarytų to
+    paties svečio broliui Prūsijoje.
+  citata_rodoma: "Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­\nno žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o\nturtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­\nčio dvare9. Prekybos sutartis su Pskovu, kaip ir prieš metus\nsudarytoji su Naugardu, buvo patvirtinta Vilniuje ir, ano\ngą poną Fridrichą fon Bebirsteyną,\npriėmiau į savo dvariškių būrį ir\nkaip malonų patikėtinį\", bei prašo,\nkad panašią paslaugą padarytų to\npaties svečio broliui Prūsijoje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-95162
+
+- id: c-90137
+  citata_originali: |
+    Per itin galingas Švitrigailos sąjungas radosi di­
+    desnis pasitikėjimas, o prekyba išsiplėtė net iki atokiausių
+    Vokietijos žemių. Valdant Švitrigailai, Vilniaus miestietis
+    Bomannas, tikriausiai garsus pirklys, prekiavo su Gdans­
+    ku8. Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­
+    no žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o
+    turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­
+    čio dvare9.
+  citata_rodoma: "Valdant Švitrigailai, Vilniaus miestietis \nBomannas, tikriausiai garsus pirklys, prekiavo su Gdans­\nku8. Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­\nno žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o \nturtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­\nčio dvare9."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-95161
+
+- id: c-90138
+  citata_originali: |
+    Švit­
+    rigailos dvaro maršalka buvo Mzu-
+    sas, kuriam išduotas didžiojo kuni­
+    gaikščio garantinis raštas iki šiol
+    saugojamas Slaptajame archyve. Ki­
+    tame savo laiške Švitrigaila prašo
+    garantijų Hansui (Janui) Tscheizui ir
+    jo svainiui Mikalojui Sachsei, taip
+    pat savo dvariškiams, su reikalais
+    vykstantiems į Sileziją. Žr. K o t z e-
+    b u e Sivitrigail, p. 58-59 ir 61.
+  citata_rodoma: "Ki­\ntame savo laiške Švitrigaila prašo\ngarantijų Hansui (Janui) Tscheizui ir\njo svainiui Mikalojui Sachsei, taip\npat savo dvariškiams, su reikalais\nvykstantiems į Sileziją. Žr."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-95165
+    - t-95166
+
+- id: c-90139
+  citata_originali: |
+    Pastarosios pergalės iš­
+    garsintas, jiems nesant, kad kokios būtų užgrobęs Didžio­
+    sios Kunigaikštystės valdžią48. Tačiau netrukus į Vilnių at­
+    vyko Žygimantas, Glogovo kunigaikštis iš Silezijos, mirusio
+    karaliaus brolis, visi nurimo, ir šalis buvo apsaugota nuo jai
+    grėsusio pilietinio karo.
+    Trumpas Aleksandro valdymas, gana nesėkmingas Lie­
+    tuvai, nuo kurios visiems laikams buvo atplėšta tiek žemių,
+    jos sostinei tam tikru atžvilgiu buvo naudingas.
+  citata_rodoma: "Tačiau netrukus į Vilnių at­\nvyko Žygimantas, Glogovo kunigaikštis iš Silezijos, mirusio\nkaraliaus brolis, visi nurimo, ir šalis buvo apsaugota nuo jai\ngrėsusio pilietinio karo.\nTrumpas Aleksandro valdymas, gana nesėkmingas Lie­\ntuvai, nuo kurios visiems laikams buvo atplėšta tiek žemių,\njos sostinei tam tikru atžvilgiu buvo naudingas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-95168
+
+- id: c-90141
+  citata_originali: |
+    Atvyko
+    Jogaila su savo šimtais palydovų, Romos ciesorius Zigmantas
+    su savo žmona Barbora Cyleikaite, Jogailos antrosios žmonos
+    giminiete, — lydimi daugelio savo baronų; ir pats Vytautas su
+    gausybe savo lėnininkų pasiuntinių, didikų ir kunigaikščių.
+    Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
+    čiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­
+    zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­
+    niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­
+    riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
+    niai^2 ).
+  citata_rodoma: "Atvyko\nJogaila su savo šimtais palydovų, Romos ciesorius Zigmantas\nsu savo žmona Barbora Cyleikaite, Jogailos antrosios žmonos\ngiminiete, — lydimi daugelio savo baronų; ir pats Vytautas su\ngausybe savo lėnininkų pasiuntinių, didikų ir kunigaikščių.\nBuvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­\nčiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­\nzūrijos kunigaikščiai, Maskvos d."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-95164
+
+- id: c-168504
+  citata_originali: |
+    Tačiau Vladislovas tuojau pat po
+    pergalės per pasiuntinius pasiūlė broliui tartis dėl san­
+    tarvės sudarymo. Brolis neatsisakė, ir jie susitarė šito­
+    kiomis sąlygomis: Vladislovas liksiąs Vengrijos karaliu­
+    mi, jam mirus ir nepalikus vaikų, Jonas tapsiąs sosto
+    įpėdiniu, šiuo metu iš Vladislovo jis gausiąs kaip be­
+    neficiją Sileziją.
+    Apie šiuos susitarimus karalius nieko nežinojo, mat
+    tuo metu buvo išvykęs į Lietuvą, kur sušaukė seimą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185143
+
+- id: c-175530
+  citata_originali: |
+    Jūra dažnai išmeta gintarą, prikibusį prie
+    supuvusių šių medžių skiedrų, ir kartu patvirtina Plini-
+    jaus užrašytą Kapadokijos karaliaus Archelajo pasakoji­
+    mą, kad iš Indijos atvežama gintaro žaliavos, dar neat­
+    skirtos nuo medžių žievės1.
+    152
+    Pavienių gintaro gabalų randama beveik visur: Lie­
+    tuvoje, Lenkijoje, Silezijoje, Čekijoje, Halės žemės ang­
+    lių kasyklose, taip pat Danijos pakrantėse, nemažai ga­
+    balų išmesdavo Švedijos ežeras Maeleras. Kai kuriose Ja­
+    ponijos salose turėtų būti gintaro, nes tenykščiai gyven­
+    tojai žino, iš ko jis atsiranda2.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192760
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Hansas Tscheizas]], [[objektai/asmenys/Mikalojus Sachse]]

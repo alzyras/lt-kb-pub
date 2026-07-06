@@ -16,6 +16,18 @@ tags:
 amziai:
   - 'XV'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Labguva
 
@@ -26,11 +38,16 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
 ## Teiginiai
 
 <a id="claim-t-68384"></a>
-- t-001
+- t-002
   global_id: t-68384
-  teiginys: 'Dėl vietovardžio Labguva darybos ir kilmės.— Baltistica, 1966, 1(2), p. 185—189.'
+  teiginys: "Dėl vietovardžio Labguva darybos ir kilmės.— Baltistica, 1966, 1(2), p. 185—189."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "801471-801562; hash=e20a9d9c5072c5ff43690404a076e1a8ce31481dce6ab55cdca0473f35479c96; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
-    - c-001
+    - c-67974
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-183897|Skalviai]]: Skalviai laivais priplaukė Labguvos pilį, apyaušryje ją užėmė, išžudė vyrus, sudegino pilį, o moteris ir vaikus išsivedė.
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89219|Skalviai]]: Skalvių vyresnieji, susirinkę į sueigą, nusprendė pasiųsti 400 rinktinių vyrų į žygį prieš Labguvos pilį.
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89219|Skalviai]]: Skalvių vyresnieji, susirinkę į sueigą, nusprendė pasiųsti 400 rinktinių vyrų į žygį prieš Labguvos pilį.
@@ -56,11 +73,25 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
     Vanagas A. Dėl vietovardžio Labguva darybos ir kilmės.— Baltistica, 1966, 1(2), p.
     185—189.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-67974
+  citata_originali: |
+    Vanagas A. Dėl vietovardžio Labguva darybos ir kilmės.— Baltistica, 1966, 1(2), p.
+    185—189.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-68384
 
 ## Ryšiai
 - Puolė Labguvą: [[objektai/grupes/Skalviai]]

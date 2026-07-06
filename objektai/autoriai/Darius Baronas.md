@@ -17,6 +17,18 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'XX a.'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Darius Baronas
 
@@ -29,9 +41,22 @@ Darius Baronas (gimęs 1973 m.), baigė Vilniaus universitetą, humanitarinių m
 <a id="claim-t-39850"></a>
 - t-001
   global_id: t-39850
-  teiginys: 'Darius Baronas gimė 1973 m., baigė Vilniaus universitetą ir yra humanitarinių mokslų daktaras.'
+  teiginys: "Darius Baronas gimė 1973 m., baigė Vilniaus universitetą ir yra humanitarinių mokslų daktaras."
+  temporaliniai_duomenys: "įvykio data: 1973 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir gramatiškas biografinis sakinys."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1071495-1071857; hash=6e01fe8706815427893fdf602777e6719047090977dc97af34026b039aca27bc; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Darius Baronas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Darius Baronas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-41654
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
 ## Reikšmingi paminėjimai
 
@@ -46,8 +71,26 @@ Darius Baronas (gimęs 1973 m.), baigė Vilniaus universitetą, humanitarinių m
     nografijų ir daugelio straipsnių autorius. Vienas iš Žalgirio mūšio
     maketo idėjos įgyvendintojų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-41654
+  citata_originali: |
+    Darius Baronas (gimęs 1973 m.), baigė Vilniaus universitetą, hu-
+    manitarinių mokslų daktaras. Tyrinėja krikščionybės Lietuvoje is-
+    toriją ir senosios Lietuvos karybos istoriją. Dirba Lietuvos istorijos
+    institute. Lietuvių katalikų mokslo akademijos narys, kelių mo-
+    nografijų ir daugelio straipsnių autorius. Vienas iš Žalgirio mūšio
+    maketo idėjos įgyvendintojų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-39850

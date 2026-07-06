@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Naugardukiečiai
 
@@ -17,9 +29,22 @@ Treniotai buvo žadama, kad prireikus jėgos atvyks žemaičių kariuomenė ir n
 <a id="claim-t-185442"></a>
 - t-001
   global_id: t-185442
-  teiginys: 'Treniotai buvo žadama, kad prireikus jėgos atvyks žemaičių kariuomenė ir naugardukiečių kariai.'
+  teiginys: "Treniotai buvo žadama, kad prireikus jėgos atvyks žemaičių kariuomenė ir naugardukiečių kariai."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "181105-181490; hash=c4542dbf08167be8bbc66e16317bf656858e1ed7b39cb13f5ff9b2cc5dca688c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Treniota: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardukiečiai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Treniota: mention_match, person, gap=73"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardukiečiai\" parinktas kaip owner_note_path. Targetas \"Treniota\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-168803
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-184594|Žemaičiai]]: Treniotai turėjo padėti jam atsidavusi žemaičių kariuomenė ir naugardukiečių kariai.
 - susijęs iš [[objektai/ivykiai/Vaišvilko sugrįžimas į Lietuvą kunigaikščiauti.md#claim-t-186567|Vaišvilko sugrįžimas į Lietuvą kunigaikščiauti]]: Lietuvos metraščio pasakojimu, Vaišvilkas su pinskiečiais ir naugardukiečiais parvyko į Lietuvą kunigaikščiauti, o Lietuva jį sutiko kaip valdovo sūnų.
 - susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti.
@@ -43,11 +68,31 @@ Treniotai buvo žadama, kad prireikus jėgos atvyks žemaičių kariuomenė ir n
     riais. Neilgai atsilaikė tiems kurstymams Treniotos
     širdis, iš prigimties pati linkusi į garbę.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-168803
+  citata_originali: |
+    Niekada prie jo
+    nebūsią galima lengviau prieiti, kaip tada, kai, išren­
+    gęs į Mažo vi ją geriausiuosius pulkus, pats liksiąs be
+    apsaugos. Jeigu prireiksią jėgos, Treniotai į pagalbą
+    atskubėsianti jam atsidavusi žemaičių kariuomenė, be
+    to, ir jis pats laiku atsirasiąs su naugardukiečių ka­
+    riais. Neilgai atsilaikė tiems kurstymams Treniotos
+    širdis, iš prigimties pati linkusi į garbę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185442
 
 ## Ryšiai
 - Naugardukiečiai keliavo į [[objektai/vietos/Lietuva]]

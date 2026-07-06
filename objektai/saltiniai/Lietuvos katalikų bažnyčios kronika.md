@@ -14,6 +14,18 @@ tags:
   - saltinis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvos katalikų bažnyčios kronika
 
@@ -26,10 +38,22 @@ Aštuntajame dešimtmetyje kai kurie kunigai ėmė priešintis brutaliai valdži
 <a id="claim-t-21171"></a>
 - t-001
   global_id: t-21171
-  teiginys: 'Pirmasis „Lietuvos katalikų bažnyčios kronikos“ redaktorius buvo Simne dirbęs kunigas Sigitas Tamkevičius.'
+  teiginys: "Pirmasis „Lietuvos katalikų bažnyčios kronikos“ redaktorius buvo Simne dirbęs kunigas Sigitas Tamkevičius."
+  temporaliniai_duomenys: "įvykio data: 1972 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys citata nepagrįstas, bet citata remia faktą apie leidinio redaktorių."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "470033-470281; hash=5057942dd86c7263866c402d7fe00263bf15262c4881c87e5d8945589ec96d8e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Sigitas Tamkevičius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos katalikų bažnyčios kronika: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Sigitas Tamkevičius: mention_match, author, gap=76"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos katalikų bažnyčios kronika\" parinktas kaip owner_note_path. Targetas \"Sigitas Tamkevičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-23881
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -40,8 +64,25 @@ Aštuntajame dešimtmetyje kai kurie kunigai ėmė priešintis brutaliai valdži
     Simne dirbęs kun. Sigitas Tamkevičius. Leidinys aprašė sovietų antireliginę
     veiklą ir propagandą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-23881
+  citata_originali: |
+    Grupė dvasininkų 1972 m. kovo 19 d. pradėjo leisti katalikišką leidinį „Lie-
+    tuvos katalikų bažnyčios kronika“. Pirmasis jos redaktorius buvo tuomet
+    Simne dirbęs kun. Sigitas Tamkevičius. Leidinys aprašė sovietų antireliginę
+    veiklą ir propagandą.
+  citata_rodoma: "Simne dirbęs kun. Sigitas Tamkevičius. Leidinys aprašė sovietų antireliginę"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-21171

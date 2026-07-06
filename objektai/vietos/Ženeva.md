@@ -18,6 +18,18 @@ tags:
   - vieta
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Ženeva
 
@@ -28,25 +40,61 @@ Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruod
 ## Teiginiai
 
 <a id="claim-t-77773"></a>
-- t-001
+- t-002
   global_id: t-77773
-  teiginys: 'Ženevoje pasiektus rezultatus Lietuva ir Lenkija laikė pergale, tačiau Vilnius dar labiau nutolo nuo Lietuvos.'
+  teiginys: "Ženevoje pasiektus rezultatus Lietuva ir Lenkija laikė pergale, tačiau Vilnius dar labiau nutolo nuo Lietuvos."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "321998-322419; hash=0a2e4c919743747cc0b1a932d26103dd6df471287f525a6166a4be0fb2d35f97; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ženeva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=41"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ženeva\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-75100
 
 <a id="claim-t-77774"></a>
-- t-002
+- t-003
   global_id: t-77774
-  teiginys: '1934 m. rugsėjo 12 d. Ženevoje sudaryta Baltijos antantė siekė stiprinti ekonominį, socialinį, teisinį ir administracinį bendradarbiavimą.'
+  teiginys: "1934 m. rugsėjo 12 d. Ženevoje sudaryta Baltijos antantė siekė stiprinti ekonominį, socialinį, teisinį ir administracinį bendradarbiavimą."
+  temporaliniai_duomenys: "įvykio data: 1934 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys yra aiškus faktinis teiginys apie Ženevą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "356306-356768; hash=edd589308aceecd5e26b44dccc2c6de18c6e8f297fbd5afadcb17f9e3d2669cc; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antantė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ženeva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Antantė: mention_match, group, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ženeva\" parinktas kaip owner_note_path. Targetas \"Antantė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-24651
 
 <a id="claim-t-77775"></a>
-- t-003
+- t-001
   global_id: t-77775
-  teiginys: 'Ženevoje Tautų Sąjungos Taryboje Juzefas Pilsudskis paklausė Augustino Voldemaro: „Karas ar taika?“'
+  teiginys: "Ženevoje Tautų Sąjungos Taryboje Juzefas Pilsudskis paklausė Augustino Voldemaro: „Karas ar taika?“"
+  temporaliniai_duomenys: "įvykio data: 1926 m.; įvykio data: 1927 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas nutrūkęs inicialas ir išplėstos asmenų nuorodos pagal citatą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "321346-321875; hash=4a2746cad98d6d934886aea07576ffea5968ba92139368ab441d6555dab0fc0a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Augustinas Voldemaras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ženeva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Augustinas Voldemaras: mention_match, person, gap=61"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ženeva\" parinktas kaip owner_note_path. Targetas \"Augustinas Voldemaras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-75101
 - susijęs iš [[objektai/asmenys/Petras Klimas.md#claim-t-46283|Petras Klimas]]: Petras Klimas 1926 m. dalyvavo Lietuvos delegacijoje Tautų Sąjungoje Ženevoje kaip pasiuntinys.
 - susijęs iš [[objektai/asmenys/Dovas Zaunius.md#claim-t-26437|Dovas Zaunius]]: Dovas Zaunius 1926 m. buvo Lietuvos delegacijos Tautų Sąjungoje Ženevoje narys.
 - susijęs iš [[objektai/asmenys/Petras Klimas.md#claim-t-46283|Petras Klimas]]: Petras Klimas 1926 m. dalyvavo Lietuvos delegacijoje Tautų Sąjungoje Ženevoje kaip pasiuntinys.
@@ -83,6 +131,7 @@ Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruod
     ga – Baltijos antantė arba Baltijos santarvė, siekusi stiprinti ekonominį,
     socialinį, teisinį ir administracinį bendradarbiavimą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -100,6 +149,7 @@ Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruod
     A. Voldemaras pareiškė: „<…> mes išėjome į pasaulinę politiką.“ Tačiau
     iš tikrųjų Vilnius dar labiau nutolo nuo Lietuvos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -119,11 +169,66 @@ Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruod
     Dovas Zaunius, ministras pirmininkas Augustinas Voldemaras ir
     pasiuntinys Petras Klimas (H. Roger Viollet nuotrauka)
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-24651
+  citata_originali: |
+    TRIJŲ KAIMYNiŲ ULTIMATUMŲ ERA
+    Lietuva ir Lenkija: santykiai be santykių
+    N
+    elengvai klostėsi santykiai su kaimynais. Latvijos, Es-
+    tijos ir Lietuvos suartėjimą diplomatinėmis priemo-
+    nėmis nuolat trikdė Lenkija, SSRS ir Vokietija. Todėl tik 1934 m. rugsėjo
+    12 d. Ženevoje sudaryta Baltijos valstybių politinė ir diplomatinė sąjun-
+    ga – Baltijos antantė arba Baltijos santarvė, siekusi stiprinti ekonominį,
+    socialinį, teisinį ir administracinį bendradarbiavimą.
+  citata_rodoma: "Todėl tik 1934 m. rugsėjo \n12 d. Ženevoje sudaryta Baltijos valstybių politinė ir diplomatinė sąjun-\nga – Baltijos antantė arba Baltijos santarvė, siekusi stiprinti ekonominį, \nsocialinį, teisinį ir administracinį bendradarbiavimą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77774
+
+- id: c-75100
+  citata_originali: |
+    Apsidžiaugusi Sąjungos Taryba patvirtino tai rezoliucija ir ribą tarp
+    abiejų valstybių pavadino jau ne „demarkacijos linija“, o „administraci-
+    ne linija“, bet ne „siena“, kaip norėjo lietuviai. Abi šalys tokius rezultatus
+    Ženevoje laikė pergale, o grįžęs į Kauną Karininkų ramovėje ir per radiją
+    A. Voldemaras pareiškė: „<…> mes išėjome į pasaulinę politiką.“ Tačiau
+    iš tikrųjų Vilnius dar labiau nutolo nuo Lietuvos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77773
+
+- id: c-75101
+  citata_originali: |
+    Dėl to 1927 m. spalio 15 d. Lietuva apskundė Lenkiją Tautų
+    Sąjungos Tarybai ir situacija tapo ypač įtempta, nes Lietuva nebuvo at-
+    šaukusi karo padėties su Lenkija. Lietuva ir Lenkija kaktomuša susidūrė
+    Ženevoje, kur Sąjungos Taryboje gruodžio 10 dieną J. Pilsudskis uždavė
+    A. Voldemarui klausimą „Karas ar taika?“ A. Voldemaras, neturėdamas
+    Lietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m., iš kairės:
+    Dovas Zaunius, ministras pirmininkas Augustinas Voldemaras ir
+    pasiuntinys Petras Klimas (H. Roger Viollet nuotrauka)
+  citata_rodoma: "Lietuva ir Lenkija kaktomuša susidūrė \nŽenevoje, kur Sąjungos Taryboje gruodžio 10 dieną J. Pilsudskis uždavė \nA. Voldemarui klausimą „Karas ar taika?“ A."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77775
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Augustinas Voldemaras]], [[objektai/asmenys/Dovas Zaunius]], [[objektai/asmenys/Petras Klimas]]

@@ -1,0 +1,142 @@
+---
+tipas: zodyno_irasas
+pavadinimas: 'indų-skitų padermė'
+saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
+sukurta: ''
+atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# indų-skitų padermė
+
+## Santrauka
+
+Narbutas teigia, kad Europoje gyvenanti žmonių padermė yra pavadinta kaukaziečių-europiečių gentimi. Narbutas aiškina, kad Tiksliau ją jis vadina indų-skitų paderme.
+
+## Žodis ir formos
+
+- Pagrindinė forma: indų-skitų padermė.
+- Vartojamos formos: kaukaziečių-europiečių tautų genčiai, kaukaziečių-europiečių gentimi, indų-skitų paderme.
+
+## Reikšmė iš konteksto
+
+Narbuto antropologinė žmonių padermės samprata, kur europiečių tautas jis tiksliau vadina indų-skitų paderme.
+
+## Vartojimas
+
+Istoriografinis ir antropologinis terminas.
+
+## Pastabos
+
+Tai Narbuto lyginamoji rasinė / etnologinė schema, o ne neutralus šiuolaikinis mokslinis terminas.
+
+## Teiginiai
+
+<a id="claim-t-192159"></a>
+- t-001
+  global_id: t-192159
+  teiginys: "Narbutas Europoje gyvenančią žmonių padermę tapatina su kaukaziečių-europiečių gentimi, bet tiksliau vadina indų-skitų paderme."
+  teiginio_tipas: "saltinio_teiginys"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "136491-137430; hash=9db83da637a86097ae675121d52165b15002862239bd0e8b58131e29a5c0eb62; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  ryšio_patikimumas: "susije_su -> Europa: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "indų-skitų padermė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"indų-skitų padermė\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175037
+
+<a id="claim-t-192160"></a>
+- t-002
+  global_id: t-192160
+  teiginys: "Narbutas mano, kad Europoje gyvenančią žmonių padermę tiksliau būtų vadinti indų-skitų paderme."
+  teiginio_tipas: "saltinio_teiginys"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "136491-137430; hash=9db83da637a86097ae675121d52165b15002862239bd0e8b58131e29a5c0eb62; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  ryšio_patikimumas: "susije_su -> Europa: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "indų-skitų padermė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"indų-skitų padermė\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175037
+## Reikšmingi paminėjimai
+
+- c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Pirmykščiais laikais, esant vienai, t. y.
+    kaukaziečių-europiečių tautų genčiai, kalbos skirtumai ne­
+    turėjo būti dideli, net prabėgus daugeliui amžių ir bend­
+    rai giminei suskilus į daugybę atšakų. Taigi lengva pa­
+    daryti prielaidą, jog vienas budinu klanas, patekęs tarp
+    slavų, suslavėjo1.
+    1 Šia proga reikia papildyti mūsų nuomonę, kurią mūsų rašinyje
+    šiandien teko ne kartą priminti: tarp įvairių tautų kalbų pastebimas
+    panašumas arba net žodžių identiškumas. Tai yra todėl, kad: 1) visa
+    žmonių padermė išėjo iš vieno lopšio, iš vienos žmonių poros, iš vie­
+    nos pirmapradės genties, kurios kalba buvo visų kalbų motina; 2)
+    kalbos organo, su kuriuo galima išgauti tūkstančio jausmų garsus,
+    sudėtis yra visai žmonių giminei bendra, — iš čia ir dažnas tapatu­
+    mas tariant garsus; 3) žmonių padermė, gyvenanti Europoje, yra
+    viena ir ta pati, kuri buvo pavadinta kaukaziečių-europiečių genti­
+    mi. Tiksliau ją būtų vadinti indų-skitų paderme.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+    - t-002
+
+## Citatos
+
+- id: c-175037
+  citata_originali: |
+    Pirmykščiais laikais, esant vienai, t. y.
+    kaukaziečių-europiečių tautų genčiai, kalbos skirtumai ne­
+    turėjo būti dideli, net prabėgus daugeliui amžių ir bend­
+    rai giminei suskilus į daugybę atšakų. Taigi lengva pa­
+    daryti prielaidą, jog vienas budinu klanas, patekęs tarp
+    slavų, suslavėjo1.
+    1 Šia proga reikia papildyti mūsų nuomonę, kurią mūsų rašinyje
+    šiandien teko ne kartą priminti: tarp įvairių tautų kalbų pastebimas
+    panašumas arba net žodžių identiškumas. Tai yra todėl, kad: 1) visa
+    žmonių padermė išėjo iš vieno lopšio, iš vienos žmonių poros, iš vie­
+    nos pirmapradės genties, kurios kalba buvo visų kalbų motina; 2)
+    kalbos organo, su kuriuo galima išgauti tūkstančio jausmų garsus,
+    sudėtis yra visai žmonių giminei bendra, — iš čia ir dažnas tapatu­
+    mas tariant garsus; 3) žmonių padermė, gyvenanti Europoje, yra
+    viena ir ta pati, kuri buvo pavadinta kaukaziečių-europiečių genti­
+    mi. Tiksliau ją būtų vadinti indų-skitų paderme.
+  citata_rodoma: "Pirmykščiais laikais, esant vienai, t. y.\nkaukaziečių-europiečių tautų genčiai, kalbos skirtumai ne­\nturėjo būti dideli, net prabėgus daugeliui amžių ir bend­\nrai giminei suskilus į daugybę atšakų. Taigi lengva pa­\ndaryti prielaidą, jog vienas budinu klanas, patekęs tarp\nslavų, suslavėjo1.\n1 Šia proga reikia papildyti mūsų nuomonę, kurią mūsų rašinyje\nšiandien teko ne kartą priminti: tarp įvairių tautų kalbų pastebimas\npanašumas arba net žodžių identiškumas. Tai yra todėl, kad: 1) visa\nžmonių padermė išėjo iš vieno lopšio, iš vienos žmonių poros, iš vie­\nnos pirmapradės genties, kurios kalba buvo visų kalbų motina; 2)\nkalbos organo, su kuriuo galima išgauti tūkstančio jausmų garsus,\nsudėtis yra visai žmonių giminei bendra, — iš čia ir dažnas tapatu­\nmas tariant garsus; 3) žmonių padermė, gyvenanti Europoje, yra\nviena ir ta pati, kuri buvo pavadinta kaukaziečių-europiečių genti­\nmi. Tiksliau ją būtų vadinti indų-skitų paderme."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192159
+    - t-192160

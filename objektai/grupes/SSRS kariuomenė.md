@@ -13,6 +13,18 @@ tags:
   - grupe
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # SSRS kariuomenė
 
@@ -25,16 +37,44 @@ Urbšiui pridėjo, kad nesvarbu, koks bus atsakymas, SSRS kariuomenė vis tiek �
 <a id="claim-t-19998"></a>
 - t-001
   global_id: t-19998
-  teiginys: '1940 m. birželio 14 d. ultimatumu SSRS pareikalavo, kad Lietuva įsileistų papildomus sovietų karinius dalinius.'
+  teiginys: "1940 m. birželio 14 d. ultimatumu SSRS pareikalavo, kad Lietuva įsileistų papildomus sovietų karinius dalinius."
+  semantiniai_rysiai: "SSRS kariuomenė keliavo į Lietuva (0.87)"
+  temporaliniai_duomenys: "įvykio data: 1940 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata nepagrindžia pradinio teiginio, bet pagrindžia ultimatumo reikalavimą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "376933-377781; hash=7987f0230e98daa9deac71bb48d3634f9561670797de3971262747df8c9920fa; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.87"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "SSRS kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad SSRS kariuomenė įžygiuos į Lietuvą."
   pagrindžia:
-    - c-001
+    - c-166571
 
 <a id="claim-t-183184"></a>
 - t-002
   global_id: t-183184
-  teiginys: 'V. Molotovas J. Urbšiui pareiškė, kad SSRS kariuomenė įžygiuos į Lietuvą nepriklausomai nuo Lietuvos atsakymo.'
+  teiginys: "V. Molotovas J. Urbšiui pareiškė, kad SSRS kariuomenė įžygiuos į Lietuvą nepriklausomai nuo Lietuvos atsakymo."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "SSRS kariuomenė keliavo į Lietuva (0.90)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "376933-377781; hash=7987f0230e98daa9deac71bb48d3634f9561670797de3971262747df8c9920fa; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "SSRS kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo SSRS kariuomenės įžygiavimą į Lietuvą."
   pagrindžia:
-    - c-001
+    - c-166571
 - susijęs iš [[objektai/ivykiai/SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.).md#claim-t-45446|SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.)]]: V. Molotovas J. Urbšiui pareiškė, kad, nepaisant Lietuvos atsakymo, SSRS kariuomenė vis tiek įžygiuos į Lietuvą.
 - susijęs iš [[objektai/ivykiai/SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.).md#claim-t-45447|SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.)]]: SSRS iš anksto rengėsi invazijai į Lietuvą: kūrė ligonines ir lagerius, permetė diversines grupes, pradėjo blokadą ir puolė pasienio postus.
 - susijęs iš SSRS: Viačeslavas Molotovas Juozui Urbšiui pareiškė, kad nepaisant Lietuvos atsakymo SSRS kariuomenė įžygiuos į Lietuvą.
@@ -61,12 +101,37 @@ Urbšiui pridėjo, kad nesvarbu, koks bus atsakymas, SSRS kariuomenė vis tiek �
     10 val. ryto. Žodžiu V. Molotovas J. Urbšiui pridėjo, kad nesvarbu, koks bus
     atsakymas, SSRS kariuomenė vis tiek įžygiuos į Lietuvą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-166571
+  citata_originali: |
+    Nuo V. Molotovo rėksmingų kaltinimų
+    absurdiškumo A. Merkys palūžo psichologiškai. Birželio 10 dieną Kaune
+    sužinojus, kad A. Merkiui nesiseka normalizuoti situaciją, nutarta pasiųsti
+    į Maskvą ministrą J. Urbšį. Tačiau nei J. Urbšys, nei taikingas A. Smetonos
+    laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų Lietuvos
+    pareigūnų atleidimas nepadėjo – birželio 14-osios rytą vermachtui įžengus
+    į Paryžių, tos pat dienos vakare 11:45 J. Urbšys gavo iš V. Molotovo rankų
+    ultimatumą – pareikalauta, kad Lietuva įsileistų papildomus, jokia sutar-
+    timi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovieti-
+    nę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos
+    10 val. ryto. Žodžiu V. Molotovas J. Urbšiui pridėjo, kad nesvarbu, koks bus
+    atsakymas, SSRS kariuomenė vis tiek įžygiuos į Lietuvą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183184
+    - t-19998
 
 ## Ryšiai
 - SSRS kariuomenė keliavo į [[objektai/vietos/Lietuva]]

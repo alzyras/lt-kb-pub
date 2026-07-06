@@ -21,6 +21,18 @@ tags:
 amziai:
   - 'XV'
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # indiktas
 
@@ -31,25 +43,63 @@ amziai:
 ## Teiginiai
 
 <a id="claim-t-86421"></a>
-- t-001
+- t-002
   global_id: t-86421
-  teiginys: 'Rašytas Vilniuje, sausio 13 dieną, Il indikte.'
+  teiginys: "Rašytas Vilniuje, sausio 13 dieną, Il indikte."
+  temporaliniai_duomenys: "įvykio data: 1493 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "693900-694564; hash=931f88f0c4d9275e57f728232747e0ccda53589023fb7e4a2cf5b53fcdaafc19; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Malūnas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "indiktas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Malūnas: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"indiktas\" parinktas kaip owner_note_path. Targetas \"Malūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-82402
 
 <a id="claim-t-86422"></a>
-- t-002
+- t-003
   global_id: t-86422
-  teiginys: 'Vilniuje rašytas dokumentas datuotas 1533 m. spalio 23 d., 7 indiktu.'
+  teiginys: "Vilniuje rašytas dokumentas datuotas 1533 m. spalio 23 d., 7 indiktu."
+  temporaliniai_duomenys: "įvykio data: 1533 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys išvalytas nuo OCR triukšmo ir paverstas glaustu faktu apie indiktą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "724355-725347; hash=5b67a576a2e4a51536c54420210a4cc4e8871a7779134073029a2306ee67f59a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antspaudas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "indiktas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Antspaudas: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"indiktas\" parinktas kaip owner_note_path. Targetas \"Antspaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-82400
 
 <a id="claim-t-86423"></a>
-- t-003
+- t-001
   global_id: t-86423
-  teiginys: 'Karaliaus Kazimiero sutartis su Pskovu Vilniuje datuota 1440 m. gruodžio 30 d., 4 indiktu.'
+  teiginys: "Karaliaus Kazimiero sutartis su Pskovu Vilniuje datuota 1440 m. gruodžio 30 d., 4 indiktu."
+  temporaliniai_duomenys: "sutarties data: 1440 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pirminis tekstas buvo bibliografinis fragmentas su OCR triukšmu; citata leidžia datavimo teiginį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "459051-459290; hash=bfa974fcdbaebc78bb4a1c18882e0ba5ca05108232687f2f6bd3a7746e3e0a93; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pskovas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "indiktas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Pskovas: mention_match, place, gap=50"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"indiktas\" parinktas kaip owner_note_path. Targetas \"Pskovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-82401
 - susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113833|Julijona (Vytauto žmona)]]: 1426 m. sirgusi didžioji kunigaikštienė Julijona iš Pauliaus Rusdorfo gavo dovanų atsiųstų gydomųjų gėrimų.
 - susijęs iš [[objektai/asmenys/Paulius Rusdorfas.md#claim-t-87452|Paulius Rusdorfas]]: Didysis magistras Paulius Rusdorfas atsiuntė kunigaikštienei Julijonai gydomųjų gėrimų.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176706|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1426 m. Vytautas dėl žmonos Julijonos ligos kreipėsi į didįjį magistrą prašydamas gydytojo.
@@ -86,6 +136,7 @@ amziai:
     Sigismundus DEI gratia Rex Pol oniae Magnus Dux Litu-
     aniae, Russiae, totiusq.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -105,6 +156,7 @@ amziai:
     ną, 4 indiktas]; iš D o g e l i o, MSS.
     Bibi. Uniw. Wil.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -139,8 +191,95 @@ amziai:
     1501 META
     (Iš Dogelio rankraščių buv.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-82400
+  citata_originali: |
+    IV KNYGA
+    pasakytum, kad turite paklusti teisei, pagal rašytus žemės
+    įstatymus iškeltumėte ir mūsų Pinsko ir Kobrino seniūnui
+    ponui Ivanui Michailovičiui apie tai po kurio laiko praneš­
+    tumėte ir apie visus tuos nuostolius, ir žemių, miškų ir pie­
+    vų aukščiau paminėtų grobimą ir ponios Jonienės kūdros
+    perkasimą su mūsų žmonėmis apžiūrėtumėte ir teisingumą
+    ten įvykdytumėte, kaip atrodys teisinga pagal Dievą ir jūsų
+    sąžinę taip, kad nenukentėtų nė viena pusė, kad mums dėl
+    to ponia Ona daugiau nesiskųstų. Rašyta Vilniuje Viešpa­
+    ties gimimo metais 1533 spalio mėnesio 23 dieną, 7 indikte.
+    M.P. Valerijonas
+
+    ## Puslapis 394
+
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    ŽYGIMANTO SENOJO RAŠTAS VILNIAUS MAGISTRATUI,
+    RAŠYTAS ANT POPIERIAUS SU PRISPAUSTU ANTSPAUDU
+    1538 METŲ BALANDŽIO 6-Ą, DĖL VYSKUPO NESIKIŠIMO
+    J TARNAUJANČIŲJŲ MIESTO JURISDIKCIJOJE TEISES
+    1533 METAIS
+    (Iš Vilniaus kapitulos archyvo rankraščių)
+    Sigismundus DEI gratia Rex Pol oniae Magnus Dux Litu-
+    aniae, Russiae, totiusq.
+  citata_rodoma: "Rašyta Vilniuje Viešpa­\nties gimimo metais 1533 spalio mėnesio 23 dieną, 7 indikte.\nM.P. Valerijonas\n\n## Puslapis 394\n\nVILNIAUS MIESTO ISTORIJA II TOMAS\nŽYGIMANTO SENOJO RAŠTAS VILNIAUS MAGISTRATUI, \nRAŠYTAS ANT POPIERIAUS SU PRISPAUSTU ANTSPAUDU  \n1538 METŲ BALANDŽIO 6-Ą, DĖL VYSKUPO NESIKIŠIMO \nJ TARNAUJANČIŲJŲ MIESTO JURISDIKCIJOJE TEISES \n1533 METAIS\n(Iš Vilniaus kapitulos archyvo rankraščių)\nSigismundus DEI gratia Rex Pol oniae Magnus Dux Litu- \naniae, Russiae, totiusq."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86422
+
+- id: c-82401
+  citata_originali: |
+    33
+    Peremire Korola Kazimira z Opskowem
+    u Wilni meseca dekabra trydcataho
+    dnia, 1440 Indykt 4 [Karaliaus Kazi­
+    miero sutartis su Pskovu Vilniuje,
+    1440 metų gruodžio mėnesio 30 die­
+    ną, 4 indiktas]; iš D o g e l i o, MSS.
+    Bibi. Uniw. Wil.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86423
+
+- id: c-82402
+  citata_originali: |
+    PATS ALEKSANDRAS,
+    DIEVO MALONE DIDYSIS LIETUVOS,
+    RUSIOS, ŽEMAIČIŲ IR KITŲ
+    KUNIGAIKŠTIS
+    Vilniaus vaivadai mūsų kancleriui ponui Mikalojui Rad­
+    vilai. Dovanojame Vilniaus miestiečiui Maksimui Vasiljevi-
+    čiui šienaujamą pievą palei tavo malūną prie kelio, vedan­
+    čio iš miesto į Užupį, už Vilnelės. Tai davėme jam ir jo
+    vaikams visiems laikams. Rašytas Vilniuje, sausio 13 dieną,
+    Il indikte.
+    (1493 m. sausio 13 d.)
+    M.P. [savo ranka]
+    (parašas)
+    357
+
+    ## Puslapis 374
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    Dekretą
+    KARALIAUS ALEKSANDRO PRIVILEGIJA,
+    DUOTA KARALIENEI ELENAI, KNIAZIČIŲ,
+    TETERINO DVARAMS IR POPOVA HUROS PILIAI IR T T
+    1501 META
+    (Iš Dogelio rankraščių buv.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86421

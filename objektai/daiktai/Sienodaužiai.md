@@ -16,6 +16,18 @@ tags:
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Sienodaužiai
 
@@ -48,24 +60,56 @@ Nenurodyta
 <a id="claim-t-171480"></a>
 - t-001
   global_id: t-171480
-  teiginys: 'Apgultos aukštos ir stiprios pilies mūrams griauti buvo pastatyti sienodaužiai ir pilies mūrų aukščio bokštas.'
+  teiginys: "Apgultos aukštos ir stiprios pilies mūrams griauti buvo pastatyti sienodaužiai ir pilies mūrų aukščio bokštas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "693744-694106; hash=862983ca16e1955e827c7c127b739d9c7cf9b7ae1c8744cfeb5b0b3cb070a5f6; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-002
+    - c-156007
 
-<a id="claim-t-171481"></a>
+<a id="claim-t-171482"></a>
 - t-002
-  global_id: t-171481
-  teiginys: 'Puldami Gotteswerderį lietuviai naudojo 15 mašinų ir 5 sienodaužius.'
+  global_id: t-171482
+  teiginys: "Puldami Gotteswerderį lietuviai naudojo 15 mašinų ir 5 sienodaužius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "698095-698399; hash=f278fd3217b23fe32e4812857f5b2b0650ff7e91134b1b0e564bb986446e9779; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sienodaužiai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sienodaužiai\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-156006
+
+<a id="claim-t-171482"></a>
+- t-002
+  global_id: t-171482
+  teiginys: "Puldami Gotteswerderį lietuviai naudojo 15 mašinų ir 5 sienodaužius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "698095-698399; hash=f278fd3217b23fe32e4812857f5b2b0650ff7e91134b1b0e564bb986446e9779; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sienodaužiai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sienodaužiai\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  pagrindžia:
+    - c-156006
 
 <a id="claim-t-171483"></a>
 - t-004
   global_id: t-171483
-  teiginys: 'Apgulimo metu pilies mūrams griauti buvo pastatyti sienodaužiai ir pilies mūrų aukščio bokštas.'
+  teiginys: "Apgulimo metu pilies mūrams griauti buvo pastatyti sienodaužiai ir pilies mūrų aukščio bokštas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "693744-694106; hash=862983ca16e1955e827c7c127b739d9c7cf9b7ae1c8744cfeb5b0b3cb070a5f6; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-002
-
+    - c-156007
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -77,6 +121,7 @@ Nenurodyta
     Tačiau kryžiuočiai tuojau pat Gotteswerderi užpuolė ir, lietuviams
     keršydami, pilį su jos 109 gynėjais sudegino.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -95,9 +140,44 @@ Nenurodyta
     puolami dieną ir naktį », « bet jie, krikščionių nelaimei, karžygiškai
     gynėsi ».
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
     - t-001
+
+## Citatos
+
+- id: c-156006
+  citata_originali: |
+    Kęstutis ją, po 5 savaites trukusio apgulimo, naudodamas sienoms
+    griauti mašinas, paėmė. Torno analuose pažymėta, kad lietuviai,
+    puldami Gotteswerderi, naudojo 15 mašinų ir 5 sienodaužius^19.
+    Tačiau kryžiuočiai tuojau pat Gotteswerderi užpuolė ir, lietuviams
+    keršydami, pilį su jos 109 gynėjais sudegino.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171481
+    - t-171482
+
+- id: c-156007
+  citata_originali: |
+    Tris savaites už­
+    trukęs apgulimas buvo atliktas gerai pasiruošus, nes «pilis buvo
+    labai aukšta ir stipri ». Jos mūrams griauti čia pat buvo pastatyti
+    sienodaužiai ir pilies mūrų aukščio bokštas. Atskirus pilies puolimo
+    epizodus plačiai aprašęs, Wigandas pastebi, jog «pagonys buvo
+    puolami dieną ir naktį », « bet jie, krikščionių nelaimei, karžygiškai
+    gynėsi ».
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171483
+    - t-171480

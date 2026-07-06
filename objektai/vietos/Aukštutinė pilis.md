@@ -10,6 +10,18 @@ tags:
   - kunigaikštis
   - miestas
   - tauta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Aukštutinė pilis
 
@@ -22,23 +34,53 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
 <a id="claim-t-86059"></a>
 - t-001
   global_id: t-86059
-  teiginys: 'Aukštutinę pilį saugojo aukšti mūrai ir bokštai.'
+  teiginys: "Aukštutinę pilį saugojo aukšti mūrai ir bokštai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "267315-267661; hash=714b97d8fc898857d713ff80509f81b6284c3ded6773960d8822c6f3b331a2f2; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bokštai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aukštutinė pilis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Bokštai: mention_match, place, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukštutinė pilis\" parinktas kaip owner_note_path. Targetas \"Bokštai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-82038
 
 <a id="claim-t-86060"></a>
-- t-002
+- t-003
   global_id: t-86060
-  teiginys: 'Aukštutinė pilis stovėjo ant Tauro kalno.'
+  teiginys: "Aukštutinė pilis stovėjo ant Tauro kalno."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "420233-420405; hash=f456b92ceeed3f097ef441a75d8e57aa41cd672f5dbbcbc537b21032a293b3ef; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aukštutinė pilis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukštutinė pilis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-82040
 
 <a id="claim-t-86061"></a>
-- t-003
+- t-002
   global_id: t-86061
-  teiginys: 'Aukštutinėje tvirtovėje buvo užsidarę lenkai, vadovaujami Karūnos pakanclerio Mikalojaus Moskoževskio.'
+  teiginys: "Aukštutinėje tvirtovėje buvo užsidarę lenkai, vadovaujami Karūnos pakanclerio Mikalojaus Moskoževskio."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "267533-268082; hash=64b839c5afb040e23275d8df2d0202cf7143fcc83c6d6cf3f3b637e9c84ccdf3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Karūna: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aukštutinė pilis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Karūna: mention_match, thing, gap=58"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukštutinė pilis\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-82039
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176329|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Pasak Strijkovskio ir Kojelavičiaus, Gediminas po sapno pastatydino Aukštutinę mūro pilį ir medinę pilį, pavadintą Vilniumi.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176370|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Strijkovskis ir Kojelavičius Vilniaus įkūrimą priskyrė Gediminui, siedami jį su medžiokle Šventaragio slėnyje ir geležinio vilko sapnu.
 - susijęs iš [[objektai/paprociai/Žynio sapno aiškinimas ir aukojimas prieš miesto statybą.md#claim-t-87312|Žynio sapno aiškinimas ir aukojimas prieš miesto statybą]]: Lizdeikos sapno aiškinimas paskatino Gediminą po aukų pastatyti Aukštutinę mūro pilį ant Tauro kalno ir medinę pilį slėnyje, pavadintą Vilniumi.
@@ -77,14 +119,6 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
 - susijęs iš Tauro Gedimino kalnas: Jogailos laikų Vilniaus miesto plane Aukštutinė pilis pažymėta ant Tauro kalno.
 - susijęs iš Tauro kalnas: Pasakojime Tauro kalnu vadintas kalnas, ant kurio Gediminas medžiodamas pašovė ir pribaigė didžiulį taurą.
 - susijęs iš Trakai: Švitrigaila daug kartų puolė Žygimantą ir kartą pasiekė Vilnių bei Trakus, tačiau nieko nelaimėjo.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
 - susijęs iš Vilnia: Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
 - susijęs iš Vilnia: Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
 - susijęs iš Vilnia: Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
@@ -111,6 +145,7 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
     pats miesto centras, nedidelis, su mediniais namais, bet su
     tvirtų statinių tvorų ir griovių sutvirtinimais.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -134,6 +169,7 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
     šio monarcho jam skirtą valdą - Po-
     lonos miestelį.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -153,11 +189,68 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
     1. Aukštutinė pilis ant Tauro* kalno.
     2. Žemutinė, arba Kreivoji pilis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-82038
+  citata_originali: |
+    Kryžiuočiai priešais regėjo dvi galingas tvirtoves, prieš
+    kurias buvo užsimota. Aukštutinė pilis, aukštų mūrų bei
+    bokštų saugoma, ir Žemutinė, apačioje besidriekianti, kur
+    buvo kunigaikščių menės, vadinta Kreivąja. Prie jos šliejosi
+    pats miesto centras, nedidelis, su mediniais namais, bet su
+    tvirtų statinių tvorų ir griovių sutvirtinimais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86059
+
+- id: c-82039
+  citata_originali: |
+    Prie jos šliejosi
+    pats miesto centras, nedidelis, su mediniais namais, bet su
+    tvirtų statinių tvorų ir griovių sutvirtinimais. Čia slėpdavo­
+    si gyventojai iš priemiesčių ir nuošalių namų bei pirkliai su
+    prekėmis, todėl vokiečių ji buvo praminta Krautuvių Pili­
+    mi28. Aukštutinėje tvirtovėje užsidarė lenkai, vadovaujami Ka­
+    rūnos pakanclerio Mikalojaus Moskoževskio, o Kreivojoje pi-
+    buvo prisistatęs Vytautui stovyklo­
+    je prie Smolensko su bajorais ir, Vy­
+    tautui tą miestą užėmus, priėmė iš
+    šio monarcho jam skirtą valdą - Po-
+    lonos miestelį.
+  citata_rodoma: "Čia slėpdavo­\nsi gyventojai iš priemiesčių ir nuošalių namų bei pirkliai su \nprekėmis, todėl vokiečių ji buvo praminta Krautuvių Pili­\nmi28. Aukštutinėje tvirtovėje užsidarė lenkai, vadovaujami Ka­\nrūnos pakanclerio Mikalojaus Moskoževskio, o Kreivojoje pi-\nbuvo prisistatęs Vytautui stovyklo­\nje prie Smolensko su bajorais ir, Vy­\ntautui tą miestą užėmus, priėmė iš \nšio monarcho jam skirtą valdą - Po- \nlonos miestelį."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86061
+
+- id: c-82040
+  citata_originali: |
+    ## Puslapis 217
+
+    Il KNYGA
+    VI
+    VILNIAUS MIESTO PLANAS JOGAILOS LAIKAIS,
+    PRIEŠ KRIKŠČIONYBĖS PRIĖMIMĄ
+    1. Aukštutinė pilis ant Tauro* kalno.
+    2. Žemutinė, arba Kreivoji pilis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86060
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Zenonas'
 saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1414 m.'
@@ -18,6 +19,18 @@ amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Zenonas
 
@@ -30,12 +43,57 @@ Popiežiaus pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti, bet ne
 <a id="claim-t-35392"></a>
 - t-001
   global_id: t-35392
-  teiginys: 'Popiežiaus pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti, bet neįstengė.'
+  teiginys: "Popiežiaus pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti, bet neįstengė."
+  temporaliniai_duomenys: "įvykio data: po 1414 m.; įvykio data: 1414 m.; įvykio data: 1422 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir remiasi citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "343643-344090; hash=939fe77091e498ead5b5d74d403019e1aa134f3ea0cfb7cf9240ae37621dbc99; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Zenonas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zenonas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-38168
+
+<a id="claim-t-191001"></a>
+- t-002
+  global_id: t-191001
+  teiginys: "Narbutas Zenoną vaizduoja kaip klastingą valdovą, kuris 479 m. kurstė Teodoriką prieš Odoakrą, bet Teodorikas nesileido sukurstomas."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 479 m"
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Moralinis Zenono apibūdinimas ir kurstymo motyvas palikti su Narbuto atribucija. Nepridėta papildomų imperatoriaus veiksmų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "573296-573978; hash=f7da7bbe6e598f165e03f5f769960113b49fbb2044a06790bd87e9f621a404ed; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Odoakras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Zenonas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Odoakras: mention_match, person, gap=77"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zenonas\" parinktas kaip owner_note_path. Targetas \"Odoakras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-173883
+- susijęs iš [[objektai/asmenys/Zenonas iš Rodo.md#claim-t-191335|Zenonas iš Rodo]]: Narbutas Zenoną vaizduoja kaip klastingą valdovą, kuris 479 m. kurstė Teodoriką prieš Odoakrą, bet Teodorikas nesileido sukurstomas.
+- susijęs iš [[objektai/ivykiai/Romėnų ir Frederiko kreipimaisi į Zenoną bei Teodoriką prieš Odoakrą.md#claim-t-191073|Romėnų ir Frederiko kreipimaisi į Zenoną bei Teodoriką prieš Odoakrą]]: Narbuto pasakojime romėnai slapta kreipėsi į Zenoną, prašydami išvaduoti juos iš barbarų, o Frederikas Teodoriko rūmuose prašė pagalbos prieš berilius.
+- susijęs iš [[objektai/ivykiai/Zenono ir Teodoriko slaptas susitarimas dėl karo prieš Odoakrą.md#claim-t-191056|Zenono ir Teodoriko slaptas susitarimas dėl karo prieš Odoakrą]]: Narbutas vaizduoja Zenoną slapta susitarus su Teodoriku, galbūt tikintis sukelti barbarų valdovų karą ir pašalinti abi puses.
+- susijęs iš [[objektai/ivykiai/Zenono ir Teodoriko slaptas susitarimas dėl karo prieš Odoakrą.md#claim-t-191057|Zenono ir Teodoriko slaptas susitarimas dėl karo prieš Odoakrą]]: Narbutas rašo, kad Teodorikas 479 m. nesileido Zenono kurstomas prieš Odoakrą, bet vėliau Italijos žygį jam paskatino pavydas ir krašto troškimas.
 - susijęs iš [[objektai/asmenys/Povilas Russdortas.md#claim-t-35267|Povilas Russdortas]]: Povilas Russdortas buvo išrinktas Vokiečių ordino magistru vietoje atstatyto Küchmeisterio.
+- susijęs iš [[objektai/asmenys/Teodorikas Didysis.md#claim-t-191156|Teodorikas Didysis]]: Narbutas rašo, kad Zenonas slapta susitarė su Teodoriku ir, vildamasis barbarų valdovų tarpusavio karo, leido ostrogotams grobti Romą ir Italiją.
+- susijęs iš [[objektai/asmenys/Teodorikas.md#claim-t-191231|Teodorikas]]: Narbutas pasakoja, kad Zenonas slapta susitarė su Teodoriku ir leido ostrogotams grobti Romą bei Italiją.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176667|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1422 m. liepos pabaigoje Vytautas Didysis ir Jogaila, nelaukdami Ordino užpuolimo, išžygiavo prieš Ordiną.
 - susijęs iš [[objektai/ivykiai/Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.).md#claim-t-50799|Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.)]]: 1422 m. liepos pabaigoje Vytautas ir Jogaila išžygiavo prieš Ordiną, bet Vytautui neteko kautis atvirame mūšyje, nes vokiečiai užsidarė pilyse.
+- susijęs iš Ravena: Narbutas Raveną apibūdina kaip erdvesnę ir geriau aprūpintą už Paviją, turėjusią gerą susisiekimą su jūra apsiaustiesiems.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -50,8 +108,80 @@ Popiežiaus pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti, bet ne
     limo, 1422 m. liepos mėn. gale išžygiavo prieš Ordiną tuo pat
     keliu, kaip ir į Žalgirio mūšį.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Narbutas Zenoną vaizduoja kaip klastingą valdovą, kuris 479 m. kurstė Teodoriką prieš Odoakrą, bet Teodorikas nesileido sukurstomas.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    325
+    Rytų imperatorius, silpstant jo galiai, blaškėsi pavy­
+    dėdamas, sudarinėjo su Odoakru sutartis ir vėl pažeidi­
+    nėjo paliaubas, ieškojo priežasčių susidūrimams ir vėl
+    stengėsi jų išvengti. Galop jis slapta susitarė su Teodo-
+    riku, pasikliaudamas pažadais, o gal vildamasis sukelti
+    barbarų valdovų tarpusavio karą; abiem šalims nusilpus,
+    atsirastų proga pašalinti juos abu, be to, jis leido ostro-
+    gotams grobti ir Romą, ir Italiją. Nors Teodorikas gerai
+    perprato ketinimus visuomet klastingo Zenono, kuris jau
+    seniau, dar 479 metais, kurstė jį prieš Odoakrą, kai po
+    Nepo mirties nenorėjo laikyti Italijoje jo įtakingo vieti­
+    ninko; tačiau tuomet Teodorikas nesileido sukurstomas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+## Citatos
+
+- id: c-38168
+  citata_originali: |
+    Lengviausia, žinoma, buvo įtraukti į karą Vokiečių Or­
+    diną, kurio magistru buvo išrinktas jam palankus Povilas
+    Russdortas, vietoje atstatyto Küchmeisterio, nes Ordinas su
+    Vytautu nuo 1414 m. buvo tik per plauką nuo karo. Popiežiaus
+    pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti,
+    bet neįstengė. Vytautas ir Jogaila, nelaukdami Ordino užpuo­
+    limo, 1422 m. liepos mėn. gale išžygiavo prieš Ordiną tuo pat
+    keliu, kaip ir į Žalgirio mūšį.
+  citata_rodoma: "Popiežiaus\npasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti,\nbet neįstengė. Vytautas ir Jogaila, nelaukdami Ordino užpuo­\nlimo, 1422 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-35392
+
+- id: c-173883
+  citata_originali: |
+    325
+    Rytų imperatorius, silpstant jo galiai, blaškėsi pavy­
+    dėdamas, sudarinėjo su Odoakru sutartis ir vėl pažeidi­
+    nėjo paliaubas, ieškojo priežasčių susidūrimams ir vėl
+    stengėsi jų išvengti. Galop jis slapta susitarė su Teodo-
+    riku, pasikliaudamas pažadais, o gal vildamasis sukelti
+    barbarų valdovų tarpusavio karą; abiem šalims nusilpus,
+    atsirastų proga pašalinti juos abu, be to, jis leido ostro-
+    gotams grobti ir Romą, ir Italiją. Nors Teodorikas gerai
+    perprato ketinimus visuomet klastingo Zenono, kuris jau
+    seniau, dar 479 metais, kurstė jį prieš Odoakrą, kai po
+    Nepo mirties nenorėjo laikyti Italijoje jo įtakingo vieti­
+    ninko; tačiau tuomet Teodorikas nesileido sukurstomas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-191001
+
+## Ryšiai
+- Zenonas kariavo prieš [[objektai/asmenys/Odoakras]]
+- Zenonas sudarė sutartį su [[objektai/asmenys/Teodorikas]]

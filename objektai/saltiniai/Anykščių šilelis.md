@@ -21,6 +21,18 @@ tags:
 amziai:
   - 'XIX'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Anykščių šilelis
 
@@ -33,10 +45,22 @@ Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas,
 <a id="claim-t-26483"></a>
 - t-001
   global_id: t-26483
-  teiginys: '„Anykščių šilelis“ apibūdinamas kaip Antano Baranausko lietuvių literatūros šedevras.'
+  teiginys: "„Anykščių šilelis“ apibūdinamas kaip Antano Baranausko lietuvių literatūros šedevras."
+  temporaliniai_duomenys: "įvykio data: 1859 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalinta perteklinė citata ir paliktas aiškus teiginys apie kūrinį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "213803-214278; hash=c0a43a06e4a4072e7aa4f2a7d59bdd460a04101a25989c44c835fc06e085f088; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antanas Baranauskas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Anykščių šilelis: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Antanas Baranauskas: mention_match, person, gap=36"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Anykščių šilelis\" parinktas kaip owner_note_path. Targetas \"Antanas Baranauskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-26708
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -50,8 +74,27 @@ Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas,
     visi galvočiais, / Visam svietui visuos moksluos eis kelio vedžiotų.“ Tai
     civilizuotos, savo aukštąją kultūrą turinčios tautos vizija.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-26708
+  citata_originali: |
+    Tačiau antros šio sąjūdžio kartos atstovas, aukš-
+    taitis, kunigas ir poetas, ateityje tapsiantis vyskupu, lietuvių literatū-
+    ros šedevro, poemos „Anykščių šilelis“ autorius, Antanas Baranauskas
+    (1835–1902) 1859 m. parašė: „Viso svieto mokslus lietuviam paduosiu;
+    / Viso svieto raštus, knygas lietuviškan versiu. / Lietuvnykai žmonės bus
+    visi galvočiais, / Visam svietui visuos moksluos eis kelio vedžiotų.“ Tai
+    civilizuotos, savo aukštąją kultūrą turinčios tautos vizija.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-26483

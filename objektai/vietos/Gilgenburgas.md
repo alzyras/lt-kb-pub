@@ -15,6 +15,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Gilgenburgas
 
@@ -27,16 +39,39 @@ amziai:
 <a id="claim-t-177105"></a>
 - t-001
   global_id: t-177105
-  teiginys: 'Sąjungininkų kariuomenė paėmė Gilgenburgą ir žygiavo Tannenbergo kryptimi.'
+  teiginys: "Sąjungininkų kariuomenė paėmė Gilgenburgą ir žygiavo Tannenbergo kryptimi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "928637-928846; hash=2a34ad2e5e987e8b4d436c49798d95a788a8c2fe8006ccaf74e8c5230cfb16ec; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Drevenca: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gilgenburgas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Drevenca: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gilgenburgas\" parinktas kaip owner_note_path. Targetas \"Drevenca\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-161010
 
 <a id="claim-t-184387"></a>
 - t-002
   global_id: t-184387
-  teiginys: 'Ordino didysis magistras Ulrichas von Jungingenas iš pabėgėlių sužinojo, kad sąjungininkai paėmė Gilgenburgą ir žygiavo Tannenbergo link.'
+  teiginys: "Ordino didysis magistras Ulrichas von Jungingenas iš pabėgėlių sužinojo, kad sąjungininkai paėmė Gilgenburgą ir žygiavo Tannenbergo link."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "928507-928804; hash=122067596100b247d5eef8e0367e9626919d26a86f5a4905087f324964ed3d0b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Drevenca: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gilgenburgas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Drevenca: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gilgenburgas\" parinktas kaip owner_note_path. Targetas \"Drevenca\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-167755
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184221|Lietuviai]]: Žygiuojant Gilgenburgo link, lietuviai žygiavo pirmieji.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184221|Lietuviai]]: Žygiuojant Gilgenburgo link, lietuviai žygiavo pirmieji.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184221|Lietuviai]]: Žygiuojant Gilgenburgo link, lietuviai žygiavo pirmieji.
@@ -57,8 +92,9 @@ amziai:
     Gilgenburgą, žygiavo Tannenbergo kryptimi. Kryžiuočiai patys
     numatė kautynėms vietą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -73,11 +109,41 @@ amziai:
     pulkus, magistras iš pabėgėlių patyrė, jog sąjungininkai, paėmę
     Gilgenburgą, žygiavo Tannenbergo kryptimi.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-161010
+  citata_originali: |
+    Nuo Torno Drevencos krantu iki Loebau (VII. 13) atvedęs savo
+    pulkus, magistras iš pabėgėlių patyrė, jog sąjungininkai, paėmę
+    Gilgenburgą, žygiavo Tannenbergo kryptimi. Kryžiuočiai patys
+    numatė kautynėms vietą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177105
+
+- id: c-167755
+  citata_originali: |
+    Gana vėlai tepatyręs Jogailos ir Vytauto planus, ordino didysis
+    magistras Ulricbas von Jungingenas skubėjo priešui pastoti kelią.
+    Nuo Torno Drevencos krantu iki Loebau (VII. 13) atvedęs savo
+    pulkus, magistras iš pabėgėlių patyrė, jog sąjungininkai, paėmę
+    Gilgenburgą, žygiavo Tannenbergo kryptimi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184387
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]

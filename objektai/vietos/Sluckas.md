@@ -15,11 +15,6 @@ datos:
   - '2026 m.'
 date_start: '1505'
 date_end: '2026'
-description: 'Sluckas siejamas su 1506 m. totorių žygiais, nepasidavimu maišto metu, protestantų mokykla ir jėzuitų kolegija.'
-socialDescription: 'Sluckas LDK istorijoje: totorių žygiai, maišto epizodai, protestantų mokykla ir jėzuitų kolegija.'
-seo_atnaujinta: '2026-07-02T23:12:35.312275+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -30,126 +25,379 @@ tags:
 amziai:
   - 'XVI'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Sluckas
 
 ## Santrauka
 
-Sluckas minimas kaip LDK branduolio vieta, kurią palietė 1506 m. totorių žygiai Slucko ir Minsko apylinkėse. Per maištą Sluckas ir Minskas nepasidavė, nors Mozyrių ir Turovą sukilėliui pavyko užimti. Mieste veikė protestantų mokykla, vėliau Slucke buvo įkurta ir jėzuitų kolegija.
+Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte ir Maskvos pasieny. Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mozyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė. Maskvos pasienio sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mozyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė.
 
 ## Teiginiai
 
 <a id="claim-t-84799"></a>
-- t-001
+- t-018
   global_id: t-84799
-  teiginys: 'Slucke buvo įkurta protestantų mokykla, o pradžios mokyklų buvo beveik kiekvienoje protestantų parapijoje.'
+  teiginys: "Slucke buvo įkurta protestantų mokykla, o pradžios mokyklų buvo beveik kiekvienoje protestantų parapijoje."
+  temporaliniai_duomenys: "įvykio data: 1640 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys sutelktas į Slucką ir pašalintas perteklinis vietovių sąrašas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "646641-646854; hash=9bff91ad0f5672411ddadaa596bfe46d1c517fce137594c10b699be4ebfa199e; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Protestantai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sluckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Protestantai: mention_match, group, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sluckas\" parinktas kaip owner_note_path. Targetas \"Protestantai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-46723
 
 <a id="claim-t-84800"></a>
-- t-002
+- t-006
   global_id: t-84800
-  teiginys: 'Totorių žygis pasiekė Slucko apylinkes, kurios priklausė tankiai apgyventam ir turtingam LDK branduoliui.'
+  teiginys: "Totorių žygis pasiekė Slucko apylinkes, kurios priklausė tankiai apgyventam ir turtingam LDK branduoliui."
+  temporaliniai_duomenys: "mūšio data: 1506 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "304964-305302; hash=3d12ab11f0d9f3f87cd4cbc41add2e0182219d61a00aa3e40ac9b9b2e25b8a3b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Naugardukas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sluckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Naugardukas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sluckas\" parinktas kaip owner_note_path. Targetas \"Naugardukas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-43861
 
 <a id="claim-t-84801"></a>
-- t-003
+- t-017
   global_id: t-84801
-  teiginys: 'Slucke buvo įkurta protestantų mokykla.'
+  teiginys: "Slucke buvo įkurta protestantų mokykla."
+  temporaliniai_duomenys: "įvykio data: 1640 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "646641-646854; hash=9bff91ad0f5672411ddadaa596bfe46d1c517fce137594c10b699be4ebfa199e; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Protestantai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sluckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Protestantai: mention_match, group, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sluckas\" parinktas kaip owner_note_path. Targetas \"Protestantai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-004
+    - c-46723
 
 <a id="claim-t-84802"></a>
-- t-004
+- t-016
   global_id: t-84802
-  teiginys: 'Slucke buvo įkurta jėzuitų kolegija, paremta sudėtine fundacija.'
+  teiginys: "Slucke buvo įkurta jėzuitų kolegija, paremta sudėtine fundacija."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "646006-646345; hash=9882bf2ae25043ca9a66843c340bcc1f1d2cbe2fdfd52d5b5bbb306665458eab; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sluckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sluckas\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-46722
 
 <a id="claim-t-84803"></a>
-- t-005
+- t-014
   global_id: t-84803
-  teiginys: 'Valdymo pabaigoje Slucke liko atskira kunigaikštystė, bet jos pilį valdė didžiojo kunigaikščio vietininkai.'
+  teiginys: "Valdymo pabaigoje Slucke liko atskira kunigaikštystė, bet jos pilį valdė didžiojo kunigaikščio vietininkai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "300572-301022; hash=84557da06015079f01386282cd490907f5adf727b81746ac1f6223a4294418b6; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sluckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sluckas\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-006
+    - c-80930
 
 <a id="claim-t-84804"></a>
-- t-006
+- t-010
   global_id: t-84804
-  teiginys: '1506 m. vasarą totoriai veržėsi į LDK branduolį, apėmusį ir Slucko apylinkes.'
+  teiginys: "1506 m. vasarą totoriai veržėsi į LDK branduolį, apėmusį ir Slucko apylinkes."
+  temporaliniai_duomenys: "įvykio data: 1506 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradiniame teiginyje yra neaiškių įvardžių ir citatos stilistikos, todėl faktą reikia perrašyti enciklopediškai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "304964-305302; hash=3d12ab11f0d9f3f87cd4cbc41add2e0182219d61a00aa3e40ac9b9b2e25b8a3b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Naugardukas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sluckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Naugardukas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sluckas\" parinktas kaip owner_note_path. Targetas \"Naugardukas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-43861
 
 <a id="claim-t-84805"></a>
-- t-007
+- t-015
   global_id: t-84805
-  teiginys: 'Per maištą Sluckas ir Minskas nepasidavė, nors Mozyrių ir Turovą sukilėliui pavyko užimti.'
+  teiginys: "Per maištą Sluckas ir Minskas nepasidavė, nors Mozyrių ir Turovą sukilėliui pavyko užimti."
+  temporaliniai_duomenys: "įvykio data: 1535 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "643471-643668; hash=98a8122e62204cba24c94d0a39651ff3a7292be30729a350a3aca4e7dbbe2e88; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Minskas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sluckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Minskas: mention_match, place, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sluckas\" parinktas kaip owner_note_path. Targetas \"Minskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-007
+    - c-80933
 
 <a id="claim-t-84806"></a>
-- t-008
+- t-007
   global_id: t-84806
-  teiginys: 'Žygio maršrutas nuo Lojevo ėjo vakarų kryptimi Mozyriaus ir Slucko link.'
+  teiginys: "Žygio maršrutas nuo Lojevo ėjo vakarų kryptimi Mozyriaus ir Slucko link."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "305502-305820; hash=c15f55221ce9a73c3f67618ba100f030b66a3e4b10aa07c1b4b8f62ec250d186; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dniepras: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sluckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Dniepras: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sluckas\" parinktas kaip owner_note_path. Targetas \"Dniepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-43862
 
-<a id="claim-t-84807"></a>
+<a id="claim-t-84808"></a>
 - t-009
-  global_id: t-84807
-  teiginys: '1506 m. totoriai nusiaubė Slucko ir Minsko apylinkes ir pradėjo taikytis į Vilnių.'
+  global_id: t-84808
+  teiginys: "1506 m. totoriai nusiaubė Slucko ir Minsko apylinkes ir pradėjo taikytis į Vilnių."
+  temporaliniai_duomenys: "įvykio data: 1506 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "300572-301022; hash=84557da06015079f01386282cd490907f5adf727b81746ac1f6223a4294418b6; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Minskas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sluckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Minskas: mention_match, place, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sluckas\" parinktas kaip owner_note_path. Targetas \"Minskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-80929
+
+<a id="claim-t-84808"></a>
+- t-009
+  global_id: t-84808
+  teiginys: "1506 m. totoriai nusiaubė Slucko ir Minsko apylinkes ir pradėjo taikytis į Vilnių."
+  temporaliniai_duomenys: "įvykio data: 1506 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "300572-301022; hash=84557da06015079f01386282cd490907f5adf727b81746ac1f6223a4294418b6; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Minskas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sluckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Minskas: mention_match, place, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sluckas\" parinktas kaip owner_note_path. Targetas \"Minskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-80929
 
 <a id="claim-t-185145"></a>
-- t-011
+- t-012
   global_id: t-185145
-  teiginys: 'Po Slucko kunigaikščio Simono Olelkaičio mirties Biti Girėjus ir Burnaš Girėjus rugpjūčio viduryje užpuolė Slucką.'
+  teiginys: "Po Slucko kunigaikščio Simono Olelkaičio mirties Biti Girėjus ir Burnaš Girėjus rugpjūčio viduryje užpuolė Slucką."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1535 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys išvalytas nuo OCR klaidų ir paliktas citatos remiamas faktas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "643471-643668; hash=98a8122e62204cba24c94d0a39651ff3a7292be30729a350a3aca4e7dbbe2e88; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Biti Girėjus: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sluckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Biti Girėjus: mention_match, person, gap=46"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sluckas\" parinktas kaip owner_note_path. Targetas \"Biti Girėjus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-168506
 
 <a id="claim-t-185146"></a>
-- t-012
+- t-013
   global_id: t-185146
-  teiginys: 'Po nesėkmingo puolimo prie Slucko skitai pasitraukė ir patraukė į Naugarduką.'
+  teiginys: "Po nesėkmingo puolimo prie Slucko skitai pasitraukė ir patraukė į Naugarduką."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "646006-646345; hash=9882bf2ae25043ca9a66843c340bcc1f1d2cbe2fdfd52d5b5bbb306665458eab; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Naugardukas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sluckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Naugardukas: mention_match, place, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sluckas\" parinktas kaip owner_note_path. Targetas \"Naugardukas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-168507
 
 <a id="claim-t-185147"></a>
-- t-013
+- t-014
   global_id: t-185147
-  teiginys: 'Į karaliaus stovyklą atbėgę žmonės teigė, kad dvidešimt tūkstančių priešų liko prie Slucko.'
+  teiginys: "Į karaliaus stovyklą atbėgę žmonės teigė, kad dvidešimt tūkstančių priešų liko prie Slucko."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1640 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys ilgas ir fragmentiškas; citata palaiko trumpą faktą apie pranešimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "646641-646854; hash=9bff91ad0f5672411ddadaa596bfe46d1c517fce137594c10b699be4ebfa199e; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kalvinai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sluckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kalvinai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sluckas\" parinktas kaip owner_note_path. Targetas \"Kalvinai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-010
+    - c-168508
 
 <a id="claim-t-187648"></a>
 - t-014
   global_id: t-187648
-  teiginys: 'Lietuviai gaudė pabėgusius totorius Slucko, Petrikovičių, Ovručo, Žitomiro ir Volynės keliais, juos žudė ir atiminėjo grobį.'
+  teiginys: "Lietuviai gaudė pabėgusius totorius Slucko, Petrikovičių, Ovručo, Žitomiro ir Volynės keliais, juos žudė ir atiminėjo grobį."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "300572-301022; hash=84557da06015079f01386282cd490907f5adf727b81746ac1f6223a4294418b6; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Volynė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sluckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Volynė: mention_match, place, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sluckas\" parinktas kaip owner_note_path. Targetas \"Volynė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-011
+    - c-170593
 
 <a id="claim-t-187649"></a>
 - t-015
   global_id: t-187649
-  teiginys: 'Slucko kunigaikštis Simonas Mykolaitis Olelkaitis valdė Slucką ir Kopylių, buvo Mykolo Olelkaičio sūnus ir mirė 1505 m. rugsėjo 14 d.'
+  teiginys: "Slucko kunigaikštis Simonas Mykolaitis Olelkaitis valdė Slucką ir Kopylių, buvo Mykolo Olelkaičio sūnus ir mirė 1505 m. rugsėjo 14 d."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1505 m.; įvykio data: 1535 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Slucką ir valdžiusį asmenį, o citata tiesiogiai nurodo valdas, kilmę ir mirties datą. Papildomų genealoginių faktų nepridėta."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "643471-643668; hash=98a8122e62204cba24c94d0a39651ff3a7292be30729a350a3aca4e7dbbe2e88; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sluckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sluckas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-012
+    - c-170594
 
 <a id="claim-t-187650"></a>
 - t-016
   global_id: t-187650
-  teiginys: 'Umolts — gyvenvietė prie Slucko.'
+  teiginys: "Umolts — gyvenvietė prie Slucko."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "646006-646345; hash=9882bf2ae25043ca9a66843c340bcc1f1d2cbe2fdfd52d5b5bbb306665458eab; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sluckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sluckas\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-013
+    - c-170595
 
 <a id="claim-t-187651"></a>
 - t-017
   global_id: t-187651
-  teiginys: 'Gričino pelkės buvo didžiuliai pelkių plotai į pietus nuo Slucko.'
+  teiginys: "Gričino pelkės buvo didžiuliai pelkių plotai į pietus nuo Slucko."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1640 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako Gričino pelkių pobūdį ir padėtį Slucko atžvilgiu. Citatos OCR bei gretimi vietovardžiai neįtraukti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "646641-646854; hash=9bff91ad0f5672411ddadaa596bfe46d1c517fce137594c10b699be4ebfa199e; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gričino pelkės: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sluckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gričino pelkės: mention_match, place, gap=58"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sluckas\" parinktas kaip owner_note_path. Targetas \"Gričino pelkės\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-014
+    - c-170596
 - susijęs iš [[objektai/asmenys/Burnaš Girėjus.md#claim-t-186189|Burnaš Girėjus]]: Burnaš Girėjus su Biti Girėjumi rugpjūčio viduryje užpuolė Slucką po Simono Olelkaičio mirties.
 - susijęs iš [[objektai/asmenys/Biti Girėjus.md#claim-t-186184|Biti Girėjus]]: Po Simono Olelkaičio mirties Biti Girėjus ir Burnaš Girėjus rugpjūčio viduryje užpuolė Slucką.
 - susijęs iš [[objektai/ivykiai/Biti Girėjaus ir Burnaš Girėjaus puolimas prieš Slucką.md#claim-t-185696|Biti Girėjaus ir Burnaš Girėjaus puolimas prieš Slucką]]: Po Slucko kunigaikščio Simono Olelkaičio mirties Biti Girėjus ir Burnaš Girėjus rugpjūčio viduryje užpuolė Slucką.
@@ -279,6 +527,7 @@ Sluckas minimas kaip LDK branduolio vieta, kurią palietė 1506 m. totorių žyg
     krašte. Totoriai neturėjo pagrindo įtarti, kad
     sėkmė nuo jų šį kartą nusisuks.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -299,6 +548,7 @@ Sluckas minimas kaip LDK branduolio vieta, kurią palietė 1506 m. totorių žyg
     karų kryptimi Mozyriaus ir Slucko link.
     Galiausiai apie liepos 20-22 d. jie sustojo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -322,6 +572,7 @@ Sluckas minimas kaip LDK branduolio vieta, kurią palietė 1506 m. totorių žyg
     kiuose (Minkevičių f-ja), Brastoje (vicekanclerio L. K. Sa-
     piegos f-ja).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -338,6 +589,7 @@ Sluckas minimas kaip LDK branduolio vieta, kurią palietė 1506 m. totorių žyg
     tantų susidūrimų su katalikais, 1640 m. ji buvo panaikinta kartu su
     kalvinų bažnyčia.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -360,6 +612,7 @@ Sluckas minimas kaip LDK branduolio vieta, kurią palietė 1506 m. totorių žyg
     vyskupo Vaitiekaus Taboro, visą miestą apjuosė mūro py­
     limu, išmetę medinius statinius.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -377,6 +630,7 @@ Sluckas minimas kaip LDK branduolio vieta, kurią palietė 1506 m. totorių žyg
     kunigaikščio vietininkai, todėl jos nebegalėjo būti pavojingos
     valstybės vieningumui.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -398,6 +652,7 @@ Sluckas minimas kaip LDK branduolio vieta, kurią palietė 1506 m. totorių žyg
     sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-
     zyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -422,6 +677,7 @@ Sluckas minimas kaip LDK branduolio vieta, kurią palietė 1506 m. totorių žyg
     šaukė savo valdų vyrus ir juos prisaikdino, kad at­
     kakliai kovotų už mažametį kunigaikštį.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -445,6 +701,7 @@ Sluckas minimas kaip LDK branduolio vieta, kurią palietė 1506 m. totorių žyg
     skitai, smarkiai jų sumušti, turėjo pasitraukti. Palikę
     Slucką, barbarai patraukė į Naugarduką.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -467,6 +724,7 @@ Sluckas minimas kaip LDK branduolio vieta, kurią palietė 1506 m. totorių žyg
     nelyginant kokia baidykle bailesnius žmones, kad
     priešai taip skuba, jog sunku net įsivaizduoti.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -490,6 +748,7 @@ Sluckas minimas kaip LDK branduolio vieta, kurią palietė 1506 m. totorių žyg
     2itomiro, Volynės keliais į visas puses, lietuviai žudė
     ir atiminėjo grobį. Labai maža jų grįžo į Ordą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -508,6 +767,7 @@ Sluckas minimas kaip LDK branduolio vieta, kurią palietė 1506 m. totorių žyg
     vič) — Algirdo sūnaus Vladimiro palikuonis, Mykolo Olelkaičio sū­
     nus, Valdė Slucką ir Kopylių, mirė 1505.IX.14.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -525,6 +785,7 @@ Sluckas minimas kaip LDK branduolio vieta, kurią palietė 1506 m. totorių žyg
     '* N esvyiius — BTSR miestas (prie Ušos, Nemuno Intako, apie
     70 km j šiaurės vakarus nuo Slucko).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -541,11 +802,276 @@ Sluckas minimas kaip LDK branduolio vieta, kurią palietė 1506 m. totorių žyg
     120 km | pietus nuo Slucko, apie 12 km j pietus nuo Pripetės
     upės).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
+## Citatos
+
+- id: c-43861
+  citata_originali: |
+    1506 m. vasarą totoriai įsiveržė į LDK valdas
+    gerai nusiteikę. Prieš metus įvykęs jų žygis
+    leido jiems „smagintis“ Vilniaus ir Polocko,
+    Vitebsko ir Drucko, Naugarduko ir Slucko
+    apylinkėse - tikrajame LDK branduolyje,
+    tankiausiai apgyventame ir turtingiausiame
+    krašte. Totoriai neturėjo pagrindo įtarti, kad
+    sėkmė nuo jų šį kartą nusisuks.
+  citata_rodoma: "Prieš metus įvykęs jų žygis\nleido jiems „smagintis“ Vilniaus ir Polocko,\nVitebsko ir Drucko, Naugarduko ir Slucko\napylinkėse - tikrajame LDK branduolyje,\ntankiausiai apgyventame ir turtingiausiame\nkrašte. Totoriai neturėjo pagrindo įtarti, kad\nsėkmė nuo jų šį kartą nusisuks."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-84800
+    - t-84804
+
+- id: c-43862
+  citata_originali: |
+    Jodami stepėmis tarp
+    Lietuvos ir Maskvos valdų jie kasdien su-
+    kardavo maždaug po 25 km ir per 50 dienų
+    įveikė apie 900 km atstumą. Ties Lojevu jie
+    persikėlė į dešinįjį Dniepro krantą ir pa-
+    spartinę žygio tempą pasileido tiesiai va-
+    karų kryptimi Mozyriaus ir Slucko link.
+    Galiausiai apie liepos 20-22 d. jie sustojo.
+  citata_rodoma: "Ties Lojevu jie\npersikėlė į dešinįjį Dniepro krantą ir pa-\nspartinę žygio tempą pasileido tiesiai va-\nkarų kryptimi Mozyriaus ir Slucko link.\nGaliausiai apie liepos 20-22 d."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-84806
+
+- id: c-46722
+  citata_originali: |
+    Tuo
+    būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono
+    Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko
+    vyskupo Isaikovskio ir kt. fundacija). Oršoje (karaliaus Zig-
+    manto fundacija), Smolenske (klebono Lempickio ir kt. fun-
+    dacija), Kaune (brolių Vijūkų Kojelavičių fundacija), Minske
+    (kanclerio Martyno Oginskio ir K. Bžostausko fundacija), Nau-
+    garduke (sudėtinė fundacija), Bobruiske (Triznos fun-
+    dacija), Pinske (kanclerio Aibr. St. Radvilos fundacija), Pa-
+    šiaušėje (bajoro Beinarto f-ja), Slucke (sudėtinė f-ja),
+    Vitebske (Smolensko vaivados A. Gansiausko f-ja), Žodiš-
+    kiuose (Minkevičių f-ja), Brastoje (vicekanclerio L. K. Sa-
+    piegos f-ja).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-84802
+
+- id: c-46723
+  citata_originali: |
+    Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvy-
+    žiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pra-
+    džios mokyklų buvo beveik kiekvienoj jų parapijoj. Iš visų
+    šių mokyklų iš pradžių žymiausioji buvo vilniškė. Po protes-
+    tantų susidūrimų su katalikais, 1640 m. ji buvo panaikinta kartu su
+    kalvinų bažnyčia.
+  citata_rodoma: "Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvy-\nžiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pra-\ndžios mokyklų buvo beveik kiekvienoj jų parapijoj. Iš visų\nšių mokyklų iš pradžių žymiausioji buvo vilniškė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-84801
+    - t-84799
+
+- id: c-80929
+  citata_originali: |
+    Miestiečiai prie jų
+    dieną ir naktį turėjo eiti sargybą, jiems buvo suteikta laisvė
+    imti po vieną pinigą kas dveji metai, arba po vieną akmenį
+    nuo kiekvieno vežimo, gabenančio javus ar kokius kitus pro­
+    duktus. Tačiau šis karaliaus nurodymas gal taip greitai ne­
+    būtų buvęs įgyvendintas, jeigu 1506 metais totoriai, nusiau­
+    bę Slucko ir Minsko apylinkes, nebūtų pradėję taikytis į
+    Vilnių. Jų pabūgę miestiečiai, raginami ir remiami Vilniaus
+    vyskupo Vaitiekaus Taboro, visą miestą apjuosė mūro py­
+    limu, išmetę medinius statinius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-84807
+    - t-84808
+
+- id: c-80930
+  citata_originali: |
+    Taip pat jis darė ir su kitomis mažesnėmis kunigaikštystėmis.
+    Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko
+    tik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte
+    ir Maskvos pasieny. Tačiau jose esančias pilis valdė didžiojo
+    kunigaikščio vietininkai, todėl jos nebegalėjo būti pavojingos
+    valstybės vieningumui.
+  citata_rodoma: "Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko\ntik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte\nir Maskvos pasieny. Tačiau jose esančias pilis valdė didžiojo\nkunigaikščio vietininkai, todėl jos nebegalėjo būti pavojingos"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-84803
+
+- id: c-80933
+  citata_originali: |
+    Be to, Lietuvos po-
+    nai, jo priešai, norėdami jį
+    pražudyti, grasino jam iš-
+    kelti bylą tarsi už Aleksan-
+    dro nužudymą. Visa tai
+    matydamas, jis sumanė už-
+    grobti kuo daugiausia Lie-
+    tuvos žemių ir pasiduoti Maskvos kunigaikščiui Vosyliui III
+    (1505—1535 m.). Tačiau jis kiek apsivylė: Maskvos pasienio
+    sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-
+    zyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė.
+  citata_rodoma: "Tačiau jis kiek apsivylė: Maskvos pasienio\nsritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-\nzyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-84805
+
+- id: c-168506
+  citata_originali: |
+    Mengli Girėjaus kariai, veda­
+    mi jo sūnų, nusiaubė Lietuvą, pridarydami galybę ža­
+    los. Mirus Slucko kunigaikščiui Simonui Olelkaičiui,
+    jaunesnieji sūnūs Biti Girėjus ir Burnaš Girėjus rugp­
+    jūčio viduryje užpuolė Slucką. Sužinojusi apie gresian­
+    tį pavojų, našlė Anastazija, tikra didvyrė, prilygstanti
+    584
+
+    ## Puslapis 583
+
+    narsumu kuriems ne kuriems vyrams, negaišdama su­
+    šaukė savo valdų vyrus ir juos prisaikdino, kad at­
+    kakliai kovotų už mažametį kunigaikštį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185145
+
+- id: c-168507
+  citata_originali: |
+    Sužinojusi apie gresian­
+    tį pavojų, našlė Anastazija, tikra didvyrė, prilygstanti
+    584
+
+    ## Puslapis 583
+
+    narsumu kuriems ne kuriems vyrams, negaišdama su­
+    šaukė savo valdų vyrus ir juos prisaikdino, kad at­
+    kakliai kovotų už mažametį kunigaikštį. Miestiečiai,
+    kaimiečiai bei bajorai taip ryžtingai stojo į kovą, kad
+    skitai, smarkiai jų sumušti, turėjo pasitraukti. Palikę
+    Slucką, barbarai patraukė į Naugarduką.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185146
+
+- id: c-168508
+  citata_originali: |
+    Karaliui atvykus į Lydą, vienas
+    bajoras, šiaip taip pasprukęs iš niokotojų rankų, pra­
+    nešė, kad priešas visur ugnimi bei kalaviju siaubiąs
+    kraštą, o nuo Lydos iki jo — beveik viena diena kelio.
+    Patikėjo žmogumi, kuris sakėsi esąs strėle sužeistas į
+    žandą, o netrukus atbėgo į stovyklą daug kitų, teigian­
+    čių, jog dvidešimt tūkstančių liko prie Slucko, o visos
+    kitos jėgos be galo greitai traukia prie Naugarduko.
+    Kas be ko, daugelis apsirikusiųjų tvirtino, gąsdindami
+    nelyginant kokia baidykle bailesnius žmones, kad
+    priešai taip skuba, jog sunku net įsivaizduoti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185147
+
+- id: c-170593
+  citata_originali: |
+    Ir kai totoriai pribėgo Ceprą, bemaž visi upėje ir
+    pelkėje prigėrė; taip daug totorių ir jų arklių buvo
+    upėje ir pelkėje, jog lietuviai galėjo joti raiti ir pėsti
+    pereiti, lipdami per totorių ir jų arklių lavonus.
+    174
+
+    ## Puslapis 170
+
+    O tuos nedaugelį totorių, kurie pabėgo su chanai-
+    čiais, gaudė bebėgančius Slucko, Petrikovičių, Ovručo,
+    2itomiro, Volynės keliais į visas puses, lietuviai žudė
+    ir atiminėjo grobį. Labai maža jų grįžo į Ordą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187648
+
+- id: c-170594
+  citata_originali: |
+    330
+
+    ## Puslapis 323
+
+    2 Slucko kunigaikštis Simonas M ykolaitis Olelkaitis (Olelko-
+    vič) — Algirdo sūnaus Vladimiro palikuonis, Mykolo Olelkaičio sū­
+    nus, Valdė Slucką ir Kopylių, mirė 1505.IX.14.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187649
+
+- id: c-170595
+  citata_originali: |
+    17 Umolts — gyvenvietė prie Slucko. Jo s vietų patikslina
+    M  Strijkovskis: „ties Slucku, laukuose u i Umolio, kur Slucko ku­
+    nigaikštis Jurgis, ano [t. y. Simono M ykolalčiol, vaikaitis, dabar
+    pastatydino naująjį dvarą" (Kronika, p. 667).
+    '* N esvyiius — BTSR miestas (prie Ušos, Nemuno Intako, apie
+    70 km j šiaurės vakarus nuo Slucko).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187650
+
+- id: c-170596
+  citata_originali: |
+    27 Ir 28).
+    7 1  Gričino pelkės — didžiuliai pelkių plotai j pietus nuo Slucko.
+    7 7  Gorodokas — veikiausiai, Davidgorodokas, BTSR miestas (apie
+    120 km | pietus nuo Slucko, apie 12 km j pietus nuo Pripetės
+    upės).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187651
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/grupes/Slucko kunigaikščiai Olelkaičiai]]

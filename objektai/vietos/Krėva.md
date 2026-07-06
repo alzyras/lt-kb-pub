@@ -12,14 +12,10 @@ saltiniai:
 datos:
   - '1342 m.'
   - '1382 m.'
+  - '1385 m.'
   - '2026 m.'
 date_start: '1342'
 date_end: '2026'
-description: 'Krėva minima kaip Algirdo valdyta vieta, prekybos punktas ir 1382 m. Kęstučio bei Vytauto įkalinimo vieta.'
-socialDescription: 'Krėva Lietuvos istorijoje siejama su Algirdu, vokiečių pirkliais, Kęstučio žūtimi ir Vytauto įkalinimu po 1382 m. įvykių.'
-seo_atnaujinta: '2026-07-02T23:12:35.435992+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -28,105 +24,295 @@ tags:
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Krėva
 
 ## Santrauka
 
-Krėva Lietuvos istorijos šaltiniuose minima kaip svarbi vieta, susijusi su Algirdo valdymu, prekybos keliais ir XIV a. politinėmis kovomis. 1382 m. į Krėvą buvo pervežtas ir pilies bokšte įkalintas Kęstutis, kuris ten netrukus buvo pasmaugtas. Po Kęstučio mirties į Krėvą buvo pervežtas ir įkalintas Vytautas, o vėlesniuose pasakojimuose vietovė minima ir totorių kariuomenės žygio kontekste.
+Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kalėjime; Kęstutį netrukus išvežė į Krėvos pilį, o Vytautą paliko Vilniuje.
 
 ## Teiginiai
 
 <a id="claim-t-111655"></a>
-- t-001
+- t-014
   global_id: t-111655
-  teiginys: 'Į Lietuvą įsiveržusi totorių kariuomenė užėmė Krėvą, Lydą, Vilnių, Trakus ir kitas vietoves bei priartėjo prie Kauno.'
+  teiginys: "Į Lietuvą įsiveržusi totorių kariuomenė užėmė Krėvą, Lydą, Vilnių, Trakus ir kitas vietoves bei priartėjo prie Kauno."
+  semantiniai_rysiai: "Totoriai užėmė Krėva (0.94); Totoriai puolė Lietuva (0.90); Totoriai užėmė Trakai (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "273301-273860; hash=7968aeb67cb6f12d54193bb1b204494388dfabc75da91c697ca41e42e931e850; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Krėva: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Krėva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad totorių kariuomenė užėmė Krėvą."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
-    - c-006
+    - c-103204
 
 <a id="claim-t-111656"></a>
-- t-002
+- t-010
   global_id: t-111656
-  teiginys: 'Kęstutis buvo perkeltas į Krėvą, uždarytas pilies bokšte ir penktą naktį pasmaugtas kelių budelių.'
+  teiginys: "Kęstutis buvo perkeltas į Krėvą, uždarytas pilies bokšte ir penktą naktį pasmaugtas kelių budelių."
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į Krėva (0.90); Kęstutis (vakarų pasienio valdovas, XIV–XV a.) mirė Krėva (0.84)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "107022-107444; hash=30610c3637eca2f66e0f02e2d5f66b8b2c15ba1f828720d4132f15ad7d54b3d5; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Krėva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Krėva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Kęstučio perkėlimą į Krėvą."
   pagrindžia:
-    - c-005
+    - c-103200
 
 <a id="claim-t-111657"></a>
-- t-003
+- t-001
   global_id: t-111657
-  teiginys: 'Skirgaila iš Vilniaus nuvežė Kęstutį į Krėvės kalėjimą.'
+  teiginys: "Skirgaila iš Vilniaus nuvežė Kęstutį į Krėvės kalėjimą."
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į Krėva (0.88); Skirgaila siuntė į Krėva (0.80)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "69556-69751; hash=00cd974bf21eb8c10a9f4e1d2d7a45009acdf78e14b3bae9471f407732bba450; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Krėva: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Krėva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Kęstučio nuvežimą į Krėvą."
   pagrindžia:
-    - c-003
+    - c-103196
 
 <a id="claim-t-111658"></a>
-- t-004
+- t-009
   global_id: t-111658
-  teiginys: 'Algirdas valdė Vitebską ir Krėvą, o Kęstutis valdė Žemaitiją dar jų tėvui esant gyvam.'
+  teiginys: "Algirdas valdė Vitebską ir Krėvą, o Kęstutis valdė Žemaitiją dar jų tėvui esant gyvam."
+  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) valdė Vitebskas (0.94); Algirdas (Lietuvos valdovas) valdė Krėva (0.94)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "78665-79136; hash=ff207ccd5136a8e94c30b457d1b79984b1273fed46d1f272cca591eff7d43993; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Krėva: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Krėva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Algirdas valdė Krėvą."
   pagrindžia:
-    - c-004
+    - c-103199
 
 <a id="claim-t-111659"></a>
-- t-005
+- t-008
   global_id: t-111659
-  teiginys: 'Po Kęstučio mirties Vytautas buvo pervežtas iš Vilniaus į Krėvą ir įkalintas.'
+  teiginys: "Po Kęstučio mirties Vytautas buvo pervežtas iš Vilniaus į Krėvą ir įkalintas."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Krėva (0.91)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "107282-107965; hash=d500c2d91d770247fbaeb5f5ed650b01605817bc2dc9f2f95945adf0ad837613; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Krėva: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Krėva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Vytauto pervežimą į Krėvą."
   pagrindžia:
-    - c-001
+    - c-103194
 
 <a id="claim-t-111660"></a>
-- t-006
+- t-007
   global_id: t-111660
-  teiginys: 'Kęstutis buvo perkeltas į Krėvą, uždarytas pilies bokšte ir penktą naktį pasmaugtas.'
+  teiginys: "Kęstutis buvo perkeltas į Krėvą, uždarytas pilies bokšte ir penktą naktį pasmaugtas."
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į Krėva (0.90); Kęstutis (vakarų pasienio valdovas, XIV–XV a.) mirė Krėva (0.84)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "107022-107444; hash=30610c3637eca2f66e0f02e2d5f66b8b2c15ba1f828720d4132f15ad7d54b3d5; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Krėva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Krėva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Kęstučio perkėlimą į Krėvą."
   pagrindžia:
-    - c-005
+    - c-103200
 
 <a id="claim-t-111661"></a>
-- t-007
+- t-011
   global_id: t-111661
-  teiginys: 'Po Kęstučio mirties Vytautas buvo pervežtas iš Vilniaus į Krėvą ir ten įkalintas.'
+  teiginys: "Po Kęstučio mirties Vytautas buvo pervežtas iš Vilniaus į Krėvą ir ten įkalintas."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Krėva (0.91)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "107282-107965; hash=d500c2d91d770247fbaeb5f5ed650b01605817bc2dc9f2f95945adf0ad837613; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Krėva: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Krėva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Vytauto pervežimą į Krėvą."
   pagrindžia:
-    - c-001
+    - c-103194
 
 <a id="claim-t-111662"></a>
-- t-008
+- t-004
   global_id: t-111662
-  teiginys: 'Pirkliai lankė Lietuvos miestus, tarp jų Vilnių, Krėvą, Trakus ir Gardiną.'
+  teiginys: "Pirkliai lankė Lietuvos miestus, tarp jų Vilnių, Krėvą, Trakus ir Gardiną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "610435-610682; hash=287eb3398b915f051caec223f92e410f4b688f8adde27c69cc39ea2d3948d309; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gardinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Krėva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gardinas: mention_match, place, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krėva\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-103195
 
 <a id="claim-t-111663"></a>
-- t-009
+- t-012
   global_id: t-111663
-  teiginys: 'Vokiečių pirkliai lankė Krėvą ir kitus Lietuvos miestus.'
+  teiginys: "Vokiečių pirkliai lankė Krėvą ir kitus Lietuvos miestus."
+  semantiniai_rysiai: "Vokiečių pirkliai keliavo į Krėva (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "610435-610682; hash=287eb3398b915f051caec223f92e410f4b688f8adde27c69cc39ea2d3948d309; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Krėva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vokiečių pirkliai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Krėva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad vokiečių pirkliai lankė Krėvą."
   pagrindžia:
-    - c-002
+    - c-103195
 
 <a id="claim-t-111664"></a>
-- t-010
+- t-005
   global_id: t-111664
-  teiginys: 'Algirdas valdė Vitebską ir Krėvą, o Kęstutis viešpatavo Žemaitijoje.'
+  teiginys: "Algirdas valdė Vitebską ir Krėvą, o Kęstutis viešpatavo Žemaitijoje."
+  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) valdė Vitebskas (0.94); Algirdas (Lietuvos valdovas) valdė Krėva (0.94)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "78665-79136; hash=ff207ccd5136a8e94c30b457d1b79984b1273fed46d1f272cca591eff7d43993; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Krėva: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Krėva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Algirdas valdė Krėvą."
   pagrindžia:
-    - c-004
+    - c-103199
 
 <a id="claim-t-183035"></a>
-- t-011
+- t-015
   global_id: t-183035
-  teiginys: 'Kęstutis po suėmimo buvo išvežtas į Krėvos pilį, kur po penkių dienų kalėjimo buvo nužudytas.'
+  teiginys: "Kęstutis po suėmimo buvo išvežtas į Krėvos pilį, kur po penkių dienų kalėjimo buvo nužudytas."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į Krėva (0.90); Kęstutis (vakarų pasienio valdovas, XIV–XV a.) mirė Krėva (0.87)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "203873-204199; hash=7f91544a8bfdcf26ef8cbd0bb817000d63cb55e38b65051d3b7f710290212efe; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Krėva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Krėva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Kęstučio išvežimą į Krėvos pilį."
   pagrindžia:
-    - c-007
+    - c-166427
 
 <a id="claim-t-184995"></a>
-- t-012
+- t-016
   global_id: t-184995
-  teiginys: 'Jogaila įsakė suimti Kęstutį ir Vytautą: Kęstutį liepė nuvežti į Krėvą, o Vytautą įkalinti Vilniuje.'
+  teiginys: "Jogaila įsakė suimti Kęstutį ir Vytautą: Kęstutį liepė nuvežti į Krėvą, o Vytautą įkalinti Vilniuje."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) mirė Krėva (0.90); Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į Krėva (0.88); Jogaila (kunigaikštis, XIV–XV a.) siuntė į Krėva (0.82)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "474580-475257; hash=a1db6b400eefc7190cc881f9975f1913d67bc8d7b452212346759031909ad391; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "mire -> Krėva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Krėva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Kęstutis pasmaugtas Krėvos kalėjime."
   pagrindžia:
-    - c-008
+    - c-168356
 
 <a id="claim-t-184996"></a>
-- t-013
+- t-017
   global_id: t-184996
-  teiginys: 'Sargybinis įspėjo Oną, kad Vytautui gresia mirtis, nes Jogailos siųsti budeliai jau atvyko į Krėvą.'
+  teiginys: "Sargybinis įspėjo Oną, kad Vytautui gresia mirtis, nes Jogailos siųsti budeliai jau atvyko į Krėvą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "476635-477094; hash=c9559b4859f3f677d8bfc324585e0e4d31bec8accb93b6ca6d1704c8bdfec225; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Drabužiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Krėva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Drabužiai: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krėva\" parinktas kaip owner_note_path. Targetas \"Drabužiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-168357
+
+<a id="claim-t-193642"></a>
+- t-018
+  global_id: t-193642
+  teiginys: "1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "70501-70723; hash=b62677eae4fb0125f7006194b400e9e853265361e2e44e7115c8e3d725e00558; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176312
+
+<a id="claim-t-194028"></a>
+- t-019
+  global_id: t-194028
+  teiginys: "Krėva — BTSR miestelis (apie 28 km į pietryčius nuo Ašmenos), istorinė Lietuvos vietovė, garsi mūro pilimi, kurioje 1382.VIII buvo nužudytas Algirdo brolis Kęstutis."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "388967-389291; hash=37b2e9d38bc173e6f79c0525511edced449d155fd4395d86e4415e356ae066de; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176650
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10666|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Krėvą ir Vitebską.
 - susijęs iš [[objektai/ivykiai/Krėvos sutarties priėmimas.md#claim-t-183230|Krėvos sutarties priėmimas (sutartis)]]: 1385 m. rugpjūčio 14 d. į Krėvos pilį atvykus lenkų delegacijai buvo priimtas dokumentas, į istoriją įėjęs Krėvos sutarties vardu.
 - susijęs iš [[objektai/ivykiai/Krėvos sutartis (1385 m.).md#claim-t-183231|Krėvos sutartis (1385 m.)]]: 1385 m. rugpjūčio 14 d. į Krėvos pilį atvykus lenkų delegacijai buvo priimtas dokumentas, į istoriją įėjęs Krėvos sutarties vardu.
@@ -271,8 +457,9 @@ Krėva Lietuvos istorijos šaltiniuose minima kaip svarbi vieta, susijusi su Alg
     jo, 1382 metų lapkričio pradžioje Dubysos upės salelėje
     sudarė su jais paliaubas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
@@ -288,6 +475,7 @@ Krėva Lietuvos istorijos šaltiniuose minima kaip svarbi vieta, susijusi su Alg
     ną ir kitus. Kaunas buvo Lietuvos prekybos židinys, nes į jį
     ėjo daug vandens ir sausumos kelių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -303,6 +491,7 @@ Krėva Lietuvos istorijos šaltiniuose minima kaip svarbi vieta, susijusi su Alg
     Skirgaila gi iš Vilniaus Kęstutį nuvežė į Krėvės kalėjimą.
     Po keturią dieną atvykęs neva jo aplankyti rado jį pasmaugtą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -323,6 +512,7 @@ Krėva Lietuvos istorijos šaltiniuose minima kaip svarbi vieta, susijusi su Alg
     lygdamas, Gedimino karūną ir Lietuvos valdžią, šlovės
     neįgijęs, sergėjo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -347,6 +537,7 @@ Krėva Lietuvos istorijos šaltiniuose minima kaip svarbi vieta, susijusi su Alg
     rėjo būti sudeginti su visu tuo, ką jis dažniausiai naudoda­
     vo37.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -392,6 +583,7 @@ Krėva Lietuvos istorijos šaltiniuose minima kaip svarbi vieta, susijusi su Alg
 
     priversdamas priešą badauti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -409,6 +601,7 @@ Krėva Lietuvos istorijos šaltiniuose minima kaip svarbi vieta, susijusi su Alg
     išvežė į Krėvos pilį, o Vytautą paliko Vilniuje. Krėvoje iška-
     lėjęs 5 dienas, Kęstutis buvo nužudytas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -440,6 +633,7 @@ Krėva Lietuvos istorijos šaltiniuose minima kaip svarbi vieta, susijusi su Alg
     kša, Bilgenis, Lisica ir kiti)
     Krėvos kalėjime jį pasmaugė.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -464,11 +658,276 @@ Krėva Lietuvos istorijos šaltiniuose minima kaip svarbi vieta, susijusi su Alg
     ties: draugai jau, girdi, parūpinę visko, kas reikalinga
     bėgliui.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
+- c-010
+  santrauka: '1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija. Lenkai,
+    regis, jau turėjo parengtą sutarties dokumentą. Jogaila su šio dokumento
+    turiniu sutiko, jis buvo priimtas ir į istoriją įėjo Krėvos sutarties vardu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-014
+
+- c-011
+  santrauka: 'Krėva — BTSR miestelis (apie 28 km į pietryčius nuo Ašmenos), istorinė Lietuvos vietovė, garsi mūro pilimi, kurioje 1382.VIII buvo nužudytas Algirdo brolis Kęstutis.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Algirdas (1345— 1377| —  vienas iš žymiausių XIV a. Rylų
+    Europos politinių veikėjų. Krėva — BTSR miestelis (apie 28 km
+    į pietryčius nuo Ašmenos), istorinė Lietuvos vietovė, garsi mūro
+    pilimi, kurioje 1382.VIII buvo nužudytas Algirdo brolis Kęstutis.
+    Kada Algirdas gavo valdyti Krėvų. tiksliai nežinoma, gal apie
+    1342 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-015
+
+## Citatos
+
+- id: c-103194
+  citata_originali: |
+    To garbingo karžygio palaikai Skir­
+    gailos rūpesčiu buvo nuvežti į Vilnių, pagonių papročiu tu­
+    rėjo būti sudeginti su visu tuo, ką jis dažniausiai naudoda­
+    vo37. Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas
+    iš Vilniaus į Krėvą po Kęstučio mirties irgi buvo įkalintas,
+    tačiau jo stebėtina narsa ir žmonos Onos meilė, nesenu pa­
+    vyzdžiu Europos istorijoje pasikartojusi, išgelbėjo jį nuo
+    neišvengiamos pražūties.
+    Tas Vytauto pabėgimas turėjo priversti Jogailą nerimau­
+    ti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­
+    grobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­
+    jo, 1382 metų lapkričio pradžioje Dubysos upės salelėje
+    sudarė su jais paliaubas.
+  citata_rodoma: "Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas\niš Vilniaus į Krėvą po Kęstučio mirties irgi buvo įkalintas,\ntačiau jo stebėtina narsa ir žmonos Onos meilė, nesenu pa­\nvyzdžiu Europos istorijoje pasikartojusi, išgelbėjo jį nuo\nneišvengiamos pražūties.\nTas Vytauto pabėgimas turėjo priversti Jogailą nerimau­\nti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­\ngrobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­\njo, 1382 metų lapkričio pradžioje Dubysos upės salelėje\nsudarė su jais paliaubas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-111659
+    - t-111661
+
+- id: c-103195
+  citata_originali: |
+    Juose buvo daugiausia
+    įsigalėję vokiečių pirkliai, turėdami čia savo kontoras. Lankė
+    jie ir kitus Lietuvos miestus, kaip Vilnių, Krėvę, Trakus, Gardi­
+    ną ir kitus. Kaunas buvo Lietuvos prekybos židinys, nes į jį
+    ėjo daug vandens ir sausumos kelių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-111663
+    - t-111662
+
+- id: c-103196
+  citata_originali: |
+    Ir Livonijos Ordino
+    magistras iš Jogailos stovyklos ramiai patraukė namon.
+    Skirgaila gi iš Vilniaus Kęstutį nuvežė į Krėvės kalėjimą.
+    Po keturią dieną atvykęs neva jo aplankyti rado jį pasmaugtą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-111657
+
+- id: c-103199
+  citata_originali: |
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    bet ir Ašmeną, Ukmergę ir Breslaują. Tik neilgai Lietuvos
+    sostinė šio naujo didžiojo kunigaikščio buvo valdoma. Jau­
+    nesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis -
+    Žemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Ma-
+    zovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­
+    jo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­
+    lygdamas, Gedimino karūną ir Lietuvos valdžią, šlovės
+    neįgijęs, sergėjo.
+  citata_rodoma: "Tik neilgai Lietuvos \nsostinė šio naujo didžiojo kunigaikščio buvo valdoma. Jau­\nnesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis - \nŽemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Ma- \nzovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­\njo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­\nlygdamas, Gedimino karūną ir Lietuvos valdžią, šlovės \nneįgijęs, sergėjo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-111658
+    - t-111664
+
+- id: c-103200
+  citata_originali: |
+    37
+
+    ## Puslapis 54
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    stovyklą kuo greičiau susitarti. Tačiau, apsuptas išdavikų,
+    buvo priverstas su sūnumi važiuoti į Vilnių, vėliau perkel­
+    tas į Krėvą, uždarytas tos pilies bokšte ir penktą naktį kelių
+    budelių pasmaugtas36. To garbingo karžygio palaikai Skir­
+    gailos rūpesčiu buvo nuvežti į Vilnių, pagonių papročiu tu­
+    rėjo būti sudeginti su visu tuo, ką jis dažniausiai naudoda­
+    vo37.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-111656
+    - t-111660
+
+- id: c-103204
+  citata_originali: |
+    Maskva
+    viena po kitos prisijungė kitas rusų kunigaikštijas ir netrukus ėmė gvieštis Lietuvos žemių
+
+    kunigaikštystės, totorių kariuomenė
+    įsiveržė į Lietuvą. Šios pajėgos užėmė
+    Borisovą, Minską, Zaslavlį, Krėvą, Lydą,
+    Vilnių, Trakus ir priartėjo prie Kauno.
+    Žygimantas su savo mažesne Lietuvos ka-
+    riuomene nestojo į mūšį, bet vesdamas
+    savo pajėgas ne keliais ir neprieinamomis
+    vietomis, puldinėjo Švitrigailos tiekimo da-
+    linius, padarydamas jiems daug nuostolių,
+
+    67
+
+    pi
+    6£
+    kr L
+    610
+    2 a
+    T
+    = 5
+    o 2
+    22
+    co
+    “+
+    p
+    23
+    iv
+
+    ## Puslapis 70
+
+    priversdamas priešą badauti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-111655
+
+- id: c-166427
+  citata_originali: |
+    Tas pakvietė juos į Vilnių, kur abudu
+    suėmė, nors kviesdamas Skirgaila buvo davęs žodį, kad jiems
+    nieko blogo neatsitiksią. Kęstučio ir Vytauto kariuomenė buvo
+    paleista, o jie patys buvo uždaryti kalėjime; Kęstutį netrukus
+    išvežė į Krėvos pilį, o Vytautą paliko Vilniuje. Krėvoje iška-
+    lėjęs 5 dienas, Kęstutis buvo nužudytas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183035
+
+- id: c-168356
+  citata_originali: |
+    Mat nei geros savijautos,
+    nei pasitikėjimo duotu žodžiu negali būti tada, kai,
+    susitarus dėl ko su priešu, šis nepaliauja galvojęs apie
+    naudą. Tą pačią naktį Jogaila, pamynęs draugystės bei
+    giminystės ryšius, sulaužęs priesaiką ir sutrypęs sve­
+    tingumą, įsakė suimti Kęstutį bei Vytautą: pirmąjį
+    liepė nuvežti į Krėvą, antrąjį — įkalinti Vilniuje. Ši­
+    taip tas didvyris, ne vieną kartą ištrūkęs iš priešo na­
+    gų, dėl savo sumanumo tikras Lietuvos Odisėjas, o
+    dėl narsumo — Achilas, žuvo gimtajame krašte per
+    brolėno kaltę: penktą naktį
+    Jogailos
+    pasiųsti
+    budeliai
+    (žymiausi
+    iš
+    jų — valdovo
+    miegamojo prižiūrėtojai Pro-
+    kša, Bilgenis, Lisica ir kiti)
+    Krėvos kalėjime jį pasmaugė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184995
+
+- id: c-168357
+  citata_originali: |
+    Ši
+    aplinkybė kaip tik ir pagelbėjo Vytautui ištrūkti į lais­
+    vę: dažnai juk likimą lemia menkų menkiausios prie­
+    žastys. Vienas sargybinis kar­
+    tą įspėjo Oną, jog Vytautui
+    gresianti mirtis, pridurdamas,
+    kad Jogailos siųsti budeliai
+    jau atvyko į Krėvą. Žmona
+    apie viską pranešė vyrui ir
+    patarė apsirengus merginos drabužiais apgauti sargy­
+    binius ir pasprukti iš priešo rankų ir nuo tikros mir­
+    ties: draugai jau, girdi, parūpinę visko, kas reikalinga
+    bėgliui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184996
+
+- id: c-176312
+  citata_originali: |
+    1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija. Lenkai,
+    regis, jau turėjo parengtą sutarties dokumentą. Jogaila su šio dokumento
+    turiniu sutiko, jis buvo priimtas ir į istoriją įėjo Krėvos sutarties vardu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193642
+
+- id: c-176650
+  citata_originali: |
+    Algirdas (1345— 1377| —  vienas iš žymiausių XIV a. Rylų
+    Europos politinių veikėjų. Krėva — BTSR miestelis (apie 28 km
+    į pietryčius nuo Ašmenos), istorinė Lietuvos vietovė, garsi mūro
+    pilimi, kurioje 1382.VIII buvo nužudytas Algirdo brolis Kęstutis.
+    Kada Algirdas gavo valdyti Krėvų. tiksliai nežinoma, gal apie
+    1342 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194028
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Aleksandras Vygantas]]

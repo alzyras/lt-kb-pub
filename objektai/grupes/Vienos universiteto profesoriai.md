@@ -10,6 +10,18 @@ tags:
   - karalius
   - mokslininkas
   - popiežius
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vienos universiteto profesoriai
 
@@ -20,25 +32,58 @@ Po jo atsiliepė ir Vienos universiteto profesoriai, pakviesti Zigmanto pareišk
 ## Teiginiai
 
 <a id="claim-t-34351"></a>
-- t-001
+- t-002
   global_id: t-34351
-  teiginys: 'Vienos profesoriai aiškino, kad mokslininkai įvairiai atsako, kas gali konsekruoti: popiežius, arkivyskupas arba vyskupas.'
+  teiginys: "Vienos profesoriai aiškino, kad mokslininkai įvairiai atsako, kas gali konsekruoti: popiežius, arkivyskupas arba vyskupas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "557980-558345; hash=c2305c368f2c670d408bb3c00c66982a1bdcec41ce6138c757616af5961895c5; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Viena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vienos universiteto profesoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vienos universiteto profesoriai\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-35577
 
 <a id="claim-t-34352"></a>
-- t-002
+- t-001
   global_id: t-34352
-  teiginys: 'Zigmanto pakviesti Vienos universiteto profesoriai aiškino, kad popiežiaus patvirtintas Romos karalius gali karūnuoti kitus.'
+  teiginys: "Zigmanto pakviesti Vienos universiteto profesoriai aiškino, kad popiežiaus patvirtintas Romos karalius gali karūnuoti kitus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "556381-556739; hash=3e18f9a0531d8c20e615a8d8320524f56c23ea34a36b059702a47f704b2aaa4d; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Romos karalius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vienos universiteto profesoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Romos karalius: mention_match, thing, gap=69"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vienos universiteto profesoriai\" parinktas kaip owner_note_path. Targetas \"Romos karalius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-35576
 
 <a id="claim-t-184226"></a>
 - t-003
   global_id: t-184226
-  teiginys: 'Vienos universiteto profesoriai aiškino, kad mokslininkai nevienodai atsakė, kas turi teisę suteikti konsekraciją.'
+  teiginys: "Vienos universiteto profesoriai aiškino, kad mokslininkai nevienodai atsakė, kas turi teisę suteikti konsekraciją."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "557868-558184; hash=a643a4aaaa299bb84bc59acb26b05f0054dfe055c410092231d599593de27b8e; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Viena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vienos universiteto profesoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vienos universiteto profesoriai\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-167610
 - susijęs iš Vienos universiteto profesorių nuomonė dėl Vytauto karūnacijos: Zigmanto pakviesti Vienos universiteto profesoriai pareiškė nuomonę apie Romos karaliaus teisę karūnuoti kitus.
 ## Reikšmingi paminėjimai
 
@@ -53,6 +98,7 @@ Po jo atsiliepė ir Vienos universiteto profesoriai, pakviesti Zigmanto pareišk
     todėl ir Romos karalius, jei yra popiežiaus patvirtintas, gali ir
     kitus karūnuoti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -69,6 +115,7 @@ Po jo atsiliepė ir Vienos universiteto profesoriai, pakviesti Zigmanto pareišk
     kirsti kelią: jis uždraudė Lietuvos vyskupams ir Ordinui pri­
     klausančiam Kulmijos vyskupui karūnuoti Vytautą^1 ).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -86,8 +133,57 @@ Po jo atsiliepė ir Vienos universiteto profesoriai, pakviesti Zigmanto pareišk
     kupas. Apskritai, saugodami popiežiaus teises, galį konse­
     kruoti vyskupai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-35576
+  citata_originali: |
+    Po jo atsiliepė ir Vienos
+    universiteto profesoriai, pakviesti Zigmanto pareiškti savo
+    nuomonę. Jie taip pat įrodinėjo, kad Romos karalius, turįs vi­
+    sas ciesoriaus teises ir nekarūnuotas Romoj. Praktikoj jau
+    tokia padėtis seniai įsigalėjusi, sutinkąs su ja ir pats popiežius,
+    todėl ir Romos karalius, jei yra popiežiaus patvirtintas, gali ir
+    kitus karūnuoti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-34352
+
+- id: c-35577
+  citata_originali: |
+    Vienos profesoriai aiškino, kad į tai mokslininkai įvairiai atsa­
+    kinėja; vieni, kad popiežius, kiti, kad arcivyskupas arba vys­
+    kupas. Apskritai, saugodami popiežiaus teises, galį konse­
+    kruoti vyskupai. Tada popiežius pasiskubino ir tam pavojui už­
+    kirsti kelią: jis uždraudė Lietuvos vyskupams ir Ordinui pri­
+    klausančiam Kulmijos vyskupui karūnuoti Vytautą^1 ).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-34351
+
+- id: c-167610
+  citata_originali: |
+    Priėmus tą nuomonę, kad konsekracija yra būti­
+    na, iškyla vėl neaiškumas, kas turi teisę suteikti konsekraciją?
+    Vienos profesoriai aiškino, kad į tai mokslininkai įvairiai atsa­
+    kinėja; vieni, kad popiežius, kiti, kad arcivyskupas arba vys­
+    kupas. Apskritai, saugodami popiežiaus teises, galį konse­
+    kruoti vyskupai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184226

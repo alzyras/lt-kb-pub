@@ -11,6 +11,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vilniaus lietuvių seimas (seimas, XV a.)
 
@@ -23,24 +35,65 @@ amziai:
 <a id="claim-t-185438"></a>
 - t-001
   global_id: t-185438
-  teiginys: '1461 m. Vilniaus lietuvių seime luomai pareiškė, kad visuomenė bus rami tik karaliui asmeniškai valdant Lietuvą.'
+  teiginys: "1461 m. Vilniaus lietuvių seime luomai pareiškė, kad visuomenė bus rami tik karaliui asmeniškai valdant Lietuvą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1461 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia seimo dalyvių pareikštą reikalavimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "898409-898728; hash=aa0f91ecbb0b4e9557ab2d045b03d595e9b826b584fccc45bfed21115c2aedc9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus lietuvių seimas (seimas, XV a.): owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus lietuvių seimas (seimas, XV a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-168799
 
 <a id="claim-t-185439"></a>
 - t-002
   global_id: t-185439
-  teiginys: 'Vilniaus lietuvių seime luomai prašė paskirti Lietuvai vietininku Simoną Olelkaitį, Slucko kunigaikštį.'
+  teiginys: "Vilniaus lietuvių seime luomai prašė paskirti Lietuvai vietininku Simoną Olelkaitį, Slucko kunigaikštį."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "898729-899557; hash=25c02e7357bc449cb56f148d7b6d45f093664ca50a34c5fa0507588cdcea623b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus lietuvių seimas (seimas, XV a.): owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus lietuvių seimas (seimas, XV a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-168800
 
 <a id="claim-t-185440"></a>
 - t-003
   global_id: t-185440
-  teiginys: 'Karalius nutarė atmesti siūlymą skirti Lietuvai vietininką, bet viešai prašė atidėti klausimą dėl karo su kryžiuočiais.'
+  teiginys: "Karalius nutarė atmesti siūlymą skirti Lietuvai vietininką, bet viešai prašė atidėti klausimą dėl karo su kryžiuočiais."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "899174-900117; hash=009a4c0c309de3600d85af7e5509e538809536eca3887951fc6ee32ba3ab6765; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus lietuvių seimas (seimas, XV a.): owner_note_path, group"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus lietuvių seimas (seimas, XV a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
-
+    - c-168801
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -57,6 +110,7 @@ amziai:
     greitai juos pasiekiąs ir paprastai negalįs būti veiks­
     mingas.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -86,6 +140,7 @@ amziai:
     sakymu jų  erzin ti, ir slėp ė šird ies g ilum o je savo tik ru s
     sumanymus, g an a tolim us jų reikalavimams.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -114,8 +169,82 @@ amziai:
     damas L ietu v o je sk itų  būrius, atsių stu s p ad ė ti k o v o ti
     prieš kryžiuočius.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-168799
+  citata_originali: |
+    Atvyko į jį prieš Velykas gausybė žmonių. Visi
+    luomai sutartinai ir karštai
+    1461 m e ta i
+    pareiškė karaliui savo pag­
+    rindinį norą. Esą visuomenė
+    galinti būti rami tik tada, kai karalius asmeniškai val­
+    dysiąs Lietuvą; svetur išvykusio karaliaus žodis ne­
+    greitai juos pasiekiąs ir paprastai negalįs būti veiks­
+    mingas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185438
+
+- id: c-168800
+  citata_originali: |
+    Kas be ko, jie visi neišpasakytai trokštą, kad
+    karalius asmeniškai juos valdytų, tačiau jie to nesitiki,
+    511
+
+    ## Puslapis 510
+
+    n es p u ik iai žino, jo g  len k ai nieku b ū d u  n esu tik sią, kad
+    karalius ilgam  atitrūktų nuo jų valstybės reikalų. Štai
+    to d ėl vardan b en d ro s tėvynės gerovės jie karštai mal­
+    d a u ją  paskirti Lietuvai vietininku Simoną Olelkaitį,
+    Slucko kunigaikštį, savo pusbrolio sūnų, garsų žygiais
+    Algirdo proanūkį. Karalius, g erai žinodamas, kiek rū­
+    pesčių jo  tėvui sukėlė šitaip valdomos Lietuvos žemės,
+    nutarė atm esti šį siūlym ą, nes su tik d am as užkirstų, ko
+    gero, savo sūnum s k elią į Lietuvos sostą, tačiau atvi­
+    rai nieko n esak ė, n en o rėd am as p erd au g  ankstyvu at­
+    sakymu jų  erzin ti, ir slėp ė šird ies g ilum o je savo tik ru s
+    sumanymus, g an a tolim us jų reikalavimams.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185439
+
+- id: c-168801
+  citata_originali: |
+    Karalius, g erai žinodamas, kiek rū­
+    pesčių jo  tėvui sukėlė šitaip valdomos Lietuvos žemės,
+    nutarė atm esti šį siūlym ą, nes su tik d am as užkirstų, ko
+    gero, savo sūnum s k elią į Lietuvos sostą, tačiau atvi­
+    rai nieko n esak ė, n en o rėd am as p erd au g  ankstyvu at­
+    sakymu jų  erzin ti, ir slėp ė šird ies g ilum o je savo tik ru s
+    sumanymus, g an a tolim us jų reikalavimams. P areiškęs,
+    k ad  tokiam  sv arb iam  re ik a lu i a p ta rti bei d eram ai jį
+    išn ag rin ėti re ik ia laiko, o jo  d a b a r trū k sta  d ėl k a r o s u
+    kryžiuočiais,
+    jis p ap rašė viską atidėti. Šiuo būdu iš­
+    vengęs k ai k u rių  v ald in g ų  v y rų  jam  p asp ę stų  pinklių,
+    jis p a tra u k ė  į P rūsiją, tačiau , g av ęs žinią ap ie motinos
+    mirtį, sugrįžo iš to  žygio ir K aune p ra le id o  rudenį, ta r­
+    pais sielvartą ramindamas m edžioklėm is, tarpais lanky­
+    damas L ietu v o je sk itų  būrius, atsių stu s p ad ė ti k o v o ti
+    prieš kryžiuočius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185440

@@ -17,6 +17,18 @@ tags:
   - ordinas
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Bernardinų ordinas
 
@@ -27,19 +39,42 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
 ## Teiginiai
 
 <a id="claim-t-181538"></a>
-- t-001
+- t-003
   global_id: t-181538
-  teiginys: '1469 metais į Vilnių pakviestam Bernardinų ordinui bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis palei Vilnią prie Karališkojo malūno.'
+  teiginys: "1469 metais į Vilnių pakviestam Bernardinų ordinui bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis palei Vilnią prie Karališkojo malūno."
+  semantiniai_rysiai: "Bernardinų ordinas keliavo į Vilnius (0.90)"
+  temporaliniai_duomenys: "įvykio data: 900 m"
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas puslapio triukšmas ir sutvarkyta mintis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "458419-459748; hash=d76cb25289e933cea9726046d16ed1e5c3e4839dcbd6bb3319ac71ffcde39b00; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bernardinų ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Bernardinų ordinas buvo pakviestas į Vilnių."
   pagrindžia:
-    - c-002
+    - c-165073
 
 <a id="claim-t-181539"></a>
-- t-002
+- t-013
   global_id: t-181539
-  teiginys: 'Vilniaus vaivada Mikalojus Radvila dosniai prisidėjo prie Bernardinų bažnyčios permūrijimo, kai jai dėl menkų pamatų grėsė griūtis.'
+  teiginys: "Vilniaus vaivada Mikalojus Radvila dosniai prisidėjo prie Bernardinų bažnyčios permūrijimo, kai jai dėl menkų pamatų grėsė griūtis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "479312-479727; hash=0d0ae4c3cfc8ad480c9e3fea303d281819a70ce98279519e5c1c7e1d0fd90d4f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bernardinų ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bernardinų ordinas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-165072
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -55,6 +90,7 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
     energingiau ir karaliaus iždui teikė nemaža pajamų, kaip ma­
     tyti iš Lietuvos maršalkos Chreptavičiaus ataskaitos52.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -109,11 +145,83 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
     VILNIAUS MIESTO ISTORIJA II TOMAS
     nusidriekęs palei Vilnios upę prie Karališkojo malūno.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-165072
+  citata_originali: |
+    Dva­
+    sios kleboniją, skyrė lėšų bažnyčiai ir vienuolynui statyti50.
+    Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­
+    matų grėsė griūtis, buvo per nauja pamūryta, dosniai prisi­
+    dėjus Vilniaus vaivadai Mikalojui Radvilai51. Vilniaus mo­
+    netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis
+    energingiau ir karaliaus iždui teikė nemaža pajamų, kaip ma­
+    tyti iš Lietuvos maršalkos Chreptavičiaus ataskaitos52.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181539
+
+- id: c-165073
+  citata_originali: |
+    Karaliaus pavedimu, kad neofitai įsi­
+    tvirtintų krikščionių tikėjime, 1469 metais į Vilnių buvo pa­
+    kviestas bernardinų ordinas, kuriam bažnyčiai ir vienuoly­
+    nui statytis atiduotas platus slėnis su keletu namų ir pieva,
+    31
+    Šis Jachna jau 1435 metais buvo vai­
+    tas ir 1492 metais dar ėjo tas parei­
+    gas. Jo brolis Mikalojus Laurinavi­
+    čius ilgai buvo burmistras, o Jachnos
+    sūnus viename 1491 metų doku­
+    mente yra vadinamas: Magister Ber­
+    nardus, Domini Jachno filius [Magist­
+    ras Bernardas, pono Jachnos sūnus].
+    32
+    Šį įsakymą, išleistą Lietuvos muiti­
+    ninkams Černigove, kaip nežinomą
+    Dubinskiui, įdedame Priede iš mies­
+    to aktų.
+    33
+    Peremire Korola Kazimira z Opskowem
+    u Wilni meseca dekabra trydcataho
+    dnia, 1440 Indykt 4 [Karaliaus Kazi­
+    miero sutartis su Pskovu Vilniuje,
+    1440 metų gruodžio mėnesio 30 die­
+    ną, 4 indiktas]; iš D o g e l i o, MSS.
+    Bibi. Uniw. Wil. Dar žr. Coópanue
+    rocygapcmBeHHbixb rpcLM M om b.
+    34
+    Metryki Lit., 6, 900 m. nuo pasaulio
+    sutvėrimo. Be kitų, žr. f oi. 115. Pot-
+    werżenie Wojewodie Wilenskomu
+    Olechnu Sudimontowiczu, na plac
+    Zamkowy w Wilni wiecznostiju [Pa­
+    tvirtinimas Vilniaus vaivadai Olech-
+    nai Sudimantaičiui sklypo Pilies
+    teritorijoje Vilniuje amžinam naudo­
+    jimui].
+    225
+
+    ## Puslapis 242
+
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    nusidriekęs palei Vilnios upę prie Karališkojo malūno.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181538
 
 ## Ryšiai
 - Bernardinų ordinas keliavo į [[objektai/vietos/Vilnius]]

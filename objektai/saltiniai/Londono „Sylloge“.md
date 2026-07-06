@@ -5,6 +5,18 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Londono „Sylloge“
 
@@ -13,18 +25,30 @@ atnaujinta: ''
 Narbutas nurodo, kad įrašas į Londono „Sylloge“ pateko per Čemberleno perrašą iš Volfgango Lazijaus istorijos.
 
 ## Teiginiai
+
 <a id="claim-t-190515"></a>
 - t-001
   global_id: t-190515
-  teiginys: 'Narbutas nurodo, kad įrašas į Londono „Sylloge“ pateko per Čemberleno perrašą iš Volfgango Lazijaus istorijos.'
+  teiginys: "Narbutas nurodo, kad įrašas į Londono „Sylloge“ pateko per Čemberleno perrašą iš Volfgango Lazijaus istorijos."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "811576-811962; hash=a65dde68976cdb9598979f7ae56ba04740c93c4a68047d3a036afdd62878bf11; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Londonas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Londono „Sylloge“: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Londonas: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Londono „Sylloge“\" parinktas kaip owner_note_path. Targetas \"Londonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
-
+    - c-173398
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
   santrauka: 'Narbutas nurodo, kad įrašas į Londono „Sylloge“ pateko per Čemberleno perrašą iš Volfgango Lazijaus istorijos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -36,8 +60,28 @@ Narbutas nurodo, kad įrašas į Londono „Sylloge“ pateko per Čemberleno pe
     vo įdėtas į Londono „Sylloge“. Tą maldą į savo knygas vėliau įrašė
     gdanskietis Kliuverijus (Cluverius), o vėliau - Dusburgiečio tęsėjas Hart-
     knochas**.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-173398
+  citata_originali: |
+    Gal būtų pradingus
+    toji istorija, o kartu su ja ir tas brangus paminklas, jeigu ne mokslo
+    pasaulyje žinomas istorikas Volfgangas Lazijus, kuris ją įdėjo į savo
+    istoriją. Iš Lazijaus perrašė Čemberlenas, o iš pastarojo tas užrašas bu­
+    vo įdėtas į Londono „Sylloge“. Tą maldą į savo knygas vėliau įrašė
+    gdanskietis Kliuverijus (Cluverius), o vėliau - Dusburgiečio tęsėjas Hart-
+    knochas**.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190515

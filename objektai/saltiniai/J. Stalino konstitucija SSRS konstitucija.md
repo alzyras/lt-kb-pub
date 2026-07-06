@@ -14,6 +14,18 @@ tags:
   - saltinis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # J. Stalino konstitucija SSRS konstitucija
 
@@ -24,19 +36,41 @@ Stalino konstitucijos, rusų kalbos dėstymas, uždrausta tikyba, sumažintas li
 ## Teiginiai
 
 <a id="claim-t-21070"></a>
-- t-001
+- t-002
   global_id: t-21070
-  teiginys: 'Mokytojai buvo verčiami studijuoti V. Lenino, J. Stalino ir Karlo Markso veikalus, SSKP istoriją, SSRS konstituciją ir partijos nutarimus.'
+  teiginys: "Mokytojai buvo verčiami studijuoti V. Lenino, J. Stalino ir Karlo Markso veikalus, SSKP istoriją, SSRS konstituciją ir partijos nutarimus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "454085-454443; hash=73b2f852bd093a0beb47386ca12e3bed17b29262b0e69bdfe2ba005ff26833bd; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> SSRS: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "J. Stalino konstitucija SSRS konstitucija: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "SSRS: mention_match, place, gap=52"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Stalino konstitucija SSRS konstitucija\" parinktas kaip owner_note_path. Targetas \"SSRS\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-23785
 
 <a id="claim-t-21071"></a>
-- t-002
+- t-001
   global_id: t-21071
-  teiginys: 'Mokyklose buvo įvestas privalomas J. Stalino konstitucijos ir rusų kalbos dėstymas, uždrausta tikyba ir sumažintas lietuvių kalbos pamokų skaičius.'
+  teiginys: "Mokyklose buvo įvestas privalomas J. Stalino konstitucijos ir rusų kalbos dėstymas, uždrausta tikyba ir sumažintas lietuvių kalbos pamokų skaičius."
+  temporaliniai_duomenys: "įvykio data: 1944-1953; įvykio data: 1953 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir remiasi citatoje išvardytais švietimo pakeitimais."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "448300-448791; hash=7433e94f78d4e2bfa2c58f9ae4d68a239ad2679ab156945b7eb696d8ba17bae2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "J. Stalino konstitucija SSRS konstitucija: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=81"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Stalino konstitucija SSRS konstitucija\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-23784
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -50,6 +84,7 @@ Stalino konstitucijos, rusų kalbos dėstymas, uždrausta tikyba, sumažintas li
     venimą. Mokyklose įvestas privalomas J. Stalino konstitucijos, rusų kalbos
     dėstymas, uždrausta tikyba, sumažintas lietuvių kalbos pamokų skaičius.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -66,8 +101,44 @@ Stalino konstitucijos, rusų kalbos dėstymas, uždrausta tikyba, sumažintas li
     partijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžia-
     gą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-23784
+  citata_originali: |
+    Bet kuris kultūros veikėjas, atsisakęs vyk-
+    dyti režimo reikalavimus, galėjo sulaukti griežtų bausmių: 1944–1953 m.
+    suimtas 1 651 kūrybinės ir mokslinės inteligentijos atstovas, dauguma jų
+    ištremti arba įkalinti, kai kurie nužudyti. Todėl nemaža dalis kultūrininkų
+    stengėsi elgtis kaip reikalauta ir gyveno dvigubą – viešą ir asmeninį – gy-
+    venimą. Mokyklose įvestas privalomas J. Stalino konstitucijos, rusų kalbos
+    dėstymas, uždrausta tikyba, sumažintas lietuvių kalbos pamokų skaičius.
+  citata_rodoma: "Mokyklose įvestas privalomas J. Stalino konstitucijos, rusų kalbos"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-21071
+
+- id: c-23785
+  citata_originali: |
+    Lietuvos teritorijos), gynybinis karinis kompleksas
+    reikalavo kvalifikuotos darbo jėgos. Ją ruošė totaliai kontroliuojama švieti-
+    mo sistema, o nepaklusnieji buvo baudžiami. Mokytojai verčiami studijuoti
+    V. Lenino, J. Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų
+    partijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžia-
+    gą.
+  citata_rodoma: "V. Lenino, J. Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-21070

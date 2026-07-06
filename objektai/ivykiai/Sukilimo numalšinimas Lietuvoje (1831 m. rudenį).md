@@ -16,6 +16,18 @@ tags:
   - sukilimas
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Sukilimo numalšinimas Lietuvoje (1831 m. rudenį)
 
@@ -44,10 +56,23 @@ Nenurodyta
 <a id="claim-t-66913"></a>
 - t-001
   global_id: t-66913
-  teiginys: '1831 m. rudenį sukilimas Lietuvoje buvo numalšintas žiauriomis priemonėmis.'
+  teiginys: "1831 m. rudenį sukilimas Lietuvoje buvo numalšintas žiauriomis priemonėmis."
+  temporaliniai_duomenys: "įvykio data: 1831 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "936591-936871; hash=cb775b8f8ff79ac8bde96cc28b7e44ed83d9fc7f35489f2d8c1013a91db8a21e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sukilimo numalšinimas Lietuvoje (1831 m. rudenį): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sukilimo numalšinimas Lietuvoje (1831 m. rudenį)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
-    - c-001
-
+    - c-67006
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -60,8 +85,27 @@ Nenurodyta
     į Vilnių. Tokiomis žiauriomis priemonėmis 1831 m. rudenį buvo
     likviduotas sukilimas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-67006
+  citata_originali: |
+    Ypač
+    nukentėjo Ašmena. Užėmę miestelį, rusai išplėšė ne tik gyven-
+    tojų namus, bet ir bažnyčią, išžudė apie 80 žmonių, o tuos, ku-
+    riuos įtarė dalyvavus sukilime, prisirišę prie patrankų nusivarė
+    į Vilnių. Tokiomis žiauriomis priemonėmis 1831 m. rudenį buvo
+    likviduotas sukilimas.
+  citata_rodoma: "Tokiomis žiauriomis priemonėmis 1831 m. rudenį buvo\nlikviduotas sukilimas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66913

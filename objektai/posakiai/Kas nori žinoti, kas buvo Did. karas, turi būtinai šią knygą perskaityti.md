@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - karas
   - posakis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kas nori žinoti, kas buvo Did. karas, turi būtinai šią knygą perskaityti
 
@@ -20,17 +32,22 @@ Kas nori žinoti, kas buvo Did. karas, turi būtinai šią knygą perskaityti.
 <a id="claim-t-93128"></a>
 - t-001
   global_id: t-93128
-  teiginys: 'Knyga apie Didįjį karą apibūdinta kaip būtinas skaitinys norint suprasti, kas buvo Didysis karas.'
+  teiginys: "Knyga apie Didįjį karą apibūdinta kaip būtinas skaitinys norint suprasti, kas buvo Didysis karas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "728950-729325; hash=8795fcaa2d9ce65e268f330e2baec75237532094987e300391e7b069aba91267; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-002
+    - c-88526
 
 <a id="claim-t-93129"></a>
 - t-002
   global_id: t-93129
-  teiginys: 'Posakis ragino perskaityti knygą, kurioje vaizduotos Didžiojo karo baisybės: atakos, nuodingos dujos, tankai ir mirtis.'
+  teiginys: "Posakis ragino perskaityti knygą, kurioje vaizduotos Didžiojo karo baisybės: atakos, nuodingos dujos, tankai ir mirtis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "728856-729217; hash=19715b7224023c995d842a09955ac0dd4e584f52b828ec723afc25827a598f10; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
-
+    - c-88525
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,8 +61,9 @@ Kas nori žinoti, kas buvo Did. karas, turi būtinai šią knygą perskaityti.
     žmonijos širdį. Kas nori žinoti, kas buvo Did. karas, turi būtinai
     šią knygą perskaityti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -60,8 +78,42 @@ Kas nori žinoti, kas buvo Did. karas, turi būtinai šią knygą perskaityti.
     šią knygą perskaityti. Knyga parašyta taip vaizdžiai ir gerai, kad
     jos autorius net įtrauktas į kandidatus Nobelio premijai gauti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-88525
+  citata_originali: |
+    Šią knygą skaito visas pasaulis, jos jau kitomis kalbomis išpirk­
+    ta su viršum milijonas egz. Šioje knygoje visai tikrai atvaizduotos
+    visos Didžiojo karo baisybės: baisios atakos, nuodingos dujos, tan­
+    kai, mirtis, šiurpulingi ir neužmirštami vaizdai, įstrigę į šių laiku
+    žmonijos širdį. Kas nori žinoti, kas buvo Did. karas, turi būtinai
+    šią knygą perskaityti.
+  citata_rodoma: "Šioje knygoje visai tikrai atvaizduotos\nvisos Didžiojo karo baisybės: baisios atakos, nuodingos dujos, tan­\nkai, mirtis, šiurpulingi ir neužmirštami vaizdai, įstrigę į šių laiku\nžmonijos širdį. Kas nori žinoti, kas buvo Did. karas, turi būtinai\nšią knygą perskaityti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-93129
+
+- id: c-88526
+  citata_originali: |
+    Šioje knygoje visai tikrai atvaizduotos
+    visos Didžiojo karo baisybės: baisios atakos, nuodingos dujos, tan­
+    kai, mirtis, šiurpulingi ir neužmirštami vaizdai, įstrigę į šių laiku
+    žmonijos širdį. Kas nori žinoti, kas buvo Did. karas, turi būtinai
+    šią knygą perskaityti. Knyga parašyta taip vaizdžiai ir gerai, kad
+    jos autorius net įtrauktas į kandidatus Nobelio premijai gauti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-93128

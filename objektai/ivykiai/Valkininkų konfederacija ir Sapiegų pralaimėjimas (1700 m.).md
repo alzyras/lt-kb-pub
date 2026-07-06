@@ -19,6 +19,18 @@ tags:
 amziai:
   - 'XVII'
   - 'XVIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)
 
@@ -45,18 +57,38 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78641"></a>
-- t-001
+- t-006
   global_id: t-78641
-  teiginys: 'Valkininkų kautynės baigėsi Sapiegų pralaimėjimu, o jų kariuomenei vadovavęs Mykolas Sapiega buvo apsuptas ir pasidavė.'
+  teiginys: "Valkininkų kautynės baigėsi Sapiegų pralaimėjimu, o jų kariuomenei vadovavęs Mykolas Sapiega buvo apsuptas ir pasidavė."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "hash=de53b032681bbe7532401aa2e5b57b7c8961a3e5a283f9e3524dd69e9b851dc4; match=normalized; occurrences=1"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=38"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-75862
 
 <a id="claim-t-78642"></a>
-- t-002
+- t-006
   global_id: t-78642
-  teiginys: 'Karolio Zikaro sudarytame leidinyje Valkininkų mūšis siejamas su suirutės Lietuvoje pradžia ir kaimynų įtakos stiprėjimu.'
+  teiginys: "Karolio Zikaro sudarytame leidinyje Valkininkų mūšis siejamas su suirutės Lietuvoje pradžia ir kaimynų įtakos stiprėjimu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "575036-575455; hash=8877b1e3bcb2f7e9fa6b4f9c45ccd141ca3b5bb2a2be757dfa0e399bdfc11aea; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=38"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-75857
 - susijęs iš [[objektai/grupes/Valkininkų konfederacija.md#claim-t-78533|Valkininkų konfederacija]]: Vykdant Valkininkų nutarimą, Šnipiškių stovykloje buvo iš esmės suformuota nauja 7500 etatinių vienetų LDK kariuomenė.
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
 - susijęs iš [[objektai/grupes/Respublikonai.md#claim-t-41123|Respublikonai]]: Po Valkininkų nutarimo respublikonų kariuomenė Vilniaus Šnipiškių stovykloje iš esmės suformavo naują 7500 etatinių vienetų LDK kariuomenę.
@@ -87,6 +119,7 @@ Nenurodyta
 
     I. KUNIGAIKŠTYSTĖ
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -107,8 +140,59 @@ Nenurodyta
     sydama Višniaveckio pasipriešinimo, jį kardais sukapojo (kartu
     buvo sukapoti dar du belaisviai).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-75857
+  citata_originali: |
+    O LDK bajorijai taip ir nepavyko
+
+    deklaruojamų bajoriškosios lygybės idealų,
+    dėl kurių ji ir pakilo į ginkluotą kovą, pa-
+    versti gyvenimo tikrove. Valkininkų mūšis
+    dažnai siejamas su ilgainiui Lietuvą apė-
+    musios suirutės pradžia, privedusios šalį
+    prie situacijos, kai jos likimą labiau nei ji
+    pati ėmė lemti jos kaimynai.
+
+    ## Puslapis 143
+
+    BEZDEZO (ANTOPOLIO) MUSIS 1771
+
+    Ki
+    | LIETUVOS
+
+    4 DIDŽIOJI |
+
+    I. KUNIGAIKŠTYSTĖ
+  citata_rodoma: "O LDK bajorijai taip ir nepavyko\n\ndeklaruojamų bajoriškosios lygybės idealų,\ndėl kurių ji ir pakilo į ginkluotą kovą, pa-\nversti gyvenimo tikrove. Valkininkų mūšis\ndažnai siejamas su ilgainiui Lietuvą apė-\nmusios suirutės pradžia, privedusios šalį\nprie situacijos, kai jos likimą labiau nei ji\npati ėmė lemti jos kaimynai.\n\n## Puslapis 143\n\nBEZDEZO (ANTOPOLIO) MUSIS 1771\n\nKi\n| LIETUVOS\n\n4 DIDŽIOJI |\n\nI."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78642
+
+- id: c-75862
+  citata_originali: |
+    Visą dieną užtrukusios kautynės pasibaigė Sapiegų pralaimėjimu.
+    Jų kariuomenei vadovavęs hetmono sūnus Mykolas (visi kiti
+
+
+    Sapiegos, vos prasidėjus kautynėms, pabėgo į Vilnių) va-
+    karop buvo apsuptas ir turėjo pasiduoti. Višniaveckis jį nu-
+    sivežė į Valkininkus, kur kitą rytą įsiutusi bajorų minia, nepai-
+    sydama Višniaveckio pasipriešinimo, jį kardais sukapojo (kartu
+    buvo sukapoti dar du belaisviai).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78641

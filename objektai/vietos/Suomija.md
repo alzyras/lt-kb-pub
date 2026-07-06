@@ -16,6 +16,18 @@ tags:
   - vieta
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Suomija
 
@@ -26,18 +38,62 @@ Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir
 ## Teiginiai
 
 <a id="claim-t-110001"></a>
-- t-001
+- t-003
   global_id: t-110001
-  teiginys: 'Sovietų Sąjungai kariaujant su Suomija, Baltijos valstybės vengė smerkti SSRS, nors ši buvo išmesta iš Tautų Sąjungos kaip agresorė.'
+  teiginys: "Sovietų Sąjungai kariaujant su Suomija, Baltijos valstybės vengė smerkti SSRS, nors ši buvo išmesta iš Tautų Sąjungos kaip agresorė."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "374140-374557; hash=f73d8c0edd1ea2d95e20c8e56ae37d3930aa7074f1496e218f7bcb92a51867b3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Suomija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Suomija\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
+    - c-101927
+
+<a id="claim-t-110002"></a>
+- t-004
+  global_id: t-110002
+  teiginys: "Sovietų Sąjungai kariaujant su Suomija, Baltijos valstybės vengė smerkti SSRS, nors ši buvo išmesta iš Tautų Sąjungos kaip agresorė."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "374282-374657; hash=94a2e18acb50457152e8268d37154d9bdf5e82e805f8e8a275dd5c82e9775ea4; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Suomija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Suomija\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-101928
 
 <a id="claim-t-183870"></a>
-- t-003
+- t-005
   global_id: t-183870
-  teiginys: 'Vilniuje buvo palaiminta Suomijos kunigaikščio Jono ir Kotrynos Jogailaitės santuoka.'
+  teiginys: "Vilniuje buvo palaiminta Suomijos kunigaikščio Jono ir Kotrynos Jogailaitės santuoka."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "407456-407715; hash=720cda0d663755d3b5fe7ae7756dda3d09b128fd08fdbe2a4d726db7484a476b; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Suomija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=25"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Suomija\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-167255
 - susijęs iš [[objektai/asmenys/Kotryna Jogailaitė.md#claim-t-87399|Kotryna Jogailaitė]]: Kotryna Jogailaitė Vilniuje susituokė su Suomijos kunigaikščiu Jonu, vėliau tapusiu Švedijos karaliumi.
 - susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-188641|Teodoras Narbutas]]: Teodoras Narbutas Rivijaus kroniką įsigijo 1808 m. Revelyje per vadinamąjį Suomijos karą.
 - susijęs iš [[objektai/asmenys/Valerijonas Protasevičius.md#claim-t-114007|Valerijonas Protasevičius (vyskupas)]]: Valerijonas Protasevičius Vilniuje palaimino Suomijos kunigaikščio Jono ir Kotrynos Jogailaitės santuoką.
@@ -62,6 +118,7 @@ Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176164|Žemaičiai]]: Cituojamame aiškinime žemaičiai Lietuvą vadino Auxtote, nes ji laikyta aukštesne žeme už Žemaitiją.
 - susijęs iš [[objektai/ivykiai/Lietuvos taika su Didžiuoju Naugardu (1326 m.).md#claim-t-89378|Lietuvos taika su Didžiuoju Naugardu (1326 m.)]]: 1326 m. Lietuva sudarė taiką su Didžiuoju Naugardu, svarbiu Rytų prekybos centru.
 - susijęs iš [[objektai/ivykiai/Lietuvos taika su Didžiuoju Naugardu (1326 m.).md#claim-t-89379|Lietuvos taika su Didžiuoju Naugardu (1326 m.)]]: Lietuva sudarė taiką su Didžiuoju Naugardu, tvirtindama savo pozicijas prieš Kryžiuočių ordiną.
+- susijęs iš [[objektai/paprociai/Oonų mityba vandens paukščių kiaušiniais ir avižomis.md#claim-t-193025|Oonų mityba vandens paukščių kiaušiniais ir avižomis]]: Narbutas cituoja pasakojimą, kad oonai, vadinami kiaušinėdžiais, mito vandens paukščių kiaušiniais ir avižomis.
 - susijęs iš [[objektai/posakiai/Viskas yra viena - ir žemė, ir žmonės.md#claim-t-86845|Viskas yra viena - ir žemė, ir žmonės]]: Posakiu „Viskas yra viena - ir žemė, ir žmonės“ aiškinta, kodėl valdovo titule nerašomas Žemaitijos vardas.
 - susijęs iš [[objektai/posakiai/„Jei Šveicarijai būdinga aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikėtų pavadinti kraštu, kuriame labai pavoj.md#claim-t-20844|„Jei Šveicarijai būdinga aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikėtų pavadinti kraštu, kuriame labai pavoj]]: Posakyje Lietuva vadinama kraštu, kuriame labai pavojinga gyventi mažai tautai.
 - susijęs iš [[objektai/posakiai/„Lietuva pasodino didįjį kunigaikštį Žygimantą Kęstutaitį didžiojoje kunigaikštystėje Vilniuje ir Trakuose rugsėjo 1 d.“.md#claim-t-41483|„Lietuva pasodino didįjį kunigaikštį Žygimantą Kęstutaitį didžiojoje kunigaikštystėje Vilniuje ir Trakuose rugsėjo 1 d.“]]: Lietuvos metraštis liudija, kad rugsėjo 1 d. Lietuva pasodino Žygimantą Kęstutaitį didžiuoju kunigaikščiu Vilniuje ir Trakuose.
@@ -107,6 +164,7 @@ Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir
     tybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos
     kaip agresorė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -125,6 +183,7 @@ Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir
     kaip agresorė. Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė mo-
     nopolizuoti Lietuvos užsienio prekybą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -143,11 +202,65 @@ Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir
     gusto seserimi.
     —  •  .
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-101927
+  citata_originali: |
+    Vokietija kartojo nebeturinti regione
+    interesų, Anglija ir Prancūzija kariavo, o sutriuškinus Lenkiją jų įtaka re-
+    gione apskritai sumažėjo.
+    SSRS 1940 metų ultimatumas ir
+    sovietų okupacija
+    Įsileidusi sovietų bazes Lietuva palaidojo viltis būti išrink-
+    ta į Tautų Sąjungos Tarybą. Sovietams kariaujant su Suomija Baltijos vals-
+    tybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos
+    kaip agresorė.
+  citata_rodoma: "tybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-110001
+
+- id: c-101928
+  citata_originali: |
+    SSRS 1940 metų ultimatumas ir
+    sovietų okupacija
+    Įsileidusi sovietų bazes Lietuva palaidojo viltis būti išrink-
+    ta į Tautų Sąjungos Tarybą. Sovietams kariaujant su Suomija Baltijos vals-
+    tybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos
+    kaip agresorė. Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė mo-
+    nopolizuoti Lietuvos užsienio prekybą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-110002
+
+- id: c-167255
+  citata_originali: |
+    La­
+    biausia išgarsėjo atkviesdamas į Vilnių jėzuitus ir įkurda-
+    mas Akademiją. Jis taip pat palaimino Vilniuje Suomijos
+    kunigaikščio Jono, kuris vėliau tapo Švedijos karaliumi,
+    santuoką su Kotryna Jogailaite, karaliaus Žygimanto Au­
+    gusto seserimi.
+    —  •  .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183870
 
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvių Suomių Draugija]]

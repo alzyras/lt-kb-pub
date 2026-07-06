@@ -10,6 +10,18 @@ tags:
   - ginklas
   - ordinas
   - tikėjimas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kuoras aukštai ąžuole
 
@@ -42,10 +54,20 @@ Nenurodyta
 <a id="claim-t-59692"></a>
 - t-001
   global_id: t-59692
-  teiginys: 'Septyni Teutonų ordino broliai su keliais ginklanešiais Kulmo žemėje įsirengė kuorą aukštai ąžuole.'
+  teiginys: "Septyni Teutonų ordino broliai su keliais ginklanešiais Kulmo žemėje įsirengė kuorą aukštai ąžuole."
+  semantiniai_rysiai: "Teutonai pastatė Kuoras aukštai ąžuole (0.88)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "205338-205852; hash=83cbc8ceab2bd2e29d52b1b1688218edefacee2146bc221ad85ff1fb29d7ef79; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Kuoras aukštai ąžuole: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Teutonai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kuoras aukštai ąžuole: llm_allowed_candidate, thing"
+  ryšio_paaiskinimas: "Teutonų ordino broliai tiesiogiai nurodomi įsirengę kuorą aukštai ąžuole."
   pagrindžia:
-    - c-001
-
+    - c-60324
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -65,11 +87,36 @@ Nenurodyta
 
                               4.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-60324
+  citata_originali: |
+    Pats matyk
+    didelius dievo ženklus ir galingus jo stebuklus. Septyni Teutonų ordino broliai su keliais
+    ginklanešiais, įsirengę Kulmo žemėje, kaip jau esame sakę, kuorą aukštai ąžuole, ne tik
+    iš karto išdrįso užpulti tokią turtingą, tokią nesuskaitomą gausybę pagonių [gentium],
+    bet ilgainiui, per penkiasdešimt trejus metus, taip juos palaužė, kad nebeliko nė vieno,
+    kuris nebūtų nulenkęs savo sprando tikėjimui, padedant viešpačiui Jėzui Kristui, kuris
+    šlovinamas per amžius, amen.
+
+
+
+
+                              4.
+  citata_rodoma: "Septyni Teutonų ordino broliai su keliais\nginklanešiais, įsirengę Kulmo žemėje, kaip jau esame sakę, kuorą aukštai ąžuole, ne tik\niš karto išdrįso užpulti tokią turtingą, tokią nesuskaitomą gausybę pagonių [gentium],\nbet ilgainiui, per penkiasdešimt trejus metus, taip juos palaužė, kad nebeliko nė vieno,\nkuris nebūtų nulenkęs savo sprando tikėjimui, padedant viešpačiui Jėzui Kristui, kuris\nšlovinamas per amžius, amen.\n\n\n\n\n                          4."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-59692
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Teutonai]]

@@ -16,6 +16,18 @@ tags:
   - tauta
 amziai:
   - 'XVII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Petro Korkono 1621 m. raštas apie Goštauto liepą
 
@@ -28,10 +40,23 @@ Pranciškaus vienuolius, kunigus, į Vilnių tas pats Petras Goštautas atkviet�
 <a id="claim-t-88462"></a>
 - t-001
   global_id: t-88462
-  teiginys: 'Petras Korkonas 1621 m. rašė, kad Petras Goštautas prie senosios bažnyčios durų savo rankomis pasodino liepą.'
+  teiginys: "Petras Korkonas 1621 m. rašė, kad Petras Goštautas prie senosios bažnyčios durų savo rankomis pasodino liepą."
+  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) valdė Možaiskas (0.62); Algirdas (Lietuvos valdovas) valdė Brasta (0.62)"
+  temporaliniai_duomenys: "įvykio data: 1621 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie Korkono liudijimą ir Goštauto liepą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "87666-88298; hash=3e4514d7ad2cfa9cd0b9e8cfb6ed248b8cf9c7b1c3c84678babd4779dd285a84; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Brasta: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Brasta: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata apibūdina Algirdo valdžią teritorijoje nuo Brastos, todėl Brasta patenka į jo valdas."
   pagrindžia:
-    - c-001
-
+    - c-84441
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -58,8 +83,40 @@ Pranciškaus vienuolius, kunigus, į Vilnių tas pats Petras Goštautas atkviet�
     valdžioje buvusios, driekėsi nuo Brastos iki Možaisko į ry­
     tus ir nuo Baltijos krantų iki Juodosios jūros į pietus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-84441
+  citata_originali: |
+    Petro, vardui pašventė. Čia pirmiau­
+    sia mūsų lietuvių tauta Dievui nu­
+    silenkė, kai anuomet Šv. Pranciškaus
+    vienuolius, kunigus, į Vilnių tas pats
+    Petras Goštautas atkvietė, dar prieš
+    80 metų iki Jogailos viešpatavimo;
+    o vienas medis, liepa, priešais seno­
+    sios bažnyčios duris, kurią pats Goš­
+    tautas savo rankomis buvo pasodinęs,
+    kaip 1621 metais rašė maldingasis
+    kunigas Petras Korkonas, Antakalnio
+    29
+
+    ## Puslapis 46
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    Didelė ir galinga buvo Algirdo viešpatija: šalys, jo
+    valdžioje buvusios, driekėsi nuo Brastos iki Možaisko į ry­
+    tus ir nuo Baltijos krantų iki Juodosios jūros į pietus.
+  citata_rodoma: "Čia pirmiau­\nsia mūsų lietuvių tauta Dievui nu­\nsilenkė, kai anuomet Šv. Pranciškaus \nvienuolius, kunigus, į Vilnių tas pats \nPetras Goštautas atkvietė, dar prieš \n80 metų iki Jogailos viešpatavimo; \no vienas medis, liepa, priešais seno­\nsios bažnyčios duris, kurią pats Goš­\ntautas savo rankomis buvo pasodinęs, \nkaip 1621 metais rašė maldingasis \nkunigas Petras Korkonas, Antakalnio\n29\n\n## Puslapis 46\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nDidelė ir galinga buvo Algirdo viešpatija: šalys, jo \nvaldžioje buvusios, driekėsi nuo Brastos iki Možaisko į ry­\ntus ir nuo Baltijos krantų iki Juodosios jūros į pietus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88462

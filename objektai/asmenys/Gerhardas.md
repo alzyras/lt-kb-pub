@@ -10,6 +10,18 @@ tags:
   - miestas
   - ordinas
   - valdovas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Gerhardas (valdovas)
 
@@ -22,16 +34,38 @@ Dusburgietis teigia, kad apie vieną nuostabų atsivertimą Tuo metu Marienburgo
 <a id="claim-t-60121"></a>
 - t-001
   global_id: t-60121
-  teiginys: 'Gerhardas gyveno Marienburgo pilyje ir prieš tapdamas vienuoliu buvo Brandenburgo markgrafo šeimynykštis bei karo pabūklų meistras.'
+  teiginys: "Gerhardas gyveno Marienburgo pilyje ir prieš tapdamas vienuoliu buvo Brandenburgo markgrafo šeimynykštis bei karo pabūklų meistras."
+  semantiniai_rysiai: "Gerhardas (valdovas) gyveno Marienburgas (0.95)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "567789-568537; hash=9ab61137f9735df7488e35e4b0fe334f0347b2148f8d2e9b989c3d7f5b00335c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Marienburgas: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gerhardas (valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Marienburgas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Gerhardas gyveno Marienburgo pilyje."
   pagrindžia:
-    - c-002
+    - c-60754
 
 <a id="claim-t-60122"></a>
 - t-002
   global_id: t-60122
-  teiginys: 'Gerhardas, išsigandęs perspėjimo dėl savo gyvenimo būdo, atvyko į Prūsiją ir davė įžadus Teutonų ordinui.'
+  teiginys: "Gerhardas, išsigandęs perspėjimo dėl savo gyvenimo būdo, atvyko į Prūsiją ir davė įžadus Teutonų ordinui."
+  semantiniai_rysiai: "Gerhardas (valdovas) keliavo į Prūsija (0.95)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "568072-568743; hash=9dc73084ea57fab6393e6bdf1ce074f645d00078e4b3a15c6237bfc4bd1c01ec; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gerhardas (valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekste aiškiai pasakyta, kad Gerhardas atvyko į Prūsijos žemę."
   pagrindžia:
-    - c-001
+    - c-60753
 - susijęs iš [[objektai/asmenys/Gerhardas iš Reino.md#claim-t-184070|Gerhardas iš Reino]]: Gerhardas iš Reino su kitais broliais ir ginklanešiais nusivijo Pobravą, jį nužudė ir atėmė grobį.
 - susijęs iš [[objektai/asmenys/Gerhardas iš Reino.md#claim-t-60287|Gerhardas iš Reino]]: Gerhardas iš Reino su kitais broliais ir ginklanešiais nusivijo Pobravą, jį nužudė ir atėmė grobį.
 - susijęs iš [[objektai/ivykiai/Pobravo žygis į Balgos lauką ir jo žūtis.md#claim-t-183957|Pobravo žygis į Balgos lauką ir jo žūtis]]: Pobravas su notangais ir variniais puolė Balgos lauką, pagrobė brolių gyvulius ir buvo nužudytas Gerhardo iš Reino būrio.
@@ -71,6 +105,7 @@ Dusburgietis teigia, kad apie vieną nuostabų atsivertimą Tuo metu Marienburgo
 
                 246 (239).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -93,11 +128,59 @@ Dusburgietis teigia, kad apie vieną nuostabų atsivertimą Tuo metu Marienburgo
     būdo; kad šitai būtų akivaizdu, jie  jį užklojo balta marška, kaip paprastai užklojami
     numirėliai.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-60753
+  citata_originali: |
+    Kai jis kartą, jau
+    padaręs galybę tokių pabūklų, kuriais buvo sugriauta [daug] pilių bei miestų, gulėjo
+    vieną naktį atmerktomis akimis lovoje, pro užsklęstas duris įėjo keturi vyrai, nešini
+    keturiomis degančiomis žvakėmis, ir apkaltino jį daugybe nusikaltimų, sakydami, kad jis
+    neabejotinai susilauksiąs mirties, jeigu per tam tikrą laiką nepataisysiąs savo gyvenimo
+    būdo; kad šitai būtų akivaizdu, jie  jį užklojo balta marška, kaip paprastai užklojami
+    numirėliai. Jis labai to nusigando ir atvyko į Prūsijos žemę, atsiveždamas su savimi ir tą
+    baltąją maršką, ir, davęs įžadus Teutonų ordinui, pradėjo tyrą gyvenimą, kurį laimingai
+    ir užbaigė.
+
+
+
+
+                246 (239).
+  citata_rodoma: "Jis labai to nusigando ir atvyko į Prūsijos žemę, atsiveždamas su savimi ir tą\nbaltąją maršką, ir, davęs įžadus Teutonų ordinui, pradėjo tyrą gyvenimą, kurį laimingai\nir užbaigė.\n\n\n\n\n            246 (239)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60122
+
+- id: c-60754
+  citata_originali: |
+    245 (238). Apie vieną nuostabų atsivertimą
+
+      Tuo metu Marienburgo pilyje gyveno brolis Gerhardas; anksčiau, kai dar nedėvėjo
+    vienuolio apsiausto, jis buvo šviesiausiojo valdovo Brandenburgo markgrafo šeimynykštis,
+    garsėjęs kaip labai gabus račius  ir didelis karo pabūklų meistras. Kai jis kartą, jau
+    padaręs galybę tokių pabūklų, kuriais buvo sugriauta [daug] pilių bei miestų, gulėjo
+    vieną naktį atmerktomis akimis lovoje, pro užsklęstas duris įėjo keturi vyrai, nešini
+    keturiomis degančiomis žvakėmis, ir apkaltino jį daugybe nusikaltimų, sakydami, kad jis
+    neabejotinai susilauksiąs mirties, jeigu per tam tikrą laiką nepataisysiąs savo gyvenimo
+    būdo; kad šitai būtų akivaizdu, jie  jį užklojo balta marška, kaip paprastai užklojami
+    numirėliai.
+  citata_rodoma: "Apie vieną nuostabų atsivertimą\n\n  Tuo metu Marienburgo pilyje gyveno brolis Gerhardas; anksčiau, kai dar nedėvėjo\nvienuolio apsiausto, jis buvo šviesiausiojo valdovo Brandenburgo markgrafo šeimynykštis,\ngarsėjęs kaip labai gabus račius  ir didelis karo pabūklų meistras. Kai jis kartą, jau\npadaręs galybę tokių pabūklų, kuriais buvo sugriauta [daug] pilių bei miestų, gulėjo\nvieną naktį atmerktomis akimis lovoje, pro užsklęstas duris įėjo keturi vyrai, nešini\nketuriomis degančiomis žvakėmis, ir apkaltino jį daugybe nusikaltimų, sakydami, kad jis\nneabejotinai susilauksiąs mirties, jeigu per tam tikrą laiką nepataisysiąs savo gyvenimo\nbūdo; kad šitai būtų akivaizdu, jie  jį užklojo balta marška, kaip paprastai užklojami\nnumirėliai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60121
 
 ## Ryšiai
 - Gerhardas (valdovas) keliavo į [[objektai/vietos/Prūsija]]

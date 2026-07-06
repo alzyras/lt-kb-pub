@@ -4,6 +4,7 @@ pavadinimas: 'Florencija'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
   - '1432 m.'
   - '1434 m.'
@@ -18,6 +19,18 @@ tags:
   - vieta
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Florencija
 
@@ -28,25 +41,86 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
 ## Teiginiai
 
 <a id="claim-t-83346"></a>
-- t-001
+- t-003
   global_id: t-83346
-  teiginys: '1434 m. spalio 20 d. popiežius Eugenijus IV iš Florencijos parašė Žygimantui Kęstutaičiui laišką dėl Sofijos.'
+  teiginys: "1434 m. spalio 20 d. popiežius Eugenijus IV iš Florencijos parašė Žygimantui Kęstutaičiui laišką dėl Sofijos."
+  temporaliniai_duomenys: "įvykio data: 1434 m.; įvykio data: 1452 m.; įvykio data: 1453 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys performuluotas į aiškų sakinį apie iš Florencijos rašytą laišką."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "360902-361281; hash=76d248521320272c8884efa9802aecb02cf1c293b74fa4c880215a1cb891cb7c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Eugenijus IV: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Florencija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Eugenijus IV: mention_match, person, gap=16"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Florencija\" parinktas kaip owner_note_path. Targetas \"Eugenijus IV\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-79693
 
 <a id="claim-t-83347"></a>
 - t-002
   global_id: t-83347
-  teiginys: 'Popiežius Eugenijus IV 1434 m. spalio 20 d. iš Florencijos rašytame laiške užtarė Sofiją Žygimantui Kęstutaičiui.'
+  teiginys: "Popiežius Eugenijus IV 1434 m. spalio 20 d. iš Florencijos rašytame laiške užtarė Sofiją Žygimantui Kęstutaičiui."
+  temporaliniai_duomenys: "įvykio data: 1434 m.; įvykio data: 1452 m.; įvykio data: 1453 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "360902-361281; hash=76d248521320272c8884efa9802aecb02cf1c293b74fa4c880215a1cb891cb7c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Eugenijus IV: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Florencija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Eugenijus IV: mention_match, person, gap=37"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Florencija\" parinktas kaip owner_note_path. Targetas \"Eugenijus IV\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-79693
 
 <a id="claim-t-83348"></a>
 - t-003
   global_id: t-83348
-  teiginys: 'Florencijoje galutinai susitarta dėl Bažnyčių unijos, kuri 1452 m. buvo paskelbta Konstantinopolyje.'
+  teiginys: "Florencijoje galutinai susitarta dėl Bažnyčių unijos, kuri 1452 m. buvo paskelbta Konstantinopolyje."
+  temporaliniai_duomenys: "įvykio data: 1452 m.; įvykio data: 1453 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "360902-361281; hash=76d248521320272c8884efa9802aecb02cf1c293b74fa4c880215a1cb891cb7c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Konstantinopolis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Florencija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Konstantinopolis: mention_match, place, gap=82"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Florencija\" parinktas kaip owner_note_path. Targetas \"Konstantinopolis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-79695
+
+<a id="claim-t-192660"></a>
+- t-004
+  global_id: t-192660
+  teiginys: "Prie Florencijos mūrų atėjusi 200 000 karių kariuomenės dalis beveik visiškai pralaimėjo Stilichono vadovaujamiems romėnams."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Romėnai gynė Florencija (0.71)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "554452-554983; hash=97dc77dd2dd7b79fc60d941cf86958d326ecff1854c47f0aa85220eb363799b2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Florencija: 0.71"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Romėnai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Florencija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kariuomenė atėjo prie Florencijos mūrų ir pralaimėjo romėnams, todėl romėnų veiksmas susietas su Florencijos gynyba."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175430
 - susijęs iš [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas).md#claim-t-186221|Juozapas (Konstantinopolio patriarchas)]]: Konstantinopolio patriarchas Juozapas dalyvavo Florencijos suvažiavime, kuriame tartasi dėl Rytų ir Romos bažnyčių tikėjimo santarvės.
 - susijęs iš [[objektai/ivykiai/Florencijos bažnytinė unija.md#claim-t-26394|Florencijos bažnytinė unija (unija)]]: 1439 m. Florencijos bažnytinė unija neįstengė sujungti Rytų ir Vakarų bažnyčių.
 - susijęs iš Nifono laiškas rusams dėl Florencijos tikėjimo santarvės: Nifono laiškas ragino rusus tvirtai laikytis Florencijos tikėjimo santarvės, dėl kurios sutarė Jonas Paleologas ir Rytų bažnyčios patriarchai.
@@ -104,6 +178,7 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
     kusi tokios didžios galybės, alinama jo įpėdinių niekšybių
     ir barbariškumo, nuo to laiko pradėjo smukti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -122,8 +197,110 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
     metų (1453 m.) Konstantinopolį užėmė turkai, imperija žlugo, o
     su ja žlugo ir unija.
   citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003
+
+- c-003
+  santrauka: 'Prie Florencijos mūrų atėjusi 200 000 karių kariuomenės dalis beveik visiškai pralaimėjo Stilichono vadovaujamiems romėnams.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Vėliau, kai im­
+    perijos rytuose po Alariko maišto prasidėjo kruvini su­
+    sidūrimai, hunų valdžioje buvusios tautos: alanai, bur-
+    gundai, šilingai, svebai, kvadai, gepidai, saksai ir heru-
+    lai pasitraukė j Panoniją, susijungė su vandalais ir iš­
+    keliavo Alpių link. Vėliau ši nesuskaičiuojama kariuo­
+    menė pasidalijo į dvi dalis: viena, kurioje buvo 200 000
+    karių, atėjo prie Florencijos mūrų, bet beveik visiškai
+    pralaimėjo Stilichono vadovaujamiems romėnams. Antra
+    dalis liko vietoje, laukdama progos, kuri atvertų kelią į
+    Italiją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
+    - t-004
+
+## Citatos
+
+- id: c-79693
+  citata_originali: |
+    Tai, ką mūsų kronikininkai kal­
+    ba apie Švitrigailos žmonos sugavi­
+    mą Ašmenoje, esą jis neįstengęs iš­
+    sivežti kartu - tai nėra tikslu, nes tais
+    pat 1432 metais lapkričio 30 dieną
+    Švitrigaila, rašydamas Livonijos ma­
+    gistrui, užsimena, kad žmona jam
+    pagimdžiusi sūnų. Tačiau ši jo žmo­
+    na Sofija, Tverės kunigaikščio Bori­
+    so duktė, vėliau pateko Žygimanto
+    galion; nes popiežius Eugenijus IV
+    užtarė ją laiške Žygimantui Kęstu-
+    taičiui, rašytame iš Florencijos 1434
+    metų spalio 20 dieną.
+    216
+
+    ## Puslapis 233
+
+    I I I  KNYGA
+    degė padegta gal Švitrigailos kariuomenės, o gal ir pačių
+    miestiečių17.0 Švitrigaila, nusigavęs į Polocką, ten įkūrė iršt­
+    vą, iš kurios beveik 6 metus po visas Lietuvos šalis tolydžio
+    sklido įnirtingi vaidai, nesiliaujantys puldinėjimai ir pilieti­
+    nis karas, ir anoji Lietuvos valstybė, Vytauto laikais pasie­
+    kusi tokios didžios galybės, alinama jo įpėdinių niekšybių
+    ir barbariškumo, nuo to laiko pradėjo smukti.
+  citata_rodoma: "Tačiau ši jo žmo­\nna Sofija, Tverės kunigaikščio Bori­\nso duktė, vėliau pateko Žygimanto\ngalion; nes popiežius Eugenijus IV\nužtarė ją laiške Žygimantui Kęstu-\ntaičiui, rašytame iš Florencijos 1434\nmetų spalio 20 dieną.\n216\n\n## Puslapis 233\n\nI I I  KNYGA\ndegė padegta gal Švitrigailos kariuomenės, o gal ir pačių\nmiestiečių17."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-83347
+    - t-83346
+
+- id: c-79695
+  citata_originali: |
+    Imperatorius, norėdamas gauti Vakarų para-
+    mos prieš turkus, taip pat pasiūlė Bazelio suvažiavimui sujungti
+    Bažnyčias. Tačiau galutinai dėl unijos buvo susitarta kiek vė-
+    liau Florencijoje. Tas susitarimas buvo paskelbtas Konstantino-
+    poly 1452 m., tik jau nebebuvo laiko jam įvykdyti: po pusės
+    metų (1453 m.) Konstantinopolį užėmė turkai, imperija žlugo, o
+    su ja žlugo ir unija.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-83348
+
+- id: c-175430
+  citata_originali: |
+    Vėliau, kai im­
+    perijos rytuose po Alariko maišto prasidėjo kruvini su­
+    sidūrimai, hunų valdžioje buvusios tautos: alanai, bur-
+    gundai, šilingai, svebai, kvadai, gepidai, saksai ir heru-
+    lai pasitraukė j Panoniją, susijungė su vandalais ir iš­
+    keliavo Alpių link. Vėliau ši nesuskaičiuojama kariuo­
+    menė pasidalijo į dvi dalis: viena, kurioje buvo 200 000
+    karių, atėjo prie Florencijos mūrų, bet beveik visiškai
+    pralaimėjo Stilichono vadovaujamiems romėnams. Antra
+    dalis liko vietoje, laukdama progos, kuri atvertų kelią į
+    Italiją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192660
+
+## Ryšiai
+- Gynė Florenciją: [[objektai/grupes/Romėnai]]

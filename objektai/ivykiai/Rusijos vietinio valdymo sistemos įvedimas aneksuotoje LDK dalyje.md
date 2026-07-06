@@ -18,6 +18,18 @@ tags:
 amziai:
   - 'XVIII'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Rusijos vietinio valdymo sistemos įvedimas aneksuotoje LDK dalyje
 
@@ -46,10 +58,22 @@ Nenurodyta
 <a id="claim-t-25115"></a>
 - t-001
   global_id: t-25115
-  teiginys: '1795 m. Rusijos aneksuotoje LDK dalyje buvo įvesta vietinio valdymo sistema, kurioje veikė vietos administracijos prižiūrimos institucijos.'
+  teiginys: "1795 m. Rusijos aneksuotoje LDK dalyje buvo įvesta vietinio valdymo sistema, kurioje veikė vietos administracijos prižiūrimos institucijos."
+  temporaliniai_duomenys: "įvykio data: 1795 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie vietinio valdymo sistemos įvedimą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "184968-185660; hash=ca221e0210fb3efc97df5372c3e7e7cb0bbbcaa91bcaf617332052cecea625d1; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rusijos vietinio valdymo sistemos įvedimas aneksuotoje LDK dalyje: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Rusija: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusijos vietinio valdymo sistemos įvedimas aneksuotoje LDK dalyje\" parinktas kaip owner_note_path. Targetas \"Rusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-25690
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -68,8 +92,31 @@ Nenurodyta
     ma buvo įvesta ir 1795 m. Rusijos aneksuotoje LDK dalyje, kurioje gyveno
     per 1,8 mln. žmonių, iš jų 1,1 mln. etnografinėje Lietuvoje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-25690
+  citata_originali: |
+    L I E T U V O S  I S T O R I J A
+    100
+    Nuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir
+    savivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirin-
+    kimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba su-
+    bluomų, savivalda. Tai nesavarankiškos vietinės valdžios šakos, prižiūrimos
+    vietos administracijos, atlikusios iš esmės pagalbines funkcijas. Apskrities
+    bajorų susirinkimas rinko kai kuriuos už viešąją tvarką atsakingus parei-
+    gūnus, žemutinės teismų grandies teisėjus. Tokia vietinio valdymo siste-
+    ma buvo įvesta ir 1795 m. Rusijos aneksuotoje LDK dalyje, kurioje gyveno
+    per 1,8 mln. žmonių, iš jų 1,1 mln. etnografinėje Lietuvoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-25115

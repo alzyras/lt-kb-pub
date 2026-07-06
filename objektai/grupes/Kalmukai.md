@@ -1,0 +1,88 @@
+---
+tipas: grupe
+pavadinimas: 'Kalmukai'
+saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
+sukurta: ''
+atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Kalmukai
+
+## Santrauka
+
+Narbutas, remdamasis Jonu Potockiu, mini kalmukų garbinimo praktiką, kurią laiko ne tokią ryškią kaip senovės lietuvių.
+
+## Teiginiai
+
+<a id="claim-t-192983"></a>
+- t-001
+  global_id: t-192983
+  teiginys: "Narbutas, remdamasis Jonu Potockiu, mini kalmukų garbinimo praktiką, kurią laiko ne tokią ryškią kaip senovės lietuvių."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "865694-866089; hash=67e6ab4c3e6d2f05f53433066727be3f5ff8dcc3fd8adac65dd8909e04eff68f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Slavai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kalmukai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Slavai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalmukai\" parinktas kaip owner_note_path. Targetas \"Slavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175753
+- susijęs iš [[objektai/autoriai/Jonas Potockis.md#claim-t-190734|Jonas Potockis]]: Grafas Jonas Potockis tokį garbinimą pastebėjo pas kalmukus, o Narbutas jį laikė ne tokiu ryškiu kaip senovės lietuvių papročiuose.
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Narbutas, remdamasis Jonu Potockiu, mini kalmukų garbinimo praktiką, kurią laiko ne tokią ryškią kaip senovės lietuvių.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Už tokį neatsargumą jų
+    krašte apaštalavę krikščionių vienuoliai būdavo mušami lazdomis
+    ir net grasinama mirtimi. Grafas Jonas Potockis tokį garbinimą
+    pastebėjo ir pas kalmukus (jie turėtų būti mongolų palikuonys),
+    bet vis dėlto ne tokį ryškų, kaip tat matome buvus pas senovės
+    lietuvius1. Senovės slavai specialiai darydavo žemas duris, kad
+    ateinantysis arba išeinantysis nusilenktų slenksčiui2.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Citatos
+
+- id: c-175753
+  citata_originali: |
+    Už tokį neatsargumą jų
+    krašte apaštalavę krikščionių vienuoliai būdavo mušami lazdomis
+    ir net grasinama mirtimi. Grafas Jonas Potockis tokį garbinimą
+    pastebėjo ir pas kalmukus (jie turėtų būti mongolų palikuonys),
+    bet vis dėlto ne tokį ryškų, kaip tat matome buvus pas senovės
+    lietuvius1. Senovės slavai specialiai darydavo žemas duris, kad
+    ateinantysis arba išeinantysis nusilenktų slenksčiui2.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192983

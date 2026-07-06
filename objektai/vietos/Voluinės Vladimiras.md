@@ -1,0 +1,108 @@
+---
+tipas: vieta
+pavadinimas: 'Voluinės Vladimiras'
+saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
+datos:
+  - '1247 m.'
+date_start: '1247'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Voluinės Vladimiras
+
+## Santrauka
+
+1247 m. kunigaikštis Vasilka išžygiavo iš Voluinės Vladimiro ir trečią dieną pasivijo jotvingius prie Drohičino.
+
+## Teiginiai
+
+<a id="claim-t-192859"></a>
+- t-001
+  global_id: t-192859
+  teiginys: "1247 m. kunigaikštis Vasilka išžygiavo iš Voluinės Vladimiro ir trečią dieną pasivijo jotvingius prie Drohičino."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Vasilka keliavo į Voluinės Vladimiras (0.66)"
+  temporaliniai_duomenys: "kelionės data: 1247 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Vasilka keliavo į Voluinės Vladimiras“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas veiksmo subjektas, data, kelionės pradžios vieta ir rezultatas. Neperkelti Narbuto spėjimai apie jotvingių ketinimus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "221462-222010; hash=86b3a9d5cfd73bbac6679b54967543186c91abe35fe5e66e0415d76ab47fb855; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Voluinės Vladimiras: 0.66"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vasilka: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Voluinės Vladimiras: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo Vasilkos išvykimo vietą, nors ryšys „keliavo_i“ tik apytikriai dengia išžygiavimą iš vietos."
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175629
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: '1247 m. kunigaikštis Vasilka išžygiavo iš Voluinės Vladimiro ir trečią dieną pasivijo jotvingius prie Drohičino.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Ne
+    viskam galime įvirtai pritaikyti tai, ką dabar pateikėme,
+    nes turime žinių apie didelį ir galingą jotvingių žygį į
+    Pietų Rusią, Jie tikriausiai ketino pasinaudoti ianuometi­
+    niais to krašto sunkumais: mongolai nuolat puldinėjo, o
+    kunigaikščiai vaidijosi tarpusavyje. 1247 metais jotvin­
+    giai pasiekė net Holmą prie Ochodzos ir Busavnos; anuo­
+    met tai buvo garsūs valsčiai, ir tas kraštas buvo labai
+    nuniokotas. Kunigaikštis Vasilka, išžygiavęs iš Voluinės
+    Vladimiro, jau trečią dieną pasivijo juos prie pat Drohi-
+    čino (dabar Kobrino apskritis).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Citatos
+
+- id: c-175629
+  citata_originali: |
+    Ne
+    viskam galime įvirtai pritaikyti tai, ką dabar pateikėme,
+    nes turime žinių apie didelį ir galingą jotvingių žygį į
+    Pietų Rusią, Jie tikriausiai ketino pasinaudoti ianuometi­
+    niais to krašto sunkumais: mongolai nuolat puldinėjo, o
+    kunigaikščiai vaidijosi tarpusavyje. 1247 metais jotvin­
+    giai pasiekė net Holmą prie Ochodzos ir Busavnos; anuo­
+    met tai buvo garsūs valsčiai, ir tas kraštas buvo labai
+    nuniokotas. Kunigaikštis Vasilka, išžygiavęs iš Voluinės
+    Vladimiro, jau trečią dieną pasivijo juos prie pat Drohi-
+    čino (dabar Kobrino apskritis).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192859
+
+## Ryšiai
+- Buvo kelionės vieta: [[objektai/asmenys/Vasilka]]

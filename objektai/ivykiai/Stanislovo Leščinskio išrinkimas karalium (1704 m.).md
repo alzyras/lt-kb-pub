@@ -17,6 +17,18 @@ tags:
 amziai:
   - 'XVII'
   - 'XVIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Stanislovo Leščinskio išrinkimas karalium (1704 m.)
 
@@ -41,10 +53,22 @@ Nenurodyta
 <a id="claim-t-01806"></a>
 - t-001
   global_id: t-01806
-  teiginys: '1704 m. Karolis privertė sušaukti švedų kariuomenės apsuptą elekcinį seimą, kuris karaliumi paskelbė Stanislovą Leščinskį.'
+  teiginys: "1704 m. Karolis privertė sušaukti švedų kariuomenės apsuptą elekcinį seimą, kuris karaliumi paskelbė Stanislovą Leščinskį."
+  temporaliniai_duomenys: "įvykio data: 1656 m.; įvykio data: 1704 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys paremtas citata, bet perrašytinas sklandesne enciklopedine lietuvių kalba."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "774737-774967; hash=14a26e3990d362b057ea6185fe8fa17c331316fa652ccdf82884d308d4b774b0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Karolis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Stanislovo Leščinskio išrinkimas karalium (1704 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Karolis: mention_match, person, gap=74"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stanislovo Leščinskio išrinkimas karalium (1704 m.)\" parinktas kaip owner_note_path. Targetas \"Karolis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-02044
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -61,8 +85,31 @@ Nenurodyta
     Stanislovą Leščin-
     skį.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-02044
+  citata_originali: |
+    Todėl visuotinio sukilimo
+    prieš švedus, kaip 1656 m.,
+    nebegalėjo būti. Pagaliau
+    1704 m. Karolis privertė
+    sušaukti elekcinį seimą, ku-
+    ris, apstatytas švedų ka-
+    riuomene, paskelbė kara-
+    lium Poznanės vaivadą
+    Stanislovą Leščin-
+    skį.
+  citata_rodoma: "Pagaliau\n1704 m. Karolis privertė\nsušaukti elekcinį seimą, ku-\nris, apstatytas švedų ka-\nriuomene, paskelbė kara-\nlium Poznanės vaivadą\nStanislovą Leščin-\nskį."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-01806

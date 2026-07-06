@@ -14,6 +14,18 @@ tags:
   - saltinis
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Mažosios Lietuvos himnas
 
@@ -24,19 +36,46 @@ Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už lietuvių kalbą Rytų Prūs
 ## Teiginiai
 
 <a id="claim-t-75499"></a>
-- t-001
+- t-002
   global_id: t-75499
-  teiginys: 'XIX a. pabaigoje Georgas Zauerveinas parašė Mažosios Lietuvos himną, kuris greitai išpopuliarėjo ir Didžiojoje Lietuvoje.'
+  teiginys: "XIX a. pabaigoje Georgas Zauerveinas parašė Mažosios Lietuvos himną, kuris greitai išpopuliarėjo ir Didžiojoje Lietuvoje."
+  semantiniai_rysiai: "Lietuviai gyveno Nemunas (0.82); Georgas Zauerveinas gynė Lietuviai (0.72)"
+  temporaliniai_duomenys: "įvykio data: 1879 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pakeista neaiški laiko nuoroda „Amžiaus pabaigoje“ į aiškesnę formuluotę."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "231107-231909; hash=7f8d799b99f6b108efa74ebab9651559e7add8196ed5ec56dde4442a28373eda; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Nemunas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Nemunas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai lokalizuoja lietuvius abipus Nemuno."
   pagrindžia:
-    - c-001
+    - c-23900
 
 <a id="claim-t-75500"></a>
-- t-002
+- t-001
   global_id: t-75500
-  teiginys: 'Už lietuvių kalbą Rytų Prūsijoje kovojęs Jurgis Zauerveinas parašė Mažosios Lietuvos himną, išpopuliarėjusį ir Didžiojoje Lietuvoje.'
+  teiginys: "Už lietuvių kalbą Rytų Prūsijoje kovojęs Jurgis Zauerveinas parašė Mažosios Lietuvos himną, išpopuliarėjusį ir Didžiojoje Lietuvoje."
+  semantiniai_rysiai: "Lietuviai gyveno Nemunas (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1879 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie objektą ir atitinka citatos informaciją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "231107-231909; hash=7f8d799b99f6b108efa74ebab9651559e7add8196ed5ec56dde4442a28373eda; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Nemunas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Nemunas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo lietuvius abipus Nemuno."
   pagrindžia:
-    - c-001
-
+    - c-23900
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -55,9 +94,35 @@ Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už lietuvių kalbą Rytų Prūs
     rėjo ir Didžiojoje Lietuvoje, tad lietuviai abipus Nemuno giedojo jį jau
     tvirtai tikėdami, kad tikrai nebepražus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-23900
+  citata_originali: |
+    jas, atspindėjusias socialistines ir krikščionių demokratų idėjas (pirmasis
+    vietos lietuviškas laikraštis JAV išėjo 1879 m.), plėtojosi meno saviveikla,
+    buvo kuriami chorai, JAV lietuviai finansiškai rėmė Lietuvos kultūrinį
+    gyvenimą, rengė politines akcijas, atkreipdami dėmesį į tautinius suvar-
+    žymus Rusijos imperijoje.
+    Amžiaus pabaigoje sorbų kilmės vokiečių politikas, mokslininkas, po-
+    liglotas Georgas (liet. Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už
+    lietuvių kalbą Rytų Prūsijoje, parašė Mažosios Lietuvos himną, kuriame
+    buvo eilutės: „Lietuviais esame mes gimę / Lietuviais norime ir būt/ Tą
+    garbę gavome užgimę/ Jai ir neturim leist pražūt“ – jis bemat išpopulia-
+    rėjo ir Didžiojoje Lietuvoje, tad lietuviai abipus Nemuno giedojo jį jau
+    tvirtai tikėdami, kad tikrai nebepražus.
+  citata_rodoma: "Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už\nlietuvių kalbą Rytų Prūsijoje, parašė Mažosios Lietuvos himną, kuriame\nbuvo eilutės: „Lietuviais esame mes gimę / Lietuviais norime ir būt/ Tą\ngarbę gavome užgimę/ Jai ir neturim leist pražūt“ – jis bemat išpopulia-\nrėjo ir Didžiojoje Lietuvoje, tad lietuviai abipus Nemuno giedojo jį jau\ntvirtai tikėdami, kad tikrai nebepražus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75500
+    - t-75499

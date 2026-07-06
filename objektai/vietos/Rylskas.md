@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Rylskas
 
@@ -17,9 +29,23 @@ Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitan
 <a id="claim-t-185302"></a>
 - t-001
   global_id: t-185302
-  teiginys: 'Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitant Černigovą, Starodubą, Naugardą ir Rylską.'
+  teiginys: "Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitant Černigovą, Starodubą, Naugardą ir Rylską."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Rylskas priklausė Seversko žemė (0.84); Naugardas priklausė Seversko žemė (0.84)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "984986-985501; hash=21117368fa4028359702c0b0a90f7eb488d7005b2051e52528ae779be1e495d3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Seversko žemė: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Rylskas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Seversko žemė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Rylskas išvardytas kaip Seversko žemės dalis."
   pagrindžia:
-    - c-001
+    - c-168663
 - susijęs iš Naugardas: Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitant Černigovą, Starodubą, Naugardą ir Rylską.
 - susijęs iš Seversko žemė: Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė: Černigovas, Starodubas, Naugardas ir Rylskas.
 - susijęs iš Starodubas: Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitant Černigovą, Starodubą, Naugardą ir Rylską.
@@ -46,11 +72,38 @@ Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitan
     Seversko žemė — Černigovas, Starodubas, Naugardas ir
     Rylskas.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-168663
+  citata_originali: |
+    Kaip
+    atlyginimą už išdavystę, prisiekdamas visomis švente­
+    nybėmis, pažadėjo, kad jie paveldėsią miestus ir kraš­
+    tus, kurie bus nuo Lietuvos atplėšti. Žmonės, didžiai
+    nepalankūs Aleksandrui bei Lietuvai dėl skirtingo ti-
+    558
+
+    ## Puslapis 557
+
+    kėjimo, netruko pasiduoti įkalbami ir užmiršti ankš­
+    čiau duotą žodį. Sutelkę jėgas, visi kartu užpuolė
+    Brianską ir dėl rusų klastingos išdavystės be vargo
+    užėmė miestą, o netrukus prie išdavikų prisidėjo visa
+    Seversko žemė — Černigovas, Starodubas, Naugardas ir
+    Rylskas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185302
 
 ## Ryšiai
 - Rylskas priklausė [[objektai/vietos/Seversko žemė]], [[objektai/vietos/Seversko žemės]]

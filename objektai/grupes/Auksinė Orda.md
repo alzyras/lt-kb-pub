@@ -14,11 +14,6 @@ datos:
   - '1503 m.'
 date_start: '1360'
 date_end: '1503'
-description: 'Auksinė Orda – silpnėjusi totorių valstybė, susijusi su Vytauto bandymu grąžinti Tochtamišą ir Jono III sąjunga.'
-socialDescription: 'Auksinė Orda Lietuvos istorijos pasakojime siejama su Vytauto politika, Tochtamišo sugrąžinimo planu ir Jono III sąjunga su Perekopo chanu.'
-seo_atnaujinta: '2026-07-02T23:12:35.394696+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,91 +21,233 @@ tags:
 amziai:
   - 'XIV'
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Auksinė Orda
 
 ## Santrauka
 
-Auksinė Orda šaltinyje apibūdinama kaip prie Kaspijos jūros įsikūrusi totorių valstybė, XIV amžiaus pabaigoje pradėjusi silpti. Vytautas siekė į jos valdžią grąžinti Tochtamišą, tačiau lemiamas žygis baigėsi nesėkme. Vėlesniame pasakojime Jonas III, sudaręs sąjungą su Perekopo chanu, sunaikino Auksinę Ordą.
+Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiame šaltinyje Auksinė Orda taip pat tiesiogiai įvardijama kaip silpnėjanti totorių valstybė, į kurios valdžią Vytautas siekė grąžinti Tochtamišą.
 
 ## Teiginiai
 
 <a id="claim-t-05238"></a>
-- t-001
+- t-002
   global_id: t-05238
-  teiginys: 'Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale silpnėjusi totorių valstybė.'
+  teiginys: "Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale silpnėjusi totorių valstybė."
+  semantiniai_rysiai: "Auksinė Orda priklausė Totoriai (0.70)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "20513-20801; hash=24eac25a46ef73e0d1b4f51cc5e16e5e105d1cb51f54a1a55ea105c8bd527912; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Totoriai: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Auksinė Orda: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai įvardija Aukso Ordą kaip totorių valstybę."
   pagrindžia:
-    - c-001
+    - c-05786
 
 <a id="claim-t-05239"></a>
-- t-002
+- t-003
   global_id: t-05239
-  teiginys: 'Vytautas žadėjo Tochtamišą pasodinti Aukso ordoje ir tikėjosi už tai įtakos Maskvoje.'
+  teiginys: "Vytautas žadėjo Tochtamišą pasodinti Aukso ordoje ir tikėjosi už tai įtakos Maskvoje."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) rėmė Tochtamišas (0.78)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "850494-850782; hash=cb9a7decd2af8a45ddc4e34e0fdd5cca00812862eb2749a23418e9ddbc5ab2e3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Tochtamišas: 0.78"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Tochtamišas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Claimas tiesiogiai nurodo Vytauto pažadą pasodinti Tochtamišą valdžioje, tai reiškia paramą."
   pagrindžia:
-    - c-002
+    - c-05787
 
 <a id="claim-t-05240"></a>
-- t-003
+- t-004
   global_id: t-05240
-  teiginys: 'Lemiamasis Vytauto žygis, siekęs pasodinti Tochtamišą Aukso ordoje, baigėsi nesėkme.'
+  teiginys: "Lemiamasis Vytauto žygis, siekęs pasodinti Tochtamišą Aukso ordoje, baigėsi nesėkme."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "866100-866537; hash=1218fb565a2d217eb3394b0e2cdf860b9b556a77128c15b86d65e01dce630a2b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Auksinė Orda: owner_note_path, group"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Auksinė Orda\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-05788
 
 <a id="claim-t-12353"></a>
-- t-004
+- t-005
   global_id: t-12353
-  teiginys: 'Aukso Orda šiame šaltinyje apibūdinama kaip prie Kaspijos jūros įsikūrusi totorių valstybė.'
+  teiginys: "Aukso Orda šiame šaltinyje apibūdinama kaip prie Kaspijos jūros įsikūrusi totorių valstybė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "169211-169438; hash=fc40686a3aab9a99e7fb5676e4bca0f9b19095f0071972ff1355c9889fdf0005; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Totoriai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Auksinė Orda: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Totoriai: mention_match, group, gap=68"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Auksinė Orda\" parinktas kaip owner_note_path. Targetas \"Totoriai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-14960
 
 <a id="claim-t-12354"></a>
-- t-005
+- t-006
   global_id: t-12354
-  teiginys: 'Tamerlano smūgis išvijo Tochtamyšą, o Auksinėje Ordoje buvo pasodintas naujas valdovas.'
+  teiginys: "Tamerlano smūgis išvijo Tochtamyšą, o Auksinėje Ordoje buvo pasodintas naujas valdovas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "170626-171082; hash=132ab0bd684b880c140df8d84ec5484e472046e2552b793bee8313ead3fe2550; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Auksinė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Auksinė Orda: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Auksinė: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Auksinė Orda\" parinktas kaip owner_note_path. Targetas \"Auksinė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-14961
 
 <a id="claim-t-12355"></a>
-- t-006
+- t-007
   global_id: t-12355
-  teiginys: 'Vytauto įtaka šiame pasakojime siejama ir su Aukso Orda.'
+  teiginys: "Vytauto įtaka šiame pasakojime siejama ir su Aukso Orda."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "326158-326576; hash=91a002e2565ef203c8881b2d29df7a4778639a16f4d11303cc7e40c5c21fc0fb; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aukso orda: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Auksinė Orda: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Aukso orda: mention_match, group, gap=6"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Auksinė Orda\" parinktas kaip owner_note_path. Targetas \"Aukso orda\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-14962
 
 <a id="claim-t-92025"></a>
-- t-007
+- t-010
   global_id: t-92025
-  teiginys: 'Jonas III sudarė sąjungą su Perekopo chanu ir sunaikino Auksinę Ordą.'
+  teiginys: "Jonas III sudarė sąjungą su Perekopo chanu ir sunaikino Auksinę Ordą."
+  temporaliniai_duomenys: "įvykio data: 1480 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia aiškiau įvardyti, su kuriuo chanu Jonas III sudarė sąjungą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "386309-386613; hash=6492df00d4f075574a298fc2e43cda3551bc37c507f469f626025bbb4cdef7d5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Auksinė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Auksinė Orda: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Auksinė: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Auksinė Orda\" parinktas kaip owner_note_path. Targetas \"Auksinė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-009
+    - c-87638
 
 <a id="claim-t-92026"></a>
-- t-008
+- t-009
   global_id: t-92026
-  teiginys: 'Po Tamerlano žygių Auksinėje Ordoje buvo pasodintas Koiridžakas-Aglenas, o po jo - Kotlogas-Timuras.'
+  teiginys: "Po Tamerlano žygių Auksinėje Ordoje buvo pasodintas Koiridžakas-Aglenas, o po jo - Kotlogas-Timuras."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "170879-171126; hash=132969b8963c7b70b4ddace503b0603eb217ae727db6fae942df4b8baf5b21e5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Auksinė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Auksinė Orda: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Auksinė: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Auksinė Orda\" parinktas kaip owner_note_path. Targetas \"Auksinė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-87634
 
 <a id="claim-t-92027"></a>
-- t-009
+- t-008
   global_id: t-92027
-  teiginys: 'Tamerlanas išvijo Auksinės Ordos valdytoją Tochtamyšą, kuris buvo įsigalėjęs Rytų Europoje ir valdė nemažus rusų žemių plotus.'
+  teiginys: "Tamerlanas išvijo Auksinės Ordos valdytoją Tochtamyšą, kuris buvo įsigalėjęs Rytų Europoje ir valdė nemažus rusų žemių plotus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "170565-170951; hash=5cb23120bd79073a2bfc16f5b10a0d21272cff16f008dae2de81d81e8ff396c2; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Auksinė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Auksinė Orda: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Auksinė: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Auksinė Orda\" parinktas kaip owner_note_path. Targetas \"Auksinė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-87636
 
 <a id="claim-t-187704"></a>
 - t-010
   global_id: t-187704
-  teiginys: 'Aukso ordoje ulanais vadinosi chano giminės nariai iš tų linijų, kurių atstovams neteko sėdėti chanų soste.'
+  teiginys: "Aukso ordoje ulanais vadinosi chano giminės nariai iš tų linijų, kurių atstovams neteko sėdėti chanų soste."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "564676-565100; hash=ca2dff6c742e03c32210ead95ab60a4e301c7cb54c47cd12cea57b7bca427bb6; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> ulan: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Auksinė Orda: owner_note_path, group"
+  ryšio_targeto_parinkimas: "ulan: mention_match, thing, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Auksinė Orda\" parinktas kaip owner_note_path. Targetas \"ulan\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-010
+    - c-170643
 
 <a id="claim-t-187705"></a>
 - t-011
   global_id: t-187705
-  teiginys: 'Komentare Achmatas apibūdinamas kaip Aukso ordos chanas 1459–1481 m., Kazimiero Jogailaičio sąjungininkas ir 1480 m. žygio prie Ugros dalyvis.'
+  teiginys: "Komentare Achmatas apibūdinamas kaip Aukso ordos chanas 1459–1481 m., Kazimiero Jogailaičio sąjungininkas ir 1480 m. žygio prie Ugros dalyvis."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1459-1481; įvykio data: 1480 m.; įvykio data: 1481 m.; įvykio data: 1503 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Valdovo titulas ir politinis apibūdinimas palikti su komentaro atribucija. Sąmoningai neperimtas motyvinis teiginys apie siekį pajungti Maskvą kaip neutralus faktas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "637328-637840; hash=eff8908aa3e5f8c9ad7ec22d4a530aca2566f55b725ceea0554b10400f89a9b9; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> chanas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Auksinė Orda: owner_note_path, group"
+  ryšio_targeto_parinkimas: "chanas: mention_match, thing, gap=50"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Auksinė Orda\" parinktas kaip owner_note_path. Targetas \"chanas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-011
+    - c-170644
 - susijęs iš Volynė: 1323 m. pabaigoje arba 1324 m. pradžioje Gedimino Lietuva, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę.
 - susijęs iš Kijevas: Apie 1325 m. Gedimino kariuomenė nužygiavo į totorių valdytą Kijevą ir atėmė jį iš Aukso ordos.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176380|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Nors Lietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algirdas už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk Vytautas nustojo mokėti mongolams duoklę).
@@ -244,6 +381,7 @@ Auksinė Orda šaltinyje apibūdinama kaip prie Kaspijos jūros įsikūrusi toto
     Bet tos audros debesys pamažu išsiskirstė, nepadarydami Maskvai
     didesnių nuostolių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -260,8 +398,9 @@ Auksinė Orda šaltinyje apibūdinama kaip prie Kaspijos jūros įsikūrusi toto
     dinki didžiojoje Maskvos kunigaikštijoje ... Vokiečius (ordiną) aš
     pats paimsiu^2 ».
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -278,8 +417,9 @@ Auksinė Orda šaltinyje apibūdinama kaip prie Kaspijos jūros įsikūrusi toto
     Vorsklą truputį šiauriau Poltavos, kur po 410 metų Petras Didysis
     sutriuškino švedų galybę (1709).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -293,8 +433,9 @@ Auksinė Orda šaltinyje apibūdinama kaip prie Kaspijos jūros įsikūrusi toto
     amž. pradžią. Iš karto ji apsistojo paliai Kaspijos jūrą ir įstei­
     gė Aukso Ordą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
@@ -311,8 +452,9 @@ Auksinė Orda šaltinyje apibūdinama kaip prie Kaspijos jūros įsikūrusi toto
     tris žygius sudrausti sukilusį Tochtamyšą. Tų žygių išdavos
     buvo tokios, kad Auksinėj Ordoj buvo pasodintas Koiridžakas
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
@@ -328,8 +470,9 @@ Auksinė Orda šaltinyje apibūdinama kaip prie Kaspijos jūros įsikūrusi toto
     čių Ordino galybę, Vytauto valdžią dar labiau sutvirtino ir pra­
     skynė kelią į tikruosius jo didybės laikus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
@@ -345,8 +488,9 @@ Auksinė Orda šaltinyje apibūdinama kaip prie Kaspijos jūros įsikūrusi toto
 
     - Aglenas ir jo įpėdinis Kotlogas-Timuras.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
@@ -363,6 +507,7 @@ Auksinė Orda šaltinyje apibūdinama kaip prie Kaspijos jūros įsikūrusi toto
     nors ir smarkiai buvo pirmojo sumuštas. Pajutęs savo galy­
     bę, jis įsigeidė atsisakyti nuo Tamerlano viršenybės.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -380,6 +525,7 @@ Auksinė Orda šaltinyje apibūdinama kaip prie Kaspijos jūros įsikūrusi toto
     totorių (1480 m.), ir vienintelis galingas jos konkurentas liko
     Lietuva.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -402,6 +548,7 @@ Auksinė Orda šaltinyje apibūdinama kaip prie Kaspijos jūros įsikūrusi toto
     chano giminės nariai iš tų linijų, kurių atstovam s neteko sėdėti
     chanų soste.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -422,11 +569,198 @@ Auksinė Orda šaltinyje apibūdinama kaip prie Kaspijos jūros įsikūrusi toto
     mo chanų Mengll-Girėjų, kuris savo možiu siekė pašalinti Sich-
     Achmetų ir sujungti savo valdžioje visas totorių ordas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
+## Citatos
+
+- id: c-05786
+  citata_originali: |
+    (^6) PRATARMĖ
+    vokiečių ordinu. Kai nuo XIV amž. galo totorių valstybė (Aukso
+    Orda) ėmė silpti, atrodė, kad Vytauto Didžiojo laikais sutelktoji
+    jėga sudrebins pagaliau ir pačios Maskvos valstybę iš pamatų.
+    Bet tos audros debesys pamažu išsiskirstė, nepadarydami Maskvai
+    didesnių nuostolių.
+  citata_rodoma: "Kai nuo XIV amž. galo totorių valstybė (Aukso\nOrda) ėmė silpti, atrodė, kad Vytauto Didžiojo laikais sutelktoji\njėga sudrebins pagaliau ir pačios Maskvos valstybę iš pamatų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05238
+
+- id: c-05787
+  citata_originali: |
+    Pagal rusų met­
+    raščius, Vytautas žadėjo Perekopo (Krymo) vad. Aukso ordos
+    chanui Tochtamišui, nugalėjęs jo priešą Timur-Kutlugą, pasodinti
+    jį visų totorių chanatų viršūnėje, sakydamas : «o tu mane paso­
+    dinki didžiojoje Maskvos kunigaikštijoje ... Vokiečius (ordiną) aš
+    pats paimsiu^2 ».
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05239
+
+- id: c-05788
+  citata_originali: |
+    žentas Vasilius, ir todėl jis laikėsi pasyviai, kai Konstantinopolio
+    patriarchas ragino visos Rusios metropolitą Kiprijoną skelbti kry­
+    žiaus karą^32.
+    Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos
+    (Edigiu) pasodinti Aukso ordoje Tochtamišą, nelaimingai pasibaigė.
+    Kairiuoju Dniepro krantu Vytautas nužygiavo palei jo prieupį
+    Vorsklą truputį šiauriau Poltavos, kur po 410 metų Petras Didysis
+    sutriuškino švedų galybę (1709).
+  citata_rodoma: "Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos\n(Edigiu) pasodinti Aukso ordoje Tochtamišą, nelaimingai pasibaigė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05240
+
+- id: c-14960
+  citata_originali: |
+    Dabar teks nors trumpai susipažinti su tuo, kaip Vytautas
+    įsimaišė į totorių reikalus.
+    Ši puslaukinė tauta atkeliavo iš Azijos į Europą apie XIII
+    amž. pradžią. Iš karto ji apsistojo paliai Kaspijos jūrą ir įstei­
+    gė Aukso Ordą.
+  citata_rodoma: "Ši puslaukinė tauta atkeliavo iš Azijos į Europą apie XIII\namž. pradžią. Iš karto ji apsistojo paliai Kaspijos jūrą ir įstei­\ngė Aukso Ordą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-12353
+
+- id: c-14961
+  citata_originali: |
+    Trisdešimt metų vėliau baisu­
+    sis Vidurinės ir Vakarinės Azijos valdytojas Tamerlanas išvi­
+    jo Auksinės Ordos valdytoją Tochtamyšą, kuris dar pajėgė įsi­
+    galėti Rytų Europoje ir valdyti nemažus rusų žemių plotus,
+    nors ir smarkiai buvo pirmojo sumuštas. Pajutęs savo galy­
+    bę, jis įsigeidė atsisakyti nuo Tamerlano viršenybės. Šis padarė
+    tris žygius sudrausti sukilusį Tochtamyšą. Tų žygių išdavos
+    buvo tokios, kad Auksinėj Ordoj buvo pasodintas Koiridžakas
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-12354
+
+- id: c-14962
+  citata_originali: |
+    Vytautas Didysis, kaipo žymus ir galingas Lietuvos val­
+    dovas, pasireiškė jau prieš Žalgirio mūšį. Per aštuonioliką sa­
+    vo laisvo valdymo metų jis buvo gerai įsistiprinęs Lietuvoje ir
+    paskleidęs savo įtaką tolimuose rusų kraštuose, Lenkijoje ir net
+    Aukso Ordoje. Bet Žalgirio mūšis, kuriame jis palaužė Vokie­
+    čių Ordino galybę, Vytauto valdžią dar labiau sutvirtino ir pra­
+    skynė kelią į tikruosius jo didybės laikus.
+  citata_rodoma: "Vytautas Didysis, kaipo žymus ir galingas Lietuvos val­\ndovas, pasireiškė jau prieš Žalgirio mūšį. Per aštuonioliką sa­\nvo laisvo valdymo metų jis buvo gerai įsistiprinęs Lietuvoje ir\npaskleidęs savo įtaką tolimuose rusų kraštuose, Lenkijoje ir net\nAukso Ordoje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-12355
+
+- id: c-87634
+  citata_originali: |
+    Pajutęs savo galy­
+    bę, jis įsigeidė atsisakyti nuo Tamerlano viršenybės. Šis padarė
+    tris žygius sudrausti sukilusį Tochtamyšą. Tų žygių išdavos
+    buvo tokios, kad Auksinėj Ordoj buvo pasodintas Koiridžakas
+
+    - Aglenas ir jo įpėdinis Kotlogas-Timuras.
+  citata_rodoma: "Šis padarė\ntris žygius sudrausti sukilusį Tochtamyšą. Tų žygių išdavos\nbuvo tokios, kad Auksinėj Ordoj buvo pasodintas Koiridžakas\n\n- Aglenas ir jo įpėdinis Kotlogas-Timuras."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-92026
+
+- id: c-87636
+  citata_originali: |
+    Jų tarpe įvyko dideli skilimai,
+    prasidėję jau nuo 1360 metų. Trisdešimt metų vėliau baisu­
+    sis Vidurinės ir Vakarinės Azijos valdytojas Tamerlanas išvi­
+    jo Auksinės Ordos valdytoją Tochtamyšą, kuris dar pajėgė įsi­
+    galėti Rytų Europoje ir valdyti nemažus rusų žemių plotus,
+    nors ir smarkiai buvo pirmojo sumuštas. Pajutęs savo galy­
+    bę, jis įsigeidė atsisakyti nuo Tamerlano viršenybės.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-92027
+
+- id: c-87638
+  citata_originali: |
+    Tuo metu totorių Auksinė Orda suskilo, ir Krime atsi-
+    rado kitas — Perekopo chanatas (Perekopu vadinosi jų sosti-
+    nės pilis). Jonas III su naujuoju chanu padarė sąjungą ir su-
+    naikino Auksinę Ordą. Tuo būdu Maskva atsipalaidavo nuo
+    totorių (1480 m.), ir vienintelis galingas jos konkurentas liko
+    Lietuva.
+  citata_rodoma: "Jonas III su naujuoju chanu padarė sąjungą ir su-\nnaikino Auksinę Ordą. Tuo būdu Maskva atsipalaidavo nuo\ntotorių (1480 m.), ir vienintelis galingas jos konkurentas liko\nLietuva."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-92025
+
+- id: c-170643
+  citata_originali: |
+    BK Perekopo orda vadinami Krymo chanato
+    totoriai, kurių kontroliuojam a teritorija siekė nuo Dunojaus žiočių
+    110 Siaurės Kaukazo.
+    2 5  Ulan — feodalinis titulas, kuriuo vadinosi žymiausi chanų
+    giminės totorių feodalai, turintys savas žemės valdas — ulusus ir
+    teisę dalyvauti chanų rinkimuose. Aukso ordoje ulanais vadinosi
+
+    ## Puslapis 290
+
+    chano giminės nariai iš tų linijų, kurių atstovam s neteko sėdėti
+    chanų soste.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187704
+
+- id: c-170644
+  citata_originali: |
+    ** Achmatas (Achmetas) — Aukso ordos chanas (1459—1481),
+    Kazimiero Jogailaičio sųjungininkas, paskutini kartų 1480 m. žygiu
+    prie Ugros bandęs pajungti totorių valdžiai Maskvos Didžiųjų Ku­
+    nigaikštystę.
+    Sich-Achmetas buvo Achmato sūnus, paskutinis Aukso ordos
+    chanas. 1500—1503 m. M askvos ir Lietuvos valstybių k are stojo
+    LDK pusėn, tikėdamasis iš jos paramos prieš bendrų priešų — Kry­
+    mo chanų Mengll-Girėjų, kuris savo možiu siekė pašalinti Sich-
+    Achmetų ir sujungti savo valdžioje visas totorių ordas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187705
 
 ## Ryšiai
 - Priešai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

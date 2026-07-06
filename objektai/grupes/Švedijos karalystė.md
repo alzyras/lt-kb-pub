@@ -9,6 +9,18 @@ tags:
   - grupe
   - karalius
   - pilis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Švedijos karalystė
 
@@ -21,10 +33,36 @@ Kuoknesės pilies išsaugojimas turėjo svarbią strateginę reikšmę Lietuvos 
 <a id="claim-t-39023"></a>
 - t-001
   global_id: t-39023
-  teiginys: 'Kuoknesės pilies išsaugojimas turėjo svarbią strateginę reikšmę Lietuvos Didžiajai Kunigaikštystei, tęsiant tolesnes kovas su Švedijos karalyste.'
+  teiginys: "Kuoknesės pilies išsaugojimas turėjo svarbią strateginę reikšmę Lietuvos Didžiajai Kunigaikštystei, tęsiant tolesnes kovas su Švedijos karalyste."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "409077-409446; hash=4fd92a86eec43b33ddc3de38d598209d63af9c367217f6dd69f01ee8adfcb28d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Švedai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švedijos karalystė: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Švedai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švedijos karalystė\" parinktas kaip owner_note_path. Targetas \"Švedai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-167064
 
+<a id="claim-t-39023"></a>
+- t-001
+  global_id: t-39023
+  teiginys: "Kuoknesės pilies išsaugojimas turėjo svarbią strateginę reikšmę Lietuvos Didžiajai Kunigaikštystei, tęsiant tolesnes kovas su Švedijos karalyste."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "409077-409446; hash=4fd92a86eec43b33ddc3de38d598209d63af9c367217f6dd69f01ee8adfcb28d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Švedai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švedijos karalystė: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Švedai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švedijos karalystė\" parinktas kaip owner_note_path. Targetas \"Švedai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-167064
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -48,9 +86,38 @@ Kuoknesės pilies išsaugojimas turėjo svarbią strateginę reikšmę Lietuvos 
 
     pilis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-167064
+  citata_originali: |
+    Pėstinkų brigada,
+    išdėstyta „deimanto“
+    forma į tris kovos
+    linijas
+
+    mis muškietomis.
+
+    Kuoknesės pilies išsaugojimas turėjo svar-
+    bią strateginę reikšmę Lietuvos Didžiajai
+    Kunigaikštystei, tęsiant tolesnes kovas
+    su Švedijos karalyste. Sunaikinusi švedų
+    pajėgas prie Kuoknesės, Lietuvos ka-
+    riuomenė tęsė puolimą ir užėmė švedų
+    užgrobtas Cėsio, Suntažio, Nytaurės,
+
+    pilis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183672
+    - t-39023

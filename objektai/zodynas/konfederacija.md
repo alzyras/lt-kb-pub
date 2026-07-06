@@ -17,6 +17,18 @@ tags:
 amziai:
   - 'XIX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # konfederacija
 
@@ -27,25 +39,61 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 ## Teiginiai
 
 <a id="claim-t-70186"></a>
-- t-001
+- t-002
   global_id: t-70186
-  teiginys: 'Rusų tarpininkavimo sąlygos atėmė bajorijai teisę kurti konfederacijas, apribojo hetmonų valdžią ir sumažino kariuomenę.'
+  teiginys: "Rusų tarpininkavimo sąlygos atėmė bajorijai teisę kurti konfederacijas, apribojo hetmonų valdžią ir sumažino kariuomenę."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "780672-781151; hash=b39eb6a1499b415462672aa3258dd42e02d81009df02864075f4c657a53107f9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "konfederacija: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"konfederacija\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-46906
 
 <a id="claim-t-70189"></a>
-- t-002
+- t-001
   global_id: t-70189
-  teiginys: 'Su kariuomene ir suorganizuotais bajorijos būriais, vadintais konfederacijomis, jie puolė švedus ir Sapiegas.'
+  teiginys: "Su kariuomene ir suorganizuotais bajorijos būriais, vadintais konfederacijomis, jie puolė švedus ir Sapiegas."
+  semantiniai_rysiai: "Sapiegos buvo sąjungininkas su Švedai (0.79)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "773192-773495; hash=1f37e8664c2af32d75e5566662427108e7709a5a99bdc4f86ad793b3150e68dd; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Švedai: 0.79"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sapiegos: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Švedai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Sapiegų hetmonas gavo švedų kariuomenės dalį, todėl citata tiesiogiai remia karinę sąjungą su švedais."
+  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
+  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
-    - c-001
+    - c-46905
 
 <a id="claim-t-182954"></a>
 - t-003
   global_id: t-182954
-  teiginys: 'Su ta kariuomene ir suorganizuotais bajorijos būriais (konfederacijomis) jie puolė švedus ir Sapiegas.'
+  teiginys: "Su ta kariuomene ir suorganizuotais bajorijos būriais (konfederacijomis) jie puolė švedus ir Sapiegas."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "773285-773598; hash=161624793b85f1d7ba6f6c5a7b46db52130793ebaa159ab8104b361d90a8fb86; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Švedai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "konfederacija: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Švedai: mention_match, group, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"konfederacija\" parinktas kaip owner_note_path. Targetas \"Švedai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-166353
 - susijęs iš [[objektai/asmenys/Povilas Sapiega.md#claim-t-79152|Povilas Sapiega]]: Povilas Sapiega vadovavo bajorų konfederacijai, kovojusiai prieš švedus ir jų sąjungininkus.
 - susijęs iš [[objektai/asmenys/Povilas Sapiega.md#claim-t-79153|Povilas Sapiega]]: Povilas Sapiega buvo vienas bajorų konfederacijos vadovų, kovojusių prieš švedus ir jų sąjungininkus.
 - susijęs iš [[objektai/grupes/Bajorijos konfederacija.md#claim-t-72035|Bajorijos konfederacija]]: Varšuvoje susidariusi bajorijos konfederacija siekė sujungti visas buvusios Respublikos žemes į vieną kūną.
@@ -85,8 +133,9 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
     ganizuotais bajorijos būriais (konfederacijomis) jie puolė šve-
     dus ir Sapiegas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -104,6 +153,7 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
     ryta, tarpininkaujant caro generolui: toliau jau visą laiką carai
     ėmė kištis į Respublikos vidaus reikalus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -121,8 +171,60 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
     dus ir Sapiegas. Iki pat karo pabaigos vieni kitus naikino, te-
     riojo kraštą, galutinai nelaimėdami nei vieni nei kiti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-46905
+  citata_originali: |
+    Sapiegos tuo tarpu grįžo į Lie-
+    tuvą, hetmonas gavo dalį švedų kariuomenės ir liko Vilniuje. Viš-
+    niaveckis, Oginskis ir kiti Sapiegų priešai su savo kariuomenės
+    būriais tuo tarpu tebebuvo krašte. Su ta kariuomene ir suor-
+    ganizuotais bajorijos būriais (konfederacijomis) jie puolė šve-
+    dus ir Sapiegas.
+  citata_rodoma: "Su ta kariuomene ir suor-\nganizuotais bajorijos būriais (konfederacijomis) jie puolė šve-\ndus ir Sapiegas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-70189
+
+- id: c-46906
+  citata_originali: |
+    **Rusų tarpininkavimo padariniai.** Priimtomis sąlygomis,
+    Augustas turėjo per 25 dienas grąžinti savo kariuomenę į Sak-
+    soniją, o bajorijai buvo atimta teisė kurti konfederacijas; be to,
+    buvo apribota hetmonų valdžia, o kariuomenės tebuvo palikta
+    iš viso vos 24.000, — 18.000 Lenkijai ir 6.000 Lietuvai. Tačiau
+    blogiausias viso to padarinys buvo tas, kad taika buvo pada-
+    ryta, tarpininkaujant caro generolui: toliau jau visą laiką carai
+    ėmė kištis į Respublikos vidaus reikalus.
+  citata_rodoma: "Priimtomis sąlygomis,\nAugustas turėjo per 25 dienas grąžinti savo kariuomenę į Sak-\nsoniją, o bajorijai buvo atimta teisė kurti konfederacijas; be to,\nbuvo apribota hetmonų valdžia, o kariuomenės tebuvo palikta\niš viso vos 24.000, — 18.000 Lenkijai ir 6.000 Lietuvai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-70186
+
+- id: c-166353
+  citata_originali: |
+    Viš-
+    niaveckis, Oginskis ir kiti Sapiegų priešai su savo kariuomenės
+    būriais tuo tarpu tebebuvo krašte. Su ta kariuomene ir suor-
+    ganizuotais bajorijos būriais (konfederacijomis) jie puolė šve-
+    dus ir Sapiegas. Iki pat karo pabaigos vieni kitus naikino, te-
+    riojo kraštą, galutinai nelaimėdami nei vieni nei kiti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182954

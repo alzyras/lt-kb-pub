@@ -16,6 +16,18 @@ tags:
 amziai:
   - 'XIV'
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Krymas
 
@@ -28,20 +40,49 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
 <a id="claim-t-36338"></a>
 - t-001
   global_id: t-36338
-  teiginys: '1427 m. Vytauto palaikomas Machmetas paėmė savo valdžion Pavolgio, Juodmarių pakraščio ir Krymo totorius.'
+  teiginys: "1427 m. Vytauto palaikomas Machmetas paėmė savo valdžion Pavolgio, Juodmarių pakraščio ir Krymo totorius."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) rėmė Machmetas (0.91)"
+  temporaliniai_duomenys: "įvykio data: 1427 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "692467-692743; hash=73bce3cecb56b81c0f62c2b5704a7d2a3c354cfb679ef27a7f6f2d484b41be78; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Machmetas: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Machmetas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Vytautas palaikė Machmetą."
   pagrindžia:
-    - c-001
+    - c-38532
 
 <a id="claim-t-184994"></a>
 - t-002
   global_id: t-184994
-  teiginys: 'Kafos gyventojai pasisamdė penkis šimtus raitelių, kuriuos turėjo vestis į Krymą per Lietuvos žemes.'
+  teiginys: "Kafos gyventojai pasisamdė penkis šimtus raitelių, kuriuos turėjo vestis į Krymą per Lietuvos žemes."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Kafos gyventojai keliavo į Krymas (0.75)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "902210-902534; hash=c94ab38901a7d2e3398929ede863b47c4325911291252dc2d9e043d285595836; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Krymas: 0.75"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kafos gyventojai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Krymas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys rodo numatytą Kafos gyventojų judėjimą su raiteliais į Krymą."
   pagrindžia:
-    - c-002
+    - c-168355
 - susijęs iš [[objektai/ivykiai/Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.).md#claim-t-31498|Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)]]: 1397 m. Vytautas surengė didelį žygį prie Juodosios jūros ir į Krymą.
 - susijęs iš [[objektai/ivykiai/Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.).md#claim-t-31501|Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)]]: 1397 m. Vytautas, veikiausiai pritariant Jogailai, surengė didelį žygį prie Juodosios jūros ir į Krymą.
 - susijęs iš [[objektai/asmenys/Gilbert de Lannoy.md#claim-t-35079|Gilbert de Lannoy]]: Gilbert de Lannoy kelionėje į Krymą per totorių žemes Vytauto kepurė atstojo lydimąjį raštą.
 - susijęs iš [[objektai/asmenys/Henrikas VI.md#claim-t-63621|Henrikas VI]]: Henrikas VI buvo Anglijos karalius, kurio pasiuntinys Gilbert de Lannoy keliavo į Krymą.
+- susijęs iš [[objektai/asmenys/Oramas.md#claim-t-191451|Oramas]]: Narbuto pasakojime Oramas, hano sūnėnas ir Krymo valdovas, vadovavo žygiui, kuriam padėjo Kijevo rusinai.
 - susijęs iš [[objektai/ivykiai/Mūšis ties Mėlynaisiais Vandenimis.md#claim-t-186695|Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.)]]: Redakcinė pastaba mini tris su mūšiu sietus totorių vadų vardus, iš kurių iš Algirdo laikotarpio kituose šaltiniuose žinomas tik Kutlubugas.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82181|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis, nusilpęs po ligos, iš Lydos buvo nugabentas į Vilnių, kai prie Lydos artėjo Krymo totoriai.
 - susijęs iš [[objektai/asmenys/Devletberdi.md#claim-t-35047|Devletberdi]]: Chanas Devletberdi įsigalėjo Kryme, susitaikė su Vytautu ir vėliau buvo Machmeto nužudytas.
@@ -55,6 +96,7 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
 - susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-82631|Mykolas Glinskis]]: 1506 m. rugpjūtį Mykolas Glinskis vedė apie 10 000 bajorų, kareivių ir ginkluotų žmonių į kovą su Krymo ordos kariais ties Klecku.
 - susijęs iš [[objektai/asmenys/Nikolajus I.md#claim-t-82633|Nikolajus I]]: 1855 m., po caro Nikolajaus I mirties ir Rusijai pralaimėjus Krymo karą, imperijoje prasidėjo reformos.
 - susijęs iš [[objektai/asmenys/Nikolajus I.md#claim-t-82635|Nikolajus I]]: Po Nikolajaus I mirties 1855 m. ir Rusijos pralaimėjimo Krymo kare imperijoje prasidėjo reformos.
+- susijęs iš [[objektai/asmenys/Oramas.md#claim-t-191451|Oramas]]: Narbuto pasakojime Oramas, hano sūnėnas ir Krymo valdovas, vadovavo žygiui, kuriam padėjo Kijevo rusinai.
 - susijęs iš [[objektai/asmenys/Timūr-Kutlukas.md#claim-t-183763|Timūr-Kutlukas]]: Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai.
 - susijęs iš [[objektai/asmenys/Timūr-Kutlukas.md#claim-t-40468|Timūr-Kutlukas]]: Timūr-Kutlukas vadovavo totorių pajėgoms, kuriose buvo ir Krymo emyro Edygos kariai.
 - susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173336|Žygimantas Senasis]]: Žygimantas Senasis patvirtino sąjungą su Krymu, nes naujasis LDK valdovas turėjo daug reikalų.
@@ -124,6 +166,7 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
 - susijęs iš [[objektai/asmenys/Konstantinas Ostrogiškis.md#claim-t-184757|Konstantinas Ostrogiškis]]: Užbaigęs karą su Maskva, karalius pasiuntė Konstantiną Ostrogiškį su dalimi algininkų į Volynę.
 - susijęs iš [[objektai/asmenys/Mahometas Aminas.md#claim-t-40324|Mahometas Aminas]]: Kazanės chanas Mahometas Aminas laiške siūlė Lietuvai sąjungą prieš Maskvą.
 - susijęs iš [[objektai/asmenys/Mendli Girėjus.md#claim-t-87443|Mendli Girėjus]]: Aleksandras siekė suimti ir įbauginti Mendli Girėjų, todėl Šach Achmedas buvo iki gyvos galvos įkalintas Kaune.
+- susijęs iš [[objektai/asmenys/Mengu-Timuras.md#claim-t-191443|Mengu-Timuras]]: 1276 m. Hipčiakų kanas Mengu-Timuras surengė žygį prieš jazigus, kuriuos Narbutas vadina jotvingių tauta, gyvenusia tarp Dnepro ir Pinsko pelkių.
 - susijęs iš [[objektai/asmenys/Motiejus Huniadis.md#claim-t-79132|Motiejus Huniadis]]: Motiejus Huniadis buvo Jogailaičiams priešiškas Vengrijos karalius ir mirė 1490 m.
 - susijęs iš [[objektai/asmenys/Motiejus Huniadis.md#claim-t-79133|Motiejus Huniadis]]: Vengrijos karalius Motiejus Huniadis buvo priešiškas Jogailaičiams.
 - susijęs iš [[objektai/asmenys/Musat-chanas.md#claim-t-183755|Musat-chanas]]: Kafos apylinkės buvo pavestos valdyti į Lietuvos pusę perėjusiam totorių caraičiui Musat-chanui.
@@ -245,6 +288,7 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
     marių pakraščio ir Krymo totorius. Ir taip Vytautas į viešpata­
     vimo galą savo planus dėl Totorijos buvo gangreit įvykdęs.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -267,13 +311,52 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
     traukė per Braclavą, nei šio, nei to kilo ginčas tarp ka­
     rių ir miestiečių.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 
+## Citatos
+
+- id: c-38532
+  citata_originali: |
+    1427 mt. pradžioje jų buvo dar
+    5), bet 1427 met. gale Vytauto palaikomasis Machmetas įsiga­
+    lėjo galutinai. Jis suima savo valdžion visus Pavolgio, Juod­
+    marių pakraščio ir Krymo totorius. Ir taip Vytautas į viešpata­
+    vimo galą savo planus dėl Totorijos buvo gangreit įvykdęs.
+  citata_rodoma: "Jis suima savo valdžion visus Pavolgio, Juod­\nmarių pakraščio ir Krymo totorius. Ir taip Vytautas į viešpata­\nvimo galą savo planus dėl Totorijos buvo gangreit įvykdęs."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36338
+
+- id: c-168355
+  citata_originali: |
+    Karalius Ka-
+    K afos g y v e n to ja i ieš-
+    zimieras jiems leido ir savo
+    ko p a g a lb in in k ų  Len-
+    valdomose žemėse pasitelkti
+    k ijo je
+    algininkų. Jie čia pasisamdė
+    penkis šimtus raitelių, ku­
+    riuos turėjo vestis į Krymą per Lietuvos žemes. Kai
+    traukė per Braclavą, nei šio, nei to kilo ginčas tarp ka­
+    rių ir miestiečių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184994
+
 ## Ryšiai
+- Turėjo valdovą: [[objektai/asmenys/Oramas]]
 - Buvo valdoma: [[objektai/asmenys/Devletberdi]], [[objektai/asmenys/Kutlubugas]]
 - Buvo kelionės vieta: [[objektai/asmenys/Gilbert de Lannoy]], [[objektai/grupes/Kafos gyventojai]]
 - Buvo žygio kryptis: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

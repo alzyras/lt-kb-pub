@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - ežeras
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Akmenų Brasta
 
@@ -20,10 +32,20 @@ Senoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų Brastos » (« Ka
 <a id="claim-t-32037"></a>
 - t-001
   global_id: t-32037
-  teiginys: 'Melno sutarties siena senojoje jotvingių žemėje prasidėjo nuo Akmenų Brastos Luko aukštupyje, aukščiau Grajevo ir Točilovo ežerų.'
+  teiginys: "Melno sutarties siena senojoje jotvingių žemėje prasidėjo nuo Akmenų Brastos Luko aukštupyje, aukščiau Grajevo ir Točilovo ežerų."
+  semantiniai_rysiai: "Akmenų Brasta priklausė Lukas (0.71)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "978221-978571; hash=35cfea8b7a5d4056ed049088bafc88d65e0d486c5140b94ec1c62e2037588871; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lukas: 0.71"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Akmenų Brasta: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lukas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Akmenų Brasta lokalizuojama Luko aukštupyje, todėl galima vietos priklausomybė Luko sričiai."
   pagrindžia:
-    - c-001
-
+    - c-33785
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -38,11 +60,31 @@ Senoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų Brastos » (« Ka
     Grajevo ir Točilovo ežerų. Šiauriau ji kilo stačiai per tyrus į pu­
     siau dalinamą Raigardo ežerą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33785
+  citata_originali: |
+    Bet Melno sutartimi
+    iš Sūduvos girių Lietuva laimėjo nepalyginamai daugiau negu
+    Vytautas buvo ordinui užleidęs Salyno taika (1398).
+    Senoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų
+    Brastos » (« Kamienny Brod ») Luko (Lycko) aukštupyje, aukščiau
+    Grajevo ir Točilovo ežerų. Šiauriau ji kilo stačiai per tyrus į pu­
+    siau dalinamą Raigardo ežerą.
+  citata_rodoma: "Senoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų\nBrastos » (« Kamienny Brod ») Luko (Lycko) aukštupyje, aukščiau\nGrajevo ir Točilovo ežerų. Šiauriau ji kilo stačiai per tyrus į pu­\nsiau dalinamą Raigardo ežerą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-32037
 
 ## Ryšiai
 - Akmenų Brasta priklausė [[objektai/vietos/Lukas]]

@@ -16,6 +16,18 @@ tags:
   - ginklas
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Stepono Batoro paradinis kalavijas
 
@@ -49,11 +61,24 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-09926"></a>
-- t-001
+- t-002
   global_id: t-09926
-  teiginys: 'Stepono Batoro paradinis kalavijas buvo pagamintas pergalingoms lietuvių ir jų sąjungininkų kampanijoms Maskvos žemėse Livonijos karo metu atminti.'
+  teiginys: "Stepono Batoro paradinis kalavijas buvo pagamintas pergalingoms lietuvių ir jų sąjungininkų kampanijoms Maskvos žemėse Livonijos karo metu atminti."
+  temporaliniai_duomenys: "įvykio data: 1569 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie objektą ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "45985-46350; hash=051971e6b61cfc0517c41289b3ca55f834a6f41695f7687b3d45a09555313f71; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/02_clean_quotes.md"
+  ryšio_patikimumas: "susije_su -> Kalavijas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Stepono Batoro paradinis kalavijas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kalavijas: mention_match, thing, gap=25"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stepono Batoro paradinis kalavijas\" parinktas kaip owner_note_path. Targetas \"Kalavijas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-12243
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-10099|Steponas Batoras]]: Stepono Batoro paradinis kalavijas buvo pagamintas pergalingoms lietuvių ir jų sąjungininkų kampanijoms Maskvos žemėse Livonijos karo metu atminti.
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113974|Steponas Batoras]]: Stepono Batoro paradinis kalavijas buvo pagamintas pergalingoms lietuvių ir jų sąjungininkų kampanijoms Maskvos žemėse Livonijos karo metu atminti.
 ## Reikšmingi paminėjimai
@@ -70,8 +95,9 @@ Nenurodyta
     uniją (1569 m.) su Lenkija Lietuvai
     nepalankiomis sąlygomis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -79,6 +105,26 @@ Nenurodyta
 ## Pastabos
 
 - Šiame šaltinyje kalavijas aprašomas kaip atminties ir reprezentacijos objektas.
+
+## Citatos
+
+- id: c-12243
+  citata_originali: |
+    Lietuvos ir Lenkijos valdovo Stepono Batoro pa-
+    radinis kalavijas, pagamintas pergalingoms Lietuvių ir jų
+    sąjungininkų kampanijoms Maskvos žemėse Livonijos karo
+    metu (1558-1582) atminti. Šiame kare Lietuva sugebėjo
+    atremti sustiprėjusios Maskvos ekspansiją, tačiau
+    išaugęs pavojus vertė sudaryti Liublino
+    uniją (1569 m.) su Lenkija Lietuvai
+    nepalankiomis sąlygomis.
+  citata_rodoma: "Lietuvos ir Lenkijos valdovo Stepono Batoro pa-\nradinis kalavijas, pagamintas pergalingoms Lietuvių ir jų\nsąjungininkų kampanijoms Maskvos žemėse Livonijos karo\nmetu (1558-1582) atminti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-09926
 
 ## Ryšiai
 - Stepono Batoro paradinis kalavijas priklausė [[objektai/asmenys/Steponas Batoras]]

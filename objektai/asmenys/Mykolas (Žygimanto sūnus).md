@@ -9,11 +9,6 @@ datos:
   - '1448 m.'
 date_start: '1440'
 date_end: '1448'
-description: 'Žygimanto sūnus Mykolas: pergalė prie Ukmergės, tremtis po 1440 m. Trakų įvykių ir vėlesnės kovos dėl valdų.'
-socialDescription: 'Žygimanto sūnaus Mykolo kelias nuo pergalės prie Ukmergės iki tremties, valdų siekio ir 1448 m. žygio į Severską.'
-seo_atnaujinta: '2026-07-02T20:14:54.857407+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,78 +20,212 @@ amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Mykolas (Žygimanto sūnus)
 
 ## Santrauka
 
-Mykolas, Žygimanto sūnus, minimas kaip kunigaikštis, vedęs lenkų ir lietuvių pulkus prieš Švitrigailą bei Livonijos magistrą ir laimėjęs netoli Ukmergės. Po 1440 m. balandį Trakų pilyje įvykdyto Žygimanto nužudymo Mykolas buvo ištremtas, nors jį palaikė Narbuto vadovaujami Žygimanto valdiniai ir žemaičiai. Vėliau jis siekė susigrąžinti tėvoniją, gavo skirtingose žemėse paskirtas valdas, o 1448 m. su skitais įsiveržė į Severską.
+Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo užsitraukęs Žygimantas, mi­ nėtas kunigaikštis tolydžio kėsinosi išplėšti iš jo valdžią ir į šį kraštą kreipė įvairias totorių ir rusų ordas, todėl per visą Žygimanto valdymo laiką. 1440 metų balandį Žygimantas sąmokslininkų buvo nužudytas Trakų pilyje, jo sūnus Mykolas ištremtas; tą pačią akimirką, kai Vilniaus vaivada Daugirdas žemutinę Vil­ niaus pilį laikinai užėmė Švitrigailai, aukštutinę tvirtovę Nar­ butas užgrobė naktį26.
 
 ## Teiginiai
 
 <a id="claim-t-87558"></a>
 - t-001
   global_id: t-87558
-  teiginys: 'Žygimanto sūnus kunigaikštis Mykolas, vedęs lenkų ir lietuvių pulkus, netoli Ukmergės nugalėjo Švitrigailą ir Livonijos magistrą.'
+  teiginys: "Žygimanto sūnus kunigaikštis Mykolas, vedęs lenkų ir lietuvių pulkus, netoli Ukmergės nugalėjo Švitrigailą ir Livonijos magistrą."
+  semantiniai_rysiai: "Mykolas (Žygimanto sūnus) kariavo prieš Švitrigaila (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "445551-446229; hash=9555219a64bbf6c2a7330a0bcd9f29602cbc99ccfd04c9dd4d4fdeb52c539369; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Švitrigaila: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mykolas (Žygimanto sūnus): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citatoje Mykolas apibūdinamas kaip vedęs pulkus prieš Švitrigailą."
   pagrindžia:
-    - c-001
+    - c-83537
 
 <a id="claim-t-87559"></a>
 - t-002
   global_id: t-87559
-  teiginys: '1440 m. balandį, sąmokslininkams Trakų pilyje nužudžius Žygimantą, jo sūnus Mykolas buvo ištremtas.'
+  teiginys: "1440 m. balandį, sąmokslininkams Trakų pilyje nužudžius Žygimantą, jo sūnus Mykolas buvo ištremtas."
+  semantiniai_rysiai: "Mykolas (Žygimanto sūnus) buvo sūnus Žygimantas (0.95)"
+  temporaliniai_duomenys: "įvykio data: 1440 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Claimas buvo per platus ir turėjo papildomą pilies kontekstą; citata palaiko Mykolo tremties faktą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "450832-451378; hash=f7a8398efa83c54ce697eaeff93b937698a8ec1aa548e56e88a96b6098ebe5fb; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Žygimantas: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mykolas (Žygimanto sūnus): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Žygimantas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Teiginyje Mykolas tiesiogiai įvardytas Žygimanto sūnumi."
   pagrindžia:
-    - c-002
+    - c-83538
 
 <a id="claim-t-184792"></a>
 - t-003
   global_id: t-184792
-  teiginys: 'Gavęs žinią apie sąmokslą, Mykolas pasislėpė vandens apsuptoje Mažojoje pilyje.'
+  teiginys: "Gavęs žinią apie sąmokslą, Mykolas pasislėpė vandens apsuptoje Mažojoje pilyje."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "813892-814227; hash=095bf13a3e7d4e1bce4d283b0ed327a81469cd3b8528b017b223683431ffec5d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Mykolas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mykolas (Žygimanto sūnus): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Mykolas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas (Žygimanto sūnus)\" parinktas kaip owner_note_path. Targetas \"Mykolas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-168153
 
 <a id="claim-t-184793"></a>
 - t-004
   global_id: t-184793
-  teiginys: 'Narbuto vadovaujami Žygimanto valdiniai ir Kęstučio šeimai atsidavę žemaičiai palaikė Mykolą.'
+  teiginys: "Narbuto vadovaujami Žygimanto valdiniai ir Kęstučio šeimai atsidavę žemaičiai palaikė Mykolą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Žemaičiai rėmė Mykolas (Žygimanto sūnus) (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "816729-817171; hash=fbe40af0fbe60adea78dbf4c4fc51c04abd9a4b7d609cc5d801edbb4a9870821; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Mykolas (Žygimanto sūnus): 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žemaičiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Mykolas (Žygimanto sūnus): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad žemaičiai palaikė Mykolą."
   pagrindžia:
-    - c-004
+    - c-168154
 
 <a id="claim-t-184794"></a>
 - t-005
   global_id: t-184794
-  teiginys: 'Mykolas, sužinojęs apie Kazimiero kelionę iš Bresto į Vilnių, paliko Trakų pilį ir su 500 raitelių patraukė į Mazoviją.'
+  teiginys: "Mykolas, sužinojęs apie Kazimiero kelionę iš Bresto į Vilnių, paliko Trakų pilį ir su 500 raitelių patraukė į Mazoviją."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Mykolas (Žygimanto sūnus) keliavo į Mazovija (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "821446-821913; hash=c699f56ab9b369e2f6567d1312a196f112d3af02fec25096f2064612f7c7636b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Mazovija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mykolas (Žygimanto sūnus): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Mazovija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginyje tiesiogiai pasakyta, kad Mykolas patraukė į Mazoviją."
   pagrindžia:
-    - c-005
+    - c-168155
 
 <a id="claim-t-184795"></a>
 - t-006
   global_id: t-184795
-  teiginys: 'Mykolui gavus skirtingose žemėse paskirtas valdas, jo širdyje vėl pabudo seni įgeidžiai.'
+  teiginys: "Mykolui gavus skirtingose žemėse paskirtas valdas, jo širdyje vėl pabudo seni įgeidžiai."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Mykolas (Žygimanto sūnus) valdė miestą Brianskas (0.80); Mykolas (Žygimanto sūnus) valdė miestą Belskas (0.75)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "838571-838960; hash=af6f6bb9b88855ad9f26321ebadfa651b380de1590c83eaa4047682d74677c79; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_miesta -> Brianskas: 0.80"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mykolas (Žygimanto sūnus): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Brianskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje Brianskas nurodytas kaip Mykolui paskirta valda."
   pagrindžia:
-    - c-006
+    - c-168156
 
 <a id="claim-t-184796"></a>
 - t-007
   global_id: t-184796
-  teiginys: 'Mykolas svajojo valdyti visą Lietuvą ir sumanė slapta nužudyti valdovą.'
+  teiginys: "Mykolas svajojo valdyti visą Lietuvą ir sumanė slapta nužudyti valdovą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "839003-839437; hash=758d87c47e8e3942eb0faaf7c8baa41d7055a7390aa5370166b4cc8f29e57efd; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mykolas (Žygimanto sūnus): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas (Žygimanto sūnus)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-168157
 
 <a id="claim-t-184797"></a>
 - t-008
   global_id: t-184797
-  teiginys: 'Mykolas iš Mazovijos atvyko į Kališą ir prašė karaliaus grąžinti jam tėvoniją bei tėvo turtus.'
+  teiginys: "Mykolas iš Mazovijos atvyko į Kališą ir prašė karaliaus grąžinti jam tėvoniją bei tėvo turtus."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "852686-853012; hash=801a0858d0d57930b1a499339095697438b00bdfd65ce7e46a575a2ffac08cbc; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Mazovija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mykolas (Žygimanto sūnus): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Mazovija: mention_match, place, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas (Žygimanto sūnus)\" parinktas kaip owner_note_path. Targetas \"Mazovija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-168158
 
 <a id="claim-t-184798"></a>
 - t-009
   global_id: t-184798
-  teiginys: '1448 m. Mykolas su skitais įsiveržė į Severską ir paėmė Brianską, Naugardą, Putivlį, Serpeiską bei Starodubą.'
+  teiginys: "1448 m. Mykolas su skitais įsiveržė į Severską ir paėmė Brianską, Naugardą, Putivlį, Serpeiską bei Starodubą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Mykolas (Žygimanto sūnus) puolė Severskas (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1448 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išvalytas OCR triukšmas ir suformuotas vientisas sakinys."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "855554-856379; hash=93dc7247c34dc1ad5d85ee0e5117d7f6b61a586f572c703ef7aceb43b0619da8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Severskas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mykolas (Žygimanto sūnus): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Severskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Mykolo įsiveržimą į Severską."
   pagrindžia:
-    - c-009
-
+    - c-168159
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -117,6 +246,7 @@ Mykolas, Žygimanto sūnus, minimas kaip kunigaikštis, vedęs lenkų ir lietuvi
     20
     Kotzebue Switrigail, p. 89.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -137,6 +267,7 @@ Mykolas, Žygimanto sūnus, minimas kaip kunigaikštis, vedęs lenkų ir lietuvi
     atvežti į Vilnių, buvo palaidoti didžiųjų Lietuvos kunigaikš­
     čių kape, katedroje, atlikus įprastas laidojimo apeigas27.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -158,6 +289,7 @@ Mykolas, Žygimanto sūnus, minimas kaip kunigaikštis, vedęs lenkų ir lietuvi
     žudę kunigaikštį, bokšte iškėlė vėliavą, laisvės bei sau­
     gumo ženklą, visus raginantį nesibijoti sąmokslininkų.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -179,6 +311,7 @@ Mykolas, Žygimanto sūnus, minimas kaip kunigaikštis, vedęs lenkų ir lietuvi
     L ietu vo s d id ik ų  pažiū-
     leslovą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -208,6 +341,7 @@ Mykolas, Žygimanto sūnus, minimas kaip kunigaikštis, vedęs lenkų ir lietuvi
     M y k o lu i
     palydos.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -227,6 +361,7 @@ Mykolas, Žygimanto sūnus, minimas kaip kunigaikštis, vedęs lenkų ir lietuvi
     žemėje — Klecką. Deja, nuo sėkmės apsalusioje Mykolo
     širdyje netruko pabusti seni įgeidžiai.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -247,6 +382,7 @@ Mykolas, Žygimanto sūnus, minimas kaip kunigaikštis, vedęs lenkų ir lietuvi
     gas apmaudas, užgulęs širdį, ilgainiui padidėjo ir pavir­
     to atvirais veiksmais.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -265,6 +401,7 @@ Mykolas, Žygimanto sūnus, minimas kaip kunigaikštis, vedęs lenkų ir lietuvi
     keitus nuosprendį, sugrąžinti jam tėvoniją bei tėvo
     turtus. Karalius nesidavė permaldaujamas.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -301,11 +438,205 @@ Mykolas, Žygimanto sūnus, minimas kaip kunigaikštis, vedęs lenkų ir lietuvi
     vus apnuodytos duonos, kurią krikščionys paprastai var­
     toja šventajai mišių aukai.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
+## Citatos
+
+- id: c-83537
+  citata_originali: |
+    Naudodamasis visuotine neapykanta, kurią per sa­
+    vo žiaurumą Lietuvoje buvo užsitraukęs Žygimantas, mi­
+    nėtas kunigaikštis tolydžio kėsinosi išplėšti iš jo valdžią ir į
+    šį kraštą kreipė įvairias totorių ir rusų ordas, todėl per visą
+    Žygimanto valdymo laiką Lietuva nepaliaujamai buvo nio­
+    kojama ir saviškių, ir svetimšalių. Ilgai Švitrigaila drumstė
+    šios nelaimingos žemės ramybę, kol pagaliau lemtinga Žy­
+    gimanto sūnaus kunigaikščio Mykolo, vedusio lenkų ir lie­
+    tuvių pulkus prieš Švitrigailą ir Livonijos magistrą, pergalė
+    netoli Ukmergės užbaigė šių dviejų, Lietuvai gal vienodai
+    pragaištingų konkurentų, varžybas. Tas įsimintinas mūšis
+    20
+    Kotzebue Switrigail, p. 89.
+  citata_rodoma: "Naudodamasis visuotine neapykanta, kurią per sa­\nvo žiaurumą Lietuvoje buvo užsitraukęs Žygimantas, mi­\nnėtas kunigaikštis tolydžio kėsinosi išplėšti iš jo valdžią ir į \nšį kraštą kreipė įvairias totorių ir rusų ordas, todėl per visą \nŽygimanto valdymo laiką Lietuva nepaliaujamai buvo nio­\nkojama ir saviškių, ir svetimšalių. Ilgai Švitrigaila drumstė \nšios nelaimingos žemės ramybę, kol pagaliau lemtinga Žy­\ngimanto sūnaus kunigaikščio Mykolo, vedusio lenkų ir lie­\ntuvių pulkus prieš Švitrigailą ir Livonijos magistrą, pergalė \nnetoli Ukmergės užbaigė šių dviejų, Lietuvai gal vienodai \npragaištingų konkurentų, varžybas. Tas įsimintinas mūšis\n20\nKotzebue Switrigail, p."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87558
+
+- id: c-83538
+  citata_originali: |
+    Trakuose jo sušauktas seimas, turėjęs parengti pasku­
+    tinį smūgį Rusios ir Lietuvos bajorijai, paspartino tą kruviną
+    susidorojimą. 1440 metų balandį Žygimantas sąmokslininkų
+    buvo nužudytas Trakų pilyje, jo sūnus Mykolas ištremtas; tą
+    pačią akimirką, kai Vilniaus vaivada Daugirdas žemutinę Vil­
+    niaus pilį laikinai užėmė Švitrigailai, aukštutinę tvirtovę Nar­
+    butas užgrobė naktį26. Vis dėlto Žygimanto palaikai, iš Trakų
+    atvežti į Vilnių, buvo palaidoti didžiųjų Lietuvos kunigaikš­
+    čių kape, katedroje, atlikus įprastas laidojimo apeigas27.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87559
+
+- id: c-168153
+  citata_originali: |
+    Kai pasklido gandas apie sąmoks­
+    lą, miestiečių būriai sugužėjo prie pilies, tačiau sauga
+    464
+
+    ## Puslapis 463
+
+    jų neįsileido. Mykolas, gavęs siaubingą žinią, pasislėpė
+    Mažojoje pilyje, iš visų pusių apsuptoje vandens. Nu­
+    žudę kunigaikštį, bokšte iškėlė vėliavą, laisvės bei sau­
+    gumo ženklą, visus raginantį nesibijoti sąmokslininkų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184792
+
+- id: c-168154
+  citata_originali: |
+    Tuo tarpu Lietuvos didikams visai nerūpėjo kraš­
+    to gynyba: jie susiskirstė įvairiomis grupuotėmis, vieni
+    pritardami naujajam valdovui, o kiti jam priešindamie­
+    si. Narbuto vadovaujami Žygimanto valdiniai bei žemai­
+    čiai, nuo seno atsidavę Kęstučio šeimai, palaikė Mykolą.
+    Sąmokslininkai, tikėdamiesi atlyginimo iš Žygimanto
+    varžovo, be to, bijodami galimo tardymo ir teismo,
+    rėmė tremtyje gyvenantį Bo-
+    L ietu vo s d id ik ų  pažiū-
+    leslovą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184793
+
+- id: c-168155
+  citata_originali: |
+    Boleslovas, bijodamas, kad prieš jį nebūtų imtasi
+    kokių rimtesnių žygių, pasitraukė iš Lucko į Dakiją. Tuo
+    46 9
+
+    ## Puslapis 468
+
+    tarpu Mykolas, gavęs žinią, jog Kazimieras su žymiau­
+    siais senatoriais ir bajorais atvyksta iš Bresto į Vilnių,
+    paliko Trakų pilį ir patraukė į Mazoviją su penkiais šim­
+    tais raitelių. Netikėtai miš-
+    A tle id ž ia
+    n e tik ė ta i
+    kuose netoli Rūdninkų mies-
+    p a k e lė je
+    s u tik ta m
+    telio jis užšoko ant Kazimiero
+    M y k o lu i
+    palydos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184794
+
+- id: c-168156
+  citata_originali: |
+    Kad šis, vienui vienas
+    valdydamas didžiules žemes, nesusimanytų atkutęs ir su­
+    stiprėjęs rengti naujo perversmo, pasirūpino, kad duo­
+    damos žemės būtų toli viena nuo kitos. Štai todėl Se-
+    verske jam paskyrė Brianską ir Starodubą, Palenkėję ■—
+    Belską ir Suražą, Žemaitijoje — Kėdainius, Naugarduko
+    žemėje — Klecką. Deja, nuo sėkmės apsalusioje Mykolo
+    širdyje netruko pabusti seni įgeidžiai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184795
+
+- id: c-168157
+  citata_originali: |
+    Niršo Mykolas, kad kitų ran­
+    kose valdos, kurias paveldėjo iš senelių ir prosenelių.
+    Ką gavo iš Kazimiero, šitai laikė ne savo, o svetima
+    nuosavybe, todėl nevertino dovanos nelyginant kokio
+    menkniekio; svajodamas valdyti visą Lietuvą, sumanė
+    slaptai nužudyti valdovą, nes kol tas gyvas, jis bus pri­
+    verstas gyventi kaip paprastas žmogus. Šitoks nuodin­
+    gas apmaudas, užgulęs širdį, ilgainiui padidėjo ir pavir­
+    to atvirais veiksmais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184796
+
+- id: c-168158
+  citata_originali: |
+    Netrukus su­
+    sirengė į Lietuvą, tačiau, senato spiriamas, prieš tai pa­
+    traukė į Kališą patvarkyti Mažosios Lenkijos reikalų.
+    Ten ir atskubėjo iš Mazovijos Mykolas ir, pripuolęs
+    prie karaliaus kelių, įniko karščiausiai maldauti, pa­
+    keitus nuosprendį, sugrąžinti jam tėvoniją bei tėvo
+    turtus. Karalius nesidavė permaldaujamas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184797
+
+- id: c-168159
+  citata_originali: |
+    K ol visi lau k ė šio susitikim o, tu rė ju sio  įv y k ti g e­
+    gužės pabaigoje, Mykolas su
+    1448 m e ta i
+    sk itais įsiv eržė į Severską ir,
+    Sum u ša M y k o lą  Se-
+    sum ušęs greitosiom is sutelk-
+    v e r s k e
+    tas jėg as, jam  p asto ju sias k e ­
+    lią, p aėm ė Brianską, Naugar-
+    dą, Putivliu, Serpeiską, Starodubą. Štai todėl Kazimieras,
+    dar nespėjęs išvykti Lenkijon į seimą, skubiai p atra u k ė
+    į Severską, užgniaužė pačioje užuom azgoje įsiplieskiantį
+    karą, atsiėmė užgrobtas pilis, o Mykolą išvijo iš visų
+    žemių. Niekur neberasdamas užtarėjų, M ykolas pasp­
+    ruko į Maskvą, kur, priim-
+    M y k o lo  m irtis
+    tas į vienuolyną, kurį m etą
+    čia gyv en o  kaip paprastas
+    488
+
+    ## Puslapis 487
+
+    žmogus, o galop ir galą gavo, vienuolyno igumenui da­
+    vus apnuodytos duonos, kurią krikščionys paprastai var­
+    toja šventajai mišių aukai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184798
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Žygimantas]]

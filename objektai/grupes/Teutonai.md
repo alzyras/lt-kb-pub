@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Teutonai
 
@@ -17,12 +29,15 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
 ## Teiginiai
 
 <a id="claim-t-07849"></a>
-- t-001
+- t-002
   global_id: t-07849
-  teiginys: 'Teutonai pavergė pajūryje gyvenusius erulius ir kraštovardžiams pridėdavo savo žodį land.'
+  teiginys: "Teutonai pavergė pajūryje gyvenusius erulius ir kraštovardžiams pridėdavo savo žodį land."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  saltinio_vieta: "25278-25577; hash=53c787b77c202a4ca4ce82b6ff2e2afa0de4da627acdbf9cba7b725431cc1f99; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
   pagrindžia:
-    - c-001
-    - c-002
+    - c-10083
+    - c-10084
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90033|Sventopelkas]]: Sventopelkas ragino neseniai Kristaus tikėjimą priėmusius prūsus jėga išvaryti Teutonų ordino brolius iš Prūsijos.
 - susijęs iš [[objektai/ivykiai/Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams.md#claim-t-62846|Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams]]: Kulmo ir Lubavos žemės buvo atiduotos Teutonų namų ordino broliams, suteikiant jiems visas turėtas teises ir naudas.
 - susijęs iš [[objektai/asmenys/Isamas (Rygos arkivyskupas).md#claim-t-87519|Isamas (Rygos arkivyskupas)]]: Rygos arkivyskupas Isamas, kaip Bonifacijaus atstovas, sudarė taiką ir paliaubas tarp lietuvių ir Teutonų ordino brolių.
@@ -386,6 +401,7 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
 - susijęs iš Diunamiundė: 1305 m. liepos 26 d. Livonijos Teutonų ordino broliai teisėta pirktimi įsigijo Diunamiundės pilį.
 - susijęs iš Vancka: Vancka buvo Pomeranijos kunigaikštystės kraštas, kuriame tuo metu stovėjo Mevės pilis.
 - susijęs iš [[objektai/ivykiai/Diunamiundės pilies nupirkimas (1305 m. liepos 26 d.).md#claim-t-62239|Diunamiundės pilies nupirkimas (1305 m. liepos 26 d.)]]: 1305 m. liepos 26 d. Livonijos teutonų ordino broliai teisėta pirktimi įsigijo Diunamiundės pilį.
+- susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-193043|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
 - susijęs iš Mažesniųjų brolių laiškas dėl Teutonų ordino garbės (1323 m.): 1323 m. Mažesniųjų brolių laiške popiežiui Teutonų ordino brolių garbė ginta nuo kaltinimų trukdžius Gediminui priimti krikštą.
 - susijęs iš [[objektai/asmenys/Gernuldas.md#claim-t-60290|Gernuldas]]: Apie 1226 (1230) m. abatas Gernuldas dalyvavo kaip Kulmo ir Lubavos žemių dovanojimo rašto liudytojas.
 - susijęs iš [[objektai/asmenys/Giunteris (Mazovijos vyskupas).md#claim-t-60292|Giunteris (Mazovijos vyskupas)]]: Apie 1226 (1230) m. Mazovijos vyskupas Giunteris dalyvavo kaip Kulmo ir Lubavos žemių dovanojimo rašto liudytojas.
@@ -414,8 +430,9 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
         _Samland_ , iš žodžių žem ir _land_ , tai yra Žemasis kraštas, kaipo viršiau minavojau, o gyventojus to
         krašto vadino _Samländer_ , tai yra žemaičiai, beje: žmonės, gyvenantys žemai, arba pajūriais.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -427,11 +444,40 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
         nuvergė, tad nuo jų, kaipo žinovų Žemaičių jūros, apie tą rytų, arba aušros, kraštą išsijautojo^106 ir
         tais pačiais vardais vadino, pridėdami savo žodį _land_ – kraštas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-10083
+  citata_originali: |
+    Vadino dar ir paskiau tą kraštą vardu, iš dviejų žodžių sudėtu, iš žemaitiško ir teutoniško, ir taip
+        _Samland_ , iš žodžių žem ir _land_ , tai yra Žemasis kraštas, kaipo viršiau minavojau, o gyventojus to
+        krašto vadino _Samländer_ , tai yra žemaičiai, beje: žmonės, gyvenantys žemai, arba pajūriais.
+  citata_rodoma: "Vadino dar ir paskiau tą kraštą vardu, iš dviejų žodžių sudėtu, iš žemaitiško ir teutoniško, ir taip\n_Samland_ , iš žodžių žem ir _land_ , tai yra Žemasis kraštas, kaipo viršiau minavojau, o gyventojus to\nkrašto vadino _Samländer_ , tai yra žemaičiai, beje: žmonės, gyvenantys žemai, arba pajūriais."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-07849
+
+- id: c-10084
+  citata_originali: |
+    Kad ilgainiui teutonai tuos erulius, tenai gyvenančius, antėjo^105 ir juos
+        nuvergė, tad nuo jų, kaipo žinovų Žemaičių jūros, apie tą rytų, arba aušros, kraštą išsijautojo^106 ir
+        tais pačiais vardais vadino, pridėdami savo žodį _land_ – kraštas.
+  citata_rodoma: "Kad ilgainiui teutonai tuos erulius, tenai gyvenančius, antėjo^105 ir juos\nnuvergė, tad nuo jų, kaipo žinovų Žemaičių jūros, apie tą rytų, arba aušros, kraštą išsijautojo^106 ir\ntais pačiais vardais vadino, pridėdami savo žodį _land_ – kraštas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-07849
 
 ## Ryšiai
 - Priešai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

@@ -16,6 +16,18 @@ tags:
   - pilis
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Žygis prieš varmius, notangus ir bartus ir brolių žūtis prie būsimos Baigos
 
@@ -44,17 +56,39 @@ Nenurodyta
 <a id="claim-t-67028"></a>
 - t-001
   global_id: t-67028
-  teiginys: 'Žygyje prieš varmius, notangus ir bartus broliai prie būsimos Baigos apiplėšė kaimus, o prūsai juos užpuolė ir išžudė.'
+  teiginys: "Žygyje prieš varmius, notangus ir bartus broliai prie būsimos Baigos apiplėšė kaimus, o prūsai juos užpuolė ir išžudė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "259719-260956; hash=afa27990d5c0ed3047c70b3c155421e9973996ee0e676bbdf543843ab7053678; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baiga: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygis prieš varmius, notangus ir bartus ir brolių žūtis prie būsimos Baigos: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Baiga: mention_match, place, gap=62"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygis prieš varmius, notangus ir bartus ir brolių žūtis prie būsimos Baigos\" parinktas kaip owner_note_path. Targetas \"Baiga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-67092
 
 <a id="claim-t-67029"></a>
 - t-002
   global_id: t-67029
-  teiginys: 'Varmės puolimas, aprašytas pasakojime apie žygį prieš varmius, notangus ir bartus, įvyko 1238 m. vasarą.'
+  teiginys: "Varmės puolimas, aprašytas pasakojime apie žygį prieš varmius, notangus ir bartus, įvyko 1238 m. vasarą."
+  temporaliniai_duomenys: "įvykio data: 1238 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata remia datavimo faktą, o pradinis teiginys neturi pilno predikato."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "260964-261117; hash=a74a4ab82ed6a37d3cbb6955dc49693666f2cb32155bf22ad471a306bc88b658; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Notangai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygis prieš varmius, notangus ir bartus ir brolių žūtis prie būsimos Baigos: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Notangai: mention_match, group, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygis prieš varmius, notangus ir bartus ir brolių žūtis prie būsimos Baigos\" parinktas kaip owner_note_path. Targetas \"Notangai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-67091
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -64,6 +98,7 @@ Nenurodyta
     243  Apie kovas su varmiais, notangais ir sembais kalba 1238. VI.11 dokumentas
     (CDW, 1, Nr. 2). Skyrelyje aprašytas Varmės puolimas įvyko 1238 m. vasarą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -91,8 +126,47 @@ Nenurodyta
     išskyrus tuos, kurie buvo palikti saugoti laivų. Matydami saviškių žūtį, šie greitai pasuko
     atgal ir pranešė magistrui, kas atsitiko.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-67091
+  citata_originali: |
+    243  Apie kovas su varmiais, notangais ir sembais kalba 1238. VI.11 dokumentas
+    (CDW, 1, Nr. 2). Skyrelyje aprašytas Varmės puolimas įvyko 1238 m. vasarą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67029
+
+- id: c-67092
+  citata_originali: |
+    Apie brolių karą su varmiais, bartais ir notangais ir apie daugybės brolių ir krikščio­
+                                           nių žūtį
+
+      Vargu ar kas valiotų smulkiai papasakoti, kiek turėjo patirti magistras bei broliai
+    vargo, kokių susilaukti pavojų ir bėdų, stengdamiesi, kad Kristaus tikėjimas deramai
+    tarptų, o krikščioniškųjų žemių ribos butų plečiamos. Todėl po to, kai, įkvėpti dievo be
+    kurio nieko gera negali įvykti, pamedėnai ir pagudėnai pasidavė tikėjimui ir broliams,
+    tas pats magistras bei broliai susirengė  į kovą prieš varmius, notangus  ir bartus243.
+    Tad magistro įsakyti kurie ne kurie broliai ir ginklanešiai minėtaisiais laivais perplaukė
+    Gėlo vandens marias pasižiūrėti, kur galėtų pastatyti pilį, grėsmingą šiems prūsams.
+    Atplaukę prie Varmės žemės kranto, jie išlipo ir netoli tos vietos, kur dabar yra Baigos
+    pilis, pamatė prūsų pilį, kurios vis dėlto nedrįso pulti, nes turėjo per mažai karių. Tačiau
+    nenorėdami grįžti tuščiomis rankomis,  užpuolė aplinkinius kaimus244, degindami juos
+    ir piešdami. Sitai pamatę, prūsai juos užpuolė ir išžudė visus brolius bei ginklanešius,
+    išskyrus tuos, kurie buvo palikti saugoti laivų. Matydami saviškių žūtį, šie greitai pasuko
+    atgal ir pranešė magistrui, kas atsitiko.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67028

@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - asmuo
   - karas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # fon Gasas
 
@@ -20,10 +32,19 @@ Vilniaus karo apygardos Karo veiksmų juos miegančius gegužės 10 naktį apsup
 <a id="claim-t-40560"></a>
 - t-001
   global_id: t-40560
-  teiginys: 'Gegužės 10-osios naktį paporučikio fon Gaso dalinys apsupo miegančius sukilėlius ir paėmė juos į nelaisvę.'
+  teiginys: "Gegužės 10-osios naktį paporučikio fon Gaso dalinys apsupo miegančius sukilėlius ir paėmė juos į nelaisvę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "673067-673377; hash=9aecc44089b9c5528bda806614338c47befaa096ae995704d03cb7a6b6fb9c32; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> S. Kozakauskas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "fon Gasas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "S. Kozakauskas: mention_match, person, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"fon Gasas\" parinktas kaip owner_note_path. Targetas \"S. Kozakauskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-44588
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -40,8 +61,31 @@ Vilniaus karo apygardos Karo veiksmų juos miegančius gegužės 10 naktį apsup
     B. Kolyška, S. Kozakauskas ir dar keletas
     karininkų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-44588
+  citata_originali: |
+    Oficialiai pa-
+    teikiami Rusijos kariuomenės nuos-
+    toliai akivaizdžiai neatitinka tikrovės.
+    Vilniaus karo apygardos Karo veiksmų
+
+    juos miegančius gegužės 10 naktį apsupo ir
+    paėmė į nelaisvę paporučikio fon Gaso da-
+    linys. Į nelaisvę pakliuvo Z. Sierakauskas,
+    B. Kolyška, S. Kozakauskas ir dar keletas
+    karininkų.
+  citata_rodoma: "Vilniaus karo apygardos Karo veiksmų\n\njuos miegančius gegužės 10 naktį apsupo ir\npaėmė į nelaisvę paporučikio fon Gaso da-\nlinys. Į nelaisvę pakliuvo Z. Sierakauskas,\nB. Kolyška, S. Kozakauskas ir dar keletas\nkarininkų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40560

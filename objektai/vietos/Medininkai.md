@@ -16,6 +16,18 @@ tags:
   - vieta
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Medininkai
 
@@ -26,11 +38,21 @@ Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliu
 ## Teiginiai
 
 <a id="claim-t-94746"></a>
-- t-001
+- t-003
   global_id: t-94746
-  teiginys: 'Apie gegužės 20 d. į Vilniaus srities Medininkus buvo įsiveržta, ten išbūta aštuonias dienas ir pasitraukta su dideliu grobiu.'
+  teiginys: "Apie gegužės 20 d. į Vilniaus srities Medininkus buvo įsiveržta, ten išbūta aštuonias dienas ir pasitraukta su dideliu grobiu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "135794-135921; hash=e79320f7a98450e99113e7439e0eaf6cd4c3dba03ec0ee5f70d8f90d62917011; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Medininkai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Medininkai\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-37543
 - susijęs iš [[objektai/asmenys/Henrikas iš Plockės.md#claim-t-59865|Henrikas iš Plockės]]: 1314 m. Henrikas iš Plockės su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių.
 - susijęs iš [[objektai/asmenys/Henrikas iš Plockės.md#claim-t-59870|Henrikas iš Plockės]]: 1314 m. apie vasario 2 d. Henrikas iš Plockės dar kartą žygiavo į Medininkų valsčių ir puolė Sizditės pilį.
 - susijęs iš [[objektai/ivykiai/Vytauto žygis į Medininkus (1392 m. gegužės 20 d.).md#claim-t-34568|Vytauto žygis į Medininkus (1392 m. gegužės 20 d.)]]: Apie gegužės 20 d. Vytautas įsiveržė į Vilniaus srities Medininkus ir po aštuonių dienų grįžo su dideliu grobiu.
@@ -187,11 +209,26 @@ Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliu
     gegužės m. 20 d. jis įsiveržė į Vilniaus srities Medininkus ir,
     pabuvęs ten astuonias dienas, grįžo su dideliu grobiu^1 ).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-37543
+  citata_originali: |
+    Apie
+    gegužės m. 20 d. jis įsiveržė į Vilniaus srities Medininkus ir,
+    pabuvęs ten astuonias dienas, grįžo su dideliu grobiu^1 ).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-94746
 
 ## Ryšiai
 - Mirties vieta: [[objektai/asmenys/Henrikas iš Plockės]], [[objektai/asmenys/Henrikas Rutėnas]]

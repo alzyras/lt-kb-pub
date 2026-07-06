@@ -15,6 +15,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vaškas
 
@@ -47,9 +59,19 @@ Nenurodyta
 <a id="claim-t-31130"></a>
 - t-001
   global_id: t-31130
-  teiginys: 'Svarbiausi Lietuvos ūkio produktai užsieniui buvo vaškas ir kailiai.'
+  teiginys: "Svarbiausi Lietuvos ūkio produktai užsieniui buvo vaškas ir kailiai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "812519-812765; hash=c67dcac9b0ef187afce9e02532370afff96934fa90a531e9217074e2e918d69d; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vaškas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaškas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-33236
 - susijęs iš [[objektai/asmenys/Abramas (iždininkas).md#claim-t-87605|Abramas (iždininkas)]]: Karaliaus raštu iždininkui Abramui nurodyta leisti Vilniaus vaitui į užsienį parduoti tris vaško gabalus po 50 akmenų.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82183|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis suteikė Vilniui teisę laikyti vaško dirbtuvę ir rūpinosi laisva laivyba Vilija.
 - susijęs iš [[objektai/autoriai/M. Liubavskij.md#claim-t-30839|M. Liubavskij]]: M. Liubavskij teigė, kad rusai siekė pasipelnyti iš lietuvių kailių, vaško ir medaus prekybos su Bizantija.
@@ -95,6 +117,7 @@ Nenurodyta
 - susijęs iš [[objektai/autoriai/Henenbergeris.md#claim-t-190311|Henenbergeris]]: Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris dienas pasninkaudavo ir gulėdavo ant plikos žemės.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172882|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis rašė, kad Antakalnyje buvusi didžiulė visų Lietuvos garbintų dievų šventovė.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172912|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis klydo teigdamas, kad miškas lietuviškai vadinamas lauku ir iš šio žodžio kilo Lukiškių pavadinimas.
+- susijęs iš [[objektai/daiktai/Brangenybės, auksas, sidabras ir papuošalai.md#claim-t-192493|Brangenybės, auksas, sidabras ir papuošalai]]: Narbutas rašo, kad kasinėjant netoli Elbliongo aptikta aukso, sidabro, auksuotų metalų papuošalų ir dažytų vėrinių.
 - susijęs iš [[objektai/daiktai/Gedimino antspaudas.md#claim-t-81847|Gedimino antspaudas]]: Kryžiuočiai sudegino Gedimino antspaudą, siekdami užgniaužti jo pradėtą darbą ir apdumti žmonėms akis.
 - susijęs iš [[objektai/daiktai/Vilniaus pirklių prekybos objektai vaškas, kailiai, kepurės, sandėlis ir vytinės.md#claim-t-87006|Vilniaus pirklių prekybos objektai vaškas, kailiai, kepurės, sandėlis ir vytinės]]: Miesto lėšomis pastatyti kailiadirbių namai turguje leido ant sienų pardavimui kabinti kepures ir kailius.
 - susijęs iš [[objektai/grupes/Rygiečiai.md#claim-t-179441|Rygiečiai]]: 1253 m., Mindaugui susitaikius su Livonijos ordinu, rygiečiai išsirūpino prekybos teisę Lietuvoje.
@@ -136,8 +159,26 @@ Nenurodyta
     Tuo tarpu grudų eksportas iki pat XVI amž. beveik visai nežino­
     mas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33236
+  citata_originali: |
+    (^296) II skyrius: valstybės iškilimas
+    gaikščių gyvenime _ūkinis_ medžioklės pobūdis ilgai dar buvo stiprus.
+    Svarbiausi Lietuvos ūkio produktai užsieniui buvo vaškas ir kailiai.
+    Tuo tarpu grudų eksportas iki pat XVI amž. beveik visai nežino­
+    mas.
+  citata_rodoma: "Svarbiausi Lietuvos ūkio produktai užsieniui buvo vaškas ir kailiai.\nTuo tarpu grudų eksportas iki pat XVI amž."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31130

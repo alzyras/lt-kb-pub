@@ -10,6 +10,18 @@ tags:
   - paprotys
   - ritualas
   - valstybė
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Krikščioniškų laidojimo apeigų įsigalėjimas po Lietuvos krikšto
 
@@ -42,10 +54,19 @@ Nenurodyta
 <a id="claim-t-77936"></a>
 - t-001
   global_id: t-77936
-  teiginys: 'Ryškiausios permainos po krikšto buvo išorinės.'
+  teiginys: "Ryškiausios permainos po krikšto buvo išorinės."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "74683-75855; hash=c6a1305a24a829320990fb2f64f241521fec6e7c7d81c2d777d64850b787d169; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Krikščioniškų laidojimo apeigų įsigalėjimas po Lietuvos krikšto: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krikščioniškų laidojimo apeigų įsigalėjimas po Lietuvos krikšto\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-75253
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -71,8 +92,39 @@ Nenurodyta
     Lietuva paskutinė ir pėsčia valstybė alegoriniame Europos šalių
     žygyje prie kryžiaus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-75253
+  citata_originali: |
+    Ryškiausios permainos po krikšto buvo išorinės. Su krikštu Lietuvo-
+    je išplito pagonių visuomenei nežinomos institucijos – bažnyčios. Tai ne
+    tik naujos architektūros paminklai, paveikslų, kitų bažnytinės dailės kūri-
+    nių ir bažnytinių knygų „saugyklos“, bet ir rašto bei švietimo įstaigos. Per
+    šias institucijas į Lietuvą sklido naujos idėjos. Pasikeitė mirties samprata
+    ir laidojimo apeigos. XIV a. pabaigoje labai sumažėjo pagonybei būdingų
+    degintinių palaidojimų. Bažnyčios skleidžiamos vieno Dievo, prigimtinės
+    nuodėmės ir Kristaus atpirkimo idėjos, be abejonės, veikė žmogaus sąmo-
+    nę. Pagonybės išugdytam žmogui nauja turėjo būti ne tik atjautos ir labda-
+    ros, bet ir nuodėmės samprata, ypač tai, kad nusidėti galima ne tik veiks-
+    mais, bet ir mintimis. Savaip transformuota artimo meilės idėja atsispindi
+    senjoro ir pavaldinio santykiuose, ypač tai pasakytina apie senjoro atsa-
+    komybę už pavaldinio išganymą. Vadinasi, pavaldiniui nurodoma, kokį
+    tikėjimą jis turi išpažinti. Taigi feodaliniai santykiai įgijo idėjinį pagrindą,
+
+    1 skyrius •  S E N O J I  L I E T U VA
+    43
+    Lietuva paskutinė ir pėsčia valstybė alegoriniame Europos šalių
+    žygyje prie kryžiaus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77936

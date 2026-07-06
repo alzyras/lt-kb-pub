@@ -15,6 +15,18 @@ tags:
   - vieta
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Olyka
 
@@ -24,19 +36,62 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 
 ## Teiginiai
 
-<a id="claim-t-84379"></a>
-- t-001
-  global_id: t-84379
-  teiginys: 'Vaitiekus II Radvila, Olykos ir Nesvyžiaus kunigaikštis, mirė 1519 m. liepos 5 d. ir vyskupo pareigas ėjo 11 metų.'
+<a id="claim-t-84380"></a>
+- t-002
+  global_id: t-84380
+  teiginys: "Vaitiekus II Radvila, Olykos ir Nesvyžiaus kunigaikštis, mirė 1519 m. liepos 5 d. ir vyskupo pareigas ėjo 11 metų."
+  temporaliniai_duomenys: "įvykio data: 1519 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, aiškus ir paremtas citata apie Vaitiekų II Radvilą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "596871-597285; hash=8d70f2c7e72f75db1ed54c3d60510d6eb232a0927e8a3c44d2966ab62b70919e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Nesvyžius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Olyka: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Nesvyžius: mention_match, place, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Olyka\" parinktas kaip owner_note_path. Targetas \"Nesvyžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-80553
+
+<a id="claim-t-84380"></a>
+- t-002
+  global_id: t-84380
+  teiginys: "Vaitiekus II Radvila, Olykos ir Nesvyžiaus kunigaikštis, mirė 1519 m. liepos 5 d. ir vyskupo pareigas ėjo 11 metų."
+  temporaliniai_duomenys: "įvykio data: 1519 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, aiškus ir paremtas citata apie Vaitiekų II Radvilą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "596871-597285; hash=8d70f2c7e72f75db1ed54c3d60510d6eb232a0927e8a3c44d2966ab62b70919e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Nesvyžius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Olyka: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Nesvyžius: mention_match, place, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Olyka\" parinktas kaip owner_note_path. Targetas \"Nesvyžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-80553
 
 <a id="claim-t-84381"></a>
 - t-003
   global_id: t-84381
-  teiginys: 'Olyka Voluinėje kartu su Nesvyžiumi buvo vienos Radvilų šeimos šakos centras.'
+  teiginys: "Olyka Voluinėje kartu su Nesvyžiumi buvo vienos Radvilų šeimos šakos centras."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "596871-597285; hash=8d70f2c7e72f75db1ed54c3d60510d6eb232a0927e8a3c44d2966ab62b70919e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Nesvyžius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Olyka: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Nesvyžius: mention_match, place, gap=25"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Olyka\" parinktas kaip owner_note_path. Targetas \"Nesvyžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-80552
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila.md#claim-t-186360|Mikalojus Radvila]]: Vilniaus vaivada ir Olykos bei Nesvyžiaus kunigaikštis Mikalojus Radvila buvo įtrauktas į karaliaus pasiuntinybę į Vieną.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103048|Jurgis Radvila (vyskupas, XVI a.)]]: 1582 m. dokumentą Jurgis Radvila pasirašė kaip Vilniaus vyskupas ir Olykos kunigaikštis.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103051|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila buvo kardinolas, Vilniaus vyskupijos nuolatinis administratorius, Olykos ir Nesvyžiaus kunigaikštis.
@@ -97,6 +152,7 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     Radvilų šeimos buvo dvi šakos. Vienos centras buvo Biržai
     ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -111,12 +167,46 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     ir Nesvyžiaus kunigaikštis, su šiuo pasauliu atsisveikino
     1519 metų liepos 5 dieną, vyskupo pareigas ėjo tad 11 metų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+
+## Citatos
+
+- id: c-80552
+  citata_originali: |
+    Pats
+    apsukrusis ir įtakingasis to meto Lietuvos politikos veikėjas,
+    Žemaičių seniūnas ir Livonijos valdytojas Jonas Jeronimas Kat-
+    kevičius, ne tik patsai metė kalvinizmą, bet taip pat ir savo
+    sūnų Joną Karolį, — būsimąjį Vilniaus vaivadą, hetmoną, ge-
+    nialųjį karo vadą, — atidavė auklėti jėzuitams.
+    Radvilų šeimos buvo dvi šakos. Vienos centras buvo Biržai
+    ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-84381
+
+- id: c-80553
+  citata_originali: |
+    Mirė 1507 metais.
+    11. Vaitiekus II Radvila, vadintas varguolių tėvu, Olykos
+    ir Nesvyžiaus kunigaikštis, su šiuo pasauliu atsisveikino
+    1519 metų liepos 5 dieną, vyskupo pareigas ėjo tad 11 metų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-84379
+    - t-84380
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Mikalojus Radvila]]

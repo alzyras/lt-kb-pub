@@ -8,11 +8,6 @@ datos:
   - '1396 m.'
 date_start: '1382'
 date_end: '1396'
-description: 'M. Strijkovskis minimas kaip kronikininkas, kurio pasakojimai apie Vilnių, Antakalnį ir XIV a. įvykius vertinami kritiškai.'
-socialDescription: 'Kronikininko M. Strijkovskio liudijimai apie Vilnių, Antakalnį, Švitrigailą ir XIV a. įvykius Lietuvos istorijos šaltiniuose.'
-seo_atnaujinta: '2026-07-02T23:12:35.244313+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -24,134 +19,560 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # M. Strijkovskis Stryjkowski
 
 ## Santrauka
 
-M. Strijkovskis žinių bazėje pristatomas per jo kronikos liudijimus apie Vilnių, Antakalnį ir XIV a. politinius įvykius. Šaltiniuose minimi jo pasakojimai apie Antakalnyje buvusią šventovę, Šv. Martyno bažnyčios būklę ir Švitrigailos pilies užėmimo aiškinimą. Kartu pabrėžiama, kad kai kurie Strijkovskio teiginiai vertinami kritiškai, ypač dėl Lukiškių vardo kilmės ir Konrado Valenrodo pareigų.
+7 Šventaragio vardo kilmę aiškina Stryjkowski savo kronikoje kn. Petro bažnyčią Antakalny­ je, pagonių šventyklos vietoje, kurią mini Strijkovskis (Sk. 31 Strijkovskis, 1.465, o juo sekda­ mas ir K o j e 1 a v i č i u s, p. 361, plačiai aprašo, kokių gudrybių tą­ kart ėmėsi Kęstutis, puldamas Vilnių.
 
 ## Teiginiai
 
 <a id="claim-t-172913"></a>
-- t-001
+- t-009
   global_id: t-172913
-  teiginys: 'Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta.'
+  teiginys: "Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "247418-247830; hash=204e471f538a5a6aba8320dcc4c3904f5c4189e066225bacb80e31833fa2724a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Martynas iš Golino: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "M. Strijkovskis Stryjkowski: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Martynas iš Golino: mention_match, person, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Strijkovskis Stryjkowski\" parinktas kaip owner_note_path. Targetas \"Martynas iš Golino\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-014
+    - c-157285
 
 <a id="claim-t-172914"></a>
-- t-002
+- t-018
   global_id: t-172914
-  teiginys: 'Strijkovskis neužsiminė apie tariamą Goštauto vienuolystę ir vyskupystę, todėl ši aplinkybė tekste atmetama.'
+  teiginys: "Strijkovskis neužsiminė apie tariamą Goštauto vienuolystę ir vyskupystę, todėl ši aplinkybė tekste atmetama."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "401111-401764; hash=6b5cd1ee4c13d192b27d5cb4f2f47ed969e1c3e98d43a2ac0dadd3f2de9b6807; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "M. Strijkovskis Stryjkowski: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Strijkovskis Stryjkowski\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-011
+    - c-157281
+
+<a id="claim-t-172913"></a>
+- t-009
+  global_id: t-172913
+  teiginys: "Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "247418-247830; hash=204e471f538a5a6aba8320dcc4c3904f5c4189e066225bacb80e31833fa2724a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Martynas iš Golino: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "M. Strijkovskis Stryjkowski: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Martynas iš Golino: mention_match, person, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Strijkovskis Stryjkowski\" parinktas kaip owner_note_path. Targetas \"Martynas iš Golino\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-157285
 
 <a id="claim-t-172916"></a>
-- t-004
+- t-016
   global_id: t-172916
-  teiginys: 'Stryjkowskis nurodė, kad Švitrigaila piliai užimti pasinaudojo rusų vienuolių, vadintų čiornais, išdavyste.'
+  teiginys: "Stryjkowskis nurodė, kad Švitrigaila piliai užimti pasinaudojo rusų vienuolių, vadintų čiornais, išdavyste."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "303869-304716; hash=20232049ed7d75ce803b5d9e3955f0675e68bd85907b0e61cb132c2b03f44ce6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "M. Strijkovskis Stryjkowski: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=63"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Strijkovskis Stryjkowski\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-157275
+
+<a id="claim-t-172913"></a>
+- t-009
+  global_id: t-172913
+  teiginys: "Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "247418-247830; hash=204e471f538a5a6aba8320dcc4c3904f5c4189e066225bacb80e31833fa2724a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Martynas iš Golino: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "M. Strijkovskis Stryjkowski: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Martynas iš Golino: mention_match, person, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Strijkovskis Stryjkowski\" parinktas kaip owner_note_path. Targetas \"Martynas iš Golino\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-157285
+
+<a id="claim-t-172913"></a>
+- t-009
+  global_id: t-172913
+  teiginys: "Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "247418-247830; hash=204e471f538a5a6aba8320dcc4c3904f5c4189e066225bacb80e31833fa2724a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Martynas iš Golino: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "M. Strijkovskis Stryjkowski: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Martynas iš Golino: mention_match, person, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Strijkovskis Stryjkowski\" parinktas kaip owner_note_path. Targetas \"Martynas iš Golino\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-157285
 
 <a id="claim-t-172920"></a>
-- t-007
+- t-011
   global_id: t-172920
-  teiginys: 'Strijkovskis klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Valenrodui kaip didžiajam magistrui.'
+  teiginys: "Strijkovskis klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Valenrodui kaip didžiajam magistrui."
+  temporaliniai_duomenys: "įvykio data: 1391 m.; įvykio data: 1393 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko autoriaus klaidos esmę, be perteklinių chronologinių detalių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "260598-261538; hash=e5316db19e32837747e12d8e33575926b941d405cd32c9a7ea26214ced3e91a7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Konradas Valenrodas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "M. Strijkovskis Stryjkowski: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Konradas Valenrodas: mention_match, person, gap=67"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Strijkovskis Stryjkowski\" parinktas kaip owner_note_path. Targetas \"Konradas Valenrodas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-157276
+
+<a id="claim-t-172913"></a>
+- t-009
+  global_id: t-172913
+  teiginys: "Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "247418-247830; hash=204e471f538a5a6aba8320dcc4c3904f5c4189e066225bacb80e31833fa2724a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Martynas iš Golino: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "M. Strijkovskis Stryjkowski: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Martynas iš Golino: mention_match, person, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Strijkovskis Stryjkowski\" parinktas kaip owner_note_path. Targetas \"Martynas iš Golino\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-157285
 
 <a id="claim-t-172922"></a>
-- t-009
+- t-008
   global_id: t-172922
-  teiginys: 'Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais dvasininkai degindavo vaško žvakes.'
+  teiginys: "Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais dvasininkai degindavo vaško žvakes."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "237914-238279; hash=157aa6df253ed7122b0ccce14d2be47c92d740c2001ebb32ea4ca3fbe8c89a4c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antakalnis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "M. Strijkovskis Stryjkowski: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Antakalnis: mention_match, place, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Strijkovskis Stryjkowski\" parinktas kaip owner_note_path. Targetas \"Antakalnis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-157272
+
+<a id="claim-t-172922"></a>
+- t-008
+  global_id: t-172922
+  teiginys: "Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais dvasininkai degindavo vaško žvakes."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "237914-238279; hash=157aa6df253ed7122b0ccce14d2be47c92d740c2001ebb32ea4ca3fbe8c89a4c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antakalnis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "M. Strijkovskis Stryjkowski: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Antakalnis: mention_match, place, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Strijkovskis Stryjkowski\" parinktas kaip owner_note_path. Targetas \"Antakalnis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-157272
+
+<a id="claim-t-172922"></a>
+- t-008
+  global_id: t-172922
+  teiginys: "Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais dvasininkai degindavo vaško žvakes."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "237914-238279; hash=157aa6df253ed7122b0ccce14d2be47c92d740c2001ebb32ea4ca3fbe8c89a4c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antakalnis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "M. Strijkovskis Stryjkowski: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Antakalnis: mention_match, place, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Strijkovskis Stryjkowski\" parinktas kaip owner_note_path. Targetas \"Antakalnis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-157272
+
+<a id="claim-t-172922"></a>
+- t-008
+  global_id: t-172922
+  teiginys: "Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais dvasininkai degindavo vaško žvakes."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "237914-238279; hash=157aa6df253ed7122b0ccce14d2be47c92d740c2001ebb32ea4ca3fbe8c89a4c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antakalnis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "M. Strijkovskis Stryjkowski: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Antakalnis: mention_match, place, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Strijkovskis Stryjkowski\" parinktas kaip owner_note_path. Targetas \"Antakalnis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-157272
+
+<a id="claim-t-172913"></a>
+- t-009
+  global_id: t-172913
+  teiginys: "Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "247418-247830; hash=204e471f538a5a6aba8320dcc4c3904f5c4189e066225bacb80e31833fa2724a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Martynas iš Golino: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "M. Strijkovskis Stryjkowski: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Martynas iš Golino: mention_match, person, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Strijkovskis Stryjkowski\" parinktas kaip owner_note_path. Targetas \"Martynas iš Golino\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-157285
 
 <a id="claim-t-172927"></a>
-- t-014
+- t-002
   global_id: t-172927
-  teiginys: 'Strijkovskis minėjo pagonių šventyklą Antakalnyje, kurios vietoje, pagal padavimą, Goštautas pastatydino Šv. Petro bažnyčią.'
+  teiginys: "Strijkovskis minėjo pagonių šventyklą Antakalnyje, kurios vietoje, pagal padavimą, Goštautas pastatydino Šv. Petro bažnyčią."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "86514-86702; hash=40481cf4e8c91c3a49099fab0eaab6072a25ddbe61a0a2aa617c05179021707e; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Goštautas (vyskupas, XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "M. Strijkovskis Stryjkowski: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Goštautas (vyskupas, XV a.): mention_match, person, gap=83"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Strijkovskis Stryjkowski\" parinktas kaip owner_note_path. Targetas \"Goštautas (vyskupas, XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-157279
 
 <a id="claim-t-172928"></a>
-- t-015
+- t-001
   global_id: t-172928
-  teiginys: 'Stryjkowskis savo kronikoje aiškino Šventaragio vardo kilmę.'
+  teiginys: "Stryjkowskis savo kronikoje aiškino Šventaragio vardo kilmę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "61614-61854; hash=f14d497fa0d1e9d0ead12208e5270f46c1d52af0bfce73277b42aaa59ced5f91; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Šventaragis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "M. Strijkovskis Stryjkowski: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Šventaragis: mention_match, person, gap=36"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Strijkovskis Stryjkowski\" parinktas kaip owner_note_path. Targetas \"Šventaragis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-015
+    - c-157286
+
+<a id="claim-t-172913"></a>
+- t-009
+  global_id: t-172913
+  teiginys: "Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "247418-247830; hash=204e471f538a5a6aba8320dcc4c3904f5c4189e066225bacb80e31833fa2724a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Martynas iš Golino: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "M. Strijkovskis Stryjkowski: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Martynas iš Golino: mention_match, person, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Strijkovskis Stryjkowski\" parinktas kaip owner_note_path. Targetas \"Martynas iš Golino\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-157285
 
 <a id="claim-t-172930"></a>
-- t-017
+- t-010
   global_id: t-172930
-  teiginys: 'Strijkovskis ir Kojelavičius rašė, kad Vytautas paleido gandą apie Ringailės vestuves su Mazovijos kunigaikščiu Henriku.'
+  teiginys: "Strijkovskis ir Kojelavičius rašė, kad Vytautas paleido gandą apie Ringailės vestuves su Mazovijos kunigaikščiu Henriku."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "256299-257194; hash=215a622cecf23c082195506ae460c7bad707fc6986940b0ab20796e33ba4a2de; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Mazovija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "M. Strijkovskis Stryjkowski: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Mazovija: mention_match, place, gap=89"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Strijkovskis Stryjkowski\" parinktas kaip owner_note_path. Targetas \"Mazovija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-157273
 
 <a id="claim-t-172931"></a>
-- t-018
+- t-005
   global_id: t-172931
-  teiginys: 'Strijkovskis užsiminė apie mūšį, po kurio prie Sudervėlės upelio liko lietuvių sumuštų kryžiuočių kapavietė.'
+  teiginys: "Strijkovskis užsiminė apie mūšį, po kurio prie Sudervėlės upelio liko lietuvių sumuštų kryžiuočių kapavietė."
+  semantiniai_rysiai: "Lietuviai kariavo prieš Kryžiuočių ordinas (0.82)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "136000-136491; hash=b4d67789c4019a66e582586871b0028d534a0a70a0d04d4494cd0adfefbbf829; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Formuluotė apie lietuvių sumuštus kryžiuočius tiesiogiai rodo karinę priešpriešą."
   pagrindžia:
-    - c-008
+    - c-157278
 
 <a id="claim-t-172932"></a>
-- t-019
+- t-003
   global_id: t-172932
-  teiginys: 'Strijkovskis plačiai aprašė gudrybes, kurių Kęstutis ėmėsi puldamas Vilnių.'
+  teiginys: "Strijkovskis plačiai aprašė gudrybes, kurių Kęstutis ėmėsi puldamas Vilnių."
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) puolė Vilnius (0.95)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "100529-100933; hash=becd4b33642fd9208e4a8e462a98c5f057ef40d3ffb3017dbdc2d985a84e3a78; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Vilnius: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginyje tiesiogiai pasakyta, kad Kęstutis puolė Vilnių."
   pagrindžia:
-    - c-017
+    - c-157288
 
 <a id="claim-t-172933"></a>
-- t-020
+- t-004
   global_id: t-172933
-  teiginys: 'Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui.'
+  teiginys: "Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui."
+  semantiniai_rysiai: "Gediminas pastatė Vilnius (0.90); Gediminas pastatė Aukštutinė pilis (0.87)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "128628-130752; hash=6e97b8e7faaee1626c9fe5cb26eab2a2c01605457c8a515e9e2e44aad5410036; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Vilnius: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vilniaus įkūrimas tekste aiškiai priskiriamas Gediminui."
   pagrindžia:
-    - c-016
+    - c-157287
+
+<a id="claim-t-172922"></a>
+- t-008
+  global_id: t-172922
+  teiginys: "Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais dvasininkai degindavo vaško žvakes."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "237914-238279; hash=157aa6df253ed7122b0ccce14d2be47c92d740c2001ebb32ea4ca3fbe8c89a4c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antakalnis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "M. Strijkovskis Stryjkowski: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Antakalnis: mention_match, place, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Strijkovskis Stryjkowski\" parinktas kaip owner_note_path. Targetas \"Antakalnis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-157272
 
 <a id="claim-t-172935"></a>
-- t-022
+- t-006
   global_id: t-172935
-  teiginys: 'Strijkovskis teigė, kad Gedimino palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti.'
+  teiginys: "Strijkovskis teigė, kad Gedimino palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "227669-228220; hash=d1501dbc9355f740fb2b697e987e0e4f9f995b732e153440cb0022d2fffd1fce; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "M. Strijkovskis Stryjkowski: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=57"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Strijkovskis Stryjkowski\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-012
+    - c-157282
 
 <a id="claim-t-172936"></a>
-- t-023
+- t-013
   global_id: t-172936
-  teiginys: 'Stryjkowskis susirėmimą ir mūšį prie Vižūnų laikė tuo pačiu įvykiu, nors šis tapatinimas laikomas klaidingu.'
+  teiginys: "Stryjkowskis susirėmimą ir mūšį prie Vižūnų laikė tuo pačiu įvykiu, nors šis tapatinimas laikomas klaidingu."
+  semantiniai_rysiai: "Kryžiuočių ordinas apgulė Vilnius (0.82)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "266353-267108; hash=49d6d73ff348403cabb397da6e29e68bee764e2e31407578e6b81102034d658f; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "apgule -> Vilnius: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje aprašoma, kad kryžiuočių pajėgos prie Vilniaus apsupo miestą."
   pagrindžia:
-    - c-001
+    - c-157271
 
 <a id="claim-t-172937"></a>
-- t-024
+- t-012
   global_id: t-172937
-  teiginys: 'Strijkovskis klaidingai nurodė, kad Lankasteris, Anglijos karaliaus Henriko sūnus, su didelėmis pajėgomis įsibrovė į Lietuvą.'
+  teiginys: "Strijkovskis klaidingai nurodė, kad Lankasteris, Anglijos karaliaus Henriko sūnus, su didelėmis pajėgomis įsibrovė į Lietuvą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "261783-262362; hash=c6adf4a1d283f8ad6f8e05683759135aaa457813cdd2427c6a1a0067aea93d8d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Anglija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "M. Strijkovskis Stryjkowski: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Anglija: mention_match, place, gap=49"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Strijkovskis Stryjkowski\" parinktas kaip owner_note_path. Targetas \"Anglija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-157274
+
+<a id="claim-t-172913"></a>
+- t-009
+  global_id: t-172913
+  teiginys: "Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "247418-247830; hash=204e471f538a5a6aba8320dcc4c3904f5c4189e066225bacb80e31833fa2724a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Martynas iš Golino: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "M. Strijkovskis Stryjkowski: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Martynas iš Golino: mention_match, person, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Strijkovskis Stryjkowski\" parinktas kaip owner_note_path. Targetas \"Martynas iš Golino\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-157285
+
+<a id="claim-t-172922"></a>
+- t-008
+  global_id: t-172922
+  teiginys: "Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais dvasininkai degindavo vaško žvakes."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "237914-238279; hash=157aa6df253ed7122b0ccce14d2be47c92d740c2001ebb32ea4ca3fbe8c89a4c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antakalnis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "M. Strijkovskis Stryjkowski: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Antakalnis: mention_match, place, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Strijkovskis Stryjkowski\" parinktas kaip owner_note_path. Targetas \"Antakalnis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-157272
 
 <a id="claim-t-172940"></a>
-- t-027
+- t-007
   global_id: t-172940
-  teiginys: 'Strijkovskis klydo teigdamas, kad miškas lietuviškai vadinamas lauku ir iš šio žodžio kilo Lukiškių pavadinimas.'
+  teiginys: "Strijkovskis klydo teigdamas, kad miškas lietuviškai vadinamas lauku ir iš šio žodžio kilo Lukiškių pavadinimas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "237716-238038; hash=36668ab26f0cdf9525d36a1f7fd7f04db828df671afe496e3f0073100fe7ab36; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "M. Strijkovskis Stryjkowski: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=41"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Strijkovskis Stryjkowski\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-010
+    - c-157280
 
 <a id="claim-t-172941"></a>
-- t-028
+- t-015
   global_id: t-172941
-  teiginys: 'Strijkovskis, aprašydamas Vilniaus apgultį, teigė, kad Mikalojus Moskorovskis su lenkais narsiai gynė Aukštutinę pilį.'
+  teiginys: "Strijkovskis, aprašydamas Vilniaus apgultį, teigė, kad Mikalojus Moskorovskis su lenkais narsiai gynė Aukštutinę pilį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "282519-283810; hash=7f6ea4930a8d2656ea743fd27fcc917dedacd102e5d804e4b77dd031c6fd30d2; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "M. Strijkovskis Stryjkowski: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=81"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Strijkovskis Stryjkowski\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-157277
 
 <a id="claim-t-172942"></a>
-- t-029
+- t-014
   global_id: t-172942
-  teiginys: 'Strijkovskis prie Vilniaus apsupties metu nukautųjų priskyrė Narimantą ir pateikė Długoszo pasakojimą apie jo mirtį.'
+  teiginys: "Strijkovskis prie Vilniaus apsupties metu nukautųjų priskyrė Narimantą ir pateikė Długoszo pasakojimą apie jo mirtį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "279160-280089; hash=a77babc615144889b694496c784e628f98e171574dda8c34e15e4a31d62e3af6; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "M. Strijkovskis Stryjkowski: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Strijkovskis Stryjkowski\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-013
+    - c-157284
 
+<a id="claim-t-172922"></a>
+- t-008
+  global_id: t-172922
+  teiginys: "Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais dvasininkai degindavo vaško žvakes."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "237914-238279; hash=157aa6df253ed7122b0ccce14d2be47c92d740c2001ebb32ea4ca3fbe8c89a4c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antakalnis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "M. Strijkovskis Stryjkowski: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Antakalnis: mention_match, place, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Strijkovskis Stryjkowski\" parinktas kaip owner_note_path. Targetas \"Antakalnis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-157272
+
+<a id="claim-t-172922"></a>
+- t-008
+  global_id: t-172922
+  teiginys: "Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais dvasininkai degindavo vaško žvakes."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "237914-238279; hash=157aa6df253ed7122b0ccce14d2be47c92d740c2001ebb32ea4ca3fbe8c89a4c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antakalnis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "M. Strijkovskis Stryjkowski: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Antakalnis: mention_match, place, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Strijkovskis Stryjkowski\" parinktas kaip owner_note_path. Targetas \"Antakalnis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-157272
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -182,6 +603,7 @@ M. Strijkovskis žinių bazėje pristatomas per jo kronikos liudijimus apie Viln
     daugybė laivų, iš Nemuno įplaukę į Viliją, gabeno didžiu­
     les atsargas maisto ir karinę amuniciją.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -204,6 +626,7 @@ M. Strijkovskis žinių bazėje pristatomas per jo kronikos liudijimus apie Viln
     statydavo ir degindavo vaško žva­
     kes/' Strijkovskis, Sk. IV, p. 400.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -247,6 +670,7 @@ M. Strijkovskis žinių bazėje pristatomas per jo kronikos liudijimus apie Viln
     vienas jų, matyt, išdavęs paslaptį, o
     apie Sudimantą nėra užsiminta.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -274,6 +698,7 @@ M. Strijkovskis žinių bazėje pristatomas per jo kronikos liudijimus apie Viln
     du, Jono de Gando, Lankasterio ku­
     nigaikščio, Ričardo dėdės, sūnus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -304,6 +729,7 @@ M. Strijkovskis žinių bazėje pristatomas per jo kronikos liudijimus apie Viln
     tojų prastuomenė, kurių nemažai
     anuomet buvo Vilniuje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -344,6 +770,7 @@ M. Strijkovskis žinių bazėje pristatomas per jo kronikos liudijimus apie Viln
     tas didž. magistru; mirė 1393 m.
     liepos 25 d.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -393,6 +820,7 @@ M. Strijkovskis žinių bazėje pristatomas per jo kronikos liudijimus apie Viln
     36
     Długosz Histor.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -413,6 +841,7 @@ M. Strijkovskis žinių bazėje pristatomas per jo kronikos liudijimus apie Viln
     pradžioje tame kaime buvo gausiau negu dabar gyventojų,
     šis tas iš technikos, tarp kurių - malūnas, kalvė ir lentpjūvė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -430,6 +859,7 @@ M. Strijkovskis žinių bazėje pristatomas per jo kronikos liudijimus apie Viln
     je, pagonių šventyklos vietoje, kurią
     mini Strijkovskis (Sk. IV, 1.400).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -449,6 +879,7 @@ M. Strijkovskis žinių bazėje pristatomas per jo kronikos liudijimus apie Viln
     dinamas laukas ir nuo to žodžio
     paėjęs Lukiškių pavadinimas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -477,6 +908,7 @@ M. Strijkovskis žinių bazėje pristatomas per jo kronikos liudijimus apie Viln
     būtų tikra, taigi tą, tikriausiai Gžibovskio prasimanytą,
     Goštauto tariamą vienuolystę ir vyskupystę, atmeta.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -499,6 +931,7 @@ M. Strijkovskis žinių bazėje pristatomas per jo kronikos liudijimus apie Viln
     Kai dėl rūšies ginklo, nuo kurio žuvo
     Gediminas: Dlugošas Lib.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -536,6 +969,7 @@ M. Strijkovskis žinių bazėje pristatomas per jo kronikos liudijimus apie Viln
     leid. Tatai yra tiesiog pažodinis D1 u-
     g o š o, Lib. X, p. 129 vertimas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -561,6 +995,7 @@ M. Strijkovskis žinių bazėje pristatomas per jo kronikos liudijimus apie Viln
     14
     Ne tik Šv.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -587,6 +1022,7 @@ M. Strijkovskis žinių bazėje pristatomas per jo kronikos liudijimus apie Viln
     oszacowany 00. Franciszkanów Litew­
     skich. Wilno 1740 in 8vo, skyr. I.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -643,6 +1079,7 @@ M. Strijkovskis žinių bazėje pristatomas per jo kronikos liudijimus apie Viln
     niaus įkūrimą XIV amžiuje, likę pėdsakų, liudijančių tą mies­
     tą buvus jau XII amžiuje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -668,8 +1105,506 @@ M. Strijkovskis žinių bazėje pristatomas per jo kronikos liudijimus apie Viln
     kart ėmėsi Kęstutis, puldamas Vil-
     nių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
+
+## Citatos
+
+- id: c-157271
+  citata_originali: |
+    27
+    Stryjkowski,ed. Królewiec, 1.487
+    tą susirėmimą ir mūšį prie Vižūnų
+    laiko vienu ir tuo pačiu, kas priešta­
+    rauja tiesai. Taip pat nurodo, kad
+    prie Vilniaus kritę kunigaikščiai -
+    Jaunučio sūnus Simonas, Glebas
+    Sviatoslavovičius Smolenskiškis ir
+    Glebas Konstantinovičius Čartoris-
+    kis, kuo taip pat negalima būtų tvir­
+    tai tikėti, nes po penkerių metų, 1395
+    metais, vienas jų, būtent Smolensko
+    kunigaikštis Glebas Sviatoslayovi-
+    čius, vyriausiasis Sviatoslavo sūnų,
+    1 2 1
+
+    ## Puslapis 138
+
+    VILNIAUS MIESTO ISTORIJA J  TOMAS
+    dieną visos kryžiuočių ir Vytauto pajėgos susijungusios su­
+    stojo prie Vilniaus ir iš visų pusių aklinai apsupo miestą, o
+    daugybė laivų, iš Nemuno įplaukę į Viliją, gabeno didžiu­
+    les atsargas maisto ir karinę amuniciją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172936
+
+- id: c-157272
+  citata_originali: |
+    Strijkovskis klysta tvir­
+    tindamas, esą miškas lietuviškai va­
+    dinamas laukas ir nuo to žodžio
+    paėjęs Lukiškių pavadinimas.
+    6
+    „Buvo dar didžiulė menė, arba
+    šventovė, Antakalnyje, visų dievų,
+    kuriuos Lietuva, apgauta šėtoniš­
+    kų kerų, garbino; ten ketvirtadie­
+    nio vakarais dvasininkai visada
+    statydavo ir degindavo vaško žva­
+    kes/' Strijkovskis, Sk. IV, p. 400.
+  citata_rodoma: "6\n„Buvo dar didžiulė menė, arba \nšventovė, Antakalnyje, visų dievų, \nkuriuos Lietuva, apgauta šėtoniš­\nkų kerų, garbino; ten ketvirtadie­\nnio vakarais dvasininkai visada \nstatydavo ir degindavo vaško žva­\nkes/' Strijkovskis, Sk. IV, p. 400."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172922
+    - t-172939
+    - t-172925
+    - t-172934
+    - t-172924
+    - t-172943
+    - t-172923
+    - t-172944
+
+- id: c-157273
+  citata_originali: |
+    Vytautas, žlugus viltims, vėl buvo priverstas ieškoti
+    19
+    Visą tą pasakojimą perteikėme pa­
+    gal vieną aprašymą, kuris yra S1 a p t.
+    arch. fol. E., p. 54 ap. F o i g t a s,
+    V, 534. Strijkovskis ir Koj e-
+    1  a v i č i u s apie tą gudrybę pana­
+    šiai mena, pridurdami, kad Vytau­
+    tas paleidęs gandą, esą atvykęs į Vil­
+    nių rengti savo sesers Ringailės
+    vestuvių su Mazovijos kunigaikščiu
+    Henriku iškilmių, kas panašiau į tie­
+    są negu tai, apie ką bylojäma aukš­
+    čiau nurodytame vokiečių aprašy­
+    me, esą turėjęs savo dukterį Sofiją
+    ištekinti už Mazovijos didžiojo ku­
+    nigaikščio. Jogaila tam pasipriešino,
+    tad šia dingstimi negalima buvo į
+    Vilnių vykti. Tie patys metraštinin­
+    kai pasakoja, kad 300 vežimų, įvai­
+    rios žvėrienos prikrauti, atvažiavę į
+    miestą ir kad Vytauto bajorai suva­
+    žiavę į miestą iš įvairių pusių, bet
+    vienas jų, matyt, išdavęs paslaptį, o
+    apie Sudimantą nėra užsiminta.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172930
+
+- id: c-157274
+  citata_originali: |
+    Prancūzams ir kitiems kariams vadovavo narsusis
+    riteris Boucicaut24. Prie Kauno su jais susijungė, be Žemai-
+    23
+    Strijkovskis apsirinka nurody­
+    damas, esą Lankasteris, Anglijos ka­
+    raliaus Henriko sūnus, su didžiulė­
+    mis anglų, škotų bei prancūzų ir 1.1,
+    pajėgomis įsibrovė į Lietuvą. Nebu­
+    vo apie 1390 metus jokio Henriko
+    Anglijos soste, o viešpatavo anuo
+    tarpu Ričardas II, ir prie Vilniaus bu­
+    vojo ne kas kitas, tik Henrikas Lan­
+    kasteris, pirm Derbio grafas, vėliau
+    žinomas kunigaikščio Herfordo var­
+    du, Jono de Gando, Lankasterio ku­
+    nigaikščio, Ričardo dėdės, sūnus.
+  citata_rodoma: "Prie Kauno su jais susijungė, be Žemai-\n23\nStrijkovskis apsirinka nurody­\ndamas, esą Lankasteris, Anglijos ka­\nraliaus Henriko sūnus, su didžiulė­\nmis anglų, škotų bei prancūzų ir 1.1, \npajėgomis įsibrovė į Lietuvą. Nebu­\nvo apie 1390 metus jokio Henriko \nAnglijos soste, o viešpatavo anuo \ntarpu Ričardas II, ir prie Vilniaus bu­\nvojo ne kas kitas, tik Henrikas Lan­\nkasteris, pirm Derbio grafas, vėliau \nžinomas kunigaikščio Herfordo var­\ndu, Jono de Gando, Lankasterio ku­\nnigaikščio, Ričardo dėdės, sūnus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172937
+
+- id: c-157275
+  citata_originali: |
+    Vienas tik Sudimantas, lietuvių vadas, sučiuptas per
+    puolimą, tapo tarsi koks atpildas prūsams už triūsą ir išlai­
+    das, dykai eikvotas, tad gavę progą pagiežą išlieti, atsigriebė
+    nuteisdami jį pakarti kaip išdaviką. Vilniaus apylinkės, ke­
+    turių mylių nuotoliu buvo priešo ligi paskutiniųjų nunio­
+    kotos, ir tik tada didysis magistras įsakė trauktis. Tačiau
+    atsitraukiant jo laukė nauji pavojai: mat jų kariaunai pri­
+    siartinus prie Strėvos upės Trakų paviete, tankiame miške
+    iš pasalų juos apsupo žemaičių būriai ir, prikirtę medžių,
+    54
+    Stryjkowski, p. 464, aiškiai
+    nurodo, kad Švitrigaila pilies užėmi­
+    mo dėlei turėjo būti pasinaudojęs ru­
+    sų vienuolių, vadintų „čiornais", iš­
+    davyste; tačiau čia ateina į galvą
+    mintis, kad „čiornų" (prasčiokai)
+    vardu buvo vadinama ir rusų gyven­
+    tojų prastuomenė, kurių nemažai
+    anuomet buvo Vilniuje.
+  citata_rodoma: "Vilniaus apylinkės, ke­\nturių mylių nuotoliu buvo priešo ligi paskutiniųjų nunio­\nkotos, ir tik tada didysis magistras įsakė trauktis. Tačiau \natsitraukiant jo laukė nauji pavojai: mat jų kariaunai pri­\nsiartinus prie Strėvos upės Trakų paviete, tankiame miške \niš pasalų juos apsupo žemaičių būriai ir, prikirtę medžių,\n54\nStryjkowski, p. 464, aiškiai \nnurodo, kad Švitrigaila pilies užėmi­\nmo dėlei turėjo būti pasinaudojęs ru­\nsų vienuolių, vadintų „čiornais\", iš­\ndavyste; tačiau čia ateina į galvą \nmintis, kad „čiornų\" (prasčiokai) \nvardu buvo vadinama ir rusų gyven­\ntojų prastuomenė, kurių nemažai \nanuomet buvo Vilniuje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172916
+
+- id: c-157276
+  citata_originali: |
+    Dabartinis
+    iš tiesų visiškai skiriasi nuo pirmes-
+    niojo, kurio klaidas stengėmės ištai­
+    syti, remdamiesi naujais, vėliau ap­
+    tiktais šaltiniais, būtent: F o i g t o
+    naujai išleistos Prūsijos istorijos T. V
+    ir pastabomis, kurias mums itin ge­
+    ranoriškai pareiškė mokslininkas
+    Lietuvos istorijos žinovas Ignacas
+    Onacevičius.
+    22
+    Miechovita, Strijkovskis
+    ir K o j e 1 a v i č i u s klysta sakyda­
+    mi, esą žygio vadovavimas buvo pa­
+    vestas Konradui Valenrodui, kurį
+    jau tuo metu vadina didžiuoju ma­
+    gistru, kai Konradas Valenrodas
+    1382 metais, sekmadienį prieš Šv.
+    Mykolą paskirtas Ordino didžiuoju
+    maršalu, 1387 metais per Apreiški­
+    mo Marijai šventę tapo didžiuoju
+    komtūru arba arkikomtūru, 1390
+    rugpjūčio 15 d., po didžiojo magistro
+    Konrado Ciolnerio fon Rotenšteino
+    mirties, - ir didžiojo magistro vieti­
+    ninku, iki pat kapitulos suvažiavi­
+    mo, ir tik 1391 m. kovo 12 d. išrink­
+    tas didž. magistru; mirė 1393 m.
+    liepos 25 d.
+  citata_rodoma: "22\nMiechovita, Strijkovskis \nir K o j e 1 a v i č i u s klysta sakyda­\nmi, esą žygio vadovavimas buvo pa­\nvestas Konradui Valenrodui, kurį \njau tuo metu vadina didžiuoju ma­\ngistru, kai Konradas Valenrodas \n1382 metais, sekmadienį prieš Šv. \nMykolą paskirtas Ordino didžiuoju \nmaršalu, 1387 metais per Apreiški­\nmo Marijai šventę tapo didžiuoju \nkomtūru arba arkikomtūru, 1390 \nrugpjūčio 15 d., po didžiojo magistro \nKonrado Ciolnerio fon Rotenšteino \nmirties, - ir didžiojo magistro vieti­\nninku, iki pat kapitulos suvažiavi­\nmo, ir tik 1391 m. kovo 12 d. išrink­\ntas didž. magistru; mirė 1393 m. \nliepos 25 d."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172920
+
+- id: c-157277
+  citata_originali: |
+    35
+    Stryjkowski loco cit., plačiai
+    aprašinėdamas Vilniaus apgultį,
+    taip svarsto apie Moskoževskio gy­
+    nybą Aukštutinėje pilyje: „Aukštu­
+    tinę pilį lenkai su Vilniaus seniūnu
+    Mikalojumi Moskorovskiu narsiai
+    gynė, tad nei padegdami Žemutinę
+    pilį, nei grasinimais kiršindami, nei
+    rodydami kunigaikščio Karigailos
+    galvą, nei nuožmiai ir staigiai pul­
+    dami į ataką, nei be paliovos šaudy­
+    dami iš patrankų, kurios didesnę da­
+    lį mūro sienų pramušė ir sugriovė,
+    neprivertė pasiduoti. O bijodami iš­
+    davystės, iš savųjų tarpo galinčios
+    rastis, rusus ir įtartinus žmones iš­
+    vijo iš pilies, patys narsiai gynėsi, o
+    vokiečius, dieną ir naktį atakuojan­
+    čius, atremdami, tas vietas, kur mū­
+    rai nuo nuolatinio šaudymo griuvo,
+    žeme ir mėšlu užtaisydavo ir galvi­
+    jų oda, taip pat maišais, prikimštais
+    vilnų, dangstė, ir taip vokiečių pa­
+    trankų šūvių išvengdavo, pagaliau
+    kūnais savo dengdami pramuštas
+    angas, stojo prieš pašėlusiai puolan­
+    čius ir atkakliai į pilį besibraunan­
+    čius priešus ir stūmė rąstais, basliais,
+    ginė akmenimis ir aliojimais nuo ap­
+    griauto mūro viršaus, o vokiečiai
+    kūlversčiais lėkė žemyn, talžyte su-
+    talžyti, tarsi sviediniai, o kiti žiau­
+    riai sulaužytomis rankomis, kojo­
+    mis, suknežintais sprandais, pirm
+    nei nuriedėjo į apačią, mirė."
+    36
+    Długosz Histor.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172941
+
+- id: c-157278
+  citata_originali: |
+    Nuo neat­
+    menamų laikų ten buvo kunigaikščių pilis, kuri vėliau do­
+    vanota Viršilų giminei, paskui perėjo Glebavičių paveldui,
+    po jų tapo jėzuitų nuosavybe, pagaliau atiteko Vilniaus uni­
+    versitetui. To dvaro lankose iki šiol dunkso pilkapis, arba
+    lietuvių sumuštų kryžiuočių kapavietė, prie Sudervėlės upe­
+    lio; apie pastarąjį mūšį užsimena Strijkovskis. XVI amžiaus
+    pradžioje tame kaime buvo gausiau negu dabar gyventojų,
+    šis tas iš technikos, tarp kurių - malūnas, kalvė ir lentpjūvė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172931
+
+- id: c-157279
+  citata_originali: |
+    20
+    G r z y b o w s k i, Sk. XI, 1. 90. Anot
+    kitų padavimų, Goštautas pastaty­
+    dinęs Šv. Petro bažnyčią Antakalny­
+    je, pagonių šventyklos vietoje, kurią
+    mini Strijkovskis (Sk. IV, 1.400).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172927
+
+- id: c-157280
+  citata_originali: |
+    Jono bažnyčia, o Ant­
+    akalnyje, kaip tik ten, kur dabar Šv. Petro bažnyčia, buvo iš­
+    kilusi medinė šventovė, visiems lietuvių dievams pašvęsta6.
+    tovė Laukai-kišas-upys, vėliau išvir­
+    to į Lukiškes. Strijkovskis klysta tvir­
+    tindamas, esą miškas lietuviškai va­
+    dinamas laukas ir nuo to žodžio
+    paėjęs Lukiškių pavadinimas.
+  citata_rodoma: "Petro bažnyčia, buvo iš­\nkilusi medinė šventovė, visiems lietuvių dievams pašvęsta6.\ntovė Laukai-kišas-upys, vėliau išvir­\nto į Lukiškes. Strijkovskis klysta tvir­\ntindamas, esą miškas lietuviškai va­\ndinamas laukas ir nuo to žodžio \npaėjęs Lukiškių pavadinimas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172940
+
+- id: c-157281
+  citata_originali: |
+    Betgi po Vilniaus pilių įkūrimo, kai Vilnius jau tapo mies­
+    tu ir Algirdo sostine, kai kurių autorių dvasininkų1  many­
+    mu, Podolės vaivada ir pranciškonų vienuolynų Vilniuje
+    steigėjas Goštautas, arba tiksliau Gastowdas, esą paskui pats
+    tapęs vienuoliu ir pagaliau pirmuoju Vilniaus vyskupu. Bet­
+    gi Strijkovskio apie tai nė žodžiu nėra užsiminta, o jis, žinia,
+    i
+    Grzybowski knygoje Skarb
+    nieoszacowany O O. Franciszkanów.
+    189
+
+    ## Puslapis 206
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    savo Kronikoje nebūtų tos aplinkybės nutylėjęs, jeigu ji tik
+    būtų tikra, taigi tą, tikriausiai Gžibovskio prasimanytą,
+    Goštauto tariamą vienuolystę ir vyskupystę, atmeta.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172914
+
+- id: c-157282
+  citata_originali: |
+    Gedimi­
+    nas narsiai gynėsi, bet krito pakirstas kryžiuočio Tilemanno
+    Zunpacho, šaulių vado, ugninio šūvio, buvo sužeistas tarp
+    kaklo ir mentikaulio ir netrukus mirė, o jo kariauna buvo
+    išvaikyta*. Nors Strijkovskis yra pasakęs, kad Gedimino pa­
+    laikai buvo atvežti į Vilnių ir iškilmingai palaidoti, betgi,
+    žinodami apie Veliuonoje iki šiol esančią kapavietę Gedi­
+    mino kalne, manytume greičiau jį esant čia palaidotą. Rau­
+    donė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot
+    Kai dėl rūšies ginklo, nuo kurio žuvo
+    Gediminas: Dlugošas Lib.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172935
+
+- id: c-157284
+  citata_originali: |
+    Šitaip Kryžiuočių ordino kruvina politika
+    34
+    Strijkovskis prie nukautų tos
+    apsupties metu priskiria Nariman­
+    tą, įdėdamas šį D 1  u g o š o prasi­
+    manytą pasakojimą: „Narimantas,
+    Pinsko kunigaikštis, Jogailos tikras
+    brolis, tuo metu, kai narsiai abi pilis
+    su Lietuva ir Rusia gindamas ėjo į
+    pagalbą nuo vienų prie kitų, buvo
+    kažkokio vokiečio riterio, ne pras­
+    čioko, iš Vytauto pusės, iškviestas
+    stoti vienas prieš vieną, o kai abu iš
+    mūšio lauko atjoję į pievą narsiai su­
+    kryžiavo ietis, ir pats Narimantas,
+    nuo žirgo nublokštas, buvo sučiup­
+    tas ir atvestas pas Vytautą, pastara­
+    sis aną be gailesčio įsakė už kojų ant
+    vinkšnos šakos pakarti lankoje, tarp
+    vokiečių patrankų ir šaudyklių, o
+    patį mirtinai iš lanko paleista strėle
+    pervėrė, pamindamas deramas pus­
+    broliui, riteriui kunigaikščiui, prie­
+    dermes/7  Knyga XIII, p. 455, Varš.
+    leid. Tatai yra tiesiog pažodinis D1 u-
+    g o š o, Lib. X, p. 129 vertimas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172942
+
+- id: c-157285
+  citata_originali: |
+    Tuo
+    pačiu aktu Vilniaus vyskupas savo
+    stalui gavo dešimtą žuvį, kad ir ko­
+    kios būtų rūšies, iš didžiojo kuni­
+    gaikščio tvenkinių Nemune.
+    13
+    Šv. Martyno bažnyčia jau XVI am­
+    žiuje buvo apleista ir sugriauta: mi­
+    ni apie tai ir pats Strijkovskįs savo
+    kronikoje, p. 479: „Dabar, kaip ma­
+    tome, sunyko ir sugriuvo, tiktai prie
+    Plikojo kalno puikaus pastato ir su­
+    griuvusių skliautų žymės dunkso/'
+    14
+    Ne tik Šv.
+  citata_rodoma: "13\nŠv. Martyno bažnyčia jau XVI am­\nžiuje buvo apleista ir sugriauta: mi­\nni apie tai ir pats Strijkovskįs savo \nkronikoje, p. 479: „Dabar, kaip ma­\ntome, sunyko ir sugriuvo, tiktai prie \nPlikojo kalno puikaus pastato ir su­\ngriuvusių skliautų žymės dunkso/'\n14\nNe tik Šv."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172913
+    - t-172929
+    - t-172919
+    - t-172918
+    - t-172938
+    - t-172926
+    - t-172915
+    - t-172921
+
+- id: c-157286
+  citata_originali: |
+    7
+    Šventaragio vardo kilmę aiškina
+    Stryjkowski savo kronikoje kn.
+    VIII, p. 345-348; Kojałowicz,
+    Hist. Lithu. Pars. I. lib. V, p. 138 ir
+    Grzybowski  knygoje Skarb nie-
+    oszacowany 00. Franciszkanów Litew­
+    skich. Wilno 1740 in 8vo, skyr. I.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172928
+
+- id: c-157287
+  citata_originali: |
+    48
+
+    ## Puslapis 65
+
+    I  KNYGA
+    Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­
+    čius' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­
+    dami įvykį, kuris galėjo būti tam vada. Anot jų, Gediminas,
+    po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­
+    dangino su visu guotu į Šventaragio slėnį, už keturių mylių
+    nuo Trakų, kur Vilnios upė įteka į Viliją. „Tad tenai Gedimi­
+    nas (Strijkovskio žodžiai), prie pasakojimais apipintų ugnia­
+    kurų, girioje tarpu kalnų, kuriuos dabar Plikaisiais vadina,
+    medžiodamas, be daugybės kitų žvėrių, pats strėle iš kilpi­
+    nės pašovė didžiulį taurą ir pribaigė jį ant to kalno, kur dabar
+    Vilniaus Aukštutinė pilis - pastarąjį kalną ir dabar Tauro kal­
+    nu vadina, o to tauro kailį ir ragus, auksu aptaisytus, su ver­
+    tingomis brangenybėmis ilgai ižde saugojo, net iki Vytauto
+    laikų, o Vytautas, kuris paprastai dideliuose susiėjimuose ir
+    svetimšalių pasiuntinių priėmimuose iš tų ragų gerdavo, vie­
+    ną jų tad kaip didžią dovaną kartą garbingame valdovų ir
+    kunigaikščių suvažiavime Lucke 1429 metais įteikė Romos
+    imperatoriui Vengrijos karaliui Zigmantui/7  ir t. t. Gedimi­
+    nas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne
+    regėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­
+    vęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų. Liz­
+    deika, vyriausiasis žynys, paklaustas, ką reiškia šitas sapnas,
+    išaiškino didžiajam kunigaikščiui, kad regėti vilką, geležimi
+    apkaustytą, yra ženklas, jog čia būsianti pastatyta pilis ir Lie­
+    tuvos valstybės sostinė, o šimtas kitų vilkų - jo galią ir didy­
+    bę žymi, apie kurią garsas skilsiąs po visas pasaulio šalis. Toks
+    šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­
+    kas sudėjus, ant Tauro kalno pastatydinti Aukštutinę mūro
+    pilį, o kitą - kalno papėdėje, slėnyje, - medinę, kurią pavadi­
+    no Vilniumi pagal Vilnios upės vardą.
+    h i
+    XI Knyga, sk. 4,1. 396. Hist. Lit. Pars. I. lib. VII, p. 262.'
+    49
+
+    ## Puslapis 66
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Nors yra toks mūsų kronikininko pasakojimas apie Vil­
+    niaus įkūrimą XIV amžiuje, likę pėdsakų, liudijančių tą mies­
+    tą buvus jau XII amžiuje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172933
+
+- id: c-157288
+  citata_originali: |
+    Strijkovskis ir Koje-
+    1  a v i č i u s supainiojo Andrių, Al­
+    girdo sūnų, su Vaidotu, Kęstučio sū­
+    numi, todėl radosi jų minimas
+    Andrius Vaidotas, Kęstučio sūnus,
+    Polocko kunigaikštis - visai išgalvo­
+    tas. Andrius žuvo prie Vorsklos 1399
+    metais.
+    31
+    Strijkovskis, 1.465, o juo sekda­
+    mas ir K o j e 1  a v i č i u s, p. 361,
+    plačiai aprašo, kokių gudrybių tą­
+    kart ėmėsi Kęstutis, puldamas Vil-
+    nių.
+  citata_rodoma: "31\nStrijkovskis, 1.465, o juo sekda­\nmas ir K o j e 1  a v i č i u s, p. 361, \nplačiai aprašo, kokių gudrybių tą­\nkart ėmėsi Kęstutis, puldamas Vil- \nnių."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172932

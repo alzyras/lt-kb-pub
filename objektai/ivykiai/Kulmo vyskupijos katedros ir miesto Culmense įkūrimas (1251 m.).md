@@ -23,6 +23,18 @@ tags:
 amziai:
   - 'XIII'
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kulmo vyskupijos katedros ir miesto Culmense įkūrimas (1251 m.)
 
@@ -51,10 +63,22 @@ Nenurodyta
 <a id="claim-t-59552"></a>
 - t-001
   global_id: t-59552
-  teiginys: '1251 m. Culmense vietovėje įkurta Kulmo vyskupijos katedra ir miestas Culmense.'
+  teiginys: "1251 m. Culmense vietovėje įkurta Kulmo vyskupijos katedra ir miestas Culmense."
+  temporaliniai_duomenys: "įvykio data: 1222 m.; įvykio data: 1246 m.; įvykio data: 1248 m.; įvykio data: 1251 m.; įvykio data: 1276 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs ir perkrautas nuorodomis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "182989-183727; hash=59236d8d1c6fa17373f3a90745a6b5134ed43e6696aa1287e5ee1b532e1355da; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kulmas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kulmo vyskupijos katedros ir miesto Culmense įkūrimas (1251 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Kulmas: mention_match, place, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kulmo vyskupijos katedros ir miesto Culmense įkūrimas (1251 m.)\" parinktas kaip owner_note_path. Targetas \"Kulmas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-60184
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -71,8 +95,29 @@ Nenurodyta
     Culmense (ten pat, Nr. 348, p. 234), Colmenzehe (1278 m., ten pat, Nr. 366, p. 250),
     Culmense (1306 m., ten pat. Nr. 860, p. 544; žr. SZCh, p. 21—22).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-60184
+  citata_originali: |
+    Per 20 km  į šiaurę nuo Torunės yra Chelmža (Kulmsee), miestas prie to pat vardo
+    ežero (Kulms See, dab. Chełmżyńskie jezioro). Gyvenvietė minima 1222 m. dokumente
+    Lozos vardu (PUB, 1, 1, Nr. 41, p. 29); 1246 m. dokumente rašoma, kad prie Lozos
+    kaimo (villa) esąs ežeras: Loza cum stagno (ten pat. Nr. 182, p. 133). 1248 m. vietovė
+    jau vadinama Culmense (UBC, 1, 1, Nr. 18, p. 7), 1251 m. čia įkuriama Kulmo vyskupijos
+    katedra ir miestas Culmense (PUB, 1, 1, Nr. 250, p. 180; UBC, 1, 1, Nr. 29, p. 16—18);
+    vėlesniuose dokumentuose figūruoja Culmense (1276 m., PUB, 1, 2, Nr. 340, p. 229),
+    Culmense (ten pat, Nr. 348, p. 234), Colmenzehe (1278 m., ten pat, Nr. 366, p. 250),
+    Culmense (1306 m., ten pat. Nr. 860, p. 544; žr. SZCh, p. 21—22).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-59552

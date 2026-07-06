@@ -5,6 +5,18 @@ saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # vėdliai
 
@@ -24,13 +36,15 @@ Vartojamos formos: `vėdliais`, `vėdlių`.
 ## Teiginiai
 
 <a id="claim-t-07657"></a>
-- t-001
+- t-002
   global_id: t-07657
-  teiginys: '`Vėdliai` šiame tekste reiškia jaunojo vestuvių palydą.'
+  teiginys: "`Vėdliai` šiame tekste reiškia jaunojo vestuvių palydą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  saltinio_vieta: "115037-115209; hash=da93356c2c06e853de962f0457042f9c4fa4e3733aebdc390d8cd028e2b0df22; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   pagrindžia:
-    - c-001
-    - c-002
-
+    - c-09589
+    - c-09590
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -38,8 +52,9 @@ Vartojamos formos: `vėdliais`, `vėdlių`.
   citata_originali: |
     Atėjus trečiajai ar ketvirtajai dienai, kartais ir šeštajai dienai, sutemus naktį ėmė vėdliai marčią martuoti, beje, į kelią rėdyti; taip pradeda tuo kartu jaunąją vadinti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -49,8 +64,33 @@ Vartojamos formos: `vėdliais`, `vėdlių`.
   citata_originali: |
     Visi tie jaunojo svečiai vadinos vėdliais nuo to, jog keliavo parvėdlauti savo jaunajam žmoną.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-09589
+  citata_originali: |
+    Atėjus trečiajai ar ketvirtajai dienai, kartais ir šeštajai dienai, sutemus naktį ėmė vėdliai marčią martuoti, beje, į kelią rėdyti; taip pradeda tuo kartu jaunąją vadinti.
+  citata_rodoma: "Atėjus trečiajai ar ketvirtajai dienai, kartais ir šeštajai dienai, sutemus naktį ėmė vėdliai marčią martuoti, beje, į kelią rėdyti; taip pradeda tuo kartu jaunąją vadinti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-07657
+
+- id: c-09590
+  citata_originali: |
+    Visi tie jaunojo svečiai vadinos vėdliais nuo to, jog keliavo parvėdlauti savo jaunajam žmoną.
+  citata_rodoma: "Visi tie jaunojo svečiai vadinos vėdliais nuo to, jog keliavo parvėdlauti savo jaunajam žmoną."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-07657

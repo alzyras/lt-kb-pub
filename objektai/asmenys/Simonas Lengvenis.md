@@ -9,11 +9,6 @@ datos:
   - '1348 m.'
 date_start: '1348'
 date_end: ''
-description: 'Simonas Lengvenis – Algirdo sūnus, Lietuvos kunigaikštis, minimas tarp Vytauto pavaduotojų kariuomenėje ir siejamas su Naugardu.'
-socialDescription: 'Simonas Lengvenis šaltiniuose minimas kaip Algirdo sūnus, Lietuvos kunigaikštis, Vytauto kariuomenės pavaduotojas ir su Naugardu bei Mstislavliu siejama figūra.'
-seo_atnaujinta: '2026-07-02T21:03:54.609730+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -24,42 +19,125 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Simonas Lengvenis (valdovas, XIV a.)
 
 ## Santrauka
 
-Simonas Lengvenis minimas kaip Lietuvos kunigaikštis, Algirdo sūnus, Rusios ir Ladogos kunigaikštis. Šaltinių citatose jis siejamas su Didžiojo Naugardo valdžia po Patriko, o 1348 m. minima ankstesnė Narimanto valdžia. Lietuvos kariuomenėje Simonas Lengvenis buvo vienas iš Vytauto pavaduotojų kartu su Albertu Manvydu ir Žygimantu Kaributaičiu; paleidus kariuomenę jis grįžo į Mstislavlį.
+Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
 
 ## Teiginiai
 
 <a id="claim-t-82662"></a>
-- t-001
+- t-002
   global_id: t-82662
-  teiginys: 'Simonas Lengvenis citatoje vadinamas Lietuvos kunigaikščiu, Algirdo sūnumi ir Rusios bei Ladogos kunigaikščiu.'
+  teiginys: "Simonas Lengvenis citatoje vadinamas Lietuvos kunigaikščiu, Algirdo sūnumi ir Rusios bei Ladogos kunigaikščiu."
+  semantiniai_rysiai: "Simonas Lengvenis (valdovas, XIV a.) buvo sūnus Algirdas (Lietuvos valdovas) (0.95); Simonas Lengvenis (valdovas, XIV a.) buvo valdovas Lietuva (0.82)"
+  temporaliniai_duomenys: "įvykio data: iki 1348 m.; įvykio data: 1348 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "280723-281252; hash=e7133d3e86f66734b69a9eef28a64b4a2dddeb9c0fe2efac0985d84a99860754; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Algirdas (Lietuvos valdovas): 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Simonas Lengvenis (valdovas, XIV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Simonas Lengvenis buvo Algirdo sūnus."
   pagrindžia:
-    - c-002
+    - c-79125
 
 <a id="claim-t-82663"></a>
-- t-002
+- t-001
   global_id: t-82663
-  teiginys: 'Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.'
+  teiginys: "Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "231545-231837; hash=6ab745a985855bb1510316b5820f4ec2428c11910983d59632932e549bb404de; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lengvenis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Simonas Lengvenis (valdovas, XIV a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lengvenis: mention_match, person, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Simonas Lengvenis (valdovas, XIV a.)\" parinktas kaip owner_note_path. Targetas \"Lengvenis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-79124
 
 <a id="claim-t-82664"></a>
 - t-003
   global_id: t-82664
-  teiginys: 'Simonas Lengvenis, Algirdo sūnus, po Patriko tapo Didžiojo Naugardo valdovu arba vaivada.'
+  teiginys: "Simonas Lengvenis, Algirdo sūnus, po Patriko tapo Didžiojo Naugardo valdovu arba vaivada."
+  semantiniai_rysiai: "Simonas Lengvenis (valdovas, XIV a.) buvo sūnus Algirdas (Lietuvos valdovas) (0.95)"
+  temporaliniai_duomenys: "įvykio data: iki 1348 m.; įvykio data: 1348 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia Lengvenio kilmę ir jo valdžios perėmimą po Patriko."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "280723-281252; hash=e7133d3e86f66734b69a9eef28a64b4a2dddeb9c0fe2efac0985d84a99860754; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Algirdas (Lietuvos valdovas): 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Simonas Lengvenis (valdovas, XIV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai įvardija Simoną Lengvenį Algirdo sūnumi."
   pagrindžia:
-    - c-002
+    - c-79125
+
+<a id="claim-t-183761"></a>
+- t-004
+  global_id: t-183761
+  teiginys: "Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "231485-231789; hash=80e4737d37ab0827132abecdeb9e06e6a400c3466476e71f2fb7c95c3810a88b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lengvenis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Simonas Lengvenis (valdovas, XIV a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lengvenis: mention_match, person, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Simonas Lengvenis (valdovas, XIV a.)\" parinktas kaip owner_note_path. Targetas \"Lengvenis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-167149
 
 <a id="claim-t-184825"></a>
 - t-005
   global_id: t-184825
-  teiginys: 'Paleidus kariuomenę Simonas Lengvenis grįžo į Mstislavlį.'
+  teiginys: "Paleidus kariuomenę Simonas Lengvenis grįžo į Mstislavlį."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Simonas Lengvenis (valdovas, XIV a.) keliavo į Mstislavlis (0.84)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "497571-498156; hash=34b47d9be10477bf4a60034a36224ffbff8ebdfbfbf4f727dd31fd1d1da4df4b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Mstislavlis: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Simonas Lengvenis (valdovas, XIV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Mstislavlis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Sakinio konstrukcija nurodo grįžimo kryptį: Simonas Lengvenis į Mstislavlį."
   pagrindžia:
-    - c-004
+    - c-168186
 - susijęs iš [[objektai/asmenys/Albertas Manvydas.md#claim-t-183723|Albertas Manvydas]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
 - susijęs iš [[objektai/asmenys/Albertas Manvydas.md#claim-t-39992|Albertas Manvydas]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
 - susijęs iš [[objektai/asmenys/Dimitras Kaributas.md#claim-t-184691|Dimitras Kaributas]]: Sutramdžius Rusią, Dimitras Kaributas buvo pasiųstas į Severską, kad iš tos pusės nekiltų naujų sąmyšių.
@@ -84,8 +162,9 @@ Simonas Lengvenis minimas kaip Lietuvos kunigaikštis, Algirdo sūnus, Rusios ir
     Lenkai turėjo nemažai sunkiosios kavale-
     rijos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -110,6 +189,7 @@ Simonas Lengvenis minimas kaip Lietuvos kunigaikštis, Algirdo sūnus, Rusios ir
     Algirdo sūnus: žr. D a n i L, Kronika
     Ruška pr 206.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -135,6 +215,7 @@ Simonas Lengvenis minimas kaip Lietuvos kunigaikštis, Algirdo sūnus, Rusios ir
 
     ir ginkluote buvo panaši į kryžiuočių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -161,11 +242,108 @@ Simonas Lengvenis minimas kaip Lietuvos kunigaikštis, Algirdo sūnus, Rusios ir
     štį
     ti į puolantį priešą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
+## Citatos
+
+- id: c-79124
+  citata_originali: |
+    Vytauto pavaduotojais Lietuvos ka-
+    riuomenėje buvo Vilniaus seniūnas
+    Albertas Manvydas, kunigaikščiai Simo-
+    nas Lengvenis ir Žygimantas Kaributaitis.
+
+    Lenkijos kariuomenė
+
+    Lenkijos kariuomenė organizavimu
+
+    ir ginkluote buvo panaši į kryžiuočių.
+    Lenkai turėjo nemažai sunkiosios kavale-
+    rijos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82663
+
+- id: c-79125
+  citata_originali: |
+    V,
+    135. Bet, regis, visa tai yra prasima­
+    nymas. Bent jau apie Narimantą kal­
+    bant, pirmiausia, Dlugošas, žinia,
+    apsirinka jį prie Algirdo brolių pri­
+    skirdamas, ir žinome iš Rusios met­
+    raštininkų, kad jis Didįjį Naugardą
+    valdęs iki 1348 m.; o po jo ten val­
+    džią perėmęs jo sūnus Patrikas, ar­
+    ba Patricijus; po pastarojo tapo val­
+    dovu, arba Žečpospolitos vaivada,
+    ir Rusios bei Ladogos kunigaikštis
+    Simonas Lungvinas, arba tiksliau
+    Lengvenis, Lietuvos kunigaikštis,
+    Algirdo sūnus: žr. D a n i L, Kronika
+    Ruška pr 206.
+  citata_rodoma: "; o po jo ten val­\ndžią perėmęs jo sūnus Patrikas, ar­\nba Patricijus; po pastarojo tapo val­\ndovu, arba Žečpospolitos vaivada,\nir Rusios bei Ladogos kunigaikštis\nSimonas Lungvinas, arba tiksliau\nLengvenis, Lietuvos kunigaikštis,\nAlgirdo sūnus: žr."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82662
+    - t-82664
+
+- id: c-167149
+  citata_originali: |
+    Anot metraštininko, ji buvo drausminga ir
+    gerai ginkluota.
+
+    Vytauto pavaduotojais Lietuvos ka-
+    riuomenėje buvo Vilniaus seniūnas
+    Albertas Manvydas, kunigaikščiai Simo-
+    nas Lengvenis ir Žygimantas Kaributaitis.
+
+    Lenkijos kariuomenė
+
+    Lenkijos kariuomenė organizavimu
+
+    ir ginkluote buvo panaši į kryžiuočių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183761
+
+- id: c-168186
+  citata_originali: |
+    Po šios per­
+    to karo vadas ir įkvėpėjas, buvo paimtas į nelaisvę ir
+    nusiųstas pas Jogailą, o visa Rusia sutramdyta. Kad nuo
+    tos pusės vėl nekiltų kokia sąmyšių banga, Boleslovas
+    Švitrigaila su nemaža įgula pasiliko Polocke, kitą ka­
+    riuomenę paleidus, Vytautas sugrįžo į Gardiną, Skir­
+    gaila į Trakus, Simonas Lengvenis į Mstislavlį, o į
+    Severską — Dimitras Kaributas. Jogaila, atsikratęs šio
+    karo rūpesčių ir nelaisvėn paimtą brolį Vingaudą iš­
+    siuntęs į Chencinų pilies kalėjimą, ryžtingiau ėmėsi
+    Su m u ša
+    S via to sla vą ,
+    S m o le n sk o  k u n ig a ik ­
+    štį
+    ti į puolantį priešą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184825
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

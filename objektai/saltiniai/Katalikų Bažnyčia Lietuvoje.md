@@ -15,6 +15,18 @@ tags:
   - vyskupas
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Katalikų Bažnyčia Lietuvoje
 
@@ -27,10 +39,21 @@ Aleknos «Katalikų Bažnyčia Lietuvoje » (1936) parodė jo sugebėjimą šalt
 <a id="claim-t-31761"></a>
 - t-001
   global_id: t-31761
-  teiginys: 'A. Aleknos „Katalikų Bažnyčia Lietuvoje“ 1936 m. liudijo autoriaus gebėjimą kritiškai ir objektyviai vertinti šaltinius.'
+  teiginys: "A. Aleknos „Katalikų Bažnyčia Lietuvoje“ 1936 m. liudijo autoriaus gebėjimą kritiškai ir objektyviai vertinti šaltinius."
+  temporaliniai_duomenys: "įvykio data: 1911 m.; įvykio data: 1936 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "167694-168086; hash=df6d034b72a3d41d5608c62ae8c39998fdecf62bdceddff05b4f18ec43b03913; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Katalikų Bažnyčia Lietuvoje: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Katalikų Bažnyčia Lietuvoje\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-33606
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,8 +67,28 @@ Aleknos «Katalikų Bažnyčia Lietuvoje » (1936) parodė jo sugebėjimą šalt
     kurijos archyvine medžiaga, jis išleido « Žemaičiu vysk. M. Valan­
     čius » (1923) 81a.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33606
+  citata_originali: |
+    Jau 1911 m. jis išleido «Lietuvos istoriją»,
+    jos platesniajam leidimui, ketvirtam iš eilės (1923), panaudodamas
+    daugiau šaltinių ir mokslinių tyrinėjimų. A. Aleknos «Katalikų
+    Bažnyčia Lietuvoje » (1936) parodė jo sugebėjimą šaltinius kritiškai
+    ir objektyviai vertinti. Plačiai pasiremdamas Kauno vyskupijos
+    kurijos archyvine medžiaga, jis išleido « Žemaičiu vysk. M. Valan­
+    čius » (1923) 81a.
+  citata_rodoma: "A. Aleknos «Katalikų\nBažnyčia Lietuvoje » (1936) parodė jo sugebėjimą šaltinius kritiškai\nir objektyviai vertinti. Plačiai pasiremdamas Kauno vyskupijos\nkurijos archyvine medžiaga, jis išleido « Žemaičiu vysk."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31761

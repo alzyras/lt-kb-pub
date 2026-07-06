@@ -13,6 +13,18 @@ atnaujinta: ''
 amziai:
   - 'XI'
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Municipalinė teisėtvarka
 
@@ -36,26 +48,51 @@ Vartojama Europos, Kastilijos, Krokuvos ir kitų Lenkijos miestų teisinės raid
 ## Teiginiai
 
 <a id="claim-t-54792"></a>
-- t-001
+- t-003
   global_id: t-54792
-  teiginys: 'Teutonų teisė Lenkijos miestų kontekste siejama su atleidimu nuo duoklių, krašto teisės prievolių, sava teisėtvarka ir atskiru miesto valdymu.'
+  teiginys: "Teutonų teisė Lenkijos miestų kontekste siejama su atleidimu nuo duoklių, krašto teisės prievolių, sava teisėtvarka ir atskiru miesto valdymu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "40027-40612; hash=0a3246d645462fefd2ac56aa2c9e1fbae138002d2b129c91034dbc3dc4bd07d2; match=whitespace_regex"
+  sprendimo_priezastis: "gap::vocabulary"
+  ryšio_patikimumas: "susije_su -> Haličas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Municipalinė teisėtvarka: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Haličas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Municipalinė teisėtvarka\" parinktas kaip owner_note_path. Targetas \"Haličas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-55790
 
 <a id="claim-t-54793"></a>
-- t-002
+- t-001
   global_id: t-54793
-  teiginys: 'Municipaliniai liudijimai buvo miestų ir jų feodalinių valdovų taikos sutartys, kuriose miestai dažnai diktuodavo sąlygas.'
+  teiginys: "Municipaliniai liudijimai buvo miestų ir jų feodalinių valdovų taikos sutartys, kuriose miestai dažnai diktuodavo sąlygas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "30499-31141; hash=08daedd566da5fc07e41871402ec0f2fe873b02ee8690a02fb0b6ae1ea2abdf5; match=whitespace_regex"
+  sprendimo_priezastis: "gap::vocabulary"
   pagrindžia:
-    - c-002
+    - c-55791
 
 <a id="claim-t-54794"></a>
-- t-003
+- t-002
   global_id: t-54794
-  teiginys: 'Kastilijoje municipaliniai nuostatai buvo žinomi jau nuo 1020 m. ir beveik šimtmečiu aplenkė Prancūzijos miestų teisėtvarką.'
+  teiginys: "Kastilijoje municipaliniai nuostatai buvo žinomi jau nuo 1020 m. ir beveik šimtmečiu aplenkė Prancūzijos miestų teisėtvarką."
+  temporaliniai_duomenys: "įvykio data: po 1020 m.; įvykio data: 1020 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir paremtas citata apie Kastiliją ir Prancūziją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "31589-32275; hash=1643aa132bd80800c7db14462bb84442d74721b194cbe8e3cd5f5d23a448353f; match=whitespace_regex"
+  sprendimo_priezastis: "gap::vocabulary"
+  ryšio_patikimumas: "susije_su -> Prancūzija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Municipalinė teisėtvarka: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Prancūzija: mention_match, place, gap=81"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Municipalinė teisėtvarka\" parinktas kaip owner_note_path. Targetas \"Prancūzija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
-
+    - c-55792
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -72,8 +109,9 @@ Vartojama Europos, Kastilijos, Krokuvos ir kitų Lenkijos miestų teisinės raid
     miesto valdymą, jau buvo galingi ir reikšmingi vietinės civili­
     zacijos požiūriu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -93,8 +131,9 @@ Vartojama Europos, Kastilijos, Krokuvos ir kitų Lenkijos miestų teisinės raid
     dažniausiai nugalėtojai, tai yra miestai, diktuodavo sąlygas nu­
     galėtiems baronams.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -115,8 +154,74 @@ Vartojama Europos, Kastilijos, Krokuvos ir kitų Lenkijos miestų teisinės raid
     tilijoje, žinomi jau nuo 1020 metų, beveik vienu amžiumi ap­
     lenkė Prancūzijos miestų teisėtvarką.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-55790
+  citata_originali: |
+    Poznanė dar anksčiau už Krokuvą - 1253 metais,
+    Sandomiras - vėliau, 1286 metais, o Liublinas Vladislavo Lo­
+    ketkos laikais -1317 metais, ėmė tvarkytis pagal vokiečių miestų
+    teises. Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos -
+    1280 metais, pastatydintas Leono, Darnios iš Haličo sūnaus. Išsi­
+    laisvinę nuo nepakeliamos kašteliono valdžios, Lenkijos mies­
+    tai, sykiu su teutonų teise suvieniję atleidimą nuo įvairių duok­
+    lių ir krašto teisės prievolių, savo pačių teisėtvarką ir atskirą
+    miesto valdymą, jau buvo galingi ir reikšmingi vietinės civili­
+    zacijos požiūriu.
+  citata_rodoma: "Išsi­\nlaisvinę nuo nepakeliamos kašteliono valdžios, Lenkijos mies­\ntai, sykiu su teutonų teise suvieniję atleidimą nuo įvairių duok­\nlių ir krašto teisės prievolių, savo pačių teisėtvarką ir atskirą \nmiesto valdymą, jau buvo galingi ir reikšmingi vietinės civili­\nzacijos požiūriu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54792
+
+- id: c-55791
+  citata_originali: |
+    Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­
+    mės valdų savininkams metus klajoklišką gyvenimo būdą,
+    miestai iš tiesų įgavo daugiau jėgų ir darėsi veiklesni, tačiau
+    baronai, liovęsi kariauti ir plėšikauti, ėmė užpuldinėti pirklius
+    ir nuo pat X amžiaus pradžios savo žiauriais pasalūniškais iš­
+    puoliais žlugdė miestus. Šimtą metų tęsėsi vis aršesni ginčai
+    tarp tų dviejų luomų ir baigėsi miestų bendruomenių pergale
+    prieš jų feodalinius valdovus. Pastarųjų miestams suteikiami
+    municipaliniai liudijimai būdavo tik taikos sutartys, kur
+    dažniausiai nugalėtojai, tai yra miestai, diktuodavo sąlygas nu­
+    galėtiems baronams.
+  citata_rodoma: "Šimtą metų tęsėsi vis aršesni ginčai \ntarp tų dviejų luomų ir baigėsi miestų bendruomenių pergale \nprieš jų feodalinius valdovus. Pastarųjų miestams suteikiami \nmunicipaliniai liudijimai būdavo tik taikos sutartys, kur \ndažniausiai nugalėtojai, tai yra miestai, diktuodavo sąlygas nu­\ngalėtiems baronams."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54793
+
+- id: c-55792
+  citata_originali: |
+    Kitaip klostėsi Ispanijoje,
+    kur po maurų išvarymo Kastilijos bajorija į naujai pastatytus
+    arba iš saracėnų išvaduotus miestus kvietė krikščionis, kad juo­
+    se įsikūrę ateityje laiduotų šaliai saugumą nuo kitatikių. Ta­
+    čiau Kastilijos miestiečiai nepirkįnėjo iš savo ponų jokių privi­
+    legijų, jų kūrimosi pradžia buvo netgi garbingesnė: mat
+    Ispanijoje kūrėsi miestų municipalitetai ir, remiantis senuoju
+    vestgotų Kodeksu, pareigūnams buvo suteikiama ypatingų tei­
+    sių, vien tik norint sustiprinti gynybos priemones saugantis
+    nuo vis dar grėsmingų maurų. Municipaliniai nuostatai Kas­
+    tilijoje, žinomi jau nuo 1020 metų, beveik vienu amžiumi ap­
+    lenkė Prancūzijos miestų teisėtvarką.
+  citata_rodoma: "Ta­\nčiau Kastilijos miestiečiai nepirkįnėjo iš savo ponų jokių privi­\nlegijų, jų kūrimosi pradžia buvo netgi garbingesnė: mat \nIspanijoje kūrėsi miestų municipalitetai ir, remiantis senuoju \nvestgotų Kodeksu, pareigūnams buvo suteikiama ypatingų tei­\nsių, vien tik norint sustiprinti gynybos priemones saugantis \nnuo vis dar grėsmingų maurų. Municipaliniai nuostatai Kas­\ntilijoje, žinomi jau nuo 1020 metų, beveik vienu amžiumi ap­\nlenkė Prancūzijos miestų teisėtvarką."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54794

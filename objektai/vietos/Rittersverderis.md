@@ -16,6 +16,18 @@ tags:
   - valdovas
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Rittersverderis
 
@@ -26,25 +38,57 @@ amziai:
 ## Teiginiai
 
 <a id="claim-t-36552"></a>
-- t-001
+- t-003
   global_id: t-36552
-  teiginys: 'Jogailos pasiuntinys rado Vytautą Rittersverderyje rengiantį tolesnių žygių planus.'
+  teiginys: "Jogailos pasiuntinys rado Vytautą Rittersverderyje rengiantį tolesnių žygių planus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "391247-391495; hash=1cf193a5347c7a7c596c05de587aaa8489f26fdbbb0383e1d15866e27e8e4a36; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rittersverderis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rittersverderis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-38628
 
 <a id="claim-t-36553"></a>
 - t-002
   global_id: t-36553
-  teiginys: '1391 metų pabaigoje Vytautas ėmė telkti savo šalininkus į Rittersverderį iš kitų Ordino pilių.'
+  teiginys: "1391 metų pabaigoje Vytautas ėmė telkti savo šalininkus į Rittersverderį iš kitų Ordino pilių."
+  temporaliniai_duomenys: "įvykio data: 1391 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "133326-133755; hash=6f4bd30c501f9cef8fc0b3a3c1f4310f708b6605e3a540a912c20d4d698788dc; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vokiečiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rittersverderis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vokiečiai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rittersverderis\" parinktas kaip owner_note_path. Targetas \"Vokiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-38629
 
 <a id="claim-t-36554"></a>
-- t-003
+- t-001
   global_id: t-36554
-  teiginys: 'Jogailos pasiuntinys Henrikas buvo nusiųstas į Rittersverderį pas Vytautą.'
+  teiginys: "Jogailos pasiuntinys Henrikas buvo nusiųstas į Rittersverderį pas Vytautą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "132525-132932; hash=5ae05a5d7c60932dc0ef6a535a6ec2c58c0fe8d76d460e6905421f923587bd98; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Henrikas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rittersverderis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Henrikas: mention_match, author, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rittersverderis\" parinktas kaip owner_note_path. Targetas \"Henrikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-38627
 - susijęs iš [[objektai/asmenys/Henrikas (Mozūrų kunigaikštis).md#claim-t-63619|Henrikas (Mozūrų kunigaikštis)]]: Lenkijai atsidūrus sunkioje padėtyje, Mozūrų kunigaikštis Henrikas išvyko į Prūsus ir rado Vytautą Rittersverderyje.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176673|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas su lietuviais ir lenkais užklupo Rittersverderio pilį stačiusį magistrą ir ragino jį pasitraukti iš krašto.
 - susijęs iš [[objektai/daiktai/Rittersverderio pilis ir laikini įtvirtinimai.md#claim-t-87033|Rittersverderio pilis ir laikini įtvirtinimai]]: Didysis magistras, siekdamas atimti Vilnių iš Vytauto, vasarą už Nemuno ėmė statydinti ir stiprinti Rittersverderio pilį.
@@ -69,6 +113,7 @@ amziai:
     tautui visą tėvo ir dėdės palikimą, vadinas, didžiąją Lietuvos ku­
     nigaikštiją su Rusijos kraštais, kad tik jis taikintųsi.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -84,6 +129,7 @@ amziai:
     savo valdovo vardu Vytautui grįžti, žadėdamas jam grąžinti
     Lietuvą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -102,11 +148,64 @@ amziai:
     randant priežastį, jog norįs pasiųsti ją Lietuvon, varyti
     Ordino naudai propagandos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-38627
+  citata_originali: |
+    Tų pilių komtūrų klausiamas,
+    kuriais reikalais čia atvykęs, pareiškė norįs Lenkijos karaliaus
+    vardu pasimatyti su vokiečių magistru ir padaryti su juo pasto­
+    vią taiką^1 ). Šie pirma jį nusiuntė į Rittersverderį pas Vytautą.
+    Henrikas, pasinaudodamas proga, Jogailos vardu pasiūlė Vy­
+    tautui visą tėvo ir dėdės palikimą, vadinas, didžiąją Lietuvos ku­
+    nigaikštiją su Rusijos kraštais, kad tik jis taikintųsi.
+  citata_rodoma: "Šie pirma jį nusiuntė į Rittersverderį pas Vytautą.\nHenrikas, pasinaudodamas proga, Jogailos vardu pasiūlė Vy­\ntautui visą tėvo ir dėdės palikimą, vadinas, didžiąją Lietuvos ku­\nnigaikštiją su Rusijos kraštais, kad tik jis taikintųsi."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36554
+
+- id: c-38628
+  citata_originali: |
+    To pavojaus metu ir iškeliavo į Prūsus Mozūrų kun. Henri­
+    kas. Vytautą rado jis Rittersverdery, berengiantį planus toli­
+    mesniems žygiams. Būdamas Jogailos pasiuntinys, pasiūlė jis
+    savo valdovo vardu Vytautui grįžti, žadėdamas jam grąžinti
+    Lietuvą.
+  citata_rodoma: "Vytautą rado jis Rittersverdery, berengiantį planus toli­\nmesniems žygiams. Būdamas Jogailos pasiuntinys, pasiūlė jis\nsavo valdovo vardu Vytautui grįžti, žadėdamas jam grąžinti\nLietuvą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36552
+
+- id: c-38629
+  citata_originali: |
+    Todėl reikėjo didelio slaptumo ir atsargumo, kad
+    ir antras jo atsimetimo planas vokiečių nebūtų pastebėtas. Dar
+    1391 m. pabaigoj, matyt, nujausdamas, kad santykiai su Ordi­
+    nu turės kada nors vėl pasikeisti, ėmė Vytautas savo šalininkus
+    rankioti į Rittersverderį iš kitų Ordino pilių.
+    Po kiek laiko Vytautui pasisekė išlaisvinti savo žmoną, iš­
+    randant priežastį, jog norįs pasiųsti ją Lietuvon, varyti
+    Ordino naudai propagandos.
+  citata_rodoma: "Dar\n1391 m. pabaigoj, matyt, nujausdamas, kad santykiai su Ordi­\nnu turės kada nors vėl pasikeisti, ėmė Vytautas savo šalininkus\nrankioti į Rittersverderį iš kitų Ordino pilių.\nPo kiek laiko Vytautui pasisekė išlaisvinti savo žmoną, iš­\nrandant priežastį, jog norįs pasiųsti ją Lietuvon, varyti\nOrdino naudai propagandos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36553
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Henrikas (Mozūrų kunigaikštis)]]

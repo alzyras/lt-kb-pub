@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - grupe
   - mūšis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Panevėžio rinktinė
 
@@ -20,16 +32,37 @@ Mūšio pasekmės Išvadavusi Panevėžį, Panevėžio rinktinė toliau parsekio
 <a id="claim-t-38892"></a>
 - t-001
   global_id: t-38892
-  teiginys: 'Išvadavusi Panevėžį, Panevėžio rinktinė gegužės 27 d. persekiodama priešą užėmė Troškūnus ir Subačių.'
+  teiginys: "Išvadavusi Panevėžį, Panevėžio rinktinė gegužės 27 d. persekiodama priešą užėmė Troškūnus ir Subačių."
+  semantiniai_rysiai: "Panevėžio rinktinė užėmė Troškūnai (0.95); Panevėžio rinktinė užėmė Subačius (0.95)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "741055-741389; hash=c644469176df3fcbeeec453431bf2cc9254fe30d3533c8c392caa40360d4f1cb; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Subačius: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Panevėžio rinktinė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Subačius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Panevėžio rinktinė užėmė Subačių."
   pagrindžia:
-    - c-002
+    - c-40697
 
 <a id="claim-t-38893"></a>
 - t-002
   global_id: t-38893
-  teiginys: 'Kariuomenės vadovybė sustabdė puolimą, nes Ukmergės rinktinė buvo išsiveržusi į priekį, o Panevėžio rinktinė atsiliko apie 20 km.'
+  teiginys: "Kariuomenės vadovybė sustabdė puolimą, nes Ukmergės rinktinė buvo išsiveržusi į priekį, o Panevėžio rinktinė atsiliko apie 20 km."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "756715-757126; hash=c1fb6b17e979e94821ffa62e3d750f50a4b113494b2029dbcb2181d4dfef60f1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Panevėžio rinktinė: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Panevėžio rinktinė\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-40696
 - susijęs iš [[objektai/grupes/Ukmergės rinktinė.md#claim-t-39009|Ukmergės rinktinė]]: Ukmergės rinktinei per daug išsiveržus į priekį, kariuomenės vadovybė įsakė sustabdyti tolesnį puolimą, kad išsilygintų fronto linija.
 - susijęs iš [[objektai/ivykiai/Antrasis Panevėžio puolimas.md#claim-t-41240|Antrasis Panevėžio puolimas]]: Išvadavusi Panevėžį, Panevėžio rinktinė persekiodama priešą 1919 m. gegužės 27 d. užėmė Troškūnus ir Subačių.
 - susijęs iš Ukmergė: Ukmergės rinktinė turėjo veržtis Ukmergės-Utenos-Zarasų kryptimi, o Panevėžio rinktinė - Kėdainių-Panevėžio-Rokiškio kryptimi.
@@ -58,6 +91,7 @@ Mūšio pasekmės Išvadavusi Panevėžį, Panevėžio rinktinė toliau parsekio
     ševikų, taip pat buvo paimta daug šau-
     tuvų ir šaudmenų bei kitokio grobio.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -80,11 +114,56 @@ Mūšio pasekmės Išvadavusi Panevėžį, Panevėžio rinktinė toliau parsekio
     sitraukė ir iš Kupiškio. Šie laimėjimai su-
     teikė galimybę toliau vystyti puolimą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-40696
+  citata_originali: |
+    Po mūšio
+    Kadangi Ukmergės rinktinė buvo per daug
+    išsiveržusi į priekį, kariuomenės vadovybė
+    įsakė tolimesnį puolimą sustabdyti, kad
+    išsilygintų fronto linija. Panevėžio rinktinė
+    nuo Ukmergės buvo atsilikusi apie 20 km.
+    Kovose prie Utenos lietuviams kaip
+    trofėjus atiteko bolševikų šarvuotas
+
+    automobilis, į nelaisvę pateko per 100 bol-
+    ševikų, taip pat buvo paimta daug šau-
+    tuvų ir šaudmenų bei kitokio grobio.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-38893
+
+- id: c-40697
+  citata_originali: |
+    Mūšio pasekmės
+    Išvadavusi
+    Panevėžį, Pane-
+    vėžio rinktinė
+    toliau parsekio-
+    dama priešą ge-
+    gužės 27 d. užėmė Troškūnus ir Subačių.
+    Biržus jau 26 d. buvo išvadavęs Šiaurės
+    Lietuvoje veikęs partizanų batalionas.
+    Galiausiai bolševikai gegužės 30-31 d. at-
+    sitraukė ir iš Kupiškio. Šie laimėjimai su-
+    teikė galimybę toliau vystyti puolimą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-38892
 
 ## Ryšiai
 - Panevėžio rinktinė užėmė [[objektai/vietos/Subačius]], [[objektai/vietos/Troškūnai]]

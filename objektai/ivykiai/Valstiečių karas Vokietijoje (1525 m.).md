@@ -11,6 +11,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Valstiečių karas Vokietijoje (1525 m.)
 
@@ -35,10 +47,25 @@ Nenurodyta
 <a id="claim-t-185777"></a>
 - t-001
   global_id: t-185777
-  teiginys: 'A. Gvagninis 1525 m. valstiečių karą Vokietijoje siejo su valstiečių sukilimu prieš bažnytinius ir pasaulietinius ponus.'
+  teiginys: "A. Gvagninis 1525 m. valstiečių karą Vokietijoje siejo su valstiečių sukilimu prieš bažnytinius ir pasaulietinius ponus."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1525 m.; įvykio data: apie 1525 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Reikia taisyti OCR klaidas ir atriboti Gvagninio pateiktą apibūdinimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "19282-19744; hash=3638dec210c5fae9448fe407fd032a6c48d351f0f50f90384215632ea5da12df; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vokietija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Valstiečių karas Vokietijoje (1525 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Vokietija: mention_match, place, gap=16"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valstiečių karas Vokietijoje (1525 m.)\" parinktas kaip owner_note_path. Targetas \"Vokietija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-169138
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -56,8 +83,30 @@ Nenurodyta
     mirties turtas atitektų vaikams. Valstiečiai buvę tame
     kare nugalėti.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-169138
+  citata_originali: |
+    A. Gvagninis
+    užsiminė ir apie 1525 m. valstiečių karą Vokietijoje;
+    pažymėdamas, kad valstiečiai sukilo prieš savo baž-:
+    nytinius bei pasaulietinius ponus ir išžudė nemaža vys­
+    kupų ir ponų. Jie norėję patys rinktis kunigaikščius,
+    išpažinti Liuterio tikėjima„ neduoti dešimtinės, pasida­
+    ryti laisvi — nebūti engiami savųjų ponų. Norėję, kad
+    būtų leista naudotis miškais, vandenimis, kad po jų
+    mirties turtas atitektų vaikams. Valstiečiai buvę tame
+    kare nugalėti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185777

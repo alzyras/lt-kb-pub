@@ -15,6 +15,18 @@ tags:
   - ordinas
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Rygiečiai
 
@@ -25,28 +37,63 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
 ## Teiginiai
 
 <a id="claim-t-179438"></a>
-- t-001
+- t-003
   global_id: t-179438
-  teiginys: 'Gedimino laiškų kaltinimai ordinui leido kelti prielaidą, kad juos Gedimino vardu sufabrikavo Livonijos ordino priešai rygiečiai.'
+  teiginys: "Gedimino laiškų kaltinimai ordinui leido kelti prielaidą, kad juos Gedimino vardu sufabrikavo Livonijos ordino priešai rygiečiai."
+  semantiniai_rysiai: "Rygiečiai buvo priešas Kryžiuočių ordinas (0.82)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "633948-634299; hash=34d9ca2f4e72e8caa31c828026cda188b8a613a0c91ebe0368e46eafe885261a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_priesas -> Kryžiuočių ordinas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Rygiečiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Tekste rygiečiai apibūdinti kaip ordino priešai."
   pagrindžia:
-    - c-003
+    - c-163137
 
 <a id="claim-t-179439"></a>
-- t-002
+- t-001
   global_id: t-179439
-  teiginys: 'Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į talką Vytenį.'
+  teiginys: "Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į talką Vytenį."
+  semantiniai_rysiai: "Rygiečiai buvo sąjungininkas su Gediminas (0.93); Rygiečiai kariavo prieš Kryžiuočių ordinas (0.86); Rygiečiai puolė Daugavgryva (0.78)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "646381-646644; hash=46190d7614c113dab63bd4171ee5281e79eb1059ec2c4bd50bf0596d2984983a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Gediminas: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Rygiečiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citatoje tiesiogiai įvardyta Gedimino ir rygiečių sąjunga."
   pagrindžia:
-    - c-001
-    - c-002
-    - c-003
-    - c-004
+    - c-163133
+    - c-163134
+    - c-163137
+    - c-163141
 
 <a id="claim-t-179441"></a>
-- t-003
+- t-005
   global_id: t-179441
-  teiginys: '1253 m., Mindaugui susitaikius su Livonijos ordinu, rygiečiai išsirūpino prekybos teisę Lietuvoje.'
+  teiginys: "1253 m., Mindaugui susitaikius su Livonijos ordinu, rygiečiai išsirūpino prekybos teisę Lietuvoje."
+  temporaliniai_duomenys: "įvykio data: 1253 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškus, faktinis ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "517855-518113; hash=c8dd5941f5f4dc72f5cdc39c8fbb13794ee993d8aee26f94bb734d375de4312c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rygiečiai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=36"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rygiečiai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-163141
 - susijęs iš [[objektai/posakiai/„mano priešo priešas yra mano draugas“.md#claim-t-186404|„mano priešo priešas yra mano draugas“]]: Lietuvių ir rygiečių sąjunga buvo grindžiama principu „mano priešo priešas yra mano draugas“.
 - susijęs iš [[objektai/posakiai/„mano priešo priešas yra mano draugas“.md#claim-t-186406|„mano priešo priešas yra mano draugas“]]: Lietuvių ir rygiečių sąjunga buvo grindžiama dėsniu „mano priešo priešas yra mano draugas“.
 - susijęs iš [[objektai/posakiai/„mano priešo priešas yra mano draugas“.md#claim-t-186407|„mano priešo priešas yra mano draugas“]]: Lietuvių ir rygiečių sąjunga buvo grindžiama dėsniu „mano priešo priešas yra mano draugas“ ir iš viso truko tris dešimtmečius.
@@ -93,6 +140,7 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
     rygiečiai ją ėmė šturmuoti (1328.VIL), o pakviesti lietuviai (1329.
     IX.) nuteriojo ordino valdas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -108,6 +156,7 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
     « nepakeliamų nuostolių, daug bėdų (muitas tribulationes) ir sunkių
     persekiojimų»^2.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -124,6 +173,7 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
     kryžiuočiai, norėdami rygiečius suniekinti Vakarų krikščionių akyse,
     skelbė, jog Gedimino laiškai esą rygiečių darbas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -139,12 +189,75 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
     Taigi vos tik Mindaugas susitaikė su Livonijos ordinu, rygiečiai
     išsirūpino sau (1253 m.) prekybos teisę Lietuvoje^160.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-003
+
+## Citatos
+
+- id: c-163133
+  citata_originali: |
+    Tada vėl, Livonijoje prasidėjus vidaus
+    karui, atsinaujino Gedimino ir rygiečių sąjunga. Kai ordinui pa­
+    vyko Dauguvos žiotyse įsigyti Daugavgryvos (Dünamündės) pilį,
+    rygiečiai ją ėmė šturmuoti (1328.VIL), o pakviesti lietuviai (1329.
+    IX.) nuteriojo ordino valdas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179439
+
+- id: c-163134
+  citata_originali: |
+    Savo «atgailos rašte», vad.
+    «Sühnenbrief», išpažindami kaltes, rygiečiai be kitko pažymėjo,
+    kad, jiems bendradarbiaujant su pagonimis, ordinui teko patirti
+    « nepakeliamų nuostolių, daug bėdų (muitas tribulationes) ir sunkių
+    persekiojimų»^2.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179439
+
+- id: c-163137
+  citata_originali: |
+    Kiekviename tų laiškų smarkiai buvo
+    puolamas ordinas. Toks kaltinimų ordinui kartojimas yra davęs
+    progos išvadai, jog laiškus Gedimino vardu sufabrikavę Livonijos
+    ordino priešai — rygiečiai. Tą prielaidą palaikė ir faktas, jog patys
+    kryžiuočiai, norėdami rygiečius suniekinti Vakarų krikščionių akyse,
+    skelbė, jog Gedimino laiškai esą rygiečių darbas.
+  citata_rodoma: "Toks kaltinimų ordinui kartojimas yra davęs\nprogos išvadai, jog laiškus Gedimino vardu sufabrikavę Livonijos\nordino priešai — rygiečiai. Tą prielaidą palaikė ir faktas, jog patys\nkryžiuočiai, norėdami rygiečius suniekinti Vakarų krikščionių akyse,\nskelbė, jog Gedimino laiškai esą rygiečių darbas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179439
+    - t-179438
+
+- id: c-163141
+  citata_originali: |
+    rygiečiai esą galėję vieni pas kitus keliauti ir prekiauti^159. Rygai
+    rūpėjo Lietuvoje neišsenkami kiekiai žaliavos, ypač vaško ir kailių.
+    Taigi vos tik Mindaugas susitaikė su Livonijos ordinu, rygiečiai
+    išsirūpino sau (1253 m.) prekybos teisę Lietuvoje^160.
+  citata_rodoma: "Rygai\nrūpėjo Lietuvoje neišsenkami kiekiai žaliavos, ypač vaško ir kailių.\nTaigi vos tik Mindaugas susitaikė su Livonijos ordinu, rygiečiai\nišsirūpino sau (1253 m.) prekybos teisę Lietuvoje^160."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179439
+    - t-179441
 
 ## Ryšiai
 - Priešai: [[objektai/grupes/Kryžiuočių ordinas]]

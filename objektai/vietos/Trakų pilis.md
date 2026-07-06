@@ -13,14 +13,26 @@ date_start: '1382'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XIV'
-  - 'XXI'
 tags:
   - karas
   - pilis
   - valstybė
   - vieta
+amziai:
+  - 'XIV'
+  - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Trakų pilis (pilis)
 
@@ -29,63 +41,159 @@ tags:
 Trakų pilis.
 
 ## Teiginiai
+
 <a id="claim-t-95314"></a>
-- t-001
+- t-008
   global_id: t-95314
-  teiginys: 'Skirgaila pasirinko Trakų pilį nuolatine buveine ir iš jos vykdavo į mūšius ar malšinti maištaujančių kunigaikščių.'
+  teiginys: "Skirgaila pasirinko Trakų pilį nuolatine buveine ir iš jos vykdavo į mūšius ar malšinti maištaujančių kunigaikščių."
+  semantiniai_rysiai: "Skirgaila gyveno Trakų pilis (pilis) (0.93); Skirgaila kariavo prieš Kryžiuočių ordinas (0.82)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "251769-252102; hash=cd06f7a9aa4e6a1f0824f55e32ffed68666b8486666747c53e03aad64f4172c8; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Trakų pilis (pilis): 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakų pilis (pilis): llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Trakų pilis tiesiogiai įvardyta kaip Skirgailos nuolatinė buveinė."
   pagrindžia:
-    - c-003
+    - c-90245
 
 <a id="claim-t-95316"></a>
-- t-002
+- t-003
   global_id: t-95316
-  teiginys: 'Iš Kreivosios pilies vienas pagrindinių kelių vedė vakarų link, į Trakų pilį.'
+  teiginys: "Iš Kreivosios pilies vienas pagrindinių kelių vedė vakarų link, į Trakų pilį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "733274-733593; hash=bd6b7a6051001be63113036f9e3d2199988c58bd16cc3dfe9a2c75a685967702; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Trakai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakų pilis (pilis): owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Trakai: mention_match, place, gap=52"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakų pilis (pilis)\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-90247
 
 <a id="claim-t-95317"></a>
-- t-003
+- t-005
   global_id: t-95317
-  teiginys: 'Skirgaila nuolatine buveine pasirinko Trakų pilį ir išvykdavo tik į karo žygius.'
+  teiginys: "Skirgaila nuolatine buveine pasirinko Trakų pilį ir išvykdavo tik į karo žygius."
+  semantiniai_rysiai: "Skirgaila gyveno Trakų pilis (pilis) (0.93); Skirgaila kariavo prieš Kryžiuočių ordinas (0.82)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "251862-252407; hash=bda77150df42c41e7868a252e0b0c2ee0bb687a5597cf95586f4d3249379f214; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Trakų pilis (pilis): 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakų pilis (pilis): llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Trakų pilis aiškiai įvardyta kaip nuolatinė Skirgailos buveinė."
   pagrindžia:
-    - c-005
+    - c-90250
 
 <a id="claim-t-95318"></a>
-- t-004
+- t-006
   global_id: t-95318
-  teiginys: 'Iš Kreivosios pilies vienas pagrindinių kelių vedė vakarų link į Trakų pilį.'
+  teiginys: "Iš Kreivosios pilies vienas pagrindinių kelių vedė vakarų link į Trakų pilį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "733274-733593; hash=bd6b7a6051001be63113036f9e3d2199988c58bd16cc3dfe9a2c75a685967702; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Trakai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakų pilis (pilis): owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Trakai: mention_match, place, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakų pilis (pilis)\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-90247
 
 <a id="claim-t-95319"></a>
-- t-005
+- t-009
   global_id: t-95319
-  teiginys: 'Vokiečiai buvo išmėginę patrankas imdami Trakų pilį, o 1384 m. Jogaila jas nukreipė prieš Ordiną prie Marienverderio.'
+  teiginys: "Vokiečiai buvo išmėginę patrankas imdami Trakų pilį, o 1384 m. Jogaila jas nukreipė prieš Ordiną prie Marienverderio."
+  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) kariavo prieš Kryžiuočių ordinas (0.80)"
+  temporaliniai_duomenys: "įvykio data: 1382 m.; įvykio data: 1384 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Ilgas sakinys sutrumpintas ir išvalytas nuo OCR triukšmo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "630379-630795; hash=f612270f0fd8f41cf834c798007ec0ed45889bdde5af044aee58ebbbf9a1c786; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.80"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Jogaila patrankas nukreipė prieš Ordiną mūšio kontekste."
   pagrindžia:
-    - c-002
+    - c-90244
 
 <a id="claim-t-95320"></a>
-- t-006
+- t-001
   global_id: t-95320
-  teiginys: 'Ordino patrankos buvo išmėgintos imant Trakų pilį, o 1384 m. Jogaila jas panaudojo prieš Ordiną prie Marienverderio.'
+  teiginys: "Ordino patrankos buvo išmėgintos imant Trakų pilį, o 1384 m. Jogaila jas panaudojo prieš Ordiną prie Marienverderio."
+  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) kariavo prieš Kryžiuočių ordinas (0.90); Kryžiuočių ordinas užėmė Trakų pilis (pilis) (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1382 m.; įvykio data: 1384 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra faktinis, aiškus ir paremtas citata apie Trakų pilį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "630454-630863; hash=d728353fdf8ac9f0d226d1c2b9175169ebe743df1bf52b153e13ba8a1cb37c90; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Jogaila nukreipė patrankas prieš Ordiną."
   pagrindžia:
-    - c-001
+    - c-37767
 
 <a id="claim-t-95321"></a>
-- t-007
+- t-002
   global_id: t-95321
-  teiginys: 'Jogaila gavo iš Ordino maršalkos Kuno von Hattenšteino patrankų, anksčiau vokiečių išmėgintų imant Trakų pilį.'
+  teiginys: "Jogaila gavo iš Ordino maršalkos Kuno von Hattenšteino patrankų, anksčiau vokiečių išmėgintų imant Trakų pilį."
+  temporaliniai_duomenys: "įvykio data: 1382 m.; įvykio data: 1384 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra išbaigtas ir tiesiogiai pagrįstas pateikta citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "630454-630863; hash=d728353fdf8ac9f0d226d1c2b9175169ebe743df1bf52b153e13ba8a1cb37c90; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Trakai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakų pilis (pilis): owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Trakai: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakų pilis (pilis)\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-37767
 
 <a id="claim-t-188843"></a>
 - t-008
   global_id: t-188843
-  teiginys: 'Senojoje Trakų pilyje virš didžiųjų vartų anksčiau buvo akmenyje iškaltas kryžius skyde.'
+  teiginys: "Senojoje Trakų pilyje virš didžiųjų vartų anksčiau buvo akmenyje iškaltas kryžius skyde."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Kryžius priklausė Trakų pilis (pilis) (0.82)"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "733274-733593; hash=bd6b7a6051001be63113036f9e3d2199988c58bd16cc3dfe9a2c75a685967702; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Trakų pilis (pilis): 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžius: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Trakų pilis (pilis): llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kryžius aiškiai lokalizuotas senojoje Trakų pilyje."
   pagrindžia:
-    - c-006
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171732
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179020|Kryžiuočių ordinas]]: Mūšis ties Rudamina ir Vilniaus pilių atsilaikymas pastūmėjo kryžiuočius derėtis su Algirdu ir Kęstučiu.
 - susijęs iš [[objektai/ivykiai/Rudaminos mūšis ir taikos sutartis po Vilniaus apgulties (1377 m.).md#claim-t-54706|Rudaminos mūšis ir taikos sutartis po Vilniaus apgulties (1377 m.)]]: Po mūšio ir Vilniaus pilių atsilaikymo sudaryta taikos sutartis įpareigojo kryžiuočius neliesti nuo ugnies nenukentėjusios Vilniaus dalies.
 - susijęs iš [[objektai/paprociai/Riteriškas vaišinimas ir dovanojimas taikos bei politinių susitarimų aplinkoje.md#claim-t-87249|Riteriškas vaišinimas ir dovanojimas taikos bei politinių susitarimų aplinkoje]]: Po taikos sutarties maršalas, arkikomtūras ir aukštesnieji vokiečių riteriai buvo pakviesti į Vilniaus ir Trakų pilis, pavaišinti ir apdovanoti.
@@ -96,6 +204,7 @@ Trakų pilis.
 - susijęs iš Kernavė: XVI a. plačioji Lietuvos metraščio redakcija nurodė, kad Trakų pilis įkurta už penkių mylių nuo Kernavės.
 - susijęs iš Lietuva: Sėkmingai dalyvaudama įvairiose NATO ir ES veiklos srityse, Lietuva akivaizdžiai sustiprino savo saugumą ir tarptautinį statusą, sutvirtėjo ekonomiškai.
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -107,12 +216,14 @@ Trakų pilis.
     Marienverderio nukreipė jas prieš patį Ordiną. Vytautas savo
     karuose taip pat naudojo parako ginklus ir patrankas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
     - t-006
+
 - c-002
   santrauka: 'Vokiečiai buvo išmėginę patrankas imdami Trakų pilį, o 1384 m. Jogaila jas nukreipė prieš Ordiną prie Marienverderio.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -125,11 +236,13 @@ Trakų pilis.
     čių išmėgintos imant Trakų pilį, o Jogaila 1384 m. mūšyje prie
     Marienverderio nukreipė jas prieš patį Ordiną.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-003
   santrauka: 'Skirgaila pasirinko Trakų pilį nuolatine buveine ir iš jos vykdavo į mūšius ar malšinti maištaujančių kunigaikščių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -143,11 +256,13 @@ Trakų pilis.
     Baltojoje Rusioje maištaujančiais įvairių valdų kunigaikš­
     čiais.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-004
   santrauka: 'Iš Kreivosios pilies vienas pagrindinių kelių vedė vakarų link į Trakų pilį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -175,12 +290,14 @@ Trakų pilis.
     nios upę, prie bendro naudojimo malūno (dabar vadinamo
     Vyskupo), iš miesto suko į Polocką.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
     - t-002
+
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -198,11 +315,13 @@ Trakų pilis.
     censis, bet niekur nėra Dux Lithua-
     niae.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-006
   santrauka: 'Senojoje Trakų pilyje virš didžiųjų vartų anksčiau buvo akmenyje iškaltas kryžius skyde.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -214,11 +333,137 @@ Trakų pilis.
     tyrimų, pasiųstų į Pulavus, kurias surinko kažkuris iš buvusio Vil­
     niaus universiteto narių; mačiau su piešiniais, kuriuos darė asmuo,
     suteikęs mums tą žinią.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
+## Citatos
+
+- id: c-37767
+  citata_originali: |
+    Jau Kestutis 1382 m. per Velykų šventes ataka­
+    vęs Jurbarko pilį, pasinaudodamas patrankų baterija. Tuo pat
+    laiku ir Jogaila gavo iš Ordino maršalkos Kuno von Hatten­
+    šteino dovanų keletą patrankų, kurios anksčiau buvo pačių vokie­
+    čių išmėgintos imant Trakų pilį, o Jogaila 1384 m. mūšyje prie
+    Marienverderio nukreipė jas prieš patį Ordiną. Vytautas savo
+    karuose taip pat naudojo parako ginklus ir patrankas.
+  citata_rodoma: "Tuo pat\nlaiku ir Jogaila gavo iš Ordino maršalkos Kuno von Hatten­\nšteino dovanų keletą patrankų, kurios anksčiau buvo pačių vokie­\nčių išmėgintos imant Trakų pilį, o Jogaila 1384 m. mūšyje prie\nMarienverderio nukreipė jas prieš patį Ordiną. Vytautas savo\nkaruose taip pat naudojo parako ginklus ir patrankas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-95321
+    - t-95320
+
+- id: c-90244
+  citata_originali: |
+    Vytauto laikais lietuviams nebuvo svetimi ir parako ginklai
+    bei patrankos. Jau Kestutis 1382 m. per Velykų šventes ataka­
+    vęs Jurbarko pilį, pasinaudodamas patrankų baterija. Tuo pat
+    laiku ir Jogaila gavo iš Ordino maršalkos Kuno von Hatten­
+    šteino dovanų keletą patrankų, kurios anksčiau buvo pačių vokie­
+    čių išmėgintos imant Trakų pilį, o Jogaila 1384 m. mūšyje prie
+    Marienverderio nukreipė jas prieš patį Ordiną.
+  citata_rodoma: "per Velykų šventes ataka­\nvęs Jurbarko pilį, pasinaudodamas patrankų baterija. Tuo pat\nlaiku ir Jogaila gavo iš Ordino maršalkos Kuno von Hatten­\nšteino dovanų keletą patrankų, kurios anksčiau buvo pačių vokie­\nčių išmėgintos imant Trakų pilį, o Jogaila 1384 m. mūšyje prie\nMarienverderio nukreipė jas prieš patį Ordiną."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-95319
+
+- id: c-90245
+  citata_originali: |
+    Po
+    to karalius, spiriamas karalystės reikalų, greitai išskubėjo į
+    Lenkiją, Vilnių palikęs.
+    Išties trumpas, bet itin nesėkmingas buvo Vilniui Skir­
+    gailos valdymas. Nuolatine savo buveine pasirinkęs Trakų
+    pilį, jis išvykdavo tik į mūšius su Prūsijos ordinu arba su
+    Baltojoje Rusioje maištaujančiais įvairių valdų kunigaikš­
+    čiais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-95314
+
+- id: c-90247
+  citata_originali: |
+    Dabartinė Vilnelės ir Vilijos san­
+    takos vieta tėra Gedimino laikais
+    iškasta perkasa aukštinant pilies kal­
+    ną ir norint, kad abi tvirtovės būtų
+    vandenų skalaujamos.
+    5
+    Lukiškės pavadintos nuo lietuviškų
+    žodžių laukas ir kišas, kadangi Lukiš­
+    kės yra prie Vilijos upės, tad ta vie-
+    108
+
+    ## Puslapis 125
+
+    Il KNYGA
+    Iš Kreivosios pilies vedė dar du pagrindiniai keliai: vie­
+    nas - vakarų link, į Trakų pilį, palei kurį smėlingoj žemėj
+    stovėjo nedidelė medinė bažnyčia ir pranciškonų vienuoly­
+    nas, buvę Goštauto rūmai, o kitas ėjo pietų linkui, už rusų
+    vienuolyno šakojosi į tris siauresnius: į pilis - Garteno, arba
+    Gardino, Lydos ir Medininkų. Dar kitas vieškelis per Vil­
+    nios upę, prie bendro naudojimo malūno (dabar vadinamo
+    Vyskupo), iš miesto suko į Polocką.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-95318
+    - t-95316
+
+- id: c-90250
+  citata_originali: |
+    Išties trumpas, bet itin nesėkmingas buvo Vilniui Skir­
+    gailos valdymas. Nuolatine savo buveine pasirinkęs Trakų
+    pilį, jis išvykdavo tik į mūšius su Prūsijos ordinu arba su
+    Baltojoje Rusioje maištaujančiais įvairių valdų kunigaikš­
+    čiais. Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su
+    lenkų įgula17 tuomet valdydavo ir kitus gyventojus, bet ir
+    16
+    Skirgaila ne anksčiau kaip 1388 me­
+    tais tapo didžiuoju kunigaikščiu, nes
+    1387 metais visuose dokumentuose
+    visur vadinamas Skargalo Dux Tro-
+    censis, bet niekur nėra Dux Lithua-
+    niae.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-95317
+
+- id: c-171732
+  citata_originali: |
+    MITOLOGIJOS PABAIGA. 13
+    13
+    Seniau tokio vaizdo kryžius skyde, iškaltas iš akmens, buvo
+    senojoje Trakų pilyje, viršum didžiųjų vartų. Tai žinios iš Trakų pilies
+    tyrimų, pasiųstų į Pulavus, kurias surinko kažkuris iš buvusio Vil­
+    niaus universiteto narių; mačiau su piešiniais, kuriuos darė asmuo,
+    suteikęs mums tą žinią.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188843
 
 ## Ryšiai
 - Užėmė Trakų pilį (pilis): [[objektai/grupes/Kryžiuočių ordinas]]

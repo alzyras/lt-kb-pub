@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - ginklas
   - ivykis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Liudviko iš Libencelės susirėmimas puotoje ir išvadavimas iš nelaisvės
 
@@ -36,17 +48,38 @@ Nenurodyta
 <a id="claim-t-62867"></a>
 - t-001
   global_id: t-62867
-  teiginys: 'Nelaisvėje buvusį Liudviką iš Libencelės Skomantas nusivedė į Sūduvos galingųjų puotą, kur Liudvikas kalaviju nukovė jį užgauliojusį varžovą.'
+  teiginys: "Nelaisvėje buvusį Liudviką iš Libencelės Skomantas nusivedė į Sūduvos galingųjų puotą, kur Liudvikas kalaviju nukovė jį užgauliojusį varžovą."
+  teiginio_tipas: "saltinio_teiginys"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "526856-527512; hash=e1f3302566eaac509a02a4580edf9de325ec8e0f1e50b5de980286cc54c0dfcd; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kalavijas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Liudviko iš Libencelės susirėmimas puotoje ir išvadavimas iš nelaisvės: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Kalavijas: mention_match, thing, gap=101"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liudviko iš Libencelės susirėmimas puotoje ir išvadavimas iš nelaisvės\" parinktas kaip owner_note_path. Targetas \"Kalavijas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-63706
 
 <a id="claim-t-62868"></a>
 - t-002
   global_id: t-62868
-  teiginys: 'Vėliau vienas Skomanto šeimynykštis išvadavo Liudviką iš Libencelės iš nelaisvės ir sugrąžino jį pas brolius.'
+  teiginys: "Vėliau vienas Skomanto šeimynykštis išvadavo Liudviką iš Libencelės iš nelaisvės ir sugrąžino jį pas brolius."
+  teiginio_tipas: "saltinio_teiginys"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "527438-527658; hash=c05e40130e90b67bfe5945f2667913ff089100e56299cf27ab9ab7c12aff745e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Liudvikas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Liudviko iš Libencelės susirėmimas puotoje ir išvadavimas iš nelaisvės: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Liudvikas: mention_match, person, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liudviko iš Libencelės susirėmimas puotoje ir išvadavimas iš nelaisvės\" parinktas kaip owner_note_path. Targetas \"Liudvikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
-
+    - c-63707
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -63,6 +96,7 @@ Nenurodyta
     daromas nuoskaudas, o aš tau padėsiu“. Šitai išgirdęs, brolis Liudvikas įsidrąsinęs
     kalaviju nukovė savo varžovą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -82,8 +116,48 @@ Nenurodyta
 
                  211 (206).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-63706
+  citata_originali: |
+    Jį, paimtą  į nelaisvę,
+    atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats,
+    todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę
+    puotauti. Per šią puotą vienas kilmingas ir galingas vyras didžiai išerzino brolį Liudviką,
+    be paliovos  jį užgauliodamas bei plūsdamas. Todėl jis tarė Skomantui: „Negi tam čia
+    mane atsivedei, kad tas žmogus mane užgauliotų įžeidžiamais žodžiais?“ Jam atsakė
+    Skomantas: „Apgailestauju, kad esi koneveikiamas, jeigu  drįsti, atsikeršyk už tau
+    daromas nuoskaudas, o aš tau padėsiu“. Šitai išgirdęs, brolis Liudvikas įsidrąsinęs
+    kalaviju nukovė savo varžovą.
+  citata_rodoma: "Jį, paimtą  į nelaisvę,\natidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats,\ntodėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę\npuotauti. Per šią puotą vienas kilmingas ir galingas vyras didžiai išerzino brolį Liudviką,\nbe paliovos  jį užgauliodamas bei plūsdamas. Todėl jis tarė Skomantui: „Negi tam čia\nmane atsivedei, kad tas žmogus mane užgauliotų įžeidžiamais žodžiais?“ Jam atsakė\nSkomantas: „Apgailestauju, kad esi koneveikiamas, jeigu  drįsti, atsikeršyk už tau\ndaromas nuoskaudas, o aš tau padėsiu“. Šitai išgirdęs, brolis Liudvikas įsidrąsinęs\nkalaviju nukovė savo varžovą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-62867
+
+- id: c-63707
+  citata_originali: |
+    Šitai išgirdęs, brolis Liudvikas įsidrąsinęs
+    kalaviju nukovė savo varžovą. Vėliau brolį Liudviką iš nelaisvės išvadavo vienas minėtojo
+    Skomanto šeimynykštis [famulus] ir sugrąžino pas brolius.
+
+
+
+
+                 211 (206).
+  citata_rodoma: "Šitai išgirdęs, brolis Liudvikas įsidrąsinęs\nkalaviju nukovė savo varžovą. Vėliau brolį Liudviką iš nelaisvės išvadavo vienas minėtojo\nSkomanto šeimynykštis [famulus] ir sugrąžino pas brolius.\n\n\n\n\n             211 (206)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-62868

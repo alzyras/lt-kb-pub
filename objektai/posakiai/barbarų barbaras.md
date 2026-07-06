@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # barbarų barbaras
 
@@ -17,10 +29,15 @@ Kojelavičius „barbarų barbaru“ pavadino žmogų, kurio pasitikėjimą sėk
 <a id="claim-t-185475"></a>
 - t-001
   global_id: t-185475
-  teiginys: 'Kojelavičius „barbarų barbaru“ pavadino žmogų, kurio pasitikėjimą sėkme ir pasipūtėlišką išdidumą smerkė.'
+  teiginys: "Kojelavičius „barbarų barbaru“ pavadino žmogų, kurio pasitikėjimą sėkme ir pasipūtėlišką išdidumą smerkė."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1118763-1119320; hash=6671334720e9d31cdda5ef7ec6a1aade1b312835c56f6b45767c3dd9be665321; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
-
+    - c-168836
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,8 +60,35 @@ Kojelavičius „barbarų barbaru“ pavadino žmogų, kurio pasitikėjimą sėk
     daryti su nelaisvėn paimtuoju karaliumi Žygimantu, ku­
     rį, be abejonės, jam netrukus sukaustytą atvešią.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-168836
+  citata_originali: |
+    Nestojus
+    jam į kovą, kariuomenę apsupti iš visų pusių ir kartu
+    su karaliumi atvaryti nelyginant gyvulius į Maskvą.
+    630
+
+    ## Puslapis 629
+
+    Štai kaip vertino šis žmogus, barbarų barbaras, savo
+    jėgas, štai kaip pasitikėjo sėkme, taip viską perdėda­
+    mas, tokį pasipūtėlišką išdidumą rodydamas, kad ne­
+    randu nė tinkamo žodžio jo ydoms pavadinti. Jam už­
+    teko įžūlumo, nė nebandžius sėkmės kovos lauke, laiš­
+    ku paklausti imperatorių Maksimilijoną, ką turėtų
+    daryti su nelaisvėn paimtuoju karaliumi Žygimantu, ku­
+    rį, be abejonės, jam netrukus sukaustytą atvešią.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185475

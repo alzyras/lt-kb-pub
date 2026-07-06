@@ -9,6 +9,18 @@ tags:
   - miestas
   - paprotys
   - valstybė
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Žydų kelionių, laidotuvių lydėjimo, kapinių ir mokyklos apsauga
 
@@ -41,10 +53,19 @@ Nenurodyta
 <a id="claim-t-87294"></a>
 - t-001
   global_id: t-87294
-  teiginys: 'Krikščionis, padaręs žalą žydų kapinėse ar jas užpuolęs, turėjo būti nubaustas pagal žemės paprotį ir netekti turto iždo naudai.'
+  teiginys: "Krikščionis, padaręs žalą žydų kapinėse ar jas užpuolęs, turėjo būti nubaustas pagal žemės paprotį ir netekti turto iždo naudai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "412638-413569; hash=15ea6391d9870bcbd3ccff6e40cb376faed59804fd7df7038bc28129b3a6558e; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Žydai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žydų kelionių, laidotuvių lydėjimo, kapinių ir mokyklos apsauga: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Žydai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žydų kelionių, laidotuvių lydėjimo, kapinių ir mokyklos apsauga\" parinktas kaip owner_note_path. Targetas \"Žydai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-83273
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -69,8 +90,37 @@ Nenurodyta
     kas atkakliai pultų žydų mokyklą, norime, kad mūsų se­
     niūnui du talentus sumokėtų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83273
+  citata_originali: |
+    O
+    jeigu pinigų neturėtų, už šį poelgį pelnytai turi būti nubaus­
+    tas; arba jeigu žydas per mūsų valstybę keliautų, niekas jam
+    jokios žalos nedarys, nei rūpesčių, nei sunkumų [nekels].
+    Bet jeigu kokias prekes ar daiktus gabentų be muito per vi­
+    sas muitines, tik vieną turi sumokėti muitą, kurį moka kiek­
+    vienas ano miesto, kuriame žydas gyvena. Taip pat jeigu
+    žydai pagal savo paprotį kurį numirusį arba iš miesto į mies­
+    tą, arba iš valstybės į valstybę, arba iš vienos žemės į kitą
+    lydėtų, nenorime, kad mūsų muitininkai iš jų ką nors imtų.
+    O jeigu muitininkas iš jų reikalautų kaip lupikas, norime,
+    kad būtų nubaustas. Taip pat jeigu krikščionis jų kapinėse
+    kokią nors žalą darytų ar pultų, norime, kad pagal mūsų
+    žemės paprotį būtų nubaustas ir visą savo [turtą] turi mū­
+    sų iždui atiduoti, kad ir kaip tai vadintųsi. Taip pat jeigu
+    kas atkakliai pultų žydų mokyklą, norime, kad mūsų se­
+    niūnui du talentus sumokėtų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87294

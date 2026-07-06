@@ -17,6 +17,18 @@ tags:
   - saltinis
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Voigt J. Geschichte Preussens 9 Bd., 1827—1838
 
@@ -29,10 +41,15 @@ Dusburgietis teigia, kad voigt J.
 <a id="claim-t-61353"></a>
 - t-001
   global_id: t-61353
-  teiginys: 'J. Voigto „Geschichte Preussens“ sudarė 9 tomai, leisti Karaliaučiuje 1827–1838 m.'
+  teiginys: "J. Voigto „Geschichte Preussens“ sudarė 9 tomai, leisti Karaliaučiuje 1827–1838 m."
+  temporaliniai_duomenys: "įvykio data: 1827-1838; įvykio data: 1838 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata nurodo tomų skaičių, leidimo vietą ir metų intervalą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "804066-804167; hash=fbc7bcb97bf3a7cd7f798f5b416832c8fa19448441730d23b2869b580b3310c8; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
-
+    - c-61985
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,8 +59,22 @@ Dusburgietis teigia, kad voigt J.
     Voigt J. Geschichte Preussens: 9 Bd., 1827—1838.— Königsberg.— Bd. 1, 1827; Bd.
     2, 1827; Bd. 3, 1828.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-61985
+  citata_originali: |
+    Voigt J. Geschichte Preussens: 9 Bd., 1827—1838.— Königsberg.— Bd. 1, 1827; Bd.
+    2, 1827; Bd. 3, 1828.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-61353

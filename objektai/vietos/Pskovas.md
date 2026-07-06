@@ -22,11 +22,6 @@ datos:
   - '2026 m.'
 date_start: '1000'
 date_end: '2026'
-description: 'Pskovas Lietuvos istorijoje siejamas su ankstyvais lietuvių žygiais, Vytauto įtakos politika ir konfliktais su Maskva.'
-socialDescription: 'Pskovas buvo svarbus Lietuvos valdovų rytų politikos taškas: nuo 1183 m. žygio iki Vytauto bandymų įtvirtinti įtaką.'
-seo_atnaujinta: '2026-07-02T23:12:35.055706+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -37,385 +32,1119 @@ tags:
 amziai:
   - 'X'
   - 'XXI'
+media_total_count: '1'
+media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/d/df/Pskov_location_map.png'
+media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3APskov_location_map.png'
+media_primary_directness: 'direct'
+media_primary_relation_type: 'map_of'
+media_primary_json: |-
+  {"mediaId":"m-6b29348ada981506f19bb105","title":"Pskov location map.png","caption":"Location map","creator":"Smat","provider":"commons","providerLabel":"Wikimedia Commons","license":"ODbL","rightsNote":"Open Database License","dateDisplay":"2022-11-08","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APskov_location_map.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/df/Pskov_location_map.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}
+media_direct_json: |-
+  [{"mediaId":"m-6b29348ada981506f19bb105","title":"Pskov location map.png","caption":"Location map","creator":"Smat","provider":"commons","providerLabel":"Wikimedia Commons","license":"ODbL","rightsNote":"Open Database License","dateDisplay":"2022-11-08","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APskov_location_map.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/df/Pskov_location_map.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}]
+media_contextual_json: |-
+  []
+media_all_json: |-
+  [{"mediaId":"m-6b29348ada981506f19bb105","title":"Pskov location map.png","caption":"Location map","creator":"Smat","provider":"commons","providerLabel":"Wikimedia Commons","license":"ODbL","rightsNote":"Open Database License","dateDisplay":"2022-11-08","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APskov_location_map.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/df/Pskov_location_map.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}]
 ---
 # Pskovas
 
 ## Santrauka
 
-Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis centras, į kurį krypo Lietuvos valdovų dėmesys. 1183 m. lietuviai nusiaubė Pskovą per vieną ankstyvųjų žygių į Rusios žemes, o Gedimino ar Algirdo laikais miestas buvo siejamas su Lietuvos politine įtaka. Vytautas siekė stiprinti įtaką Pskove, tačiau karas baigėsi kontribucija, o vėliau Pskovo klausimas komplikavo santykius su Maskva.
+Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka šiaurėje siekė net Pskovo ir D.Naugardo miestų respublikas. Nuo pat Melno taikos jis jau ėmė galvoti apie žygį į Pskovą, į kurį teišsiruošė vos 1426 m. Paties Pskovo jis nepaėmė, pasitenkindamas 1.000 rublių kontribucija (anais laikais tai buvo milžiniška suma).
 
 ## Teiginiai
 
 <a id="claim-t-178100"></a>
-- t-001
+- t-026
   global_id: t-178100
-  teiginys: 'Į Vytauto suvažiavimą atvyko ir Naugardo bei Pskovo kunigaikščiai.'
+  teiginys: "Į Vytauto suvažiavimą atvyko ir Naugardo bei Pskovo kunigaikščiai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "523585-523977; hash=99682e2ec5022bd9b1ad11b7a89741233c97d4c790c0a0de28df37e92f039359; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bizantija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Bizantija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Bizantija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-015
+    - c-161894
 
 <a id="claim-t-178102"></a>
-- t-002
+- t-028
   global_id: t-178102
-  teiginys: 'Vytautas siekė Pskovą, Naugardą, Maskvą, Tverę, Riazanę ir totorius paimti savo valdžion arba turėti jiems didelę įtaką.'
+  teiginys: "Vytautas siekė Pskovą, Naugardą, Maskvą, Tverę, Riazanę ir totorius paimti savo valdžion arba turėti jiems didelę įtaką."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "652643-653096; hash=f0787908e3cc403d48fe40b24ddcfbcb5355fa9327bf241fc4628fdc900aa646; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Riazanė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Riazanė: mention_match, place, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Riazanė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-027
+    - c-161918
 
 <a id="claim-t-178103"></a>
-- t-003
+- t-041
   global_id: t-178103
-  teiginys: 'Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere.'
+  teiginys: "Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "161311-161924; hash=fab7c42513e5d59490e6ce201e347b343fced54c0f2a2e4ab0df057e65863232; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Elena (vyskupas, XV–XVI a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Elena (vyskupas, XV–XVI a.): mention_match, person, gap=73"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Elena (vyskupas, XV–XVI a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-012
+    - c-161891
 
 <a id="claim-t-178105"></a>
-- t-004
+- t-064
   global_id: t-178105
-  teiginys: '1183 m. lietuviai per pirmąjį savarankišką žygį į Rusios žemes nusiaubė Pskovą ir pakeliui turbūt Polocką.'
+  teiginys: "1183 m. lietuviai per pirmąjį savarankišką žygį į Rusios žemes nusiaubė Pskovą ir pakeliui turbūt Polocką."
+  semantiniai_rysiai: "Lietuviai puolė Pskovas (0.94)"
+  temporaliniai_duomenys: "įvykio data: 1183 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas įvadinis žodis, sakinys sutrumpintas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "42841-43169; hash=8538999859306a5c726b5a021b6174f7c399a9526fa311ebf37420423a1a83be; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Pskovas: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Pskovas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad lietuviai nusiaubė Pskovą."
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-028
+    - c-161920
 
 <a id="claim-t-178106"></a>
-- t-005
+- t-065
   global_id: t-178106
-  teiginys: 'Gedimino ar Algirdo laikais Pskovas buvo Lietuvos politinėje įtakoje.'
+  teiginys: "Gedimino ar Algirdo laikais Pskovas buvo Lietuvos politinėje įtakoje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "53150-53655; hash=81a2b62b2abd9c8f1dbe1ec571270d110f62ea764957025fbb09de6f64f64e90; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-037
+    - c-161937
 
 <a id="claim-t-178107"></a>
-- t-006
+- t-033
   global_id: t-178107
-  teiginys: 'Pskovas ir Didysis Naugardas anksčiau už Vilnių virto tankiai gyvenamomis ir turtingomis prekybinėmis gyvenvietėmis.'
+  teiginys: "Pskovas ir Didysis Naugardas anksčiau už Vilnių virto tankiai gyvenamomis ir turtingomis prekybinėmis gyvenvietėmis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "44931-45379; hash=17426cfc8db7cdd6caca414e57a5f9ecc65342abd34bda59f717441fbee090ee; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Didysis Naugardas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Didysis Naugardas: mention_match, place, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Didysis Naugardas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-032
+    - c-161930
 
 <a id="claim-t-178108"></a>
-- t-007
+- t-004
   global_id: t-178108
-  teiginys: 'Kariaudamas su Pskovu, Vytautas pasitraukė tik miestui sutikus sumokėti 1000 rublių kontribucijos ir 450 rublių už belaisvius.'
+  teiginys: "Kariaudamas su Pskovu, Vytautas pasitraukė tik miestui sutikus sumokėti 1000 rublių kontribucijos ir 450 rublių už belaisvius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "607296-607629; hash=f0cafb299d66e1dbe41132e0dd7ec772b7b70b74333d6c8233ff86adb8f96d30; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-37677
 
 <a id="claim-t-178109"></a>
-- t-008
+- t-020
   global_id: t-178109
-  teiginys: 'Vytauto pastangos Pskove pastatyti savo vietininką sukėlė naują konfliktą su Maskva.'
+  teiginys: "Vytauto pastangos Pskove pastatyti savo vietininką sukėlė naują konfliktą su Maskva."
+  temporaliniai_duomenys: "pastatymo data: 1407 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra savarankiškas faktinis sakinys apie Pskovą ir Vytauto veiksmus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "877370-877550; hash=3f6dc3a7193e1c59d925a4cbfc26238c329c99cde7be5c27c48ed9cac9d56ae8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=59"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-017
+    - c-161896
 
 <a id="claim-t-178110"></a>
-- t-009
+- t-011
   global_id: t-178110
-  teiginys: '1581 m. rugpjūčio pabaigoje jungtinės pajėgos pasiekė labai gerai įtvirtintą Pskovo miestą.'
+  teiginys: "1581 m. rugpjūčio pabaigoje jungtinės pajėgos pasiekė labai gerai įtvirtintą Pskovo miestą."
+  semantiniai_rysiai: "Kremlius priklausė Pskovas (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1581 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pridėta iš konteksto paremta data."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "378464-378777; hash=cfea386b59b2d1d32902d34f4eb56b31c3b433e43dd35d5bca35afb12ffc079c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Pskovas: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kremlius: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Pskovas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Daumanto kremlius lokalizuojamas Pskovo miesto viduje."
   pagrindžia:
-    - c-010
+    - c-43782
 
 <a id="claim-t-178111"></a>
-- t-010
+- t-055
   global_id: t-178111
-  teiginys: 'Į Vytauto suvažiavimą atvyko Pskovo kunigaikščiai ir kitų kraštų valdovų bei miestų atstovai.'
+  teiginys: "Į Vytauto suvažiavimą atvyko Pskovo kunigaikščiai ir kitų kraštų valdovų bei miestų atstovai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "523336-523905; hash=8831aaa45c4f9669960a6fd62ecfd05ade86254f4c0bbc23cca78b194e26c714; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> kunigaikščiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "kunigaikščiai: mention_match, thing, gap=7"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"kunigaikščiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-019
+    - c-161899
 
 <a id="claim-t-178112"></a>
-- t-011
+- t-066
   global_id: t-178112
-  teiginys: 'Vytauto rytinių valstybės pakraščių patikrinimo metu Pskovas buvo pajungtas 1426 m., o Didysis Naugardas – 1428 m.'
+  teiginys: "Vytauto rytinių valstybės pakraščių patikrinimo metu Pskovas buvo pajungtas 1426 m., o Didysis Naugardas – 1428 m."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užkariavo Pskovas (0.84); Vytautas (Lietuvos valdovas, XIV–XV a.) užkariavo Didysis Naugardas (0.80)"
+  temporaliniai_duomenys: "įvykio data: 1426 m.; įvykio data: 1427 m.; įvykio data: 1428 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas neaiškus kontekstinis pradžios fragmentas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "92869-93210; hash=8ab2e8e39c87cea97b33bfce064b3174f65164d1a11066bb73e0c9c5a83120d8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzkariavo -> Pskovas: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Pskovas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginyje aiškiai nurodyta, kad Vytauto veiksmų kontekste Pskovas buvo pajungtas."
   pagrindžia:
-    - c-013
+    - c-161892
 
 <a id="claim-t-178113"></a>
-- t-012
+- t-059
   global_id: t-178113
-  teiginys: 'Kazimierui pasidalijus įtakos sritimis su Maskva, Pskovas ir Didysis Naugardas buvo palikti Maskvos įtakoje.'
+  teiginys: "Kazimierui pasidalijus įtakos sritimis su Maskva, Pskovas ir Didysis Naugardas buvo palikti Maskvos įtakoje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "161311-161924; hash=fab7c42513e5d59490e6ce201e347b343fced54c0f2a2e4ab0df057e65863232; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Didysis Naugardas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Didysis Naugardas: mention_match, place, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Didysis Naugardas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
+    - c-24425
 
 <a id="claim-t-178114"></a>
-- t-013
+- t-054
   global_id: t-178114
-  teiginys: '1411 metų pavasarį Polocke Pskovo pasiuntiniai atvyko pas Vytautą ir užmezgė taikingus santykius.'
+  teiginys: "1411 metų pavasarį Polocke Pskovo pasiuntiniai atvyko pas Vytautą ir užmezgė taikingus santykius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "327894-328757; hash=f0280a97e8252f2016fcce7469f8c8596710c8bb280063b0584b1495a55d0c5b; match=word_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-37675
 
 <a id="claim-t-178115"></a>
-- t-014
+- t-006
   global_id: t-178115
-  teiginys: 'Vytautas siekė paimti Pskovą, Naugardą, Maskvą, Tverį, Riazanę ir totorius savo valdžion arba turėti jiems didelę įtaką.'
+  teiginys: "Vytautas siekė paimti Pskovą, Naugardą, Maskvą, Tverį, Riazanę ir totorius savo valdžion arba turėti jiems didelę įtaką."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "652643-653096; hash=f0787908e3cc403d48fe40b24ddcfbcb5355fa9327bf241fc4628fdc900aa646; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Riazanė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Riazanė: mention_match, place, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Riazanė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-027
+    - c-161918
 
 <a id="claim-t-178116"></a>
-- t-015
+- t-059
   global_id: t-178116
-  teiginys: 'Kriavo ir Vitebsko kunigaikštis Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių.'
+  teiginys: "Kriavo ir Vitebsko kunigaikštis Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių."
+  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) gynė Pskovas (0.96)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "683262-683686; hash=202047369e6d2680ecbd900d84f03e47f21016ac278ab67341cb80f3e9ca3f61; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Pskovas: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Pskovas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Algirdas gynė Pskovą."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-033
+    - c-161931
 
 <a id="claim-t-178117"></a>
-- t-016
+- t-039
   global_id: t-178117
-  teiginys: '1432 m. Pskovo vietininkai Joachimas ir Aleksas Jefremovičius su Pskovo bajorais sudarė sutartį su Švitrigaila.'
+  teiginys: "1432 m. Pskovo vietininkai Joachimas ir Aleksas Jefremovičius su Pskovo bajorais sudarė sutartį su Švitrigaila."
+  temporaliniai_duomenys: "įvykio data: 1432 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatos informaciją apie 1432 metų sutartį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "433611-433912; hash=8dfced8d3e4fbdb5eb61f7d1341adc2d1db560bc43ffb4f36e622c7331891b2d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aleksas Jefremovičius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Aleksas Jefremovičius: mention_match, person, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Aleksas Jefremovičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-016
+    - c-161895
 
 <a id="claim-t-178118"></a>
-- t-017
+- t-058
   global_id: t-178118
-  teiginys: 'Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus.'
+  teiginys: "Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus."
+  semantiniai_rysiai: "Lietuviai surengė žygį į Pskovas (0.74)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "342095-342375; hash=ce5f98c2af95d6d75b895e7d494f72e7590beb87a6739f75439b6a65c1bd4cc3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Pskovas: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Pskovas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Lietuvių kariniai būriai nurodyti pasiekdavę Pskovo respublikos plotus."
   pagrindžia:
-    - c-035
+    - c-161933
 
 <a id="claim-t-178119"></a>
-- t-018
+- t-002
   global_id: t-178119
-  teiginys: 'Polocke pas Vytautą atvykę Pskovo pasiuntiniai užmezgė su juo taikingus santykius.'
+  teiginys: "Polocke pas Vytautą atvykę Pskovo pasiuntiniai užmezgė su juo taikingus santykius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "327894-328757; hash=f0280a97e8252f2016fcce7469f8c8596710c8bb280063b0584b1495a55d0c5b; match=word_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-37675
 
 <a id="claim-t-178120"></a>
-- t-019
+- t-007
   global_id: t-178120
-  teiginys: '1183 m. užfiksuotas pirmasis žinomas lietuvių reidas į Pskovo žemes.'
+  teiginys: "1183 m. užfiksuotas pirmasis žinomas lietuvių reidas į Pskovo žemes."
+  semantiniai_rysiai: "Lietuviai surengė žygį į Pskovas (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1183 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Pskovo žemes."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "49109-49653; hash=de7d09abc8037d73d731daba1fb06a8e577e7f0a72155659789c42cb4bba6277; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Pskovas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Pskovas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai mini lietuvių reidą į Pskovo žemes."
   pagrindžia:
-    - c-036
+    - c-161935
 
 <a id="claim-t-178121"></a>
-- t-020
+- t-061
   global_id: t-178121
-  teiginys: 'Steponui Batorui apgulus Pskovą, Posevinui tarpininkaujant prasidėjo derybos dėl karo pabaigos.'
+  teiginys: "Steponui Batorui apgulus Pskovą, Posevinui tarpininkaujant prasidėjo derybos dėl karo pabaigos."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "593151-593507; hash=f6168ad30764d4ee83792fa42b937b717cccff7bcdffcccb7f3d2c43dab250c2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Linkas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Linkas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Linkas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-24428
 
 <a id="claim-t-178122"></a>
-- t-021
+- t-001
   global_id: t-178122
-  teiginys: 'Livonijos Ordinas sudarė su Pskovu dešimties metų sutartį, nukreiptą prieš Vytautą.'
+  teiginys: "Livonijos Ordinas sudarė su Pskovu dešimties metų sutartį, nukreiptą prieš Vytautą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "302245-302761; hash=dbcc84d1caffdc4b830d42e269fe100cbf3bbabcb84987987a09b741f5cc9a66; match=word_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Konstancija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Konstancija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Konstancija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-37674
 
 <a id="claim-t-178123"></a>
-- t-022
+- t-046
   global_id: t-178123
-  teiginys: 'Pskovas ir Didysis Naugardas buvo anksčiau už Vilnių įkurti prekybai tinkami Rusios miestai.'
+  teiginys: "Pskovas ir Didysis Naugardas buvo anksčiau už Vilnių įkurti prekybai tinkami Rusios miestai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "44670-45145; hash=d96f02f63d0787a9f065d3ed5f74007ef8702f6e45fc78afade01bdfdd545ed4; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Didysis Naugardas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Didysis Naugardas: mention_match, place, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Didysis Naugardas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-026
+    - c-161917
 
 <a id="claim-t-178124"></a>
-- t-023
+- t-021
   global_id: t-178124
-  teiginys: '1409 m. vasarą Vytautas sudarė sau naudingą taiką su Pskovu, nors Salyno ir Raciąžo aktai Pskovą buvo garantavę Ordino įtakai.'
+  teiginys: "1409 m. vasarą Vytautas sudarė sau naudingą taiką su Pskovu, nors Salyno ir Raciąžo aktai Pskovą buvo garantavę Ordino įtakai."
+  temporaliniai_duomenys: "įvykio data: 1407 m.; įvykio data: 1409 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pagrįstas, bet perrašytas sklandžiau ir aiškiau."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "880121-880542; hash=46cfcd0dcf1c89c87d252a238782f1bf79eeecfd517b0bcc518982a546d0b23b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Salynas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Salynas: mention_match, place, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Salynas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-022
+    - c-161904
 
 <a id="claim-t-178125"></a>
-- t-024
+- t-035
   global_id: t-178125
-  teiginys: 'Vilniaus prekyba buvo išsišakojusi su Prūsijos ir Livonijos miestais, Pskovu, Naugardu ir Maskva.'
+  teiginys: "Vilniaus prekyba buvo išsišakojusi su Prūsijos ir Livonijos miestais, Pskovu, Naugardu ir Maskva."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "297585-298500; hash=859af48acd0d764849264671c094e06cb6f11d04c09f7dcae60126379694ea2e; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-024
+    - c-161910
 
-<a id="claim-t-178126"></a>
-- t-025
-  global_id: t-178126
-  teiginys: '1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.'
+<a id="claim-t-178129"></a>
+- t-009
+  global_id: t-178129
+  teiginys: "1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais."
+  temporaliniai_duomenys: "įvykio data: 1432 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys sutrumpintas ir sutelktas į Pskovą minintį faktą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "593151-593507; hash=f6168ad30764d4ee83792fa42b937b717cccff7bcdffcccb7f3d2c43dab250c2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Odojevas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Odojevas: mention_match, place, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Odojevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-030
+    - c-161925
 
 <a id="claim-t-178127"></a>
-- t-026
+- t-048
   global_id: t-178127
-  teiginys: 'Vėlesniais Vytauto valdymo metais Vilniaus prekyba išsišakojo su Pskovu, Naugardu, Maskva ir kitais kraštais.'
+  teiginys: "Vėlesniais Vytauto valdymo metais Vilniaus prekyba išsišakojo su Pskovu, Naugardu, Maskva ir kitais kraštais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "297585-298500; hash=859af48acd0d764849264671c094e06cb6f11d04c09f7dcae60126379694ea2e; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-024
+    - c-161910
 
 <a id="claim-t-178128"></a>
-- t-027
+- t-051
   global_id: t-178128
-  teiginys: 'Steponas Batoras, susirūpinęs Pskovo apgultimi, iš stovyklos parašė laišką dėl taikos ir laisvės valstybėje.'
+  teiginys: "Steponas Batoras, susirūpinęs Pskovo apgultimi, iš stovyklos parašė laišką dėl taikos ir laisvės valstybėje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "388829-389097; hash=bae85570ea5420dee79bb4f9d1a28822b8eb4a3b69e674a5e85b5912ff46a16a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Steponas Batoras: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Steponas Batoras: mention_match, person, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Steponas Batoras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-023
+    - c-161905
+
+<a id="claim-t-178129"></a>
+- t-009
+  global_id: t-178129
+  teiginys: "1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais."
+  temporaliniai_duomenys: "įvykio data: 1432 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys sutrumpintas ir sutelktas į Pskovą minintį faktą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "593151-593507; hash=f6168ad30764d4ee83792fa42b937b717cccff7bcdffcccb7f3d2c43dab250c2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Odojevas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Odojevas: mention_match, place, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Odojevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-161925
 
 <a id="claim-t-178130"></a>
-- t-029
+- t-036
   global_id: t-178130
-  teiginys: 'Senyvo amžiaus Vytautas kovėsi su Pskovu ir Naugardu, keršydamas už Lietuvai šių miestų padarytas skriaudas.'
+  teiginys: "Senyvo amžiaus Vytautas kovėsi su Pskovu ir Naugardu, keršydamas už Lietuvai šių miestų padarytas skriaudas."
+  temporaliniai_duomenys: "įvykio data: 1429 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia aiškiai įvardyti Vytautą ir sutrumpinti sakinį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "346051-346859; hash=eef3f0fea75d83131552b92921c7e05dc206e4e4e5a67f27c27b98f86f0a0c38; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=34"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-025
+    - c-161915
+
+<a id="claim-t-178122"></a>
+- t-001
+  global_id: t-178122
+  teiginys: "Livonijos Ordinas sudarė su Pskovu dešimties metų sutartį, nukreiptą prieš Vytautą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "302245-302761; hash=dbcc84d1caffdc4b830d42e269fe100cbf3bbabcb84987987a09b741f5cc9a66; match=word_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Konstancija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Konstancija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Konstancija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  pagrindžia:
+    - c-37674
 
 <a id="claim-t-178132"></a>
-- t-031
+- t-063
   global_id: t-178132
-  teiginys: 'Lietuviams puolant Vilnių, rusų įguloje buvo du Pskovo muškietininkų pulko batalionai.'
+  teiginys: "Lietuviams puolant Vilnių, rusų įguloje buvo du Pskovo muškietininkų pulko batalionai."
+  semantiniai_rysiai: "Lietuviai puolė Vilnius (0.93)"
+  temporaliniai_duomenys: "įvykio data: 1792 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis tekstas yra sulipęs iš kelių fragmentų, o citata palaiko siauresnį faktą apie Pskovą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "610845-611436; hash=e6e0d37e1257d5ee4118f1a27b7d8bdd89d375873f8ca8e9751624f5bd5e3a73; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Vilnius: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad lietuviai puolė Vilnių."
   pagrindžia:
-    - c-011
+    - c-43783
 
 <a id="claim-t-178133"></a>
-- t-032
+- t-022
   global_id: t-178133
-  teiginys: 'Ordino reikalautos Žemaičių ribos buvo vedamos iki Pskovo respublikos valdų.'
+  teiginys: "Ordino reikalautos Žemaičių ribos buvo vedamos iki Pskovo respublikos valdų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "892258-892732; hash=11da21660daab3f63a95e375f3013dd1bf77a4ba462017802523e7969d69649a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=7"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-32365
 
 <a id="claim-t-178134"></a>
-- t-033
+- t-037
   global_id: t-178134
-  teiginys: '1427 m. sėkmingas Vytauto žygis privertė Pskovo pasiuntinius atvykti į Vilnių dėl belaisvių paleidimo.'
+  teiginys: "1427 m. sėkmingas Vytauto žygis privertė Pskovo pasiuntinius atvykti į Vilnių dėl belaisvių paleidimo."
+  temporaliniai_duomenys: "mūšio data: 1427 m.; mūšio data: 1429 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "346051-346859; hash=eef3f0fea75d83131552b92921c7e05dc206e4e4e5a67f27c27b98f86f0a0c38; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-025
+    - c-161915
 
 <a id="claim-t-178135"></a>
-- t-034
+- t-008
   global_id: t-178135
-  teiginys: 'XI–XII a. Pskovo žemės minimos kaip šiaurės vakarų rusėnų koalicijos prieš Lietuvą dalis.'
+  teiginys: "XI–XII a. Pskovo žemės minimos kaip šiaurės vakarų rusėnų koalicijos prieš Lietuvą dalis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "592889-593321; hash=fc9ac5edf61ba4796e19b80c9d82330565b75e43ec522603e1fee7fe68977f9c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=65"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-029
+    - c-161923
 
 <a id="claim-t-178136"></a>
-- t-035
+- t-042
   global_id: t-178136
-  teiginys: 'Steponas Batoras, susirūpinęs Pskovo apgultimi, iš stovyklos parašė laišką dėl taikos krašte saugojimo.'
+  teiginys: "Steponas Batoras, susirūpinęs Pskovo apgultimi, iš stovyklos parašė laišką dėl taikos krašte saugojimo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "388829-389097; hash=bae85570ea5420dee79bb4f9d1a28822b8eb4a3b69e674a5e85b5912ff46a16a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Steponas Batoras: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Steponas Batoras: mention_match, person, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Steponas Batoras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-023
+    - c-161905
 
 <a id="claim-t-178137"></a>
-- t-036
+- t-038
   global_id: t-178137
-  teiginys: 'Pskoviečiai pasiuntė savo posadnikus Joachimą Pavlovičių ir Ivaną Sidorovičių perduoti Vytautui žadėto sidabro.'
+  teiginys: "Pskoviečiai pasiuntė savo posadnikus Joachimą Pavlovičių ir Ivaną Sidorovičių perduoti Vytautui žadėto sidabro."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "348107-348977; hash=34fa879bbb6646b9395faaebad0cddb96981885d529b5ef22b66dfeda111c517; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pskoviečiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Pskoviečiai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Pskoviečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-021
+    - c-161902
 
 <a id="claim-t-178138"></a>
-- t-037
+- t-060
   global_id: t-178138
-  teiginys: 'Pskovas buvo palankus Maskvai, kai ši privertė pasiduoti Lietuvos sąjungininkus Tverę ir Možaiską.'
+  teiginys: "Pskovas buvo palankus Maskvai, kai ši privertė pasiduoti Lietuvos sąjungininkus Tverę ir Možaiską."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "388829-389097; hash=bae85570ea5420dee79bb4f9d1a28822b8eb4a3b69e674a5e85b5912ff46a16a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=57"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-24426
 
 <a id="claim-t-178139"></a>
-- t-038
+- t-012
   global_id: t-178139
-  teiginys: 'Balandžio 23 d. Vilniuje buvusioje rusų įguloje buvo du Pskovo muškietininkų pulko batalionai.'
+  teiginys: "Balandžio 23 d. Vilniuje buvusioje rusų įguloje buvo du Pskovo muškietininkų pulko batalionai."
+  temporaliniai_duomenys: "įvykio data: 1792 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "610845-611436; hash=e6e0d37e1257d5ee4118f1a27b7d8bdd89d375873f8ca8e9751624f5bd5e3a73; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Artilerija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Artilerija: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Artilerija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-011
+    - c-43783
 
 <a id="claim-t-178140"></a>
-- t-039
+- t-060
   global_id: t-178140
-  teiginys: 'Salyno akte ordinui tenkančių žemių sienos buvo nužymėtos iki Pskovo respublikos valdų.'
+  teiginys: "Salyno akte ordinui tenkančių žemių sienos buvo nužymėtos iki Pskovo respublikos valdų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "892258-892732; hash=11da21660daab3f63a95e375f3013dd1bf77a4ba462017802523e7969d69649a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=7"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-32365
+
+<a id="claim-t-178108"></a>
+- t-004
+  global_id: t-178108
+  teiginys: "Kariaudamas su Pskovu, Vytautas pasitraukė tik miestui sutikus sumokėti 1000 rublių kontribucijos ir 450 rublių už belaisvius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "607296-607629; hash=f0cafb299d66e1dbe41132e0dd7ec772b7b70b74333d6c8233ff86adb8f96d30; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-37677
 
 <a id="claim-t-178142"></a>
-- t-041
+- t-049
   global_id: t-178142
-  teiginys: 'Pskoviečiai pasiuntė pas Vytautą posadnikus Joachimą Pavlovičių ir Ivaną Sidorovičių su pažadėtu sidabru.'
+  teiginys: "Pskoviečiai pasiuntė pas Vytautą posadnikus Joachimą Pavlovičių ir Ivaną Sidorovičių su pažadėtu sidabru."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "348107-348977; hash=34fa879bbb6646b9395faaebad0cddb96981885d529b5ef22b66dfeda111c517; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pskoviečiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Pskoviečiai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Pskoviečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-021
+    - c-161902
 
 <a id="claim-t-178143"></a>
-- t-042
+- t-019
   global_id: t-178143
-  teiginys: 'Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių.'
+  teiginys: "Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių."
+  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) gynė Pskovas (0.96)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "683442-683804; hash=3d81b1bf0503a49752b9f0664c7f30a83fca1db36581bc5251beb17316483b74; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Pskovas: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Pskovas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Algirdas gynė Pskovą."
   pagrindžia:
-    - c-031
+    - c-161928
 
 <a id="claim-t-178144"></a>
-- t-043
+- t-047
   global_id: t-178144
-  teiginys: 'Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
+  teiginys: "Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių."
+  semantiniai_rysiai: "Vilnius prekiavo su Pskovas (0.90); Vilnius prekiavo su Ryga (0.90); Vilnius prekiavo su Maskva (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "93146-93648; hash=d03cd0d63b00ce75a45b7850bd579ec94fe842ba5d9b51645f45a8ec9292ebd1; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Maskva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Maskvos pirkliai tiesiogiai minimi Vilniuje vykusių prekių mainų kontekste."
   pagrindžia:
-    - c-018
+    - c-161898
 
 <a id="claim-t-178145"></a>
-- t-044
+- t-050
   global_id: t-178145
-  teiginys: 'Vilniuje sudaryta sutartis su Kazimiero globoje likusiu Pskovu praplėtė Pskovo prekybinius santykius su Lietuvos sostine.'
+  teiginys: "Vilniuje sudaryta sutartis su Kazimiero globoje likusiu Pskovu praplėtė Pskovo prekybinius santykius su Lietuvos sostine."
+  semantiniai_rysiai: "Pskovas prekiavo su Vilnius (0.89)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "457872-458326; hash=085cfdddc680adc8e645038920820d58f743d7dc81fbd8464bc20148b0285440; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Vilnius: 0.89"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pskovas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Pskovo prekybiniai santykiai tiesiogiai siejami su Lietuvos sostine, t. y. Vilniumi."
   pagrindžia:
-    - c-014
+    - c-161893
 
 <a id="claim-t-178146"></a>
-- t-045
+- t-034
   global_id: t-178146
-  teiginys: 'Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
+  teiginys: "Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "93146-93648; hash=d03cd0d63b00ce75a45b7850bd579ec94fe842ba5d9b51645f45a8ec9292ebd1; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-018
+    - c-161898
+
+<a id="claim-t-178147"></a>
+- t-045
+  global_id: t-178147
+  teiginys: "1581 m. rugpjūčio pabaigoje jungtinės pajėgos pasiekė labai gerai įtvirtintą Pskovo miestą."
+  semantiniai_rysiai: "Bokštai priklausė Pskovas (0.77)"
+  temporaliniai_duomenys: "įvykio data: 1581 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas kontekstinis laiko fragmentas, pridėta paremta data."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "378277-378656; hash=b07968bdc44ba28e78e234158fd52db5f776672d315317d046858059e43fe127; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Pskovas: 0.77"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bokštai: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Pskovas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Bokštai minimi kaip Pskovą juosusios sienos dalis."
+  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-161901
 
 <a id="claim-t-178148"></a>
-- t-047
+- t-063
   global_id: t-178148
-  teiginys: 'Pskovas buvo palankus Maskvai, kai ši pajungė Tverę ir Možaiską.'
+  teiginys: "Pskovas buvo palankus Maskvai, kai ši pajungė Tverę ir Možaiską."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "388829-389097; hash=bae85570ea5420dee79bb4f9d1a28822b8eb4a3b69e674a5e85b5912ff46a16a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Možaiskas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Možaiskas: mention_match, place, gap=55"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Možaiskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-24426
 
 <a id="claim-t-178149"></a>
-- t-048
+- t-032
   global_id: t-178149
-  teiginys: 'Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji rusų miestai - Pskovas ir Naugardas - prekyba, mūrais ir netgi savo pačių valdžia galingi.'
+  teiginys: "Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji rusų miestai - Pskovas ir Naugardas - prekyba, mūrais ir netgi savo pačių valdžia galingi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "40330-40926; hash=ec9084479dbab92bb1a23a1e24172798a68eaded8460ad24483258b09a3cc180; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Naugardas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Naugardas: mention_match, place, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Naugardas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-034
+    - c-161932
 
 <a id="claim-t-178150"></a>
-- t-049
+- t-010
   global_id: t-178150
-  teiginys: '1581 m. Pskovo puolimui buvo sutelkta apie 47 tūkst. karių, iš jų apie 23 tūkst. buvo iš LDK.'
+  teiginys: "1581 m. Pskovo puolimui buvo sutelkta apie 47 tūkst. karių, iš jų apie 23 tūkst. buvo iš LDK."
+  temporaliniai_duomenys: "įvykio data: 1581 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Pskovo puolimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "377552-377802; hash=8c045626d9a05bdf4fabd0237311f3888749eb59b60ba07fa1a1a4a83ec03e72; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Livonija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Livonija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-43781
 
 <a id="claim-t-178151"></a>
-- t-050
+- t-056
   global_id: t-178151
-  teiginys: 'Kariaudamas su Pskovu Vytautas pasitraukė tik tada, kai šis sutiko sumokėti 1000 rublių kontribuciją ir 450 rublių už belaisvius.'
+  teiginys: "Kariaudamas su Pskovu Vytautas pasitraukė tik tada, kai šis sutiko sumokėti 1000 rublių kontribuciją ir 450 rublių už belaisvius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "607296-607629; hash=f0cafb299d66e1dbe41132e0dd7ec772b7b70b74333d6c8233ff86adb8f96d30; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=7"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-37677
 
 <a id="claim-t-178152"></a>
-- t-051
+- t-005
   global_id: t-178152
-  teiginys: 'Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428).'
+  teiginys: "Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428)."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) surengė žygį į Pskovas (0.92); Vytautas (Lietuvos valdovas, XIV–XV a.) surengė žygį į Naugardas (0.88)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "631007-631395; hash=0b279c42900db0de78d983fa1de0705b3cabad6c676ba2724998b5fbf94d7680; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Pskovas: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Pskovas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai mini Vytauto žygius į Pskovą."
   pagrindžia:
-    - c-008
+    - c-37678
 
 <a id="claim-t-178153"></a>
-- t-052
+- t-040
   global_id: t-178153
-  teiginys: 'Vilniuje sudaryta sutartis su Pskovu praplėtė šio miesto prekybinius santykius su Lietuvos sostine.'
+  teiginys: "Vilniuje sudaryta sutartis su Pskovu praplėtė šio miesto prekybinius santykius su Lietuvos sostine."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "457872-458326; hash=085cfdddc680adc8e645038920820d58f743d7dc81fbd8464bc20148b0285440; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=52"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-014
+    - c-161893
 
 <a id="claim-t-178154"></a>
-- t-053
+- t-062
   global_id: t-178154
-  teiginys: '1449 m. Kazimiero ir Maskvos taikoje Pskovas buvo paliktas Maskvos įtakos sričiai.'
+  teiginys: "1449 m. Kazimiero ir Maskvos taikoje Pskovas buvo paliktas Maskvos įtakos sričiai."
+  temporaliniai_duomenys: "įvykio data: 1449 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas nutrūkęs fragmentas ir suformuluotas citata paremtas sakinys."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "161311-161924; hash=fab7c42513e5d59490e6ce201e347b343fced54c0f2a2e4ab0df057e65863232; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Marienburgas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Marienburgas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Marienburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-24425
 
 <a id="claim-t-178155"></a>
-- t-054
+- t-003
   global_id: t-178155
-  teiginys: 'Į Vytauto suvažiavimą atvyko ir Pskovo kunigaikščiai.'
+  teiginys: "Į Vytauto suvažiavimą atvyko ir Pskovo kunigaikščiai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "523585-523977; hash=99682e2ec5022bd9b1ad11b7a89741233c97d4c790c0a0de28df37e92f039359; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bizantija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Bizantija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Bizantija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-015
+    - c-161894
 
 <a id="claim-t-178156"></a>
-- t-055
+- t-043
   global_id: t-178156
-  teiginys: 'Į prieš Lietuvą nukreiptą koaliciją įsijungė Naugardo ir Pskovo žemės.'
+  teiginys: "Į prieš Lietuvą nukreiptą koaliciją įsijungė Naugardo ir Pskovo žemės."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "592889-593321; hash=fc9ac5edf61ba4796e19b80c9d82330565b75e43ec522603e1fee7fe68977f9c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=49"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-029
+    - c-161923
+
+<a id="claim-t-183086"></a>
+- t-064
+  global_id: t-183086
+  teiginys: "Steponui Batorui apgulus Pskovą, Posevinui tarpininkaujant prasidėjo derybos dėl karo pabaigos."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "592889-593321; hash=fc9ac5edf61ba4796e19b80c9d82330565b75e43ec522603e1fee7fe68977f9c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Pskovas: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Pskovas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad lietuviai nusiaubė Pskovą."
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-166474
+
+<a id="claim-t-184319"></a>
+- t-068
+  global_id: t-184319
+  teiginys: "Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428)."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) surengė žygį į Pskovas (0.93); Vytautas (Lietuvos valdovas, XIV–XV a.) surengė žygį į Naugardas (0.93)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "630864-631171; hash=3771449fafd76535a49505768562d23486c8a349518eb92f3a53f8b8cfd5bab1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Naugardas: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Naugardas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tiesiogiai sakoma, kad Vytautas turėjo žygių į Naugardą."
+  pagrindžia:
+    - c-167690
 
 <a id="claim-t-185116"></a>
-- t-058
+- t-069
   global_id: t-185116
-  teiginys: 'Pskove Daumantas sėkmingai vadovavo pskoviečių jėgoms prieš Livoniją, o viena gynybinė siena vadinta jo vardu.'
+  teiginys: "Pskove Daumantas sėkmingai vadovavo pskoviečių jėgoms prieš Livoniją, o viena gynybinė siena vadinta jo vardu."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Daumantas (kunigaikštis, XV a.) keliavo į Pskovas (0.78)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "239827-240661; hash=4da634176f1c97f9695eb98404e517248e13dd4a87351b44889a0e1642977ebd; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Pskovas: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Daumantas (kunigaikštis, XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Pskovas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo, kad Daumantas pateko į Pskovą."
   pagrindžia:
-    - c-040
+    - c-168477
 
 <a id="claim-t-187643"></a>
 - t-059
   global_id: t-187643
-  teiginys: 'Vytauto dukterį Sofiją lydėję asmenys iš Gdansko laivais per Pernu pasiekė Pskovą.'
+  teiginys: "Vytauto dukterį Sofiją lydėję asmenys iš Gdansko laivais per Pernu pasiekė Pskovą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Sofija (Vytauto duktė) keliavo į Pskovas (0.78); Sofija (Vytauto duktė) keliavo į Pernu (0.72)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "161311-161924; hash=fab7c42513e5d59490e6ce201e347b343fced54c0f2a2e4ab0df057e65863232; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Pskovas: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sofija (Vytauto duktė): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Pskovas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys nurodo, kad Sofiją lydėję asmenys pasiekė Pskovą; ji buvo kelionės dalyvė."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-041
+    - c-170590
 - susijęs iš [[objektai/ivykiai/Vytauto žygis į Pskovą ir Pskovo taika (1426 m.).md#claim-t-34521|Vytauto žygis į Pskovą ir Pskovo taika (1426 m.)]]: 1426 m. rugpjūtį Vytautas su lietuvių, lenkų, čekų ir totorių kariuomene užpuolė Pskovą, bet miesto paimti nepavyko.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176652|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Tų metų rugpjūtį Vytautas Didysis su lietuvių, lenkų, čekų ir totorių kariuomene užpuolė Pskovą.
 - susijęs iš Naugardas: Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428).
@@ -545,6 +1274,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179008|Kryžiuočių ordinas]]: 1429 m. Lucko suvažiavime dalyvavo ir Vokiečių ordino pasiuntiniai.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179067|Kryžiuočių ordinas]]: Lucko suvažiavime Vokiečių ordinas rėmė Vytauto vainikavimo planą kaip atsvarą Lenkijai regione.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179226|Lietuviai]]: 1320 m. liepos 27 d. Medininkų žemėje lietuviai sutriuškino į Žemaitiją įsiveržusius kryžiuočius.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-192429|Lietuviai]]: Teodoras Narbutas, remdamasis padavimais ir senaisiais autoriais, teigė, kad lietuvių genties tautoms žemės priklausė dar gerokai prieš VI amžių.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-183155|Lietuvos Didžioji Kunigaikštystė]]: Edukacinės komisijos pertvarkyta valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios – į apygardas.
 - susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-187725|Lietuvos kariuomenė]]: Per 1406-1408 m. LDK ir Maskvos karą LDK kariuomenė buvo užėmusi Odojevą ir Vorotynską.
 - susijęs iš [[objektai/grupes/Maskvos kunigaikštija.md#claim-t-92728|Maskvos kunigaikštija]]: Pskovo ir Naugardo respublikos labiau šliejosi prie Livonijos ordino ir Maskvos, priešingų Vytauto įsigalėjimui Rytuose.
@@ -672,7 +1402,6 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
 - susijęs iš Vengrija: 1579 m. žygiui prieš caro kariuomenę buvo pasamdyta kareivių Vengrijoje ir Vokietijoje.
 - susijęs iš Vengrija: Totoriai nuniokojo Vengriją ir Lenkiją.
 - susijęs iš Vengrija: Rengiantis 1579 m. žygiui, kareivių buvo samdoma Vengrijoje ir Vokietijoje.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): 1469 metais bernardinams bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis, nusidriekęs palei Vilnios upę prie Karališkojo malūno.
 - susijęs iš Vilnia: 1469 metais bernardinams bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis, nusidriekęs palei Vilnios upę prie Karališkojo malūno.
 - susijęs iš Vilnius: Lietuviams puolant balandžio 23 d., Vilniuje buvusią rusų įgulą sudarė 2500 pėstininkų, 300 raitelių ir 19 artilerijos pabūklų.
 - susijęs iš Vilnius: Lietuviams puolant balandžio 23 d., Vilniuje buvusią rusų įgulą sudarė 2500 pėstininkų, 300 raitelių ir 19 artilerijos pabūklų.
@@ -722,6 +1451,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     tuvos įtakoje — Tverė. Riazanei buvo palikta teisė pačiai
     pasirinkti sau globą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -739,6 +1469,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     (pirmasis buvo 1471 m., antrasis — 1479 m.) prijungė prie
     Maskvos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -757,8 +1488,9 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     be to, kariuomenė buvo išvargusi, joje prasidėjo ligos, o Pskovo
     tvirtovė buvo gerai sustiprinta ir sunkiai paimama.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
@@ -776,6 +1508,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     lavo ir žymią dalį Sūduvos dykros, į kurią, kaip į jo paties XIII
     amž. gale nukariautą kraštą, vis reiškė pretenzijas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -797,8 +1530,9 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     susirinkimui; bet ir tas nieko nepadėjo, nes po kelių metų Ordi­
     nas padarė amžiną taiką ir su Naugardu D. (1421).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-030
@@ -823,6 +1557,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     jo paramos prieš Ordiną, bet Vytautas buvo ant jo užsirūstinęs,
     kad šis neteikė jam paramos per Žalgirio karą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -840,6 +1575,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     chovo miestai, nebenorėdami kariauti, sumokėjo Vytautui
     10.000 rublių kontribucijos (1428).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -859,6 +1595,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     nemenka ir kad to amato lietuviai išmokę iš kryžiuočiu; iš jų
     retais atsitikimais gaudavę ir patranką.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -878,6 +1615,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     jų įgulas. Iki birželio 4 d. su Maskva vyko
     nevaisingos derybos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -899,6 +1637,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     dalys taip pat buvo apjuostos gynybinėmis
     sienomis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -927,6 +1666,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     viso 2500 pėstininkų, 300 rai-
     telių ir 19 artilerijos pabūklų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -948,6 +1688,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
     savo atvykimą iškart pranešti pilininkui4 3  44.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -964,6 +1705,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     namo buvo ne karo žygis, o tik rytinių valstybės pakraščių patikrinimas –
     pajungiami Pskovas (1426 m.) ir Didysis Naugardas (1428 m.).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -982,6 +1724,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     niaus piliai34 ir 1451 metais miestiečius, paklūstančius Mag­
     deburgo teisei, atleido nuo pastočių davimo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1000,6 +1743,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     niai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­
     džiai priimti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1021,6 +1765,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     novinės sienos, kaip buvę Vytauto
     laikais.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1034,6 +1779,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     pastangos Pskove pastatyti savo vietininką, suvedė į naują kon­
     fliktą su Maskva. 1407 m. pavasarį jis išsirengė į antrą žygį.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1053,6 +1799,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     jo lankytis tolimose provincijose, kur artimiau susipažino su
     krikščioniškąja kultūra26.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1076,6 +1823,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
     niai^2 ).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1100,6 +1848,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     rio ir 12 m aukščio išorinė mūro siena su
     27 bokštais.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1134,6 +1883,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     vičių, ir bojarinus ir davė jiems Vy­
     tautui žadėtą sidabrą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1153,6 +1903,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     Nepasisekė tik Vytautui didžiajai Lietuvos kunigaikštijai
     naudinga linkme sutvarkyti rytų Bažnyčios reikalų^61.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1177,6 +1928,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     vo išleistas rašinys Apie mylimą va- tams.
     sąrą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1204,6 +1956,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     tas Kristaus tikėjimo šviesos, miestai tikrai dar negalėjo su­
     klestėti!
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1229,6 +1982,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     250 rublių nepridėjo (1429 m.) per antrąkart atsiųstus: po-
     sadniką Silvestrą Levontjevičių ir vietininką Parfėjų81.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1249,6 +2003,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     tinkami prekybai, jie greičiau virto tankiai gyvenamomis ir tur­
     tingesnėmis gyvenvietėmis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1267,6 +2022,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     čiai, totoriai. Vytautas nori visus juos paimti savo valdžion
     ar bent turėti jiems didelę įtaką.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1285,6 +2041,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, per
     kurį nusiaubė Pskovą, o pakeliui turbūt ir Polocką.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1332,6 +2089,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     valstybinį darinį, tačiau
     1209 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1354,6 +2112,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     Tverės kunigaikščiais. Tuo tarpu Jogailos
     Lenkijos santykiai su Ordinu aštrėjo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1372,6 +2131,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     mas, savo kunigaikščiu pasikvietė vyriausią Algirdo sūnų, per
     krikštą gavusį Andriaus vardą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1389,6 +2149,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     do įsigalėti jokiems smulkiems kunigaikščiams, valdžiusiems sa­
     vo teritorijas, išsekintiems tarpusavio vaidų ir totorių atakų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1407,6 +2168,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     Šiaurėje, pvz., Kriavo ir Vitebsko kunigaikštis Algirdas nuo Livo­
     nijos kryžiuočių sėkmingai gynė Pskovą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1428,6 +2190,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     gyvenvietė; tik pietų Rusioje klestėjo senasis Kijevas, Rytų apeigų
     tikėjimo lopšys ir kurį laiką garsios monarchijos sostinė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1447,6 +2210,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     Didžiojo Naugardo ir Pskovo respublikų. Rytuose jie atsitrenkdavo
     į tolimus Dniepro plotus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1467,6 +2231,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     iškilo vienas visos Lietuvos valdovas, administruodamas jam pa-
     valdžias teritorijas rėmęsis jam ištikima kariauna.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1485,6 +2250,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     buvę Voluinė ir Haličas, Kijevas, Pskovas. Tai leido Lietuvai tapti didelių
     politinių kombinacijų dalyve ir vyraujančia regiono jėga – didvalstybe.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1504,6 +2270,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     vą, o mažesni jo kariuomenės būriai naikino tolimąsias ru-
     sų žemes, Posevinui tarpininkaujant, prasidėjo derybos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1521,6 +2288,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     (1426) bei Naugardą (1428). Žymiausia jų buvo Halka, kurią
     veždavo 20 porų arklių prieš piet ir tiek pat po piet.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1552,6 +2320,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     nesulaukusi, ji vis dėlto suprato, koks reikalas, ir pa­
     sidavė Narimantui.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1575,11 +2344,852 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     labai svetingai ir palydėjo pagarbiai ligi Didžiojo Nau-
     gardo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-059
+
+## Citatos
+
+- id: c-24425
+  citata_originali: |
+    Tačiau neparemti jie pralaimėjo, ir Kazi-
+    mierui teko padaryti su Maskva amžinąją taiką (1449 m.), —
+    vadinasi, teko pripažinti Maskvą esant visiškai lygią su Lietuva.
+    Maža to, Kazimieras net pasidalino su Maskva įtakos sritimis:
+    Maskvos įtakoje buvo palikti Pskovas su D. Naugardu, o Lie-
+    tuvos įtakoje — Tverė. Riazanei buvo palikta teisė pačiai
+    pasirinkti sau globą.
+  citata_rodoma: "Maža to, Kazimieras net pasidalino su Maskva įtakos sritimis:\nMaskvos įtakoje buvo palikti Pskovas su D. Naugardu, o Lie-\ntuvos įtakoje — Tverė. Riazanei buvo palikta teisė pačiai\npasirinkti sau globą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178113
+    - t-178154
+
+- id: c-24426
+  citata_originali: |
+    Tad Maskva
+    galėjo laisvai veikti. Pirmiausia ji privertė savo valdžiai pasi-
+    duoti Lietuvos sąjungininkus Tverę ir vėliau Možaiską. Psko-
+    vas jai buvo palankus; o D. Naugardą Jonas III po antrojo žygio
+    (pirmasis buvo 1471 m., antrasis — 1479 m.) prijungė prie
+    Maskvos.
+  citata_rodoma: "Pirmiausia ji privertė savo valdžiai pasi-\nduoti Lietuvos sąjungininkus Tverę ir vėliau Možaiską. Psko-\nvas jai buvo palankus; o D. Naugardą Jonas III po antrojo žygio\n(pirmasis buvo 1471 m., antrasis — 1479 m.) prijungė prie\nMaskvos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178138
+    - t-178148
+
+- id: c-24428
+  citata_originali: |
+    Kai Stp. Batoras su svarbiausiomis jėgomis apgulė Psko-
+    vą, o mažesni jo kariuomenės būriai naikino tolimąsias ru-
+    sų žemes, Posevinui tarpininkaujant, prasidėjo derybos. Ka-
+    ralius linko taikintis, nes užėjusi žiema labai trukdė kariauti,
+    be to, kariuomenė buvo išvargusi, joje prasidėjo ligos, o Pskovo
+    tvirtovė buvo gerai sustiprinta ir sunkiai paimama.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178121
+
+- id: c-32365
+  citata_originali: |
+    Salyno akte pirmą kartą apytikriai
+    buvo nužymėtos ordinui tenkančių žemių sienos. Žemaičiuose jos
+    ėjo Nevėžio tėkme, o jo aukštupyje nuo Vaišvilčių kaimo buvo
+    pratęstos (Mūšos upe, Smardonės upeliu, Apaščios ežeru, netoli
+    dabartinių Biržų), paskui tiesiai į šiaurę iki Pskovo respublikos
+    valdų.
+    Gaudamas Žemaičius iki Nevėžio, ordinas pirmą kartą išreika­
+    lavo ir žymią dalį Sūduvos dykros, į kurią, kaip į jo paties XIII
+    amž. gale nukariautą kraštą, vis reiškė pretenzijas.
+  citata_rodoma: "Žemaičiuose jos\nėjo Nevėžio tėkme, o jo aukštupyje nuo Vaišvilčių kaimo buvo\npratęstos (Mūšos upe, Smardonės upeliu, Apaščios ežeru, netoli\ndabartinių Biržų), paskui tiesiai į šiaurę iki Pskovo respublikos\nvaldų.\nGaudamas Žemaičius iki Nevėžio, ordinas pirmą kartą išreika­\nlavo ir žymią dalį Sūduvos dykros, į kurią, kaip į jo paties XIII\namž."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178133
+    - t-178140
+
+- id: c-37674
+  citata_originali: |
+    Ordinu
+    (1414) ir krikšto reikalais Žemaitijoje (1416), negalėjo tinkamai
+    totorių sudrausti.
+    Bet daugiausia Vytautas širdo ant Livonijos Ordino, kuris
+    tuo pat laiku, kai Konstancijon buvo siunčiamas Cemblakas, pa­
+    darė su Pskovu 10 metų sutartį, nukreiptą prieš Vytautą. Vy­
+    tautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­
+    kais prieš jį kataliką, ir grasino pasiųsti skundą Konstancijos
+    susirinkimui; bet ir tas nieko nepadėjo, nes po kelių metų Ordi­
+    nas padarė amžiną taiką ir su Naugardu D. (1421).
+  citata_rodoma: "Bet daugiausia Vytautas širdo ant Livonijos Ordino, kuris\ntuo pat laiku, kai Konstancijon buvo siunčiamas Cemblakas, pa­\ndarė su Pskovu 10 metų sutartį, nukreiptą prieš Vytautą. Vy­\ntautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­\nkais prieš jį kataliką, ir grasino pasiųsti skundą Konstancijos\nsusirinkimui; bet ir tas nieko nepadėjo, nes po kelių metų Ordi­\nnas padarė amžiną taiką ir su Naugardu D."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178131
+    - t-178122
+
+- id: c-37675
+  citata_originali: |
+    Ir kada Vytautas,
+    norėdamas dar labiau sustiprinti rusiškuose kraštuose savo per­
+    galės įspūdį ir daugiau laimėti jų pasitikėjimo, 1411 metų pava­
+    sarį kartu su Jogaila lankė Lietuvos Rytų pakraščius, tai jų ke­
+    lionė buvo panaši triumfui. Vykstant Vytautui pro Polocką,
+    Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo,
+    jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­
+    klusnumą. Polocke pas jį atvyko ir užmezgė taikingus
+    santykius Pskovo pasiuntiniai; Smolenskan atsilankė Ria­
+    zaniaus kunigaikštis kartu su Vytauto dukterimi Sofija, di­
+    džiąja Maskvos kunigaikštiene, pasiduodamas jo valdžiai ir
+    prašydamas jam dovanoti, kad taip ilgai gyveno su Vytautu ne­
+    santaikoje; taip pat ir Naugardas linko Vytauto pusėn ir ieško­
+    jo paramos prieš Ordiną, bet Vytautas buvo ant jo užsirūstinęs,
+    kad šis neteikė jam paramos per Žalgirio karą.
+  citata_rodoma: "Polocke pas jį atvyko ir užmezgė taikingus\nsantykius Pskovo pasiuntiniai; Smolenskan atsilankė Ria­\nzaniaus kunigaikštis kartu su Vytauto dukterimi Sofija, di­\ndžiąja Maskvos kunigaikštiene, pasiduodamas jo valdžiai ir\nprašydamas jam dovanoti, kad taip ilgai gyveno su Vytautu ne­\nsantaikoje; taip pat ir Naugardas linko Vytauto pusėn ir ieško­\njo paramos prieš Ordiną, bet Vytautas buvo ant jo užsirūstinęs,\nkad šis neteikė jam paramos per Žalgirio karą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178119
+    - t-178114
+
+- id: c-37677
+  citata_originali: |
+    Be mokesčių Vytautas didindavo dar savo pajamas ir kon­
+    tribucijomis. Yra žinoma, kad jis, kariaudamas su Pskovu, pa­
+    sitraukė nuo jo tik sutikus sumokėti 1000 rublių kontribucijos,
+    o už belaisvius — pridėjus dar 450 rublių. Naugardo ir Por­
+    chovo miestai, nebenorėdami kariauti, sumokėjo Vytautui
+    10.000 rublių kontribucijos (1428).
+  citata_rodoma: "Yra žinoma, kad jis, kariaudamas su Pskovu, pa­\nsitraukė nuo jo tik sutikus sumokėti 1000 rublių kontribucijos,\no už belaisvius — pridėjus dar 450 rublių. Naugardo ir Por­\nchovo miestai, nebenorėdami kariauti, sumokėjo Vytautui\n10."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178141
+    - t-178151
+    - t-178108
+
+- id: c-37678
+  citata_originali: |
+    Vytautas turėjo patrankų ir savo žygiuose į Pskovą
+    (1426) bei Naugardą (1428). Žymiausia jų buvo Halka, kurią
+    veždavo 20 porų arklių prieš piet ir tiek pat po piet.
+    Mykolas Brenšteinas^1 ), remdamasis įvairiomis kroniko­
+    mis, mano, kad Vytauto amžiaus gale lietuvių artilerija buvo jau
+    nemenka ir kad to amato lietuviai išmokę iš kryžiuočiu; iš jų
+    retais atsitikimais gaudavę ir patranką.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178152
+
+- id: c-43781
+  citata_originali: |
+    Pskovo apgultis
+
+    1581 m. Pskovo puolimui buvo sutelkta apie
+    47 tūkst. karių, iš kurių apie 23 tūkst. - iš
+    LDK. S. Batoras planavo užėmęs Pskovą
+    atkirsti nuo Rusijos Livonijoje esančias
+
+    jų įgulas. Iki birželio 4 d. su Maskva vyko
+    nevaisingos derybos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178150
+
+- id: c-43782
+  citata_originali: |
+    ## Puslapis 95
+
+    Rugpjūčio pabaigoje jungtinės pajė-
+    gos pasiekė labai gerai įtvirtintą Pskovo
+    miestą. Pskovą juosė 9 km ilgio, 4-5 m sto-
+    rio ir 12 m aukščio išorinė mūro siena su
+    27 bokštais. Miesto viduje buvo Daumanto
+    kremlius - vidinė pilis, atskiros miesto
+    dalys taip pat buvo apjuostos gynybinėmis
+    sienomis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178110
+
+- id: c-43783
+  citata_originali: |
+    Tačiau sprendžiant iš 1792 m. dokumentuose aptinkamų žinių, kartais
+    Prūsijoje būdavo įsigyjama ne ypač geros kokybės šautuvų. Mėginta šautuvus gaminti Gardine,
+
+    tačiau vadovybė savais gamintojais nepasitikėjo
+
+    Rusijos pajėgos
+
+    Lietuviams puolant balandžio 23 d.
+    Vilniuje buvusią rusų įgulą sudarė:
+    Narvos muškietininkų pulko vienas
+    batalionas ir trys kompanijos (kuo-
+    pos), Pskovo muškietininkų pul-
+    ko du batalionai, Dono kazokų
+    pulkas, keturios lauko artileri-
+    jos kompanijos (kuopos) ir ke-
+    letas kitų smulkesnių dalinių. Iš
+    viso 2500 pėstininkų, 300 rai-
+    telių ir 19 artilerijos pabūklų.
+  citata_rodoma: "Mėginta šautuvus gaminti Gardine,\n\ntačiau vadovybė savais gamintojais nepasitikėjo\n\nRusijos pajėgos\n\nLietuviams puolant balandžio 23 d.\nVilniuje buvusią rusų įgulą sudarė:\nNarvos muškietininkų pulko vienas\nbatalionas ir trys kompanijos (kuo-\npos), Pskovo muškietininkų pul-\nko du batalionai, Dono kazokų\npulkas, keturios lauko artileri-\njos kompanijos (kuopos) ir ke-\nletas kitų smulkesnių dalinių. Iš\nviso 2500 pėstininkų, 300 rai-\ntelių ir 19 artilerijos pabūklų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178139
+    - t-178132
+
+- id: c-161891
+  citata_originali: |
+    Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
+    to ginčai, ir po kelerių metų (1500 m.) anoji sutartis su caru
+    buvo nutraukta. Tačiau Aleksandro ir Elenos santuoka išplė­
+    tė prekybinius Vilniaus santykius su Rusios miestais ir ska­
+    tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­
+    tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.
+    Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
+    pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
+    savo atvykimą iškart pranešti pilininkui4 3  44.
+  citata_rodoma: "Tačiau Aleksandro ir Elenos santuoka išplė­\ntė prekybinius Vilniaus santykius su Rusios miestais ir ska­\ntino steigti naujas užeigas pirkliams, atvykstantiems į Lie­\ntuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.\nKaralius leido miestui pastatyti Svečių namus, kuriuose rusų\npirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie\nsavo atvykimą iškart pranešti pilininkui4 3  44."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178103
+
+- id: c-161892
+  citata_originali: |
+    XV a. trečiojo dešimtmečio pabaigoje Vytautas pradėjo elgtis
+    kaip savarankiškas valdovas. 1427 m. žygiavo į Maskvą padėti vaikaičiui
+    Baziliui (Vasiliui) II, tam užteko vien pademonstruoti jėgą. Grįžimas
+    namo buvo ne karo žygis, o tik rytinių valstybės pakraščių patikrinimas –
+    pajungiami Pskovas (1426 m.) ir Didysis Naugardas (1428 m.).
+  citata_rodoma: "Grįžimas \nnamo buvo ne karo žygis, o tik rytinių valstybės pakraščių patikrinimas – \npajungiami Pskovas (1426 m.) ir Didysis Naugardas (1428 m.)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178112
+
+- id: c-161893
+  citata_originali: |
+    Tapęs karaliumi, jis tą pačią privilegiją pritaikė
+    visiems Vilniaus gyventojams, prekiaujantiems su Lenkija.
+    Sutartis, Vilniuje sudaryta su Pskovu, likusiu Kazimiero
+    globoje, gerokai praplėtė prekybinius šio turtingo miesto
+    santykius su Lietuvos sostinė33. Karalius už nuopelnus da­
+    lijo bajorams statydintis žemės sklypus, priklausančius Vil­
+    niaus piliai34 ir 1451 metais miestiečius, paklūstančius Mag­
+    deburgo teisei, atleido nuo pastočių davimo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178145
+    - t-178153
+
+- id: c-161894
+  citata_originali: |
+    Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
+    čiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­
+    zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­
+    niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­
+    riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
+    niai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­
+    džiai priimti.
+  citata_rodoma: "Atkeliavo ir Vytauto giminaičiai, Mo­\nzūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­\nniaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­\nriaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­\nniai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­\ndžiai priimti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178155
+    - t-178100
+
+- id: c-161895
+  citata_originali: |
+    Palenkdamas rusų bojari-
+    10
+    Pskovo metraštis (K a r a m z i n, V,
+    1. 146 - prieraš.) pasakoja, kad 1432
+    metais vietininkai Joachimas ir Alek­
+    sas Jefremovičius su Pskovo bojari­
+    nais atvyko pas Švitrigailą ir sudarė
+    su juo sutartį, kurioje patvirtinta se­
+    novinės sienos, kaip buvę Vytauto
+    laikais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178117
+
+- id: c-161896
+  citata_originali: |
+    Naugardą su Pskovu. Bet Vytauto veiklumas rytuose, jo
+    pastangos Pskove pastatyti savo vietininką, suvedė į naują kon­
+    fliktą su Maskva. 1407 m. pavasarį jis išsirengė į antrą žygį.
+  citata_rodoma: "Bet Vytauto veiklumas rytuose, jo\npastangos Pskove pastatyti savo vietininką, suvedė į naują kon­\nfliktą su Maskva. 1407 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178109
+
+- id: c-161898
+  citata_originali: |
+    Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba,
+    plitusi Lietuvoje Algirdo galios ir rūpesčio dėka, sostinę da­
+    rė gyvą. Jo laikais jau būdavo saugu visuose kraštuose, ku­
+    riuos jis valdė, Vilniuje vykdavo laisvi prekių mainai tarp
+    Naugardo, Pskovo, Rygos ir Maskvos pirklių. Vilniaus
+    miestiečiai, gavę svarbią privilegiją laisvai prekiauti viso­
+    je Lietuvos valstybėje, nemokėdami muito mokesčių, pradė­
+    jo lankytis tolimose provincijose, kur artimiau susipažino su
+    krikščioniškąja kultūra26.
+  citata_rodoma: "Jo laikais jau būdavo saugu visuose kraštuose, ku­\nriuos jis valdė, Vilniuje vykdavo laisvi prekių mainai tarp\nNaugardo, Pskovo, Rygos ir Maskvos pirklių. Vilniaus\nmiestiečiai, gavę svarbią privilegiją laisvai prekiauti viso­\nje Lietuvos valstybėje, nemokėdami muito mokesčių, pradė­\njo lankytis tolimose provincijose, kur artimiau susipažino su\nkrikščioniškąja kultūra26."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178146
+    - t-178144
+
+- id: c-161899
+  citata_originali: |
+    Atvyko
+    Jogaila su savo šimtais palydovų, Romos ciesorius Zigmantas
+    su savo žmona Barbora Cyleikaite, Jogailos antrosios žmonos
+    giminiete, — lydimi daugelio savo baronų; ir pats Vytautas su
+    gausybe savo lėnininkų pasiuntinių, didikų ir kunigaikščių.
+    Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
+    čiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­
+    zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­
+    niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­
+    riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
+    niai^2 ).
+  citata_rodoma: "Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­\nčiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­\nzūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­\nniaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­\nriaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­\nniai^2 )."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178111
+
+- id: c-161901
+  citata_originali: |
+    Steponas Batoras uždraudė
+    plėšti gyventojus, paimtus į nelaisvę žmo-
+    nes paleido, pareiškęs, kad kariaujama su
+    Maskvos tironu Ivanu Iv (Rūsčiuoju), o ne
+    su jo nelaimingais pavaldiniais.
+
+    ## Puslapis 95
+
+    Rugpjūčio pabaigoje jungtinės pajė-
+    gos pasiekė labai gerai įtvirtintą Pskovo
+    miestą. Pskovą juosė 9 km ilgio, 4-5 m sto-
+    rio ir 12 m aukščio išorinė mūro siena su
+    27 bokštais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178147
+
+- id: c-161902
+  citata_originali: |
+    Oni że jechawsze w Wilno na srok i po-
+    stawisza plenennych pred Witowtom, i
+    srebro połazisza 1000 rublej, on że po-
+    hanyi srebro wzia, a plenennych na kre-
+    posti posadi. Za try nedeli do W elika dni
+    Pskowiczi posłasza k Witowtu posad-
+    nika Selivestra Lewontiewicz i Władyc-
+    znia Namiestnika Parfeja - i dokonczas-
+    za za połonennych połpiata sta rublew,
+    a srebro dati na Pokrow. [Pskoviečiai
+    pasiuntė pas didįjį kunigaikštį Jurgį
+    posadniką Timofejevičių ir bajorus,
+    kad siųstų savuosius bajorus pas Vy­
+    tautą ir nusilenktų už pskoviečius;
+    ir būsianti tada jam su kunigaikščiu
+    Jurgiu Didžiosios Kunigaikštystės
+    gynyba, bet tas visko atsisakė ir žie­
+    mai atsiuntė didysis kunigaikštis sa­
+    vo bajorus į Pskovą, ir pskoviečiai
+    su jais atsiuntė savo posadnikus Jo­
+    achimą Pavlovičių ir Ivaną Sidoro-
+    vičių, ir bojarinus ir davė jiems Vy­
+    tautui žadėtą sidabrą.
+  citata_rodoma: "Za try nedeli do W elika dni \nPskowiczi posłasza k Witowtu posad- \nnika Selivestra Lewontiewicz i Władyc- \nznia Namiestnika Parfeja - i dokonczas- \nza za połonennych połpiata sta rublew, \na srebro dati na Pokrow. [Pskoviečiai \npasiuntė pas didįjį kunigaikštį Jurgį \nposadniką Timofejevičių ir bajorus, \nkad siųstų savuosius bajorus pas Vy­\ntautą ir nusilenktų už pskoviečius; \nir būsianti tada jam su kunigaikščiu \nJurgiu Didžiosios Kunigaikštystės \ngynyba, bet tas visko atsisakė ir žie­\nmai atsiuntė didysis kunigaikštis sa­\nvo bajorus į Pskovą, ir pskoviečiai\nsu jais atsiuntė savo posadnikus Jo­\nachimą Pavlovičių ir Ivaną Sidoro- \nvičių, ir bojarinus ir davė jiems Vy­\ntautui žadėtą sidabrą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178142
+    - t-178137
+
+- id: c-161904
+  citata_originali: |
+    Dar tebevykstant Maskvos žygiams, Vytautas 1407 m. susi­
+    taikė su Didžiuoju Naugardu, kur, pačios respublikos prašymu,
+    Vytautas grąžino sau ištikimą Lengvenį Algirdaitį^60. Nors Salyno
+    ir Raciąžo aktais Pskovas buvo buvęs garantuotas ordino įtakai,
+    Vytautas su Pskovu 1409 m. vasarą padarė sau naudingą taiką.
+    Nepasisekė tik Vytautui didžiajai Lietuvos kunigaikštijai
+    naudinga linkme sutvarkyti rytų Bažnyčios reikalų^61.
+  citata_rodoma: "Nors Salyno\nir Raciąžo aktais Pskovas buvo buvęs garantuotas ordino įtakai,\nVytautas su Pskovu 1409 m. vasarą padarė sau naudingą taiką.\nNepasisekė tik Vytautui didžiajai Lietuvos kunigaikštijai\nnaudinga linkme sutvarkyti rytų Bažnyčios reikalų^61."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178124
+
+- id: c-161905
+  citata_originali: |
+    Šis vyskupo žingsnis 1581 metais padrąsino
+    viešosios rimties drumstėjus atvirai užpulti reformatų mal­
+    dos namus ir jų spaustuvę, buvusią Danieliaus Lenčickio
+    žinioje. Bet teisingas ir santūrus Steponas Batoras sugebė­
+    jo skubiai nutraukti neleistinus ketinimus. Rūsčiai išbarė
+    už šią sumaištį karalius, susirūpinęs Pskovo apgultimi, ir
+    iš stovyklos parašė aną atmintiną laišką, kuriame pareiš­
+    kė, kad prisiekęs visoje valstybėje visiems išsaugoti laisvę,
+    negalėjęs nebausdamas leisti, kad dėl tos priežasties būtų
+    sudrumsta taika krašte ir kad kiekvieno sąžinę paliekąs Die-
+    64
+    Be kitų knygų, šioje spaustuvėje bu- vėje po to, kai buvo atiduota jėzui-
+    vo išleistas rašinys Apie mylimą va- tams.
+    sąrą.
+  citata_rodoma: "Bet teisingas ir santūrus Steponas Batoras sugebė­\njo skubiai nutraukti neleistinus ketinimus. Rūsčiai išbarė\nuž šią sumaištį karalius, susirūpinęs Pskovo apgultimi, ir\niš stovyklos parašė aną atmintiną laišką, kuriame pareiš­\nkė, kad prisiekęs visoje valstybėje visiems išsaugoti laisvę,\nnegalėjęs nebausdamas leisti, kad dėl tos priežasties būtų\nsudrumsta taika krašte ir kad kiekvieno sąžinę paliekąs Die-\n64\nBe kitų knygų, šioje spaustuvėje bu- vėje po to, kai buvo atiduota jėzui-\nvo išleistas rašinys Apie mylimą va- tams."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178136
+    - t-178128
+
+- id: c-161910
+  citata_originali: |
+    Vis dėlto nereikėtų manyti, kad Vilnius
+    ypač vėlesniais Vytauto valdymo laikais neužgydė žaizdų,
+    patirtų nesėkmingai valdant Skirgailai, ir nepraturtėjo. Juk
+    tas didis žmogus mėgo tvarką ir krašte jos reikalaudavo, glo­
+    bojo pirklius, ir prekyba Vilniuje jau plačiai išsišakojo - su
+    Prūsijos bei Livonijos miestais, su Pskovu, Naugardu ir Mask­
+    va, o naudodamasi galingo monarcho parama, jau pasiekė ir
+    tolimus kraštus, bet jai trukdydavo dažni karai: ir, regis, Vil­
+    nius savo dydžiu ir turtais nepasiekė tokių aukštumų, iki ko­
+    kių turėjo išaugti būdamas tokios didelės valstybės sostinė.
+    Esant karinei valdžiai, viešpataujant valdovams, besirūpinan­
+    tiems vien nukariavimais ir, po teisybei, naujos monarchijos
+    kūrimu, toje sumaištyje, kuri anuomet dar tvyrojo šiaurės
+    kraštuose, kai barbariškumas lėtai ir sunkiai traukėsi, įveik­
+    tas Kristaus tikėjimo šviesos, miestai tikrai dar negalėjo su­
+    klestėti!
+  citata_rodoma: "Juk\ntas didis žmogus mėgo tvarką ir krašte jos reikalaudavo, glo­\nbojo pirklius, ir prekyba Vilniuje jau plačiai išsišakojo - su\nPrūsijos bei Livonijos miestais, su Pskovu, Naugardu ir Mask­\nva, o naudodamasi galingo monarcho parama, jau pasiekė ir\ntolimus kraštus, bet jai trukdydavo dažni karai: ir, regis, Vil­\nnius savo dydžiu ir turtais nepasiekė tokių aukštumų, iki ko­\nkių turėjo išaugti būdamas tokios didelės valstybės sostinė.\nEsant karinei valdžiai, viešpataujant valdovams, besirūpinan­\ntiems vien nukariavimais ir, po teisybei, naujos monarchijos\nkūrimu, toje sumaištyje, kuri anuomet dar tvyrojo šiaurės\nkraštuose, kai barbariškumas lėtai ir sunkiai traukėsi, įveik­\ntas Kristaus tikėjimo šviesos, miestai tikrai dar negalėjo su­\nklestėti!"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178125
+    - t-178127
+
+- id: c-161915
+  citata_originali: |
+    Žinodamas karalių esant įtarų, gebėjo supykinti jį su žmona,
+    taip gana ilgam sudrumstęs namų ramybę, privertė lenkus
+    gaišti dėl nesvarbių reikalų.
+    Jau senyvo amžiaus sulaukęs, Lietuvos kunigaikštis bu­
+    vo priverstas kovoti su Pskovu ir Naugardu, nes norėjo at­
+    keršyti už įvairias skriaudas, kurių Lietuvai iš tų galingų
+    miestų tekdavo patirti. Pergalė jam buvo lemta ir tąsyk: du­
+    syk pakartotas žygis, nepaisant didelių pavojų ir pasalų, sėk­
+    mingai pasibaigęs (1427 metais), prispyrė atkakti į Vilnių
+    Pskovo pasiuntinius bojarinus Joachimą Pavlovičių ir Ivaną
+    Sidorovičių, kurie, pakloję 1 000 sidabro rublių, meldė pa­
+    leisti belaisvius, bet Vytautas jų neišleido tol, kol jam dar
+    250 rublių nepridėjo (1429 m.) per antrąkart atsiųstus: po-
+    sadniką Silvestrą Levontjevičių ir vietininką Parfėjų81.
+  citata_rodoma: "Pergalė jam buvo lemta ir tąsyk: du­\nsyk pakartotas žygis, nepaisant didelių pavojų ir pasalų, sėk­\nmingai pasibaigęs (1427 metais), prispyrė atkakti į Vilnių\nPskovo pasiuntinius bojarinus Joachimą Pavlovičių ir Ivaną\nSidorovičių, kurie, pakloję 1 000 sidabro rublių, meldė pa­\nleisti belaisvius, bet Vytautas jų neišleido tol, kol jam dar\n250 rublių nepridėjo (1429 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178134
+    - t-178130
+
+- id: c-161917
+  citata_originali: |
+    Didžiulė politinė permaina, atėjusi per Jogailą
+    su Lietuvos krikštu ir sąjunga su Lenkija, vėliau greitas Lietuvos
+    vasalų virtimas turtingiausia aristokratija - visa tai Vilniaus mies­
+    tiečiams nesuteikė nei progos, nei palankaus meto įgyti daugiau
+    laisvių. Be to, Rusios miestai, būtent Pskovas ir Didysis Naugar-
+    das, atsidūrė kitokiose aplinkybėse. Anksčiau už Vilnių įkurti,
+    tinkami prekybai, jie greičiau virto tankiai gyvenamomis ir tur­
+    tingesnėmis gyvenvietėmis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178123
+
+- id: c-161918
+  citata_originali: |
+    Palaikydamas labai gyvus politinius santykius
+    su lenkais ir Ordinu, Vytautas turėjo visą laiką kreipti daug
+    dėmesio ir į rytus. Per metų metus rytų reikalai jam vyrauja;
+    jis taikosi ir su vakarų kaimynais, kad tik turėtų laisvas rankas
+    rytuose, kur jam ir priešų ir draugų buvo daug: Pskovas, Nau­
+    gardas, Maskva, Tveris, Riazanė, Okos aukštupio kunigaikš­
+    čiai, totoriai. Vytautas nori visus juos paimti savo valdžion
+    ar bent turėti jiems didelę įtaką.
+  citata_rodoma: "Per metų metus rytų reikalai jam vyrauja;\njis taikosi ir su vakarų kaimynais, kad tik turėtų laisvas rankas\nrytuose, kur jam ir priešų ir draugų buvo daug: Pskovas, Nau­\ngardas, Maskva, Tveris, Riazanė, Okos aukštupio kunigaikš­\nčiai, totoriai. Vytautas nori visus juos paimti savo valdžion\nar bent turėti jiems didelę įtaką."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178102
+    - t-178115
+
+- id: c-161920
+  citata_originali: |
+    Mindaugas sukuria Lietuvos valstybę.
+    Mindaugo karūnacija 1253 metais
+    Aktyviausi ir karingiausi iš baltų genčių XI–XII a. atrodė
+    kuršiai, o XII a. pabaigoje prasidėjo lietuvių karo žygiai. Žinoma, kad
+    1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, per
+    kurį nusiaubė Pskovą, o pakeliui turbūt ir Polocką.
+  citata_rodoma: "pabaigoje prasidėjo lietuvių karo žygiai. Žinoma, kad \n1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, per \nkurį nusiaubė Pskovą, o pakeliui turbūt ir Polocką."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178105
+
+- id: c-161923
+  citata_originali: |
+    Cts
+
+    Kuršiai
+
+    1 LIETUVA
+
+    Na
+    Skalviai
+
+    é Galindaj.
+
+    MAŽOJI
+    LEN
+
+    r
+    Krokuva
+
+    NAUGARDAS
+    Didysis Naugardas
+
+    Pskovas
+
+    Įprieš Lietuvą nukreiptą
+    koaliciją įsijungia ir šiaurės
+    vakarų rusėnai - Naugar-
+    do ir Pskovo žemės.
+
+    POLOCKAS
+
+    T
+
+    XI-XII a. nuo Polocko prik-
+    lausoma latgalių žemė -
+    Jersika Polockui nusilpus
+    pretendavo išaugti į
+    valstybinį darinį, tačiau
+    1209 m.
+  citata_rodoma: "Cts\n\nKuršiai\n\n1 LIETUVA\n\nNa\nSkalviai\n\né Galindaj.\n\nMAŽOJI\nLEN\n\nr\nKrokuva\n\nNAUGARDAS\nDidysis Naugardas\n\nPskovas\n\nĮprieš Lietuvą nukreiptą\nkoaliciją įsijungia ir šiaurės\nvakarų rusėnai - Naugar-\ndo ir Pskovo žemės.\n\nPOLOCKAS\n\nT\n\nXI-XII a."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178156
+    - t-178135
+
+- id: c-161925
+  citata_originali: |
+    1432 m. pradžioje derybos tarp lenkų
+    ir lietuvių strigo (tuo metu Jogaila sto-
+    vėjo Liubline, Švitrigaila su kryžiuo-
+    čių atstovais - Brastoje). Gegužės 15 d.
+
+    Skirsnemunėje Švitrigaila ir Ordinas
+    patvirtino prieš metus pasirašytą sutartį,
+    taip pat Švitrigaila sustiprino ryšius su
+    Naugardu, Pskovu, Mozūrija, Odojevo ir
+    Tverės kunigaikščiais. Tuo tarpu Jogailos
+    Lenkijos santykiai su Ordinu aštrėjo.
+  citata_rodoma: "Gegužės 15 d.\n\nSkirsnemunėje Švitrigaila ir Ordinas\npatvirtino prieš metus pasirašytą sutartį,\ntaip pat Švitrigaila sustiprino ryšius su\nNaugardu, Pskovu, Mozūrija, Odojevo ir\nTverės kunigaikščiais. Tuo tarpu Jogailos\nLenkijos santykiai su Ordinu aštrėjo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178126
+    - t-178129
+
+- id: c-161928
+  citata_originali: |
+    Būda­
+    mas ir fiziniu atžvilgiu silpnas, Jaunutis nesugebėjo išreikalauti
+    paklusnumo nė kitų kunigaikščių, kurie ėmė savarankiškai veikti.
+    Šiaurėje, pvz., Kriavo ir Vitebsko kunigaikštis Algirdas nuo Livo­
+    nijos kryžiuočių sėkmingai gynė Pskovą. Miestas, jam atsidėkoda­
+    mas, savo kunigaikščiu pasikvietė vyriausią Algirdo sūnų, per
+    krikštą gavusį Andriaus vardą.
+  citata_rodoma: "Šiaurėje, pvz., Kriavo ir Vitebsko kunigaikštis Algirdas nuo Livo­\nnijos kryžiuočių sėkmingai gynė Pskovą. Miestas, jam atsidėkoda­\nmas, savo kunigaikščiu pasikvietė vyriausią Algirdo sūnų, per\nkrikštą gavusį Andriaus vardą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178143
+
+- id: c-161930
+  citata_originali: |
+    Be to, Rusios miestai, būtent Pskovas ir Didysis Naugar-
+    das, atsidūrė kitokiose aplinkybėse. Anksčiau už Vilnių įkurti,
+    tinkami prekybai, jie greičiau virto tankiai gyvenamomis ir tur­
+    tingesnėmis gyvenvietėmis. Įsikūrusių toliau šiaurėje mongolų
+    antpuoliai jų ne tik nepalietė taip, kaip visos Rusios, bet ir nelei­
+    do įsigalėti jokiems smulkiems kunigaikščiams, valdžiusiems sa­
+    vo teritorijas, išsekintiems tarpusavio vaidų ir totorių atakų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178107
+
+- id: c-161931
+  citata_originali: |
+    Pagal Gedimino testamentą tapęs didžiuoju Lietuvos kuni­
+    gaikščiu, Jaunutis (1341-1345) pasirodė nesugebąs laikyti tėvo
+    tvarką valstybėje, kuriai iš visų šonų ėmė grasyti pavojai. Būda­
+    mas ir fiziniu atžvilgiu silpnas, Jaunutis nesugebėjo išreikalauti
+    paklusnumo nė kitų kunigaikščių, kurie ėmė savarankiškai veikti.
+    Šiaurėje, pvz., Kriavo ir Vitebsko kunigaikštis Algirdas nuo Livo­
+    nijos kryžiuočių sėkmingai gynė Pskovą.
+  citata_rodoma: "Būda­\nmas ir fiziniu atžvilgiu silpnas, Jaunutis nesugebėjo išreikalauti\npaklusnumo nė kitų kunigaikščių, kurie ėmė savarankiškai veikti.\nŠiaurėje, pvz., Kriavo ir Vitebsko kunigaikštis Algirdas nuo Livo­\nnijos kryžiuočių sėkmingai gynė Pskovą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178116
+
+- id: c-161932
+  citata_originali: |
+    Išsi­
+    laisvinę nuo nepakeliamos kašteliono valdžios, Lenkijos mies­
+    tai, sykiu su teutonų teise suvieniję atleidimą nuo įvairių duok­
+    lių ir krašto teisės prievolių, savo pačių teisėtvarką ir atskirą
+    miesto valdymą, jau buvo galingi ir reikšmingi vietinės civili­
+    zacijos požiūriu.
+    Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji
+    rusų miestai - Pskovas ir Naugardas - prekyba, mūrais ir netgi
+    savo pačių valdžia galingi. Maskva tuomet dar tebuvo menka
+    gyvenvietė; tik pietų Rusioje klestėjo senasis Kijevas, Rytų apeigų
+    tikėjimo lopšys ir kurį laiką garsios monarchijos sostinė.
+  citata_rodoma: "Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji\nrusų miestai - Pskovas ir Naugardas - prekyba, mūrais ir netgi\nsavo pačių valdžia galingi. Maskva tuomet dar tebuvo menka\ngyvenvietė; tik pietų Rusioje klestėjo senasis Kijevas, Rytų apeigų\ntikėjimo lopšys ir kurį laiką garsios monarchijos sostinė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178149
+
+- id: c-161933
+  citata_originali: |
+    Todėl suprantama,
+
+
+    (^122) I SKYRIUS: LIETUVOS PROISTORĖ
+    kodėl lietuvių kunigaikščiai nuvesdavo savo karinius būrius gana
+    toli, kur buvo daugiau ko grobti. Jie pasiekdavo plotus turtingųjų
+    Didžiojo Naugardo ir Pskovo respublikų. Rytuose jie atsitrenkdavo
+    į tolimus Dniepro plotus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178118
+
+- id: c-161935
+  citata_originali: |
+    XII a. pabaigoje jie ėmė rengti reguliarius grobiamuosius
+    žygius į kaimynų baltų ir slavų žemes. 1183 m. užfiksuotas pirma-
+    sis žinomas lietuvių reidas į Pskovo žemes.
+
+    Karinių struktūrų kūrimas suaktyvino Lietuvos valstybės or-
+    ganizavimo procesą aukštesniu lygiu ir leido daugiau galios su-
+    telkti karo grobio dėka praturtėjusių stipriausių lietuvių karo vadų
+    (atskirų Lietuvos žemių kunigaikščių) rankose, iš kurių galiausiai
+    iškilo vienas visos Lietuvos valdovas, administruodamas jam pa-
+    valdžias teritorijas rėmęsis jam ištikima kariauna.
+  citata_rodoma: "1183 m. užfiksuotas pirma-\nsis žinomas lietuvių reidas į Pskovo žemes.\n\nKarinių struktūrų kūrimas suaktyvino Lietuvos valstybės or-\nganizavimo procesą aukštesniu lygiu ir leido daugiau galios su-\ntelkti karo grobio dėka praturtėjusių stipriausių lietuvių karo vadų\n(atskirų Lietuvos žemių kunigaikščių) rankose, iš kurių galiausiai\niškilo vienas visos Lietuvos valdovas, administruodamas jam pa-\nvaldžias teritorijas rėmęsis jam ištikima kariauna."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178120
+
+- id: c-161937
+  citata_originali: |
+    Valdant Gediminui ar jo sūnui Algirdui buvo sukurta
+    visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai,
+    Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys. Lietuva tapo
+    politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung-
+    tos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje
+    buvę Voluinė ir Haličas, Kijevas, Pskovas. Tai leido Lietuvai tapti didelių
+    politinių kombinacijų dalyve ir vyraujančia regiono jėga – didvalstybe.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178106
+
+- id: c-166474
+  citata_originali: |
+    Batorą; jis tikėjosi, kad
+    Batoras bus priverstas nutraukti kovą: mat, kaip tik tuo
+    metu popiežius, kuriam už karo sulaikymą caras buvo pasiža-
+    dėjęs priimti katalikybę, atsiuntė savo tarpininką — žinomą
+    diplomatą jėzuitą Poseviną ir ragino Batorą baigti ka-
+    rą. Kai Stp. Batoras su svarbiausiomis jėgomis apgulė Psko-
+    vą, o mažesni jo kariuomenės būriai naikino tolimąsias ru-
+    sų žemes, Posevinui tarpininkaujant, prasidėjo derybos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183086
+
+- id: c-167690
+  citata_originali: |
+    Tačiau
+    šie, palyginti, dar nauji karo technikos pabūklai buvo tokie ne­
+    tobuli, kad Žalgirio mūšyje jie neturėjo jokios lemiančios reikš­
+    mės. Vytautas turėjo patrankų ir savo žygiuose į Pskovą
+    (1426) bei Naugardą (1428). Žymiausia jų buvo Halka, kurią
+    veždavo 20 porų arklių prieš piet ir tiek pat po piet.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184319
+
+- id: c-168477
+  citata_originali: |
+    Kadangi nė sienos nega­
+    lėjo ilgiau jo apsaugoti, nes matė, jog bus priverstas
+    neišvengiamai pasiduoti arba dėl apsupties, arba dėl
+    bado, kai nebegaus maisto, jis stengėsi kelti saviškiams
+    nuotaiką viltimi, jog skubiai ateisianti artimųjų pa­
+    galba; tuo tarpu pats, nieko gero nesitikėdamas, paža­
+    dėjęs greitai atvykti su kariuomene ir pralaužti ap­
+    supimą, nakčia, išleistas iš pilies, paspruko per supan­
+    čiųjų eiles. Šaltiniai pasakoja, jog, patekęs po to į
+    Pskovą, jis gana sėkmingai vedė pskoviečių jėgas prieš
+    Livoniją; jo tremtį Pskovas ligi šiol prisimena, nes vie­
+    na gynybinė siena vadinama statytojo Daumanto vardu.
+    142
+
+    ## Puslapis 141
+
+    Tvirtovės įgula, laukdama kunigaikščio ir paramos, ke­
+    letą dienų narsiai gynėsi nuo apsupusiųjų, bet, nieko
+    nesulaukusi, ji vis dėlto suprato, koks reikalas, ir pa­
+    sidavė Narimantui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185116
+
+- id: c-170590
+  citata_originali: |
+    Tais pačiais metais, Vytautui būnant Vokiečių že­
+    mėje, į Marienburgą atvyko pasiuntiniai iš Maskvos,
+    nuo didžiojo kunigaikščio Vasilijaus Dmitrijevičiaus,
+    prašydami didįjį kunigaikštį Vytautą, kad [leistų] duk­
+    terį už didžiojo kunigaikščio Vasilijaus Dmitrijevičiaus.
+    Didysis kunigaikštis Vytautas atidavė savo dukterį ku­
+    nigaikštytę Sofiją ir išleido ją iš Marienburgo, o su
+    ja pasiuntė kunigaikštį Joną Algimantaitį, ir jie iš
+    Gdansko miesto išplaukė laivais2 3 , per jūrą pasiekda­
+    mi Pernu2 1  ir Pskovo miestą. Pskoviečiai sutiko juos
+    labai svetingai ir palydėjo pagarbiai ligi Didžiojo Nau-
+    gardo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187643
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Jurgis Vytautaitis]], [[objektai/asmenys/Jurijus Vytutaitis]]

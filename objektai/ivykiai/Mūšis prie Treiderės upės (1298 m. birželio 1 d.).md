@@ -18,6 +18,18 @@ tags:
 amziai:
   - 'XIII'
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Mūšis prie Treiderės upės (1298 m. birželio 1 d.)
 
@@ -46,11 +58,25 @@ Nenurodyta
 <a id="claim-t-62880"></a>
 - t-001
   global_id: t-62880
-  teiginys: '1298 m. birželio 1 d. prie Treiderės upės Vytenis nugalėjo Livonijos magistrą Brunoną, nukovęs magistrą, 22 brolius ir 1500 krikščionių.'
+  teiginys: "1298 m. birželio 1 d. prie Treiderės upės Vytenis nugalėjo Livonijos magistrą Brunoną, nukovęs magistrą, 22 brolius ir 1500 krikščionių."
+  teiginio_tipas: "faktas"
+  semantiniai_rysiai: "Vytenis dalyvavo mūšyje Mūšis prie Treiderės upės (1298 m. birželio 1 d.) (0.88)"
+  temporaliniai_duomenys: "įvykio data: 1298 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, o citata remia aiškų mūšio rezultatą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "599445-600347; hash=bd8c8757b21eb21f1ef0a2f550a597bd7621bda7ed80569b18a7aedd6586e366; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "dalyvavo_musyje -> Mūšis prie Treiderės upės (1298 m. birželio 1 d.): 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Mūšis prie Treiderės upės (1298 m. birželio 1 d.): llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Citatoje Vytenis yra įvardytas karaliumi, kuris mūšyje galop paėmė viršų."
   pagrindžia:
-    - c-001
-    - c-002
-
+    - c-63726
+    - c-63727
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -69,6 +95,7 @@ Nenurodyta
     šimtus netikėlių, vis dėlto galop karalius paėmė viršų ir nukovė magistrą, 22 brolius ir
     1500 krikščionių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -91,11 +118,56 @@ Nenurodyta
     Teutonų ordino didysis magistras, pasiuntęs Livonijos žemės broliams  į pagalbą brolį
     Bertoldą Briuhaveną, Karaliaučiaus komtūrą, su daugybe brolių  ir ginklanešių.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-63726
+  citata_originali: |
+    1297 viešpaties metais  kilo begaliniai Rygos miestiečių  ir Teutonų ordino brolių
+    kivirčai, kurie vienu metu taip įsiliepsnojo, kad broliai per pusantrų metų, neišvengiamos
+    būtinybės verčiami, devynis kartus su jais stojo į kovą. Nors viename susirėmime broliai
+    neatsilaikė, vis dėlto kituose, dievo galybės padedami, susilaukė sėkmės. 1298 viešpaties
+    metais Vytenis, lietuvių karalius, Rygos miestiečių pakviestas, užėmė Karkuso pilį550, kur
+    paėmė į nelaisvę 4 brolius bei jų šeimyną, o pilies apylinkes nusiaubė, degindamas bei
+    plėšdamas; kai jau susirengė grįžti namo, brolis Brunonas, Livonijos žemės magistras,
+    leidęsis pavymui su nedidele kariuomene, jį užpuolė birželio 1 d. pajūryje prie Treiderės
+    upės551, išvadavo iš priešo rankų beveik tris tūkstančius krikščionių ir nukovė aštuonis
+    šimtus netikėlių, vis dėlto galop karalius paėmė viršų ir nukovė magistrą, 22 brolius ir
+    1500 krikščionių.
+  citata_rodoma: "1297 viešpaties metais  kilo begaliniai Rygos miestiečių  ir Teutonų ordino brolių\nkivirčai, kurie vienu metu taip įsiliepsnojo, kad broliai per pusantrų metų, neišvengiamos\nbūtinybės verčiami, devynis kartus su jais stojo į kovą. Nors viename susirėmime broliai\nneatsilaikė, vis dėlto kituose, dievo galybės padedami, susilaukė sėkmės. 1298 viešpaties\nmetais Vytenis, lietuvių karalius, Rygos miestiečių pakviestas, užėmė Karkuso pilį550, kur\npaėmė į nelaisvę 4 brolius bei jų šeimyną, o pilies apylinkes nusiaubė, degindamas bei\nplėšdamas; kai jau susirengė grįžti namo, brolis Brunonas, Livonijos žemės magistras,\nleidęsis pavymui su nedidele kariuomene, jį užpuolė birželio 1 d. pajūryje prie Treiderės\nupės551, išvadavo iš priešo rankų beveik tris tūkstančius krikščionių ir nukovė aštuonis\nšimtus netikėlių, vis dėlto galop karalius paėmė viršų ir nukovė magistrą, 22 brolius ir\n1500 krikščionių."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-62880
+
+- id: c-63727
+  citata_originali: |
+    Nors viename susirėmime broliai
+    neatsilaikė, vis dėlto kituose, dievo galybės padedami, susilaukė sėkmės. 1298 viešpaties
+    metais Vytenis, lietuvių karalius, Rygos miestiečių pakviestas, užėmė Karkuso pilį550, kur
+    paėmė į nelaisvę 4 brolius bei jų šeimyną, o pilies apylinkes nusiaubė, degindamas bei
+    plėšdamas; kai jau susirengė grįžti namo, brolis Brunonas, Livonijos žemės magistras,
+    leidęsis pavymui su nedidele kariuomene, jį užpuolė birželio 1 d. pajūryje prie Treiderės
+    upės551, išvadavo iš priešo rankų beveik tris tūkstančius krikščionių ir nukovė aštuonis
+    šimtus netikėlių, vis dėlto galop karalius paėmė viršų ir nukovė magistrą, 22 brolius ir
+    1500 krikščionių. Tais pačiais metais Prūsijos žemėje lankėsi brolis Gotfridas Hohenlohė,
+    Teutonų ordino didysis magistras, pasiuntęs Livonijos žemės broliams  į pagalbą brolį
+    Bertoldą Briuhaveną, Karaliaučiaus komtūrą, su daugybe brolių  ir ginklanešių.
+  citata_rodoma: "Nors viename susirėmime broliai\nneatsilaikė, vis dėlto kituose, dievo galybės padedami, susilaukė sėkmės. 1298 viešpaties\nmetais Vytenis, lietuvių karalius, Rygos miestiečių pakviestas, užėmė Karkuso pilį550, kur\npaėmė į nelaisvę 4 brolius bei jų šeimyną, o pilies apylinkes nusiaubė, degindamas bei\nplėšdamas; kai jau susirengė grįžti namo, brolis Brunonas, Livonijos žemės magistras,\nleidęsis pavymui su nedidele kariuomene, jį užpuolė birželio 1 d. pajūryje prie Treiderės\nupės551, išvadavo iš priešo rankų beveik tris tūkstančius krikščionių ir nukovė aštuonis\nšimtus netikėlių, vis dėlto galop karalius paėmė viršų ir nukovė magistrą, 22 brolius ir\n1500 krikščionių. Tais pačiais metais Prūsijos žemėje lankėsi brolis Gotfridas Hohenlohė,\nTeutonų ordino didysis magistras, pasiuntęs Livonijos žemės broliams  į pagalbą brolį\nBertoldą Briuhaveną, Karaliaučiaus komtūrą, su daugybe brolių  ir ginklanešių."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-62880
 
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]

@@ -14,6 +14,18 @@ atnaujinta: ''
 amziai:
   - 'XVI'
   - 'XVII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Dievo Kūno arkibrolija
 
@@ -34,25 +46,65 @@ Religinė brolija ir Vilniaus arkikonfratrija.
 ## Teiginiai
 
 <a id="claim-t-54837"></a>
-- t-001
+- t-003
   global_id: t-54837
-  teiginys: 'Dievo Kūno arkibrolija Vilniuje buvo įsteigta 1539 m. kardinolo Komendonio atsiųsta bule.'
+  teiginys: "Dievo Kūno arkibrolija Vilniuje buvo įsteigta 1539 m. kardinolo Komendonio atsiųsta bule."
+  semantiniai_rysiai: "Dievo Kūno arkibrolija gyveno Vilnius (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1539 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys neįvardijo objekto, o citata tiesiogiai remia aiškesnį faktą apie arkibroliją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "375974-376563; hash=de2917ca2ce39c1f79396eb286a51790cef18ab7b6af6835fecec97abd1c6843; match=whitespace_regex"
+  sprendimo_priezastis: "gap::groups"
+  ryšio_patikimumas: "gyveno -> Vilnius: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Dievo Kūno arkibrolija: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai lokalizuoja Dievo Kūno arkibroliją Vilniuje."
   pagrindžia:
-    - c-001
+    - c-55859
 
 <a id="claim-t-54838"></a>
-- t-002
+- t-001
   global_id: t-54838
-  teiginys: '1539 m. kardinolas Komendoni atsiuntė bulę, kuria buvo steigiama Dievo Kūno arkibrolija.'
+  teiginys: "1539 m. kardinolas Komendoni atsiuntė bulę, kuria buvo steigiama Dievo Kūno arkibrolija."
+  temporaliniai_duomenys: "įvykio data: 1539 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys išbaigtas ir tiesiogiai atitinka citatos duomenis apie bulę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "375974-376563; hash=de2917ca2ce39c1f79396eb286a51790cef18ab7b6af6835fecec97abd1c6843; match=whitespace_regex"
+  sprendimo_priezastis: "gap::groups"
+  ryšio_patikimumas: "susije_su -> Kūnas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dievo Kūno arkibrolija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kūnas: mention_match, person, gap=6"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dievo Kūno arkibrolija\" parinktas kaip owner_note_path. Targetas \"Kūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-55859
 
 <a id="claim-t-54839"></a>
-- t-003
+- t-002
   global_id: t-54839
-  teiginys: 'Dievo Kūno arkibrolijos arkikonfratrija buvo funduota 1573 m. vasario 3 d., o tų pačių metų lapkričio 27 d. iškilmingai įvesdinta.'
+  teiginys: "Dievo Kūno arkibrolijos arkikonfratrija buvo funduota 1573 m. vasario 3 d., o tų pačių metų lapkričio 27 d. iškilmingai įvesdinta."
+  temporaliniai_duomenys: "įvykio data: 1573 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Į sakinį įtrauktas note objektas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "375974-376563; hash=de2917ca2ce39c1f79396eb286a51790cef18ab7b6af6835fecec97abd1c6843; match=whitespace_regex"
+  sprendimo_priezastis: "gap::groups"
+  ryšio_patikimumas: "susije_su -> Kūnas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dievo Kūno arkibrolija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kūnas: mention_match, person, gap=6"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dievo Kūno arkibrolija\" parinktas kaip owner_note_path. Targetas \"Kūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-55859
 - susijęs iš Dievo Kūno arkibrolijos steigimo bulė: 1539 m. kardinolas Komendoni Vilniaus vyskupui Valerijonui Protasevičiui atsiuntė bulę, kuria įsteigta Dievo Kūno arkibrolija.
 - susijęs iš Grigaliaus XIII bulė dėl Vilniaus arkikonfratrijos: 1573 m. vasario 3 d., valdant Žygimantui Augustui, buvo funduota Vilniaus arkikonfratrija.
 - susijęs iš Inocento X patvirtinimas dėl Vilniaus arkikonfratrijos: Popiežius Inocentas X 1646 m. patvirtino Vilniaus arkikonfratrijos agregavimą prie Romos.
@@ -75,13 +127,39 @@ Religinė brolija ir Vilniaus arkikonfratrija.
     fratrija ir agreguota prie Romos, ką vėliau, 1646 metais, po­
     piežius Inocentas X irgi patvirtino.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-003
     - t-001
+
+## Citatos
+
+- id: c-55859
+  citata_originali: |
+    Išlikę
+    dokumentai, iš įvairių rankų gauti, tai patikina. 1539 metais
+    kardinolas Komendoni atsiuntė Vilniaus vyskupui Valeri­
+    jonui Protasevičiui bulę, kuria steigiama Dievo Kūno arkib-
+    rolija, o 1573 metų vasario 3 dieną, valdant Žygimantui Au­
+    gustui, buvo funduota arkikonfratrija ir tais pačiais metais
+    lapkričio 27 dieną to paties vyskupo surengtas iškilmingas
+    įvesdinimas. 1577 metų gruodžio 19 dienos, o pirmesne 1539
+    metų Grigaliaus XIII bule buvo patvirtinta Vilniaus arkikon­
+    fratrija ir agreguota prie Romos, ką vėliau, 1646 metais, po­
+    piežius Inocentas X irgi patvirtino.
+  citata_rodoma: "1539 metais \nkardinolas Komendoni atsiuntė Vilniaus vyskupui Valeri-\njonui Protasevičiui bulę, kuria steigiama Dievo Kūno arkib- \nrolija, o 1573 metų vasario 3 dieną, valdant Žygimantui Au-\ngustui, buvo funduota arkikonfratrija ir tais pačiais metais \nlapkričio 27 dieną to paties vyskupo surengtas iškilmingas \nįvesdinimas. 1577 metų gruodžio 19 dienos, o pirmesne 1539 \nmetų Grigaliaus XIII bule buvo patvirtinta Vilniaus arkikon-\nfratrija ir agreguota prie Romos, ką vėliau, 1646 metais, po-\npiežius Inocentas X irgi patvirtino."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54838
+    - t-54839
+    - t-54837
 
 ## Ryšiai
 - Dievo Kūno arkibrolija gyveno [[objektai/vietos/Vilnius]]

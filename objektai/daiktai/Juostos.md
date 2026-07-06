@@ -16,6 +16,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Juostos
 
@@ -48,9 +60,36 @@ Nenurodyta
 <a id="claim-t-47812"></a>
 - t-001
   global_id: t-47812
-  teiginys: 'Apyrankių ir kitų papuošalų ornamentai buvo giminingi lietuvių kaimo audinių ir juostų raštams.'
+  teiginys: "Apyrankių ir kitų papuošalų ornamentai buvo giminingi lietuvių kaimo audinių ir juostų raštams."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "301374-301622; hash=32fc320479ab45ee18bc62f06366b6d6ea530257987eec2a27a3ee3c15ca0795; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Juostos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juostos\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-30998
+
+<a id="claim-t-47812"></a>
+- t-001
+  global_id: t-47812
+  teiginys: "Apyrankių ir kitų papuošalų ornamentai buvo giminingi lietuvių kaimo audinių ir juostų raštams."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "301374-301622; hash=32fc320479ab45ee18bc62f06366b6d6ea530257987eec2a27a3ee3c15ca0795; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Juostos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juostos\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  pagrindžia:
+    - c-30998
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190597|Lietuviai]]: Narbutas rašė, kad jaunos netekėjusios lietuvaitės nešiodavosi prie juostos prikabintus varpelius, kad tėvai girdėtų jų judėjimą.
 - susijęs iš [[objektai/asmenys/Juozapas Ignotas Kraševskis.md#claim-t-190035|Juozapas Ignotas Kraševskis]]: Anot Kraševskio, mirusįjį palietę žmonės lietuvių laidojimo papročiuose tapdavo „nešvarūs“.
 - susijęs iš [[objektai/autoriai/Juozapas Ignacas Kraševskis.md#claim-t-190432|Juozapas Ignacas Kraševskis]]: Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“.
@@ -67,9 +106,27 @@ Nenurodyta
     papuošalų ornamentai yra tiesioginiai giminingi lietuvių kaimo
     audinių ir juostų raštams. Iš to meto yra išlikusių juostų gabalų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-30998
+  citata_originali: |
+    Šie yra masyvus ir gražiai ornamentuoti, mušti sidabro
+    plokštelėmis, ar net gryno sidabro. Ano laiko apyrankių ir kitų
+    papuošalų ornamentai yra tiesioginiai giminingi lietuvių kaimo
+    audinių ir juostų raštams. Iš to meto yra išlikusių juostų gabalų.
+  citata_rodoma: "Ano laiko apyrankių ir kitų\npapuošalų ornamentai yra tiesioginiai giminingi lietuvių kaimo\naudinių ir juostų raštams. Iš to meto yra išlikusių juostų gabalų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-47813
+    - t-47812

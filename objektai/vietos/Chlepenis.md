@@ -14,6 +14,18 @@ tags:
   - vieta
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Chlepenis
 
@@ -24,18 +36,41 @@ Pagal 1494.II.5 sutartį Chlepenis buvo pripažintas Maskvos Didžiajai Kunigaik
 ## Teiginiai
 
 <a id="claim-t-187213"></a>
-- t-001
+- t-002
   global_id: t-187213
-  teiginys: 'Chlepenis lokalizuojamas apie 40 km į pietus nuo Rževo, prie Gžatės ir Vazuzos upių santakos.'
+  teiginys: "Chlepenis lokalizuojamas apie 40 km į pietus nuo Rževo, prie Gžatės ir Vazuzos upių santakos."
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "603237-603440; hash=fa560c6c74017b27dbcdfc2a5336abb38b66278c9b29773b8e1e9f49297cae97; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  ryšio_patikimumas: "susije_su -> Volga: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Chlepenis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Volga: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Chlepenis\" parinktas kaip owner_note_path. Targetas \"Volga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-170283
 
 <a id="claim-t-187214"></a>
-- t-002
+- t-001
   global_id: t-187214
-  teiginys: 'Chlepenis aiškinamas kaip anuometinis Viazmos žemės miestas.'
+  teiginys: "Chlepenis aiškinamas kaip anuometinis Viazmos žemės miestas."
+  teiginio_tipas: "faktas"
+  semantiniai_rysiai: "Chlepenis priklausė Viazma (0.80)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "603237-603440; hash=fa560c6c74017b27dbcdfc2a5336abb38b66278c9b29773b8e1e9f49297cae97; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  ryšio_patikimumas: "priklause -> Viazma: 0.80"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Chlepenis: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Viazma: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Chlepenis apibūdinamas kaip Viazmos žemės miestas, todėl atsargiai fiksuojamas priklausymo vietai ryšys."
   pagrindžia:
-    - c-001
+    - c-170283
 - susijęs iš Rohačevas: Rohačevas lokalizuojamas prie Chlepenio į pietus nuo Rževo.
 - susijęs iš [[objektai/ivykiai/Karo tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos pradžia.md#claim-t-186774|Karo tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos pradžia]]: 1493 m. pavasarį Lietuvos Didžiosios Kunigaikštystės ir Maskvos karo veiksmai nutrūko.
 - susijęs iš Liubuckas: Pagal 1494.II.5 sutarties rezultatą Liubuckas paliko LDK.
@@ -55,12 +90,31 @@ Pagal 1494.II.5 sutartį Chlepenis buvo pripažintas Maskvos Didžiajai Kunigaik
     į pietus nuo Rževo, arti Gžatės Ir Vazuzos upių. Volgos intakų,
     santakos).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-170283
+  citata_originali: |
+    * Vtazma — dabar RTFSR miestas (apie 150 km į rytus nuc
+    Smolensko).
+    5  Chlepenis — anuom et Vlazmos žemės miestas (apie 40 km
+    į pietus nuo Rževo, arti Gžatės Ir Vazuzos upių. Volgos intakų,
+    santakos).
+  citata_rodoma: "5  Chlepenis — anuom et Vlazmos žemės miestas (apie 40 km \nį pietus nuo Rževo, arti Gžatės Ir Vazuzos upių. Volgos intakų, \nsantakos)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187214
+    - t-187213
 
 ## Ryšiai
 - Chlepenis priklausė [[objektai/vietos/Viazma]]

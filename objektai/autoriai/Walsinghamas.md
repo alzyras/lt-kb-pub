@@ -18,6 +18,18 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Walsinghamas
 
@@ -30,9 +42,23 @@ IV, p. 68, rašo, kad anglų kronikininkas Walsinghamas savo kronikoje 1390 m. V
 <a id="claim-t-88085"></a>
 - t-001
   global_id: t-88085
-  teiginys: 'Walsinghamas savo kronikoje 1390 m. Vilniaus užėmimo garbę priskyrė Derbio grafui ir nurodė apie 4 000 užmuštų bei sužeistų lietuvių.'
+  teiginys: "Walsinghamas savo kronikoje 1390 m. Vilniaus užėmimo garbę priskyrė Derbio grafui ir nurodė apie 4 000 užmuštų bei sužeistų lietuvių."
+  semantiniai_rysiai: "Kryžiuočių ordinas užėmė Vilnius (0.71)"
+  temporaliniai_duomenys: "įvykio data: 1390 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą Walsinghamo kronikos informaciją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "272201-272828; hash=872e3787a4992b0bef1e5d76a623d09194fb9d2e06cab21f8c429ed4dcf38413; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Vilnius: 0.71"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje apie 1390 m. Vilniaus užėmimą sakoma, kad kryžiuočių kariai užėmė pilį."
   pagrindžia:
-    - c-001
+    - c-84064
 - susijęs iš Walsinghamo kronika: Walsinghamo kronika 1390 m. Vilniaus užėmimo garbę priskyrė Derbio grafui ir nurodė apie 4 000 užmuštų bei sužeistų lietuvių.
 ## Reikšmingi paminėjimai
 
@@ -60,8 +86,40 @@ IV, p. 68, rašo, kad anglų kronikininkas Walsinghamas savo kronikoje 1390 m. V
     ir sužeistų lietuvių nurodo buvus
     apie 4 000.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-84064
+  citata_originali: |
+    Registrant, p. 70), F o i g t o
+    įdėtas V, p. 545, byloja, kad „per
+    pirmąjį puolimą kryžiuočių kariai
+    užėmė medinę pilį, kurioj daugiau
+    kaip tūkstantį žmonių nužudę; sude­
+    ginę šaunių raitelių bei pėstininkų ka­
+    rių, kelis ir Rusios kunigaikščius, bū­
+    tent vieną iš Lenkijos karaliaus brolių,
+    vardu Karigaila; toje pilyje iš viso bu­
+    vo sučiupę iki dviejų tūkstančių įvai­
+    raus amžiaus žmonių/'
+    30
+    D e W a 1 Histoire de Vordre Teut. T. IV,
+    p. 68, rašo, kad anglų kronikininkas
+    Walsinghamas  savo kronikoje
+    1390 m. Vilniaus užėmimo garbę
+    priskiria Derbio grafui, o užmuštų
+    ir sužeistų lietuvių nurodo buvus
+    apie 4 000.
+  citata_rodoma: "545, byloja, kad „per \npirmąjį puolimą kryžiuočių kariai \nužėmė medinę pilį, kurioj daugiau \nkaip tūkstantį žmonių nužudę; sude­\nginę šaunių raitelių bei pėstininkų ka­\nrių, kelis ir Rusios kunigaikščius, bū­\ntent vieną iš Lenkijos karaliaus brolių, \nvardu Karigaila; toje pilyje iš viso bu­\nvo sučiupę iki dviejų tūkstančių įvai­\nraus amžiaus žmonių/'\n30\nD e W a 1 Histoire de Vordre Teut. T. IV, \np. 68, rašo, kad anglų kronikininkas \nWalsinghamas  savo kronikoje \n1390 m. Vilniaus užėmimo garbę \npriskiria Derbio grafui, o užmuštų \nir sužeistų lietuvių nurodo buvus \napie 4 000."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88085

@@ -13,6 +13,18 @@ tags:
   - ivykis
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Polocko maištas prieš Skirgailą (1381 m. pavasaris)
 
@@ -41,10 +53,45 @@ Nenurodyta
 <a id="claim-t-31465"></a>
 - t-001
   global_id: t-31465
-  teiginys: '1381 m. pavasarį Andriaus partija Polocke sukėlė atvirą maištą prieš Jogailos paskirtą Skirgailą.'
+  teiginys: "1381 m. pavasarį Andriaus partija Polocke sukėlė atvirą maištą prieš Jogailos paskirtą Skirgailą."
+  temporaliniai_duomenys: "įvykio data: 1381 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "753293-753596; hash=2da31803313699d023a4294f10b3150e5b0b7334c0e1c9322a31120ff9c819ee; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Polockas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Polocko maištas prieš Skirgailą (1381 m. pavasaris): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Polockas: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polocko maištas prieš Skirgailą (1381 m. pavasaris)\" parinktas kaip owner_note_path. Targetas \"Polockas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-33423
 
+<a id="claim-t-184341"></a>
+- t-002
+  global_id: t-184341
+  teiginys: "1381 m. pavasarį Andriaus partija Polocke sukėlė atvirą maištą prieš Jogailos paskirtą Skirgailą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1381 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalinta OCR klaida ir sakinys suformuluotas taisyklingai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "753164-753447; hash=da0dedf935dd84301854cdcd63bbadf006533aff38a9037a5f3ceaa4ca34b03e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Polocko maištas prieš Skirgailą (1381 m. pavasaris): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polocko maištas prieš Skirgailą (1381 m. pavasaris)\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-167711
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -56,6 +103,7 @@ Nenurodyta
     kuris savo bažnytinės politikos ir iki tol nederino su Vilniaus inte­
     resais, 1381 m. persikėlė į Maskvos žemes.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -73,8 +121,41 @@ Nenurodyta
     Prieš Polockan Jogailos paskirtą Skirgailą Andriaus partija sukėlė
     1381 pavasarį atvirą maištą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-33423
+  citata_originali: |
+    Kulikovo laimėjimas sujudino Lietuvai priklausančią Rusią.
+    Prieš Polockan Jogailos paskirtą Skirgailą Andriaus partija sukėlė
+    1381 pavasarį atvirą maištą. O Lietuvos metropolitas Kiprijonas,
+    kuris savo bažnytinės politikos ir iki tol nederino su Vilniaus inte­
+    resais, 1381 m. persikėlė į Maskvos žemes.
+  citata_rodoma: "Kulikovo laimėjimas sujudino Lietuvai priklausančią Rusią.\nPrieš Polockan Jogailos paskirtą Skirgailą Andriaus partija sukėlė\n1381 pavasarį atvirą maištą. O Lietuvos metropolitas Kiprijonas,\nkuris savo bažnytinės politikos ir iki tol nederino su Vilniaus inte­\nresais, 1381 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31465
+
+- id: c-167711
+  citata_originali: |
+    Lieka paslaptis, kodėl Jogaila uždelsė žygį į
+    kautynes, kurios reiškė pradinį Maskvos pasisekimą, laisvinantis iš
+    totorių jungo.
+    Kulikovo laimėjimas sujudino Lietuvai priklausančią Rusią.
+    Prieš Polockan Jogailos paskirtą Skirgailą Andriaus partija sukėlė
+    1381 pavasarį atvirą maištą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184341

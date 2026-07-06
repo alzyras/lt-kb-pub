@@ -15,6 +15,18 @@ tags:
   - sąvoka
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # didysis maršalas
 
@@ -27,9 +39,23 @@ Dusburgietis teigia, kad pabaigoje kryžiuočių žvalgų pranešimų pagrindu s
 <a id="claim-t-58898"></a>
 - t-001
   global_id: t-58898
-  teiginys: 'Nuo 1312 m. Karaliaučiuje buvo didžiojo maršalo rezidencija, iš kurios jis organizavo žygius į Lietuvą.'
+  teiginys: "Nuo 1312 m. Karaliaučiuje buvo didžiojo maršalo rezidencija, iš kurios jis organizavo žygius į Lietuvą."
+  semantiniai_rysiai: "Kryžiuočių ordinas surengė žygį į Lietuva (0.86)"
+  temporaliniai_duomenys: "įvykio data: po 1309 m.; įvykio data: 1309 m.; įvykio data: po 1312 m.; įvykio data: 1312 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata remia konkretesnį faktą apie didįjį maršalą, o pradinis tekstas yra fragmentiškas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "82081-82675; hash=9b75c0f7bfa0ce47da38a17f335c24f2e1d1ee729e2367211d1fc87475b541b3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Lietuva: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo Ordino pareigūno organizuotus žygius į Lietuvą; subjektu laikomas Ordinas, ne titulas."
   pagrindžia:
-    - c-001
+    - c-59530
 - susijęs iš [[objektai/asmenys/Kazimieras Nestoras Sapiega.md#claim-t-63827|Kazimieras Nestoras Sapiega]]: K. N. Sapiega, LLV Seimo lietuviškosios pusės maršalas, balsavo už tolesnį priešinimąsi karaliaus pozicijai.
 - susijęs iš [[objektai/asmenys/Ignotas Potockis.md#claim-t-18924|Ignotas Potockis]]: LDK didysis maršalas Ignotas Potockis buvo vienas iš trijų Lietuvos atstovų, balsavusių už priešinimąsi.
 - susijęs iš [[objektai/asmenys/Stanislovas Augustas Poniatovskis.md#claim-t-170095|Stanislovas Augustas Poniatovskis (valdovas)]]: Istorikų vertinimu, Stanislovo Augusto susitaikėliška pozicija buvo nepagrįsta, nes LLV dar turėjo galimybių priešintis Rusijai.
@@ -57,8 +83,28 @@ Dusburgietis teigia, kad pabaigoje kryžiuočių žvalgų pranešimų pagrindu s
     rezidencija136. Šis iš Karaliaučiaus, pavaduodamas didįjį magistrą, organizavo žygius  į
     Lietuvą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-59530
+  citata_originali: |
+    Turėdami omenyje XIV a. pabaigoje kryžiuočių žvalgų pranešimų pagrindu sudarytus
+    100 kelių  į Lietuvą aprašymus135, kuriuos gaudavo didysis maršalas, galime manyti,
+    kad tokie — visų pirma karinio pobūdžio — pranešimai buvo kaupti ir anksčiau. Ordino
+    administraciniai centrai buvo Kulmas, Elbingas, Karaliaučius, Ragainė, o nuo 1309
+    m —Marienburgas. Kronikininkui rūpėjo Ordino veikla rytuose, todėl galime galvoti
+    apie Ragainę, taip pat apie Karaliaučių, kuriame nuo 1312 m. buvo didžiojo maršalo
+    rezidencija136. Šis iš Karaliaučiaus, pavaduodamas didįjį magistrą, organizavo žygius  į
+    Lietuvą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58898

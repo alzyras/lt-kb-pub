@@ -5,6 +5,18 @@ saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # medė
 
@@ -24,19 +36,38 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
 ## Teiginiai
 
 <a id="claim-t-70027"></a>
-- t-001
+- t-004
   global_id: t-70027
-  teiginys: 'Medininkais vadinti gyventojai tarp Nemuno, Ventos ir Nevėžio, nes jie gyveno didžiose medėse.'
+  teiginys: "Medininkais vadinti gyventojai tarp Nemuno, Ventos ir Nevėžio, nes jie gyveno didžiose medėse."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  saltinio_vieta: "28177-28347; hash=b8e28452eb7350615ba30ea942e5465ad4cbd3e10f9055e89a5431d682080fa4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Medininkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "medė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Medininkai: mention_match, place, gap=87"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"medė\" parinktas kaip owner_note_path. Targetas \"Medininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-09707
 
 <a id="claim-t-70028"></a>
-- t-002
+- t-003
   global_id: t-70028
-  teiginys: 'Medės Daukanto tekste vadinamos giriomis, buvusiomis į šiaurę nuo tyrų prie Tyrulės upės.'
+  teiginys: "Medės Daukanto tekste vadinamos giriomis, buvusiomis į šiaurę nuo tyrų prie Tyrulės upės."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  saltinio_vieta: "315071-315853; hash=9282092e16c2f8aafb067f6d6156cfe64351258771f45d60e75313caf3d54ed1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> S. Daukantas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "medė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "S. Daukantas: mention_match, author, gap=6"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"medė\" parinktas kaip owner_note_path. Targetas \"S. Daukantas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-09705
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -55,8 +86,9 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
         kuriuos teka į Uksine marę upė Tyrulė, nuo tų tyrų taip vadinama; už tų tyrų, juo į šiaurę einant,
         buvo medės, arba girios.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -68,8 +100,43 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
     Gyventojus tarp upių Nemuno, Ventos ir Nevėžio vadino medininkais nuo to, jog didžiose medėse gyveno,
         nuo ko ir vyskupas Žemaičių Medininkų vyskupu lig šio laiko vadinos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-09705
+  citata_originali: |
+    - public_note:
+    - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+    - vieta_saltinyje: offset: 15692-16003; match: exact
+    - santrauka: Tyrulė minima kaip viena iš didžiųjų pietinės įšleities upių.
+    - pagrindzia:
+    - pastaba: Išsaugota kaip atskiras galimo teiginio įrodymas prieš viešą publikavimą. Susieta su kandidatais: Tyrulė, Uksinė jūra, įšleitė; kategorijos: vieta, zodynas.
+      citata_originali: |
+        Nuo Uksinių pamarių į šiaurę einant, tame sluoksny krašto yra tyrai, beje, neapregimi laukai
+        per kelias dešimtis mylių, kuriuose auga aukšta žolė taip, jog raito žmogaus negal regėti, per
+        kuriuos teka į Uksine marę upė Tyrulė, nuo tų tyrų taip vadinama; už tų tyrų, juo į šiaurę einant,
+        buvo medės, arba girios.
+  citata_rodoma: "už tų tyrų, juo į šiaurę einant,\nbuvo medės, arba girios."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-70028
+
+- id: c-09707
+  citata_originali: |
+    Gyventojus tarp upių Nemuno, Ventos ir Nevėžio vadino medininkais nuo to, jog didžiose medėse gyveno,
+        nuo ko ir vyskupas Žemaičių Medininkų vyskupu lig šio laiko vadinos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-70027

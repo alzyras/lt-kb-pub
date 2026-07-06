@@ -11,6 +11,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kazimiero įvykdytas rusų valdų perėmimas iš lietuvių (1366 m.)
 
@@ -35,10 +47,23 @@ Nenurodyta
 <a id="claim-t-185807"></a>
 - t-001
   global_id: t-185807
-  teiginys: 'Kazimieras, pasinaudojęs lietuvių karu su kryžiuočiais, atėmė iš lietuvių rusų valdas ir išvijo Liubartą iš Volynės.'
+  teiginys: "Kazimieras, pasinaudojęs lietuvių karu su kryžiuočiais, atėmė iš lietuvių rusų valdas ir išvijo Liubartą iš Volynės."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Lenkai užėmė Volynė (0.63)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "433193-433871; hash=d9eb0736f3513af741610875ba8d9c93834d803b78c51209eb4244106d515b24; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Volynė: 0.63"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Volynė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Pasakojime Kazimieras, Lenkijos karalius, perima rusų valdas; Volynė minima kaip perduota jo tvarkoma žemė."
   pagrindžia:
-    - c-001
-
+    - c-169168
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -65,8 +90,39 @@ Nenurodyta
     lius, o pilis, miestus bei įgulas tvarkysią lenkų skirti
     vietininkai.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-169168
+  citata_originali: |
+    Kęstutis mė­
+    gino sutrukdyti, tačiau, du
+    K a zim ie ra s, L e n k ijo s
+    kartus saugos karių atrem-
+    k a ra liu s, a tim a  iš Jie-
+    tas, galop išsižadėjo šio su-
+    tu v ių  R u sią
+    manymo. Tais pačiais metais
+    Kazimieras,
+    Lenkijos kara­
+    lius, pasinaudojęs proga, jog lietuviai įsitraukė į karą
+    su kryžiuočiais, atėmė iš jų rusų valdas išvijęs iš Vo­
+    lynės Algirdo brolį Liubartą. Mat, nors visą Belzo
+    kunigaikštystę paliko Jurgiui Narimantaičiui, o Podo­
+    lės kunigaikščiui Aleksandrui Narimantaičiui atidavė
+    Volynę, tačiau abi šias žemes atidavė su ta sąlyga,
+    kad aukščiausią galią į Rusią turėsiąs Lenkijos kara­
+    lius, o pilis, miestus bei įgulas tvarkysią lenkų skirti
+    vietininkai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185807

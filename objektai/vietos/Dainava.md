@@ -15,6 +15,18 @@ tags:
   - vieta
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Dainava
 
@@ -27,9 +39,21 @@ Dviejuose Mindaugo donaciniuose dokumentuose (1253, 1259), dėl kurių pirmojo a
 <a id="claim-t-32102"></a>
 - t-001
   global_id: t-32102
-  teiginys: 'Dviejuose Mindaugo donaciniuose dokumentuose (1253, 1259), dėl kurių pirmojo autentiškumo nėra keliama abejonių, yra minima Dainava (Denowe, Deynowe, Dainowe).'
+  teiginys: "Dviejuose Mindaugo donaciniuose dokumentuose (1253, 1259), dėl kurių pirmojo autentiškumo nėra keliama abejonių, yra minima Dainava (Denowe, Deynowe, Dainowe)."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "330013-330335; hash=6a3ec3c29fbe442c97b37907f58bb6a3e5edca3aadc55e7ed7cae0b7b71cf98c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Mindaugas (valdovas, XIII a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dainava: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Mindaugas (valdovas, XIII a.): mention_match, person, gap=114"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dainava\" parinktas kaip owner_note_path. Targetas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-33814
+- susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-190990|Traidenis (valdovas, XIII a.)]]: Narbutas Traidenį vadina Narimanto broliu, Jotvingijos ir Dainavos kunigaikščiu, turėjusiu priklausyti Lietuvos didžiajam kunigaikščiui.
+- susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-190990|Traidenis (valdovas, XIII a.)]]: Narbutas Traidenį vadina Narimanto broliu, Jotvingijos ir Dainavos kunigaikščiu, turėjusiu priklausyti Lietuvos didžiajam kunigaikščiui.
 - susijęs iš [[objektai/autoriai/Ochmański J.md#claim-t-60619|Ochmański J]]: J. Ochmańskis nurodomas prie duomenų apie Dainavos gyvenvietes XIII a. etninio lietuvių ploto rytiniame pakraštyje.
 - susijęs iš [[objektai/daiktai/Dainavos apygardos kovotojų rankovės antsiuvas.md#claim-t-40702|Dainavos apygardos kovotojų rankovės antsiuvas]]: Dainavos apygardos kovotojų rankovės antsiuvas buvo naudotas 1945–1949 m.
 - susijęs iš [[objektai/grupes/Dainavos apygarda.md#claim-t-80653|Dainavos apygarda]]: Adolfas Ramanauskas-Vanagas vėliau tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu.
@@ -38,11 +62,15 @@ Dviejuose Mindaugo donaciniuose dokumentuose (1253, 1259), dėl kurių pirmojo a
 - susijęs iš [[objektai/asmenys/Adolfas Ramanauskas-Vanagas.md#claim-t-63404|Adolfas Ramanauskas-Vanagas]]: Adolfas Ramanauskas-Vanagas 1956 m. buvo suimtas, žiauriai kankintas ir kitais metais sušaudytas.
 - susijęs iš [[objektai/asmenys/Buiničius.md#claim-t-40074|Buiničius]]: Majoras Buiničius buvo NKVD kariuomenės 220-ojo Kutuzovo ordino pulko štabo viršininkas Kalniškės miško mūšyje.
 - susijęs iš [[objektai/asmenys/Jonas Neifalta-Lakūnas.md#claim-t-79052|Jonas Neifalta-Lakūnas]]: Jonas Neifalta-Lakūnas iki okupacijos tarnavo Alytaus ulonų pulke ir turėjo puskarininkio laipsnį.
+- susijęs iš [[objektai/asmenys/Narimantas (Pinsko kunigaikštis).md#claim-t-190930|Narimantas (Pinsko kunigaikštis)]]: Narbutas pasakoja, kad Narimantas apie 1268 m. įsiveržė į jotvingių Polesę ir privertė gyventojus priimti jo paskirtą valdovą Traidenį.
+- susijęs iš [[objektai/asmenys/Romuntas.md#claim-t-190966|Romuntas]]: Narbuto pasakojime Romuntas buvo Traidenio ir Mazovijos kunigaikštytės sūnus, vadinamas garsiu lietuvių istorijoje.
 - susijęs iš [[objektai/daiktai/Partizaninio pasipriešinimo pradžios Lietuvos laisvės kovotojų raištis.md#claim-t-40745|Partizaninio pasipriešinimo pradžios Lietuvos laisvės kovotojų raištis]]: Partizaninio pasipriešinimo pradžios Lietuvos laisvės kovotojų raištis buvo naudotas Pietų Lietuvoje.
 - susijęs iš [[objektai/grupes/LLKS gynybos pajėgos.md#claim-t-40978|LLKS gynybos pajėgos]]: 1949 m. minimas LLKS gynybos pajėgų vadas, susijęs su vieningos pasipriešinimo judėjimo vadovybės kūrimu.
 - susijęs iš [[objektai/grupes/Lietuvos gynybos pajėgos.md#claim-t-41026|Lietuvos gynybos pajėgos]]: 1949 m. Adolfas Ramanauskas-Vanagas tapo Jono Žemaičio-Vytauto pavaduotoju ir vėliau LLKS gynybos pajėgų vadu.
 - susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-66775|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: Adolfas Ramanauskas-Vanagas, pasitaręs su Juozu Vitkumi-Kazimieraičiu, nutarė telkti partizanus Merkinės puolimui.
 - susijęs iš [[objektai/ivykiai/Zilijos valsčiaus nusiaubimas ir antrasis Liudviko paėmimas į nelaisvę.md#claim-t-59459|Zilijos valsčiaus nusiaubimas ir antrasis Liudviko paėmimas į nelaisvę]]: Konradas iš Tirbergo su didele kariuomene įsiveržė į Sūduvos Zilijos valsčių, sudegino pastatus ir išsigabeno grobį.
+- susijęs iš Lietuvos kronika: Narbutas rašo, kad Lietuvos didysis kunigaikštis Narimantas apie 1268 m. įsiveržė į jotvingių Polesę ir primetė gyventojams savo paskirtą valdovą.
+- susijęs iš Lietuvos kronika: Narbutas Traidenį vadina Narimanto broliu, Jotvingijos ir Dainavos kunigaikščiu, priklausomu nuo Lietuvos didžiojo kunigaikščio ir mokėjusiu duoklę.
 - susijęs iš Alovė: 1945 m. birželio 14 d. Varčios miške tarp Alovės ir Daugų partizanai susikovė su NKVD 220-uoju pasienio pulku.
 - susijęs iš Krakių valsčius: 1949 m. sausio 26 d. Krakių valsčiaus Lenčių miške MGB vidaus kariuomenės 298-asis šaulių pulkas puolė partizanų stovyklavietę.
 - susijęs iš Kėdainių apskritis: 1949 m. sausio 26 d. Kėdainių apskrities Krakių valsčiaus Lenčių miške MGB vidaus kariuomenės 298-asis šaulių pulkas puolė partizanų stovyklavietę.
@@ -66,12 +94,32 @@ Dviejuose Mindaugo donaciniuose dokumentuose (1253, 1259), dėl kurių pirmojo a
     Jotvingiais (« Denowe totą, quam etiam quidam Jetwesen vocant »,
     PUB, I, 2 nr. 79).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
+## Citatos
+
+- id: c-33814
+  citata_originali: |
+    Kaip patys sūduviai-jotvingiai save vadino, nežinoma.
+    Dviejuose Mindaugo donaciniuose dokumentuose (1253, 1259), dėl
+    kurių pirmojo autentiškumo nėra keliama abejonių, yra minima
+    Dainava (Denowe, Deynowe, Dainowe). Ją kai kas, esą, vadinąs
+    Jotvingiais (« Denowe totą, quam etiam quidam Jetwesen vocant »,
+    PUB, I, 2 nr. 79).
+  citata_rodoma: "Dviejuose Mindaugo donaciniuose dokumentuose (1253, 1259), dėl\nkurių pirmojo autentiškumo nėra keliama abejonių, yra minima\nDainava (Denowe, Deynowe, Dainowe). Ją kai kas, esą, vadinąs\nJotvingiais (« Denowe totą, quam etiam quidam Jetwesen vocant »,\nPUB, I, 2 nr. 79)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-32102
+
 ## Ryšiai
+- Turėjo valdovą: [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
 - Gyvenamoji vieta: [[objektai/grupes/Lietuviai]]
 - Dainava priklausė [[objektai/vietos/Lietuva]]

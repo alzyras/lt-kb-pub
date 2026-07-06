@@ -8,11 +8,6 @@ datos:
   - '1797 m.'
 date_start: '1697'
 date_end: '1797'
-description: 'Stanislovas Augustas Poniatovskis, LLV valdovas 1764–1795 m., siejamas su reformų bandymais, 1792 m. kapituliacija ir valstybės žlugimu.'
-socialDescription: 'Stanislovo Augusto Poniatovskio valdymas: reformų viltys, 1792 m. susitaikymas su Rusijos spaudimu, Gardino Seimas ir LLV pabaiga.'
-seo_atnaujinta: '2026-07-02T20:14:54.903849+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,63 +20,165 @@ amziai:
   - 'XVIII'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Stanislovas Augustas Poniatovskis (valdovas)
 
 ## Santrauka
 
-Stanislovas Augustas Poniatovskis 1764 m. buvo išrinktas LLV valdovu, o jo valdymas 1764–1795 m. sutapo su reformų bandymais ir valstybės agonija. 1792 m. liepos 23 d. Varšuvoje jis siūlė nebesipriešinti prie Varšuvos stovėjusiai Rusijos armijai ir prisijungė prie Targovicos konfederacijos. 1793 m. Gardino Seimas buvo priverstas patvirtinti antrąjį LLV padalijimą, o prie 1797 m. Peterburgo konvencijos pridėtas jo abdikacijos aktas.
+Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Poniatovskis rašė Prancūzijos steigiamajam susirinkimui, kad, be Prancūzijos, „yra dar viena tauta Europoje“. Žlugus Saksų dinastijai, 1764 m. LLV valdovu buvo išrinktas Stanislovas Augustas Poniatovskis. Liepos pabaigoje gynyba jau telkėsi prie Brastos, bet kaip tik tuo metu – liepos 24 dieną atėjo žinia iš Varšuvos apie Stanislovo Augusto kapituliaciją ir prisijungimą prie Targovicos konfederacijos.
 
 ## Teiginiai
 
 <a id="claim-t-170087"></a>
-- t-001
+- t-035
   global_id: t-170087
-  teiginys: '1792 m. liepos 23 d. Varšuvoje Stanislovas Augustas Poniatovskis siūlė nebesipriešinti prie Varšuvos stovėjusiai Rusijos armijai.'
+  teiginys: "1792 m. liepos 23 d. Varšuvoje Stanislovas Augustas Poniatovskis siūlė nebesipriešinti prie Varšuvos stovėjusiai Rusijos armijai."
+  temporaliniai_duomenys: "įvykio data: 1792 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti reikšmingesnį faktą apie valdovo poziciją posėdyje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "172967-173503; hash=10db0f3b2225ec0834189fc7965289ce99f9558f3346f24592df33fb14854a0d; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Stanislovas Augustas Poniatovskis (valdovas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Rusija: mention_match, place, gap=82"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stanislovas Augustas Poniatovskis (valdovas)\" parinktas kaip owner_note_path. Targetas \"Rusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
+    - c-154768
 
 <a id="claim-t-170088"></a>
 - t-002
   global_id: t-170088
-  teiginys: 'Stanislovas Augustas Poniatovskis buvo išrinktas LLV valdovu, o jo valdymo laikas 1764–1795 m. tapo permainų, reformų bandymų ir valstybės agonijos epocha.'
+  teiginys: "Stanislovas Augustas Poniatovskis buvo išrinktas LLV valdovu, o jo valdymo laikas 1764–1795 m. tapo permainų, reformų bandymų ir valstybės agonijos epocha."
+  temporaliniai_duomenys: "įvykio data: 1764 m.; įvykio data: 1764-1795; įvykio data: 1795 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus, aiškus ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "160248-160569; hash=630f70f5a813cf5055eb4076fd3f0b185cc2f3f85213088e8c66d7cb03ba8298; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Stanislovas Augustas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Stanislovas Augustas Poniatovskis (valdovas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Stanislovas Augustas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stanislovas Augustas Poniatovskis (valdovas)\" parinktas kaip owner_note_path. Targetas \"Stanislovas Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-154771
 
 <a id="claim-t-170089"></a>
-- t-003
+- t-040
   global_id: t-170089
-  teiginys: 'Stanislovo Augusto Poniatovskio abdikacijos aktas buvo pridėtas prie 1797 m. sausio 26 d. Peterburgo konvencijos.'
+  teiginys: "Stanislovo Augusto Poniatovskio abdikacijos aktas buvo pridėtas prie 1797 m. sausio 26 d. Peterburgo konvencijos."
+  temporaliniai_duomenys: "įvykio data: 1797 m.; įvykio data: 1815 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia citatoje nurodytą faktą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "179799-180255; hash=96edbecc6f4362c477bb2835cb0f3efe1ee10967b814a06b6d65a14a71b106c7; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Peterburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Stanislovas Augustas Poniatovskis (valdovas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Peterburgas: mention_match, place, gap=90"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stanislovas Augustas Poniatovskis (valdovas)\" parinktas kaip owner_note_path. Targetas \"Peterburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-154773
 
 <a id="claim-t-170092"></a>
-- t-004
+- t-037
   global_id: t-170092
-  teiginys: 'Prie Varšuvos Stanislovas Augustas nepasirodė fronte, neišnaudojo visuotinės mobilizacijos ir nesuformavo miestiečių milicijos.'
+  teiginys: "Prie Varšuvos Stanislovas Augustas nepasirodė fronte, neišnaudojo visuotinės mobilizacijos ir nesuformavo miestiečių milicijos."
+  temporaliniai_duomenys: "įvykio data: 1792 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas kontekstinis pradžios fragmentas ir sakinys padarytas savarankiškas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "174874-175112; hash=71c573b8faf31c0a78c4987e2c5a3cf69852a30ce477661b673be5ebb164c282; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Stanislovas Augustas Poniatovskis (valdovas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stanislovas Augustas Poniatovskis (valdovas)\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-154776
 
 <a id="claim-t-170093"></a>
-- t-005
+- t-038
   global_id: t-170093
-  teiginys: 'Stanislovo Augusto veiksmai su Rusijos ambasada Varšuvoje prisidėjo prie jo politinio fiasko 1795 metais.'
+  teiginys: "Stanislovo Augusto veiksmai su Rusijos ambasada Varšuvoje prisidėjo prie jo politinio fiasko 1795 metais."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "175514-176047; hash=a024857bf9761c585147c0d1f71f699e08763f16dbf7df33931c330751b76ae5; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Stanislovas Augustas Poniatovskis (valdovas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stanislovas Augustas Poniatovskis (valdovas)\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-154772
 
 <a id="claim-t-170094"></a>
-- t-006
+- t-039
   global_id: t-170094
-  teiginys: 'Rusija privertė Stanislovą Augustą 1793 m. birželio 17 d. Gardine sušaukti Seimą, turėjusį patvirtinti antrąjį LLV padalijimą.'
+  teiginys: "Rusija privertė Stanislovą Augustą 1793 m. birželio 17 d. Gardine sušaukti Seimą, turėjusį patvirtinti antrąjį LLV padalijimą."
+  temporaliniai_duomenys: "įvykio data: 1793 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys ir tiksliai remiasi citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "176910-177557; hash=d85ad3745a1be628a2466804870457bde1876b78408908ec78d97e6253817945; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Stanislovas Augustas Poniatovskis (valdovas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stanislovas Augustas Poniatovskis (valdovas)\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-154770
 
 <a id="claim-t-170095"></a>
-- t-007
+- t-036
   global_id: t-170095
-  teiginys: 'Istorikų vertinimu, Stanislovo Augusto susitaikėliška pozicija buvo nepagrįsta, nes LLV dar turėjo galimybių priešintis Rusijai.'
+  teiginys: "Istorikų vertinimu, Stanislovo Augusto susitaikėliška pozicija buvo nepagrįsta, nes LLV dar turėjo galimybių priešintis Rusijai."
+  temporaliniai_duomenys: "įvykio data: 1792 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Tai vertinamasis teiginys, todėl pridėta tinkama interpretacijos atribucija."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "173640-174243; hash=e31366a9886e76e632f5aa31b308f9caf8a862e9e75446ad3263b14f9c6c7fcd; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Stanislovas Augustas Poniatovskis (valdovas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stanislovas Augustas Poniatovskis (valdovas)\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-154774
 - susijęs iš [[objektai/grupes/Saksų dinastija.md#claim-t-20001|Saksų dinastija]]: Žlugus Saksų dinastijai, 1764 m. LLV valdovu buvo išrinktas Stanislovas Augustas Poniatovskis.
 - susijęs iš [[objektai/ivykiai/Stanislovo Augusto Poniatovskio išrinkimas LLV valdovu.md#claim-t-183278|Stanislovo Augusto Poniatovskio išrinkimas LLV valdovu]]: Žlugus Saksų dinastijai, 1764 m. LLV valdovu buvo išrinktas Stanislovas Augustas Poniatovskis.
 - susijęs iš [[objektai/ivykiai/Stanislovo Augusto Poniatovskio išrinkimas LLV valdovu.md#claim-t-20504|Stanislovo Augusto Poniatovskio išrinkimas LLV valdovu]]: Stanislovas Augustas Poniatovskis buvo išrinktas LLV valdovu, valdžiusiu 1764–1795 m.
@@ -110,6 +207,7 @@ Stanislovas Augustas Poniatovskis 1764 m. buvo išrinktas LLV valdovu, o jo vald
     Rusijos armijai, stovinčiai prie Varšuvos, nebesipriešinti, priimti liepos
     21 dieną iš Jekaterinos II gautą notą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -131,8 +229,9 @@ Stanislovas Augustas Poniatovskis 1764 m. buvo išrinktas LLV valdovu, o jo vald
     gustas buvo priversti atšaukti Gegužės trečiosios konstituciją ir atkurti
     ikikonstitucinę „auksinių laisvių“ santvarką.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
@@ -146,6 +245,7 @@ Stanislovas Augustas Poniatovskis 1764 m. buvo išrinktas LLV valdovu, o jo vald
     ir permainų ir reformų bandymų, ir baroko saulėlydžio bei valstybės ago-
     nijos ir sunaikinimo epocha.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -165,6 +265,7 @@ Stanislovas Augustas Poniatovskis 1764 m. buvo išrinktas LLV valdovu, o jo vald
     sudėjusi vilčių į šį valdovą ir Gegužės trečiosios konstitucija atsisakiusi
     valdovų elekcijos, buvo nuvilta ir išduota.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -184,6 +285,7 @@ Stanislovas Augustas Poniatovskis 1764 m. buvo išrinktas LLV valdovu, o jo vald
     pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisaky-
     mo) aktas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -204,6 +306,7 @@ Stanislovas Augustas Poniatovskis 1764 m. buvo išrinktas LLV valdovu, o jo vald
     Augusto poziciją – LLV priešinimosi galimybės 1792 m. gegužės–liepos
     kare su Rusija toli gražu nebuvo išsemtos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -220,11 +323,137 @@ Stanislovas Augustas Poniatovskis 1764 m. buvo išrinktas LLV valdovu, o jo vald
     taip ir nepasirodė fronte ir neišnaudojo visuotinės mobilizacijos, nesufor-
     mavo miestiečių milicijos. Neabejotina, kad 1792 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
+## Citatos
+
+- id: c-154768
+  citata_originali: |
+    Liepos pabaigoje
+    gynyba jau telkėsi prie Brastos, bet kaip tik tuo metu – liepos 24 dieną at-
+    ėjo žinia iš Varšuvos apie Stanislovo Augusto kapituliaciją ir prisijungimą
+    prie Targovicos konfederacijos.
+    1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas
+    Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Len-
+    kijos ir Lietuvos) dignitorių – ministrų. Karalius laikėsi pozicijos, kad
+    Rusijos armijai, stovinčiai prie Varšuvos, nebesipriešinti, priimti liepos
+    21 dieną iš Jekaterinos II gautą notą.
+  citata_rodoma: "1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas \nStanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Len-\nkijos ir Lietuvos) dignitorių – ministrų. Karalius laikėsi pozicijos, kad \nRusijos armijai, stovinčiai prie Varšuvos, nebesipriešinti, priimti liepos \n21 dieną iš Jekaterinos II gautą notą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-170087
+
+- id: c-154770
+  citata_originali: |
+    Lietuvos
+    Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių
+    žemės. Tuo metu Rusija privertė Stanislovą Augustą targovitėnų valdo-
+    mame Gardine 1793 m. birželio 17 d. sušaukti Seimą, kuris turėjo pritarti
+    naujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą.
+    Nors Seimas bandė priešintis, keletą deputatų suėmus, Seimą apsupus
+    rusų kariuomenei ir į salę įvedus rusų karininkus, rugpjūčio 19 dieną pa-
+    dalijimo rezultatai buvo patvirtinti – Gardino seimas ir Stanislovas Au-
+    gustas buvo priversti atšaukti Gegužės trečiosios konstituciją ir atkurti
+    ikikonstitucinę „auksinių laisvių“ santvarką.
+  citata_rodoma: "Tuo metu Rusija privertė Stanislovą Augustą targovitėnų valdo-\nmame Gardine 1793 m. birželio 17 d. sušaukti Seimą, kuris turėjo pritarti \nnaujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą. \nNors Seimas bandė priešintis, keletą deputatų suėmus, Seimą apsupus \nrusų kariuomenei ir į salę įvedus rusų karininkus, rugpjūčio 19 dieną pa-\ndalijimo rezultatai buvo patvirtinti – Gardino seimas ir Stanislovas Au-\ngustas buvo priversti atšaukti Gegužės trečiosios konstituciją ir atkurti \nikikonstitucinę „auksinių laisvių“ santvarką."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-170094
+
+- id: c-154771
+  citata_originali: |
+    Žlugus Saksų dinastijai, 1764 m. LLV valdovu buvo išrinktas Stanislo-
+    vas Augustas Poniatovskis. Nors jis ne iš tų valdovų, kurie lemia istorijos
+    vyksmą, būtent jo valdymo laikas (1764–1795) tapo istorine epocha – tai
+    ir permainų ir reformų bandymų, ir baroko saulėlydžio bei valstybės ago-
+    nijos ir sunaikinimo epocha.
+  citata_rodoma: "LLV valdovu buvo išrinktas Stanislo-\nvas Augustas Poniatovskis. Nors jis ne iš tų valdovų, kurie lemia istorijos\nvyksmą, būtent jo valdymo laikas (1764–1795) tapo istorine epocha – tai\nir permainų ir reformų bandymų, ir baroko saulėlydžio bei valstybės ago-\nnijos ir sunaikinimo epocha."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-170088
+
+- id: c-154772
+  citata_originali: |
+    Taigi 1795-ieji yra visų pirma Stanislovo Au-
+    gusto fiasko, o į tai nuosekliai vedė jo visa ankstesnė biografija ir asmens
+    savybės. Norėdamas įsitvirtinti valdžioje, jis žaidė su Rusija, bet ne per
+    LLV ambasadą Peterburge, o su Rusijos ambasada Varšuvoje. Dėl savo
+    ambicijų užsiėmė smulkiomis intrigėlėmis, susipyko su visa savo aplin-
+    ka, todėl lemtingais momentais stūksojo vienišas, o visuomenė, tiek daug
+    sudėjusi vilčių į šį valdovą ir Gegužės trečiosios konstitucija atsisakiusi
+    valdovų elekcijos, buvo nuvilta ir išduota.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-170093
+
+- id: c-154773
+  citata_originali: |
+    Lenkijos ir LDK dalybose dalyvavo ir
+    Austrija: pietvakarinis LDK kampas buvo prijungtas prie Austrijos, kuris
+    1815 m., kaip ir Užnemunė, atiteko Rusijai.
+    1797 m. sausio 26 d. Rusija, Prūsija ir Austrija pasirašė naują Peter-
+    burgo konvenciją, kuri patvirtino trečiąjį LLV padalijimą, panaikino jos
+    valstybingumo likučius ir nubrėžė tikslias sienas. Prie konvencijos buvo
+    pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisaky-
+    mo) aktas.
+  citata_rodoma: "1797 m. sausio 26 d. Rusija, Prūsija ir Austrija pasirašė naują Peter-\nburgo konvenciją, kuri patvirtino trečiąjį LLV padalijimą, panaikino jos \nvalstybingumo likučius ir nubrėžė tikslias sienas. Prie konvencijos buvo \npridėtas Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisaky-\nmo) aktas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-170089
+
+- id: c-154774
+  citata_originali: |
+    Kiekybiškai tai – nepaprastai maža persvara, ir
+    tokios nebūtų buvę, jei netikėtai vadinamosios Patriotų partijos vienas iš
+    vadų H. Kolontajus nebūtų parėmęs valdovo pozicijos. Lietuvos atstovai
+    pasirodė net garbingiau nei Lenkijos – iš penkių balsų, pasisakiusių už
+    priešinimąsi, trys buvo iš Lietuvos: LDK didysis maršalas Ignotas Potoc-
+    kis, LDK rūmų maršalas Stanislovas Soltanas ir LLV Seimo lietuviškosios
+    pusės maršalas K. N. Sapiega. Istorija pasmerkė susitaikėlišką Stanislovo
+    Augusto poziciją – LLV priešinimosi galimybės 1792 m. gegužės–liepos
+    kare su Rusija toli gražu nebuvo išsemtos.
+  citata_rodoma: "Sapiega. Istorija pasmerkė susitaikėlišką Stanislovo \nAugusto poziciją – LLV priešinimosi galimybės 1792 m. gegužės–liepos \nkare su Rusija toli gražu nebuvo išsemtos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-170095
+
+- id: c-154776
+  citata_originali: |
+    Iš
+    72 pabūklų ji prarado tik septynis.
+    O prie Varšuvos viskas atsirėmė į Stanislovo Augusto poziciją, kuris
+    taip ir nepasirodė fronte ir neišnaudojo visuotinės mobilizacijos, nesufor-
+    mavo miestiečių milicijos. Neabejotina, kad 1792 m.
+  citata_rodoma: "O prie Varšuvos viskas atsirėmė į Stanislovo Augusto poziciją, kuris \ntaip ir nepasirodė fronte ir neišnaudojo visuotinės mobilizacijos, nesufor-\nmavo miestiečių milicijos. Neabejotina, kad 1792 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-170092
 
 ## Ryšiai
 - Stanislovas Augustas Poniatovskis (valdovas) buvo valdovas [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]]

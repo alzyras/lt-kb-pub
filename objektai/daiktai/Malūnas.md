@@ -10,6 +10,18 @@ tags:
   - diplomatas
   - ordinas
   - sutartis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Malūnas
 
@@ -42,9 +54,20 @@ Nenurodyta
 <a id="claim-t-35536"></a>
 - t-001
   global_id: t-35536
-  teiginys: 'Vytautas suteikė Vokiečių ordinui teisę abipus Nevėžio statytis malūnus.'
+  teiginys: "Vytautas suteikė Vokiečių ordinui teisę abipus Nevėžio statytis malūnus."
+  semantiniai_rysiai: "Kryžiuočių ordinas gynė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.97); Vytautas (Lietuvos valdovas, XIV–XV a.) rėmė Kryžiuočių ordinas (0.78)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "436645-437106; hash=e63e46bf414b176f7e77b31b2c7db480aa9a5c925dd60874a4beb9e1010dc30a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.97"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Ordinas sutartyje pasižadėjo ginti Vytautą."
   pagrindžia:
-    - c-001
+    - c-38219
 - susijęs iš [[objektai/autoriai/Boetticher A.md#claim-t-64570|Boetticher A]]: Boetticherio darbas cituojamas teiginiui, kad kryžiuočiai Baigoje įsitvirtino, pastatė mūrinę pilį ir didelį papilį.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila.md#claim-t-186356|Mikalojus Radvila]]: Aleksandras kreipėsi į Vilniaus vaivadą ir kanclerį Mikalojų Radvilą dėl pievos dovanojimo prie jo malūno už Vilnelės.
 - susijęs iš [[objektai/asmenys/Ulrikas Hozijus.md#claim-t-87365|Ulrikas Hozijus]]: 1515 m. karalius leido Ulrikui Hozijui savo lėšomis statytis malūną ir iki gyvos galvos imti trečią grūdą.
@@ -73,8 +96,6 @@ Nenurodyta
 - susijęs iš Vaivados malūnas Užupyje: Aleksandras dovanojo Maksimui Vasiljevičiui šienaujamą pievą prie Vilniaus vaivados Mikalojaus Radvilos malūno Užupyje.
 - susijęs iš Vilnelė: 1522 m. prie Vilnelės iškilo popieriaus malūnas.
 - susijęs iš Vilnelė: 1522 metais prie Vilnelės iškilo popieriaus malūnas, buvęs aukščiau Vilniaus vaivados malūno ir žemiau Charitonovo palivarko.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): 1522 metais prie Vilnelės iškilo popieriaus malūnas, buvęs aukščiau Vilniaus vaivados malūno ir žemiau Charitonovo palivarko.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): 1469 metais bernardinams bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis, nusidriekęs palei Vilnios upę prie Karališkojo malūno.
 - susijęs iš Vilnia: 1469 metais bernardinams bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis, nusidriekęs palei Vilnios upę prie Karališkojo malūno.
 - susijęs iš Vilniaus popieriaus malūnas prie Vilnelės: 1522 m. prie Vilnelės, aukščiau Vilniaus vaivados malūno ir žemiau Charitonovo palivarko, iškilo popieriaus malūnas.
 - susijęs iš Vyhandė: Narbutas rašo, kad XVII a. Livonijoje dėl užtvenkto Vyhandės upelio, ant kurio norėta įrengti malūną, buvo prieita prie kraujo praliejimu malšinto maišto.
@@ -114,7 +135,6 @@ Nenurodyta
 - susijęs iš Užupis: Aleksandras dovanojo Maksimui Vasiljevičiui pievą prie kelio iš Vilniaus į Užupį už Vilnelės.
 - susijęs iš Vilnelė: Maksimui Vasiljevičiui buvo dovanota šienaujama pieva prie kelio į Užupį, už Vilnelės.
 - susijęs iš Vilnelė: Aleksandras dovanojo Maksimui Vasiljevičiui šienaujamą pievą už Vilnelės prie kelio iš miesto į Užupį.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Didysis kunigaikštis Aleksandras dovanojo Maksimui Vasiljevičiui šienaujamą pievą už Vilnelės prie kelio į Užupį.
 - susijęs iš Vilniaus tiltas per Viliją (sujungti pirminiai pavadinimai Ulriko Hozijaus tiltas per Viliją; Vilniaus tiltas per Viliją): 1529 m. Albertas Goštautas gavo karaliaus leidimą priešais Žemutinės Vilniaus pilies vartus nutiesti tiltą per Viliją.
 - susijęs iš Vilnius: Aleksandras dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą prie kelio į Užupį.
 - susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Iš Žemutinės pilies vakarinių vartų kelias vedė per du tiltus, nutiestus per Vilnią ir Vingrių upokšnį.
@@ -142,11 +162,32 @@ Nenurodyta
     karalių^4 ), bet ši nauja sutartis aiškiausiai prieštaravo jo praeitų
     metų pasižadėjimams.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-38219
+  citata_originali: |
+    Sekančiais metais Vytautas su kryžiuočių diplomatais su­
+    važiavo į Kauną ir, be Lenkijos žinios, suteikė Vokieč.
+    Ordinui teise abipus Nevėžio statytis malūnus^2 ) ir atskiru aktu
+    pasižadėjo eiti jam į pagalbą prieš visus jo priešus. Ordinas irgi
+    sutarty pasižadėjo ginti Vytautą nuo jo priešininkų^3 ). Nors
+    Vyt. ir pažymėjo, kad jam esą netinka kelti rankos prieš lenkų
+    karalių^4 ), bet ši nauja sutartis aiškiausiai prieštaravo jo praeitų
+    metų pasižadėjimams.
+  citata_rodoma: "Sekančiais metais Vytautas su kryžiuočių diplomatais su­\nvažiavo į Kauną ir, be Lenkijos žinios, suteikė Vokieč.\nOrdinui teise abipus Nevėžio statytis malūnus^2 ) ir atskiru aktu\npasižadėjo eiti jam į pagalbą prieš visus jo priešus. Ordinas irgi\nsutarty pasižadėjo ginti Vytautą nuo jo priešininkų^3 ). Nors\nVyt."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-35536
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]

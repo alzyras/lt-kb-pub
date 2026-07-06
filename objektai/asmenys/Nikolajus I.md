@@ -19,6 +19,18 @@ amziai:
   - 'XIX'
 periodo_grupes:
   - 'naujieji laikai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Nikolajus I
 
@@ -29,26 +41,61 @@ periodo_grupes:
 ## Teiginiai
 
 <a id="claim-t-82633"></a>
-- t-001
+- t-003
   global_id: t-82633
-  teiginys: '1855 m., po caro Nikolajaus I mirties ir Rusijai pralaimėjus Krymo karą, imperijoje prasidėjo reformos.'
+  teiginys: "1855 m., po caro Nikolajaus I mirties ir Rusijai pralaimėjus Krymo karą, imperijoje prasidėjo reformos."
+  temporaliniai_duomenys: "įvykio data: 1855 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir pagrįstas pateikta citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "17036-17381; hash=260cac5c2d10769155d57549dd6d4f54748e90a54e5e0b95d46a54531397d9b6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krymas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Nikolajus I: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Krymas: mention_match, place, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nikolajus I\" parinktas kaip owner_note_path. Targetas \"Krymas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-79097
 
 <a id="claim-t-82634"></a>
-- t-002
+- t-001
   global_id: t-82634
-  teiginys: 'Įkūrus slaptąją policiją, caro Nikolajaus I priežiūra Vilniaus švietimo apygardoje tapo dar akylesnė.'
+  teiginys: "Įkūrus slaptąją policiją, caro Nikolajaus I priežiūra Vilniaus švietimo apygardoje tapo dar akylesnė."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "195055-195554; hash=7925631f9b9937867d5d2ee2f843d88942d210cfcc6acd93f518e638bea5e979; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Nikolajus I: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nikolajus I\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-21921
 
 <a id="claim-t-82635"></a>
-- t-003
+- t-004
   global_id: t-82635
-  teiginys: 'Po Nikolajaus I mirties 1855 m. ir Rusijos pralaimėjimo Krymo kare imperijoje prasidėjo reformos.'
+  teiginys: "Po Nikolajaus I mirties 1855 m. ir Rusijos pralaimėjimo Krymo kare imperijoje prasidėjo reformos."
+  temporaliniai_duomenys: "įvykio data: 1855 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas puslapio triukšmas, teiginys tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "17036-17381; hash=260cac5c2d10769155d57549dd6d4f54748e90a54e5e0b95d46a54531397d9b6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krymas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Nikolajus I: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Krymas: mention_match, place, gap=53"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nikolajus I\" parinktas kaip owner_note_path. Targetas \"Krymas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
-
+    - c-79097
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -63,8 +110,9 @@ periodo_grupes:
     dos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją
     policiją.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -84,9 +132,51 @@ periodo_grupes:
 
     Rusijai pralaimėjus Krymo karą, imperijoje prasidėjo reformos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
     - t-001
+
+## Citatos
+
+- id: c-21921
+  citata_originali: |
+    Caro administracija ėmėsi tyrimo,
+    kuris išsirutuliojo į to meto didžiausią Europoje teismo procesą prieš stu-
+    dentų ir moksleivių jaunimą. Apkaltinus per 100 asmenų, dvidešimt, tarp
+    jų ir A. Mickevičius, ištremti, kiti atiduoti į rekrutus. Išvaryti ir politiš-
+    kai nepatikimi profesoriai, tarp jų J. Lelevelis, priverstinai atsistatydino
+    iš globėjo posto A. J. Čartoriskis, susiaurintos Vilniaus švietimo apygar-
+    dos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją
+    policiją.
+  citata_rodoma: "Išvaryti ir politiš-\nkai nepatikimi profesoriai, tarp jų J. Lelevelis, priverstinai atsistatydino\niš globėjo posto A. J. Čartoriskis, susiaurintos Vilniaus švietimo apygar-\ndos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją\npoliciją."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82634
+
+- id: c-79097
+  citata_originali: |
+    Be to,
+    kaip rašė viename laiške jo žmona, Vilniuje jam buvo pasiūly­
+    tos Vilniaus gimnazijos kuratoriaus pareigos. Lietuvoje M. Ba­
+    linskis sutinka jaunystės draugus ir aktyviai įsitraukia į kultūri­
+    nį krašto gyvenimą. 1855 m., po caro Nikolajaus I mirties ir
+    XII
+
+    ## Puslapis 13
+
+    Rusijai pralaimėjus Krymo karą, imperijoje prasidėjo reformos.
+  citata_rodoma: "Ba­\nlinskis sutinka jaunystės draugus ir aktyviai įsitraukia į kultūri­\nnį krašto gyvenimą. 1855 m., po caro Nikolajaus I mirties ir\nXII\n\n## Puslapis 13\n\nRusijai pralaimėjus Krymo karą, imperijoje prasidėjo reformos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82635
+    - t-82633

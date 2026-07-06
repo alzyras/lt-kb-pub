@@ -16,6 +16,18 @@ amziai:
   - 'XIX'
 periodo_grupes:
   - 'naujieji laikai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Justinas Hrebnickis
 
@@ -28,10 +40,22 @@ Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūr
 <a id="claim-t-87746"></a>
 - t-001
   global_id: t-87746
-  teiginys: 'Justinas Hrebnickis 1830 m. rudenį priklausė Vilniuje susikūrusiam sukilimo centriniam komitetui.'
+  teiginys: "Justinas Hrebnickis 1830 m. rudenį priklausė Vilniuje susikūrusiam sukilimo centriniam komitetui."
+  temporaliniai_duomenys: "priklausymo laikotarpis: 1830 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko Justino Hrebnickio narystę komitete."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "7699-8130; hash=08f7d10e04776b9d5e1fba51b5c00329ef278c92f65ac034a25297f2687bbe76; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Justinas Hrebnickis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=45"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Justinas Hrebnickis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-83725
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -47,8 +71,29 @@ Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūr
     kas Zambrzyckis. Šis komitetas turėjo organizuoti sukilimą va­
     karinėse Rusijos imperijos gubernijose.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83725
+  citata_originali: |
+    Be to,
+    politiniai įvykiai kuriam laikui visiškai sustabdė istorijos leidi­
+    mą. Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­
+    niuje susikūrė sukilimo centrinis komitetas, kuriam priklausė
+    Antanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Le­
+    onas Rogalskis, Edvardas Riomeris, Mykolas Balinskis, Liudvi­
+    kas Zambrzyckis. Šis komitetas turėjo organizuoti sukilimą va­
+    karinėse Rusijos imperijos gubernijose.
+  citata_rodoma: "Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­\nniuje susikūrė sukilimo centrinis komitetas, kuriam priklausė \nAntanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Le­\nonas Rogalskis, Edvardas Riomeris, Mykolas Balinskis, Liudvi­\nkas Zambrzyckis. Šis komitetas turėjo organizuoti sukilimą va­\nkarinėse Rusijos imperijos gubernijose."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87746

@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jazbuto pralaimėjimas tarp Alnos ir Narevo upių
 
@@ -29,10 +41,23 @@ Nenurodyta
 <a id="claim-t-185800"></a>
 - t-001
   global_id: t-185800
-  teiginys: 'Jazbutas, nuniokojęs kai kurias Lenkijos pasienio žemes, buvo sumuštas Henriko Cutsverto tarp Alnos ir Narevo upių.'
+  teiginys: "Jazbutas, nuniokojęs kai kurias Lenkijos pasienio žemes, buvo sumuštas Henriko Cutsverto tarp Alnos ir Narevo upių."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Jazbutas puolė Lenkija (0.82)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "280506-281145; hash=d608449f8bce6e2a0f40fda65cd2a2a34e74a47b3f48c6b391d3693cac47f321; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Lenkija: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jazbutas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Lenkijos pasienio žemių nuniokojimas tiesiogiai rodo Jazbuto karinį antpuolį prieš Lenkijos žemes."
   pagrindžia:
-    - c-001
-
+    - c-169161
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -56,8 +81,36 @@ Nenurodyta
     buvo
     ramus.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-169161
+  citata_originali: |
+    Nuo Liudviko
+    Libencelės karių rankos tais pačiais metais krito dvi­
+    dešimt penki Aukaimio įgulos vyrai, neatsargiai nusi­
+    gavę į priešo žemę. Kitame pakraštyje Jazbutas, ypa­
+    tingai aukštos kilmės lietuvis, nuniokojęs kurias ne
+    kurias Lenkijos pasienio žemes, buvo sumuštas Henriko
+    Cutsverto, Baigos komtūro, su tūkstančiu dviem šim­
+    tais riterių užėmusio kelius tarp Alnos ir Narevo upių:
+    Jazbutas neteko viso grobio ir didelės dalies raitelių,
+    kurių turėjo penkis šimtus. Po to abi pusės liovėsi vie­
+    na kitą puldinėjusios, tačiau ne dėl to, kad buvo pa­
+    darytos paliaubos, bet dėl to, kad trukdė rudens orai;
+    todėl
+    tik ruduo
+    buvo
+    ramus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185800

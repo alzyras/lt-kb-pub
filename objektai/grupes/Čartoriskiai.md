@@ -10,6 +10,18 @@ tags:
   - grupe
   - reforma
   - seimas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Čartoriskiai
 
@@ -20,11 +32,38 @@ Tiesa, pirmosios Čartoriskių reformos buvo tuojau apgriautos. Šitokioje būkl
 ## Teiginiai
 
 <a id="claim-t-45273"></a>
-- t-001
+- t-004
   global_id: t-45273
-  teiginys: 'Čartoriskiai buvo viena iš garsių vėlesnių laikų LDK giminių, kilusių iš periferinių sritinių žemių kunigaikščių.'
+  teiginys: "Čartoriskiai buvo viena iš garsių vėlesnių laikų LDK giminių, kilusių iš periferinių sritinių žemių kunigaikščių."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "64837-65368; hash=296b3667ad5c4da7ae5d8c7dc17d62734aefd796ccac7303c0194f37a634523c; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Alšėnų kunigaikščiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Čartoriskiai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Alšėnų kunigaikščiai: mention_match, group, gap=100"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Čartoriskiai\" parinktas kaip owner_note_path. Targetas \"Alšėnų kunigaikščiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-166589
+
+<a id="claim-t-45273"></a>
+- t-004
+  global_id: t-45273
+  teiginys: "Čartoriskiai buvo viena iš garsių vėlesnių laikų LDK giminių, kilusių iš periferinių sritinių žemių kunigaikščių."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "64837-65368; hash=296b3667ad5c4da7ae5d8c7dc17d62734aefd796ccac7303c0194f37a634523c; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Alšėnų kunigaikščiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Čartoriskiai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Alšėnų kunigaikščiai: mention_match, group, gap=100"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Čartoriskiai\" parinktas kaip owner_note_path. Targetas \"Alšėnų kunigaikščiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-166589
 - susijęs iš [[objektai/asmenys/Jekaterina II.md#claim-t-170051|Jekaterina II]]: Rusijos imperatorė Jekaterina II rėmė Augusto Poniatovskio globėjus Čartoriskius, tikėdamasi per juos plėsti savo įtaką.
 - susijęs iš [[objektai/asmenys/Jekaterina II.md#claim-t-170051|Jekaterina II]]: Rusijos imperatorė Jekaterina II rėmė Augusto Poniatovskio globėjus Čartoriskius, tikėdamasi per juos plėsti savo įtaką.
 - susijęs iš [[objektai/asmenys/Jekaterina II.md#claim-t-170053|Jekaterina II]]: Jekaterina II 1767-1768 m. parėmė Čartoriskių priešininkus, susitelkusius Vilniaus-Radomo bajorų konfederacijoje.
@@ -74,12 +113,35 @@ Tiesa, pirmosios Čartoriskių reformos buvo tuojau apgriautos. Šitokioje būkl
     gaikščiai, kilę ne iš valdančiosios Gediminaičių dinastijos, pavyzdžiui,
     Alšėnų kunigaikščiai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-166589
+  citata_originali: |
+    1 skyrius •  S E N O J I  L I E T U VA
+    39
+    Lietuva stačiatikiškos Rusios erdvėse
+    Lietuvos valstybei užėmus senrusių žemes, tų žemių vieti-
+    ninkais tapę lietuvių kunigaikščiai neretai priimdavo stačiatikybę. Vėliau
+    iš šių periferinių sritinių žemių kunigaikščių kilo garsios vėlesnių laikų
+    LDK giminės – Sanguškos, Čartoriskiai, Vyšnioveckiai, Sluckiai. Be to,
+    stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys kuni-
+    gaikščiai, kilę ne iš valdančiosios Gediminaičių dinastijos, pavyzdžiui,
+    Alšėnų kunigaikščiai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183202
+    - t-45273
 
 ## Ryšiai
 - Priešai: [[objektai/asmenys/Jekaterina II]]

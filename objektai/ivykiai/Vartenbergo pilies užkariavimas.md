@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - ivykis
   - pilis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vartenbergo pilies užkariavimas (pilis)
 
@@ -36,10 +48,21 @@ Nenurodyta
 <a id="claim-t-62522"></a>
 - t-001
   global_id: t-62522
-  teiginys: 'Sūduviai po ilgų antpuolių sudegino ir iki pamatų sunaikino Vartenbergo pilį, nužudydami du Ordino brolius su visa šeimyna.'
+  teiginys: "Sūduviai po ilgų antpuolių sudegino ir iki pamatų sunaikino Vartenbergo pilį, nužudydami du Ordino brolius su visa šeimyna."
+  teiginio_tipas: "faktas"
+  semantiniai_rysiai: "Sūduviai puolė Vartenbergas (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "456325-456787; hash=5ea4166e1e64f3740d293ce8b6df6a0e2198cf39c6bbb3e5e31a2cd912cc06ac; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Vartenbergas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sūduviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vartenbergas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Sūduviai nurodyti atžygiavę prie Vartenbergo pilies ir vykdę ilgus antpuolius."
   pagrindžia:
-    - c-001
-
+    - c-63208
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -54,8 +77,28 @@ Nenurodyta
     kuriems broliai kiek galėdami priešinosi, ją sudegino, iki pamatų sunaikino, nužudė du
     brolius su visa šeimyna, taip po šiai dienai ši pilis ir liko apleista.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-63208
+  citata_originali: |
+    Apie Vartenbergo pilies užkariavimą
+
+      Pagonys, tiek kartų  ir taip gausiai  lieję krikščionių kraują,  ir toliau nesiliovė jų
+    persekioję. Jie iš paskutiniųjų stengėsi visiškai juos sunaikinti. Sūduviai, subūrę dar
+    didesnę kariuomenę, atžygiavo prie Vartenbergo pilies ir po ilgų bei atkaklių antpuolių,
+    kuriems broliai kiek galėdami priešinosi, ją sudegino, iki pamatų sunaikino, nužudė du
+    brolius su visa šeimyna, taip po šiai dienai ši pilis ir liko apleista.
+  citata_rodoma: "Apie Vartenbergo pilies užkariavimą\n\n  Pagonys, tiek kartų  ir taip gausiai  lieję krikščionių kraują,  ir toliau nesiliovė jų\npersekioję. Jie iš paskutiniųjų stengėsi visiškai juos sunaikinti. Sūduviai, subūrę dar\ndidesnę kariuomenę, atžygiavo prie Vartenbergo pilies ir po ilgų bei atkaklių antpuolių,\nkuriems broliai kiek galėdami priešinosi, ją sudegino, iki pamatų sunaikino, nužudė du\nbrolius su visa šeimyna, taip po šiai dienai ši pilis ir liko apleista."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-62522

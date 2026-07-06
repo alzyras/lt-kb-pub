@@ -13,6 +13,18 @@ tags:
   - vieta
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Friburgas
 
@@ -25,9 +37,22 @@ Totoraitis, kuris beveik prieš 60 metų Šveicarijos Friburge pas prof. G.
 <a id="claim-t-32156"></a>
 - t-001
   global_id: t-32156
-  teiginys: 'J. Totoraitis Šveicarijos Friburge pas prof. G. Schnürerį parašė disertaciją, išspausdintą 1905 m.'
+  teiginys: "J. Totoraitis Šveicarijos Friburge pas prof. G. Schnürerį parašė disertaciją, išspausdintą 1905 m."
+  temporaliniai_duomenys: "įvykio data: 1905 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir paremtas citata apie veiklą Friburge."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "425010-425422; hash=cbd92632762d9a014ab12d660265e457df4e20581449f99ca4dab75e0d26827b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> J. Totoraitis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Friburgas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "J. Totoraitis: mention_match, author, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Friburgas\" parinktas kaip owner_note_path. Targetas \"J. Totoraitis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-33838
 - susijęs iš Kaunas: Kun. dr. J. Stakausko vokiška disertacija 1934 m. Kaune buvo sulietuvinta ir papildyta.
 - susijęs iš Šventaragio slėnis: Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv.
 - susijęs iš Šventaragio slėnys: Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv.
@@ -45,8 +70,29 @@ Totoraitis, kuris beveik prieš 60 metų Šveicarijos Friburge pas prof. G.
     prof. G. Schnürerį parašė plačiai žinomą disertaciją (išspausdinta
     1905 m.).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33838
+  citata_originali: |
+    Ir pačių
+    lietuvių studijų bei straipsnių apie Mindaugą ir jo laikų Lietuvą
+    yra nepalyginamai daugiau negu apie tokius žymius XIV amž.
+    valdovus, kaip Gediminas, Algirdas, Kęstutis. Vien universitetinių
+    disertacijų apie Mindaugą yra trys. Pirmasis lietuvis buvo kun. dr.
+    J. Totoraitis, kuris beveik prieš 60 metų Šveicarijos Friburge pas
+    prof. G. Schnürerį parašė plačiai žinomą disertaciją (išspausdinta
+    1905 m.).
+  citata_rodoma: "J. Totoraitis, kuris beveik prieš 60 metų Šveicarijos Friburge pas\nprof. G. Schnürerį parašė plačiai žinomą disertaciją (išspausdinta\n1905 m.)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-32156

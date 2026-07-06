@@ -4,6 +4,7 @@ pavadinimas: 'Laivai'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -13,15 +14,6 @@ datos:
   - '1383 m.'
 date_start: '1160'
 date_end: '1383'
-aliases:
-  - 'objektai/daiktai/Sieliai'
-variantai:
-  - 'Sieliai'
-description: 'Laivai minimi kaip karo žygių, puolimų ir kelionių Nemunu priemonė nuo aisčių bei skandinavų laikų iki Vytenio ir Kęstučio žygių.'
-socialDescription: 'Laivai Lietuvos istorijos šaltiniuose pasirodo kaip karo, puolimų ir judėjimo Nemunu priemonė.'
-seo_atnaujinta: '2026-07-02T23:12:35.451472+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -29,12 +21,24 @@ tags:
 amziai:
   - 'XII'
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Laivai
 
 ## Santrauka
 
-Laivai šaltiniuose siejami su karo žygiais, puolimais ir judėjimu Nemunu bei Baltijos pakrantėmis. 1313 m. kryžiuočiai Junigėdai pulti pasistatė karo laivą ir kitų laivų, o Vytenis atsakė pasiųsdamas Surminą su 100 laivų. 1382 m. Kęstutis laivais nuplaukė į Ordino sritį ties Jurbarku, o 1383 m. Ordino viršininkas laivu pasiekė Christmemelio salą.
+Laivai šiame šaltinyje minimi kaip karo transporto ir puolimo priemonė. Kryžiuočiai plaukė su karo laivu ir kitais laivais, Vytenis atsakė pasiųsdamas 100 laivų, o rygiečiai bei Livonijos kariuomenė taip pat judėjo laivais.
 
 ## Pavadinimai šaltiniuose
 
@@ -59,75 +63,228 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-12313"></a>
-- t-001
+- t-005
   global_id: t-12313
-  teiginys: '1382 m. pavasarį Kęstutis laivais Nemunu nuplaukė į Ordino sritį ir sustojo ties Jurbarku.'
+  teiginys: "1382 m. pavasarį Kęstutis laivais Nemunu nuplaukė į Ordino sritį ir sustojo ties Jurbarku."
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į Jurbarkas (0.76)"
+  temporaliniai_duomenys: "įvykio data: 1382 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis sakinys stilistiškai neaiškiai sieja armotas su laivais; citata palaiko glaustesnę formą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "63173-63600; hash=224eb69f90868f890c2e98475344e8bc67b0d8f604432f8c6a4850d7168610d8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Jurbarkas: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Jurbarkas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekste sakoma, kad Kęstutis plaukė Nemunu ir sustojo ties Jurbarku, todėl galima žymėti kelionės kryptį į Jurbarko vietą."
   pagrindžia:
-    - c-003
+    - c-163179
 
 <a id="claim-t-12314"></a>
-- t-002
+- t-006
   global_id: t-12314
-  teiginys: '1383 m. liepos 19 d. Ordino viršininkas laivu nuvyko iki Christmemelio salos.'
+  teiginys: "1383 m. liepos 19 d. Ordino viršininkas laivu nuvyko iki Christmemelio salos."
+  temporaliniai_duomenys: "kelionės data: 1383 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys yra pilnas, faktinis ir paremtas citatos tekstu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "84342-84792; hash=0c7c4c5fe63accdddf1ced4a246b7877dfb9dc92b56f42f0d5c5bf9a638c6a8b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Salos: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Laivai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Salos: mention_match, place, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Laivai\" parinktas kaip owner_note_path. Targetas \"Salos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-163180
 
 <a id="claim-t-179482"></a>
-- t-003
+- t-007
   global_id: t-179482
-  teiginys: 'Benjaminas iš Tudelio tvirtino, kad 1160 metais į Aleksandrijos uostą užsukdavo anglų ir Krokuvos pirklių laivai.'
+  teiginys: "Benjaminas iš Tudelio tvirtino, kad 1160 metais į Aleksandrijos uostą užsukdavo anglų ir Krokuvos pirklių laivai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "39486-40026; hash=ba39cc90cfd2def8d10a33dfd8f7050c5876c69e881b092a359a3ddff2bdfed1; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Anglai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Laivai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Anglai: mention_match, group, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Laivai\" parinktas kaip owner_note_path. Targetas \"Anglai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-163187
 
 <a id="claim-t-179483"></a>
-- t-004
+- t-009
   global_id: t-179483
-  teiginys: 'Didysis magistras slapta iš Marienburgo laivais išplaukė Vysla ir per jūros įlanką įplaukė į Nemuną.'
+  teiginys: "Didysis magistras slapta iš Marienburgo laivais išplaukė Vysla ir per jūros įlanką įplaukė į Nemuną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "299918-300267; hash=611d3c5c4bb0c3e1df721f2b1114f4781edfed5252814bca1521a7fad4c15bf4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Nemunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Laivai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Nemunas: mention_match, place, gap=53"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Laivai\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-163186
 
 <a id="claim-t-179484"></a>
-- t-005
+- t-003
   global_id: t-179484
-  teiginys: '1313 m. Vytenis atsiuntė Surminą su 100 laivų prieš kryžiuočius, puolusius Junigėdą.'
+  teiginys: "1313 m. Vytenis atsiuntė Surminą su 100 laivų prieš kryžiuočius, puolusius Junigėdą."
+  semantiniai_rysiai: "Lietuviai puolė Semba (0.91); Vytenis puolė Semba (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1313 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys neaiškiai nusako veiksmą ir nutyli Surminą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "613409-613821; hash=c386b7c3f2560b9f85554ace76f5d5dd8d9d10fdaf7974a21d237bb1594901dc; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Semba: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Semba: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad lietuviai puldinėjo Sembą."
   pagrindžia:
-    - c-005
+    - c-163181
 
 <a id="claim-t-179485"></a>
-- t-006
+- t-002
   global_id: t-179485
-  teiginys: '1313 m. kryžiuočiai pasistatė karo laivą su sienomis ir daug kitų laivų Junigėdai pulti.'
+  teiginys: "1313 m. kryžiuočiai pasistatė karo laivą su sienomis ir daug kitų laivų Junigėdai pulti."
+  semantiniai_rysiai: "Lietuviai puolė Semba (0.91); Vytenis puolė Semba (0.86); Surminas kariavo prieš Kryžiuočių ordinas (0.72)"
+  temporaliniai_duomenys: "įvykio data: 1313 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą datą, veikėjus, objektą ir tikslą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "613409-613821; hash=c386b7c3f2560b9f85554ace76f5d5dd8d9d10fdaf7974a21d237bb1594901dc; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Semba: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Semba: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje tiesiogiai nurodyta, kad lietuviai puldinėjo Sembą."
   pagrindžia:
-    - c-005
+    - c-163181
 
 <a id="claim-t-179486"></a>
-- t-007
+- t-004
   global_id: t-179486
-  teiginys: 'Rygiečiai ir Livonijos kariuomenė laivais judėjo į puolimo vietas.'
+  teiginys: "Rygiečiai ir Livonijos kariuomenė laivais judėjo į puolimo vietas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "933677-933737; hash=528e784d32ba4c6d731d9892d977cdd30fdd0ce33954435681645acc9933f258; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Livonija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Laivai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Laivai\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-    - c-007
+    - c-05231
+    - c-163185
 
 <a id="claim-t-179487"></a>
-- t-008
+- t-010
   global_id: t-179487
-  teiginys: '1383 m. liepos 19 d. Ordino viršininkas laivu nuvyko iki Christmemelio salos ir ten sustojo.'
+  teiginys: "1383 m. liepos 19 d. Ordino viršininkas laivu nuvyko iki Christmemelio salos ir ten sustojo."
+  temporaliniai_duomenys: "kelionės data: 1383 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškus ir tiksliai perteikia citatoje nurodytą kelionę laivu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "84342-84792; hash=0c7c4c5fe63accdddf1ced4a246b7877dfb9dc92b56f42f0d5c5bf9a638c6a8b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Salos: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Laivai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Salos: mention_match, place, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Laivai\" parinktas kaip owner_note_path. Targetas \"Salos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-163180
 
 <a id="claim-t-179488"></a>
-- t-009
+- t-008
   global_id: t-179488
-  teiginys: 'Po Karolio Didžiojo monarchijos žlugimo piratų valdomi lengvi laivai pasklido iš Skandinavijos po Baltijos pakrantę.'
+  teiginys: "Po Karolio Didžiojo monarchijos žlugimo piratų valdomi lengvi laivai pasklido iš Skandinavijos po Baltijos pakrantę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "53962-54671; hash=9131bf3c3daa5c5ef49a22104ee13064c6cc3bdf20aa1fc5dda172939c4b791b; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Laivai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=36"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Laivai\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-163178
 
 <a id="claim-t-179490"></a>
-- t-010
+- t-017
   global_id: t-179490
-  teiginys: 'Senovės aisčiai veikiausiai turėjo laivų, nes jų vadai rengdavo karo žygius į skandinavų kraštus.'
+  teiginys: "Senovės aisčiai veikiausiai turėjo laivų, nes jų vadai rengdavo karo žygius į skandinavų kraštus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "89808-90216; hash=7037fd2c7095003096dd48c33bc1721d9e930ca512a9c7a82dd95f222ccbed33; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Skandinavai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Laivai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Skandinavai: mention_match, group, gap=43"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Laivai\" parinktas kaip owner_note_path. Targetas \"Skandinavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-163183
+
+<a id="claim-t-192502"></a>
+- t-018
+  global_id: t-192502
+  teiginys: "Narbutas pasakoja, kad prie Rusnės įlankos danai nedaugeliu didelių, gerai ginkluotų laivų sunaikino rusų jūros pajėgas."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "426779-427177; hash=842f8179c6637b74fa44d711d113a69299f4d85b2cb5f83eff5b56a79123626e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Laivai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=57"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Laivai\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175292
+
+<a id="claim-t-194182"></a>
+- t-019
+  global_id: t-194182
+  teiginys: "Ar ba, priešingai, po vandeniu slypin čiais rifais klastingai prigaudavo pir klius, išdrįsusius, Lietuvai su Prūsi ja ėmus prekiauti, leistis į pirmąją kelionę sieliais."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "56593-57139; hash=c5928cb0943143cc58b55ee3934c02c2456c2bb7f65810f4054e83bf895a64f1; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176792
 - susijęs iš [[objektai/asmenys/Enėjas.md#claim-t-190094|Enėjas]]: Pasak Narbuto perteikiamo Vergilijaus, žlugus Trojai Enėjas statė laivus iš Idos kalno medžių, paskirtų Kibelei.
 - susijęs iš [[objektai/asmenys/Verneris (Ragainės komtūras).md#claim-t-184139|Verneris (Ragainės komtūras)]]: 1313 m. Ragainės komtūras Verneris pasistatydino karo laivą su sienomis ir daug kitų laivų Junigedos piliai pulti.
 - susijęs iš [[objektai/asmenys/Verneris (Ragainės komtūras).md#claim-t-60461|Verneris (Ragainės komtūras)]]: 1313 m. Ragainės komtūras Verneris pasistatydino karo laivą su sienomis ir daug kitų laivų Junigedos piliai pulti.
@@ -136,6 +293,7 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Ditrichas iš Ezbeko.md#claim-t-60107|Ditrichas iš Ezbeko]]: Ditrichas iš Ezbeko žuvo laivų mūšyje, kuriame lietuviai neteko 70 prityrusių karių.
 - susijęs iš [[objektai/asmenys/Enėjas.md#claim-t-190094|Enėjas]]: Pasak Narbuto perteikiamo Vergilijaus, žlugus Trojai Enėjas statė laivus iš Idos kalno medžių, paskirtų Kibelei.
 - susijęs iš [[objektai/asmenys/Ernekė.md#claim-t-60112|Ernekė]]: Apie gegužės 12 d. Ragainės komtūras Ernekė magistro įsakymu laivais išplaukė Lietuvos link.
+- susijęs iš [[objektai/asmenys/Hanonas.md#claim-t-191406|Hanonas]]: Apie 450 m. pr. Kr. Hanonas iš Kartaginos su daugybe laivų pasuko į pietus ir palei Afrikos krantus nuplaukė iki Bajadoro kyšulio.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184728|Jogaila (kunigaikštis, XIV–XV a.)]]: Norėdamas palengvinti maisto stokos kamuojamos Lietuvos dalią, Jogaila įsakė į Lietuvą gabenti dvidešimt laivų grūdų.
 - susijęs iš [[objektai/asmenys/Jonas iš Vienos.md#claim-t-60348|Jonas iš Vienos]]: Jonas iš Vienos kartu su Ragainės komtūru Erneke ir 25 ginklanešiais laivais išplaukė Lietuvos link.
 - susijęs iš [[objektai/asmenys/Konradas Bremeris.md#claim-t-60364|Konradas Bremeris]]: Konradas Bremeris vedė tris maisto prikrautus laivus į Elbingą ir prie Santyro kovėsi su Sventopelko laivynu.
@@ -154,17 +312,21 @@ Nenurodyta
 - susijęs iš [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai.md#claim-t-86992|Laivai, valtys, sieliai ir plaustai]]: Po Karolio Didžiojo monarchijos žlugimo piratų valdomi lengvi laivai pasklido iš Skandinavijos po Baltijos pakrantę.
 - susijęs iš [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai.md#claim-t-86993|Laivai, valtys, sieliai ir plaustai]]: Benjaminas iš Tudelio tvirtino, kad 1160 metais į Aleksandrijos uostą užsukdavo anglų ir Krokuvos pirklių laivai.
 - susijęs iš [[objektai/daiktai/Vilijos krovininiai laivai strungai.md#claim-t-189753|Vilijos krovininiai laivai strungai]]: Narbutas Vilijos krovininius laivus strungus vadino dideliais upiniais laivais, kuriems su jūrų laivais lyginti trūko tik stiebų ir kylio.
+- susijęs iš [[objektai/grupes/Finikiečiai.md#claim-t-192380|Finikiečiai]]: Narbutas aprašo finikiečių koloniją Gadirą už Heraklio stulpų kaip vietą, kur Viduržemio jūros laivai prekiavo su Okeano pakrančių gyventojais.
+- susijęs iš [[objektai/grupes/Kartaginiečiai.md#claim-t-192952|Kartaginiečiai]]: Kartaginiečiai aktyviai prekiavo su Vakarais, jų laivai plaukdavo už Heraklio stulpų iki Gadiros ir Tarteso uosto.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178896|Kryžiuočių ordinas]]: Ordino laivai padėjo pastatyti Elbingo ir Baigos pilis ir apsaugoti Gėlo vandens marias nuo netikėlių.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179312|Lietuviai]]: 1313 m. lietuvių karalius ir visa Lietuva pasiuntė Surminą su šimtu laivų sunaikinti Nemune buvusio Ordino laivo.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-183888|Lietuviai]]: 1313 m. lietuvių karalius ir visa Lietuva pasiuntė Surminą su šimtu laivų sunaikinti Nemune buvusio Ordino laivo.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188260|Lietuviai]]: Narbutas manė, kad dėl gyvenimo prie jūros ir didelių vandenų lietuviai turėjo savo Neptūną, laivininkų globėją.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179359|Livonijos ordinas]]: 1410 m. rugpjūtį Livonijos kariuomenė laivais atvyko į Sembą.
+- susijęs iš [[objektai/grupes/Masiliečiai.md#claim-t-192956|Masiliečiai]]: Masiliečių laivai, Masilijai pradėjus rungtyniauti su Kartagina, plaukdavo iki Tarteso tų pačių prekių kaip kartaginiečiai.
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-183897|Skalviai]]: Skalviai laivais priplaukė Labguvos pilį, apyaušryje ją užėmė, išžudė vyrus, sudegino pilį, o moteris ir vaikus išsivedė.
 - susijęs iš [[objektai/ivykiai/Antrosios laivų kautynės prie Svečės pilies.md#claim-t-62198|Antrosios laivų kautynės prie Svečės pilies (pilis)]]: Prie Svečės pilies Sventopelkas su ginklanešiais ir 10 laivų vėl užpuolė Elbingo brolių laivus.
 - susijęs iš [[objektai/ivykiai/Brandenburgo komtūro žygis į Lietuvą ir lietuvių atsakomasis žygis į Prūsiją (1299 m.).md#claim-t-185556|Brandenburgo komtūro žygis į Lietuvą ir lietuvių atsakomasis žygis į Prūsiją (1299 m.)]]: Pasroviui atskubėję lietuviai Nemune prarado tik vieną saviškį ir privertė priešų laivus pasukti atgal.
 - susijęs iš [[objektai/ivykiai/Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.).md#claim-t-66506|Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)]]: 1290 m. gegužės 12 d. Ernekė su Jonu iš Vienos ir 25 ginklanešiais laivais plaukė link Lietuvos pro Kolainių pilį.
 - susijęs iš [[objektai/ivykiai/Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.).md#claim-t-66508|Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)]]: Gegužės 12 d. Ragainės komtūras brolis Ernekė magistro įsakymu laivais išplaukė Lietuvos link su Jonu iš Vienos ir 25 ginklanešiais.
 - susijęs iš [[objektai/ivykiai/Brolio Ulricho laivų kautynės ir 50 prūsų žūtis.md#claim-t-91911|Brolio Ulricho laivų kautynės ir 50 prūsų žūtis]]: Brolis Ulrichas laivų kautynėse stiebu daužė prūsų laivus ir nuskandino jų tiek, kad kartu su laivais žuvo 50 prūsų.
+- susijęs iš [[objektai/ivykiai/Herulų žygis prieš Bizantiją III a. pabaigoje.md#claim-t-191031|Herulų žygis prieš Bizantiją III a. pabaigoje]]: Narbuto pasakojimu, III a. pabaigoje herulai surengė žygį prieš Bizantiją su trijų šimtų ginkluotų jūros laivų laivynu.
 - susijęs iš [[objektai/ivykiai/Junigėdos puolimas laivu ir Surmino kontrataka (1313 m.).md#claim-t-31423|Junigėdos puolimas laivu ir Surmino kontrataka (1313 m.)]]: 1313 m. Vytenis pasiuntė Surminą su 100 laivų prieš kryžiuočius, atplaukusius pulti Junigėdos.
 - susijęs iš [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai.md#claim-t-183928|Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]: Nepajėgę jėga paimti Karaliaučiaus pilies, prūsai pasistatė daug laivų brolių maisto tiekimo laivams naikinti.
 - susijęs iš [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai.md#claim-t-59177|Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]: Nepajėgę jėga paimti Karaliaučiaus pilies, prūsai pasistatė daug laivų brolių maisto tiekimo laivams naikinti.
@@ -177,6 +339,7 @@ Nenurodyta
 - susijęs iš [[objektai/ivykiai/Vernerio karo laivo žygis prieš Junigedą (1313 m.).md#claim-t-59449|Vernerio karo laivo žygis prieš Junigedą (1313 m.)]]: 1313 m. Ragainės komtūras Verneris pasistatydino sienomis sustiprintą karo laivą ir su kitais laivais išplaukė pulti Junigedos pilies.
 - susijęs iš [[objektai/ivykiai/Vytauto paliaubos ir taikos derybos su Livonijos ordinu (1410 m. vasara).md#claim-t-31497|Vytauto paliaubos ir taikos derybos su Livonijos ordinu (1410 m. vasara)]]: 1410 m. rugpjūtį Livonijos kariuomenė laivais atvyko į Sembą.
 - susijęs iš [[objektai/posakiai/Išmintingas žmogus visados išmintingai elgiasi ir saugosi busimųjų nelaimių.md#claim-t-59097|Išmintingas žmogus visados išmintingai elgiasi ir saugosi busimųjų nelaimių]]: Petras Dusburgietis posakiu apie išmintingą žmogų aiškina markgrafo sprendimą pastatyti du karo laivus.
+- susijęs iš Sambijos vyskupo Henriko sutartis dėl Vitlandsorto valdų: Sambijos vyskupas Henrikas sutartimi perleido Vitlandsorto valdas Ordinui už atlyginimą, kad šis galėtų pastatyti laivų saugumą užtikrinančią tvirtovę.
 - susijęs iš XVII A. PRADŽIOS KARO LAIVAI IR BRANDERIAI: Andžejus Geglis sukūrė iliustraciją „XVII a. pradžios karo laivai ir branderiai“.
 - susijęs iš Birka (Švedijos uostas): Sembai palaikė ryšius su Švedijos uostu Birka ir patys savo laivais ten nuplaukdavo.
 - susijęs iš Elbingas: Elbingo broliai, stokodami išteklių ir laukdami laivų, siuntė atgal laivus bei žygūnus sužinoti padėties Kulmo žemėje.
@@ -200,7 +363,9 @@ Nenurodyta
 - susijęs iš [[objektai/zodynas/Gardaitis.md#claim-t-189222|Gardaitis]]: Narbutas Gardaitį (Gardoeldius) apibūdina kaip vėjų, audrų ir jūros potvynių dievą bei jūrinių ar visokių laivų globėją.
 - susijęs iš [[objektai/zodynas/Vylius Wilius.md#claim-t-189259|Vylius Wilius]]: Narbutas Vylingosios vardą veikiau sieja su Vilnia, kurią apibūdina kaip kadaise laivybai tikusią, sraunią ir vingiuotą upę.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54935|Aleksandras Jogailaitis]]: 1492 m. Aleksandras patvirtino ankstesnius Vilniaus dovanojimus ir suteikė naujų privilegijų, turėjusių pagyvinti prekybą bei pagerinti miestiečių buitį.
+- susijęs iš [[objektai/asmenys/Aleksandras Makedonietis.md#claim-t-191363|Aleksandras Makedonietis]]: Aleksandro Makedoniečio užkariavimai lėmė politines permainas Azijoje, po kurių Tyras pradėjo priklausyti svetimtaučiams.
 - susijęs iš [[objektai/asmenys/Boleslovas Droviusis.md#claim-t-87637|Boleslovas Droviusis]]: Krokuva už pirmąją municipalinę tvarką, puošnius statinius ir 1257 m. suteiktas teutonų teises buvo skolinga Boleslovui Droviajam.
+- susijęs iš [[objektai/asmenys/Dregeris.md#claim-t-191947|Dregeris]]: Dregerio paminėtoje Sambijos vyskupo Henriko sutartyje Vitlandsorto valdos perleistos Ordinui tvirtovei statyti.
 - susijęs iš [[objektai/asmenys/Glapas.md#claim-t-89792|Glapas]]: Varmių vadas Glapas, gavęs pabėgusios prūsės pranešimą, su daugybe karių atvyko ir užėmė pilį.
 - susijęs iš [[objektai/asmenys/Heinmanas, vardu Kindas.md#claim-t-60304|Heinmanas, vardu Kindas]]: Prie Junigedos pilies seklumoje įstrigus laivams, buvo nukautas brolis Heinmanas, vadintas Kindu.
 - susijęs iš [[objektai/asmenys/Henrikas iš Plockės.md#claim-t-59864|Henrikas iš Plockės]]: Henrikas iš Plockės, Prūsijos žemės maršalas, vasarą nesėkmingai apgulė Bisenės pilį ir pasitraukė.
@@ -221,6 +386,7 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90022|Sventopelkas]]: 1246 m. karo pasakojime Dusburgietis Sventopelkui priskiria kovinę kalbą ir didelius nuostolius.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90036|Sventopelkas]]: Prieš mirtį Sventopelkas sušaukė savo sūnus ir patarė jiems niekada nesipriešinti Ordino broliams.
 - susijęs iš [[objektai/autoriai/Benjaminas iš Tudelio.md#claim-t-54999|Benjaminas iš Tudelio]]: Benjaminas iš Tudelio apibūdintas kaip žydų kilmės keliauninkas.
+- susijęs iš [[objektai/autoriai/Dregeris.md#claim-t-191637|Dregeris]]: Dregeris paminėjo Sambijos vyskupo Henriko sutartį, kuria žemės valdos Vitlandsorte perleistos Ordinui tvirtovei statyti.
 - susijęs iš [[objektai/autoriai/Rimbertas.md#claim-t-30953|Rimbertas]]: Rimbertas pažymėjo, jog kuršiai sukilo ir ilgai stengėsi savo penkiose srityse būti nepriklausomi.
 - susijęs iš [[objektai/autoriai/Rimberto, Rimbertas.md#claim-t-30956|Rimberto, Rimbertas]]: Rimbertas pažymėjo, jog kuršiai sukilo ir ilgai stengėsi savo penkiose srityse būti nepriklausomi.
 - susijęs iš [[objektai/daiktai/Kuorai.md#claim-t-183979|Kuorai]]: Brandenburgo pilyje broliai ir jų šeimyna gynėsi mediniame kuore nuo prūsų puldinėjimų.
@@ -276,6 +442,7 @@ Nenurodyta
 - susijęs iš Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): Po Karolio Didžiojo monarchijos žlugimo skandinavų piratų laivai pasklido po visą Baltijos pakrantę.
 - susijęs iš Baltijos jūra: Po Karolio Didžiojo monarchijos žlugimo skandinavų piratų laivai pasklido po visą Baltijos pakrantę.
 - susijęs iš Baltijos jūra: Narbutas čeltyčias apibūdino kaip Baltijos jūros vandenų nimfas, pajūrio žemaičių vaizduotėje gyvenusias gintaro rūmuose jūros gelmėse.
+- susijęs iš Baltijos jūra: Narbutas pasakoja, kad atvykėliai iš Juodosios jūros per miškingas stepes, vadintas Rusija, Podolija ir Lietuva, prasiskverbė iki Baltijos jūros.
 - susijęs iš Bisenė: Henrikas iš Plockės su kariuomene ilgai puolė Bisenės pilį, bet nutraukė apgulą jos neužėmęs.
 - susijęs iš Drūsinė: Tiedu laivai po daugelio metų buvo paskandinti Drūsinės ežere.
 - susijęs iš Elbingas: Laivai padėjo pastatyti Elbingo ir Baigos pilis bei apsaugoti Gėlo vandens marias nuo netikėlių.
@@ -284,6 +451,8 @@ Nenurodyta
 - susijęs iš Elbingas: Laivai padėjo pastatyti Elbingo ir Baigos pilis bei saugoti Gėlo vandens marias.
 - susijęs iš Elbingas: 1237 m. Ordino broliai Pagudėje pastatė pilį prie Elbingo upės ir pavadino ją Elbingu.
 - susijęs iš Elbingas: 1237 m. magistras su broliais ir maldininkais atvyko į Pagudę ir pastatė Elbingo pilį prie Elbingo upės žiočių.
+- susijęs iš Giaros sala: Senuosiuose pasakojimuose Giaros saloje gyvenę romėnų tremtiniai esą buvo Nerono kviečiami į karo žygį.
+- susijęs iš Heraklio stulpai: Romėnai, sužinoję apie pūnų laivus už Heraklio stulpų keliaujant į šiaurines jūras, pasiuntė jūrų keliautoją sekti vieną tokį laivą.
 - susijęs iš Junigeda: Po to broliai nuplaukė beveik iki Junigedos pilies.
 - susijęs iš Junigeda: Po to broliai nuplaukė beveik iki Junigedos pilies.
 - susijęs iš Kaunas: Didžiojo kunigaikščio Aleksandro įsakymu Vilniaus miestiečių laivams su prekėmis buvo garantuota laisva laivyba Vilija iki Kauno ir atgal.
@@ -307,6 +476,7 @@ Nenurodyta
 - susijęs iš Pernu: Kunigaikštytė Sofija su palyda iš Gdansko laivais per jūrą pasiekė Pernu ir Pskovą.
 - susijęs iš Pernu: Vytautas išleido kunigaikštytę Sofiją iš Marienburgo, o jos palyda iš Gdansko laivais pasiekė Pernu ir Pskovą.
 - susijęs iš Piarnu: Piarnu užėmimas užtikrino lietuviams saugų užnugarį ir leido tęsti veiksmus Rygos miesto blokadai panaikinti.
+- susijęs iš Podolė: Teodoras Narbutas Podoliją priskiria miškingoms stepėms, per kurias jo pasakojime iš Juodosios jūros link Baltijos keliavo atvykėliai.
 - susijęs iš Prūsija: Jogaila įsakė dvidešimt laivų su grūdais Vysla nuplukdyti į Prūsijos pasienį, kad maistas būtų nugabentas į Lietuvą.
 - susijęs iš Pskovas: Vytauto dukterį Sofiją lydėję asmenys iš Gdansko laivais per Pernu pasiekė Pskovą.
 - susijęs iš Salacgryva: Uždegti branderiai davė lietuviams signalą pradėti Salacgryvos uosto puolimą iš sausumos.
@@ -344,6 +514,7 @@ Nenurodyta
     Bet (1410.VIII.)
     Livonijos kariuomenė laivais atvyko Sembon.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -377,8 +548,9 @@ Nenurodyta
     ir, atrėmusi azijiečius, savo antpuoliais ėmė bauginti Rusią
     bei Lenkiją.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
@@ -395,8 +567,9 @@ Nenurodyta
     mitras Kaributas, Novgorodo Sieversko valdytojas, atsisakė jo
     klausyti ir mokėti duoklę didžiojo kunigaikščio iždui.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -413,8 +586,9 @@ Nenurodyta
     apsistojo su savo motina ir broliais sutartoje vietoje prie Duby­
     sos įtakos į Nemuną.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -431,8 +605,9 @@ Nenurodyta
     lietuvių karalius » Vytenis atsiuntė narsų kilmingąjį Surminą su
     100 laivų, kurie priešą nuvijo, o laivą sudegino^21.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
@@ -451,8 +626,9 @@ Nenurodyta
     nijas, bet padarydavo karo žygių net į skandinavų kraštus. Taigi
     jie bus turėję ir laivų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
@@ -466,6 +642,7 @@ Nenurodyta
     gimo, Dusburgas užrašė, jog ten kautynėse žuvę 4000 lietuvių ir
     rygiečių^35.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -488,6 +665,7 @@ Nenurodyta
     bendrais bruožais ir ne taip išsamiai
     apie šitai pasakoja.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -513,11 +691,283 @@ Nenurodyta
     čių antplūdį ir geriausiai sutvirtintas mūro sienas - Lešekui Juo­
     dajam.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+- c-010
+  santrauka: 'Narbutas pasakoja, kad prie Rusnės įlankos danai nedaugeliu didelių, gerai ginkluotų laivų sunaikino rusų jūros pajėgas.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Šie, susirinkę labai daug savo valčių, stojo
+    į mūšį prie įėjimo į Rusnės įlanką. Danai, atplaukę su
+    nedaugeliu didelių, gerai ginkluotų laivų, sunaikino visas
+    rusų jūros pajėgas. Sis sutriuškinimas buvęs toks ¡baisus,
+    jog, kai nugalėtojai įplaukė į įlanką, jie buvo priversti be­
+    veik iš naujo grumtis su sudužusiomis valtimis ir plūdu­
+    riuojančiais lavonais, kurie ¡buvo tarsi užkloję visą įlanką.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-011
+
+- c-011
+  santrauka: 'Ar ba, priešingai, po vandeniu slypin čiais rifais klastingai prigaudavo pir klius, išdrįsusius, Lietuvai su Prūsi ja ėmus prekiauti, leistis į pirmąją kelionę sieliais.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    5
+    Žodį Vilija, jeigu jo kilmės imtume
+    ieškoti lietuvių kalboje, galima tarti
+    kilus nuo Wiloju [vilioju] - gundau,
+    arba nuo Wilius [vylius] - klasta, tad
+    tokiu atveju Vilija reikštų Vilioklė.
+    Gal dėl to, kad ta nuostabi upė vi­
+    liojo ir masino prie savo krantų vie­
+    nišus, klajojančius po gūdžias girias
+    senovės lietuvius ir jų vaidilas. Ar­
+    ba, priešingai, po vandeniu slypin­
+    čiais rifais klastingai prigaudavo pir­
+    16
+
+    ## Puslapis 33
+
+    I  KNYGA
+    klius, išdrįsusius, Lietuvai su Prūsi­
+    ja ėmus prekiauti, leistis į pirmąją
+    kelionę sieliais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-012
+
+## Citatos
+
+- id: c-05231
+  citata_originali: |
+    Bet (1410.VIII.)
+    Livonijos kariuomenė laivais atvyko Sembon.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179486
+
+- id: c-163178
+  citata_originali: |
+    Nors jau V amžiaus pabaigoje,
+    tuoj po Romos valstybės žlugimo,
+    Europos Šiaurės kraštai kentėjo nuo
+    normanų puldinėjimų, bet jie nebu­
+    vo tokie reikšmingi ir grėsmingi,
+    kaip prasidėjusieji sulig didelės Ka­
+    rolio Didžiojo monarchijos žlugimu.
+    Būtent toje epochoje narsių piratų
+    valdomi prasti, bet mitrūs ir lengvi
+    laivai pasklido iš Skandinavijos pu­
+    siasalio po visą Baltijos pakrantę.
+    Sagos, kitaip sakant, senovinės tos
+    tautos legendos, eilėmis ir proza
+    15
+
+    ## Puslapis 32
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Paskui Lietuva net iki XII amžiaus pabaigos buvo Rusios
+    įtakoje, bet kratydamasi mongolų jungo, patraukė iš girių
+    ir, atrėmusi azijiečius, savo antpuoliais ėmė bauginti Rusią
+    bei Lenkiją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179488
+
+- id: c-163179
+  citata_originali: |
+    su Vokiečiu Ordinu. Jis darė 1382 m. sausio mėn. žygius į jo
+    žemes, teriodamas Varmijos kraštą; tų metų pavasarį net ar­
+    motomis ginkluotas nuplaukė laivais Nemunu į Ordino sritį ir
+    sustojo ties Jurbarku. Bet pilis nebuvo paimta, nes apsiautimui
+    užtrukus, Kęstutis išgirdo, kad galingas Jogailos šalininkas Di­
+    mitras Kaributas, Novgorodo Sieversko valdytojas, atsisakė jo
+    klausyti ir mokėti duoklę didžiojo kunigaikščio iždui.
+  citata_rodoma: "Jis darė 1382 m. sausio mėn. žygius į jo\nžemes, teriodamas Varmijos kraštą; tų metų pavasarį net ar­\nmotomis ginkluotas nuplaukė laivais Nemunu į Ordino sritį ir\nsustojo ties Jurbarku."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-12313
+
+- id: c-163180
+  citata_originali: |
+    Galų gale po ilgo delsimo, 1383 metų vasarą turėjo
+    įvykti Ordino magistro ir Jogailos susivažiavimas. Gavęs Jogai­
+    los apsaugos raštą, Ordino viršininkas, lydimas kunigų, lie­
+    pos 19 dieną laivu nuvyko iki Christmemelio (Skirsnemunės) sa­
+    los ir ten sustojo, prisidengdamas ta priežastimi, jog dėl Nemu­
+    no seklumo esą nebegalima toliau plaukti. Jogaila tuo tarpu
+    apsistojo su savo motina ir broliais sutartoje vietoje prie Duby­
+    sos įtakos į Nemuną.
+  citata_rodoma: "Gavęs Jogai­\nlos apsaugos raštą, Ordino viršininkas, lydimas kunigų, lie­\npos 19 dieną laivu nuvyko iki Christmemelio (Skirsnemunės) sa­\nlos ir ten sustojo, prisidengdamas ta priežastimi, jog dėl Nemu­\nno seklumo esą nebegalima toliau plaukti. Jogaila tuo tarpu"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-12314
+    - t-179487
+
+- id: c-163181
+  citata_originali: |
+    Lietuviai ne kartą puldinėjo Sembą. Pats
+    Vytenis 1311 plėšė Sembą ir Natangą, paskui Varmę, bet Woplau­
+    ken lygumose jo kariuomenė buvo sumušta^20. Kai 1313 m. kry­
+    žiuočiai, pasistatę «karo laivą su sienomis ir daug kitų laivų »
+    atplaukė pulti Junigėdos, «išgirdęs apie to laivo sukeltą garsą,
+    lietuvių karalius » Vytenis atsiuntė narsų kilmingąjį Surminą su
+    100 laivų, kurie priešą nuvijo, o laivą sudegino^21.
+  citata_rodoma: "Kai 1313 m. kry­\nžiuočiai, pasistatę «karo laivą su sienomis ir daug kitų laivų »\natplaukė pulti Junigėdos, «išgirdęs apie to laivo sukeltą garsą,\nlietuvių karalius » Vytenis atsiuntė narsų kilmingąjį Surminą su\n100 laivų, kurie priešą nuvijo, o laivą sudegino^21."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179485
+    - t-179484
+
+- id: c-163183
+  citata_originali: |
+    Yra
+    žinių, kad senų senovėje aisčiams daug teko kariauti su skandi-
+    navais (danais ir dabartiniais švedais), kurie nuolat puldavo
+    aisčių kraštus, о IX amž. buvo nęt pavergę kai kurias pajūrio
+    gimines. Aisčiai jau tuomet turėjo savo valstybėlių, kurių vadai
+    dažnai užpuldavo ne tik čia pajūryje įkurtas skandinavų kolo-
+    nijas, bet padarydavo karo žygių net į skandinavų kraštus. Taigi
+    jie bus turėję ir laivų.
+  citata_rodoma: "Aisčiai jau tuomet turėjo savo valstybėlių, kurių vadai\ndažnai užpuldavo ne tik čia pajūryje įkurtas skandinavų kolo-\nnijas, bet padarydavo karo žygių net į skandinavų kraštus. Taigi\njie bus turėję ir laivų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179490
+
+- id: c-163185
+  citata_originali: |
+    kryžiuočiai, kai, Karaliaučiaus komtūrui vadovaujant, atvyko stipri
+    pagalba^34. Su rygiečiais atvykę laivais griauti Neuermühleno pilies,
+    lietuviai skaudžiai pralaimėjo. Prie ano meto didžių skaičių pamė­
+    gimo, Dusburgas užrašė, jog ten kautynėse žuvę 4000 lietuvių ir
+    rygiečių^35.
+  citata_rodoma: "Su rygiečiais atvykę laivais griauti Neuermühleno pilies,\nlietuviai skaudžiai pralaimėjo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179486
+
+- id: c-163186
+  citata_originali: |
+    Lindenblatt Jahrbücher, p. 9 4 .
+    52
+    Tas žygis buvo paskubomis ir slap­
+    ta suruoštas, ir todėl didysis magist­
+    ras tuokart mažai teturėjo svetimša­
+    lių, juk nesigarsino po visą Europą,
+    o slapčia iš Marienburgo išplaukė
+    Vysla laivais, paskui jūros įlanka
+    įplaukė į Nemuną. Mūsų istorikai
+    bendrais bruožais ir ne taip išsamiai
+    apie šitai pasakoja.
+  citata_rodoma: "9 4 .\n52\nTas žygis buvo paskubomis ir slap­\nta suruoštas, ir todėl didysis magist­\nras tuokart mažai teturėjo svetimša­\nlių, juk nesigarsino po visą Europą, \no slapčia iš Marienburgo išplaukė \nVysla laivais, paskui jūros įlanka \nįplaukė į Nemuną. Mūsų istorikai \nbendrais bruožais ir ne taip išsamiai \napie šitai pasakoja."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179483
+
+- id: c-163187
+  citata_originali: |
+    7
+
+    ## Puslapis 24
+
+    ĮVADAS
+    Lenkijos miestų, jau XII amžiuje dėl savo prekybinių ryšių bu­
+    vo žinoma net Rytuose. Benjaminas iš Tudelio, žydų kilmės ke­
+    liauninkas, tvirtina, kad 1160 metais į Aleksandrijos uostą ne
+    tik anglų, bet ir Krokuvos pirklių laivai užsukdavęd). Tad jau
+    nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę
+    tvarką, puošnius statinius ir teutonų teises (1257 metais) sko­
+    linga Boleslovui Droviajam, už svarbias privilegijas, svetimtau­
+    čių antplūdį ir geriausiai sutvirtintas mūro sienas - Lešekui Juo­
+    dajam.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179482
+
+- id: c-175292
+  citata_originali: |
+    Šie, susirinkę labai daug savo valčių, stojo
+    į mūšį prie įėjimo į Rusnės įlanką. Danai, atplaukę su
+    nedaugeliu didelių, gerai ginkluotų laivų, sunaikino visas
+    rusų jūros pajėgas. Sis sutriuškinimas buvęs toks ¡baisus,
+    jog, kai nugalėtojai įplaukė į įlanką, jie buvo priversti be­
+    veik iš naujo grumtis su sudužusiomis valtimis ir plūdu­
+    riuojančiais lavonais, kurie ¡buvo tarsi užkloję visą įlanką.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192502
+
+- id: c-176792
+  citata_originali: |
+    5
+    Žodį Vilija, jeigu jo kilmės imtume
+    ieškoti lietuvių kalboje, galima tarti
+    kilus nuo Wiloju [vilioju] - gundau,
+    arba nuo Wilius [vylius] - klasta, tad
+    tokiu atveju Vilija reikštų Vilioklė.
+    Gal dėl to, kad ta nuostabi upė vi­
+    liojo ir masino prie savo krantų vie­
+    nišus, klajojančius po gūdžias girias
+    senovės lietuvius ir jų vaidilas. Ar­
+    ba, priešingai, po vandeniu slypin­
+    čiais rifais klastingai prigaudavo pir­
+    16
+
+    ## Puslapis 33
+
+    I  KNYGA
+    klius, išdrįsusius, Lietuvai su Prūsi­
+    ja ėmus prekiauti, leistis į pirmąją
+    kelionę sieliais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194182
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Enėjas]], [[objektai/asmenys/Verneris (Ragainės komtūras)]]

@@ -24,6 +24,18 @@ tags:
 amziai:
   - 'XVI'
   - 'XVIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Nesvyžius
 
@@ -33,61 +45,213 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 
 ## Teiginiai
 
-<a id="claim-t-84367"></a>
-- t-001
-  global_id: t-84367
-  teiginys: 'Radvila Juodasis 1562 m. įkūrė spaustuvę Nesvyžiuje.'
+<a id="claim-t-84370"></a>
+- t-005
+  global_id: t-84370
+  teiginys: "Radvila Juodasis 1562 m. įkūrė spaustuvę Nesvyžiuje."
+  temporaliniai_duomenys: "įkūrimo data: 1562 m.; įkūrimo data: 1569 m.; įkūrimo data: 1575 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra trumpas, gramatiškas ir tiksliai paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "111168-111759; hash=e69603eaa22b5a0b2e9e3abc3ef93f0db841ec8f1449e16e949ed3041a68e092; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Brasta: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Nesvyžius: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Brasta: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nesvyžius\" parinktas kaip owner_note_path. Targetas \"Brasta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-80547
 
-<a id="claim-t-84368"></a>
-- t-002
-  global_id: t-84368
-  teiginys: 'Vaitiekus II Radvila, Olykos ir Nesvyžiaus kunigaikštis, mirė 1519 m. liepos 5 d. ir vyskupo pareigas ėjo 11 metų.'
+<a id="claim-t-84369"></a>
+- t-009
+  global_id: t-84369
+  teiginys: "Vaitiekus II Radvila, Olykos ir Nesvyžiaus kunigaikštis, mirė 1519 m. liepos 5 d. ir vyskupo pareigas ėjo 11 metų."
+  temporaliniai_duomenys: "įvykio data: 1519 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, aiškus ir paremtas citata apie Vaitiekų II Radvilą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "406611-406806; hash=d128f00cd185758f13064022bc2116e69b2cb69f80121ffd6aafef7473ec4ffb; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Olyka: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Nesvyžius: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Olyka: mention_match, place, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nesvyžius\" parinktas kaip owner_note_path. Targetas \"Olyka\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-80545
+
+<a id="claim-t-84369"></a>
+- t-009
+  global_id: t-84369
+  teiginys: "Vaitiekus II Radvila, Olykos ir Nesvyžiaus kunigaikštis, mirė 1519 m. liepos 5 d. ir vyskupo pareigas ėjo 11 metų."
+  temporaliniai_duomenys: "įvykio data: 1519 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, aiškus ir paremtas citata apie Vaitiekų II Radvilą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "406611-406806; hash=d128f00cd185758f13064022bc2116e69b2cb69f80121ffd6aafef7473ec4ffb; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Olyka: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Nesvyžius: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Olyka: mention_match, place, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nesvyžius\" parinktas kaip owner_note_path. Targetas \"Olyka\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  pagrindžia:
+    - c-80545
+
+<a id="claim-t-84370"></a>
+- t-005
+  global_id: t-84370
+  teiginys: "Radvila Juodasis 1562 m. įkūrė spaustuvę Nesvyžiuje."
+  temporaliniai_duomenys: "įkūrimo data: 1562 m.; įkūrimo data: 1569 m.; įkūrimo data: 1575 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra trumpas, gramatiškas ir tiksliai paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "111168-111759; hash=e69603eaa22b5a0b2e9e3abc3ef93f0db841ec8f1449e16e949ed3041a68e092; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Brasta: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Nesvyžius: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Brasta: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nesvyžius\" parinktas kaip owner_note_path. Targetas \"Brasta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  pagrindžia:
+    - c-80547
 
 <a id="claim-t-84372"></a>
-- t-005
+- t-012
   global_id: t-84372
-  teiginys: 'Kleckas buvo prie kelių į Pinską, Vilnių, Nesvyžių ir Slucką, todėl totoriams tiko išpuoliams mažesniais būriais.'
+  teiginys: "Kleckas buvo prie kelių į Pinską, Vilnių, Nesvyžių ir Slucką, todėl totoriams tiko išpuoliams mažesniais būriais."
+  temporaliniai_duomenys: "įvykio data: 1503 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas perteklinis kontekstas ir sakinys sutelktas į Nesvyžiaus paminėjimą kelių tinkle."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "305776-306330; hash=f72e5cc75743474ed02aa644d736d1eab3bbdeca26a66b15a963420925a6807b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Totoriai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Nesvyžius: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Totoriai: mention_match, group, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nesvyžius\" parinktas kaip owner_note_path. Targetas \"Totoriai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-80546
 
 <a id="claim-t-84373"></a>
-- t-006
+- t-007
   global_id: t-84373
-  teiginys: '1586 m. pradėta Nesvyžiaus jėzuitų bažnyčia žymėjo Lietuvos baroko epochos pradžią.'
+  teiginys: "1586 m. pradėta Nesvyžiaus jėzuitų bažnyčia žymėjo Lietuvos baroko epochos pradžią."
+  temporaliniai_duomenys: "įvykio data: po 1586 m.; įvykio data: 1586 m.; įvykio data: 1784-1787; įvykio data: 1787 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis sakinys per platus, todėl sutrumpintas į aiškų faktą apie Nesvyžių."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "151288-151717; hash=abd0eb86f6c82b798941919882860858ebefcd2db5602787105e0fa4c53a17b5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Nesvyžius: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nesvyžius\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-006
+    - c-80548
 
 <a id="claim-t-84374"></a>
-- t-007
+- t-011
   global_id: t-84374
-  teiginys: 'Nesvyžiaus Radvilų liejykloje 1602 m. buvo nulieta patranka su Radvilų herbu ir užrašu.'
+  teiginys: "Nesvyžiaus Radvilų liejykloje 1602 m. buvo nulieta patranka su Radvilų herbu ir užrašu."
+  temporaliniai_duomenys: "įvykio data: 1602 m.; įvykio data: 1932 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "629595-629784; hash=1f07d3d7e098266522bcfb38cf671db661de3d1d7475a6dd69d646e11adb8d2d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Herbas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Nesvyžius: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Herbas: mention_match, thing, gap=71"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nesvyžius\" parinktas kaip owner_note_path. Targetas \"Herbas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-46644
 
 <a id="claim-t-84375"></a>
-- t-008
+- t-006
   global_id: t-84375
-  teiginys: 'Nesvyžiaus jėzuitų kolegijos barokinė bažnyčia pradėta statyti 1586 m.'
+  teiginys: "Nesvyžiaus jėzuitų kolegijos barokinė bažnyčia pradėta statyti 1586 m."
+  temporaliniai_duomenys: "įvykio data: 1579 m.; įvykio data: 1586 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys tiesiogiai nusako citatoje minimą statybos pradžią Nesvyžiuje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "129180-129480; hash=08af1eeea7b194130920aeb974961c8506f308d7a3abaa70e174d54eae29aa8e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Nesvyžius: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nesvyžius\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-80549
 
 <a id="claim-t-84376"></a>
-- t-009
+- t-004
   global_id: t-84376
-  teiginys: 'Myro pilis prie Nesvyžiaus laikoma viena iš gotikinių LDK cerkvių stiliaus analogijų rezidencijų architektūroje.'
+  teiginys: "Myro pilis prie Nesvyžiaus laikoma viena iš gotikinių LDK cerkvių stiliaus analogijų rezidencijų architektūroje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "104880-105482; hash=486a1c23e412b9a65a38e41c7bf86001e442f25a691b4d747a923b7c9b16c196; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Viena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Nesvyžius: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nesvyžius\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-80543
 
 <a id="claim-t-84377"></a>
 - t-010
   global_id: t-84377
-  teiginys: 'Myro pilis prie Nesvyžiaus citatoje pateikiama kaip gotikinių LDK cerkvių stiliaus analogas rezidencijų architektūroje.'
+  teiginys: "Myro pilis prie Nesvyžiaus citatoje pateikiama kaip gotikinių LDK cerkvių stiliaus analogas rezidencijų architektūroje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "104880-105482; hash=486a1c23e412b9a65a38e41c7bf86001e442f25a691b4d747a923b7c9b16c196; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> gotika: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Nesvyžius: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "gotika: mention_match, thing, gap=36"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nesvyžius\" parinktas kaip owner_note_path. Targetas \"gotika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-80543
+
+<a id="claim-t-193220"></a>
+- t-014
+  global_id: t-193220
+  teiginys: "Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje)."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "596871-597285; hash=8d70f2c7e72f75db1ed54c3d60510d6eb232a0927e8a3c44d2966ab62b70919e; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-46643
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila.md#claim-t-186360|Mikalojus Radvila]]: Vilniaus vaivada ir Olykos bei Nesvyžiaus kunigaikštis Mikalojus Radvila buvo įtrauktas į karaliaus pasiuntinybę į Vieną.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103051|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila buvo kardinolas, Vilniaus vyskupijos nuolatinis administratorius, Olykos ir Nesvyžiaus kunigaikštis.
 - susijęs iš [[objektai/asmenys/Mikalojus Malinovskis.md#claim-t-87554|Mikalojus Malinovskis]]: Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti Radvilų Nesvyžiaus archyvu.
@@ -203,6 +367,26 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pats
+    apsukrusis ir įtakingasis to meto Lietuvos politikos veikėjas,
+    Žemaičių seniūnas ir Livonijos valdytojas Jonas Jeronimas Kat-
+    kevičius, ne tik patsai metė kalvinizmą, bet taip pat ir savo
+    sūnų Joną Karolį, — būsimąjį Vilniaus vaivadą, hetmoną, ge-
+    nialųjį karo vadą, — atidavė auklėti jėzuitams.
+    Radvilų šeimos buvo dvi šakos. Vienos centras buvo Biržai
+    ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-011
+
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **XVII amž. patrankos**
@@ -210,13 +394,14 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     nulieta Nesvyžiaus Radvilų liejykloje 1602 m. Ant jos yra Radvilų herbas
     ir atitinkamas užrašas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
 
-- c-002
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Kons-
@@ -228,6 +413,7 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     tradicija, o jei Vakarai ir darė poveikį – tai tik fragmentišką, ir tai jau buvo
     ne gotikos poveikis (italų renesanso meistrai Kremliuje XV a. pabaigoje).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -235,7 +421,7 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     - t-010
     - t-009
 
-- c-003
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mirė 1507 metais.
@@ -243,6 +429,7 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     ir Nesvyžiaus kunigaikštis, su šiuo pasauliu atsisveikino
     1519 metų liepos 5 dieną, vyskupo pareigas ėjo tad 11 metų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -250,7 +437,7 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     - t-002
     - t-003
 
-- c-004
+- c-005
   santrauka: 'Kleckas buvo prie kelių į Pinską, Vilnių, Nesvyžių ir Slucką, todėl totoriams tiko išpuoliams mažesniais būriais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -272,13 +459,14 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 
     Vilnius Aleksandro valdymo laikais.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
 
-- c-005
+- c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Po dešimtmečio čia pa-
@@ -291,6 +479,7 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
     Vilnių ir atidavė besikuriančiam jėzuitų universitetui.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -298,7 +487,7 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     - t-004
     - t-001
 
-- c-006
+- c-007
   santrauka: '1586 m. pradėta Nesvyžiaus jėzuitų bažnyčia žymėjo Lietuvos baroko epochos pradžią.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -310,13 +499,14 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     skulptūrų, sukurtų 1784–1787 m. du šimtus metų Lietuva gyveno baroko
     dvasia.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
 
-- c-007
+- c-008
   santrauka: 'Nesvyžiaus jėzuitų kolegijos barokinė bažnyčia pradėta statyti 1586 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -326,11 +516,156 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     architektūros manifestu paprastai laikoma Vilniaus Šv. Kazimiero bažny-
     čia.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
+## Citatos
+
+- id: c-46643
+  citata_originali: |
+    Pats
+    apsukrusis ir įtakingasis to meto Lietuvos politikos veikėjas,
+    Žemaičių seniūnas ir Livonijos valdytojas Jonas Jeronimas Kat-
+    kevičius, ne tik patsai metė kalvinizmą, bet taip pat ir savo
+    sūnų Joną Karolį, — būsimąjį Vilniaus vaivadą, hetmoną, ge-
+    nialųjį karo vadą, — atidavė auklėti jėzuitams.
+    Radvilų šeimos buvo dvi šakos. Vienos centras buvo Biržai
+    ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193220
+
+- id: c-46644
+  citata_originali: |
+    **XVII amž. patrankos**
+    Gustavo Adolfo parodoje Stokholme 1932 m. Pirmoji (gražiausioji) yra
+    nulieta Nesvyžiaus Radvilų liejykloje 1602 m. Ant jos yra Radvilų herbas
+    ir atitinkamas užrašas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-84374
+
+- id: c-80543
+  citata_originali: |
+    Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Kons-
+    tantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinė-
+    je. Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje
+    (Myro pilis prie Nesvyžiaus), o kartu, atrodo, yra fenomenalus visos Euro-
+    pos kultūroje – tad labiausiai į rytus nutolusi gotika yra istorinėje Lietuvo-
+    je, tai yra europinės reikšmės riba. Maskva XV–XVI a. gyveno bizantine
+    tradicija, o jei Vakarai ir darė poveikį – tai tik fragmentišką, ir tai jau buvo
+    ne gotikos poveikis (italų renesanso meistrai Kremliuje XV a. pabaigoje).
+  citata_rodoma: "Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Kons-\ntantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinė-\nje. Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje \n(Myro pilis prie Nesvyžiaus), o kartu, atrodo, yra fenomenalus visos Euro-\npos kultūroje – tad labiausiai į rytus nutolusi gotika yra istorinėje Lietuvo-\nje, tai yra europinės reikšmės riba. Maskva XV–XVI a."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-84377
+    - t-84376
+
+- id: c-80545
+  citata_originali: |
+    Mirė 1507 metais.
+    11. Vaitiekus II Radvila, vadintas varguolių tėvu, Olykos
+    ir Nesvyžiaus kunigaikštis, su šiuo pasauliu atsisveikino
+    1519 metų liepos 5 dieną, vyskupo pareigas ėjo tad 11 metų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-84368
+    - t-84369
+
+- id: c-80546
+  citata_originali: |
+    Galiausiai apie liepos 20-22 d. jie sustojo.
+    Vietą savo stovyklavietei jie pasirinko prie
+    Klecko miesto, kuris dar 1503 m. buvo jų
+    sunaikintas ir nekėlė pavojaus, o stovėda-
+    mas ant kelių, vedančių į Pinską, Vilnių,
+    Nesvyžių ir Slucką, buvo itin geras punktas
+    išpuoliams, kuriuos totoriai vykdė pasi-
+    skirstę mažesniais būriais.
+
+    Lietuvos kariuomenės mobilizacija, vadai
+    ir pirmieji susidūrimai
+
+    Staigus totorių įsiveržimas sutrukdė jų
+    veiksmus patyrusių paliestų pavietų ba-
+    jorijai mobilizuotis, o jų mažesnių būrių
+
+    Vilnius Aleksandro valdymo laikais.
+  citata_rodoma: "Vietą savo stovyklavietei jie pasirinko prie\nKlecko miesto, kuris dar 1503 m. buvo jų\nsunaikintas ir nekėlė pavojaus, o stovėda-\nmas ant kelių, vedančių į Pinską, Vilnių,\nNesvyžių ir Slucką, buvo itin geras punktas\nišpuoliams, kuriuos totoriai vykdė pasi-\nskirstę mažesniais būriais.\n\nLietuvos kariuomenės mobilizacija, vadai\nir pirmieji susidūrimai\n\nStaigus totorių įsiveržimas sutrukdė jų\nveiksmus patyrusių paliestų pavietų ba-\njorijai mobilizuotis, o jų mažesnių būrių\n\nVilnius Aleksandro valdymo laikais."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-84372
+
+- id: c-80547
+  citata_originali: |
+    Po dešimtmečio čia pa-
+    sirodė įspūdingas leidybos kūrinys – „Brastos Biblija“. Vėliau Radvila Juo-
+    dasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su Radvilomis ėmė
+    konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė
+    pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką
+    jos pobūdį. Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė
+    katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-
+    dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
+    Vilnių ir atidavė besikuriančiam jėzuitų universitetui.
+  citata_rodoma: "Vėliau Radvila Juo-\ndasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su Radvilomis ėmė\nkonkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė\npirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką\njos pobūdį. Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė\nkatalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-\ndvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-84370
+    - t-84367
+
+- id: c-80548
+  citata_originali: |
+    Susiformavo barokinis kraštovaizdis, kuriam bū-
+    dinga bažnyčios, vienuolynai, kalvarijos, koplyčios, koplytstulpiai, kryžiai –
+    „šventasis peizažas“, organiškai pritapęs prie natūralios aplinkos, o kryždir-
+    bystė išliko vienas svarbiausių lietuvių liaudies meno atpažinimo ženklų.
+    Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki Vilniaus katedros fasado
+    skulptūrų, sukurtų 1784–1787 m. du šimtus metų Lietuva gyveno baroko
+    dvasia.
+  citata_rodoma: "Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki Vilniaus katedros fasado\nskulptūrų, sukurtų 1784–1787 m. du šimtus metų Lietuva gyveno baroko\ndvasia."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-84373
+
+- id: c-80549
+  citata_originali: |
+    Epochos pradžią galima sieti ne tik su Liublino unija, bet ir su jėzui-
+    tais, kurie atvykę į Lietuvą 1579 m. įkūrė Vilniaus universitetą. Barokinė
+    Nesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o barokinės
+    architektūros manifestu paprastai laikoma Vilniaus Šv. Kazimiero bažny-
+    čia.
+  citata_rodoma: "Barokinė\nNesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o barokinės\narchitektūros manifestu paprastai laikoma Vilniaus Šv. Kazimiero bažny-\nčia."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-84375
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Mikalojus Radvila]]

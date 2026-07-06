@@ -15,6 +15,18 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'modernioji Lietuva'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # K. Diebietsho
 
@@ -27,10 +39,24 @@ Diebietsho korpusas.
 <a id="claim-t-40245"></a>
 - t-001
   global_id: t-40245
-  teiginys: 'Pulkininko K. Diebietsho korpusas 1919 m. lapkričio 15 d. pasitraukė iš Lietuvos kaip paskutinis Vokietijos centrinei vadovybei paklusęs vokiečių karinis dalinys.'
+  teiginys: "Pulkininko K. Diebietsho korpusas 1919 m. lapkričio 15 d. pasitraukė iš Lietuvos kaip paskutinis Vokietijos centrinei vadovybei paklusęs vokiečių karinis dalinys."
+  temporaliniai_duomenys: "įvykio data: 1919 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia išplėsti santrumpą ir suformuluoti sklandesnį enciklopedinį sakinį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "776406-776656; hash=20fbd6a9af5acea2c24dd323761b6df2edd464e9fabfd37283b8c0fbe5ce5506; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "K. Diebietsho: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=61"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"K. Diebietsho\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
-
+    - c-44398
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,8 +70,27 @@ Diebietsho korpusas.
 
     tis vokiečių karinis dalinys - plk. K. Diebietsho korpusas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-44398
+  citata_originali: |
+    Jiems buvo
+    mokama gera alga, pergalės atveju žadama duoti žemės
+    Latvijoje ar Lietuvoje. 1919 m. lapkričio 15 d. iš Lietuvos pasi-
+    traukė paskutinis Vokietijos centrinei vadovybei paklūstan-
+
+    tis vokiečių karinis dalinys - plk. K. Diebietsho korpusas.
+  citata_rodoma: "1919 m. lapkričio 15 d. iš Lietuvos pasi-\ntraukė paskutinis Vokietijos centrinei vadovybei paklūstan-\n\ntis vokiečių karinis dalinys - plk. K. Diebietsho korpusas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40245

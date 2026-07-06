@@ -14,6 +14,18 @@ tags: []
 amziai:
   - 'XVI'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lydimoji žemdirbystė
 
@@ -44,39 +56,95 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-97134"></a>
-- t-001
+- t-005
   global_id: t-97134
-  teiginys: 'Po 1557 m. valakų reformos lydimoji žemdirbystė Lietuvoje ėmė nykti, nors XVI-XVII a. aktuose žodis „lydimas“ dar dažnai minėtas.'
+  teiginys: "Po 1557 m. valakų reformos lydimoji žemdirbystė Lietuvoje ėmė nykti, nors XVI-XVII a. aktuose žodis „lydimas“ dar dažnai minėtas."
+  temporaliniai_duomenys: "įvykio data: po 1557 m.; įvykio data: 1557 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir pakankamai tiksliai perteikia citatos informaciją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "379485-380122; hash=ba9bf063a5aa3a7beffc15f8b7d625197c25c30de4fabbfcab6afc504190a278; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lydimoji žemdirbystė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lydimoji žemdirbystė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-31420
 
 <a id="claim-t-97135"></a>
-- t-002
+- t-006
   global_id: t-97135
-  teiginys: 'Lydimoji žemdirbystė rėmėsi ugnies naudojimu, kai išskintame ir nudegintame miško sklype buvo daromas dirbamas laukas.'
+  teiginys: "Lydimoji žemdirbystė rėmėsi ugnies naudojimu, kai išskintame ir nudegintame miško sklype buvo daromas dirbamas laukas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "377705-378268; hash=82058fc5fa4a7ec14089d5cfd74474c95714bf3ccf3f8800e1a9b8563f47b393; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  ryšio_patikimumas: "susije_su -> Europa: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lydimoji žemdirbystė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lydimoji žemdirbystė\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-31419
 
 <a id="claim-t-97136"></a>
-- t-003
+- t-008
   global_id: t-97136
-  teiginys: 'Lydimoji žemdirbystė buvo galima, kol nebuvo tvarkomas miškų ūkis ir stambieji žemvaldžiai nevaržė naudojimosi mišku.'
+  teiginys: "Lydimoji žemdirbystė buvo galima, kol nebuvo tvarkomas miškų ūkis ir stambieji žemvaldžiai nevaržė naudojimosi mišku."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "379373-379949; hash=95f5d9c83ebced033584d0a28784a41bcfd3caa32240b71884d1a3e0ccb5b3d4; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lydimoji žemdirbystė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lydimoji žemdirbystė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-91648
 
 <a id="claim-t-97137"></a>
 - t-004
   global_id: t-97137
-  teiginys: 'Lydimoji žemdirbystė rėmėsi miško sklypo išskynimu ir nudeginimu, kad jame būtų įrengtas dirbamas laukas.'
+  teiginys: "Lydimoji žemdirbystė rėmėsi miško sklypo išskynimu ir nudeginimu, kad jame būtų įrengtas dirbamas laukas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "377705-378268; hash=82058fc5fa4a7ec14089d5cfd74474c95714bf3ccf3f8800e1a9b8563f47b393; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  ryšio_patikimumas: "susije_su -> Europa: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lydimoji žemdirbystė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lydimoji žemdirbystė\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-31419
 
 <a id="claim-t-97138"></a>
-- t-005
+- t-007
   global_id: t-97138
-  teiginys: 'Po 1557 m. valakų reformos Lietuvoje lydimoji žemdirbystė ėmė nykti, nors XVI–XVII a. aktuose dar minėtas žodis „lydimas“.'
+  teiginys: "Po 1557 m. valakų reformos Lietuvoje lydimoji žemdirbystė ėmė nykti, nors XVI–XVII a. aktuose dar minėtas žodis „lydimas“."
+  temporaliniai_duomenys: "įvykio data: po 1557 m.; įvykio data: 1557 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, glaustas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "379485-380122; hash=ba9bf063a5aa3a7beffc15f8b7d625197c25c30de4fabbfcab6afc504190a278; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lydimoji žemdirbystė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lydimoji žemdirbystė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-31420
 - susijęs iš [[objektai/ivykiai/Valakų reforma (1557 m.).md#claim-t-31479|Valakų reforma (1557 m.)]]: 1557 m. pradėta Valakų reforma Lietuvoje įvedė visuotinę trilaukio ūkio sistemą ir skatino lydimosios žemdirbystės nykimą.
 - susijęs iš [[objektai/paprociai/Trilaukio ūkio sistema.md#claim-t-31536|Trilaukio ūkio sistema]]: 1557 m. valakų reforma Lietuvoje įvedė visuotinę trilaukio ūkio sistemą su vieneriems metams paliekamu pūdymu.
 ## Reikšmingi paminėjimai
@@ -96,6 +164,7 @@ Nenurodyta
     pat XVI amž. vidurio, kol dar daug buvo girių, į kurias niekas
     nedraudė įkelti kojos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -118,6 +187,7 @@ Nenurodyta
     naturlandšaftą vertė kulturlandšaftu, daug vietovardžių Didžiojoje
     ir Mažojoje Lietuvoje yra surišta su lydimais.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -140,8 +210,73 @@ Nenurodyta
     žodis « lydimas » («lidim », «lidem _»,_ «lidima », «lidyma », « lydym »
     ir kt.).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-31419
+  citata_originali: |
+    Metalų amžiuje žemės dar­
+    bas plėtėsi, juo labiau kad geležinis kirvis padėjo net apaugusius
+    plotus paversti dirva. Šitaip atsirado ir «lydimoji žemdirbystė »
+    (vokiškai vadinama Brandwirtschaft, Rodungswirtschaft, Feld­
+    graswirtschaft), kada, žemei įdirbti ėmus naudotis ugnimi, išskin­
+    tame ir nudegintame miško sklype buvo daromas dirbamas laukas.
+    Kaip ir kitur Europoje priešistoriniais laikais, miško gabalo
+    lydimas ruošiant jį dirvai, Lietuvoje buvo plačiai vartojamas iki
+    pat XVI amž. vidurio, kol dar daug buvo girių, į kurias niekas
+    nedraudė įkelti kojos.
+  citata_rodoma: "Šitaip atsirado ir «lydimoji žemdirbystė »\n(vokiškai vadinama Brandwirtschaft, Rodungswirtschaft, Feld­\ngraswirtschaft), kada, žemei įdirbti ėmus naudotis ugnimi, išskin­\ntame ir nudegintame miško sklype buvo daromas dirbamas laukas.\nKaip ir kitur Europoje priešistoriniais laikais, miško gabalo\nlydimas ruošiant jį dirvai, Lietuvoje buvo plačiai vartojamas iki\npat XVI amž."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-97135
+    - t-97137
+
+- id: c-31420
+  citata_originali: |
+    Tokia ekstensyvi žemdirbystė buvo galima tol, kol nebuvo
+    pradėta tvarkyti miškų ūkis ir kol stambieji žemvaldžiai nesuvaržė
+    laisvės naudotis mišku ir daryti išdagas. Pradėjus Lietuvoje « va­
+    lakų reformą» (1557), kuri atnešė visuotinę trilaukio ūkio sistemą
+    su vieneriems metams paliktu pūdymu, lydimoji žemdirbystė ėmė
+    nykti, nors XVI-XVII amžiaus aktuose vis dar dažnai užtinkamas
+    žodis « lydimas » («lidim », «lidem _»,_ «lidima », «lidyma », « lydym »
+    ir kt.). Kai žmogus kėlė koją į didžiuosius girių masyvus ir šitaip
+    naturlandšaftą vertė kulturlandšaftu, daug vietovardžių Didžiojoje
+    ir Mažojoje Lietuvoje yra surišta su lydimais.
+  citata_rodoma: "Pradėjus Lietuvoje « va­\nlakų reformą» (1557), kuri atnešė visuotinę trilaukio ūkio sistemą\nsu vieneriems metams paliktu pūdymu, lydimoji žemdirbystė ėmė\nnykti, nors XVI-XVII amžiaus aktuose vis dar dažnai užtinkamas\nžodis « lydimas » («lidim », «lidem _»,_ «lidima », «lidyma », « lydym »\nir kt.). Kai žmogus kėlė koją į didžiuosius girių masyvus ir šitaip\nnaturlandšaftą vertė kulturlandšaftu, daug vietovardžių Didžiojoje\nir Mažojoje Lietuvoje yra surišta su lydimais."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-97138
+    - t-97134
+
+- id: c-91648
+  citata_originali: |
+    Kadangi nulaisintas lydimas ilgai turėjo
+    pūdymauti, vienai šeimai prasimaitinti reikėjo bent 5-6 lydimų
+    gabalų. Tokia ekstensyvi žemdirbystė buvo galima tol, kol nebuvo
+    pradėta tvarkyti miškų ūkis ir kol stambieji žemvaldžiai nesuvaržė
+    laisvės naudotis mišku ir daryti išdagas. Pradėjus Lietuvoje « va­
+    lakų reformą» (1557), kuri atnešė visuotinę trilaukio ūkio sistemą
+    su vieneriems metams paliktu pūdymu, lydimoji žemdirbystė ėmė
+    nykti, nors XVI-XVII amžiaus aktuose vis dar dažnai užtinkamas
+    žodis « lydimas » («lidim », «lidem _»,_ «lidima », «lidyma », « lydym »
+    ir kt.).
+  citata_rodoma: "Tokia ekstensyvi žemdirbystė buvo galima tol, kol nebuvo\npradėta tvarkyti miškų ūkis ir kol stambieji žemvaldžiai nesuvaržė\nlaisvės naudotis mišku ir daryti išdagas. Pradėjus Lietuvoje « va­\nlakų reformą» (1557), kuri atnešė visuotinę trilaukio ūkio sistemą\nsu vieneriems metams paliktu pūdymu, lydimoji žemdirbystė ėmė\nnykti, nors XVI-XVII amžiaus aktuose vis dar dažnai užtinkamas\nžodis « lydimas » («lidim », «lidem _»,_ «lidima », «lidyma », « lydym »\nir kt.)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-97136

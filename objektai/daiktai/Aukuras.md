@@ -11,10 +11,22 @@ date_start: '1321'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XIV'
 tags:
   - simbolis
+amziai:
+  - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Aukuras
 
@@ -44,33 +56,94 @@ Prie aukuro kūrenosi amžinoji ugnis.
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-55031"></a>
-- t-001
+- t-005
   global_id: t-55031
-  teiginys: 'Šventaragio slėnyje buvęs aukuras buvo skirtas mirusiųjų kūnams deginti pagal lietuvių pagonių papročius.'
+  teiginys: "Šventaragio slėnyje buvęs aukuras buvo skirtas mirusiųjų kūnams deginti pagal lietuvių pagonių papročius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "60702-61427; hash=01100c0e32ad1ff8ab5c93279d04fd0d344910bae0f2b9f0f1198a38bff795af; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aukuras: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=52"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukuras\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-55376
 
 <a id="claim-t-55032"></a>
-- t-002
+- t-006
   global_id: t-55032
-  teiginys: 'Lotyniškas žodis „rogus“ reiškė aukurą, skirtą mirusiųjų kūnams deginti ir laidoti.'
+  teiginys: "Lotyniškas žodis „rogus“ reiškė aukurą, skirtą mirusiųjų kūnams deginti ir laidoti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "415341-415901; hash=229099a576dcdf54d3078e8a31e0449c11a1c4798c59d32294969d41c88f1645; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aukuras: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukuras\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-55377
 
 <a id="claim-t-81841"></a>
-- t-003
+- t-004
   global_id: t-81841
-  teiginys: 'Pasak legendos, Birutė pasitraukė nuo dievų aukuro į šeimos židinį ir išaugino Vytautą.'
+  teiginys: "Pasak legendos, Birutė pasitraukė nuo dievų aukuro į šeimos židinį ir išaugino Vytautą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "37281-37626; hash=ce777b4322ba2bff6929b34505eb8f8c89f98ce43426bd670541aad12a4a64ea; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Birutė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aukuras: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Birutė: mention_match, person, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukuras\" parinktas kaip owner_note_path. Targetas \"Birutė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-36712
 
+<a id="claim-t-188375"></a>
 - t-007
-  teiginys: 'Narbutas aukurą aprašo kaip pakilesnę vietą atviroje aikštėje, miškuose arba bestogėje šventykloje su pusės žmogaus ūgio ugniaviete.'
+  global_id: t-188375
+  teiginys: "Narbutas aukurą aprašo kaip pakilesnę vietą atviroje aikštėje, miškuose arba bestogėje šventykloje su pusės žmogaus ūgio ugniaviete."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "415341-415901; hash=229099a576dcdf54d3078e8a31e0449c11a1c4798c59d32294969d41c88f1645; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aukuras: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukuras\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-004
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171269
+
+<a id="claim-t-194613"></a>
+- t-008
+  global_id: t-194613
+  teiginys: "Taip pat buvo tam tikrų didelių akmenų-aukurų, paskirtų dievams, - tai matėme iš straipsnio „Ganiklis“."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "415902-416143; hash=2f1e2daab46b5512eea9b2b17fc053226daa868f79b2f417cee1d022af9131b9; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / reject"
+  pagrindžia:
+    - c-177012
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-188454|Motiejus Strijkovskis (kronikininkas)]]: Narbutas rašo, kad Strijkovskis patvirtino pasakojimą, jog žmonės Birutę dar gyvą ėmė garbinti kaip deivę.
 - susijęs iš [[objektai/asmenys/Birutė.md#claim-t-188514|Birutė]]: Narbutas, remdamasis Strijkovskiu, Birutę vaizduoja kaip Žemaičių didiko dukterį ir Praurimės aukuro ugnies saugotoją prie Palangos.
 - susijęs iš [[objektai/asmenys/Birutė.md#claim-t-188517|Birutė]]: Narbutas aiškina, kad Jogaila ir Vytautas iš pagarbos Birutei paliko jai Palangos aukuro apeigas, todėl jos Žemaitijoje išliko ilgiau.
@@ -103,6 +176,7 @@ Nenurodyta
 - susijęs iš [[objektai/daiktai/Moliniai indai požemio dievų aukai.md#claim-t-189733|Moliniai indai požemio dievų aukai]]: Narbutas rašė, kad aukojant požemio dievams apeigiškai užkasdavo aukojamus dalykus ir sudaužytus molinius indus.
 - susijęs iš [[objektai/daiktai/Sibilės plytos su hieroglifais.md#claim-t-189647|Sibilės plytos su hieroglifais]]: Narbutas rašė, kad Krivių Krivaičio rūmo bokšte stebėta saulė, o metų pradžioje įmūrijama ženklo plytelė rodydavo metus.
 - susijęs iš [[objektai/daiktai/Torielius.md#claim-t-08336|Torielius]]: Per išeiginių aukų apeigą viršaitis nešė duonos šmotelį ant torieliaus ir midaus kaušą arba taurę.
+- susijęs iš [[objektai/grupes/Krivičiai.md#claim-t-192413|Krivičiai]]: Teodoras Narbutas vaizdavo, kad Olegas, kviesdamas krivičius į žygį į pietus, turėjo gauti Krivio paskelbtą dievų leidimą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-188210|Kryžiuočių ordinas]]: Narbutas, remdamasis Strijkovskiu, pasakoja, kad Kęstutis Birutę pažino grįždamas iš žygio prieš kryžiuočius.
 - susijęs iš [[objektai/paprociai/Išeiginės aukos per metines viešes.md#claim-t-07768|Išeiginės aukos per metines viešes]]: Per metines viešes viršaitis ar viršininkas kartu su žyniais ir svietu atlikdavo viešą aukos apeigą po didžiuoju ąžuolu.
 - susijęs iš [[objektai/paprociai/Metų pranašavimas iš orakulo nurodytų plytų.md#claim-t-189847|Metų pranašavimas iš orakulo nurodytų plytų]]: Narbutas pasakoja, kad apvaliame šventyklos bokšte orakulo nurodytos plytos su ženklais turėjo rodyti gerus ar prastus metus.
@@ -119,9 +193,11 @@ Nenurodyta
 - susijęs iš Prūsija: Narbutas VII lentelėje Romovę vaizduoja Prūsijoje, Prūsos ir Bysleidos upių santakoje, kaip šventą miestą su šventovės aptvaru.
 - susijęs iš Romuva: Romuvoje pagrindinis kulto objektas buvo ugnis.
 - susijęs iš Žemaitija: Narbutas aiškina, kad aukuras ir apeigos Žemaitijoje išliko dėl Jogailos ir Vytauto pagarbos kunigaikštienei Birutei.
+- susijęs iš [[objektai/zodynas/Krivis.md#claim-t-192923|Krivis]]: Narbutas daro išvadą, kad šiose vietose buvo krašto Krivio rezidencinės pilys.
 - susijęs iš [[objektai/zodynas/Romuva ir krivis.md#claim-t-75585|Romuva ir krivis]]: Romuvoje pagrindinis kulto objektas buvo ugnis.
 - susijęs iš [[objektai/zodynas/Romuva krivis.md#claim-t-77805|Romuva krivis]]: Romuvoje pagrindinis kulto objektas buvo ugnis.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Pasak legendos, Birutė pasitraukė nuo dievų aukuro į šeimos židinį ir išaugino Vytautą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -134,11 +210,13 @@ Nenurodyta
     Vytautą. Negalima ginčyti istorikų nuomonės, kad Birutė esan­
     ti ne visų Kęstučio vaikų motina.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'Šventaragio slėnyje buvęs aukuras buvo skirtas mirusiųjų kūnams deginti pagal lietuvių pagonių papročius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -157,11 +235,13 @@ Nenurodyta
     atiduoti ugniai Lietuvos kunigaikščių palaikai kartu su išti­
     kimu tarnu, šunimis ir žirgu, išbandytu mūšiuose7.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Lotyniškas žodis „rogus“ reiškė aukurą, skirtą mirusiųjų kūnams deginti ir laidoti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -173,11 +253,13 @@ Nenurodyta
     laidoti mirusiųjų kūnams. Betgi lie­
     tuviai nemokėjo lotyniškai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-004
   santrauka: 'Narbutas aukurą aprašo kaip pakilesnę vietą atviroje aikštėje, miškuose arba bestogėje šventykloje su pusės žmogaus ūgio ugniaviete.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -192,11 +274,119 @@ Nenurodyta
     skyrium įvairiems dievams. O lietuviai dėl savo vargingo pa­
     prastumo turėjo primityvius ir nepuošnius aukurus, išskyrus
     kai kuriuos, buvusius Perkūno šventyklose.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
+    - t-004
+
+- c-005
+  santrauka: 'Taip pat buvo tam tikrų didelių akmenų-aukurų, paskirtų dievams, - tai matėme iš straipsnio „Ganiklis“.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Taip pat buvo tam tikrų didelių akmenų-aukurų, paskirtų
+    dievams, -  tai matėme iš straipsnio „Ganiklis“. Apie panašų
+    deivės Velionos aukurą kalbėsime straipsnyje „Kapai“. Dievo
+    Perkūno šventyklos aukurą aprašysime straipsnyje „Šventyk­
+    los“.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-005
+
+## Citatos
+
+- id: c-36712
+  citata_originali: |
+    Iš
+    visų Gedimino giminės, kunigaikščių jis sudarė lietuviškiausią
+    šeimą. Ir ta lietuvė, kuri, anot legendos, turėjusi visą amžių
+    tarnauti dievams, pasitraukusi nuo jų aukuro į šeimos židinį,
+    išaugino Lietuvai nemažame savo vaikų būryje didelį vyrą —
+    Vytautą. Negalima ginčyti istorikų nuomonės, kad Birutė esan­
+    ti ne visų Kęstučio vaikų motina.
+  citata_rodoma: "Ir ta lietuvė, kuri, anot legendos, turėjusi visą amžių\ntarnauti dievams, pasitraukusi nuo jų aukuro į šeimos židinį,\nišaugino Lietuvai nemažame savo vaikų būryje didelį vyrą —\nVytautą. Negalima ginčyti istorikų nuomonės, kad Birutė esan­\nti ne visų Kęstučio vaikų motina."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-81841
+
+- id: c-55376
+  citata_originali: |
+    Ties ta
+    puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­
+    tų, slėnyje, kur nuo senovės augo ąžuolai, kur dabar stovi
+    katedra, iki krikščioniškojo tikėjimo įvedimo ir visą epochą
+    gal iki Gedimino, degė amžinoji ugnis, vadinta Gabija, - die­
+    vaičio Perkūno garbei. Ją saugojo ir kurstė žyniai, o jų vy­
+    riausiasis Krivių Krivaitis buvo pranašas, o Lietuvos kūri­
+    mosi metu gal buvo paprastų ir laisvų žmonių vienas vadų
+    ir patriarchų. Tas slėnis, vadintas Šventaragio, buvo skirtas
+    aukurui, ant kurio pagal lietuvių pagonių papročius degin­
+    davo mirusiųjų kūnus; ant jų ne kartą iškilmingai būdavo
+    atiduoti ugniai Lietuvos kunigaikščių palaikai kartu su išti­
+    kimu tarnu, šunimis ir žirgu, išbandytu mūšiuose7.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-55031
+
+- id: c-55377
+  citata_originali: |
+    Tačiau Vilniaus istorija prasideda tik 1321 metais, kai
+    Gediminas, Vytenio įpėdinis, Lietuvos ir Rusios valdovas,
+    torių. Juk lotynų kalba Rogum v. Ro­
+    gus, reiškia Aukurą, vietą deginti ir
+    laidoti mirusiųjų kūnams. Betgi lie­
+    tuviai nemokėjo lotyniškai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-55032
+
+- id: c-171269
+  citata_originali: |
+    Aukurai, ragai (Roha)21 2
+    Senovės žmonių aukurai -  tai tam tikro aukščio pakiles­
+    nės vietos atviroje aikštėje, miškuose arba šventykloje, netu­
+    rinčioje stogo; šiame paaukštėjime, atstojančiame pakopas, bu­
+    vo pusės žmogaus ūgio ugniavietė. Kunigai, stovėdami ant pa­
+    kopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­
+    kai, romėnai statė prabangius ir didingus aukurus, paskirtus
+    skyrium įvairiems dievams. O lietuviai dėl savo vargingo pa­
+    prastumo turėjo primityvius ir nepuošnius aukurus, išskyrus
+    kai kuriuos, buvusius Perkūno šventyklose.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188375
+
+- id: c-177012
+  citata_originali: |
+    Taip pat buvo tam tikrų didelių akmenų-aukurų, paskirtų
+    dievams, -  tai matėme iš straipsnio „Ganiklis“. Apie panašų
+    deivės Velionos aukurą kalbėsime straipsnyje „Kapai“. Dievo
+    Perkūno šventyklos aukurą aprašysime straipsnyje „Šventyk­
+    los“.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194613
 
 ## Ryšiai
 - Turėjo palaidotą asmenį: [[objektai/asmenys/Birutė]]

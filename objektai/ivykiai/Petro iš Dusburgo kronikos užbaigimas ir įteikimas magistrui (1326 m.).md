@@ -17,6 +17,18 @@ tags:
   - ordinas
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Petro iš Dusburgo kronikos užbaigimas ir įteikimas magistrui (1326 m.)
 
@@ -43,20 +55,49 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62430"></a>
-- t-001
+- t-002
   global_id: t-62430
-  teiginys: 'Epocha, kurioje rašė Petras iš Dusburgo 3-asis XIV a.'
+  teiginys: "Epocha, kurioje rašė Petras iš Dusburgo 3-asis XIV a."
+  teiginio_tipas: "saltinio_teiginys"
+  temporaliniai_duomenys: "įvykio data: 250 m; įvykio data: 1326 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "claim_quality_pipeline deterministic repair"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "28548-28859; hash=aa42591c40d500c301695bf13247d4675e2bd7b7c80b7b168a77f4240202fdfe; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dusburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Petro iš Dusburgo kronikos užbaigimas ir įteikimas magistrui (1326 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Dusburgas: mention_match, author, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Petro iš Dusburgo kronikos užbaigimas ir įteikimas magistrui (1326 m.)\" parinktas kaip owner_note_path. Targetas \"Dusburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
-    - c-001
+    - c-63056
 
 <a id="claim-t-62431"></a>
-- t-002
+- t-001
   global_id: t-62431
-  teiginys: '1326 m. Petras iš Dusburgo užbaigė „Prūsijos žemės kroniką“ ir įteikė ją magistrui Verneriui iš Orzelno.'
+  teiginys: "1326 m. Petras iš Dusburgo užbaigė „Prūsijos žemės kroniką“ ir įteikė ją magistrui Verneriui iš Orzelno."
+  teiginio_tipas: "faktas"
+  temporaliniai_duomenys: "įvykio data: 250 m; įvykio data: 1326 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys ir atitinka citatos duomenis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "28548-28859; hash=aa42591c40d500c301695bf13247d4675e2bd7b7c80b7b168a77f4240202fdfe; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dusburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Petro iš Dusburgo kronikos užbaigimas ir įteikimas magistrui (1326 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Dusburgas: mention_match, author, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Petro iš Dusburgo kronikos užbaigimas ir įteikimas magistrui (1326 m.)\" parinktas kaip owner_note_path. Targetas \"Dusburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-    - c-002
-
+    - c-63056
+    - c-63057
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -68,6 +109,7 @@ Nenurodyta
     kare prieš Kryžiuočių ordiną. 1326 m. Kryžiuočių ordino brolis kunigas Petras iš Dusburgo
     užbaigė rašyti „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -85,8 +127,42 @@ Nenurodyta
     kroniką ir įteikė magistrui (ji pratęsta iki 1330 m.). Tai oficialus Kryžiuočių ordino
     valstybės kūrinys.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-63056
+  citata_originali: |
+    Epocha, kurioje rašė Petras iš Dusburgo
+
+       3-asis XIV a. dešimtmetis — vienas iš etapinių laikotarpių 250 m. trukusiame Lietuvos
+    kare prieš Kryžiuočių ordiną. 1326 m. Kryžiuočių ordino brolis kunigas Petras iš Dusburgo
+    užbaigė rašyti „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno.
+  citata_rodoma: "Epocha, kurioje rašė Petras iš Dusburgo\n\n   3-asis XIV a. dešimtmetis — vienas iš etapinių laikotarpių 250 m. trukusiame Lietuvos\nkare prieš Kryžiuočių ordiną. 1326 m. Kryžiuočių ordino brolis kunigas Petras iš Dusburgo\nužbaigė rašyti „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-62430
+    - t-62431
+
+- id: c-63057
+  citata_originali: |
+    Siekdamas pagrįsti kryžiuočių
+    užkariavimus Prūsijoje  ir jau kuris metas vedamą karą prieš Lietuvą, parodyti
+    Ordino „nuopelnus“, 1326 m. Ordino brolis kunigas Petras iš Dusburgo užbaigė savo
+    kroniką ir įteikė magistrui (ji pratęsta iki 1330 m.). Tai oficialus Kryžiuočių ordino
+    valstybės kūrinys.
+  citata_rodoma: "Siekdamas pagrįsti kryžiuočių\nužkariavimus Prūsijoje  ir jau kuris metas vedamą karą prieš Lietuvą, parodyti\nOrdino „nuopelnus“, 1326 m. Ordino brolis kunigas Petras iš Dusburgo užbaigė savo\nkroniką ir įteikė magistrui (ji pratęsta iki 1330 m.). Tai oficialus Kryžiuočių ordino\nvalstybės kūrinys."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-62431

@@ -1,0 +1,84 @@
+---
+tipas: autorius
+pavadinimas: 'Johanas Gotfrydas Herderis'
+saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+sukurta: ''
+atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Johanas Gotfrydas Herderis
+
+## Santrauka
+
+Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio (Johann Gottfried Herder) ir kitų vokiečių romantizmo atstovų mintys, kad tautos dvasia glūdi liaudies kalboje ir kultūroje, kad kiekviena kalba ir kultūra yra vertingas visos žmonijos.
+
+## Teiginiai
+
+<a id="claim-t-193718"></a>
+- t-001
+  global_id: t-193718
+  teiginys: "Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio (Johann Gottfried Herder) ir kitų vokiečių romantizmo atstovų mintys, kad tautos dvasia glūdi liaudies kalboje ir kultūroje, kad kiekviena kalba ir kultūra yra vertingas visos žmonijos."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "207095-207769; hash=890bec42fa0839a7b4ae54db8010eec0e9f18e8c59101dfd45c4a9469b0bbd64; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176386
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio (Johann Gottfried Herder) ir kitų vokiečių romantizmo atstovų mintys, kad tautos dvasia glūdi liaudies kalboje ir kultūroje, kad kiekviena kalba ir kultūra yra vertingas visos žmonijos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Her-
+    derio (Johann Gottfried Herder) ir kitų vokiečių romantizmo atstovų
+    mintys, kad tautos dvasia glūdi liaudies kalboje ir kultūroje, kad kie-
+    kviena kalba ir kultūra yra vertingas visos žmonijos turtas. Atskira tauta
+    yra visi tie, kurie kalba viena kalba, turi bendrą istoriją ir kultūrą, todėl
+    liaudies kalba turi būti ugdoma ir kaip atskiros aukštosios kultūros kal-
+    ba. Jei tai pasisektų, tai ši kalba taptų dominuojančios krašte aukštosios
+    kultūros kalba, o elito atstovams reikėtų pasirinkti – arba likti su savo
+    kalba kultūrine mažuma, arba įsilieti į naujai kuriamos aukštosios kul-
+    tūros procesą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Citatos
+
+- id: c-176386
+  citata_originali: |
+    Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Her-
+    derio (Johann Gottfried Herder) ir kitų vokiečių romantizmo atstovų
+    mintys, kad tautos dvasia glūdi liaudies kalboje ir kultūroje, kad kie-
+    kviena kalba ir kultūra yra vertingas visos žmonijos turtas. Atskira tauta
+    yra visi tie, kurie kalba viena kalba, turi bendrą istoriją ir kultūrą, todėl
+    liaudies kalba turi būti ugdoma ir kaip atskiros aukštosios kultūros kal-
+    ba. Jei tai pasisektų, tai ši kalba taptų dominuojančios krašte aukštosios
+    kultūros kalba, o elito atstovams reikėtų pasirinkti – arba likti su savo
+    kalba kultūrine mažuma, arba įsilieti į naujai kuriamos aukštosios kul-
+    tūros procesą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193718

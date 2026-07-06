@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Valachija
 
@@ -17,9 +29,22 @@ atnaujinta: ''
 <a id="claim-t-185255"></a>
 - t-001
   global_id: t-185255
-  teiginys: 'Švitrigaila, siekdamas pataisyti pakrikusius reikalus, pasikvietė samdininkų iš Valachijos ir Skitijos.'
+  teiginys: "Švitrigaila, siekdamas pataisyti pakrikusius reikalus, pasikvietė samdininkų iš Valachijos ir Skitijos."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "764386-765006; hash=81862ad9c779d4dc57b1d3494f4a9325c1df748ef0379fff0d447f5f12a1a0f0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Skitija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Valachija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Skitija: mention_match, place, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valachija\" parinktas kaip owner_note_path. Targetas \"Skitija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-168616
 - susijęs iš [[objektai/asmenys/Jonas Tarnovskis.md#claim-t-184742|Jonas Tarnovskis]]: Jonui Tarnovskiui sutelkus daugiau jėgų, Valachijos kunigaikštis Petras prie Chotino paprašė taikos.
 - susijęs iš [[objektai/ivykiai/Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.).md#claim-t-185693|Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.)]]: 1485 m. Bajazitas pradėjo karą prieš Valachijos valdovą Steponą ir užėmė kelis Dakijos miestus.
 - susijęs iš [[objektai/ivykiai/Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.).md#claim-t-185694|Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.)]]: Karalius paskelbė Steponą ir Valachiją savo globotiniais ir nusiuntė jiems tris tūkstančius rinktinių karių.
@@ -64,8 +89,40 @@ atnaujinta: ''
     nebūtų puolamas visomis jėgomis, pasiūlė karaliui tai­
     ką.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-168616
+  citata_originali: |
+    Šitaip priekaištavo karaliui eiliniai
+    kariai, kurie visuomet mėgsta laidyti liežuvį, tačiau,
+    antra vertus, netrūko, pasak Dlugošo, lenkų stovykloje
+    didikų, kurie apsuptiesiems teikė žinių ir maisto. Kol
+    dar Luckas laikėsi, Boleslo-
+    Š v itrig a ila
+    d e d a si
+    vas neprarado vilties užbaigti
+    tro k štą s ta ik o s
+    karą taip, kaip norėjo; nuta­
+    ręs pataisyti savo pakrikusius
+    reikalus, jis pasikvietė iš Valachijos bei Skitijos samdi­
+    ninkų. Kadangi šie vargu ar būtų įstengę laiku ateiti
+    437
+
+    ## Puslapis 436
+
+    į pagalbą, jis, norėdamas, kad Luckas nors kurį laiką
+    nebūtų puolamas visomis jėgomis, pasiūlė karaliui tai­
+    ką.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185255

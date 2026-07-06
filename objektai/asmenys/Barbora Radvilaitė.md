@@ -7,11 +7,6 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
-description: 'Barbora Radvilaitė pristatoma per slaptą 1547 m. santuoką su Žygimantu Augustu, Vilniaus rūmus ir atminimo ženklus.'
-socialDescription: 'Slapta Barboros Radvilaitės ir Žygimanto Augusto santuoka, rūmai prie Vilijos ir Vilniuje išlikęs jos atminimo pasakojimas.'
-seo_atnaujinta: '2026-07-02T20:14:54.845514+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -19,12 +14,24 @@ tags:
   - karalienė
 amziai: []
 periodo_grupes: []
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Barbora Radvilaitė
 
 ## Santrauka
 
-Barbora Radvilaitė aprašoma kaip Vilniaus kašteliono Jurgio duktė, Goštauto našlė ir slapta Žygimanto Augusto žmona. Pasakojime pabrėžiama 1547 m. santuoka Karalių koplyčioje Vilniuje, jos rūmai prie Vilijos ir vėlesnis šių rūmų griuvėsių pardavimas 1828 m. Jos atminimas siejamas su antkapiu Šv. Stanislovo bažnyčioje, Šv. Barboros bažnyčia Žemutinėje pilyje ir Žygimanto Augusto testamento nuostatomis dėl palaikų bei apdarų.
+Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštauto našlė ir Žygimanto Augusto slapta žmona. Jos atminimas siejamas su rūmais prie Vilijos, antkapiais Šv. Stanislovo bažnyčioje, Šv. Barboros bažnyčia ir Žygimanto Augusto testamento nuostatomis dėl palaikų bei apdarų.
 
 ## Variantai
 
@@ -58,101 +65,276 @@ Barbora Radvilaitė aprašoma kaip Vilniaus kašteliono Jurgio duktė, Goštauto
 <a id="claim-t-54947"></a>
 - t-001
   global_id: t-54947
-  teiginys: 'Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų vaivados, našlė.'
+  teiginys: "Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų vaivados, našlė."
+  semantiniai_rysiai: "Barbora Radvilaitė buvo žmona Augustas (0.90); Augustas vedė Barbora Radvilaitė (0.90); Barbora Radvilaitė gyveno Barboros rūmai Vilniuje (0.72)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "547745-548172; hash=bfecbe58114731cfd345ee49dc8810e849ca6ab4e7daff44a425e60127756956; match=whitespace_regex"
+  sprendimo_priezastis: "gap::people"
+  ryšio_patikimumas: "buvo_zmona -> Augustas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Barbora Radvilaitė: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Augustas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata nurodo, kad Augustas susituokė su Barbora."
   pagrindžia:
-    - c-006
+    - c-157457
 
 <a id="claim-t-54948"></a>
 - t-002
   global_id: t-54948
-  teiginys: 'Barbora Radvilaitė ir Žygimantas Augustas susituokė slapta 1547 m. rugsėjo mėnesį Karalių koplyčioje Vilniuje.'
+  teiginys: "Barbora Radvilaitė ir Žygimantas Augustas susituokė slapta 1547 m. rugsėjo mėnesį Karalių koplyčioje Vilniuje."
+  semantiniai_rysiai: "Barbora Radvilaitė buvo žmona Augustas (0.90); Augustas vedė Barbora Radvilaitė (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1547 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "548618-549175; hash=1f75fd115adfdef087fd13cb6b76adbee86a51c6b0082a0538e6500927150707; match=whitespace_regex"
+  sprendimo_priezastis: "gap::people"
+  ryšio_patikimumas: "buvo_zmona -> Augustas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Barbora Radvilaitė: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Augustas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Santuoka tiesiogiai pagrindžia Barboros žmonos ryšį su Augustu."
   pagrindžia:
-    - c-001
-    - c-006
+    - c-55501
+    - c-157457
 
 <a id="claim-t-54949"></a>
 - t-003
   global_id: t-54949
-  teiginys: 'Barbora Radvilaitė gyveno rūmuose prie Vilijos, tarp sodų, prie pat Žemutinės pilies.'
+  teiginys: "Barbora Radvilaitė gyveno rūmuose prie Vilijos, tarp sodų, prie pat Žemutinės pilies."
+  semantiniai_rysiai: "Barbora Radvilaitė gyveno Barboros rūmai Vilniuje (0.78)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "547745-548172; hash=bfecbe58114731cfd345ee49dc8810e849ca6ab4e7daff44a425e60127756956; match=whitespace_regex"
+  sprendimo_priezastis: "gap::people"
+  ryšio_patikimumas: "gyveno -> Barboros rūmai Vilniuje: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Barbora Radvilaitė: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Barboros rūmai Vilniuje: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claim teigia, kad Barbora gyveno rūmuose, o citata identifikuoja Barboros rūmus."
   pagrindžia:
-    - c-006
+    - c-157457
 
 <a id="claim-t-54950"></a>
 - t-004
   global_id: t-54950
-  teiginys: '1547 m. rugsėjo 10 d. Barbora, dar kaip Stanislovienė Goštautienė, išdavė slavišką pakvitavimą.'
+  teiginys: "1547 m. rugsėjo 10 d. Barbora, dar kaip Stanislovienė Goštautienė, išdavė slavišką pakvitavimą."
+  temporaliniai_duomenys: "įvykio data: 1547 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "548618-549175; hash=1f75fd115adfdef087fd13cb6b76adbee86a51c6b0082a0538e6500927150707; match=whitespace_regex"
+  sprendimo_priezastis: "gap::people"
+  ryšio_patikimumas: "susije_su -> Auksinė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Barbora Radvilaitė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Auksinė: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Barbora Radvilaitė\" parinktas kaip owner_note_path. Targetas \"Auksinė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-55501
 
 <a id="claim-t-54951"></a>
 - t-005
   global_id: t-54951
-  teiginys: '1828 m. Radvilų prokuratorija pardavė Barboros Radvilaitės rūmų griuvėsius už 500 sidabrinių rublių plytoms.'
+  teiginys: "1828 m. Radvilų prokuratorija pardavė Barboros Radvilaitės rūmų griuvėsius už 500 sidabrinių rublių plytoms."
+  temporaliniai_duomenys: "prekybos laikotarpis: 1828 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „prekybos laikotarpis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia tiksliau įvardyti veikėją, objektą ir pardavimo aplinkybes."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "549246-549813; hash=bbde7e15a3e61d1534be11da43fcea1d73dfde1db130e8d8400d01f393fd8222; match=whitespace_regex"
+  sprendimo_priezastis: "gap::people"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Barbora Radvilaitė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Barbora Radvilaitė\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-55502
 
 <a id="claim-t-54952"></a>
 - t-006
   global_id: t-54952
-  teiginys: 'Barborai Šv. Stanislovo bažnyčioje buvo pastatytas marmurinis antkapis, kuris XVIII a. pražuvo senosios Katedros griuvėsiuose.'
+  teiginys: "Barborai Šv. Stanislovo bažnyčioje buvo pastatytas marmurinis antkapis, kuris XVIII a. pražuvo senosios Katedros griuvėsiuose."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "554422-554869; hash=b2ce201ed76cb7fcb164ebdbfd0d72df607c3bae5831c91698f29b03e1894932; match=whitespace_regex"
+  sprendimo_priezastis: "gap::people"
+  ryšio_patikimumas: "susije_su -> Italija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Barbora Radvilaitė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Italija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Barbora Radvilaitė\" parinktas kaip owner_note_path. Targetas \"Italija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-157460
 
 <a id="claim-t-54953"></a>
 - t-007
   global_id: t-54953
-  teiginys: 'Žygimantas Augustas Žemutinėje pilyje pastatydino Šv. Barboros bažnyčią mylimos žmonos Barboros Radvilaitės atminimui.'
+  teiginys: "Žygimantas Augustas Žemutinėje pilyje pastatydino Šv. Barboros bažnyčią mylimos žmonos Barboros Radvilaitės atminimui."
+  semantiniai_rysiai: "Barbora Radvilaitė buvo žmona Žygimantas Augustas (arkivyskupas, XVI a.) (0.86)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "554870-555273; hash=83d5fefe7868a6c50051bff93d4929d9ec675037484d0e2245b9d92c8d1a4fb6; match=whitespace_regex"
+  sprendimo_priezastis: "gap::people"
+  ryšio_patikimumas: "buvo_zmona -> Žygimantas Augustas (arkivyskupas, XVI a.): 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Barbora Radvilaitė: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata Barborą vadina Augusto mylima žmona."
   pagrindžia:
-    - c-003
+    - c-55504
 
 <a id="claim-t-54954"></a>
 - t-008
   global_id: t-54954
-  teiginys: 'Testamente nurodyta karalienės Barboros palaikus iš Šventojo Kazimiero koplyčios perkelti į Šv. Onos bažnyčią.'
+  teiginys: "Testamente nurodyta karalienės Barboros palaikus iš Šventojo Kazimiero koplyčios perkelti į Šv. Onos bažnyčią."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "651886-652641; hash=9d42675acf57857b20971c5dee4b275613078118cf5e50e303d1515b058fb422; match=whitespace_regex"
+  sprendimo_priezastis: "gap::people"
+  ryšio_patikimumas: "susije_su -> Kūnas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Barbora Radvilaitė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kūnas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Barbora Radvilaitė\" parinktas kaip owner_note_path. Targetas \"Kūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-55505
 
 <a id="claim-t-54955"></a>
 - t-009
   global_id: t-54955
-  teiginys: 'Karalienės Barboros apdarai testamente buvo dovanojami karalaitei Onai.'
+  teiginys: "Karalienės Barboros apdarai testamente buvo dovanojami karalaitei Onai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "669952-671407; hash=c3e88d83c490bc7ff9d2faef03461b3b1521a0dd7123a2f465f54859b5591581; match=whitespace_regex"
+  sprendimo_priezastis: "gap::people"
+  ryšio_patikimumas: "susije_su -> Ona Vytautienė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Barbora Radvilaitė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Ona Vytautienė: mention_match, person, gap=55"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Barbora Radvilaitė\" parinktas kaip owner_note_path. Targetas \"Ona Vytautienė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-55506
 
 <a id="claim-t-173119"></a>
-- t-010
+- t-013
   global_id: t-173119
-  teiginys: 'Barborai Radvilaitei Šv. Stanislovo bažnyčioje italų meistrai pastatė brangaus marmuro antkapį.'
+  teiginys: "Barborai Radvilaitei Šv. Stanislovo bažnyčioje italų meistrai pastatė brangaus marmuro antkapį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "554422-554869; hash=b2ce201ed76cb7fcb164ebdbfd0d72df607c3bae5831c91698f29b03e1894932; match=whitespace_regex"
+  sprendimo_priezastis: "gap::people"
+  ryšio_patikimumas: "susije_su -> Italija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Barbora Radvilaitė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Italija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Barbora Radvilaitė\" parinktas kaip owner_note_path. Targetas \"Italija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-157460
 
 <a id="claim-t-173121"></a>
 - t-011
   global_id: t-173121
-  teiginys: 'Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio dukra ir Trakų vaivados Goštauto našlė.'
+  teiginys: "Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio dukra ir Trakų vaivados Goštauto našlė."
+  semantiniai_rysiai: "Augustas vedė Barbora Radvilaitė (0.82)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "547745-548172; hash=bfecbe58114731cfd345ee49dc8810e849ca6ab4e7daff44a425e60127756956; match=whitespace_regex"
+  sprendimo_priezastis: "gap::people"
+  ryšio_patikimumas: "vede -> Barbora Radvilaitė: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Augustas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Barbora Radvilaitė: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Augustas susituokė su Barbora."
   pagrindžia:
-    - c-006
+    - c-157457
 
 <a id="claim-t-173122"></a>
-- t-012
+- t-014
   global_id: t-173122
-  teiginys: 'Karalienės Barboros apdarai, saugoti Gzovskio ir kitur, buvo padovanoti karalaitei Onai.'
+  teiginys: "Karalienės Barboros apdarai, saugoti Gzovskio ir kitur, buvo padovanoti karalaitei Onai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "669952-671407; hash=c3e88d83c490bc7ff9d2faef03461b3b1521a0dd7123a2f465f54859b5591581; match=whitespace_regex"
+  sprendimo_priezastis: "gap::people"
+  ryšio_patikimumas: "susije_su -> Gzovskis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Barbora Radvilaitė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Gzovskis: mention_match, person, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Barbora Radvilaitė\" parinktas kaip owner_note_path. Targetas \"Gzovskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-55506
 
 <a id="claim-t-184672"></a>
-- t-013
+- t-015
   global_id: t-184672
-  teiginys: 'Po Elžbietos laidotuvių Augustas pradėjo lankyti Barborą Radvilaitę, Vilniaus kašteliono Jurgio dukrą.'
+  teiginys: "Po Elžbietos laidotuvių Augustas pradėjo lankyti Barborą Radvilaitę, Vilniaus kašteliono Jurgio dukrą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1545 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, faktinis ir susijęs su Barbora Radvilaite."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1197929-1198734; hash=f139fa6736be7f3b1f900350aa16c57af7df0ba78a4dfe0c869199414e4bfa84; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Barbora Radvilaitė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Barbora Radvilaitė\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-168033
 
 <a id="claim-t-184673"></a>
-- t-014
+- t-016
   global_id: t-184673
-  teiginys: 'Augustas senatoriams pareiškė, kad Barbora Radvilaitė buvo jo žmona, sutuokta krikščioniškomis apeigomis.'
+  teiginys: "Augustas senatoriams pareiškė, kad Barbora Radvilaitė buvo jo žmona, sutuokta krikščioniškomis apeigomis."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Barbora Radvilaitė buvo žmona Augustas (0.95)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1205342-1205619; hash=098543354f38458f7653d4becec834e9bb4758829832dc4de7a3c084bb2a9b88; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_zmona -> Augustas: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Barbora Radvilaitė: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Augustas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Augusto kalboje Barbora tiesiogiai įvardijama kaip jo žmona."
   pagrindžia:
-    - c-009
+    - c-168034
+
+<a id="claim-t-194222"></a>
+- t-017
+  global_id: t-194222
+  teiginys: "Dar prieš kelerius metus Vilnių puo šė Barboros rūmų griuvėsiai, stovė ję tarp Katedros ir Šv."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "549246-549813; hash=bbde7e15a3e61d1534be11da43fcea1d73dfde1db130e8d8400d01f393fd8222; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-55502
 - susijęs iš [[objektai/asmenys/Goštautas (Trakų vaivada, Barboros vyras).md#claim-t-87680|Goštautas (Trakų vaivada, Barboros vyras)]]: Goštautas buvo Trakų vaivada ir Barboros Radvilaitės vyras, po kurio mirties Barbora liko našlė.
 - susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-183848|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Žygimantas Augustas laisvesnes akimirkas leisdavo šalia Barboros Radvilaitės, kol galiausiai su ja susituokė.
 - susijęs iš Karalių koplyčia Vilniuje: 1547 m. rugsėjį Žygimantas Augustas ir Barbora Radvilaitė slapta susituokė Karalių koplyčioje Vilniuje.
@@ -261,6 +443,7 @@ Barbora Radvilaitė aprašoma kaip Vilniaus kašteliono Jurgio duktė, Goštauto
     ir 2 paauksuotas gūnias, įvertintas
     131 grivina.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -289,11 +472,13 @@ Barbora Radvilaitė aprašoma kaip Vilniaus kašteliono Jurgio duktė, Goštauto
     ninko Kosobudžkio namui Nr.
     priemiestyje už Aušros vartų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+    - t-015
 
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -307,8 +492,9 @@ Barbora Radvilaitė aprašoma kaip Vilniaus kašteliono Jurgio duktė, Goštauto
     atminimui, po jos mirties visur ieškodamas paguodos savo
     skausmui numalšinti35.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
@@ -331,6 +517,7 @@ Barbora Radvilaitė aprašoma kaip Vilniaus kašteliono Jurgio duktė, Goštauto
     rengiamos visiškai jokios šio vargano pasaulio pompos ir
     iškilmės.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -370,8 +557,9 @@ Barbora Radvilaitė aprašoma kaip Vilniaus kašteliono Jurgio duktė, Goštauto
     puošimais, tiek auksu lietais, aksominiais, purpuriniais ir
     kokiais kitais, kuriuos po mūsų ras.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
@@ -394,8 +582,9 @@ Barbora Radvilaitė aprašoma kaip Vilniaus kašteliono Jurgio duktė, Goštauto
     Ten visas laisvesnes akimirkas Augustas praleisdavo šalia
     Barboros, kol pagaliau su ja susituokė30.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
@@ -421,8 +610,9 @@ Barbora Radvilaitė aprašoma kaip Vilniaus kašteliono Jurgio duktė, Goštauto
     XVIII amžiuje, tie antkapiai visiems laikams pražuvo seno­
     sios Katedros griuvėsiuose.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
@@ -464,6 +654,7 @@ Barbora Radvilaitė aprašoma kaip Vilniaus kašteliono Jurgio duktė, Goštauto
     pė nukloti iš pilies į Barboros
     sodus takelį ir tiltuką per Vilnios upę.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -485,11 +676,252 @@ Barbora Radvilaitė aprašoma kaip Vilniaus kašteliono Jurgio duktė, Goštauto
     su manimi su visomis krikščioniškomis apeigomis jos
     giminaičių akivaizdoje.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
+## Citatos
+
+- id: c-55501
+  citata_originali: |
+    Ši slapta santuoka įvyko 1547 metų
+    rugsėjo mėnesį Karalių koplyčioje
+    Vilniuje. Mačiau originalų raštą ar­
+    ba pakvitavimą, rašytą karalienės
+    Barboros slaviškai, su antspaudu. Jį,
+    dar būdama Stanislovienė Goštau-
+    tienė, Trakų vaivadienė, našlė, išda­
+    vė 1547 metų rugsėjo 10 dieną, 6 in­
+    dikte, tai yra, visai prieš pat tas
+    sutuoktuves, kažkokiam Petrui Iva-
+    novskiui pasiskolinus iš jo 128 ka­
+    pas grašių ir 8 dubenis medaus, už
+    tai užstatydama auksinę grandinę,
+    įvertintą 227 vengriškais dukatais,
+    ir 2 paauksuotas gūnias, įvertintas
+    131 grivina.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54948
+    - t-54950
+
+- id: c-55502
+  citata_originali: |
+    Dar prieš kelerius metus Vilnių puo­
+    šė Barboros rūmų griuvėsiai, stovė­
+    ję tarp Katedros ir Šv. Jurgio bažny­
+    čios prie Vilijos. Su skausmu ir pa­
+    sibaisėjimu tenka pripažinti, kad
+    1828 metais tuometinė Radvilų pro-
+    kuratorija, pro pirštus žiūrėdama į
+    lietuviams brangius dingusios di­
+    dingos praeities paminklus, atėmė iš
+    miesto ir krašto, ir taip nedaug se­
+    novinių paminklų teturinčio, tuos
+    garbingus ir puikius griuvėsius, par­
+    duodama juos už 500 sidabrinių rub­
+    lių plytoms naujai statomam dvari­
+    ninko Kosobudžkio namui Nr.
+    priemiestyje už Aušros vartų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54951
+    - t-194222
+
+- id: c-55504
+  citata_originali: |
+    Dažnas Žygimanto Augusto, jo
+    palydos, svetimšalių pasiuntinių ir didikų buvojimas Vil­
+    niuje, tvarkingesnių, net puikių pastatų statymas vertė gy­
+    vai darbuotis amatininkus, didino jų skaičių. Be kitų, Že­
+    mutinėje pilyje buvo pastatyta Šv. Barboros bažnyčia, kurią
+    Augustas nemažomis lėšomis pastatydino mylimos žmonos
+    atminimui, po jos mirties visur ieškodamas paguodos savo
+    skausmui numalšinti35.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54953
+
+- id: c-55505
+  citata_originali: |
+    Onos bažnyčioje, toje choro
+    pusėje, bažnyčios pastato kampe, palei zakristijos duris. Tai
+    darome atsižvelgdami, kad nebūtų nereikalingų išlaidų ir
+    rūpesčių kūną po mirties iš valstybės į valstybę gabenant.
+    Taip pat norime, kad mūsų ponių žmonų, Viešpatyje Dieve
+    mirusių, kūnai iš Šventojo Kazimiero koplyčios, kur yra lai­
+    kinai palaidoti, būtų perkelti į tą Šventos Onos bažnyčią;
+    kad jos didenybės karalienės Halškos (Elžbietos) palaikai
+    dešinėje pusėje nuo įėjimo į bažnyčią, bažnyčios pastato kam­
+    pe, prie altoriaus, o jos didenybės karalienės Barboros iš cho­
+    ro pusės, kampe, kairėje bažnyčios pastato pusėje, būtų pa­
+    dėti, - prašydami, kad dabartinėms laidotuvėms nebūtų
+    rengiamos visiškai jokios šio vargano pasaulio pompos ir
+    iškilmės.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54954
+
+- id: c-55506
+  citata_originali: |
+    O atskirai jos didenybės Švedijos karalienės Kotrynos ir
+    jos didenybės karalaitės Onos aprangai iš tos pinigų sumos,
+    kurią jos didenybė ponia mūsų motina visą mirdama pali­
+    ko, jo didenybės Ispanijos karaliaus duotą Bellafoge Neapo­
+    lyje, paskiriame po penkiasdešimt tūkstančių auksinių tale­
+    rių, kurie po mūsų mirties pirmiausia tegu būna abidviem
+    išduoti. Tik po to, kas iš sumos atliks, tegu lygiomis dalimis
+    su jos didenybe karalaite Sofija, Braunsbergo kunigaikštie­
+    ne, jau paėmusią tokią sumą, tarpusavyje pasidalija kaip sa­
+    vo nuosavą iš motinos paveldėtą turtą.
+    Visus mūsų apdarus, drabužius, esančius mūsų sau­
+    gyklose ir kur tik ir pas ką suras, taip pat ir jos didenybės
+    343
+
+    ## Puslapis 360
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    karalienės Barboros apdarus, kuriuos Gzovskis saugoja, o
+    vėliau ir kur kitur ir pas ką tik ras, su visais bet kaip vadina­
+    mais jos didenybės drabužiais, nė vieno daikto neišskiriant,
+    dovanojame jos didenybei karalaitei Onai, dvidešimt pratė­
+    giui pakinkytų vežimų, jau priskaičiuojant ir tuos, kurie yra
+    pas jos didenybę ir kuriuos sau iš tų, stovinčių arklidėse,
+    įsakys pasirinkti, atiduodame, kad būtų gerai ir deramai pa­
+    kinkyti su visa apranga, įranga, vadžiomis, pakinktais, taip
+    pat puskarietės, karietas, ekipažus ir kitas panašias priemo­
+    nes, vežimus: iškilmių, kasdienius su apdangalais ir jų pa­
+    puošimais, tiek auksu lietais, aksominiais, purpuriniais ir
+    kokiais kitais, kuriuos po mūsų ras.
+  citata_rodoma: "Tik po to, kas iš sumos atliks, tegu lygiomis dalimis \nsu jos didenybe karalaite Sofija, Braunsbergo kunigaikštie­\nne, jau paėmusią tokią sumą, tarpusavyje pasidalija kaip sa­\nvo nuosavą iš motinos paveldėtą turtą.\nVisus mūsų apdarus, drabužius, esančius mūsų sau­\ngyklose ir kur tik ir pas ką suras, taip pat ir jos didenybės\n343\n\n## Puslapis 360\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nkaralienės Barboros apdarus, kuriuos Gzovskis saugoja, o \nvėliau ir kur kitur ir pas ką tik ras, su visais bet kaip vadina­\nmais jos didenybės drabužiais, nė vieno daikto neišskiriant, \ndovanojame jos didenybei karalaitei Onai, dvidešimt pratė­\ngiui pakinkytų vežimų, jau priskaičiuojant ir tuos, kurie yra \npas jos didenybę ir kuriuos sau iš tų, stovinčių arklidėse, \nįsakys pasirinkti, atiduodame, kad būtų gerai ir deramai pa­\nkinkyti su visa apranga, įranga, vadžiomis, pakinktais, taip \npat puskarietės, karietas, ekipažus ir kitas panašias priemo­\nnes, vežimus: iškilmių, kasdienius su apdangalais ir jų pa­\npuošimais, tiek auksu lietais, aksominiais, purpuriniais ir \nkokiais kitais, kuriuos po mūsų ras."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54955
+    - t-173122
+
+- id: c-157457
+  citata_originali: |
+    272
+
+    ## Puslapis 289
+
+    IV KNYGA
+    Pakerėtas gražiosios Barboros Radvilaitės, Vilniaus kaš­
+    teliono Jurgio dukters, ir Goštauto, Trakų vaivados, naš­
+    lės, žavesio, dar stipriau prie jos prisirišo, kai greta grožio
+    atrado kuklumą ir sulaukė prielankumo. Barboros rūmai
+    stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies.
+    Ten visas laisvesnes akimirkas Augustas praleisdavo šalia
+    Barboros, kol pagaliau su ja susituokė30.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173121
+    - t-54947
+    - t-54948
+    - t-54949
+
+- id: c-157460
+  citata_originali: |
+    — • —
+    275
+
+    ## Puslapis 292
+
+    VILNIAUS MIESTO ISTORIJA I I  TOMAS
+    de Senis iš Italijos - papuošė Vilnių nuostabaus darbo savo
+    meno kūriniais. Italai, čia nuolat dirbdami šešerius metus,
+    iš brangaus marmuro pastatė du puikius antkapius kara­
+    liaus žmonoms - Elžbietai ir Barborai Šv. Stanislovo bažny­
+    čioje, deja, dėl kapitulos priekaištingo aplaidumo vėliau,
+    XVIII amžiuje, tie antkapiai visiems laikams pražuvo seno­
+    sios Katedros griuvėsiuose.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173119
+    - t-54952
+
+- id: c-168033
+  citata_originali: |
+    Palydėjęs į paskutinę kelionę Elžbietą ir iškilmingai
+    ją palaidojęs Vilniaus katedros koplyčioje, kur ilsėjosi
+    ir karaliaus Aleksandro pa­
+    laikai, Augustas neilgai ge­
+    dėjo. Jaunatviškai lengvabū­
+    diškas, be to, iš mažumės
+    taip išauklėtas, kad mėgo
+    puotauti, šokti ir visaip link-
+    1545 m e ta i
+    M iršta  A u strijo s k u ­
+    n ig a ik š ty tė
+    E lžb ieta ,
+    A u g u sto  žm on a
+    6 7  4
+
+    ## Puslapis 673
+
+    smintis su moterimis, pradėjo lankyti Barborą Radvi­
+    laitę, Vilniaus kašteliono Jurgio dukrą ir Trakų vai­
+    vados Stanislovo Goštauto našlę. Nors Radvilų rūmai
+    buvo visai netoli karaliaus
+    A u g u sta s sla p ta i ve-
+    pilies, Augustas, trokšdamas
+    d a
+    B arborą
+    R a d vi-
+    kada panorėjęs kuo trumpes-
+    la itę
+    niu keliu ten patekti, palie­
+    pė nukloti iš pilies į Barboros
+    sodus takelį ir tiltuką per Vilnios upę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184672
+
+- id: c-168034
+  citata_originali: |
+    Kreipdamasis į
+    6?8
+
+    ## Puslapis 677
+
+    senatorius, tada ir pasakė: „Šiandien jums pasakysiu
+    tai, apie ką ligi šiol tylėjau dėl pateisinamų ir svarbių
+    priežasčių. Barbora Radvilaitė — mano žmona, sutuokta
+    su manimi su visomis krikščioniškomis apeigomis jos
+    giminaičių akivaizdoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184673
 
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Augustas]], [[objektai/asmenys/Goštautas (Trakų vaivada, Barboros vyras)]], [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]

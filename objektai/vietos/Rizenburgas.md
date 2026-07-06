@@ -10,6 +10,18 @@ tags:
   - pilis
   - vieta
   - vyskupas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Rizenburgas
 
@@ -22,9 +34,20 @@ Dusburgietis teigia, kad apie Rizenburgo pilies bei miesto pastatymą Tais metai
 <a id="claim-t-58716"></a>
 - t-001
   global_id: t-58716
-  teiginys: 'Albrechtas, Pamedės vyskupas, Prūsijos žemėje pastatė Rizenburgo pilį ir miestą.'
+  teiginys: "Albrechtas, Pamedės vyskupas, Prūsijos žemėje pastatė Rizenburgo pilį ir miestą."
+  semantiniai_rysiai: "Rizenburgas priklausė Prūsija (0.87)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "716167-716331; hash=6dc2706377c8525b8b0403398f56c34d378b0801853ba9d6a4abe582df6fe29c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Prūsija: 0.87"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Rizenburgas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Frazė nurodo, kad Rizenburgas buvo Prūsijos žemėje."
   pagrindžia:
-    - c-001
+    - c-59348
 - susijęs iš [[objektai/asmenys/Albrechtas (Pamedės vyskupas).md#claim-t-60229|Albrechtas (Pamedės vyskupas)]]: Albrechtas, Pamedės vyskupas, Prūsijos žemėje pastatė Rizenburgo pilį ir miestą.
 - susijęs iš [[objektai/asmenys/Albrechtas (Pamedės vyskupas).md#claim-t-60229|Albrechtas (Pamedės vyskupas)]]: Albrechtas, Pamedės vyskupas, Prūsijos žemėje pastatė Rizenburgo pilį ir miestą.
 - susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93420|Konradas (Mozūrijos kunigaikštis)]]: Kunigaikštis Konradas su kitais Lenkijos kunigaikščiais atvyko į Kulmą ir prisidėjo prie Marienverderio miesto pastatymo.
@@ -49,11 +72,32 @@ Dusburgietis teigia, kad apie Rizenburgo pilies bei miesto pastatymą Tais metai
 
                 62.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-59348
+  citata_originali: |
+    61. Apie Rizenburgo pilies bei miesto pastatymą
+
+       Tais metais Albrechtas, Pamedės vyskupas, pastatė Prūsijos žemėje Rizenburgo pilį
+    bei miestą.
+
+
+
+                62.
+  citata_rodoma: "Apie Rizenburgo pilies bei miesto pastatymą\n\n   Tais metais Albrechtas, Pamedės vyskupas, pastatė Prūsijos žemėje Rizenburgo pilį\nbei miestą.\n\n\n\n            62."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58716
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Albrechtas (Pamedės vyskupas)]]

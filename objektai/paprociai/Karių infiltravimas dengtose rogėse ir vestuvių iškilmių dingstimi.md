@@ -16,6 +16,18 @@ tags:
   - popiežius
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi
 
@@ -46,26 +58,74 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87211"></a>
-- t-001
+- t-002
   global_id: t-87211
-  teiginys: 'Strijkovskis ir Kojalavičius rašė, kad Vytautas kelionę į Vilnių dangstė sesers Ringailės vestuvių su Mazovijos kunigaikščiu Henriku dingstimi.'
+  teiginys: "Strijkovskis ir Kojalavičius rašė, kad Vytautas kelionę į Vilnių dangstė sesers Ringailės vestuvių su Mazovijos kunigaikščiu Henriku dingstimi."
+  semantiniai_rysiai: "Skirgaila keliavo į Polockas (0.97); Vytautas (Lietuvos valdovas, XIV–XV a.) puolė Vilnius (0.88); Sudimantas gynė Vilnius (0.82)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "255045-257194; hash=45556bdcf60c008152ba55e94aae0cd5e99debc8417d957964f0407751086d13; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Polockas: 0.97"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Skirgailos išvykimą į Polocką."
   pagrindžia:
-    - c-001
+    - c-83190
 
 <a id="claim-t-87212"></a>
-- t-002
+- t-001
   global_id: t-87212
-  teiginys: 'Vytauto žmonės dengtose rogėse pateko į Žemutinę pilį, bet Sudimantas, perspėtas gyventojų, sutrukdė mėginimą užimti Vilnių.'
+  teiginys: "Vytauto žmonės dengtose rogėse pateko į Žemutinę pilį, bet Sudimantas, perspėtas gyventojų, sutrukdė mėginimą užimti Vilnių."
+  semantiniai_rysiai: "Skirgaila keliavo į Polockas (0.97); Vytautas (Lietuvos valdovas, XIV–XV a.) puolė Vilnius (0.88); Sudimantas gynė Vilnius (0.86); Dobrogostas keliavo į Vilnius (0.84)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "255045-257194; hash=45556bdcf60c008152ba55e94aae0cd5e99debc8417d957964f0407751086d13; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Polockas: 0.97"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Skirgailos išvykimą į Polocką."
   pagrindžia:
-    - c-001
+    - c-83190
 
 <a id="claim-t-183825"></a>
 - t-003
   global_id: t-183825
-  teiginys: 'Vytauto ginkluoti žmonės dengtose rogėse pasiekė pilį, tačiau Sudimantas, perspėtas gyventojų, sužlugdė Vilniaus užėmimo planą.'
+  teiginys: "Vytauto ginkluoti žmonės dengtose rogėse pasiekė pilį, tačiau Sudimantas, perspėtas gyventojų, sužlugdė Vilniaus užėmimo planą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Skirgaila keliavo į Polockas (0.97); Vytautas (Lietuvos valdovas, XIV–XV a.) puolė Vilnius (0.88); Sudimantas gynė Vilnius (0.86); Dobrogostas keliavo į Vilnius (0.84)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "255045-257194; hash=45556bdcf60c008152ba55e94aae0cd5e99debc8417d957964f0407751086d13; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Polockas: 0.97"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai pasako, kad Skirgaila išvyko į Polocką."
   pagrindžia:
-    - c-001
+    - c-83190
 
+<a id="claim-t-194188"></a>
+- t-004
+  global_id: t-194188
+  teiginys: "Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovavęs Sudimantas, perspėtas gyven tojų, davė atkirtį, visas tas pastangas užimti Vilnių niekais pavertė anksčiau negu suspėjo Vytautas su kariauna19."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "255045-257194; hash=45556bdcf60c008152ba55e94aae0cd5e99debc8417d957964f0407751086d13; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-83190
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -123,6 +183,7 @@ Nenurodyta
     vienas jų, matyt, išdavęs paslaptį, o
     apie Sudimantą nėra užsiminta.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -130,3 +191,68 @@ Nenurodyta
     - t-002
     - t-001
     - t-003
+    - t-004
+
+## Citatos
+
+- id: c-83190
+  citata_originali: |
+    116
+
+    ## Puslapis 133
+
+    Il KNYGA
+    Skirgailai išvykus į Polocką jam buvo gera proga įgyvendin­
+    ti savo sumanymą. Tuo tikslu paskleidęs gandą, esą turįs at­
+    vykti į Vilnių sudaryti tam tikrų sutarčių, pirma išsiuntė daug
+    dengtų rogių, prikrautų įvairių atsargų, ten sutalpino ir gin­
+    kluotų žmonių būrį. Pastarieji, gurguolei atvykus iki Žemu­
+    tinės pilies, turėjo ją užimti, mat menkai teapsaugota ji buvo,
+    ir atiduoti į Vytauto rankas, kuris manė suskubsiąs su savo
+    kariais. Rogėse pasislėpusiems žmonėms pavyko patekti į
+    pilį, bet sargybai vadovavęs Sudimantas, perspėtas gyven­
+    tojų, davė atkirtį, visas tas pastangas užimti Vilnių niekais
+    pavertė anksčiau negu suspėjo Vytautas su kariauna19. Ne­
+    paisant tos Vilniuje buvusios maišaties, vis dėlto 1389 me­
+    tams baigiantis atvyko Poznanės vyskupas Dobrogostas ir
+    kaip popiežiaus Urbono VI pasiuntinys paskelbė bulę, ku­
+    rios galia, atsiliepiant į karaliaus Vladislovo ir karalienės Jad­
+    vygos prašymą, vietovė, vadinama Vilniumi ir laikytina mies­
+    tu, o bažnyčia, pastatyta ant pagonių šventyklos griuvėsių,
+    šv. Stanislovo garbei, iškilmingai pripažinta katedra. O vys­
+    kupas Andrius, Dobrogosto atleistas iš Cereto ganytojo pa­
+    reigų, gavo popiežiaus patvirtinimą perimti Vilniaus vysku­
+    piją20. Vytautas, žlugus viltims, vėl buvo priverstas ieškoti
+    19
+    Visą tą pasakojimą perteikėme pa­
+    gal vieną aprašymą, kuris yra S1 a p t.
+    arch. fol. E., p. 54 ap. F o i g t a s,
+    V, 534. Strijkovskis ir Koj e-
+    1  a v i č i u s apie tą gudrybę pana­
+    šiai mena, pridurdami, kad Vytau­
+    tas paleidęs gandą, esą atvykęs į Vil­
+    nių rengti savo sesers Ringailės
+    vestuvių su Mazovijos kunigaikščiu
+    Henriku iškilmių, kas panašiau į tie­
+    są negu tai, apie ką bylojäma aukš­
+    čiau nurodytame vokiečių aprašy­
+    me, esą turėjęs savo dukterį Sofiją
+    ištekinti už Mazovijos didžiojo ku­
+    nigaikščio. Jogaila tam pasipriešino,
+    tad šia dingstimi negalima buvo į
+    Vilnių vykti. Tie patys metraštinin­
+    kai pasakoja, kad 300 vežimų, įvai­
+    rios žvėrienos prikrauti, atvažiavę į
+    miestą ir kad Vytauto bajorai suva­
+    žiavę į miestą iš įvairių pusių, bet
+    vienas jų, matyt, išdavęs paslaptį, o
+    apie Sudimantą nėra užsiminta.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87212
+    - t-87211
+    - t-183825
+    - t-194188

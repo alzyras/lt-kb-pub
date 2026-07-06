@@ -5,6 +5,18 @@ saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # gaspadorius
 
@@ -24,18 +36,24 @@ Papildomos aiškios formos neišskirtos.
 ## Teiginiai
 
 <a id="claim-t-07723"></a>
-- t-001
+- t-003
   global_id: t-07723
-  teiginys: 'Gaspadorius vaizduojamas kaip ūkio šeimininkas, raginantis pjovėjus baigti pievos kertę.'
+  teiginys: "Gaspadorius vaizduojamas kaip ūkio šeimininkas, raginantis pjovėjus baigti pievos kertę."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  saltinio_vieta: "350748-351046; hash=0602591dbda2e8ceb176f31de7c57d49d454699daebaaac32a36ffdcd8968a6d; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   pagrindžia:
-    - c-001
+    - c-09646
 
 <a id="claim-t-07724"></a>
-- t-002
+- t-004
   global_id: t-07724
-  teiginys: 'Gaspadorius gali raginti ir organizuoti ūkio darbus.'
+  teiginys: "Gaspadorius gali raginti ir organizuoti ūkio darbus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  saltinio_vieta: "350748-351046; hash=0602591dbda2e8ceb176f31de7c57d49d454699daebaaac32a36ffdcd8968a6d; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   pagrindžia:
-    - c-001
+    - c-09646
 - susijęs iš [[objektai/paprociai/Kieminė auka Perūnui per audrą.md#claim-t-07784|Kieminė auka Perūnui per audrą]]: Po audros gaspadorius linksmindamasis keldavo namiškiams puotą ar gėrynę.
 - susijęs iš [[objektai/paprociai/Kieminė auka Perūnui per audrą.md#claim-t-07785|Kieminė auka Perūnui per audrą]]: Kilus audrai arba grasinant krušai šeimininkas tris kartus apeidavo savo rugius ar varstą su lašinių paltimi ir melsdavo Perūną.
 - susijęs iš [[objektai/paprociai/Raitas keliavimas į bažnyčią, mugę ir kitas vietas.md#claim-t-07800|Raitas keliavimas į bažnyčią, mugę ir kitas vietas]]: Jaunas žemaitis į bažnyčią ar į mugę mieliau joja, negu važiuoja vežimu.
@@ -47,9 +65,24 @@ Papildomos aiškios formos neišskirtos.
   citata_originali: |
     Gaspadorius subatos vakarą, norėdamas pievos kertę nubengti, stiprina savo jaunus pjovėjus būtinai nuvargusius tais žodžiais: „Vaikeliai, benkim tą barą šiandien, aš jums rytoj duosiu arklius į bažnyčią joti.“ Šie, tais žodžiais pagaivinti, tarsi sylos atsigėrę, nubengia dainuodami noris pusnakty.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+
+## Citatos
+
+- id: c-09646
+  citata_originali: |
+    Gaspadorius subatos vakarą, norėdamas pievos kertę nubengti, stiprina savo jaunus pjovėjus būtinai nuvargusius tais žodžiais: „Vaikeliai, benkim tą barą šiandien, aš jums rytoj duosiu arklius į bažnyčią joti.“ Šie, tais žodžiais pagaivinti, tarsi sylos atsigėrę, nubengia dainuodami noris pusnakty.
+  citata_rodoma: "Gaspadorius subatos vakarą, norėdamas pievos kertę nubengti, stiprina savo jaunus pjovėjus būtinai nuvargusius tais žodžiais: „Vaikeliai, benkim tą barą šiandien, aš jums rytoj duosiu arklius į bažnyčią joti.“ Šie, tais žodžiais pagaivinti, tarsi sylos atsigėrę, nubengia dainuodami noris pusnakty."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-07723
+    - t-07724

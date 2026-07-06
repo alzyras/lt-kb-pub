@@ -13,12 +13,24 @@ date_start: '1357'
 date_end: '1414'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XIV'
-  - 'XV'
 tags:
   - pilis
   - vieta
+amziai:
+  - 'XIV'
+  - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Aukaimis
 
@@ -27,35 +39,88 @@ tags:
 Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėmę keturias pilis (Kvėdarną, Gedimino pilį, Gegužkalnį, Au­ kaimį). Žemaičiai Medvėgalyje gana atkakliai gynęsi, tačiau prie­ šui padegus pilį, turėję pasiduoti.
 
 ## Teiginiai
+
 <a id="claim-t-67659"></a>
 - t-001
   global_id: t-67659
-  teiginys: 'Poetas nurodė, kad pilgrimai, be Medvėgalio, paėmė ir Aukaimį bei dar tris pilis.'
+  teiginys: "Poetas nurodė, kad pilgrimai, be Medvėgalio, paėmė ir Aukaimį bei dar tris pilis."
+  semantiniai_rysiai: "Žemaičiai gynė Medvėgalis (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1357 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "651571-652029; hash=5772c90e6d80e330e2f23be84e8d405a2cdedd38dfaa0092101ac6663e964a1d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Medvėgalis: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žemaičiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Medvėgalis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad žemaičiai gynėsi Medvėgalyje."
   pagrindžia:
-    - c-001
+    - c-67480
 
 <a id="claim-t-67660"></a>
 - t-002
   global_id: t-67660
-  teiginys: 'Ragainės broliai užpuolė miegančius Aukaimio papilio pilėnus ir sudegino papilį iki pamatų.'
+  teiginys: "Ragainės broliai užpuolė miegančius Aukaimio papilio pilėnus ir sudegino papilį iki pamatų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "747908-748285; hash=0afad348f4c1daffe69a864ba45a31423d52acc68e97589ed07e4adfea3771de; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pilėnai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aukaimis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Pilėnai: mention_match, place, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukaimis\" parinktas kaip owner_note_path. Targetas \"Pilėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-67481
 
 <a id="claim-t-184923"></a>
 - t-003
   global_id: t-184923
-  teiginys: 'Aukaimio pilis tais pačiais metais buvo prarasta per išdavystę.'
+  teiginys: "Aukaimio pilis tais pačiais metais buvo prarasta per išdavystę."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "309224-309498; hash=96c8e103d4c30971f6008b5678b347654d9454d6f4a2ee4c1e0da8ebafe57675; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aukaimio pilis (pilis): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aukaimis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Aukaimio pilis (pilis): mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukaimis\" parinktas kaip owner_note_path. Targetas \"Aukaimio pilis (pilis)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-168284
 
 <a id="claim-t-188669"></a>
 - t-004
   global_id: t-188669
-  teiginys: 'Narbutas rašo, kad Aukaimio kaime slapstėsi vyriausiasis žynys Gintautas, miręs 1414 m. liepos 28 d., ir su juo baigėsi lietuvių stabmeldystė.'
+  teiginys: "Narbutas rašo, kad Aukaimio kaime slapstėsi vyriausiasis žynys Gintautas, miręs 1414 m. liepos 28 d., ir su juo baigėsi lietuvių stabmeldystė."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1414 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys perrašytas be OCR klaidų, aiškiai siejant Aukaimį su Gintautu. Religinė interpretacija ir pabaigos vertinimas palikti su Narbuto atribucija."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "775518-776410; hash=11cc599f8f4e967b8ab9aa378d5510d5203c0973728832ad1c6926def6a716d6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aukaimis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukaimis\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-004
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171558
 - susijęs iš [[objektai/asmenys/Folradas.md#claim-t-60116|Folradas]]: Ragainės komtūras Folradas, gavęs Draikos prašymą, su kariuomene patraukė prieš Aukaimio pilį.
 - susijęs iš [[objektai/daiktai/Pilies vartai.md#claim-t-59700|Pilies vartai (pilis, XIV a.)]]: Aukaimio pilėnas Draika slapta atidarė pilies vartus brolių kariuomenei, kuri įsiveržė į pilį.
 - susijęs iš [[objektai/ivykiai/Girdilos išdavystė prie Aukaimio pilies ir 100 krikščionių žūtis.md#claim-t-183921|Girdilos išdavystė prie Aukaimio pilies ir 100 krikščionių žūtis (pilis, XIII a.)]]: 1285 m. skalvis Girdila su 100 ginkluotų vyrų patraukė prie Aukaimio pilies, bet įspėti pilies gynėjai juos užpuolė ir beveik visus nukovė.
@@ -142,6 +207,7 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102841|Dusburgas]]: Dusburgo kronikoje Junigėda pirmą kartą paminėta aprašant 1291 m. puolimą.
 - susijęs iš [[objektai/paprociai/Burtų metimas prieš karo išpuolį.md#claim-t-62110|Burtų metimas prieš karo išpuolį]]: Lietuviai prieš išpuolį prieš Ragainės brolius metė burtus, kurie nežadėjo sėkmės, todėl tuojau pasuko atgal.
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -154,11 +220,13 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
     kaimį). Žemaičiai Medvėgalyje gana atkakliai gynęsi, tačiau prie­
     šui padegus pilį, turėję pasiduoti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Ragainės broliai užpuolė miegančius Aukaimio papilio pilėnus ir sudegino papilį iki pamatų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -175,11 +243,13 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
 
                                    9.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Aukaimio pilis tais pačiais metais buvo prarasta per išdavystę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -192,11 +262,13 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
     viršininkas Draika pradėjo linkti į krikščionių tikėji­
     mą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Narbutas rašo, kad Aukaimio kaime slapstėsi vyriausiasis žynys Gintautas, miręs 1414 m. liepos 28 d., ir su juo baigėsi lietuvių stabmeldystė.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -216,11 +288,93 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
     siasis žynys Gintautas, kurio gyvenimas nutrūko 1414 metų
     liepos 28 dieną; jis buvo 74-asis iš eilės ir su juo baigėsi lietu­
     vių stabmeldystė.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
+## Citatos
+
+- id: c-67480
+  citata_originali: |
+    Šis žygis, kuriame buvo daug svečių iš
+    visur, net iš Anglijos, paminėtas ne tik ordino kronikose, bet ir
+    žygyje dalyvavusio prancūzų poeto Guillaume de Machaut 1357 m.
+    rašytame veikale « Confort d’Ami » (« Draugo parama »). Poetas
+    išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar
+    paėmę keturias pilis (Kvėdarną, Gedimino pilį, Gegužkalnį, Au­
+    kaimį). Žemaičiai Medvėgalyje gana atkakliai gynęsi, tačiau prie­
+    šui padegus pilį, turėję pasiduoti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67659
+
+- id: c-67481
+  citata_originali: |
+    8. Apie Aukaimio papilio sudeginimą
+
+       Neilgai trukus po to tie patys Ragainės broliai užpuolė su savo valdiniais, pilėnams
+    bemiegant, Aukaimio papilį ir jį iki pamatų sudegino; neskaitant 4 vyrų, buvusių pilyje, ir
+    saujelės pabėgusių, visi kiti žuvo arba nuo ugnies, arba nuo kalavijo drauge su žmonomis,
+    vaikais, galvijais ir gyvuliais.
+
+
+
+
+                                   9.
+  citata_rodoma: "Apie Aukaimio papilio sudeginimą\n\n   Neilgai trukus po to tie patys Ragainės broliai užpuolė su savo valdiniais, pilėnams\nbemiegant, Aukaimio papilį ir jį iki pamatų sudegino; neskaitant 4 vyrų, buvusių pilyje, ir\nsaujelės pabėgusių, visi kiti žuvo arba nuo ugnies, arba nuo kalavijo drauge su žmonomis,\nvaikais, galvijais ir gyvuliais.\n\n\n\n\n                               9."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67660
+
+- id: c-168284
+  citata_originali: |
+    Vis dėlto žmonių ne­
+    daug žuvo, nes gyventojai,
+    palikę namus priešų valiai, patys su visais brangesniais
+    daiktais išsislapstė miškų tankmėse. Tais pačiais me­
+    tais per išdavystę buvo prarasta Aukaimio pilis. Pilies
+    viršininkas Draika pradėjo linkti į krikščionių tikėji­
+    mą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184923
+
+- id: c-171558
+  citata_originali: |
+    Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori­
+    tetas vyriausiojo žynio, Krivių Krivaičio, kurio valdžia anks­
+    čiau apėmė visas lietuvių tautos gyvenamas žemes, tai yra nuo
+    Vyslos iki Dauguvos, nuo Baltijos jūros į Rusios gilumą, kur
+    slavų krivičių tauta taip pat buvusi pavaldi vyriausiajam žy­
+    niui. Jeigu taip iš tikrųjų buvo, tai lengvai rasime tos tautos
+    pavadinimo priežastį, kitaip sakant, kad ta tauta turėjo savo
+    krivius, kaip ir lietuvių genties tautos, tai yra kad laikėsi religi­
+    nių apeigų papročių, vienodų su jų lietuvių apeigomis. Smun­
+    kant tikėjimo dalykams, atėjo ginkluoto atvertimo laikai -  pir­
+    miausia Livonijoje, vėliau Prūsijoje, paskui Lietuvoje, paga­
+    liau Žemaitijoje. Tenai, Aukaimio kaime, dar slapstėsi vyriau­
+    siasis žynys Gintautas, kurio gyvenimas nutrūko 1414 metų
+    liepos 28 dieną; jis buvo 74-asis iš eilės ir su juo baigėsi lietu­
+    vių stabmeldystė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188669
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Girdila]], [[objektai/grupes/Lietuviai]]

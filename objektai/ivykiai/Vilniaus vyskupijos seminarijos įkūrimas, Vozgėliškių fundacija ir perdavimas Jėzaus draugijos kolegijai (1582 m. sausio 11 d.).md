@@ -16,6 +16,18 @@ tags:
   - kunigas
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vilniaus vyskupijos seminarijos įkūrimas, Vozgėliškių fundacija ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.)
 
@@ -42,19 +54,38 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-86899"></a>
-- t-001
+- t-003
   global_id: t-86899
-  teiginys: 'Vilniaus Jėzaus draugijos kolegijai buvo suteikta ekonominė ir administracinė valdžia seminarijai valdyti.'
+  teiginys: "Vilniaus Jėzaus draugijos kolegijai buvo suteikta ekonominė ir administracinė valdžia seminarijai valdyti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "813016-814489; hash=eecd7719995a7d4b013e44609d2edaed9afd0eea2e07e1bc57578bb5a1f3f648; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilniaus vyskupijos klierikų kolegija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus vyskupijos seminarijos įkūrimas, Vozgėliškių fundacija ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Vilniaus vyskupijos klierikų kolegija: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus vyskupijos seminarijos įkūrimas, Vozgėliškių fundacija ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.)\" parinktas kaip owner_note_path. Targetas \"Vilniaus vyskupijos klierikų kolegija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-82879
 
 <a id="claim-t-86901"></a>
 - t-002
   global_id: t-86901
-  teiginys: 'Jurgis Radvila nusprendė Vilniaus diecezijoje įsteigti ir funduoti kolegiją lietuvių ir rusų jaunuoliams išlaikyti bei auklėti.'
+  teiginys: "Jurgis Radvila nusprendė Vilniaus diecezijoje įsteigti ir funduoti kolegiją lietuvių ir rusų jaunuoliams išlaikyti bei auklėti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "804933-806343; hash=d9f4e3eb7ac4b94c3bf32c83f58ead4fb13e7b4eca5545e5b5ef93da1bbf1417; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus vyskupijos seminarijos įkūrimas, Vozgėliškių fundacija ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus vyskupijos seminarijos įkūrimas, Vozgėliškių fundacija ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.)\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
-
+    - c-82880
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -87,6 +118,7 @@ Nenurodyta
     antraisiais Viešpaties metais, popiežiaujant dešimtajam
     popiežiui šviesiausiajam mūsų Šv. Tėvui Grigaliui XIII.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -122,8 +154,78 @@ Nenurodyta
     davimui bei jos aprūpinimui jai pridedame mūsų patrimo-
     nialinį dvarelį Vilniaus paviete, vadinamą Vozgėliškėmis*.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-82879
+  citata_originali: |
+    O kadangi no­
+    rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų
+    ir klestėtų, dabar laimingai karaliaujančio šviesiausiojo ir
+    katalikiškiausiojo mūsų kunigaikščio karaliaus Stepono mie­
+    laširdingą! prašome, kad laikytų verta prisiimti į savo globą
+    ir gynybą pačią Vilniaus seminariją. Ir mūsų įpėdinius ragi­
+    name ir prašome, kad, iškilus seminarijoje įvairiems sunku­
+    mams, kreiptųsi į pačią karališkąją Didenybę ar į kitus ka­
+    raliaus įpėdinius ir nieko, kas susiję su seminarijos ir jos turtų
+    valdymu, be jų pritarimo nedarytų. Tai jų sąžinei griežtai
+    pavedame. Klierikų mokymo reikalus ir vadovavimą kole­
+    gijai patikime didžiai gerbiamam tėvui Rektoriui ir visai Vil­
+    niaus Jėzaus draugijos kolegijai, ir, mielai leidus didžiai* ger­
+    biamam tėvui generaliniam Prepozitui (kuriam dėl šio
+    reikalo nusiuntėme laišką ir neabejojame, kad mums bus pa­
+    lankus), tuos pačius karštai raginame, kad imtų rūpintis šia
+    mūsų seminarija. Be to, jiems suteikiame visišką valdžią, tiek
+    ekonominę, tiek visą administracinę, ir juos darome ir skel­
+    biame amžinais mūsų seminarijos valdytojais, administra­
+    toriais ir rektoriais, jų rūpesčiui, veiklumui ir meilei patiki­
+    me visą seminariją ir kiekvieną joje esantį klieriką. Duota ir
+    atlikta Vilniuje, įprastos mūsų rezidencijos rūmuose, sausio
+    vienuoliktą dieną, tūkstantis penki šimtai aštuoniasdešimt
+    antraisiais Viešpaties metais, popiežiaujant dešimtajam
+    popiežiui šviesiausiajam mūsų Šv. Tėvui Grigaliui XIII.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86899
+
+- id: c-82880
+  citata_originali: |
+    Taigi, kai mes, Jurgis Radvila,
+    Dievo malone Vilniaus vyskupas, Olykos ir Nesvyžiaus ku­
+    nigaikštis, pamatėme, kokią naudą teikia tiek Romos, kitų
+    miestų mokytojos, mieste, tiek ir kitose vietose įsteigtos ir
+    funduotos klierikų seminarijos, šioje mūsų Vilniaus diece­
+    zijoje, kurioje pastebėjome, jog yra didelis kunigų ir kitų pa­
+    tarnautojų trūkumas Viešpaties vynuogyne, nusprendėme
+    įsteigti ir funduoti kolegiją, kurioje būtų išlaikomas ir die­
+    vobaimingai auklėjamas nustatytas lietuvių ir rusų jaunuo­
+    lių skaičius. Suprantame, kad mūsų ganytojiškoms parei­
+    goms priklauso pasirūpinti, kad iš bendrų vyskupijos stalo
+    pajamų ir kapitulos, ir visokios rūšies vertybių, personatų,
+    pelno, abatijų turto dalies bei visokių kitokių beneficijų, mū­
+    sų diecezijoje egzistuojančių, būtų paimta tam tikra dalis ar
+    porcija, ir ta dalis, taip išimta, būtų prijungta prie anksčiau
+    minėtos kolegijos ir inkorporuota. Nors, esant dabartinėms
+    nelaimėms, nuolatiniams nuostoliams dėl karo su Maskva,
+    mes neprivalome savęs apsunkinti naujais vargais, atsižvelg­
+    dami į savo padėtį, sunkiai galime aprūpinti lėšomis, tačiau
+    tikėdamiesi, kad Viešpaties, kurismeapleidžia gerų darbų,
+    ranka nesutrumpėjusi, paties Viešpaties Dievo vardu nu­
+    sprendžiame ir funduojame mūsų klierikų kolegiją ir fun-
+    davimui bei jos aprūpinimui jai pridedame mūsų patrimo-
+    nialinį dvarelį Vilniaus paviete, vadinamą Vozgėliškėmis*.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86901

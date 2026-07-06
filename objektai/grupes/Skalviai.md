@@ -3,143 +3,381 @@ tipas: grupe
 pavadinimas: 'Skalviai'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
   - '1289 m.'
 date_start: '1289'
 date_end: ''
-description: 'Skalviai – Nemuno žemupio baltų gentis, XIII a. minima kovose su Ordinu, Ragainės, Labguvos ir Skalvių pilių aplinkoje.'
-socialDescription: 'Skalviai gyveno Nemuno žemupyje ir XIII a. šaltiniuose iškyla per kovas su Ordinu, Ragainės bei Labguvos pilių istoriją.'
-seo_atnaujinta: '2026-07-02T23:12:35.331057+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Skalviai
 
 ## Santrauka
 
-Skalviai buvo Nemuno žemupio gentis, gyvenusi abipus Nemuno, o jų teritorijos centru XIII a. laikyta Ragainė. Šaltiniuose jie minimi kovų su Ordinu kontekste: skalviai puolė Labguvos pilį, o Ordino broliai įsiveržė į Skalvą ir statė Ragainės bei Skalvių pilis. Archeologijos duomenimis, skalvių gentinė kultūra Nemuno ir Jūros santakos rajone buvo ryški nuo mūsų eros pradžios.
+Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti žymiai anksčiau, ir ten žinomi Lietuvos Užnemunėje sūduviai, Rytprūsiuose sembai, galindai, bartai, nadruviai, skalviai ir kt.
 
 ## Teiginiai
 
 <a id="claim-t-89211"></a>
-- t-001
+- t-002
   global_id: t-89211
-  teiginys: 'M. Tepenas, remdamasis įvairiais rašytiniais šaltiniais, dar XIX a. laikė skalvius ir nadruvius lietuviais.'
+  teiginys: "M. Tepenas, remdamasis įvairiais rašytiniais šaltiniais, dar XIX a. laikė skalvius ir nadruvius lietuviais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "9109-9387; hash=44e583c468a3aa40c211ae5fa1951ad85790209edf753530b77078d945d6d80f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Skalviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skalviai\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-012
+    - c-85204
 
 <a id="claim-t-89212"></a>
-- t-002
+- t-015
   global_id: t-89212
-  teiginys: '1289 m. balandžio 23 d. brolis Meinhardas su kariuomene įžengė į skalvių žemę ir Nemuno pakrantėje pastatė Landeshutės pilį.'
+  teiginys: "1289 m. balandžio 23 d. brolis Meinhardas su kariuomene įžengė į skalvių žemę ir Nemuno pakrantėje pastatė Landeshutės pilį."
+  temporaliniai_duomenys: "pastatymo data: 1289 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs ir turi antraštės triukšmo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "556271-557027; hash=32cb761794572def9de817aa5c61bd12e1c05cb40cbce45806e1ed38cc5ff4a2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Nemunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Skalviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Nemunas: mention_match, place, gap=16"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skalviai\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-85193
 
 <a id="claim-t-89213"></a>
-- t-003
+- t-010
   global_id: t-89213
-  teiginys: 'Magistras ir broliai, keršydami skalviams, įsiveržė į Skalvą, ją nusiaubė, daug žmonių išžudė, o moteris ir vaikus išsivarė.'
+  teiginys: "Magistras ir broliai, keršydami skalviams, įsiveržė į Skalvą, ją nusiaubė, daug žmonių išžudė, o moteris ir vaikus išsivarė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "494189-494923; hash=6b6b8a645735a311dd6f39d6acb5502fb8ecc1800e0eacd803401ea92564b995; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Skalva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Skalviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Skalva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skalviai\" parinktas kaip owner_note_path. Targetas \"Skalva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-85196
 
 <a id="claim-t-89214"></a>
-- t-004
+- t-008
   global_id: t-89214
-  teiginys: 'Sembų fogtas brolis Ditrichas su Ordino kariais įsiveržė į abipus Nemuno buvusią skalvių žemę ir užpuolė pilį būsimos Ragainės vietoje.'
+  teiginys: "Sembų fogtas brolis Ditrichas su Ordino kariais įsiveržė į abipus Nemuno buvusią skalvių žemę ir užpuolė pilį būsimos Ragainės vietoje."
+  semantiniai_rysiai: "Sembai puolė Skalviai (0.62)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "488445-488839; hash=84dcca443a624e09697af20fb0cb02f3de0aecb1aacf53998e31cf7aa2e6eac2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Skalviai: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sembai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Skalviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Sembų fogtas su vyrais įžengė į skalvių žemę ir užpuolė pilį; kadangi Ditrichas nėra kandidatas, ryšys su Sembais yra atsargus."
   pagrindžia:
-    - c-006
+    - c-85195
 
 <a id="claim-t-89215"></a>
-- t-005
+- t-004
   global_id: t-89215
-  teiginys: 'Skalviai ir lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje.'
+  teiginys: "Skalviai ir lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje."
+  semantiniai_rysiai: "Skalviai gyveno Minija (0.94); Skalviai gyveno Nemunas (0.78)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "171114-171425; hash=742209a01cb347039e77322499734830e260d6b36585ccdab991ec5ad17a9179; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Minija: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skalviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Minija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad skalviai gyveno Minijos žemupyje."
   pagrindžia:
-    - c-002
+    - c-85191
 
 <a id="claim-t-89216"></a>
-- t-006
+- t-011
   global_id: t-89216
-  teiginys: 'Skalvių viešpačiai Surbantas, Svisdeta ir Surdeta paliko tėvonijas ir su šeimomis pasitraukė pas Ordino brolius.'
+  teiginys: "Skalvių viešpačiai Surbantas, Svisdeta ir Surdeta paliko tėvonijas ir su šeimomis pasitraukė pas Ordino brolius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "501194-501775; hash=847be5bc4e04d6d1c12f6beb0bd5079fbb4686d7f139e07fd0394badd8138dbd; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Skalva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Skalviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Skalva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skalviai\" parinktas kaip owner_note_path. Targetas \"Skalva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-85198
 
 <a id="claim-t-89217"></a>
-- t-007
+- t-012
   global_id: t-89217
-  teiginys: 'Prie Nemuno buvo pastatyta Skalvių pilis, skirta į Kristaus tikėjimą atsivertusiems skalviams gyventi.'
+  teiginys: "Prie Nemuno buvo pastatyta Skalvių pilis, skirta į Kristaus tikėjimą atsivertusiems skalviams gyventi."
+  semantiniai_rysiai: "Skalviai gyveno Nemunas (0.70)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "556271-557027; hash=32cb761794572def9de817aa5c61bd12e1c05cb40cbce45806e1ed38cc5ff4a2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Nemunas: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skalviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Nemunas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Skalvių pilis buvo pastatyta prie Nemuno, kad ten gyventų atsivertę skalviai."
   pagrindžia:
-    - c-004
-    - c-011
+    - c-85193
+    - c-85201
 
 <a id="claim-t-89218"></a>
-- t-008
+- t-003
   global_id: t-89218
-  teiginys: 'Materialinės kultūros požiūriu skalviai prie Nemuno žemupio siejami su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų, žemaičių ir latvių.'
+  teiginys: "Materialinės kultūros požiūriu skalviai prie Nemuno žemupio siejami su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų, žemaičių ir latvių."
+  semantiniai_rysiai: "Skalviai gyveno Nemunas (0.72)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "11820-12166; hash=a8a8f60cc60404e7fb78a79f5f0cd3c67afa3b34c71cd81ae8e954ecdd67150b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Nemunas: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skalviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Nemunas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas lokalizuoja skalvius prie Nemuno žemupio, todėl atsargiai formuojamas gyvenimo vietos ryšys."
   pagrindžia:
-    - c-008
-    - c-010
+    - c-85197
+    - c-85199
 
 <a id="claim-t-89219"></a>
 - t-009
   global_id: t-89219
-  teiginys: 'Skalvių vyresnieji, susirinkę į sueigą, nusprendė pasiųsti 400 rinktinių vyrų į žygį prieš Labguvos pilį.'
+  teiginys: "Skalvių vyresnieji, susirinkę į sueigą, nusprendė pasiųsti 400 rinktinių vyrų į žygį prieš Labguvos pilį."
+  semantiniai_rysiai: "Skalviai užėmė Labguva (0.98); Skalviai surengė žygį į Labguva (0.95); Skalviai puolė Labguva (0.86)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "492117-492602; hash=2e8dd04842d7728b6e5fd0952df2e2e30da85ee3613e503c423800ce8a00467d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Labguva: 0.98"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skalviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Labguva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad skalvių pasiųsti vyrai užėmė Labguvą."
   pagrindžia:
-    - c-003
+    - c-85192
 
 <a id="claim-t-89220"></a>
-- t-010
+- t-006
   global_id: t-89220
-  teiginys: 'Archeologijos duomenys rodo, kad skalvių gentinė kultūra Nemuno ir Jūros santakos rajone buvo ryški nuo mūsų eros pradžios.'
+  teiginys: "Archeologijos duomenys rodo, kad skalvių gentinė kultūra Nemuno ir Jūros santakos rajone buvo ryški nuo mūsų eros pradžios."
+  semantiniai_rysiai: "Skalviai gyveno Nemunas (0.68)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "196324-196661; hash=a0d290762a49975ffb60824365f91790d48616139ba57cf95cf53b62e0f27cc0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Nemunas: 0.68"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skalviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Nemunas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Skalvių gentinė kultūra lokalizuojama Nemuno ir Jūros santakos rajone; tai netiesiogiai, bet pakankamai sieja juos su Nemunu."
   pagrindžia:
-    - c-013
+    - c-85205
 
 <a id="claim-t-89221"></a>
-- t-011
+- t-013
   global_id: t-89221
-  teiginys: 'Pereinamosiomis tarmėmis laikomi ir nadruviai, ypač skalviai.'
+  teiginys: "Pereinamosiomis tarmėmis laikomi ir nadruviai, ypač skalviai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "11892-12293; hash=a9ea29301fb0173409268b9364825afb6d1ffffef51f5c6e0b843e9e753c6913; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kuršiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Skalviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kuršiai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skalviai\" parinktas kaip owner_note_path. Targetas \"Kuršiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
-    - c-010
+    - c-85199
 
 <a id="claim-t-89222"></a>
-- t-012
+- t-014
   global_id: t-89222
-  teiginys: 'Dusburgietis Skalvos nusiaubimą aiškina kaip brolių kerštą skalviams už ankstesnį nusikaltimą.'
+  teiginys: "Dusburgietis Skalvos nusiaubimą aiškina kaip brolių kerštą skalviams už ankstesnį nusikaltimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "494189-494923; hash=6b6b8a645735a311dd6f39d6acb5502fb8ecc1800e0eacd803401ea92564b995; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Skalva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Skalviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Skalva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skalviai\" parinktas kaip owner_note_path. Targetas \"Skalva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-85196
 
 <a id="claim-t-89223"></a>
-- t-013
+- t-005
   global_id: t-89223
-  teiginys: 'Skalvos centras buvo Ragainė (dab.'
+  teiginys: "Skalvos centras buvo Ragainė (dab."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "195718-196028; hash=0db63b56a64bf4947c7b5d6e9b5359acd0eb48cf4aa4122351f8da2fb5b2d41e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ragainė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Skalviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Ragainė: mention_match, place, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skalviai\" parinktas kaip owner_note_path. Targetas \"Ragainė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
-    - c-001
+    - c-85190
 
 <a id="claim-t-89224"></a>
-- t-014
+- t-007
   global_id: t-89224
-  teiginys: 'Po Karaliaučiaus pastatymo nadruviai, skalviai ir sūduviai įsiveržė į Sembą, plėšė bei degino kraštą ir grįždami pastatė Vėluvos pilį.'
+  teiginys: "Po Karaliaučiaus pastatymo nadruviai, skalviai ir sūduviai įsiveržė į Sembą, plėšė bei degino kraštą ir grįždami pastatė Vėluvos pilį."
+  semantiniai_rysiai: "Skalviai puolė Semba (0.93); Skalviai pastatė Vėluva (0.88); Skalviai buvo priešas Sembai (0.71)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "352142-352881; hash=25672d73b2bb8c3bbf055b7ccfa26890d09f1e2f3b15366f5e09e3ddbe9d5cd7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Semba: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skalviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Semba: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Skalviai minimi tarp genčių, kurios su kariuomene įsibrovė į Sembos žemę."
   pagrindžia:
-    - c-005
+    - c-85194
 
 <a id="claim-t-183897"></a>
-- t-015
+- t-016
   global_id: t-183897
-  teiginys: 'Skalviai laivais priplaukė Labguvos pilį, apyaušryje ją užėmė, išžudė vyrus, sudegino pilį, o moteris ir vaikus išsivedė.'
+  teiginys: "Skalviai laivais priplaukė Labguvos pilį, apyaušryje ją užėmė, išžudė vyrus, sudegino pilį, o moteris ir vaikus išsivedė."
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Skalviai užėmė Labguva (0.98); Skalviai puolė Labguva (0.86)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "492117-492602; hash=2e8dd04842d7728b6e5fd0952df2e2e30da85ee3613e503c423800ce8a00467d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Labguva: 0.98"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skalviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Labguva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad skalviai užėmė Labguvą."
   pagrindžia:
-    - c-003
+    - c-85192
 
 <a id="claim-t-183898"></a>
-- t-016
+- t-017
   global_id: t-183898
-  teiginys: 'Ordino broliai kariavo daug karų su skalviais, o pasitraukus skalvių vadams paprasti žmonės pasidavė krikščionių tikėjimui.'
+  teiginys: "Ordino broliai kariavo daug karų su skalviais, o pasitraukus skalvių vadams paprasti žmonės pasidavė krikščionių tikėjimui."
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "501194-501775; hash=847be5bc4e04d6d1c12f6beb0bd5079fbb4686d7f139e07fd0394badd8138dbd; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Skalva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Skalviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Skalva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skalviai\" parinktas kaip owner_note_path. Targetas \"Skalva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-85198
+
+<a id="claim-t-192455"></a>
+- t-018
+  global_id: t-192455
+  teiginys: "Narbutas Merkinės seniūnijos kaimiečius laikė senovės skalvių palikuonimis, nuo seno gyvenusiais tikrosios Lietuvos plotuose."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Skalviai gyveno Lietuva (0.86)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "392078-392887; hash=1145ab9e67f8cd7aad8a47e97bead1c84ab2c989440d689c2b0f79d498b2d960; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Lietuva: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skalviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad skalviai nuo seno gyveno tikrosios Lietuvos plotuose."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175249
+
+<a id="claim-t-194362"></a>
+- t-019
+  global_id: t-194362
+  teiginys: "Apie Labguvos pilies sunaikinimą Sitai išgirdę, skalviai sunerimo iki širdies gelmių, o susirinkę į sueigą genties vyresnieji [seniores populi] pradėjo tartis, kaip atkeršyti."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "492117-492602; hash=2e8dd04842d7728b6e5fd0952df2e2e30da85ee3613e503c423800ce8a00467d; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-85192
+
+<a id="claim-t-194363"></a>
+- t-020
+  global_id: t-194363
+  teiginys: "Apie tai, kaip buvo apleista Skalvos žemė Daug kitų karų broliai kariavo su skalviais, ir būtų atkaru aprašinėti kiekvieną."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "501194-501775; hash=847be5bc4e04d6d1c12f6beb0bd5079fbb4686d7f139e07fd0394badd8138dbd; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-85198
 - susijęs iš [[objektai/asmenys/Albrechtas iš Hageno.md#claim-t-60004|Albrechtas iš Hageno]]: Albrechtas iš Hageno su broliu Konradu ir ginklanešiais gynė Skalvių pilį nuo lietuvių karaliaus karių.
 - susijęs iš [[objektai/asmenys/Konradas (Skalvių pilies gynėjas).md#claim-t-60478|Konradas (Skalvių pilies gynėjas)]]: Brolis Konradas su Albrechtu iš Hageno ir ginklanešiais apgynė Skalvių pilį nuo lietuvių karaliaus karių.
 - susijęs iš [[objektai/asmenys/Meinhardas Saksas iš Kverfurto.md#claim-t-59874|Meinhardas Saksas iš Kverfurto]]: 1289 m. balandžio 23 d. Meinhardas Saksas iš Kverfurto su kariuomene patraukė į Skalvą ir Nemuno pakrantėje pastatė Landeshutės pilį.
@@ -237,6 +475,7 @@ Skalviai buvo Nemuno žemupio gentis, gyvenusi abipus Nemuno, o jų teritorijos 
     Sešuvies ir Jūros santaką, o pietuose ėjo iki Nemuno—Priegliaus takoskyros. XIII a.
     Skalvos centras buvo Ragainė (dab. Nemanas)  kair. Nemuno krante.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -253,6 +492,7 @@ Skalviai buvo Nemuno žemupio gentis, gyvenusi abipus Nemuno, o jų teritorijos 
     p. 18, žemėl. Nr. 9; plg. Pakarklis P. Klaipėdos srities gyventojų tautybė..., p. 173; SŽM,
     žemėl.).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -274,12 +514,14 @@ Skalviai buvo Nemuno žemupio gentis, gyvenusi abipus Nemuno, o jų teritorijos 
 
       469  D.— Ramige.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
     - t-015
+    - t-018
 
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -300,6 +542,7 @@ Skalviai buvo Nemuno žemupio gentis, gyvenusi abipus Nemuno, o jų teritorijos 
 
      236 (229).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -322,6 +565,7 @@ Skalviai buvo Nemuno žemupio gentis, gyvenusi abipus Nemuno, o jų teritorijos 
     brautis į Nadruvos žemę. Pastatę šią pilį, jie sugrįžo pas savuosius, palikę pilyje Tirską330
     bei jo sūnų Maudelį331 su daugybe ginklanešių.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -339,6 +583,7 @@ Skalviai buvo Nemuno žemupio gentis, gyvenusi abipus Nemuno, o jų teritorijos 
     Nemuno pusėse,  ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar
     yra Ragainės pilis, ją užpuolė468. Kai kurie, atrėmę kopėčias, stengėsi užkopti ant sienų.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -359,6 +604,7 @@ Skalviai buvo Nemuno žemupio gentis, gyvenusi abipus Nemuno, o jų teritorijos 
     su didele kariuomene, o magistras ir broliai, šitai pastebėję, slaptai paspendė pasalas,
     užpuolė žygiuojančią skalvių kariuomenę, daug jų nukovė, o kitus privertė bėgti.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -376,6 +622,7 @@ Skalviai buvo Nemuno žemupio gentis, gyvenusi abipus Nemuno, o jų teritorijos 
     prie Nemuno žemupio siejęsi su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų,
     žemaičių (žemutinių lietuvių) ir latvių13.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -395,12 +642,14 @@ Skalviai buvo Nemuno žemupio gentis, gyvenusi abipus Nemuno, o jų teritorijos 
     kad jų kariuomenės vadai, vadovavę jiems karo metais, yra pasitraukę, irgi pasidavė
     krikščionių tikėjimui.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
     - t-016
+    - t-019
 
 - c-010
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -412,6 +661,7 @@ Skalviai buvo Nemuno žemupio gentis, gyvenusi abipus Nemuno, o jų teritorijos 
       Šiuo metu nadruviai ir skalviai kalbos požiūriu priskiriami prie prūsų, t. y. vakarinių
     baltų, kuriais laikytini ir kuršiai.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -429,6 +679,7 @@ Skalviai buvo Nemuno žemupio gentis, gyvenusi abipus Nemuno, o jų teritorijos 
     yra Ragainės pilis, ją užpuolė468. Kai kurie, atrėmę kopėčias, stengėsi užkopti ant sienų.
     Kai skalviai ryžosi priešintis, brolių lankininkai, leisdami strėlę po strėlės, juos nustūmė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -444,6 +695,7 @@ Skalviai buvo Nemuno žemupio gentis, gyvenusi abipus Nemuno, o jų teritorijos 
     vietovardžiai, kilę iš lietuviškų žodžių kiemas, upė, kalnas, paplitę į rytus nuo Deimenos
     ir Alnos (kair.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -459,11 +711,296 @@ Skalviai buvo Nemuno žemupio gentis, gyvenusi abipus Nemuno, o jų teritorijos 
     7—9 ir kt.; Engei K. und La Baume W., Kulturen..., p. 262, 269, 271, 274, 197; tų pačių,
     Atlas..., 1, žemėlapiai 8, 10—12; Таутавичюс A. 3., Балтские племена..., с. 48).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
+- c-014
+  santrauka: 'Narbutas Merkinės seniūnijos kaimiečius laikė senovės skalvių palikuonimis, nuo seno gyvenusiais tikrosios Lietuvos plotuose.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Bū-
+    lent tokiuose kraštuose radome daugiau negu tikėjomės
+    215
+
+    ## Puslapis 213
+
+    palankiausios dirvos lietuvių tautos praėjusiems amžiams
+    arba senienoms, išlikusiems gyviems paminklams tyrinėti;
+    prietarai, įpročiai, papročiai, namų manieros, kalba, nau­
+    dojami įrankiai, drabužiai, padavimai, pasakojimai, šne­
+    kos, dainos, dialektiniai kalbų skirtumai ir viskas liudija
+    lietuvių bruožų originalumą. Atsiskyrę dideliuose miškuo­
+    se, tarp smėlio kalvų, neįžengiamų pelkių, tarp didelių
+    ežerų kaimiečiai, kaip Merkinės seniūnijoje, yra tikri pa­
+    likuonys senovės skalvių genties, kuri nuo seno apsigy­
+    veno dideliuose tikrosios Lietuvos plotuose. Čia jau ne­
+    kalbu apie ištisas lietuvių gyvenamas apskritis, esančias
+    lietuviams priklausančių žemių viduryje, kur išliko gryna
+    kalba ir daug kitų tautiškumo bruožų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-017
+
+## Citatos
+
+- id: c-85190
+  citata_originali: |
+    198  D.— Scalowia, in qua Scalowite, Jer.— Schalowen. Teritorija abipus Nemuno
+    žemupio — rytuose maždaug  iki  Viešvilės, vakaruose  iki Atmatos, šiaurėje siekė
+    Sešuvies ir Jūros santaką, o pietuose ėjo iki Nemuno—Priegliaus takoskyros. XIII a.
+    Skalvos centras buvo Ragainė (dab. Nemanas)  kair. Nemuno krante.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89223
+
+- id: c-85191
+  citata_originali: |
+    Į šiaurę nuo Nemuno žiočių, Minijos
+    žemupyje, gyveno skalviai, lamatiečiai, dar toliau  į šiaurę, Klaipėdos apylinkėse (dab.
+    Lietuvos TSR šiaurės vakarų kampas), prasidėjo kuršių gyvenama teritorija (LAA, t. 3,
+    p. 18, žemėl. Nr. 9; plg. Pakarklis P. Klaipėdos srities gyventojų tautybė..., p. 173; SŽM,
+    žemėl.).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89215
+
+- id: c-85192
+  citata_originali: |
+    Apie Labguvos pilies sunaikinimą
+
+       Sitai išgirdę, skalviai sunerimo iki širdies gelmių, o susirinkę į sueigą genties vyresnieji
+    [seniores populi] pradėjo tartis, kaip atkeršyti. Vienu balsu visi nusprendė pasiųsti į žygį
+    400 rinktinių vyrų, kurie, laivais priplaukę brolių pilį Labguvą470, staiga ją apyaušryje
+    užėmė, kai žmonės ilsėjosi savo guoliuose, išžudė ten visus vyrus, sudegino  pilį, o
+    moteris ir vaikus išsivedė su savimi drauge su didžiausiu grobiu.
+
+
+
+      469  D.— Ramige.
+  citata_rodoma: "Apie Labguvos pilies sunaikinimą\n\n   Sitai išgirdę, skalviai sunerimo iki širdies gelmių, o susirinkę į sueigą genties vyresnieji\n[seniores populi] pradėjo tartis, kaip atkeršyti. Vienu balsu visi nusprendė pasiųsti į žygį\n400 rinktinių vyrų, kurie, laivais priplaukę brolių pilį Labguvą470, staiga ją apyaušryje\nužėmė, kai žmonės ilsėjosi savo guoliuose, išžudė ten visus vyrus, sudegino  pilį, o\nmoteris ir vaikus išsivedė su savimi drauge su didžiausiu grobiu.\n\n\n\n  469  D."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89219
+    - t-183897
+    - t-194362
+
+- id: c-85193
+  citata_originali: |
+    Apie Ragainės ir Skalvių pilių pastatymą
+
+      1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti
+    krikščionių gyvenamus plotus  ir  padidinti Prūsijos žemes, patraukė švento Jurgio
+    kankinio dieną (balandžio 23) su galybe karių  į skalvių žemę ir dievo garbei bei šlovei
+    ant vienos kalvos Nemuno pakrantėje pastatė pilį, vardu Landeshutė, o lotyniškai šitai
+    reiškia žemėsauga, tačiau dabar ji visų vadinama nuo šalimais tekančio upelio Ragaine,
+    palikdamas ten jai ginti iš Austrijos kilusį brolį Bertoldą, vadinamą Briuhavenu, komtūrą,
+    su 40 brolių ir šimtu rinktinių ginklanešių. Neilgai trukus prie Nemuno, šiek tiek žemiau,
+    pastatė Skalvių pilį528, kad turėtų kur gyventi skalviai, atsivertę į Kristaus tikėjimą.
+
+
+
+
+     236 (229).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89212
+    - t-89217
+
+- id: c-85194
+  citata_originali: |
+    73 (72). Apie Sembos žemės nuniokojimą ir Vėluvos pilies pastatymą
+
+       Tais pačiais metais, kai buvo pastatytas Karaliaučius, labai įtūžo kaimyninės nadruvių,
+    skalvių  ir sūduvių gentys už tai, kad sembai pasidavė tikėjimui  ir broliams (jie mat
+    būgštavo, kad dėl tos priežasties ir jiems teksią pasiduoti tikėjimui, kaip ir patvirtino
+    tolesnė įvykių eiga), todėl, sutelkę galingą kariuomenę, įsibrovė į Sembos žemę, piešdami
+    ir degindami; daug žmonių paėmė  į nelaisvę  ir nukovė, o grįždami atgal, susimanė
+    pastatyti pilį Vėluvoje329, norėdami sutrukdyti broliams ir sembams netikėtai ir be vargo
+    brautis į Nadruvos žemę. Pastatę šią pilį, jie sugrįžo pas savuosius, palikę pilyje Tirską330
+    bei jo sūnų Maudelį331 su daugybe ginklanešių.
+  citata_rodoma: "Apie Sembos žemės nuniokojimą ir Vėluvos pilies pastatymą\n\n   Tais pačiais metais, kai buvo pastatytas Karaliaučius, labai įtūžo kaimyninės nadruvių,\nskalvių  ir sūduvių gentys už tai, kad sembai pasidavė tikėjimui  ir broliams (jie mat\nbūgštavo, kad dėl tos priežasties ir jiems teksią pasiduoti tikėjimui, kaip ir patvirtino\ntolesnė įvykių eiga), todėl, sutelkę galingą kariuomenę, įsibrovė į Sembos žemę, piešdami\nir degindami; daug žmonių paėmė  į nelaisvę  ir nukovė, o grįždami atgal, susimanė\npastatyti pilį Vėluvoje329, norėdami sutrukdyti broliams ir sembams netikėtai ir be vargo\nbrautis į Nadruvos žemę. Pastatę šią pilį, jie sugrįžo pas savuosius, palikę pilyje Tirską330\nbei jo sūnų Maudelį331 su daugybe ginklanešių."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89224
+
+- id: c-85195
+  citata_originali: |
+    182 (177). Apie Ragainės pilies užkariavimą
+
+       Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių  ir
+    tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus,  į skalvių žemę, esančią abiejose
+    Nemuno pusėse,  ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar
+    yra Ragainės pilis, ją užpuolė468. Kai kurie, atrėmę kopėčias, stengėsi užkopti ant sienų.
+  citata_rodoma: "Apie Ragainės pilies užkariavimą\n\n   Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių  ir\ntūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus,  į skalvių žemę, esančią abiejose\nNemuno pusėse,  ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar\nyra Ragainės pilis, ją užpuolė468. Kai kurie, atrėmę kopėčias, stengėsi užkopti ant sienų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89214
+
+- id: c-85196
+  citata_originali: |
+    Apie Skalvos žemės nusiaubimą
+
+      Kadangi lengvai pelnomas atleidimas skatina dar daugiau nusidėti, reikėjo, kad skalviai
+    už šitokį akiplėšišką nusikaltimą gautų sunkią bausmę, antraip jie  ir ateityje galėtų
+    mėginti šitaip nusižengti. Tad magistras  ir broliai, norėdami atkeršyti, subūrė stiprią
+    kariuomenę, kuri, įsibrovusi  į Skalvos žemę, nusiaubė ją skersai ir išilgai, plėšdama ir
+    degindama, toje jos dalyje, kuri susisiekia su Prūsijos žeme471, daug žmonių išžudė, o
+    moteris ir vaikus surištus išsivarė. Tuo metu Stinigutas472, skalvių vadas, ėmė juos vytis
+    su didele kariuomene, o magistras ir broliai, šitai pastebėję, slaptai paspendė pasalas,
+    užpuolė žygiuojančią skalvių kariuomenę, daug jų nukovė, o kitus privertė bėgti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89222
+    - t-89213
+
+- id: c-85197
+  citata_originali: |
+    Kol kas nepakankamai aiški baltiškųjų galindų  ir
+    Sasnos sričių genezė. Pereinamosiomis tarmėmis laikomi  ir nadruviai, ypač skalviai.
+    Materialinės kultūros požiūriu nadruviai, manoma, buvę artimesni prūsams, o skalviai
+    prie Nemuno žemupio siejęsi su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų,
+    žemaičių (žemutinių lietuvių) ir latvių13.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89218
+
+- id: c-85198
+  citata_originali: |
+    Apie tai, kaip buvo apleista Skalvos žemė
+
+      Daug kitų karų broliai kariavo su skalviais, ir būtų atkaru aprašinėti kiekvieną. Kai
+    galingesnieji šios žemės žmonės, tokie, kaip viešpačiai [domini] Surbantas, Svisdeta
+    ir Surdeta, pamatė, jog dievas ant jų baisingai užsirūstinęs, o broliams nuostabiai
+    palankus, jie, nedrįsdami ilgiau dievo galybei priešintis, paliko tėvonijas ir vienas po
+    kito patraukė pas brolius su visais savo namais ir šeimyna. Paprasti žmonės, išgirdę,
+    kad jų kariuomenės vadai, vadovavę jiems karo metais, yra pasitraukę, irgi pasidavė
+    krikščionių tikėjimui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89216
+    - t-183898
+    - t-194363
+
+- id: c-85199
+  citata_originali: |
+    Pereinamosiomis tarmėmis laikomi  ir nadruviai, ypač skalviai.
+    Materialinės kultūros požiūriu nadruviai, manoma, buvę artimesni prūsams, o skalviai
+    prie Nemuno žemupio siejęsi su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų,
+    žemaičių (žemutinių lietuvių) ir latvių13.
+      Šiuo metu nadruviai ir skalviai kalbos požiūriu priskiriami prie prūsų, t. y. vakarinių
+    baltų, kuriais laikytini ir kuršiai.
+  citata_rodoma: "Pereinamosiomis tarmėmis laikomi  ir nadruviai, ypač skalviai.\nMaterialinės kultūros požiūriu nadruviai, manoma, buvę artimesni prūsams, o skalviai\nprie Nemuno žemupio siejęsi su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų,\nžemaičių (žemutinių lietuvių) ir latvių13.\n  Šiuo metu nadruviai ir skalviai kalbos požiūriu priskiriami prie prūsų, t."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89221
+    - t-89218
+
+- id: c-85201
+  citata_originali: |
+    Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių  ir
+    tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus,  į skalvių žemę, esančią abiejose
+    Nemuno pusėse,  ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar
+    yra Ragainės pilis, ją užpuolė468. Kai kurie, atrėmę kopėčias, stengėsi užkopti ant sienų.
+    Kai skalviai ryžosi priešintis, brolių lankininkai, leisdami strėlę po strėlės, juos nustūmė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89217
+
+- id: c-85204
+  citata_originali: |
+    Savo ruožtu dar XIX  a. M. Tepenas, remdamasis  įvairiais  rašytiniais  šaltiniais,
+    priėjo išvadą, kad skalviai ir nadruviai buvę lietuviai9. A. Becenbergeris nustatė, kad
+    vietovardžiai, kilę iš lietuviškų žodžių kiemas, upė, kalnas, paplitę į rytus nuo Deimenos
+    ir Alnos (kair.
+  citata_rodoma: "Savo ruožtu dar XIX  a. M. Tepenas, remdamasis  įvairiais  rašytiniais  šaltiniais,\npriėjo išvadą, kad skalviai ir nadruviai buvę lietuviai9."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89211
+
+- id: c-85205
+  citata_originali: |
+    Archeologijos duomenys rodo, jog skalvių gentinė kultūra buvusi ryški (ypač Nemuno
+    ir Jūros santakos rajone) nuo mūsų eros pradžios (LAA, 3, p. 10, 17—18 ir žemėlapiai
+    7—9 ir kt.; Engei K. und La Baume W., Kulturen..., p. 262, 269, 271, 274, 197; tų pačių,
+    Atlas..., 1, žemėlapiai 8, 10—12; Таутавичюс A. 3., Балтские племена..., с. 48).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89220
+
+- id: c-175249
+  citata_originali: |
+    Bū-
+    lent tokiuose kraštuose radome daugiau negu tikėjomės
+    215
+
+    ## Puslapis 213
+
+    palankiausios dirvos lietuvių tautos praėjusiems amžiams
+    arba senienoms, išlikusiems gyviems paminklams tyrinėti;
+    prietarai, įpročiai, papročiai, namų manieros, kalba, nau­
+    dojami įrankiai, drabužiai, padavimai, pasakojimai, šne­
+    kos, dainos, dialektiniai kalbų skirtumai ir viskas liudija
+    lietuvių bruožų originalumą. Atsiskyrę dideliuose miškuo­
+    se, tarp smėlio kalvų, neįžengiamų pelkių, tarp didelių
+    ežerų kaimiečiai, kaip Merkinės seniūnijoje, yra tikri pa­
+    likuonys senovės skalvių genties, kuri nuo seno apsigy­
+    veno dideliuose tikrosios Lietuvos plotuose. Čia jau ne­
+    kalbu apie ištisas lietuvių gyvenamas apskritis, esančias
+    lietuviams priklausančių žemių viduryje, kur išliko gryna
+    kalba ir daug kitų tautiškumo bruožų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192455
 
 ## Ryšiai
 - Priešai: [[objektai/grupes/Sembai]]
@@ -475,5 +1012,5 @@ Skalviai buvo Nemuno žemupio gentis, gyvenusi abipus Nemuno, o jų teritorijos 
 - Skalviai apgulė [[objektai/vietos/Bysleida]]
 - Skalviai užėmė [[objektai/vietos/Labguva]]
 - Skalviai surengė žygį į [[objektai/vietos/Labguva]]
-- Skalviai gyveno [[objektai/vietos/Minija]], [[objektai/vietos/Nemunas]], [[objektai/vietos/Skalvių pilis|Skalvių pilis (pilis, XIII a.)]]
+- Skalviai gyveno [[objektai/vietos/Lietuva]], [[objektai/vietos/Minija]], [[objektai/vietos/Nemunas]], [[objektai/vietos/Skalvių pilis|Skalvių pilis (pilis, XIII a.)]]
 - Skalviai priklausė [[objektai/grupes/Baltai]], [[objektai/grupes/Lietuviai]]

@@ -17,6 +17,18 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Mozūrų kunigaikštis Henrikas
 
@@ -29,9 +41,23 @@ periodo_grupes:
 <a id="claim-t-34819"></a>
 - t-001
   global_id: t-34819
-  teiginys: '1392 m. Mozūrų kunigaikštis Henrikas Ritesverderyje vedė Ringailę.'
+  teiginys: "1392 m. Mozūrų kunigaikštis Henrikas Ritesverderyje vedė Ringailę."
+  semantiniai_rysiai: "Mozūrų kunigaikštis Henrikas vedė Ringailė (0.95); Mozūrų kunigaikštis Henrikas buvo valdovas Mozūrija (0.85)"
+  temporaliniai_duomenys: "įvykio data: 1392 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "39488-39596; hash=c07a2e5d991d041e0581ec3b79567c05c380db664af685934a994ffc099ae2cd; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "vede -> Ringailė: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mozūrų kunigaikštis Henrikas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Ringailė: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Henrikas vedė Ringailę."
   pagrindžia:
-    - c-001
+    - c-36044
 - susijęs iš [[objektai/asmenys/Henrikas (Mozūrų kunigaikštis).md#claim-t-63619|Henrikas (Mozūrų kunigaikštis)]]: Lenkijai atsidūrus sunkioje padėtyje, Mozūrų kunigaikštis Henrikas išvyko į Prūsus ir rado Vytautą Rittersverderyje.
 ## Reikšmingi paminėjimai
 
@@ -43,11 +69,26 @@ periodo_grupes:
     kitas Mozūrijos kunigaikštis Henrikas. Ji gavo krikšte
     Elžbietos vardą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-36044
+  citata_originali: |
+    1392 m. Ringailę vedė Ritesverderyje
+    kitas Mozūrijos kunigaikštis Henrikas. Ji gavo krikšte
+    Elžbietos vardą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-34819
 
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Ringailė]]

@@ -10,6 +10,18 @@ tags:
   - mūšis
   - pinigai
   - sąvoka
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # emyras
 
@@ -22,23 +34,51 @@ Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai. T
 <a id="claim-t-42448"></a>
 - t-001
   global_id: t-42448
-  teiginys: 'Krymo emyro Edygos kariai sudarė dalį totorių pajėgų.'
+  teiginys: "Krymo emyro Edygos kariai sudarė dalį totorių pajėgų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "217119-217419; hash=41a4ab9bc5ccba646c997209fd6583b6a46792023ac99c1883cc2f9c840383a7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Edyga: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "emyras: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Edyga: mention_match, person, gap=6"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"emyras\" parinktas kaip owner_note_path. Targetas \"Edyga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-45512
 
 <a id="claim-t-42449"></a>
 - t-002
   global_id: t-42449
-  teiginys: 'Visoje Ordoje garsus emyras Edigėjus padrąsino chaną, o derybos iš karto prasidėjo su Edigėjumi.'
+  teiginys: "Visoje Ordoje garsus emyras Edigėjus padrąsino chaną, o derybos iš karto prasidėjo su Edigėjumi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "217420-217650; hash=7584a4c7dc873d4b907101dd284000f2fab6e268cac0bac6826a65cc8e17d887; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
+    - c-44163
 
 <a id="claim-t-183709"></a>
 - t-003
   global_id: t-183709
-  teiginys: 'Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai.'
+  teiginys: "Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "216952-217313; hash=c2f027ad72932759acad970d3dae3a86a81c823d9cae659d977f5a949cced2d1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Edyga: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "emyras: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Edyga: mention_match, person, gap=6"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"emyras\" parinktas kaip owner_note_path. Targetas \"Edyga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-167097
 - susijęs iš [[objektai/daiktai/Vytauto ženklas.md#claim-t-183690|Vytauto ženklas]]: Prieš mūšį Vytautas iš chano Timūro Kutluko tarsi reikalavo Ordos pinigus žymėti Vytauto ženklu.
 - susijęs iš [[objektai/daiktai/Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos.md#claim-t-40805|Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos]]: Žasto, dilbio, kelio ir blauzdos apsaugos datuojamos XIV a. pabaiga ir XV a.
 - susijęs iš [[objektai/daiktai/Žasto, dilbio, kelio ir blauzdos apsaugos.md#claim-t-39319|Žasto, dilbio, kelio ir blauzdos apsaugos]]: Žasto, dilbio, kelio ir blauzdos apsaugos yra XIV a. pabaigos-XV a. rekonstrukcija.
@@ -61,6 +101,7 @@ Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai. T
     sino chaną, derybos iš
     karto prasidėjo su Edigėjumi.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -83,6 +124,7 @@ Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai. T
     siuntė Vytautui daug galvijų, jaučių, avių,
     sveikino jį.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -110,8 +152,77 @@ Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai. T
     tarsi reikalavęs pavaldumo - visos Ordos
     pinigus žymėti Vytauto ženklu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-44163
+  citata_originali: |
+    Taip buvo delsiama, kol atvyko
+    visoje Ordoje garsus kunigaikštis - emyras
+
+    Žasto, dilbio, kelio ir blauz-
+    dos apsaugos. XIV a. pabaiga-
+    xv a. Rekonstrukcija.
+
+    Edigėjus ir padrą-
+    sino chaną, derybos iš
+    karto prasidėjo su Edigėjumi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-42449
+
+- id: c-45512
+  citata_originali: |
+    Totorių pajėgos
+    Aukso ordos chano Timūr-Kutluko,
+    Krymo emyro Edygos kariai.
+
+    Mūšis
+
+    Pokalbyje su chanu prieš mūšį Vytautas
+    tarsi reikalavęs pavaldumo - visos Ordos
+    pinigus žymėti Vytauto ženklu. Timūr-
+    Kutlukas, paprašęs trijų dienų pagalvoti,
+    siuntė Vytautui daug galvijų, jaučių, avių,
+    sveikino jį.
+  citata_rodoma: "Totorių pajėgos\nAukso ordos chano Timūr-Kutluko,\nKrymo emyro Edygos kariai.\n\nMūšis\n\nPokalbyje su chanu prieš mūšį Vytautas\ntarsi reikalavęs pavaldumo - visos Ordos\npinigus žymėti Vytauto ženklu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-42448
+
+- id: c-167097
+  citata_originali: |
+    Lietuvos jungtinės pajėgos
+
+    Lietuviai, žemaičiai, LDK rusų žemių ku-
+    nigaikščiai, Tochtamišo totoriai, talkinin-
+    kai iš Lenkijos, Kryžiuočių ordino kariai,
+    moldavai.
+
+    Totorių pajėgos
+    Aukso ordos chano Timūr-Kutluko,
+    Krymo emyro Edygos kariai.
+
+    Mūšis
+
+    Pokalbyje su chanu prieš mūšį Vytautas
+    tarsi reikalavęs pavaldumo - visos Ordos
+    pinigus žymėti Vytauto ženklu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183709

@@ -16,6 +16,18 @@ tags:
   - vieta
 amziai:
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Rytprūsiai
 
@@ -28,16 +40,56 @@ Tik Rytprūsių lietuvių aktyvistai pasisakė už susijungimą su Lietuva tauti
 <a id="claim-t-69207"></a>
 - t-001
   global_id: t-69207
-  teiginys: 'Tik Rytprūsių lietuvių aktyvistai pasisakė už susijungimą su Lietuva tautinės kultūros ir kalbos išsaugojimo labui, tikėdamiesi gauti gerus postus administracijoje.'
+  teiginys: "Tik Rytprūsių lietuvių aktyvistai pasisakė už susijungimą su Lietuva tautinės kultūros ir kalbos išsaugojimo labui, tikėdamiesi gauti gerus postus administracijoje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "305493-305998; hash=e43e09df88bf8d30c1f37fd55e9d059de32e2344cea65e6d1c8b053e40e3755d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rytprūsiai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rytprūsiai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-24452
 
 <a id="claim-t-69208"></a>
 - t-002
   global_id: t-69208
-  teiginys: 'Antrame tūkstantmetyje pr. Kr. Rytprūsiuose palei žemutinę Vyslą buvo žinomi upių krantų aukštumose įkurti kuopiniai kaimai.'
+  teiginys: "Antrame tūkstantmetyje pr. Kr. Rytprūsiuose palei žemutinę Vyslą buvo žinomi upių krantų aukštumose įkurti kuopiniai kaimai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "279786-279931; hash=27d4eccf22e344d773bfdbc887b23a7de1bc3480a37f064cf81b3523fb71d3dc; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vysla: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rytprūsiai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vysla: mention_match, place, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rytprūsiai\" parinktas kaip owner_note_path. Targetas \"Vysla\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-32402
+
+<a id="claim-t-183630"></a>
+- t-003
+  global_id: t-183630
+  teiginys: "Tik Rytprūsių lietuvių aktyvistai pasisakė už susijungimą su Lietuva tautinės kultūros ir kalbos išsaugojimo labui, tikėdamiesi gauti gerus postus administracijoje."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "305655-306049; hash=f3701f4f6911e4b76f04f7adcfb9458fd07496b1b1f23e786b179f5fb1c5ba99; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rytprūsiai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rytprūsiai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-167022
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175086|Sembai]]: Sembai buvo minimi tarp Rytprūsiuose žinomų vakarinių baltų genčių.
 - susijęs iš [[objektai/asmenys/Jonas Basanavičius.md#claim-t-78004|Jonas Basanavičius]]: Jonas Basanavičius buvo pirmasis 1883 m. Rytprūsiuose pradėto leisti lietuviško mėnraščio „Aušra“ redaktorius.
 - susijęs iš [[objektai/autoriai/P. Pakarklis.md#claim-t-97208|P. Pakarklis]]: P. Pakarklis plėtojo mintį, kad Pavyslio, Rytprūsių ir Lietuvos gyventojus siejo bendra kalba, tikyba ir politinis vienetas.
@@ -93,8 +145,9 @@ Tik Rytprūsių lietuvių aktyvistai pasisakė už susijungimą su Lietuva tauti
     gimą su Lietuva tautinės kultūros ir kalbos išsaugojimo labui, tikėdamiesi
     gauti gerus postus administracijoje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -107,6 +160,7 @@ Tik Rytprūsių lietuvių aktyvistai pasisakė už susijungimą su Lietuva tauti
     Vyslą, jau yra žinomi upių krantų aukštumose įkurti kuopiniai
     kaimai (Haufendoerfer).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -124,11 +178,59 @@ Tik Rytprūsių lietuvių aktyvistai pasisakė už susijungimą su Lietuva tauti
     gauti gerus postus administracijoje. Lietuvai liko sukilimo inscenizacijos
     scenarijus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-24452
+  citata_originali: |
+    Kadangi Maskva visur stengėsi pakenkti
+    Lenkijai, sovietai akcijai irgi neprieštaravo, o jei Lenkija pajudėtų prieš
+    Lietuvą – sovietai sakė neliksią stebėtojai.
+    Klaipėdos krašto lietuviai, ilgus amžius gyvenę veikiami vokiečių kul-
+    tūros, liuteronai, o ne katalikai, politiškai liko ištikimi Vokietijai, todėl pa-
+    tys sukilti nesiruošė. Tik Rytprūsių lietuvių aktyvistai pasisakė už susijun-
+    gimą su Lietuva tautinės kultūros ir kalbos išsaugojimo labui, tikėdamiesi
+    gauti gerus postus administracijoje.
+  citata_rodoma: "Tik Rytprūsių lietuvių aktyvistai pasisakė už susijun-\ngimą su Lietuva tautinės kultūros ir kalbos išsaugojimo labui, tikėdamiesi\ngauti gerus postus administracijoje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-69207
+
+- id: c-32402
+  citata_originali: |
+    Iš antro tūkstantmečio pr. Kr. Rytprūsiuose, palei žemutinę
+    Vyslą, jau yra žinomi upių krantų aukštumose įkurti kuopiniai
+    kaimai (Haufendoerfer).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-69208
+
+- id: c-167022
+  citata_originali: |
+    Klaipėdos krašto lietuviai, ilgus amžius gyvenę veikiami vokiečių kul-
+    tūros, liuteronai, o ne katalikai, politiškai liko ištikimi Vokietijai, todėl pa-
+    tys sukilti nesiruošė. Tik Rytprūsių lietuvių aktyvistai pasisakė už susijun-
+    gimą su Lietuva tautinės kultūros ir kalbos išsaugojimo labui, tikėdamiesi
+    gauti gerus postus administracijoje. Lietuvai liko sukilimo inscenizacijos
+    scenarijus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183630
 
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Sembai]]

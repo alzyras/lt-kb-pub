@@ -15,6 +15,18 @@ tags:
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Du pliki kardai
 
@@ -45,40 +57,89 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-92955"></a>
-- t-001
+- t-006
   global_id: t-92955
-  teiginys: 'Ordino magistras prašė Jogailos ir Vytauto priimti du kardus kaip pagalbą būsimam susirėmimui atvirame lauke.'
+  teiginys: "Ordino magistras prašė Jogailos ir Vytauto priimti du kardus kaip pagalbą būsimam susirėmimui atvirame lauke."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "230042-230417; hash=1e688d38535c0133499e1e196d14b726bdf0c9cc928f5fb9eab44c2c808b2b82; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ginklai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Du pliki kardai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Ginklai: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Du pliki kardai\" parinktas kaip owner_note_path. Targetas \"Ginklai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-14301
 
 <a id="claim-t-92956"></a>
-- t-002
+- t-007
   global_id: t-92956
-  teiginys: 'Du riteriai, pažymėti Vengrijos ir Štetino kunigaikštijos ženklais, atnešė du nuogus kardus.'
+  teiginys: "Du riteriai, pažymėti Vengrijos ir Štetino kunigaikštijos ženklais, atnešė du nuogus kardus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "230042-230417; hash=1e688d38535c0133499e1e196d14b726bdf0c9cc928f5fb9eab44c2c808b2b82; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vengrija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Du pliki kardai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vengrija: mention_match, place, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Du pliki kardai\" parinktas kaip owner_note_path. Targetas \"Vengrija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-14301
 
 <a id="claim-t-92957"></a>
-- t-003
+- t-005
   global_id: t-92957
-  teiginys: 'Du nuogus kardus nešę pasiuntiniai buvo du riteriai su Vengrijos ir Štetino kunigaikštystės ženklais.'
+  teiginys: "Du nuogus kardus nešę pasiuntiniai buvo du riteriai su Vengrijos ir Štetino kunigaikštystės ženklais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "230006-230232; hash=16c91fd287dc8e9372880af6679272fbf75627f88c4a39cd68c8d064faf07d0d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vengrija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Du pliki kardai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vengrija: mention_match, place, gap=55"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Du pliki kardai\" parinktas kaip owner_note_path. Targetas \"Vengrija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-14300
 
 <a id="claim-t-92958"></a>
-- t-004
+- t-009
   global_id: t-92958
-  teiginys: 'Pasiuntiniai pareiškė, kad du kardai buvo atnešti kryžiuočių didžiojo magistro nurodymu.'
+  teiginys: "Pasiuntiniai pareiškė, kad du kardai buvo atnešti kryžiuočių didžiojo magistro nurodymu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "230143-230547; hash=182c25f60ab6b6f84c8d6027102485693c09ecb34bceb37e74195b81f514e050; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Du pliki kardai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Du pliki kardai\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-36715
 
 <a id="claim-t-92959"></a>
-- t-005
+- t-008
   global_id: t-92959
-  teiginys: 'Kryžiuočių didžiojo magistro pasiuntiniai atnešė du kardus ir ragino su jais stoti į atvirą mūšį.'
+  teiginys: "Kryžiuočių didžiojo magistro pasiuntiniai atnešė du kardus ir ragino su jais stoti į atvirą mūšį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "230143-230547; hash=182c25f60ab6b6f84c8d6027102485693c09ecb34bceb37e74195b81f514e050; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ginklai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Du pliki kardai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Ginklai: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Du pliki kardai\" parinktas kaip owner_note_path. Targetas \"Ginklai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
-
+    - c-36715
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -89,8 +150,9 @@ Nenurodyta
     nuogais kardais nešini. Pasiuntiniai pareiškė, kad šituos du
     kardus atnešė kryžiuočių didžiojo magistro liepiami.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -106,8 +168,9 @@ Nenurodyta
     susirėmimui ir su tais ginklais stoti drąsiai į kautynes at­
     viram lauke, bet nesislapstyti giriose, kaip iki šiol.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -125,9 +188,62 @@ Nenurodyta
     maža esą kautynėms lauko, Ordinas sutinkąs kiek pasitraukti
     ir užleisti vietos, tik pageidaująs, kad išlystų iš girios.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
     - t-004
+
+## Citatos
+
+- id: c-14300
+  citata_originali: |
+    Greitai liepė atvesti pasiuntinius. Įėjo Vengrijos
+    ir Štetino kunigaikštijos ženklais pažymėti du riteriai dviem
+    nuogais kardais nešini. Pasiuntiniai pareiškė, kad šituos du
+    kardus atnešė kryžiuočių didžiojo magistro liepiami.
+  citata_rodoma: "Įėjo Vengrijos\nir Štetino kunigaikštijos ženklais pažymėti du riteriai dviem\nnuogais kardais nešini. Pasiuntiniai pareiškė, kad šituos du\nkardus atnešė kryžiuočių didžiojo magistro liepiami."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-92957
+
+- id: c-14301
+  citata_originali: |
+    Įėjo Vengrijos
+    ir Štetino kunigaikštijos ženklais pažymėti du riteriai dviem
+    nuogais kardais nešini. Pasiuntiniai pareiškė, kad šituos du
+    kardus atnešė kryžiuočių didžiojo magistro liepiami. Ordino
+    magistras prašęs priimti tuos du kardu, kaipo pagalbą būsimam
+    susirėmimui ir su tais ginklais stoti drąsiai į kautynes at­
+    viram lauke, bet nesislapstyti giriose, kaip iki šiol.
+  citata_rodoma: "Ordino\nmagistras prašęs priimti tuos du kardu, kaipo pagalbą būsimam\nsusirėmimui ir su tais ginklais stoti drąsiai į kautynes at­\nviram lauke, bet nesislapstyti giriose, kaip iki šiol."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-92955
+    - t-92956
+
+- id: c-36715
+  citata_originali: |
+    Pasiuntiniai pareiškė, kad šituos du
+    kardus atnešė kryžiuočių didžiojo magistro liepiami. Ordino
+    magistras prašęs priimti tuos du kardu, kaipo pagalbą būsimam
+    susirėmimui ir su tais ginklais stoti drąsiai į kautynes at­
+    viram lauke, bet nesislapstyti giriose, kaip iki šiol. Jeigu per
+    maža esą kautynėms lauko, Ordinas sutinkąs kiek pasitraukti
+    ir užleisti vietos, tik pageidaująs, kad išlystų iš girios.
+  citata_rodoma: "Ordino\nmagistras prašęs priimti tuos du kardu, kaipo pagalbą būsimam\nsusirėmimui ir su tais ginklais stoti drąsiai į kautynes at­\nviram lauke, bet nesislapstyti giriose, kaip iki šiol. Jeigu per\nmaža esą kautynėms lauko, Ordinas sutinkąs kiek pasitraukti\nir užleisti vietos, tik pageidaująs, kad išlystų iš girios."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-92959
+    - t-92958

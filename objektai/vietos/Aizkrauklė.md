@@ -9,6 +9,18 @@ atnaujinta: ''
 tags:
   - ežeras
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Aizkrauklė
 
@@ -21,16 +33,30 @@ XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau
 <a id="claim-t-67604"></a>
 - t-001
   global_id: t-67604
-  teiginys: 'XII–XIII a. sąvartoje latvių gyvenama sritis dešiniajame Dauguvos krante driekėsi nuo Aizkrauklės iki Burtnieko ežero.'
+  teiginys: "XII–XIII a. sąvartoje latvių gyvenama sritis dešiniajame Dauguvos krante driekėsi nuo Aizkrauklės iki Burtnieko ežero."
+  semantiniai_rysiai: "Latviai gyveno Dauguva (0.82); Latviai gyveno Latgalija (0.74); Latviai gyveno Vidžemė (0.74)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "332571-333088; hash=bfa880f9cb6ce18ea9f62d2b02b74db970c66f9f0b4e058ce3c015851265d5d6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Dauguva: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Latviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Dauguva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad latviai buvo įsikūrę dešiniajame Dauguvos krante."
   pagrindžia:
-    - c-002
+    - c-67446
 
 <a id="claim-t-67605"></a>
 - t-002
   global_id: t-67605
-  teiginys: 'Aizkrauklė šaltinio rodyklėje tapatinama su buvusia Ašerade.'
+  teiginys: "Aizkrauklė šaltinio rodyklėje tapatinama su buvusia Ašerade."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "839258-839343; hash=144dc43368fe8e587838e4e88d1026532a6b879ef55101446a5a812a653e3c52; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
+    - c-67445
 - susijęs iš [[objektai/ivykiai/Aizkrauklės mūšis (1279 m. kovo 5 d.).md#claim-t-66445|Aizkrauklės mūšis (1279 m. kovo 5 d.)]]: 1279 m. kovo 5 d. Padauguvyje prie Aizkrauklės įvyko mūšis, kuriame abi pusės patyrė nuostolių.
 - susijęs iš [[objektai/ivykiai/Aizkrauklės mūšis (1279 m. kovo 5 d.).md#claim-t-66446|Aizkrauklės mūšis (1279 m. kovo 5 d.)]]: Aizkrauklės pergalė pagal Ordino nuostolius XIII a. buvo antroji po Durbės kautynių.
 - susijęs iš Eilėtoji Livonijos kronika: 1369 m. Algirdas, magistrui ir krašto maršalui išvykus prieš rusus, nuniokojo Aizkrauklės ir Cisegalės žemes.
@@ -54,8 +80,9 @@ XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau
       Akmena (Jūros intakas), u.
       Akmena (Mituvos intakas), u.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -73,8 +100,42 @@ XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau
     žemupį (apie Rygą), Kuršo šiaurinį galą ir visą Latvijos Baltijos
     kranto ruožą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-67445
+  citata_originali: |
+    Aizkrauklė (buv. Ašeradė)
+      Akmena (Jūros intakas), u.
+      Akmena (Mituvos intakas), u.
+  citata_rodoma: "Aizkrauklė (buv. Ašeradė)\n  Akmena (Jūros intakas), u."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67605
+
+- id: c-67446
+  citata_originali: |
+    Latvijos Henrikas juos vadino « Lethi vel Le _t_ ­
+    _th_ igalli», kartą paaiškindamas « qui proprie dicuntur Lethigalli»
+    (X, 3). XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai,
+    kurie jau nuo seniau buvo įsikūrę dešiniajame Dauguvos krante,
+    apimdami dabartinę Latgaliją ir rytinę Vidžemės dalį nuo Aiz­
+    krauklės prie Dauguvos iki Burtnieko ežero. Toliau į vakarus gy­
+    veno suomių-ugrų kiltis lybiai, apimdami abiem pusėm Dauguvos
+    žemupį (apie Rygą), Kuršo šiaurinį galą ir visą Latvijos Baltijos
+    kranto ruožą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67604

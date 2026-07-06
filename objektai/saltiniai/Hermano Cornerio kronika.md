@@ -16,6 +16,18 @@ tags:
   - popiežius
 amziai:
   - 'XI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Hermano Cornerio kronika
 
@@ -26,19 +38,38 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
 ## Teiginiai
 
 <a id="claim-t-88187"></a>
-- t-001
+- t-002
   global_id: t-88187
-  teiginys: 'Michałas Balińskis rašė, kad Gedimino laiško pabaiga prieštarauja Hermano Kornerio teiginiui apie Gedimino ištikimybę tėvų tikėjimui.'
+  teiginys: "Michałas Balińskis rašė, kad Gedimino laiško pabaiga prieštarauja Hermano Kornerio teiginiui apie Gedimino ištikimybę tėvų tikėjimui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "199753-200201; hash=9ae65cb8e897340feae73fda788aeeca9073c6c6a8605be2f2049a4425568638; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gyventi ir mirti savo tėvų tikėjimą išpažindamas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Hermano Cornerio kronika: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Gyventi ir mirti savo tėvų tikėjimą išpažindamas: mention_match, thing, gap=52"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hermano Cornerio kronika\" parinktas kaip owner_note_path. Targetas \"Gyventi ir mirti savo tėvų tikėjimą išpažindamas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-84166
 
 <a id="claim-t-88188"></a>
-- t-002
+- t-001
   global_id: t-88188
-  teiginys: 'Hermano Cornerio kronikoje rašoma, kad Vilniaus miestiečiai buvo palankesni Jogailai negu Kęstučiui.'
+  teiginys: "Hermano Cornerio kronikoje rašoma, kad Vilniaus miestiečiai buvo palankesni Jogailai negu Kęstučiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "106137-106568; hash=ace8fffcd401c55e40ce7ed9f039ccd8bd12ea3fe256efabacf935d8b5701f3b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Hermanas Corneris: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Hermano Cornerio kronika: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Hermanas Corneris: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hermano Cornerio kronika\" parinktas kaip owner_note_path. Targetas \"Hermanas Corneris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
-
+    - c-84167
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -54,6 +85,7 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
     Gediminas buvo prisiekęs, kad nori gyventi ir mirti savo
     tėvų tikėjimą išpažindamas!
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -79,8 +111,52 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
     kito ir tarsi kokį piktadarį nuvarę į
     pilį].
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-84166
+  citata_originali: |
+    Ketvirta, jeigu įsigilinsime į laiško pabaigą, rasime jame
+    aiškiai išreikštą norą priimti krikščionių tikėjimą ir viršesnę
+    popiežiaus valdžią su sąlyga, kad tik niekada neturėtų įsi­
+    pareigojimų Ordinui. Tas pareiškimas prieštarauja Koje-
+    1 a v i č i a u s (p. 272), Hermano Kornerio (Chron. p. 1006),
+    Alberto Krantzo (Wandal. L. VIII, c. 9) teiginiams, esą
+    Gediminas buvo prisiekęs, kad nori gyventi ir mirti savo
+    tėvų tikėjimą išpažindamas!
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88187
+
+- id: c-84167
+  citata_originali: |
+    Wilna, 1. 177.
+    33
+    Žr. Hermano C  o  r  neri o,
+    dominikono, Kroniką, Naruševi­
+    čiau s t. VII, p. 342, kuris byloja:
+    Cives oppidi Vilnae, magis faventes Ja-
+    $il, filio Olgerdi, fratris Keystuti, cu-
+    currerunt unus post alium, ac si furem
+    quemdam insequerentur ad castrum
+    [Vilniaus miesto miestiečiai, labiau
+    palankūs Jogailai - Algirdo, Kęstu­
+    čio brolio, sūnui - subėgę vienas po
+    kito ir tarsi kokį piktadarį nuvarę į
+    pilį].
+  citata_rodoma: "33\nŽr. Hermano C  o  r  neri o, \ndominikono, Kroniką, Naruševi­\nčiau s t. VII, p. 342, kuris byloja: \nCives oppidi Vilnae, magis faventes Ja- \n$il, filio Olgerdi, fratris Keystuti, cu- \ncurrerunt unus post alium, ac si furem \nquemdam insequerentur ad castrum \n[Vilniaus miesto miestiečiai, labiau\npalankūs Jogailai - Algirdo, Kęstu­\nčio brolio, sūnui - subėgę vienas po \nkito ir tarsi kokį piktadarį nuvarę į \npilį]."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88188

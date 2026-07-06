@@ -10,6 +10,18 @@ tags:
   - miestas
   - privilegija
   - ritualas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vilniaus rusinai
 
@@ -22,9 +34,20 @@ Didesnioji Vilniaus miestiečių da­ lis juk buvo gerokai didesnį gyventojų s
 <a id="claim-t-86775"></a>
 - t-001
   global_id: t-86775
-  teiginys: 'Didesnę Vilniaus miestiečių dalį sudarė graikų apeigų tikėjimą išpažinę rusinai.'
+  teiginys: "Didesnę Vilniaus miestiečių dalį sudarė graikų apeigų tikėjimą išpažinę rusinai."
+  semantiniai_rysiai: "Vilniaus rusinai gyveno Vilnius (0.80)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "343175-344012; hash=4439cb09425b9b3e88d23110c2377c799d32b59bbf2fd7487abb728d3ef6b712; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Vilnius: 0.80"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilniaus rusinai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Rusinai apibūdinami kaip didesnioji Vilniaus miestiečių dalis, todėl tiesiogiai siejami su gyvenimu Vilniuje."
   pagrindžia:
-    - c-001
+    - c-82754
 - susijęs iš [[objektai/zodynas/čiornai čiornyje liūdi.md#claim-t-86497|čiornai čiornyje liūdi]]: Vilniaus rusinai ir rusų vienuoliai, žmonių vadinti čiornais, nuo Gedimino laikų turėjo savo vienuolyną.
 ## Reikšmingi paminėjimai
 
@@ -51,11 +74,42 @@ Didesnioji Vilniaus miestiečių da­ lis juk buvo gerokai didesnį gyventojų s
     kakliai Fotijo nuostatų besilaikančių,
     tarp rusinu buvo nemažai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-82754
+  citata_originali: |
+    Šiaip ar taip,
+    bet jokio persekiojimo miesto gyventojai dėl šito niekada ne­
+    buvo patyrę. Įžvalgia savo politika Vytautas, nors skaityda-
+    masis ir su Jogailos siekiais, ir neišvengęs jungimosi su Lenki­
+    ja pasekmių, vis dėlto sugebėjo atsilaikyti kurdamas savus
+    įstatymus ar įsipareigojimus, kurie buvo reikalingi išimtinai
+    Lietuvos interesams ginti. Didesnioji Vilniaus miestiečių da­
+    lis juk buvo gerokai didesnį gyventojų skaičių Lietuvoje su­
+    darę rusinai, išpažįstantys graikų apeigų tikėjimą, todėl Vy­
+    tautas neskubėjo imtis vykdyti tokių privilegijų, kurios būtų
+    80
+    Miesto archyve tų privilegijų nėra li­
+    kę pėdsakų, bet jas mini K o j a ł o-
+    w i c z Miscellanea, p. 44, teigdamas,
+    kad tokia geradarybė pirkliams skir­
+    ta, bet apėjo schizmatikus, kurių, at­
+    kakliai Fotijo nuostatų besilaikančių,
+    tarp rusinu buvo nemažai.
+  citata_rodoma: "Įžvalgia savo politika Vytautas, nors skaityda- \nmasis ir su Jogailos siekiais, ir neišvengęs jungimosi su Lenki­\nja pasekmių, vis dėlto sugebėjo atsilaikyti kurdamas savus \nįstatymus ar įsipareigojimus, kurie buvo reikalingi išimtinai \nLietuvos interesams ginti. Didesnioji Vilniaus miestiečių da­\nlis juk buvo gerokai didesnį gyventojų skaičių Lietuvoje su­\ndarę rusinai, išpažįstantys graikų apeigų tikėjimą, todėl Vy­\ntautas neskubėjo imtis vykdyti tokių privilegijų, kurios būtų\n80\nMiesto archyve tų privilegijų nėra li­\nkę pėdsakų, bet jas mini K o j a ł o- \nw i c z Miscellanea, p. 44, teigdamas, \nkad tokia geradarybė pirkliams skir­\nta, bet apėjo schizmatikus, kurių, at­\nkakliai Fotijo nuostatų besilaikančių, \ntarp rusinu buvo nemažai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86775
 
 ## Ryšiai
 - Vilniaus rusinai gyveno [[objektai/vietos/Vilnius]]

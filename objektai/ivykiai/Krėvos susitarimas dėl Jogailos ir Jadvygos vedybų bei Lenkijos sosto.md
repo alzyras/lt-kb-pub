@@ -14,6 +14,18 @@ tags:
   - sutartis
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Krėvos susitarimas dėl Jogailos ir Jadvygos vedybų bei Lenkijos sosto
 
@@ -48,17 +60,46 @@ Nenurodyta
 <a id="claim-t-186712"></a>
 - t-001
   global_id: t-186712
-  teiginys: 'Krėvos aktu Jogaila įsipareigojo sujungti visas LDK žemes su Lenkija, paleisti lenkų belaisvius, atgauti prarastas žemes, sumokėti Vilhelmui ir priimti katalikų tikėjimą.'
+  teiginys: "Krėvos aktu Jogaila įsipareigojo sujungti visas LDK žemes su Lenkija, paleisti lenkų belaisvius, atgauti prarastas žemes, sumokėti Vilhelmui ir priimti katalikų tikėjimą."
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "435168-435819; hash=7db8d60e404b145021086b9cd3c5e9508cabf7414868757f17555724bda0730a; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Krėvos susitarimas dėl Jogailos ir Jadvygos vedybų bei Lenkijos sosto: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krėvos susitarimas dėl Jogailos ir Jadvygos vedybų bei Lenkijos sosto\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
+    - c-169943
 
 <a id="claim-t-186713"></a>
 - t-002
   global_id: t-186713
-  teiginys: '1386 m. sausio 11 d. Volkovyske Lenkijos atstovai davė Jogailai raštą apie jo patvirtinimą Lenkijos karaliumi ir Jadvygos atidavimą jam į žmonas.'
+  teiginys: "1386 m. sausio 11 d. Volkovyske Lenkijos atstovai davė Jogailai raštą apie jo patvirtinimą Lenkijos karaliumi ir Jadvygos atidavimą jam į žmonas."
+  teiginio_tipas: "faktas"
+  semantiniai_rysiai: "Lenkai paskyrė Jogaila (kunigaikštis, XIV–XV a.) (0.72)"
+  temporaliniai_duomenys: "įvykio data: 1386 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys su data, vieta, veikėjais ir rašto turiniu. Titulas „Lenkijos karalius“ čia perteikiamas kaip rašto patvirtinimo objektas, todėl papildoma atribucija nebūtina."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "435168-435819; hash=7db8d60e404b145021086b9cd3c5e9508cabf7414868757f17555724bda0730a; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  ryšio_patikimumas: "paskyre -> Jogaila (kunigaikštis, XIV–XV a.): 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Lenkijos atstovai davė Jogailai raštą dėl jo patvirtinimo Lenkijos karaliumi; tai artima paskyrimo santykiui."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
-
+    - c-169943
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -76,9 +117,34 @@ Nenurodyta
     taičio AlSėniškio dalyvavimas Jogailos karūnacijoje yra galimas,
     nors kitų šaltinių nepaliudytas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+
+## Citatos
+
+- id: c-169943
+  citata_originali: |
+    Krėvos aklu Jogaila įsipareigojo sujungti visas LDK žemes su Len­
+    kija. paleisti lenkus belaisvius, savo lėšomis ir pastangomis atgauti
+    Lenkijos prarastas žemes, sumokėti 200 tūkst. auksinų kompensa­
+    cijų Jadvygos Sužadėtiniui Vilhelmui už jungtuvių išardymą ir pri­
+    imti su savo dar nekrikštytais broliais Ir valdiniais katalikų tikėji­
+    mą. Savo ruožtu Lenkijos atstovai 1386,1.11 Volkovyske davė Jo­
+    gailai raStą apie jo patvirtinimą Lenkijos karaliumi ir Jadvygos
+    atidavimą jam  žmona.
+    * Vytauto giminaičio ir politinio bendradarbio Jono Algiman-
+    taičio AlSėniškio dalyvavimas Jogailos karūnacijoje yra galimas,
+    nors kitų šaltinių nepaliudytas.
+  citata_rodoma: "Krėvos aklu Jogaila įsipareigojo sujungti visas LDK žemes su Len­\nkija. paleisti lenkus belaisvius, savo lėšomis ir pastangomis atgauti \nLenkijos prarastas žemes, sumokėti 200 tūkst. auksinų kompensa­\ncijų Jadvygos Sužadėtiniui Vilhelmui už jungtuvių išardymą ir pri­\nimti su savo dar nekrikštytais broliais Ir valdiniais katalikų tikėji­\nmą. Savo ruožtu Lenkijos atstovai 1386,1.11 Volkovyske davė Jo­\ngailai raStą apie jo patvirtinimą Lenkijos karaliumi ir Jadvygos \natidavimą jam  žmona."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186712
+    - t-186713

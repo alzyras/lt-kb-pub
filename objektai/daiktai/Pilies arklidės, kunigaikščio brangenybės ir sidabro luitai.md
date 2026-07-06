@@ -17,6 +17,18 @@ tags:
   - pilis
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Pilies arklidės, kunigaikščio brangenybės ir sidabro luitai
 
@@ -49,10 +61,22 @@ Nenurodyta
 <a id="claim-t-87116"></a>
 - t-001
   global_id: t-87116
-  teiginys: 'Apie 1400 m. gaisras, prasidėjęs kunigaikščio arklidėse pilies kieme, sunaikino beveik visą Vilnių.'
+  teiginys: "Apie 1400 m. gaisras, prasidėjęs kunigaikščio arklidėse pilies kieme, sunaikino beveik visą Vilnių."
+  temporaliniai_duomenys: "įvykio data: 1399 m.; įvykio data: 1400 m.; įvykio data: apie 1400 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Citata leidžia teiginį sutrumpinti ir susieti su arklidėmis bei gaisro padariniais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "321550-322029; hash=b11f623b14971b2ef1f5872aa616707cbcb487ffd385a855ed67e79a41abe67e; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pilies arklidės, kunigaikščio brangenybės ir sidabro luitai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=59"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pilies arklidės, kunigaikščio brangenybės ir sidabro luitai\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-83095
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -68,8 +92,28 @@ Nenurodyta
     kaip įkainojo patys Vilniaus gyventojai, siekė iki 60 tūkstan­
     čių sidabro luitų65 • .
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83095
+  citata_originali: |
+    Tačiau šie politiniai kivirčai nebuvo Vilniui tokie skaudūs (1399
+    m.), kaip toji didelė nelaimė, ištikusi kitais metais žiemai bai­
+    giantis. Nuo ugnies, įsiliepsnojusios pilies kieme, kunigaikščio
+    arklidėse, kilo toks baisus gaisras, kad, be Žemutinės pilies ir
+    Katedros, ištisai visas miestas sudegė. Didysis kunigaikštis ne­
+    teko savo žirgų ir brangenybių, o žala, kurią per tai patyrė,
+    kaip įkainojo patys Vilniaus gyventojai, siekė iki 60 tūkstan­
+    čių sidabro luitų65 • .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87116

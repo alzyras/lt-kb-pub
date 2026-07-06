@@ -6,6 +6,18 @@ saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Nalšia
 
@@ -18,16 +30,45 @@ Po Mindaugo žmonos mirties į rūmus atvyko Daumanto, Nalšios kunigaikščio, 
 <a id="claim-t-185329"></a>
 - t-001
   global_id: t-185329
-  teiginys: 'Po Mindaugo žmonos mirties į rūmus atvyko Daumanto, Nalšios kunigaikščio, žmona, kuri buvo karalienės sesuo.'
+  teiginys: "Po Mindaugo žmonos mirties į rūmus atvyko Daumanto, Nalšios kunigaikščio, žmona, kuri buvo karalienės sesuo."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "179847-180271; hash=734db10e166f25aa4a9947914a387a31debe2f6fda6bd5705b428bc429c09164; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krikščionys: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Nalšia: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Krikščionys: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nalšia\" parinktas kaip owner_note_path. Targetas \"Krikščionys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-168690
 
 <a id="claim-t-187620"></a>
 - t-002
   global_id: t-187620
-  teiginys: 'Daumantas buvo Nalšios kunigaikštis ir Mindaugo svainės vyras.'
+  teiginys: "Daumantas buvo Nalšios kunigaikštis ir Mindaugo svainės vyras."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Daumantas (kunigaikštis, XV a.) buvo valdovas Nalšia (0.86)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "93973-94234; hash=4661a63340adb0d830a8842824694d0ba2a5a545209e886ea93f4d392fc59a4d; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_valdovas -> Nalšia: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Daumantas (kunigaikštis, XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Nalšia: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Daumantą kaip Nalšios kunigaikštį."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-002
+    - c-170567
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-184683|Daumantas (kunigaikštis, XV a.)]]: Daumantas buvo Nalšios kunigaikštis, kurio žmona, karalienės sesuo, atvyko į Mindaugo žmonos šermenis.
 - susijęs iš [[objektai/asmenys/Treniota.md#claim-t-90063|Treniota]]: Treniota veikė išvien su Nalšios kunigaikščiu Daumantu, kuris 1263 m. nužudė Mindaugą.
 - susijęs iš Z. Ivinskis, Nalšia: Z. Ivinskio „Nalšia“ 1959 m. nurodyta „Lietuvių enciklopedijos“ XIX tome, 490-491 puslapiuose.
@@ -62,6 +103,7 @@ Po Mindaugo žmonos mirties į rūmus atvyko Daumanto, Nalšios kunigaikščio, 
     dorą, jis pasilaikė ją už
     žmoną.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -79,11 +121,52 @@ Po Mindaugo žmonos mirties į rūmus atvyko Daumanto, Nalšios kunigaikščio, 
     O kai ji atvažiavo gedėti, Mindaugas užsimanė ves­
     ti savo svainę.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-168690
+  citata_originali: |
+    Vargu ar prislėgti
+    krikščionys būtų kada lengviau atsikvėpę, jeigu be­
+    kylančios stabmeldžių galios nebūtų palaužusi vidaus
+    nesantarvė. Tuo laiku mirė Mindaugui žmona; šeimy­
+    nos moterų sutvarkyti ir mirusiai šermenų iškelti į rū­
+    mus atvyko pakviesta Daumanto, Nalšios kunigaikš­
+    čio, žmona, karalienės sesuo.
+    Karalius,
+    turėdamas
+    begė­
+    diškų ketinimų, sulaužė įsta­
+    tymą jėga pamynęs moters
+    dorą, jis pasilaikė ją už
+    žmoną.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185329
+
+- id: c-170567
+  citata_originali: |
+    O jos sesuo buvo ištekėjusi už
+    Daumanto, už Nalšios kunigaikščiol0 . Ir Mindaugas
+    pasiuntė kvieslius į Nalšią pas savo svainę, tarydamas:
+    „Numirė tavo sesuo; atvažiuok savo sesers apraudoti."
+    O kai ji atvažiavo gedėti, Mindaugas užsimanė ves­
+    ti savo svainę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187620
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]]

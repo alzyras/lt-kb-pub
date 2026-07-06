@@ -19,6 +19,18 @@ tags:
 amziai:
   - 'XI'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vytauto jaunystė ir jo veikimas iki 1392 m
 
@@ -31,10 +43,21 @@ amziai:
 <a id="claim-t-31977"></a>
 - t-001
   global_id: t-31977
-  teiginys: 'Z. Ivinskio „Vytauto jaunystė ir jo veikimas iki 1392 m.“ paskelbtas 1930 m. Kaune išleistame rinkinyje „Vytautas Didysis“.'
+  teiginys: "Z. Ivinskio „Vytauto jaunystė ir jo veikimas iki 1392 m.“ paskelbtas 1930 m. Kaune išleistame rinkinyje „Vytautas Didysis“."
+  temporaliniai_duomenys: "įvykio data: iki 1392 m.; įvykio data: 1392 m.; įvykio data: 1930 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "769417-769818; hash=b7be00fb70ecb94af37073b8518d02d217f90515b14f86fee917290c72296950; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vytauto jaunystė ir jo veikimas iki 1392 m: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=64"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto jaunystė ir jo veikimas iki 1392 m\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-33749
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -47,8 +70,27 @@ amziai:
     1392 m._ , rink. _Vytautas Didysis_ , red. P. Šležas, Kaunas 1930, 1-44 p.
     — (”) _Jogailos santykiai su Kęstučiu ir Vytautu iki 1392 m._ , rink.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33749
+  citata_originali: |
+    — Heinl, K. : _Fürst Witold von Li­
+    tauen in seinem Verhältnis zum Deutschen Orden in Preusseu während der
+    Zeit seines Kampfes um sein litauisches Erbe 1382-1401,_ Historische Stu­
+    dien, Heft 165, 1925. — Ivinskis, Z. : _Vytauto jaunystė ir jo veikimas iki
+    1392 m._ , rink. _Vytautas Didysis_ , red. P. Šležas, Kaunas 1930, 1-44 p.
+    — (”) _Jogailos santykiai su Kęstučiu ir Vytautu iki 1392 m._ , rink.
+  citata_rodoma: "— Ivinskis, Z. : _Vytauto jaunystė ir jo veikimas iki\n1392 m._ , rink. _Vytautas Didysis_ , red. P. Šležas, Kaunas 1930, 1-44 p."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31977

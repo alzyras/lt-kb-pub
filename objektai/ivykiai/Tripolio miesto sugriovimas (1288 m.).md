@@ -16,6 +16,18 @@ tags:
   - ordinas
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Tripolio miesto sugriovimas (1288 m.)
 
@@ -44,10 +56,21 @@ Nenurodyta
 <a id="claim-t-62514"></a>
 - t-001
   global_id: t-62514
-  teiginys: 'Popiežiaus Mikalojaus IV antraisiais metais Tripolis buvo sugriautas, o ten gyvenę krikščionys paimti į nelaisvę arba nužudyti.'
+  teiginys: "Popiežiaus Mikalojaus IV antraisiais metais Tripolis buvo sugriautas, o ten gyvenę krikščionys paimti į nelaisvę arba nužudyti."
+  teiginio_tipas: "faktas"
+  semantiniai_rysiai: "Krikščionys gyveno Tripolis (0.92)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "720781-721146; hash=cfe3905a4c108b140d4f2196f740cd37cbaefaa49c0df13592fb7b558c503a51; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Tripolis: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Krikščionys: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Tripolis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad krikščionys gyveno Tripolyje."
   pagrindžia:
-    - c-001
-
+    - c-63193
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -61,8 +84,27 @@ Nenurodyta
     Tripolis, o ten gyvenę krikščionys paimti  į nelaisvę ar nužudyti (Ptol. 24, 20; Mart. p.
     432; Mart. p. 421).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-63193
+  citata_originali: |
+    Apie Mikalojų IV, popiežių, bei karalių Rudolfą ir apie Tripolio miesto sugriovimą
+
+      1288 viešpaties metais valdė Mikalojus IV, popiežius, priklausęs mažesniųjų brolių
+    ordinui, ir Rudolfas, Romos karalius. To popiežiaus antraisiais metais buvo sugriautas
+    Tripolis, o ten gyvenę krikščionys paimti  į nelaisvę ar nužudyti (Ptol. 24, 20; Mart. p.
+    432; Mart. p. 421).
+  citata_rodoma: "Apie Mikalojų IV, popiežių, bei karalių Rudolfą ir apie Tripolio miesto sugriovimą\n\n  1288 viešpaties metais valdė Mikalojus IV, popiežius, priklausęs mažesniųjų brolių\nordinui, ir Rudolfas, Romos karalius. To popiežiaus antraisiais metais buvo sugriautas\nTripolis, o ten gyvenę krikščionys paimti  į nelaisvę ar nužudyti (Ptol. 24, 20; Mart. p.\n432; Mart. p. 421)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-62514

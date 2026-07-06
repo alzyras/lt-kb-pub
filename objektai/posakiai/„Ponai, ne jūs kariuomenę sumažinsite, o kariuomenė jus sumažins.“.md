@@ -16,6 +16,18 @@ tags:
   - seimas
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # „Ponai, ne jūs kariuomenę sumažinsite, o kariuomenė jus sumažins.“
 
@@ -28,9 +40,15 @@ amziai:
 <a id="claim-t-26360"></a>
 - t-001
   global_id: t-26360
-  teiginys: 'Posakis „Ponai, ne jūs kariuomenę sumažinsite, o kariuomenė jus sumažins“ buvo įsiutusių karininkų perspėjimas Seimo nariui.'
+  teiginys: "Posakis „Ponai, ne jūs kariuomenę sumažinsite, o kariuomenė jus sumažins“ buvo įsiutusių karininkų perspėjimas Seimo nariui."
+  temporaliniai_duomenys: "įvykio data: po 1927 m.; įvykio data: 1927 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia aiškiai įvardyti patį posakį ir pašalinti perteklinį kontekstą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "312486-312941; hash=85308914ee0df38ccd9371aefc4e61ddd3f0408bbcd5380a18f529ce65ba6d65; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
+    - c-26585
 - susijęs iš [[objektai/daiktai/Raudonos vėliavos.md#claim-t-19584|Raudonos vėliavos]]: 1926 m. rudenį po komunistų mitingų chuliganai su raudonomis vėliavomis gatvėse užkabinėjo uniformuotus kariškius.
 ## Reikšmingi paminėjimai
 
@@ -46,8 +64,27 @@ amziai:
     sumažinsite, o kariuomenė jus sumažins.“ Staigios reformos ir kilnūs val-
     džios siekiai atsisuko prieš ją pačią.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-26585
+  citata_originali: |
+    Naujoji valdžia, taupydama lėšas, mažino atlygini-
+    mus, planavo įvesti civilinę metrikaciją (didelis finansinis smūgis kata-
+    likų kunigams, nes nuo 1927 m. pradžios dar ketinta nebemokėti algų
+    dvasininkams), ėmė mažinti karininkų skaičių. Įsiutę karininkai vienam
+    Seimo nariui populiariai išaiškino, kas atsitiks: „Ponai, ne jūs kariuomenę
+    sumažinsite, o kariuomenė jus sumažins.“ Staigios reformos ir kilnūs val-
+    džios siekiai atsisuko prieš ją pačią.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-26360

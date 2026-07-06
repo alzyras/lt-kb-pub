@@ -16,6 +16,18 @@ tags:
   - privilegija
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Rusų pirkliai
 
@@ -26,18 +38,43 @@ Tačiau Aleksandro ir Elenos santuoka išplė­ tė prekybinius Vilniaus santyki
 ## Teiginiai
 
 <a id="claim-t-86770"></a>
-- t-001
+- t-002
   global_id: t-86770
-  teiginys: 'Rusų pirkliai Vilniuje anksčiau apsistodavo įvairiuose namuose, neprisistatydavo ir išvykdavo niekam nepranešę.'
+  teiginys: "Rusų pirkliai Vilniuje anksčiau apsistodavo įvairiuose namuose, neprisistatydavo ir išvykdavo niekam nepranešę."
+  semantiniai_rysiai: "Rusų pirkliai prekiavo su Vokiečiai (0.93); Rusų pirkliai keliavo į Vilnius (0.88)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "469785-470387; hash=86464ae8c1abe04b384c978d772aa79bdabf10ecd5426d037c7504b2baac768e; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Vokiečiai: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Rusų pirkliai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad rusų pirkliai prekiavo su vokiečiais."
   pagrindžia:
-    - c-001
+    - c-82749
 
 <a id="claim-t-86771"></a>
-- t-002
+- t-001
   global_id: t-86771
-  teiginys: 'Rusų pirkliai, atvykę į Vilnių, privalėjo apsistoti Svečių namuose, sumokėti prekių muitą ir pranešti pilininkui.'
+  teiginys: "Rusų pirkliai, atvykę į Vilnių, privalėjo apsistoti Svečių namuose, sumokėti prekių muitą ir pranešti pilininkui."
+  semantiniai_rysiai: "Rusų pirkliai keliavo į Vilnius (0.92)"
+  temporaliniai_duomenys: "įvykio data: 1500 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia rusų pirklių pareigas Vilniuje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "468419-468950; hash=58e1933f8b19df3b36d40842bc611abafee5e4bb671d3e565ad0379034ff79e2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Rusų pirkliai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo rusų pirklių atvykimą į Vilnių."
   pagrindžia:
-    - c-002
+    - c-82750
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54938|Aleksandras Jogailaitis]]: Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Rusios miestais, o Aleksandras leido statyti Svečių namus rusų pirkliams.
 - susijęs iš [[objektai/daiktai/Svečių namai rusų pirkliams Vilniuje.md#claim-t-87036|Svečių namai rusų pirkliams Vilniuje]]: Vilniuje karalius leido pastatyti Svečių namus, kuriuose rusų pirkliai turėjo apsistoti ir sumokėti prekių muitą.
 - susijęs iš [[objektai/grupes/Vokiečių ir rusų pirkliai.md#claim-t-86834|Vokiečių ir rusų pirkliai]]: Žygimanto neteisingumo įbauginti vokiečių ir rusų pirkliai nebegalėjo tikėtis ankstesnio saugumo Vytauto sostinėje.
@@ -78,6 +115,7 @@ Tačiau Aleksandro ir Elenos santuoka išplė­ tė prekybinius Vilniaus santyki
     rinčių pakenkti, todėl įsako ir leidžia
     miestui statyti užeigą ir t t.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -98,11 +136,59 @@ Tačiau Aleksandro ir Elenos santuoka išplė­ tė prekybinius Vilniaus santyki
     pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
     savo atvykimą iškart pranešti pilininkui4 3  44.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-82749
+  citata_originali: |
+    44
+    Svečių namams skirta privilegija yra:
+    D u b i ń s k i, 1.18. Ją skaitant atro­
+    do, kad Aleksandras, leisdamas sta­
+    tyti tokius namus, turėjo omenyje ne
+    tik miesto ir muito pelną, bet ir iš­
+    orinį saugumą. Mat rašo, jog svečiai,
+    tai yra, rusų pirkliai, atvykstantys su
+    savo prekėmis į Vilnių, apsistoja
+    įvairiuose namuose mieste, kur no­
+    ri, be jokio prisistatymo, o paskui,
+    prekiaudami su vokiečiais ir kitais
+    svetimšaliais pirkliais, niekam ne­
+    pranešę, išvažiuoja iš miesto; ir kad
+    tarp jų gali būti nepatikimų ir no­
+    rinčių pakenkti, todėl įsako ir leidžia
+    miestui statyti užeigą ir t t.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86770
+
+- id: c-82750
+  citata_originali: |
+    Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
+    to ginčai, ir po kelerių metų (1500 m.) anoji sutartis su caru
+    buvo nutraukta. Tačiau Aleksandro ir Elenos santuoka išplė­
+    tė prekybinius Vilniaus santykius su Rusios miestais ir ska­
+    tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­
+    tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.
+    Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
+    pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
+    savo atvykimą iškart pranešti pilininkui4 3  44.
+  citata_rodoma: ") anoji sutartis su caru \nbuvo nutraukta. Tačiau Aleksandro ir Elenos santuoka išplė­\ntė prekybinius Vilniaus santykius su Rusios miestais ir ska­\ntino steigti naujas užeigas pirkliams, atvykstantiems į Lie­\ntuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės. \nKaralius leido miestui pastatyti Svečių namus, kuriuose rusų \npirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie \nsavo atvykimą iškart pranešti pilininkui4 3  44."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86771
 
 ## Ryšiai
 - Rusų pirkliai keliavo į [[objektai/vietos/Vilnius]]

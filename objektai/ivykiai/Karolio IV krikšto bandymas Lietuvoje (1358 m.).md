@@ -18,6 +18,18 @@ tags:
   - ordinas
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Karolio IV krikšto bandymas Lietuvoje (1358 m.)
 
@@ -46,10 +58,21 @@ Nenurodyta
 <a id="claim-t-31426"></a>
 - t-001
   global_id: t-31426
-  teiginys: 'Lietuvos kunigaikščiai krikštui kėlė sąlygą, kad kryžiuočių ordinas grąžintų užimtas žemes tarp Alnos, Priegliaus ir Dauguvos.'
+  teiginys: "Lietuvos kunigaikščiai krikštui kėlė sąlygą, kad kryžiuočių ordinas grąžintų užimtas žemes tarp Alnos, Priegliaus ir Dauguvos."
+  temporaliniai_duomenys: "įvykio data: 1351 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "719106-719533; hash=1988d104fdc5f2dd00c843fb7f08512b70284d03af8e8ecd942a5f8fec6efa27; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dauguva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Karolio IV krikšto bandymas Lietuvoje (1358 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Dauguva: mention_match, place, gap=94"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karolio IV krikšto bandymas Lietuvoje (1358 m.)\" parinktas kaip owner_note_path. Targetas \"Dauguva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-33401
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -65,8 +88,30 @@ Nenurodyta
     čių ordinas sugrąžintų Lietuvos užimtąsias žemes tarp Alnos, Prieg­
     liaus ir Dauguvos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33401
+  citata_originali: |
+    Daugiau
+    yra žinoma apie Karolio IV-jo Lietuvon išsiųstą delegaciją, ku­
+    rios sudėtin įėjo Pragos arkivyskupas (Ernestas iš Pardubicų),
+    Silezijos kunigaikštis ir ordino žemių magistras Vokietijoje (Deutsch­
+    meister).
+    Pagonys kunigaikščiai krikštui priimti tačiau pastatė savo
+    aiškias sąlygas. Kaip ir 1351 m., buvo reikalaujama, kad kryžiuo­
+    čių ordinas sugrąžintų Lietuvos užimtąsias žemes tarp Alnos, Prieg­
+    liaus ir Dauguvos.
+  citata_rodoma: "Pagonys kunigaikščiai krikštui priimti tačiau pastatė savo\naiškias sąlygas. Kaip ir 1351 m., buvo reikalaujama, kad kryžiuo­\nčių ordinas sugrąžintų Lietuvos užimtąsias žemes tarp Alnos, Prieg­\nliaus ir Dauguvos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31426

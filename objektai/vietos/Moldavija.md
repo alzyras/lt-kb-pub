@@ -17,6 +17,18 @@ tags:
 amziai:
   - 'XV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Moldavija
 
@@ -27,18 +39,45 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
 ## Teiginiai
 
 <a id="claim-t-171837"></a>
-- t-001
+- t-012
   global_id: t-171837
-  teiginys: 'Magistras dar balandį prašė Švitrigailos kartu su Livonija, Podole, Valakija-Moldavija ir totoriais pulti Lenkiją.'
+  teiginys: "Magistras dar balandį prašė Švitrigailos kartu su Livonija, Podole, Valakija-Moldavija ir totoriais pulti Lenkiją."
+  semantiniai_rysiai: "Švitrigaila puolė Lenkija (0.72); Totoriai puolė Lenkija (0.66)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "274361-274700; hash=f1a8bc81c221cf6fda94f8597653b7d3b61911ca637f8ef713dde1007a7aa62f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Lenkija: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekste sakoma, kad Švitrigaila buvo prašomas kartu su kitomis jėgomis pulti Lenkiją, tačiau tai yra planuotas veiksmas."
   pagrindžia:
-    - c-001
+    - c-156307
 
 <a id="claim-t-187616"></a>
 - t-002
   global_id: t-187616
-  teiginys: 'Lietuvos metraštis pasakoja, kad Olbrachtui įsiveržus į Moldaviją vaivada Steponas sustiprino Sučiavą ir pasitraukė į kalnų tarpeklius.'
+  teiginys: "Lietuvos metraštis pasakoja, kad Olbrachtui įsiveržus į Moldaviją vaivada Steponas sustiprino Sučiavą ir pasitraukė į kalnų tarpeklius."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Steponas gynė Sučiava (0.78); Steponas valdė Moldavija (0.72)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "261007-261675; hash=19ea5cf1ecfb0edf75e5b083ffcd46c686dc4b7a7fae5b4268831ca78d859193; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Sučiava: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Steponas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Sučiava: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Steponas sustiprino Sučiavos pilį ir paliko įgulas, todėl tekstas palaiko gynybinį ryšį."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-002
+    - c-170563
 - susijęs iš Sučiava: Moldavijos vaivada Steponas sustiprino savo sostinę Sučiavos pilį ir kitus miestus, palikdamas juose įgulas.
 - susijęs iš [[objektai/ivykiai/Aleksandro žygis Braclavo link Moldavijos kampanijoje.md#claim-t-186651|Aleksandro žygis Braclavo link Moldavijos kampanijoje]]: Lietuvos metraštis pasakoja, kad Parčevo seime Aleksandras ir Olbrachtas slapta sutarė pulti Moldaviją iš dviejų krypčių.
 - susijęs iš [[objektai/ivykiai/Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas.md#claim-t-186765|Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas]]: Redakcinė pastaba nurodo, kad aptariamas žygis gali būti siejamas su Rumelijos vietininko Ali-pašos žygiu į Moldaviją 1485 m. vasarą.
@@ -110,6 +149,7 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
     įsiveržė į Ordino valdas birželio pradžioje,
     viską naikino ir degino.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -137,11 +177,58 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
     lamas vienuolynas, vadinamas Putnu 2 S , ir ten apsistojo
     su visa savo kariuomene kaip didelėje tvirtovėje2 9 .
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-156307
+  citata_originali: |
+    Lenkijai suartėjus su
+    čekų husitais, Ordinui kilo didelė grėsmė.
+    Magistras dar balandį prašė Švitrigailos
+    kartu su Livonija, Podole, Valakija-Mol-
+    davija ir totoriais pulti Lenkiją. Tuo tar-
+    pu žemaičiai puolė Kuršą ir niokojo jį
+    19 dienų, husitų ir Lenkijos kariuomenė
+    įsiveržė į Ordino valdas birželio pradžioje,
+    viską naikino ir degino.
+  citata_rodoma: "Magistras dar balandį prašė Švitrigailos\nkartu su Livonija, Podole, Valakija-Mol-\ndavija ir totoriais pulti Lenkiją. Tuo tar-\npu žemaičiai puolė Kuršą ir niokojo jį\n19 dienų, husitų ir Lenkijos kariuomenė\nįsiveržė į Ordino valdas birželio pradžioje,\nviską naikino ir degino."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171837
+
+- id: c-170563
+  citata_originali: |
+    Ir pagal tą Trakų vaivados patarimą karalius
+    davė etmono vietą kunigaikščiui Konstantinui2 5 .
+    O tuomet Olbrachtas jau buvo įžengęs į Moldavi­
+    jos žemę2 6 . Patikimai sužinojęs, kad karalius Olbrach­
+    tas, pykčiu degdamas, su neapsakoma galybe įsiveržė
+    į jo žemę, Moldavijos vaivada Steponas sutraukė visą
+    savo kariuomenę, gerai sustiprino savo sostinę — Su-
+    čiavos2 7  pilį bei visus kitus savo miestus ir, palikęs
+    ten savo įgulas, pats su visa kariuomene išėjo į kalnus,
+    į siaurus ir nepereinamus tarpeklius, kur buvo jo mėgs-
+    /52
+
+    ## Puslapis 148
+
+    lamas vienuolynas, vadinamas Putnu 2 S , ir ten apsistojo
+    su visa savo kariuomene kaip didelėje tvirtovėje2 9 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187616
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Steponas]]

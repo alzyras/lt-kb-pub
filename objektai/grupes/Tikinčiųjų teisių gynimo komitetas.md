@@ -16,6 +16,18 @@ tags:
   - valstybė
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Tikinčiųjų teisių gynimo komitetas (institucija)
 
@@ -26,18 +38,46 @@ amziai:
 ## Teiginiai
 
 <a id="claim-t-20047"></a>
-- t-001
+- t-002
   global_id: t-20047
-  teiginys: 'Tikinčiųjų teisių gynimo komitetas siekė katalikams lygių teisių su ateistais ir prašė padėti apginti tikinčiųjų teises.'
+  teiginys: "Tikinčiųjų teisių gynimo komitetas siekė katalikams lygių teisių su ateistais ir prašė padėti apginti tikinčiųjų teises."
+  temporaliniai_duomenys: "įvykio data: 1978 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus, aiškus ir paremtas citatos duomenimis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "471077-471824; hash=2ce0b74cb08da65560811efc495d28878b456357c00dd6968226e27e2b20bf76; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jonas Kauneckas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tikinčiųjų teisių gynimo komitetas (institucija): owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Jonas Kauneckas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tikinčiųjų teisių gynimo komitetas (institucija)\" parinktas kaip owner_note_path. Targetas \"Jonas Kauneckas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-13T14:18:10Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-002
+    - c-22783
 
 <a id="claim-t-20048"></a>
-- t-002
+- t-001
   global_id: t-20048
-  teiginys: '1978 m. lapkričio 13 d. Lietuvoje įkurtas Tikinčiųjų teisių gynimo komitetas kėlė religinės diskriminacijos problemą.'
+  teiginys: "1978 m. lapkričio 13 d. Lietuvoje įkurtas Tikinčiųjų teisių gynimo komitetas kėlė religinės diskriminacijos problemą."
+  temporaliniai_duomenys: "įvykio data: 1978 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys gramatiškai ir tiksliai apibūdina komiteto įkūrimą bei veiklos temą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "470797-471561; hash=be3ac7612f2163a3fc7d495c9ce4a8c36f0723c0df4668c9b73a138d65a57c32; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jonas Kauneckas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tikinčiųjų teisių gynimo komitetas (institucija): owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Jonas Kauneckas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tikinčiųjų teisių gynimo komitetas (institucija)\" parinktas kaip owner_note_path. Targetas \"Jonas Kauneckas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-22782
 - susijęs iš [[objektai/ivykiai/Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.).md#claim-t-20520|Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.)]]: Tikinčiųjų teisių gynimo komitetas siekė katalikams lygių teisių su ateistais ir prašė padėti apginti tikinčiųjų teises.
 - susijęs iš [[objektai/zodynas/kulto laisvė.md#claim-t-22201|kulto laisvė]]: Tikinčiųjų teisių gynimo komitetas teigė, kad kulto laisvė praktikoje varžoma, ir siekė katalikams lygių teisių su ateistais.
 ## Reikšmingi paminėjimai
@@ -63,6 +103,7 @@ amziai:
     ateistai, o kulto laisvė praktikoje
     varžoma.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -92,8 +133,66 @@ amziai:
     nesiekęs Komitetas veikė penkerius metus, parengė 53 dokumentus ir kai
     kuriuos jų išplatino.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-22782
+  citata_originali: |
+    Tai buvo kone vienintelis leidinys, be pertraukos net 17
+    metų (nors ir nereguliariai) leistas Sovietų Sąjungoje. Nors „Kronika“ skirta
+    tikinčiajai visuomenei ir kėlė tik tikėjimo reikalus, ji virto Katalikų bažny-
+    čios pasipriešinimo sovietų valdžiai simboliu, mokė tvirtybės.
+    1978 m. lapkričio 22 d. trys kunigai – Alfonsas Svarinskas, Sigitas Tam-
+    kevičius ir Juozas Zdebskis – spaudos konferencijoje Maskvoje užsienio
+    žurnalistams pranešė, kad lap-
+    kričio 13 dieną Lietuvoje įkurtas
+    Tikinčiųjų teisių gynimo komi-
+    tetas (TTGK) (jam dar priklau-
+    sė kunigai Jonas Kauneckas ir
+    Vincentas Vėlavičius), kuris kėlė
+    religinės diskriminacijos proble-
+    mą – tikintieji neturi tų teisių,
+    kuriomis valstybėje naudojasi
+    ateistai, o kulto laisvė praktikoje
+    varžoma.
+  citata_rodoma: "kevičius ir Juozas Zdebskis – spaudos konferencijoje Maskvoje užsienio"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-20048
+
+- id: c-22783
+  citata_originali: |
+    1978 m. lapkričio 22 d. trys kunigai – Alfonsas Svarinskas, Sigitas Tam-
+    kevičius ir Juozas Zdebskis – spaudos konferencijoje Maskvoje užsienio
+    žurnalistams pranešė, kad lap-
+    kričio 13 dieną Lietuvoje įkurtas
+    Tikinčiųjų teisių gynimo komi-
+    tetas (TTGK) (jam dar priklau-
+    sė kunigai Jonas Kauneckas ir
+    Vincentas Vėlavičius), kuris kėlė
+    religinės diskriminacijos proble-
+    mą – tikintieji neturi tų teisių,
+    kuriomis valstybėje naudojasi
+    ateistai, o kulto laisvė praktikoje
+    varžoma. Komitetas siekė kata-
+    likams lygių teisių su ateistais,
+    atkreipė dėmesį į tikinčiųjų dis-
+    kriminavimo faktus, prašė padėti apginti tikinčiųjų teises. Politinių tikslų
+    nesiekęs Komitetas veikė penkerius metus, parengė 53 dokumentus ir kai
+    kuriuos jų išplatino.
+  citata_rodoma: "kriminavimo faktus, prašė padėti apginti tikinčiųjų teises. Politinių tikslų"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-20047

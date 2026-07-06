@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - karas
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Eiguliai
 
@@ -20,9 +32,20 @@ Lukšį (turėjusius Pirmojo pasaulinio karo kovų patirties) su 8 kareiviais, k
 <a id="claim-t-41710"></a>
 - t-001
   global_id: t-41710
-  teiginys: 'Lietuvių kariai granatomis ir šūviais privertė bolševikus iš Eigulių kaimo skubiai trauktis į Juodikio mišką.'
+  teiginys: "Lietuvių kariai granatomis ir šūviais privertė bolševikus iš Eigulių kaimo skubiai trauktis į Juodikio mišką."
+  semantiniai_rysiai: "J. Šarauskas siuntė į Paobeliai (0.88)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "704066-704614; hash=584a5f4155701369bd16718bfa25407bd449d04d2a3b2f0766d531e0a0704a24; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Paobeliai: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "J. Šarauskas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Paobeliai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad J. Šarauskas pasiuntė karius į Paobelius."
   pagrindžia:
-    - c-001
+    - c-45091
 - susijęs iš [[objektai/asmenys/Povilas Lukšys.md#claim-t-49485|Povilas Lukšys]]: Povilas Lukšys su V. Vainausku ir 8 kareiviais užėjo bolševikams į užnugarį ir privertė juos trauktis iš Eigulių kaimo.
 - susijęs iš [[objektai/asmenys/Povilas Lukšys.md#claim-t-49486|Povilas Lukšys]]: Povilas Lukšys su V. Vainausku ir 8 kareiviais užėjo bolševikams į užnugarį ir privertė juos trauktis iš Eigulių į Juodikio mišką.
 - susijęs iš Eigulių pilis (pilis): 1382 m. birželio pabaigoje kryžiuočiai Kauno apylinkėje prie Neries sunaikino Eigulių pilį.
@@ -52,11 +75,38 @@ Lukšį (turėjusius Pirmojo pasaulinio karo kovų patirties) su 8 kareiviais, k
     viams atvyko vokiečių batalionas, gink-
     luotėje turėjęs kulkosvaidžių ir artileriją.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-45091
+  citata_originali: |
+    Perpratęs rusų
+    sumanymą J. Šarauskas į Paobelių kaimą
+    pasiuntė patyrusius vyresniuosius ka-
+    rius V. Vainauską ir P. Lukšį (turėjusius
+    Pirmojo pasaulinio karo kovų patirties) su
+    8 kareiviais, kurie nepastebėti užėjo be-
+    sirengiantiems apėjimui bolševikams į
+    užnugarį ir netikėtai juos apmėtę granato-
+    mis bei apšaudę privertė iš Eigulių kaimo
+    skubiai trauktis į Juodikio mišką. Tokiu
+    būdu buvo sužlugdytas pavojingas priešo
+    sumanymas. Prieš vakarą į pagalbą lietu-
+    viams atvyko vokiečių batalionas, gink-
+    luotėje turėjęs kulkosvaidžių ir artileriją.
+  citata_rodoma: "Lukšį (turėjusius\nPirmojo pasaulinio karo kovų patirties) su\n8 kareiviais, kurie nepastebėti užėjo be-\nsirengiantiems apėjimui bolševikams į\nužnugarį ir netikėtai juos apmėtę granato-\nmis bei apšaudę privertė iš Eigulių kaimo\nskubiai trauktis į Juodikio mišką. Tokiu\nbūdu buvo sužlugdytas pavojingas priešo\nsumanymas. Prieš vakarą į pagalbą lietu-\nviams atvyko vokiečių batalionas, gink-\nluotėje turėjęs kulkosvaidžių ir artileriją."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-41710
 
 ## Ryšiai
 - Užėmė Eiguliai: [[objektai/grupes/Kryžiuočių ordinas]]

@@ -15,6 +15,18 @@ tags:
   - valstybė
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # LAF radijo pranešimas dėl Lietuvos valstybės atkūrimo (1941 m. birželio 23 d.)
 
@@ -27,10 +39,22 @@ Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – už�
 <a id="claim-t-21097"></a>
 - t-001
   global_id: t-21097
-  teiginys: '1941 m. birželio 23 d. LAF atstovas Leonas Prapuolenis per radiją paskelbė apie laisvos ir nepriklausomos Lietuvos valstybės atkūrimą.'
+  teiginys: "1941 m. birželio 23 d. LAF atstovas Leonas Prapuolenis per radiją paskelbė apie laisvos ir nepriklausomos Lietuvos valstybės atkūrimą."
+  temporaliniai_duomenys: "įvykio data: 1941 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, todėl paliktas citatos pagrindžiamas faktas apie pranešimą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "395828-396778; hash=92a331d50712855eb1ae6b512b9612fbe7f083409f32cf13dd1b4001838bc693; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "LAF radijo pranešimas dėl Lietuvos valstybės atkūrimo (1941 m. birželio 23 d.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=83"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"LAF radijo pranešimas dėl Lietuvos valstybės atkūrimo (1941 m. birželio 23 d.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-23808
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -51,8 +75,35 @@ Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – už�
     civilizaciją“ nuo raudonojo teroro, lietuviai pakviesti imtis ginklo ir padė-
     ti vokiečių kariuomenei.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-23808
+  citata_originali: |
+    LAF programoje ir kituose dokumentuose ne-
+    išvengta nacionalistinės retorikos, antisemitizmo (16-asis LAF progra-
+    mos punktas atšaukė teisę žydams gyventi Lietuvoje). Tačiau Vokietijos
+    vyriausybė uždraudė lietuviams kilus karui sudaryti bet kokią Lietuvos
+    vyriausybę ir skelbti bet kokį atsišaukimą į tautą, „negavus tam kompe-
+    tentingų Vokietijos įstaigų sutikimo“. Sukilėliai užimtame Kaune pastatė
+    vokiečius prieš įvykusį faktą – užėmus radiją 1941 m. birželio 23 d. LAF
+    atstovas Leo­nas Prapuolenis pranešė: „Susidariusi laikinoji vėl naujai at-
+    gimstančios Lietuvos Vyriausybė šiuo skelbia atstatanti laisvą ir nepri-
+    klausomą Lietuvos valstybę“, kad „jaunoji Lietuvos valstybė entuzias-
+    tingai pasižada prisidėti prie Europos organizavimo naujais pagrindais“,
+    negailėta šiltų žodžių nacių Vokietijai, kuri „išgelbėjo Europos kultūrą ir
+    civilizaciją“ nuo raudonojo teroro, lietuviai pakviesti imtis ginklo ir padė-
+    ti vokiečių kariuomenei.
+  citata_rodoma: "negailėta šiltų žodžių nacių Vokietijai, kuri „išgelbėjo Europos kultūrą ir"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-21097

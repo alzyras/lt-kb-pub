@@ -15,6 +15,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Partizanų bunkeriai
 
@@ -54,18 +66,37 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-13459"></a>
-- t-001
+- t-005
   global_id: t-13459
-  teiginys: 'Partizanai turėjo prisitaikyti prie gyvenimo miške ir bunkeriuose.'
+  teiginys: "Partizanai turėjo prisitaikyti prie gyvenimo miške ir bunkeriuose."
+  temporaliniai_duomenys: "įvykio data: 1944 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie gyvenimą bunkeriuose ir atitinka citatos informaciją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "428244-428694; hash=deafdc1ed8b6f3dc5d7fb5f45d29205ae88adbdadbd80ae71732af3d7b2b48a4; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Partizanų bunkeriai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Partizanų bunkeriai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-16407
 
 <a id="claim-t-13460"></a>
-- t-002
+- t-006
   global_id: t-13460
-  teiginys: '1946 m. birželį–1948 m. lapkritį partizanai sodybose ir prie jų kasė požeminius bunkerius slėptis nuo priešų per šukavimus.'
+  teiginys: "1946 m. birželį–1948 m. lapkritį partizanai sodybose ir prie jų kasė požeminius bunkerius slėptis nuo priešų per šukavimus."
+  temporaliniai_duomenys: "įvykio data: 1946 m.; įvykio data: 1947 m.; įvykio data: 1948 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą laiką, veiksmą ir bunkerių paskirtį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "430075-430566; hash=068c1ed1a5189c433723f033fd3cbc7c190aed1b364acae7eada1ad75ab8ba58; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
   pagrindžia:
-    - c-002
+    - c-22284
 - susijęs iš [[objektai/ivykiai/Šimonių girios apgultis (1949 m.).md#claim-t-67009|Šimonių girios apgultis (1949 m.)]]: Didžiausio susirėmimo metu Šimonių girioje susprogdinti aštuoni partizanų bunkeriai, žuvo 33 partizanai, 10 pateko į nelaisvę, o 1949 m. rudenį sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai.
 - susijęs iš [[objektai/ivykiai/Šimonių girios apgultis.md#claim-t-39118|Šimonių girios apgultis]]: Šimonių girioje sovietų kariai susprogdino aštuonis partizanų bunkerius: žuvo 33 partizanai, 10 laisvės kovotojų pateko į nelaisvę.
 - susijęs iš Denionių ežeras: Prie Denionių ežero buvusiame Tarzano bunkeryje buvo suimtas Vladas Karosas-Vilkas.
@@ -86,6 +117,7 @@ Nenurodyta
     jie turėjo išmokti kariavimo gudrybių ir prisitaikyti prie sudėtingų gyveni-
     mo sąlygų miške ir bunkeriuose, todėl būriuose rengti kariniai mokymai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -105,6 +137,7 @@ Nenurodyta
     prie jų kasė požeminius bunkerius, kuriuose slėpdavosi nuo priešų per
     šukavimus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -114,6 +147,43 @@ Nenurodyta
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
+
+## Citatos
+
+- id: c-16407
+  citata_originali: |
+    Partizanų būriai, pradėję kurtis 1944 m. vasaros pabaigoje, greitai di-
+    dėjo, susidarė jų rinktinės, apygardos, sritys. Partizanai vilkėjo Lietuvos ka-
+    rines uniformas, nors dauguma buvo jauni vyrai, ūkininkų, mažažemių ar
+    bežemių vaikai, netarnavę ginkluotosiose pajėgose. Įstoję į partizanų gretas
+    jie turėjo išmokti kariavimo gudrybių ir prisitaikyti prie sudėtingų gyveni-
+    mo sąlygų miške ir bunkeriuose, todėl būriuose rengti kariniai mokymai.
+  citata_rodoma: "miške ir bunkeriuose, todėl būriuose rengti kariniai mokymai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-13459
+
+- id: c-22284
+  citata_originali: |
+    Iš jų gyventojai suži-
+    nodavo apie partizanų poziciją kolaborantų atžvilgiu, pasaulio politikos
+    naujienas, partizanai parengė poezijos rinkinių, satyrų, prozos kūrinėlių,
+    partizanų maldynų. Spaudą daugiausia platino jaunimas, vien 1947 m. už
+    tai suimta 640 asmenų.
+    Antrame etape (1946 m. birželį–1948 m. lapkritį), kovose netekę apie
+    10 tūkst. vyrų, partizanai sudarė mažus, mobilius būrius, sodybose ir
+    prie jų kasė požeminius bunkerius, kuriuose slėpdavosi nuo priešų per
+    šukavimus.
+  citata_rodoma: "prie jų kasė požeminius bunkerius, kuriuose slėpdavosi nuo priešų per"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-13460
 
 ## Ryšiai
 - Partizanų bunkeriai priklausė [[objektai/vietos/Šimonių giria]]

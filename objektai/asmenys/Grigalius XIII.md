@@ -16,6 +16,18 @@ amziai:
   - 'XVI'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Grigalius XIII
 
@@ -26,11 +38,21 @@ Smakauskas, 1828 m. 2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y
 ## Teiginiai
 
 <a id="claim-t-82382"></a>
-- t-001
+- t-003
   global_id: t-82382
-  teiginys: 'Grigalius XIII bule aprobavo Stepono Batoro suteiktą Vilniaus akademijos privilegiją.'
+  teiginys: "Grigalius XIII bule aprobavo Stepono Batoro suteiktą Vilniaus akademijos privilegiją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "395077-395569; hash=d184a467a79641c1eccaaa942fc7609c8df5681ab8eb5b0b10569ef180240550; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Steponas Batoras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Grigalius XIII: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Steponas Batoras: mention_match, person, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Grigalius XIII\" parinktas kaip owner_note_path. Targetas \"Steponas Batoras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-78869
 - susijęs iš [[objektai/grupes/Vilniaus universitetas.md#claim-t-113365|Vilniaus universitetas]]: 1579 m. balandžio 1 d. karalius Steponas Batoras išdavė Vilniaus akademijos atidarymo privileginį raštą.
 - susijęs iš [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.).md#claim-t-45453|Vilniaus universiteto įkūrimas (1579 m.)]]: Naujoji mokykla vadinosi Academia et Universitas Vilnensis Societatis Iesu, arba Vilniaus Jėzaus draugijos akademija ir universitetas.
 - susijęs iš [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.).md#claim-t-45454|Vilniaus universiteto įkūrimas (1579 m.)]]: 1579 m. balandžio 1 d. Steponas Batoras išdavė Vilniaus akademijos atidarymo privileginį raštą.
@@ -43,7 +65,7 @@ Smakauskas, 1828 m. 2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y
 - susijęs iš Vilniaus akademijos atidarymo privileginis raštas: 1579 m. popiežius Grigalius XIII patvirtino Vilniaus kolegiją universitetu, vadintu Academia et Universitas Vilnensis Societatis Iesu.
 - susijęs iš Vilnius: 1579 m. spalio 29 d. popiežius Grigalius XIII patvirtino Vilniaus kolegiją universitetu.
 - susijęs iš Vilnius: 1579 m. popiežius Grigalius XIII patvirtino Vilniaus kolegiją universitetu.
-- susijęs iš [[objektai/zodynas/jurisdikcija.md#claim-t-173018|jurisdikcija]]: 1578 m. Steponas Batoras atleido Akademijos profesorius ir studentus nuo dvasinės ir pasaulietinės jurisdikcijos bei mokesčių.
+- susijęs iš [[objektai/zodynas/jurisdikcija.md#claim-t-192172|jurisdikcija]]: 1578 m. Steponas Batoras atleido Akademijos profesorius ir studentus nuo dvasinės ir pasaulietinės jurisdikcijos bei mokesčių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -59,8 +81,28 @@ Smakauskas, 1828 m. 2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y
     demijos kancleriu, o Žemaičių - globėju nuolatiniam laikui pa­
     skyrė. Tokią privilegiją Grigalius XIII bule aprobavo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-78869
+  citata_originali: |
+    1578 metais Karalius Steponas Batoras, šias funduotas mo­
+    kyklas patvirtinęs, suteikė Akademijos vardą ir visoms akade­
+    mijoms, o išskirtinai Krokuvos, prilygino. Profesorius ir stu­
+    dentus nuo priklausomybės bet kokiai dvasinei ar pasaulietinei
+    jurisdikcijai ir nuo bet kokių mokesčių atleido, Rektoriui pave­
+    dė būti Akademijos teisėju; pagaliau vyskupus: Vilniaus - Aka­
+    demijos kancleriu, o Žemaičių - globėju nuolatiniam laikui pa­
+    skyrė. Tokią privilegiją Grigalius XIII bule aprobavo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82382

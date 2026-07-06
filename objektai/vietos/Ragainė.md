@@ -7,6 +7,7 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -18,11 +19,6 @@ datos:
   - '2026 m.'
 date_start: '1289'
 date_end: '2026'
-description: 'Ragainė – Nemuno pakrantės vieta, kur 1289 m. iškilo Ordino Landeshutės pilis, vėliau siejama su skalviais ir karo veiksmais.'
-socialDescription: 'Ragainė: nuo Landeshutės pilies Nemuno pakrantėje iki skalvių, Ordino administracijos, krikšto ir karo veiksmų pėdsakų šaltiniuose.'
-seo_atnaujinta: '2026-07-02T23:12:35.192173+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -32,182 +28,564 @@ tags:
 amziai:
   - 'XIII'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Ragainė
 
 ## Santrauka
 
-Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordinas pastatė Landeshutės pilį, vėliau vadintą Ragaine. Ji minima kaip skalvių pilies aplinka, Ordino administracinis centras, krikšto vieta ir karo veiksmų taškas. Šaltiniuose Ragainė siejama su puolimais, belaisviais ir 1412 m. Lietuvos bajorų teiginiu, kad Ragainė bei Karaliaučius kitados priklausė Lietuvai.
+Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio taško vieta: čia po 1289 m. įsitvirtino Ordino pilis, vietovė dokumentuose perėjo nuo Landeshutės vardo prie Ragainės, o kronikoje ji minima ir kaip krikšto bei karo veiksmų vieta.
 
 ## Teiginiai
 
 <a id="claim-t-169144"></a>
-- t-001
+- t-017
   global_id: t-169144
-  teiginys: 'Skalvių pilis Ragainėje, manoma, buvo piliakalnyje per 2 km į pietryčius nuo dabartinio miestelio.'
+  teiginys: "Skalvių pilis Ragainėje, manoma, buvo piliakalnyje per 2 km į pietryčius nuo dabartinio miestelio."
+  semantiniai_rysiai: "Skalvių pilis (pilis, XIII a.) priklausė Ragainė (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1289 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir atsargiai perteikia citatoje nurodytą lokalizacijos prielaidą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "486300-487040; hash=9e67d815c80c8871a4e1096ea174e3f4af718778d26692b434243c330998edd5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Ragainė: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skalvių pilis (pilis, XIII a.): llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Ragainė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai lokalizuoja Skalvių pilį Ragainėje."
   pagrindžia:
-    - c-016
+    - c-153901
 
 <a id="claim-t-169145"></a>
-- t-002
+- t-028
   global_id: t-169145
-  teiginys: 'Ragainės komtūras per vieną puolimą išsivedė 100 žmonių į nelaisvę.'
+  teiginys: "Ragainės komtūras per vieną puolimą išsivedė 100 žmonių į nelaisvę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "57674-57797; hash=613c09edda052de530d8c38ae40d9d370c885bb88b683005ebc2a04eb8009cdb; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Viena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ragainė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ragainė\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-37686
 
 <a id="claim-t-169146"></a>
-- t-003
+- t-011
   global_id: t-169146
-  teiginys: '1412 m. Lietuvos bajorai kryžiuočių pasiuntiniams pareiškė, kad Ragainė ir Karaliaučius kitados priklausė Lietuvai.'
+  teiginys: "1412 m. Lietuvos bajorai kryžiuočių pasiuntiniams pareiškė, kad Ragainė ir Karaliaučius kitados priklausė Lietuvai."
+  semantiniai_rysiai: "Ragainė priklausė Lietuva (0.94); Karaliaučius priklausė Lietuva (0.94)"
+  temporaliniai_duomenys: "priklausymo laikotarpis: 1412 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiksliai atitinka citatoje pateiktą pareiškimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "25540-25833; hash=4f0d56f4acbca6f0757754f28daa524a48a8336c10de815db1b97757549417e6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Ragainė: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Ragainė kitados priklausė Lietuvai."
   pagrindžia:
-    - c-010
+    - c-153895
 
 <a id="claim-t-169147"></a>
-- t-004
+- t-012
   global_id: t-169147
-  teiginys: 'Tyrinėtojai siejo Dusburgietį iš pradžių su Ragaine, po to su Karaliaučiumi.'
+  teiginys: "Tyrinėtojai siejo Dusburgietį iš pradžių su Ragaine, po to su Karaliaučiumi."
+  temporaliniai_duomenys: "įvykio data: 1309 m.; įvykio data: 1327 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "claim_quality_pipeline deterministic repair"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "38838-39276; hash=4be79dbc5dd5a1d0695e879b4a8268ba49fd090d7dfc8897ded3894e1cb90fed; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ragainė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ragainė\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
-    - c-015
+    - c-153900
 
 <a id="claim-t-169148"></a>
-- t-005
+- t-015
   global_id: t-169148
-  teiginys: 'Ordino administraciniai centrai buvo Kulmas, Elbingas, Karaliaučius, Ragainė, o nuo 1309 m. ir Marienburgas.'
+  teiginys: "Ordino administraciniai centrai buvo Kulmas, Elbingas, Karaliaučius, Ragainė, o nuo 1309 m. ir Marienburgas."
+  semantiniai_rysiai: "Ragainė priklausė Kryžiuočių ordinas (0.82); Marienburgas priklausė Kryžiuočių ordinas (0.80)"
+  temporaliniai_duomenys: "įvykio data: po 1309 m.; įvykio data: 1309 m.; įvykio data: po 1312 m.; įvykio data: 1312 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys, kuriame Ragainė nurodoma tarp Ordino administracinių centrų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "82081-82593; hash=4c51a3ffec8387045378a8d925f9cf65239b4b79aa5b548e2cccf5e09593153e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Ragainė: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Ragainė įvardyta kaip Ordino administracinis centras."
   pagrindžia:
-    - c-004
+    - c-153888
 
 <a id="claim-t-169149"></a>
-- t-006
+- t-009
   global_id: t-169149
-  teiginys: 'Ordino pilis iš pradžių vadinta Landishute / Landeshute, o vėliau įsigalėjo baltiškasis Ragainės vardas.'
+  teiginys: "Ordino pilis iš pradžių vadinta Landishute / Landeshute, o vėliau įsigalėjo baltiškasis Ragainės vardas."
+  temporaliniai_duomenys: "įvykio data: iki 1378 m.; įvykio data: iki 1394 m.; įvykio data: 1291 m.; įvykio data: 1300 m.; įvykio data: 1302 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir paremtas citatos paaiškinimu apie Ragainės vardo raidą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "483705-485373; hash=f2a1efed55fa49c7b326950a1cf16c189d4eca7b2e08607c10c91705c6ee2381; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ragainė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=88"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ragainė\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-153894
 
 <a id="claim-t-169150"></a>
-- t-007
+- t-016
   global_id: t-169150
-  teiginys: 'Skalviai prie Ragainės ant kalno turėjo pilį, kurią siaubė didelė rutėnų kariuomenė.'
+  teiginys: "Skalviai prie Ragainės ant kalno turėjo pilį, kurią siaubė didelė rutėnų kariuomenė."
+  temporaliniai_duomenys: "įvykio data: iki 1378 m.; įvykio data: iki 1394 m.; įvykio data: 1291 m.; įvykio data: 1300 m.; įvykio data: 1302 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko konkretų faktą apie Ragainę, bet pradinėje formuluotėje yra antraštės ir išnašos triukšmo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "483705-485373; hash=f2a1efed55fa49c7b326950a1cf16c189d4eca7b2e08607c10c91705c6ee2381; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ragainė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ragainė\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-153894
 
 <a id="claim-t-169152"></a>
-- t-008
+- t-018
   global_id: t-169152
-  teiginys: 'Sembų fogtas brolis Ditrichas su broliais ir tūkstančiu vyrų užpuolė skalvių pilį toje vietoje, kur vėliau buvo Ragainės pilis.'
+  teiginys: "Sembų fogtas brolis Ditrichas su broliais ir tūkstančiu vyrų užpuolė skalvių pilį toje vietoje, kur vėliau buvo Ragainės pilis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "488445-488839; hash=84dcca443a624e09697af20fb0cb02f3de0aecb1aacf53998e31cf7aa2e6eac2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Nemunas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ragainė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Nemunas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ragainė\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-017
+    - c-153904
 
 <a id="claim-t-169153"></a>
-- t-009
+- t-022
   global_id: t-169153
-  teiginys: 'Draikas buvo nuvestas į Ragainę ir ten su visa šeimyna pakrikštytas.'
+  teiginys: "Draikas buvo nuvestas į Ragainę ir ten su visa šeimyna pakrikštytas."
+  temporaliniai_duomenys: "įvykio data: 1409 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata turi neaiškią ankstesnio sakinio pradžią, bet aiškiai remia faktą apie Ragainę ir Draiką."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "259374-259656; hash=d96eb500c4fc001339a46feba27cb7f6a9ee5807ab433ea293d5db0c5a61b916; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ragainė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ragainė\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-013
+    - c-153898
 
 <a id="claim-t-169154"></a>
-- t-010
+- t-008
   global_id: t-169154
-  teiginys: '1412 m. Lietuvos bajorai kryžiuočių pasiuntiniams teigė, kad Ragainė ir Karaliaučius kitados priklausė Lietuvai.'
+  teiginys: "1412 m. Lietuvos bajorai kryžiuočių pasiuntiniams teigė, kad Ragainė ir Karaliaučius kitados priklausė Lietuvai."
+  semantiniai_rysiai: "Ragainė priklausė Lietuva (0.94); Karaliaučius priklausė Lietuva (0.94)"
+  temporaliniai_duomenys: "priklausymo laikotarpis: 1412 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia 1412 m. Lietuvos bajorų pareiškimą apie Ragainę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "25540-25833; hash=4f0d56f4acbca6f0757754f28daa524a48a8336c10de815db1b97757549417e6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Ragainė: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Ragainė kitados priklausė Lietuvai."
   pagrindžia:
-    - c-010
+    - c-153895
 
 <a id="claim-t-169155"></a>
-- t-011
+- t-027
   global_id: t-169155
-  teiginys: '1317 m. Ragainės komtūras Fridrichas de Libencelė su 150 žmonių apgulė Gedimino pilį, bet jos neužėmė ir sudegino tik papilį.'
+  teiginys: "1317 m. Ragainės komtūras Fridrichas de Libencelė su 150 žmonių apgulė Gedimino pilį, bet jos neužėmė ir sudegino tik papilį."
+  temporaliniai_duomenys: "mūšio data: 1317 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Fridrichas de Libencelė puolė Fridrichas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Fridrichas de Libencelė puolė Gediminas“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "126745-127051; hash=fbfee0e2b6651885a6698d952884981357cba8e3ad603de44459e28dec800ca4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Fridrichas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ragainė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Fridrichas: mention_match, person, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ragainė\" parinktas kaip owner_note_path. Targetas \"Fridrichas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-012
+    - c-153897
 
 <a id="claim-t-169156"></a>
-- t-012
+- t-020
   global_id: t-169156
-  teiginys: 'Brolis Bertoldas, vadinamas Briuhavenu, neilgai vadovavo Ragainės piliai ir netrukus buvo paskirtas Karaliaučiaus komtūru.'
+  teiginys: "Brolis Bertoldas, vadinamas Briuhavenu, neilgai vadovavo Ragainės piliai ir netrukus buvo paskirtas Karaliaučiaus komtūru."
+  semantiniai_rysiai: "Bertoldas valdė Ragainė (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "557017-557353; hash=1ea1353a2042acef83b9b1fdc0658b19f53c3c41e5801a0af5ad5f664786caec; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Ragainė: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bertoldas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Ragainė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Bertoldas vadovavo Ragainės piliai."
   pagrindžia:
-    - c-018
+    - c-153905
 
 <a id="claim-t-169157"></a>
-- t-013
+- t-026
   global_id: t-169157
-  teiginys: '1361 m. žiemą kryžiuočiai iš Ragainės du kartus žygiavo prieš lietuvius, žudė, degino ir plėšė.'
+  teiginys: "1361 m. žiemą kryžiuočiai iš Ragainės du kartus žygiavo prieš lietuvius, žudė, degino ir plėšė."
+  semantiniai_rysiai: "Kryžiuočių ordinas kariavo prieš Lietuviai (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1361 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie žygius iš Ragainės."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "150398-150848; hash=56bdd3629d66ff0e9598ea8f811885cbafa61e29404df5c67627657ae9fedd00; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Lietuviai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad kryžiuočiai žygiavo prieš lietuvius."
   pagrindžia:
-    - c-011
+    - c-153896
 
 <a id="claim-t-169158"></a>
-- t-014
+- t-019
   global_id: t-169158
-  teiginys: '1289 m. brolis Meinhardas Nemuno pakrantėje pastatė Landeshutės pilį, kuri vėliau vadinta Ragaine.'
+  teiginys: "1289 m. brolis Meinhardas Nemuno pakrantėje pastatė Landeshutės pilį, kuri vėliau vadinta Ragaine."
+  temporaliniai_duomenys: "pastatymo data: 1289 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs; citata remia glaustą faktą apie Ragainės pilies pastatymą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "556260-557011; hash=5ce5f7e10378c2bb68d85852f7fff96c9616d79f69740c6cca01cd70de3684ee; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Austrija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ragainė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Austrija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ragainė\" parinktas kaip owner_note_path. Targetas \"Austrija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-153889
 
 <a id="claim-t-169159"></a>
-- t-015
+- t-013
   global_id: t-169159
-  teiginys: 'Dusburgiečio kronikoje pasakojama, kad nuo kariuomenės Žemaitijoje atsilikęs kryžiuočių karys pėsčiomis grįžo į Ragainę.'
+  teiginys: "Dusburgiečio kronikoje pasakojama, kad nuo kariuomenės Žemaitijoje atsilikęs kryžiuočių karys pėsčiomis grįžo į Ragainę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "41921-42492; hash=511fa2b8eb6b6fbe844e6fbfb8f4fb94750f4bbc08251eb037fa4245f362f6c9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ragainė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ragainė\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-153890
 
 <a id="claim-t-169160"></a>
-- t-016
+- t-021
   global_id: t-169160
-  teiginys: 'Sekmadienį prieš Jonines lietuviai saloje prie Ragainės pilies pagrobė visus brolių žirgus ir galvijus.'
+  teiginys: "Sekmadienį prieš Jonines lietuviai saloje prie Ragainės pilies pagrobė visus brolių žirgus ir galvijus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "591032-591452; hash=0b5ded629c155ddcf5d44c2c3f6fc8b8c6add847f6773012073ece866faaa1f9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Žirgai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ragainė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Žirgai: mention_match, thing, gap=37"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ragainė\" parinktas kaip owner_note_path. Targetas \"Žirgai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-014
+    - c-153899
 
 <a id="claim-t-169161"></a>
-- t-017
+- t-010
   global_id: t-169161
-  teiginys: 'Po Aukaimio užėmimo Draika buvo nuvestas į Ragainę ir čia pakrikštytas su visa šeimyna.'
+  teiginys: "Po Aukaimio užėmimo Draika buvo nuvestas į Ragainę ir čia pakrikštytas su visa šeimyna."
+  semantiniai_rysiai: "Draika keliavo į Ragainė (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1409 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "259374-259656; hash=d96eb500c4fc001339a46feba27cb7f6a9ee5807ab433ea293d5db0c5a61b916; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Ragainė: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Draika: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Ragainė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Draika buvo nuvestas į Ragainę."
   pagrindžia:
-    - c-013
+    - c-153898
 
 <a id="claim-t-169162"></a>
-- t-018
+- t-014
   global_id: t-169162
-  teiginys: '1289 m. buvo pastatyta Ragainės pilis, po to kronikoje atsirado daugiau įvykių smulkmenų ir tikslių dienų.'
+  teiginys: "1289 m. buvo pastatyta Ragainės pilis, po to kronikoje atsirado daugiau įvykių smulkmenų ir tikslių dienų."
+  temporaliniai_duomenys: "pastatymo data: po 1289 m.; pastatymo data: 1289 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip pastatymo data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs ir per ilgas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "78775-79210; hash=60aab10cab68192db83c6e7db56622d2d44138fa8d9ca5c5515f614f93f9cd37; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-008
+    - c-153893
 
 <a id="claim-t-169163"></a>
-- t-019
+- t-029
   global_id: t-169163
-  teiginys: 'Ragainės komtūras Markvardas Salzbachas su 1600 raitelių prisidėjo prie Vytauto kariuomenės Kijeve.'
+  teiginys: "Ragainės komtūras Markvardas Salzbachas su 1600 raitelių prisidėjo prie Vytauto kariuomenės Kijeve."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "864321-864630; hash=e9a66e74fbf1cb41e1c89f0f8363bb3caf3f233cb20594b4b05e26f4edb24ae4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kijevas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ragainė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kijevas: mention_match, place, gap=92"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ragainė\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-153892
 
 <a id="claim-t-169164"></a>
-- t-020
+- t-023
   global_id: t-169164
-  teiginys: '1315 m. apie Žolinę lietuviai iš Žemaitijos slaptai ir netikėtai atžygiavo prie Ragainės pilies ir ją užpuolė.'
+  teiginys: "1315 m. apie Žolinę lietuviai iš Žemaitijos slaptai ir netikėtai atžygiavo prie Ragainės pilies ir ją užpuolė."
+  semantiniai_rysiai: "Lietuviai puolė Ragainė (0.95)"
+  temporaliniai_duomenys: "įvykio data: 1315 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia datą, veikėjus ir Ragainės pilies užpuolimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "651603-652182; hash=2e87a2d328b499113d15e9aefc9f4ef311e57fc3eca9bc65fbeaa8fa4768ea03; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Ragainė: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Ragainė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad lietuviai užpuolė Ragainės pilį."
   pagrindžia:
-    - c-003
+    - c-153887
 
 <a id="claim-t-169165"></a>
-- t-021
+- t-026
   global_id: t-169165
-  teiginys: '1409 m. Vokiečių ordinas Ragainėje sulaikė Jogailos Lietuvai siųstus javus.'
+  teiginys: "1409 m. Vokiečių ordinas Ragainėje sulaikė Jogailos Lietuvai siųstus javus."
+  temporaliniai_duomenys: "įvykio data: 1409 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Įvardyti veikėjas, objektas ir data, pašalintas neaiškus įvardis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "259374-259656; hash=d96eb500c4fc001339a46feba27cb7f6a9ee5807ab433ea293d5db0c5a61b916; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ragainė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ragainė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-153886
 
 <a id="claim-t-184194"></a>
-- t-022
+- t-030
   global_id: t-184194
-  teiginys: 'Tų pačių metų rudenį lietuviai sugriovė Ragainės ir Skalvių pilių papilius.'
+  teiginys: "Tų pačių metų rudenį lietuviai sugriovė Ragainės ir Skalvių pilių papilius."
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Lietuviai puolė Ragainė (0.68)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "591032-591452; hash=0b5ded629c155ddcf5d44c2c3f6fc8b8c6add847f6773012073ece866faaa1f9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Ragainė: 0.68"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Ragainė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Sugriovimas yra tiesiogiai nurodytas karinis veiksmas prieš Ragainės pilies papilį, nors relation_kind yra apibendrintas."
   pagrindžia:
-    - c-014
+    - c-153899
 
 <a id="claim-t-185118"></a>
-- t-023
+- t-031
   global_id: t-185118
-  teiginys: '1299 m. Brandenburgo komtūras Kanonas papildė kariuomenę stipriu Ragainės būriu ir laivais nuplukdė ją į Lietuvos gilumą.'
+  teiginys: "1299 m. Brandenburgo komtūras Kanonas papildė kariuomenę stipriu Ragainės būriu ir laivais nuplukdė ją į Lietuvos gilumą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1299 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie Ragainės būrį; pradinis teiginys turi OCR triukšmo ir yra per ilgas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "304866-305301; hash=827023c45fa292a924a636edb5adac5ad77695567e17bced2bbb08ef217de9f8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Laivai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ragainė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Laivai: mention_match, thing, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ragainė\" parinktas kaip owner_note_path. Targetas \"Laivai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-019
+    - c-168479
 
 <a id="claim-t-185120"></a>
-- t-024
+- t-033
   global_id: t-185120
-  teiginys: 'Ragainės komtūras išsklaidė Kauno tvirtovę atstatinėjusius darbininkus ir išardė pradėtą pilį.'
+  teiginys: "Ragainės komtūras išsklaidė Kauno tvirtovę atstatinėjusius darbininkus ir išardė pradėtą pilį."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "430384-431049; hash=b77483dcbe18618fe3119fbd6bee45533a8f36bd0d1f0970781f7ad930acb92e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ragainė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ragainė\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-020
+    - c-168481
+
+<a id="claim-t-192736"></a>
+- t-034
+  global_id: t-192736
+  teiginys: "Narbutas rašo, kad ant kalvos netoli Ragainės buvo senovės tvirtovė, kurios vietoje pastatyta kryžiuočių pilis."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "669408-669646; hash=caf066b38a3a601579680433fcebe741710c87c9e16b70d6f3f596c82496d2e5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ragainė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=57"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ragainė\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175506
+
+<a id="claim-t-192737"></a>
+- t-035
+  global_id: t-192737
+  teiginys: "Narbutas nurodo, kad Hartknocho išleistame Dusburgo veikale Ragainė klaidingai pavadinta Ramige."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "669647-669885; hash=28eea22f09fb5f3a74097108c28b6c3dc50ec10ac4b5a566bd0b6ba02029400a; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Berlynas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ragainė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Berlynas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ragainė\" parinktas kaip owner_note_path. Targetas \"Berlynas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175507
+
+<a id="claim-t-193426"></a>
+- t-036
+  global_id: t-193426
+  teiginys: "Rugpjūčio viduryje žemaičiai nuniokojo Ragainės ir Skalvių apylinkes."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "330198-330751; hash=848989981fec65ca073cbeef7bc603ddc900638c802e63d2914a157478eceaa7; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176148
+
+<a id="claim-t-194546"></a>
+- t-037
+  global_id: t-194546
+  teiginys: "Apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių sudeginimą Tais pačiais metais, sekmadienį prieš šventą Joną Krikštytoją (birželio 19), lietuviai, slaptai ir staigiai nusigavę į salą, esančią palei Ragainės pilį, pagrobė visus."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "591032-591452; hash=0b5ded629c155ddcf5d44c2c3f6fc8b8c6add847f6773012073ece866faaa1f9; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-153899
 - susijęs iš [[objektai/ivykiai/Ragainės pilies puolimas ir Christmemelio apgultis (1315 m.).md#claim-t-70964|Ragainės pilies puolimas ir Christmemelio apgultis (1315 m.)]]: 1315 m. apie rugpjūčio 15 d. lietuviai iš Žemaitijos užpuolė Ragainės pilį, nukovė brolį Joną Pope ir pasitraukdami sunaikino Ragainės bei Skalvių laukų pasėlius.
 - susijęs iš [[objektai/ivykiai/Ragainės pilies užpuolimas (1315 m. apie rugpjūčio 15 d.).md#claim-t-62452|Ragainės pilies užpuolimas (1315 m. apie rugpjūčio 15 d.)]]: 1315 m. apie rugpjūčio 15 d. lietuviai iš Žemaitijos slapta atžygiavo prie Ragainės pilies ir ją užpuolė.
 - susijęs iš Гуревич Ф. Д. Древний Новогрудок: F. D. Gurevič veikale „Древний Новогрудок“ Naugarduko pradžia datuojama X a. pabaiga.
@@ -231,12 +609,15 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
 - susijęs iš [[objektai/asmenys/Draika.md#claim-t-60109|Draika]]: 1301 m. Aukaimio pilėnas Draika slapta pasiuntė sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos.
 - susijęs iš [[objektai/asmenys/Fridrichas Kvicas.md#claim-t-59957|Fridrichas Kvicas]]: 1316 m. balandžio 4 d. Fridrichas Kvicas su Ditrichu iš Altenburgo, dar vienu broliu ir trimis Ragainės ginklanešiais patraukė link Bisenės pilies.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Libencelės.md#claim-t-59955|Fridrichas iš Libencelės (vyskupas, XIV a.)]]: Fridrichas iš Libencelės, Ragainės komtūras, su 150 vyrų mėgino slapta paimti Gedimino pilį, tačiau pilėnai ją apgynė.
+- susijęs iš [[objektai/asmenys/Hartknochas.md#claim-t-190863|Hartknochas]]: Hartknocho išleistame Dusburgo veikale Ragainė, Narbuto teigimu, klaidingai pavadinta Ramige.
 - susijęs iš [[objektai/asmenys/Jonas iš Vienos.md#claim-t-60348|Jonas iš Vienos]]: Jonas iš Vienos kartu su Ragainės komtūru Erneke ir 25 ginklanešiais laivais išplaukė Lietuvos link.
 - susijęs iš [[objektai/asmenys/Konradas Štangė.md#claim-t-60159|Konradas Štangė]]: Konradas Štangė, Ragainės komtūras, apie liepos 25 d. patraukė link Junigedos pilies ir pasiuntė žvalgą sužinoti padėties pilyje.
 - susijęs iš [[objektai/asmenys/Liudvikas iš Libencelės.md#claim-t-59882|Liudvikas iš Libencelės]]: 1294–1300 m. Liudvikas iš Libencelės buvo Ragainės komtūras ir daug kartų kariavo su lietuviais.
 - susijęs iš [[objektai/asmenys/Otonas iš Bergo.md#claim-t-60401|Otonas iš Bergo]]: 1294 m. Otonas iš Bergo su Ditrichu iš Ezbeko ir Otonu iš Cedlico buvo pasiųstas su 300 vyrų saugoti Ragainės pilies.
 - susijęs iš [[objektai/asmenys/Otonas iš Cedlico.md#claim-t-60402|Otonas iš Cedlico]]: 1294 m. Otonas iš Cedlico su Ditrichu iš Ezbeko ir Otonu iš Bergo buvo pasiųstas su 300 vyrų saugoti Ragainės pilies.
 - susijęs iš [[objektai/asmenys/Pinas.md#claim-t-60413|Pinas]]: Aukaimio pilėnas Draika slaptai pasiuntė savo sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos.
+- susijęs iš [[objektai/autoriai/Hartknochas.md#claim-t-190698|Hartknochas]]: Hartknocho išleistame Dusburgo veikale Ragainė, Narbuto teigimu, klaidingai pavadinta Ramige.
+- susijęs iš [[objektai/autoriai/J. Foigtas.md#claim-t-190730|Johanas Foigtas]]: Ponas Foigtas Berlyno rankraštyje rado vietovardį Raganita, o Narbutas jį laikė tikriausiu Ragainės pavadinimu dėl ryšio su vardu Ragana.
 - susijęs iš [[objektai/autoriai/Lasickis J.md#claim-t-60742|Lasickis J]]: J. Lasickis Ragainą laikė miškų deive.
 - susijęs iš [[objektai/autoriai/Mažvydas M.md#claim-t-60615|Mažvydas M]]: M. Mažvydo 1549 m. lotyniškuose laiškuose Ragainė vadinta formomis „Ragneta“ ir „in Ragnet“.
 - susijęs iš [[objektai/autoriai/Remeika J.md#claim-t-91934|Remeika J]]: J. Remeikos darbe minima, kad Nemuno senvagė dešiniajame krante priešais Ragainę vadinama Merguva.
@@ -481,6 +862,7 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
     žmonių nelaisvėn. Kita kariuomenės dalis paėmė Naujapilį su
     3000 žmonių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -497,6 +879,7 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
     ir jis, jau nebesislėpdamas, nusiuntė į Žemaičius savo bajorų ir
     paėmė juos į savo valdžią.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -517,6 +900,7 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
     pasitraukė, ištrypę ir sunaikinę abiejų pilių, būtent: Skalvių ir Ragainės, laukuose visus
     pasėlius.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -535,6 +919,7 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
     apie Ragainę, taip pat apie Karaliaučių, kuriame nuo 1312 m. buvo didžiojo maršalo
     rezidencija136.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -556,6 +941,7 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
     su 40 brolių ir šimtu rinktinių ginklanešių. Neilgai trukus prie Nemuno, šiek tiek žemiau,
     pastatė Skalvių pilį528, kad turėtų kur gyventi skalviai, atsivertę į Kristaus tikėjimą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -574,6 +960,7 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
     jau ne vien religinė, bet ir politinė autoriaus tendencija, nes nuolat pabrėždamas dievo
     pagalbą kryžiuočių veiksmams, jis juos visur teisino ir skatino.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -591,6 +978,7 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
     chas^30. Atsiuntė savo karių ir Moldavijos « Gaspadorius » Stepo­
     nas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -607,6 +995,7 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
     laikas (žiema, ruduo, javapjūtė) ar mėnuo, nurodoma įvykiui artimiausia bažnytinė
     šventė („prieš šventą Joną Krikštytoją“, „apie žolinę“ ir pan.)132. Visa tai rodo, jog tokios
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -640,6 +1029,7 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
     Pirmoji.., p. 251, 257). Lietuviškai M. Mažvydas rašė Ragainė (1549 m.— „Giesmė šv.
     Ambraziejaus”).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -656,6 +1046,7 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
     Karaliaučius kitados priklausę Lietuvai ir Lietuva vėl turinti juos atgauti, nes tai — Vytauto
     tėvonija40.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -681,6 +1072,7 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
     link, bandė pereiti Nemuną brasta, bet
     jiems buvo sukliudyta.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -698,6 +1090,7 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
     chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė
     jos užimti, o tik sudegino papilį.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -715,6 +1108,7 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
 
           281 (274).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -737,12 +1131,14 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
 
                262 (255).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
     - t-022
+    - t-028
 
 - c-015
   santrauka: 'Tyrinėtojai siejo Dusburgietį iš pradžių su Ragaine, po to su Karaliaučiumi.'
@@ -755,6 +1151,7 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
     pasirodyti Prūsijoje  ir kiek vėliau, kai Ordino sostinė buvusi perkelta  į Marienburgą
     (1309 m.) (M. Poliakuvna).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -775,6 +1172,7 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
     ežerai (Basanavičius J., Iš gyvenimo vėlių.., p. 183). Žinomi pasakojimai apie piliakalnį
     į pietryčius nuo Ragainės (ten pat, p. 178—181).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -792,6 +1190,7 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
     Nemuno pusėse,  ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar
     yra Ragainės pilis, ją užpuolė468. Kai kurie, atrėmę kopėčias, stengėsi užkopti ant sienų.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -809,6 +1208,7 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
     Karaliaučiaus brolių komtūru. Stebėtinų dalykų pasakojama apie šio vyro gyvenimą ir
     apie jo ypatingą dorovingumą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -836,6 +1236,7 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
     krašto gilumą. Pasroviui atskubėjo lietuviai ir, praradę
     tik vieną saviškį, privertė priešą pasukti atgal.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -860,11 +1261,496 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
     sausų malkų ir padegė taip, kad vėjas neštų liepsną į
     pilį, daug gynėjų žuvo ugnyje.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-024
+
+- c-021
+  santrauka: 'Narbutas rašo, kad ant kalvos netoli Ragainės buvo senovės tvirtovė, kurios vietoje pastatyta kryžiuočių pilis.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Šioje provincijoje šen bei ten aptikta gynybinių
+    įtvirtinimų vietų. Tokia tvirtovė buvusi ant kalvos netoli
+    Ragainės, kur buvo pastatyta šitaip vadinama kryžiuo­
+    čių pilis. Ten, netoli Supenų kaimo, esama senovės skal­
+    vių pilies pėdsakų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-025
+
+- c-022
+  santrauka: 'Narbutas nurodo, kad Hartknocho išleistame Dusburgo veikale Ragainė klaidingai pavadinta Ramige.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Ragainė Hartknocho išleistame Dus-
+    burgo veikale klaidingai pavadinta Ramige (p. III. C.
+    178). Ponas Foigtas rado Berlyno rankraštyje vietovardį
+    Raganita, ir tai žinomas pats tikriausias pavadinimas, nes
+    jis kilęs iš mitinio vardo Ragana.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-026
+
+- c-023
+  santrauka: 'Rugpjūčio viduryje žemaičiai nuniokojo Ragainės ir Skalvių apylinkes.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kaip
+    192
+
+    ## Puslapis 191
+
+    šie metai praėjo tėvynėje atremiant priešą, taip ki­
+    tais metais karo veiksmai buvo perkelti į priešo že­
+    mę. Rugpjūčio viduryje žemaičiai nuniokojo Ragainės
+    ir Skalvių apylinkes. Kryžiuočių kariai, atskubėję iš
+    iš tos kariuomenės, kuri traukė iš Prūsijos, sudarė nau­
+    jus pulkus ir nuvedė juos pulti Christmemelio pilies;
+    taranai daužė pilies sienas, galybė strėlių ir iečių
+    nešė pilies gynėjams žaizdas ir mirtį, į pagalbą iš Sem­
+    bos skubėjęs būrys tapo užpultas ir sunaikintas, ap­
+    gultųjų padėtis darėsi visai beviltiška.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-027
+
+## Citatos
+
+- id: c-37686
+  citata_originali: |
+    Pav., Ragainės komtūras vienu puolimu išsivedė 100
+    žmonių nelaisvėn. Kita kariuomenės dalis paėmė Naujapilį su
+    3000 žmonių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169145
+
+- id: c-153886
+  citata_originali: |
+    Tais pačiais 1409 m. Lietuvoje buvo nederlius. Jogaila, norė-
+    damas padėti Lietuvai, siuntė jai javų. Tačiau ordinas Ragainėje
+    juos sulaikė. Tatai Vytauto santykius su ordinu visai nutraukė,
+    ir jis, jau nebesislėpdamas, nusiuntė į Žemaičius savo bajorų ir
+    paėmė juos į savo valdžią.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169165
+
+- id: c-153887
+  citata_originali: |
+    Apie Ragainės pilies užpuolimą
+
+      1315 viešpaties metais, apie žolinę (rugpjūčio 15), lietuviai iš Žemaitijos574 slaptai ir
+    netikėtai atžygiavo su visa savo kariuomene prie Ragainės pilies ir ją užpuolė. Broliai
+    jiems bandė pastoti kelią, tačiau noromis nenoromis turėjo pasitraukti, nes nepajėgė
+    atsispirti tokiai daugybei, be to, patyrė ir nuostolių, kadangi netikėliai ten nukovė brolį
+    Joną, vadinamą Pope, o daug kitų sužeidė. Galop lietuviai, nieko nepešę iš šio antpuolio,
+    pasitraukė, ištrypę ir sunaikinę abiejų pilių, būtent: Skalvių ir Ragainės, laukuose visus
+    pasėlius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169164
+
+- id: c-153888
+  citata_originali: |
+    Turėdami omenyje XIV a. pabaigoje kryžiuočių žvalgų pranešimų pagrindu sudarytus
+    100 kelių  į Lietuvą aprašymus135, kuriuos gaudavo didysis maršalas, galime manyti,
+    kad tokie — visų pirma karinio pobūdžio — pranešimai buvo kaupti ir anksčiau. Ordino
+    administraciniai centrai buvo Kulmas, Elbingas, Karaliaučius, Ragainė, o nuo 1309
+    m —Marienburgas. Kronikininkui rūpėjo Ordino veikla rytuose, todėl galime galvoti
+    apie Ragainę, taip pat apie Karaliaučių, kuriame nuo 1312 m. buvo didžiojo maršalo
+    rezidencija136.
+  citata_rodoma: "Ordino\nadministraciniai centrai buvo Kulmas, Elbingas, Karaliaučius, Ragainė, o nuo 1309\nm —Marienburgas. Kronikininkui rūpėjo Ordino veikla rytuose, todėl galime galvoti\napie Ragainę, taip pat apie Karaliaučių, kuriame nuo 1312 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169148
+
+- id: c-153889
+  citata_originali: |
+    235 (228). Apie Ragainės ir Skalvių pilių pastatymą
+
+      1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti
+    krikščionių gyvenamus plotus  ir  padidinti Prūsijos žemes, patraukė švento Jurgio
+    kankinio dieną (balandžio 23) su galybe karių  į skalvių žemę ir dievo garbei bei šlovei
+    ant vienos kalvos Nemuno pakrantėje pastatė pilį, vardu Landeshutė, o lotyniškai šitai
+    reiškia žemėsauga, tačiau dabar ji visų vadinama nuo šalimais tekančio upelio Ragaine,
+    palikdamas ten jai ginti iš Austrijos kilusį brolį Bertoldą, vadinamą Briuhavenu, komtūrą,
+    su 40 brolių ir šimtu rinktinių ginklanešių. Neilgai trukus prie Nemuno, šiek tiek žemiau,
+    pastatė Skalvių pilį528, kad turėtų kur gyventi skalviai, atsivertę į Kristaus tikėjimą.
+  citata_rodoma: "Apie Ragainės ir Skalvių pilių pastatymą\n\n  1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti\nkrikščionių gyvenamus plotus  ir  padidinti Prūsijos žemes, patraukė švento Jurgio\nkankinio dieną (balandžio 23) su galybe karių  į skalvių žemę ir dievo garbei bei šlovei\nant vienos kalvos Nemuno pakrantėje pastatė pilį, vardu Landeshutė, o lotyniškai šitai\nreiškia žemėsauga, tačiau dabar ji visų vadinama nuo šalimais tekančio upelio Ragaine,\npalikdamas ten jai ginti iš Austrijos kilusį brolį Bertoldą, vadinamą Briuhavenu, komtūrą,\nsu 40 brolių ir šimtu rinktinių ginklanešių. Neilgai trukus prie Nemuno, šiek tiek žemiau,\npastatė Skalvių pilį528, kad turėtų kur gyventi skalviai, atsivertę į Kristaus tikėjimą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169158
+
+- id: c-153890
+  citata_originali: |
+    Traukianti iš Lietuvos didelė brolių kariuomenė, dievo padedama,
+    vidurnaktį sėkmingai perėjo per skylantį Nemuno ledą (III, 256); viešpats panašiai juos
+    globojo, kai traukė per ploną Kuršių marių ledą (III, 285). Dievo ir švenčiausios panelės
+    globojamas kryžiuočių karys, nukritęs nuo suklupusio žirgo ir atsilikęs nuo Žemaitijoje
+    plėšikaujančios savo kariuomenės, pėsčiomis sėkmingai grįžo  į Ragainę (III, 333). Tai
+    jau ne vien religinė, bet ir politinė autoriaus tendencija, nes nuolat pabrėždamas dievo
+    pagalbą kryžiuočių veiksmams, jis juos visur teisino ir skatino.
+  citata_rodoma: "Dievo ir švenčiausios panelės\nglobojamas kryžiuočių karys, nukritęs nuo suklupusio žirgo ir atsilikęs nuo Žemaitijoje\nplėšikaujančios savo kariuomenės, pėsčiomis sėkmingai grįžo  į Ragainę (III, 333). Tai\njau ne vien religinė, bet ir politinė autoriaus tendencija, nes nuolat pabrėždamas dievo\npagalbą kryžiuočių veiksmams, jis juos visur teisino ir skatino."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169159
+
+- id: c-153892
+  citata_originali: |
+    Kijeve jau birželio mėn. prie gausių stalų
+    buvo susirinkusi didelė kariuomenė^29. Šalia paties Vytauto būrių
+    iš tikrosios Lietuvos ir rusiškųjų žemių, dalyvavo būrelis lenkų
+    riterių ir su 1600 raitelių Ragainės komtūras Markvardas Salzba­
+    chas^30. Atsiuntė savo karių ir Moldavijos « Gaspadorius » Stepo­
+    nas.
+  citata_rodoma: "prie gausių stalų\nbuvo susirinkusi didelė kariuomenė^29. Šalia paties Vytauto būrių\niš tikrosios Lietuvos ir rusiškųjų žemių, dalyvavo būrelis lenkų\nriterių ir su 1600 raitelių Ragainės komtūras Markvardas Salzba­\nchas^30. Atsiuntė savo karių ir Moldavijos « Gaspadorius » Stepo­\nnas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169163
+
+- id: c-153893
+  citata_originali: |
+    Nuo 1289 m., kuriais buvo pastatyta Ragainės pilis (III, 235), kronikoje pasirodo daugiau
+    smulkmenų, nurodomos įvykių dienos (142-ose III dalies skyreliuose, aprašančiuose
+    karą prieš Lietuvą, 204 kartus jos pateiktos tiksliai), nors tarpais pasakomas tik metų
+    laikas (žiema, ruduo, javapjūtė) ar mėnuo, nurodoma įvykiui artimiausia bažnytinė
+    šventė („prieš šventą Joną Krikštytoją“, „apie žolinę“ ir pan.)132. Visa tai rodo, jog tokios
+  citata_rodoma: "Nuo 1289 m., kuriais buvo pastatyta Ragainės pilis (III, 235), kronikoje pasirodo daugiau\nsmulkmenų, nurodomos įvykių dienos (142-ose III dalies skyreliuose, aprašančiuose\nkarą prieš Lietuvą, 204 kartus jos pateiktos tiksliai), nors tarpais pasakomas tik metų\nlaikas (žiema, ruduo, javapjūtė) ar mėnuo, nurodoma įvykiui artimiausia bažnytinė\nšventė („prieš šventą Joną Krikštytoją“, „apie žolinę“ ir pan."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169162
+
+- id: c-153894
+  citata_originali: |
+    Apie ilgą vienos pilies apgulą ir vieną nuostabų įvykį
+
+       Skalviai prie Ragainės ant kalno turėjo pilį465, kurią siautė didelė rutėnų kariuomenė466,
+      465 D. — Raganita, Jer. — Ragnîtin, Rangnîte, Ragnîte, Ragnît (SRP, 1, p. 488, 489,
+    519, 523, 535); vėliau — Ragnit, lie. Ragainė (dab. Nemanas).
+      Ordino pilis iš pradžių vadinosi Landishute (1291 m.— PUB, 1, 2, Nr. 576, p. 363),
+    Landeshute (D. III, 235), vėliau įsigali baltiškasis vardas: lotyniškuose dokumentuose —
+    Raganitie (1300 m — PUB, 1, 2, Nr. 745, p. 463), o vokiškuose — Raug-[nit], Rangnith,
+    Rangnithe (1302 m. ir vėliau — ten pat, Nr. /77, 778 791 879). Vokiškuose Pelplino
+    analuose (XIV a. pradžia) — Ragenitien (SRP, 1, p. 271). Kiek vėlesnėje už Dusburgietį
+    lotyniškoje Sembos kanauninko kronikoje Rangnîthen, Ragnithen (SRP, 1, p. 280, 283).
+    Vokiškoje Prūsijos trumpojoje eiliuotoje kronikoje — Rangniten (SRP, 2, p. 8). Lotyniškoje
+    Vartbergės Livonijos kronikoje (iki 1378 m.) — Ragnithen, Ragniten (SRP, 2, p. 85, 95
+    ir kt.), Vygando Marburglškio Prūsijos kronikoje (iki 1394 m.) — Ragneta, Ragnite,
+    Ragnita (SRP, 2, p. 509, 514, 522, 541 ir kt.). Vokiškuose kryžiuočių kelių aprašymuose
+    — Rangith (Weg. 6), Rangnit (Weg. 7, 8, 15, 18 22, 43), Rangnith (Weg. 8, 90), Rangit
+    (Weg. 8), Ragnit (Weg. 12, 18, 22, 43). XV a. vokiškame rankraštyje — Ragnith (SRP,
+    2, p. 709). XV a. pradžios lotyniškuose Torunės analuose — Ragniten, o jų pagrindu
+    parašytos Posilgės kronikos vokiškame vertime — Rangnith (SRP, 3, p. 131).
+      M. Mažvydo lotyniškuose laiškuose — Ragneta, in Ragnet (1549 m.— Mažvydas M.,
+    Pirmoji.., p. 251, 257). Lietuviškai M. Mažvydas rašė Ragainė (1549 m.— „Giesmė šv.
+    Ambraziejaus”).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169150
+    - t-169149
+
+- id: c-153895
+  citata_originali: |
+    Ryškūs lietuvių
+    tautos siekimai atgauti Ordino užgrobtas vakarinių lietuvių bei prūsų žemes ir XV a.
+    pradžioje. 1412 m. Lietuvos bajorai pareiškė kryžiuočių pasiuntiniams, jog Ragainė ir
+    Karaliaučius kitados priklausę Lietuvai ir Lietuva vėl turinti juos atgauti, nes tai — Vytauto
+    tėvonija40.
+  citata_rodoma: "1412 m. Lietuvos bajorai pareiškė kryžiuočių pasiuntiniams, jog Ragainė ir\nKaraliaučius kitados priklausę Lietuvai ir Lietuva vėl turinti juos atgauti, nes tai — Vytauto\ntėvonija40."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169146
+    - t-169154
+
+- id: c-153896
+  citata_originali: |
+    1361 m. pradžioje, žiemą Ordino mar-
+    šalas su draugeliu kilmingų kryžininkų
+    žygiavo į pirmąjį žiemos žygį, tačiau buvo
+    priversti grįžti atgal, nes lietuviai „buvo
+    įspėti“ - puikiai veikė lietuvių žvalgyba. Tą
+    pačią žiemą kryžiuočiai iš Ragainės du kar-
+    tus ėjo „prieš stabmeldžius“, žudė, degino
+    ir plėšė.
+
+    Vasarą su gausiais svetimšalių būriais
+    ir savais kariais maršalas žygiavo Gardino
+    link, bandė pereiti Nemuną brasta, bet
+    jiems buvo sukliudyta.
+  citata_rodoma: "pradžioje, žiemą Ordino mar-\nšalas su draugeliu kilmingų kryžininkų\nžygiavo į pirmąjį žiemos žygį, tačiau buvo\npriversti grįžti atgal, nes lietuviai „buvo\nįspėti“ - puikiai veikė lietuvių žvalgyba. Tą\npačią žiemą kryžiuočiai iš Ragainės du kar-\ntus ėjo „prieš stabmeldžius“, žudė, degino\nir plėšė.\n\nVasarą su gausiais svetimšalių būriais\nir savais kariais maršalas žygiavo Gardino\nlink, bandė pereiti Nemuną brasta, bet\njiems buvo sukliudyta."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169157
+
+- id: c-153897
+  citata_originali: |
+    Šitai vyko viešpataujant Lie­
+    tuvoje Vyteniui, kuris mirė apie 1315 metus. Kita užuomina
+    Dusburgo kronikoje apie Castrum Gedemini [Gedimino pilį]
+    yra prie 1317 m. (1. 387); anot jos, Ragainės komtūras Fridri­
+    chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė
+    jos užimti, o tik sudegino papilį.
+  citata_rodoma: "Kita užuomina \nDusburgo kronikoje apie Castrum Gedemini [Gedimino pilį] \nyra prie 1317 m. (1. 387); anot jos, Ragainės komtūras Fridri­\nchas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė \njos užimti, o tik sudegino papilį."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169155
+
+- id: c-153898
+  citata_originali: |
+    sužeistas. Paėmę į nelaisvę moteris ir vaikus, sudegino iki pamatų pilį ir papilį, o minėtąjį
+    Draiką nuvedė į Ragainę, kur jis su visa šeimyna buvo pakrikštytas.
+
+
+
+
+          281 (274).
+  citata_rodoma: "Paėmę į nelaisvę moteris ir vaikus, sudegino iki pamatų pilį ir papilį, o minėtąjį\nDraiką nuvedė į Ragainę, kur jis su visa šeimyna buvo pakrikštytas.\n\n\n\n\n      281 (274)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169153
+    - t-169161
+
+- id: c-153899
+  citata_originali: |
+    Apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių
+                                     sudeginimą
+
+       Tais pačiais metais, sekmadienį prieš šventą Joną Krikštytoją (birželio 19), lietuviai,
+    slaptai ir staigiai nusigavę į salą, esančią palei Ragainės pilį, pagrobė visus brolių žirgus
+    ir galvijus. Po to rudenį sugriovė abiejų pilių, būtent: Ragainės ir Skalvių, papilius.
+
+
+
+
+               262 (255).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169160
+    - t-184194
+    - t-194546
+
+- id: c-153900
+  citata_originali: |
+    Šiuo metu žinomas dokumentas, rodantis, kad 1327 m. gruodžio
+    mėn. kunigas brolis Petras tikrai gyvenęs Karaliaučiuje63. Tyrinėtojai siejo Dusburgietį
+    iš pradžių su Ragaine, po to su Karaliaučiumi. Kelta mintis, kad jis rašęs Marienburge,
+    didžiojo magistro rezidencijoje, naudodamasis ten saugomu Ordinu archyvu, kad galėjęs
+    pasirodyti Prūsijoje  ir kiek vėliau, kai Ordino sostinė buvusi perkelta  į Marienburgą
+    (1309 m.) (M. Poliakuvna).
+  citata_rodoma: "Tyrinėtojai siejo Dusburgietį\niš pradžių su Ragaine, po to su Karaliaučiumi. Kelta mintis, kad jis rašęs Marienburge,\ndidžiojo magistro rezidencijoje, naudodamasis ten saugomu Ordinu archyvu, kad galėjęs\npasirodyti Prūsijoje  ir kiek vėliau, kai Ordino sostinė buvusi perkelta  į Marienburgą\n(1309 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169147
+
+- id: c-153901
+  citata_originali: |
+    Skalvių pilis Ragainėje buvo, manoma, piliakalnyje, esančiame per 2 km į pietryčius
+    nuo dab. miestelio, taip pat nuo XIV—XV a. pradžioje statytos Ordino pilies griuvėsių.
+    Pilis buvusi pastatyta aukštame Nemuno krante (žr. D. III, 182). 1289 m. toje vietoje
+    Ordinas pastatė pirmąją Ragainės pilį (žr. D. III, 235; HE, p. 126; С V, t. 34, p. 106—
+    107; Boetticher A., Die Bau.., 5, p. 109). Dusburgiečio aprašyta Skalvių pilis netoli
+    Ragainės (su žuvų tvenkiniu) buvusi žemiau Ragainės, ties Paskalviais, Nemuno lankų
+    pakraštyje — Skalvkalnyje (žr. D. III, 235). Čia, pasak vietos žmonių, buvę du žuvingi
+    ežerai (Basanavičius J., Iš gyvenimo vėlių.., p. 183). Žinomi pasakojimai apie piliakalnį
+    į pietryčius nuo Ragainės (ten pat, p. 178—181).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169144
+
+- id: c-153904
+  citata_originali: |
+    182 (177). Apie Ragainės pilies užkariavimą
+
+       Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių  ir
+    tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus,  į skalvių žemę, esančią abiejose
+    Nemuno pusėse,  ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar
+    yra Ragainės pilis, ją užpuolė468. Kai kurie, atrėmę kopėčias, stengėsi užkopti ant sienų.
+  citata_rodoma: "Apie Ragainės pilies užkariavimą\n\n   Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių  ir\ntūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus,  į skalvių žemę, esančią abiejose\nNemuno pusėse,  ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar\nyra Ragainės pilis, ją užpuolė468. Kai kurie, atrėmę kopėčias, stengėsi užkopti ant sienų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169152
+
+- id: c-153905
+  citata_originali: |
+    236 (229). Apie brolį Karaliaučiaus komtūrą Bertoldą, vadinamą Briuhavenu, bei apie
+                                            jo gyvenimą
+
+       Šis brolis Bertoldas neilgai vadovavo Ragainės piliai, mat netrukus buvo paskirtas
+    Karaliaučiaus brolių komtūru. Stebėtinų dalykų pasakojama apie šio vyro gyvenimą ir
+    apie jo ypatingą dorovingumą.
+  citata_rodoma: "Apie brolį Karaliaučiaus komtūrą Bertoldą, vadinamą Briuhavenu, bei apie\n                                        jo gyvenimą\n\n   Šis brolis Bertoldas neilgai vadovavo Ragainės piliai, mat netrukus buvo paskirtas\nKaraliaučiaus brolių komtūru. Stebėtinų dalykų pasakojama apie šio vyro gyvenimą ir\napie jo ypatingą dorovingumą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169156
+
+- id: c-168479
+  citata_originali: |
+    Kur kas didesnės sėkmės kitais metais susilaukė šeši
+    178
+
+    ## Puslapis 177
+
+    šimtai
+    raitelių.
+    Kanonas,
+    1299 m e ta i
+    Brandenburgo komtūras, su
+    nemaža kariuomene įsibro­
+    vęs į Lietuvą, sudegino artimiausių tvirtovių Junigedos
+    bei Pieštvės papilyse namus, o po to, papildęs kariuo­
+    menę stipriu Ragainės būriu, nugabeno ją laivais į
+    krašto gilumą. Pasroviui atskubėjo lietuviai ir, praradę
+    tik vieną saviškį, privertė priešą pasukti atgal.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185118
+
+- id: c-168481
+  citata_originali: |
+    Kita vertus, priešas irgi iš pas­
+    kutiniųjų stengėsi, kad neseniai nusiaubtose žemėse
+    nebūtų iš naujo atstatomos pilys, trukdančios jam leis­
+    tis į žygį. Iš pradžių Ragainės komtūras išsklaidė dar­
+    bininkus, kurie stengėsi, tegu ir bet kaip, tegu ir grei­
+    tosiomis, pakelti iš griuvėsių Kauno tvirtovę, ir išardė
+    pradėtą pilį. Po to Prūsijos magistras užėmė ir sude­
+    gino Pieštvę, kuri, pabėgus gynėjams, atiteko priešui;
+    taip pat sudegino ir užkariavo Veliuoną, neseniai pa­
+    keltą iš griuvėsių; nors ir smarkiai ją gynė Goštau­
+    tas, tačiau puolėjai prie pačių sienų sukrovė krūvą
+    sausų malkų ir padegė taip, kad vėjas neštų liepsną į
+    pilį, daug gynėjų žuvo ugnyje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185120
+
+- id: c-175506
+  citata_originali: |
+    Šioje provincijoje šen bei ten aptikta gynybinių
+    įtvirtinimų vietų. Tokia tvirtovė buvusi ant kalvos netoli
+    Ragainės, kur buvo pastatyta šitaip vadinama kryžiuo­
+    čių pilis. Ten, netoli Supenų kaimo, esama senovės skal­
+    vių pilies pėdsakų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192736
+
+- id: c-175507
+  citata_originali: |
+    Ragainė Hartknocho išleistame Dus-
+    burgo veikale klaidingai pavadinta Ramige (p. III. C.
+    178). Ponas Foigtas rado Berlyno rankraštyje vietovardį
+    Raganita, ir tai žinomas pats tikriausias pavadinimas, nes
+    jis kilęs iš mitinio vardo Ragana.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192737
+
+- id: c-176148
+  citata_originali: |
+    Kaip
+    192
+
+    ## Puslapis 191
+
+    šie metai praėjo tėvynėje atremiant priešą, taip ki­
+    tais metais karo veiksmai buvo perkelti į priešo že­
+    mę. Rugpjūčio viduryje žemaičiai nuniokojo Ragainės
+    ir Skalvių apylinkes. Kryžiuočių kariai, atskubėję iš
+    iš tos kariuomenės, kuri traukė iš Prūsijos, sudarė nau­
+    jus pulkus ir nuvedė juos pulti Christmemelio pilies;
+    taranai daužė pilies sienas, galybė strėlių ir iečių
+    nešė pilies gynėjams žaizdas ir mirtį, į pagalbą iš Sem­
+    bos skubėjęs būrys tapo užpultas ir sunaikintas, ap­
+    gultųjų padėtis darėsi visai beviltiška.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193426
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Bertoldas]], [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]

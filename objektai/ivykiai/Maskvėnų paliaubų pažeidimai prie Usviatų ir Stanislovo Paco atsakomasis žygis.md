@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Maskvėnų paliaubų pažeidimai prie Usviatų ir Stanislovo Paco atsakomasis žygis
 
@@ -29,10 +41,22 @@ Nenurodyta
 <a id="claim-t-185619"></a>
 - t-001
   global_id: t-185619
-  teiginys: 'Maskvėnai prie Usviatų, Dauguvos ir Ūlos statė įtvirtinimus, plėšė kaimynines žemes ir nesėkmingai bandė užimti Voronečą.'
+  teiginys: "Maskvėnai prie Usviatų, Dauguvos ir Ūlos statė įtvirtinimus, plėšė kaimynines žemes ir nesėkmingai bandė užimti Voronečą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1325926-1326576; hash=9766273b6e2913e9f3f1bd674c9bb2f08b500236e6f7ea6100b5f691f4cabe10; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dauguva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskvėnų paliaubų pažeidimai prie Usviatų ir Stanislovo Paco atsakomasis žygis: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Dauguva: mention_match, place, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskvėnų paliaubų pažeidimai prie Usviatų ir Stanislovo Paco atsakomasis žygis\" parinktas kaip owner_note_path. Targetas \"Dauguva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-168980
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -51,8 +75,31 @@ Nenurodyta
     laiškus, n ei p e r pasiuntinius, k araliu s p arag in o  gretim ų
     pilių seniūnus p u ld in ėti m ask v ėn ų  žem es.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-168980
+  citata_originali: |
+    P rie U sviatų ir
+    D auguvos b ei Ū los san tak o je p astatę įtvirtinim us, jie
+    plėšė kaim ynin es žem es, o k a rtą  b an d ė užgrobti V oro-
+    n ečo  pilį, tiesa, nesėkm ingai. V asiliju i Z aborovskiui, k u ­
+    ris k araliau s v a rd u  n u sisk u n d ė dėl d arom ų skriaudų,
+    Iv an as atsakė, k ad  U sviatai bei Ū la jo rankose, k ad  čia
+    staty ti pilis jam  v isai n ed rau d žia paliaubos, o V orone-
+    čą k araliau s žm onės p astatė p aliau b ų  m etu, ir dėl to
+    k ariai k etin ę jį užim ti. N eg alėd am as rasti tiesos nei p er
+    laiškus, n ei p e r pasiuntinius, k araliu s p arag in o  gretim ų
+    pilių seniūnus p u ld in ėti m ask v ėn ų  žem es.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185619

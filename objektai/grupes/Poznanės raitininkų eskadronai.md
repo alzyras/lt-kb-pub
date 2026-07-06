@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - grupe
   - mūšis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Poznanės raitininkų eskadronai
 
@@ -20,9 +32,20 @@ Lenkijos - 7-asis pėstininkų pulkas, 1-asis, 2-asis ir 4-asis šaulių pulkai,
 <a id="claim-t-38997"></a>
 - t-001
   global_id: t-38997
-  teiginys: 'Panerių mūšyje Poznanės raitininkų eskadronai buvo tarp Lenkijos sukilėlių kariuomenės dalinių.'
+  teiginys: "Panerių mūšyje Poznanės raitininkų eskadronai buvo tarp Lenkijos sukilėlių kariuomenės dalinių."
+  semantiniai_rysiai: "Poznanės raitininkų eskadronai priklausė Lenkija (0.72)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "631766-632189; hash=417d3785be8b7480122c93134f919440c2dafd4a8f99f5de0bb651411b85f7b2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lenkija: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Poznanės raitininkų eskadronai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Poznanės raitininkų eskadronai išvardyti Lenkijos sukilėlių dalinių sąraše."
   pagrindžia:
-    - c-001
+    - c-40801
 - susijęs iš [[objektai/grupes/Kališo raitelių dalinys.md#claim-t-38961|Kališo raitelių dalinys]]: Panerių mūšyje Kališo raitininkų eskadronai buvo tarp Lenkijos sukilėlių junginių.
 - susijęs iš [[objektai/asmenys/H. Dembinskis.md#claim-t-40131|H. Dembinskis]]: Panerių mūšyje H. Dembinskio daliniai turėjo imituoti puolimą per Neries Žaliąjį tiltą, tačiau šio plano įgyvendinti nepavyko.
 - susijęs iš [[objektai/grupes/12-asis ulonų pulkas.md#claim-t-38925|12-asis ulonų pulkas]]: 12-asis ulonų pulkas buvo vienas iš Lietuvos sukilėlių dalinių, sudariusių sukilėlių kariuomenės pagrindą Panerių mūšyje.
@@ -47,11 +70,35 @@ Lenkijos - 7-asis pėstininkų pulkas, 1-asis, 2-asis ir 4-asis šaulių pulkai,
     Poznanės raitininkų eskadronai ir kiti ma-
     zesni junginiai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-40801
+  citata_originali: |
+    Sukilėlių pajėgos
+
+    Sukilėlių kariuomenės pagrindą Panerių
+    mūšyje sudarė Lietuvos ir Lenkijos suki-
+    lėlių daliniai. Lietuvos - 2-asis pėstininkų
+    pulkas, 6-asis raitųjų šaulių pulkas, 12-asis
+    ulonų pulkas, Trakų sukilėlių daliniai ir
+    kiti smulkesni. Lenkijos - 7-asis pėsti-
+    ninkų pulkas, 1-asis, 2-asis ir 4-asis šaulių
+    pulkai, 1-asis ulonų pulkas, Kališo, Plocko,
+    Poznanės raitininkų eskadronai ir kiti ma-
+    zesni junginiai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-38997
 
 ## Ryšiai
 - Poznanės raitininkų eskadronai priklausė [[objektai/vietos/Lenkija]]

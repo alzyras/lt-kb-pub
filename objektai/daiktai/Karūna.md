@@ -5,6 +5,7 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1251 m.'
   - '1253 m.'
@@ -21,6 +22,18 @@ tags:
 amziai:
   - 'XIII'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Karūna
 
@@ -53,58 +66,163 @@ Nenurodyta
 <a id="claim-t-12301"></a>
 - t-001
   global_id: t-12301
-  teiginys: 'Cigala ir Rothas ragino Vytautą karūnuotis ir patarė kaldinti karūnas Vilniuje.'
+  teiginys: "Cigala ir Rothas ragino Vytautą karūnuotis ir patarė kaldinti karūnas Vilniuje."
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "574032-574264; hash=5d2e5c494b867d732c8373910b3b5f144045b4e18a50db14c2b86ba1efe31139; match=ocr_normalized"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Karūna: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=38"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karūna\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-170002
 
 <a id="claim-t-186813"></a>
-- t-002
+- t-003
   global_id: t-186813
-  teiginys: 'Vytautas laiške Zigmantui rašė, kad Zigmantas galėsiąs siųsti jam karūną tiesiog per Lenkiją.'
+  teiginys: "Vytautas laiške Zigmantui rašė, kad Zigmantas galėsiąs siųsti jam karūną tiesiog per Lenkiją."
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "586937-587289; hash=fcf4502c35e2cbd9a0e4cced6cc9f13e07485ed7b1a7b8d092b6d786fcfc4a04; match=ocr_normalized"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Karūna: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karūna\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-169997
 
 <a id="claim-t-186814"></a>
-- t-003
+- t-004
   global_id: t-186814
-  teiginys: 'Gediminas ir Algirdas vadinosi karaliais nelaukdami pripažinimo ir karūnos iš Vakarų.'
+  teiginys: "Gediminas ir Algirdas vadinosi karaliais nelaukdami pripažinimo ir karūnos iš Vakarų."
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "42381-42840; hash=5baf6897baeb28138cc4889cd926c7df71afdb4f64a5f8878fc038e58fb2008d; match=whitespace_regex"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Karūna: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=54"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karūna\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-170001
 
 <a id="claim-t-186815"></a>
-- t-004
+- t-006
   global_id: t-186815
-  teiginys: 'Vytautas Didysis buvo vaizduojamas kaip Žalgirio mūšio laimėtojas ir Lietuvos karaliaus karūnos siekęs valdovas.'
+  teiginys: "Vytautas Didysis buvo vaizduojamas kaip Žalgirio mūšio laimėtojas ir Lietuvos karaliaus karūnos siekęs valdovas."
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "325684-325912; hash=56a90ff73af3688d3c90fdde94851ea9528a877d60ac0f6676a7f575a1f4a958; match=whitespace_regex"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Karūna: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karūna\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-170003
 
 <a id="claim-t-186816"></a>
 - t-005
   global_id: t-186816
-  teiginys: 'Mindaugo krikšto svarbiausias tikslas buvo karūna, kurią jis pasiekė 1253 m. liepos 6 d.'
+  teiginys: "Mindaugo krikšto svarbiausias tikslas buvo karūna, kurią jis pasiekė 1253 m. liepos 6 d."
+  teiginio_tipas: "faktas"
+  temporaliniai_duomenys: "įvykio data: 1251 m.; įvykio data: 1253 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "46459-46802; hash=dc1cd866eac396b43de8eeb4f1ec6f58946f193a69a8dc264e6db1bd5f2e1dcd; match=whitespace_regex"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Karūna: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karūna\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-169999
 
 <a id="claim-t-186818"></a>
-- t-006
+- t-019
   global_id: t-186818
-  teiginys: 'Komentare nurodoma, kad šiame šaltinyje teigiama, kad karališkieji vainikai Vytautui ir Julijonai buvo nukalti Niurnbergo auksakalių; Šiame gabale vainikai apibūdinami kaip iš Vokietijos gabenti karūnacijos daiktai.'
+  teiginys: "Komentare nurodoma, kad šiame šaltinyje teigiama, kad karališkieji vainikai Vytautui ir Julijonai buvo nukalti Niurnbergo auksakalių; Šiame gabale vainikai apibūdinami kaip iš Vokietijos gabenti karūnacijos daiktai."
+  teiginio_tipas: "faktas"
+  semantiniai_rysiai: "Karūna priklausė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.74)"
+  temporaliniai_duomenys: "įvykio data: 1430 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "503177-503533; hash=7a93142d1e2e745ecab5b8ef991a29767871e053a497363f25ca3a1cd725ccd9; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  ryšio_patikimumas: "priklause -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Karūna: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Vainikai buvo skirti Vytautui, todėl karūna siejama su Vytautu, nors tekstas kalba apie nukaldinimą ir gabenimą."
   pagrindžia:
-    - c-004
+    - c-170000
 
 <a id="claim-t-186819"></a>
-- t-007
+- t-020
   global_id: t-186819
-  teiginys: 'Komentare nurodoma, kad šiame šaltinyje minima legenda, kad Vytauto vainikas buvo sulydytas į Krokuvos vyskupų mitrą; Šiame gabale Vytauto karūna minima kaip vėlyvesnių politinių pretenzijų ir atminties objektas.'
+  teiginys: "Komentare nurodoma, kad šiame šaltinyje minima legenda, kad Vytauto vainikas buvo sulydytas į Krokuvos vyskupų mitrą; Šiame gabale Vytauto karūna minima kaip vėlyvesnių politinių pretenzijų ir atminties objektas."
+  teiginio_tipas: "saltinio_vaizdinys"
+  temporaliniai_duomenys: "įvykio data: 1526 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "504747-505065; hash=ef50f3a57ecf384d6973618b1cbb5bcc13d959595a61050a3cf7998d5b227233; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Karūna: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=45"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karūna\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
-    - c-001
+    - c-169996
 
 <a id="claim-t-186821"></a>
-- t-008
+- t-002
   global_id: t-186821
-  teiginys: 'Po ilgo pamokslo Olesnickis pasiūlė Vytautui Jogailos karūną.'
+  teiginys: "Po ilgo pamokslo Olesnickis pasiūlė Vytautui Jogailos karūną."
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "551363-551632; hash=a0674160086aebb9056a51ac13aacbecc0592ad35ceb0dd3cf9bc01d9da2ae16; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   pagrindžia:
-    - c-008
+    - c-170005
+
+<a id="claim-t-194984"></a>
+- t-021
+  global_id: t-194984
+  teiginys: "Visu savo veikimu jis reiškėsi kaip didis kara lius, bet mirtis sutrukdė jam užsidėti karališką karūną."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "424152-424607; hash=389aaf8a3c2cebf9c4cedd7c9fdfd1fc44b627f45f30512a38634af16f7f3fe8; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / reject"
+  pagrindžia:
+    - c-177369
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176298|Algirdas (Lietuvos valdovas)]]: Algirdas, nelaukdamas pripažinimo ir karūnos iš svetur, vadinosi karaliumi.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176330|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas ir Algirdas vadinosi karaliais nelaukdami pripažinimo ir karūnos iš Vakarų.
 - susijęs iš [[objektai/asmenys/Hinka iš Valdšteino.md#claim-t-34792|Hinka iš Valdšteino]]: 1421 m. čekų pasiuntinys Hinka iš Valdšteino pasiūlė karūną Jogailai, o šiam delsus čekai kreipėsi į Vytautą.
@@ -318,6 +436,7 @@ Nenurodyta
     ir Ldk 2ygtmanlas Senasis vainikuotų savo sūnų Žygimantą Au­
     gustą Krokuvoje esančia ar turinčia būti Vytauto karūna.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_vaizdinys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -335,6 +454,7 @@ Nenurodyta
     rašo, kad jis dabar galėsiąs jam siųsti karūną tiesiog per
     Lenkiją^4 ).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -350,6 +470,7 @@ Nenurodyta
     dienai priklauso garbinga vieta mūsų kalendoriuje: juk Mindaugas – pir-
     mas ir vienintelis vainikuotas Lietuvos karalius.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -367,6 +488,7 @@ Nenurodyta
     nukalti Niurnbergo (Bavarija) auksakalių ir iš ten buvo gabenami,
     o  ne iš Romos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -384,6 +506,7 @@ Nenurodyta
     tur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais. Tik Vytautas taps
     mandagesnis ir sieks įgyti karūną ir pripažinimą iš Vakarų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -398,6 +521,7 @@ Nenurodyta
     liovė Vytautą įkalbinėt karūnuotis, patardami kaldinti Vilniuj
     karūnas ir jomis karūnuotis. Tą ir pats Zigmantas esą patvirtintų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -412,6 +536,7 @@ Nenurodyta
     laimėjęs Žalgirio mūšį, išplėtęs Lietuvą nuo jūrų iki jūrų, siekęs Lietuvai
     karaliaus karūnos, kurią „nugvelbė“ klastingi lenkai...
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -428,11 +553,174 @@ Nenurodyta
     siūlė Vytautui Jogailos karūną^2 ). Toks sumanymas, matyt, bu­
     vo priimtas paskutiniame Sandomiriaus suvažiavime.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
+- c-009
+  santrauka: 'Visu savo veikimu jis reiškėsi kaip didis kara lius, bet mirtis sutrukdė jam užsidėti karališką karūną.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Dar labiau lietuvio dėmesį nuo seno traukia garsas ir
+    darbai kito valdovo. Visu savo veikimu jis reiškėsi kaip didis kara­
+    lius, bet mirtis sutrukdė jam užsidėti karališką karūną. Abu tuos du
+    valdovus jungia vienas bendras bruožas : judviejų politikos ir vei­
+    kimo klausimais istorikai, nors apie abu yra gana daug rašę, iki šiol
+    dar tebesiginčija, nepajėgdami suderinti kai kurių prieštaravimų,
+    negalėdami pasakyti galutino žodžio dėl kai kurių problemų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-009
+
+## Citatos
+
+- id: c-169996
+  citata_originali: |
+    *  Versija apie Vytauto vainiko sulydymą su Krokuvos vyskupų
+    mitra yra, veikiausiai, legenda, Išlikusi ligi XVI a. pradžios. JI at­
+    sispindi ir 1526 m. LDK atstovų reikalavime, kad Lenkijos karalius
+    ir Ldk 2ygtmanlas Senasis vainikuotų savo sūnų Žygimantą Au­
+    gustą Krokuvoje esančia ar turinčia būti Vytauto karūna.
+  citata_rodoma: "*  Versija apie Vytauto vainiko sulydymą su Krokuvos vyskupų \nmitra yra, veikiausiai, legenda, Išlikusi ligi XVI a. pradžios. JI at­\nsispindi ir 1526 m. LDK atstovų reikalavime, kad Lenkijos karalius \nir Ldk 2ygtmanlas Senasis vainikuotų savo sūnų Žygimantą Au­\ngustą Krokuvoje esančia ar turinčia būti Vytauto karūna."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186819
+
+- id: c-169997
+  citata_originali: |
+    Kitus Jogailos pa­
+    lydovus Vytautui pasisekė patraukti savo pusėn^2 ). Bet ir tai nie­
+    ko nepadėjo. Tada dar kartą nutarta kreiptis į likusią Lenkijoj
+    karališką tarybą^3 ) ir, matyt, jau tikrai tikėtasi gauti iš jos su­
+    tikimą, nes tuo laiku Vytautas viename savo laiške Zigmantui
+    rašo, kad jis dabar galėsiąs jam siųsti karūną tiesiog per
+    Lenkiją^4 ).
+  citata_rodoma: "Kitus Jogailos pa­\nlydovus Vytautui pasisekė patraukti savo pusėn^2 ). Bet ir tai nie­\nko nepadėjo. Tada dar kartą nutarta kreiptis į likusią Lenkijoj\nkarališką tarybą^3 ) ir, matyt, jau tikrai tikėtasi gauti iš jos su­\ntikimą, nes tuo laiku Vytautas viename savo laiške Zigmantui\nrašo, kad jis dabar galėsiąs jam siųsti karūną tiesiog per\nLenkiją^4 )."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186813
+
+- id: c-169999
+  citata_originali: |
+    1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaiti-
+    jos Livonijos ordinui. Svarbiausias tikslas, kurio siekta krikštijantis, – ka-
+    rūna. Tikslas buvo pasiektas 1253 m. liepos 6-ąją. Mindaugo vainikavimo
+    dienai priklauso garbinga vieta mūsų kalendoriuje: juk Mindaugas – pir-
+    mas ir vienintelis vainikuotas Lietuvos karalius.
+  citata_rodoma: "1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaiti-\njos Livonijos ordinui. Svarbiausias tikslas, kurio siekta krikštijantis, – ka-\nrūna. Tikslas buvo pasiektas 1253 m. liepos 6-ąją. Mindaugo vainikavimo\ndienai priklauso garbinga vieta mūsų kalendoriuje: juk Mindaugas – pir-\nmas ir vienintelis vainikuotas Lietuvos karalius."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186816
+
+- id: c-170000
+  citata_originali: |
+    1  Vytautas susirgo 1430 m. tarp spalio 18 ir 21 d., vykdamas
+    su Jogaila j Trakus; kaip J. Dlugošas nurodo - nukrito nuo žirgo.
+    * Vytauto mirties data BK klaidinga. Vytautas mirė Trakuose
+    1430 m. spalio 27 d.
+    ’ Karališkieji vainikai Vytautui ir jo  žmonai Julijonai buvo
+    nukalti Niurnbergo (Bavarija) auksakalių ir iš ten buvo gabenami,
+    o  ne iš Romos.
+  citata_rodoma: "’ Karališkieji vainikai Vytautui ir jo  žmonai Julijonai buvo \nnukalti Niurnbergo (Bavarija) auksakalių ir iš ten buvo gabenami, \no  ne iš Romos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186818
+
+- id: c-170001
+  citata_originali: |
+    Nors nebus nė vieno kunigaikščio,
+    kuris nevestų derybų dėl krikšto, kryžiaus karų epochos Europa, nebe-
+    leisdama valstybėms savarankiškai krikštytis, pati tarsi atstums Lietuvą
+    nuo krikščionybės. Lietuva liks savarankiška civilizacinė monada, todėl
+    tiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš sve-
+    tur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais. Tik Vytautas taps
+    mandagesnis ir sieks įgyti karūną ir pripažinimą iš Vakarų.
+  citata_rodoma: "Nors nebus nė vieno kunigaikščio,\nkuris nevestų derybų dėl krikšto, kryžiaus karų epochos Europa, nebe-\nleisdama valstybėms savarankiškai krikštytis, pati tarsi atstums Lietuvą\nnuo krikščionybės. Lietuva liks savarankiška civilizacinė monada, todėl\ntiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš sve-\ntur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais. Tik Vytautas taps\nmandagesnis ir sieks įgyti karūną ir pripažinimą iš Vakarų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186814
+
+- id: c-170002
+  citata_originali: |
+    Tuo tarpu atvyko į Vilnių ir lenkų dele­
+    gacija^6 ). Čia dar tebebuvo ir Cigala ir Rothas, kurie nesi­
+    liovė Vytautą įkalbinėt karūnuotis, patardami kaldinti Vilniuj
+    karūnas ir jomis karūnuotis. Tą ir pats Zigmantas esą patvirtintų.
+  citata_rodoma: "Tuo tarpu atvyko į Vilnių ir lenkų dele­\ngacija^6 ). Čia dar tebebuvo ir Cigala ir Rothas, kurie nesi­\nliovė Vytautą įkalbinėt karūnuotis, patardami kaldinti Vilniuj\nkarūnas ir jomis karūnuotis. Tą ir pats Zigmantas esą patvirtintų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-12301
+
+- id: c-170003
+  citata_originali: |
+    Gerbti ir garbinti
+    Vytautą Didįjį, suaktualinus jo istorinį vaidmenį, tiko visiems: karvedys,
+    laimėjęs Žalgirio mūšį, išplėtęs Lietuvą nuo jūrų iki jūrų, siekęs Lietuvai
+    karaliaus karūnos, kurią „nugvelbė“ klastingi lenkai...
+  citata_rodoma: "Gerbti ir garbinti\nVytautą Didįjį, suaktualinus jo istorinį vaidmenį, tiko visiems: karvedys,\nlaimėjęs Žalgirio mūšį, išplėtęs Lietuvą nuo jūrų iki jūrų, siekęs Lietuvai\nkaraliaus karūnos, kurią „nugvelbė“ klastingi lenkai..."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186815
+
+- id: c-170005
+  citata_originali: |
+    Tad ir kilęs karas, galvojant taip, kaip galvojo Olesnic­
+    kis, kažin keno naudai būtų pasibaigęs.
+
+    Pasakęs tokį ilgą ir griaudingą pamokslą, Olesnickis pa­
+    siūlė Vytautui Jogailos karūną^2 ). Toks sumanymas, matyt, bu­
+    vo priimtas paskutiniame Sandomiriaus suvažiavime.
+  citata_rodoma: "Tad ir kilęs karas, galvojant taip, kaip galvojo Olesnic­\nkis, kažin keno naudai būtų pasibaigęs.\n\nPasakęs tokį ilgą ir griaudingą pamokslą, Olesnickis pa­\nsiūlė Vytautui Jogailos karūną^2 ). Toks sumanymas, matyt, bu­\nvo priimtas paskutiniame Sandomiriaus suvažiavime."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186821
+
+- id: c-177369
+  citata_originali: |
+    Dar labiau lietuvio dėmesį nuo seno traukia garsas ir
+    darbai kito valdovo. Visu savo veikimu jis reiškėsi kaip didis kara­
+    lius, bet mirtis sutrukdė jam užsidėti karališką karūną. Abu tuos du
+    valdovus jungia vienas bendras bruožas : judviejų politikos ir vei­
+    kimo klausimais istorikai, nors apie abu yra gana daug rašę, iki šiol
+    dar tebesiginčija, nepajėgdami suderinti kai kurių prieštaravimų,
+    negalėdami pasakyti galutino žodžio dėl kai kurių problemų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194984
 
 ## Ryšiai
 - Karūna priklausė [[objektai/vietos/Lenkija]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

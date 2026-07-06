@@ -12,9 +12,12 @@ export default (() => {
     externalResources,
     ctx,
   }: QuartzComponentProps) => {
-    const titleSuffix = cfg.pageTitleSuffix ?? ""
-    const title =
-      (fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title) + titleSuffix
+    const titleBase = String(
+      fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title,
+    ).trim()
+    const siteTitle = String(cfg.pageTitle ?? "").trim()
+    const titleSuffix = titleBase === siteTitle ? "" : cfg.pageTitleSuffix ?? ""
+    const title = titleBase + titleSuffix
     const description =
       fileData.frontmatter?.socialDescription ??
       fileData.frontmatter?.description ??
@@ -74,9 +77,9 @@ export default (() => {
             <meta property="og:image" content={ogImagePath} />
             <meta property="og:image:url" content={ogImagePath} />
             <meta name="twitter:image" content={ogImagePath} />
-            <meta property="og:image:width" content="1200" />
-            <meta property="og:image:height" content="675" />
-            <meta property="og:image:type" content="image/jpeg" />
+            {!mediaPrimaryThumb && <meta property="og:image:width" content="1200" />}
+            {!mediaPrimaryThumb && <meta property="og:image:height" content="675" />}
+            {!mediaPrimaryThumb && <meta property="og:image:type" content="image/jpeg" />}
           </>
         )}
 

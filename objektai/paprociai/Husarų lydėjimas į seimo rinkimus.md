@@ -13,6 +13,18 @@ atnaujinta: ''
 amziai:
   - 'XVII'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Husarų lydėjimas į seimo rinkimus (seimas)
 
@@ -43,26 +55,55 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67083"></a>
-- t-001
+- t-004
   global_id: t-67083
-  teiginys: 'Husarai buvo bajorai, kuriuos karalius ir etmonai pagerbdavo suteikdami draugo vardą.'
+  teiginys: "Husarai buvo bajorai, kuriuos karalius ir etmonai pagerbdavo suteikdami draugo vardą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "548852-549290; hash=bcfaf4e9d15d36370ca5daca2765e3d9b1b81d3f5dc16365fa30c52e81e543ec; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> husarai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Husarų lydėjimas į seimo rinkimus (seimas): owner_note_path, thing"
+  ryšio_targeto_parinkimas: "husarai: mention_match, thing, gap=1"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Husarų lydėjimas į seimo rinkimus (seimas)\" parinktas kaip owner_note_path. Targetas \"husarai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-43155
 
 <a id="claim-t-67084"></a>
-- t-002
+- t-005
   global_id: t-67084
-  teiginys: 'Daugelis husarų gaudavo rentas iš etmonų bei didelių senjorų.'
+  teiginys: "Daugelis husarų gaudavo rentas iš etmonų bei didelių senjorų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "548852-549290; hash=bcfaf4e9d15d36370ca5daca2765e3d9b1b81d3f5dc16365fa30c52e81e543ec; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Karūna: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Husarų lydėjimas į seimo rinkimus (seimas): owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Karūna: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Husarų lydėjimas į seimo rinkimus (seimas)\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-43155
 
 <a id="claim-t-67085"></a>
-- t-003
+- t-006
   global_id: t-67085
-  teiginys: 'Husarai buvo bajorai, o daugelis jų gaudavo rentas iš etmonų ir didikų, kuriuos lydėdavo į seimo rinkimus.'
+  teiginys: "Husarai buvo bajorai, o daugelis jų gaudavo rentas iš etmonų ir didikų, kuriuos lydėdavo į seimo rinkimus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "548852-549290; hash=bcfaf4e9d15d36370ca5daca2765e3d9b1b81d3f5dc16365fa30c52e81e543ec; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Karūna: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Husarų lydėjimas į seimo rinkimus (seimas): owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Karūna: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Husarų lydėjimas į seimo rinkimus (seimas)\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-43155
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -74,10 +115,29 @@ Nenurodyta
     Fax stalo, savo provincijoje yra labai vertinami ir netgi gerbiami, o dauguma gauna rentas iš
     etmonų bei didelių senjorų, kuriuos pagerbdami lydi į seimo rinkimus.“
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
     - t-003
+
+## Citatos
+
+- id: c-43155
+  citata_originali: |
+    kurie prie jos dar priskiria petihorus, nors jų daugiau gali išvysti Lietuvos, o ne Karūnos
+    armijoje. Visi šie kariai yra bajorai, o ypač husarai, karalius ir etmonai juos pagerbė su-
+    L Ąteikdami draugo [Touariche] vardą, kuris reiškia draugą arba palydovą, jie valgo už jų
+    Fax stalo, savo provincijoje yra labai vertinami ir netgi gerbiami, o dauguma gauna rentas iš
+    etmonų bei didelių senjorų, kuriuos pagerbdami lydi į seimo rinkimus.“
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67083
+    - t-67084
+    - t-67085

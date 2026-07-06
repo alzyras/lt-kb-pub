@@ -9,6 +9,18 @@ tags:
   - grupe
   - sukilimas
   - tauta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lenkijos laikinoji tautinė vyriausybė
 
@@ -21,10 +33,19 @@ Pogrindyje susikūrusi Lenkijos laikinoji tautinė vyriausybė sausio 22 dieną 
 <a id="claim-t-65648"></a>
 - t-001
   global_id: t-65648
-  teiginys: 'Pogrindyje susikūrusi Lenkijos laikinoji tautinė vyriausybė sausio 22 dieną paskelbė sukilimo pradžią.'
+  teiginys: "Pogrindyje susikūrusi Lenkijos laikinoji tautinė vyriausybė sausio 22 dieną paskelbė sukilimo pradžią."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "202752-203098; hash=b7467b7f0d850599869d9be91ef13fd19d42b7bb3a18cd750b88b774bab98c18; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkijos laikinoji tautinė vyriausybė: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkijos laikinoji tautinė vyriausybė\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-66039
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -37,8 +58,27 @@ Pogrindyje susikūrusi Lenkijos laikinoji tautinė vyriausybė sausio 22 dieną 
     lumo Lenkijos sukilėlių vadovybė sukilimui Lietuvoje vadovauti pavedė
     „baltiesiems“.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-66039
+  citata_originali: |
+    Pogrindyje susikūrusi Lenkijos laikinoji tauti-
+    nė vyriausybė sausio 22 dieną paskelbė sukilimo pradžią. Vasario 1-ąją
+    atsišaukimais lenkų ir lietuvių kalbomis sukilimo pradžia paskelbta ir
+    buvusios LDK teritorijoje. Baimindamasi Lietuvos „raudonųjų“ radika-
+    lumo Lenkijos sukilėlių vadovybė sukilimui Lietuvoje vadovauti pavedė
+    „baltiesiems“.
+  citata_rodoma: "lumo Lenkijos sukilėlių vadovybė sukilimui Lietuvoje vadovauti pavedė"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-65648

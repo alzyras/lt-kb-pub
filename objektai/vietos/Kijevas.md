@@ -10,6 +10,7 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -23,406 +24,1345 @@ date_start: '1132'
 date_end: '1589'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XII'
-  - 'XVI'
-description: 'Kijevas LDK istorijoje: Gedimino, Algirdo ir Vytauto įtaka, prekyba Dniepru, bažnytinė reikšmė ir Liublino unijos padariniai.'
-socialDescription: 'Kijevas čia atsiskleidžia kaip svarbus LDK politinės įtakos, Vytauto veiksmų, prekybos, bažnytinių ryšių ir teritorinių lūžių taškas.'
-seo_atnaujinta: '2026-07-02T23:12:35.080627+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 tags:
   - karalius
   - unija
   - valstybė
   - vieta
+amziai:
+  - 'XII'
+  - 'XVI'
+media_total_count: '32'
+media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/2/2b/Przewodnik_po_Kijowie_1913_%2890789106%29.jpg'
+media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789106%29.jpg'
+media_primary_directness: 'direct'
+media_primary_relation_type: 'map_of'
+media_primary_json: |-
+  {"mediaId":"m-f36bddde68d7cda500c90407","title":"Przewodnik po Kijowie 1913 (90789106).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-05-25 12:53:57","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789106%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2b/Przewodnik_po_Kijowie_1913_%2890789106%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}
+media_direct_json: |-
+  [{"mediaId":"m-f36bddde68d7cda500c90407","title":"Przewodnik po Kijowie 1913 (90789106).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-05-25 12:53:57","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789106%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2b/Przewodnik_po_Kijowie_1913_%2890789106%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-4cb5df6d11c0ce04c0c7aa8f","title":"Przewodnik po Kijowie 1913 (90789053).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) strona tytułowa Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:12:52","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789053%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/86/Przewodnik_po_Kijowie_1913_%2890789053%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-daaba7fd682e6b1c26ae7518","title":"Przewodnik po Kijowie 1913 (90789084).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:12:59","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789084%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/98/Przewodnik_po_Kijowie_1913_%2890789084%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-692348bde8f8d8d792c93248","title":"Przewodnik po Kijowie 1913 (90789085).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:13:04","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789085%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fc/Przewodnik_po_Kijowie_1913_%2890789085%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-29b6244e15676501293c6bdb","title":"Przewodnik po Kijowie 1913 (90789088).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:13:09","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789088%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/39/Przewodnik_po_Kijowie_1913_%2890789088%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-58acfe16b64dd53a8ae83c66","title":"Przewodnik po Kijowie 1913 (90789091).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:13:15","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789091%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/46/Przewodnik_po_Kijowie_1913_%2890789091%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-4bc2e4f19cc859841b644bb2","title":"Przewodnik po Kijowie 1913 (90789092).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:13:21","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789092%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/24/Przewodnik_po_Kijowie_1913_%2890789092%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-1ea21971b6543a101a9a1561","title":"Przewodnik po Kijowie 1913 (90789093).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:13:26","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789093%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/75/Przewodnik_po_Kijowie_1913_%2890789093%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-a30bff05ad781a658efb8a62","title":"Przewodnik po Kijowie 1913 (90789095).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:13:31","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789095%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4b/Przewodnik_po_Kijowie_1913_%2890789095%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-1867e68b94382df58e9adc0f","title":"Przewodnik po Kijowie 1913 (90789098).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:13:37","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789098%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/23/Przewodnik_po_Kijowie_1913_%2890789098%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-f94e043cac9cf6d83ace1cf5","title":"Przewodnik po Kijowie 1913 (90789101).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:13:43","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789101%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Przewodnik_po_Kijowie_1913_%2890789101%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-2b2b19399dc19957b8314d14","title":"Przewodnik po Kijowie 1913 (90789115).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:13:55","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789115%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/60/Przewodnik_po_Kijowie_1913_%2890789115%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-052d6c93109e105b3c671979","title":"Przewodnik po Kijowie 1913 (90789117).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:14:00","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789117%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1c/Przewodnik_po_Kijowie_1913_%2890789117%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-0a19911c35131847101089d3","title":"Przewodnik po Kijowie 1913 (90789118).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:14:06","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789118%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e0/Przewodnik_po_Kijowie_1913_%2890789118%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-183c58678639c46f05234977","title":"Przewodnik po Kijowie 1913 (90789120).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:14:11","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789120%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/71/Przewodnik_po_Kijowie_1913_%2890789120%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-8d92681de110b4efd2c5b713","title":"Przewodnik po Kijowie 1913 (90789127).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:14:17","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789127%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Przewodnik_po_Kijowie_1913_%2890789127%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-1302245684026a7a5562e8db","title":"Przewodnik po Kijowie 1913 (90789129).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:14:22","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789129%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f8/Przewodnik_po_Kijowie_1913_%2890789129%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-21de5c34349f7e7c21e858e9","title":"Przewodnik po Kijowie 1913 (90789136).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:14:27","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789136%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5d/Przewodnik_po_Kijowie_1913_%2890789136%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-a6f8a199dc51c4f836c156d3","title":"Przewodnik po Kijowie 1913 (90789143).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:14:33","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789143%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Przewodnik_po_Kijowie_1913_%2890789143%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-ac2a708e1a9d2fed3277eb56","title":"Przewodnik po Kijowie 1913 (90789144).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:14:38","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789144%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/20/Przewodnik_po_Kijowie_1913_%2890789144%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-5d9d6ebe45a303316252f217","title":"Przewodnik po Kijowie 1913 (90789147).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:14:44","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789147%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2d/Przewodnik_po_Kijowie_1913_%2890789147%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-edee910423abaab8eebaf2a8","title":"Przewodnik po Kijowie 1913 (90789149).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:14:49","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789149%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/04/Przewodnik_po_Kijowie_1913_%2890789149%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-a55c2ee16d6348040c5da71b","title":"Przewodnik po Kijowie 1913 (90789151).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:14:55","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789151%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5b/Przewodnik_po_Kijowie_1913_%2890789151%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-196e4d5dd9570cbd4d6760a1","title":"Przewodnik po Kijowie 1913 (90789158).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:15:00","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789158%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d6/Przewodnik_po_Kijowie_1913_%2890789158%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-831622fc2fcd98ed3b034059","title":"Przewodnik po Kijowie 1913 (90789159).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:15:06","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789159%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/21/Przewodnik_po_Kijowie_1913_%2890789159%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-822046b2e5b9c6a6aaaa5ea1","title":"Przewodnik po Kijowie 1913 (90789160).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:15:11","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789160%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/20/Przewodnik_po_Kijowie_1913_%2890789160%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-9f3004fb2a10849f265709c6","title":"Przewodnik po Kijowie 1913 (90789161).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-05-25 12:54:05","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789161%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Przewodnik_po_Kijowie_1913_%2890789161%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-dae7c7a875ba2201c59e9745","title":"Przewodnik po Kijowie 1913 (90789162).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:15:23","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789162%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6f/Przewodnik_po_Kijowie_1913_%2890789162%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-052375a9d5bf87699c399b2e","title":"Przewodnik po Kijowie 1913 (90789164).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:15:28","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789164%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3c/Przewodnik_po_Kijowie_1913_%2890789164%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-07173789e93cfd2a19f791f4","title":"Przewodnik po Kijowie 1913 (90789165).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:15:33","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789165%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/95/Przewodnik_po_Kijowie_1913_%2890789165%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-6369069e3973daefa85263af","title":"Przewodnik po Kijowie 1913 (90789174).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:15:39","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789174%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7d/Przewodnik_po_Kijowie_1913_%2890789174%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-8b345439b59cc938ab4ed5d6","title":"Wyprawa kijowska Chrobrego 1018 mapa.jpg","caption":"Szlak wyprawy kijowskiej Bolesława Chrobrego według mapy wczesnohistorycznego osadnictwa Wołynia i Przeddnieprzu. Różnice w stosunku do oryginału: trasa wyprawy zakreślona na czerwono. Gródek i Kijów są zaznaczone na żółto.","creator":"Roman Jakimowicz (1889-1951), Popik","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2020-10-19","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWyprawa_kijowska_Chrobrego_1018_mapa.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1f/Wyprawa_kijowska_Chrobrego_1018_mapa.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
+media_contextual_json: |-
+  []
+media_all_json: |-
+  [{"mediaId":"m-f36bddde68d7cda500c90407","title":"Przewodnik po Kijowie 1913 (90789106).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-05-25 12:53:57","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789106%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2b/Przewodnik_po_Kijowie_1913_%2890789106%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-4cb5df6d11c0ce04c0c7aa8f","title":"Przewodnik po Kijowie 1913 (90789053).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) strona tytułowa Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:12:52","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789053%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/86/Przewodnik_po_Kijowie_1913_%2890789053%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-daaba7fd682e6b1c26ae7518","title":"Przewodnik po Kijowie 1913 (90789084).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:12:59","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789084%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/98/Przewodnik_po_Kijowie_1913_%2890789084%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-692348bde8f8d8d792c93248","title":"Przewodnik po Kijowie 1913 (90789085).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:13:04","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789085%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fc/Przewodnik_po_Kijowie_1913_%2890789085%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-29b6244e15676501293c6bdb","title":"Przewodnik po Kijowie 1913 (90789088).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:13:09","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789088%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/39/Przewodnik_po_Kijowie_1913_%2890789088%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-58acfe16b64dd53a8ae83c66","title":"Przewodnik po Kijowie 1913 (90789091).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:13:15","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789091%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/46/Przewodnik_po_Kijowie_1913_%2890789091%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-4bc2e4f19cc859841b644bb2","title":"Przewodnik po Kijowie 1913 (90789092).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:13:21","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789092%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/24/Przewodnik_po_Kijowie_1913_%2890789092%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-1ea21971b6543a101a9a1561","title":"Przewodnik po Kijowie 1913 (90789093).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:13:26","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789093%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/75/Przewodnik_po_Kijowie_1913_%2890789093%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-a30bff05ad781a658efb8a62","title":"Przewodnik po Kijowie 1913 (90789095).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:13:31","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789095%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4b/Przewodnik_po_Kijowie_1913_%2890789095%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-1867e68b94382df58e9adc0f","title":"Przewodnik po Kijowie 1913 (90789098).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:13:37","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789098%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/23/Przewodnik_po_Kijowie_1913_%2890789098%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-f94e043cac9cf6d83ace1cf5","title":"Przewodnik po Kijowie 1913 (90789101).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:13:43","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789101%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Przewodnik_po_Kijowie_1913_%2890789101%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-2b2b19399dc19957b8314d14","title":"Przewodnik po Kijowie 1913 (90789115).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:13:55","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789115%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/60/Przewodnik_po_Kijowie_1913_%2890789115%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-052d6c93109e105b3c671979","title":"Przewodnik po Kijowie 1913 (90789117).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:14:00","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789117%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1c/Przewodnik_po_Kijowie_1913_%2890789117%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-0a19911c35131847101089d3","title":"Przewodnik po Kijowie 1913 (90789118).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:14:06","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789118%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e0/Przewodnik_po_Kijowie_1913_%2890789118%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-183c58678639c46f05234977","title":"Przewodnik po Kijowie 1913 (90789120).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:14:11","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789120%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/71/Przewodnik_po_Kijowie_1913_%2890789120%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-8d92681de110b4efd2c5b713","title":"Przewodnik po Kijowie 1913 (90789127).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:14:17","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789127%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Przewodnik_po_Kijowie_1913_%2890789127%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-1302245684026a7a5562e8db","title":"Przewodnik po Kijowie 1913 (90789129).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:14:22","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789129%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f8/Przewodnik_po_Kijowie_1913_%2890789129%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-21de5c34349f7e7c21e858e9","title":"Przewodnik po Kijowie 1913 (90789136).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:14:27","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789136%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5d/Przewodnik_po_Kijowie_1913_%2890789136%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-a6f8a199dc51c4f836c156d3","title":"Przewodnik po Kijowie 1913 (90789143).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:14:33","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789143%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Przewodnik_po_Kijowie_1913_%2890789143%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-ac2a708e1a9d2fed3277eb56","title":"Przewodnik po Kijowie 1913 (90789144).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:14:38","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789144%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/20/Przewodnik_po_Kijowie_1913_%2890789144%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-5d9d6ebe45a303316252f217","title":"Przewodnik po Kijowie 1913 (90789147).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:14:44","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789147%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2d/Przewodnik_po_Kijowie_1913_%2890789147%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-edee910423abaab8eebaf2a8","title":"Przewodnik po Kijowie 1913 (90789149).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:14:49","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789149%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/04/Przewodnik_po_Kijowie_1913_%2890789149%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-a55c2ee16d6348040c5da71b","title":"Przewodnik po Kijowie 1913 (90789151).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:14:55","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789151%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5b/Przewodnik_po_Kijowie_1913_%2890789151%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-196e4d5dd9570cbd4d6760a1","title":"Przewodnik po Kijowie 1913 (90789158).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:15:00","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789158%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d6/Przewodnik_po_Kijowie_1913_%2890789158%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-831622fc2fcd98ed3b034059","title":"Przewodnik po Kijowie 1913 (90789159).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:15:06","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789159%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/21/Przewodnik_po_Kijowie_1913_%2890789159%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-822046b2e5b9c6a6aaaa5ea1","title":"Przewodnik po Kijowie 1913 (90789160).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:15:11","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789160%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/20/Przewodnik_po_Kijowie_1913_%2890789160%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-9f3004fb2a10849f265709c6","title":"Przewodnik po Kijowie 1913 (90789161).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-05-25 12:54:05","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789161%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Przewodnik_po_Kijowie_1913_%2890789161%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-dae7c7a875ba2201c59e9745","title":"Przewodnik po Kijowie 1913 (90789162).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:15:23","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789162%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6f/Przewodnik_po_Kijowie_1913_%2890789162%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-052375a9d5bf87699c399b2e","title":"Przewodnik po Kijowie 1913 (90789164).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:15:28","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789164%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3c/Przewodnik_po_Kijowie_1913_%2890789164%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-07173789e93cfd2a19f791f4","title":"Przewodnik po Kijowie 1913 (90789165).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:15:33","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789165%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/95/Przewodnik_po_Kijowie_1913_%2890789165%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-6369069e3973daefa85263af","title":"Przewodnik po Kijowie 1913 (90789174).jpg","caption":"Adres wydawniczy : Kijów ; Warszawa : Leon Idzikowski, [1913] (Kijów : Drukarnia Polska) Opis fizyczny : XXX, 130, [1] s., [1] k. mapa : il. ; 18 cm","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2024-03-15 13:15:39","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrzewodnik_po_Kijowie_1913_%2890789174%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7d/Przewodnik_po_Kijowie_1913_%2890789174%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-8b345439b59cc938ab4ed5d6","title":"Wyprawa kijowska Chrobrego 1018 mapa.jpg","caption":"Szlak wyprawy kijowskiej Bolesława Chrobrego według mapy wczesnohistorycznego osadnictwa Wołynia i Przeddnieprzu. Różnice w stosunku do oryginału: trasa wyprawy zakreślona na czerwono. Gródek i Kijów są zaznaczone na żółto.","creator":"Roman Jakimowicz (1889-1951), Popik","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2020-10-19","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWyprawa_kijowska_Chrobrego_1018_mapa.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1f/Wyprawa_kijowska_Chrobrego_1018_mapa.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
 ---
 # Kijevas
 
 ## Santrauka
 
-Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusios erdvėje: Gedimino ar Algirdo laikais miestas buvo Lietuvos priklausomybėje, o Algirdas ten pasodino savo sūnų Vladimirą. Vytauto laikais Kijevas minimas kaip strateginė vieta kariuomenei telkti, prekybai Dniepro kryptimi remti ir santykiams su Skirgaila spręsti. Vėliau Kijevo vardas iškyla bažnytinės organizacijos, totorių grėsmės ir Liublino unijos kontekstuose.
+Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykstantiems kryžeiviams paruoštus stalus. Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko, Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zigmantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietuvos. Tiesa, totoriai dažnai nusiaubdavo Kijevo apylinkes, tačiau pačios Lietuvos niekas nepalietė.
 
 ## Teiginiai
+
 <a id="claim-t-180000"></a>
-- t-001
+- t-054
   global_id: t-180000
-  teiginys: 'Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, bet dėl Vytauto ligos nieko nelaimėjo.'
+  teiginys: "Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, bet dėl Vytauto ligos nieko nelaimėjo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "356379-357104; hash=e8bce848023e3a999938b0ebbfdd8b43b06f7f7aa1bcc6aad32821ba2f716b9f; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-019
+    - c-163661
 
 <a id="claim-t-180001"></a>
-- t-002
+- t-012
   global_id: t-180001
-  teiginys: 'Vytautas rėmė Kijevo prekybą, nes miestas Dniepru jungėsi su Juodosios jūros kryptimi ir sausuma su Volynės bei Podolės miestais.'
+  teiginys: "Vytautas rėmė Kijevo prekybą, nes miestas Dniepru jungėsi su Juodosios jūros kryptimi ir sausuma su Volynės bei Podolės miestais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "623242-623710; hash=bcac649c4d7bb8b2a55426191d6e00807c8bd6cb044c4a0287b8dc1a2ed5a295; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dniepras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Dniepras: mention_match, place, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Dniepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-012
+    - c-163646
 
-<a id="claim-t-180002"></a>
-- t-003
-  global_id: t-180002
-  teiginys: 'Vytautas pasižadėjo padėti Skirgailai paimti Kijevą ir atiduoti jam Kremencą bei Stožką vietoj Trakų kunigaikštijos.'
+<a id="claim-t-180028"></a>
+- t-010
+  global_id: t-180028
+  teiginys: "Vytautas pasižadėjo padėti Skirgailai paimti Kijevą ir atiduoti jam Kremencą bei Stožką vietoj Trakų kunigaikštijos."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) rėmė Skirgaila (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "397799-398135; hash=82a3c8da38284132c73134b84ea4f90d252f32ac3edf3ec3d295995899bd6fba; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Skirgaila: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Pažadas padėti Skirgailai tiesiogiai patvirtina Vytauto paramą Skirgailai."
   pagrindžia:
-    - c-006
+    - c-163639
 
 <a id="claim-t-180003"></a>
-- t-004
+- t-017
   global_id: t-180003
-  teiginys: 'Po LDK krikšto buvo suformuota Kijevo katalikų vyskupija šalia jau veikusių stačiatikių vyskupijų.'
+  teiginys: "Po LDK krikšto buvo suformuota Kijevo katalikų vyskupija šalia jau veikusių stačiatikių vyskupijų."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "100898-101321; hash=06d3c95b5834265c960e06b556bb542846494e251eb6744c5a8bc9f294905aff; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Stačiatikiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Stačiatikiai: mention_match, group, gap=45"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Stačiatikiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-021
+    - c-163669
 
 <a id="claim-t-180004"></a>
-- t-005
+- t-041
   global_id: t-180004
-  teiginys: 'Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.'
+  teiginys: "Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "468951-469431; hash=8f8ac613871383cfeb939a46a71fbe9e3c3ce595af8fcc537d1e20a193bd75d0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krymas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Krymas: mention_match, place, gap=124"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Krymas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-023
+    - c-163674
 
 <a id="claim-t-180005"></a>
-- t-006
+- t-044
   global_id: t-180005
-  teiginys: 'Gedimino ar Algirdo laikais Kijevas buvo Lietuvos politinėje įtakoje.'
+  teiginys: "Gedimino ar Algirdo laikais Kijevas buvo Lietuvos politinėje įtakoje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "53150-53655; hash=81a2b62b2abd9c8f1dbe1ec571270d110f62ea764957025fbb09de6f64f64e90; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-013
+    - c-163648
 
 <a id="claim-t-180006"></a>
-- t-007
+- t-019
   global_id: t-180006
-  teiginys: 'Graikų katalikų bažnyčios metropolitai buvo Kijevo metropolitai, bet nuolat rezidavo Vilniuje.'
+  teiginys: "Graikų katalikų bažnyčios metropolitai buvo Kijevo metropolitai, bet nuolat rezidavo Vilniuje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "136579-136901; hash=7c2237065799ba7ce14aa66c2df9ecb909bf4a7b6840d4faa1ab7be6ef29603b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=41"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-163635
 
 <a id="claim-t-180007"></a>
-- t-008
+- t-004
   global_id: t-180007
-  teiginys: '1399 m. birželį Kijeve buvo sutelkta didelė Vytauto kariuomenė.'
+  teiginys: "1399 m. birželį Kijeve buvo sutelkta didelė Vytauto kariuomenė."
+  temporaliniai_duomenys: "įvykio data: 1399 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "864239-864568; hash=5789cd05fb6c7e791e256cd124a2d13f38d725fc5067e3bf2fe811266ca62d21; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-010
+    - c-163643
 
 <a id="claim-t-180008"></a>
-- t-009
+- t-050
   global_id: t-180008
-  teiginys: 'Ignacas Danilavičius, buvęs Vilniaus universiteto profesorius, Kijeve vadovavo Teisės katedrai.'
+  teiginys: "Ignacas Danilavičius, buvęs Vilniaus universiteto profesorius, Kijeve vadovavo Teisės katedrai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "46525-47152; hash=674dafa87a5bac4e48b75b2ec89bc0c5aa5be7c5d39663530f097a12afb5cc52; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-163642
 
 <a id="claim-t-180010"></a>
-- t-010
+- t-045
   global_id: t-180010
-  teiginys: 'Eidintas, Bumblauskas, Kulakauskas ir Tamošaitis Lietuvos ekspansiją laiko veiksniu, Kijevo Rusios erdvę perskyrusiu į Kijevo ir Maskvos dalis.'
+  teiginys: "Eidintas, Bumblauskas, Kulakauskas ir Tamošaitis Lietuvos ekspansiją laiko veiksniu, Kijevo Rusios erdvę perskyrusiu į Kijevo ir Maskvos dalis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "80404-80823; hash=cac34066d1746230c050e63116c55dde99f9c7f62627e520c522aa52c9d962e6; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kijevo Rusia: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kijevo Rusia: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Kijevo Rusia\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-022
+    - c-163672
 
 <a id="claim-t-180011"></a>
-- t-011
+- t-024
   global_id: t-180011
-  teiginys: '1300 m. visos Rusios metropolitas perkėlė sostinę iš totorių puolimų grėsmėje buvusio Kijevo į Vladimirą.'
+  teiginys: "1300 m. visos Rusios metropolitas perkėlė sostinę iš totorių puolimų grėsmėje buvusio Kijevo į Vladimirą."
+  temporaliniai_duomenys: "įvykio data: 1300 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys, sutampantis su citatos turiniu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "727865-728303; hash=97e6b4679606590f342390da088fd077bdea90c9a784ff1c35b4e1e9699a8b6d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-018
+    - c-163658
 
 <a id="claim-t-180012"></a>
-- t-012
+- t-058
   global_id: t-180012
-  teiginys: '1411 metų pavasarį Vytautas su Jogaila keliavo per Lietuvos rytų pakraščius iki Kijevo.'
+  teiginys: "1411 metų pavasarį Vytautas su Jogaila keliavo per Lietuvos rytų pakraščius iki Kijevo."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Kijevas (0.89); Jogaila (kunigaikštis, XIV–XV a.) keliavo į Kijevas (0.82)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "327825-328301; hash=d132e3c5fbe4c01309e93fc3194972f9d78bb45e48a1c818e206107c3ae3139c; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Kijevas: 0.89"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys nurodo, kad Vytautas keliavo iki Kijevo."
   pagrindžia:
-    - c-002
+    - c-163633
 
 <a id="claim-t-180013"></a>
-- t-013
+- t-040
   global_id: t-180013
-  teiginys: 'Maskvos metropolitas Fotijas siekė išprašyti Kijevo metropolijos prijungimą prie Maskvos, bet nieko nelaimėjęs išvyko.'
+  teiginys: "Maskvos metropolitas Fotijas siekė išprašyti Kijevo metropolijos prijungimą prie Maskvos, bet nieko nelaimėjęs išvyko."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "356379-357104; hash=e8bce848023e3a999938b0ebbfdd8b43b06f7f7aa1bcc6aad32821ba2f716b9f; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=45"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-019
+    - c-163661
 
 <a id="claim-t-180014"></a>
-- t-014
+- t-051
   global_id: t-180014
-  teiginys: 'Gediminas, užkariavimais pasiekęs žemes už Kijevo, įsakė pastatyti pilį Vilniuje ir perkėlė savo buveinę iš Trakų.'
+  teiginys: "Gediminas, užkariavimais pasiekęs žemes už Kijevo, įsakė pastatyti pilį Vilniuje ir perkėlė savo buveinę iš Trakų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "64652-65499; hash=987a45deafc5df801598ea9cdb8ff3ca308e49421d67f648d4fc9aa481ade69c; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Trakai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Trakai: mention_match, place, gap=65"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-024
+    - c-163677
 
 <a id="claim-t-180015"></a>
-- t-015
+- t-023
   global_id: t-180015
-  teiginys: 'Kijevo kunigaikštystė buvo įjungta į Lietuvos valstybę drauge su Podole.'
+  teiginys: "Kijevo kunigaikštystė buvo įjungta į Lietuvos valstybę drauge su Podole."
+  semantiniai_rysiai: "Kijevo kunigaikštystė priklausė Lietuva (0.94)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "724197-724636; hash=beb74a2514cb721e6b43968009001d95172b83e287fd939ff2091ac35a953f6d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kijevo kunigaikštystė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Įjungimas į Lietuvos valstybę tiesiogiai patvirtina Kijevo kunigaikštystės priklausymą Lietuvai."
   pagrindžia:
-    - c-004
+    - c-163636
 
 <a id="claim-t-180016"></a>
-- t-016
+- t-057
   global_id: t-180016
-  teiginys: 'Po Mykolo mirties Lietuvos ponai Lietuvos valdovu siūlė Kijevo kunigaikštį Simaną.'
+  teiginys: "Po Mykolo mirties Lietuvos ponai Lietuvos valdovu siūlė Kijevo kunigaikštį Simaną."
+  temporaliniai_duomenys: "įvykio data: 1452 m.; įvykio data: 1461 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinė formuluotė gramatiškai netiksli, todėl ją reikia sutrumpinti ir pataisyti."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "419517-420059; hash=a74d27098b34a5f513b5135141bb8ab48ac9689bb825cea4c787859f23a48bf5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-020
+    - c-163665
 
 <a id="claim-t-180017"></a>
-- t-017
+- t-056
   global_id: t-180017
-  teiginys: '1395 m. Vytautas atėmė Kijevą iš Vladimiro ir atidavė jį Skirgailai.'
+  teiginys: "1395 m. Vytautas atėmė Kijevą iš Vladimiro ir atidavė jį Skirgailai."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Kijevas (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1395 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išplėstas neaiškus įvardis ir sakinys padarytas savarankiškas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "145150-145443; hash=89c8d5201c12716a5f5980ece586eab6939d527211d51cb8124c34a87c335934; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Kijevas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginyje Vytautas tiesiogiai įvardytas kaip Kijevo atėmėjas."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-016
+    - c-163654
 
 <a id="claim-t-180019"></a>
-- t-018
+- t-062
   global_id: t-180019
-  teiginys: 'Vytautas rėmė Kijevo miestą, siekdamas atgaivinti prekybą rusiškuose kraštuose.'
+  teiginys: "Vytautas rėmė Kijevo miestą, siekdamas atgaivinti prekybą rusiškuose kraštuose."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "623242-623710; hash=bcac649c4d7bb8b2a55426191d6e00807c8bd6cb044c4a0287b8dc1a2ed5a295; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dniepras: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Dniepras: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Dniepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-012
+    - c-163646
 
 <a id="claim-t-180020"></a>
-- t-019
+- t-016
   global_id: t-180020
-  teiginys: 'Lietuvos ekspansija Kijevo Rusios erdvę perskėlė į Kijevo ir Maskvos dalis, kurių istorija kelis amžius klostėsi atskirai.'
+  teiginys: "Lietuvos ekspansija Kijevo Rusios erdvę perskėlė į Kijevo ir Maskvos dalis, kurių istorija kelis amžius klostėsi atskirai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "80404-80823; hash=cac34066d1746230c050e63116c55dde99f9c7f62627e520c522aa52c9d962e6; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kijevo Rusia: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kijevo Rusia: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Kijevo Rusia\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-022
+    - c-163672
 
 <a id="claim-t-180021"></a>
-- t-020
+- t-018
   global_id: t-180021
-  teiginys: 'Žygimantas Augustas prie Lenkijos prijungė Kijevo vaivadiją ir kitas dideles Lietuvos Didžiosios Kunigaikštijos teritorijas.'
+  teiginys: "Žygimantas Augustas prie Lenkijos prijungė Kijevo vaivadiją ir kitas dideles Lietuvos Didžiosios Kunigaikštijos teritorijas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "123868-124282; hash=7f6a6225c00bb64abe1194d8ca608036c05c11924f0f17faa39c1deaa0abd991; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=34"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-163638
 
 <a id="claim-t-180022"></a>
-- t-021
+- t-059
   global_id: t-180022
-  teiginys: '1414–1416 metais Edygos vadovaujami totoriai smarkiai apgriovė Kijevą, Lucką ir nuniokojo jų apylinkes.'
+  teiginys: "1414–1416 metais Edygos vadovaujami totoriai smarkiai apgriovė Kijevą, Lucką ir nuniokojo jų apylinkes."
+  semantiniai_rysiai: "Totoriai puolė Kijevas (0.86); Totoriai puolė Luckas (0.84)"
+  temporaliniai_duomenys: "įvykio data: 1416 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys gramatiškas ir tiksliai nusako citatoje minimą Kijevo nuniokojimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "339239-339500; hash=be1a3346d2da9ed946e25599e728287f410bc23ab87a564a8ae983ee8377cbf2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Kijevas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Totorių veiksmas prieš Kijevą aiškiai aprašytas kaip smarkus apgriovimas."
   pagrindžia:
-    - c-017
+    - c-163655
 
 <a id="claim-t-180023"></a>
-- t-022
+- t-001
   global_id: t-180023
-  teiginys: 'Kijevo kunigaikštystė drauge su Podole buvo įjungta į Lietuvos valstybę.'
+  teiginys: "Kijevo kunigaikštystė drauge su Podole buvo įjungta į Lietuvos valstybę."
+  semantiniai_rysiai: "Kijevo kunigaikštystė priklausė Lietuva (0.94)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "724197-724636; hash=beb74a2514cb721e6b43968009001d95172b83e287fd939ff2091ac35a953f6d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kijevo kunigaikštystė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Įjungimas į Lietuvos valstybę tiesiogiai patvirtina Kijevo kunigaikštystės priklausymą Lietuvai."
   pagrindžia:
-    - c-004
+    - c-163636
 
 <a id="claim-t-180025"></a>
-- t-023
+- t-065
   global_id: t-180025
-  teiginys: '1300 m. visos Rusios metropolitas perkėlė sostinę iš nuolatinių totorių puolimų grėsmėje buvusio Kijevo į šiaurinės Rusios Vladimirą.'
+  teiginys: "1300 m. visos Rusios metropolitas perkėlė sostinę iš nuolatinių totorių puolimų grėsmėje buvusio Kijevo į šiaurinės Rusios Vladimirą."
+  semantiniai_rysiai: "Totoriai puolė Kijevas (0.79)"
+  temporaliniai_duomenys: "įvykio data: 1300 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta į glaustesnį faktinį sakinį be perteklinės interpretacinės įžangos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "727865-728303; hash=97e6b4679606590f342390da088fd077bdea90c9a784ff1c35b4e1e9699a8b6d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Kijevas: 0.79"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kijevas aprašytas kaip buvęs nuolatinių totorių puolimų pavojuje."
   pagrindžia:
-    - c-018
+    - c-163658
 
 <a id="claim-t-180026"></a>
-- t-024
+- t-048
   global_id: t-180026
-  teiginys: 'Po Brastos bažnytinės unijos Graikų katalikų bažnyčios metropolitai buvo Kijevo metropolitai, nuolat rezidavę Vilniuje.'
+  teiginys: "Po Brastos bažnytinės unijos Graikų katalikų bažnyčios metropolitai buvo Kijevo metropolitai, nuolat rezidavę Vilniuje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "136579-136901; hash=7c2237065799ba7ce14aa66c2df9ecb909bf4a7b6840d4faa1ab7be6ef29603b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=37"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-163635
 
 <a id="claim-t-180027"></a>
-- t-025
+- t-047
   global_id: t-180027
-  teiginys: 'Žygimantas Augustas prie Lenkijos prijungė Kijevo vaivadiją kartu su Palenke, Voluine ir Podole.'
+  teiginys: "Žygimantas Augustas prie Lenkijos prijungė Kijevo vaivadiją kartu su Palenke, Voluine ir Podole."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "123868-124282; hash=7f6a6225c00bb64abe1194d8ca608036c05c11924f0f17faa39c1deaa0abd991; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Podolė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Podolė: mention_match, place, gap=46"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Podolė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-163638
+
+<a id="claim-t-180028"></a>
+- t-010
+  global_id: t-180028
+  teiginys: "Vytautas pasižadėjo padėti Skirgailai paimti Kijevą ir atiduoti jam Kremencą bei Stožką vietoj Trakų kunigaikštijos."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) rėmė Skirgaila (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "397799-398135; hash=82a3c8da38284132c73134b84ea4f90d252f32ac3edf3ec3d295995899bd6fba; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Skirgaila: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Pažadas padėti Skirgailai tiesiogiai patvirtina Vytauto paramą Skirgailai."
+  pagrindžia:
+    - c-163639
 
 <a id="claim-t-180029"></a>
-- t-027
+- t-064
   global_id: t-180029
-  teiginys: 'Kijevo kunigaikštystė drauge su Podole buvo įjungta į Lietuvos valstybę ir nuo Gedimino laikų priklausė didžiajam Lietuvos kunigaikščiui.'
+  teiginys: "Kijevo kunigaikštystė drauge su Podole buvo įjungta į Lietuvos valstybę ir nuo Gedimino laikų priklausė didžiajam Lietuvos kunigaikščiui."
+  semantiniai_rysiai: "Kijevo kunigaikštystė priklausė Lietuva (0.88)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "724197-724636; hash=beb74a2514cb721e6b43968009001d95172b83e287fd939ff2091ac35a953f6d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kijevo kunigaikštystė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kijevo kunigaikštystė tiesiogiai įvardyta kaip įjungta į Lietuvos valstybę."
   pagrindžia:
-    - c-004
+    - c-163636
 
 <a id="claim-t-180030"></a>
-- t-028
+- t-046
   global_id: t-180030
-  teiginys: 'Po Lietuvos krikšto LDK buvo suformuota Kijevo katalikų vyskupija kartu su Vilniaus, Žemaičių ir Lucko vyskupijomis.'
+  teiginys: "Po Lietuvos krikšto LDK buvo suformuota Kijevo katalikų vyskupija kartu su Vilniaus, Žemaičių ir Lucko vyskupijomis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "100898-101321; hash=06d3c95b5834265c960e06b556bb542846494e251eb6744c5a8bc9f294905aff; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Luckas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Luckas: mention_match, place, gap=57"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Luckas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-021
+    - c-163669
 
 <a id="claim-t-180031"></a>
 - t-029
   global_id: t-180031
-  teiginys: 'Kijeviečiams ginantis Gediminas mėnesį stovyklavo prie Kijevo.'
+  teiginys: "Kijeviečiams ginantis Gediminas mėnesį stovyklavo prie Kijevo."
+  temporaliniai_duomenys: "įvykio data: 1325 m.; įvykio data: 1325-1326; įvykio data: 1326 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir tiesiogiai paremtas citatos informacija."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "131732-132145; hash=40af1197bbe97829cbd3c3f339af8e6ec2e2a1029226bbf0ebc871ebf1b15509; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-027
+    - c-163683
 
 <a id="claim-t-180033"></a>
-- t-030
+- t-056
   global_id: t-180033
-  teiginys: '1461 m. Lietuvos ponai kandidatu į Lietuvos valdovus siūlė Kijevo kunigaikštį Simaną.'
+  teiginys: "1461 m. Lietuvos ponai kandidatu į Lietuvos valdovus siūlė Kijevo kunigaikštį Simaną."
+  temporaliniai_duomenys: "įvykio data: 1452 m.; įvykio data: 1461 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys patikslintas pagal citatoje nurodytą pasiūlymą ir datą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "419517-420059; hash=a74d27098b34a5f513b5135141bb8ab48ac9689bb825cea4c787859f23a48bf5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-020
+    - c-163665
 
 <a id="claim-t-180035"></a>
-- t-031
+- t-003
   global_id: t-180035
-  teiginys: '1396 m. Vytautas atėmė Kijevą iš Vladimiro Algirdaičio, o Kijevas buvo atiduotas Skirgailai mainais už Polocką.'
+  teiginys: "1396 m. Vytautas atėmė Kijevą iš Vladimiro Algirdaičio, o Kijevas buvo atiduotas Skirgailai mainais už Polocką."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Kijevas (0.93); Kijevas priklausė Skirgaila (0.88)"
+  temporaliniai_duomenys: "įvykio data: 1396 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, konkretus ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "852736-853048; hash=7ec8e56a7960d06d03213721b550e336e0f0b5479e477e5d85035dbea1b95e11; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Kijevas: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Vytautas atėmė Kijevą."
   pagrindžia:
-    - c-015
+    - c-163650
 
 <a id="claim-t-180037"></a>
-- t-032
+- t-025
   global_id: t-180037
-  teiginys: 'Skirgailai buvo paliktas Polockas ir pažadėta Kijevo kunigaikštystė.'
+  teiginys: "Skirgailai buvo paliktas Polockas ir pažadėta Kijevo kunigaikštystė."
+  semantiniai_rysiai: "Polockas priklausė Skirgaila (0.89)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "843600-843805; hash=634d1c75a5e4a229f6a0496cd65d5c93ba88730ac3dfd43e19915a4da555bb26; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Skirgaila: 0.89"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Formuluotė „paliktas Polockas“ tiesiogiai rodo Polocko priskyrimą Skirgailai."
   pagrindžia:
-    - c-001
+    - c-32127
 
 <a id="claim-t-180038"></a>
-- t-033
+- t-035
   global_id: t-180038
-  teiginys: 'Gerokai prieš XIII amžių pietų Rusioje klestėjo senasis Kijevas, vadintas Rytų apeigų tikėjimo lopšiu ir buvęs garsios monarchijos sostine.'
+  teiginys: "Gerokai prieš XIII amžių pietų Rusioje klestėjo senasis Kijevas, vadintas Rytų apeigų tikėjimo lopšiu ir buvęs garsios monarchijos sostine."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "168109-168615; hash=2e373420c7e10ed8c81290751e9a19d7fbabbdad1685bd13c5f129c459a4e996; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-011
+    - c-163645
 
 <a id="claim-t-180039"></a>
-- t-034
+- t-028
   global_id: t-180039
-  teiginys: '1240 m. Kijevą nusiaubė mongolai, nuo to laiko politiškai svarbiausia rusėnų žeme tapo Vladimiro kunigaikštystė.'
+  teiginys: "1240 m. Kijevą nusiaubė mongolai, nuo to laiko politiškai svarbiausia rusėnų žeme tapo Vladimiro kunigaikštystė."
+  temporaliniai_duomenys: "įvykio data: 1132 m.; įvykio data: 1240 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Kijevą ir jo politinės reikšmės pokytį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "61076-61361; hash=2880b8417f7af2b9a5e62be04c3cb60e294894996f7a4102f269e8a973b94d7c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kijevo Rusia: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kijevo Rusia: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Kijevo Rusia\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-026
+    - c-163682
 
 <a id="claim-t-180040"></a>
-- t-035
+- t-039
   global_id: t-180040
-  teiginys: 'Kijevo kunigaikštystė ir Podolė priklausė Lietuvai, o per Kijevą Vilnius palaikė prekybinius ryšius su Rytais.'
+  teiginys: "Kijevo kunigaikštystė ir Podolė priklausė Lietuvai, o per Kijevą Vilnius palaikė prekybinius ryšius su Rytais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "341771-342501; hash=02b1e547ce69c82dd055392c5b5399651e9a933e9fcbd1137cd53527ec26c6f2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kijevo kunigaikštystė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kijevo kunigaikštystė: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Kijevo kunigaikštystė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-163640
+
+<a id="claim-t-180031"></a>
+- t-029
+  global_id: t-180031
+  teiginys: "Kijeviečiams ginantis Gediminas mėnesį stovyklavo prie Kijevo."
+  temporaliniai_duomenys: "įvykio data: 1325 m.; įvykio data: 1325-1326; įvykio data: 1326 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir tiesiogiai paremtas citatos informacija."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "131732-132145; hash=40af1197bbe97829cbd3c3f339af8e6ec2e2a1029226bbf0ebc871ebf1b15509; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-163683
 
 <a id="claim-t-180043"></a>
-- t-037
+- t-026
   global_id: t-180043
-  teiginys: '1396 m. Vytautas atėmė Kijevą iš Vladimiro Algirdaičio, o Žitomiro ir Ovručio valsčius pasiliko sau.'
+  teiginys: "1396 m. Vytautas atėmė Kijevą iš Vladimiro Algirdaičio, o Žitomiro ir Ovručio valsčius pasiliko sau."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Kijevas (0.93); Kijevas priklausė Skirgaila (0.88); Vytautas (Lietuvos valdovas, XIV–XV a.) valdė teritoriją Žitomiras (0.84)"
+  temporaliniai_duomenys: "įvykio data: 1396 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatiškas ir tiksliai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "852736-853048; hash=7ec8e56a7960d06d03213721b550e336e0f0b5479e477e5d85035dbea1b95e11; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Kijevas: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Vytautas atėmė Kijevą."
   pagrindžia:
-    - c-015
+    - c-163650
 
 <a id="claim-t-180044"></a>
-- t-038
+- t-055
   global_id: t-180044
-  teiginys: 'Apie 1325 m. Gedimino kariuomenė nužygiavo į totorių valdytą Kijevą ir atėmė jį iš Aukso ordos.'
+  teiginys: "Apie 1325 m. Gedimino kariuomenė nužygiavo į totorių valdytą Kijevą ir atėmė jį iš Aukso ordos."
+  semantiniai_rysiai: "Gediminas užėmė Kijevas (0.92); Gediminas surengė žygį į Kijevas (0.90); Totoriai valdė Kijevas (0.90); Kijevas priklausė Auksinė Orda (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1325 m.; įvykio data: apie 1325 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys ir tiksliai perteikia citatos informaciją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "36036-36277; hash=48e949db4ef55d9c4b635a1387c2d2c887f6d0eb11e9d59912c032d60d9a749f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Kijevas: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Gedimino kariuomenė atėmė Kijevą iš Aukso ordos."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-014
+    - c-163649
 
 <a id="claim-t-180046"></a>
-- t-039
+- t-052
   global_id: t-180046
-  teiginys: 'Cituojamame metraštyje teigiama, kad Lietuvos miestai buvo valdomi Kijevo, Černigovo, Smolensko ir Polocko kunigaikščių.'
+  teiginys: "Cituojamame metraštyje teigiama, kad Lietuvos miestai buvo valdomi Kijevo, Černigovo, Smolensko ir Polocko kunigaikščių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "118872-119624; hash=b59fc7b6f54095b17c94b2ac602e17eeda52f2bc451797b359bc678e674ddf28; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Polockas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Polockas: mention_match, place, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Polockas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-028
+    - c-163687
 
 <a id="claim-t-180047"></a>
-- t-040
+- t-013
   global_id: t-180047
-  teiginys: 'Kijevas buvo tarp Lietuvos politinėje įtakoje buvusių Rusios erdvės centrų.'
+  teiginys: "Kijevas buvo tarp Lietuvos politinėje įtakoje buvusių Rusios erdvės centrų."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "53150-53655; hash=81a2b62b2abd9c8f1dbe1ec571270d110f62ea764957025fbb09de6f64f64e90; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-013
+    - c-163648
 
 <a id="claim-t-180048"></a>
-- t-041
+- t-015
   global_id: t-180048
-  teiginys: '1394 m. Vytautas panaikino Kijevo kunigaikštiją, o Kijevą gavo Skirgaila.'
+  teiginys: "1394 m. Vytautas panaikino Kijevo kunigaikštiją, o Kijevą gavo Skirgaila."
+  temporaliniai_duomenys: "įvykio data: 1393 m.; įvykio data: 1394 m.; įvykio data: 1395 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra tikslus, aiškus ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "77765-78116; hash=2659f558cccbb16e4481f6b8b9fd71722edba1fa57fad5919f20451acc4adc13; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Luckas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Luckas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Luckas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-025
+    - c-163678
+
+<a id="claim-t-180050"></a>
+- t-006
+  global_id: t-180050
+  teiginys: "1395 m. Vytautas atėmė Kijevą iš Vladimiro ir atidavė jį Skirgailai."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Kijevas (0.93)"
+  temporaliniai_duomenys: "įvykio data: 1395 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "145223-145533; hash=7c6be710119fa2ccd13af32e325d3779c2a8d2e7551e4af32f5ddd68ec48d6a0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Kijevas: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai pasako, kad Vytautas atėmė Kijevą."
+  pagrindžia:
+    - c-163641
 
 <a id="claim-t-180052"></a>
-- t-043
+- t-068
   global_id: t-180052
-  teiginys: '1394 m. Vytautas panaikino Kijevo kunigaikštiją, o Kijevą perdavė Skirgailai.'
+  teiginys: "1394 m. Vytautas panaikino Kijevo kunigaikštiją, o Kijevą perdavė Skirgailai."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) valdė Kijevas (0.62)"
+  temporaliniai_duomenys: "įvykio data: 1393 m.; įvykio data: 1394 m.; įvykio data: 1395 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys apima perteklinius faktus apie Lucką ir Podolę."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "77765-78116; hash=2659f558cccbb16e4481f6b8b9fd71722edba1fa57fad5919f20451acc4adc13; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Kijevas: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys sako, kad Vytautas panaikino kunigaikštiją ir perdavė Kijevą, tačiau Skirgaila nėra allowed_candidates."
   pagrindžia:
-    - c-025
+    - c-163678
 
 <a id="claim-t-180054"></a>
-- t-044
+- t-002
   global_id: t-180054
-  teiginys: '1300 m. visos Rusios metropolitas perkėlė savo sostinę iš totorių puolimų grėsmėje buvusio Kijevo į Vladimirą.'
+  teiginys: "1300 m. visos Rusios metropolitas perkėlė savo sostinę iš totorių puolimų grėsmėje buvusio Kijevo į Vladimirą."
+  temporaliniai_duomenys: "įvykio data: 1300 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys ir atitinka citatos informaciją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "727865-728303; hash=97e6b4679606590f342390da088fd077bdea90c9a784ff1c35b4e1e9699a8b6d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-018
+    - c-163658
 
 <a id="claim-t-180055"></a>
-- t-045
+- t-008
   global_id: t-180055
-  teiginys: 'Vytautui vykstant iki Kijevo, pakeliui esančių kraštų kunigaikščiai reiškė jam paklusnumą.'
+  teiginys: "Vytautui vykstant iki Kijevo, pakeliui esančių kraštų kunigaikščiai reiškė jam paklusnumą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "327825-328301; hash=d132e3c5fbe4c01309e93fc3194972f9d78bb45e48a1c818e206107c3ae3139c; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> kunigaikščiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "kunigaikščiai: mention_match, thing, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"kunigaikščiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-163633
 
 <a id="claim-t-180056"></a>
-- t-046
+- t-030
   global_id: t-180056
-  teiginys: 'Gediminas, nugalėjęs rusų ir totorių kariuomenę, nuvijo totorius ir paėmė Kijevą į savo valdžią.'
+  teiginys: "Gediminas, nugalėjęs rusų ir totorių kariuomenę, nuvijo totorius ir paėmė Kijevą į savo valdžią."
+  semantiniai_rysiai: "Gediminas užėmė Kijevas (0.94); Gediminas kariavo prieš Rusai (0.88); Gediminas kariavo prieš Totoriai (0.88)"
+  temporaliniai_duomenys: "įvykio data: 1325 m.; įvykio data: 1325-1326; įvykio data: 1326 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys konkrečiai nusako Gedimino veiksmus Kijevo atžvilgiu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "131732-132145; hash=40af1197bbe97829cbd3c3f339af8e6ec2e2a1029226bbf0ebc871ebf1b15509; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Kijevas: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Gediminas paėmė Kijevą į savo valdžią."
   pagrindžia:
-    - c-027
+    - c-163683
 
 <a id="claim-t-180057"></a>
-- t-047
+- t-053
   global_id: t-180057
-  teiginys: 'Per Kijevą Vilnius palaikė prekybinius ryšius su Rytais.'
+  teiginys: "Per Kijevą Vilnius palaikė prekybinius ryšius su Rytais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "341771-342501; hash=02b1e547ce69c82dd055392c5b5399651e9a933e9fcbd1137cd53527ec26c6f2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kijevo kunigaikštystė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kijevo kunigaikštystė: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Kijevo kunigaikštystė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-007
+    - c-163640
 
 <a id="claim-t-183028"></a>
-- t-048
+- t-058
   global_id: t-183028
-  teiginys: 'Po sąmokslininkų puolimo Švitrigaila paspruko į Polocką ir perėmė Kijevo bei kelias kitas sritis.'
+  teiginys: "Po sąmokslininkų puolimo Švitrigaila paspruko į Polocką ir perėmė Kijevo bei kelias kitas sritis."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Švitrigaila keliavo į Polockas (0.90); Švitrigaila valdė Kijevas (0.88); Švitrigaila valdė Polockas (0.83)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "467904-468396; hash=007a69c6ded4038cf310bdaec6caef51d18485e9782fcde29830a606730c2a79; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Polockas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Švitrigaila paspruko į Polocką."
   pagrindžia:
-    - c-029
+    - c-166420
 
 <a id="claim-t-184985"></a>
-- t-049
+- t-072
   global_id: t-184985
-  teiginys: 'Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė paklusti jo valdžiai.'
+  teiginys: "Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė paklusti jo valdžiai."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Gediminas valdė Kijevas (0.83)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "349624-350010; hash=1a3c491aa6bd9ea2bd7f2141949d0507f0be3a8a130e913dfa3c1dad7cd066e8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Kijevas: 0.83"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo, kad Kijevo luomai prisiekė paklusti Gedimino valdžiai."
   pagrindžia:
-    - c-030
+    - c-168346
 
 <a id="claim-t-184986"></a>
-- t-050
+- t-073
   global_id: t-184986
-  teiginys: 'Užkariavus Kijevą, Volynę ir didelę Seversko dalį, Kijevas atsidūrė Lietuvos kunigaikščio valdžioje.'
+  teiginys: "Užkariavus Kijevą, Volynę ir didelę Seversko dalį, Kijevas atsidūrė Lietuvos kunigaikščio valdžioje."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "350151-350680; hash=79ab65c525ba058b85b84d0fdbb73ab51046819209a4f38bae4cfe6fc6328891; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=57"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-031
+    - c-168347
 
 <a id="claim-t-184987"></a>
-- t-051
+- t-074
   global_id: t-184987
-  teiginys: 'Vytautas iš Kijevo su kariuomene tyliai patraukė į Azovą ir prie Azovo persikėlė per Doną.'
+  teiginys: "Vytautas iš Kijevo su kariuomene tyliai patraukė į Azovą ir prie Azovo persikėlė per Doną."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Azovas (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "615631-615952; hash=af127c1f3a91b4fd35971303ad9c8ae52dfc3bd53c9cfb830a41d1630fc62c9d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Azovas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Azovas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Vytautas patraukė į Azovą."
   pagrindžia:
-    - c-032
+    - c-168348
 
 <a id="claim-t-184988"></a>
-- t-052
+- t-075
   global_id: t-184988
-  teiginys: 'Ostrogiškis už keturiasdešimties mylių nuo Kijevo pavijo su grobiu grįžtantį priešą ir jį sumušė.'
+  teiginys: "Ostrogiškis už keturiasdešimties mylių nuo Kijevo pavijo su grobiu grįžtantį priešą ir jį sumušė."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1165412-1166105; hash=c903ec8e71e341dc969f00fd9cd2e72069be66f207ae72e4397a1362a71556ab; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Eustachijus Daškevičius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Eustachijus Daškevičius: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Eustachijus Daškevičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-033
+    - c-168349
 
 <a id="claim-t-187581"></a>
 - t-053
   global_id: t-187581
-  teiginys: 'Algirdo sūnus Vladimiras gavo Kijevą kaip savo dalį.'
+  teiginys: "Algirdo sūnus Vladimiras gavo Kijevą kaip savo dalį."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "133824-134221; hash=d753b87d0172d80baef4fa60e601787edb0006302ed21221473089c317cabf42; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jonas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Jonas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Jonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-034
+    - c-170528
 
 <a id="claim-t-187582"></a>
 - t-054
   global_id: t-187582
-  teiginys: 'Lietuvos metraštyje pasakojama, kad kunigaikštis Vladimiras atvyko iš Kijevo pas Vytautą, kuris tais pačiais metais jį iškėlė iš Kijevo.'
+  teiginys: "Lietuvos metraštyje pasakojama, kad kunigaikštis Vladimiras atvyko iš Kijevo pas Vytautą, kuris tais pačiais metais jį iškėlė iš Kijevo."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "168109-168615; hash=2e373420c7e10ed8c81290751e9a19d7fbabbdad1685bd13c5f129c459a4e996; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=70"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-035
+    - c-170529
 
 <a id="claim-t-187583"></a>
 - t-055
   global_id: t-187583
-  teiginys: 'Skirgaila po puotos susirgo Miloslavičiuose ir, grįžęs į Kijevą, septintą dieną mirė.'
+  teiginys: "Skirgaila po puotos susirgo Miloslavičiuose ir, grįžęs į Kijevą, septintą dieną mirė."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Skirgaila mirė Kijevas (0.92); Skirgaila keliavo į Miloslavičiai (0.78)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "168877-169375; hash=b44b8447aeaabb039197247b5b96529806d8507e5ecf1f7872821bea54bb97d7; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "mire -> Kijevas: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Skirgaila mirė grįžęs į Kijevą."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-036
+    - c-170530
 
 <a id="claim-t-187584"></a>
 - t-056
   global_id: t-187584
-  teiginys: 'Vytauto vadovaujamos LDK ir sąjungininkų pajėgos 1399 m. liepos pabaigoje išžygiavo iš Kijevo.'
+  teiginys: "Vytauto vadovaujamos LDK ir sąjungininkų pajėgos 1399 m. liepos pabaigoje išžygiavo iš Kijevo."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1399 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas lietuviškas sakinys su aiškiu subjektu, veiksmu, data ir vieta. Citata tiesiogiai remia išžygiavimą iš Kijevo ir nereikalauja papildomos poleminės atribucijos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "467904-468396; hash=007a69c6ded4038cf310bdaec6caef51d18485e9782fcde29830a606730c2a79; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-037
+    - c-170531
 
 <a id="claim-t-188724"></a>
 - t-057
   global_id: t-188724
-  teiginys: 'Narbutas Perkūno stabo garsumą X a. siejo su Vladimiro pastatytais tokiais pat stabais Kijeve ir Naugarde.'
+  teiginys: "Narbutas Perkūno stabo garsumą X a. siejo su Vladimiro pastatytais tokiais pat stabais Kijeve ir Naugarde."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "pastatymo data: 1452 m.; pastatymo data: 1461 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Mitologinė ir kilmės interpretacija suformuluota kaip Narbuto aiškinimas. Palikta tik tai, ką tiesiogiai remia citata."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "419517-420059; hash=a74d27098b34a5f513b5135141bb8ab48ac9689bb825cea4c787859f23a48bf5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Naugardas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Naugardas: mention_match, place, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Naugardas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-038
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171613
+
+<a id="claim-t-192671"></a>
+- t-076
+  global_id: t-192671
+  teiginys: "Teodoras Narbutas Karkinito miestą tapatino su dabartiniu Kijevu prie Dnepro kairiosios vagos ar seno užutekio."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "91402-91891; hash=8c641b6d814366ae78a47649d757dbfa9124eedeafa1f6b827a5ba5d4128462b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dnepras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Dnepras: mention_match, place, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Dnepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175441
+
+<a id="claim-t-192672"></a>
+- t-077
+  global_id: t-192672
+  teiginys: "Teodoro Narbuto prielaidoje chionitai gyveno dešiniajame Dnepro krante, kur yra Kijevas, o kitapus Dnepro jų kaimynai buvo alanai."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Graikai gyveno Dnepras (0.70); Graikai gyveno Kijevas (0.62)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "182294-182889; hash=273ffa17ceb1fa22711638e4fee69dfb10b02c536496fd6cbbf760b9d53d1f64; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Dnepras: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Graikai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Dnepras: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Gyvenimas Dnepro dešiniajame krante tiesiogiai paminėtas."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175442
+
+<a id="claim-t-192673"></a>
+- t-078
+  global_id: t-192673
+  teiginys: "Naruševičius, Narbuto perteikimu, Ptolemėjo chunų koloniją siejo su vieta, kur yra Kijevas, ir laikė juos graikų-skitų gentimi."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "182926-183355; hash=a7f0136c71d6e24b20c3a5b3966396fbe96a94a4a9881055b81588be820515fc; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dnepras: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Dnepras: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Dnepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175443
+
+<a id="claim-t-192674"></a>
+- t-079
+  global_id: t-192674
+  teiginys: "Teodoras Narbutas spėjo, kad Herodotas buvo nukeliavęs ne toliau kaip iki dabartinio Kijevo."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "271192-272096; hash=b39c4b85cf9e62386d985a32f17fb678a5ae96edef4bb3cc11c5d9b6abeeee64; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Boristeniečiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Boristeniečiai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Boristeniečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175444
+
+<a id="claim-t-192675"></a>
+- t-080
+  global_id: t-192675
+  teiginys: "Teodoro Narbuto aprašyme Kijevo miesto istorija laikoma ypatinga, nes jo praeities žinios dar įžvelgiamos."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "680385-681070; hash=07351e2f17b54571c7877246c9c829991d94950052c8d80723cbb69c9c701eca; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175445
+
+<a id="claim-t-192676"></a>
+- t-081
+  global_id: t-192676
+  teiginys: "Teodoras Narbutas teigė, kad dabartinio Kijevo žemė pirmiausia tapo pastovia skitų gyvenamąja vieta prie Dnepro."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "681071-681548; hash=74e260f26cde346376db6f0c71405acb06c4b9c784146d73a0116c494d2d0f29; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dnepras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Dnepras: mention_match, place, gap=65"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Dnepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175446
+
+<a id="claim-t-192677"></a>
+- t-082
+  global_id: t-192677
+  teiginys: "Padavime, kurį perteikia Narbutas, Kijus, Sčekas ir Choryvas laikomi Kijevo įkūrėjais arba atnaujintojais."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "689596-689983; hash=6f1346712dcd599e46d0e4ebeff86db74ca42e0818a04125b5b17b7ee7e5a38d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Choryvas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Choryvas: mention_match, person, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Choryvas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175447
+
+<a id="claim-t-193190"></a>
+- t-083
+  global_id: t-193190
+  teiginys: "Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykstantiems kryžeiviams paruoštus stalus."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "252173-252518; hash=cefc56f857643b02264cd6e9525809b60ecc0af956126b59c8f7d10cc5d989fc; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-175934
+
+<a id="claim-t-193191"></a>
+- t-084
+  global_id: t-193191
+  teiginys: "Tiesa, totoriai dažnai nusiaubdavo Kijevo apylinkes, tačiau pačios Lietuvos niekas nepalietė."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "393225-393515; hash=cbfcef965c6b913686ff0f275e312cc91eacc4737aabfdada5bb746969594a16; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-175935
+
+<a id="claim-t-193192"></a>
+- t-085
+  global_id: t-193192
+  teiginys: "Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiuliai Palenkės, Voluinės, Braclavo ir Kijevo žemių plotai atiteko Lenkijai."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "545829-546202; hash=bf32696128f0e2547252ee5a22ed2809b261adfbfe9000a4d702e800a9e731f9; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-175936
+
+<a id="claim-t-193765"></a>
+- t-086
+  global_id: t-193765
+  teiginys: "Prie jau anksčiau lietuvių užvaldytų Juodosios Rusios (Naugarduko žemių) ir Polocko Gediminas pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "52631-52897; hash=69af795387a79615a7eff01634d6fe644574b29e955530a75a007a6cdf3ff5d9; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176421
+
+<a id="claim-t-193766"></a>
+- t-087
+  global_id: t-193766
+  teiginys: "Kijeviečiams ginantis, „Gediminas stovyklavo prie Kijevo mėnesį“."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "131732-132145; hash=40af1197bbe97829cbd3c3f339af8e6ec2e2a1029226bbf0ebc871ebf1b15509; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-163683
 - susijęs iš [[objektai/ivykiai/Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.).md#claim-t-185495|Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)]]: Kojelavičiaus vertinimu, Gediminui užėmus Kijevą baigėsi daugiau kaip 430 metų Rusioje gyvavusi Kijevo monarchija.
 - susijęs iš [[objektai/zodynas/monarchas monarchija.md#claim-t-185388|monarchas monarchija]]: Gediminui užkariavus Kijevą, baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi Kijevo monarchija.
 - susijęs iš [[objektai/ivykiai/Kijevo atėmimas iš Vladimiro Algirdaičio ir atidavimas Skirgailai mainais už Polocką (apie 1396 m.).md#claim-t-100033|Kijevo atėmimas iš Vladimiro Algirdaičio ir atidavimas Skirgailai mainais už Polocką (apie 1396 m.)]]: Apie 1396 m. Vytautas atėmė Kijevą iš Vladimiro Algirdaičio, pasiliko Žitomiro ir Ovručio valsčius, o Kijevą atidavė Skirgailai mainais už Polocką.
@@ -443,6 +1383,7 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
 - susijęs iš [[objektai/asmenys/Gregorijus Cemblakas.md#claim-t-93285|Gregorijus Cemblakas]]: Totorių puldinėjimų metu Gregorijus Cemblakas turėjo iš savo sostinės persikelti į Vilnių.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179657|Skirgaila]]: 1394 m. Vytautui panaikinus Kijevo kunigaikštiją, Kijevą gavo Skirgaila.
 - susijęs iš Polockas: Po nepavykusio žygio gilyn į Lietuvą Švitrigaila grįžo į Polocką, paleido kariuomenę ir išvyko į Kijevą.
+- susijęs iš [[objektai/grupes/Geninai.md#claim-t-192981|Geninai]]: Narbutas mini nuomonę, kad Ptolemėjo geninai iš tikrųjų galėję būti chueninai, gyvenę dabartinio Kijevo apylinkėse.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171437|Totoriai]]: Edygos vadovaujami totoriai 1414–1416 m. dažnai puldinėjo Kijevo ir Podolės kraštus, apgriaudami Kijevą ir Lucką.
 - susijęs iš [[objektai/ivykiai/Kijevo atėmimas iš Vladimiro Algirdaičio ir atidavimas Skirgailai mainais už Polocką (apie 1396 m.).md#claim-t-100033|Kijevo atėmimas iš Vladimiro Algirdaičio ir atidavimas Skirgailai mainais už Polocką (apie 1396 m.)]]: Apie 1396 m. Vytautas atėmė Kijevą iš Vladimiro Algirdaičio, pasiliko Žitomiro ir Ovručio valsčius, o Kijevą atidavė Skirgailai mainais už Polocką.
 - susijęs iš Bresto žemė (Palenkė): 1323 m. pabaigoje–1324 m. pradžioje Gedimino Lietuva, puldama Volynę, užėmė Bresto žemę, arba Palenkę.
@@ -453,6 +1394,7 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176310|Algirdas (Lietuvos valdovas)]]: Labiau linkstama manyti, kad Algirdas prijungė Kijevą po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 ar 1363 m.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184669|Algirdas (Lietuvos valdovas)]]: Algirdas išstūmė svetimšalius iš Kijevo ir Volynės žemių, o užimtą kraštą padalijo brolio Karijoto sūnums.
 - susijęs iš [[objektai/asmenys/Boleslovas Švitrigaila.md#claim-t-185932|Boleslovas Švitrigaila]]: Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstančių karių, sunkiai paspruko į Kijevą.
+- susijęs iš [[objektai/asmenys/Choryvas.md#claim-t-191261|Choryvas]]: Padavimas, kaip jį perteikia Narbutas, Choryvą kartu su Kijumi ir Sčeku sieja su Kijevo įkūrimu arba atnaujinimu.
 - susijęs iš [[objektai/asmenys/Ciprijonas.md#claim-t-35044|Ciprijonas]]: Ciprijonas buvo bulgaras ir atskiras Kijevo metropolitas Lietuvai, vėliau Maskvoje suvienijęs Rusijos ir Lietuvos stačiatikius.
 - susijęs iš [[objektai/asmenys/Edyga.md#claim-t-63558|Edyga]]: Edygos vadovaujami totoriai 1414-1416 m. dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriaudami Kijevą ir Lucką.
 - susijęs iš [[objektai/asmenys/Eufimėjus.md#claim-t-35061|Eufimėjus]]: Konstantinopolio patriarchas Eufimėjus nepatvirtino Vytauto siūlyto Polocko vyskupo Teodozijaus Kijevo metropolitu.
@@ -466,16 +1408,21 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
 - susijęs iš [[objektai/asmenys/Fotijus.md#claim-t-82303|Fotijus]]: Fotijus siekė Kijevo metropoliją prijungti prie Maskvos, bet Vytauto priimtas dėl jo ligos nieko nepasiekė ir išvyko į Maskvą.
 - susijęs iš [[objektai/asmenys/Gregorijus Cemblakas.md#claim-t-93284|Gregorijus Cemblakas]]: Naugarduko susirinkimas paskyrė Gregorijų Cemblaką Kijevo metropolitu.
 - susijęs iš [[objektai/asmenys/Ivanas Vasiljevičius.md#claim-t-87521|Ivanas Vasiljevičius]]: Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.
+- susijęs iš [[objektai/asmenys/Jaroslavas.md#claim-t-190885|Jaroslavas]]: Narbuto pasakojimu, didysis kunigaikštis Jaroslavas 1031 m. iš Lenkijos išsivedė belaisvių ir arčiau Kijevo steigė jų kolonijas.
 - susijęs iš [[objektai/asmenys/Jonas Algimantaitis (Alšėniškis).md#claim-t-53956|Jonas Algimantaitis (Alšėniškis)]]: Mirus Skirgailai, Jonas Algimantaitis Alšėniškis buvo paskirtas Vytauto vietininku Kijeve.
 - susijęs iš [[objektai/asmenys/Jurgis Cemblakas.md#claim-t-35173|Jurgis Cemblakas]]: Vytautas 1415 m. Naugarduke paskelbė Jurgį Cemblaką Kijevo metropolitu.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103052|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila, tuometinis Kijevo vaivada ir LDK taurininkas, vadovavo ne mažiau kaip 8000 lietuvių pašauktinių bajorų.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103054|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila, tuometinis Kijevo vaivada ir LDK taurininkas, vadovavo lietuvių pašauktiniams bajorams.
 - susijęs iš [[objektai/asmenys/Kiprijonas.md#claim-t-63828|Kiprijonas]]: Kiprijonas 1390-1406 m. buvo Kijevo ir visos Rusios metropolitas.
 - susijęs iš [[objektai/asmenys/Markvardas (Ragainės komtūras).md#claim-t-39600|Markvardas (Ragainės komtūras)]]: Ragainės komtūras Markvardas vadovavo 100 riterių kryžiuočių daliniui Vytauto kariuomenėje prie Kijevo.
+- susijęs iš [[objektai/asmenys/Nestoras.md#claim-t-190931|Nestoras]]: Teodoras Narbutas rašo, kad Nestoras perėmė pasakojimą apie Kijų, Ščeką, Choryvą ir senovės Kijevą.
+- susijęs iš [[objektai/asmenys/Oramas.md#claim-t-191451|Oramas]]: Narbuto pasakojime Oramas, hano sūnėnas ir Krymo valdovas, vadovavo žygiui, kuriam padėjo Kijevo rusinai.
+- susijęs iš [[objektai/asmenys/Ptolemėjas.md#claim-t-191099|Ptolemėjas]]: Teodoro Narbuto perteikimu, Naruševičius Ptolemėjo chunų koloniją siejo su vieta, kur vėliau buvo Kijevas.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179656|Skirgaila]]: Karalienė Jadvyga stengėsi sutaikyti Skirgailą su Vytautu, o po sutarčių Skirgaila gavo Kijevo kunigaikštystę ir kelias pilis.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179669|Skirgaila]]: Karalienė Jadvyga stengėsi sutaikyti Skirgailą su Vytautu, o sutartimis Skirgaila gavo Kijevo kunigaikštystę ir kelias pilis.
 - susijęs iš [[objektai/asmenys/Spytekas iš Melštyno.md#claim-t-40426|Spytekas iš Melštyno]]: Spytekas iš Melštyno, Krokuvos vaivada ir Podolės valdytojas, buvo tarp prie Kijevo telktų pavienių lenkų riterių.
 - susijęs iš [[objektai/asmenys/Stanislovas (Plocko vyskupas).md#claim-t-87929|Stanislovas (Plocko vyskupas)]]: 1386 metais Plocko vyskupas Stanislovas su Kijevo vyskupu Mykolu pašventino Šv. Jono bažnyčią.
+- susijęs iš [[objektai/asmenys/Sčekas.md#claim-t-191984|Sčekas]]: Pasak padavimo, Sčekas su Kijumi ir Choryvu buvo laikomi Kijevo įkūrėjais arba atnaujintojais.
 - susijęs iš [[objektai/asmenys/Teodoras.md#claim-t-79203|Teodoras]]: 1330-1331 m. šaltiniai mini Gedimino brolį Teodorą kaip Lietuvos valdovo vietininką Kijeve.
 - susijęs iš [[objektai/asmenys/Teodozijus.md#claim-t-35295|Teodozijus]]: Po Ciprijono mirties Vytautas pristatė Polocko vyskupą Teodozijų Konstantinopolio patriarchui kaip kandidatą į Kijevo metropolitus.
 - susijęs iš [[objektai/asmenys/Vladimiras Algirdaitis.md#claim-t-182865|Vladimiras Algirdaitis]]: 1396 m. Vytautas iš Vladimiro Algirdaičio atėmė Kijevą, o sau pasiliko Žitomiro ir Ovručio plačius valsčius.
@@ -483,6 +1430,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
 - susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-183582|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę, Voluinės, Kijevo ir Podolės vaivadijas.
 - susijęs iš [[objektai/autoriai/Ignacas Danila vičius.md#claim-t-88064|Ignacas Danila vičius]]: Ignacas Danilavičius buvo buvęs Vilniaus universiteto profesorius ir Kijevo Teisės katedros vadovas.
 - susijęs iš [[objektai/autoriai/M. Hruševskis.md#claim-t-30833|M. Hruševskis]]: M. Hruševskis rusų ir ukrainiečių kalbomis tyrinėjo senovės Kijevo žemės istoriją iki mongolų laikų ir Lietuvos kunigaikščių valdžią joje.
+- susijęs iš [[objektai/autoriai/Nestoras.md#claim-t-191529|Nestoras]]: Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Choryvą, susiliejusį su žiniomis apie senovės Kijevą.
+- susijęs iš [[objektai/autoriai/Nestoras.md#claim-t-191535|Nestoras]]: Iš Nestoro, per Karamziną, Narbutui buvo žinoma, kad Kijevo slėnis anksčiau buvo užlietas vandens, o Dnepras tekėjo kita kryptimi.
 - susijęs iš [[objektai/autoriai/Petkun’, P.md#claim-t-30924|Petkun’, P]]: P. Petkunas 1928 m. Kijeve paskelbė darbą apie Lietuvos Didžiosios Kunigaikštystės rytinę sieną XV a. ketvirtajame dešimtmetyje.
 - susijęs iš [[objektai/autoriai/Rusų ir ukrainiečių istorikai.md#claim-t-47898|Rusų ir ukrainiečių istorikai]]: M. Hruševskis rusų ir ukrainiečių kalbomis rašė apie senovės Kijevo žemės istoriją ir jos užvaldymą Lietuvos kunigaikščių.
 - susijęs iš [[objektai/autoriai/Rusų ir ukrainiečių istorikai.md#claim-t-47899|Rusų ir ukrainiečių istorikai]]: M. Hruševskis rusų ir ukrainiečių kalbomis rašė apie senovės Kijevo žemės istoriją iki mongolų laikų.
@@ -490,6 +1439,7 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
 - susijęs iš [[objektai/grupes/Alšėnų kunigaikščiai.md#claim-t-187703|Alšėnų kunigaikščiai]]: Alšėnų kunigaikščio Jono Algimantaičio sūnus Andrius Algimantaitis po Skirgailos mirties buvo Vytauto vietininkas Kijeve.
 - susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187447|Aukso orda]]: 1325 m. Aukso orda surengė puolimą prieš Lietuvą, veikiausiai atsakydama į Lietuvos veiksmus Kijevo žemėje.
 - susijęs iš [[objektai/grupes/Dregovičiai.md#claim-t-31176|Dregovičiai]]: Dregovičiai Beržūnės baseine, nors Kijevo Rusia 988 m. priėmė Bizantijos krikštą, gyveno gana žemame kultūros laipsnyje.
+- susijęs iš [[objektai/grupes/Geninai.md#claim-t-192981|Geninai]]: Narbutas mini nuomonę, kad Ptolemėjo geninai iš tikrųjų galėję būti chueninai, gyvenę dabartinio Kijevo apylinkėse.
 - susijęs iš [[objektai/grupes/Graikų katalikų bažnyčia.md#claim-t-74119|Graikų katalikų bažnyčia]]: Graikų katalikų bažnyčios metropolitai buvo Kijevo metropolitai, nuolat rezidavę Vilniuje.
 - susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116733|Katalikų Bažnyčia]]: Nuo 1387 m. LDK buvo katalikiška, tačiau apie 1500 m. joje veikė šešios Kijevo metropolijai pavaldžios stačiatikių vyskupijos.
 - susijęs iš [[objektai/grupes/Kijevo Rusia.md#claim-t-181458|Kijevo Rusia]]: XI a. Lietuva patyrė Kijevo Rusios agresiją.
@@ -537,8 +1487,13 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
 - susijęs iš Istorija Ukrajiny-Rusy: M. Hruševskio „Istorija Ukrajiny-Rusy“ 4 tomas antruoju leidimu išėjo 1907 m., o 5–6 tomai – Kijeve ir Lvove 1905–1907 m.
 - susijęs iš Očerki istorii Kievskoj zemli: M. Gruševskio „Očerki istorii Kievskoj zemli“ išleista Kijeve 1891 m.
 - susijęs iš Povest vremennych let: XII a. pradžioje surašyta „Povest vremennych let“ mini, kad Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą.
+- susijęs iš Zeller, Neue Beschreibung des Königreichs Polen und Herzogtums Lithauen: Zellerio 1663 m. veikalas „Neue Beschreibung des Königreichs Polen und Herzogtums Lithauen“ minimas kaip šaltinis apie senovės Kijevą.
 - susijęs iš Непокупный А. П. Балто-севернославянские языковые связи: A. P. Nepokupno „Балто-севернославянские языковые связи“ išleista Kijeve 1976 m.
 - susijęs iš Седов В. В. Гидронимия Голяди: V. V. Седов straipsnis „Гидронимия Голяди“ paskelbtas 1971 m. Kijevo leidinyje „Питания гiдронiмiки“, p. 131–137.
+- susijęs iš Belaja Cerkovė: Karamzinas Jurjevą siejo su vieta prie Rosės upės, tekančios pro Belają Cerkovę Kijevo gubernijoje.
+- susijęs iš Desna: Narbutas Gero ir Hipakyrio upes tapatino su Desna ir Seimu, kurios, jo aiškinimu, susiliejusios įtekėdavo į Dnepro vagą netoli Kijevo.
+- susijęs iš Dnepras: Narbutas chionitus laikė Padneprės emporiumų graikų kolonistais, gyvenusiais dešiniajame Dnepro krante ties Kijevu.
+- susijęs iš Dnepras: Narbutas rašė, kad senoji kairioji Dnepro šaka driekėsi nuo Beržūnos iki Desnos žiočių, o prie Kijevo buvo įlankų ir gilių ežerėlių.
 - susijęs iš Irpenė: Istorinė rusų tradicija Gediminą prie Irpenės siejo su Kijevo paėmimu ir Kijevo kunigaikštystės prijungimu prie Lietuvos.
 - susijęs iš Kijevo Rusia: Pagoniška Lietuvos valstybė pamažu tapo regionine didvalstybe, užvaldžiusia dideles buvusios Kijevo Rusios stačiatikiškas žemes.
 - susijęs iš Kijevo Rusia: Pagoniška Lietuvos valstybė užvaldė didžiules buvusios Kijevo Rusios stačiatikiškų žemių erdves.
@@ -560,6 +1515,7 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
 - susijęs iš Polockas: Po nepavykusio žygio gilyn į Lietuvą Švitrigaila grįžo į Polocką, paleido kariuomenę ir išvyko į Kijevą.
 - susijęs iš Ragainė: Ragainės komtūras Markvardas Salzbachas su 1600 raitelių prisidėjo prie Vytauto kariuomenės Kijeve.
 - susijęs iš Rosė (Ross) upė Kijevo gubernijoje: Narbutas Rosės (Ross) upės Kijevo gubernijoje vardą aiškino kaip paveldėtą iš ten kadaise gyvenusių lietuvių genties tautų.
+- susijęs iš Rosė (Ross) upė Kijevo gubernijoje: Karamzinas Jurjevą siejo su Rosės upe prie Belaja Cerkovės Kijevo gubernijoje ir Nestoro žodžius taikė dešiniajam Dnepro krantui.
 - susijęs iš Targovica: Targovica buvo Ordos karinis-administracinis centras prie kelio nuo Juodosios jūros ir Krymo Lucko bei Kijevo link.
 - susijęs iš Vitebskas: Gediminas prie anksčiau lietuvių užvaldytų žemių pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.
 - susijęs iš Vitebskas: Po nepavykusio sąmokslo Švitrigaila pabėgo į Polocką ir paėmė į savo valdžią Vitebsko, Smolensko, Kijevo bei kitas sritis.
@@ -602,6 +1558,7 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-182807|Jogaila (kunigaikštis, XIV–XV a.)]]: Vladislovo Jogailos lėšomis pradėtą statyti Šv. Jono bažnyčią užbaigė Vytautas.
 - susijęs iš [[objektai/asmenys/Jonas Nemiravičius.md#claim-t-186216|Jonas Nemiravičius]]: Žygimantas pasiuntė Joną Nemiravičių pranešti karaliui, kad Boleslovas išvytas iš Lietuvos.
 - susijęs iš [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas).md#claim-t-186221|Juozapas (Konstantinopolio patriarchas)]]: Konstantinopolio patriarchas Juozapas dalyvavo Florencijos suvažiavime, kuriame tartasi dėl Rytų ir Romos bažnyčių tikėjimo santarvės.
+- susijęs iš [[objektai/asmenys/Karamzinas.md#claim-t-191246|Karamzinas]]: Karamzinas, Narbuto perteikimu, Jurjevą prie Rosės siejo su poloviečių veiksmais ir teigė, kad miestas atstatytas XII a. pradžioje po to, kai poloviečiai jį sunaikino.
 - susijęs iš [[objektai/asmenys/Kazimieras Skirgaila.md#claim-t-185950|Kazimieras Skirgaila (Lenkijos karalius)]]: Kazimieras Skirgaila turėjo pasitenkinti gautomis kunigaikštystėmis ir nesiekti Lietuvos didžiojo kunigaikščio vardo.
 - susijęs iš [[objektai/asmenys/Kazimieras Skirgaila.md#claim-t-185951|Kazimieras Skirgaila (Lenkijos karalius)]]: Vienuolyno viršininkas slapta įpylė nuodų Skirgailai, kai šis po medžioklės užsuko į rusų vienuolyną.
 - susijęs iš [[objektai/asmenys/Kiprijonas.md#claim-t-63829|Kiprijonas]]: Kijevo metropolitas Kiprijonas buvo raginamas kviesti tikinčiuosius į karą prieš totorius.
@@ -613,6 +1570,7 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
 - susijęs iš [[objektai/asmenys/Mykolas (Kijevo vyskupas).md#claim-t-87921|Mykolas (Kijevo vyskupas)]]: 1386 m. Kijevo vyskupas Mykolas kartu su Plocko vyskupu Stanislovu pašventino Šv. Jono bažnyčią.
 - susijęs iš [[objektai/asmenys/Netimeras.md#claim-t-19170|Netimeras]]: Netimeras buvo Lietuvos „karalius“, kuris, Brunonui Bonifacijui atvykus į Lietuvą, įtikėjo ir krikštijosi.
 - susijęs iš [[objektai/asmenys/Netimeras.md#claim-t-19172|Netimeras]]: Lietuvos „karaliaus“ Netimero krikštas datuojamas 1009 m.
+- susijęs iš [[objektai/asmenys/Nikolajus Karamzinas.md#claim-t-191142|Nikolajus Karamzinas]]: Teodoro Narbuto perteikimu, Nikolajus Karamzinas teigė, kad Jurjevas XII a. pradžioje buvo atstatytas po poloviečių sunaikinimo.
 - susijęs iš [[objektai/asmenys/Olafas (Norvegijos valdovas).md#claim-t-19180|Olafas (Norvegijos valdovas)]]: Norvegijos valdovas Olafas 997 m. pradėjo šalies christianizaciją.
 - susijęs iš [[objektai/asmenys/Olafas (pietų Švedijos kunigaikštis).md#claim-t-19181|Olafas (pietų Švedijos kunigaikštis)]]: Pietų Švedijos kunigaikštis Olafas buvo pakrikštytas 1008 m.
 - susijęs iš [[objektai/asmenys/Pisimantas.md#claim-t-186158|Pisimantas]]: Į pagalbą iš šiaurinės Rusios buvo pakviesti brolių Liubarto ir Pisimanto pulkai.
@@ -669,6 +1627,7 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
 - susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187444|Aukso orda]]: Nuo 1328 m. atsinaujinus Lietuvos puolimams, Lietuva, tikėtina, užmezgė kompromisinius santykius su Aukso orda.
 - susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187445|Aukso orda]]: Aukso ordos chanas Sich-Achmetas po Mengli-Girėjaus pralaimėjimo ieškojo prieglobsčio Nogajų ordoje, bet vėliau grįžo į LDK.
 - susijęs iš [[objektai/grupes/Aukščiausioji Santarvininkių Taryba.md#claim-t-72030|Aukščiausioji Santarvininkių Taryba (institucija)]]: Aukščiausioji Santarvininkių Taryba 1919 m. gruodžio 8 d. nustatė Kerzono liniją.
+- susijęs iš [[objektai/grupes/Boristeniečiai.md#claim-t-192948|Boristeniečiai]]: Narbuto svarstymu, Ptolemėjo geninai galėjo būti graikai boristeniečiai, kilę iš Kijanėjos, arba Chianėjos, krašto.
 - susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96108|Gediminaičių dinastija]]: Daugumas Gediminaičių pačioje Vytauto valdymo pradžioje pasirodė jam nepaklusnūs.
 - susijęs iš [[objektai/grupes/Gotai.md#claim-t-188191|Gotai]]: Narbutas Rosės upės vardą Kijevo gubernijoje siejo su lietuvių gentimis, kurios esą išėjo į rytus su gotais Filimero valdymo metu ar kiek vėliau.
 - susijęs iš [[objektai/grupes/Goštautų giminė.md#claim-t-187760|Goštautų giminė]]: Fedoras Ivanovičius Jaroslavičius susigiminiavo su LDK didikais Goštautais ir vedęs Oleną Aleksandrą gavo Pinską.
@@ -680,6 +1639,7 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188279|Lietuviai]]: Narbutas spėjo, kad Rusos upės vardą Naugardo gubernijoje galėjo duoti variagų atgabenta lietuvių tautos kolonija.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169687|Lietuvos Didžioji Kunigaikštija]]: Valdant Gediminui ir Algirdui Lietuvos Didžioji Kunigaikštija išsiplėtė ir tapo reikšminga Vidurio bei Rytų Europos jėga.
 - susijęs iš [[objektai/grupes/Liuteronai.md#claim-t-45108|Liuteronai]]: Liuteronybė nuo 1539 m. buvo ankstyviausia reformacijos kryptis Lietuvoje, o vėliau liuteronų bendruomenės imtos vadinti vokiečių bendruomenėmis.
+- susijęs iš [[objektai/grupes/Poloviečiai.md#claim-t-192442|Poloviečiai]]: Karamzinas Nestoro žodžius apie poloviečius siejo su jų veiksmais dešiniajame Dnepro krante prie Jurjevo ir Rosės upės.
 - susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188298|Prūsai]]: Narbutas spėja, kad Naugardo gubernijos Rusos, arba Russ, upės vardą galėjo duoti lietuvių tautos kolonija, siejama su prūsų kolonistais Naugarde.
 - susijęs iš [[objektai/grupes/Rogvoldovičiai.md#claim-t-86820|Rogvoldovičiai]]: Mstislavui Vladimirovičiui užėmus Polocką, Rogvoldovičiai pabėgo į Konstantinopolį.
 - susijęs iš [[objektai/grupes/Rusėnai.md#claim-t-74912|Rusėnai]]: Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo rusėnų – LDK stačiatikių (baltarusių ir ukrainiečių protėvių) kalba.
@@ -696,6 +1656,7 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176080|Vilniaus kapitula]]: Vladislovas Jogaila paveldėjimo teise perdavė katedrai ir Vilniaus kapitulai Panerius bei kitas mažesnes pajamas.
 - susijęs iš [[objektai/ivykiai/Brastos bažnytinė unija.md#claim-t-183219|Brastos bažnytinė unija (unija)]]: Brastos bažnytinę uniją 1596 m. nulėmė gausūs XV–XVI a. LDK telkęsi bažnytinės unijos bandymai.
 - susijęs iš [[objektai/ivykiai/Brastos bažnytinė unija.md#claim-t-20172|Brastos bažnytinė unija (unija)]]: Po Brastos bažnytinės unijos stačiatikiai ir graikai katalikai LDK vaidino svarbesnį vaidmenį nei Lenkijoje.
+- susijęs iš [[objektai/ivykiai/Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei poloviečių poslinkiai.md#claim-t-191013|Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei poloviečių poslinkiai]]: Teodoro Narbuto pasakojime Jaroslavas po 1031 m. žygio į Lenkiją belaisvius kėlė arčiau Kijevo, bet Rosės krašte kolonijų nesteigė dėl pečenegų.
 - susijęs iš [[objektai/ivykiai/Jotvingių pralaimėjimas Vladimirui A. Kojelavičiaus pasakojime (970 m.).md#claim-t-185709|Jotvingių pralaimėjimas Vladimirui A. Kojelavičiaus pasakojime (970 m.)]]: Kojelavičiaus pasakojime jotvingiai buvo Vladimiro įveikti, pavergti ir įpareigoti kasmet mokėti nustatytą duoklę.
 - susijęs iš [[objektai/ivykiai/Kernavės sunaikinimas prieš Trakų pilies pastatymą.md#claim-t-189630|Kernavės sunaikinimas prieš Trakų pilies pastatymą]]: Narbutas siejo Trakų pilies statybą su XI a. rusinų žygiais į Lietuvą ir visišku Kernavės sunaikinimu.
 - susijęs iš [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.).md#claim-t-05298|Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.)]]: 1044 m. Jaroslavas vėl žygiavo į Lietuvą ir pavasarį įkūrė Naugarduką.
@@ -733,6 +1694,7 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
 - susijęs iš [[objektai/paprociai/Miesto ir žemių atidavimas nugalėtojui prisiekiant paklusnumą.md#claim-t-185878|Miesto ir žemių atidavimas nugalėtojui prisiekiant paklusnumą (miestas)]]: Kijevo luomai, išėję iš miesto, pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė su visomis žemėmis paklusti jo valdžiai.
 - susijęs iš [[objektai/paprociai/Rusėnų kalbos vartojimas LDK raštinėse ir raštijoje.md#claim-t-54345|Rusėnų kalbos vartojimas LDK raštinėse ir raštijoje]]: Vytauto laikais didėjo raštijos poreikiai, lietuvių kalba dar neturėjo raštijos tradicijų, o stačiatikiai valdiniai turėjo seną rašto tradiciją.
 - susijęs iš [[objektai/paprociai/Rusėnų kalbos vartojimas LDK raštinėse ir raštijoje.md#claim-t-54346|Rusėnų kalbos vartojimas LDK raštinėse ir raštijoje]]: Vytauto laikais LDK raštijos poreikiai sparčiai didėjo, o lietuvių kalba dar neturėjo susiformavusios raštijos tradicijos.
+- susijęs iš [[objektai/posakiai/Kuo labiau gilinuosi į mano gimtosios žemės senovės pažinimą, tuo toliau ji traukiasi į praėjusių amžių gelmes ir tarsi stengiasi dingti iš mano akiračio.md#claim-t-192125|Kuo labiau gilinuosi į mano gimtosios žemės senovės pažinimą, tuo toliau ji traukiasi į praėjusių amžių gelmes ir tarsi stengiasi dingti iš mano akiračio]]: Aprašydamas prie Rodūnės stūksantį pylimą, Narbutas pereina į asmeninę refleksiją apie senovės pažinimo ribas.
 - susijęs iš [[objektai/posakiai/Raštu neužrašyti darbai pražūna iš atminties.md#claim-t-54783|Raštu neužrašyti darbai pražūna iš atminties]]: Privilegijos įžangoje teigiama, kad raštai įamžina valdovų valdymo metu nuveiktus darbus.
 - susijęs iš [[objektai/posakiai/Verčiau pasiduodant išsaugoti šiokią tokią valstybę.md#claim-t-185486|Verčiau pasiduodant išsaugoti šiokią tokią valstybę]]: Apsupto Kijevo gyventojai nutarė verčiau pasiduoti ir išsaugoti šiokią tokią valstybę, negu viską prarasti priešindamiesi.
 - susijęs iš [[objektai/posakiai/na Litvu.md#claim-t-31562|na Litvu]]: „Povest vremennych let“ mini, kad Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą („na Litvu“), bet jo eigos neaprašė.
@@ -751,17 +1713,21 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
 - susijęs iš Mykolo Kleofso Oginskio kunigaikštijos sudarymo projektas (1811 m.): Oginskio projekte siūlyta kunigaikštijoje be apribojimų palikti Lietuvos Statutą ir įsteigti nuo Petrapilio nepriklausomą tribunolą.
 - susijęs iš Nifono laiškas rusams dėl Florencijos tikėjimo santarvės: Nifono laiškas ragino rusus tvirtai laikytis Florencijos tikėjimo santarvės, dėl kurios sutarė Jonas Paleologas ir Rytų bažnyčios patriarchai.
 - susijęs iš Spa protokolas: Spa protokolu Lenkija įsipareigojo atsitraukti už Kerzono linijos ir liepos 10 d. atiduoti Vilniaus sritį Lietuvai.
+- susijęs iš Tygodnik Wilenski: Narbutas rašo, kad straipsnis „Apie pilkapius“ buvo parengtas „Tygodnik Wilenski“ ir šiame tome pakartotas su pataisomis.
 - susijęs iš Alšėnai: Alšėnų kunigaikštis minimas tarp dokumento sudaryme dalyvavusių didikų ir dvasininkų.
 - susijęs iš Azovas: Vytautas iš Kijevo su kariuomene tyliai patraukė į Azovą ir prie Azovo persikėlė per Doną.
 - susijęs iš Bakota: Karijotaičiai Podolėje statė pilis, tarp jų Kamieniecą, Smotryčą ir Bakotą.
 - susijęs iš Baltarusija: Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino laikais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Voluinė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
 - susijęs iš Baltoji Rusia: Vytenio ir Gedimino laikais prie Lietuvos buvo prijungta Baltoji Rusia, įskaitant Polocką 1307 m. ir Vitebską 1320 m.
 - susijęs iš Belgorodas: Gediminui ilsintis prie Kijevo, Belgorodas ir kitos artimiausios pilys pasidavė nugalėtojui.
+- susijęs iš Beržūna: Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradžią iki Dėsnios žiočių.
 - susijęs iš Braclavas: Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę ir Voluinės, Kijevo bei Podolės, arba Braclavo, vaivadijas.
 - susijęs iš Bresto žemė (Palenkė): 1323 m. pabaigoje–1324 m. pradžioje Gedimino Lietuva, puldama Volynę, užėmė Bresto žemę, arba Palenkę.
 - susijęs iš Brianskas: Gediminas, užėmęs Brianską ir Perejeslavlį, išplėtė lietuvių valdų ribas ligi Putivlio.
 - susijęs iš Cerkasai: XVI a. vidurio Kanevo pilies padavime sakoma, kad Gediminas įkūrė Kanevą ir Cerkasus.
 - susijęs iš Cholmas: Cholmo stačiatikių vyskupas kartu su kitais vyskupais išleido aplinkraštį dėl savo teisių gynimo nuo Rusijos metropolitų.
+- susijęs iš Desna: Narbutas aiškino, kad Pripetės vaga į kairiąją Dnepro šaką įsiliedavo priešais Desnos žiotis arba kiek žemiau.
+- susijęs iš Dnepras: Narbutas teigė, kad jo laikų Dnepro vandens masė buvo perpus mažesnė negu senovėje, nors vaga išlaikė panašų plotį.
 - susijęs iš Dniepras: Vytauto remiamas Kijevas Dniepro upe susisiekė su Juodąja jūra.
 - susijęs iš Dniepras: Kijevo kunigaikštystė ir Podolė anuomet siekė Dniepro ir Dniestro žiotis ir priklausė Lietuvai.
 - susijęs iš Dniepras: Vytautas rėmė Kijevą, kuris Dniepro upe turėjo susisiekimą su Juodąja jūra.
@@ -800,6 +1766,7 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
 - susijęs iš Polockas: Gedimino laikais Polockas jau buvo tarp anksčiau lietuvių užvaldytų žemių.
 - susijęs iš Polockas: Po sąmokslininkų užpuolimo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Polocko sritį.
 - susijęs iš Polockas: 1264 metais Lietuvos ponai po Treniotos mirties pasiuntė Liutaurą užimti Polocko ir valdyti jį vietininku.
+- susijęs iš Pripetė: Teodoras Narbutas aiškina, kad Pripetė Padneprės slėnyje kadaise tekėjo lygiagrečiai Dneprui ir sudarė jo dešiniąją vagą.
 - susijęs iš Ratne: Ratnėje, Pripetės aukštupyje, valdė Algirdo sūnus Teodoras.
 - susijęs iš Rosė: Narbutas Rosės (Ross) upę, įtekančią į Dneprą dešiniajame krante, laikė vardą gavusia iš lietuvių genties tautų.
 - susijęs iš Rusa (Russ) upė Naugardo gubernijoje: Narbutas spėjo, kad Naugardo gubernijos Rusos, arba Russ, upei vardą davė variagų atgabenta lietuvių tautos kolonija.
@@ -856,6 +1823,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
 - susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-97285|metropolitas]]: Gediminui nepavyko išlaikyti Lietuvos metropolijos dėl Maskvos žemėse gyvenusio Kijevo metropolito Teognosto priešiškumo.
 - susijęs iš [[objektai/zodynas/monarchas monarchija.md#claim-t-185388|monarchas monarchija]]: Gediminui užkariavus Kijevą, baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi Kijevo monarchija.
 - susijęs iš [[objektai/zodynas/patepimas į valdžią.md#claim-t-86606|patepimas į valdžią]]: Vilniuje Vytautas iš Vilniaus vyskupo Andriaus Važilo gavo patepimą tapti Lietuvos didžiuoju kunigaikščiu.
+- susijęs iš [[objektai/zodynas/pilkapis.md#claim-t-192278|pilkapis]]: Teodoras Narbutas pilkapius apibrėžia kaip žmonių rankomis supiltas žemės kalvas, rusinų vadinamas kurhany.
+- susijęs iš [[objektai/zodynas/pilkapis.md#claim-t-192281|pilkapis]]: Teodoras Narbutas nurodo, kad rusinai pilkapius vadina kurhany.
 - susijęs iš [[objektai/zodynas/pravoslavai.md#claim-t-11777|pravoslavai]]: Pravoslavai yra vėlyvesnis graikų tikybos žmonių pavadinimas.
 - susijęs iš [[objektai/zodynas/rusėnų kalba LDK raštų kalba.md#claim-t-169930|rusėnų kalba LDK raštų kalba]]: Vytauto laikais didėjant raštijos poreikiams, lietuvių kalba dar neturėjo raštijos tradicijų.
 - susijęs iš [[objektai/zodynas/rusėnų kalba LDK slavų kanceliarinė kalba.md#claim-t-22294|rusėnų kalba LDK slavų kanceliarinė kalba]]: Vytauto laikais didėjant raštijos poreikiams, lietuvių kalba dar neturėjo raštijos tradicijų.
@@ -866,11 +1835,16 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
 - susijęs iš Naugardas Sieverskas: Po sąmokslo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Naugardo Sieversko bei kelias kitas sritis.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82179|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis rašte titulavosi Lietuvos, Žemaitijos, Rusios ir Kijevo didžiuoju kunigaikščiu.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184669|Algirdas (Lietuvos valdovas)]]: Algirdas išstūmė svetimšalius iš Kijevo ir Volynės žemių, o užimtą kraštą padalijo brolio Karijoto sūnums.
+- susijęs iš [[objektai/asmenys/Oramas.md#claim-t-191451|Oramas]]: Narbuto pasakojime Oramas, hano sūnėnas ir Krymo valdovas, vadovavo žygiui, kuriam padėjo Kijevo rusinai.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171445|Totoriai]]: Totoriai, užėmę lietuvių stovyklą, paėmė jų gurguoles bei turtus ir ėmė niokoti kraštą.
 - susijęs iš [[objektai/ivykiai/Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.).md#claim-t-185493|Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)]]: Rusų kunigaikščiai prie Irpenio upės įsirengė karo stovyklas, ketindami užpulti į Kijevą traukiančius lietuvius.
+- susijęs iš [[objektai/posakiai/Kuo labiau gilinuosi į mano gimtosios žemės senovės pažinimą, tuo toliau ji traukiasi į praėjusių amžių gelmes ir tarsi stengiasi dingti iš mano akiračio.md#claim-t-192125|Kuo labiau gilinuosi į mano gimtosios žemės senovės pažinimą, tuo toliau ji traukiasi į praėjusių amžių gelmes ir tarsi stengiasi dingti iš mano akiračio]]: Aprašydamas prie Rodūnės stūksantį pylimą, Narbutas pereina į asmeninę refleksiją apie senovės pažinimo ribas.
+- susijęs iš [[objektai/zodynas/pilkapis.md#claim-t-192278|pilkapis]]: Teodoras Narbutas pilkapius apibrėžia kaip žmonių rankomis supiltas žemės kalvas, rusinų vadinamas kurhany.
+- susijęs iš [[objektai/zodynas/pilkapis.md#claim-t-192281|pilkapis]]: Teodoras Narbutas nurodo, kad rusinai pilkapius vadina kurhany.
 - susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187438|Aukso orda]]: Apie 1325 m. Aukso orda rytuose turėjo kovoti su ją puolusiu Iranu.
 - susijęs iš Volynė: 1323 m. pabaigoje arba 1324 m. pradžioje Gedimino Lietuva, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę.
 - susijęs iš [[objektai/asmenys/Jonas Algimantaitis (Alšėniškis).md#claim-t-53956|Jonas Algimantaitis (Alšėniškis)]]: Mirus Skirgailai, Jonas Algimantaitis Alšėniškis buvo paskirtas Vytauto vietininku Kijeve.
+- susijęs iš [[objektai/asmenys/Choryvas.md#claim-t-191261|Choryvas]]: Padavimas, kaip jį perteikia Narbutas, Choryvą kartu su Kijumi ir Sčeku sieja su Kijevo įkūrimu arba atnaujinimu.
 - susijęs iš [[objektai/asmenys/Tochtamišas.md#claim-t-111435|Tochtamišas]]: Prie Kijevo telkiamoje Vytauto kariuomenėje buvo keli tūkstančiai Tochtamišo totorių.
 - susijęs iš [[objektai/grupes/Mongolų imperija.md#claim-t-74873|Mongolų imperija]]: XIII a. Mongolų imperija sudaužė Kijevo Rusią, o Lietuva pasinaudojo pergale ir pajungė kai kurias rusų žemes.
 - susijęs iš [[objektai/grupes/Mongolų imperija.md#claim-t-74874|Mongolų imperija]]: XIII a. Mongolų imperija sudaužė Kijevo Rusią, o Lietuva pasinaudojo pergale ir pajungė kai kurias rusų žemes.
@@ -879,8 +1853,10 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
 - susijęs iš [[objektai/paprociai/Bažnyčios pašventinimas per dideles iškilmes.md#claim-t-87262|Bažnyčios pašventinimas per dideles iškilmes]]: 1386 m. Šv. Jono bažnyčią, pradėtą statyti Vladislovo Jogailos lėšomis ir užbaigtą Vytauto, pašventino Kijevo vyskupas Mykolas ir Plocko vyskupas Stanislovas.
 - susijęs iš Kremencas: Vytautas pasižadėjo padėti Skirgailai paimti Kijevą ir vietoj Trakų kunigaikštijos atiduoti jam Kremencą bei Stožką.
 - susijęs iš [[objektai/grupes/Krymo orda.md#claim-t-86726|Krymo orda]]: Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.
+- susijęs iš Dnepras: Narbutas chionitus laikė Padneprės emporiumų graikų kolonistais, gyvenusiais dešiniajame Dnepro krante ties Kijevu.
 - susijęs iš [[objektai/asmenys/Markvardas (Ragainės komtūras).md#claim-t-39600|Markvardas (Ragainės komtūras)]]: Ragainės komtūras Markvardas vadovavo 100 riterių kryžiuočių daliniui Vytauto kariuomenėje prie Kijevo.
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -889,11 +1865,13 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     Žadėdamas nesiskirti nuo Lenkijos ir jai teikti pagalbą prieš
     jos priešus, Vytautas betarpiškai gavo didelę valstybės dalį.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-032
+
 - c-002
   santrauka: '1411 metų pavasarį Vytautas su Jogaila keliavo per Lietuvos rytų pakraščius iki Kijevo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -908,12 +1886,14 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­
     klusnumą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
     - t-045
+
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -923,12 +1903,14 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     litai, tik jau nuolat reziduojantys Vilniuje. Taigi tiek stačiatikiai, tiek graikai
     katalikai LDK vaidino svarbesnį vaidmenį nei Lenkijoje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
     - t-024
+
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -941,13 +1923,15 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     brolis Teodoras. Galutinai senosios Rusios sostinę atėmęs iš totorių
     įtakos, ten Algirdas pasodino savo sūnų Vladimirą († 1398).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-027
     - t-022
     - t-015
+
 - c-005
   santrauka: 'Žygimantas Augustas prie Lenkijos prijungė Kijevo vaivadiją kartu su Palenke, Voluine ir Podole.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -959,12 +1943,14 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     nės, Kijevo ir Podolės (Braclavo) vaivadijas). Prijungtų sričių bajorai turėjo
     prisiekti Lenkijai, o jų atstovai dalyvauti Lenkijos Seime.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-025
     - t-020
+
 - c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -975,12 +1961,14 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     kunigaikštijos. Po metų, kai vėl kilo tarp jų nesusipratimai,
     juos sutaikino Jadvyga.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-026
     - t-003
+
 - c-007
   santrauka: 'Per Kijevą Vilnius palaikė prekybinius ryšius su Rytais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1004,12 +1992,14 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     vinčioje prie Dniepro, Vytautas įstei­
     gė muitinę, vadintą Vytauto pirtimi.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-047
     - t-035
+
 - c-008
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1019,11 +2009,13 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     venimo dienas — buvo nunuodytas. I jo vietą Kijeve Vytautas
     pasodino savo vietininką, Alšėnų kun. Algimanto sūnų Joną^1 ).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-042
+
 - c-009
   santrauka: 'Ignacas Danilavičius, buvęs Vilniaus universiteto profesorius, Kijeve vadovavo Teisės katedrai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1039,11 +2031,13 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     nacas Onacevičius su retai sutinkamu palankumu atidavė man
     savo pastabas ir įdomias žinias, tam darbui pritinkančias.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-010
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1054,11 +2048,13 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     riterių ir su 1600 raitelių Ragainės komtūras Markvardas Salzba­
     chas^30.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-011
   santrauka: 'Gerokai prieš XIII amžių pietų Rusioje klestėjo senasis Kijevas, vadintas Rytų apeigų tikėjimo lopšiu ir buvęs garsios monarchijos sostine.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1072,11 +2068,13 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     kunigaikštysčių sostinės, neturėjo nei tokios reikšmės, nei lais­
     vių, kad galėtų bent kiek paveikti kaimyninius kraštus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-033
+
 - c-012
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1091,12 +2089,14 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     Į Kijevą atvykdavo totorių, armėnų, Maskvos, Genujos, Vene­
     cijos pirkliai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-018
+
 - c-013
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1108,12 +2108,14 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     buvę Voluinė ir Haličas, Kijevas, Pskovas. Tai leido Lietuvai tapti didelių
     politinių kombinacijų dalyve ir vyraujančia regiono jėga – didvalstybe.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-040
     - t-006
+
 - c-014
   santrauka: 'Apie 1325 m. Gedimino kariuomenė nužygiavo į totorių valdytą Kijevą ir atėmė jį iš Aukso ordos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -1123,11 +2125,13 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     buvo stambus tarptautinės prekybos centras, per kurį Rytų prekės keliavo ir Kryžiuočių
     ordinui bei  į Vakarų Europą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-038
+
 - c-015
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1139,12 +2143,14 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     valsčius (« volosti »). Kijevas buvo atiduotas Skirgailai mainais už
     Polocką.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-031
     - t-037
+
 - c-016
   santrauka: '1395 m. Vytautas atėmė Kijevą iš Vladimiro ir atidavė jį Skirgailai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -1156,11 +2162,13 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     ilgai teko viešpatauti; tais pačiais metais jis pabaigė savo gy­
     venimo dienas — buvo nunuodytas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-017
   santrauka: '1414–1416 metais Edygos vadovaujami totoriai smarkiai apgriovė Kijevą, Lucką ir nuniokojo jų apylinkes.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -1171,11 +2179,13 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     vedami seno Vorsklos nugalėtojo Edygos, 1414—1416 m. smar­
     kiai apgriovė Kijevą, Lucką ir nuniokojo jų apylinkes.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-021
+
 - c-018
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1188,6 +2198,7 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     puolimų pavojuose, 1300 m. perkėlė į šiaurinės Rusios Vladimirą.
     Akstiną tam davė naujas didelis Kijevo apiplėšimas (1299).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1195,6 +2206,7 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     - t-044
     - t-011
     - t-023
+
 - c-019
   santrauka: 'Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, bet dėl Vytauto ligos nieko nelaimėjo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1217,12 +2229,14 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     tė atgal į Lenkiją, kad jam netrukdytų Vytauto mirties atve­
     ju.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-013
+
 - c-020
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1238,12 +2252,14 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     kė Kazimierui sąlygą arba jį skirti arba pačiam persikelti gy-
     venti į Lietuvą, tačiau Kazimieras nei šiaip nei taip nepadarė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-030
     - t-016
+
 - c-021
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1254,12 +2270,14 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     tynios vienuolijos (žymiausios – pranciškonų ir bernardinų), turinčios
     18 vienuolynų – keturi įsikūrė Vilniuje, po du Kaune ir Gardine.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-028
     - t-004
+
 - c-022
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1272,12 +2290,14 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     Vytauto centralizacijos politika sutelkė plačios erdvės Rytų Europoje
     išteklius.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
     - t-010
+
 - c-023
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1291,11 +2311,13 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     Lenkijos karaliumi (1501 metais), jis vis dėlto negebėjo pa­
     naudoti savo galios ir susidoroti su savo priešais.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-024
   santrauka: 'Gediminas, užkariavimais pasiekęs žemes už Kijevo, įsakė pastatyti pilį Vilniuje ir perkėlė savo buveinę iš Trakų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1324,11 +2346,13 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     gaikščių, keisdamas savo pirmtakų politiką, užmezgė ry­
     šius su krikščioniškąja Europa, būtent Lenkija ir Rusia10.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-025
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1338,12 +2362,14 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
     tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-041
     - t-043
+
 - c-026
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1359,11 +2385,13 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     beveik visos senrusių Ze-
     mės mokėjo jiems duoklę.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-034
+
 - c-027
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1383,6 +2411,7 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     1325-1326 m., ypač 1325 m., kai buvo apsi-
     drausta nuo Kryžiuočių ordino puolimo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1390,6 +2419,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     - t-046
     - t-029
     - t-036
+    - t-069
+
 - c-028
   santrauka: 'Cituojamame metraštyje teigiama, kad Lietuvos miestai buvo valdomi Kijevo, Černigovo, Smolensko ir Polocko kunigaikščių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1417,11 +2448,13 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     nigaikščio Mstislavo Rogvoldovi-
     čiaus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-039
+
 - c-029
   santrauka: 'Po sąmokslininkų puolimo Švitrigaila paspruko į Polocką ir perėmė Kijevo bei kelias kitas sritis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -1435,11 +2468,13 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     vos, liko tiktai Palenkės, Pagirio ir Minsko žemės.
     Zigmanto ryšiai su Lenkija.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-048
+
 - c-030
   santrauka: 'Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė paklusti jo valdžiai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1462,11 +2497,13 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     gaikštį, prisiekdami su visomis žemėmis paklusti jo
     valdžiai.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-049
+
 - c-031
   santrauka: 'Užkariavus Kijevą, Volynę ir didelę Seversko dalį, Kijevas atsidūrė Lietuvos kunigaikščio valdžioje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1483,11 +2520,13 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     senomis Boleslovo Narsiojo pergalėmis ir naujais gi­
     minystės ryšiais.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-050
+
 - c-032
   santrauka: 'Vytautas iš Kijevo su kariuomene tyliai patraukė į Azovą ir prie Azovo persikėlė per Doną.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1501,11 +2540,13 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     Įsiv e ržia  į S k itiją
     dar skitų pasiekusi.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-051
+
 - c-033
   santrauka: 'Ostrogiškis už keturiasdešimties mylių nuo Kijevo pavijo su grobiu grįžtantį priešą ir jį sumušė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1528,11 +2569,13 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     turkų kunigaikštis Ibrahimas, paimta į nelaisvę aštuo­
     niasdešimt tūkstančių belaisvių ir atimtas visas grobis.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-052
+
 - c-034
   santrauka: 'Algirdo sūnus Vladimiras gavo Kijevą kaip savo dalį.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -1547,11 +2590,13 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     kunigaikštis Jonas 2adivydas5 , kuris valdė Podolės že­
     mę.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-053
+
 - c-035
   santrauka: 'Lietuvos metraštyje pasakojama, kad kunigaikštis Vladimiras atvyko iš Kijevo pas Vytautą, kuris tais pačiais metais jį iškėlė iš Kijevo.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -1567,11 +2612,13 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     jam kunigaikščiui Vytautui įsakius, paėmė Čerkasus
     ir Zvenigorodą ir sugrįžo atgal į Kijevą l7.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-054
+
 - c-036
   santrauka: 'Skirgaila po puotos susirgo Miloslavičiuose ir, grįžęs į Kijevą, septintą dieną mirė.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -1587,11 +2634,13 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     ir paguldė gerąjį, palaimintąjį kunigaikštį Skirgailą ša­
     lia šventojo Pečeros Teodozijaus1 9  grabo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-055
+
 - c-037
   santrauka: 'Vytauto vadovaujamos LDK ir sąjungininkų pajėgos 1399 m. liepos pabaigoje išžygiavo iš Kijevo.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -1610,11 +2659,13 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     pjūčio 5 d , bet Timur-Kutlukas nepradėjo kovos, laukdamas emiro
     Edigėjaus su papildomomis totorių {»jėgomis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-056
+
 - c-038
   santrauka: 'Narbutas Perkūno stabo garsumą X a. siejo su Vladimiro pastatytais tokiais pat stabais Kijeve ir Naugarde.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1629,20 +2680,1224 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
     yra vadinamasis Perimo vienuolynas. Tai buvusi didžiulė sta­
     tula, liemuo iš ąžuolo, galva sidabrinė, ūsai ir ausys auksinės,
     kojos geležinės, kumštyje laikė kažką panašaus į žaibus23.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-057
+
+- c-039
+  santrauka: 'Teodoras Narbutas Karkinito miestą tapatino su dabartiniu Kijevu prie Dnepro kairiosios vagos ar seno užutekio.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Šios upės, susiliejančios
+    netoli Dnepro žiočių, iš tikrųjų išteka iš skirtingų kraštų;
+    tai sako ir Herodotas. Minėta šaka turėtų būti tuomet
+    žinoma Dnepro kairioji vaga arba kažkada buvęs žino­
+    mas kairiojo kranto užutekis, o Karkinito miestas — da­
+    bartinis Kijevas. Tuoj už Desnos prasideda pilkapių kraš­
+    tas, ir prie Rogačiovo jų yra daugiausia; jie iš dalies su­
+    kaupti viename plote, iš dalies išsklaidyti, įvairaus dy­
+    džio, todėl visas šis kraštas atrodo tarsi didelis kapiny­
+    nas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-058
+
+- c-040
+  santrauka: 'Teodoro Narbuto prielaidoje chionitai gyveno dešiniajame Dnepro krante, kur yra Kijevas, o kitapus Dnepro jų kaimynai buvo alanai.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Galima tik daryti gana tikėtiną prielaidą, kuri remia­
+    si Ptolernėjo aprašymų nubraižytais žemėlapiais ir pa­
+    vadinimo panašumu su chionitais. Šie buvo Padneprės
+    emporiumų graikų kolonistai, susigiminiavę su skitais ir
+    gyvenę dešiniojoje Dnepro pakrantėje, kur yra Kijevas;
+    kitapus Dnepro jų kaimynai buvo alanai. Turime istorinių
+    padavimų, jog, kai persų karalius Saporas žiemojo kažkur
+    prie Volgos vidurupio, imperatorius Julijonas, taip pat
+    buvęs prie Dunojaus vidurupio, siuntė pas jį žygūnus,
+    kurie kėlėsi per Dneprą chionitų kolonijos teritorijoje, o
+    po to keliavo toliau per alanų kraštą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-059
+
+- c-041
+  santrauka: 'Naruševičius, Narbuto perteikimu, Ptolemėjo chunų koloniją siejo su vieta, kur yra Kijevas, ir laikė juos graikų-skitų gentimi.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Prajus** vėlgi kalba apie tą patį, žiūrė­
+    damas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­
+    ševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­
+    joja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti
+    ten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip
+    ir Geniui, neva net atsikėlusi iš Chijo salos2. Tačiau ži­
+    noma, kad Dnepro pakrantėje buvo tvirtovė, vadinama
+    Chue, Chunnigard-, ji priklausė minėtai tautai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-060
+
+- c-042
+  santrauka: 'Teodoras Narbutas spėjo, kad Herodotas buvo nukeliavęs ne toliau kaip iki dabartinio Kijevo.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    153
+
+    ## Puslapis 151
+
+    skandinavų Aldėjaborgo tvirtovės, buvusios Nemuno pa­
+    krantėje1, o tai įrodysime vėliau, pavadinimo panašumo
+    su išlikusiu lietuvių kalbos žodžiu Aldeja, eldija, reiškian­
+    čiu valtį, įsitikiname teisingumu Herodoto pasakojimo, iš
+    kurio galima daryti išvadų, kad Nemuno upę boristenie-
+    čiai žinojo dabar minėtu pavadinimu; tai patvirtina pats
+    jos artumas prie Sembos ir susijungimas beveik nepertrau­
+    kiamu vandens keliu su Dnepro upės vandens baseinu,
+    įbaugintas boristeniečių pasakojimų apie Siaurės kraštų
+    nesvetingumą, atšiaurų klimatą ir nepaprastus meteoriti-
+    nius fenomenus, Herodotas negalėjo to pats patikrinti.
+    Tad šis garsus keliautojas ir objektyviausias rašytojas
+    buvo priverstas atsisakyti tolesnės kelionės; jis turbūt bu­
+    vo nukeliavęs ne toliau kaip iki dabartinio Kijevo. Galop
+    jis taip baigia savo pasakojimą: „Apie toliausias Europos
+    vietoves neturiu 'ką pasakyti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-061
+
+- c-043
+  santrauka: 'Teodoro Narbuto aprašyme Kijevo miesto istorija laikoma ypatinga, nes jo praeities žinios dar įžvelgiamos.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Kijevo • miesto istorija ypatinga, tuo, kad žinios, sly­
+    pinčios kitapus tamsios praeities skraistės, vis dėlto įž­
+    velgiamos ir tarsi teikia vilties, jog galima dar daug ką
+    sužinoti.
+    Žemė, kur įsikūręs Kijevas, priklausė Skitijai; ji su­
+    darė svarbesnę šiaurės vakarų krašto dalį, buvo derlinga,
+    sveika, išraižyta įvairiomis kryptimis sruvenančių van­
+    denų, turtinga įvairių gyvenimo gėrybių, kurias gamta
+    teikė žmonėms. Artimiausi ir gausiausi šio krašto gyven­
+    tojai buvo skiri ai, kurie vertėsi žem dirbyste, nes čia buvo
+    palankiausias klimatas ir geriausios sąlygos žemdirbys­
+    tei, todėl ir Gerų kraštas, tas didingas skitų tautos kapi­
+    nynas, buvo šalia šios tylios gyvenvietės1.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-062
+
+- c-044
+  santrauka: 'Teodoras Narbutas teigė, kad dabartinio Kijevo žemė pirmiausia tapo pastovia skitų gyvenamąja vieta prie Dnepro.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Tokiomis aplinkybėmis dabartinio Kijevo žemė pir­
+    miausia tapo skitų pastovia gyvenamąja vieta, nes ši
+    vieta buvo pati tinkamiausia visame šios Dnepro pakran­
+    tės plote. Šiandien ji vadinama Pečeros kalva, kuri stūk­
+    so čia pat prie Dnepro, be užutekių, graži ir patogi gyny­
+    bai2. Tad negalime nė valandėlės abejoti, jog skitų žem­
+    dirbiai įkūrė čia vieną pagrindinių savo nuolatinių ko­
+    lonijų, kur galbūt buvo svarbesnis jų žemdirbystės cent­
+    ras ir žymesnių žmonių buveinė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-063
+
+- c-045
+  santrauka: 'Padavime, kurį perteikia Narbutas, Kijus, Sčekas ir Choryvas laikomi Kijevo įkūrėjais arba atnaujintojais.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Tačiau slavai
+    ir toliau gyveno šiame mieste ir jo apylinkėse.
+    Netrukus prasidėjo trijų brolių slavų: Kijaus, Sčeko
+    ir Choryvo miestų atnaujinimo epocha. Padavimas teigia,
+    jog jie buvę įkūrėjai ar atnaujintojai Kijevo, be to, ga­
+    lėjo būti, jog pirmojo vardas buvo šiek tiek panašus į
+    senovinį miesto pavadinimą; iš čia ir atsirado naujas
+    Kijev horod, Kijev perevoz na Dnepre pavadinimas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-064
+
+- c-046
+  santrauka: 'Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykstantiems kryžeiviams paruoštus stalus.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Popiežius leido paskelbti Lenkijoj kryžiaus žygį prieš totorius,
+    ir daugelis Lenkų ponų mielai sutiko prisidėti prie Vytauto
+    žygio. Kariuomene buvo koncentruojama Kijeve, kur Vytautas
+    visą vasarą laikė atvykstantiems kryžeiviams paruoštus stalus.
+    Atėjo į pagalbą ir ordino kariuomenė, ir pagaliau visa didžiulė
+    armija ištraukė į totorių kraštus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-065
+
+- c-047
+  santrauka: 'Tiesa, totoriai dažnai nusiaubdavo Kijevo apylinkes, tačiau pačios Lietuvos niekas nepalietė.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Neskaitant trumpų vidaus kovų jo
+    įsigalėjimo metu ir keleto žygių į rusų sritis, visas jo valdymo
+    laikotarpis pasižymėjo ramumu. Tiesa, totoriai dažnai nusiaub-
+    davo Kijevo apylinkes, tačiau pačios Lietuvos niekas nepalietė.
+    Todėl normaliai kraštui plėtotis ir kilti sąlygos buvo palankios.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-066
+
+- c-048
+  santrauka: 'Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiuliai Palenkės, Voluinės, Braclavo ir Kijevo žemių plotai atiteko Lenkijai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Jų kiekvienas
+    pavietas turėjo tokių pat, kaip ir visa valstybė: čia buvo ir
+    stalininkų, ir taurininkų, ir ark-
+    lininkų, ir kardininkų ir daugy-
+    bė kitų.
+    **Lietuvos valstybės teritorija**
+    po unijos buvo labai sumažė-
+    jusi, nes didžiuliai Palenkės, Vo-
+    luinės, Braclavo ir Kijevo žemių
+    plotai atiteko Lenkijai. Lietuviai
+    veltui reikalavo, kad lenkai tas
+    žemes jiems grąžintų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-067
+
+- c-049
+  santrauka: 'Prie jau anksčiau lietuvių užvaldytų Juodosios Rusios (Naugarduko žemių) ir Polocko Gediminas pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Pasiekimai vakaruose Gediminui leido
+    plėsti savo valstybę rytuose. Prie jau anksčiau lietuvių užvaldytų
+    Juodosios Rusios (Naugarduko žemių) ir Polocko Gediminas
+    pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.
+    Lietuva tapo didvalstybe - regiono lydere.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-068
+
+## Citatos
+
+- id: c-32127
+  citata_originali: |
+    Iš tikro, Skirgailai bebuvo palik­
+    tas Polockas ir pažadėta Kijevo kunigaikštija.
+    Žadėdamas nesiskirti nuo Lenkijos ir jai teikti pagalbą prieš
+    jos priešus, Vytautas betarpiškai gavo didelę valstybės dalį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180037
+
+- id: c-163633
+  citata_originali: |
+    Tos žinios kėlė Vytauto
+    garbę, aukštino jį vietinių gyventojų akyse. Ir kada Vytautas,
+    norėdamas dar labiau sustiprinti rusiškuose kraštuose savo per­
+    galės įspūdį ir daugiau laimėti jų pasitikėjimo, 1411 metų pava­
+    sarį kartu su Jogaila lankė Lietuvos Rytų pakraščius, tai jų ke­
+    lionė buvo panaši triumfui. Vykstant Vytautui pro Polocką,
+    Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo,
+    jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­
+    klusnumą.
+  citata_rodoma: "Ir kada Vytautas,\nnorėdamas dar labiau sustiprinti rusiškuose kraštuose savo per­\ngalės įspūdį ir daugiau laimėti jų pasitikėjimo, 1411 metų pava­\nsarį kartu su Jogaila lankė Lietuvos Rytų pakraščius, tai jų ke­\nlionė buvo panaši triumfui. Vykstant Vytautui pro Polocką,\nVitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo,\njam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­\nklusnumą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180012
+    - t-180055
+
+- id: c-163635
+  citata_originali: |
+    Nuo Brastos bažnytinės unijos
+    graikais katalikais tapo dauguma Lenkijos ir Lietuvos valstybės stačiatikių.
+    Tačiau Graikų katalikų bažnyčios metropolitai vėlgi buvo Kijevo metropo-
+    litai, tik jau nuolat reziduojantys Vilniuje. Taigi tiek stačiatikiai, tiek graikai
+    katalikai LDK vaidino svarbesnį vaidmenį nei Lenkijoje.
+  citata_rodoma: "Tačiau Graikų katalikų bažnyčios metropolitai vėlgi buvo Kijevo metropo-\nlitai, tik jau nuolat reziduojantys Vilniuje. Taigi tiek stačiatikiai, tiek graikai \nkatalikai LDK vaidino svarbesnį vaidmenį nei Lenkijoje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180006
+    - t-180026
+
+- id: c-163636
+  citata_originali: |
+    Podolėje Karijotaičiai
+    ėmė įvesti tvarką, statyti pilis (Kamieniecą, Smotryčą, Bakotą ir
+    kt.), užvesti ūkinį gyvenimą.
+    Drauge su Podole Lietuvos valstybėn buvo įjungta ir Kijevo
+    kunigaikštystė, kuri jau nuo Gedimino laikų buvo didžiojo Lietuvos
+    kunigaikščio priklausomybėje, kai Kijevą valdė jaunesnis Gedimino
+    brolis Teodoras. Galutinai senosios Rusios sostinę atėmęs iš totorių
+    įtakos, ten Algirdas pasodino savo sūnų Vladimirą († 1398).
+  citata_rodoma: "), užvesti ūkinį gyvenimą.\nDrauge su Podole Lietuvos valstybėn buvo įjungta ir Kijevo\nkunigaikštystė, kuri jau nuo Gedimino laikų buvo didžiojo Lietuvos\nkunigaikščio priklausomybėje, kai Kijevą valdė jaunesnis Gedimino\nbrolis Teodoras. Galutinai senosios Rusios sostinę atėmęs iš totorių\nįtakos, ten Algirdas pasodino savo sūnų Vladimirą († 1398)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180029
+    - t-180023
+    - t-180015
+
+- id: c-163638
+  citata_originali: |
+    Nesusitarus Lietuvos delegacija kovo 1 dieną išvyko iš
+    Liublino. Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygi-
+    mantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė be-
+    veik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Volui-
+    nės, Kijevo ir Podolės (Braclavo) vaivadijas). Prijungtų sričių bajorai turėjo
+    prisiekti Lenkijai, o jų atstovai dalyvauti Lenkijos Seime.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180027
+    - t-180021
+
+- id: c-163639
+  citata_originali: |
+    Susitaikinęs Jogaila su Vytautu, stengėsi jį, pagaliau, su­
+    taikinti ir su Skirgaila^2 ), didžiausiu Vytauto priešu, kas jam ir
+    pavyko padaryti^3 ). Vytautas pasižadėjo padėti Skirgailai pa­
+    imti Kijevą ir atiduoti jam Kremencą ir Stožką vietoj Trakų
+    kunigaikštijos. Po metų, kai vėl kilo tarp jų nesusipratimai,
+    juos sutaikino Jadvyga.
+  citata_rodoma: "Vytautas pasižadėjo padėti Skirgailai pa­\nimti Kijevą ir atiduoti jam Kremencą ir Stožką vietoj Trakų\nkunigaikštijos. Po metų, kai vėl kilo tarp jų nesusipratimai,\njuos sutaikino Jadvyga."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180028
+    - t-180002
+
+- id: c-163640
+  citata_originali: |
+    Privilegija Mogiliavui, kuria gavo Magdeburgo teisę, išspausdinta su prie­
+    du apie tam miestui suteiktą herbą Baltarusijos Archyve, leistame garbin­
+    gos atminties kanclerio Rumiancevo lėšomis: EeAopyccKuü apxuBb, HacTb
+    I, MocKBa, 1824, in 4to, p. 27.
+    79
+    Kijevo kunigaikštystė ir Podolė,
+    anais laikais nusidriekusi iki pat
+    Dniepro ir Dniestro žiočių, priklau­
+    sė Lietuvai; Kafos* miestas prie Juo­
+    dosios jūros buvo svarbiausias Lie­
+    tuvos prekybinis uostas, jungęs su
+    Rytais, iš kur prekės būdavo gabe­
+    namos į Kijevą; pastarajam tarpinin­
+    kaujant Vilnius, kaip valstybės sos­
+    tinė, palaikė prekybinius ryšius su
+    Rytais. Lietuvių Tavano pilyje, sto­
+    vinčioje prie Dniepro, Vytautas įstei­
+    gė muitinę, vadintą Vytauto pirtimi.
+  citata_rodoma: "27.\n79\nKijevo kunigaikštystė ir Podolė, \nanais laikais nusidriekusi iki pat \nDniepro ir Dniestro žiočių, priklau­\nsė Lietuvai; Kafos* miestas prie Juo­\ndosios jūros buvo svarbiausias Lie­\ntuvos prekybinis uostas, jungęs su \nRytais, iš kur prekės būdavo gabe­\nnamos į Kijevą; pastarajam tarpinin­\nkaujant Vilnius, kaip valstybės sos­\ntinė, palaikė prekybinius ryšius su \nRytais. Lietuvių Tavano pilyje, sto­\nvinčioje prie Dniepro, Vytautas įstei­\ngė muitinę, vadintą Vytauto pirtimi."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180057
+    - t-180040
+
+- id: c-163641
+  citata_originali: |
+    Kada iš Vladimiro Kijevas buvo atimtas, Vytautas išlaikė
+    savo žodį ir jį atidavė Skirgailai (1395). Bet pastarajam čia ne­
+    ilgai teko viešpatauti; tais pačiais metais jis pabaigė savo gy­
+    venimo dienas — buvo nunuodytas. I jo vietą Kijeve Vytautas
+    pasodino savo vietininką, Alšėnų kun. Algimanto sūnų Joną^1 ).
+  citata_rodoma: "Kada iš Vladimiro Kijevas buvo atimtas, Vytautas išlaikė\nsavo žodį ir jį atidavė Skirgailai (1395). Bet pastarajam čia ne­\nilgai teko viešpatauti; tais pačiais metais jis pabaigė savo gy­\nvenimo dienas — buvo nunuodytas. I jo vietą Kijeve Vytautas\npasodino savo vietininką, Alšėnų kun."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180050
+
+- id: c-163642
+  citata_originali: |
+    Tačiau jaučiu malonią pareigą prisipažinti sa­
+    vo skaitytojams, kam iš mokslo vyrų, rėmusių mane užsibrėžus
+    šį tikslą, esu dėkingas. Tai buvęs Vilniaus Universiteto profeso­
+    rius, o dabar Kijeve vadovaujantis Teisės katedrai, Ignacas Dani­
+    la vičius, kuriam Lietuvos istorija ir teisės mokslas jau tiek skolin­
+    gi, mielai perleidęs man svarbius savo užrašus apie mažiau
+    žinomas Vilniaus miesto privilegijas, vos tik jam pasisakiau keti­
+    nąs rašyti šio miesto istoriją. Įgudęs lietuvių istorijos žinovas Ig­
+    nacas Onacevičius su retai sutinkamu palankumu atidavė man
+    savo pastabas ir įdomias žinias, tam darbui pritinkančias.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180008
+
+- id: c-163643
+  citata_originali: |
+    Pats Vytautas, Krokuvoje praleidęs 1399 pavasarį^28 , vykdė
+    plačius pasiruošimus. Kijeve jau birželio mėn. prie gausių stalų
+    buvo susirinkusi didelė kariuomenė^29. Šalia paties Vytauto būrių
+    iš tikrosios Lietuvos ir rusiškųjų žemių, dalyvavo būrelis lenkų
+    riterių ir su 1600 raitelių Ragainės komtūras Markvardas Salzba­
+    chas^30.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180007
+
+- id: c-163645
+  citata_originali: |
+    Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji
+    rusų miestai - Pskovas ir Naugardas - prekyba, mūrais ir netgi
+    savo pačių valdžia galingi. Maskva tuomet dar tebuvo menka
+    gyvenvietė; tik pietų Rusioje klestėjo senasis Kijevas, Rytų apeigų
+    tikėjimo lopšys ir kurį laiką garsios monarchijos sostinė. Visi
+    kiti Rusios miestai, šiauriniai ir pietiniai, perdėm susmulkintų
+    kunigaikštysčių sostinės, neturėjo nei tokios reikšmės, nei lais­
+    vių, kad galėtų bent kiek paveikti kaimyninius kraštus.
+  citata_rodoma: "Maskva tuomet dar tebuvo menka\ngyvenvietė; tik pietų Rusioje klestėjo senasis Kijevas, Rytų apeigų\ntikėjimo lopšys ir kurį laiką garsios monarchijos sostinė. Visi\nkiti Rusios miestai, šiauriniai ir pietiniai, perdėm susmulkintų\nkunigaikštysčių sostinės, neturėjo nei tokios reikšmės, nei lais­\nvių, kad galėtų bent kiek paveikti kaimyninius kraštus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180038
+
+- id: c-163646
+  citata_originali: |
+    Kroku­
+    vos pirkliams Vytautas (1403) užtikrino visoje savo valstybėje
+    apsaugą, leisdamas jiems laisvų laisviausiai prekiauti Lietuvo­
+    je ir Rusijoje.
+    Rusiškuose kraštuose Vytautas stengėsi atgaivinti prekybą,
+    remdamas Kijevo miestą, kuris Dniepro upe turėjo susisiekimą
+    su Juodosiomis jūromis, o sausuma — su Volynijos ir Podoli­
+    jos miestais, kuriuos lankydavo Krokuvos ir vokiečių pirkliai.
+    Į Kijevą atvykdavo totorių, armėnų, Maskvos, Genujos, Vene­
+    cijos pirkliai.
+  citata_rodoma: "Rusiškuose kraštuose Vytautas stengėsi atgaivinti prekybą,\nremdamas Kijevo miestą, kuris Dniepro upe turėjo susisiekimą\nsu Juodosiomis jūromis, o sausuma — su Volynijos ir Podoli­\njos miestais, kuriuos lankydavo Krokuvos ir vokiečių pirkliai.\nĮ Kijevą atvykdavo totorių, armėnų, Maskvos, Genujos, Vene­\ncijos pirkliai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180001
+    - t-180019
+
+- id: c-163648
+  citata_originali: |
+    Valdant Gediminui ar jo sūnui Algirdui buvo sukurta
+    visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai,
+    Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys. Lietuva tapo
+    politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung-
+    tos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje
+    buvę Voluinė ir Haličas, Kijevas, Pskovas. Tai leido Lietuvai tapti didelių
+    politinių kombinacijų dalyve ir vyraujančia regiono jėga – didvalstybe.
+  citata_rodoma: "Lietuva tapo \npolitinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung-\ntos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje \nbuvę Voluinė ir Haličas, Kijevas, Pskovas. Tai leido Lietuvai tapti didelių \npolitinių kombinacijų dalyve ir vyraujančia regiono jėga – didvalstybe."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180047
+    - t-180005
+
+- id: c-163649
+  citata_originali: |
+    Apie 1325 m. Gedimino kariuomenė
+    nužygiavo į totorių valdžioje buvusį Kijevą ir atėmė jį iš Aukso ordos. Kijevas ir tuo metu
+    buvo stambus tarptautinės prekybos centras, per kurį Rytų prekės keliavo ir Kryžiuočių
+    ordinui bei  į Vakarų Europą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180044
+
+- id: c-163650
+  citata_originali: |
+    Kaip bėglys, prie jo pri­
+    sijungė ir trečias Gedimino anūkas, buvęs Podolės kunigaikštis
+    Teodoras Karijotaitis.
+    Beveik tuo pat laiku (1396) Vytautas iš Vladimiro Algirdaičio
+    atėmė Kijevą, sau pasilaikydamas Žitomiro ir Ovručio plačius
+    valsčius (« volosti »). Kijevas buvo atiduotas Skirgailai mainais už
+    Polocką.
+  citata_rodoma: "Beveik tuo pat laiku (1396) Vytautas iš Vladimiro Algirdaičio\natėmė Kijevą, sau pasilaikydamas Žitomiro ir Ovručio plačius\nvalsčius (« volosti »). Kijevas buvo atiduotas Skirgailai mainais už\nPolocką."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180035
+    - t-180043
+
+- id: c-163654
+  citata_originali: |
+    O
+    kol ji atims iš Vladimiro, jam buvo atiduoti keli miestai Volyni­
+    joj. Kada iš Vladimiro Kijevas buvo atimtas, Vytautas išlaikė
+    savo žodį ir jį atidavė Skirgailai (1395). Bet pastarajam čia ne­
+    ilgai teko viešpatauti; tais pačiais metais jis pabaigė savo gy­
+    venimo dienas — buvo nunuodytas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180017
+
+- id: c-163655
+  citata_originali: |
+    Visi šie rūpesčiai reikalavo
+    taikos, o jos nebuvo matyti. Be Vok. Ordino trukdė dar
+    taikų Vytauto darbą totoriai, Livonijos Ordinas ir k. Totoriai,
+    vedami seno Vorsklos nugalėtojo Edygos, 1414—1416 m. smar­
+    kiai apgriovė Kijevą, Lucką ir nuniokojo jų apylinkes.
+  citata_rodoma: "Ordino trukdė dar\ntaikų Vytauto darbą totoriai, Livonijos Ordinas ir k. Totoriai,\nvedami seno Vorsklos nugalėtojo Edygos, 1414—1416 m. smar­\nkiai apgriovė Kijevą, Lucką ir nuniokojo jų apylinkes."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180022
+
+- id: c-163658
+  citata_originali: |
+    Ir Algirdas, ir Maskvos kunigaikštis tuo
+    pačiu laiku dėjo stiprių pastangų atnaujinti arba išlaikyti savo
+    valstybės ribose arkivyskupo-metropolito sostą graikų tikėjimo
+    gyventojams.
+    Maskvos kunigaikščių ateičiai buvo gana reikšminga, kad visos
+    Rusios metropolitas savo sostinę iš Kijevo, esančio nuolatinių totorių
+    puolimų pavojuose, 1300 m. perkėlė į šiaurinės Rusios Vladimirą.
+    Akstiną tam davė naujas didelis Kijevo apiplėšimas (1299).
+  citata_rodoma: "Maskvos kunigaikščių ateičiai buvo gana reikšminga, kad visos\nRusios metropolitas savo sostinę iš Kijevo, esančio nuolatinių totorių\npuolimų pavojuose, 1300 m. perkėlė į šiaurinės Rusios Vladimirą.\nAkstiną tam davė naujas didelis Kijevo apiplėšimas (1299)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180054
+    - t-180011
+    - t-180025
+
+- id: c-163661
+  citata_originali: |
+    Širdgėlos ir senatvės kamuojamas, praradęs bet kokią viltį
+    159
+
+    ## Puslapis 176
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    kada nors turėti taip godotą karūną, jis sunkiai susirgo, o
+    gausiai susirinkę svetimšaliai pradėjo išsivažinėti iš Vilniaus.
+    Liko tik vienas Fotijas, Maskvos metropolitas, ketinęs
+    išprašyti Kijevo metropolijos prijungimą prie Maskvos;
+    gražiai, kaip byloja Rusios metraštininkai, buvo Vytauto pri­
+    imtas, bet dėl ano ligos nieko nelaimėjęs, irgi išvyko į Mask­
+    vą. Tuo tarpu karalius, regėdamas didįjį kunigaikštį kasdien
+    silpstantį ir būdamas tikras, kad šis jau galutinai atsisakė
+    savo sumanymo, aukštuosius didikus iš savo tarybos išsiun­
+    tė atgal į Lenkiją, kad jam netrukdytų Vytauto mirties atve­
+    ju.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180000
+    - t-180013
+
+- id: c-163665
+  citata_originali: |
+    Bet einant karštoms
+    lietuvių lenkų kovoms dėl Voluinės ir Podolės, Kazimieras, skir-
+    damas atskirą Lietuvos valdovą, būtų rizikavęs visiškai netekti
+    Lietuvos, — juo labiau, kad Lietuvos kunigaikščiu būtų tekę
+    skirti Mykolą, bandžiusį net sąmokslu užgrobti sostą. Tačiau
+    Kazimieras nesutiko skirti Lietuvai atskiro valdovo ir po My-
+    kolo mirties (1452 m.), kada Lietuvos ponai iškėlė kandidatu
+    Algirdo palikuonį, Kijevo kunigaikštį Simaną (Olelkos, arba
+    Aleksandro, sūnų). Lietuviai, siūlydami Simaną (1461 m.), tei-
+    kė Kazimierui sąlygą arba jį skirti arba pačiam persikelti gy-
+    venti į Lietuvą, tačiau Kazimieras nei šiaip nei taip nepadarė.
+  citata_rodoma: "Tačiau\nKazimieras nesutiko skirti Lietuvai atskiro valdovo ir po My-\nkolo mirties (1452 m.), kada Lietuvos ponai iškėlė kandidatu\nAlgirdo palikuonį, Kijevo kunigaikštį Simaną (Olelkos, arba\nAleksandro, sūnų). Lietuviai, siūlydami Simaną (1461 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180033
+    - t-180016
+
+- id: c-163669
+  citata_originali: |
+    Lietuvos europėjimas neįsivaizduojamas be bažnytinės organizacijos
+    sukūrimo. Tuoj pat po krikšto LDK šalia jau veikusių stačiatikių vysku-
+    pijų buvo suformuotos keturios katalikų vyskupijos (Vilniaus, Žemaičių,
+    Lucko ir Kijevo), steigėsi vienuolijos. Iki XVI  a. vidurio susikūrė sep-
+    tynios vienuolijos (žymiausios – pranciškonų ir bernardinų), turinčios
+    18 vienuolynų – keturi įsikūrė Vilniuje, po du Kaune ir Gardine.
+  citata_rodoma: "Lietuvos europėjimas neįsivaizduojamas be bažnytinės organizacijos \nsukūrimo. Tuoj pat po krikšto LDK šalia jau veikusių stačiatikių vysku-\npijų buvo suformuotos keturios katalikų vyskupijos (Vilniaus, Žemaičių, \nLucko ir Kijevo), steigėsi vienuolijos. Iki XVI  a."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180030
+    - t-180003
+
+- id: c-163672
+  citata_originali: |
+    LDK būtent Vytauto
+    laikais pradėjo artėti prie imperijos, Vytauto reformos buvo radikalios,
+    matuojant net tų laikų mastu. „Senovės nekeitimo“ tezė tėra istoriografi-
+    nis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė
+    į dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo sava-
+    rankiškais keliais.
+    Vytauto centralizacijos politika sutelkė plačios erdvės Rytų Europoje
+    išteklius.
+  citata_rodoma: "„Senovės nekeitimo“ tezė tėra istoriografi-\nnis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė \nį dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo sava-\nrankiškais keliais. \nVytauto centralizacijos politika sutelkė plačios erdvės Rytų Europoje \ništeklius."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180020
+    - t-180010
+
+- id: c-163674
+  citata_originali: |
+    Tarp Aleksan­
+    dro ir jo uošvio vyko nuolatinės rietenos. Krymo totorių
+    orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes,
+    paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.
+    Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus
+    Mendli Girėjaus priešas, savo pajėgomis rėmė lietuvius, -
+    Aleksandro veiksmams stigo ryžto ir, nors buvo išrinktas
+    Lenkijos karaliumi (1501 metais), jis vis dėlto negebėjo pa­
+    naudoti savo galios ir susidoroti su savo priešais.
+  citata_rodoma: "Krymo totorių\norda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes,\npaklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.\nVeltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus\nMendli Girėjaus priešas, savo pajėgomis rėmė lietuvius, -\nAleksandro veiksmams stigo ryžto ir, nors buvo išrinktas\nLenkijos karaliumi (1501 metais), jis vis dėlto negebėjo pa­\nnaudoti savo galios ir susidoroti su savo priešais."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180004
+
+- id: c-163677
+  citata_originali: |
+    Man atrodo, kad jei Lietuvo­
+    je buvo keletas tokių šventų vieto­
+    vių, tai Vilnius būtinai turėjo būti
+    viena iš jų, o jeigu buvo tik ta vie­
+    nintelė, tad tikriausiai po to smūgio
+    Perkūno tikėjimo relikvijos ir Krivių
+    Krivaitis su aukotojais iš Romainių
+    buvo perkelti į Vilnių, taigi Vilnius
+    XIII amžiaus gale jau galėjo būti tan­
+    kiai gvvenama ir svarbi gyvenvietė.
+    -  •  -
+    19
+
+    ## Puslapis 36
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    užėmęs įvairias Rusios kunigaikščių tėvonijas Voluinėje ir
+    savo užkariavimais nusigavęs net už Kijevo, įsakė pastatyti
+    mūrinę pilį ant kalno, tuo tikslu žmonių rankomis paaukš­
+    tinto, Vilnelės bei Vilijos9 upių santakoje, ir į ten iš Trakų
+    perkėlė savo buveinę. Jis, pirmasis iš visų Lietuvos kuni­
+    gaikščių, keisdamas savo pirmtakų politiką, užmezgė ry­
+    šius su krikščioniškąja Europa, būtent Lenkija ir Rusia10.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180014
+
+- id: c-163678
+  citata_originali: |
+    Visų pirma Vytautas nustojo mokėti duoklę mongolams, panai-
+    kino senovinę dalinių kunigaikštijų sistemą, į tas kunigaikštijas paskyrė
+    vietininkus ir suėmė realią valdžią LDK į savo rankas. 1393 m. Luckas
+    perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
+    tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
+  citata_rodoma: "1393 m. Luckas \nperėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-\ntiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180048
+    - t-180052
+
+- id: c-163682
+  citata_originali: |
+    plotus valdžiusi Kijevo
+    Rusios valstybė į atskiras
+    kunigaikštystes politiškai
+    suskilo 1132 m. 1240 m.
+    Kijevą nusiaubė mongolai,
+    nuo to laiko politiškai svar-
+    biausia rusėnų žeme tapo
+    Vladimiro kunigaikštystė.
+    Įsigalėjus mongolų įtakai
+    beveik visos senrusių Ze-
+    mės mokėjo jiems duoklę.
+  citata_rodoma: "1240 m.\nKijevą nusiaubė mongolai,\nnuo to laiko politiškai svar-\nbiausia rusėnų žeme tapo\nVladimiro kunigaikštystė.\nĮsigalėjus mongolų įtakai\nbeveik visos senrusių Ze-\nmės mokėjo jiems duoklę."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180039
+
+- id: c-163683
+  citata_originali: |
+    Kijeviečiams gi-
+    nantis, „Gediminas stovyklavo
+    prie Kijevo mėnesį“. Po to išgirdę,
+
+    nugalėjęs rusų ir totorių kariuomenę, nu-
+
+    vijo totorius ir Kijevą paėmė į savo valdžią.
+    Gedimino valdžią tuo metu pripa-
+
+    žino ir Kijevo priemiesčiai Vyšgorodas
+
+    įvykių į vakarus nuo Lietuvos analizė rodo,
+    kad Lietuvai palankiausia situacija buvo
+    1325-1326 m., ypač 1325 m., kai buvo apsi-
+    drausta nuo Kryžiuočių ordino puolimo.
+  citata_rodoma: "Po to išgirdę,\n\nnugalėjęs rusų ir totorių kariuomenę, nu-\n\nvijo totorius ir Kijevą paėmė į savo valdžią.\nGedimino valdžią tuo metu pripa-\n\nžino ir Kijevo priemiesčiai Vyšgorodas\n\nįvykių į vakarus nuo Lietuvos analizė rodo,\nkad Lietuvai palankiausia situacija buvo\n1325-1326 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180056
+    - t-180031
+    - t-180041
+    - t-193766
+
+- id: c-163687
+  citata_originali: |
+    Otcem
+    że jeho mnoho łaskasze i mukami pre-
+    tiasze, o że nikako łaskania i słuszasze,
+    ni preszczenja bojaszesia i zyviasze w
+    monastyri i sławia Swiatuju Troycu Ot­
+    ca i Syna i Swiatoho Ducha - ir t. t.
+    [Lietuvos valdovų pradžia - į Poloc­
+    ko kunigaikščius, j Rogvoldo vietą
+    atėjo didysis Mstislavas Vladimiro-
+    vičius ir užėmė Polocką, o Rogvol-
+    dovičiai išbėgo į Cargradą [Konstan­
+    tinopolį]. Lietuva tuo laiku duoklę
+    mokėjo Polocko kunigaikščiams, o
+    valdoma savo etmonų, o Lietuvos
+    miestai jau buvo valdomi Kijevo ku­
+    nigaikščių: vieni - Černigovo, kiti -
+    Smolensko, kiti - Polocko. Ir Vilnia
+    [Vilnius] buvo priverstas duoti
+    duoklę Ugrų karaliui (tikriausiai Ha­
+    ličo) už saugojimą nuo didžiojo ku­
+    nigaikščio Mstislavo Rogvoldovi-
+    čiaus.
+  citata_rodoma: "[Lietuvos valdovų pradžia - į Poloc­\nko kunigaikščius, j Rogvoldo vietą\natėjo didysis Mstislavas Vladimiro- \nvičius ir užėmė Polocką, o Rogvol- \ndovičiai išbėgo į Cargradą [Konstan­\ntinopolį]. Lietuva tuo laiku duoklę \nmokėjo Polocko kunigaikščiams, o \nvaldoma savo etmonų, o Lietuvos \nmiestai jau buvo valdomi Kijevo ku­\nnigaikščių: vieni - Černigovo, kiti - \nSmolensko, kiti - Polocko. Ir Vilnia \n[Vilnius] buvo priverstas duoti \nduoklę Ugrų karaliui (tikriausiai Ha­\nličo) už saugojimą nuo didžiojo ku­\nnigaikščio Mstislavo Rogvoldovi- \nčiaus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180046
+
+- id: c-166420
+  citata_originali: |
+    Švitrigaila buvo sąmokslininkų užpultas tuo metu, kai, vyk-
+    damas į derybas su Jogaila, nakvojo sustojęs Ašmenoje.
+    Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti
+    į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko,
+    Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zig-
+    mantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietu-
+    vos, liko tiktai Palenkės, Pagirio ir Minsko žemės.
+    Zigmanto ryšiai su Lenkija.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183028
+
+- id: c-168346
+  citata_originali: |
+    Nors rusai dar nebuvo
+    2 03
+
+    ## Puslapis 202
+
+    Verčiau pasiduodant išsaugoti šiokią tokią valstybę,
+    kad ir nugalėtojo valdomą, nei viską atkakliu prie­
+    šinimusi prarasti. Todėl pa­
+    sitarę nusprendė patys ati­
+    duoti pilį ir miestą. Visi luo­
+    mai, išėję iš miesto, sveikino
+    nugalėtoją
+    Gediminą
+    kaip
+    Kijevo ir Rusios didįjį kuni­
+    gaikštį, prisiekdami su visomis žemėmis paklusti jo
+    valdžiai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184985
+
+- id: c-168347
+  citata_originali: |
+    Užėmęs Brianską
+    ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­
+    kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis
+    išplėtė lietuvių valdų ribas ligi Putivlio. Šitaip ilgai­
+    niui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi
+    Kijevo monarchija, patyrusi visokių sėkmių ir nesėk­
+    mių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­
+    džioje. Prasidėjo dėl jo nuolatiniai lenkų ir lietuvių
+    kivirčai: lenkai savinosi Kijevą ir Volynę, remdamiesi
+    senomis Boleslovo Narsiojo pergalėmis ir naujais gi­
+    minystės ryšiais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184986
+
+- id: c-168348
+  citata_originali: |
+    Šiek tiek užgaišęs Lietu­
+    voje, kur tvarkė visokius reikalus, pats taip pat leidosi
+    paskui kariuomenę, kai atėjo tinkamas metas kariauti.
+    Iš Kijevo su kariuomene tyliai patraukė į Azovą. Persi­
+    kėlęs prie Azovo per Doną, pradėjo karą, kol žinia apie
+    Vytauto įsiveržimą nebuvo
+    Įsiv e ržia  į S k itiją
+    dar skitų pasiekusi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184987
+
+- id: c-168349
+  citata_originali: |
+    Pas Ostrogiškį atžygia­
+    vo Slucko kunigaikštis Jurgis, kunigaikštis Fiodoras
+    Sanguška, Jurgis Radvila, Jonas bei Aleksandras Ka-
+    ributaičiai, Višnioveco kunigaikščiai, Čartorysko ku­
+    nigaikštis Aleksandras, Kijevo vaivada Andrius Nemi-
+    ravičius, Čerkasų seniūnas Eustachijus Daškevičius ir
+    655
+
+    ## Puslapis 654
+
+    daug kitų. Ostrogiškis, kuo skubiausiai su jais leidę­
+    sis į žygį, už keturių dešimčių mylių nuo Kijevo pasi­
+    vijo priešą, begrįžtantį su grobiu, ir, stojęs į kovą,
+    jį sumušė. Ši pergalė itin išgarsėjo, nes kovoje pa­
+    dėjo galvas dvidešimt keturi tūkstančiai priešų bei
+    turkų kunigaikštis Ibrahimas, paimta į nelaisvę aštuo­
+    niasdešimt tūkstančių belaisvių ir atimtas visas grobis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184988
+
+- id: c-170528
+  citata_originali: |
+    APIE ALGIRDO ŠONŲ JOGAILA IR JO  PINKLES PRIEŠ SAVO
+    DĖDĘ KĘSTUTI
+    Didysis kunigaikštis Algirdas turėjo dvylika sūnų
+    O štai jo sūnūs, sugyventi su ta žmona, kurią jis buvo
+    paėmęs pas Vitebsko kunigaikštį2  su kuria ir Vitebs­
+    ką buvo gavęs; Įsu ja] turėjo šešis sūnus 3 . Pirmas bu­
+    vo Vladimiras4 , kuris dalies gavo Kijevą. Antras —
+    kunigaikštis Jonas 2adivydas5 , kuris valdė Podolės že­
+    mę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187581
+
+- id: c-170529
+  citata_originali: |
+    Pas jį iš
+    Kijevo atvyko kunigaikštis Vladimiras. Tais pačiais
+    metais rudenį didysis kunigaikštis Vytautas iškėlė jį
+    iš Kijevo 1 3  ir davė jam Kopylį M , o Kijeve pasodino
+    Skirgailą Algirdaitį; pats didysis kunigaikštis Vytautas
+    išžygiavo į Podolės žemę l5 , o kunigaikščiui Skirgailai
+    liepė iš Kijevo žygiuoti į Čerkasus ir į Zvenigorodą l6 .
+    Didysis kunigaikštis Skirgaila, dievui padėjus ir didžia­
+    jam kunigaikščiui Vytautui įsakius, paėmė Čerkasus
+    ir Zvenigorodą ir sugrįžo atgal į Kijevą l7.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187582
+
+- id: c-170530
+  citata_originali: |
+    O
+    kunigaikščiui Skirgailai puotaujant, kaip kiti sako, tas
+    Foma davęs kunigaikščiui Skirgailai išgerti nuodų. Ir
+    po puotos kunigaikštis Skirgaila jojo už Dnepro, į Mi-
+    loslavičius, ten susirgo ir, parvykęs į Kijevą, septintą
+    dieną mirė ,8. Šventikai su žvakėmis, giedodami laido­
+    tuvių giesmes, nunešė jį, užsidėję ant galvų, iš Kijevo
+    miesto į šventąjį dievo motinos katakombų vienuolyną,
+    ir paguldė gerąjį, palaimintąjį kunigaikštį Skirgailą ša­
+    lia šventojo Pečeros Teodozijaus1 9  grabo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187583
+
+- id: c-170531
+  citata_originali: |
+    Nuo PS nuorašų skiriasi, nes juose pasa­
+    kojimo apie Vorkslos mūšj pradžia y ra kitokia ir sujungta su
+    ankstesniu pasakojimu apie kunigaikščio Glebo Svetoslavovičiaus
+    pašalinimą iš Smolensko.
+    1 8  LDK ir jos sąjungininkų pajėgos, vadovaujamos Vytauto, iš­
+    žygiavo iš Kijevo 1399 m, liepos pabaigoje.
+    256
+
+    ## Puslapis 249
+
+    M LDK ir Aukso ordos totorių pajėgos susidūrė 1399 m rug­
+    pjūčio 5 d , bet Timur-Kutlukas nepradėjo kovos, laukdamas emiro
+    Edigėjaus su papildomomis totorių {»jėgomis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187584
+
+- id: c-171613
+  citata_originali: |
+    O šios šventyklos aprašyme
+    istorikai aiškiai mini vyriausiojo dievo Perkūno stabą, kuris
+    buvęs puošnesnis už kitus.
+    Lietuvių Perkūno stabas X amžiuje Šiaurėje buvo garsus,
+    kadangi Vladimiras, tapęs visos Šiaurės Rusios didžiuoju ku­
+    nigaikščiu, tokius pačius pastatė Kijeve ir Naugarde; tuo pa­
+    čiu metu tam dievui buvo pastatyta šventykla toje vietoje, kur
+    yra vadinamasis Perimo vienuolynas. Tai buvusi didžiulė sta­
+    tula, liemuo iš ąžuolo, galva sidabrinė, ūsai ir ausys auksinės,
+    kojos geležinės, kumštyje laikė kažką panašaus į žaibus23.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188724
+
+- id: c-175441
+  citata_originali: |
+    Šios upės, susiliejančios
+    netoli Dnepro žiočių, iš tikrųjų išteka iš skirtingų kraštų;
+    tai sako ir Herodotas. Minėta šaka turėtų būti tuomet
+    žinoma Dnepro kairioji vaga arba kažkada buvęs žino­
+    mas kairiojo kranto užutekis, o Karkinito miestas — da­
+    bartinis Kijevas. Tuoj už Desnos prasideda pilkapių kraš­
+    tas, ir prie Rogačiovo jų yra daugiausia; jie iš dalies su­
+    kaupti viename plote, iš dalies išsklaidyti, įvairaus dy­
+    džio, todėl visas šis kraštas atrodo tarsi didelis kapiny­
+    nas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192671
+
+- id: c-175442
+  citata_originali: |
+    Galima tik daryti gana tikėtiną prielaidą, kuri remia­
+    si Ptolernėjo aprašymų nubraižytais žemėlapiais ir pa­
+    vadinimo panašumu su chionitais. Šie buvo Padneprės
+    emporiumų graikų kolonistai, susigiminiavę su skitais ir
+    gyvenę dešiniojoje Dnepro pakrantėje, kur yra Kijevas;
+    kitapus Dnepro jų kaimynai buvo alanai. Turime istorinių
+    padavimų, jog, kai persų karalius Saporas žiemojo kažkur
+    prie Volgos vidurupio, imperatorius Julijonas, taip pat
+    buvęs prie Dunojaus vidurupio, siuntė pas jį žygūnus,
+    kurie kėlėsi per Dneprą chionitų kolonijos teritorijoje, o
+    po to keliavo toliau per alanų kraštą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192672
+
+- id: c-175443
+  citata_originali: |
+    Prajus** vėlgi kalba apie tą patį, žiūrė­
+    damas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­
+    ševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­
+    joja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti
+    ten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip
+    ir Geniui, neva net atsikėlusi iš Chijo salos2. Tačiau ži­
+    noma, kad Dnepro pakrantėje buvo tvirtovė, vadinama
+    Chue, Chunnigard-, ji priklausė minėtai tautai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192673
+
+- id: c-175444
+  citata_originali: |
+    153
+
+    ## Puslapis 151
+
+    skandinavų Aldėjaborgo tvirtovės, buvusios Nemuno pa­
+    krantėje1, o tai įrodysime vėliau, pavadinimo panašumo
+    su išlikusiu lietuvių kalbos žodžiu Aldeja, eldija, reiškian­
+    čiu valtį, įsitikiname teisingumu Herodoto pasakojimo, iš
+    kurio galima daryti išvadų, kad Nemuno upę boristenie-
+    čiai žinojo dabar minėtu pavadinimu; tai patvirtina pats
+    jos artumas prie Sembos ir susijungimas beveik nepertrau­
+    kiamu vandens keliu su Dnepro upės vandens baseinu,
+    įbaugintas boristeniečių pasakojimų apie Siaurės kraštų
+    nesvetingumą, atšiaurų klimatą ir nepaprastus meteoriti-
+    nius fenomenus, Herodotas negalėjo to pats patikrinti.
+    Tad šis garsus keliautojas ir objektyviausias rašytojas
+    buvo priverstas atsisakyti tolesnės kelionės; jis turbūt bu­
+    vo nukeliavęs ne toliau kaip iki dabartinio Kijevo. Galop
+    jis taip baigia savo pasakojimą: „Apie toliausias Europos
+    vietoves neturiu 'ką pasakyti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192674
+
+- id: c-175445
+  citata_originali: |
+    Kijevo • miesto istorija ypatinga, tuo, kad žinios, sly­
+    pinčios kitapus tamsios praeities skraistės, vis dėlto įž­
+    velgiamos ir tarsi teikia vilties, jog galima dar daug ką
+    sužinoti.
+    Žemė, kur įsikūręs Kijevas, priklausė Skitijai; ji su­
+    darė svarbesnę šiaurės vakarų krašto dalį, buvo derlinga,
+    sveika, išraižyta įvairiomis kryptimis sruvenančių van­
+    denų, turtinga įvairių gyvenimo gėrybių, kurias gamta
+    teikė žmonėms. Artimiausi ir gausiausi šio krašto gyven­
+    tojai buvo skiri ai, kurie vertėsi žem dirbyste, nes čia buvo
+    palankiausias klimatas ir geriausios sąlygos žemdirbys­
+    tei, todėl ir Gerų kraštas, tas didingas skitų tautos kapi­
+    nynas, buvo šalia šios tylios gyvenvietės1.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192675
+
+- id: c-175446
+  citata_originali: |
+    Tokiomis aplinkybėmis dabartinio Kijevo žemė pir­
+    miausia tapo skitų pastovia gyvenamąja vieta, nes ši
+    vieta buvo pati tinkamiausia visame šios Dnepro pakran­
+    tės plote. Šiandien ji vadinama Pečeros kalva, kuri stūk­
+    so čia pat prie Dnepro, be užutekių, graži ir patogi gyny­
+    bai2. Tad negalime nė valandėlės abejoti, jog skitų žem­
+    dirbiai įkūrė čia vieną pagrindinių savo nuolatinių ko­
+    lonijų, kur galbūt buvo svarbesnis jų žemdirbystės cent­
+    ras ir žymesnių žmonių buveinė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192676
+
+- id: c-175447
+  citata_originali: |
+    Tačiau slavai
+    ir toliau gyveno šiame mieste ir jo apylinkėse.
+    Netrukus prasidėjo trijų brolių slavų: Kijaus, Sčeko
+    ir Choryvo miestų atnaujinimo epocha. Padavimas teigia,
+    jog jie buvę įkūrėjai ar atnaujintojai Kijevo, be to, ga­
+    lėjo būti, jog pirmojo vardas buvo šiek tiek panašus į
+    senovinį miesto pavadinimą; iš čia ir atsirado naujas
+    Kijev horod, Kijev perevoz na Dnepre pavadinimas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192677
+
+- id: c-175934
+  citata_originali: |
+    Popiežius leido paskelbti Lenkijoj kryžiaus žygį prieš totorius,
+    ir daugelis Lenkų ponų mielai sutiko prisidėti prie Vytauto
+    žygio. Kariuomene buvo koncentruojama Kijeve, kur Vytautas
+    visą vasarą laikė atvykstantiems kryžeiviams paruoštus stalus.
+    Atėjo į pagalbą ir ordino kariuomenė, ir pagaliau visa didžiulė
+    armija ištraukė į totorių kraštus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193190
+
+- id: c-175935
+  citata_originali: |
+    Neskaitant trumpų vidaus kovų jo
+    įsigalėjimo metu ir keleto žygių į rusų sritis, visas jo valdymo
+    laikotarpis pasižymėjo ramumu. Tiesa, totoriai dažnai nusiaub-
+    davo Kijevo apylinkes, tačiau pačios Lietuvos niekas nepalietė.
+    Todėl normaliai kraštui plėtotis ir kilti sąlygos buvo palankios.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193191
+
+- id: c-175936
+  citata_originali: |
+    Jų kiekvienas
+    pavietas turėjo tokių pat, kaip ir visa valstybė: čia buvo ir
+    stalininkų, ir taurininkų, ir ark-
+    lininkų, ir kardininkų ir daugy-
+    bė kitų.
+    **Lietuvos valstybės teritorija**
+    po unijos buvo labai sumažė-
+    jusi, nes didžiuliai Palenkės, Vo-
+    luinės, Braclavo ir Kijevo žemių
+    plotai atiteko Lenkijai. Lietuviai
+    veltui reikalavo, kad lenkai tas
+    žemes jiems grąžintų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193192
+
+- id: c-176421
+  citata_originali: |
+    Pasiekimai vakaruose Gediminui leido
+    plėsti savo valstybę rytuose. Prie jau anksčiau lietuvių užvaldytų
+    Juodosios Rusios (Naugarduko žemių) ir Polocko Gediminas
+    pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.
+    Lietuva tapo didvalstybe - regiono lydere.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193765
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Aleksandras Jogailaitis]]
 - Buvo valdoma: [[objektai/grupes/Auksinė Orda]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Jonas Algimantaitis (Alšėniškis)]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Švitrigaila]], [[objektai/grupes/Totoriai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Buvo kelionės vieta: [[objektai/asmenys/Boleslovas Švitrigaila]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Markvardas (Ragainės komtūras)]], [[objektai/asmenys/Švitrigaila]], [[objektai/grupes/Totoriai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Mirties vieta: [[objektai/asmenys/Skirgaila]]
+- Buvo pastatyta: [[objektai/asmenys/Choryvas]], [[objektai/asmenys/Sčekas]]
 - Puolė Kijevą: [[objektai/asmenys/Edyga]], [[objektai/grupes/Krymo orda]], [[objektai/grupes/Totoriai]]
 - Užėmė Kijevą: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Buvo žygio kryptis: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - Buvo užkariauta: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/grupes/Mongolų imperija]]
-- Gyvenamoji vieta: [[objektai/asmenys/Mykolas]], [[objektai/grupes/Tochtamišo totoriai]]
+- Gyvenamoji vieta: [[objektai/grupes/Geninai]], [[objektai/grupes/Graikai]], [[objektai/asmenys/Mykolas]], [[objektai/grupes/Rusinai]], [[objektai/grupes/Tochtamišo totoriai]]
 - Kijevas priklausė [[objektai/grupes/Auksinė Orda]], [[objektai/grupes/Aukso orda]], [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Rusija]], [[objektai/asmenys/Skirgaila]]

@@ -16,6 +16,18 @@ tags:
   - sąvoka
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # magistras
 
@@ -28,9 +40,64 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 <a id="claim-t-175181"></a>
 - t-001
   global_id: t-175181
-  teiginys: 'Po nesėkmingo Ordino žygio magistras buvo paskelbtas pamišėliu ir pašalintas iš pareigų.'
+  teiginys: "Po nesėkmingo Ordino žygio magistras buvo paskelbtas pamišėliu ir pašalintas iš pareigų."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "171692-172004; hash=5e306c1d412f732b86fc21b4c64264ed1a800395b0618803af06a3c29a56748b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "magistras: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"magistras\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-159335
+
+<a id="claim-t-175181"></a>
+- t-001
+  global_id: t-175181
+  teiginys: "Po nesėkmingo Ordino žygio magistras buvo paskelbtas pamišėliu ir pašalintas iš pareigų."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "171692-172004; hash=5e306c1d412f732b86fc21b4c64264ed1a800395b0618803af06a3c29a56748b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "magistras: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"magistras\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  pagrindžia:
+    - c-159335
+
+<a id="claim-t-193151"></a>
+- t-003
+  global_id: t-193151
+  teiginys: "Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašalintas iš vietos."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "171692-172004; hash=5e306c1d412f732b86fc21b4c64264ed1a800395b0618803af06a3c29a56748b; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
+  vertinimo_autorius: "rewrite_source_claims / reject"
+  pagrindžia:
+    - c-159335
+
+<a id="claim-t-193382"></a>
+- t-004
+  global_id: t-193382
+  teiginys: "Dėl to visi pradėjo atvirai niekinti senuosius magistrų, maršalų, komtūrų titulus ir galvoti apie valstybinės santvarkos pakei timą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1153200-1153861; hash=9b4feeb2f229e30c5c05542c2d4d38d58b90ed23d497d7dea706b9c454943268; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176107
 - susijęs iš [[objektai/asmenys/Andriejus (Polocko kunigaikštis).md#claim-t-35024|Andriejus (Polocko kunigaikštis)]]: Polocko kunigaikštis Andriejus kartu su Ordino magistru Zöllneriu surengė žygį į Lietuvą Jogailos krikštynų ir vestuvių proga.
 - susijęs iš [[objektai/asmenys/Anonas (didysis magistras).md#claim-t-184046|Anonas (didysis magistras)]]: Anonas buvo septintasis Teutonų namų ordino didysis magistras ir mirė liepos 8 dieną.
 - susijęs iš [[objektai/asmenys/Anonas (didysis magistras).md#claim-t-60082|Anonas (didysis magistras)]]: Anonas buvo septintasis Teutonų namų ordino didysis magistras ir mirė liepos 8 dieną.
@@ -79,7 +146,9 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - susijęs iš [[objektai/asmenys/Meinhardas Saksas iš Kverfurto.md#claim-t-59873|Meinhardas Saksas iš Kverfurto]]: Meinhardas Saksas iš Kverfurto buvo tryliktas Prūsijos magistras ir vadovavo vienuolika metų.
 - susijęs iš [[objektai/asmenys/Mikalojus Dzerško.md#claim-t-87784|Mikalojus Dzerško]]: Mikalojus Dzerško, dar vadintas Dzerškavičiumi, buvo lietuvis, laisvųjų menų magistras ir vyskupas 1453-1462 m.
 - susijęs iš [[objektai/asmenys/Otonas.md#claim-t-60400|Otonas]]: Brolis Otonas buvo antrasis magistras, daug metų vadovavo, mirė birželio 2 dieną ir buvo palaidotas Akone.
+- susijęs iš [[objektai/asmenys/Paulius Rusdorfas.md#claim-t-190960|Paulius Rusdorfas]]: Narbutas Paulių Rusdorfą vadino kryžiuočių magistru, 1436 m. su Vladislovu Varniečiu sudariusiu pasienio konvenciją.
 - susijęs iš [[objektai/asmenys/Paulius Rusdorfas.md#claim-t-87453|Paulius Rusdorfas]]: Paulius Rusdorfas kaip kryžiuočių magistras dalyvavo taikos sutartyje su Vytautu ir Mazovijos kunigaikščiais.
+- susijęs iš [[objektai/asmenys/Vladislovas Varnietis.md#claim-t-190997|Vladislovas Varnietis]]: 1436 m. Lenkijos karalius Vladislovas Varnietis ir kryžiuočių magistras Povilas Rusdorfas sudarė pasienio konvenciją dėl sienos.
 - susijęs iš [[objektai/asmenys/Zigmantas (Romos imperatorius).md#claim-t-87381|Zigmantas (Romos imperatorius)]]: Imperatorius Zigmantas ir didysis magistras siekė nutraukti Lietuvos ir Lenkijos sąjungą, tačiau jų sumanymai žlugo.
 - susijęs iš [[objektai/autoriai/August von Kotzebue.md#claim-t-87945|August von Kotzebue]]: Kotzebue citavo Slaptajame archyve buvusį Švitrigailos laišką didžiajam magistrui, rašytą iš Trakų 1432 m. rugpjūčio 13 d.
 - susijęs iš [[objektai/autoriai/Powierski J.md#claim-t-60506|Powierski J]]: J. Powierski cituojamas aiškinant Ordino konvento ir krašto magistro Hermano Balko įsikūrimą Nesavos pilyje.
@@ -526,6 +595,7 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - susijęs iš [[objektai/posakiai/„Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“.md#claim-t-186381|„Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“]]: Dusburgas 1283 m. kronikoje žodžiais „Prasidėjo karas su lietuviais“ pradėjo aprašyti kryžiuočių kovas su lietuviais.
 - susijęs iš [[objektai/posakiai/„Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu“.md#claim-t-186420|„Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu“]]: Posakis „Toji tvirtovė yra pastatyta mano širdyje“ Eiliuotinėje kronikoje pateiktas kaip skundas dėl tvirtovės.
 - susijęs iš [[objektai/posakiai/„Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu“.md#claim-t-186421|„Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu“]]: Po nesėkmingos Daugpilio apgulos 1278 m. Eiliuotinė kronika Traideniui priskyrė skundą dėl tvirtovės.
+- susijęs iš 1436 m. pasienio konvencija tarp Vladislovo Varniečio ir Povilo Rusdorfo: Narbutas rašo, kad 1436 m. Vladislovas Varnietis ir Povilas Rusdorfas sudarė pasienio konvenciją, nustačiusią Lenkijos ir Ordino sieną.
 - susijęs iš Dziennik Wileński Nr. 1 (1829 m.) žygio į Vilnių aprašymas: Įsidėmėtino žygio į Vilnių aprašymas buvo nepasirašytas išspausdintas 1829 metų „Dziennik Wileński“ Nr. 1.
 - susijęs iš Evangelija „Pradžioje buvo žodis“: Didysis magistras Verneris generalinėje kapituloje nutarė, kad kunigai kasdien po sumos skaitytų evangeliją „Pradžioje buvo žodis“.
 - susijęs iš Gedimino laiškai ordinams ir Vokietijos miestams: Balińskis laikėsi nuomonės, kad laiškas popiežiui ir laiškai ordinams bei Vokietijos miestams nebuvo parašyti Gedimino valia.
@@ -780,9 +850,96 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
     čiu. Viso nepasisekimo kaltininkas, magistras, buvo paskelb-
     tas pamišėliu ir pašalintas iš vietos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+    - t-003
+
+- c-002
+  santrauka: 'Dėl to visi pradėjo atvirai niekinti senuosius magistrų, maršalų, komtūrų titulus ir galvoti apie valstybinės santvarkos pakei timą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Susitarė dėl ketverių
+    metų paliaubų, o per tą lai-
+    1521 m e ta i
+    ką
+    ramiomis
+    aplinkybėmis
+    turėjo būti parengtos sąly­
+    gos amžinai taikai. Tuo metu Liuterio sekta, paplitusi
+    Vokietijoje, rado galybę pasekėjų Prūsijoje, o kry­
+    žiuočių ordinas, išgarsėjęs žygiais prieš stabmeldžius,
+    jau taip buvo ištižęs ir suiręs, kad aukščiausi ir že­
+    miausi pareigūnai, nieko ne-
+    K ry žiu o č ių
+    p a d ė tis
+    paisydami, laužė dievui duo-
+    P rū sijo je
+    tus įžadus ir, išsižadėję se­
+    nolių išpažinto Romos tikė­
+    jimo, puolė šventvagiškai tuoktis. Dėl to visi pradėjo
+    atvirai niekinti senuosius magistrų, maršalų, komtūrų
+    titulus ir galvoti apie valstybinės santvarkos pakei­
+    timą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-004
+
+## Citatos
+
+- id: c-159335
+  citata_originali: |
+    Tuo tarpu Algirdas su didele
+    kariuomene įsiveržė į Livoniją; nusiaubęs Žiemgalą, buvo ap-
+    gulęs net Rygą, tačiau, nenorėdamas gadinti santykių su rygie-
+    čiais, jos neėmė. Ordinas dėl tokio savo žygio netvėrė pyk-
+    čiu. Viso nepasisekimo kaltininkas, magistras, buvo paskelb-
+    tas pamišėliu ir pašalintas iš vietos.
+  citata_rodoma: "Viso nepasisekimo kaltininkas, magistras, buvo paskelb-\ntas pamišėliu ir pašalintas iš vietos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175181
+    - t-182959
+    - t-193151
+
+- id: c-176107
+  citata_originali: |
+    Susitarė dėl ketverių
+    metų paliaubų, o per tą lai-
+    1521 m e ta i
+    ką
+    ramiomis
+    aplinkybėmis
+    turėjo būti parengtos sąly­
+    gos amžinai taikai. Tuo metu Liuterio sekta, paplitusi
+    Vokietijoje, rado galybę pasekėjų Prūsijoje, o kry­
+    žiuočių ordinas, išgarsėjęs žygiais prieš stabmeldžius,
+    jau taip buvo ištižęs ir suiręs, kad aukščiausi ir že­
+    miausi pareigūnai, nieko ne-
+    K ry žiu o č ių
+    p a d ė tis
+    paisydami, laužė dievui duo-
+    P rū sijo je
+    tus įžadus ir, išsižadėję se­
+    nolių išpažinto Romos tikė­
+    jimo, puolė šventvagiškai tuoktis. Dėl to visi pradėjo
+    atvirai niekinti senuosius magistrų, maršalų, komtūrų
+    titulus ir galvoti apie valstybinės santvarkos pakei­
+    timą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193382

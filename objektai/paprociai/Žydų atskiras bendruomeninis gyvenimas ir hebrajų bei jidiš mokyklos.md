@@ -9,6 +9,18 @@ tags:
   - paprotys
   - tauta
   - valstybė
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Žydų atskiras bendruomeninis gyvenimas ir hebrajų bei jidiš mokyklos
 
@@ -39,19 +51,40 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-77942"></a>
-- t-001
+- t-002
   global_id: t-77942
-  teiginys: 'Žydai Lietuvoje gyveno atskirą bendruomeninį gyvenimą, menkai integravosi į lietuvių visuomenę, o sionistinis judėjimas skatino keltis į Palestiną.'
+  teiginys: "Žydai Lietuvoje gyveno atskirą bendruomeninį gyvenimą, menkai integravosi į lietuvių visuomenę, o sionistinis judėjimas skatino keltis į Palestiną."
+  semantiniai_rysiai: "Žydai gyveno Lietuva (0.92); Žydai keliavo į Palestina (0.74)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "342655-342988; hash=a4a8320ee1b9c8dd45f58b3b63f9778c02c6189b5e595fb2b3c03f5344acf20d; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Lietuva: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žydai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad žydai gyveno Lietuvoje."
   pagrindžia:
-    - c-002
+    - c-75260
 
 <a id="claim-t-77943"></a>
-- t-002
+- t-001
   global_id: t-77943
-  teiginys: 'Žydai Lietuvoje išlaikė atskirą kultūrinį gyvenimą, o jų mokyklose pamokos vyko hebrajų arba jidiš kalba.'
+  teiginys: "Žydai Lietuvoje išlaikė atskirą kultūrinį gyvenimą, o jų mokyklose pamokos vyko hebrajų arba jidiš kalba."
+  semantiniai_rysiai: "Žydai gyveno Lietuva (0.86)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "340008-340944; hash=4209f10648cdb93f41fa736f4abb14595c621eb143c096bf6422a47e785b34de; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Lietuva: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žydai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai lokalizuoja žydų gyvenimą Lietuvoje."
   pagrindžia:
-    - c-001
-
+    - c-75259
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -72,6 +105,7 @@ Nenurodyta
     pusės, carizmo priespaudą kentusių lietuvių tautinius jausmus žeidė, kad
     žydai tarpusavyje dažnai vartojo rusų kalbą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -89,8 +123,48 @@ Nenurodyta
     judėjimas kėlė Lietuvos žydus gyventi į Palestiną.
     Lenkai, sudarę apie 3,2 proc.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-75259
+  citata_originali: |
+    Nepaisant lietuvių kultūros, iš kurios neseniai šaipytasi, dominavimo,
+    žydai galėjo ir toliau visiškai tenkinti savo nacionalinius kultūrinius po-
+    reikius, tačiau žydai ir lietuviai gyveno atskirus, tik darbo reikalais susi-
+    jusius gyvenimus. Nacionalinėje lietuvių valstybėje žydams liko uždara
+    valstybės tarnybos sritis, tad jie tradiciškai vyravo prekyboje ir komerci-
+    joje, daug prisidėjo prie Lietuvos rekonstrukcijos, sukūrė žydų ekonomi-
+    nių ir finansinių organizacijų, taip pat unikalią savo švietimo ir mokyklų
+    sistemą (pamokos mokyklose vyko hebrajų arba jidiš kalba, jos tapo svar-
+    biais žydų kultūros centrais). Jauna ir dar niekuo neimponuojanti lietuvių
+    kultūra (literatūros klasikai Maironis, Vaižgantas, V. Krėvė-Mickevičius
+    dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli žydams, iš kitos
+    pusės, carizmo priespaudą kentusių lietuvių tautinius jausmus žeidė, kad
+    žydai tarpusavyje dažnai vartojo rusų kalbą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77943
+
+- id: c-75260
+  citata_originali: |
+    Kai kuriose srityse žydai tvirtai
+    dominavo – eksportavo daugiau arklių, kailių ir odų, miško medžiagos,
+    o importe sudarė didžiąją dalį. Apskritai žydai gyveno atskirą bendruo-
+    meninį gyvenimą ir menkai integravosi į lietuvių visuomenę, o sionistinis
+    judėjimas kėlė Lietuvos žydus gyventi į Palestiną.
+    Lenkai, sudarę apie 3,2 proc.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77942

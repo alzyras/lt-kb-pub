@@ -15,6 +15,18 @@ tags:
   - saltinis
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Notariats-Instrument dėl Gedimino laiškų Liubeke (1323 m.)
 
@@ -27,10 +39,19 @@ Visą tą aukščiau aprašytą reikalą raštininkas išdėstė tarny­ biniame
 <a id="claim-t-88268"></a>
 - t-001
   global_id: t-88268
-  teiginys: 'Notariats-Instrument dokumente buvo įrašyti tariamieji Gedimino laiškai dviem ordinams ir pajūrio miestams.'
+  teiginys: "Notariats-Instrument dokumente buvo įrašyti tariamieji Gedimino laiškai dviem ordinams ir pajūrio miestams."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "222761-223329; hash=612c82c515ee28e3f3ed19fbbd6baf2be93d42bead8b873ad76dca3dac944c9a; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Notariats-Instrument dėl Gedimino laiškų Liubeke (1323 m.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=55"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Notariats-Instrument dėl Gedimino laiškų Liubeke (1323 m.)\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-84247
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -47,8 +68,29 @@ Visą tą aukščiau aprašytą reikalą raštininkas išdėstė tarny­ biniame
     dija, kokią vertę teturi Kotzebue, bent jau jo nuomonės,
     klasikiniam paminklui Prūsijos istorijai, Klijo išgarbintam.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-84247
+  citata_originali: |
+    Visą tą aukščiau aprašytą reikalą raštininkas išdėstė tarny­
+    biniame pranešime (Notariats instrument), į kurį taip pat buvo
+    įrašyti ir tariamieji Gedimino laiškai dviem ordinams ir pajū­
+    rio miestams, ir kaip tik šis dokumentas yra Kryžiuočių archy­
+    ve, ir tik iš jo su tais laiškais galima susipažinti. Be abejonės,
+    anie riteriai grįždami paėmė juos į Prūsiją, taip jie ne „per Or­
+    dino piktadarystę" atsidūrė kryžiuočių archyve. Šitai vėlei liu­
+    dija, kokią vertę teturi Kotzebue, bent jau jo nuomonės,
+    klasikiniam paminklui Prūsijos istorijai, Klijo išgarbintam.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88268

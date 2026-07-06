@@ -14,6 +14,18 @@ tags:
   - daiktas
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # „Pienocentro“ pastatas Kaune
 
@@ -46,9 +58,25 @@ Nenurodyta
 <a id="claim-t-71580"></a>
 - t-001
   global_id: t-71580
-  teiginys: '„Pienocentro“ pastatas Kaune buvo užfiksuotas apie 1938 m.'
+  teiginys: "„Pienocentro“ pastatas Kaune buvo užfiksuotas apie 1938 m."
+  semantiniai_rysiai: "„Pienocentro“ pastatas Kaune priklausė Kaunas (0.90)"
+  temporaliniai_duomenys: "pastatymo data: 1933 m.; pastatymo data: 1938 m.; pastatymo data: apie 1938 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip pastatymo data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Pirminis tekstas yra antraštinis fragmentas, todėl perrašytas į pilną faktinį sakinį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "350692-351031; hash=22eb092dde532dacf1be03b00961963b3fa1bb79ce633b8f166bc210b2997d8d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Kaunas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "„Pienocentro“ pastatas Kaune: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Objekto aprašymas tiesiogiai nurodo, kad pastatas yra Kaune."
+  vertinimo_atnaujinta: "2026-06-13T14:30:30Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
+    - c-22325
 - susijęs iš [[objektai/asmenys/V. Landsbergis-Žemkalnis.md#claim-t-78038|V. Landsbergis-Žemkalnis]]: V. Landsbergis-Žemkalnis buvo Kaune stovėjusio „Pienocentro“ pastato architektas.
 - susijęs iš [[objektai/asmenys/Stasys Girėnas.md#claim-t-183570|Stasys Girėnas]]: 1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.
 - susijęs iš [[objektai/asmenys/Steponas Darius.md#claim-t-78013|Steponas Darius]]: 1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.
@@ -69,11 +97,30 @@ Nenurodyta
     liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu
     „Pienocentro“ pastatas Kaune (apie 1938).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-22325
+  citata_originali: |
+    Šventės
+    pabrėžė praeities ir dabarties ryšį, sujungė tautinius laimėjimus, auklėjo šlo-
+    vingos senovės pavyzdžiais, siekė parodyti kariuomenės ir tautos vienybę.
+    Netrukus atsirado ir modernių jaunos nacijos didvyrių. 1933 m.
+    liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu
+    „Pienocentro“ pastatas Kaune (apie 1938).
+  citata_rodoma: "1933 m. \nliepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu \n„Pienocentro“ pastatas Kaune (apie 1938)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-71580
 
 ## Ryšiai
 - „Pienocentro“ pastatas Kaune priklausė [[objektai/vietos/Kaunas]]

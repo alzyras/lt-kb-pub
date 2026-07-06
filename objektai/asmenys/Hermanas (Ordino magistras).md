@@ -20,6 +20,18 @@ amziai:
   - 'XIII'
 periodo_grupes:
   - 'viduramžiai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Hermanas (Ordino magistras)
 
@@ -30,19 +42,46 @@ Dusburgietis teigia, kad padedamas šių maldininkų, atvykusių į Torunę, mag
 ## Teiginiai
 
 <a id="claim-t-60029"></a>
-- t-001
+- t-002
   global_id: t-60029
-  teiginys: 'Magistras Hermanas su broliais 1233 m. Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu.'
+  teiginys: "Magistras Hermanas su broliais 1233 m. Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu."
+  semantiniai_rysiai: "Hermanas (Ordino magistras) pastatė Marienverderis (0.90)"
+  temporaliniai_duomenys: "pastatymo data: 1233 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs ir užterštas antrašte; citata palaiko konkretų faktą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "243075-244167; hash=21d030a1ef20d7829708d55c2e7ec14170242194e9d44f9a964b158cad26b9e3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Marienverderis: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Hermanas (Ordino magistras): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Marienverderis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata aiškiai sieja magistrą Hermaną ir brolius su Marienverderio pilies pastatymu."
   pagrindžia:
-    - c-002
+    - c-60662
 
 <a id="claim-t-60030"></a>
-- t-002
+- t-001
   global_id: t-60030
-  teiginys: 'Magistras brolis Hermanas, padedamas į Torunę atvykusių maldininkų, 1232 m. pastatė Kulmo pilį ir miestą.'
+  teiginys: "Magistras brolis Hermanas, padedamas į Torunę atvykusių maldininkų, 1232 m. pastatė Kulmo pilį ir miestą."
+  semantiniai_rysiai: "Hermanas (Ordino magistras) pastatė Kulmas (0.92)"
+  temporaliniai_duomenys: "pastatymo data: 1232 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiesiogiai paremtas šaltinio citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "241752-241940; hash=c37d7fc44ff60ad61de2100dad95f63d01feb84b2aa160d1d1e7b59001a553a5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Kulmas: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Hermanas (Ordino magistras): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kulmas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Hermanas pastatė Kulmo pilį ir miestą."
   pagrindžia:
-    - c-001
-
+    - c-60661
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -55,6 +94,7 @@ Dusburgietis teigia, kad padedamas šių maldininkų, atvykusių į Torunę, mag
 
       220 D.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -80,11 +120,52 @@ Dusburgietis teigia, kad padedamas šių maldininkų, atvykusių į Torunę, mag
     Marienverderio salos pilį iš Kvedino salos  į tą vietą, kur ji dabar tebestovi225, būtent  į
     Pamedės valsčių, vardu Reisiai226, pakeisdamas pilies vietą, bet ne pavadinimą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-60661
+  citata_originali: |
+    Padedamas šių maldininkų, atvykusių į Torunę, magistras brolis Hermanas ir
+    pastatė Kulmo pilį bei miestą viešpaties dievo 1232 metais toje vietoje, kur dabar yra
+    senoji pilis223.
+
+      220 D.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60030
+
+- id: c-60662
+  citata_originali: |
+    9. Apie brolių karą su pamedėnais ir apie Marienverderio pilies [castri Insulae sanctae
+                                    Mariae] pastatymą
+
+      Kai šios pilys iš dievo malonės buvo pastatytos ir kai Kulmo žemė buvo apvalyta nuo
+    įsikerojusio netikėlių sugedimo ir ištvirkimo raugo, magistras ir broliai, norėdami, kad
+    mūsų išganymo dievas palaimintų mums kelią į kaimynines netikėlių žemes (pasak kai
+    kurių, šitai tikriausia tiesa), paruošę visa, kas reikalinga pilims statyti, slapta nuplaukė
+    į Kvedino salą, buvusią prieš šiandieninę šventos Marijos salą, ir ten viešpaties dievo
+    1233 metais ant vienos kalvos pastatė pilį, pavadinę ją Marienverderiu. Tačiau kąi  į
+    Kulmo pilį atvyko nemažos kariuomenės ir ginklanešių lydimas kilnusis vyras ir kariauti
+    įgudęs Saksonijos karys Magdeburgo burggrafas224, pravarde Trumparankis,  jis per
+    vienus metus, kuriuos ten praleido, atplaukė čia  ir perkėlė su magistru bei broliais
+    Marienverderio salos pilį iš Kvedino salos  į tą vietą, kur ji dabar tebestovi225, būtent  į
+    Pamedės valsčių, vardu Reisiai226, pakeisdamas pilies vietą, bet ne pavadinimą.
+  citata_rodoma: "Apie brolių karą su pamedėnais ir apie Marienverderio pilies [castri Insulae sanctae\n                                Mariae] pastatymą\n\n  Kai šios pilys iš dievo malonės buvo pastatytos ir kai Kulmo žemė buvo apvalyta nuo\nįsikerojusio netikėlių sugedimo ir ištvirkimo raugo, magistras ir broliai, norėdami, kad\nmūsų išganymo dievas palaimintų mums kelią į kaimynines netikėlių žemes (pasak kai\nkurių, šitai tikriausia tiesa), paruošę visa, kas reikalinga pilims statyti, slapta nuplaukė\nį Kvedino salą, buvusią prieš šiandieninę šventos Marijos salą, ir ten viešpaties dievo\n1233 metais ant vienos kalvos pastatė pilį, pavadinę ją Marienverderiu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60029
 
 ## Ryšiai
 - Hermanas (Ordino magistras) pastatė [[objektai/vietos/Kulmas]], [[objektai/vietos/Marienverderis]]

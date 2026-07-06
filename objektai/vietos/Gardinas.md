@@ -9,6 +9,7 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -26,550 +27,1539 @@ date_start: '1295'
 date_end: '1568'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XIII'
-  - 'XVI'
-description: 'Gardinas siejamas su Vytauto valdomis, Dovydiškių sutarties aplinka, katalikų fundacijomis ir vėlesniais Lietuvos sienų projektais.'
-socialDescription: 'Gardinas Lietuvos istorijoje iškyla kaip Vytauto valdų, religinių fundacijų ir vėlesnių Lietuvos teritorinių svarstymų vieta.'
-seo_atnaujinta: '2026-07-02T23:12:35.019523+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 tags:
   - karalius
   - kunigaikštis
   - ordinas
   - vieta
+amziai:
+  - 'XIII'
+  - 'XVI'
+media_total_count: '4'
+media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/2/2d/Ober_Ost_administrative_divisions_after_Bialystok-Grodno_merger_1_September_1916.jpg'
+media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AOber_Ost_administrative_divisions_after_Bialystok-Grodno_merger_1_September_1916.jpg'
+media_primary_directness: 'direct'
+media_primary_relation_type: 'map_of'
+media_primary_json: |-
+  {"mediaId":"m-7fa415299436885f96025d47","title":"Ober Ost administrative divisions after Bialystok-Grodno merger 1 September 1916.jpg","caption":"Map of the administrative divisions of the German military administration Ober Ost after the merger of the \"Bialystok\" and \"Grodno\" administrations into a single \"Bialystok-Grodno\" unit as of 1 September 1916.","creator":"Francis Maks","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.5","rightsNote":"Creative Commons Attribution-Share Alike 2.5","dateDisplay":"2015","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AOber_Ost_administrative_divisions_after_Bialystok-Grodno_merger_1_September_1916.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2d/Ober_Ost_administrative_divisions_after_Bialystok-Grodno_merger_1_September_1916.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}
+media_direct_json: |-
+  [{"mediaId":"m-7fa415299436885f96025d47","title":"Ober Ost administrative divisions after Bialystok-Grodno merger 1 September 1916.jpg","caption":"Map of the administrative divisions of the German military administration Ober Ost after the merger of the \"Bialystok\" and \"Grodno\" administrations into a single \"Bialystok-Grodno\" unit as of 1 September 1916.","creator":"Francis Maks","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.5","rightsNote":"Creative Commons Attribution-Share Alike 2.5","dateDisplay":"2015","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AOber_Ost_administrative_divisions_after_Bialystok-Grodno_merger_1_September_1916.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2d/Ober_Ost_administrative_divisions_after_Bialystok-Grodno_merger_1_September_1916.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-98b37747c545d2548f8e8e38","title":"Ober Ost administrative reorganization of Lithuania and Bialystok-Grodno 19 January 1918 map.jpg","caption":"Map of the Ober Ost military administrations after the merger of the \"Lithuania\" and \"Bialystok-Grodno\" administrations (effective 19 January 1918). Shows division into \"Lithuania, North District\" and \"Lithuania, South District\".","creator":"Francis Maks","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.5","rightsNote":"Creative Commons Attribution-Share Alike 2.5","dateDisplay":"2016","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AOber_Ost_administrative_reorganization_of_Lithuania_and_Bialystok-Grodno_19_January_1918_map.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8d/Ober_Ost_administrative_reorganization_of_Lithuania_and_Bialystok-Grodno_19_January_1918_map.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-e84197b66311340ddfa2b996","title":"Shows the enlarged \"Lithuania\" military administration after the incorporation of the former Bialystok-Grodno administration, divided into North and South districts.jpg","caption":"Map of the Ober Ost \"Lithuania\" military administration as of 16 February 1918 after the incorporation of the former Bialystok-Grodno administration. Shows division into North and South districts.","creator":"Francis Maks","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.5","rightsNote":"Creative Commons Attribution-Share Alike 2.5","dateDisplay":"2016","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AShows_the_enlarged_%22Lithuania%22_military_administration_after_the_incorporation_of_the_former_Bialystok-Grodno_administration%2C_divided_into_North_and_South_districts.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/ff/Shows_the_enlarged_%22Lithuania%22_military_administration_after_the_incorporation_of_the_former_Bialystok-Grodno_administration%2C_divided_into_North_and_South_districts.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-2e2a9db5a02eb79bf3afbd7d","title":"Białystok general city plan 1939 01.jpg","caption":"Programem ogólnym zabudowania miasta Białegostoku. This board is part of a large study, which was the general program for the development of Białystok, prepared under the supervision of architect Ignacy Felicjan Tłoczek, in which in the period from June 21, 1938 to July 29, 1939. in the Construction Plan Office of the Białystok City Government. It was the first comprehensive planning study for Białystok after World War I. It was made at the request of the Association of Polish Cities by Ignacy Felicjan Tloczek, future professor of the Warsaw University of Life Sciences, selected for this task due to his previous experience in planning the development of Toruń. The assumptions of this plan included, among others: a scale of the size of Bialystok appropriate to its role as the capital of Podlasie, as an industry center cooperating with plants located in the subregion and as the center of a constellation of towns: Choroszcz, Suprasl, Wasilkow, Michalowo, Grodek, Zabludow. The areas necessary for further development of industry are reserved on the Suprasla River in the area of the village of Fasty, in Starosielce and, to a lesser extent, in Dojlidy. The directional system of transit communication remains from east to west as the basic one and from south to north with a fork to Elk and Grodno as the regional one, both of which are intended to relieve the traffic congestion in the city center. The center of administration, education, culture and services remains in the city center, regardless of the centers of peripheral districts. Removal of the ruins in the Chanajki estate and creation of a new residential district in its place. Leaving areas not qualified for expansion purposes as agricultural land. Respecting the dendorological values of the Zwierzyniec green wedge and linking it with newly established tree belts. Use of the landscape values of the hills. The plan included the following studies: Communication study, Traffic intensity study, Inventory of road condition, geological cross-sections, State of land use, List of real estate ownership, Layout of industry, Layout of primary schools, Sketch draft of the general plan, Design of the network of primary schools, Zone design, Designed cross profiles communication arteries, Technical description of the condition of the buildings, Detailed plans for the acquisitive estate of Wiedza Robotnicza, Kościuszki Market Square area, Dojlidy estate, Reconstruction project, Fire-resistant and non-fire-resistant construction zones","creator":"Government of Poland","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1939-07-29","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ABia%C5%82ystok_general_city_plan_1939_01.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/99/Bia%C5%82ystok_general_city_plan_1939_01.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
+media_contextual_json: |-
+  []
+media_all_json: |-
+  [{"mediaId":"m-7fa415299436885f96025d47","title":"Ober Ost administrative divisions after Bialystok-Grodno merger 1 September 1916.jpg","caption":"Map of the administrative divisions of the German military administration Ober Ost after the merger of the \"Bialystok\" and \"Grodno\" administrations into a single \"Bialystok-Grodno\" unit as of 1 September 1916.","creator":"Francis Maks","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.5","rightsNote":"Creative Commons Attribution-Share Alike 2.5","dateDisplay":"2015","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AOber_Ost_administrative_divisions_after_Bialystok-Grodno_merger_1_September_1916.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2d/Ober_Ost_administrative_divisions_after_Bialystok-Grodno_merger_1_September_1916.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-98b37747c545d2548f8e8e38","title":"Ober Ost administrative reorganization of Lithuania and Bialystok-Grodno 19 January 1918 map.jpg","caption":"Map of the Ober Ost military administrations after the merger of the \"Lithuania\" and \"Bialystok-Grodno\" administrations (effective 19 January 1918). Shows division into \"Lithuania, North District\" and \"Lithuania, South District\".","creator":"Francis Maks","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.5","rightsNote":"Creative Commons Attribution-Share Alike 2.5","dateDisplay":"2016","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AOber_Ost_administrative_reorganization_of_Lithuania_and_Bialystok-Grodno_19_January_1918_map.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8d/Ober_Ost_administrative_reorganization_of_Lithuania_and_Bialystok-Grodno_19_January_1918_map.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-e84197b66311340ddfa2b996","title":"Shows the enlarged \"Lithuania\" military administration after the incorporation of the former Bialystok-Grodno administration, divided into North and South districts.jpg","caption":"Map of the Ober Ost \"Lithuania\" military administration as of 16 February 1918 after the incorporation of the former Bialystok-Grodno administration. Shows division into North and South districts.","creator":"Francis Maks","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.5","rightsNote":"Creative Commons Attribution-Share Alike 2.5","dateDisplay":"2016","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AShows_the_enlarged_%22Lithuania%22_military_administration_after_the_incorporation_of_the_former_Bialystok-Grodno_administration%2C_divided_into_North_and_South_districts.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/ff/Shows_the_enlarged_%22Lithuania%22_military_administration_after_the_incorporation_of_the_former_Bialystok-Grodno_administration%2C_divided_into_North_and_South_districts.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-2e2a9db5a02eb79bf3afbd7d","title":"Białystok general city plan 1939 01.jpg","caption":"Programem ogólnym zabudowania miasta Białegostoku. This board is part of a large study, which was the general program for the development of Białystok, prepared under the supervision of architect Ignacy Felicjan Tłoczek, in which in the period from June 21, 1938 to July 29, 1939. in the Construction Plan Office of the Białystok City Government. It was the first comprehensive planning study for Białystok after World War I. It was made at the request of the Association of Polish Cities by Ignacy Felicjan Tloczek, future professor of the Warsaw University of Life Sciences, selected for this task due to his previous experience in planning the development of Toruń. The assumptions of this plan included, among others: a scale of the size of Bialystok appropriate to its role as the capital of Podlasie, as an industry center cooperating with plants located in the subregion and as the center of a constellation of towns: Choroszcz, Suprasl, Wasilkow, Michalowo, Grodek, Zabludow. The areas necessary for further development of industry are reserved on the Suprasla River in the area of the village of Fasty, in Starosielce and, to a lesser extent, in Dojlidy. The directional system of transit communication remains from east to west as the basic one and from south to north with a fork to Elk and Grodno as the regional one, both of which are intended to relieve the traffic congestion in the city center. The center of administration, education, culture and services remains in the city center, regardless of the centers of peripheral districts. Removal of the ruins in the Chanajki estate and creation of a new residential district in its place. Leaving areas not qualified for expansion purposes as agricultural land. Respecting the dendorological values of the Zwierzyniec green wedge and linking it with newly established tree belts. Use of the landscape values of the hills. The plan included the following studies: Communication study, Traffic intensity study, Inventory of road condition, geological cross-sections, State of land use, List of real estate ownership, Layout of industry, Layout of primary schools, Sketch draft of the general plan, Design of the network of primary schools, Zone design, Designed cross profiles communication arteries, Technical description of the condition of the buildings, Detailed plans for the acquisitive estate of Wiedza Robotnicza, Kościuszki Market Square area, Dojlidy estate, Reconstruction project, Fire-resistant and non-fire-resistant construction zones","creator":"Government of Poland","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1939-07-29","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ABia%C5%82ystok_general_city_plan_1939_01.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/99/Bia%C5%82ystok_general_city_plan_1939_01.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
 ---
 # Gardinas
 
 ## Santrauka
 
-Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Skirgailai jam galėjo likti Gardinas su Palenke. Miestas minimas ir religinių fundacijų kontekste, nes Vytautas Gardine rėmė dominikonus bei pranciškonus. Vėliau Gardinas pasirodo Lietuvos administracinių padalijimų ir teritorinių projektų istorijoje.
+Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo religinių fundacijų ir 1429 m. politinių derybų centras.
 
 ## Teiginiai
-<a id="claim-t-12484"></a>
-- t-001
-  global_id: t-12484
-  teiginys: 'Vytautas Gardine rėmė dominikonus ir pranciškonus, skirdamas jiems donacijas ir bažnyčias.'
-  pagrindžia:
-    - c-026
 
-<a id="claim-t-179827"></a>
-- t-002
-  global_id: t-179827
-  teiginys: 'Kovo mėnesį karalius, padedamas Skirgailos, šturmu užėmė Vytauto valdos sostine vadintą Gardiną.'
+<a id="claim-t-12484"></a>
+- t-009
+  global_id: t-12484
+  teiginys: "Vytautas Gardine rėmė dominikonus ir pranciškonus, skirdamas jiems donacijas ir bažnyčias."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "67429-67696; hash=449c10a2ffab5c1616eebf6304f2b411eab371fdc4d4b3fce56e01697494eb45; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-163497
+
+<a id="claim-t-179866"></a>
+- t-057
+  global_id: t-179866
+  teiginys: "Kovo mėnesį karalius, padedamas Skirgailos, šturmu užėmė Vytauto valdos sostine vadintą Gardiną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "258350-259030; hash=34f875e2a233731058e9b37b28a490e2bd5fab991e543b10f034bc6728cd3dca; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Brasta: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Brasta: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Brasta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  pagrindžia:
+    - c-163478
 
 <a id="claim-t-179829"></a>
-- t-003
+- t-042
   global_id: t-179829
-  teiginys: 'Dovydiškių sutartis 1380 m. gegužės 31 d. slapta surašyta medžioklės metu Dovydiškėse, turbūt arti Gardino.'
+  teiginys: "Dovydiškių sutartis 1380 m. gegužės 31 d. slapta surašyta medžioklės metu Dovydiškėse, turbūt arti Gardino."
+  temporaliniai_duomenys: "sutarties data: 1380 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "751021-751219; hash=af272f6eccdff5c5d8f8a015a6035557ffedb1ebf38859442b0bb55e0f1b002e; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dovydiškių sutarties sudarymas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Dovydiškių sutarties sudarymas: mention_match, event, gap=99"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Dovydiškių sutarties sudarymas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-036
+    - c-163514
 
 <a id="claim-t-179830"></a>
-- t-004
+- t-090
   global_id: t-179830
-  teiginys: 'Kadangi Trakai jau buvo atiduoti Skirgailai, Vytautas galėjo gauti tik Gardiną su Palenke.'
+  teiginys: "Kadangi Trakai jau buvo atiduoti Skirgailai, Vytautas galėjo gauti tik Gardiną su Palenke."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "766939-767172; hash=8c0e62b42260768963c6f8721128bb8777703565256afeac5377d2074ec5ba4b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Palenkė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Palenkė: mention_match, place, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Palenkė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-039
+    - c-163523
 
 <a id="claim-t-179831"></a>
-- t-005
+- t-076
   global_id: t-179831
-  teiginys: 'Vaclovas pripažino Ordinui Žemaičius ir visą kairiąją Panemunę iki Gardino.'
+  teiginys: "Vaclovas pripažino Ordinui Žemaičius ir visą kairiąją Panemunę iki Gardino."
+  temporaliniai_duomenys: "įvykio data: iki 1410 m.; įvykio data: 1410 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia pašalinti neaiškų kontekstinį pradžios fragmentą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "897771-898097; hash=af4356a7e8725fad64a204fc8346248c482620e60b9b11d306b9c1fb4d0e2b3c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-21449
 
 <a id="claim-t-179833"></a>
-- t-006
+- t-034
   global_id: t-179833
-  teiginys: '1801 m. Lietuvos gubernija padalyta į Lietuvos Vilniaus ir Lietuvos Gardino gubernijas.'
+  teiginys: "1801 m. Lietuvos gubernija padalyta į Lietuvos Vilniaus ir Lietuvos Gardino gubernijas."
+  temporaliniai_duomenys: "įvykio data: 1801 m.; įvykio data: 1819 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Lietuvos Gardino gubernijos sudarymą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "185965-186473; hash=5994d100588b72e9a6f7bde9e2426990dd629111bfceb02d07a97ec5ffcd85bc; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kuršas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kuršas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Kuršas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-040
+    - c-163524
 
 <a id="claim-t-179834"></a>
-- t-007
+- t-069
   global_id: t-179834
-  teiginys: '1917 m. Berno konferencijoje Lietuvos teritorijai siūlyta priskirti Balstogės, Gardino, Slanimo ir Valkavisko apskritis.'
+  teiginys: "1917 m. Berno konferencijoje Lietuvos teritorijai siūlyta priskirti Balstogės, Gardino, Slanimo ir Valkavisko apskritis."
+  temporaliniai_duomenys: "įvykio data: 1917 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis tekstas buvo nutrūkęs ir su OCR fragmentais, todėl perrašytas į pilną sakinį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "261044-261858; hash=7ce9d074861a8a3cb0f2e9a832cb4f5f1e1b46b78dd589ad6f8f1a899f804621; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Slanimas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Slanimas: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Slanimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-015
+    - c-163484
 
 <a id="claim-t-179835"></a>
-- t-008
+- t-038
   global_id: t-179835
-  teiginys: 'A. Jofė sutiko Gardiną ir Lydą priskirti Lietuvai, nors šiose žemėse lietuvių gyventa mažai.'
+  teiginys: "A. Jofė sutiko Gardiną ir Lydą priskirti Lietuvai, nors šiose žemėse lietuvių gyventa mažai."
+  temporaliniai_duomenys: "įvykio data: 1795 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys patikslintas, kad būtų aiškus Gardino vaidmuo ir neliktų perteklinio konteksto."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "280167-280582; hash=99fd9f8d2d0a84b0a425c88fdd99c2bcbed6d398e5695d310f2f7b39c3be7c11; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-012
+    - c-163481
 
 <a id="claim-t-179836"></a>
-- t-009
+- t-012
   global_id: t-179836
-  teiginys: 'Dovydiškių sutartis buvo slapta surašyta medžioklės metu Dovydiškėse, turbūt arti Gardino, 1380 m. gegužės 31 d.'
+  teiginys: "Dovydiškių sutartis buvo slapta surašyta medžioklės metu Dovydiškėse, turbūt arti Gardino, 1380 m. gegužės 31 d."
+  temporaliniai_duomenys: "sutarties data: 1380 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "751021-751219; hash=af272f6eccdff5c5d8f8a015a6035557ffedb1ebf38859442b0bb55e0f1b002e; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dovydiškių sutarties sudarymas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Dovydiškių sutarties sudarymas: mention_match, event, gap=82"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Dovydiškių sutarties sudarymas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-036
+    - c-163514
 
 <a id="claim-t-179837"></a>
-- t-010
+- t-041
   global_id: t-179837
-  teiginys: 'Kęstučio valdos, apėmusios Gardino žemę ir Palenkę, dėl artimos kaimynystės su kryžiuočių valstybe nebuvo saugios.'
+  teiginys: "Kęstučio valdos, apėmusios Gardino žemę ir Palenkę, dėl artimos kaimynystės su kryžiuočių valstybe nebuvo saugios."
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valdė teritoriją Gardino žemė (0.92)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "686809-687392; hash=e7285c58f07e7f0c706db489a60ed088b81cd79718b4352734de930f32739655; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_teritorija -> Gardino žemė: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Gardino žemė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Gardino žemė tiesiogiai išvardyta kaip Kęstučio valdų dalis."
   pagrindžia:
-    - c-022
+    - c-163493
 
 <a id="claim-t-179839"></a>
-- t-011
+- t-024
   global_id: t-179839
-  teiginys: 'Vilniaus ir Gardino apylinkėse buvo laikoma daugiau jaučių.'
+  teiginys: "Vilniaus ir Gardino apylinkėse buvo laikoma daugiau jaučių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "599820-600175; hash=a071a397671580e22d98fb004e39bd6398a6e4a27e1ca51224c419681c75a652; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-030
+    - c-163504
 
 <a id="claim-t-179841"></a>
-- t-012
+- t-015
   global_id: t-179841
-  teiginys: '1392 m. birželio pabaigoje Vytautas sudegino Ritterswerderį ir dvi Ordino pilis prie Nemuno: Naująjį Gardiną ir Meteną.'
+  teiginys: "1392 m. birželio pabaigoje Vytautas sudegino Ritterswerderį ir dvi Ordino pilis prie Nemuno: Naująjį Gardiną ir Meteną."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) puolė Ritterswerderis (0.86); Vytautas (Lietuvos valdovas, XIV–XV a.) puolė Metena (0.80)"
+  temporaliniai_duomenys: "įvykio data: iki 1398 m.; įvykio data: 1392 m.; įvykio data: 1398 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "842705-843075; hash=e23bdb17c392778483ceea6628f11bb1db8a019579e51914f17753bc8c0aaf74; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Ritterswerderis: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Ritterswerderis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Sudeginimas karinėje situacijoje tiesiogiai rodo Vytauto puolimą prieš Ritterswerderį."
   pagrindžia:
-    - c-013
+    - c-163482
 
 <a id="claim-t-179842"></a>
-- t-013
+- t-017
   global_id: t-179842
-  teiginys: '1376 m. Vytautas, jau būdamas Gardino kunigaikštis, dalyvavo žygyje prieš lenkus.'
+  teiginys: "1376 m. Vytautas, jau būdamas Gardino kunigaikštis, dalyvavo žygyje prieš lenkus."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) buvo valdovas Gardinas (0.90); Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo prieš Lenkai (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1362 m.; įvykio data: 1368 m.; įvykio data: 1376 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiksliai perteikia citatoje nurodytą 1376 m. žygį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "44805-45495; hash=cce06cc2eba2569ead1fa315740d03407cb2bc64ac4915f3cd9e373a78f93608; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_valdovas -> Gardinas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Gardinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Titulas „Gardino kunigaikštis“ tiesiogiai sieja Vytautą su Gardino valdymu."
   pagrindžia:
-    - c-008
+    - c-163477
 
 <a id="claim-t-179843"></a>
-- t-014
+- t-066
   global_id: t-179843
-  teiginys: 'Vytauto laikais Gardine, Naugarduke, Melnike ir Lucke imta statyti pilis toli nuo etninės Lietuvos.'
+  teiginys: "Vytauto laikais Gardine, Naugarduke, Melnike ir Lucke imta statyti pilis toli nuo etninės Lietuvos."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "897324-897744; hash=c7c3ae9efc008cf4bc1ba70e677b984ed8451821f58d7ca042e3d22c066dde81; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=74"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-163475
 
 <a id="claim-t-179844"></a>
-- t-015
+- t-077
   global_id: t-179844
-  teiginys: 'XVIII a. tribunolas rinkdavosi tik Vilniuje ir Gardine.'
+  teiginys: "XVIII a. tribunolas rinkdavosi tik Vilniuje ir Gardine."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "898230-898875; hash=9bd338b226d47b70f330ee8370f5e8a9bde74cdc0e2637cd95d5c8e43b4a3b28; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Piotrkovas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Piotrkovas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Piotrkovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-023
+    - c-163494
 
 <a id="claim-t-179845"></a>
-- t-016
+- t-088
   global_id: t-179845
-  teiginys: '1379 m. paliaubose Gardinas minėtas tarp krikščioniškų Trakų kunigaikštijos sričių, kurių Ordinas pasižadėjo nepulti.'
+  teiginys: "1379 m. paliaubose Gardinas minėtas tarp krikščioniškų Trakų kunigaikštijos sričių, kurių Ordinas pasižadėjo nepulti."
+  temporaliniai_duomenys: "įvykio data: 1379 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Ilgas paliaubų sąlygų fragmentas sutrumpintas į faktą apie Gardiną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "670616-671103; hash=1ce11cba5fc76d46d7066241fc8e432d7d6d7758e251450f2a05ae3ccbe90bff; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Trakai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Trakai: mention_match, place, gap=36"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-017
+    - c-163486
 
 <a id="claim-t-179846"></a>
-- t-017
+- t-044
   global_id: t-179846
-  teiginys: 'Vytautas sudegino Ritterswerderį ir dvi Ordino pilis prie Nemuno: Naująjį Gardiną ir Meteną.'
+  teiginys: "Vytautas sudegino Ritterswerderį ir dvi Ordino pilis prie Nemuno: Naująjį Gardiną ir Meteną."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) puolė Ritterswerderis (0.86); Vytautas (Lietuvos valdovas, XIV–XV a.) puolė Metena (0.80)"
+  temporaliniai_duomenys: "įvykio data: iki 1398 m.; įvykio data: 1392 m.; įvykio data: 1398 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "842705-843075; hash=e23bdb17c392778483ceea6628f11bb1db8a019579e51914f17753bc8c0aaf74; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Ritterswerderis: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Ritterswerderis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Sudeginimas karinėje situacijoje tiesiogiai rodo puolimą prieš Ritterswerderį."
   pagrindžia:
-    - c-013
+    - c-163482
 
 <a id="claim-t-179847"></a>
-- t-018
+- t-085
   global_id: t-179847
-  teiginys: 'Ostrovo taikos metu Jogaila grąžino Vytautui jo tėviškę, įskaitant Trakus ir Gardiną.'
+  teiginys: "Ostrovo taikos metu Jogaila grąžino Vytautui jo tėviškę, įskaitant Trakus ir Gardiną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "392015-392300; hash=8a80485505d95893676141c93de367a43f7fa09884d7228f606cc98321c96209; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=57"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-019
+    - c-163488
 
 <a id="claim-t-179848"></a>
-- t-019
+- t-036
   global_id: t-179848
-  teiginys: 'Lietuvių politinių grupuočių teritorinės aspiracijos apėmė etnines lietuvių žemes Gardino gubernijoje.'
+  teiginys: "Lietuvių politinių grupuočių teritorinės aspiracijos apėmė etnines lietuvių žemes Gardino gubernijoje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "898230-898875; hash=9bd338b226d47b70f330ee8370f5e8a9bde74cdc0e2637cd95d5c8e43b4a3b28; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Piotrkovas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Piotrkovas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Piotrkovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-031
+    - c-163505
 
 <a id="claim-t-179849"></a>
-- t-020
+- t-046
   global_id: t-179849
-  teiginys: '1365 m. pradžioje Patrikas iš Gardino kartu su Kęstučiu, Algirdu ir Aleksandru Karijotaičiu puolė Skalvos žemę.'
+  teiginys: "1365 m. pradžioje Patrikas iš Gardino kartu su Kęstučiu, Algirdu ir Aleksandru Karijotaičiu puolė Skalvos žemę."
+  semantiniai_rysiai: "Patrikas (kunigaikštis, XIV a.) puolė Skalva (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1365 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys per ilgas; citata leidžia aiškiau išskirti Gardiną ir veikėją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "166401-166765; hash=e6efd701213fb716ffe8212441d0a496cdab98030a9f7748ca7c2290fae6b02e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Skalva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Patrikas (kunigaikštis, XIV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Skalva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Patrikas aiškiai įvardytas tarp Skalvos žemę puolusių asmenų."
   pagrindžia:
-    - c-045
+    - c-163533
 
 <a id="claim-t-179850"></a>
-- t-021
+- t-056
   global_id: t-179850
-  teiginys: '1390 m. sausio pradžioje Vytautas, išsiuntęs šeimą iš Gardino į Prūsiją, dar labiau įtvirtino Gardiną kaip savo buveinę.'
+  teiginys: "1390 m. sausio pradžioje Vytautas, išsiuntęs šeimą iš Gardino į Prūsiją, dar labiau įtvirtino Gardiną kaip savo buveinę."
+  temporaliniai_duomenys: "įvykio data: 1390 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir atitinka citatos informaciją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "257326-258053; hash=2f57fc040dd8e78dd8c01edb59398aa1d27625b2d107bd3f079c86ddb3034bf7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kernavė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kernavė: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Kernavė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-037
+    - c-163515
 
 <a id="claim-t-179851"></a>
-- t-022
+- t-080
   global_id: t-179851
-  teiginys: '1305 m. Konradas iš Lichtenhageno su didele kariuomene nusiaubė Gardino pilies apylinkes degindamas ir plėšdamas.'
+  teiginys: "1305 m. Konradas iš Lichtenhageno su didele kariuomene nusiaubė Gardino pilies apylinkes degindamas ir plėšdamas."
+  semantiniai_rysiai: "Konradas puolė Gardinas (0.88)"
+  temporaliniai_duomenys: "įvykio data: 1305 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako veikėją, vietą ir veiksmą, citata tai patvirtina."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "616901-617403; hash=aa835429e8529c6ca9abdbded60a67ebe6c2389a4cc97c94fb2b9558bf0c55ff; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Gardinas: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Konradas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Gardinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Gardino pilies apylinkių nusiaubimas tiesiogiai rodo Konrado karinį puolimą."
   pagrindžia:
-    - c-035
+    - c-163512
 
 <a id="claim-t-179852"></a>
-- t-023
+- t-029
   global_id: t-179852
-  teiginys: 'Vytauto laikais Gardine, Juodosios Rusios LDK žemėje, imta statyti gotikines pilis.'
+  teiginys: "Vytauto laikais Gardine, Juodosios Rusios LDK žemėje, imta statyti gotikines pilis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "897324-897744; hash=c7c3ae9efc008cf4bc1ba70e677b984ed8451821f58d7ca042e3d22c066dde81; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-006
+    - c-163475
 
 <a id="claim-t-179853"></a>
-- t-024
+- t-006
   global_id: t-179853
-  teiginys: 'Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko vyskupo Isaikovskio ir kt.'
+  teiginys: "Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko vyskupo Isaikovskio ir kt."
+  temporaliniai_duomenys: "įvykio data: 1401 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "900032-900239; hash=f5bb64e03cc18ce923a7c410833d4580f33b35d15c2bbff5496f2fb6d975137e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-011
+    - c-163480
 
 <a id="claim-t-179854"></a>
-- t-025
+- t-092
   global_id: t-179854
-  teiginys: '1380 m. gegužės 31 d. slapta taikos sutartis su kryžiuočiais buvo surašyta Dovydiškėse, turbūt arti Gardino.'
+  teiginys: "1380 m. gegužės 31 d. slapta taikos sutartis su kryžiuočiais buvo surašyta Dovydiškėse, turbūt arti Gardino."
+  temporaliniai_duomenys: "sutarties data: 1380 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis sakinys turi neaiškų įvardį, o citata leidžia įvardyti dokumentą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "751021-751219; hash=af272f6eccdff5c5d8f8a015a6035557ffedb1ebf38859442b0bb55e0f1b002e; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-036
+    - c-163514
 
 <a id="claim-t-179855"></a>
-- t-026
+- t-013
   global_id: t-179855
-  teiginys: 'Vytautas turėjo valdyti atgaunamus Trakus, Gardiną ir kitas žemes kaip Ordino vasalas.'
+  teiginys: "Vytautas turėjo valdyti atgaunamus Trakus, Gardiną ir kitas žemes kaip Ordino vasalas."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) valdė Gardinas (0.72)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "766090-766423; hash=be845951821e4e6384b6a7d81c44ed1ab18b0c466a284c51fa975d6b856613e9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Gardinas: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Gardinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas kalba apie Vytautui numatytą Gardino valdymą, bet formuluotė yra sąlyginė sutartinė."
   pagrindžia:
-    - c-027
+    - c-163498
 
 <a id="claim-t-179856"></a>
-- t-027
+- t-083
   global_id: t-179856
-  teiginys: 'Prie Trakų Kęstutis rado Vytautą, atsivedusį kariuomenės būrį iš Gardino.'
+  teiginys: "Prie Trakų Kęstutis rado Vytautą, atsivedusį kariuomenės būrį iš Gardino."
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į Trakai (0.82)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "67429-67696; hash=449c10a2ffab5c1616eebf6304f2b411eab371fdc4d4b3fce56e01697494eb45; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Trakai: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Kęstučio atvykimą prie Trakų."
   pagrindžia:
-    - c-026
+    - c-163497
 
 <a id="claim-t-179857"></a>
-- t-028
+- t-011
   global_id: t-179857
-  teiginys: 'Kęstučio valdos, apėmusios Gardino žemę, dėl artimos kaimynystės su kryžiuočių valstybe niekada nebuvo saugios.'
+  teiginys: "Kęstučio valdos, apėmusios Gardino žemę, dėl artimos kaimynystės su kryžiuočių valstybe niekada nebuvo saugios."
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valdė teritoriją Gardino žemė (0.92)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "686809-687392; hash=e7285c58f07e7f0c706db489a60ed088b81cd79718b4352734de930f32739655; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_teritorija -> Gardino žemė: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Gardino žemė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata Gardino žemę aiškiai įvardija kaip Kęstučio valdų dalį."
   pagrindžia:
-    - c-022
+    - c-163493
 
-<a id="claim-t-179858"></a>
-- t-029
-  global_id: t-179858
-  teiginys: '1503 m. Gardine Lietuvos didysis kunigaikštis Aleksandras išleido privilegiją statyti Vilniaus gynybinę mūro sieną.'
+<a id="claim-t-179895"></a>
+- t-047
+  global_id: t-179895
+  teiginys: "1503 m. Gardine Lietuvos didysis kunigaikštis Aleksandras išleido privilegiją statyti Vilniaus gynybinę mūro sieną."
+  temporaliniai_duomenys: "valdymo laikotarpis: po 1466 m.; valdymo laikotarpis: 1466 m.; valdymo laikotarpis: 1503 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Aleksandras Jogailaitis buvo valdovas Lietuva“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai sieja Gardiną su 1503 m. privilegijos išleidimu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "306671-307098; hash=77d4639e81329b1f9b97024f5cfaf1a260b636a8bd030adcee1158017d28cdf5; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aleksandras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras: mention_match, person, gap=38"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Aleksandras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-016
+    - c-163485
 
 <a id="claim-t-179859"></a>
-- t-030
+- t-027
   global_id: t-179859
-  teiginys: 'Gedimino arba Algirdo laikais Gardino pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį.'
+  teiginys: "Gedimino arba Algirdo laikais Gardino pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "53031-53549; hash=258bef618a9cd6582f66511e507956b175034bbdcaebbcba3bd7f2a35710d437; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-024
+    - c-163495
 
 <a id="claim-t-179861"></a>
-- t-031
+- t-021
   global_id: t-179861
-  teiginys: 'Vytautas Gardine donacijomis parėmė dominikonus ir pranciškonams pastatė bažnyčią.'
+  teiginys: "Vytautas Gardine donacijomis parėmė dominikonus ir pranciškonams pastatė bažnyčią."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "312157-312602; hash=33817cac3eb08cb6cbc049d48d5bb5dd8a8a01cd098f1b93536aedb864a3704c; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Domininkonų ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Domininkonų ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Domininkonų ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-37377
 
 <a id="claim-t-179862"></a>
-- t-032
+- t-062
   global_id: t-179862
-  teiginys: 'Steponas Batoras mirė Gardine 1586 m. gruodžio 12 d.'
+  teiginys: "Steponas Batoras mirė Gardine 1586 m. gruodžio 12 d."
+  semantiniai_rysiai: "Steponas Batoras mirė Gardinas (0.96)"
+  temporaliniai_duomenys: "įvykio data: 1586 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "599134-599360; hash=1191da8c8733cb165bbd8d3e404a7994ff3fb1f71e47137b94ed3f6e07cee9e1; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "mire -> Gardinas: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Steponas Batoras: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Gardinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Stepono Batoro mirtį Gardine."
   pagrindžia:
-    - c-021
+    - c-163491
 
-<a id="claim-t-179863"></a>
-- t-033
-  global_id: t-179863
-  teiginys: 'XVIII a. pabaigoje Gardine mėginta gaminti šautuvus, tačiau kariuomenės vadovybė savais gamintojais nepasitikėjo.'
+<a id="claim-t-179905"></a>
+- t-048
+  global_id: t-179905
+  teiginys: "XVIII a. pabaigoje Gardine mėginta gaminti šautuvus, tačiau kariuomenės vadovybė savais gamintojais nepasitikėjo."
+  temporaliniai_duomenys: "įvykio data: 1792 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "610687-611369; hash=03e77167080f28d1c64dfe49a446497e3d6fab79cd72c821695a24f1c28d578e; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Šautuvai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Šautuvai: mention_match, thing, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Šautuvai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-032
+    - c-163506
 
 <a id="claim-t-179865"></a>
-- t-034
+- t-065
   global_id: t-179865
-  teiginys: '1584 m. Stepono Batoro raštas buvo duotas Gardine penktadienį prieš Sekmines.'
+  teiginys: "1584 m. Stepono Batoro raštas buvo duotas Gardine penktadienį prieš Sekmines."
+  temporaliniai_duomenys: "įvykio data: 1584 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "820327-820675; hash=f8d53f12543f19df9ce24d08514d8da0c40cb992062008e5d43c7764bba7a590; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Steponas Batoras: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Steponas Batoras: mention_match, person, gap=34"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Steponas Batoras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-163476
+
+<a id="claim-t-179866"></a>
+- t-057
+  global_id: t-179866
+  teiginys: "Kovo mėnesį karalius, padedamas Skirgailos, šturmu užėmė Vytauto valdos sostine vadintą Gardiną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "258350-259030; hash=34f875e2a233731058e9b37b28a490e2bd5fab991e543b10f034bc6728cd3dca; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Brasta: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Brasta: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Brasta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  pagrindžia:
+    - c-163478
 
 <a id="claim-t-179867"></a>
-- t-036
+- t-077
   global_id: t-179867
-  teiginys: '1295 m. penki broliai ir 150 vyrų iš Sembos bei Notangos išjojo link Gardino pilies ir apiplėšė lietuvių kaimą prie Nemuno.'
+  teiginys: "1295 m. penki broliai ir 150 vyrų iš Sembos bei Notangos išjojo link Gardino pilies ir apiplėšė lietuvių kaimą prie Nemuno."
+  temporaliniai_duomenys: "įvykio data: 1295 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai pagrįstas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "589821-590305; hash=c086a6db92498d6057bfd4433f83c25ddf3bf9c32113c26a62cb26c31923eaf7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=36"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-046
+    - c-163534
 
 <a id="claim-t-179868"></a>
-- t-037
+- t-068
   global_id: t-179868
-  teiginys: 'Lietuvos teritorinės aspiracijos apėmė Vilniaus, Kauno, Suvalkų ir Gardino gubernijų lietuvių žemes bei dalį Kuršo.'
+  teiginys: "Lietuvos teritorinės aspiracijos apėmė Vilniaus, Kauno, Suvalkų ir Gardino gubernijų lietuvių žemes bei dalį Kuršo."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "898230-898875; hash=9bd338b226d47b70f330ee8370f5e8a9bde74cdc0e2637cd95d5c8e43b4a3b28; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kuršas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kuršas: mention_match, place, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Kuršas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-031
+    - c-163505
 
 <a id="claim-t-179869"></a>
-- t-038
+- t-033
   global_id: t-179869
-  teiginys: 'Rusija privertė Stanislovą Augustą 1793 m. birželio 17 d. targovitėnų valdomame Gardine sušaukti Seimą.'
+  teiginys: "Rusija privertė Stanislovą Augustą 1793 m. birželio 17 d. targovitėnų valdomame Gardine sušaukti Seimą."
+  temporaliniai_duomenys: "įvykio data: 1793 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiksliai perteikia citatos faktą apie Seimą Gardine."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "176779-177219; hash=c7af6bf970db490a83019b224559cdb6390f0174125efc93415330abb166544a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Augustas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=53"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-014
+    - c-163483
 
 <a id="claim-t-179870"></a>
-- t-039
+- t-058
   global_id: t-179870
-  teiginys: 'Švitrigaila su didžiuoju magistru Konradu Jungingenu nusiaubė prie Gardino buvusius panemunės pavietus.'
+  teiginys: "Švitrigaila su didžiuoju magistru Konradu Jungingenu nusiaubė prie Gardino buvusius panemunės pavietus."
+  semantiniai_rysiai: "Švitrigaila puolė Panemunė (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1394 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, faktinis ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "298774-299508; hash=caf8ca4df248d6f243d3c4d2a086bdf1a302975598e13d608ed368acbb18935f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Panemunė: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Panemunė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Panemunės pavietų nusiaubimas tiesiogiai rodo Švitrigailos dalyvavimą puolime."
   pagrindžia:
-    - c-042
+    - c-163528
 
 <a id="claim-t-179872"></a>
-- t-040
+- t-030
   global_id: t-179872
-  teiginys: 'Antanas Tyzenhauzas Gardine įkūrė matininkų, buhalterių, statybininkų ir veterinarų mokyklas.'
+  teiginys: "Antanas Tyzenhauzas Gardine įkūrė matininkų, buhalterių, statybininkų ir veterinarų mokyklas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "162046-162579; hash=b8696c5384851934eb866cfb5c9107985c63e66e996678cc2a4f932735700278; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antanas Tyzenhauzas (ūkio reformų veikėjas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Antanas Tyzenhauzas (ūkio reformų veikėjas): mention_match, person, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Antanas Tyzenhauzas (ūkio reformų veikėjas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-047
+    - c-163537
 
 <a id="claim-t-179873"></a>
-- t-041
+- t-081
   global_id: t-179873
-  teiginys: 'Šešiasdešimt brolių su vyrais iš Prūsijos patraukė link Gardino pilies ir pasiuntė 400 vyrų apiplėšti jos apylinkių.'
+  teiginys: "Šešiasdešimt brolių su vyrais iš Prūsijos patraukė link Gardino pilies ir pasiuntė 400 vyrų apiplėšti jos apylinkių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "746810-747296; hash=83e3b46f2d7c9c745c9311ccd99fa8c2f27006b279f70577c34d47dbe05a7459; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-025
+    - c-163496
 
 <a id="claim-t-179874"></a>
-- t-042
+- t-067
   global_id: t-179874
-  teiginys: 'Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė profesines mokyklas.'
+  teiginys: "Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė profesines mokyklas."
+  semantiniai_rysiai: "Antanas Tyzenhauzas (ūkio reformų veikėjas) siuntė į Anglija (0.93)"
+  temporaliniai_duomenys: "įkūrimo data: iki 1410 m.; įkūrimo data: 1410 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įkūrimo data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai susieja Antano Tyzenhauzo veiklą su Gardine įkurtomis mokyklomis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "897771-898097; hash=af4356a7e8725fad64a204fc8346248c482620e60b9b11d306b9c1fb4d0e2b3c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Anglija: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Antanas Tyzenhauzas (ūkio reformų veikėjas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Anglija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Antanas Tyzenhauzas siuntė jaunimą į Angliją."
   pagrindžia:
-    - c-043
+    - c-163531
 
 <a id="claim-t-179875"></a>
-- t-043
+- t-100
   global_id: t-179875
-  teiginys: 'Kęstutis paveldėjo Trakus ir Gardiną su Palenke, arba Lietuvos Brasta.'
+  teiginys: "Kęstutis paveldėjo Trakus ir Gardiną su Palenke, arba Lietuvos Brasta."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "680570-680699; hash=2c10c3a763c78bf1b3326bc58d8218a7b5245532600ecac546977565c4afd525; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Brasta: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Brasta: mention_match, place, gap=34"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Brasta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-038
+    - c-163516
 
 <a id="claim-t-179876"></a>
-- t-044
+- t-004
   global_id: t-179876
-  teiginys: 'Vytautas galėjo gauti Gardiną su Palenke, nes Trakai jau buvo atiduoti Skirgailai.'
+  teiginys: "Vytautas galėjo gauti Gardiną su Palenke, nes Trakai jau buvo atiduoti Skirgailai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "767039-767296; hash=dd30557c9f98659b7534dadeda33e0c896fe0e43be51827d8a2b9dc2ac58aacf; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Trakai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Trakai: mention_match, place, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-32050
 
 <a id="claim-t-179877"></a>
-- t-045
+- t-079
   global_id: t-179877
-  teiginys: 'Henrikas Cutsvertas puolė Gardino pilį, bet dėl stipraus pilėnų pasipriešinimo ir daugybės sužeistųjų pasitraukė nepasiekęs tikslo.'
+  teiginys: "Henrikas Cutsvertas puolė Gardino pilį, bet dėl stipraus pilėnų pasipriešinimo ir daugybės sužeistųjų pasitraukė nepasiekęs tikslo."
+  semantiniai_rysiai: "Henrikas Cutsvertas puolė Gardinas (0.94)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "598513-599354; hash=a7cd9a02eb922ae55c36638f7d6def3782d4f4bda4c72302a154880f5f61b03c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Gardinas: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Henrikas Cutsvertas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Gardinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad Henrikas Cutsvertas sumanė pulti Gardino pilį."
   pagrindžia:
-    - c-029
+    - c-163502
 
 <a id="claim-t-179878"></a>
-- t-046
+- t-076
   global_id: t-179878
-  teiginys: '1586 m. gruodžio 12 d. Gardine netikėtai mirė Steponas Batoras, ir ši mirtis nuliūdino Vilnių bei visą šalį.'
+  teiginys: "1586 m. gruodžio 12 d. Gardine netikėtai mirė Steponas Batoras, ir ši mirtis nuliūdino Vilnių bei visą šalį."
+  semantiniai_rysiai: "Steponas Batoras mirė Gardinas (0.96)"
+  temporaliniai_duomenys: "įvykio data: 1586 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalinti laužyti žodžiai, sakinys išlaiko citatos faktą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "599134-599360; hash=1191da8c8733cb165bbd8d3e404a7994ff3fb1f71e47137b94ed3f6e07cee9e1; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "mire -> Gardinas: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Steponas Batoras: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Gardinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Steponas Batoras mirė Gardine."
   pagrindžia:
-    - c-021
+    - c-163491
 
 <a id="claim-t-179879"></a>
-- t-047
+- t-078
   global_id: t-179879
-  teiginys: 'Gardine atsirado jėzuitų kolegija, funduota Smolensko vyskupo Isaikovskio ir kitų rėmėjų.'
+  teiginys: "Gardine atsirado jėzuitų kolegija, funduota Smolensko vyskupo Isaikovskio ir kitų rėmėjų."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "898709-899199; hash=ea604f7d83a7d76a6966e0ce04cd21eec1399d6accd5bd8459e1585ab5536b0c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Smolenskas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Smolenskas: mention_match, place, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Smolenskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-21453
 
 <a id="claim-t-179880"></a>
-- t-048
+- t-064
   global_id: t-179880
-  teiginys: '1501 m. dokumentas buvo aktuotas ir duotas Gardine šeštadienį po šv. Baltramiejaus šventės.'
+  teiginys: "1501 m. dokumentas buvo aktuotas ir duotas Gardine šeštadienį po šv. Baltramiejaus šventės."
+  temporaliniai_duomenys: "įvykio data: 1501 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "702327-703042; hash=d0b01a5b872500455acf63b848a6b05cd11a2f0cc344d4ea64c99be652627cd6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antspaudas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Antspaudas: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Antspaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-048
+    - c-163540
 
 <a id="claim-t-179881"></a>
-- t-049
+- t-073
   global_id: t-179881
-  teiginys: 'Balińskis Garteną tapatino su Gardinu ir minėjo jį kaip valsčių bei pilį netoli Pagraudenės.'
+  teiginys: "Balińskis Garteną tapatino su Gardinu ir minėjo jį kaip valsčių bei pilį netoli Pagraudenės."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "125611-126580; hash=dc09acc6ab3bc242da4284de39972780d7504a6c2b1c2e5a4675b121b9df55ff; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pagraudenė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Pagraudenė: mention_match, place, gap=50"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Pagraudenė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-044
+    - c-163532
 
 <a id="claim-t-179882"></a>
-- t-050
+- t-074
   global_id: t-179882
-  teiginys: '1390 m. sausio pradžioje Vytautas išsiuntė šeimą iš Gardino į Prūsiją ir dar labiau įtvirtino Gardiną kaip savo buveinę.'
+  teiginys: "1390 m. sausio pradžioje Vytautas išsiuntė šeimą iš Gardino į Prūsiją ir dar labiau įtvirtino Gardiną kaip savo buveinę."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) gyveno Gardinas (0.92); Vytautas (Lietuvos valdovas, XIV–XV a.) siuntė į Prūsija (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1390 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiksliai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "257198-257831; hash=260e90123c56d5149e97f632d71275d7d0ca9efe008b60e035fb6c613e460003; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Gardinas: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Gardinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Gardiną kaip Vytauto buveinę įvardijanti frazė tiesiogiai rodo gyvenamąją rezidenciją."
   pagrindžia:
-    - c-033
+    - c-163508
 
 <a id="claim-t-179883"></a>
-- t-051
+- t-084
   global_id: t-179883
-  teiginys: 'Vytautas dominikonus parėmė donacijomis Gardine, Lucke ir Naugardėlyje.'
+  teiginys: "Vytautas dominikonus parėmė donacijomis Gardine, Lucke ir Naugardėlyje."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) rėmė Domininkonų ordinas (0.93)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "312043-312498; hash=ac785ce0dd53e2362084d356306ff2491b96ea6dabd826224bbf538f3a21c67f; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Domininkonų ordinas: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Domininkonų ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Vytautas tiesiogiai įvardytas kaip donacijomis parėmęs domininkonus."
   pagrindžia:
-    - c-018
+    - c-163487
 
 <a id="claim-t-179885"></a>
-- t-052
+- t-022
   global_id: t-179885
-  teiginys: 'Jogaila grąžino Vytautui jo tėviškę, įskaitant Trakus ir Gardiną, ir pridėjo kitų žemių.'
+  teiginys: "Jogaila grąžino Vytautui jo tėviškę, įskaitant Trakus ir Gardiną, ir pridėjo kitų žemių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "392015-392300; hash=8a80485505d95893676141c93de367a43f7fa09884d7228f606cc98321c96209; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=57"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-019
+    - c-163488
 
 <a id="claim-t-179886"></a>
-- t-053
+- t-086
   global_id: t-179886
-  teiginys: 'Jaučių daugiau buvo laikoma Vilniaus ir Gardino apylinkėse.'
+  teiginys: "Jaučių daugiau buvo laikoma Vilniaus ir Gardino apylinkėse."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "599820-600175; hash=a071a397671580e22d98fb004e39bd6398a6e4a27e1ca51224c419681c75a652; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-030
+    - c-163504
 
 <a id="claim-t-179887"></a>
-- t-054
+- t-019
   global_id: t-179887
-  teiginys: 'Prie Trakų Kęstutis rado Vytautą, kuris buvo atsivedęs kariuomenės būrį iš Gardino.'
+  teiginys: "Prie Trakų Kęstutis rado Vytautą, kuris buvo atsivedęs kariuomenės būrį iš Gardino."
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į Trakai (0.82)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "67429-67696; hash=449c10a2ffab5c1616eebf6304f2b411eab371fdc4d4b3fce56e01697494eb45; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Trakai: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Kęstučio atvykimą prie Trakų."
   pagrindžia:
-    - c-026
+    - c-163497
 
 <a id="claim-t-179888"></a>
-- t-055
+- t-026
   global_id: t-179888
-  teiginys: 'Ordino magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikštijos sričių, tarp jų Gardino.'
+  teiginys: "Ordino magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikštijos sričių, tarp jų Gardino."
+  temporaliniai_duomenys: "įvykio data: 1379 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai atitinka citatoje aprašytą Ordino magistrų pasižadėjimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "670616-671103; hash=1ce11cba5fc76d46d7066241fc8e432d7d6d7758e251450f2a05ae3ccbe90bff; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-017
+    - c-163486
 
 <a id="claim-t-179889"></a>
-- t-056
+- t-091
   global_id: t-179889
-  teiginys: '1392 m. birželio gale prie Nemuno buvo sudegintas Naujasis Gardinas, Metena ir Ritterswerderis.'
+  teiginys: "1392 m. birželio gale prie Nemuno buvo sudegintas Naujasis Gardinas, Metena ir Ritterswerderis."
+  temporaliniai_duomenys: "įvykio data: iki 1398 m.; įvykio data: 1392 m.; įvykio data: 1398 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir neaiškus sakinio subjektas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "842705-843075; hash=e23bdb17c392778483ceea6628f11bb1db8a019579e51914f17753bc8c0aaf74; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Metena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Metena: mention_match, place, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Metena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-013
+    - c-163482
 
 <a id="claim-t-179890"></a>
-- t-057
+- t-032
   global_id: t-179890
-  teiginys: '1792 m. rugsėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į Abiejų Tautų konfederaciją ir centru paskelbė Gardiną.'
+  teiginys: "1792 m. rugsėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į Abiejų Tautų konfederaciją ir centru paskelbė Gardiną."
+  temporaliniai_duomenys: "įvykio data: 1792 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo datą, veikėjus, susijungimą ir Gardino paskelbimą centru."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "176191-176777; hash=4663e7ce2d9cc3e5859632b78331207539e42b2ad2b21e75cf22166abdba12cd; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Brasta: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Brasta: mention_match, place, gap=67"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Brasta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-041
+    - c-163527
 
 <a id="claim-t-179891"></a>
-- t-058
+- t-045
   global_id: t-179891
-  teiginys: 'Vasarą maršalo pajėgos žygiavo Gardino link ir bandė pereiti Nemuną brasta, bet buvo sustabdytos.'
+  teiginys: "Vasarą maršalo pajėgos žygiavo Gardino link ir bandė pereiti Nemuną brasta, bet buvo sustabdytos."
+  temporaliniai_duomenys: "įvykio data: 1361 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys pataisytas pašalinant neaiškų įvardį ir išlaikant citatos faktus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "150705-151033; hash=4b4b64af6460120ece08bc03345a0c9e9fd1852f8d36973c9157d3069173851a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Nemunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Nemunas: mention_match, place, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-020
+    - c-163490
 
 <a id="claim-t-179894"></a>
-- t-059
+- t-016
   global_id: t-179894
-  teiginys: '1401 m. rudenį buvo teriojamos Kauno ir Gardino sritys.'
+  teiginys: "1401 m. rudenį buvo teriojamos Kauno ir Gardino sritys."
+  temporaliniai_duomenys: "įvykio data: 1401 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Gardino srities teriojimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "900032-900239; hash=f5bb64e03cc18ce923a7c410833d4580f33b35d15c2bbff5496f2fb6d975137e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-011
+    - c-163480
+
+<a id="claim-t-179895"></a>
+- t-047
+  global_id: t-179895
+  teiginys: "1503 m. Gardine Lietuvos didysis kunigaikštis Aleksandras išleido privilegiją statyti Vilniaus gynybinę mūro sieną."
+  temporaliniai_duomenys: "valdymo laikotarpis: po 1466 m.; valdymo laikotarpis: 1466 m.; valdymo laikotarpis: 1503 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Aleksandras Jogailaitis buvo valdovas Lietuva“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai sieja Gardiną su 1503 m. privilegijos išleidimu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "306671-307098; hash=77d4639e81329b1f9b97024f5cfaf1a260b636a8bd030adcee1158017d28cdf5; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aleksandras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras: mention_match, person, gap=38"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Aleksandras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-163485
 
 <a id="claim-t-179896"></a>
-- t-061
+- t-023
   global_id: t-179896
-  teiginys: '1429 m. rugsėjo 29 d. Vytautas svečius priėmė savo dvare Gardine.'
+  teiginys: "1429 m. rugsėjo 29 d. Vytautas svečius priėmė savo dvare Gardine."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) gyveno Gardinas (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1429 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra trumpas, gramatiškas ir paremtas citata apie Vytauto dvarą Gardine."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "548584-548650; hash=92f0b4c29f6046c0345f6989816141a4a8005cd4e3f1b74eb52f2384d5481ed8; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Gardinas: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Gardinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vytauto dvaras Gardine rodo jo rezidavimą ar gyvenamąją buveinę ten."
   pagrindžia:
-    - c-001
+    - c-14876
 
 <a id="claim-t-179897"></a>
-- t-062
+- t-060
   global_id: t-179897
-  teiginys: '1568 m. birželio 15 d. Lietuvos seimas Gardine apsaugojo miestiečius nuo dvariškių, valdininkų ir pasiuntinių apgyvendinimo be miesto tarybos leidimo.'
+  teiginys: "1568 m. birželio 15 d. Lietuvos seimas Gardine apsaugojo miestiečius nuo dvariškių, valdininkų ir pasiuntinių apgyvendinimo be miesto tarybos leidimo."
+  temporaliniai_duomenys: "įvykio data: 1568 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "558298-558994; hash=ba20b5820158fd69bf992f485ed422de0a457e7046df99a037c4b94115209a96; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gardino seimas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gardino seimas: mention_match, group, gap=7"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Gardino seimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-010
+    - c-163479
 
 <a id="claim-t-179900"></a>
-- t-063
+- t-070
   global_id: t-179900
-  teiginys: 'Lietuviai pretendavo į buvusios Rusijos imperijos Gardino gubernijos žemes, kurias Rusijos vyriausybės tradiciškai vadindavo lietuviškomis.'
+  teiginys: "Lietuviai pretendavo į buvusios Rusijos imperijos Gardino gubernijos žemes, kurias Rusijos vyriausybės tradiciškai vadindavo lietuviškomis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "280107-280512; hash=755dd9ba311e4fa08d89935e483b41c108b0d07b11c750128cb70743660fabbb; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=50"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-028
+    - c-163499
 
 <a id="claim-t-179902"></a>
-- t-064
+- t-014
   global_id: t-179902
-  teiginys: 'Vytautas, negavęs Skirgailai atiduotų Trakų, galėjo gauti tik Gardiną su Palenke.'
+  teiginys: "Vytautas, negavęs Skirgailai atiduotų Trakų, galėjo gauti tik Gardiną su Palenke."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "767039-767296; hash=dd30557c9f98659b7534dadeda33e0c896fe0e43be51827d8a2b9dc2ac58aacf; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Trakai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Trakai: mention_match, place, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-32050
 
 <a id="claim-t-179903"></a>
-- t-065
+- t-095
   global_id: t-179903
-  teiginys: '1586 metų gruodžio 13 dieną Gardine Lietuvos ponų taryba parengė laišką dėl Turkijos čiaušo Ibrahimo apgyvendinimo Vilniuje.'
+  teiginys: "1586 metų gruodžio 13 dieną Gardine Lietuvos ponų taryba parengė laišką dėl Turkijos čiaušo Ibrahimo apgyvendinimo Vilniuje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "690267-692702; hash=7b9034269703c944674276d6e520f25dc38785256625ace032e4b2d671cfc998; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-034
+    - c-163509
+
+<a id="claim-t-179905"></a>
+- t-048
+  global_id: t-179905
+  teiginys: "XVIII a. pabaigoje Gardine mėginta gaminti šautuvus, tačiau kariuomenės vadovybė savais gamintojais nepasitikėjo."
+  temporaliniai_duomenys: "įvykio data: 1792 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "610687-611369; hash=03e77167080f28d1c64dfe49a446497e3d6fab79cd72c821695a24f1c28d578e; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Šautuvai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Šautuvai: mention_match, thing, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Šautuvai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-163506
 
 <a id="claim-t-179906"></a>
-- t-067
+- t-037
   global_id: t-179906
-  teiginys: 'Užsienio lietuvių atstovai siūlė į „Lithuania Propria“ ribas įtraukti Gardino apskritį.'
+  teiginys: "Užsienio lietuvių atstovai siūlė į „Lithuania Propria“ ribas įtraukti Gardino apskritį."
+  temporaliniai_duomenys: "įvykio data: 1917 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "261044-261858; hash=7ce9d074861a8a3cb0f2e9a832cb4f5f1e1b46b78dd589ad6f8f1a899f804621; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Alūkšta: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Alūkšta: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Alūkšta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-015
+    - c-163484
+
+<a id="claim-t-183784"></a>
+- t-101
+  global_id: t-183784
+  teiginys: "Vasarą maršalo pajėgos žygiavo Gardino link ir bandė pereiti Nemuną brasta, bet buvo sustabdytos."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "150604-150986; hash=29f31a343366ad99425712c42df4507527939621c08a98ea75ae45aed0643824; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Nemunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Nemunas: mention_match, place, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-167172
 
 <a id="claim-t-184950"></a>
-- t-069
+- t-102
   global_id: t-184950
-  teiginys: 'Skomantas su prūsų kariais patraukė Gardino kryptimi, paėmė Gardino pilį, išžudė įgulą ir sugriovė įtvirtinimus.'
+  teiginys: "Skomantas su prūsų kariais patraukė Gardino kryptimi, paėmė Gardino pilį, išžudė įgulą ir sugriovė įtvirtinimus."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Skomantas užėmė Gardinas (0.95)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "267286-267637; hash=9e5a1d474a5a30ea10687499e7e0a5f866cec07554ae6c1bfa0fd224b82f3c7a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Gardinas: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skomantas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Gardinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Skomantas paėmė Gardino pilį."
   pagrindžia:
-    - c-050
+    - c-168311
 
 <a id="claim-t-184951"></a>
-- t-070
+- t-103
   global_id: t-184951
-  teiginys: 'Magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.'
+  teiginys: "Magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Konradas puolė Lietuva (0.90); Konradas puolė Gardinas (0.90)"
+  temporaliniai_duomenys: "įvykio data: po 1304 m.; įvykio data: 1304 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnai perteikia citatoje nurodytą faktą apie Gardino krašto nuniokojimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "311777-312349; hash=89a4b7a11186fa1af2d4092419caa73b43a7dcc7c14e38c22843568ffbfb0af2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Gardinas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Konradas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Gardinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Gardino krašto nuniokojimas tiesiogiai rodo Konrado puolimą prieš Gardino kraštą."
   pagrindžia:
-    - c-051
+    - c-168312
 
 <a id="claim-t-184952"></a>
-- t-071
+- t-104
   global_id: t-184952
-  teiginys: 'Magistras Konradas įsakė Albertui Hagenui staiga užpulti ir užimti Gardino pilį bei miestą.'
+  teiginys: "Magistras Konradas įsakė Albertui Hagenui staiga užpulti ir užimti Gardino pilį bei miestą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "314133-314628; hash=0887eabfb6cd43d0933024f3bbf92af532b8871ea25b79c3bb5b0771289be194; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Konradas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Konradas: mention_match, person, gap=57"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Konradas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-052
+    - c-168313
 
 <a id="claim-t-184953"></a>
-- t-072
+- t-105
   global_id: t-184953
-  teiginys: 'Vilniuje ir Gardine siautęs maras lėmė, kad karalius likusius žiemos mėnesius praleido Kaune.'
+  teiginys: "Vilniuje ir Gardine siautęs maras lėmė, kad karalius likusius žiemos mėnesius praleido Kaune."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "904616-905101; hash=b9d06e0ec0747294d6aaaa49fbfcd901e425b8a5c24d6d884bd39a38c9832ebc; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=75"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-053
+    - c-168314
 
 <a id="claim-t-184954"></a>
-- t-073
+- t-106
   global_id: t-184954
-  teiginys: 'Gardino seime luomai svarstė valstybės reikalus, kai Mengli Girėjaus pasiuntiniai pranešė apie Maniako rengiamą karą prieš Rusią.'
+  teiginys: "Gardino seime luomai svarstė valstybės reikalus, kai Mengli Girėjaus pasiuntiniai pranešė apie Maniako rengiamą karą prieš Rusią."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1468 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pašalina citatos OCR triukšmą ir yra pilnas faktinis sakinys apie Gardino seimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "911726-912430; hash=b0c283192686302b6549a0e4c481587a9988b0d5a3302a9c3e95bac291c0d488; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> luomai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "luomai: mention_match, thing, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"luomai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-054
+    - c-168315
 
 <a id="claim-t-188693"></a>
 - t-074
   global_id: t-188693
-  teiginys: 'Gardinas buvo aprašytas kaip miestas prie Krono upės, kuri vėliau vadinta Nemunu.'
+  teiginys: "Gardinas buvo aprašytas kaip miestas prie Krono upės, kuri vėliau vadinta Nemunu."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "820327-820675; hash=f8d53f12543f19df9ce24d08514d8da0c40cb992062008e5d43c7764bba7a590; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Gardinas: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Gardinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Gardiną kaip Vytauto buveinę įvardijanti frazė tiesiogiai rodo gyvenamąją rezidenciją."
   pagrindžia:
-    - c-055
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171582
+
 <a id="claim-t-188694"></a>
 - t-075
   global_id: t-188694
-  teiginys: 'Narbutas nurodė iš Gardino gavęs ištrauką iš lotyniško in folio veikalo, kuriame buvo XVI a. Gardino raižinys.'
+  teiginys: "Narbutas nurodė iš Gardino gavęs ištrauką iš lotyniško in folio veikalo, kuriame buvo XVI a. Gardino raižinys."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "897324-897744; hash=c7c3ae9efc008cf4bc1ba70e677b984ed8451821f58d7ca042e3d22c066dde81; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Brasta: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Brasta: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Brasta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-056
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171583
+
 <a id="claim-t-188695"></a>
 - t-076
   global_id: t-188695
-  teiginys: 'Narbutas abejojo, ar Lietuvos seimas posėdžiavo Gardine 1567 m., nes vien kronikos šios abejonės nepašalino.'
+  teiginys: "Narbutas abejojo, ar Lietuvos seimas posėdžiavo Gardine 1567 m., nes vien kronikos šios abejonės nepašalino."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: iki 1410 m.; įvykio data: 1410 m.; įvykio data: 1567 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys performuluotas kaip Narbuto istoriografinė abejonė. Nepridėta Piotrkovo seimo detalė, nes ji yra platesnis kontekstas."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "897771-898097; hash=af4356a7e8725fad64a204fc8346248c482620e60b9b11d306b9c1fb4d0e2b3c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-057
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171584
+
 <a id="claim-t-188696"></a>
 - t-077
   global_id: t-188696
-  teiginys: 'Narbutas manė, kad karalius, nenutraukęs karo veiksmų, 1567 m. pabaigoje skubėjo sušaukti seimą Gardine.'
+  teiginys: "Narbutas manė, kad karalius, nenutraukęs karo veiksmų, 1567 m. pabaigoje skubėjo sušaukti seimą Gardine."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1567 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Motyvo ir tikimybės kalba palikta su Narbuto atribucija. Sanguškos ir Chodkevičiaus pozicijos nepridėtos, kad sakinys liktų glaustas."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "898230-898875; hash=9bd338b226d47b70f330ee8370f5e8a9bde74cdc0e2637cd95d5c8e43b4a3b28; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Piotrkovas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Piotrkovas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Piotrkovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-058
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171585
+
 <a id="claim-t-188697"></a>
 - t-078
   global_id: t-188697
-  teiginys: 'Narbutas rašė, kad Gardine aprašomas seimas pradėjo posėdžiauti 1568 m. vasarį, o balandžio 28 d. ten buvo karalius.'
+  teiginys: "Narbutas rašė, kad Gardine aprašomas seimas pradėjo posėdžiauti 1568 m. vasarį, o balandžio 28 d. ten buvo karalius."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1568 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas Gardino seimo laikas ir archyvinis argumentas sutrauktas į vieną sakinį. Palikta atribucija, nes tai Narbuto istoriografinė rekonstrukcija."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "898709-899199; hash=ea604f7d83a7d76a6966e0ce04cd21eec1399d6accd5bd8459e1585ab5536b0c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> seimas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "seimas: mention_match, thing, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"seimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-059
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171586
+
+<a id="claim-t-193636"></a>
+- t-107
+  global_id: t-193636
+  teiginys: "Vytautas perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine, Naugarduke ir Lucke."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "102890-103321; hash=5bd425294d62e93ae2b6e31e114d24a183bfec2a566273b32cca60671f95574b; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-176307
 - susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-184829|Skomantas]]: Skomantas, neseniai pabėgęs į Prūsiją, su prūsų kariais puolė Gardiną, paėmė pilį, išžudė įgulą ir sunaikino įtvirtinimus.
 - susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-184829|Skomantas]]: Skomantas, neseniai pabėgęs į Prūsiją, su prūsų kariais puolė Gardiną, paėmė pilį, išžudė įgulą ir sunaikino įtvirtinimus.
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113991|Steponas Batoras]]: Steponas Batoras mirė Gardine 1586 m. gruodžio 12 d., o jo mirtis nuliūdino Vilnių ir visą šalį.
@@ -724,6 +1714,7 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
 - susijęs iš Brasta: Kęstutis buvo gavęs ilgą vakarų pasienio ruožą, kuriam priklausė Trakai, Palenkė, Gardinas ir Brasta.
 - susijęs iš Brasta: Kęstutis buvo gavęs ilgą vakarų pasienio ruožą su Trakais, Palenke, Gardinu ir Brasta.
 - susijęs iš [[objektai/asmenys/Adolfas fon Vintimelis.md#claim-t-186172|Adolfas fon Vintimelis (didikas)]]: Adolfas fon Vintimelis su kitais Reino krašto didikais atvyko į Prūsiją prieš Konrado žygį į Lietuvą.
+- susijęs iš [[objektai/asmenys/Albertas.md#claim-t-190837|Albertas]]: Narbutas Albertą vadina Prūsijos ir Livonijos arkivyskupu, kurio kivirčą su kryžiuočiais sprendė popiežiaus bulė.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10666|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Krėvą ir Vitebską.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176299|Algirdas (Lietuvos valdovas)]]: Po Vilniaus pilių įkūrimo Vilnius tapo Algirdo sostine.
 - susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46003|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Tyzenhauzo reformos buvo vienas iš svarbiausių XVIII a.
@@ -796,6 +1787,7 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176766|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Didysis nuo pirmos krikšto dienos aktyviai dalyvavo krikštijime, aiškino tikėjimą ir ragino žmones krikštytis.
 - susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173320|Žygimantas Senasis]]: 1536 m. rugpjūčio 6 d. Žygimantas Senasis suteikė privilegiją rinkti muitą už perėjimą tiltu per Viliją.
 - susijęs iš [[objektai/autoriai/H. Łowmiański.md#claim-t-30633|H. Łowmiański]]: H. Łowmiańskis bandė seniausias lietuvių sienas nukelti iki Merkinės, Eišiškių ir Šalčininkų linijos.
+- susijęs iš [[objektai/autoriai/Jordanas.md#claim-t-190739|Jordanas]]: Narbutas vaizduoja Jordaną kaip labiau žavėjusįsi ostgotų žygdarbiais negu aprašiusį gotus, likusius kairiajame Vyslos krante.
 - susijęs iš [[objektai/autoriai/Jornandesas.md#claim-t-88069|Jornandesas]]: Jornandesas Vyslos žiotyse gyvenusiai tautai suteikė vidivarijų vardą.
 - susijęs iš [[objektai/autoriai/Paszkiewicz H.md#claim-t-64803|Paszkiewicz H]]: H. Paszkiewicziaus darbas sieja aptariamą antpuolį su Traidenio politika vakaruose.
 - susijęs iš [[objektai/autoriai/Thunmanas.md#claim-t-88082|Thunmanas]]: Thunmano tyrinėjimus ir prielaidas apie lietuvių tautos kilmę Balinskis laikė panašiausiais į tiesą.
@@ -803,6 +1795,7 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
 - susijęs iš [[objektai/daiktai/Vilniaus miestiečių bajorų herbai ir skiriamieji ženklai.md#claim-t-87100|Vilniaus miestiečių bajorų herbai ir skiriamieji ženklai]]: Gardino seimo privilegija leido Vilniaus magistrato pareigas ėjusiems miestiečiams priimti bajorų herbus tik gavus atitinkamos giminės sutikimą.
 - susijęs iš [[objektai/daiktai/Vilniaus miesto antspaudas ir herbas su šv. Kristoforu.md#claim-t-87062|Vilniaus miesto antspaudas ir herbas su šv. Kristoforu]]: Viešiesiems reikalams Vilniaus magistratas turėjo naudoti senąjį miesto antspaudą su šv. Kristoforo atvaizdu raudoname lake.
 - susijęs iš [[objektai/grupes/Abiejų Tautų konfederacija.md#claim-t-19623|Abiejų Tautų konfederacija]]: 1792 m. rugsėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į Abiejų Tautų konfederaciją.
+- susijęs iš [[objektai/grupes/Alanai.md#claim-t-192364|Alanai]]: Pasak Narbuto cituojamo Amiano Marcelino, dalis alanų apsigyveno Vyslos ir Nemuno tarpupyje.
 - susijęs iš [[objektai/grupes/Aukščiausioji Santarvininkių Taryba.md#claim-t-72029|Aukščiausioji Santarvininkių Taryba (institucija)]]: Suvalkų sutartis demarkacijos liniją Suvalkų krašte nustatė pagal 1919 m. gruodžio 8 d. Aukščiausiosios Santarvės Tarybos liniją.
 - susijęs iš [[objektai/grupes/Aukščiausioji Santarvininkių Taryba.md#claim-t-72031|Aukščiausioji Santarvininkių Taryba (institucija)]]: 1919 m. gruodžio 8 d. Aukščiausioji Santarvės Taryba nustatė demarkacijos liniją Suvalkų krašte, vadintą Kerzono linija.
 - susijęs iš [[objektai/grupes/Aukščiausioji Santarvininkių Taryba.md#claim-t-72032|Aukščiausioji Santarvininkių Taryba (institucija)]]: Suvalkų sutartis demarkacijos liniją Suvalkų krašte nustatė pagal 1919 m. gruodžio 8 d. Aukščiausiosios Santarvės Tarybos liniją.
@@ -821,6 +1814,7 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179227|Lietuviai]]: Lietuvos kariuomenė pradėjo rinktis gegužės pabaigoje arba birželio pradžioje.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179269|Lietuviai]]: Priėmus Gegužės trečiosios konstituciją prasidėjusiose diskusijose Lietuvos atstovai konstituciją manė esant savo nuolaida valstybės stiprinimo vardan (už konstituciją balsavo 30 iš 50 LDK seimūnų).
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179343|Lietuviai]]: Lietuvos kariuomenė pradėjo rinktis gegužės pabaigoje arba birželio pradžioje.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-192429|Lietuviai]]: Teodoras Narbutas, remdamasis padavimais ir senaisiais autoriais, teigė, kad lietuvių genties tautoms žemės priklausė dar gerokai prieš VI amžių.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169681|Lietuvos Didžioji Kunigaikštija]]: 1840 m. panaikinus Lietuvos Statutą ir surusinus teismus, buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169690|Lietuvos Didžioji Kunigaikštija]]: Istorinėje Lietuvoje gyvenę žydai šalį vadino „Lite“, o save – „litvakais“.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-169702|Lietuvos Didžioji Kunigaikštystė]]: 1840 m. panaikinus Lietuvos Statutą ir surusinus teismus, buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu.
@@ -880,6 +1874,7 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
 - susijęs iš Fulvio Ruggieri aprašymas apie Lenkijos ir Lietuvos kariuomenes (1572 m.): Fulvio Ruggieri 1572 m. aprašė, kad kavalerijoje kapitonas vadovavo šimtui raitininkų, o pėstininkų kapitonas paprastai turėjo 200 pėstininkų.
 - susijęs iš Gedimino laiškai ordinams ir Hanzos miestams: 1323 m. notaro parengtas autentiškas Gedimino laiškų ordinams ir Hanzos miestams dokumentas buvo Karaliaučiaus slaptajame archyve.
 - susijęs iš Gedimino laiškai: Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumentas buvo Karaliaučiaus Slaptajame archyve, o Kotzebue juos paskelbė „Prūsijos istorijoje“.
+- susijęs iš Kirchen Geschichte: Teodoras Narbutas nurodo, kad „Kirchen Geschichte“ esantys dalykai pažodžiui paimti iš Enėjaus Silvijaus.
 - susijęs iš LLV ir Rusijos taikos sutartis (1793 m.): 1793 m. Gardino Seimas turėjo pritarti naujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą.
 - susijęs iš Lenkijos ir Lietuvos kariuomenių struktūros aprašymas (1572 m.): 1572 m. Lenkijos ir Lietuvos kariuomenių struktūros aprašyme teigiama, kad kiekvienas vaivada buvo viršiausias tarp savųjų.
 - susijęs iš Lietuvos Metrika (XIV knyga): 1529 m. Lietuvos Metrikos XIV knyga liudijo, kad Vilnius mokėjo 1500 kapų grašių krikščionių mokesčio.
@@ -1012,6 +2007,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
 - susijęs iš [[objektai/zodynas/alodas alodinė nuosavybė.md#claim-t-71204|alodas / alodinė nuosavybė]]: Gardino pilininko Dovydo alodas vadinamas dvaru ir buvo Notangos vyrų sudegintas iki pamatų.
 - susijęs iš [[objektai/zodynas/alodas alodinė nuosavybė.md#claim-t-71205|alodas / alodinė nuosavybė]]: Gardino pilininko Dovydo alodas, arba dvaras, buvo užpultas ir sudegintas iki pamatų.
 - susijęs iš [[objektai/zodynas/alodas dvaras.md#claim-t-58887|alodas dvaras]]: 1324 m. kovo 1 d. trys broliai ir 600 Notangos vyrų užpuolė Dovydo Gardiniškio alodą, arba dvarą, ir jį sudegino.
+- susijęs iš [[objektai/zodynas/chorunžuos.md#claim-t-192224|chorunžuos]]: Narbutas „chorunžuos“ aiškina kaip karinius valsčius Peluzijoje.
+- susijęs iš [[objektai/zodynas/chorunžuos.md#claim-t-192225|chorunžuos]]: Narbutas mini tris „chorunžuos“: Merkio, Eišiškių ir Rodūnės karinius valsčius.
 - susijęs iš [[objektai/zodynas/dijokas.md#claim-t-187550|dijokas]]: Maskvos didžiojo kunigaikščio Ivano Vasiljevičiaus pasiuntinių grupėje su Elena į Lietuvą vyko dijokas Vasilijus Kulešinas.
 - susijęs iš [[objektai/zodynas/gubernija apskritis (ujezd).md#claim-t-22156|gubernija apskritis (ujezd)]]: Aneksuotoje teritorijoje iš pradžių kurtos dvi gubernijos po metų buvo sujungtos į vieną Lietuvos guberniją.
 - susijęs iš [[objektai/zodynas/gubernija.md#claim-t-22158|gubernija]]: Aneksuotoje teritorijoje iš pradžių kurtos dvi gubernijos po metų buvo sujungtos į vieną Lietuvos guberniją.
@@ -1043,6 +2040,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179088|Kryžiuočių ordinas]]: 1390 m. sausio 19 d. netoli Gardino pilies Ordino komtūras sudarė sutartį su Vytautu.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-183887|Lietuviai]]: Lietuvos karalius, sužinojęs apie Gardino pilies papilio sunaikinimą, nusiuntė pilies ginti daug rinktinių karių.
 - susijęs iš Kaunas: Planuota siena žemupyje buvo išvesta taip, kad Kaunas ir Rumšiškių plotas turėjo patekti Ordinui.
+- susijęs iš [[objektai/zodynas/chorunžuos.md#claim-t-192224|chorunžuos]]: Narbutas „chorunžuos“ aiškina kaip karinius valsčius Peluzijoje.
+- susijęs iš [[objektai/zodynas/chorunžuos.md#claim-t-192225|chorunžuos]]: Narbutas mini tris „chorunžuos“: Merkio, Eišiškių ir Rodūnės karinius valsčius.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-184012|papilys]]: 1306 m. Albrechtas iš Hageno su Ordino pajėgomis įsiveržė į didelį ir gausiai gyvenamą Gardino papilį ir jį sudegino.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-58784|papilys]]: 1306 m. Albrechtas iš Hageno su Ordino pajėgomis įsiveržė į Gardino papilį, išžudė arba paėmė į nelaisvę žmones ir papilį sudegino.
 - susijęs iš [[objektai/ivykiai/Kazimiero Jogailaičio mirtis ir palaidojimas.md#claim-t-186768|Kazimiero Jogailaičio mirtis ir palaidojimas]]: Nuo 1492 m. gegužės 16 d. Kazimieras Jogailaitis tikrai buvo Gardine.
@@ -1054,17 +2053,20 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179677|Skirgaila]]: Vytautas negalėjo taikstytis su Skirgailos paaukštinimu, todėl Gardine susimokė išvyti Skirgailą iš sostinės ir paimti valdžią.
 - susijęs iš [[objektai/asmenys/Žygimantas.md#claim-t-188656|Žygimantas]]: Karalius Žygimantas 1567 m. pabaigoje skubėjo sušaukti Gardino seimą ir išsiuntinėjo universalus Lietuvai.
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tuos sve­
     čius Vytautas priėmė savo dvare, Gardine (1429. IX. 29).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-061
+
 - c-002
   santrauka: 'Vaclovas pripažino Ordinui Žemaičius ir visą kairiąją Panemunę iki Gardino.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -1075,11 +2077,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     tu apkaltino Vaclovą šališkumu ir, pratęsę paliaubas su ordinu
     iki 1410 m. šv. Jono (birželio 24 d.), ėmė ruoštis dideliam žygiui.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1097,11 +2101,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     kiuose (Minkevičių f-ja), Brastoje (vicekanclerio L. K. Sa-
     piegos f-ja).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-047
+
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1111,11 +2117,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     nusileisti, bet savo šalininkų buvo perkalbėtas, nes jiems Kęstu­
     taičio užsispyrimas darė blogo įspūdžio.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-064
+
 - c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1129,11 +2137,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     Bažnyčios ir kunigai buvo atleisti nuo mokesčių, naturali­
     jų, teismo ir kitokių valstybinių prievolių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-031
+
 - c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1146,12 +2156,14 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     (Melnikas, gal Brasta) ir net Voluinėje (Luckas). Konfesijų paribio ar net
     stačiatikių erdvėje atsirado ir gotikinių katalikų bažnyčių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
     - t-023
+
 - c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1170,11 +2182,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     1570 METAIS
     (Iš Dogelio rankraščių buv.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-034
+
 - c-008
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1191,11 +2205,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     lyvauja kartu žygyje prieš lenkus. Pirmąją gi didelę karinę
     pamoką Vytautas gavo viename mūšyje su kryžiuočiais.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1212,12 +2228,14 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     patvarkęs tolesnę Lietuvos gynybą, pargrįžo į Lenkiją. Tačiau
     Vilniaus diecezijos senųjų turto do- Vilnensis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-035
     - t-002
+
 - c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1239,11 +2257,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     rų luomą ir įgijo teisę į visus pasaulietinius ir dvasinius ran­
     gus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-062
+
 - c-011
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1253,11 +2273,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     O kitų metų pradžioje abi ordino šakos vėl lankė įvairias Lietuvos
     vietas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-059
+
 - c-012
   santrauka: 'A. Jofė sutiko Gardiną ir Lydą priskirti Lietuvai, nors šiose žemėse lietuvių gyventa mažai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -1270,11 +2292,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     ta išties mažai, priskirti Lietuvai. Lietuvai pripažinta teritorija buvo gana
     artima 1795 m. teritorijai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-013
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1285,6 +2309,7 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     vystę », kurią kryžiuočiai ilgai garsino Vakarams, iki 1398 m. sun­
     kią dalį ordino kalėjime turėjo pernešti Vytauto brolis Žygimantas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1292,6 +2317,7 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     - t-017
     - t-012
     - t-056
+
 - c-014
   santrauka: 'Rusija privertė Stanislovą Augustą 1793 m. birželio 17 d. targovitėnų valdomame Gardine sušaukti Seimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -1303,11 +2329,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     mame Gardine 1793 m. birželio 17 d. sušaukti Seimą, kuris turėjo pritarti
     naujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-038
+
 - c-015
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1323,12 +2351,14 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     Apskritai teritoriniai Lietuvos projektai keitėsi keičiantis tarptautinei si-
     tuacijai – niekas negalėjo pasakyti, kokio dydžio valstybe ji galėtų tapti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-067
     - t-007
+
 - c-016
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1349,12 +2379,14 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     jungtos tiesiogiai
     prie Lenkijos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-060
     - t-029
+
 - c-017
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1368,12 +2400,14 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     Ordino apskričių (Osterodes, Ortelsburgo, Wartenburgo ir
     Varmijos)^1 ).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-055
     - t-016
+
 - c-018
   santrauka: 'Vytautas dominikonus parėmė donacijomis Gardine, Lucke ir Naugardėlyje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -1387,11 +2421,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     Naugardėlyje; pranciškonams pastatė jau minėtas bažnyčias
     Kaune, Gardine, Pinske, Drahočyne.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-051
+
 - c-019
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1402,12 +2438,14 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     pridėjo kitas žemes, jų tarpe — Lucką, kuris vos neseniai, t. y.
     tų pačių metų bal. mėn.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-052
     - t-018
+
 - c-020
   santrauka: 'Vasarą maršalo pajėgos žygiavo Gardino link ir bandė pereiti Nemuną brasta, bet buvo sustabdytos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -1422,11 +2460,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     Kauno mūrinės pilies statyba. Pirmoji Kauno pilis
     kronikose paminėta 1361 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-058
+
 - c-021
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1436,12 +2476,14 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     žinomame veikale Bibliograficznych
     Ksiąg dwoje, išleist.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-032
     - t-046
+
 - c-022
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1456,12 +2498,14 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     anksčiau prieš šį Gediminaitį įžengęs į grabą, per 30 metų dėjo
     dideles pastangas ordinui laimėti bent Žemaičius.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
     - t-028
+
 - c-023
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1471,11 +2515,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     Tribunole pirmininkaudavo iš tų pačių deputatų renkamas
     pirmininkas, vadinamas tribunolo maršalka.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-024
   santrauka: 'Gedimino arba Algirdo laikais Gardino pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -1489,11 +2535,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     tos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje
     buvę Voluinė ir Haličas, Kijevas, Pskovas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-030
+
 - c-025
   santrauka: 'Šešiasdešimt brolių su vyrais iš Prūsijos patraukė link Gardino pilies ir pasiuntė 400 vyrų apiplėšti jos apylinkių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -1506,11 +2554,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     broliai bus patraukę  į savo žemę, ėjo  į savo laukus, broliai su visa savo kariuomene
     užgriuvo mūsų minėtą žemę ir per šešias mylias ją nusiaubė, degindami bei grobdami.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-041
+
 - c-026
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1521,12 +2571,14 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     rį iš Gardino. Prie jųdviejų prisidėjo dar ir Algirdo sūnus Liu­
     bartas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-054
     - t-027
+
 - c-027
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1538,11 +2590,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     Gavus naujus Vytauto pažadus, ordinui reikėjo tik juos įgy­
     vendinti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-026
+
 - c-028
   santrauka: 'Lietuviai pretendavo į buvusios Rusijos imperijos Gardino gubernijos žemes, kurias Rusijos vyriausybės tradiciškai vadindavo lietuviškomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -1554,11 +2608,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     A. Jofė sutiko Vilnių ir tas žemes, net Gardiną ir Lydą, kur lietuvių gyven-
     ta išties mažai, priskirti Lietuvai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-063
+
 - c-029
   santrauka: 'Henrikas Cutsvertas puolė Gardino pilį, bet dėl stipraus pilėnų pasipriešinimo ir daugybės sužeistųjų pasitraukė nepasiekęs tikslo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -1579,11 +2635,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
       Po to lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies549 apylinkėse apiplėšė
     penkis kaimus, paimdama į nelaisvę ar nužudydama daugybę krikščionių.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-045
+
 - c-030
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1596,12 +2654,14 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     Iš taip vedamo dvarų ūkio Vytautas gaudavo didelių paja­
     mų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
     - t-053
+
 - c-031
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1617,12 +2677,14 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     idėją, nesiruošiant konvertuotis į lietuvybę, kristalizavosi Lietuvos ne-
     priklausomybės siekis etnografiniu pagrindu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-037
     - t-019
+
 - c-032
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1645,12 +2707,14 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     jos kompanijos (kuopos) ir ke-
     letas kitų smulkesnių dalinių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-033
     - t-066
+
 - c-033
   santrauka: '1390 m. sausio pradžioje Vytautas išsiuntė šeimą iš Gardino į Prūsiją ir dar labiau įtvirtino Gardiną kaip savo buveinę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1672,11 +2736,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     siuntė į Gardiną, kur tasai sausio 19 dieną netoli nuo šios
     pilies sudarė sutartį su Vytautu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-050
+
 - c-034
   santrauka: '1586 metų gruodžio 13 dieną Gardine Lietuvos ponų taryba parengė laišką dėl Turkijos čiaušo Ibrahimo apgyvendinimo Vilniuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1736,11 +2802,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     venti Vilniaus mieste, kol jų malonybės tarybos ponai visi čia,
     į Gardiną, suvažiuos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-065
+
 - c-035
   santrauka: '1305 m. Konradas iš Lichtenhageno su didele kariuomene nusiaubė Gardino pilies apylinkes degindamas ir plėšdamas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -1754,11 +2822,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     plėšdamas, nors daugiau ten nieko nepešė, nes Lietuvos žemės raiteliai irgi sujojo į šį
     valsčių.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
+
 - c-036
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1767,6 +2837,7 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     buvo surašytas slapta, medžioklės metu Dovydiškėse, tur būt, arti
     Gardino (1380.V.31).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1774,6 +2845,7 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     - t-025
     - t-003
     - t-009
+
 - c-037
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1791,11 +2863,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     Maišiagalą, o prie pat sostinės su karių likučiais nusiaubė
     aplinkines žemes.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-021
+
 - c-038
   santrauka: 'Kęstutis paveldėjo Trakus ir Gardiną su Palenke, arba Lietuvos Brasta.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -1803,11 +2877,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     Dar sunkesni uždaviniai atiteko Kęstučiui vakarinėje valstybės
     dalyje. Jis paveldėjo Trakus ir Gardiną su Palenke (Liet. Brasta).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-043
+
 - c-039
   santrauka: 'Kadangi Trakai jau buvo atiduoti Skirgailai, Vytautas galėjo gauti tik Gardiną su Palenke.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -1817,11 +2893,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     reikalavo tėviškės, bet Trakai jau buvo atiduoti Skirgailai. Tad
     Vytautas tegalėjo gauti Gardiną su Palenkė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-040
   santrauka: '1801 m. Lietuvos gubernija padalyta į Lietuvos Vilniaus ir Lietuvos Gardino gubernijas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -1834,11 +2912,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     gubernijos atskirtas ir Kuršo (Kurliandijos) gubernijai perduotas siauras
     Lietuvos pajūrio ruožas – Palangos ir Šventosios apylinkės.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-041
   santrauka: '1792 m. rugsėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į Abiejų Tautų konfederaciją ir centru paskelbė Gardiną.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -1853,11 +2933,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     na II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos
     sienas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-057
+
 - c-042
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1875,11 +2957,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     nai grįžti į savo kraštą, taigi jie nepriėjo iki sostinės ir pen­
     kiolika dienų teplėšė Lietuvą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-039
+
 - c-043
   santrauka: 'Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė profesines mokyklas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -1893,11 +2977,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     lės. A. Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją, įkūrė
     matininkų, buhalterių, statybininkų, veterinarų mokyklas Gardine.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-042
+
 - c-044
   santrauka: 'Balińskis Garteną tapatino su Gardinu ir minėjo jį kaip valsčių bei pilį netoli Pagraudenės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1923,11 +3009,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     na apylinkę Žemaitijoje: pograudien-
     b C S 7/7 Samogitia agri.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-049
+
 - c-045
   santrauka: '1365 m. pradžioje Patrikas iš Gardino kartu su Kęstučiu, Algirdu ir Aleksandru Karijotaičiu puolė Skalvos žemę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -1944,11 +3032,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     kryžiuočių karas pasiekė aukščiausią es-
     kalacijos lygį.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
 - c-046
   santrauka: '1295 m. penki broliai ir 150 vyrų iš Sembos bei Notangos išjojo link Gardino pilies ir apiplėšė lietuvių kaimą prie Nemuno.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -1961,11 +3051,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     pilies, jie nutarė, palikę arklius, plaukti Nemunu žemyn; apiplėšę Nemuno pakrantėje
     vieną lietuvių kaimą, nukovę ir paėmę į nelaisvę daug žmonių, vėl nuplaukė tolyn.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-036
+
 - c-047
   santrauka: 'Antanas Tyzenhauzas Gardine įkūrė matininkų, buhalterių, statybininkų ir veterinarų mokyklas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -1981,11 +3073,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     89
     Lietuvos valstiečiai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-040
+
 - c-048
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2003,11 +3097,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     sų virtuvininkui Petrui Aleknavičiui ir daugeliui kitų, pasi­
     tikėjimo vertų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-048
+
 - c-049
   santrauka: 'Vasarą maršalo pajėgos žygiavo Gardino link ir bandė pereiti Nemuną brasta, bet buvo sustabdytos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -2026,11 +3122,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
 
     Kauno mūrinės pilies statyba.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-068
+
 - c-050
   santrauka: 'Skomantas su prūsų kariais patraukė Gardino kryptimi, paėmė Gardino pilį, išžudė įgulą ir sugriovė įtvirtinimus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -2044,11 +3142,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     tūkstančiai raitelių, pasklidusių niokoti kraštą, išsivarė
     didžiulį grobį.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-069
+
 - c-051
   santrauka: 'Magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -2075,11 +3175,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     kryžiuočių sugriautą, lietuviai buvo atstatę, išžudė gy­
     nėjus ir sulygino su žeme įtvirtinimus.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-070
+
 - c-052
   santrauka: 'Magistras Konradas įsakė Albertui Hagenui staiga užpulti ir užimti Gardino pilį bei miestą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -2095,11 +3197,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     manymas pasiseks, tačiau jų kėslus suardė kilusi ne­
     regėta audra.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-071
+
 - c-053
   santrauka: 'Vilniuje ir Gardine siautęs maras lėmė, kad karalius likusius žiemos mėnesius praleido Kaune.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -2120,11 +3224,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     patriar­
     chas, popiežiaus pasiuntinys.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-072
+
 - c-054
   santrauka: 'Gardino seime luomai svarstė valstybės reikalus, kai Mengli Girėjaus pasiuntiniai pranešė apie Maniako rengiamą karą prieš Rusią.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -2153,11 +3259,13 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     sakydami, kad Užvolgio skitų chanas Maniakas rengia
     karą prieš Rusią.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-073
+
 - c-055
   santrauka: 'Gardinas buvo aprašytas kaip miestas prie Krono upės, kuri vėliau vadinta Nemunu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -2169,11 +3277,14 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     daug plytinių namų, bet daug iš paprastos medžiagos kaimiškai
     suręstų. Nėra nei mūrinių sienų, nei pylimų, nei gynybinių bokš­
     tų, nei vartų.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-074
+
 - c-056
   santrauka: 'Narbutas nurodė iš Gardino gavęs ištrauką iš lotyniško in folio veikalo, kuriame buvo XVI a. Gardino raižinys.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -2191,11 +3302,14 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     ropos miestų vaizdais, tarp kurių ir XVI amžiaus
     Gardino vaizdas -  raižinys ant skardos, gana ge­
     rai atspaustas.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-075
+
 - c-057
   santrauka: 'Narbutas abejojo, ar Lietuvos seimas posėdžiavo Gardine 1567 m., nes vien kronikos šios abejonės nepašalino.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -2208,11 +3322,14 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     kurių vien kronikos nepašalino. Iš tikrųjų tais me­
     tais vyko Lenkijos seimas Piotrkove, trukęs ilgai
     ir sėkmingai posėdžiavęs.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-076
+
 - c-058
   santrauka: 'Narbutas manė, kad karalius, nenutraukęs karo veiksmų, 1567 m. pabaigoje skubėjo sušaukti seimą Gardine.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -2231,11 +3348,14 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     vasarį, nes Gardino archyvuose yra likęs pėdsa­
     kas, jog tų metų balandžio 28 dieną karaliaus bū­
     ta Gardine.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-077
+
 - c-059
   santrauka: 'Narbutas rašė, kad Gardine aprašomas seimas pradėjo posėdžiauti 1568 m. vasarį, o balandžio 28 d. ten buvo karalius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -2255,11 +3375,1257 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
     ## Puslapis 515
 
     O prawach.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-078
+
+- c-060
+  santrauka: 'Vytautas perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine, Naugarduke ir Lucke.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos gotikinės architektūros ypatumas – gynybinis pobūdis:
+    net ir sakraliniai pastatai turėjo gynybinius bokštus ar šaunamąsias an-
+    gas – Vytauto laikais daugiausia statyta būtent gynybinių statinių. Vytautas
+    perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine,
+    Naugarduke ir Lucke. Trakų salos pilies menė su gotikiniais kryžminiais
+    skliautais rodo, kad gotika buvo atėjusi ir į gynybinę architektūrą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-079
+
+## Citatos
+
+- id: c-14876
+  citata_originali: |
+    Tuos sve­
+    čius Vytautas priėmė savo dvare, Gardine (1429. IX. 29).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179896
+
+- id: c-21449
+  citata_originali: |
+    Kitais me-
+    tais, į ordino pusę patrauktas, Vaclovas pripažino jam Že-
+    maičius ir visą kairiąją Panemunę iki Gardino. Jogaila su Vytau-
+    tu apkaltino Vaclovą šališkumu ir, pratęsę paliaubas su ordinu
+    iki 1410 m. šv. Jono (birželio 24 d.), ėmė ruoštis dideliam žygiui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179831
+
+- id: c-21453
+  citata_originali: |
+    Tuo
+    būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono
+    Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko
+    vyskupo Isaikovskio ir kt. fundacija). Oršoje (karaliaus Zig-
+    manto fundacija), Smolenske (klebono Lempickio ir kt. fun-
+    dacija), Kaune (brolių Vijūkų Kojelavičių fundacija), Minske
+    (kanclerio Martyno Oginskio ir K. Bžostausko fundacija), Nau-
+    garduke (sudėtinė fundacija), Bobruiske (Triznos fun-
+    dacija), Pinske (kanclerio Aibr. St. Radvilos fundacija), Pa-
+    šiaušėje (bajoro Beinarto f-ja), Slucke (sudėtinė f-ja),
+    Vitebske (Smolensko vaivados A. Gansiausko f-ja), Žodiš-
+    kiuose (Minkevičių f-ja), Brastoje (vicekanclerio L. K. Sa-
+    piegos f-ja).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179879
+
+- id: c-32050
+  citata_originali: |
+    Kęstutaitis iš pusbrolio
+    reikalavo tėviškės, bet Trakai jau buvo atiduoti Skirgailai. Tad
+    Vytautas tegalėjo gauti Gardiną su Palenkė. Jis vis nenorėjo
+    nusileisti, bet savo šalininkų buvo perkalbėtas, nes jiems Kęstu­
+    taičio užsispyrimas darė blogo įspūdžio.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179902
+
+- id: c-37377
+  citata_originali: |
+    Kaune ir
+    Ašmenoje, po nenusisekusio Vorsklos mūšio, įkūrė vienuolynus
+    pranciškonams; Breste įsteigė vienuolyną augustinijonams;
+    juos taip pat gausiai apdovanojo Medininkuose (Viln.) ir Pane­
+    munėje; domininkonus parėmė donacijomis Lucke, Gardine ir
+    Naugardėlyje; pranciškonams pastatė jau minėtas bažnyčias
+    Kaune, Gardine, Pinske, Drahočyne.
+    Bažnyčios ir kunigai buvo atleisti nuo mokesčių, naturali­
+    jų, teismo ir kitokių valstybinių prievolių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179861
+
+- id: c-163475
+  citata_originali: |
+    XVI a. viduryje naujas madas atneš Vilniaus Žemuti-
+    nės pilies renesansas, tačiau gotikos tradicija, perimta vietos meistrų, dar
+    reikšis iki pat XVII a. pradžios.
+    Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius,
+    Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniško-
+    se LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje
+    (Melnikas, gal Brasta) ir net Voluinėje (Luckas). Konfesijų paribio ar net
+    stačiatikių erdvėje atsirado ir gotikinių katalikų bažnyčių.
+  citata_rodoma: "pradžios.\nJau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, \nTrakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniško-\nse LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje \n(Melnikas, gal Brasta) ir net Voluinėje (Luckas). Konfesijų paribio ar net \nstačiatikių erdvėje atsirado ir gotikinių katalikų bažnyčių."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179843
+    - t-179852
+
+- id: c-163476
+  citata_originali: |
+    Šio dalyko patvirtinimui mū­
+    sų antspaudas rašto apačioje yra įspaustas. Duota Gardine
+    artimiausią penktadienį prieš Sekmines, tūkstantis penki
+    šimtai aštuoniasdešimt ketvirtaisiais Viešpaties metais, mū­
+    sų karaliavimo devintaisiais.
+    Karalius Steponas
+
+    ## Puslapis 456
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    SĄRAŠAS VISŲ NUOSTOLIŲ LIETUVOS MONETAS
+    KEIČIANT J LENKIŠKUS PINIGUS
+    1570 METAIS
+    (Iš Dogelio rankraščių buv.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179865
+
+- id: c-163477
+  citata_originali: |
+    Kiek tos kovos Kęstučio valdymo laiku padidėjo,
+    rodo ir ta aplinkybė, kad vokiečiai tiek jau buvo įsidrąsinę, kad
+    1362 m. išgriovė Kauno pilį ir pradėjo brautis vis gilyn į Lietu­
+    vą, pasiekdami net Vilniaus ir Neries sritis, kurių dar niekad
+    priešai nebuvo pasiekę.
+    Tokiu nuolatinių kovų laiku augo Vytautas savo tėvo dva­
+    re Trakuose, todėl ir jo auklėjime turėjo vyrauti kariški dalykai,
+    ir užtat nenuostabu, kad jis labai anksti (1368 m.) pradeda
+    dalyvauti įvairiuose karo žygiuose: 1368 ir 1372 metais į Mask­
+    vos žemes; 1376 metais, jau kaip Gardino‘kunigaikštis, jis da­
+    lyvauja kartu žygyje prieš lenkus. Pirmąją gi didelę karinę
+    pamoką Vytautas gavo viename mūšyje su kryžiuočiais.
+  citata_rodoma: ") pradeda\ndalyvauti įvairiuose karo žygiuose: 1368 ir 1372 metais į Mask­\nvos žemes; 1376 metais, jau kaip Gardino‘kunigaikštis, jis da­\nlyvauja kartu žygyje prieš lenkus. Pirmąją gi didelę karinę\npamoką Vytautas gavo viename mūšyje su kryžiuočiais."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179842
+
+- id: c-163478
+  citata_originali: |
+    Kai visa tai vyko, karalius, matydamas
+    pavojų keliančias Vytauto užmačias, kita vertus, negalėda­
+    mas pasikliauti ir Skirgailos pasiruošimu apsiginti, mat jis,
+    vos tik gavęs valdžią, aplaidumu ir žiauriu elgesiu didesnę
+    pusę Lietuvos prieš save nuteikė, išsiuntė į Vilnių Karūnos
+    pakanclerį Mikalojų Moskoževskį, naujais Lenkijos pulkais
+    vediną, ir liepė įsikurti Vilniaus pilyse. Pats tuo metu už­
+    ėmęs Vytauto valdžioje buvusias pilis: Lucką, Brastą ir Su­
+    ražą, pagaliau kovo mėnesį, Skirgailos padedamas, štur­
+    mu užėmė ano valdos sostinę Gardiną ir šiaip taip
+    patvarkęs tolesnę Lietuvos gynybą, pargrįžo į Lenkiją. Tačiau
+    Vilniaus diecezijos senųjų turto do- Vilnensis.
+  citata_rodoma: "Pats tuo metu už­\nėmęs Vytauto valdžioje buvusias pilis: Lucką, Brastą ir Su­\nražą, pagaliau kovo mėnesį, Skirgailos padedamas, štur­\nmu užėmė ano valdos sostinę Gardiną ir šiaip taip\npatvarkęs tolesnę Lietuvos gynybą, pargrįžo į Lenkiją. Tačiau\nVilniaus diecezijos senųjų turto do- Vilnensis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179866
+    - t-179827
+
+- id: c-163479
+  citata_originali: |
+    278
+
+    ## Puslapis 295
+
+    IV  KNYGA
+    pavedė bet kokia teise paklusti magistratui. O 1568 metų
+    birželio 15 dieną Lietuvos seime Gardine iškilmingiausiu
+    sprendimu apsaugojo miestiečius nuo engiančio užrašinėji-
+    mo jų namuose apsigyventi dvariškiams, karaliaus valdi­
+    ninkams ir svetimšaliams pasiuntiniams, be miesto tarybos
+    žinios ir leidimo. Tas pats Gardino seimas Vilniaus miesto
+    gyventojams buvo labai įsimintinas dėl suteiktos privilegi­
+    jos, kurios galia kiekvienas miestietis, nepriekaištingai ėjęs
+    vaito, tarybos nario ar šuolininko pareigas Vilniaus magist­
+    rate, su palikuonimis buvo visiems laikams pakeltas į bajo­
+    rų luomą ir įgijo teisę į visus pasaulietinius ir dvasinius ran­
+    gus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179897
+
+- id: c-163480
+  citata_originali: |
+    Tad
+    jiems beliko vėl įprastiniame stiliuje daryti «reyzus » Lietuvon.
+    Jau 1401 m. rudenį buvo teriojamos Kauno ir Gardino sritys^23.
+    O kitų metų pradžioje abi ordino šakos vėl lankė įvairias Lietuvos
+    vietas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179894
+
+- id: c-163481
+  citata_originali: |
+    Lietuviai pre-
+    tendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardi-
+    no gubernijų žemes, kurias ir Rusijos vyriausybės tradiciškai vadindavo
+    lietuviškomis. Nors dalį tų žemių derybų metų jau kontroliavo Lenkija,
+    A. Jofė sutiko Vilnių ir tas žemes, net Gardiną ir Lydą, kur lietuvių gyven-
+    ta išties mažai, priskirti Lietuvai. Lietuvai pripažinta teritorija buvo gana
+    artima 1795 m. teritorijai.
+  citata_rodoma: "Nors dalį tų žemių derybų metų jau kontroliavo Lenkija, \nA. Jofė sutiko Vilnių ir tas žemes, net Gardiną ir Lydą, kur lietuvių gyven-\nta išties mažai, priskirti Lietuvai. Lietuvai pripažinta teritorija buvo gana \nartima 1795 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179835
+
+- id: c-163482
+  citata_originali: |
+    1392 m. birželio gale, apsimes­
+    damas, iš Ritterswerderio patraukė Lietuvon į tariamą žygį. Stai­
+    ga grįžęs, sudegino patį Ritterswerderi ir dar dvi ordino pili prie
+    Nemuno, būtent, Naująjį Gardiną ir Meteną22 23 *. Už tą naują «išda­
+    vystę », kurią kryžiuočiai ilgai garsino Vakarams, iki 1398 m. sun­
+    kią dalį ordino kalėjime turėjo pernešti Vytauto brolis Žygimantas.
+  citata_rodoma: "Stai­\nga grįžęs, sudegino patį Ritterswerderi ir dar dvi ordino pili prie\nNemuno, būtent, Naująjį Gardiną ir Meteną22 23 *. Už tą naują «išda­\nvystę », kurią kryžiuočiai ilgai garsino Vakarams, iki 1398 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179846
+    - t-179841
+    - t-179889
+
+- id: c-163483
+  citata_originali: |
+    1793 m. sausio 21 d. Prancūzijoje nukirsdinus Liudviką XVI, sausio
+    23-iąją Rusija kartu su Prūsija įvykdė antrąjį LLV padalijimą. Lietuvos
+    Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių
+    žemės. Tuo metu Rusija privertė Stanislovą Augustą targovitėnų valdo-
+    mame Gardine 1793 m. birželio 17 d. sušaukti Seimą, kuris turėjo pritarti
+    naujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą.
+  citata_rodoma: "Tuo metu Rusija privertė Stanislovą Augustą targovitėnų valdo-\nmame Gardine 1793 m. birželio 17 d. sušaukti Seimą, kuris turėjo pritarti \nnaujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179869
+
+- id: c-163484
+  citata_originali: |
+    Viena iš svarbiausių diskusijos temų – būsimos Lietuvos teritorija.
+    Europos ir JAV lietuvių atstovų Berno konferencijoje 1917 m. lapkričio
+    2–10 d., kurioje dalyvavo ir visas Lietuvos Tarybos prezidiumas (A. Sme-
+    tona, Steponas Kairys, J. Šaulys) bei užsienio lietuvių atstovai, pasisakyta
+    už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose:
+    Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko
+    apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis),
+    be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti
+    ir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais).
+    Apskritai teritoriniai Lietuvos projektai keitėsi keičiantis tarptautinei si-
+    tuacijai – niekas negalėjo pasakyti, kokio dydžio valstybe ji galėtų tapti.
+  citata_rodoma: "Šaulys) bei užsienio lietuvių atstovai, pasisakyta \nuž etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose: \nKauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko \napskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis), \nbe to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti \nir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais). \nApskritai teritoriniai Lietuvos projektai keitėsi keičiantis tarptautinei si-\ntuacijai – niekas negalėjo pasakyti, kokio dydžio valstybe ji galėtų tapti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179906
+    - t-179834
+
+- id: c-163485
+  citata_originali: |
+    Iki XV a. pabaigos gynybinės sienos saugojo
+    tik Vilniaus pilis, miestas buvo neapsaugotas. Kai Krymo totorių antpuoliai ėmė
+
+    | | pasiekti Vilniaus apylinkes, Lietuvos didysis kunigaikštis Aleksandras, tenkinda-
+
+    mas Vilniaus gyventojų prašymą, 1503 m. Gardine išleista privilegija nurodė statyti
+
+    a i miesto gynybinę mūro sieną
+
+    ## Puslapis 79
+
+    Nuo 1466 m. ry
+    Vakarų Prūsija ir
+    Varmė buvo pri-
+    jungtos tiesiogiai
+    prie Lenkijos.
+  citata_rodoma: "Kai Krymo totorių antpuoliai ėmė\n\n| | pasiekti Vilniaus apylinkes, Lietuvos didysis kunigaikštis Aleksandras, tenkinda-\n\nmas Vilniaus gyventojų prašymą, 1503 m. Gardine išleista privilegija nurodė statyti\n\na i miesto gynybinę mūro sieną\n\n## Puslapis 79\n\nNuo 1466 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179895
+    - t-179858
+
+- id: c-163486
+  citata_originali: |
+    Su pagoniškąja Lietuva pirmąsias nuolatinio karo paliau­
+    bas Ordinas padarė 1379 m. Labai įdomios ir viduramžiui
+    charakteringos jų sąlygos: paliaubos daromos 10 metų. Abu
+    magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­
+    jos sričių (Gardino, Volkovisko, Drahočyno, Mielniko, Bielsko,
+    Brastos, Kamienco) Lietuvos gi kunigaikščiai — Jogaila su
+    Kęstučiu, — pasižadėjo nepulti prie tų pat sričių prieinančių
+    Ordino apskričių (Osterodes, Ortelsburgo, Wartenburgo ir
+    Varmijos)^1 ).
+  citata_rodoma: "Abu\nmagistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­\njos sričių (Gardino, Volkovisko, Drahočyno, Mielniko, Bielsko,\nBrastos, Kamienco) Lietuvos gi kunigaikščiai — Jogaila su\nKęstučiu, — pasižadėjo nepulti prie tų pat sričių prieinančių\nOrdino apskričių (Osterodes, Ortelsburgo, Wartenburgo ir\nVarmijos)^1 )."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179888
+    - t-179845
+
+- id: c-163487
+  citata_originali: |
+    Savo tėviškėn į Trakus parkvietė benediktinus, kuriems pa­
+    statė vienuolyną ir bažnyčią, kad jie užsiimtų mokslu. Kaune ir
+    Ašmenoje, po nenusisekusio Vorsklos mūšio, įkūrė vienuolynus
+    pranciškonams; Breste įsteigė vienuolyną augustinijonams;
+    juos taip pat gausiai apdovanojo Medininkuose (Viln.) ir Pane­
+    munėje; domininkonus parėmė donacijomis Lucke, Gardine ir
+    Naugardėlyje; pranciškonams pastatė jau minėtas bažnyčias
+    Kaune, Gardine, Pinske, Drahočyne.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179883
+
+- id: c-163488
+  citata_originali: |
+    5 d. Ost­
+    rovoje (Gard.) įvyko taika. Jogaila dovanojo Vytautui ir jo
+    šalininkams jų nusikaltimus, paėmė iš visų ištikimybės priesai­
+    ką ir grąžino Vytautui visą jo tėviškę: Trakus, Gardiną ir dar
+    pridėjo kitas žemes, jų tarpe — Lucką, kuris vos neseniai, t. y.
+    tų pačių metų bal. mėn.
+  citata_rodoma: "Jogaila dovanojo Vytautui ir jo\nšalininkams jų nusikaltimus, paėmė iš visų ištikimybės priesai­\nką ir grąžino Vytautui visą jo tėviškę: Trakus, Gardiną ir dar\npridėjo kitas žemes, jų tarpe — Lucką, kuris vos neseniai, t."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179885
+    - t-179847
+
+- id: c-163490
+  citata_originali: |
+    Vasarą su gausiais svetimšalių būriais
+    ir savais kariais maršalas žygiavo Gardino
+    link, bandė pereiti Nemuną brasta, bet
+    jiems buvo sukliudyta. Grįžęs namo, jis vėl
+    organizavo žygį iš Įsruties į Kauną, „atnešė
+    stabmeldžiams visokių nelaimių“, bet per
+
+    Kauno mūrinės pilies statyba. Pirmoji Kauno pilis
+    kronikose paminėta 1361 m.
+  citata_rodoma: "Vasarą su gausiais svetimšalių būriais\nir savais kariais maršalas žygiavo Gardino\nlink, bandė pereiti Nemuną brasta, bet\njiems buvo sukliudyta. Grįžęs namo, jis vėl\norganizavo žygį iš Įsruties į Kauną, „atnešė\nstabmeldžiams visokių nelaimių“, bet per\n\nKauno mūrinės pilies statyba."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179891
+
+- id: c-163491
+  citata_originali: |
+    Kazimiero bažnyčia71. Ankstyva ir netikėta
+    Stepono Batoro mirtis Gardine (1586 metų gruodžio 12 die­
+    ną) Vilnių, o ir visą šalį didžiai nuliūdino. Jo gailėjo net patys
+    žinomame veikale Bibliograficznych
+    Ksiąg dwoje, išleist.
+  citata_rodoma: "Ankstyva ir netikėta\nStepono Batoro mirtis Gardine (1586 metų gruodžio 12 die­\nną) Vilnių, o ir visą šalį didžiai nuliūdino. Jo gailėjo net patys\nžinomame veikale Bibliograficznych\nKsiąg dwoje, išleist."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179862
+    - t-179878
+
+- id: c-163493
+  citata_originali: |
+    Žemaičiams jis nuolatos gelbėjo jų iš kartos į kartą einan­
+    čiuose karuose, dėl kurių visa vakarinė Lietuva buvo tapusi kasmet
+    įvairiose vietose atsiveriančia žaizda. O ir paties Kęstučio visos
+    valdos (dalis tikrosios Lietuvos su Trakais, Gardino žemė ir Pa­
+    lenkė), būdamos artimoje kaimynystėje su kryžiuočių valstybe,
+    niekada nebuvo saugios.
+    Veiklusis rungtyniautojas prieš Kęstutį ordino vyriausias ma­
+    gistras Winrichas von Kniprodė (1352-1382), septyniom savaitėm
+    anksčiau prieš šį Gediminaitį įžengęs į grabą, per 30 metų dėjo
+    dideles pastangas ordinui laimėti bent Žemaičius.
+  citata_rodoma: "O ir paties Kęstučio visos\nvaldos (dalis tikrosios Lietuvos su Trakais, Gardino žemė ir Pa­\nlenkė), būdamos artimoje kaimynystėje su kryžiuočių valstybe,\nniekada nebuvo saugios.\nVeiklusis rungtyniautojas prieš Kęstutį ordino vyriausias ma­\ngistras Winrichas von Kniprodė (1352-1382), septyniom savaitėm\nanksčiau prieš šį Gediminaitį įžengęs į grabą, per 30 metų dėjo\ndideles pastangas ordinui laimėti bent Žemaičius."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179837
+    - t-179857
+
+- id: c-163494
+  citata_originali: |
+    Tikrosios Lietuvos bylas spręsdavo
+    Vilniuje, o gudiškųjų sričių — Naugarduke ir Minske. XVIII
+    amž. jis ėmė rinktis tik Vilniuje ir Gardine.
+    Tribunole pirmininkaudavo iš tų pačių deputatų renkamas
+    pirmininkas, vadinamas tribunolo maršalka.
+  citata_rodoma: "XVIII\namž. jis ėmė rinktis tik Vilniuje ir Gardine.\nTribunole pirmininkaudavo iš tų pačių deputatų renkamas\npirmininkas, vadinamas tribunolo maršalka."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179844
+
+- id: c-163495
+  citata_originali: |
+    Lietuva tuo metu jau
+    turėjo sostinę, nuo Gedimino prasidėjo sosto paveldėjimo tradicija, mūro
+    civilizacijos ištakos. Valdant Gediminui ar jo sūnui Algirdui buvo sukurta
+    visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai,
+    Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys. Lietuva tapo
+    politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung-
+    tos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje
+    buvę Voluinė ir Haličas, Kijevas, Pskovas.
+  citata_rodoma: "Valdant Gediminui ar jo sūnui Algirdui buvo sukurta \nvisa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, \nKrėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys. Lietuva tapo \npolitinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung-\ntos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje \nbuvę Voluinė ir Haličas, Kijevas, Pskovas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179859
+
+- id: c-163496
+  citata_originali: |
+    6. Apie Gardino pilies apylinkių nusiaubimą
+
+      Tuo metu 60 brolių ir būrys vyrų iš Prūsijos patraukė link Gardino pilies, tačiau, patyrę,
+    jog tie perspėti, pasiuntė 400 vyrų, kurie įsiveržė į šios pilies apylinkes, apiplėšė jas ir
+    sugrįžo ten, kur stovėjo brolių kariuomenė. Kitą dieną, kai lietuviai, manydami, jog
+    broliai bus patraukę  į savo žemę, ėjo  į savo laukus, broliai su visa savo kariuomene
+    užgriuvo mūsų minėtą žemę ir per šešias mylias ją nusiaubė, degindami bei grobdami.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179873
+
+- id: c-163497
+  citata_originali: |
+    Tikė­
+    jimo bendrumas palenkė jų simpatijas Kęstučiui ir jie davė jam
+    9000 vyrų^1 ). Atvykęs su tuo būriu prie Trakų, Kęstutis ten jau
+    rado savo sūnų Vytautą, kuris buvo atsivedęs kariuomenės bū­
+    rį iš Gardino. Prie jųdviejų prisidėjo dar ir Algirdo sūnus Liu­
+    bartas.
+  citata_rodoma: "Atvykęs su tuo būriu prie Trakų, Kęstutis ten jau\nrado savo sūnų Vytautą, kuris buvo atsivedęs kariuomenės bū­\nrį iš Gardino. Prie jųdviejų prisidėjo dar ir Algirdo sūnus Liu­\nbartas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179887
+    - t-179856
+
+- id: c-163498
+  citata_originali: |
+    Siena nuo Livonijos iki Ne­
+    vėžio šaltinių turėjo eiti tiesia linija, bet žemupyje ji buvo taip
+    išvesta, kad Kaunas ir Rumšiškių plotas turėjo patekti ordinui^22.
+    O savo atgausimą tėviškę Trakus, Gardiną ir kitas žemes Vytautas
+    turėjo valdyti kaip ordino vasalas.
+    Gavus naujus Vytauto pažadus, ordinui reikėjo tik juos įgy­
+    vendinti.
+  citata_rodoma: "O savo atgausimą tėviškę Trakus, Gardiną ir kitas žemes Vytautas\nturėjo valdyti kaip ordino vasalas.\nGavus naujus Vytauto pažadus, ordinui reikėjo tik juos įgy­\nvendinti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179855
+
+- id: c-163499
+  citata_originali: |
+    Teritoriniai klausimai taip pat buvo sprendžiami palankiai. Lietuviai pre-
+    tendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardi-
+    no gubernijų žemes, kurias ir Rusijos vyriausybės tradiciškai vadindavo
+    lietuviškomis. Nors dalį tų žemių derybų metų jau kontroliavo Lenkija,
+    A. Jofė sutiko Vilnių ir tas žemes, net Gardiną ir Lydą, kur lietuvių gyven-
+    ta išties mažai, priskirti Lietuvai.
+  citata_rodoma: "Lietuviai pre-\ntendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardi-\nno gubernijų žemes, kurias ir Rusijos vyriausybės tradiciškai vadindavo \nlietuviškomis. Nors dalį tų žemių derybų metų jau kontroliavo Lenkija, \nA. Jofė sutiko Vilnių ir tas žemes, net Gardiną ir Lydą, kur lietuvių gyven-\nta išties mažai, priskirti Lietuvai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179900
+
+- id: c-163502
+  citata_originali: |
+    Brolis Bertoldas, Karaliaučiaus komtūras, nuo seno didžiai troško sulaukti tokios progos,
+    kai karalius bus iškeliavęs iš savo žemės,  ir ten nusigauti su brolių kariuomene; jis
+    subūrė didelę kariuomenę, jos vadu paskyrė brolį Henriką Cutsvertą, Baigos komtūrą, ir
+    įsakė jam su šia kariuomene traukti link Lietuvos ir siaubti minėtojo karaliaus žemes. Šis,
+    bemaž priėjęs prie karaliaus žemių, kažkodėl pasuko atgal ir, sugalvojęs pulti Gardino
+    pilį, sutiko tokį stiprų pilėnų priešinimąsi gausiai svaidant [per crebra jacula], jog tada,
+    kai daugybė krikščionių liko sunkiai sužeista, jis pasitraukė, nepasiekęs tikslo.
+
+
+
+
+                       268 (261) Apie penkių kaimų apiplėšimą
+
+      Po to lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies549 apylinkėse apiplėšė
+    penkis kaimus, paimdama į nelaisvę ar nužudydama daugybę krikščionių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179877
+
+- id: c-163504
+  citata_originali: |
+    Arklių ūkis labiau buvo paplitęs Žemaitijoje ir apie Tra­
+    kus; žemaičiai net ir duoklę Vytautui dažnai arkliais mokėda­
+    vo1 2). Be arklių buvo dar auginami jaučiai, kuriais ardavo že­
+    mę, karvės, kiaulės, naminiai paukščiai ir k. Jaučių daugiau
+    buvo laikoma Vilniaus ir Gardino apylinkėse^3 ).
+
+    Iš taip vedamo dvarų ūkio Vytautas gaudavo didelių paja­
+    mų.
+  citata_rodoma: "Jaučių daugiau\nbuvo laikoma Vilniaus ir Gardino apylinkėse^3 ).\n\nIš taip vedamo dvarų ūkio Vytautas gaudavo didelių paja­\nmų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179839
+    - t-179886
+
+- id: c-163505
+  citata_originali: |
+    Tai nebuvo
+    monolitinės stovyklos, nes rasdavosi įvairių tranzitinių grupelių ir iš kitų
+    politinių elementų.
+    Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos
+    valstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo
+    kaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno,
+    Suvalkų ir Gardino gubernijose, dalis Kuršo. Kadangi Lenkijos ir Lietu-
+    vos bendros valstybės pasekmės išliko, lenkiškai kalbantiems lietuviams
+    vis labiau linkstant į lenkų kultūrinę orbitą ir Lenkijos valstybingumo
+    idėją, nesiruošiant konvertuotis į lietuvybę, kristalizavosi Lietuvos ne-
+    priklausomybės siekis etnografiniu pagrindu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179868
+    - t-179848
+
+- id: c-163506
+  citata_originali: |
+    Didesnė dalis XVIII a. pa-
+    baigoje LDK kariuomenei skirtų muškietų, kaip ir kitų šaunamųjų ginklų, buvo nupirkta stiprią karinę
+    pramonę turinčioje Prūsijoje. Tačiau sprendžiant iš 1792 m. dokumentuose aptinkamų žinių, kartais
+    Prūsijoje būdavo įsigyjama ne ypač geros kokybės šautuvų. Mėginta šautuvus gaminti Gardine,
+
+    tačiau vadovybė savais gamintojais nepasitikėjo
+
+    Rusijos pajėgos
+
+    Lietuviams puolant balandžio 23 d.
+    Vilniuje buvusią rusų įgulą sudarė:
+    Narvos muškietininkų pulko vienas
+    batalionas ir trys kompanijos (kuo-
+    pos), Pskovo muškietininkų pul-
+    ko du batalionai, Dono kazokų
+    pulkas, keturios lauko artileri-
+    jos kompanijos (kuopos) ir ke-
+    letas kitų smulkesnių dalinių.
+  citata_rodoma: "dokumentuose aptinkamų žinių, kartais\nPrūsijoje būdavo įsigyjama ne ypač geros kokybės šautuvų. Mėginta šautuvus gaminti Gardine,\n\ntačiau vadovybė savais gamintojais nepasitikėjo\n\nRusijos pajėgos\n\nLietuviams puolant balandžio 23 d."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179863
+    - t-179905
+
+- id: c-163508
+  citata_originali: |
+    Vilniaus kapitulos archy­
+    vas: MSS, vad. Acta, tai yra*
+    117
+
+    ## Puslapis 134
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    Ordino pagalbos. 1390 metų sausio pradžioje visą savo šei­
+    mą iš Gardino išsiuntęs į Prūsiją, ruošdamasis atnaujinti anks­
+    tesnes sutartis su didžiuoju magistru Konradu Ciolneriu, dar
+    labiau įtvirtino Gardiną kaip savo buveinę, sustiprino ir kitų
+    savo pilių gynybą. Tų karingų vienuolių viršininkas, greitas
+    pasinaudoti kaimynų nesutarimais, tik ir laukdamas pro­
+    gos išardyti Lietuvos ir Lenkijos sąjungą, vieną komtūrą at­
+    siuntė į Gardiną, kur tasai sausio 19 dieną netoli nuo šios
+    pilies sudarė sutartį su Vytautu.
+  citata_rodoma: "Acta, tai yra*\n117\n\n## Puslapis 134\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nOrdino pagalbos. 1390 metų sausio pradžioje visą savo šei­\nmą iš Gardino išsiuntęs į Prūsiją, ruošdamasis atnaujinti anks­\ntesnes sutartis su didžiuoju magistru Konradu Ciolneriu, dar \nlabiau įtvirtino Gardiną kaip savo buveinę, sustiprino ir kitų \nsavo pilių gynybą. Tų karingų vienuolių viršininkas, greitas \npasinaudoti kaimynų nesutarimais, tik ir laukdamas pro­\ngos išardyti Lietuvos ir Lenkijos sąjungą, vieną komtūrą at­\nsiuntė į Gardiną, kur tasai sausio 19 dieną netoli nuo šios \npilies sudarė sutartį su Vytautu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179882
+
+- id: c-163509
+  citata_originali: |
+    354
+
+    ## Puslapis 371
+
+    IV KNYGA
+    B) ATVIRAS LIETUVOS PONŲ
+    TARYBOS LAIŠKAS
+    DUOTAS IŠ GARDINO 1586 METŲ GRUODŽIO 13 DIENĄ
+    TURKIJOS ČLAUŠUI IBRAHIMUI,
+    SKIRTAS KUNIGAIKŠČIUI KRISTUPUI RADVILAI,
+    VILNIAUS VAIVADAI, LDK LAUKO ETMONUI IR T T,
+    O JO NESANT VILNIUJE, VAIVADIJOS VIETININKUI
+    KUNIGAIKŠČIUI JONUI BOLESLAVOVIČIUI SVIRSKIUI IR
+    VILNIAUS VAITUI STANISLOVUI SABINAI,
+    ĮPAREIGOJANTIS VILNIAUS MIESTE PARINKTI
+    GERUS NAMUS APSISTOTI TAM ČIAUŠUI IR
+    ATITINKAMAM LAIKUI GARANTUOTI SAUGŲ GYVENIMĄ
+    (Iš originalo)
+    Šviesiajam dauggaliui ponui Jo Malonybei Kristupui Rad­
+    vilai, Dubingių ir Biržų kunigaikščiui, Vilniaus vaivadai, Lie­
+    tuvos Didžiosios Kunigaikštystės lauko etmonui, Solecko, Ūž-
+    endovo ir Borisovo seniūnui, Eustachijus Valavičius, Vilniaus
+    kaštelionas, Lietuvos Didžiosios kunigaikštystės kancleris, Be-
+    restos ir Kobrino seniūnas, Mikalojus Manvydas Dorohostais-
+    kis, Polocko vaivada, Lepelio seniūnas, Šerešovo valdytojas
+    ir Veliuonos tėvonis Žemaičių Gondingos ir Baisogalos že­
+    mėje, Mikalojus Tolvaišas, Žemaičių kaštelionas, Rodūnios
+    seniūnas, Leonas Sapiega, Lietuvos Didžiosios Kunigaikštys­
+    tės pakancleris, Slonimo, Markovo ir Medilo seniūnas, Teodo­
+    ras Skuminas, Krašto iždininkas ir Lietuvos Didžiosios Kuni­
+    gaikštystės raštininkas, Breslaujos ir Alytaus seniūnas, - o jo
+    malonybės nesant, tuo laiku - ponui Vilniaus vaivadai, Vil­
+    niaus vietininkui Jo Malonybei tenykščiam kunigaikščiui
+    355
+
+    ## Puslapis 372
+
+    VILNIAUS MIESTO ISTORIJA // TOMAS
+    Jonui Boleslavovičiui Svirskiui, jo karališkosios malonybės
+    maršalkai, Maišiagalos valdytojui ir taip pat gerbiamam Sta­
+    nislovui Sabinai, Jo Malonybės karaliaus sekretoriui, Vilniaus
+    vaitui, kad tuo laiku Turkijos imperatoriaus čiaušas Ibrahi-
+    mas, atvažiavęs nuo didžiojo Maskvos kunigaikščio, turėda­
+    mas tam tikrų reikalų į jo karališkąją malonybę, palikęs Vil­
+    niaus mieste tarnus su žirgais ir kai kuriais savo daiktais, būtų
+    atvažiavęs čia, pas jo malonybę karalių į Gardiną, bet Vieš­
+    pats Dievas savo šventąja valia tuo laiku jo karališkąją malo­
+    nybę mūsų valdovą teikėsi pašaukti į savo šventąją garbę,
+    mus ir visą Respubliką ištikus nelaimei, tasai čiaušas negali
+    būti šiuo metu išsiųstas neišsprendus tų reikalų, dėl kurių
+    buvo Turkijos imperatoriaus atsiųstas pas jo karališkąją ma­
+    lonybę. Todėl, jo pageidavimu, jam leidome kurį laiką pagy­
+    venti Vilniaus mieste, kol jų malonybės tarybos ponai visi čia,
+    į Gardiną, suvažiuos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179903
+
+- id: c-163512
+  citata_originali: |
+    289 (282). Apie Pagraudės ir Gardino valsčių nusiaubimą 1305 metais
+
+      Tų pačių metų žiemą brolis Eberhardas iš Firneburgo, Karaliaučiaus komtūras, su
+    dviem tūkstančiais raitelių patraukė  į Lietuvą. Tačiau negalime nepaminėti ir to, kad
+    brolis Konradas iš Lichtenhageno, Brandenburgo komtūras,  jį pralenkė, pasukdamas
+    su didele kariuomene  į Gardino pilies apylinkes, kurias  ir nusiaubė, degindamas bei
+    plėšdamas, nors daugiau ten nieko nepešė, nes Lietuvos žemės raiteliai irgi sujojo į šį
+    valsčių.
+  citata_rodoma: "Apie Pagraudės ir Gardino valsčių nusiaubimą 1305 metais\n\n  Tų pačių metų žiemą brolis Eberhardas iš Firneburgo, Karaliaučiaus komtūras, su\ndviem tūkstančiais raitelių patraukė  į Lietuvą. Tačiau negalime nepaminėti ir to, kad\nbrolis Konradas iš Lichtenhageno, Brandenburgo komtūras,  jį pralenkė, pasukdamas\nsu didele kariuomene  į Gardino pilies apylinkes, kurias  ir nusiaubė, degindamas bei\nplėšdamas, nors daugiau ten nieko nepešė, nes Lietuvos žemės raiteliai irgi sujojo į šį\nvalsčių."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179851
+
+- id: c-163514
+  citata_originali: |
+    Svarbesnė buvo jo nauja taikos sutartis su kry­
+    žiuočiais — per 8 mėnesius iš eilės jau trečias dokumentas. Jis
+    buvo surašytas slapta, medžioklės metu Dovydiškėse, tur būt, arti
+    Gardino (1380.V.31).
+  citata_rodoma: "Jis\nbuvo surašytas slapta, medžioklės metu Dovydiškėse, tur būt, arti\nGardino (1380.V.31)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179854
+    - t-179829
+    - t-179836
+
+- id: c-163515
+  citata_originali: |
+    1390 metų sausio pradžioje visą savo šei­
+    mą iš Gardino išsiuntęs į Prūsiją, ruošdamasis atnaujinti anks­
+    tesnes sutartis su didžiuoju magistru Konradu Ciolneriu, dar
+    labiau įtvirtino Gardiną kaip savo buveinę, sustiprino ir kitų
+    savo pilių gynybą. Tų karingų vienuolių viršininkas, greitas
+    pasinaudoti kaimynų nesutarimais, tik ir laukdamas pro­
+    gos išardyti Lietuvos ir Lenkijos sąjungą, vieną komtūrą at­
+    siuntė į Gardiną, kur tasai sausio 19 dieną netoli nuo šios
+    pilies sudarė sutartį su Vytautu. Netrukus po to Ordino
+    maršalas, vedinas 40 000 kryžiuočių kariauna, įsibrovė į Lie­
+    tuvą ir, susijungęs su Vytauto pulkais, užėmė Kernavę ir
+    Maišiagalą, o prie pat sostinės su karių likučiais nusiaubė
+    aplinkines žemes.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179850
+
+- id: c-163516
+  citata_originali: |
+    Dar sunkesni uždaviniai atiteko Kęstučiui vakarinėje valstybės
+    dalyje. Jis paveldėjo Trakus ir Gardiną su Palenke (Liet. Brasta).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179875
+
+- id: c-163523
+  citata_originali: |
+    Kryžiuočių stovykloje veikiąs Vytautas, kurį palaikė dalis
+    Lietuvos, Jogailai buvo gana pavojingas. Kęstutaitis iš pusbrolio
+    reikalavo tėviškės, bet Trakai jau buvo atiduoti Skirgailai. Tad
+    Vytautas tegalėjo gauti Gardiną su Palenkė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179830
+
+- id: c-163524
+  citata_originali: |
+    Iš pradžių aneksuotoje teritorijoje pradėtos kurti dvi gubernijos, tačiau
+    tepraėjus tik metams sujungtos į vieną Lietuvos vardu (Litovskaja guber-
+    nija). 1801 m. ši gubernija vėl padalyta į dvi: Lietuvos Vilniaus ir Lietuvos
+    Gardino gubernijas, kurios tapo pavaldžios tais pat metais Vilniuje pra-
+    dėjusiai veikti generalgubernatoriaus institucijai. 1819 m. nuo Vilniaus
+    gubernijos atskirtas ir Kuršo (Kurliandijos) gubernijai perduotas siauras
+    Lietuvos pajūrio ruožas – Palangos ir Šventosios apylinkės.
+  citata_rodoma: "1801 m. ši gubernija vėl padalyta į dvi: Lietuvos Vilniaus ir Lietuvos \nGardino gubernijas, kurios tapo pavaldžios tais pat metais Vilniuje pra-\ndėjusiai veikti generalgubernatoriaus institucijai. 1819 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179833
+
+- id: c-163527
+  citata_originali: |
+    Targovicos konfederacijai 1792  m. birželio 25 d. pritarė Vilniaus (t.  y.
+    Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas
+    Simonas Kosakovskis, jo brolis Livonijos vyskupas Juozapas Kosakovskis
+    ir Vilniaus vyskupas I. Masalskis. Rugsėjo 11 dieną Targovicos ir Vilniaus
+    konfederacijos Brastoje susijungė į vieną Abiejų Tautų konfederaciją ir
+    savo centru paskelbė Gardiną. LLV sąjungininkę Prūsiją išgąsdino gali-
+    mas valstybės sustiprėjimas dėl reformų, o Rusijos imperatorė Jekateri-
+    na II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos
+    sienas.
+  citata_rodoma: "Rugsėjo 11 dieną Targovicos ir Vilniaus \nkonfederacijos Brastoje susijungė į vieną Abiejų Tautų konfederaciją ir \nsavo centru paskelbė Gardiną. LLV sąjungininkę Prūsiją išgąsdino gali-\nmas valstybės sustiprėjimas dėl reformų, o Rusijos imperatorė Jekateri-\nna II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos \nsienas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179890
+
+- id: c-163528
+  citata_originali: |
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    bandant nuversti naująjį Lietuvos valdovą. Prūsijos ordi­
+    nas iš sykio griebėsi tos patogios progos pradėti karą ir nio­
+    koti tuos pavojingus jam kaimynus (1394 m.); kitais metais
+    Švitrigaila, kryžiuočių pulku vedinas, kartu su didžiuoju ma­
+    gistru Konradu Jungingenu įsibrovė į Lietuvą ir, nusiaubę
+    prie Gardino panemunės pavietus, sudegino Drohičiną, Nau­
+    garduką, Mirą ir Lydą, paėmė 2 200 belaisvių, 1 400 žirgų ir
+    prisiplėšė daugybę grobio, niekur nesutikę pasipriešinimo,
+    net iki Šalčininkų nusigavo51. Visa tai vyko žiemos pabaigo­
+    je, tik staigus atodrėkis privertė vokiečių kariuomenę skubi­
+    nai grįžti į savo kraštą, taigi jie nepriėjo iki sostinės ir pen­
+    kiolika dienų teplėšė Lietuvą.
+  citata_rodoma: "); kitais metais\nŠvitrigaila, kryžiuočių pulku vedinas, kartu su didžiuoju ma­\ngistru Konradu Jungingenu įsibrovė į Lietuvą ir, nusiaubę\nprie Gardino panemunės pavietus, sudegino Drohičiną, Nau­\ngarduką, Mirą ir Lydą, paėmė 2 200 belaisvių, 1 400 žirgų ir\nprisiplėšė daugybę grobio, niekur nesutikę pasipriešinimo,\nnet iki Šalčininkų nusigavo51. Visa tai vyko žiemos pabaigo­\nje, tik staigus atodrėkis privertė vokiečių kariuomenę skubi­\nnai grįžti į savo kraštą, taigi jie nepriėjo iki sostinės ir pen­\nkiolika dienų teplėšė Lietuvą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179870
+
+- id: c-163531
+  citata_originali: |
+    Su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais suta-
+    po Antano Tyzenhauzo veiklos, atnešusios didelių permainų į Lietuvos
+    ūkį, pradžia. Karališkosiose ekonomijose jis ėmėsi radikalių reformų:
+    steigė palivarkus, vietoje činšo reikalavo dviejų dienų lažo per savaitę,
+    buvo pradėta naujai rūšiuoti žemę, įvertinant jos kokybę, pradėti me-
+    lioruoti laukai, tiesiami keliai, auginamos naujos (olandų) gyvulių veis-
+    lės. A. Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją, įkūrė
+    matininkų, buhalterių, statybininkų, veterinarų mokyklas Gardine.
+  citata_rodoma: "Karališkosiose ekonomijose jis ėmėsi radikalių reformų: \nsteigė palivarkus, vietoje činšo reikalavo dviejų dienų lažo per savaitę, \nbuvo pradėta naujai rūšiuoti žemę, įvertinant jos kokybę, pradėti me- \nlioruoti laukai, tiesiami keliai, auginamos naujos (olandų) gyvulių veis-\nlės. A. Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją, įkūrė \nmatininkų, buhalterių, statybininkų, veterinarų mokyklas Gardine."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179874
+
+- id: c-163532
+  citata_originali: |
+    Pirmą kartą jį Dusburgas mini prie 1304 metų
+    (356 lape), pasakodamas, kaip brolis Eberhardas de Virnem-
+    burgas nusiaubė Lietuvos valsčių, vadintą Pagraudenef: im­
+    provise intravit territorium Lettoviae, dictum Pograuden [neti­
+    kėtai įsiveržė į Lietuvos teritoriją, vadinamą Pagraudenę].
+    Buvo tai Lietuvos ar Žemaitijos ir Prūsijos pasienio valsčius,
+    kuriame stovėjo Gedimino pilis, ir, regis, netoli nuo Garte-
+    no, tai yra Gardino, valsčiaus ir pilies, į kurią tuojau po ano
+    atėjo Brandenburgo komtūras Konradas Lichtenhagenas. To­
+    liau Dusburgas rašo: Sed vexillum fratrum cum sibi adjuncti
+    petit ä mane usque ad meridiem in monte ex opposito Castri Jede-
+    mine ubi dictus comes de Homberg et piures alii nobiles dignita­
+    tem militiae susceperunt [Bet brolių vėliava jam prisijungus
+    kovojo nuo ryto iki pat vidurdienio kalne priešais Gedimino
+    e
+    Chroniam Prussiae.
+    f
+    Kojelavičius Pagraudenę vadi-
+    na apylinkę Žemaitijoje: pograudien-
+    b C S 7/7 Samogitia agri.
+  citata_rodoma: "Pirmą kartą jį Dusburgas mini prie 1304 metų \n(356 lape), pasakodamas, kaip brolis Eberhardas de Virnem- \nburgas nusiaubė Lietuvos valsčių, vadintą Pagraudenef: im­\nprovise intravit territorium Lettoviae, dictum Pograuden [neti­\nkėtai įsiveržė į Lietuvos teritoriją, vadinamą Pagraudenę]. \nBuvo tai Lietuvos ar Žemaitijos ir Prūsijos pasienio valsčius, \nkuriame stovėjo Gedimino pilis, ir, regis, netoli nuo Garte- \nno, tai yra Gardino, valsčiaus ir pilies, į kurią tuojau po ano \natėjo Brandenburgo komtūras Konradas Lichtenhagenas. To­\nliau Dusburgas rašo: Sed vexillum fratrum cum sibi adjuncti \npetit ä mane usque ad meridiem in monte ex opposito Castri Jede- \nmine ubi dictus comes de Homberg et piures alii nobiles dignita­\ntem militiae susceperunt [Bet brolių vėliava jam prisijungus \nkovojo nuo ryto iki pat vidurdienio kalne priešais Gedimino\ne\nChroniam Prussiae."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179881
+
+- id: c-163533
+  citata_originali: |
+    Atsakydami į kryžiuočių bei kryži-
+    ninkų Ariogalos, Paštuvos puolimą,
+
+    1365 m. pradžioje Kęstutis, Algirdas,
+    Patrikas iš Gardino ir Aleksandras Ka-
+    rijotaitis puolė Skalvos žemę ir upės
+    krante sunaikino kelias priešo pilaites
+    (Kaustryčių ir kt.). Abi pusės ir toliau
+    puldinėjo viena kitos žemes. Lietuvos ir
+    kryžiuočių karas pasiekė aukščiausią es-
+    kalacijos lygį.
+  citata_rodoma: "Atsakydami į kryžiuočių bei kryži-\nninkų Ariogalos, Paštuvos puolimą,\n\n1365 m. pradžioje Kęstutis, Algirdas,\nPatrikas iš Gardino ir Aleksandras Ka-\nrijotaitis puolė Skalvos žemę ir upės\nkrante sunaikino kelias priešo pilaites\n(Kaustryčių ir kt.)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179849
+
+- id: c-163534
+  citata_originali: |
+    260 (253). Apie brolio Ditricho iš Ezbeko, kitų trijų brolių, daugybės krikščionių bei
+                                            netikėlių žūtį
+
+      1295 viešpaties metais, penktadienį prieš sekmines (gegužės 20), 5 broliai ir šimtas
+    penkiasdešimt vyrų iš Sembos ir Notangos išjojo link Gardino pilies; kai priartėjo prie
+    pilies, jie nutarė, palikę arklius, plaukti Nemunu žemyn; apiplėšę Nemuno pakrantėje
+    vieną lietuvių kaimą, nukovę ir paėmę į nelaisvę daug žmonių, vėl nuplaukė tolyn.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179867
+
+- id: c-163537
+  citata_originali: |
+    Karališkosiose ekonomijose jis ėmėsi radikalių reformų:
+    steigė palivarkus, vietoje činšo reikalavo dviejų dienų lažo per savaitę,
+    buvo pradėta naujai rūšiuoti žemę, įvertinant jos kokybę, pradėti me-
+    lioruoti laukai, tiesiami keliai, auginamos naujos (olandų) gyvulių veis-
+    lės. A. Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją, įkūrė
+    matininkų, buhalterių, statybininkų, veterinarų mokyklas Gardine. Jis
+
+    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
+    89
+    Lietuvos valstiečiai.
+  citata_rodoma: "A. Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją, įkūrė \nmatininkų, buhalterių, statybininkų, veterinarų mokyklas Gardine. Jis\n\n2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S\n89\nLietuvos valstiečiai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179872
+
+- id: c-163540
+  citata_originali: |
+    To viso patikimumui ir galiai patvirtinti mū­
+    sų antspaudas yra prikabintas. Aktuota ir duota Gardine,
+    artimiausią šeštadienį po šv. Baltramiejaus šventės, tūkstan­
+    tis penki šimtai pirmaisiais Viešpaties metais. Ten pat daly­
+    vaujant didžiai gerbiamiems, didingiesiems ir prakilnie­
+    siems vyskupui Albertui, Vilniaus kaštelionui ir Gardino
+    seniūnui Aleksandrui Jurgėvičiui, Trakų vaivadai ir LDK
+    didžiajam maršalkai Jonui iš Zabrežjės, LDK pataurininkiui
+    ir Bełsko seniūnui Mikalojui Mikolajevičiui, mūsų raikyto-
+    jui ir Slonimo tenuto laikytojui Jonušui Aleksandravičiui,
+    Glinsko kunigaikščiui ir mūsų rūmų maršalkai Mykolui, mū­
+    sų virtuvininkui Petrui Aleknavičiui ir daugeliui kitų, pasi­
+    tikėjimo vertų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179880
+
+- id: c-167172
+  citata_originali: |
+    Tą
+    pačią žiemą kryžiuočiai iš Ragainės du kar-
+    tus ėjo „prieš stabmeldžius“, žudė, degino
+    ir plėšė.
+
+    Vasarą su gausiais svetimšalių būriais
+    ir savais kariais maršalas žygiavo Gardino
+    link, bandė pereiti Nemuną brasta, bet
+    jiems buvo sukliudyta. Grįžęs namo, jis vėl
+    organizavo žygį iš Įsruties į Kauną, „atnešė
+    stabmeldžiams visokių nelaimių“, bet per
+
+    Kauno mūrinės pilies statyba.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183784
+
+- id: c-168311
+  citata_originali: |
+    Ramiai
+    praslinkus pavasariui, vasaros pradžioje prasidėjo nau­
+    ji susirėmimai. Skomantas, neseniai pabėgęs į Prūsiją,
+    netikėtai patraukė su prūsų kariais Gardino kryptimi.
+    Po kruvino antpuolio jis paėmė Gardino pilį, išžudė
+    įgulą, sugriovė arba sudegino visus įtvirtinimus; du
+    tūkstančiai raitelių, pasklidusių niokoti kraštą, išsivarė
+    didžiulį grobį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184950
+
+- id: c-168312
+  citata_originali: |
+    Grafas Verneris fon Hoinbergas ir
+    Adolfas fon Vintimelis bei
+    kiti Reino krašto didikai kaip
+    tik buvo atvykę į Prūsiją.
+    Atvykus šiems pagalbinin­
+    kams,
+    magistras Konradas,
+    atgavęs drąsą, dviem žygio voromis įsiveržė į Lietuvą
+    ir žiauriai nuniokojo visą Gardino kraštą. Taip pat Ka­
+    raliaučiaus komtūras Eberhardas fon Firneburgas, po
+    1304 m e ta i
+    P rū sijos
+    k ry žiu o čių
+    karas p rie š lie tu v iu s
+    182
+
+    ## Puslapis 181
+
+    Svirtilo išdavystės vėl užėmęs Aukaimio pilį, kurią,
+    kryžiuočių sugriautą, lietuviai buvo atstatę, išžudė gy­
+    nėjus ir sulygino su žeme įtvirtinimus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184951
+
+- id: c-168313
+  citata_originali: |
+    Kol lietuviai šitaip siautėjo Lenkijoje,
+    niekas jiems nepastojo kelio ir niekas nedrįso perse­
+    kioti traukiančių namo. Magistras Konradas, gavęs ži­
+    nią apie lenkų pralaimėjimą, pamanė, kad Gardino gy­
+    nėjai su kitais kariais išvesti į Lenkiją, todėl įsakė
+    Albertui Hagenui staiga užpulti Gardino pilį ir miestą,
+    likusius be gynėjų, ir užimti. Linksmai nusiteikę, prie­
+    šai iš arti grasino piliai, vildamiesi, jog klastingas su­
+    manymas pasiseks, tačiau jų kėslus suardė kilusi ne­
+    regėta audra.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184952
+
+- id: c-168314
+  citata_originali: |
+    Kadangi menkame miestelyje nebuvo nei tinkamų būs­
+    tų gyventi, nei deramos menės bendriems posėdžiams,
+    be to, vargu ar čia galėjo tikėtis kokių patogumų žie-
+    5 1 4
+
+    ## Puslapis 513
+
+    mą, vėl visą reikalą atidėjo kitiems metams ir, nieko
+    nenuveikę, išsiskirstė. Iš ten karalius nuvyko į Lietuvą
+    ir likusius žiemos mėnesius praleido Kaune, nes Vil­
+    niuje ir Gardine siautė maras.
+    Žiemos pabaigoje atvyko Lietuvon pas karalių Liud­
+    vikas, Antiochijos
+    patriar­
+    chas, popiežiaus pasiuntinys.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184953
+
+- id: c-168315
+  citata_originali: |
+    T aigi n u m o jęs ra n k a  į Č ekiją, k araliu s sugrįžo į Lie-
+    gaus reiškiniai, ištisas p en k io lik a d ien ų  šiau rės ly tu o se
+    spindėjo didžiulė kom eta, kuri, p asak  daugelio, p ra ­
+    našav u si visiem s didžiulius negandus. V is dėlto k u r k as
+    SIS
+    S k ita i a u k štin a  K a z i­
+    m ierą
+    valdovui Ač Girėjui, jo sū­
+    nus Mengli Girėjus, paskel­
+    btas sosto įpėdiniu, atsiuntė
+    didelę pasiuntinybę, sakyda-
+    1468 m e ta i
+    N io k o ja  Rusią
+    tuvą. Gardino seime luomai
+    svarstė visokiausius valsty­
+    bės reikalus tuo metu, kai
+    visuotinę baimę sukėlė dan-
+
+    ## Puslapis 517
+
+    tikresnę pranašystę atvežė Mengli Girėjaus pasiuntiniai,
+    sakydami, kad Užvolgio skitų chanas Maniakas rengia
+    karą prieš Rusią.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184954
+
+- id: c-171582
+  citata_originali: |
+    Arčiausiai jo yra
+    Gardinas, išsidėstęs prie Krono upės, dabar Nemunu vadina­
+    mos. Jis pastatytas iš dalies ant kalvos, o iš dalies slėnyje, kaip
+    įprasta tame krašte. Jame yra labai nedaug daugiaaukščių, ne­
+    daug plytinių namų, bet daug iš paprastos medžiagos kaimiškai
+    suręstų. Nėra nei mūrinių sienų, nei pylimų, nei gynybinių bokš­
+    tų, nei vartų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188693
+
+- id: c-171583
+  citata_originali: |
+    Vertė Antanas Dambrauskas.
+    ■ Tekstas, kuriuo autorius papildė paragrafą, reng­
+    damas antrąjį leidimą, vietoje ankstesniojo: „Apie
+    stabmeldžių atvertimą Lietuvoje. Šį straipsnį ga-
+    526
+
+    ## Puslapis 514
+
+    vau iš Gardino; tai ištrauka iš lotyniško spausdin­
+    to veikaloin folio, su žemėlapiais ir žymiausių Eu­
+    ropos miestų vaizdais, tarp kurių ir XVI amžiaus
+    Gardino vaizdas -  raižinys ant skardos, gana ge­
+    rai atspaustas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188694
+
+- id: c-171584
+  citata_originali: |
+    Tame vei­
+    kale turėtų būti ir Vilniaus vaizdas. Po trumpo
+    miesto aprašymo ir žinutės apie Lietuvos seimą,
+    posėdžiavusį Gardine 1567 metais (Ar posėdžia­
+    vo seimas Gardine 1567 metais, buvo abejonių,
+    kurių vien kronikos nepašalino. Iš tikrųjų tais me­
+    tais vyko Lenkijos seimas Piotrkove, trukęs ilgai
+    ir sėkmingai posėdžiavęs.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188695
+
+- id: c-171585
+  citata_originali: |
+    Romanas Sanguška kovojo kruvinus mū­
+    šius su Rusija; įvyko taip, kad karalius, Piotrkovo
+    seime parengęs abiejų tautų žygį, rudenį su ka­
+    riuomene išžygiavo iš Vilniaus, bet pasiekė tik Ra-
+    daškovičius; ten jis susitiko su caro pasiuntiniais,
+    pareiškusiais pageidavimą taikytis. Nors karalius
+    nenutraukė karo veiksmų, už kuriuos stojo San­
+    guška ir Jonas Chodkevičius, tačiau, matyt, sku­
+    bėjo sušaukti seimą Gardine dar 1567 metų pa­
+    baigoje, išsiuntinėjęs universalus Lietuvai. Čia ap­
+    rašomas seimas pradėjo posėdžiauti 1568 metų pa­
+    vasarį, nes Gardino archyvuose yra likęs pėdsa­
+    kas, jog tų metų balandžio 28 dieną karaliaus bū­
+    ta Gardine.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188696
+
+- id: c-171586
+  citata_originali: |
+    Čia ap­
+    rašomas seimas pradėjo posėdžiauti 1568 metų pa­
+    vasarį, nes Gardino archyvuose yra likęs pėdsa­
+    kas, jog tų metų balandžio 28 dieną karaliaus bū­
+    ta Gardine. Tą patvirtina ir įstatymų knyga: „Lie­
+    tuvos seimas Gardine 1568 metais sutiko, kad ka­
+    ralius kiekvienu atveju išduotų apsaugos raštus,
+    išskyrus atvejį, kai sugaunama nusikaltimo vieto­
+    je, tai yra išskyrus akivaizdų nusikaltimą, nuo ku­
+    rio dar nepraėjo metai ir šešios savaitės“ (Czacki.
+    527
+
+    ## Puslapis 515
+
+    O prawach.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188697
+
+- id: c-176307
+  citata_originali: |
+    Lietuvos gotikinės architektūros ypatumas – gynybinis pobūdis:
+    net ir sakraliniai pastatai turėjo gynybinius bokštus ar šaunamąsias an-
+    gas – Vytauto laikais daugiausia statyta būtent gynybinių statinių. Vytautas
+    perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine,
+    Naugarduke ir Lucke. Trakų salos pilies menė su gotikiniais kryžminiais
+    skliautais rodo, kad gotika buvo atėjusi ir į gynybinę architektūrą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193636
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

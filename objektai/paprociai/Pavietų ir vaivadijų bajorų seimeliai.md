@@ -10,6 +10,18 @@ tags:
   - elekcija
   - paprotys
   - seimas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Pavietų ir vaivadijų bajorų seimeliai
 
@@ -35,19 +47,31 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-02002"></a>
-- t-001
+- t-002
   global_id: t-02002
-  teiginys: 'Vėliau seimeliai buvo šaukiami atskiriems reikalams ir turėjo skirtingus vardus pagal atliekamą funkciją.'
+  teiginys: "Vėliau seimeliai buvo šaukiami atskiriems reikalams ir turėjo skirtingus vardus pagal atliekamą funkciją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "481352-481844; hash=8f7b762b0e5104bff0a53cfe360581b41951fc6e48b4672c707483f4d57f1703; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
+    - c-02240
 
 <a id="claim-t-02003"></a>
-- t-002
+- t-001
   global_id: t-02003
-  teiginys: 'Seimeliuose bajorija svarstydavo savo reikalus, rinkdavo teismą, kitus urėdus ir atstovus į seimą.'
+  teiginys: "Seimeliuose bajorija svarstydavo savo reikalus, rinkdavo teismą, kitus urėdus ir atstovus į seimą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "481236-481524; hash=2b71ecc301362b1971cb49640531740d9e324a3c16b3467d1b8d4c6e0f61c1e0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pavietų ir vaivadijų bajorų seimeliai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pavietų ir vaivadijų bajorų seimeliai\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
-
+    - c-02241
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -64,6 +88,7 @@ Nenurodyta
     dai, ir t. t.
     **3.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -79,8 +104,45 @@ Nenurodyta
     teismą ir kitus urėdus. Taip pat seimeliuose buvo renkami at-
     stovai į seimą ir surašomos jiems instrukcijos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-02240
+  citata_originali: |
+    Seimeliuose bajorija apsvarstydavo savo reikalus, išsirinkdavo
+    teismą ir kitus urėdus. Taip pat seimeliuose buvo renkami at-
+    stovai į seimą ir surašomos jiems instrukcijos. Vėliau seimeliai
+    buvo šaukiami vienam kuriam reikalui, ir kiekvienas iš jų turėjo
+    atskirus vardus: priešseiminiuose seimeliuose bū-
+    davo renkami atstovai į seimą; reliaciniuose atstovai,
+    grįžę iš seimo, padarydavo pranešimus apie seimo darbus;
+    elekciniuose būdavo renkami pavieto arba vaivadijos urė-
+    dai, ir t. t.
+    **3.
+  citata_rodoma: "Vėliau seimeliai\nbuvo šaukiami vienam kuriam reikalui, ir kiekvienas iš jų turėjo\natskirus vardus: priešseiminiuose seimeliuose bū-\ndavo renkami atstovai į seimą; reliaciniuose atstovai,\ngrįžę iš seimo, padarydavo pranešimus apie seimo darbus;\nelekciniuose būdavo renkami pavieto arba vaivadijos urė-\ndai, ir t. t."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-02002
+
+- id: c-02241
+  citata_originali: |
+    Seimeliai. Žemės teismams rinkti buvo įvesti viso pavieto
+    arba vaivadijos bajorų suvažiavimai, vadinami seimeliais.
+    Seimeliuose bajorija apsvarstydavo savo reikalus, išsirinkdavo
+    teismą ir kitus urėdus. Taip pat seimeliuose buvo renkami at-
+    stovai į seimą ir surašomos jiems instrukcijos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-02003

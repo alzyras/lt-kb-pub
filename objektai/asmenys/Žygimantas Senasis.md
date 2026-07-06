@@ -8,11 +8,6 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
-description: 'Žygimantas Senasis valdė Lietuvą siekdamas tvarkos, stiprino Vilniaus magistrato teises, rūpinosi vandentiekiu ir ribojo piktnaudžiavimą.'
-socialDescription: 'Žygimantas Senasis siejamas su Vilniaus magistrato teisių stiprinimu, miesto infrastruktūra ir valdovo sprendimais religinių ginčų metu.'
-seo_atnaujinta: '2026-07-02T19:20:23.305391+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -20,234 +15,666 @@ tags:
   - kunigaikštis
 amziai: []
 periodo_grupes: []
+media_total_count: '16'
+media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/7/75/Sigismund_I_the_Old%2C_King_of_Poland_%28Zygmunt_I._Stary%29_%28PL_MNK_XII-536_2017_Overall%29.jpg'
+media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ASigismund_I_the_Old%2C_King_of_Poland_%28Zygmunt_I._Stary%29_%28PL_MNK_XII-536_2017_Overall%29.jpg'
+media_primary_directness: 'direct'
+media_primary_relation_type: 'portrait_of'
+media_primary_json: |-
+  {"mediaId":"m-5a8673672d3361359e461941","title":"Sigismund I the Old, King of Poland (Zygmunt I. Stary) (PL MNK XII-536 2017 Overall).jpg","caption":"Portrait of Sigismund I (1467-1548), King of Poland, from the Jagiellonian dynasty","creator":"Lucas Cranach the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between circa 1553 and circa 1556 date QS:P571,+1553-00-00T00:00:00Z/8,P1319,+1553-00-00T00:00:00Z/9,P1326,+1556-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASigismund_I_the_Old%2C_King_of_Poland_%28Zygmunt_I._Stary%29_%28PL_MNK_XII-536_2017_Overall%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/75/Sigismund_I_the_Old%2C_King_of_Poland_%28Zygmunt_I._Stary%29_%28PL_MNK_XII-536_2017_Overall%29.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}
+media_direct_json: |-
+  [{"mediaId":"m-5a8673672d3361359e461941","title":"Sigismund I the Old, King of Poland (Zygmunt I. Stary) (PL MNK XII-536 2017 Overall).jpg","caption":"Portrait of Sigismund I (1467-1548), King of Poland, from the Jagiellonian dynasty","creator":"Lucas Cranach the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between circa 1553 and circa 1556 date QS:P571,+1553-00-00T00:00:00Z/8,P1319,+1553-00-00T00:00:00Z/9,P1326,+1556-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASigismund_I_the_Old%2C_King_of_Poland_%28Zygmunt_I._Stary%29_%28PL_MNK_XII-536_2017_Overall%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/75/Sigismund_I_the_Old%2C_King_of_Poland_%28Zygmunt_I._Stary%29_%28PL_MNK_XII-536_2017_Overall%29.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-7cdb10de4f7df8dd00989f7c","title":"Anonymous Sigismund I the Old.jpg","caption":"Portrait of Sigismund I the Old. label QS:Lfr,\"Portrait de Sigismond Ier le Vieux.\" label QS:Len,\"Portrait of Sigismund I the Old.\" label QS:Lpl,\"Portret Zygmunta I Starego.\" label QS:Lde,\"Bildnis König Sigismund I.\"","creator":"Anonymous Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1520s date QS:P571,+1520-00-00T00:00:00Z/8","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAnonymous_Sigismund_I_the_Old.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/41/Anonymous_Sigismund_I_the_Old.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-b4a4a157f862cb8b9ff85356","title":"Cranach the Younger Sigismund I the Old.jpg","caption":"Polish: Portret Zygmunta I Starego (1467–1548) Portrait of Sigismund I the Old title QS:P1476,pl:\"Portret Zygmunta I Starego (1467–1548) \" label QS:Lpl,\"Portret Zygmunta I Starego (1467–1548) \" label QS:Len,\"Portrait of Sigismund I the Old\" label QS:Lru,\"портрет Сигизмунда I Старого\" label QS:Lde,\"Porträt von Sigismund I. dem Alten\"","creator":"Lucas Cranach the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1553 date QS:P571,+1553-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACranach_the_Younger_Sigismund_I_the_Old.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/68/Cranach_the_Younger_Sigismund_I_the_Old.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-75d6129ebeecaec0b6b8e920","title":"Dürer Sigismund I Jagiellon.jpg","caption":"Portrait of Sigismund I the Old? (1467–1548), king of Poland label QS:Lfr,\"Portrait de Sigismond Ier Jagellon, roi de Pologne.\" label QS:Len,\"Portrait of Sigismund I Jagiellon, King of Poland.\" label QS:Lpl,\"Portret króla polskiego Zygmunta I Jagiellona.\"","creator":"Hans Dürer the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1530 date QS:P571,+1530-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AD%C3%BCrer_Sigismund_I_Jagiellon.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/68/D%C3%BCrer_Sigismund_I_Jagiellon.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-cb98e211ca24e18f5d30ee53","title":"Frumerie Sigismund I the Old.jpg","caption":"Swedish: Sigismund I, 1467-1548, konung av Polen Portrait of Sigismund I the Old. label QS:Len,\"Portrait of Sigismund I the Old.\" label QS:Lpl,\"Portret Zygmunta I Starego.\"","creator":"David Frumerie","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1667 date QS:P571,+1667-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AFrumerie_Sigismund_I_the_Old.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4d/Frumerie_Sigismund_I_the_Old.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-a8bdcf02b701d7c21622b4fb","title":"Hans Dürer - Portrait of Sigismund I the Old^ (1467–1548), king of Poland - MP 3177 - National Museum in Warsaw.jpg","caption":"Portrait of Sigismund I the Old? (1467–1548), king of Poland title QS:P1476,en:\"Portrait of Sigismund I the Old? (1467–1548), king of Poland \" label QS:Len,\"Portrait of Sigismund I the Old? (1467–1548), king of Poland \" label QS:Lpl,\"Portret króla polskiego Zygmunta I Jagiellona\" label QS:Lfr,\"Portrait de Sigismond Ier Jagellon, roi de Pologne.\"","creator":"Hans Dürer the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1530","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AHans_D%C3%BCrer_-_Portrait_of_Sigismund_I_the_Old%5E_%281467%E2%80%931548%29%2C_king_of_Poland_-_MP_3177_-_National_Museum_in_Warsaw.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Hans_D%C3%BCrer_-_Portrait_of_Sigismund_I_the_Old%5E_%281467%E2%80%931548%29%2C_king_of_Poland_-_MP_3177_-_National_Museum_in_Warsaw.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-cd263ed11ec1cf6cb75ad1d3","title":"Jungholz Sigismund I the Old.jpg","caption":"Polish: Portret Zygmunta I Starego Portrait of Sigismund I the Old. title QS:P1476,pl:\"Portret Zygmunta I Starego \" label QS:Lpl,\"Portret Zygmunta I Starego \" label QS:Len,\"Portrait of Sigismund I the Old.\" label QS:Lfr,\"Portrait de Sigismond Ier le Vieux.\"","creator":"Creator:Andreas Jungholz","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1546","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AJungholz_Sigismund_I_the_Old.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0d/Jungholz_Sigismund_I_the_Old.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-5f2f53f0b089c2743fd87e5c","title":"Kulmbach Sigismund I the Old.jpg","caption":"Portrait of Sigismund I the Old. label QS:Lfr,\"Portrait de Sigismond Ier le Vieux.\" label QS:Len,\"Portrait of Sigismund I the Old.\" label QS:Lpl,\"Portret Zygmunta I Starego.\" label QS:Lde,\"Bildnis König Sigismund I.\"","creator":"Hans von Kulmbach","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1511/1518","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKulmbach_Sigismund_I_the_Old.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/19/Kulmbach_Sigismund_I_the_Old.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-1fd236186e9b2b496619865e","title":"Nieznany malarz polski - Portrait of king Sigismund I the Old (1467–1548) - MP 4984 MNW - National Museum in Warsaw.jpg","caption":"Portrait of king Sigismund I the Old (1467–1548) title QS:P1476,en:\"Portrait of king Sigismund I the Old (1467–1548) \" label QS:Len,\"Portrait of king Sigismund I the Old (1467–1548) \" label QS:Lpl,\"Portret króla Zygmunta I Starego (1467-1548)\"","creator":"anonymous","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1750 and 1763 date QS:P,+1750-00-00T00:00:00Z/7,P1319,+1750-00-00T00:00:00Z/9,P1326,+1763-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ANieznany_malarz_polski_-_Portrait_of_king_Sigismund_I_the_Old_%281467%E2%80%931548%29_-_MP_4984_MNW_-_National_Museum_in_Warsaw.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/26/Nieznany_malarz_polski_-_Portrait_of_king_Sigismund_I_the_Old_%281467%E2%80%931548%29_-_MP_4984_MNW_-_National_Museum_in_Warsaw.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-b06fb172a9a2b87c3edf27fb","title":"Poland-01780 - Sigismund's Chapel (32080184076).jpg","caption":"Sigismund's Chapel one of the masterpieces of Polish architecture. Built as a funerary chapel for the last Jagiellons, it is considered by many art historians as \"the most beautiful example of the Tuscan Renaissance north of the Alps\". Financed by King Sigismund I the Old, it was built in 1519-33 by Bartolomeo Berrecci. A square-based chapel with a golden dome houses the tombs of its founder King Sigismund, as well as King Sigismund II Augustus and Anna Jagiellonka. The inner sculptures, stuccos and paintings were designed by some of the most renowned artists of the age. Wawel Cathedral, home to royal coronations and resting place of many national heroes; considered to be Poland's national sanctuary.","creator":"Dennis G. Jarvis","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.0","rightsNote":"Creative Commons Attribution-Share Alike 2.0","dateDisplay":"2016-09-24 09:10","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APoland-01780_-_Sigismund%27s_Chapel_%2832080184076%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d1/Poland-01780_-_Sigismund%27s_Chapel_%2832080184076%29.jpg","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-3cd43a84e01112c57a63efb5","title":"Sigismund I of Poland.PNG","caption":"Portrait of Sigismund I the Old .","creator":"Marcello Bacciarelli","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1768 and 1771 date QS:P571,+1750-00-00T00:00:00Z/7,P1319,+1768-00-00T00:00:00Z/9,P1326,+1771-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASigismund_I_of_Poland.PNG","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b4/Sigismund_I_of_Poland.PNG","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-7812350138d8e9bd586c8951","title":"Sigismund I the Old, King of Poland (Zygmunt I. Stary) (PL MNK XII-536 2017 Overall).tiff","caption":"Portrait of Sigismund I (1467-1548), King of Poland, from the Jagiellonian dynasty","creator":"Lucas Cranach the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between circa 1553 and circa 1556 date QS:P571,+1553-00-00T00:00:00Z/8,P1319,+1553-00-00T00:00:00Z/9,P1326,+1556-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASigismund_I_the_Old%2C_King_of_Poland_%28Zygmunt_I._Stary%29_%28PL_MNK_XII-536_2017_Overall%29.tiff","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1d/Sigismund_I_the_Old%2C_King_of_Poland_%28Zygmunt_I._Stary%29_%28PL_MNK_XII-536_2017_Overall%29.tiff","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-4ae5b92a3f56b846370d8afe","title":"Sigismundus Primus.png","caption":"not contemporary portrait showing King Sigismund Sigismund I the Old of Poland.","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1645 date QS:P,+1645-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASigismundus_Primus.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/66/Sigismundus_Primus.png","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-5147b3a3f94682b5ca6f9e41","title":"Workshop of Lucas Cranach (II) - Sigismundus I. (Czartoryski Museum).jpg","caption":"Polish: Portret Zygmunta I Starego (1467–1548) Sigismund I the Old label QS:Lru,\" Сигизму́нд I Ста́рый \" label QS:Lde,\" Sigismund der Alte \" label QS:Len,\" Sigismund I the Old \" label QS:Lpl,\" Zygmunt I Stary \"","creator":"Workshop of Lucas Cranach the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between circa 1553 and circa 1556 date QS:P571,+1553-00-00T00:00:00Z/8,P1319,+1553-00-00T00:00:00Z/9,P1326,+1556-00-00T00:00:00Z/9,P1480,Q5727902 or circa 1565 date QS:P571,+1565-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWorkshop_of_Lucas_Cranach_%28II%29_-_Sigismundus_I._%28Czartoryski_Museum%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8f/Workshop_of_Lucas_Cranach_%28II%29_-_Sigismundus_I._%28Czartoryski_Museum%29.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-f2ea27fb317ee2b5e9b6af81","title":"Zygmunt Stary.JPG","caption":"Portrait of Sigismund I of Poland .","creator":"Cristofano dell'Altissimo / After Hans von Kulmbach","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1511 and 1537 date QS:P571,+1550-00-00T00:00:00Z/7,P1319,+1511-00-00T00:00:00Z/9,P1326,+1537-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AZygmunt_Stary.JPG","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/02/Zygmunt_Stary.JPG","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-91d54e40c92b004f1e0fca80","title":"Žygimont Stary. Жыгімонт Стары (L. Cranach, 1565).jpg","caption":"Miniature of Sigismund I the Old .","creator":"Lucas Cranach the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1565 date QS:P571,+1565-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%C5%BDygimont_Stary._%D0%96%D1%8B%D0%B3%D1%96%D0%BC%D0%BE%D0%BD%D1%82_%D0%A1%D1%82%D0%B0%D1%80%D1%8B_%28L._Cranach%2C_1565%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2b/%C5%BDygimont_Stary._%D0%96%D1%8B%D0%B3%D1%96%D0%BC%D0%BE%D0%BD%D1%82_%D0%A1%D1%82%D0%B0%D1%80%D1%8B_%28L._Cranach%2C_1565%29.jpg","relationType":"manuscript_depiction_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
+media_contextual_json: |-
+  []
+media_all_json: |-
+  [{"mediaId":"m-5a8673672d3361359e461941","title":"Sigismund I the Old, King of Poland (Zygmunt I. Stary) (PL MNK XII-536 2017 Overall).jpg","caption":"Portrait of Sigismund I (1467-1548), King of Poland, from the Jagiellonian dynasty","creator":"Lucas Cranach the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between circa 1553 and circa 1556 date QS:P571,+1553-00-00T00:00:00Z/8,P1319,+1553-00-00T00:00:00Z/9,P1326,+1556-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASigismund_I_the_Old%2C_King_of_Poland_%28Zygmunt_I._Stary%29_%28PL_MNK_XII-536_2017_Overall%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/75/Sigismund_I_the_Old%2C_King_of_Poland_%28Zygmunt_I._Stary%29_%28PL_MNK_XII-536_2017_Overall%29.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-7cdb10de4f7df8dd00989f7c","title":"Anonymous Sigismund I the Old.jpg","caption":"Portrait of Sigismund I the Old. label QS:Lfr,\"Portrait de Sigismond Ier le Vieux.\" label QS:Len,\"Portrait of Sigismund I the Old.\" label QS:Lpl,\"Portret Zygmunta I Starego.\" label QS:Lde,\"Bildnis König Sigismund I.\"","creator":"Anonymous Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1520s date QS:P571,+1520-00-00T00:00:00Z/8","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAnonymous_Sigismund_I_the_Old.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/41/Anonymous_Sigismund_I_the_Old.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-b4a4a157f862cb8b9ff85356","title":"Cranach the Younger Sigismund I the Old.jpg","caption":"Polish: Portret Zygmunta I Starego (1467–1548) Portrait of Sigismund I the Old title QS:P1476,pl:\"Portret Zygmunta I Starego (1467–1548) \" label QS:Lpl,\"Portret Zygmunta I Starego (1467–1548) \" label QS:Len,\"Portrait of Sigismund I the Old\" label QS:Lru,\"портрет Сигизмунда I Старого\" label QS:Lde,\"Porträt von Sigismund I. dem Alten\"","creator":"Lucas Cranach the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1553 date QS:P571,+1553-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACranach_the_Younger_Sigismund_I_the_Old.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/68/Cranach_the_Younger_Sigismund_I_the_Old.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-75d6129ebeecaec0b6b8e920","title":"Dürer Sigismund I Jagiellon.jpg","caption":"Portrait of Sigismund I the Old? (1467–1548), king of Poland label QS:Lfr,\"Portrait de Sigismond Ier Jagellon, roi de Pologne.\" label QS:Len,\"Portrait of Sigismund I Jagiellon, King of Poland.\" label QS:Lpl,\"Portret króla polskiego Zygmunta I Jagiellona.\"","creator":"Hans Dürer the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1530 date QS:P571,+1530-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AD%C3%BCrer_Sigismund_I_Jagiellon.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/68/D%C3%BCrer_Sigismund_I_Jagiellon.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-cb98e211ca24e18f5d30ee53","title":"Frumerie Sigismund I the Old.jpg","caption":"Swedish: Sigismund I, 1467-1548, konung av Polen Portrait of Sigismund I the Old. label QS:Len,\"Portrait of Sigismund I the Old.\" label QS:Lpl,\"Portret Zygmunta I Starego.\"","creator":"David Frumerie","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1667 date QS:P571,+1667-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AFrumerie_Sigismund_I_the_Old.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4d/Frumerie_Sigismund_I_the_Old.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-a8bdcf02b701d7c21622b4fb","title":"Hans Dürer - Portrait of Sigismund I the Old^ (1467–1548), king of Poland - MP 3177 - National Museum in Warsaw.jpg","caption":"Portrait of Sigismund I the Old? (1467–1548), king of Poland title QS:P1476,en:\"Portrait of Sigismund I the Old? (1467–1548), king of Poland \" label QS:Len,\"Portrait of Sigismund I the Old? (1467–1548), king of Poland \" label QS:Lpl,\"Portret króla polskiego Zygmunta I Jagiellona\" label QS:Lfr,\"Portrait de Sigismond Ier Jagellon, roi de Pologne.\"","creator":"Hans Dürer the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1530","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AHans_D%C3%BCrer_-_Portrait_of_Sigismund_I_the_Old%5E_%281467%E2%80%931548%29%2C_king_of_Poland_-_MP_3177_-_National_Museum_in_Warsaw.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Hans_D%C3%BCrer_-_Portrait_of_Sigismund_I_the_Old%5E_%281467%E2%80%931548%29%2C_king_of_Poland_-_MP_3177_-_National_Museum_in_Warsaw.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-cd263ed11ec1cf6cb75ad1d3","title":"Jungholz Sigismund I the Old.jpg","caption":"Polish: Portret Zygmunta I Starego Portrait of Sigismund I the Old. title QS:P1476,pl:\"Portret Zygmunta I Starego \" label QS:Lpl,\"Portret Zygmunta I Starego \" label QS:Len,\"Portrait of Sigismund I the Old.\" label QS:Lfr,\"Portrait de Sigismond Ier le Vieux.\"","creator":"Creator:Andreas Jungholz","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1546","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AJungholz_Sigismund_I_the_Old.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0d/Jungholz_Sigismund_I_the_Old.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-5f2f53f0b089c2743fd87e5c","title":"Kulmbach Sigismund I the Old.jpg","caption":"Portrait of Sigismund I the Old. label QS:Lfr,\"Portrait de Sigismond Ier le Vieux.\" label QS:Len,\"Portrait of Sigismund I the Old.\" label QS:Lpl,\"Portret Zygmunta I Starego.\" label QS:Lde,\"Bildnis König Sigismund I.\"","creator":"Hans von Kulmbach","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1511/1518","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKulmbach_Sigismund_I_the_Old.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/19/Kulmbach_Sigismund_I_the_Old.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-1fd236186e9b2b496619865e","title":"Nieznany malarz polski - Portrait of king Sigismund I the Old (1467–1548) - MP 4984 MNW - National Museum in Warsaw.jpg","caption":"Portrait of king Sigismund I the Old (1467–1548) title QS:P1476,en:\"Portrait of king Sigismund I the Old (1467–1548) \" label QS:Len,\"Portrait of king Sigismund I the Old (1467–1548) \" label QS:Lpl,\"Portret króla Zygmunta I Starego (1467-1548)\"","creator":"anonymous","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1750 and 1763 date QS:P,+1750-00-00T00:00:00Z/7,P1319,+1750-00-00T00:00:00Z/9,P1326,+1763-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ANieznany_malarz_polski_-_Portrait_of_king_Sigismund_I_the_Old_%281467%E2%80%931548%29_-_MP_4984_MNW_-_National_Museum_in_Warsaw.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/26/Nieznany_malarz_polski_-_Portrait_of_king_Sigismund_I_the_Old_%281467%E2%80%931548%29_-_MP_4984_MNW_-_National_Museum_in_Warsaw.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-b06fb172a9a2b87c3edf27fb","title":"Poland-01780 - Sigismund's Chapel (32080184076).jpg","caption":"Sigismund's Chapel one of the masterpieces of Polish architecture. Built as a funerary chapel for the last Jagiellons, it is considered by many art historians as \"the most beautiful example of the Tuscan Renaissance north of the Alps\". Financed by King Sigismund I the Old, it was built in 1519-33 by Bartolomeo Berrecci. A square-based chapel with a golden dome houses the tombs of its founder King Sigismund, as well as King Sigismund II Augustus and Anna Jagiellonka. The inner sculptures, stuccos and paintings were designed by some of the most renowned artists of the age. Wawel Cathedral, home to royal coronations and resting place of many national heroes; considered to be Poland's national sanctuary.","creator":"Dennis G. Jarvis","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.0","rightsNote":"Creative Commons Attribution-Share Alike 2.0","dateDisplay":"2016-09-24 09:10","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APoland-01780_-_Sigismund%27s_Chapel_%2832080184076%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d1/Poland-01780_-_Sigismund%27s_Chapel_%2832080184076%29.jpg","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-3cd43a84e01112c57a63efb5","title":"Sigismund I of Poland.PNG","caption":"Portrait of Sigismund I the Old .","creator":"Marcello Bacciarelli","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1768 and 1771 date QS:P571,+1750-00-00T00:00:00Z/7,P1319,+1768-00-00T00:00:00Z/9,P1326,+1771-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASigismund_I_of_Poland.PNG","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b4/Sigismund_I_of_Poland.PNG","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-7812350138d8e9bd586c8951","title":"Sigismund I the Old, King of Poland (Zygmunt I. Stary) (PL MNK XII-536 2017 Overall).tiff","caption":"Portrait of Sigismund I (1467-1548), King of Poland, from the Jagiellonian dynasty","creator":"Lucas Cranach the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between circa 1553 and circa 1556 date QS:P571,+1553-00-00T00:00:00Z/8,P1319,+1553-00-00T00:00:00Z/9,P1326,+1556-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASigismund_I_the_Old%2C_King_of_Poland_%28Zygmunt_I._Stary%29_%28PL_MNK_XII-536_2017_Overall%29.tiff","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1d/Sigismund_I_the_Old%2C_King_of_Poland_%28Zygmunt_I._Stary%29_%28PL_MNK_XII-536_2017_Overall%29.tiff","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-4ae5b92a3f56b846370d8afe","title":"Sigismundus Primus.png","caption":"not contemporary portrait showing King Sigismund Sigismund I the Old of Poland.","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1645 date QS:P,+1645-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASigismundus_Primus.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/66/Sigismundus_Primus.png","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-5147b3a3f94682b5ca6f9e41","title":"Workshop of Lucas Cranach (II) - Sigismundus I. (Czartoryski Museum).jpg","caption":"Polish: Portret Zygmunta I Starego (1467–1548) Sigismund I the Old label QS:Lru,\" Сигизму́нд I Ста́рый \" label QS:Lde,\" Sigismund der Alte \" label QS:Len,\" Sigismund I the Old \" label QS:Lpl,\" Zygmunt I Stary \"","creator":"Workshop of Lucas Cranach the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between circa 1553 and circa 1556 date QS:P571,+1553-00-00T00:00:00Z/8,P1319,+1553-00-00T00:00:00Z/9,P1326,+1556-00-00T00:00:00Z/9,P1480,Q5727902 or circa 1565 date QS:P571,+1565-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWorkshop_of_Lucas_Cranach_%28II%29_-_Sigismundus_I._%28Czartoryski_Museum%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8f/Workshop_of_Lucas_Cranach_%28II%29_-_Sigismundus_I._%28Czartoryski_Museum%29.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-f2ea27fb317ee2b5e9b6af81","title":"Zygmunt Stary.JPG","caption":"Portrait of Sigismund I of Poland .","creator":"Cristofano dell'Altissimo / After Hans von Kulmbach","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1511 and 1537 date QS:P571,+1550-00-00T00:00:00Z/7,P1319,+1511-00-00T00:00:00Z/9,P1326,+1537-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AZygmunt_Stary.JPG","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/02/Zygmunt_Stary.JPG","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-91d54e40c92b004f1e0fca80","title":"Žygimont Stary. Жыгімонт Стары (L. Cranach, 1565).jpg","caption":"Miniature of Sigismund I the Old .","creator":"Lucas Cranach the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1565 date QS:P571,+1565-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%C5%BDygimont_Stary._%D0%96%D1%8B%D0%B3%D1%96%D0%BC%D0%BE%D0%BD%D1%82_%D0%A1%D1%82%D0%B0%D1%80%D1%8B_%28L._Cranach%2C_1565%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2b/%C5%BDygimont_Stary._%D0%96%D1%8B%D0%B3%D1%96%D0%BC%D0%BE%D0%BD%D1%82_%D0%A1%D1%82%D0%B0%D1%80%D1%8B_%28L._Cranach%2C_1565%29.jpg","relationType":"manuscript_depiction_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
 ---
 # Žygimantas Senasis
 
 ## Santrauka
 
-Žygimantas Senasis perėmė Lietuvos valdymą siekdamas įvesti tvarką ir aktyviai reguliavo Vilniaus miesto reikalus. Jis stiprino Vilniaus magistrato teises, 1522 m. grąžino jam miesto sargybą ir policiją, o 1532 m. įspėjo vaitą netaikyti miestiečiams prievartos. Valdovo sprendimai taip pat siejami su Vilniaus vandentiekiu, tiltu per Viliją, mėsos prekyvietėmis ir veiksmais prieš eretikais laikytus asmenis.
+sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žygimantui Senajam 1519 m. vedus Milano kunigaikštytę Boną Sforcą (Bona Sforza).
 
 ## Teiginiai
 
 <a id="claim-t-173307"></a>
-- t-001
+- t-015
   global_id: t-173307
-  teiginys: 'Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis turėjo stoti prieš dvasinį teismą.'
+  teiginys: "Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis turėjo stoti prieš dvasinį teismą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "566004-566899; hash=4f83ec91b52d957c8aa5efd39eacc8d38e83d22700303b2afeeecae3994fde52; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Abraomas Kulvietis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Abraomas Kulvietis: mention_match, person, gap=46"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Abraomas Kulvietis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-157629
 
 <a id="claim-t-173308"></a>
-- t-002
+- t-019
   global_id: t-173308
-  teiginys: '1514 m. Žygimantas Senasis rašė Varmės kanauninkui Andriui Kopernikui.'
+  teiginys: "1514 m. Žygimantas Senasis rašė Varmės kanauninkui Andriui Kopernikui."
+  temporaliniai_duomenys: "įvykio data: 1514 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "719488-720809; hash=b8e8485b0307305cb1bed20d5d96cbcd2b8f120c3755d1d9582d10554f89d047; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Varmė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Varmė: mention_match, place, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Varmė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-021
+    - c-157651
 
 <a id="claim-t-173309"></a>
-- t-003
+- t-011
   global_id: t-173309
-  teiginys: 'Žygimantas Senasis atidavė Vilniui savo šaltinį už Subačiaus vartų, kad miestas būtų aprūpintas vandeniu.'
+  teiginys: "Žygimantas Senasis atidavė Vilniui savo šaltinį už Subačiaus vartų, kad miestas būtų aprūpintas vandeniu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "526127-526610; hash=ab2b81d0a359c8041be50f58f21a8af679a43d8be23035f29a2b4317b7be90ed; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Subačius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Subačius: mention_match, place, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Subačius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-157633
 
 <a id="claim-t-173310"></a>
-- t-004
+- t-007
   global_id: t-173310
-  teiginys: 'Žygimantas Senasis perėmė Lietuvos valdymą ir siekė įvesti tvarką.'
+  teiginys: "Žygimantas Senasis perėmė Lietuvos valdymą ir siekė įvesti tvarką."
+  semantiniai_rysiai: "Žygimantas Senasis valdė Lietuva (0.92)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "516995-517574; hash=a55f55eb61b4b217293196683603728aca44ec4aec649c632205d32907bbd885; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Lietuva: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žygimantas Senasis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Žygimantas Senasis perėmė Lietuvos valdymą."
   pagrindžia:
-    - c-008
+    - c-157637
 
 <a id="claim-t-173311"></a>
-- t-005
+- t-009
   global_id: t-173311
-  teiginys: '1522 m. Žygimantas Senasis įsakė miesto sargybą ir policiją sugrąžinti Vilniaus magistratui.'
+  teiginys: "1522 m. Žygimantas Senasis įsakė miesto sargybą ir policiją sugrąžinti Vilniaus magistratui."
+  temporaliniai_duomenys: "įvykio data: 1522 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "519982-520485; hash=cf0de4b8d93eae0a4fe82ada6a20d9d8efb6d2e2b396c3f30fba641316c45916; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=63"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-018
+    - c-157648
 
 <a id="claim-t-173313"></a>
-- t-006
+- t-023
   global_id: t-173313
-  teiginys: 'Žygimantas Senasis pavedė Ulrikui Hozijui savo lėšomis pastatyti tiltą per Viliją prie Vilniaus.'
+  teiginys: "Žygimantas Senasis pavedė Ulrikui Hozijui savo lėšomis pastatyti tiltą per Viliją prie Vilniaus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "738971-740959; hash=17a385154b7a965aabeee9aea5d917f84472d986a71bea2950224da8576fc16f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilija: mention_match, place, gap=75"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Vilija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-030
+    - c-157662
 
 <a id="claim-t-173314"></a>
-- t-007
+- t-025
   global_id: t-173314
-  teiginys: '1543 m. Žygimantas Senasis leido Vilniaus vyskupui Povilui ir jo įpėdiniams steigti mėsos prekyvietes.'
+  teiginys: "1543 m. Žygimantas Senasis leido Vilniaus vyskupui Povilui ir jo įpėdiniams steigti mėsos prekyvietes."
+  temporaliniai_duomenys: "įvykio data: 1543 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "779647-780393; hash=0fce6baf96e12b5dace4f17658423620513143c98a148bab78847a82263dd0d3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=25"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-025
+    - c-157657
 
 <a id="claim-t-173315"></a>
-- t-008
+- t-034
   global_id: t-173315
-  teiginys: '1532 m. Žygimantas Senasis rašte Vilniaus vaitui įspėjo netaikyti Vilniaus miestiečiams jokios prievartos.'
+  teiginys: "1532 m. Žygimantas Senasis rašte Vilniaus vaitui įspėjo netaikyti Vilniaus miestiečiams jokios prievartos."
+  temporaliniai_duomenys: "įvykio data: 1532 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Dokumento antraštė ir data palaiko konkretų teiginį apie Žygimanto raštą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "604993-605214; hash=660159672a988e6d874ddb03f3a4b0ec08b3ba221485dad839aca5ce183ff946; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=25"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-157632
 
 <a id="claim-t-173316"></a>
-- t-009
+- t-031
   global_id: t-173316
-  teiginys: 'Žygimantas Senasis baudė miesto valdininkus už valdžios ribų peržengimą ir tramdė bajorų piktnaudžiavimą Vilniuje.'
+  teiginys: "Žygimantas Senasis baudė miesto valdininkus už valdžios ribų peržengimą ir tramdė bajorų piktnaudžiavimą Vilniuje."
+  semantiniai_rysiai: "Žygimantas Senasis buvo priešas Bajorai (0.72)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "522244-522753; hash=e11da890369242a4be96ca4c6d9f940537d5685e408c62506c160495e1eae59a; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_priesas -> Bajorai: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žygimantas Senasis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Bajorai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Bajorų tramdymas dėl piktnaudžiavimo pagrindžia konfliktinį, priešišką santykį."
   pagrindžia:
-    - c-019
+    - c-157649
 
 <a id="claim-t-173317"></a>
-- t-010
+- t-035
   global_id: t-173317
-  teiginys: '1542 m. Žygimantas Senasis suteikė Vilniaus vyskupui privilegiją prieš eretikus.'
+  teiginys: "1542 m. Žygimantas Senasis suteikė Vilniaus vyskupui privilegiją prieš eretikus."
+  temporaliniai_duomenys: "įvykio data: 1542 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citatos antraštė patvirtina privilegijos davėją, adresatą, temą ir metus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "621511-621978; hash=0aa94e0c3c9dc4514cc6462809c8fdcfebbdce478c45c7133beaba9a17f19e88; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-014
+    - c-157643
 
 <a id="claim-t-173318"></a>
-- t-011
+- t-017
   global_id: t-173318
-  teiginys: '1542 m. Žygimantas Senasis davė Vilniaus vyskupui privilegiją prieš eretikus.'
+  teiginys: "1542 m. Žygimantas Senasis davė Vilniaus vyskupui privilegiją prieš eretikus."
+  temporaliniai_duomenys: "įvykio data: 1542 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "621703-622057; hash=d0b13f709528d65af0742ccf25775ce5c1a1839eaf9f2df1b1312670eeb26846; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-026
+    - c-157658
 
 <a id="claim-t-173319"></a>
-- t-012
+- t-027
   global_id: t-173319
-  teiginys: 'Žygimantas Senasis dokumente vadintas Lenkijos karaliumi ir didžiuoju Lietuvos, Rusios, Prūsijos, Mazovijos bei Žemaitijos kunigaikščiu.'
+  teiginys: "Žygimantas Senasis dokumente vadintas Lenkijos karaliumi ir didžiuoju Lietuvos, Rusios, Prūsijos, Mazovijos bei Žemaitijos kunigaikščiu."
+  semantiniai_rysiai: "Žygimantas Senasis buvo valdovas Lenkija (0.88); Žygimantas Senasis buvo valdovas Mazovija (0.74)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "488483-488889; hash=0b0466eb496b75d6194a52e609104d1dc821285867010f42d72c4a3cc9e7d4a2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_valdovas -> Lenkija: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žygimantas Senasis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Dokumente Žygimantas tiesiogiai vadinamas Lenkijos karaliumi."
   pagrindžia:
-    - c-011
+    - c-157640
 
 <a id="claim-t-173320"></a>
-- t-013
+- t-022
   global_id: t-173320
-  teiginys: '1536 m. rugpjūčio 6 d. Žygimantas Senasis suteikė privilegiją rinkti muitą už perėjimą tiltu per Viliją.'
+  teiginys: "1536 m. rugpjūčio 6 d. Žygimantas Senasis suteikė privilegiją rinkti muitą už perėjimą tiltu per Viliją."
+  temporaliniai_duomenys: "įvykio data: 1536 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "737567-738626; hash=fe9f1849642fb7af0ee979891d9b6515c8a18481abaa55e3c4a4c6e88237d216; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilija: mention_match, place, gap=74"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Vilija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-024
+    - c-157655
 
 <a id="claim-t-173321"></a>
-- t-014
+- t-026
   global_id: t-173321
-  teiginys: 'Žygimantui Senajam atvykus į Vilnių, šalis buvo apsaugota nuo jai grėsusio pilietinio karo.'
+  teiginys: "Žygimantui Senajam atvykus į Vilnių, šalis buvo apsaugota nuo jai grėsusio pilietinio karo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "477200-477655; hash=2417c7e119690ce002dfaefd39b4f4ab49496a634388d6e1e649433e92806e51; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-157638
 
 <a id="claim-t-173322"></a>
-- t-015
+- t-003
   global_id: t-173322
-  teiginys: '1507 m. Melnike Žygimantas Senasis patvirtino 1388 m. Vytauto privilegiją Trakų žydams.'
+  teiginys: "1507 m. Melnike Žygimantas Senasis patvirtino 1388 m. Vytauto privilegiją Trakų žydams."
+  temporaliniai_duomenys: "įvykio data: 1388 m.; įvykio data: 1507 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir paremtas dokumento antrašte bei tekstu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "407990-408688; hash=33cb2ae080afd9a10add5d4ab59fdea0584260c1d804a35c1d1e64758e4937de; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Trakai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Trakai: mention_match, place, gap=58"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-012
+    - c-157641
+
+<a id="claim-t-173323"></a>
+- t-010
+  global_id: t-173323
+  teiginys: "Žygimantas Senasis baudė miesto valdininkus už valdžios ribų peržengimą ir tramdė bajorų piktnaudžiavimą Vilniuje."
+  semantiniai_rysiai: "Žygimantas Senasis buvo priešas Bajorai (0.72)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "522335-522826; hash=5de8e78b373c7a5209647e1ab1e0cd5c43a050cb6d5df360030c5fd0bcaf2c5f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_priesas -> Bajorai: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žygimantas Senasis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Bajorai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Bajorų tramdymas dėl piktnaudžiavimo rodo konfliktinį santykį, nors tai nėra karo priešas."
+  pagrindžia:
+    - c-157645
 
 <a id="claim-t-173324"></a>
-- t-017
+- t-030
   global_id: t-173324
-  teiginys: '1522 m. Žygimantas Senasis įsakė grąžinti Vilniaus miesto sargybą ir policiją magistratui.'
+  teiginys: "1522 m. Žygimantas Senasis įsakė grąžinti Vilniaus miesto sargybą ir policiją magistratui."
+  temporaliniai_duomenys: "įvykio data: 1522 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko faktą, bet teiginį reikia sutrumpinti ir išvalyti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "519783-520351; hash=8ee1716acb0f3290e7fa2fe2accd8dd9e341f8ee51843911036a24e6436e6ceb; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=34"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-157636
 
 <a id="claim-t-173325"></a>
-- t-018
+- t-014
   global_id: t-173325
-  teiginys: '1544 m. Brastos seime Žygimantas Senasis dar prieš mirtį atidavė sūnui Lietuvos valdžią.'
+  teiginys: "1544 m. Brastos seime Žygimantas Senasis dar prieš mirtį atidavė sūnui Lietuvos valdžią."
+  semantiniai_rysiai: "Žygimantas Senasis paskyrė Augustas (0.82); Augustas buvo sūnus Žygimantas Senasis (0.78); Augustas valdė Lietuva (0.76)"
+  temporaliniai_duomenys: "įvykio data: 1544 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia citatoje nurodytą įvykį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "546498-547032; hash=4ddaaac038d4a52750bdbeef0a860a4e7e7c7a197af402ec328e59c951b951ea; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "paskyre -> Augustas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žygimantas Senasis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Augustas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata nurodo, kad Žygimantas perdavė valdžią sūnui; kandidatuose sūnus pateiktas kaip Augustas."
   pagrindžia:
-    - c-013
+    - c-157642
 
 <a id="claim-t-173326"></a>
-- t-019
+- t-032
   global_id: t-173326
-  teiginys: 'Žygimanto Senojo valdymo metu Vilniuje atsirado reikšmingi statiniai, skirti miesto gerovei ir ištekliams didinti.'
+  teiginys: "Žygimanto Senojo valdymo metu Vilniuje atsirado reikšmingi statiniai, skirti miesto gerovei ir ištekliams didinti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "533536-534103; hash=821062dc6c455b167e180dffed366cf355fed7f4064d60598c04d085fc7f2c16; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-157631
 
 <a id="claim-t-173327"></a>
-- t-020
+- t-024
   global_id: t-173327
-  teiginys: 'Žygimantas Senasis suteikė Vilniaus vyskupui Povilui pasaulietinės valdžios įgaliojimus bažnytinėms cenzūroms vykdyti.'
+  teiginys: "Žygimantas Senasis suteikė Vilniaus vyskupui Povilui pasaulietinės valdžios įgaliojimus bažnytinėms cenzūroms vykdyti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "768235-769077; hash=f4c8b75493d57f9e6fb96b22b839d2d2fd169927374d535fd49660679b52452a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-028
+    - c-157660
 
 <a id="claim-t-173328"></a>
-- t-021
+- t-038
   global_id: t-173328
-  teiginys: '1544 m. Brastos seime Žygimantas Senasis dar prieš mirtį perdavė Lietuvos valdžią sūnui Žygimantui Augustui.'
+  teiginys: "1544 m. Brastos seime Žygimantas Senasis dar prieš mirtį perdavė Lietuvos valdžią sūnui Žygimantui Augustui."
+  semantiniai_rysiai: "Žygimantas Senasis valdė Lietuva (0.70)"
+  temporaliniai_duomenys: "įvykio data: 1544 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie Žygimanto Senojo veiksmą, o pradinė formuluotė labiau apie deputatus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "546498-547032; hash=4ddaaac038d4a52750bdbeef0a860a4e7e7c7a197af402ec328e59c951b951ea; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Lietuva: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žygimantas Senasis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Žygimantas turėjo Lietuvos valdžią, nes ją perdavė sūnui, nors teiginys tiesiogiai kalba apie perdavimą."
   pagrindžia:
-    - c-013
+    - c-157642
 
 <a id="claim-t-173329"></a>
-- t-022
+- t-036
   global_id: t-173329
-  teiginys: '1514 m. raštas Varmės kanauninkui Andriui Kopernikui buvo siejamas su Lenkijos karaliumi Žygimantu Senuoju.'
+  teiginys: "1514 m. raštas Varmės kanauninkui Andriui Kopernikui buvo siejamas su Lenkijos karaliumi Žygimantu Senuoju."
+  temporaliniai_duomenys: "įvykio data: 1514 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo pernelyg silpnas ir neįvardijo Žygimanto Senojo aiškiai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "718409-719699; hash=fd72b60dfd9c3f75455471d168aa035ea9f57e69c3f78b23c3ca7c18d01ed371; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gniezno: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Gniezno: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Gniezno\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-023
+    - c-157653
 
 <a id="claim-t-173330"></a>
-- t-023
+- t-028
   global_id: t-173330
-  teiginys: 'Žygimantas Senasis perėmė Lietuvos valdymą ir, anot autoriaus, tvirtai siekė įvesti tvarką.'
+  teiginys: "Žygimantas Senasis perėmė Lietuvos valdymą ir, anot autoriaus, tvirtai siekė įvesti tvarką."
+  semantiniai_rysiai: "Žygimantas Senasis valdė Lietuva (0.92)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "516995-517574; hash=a55f55eb61b4b217293196683603728aca44ec4aec649c632205d32907bbd885; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Lietuva: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žygimantas Senasis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Žygimantas Senasis perėmė Lietuvos valdymą."
   pagrindžia:
-    - c-008
+    - c-157637
 
 <a id="claim-t-173331"></a>
-- t-024
+- t-018
   global_id: t-173331
-  teiginys: 'Žygimantui Senajam, kaip broliui ir įpėdiniui, buvo patikėta kunigaikštienės Elenos teisių globa.'
+  teiginys: "Žygimantui Senajam, kaip broliui ir įpėdiniui, buvo patikėta kunigaikštienės Elenos teisių globa."
+  semantiniai_rysiai: "Žygimantas Senasis rėmė Elena (vyskupas, XV–XVI a.) (0.68)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "714220-716031; hash=0629d8d35613d72b43cc0a834673b20d4cd1dae458e8076100085765eebe1fa9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Elena (vyskupas, XV–XVI a.): 0.68"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žygimantas Senasis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Elenos teisių globos patikėjimas Žygimantui rodo jo pareigą ją remti ar globoti, nors ryšys yra teisinis."
   pagrindžia:
-    - c-017
+    - c-157646
 
 <a id="claim-t-173332"></a>
-- t-025
+- t-008
   global_id: t-173332
-  teiginys: '1536 m. rugsėjo 9 d. Vilniuje Žygimantas Senasis įsakė paskelbti naujus miesto įstatymus.'
+  teiginys: "1536 m. rugsėjo 9 d. Vilniuje Žygimantas Senasis įsakė paskelbti naujus miesto įstatymus."
+  semantiniai_rysiai: "Žygimantas Senasis keliavo į Vilnius (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1536 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatos faktą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "517893-518327; hash=71b0b486ffccd523baf026929b70eff8e56590674c601b684804a878d85bf8d7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žygimantas Senasis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Žygimantas Senasis buvo atvykęs į Vilnių."
   pagrindžia:
-    - c-027
+    - c-157659
 
 <a id="claim-t-173333"></a>
-- t-026
+- t-001
   global_id: t-173333
-  teiginys: 'Žygimantas Senasis 1519 m. vedė Milano kunigaikštytę Boną Sforcą.'
+  teiginys: "Žygimantas Senasis 1519 m. vedė Milano kunigaikštytę Boną Sforcą."
+  temporaliniai_duomenys: "įvykio data: 1519 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "114376-114828; hash=f21819df431ffe2169c458733bda479708a2bffd322f5f75504956d9d528d5fb; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Milanas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Milanas: mention_match, place, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Milanas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-020
+    - c-157650
+
+<a id="claim-t-173334"></a>
+- t-029
+  global_id: t-173334
+  teiginys: "1536 m. rugsėjo 9 d. Vilniuje Žygimantas Senasis įsakė paskelbti naujus miesto įstatymus."
+  semantiniai_rysiai: "Žygimantas Senasis keliavo į Vilnius (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1536 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "517793-518264; hash=ccc8749540c93b28246dabf6bd6a8ac760d328cfa893351252207dd10cf0f080; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žygimantas Senasis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Žygimantas Senasis lankėsi Vilniuje."
+  pagrindžia:
+    - c-157644
 
 <a id="claim-t-173335"></a>
-- t-028
+- t-013
   global_id: t-173335
-  teiginys: 'Žygimantas Senasis rėmė mokslus ir Vilniaus pilyje saugojo knygas lotynų, lenkų, rusų ir čekų kalbomis.'
+  teiginys: "Žygimantas Senasis rėmė mokslus ir Vilniaus pilyje saugojo knygas lotynų, lenkų, rusų ir čekų kalbomis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "541243-541559; hash=6622b159fb3d13ecc52d97b52c4646e995a81a459f2faf8e6dc4bb14167468bc; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=81"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-157634
 
 <a id="claim-t-173336"></a>
-- t-029
+- t-039
   global_id: t-173336
-  teiginys: 'Žygimantas Senasis patvirtino sąjungą su Krymu, nes naujasis LDK valdovas turėjo daug reikalų.'
+  teiginys: "Žygimantas Senasis patvirtino sąjungą su Krymu, nes naujasis LDK valdovas turėjo daug reikalų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "322400-322812; hash=c243dfbc7495ceae099126da6d5d04410ca7140ffdb55b7568df657e36cc7f96; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krymas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Krymas: mention_match, place, gap=41"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Krymas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-010
+    - c-157639
 
 <a id="claim-t-173337"></a>
-- t-030
+- t-037
   global_id: t-173337
-  teiginys: '1538 m. balandžio 6 d. Žygimantas Senasis rašė Vilniaus magistratui dėl vyskupo nesikišimo į miesto jurisdikcijos tarnų teises.'
+  teiginys: "1538 m. balandžio 6 d. Žygimantas Senasis rašė Vilniaus magistratui dėl vyskupo nesikišimo į miesto jurisdikcijos tarnų teises."
+  temporaliniai_duomenys: "įvykio data: 1538 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citatos antraštė patvirtina rašto datą, adresatą ir temą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "724952-725393; hash=d92c6f6974c1b531bffffca02037c76d850db0c1e27497520205f8c4d94790a7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-157635
 
 <a id="claim-t-173338"></a>
-- t-031
+- t-012
   global_id: t-173338
-  teiginys: '1515 m. Žygimantas Senasis leido Ulrikui Hozijui savo lėšomis statyti malūną prie Vilniaus.'
+  teiginys: "1515 m. Žygimantas Senasis leido Ulrikui Hozijui savo lėšomis statyti malūną prie Vilniaus."
+  temporaliniai_duomenys: "įvykio data: 1515 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "533631-534249; hash=035a1adf8268300bf5c3287831d33dd9c96da24f4c0780dedbb2b326f1460aa8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Malūnas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Malūnas: mention_match, thing, gap=62"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Malūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-022
+    - c-157652
 
 <a id="claim-t-173339"></a>
-- t-032
+- t-004
   global_id: t-173339
-  teiginys: 'Žygimantas Senasis, Glogovo kunigaikštis ir mirusio karaliaus brolis, atvyko į Vilnių ir padėjo išvengti pilietinio karo.'
+  teiginys: "Žygimantas Senasis, Glogovo kunigaikštis ir mirusio karaliaus brolis, atvyko į Vilnių ir padėjo išvengti pilietinio karo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "477200-477655; hash=2417c7e119690ce002dfaefd39b4f4ab49496a634388d6e1e649433e92806e51; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=79"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-157638
 
 <a id="claim-t-173340"></a>
 - t-033
   global_id: t-173340
-  teiginys: 'Vilniaus vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kad Abraomas Kulvietis stotų prieš dvasinį teismą.'
+  teiginys: "Vilniaus vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kad Abraomas Kulvietis stotų prieš dvasinį teismą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "565640-566693; hash=a34e16079c2c543493158e89f015c258734ec9aa566348c5a247cb55e5a9265f; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Abraomas Kulvietis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Abraomas Kulvietis: mention_match, person, gap=43"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Abraomas Kulvietis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-029
+    - c-157661
+
+<a id="claim-t-183855"></a>
+- t-040
+  global_id: t-183855
+  teiginys: "Žygimantas Senasis rėmė mokslus ir Vilniaus pilyje saugojo knygas lotynų, lenkų, rusų ir čekų kalbomis."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "540982-541455; hash=180ea3d3109efe7c38c4d86ee69fe932ae728c986fa096253be5ee8aa9bdb635; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=81"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-167240
 - susijęs iš [[objektai/daiktai/Karaliaus Žygimanto Senojo knygos Vilniaus pilyje.md#claim-t-87080|Karaliaus Žygimanto Senojo knygos Vilniaus pilyje]]: Karalius Žygimantas Senasis Vilniaus pilyje saugojo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis.
 - susijęs iš [[objektai/ivykiai/Žygimanto Senojo ir Bonos Sforcos vedybos.md#claim-t-20595|Žygimanto Senojo ir Bonos Sforcos vedybos]]: Žygimantas Senasis 1519 m. vedė Milano kunigaikštytę Boną Sforcą.
 - susijęs iš [[objektai/ivykiai/Žygimanto Senojo pavedimas Ulrikui Hozijui pastatyti tiltą per Viliją prie Vilniaus.md#claim-t-86972|Žygimanto Senojo pavedimas Ulrikui Hozijui pastatyti tiltą per Viliją prie Vilniaus]]: Žygimantas Senasis pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą per Viliją prie Vilniaus.
+- susijęs iš Žygimanto Senojo privilegija Petrui Laurinavičiui: 1538 m. sausio 25 d. Piotrkove Žygimantas Senasis suteikė Petrui Laurinavičiui privilegiją, patvirtinusią įvairius pirkimus.
 - susijęs iš [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.).md#claim-t-86879|Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]: Žygimantas Senasis paskyrė Joną Hozijų rinkti Vilijos tilto muitą po Ulriko Hozijaus ir pripažino jo pastangas taisant tiltą.
 - susijęs iš [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.).md#claim-t-86883|Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]: Žygimantas Senasis visiems laikams paskyrė Vilijos tilto mokestį Švč. Trejybės prieglaudai ir joje gyvenantiems vargšams.
 - susijęs iš [[objektai/ivykiai/Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.).md#claim-t-86888|Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)]]: Žygimantas Senasis nusprendė, kad Vilniaus katedros kapitula gali naudotis jurisdikcija ir ekskomunikacijos teise savo asmenų bei valdinių bylose.
@@ -304,8 +731,9 @@ periodo_grupes: []
     tvirtina Ossolinskis vertingame vei­
     kale Wiadomości Hist.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -330,6 +758,7 @@ periodo_grupes: []
     ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­
     mis, leisdamas imti trečią grūdą iki gyvos galvos15.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -353,6 +782,7 @@ periodo_grupes: []
     1532 m.
     Žygimantas, Dievo malone karalius.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -372,6 +802,7 @@ periodo_grupes: []
     nėjo už miesto apžiūrėti tos versmės ir įsitikinti, jog ji
     trykšta karaliaus, o ne privačioje žemėje8.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -390,6 +821,7 @@ periodo_grupes: []
     šimtą kapų grašių, - yra miesto ar­
     chyve.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -415,6 +847,7 @@ periodo_grupes: []
     aniae, Russiae, totiusq. Prussiae ac Masoviae etc. Dominus et
     Haeres.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -436,6 +869,7 @@ periodo_grupes: []
     tinės ginkluotės sargybinius, kad tvarkos mieste būtų žiūri­
     ma dieną ir naktį.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -465,6 +899,7 @@ periodo_grupes: []
     Žygimantas Senasis, apdovanotas proto ir charakterio pri­
     valumais ir tvirtai siekiantis įvesti tvarką.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -485,6 +920,7 @@ periodo_grupes: []
     tuvai, nuo kurios visiems laikams buvo atplėšta tiek žemių,
     jos sostinei tam tikru atžvilgiu buvo naudingas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -513,6 +949,7 @@ periodo_grupes: []
 
     Klecko pergalės vaisiai nebuvo ilgalaikiai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -532,6 +969,7 @@ periodo_grupes: []
     Lietuvos, Rusios, Prūsijos, Mazovijos, Žemaitijos ir 1.1, ku­
     nigaikštis. Ponas ir tėvonis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -559,6 +997,7 @@ periodo_grupes: []
     lius, Lietuvos, Rusios, Prūsijos, Žemaitijos ir kt. didysis ku­
     nigaikštis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -580,6 +1019,7 @@ periodo_grupes: []
     jorų buveine, iškėlė Lietuvos sostinę iki aukščiausio sukles­
     tėjimo viršūnės.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -607,6 +1047,7 @@ periodo_grupes: []
     Sigismundus Dei gratia Rex Poloniae Magnus Dux Litua-
     niae, Russiae, Prussiae, Masoviaeq. etc.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -627,6 +1068,7 @@ periodo_grupes: []
     metų rugsėjo 9 dieną, lankydamasis Vilniuje, jis įsakė, pri­
     tariant karalienei Bonai, paskelbti naujus miesto įstatymus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -647,6 +1089,7 @@ periodo_grupes: []
     nę šešerius metus4. Jis nepamiršo ir miesto pajamų, paja­
     mos augo ir buvo geriau tvarkomos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -688,6 +1131,7 @@ periodo_grupes: []
     džiąją Lietuvos, Rusios, Žemaitijos kunigaikštienę, jos veiks­
     mų bei teisių globą (protectio).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -707,6 +1151,7 @@ periodo_grupes: []
     atveju visi tarnautojai ir gyventojai paklusdavo vaivados ar­
     ba jo vietininko valdžiai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -728,6 +1173,7 @@ periodo_grupes: []
     miesto tuos pavaldinius, kurie buvo ten ramiai pragyve­
     nę šešerius metus4.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -747,6 +1193,7 @@ periodo_grupes: []
     Žygimantui Senajam 1519 m. vedus Milano kunigaikštytę Boną Sforcą
     (Bona Sforza).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -784,6 +1231,7 @@ periodo_grupes: []
     quoque assensus ad ejusmodi confirmationem obtinendam non
     accederet.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -810,6 +1258,7 @@ periodo_grupes: []
     žemiau Charitonovo palivarko prie Vilnelės16 iškilo popieriaus
     malūnas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -849,6 +1298,7 @@ periodo_grupes: []
     (Iš Dogelio rankraščių prie Lenkijos karalystės ir LDK diplomatinio
     kodekso buv.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -886,6 +1336,7 @@ periodo_grupes: []
     (Išrašo iš magistrato knygų vertimas)
     Viešpaties vardu Amen.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -917,6 +1368,7 @@ periodo_grupes: []
     (Iš Vilniaus kapitulos archyvo)
     Valerianus DEI gratia Episcopus Vilnensis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -938,6 +1390,7 @@ periodo_grupes: []
     niae, Russiae, Prussiae, Masoviaeq. etc. Dominus et haeres.
     Significamus tenore praesentium, quibus expedit universis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -955,6 +1408,7 @@ periodo_grupes: []
     tariant karalienei Bonai, paskelbti naujus miesto įstatymus.
     Jais patvirtinama, kad magistrato paskirtis - valdyti miestą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -980,6 +1434,7 @@ periodo_grupes: []
     išreikštos rašte, nepadės ar apskritai nenorės vykdyti ir tam
     priešinsis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1010,6 +1465,7 @@ periodo_grupes: []
     būsiąs priverstas stoti prieš civilinio teismo pareigūnus, va­
     dinamus Dzieckje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1058,6 +1514,7 @@ periodo_grupes: []
     karvės, kaip ir nuo viso to, kas už upės būtų vedamas ar
     varomas parduoti, - vienas denaras arba obolas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1078,11 +1535,783 @@ periodo_grupes: []
     gimo. Savo sukauptas knygas lotynų, lenkų, rusų ir čekų
     kalbomis saugojo Vilniaus pilyje25.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-034
+
+## Citatos
+
+- id: c-157629
+  citata_originali: |
+    Kai po trejų
+    metų senajam tikėjimui priešingos užuomazgos pradėjo įžū­
+    liai kerotis, išgąsdintas vyskupas kreipėsi į Žygimantą Se­
+    nąjį atkakliai reikalaudamas, kad šis karališkuoju autorite­
+    tu paremtų gynybai besirengiančią dvasininkiją. Visuomet
+    apsvarstantis savo veiksmus monarchas negalėjo likti ne­
+    dėmesingas karštligiškiems ir iš visų pusių atkakliai sklin­
+    dantiems dvariškių luomo prašymams: tad buvo paskelb­
+    tas karaliaus sprendimas, pagal kurį minėtasis Kulvietis
+    privalėjo stoti prieš dvasiškąjį teismą, prisipažinti nusikaltęs
+    ir paklusti kanoninei bausmei, o jeigu to daryti nepanorėtų,
+    būsiąs priverstas stoti prieš civilinio teismo pareigūnus, va­
+    dinamus Dzieckje. Bandymo pabėgti atveju būtų ištremtas,
+    savo eilėmis girdamas ir liaupsinda­
+    mas žymiausius ano laiko ponus,
+    taip pat šlovino ir Rotundą, kaip pa­
+    tvirtina Ossolinskis vertingame vei­
+    kale Wiadomości Hist.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173307
+
+- id: c-157631
+  citata_originali: |
+    Šios koplyčios fundacijos akte, 1543
+    metais išleistame to paties vyskupo
+    (žr. Grzybowski, 1. 40), matyti,
+    266
+
+    ## Puslapis 283
+
+    IV KNYGA
+    Visi reikšmingiausi statiniai, skirti Vilniaus miesto gerovei
+    ir ištekliams pagausinti, atsirado Žygimantui Senajam sėkmin­
+    gai ir sumaniai valdant kraštą. Malūnas, iki mūsų laikų vadin­
+    tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius
+    1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui
+    ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­
+    mis, leisdamas imti trečią grūdą iki gyvos galvos15.
+  citata_rodoma: "Grzybowski, 1. 40), matyti,\n266\n\n## Puslapis 283\n\nIV KNYGA\nVisi reikšmingiausi statiniai, skirti Vilniaus miesto gerovei \nir ištekliams pagausinti, atsirado Žygimantui Senajam sėkmin­\ngai ir sumaniai valdant kraštą. Malūnas, iki mūsų laikų vadin­\ntas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius \n1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui \nir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­\nmis, leisdamas imti trečią grūdą iki gyvos galvos15."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173326
+
+- id: c-157632
+  citata_originali: |
+    m.
+
+    ## Puslapis 318
+
+    VILNIAUS MIESTO ISTORIJA I I  TOMAS
+    II
+    RAŠTAS VILNIAUS VAITUI, ĮSPĖJANTIS JI,
+    KAD VILNIAUS MIESTIEČIAMS NETAIKYTŲ
+    JOKIOS PRIEVARTOS
+    (Iš Lietuvos Metrikos)
+    1532 m.
+    Žygimantas, Dievo malone karalius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173315
+
+- id: c-157633
+  citata_originali: |
+    Tai sukėlė nesiliaujančius vaidus
+    tarp šio ordino ir miestiečių, tad Žygimantas, kad paten­
+    kintų pirmąją sąlygą ir aprūpintų Vilnių vandeniu, kaip
+    kad buvo aprūpinta Krokuva, atidavė miestui nuosavą sa­
+    vo šaltinį netoli miesto, už Subačiaus vartų, prie kelio į
+    Žiupronis. Vandenis leido vamzdžiais po visus namus iš­
+    vedžioti. Netgi pats, 1535 metais būdamas Vilniuje, važi­
+    nėjo už miesto apžiūrėti tos versmės ir įsitikinti, jog ji
+    trykšta karaliaus, o ne privačioje žemėje8.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173309
+
+- id: c-157634
+  citata_originali: |
+    Karalius Žygimantas mylėjo mokslus, pats gavęs gerą iš­
+    silavinimą, rėmė visa tai, kas tik galėjo prisidėti prie jų au­
+    gimo. Savo sukauptas knygas lotynų, lenkų, rusų ir čekų
+    kalbomis saugojo Vilniaus pilyje25. Viešųjų mokyklų, ano lai-
+    garbingam Vilniaus magistratui už
+    šimtą kapų grašių, - yra miesto ar­
+    chyve.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173335
+
+- id: c-157635
+  citata_originali: |
+    M.P. Valerijonas
+
+    ## Puslapis 394
+
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    ŽYGIMANTO SENOJO RAŠTAS VILNIAUS MAGISTRATUI,
+    RAŠYTAS ANT POPIERIAUS SU PRISPAUSTU ANTSPAUDU
+    1538 METŲ BALANDŽIO 6-Ą, DĖL VYSKUPO NESIKIŠIMO
+    J TARNAUJANČIŲJŲ MIESTO JURISDIKCIJOJE TEISES
+    1533 METAIS
+    (Iš Vilniaus kapitulos archyvo rankraščių)
+    Sigismundus DEI gratia Rex Pol oniae Magnus Dux Litu-
+    aniae, Russiae, totiusq. Prussiae ac Masoviae etc. Dominus et
+    Haeres.
+  citata_rodoma: "Valerijonas\n\n## Puslapis 394\n\nVILNIAUS MIESTO ISTORIJA II TOMAS\nŽYGIMANTO SENOJO RAŠTAS VILNIAUS MAGISTRATUI, \nRAŠYTAS ANT POPIERIAUS SU PRISPAUSTU ANTSPAUDU  \n1538 METŲ BALANDŽIO 6-Ą, DĖL VYSKUPO NESIKIŠIMO \nJ TARNAUJANČIŲJŲ MIESTO JURISDIKCIJOJE TEISES \n1533 METAIS\n(Iš Vilniaus kapitulos archyvo rankraščių)\nSigismundus DEI gratia Rex Pol oniae Magnus Dux Litu- \naniae, Russiae, totiusq. Prussiae ac Masoviae etc. Dominus et \nHaeres."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173337
+
+- id: c-157636
+  citata_originali: |
+    Atrodo, kad kiekvienas jų miestui ginti privalėjo tu­
+    rėti šarvus, muškietą ir ragotinę, o miesto taryba - stebėti,
+    kad bendromis lėšomis išlaikomos patrankos ir arkebuzos bū­
+    tų gerai prižiūrimos. Miesto sargyba ir policija, laikinai pri­
+    klausiusi pilies tarnybai, dar pagal Vladislovo Jogailos po­
+    tvarkį, po to, kai miestą apjuosė mūrine siena, buvo sugrąžinta
+    magistratui - karaliaus Žygimanto 1522 metų įsakymu. Ma­
+    gistratas, Krokuvos miesto pavyzdžiu, turėjo išlaikyti 24 įpras­
+    tinės ginkluotės sargybinius, kad tvarkos mieste būtų žiūri­
+    ma dieną ir naktį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173324
+
+- id: c-157637
+  citata_originali: |
+    Miesto teisė, po kurios skraiste Yilniaus gyventojai naudo­
+    josi savo nuosavybe ir tam tikromis laisvėmis, kai kada bu­
+    vo vaivados arba jo vietininko galioje, dažnai dargi paklus­
+    dama savavališkai vaitų arba miesto viršininkų valdžiai.
+    Žodžiu, Vilnius, nors tuomet jau gausiai gyvenamas, dide­
+    lis ir turtingas miestas, dar nebuvo galutinai atsikratęs bar­
+    bariškumo apnašų. Bet Lietuvos valdymą perėmė karalius
+    —  • —
+    257
+
+    ## Puslapis 274
+
+    258
+
+    ## Puslapis 275
+
+    IV KNYGA
+    Žygimantas Senasis, apdovanotas proto ir charakterio pri­
+    valumais ir tvirtai siekiantis įvesti tvarką.
+  citata_rodoma: "Bet Lietuvos valdymą perėmė karalius\n—  • —\n257\n\n## Puslapis 274\n\n258\n\n## Puslapis 275\n\nIV KNYGA\nŽygimantas Senasis, apdovanotas proto ir charakterio pri­\nvalumais ir tvirtai siekiantis įvesti tvarką."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173310
+    - t-173330
+
+- id: c-157638
+  citata_originali: |
+    Pastarosios pergalės iš­
+    garsintas, jiems nesant, kad kokios būtų užgrobęs Didžio­
+    sios Kunigaikštystės valdžią48. Tačiau netrukus į Vilnių at­
+    vyko Žygimantas, Glogovo kunigaikštis iš Silezijos, mirusio
+    karaliaus brolis, visi nurimo, ir šalis buvo apsaugota nuo jai
+    grėsusio pilietinio karo.
+    Trumpas Aleksandro valdymas, gana nesėkmingas Lie­
+    tuvai, nuo kurios visiems laikams buvo atplėšta tiek žemių,
+    jos sostinei tam tikru atžvilgiu buvo naudingas.
+  citata_rodoma: "Tačiau netrukus į Vilnių at­\nvyko Žygimantas, Glogovo kunigaikštis iš Silezijos, mirusio\nkaraliaus brolis, visi nurimo, ir šalis buvo apsaugota nuo jai\ngrėsusio pilietinio karo.\nTrumpas Aleksandro valdymas, gana nesėkmingas Lie­\ntuvai, nuo kurios visiems laikams buvo atplėšta tiek žemių,\njos sostinei tam tikru atžvilgiu buvo naudingas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173339
+    - t-173321
+
+- id: c-157639
+  citata_originali: |
+    Pasiuntinys
+    taip pat gabeno Kazanės chano Mahometo-
+
+    Amino laišką, kuriame jis Lietuvai siūlė są-
+
+    jungą prieš Maskvą. Naujasis LDK valdovas
+
+    Žygimantas Senasis ir taip turėjo reikalų į
+
+    valias, todėl sąjunga su Krymu buvo patvir-
+
+    tinta. Tiesa, po kelerių metų totorių antpuo-
+    liai ir tuo pačiu kovos su jais vėl atsinaujino,
+    todėl galime sakyti, kad politine prasme
+
+    Klecko pergalės vaisiai nebuvo ilgalaikiai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173336
+
+- id: c-157640
+  citata_originali: |
+    Kadangi manome, kad iš vi­
+    sų krikščioniškojo monarcho darbų ir pastangų joks netei­
+    kia tiek daug nemirtingos šlovės, kaip rūpinimasis DIEVO
+    garbinimu, kuriuo žmonės ir įrodo, kad prisimena iš visa­
+    galio DIEVO gaunamas geradarybes ir yra dėkingi. Taigi
+    mes, Žygimantas, DIEVO malone Lenkijos karalius, didysis
+    Lietuvos, Rusios, Prūsijos, Mazovijos, Žemaitijos ir 1.1, ku­
+    nigaikštis. Ponas ir tėvonis.
+  citata_rodoma: "Taigi \nmes, Žygimantas, DIEVO malone Lenkijos karalius, didysis \nLietuvos, Rusios, Prūsijos, Mazovijos, Žemaitijos ir 1.1, ku­\nnigaikštis. Ponas ir tėvonis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173319
+
+- id: c-157641
+  citata_originali: |
+    ## Puslapis 210
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    V
+    PRIVILEGIJA, SUTEIKTA DIDŽIOJO LIETUVOS
+    KUNIGAIKŠČIO ALEKSANDRO VYTAUTO 1388 METŲ
+    VIEŠPATIES GIMIMO DIENĄ LUCKE TRAKŲ ŽYDAMS, O
+    ŽYGIMANTO SENOJO PATVIRTINTA MELNIKE 1507 METAIS,
+    PIRMADIENI, PRIEŠ TRIS KARALIUS
+    Viešpaties vardu Amen. Kad [įsivėlusi] klaida per nerū­
+    pestingumą dėl vykstančių reikalų kartais neatneštų kokios
+    nors skriaudos, atsirado protingas poreikis, kad tai būtų iš­
+    dėstyta raštu ir sutvirtinta ir patikimų liudytojų liudijimu
+    patvirtinta. Amžinai šio dalyko atminčiai mes, Žygimantas
+    Senasis, Dievo malone išrinktas Lenkijos Karalystės kara­
+    lius, Lietuvos, Rusios, Prūsijos, Žemaitijos ir kt. didysis ku­
+    nigaikštis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173322
+
+- id: c-157642
+  citata_originali: |
+    Tačiau šis Statutas tarnavo išim­
+    tinai tik šlėktų luomui, nes miestui kuo iškilmingiausiai bu­
+    vo garantuojamos Magdeburgo teisės. Tame pačiame seime
+    Lietuvos deputatai sutiko Žygimantą Augustą pripažinti ka­
+    raliumi po tėvo mirties. Bet Žygimantas, metų naštos prislėg­
+    tas, dar prieš mirtį atidavė sūnui Lietuvos valdžią (1544 m.)
+    Brastos seime, ir šis įvykis, vėl darydamas Vilnių pagrindi­
+    niu valdžios židiniu ir prašmatnaus dvaro bei turtingų ba­
+    jorų buveine, iškėlė Lietuvos sostinę iki aukščiausio sukles­
+    tėjimo viršūnės.
+  citata_rodoma: "Tame pačiame seime \nLietuvos deputatai sutiko Žygimantą Augustą pripažinti ka­\nraliumi po tėvo mirties. Bet Žygimantas, metų naštos prislėg­\ntas, dar prieš mirtį atidavė sūnui Lietuvos valdžią (1544 m.) \nBrastos seime, ir šis įvykis, vėl darydamas Vilnių pagrindi­\nniu valdžios židiniu ir prašmatnaus dvaro bei turtingų ba­\njorų buveine, iškėlė Lietuvos sostinę iki aukščiausio sukles­\ntėjimo viršūnės."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173328
+    - t-173325
+
+- id: c-157643
+  citata_originali: |
+    Kulkos minimos švininės, geležinės ir akmeninės. Dauge­
+    liui pilių, siųsdami patrankas, ginklus ir kulkas, pridėdavę
+    ir jų liejimo formas bei daugybę įrangos, reikalingos apka­
+    sams daryti.
+
+    ## Puslapis 332
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    V
+    KARALIAUS ŽYGIMANTO SENOJO PRIVILEGIJA
+    PRIEŠ ERETIKUS, DUOTA VILNIAUS VYSKUPUI
+    1542 METAIS
+    (Iš Vilniaus kapitulos rankraščių)
+    Sigismundus Dei gratia Rex Poloniae Magnus Dux Litua-
+    niae, Russiae, Prussiae, Masoviaeq. etc.
+  citata_rodoma: "Dauge­\nliui pilių, siųsdami patrankas, ginklus ir kulkas, pridėdavę \nir jų liejimo formas bei daugybę įrangos, reikalingos apka­\nsams daryti.\n\n## Puslapis 332\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nV\nKARALIAUS ŽYGIMANTO SENOJO PRIVILEGIJA \nPRIEŠ ERETIKUS, DUOTA VILNIAUS VYSKUPUI \n1542 METAIS\n(Iš Vilniaus kapitulos rankraščių)\nSigismundus Dei gratia Rex Poloniae Magnus Dux Litua- \nniae, Russiae, Prussiae, Masoviaeq."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173317
+
+- id: c-157644
+  citata_originali: |
+    Šio išmintingo karaliaus nuopel­
+    nas - vietinio Lietuvos ūkio pradmenys bei tvarka jos sosti­
+    nėje.
+    Netvarka ir apsileidimas, įsitvirtinę miesto administra­
+    cijoje dėl silpnos karaliaus Aleksandro valdžios, ir iš to nuolat
+    kylantys kivirčai tarp miesto valdžios ir Vilniaus gyventojų
+    privertė Žygimantą Senąjį įvesti naują ir griežtą tvarką. 1536
+    metų rugsėjo 9 dieną, lankydamasis Vilniuje, jis įsakė, pri­
+    tariant karalienei Bonai, paskelbti naujus miesto įstatymus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173334
+
+- id: c-157645
+  citata_originali: |
+    Tei­
+    singasis Žygimantas, nedarydamas savo pavaldiniams jo­
+    kių išimčių, rūsčiai baudė miesto valdininkus, jeigu šie
+    peržengdavo jiems suteiktos valdžios ribas3, taip pat kuo
+    atkakliausiai tramdė bajorus, kad nebandytų pik­
+    tnaudžiauti mieste. Kad Vilniaus gyventojai būtų saugesni
+    ir jų daugėtų, jis griežtai uždraudė bajorams iškelti iš
+    miesto tuos pavaldinius, kurie buvo ten ramiai pragyve­
+    nę šešerius metus4. Jis nepamiršo ir miesto pajamų, paja­
+    mos augo ir buvo geriau tvarkomos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173323
+
+- id: c-157646
+  citata_originali: |
+    Tą gyvasties dvasią ir sielą Die­
+    vui ir mūsų Gelbėtojui, o kūną žemei patikime, kurį nuro­
+    dome palaidoti mūsų karalystėje šalia dieviškųjų senelio,
+    tėvo ir brolio, mūsų Lenkijos karalių, kapų. Šios ir taip pat
+    žemiau aprašytos paskutinės mūsų valios karalystėje ir Lie­
+    tuvos Didžiojoje Kunigaikštystėje vykdytoju bei mūsų ir mū­
+    sų tėvonijos visų ir atskirų turtų: aukso, sidabro, gėrybių ir
+    visų kitų dalykų, bei kilnojamojo ir nekilnojamojo mūsų tur­
+    to, ypač to, kurį specialiame registre ar kodicile, mūsų kara­
+    lystės antspaudu užantspauduotame, mes surašėme, iš tik­
+    rųjų vieninteliu, tiesioginiu ir neabejotinu paveldėtoju ir
+    įpėdiniu renkame ir paskiriame, žinoma, šviesiausiąjį kuni­
+    gaikštį poną Žygimantą, Dievo malone Lenkijos karalių, Di­
+    džiojo Glogovo, Opavo Silezijoje kunigaikštį ir tos pačios
+    aukštutinės ir žemutinės Silezijos bei Luzatijos vyriausiąjį
+    seniūną, mūsų brangiausiąjį brolį, suteikdami jam visą val­
+    džią, visą sykiu ir atskirai kilnojamąjį ir nekilnojamąjį turtą
+    ir iždą (thesauros), auksą, sidabrą, brangenybes ir visus ki­
+    tus turtus, mums priklausančius, prie mūsų ar kur nors ki­
+    tur esančius, perimti, paimti ar iš jų išimti visoms ir pavie­
+    nėms, dvasinėms ir pasaulietinėms reikmėms, ir mūsų
+    tarnams už mus algas išmokėti ir visokiais būdais vardan
+    mūsų išganymo taip, kaip iš dorybingumo ir broliškos mei­
+    lės nutars ir nuspręs, paskirstyti. Šiam ponui kunigaikščiui
+    Žygimantui, broliui ir paveldėtojui, mūsų įpėdiniui ir ypa­
+    tingosios paskutinės valios vykdytojui bei visiems karalys­
+    tės ir Lietuvos Didžiosios Kunigaikštystės prelatams ir tei­
+    sėjams atskirai (specialiter) perduodame ir patikime
+    šviesiausiąją kunigaikštienę ir mūsų žmoną ponią Eleną, di­
+    džiąją Lietuvos, Rusios, Žemaitijos kunigaikštienę, jos veiks­
+    mų bei teisių globą (protectio).
+  citata_rodoma: "Šiam ponui kunigaikščiui\nŽygimantui, broliui ir paveldėtojui, mūsų įpėdiniui ir ypa­\ntingosios paskutinės valios vykdytojui bei visiems karalys­\ntės ir Lietuvos Didžiosios Kunigaikštystės prelatams ir tei­\nsėjams atskirai (specialiter) perduodame ir patikime\nšviesiausiąją kunigaikštienę ir mūsų žmoną ponią Eleną, di­\ndžiąją Lietuvos, Rusios, Žemaitijos kunigaikštienę, jos veiks­\nmų bei teisių globą (protectio)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173331
+
+- id: c-157648
+  citata_originali: |
+    Miesto sargyba ir policija, laikinai pri­
+    klausiusi pilies tarnybai, dar pagal Vladislovo Jogailos po­
+    tvarkį, po to, kai miestą apjuosė mūrine siena, buvo sugrąžinta
+    magistratui - karaliaus Žygimanto 1522 metų įsakymu. Ma­
+    gistratas, Krokuvos miesto pavyzdžiu, turėjo išlaikyti 24 įpras­
+    tinės ginkluotės sargybinius, kad tvarkos mieste būtų žiūri­
+    ma dieną ir naktį. Tačiau karo bei gresiančio priešų užpuolimo
+    atveju visi tarnautojai ir gyventojai paklusdavo vaivados ar­
+    ba jo vietininko valdžiai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173311
+
+- id: c-157649
+  citata_originali: |
+    Buvo laikomasi deramų abipusių tarpu­
+    savio santykių tarp miesto tarnautojų ir miestiečių. Tei­
+    singasis Žygimantas, nedarydamas savo pavaldiniams jo­
+    kių išimčių, rūsčiai baudė miesto valdininkus, jeigu šie
+    peržengdavo jiems suteiktos valdžios ribas3, taip pat kuo
+    atkakliausiai tramdė bajorus, kad nebandytų pik­
+    tnaudžiauti mieste. Kad Vilniaus gyventojai būtų saugesni
+    ir jų daugėtų, jis griežtai uždraudė bajorams iškelti iš
+    miesto tuos pavaldinius, kurie buvo ten ramiai pragyve­
+    nę šešerius metus4.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173316
+
+- id: c-157650
+  citata_originali: |
+    Lietuvos bėda, kad
+    ji dažnu atveju nesuspėjo ar neturėjo galimybių pasiekti „gilesnę“ Europą
+    ir europeizacija baigdavosi lenkėjimu. Ši aplinkybė išryškėjo reformacijos
+    metu, kai buvo pradėta kelti gyvųjų kalbų reikšmė.
+    Renesansas ir reformacija
+    Humanistinio išsilavinimo žmonių būta jau XV–XVI a.
+    sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko
+    Žygimantui Senajam 1519 m. vedus Milano kunigaikštytę Boną Sforcą
+    (Bona Sforza).
+  citata_rodoma: "sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173333
+
+- id: c-157651
+  citata_originali: |
+    ## Puslapis 390
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    LENKIJOS KARALIUS ŽYGIMANTAS
+    VARMĖS KANAUNINKUI ANDRIUI KOPERNIKUI
+    1514 METAI
+    (Iš Dogelio rankraščių prie Lenkijos karalystės ir LDK diplomatinio
+    kodekso buv. Vilniaus universiteto bibliotekoje )
+    Quum Jure Nostro postposito difficultatibusque futuris
+    fomitem subducehtes petenti Capitulo Ecclesiae Varmiensis
+    concessimus ut electio quam nobis non salutatis fecerunt de
+    R-ndo in X-to Patre D-no Fabiano moderno Varmiensi Epis­
+    copo valida baberetur, nonnullos articulos conferimus quibus
+    cautum est, quomodo in futurum vacante Sede Episcopus
+    eligi sine Nostra nostrorumque successorum adversus Capi­
+    tulum controversia deberet, ne indė postea tale aliquid excita­
+    ri possit, quod statum ejus Ecclesiae cujus nos patronus su­
+    mus offenderet, volentesque ut ejusmodi compositio in
+    articulos redacta de Sacrosanctae Sedis Apostolicae assensu
+    rata atque firma fieret, fecimus impetrare a S-smo D-no Nost­
+    ro confirmationem. Nonnulli vero Canonici Ecclesiae Var-
+    miensis in Urbė agentes nescimus qua temeritate impedimen­
+    tum cum lenitate nostra objecerunt, ne boc negotium a Sede
+    Apostolica approbaretur, cum quibus uti intelleximus et tu
+    sentias, quamobrem Mandatum dudum denegaveris ut tuus
+    quoque assensus ad ejusmodi confirmationem obtinendam non
+    accederet.
+  citata_rodoma: "## Puslapis 390\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nLENKIJOS KARALIUS ŽYGIMANTAS\nVARMĖS KANAUNINKUI ANDRIUI KOPERNIKUI\n1514 METAI\n(Iš Dogelio rankraščių prie Lenkijos karalystės ir LDK diplomatinio\nkodekso buv."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173308
+
+- id: c-157652
+  citata_originali: |
+    40), matyti,
+    266
+
+    ## Puslapis 283
+
+    IV KNYGA
+    Visi reikšmingiausi statiniai, skirti Vilniaus miesto gerovei
+    ir ištekliams pagausinti, atsirado Žygimantui Senajam sėkmin­
+    gai ir sumaniai valdant kraštą. Malūnas, iki mūsų laikų vadin­
+    tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius
+    1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui
+    ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­
+    mis, leisdamas imti trečią grūdą iki gyvos galvos15. O po kele­
+    lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir
+    žemiau Charitonovo palivarko prie Vilnelės16 iškilo popieriaus
+    malūnas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173338
+
+- id: c-157653
+  citata_originali: |
+    Jokūbo, apaštalo, šventės išvakarėse, tūkstantis
+    penki šimtai šeštaisiais Viešpaties metais, mūsų karaliavi­
+    mo penktaisiais. Ten pat dalyvaujant Vilniaus vyskupui di­
+    džiai gerbiamam Kristuje tėvui ponui Albertui ir didingie­
+    siems, garbingiesiems, prakilniesiems ir kilmingiesiems -
+    Trakų vaivadai Mikalojui Mikolajevičiui, Trakų kaštelionui
+    ir Žemaičių seniūnui Stanislovui Janavičiui, Gniezno baž­
+    nyčios ir mūsų karalystės kancleriui Jonui iš Lasko (Laszko),
+    didžiajam maršalkai Jonui Jurgevičiui iš Zabrežjės, mūsų Di­
+    džiosios Kunigaikštystės lauko etmonui Stanislovui Kiškai,
+    mūsų Lietuvos rūmų maršalkai kunigaikščiui Mykolui Lvo-
+    vičiui Glinskiui, Vilniaus vaivada Jonui Mikolajevičiui, Sta­
+    nislovui Janavičiui iš Zabrežjės, mūsų gydytojui, Gniezno
+    kanauninkui Motiejui iš Blonių, karalystės rūmų iždininkui
+    Stanislovui Milanovskiui, mūsų Didžiosios Kunigaikštystės
+    rūmų pakamariui ir Petrui Narbutavičiui, mūsų dvariškiui
+    Martynui Volskiui ir daugeliui kitų mūsų tarėjų ir rūminin­
+    kų, specialiai pakviestų liudininkų, nuoširdžiai ištikimų ir
+    mums mielų.
+
+    ## Puslapis 390
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    LENKIJOS KARALIUS ŽYGIMANTAS
+    VARMĖS KANAUNINKUI ANDRIUI KOPERNIKUI
+    1514 METAI
+    (Iš Dogelio rankraščių prie Lenkijos karalystės ir LDK diplomatinio
+    kodekso buv.
+  citata_rodoma: "Ten pat dalyvaujant Vilniaus vyskupui di­\ndžiai gerbiamam Kristuje tėvui ponui Albertui ir didingie­\nsiems, garbingiesiems, prakilniesiems ir kilmingiesiems - \nTrakų vaivadai Mikalojui Mikolajevičiui, Trakų kaštelionui \nir Žemaičių seniūnui Stanislovui Janavičiui, Gniezno baž­\nnyčios ir mūsų karalystės kancleriui Jonui iš Lasko (Laszko), \ndidžiajam maršalkai Jonui Jurgevičiui iš Zabrežjės, mūsų Di­\ndžiosios Kunigaikštystės lauko etmonui Stanislovui Kiškai, \nmūsų Lietuvos rūmų maršalkai kunigaikščiui Mykolui Lvo- \nvičiui Glinskiui, Vilniaus vaivada Jonui Mikolajevičiui, Sta­\nnislovui Janavičiui iš Zabrežjės, mūsų gydytojui, Gniezno \nkanauninkui Motiejui iš Blonių, karalystės rūmų iždininkui \nStanislovui Milanovskiui, mūsų Didžiosios Kunigaikštystės \nrūmų pakamariui ir Petrui Narbutavičiui, mūsų dvariškiui \nMartynui Volskiui ir daugeliui kitų mūsų tarėjų ir rūminin­\nkų, specialiai pakviestų liudininkų, nuoširdžiai ištikimų ir \nmums mielų.\n\n## Puslapis 390\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nLENKIJOS KARALIUS ŽYGIMANTAS \nVARMĖS KANAUNINKUI ANDRIUI KOPERNIKUI \n1514 METAI\n(Iš Dogelio rankraščių prie Lenkijos karalystės ir LDK diplomatinio \nkodekso buv."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173329
+
+- id: c-157655
+  citata_originali: |
+    Šio rašto patikimumui mūsų antspaudas yra prikabintas.
+    Duota Vilniuje, liepos dvidešimt šeštąją, tūkstantis penki
+    šimtai trisdešimt trečiaisiais Viešpaties metais. Dalyvaujant
+    didžiai gerbiamiems Kristuje tėvams ponams Pšemislio vys­
+    kupui Jonui Chojevskiui, Vilniaus vyskupui Jonui, prakil­
+    niesiems ir garbingiesiems Vilniaus kaštelionui ir Lietuvos
+    Didžiosios Kunigaikštystės rūmų bei kariuomenės maršal­
+    kai, taip pat vyriausiajam Gardino seniūnui Jurgiui Radvi­
+    lai, Naugarduko vaivadai Albertui Goštautui, Vitebsko vai­
+    vadai Motiejui Ochmistrovičiui, mūsų Lietuvos Didžiosios
+    Kunigaikštystės iždininkui Ivanui Homostajui ir daugeliui
+    kitų liudininkų.
+    Karalius ŽYGIMANTAS
+
+    ## Puslapis 402
+
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    ŠVIESIAUSIOJO KARALIAUS ŽYGIMANTO SENOJO
+    PRIVILEGIJA
+    DĖL TEISĖS RINKTI MUITĄ IŠ PRAEIVIŲ TILTU
+    PER VILIJOS UPĘ SUTEIKIMO PIRMIAUSIA
+    ULRIKUI HOZIJUI, PASKUI ŠVENČIAUSIOSIOS TREJYBĖS
+    PRIEGLAUDAI (ŠPITOLEI),
+    IŠLEISTA" 1536 METŲ RUGPJŪČIO 6 DIENĄ
+    LOTYNŲ KALBA
+    (Išrašo iš magistrato knygų vertimas)
+    Viešpaties vardu Amen.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173320
+
+- id: c-157657
+  citata_originali: |
+    Norime ir įsakome, kad lei­
+    dimas minėtam ponui vyskupui Povilui ir jo įpėdiniams Vil­
+    niaus vyskupams steigti minėtas mėsos prekyvietes su mo­
+    kesčių iš tokių mėsinių mokėjimu bažnyčios muzikantams
+    būtų amžinas ir nepakeistas, ir į bažnytinį, pas mus priimtą,
+    imunitetą tai įrašome ir inkorporuojame šiuo raštu, prie
+    kurio patikimumui patvirtinti pakabinamas antspaudas.
+    Duota Velavičiuose artimiausią pirmadienį po šv. Liucijos,
+    mergelės ir kankinės, šventės, tūkstantis penki šimtai ketu­
+    riasdešimt trečiaisiais Viešpaties metais.
+    Karalius ŽYGIMANTAS
+    411
+
+    ## Puslapis 428
+
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    VALERIJONO BURSOS PASTATYMAS IR
+    APRŪPINIMAS
+    1579 METAI
+    (Iš Vilniaus kapitulos archyvo)
+    Valerianus DEI gratia Episcopus Vilnensis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173314
+
+- id: c-157658
+  citata_originali: |
+    ## Puslapis 332
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    V
+    KARALIAUS ŽYGIMANTO SENOJO PRIVILEGIJA
+    PRIEŠ ERETIKUS, DUOTA VILNIAUS VYSKUPUI
+    1542 METAIS
+    (Iš Vilniaus kapitulos rankraščių)
+    Sigismundus Dei gratia Rex Poloniae Magnus Dux Litua-
+    niae, Russiae, Prussiae, Masoviaeq. etc. Dominus et haeres.
+    Significamus tenore praesentium, quibus expedit universis.
+  citata_rodoma: "## Puslapis 332\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nV\nKARALIAUS ŽYGIMANTO SENOJO PRIVILEGIJA\nPRIEŠ ERETIKUS, DUOTA VILNIAUS VYSKUPUI\n1542 METAIS\n(Iš Vilniaus kapitulos rankraščių)\nSigismundus Dei gratia Rex Poloniae Magnus Dux Litua-\nniae, Russiae, Prussiae, Masoviaeq."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173318
+
+- id: c-157659
+  citata_originali: |
+    Netvarka ir apsileidimas, įsitvirtinę miesto administra­
+    cijoje dėl silpnos karaliaus Aleksandro valdžios, ir iš to nuolat
+    kylantys kivirčai tarp miesto valdžios ir Vilniaus gyventojų
+    privertė Žygimantą Senąjį įvesti naują ir griežtą tvarką. 1536
+    metų rugsėjo 9 dieną, lankydamasis Vilniuje, jis įsakė, pri­
+    tariant karalienei Bonai, paskelbti naujus miesto įstatymus.
+    Jais patvirtinama, kad magistrato paskirtis - valdyti miestą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173332
+
+- id: c-157660
+  citata_originali: |
+    Taip pat norime, kad to, kuris vienu
+    ar kitu būdu daugiau kaip metus išdrįs bažnytinių cenzūrų
+    vengti ir paniekinti, kad ir kas jis būtų, ar katalikų tikėjimo,
+    ar stačiatikių apeigų, atžvilgiu būtų praplėsta pasaulietinė
+    valdžia, kurią suteikiame ponui Vilniaus vyskupui Povilui
+    ir kitiems jo įpėdiniams, būsimiems Vilniaus vyskupams, ir
+    duodame tai patvirtinantį raštą. O jei reikės ar iškils dvejo­
+    nių dėl vietos ar asmens, gali šauktis mūsų ir mūsų parei­
+    gūnų pagalbos. Todėl šiuo raštu įgaliojame visus seniūnus
+    ir mūsų valdinius, kad, iškilus bet kokio pobūdžio būtiny­
+    bei, kiek tik kartų būtų pono Vilniaus vyskupo ar jo institu­
+    cijos instigatoriaus kviečiami, suteiktų jiems savo pagalbą; į
+    didelę mūsų nemalonę pateks tas, kuris šios mūsų valios,
+    išreikštos rašte, nepadės ar apskritai nenorės vykdyti ir tam
+    priešinsis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173327
+
+- id: c-157661
+  citata_originali: |
+    Dar 1539
+    metais, Vilniaus dieceziją valdant Alšėnų kunigaikščiui Vil­
+    niaus vyskupui Povilui, kunigas Abraomas Kulvietis, teolo­
+    gijos daktaras, lietuvių kilmės, bet į Vilnių atvykęs iš Vokie­
+    tijos, kur ilgai ėjo mokslus, pirmasis šiame mieste pasėjo
+    naujas Martyno Liuterio religijos opinijas42 ir savo įsteigtoje
+    mokykloje išlavino net šešiasdešimt mokinių. Kai po trejų
+    metų senajam tikėjimui priešingos užuomazgos pradėjo įžū­
+    liai kerotis, išgąsdintas vyskupas kreipėsi į Žygimantą Se­
+    nąjį atkakliai reikalaudamas, kad šis karališkuoju autorite­
+    tu paremtų gynybai besirengiančią dvasininkiją. Visuomet
+    apsvarstantis savo veiksmus monarchas negalėjo likti ne­
+    dėmesingas karštligiškiems ir iš visų pusių atkakliai sklin­
+    dantiems dvariškių luomo prašymams: tad buvo paskelb­
+    tas karaliaus sprendimas, pagal kurį minėtasis Kulvietis
+    privalėjo stoti prieš dvasiškąjį teismą, prisipažinti nusikaltęs
+    ir paklusti kanoninei bausmei, o jeigu to daryti nepanorėtų,
+    būsiąs priverstas stoti prieš civilinio teismo pareigūnus, va­
+    dinamus Dzieckje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173340
+
+- id: c-157662
+  citata_originali: |
+    Dėl to mes, Žygimantas, Dievo malone Lenkijos
+    karalius, Didysis Lietuvos, Rusios, Prūsijos, Mazovijos, Že­
+    maitijos ir 1.1, kunigaikštis, valdovas ir paveldėtojas. Šiuo raštu
+    skelbiame visiems bendrai ir kiekvienam atskirai, tiek dabar
+    esantiems, tiek ateityje būsiantiems, kuriuos žinia apie jį pa­
+    sieks. Kai mes ankstesniais metais svarstėme mūsų LDK val­
+    dinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus,
+    kuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto
+    patirdavę, besikeliant per tą upę nukentėdavę jų daiktai. Ap­
+    mąstydami, kaip mūsų pavaldiniai galėtų išvengti šių nepa­
+    togumų, sumanėme per tą upę pastatydinti tvirtą tiltą, dėl ko
+    mus anksčiau ragino ir garbingasis Ulrikas Hozijus, mūsų Vii-
+    ----• ----
+    386
+
+    ## Puslapis 403
+
+    IV KNYGA
+    niaus pilies viršininkas, todėl mes nusprendėme, kad tai rei­
+    kalingas dalykas, ir trokšdami tai įgyvendinti, gerai pažin­
+    dami ir deramai įvertindami šio garbingo Ulriko Hozijaus
+    dorumą ir sąžiningumą, pavedėme jam, kad jis tą tiltą per
+    Vilijos upę prie mūsų Vilniaus miesto nutiestų ir pastatytų,
+    kiek įmanoma, ir kaip jam atrodytų, kuo tvirtesnį savo lėšo­
+    mis ir išlaidomis pagal žemiau aprašytas sąlygas ir taisykles,
+    būtent: kad pastačius ir atidarius žadėtąjį tiltą, per kurį va­
+    žiuojantys žmonės patogiai ten ir atgal galėtų vykti, tam pa­
+    čiam Ulrikui Hozijui, mūsų įstatymu ir leidimu, leista laisvai
+    ir teisėtai rinkti ir reikalauti muitų arba mokestį nuo praeivių
+    žemiau aprašytu būdu, tai yra, nuo vieno vežimo malkų ar
+    šiaudų, šieno ir bet kokios rūšies javų, kaip ir kitų produktų,
+    kuriuos kas nors vežtų parduoti vienu arkliu - denaras arba
+    obolas; nuo vieno saiko arba statinės druskos - vienas obo-
+    las, nuo vieno prikrauto prekių vežimo, traukiamo arklio, -
+    3 denarai arba obolai; nuo vieno dvikinkio briko, prikrauto
+    prekių, - penki denarai arba obolai; nuo kiekvieno jaučio ir
+    karvės, kaip ir nuo viso to, kas už upės būtų vedamas ar
+    varomas parduoti, - vienas denaras arba obolas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173313
+
+- id: c-167240
+  citata_originali: |
+    Suklestėjus prekybai, sukru­
+    to ir iki tol apverktinoje padėtyje Vilniuje buvę amatai, o
+    išaugęs pasiturinčiųjų skaičius byloja apie miesto išteklius
+    ir krašto turtingumą, be kita ko, visi amatų srities pasieki­
+    mai aniems laikams dažniausiai buvo neblogi24.
+    Karalius Žygimantas mylėjo mokslus, pats gavęs gerą iš­
+    silavinimą, rėmė visa tai, kas tik galėjo prisidėti prie jų au­
+    gimo. Savo sukauptas knygas lotynų, lenkų, rusų ir čekų
+    kalbomis saugojo Vilniaus pilyje25.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183855
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Augustas]]

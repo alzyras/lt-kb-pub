@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Bachmatai
 
@@ -39,9 +51,22 @@ Nenurodyta
 <a id="claim-t-186842"></a>
 - t-001
   global_id: t-186842
-  teiginys: 'Vasilijus Dimitrijevičius Smolenske pagerbė Vytautą brangiomis dovanomis, tarp jų bachmatais.'
+  teiginys: "Vasilijus Dimitrijevičius Smolenske pagerbė Vytautą brangiomis dovanomis, tarp jų bachmatais."
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "171388-171969; hash=c8bc5a4fa6c20b982ee44a7b2761d59d013088166304399a188ef58008c5d05c; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  ryšio_patikimumas: "susije_su -> Lengvenis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bachmatai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lengvenis: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bachmatai\" parinktas kaip owner_note_path. Targetas \"Lengvenis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
+    - c-170025
 - susijęs iš [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske.md#claim-t-186582|Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]: Lietuvos metraščio pasakojime Vasilijus Dimitrijevičius Smolenske pagerbė Vytautą auksinėmis grandinėmis, sabalais, brangakmeniais, indais ir bachmatais.
 - susijęs iš [[objektai/daiktai/Auksinės grandinės ir diržai.md#claim-t-186841|Auksinės grandinės ir diržai]]: Vasilijus Dimitrijevičius Smolenske pagerbė Vytautą auksinėmis grandinėmis ir diržais tarp kitų brangių dovanų.
 - susijęs iš [[objektai/daiktai/Aukso balnai.md#claim-t-186845|Aukso balnai]]: Vytautas savo žentui Vasilijui Dimitrijevičiui dovanojo žirgų su aukso balnais tarp kitų brangių dovanų.
@@ -75,8 +100,32 @@ Nenurodyta
     nėmis grandinėmis ir diržais, sabalais, brangakmeniais,
     auksiniais indais ir bachmatais ls.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-170025
+  citata_originali: |
+    Ivanovičių IJ. Didysis kunigaikštis Vytautas prieš Ria-
+    zanės kunigaikštį Olegą pasiuntė kunigaikštį Simoną
+    Lengvenį su didele kariuomene ir su Smolensko pajė­
+    gomis; tie parsivarė daugybę belaisvių riazaniečių ir
+    su dideliu grobiu sugrįžo pas Vytautą (1396)1 3 .
+    Tą pačią žiemą, pavasariop H , į Smolenską, pas savo
+    tėvą uošvį, didįjį kunigaikštį Vytautą, atvažiavo Mask­
+    vos didysis kunigaikštis Vasilijus Dimitrijevičius ir pa­
+    gerbė didįjį kunigaikštį brangiomis dovanomis; auksi­
+    nėmis grandinėmis ir diržais, sabalais, brangakmeniais,
+    auksiniais indais ir bachmatais ls.
+  citata_rodoma: "Tą pačią žiemą, pavasariop H , į Smolenską, pas savo \ntėvą uošvį, didįjį kunigaikštį Vytautą, atvažiavo Mask­\nvos didysis kunigaikštis Vasilijus Dimitrijevičius ir pa­\ngerbė didįjį kunigaikštį brangiomis dovanomis; auksi­\nnėmis grandinėmis ir diržais, sabalais, brangakmeniais, \nauksiniais indais ir bachmatais ls."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186842

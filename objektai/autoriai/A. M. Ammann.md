@@ -16,6 +16,18 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'XX a.'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # A. M. Ammann
 
@@ -28,10 +40,21 @@ Ammann: Abriß der ost­ slawischen Kirchengeschichte, Wien 1950, 165p. (eit. Am
 <a id="claim-t-30523"></a>
 - t-001
   global_id: t-30523
-  teiginys: 'A. M. Ammann yra 1947 m. Romoje išleisto veikalo „Storia della Chiesa Russa“ autorius.'
+  teiginys: "A. M. Ammann yra 1947 m. Romoje išleisto veikalo „Storia della Chiesa Russa“ autorius."
+  temporaliniai_duomenys: "įvykio data: 1947 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "881838-882113; hash=91fb75643341cff6e2053116cf5258bc597a8399210aba4ad1d1c66842d5f863; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Roma: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "A. M. Ammann: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Roma: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. M. Ammann\" parinktas kaip owner_note_path. Targetas \"Roma\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-32877
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,8 +67,27 @@ Ammann: Abriß der ost­ slawischen Kirchengeschichte, Wien 1950, 165p. (eit. Am
     (^62) **A. M. Ammann : Storia della Chiesa Russa, Roma 1947, 105 p.**
     (^63) **CEV, 205 p.**
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-32877
+  citata_originali: |
+    Plačiau MaŠ.**
+    (^60) **PSRL, 17, 53 p.**
+    (^61) **O. Halecki :** **_From Florence to Brest_** **, Sacrum Poloniae Millennium,
+    V, 1958, 25-37 p. (išsamiai įvertintas Vytauto vaidmuo).**
+    (^62) **A. M. Ammann : Storia della Chiesa Russa, Roma 1947, 105 p.**
+    (^63) **CEV, 205 p.**
+  citata_rodoma: "**\n(^62) **A. M. Ammann : Storia della Chiesa Russa, Roma 1947, 105 p.**\n(^63) **CEV, 205 p."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-30523

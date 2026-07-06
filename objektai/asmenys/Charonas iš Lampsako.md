@@ -5,6 +5,18 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Charonas iš Lampsako
 
@@ -13,16 +25,23 @@ atnaujinta: ''
 Narbutas Charonui iš Lampsako priskiria pasakojimą apie Reką, kuris pasirūpino griūvančiu ąžuolu.
 
 ## Teiginiai
+
 <a id="claim-t-190090"></a>
 - t-001
   global_id: t-190090
-  teiginys: 'Narbutas Charonui iš Lampsako priskiria pasakojimą apie Reką, kuris pasirūpino griūvančiu ąžuolu.'
+  teiginys: "Narbutas Charonui iš Lampsako priskiria pasakojimą apie Reką, kuris pasirūpino griūvančiu ąžuolu."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "398480-398978; hash=a4f075199dabe0a1488d06dadd06817a158ec58ac3961ed686f62d702c4609b4; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
-
+    - c-172973
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Narbutas Charonui iš Lampsako priskiria pasakojimą apie Reką, kuris pasirūpino griūvančiu ąžuolu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -36,8 +55,30 @@ Narbutas Charonui iš Lampsako priskiria pasakojimą apie Reką, kuris pasirūpi
     istoriją apie šį dalyką. Kažkoks Rekas (Rhoecus), kartą apim­
     lus gailesčio dėl griūvančio ąžuolo, liepė apkasti jį šviežia že­
     me ir paramstyti.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-172973
+  citata_originali: |
+    Senovės išminčiai, matyt, norėdami tvirtai įskiepyti žmo­
+    nėms medžių saugojimo ir puoselėjimo įprotį, teikiantį tiek
+    malonumo mūsų žemiškajam gyvenimui, sukūrė giliamintę mi-
+    lologinę pasaką: esą hamadriadės gyvendavusios medžiuose,
+    kartu su jais augdavusios, kentėdavusios ir užbaigdavusios sa­
+    vo gyvenimą. Charonas iš Lampsako išsaugojo mums įdomią
+    istoriją apie šį dalyką. Kažkoks Rekas (Rhoecus), kartą apim­
+    lus gailesčio dėl griūvančio ąžuolo, liepė apkasti jį šviežia že­
+    me ir paramstyti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190090

@@ -22,6 +22,18 @@ tags:
 amziai:
   - 'XV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Radomas
 
@@ -32,32 +44,107 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
 ## Teiginiai
 
 <a id="claim-t-69126"></a>
-- t-001
+- t-005
   global_id: t-69126
-  teiginys: 'Lenkų bajorai Vilniaus ir Radomo susitarimo dokumentą surašė Radome.'
+  teiginys: "Lenkų bajorai Vilniaus ir Radomo susitarimo dokumentą surašė Radome."
+  temporaliniai_duomenys: "įvykio data: 1401 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "656766-657050; hash=49bd6e54c26be4c5e116b89a9f321a6caf435a4f2d2978d8c14f42d3bdf4fdf8; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Radomas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Radomas\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-002
+    - c-68541
 
 <a id="claim-t-69127"></a>
 - t-002
   global_id: t-69127
-  teiginys: 'Vilniaus-Radomo unijos pavadinimas laikomas tikslesniu, nes dėl tos unijos buvo susitarta Vilniuje ir Radome.'
+  teiginys: "Vilniaus-Radomo unijos pavadinimas laikomas tikslesniu, nes dėl tos unijos buvo susitarta Vilniuje ir Radome."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "427407-427639; hash=762f2bda31b2970a95a199eb981787973ff59428a04038c5c1ba8ba3b1d36835; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Radomas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Radomas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-37684
+
+<a id="claim-t-184320"></a>
+- t-003
+  global_id: t-184320
+  teiginys: "Vilniaus-Radomo unijos pavadinimas laikomas tikslesniu, nes dėl tos unijos buvo susitarta Vilniuje ir Radome."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "427336-427583; hash=ca0262c82fa449868f98949c7ef74ff6eeb0e4011b57fb4529d39cfff48e21d5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> unija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Radomas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "unija: mention_match, thing, gap=7"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Radomas\" parinktas kaip owner_note_path. Targetas \"unija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-167691
 
 <a id="claim-t-185117"></a>
 - t-004
   global_id: t-185117
-  teiginys: 'Karalius Šich Achmeto skundus turėjusį svarstyti bendrą lenkų ir lietuvių seimą nukėlė į Radomą.'
+  teiginys: "Karalius Šich Achmeto skundus turėjusį svarstyti bendrą lenkų ir lietuvių seimą nukėlė į Radomą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1027449-1028065; hash=2738ecd0ed4eae89d31526f8dfdbd1ada8e6942c06a73857296f9c5d572f1a72; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Radomas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Radomas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-168478
 
 <a id="claim-t-187644"></a>
 - t-005
   global_id: t-187644
-  teiginys: 'Radomo seimas vyko 1505 m. balandžio-birželio mėn.'
+  teiginys: "Radomo seimas vyko 1505 m. balandžio-birželio mėn."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1401 m.; įvykio data: 1505 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Radomą ir tiksliai perteikia seimo laiką. OCR triukšmas ir redakcinė pastaba apie klaidingą datą į teiginį neperkelta."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "656766-657050; hash=49bd6e54c26be4c5e116b89a9f321a6caf435a4f2d2978d8c14f42d3bdf4fdf8; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> seimas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Radomas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "seimas: mention_match, thing, gap=7"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Radomas\" parinktas kaip owner_note_path. Targetas \"seimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-005
+    - c-170591
 - susijęs iš [[objektai/ivykiai/Radomo konfederacija (1767 m.).md#claim-t-01784|Radomo konfederacija (1767 m.)]]: Radome rusų kariuomenės apsupti konfederatai buvo priversti pasirašyti aktą, pripažinusį lygias teises kitatikiams.
 - susijęs iš [[objektai/asmenys/Šich Achmetas.md#claim-t-186026|Šich Achmetas]]: Karalius įsakė parūpinti Šich Achmetui puikią svitą ir palydėti jį į Radomą.
 - susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-72615|Ponų taryba (institucija)]]: Lenkų ponų taryba Radome garantavo, kad Vytautui nebus atimta Lietuvos didžioji kunigaikštija.
@@ -74,6 +161,7 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
 - susijęs iš [[objektai/grupes/Lenkų bajorija.md#claim-t-92501|Lenkų bajorija]]: Lenkų bajorija jau anksčiau turėjo teisę dalyvauti naujo kunigaikščio elekcijoje.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179328|Lietuviai]]: Lietuvių bajorai gavo teisę po Vytauto mirties dalyvauti naujo kunigaikščio rinkimuose.
 - susijęs iš [[objektai/grupes/Lietuvių bajorija.md#claim-t-50694|Lietuvių bajorija]]: Lietuvių bajorų aktas leido bajorams spausti Vytautą, jei jis nesilaikytų unijos.
+- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-192455|Skalviai]]: Narbutas Merkinės seniūnijos kaimiečius laikė senovės skalvių palikuonimis, nuo seno gyvenusiais tikrosios Lietuvos plotuose.
 - susijęs iš [[objektai/ivykiai/Padalinamasis seimas (1773–1775 m.).md#claim-t-01763|Padalinamasis seimas (1773–1775 m.)]]: Padalinamasis seimas konstitucijomis skyrė milžiniškas pinigų sumas didikams, pasidarbavusiems rusams.
 - susijęs iš [[objektai/ivykiai/Padalinamasis seimas (1773–1775 m.).md#claim-t-01764|Padalinamasis seimas (1773–1775 m.)]]: Per 1773–1775 m. padalinamąjį seimą buvo sunaikintos valstybės pajamos, išgrobsčius daugumą valstybės dvarų ir iždo pinigus.
 - susijęs iš [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme.md#claim-t-71795|Bajorų dalyvavimas svarbiausių aktų sudaryme]]: Visa tai buvo sutarta bendrame Lietuvos ir Lenkijos valdovų ir bajorų suvažiavime Horodlėje.
@@ -96,6 +184,7 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
     Todėl ir tas aktas vadintinas Vilniaus-Radomo unija.
     Pirmiausia susipažinsim su Vytauto duotu dokumentu^2 ).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -114,6 +203,7 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
     rašė Radome. Todėl šis susitarimas yra vadinamas Vilniaus
     Radomo susitarimu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -130,6 +220,7 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
     teisinga, nes dėl tos unijos buvo susitarta Vilniuj ir Radome.
     Todėl ir tas aktas vadintinas Vilniaus-Radomo unija.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -158,6 +249,7 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
     tų seimą. Karalius įsakė parūpinti Šich Achmetui pui­
     kiausią svitą ir palydėti jį į Radomą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -175,11 +267,100 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
     “  LDK atstovai į Radomo seimą atvyko 1505 m. gegužės vi­
     duryje. išvyko VI. 1 .
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
+## Citatos
+
+- id: c-37684
+  citata_originali: |
+    Paskutinę uniją mes įpratę vadinti vilniške, kas ne visiškai
+    teisinga, nes dėl tos unijos buvo susitarta Vilniuj ir Radome.
+    Todėl ir tas aktas vadintinas Vilniaus-Radomo unija.
+    Pirmiausia susipažinsim su Vytauto duotu dokumentu^2 ).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-69127
+
+- id: c-68541
+  citata_originali: |
+    Po ilgų derybų, 1401 m. buvo pa-
+    siektas naujas susitarimas, kurs buvo patvirtintas 4 atskirais do-
+    kumentais: atskirais dokumentais jį patvirtino Vytautas, Jo-
+    gaila, Lietuvos ir Lenkų bajorai. Vytauto ir Lietuvos bajorų
+    dokumentai buvo parašyti Vilniuje; Jogailos dokumentas yra žu-
+    vęs, tad nežinia, kur jis duotas; lenkų bajorai savo dokumentą su-
+    rašė Radome. Todėl šis susitarimas yra vadinamas Vilniaus
+    Radomo susitarimu.
+  citata_rodoma: "Vytauto ir Lietuvos bajorų\ndokumentai buvo parašyti Vilniuje; Jogailos dokumentas yra žu-\nvęs, tad nežinia, kur jis duotas; lenkų bajorai savo dokumentą su-\nrašė Radome. Todėl šis susitarimas yra vadinamas Vilniaus\nRadomo susitarimu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-69126
+
+- id: c-167691
+  citata_originali: |
+    Vis dėlto norėtųsi manyti, kad toks dokumentas
+    Jogailos buvo išduotas.
+    Paskutinę uniją mes įpratę vadinti vilniške, kas ne visiškai
+    teisinga, nes dėl tos unijos buvo susitarta Vilniuj ir Radome.
+    Todėl ir tas aktas vadintinas Vilniaus-Radomo unija.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184320
+
+- id: c-168478
+  citata_originali: |
+    Vienas kitam pareiškę
+    savo prielankumą ir pasikalbėję it du geri bičiuliai,
+    nes norėjo, kad kuo daugiau žmonių patirtų, koks nuo­
+    širdus jųdviejų susitikimas, abu valdovai suteikė ba­
+    joriškųjų lengvatų išgarsėjusiems karo žygiais lenkams,
+    lietuviams bei skitams, lengvai paliesdami jų petį
+    kardu. Šich Achmeto nusiskundimus turėjusį svarstyti
+    581
+
+    ## Puslapis 580
+
+    seimą karalius nukėlė į Radomą:
+    kadangi svars­
+    tyti reikėjo ir lenkams, ir lietuviams vienodai rūpimą
+    reikalą, karalius pareikalavo šaukti bendrą abiejų tau­
+    tų seimą. Karalius įsakė parūpinti Šich Achmetui pui­
+    kiausią svitą ir palydėti jį į Radomą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185117
+
+- id: c-170591
+  citata_originali: |
+    6 5  Seimas Radome b uvo 1505 m. balandžio—birželio mėn.
+    (111.30—VL14). Nurodydamas klaidingą Radomo seimo datą, BK
+    autorius gal turėjo galvoje Aleksandro buvimą Gardine 1505 m.
+    rudeni (X1.22—XII,29).
+    “  LDK atstovai į Radomo seimą atvyko 1505 m. gegužės vi­
+    duryje. išvyko VI. 1 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187644
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Šich Achmetas]]

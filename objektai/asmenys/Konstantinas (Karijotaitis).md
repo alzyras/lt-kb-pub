@@ -2,12 +2,33 @@
 tipas: asmuo
 pavadinimas: 'Konstantinas (Karijotaitis)'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1332 m.'
+date_start: '1332'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - krikštas
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Konstantinas (Karijotaitis)
 
@@ -20,9 +41,32 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
 <a id="claim-t-29032"></a>
 - t-001
   global_id: t-29032
-  teiginys: 'Konstantinas Karijotaitis palaikė Lietuvos ir Lenkijos sąjungą, nes jam rūpėjo apsaugoti Podolę nuo totorių.'
+  teiginys: "Konstantinas Karijotaitis palaikė Lietuvos ir Lenkijos sąjungą, nes jam rūpėjo apsaugoti Podolę nuo totorių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "780242-780594; hash=0cc3c8d8e50ee25a591003c3e30160f470de8851bb3b72a43199aded688ebc15; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Konstantinas Karijotaitis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Konstantinas (Karijotaitis): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Konstantinas Karijotaitis: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konstantinas (Karijotaitis)\" parinktas kaip owner_note_path. Targetas \"Konstantinas Karijotaitis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-28937
+
+<a id="claim-t-193395"></a>
+- t-002
+  global_id: t-193395
+  teiginys: "Konstantinas buvo Sučiavoje nunuodytas; Teodoras sugrįžo į Lietuvą valdyti Naugarduko tėvonijos, o visa Podolė pasiliko kunigaikščių Aleksandro bei Konstantino valdžioje."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "383574-384306; hash=04e355bdc2b97b1d07261a5ddd2b6274cf9bf4fbd0d8294ad05c278920df80ad; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176119
 - susijęs iš Cartoryskas: Lietuvos metraštyje Konstantino dalimi įvardijami Černigovas ir Cartoryskas.
 - susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-184656|Aleksandras]]: Po Jurgio ir Teodoro pasitraukimo visa Podolė liko kunigaikščių Aleksandro ir Konstantino valdžioje.
 - susijęs iš [[objektai/asmenys/Ivanas (Maskvos valdovas).md#claim-t-185945|Ivanas (Maskvos valdovas)]]: Ivano įsakymu į nelaisvę atvestas Konstantinas buvo kankinamas ir surakintas grandinėmis.
@@ -57,11 +101,94 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
     kuriam rūpėjo Padolę apsaugoti nuo totorių, buvo Lietuvos ir
     Lenkijos sąjungos šalininkas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Konstantinas buvo Sučiavoje nunuodytas; Teodoras sugrįžo į Lietuvą valdyti Naugarduko tėvonijos, o visa Podolė pasiliko kunigaikščių Aleksandro bei Konstantino valdžioje.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Metraštininkai mini, jog tie patys
+    žmonės pastatė ant neprieinamo akmens kalno nuos­
+    tabią tvirtovę — Kamenecą, kur gynybinį pylimą ne
+    žmogaus ranka suvertė iš žemių, bet pati gamta sukū­
+    rė iškėlusi į dangų vientisą uolą. Vėliau Jurgį pakvie­
+    tė valdyti Valachijos bei Moldavijos, tačiau neilgai
+    trukus jis buvo Sučiavoje nunuodytas; Teodoras sugrį­
+    žo į Lietuvą valdyti Naugarduko tėvonijos, o visa
+    Podolė pasiliko kunigaikščių Aleksandro bei Konstan­
+    tino valdžioje. Po karo su totoriais prasidėjo karas su
+    222
+
+    ## Puslapis 221
+
+    Maskva: pirmaisiais Algirdo
+    1332 m e ta i
+    viešpatavimo metais laiką iš
+    K o d ė l p ra sid ė jo  ka-
+    tiesų galima būtų skaičiuoti
+    ras su  M a s k v a
+    ne pagal kalendorių, o pagal
+    jo karus bei pergales.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+## Citatos
+
+- id: c-28937
+  citata_originali: |
+    Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai,
+    Podolėje įsikūrę dėdės Karijoto Gediminaičio sūnūs, ypač Borisas
+    ir Konstantinas. Būdami jau lotyniškai krikštyti, iš Podolės jie
+    palaikė ryšius su Krokuva ir ją lankė. Labiausiai Konstantinas,
+    kuriam rūpėjo Padolę apsaugoti nuo totorių, buvo Lietuvos ir
+    Lenkijos sąjungos šalininkas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-29032
+
+- id: c-176119
+  citata_originali: |
+    Metraštininkai mini, jog tie patys
+    žmonės pastatė ant neprieinamo akmens kalno nuos­
+    tabią tvirtovę — Kamenecą, kur gynybinį pylimą ne
+    žmogaus ranka suvertė iš žemių, bet pati gamta sukū­
+    rė iškėlusi į dangų vientisą uolą. Vėliau Jurgį pakvie­
+    tė valdyti Valachijos bei Moldavijos, tačiau neilgai
+    trukus jis buvo Sučiavoje nunuodytas; Teodoras sugrį­
+    žo į Lietuvą valdyti Naugarduko tėvonijos, o visa
+    Podolė pasiliko kunigaikščių Aleksandro bei Konstan­
+    tino valdžioje. Po karo su totoriais prasidėjo karas su
+    222
+
+    ## Puslapis 221
+
+    Maskva: pirmaisiais Algirdo
+    1332 m e ta i
+    viešpatavimo metais laiką iš
+    K o d ė l p ra sid ė jo  ka-
+    tiesų galima būtų skaičiuoti
+    ras su  M a s k v a
+    ne pagal kalendorių, o pagal
+    jo karus bei pergales.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193395
 
 ## Ryšiai
 - Priešai: [[objektai/grupes/Maskvėnai]]

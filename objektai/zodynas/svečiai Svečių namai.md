@@ -16,6 +16,18 @@ tags:
   - sutartis
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # svečiai Svečių namai
 
@@ -26,19 +38,42 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
 ## Teiginiai
 
 <a id="claim-t-86552"></a>
-- t-001
+- t-002
   global_id: t-86552
-  teiginys: 'Aleksandras leido Vilniui statyti Svečių namus, siekdamas miesto bei muito pelno ir išorinio saugumo.'
+  teiginys: "Aleksandras leido Vilniui statyti Svečių namus, siekdamas miesto bei muito pelno ir išorinio saugumo."
+  semantiniai_rysiai: "Rusai prekiavo su Vokiečiai (0.80); Rusai keliavo į Vilnius (0.77)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "469785-470387; hash=86464ae8c1abe04b384c978d772aa79bdabf10ecd5426d037c7504b2baac768e; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Vokiečiai: 0.80"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Rusai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Ištraukoje rusų pirkliai tiesiogiai aprašomi kaip prekiaujantys su vokiečiais."
   pagrindžia:
-    - c-001
+    - c-82531
 
 <a id="claim-t-86553"></a>
-- t-002
+- t-001
   global_id: t-86553
-  teiginys: 'Aleksandras leido Vilniui pastatyti Svečių namus, kuriuose rusų pirkliai privalėjo apsistoti, sumokėti muitą ir pranešti pilininkui.'
+  teiginys: "Aleksandras leido Vilniui pastatyti Svečių namus, kuriuose rusų pirkliai privalėjo apsistoti, sumokėti muitą ir pranešti pilininkui."
+  temporaliniai_duomenys: "pastatymo data: 1500 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Verta išplėsti neaiškų žodį „karalius“ į citatos kontekste nurodomą Aleksandrą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "468419-468950; hash=58e1933f8b19df3b36d40842bc611abafee5e4bb671d3e565ad0379034ff79e2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "svečiai Svečių namai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"svečiai Svečių namai\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
-
+    - c-82532
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -63,6 +98,7 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
     rinčių pakenkti, todėl įsako ir leidžia
     miestui statyti užeigą ir t t.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -83,8 +119,56 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
     pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
     savo atvykimą iškart pranešti pilininkui4 3  44.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-82531
+  citata_originali: |
+    44
+    Svečių namams skirta privilegija yra:
+    D u b i ń s k i, 1.18. Ją skaitant atro­
+    do, kad Aleksandras, leisdamas sta­
+    tyti tokius namus, turėjo omenyje ne
+    tik miesto ir muito pelną, bet ir iš­
+    orinį saugumą. Mat rašo, jog svečiai,
+    tai yra, rusų pirkliai, atvykstantys su
+    savo prekėmis į Vilnių, apsistoja
+    įvairiuose namuose mieste, kur no­
+    ri, be jokio prisistatymo, o paskui,
+    prekiaudami su vokiečiais ir kitais
+    svetimšaliais pirkliais, niekam ne­
+    pranešę, išvažiuoja iš miesto; ir kad
+    tarp jų gali būti nepatikimų ir no­
+    rinčių pakenkti, todėl įsako ir leidžia
+    miestui statyti užeigą ir t t.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86552
+
+- id: c-82532
+  citata_originali: |
+    Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
+    to ginčai, ir po kelerių metų (1500 m.) anoji sutartis su caru
+    buvo nutraukta. Tačiau Aleksandro ir Elenos santuoka išplė­
+    tė prekybinius Vilniaus santykius su Rusios miestais ir ska­
+    tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­
+    tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.
+    Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
+    pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
+    savo atvykimą iškart pranešti pilininkui4 3  44.
+  citata_rodoma: ") anoji sutartis su caru \nbuvo nutraukta. Tačiau Aleksandro ir Elenos santuoka išplė­\ntė prekybinius Vilniaus santykius su Rusios miestais ir ska­\ntino steigti naujas užeigas pirkliams, atvykstantiems į Lie­\ntuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės. \nKaralius leido miestui pastatyti Svečių namus, kuriuose rusų \npirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie \nsavo atvykimą iškart pranešti pilininkui4 3  44."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86553

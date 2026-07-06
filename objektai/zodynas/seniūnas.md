@@ -22,6 +22,18 @@ tags:
 amziai:
   - 'XIV'
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # seniūnas
 
@@ -32,32 +44,98 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
 ## Teiginiai
 
 <a id="claim-t-12584"></a>
-- t-001
+- t-005
   global_id: t-12584
-  teiginys: 'Seniūnas šiame tekste yra lenkiškas urėdas Lietuvoje.'
+  teiginys: "Seniūnas šiame tekste yra lenkiškas urėdas Lietuvoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "698303-698461; hash=5050e04eaf53160ee1af7d5c779222126b8580a946712302de8fd5766e0c04fb; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "seniūnas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"seniūnas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-14711
 
 <a id="claim-t-12585"></a>
-- t-002
+- t-006
   global_id: t-12585
-  teiginys: '1411 m. Vytautas pats paskyrė seniūną iš Ordino atgautai Žemaitijai.'
+  teiginys: "1411 m. Vytautas pats paskyrė seniūną iš Ordino atgautai Žemaitijai."
+  temporaliniai_duomenys: "įvykio data: 1411 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia tiksliau nurodyti, kad Žemaitija buvo atgauta iš Ordino."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "698723-699010; hash=a5b6d55ae0dad8b00192bff522f3ab5f465a4099725966ee3f4d45d21bc63f7b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "seniūnas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"seniūnas\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-14712
 
 <a id="claim-t-12586"></a>
-- t-003
+- t-007
   global_id: t-12586
-  teiginys: 'Seniūnas turėjo teismo valdžią ir vietininko teises.'
+  teiginys: "Seniūnas turėjo teismo valdžią ir vietininko teises."
+  temporaliniai_duomenys: "įvykio data: 1411 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "698723-699010; hash=a5b6d55ae0dad8b00192bff522f3ab5f465a4099725966ee3f4d45d21bc63f7b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "seniūnas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"seniūnas\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-14712
 
 <a id="claim-t-187529"></a>
-- t-004
+- t-008
   global_id: t-187529
-  teiginys: 'Algirdo valdymo laikotarpiu Vilniaus ir Trakų vaivadų pareigybių dar nebuvo; iki 1413 m. panašias funkcijas vykdė seniūnai.'
+  teiginys: "Algirdo valdymo laikotarpiu Vilniaus ir Trakų vaivadų pareigybių dar nebuvo; iki 1413 m. panašias funkcijas vykdė seniūnai."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: iki 1413 m.; įvykio data: 1387 m.; įvykio data: 1413 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiksliai perteikia pastabą apie seniūnų funkcijas iki 1413 m. Nepridėtos atskiros pirmųjų vaivadų ir seniūnų pavardės."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "398574-398951; hash=c4ed1f703f29148aed3a25b78f80c77df7a456257ef86b6fab22cfdc182ae2c6; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "seniūnas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=114"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"seniūnas\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T16:17:41Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-003
+    - c-170479
+
+<a id="claim-t-193157"></a>
+- t-009
+  global_id: t-193157
+  teiginys: "Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "479620-480015; hash=067ea9e8105a30d80ea78c634330d6dbf763a87617513a85b7178c41fa7ea97b; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-175909
 - susijęs iš [[objektai/asmenys/Hanulas, arba Hanka.md#claim-t-87511|Hanulas, arba Hanka]]: Hanulas autentiškame 1385 m. Vladislovo Jogailos laiške vadinamas Hanka, Vilniaus seniūnu.
 - susijęs iš [[objektai/asmenys/Kinsgaila.md#claim-t-30330|Kinsgaila]]: Kinsgaila buvo Ukmergės seniūnas ir vienas iš sąjungininkų pusės vadų.
 - susijęs iš [[objektai/asmenys/Kęsgaila.md#claim-t-35195|Kęsgaila]]: Kęsgaila buvo Žemaičių seniūnas.
@@ -130,6 +208,7 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
     (lenk. starosta). Tai buvo 1386 met. Jogailos Vilniun atsiųstas
     jau minėtas vad. „Vilniaus seniūnas“.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -146,6 +225,7 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
     nyčios dvaruose. Jis naudojosi visomis vietininko teisėmis ir
     paprastomis jo pajamomis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -164,8 +244,93 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
     vaivada buvo Vaitiekus M anvydas (1413—1424), o pirmas Goš­
     tautas Vilniaus vaivados poste — Jonas Goštautas (1443—1458).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
+- c-004
+  santrauka: 'Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pagaliau baudžiamosios (kriminalinės) bylos
+    buvo pavestos spręsti trečiam, vadinamajam pilies teismui.
+    Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek
+    daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete.
+    Tuo būdu visi kiti vietininkai, didžiojo kunigaikščio dvarų val-
+
+
+    dytojai, nebeteko teisės teisti bajorus; vėliau jie paprastai buvo
+    vadinami laikytojais (tenutarii).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-005
+
+## Citatos
+
+- id: c-14711
+  citata_originali: |
+    Pirmas lenkų urėdas atsiradęs Lietuvoje vadinosi seniūnu
+    (lenk. starosta). Tai buvo 1386 met. Jogailos Vilniun atsiųstas
+    jau minėtas vad. „Vilniaus seniūnas“.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-12584
+
+- id: c-14712
+  citata_originali: |
+    1411 m. jis
+    pats paskyrė seniūną iš Ordino atgautai Žemaitijai^1 ). Tai buvo
+    bendro valstybės valdymo organas su teismo valdžia ne tik d.
+    kunigaikščio domenuose, bet ir visos apylinkės bajorų ir Baž­
+    nyčios dvaruose. Jis naudojosi visomis vietininko teisėmis ir
+    paprastomis jo pajamomis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-12585
+    - t-12586
+
+- id: c-170479
+  citata_originali: |
+    4  Vilniaus ir Trakų vaivadų pareigybės Algirdo valdymo lai­
+    kotarpiu (m. 1377) dar nebuvo; (vestos 1413 m. Ligi tol panašias
+    j vaivadų funkcijas vykdė seniūnai. Tarp Vilniaus seniūnų pirmas
+    iš Goštautų buvo Andrius Goštautas (1387 m.). Pirmas Vilniaus
+    vaivada buvo Vaitiekus M anvydas (1413—1424), o pirmas Goš­
+    tautas Vilniaus vaivados poste — Jonas Goštautas (1443—1458).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187529
+
+- id: c-175909
+  citata_originali: |
+    Pagaliau baudžiamosios (kriminalinės) bylos
+    buvo pavestos spręsti trečiam, vadinamajam pilies teismui.
+    Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek
+    daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete.
+    Tuo būdu visi kiti vietininkai, didžiojo kunigaikščio dvarų val-
+
+
+    dytojai, nebeteko teisės teisti bajorus; vėliau jie paprastai buvo
+    vadinami laikytojais (tenutarii).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193157

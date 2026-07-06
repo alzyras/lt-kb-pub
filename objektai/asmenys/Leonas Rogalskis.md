@@ -17,6 +17,18 @@ amziai:
   - 'XIX'
 periodo_grupes:
   - 'naujieji laikai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Leonas Rogalskis
 
@@ -29,16 +41,39 @@ Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūr
 <a id="claim-t-87542"></a>
 - t-001
   global_id: t-87542
-  teiginys: 'Leonas Rogalskis priklausė 1830 m. rudenį Vilniuje susikūrusiam sukilimo centriniam komitetui.'
+  teiginys: "Leonas Rogalskis priklausė 1830 m. rudenį Vilniuje susikūrusiam sukilimo centriniam komitetui."
+  temporaliniai_duomenys: "priklausymo laikotarpis: 1830 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia narystę komitete; pradinis teiginys buvo nutrūkęs."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "7699-8130; hash=08f7d10e04776b9d5e1fba51b5c00329ef278c92f65ac034a25297f2687bbe76; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Leonas Rogalskis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Leonas Rogalskis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-83522
 
 <a id="claim-t-87543"></a>
 - t-002
   global_id: t-87543
-  teiginys: 'Leonas Rogalskis, iš Žemaitijos kilęs istoriko draugas, Varšuvoje padarė valstybinę karjerą ir skatino tęsti pradėtą darbą.'
+  teiginys: "Leonas Rogalskis, iš Žemaitijos kilęs istoriko draugas, Varšuvoje padarė valstybinę karjerą ir skatino tęsti pradėtą darbą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "12686-13044; hash=ca559669cd8458fd977668694c502375a534aa24e2ee5dab9303d2a8be83ed14; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Varšuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Leonas Rogalskis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Varšuva: mention_match, place, gap=56"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Leonas Rogalskis\" parinktas kaip owner_note_path. Targetas \"Varšuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-83521
 - susijęs iš [[objektai/asmenys/Adomas Chreptavičius.md#claim-t-87606|Adomas Chreptavičius]]: Grafas Adomas Chreptavičius tyrinėtojui plačiai atvėrė savo Ščorsų bibliotekos turtus.
 - susijęs iš Ščorsai: Grafas Adomas Chreptavičius tyrinėtojui atvėrė Ščorsų bibliotekos turtus.
 ## Reikšmingi paminėjimai
@@ -59,6 +94,7 @@ Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūr
 
     skaitytoją.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -78,8 +114,49 @@ Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūr
     kas Zambrzyckis. Šis komitetas turėjo organizuoti sukilimą va­
     karinėse Rusijos imperijos gubernijose.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83521
+  citata_originali: |
+    Grafas Ado­
+    mas Chreptavičius tyrinėtojui plačiai atvėrė savo Ščorsų biblio­
+    tekos turtus. Iš Žemaitijos kilęs ir netrukus valstybinę karjerą
+    padaręs Varšuvoje, asmeninis istoriko draugas žemaitis Leonas
+    Rogalskis nuolat skatino tęsti pradėtą darbą. Taigi praėjus aš­
+    tuoniolikai metų nuo pirminio sumanymo knyga pasiekė savo
+    X
+
+    ## Puslapis 11
+
+    skaitytoją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87543
+
+- id: c-83522
+  citata_originali: |
+    Be to,
+    politiniai įvykiai kuriam laikui visiškai sustabdė istorijos leidi­
+    mą. Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­
+    niuje susikūrė sukilimo centrinis komitetas, kuriam priklausė
+    Antanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Le­
+    onas Rogalskis, Edvardas Riomeris, Mykolas Balinskis, Liudvi­
+    kas Zambrzyckis. Šis komitetas turėjo organizuoti sukilimą va­
+    karinėse Rusijos imperijos gubernijose.
+  citata_rodoma: "Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­\nniuje susikūrė sukilimo centrinis komitetas, kuriam priklausė \nAntanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Le­\nonas Rogalskis, Edvardas Riomeris, Mykolas Balinskis, Liudvi­\nkas Zambrzyckis. Šis komitetas turėjo organizuoti sukilimą va­\nkarinėse Rusijos imperijos gubernijose."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87542

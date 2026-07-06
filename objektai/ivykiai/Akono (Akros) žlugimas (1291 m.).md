@@ -16,6 +16,18 @@ tags:
   - popiežius
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Akono (Akros) žlugimas (1291 m.)
 
@@ -44,10 +56,22 @@ Nenurodyta
 <a id="claim-t-59643"></a>
 - t-001
   global_id: t-59643
-  teiginys: 'Aprašęs Akono žlugimą, Petras Dusburgietis į kroniką įdėjo Šventosios Žemės apraudojimą ir trumpai atpasakojo kryžiaus žygių istoriją.'
+  teiginys: "Aprašęs Akono žlugimą, Petras Dusburgietis į kroniką įdėjo Šventosios Žemės apraudojimą ir trumpai atpasakojo kryžiaus žygių istoriją."
+  temporaliniai_duomenys: "įvykio data: 1291 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus sakinys apie kronikos turinį ir yra paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "47599-48169; hash=c58f89671246d0bede52f8caf9c67d1ca1203457b528ae5a0fc1f8953df8d1c2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dusburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Akono (Akros) žlugimas (1291 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Dusburgas: mention_match, author, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Akono (Akros) žlugimas (1291 m.)\" parinktas kaip owner_note_path. Targetas \"Dusburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-60275
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -62,8 +86,27 @@ Nenurodyta
     suartėti su totoriais — mongolais  ir aprašomi pastarųjų žygiai prieš Siriją bei kitas
     musulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-60275
+  citata_originali: |
+    Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų
+    feodalinių riterių žygių prieš musulmoniškąjį pasaulį. Antisaracėniškos idėjos išreikštos
+    kronikos IV-ojoje dalyje. Aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą
+    (1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą  ir trumpai
+    atpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms
+    suartėti su totoriais — mongolais  ir aprašomi pastarųjų žygiai prieš Siriją bei kitas
+    musulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-59643

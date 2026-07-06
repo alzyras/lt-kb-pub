@@ -13,11 +13,6 @@ datos:
   - '1557 m.'
 date_start: '1398'
 date_end: '1557'
-description: 'Vilija siejama su Vilniaus pilių aplinka, Lukiškėmis, laivyba į Kauną ir 1536 m. tilto per upę statyba vietoj perkėlos.'
-socialDescription: 'Vilija Vilniaus istorijoje: pilių prieigos, Lukiškės, Vingriai, laivyba į Kauną, Hozijaus tiltas ir Radvilos Juodojo dvaras.'
-seo_atnaujinta: '2026-07-02T23:12:35.402216+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -28,91 +23,235 @@ tags:
 amziai:
   - 'XIV'
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vilija
 
 ## Santrauka
 
-Vilija šaltiniuose atsiskleidžia kaip Vilniaus miesto erdvę formavusi upė: prie jos minimi Barboros rūmai, Lukiškės, Antakalnio užuomazgos, Vingrių šaltinio ir upokšnio įtekėjimas. 1492 m. Aleksandras garantavo Vilniaus miestiečių laivams laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal, o 1536 m. Žygimantas Senasis suteikė Ulrikui Hozijui teisę statyti tiltą vietoje nepatogios perkėlos. XVI a. prie Vilijos taip pat minimi Paleckio liejyklai skirtas sklypas ir Mikalojaus Radvilos Juodojo dvaras Lukiškėse…
+Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­ dangino su visu guotu į Šventaragio slėnį, už keturių mylių nuo Trakų, kur Vilnios upė įteka į Viliją. Netgi pats Vilniaus vardas, paeinantis ne nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios, į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus lydimais vertęs, kaip ir Gediminas. Iš žalio slėnio gilumos, ant paskutiniojo iš kal­ nų, supančių Vilnelės upės vagą, ir ten, kur ji įteka į Viliją, buvo iškilusi mūro tvirtovė, galingojo Gedimino pastatydin­ ta, saugoma aukštų sienų ir trijų bokštų.
 
 ## Teiginiai
 
 <a id="claim-t-174165"></a>
-- t-001
+- t-040
   global_id: t-174165
-  teiginys: 'Barboros rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies.'
+  teiginys: "Barboros rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies."
+  semantiniai_rysiai: "Barboros rūmai Vilniuje priklausė Barbora Radvilaitė (0.80)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "547745-548172; hash=bfecbe58114731cfd345ee49dc8810e849ca6ab4e7daff44a425e60127756956; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Barbora Radvilaitė: 0.80"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Barboros rūmai Vilniuje: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Barbora Radvilaitė: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Pavadinimas ir kontekstas tiesiogiai nurodo, kad rūmai siejami su Barbora."
   pagrindžia:
-    - c-007
+    - c-158381
 
 <a id="claim-t-174166"></a>
-- t-002
+- t-036
   global_id: t-174166
-  teiginys: 'Vingrių šaltinis slėnyje įtekėjo į Viliją prie Totorių vartų.'
+  teiginys: "Vingrių šaltinis slėnyje įtekėjo į Viliją prie Totorių vartų."
+  temporaliniai_duomenys: "įvykio data: 1398 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Viliją ir Vingrių šaltinį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "318333-318806; hash=3a12e56799307964a6bc881bac84e8dfed6133dc2224bbbac890c2890470a246; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Totoriai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Totoriai: mention_match, group, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilija\" parinktas kaip owner_note_path. Targetas \"Totoriai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-158377
 
 <a id="claim-t-174167"></a>
-- t-003
+- t-042
   global_id: t-174167
-  teiginys: 'Mikalojaus Radvilos Juodojo dvaras Lukiškėse prie Vilijos nuo 1556 metų tapo reformacijos šalininkų prieglobsčiu ir mokykla.'
+  teiginys: "Mikalojaus Radvilos Juodojo dvaras Lukiškėse prie Vilijos nuo 1556 metų tapo reformacijos šalininkų prieglobsčiu ir mokykla."
+  temporaliniai_duomenys: "įvykio data: 1557 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia citatoje nurodytą dvaro vietą ir funkciją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "569004-570127; hash=bb89e30b4f3108aa65bb4772c278970a0641b172bf198aafd5dcd6239432ed02; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Cvinglis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Cvinglis: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilija\" parinktas kaip owner_note_path. Targetas \"Cvinglis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-158375
 
 <a id="claim-t-174168"></a>
-- t-004
+- t-041
   global_id: t-174168
-  teiginys: '1547 m. Paleckio liejyklai skirtas sklypas buvo prie Vilniaus miesto, už Vilijos upės.'
+  teiginys: "1547 m. Paleckio liejyklai skirtas sklypas buvo prie Vilniaus miesto, už Vilijos upės."
+  temporaliniai_duomenys: "įvykio data: 1547 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai nurodo sklypo vietą už Vilijos upės."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "552852-553570; hash=4ffdc01319cc71a83a84f0d86b874d7f3a583c528b1718d0beef03209a232403; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Inovroclavas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Inovroclavas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilija\" parinktas kaip owner_note_path. Targetas \"Inovroclavas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-158378
 
 <a id="claim-t-174169"></a>
-- t-005
+- t-035
   global_id: t-174169
-  teiginys: 'Dabartinių Lukiškių ir Antakalnio užuomazgos buvo išsidėsčiusios palei Viliją tarp Aukštutinės pilies ir Antakalnio šventyklos.'
+  teiginys: "Dabartinių Lukiškių ir Antakalnio užuomazgos buvo išsidėsčiusios palei Viliją tarp Aukštutinės pilies ir Antakalnio šventyklos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "240064-240572; hash=e5326d0c3ab313f70e9cd115602866314a7f9ca5c6970c4691678a886adc3851; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antakalnis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Antakalnis: mention_match, place, gap=48"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilija\" parinktas kaip owner_note_path. Targetas \"Antakalnis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-158383
 
 <a id="claim-t-174170"></a>
-- t-006
+- t-039
   global_id: t-174170
-  teiginys: 'Vilniaus pirklių laivams, vadintiems vytinėmis, buvo leista laisvai plaukioti Vilijos upe.'
+  teiginys: "Vilniaus pirklių laivams, vadintiems vytinėmis, buvo leista laisvai plaukioti Vilijos upe."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "539009-540981; hash=cd5dddad2df249956ddc79248d40ca4912eea017712be4e7f82467dc0befeca2; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bobruiskas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Bobruiskas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilija\" parinktas kaip owner_note_path. Targetas \"Bobruiskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-158382
 
 <a id="claim-t-174171"></a>
-- t-007
+- t-037
   global_id: t-174171
-  teiginys: 'Aleksandras garantavo Vilniaus miestiečių laivams laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal.'
+  teiginys: "Aleksandras garantavo Vilniaus miestiečių laivams laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal."
+  temporaliniai_duomenys: "įvykio data: 1492 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas, išlaikytas citatos faktas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "464304-465000; hash=4a19f99eae2fda53101c905f959c034f1c5fda5bfb49dbe9f818e9638587b73e; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilija\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-158380
 
 <a id="claim-t-174172"></a>
-- t-008
+- t-034
   global_id: t-174172
-  teiginys: 'Vingrių upokšnis šalia Vilnios įtekėjo į Viliją.'
+  teiginys: "Vingrių upokšnis šalia Vilnios įtekėjo į Viliją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "234499-235226; hash=d581568e4ba4bcbac1d9ee97f119cc283b7c0291cc68b7021b0e4538d524579e; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilija\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-158376
 
 <a id="claim-t-174174"></a>
-- t-009
+- t-038
   global_id: t-174174
-  teiginys: 'Žygimantas Senasis suteikė Ulrikui Hozijui teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos.'
+  teiginys: "Žygimantas Senasis suteikė Ulrikui Hozijui teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos."
+  temporaliniai_duomenys: "pastatymo data: 1536 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko aiškų faktą apie tiltą per Viliją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "535999-536685; hash=53c610aa54afe9a054bc6290d3aa246508bdb707c8709731cfa44d29232d4940; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Goštautas (vyskupas, XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Goštautas (vyskupas, XV a.): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilija\" parinktas kaip owner_note_path. Targetas \"Goštautas (vyskupas, XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-158374
 
 <a id="claim-t-183873"></a>
-- t-010
+- t-043
   global_id: t-183873
-  teiginys: 'Balińskis Vilniaus vardą siejo su Vilnia, o ne Vilija, ir iš to sprendė, kad pirmykštė gyvenvietė buvo prie Vilnios.'
+  teiginys: "Balińskis Vilniaus vardą siejo su Vilnia, o ne Vilija, ir iš to sprendė, kad pirmykštė gyvenvietė buvo prie Vilnios."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "133109-134071; hash=2ae595d202bd67fb598d574ca7a66bec2163a88f2b6f4a5417c674e7d41e6a07; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilija\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-010
+    - c-167258
 
 <a id="claim-t-183874"></a>
-- t-011
+- t-044
   global_id: t-183874
-  teiginys: 'Gedimino pastatydinta mūro tvirtovė stovėjo prie Vilnelės žiočių į Viliją.'
+  teiginys: "Gedimino pastatydinta mūro tvirtovė stovėjo prie Vilnelės žiočių į Viliją."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "232817-233377; hash=bfe98eeaea6cffd3087f6fa909bd58a38ebccf49db9dd6c91884e593ba8f813a; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=67"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilija\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-011
+    - c-167259
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54936|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis garantavo Vilniaus miestiečių laivams su prekėmis laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82183|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis suteikė Vilniui teisę laikyti vaško dirbtuvę ir rūpinosi laisva laivyba Vilija.
 - susijęs iš [[objektai/asmenys/Hlebavičius (Vilniaus vaivada ir karaliaus kancleris).md#claim-t-87690|Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)]]: Vilniaus vaivados ir karaliaus kanclerio Hlebavičiaus plytinė buvo prie Vilniaus, už Vilijos upės, greta fabrikui skirto sklypo.
@@ -212,19 +351,6 @@ Vilija šaltiniuose atsiskleidžia kaip Vilniaus miesto erdvę formavusi upė: p
 - susijęs iš Vilnelė: Vilnia, arba Vilnelė, anuomet tekėjo pro Pilies gatvę, palei Pilies vartus ir už dabartinės katedros įtekėjo į Viliją.
 - susijęs iš Vilnelė: Gedimino pastatydinta mūro tvirtovė stovėjo prie Vilnelės žiočių į Viliją.
 - susijęs iš Vilnelė: Vilnelė anuomet tekėjo pro Pilies gatvę, palei Pilies vartus ir už dabartinės katedros įtekėjo į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Balińskis Vilniaus vardą siejo su Vilnia, o ne Vilija, ir iš to sprendė, kad pirmykštė gyvenvietė buvo prie Vilnios.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Vilnia tekėjo kalnų apsupta vaga ir įtekėjo į Viliją ties Gedimino pastatyta mūro tvirtove.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Vilnia, arba Vilnelė, anuomet tekėjo pro Pilies gatvę, palei Pilies vartus ir už dabartinės katedros įtekėjo į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Gediminas įsakė pastatyti mūrinę pilį Vilnelės ir Vilijos upių santakoje.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Nuo tvirtovės prie Vilnios palei krantą pažemiais trobelės tęsėsi iki Vilijos.
 - susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Narbutas Vilnios, arba Vilnelės, vardą laikė pirminiu ir iš jo kildino Vilniaus bei vėliau Vilija pramintos Neries pavadinimus.
 - susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Narbutas Vilnią apibūdino kaip kadaise laivybai tikusią, sraunią, vingiuotą ir akmenuoto dugno upę, priešindamas ją giliai Vilijai.
 - susijęs iš Vilnia ir Vilija: Pasakojime Vilnios ir Vilijos vardai kildinami iš kunigaikščio Viliaus vardo.
@@ -371,10 +497,6 @@ Vilija šaltiniuose atsiskleidžia kaip Vilniaus miesto erdvę formavusi upė: p
 - susijęs iš Vilnelė: Pilies kalno pietų pusėje tarp kalno ir Vilnelės stovėjo didžiuliai Manvydo rūmai.
 - susijęs iš Vilnelė: Šventaragio slėnis buvo lanka tarp Vilijos ir Vilnelės, kur degė lietuvių garbinama amžinoji ugnis Gabija.
 - susijęs iš Vilnelė: 1522 metais prie Vilnelės iškilo popieriaus malūnas, buvęs aukščiau Vilniaus vaivados malūno ir žemiau Charitonovo palivarko.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Vietovė prie Vilijos ir Vilnios santakos Islandijos keliautojų pasakojimuose buvo žinoma jau XII amžiuje.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): 1522 metais prie Vilnelės iškilo popieriaus malūnas, buvęs aukščiau Vilniaus vaivados malūno ir žemiau Charitonovo palivarko.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Balińskis manė, kad iki Gedimino ant Vilnios srovę supančių kalvų, kur dabar stovi Vilnius, tikėtina, buvo medinė tvirtovė.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Tarp Vilijos ir Vilnelės plytėjo Šventaragio slėnio lanka, nuo seno apaugusi ąžuolais.
 - susijęs iš Vilnia: Vietovė prie Vilijos ir Vilnios santakos Islandijos keliautojų pasakojimuose buvo žinoma jau XII amžiuje.
 - susijęs iš Vilnia: Balińskis manė, kad iki Gedimino ant Vilnios srovę supančių kalvų, kur dabar stovi Vilnius, tikėtina, buvo medinė tvirtovė.
 - susijęs iš Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): Vilnelės ir Vilijos santakoje buvo įsakyta pastatyti mūrinę pilį ant žmonių rankomis paaukštinto kalno.
@@ -431,6 +553,7 @@ Vilija šaltiniuose atsiskleidžia kaip Vilniaus miesto erdvę formavusi upė: p
     zijus buvo įpareigotas vėliau, kai jam sugrįš tilto statybos
     išlaidos, prie dominikonų Šv.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -478,6 +601,7 @@ Vilija šaltiniuose atsiskleidžia kaip Vilniaus miesto erdvę formavusi upė: p
     1556 metų tapo visų reformos šalininkų prieglobsčiu ir mo­
     kykla.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -502,6 +626,7 @@ Vilija šaltiniuose atsiskleidžia kaip Vilniaus miesto erdvę formavusi upė: p
     į du, vedė į Kernavę, senąją Lietuvos sostinę, ir į Ukmergės
     pilį.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -522,6 +647,7 @@ Vilija šaltiniuose atsiskleidžia kaip Vilniaus miesto erdvę formavusi upė: p
     to vaidus su Jogaila, ir dar ne visai suderintus Lietuvos ir Len­
     kijos interesus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -552,6 +678,7 @@ Vilija šaltiniuose atsiskleidžia kaip Vilniaus miesto erdvę formavusi upė: p
     žiniai, karaliaus valia, per Vilniaus
     gorodničių Povilą Giedraitį.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -576,6 +703,7 @@ Vilija šaltiniuose atsiskleidžia kaip Vilniaus miesto erdvę formavusi upė: p
     gyventojų gerove buvo nutrauktas grėsmingų caro Ivano Va-
     siljevičiaus užmačių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -598,6 +726,7 @@ Vilija šaltiniuose atsiskleidžia kaip Vilniaus miesto erdvę formavusi upė: p
     Ten visas laisvesnes akimirkas Augustas praleisdavo šalia
     Barboros, kol pagaliau su ja susituokė30.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -672,6 +801,7 @@ Vilija šaltiniuose atsiskleidžia kaip Vilniaus miesto erdvę formavusi upė: p
     prekių sandėlis ir leista Vilijos upe laisvai plaukioti jų lai­
     vams, vadinamoms vytinėms.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -693,6 +823,7 @@ Vilija šaltiniuose atsiskleidžia kaip Vilniaus miesto erdvę formavusi upė: p
     kuris jau krikščionybės laikais atsi- tai yra esančiu ant kalno, vadiname],
     rado.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -720,6 +851,7 @@ Vilija šaltiniuose atsiskleidžia kaip Vilniaus miesto erdvę formavusi upė: p
     pilys, pirmiausia medinės, o jau XIV amžiuje perstatytos į
     mūrines, kaip antai: Kernavė, Senieji ir Naujieji Trakai1 .
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -741,11 +873,330 @@ Vilija šaltiniuose atsiskleidžia kaip Vilniaus miesto erdvę formavusi upė: p
     siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje,
     palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
+## Citatos
+
+- id: c-158374
+  citata_originali: |
+    VILNIAUS MIESTO ISTORIJA // TOMAS
+    dėlto, atrodo, kad Goštautas nežinia kodėl šia karaliaus pri­
+    vilegija nepasinaudojo, nes po septynerių metų (1536 m.) Žy­
+    gimantas Senasis, garbingo žmogaus Ulriko Hozijaus, Vil­
+    niaus pilininko, patarimu, ėmėsi įgyvendinti mintį, išties vertą
+    jo tėviško rūpinimosi tauta. Suteikdamas Hozijui teisę pasta­
+    tyti tiltą per Viliją, kad būtų pakeista nepatogi perkėla, kuria
+    iki tol buvo naudojamasi, karalius leido imti tam tikrą mo­
+    kestį nuo pravažiuojančių; be to, jis nutarė visuomenės pato­
+    gumui paskirti labdaringą ir Vilniui labai svarbią įstaigą. Ho-
+    zijus buvo įpareigotas vėliau, kai jam sugrįš tilto statybos
+    išlaidos, prie dominikonų Šv.
+  citata_rodoma: ") Žy­\ngimantas Senasis, garbingo žmogaus Ulriko Hozijaus, Vil­\nniaus pilininko, patarimu, ėmėsi įgyvendinti mintį, išties vertą \njo tėviško rūpinimosi tauta. Suteikdamas Hozijui teisę pasta­\ntyti tiltą per Viliją, kad būtų pakeista nepatogi perkėla, kuria \niki tol buvo naudojamasi, karalius leido imti tam tikrą mo­\nkestį nuo pravažiuojančių; be to, jis nutarė visuomenės pato­\ngumui paskirti labdaringą ir Vilniui labai svarbią įstaigą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-174174
+
+- id: c-158375
+  citata_originali: |
+    Nors Viklifo sekėjas buvo ekskomuni­
+    kuotas ir priverstas palikti miestą, bet Martyno Liuterio ir
+    Cvinglio mokslas, kur kas giliau įsišaknijęs Vilniuje, buvo
+    stipriai palaikomas Vilniaus vaivados Mikalojaus Radvilos,
+    vadinamo Juoduoju. Jo dvaras Lukiškėse, prie Vilijos, nuo
+    renkasi į savo sueigas Lukiškėse, Jo
+    Didenybės Vilniaus vaivados Mika­
+    lojaus Radvilos rūmuose; nutaria
+    (savo susirinkime 1557 m. spalio 11
+    d.) įspėti Vilniaus vyskupą, kaip Ga­
+    nytoją, kad pakankamai veiktų pa­
+    gal savo pareigas, rašytų karaliui,
+    kad būtų išvengta pikto ir kad viso­
+    se viešose pamaldose įsakytų mels­
+    tis už Bažnyčios vienybę ir po visą
+    dieceziją būtų rengiamos procesijos
+    su litanijomis".
+    43
+    Žr. V priedą.
+    44
+    Kojalowicz  Histor. Lithu., Pars
+    II, Lib. VIII, p. 428. Rostowski Lithu.
+    Hist. Soc. Jesu, Pars I, p. 5.
+    45
+    Bohusz  Summaryusz Aktów Kapi­
+    tuły Wileń, MSS., p. 5 pasakoja, kad
+    „kapitula, gavusi žinių apie kažko­
+    kias naujas sektas: Liuterio, Cvinglio
+    ir naujosios krikščionybės, kad jie
+    283
+
+    ## Puslapis 300
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    1556 metų tapo visų reformos šalininkų prieglobsčiu ir mo­
+    kykla.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-174167
+
+- id: c-158376
+  citata_originali: |
+    Šalimais jo apvalus bokštas, iš plytų
+    ir akmens sumūrytas, su langu, pro kurį žyniai ir pranašai
+    skelbdavo savo pranašystes žmonėms3, o visa Kreivosios pi­
+    lies apsauginė juosta, pirmiausia apsupta aukšta ir tvirta sta­
+    tinių tvora, paskui Vilnios upės vandenų skalaujama iš vie­
+    nos pusės, o iš kitos - jos perkasos, dar Gedimino laikais
+    iškastos, - pilį puolantiems Lietuvos priešams sudarė ne­
+    lengvai įveikiamas kliūtis4. Iš Žemutinės pilies vakarinių var­
+    tų vedė kelias per du tiltus, nutiestus per Vilnios upę ir Ving­
+    rių upokšnį, kuris šalimais su ana upe įtekėjo į Viliją. Kelias
+    suko į šiaurės pusę, kelto per Viliją link, nuo ten, išsišakojęs
+    į du, vedė į Kernavę, senąją Lietuvos sostinę, ir į Ukmergės
+    pilį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-174172
+
+- id: c-158377
+  citata_originali: |
+    Pirmiausia jų,
+    regis, buvo įsikurta Lukiškėse, o gal net jie pirmieji ten statėsi
+    namus, juk iki šiol ten stovi mečetė jų tikėjimą išpažįstančioms
+    šeimoms. Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­
+    nyje į Viliją įteka Vingrių šaltinis, pavadinimas.
+    Tačiau tas kelias Lietuvos sostinės patirtas sėkmes (1398 m.)
+    temdė neramumai, grėsę ne tik iš kryžiuočių, bet ir per Vytau­
+    to vaidus su Jogaila, ir dar ne visai suderintus Lietuvos ir Len­
+    kijos interesus.
+  citata_rodoma: "Pirmiausia jų, \nregis, buvo įsikurta Lukiškėse, o gal net jie pirmieji ten statėsi \nnamus, juk iki šiol ten stovi mečetė jų tikėjimą išpažįstančioms \nšeimoms. Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­\nnyje į Viliją įteka Vingrių šaltinis, pavadinimas.\nTačiau tas kelias Lietuvos sostinės patirtas sėkmes (1398 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-174166
+
+- id: c-158378
+  citata_originali: |
+    Trys į
+    Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­
+    tiekus Chelminskis iš Inovroclavo ir Stanislovas Ratka iš Poz­
+    nanės, o du architektai ir raižytojai - Jonas Marija ir Jonas
+    34
+    Privilegija, duota Paleckiui steigti šią
+    liejyklą, yra rašyta slavų kalba, su lo­
+    tynišku karaliaus ir rusišku raštinin­
+    ko Valerijono parašu, su prikabintu
+    Lietuvos Didžiosios Kunigaikštystės
+    antspaudu. Duota 1547 metų gegu­
+    žės 22 dieną, 5 indikte. Sklypas, skir­
+    tas fabrikui statyti, buvo „prie Vil­
+    niaus miesto, už Vilijos upės, tarp
+    karaliaus šunidės ir Vilniaus vaiva­
+    dos ir karaliaus kanclerio Hlebavi-
+    čiaus plytinės", perduotas Paleckio
+    žiniai, karaliaus valia, per Vilniaus
+    gorodničių Povilą Giedraitį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-174168
+
+- id: c-158380
+  citata_originali: |
+    Ta pačia privilegija, kuria Vilniui buvo
+    duotos Magdeburgo teisės (Trakuose, 1492 m.), Aleksan­
+    dras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo
+    metu vadintą Zabójnica (žudike), panaikindamas visas pri­
+    vačias, išskyrus Karališkąją, Vyskupo ir Vaivadų bei Mal­
+    mazijos ir kitų bet kokios rūšies vynų propinaciją40. Jo įsa­
+    kymu, buvo kuo rūpestingiausiai garantuojama laisva
+    laivyba Vilija nuo Vilniaus iki Kauno ir atgal visiems Vil­
+    niaus miestiečių laivams su prekėmis, o keliantis perkėla
+    visur atleidžiama nuo bet kokių mokesčių41. Toks didžio­
+    jo kunigaikščio Aleksandro rūpinimasis savo sostinės
+    gyventojų gerove buvo nutrauktas grėsmingų caro Ivano Va-
+    siljevičiaus užmačių.
+  citata_rodoma: "), Aleksan­\ndras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo \nmetu vadintą Zabójnica (žudike), panaikindamas visas pri­\nvačias, išskyrus Karališkąją, Vyskupo ir Vaivadų bei Mal­\nmazijos ir kitų bet kokios rūšies vynų propinaciją40. Jo įsa­\nkymu, buvo kuo rūpestingiausiai garantuojama laisva \nlaivyba Vilija nuo Vilniaus iki Kauno ir atgal visiems Vil­\nniaus miestiečių laivams su prekėmis, o keliantis perkėla \nvisur atleidžiama nuo bet kokių mokesčių41. Toks didžio­\njo kunigaikščio Aleksandro rūpinimasis savo sostinės \ngyventojų gerove buvo nutrauktas grėsmingų caro Ivano Va- \nsiljevičiaus užmačių."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-174171
+
+- id: c-158381
+  citata_originali: |
+    272
+
+    ## Puslapis 289
+
+    IV KNYGA
+    Pakerėtas gražiosios Barboros Radvilaitės, Vilniaus kaš­
+    teliono Jurgio dukters, ir Goštauto, Trakų vaivados, naš­
+    lės, žavesio, dar stipriau prie jos prisirišo, kai greta grožio
+    atrado kuklumą ir sulaukė prielankumo. Barboros rūmai
+    stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies.
+    Ten visas laisvesnes akimirkas Augustas praleisdavo šalia
+    Barboros, kol pagaliau su ja susituokė30.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-174165
+
+- id: c-158382
+  citata_originali: |
+    Pagaliau
+    karaliaus raštas ponui Abramui, iž­
+    dininkui, kad laisvai leistų Vilniaus
+    vaitui į užsienį parduoti tris gaba­
+    lus vaško po 50 akmenų], fol. 589,
+    knyga V. Vilniaus miestiečiams, be­
+    siverčiantiems prekyba, nebuvo
+    svetima ir prekyba su užjūriu. 1529
+    metais Vilniaus burmistras Jonas
+    Markovičius jūroje buvo vokiečių
+    sulaikytas, paskui dėl to bylinėtasi.
+    Metryki Litezv. XI.
+    20
+    Lietuvos Metrikoje yra labai daug
+    Žygimanto Senojo laiškų, tuo tikslu
+    rašytų Vilniaus miestiečiams, - paci­
+    tuosime kai kuriuos: List Meszczani-
+    nu Wileńskomu Andrejų Tyckomu
+    [Laiškas Vilniaus miestiečiui Andre­
+    jui Tiekiui] dėl Smolensko muito ir
+    smuklių arendavimo. Knyga 8,1.87.
+    List Radzcy Wileńskomu Bohdanu On-
+    kieiviczu, na wybranie jemu winnych
+    peneźy z Korczem Bobruyjskoje i
+    Swisłockoje do dewet let spoina [Laiš­
+    kas Vilniaus tarėjui Bohdanui Anke-
+    vičiui, leidžiantis jam surinkti pri­
+    klausančius pinigus iš Bobruisko ir
+    Svisločės smuklių už devynerius
+    metus], 1. 100. Tam pačiam duotas
+    laiškas, leidžiantis surinkti jam pri­
+    klausančią pinigų sumą 472 kapas
+    grašių iš Oršos smuklės už 6 metus.
+    Fol. 113 ir pan.
+    21
+    Patvirtinimas Vilniaus burmistrui
+    Charitonui Charotičiui žeanės Mai­
+    šiagalos ir Rudaminos pav. pagal Jo
+    Malonybės karaliaus Aleksandro jo
+    broliui duotą privilegiją - fol. 127.
+    Dovanojimas Vilniaus miestiečiui
+    Andrejui Mikolajevičiui 3 tarnybų
+    Rudaminos valsčiuje amžinai. Kny­
+    ga VIII, fol. 125 ir daug kitų panašių
+    dovanojimų Metrikoje galima rasti.
+    22
+    Metrikoje: V knyga, lap. 640: Spisa­
+    nie Kupców Moskowskich Kotorye u
+    Wilny za Parkanom meszkajut [Sąra­
+    šas Maskvos pirklių, gyvenančių už
+    Vilniaus miesto sienos].
+    23
+    Paveldėtojų parduodamų Svečių na­
+    mų pardavimo kopija: Vilniaus ar­
+    klininko Mykolo Grigaravičiaus
+    269
+
+    ## Puslapis 286
+
+    VILNIAUS MIESTO ISTORIJA // TOMAS
+    buvo nuo mokesčių atleistas Kaune esantis Vilniaus pirklių
+    prekių sandėlis ir leista Vilijos upe laisvai plaukioti jų lai­
+    vams, vadinamoms vytinėms.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-174170
+
+- id: c-158383
+  citata_originali: |
+    Čia buvo pats miesto centras - ten,
+    kur dabar stovi Rotušė ir Šv. Kazimiero bažnyčia; po Aukš­
+    tutinės ir Žemutinės pilių tai buvo tarsi trečia tvirtovė. Jo­
+    kių dabar žinomų priemiesčių tada dar nebuvo, tik vienišos
+    trobos, Lukiškėse išsibarsčiusios šventų girių kryptimi, o ki­
+    toje pusėje, tarp Aukštutinės pilies ir Antakalnio šventyk­
+    los, išsidėsčiusios palei Viliją - dabartinių Lukiškių ir Ant­
+    akalnio užuomazgos7.
+    kuris jau krikščionybės laikais atsi- tai yra esančiu ant kalno, vadiname],
+    rado.
+  citata_rodoma: "Kazimiero bažnyčia; po Aukš­\ntutinės ir Žemutinės pilių tai buvo tarsi trečia tvirtovė. Jo­\nkių dabar žinomų priemiesčių tada dar nebuvo, tik vienišos \ntrobos, Lukiškėse išsibarsčiusios šventų girių kryptimi, o ki­\ntoje pusėje, tarp Aukštutinės pilies ir Antakalnio šventyk­\nlos, išsidėsčiusios palei Viliją - dabartinių Lukiškių ir Ant­\nakalnio užuomazgos7.\nkuris jau krikščionybės laikais atsi- tai yra esančiu ant kalno, vadiname], \nrado."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-174169
+
+- id: c-167258
+  citata_originali: |
+    Taigi ta vietovė, žinia, jei ji buvo parinkta to­
+    kiai reikšmingai paskirčiai, jau anksčiau turėjo būti užstaty­
+    ta ir gyvenama. Netgi pats Vilniaus vardas, paeinantis ne
+    nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios,
+    į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti
+    prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus
+    lydimais vertęs, kaip ir Gediminas keliasdešimt metų vė­
+    liau ant kalno statydinęs mūro tvirtovę, iškilusią jo viršūnė­
+    je, nieko daugiau nedarę, tik artinę Vilijos link ir plėtę seno­
+    vinę Vilniaus gyvenvietę, palei Vilnios, arba Vilnelės,
+    krantus nusidriekusią ir medinės pilies saugomą. Pagaliau
+    visas tas aplinkinis kraštas, kuriame yra Vilnius, kaip nuo
+    Rusios sienų netoli esantis, jau labai seniai turėjo būti apgy­
+    vendintas, ką liudija tokios tankiai gyvenamos vietovės ir
+    pilys, pirmiausia medinės, o jau XIV amžiuje perstatytos į
+    mūrines, kaip antai: Kernavė, Senieji ir Naujieji Trakai1 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183873
+
+- id: c-167259
+  citata_originali: |
+    Dar
+    niūrokas tuomet, bet visais laikais kerintis gražiu krašto­
+    vaizdžiu buvo anuometinis Vilnius, iškilęs prieš akis atvyku-
+    siems lenkams. Iš žalio slėnio gilumos, ant paskutiniojo iš kal­
+    nų, supančių Vilnelės upės vagą, ir ten, kur ji įteka į Viliją,
+    buvo iškilusi mūro tvirtovė, galingojo Gedimino pastatydin­
+    ta, saugoma aukštų sienų ir trijų bokštų. O pilies kalno pietų
+    pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­
+    siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje,
+    palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183874
 
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Lietuviai]]

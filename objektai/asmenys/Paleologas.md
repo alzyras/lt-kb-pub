@@ -16,6 +16,18 @@ amziai:
   - 'XIII'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Paleologas
 
@@ -28,9 +40,23 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto atgavimą 1259 viešpaties
 <a id="claim-t-60404"></a>
 - t-001
   global_id: t-60404
-  teiginys: '1259 m. graikų imperatorius Paleologas atgavo Konstantinopolį, kurį buvo užėmę prancūzai ir Venecijos kariai.'
+  teiginys: "1259 m. graikų imperatorius Paleologas atgavo Konstantinopolį, kurį buvo užėmę prancūzai ir Venecijos kariai."
+  semantiniai_rysiai: "Prancūzai užėmė Konstantinopolis (0.94); Paleologas užėmė Konstantinopolis (0.93)"
+  temporaliniai_duomenys: "įvykio data: 1259 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatiškas ir atitinka citatos faktus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "709161-709373; hash=224ae9fc7bd1ce7c92f4d5fe0d1d241a8898ef8a24a29ee65eba1e3ac17e4fc6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Konstantinopolis: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Prancūzai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Konstantinopolis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Konstantinopolį buvo užėmę prancūzai."
   pagrindžia:
-    - c-001
+    - c-61036
 - susijęs iš [[objektai/asmenys/Manuelis.md#claim-t-35214|Manuelis]]: Manuelis buvo Konstantinopolio ciesorius ir Jono Paleologo tėvas, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę.
 - susijęs iš [[objektai/asmenys/Jonas Paleologas.md#claim-t-35152|Jonas Paleologas]]: Jonas Paleologas buvo Konstantinopolio ciesoriaus Manuelio sūnus, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę.
 - susijęs iš [[objektai/asmenys/Manuelis.md#claim-t-35214|Manuelis]]: Manuelis buvo Konstantinopolio ciesorius ir Jono Paleologo tėvas, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę.
@@ -50,11 +76,28 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto atgavimą 1259 viešpaties
       1259 viešpaties metais Paleologas, graikų imperatorius, atgavo Konstantinopolį, kurį
     buvo užėmę prancūzai ir Venecijos kariai [per Gallicos et Venetos] (Mart. p. 405).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-61036
+  citata_originali: |
+    42. Apie Konstantinopolio miesto atgavimą
+
+      1259 viešpaties metais Paleologas, graikų imperatorius, atgavo Konstantinopolį, kurį
+    buvo užėmę prancūzai ir Venecijos kariai [per Gallicos et Venetos] (Mart. p. 405).
+  citata_rodoma: "Apie Konstantinopolio miesto atgavimą\n\n  1259 viešpaties metais Paleologas, graikų imperatorius, atgavo Konstantinopolį, kurį\nbuvo užėmę prancūzai ir Venecijos kariai [per Gallicos et Venetos] (Mart. p. 405)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60404
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Manuelis]]

@@ -16,6 +16,18 @@ tags:
   - ordinas
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Niešavo prekybos sutartis („über transitus“) (1424 m.)
 
@@ -44,17 +56,39 @@ Nenurodyta
 <a id="claim-t-35870"></a>
 - t-001
   global_id: t-35870
-  teiginys: '1424 m. Niešavoje sudaryta prekybos sutartis „über transitus“ nustatė laisvą tranzitinę prekybą tarp kelių kraštų pirklių.'
+  teiginys: "1424 m. Niešavoje sudaryta prekybos sutartis „über transitus“ nustatė laisvą tranzitinę prekybą tarp kelių kraštų pirklių."
+  temporaliniai_duomenys: "sutarties data: 1424 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "619692-620220; hash=d463cfca6f3d9a887313ea509cd7ba3ccf7fcbb64fc440015634fe699b13dd8d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Niešava: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Niešavo prekybos sutartis („über transitus“) (1424 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Niešava: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Niešavo prekybos sutartis („über transitus“) (1424 m.)\" parinktas kaip owner_note_path. Targetas \"Niešava\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-37041
 
 <a id="claim-t-35871"></a>
 - t-002
   global_id: t-35871
-  teiginys: 'Niešavos prekybos sutartis užbaigė lietuvių prekybą ilgai trikdžiusius neramumus.'
+  teiginys: "Niešavos prekybos sutartis užbaigė lietuvių prekybą ilgai trikdžiusius neramumus."
+  semantiniai_rysiai: "Lietuva prekiavo su Rusija (0.73); Lietuva prekiavo su Maskva (0.72); Lietuva prekiavo su Livonija (0.70)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "619954-620416; hash=594a4eab0f7b655fa93963e65e476799e62d6899fc99f8ff36b107f0713122d3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Rusija: 0.73"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Rusija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sieja Lietuvos ir Rusijos pirklius su laisvos prekybos režimu."
   pagrindžia:
-    - c-002
-
+    - c-38321
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -70,6 +104,7 @@ Nenurodyta
     čių ir Livonijos Ordinų žemėse, o šių pastarųjų pirkliai — aukš­
     čiau išvardintuose kraštuose^4 ).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -88,8 +123,47 @@ Nenurodyta
     dabar galėjo laisviau atsikvėpti Vytauto dėka, kuris įveikė Or­
     diną ir galutinai atėmė iš jo Žemaitiją.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-37041
+  citata_originali: |
+    Tiktai po Melno taikos, prasidėjus geriems Vytauto
+    santykiams su magistru Russdorfu, nebepasitaikė daugiau su­
+    varžymų ir represijų, kurios būtų palietusios vokiečių arba Lie­
+    tuvos pirklius. 1424 metais buvo dar padaryta prekybos sutar­
+    tis Niešavo miestelyje. Čia aktu, pavadintu „über transitus“
+    (laisvas tranzitas), nustatyta, kad Lietuvos, Žemaičių, Lenkijos,
+    Maskvos ir Rusijos pirkliai galės visai laisvai prekiauti Vokie­
+    čių ir Livonijos Ordinų žemėse, o šių pastarųjų pirkliai — aukš­
+    čiau išvardintuose kraštuose^4 ).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-35870
+
+- id: c-38321
+  citata_originali: |
+    Čia aktu, pavadintu „über transitus“
+    (laisvas tranzitas), nustatyta, kad Lietuvos, Žemaičių, Lenkijos,
+    Maskvos ir Rusijos pirkliai galės visai laisvai prekiauti Vokie­
+    čių ir Livonijos Ordinų žemėse, o šių pastarųjų pirkliai — aukš­
+    čiau išvardintuose kraštuose^4 ). Tuo būdu buvo užbaigti painūs
+    ir daug lietuvių prekybą trukdę neramumai. Lietuvos pirkliai
+    dabar galėjo laisviau atsikvėpti Vytauto dėka, kuris įveikė Or­
+    diną ir galutinai atėmė iš jo Žemaitiją.
+  citata_rodoma: "Tuo būdu buvo užbaigti painūs\nir daug lietuvių prekybą trukdę neramumai. Lietuvos pirkliai\ndabar galėjo laisviau atsikvėpti Vytauto dėka, kuris įveikė Or­\ndiną ir galutinai atėmė iš jo Žemaitiją."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-35871

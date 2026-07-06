@@ -18,6 +18,18 @@ amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Marija (Algirdo žmona)
 
@@ -30,17 +42,38 @@ periodo_grupes:
 <a id="claim-t-87545"></a>
 - t-001
   global_id: t-87545
-  teiginys: 'Marija buvo Tverės kunigaikštytė ir Algirdo žmona.'
+  teiginys: "Marija buvo Tverės kunigaikštytė ir Algirdo žmona."
+  semantiniai_rysiai: "Marija (Algirdo žmona) buvo žmona Algirdas (Lietuvos valdovas) (0.97)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "80724-81137; hash=cfbcb000c17f50534e7c8e72048de355478dfaf27d673d32a77ce73ad5b2cce7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_zmona -> Algirdas (Lietuvos valdovas): 0.97"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Marija (Algirdo žmona): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Mariją kaip Algirdo žmoną."
   pagrindžia:
-    - c-001
+    - c-83524
 
 <a id="claim-t-87546"></a>
 - t-002
   global_id: t-87546
-  teiginys: 'Marija, Algirdo žmona, globojo į Vilnių atvykstančius rusinus ir siekė lietuviams pagonims skleisti graikų apeigų krikščionybę.'
+  teiginys: "Marija, Algirdo žmona, globojo į Vilnių atvykstančius rusinus ir siekė lietuviams pagonims skleisti graikų apeigų krikščionybę."
+  semantiniai_rysiai: "Marija (Algirdo žmona) buvo žmona Algirdas (Lietuvos valdovas) (0.97)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "93649-94944; hash=ff36f790a30e66fb75fee7ef46f653115f2fccc46638b15748e7a83310b3ee6d; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_zmona -> Algirdas (Lietuvos valdovas): 0.97"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Marija (Algirdo žmona): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai įvardija Mariją kaip Algirdo žmoną."
   pagrindžia:
-    - c-002
-
+    - c-83525
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -60,6 +93,7 @@ periodo_grupes:
     o graikų apeigų dvasininkams atlikti savo tikėjimo apei­
     gas. Jau Algirdo viešpatavimo pradžioje Šv.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -111,11 +145,85 @@ periodo_grupes:
     ypač užtarė Marija, Algirdo žmona, pasinešusi lietuviams pa­
     gonims skiepyti krikščionišką graikų apeigų tikėjimą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-83524
+  citata_originali: |
+    Žr. V\lre- tis buvęs Kęstudo karių suduptas.
+    26
+
+    ## Puslapis 43
+
+    I  KNYGA
+    krikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­
+    ko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte
+    Marija, sekdamas Gedimino politika, leido, be skirtumo, iš
+    Romos atsiųstiems vienuoliams Vilniuje skelbti evangeliją,
+    o graikų apeigų dvasininkams atlikti savo tikėjimo apei­
+    gas. Jau Algirdo viešpatavimo pradžioje Šv.
+  citata_rodoma: "V\\lre- tis buvęs Kęstudo karių suduptas.\n26\n\n## Puslapis 43\n\nI  KNYGA\nkrikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­\nko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte \nMarija, sekdamas Gedimino politika, leido, be skirtumo, iš \nRomos atsiųstiems vienuoliams Vilniuje skelbti evangeliją, \no graikų apeigų dvasininkams atlikti savo tikėjimo apei­\ngas. Jau Algirdo viešpatavimo pradžioje Šv."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87545
+
+- id: c-83525
+  citata_originali: |
+    Bemaž tuo metu Vilniuje gerokai
+    25
+    V o i g t, V, 274, pasakodamas pagal
+    Vygandą, kad susirėmimas vykęs
+    prie didelio Rudminne kaimo (das
+    grosse dorf), mano, kad tai turėtų būti
+    dabartinis Parudaminys, esantis nuo
+    Vilniaus į pietvakarius. Betgi yra ir
+    Rudamina, miestelis, arba bažnyt­
+    kaimis, pietryčiuose, už pusantros
+    mylios nuo miesto.
+    26
+    Kazimiero IV, kai jis buvo dar Lie­
+    tuvos didysis kunigaikštis, privile­
+    gijoje, 1440 metais duotoje Romos
+    katalikų ir stačiatikių tikėjimo Vil­
+    niaus miestiečiams, kuriems leidžia­
+    ma laisvai prekiauti nemokant mui­
+    to mokesčio visoje Lietuvos valsty­
+    bėje, pasakyta, kad tai yra senos lais­
+    vės, senolio Algirdo ir jo įpėdinių
+    suteiktos Vilniui, atnaujinimas. Con­
+    cedimus ac darnus hanc libertatem, quod
+    per totum nostrum Magnum Ducatum
+    Lithuaniae et Russiae nullum thelo-
+    neum a quibuscumque mercantiis darė
+    et solvere tenebuntur; sed juxta consu­
+    etudinem antiquam a Nostris Praede­
+    cessoribus et signanter Serenissimis
+    Principibus Avo videlicet Olgerdo,
+    olim Magno Duce Lithuaniae et Domi­
+    no Vladislao Rege Poloniae, tunc autem
+    32
+
+    ## Puslapis 49
+
+    I  KNYGA
+    padaugėjo gyventojų dėl čionai atvykstančių rusinu, kuriuos
+    ypač užtarė Marija, Algirdo žmona, pasinešusi lietuviams pa­
+    gonims skiepyti krikščionišką graikų apeigų tikėjimą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87546
 
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

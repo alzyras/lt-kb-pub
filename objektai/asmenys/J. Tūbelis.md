@@ -16,6 +16,18 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'modernioji Lietuva'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # J. Tūbelis
 
@@ -26,18 +38,44 @@ Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai. Tūbelio minist
 ## Teiginiai
 
 <a id="claim-t-78055"></a>
-- t-001
+- t-002
   global_id: t-78055
-  teiginys: 'Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabinetas, o premjeru tapo Vladas Mironas.'
+  teiginys: "Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabinetas, o premjeru tapo Vladas Mironas."
+  temporaliniai_duomenys: "įvykio data: 1938 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Nutrūkusi sakinio pabaiga perrašyta pagal citatą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "360532-360915; hash=8b5a0d224e2bb474bb1c9e1ecde218223eb1e882259315915113fdcaa5f732f0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vladas Mironas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "J. Tūbelis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vladas Mironas: mention_match, person, gap=47"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Tūbelis\" parinktas kaip owner_note_path. Targetas \"Vladas Mironas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-21712
 
 <a id="claim-t-78056"></a>
-- t-002
+- t-001
   global_id: t-78056
-  teiginys: 'J. Tūbelis pareiškė, kad Lietuvos, Latvijos ir Estijos karinis aljansas nebūtų naudingas Lietuvai.'
+  teiginys: "J. Tūbelis pareiškė, kad Lietuvos, Latvijos ir Estijos karinis aljansas nebūtų naudingas Lietuvai."
+  temporaliniai_duomenys: "įvykio data: 1935 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pirminiame teiginyje neaišku, koks aljansas minimas; citata leidžia tai patikslinti."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "358141-358758; hash=9971a04daf6672b321b663bf3fefa21ccb229ad7364628130d83d1b26ddfccc9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "J. Tūbelis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=63"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Tūbelis\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-21711
 - susijęs iš [[objektai/asmenys/Juozas Tūbelis.md#claim-t-170077|Juozas Tūbelis]]: Juozas Tūbelis ir Antanas Smetona pareiškė, kad Lietuvos, Latvijos ir Estijos karinė sąjunga nebūtų naudinga Lietuvai.
 - susijęs iš [[objektai/asmenys/Juozas Tūbelis.md#claim-t-170079|Juozas Tūbelis]]: Juozas Tūbelis išmanė Lietuvos ekonomiką ir finansus, priešinosi lito nuvertinimui ir atsargia politika padėjo atlaikyti krizę.
 - susijęs iš [[objektai/asmenys/Juozas Tūbelis.md#claim-t-170083|Juozas Tūbelis]]: Juozas Tūbelis 1931–1938 m. ramiai pirmininkavo ir vyriausybei, ir Lietuvių tautininkų sąjungai.
@@ -69,6 +107,7 @@ Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai. Tūbelio minist
     bes, pasisakė už trijų šalių karinę sąjungą, tačiau A. Smetona ir premjeras
     J. Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -87,8 +126,47 @@ Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai. Tūbelio minist
     netas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas
     Mironas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-21711
+  citata_originali: |
+    1935 m. balandį
+    S. Lozoraitis įteikė prezidentui A. Smetonai slaptą memorandumą, kuria-
+    me išdėstė savo schemą: mes turime Klaipėdą, tačiau dėl to gresia pavojus,
+    mes neturime Vilniaus ir nėra vilties jį atgauti artimiausioje ateityje. Nega-
+    lime kautis dviejuose diplomatijos frontuose, todėl Lietuvai reikia susigrą-
+    žinti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija. Karinėje srityje
+    S. Raštikis zondavo karinio bendradarbiavimo su Latvija ir Estija galimy-
+    bes, pasisakė už trijų šalių karinę sąjungą, tačiau A. Smetona ir premjeras
+    J. Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai.
+  citata_rodoma: "Karinėje srityje \nS. Raštikis zondavo karinio bendradarbiavimo su Latvija ir Estija galimy-\nbes, pasisakė už trijų šalių karinę sąjungą, tačiau A. Smetona ir premjeras \nJ. Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78056
+
+- id: c-21712
+  citata_originali: |
+    Nors diplomatiniai santykiai buvo atkurti, Lenkijos ir
+    Lietuvos bendradarbiavimas nesusiklostė. Lietuva tai laikė taktiniu atsi-
+    traukimu ir 1938 m. gegužę priimtoje naujoje konstitucijoje vėl įrašė, kad
+    Vilnius yra Lietuvos sostinė.
+    Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabi-
+    netas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas
+    Mironas.
+  citata_rodoma: "Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabi-\nnetas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas \nMironas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78055

@@ -13,6 +13,18 @@ tags:
   - saltinis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Mažiulis V. Senovės vakarų baltai
 
@@ -25,10 +37,15 @@ Dusburgietis teigia, kad mažiulis V.
 <a id="claim-t-61174"></a>
 - t-001
   global_id: t-61174
-  teiginys: 'V. Mažiulio „Senovės vakarų baltai“ paskelbta MG 1981 m. Nr. 2, p. 7–8.'
+  teiginys: "V. Mažiulio „Senovės vakarų baltai“ paskelbta MG 1981 m. Nr. 2, p. 7–8."
+  temporaliniai_duomenys: "įvykio data: 1981 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinį įrašo faktą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "785956-786016; hash=b11617d62fe8846726a4f0c60a42cc83a4b13d14517da6ed67a6cf0dafc303c2; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
-
+    - c-61806
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -37,8 +54,21 @@ Dusburgietis teigia, kad mažiulis V.
   citata_originali: |
     Mažiulis V. Senovės vakarų baltai.— MG, 1981, Nr. 2, p. 7—8.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-61806
+  citata_originali: |
+    Mažiulis V. Senovės vakarų baltai.— MG, 1981, Nr. 2, p. 7—8.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-61174

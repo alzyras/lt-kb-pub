@@ -7,10 +7,6 @@ datos:
   - '1934 m.'
 date_start: '1934'
 date_end: ''
-aliases:
-  - 'objektai/zodynas/modus vivendi'
-variantai:
-  - 'modus vivendi'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -18,6 +14,18 @@ tags:
   - sąvoka
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Modus vivendi
 
@@ -30,9 +38,22 @@ Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus L I E T
 <a id="claim-t-77799"></a>
 - t-001
   global_id: t-77799
-  teiginys: 'Stasys Lozoraitis modus vivendi su Lenkija laikė būtina Lietuvos nepriklausomybės sąlyga.'
+  teiginys: "Stasys Lozoraitis modus vivendi su Lenkija laikė būtina Lietuvos nepriklausomybės sąlyga."
+  temporaliniai_duomenys: "įvykio data: 1934 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia citatoje nurodytą Lozoraičio poziciją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "357709-358140; hash=1944fc533b0a5ebe1d67d73581709ca600c1573c450b622285f035429450605c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Modus vivendi: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Modus vivendi\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-75124
 - susijęs iš [[objektai/ivykiai/S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis).md#claim-t-75262|S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis)]]: Stasys Lozoraitis laikė modus vivendi su Lenkija būtina Lietuvos nepriklausomybės sąlyga.
 - susijęs iš [[objektai/ivykiai/S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis).md#claim-t-75264|S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis)]]: S. Lozoraitis laikė modus vivendi su Lenkija būtina Lietuvos nepriklausomybės sąlyga.
 - susijęs iš [[objektai/posakiai/„nepriklausomybė svarbiausia“.md#claim-t-75618|„nepriklausomybė svarbiausia“]]: Stasys Lozoraitis laikėsi idėjos „nepriklausomybė svarbiausia“ ir modus vivendi su Lenkija laikė būtina jos sąlyga.
@@ -55,8 +76,30 @@ Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus L I E T
     178
     vivendi su Lenkija yra būtina nepriklausomybės sąlyga.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-75124
+  citata_originali: |
+    Todėl 1934 m. pradėti megzti neoficialūs
+    Kauno ryšiai su Varšuva. Keturiasdešimtmečiai užsienio reikalų ministras
+    Stasys Lozoraitis ir kariuomenės vadas gen. Stasys Raštikis ėmėsi moder-
+    nizuoti diplomatiją ir kariuomenę ir paruošė naują nacionalinio saugumo
+    strategiją. S. Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus
+
+    L I E T U V O S  I S T O R I J A
+    178
+    vivendi su Lenkija yra būtina nepriklausomybės sąlyga.
+  citata_rodoma: "Stasys Raštikis ėmėsi moder-\nnizuoti diplomatiją ir kariuomenę ir paruošė naują nacionalinio saugumo \nstrategiją. S. Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus\n\nL I E T U V O S  I S T O R I J A\n178\nvivendi su Lenkija yra būtina nepriklausomybės sąlyga."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77799

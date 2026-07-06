@@ -16,6 +16,18 @@ tags:
   - tauta
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # sukilimo inscenizacija
 
@@ -28,10 +40,40 @@ Lietuvai liko sukilimo inscenizacijos scenarijus.
 <a id="claim-t-77785"></a>
 - t-001
   global_id: t-77785
-  teiginys: 'Lietuvai liko sukilimo inscenizacijos scenarijus.'
+  teiginys: "Lietuvai liko sukilimo inscenizacijos scenarijus."
+  temporaliniai_duomenys: "įvykio data: 1923 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "305655-307559; hash=369a74eef874bea1e82a93b12e408504ffddbb046228d98603d58fce71caabdd; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bermontininkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "sukilimo inscenizacija: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Bermontininkai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"sukilimo inscenizacija\" parinktas kaip owner_note_path. Targetas \"Bermontininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-75110
 
+<a id="claim-t-77785"></a>
+- t-001
+  global_id: t-77785
+  teiginys: "Lietuvai liko sukilimo inscenizacijos scenarijus."
+  temporaliniai_duomenys: "įvykio data: 1923 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "305655-307559; hash=369a74eef874bea1e82a93b12e408504ffddbb046228d98603d58fce71caabdd; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bermontininkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "sukilimo inscenizacija: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Bermontininkai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"sukilimo inscenizacija\" parinktas kaip owner_note_path. Targetas \"Bermontininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  pagrindžia:
+    - c-75110
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -65,9 +107,49 @@ Lietuvai liko sukilimo inscenizacijos scenarijus.
     prancūzai, tačiau garsiai protestavo visi – aršiausiai prancūzai, formaliai
     vokiečiai ir net britai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+
+## Citatos
+
+- id: c-75110
+  citata_originali: |
+    Klaipėdos krašto lietuviai, ilgus amžius gyvenę veikiami vokiečių kul-
+    tūros, liuteronai, o ne katalikai, politiškai liko ištikimi Vokietijai, todėl pa-
+    tys sukilti nesiruošė. Tik Rytprūsių lietuvių aktyvistai pasisakė už susijun-
+    gimą su Lietuva tautinės kultūros ir kalbos išsaugojimo labui, tikėdamiesi
+    gauti gerus postus administracijoje. Lietuvai liko sukilimo inscenizacijos
+    scenarijus. Abipusis psichologinis atotrūkis akivaizdus – E. Galvanauskas
+    ir ruošiamo žygio vadas, žvalgybos karininkas Jonas Budrys (Polovins-
+    kas) nustebo, jog kadriniai Lietuvos kariuomenės karininkai, kovoję prieš
+    lenkus, bermontininkus ir bolševikus, nenoriai rašėsi į Klaipėdos žygį,
+    nes... nelaikė to kova už tėvynę.
+    1923 m. sausio 6 d. Šilutėje sudarytas Vyriausias Mažosios Lietuvos
+    gelbėjimo komitetas (VMLGK) po trijų dienų paprašė Lietuvos ateiti į
+    pagalbą. Sausio 9-ąją civiliai aprengti 1 050 Lietuvos savanorių, kurių
+    kišenėse nebūtum galėjęs rasti nė vieno lietuviško dokumento, degtukų
+    ar cigarečių pakelio, peržengė sieną. Tarp jų į Klaipėdą žygiavo 40 regu-
+    liariosios kariuomenės karininkų ir 584 kariai, kiti – šauliai, studentai ir
+    apie 300 vietinių gyventojų, tarp jų keli vokiečiai, kaip įrodymas sąjun-
+    gininkams, kad sukilo vietiniai. Žygio dalyviai įspėti susidūrimų metu
+    stengtis nukauti kuo mažiau prancūzų. Akcija pradėta laiku: Vakaruose
+    vyko karšti disputai dėl nesumokėtų vokiečių reparacijų ir prancūzų da-
+    linių įvedimo į Ruro kraštą. Žygis į Klaipėdą įvyko sklandžiai, Kaunas jį
+    pristatė kaip vietinių sukilimą, juoba kad ir vietos vokiečiai nepriešta-
+    ravo. Prancūzams lietuviai aiškins, kad sukilimas įvyko prieš vokiečius,
+    o ne prieš Gabrielio Žano Petisnė (Gabriel Jean Petisne) administraciją.
+    Susišaudymuose nuo prancūzų kulkų žuvo 16 lietuvių, nuo lietuvių – du
+    prancūzai, tačiau garsiai protestavo visi – aršiausiai prancūzai, formaliai
+    vokiečiai ir net britai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77785
+    - t-183468

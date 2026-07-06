@@ -16,6 +16,18 @@ tags:
   - vieta
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Borisovas
 
@@ -26,39 +38,107 @@ amziai:
 ## Teiginiai
 
 <a id="claim-t-114162"></a>
-- t-001
+- t-002
   global_id: t-114162
-  teiginys: '1500 m. Borisove datuotu sprendimu karalius Aleksandras įsakė nugriauti prie Bernardinų vienuolyno buvusį malūną.'
+  teiginys: "1500 m. Borisove datuotu sprendimu karalius Aleksandras įsakė nugriauti prie Bernardinų vienuolyno buvusį malūną."
+  semantiniai_rysiai: "Malūnas priklausė Aleksandras Jogailaitis (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1500 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "479831-480473; hash=3d9d1515875fd840f416490bca928dfa0e35f231810ee9a30913043682940325; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Aleksandras Jogailaitis: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Malūnas: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Aleksandras Jogailaitis: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Formuluotė „savo malūną“ rodo, kad malūnas priklausė karaliui Aleksandrui."
   pagrindžia:
-    - c-001
+    - c-105319
 
 <a id="claim-t-114163"></a>
-- t-002
+- t-001
   global_id: t-114163
-  teiginys: 'Į Lietuvą įsiveržusios totorių pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių ir Trakus.'
+  teiginys: "Į Lietuvą įsiveržusios totorių pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių ir Trakus."
+  semantiniai_rysiai: "Totorių pajėgos užėmė Borisovas (0.97); Totorių pajėgos puolė Lietuva (0.95); Totorių pajėgos užėmė Vilnius (0.95); Totorių pajėgos užėmė Trakai (0.95)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "273301-273860; hash=7968aeb67cb6f12d54193bb1b204494388dfabc75da91c697ca41e42e931e850; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Borisovas: 0.97"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totorių pajėgos: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Borisovas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Borisovas tiesiogiai įvardytas tarp totorių pajėgų užimtų vietų."
   pagrindžia:
-    - c-002
+    - c-167165
+
+<a id="claim-t-114163"></a>
+- t-001
+  global_id: t-114163
+  teiginys: "Į Lietuvą įsiveržusios totorių pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių ir Trakus."
+  semantiniai_rysiai: "Totorių pajėgos užėmė Borisovas (0.97); Totorių pajėgos puolė Lietuva (0.95); Totorių pajėgos užėmė Vilnius (0.95); Totorių pajėgos užėmė Trakai (0.95)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "273301-273860; hash=7968aeb67cb6f12d54193bb1b204494388dfabc75da91c697ca41e42e931e850; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Borisovas: 0.97"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totorių pajėgos: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Borisovas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Borisovas tiesiogiai įvardytas tarp totorių pajėgų užimtų vietų."
+  pagrindžia:
+    - c-167165
 
 <a id="claim-t-184934"></a>
 - t-004
   global_id: t-184934
-  teiginys: 'Glinskis, nutraukęs Minsko apgulą, su savo kariais pirmiausia nužygiavo į Borisovą, o iš ten į Oršą.'
+  teiginys: "Glinskis, nutraukęs Minsko apgulą, su savo kariais pirmiausia nužygiavo į Borisovą, o iš ten į Oršą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1068751-1069325; hash=01c615fc9c165b1ba4b7ad8f9c81432c7075f1bcb94993311b76f7d22e85cebc; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Borisovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Borisovas\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-168295
+- susijęs iš [[objektai/asmenys/Eustachijus Tiškevičius.md#claim-t-190853|Eustachijus Tiškevičius]]: Eustachijus Tiškevičius kasinėjo kapavietes Lietuvos Rusioje, Borisovo apskrityje.
 - susijęs iš [[objektai/asmenys/Žygimantas.md#claim-t-184907|Žygimantas]]: Karalius Žygimantas prie Borisovo įkūrė stovyklą su trisdešimt tūkstančių rinktinių karių.
+- susijęs iš [[objektai/autoriai/Eustachijus Tiškevičius.md#claim-t-191564|Eustachijus Tiškevičius]]: Eustachijus Tiškevičius, Narbuto duomenimis, kasinėjo kapavietes Lietuvos Rusioje, Borisovo apskrityje.
 - susijęs iš [[objektai/ivykiai/Karaliaus Žygimanto žygis prieš Glinskį ir nesėkminga Minsko apgula.md#claim-t-185582|Karaliaus Žygimanto žygis prieš Glinskį ir nesėkminga Minsko apgula]]: Glinskis nutraukė Minsko apgulą, nužygiavo į Borisovą ir Oršą, o karalius Žygimantas atkakliai persekiojo atsitraukiantį Glinskį.
+- susijęs iš Eustachijus Tiškevičius, Rzut oka na irodia archeologii krajomej: Eustachijus Tiškevičius kasinėjo Lietuvos Rusioje, Borisovo apskrityje.
 - susijęs iš Minskas: Aleksandras su pagrindinėmis jėgomis lėtai sekė Konstantino Ostrogiškio dalinius, stabtelėdamas Minske ir Borisove.
 - susijęs iš [[objektai/asmenys/Ibrahimas (Turkijos čiaušas).md#claim-t-87513|Ibrahimas (Turkijos čiaušas)]]: Turkijos imperatoriaus čiaušas Ibrahimas buvo atsiųstas pas karalių ir, atvykęs iš Maskvos, paliko Vilniuje tarnus, žirgus bei daiktus.
 - susijęs iš [[objektai/asmenys/Kristupas Radvila.md#claim-t-87403|Kristupas Radvila]]: 1586 m. atviras Lietuvos Ponų Tarybos laiškas Kristupui Radvilai įpareigojo Vilniuje parinkti namus čiaušui Ibrahimui.
+- susijęs iš [[objektai/asmenys/Kruze.md#claim-t-191291|Kruze]]: Kruze vykdė kasinėjimus Kurše, Infliantuose ir Estijoje, Narbutui aptariant Šiaurės Europos kapaviečių pėdsakus.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113882|Mikalojus Radvila Juodasis]]: Žygimantas rašte pabrėžė Mikalojaus Radvilos Juodojo ištikimą tarnystę karo ir taikos metu bei nuopelnus Respublikai.
+- susijęs iš [[objektai/autoriai/Fridrikas Kruzė.md#claim-t-191560|Fridrikas Kruzė]]: Ponas Fridrikas Kruzė vykdė kapaviečių kasinėjimus Kurše, Infliantuose ir Estijoje.
+- susijęs iš [[objektai/autoriai/Kruze.md#claim-t-191892|Kruze]]: Narbutas nurodė, kad ponas Kruze vykdė kapaviečių kasinėjimus Kurše, Infliantuose ir Estijoje.
 - susijęs iš [[objektai/daiktai/Bernardinų bažnyčios pamatai, perstatymas ir karaliaus malūnas.md#claim-t-87023|Bernardinų bažnyčios pamatai, perstatymas ir karaliaus malūnas]]: 1500 m. karalius Aleksandras įsakė nugriauti prie bernardinų vienuolyno buvusį savo malūną, nes jo drebėjimas judino pastatų pamatus.
+- susijęs iš [[objektai/grupes/Vilkai-liutikai.md#claim-t-192965|Vilkai-liutikai]]: Narbutas vilkų, arba Wilkow, tautą laiko priešistorine grupe, kurios vardas, jo teigimu, buvo įvairiai iškraipomas.
 - susijęs iš 1500 m. Aleksandro sprendimas dėl malūno prie Bernardinų vienuolyno: 1500 m. karalius Aleksandras įsakė nugriauti prie bernardinų vienuolyno buvusį malūną ir jo sklypą atidavė vienuolynui.
 - susijęs iš Atviras Lietuvos ponų tarybos laiškas dėl Turkijos čiaušo Ibrahimo apgyvendinimo Vilniuje (1586 m. gruodžio 13 d.): 1586 m. gruodžio 13 d. Lietuvos ponų taryba leido Turkijos čiaušui Ibrahimui kurį laiką gyventi Vilniuje ir nurodė pasirūpinti jo nakvyne bei saugumu.
 - susijęs iš Lietuvos ponų tarybos laiškas Kristupui Radvilai apie Stepono Batoro mirtį (1586 m. gruodžio 13 d.): Lietuvos ponų tarybos laiškas Kristupui Radvilai buvo sutvirtintas aštuoniais antspaudais.
+- susijęs iš Baltarusija: Narbutas nurodo, kad pilkapių pasitaiko visoje Baltarusijoje, bet daugiausia jų telkiasi Dnepro vidurupyje nuo Sklovo iki Pripetės žiočių.
 - susijęs iš Bernardinų bažnyčia Vilniuje: 1500 m. Aleksandras įsakė nugriauti prie bernardinų vienuolyno buvusį karaliaus malūną, nes jis drebindamas silpnino bernardinų pastatų pamatus.
 - susijęs iš Bernardinų bažnyčia Vilniuje: Mikalojus Radvila II savo lėšomis naujai pamūrijo bernardinų bažnyčią, vadintą Šv. Pranciškaus ir Bernardo vardu.
 - susijęs iš Bernardinų bažnyčia Vilniuje: 1500 m. karalius Aleksandras įsakė nugriauti prie Bernardinų vienuolyno buvusį malūną, ardžiusį pastatų pamatus.
+- susijęs iš Beržūna: Daugiausia pilkapių aptikta uždarame Drutės ir Beržūnos upių žemupio plote.
+- susijęs iš Dnepras: Narbutas rašė, kad daugiausia Baltarusijos pilkapių buvo Dnepro vidurupyje nuo Sklovo apylinkių iki Pripetės žiočių.
 - susijęs iš Gardinas: 1586 metų gruodžio 13 dieną Gardine Lietuvos ponų taryba parengė laišką dėl Turkijos čiaušo Ibrahimo apgyvendinimo Vilniuje.
+- susijęs iš Nemunas: Narbuto pasakojime vilkų tauta nuo Neries žiočių dešiniuoju Nemuno krantu pasiekė Dubysą.
+- susijęs iš Pripetė: Narbutas nurodo, kad Dnepro vidurupyje pilkapių ypač daug nuo Sklovo aukštupio iki Pripetės žiočių.
 - susijęs iš [[objektai/zodynas/lengvoji raitija.md#claim-t-185367|lengvoji raitija]]: Prieš pagrindinių jėgų susidūrimą kovėsi abiejų pusių lengvosios raitijos žvalgybiniai būriai, o sėkmė lydėjo karaliaus karius.
 - susijęs iš Minskas: Aleksandras su pagrindinėmis jėgomis lėtai sekė Konstantino Ostrogiškio dalinius, stabtelėdamas Minske ir Borisove.
 ## Reikšmingi paminėjimai
@@ -88,6 +168,7 @@ amziai:
     pamatus, o sklvpą, kuriame malū­
     nas stovėjo, atiduoda vienuolynui.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -132,6 +213,7 @@ amziai:
 
     priversdamas priešą badauti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -156,11 +238,108 @@ amziai:
     jo per mažai karių. Jį atsitraukiantį atkakliai perse­
     kiojo karalius.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
+## Citatos
+
+- id: c-105319
+  citata_originali: |
+    Dvasios dominikonų baž­
+    nyčioje galima pamatyti karaliaus
+    Aleksandro portretą visu ūgiu ant
+    pirmosios kolonos nuo įėjimo deši­
+    nėje pusėje, o ant priešais stovinčios -
+    tokio pat didumo kunigo Korčiako
+    paveikslą.
+    51
+    Karalius Aleksandras savo sprendi­
+    mu, datuotu Borisove 1500 m. (feria
+    quinta in octava Visitationis Beatae
+    Virginis Mariae - ketvirtadienį Švč.
+    Mergelės Marijos Apsilankymo ok­
+    tavoje), bernardinų prašymu, prie
+    vienuolyno esantį savo malūną įsa­
+    ko nugriauti, kadangi šis dėl drebė­
+    jimo malimo metu išjudino jau ir
+    taip netvirtus bernardinų pastatų
+    pamatus, o sklvpą, kuriame malū­
+    nas stovėjo, atiduoda vienuolynui.
+  citata_rodoma: "51\nKaralius Aleksandras savo sprendi­\nmu, datuotu Borisove 1500 m. (feria \nquinta in octava Visitationis Beatae \nVirginis Mariae - ketvirtadienį Švč.\nMergelės Marijos Apsilankymo ok­\ntavoje), bernardinų prašymu, prie \nvienuolyno esantį savo malūną įsa­\nko nugriauti, kadangi šis dėl drebė­\njimo malimo metu išjudino jau ir \ntaip netvirtus bernardinų pastatų \npamatus, o sklvpą, kuriame malū­\nnas stovėjo, atiduoda vienuolynui."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-114162
+
+- id: c-167165
+  citata_originali: |
+    Maskva
+    viena po kitos prisijungė kitas rusų kunigaikštijas ir netrukus ėmė gvieštis Lietuvos žemių
+
+    kunigaikštystės, totorių kariuomenė
+    įsiveržė į Lietuvą. Šios pajėgos užėmė
+    Borisovą, Minską, Zaslavlį, Krėvą, Lydą,
+    Vilnių, Trakus ir priartėjo prie Kauno.
+    Žygimantas su savo mažesne Lietuvos ka-
+    riuomene nestojo į mūšį, bet vesdamas
+    savo pajėgas ne keliais ir neprieinamomis
+    vietomis, puldinėjo Švitrigailos tiekimo da-
+    linius, padarydamas jiems daug nuostolių,
+
+    67
+
+    pi
+    6£
+    kr L
+    610
+    2 a
+    T
+    = 5
+    o 2
+    22
+    co
+    “+
+    p
+    23
+    iv
+
+    ## Puslapis 70
+
+    priversdamas priešą badauti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183777
+    - t-114163
+
+- id: c-168295
+  citata_originali: |
+    Ga­
+    vęs šią žinią, karalius iš pradžių pasiuntė j Minską pen­
+    kis tūkstančius algininkų bei didikų kariaunas ir ka­
+    rališkąsias vėliavas, o netrukus ir pats skubiai patrau­
+    kė paskui išsiųstąją kariuomenę sutelkęs pašauktinių
+    bajorų jėgas ir valstybės viduje įsikūrusių skitų bū­
+    rius. Glinskis, nutraukęs Minsko apgulą gal dėl sąžinės
+    priekaištų, gal iš pagarbos karaliui, pirmiausia su savo
+    kariais nužygiavo į Borisovą, o iš ten į Oršą, nedrįs­
+    damas stoti į atvirą kovą veikiausiai dėl to, kad turė­
+    jo per mažai karių. Jį atsitraukiantį atkakliai perse­
+    kiojo karalius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184934
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Aleksandras]]

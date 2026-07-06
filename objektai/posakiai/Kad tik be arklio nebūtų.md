@@ -14,6 +14,18 @@ tags: []
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kad tik be arklio nebūtų
 
@@ -28,19 +40,38 @@ amziai:
 ## Teiginiai
 
 <a id="claim-t-47947"></a>
-- t-001
+- t-002
   global_id: t-47947
-  teiginys: 'Vytauto žodžiais, bajorai, neturėję kuo joti ar apsišarvuoti, turėjo parduoti žmoną ir vaikus, „kad tik be arklio nebūtų“.'
+  teiginys: "Vytauto žodžiais, bajorai, neturėję kuo joti ar apsišarvuoti, turėjo parduoti žmoną ir vaikus, „kad tik be arklio nebūtų“."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1033871-1034579; hash=407447abc04b0c347524868b050d35e3011fd9b1a4b9e81fd32eb636aff95647; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  ryšio_patikimumas: "susije_su -> Ginklai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kad tik be arklio nebūtų: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Ginklai: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kad tik be arklio nebūtų\" parinktas kaip owner_note_path. Targetas \"Ginklai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-31433
 
 <a id="claim-t-47948"></a>
-- t-002
+- t-003
   global_id: t-47948
-  teiginys: 'Vytauto žodžiais, bajorai, neturėję kuo joti ar apsišarvuoti, turėjo parduoti žmoną ir vaikus, kad tik neliktų be arklio.'
+  teiginys: "Vytauto žodžiais, bajorai, neturėję kuo joti ar apsišarvuoti, turėjo parduoti žmoną ir vaikus, kad tik neliktų be arklio."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1033871-1034579; hash=407447abc04b0c347524868b050d35e3011fd9b1a4b9e81fd32eb636aff95647; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  ryšio_patikimumas: "susije_su -> Ginklai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kad tik be arklio nebūtų: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Ginklai: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kad tik be arklio nebūtų\" parinktas kaip owner_note_path. Targetas \"Ginklai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-31433
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -58,9 +89,34 @@ amziai:
     ma kitaip laukti iš Vytauto politinių priešų, yra jį piešusi gana
     tamsiomis spalvomis, laikydama jį, be kitko, gana žiauriu valdovu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-31433
+  citata_originali: |
+    Saviesiems (tik ne svetimiesiems) jis buvo
+    gan griežtas, ir, šalia iš paviršiaus lengvabūdiško jo švaistymosi,
+    ėjo sugebėjimas ir žymios pastangos tvarkyti savo valstybės ūkio
+    reikalus, kurie išsiliejo į jo aktyvią agrarinę ir ekonominę politiką.
+    Ir tiems bajorams, kurių luomą Vytautas taip rėmė dovanojimais,
+    stojimas karan su savo arkliu ir ginklais buvo geležinis įstatymas ;
+    o kurie neturėjo kuo joti ar apsišarvoti, paties Vytauto žodžiais,
+    turėjo parduoti žmoną ir vaikus, « kad tik be arklio nebūtų »^4.
+    Kryžiuočių ir Maskvos rusų istoriografija, kaip ir nebuvo gali­
+    ma kitaip laukti iš Vytauto politinių priešų, yra jį piešusi gana
+    tamsiomis spalvomis, laikydama jį, be kitko, gana žiauriu valdovu.
+  citata_rodoma: "Ir tiems bajorams, kurių luomą Vytautas taip rėmė dovanojimais,\nstojimas karan su savo arkliu ir ginklais buvo geležinis įstatymas ;\no kurie neturėjo kuo joti ar apsišarvoti, paties Vytauto žodžiais,\nturėjo parduoti žmoną ir vaikus, « kad tik be arklio nebūtų »^4.\nKryžiuočių ir Maskvos rusų istoriografija, kaip ir nebuvo gali­\nma kitaip laukti iš Vytauto politinių priešų, yra jį piešusi gana\ntamsiomis spalvomis, laikydama jį, be kitko, gana žiauriu valdovu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-47948
+    - t-47947

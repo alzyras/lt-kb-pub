@@ -16,6 +16,18 @@ tags:
   - vieta
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Alūksnė
 
@@ -28,10 +40,23 @@ amziai:
 <a id="claim-t-38591"></a>
 - t-001
   global_id: t-38591
-  teiginys: '1560 m. rusai užėmė Alūksnę ir Viljandį.'
+  teiginys: "1560 m. rusai užėmė Alūksnę ir Viljandį."
+  semantiniai_rysiai: "Rusai užėmė Alūksnė (0.96); Rusai užėmė Viljandis (0.94)"
+  temporaliniai_duomenys: "įvykio data: 1558 m.; įvykio data: 1560 m.; įvykio data: 1561 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys yra aiškus faktinis teiginys apie Alūksnės užėmimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "353437-353659; hash=faeab21604ce3d596c4a7b7091cd5838a4a1f0a76f7a7aa847f46c9917714a4c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Alūksnė: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Rusai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Alūksnė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad rusai užėmė Alūksnę."
   pagrindžia:
-    - c-001
-
+    - c-40395
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,11 +71,30 @@ amziai:
 
     1561 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-40395
+  citata_originali: |
+    Suomijos įlanka, „ 5
+
+    1558 m. Maskvos kariuomenė užėmė dalį Livonijos konfederacijos
+    teritorijos su Narvos ir Tartu miestais, Danija užvaldė Saremos
+    salą. 1560 m. rusai užėmė Alūksnę, Vilijandį. Švedai užėmė šiau-
+
+    1561 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-38591
 
 ## Ryšiai
 - Užėmė Alūksnę: [[objektai/grupes/Rusai]]

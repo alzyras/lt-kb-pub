@@ -5,6 +5,18 @@ saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Aisčių medžių ir girių garbinimas
 
@@ -31,19 +43,38 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07763"></a>
-- t-001
+- t-004
   global_id: t-07763
-  teiginys: 'Senieji kalnėnai ir žemaičiai girias taupė ir laikė šventomis, todėl be girių kunigo žinios į jas nebuvo galima nei įžengti, nei žalio virbelio išlaužti.'
+  teiginys: "Senieji kalnėnai ir žemaičiai girias taupė ir laikė šventomis, todėl be girių kunigo žinios į jas nebuvo galima nei įžengti, nei žalio virbelio išlaužti."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  saltinio_vieta: "44973-45479; hash=6c4eb6beee636aefd4d1883dc8ac2cca9d8a8d886ba5028703d184bcc41ee94d; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  ryšio_patikimumas: "susije_su -> Žemaičiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aisčių medžių ir girių garbinimas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Žemaičiai: mention_match, group, gap=3"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aisčių medžių ir girių garbinimas\" parinktas kaip owner_note_path. Targetas \"Žemaičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-09920
 
 <a id="claim-t-07764"></a>
-- t-002
+- t-005
   global_id: t-07764
-  teiginys: 'Ąžuolus ir ąžuolynus kalnėnai bei žemaičiai garbino ypač stipriai, juos kirsti galėjo tik kunigai, o ąžuolynai ir lieknai veikė kaip šventos garbinimo vietos.'
+  teiginys: "Ąžuolus ir ąžuolynus kalnėnai bei žemaičiai garbino ypač stipriai, juos kirsti galėjo tik kunigai, o ąžuolynai ir lieknai veikė kaip šventos garbinimo vietos."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  saltinio_vieta: "45480-46125; hash=32724b428ba9d82a0635f9a6676e729112f923c3184fe9fb21c19c18e52691ba; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  ryšio_patikimumas: "susije_su -> Kalnėnai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aisčių medžių ir girių garbinimas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kalnėnai: mention_match, group, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aisčių medžių ir girių garbinimas\" parinktas kaip owner_note_path. Targetas \"Kalnėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
-
+    - c-09921
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -54,8 +85,9 @@ Nenurodyta
         tūlus medžius, bet ir cielas girias taupė ir už šventas turėjo, iš kurių be žinios girių kunigo
         niekšai ne vien žalio virbelio išlaužti, bet įžengti tenai negalėjo, negut, galą daromas, kaipo šventoj vietoj globos sau veizėjo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -69,8 +101,40 @@ Nenurodyta
         nesgi, kaip tuojau regėsim, bažnyčių neturėjo, bet jų vietoj buvo ąžuolynai ir lieknai, kuriuose
         dievą šio pasaulio Perūną garbino, todėl ir tas girias it šventas vietas gerbė ir godojo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-09920
+  citata_originali: |
+    Regėdami senieji tokią naudą iš tų girių didžiai jas gerbė ir augino, žalius medžius laikė, o
+        pasauses tiktai namų medžiagai ir padarynei tekirto, o sankritomis ir sausšakėmis namuose šildės; ir taip, juo naudingesnis medis žmogaus gyvenimui buvo, juo didžiau jį saugojo, ne vien
+        tūlus medžius, bet ir cielas girias taupė ir už šventas turėjo, iš kurių be žinios girių kunigo
+        niekšai ne vien žalio virbelio išlaužti, bet įžengti tenai negalėjo, negut, galą daromas, kaipo šventoj vietoj globos sau veizėjo.
+  citata_rodoma: "Regėdami senieji tokią naudą iš tų girių didžiai jas gerbė ir augino, žalius medžius laikė, o\npasauses tiktai namų medžiagai ir padarynei tekirto, o sankritomis ir sausšakėmis namuose šildės; ir taip, juo naudingesnis medis žmogaus gyvenimui buvo, juo didžiau jį saugojo, ne vien\ntūlus medžius, bet ir cielas girias taupė ir už šventas turėjo, iš kurių be žinios girių kunigo\nniekšai ne vien žalio virbelio išlaužti, bet įžengti tenai negalėjo, negut, galą daromas, kaipo šventoj vietoj globos sau veizėjo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-07763
+
+- id: c-09921
+  citata_originali: |
+    Ąžuolus ir ąžuolynus pervis didžiau gerbė, kurių malka pagal jų nuomonę reikėjo šventą ugnį tuoįtimpos^168 ant dievo garbės kūrinti iki pabangos^169 šio pasaulio, todėl ąžuolus kirsti, kaipo šventus medžius, patys kunigai šventais kirviais tegalėjo. Ne vien buvo
+        perdėti^170 ant tų girių kunigai, kurie jas saugojo, bet ant didesnio jų orumo visų dideliojo ąžuolo
+        uoksuose, šėtra^171 uždengtus, savo dievų stabus laikė ir tenai meldės, šventą ugnį kūrindami,
+        nesgi, kaip tuojau regėsim, bažnyčių neturėjo, bet jų vietoj buvo ąžuolynai ir lieknai, kuriuose
+        dievą šio pasaulio Perūną garbino, todėl ir tas girias it šventas vietas gerbė ir godojo.
+  citata_rodoma: "Ąžuolus ir ąžuolynus pervis didžiau gerbė, kurių malka pagal jų nuomonę reikėjo šventą ugnį tuoįtimpos^168 ant dievo garbės kūrinti iki pabangos^169 šio pasaulio, todėl ąžuolus kirsti, kaipo šventus medžius, patys kunigai šventais kirviais tegalėjo. Ne vien buvo\nperdėti^170 ant tų girių kunigai, kurie jas saugojo, bet ant didesnio jų orumo visų dideliojo ąžuolo\nuoksuose, šėtra^171 uždengtus, savo dievų stabus laikė ir tenai meldės, šventą ugnį kūrindami,\nnesgi, kaip tuojau regėsim, bažnyčių neturėjo, bet jų vietoj buvo ąžuolynai ir lieknai, kuriuose\ndievą šio pasaulio Perūną garbino, todėl ir tas girias it šventas vietas gerbė ir godojo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-07764

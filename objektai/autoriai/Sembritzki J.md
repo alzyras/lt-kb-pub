@@ -15,6 +15,18 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'modernioji Lietuva'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Sembritzki J
 
@@ -27,10 +39,23 @@ Dusburgietis teigia, kad sembritzki J.
 <a id="claim-t-62657"></a>
 - t-001
   global_id: t-62657
-  teiginys: 'J. Sembritzkis 1926 m. Memelyje išleido knygą apie karališkojo Prūsijos jūrų ir prekybos miesto Memelio istoriją.'
+  teiginys: "J. Sembritzkis 1926 m. Memelyje išleido knygą apie karališkojo Prūsijos jūrų ir prekybos miesto Memelio istoriją."
+  teiginio_tipas: "faktas"
+  temporaliniai_duomenys: "įvykio data: 1926 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Bibliografinis įrašas pagrindžia autoriaus knygos temą, leidimo vietą ir metus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "797616-797839; hash=84df58cbc4fe604f7bf1626197d21d537e79932cea27e844e0c98f23904ad873; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sembritzki J: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=63"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sembritzki J\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-63387
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,8 +67,25 @@ Dusburgietis teigia, kad sembritzki J.
       Słownik historyczno-geograficzny ziemi Chełmińskiej w średniowieczu / Opracowała К.
     Porębska przy współpracy M Grzegorza; Pod.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-63387
+  citata_originali: |
+    Sembritzki J. Geschichte der Königlich Preussischen See- und Handelsstadt Memel.—
+    Memel, 1926.
+      Słownik historyczno-geograficzny ziemi Chełmińskiej w średniowieczu / Opracowała К.
+    Porębska przy współpracy M Grzegorza; Pod.
+  citata_rodoma: "Sembritzki J. Geschichte der Königlich Preussischen See- und Handelsstadt Memel.—\nMemel, 1926.\n  Słownik historyczno-geograficzny ziemi Chełmińskiej w średniowieczu / Opracowała К.\nPorębska przy współpracy M Grzegorza; Pod."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-62657

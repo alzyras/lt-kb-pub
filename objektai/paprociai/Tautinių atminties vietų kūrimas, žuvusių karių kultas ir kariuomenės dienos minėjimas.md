@@ -16,6 +16,18 @@ tags:
   - valstybė
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Tautinių atminties vietų kūrimas, žuvusių karių kultas ir kariuomenės dienos minėjimas
 
@@ -46,12 +58,24 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-77940"></a>
-- t-001
+- t-002
   global_id: t-77940
-  teiginys: '1934 m. lapkričio 23 d. Kauno Karo muziejaus sodelyje palaidotas Nežinomas kareivis, o lapkričio 23-ioji kasmet iškilmingai minima kaip kariuomenės įkūrimo diena.'
+  teiginys: "1934 m. lapkričio 23 d. Kauno Karo muziejaus sodelyje palaidotas Nežinomas kareivis, o lapkričio 23-ioji kasmet iškilmingai minima kaip kariuomenės įkūrimo diena."
+  temporaliniai_duomenys: "mirties data: 1934 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiksliai perteikia citatoje nurodytą atminties praktiką."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "349624-350334; hash=e993ce331278d1831564d4865fc0072471cb73a5ecd16459cb449c09e145780a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tautinių atminties vietų kūrimas, žuvusių karių kultas ir kariuomenės dienos minėjimas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=112"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tautinių atminties vietų kūrimas, žuvusių karių kultas ir kariuomenės dienos minėjimas\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-75257
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -69,8 +93,31 @@ Nenurodyta
     karių kapų tvarkymu, intensyviai kuriamas žuvusių karių kultas, kasmet iš-
     kilmingai paminima kariuomenės įkūrimo diena – lapkričio 23-ioji.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-75257
+  citata_originali: |
+    Aukščiausias Kauno pastatas iš gelžbetonio
+    plokščių pagal architekto Karolio Reisono (Kārlis Reisons) projektą išaugo
+    greitai (sovietmečiu jame įrengus radijo gamyklą, kaip šventovė užbaigtas
+    tik XXI a.). Minint pirmąjį nepriklausomybės dešimtmetį pastatyta atmi-
+    nimo kryžių, patriotinių paminklų, primenančių nepriklausomybės kovas,
+    imta rūpintis žuvusių už Lietuvos laisvę karių kapais. 1934 m. lapkričio 23 d.
+    Kaune, Karo muziejaus sodelyje, šalia paminklo Žuvusiems už Lietuvos lais-
+    vę palaidotas Nežinomas kareivis, sukurtos pagarbos ceremonijos, rūpintasi
+    karių kapų tvarkymu, intensyviai kuriamas žuvusių karių kultas, kasmet iš-
+    kilmingai paminima kariuomenės įkūrimo diena – lapkričio 23-ioji.
+  citata_rodoma: "1934 m. lapkričio 23 d. \nKaune, Karo muziejaus sodelyje, šalia paminklo Žuvusiems už Lietuvos lais-\nvę palaidotas Nežinomas kareivis, sukurtos pagarbos ceremonijos, rūpintasi \nkarių kapų tvarkymu, intensyviai kuriamas žuvusių karių kultas, kasmet iš-\nkilmingai paminima kariuomenės įkūrimo diena – lapkričio 23-ioji."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77940

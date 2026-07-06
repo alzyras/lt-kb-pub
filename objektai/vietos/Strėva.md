@@ -19,6 +19,18 @@ tags:
 amziai:
   - 'XIV'
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Strėva
 
@@ -29,39 +41,100 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
 ## Teiginiai
 
 <a id="claim-t-115020"></a>
-- t-001
+- t-002
   global_id: t-115020
-  teiginys: 'Vasario 2 d. kryžiuočiai susitiko su Kęstučio ir Algirdo kariuomene prie Strėvos, arti Žiežmarių.'
+  teiginys: "Vasario 2 d. kryžiuočiai susitiko su Kęstučio ir Algirdo kariuomene prie Strėvos, arti Žiežmarių."
+  semantiniai_rysiai: "Kryžiuočių ordinas kariavo prieš Kęstutis (vakarų pasienio valdovas, XIV–XV a.) (0.70); Kryžiuočių ordinas kariavo prieš Algirdas (Lietuvos valdovas) (0.70)"
+  temporaliniai_duomenys: "įvykio data: po 1351 m.; įvykio data: 1351 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys yra pilnas ir tiksliai perteikia citatos informaciją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "691601-691990; hash=e5df8bcfc98fab2dc0aea063c69e94b361c9c4ad0e6a63e78bc523b215561fa4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Algirdas (Lietuvos valdovas): 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Algirdo kariuomenė tiesiogiai minima kaip susitikusi su kryžiuočiais mūšio kontekste."
   pagrindžia:
-    - c-003
+    - c-106012
 
 <a id="claim-t-115021"></a>
-- t-002
+- t-003
   global_id: t-115021
-  teiginys: 'Strėvos kautynės, kuriose dalyvavo būriai iš Vladimiro, Lietuvos Brastos, Polocko, Vitebsko ir Smolensko, baigėsi lietuvių pralaimėjimu.'
+  teiginys: "Strėvos kautynės, kuriose dalyvavo būriai iš Vladimiro, Lietuvos Brastos, Polocko, Vitebsko ir Smolensko, baigėsi lietuvių pralaimėjimu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "691991-692335; hash=54e8db518b39268fab4847fef8b95dfb65c043a19ac9d79ac3bfa765fbe4fbae; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Strėva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=56"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Strėva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-32445
 
 <a id="claim-t-115022"></a>
-- t-003
+- t-004
   global_id: t-115022
-  teiginys: 'Prie Strėvos upės Trakų paviete žemaičių būriai tankiame miške iš pasalų apsupo atsitraukiančią kariauną.'
+  teiginys: "Prie Strėvos upės Trakų paviete žemaičių būriai tankiame miške iš pasalų apsupo atsitraukiančią kariauną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "304222-305519; hash=5c86970de88f2054662465ee02562b8330f71a539cfc33dda550a387d08b1acf; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Trakai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Strėva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Trakai: mention_match, place, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Strėva\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-106013
 
 <a id="claim-t-115023"></a>
-- t-004
+- t-001
   global_id: t-115023
-  teiginys: 'Narimantas 1348 m. žuvo Strėvos kautynėse su kryžiuočiais.'
+  teiginys: "Narimantas 1348 m. žuvo Strėvos kautynėse su kryžiuočiais."
+  semantiniai_rysiai: "Narimantas (Pinsko kunigaikštis) kariavo prieš Kryžiuočių ordinas (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1348 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir pakankamai susijęs su Strėvos kautynėmis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "679568-680024; hash=829f8438687948c9897d305a60e8c1800c4c7a13fa83ff899f5a965407f1dc42; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Narimantas (Pinsko kunigaikštis): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sieja Narimanto žūtį kautynėse su kryžiuočiais, todėl rodo karinį konfliktą su Kryžiuočių ordinu."
   pagrindžia:
-    - c-002
+    - c-106011
 
 <a id="claim-t-184403"></a>
 - t-005
   global_id: t-184403
-  teiginys: 'Strėvos kautynės, kuriose dalyvavo būriai iš kelių rytinių žemių, baigėsi lietuvių pralaimėjimu.'
+  teiginys: "Strėvos kautynės, kuriose dalyvavo būriai iš kelių rytinių žemių, baigėsi lietuvių pralaimėjimu."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "691911-692147; hash=1ed6650c25d3074d13ea05b643e59ce33e94b1ed7729a7e7d58deb5517bfcfee; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Strėva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=74"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Strėva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-167768
 - susijęs iš [[objektai/asmenys/Jonas Lonei.md#claim-t-80718|Jonas Lonei]]: Sembos vyskupo teisėjas Jonas Lonei žuvo Strėvos mūšyje kartu su penkiomis dešimtimis karių prie vėliavos.
 - susijęs iš [[objektai/asmenys/Jonas Lonei.md#claim-t-80718|Jonas Lonei]]: Sembos vyskupo teisėjas Jonas Lonei žuvo Strėvos mūšyje kartu su penkiomis dešimtimis karių prie vėliavos.
 - susijęs iš [[objektai/asmenys/Patrikas.md#claim-t-121122|Patrikas (kunigaikštis, XIV a.)]]: Patrikas buvo Jogailos pusbrolis ir prie Strėvos 1348 m. žuvusio Narimanto sūnus.
@@ -119,8 +192,9 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
     žuvę keliolika tūkstančių žmonių, o dar keli tūkstančiai esą prigėrę
     Strėvoje, kai pati upė yra nesunkiai perbrendama.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -137,8 +211,9 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
     Strėvos kautynėse su kryžiuočiais, buvo tekusios Pinsko ir Turovo
     kunigaikštijos, t. y. dabartinė Polesė (Pripetės plote).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
@@ -154,8 +229,9 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
     upio Strėvos (arti Žiežmarių). Tuomet ir Algirdo valdos buvo ak­
     tyviai įsijungusios į vakarų Lietuvos gynybą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -206,6 +282,7 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
     Il KNYGA
     jais užvertė kelią.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -221,11 +298,125 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
     tynės, kuriose dalyvavo būriai iš Vladimiro (Volinijos), Liet. Bras­
     tos, Polocko, Vitebsko ir Smolensko, baigėsi lietuvių pralaimėjimu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
+## Citatos
+
+- id: c-32445
+  citata_originali: |
+    Tačiau Strėvos kau­
+    tynės, kuriose dalyvavo būriai iš Vladimiro (Volinijos), Liet. Bras­
+    tos, Polocko, Vitebsko ir Smolensko, baigėsi lietuvių pralaimėjimu.
+    Aiškiai perdėtais ordino kronikų duomenimis^11 , lietuvių pusėje esą
+    žuvę keliolika tūkstančių žmonių, o dar keli tūkstančiai esą prigėrę
+    Strėvoje, kai pati upė yra nesunkiai perbrendama.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-115021
+
+- id: c-106011
+  citata_originali: |
+    Istorijoje
+    niekur daugiau nebesutinkamas Manvydas (Manivydas) savo dalį
+    gavo etnografinėje Lietuvoje — Kernavę, o Juodojoje Rusijoje — Slo­
+    nimą. Negalima apibrėžti tiksliai, koks teko Manvydui politinis
+    uždavinys Gedimino valstybėje, ir iš viso keliamas klausimas, gal
+    tokio Gediminaičio nesą buvę^18. Narimantui, kuris 1348 m. žuvo
+    Strėvos kautynėse su kryžiuočiais, buvo tekusios Pinsko ir Turovo
+    kunigaikštijos, t. y. dabartinė Polesė (Pripetės plote).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-115023
+
+- id: c-106012
+  citata_originali: |
+    Vadovavo ordino vyr.
+    maršalas ir Karaliaučiaus komtūras Siegfridas von Dahnenfeld ir
+    didysis komtūras W. von Kniprodė (nuo 1351 m. vyr. magistras).
+    Kryžiuočiai su Kęstučio ir Algirdo kariuomene susitiko vasario 2 d.
+    apie 30 km atstu nuo Kęstučio Trakų, prie dešinio Nemuno prie­
+    upio Strėvos (arti Žiežmarių). Tuomet ir Algirdo valdos buvo ak­
+    tyviai įsijungusios į vakarų Lietuvos gynybą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-115020
+
+- id: c-106013
+  citata_originali: |
+    Tačiau
+    atsitraukiant jo laukė nauji pavojai: mat jų kariaunai pri­
+    siartinus prie Strėvos upės Trakų paviete, tankiame miške
+    iš pasalų juos apsupo žemaičių būriai ir, prikirtę medžių,
+    54
+    Stryjkowski, p. 464, aiškiai
+    nurodo, kad Švitrigaila pilies užėmi­
+    mo dėlei turėjo būti pasinaudojęs ru­
+    sų vienuolių, vadintų „čiornais", iš­
+    davyste; tačiau čia ateina į galvą
+    mintis, kad „čiornų" (prasčiokai)
+    vardu buvo vadinama ir rusų gyven­
+    tojų prastuomenė, kurių nemažai
+    anuomet buvo Vilniuje. „MepHbie
+    a k d a h" ,  „cziomyje ludi" - taip buvo
+    vadinamas Rusios miestuose pats
+    žemiausias miestiečių sluoksnis. Žr.
+    Rakowiecki  Prawda Ruška, T. I,
+    p. 108. Dar žr. CAOBapb TeorpcKpu-
+    v p c k u ü PoccuücKaro rocyqapcmßa,
+    coópcLH H biu A(panacheM h UįeKamo-
+    BbiM b, MocKBa, 1805, 4to, prie
+    žodžio Pskov, kur autorius nurodo:
+    „...a nocAeAHHe b MeiųaHCTBe 6bi-
+    AH nepHbie a k >a h ,  b HHCAe k o h x b
+    HaxoAHAHCb Bee xcHByujHe b ropo-
+    Ae xyAOxcHHKH, peMecAeHHHKH h
+    paöoTHbie a i o a h [ o  žemiausi tarp
+    miestiečių buvo čiornyje liūdi (pras­
+    tuomenė), kuriems priklausė visi
+    mieste gyvenantys dailininkai, ama­
+    tininkai ir darbininkai]. Galbūt Strij­
+    kovskis, skaitydamas rusų-lietuvių
+    metraščius, bus vienus su kitais su­
+    painiojęs.
+    138
+
+    ## Puslapis 155
+
+    Il KNYGA
+    jais užvertė kelią.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-115022
+
+- id: c-167768
+  citata_originali: |
+    Tuomet ir Algirdo valdos buvo ak­
+    tyviai įsijungusios į vakarų Lietuvos gynybą. Tačiau Strėvos kau­
+    tynės, kuriose dalyvavo būriai iš Vladimiro (Volinijos), Liet. Bras­
+    tos, Polocko, Vitebsko ir Smolensko, baigėsi lietuvių pralaimėjimu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184403
 
 ## Ryšiai
 - Mirties vieta: [[objektai/asmenys/Jonas Lonei]]

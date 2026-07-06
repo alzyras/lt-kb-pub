@@ -13,6 +13,18 @@ tags:
   - ivykis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Susirėmimas prie pagrindinio įvažiavimo į AT rūmus ir Artūro Sakalausko žūtis (1991 m. rugpjūčio 21 d.)
 
@@ -41,10 +53,19 @@ Nenurodyta
 <a id="claim-t-39114"></a>
 - t-001
   global_id: t-39114
-  teiginys: 'Augant įtampai, sovietų kariškių provokacijos metu poste prie pagrindinio įvažiavimo į AT rūmus žuvo Lietuvos savanoris Artūras Sakalauskas.'
+  teiginys: "Augant įtampai, sovietų kariškių provokacijos metu poste prie pagrindinio įvažiavimo į AT rūmus žuvo Lietuvos savanoris Artūras Sakalauskas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1068154-1068534; hash=e654ada66efca1aa8cf8ea9de95a75de9c35cddbe86d7c3bc1618e503cc1c71a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Artūras Sakalauskas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Susirėmimas prie pagrindinio įvažiavimo į AT rūmus ir Artūro Sakalausko žūtis (1991 m. rugpjūčio 21 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Artūras Sakalauskas: mention_match, person, gap=113"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Susirėmimas prie pagrindinio įvažiavimo į AT rūmus ir Artūro Sakalausko žūtis (1991 m. rugpjūčio 21 d.)\" parinktas kaip owner_note_path. Targetas \"Artūras Sakalauskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-40918
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -57,8 +78,26 @@ Nenurodyta
     vietų kariškių provokacijos metu poste prie pagrindinio įvažia-
     vimo į AT rūmus žuvo Lietuvos savanoris Artūras Sakalauskas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-40918
+  citata_originali: |
+    Prasidėjus perversmui Maskvoje, suaktyvėjo sovietų kariškių vei-
+    kimas Lietuvoje. Iš parengiamųjų veiksmų tapo aišku, kad rengia-
+    masi galutiniam AT rūmų šturmui, įtampa vėl pasiekė maksimumą,
+    atrodė, kad kruvina atomazga neišvengiama. Augant įtampai, so-
+    vietų kariškių provokacijos metu poste prie pagrindinio įvažia-
+    vimo į AT rūmus žuvo Lietuvos savanoris Artūras Sakalauskas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-39114

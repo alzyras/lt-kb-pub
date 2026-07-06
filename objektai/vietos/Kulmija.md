@@ -17,6 +17,18 @@ tags:
   - vieta
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kulmija
 
@@ -29,9 +41,23 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
 <a id="claim-t-99929"></a>
 - t-001
   global_id: t-99929
-  teiginys: '1230 m. Mozūrijos kunigaikštis Konradas kryžiuočiams užrašė Kulmiją.'
+  teiginys: "1230 m. Mozūrijos kunigaikštis Konradas kryžiuočiams užrašė Kulmiją."
+  semantiniai_rysiai: "Kulmija priklausė Kryžiuočių ordinas (0.90)"
+  temporaliniai_duomenys: "valdymo laikotarpis: 1226 m.; valdymo laikotarpis: 1230 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Konradas (Mozūrijos kunigaikštis) buvo valdovas Mozūrija“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalinta kontekstinė pradžia ir patikslintas veikėjas pagal citatą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "466060-466581; hash=c4faaa0504cf2e907755313b7ad9939494ba3caf64fdbdd103585814530d5437; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kulmija: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Kulmija tiesiogiai nurodyta kaip Konrado užrašyta kryžiuočiams."
   pagrindžia:
-    - c-001
+    - c-93880
 - susijęs iš [[objektai/grupes/Lietuvos vyskupai.md#claim-t-35714|Lietuvos vyskupai]]: Popiežius uždraudė Lietuvos vyskupams ir Kulmijos vyskupui karūnuoti Vytautą.
 - susijęs iš Kulmijos šalis: Per karo veiksmus Prūsijoje apie Vyslą ir Dravę daugiausia buvo varginama Kulmijos šalis.
 - susijęs iš [[objektai/grupes/Vienos universiteto profesoriai.md#claim-t-34351|Vienos universiteto profesoriai]]: Vienos profesoriai aiškino, kad mokslininkai įvairiai atsako, kas gali konsekruoti: popiežius, arkivyskupas arba vyskupas.
@@ -56,11 +82,32 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
     ninku užkariausimoje prūsų žemėje. Tada Salza priėmė kvietimą
     Konrado, kuris 1230 m. kryžiuočiams užrašė Kulmiją.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-93880
+  citata_originali: |
+    Ketvirtasis vokiečių ordino magistras Hermanas Salza, gavęs
+    Mozūrijos kunigaikščio Konrado kvietimą atsiųsti riterių gintis nuo
+    įkyrių prūsų puldinėjimų, iš imperatoriaus Fridricho II (Hohenštau-
+    feno) išsirūpino ordino ateičiai rytuose reikšmingą privilegiją, duotą
+    Rimini, Italijoje, 1226 m. kovo mėnesį. Jos dėka ordinui, su Reicho
+    kunigaikščio titulu, buvo suteiktos visos teisės būti pilnu krašto savi­
+    ninku užkariausimoje prūsų žemėje. Tada Salza priėmė kvietimą
+    Konrado, kuris 1230 m. kryžiuočiams užrašė Kulmiją.
+  citata_rodoma: "Jos dėka ordinui, su Reicho\nkunigaikščio titulu, buvo suteiktos visos teisės būti pilnu krašto savi­\nninku užkariausimoje prūsų žemėje. Tada Salza priėmė kvietimą\nKonrado, kuris 1230 m. kryžiuočiams užrašė Kulmiją."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-99929
 
 ## Ryšiai
 - Kulmija priklausė [[objektai/grupes/Kryžiuočių ordinas]]

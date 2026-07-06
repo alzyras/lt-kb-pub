@@ -17,6 +17,18 @@ tags:
   - valdovas
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Severskas
 
@@ -29,37 +41,105 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
 <a id="claim-t-86104"></a>
 - t-001
   global_id: t-86104
-  teiginys: 'Vytautui užėmus Seversko Naugardą, Seversko valstybė buvo prijungta prie Lietuvos.'
+  teiginys: "Vytautui užėmus Seversko Naugardą, Seversko valstybė buvo prijungta prie Lietuvos."
+  semantiniai_rysiai: "Severskas priklausė Lietuva (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "306820-307652; hash=7db3582b2e72bab88f6ba644baf32b037a6de41cc89caaf970adb7efc842e818; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Severskas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Seversko valstybė buvo prijungta prie Lietuvos."
   pagrindžia:
-    - c-001
+    - c-82083
 
 <a id="claim-t-185133"></a>
 - t-002
   global_id: t-185133
-  teiginys: 'Levas, net nepabandęs kovoti lauke, kuo greičiausiai pabėgo į Severską.'
+  teiginys: "Levas, net nepabandęs kovoti lauke, kuo greičiausiai pabėgo į Severską."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "342694-343298; hash=b6330a5a295d17fa9178570645db9652e04d62a3b7e13f117dda19d77728b54e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Drohičinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Severskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Drohičinas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Severskas\" parinktas kaip owner_note_path. Targetas \"Drohičinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-168494
 
 <a id="claim-t-185134"></a>
 - t-003
   global_id: t-185134
-  teiginys: 'Gediminas, sulaukęs Belgorodo, Slepovrodžio, Kanevo ir Čerkasų pasidavimo, patraukė į Severską.'
+  teiginys: "Gediminas, sulaukęs Belgorodo, Slepovrodžio, Kanevo ir Čerkasų pasidavimo, patraukė į Severską."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Gediminas užėmė Brianskas (0.90); Gediminas užkariavo Kijevas (0.90); Gediminas užėmė Perejeslavlis (0.86); Gediminas užkariavo Volynė (0.86); Gediminas užkariavo Severskas (0.84)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "349853-350320; hash=ea6f34efee42d1523e3b128f0ae676b95a946f46a230c5bdad223bef7ad3d632; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Brianskas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Brianskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Gedimino veiksmas tiesiogiai išreikštas žodžiais „Užėmęs Brianską“."
   pagrindžia:
-    - c-003
+    - c-168495
 
 <a id="claim-t-185135"></a>
 - t-004
   global_id: t-185135
-  teiginys: 'Vytautas, pasiuntęs lengvuosius raitelius persekioti bėgančiųjų, su pagrindinėmis jėgomis patraukė į Severską.'
+  teiginys: "Vytautas, pasiuntęs lengvuosius raitelius persekioti bėgančiųjų, su pagrindinėmis jėgomis patraukė į Severską."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "589804-590476; hash=68c012f367a903bf3f68b4afdab4f2c19d7e62bc3a80a02317e0245afd8c685b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Seversko Naugardas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Severskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Seversko Naugardas: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Severskas\" parinktas kaip owner_note_path. Targetas \"Seversko Naugardas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-168496
 
 <a id="claim-t-185136"></a>
 - t-005
   global_id: t-185136
-  teiginys: 'Mykolas su skitais įsiveržė į Severską, sumušė jam kelią pastojusias jėgas ir paėmė Brianską, Naugardą, Putivlį, Serpeiską bei Starodubą.'
+  teiginys: "Mykolas su skitais įsiveržė į Severską, sumušė jam kelią pastojusias jėgas ir paėmė Brianską, Naugardą, Putivlį, Serpeiską bei Starodubą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Mykolas užėmė Serpeiskas (0.86); Mykolas užėmė Starodubas (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1448 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys turi daug OCR triukšmo; perrašyta į pilną faktinį sakinį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "855554-856379; hash=93dc7247c34dc1ad5d85ee0e5117d7f6b61a586f572c703ef7aceb43b0619da8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Serpeiskas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mykolas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Serpeiskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Serpeiskas įtrauktas į Mykolo paimtų vietų sąrašą."
   pagrindžia:
-    - c-005
+    - c-168497
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-184700|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Kijevo luomai pasveikino nugalėtoją Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė paklusti jo valdžiai.
 - susijęs iš [[objektai/asmenys/Kaributas.md#claim-t-97460|Kaributas]]: Kaributas, valdęs Seversko kunigaikštystę, sukėlė maištus Rusioje ir nepripažino Kęstučio viršenybės.
 - susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-184752|Kazimieras Jogailaitis]]: Kazimieras Jogailaitis skubiai patraukė į Severską, atsiėmė užgrobtas pilis ir išvijo Mykolą iš visų žemių.
@@ -184,6 +264,7 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
     paleistas ir iš Seversko valstybės, jau prijungtos prie Lie­
     tuvos, perkeltas į Volumes ir Podolės didžiules vaidas55.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -207,6 +288,7 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
     gė prie Lietuvos valdų, palikdamas lietuvių įgulas ir
     vietininkus.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -231,6 +313,7 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
     kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis
     išplėtė lietuvių valdų ribas ligi Putivlio.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -271,6 +354,7 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
     nemažas miestas, garsėjęs ne tik valdovo, bet ir kitų
     žmonių turtais.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -307,11 +391,157 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
     vus apnuodytos duonos, kurią krikščionys paprastai var­
     toja šventajai mišių aukai.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
+## Citatos
+
+- id: c-82083
+  citata_originali: |
+    Paminėsime tad tik
+    žymesnius įvykius, kurie dėjosi Vilniuje Vytauto laikais.
+    Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­
+    ventojai vilniečiai sulaukė vieno iš Algirdo sūnų Dmitri-
+    jaus Kaributo, Seversko kunigaikščio, kurį Vytautas, anam
+    nepanorus mokėti nuo Seversko duoklės kaipo viršesniam
+    valdovui, sumušęs pradinėse kautynėse prie Nedokudo-
+    vo, paskui apsupo Seversko Naugarde ir tą miestą užėmęs
+    patį Kaributą sučiupo. Paimtas su žmona ir vaikais, kuni­
+    gaikštis buvo uždarytas Vilniaus Aukštutinėje pilyje, kur
+    gana ilgai buvo saugomas sargybos, kol, atkakliai prašant
+    ir laiduojant Riazanės kunigaikščiui Olegui, jo uošviui, buvo
+    139
+
+    ## Puslapis 156
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    paleistas ir iš Seversko valstybės, jau prijungtos prie Lie­
+    tuvos, perkeltas į Volumes ir Podolės didžiules vaidas55.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86104
+
+- id: c-168494
+  citata_originali: |
+    Po to nuvedė pulkus prieš Levą, Lucko ku-
+    Drohičiną ir Brestą, bet dabar, rodos, neteko ir karin­
+    gumo, ir pasitikėjimo kariais, kuriuos turėjo sutelkęs;
+    išgąsdintas neseniai Vladimirą ištikusio likimo, jis su­
+    abejojo ir dėl savo, būgštaudamas, kad pats tokio pat
+    galo nesusilauktų, pastūmėtas į karą tos pačios dings­
+    ties. Todėl, net nepabandęs laimės kovos lauke, kuo
+    greičiausiai pabėgo į Severską. Gediminas, be kovos
+    užėmęs Lucką ir artimiausias pilis, atsiėmęs Drohičiną
+    ir Brestą, visą kraštą, ką tik iš priešo išplėštą, prijun­
+    gė prie Lietuvos valdų, palikdamas lietuvių įgulas ir
+    vietininkus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185133
+
+- id: c-168495
+  citata_originali: |
+    Visi luo­
+    mai, išėję iš miesto, sveikino
+    nugalėtoją
+    Gediminą
+    kaip
+    Kijevo ir Rusios didįjį kuni­
+    gaikštį, prisiekdami su visomis žemėmis paklusti jo
+    valdžiai. Gediminas, pasilsėjęs čia, kol artimiausios pi­
+    lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­
+    vė nugalėtojui, patraukė į Severską. Užėmęs Brianską
+    ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­
+    kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis
+    išplėtė lietuvių valdų ribas ligi Putivlio.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185134
+
+- id: c-168496
+  citata_originali: |
+    Vytautas, šitai išvy-
+    S usikauna
+    su D im it-
+    dęs, su visomis jėgomis puo-
+    tu,
+    S e v e r s k o
+    kuni-
+    lė
+    vytis
+    atsitraukiančiųjų,
+    g a ikščiu
+    persekioti pakrikusio priešo,
+    galop, su narsiausiais kariais
+    pasivijęs pagrindinę kovos rikiuotę ir ją pralaužęs, pri­
+    vertė rusus bėgti, kur pakliuvo. Nenorėdamas, kad nu-
+    340
+
+    ## Puslapis 339
+
+    galėtieji turėtų laiko kokioje
+    S u m u ša S e v e r s k o  ka-
+    vietoje atsikvėpti, jis išsiuntė
+    iiu s
+    lengvųjų raitelių būrius bė­
+    gančiųjų persekioti, tuo tarpu
+    pats, surinkęs grobį, su pagrindinėmis jėgomis patraukė
+    į Severską. To krašto sostinė Seversko Naugardas —
+    nemažas miestas, garsėjęs ne tik valdovo, bet ir kitų
+    žmonių turtais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185135
+
+- id: c-168497
+  citata_originali: |
+    K ol visi lau k ė šio susitikim o, tu rė ju sio  įv y k ti g e­
+    gužės pabaigoje, Mykolas su
+    1448 m e ta i
+    sk itais įsiv eržė į Severską ir,
+    Sum u ša M y k o lą  Se-
+    sum ušęs greitosiom is sutelk-
+    v e r s k e
+    tas jėg as, jam  p asto ju sias k e ­
+    lią, p aėm ė Brianską, Naugar-
+    dą, Putivliu, Serpeiską, Starodubą. Štai todėl Kazimieras,
+    dar nespėjęs išvykti Lenkijon į seimą, skubiai p atra u k ė
+    į Severską, užgniaužė pačioje užuom azgoje įsiplieskiantį
+    karą, atsiėmė užgrobtas pilis, o Mykolą išvijo iš visų
+    žemių. Niekur neberasdamas užtarėjų, M ykolas pasp­
+    ruko į Maskvą, kur, priim-
+    M y k o lo  m irtis
+    tas į vienuolyną, kurį m etą
+    čia gyv en o  kaip paprastas
+    488
+
+    ## Puslapis 487
+
+    žmogus, o galop ir galą gavo, vienuolyno igumenui da­
+    vus apnuodytos duonos, kurią krikščionys paprastai var­
+    toja šventajai mišių aukai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185136
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Kaributas]]

@@ -8,11 +8,6 @@ datos:
   - '1863 m.'
 date_start: '1863'
 date_end: ''
-description: '1863 m. sukilimo vadas Zigmantas Sierakauskas telkė Kauno gubernijos sukilėlius, buvo sužeistas, paimtas į nelaisvę ir pakartas Vilniuje.'
-socialDescription: 'Zigmantas Sierakauskas 1863 m. vadovavo Lietuvos sukilėliams, telkė Kauno gubernijos pajėgas, bet prie Biržų buvo sužeistas ir paimtas į nelaisvę.'
-seo_atnaujinta: '2026-07-02T21:03:54.583959+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -23,56 +18,127 @@ amziai:
   - 'XIX'
 periodo_grupes:
   - 'naujieji laikai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Zigmantas Sierakauskas
 
 ## Santrauka
 
-Zigmantas Sierakauskas 1863 m. pavasarį buvo paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu. Jis parengė planą sujungti Kauno gubernijos sukilėlių pajėgas ir mėgino jas telkti į kariuomenę. Gegužės pradžioje prie Biržų Sierakauskas buvo sužeistas, pateko į nelaisvę ir netrukus viešai pakartas Vilniuje.
+Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos armijos generalinio štabo kapitonas Zigmantas Sierakauskas (Zygmunt Sierakowski) pamėgino Kauno gubernijoje telkti sukilėlių būrius į armiją, todėl sukilimo slopintojai gavo galimybę. Sierakausko sukilėlių kariuomenė buvo sumušta, pats jos vadas sužeistas pateko į nelaisvę ir netrukus buvo viešai pakartas Vilniuje.
 
 ## Teiginiai
 
 <a id="claim-t-64420"></a>
-- t-001
+- t-006
   global_id: t-64420
-  teiginys: 'Zigmantas Sierakauskas pateko į nelaisvę, kai gegužės 10-osios naktį sukilėlius apsupo paporučikio fon Gaso dalinys.'
+  teiginys: "Zigmantas Sierakauskas pateko į nelaisvę, kai gegužės 10-osios naktį sukilėlius apsupo paporučikio fon Gaso dalinys."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "673067-673377; hash=9aecc44089b9c5528bda806614338c47befaa096ae995704d03cb7a6b6fb9c32; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> S. Kozakauskas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Zigmantas Sierakauskas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "S. Kozakauskas: mention_match, person, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zigmantas Sierakauskas\" parinktas kaip owner_note_path. Targetas \"S. Kozakauskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-42350
 
 <a id="claim-t-64421"></a>
-- t-002
+- t-005
   global_id: t-64421
-  teiginys: 'Sužeistas Zigmantas Sierakauskas mūšio pradžioje buvo išvežtas ir paslėptas Biržų girioje esančiame Skrebiškio palivarke.'
+  teiginys: "Sužeistas Zigmantas Sierakauskas mūšio pradžioje buvo išvežtas ir paslėptas Biržų girioje esančiame Skrebiškio palivarke."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "670571-670928; hash=76b13b87acfd88583bdbe5d66c8a11c9426bce92fc03ac2c4aadd9a34c90f531; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ginklai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Zigmantas Sierakauskas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Ginklai: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zigmantas Sierakauskas\" parinktas kaip owner_note_path. Targetas \"Ginklai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-42349
 
 <a id="claim-t-64422"></a>
-- t-003
+- t-002
   global_id: t-64422
-  teiginys: 'Gegužės pradžioje prie Biržų Zigmantas Sierakauskas buvo sužeistas, pateko į nelaisvę ir netrukus viešai pakartas Vilniuje.'
+  teiginys: "Gegužės pradžioje prie Biržų Zigmantas Sierakauskas buvo sužeistas, pateko į nelaisvę ir netrukus viešai pakartas Vilniuje."
+  semantiniai_rysiai: "Zigmantas Sierakauskas mirė Vilnius (0.90)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "203503-204059; hash=6e3ca3dcd2924e464695ee2955c4b60a3d4a03cc0d1eb1eed46191658da1c2ae; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "mire -> Vilnius: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Zigmantas Sierakauskas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad Sierakauskas netrukus buvo viešai pakartas Vilniuje."
   pagrindžia:
-    - c-002
+    - c-22087
 
 <a id="claim-t-64423"></a>
 - t-004
   global_id: t-64423
-  teiginys: 'Sukilėlių vadas Zigmantas Sierakauskas buvo sužeistas, o po dviejų valandų kovos sukilėlių pasipriešinimas ėmė silpti.'
+  teiginys: "Sukilėlių vadas Zigmantas Sierakauskas buvo sužeistas, o po dviejų valandų kovos sukilėlių pasipriešinimas ėmė silpti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "665520-665676; hash=7b75fa2a050e86c242594e33c6962ba7b601e457ac17cb8624d9d891bdf7d32d; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-004
+    - c-42348
 
 <a id="claim-t-64424"></a>
-- t-005
+- t-003
   global_id: t-64424
-  teiginys: 'Zigmantas Sierakauskas parengė sukilėlių kovos planą, numatantį sujungti Kauno gubernijos sukilėlių pajėgas.'
+  teiginys: "Zigmantas Sierakauskas parengė sukilėlių kovos planą, numatantį sujungti Kauno gubernijos sukilėlių pajėgas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "655713-656005; hash=c49f1c484501d56ab334ec467793f9e51d56d9e48471f9f0a0de2843ab7a53c5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Zigmantas Sierakauskas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=73"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zigmantas Sierakauskas\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-42347
 
 <a id="claim-t-64425"></a>
-- t-006
+- t-001
   global_id: t-64425
-  teiginys: '1863 m. pavasarį Zigmantas Sierakauskas buvo paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu.'
+  teiginys: "1863 m. pavasarį Zigmantas Sierakauskas buvo paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu."
+  temporaliniai_duomenys: "įvykio data: 1863 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Zigmantą Sierakauską."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "203221-203892; hash=6ee95f690341d8a59a138f5444213828176cdd3ab3dec63761b0d4a0b232cb64; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Zigmantas Sierakauskas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zigmantas Sierakauskas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-22086
 - susijęs iš [[objektai/asmenys/Antanas Mackevičius.md#claim-t-75695|Antanas Mackevičius]]: Po Zigmanto Sierakausko mirties Antanas Mackevičius buvo paskirtas Kauno gubernijos sukilėlių karo vadu.
 - susijęs iš [[objektai/asmenys/Antanas Mackevičius.md#claim-t-75698|Antanas Mackevičius]]: Po Zigmanto Sierakausko mirties Antanas Mackevičius buvo paskirtas Kauno gubernijos sukilėlių karo vadu.
 - susijęs iš [[objektai/asmenys/Antanas Mackevičius.md#claim-t-75700|Antanas Mackevičius]]: Zigmantas Sierakauskas vienai sukilėlių kariuomenės kolonai pavedė vadovauti Antanui Mackevičiui.
@@ -103,8 +169,9 @@ Zigmantas Sierakauskas 1863 m. pavasarį buvo paskirtas vyriausiuoju Lietuvos su
     nijoje telkti sukilėlių būrius į armiją, todėl sukilimo slopintojai gavo gali-
     mybę vienu smūgiu nuleisti sukilėliams daug kraujo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
@@ -121,8 +188,9 @@ Zigmantas Sierakauskas 1863 m. pavasarį buvo paskirtas vyriausiuoju Lietuvos su
     prie Biržų Z. Sierakausko sukilėlių kariuomenė buvo sumušta, pats jos
     vadas sužeistas pateko į nelaisvę ir netrukus buvo viešai pakartas Vilniuje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -140,6 +208,7 @@ Zigmantas Sierakauskas 1863 m. pavasarį buvo paskirtas vyriausiuoju Lietuvos su
     kiams, bandyti užimti šį svarbų strateginį
     punktą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -158,6 +227,7 @@ Zigmantas Sierakauskas 1863 m. pavasarį buvo paskirtas vyriausiuoju Lietuvos su
 
     Ruoliškioež. @ Pasinaudodami tamsa sukilėliai ėmė
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -180,6 +250,7 @@ Zigmantas Sierakauskas 1863 m. pavasarį buvo paskirtas vyriausiuoju Lietuvos su
     Nuo xvii a. pabaigos iki xIx a. pradžios titnaginiai šaunamieji
     ginklai iš esmės nesikeitė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -201,11 +272,127 @@ Zigmantas Sierakauskas 1863 m. pavasarį buvo paskirtas vyriausiuoju Lietuvos su
     B. Kolyška, S. Kozakauskas ir dar keletas
     karininkų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-22086
+  citata_originali: |
+    Šį kartą valdžia sukilimo
+    slopinimui pasirengė – Vilniaus karinėje apygardoje buvo sutelkta šimta-
+    tūkstantinė Rusijos armija, kuri per 1863 m. padidinta dar 1,5 karto – po
+    Krymo karo caro valdžia nebuvo tikra, kad buvę jos priešininkai nesiims
+    karo veiksmų Baltijos pakrantėse. Sukilėlių būriai neturėjo jokių galimy-
+    bių kontroliuoti didesnių teritorijų. Pavasarį paskirtas vyriausiuoju Lietu-
+    vos sukilėlių karo vadu buvęs Rusijos armijos generalinio štabo kapitonas
+    Zigmantas Sierakauskas (Zygmunt Sierakowski) pamėgino Kauno guber-
+    nijoje telkti sukilėlių būrius į armiją, todėl sukilimo slopintojai gavo gali-
+    mybę vienu smūgiu nuleisti sukilėliams daug kraujo.
+  citata_rodoma: "Pavasarį paskirtas vyriausiuoju Lietu-\nvos sukilėlių karo vadu buvęs Rusijos armijos generalinio štabo kapitonas\nZigmantas Sierakauskas (Zygmunt Sierakowski) pamėgino Kauno guber-\nnijoje telkti sukilėlių būrius į armiją, todėl sukilimo slopintojai gavo gali-\nmybę vienu smūgiu nuleisti sukilėliams daug kraujo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-64425
+
+- id: c-22087
+  citata_originali: |
+    Sukilėlių būriai neturėjo jokių galimy-
+    bių kontroliuoti didesnių teritorijų. Pavasarį paskirtas vyriausiuoju Lietu-
+    vos sukilėlių karo vadu buvęs Rusijos armijos generalinio štabo kapitonas
+    Zigmantas Sierakauskas (Zygmunt Sierakowski) pamėgino Kauno guber-
+    nijoje telkti sukilėlių būrius į armiją, todėl sukilimo slopintojai gavo gali-
+    mybę vienu smūgiu nuleisti sukilėliams daug kraujo. Gegužės pradžioje
+    prie Biržų Z. Sierakausko sukilėlių kariuomenė buvo sumušta, pats jos
+    vadas sužeistas pateko į nelaisvę ir netrukus buvo viešai pakartas Vilniuje.
+  citata_rodoma: "Gegužės pradžioje\nprie Biržų Z. Sierakausko sukilėlių kariuomenė buvo sumušta, pats jos\nvadas sužeistas pateko į nelaisvę ir netrukus buvo viešai pakartas Vilniuje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-64422
+
+- id: c-42347
+  citata_originali: |
+    Plk. Z. Sierakauskas parengė sukilė-
+    lių kovos planą. Buvo numatyta apjungti
+    visas Kauno gubernijos sukilėlių pajė-
+    gas. Tuomet žygiuoti carinės kariuomenės
+    tvirtovės Daugpilio link ir padedant ten
+    tarnaujantiems iš Lietuvos kilusiems kariš-
+    kiams, bandyti užimti šį svarbų strateginį
+    punktą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-64424
+
+- id: c-42348
+  citata_originali: |
+    (G) Buvo sužeistas sukilėlių vadas
+
+    Z. Sierakauskas, po dviejų valandų
+
+    kovos pasipriešinimas ėmė silpti.
+
+    Ruoliškioež. @ Pasinaudodami tamsa sukilėliai ėmė
+  citata_rodoma: "(G) Buvo sužeistas sukilėlių vadas\n\nZ. Sierakauskas, po dviejų valandų\n\nkovos pasipriešinimas ėmė silpti.\n\nRuoliškioež."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-64423
+
+- id: c-42349
+  citata_originali: |
+    Sukilėliams
+    teko skubiai trauktis palikus karinę gur-
+    guolę ir žirgus. Stovykloje buvusį sužeistą
+
+    Z. Sierakauską jau mūšio pradžioje pavyko
+    išvežti ir paslėpti Biržų girioje esančiame
+    Skrebiškio palivarke. Trijų dienų mūšio
+    iškamuoti sukilėliai prarado budrumą ir
+
+    Nuo xvii a. pabaigos iki xIx a. pradžios titnaginiai šaunamieji
+    ginklai iš esmės nesikeitė.
+  citata_rodoma: "Stovykloje buvusį sužeistą\n\nZ. Sierakauską jau mūšio pradžioje pavyko\nišvežti ir paslėpti Biržų girioje esančiame\nSkrebiškio palivarke. Trijų dienų mūšio\niškamuoti sukilėliai prarado budrumą ir\n\nNuo xvii a."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-64421
+
+- id: c-42350
+  citata_originali: |
+    Oficialiai pa-
+    teikiami Rusijos kariuomenės nuos-
+    toliai akivaizdžiai neatitinka tikrovės.
+    Vilniaus karo apygardos Karo veiksmų
+
+    juos miegančius gegužės 10 naktį apsupo ir
+    paėmė į nelaisvę paporučikio fon Gaso da-
+    linys. Į nelaisvę pakliuvo Z. Sierakauskas,
+    B. Kolyška, S. Kozakauskas ir dar keletas
+    karininkų.
+  citata_rodoma: "Vilniaus karo apygardos Karo veiksmų\n\njuos miegančius gegužės 10 naktį apsupo ir\npaėmė į nelaisvę paporučikio fon Gaso da-\nlinys. Į nelaisvę pakliuvo Z. Sierakauskas,\nB. Kolyška, S. Kozakauskas ir dar keletas\nkarininkų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-64420
 
 ## Ryšiai
 - Zigmantas Sierakauskas keliavo į [[objektai/vietos/Kaunas]], [[objektai/vietos/Svėdasai]]

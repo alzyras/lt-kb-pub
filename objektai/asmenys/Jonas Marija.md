@@ -18,6 +18,18 @@ amziai:
   - 'XVI'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jonas Marija
 
@@ -30,9 +42,20 @@ Trys į Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­ tiekus Ch
 <a id="claim-t-87726"></a>
 - t-001
   global_id: t-87726
-  teiginys: 'Jonas Marija buvo architektas ir raižytojas, savo meno kūriniais papuošęs Vilnių.'
+  teiginys: "Jonas Marija buvo architektas ir raižytojas, savo meno kūriniais papuošęs Vilnių."
+  semantiniai_rysiai: "Jonas Marija keliavo į Vilnius (0.74)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "552852-554562; hash=e0be0bd4534a7a82f182d74135a7437b80e878b1defc925932e04adc73545007; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jonas Marija: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata sako, kad menininkai, tarp jų Jonas Marija, buvo pakviesti į Vilnių ir ten veikė."
   pagrindžia:
-    - c-001
+    - c-83705
 - susijęs iš [[objektai/asmenys/Martynas Ostrovskis.md#claim-t-87773|Martynas Ostrovskis]]: Martynas Ostrovskis buvo vienas iš trijų lenkų tapytojų, pakviestų į Vilnių ir papuošusių miestą savo kūriniais.
 - susijęs iš [[objektai/asmenys/Martynas Paleckis.md#claim-t-87405|Martynas Paleckis]]: 1547 m. gegužės 22 d. privilegija Martynui Paleckiui steigti fabriką skyrė sklypą prie Vilniaus už Vilijos upės.
 - susijęs iš [[objektai/asmenys/Stanislovas Ratka.md#claim-t-87862|Stanislovas Ratka]]: Stanislovas Ratka buvo vienas iš trijų lenkų tapytojų, pakviestų į Vilnių iš Poznanės.
@@ -101,11 +124,74 @@ Trys į Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­ tiekus Ch
     de Senis iš Italijos - papuošė Vilnių nuostabaus darbo savo
     meno kūriniais.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83705
+  citata_originali: |
+    Trys į
+    Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­
+    tiekus Chelminskis iš Inovroclavo ir Stanislovas Ratka iš Poz­
+    nanės, o du architektai ir raižytojai - Jonas Marija ir Jonas
+    34
+    Privilegija, duota Paleckiui steigti šią
+    liejyklą, yra rašyta slavų kalba, su lo­
+    tynišku karaliaus ir rusišku raštinin­
+    ko Valerijono parašu, su prikabintu
+    Lietuvos Didžiosios Kunigaikštystės
+    antspaudu. Duota 1547 metų gegu­
+    žės 22 dieną, 5 indikte. Sklypas, skir­
+    tas fabrikui statyti, buvo „prie Vil­
+    niaus miesto, už Vilijos upės, tarp
+    karaliaus šunidės ir Vilniaus vaiva­
+    dos ir karaliaus kanclerio Hlebavi-
+    čiaus plytinės", perduotas Paleckio
+    žiniai, karaliaus valia, per Vilniaus
+    gorodničių Povilą Giedraitį. Atrodo,
+    kad anoji liejykla buvusi toje vieto­
+    je, kur dabar stovi Medicinos Chi­
+    rurgijos Akademijos adjunkto pono
+    Juzefo Mianovskio užmiesčio na­
+    mas, pramintas Belvederiu. Atsi­
+    žvelgdamas į Paleckio prašymą, ka­
+    ralius suteikė tik jam ir jo palikuo­
+    nims teisę supirkti visokių rūšių į
+    Vilnių iš Lenkijos vežamą stiklą, iš­
+    skyrus Venecijos. Tačiau buvo įpa­
+    reigotas parduoti jį ne brangiau kaip:
+    didelę Kurovo stiklinę, į kurią telpa
+    dvi mažesnės, po 6 didžiąsias lietu­
+    viškas monetas. O nedidelės stikli­
+    nės turėjo būti parduodamos po 3
+    mažesnes monetas. O langų stiklą
+    „turi paklusniai ir dievobaimingai
+    pardavinėti žmonių neapsunkinda­
+    mas". Karalius už savo žemės do­
+    vanojimą įsakė Paleckiui, vietoje už­
+    mokesčio, į karališkuosius Vilniaus
+    rūmus kasmet pristatyti po 200 di­
+    džiųjų Kurovo stiklinių ir po du šim­
+    tus mažesniųjų.
+    — • —
+    275
+
+    ## Puslapis 292
+
+    VILNIAUS MIESTO ISTORIJA I I  TOMAS
+    de Senis iš Italijos - papuošė Vilnių nuostabaus darbo savo
+    meno kūriniais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87726
 
 ## Ryšiai
 - Jonas Marija keliavo į [[objektai/vietos/Vilnius]]

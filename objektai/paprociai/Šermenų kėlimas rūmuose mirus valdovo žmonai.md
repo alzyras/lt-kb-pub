@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Šermenų kėlimas rūmuose mirus valdovo žmonai
 
@@ -32,10 +44,22 @@ Nenurodyta
 <a id="claim-t-185927"></a>
 - t-001
   global_id: t-185927
-  teiginys: 'Mirus Mindaugo žmonai, į rūmus buvo pakviesta Daumanto žmona sutvarkyti šeimynos moterų ir iškelti mirusiajai šermenis.'
+  teiginys: "Mirus Mindaugo žmonai, į rūmus buvo pakviesta Daumanto žmona sutvarkyti šeimynos moterų ir iškelti mirusiajai šermenis."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "179847-180271; hash=734db10e166f25aa4a9947914a387a31debe2f6fda6bd5705b428bc429c09164; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Mindaugas (valdovas, XIII a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šermenų kėlimas rūmuose mirus valdovo žmonai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Mindaugas (valdovas, XIII a.): mention_match, person, gap=6"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šermenų kėlimas rūmuose mirus valdovo žmonai\" parinktas kaip owner_note_path. Targetas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-169288
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -57,8 +81,34 @@ Nenurodyta
     dorą, jis pasilaikė ją už
     žmoną.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-169288
+  citata_originali: |
+    Vargu ar prislėgti
+    krikščionys būtų kada lengviau atsikvėpę, jeigu be­
+    kylančios stabmeldžių galios nebūtų palaužusi vidaus
+    nesantarvė. Tuo laiku mirė Mindaugui žmona; šeimy­
+    nos moterų sutvarkyti ir mirusiai šermenų iškelti į rū­
+    mus atvyko pakviesta Daumanto, Nalšios kunigaikš­
+    čio, žmona, karalienės sesuo.
+    Karalius,
+    turėdamas
+    begė­
+    diškų ketinimų, sulaužė įsta­
+    tymą jėga pamynęs moters
+    dorą, jis pasilaikė ją už
+    žmoną.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185927

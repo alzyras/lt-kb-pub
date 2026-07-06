@@ -11,6 +11,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Meinhardo žygis į Lietuvą ir pasitraukimas dėl išduoto sumanymo (1292 m.)
 
@@ -35,10 +47,25 @@ Nenurodyta
 <a id="claim-t-185819"></a>
 - t-001
   global_id: t-185819
-  teiginys: '1292 m. Meinhardas sutelkė kariuomenę žygiui į Lietuvą, bet įspėtas apie išdavystę atsitraukė į Prūsiją prieš prasidedant kovai.'
+  teiginys: "1292 m. Meinhardas sutelkė kariuomenę žygiui į Lietuvą, bet įspėtas apie išdavystę atsitraukė į Prūsiją prieš prasidedant kovai."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1292 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko žygio sumanymą ir pasitraukimo priežastį; pašalintas nutrūkęs fragmentas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "284928-285806; hash=bed3c406dee44fcccd182a33271fcfa9250b1a8d2f4801ae61d21e01b6616190; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Meinhardo žygis į Lietuvą ir pasitraukimas dėl išduoto sumanymo (1292 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=88"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Meinhardo žygis į Lietuvą ir pasitraukimas dėl išduoto sumanymo (1292 m.)\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-169180
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -71,8 +98,45 @@ Nenurodyta
     čiau, nei prasidėjo kova, ir nepatenkintas atitraukė ka­
     riuomenę į Prūsiją.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-169180
+  citata_originali: |
+    Suma­
+    nęs atkeršyti, Meinhardas, ta proga vėl sutelkęs ir
+    sustiprinęs kariuomenę, nu-
+    1292 m e ta i
+    tarė su visomis jėgomis iš
+    karto žygiuoti į Lietuvą, no­
+    rėdamas kuo plačiausiai nusiaubti šalį ugnimi ir ka­
+    laviju; perėjęs miškais sienas, jis jau ketino išsklai­
+    dyti pulkus kaimų niokoti. Vytenis, neturėdamas pa­
+    kankamai jėgų priešui at-
+    A tre m ia m i
+    k iy ž iu o -
+    remti atviroje kovoje, grie-
+    čia i, n io k o ja n ty s Lie-
+    besi klastos: išdėstęs patogio-
+    tu v ą
+    se miško vietose karius, jis
+    susitarė su prūsais (kurie,
+    aišku, patys jautė priešiškumą kryžiuočių valdymui,
+    o pakursčius tą neapykantą visokiausiais kaltinimais,
+    netruko išduoti), kad, pradėjus jų pirmiesiems būriams
+    bėgti, šie iš sparnų pultų priešą. Įspėtas apie išdavys­
+    tę, Meinhardas vargais negalais išvengė pavojaus anks­
+    čiau, nei prasidėjo kova, ir nepatenkintas atitraukė ka­
+    riuomenę į Prūsiją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185819

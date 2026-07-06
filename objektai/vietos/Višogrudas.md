@@ -10,6 +10,18 @@ tags:
   - kunigaikštis
   - mūšis
   - pilis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Višogrudas
 
@@ -22,23 +34,70 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
 <a id="claim-t-58487"></a>
 - t-001
   global_id: t-58487
-  teiginys: 'Magistras Poponas su savo ir kunigaikščio Kazimiero kariuomene atvyko prie Višogrudo pilies ir ten įsirengė stovyklą.'
+  teiginys: "Magistras Poponas su savo ir kunigaikščio Kazimiero kariuomene atvyko prie Višogrudo pilies ir ten įsirengė stovyklą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "313392-313798; hash=004fce9b93c67514f46a26975af1ffd3402187c0a1a3f910bd07ad45cea236e5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pomeranai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Višogrudas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Pomeranai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Višogrudas\" parinktas kaip owner_note_path. Targetas \"Pomeranai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-59119
 
 <a id="claim-t-58488"></a>
 - t-002
   global_id: t-58488
-  teiginys: 'Višogrudas tapatinamas su dabartiniu Fordonu kairiajame Vyslos krante prie Bidgoščiaus, kur išliko piliakalnis.'
+  teiginys: "Višogrudas tapatinamas su dabartiniu Fordonu kairiajame Vyslos krante prie Bidgoščiaus, kur išliko piliakalnis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "315551-315702; hash=d2cd8b6f38c745972add475c8fcf71c8a8bbe08cc6aae091a80bd47d0796fdc0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vysla: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Višogrudas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vysla: mention_match, place, gap=56"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Višogrudas\" parinktas kaip owner_note_path. Targetas \"Vysla\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-59121
 
 <a id="claim-t-58489"></a>
 - t-003
   global_id: t-58489
-  teiginys: 'Magistro pasiųsta kariuomenė Lenkijoje apsupo Višogrudą, Lenkijos karaliaus pilį prie Vyslos.'
+  teiginys: "Magistro pasiųsta kariuomenė Lenkijoje apsupo Višogrudą, Lenkijos karaliaus pilį prie Vyslos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "751725-752999; hash=079ea64f19399a2a82ea94effb0bac5b7d25c5e00b47042228b4ec33b561e7f7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vysla: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Višogrudas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vysla: mention_match, place, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Višogrudas\" parinktas kaip owner_note_path. Targetas \"Vysla\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-167601
+
+<a id="claim-t-58489"></a>
+- t-003
+  global_id: t-58489
+  teiginys: "Magistro pasiųsta kariuomenė Lenkijoje apsupo Višogrudą, Lenkijos karaliaus pilį prie Vyslos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "751725-752999; hash=079ea64f19399a2a82ea94effb0bac5b7d25c5e00b47042228b4ec33b561e7f7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vysla: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Višogrudas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vysla: mention_match, place, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Višogrudas\" parinktas kaip owner_note_path. Targetas \"Vysla\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-167601
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178968|Kryžiuočių ordinas]]: Magistras pasiuntė Kryžiuočių ordino kariuomenę į Lenkiją, kur ji apsupo ir sudegino Višogrudo pilį.
 - susijęs iš [[objektai/asmenys/Poponas iš Osternos.md#claim-t-59948|Poponas iš Osternos]]: Magistras Poponas pasiuntė žvalgus stebėti Sventopelko ir su savo bei kunigaikščio Kazimiero kariuomene įsikūrė prie Višogrudo.
 - susijęs iš [[objektai/asmenys/Poponas iš Osternos.md#claim-t-59948|Poponas iš Osternos]]: Magistras Poponas pasiuntė žvalgus stebėti Sventopelko ir su savo bei kunigaikščio Kazimiero kariuomene įsikūrė prie Višogrudo.
@@ -65,6 +124,7 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
     Višogrudo pilies291 ir ten įsikūrė stovyklą. Žvalgai sugrįžę pranešė, kad Sventopelkas su
     galybe savo karių stovįs prie Svečės pilies ir ją stiprinąs.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -78,6 +138,7 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
     291 D.— juxtа castrum Wischerot, Jer — zu Wischegrot — Višogrudas, Wyszogród
     — dab. Fordonas kair. Vyslos krante, prie Bidgoščiaus. Išliko piliakalnis.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -105,12 +166,68 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
     apmaudą, vienus paėmę į nelaisvę, o kitus išžudę, iš pasipiktinimo iki pamatų sudegino
     pilį.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
     - t-003
+
+## Citatos
+
+- id: c-59119
+  citata_originali: |
+    53 (52). Apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų
+
+       Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs
+    Sventopelkas, o pats su savo bei kunigaikščio Kazimiero kariuomene atvyko prie
+    Višogrudo pilies291 ir ten įsikūrė stovyklą. Žvalgai sugrįžę pranešė, kad Sventopelkas su
+    galybe savo karių stovįs prie Svečės pilies ir ją stiprinąs.
+  citata_rodoma: "Apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų\n\n   Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs\nSventopelkas, o pats su savo bei kunigaikščio Kazimiero kariuomene atvyko prie\nVišogrudo pilies291 ir ten įsikūrė stovyklą. Žvalgai sugrįžę pranešė, kad Sventopelkas su\ngalybe savo karių stovįs prie Svečės pilies ir ją stiprinąs."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58487
+
+- id: c-59121
+  citata_originali: |
+    291 D.— juxtа castrum Wischerot, Jer — zu Wischegrot — Višogrudas, Wyszogród
+    — dab. Fordonas kair. Vyslos krante, prie Bidgoščiaus. Išliko piliakalnis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58488
+
+- id: c-167601
+  citata_originali: |
+    O kitoje vietoje, kai žuvo
+    tie, kurie susirado mirtį dėl savo patiklumo, nes nekovojo su priešais, vienas vyras
+    pasakė kitam vyrui (1 Mak 2, 40): „Jeigu visi darysime taip, kaip padarė mūsų broliai, ir
+    nekovosime prieš pagonis dėl savo gyvybės ir savo įstatymo, anie greitai išnaikins mus
+    iš šalies”. Magistras ir broliai, naudingai pamokyti šių bei kitų švento rašto pranašysčių,
+    ryžosi, nesigailėdami nei išlaidų, nei savęs, ginti nuo mūsų minėto karaliaus antpuolių
+    Prūsijos žemę, kuri per begalines įstangas ir didžiulį vargą buvo išplėšta iš netikėlių nagų
+    ir kurioje tikėjimo daigus laistė daugybės kilmingųjų kraujas. Todėl magistras minėtųjų
+    metų vasarą, subūręs didelę kariuomenę, pasiuntė ją  į Lenkiją ir apsupo Višogrudą,
+    Lenkijos karaliaus pilį; joje gyveno nuodėmingi, išgarsėję piktais darbais vyrai, kurie
+    plėšė pro šalį Vyslos upe plaukiančių laivais žmonių turtą, o juos pačius ėmė į nelaisvę
+    ar žudė,  ir niekas negalėjo nuo jų išsigelbėti, nepatyręs skriaudos, o šitaip jie darė
+    ilgus metus, sunkiai skriausdami ir brolius, ir saviškius; po daugybės antpuolių jie galop
+    smarkiai įsiveržė  į pilį602; įniršę išgalabijo nusidėjėlius, nelabus vyrus, kėlusius jiems
+    apmaudą, vienus paėmę į nelaisvę, o kitus išžudę, iš pasipiktinimo iki pamatų sudegino
+    pilį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184216
+    - t-58489
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Poponas iš Osternos]]

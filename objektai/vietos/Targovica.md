@@ -18,6 +18,18 @@ tags:
 amziai:
   - 'XVIII'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Targovica
 
@@ -28,25 +40,62 @@ Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame 
 ## Teiginiai
 
 <a id="claim-t-71970"></a>
-- t-001
+- t-003
   global_id: t-71970
-  teiginys: 'Targovicos konfederacijos aktas buvo surašytas Peterburge ir paskelbtas 1792 m. gegužės 14 d.'
+  teiginys: "Targovicos konfederacijos aktas buvo surašytas Peterburge ir paskelbtas 1792 m. gegužės 14 d."
+  temporaliniai_duomenys: "įvykio data: 1792 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Targovicos konfederacijos aktą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "171932-172530; hash=bbf1ed0144b1b246545d062e2f3a83b315e3e1eea9fadee755a85358d56a808a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Peterburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Targovica: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Peterburgas: mention_match, place, gap=47"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Targovica\" parinktas kaip owner_note_path. Targetas \"Peterburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-70435
 
 <a id="claim-t-71971"></a>
 - t-002
   global_id: t-71971
-  teiginys: 'Targovica buvo Ordos karinis-administracinis centras prie kelio nuo Juodosios jūros ir Krymo Lucko bei Kijevo link.'
+  teiginys: "Targovica buvo Ordos karinis-administracinis centras prie kelio nuo Juodosios jūros ir Krymo Lucko bei Kijevo link."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "179653-180013; hash=c7a62b2f278595842ddc4827943a4d5609e9a12aaed6b45272397cb27809f4cf; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kijevas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Targovica: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kijevas: mention_match, place, gap=103"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Targovica\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-43893
 
 <a id="claim-t-71972"></a>
-- t-003
+- t-001
   global_id: t-71972
-  teiginys: 'Targovicos konfederatams į pagalbą atėjusi Rusijos kariuomenė 1792 m. gegužės 22 d. įžengė į LDK prie Polocko.'
+  teiginys: "Targovicos konfederatams į pagalbą atėjusi Rusijos kariuomenė 1792 m. gegužės 22 d. įžengė į LDK prie Polocko."
+  semantiniai_rysiai: "Rusijos kariuomenė surengė žygį į Polockas (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1792 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "171932-172530; hash=bbf1ed0144b1b246545d062e2f3a83b315e3e1eea9fadee755a85358d56a808a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Polockas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Rusijos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Rusijos kariuomenės įžengimas prie Polocko rodo karinį žygį į šią vietą."
   pagrindžia:
-    - c-002
+    - c-70435
 - susijęs iš [[objektai/asmenys/Ignotas Masalskis.md#claim-t-75849|Ignotas Masalskis]]: Vilniaus vyskupas Ignotas Masalskis buvo tarp Targovicos konfederatų, pakartų Varšuvoje birželio 28 dieną.
 - susijęs iš [[objektai/asmenys/Juozapas Kosakovskis.md#claim-t-19012|Juozapas Kosakovskis (vyskupas)]]: Livonijos vyskupas Juozapas Kosakovskis buvo pakartas Varšuvoje birželio 28 dieną kartu su kai kuriais Targovicos konfederatais.
 - susijęs iš [[objektai/asmenys/Simonas Kosakovskis.md#claim-t-19229|Simonas Kosakovskis]]: Simonas Kosakovskis 1792 m. vadovavo Vilniaus konfederacijai, pritarusiai Targovicos konfederacijai.
@@ -119,6 +168,7 @@ Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame 
     Lucko ir Kijevo link. Galbūt čia, šiame
     regione ir įvykęs mūšis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -139,9 +189,52 @@ Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame 
     deratams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie
     Polocko, prasidėjo 1792 m. karas tarp LLV ir Rusijos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-003
+
+## Citatos
+
+- id: c-43893
+  citata_originali: |
+    Didžiausia tikimybė, kad Mėlynieji Van-
+    denys, tai Siniuchos upė Pietų Ukrainoje,
+    kairysis Pietinio Bugo intakas. Aukščiau
+    šios upės žiočių buvusi pilis ir šiandien yra
+    vietovė Targovica (buvęs Ordos karinis-
+    administracinis centras), pro kurią kelias iš
+    pietų, nuo Juodosios jūros ir Krymo veda
+    Lucko ir Kijevo link. Galbūt čia, šiame
+    regione ir įvykęs mūšis.
+  citata_rodoma: "Aukščiau\nšios upės žiočių buvusi pilis ir šiandien yra\nvietovė Targovica (buvęs Ordos karinis-\nadministracinis centras), pro kurią kelias iš\npietų, nuo Juodosios jūros ir Krymo veda\nLucko ir Kijevo link. Galbūt čia, šiame\nregione ir įvykęs mūšis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-71971
+
+- id: c-70435
+  citata_originali: |
+    Lietuvos Didžiosios Kunigaikštijos
+    sunaikinimas
+    Gegužės trečiosios konstitucijos reformoms įnirtingai
+    priešinosi aristokratija ir visa konservatyvioji visuomenės dalis. Tačiau
+    opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus aršiausius
+    reformų priešininkus. Peterburge subrendo ir buvo surašytas Targovicos
+    (miestelis Ukrainoje, kuriame telkėsi reformų priešininkai) konfederaci-
+    jos aktas, paskelbtas 1792 m. gegužės 14 d. Netrukus į pagalbą konfe-
+    deratams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie
+    Polocko, prasidėjo 1792 m. karas tarp LLV ir Rusijos.
+  citata_rodoma: "Peterburge subrendo ir buvo surašytas Targovicos \n(miestelis Ukrainoje, kuriame telkėsi reformų priešininkai) konfederaci-\njos aktas, paskelbtas 1792 m. gegužės 14 d. Netrukus į pagalbą konfe-\nderatams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie \nPolocko, prasidėjo 1792 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-71970
+    - t-71972

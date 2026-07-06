@@ -10,11 +10,6 @@ datos:
   - '2026 m.'
 date_start: '1390'
 date_end: '2026'
-description: 'Paneriai – vieta prie Vilniaus, minima 1390 m. Jogailos privilegijoje; siejama su Neries vardu ir Ypatinguoju SD būriu.'
-socialDescription: 'Paneriai siejami su 1390 m. Jogailos privilegija Vilniaus kapitulai, Neries vardo aiškinimu ir Ypatingojo SD būrio veikla.'
-seo_atnaujinta: '2026-07-02T23:12:35.484911+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -22,91 +17,238 @@ tags:
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Paneriai
 
 ## Santrauka
 
-Paneriai – Vilniaus apylinkių vieta, 1390 m. Vladislovo Jogailos privilegijoje dovanota Vilniaus kapitulai. Balińskis pavadinimą siejo su Neries vardu, žodžiu „Panerta“ ir įspūdžiu, kad tarp aukštų kalnų tekanti Neris atrodo panirusi. Šaltiniuose Paneriai taip pat minimi Sapiegų pajėgų žygio pro Vokę Valkininkų kryptimi ir Ypatingojo SD būrio veiklos kontekstuose.
+Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypatingasis SD būrys Vilniuje (Paneriuose) ir Heinricho Hamano (Heinrich Hamann) „skrajojantis būrys“, kelis kartus per savaitę vykdavęs į provincijos vietoves ir ten šaudęs (jo pagrindą.
 
 ## Teiginiai
 
 <a id="claim-t-84407"></a>
-- t-001
+- t-011
   global_id: t-84407
-  teiginys: 'Balińskio liudijimu, Paneriams priklausiusiuose Trakų apskrities kaimuose Vilija dar buvo vadinama Nerimi.'
+  teiginys: "Balińskio liudijimu, Paneriams priklausiusiuose Trakų apskrities kaimuose Vilija dar buvo vadinama Nerimi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "58634-58930; hash=a244ec1d6fa2ad5ccee56ab325006ece8446ec3daed87a929269c1e433c5d0c0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Trakai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Paneriai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Trakai: mention_match, place, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Paneriai\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-80574
 
 <a id="claim-t-84408"></a>
-- t-002
+- t-003
   global_id: t-84408
-  teiginys: '1390 m. Vladislovo Jogailos privilegijoje Vilniaus kapitulai buvo dovanojami Paneriai.'
+  teiginys: "1390 m. Vladislovo Jogailos privilegijoje Vilniaus kapitulai buvo dovanojami Paneriai."
+  temporaliniai_duomenys: "įvykio data: 1390 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Panerių dovanojimą privilegijoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "57140-57728; hash=669e518442bac2f90c3732143e67e040167677b74cd7faa67b141051539aa450; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Paneriai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Paneriai\" parinktas kaip owner_note_path. Targetas \"Vilija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-80576
 
 <a id="claim-t-84409"></a>
-- t-003
+- t-005
   global_id: t-84409
-  teiginys: 'Vilija buvo vadinama Nerimi kaimuose, priklausiusiuose Zubiškių palivarkui ir Paneriams Trakų apskrityje.'
+  teiginys: "Vilija buvo vadinama Nerimi kaimuose, priklausiusiuose Zubiškių palivarkui ir Paneriams Trakų apskrityje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "58634-58930; hash=a244ec1d6fa2ad5ccee56ab325006ece8446ec3daed87a929269c1e433c5d0c0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Trakai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Paneriai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Trakai: mention_match, place, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Paneriai\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-80574
 
 <a id="claim-t-84410"></a>
-- t-004
+- t-010
   global_id: t-84410
-  teiginys: 'Balińskis Panerių pavadinimą siejo su įspūdžiu, kad tarp aukštų kalnų tekanti Neris atrodo tarsi panirusi.'
+  teiginys: "Balińskis Panerių pavadinimą siejo su įspūdžiu, kad tarp aukštų kalnų tekanti Neris atrodo tarsi panirusi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "57759-58162; hash=38ef0ff4d670c9de3ab46752d6595780526160ecd36d74644cdf5a5b299b93a8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Neris: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Paneriai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Neris: mention_match, place, gap=68"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Paneriai\" parinktas kaip owner_note_path. Targetas \"Neris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-80579
 
 <a id="claim-t-84411"></a>
-- t-005
+- t-002
   global_id: t-84411
-  teiginys: 'Sapiegų pajėgos iš Vilniaus apylinkių pro Panerius ir Vokę išžygiavo Valkininkų kryptimi.'
+  teiginys: "Sapiegų pajėgos iš Vilniaus apylinkių pro Panerius ir Vokę išžygiavo Valkininkų kryptimi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "559056-559230; hash=88d4b3e3962d28584822c436d3083f1b0bb03d629ad4268297369ac66ff86a5e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Valkininkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Paneriai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Valkininkai: mention_match, place, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Paneriai\" parinktas kaip owner_note_path. Targetas \"Valkininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-43722
 
 <a id="claim-t-84412"></a>
-- t-006
+- t-007
   global_id: t-84412
-  teiginys: 'Perkėlimai plaustais per Vilijos upę buvo uždrausti tarp Verkių kaimo ir Panerių kaimo.'
+  teiginys: "Perkėlimai plaustais per Vilijos upę buvo uždrausti tarp Verkių kaimo ir Panerių kaimo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "744793-745738; hash=0cbb38218efa9cafc6f1a08736252a646076c611738d167a777993672eec6461; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Paneriai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Paneriai\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-80580
 
 <a id="claim-t-84413"></a>
-- t-007
+- t-004
   global_id: t-84413
-  teiginys: 'Panerių pavadinimas siejamas su Neries vardu ir žodžiu „Panerta“.'
+  teiginys: "Panerių pavadinimas siejamas su Neries vardu ir žodžiu „Panerta“."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "57759-58162; hash=38ef0ff4d670c9de3ab46752d6595780526160ecd36d74644cdf5a5b299b93a8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Paneriai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Paneriai\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-80579
 
 <a id="claim-t-84414"></a>
-- t-008
+- t-012
   global_id: t-84414
-  teiginys: 'Perkėlimai plaustais per Viliją buvo draudžiami tarp Verkių kaimo ir Vilniaus kapitulai priklausiusio Panerių kaimo.'
+  teiginys: "Perkėlimai plaustais per Viliją buvo draudžiami tarp Verkių kaimo ir Vilniaus kapitulai priklausiusio Panerių kaimo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "744793-745738; hash=0cbb38218efa9cafc6f1a08736252a646076c611738d167a777993672eec6461; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Paneriai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Paneriai\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-80580
 
 <a id="claim-t-84415"></a>
-- t-009
+- t-006
   global_id: t-84415
-  teiginys: 'Algirdas kartais gyvendavo Paneriuose, kurie Balińskio aprašytu metu priklausė Vilniaus kapitulai.'
+  teiginys: "Algirdas kartais gyvendavo Paneriuose, kurie Balińskio aprašytu metu priklausė Vilniaus kapitulai."
+  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) gyveno Paneriai (0.95)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "511290-511761; hash=a4b4bf2e5e2c6f620ee32b32559e02ea69386da7fcc128f1264a5dfba40fba78; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Paneriai: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Paneriai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Algirdas kartais gyvendavo Paneriuose."
   pagrindžia:
-    - c-004
+    - c-80575
 
 <a id="claim-t-84416"></a>
-- t-010
+- t-001
   global_id: t-84416
-  teiginys: 'Paneriuose veikęs Ypatingasis SD būrys buvo viena iš dviejų lietuvių zonderkomandų, daugiausia vykdžiusių šaudymus.'
+  teiginys: "Paneriuose veikęs Ypatingasis SD būrys buvo viena iš dviejų lietuvių zonderkomandų, daugiausia vykdžiusių šaudymus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "405821-406561; hash=d2a7f9c759e7a7a65f9a9751530198e284bad2d2d1c018b603d478300e841c13; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Paneriai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=60"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Paneriai\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-24362
 
 <a id="claim-t-84417"></a>
-- t-011
+- t-009
   global_id: t-84417
-  teiginys: '1390 m. Vladislovo Jogailos privilegijoje, kuria Vilniaus kapitulai dovanoti Paneriai, Vilija pavadinta Vigilia.'
+  teiginys: "1390 m. Vladislovo Jogailos privilegijoje, kuria Vilniaus kapitulai dovanoti Paneriai, Vilija pavadinta Vigilia."
+  temporaliniai_duomenys: "įvykio data: 1390 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai atspindi citatą apie 1390 m. privilegiją ir Vilijos pavadinimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "57140-57728; hash=669e518442bac2f90c3732143e67e040167677b74cd7faa67b141051539aa450; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Paneriai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilija: mention_match, place, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Paneriai\" parinktas kaip owner_note_path. Targetas \"Vilija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-80576
+
+<a id="claim-t-84418"></a>
+- t-008
+  global_id: t-84418
+  teiginys: "Sapiegų pajėgos iš Vilniaus apylinkių pro Panerius ir Vokę išžygiavo Valkininkų kryptimi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "558895-559201; hash=80d30a84b836908524947ce49af0a7990622873e86e8e4b8e5319fae71bdceba; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Valkininkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Paneriai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Valkininkai: mention_match, place, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Paneriai\" parinktas kaip owner_note_path. Targetas \"Valkininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-80577
+- susijęs iš [[objektai/asmenys/Kernius.md#claim-t-190905|Kernius]]: Teodoro Narbuto aiškinimu, kunigaikščio Kerniaus valdymo metais Panerių genčių dūdų pūtimas prie Neries tapo dingstimi kraštą vadinti Litvania.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173235|Vladislovas Jogaila]]: Vladislovas Jogaila paveldėjimo teise vėl suteikė Panerius katedrai ir Vilniaus kapitulai.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173244|Vladislovas Jogaila]]: 1390 m. Vladislovas Jogaila Vilniaus kapitulai suteikė privilegiją, kuria dovanojo Panerius.
 - susijęs iš [[objektai/grupes/12-asis ulonų pulkas.md#claim-t-38925|12-asis ulonų pulkas]]: 12-asis ulonų pulkas buvo vienas iš Lietuvos sukilėlių dalinių, sudariusių sukilėlių kariuomenės pagrindą Panerių mūšyje.
@@ -138,11 +280,14 @@ Paneriai – Vilniaus apylinkių vieta, 1390 m. Vladislovo Jogailos privilegijoj
 - susijęs iš [[objektai/grupes/Škotai.md#claim-t-86839|Škotai]]: Škotijos savanoriai kartu su anglais ir prancūzais papildė vokiečių riterių būrius Karaliaučiuje.
 - susijęs iš [[objektai/paprociai/Gyvenviečių prie upių vardijimas su priešdėliu „pa-“.md#claim-t-87269|Gyvenviečių prie upių vardijimas su priešdėliu „pa-“]]: Lietuvoje buvo paplitęs paprotys gyvenvietes prie upių vadinti prie upės pavadinimo pridedant priešdėlį „pa-“.
 - susijęs iš [[objektai/paprociai/Riterių garbės puota prieš karo žygį.md#claim-t-87283|Riterių garbės puota prieš karo žygį]]: Kryžiuočių žygio metu Karaliaučiuje riterių garbės puota buvo nutraukta dėl anglų, škotų ir prancūzų vaidų.
+- susijęs iš [[objektai/posakiai/Isz-Tawas arba Isz-Tabas.md#claim-t-192124|Isz-Tawas arba Isz-Tabas]]: Teodoras Narbutas posakį Isz-Tawas arba Isz-Tabas aiškino kaip kilmę iš tėvo ir iš jo kildino ištavanų bei stavanų pavadinimus.
 - susijęs iš Kernavė: Draudimas statyti per upę mažus tiltelius galiojo nuo Nemenčinės dvaro iki Kernavės miestelio.
 - susijęs iš Nemenčinė: Nuo Nemenčinės dvaro iki Kernavės miestelio buvo draudžiama per Viliją statyti mažus tiltelius, vadinamus jazais.
 - susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Žemiau Vilniaus Vilijos pakrantėse gyvenę lietuviai kaimiečiai šią upę vadino Nerimi.
+- susijęs iš Stavanija: Narbutas aiškino Stavanijos pavadinimą iš posakio Isz-Tawas arba Isz-Tabas, reiškiančio kilimą iš tėvo.
 - susijęs iš [[objektai/zodynas/jazai.md#claim-t-86590|jazai]]: Valdiniams uždrausta per Vilijos upę nuo Nemenčinės dvaro iki Kernavės statyti mažus tiltelius, vadinamus jazais.
 - susijęs iš [[objektai/zodynas/vietovardžių priešdėlis `pa.md#claim-t-86625|vietovardžių priešdėlis `pa]]: Lietuvoje prie upių esančių gyvenviečių vardai dažnai sudaromi prie upės pavadinimo pridedant priešdėlį pa-.
+- susijęs iš [[objektai/posakiai/Isz-Tawas arba Isz-Tabas.md#claim-t-192124|Isz-Tawas arba Isz-Tabas]]: Teodoras Narbutas posakį Isz-Tawas arba Isz-Tabas aiškino kaip kilmę iš tėvo ir iš jo kildino ištavanų bei stavanų pavadinimus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -161,8 +306,9 @@ Paneriai – Vilniaus apylinkių vieta, 1390 m. Vladislovo Jogailos privilegijoj
     ves ir ten šaudęs (jo pagrindą ir sudarė 3-ioji TDA Kauno bataliono kuo-
     pa).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
@@ -178,6 +324,7 @@ Paneriai – Vilniaus apylinkių vieta, 1390 m. Vladislovo Jogailos privilegijoj
     Valkininkų kryptimi išžygiavo Sapiegų
     pajėgos. Jas sudarė apie 1500 karių -
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -197,6 +344,7 @@ Paneriai – Vilniaus apylinkių vieta, 1390 m. Vladislovo Jogailos privilegijoj
     Aukščiau Vilniaus Vilija, regis, kito
     vardo neturi.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -218,6 +366,7 @@ Paneriai – Vilniaus apylinkių vieta, 1390 m. Vladislovo Jogailos privilegijoj
     vokiečių raštininko, šiandien negalima suprasti, kokia tai
     buvo vieta.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -244,6 +393,7 @@ Paneriai – Vilniaus apylinkių vieta, 1390 m. Vladislovo Jogailos privilegijoj
     S a r n i c k i s Descriptio veteris et no­
     vae Poloniae etc.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -266,6 +416,7 @@ Paneriai – Vilniaus apylinkių vieta, 1390 m. Vladislovo Jogailos privilegijoj
     Valkininkų kryptimi išžygiavo Sapiegų
     pajėgos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -288,6 +439,7 @@ Paneriai – Vilniaus apylinkių vieta, 1390 m. Vladislovo Jogailos privilegijoj
     esančiame Kryžiuočių archyve, yra
     dabartinė Vilija.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -316,12 +468,191 @@ Paneriai – Vilniaus apylinkių vieta, 1390 m. Vladislovo Jogailos privilegijoj
     kestį, skirtą jam taisyti bei neturtingų ligotų žmonių naudai
     jau seniai mintyse paskyrėme.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
     - t-008
+
+## Citatos
+
+- id: c-24362
+  citata_originali: |
+    Paprastai
+    už kelių kilometrų nuo getų ir stovyklų esančiuose miškuose, laukuose ar
+    žvyrduobėse sušaudytos ir suverstos į iškastas duobes ištisos žydų ben-
+    druomenės. Į žudynių parengimą, aukų konvojavimą ir šaudymą įtrauk-
+    tos lietuvių savisaugos policijos grupės (policijos batalionai (vadinami
+    TDA) – Zarasų, Kupiškio, Jonavos ir kt.), pagalbinės policijos ir policijos
+    nuovadų policininkai, jau davę priesaiką A. Hitleriui. Daugiausia šaudė
+    iš lietuvių sudarytos dvi specialios zonderkomandos – Ypatingasis SD
+    būrys Vilniuje (Paneriuose) ir Heinricho Hamano (Heinrich Hamann)
+    „skrajojantis būrys“, kelis kartus per savaitę vykdavęs į provincijos vieto-
+    ves ir ten šaudęs (jo pagrindą ir sudarė 3-ioji TDA Kauno bataliono kuo-
+    pa).
+  citata_rodoma: "Daugiausia šaudė\niš lietuvių sudarytos dvi specialios zonderkomandos – Ypatingasis SD\nbūrys Vilniuje (Paneriuose) ir Heinricho Hamano (Heinrich Hamann)\n„skrajojantis būrys“, kelis kartus per savaitę vykdavęs į provincijos vieto-\nves ir ten šaudęs (jo pagrindą ir sudarė 3-ioji TDA Kauno bataliono kuo-\npa)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-84416
+
+- id: c-43722
+  citata_originali: |
+    Sapiegų pajėgos
+
+    Kitą dieną iš Vilniaus, kurio apylinkėse
+
+    ir buvo sutelktos, pro Panerius ir Vokę
+    Valkininkų kryptimi išžygiavo Sapiegų
+    pajėgos. Jas sudarė apie 1500 karių -
+  citata_rodoma: "Sapiegų pajėgos\n\nKitą dieną iš Vilniaus, kurio apylinkėse\n\nir buvo sutelktos, pro Panerius ir Vokę\nValkininkų kryptimi išžygiavo Sapiegų\npajėgos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-84411
+
+- id: c-80574
+  citata_originali: |
+    V. p. 152. Dar iki šiol
+    lietuviai kaimiečiai, gyvenantys tos
+    upės pakrantėse, žemiau Vilniaus,
+    vadina ją Nerimi, bent jau žinau, kad
+    taip Vilija yra vadinama kaimuose,
+    priklausančiuose Zubiškių palivar­
+    kui ir Paneriams Trakų apskrityje.
+    Aukščiau Vilniaus Vilija, regis, kito
+    vardo neturi.
+  citata_rodoma: "Dar iki šiol\nlietuviai kaimiečiai, gyvenantys tos\nupės pakrantėse, žemiau Vilniaus,\nvadina ją Nerimi, bent jau žinau, kad\ntaip Vilija yra vadinama kaimuose,\npriklausančiuose Zubiškių palivar­\nkui ir Paneriams Trakų apskrityje.\nAukščiau Vilniaus Vilija, regis, kito\nvardo neturi."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-84409
+    - t-84407
+
+- id: c-80575
+  citata_originali: |
+    Tikra bent jau tai, kad iki jo nei istorijoje, nei
+    rašto paminkluose nėra jokio pėdsako, kad kuris nors Kazi­
+    miero pirmtakų būtų užsiminęs apie Rūdninkus. Algirdas
+    kartais gyvendavo Paneriuose, šiandien priklausančiuose
+    Vilniaus kapitulai. Pasiligojusi Vytauto žmona Julijona bu­
+    vo apsistojusi kažkokiame kunigaikščių kaime, vadinama­
+    me Memitz, prie Vilniaus, bet iš to pavadinimo, iškraipyto
+    vokiečių raštininko, šiandien negalima suprasti, kokia tai
+    buvo vieta.
+  citata_rodoma: "Algirdas\nkartais gyvendavo Paneriuose, šiandien priklausančiuose\nVilniaus kapitulai. Pasiligojusi Vytauto žmona Julijona bu­\nvo apsistojusi kažkokiame kunigaikščių kaime, vadinama­\nme Memitz, prie Vilniaus, bet iš to pavadinimo, iškraipyto\nvokiečių raštininko, šiandien negalima suprasti, kokia tai\nbuvo vieta."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-84415
+
+- id: c-80576
+  citata_originali: |
+    Bet jeigu upei Vili­
+    jos vardas buvo duotas Vilniaus gy­
+    ventojų krikšto laikais, valdant Jo­
+    gailai, tai tas žodis turėtų paeiti nuo
+    W igilja. Juk randama, kad Vilniaus
+    kapitulai 1390 metais Vladislovo Jo­
+    gailos duotoje privilegijoje, kuria do­
+    vanojami Paneriai, Vilija yra pava­
+    dinta Vigilia:  obstaculum in superiori
+    parte nostri obstaculi, in fluvio Vigilia
+    situati [aukštutinėje dalyje mūsų už­
+    kardos, Vigilijos upėje esančios]. Kai
+    kurie mūsų senieji autoriai taip pat
+    rašo - Vigilia, užuot rašę Vilija, pvz.,
+    S a r n i c k i s Descriptio veteris et no­
+    vae Poloniae etc.
+  citata_rodoma: "Juk randama, kad Vilniaus\nkapitulai 1390 metais Vladislovo Jo­\ngailos duotoje privilegijoje, kuria do­\nvanojami Paneriai, Vilija yra pava­\ndinta Vigilia:  obstaculum in superiori\nparte nostri obstaculi, in fluvio Vigilia\nsituati [aukštutinėje dalyje mūsų už­\nkardos, Vigilijos upėje esančios]. Kai\nkurie mūsų senieji autoriai taip pat\nrašo - Vigilia, užuot rašę Vilija, pvz."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-84408
+    - t-84417
+
+- id: c-80577
+  citata_originali: |
+    panceriniais raiteliais (ši kavalerijos rūšis egzistavo Lenkijoje) ir ilgainiui jų skirtumai
+    beveik išnyko. Dėvėdavo šarvinius marškinius, o xvii a. ir kirasą.
+
+    Sapiegų pajėgos
+
+    Kitą dieną iš Vilniaus, kurio apylinkėse
+
+    ir buvo sutelktos, pro Panerius ir Vokę
+    Valkininkų kryptimi išžygiavo Sapiegų
+    pajėgos.
+  citata_rodoma: "ir kirasą.\n\nSapiegų pajėgos\n\nKitą dieną iš Vilniaus, kurio apylinkėse\n\nir buvo sutelktos, pro Panerius ir Vokę\nValkininkų kryptimi išžygiavo Sapiegų\npajėgos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-84418
+
+- id: c-80579
+  citata_originali: |
+    T. II. Anksčiau kitaip
+    buvo vadinama arba turėjo ir kitą
+    vardą - Neris, nuo to rasi, kad glū­
+    dėjo tarp iškilių kalnų arba tikriausia,
+    kad žiūrinčiajam nuo aukštų kalnų
+    atrodė tarsi panirusi - lietuviškai -
+    Panerta, nuo ko ją supantys kalnai
+    ir mūsų laikais vadinami Paneriais.
+    Upė Nerige, dažnai minima senovi­
+    niame Lietuvos kelių aprašyme,
+    esančiame Kryžiuočių archyve, yra
+    dabartinė Vilija.
+  citata_rodoma: "Anksčiau kitaip\nbuvo vadinama arba turėjo ir kitą\nvardą - Neris, nuo to rasi, kad glū­\ndėjo tarp iškilių kalnų arba tikriausia,\nkad žiūrinčiajam nuo aukštų kalnų\natrodė tarsi panirusi - lietuviškai -\nPanerta, nuo ko ją supantys kalnai\nir mūsų laikais vadinami Paneriais.\nUpė Nerige, dažnai minima senovi­\nniame Lietuvos kelių aprašyme,\nesančiame Kryžiuočių archyve, yra\ndabartinė Vilija."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-84413
+    - t-84410
+
+- id: c-80580
+  citata_originali: |
+    Nederėtų, be
+    to, atsižvelgiant į šį mūsų draudimą ir užgynimą, niekam iš
+    mūsų valdinių per tą pačią upę kitose vietose statyti mažų
+    tiltelių, vadinamų jazais, pradedant nuo mūsų Nemenčinės
+    dvaro iki minėto mūsų Kernavės miestelio, pagal mūsų nuo­
+    žiūrą atimant turtą ir kitas bausmes skiriant. Taip pat norime
+    uždrausti ir uždraudžiame bei užginame perkėlimus, vadi­
+    namus plaustais, per tą pačią Vilijos upę, kad nė vienas iš
+    mūsų pareigūnų ir valdinių jų naudoti negali tarp Verkių kai­
+    mo prie Vilniaus vyskupijos ir Panerių kaimo, Vilniaus baž­
+    nyčios kapitulai priklausančių, aukštyn nęi žemyn dėl paken­
+    kimo tam pačiam mūsų nustatytam muitui, su bausmėmis,
+    aukščiau mūsų nurodytomis. O kadangi mes, kaip anksčiau
+    tvirtinome, skatinami gailesčio mūsų pavaldiniams, minėtą
+    tiltą pastatyti ir nutiesti įsakėme, taipgi ir jo muitą, arba mo­
+    kestį, skirtą jam taisyti bei neturtingų ligotų žmonių naudai
+    jau seniai mintyse paskyrėme.
+  citata_rodoma: "Taip pat norime\nuždrausti ir uždraudžiame bei užginame perkėlimus, vadi­\nnamus plaustais, per tą pačią Vilijos upę, kad nė vienas iš\nmūsų pareigūnų ir valdinių jų naudoti negali tarp Verkių kai­\nmo prie Vilniaus vyskupijos ir Panerių kaimo, Vilniaus baž­\nnyčios kapitulai priklausančių, aukštyn nęi žemyn dėl paken­\nkimo tam pačiam mūsų nustatytam muitui, su bausmėmis,\naukščiau mūsų nurodytomis. O kadangi mes, kaip anksčiau\ntvirtinome, skatinami gailesčio mūsų pavaldiniams, minėtą\ntiltą pastatyti ir nutiesti įsakėme, taipgi ir jo muitą, arba mo­\nkestį, skirtą jam taisyti bei neturtingų ligotų žmonių naudai\njau seniai mintyse paskyrėme."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-84412
+    - t-84414
 
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

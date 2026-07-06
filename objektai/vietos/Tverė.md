@@ -20,11 +20,6 @@ datos:
   - '2026 m.'
 date_start: '1328'
 date_end: '2026'
-description: 'Tverė – Rusios kunigaikštija, svarbi Lietuvos ir Maskvos varžybose dėl įtakos Algirdo, Vytauto ir Kazimiero laikais.'
-socialDescription: 'Tverė buvo viena svarbiausių Rusios kunigaikštijų Lietuvos rytų politikoje: čia susikirto Algirdo, Vytauto, Švitrigailos ir Maskvos interesai.'
-seo_atnaujinta: '2026-07-02T23:12:35.200529+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -35,189 +30,565 @@ tags:
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Tverė
 
 ## Santrauka
 
-Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kunigaikštija, dėl kurios įtakos varžėsi Lietuva ir Maskva. Algirdas gynė Tverės kunigaikščio Mykolo teises, o Vytautas siekė išlaikyti įtaką Tverėje savo rytų politikoje. 1430 m. Tverės kunigaikščiai dalyvavo Vytauto suvažiavime Trakuose ir Vilniuje, o 1449 m. Tverė liko Lietuvos įtakos srityje.
+Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kunigaikščio savo dukterį. Norėdamas turėti sąjungininką prieš Maskvą, jis vedė Tverės kunigaikščio seserį Julijoną. Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaikščiai; atvyko daugybė Vytauto priklausomų rusų kunigaikščių; pagaliau atvyko pats imperatorius Zigmantas, popiežiaus legatas ir daugelio Vokietijos miestų ir kunigaikščių atstovų.
 
 ## Teiginiai
 
 <a id="claim-t-180675"></a>
-- t-001
+- t-027
   global_id: t-180675
-  teiginys: 'Vytautas gerais santykiais su Didžiuoju Magistru siekė apsaugoti savo susilpnėjusią įtaką Tverio kunigaikštijoje.'
+  teiginys: "Vytautas gerais santykiais su Didžiuoju Magistru siekė apsaugoti savo susilpnėjusią įtaką Tverio kunigaikštijoje."
+  temporaliniai_duomenys: "įvykio data: 1400 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir paremtas citata apie Tverio kunigaikštiją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "419642-420134; hash=b11db938491057f0406de502fd3db3c4cacb1b4c7da6b22af2c2e32c0f2502c4; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tverė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=90"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tverė\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-164278
 
 <a id="claim-t-180677"></a>
-- t-002
+- t-019
   global_id: t-180677
-  teiginys: 'Popiežius Eugenijus IV 1434 m. laiške užtarė Sofiją, Tverės kunigaikščio Boriso dukterį, patekusią Žygimanto galion.'
+  teiginys: "Popiežius Eugenijus IV 1434 m. laiške užtarė Sofiją, Tverės kunigaikščio Boriso dukterį, patekusią Žygimanto galion."
+  temporaliniai_duomenys: "įvykio data: 1434 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "513504-514034; hash=9aa393cff4a9c41695dfc0987c099eabde83e041fafc6f93c5d5a126033d43b4; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Borisas (Tverės kunigaikštis): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tverė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Borisas (Tverės kunigaikštis): mention_match, person, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tverė\" parinktas kaip owner_note_path. Targetas \"Borisas (Tverės kunigaikštis)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-013
+    - c-164284
 
 <a id="claim-t-180678"></a>
-- t-003
+- t-014
   global_id: t-180678
-  teiginys: 'Vytauto rytų politikoje Tverė buvo viena iš sričių, kurią jis siekė paimti savo valdžion arba turėti jai didelę įtaką.'
+  teiginys: "Vytauto rytų politikoje Tverė buvo viena iš sričių, kurią jis siekė paimti savo valdžion arba turėti jai didelę įtaką."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "652643-653096; hash=f0787908e3cc403d48fe40b24ddcfbcb5355fa9327bf241fc4628fdc900aa646; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Viena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tverė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tverė\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-011
+    - c-164281
 
 <a id="claim-t-180679"></a>
-- t-004
+- t-013
   global_id: t-180679
-  teiginys: 'Į Vytauto suvažiavimą atvyko Maskvos didysis kunigaikštis, Tverės-Riazanės, Naugardo ir Pskovo kunigaikščiai bei kiti pasiuntiniai.'
+  teiginys: "Į Vytauto suvažiavimą atvyko Maskvos didysis kunigaikštis, Tverės-Riazanės, Naugardo ir Pskovo kunigaikščiai bei kiti pasiuntiniai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "523585-523977; hash=99682e2ec5022bd9b1ad11b7a89741233c97d4c790c0a0de28df37e92f039359; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Naugardas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tverė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Naugardas: mention_match, place, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tverė\" parinktas kaip owner_note_path. Targetas \"Naugardas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-012
+    - c-164282
 
 <a id="claim-t-180680"></a>
-- t-005
+- t-007
   global_id: t-180680
-  teiginys: 'Algirdas gynė Tverės kunigaikščio Mykolo teises ir ginklu trukdė Maskvai įsitvirtinti Tverėje.'
+  teiginys: "Algirdas gynė Tverės kunigaikščio Mykolo teises ir ginklu trukdė Maskvai įsitvirtinti Tverėje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "731947-732220; hash=387c5c1e388af5fd46aa826effc980e1653c39ecdaf8375a4e1174651351dcec; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tverė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tverė\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-164272
 
 <a id="claim-t-180681"></a>
-- t-006
+- t-018
   global_id: t-180681
-  teiginys: '1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai, Maskvos valdovas bei daug kitų svečių iš Rusios.'
+  teiginys: "1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai, Maskvos valdovas bei daug kitų svečių iš Rusios."
+  semantiniai_rysiai: "Tverės ir Riazanės kunigaikščiai keliavo į Trakai (0.82); Tverės ir Riazanės kunigaikščiai keliavo į Vilnius (0.82); Mazovijos kunigaikščiai keliavo į Trakai (0.63); Totoriai keliavo į Trakai (0.58)"
+  temporaliniai_duomenys: "kelionės data: 1430 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "351836-352580; hash=e40c668c2ed112ce48b679c617973ea9bf8a2391d31bc475702f9e39683b1625; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Trakai: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Tverės ir Riazanės kunigaikščiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tverės ir Riazanės kunigaikščiai įvardyti tarp atvykstančių į Trakus svečių."
   pagrindžia:
-    - c-002
+    - c-164268
 
 <a id="claim-t-180684"></a>
-- t-007
+- t-030
   global_id: t-180684
-  teiginys: '1449 m. Kazimieras ir Maskva pasidalijo įtakos sritimis, o Tverė liko Lietuvos įtakoje.'
+  teiginys: "1449 m. Kazimieras ir Maskva pasidalijo įtakos sritimis, o Tverė liko Lietuvos įtakoje."
+  temporaliniai_duomenys: "įvykio data: 1449 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Fragmentas paverstas pilnu faktiniu sakiniu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "387970-388338; hash=545d6c853acc830278f04fd02144487c18846bfcc0e838b47b1aca727a65d921; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tverė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tverė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-164274
 
 <a id="claim-t-180686"></a>
-- t-008
+- t-011
   global_id: t-180686
-  teiginys: '1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila sustiprino ryšius su Tverės kunigaikščiais.'
+  teiginys: "1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila sustiprino ryšius su Tverės kunigaikščiais."
+  semantiniai_rysiai: "Švitrigaila sudarė sutartį su Kryžiuočių ordinas (0.84); Švitrigaila buvo sąjungininkas su Kryžiuočių ordinas (0.76)"
+  temporaliniai_duomenys: "įvykio data: 1432 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "265155-265555; hash=66cbce3130441cd058a49ca94c1a0a50a96c42732a8b833e05c6236d89ce1980; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai mini Švitrigailos ir Ordino patvirtintą anksčiau pasirašytą sutartį."
   pagrindžia:
-    - c-005
+    - c-164273
 
 <a id="claim-t-180687"></a>
-- t-009
+- t-028
   global_id: t-180687
-  teiginys: 'Maskva privertė Lietuvos sąjungininkę Tverę pasiduoti jos valdžiai.'
+  teiginys: "Maskva privertė Lietuvos sąjungininkę Tverę pasiduoti jos valdžiai."
+  temporaliniai_duomenys: "įvykio data: 1328 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "388829-389097; hash=bae85570ea5420dee79bb4f9d1a28822b8eb4a3b69e674a5e85b5912ff46a16a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tverė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tverė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-010
+    - c-164279
+
+<a id="claim-t-180686"></a>
+- t-011
+  global_id: t-180686
+  teiginys: "1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila sustiprino ryšius su Tverės kunigaikščiais."
+  semantiniai_rysiai: "Švitrigaila sudarė sutartį su Kryžiuočių ordinas (0.84); Švitrigaila buvo sąjungininkas su Kryžiuočių ordinas (0.76)"
+  temporaliniai_duomenys: "įvykio data: 1432 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "265155-265555; hash=66cbce3130441cd058a49ca94c1a0a50a96c42732a8b833e05c6236d89ce1980; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai mini Švitrigailos ir Ordino patvirtintą anksčiau pasirašytą sutartį."
+  pagrindžia:
+    - c-164273
 
 <a id="claim-t-180689"></a>
-- t-011
+- t-027
   global_id: t-180689
-  teiginys: 'Kazimierui pasidalijus įtakos sritimis su Maskva, Tverė buvo palikta Lietuvos įtakoje.'
+  teiginys: "Kazimierui pasidalijus įtakos sritimis su Maskva, Tverė buvo palikta Lietuvos įtakoje."
+  temporaliniai_duomenys: "įvykio data: 1449 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "387970-388338; hash=545d6c853acc830278f04fd02144487c18846bfcc0e838b47b1aca727a65d921; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tverė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tverė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-164274
 
 <a id="claim-t-180690"></a>
-- t-012
+- t-022
   global_id: t-180690
-  teiginys: '1328 m. Maskvos kunigaikštis, pasinaudojęs Tverėje kilusiu sukilimu prieš Aukso ordą, gavo mongolų leidimą rinkti duoklę iš kitų Rusios kunigaikštijų.'
+  teiginys: "1328 m. Maskvos kunigaikštis, pasinaudojęs Tverėje kilusiu sukilimu prieš Aukso ordą, gavo mongolų leidimą rinkti duoklę iš kitų Rusios kunigaikštijų."
+  temporaliniai_duomenys: "įvykio data: 1328 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Tverę ir atitinka citatą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "388829-389097; hash=bae85570ea5420dee79bb4f9d1a28822b8eb4a3b69e674a5e85b5912ff46a16a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Mongolai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tverė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Mongolai: mention_match, group, gap=48"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tverė\" parinktas kaip owner_note_path. Targetas \"Mongolai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-164271
 
 <a id="claim-t-180691"></a>
-- t-013
+- t-029
   global_id: t-180691
-  teiginys: 'Vytautas rytų politikoje siekė valdyti arba stipriai veikti Tverę, Maskvą, Pskovą, Naugardą, Riazanę ir totorius.'
+  teiginys: "Vytautas rytų politikoje siekė valdyti arba stipriai veikti Tverę, Maskvą, Pskovą, Naugardą, Riazanę ir totorius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "652643-653096; hash=f0787908e3cc403d48fe40b24ddcfbcb5355fa9327bf241fc4628fdc900aa646; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Riazanė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tverė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Riazanė: mention_match, place, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tverė\" parinktas kaip owner_note_path. Targetas \"Riazanė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-011
+    - c-164281
 
 <a id="claim-t-180692"></a>
-- t-014
+- t-028
   global_id: t-180692
-  teiginys: 'Tverio-Riazanės kunigaikščiai buvo tarp atvykusių dalyvių kartu su Naugardo ir Pskovo kunigaikščiais.'
+  teiginys: "Tverio-Riazanės kunigaikščiai buvo tarp atvykusių dalyvių kartu su Naugardo ir Pskovo kunigaikščiais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "523336-523905; hash=8831aaa45c4f9669960a6fd62ecfd05ade86254f4c0bbc23cca78b194e26c714; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Naugardas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tverė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Naugardas: mention_match, place, gap=67"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tverė\" parinktas kaip owner_note_path. Targetas \"Naugardas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-164276
 
 <a id="claim-t-180694"></a>
-- t-015
+- t-020
   global_id: t-180694
-  teiginys: 'Po Aleksandro ir Elenos santuokos į Vilnių atvykstantiems pirkliams iš Tverės ir kitų Rusios miestų imta steigti naujas užeigas.'
+  teiginys: "Po Aleksandro ir Elenos santuokos į Vilnių atvykstantiems pirkliams iš Tverės ir kitų Rusios miestų imta steigti naujas užeigas."
+  temporaliniai_duomenys: "įvykio data: 1500 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir suformuluotas pilnas faktas apie Tverės pirklius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "161683-161922; hash=2871424ce8643b81349459fbac13ef4af4d6d53b157e19f67de599eeaa0caac0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tverė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=15"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tverė\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-164275
 
 <a id="claim-t-180695"></a>
-- t-016
+- t-012
   global_id: t-180695
-  teiginys: 'Susilpnėjusią įtaką Rusijoje, ypač Tverės kunigaikštijoje, buvo siekiama apsaugoti gerais santykiais su didžiuoju magistru.'
+  teiginys: "Susilpnėjusią įtaką Rusijoje, ypač Tverės kunigaikštijoje, buvo siekiama apsaugoti gerais santykiais su didžiuoju magistru."
+  temporaliniai_duomenys: "įvykio data: 1400 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "419642-420134; hash=b11db938491057f0406de502fd3db3c4cacb1b4c7da6b22af2c2e32c0f2502c4; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tverė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tverė\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-164278
 
 <a id="claim-t-180697"></a>
 - t-017
   global_id: t-180697
-  teiginys: 'Algirdo žmonos, Tverės kunigaikštytės, pakviesti bazilijonai jo valdymo pradžioje įsikūrė Vilniuje ir turėjo medinę bažnyčią.'
+  teiginys: "Algirdo žmonos, Tverės kunigaikštytės, pakviesti bazilijonai jo valdymo pradžioje įsikūrė Vilniuje ir turėjo medinę bažnyčią."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "81099-81341; hash=729401bf26e0a27de7ab21e6ce8b8a72c74bcb0c8a35168fd54f25e5575184ba; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tverė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=74"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tverė\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-014
+    - c-164286
 
 <a id="claim-t-180699"></a>
-- t-018
+- t-025
   global_id: t-180699
-  teiginys: '1430 metais į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės kunigaikščiai.'
+  teiginys: "1430 metais į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės kunigaikščiai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "351836-352580; hash=e40c668c2ed112ce48b679c617973ea9bf8a2391d31bc475702f9e39683b1625; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Mazovijos kunigaikščiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tverė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Mazovijos kunigaikščiai: mention_match, group, gap=7"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tverė\" parinktas kaip owner_note_path. Targetas \"Mazovijos kunigaikščiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-164268
 
 <a id="claim-t-180700"></a>
-- t-019
+- t-016
   global_id: t-180700
-  teiginys: 'Algirdas buvo vedęs Tverės kunigaikštytę Mariją ir, sekdamas Gedimino politika, leido Vilniuje veikti Romos bei graikų apeigų dvasininkams.'
+  teiginys: "Algirdas buvo vedęs Tverės kunigaikštytę Mariją ir, sekdamas Gedimino politika, leido Vilniuje veikti Romos bei graikų apeigų dvasininkams."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "80603-81098; hash=dc0006410270a48f685c59da79f67dc29f18cd3b25f448ff0e6aee92e1317ec5; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tverė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=41"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tverė\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-016
+    - c-164291
 
 <a id="claim-t-180701"></a>
-- t-020
+- t-031
   global_id: t-180701
-  teiginys: 'Maskva privertė Lietuvos sąjungininkę Tverę pasiduoti savo valdžiai.'
+  teiginys: "Maskva privertė Lietuvos sąjungininkę Tverę pasiduoti savo valdžiai."
+  temporaliniai_duomenys: "įvykio data: 1328 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas kontekstinis įvardis ir nereikalinga detalė apie Možaiską."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "388829-389097; hash=bae85570ea5420dee79bb4f9d1a28822b8eb4a3b69e674a5e85b5912ff46a16a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tverė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tverė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-010
+    - c-164279
 
 <a id="claim-t-180702"></a>
-- t-021
+- t-026
   global_id: t-180702
-  teiginys: 'Švitrigailos žmona Sofija buvo Tverės kunigaikščio Boriso duktė ir vėliau pateko Žygimanto valdžion.'
+  teiginys: "Švitrigailos žmona Sofija buvo Tverės kunigaikščio Boriso duktė ir vėliau pateko Žygimanto valdžion."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "513504-514034; hash=9aa393cff4a9c41695dfc0987c099eabde83e041fafc6f93c5d5a126033d43b4; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Borisas (Tverės kunigaikštis): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tverė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Borisas (Tverės kunigaikštis): mention_match, person, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tverė\" parinktas kaip owner_note_path. Targetas \"Borisas (Tverės kunigaikštis)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-013
+    - c-164284
 
 <a id="claim-t-180703"></a>
-- t-022
+- t-010
   global_id: t-180703
-  teiginys: '1328 m. Tverėje kilus sukilimui prieš Aukso ordą, Maskvos kunigaikštis gavo mongolų leidimą rinkti duoklę iš kitų Rusios kunigaikštijų.'
+  teiginys: "1328 m. Tverėje kilus sukilimui prieš Aukso ordą, Maskvos kunigaikštis gavo mongolų leidimą rinkti duoklę iš kitų Rusios kunigaikštijų."
+  temporaliniai_duomenys: "įvykio data: 1328 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "53277-53638; hash=03163971c820c38dab73a42a97110abfe614987d1d60158ef77b0600eecb0c5e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tverė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tverė\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-43926
 
 <a id="claim-t-180704"></a>
-- t-023
+- t-029
   global_id: t-180704
-  teiginys: 'Tverės kunigaikštystė tuo metu buvo viena galingiausių greta Maskvos.'
+  teiginys: "Tverės kunigaikštystė tuo metu buvo viena galingiausių greta Maskvos."
+  temporaliniai_duomenys: "įvykio data: 1500 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalinta kontekstinė pradžia ir teiginys suformuluotas aiškiau."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "161683-161922; hash=2871424ce8643b81349459fbac13ef4af4d6d53b157e19f67de599eeaa0caac0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tverė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=61"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tverė\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-015
+    - c-164288
 
 <a id="claim-t-185166"></a>
-- t-024
+- t-035
   global_id: t-185166
-  teiginys: 'Tverėje kilus maištui, Tverės didysis kunigaikštis, valdinių išvytas iš senolių valdų, pabėgo pas karalių į Vilnių.'
+  teiginys: "Tverėje kilus maištui, Tverės didysis kunigaikštis, valdinių išvytas iš senolių valdų, pabėgo pas karalių į Vilnių."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "939682-940261; hash=90b704ab530dc855a42d6ae562a2f0c2fc250a982e57b96234f3a9ee6e68169d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tverė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=108"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tverė\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-017
+    - c-168527
 
 <a id="claim-t-185167"></a>
-- t-025
+- t-036
   global_id: t-185167
-  teiginys: 'Tverė, atsikračiusi teisėto kunigaikščio valdžios, susivienijo su maskvėnais.'
+  teiginys: "Tverė, atsikračiusi teisėto kunigaikščio valdžios, susivienijo su maskvėnais."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1486 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "940028-940759; hash=52b0ba10683fb0597d6214889c038e1646ca007e4a8d3e810612ef94b1045e31; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tverė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=66"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tverė\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-018
+    - c-168528
 
 <a id="claim-t-187665"></a>
 - t-026
   global_id: t-187665
-  teiginys: 'Tverė teikė karinę pagalbą Švitrigailai, nes jos didysis kunigaikštis Borisas Aleksandravičius buvo jo giminaitis ir laikėsi sutarties su LDK.'
+  teiginys: "Tverė teikė karinę pagalbą Švitrigailai, nes jos didysis kunigaikštis Borisas Aleksandravičius buvo jo giminaitis ir laikėsi sutarties su LDK."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "513504-514034; hash=9aa393cff4a9c41695dfc0987c099eabde83e041fafc6f93c5d5a126033d43b4; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> didysis kunigaikštis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tverė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "didysis kunigaikštis: mention_match, thing, gap=49"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tverė\" parinktas kaip owner_note_path. Targetas \"didysis kunigaikštis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-019
+    - c-170607
+
+<a id="claim-t-193236"></a>
+- t-037
+  global_id: t-193236
+  teiginys: "Norėdamas turėti sąjungininką prieš Maskvą, jis vedė Tverės kunigaikščio seserį Julijoną."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "191249-191566; hash=744cc849e5e9eca68d457e9ee7cd9bdbaf1288e8f9f72dadc7be9b3a674dc4c9; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-175973
+
+<a id="claim-t-193237"></a>
+- t-038
+  global_id: t-193237
+  teiginys: "Švitrigaila ne tik kad nenutraukė ryšių su savo sąjungininku ordinu, bet dar padarė naują sąjungą su Maskva ir Tvere."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "355725-356024; hash=e61836bb796189e1a7083daba4ea5089eb524418f8ef0ac4e10783b520f61391; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-175974
+
+<a id="claim-t-193238"></a>
+- t-039
+  global_id: t-193238
+  teiginys: "Dėl šio kunigaikščio titulo varžėsi Vladimiro, Tverės ir Maskvos kunigaikščiai."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "385254-385587; hash=5c450e023d4b3b40b58dc065169dd92a385a5e7faec0d4ccb2c4ea65cdb0646f; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-175975
 - susijęs iš [[objektai/asmenys/Dmitrijus Ivanovičius.md#claim-t-183734|Dmitrijus Ivanovičius]]: Maskvos didysis kunigaikštis Dmitrijus Ivanovičius, siekdamas plėsti savo valdžią ir remiamas Ordos, puolė Tverę.
 - susijęs iš [[objektai/asmenys/Dmitrijus Ivanovičius.md#claim-t-40085|Dmitrijus Ivanovičius]]: Maskvos didysis kunigaikštis Dmitrijus Ivanovičius, siekdamas plėsti savo valdžią ir remiamas Ordos, puolė Tverę.
 - susijęs iš [[objektai/asmenys/Michailas Aleksandrovičius.md#claim-t-183753|Michailas Aleksandrovičius]]: Tverės kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą, prašė Algirdo pagalbos ir kvietė žygiuoti į Maskvą.
@@ -383,6 +754,7 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
     sios Rusios kunigaikštijų. Tai reiškė, kad Maskva tapo nauju nuo
     Lietuvos nepriklausiusių rusėnų žemių centru.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -406,6 +778,7 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
     nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
     magistras, Mazovijos kunigaikščiai ir totorių chanai84.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -429,6 +802,7 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
     gavo mongolų leidimą rinkti duoklę Aukso ordai iš kitų seno-
     sios Rusios kunigaikštijų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -445,6 +819,7 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
     Tris kartus (1368, 1370, 1372) jis, nepasiekdamas aiškios pergalės,
     žygiavo prieš Maskvą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -466,6 +841,7 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
     Tverės kunigaikščiais. Tuo tarpu Jogailos
     Lenkijos santykiai su Ordinu aštrėjo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -484,6 +860,7 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
     tuvos įtakoje — Tverė. Riazanei buvo palikta teisė pačiai
     pasirinkti sau globą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -505,6 +882,7 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
     pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
     savo atvykimą iškart pranešti pilininkui4 3  44.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -527,6 +905,7 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
     riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
     niai^2 ).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -546,6 +925,7 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
     mas įsiteikti pačiam Ordinui, 1400 m. padarė žygį prieš Žemai­
     čius.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -563,6 +943,7 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
     (pirmasis buvo 1471 m., antrasis — 1479 m.) prijungė prie
     Maskvos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -582,6 +963,7 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
     čiai, totoriai. Vytautas nori visus juos paimti savo valdžion
     ar bent turėti jiems didelę įtaką.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -600,6 +982,7 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
     niai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­
     džiai priimti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -629,6 +1012,7 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
     taičiui, rašytame iš Florencijos 1434
     metų spalio 20 dieną.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -645,6 +1029,7 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
     Bemaž tuo pat metu stovėjo ir kita krikščionių šventykla,
     Šv.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -661,6 +1046,7 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
     savo dukterį. Apskritai Gediminas daug pasiekė gausingos savo
     šeimos vedybomis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -685,6 +1071,7 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
     o graikų apeigų dvasininkams atlikti savo tikėjimo apei­
     gas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -716,6 +1103,7 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
     nigaikštis, valdinių išvytas iš savo senolių valdų, pabė­
     go pas karalių.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -747,6 +1135,7 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
     jėgas, ji galėjo išvesti į kovos lauką ligi penkiasdešim­
     ties tūkstančių raitelių.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -767,11 +1156,506 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
     tis Borisas Aleksandravičius dar 1427 m. buvo sudaręs su LDK su­
     tarti, kurios laikėsi ir Vytautui mirus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-026
+
+- c-020
+  santrauka: 'Norėdamas turėti sąjungininką prieš Maskvą, jis vedė Tverės kunigaikščio seserį Julijoną.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Rinkdamas į savo valdžią
+    centrinės Rusijos kunigaikštystes, jis irgi susidūrė su sustiprė-
+    jusią Maskva. Norėdamas turėti sąjungininką prieš Maskvą,
+    jis vedė Tverės kunigaikščio seserį Julijoną. Kadangi tuo
+    metu Tverė varžėsi su Maskva dėl įtakos, tai Algirdui teko net
+    kelis kartus padėti savo svainiui prieš Maskvą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-027
+
+- c-021
+  santrauka: 'Švitrigaila ne tik kad nenutraukė ryšių su savo sąjungininku ordinu, bet dar padarė naują sąjungą su Maskva ir Tvere.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Valstybei pasidalinus pusiau,
+    buvo aišku, kad ginčą turės išspręsti ginklas. Švitrigaila ne tik
+    kad nenutraukė ryšių su savo
+    sąjungininku ordinu, bet dar pa-
+    darė naują sąjungą su Maskva ir
+    Tvere. Tad Zigmantui nebeliko
+    kito sąjungininko, kaip tik Len-
+    kija, kuri jam padėjo net ruo-
+    šiant sąmokslą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-028
+
+- c-022
+  santrauka: 'Dėl šio kunigaikščio titulo varžėsi Vladimiro, Tverės ir Maskvos kunigaikščiai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kipča-
+    ko, arba vadinamosios Auksinės, Ordos chanai (iš Sarajaus)
+    rinkdavo iš jų mokesčius ir skirdavo jiems kunigaikščius, kurių
+    vienas buvo laikomas didžiuoju. Dėl šio kunigaikščio titulo
+    varžėsi Vladimiro, Tverės ir Maskvos kunigaikščiai. Chanas
+    tą titulą atiduodavo tam, kuris geriau jam įsiteikdavo ir daugiau
+    sumokėdavo pinigų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-029
+
+## Citatos
+
+- id: c-43926
+  citata_originali: |
+    1328 m. Maskvos kunigaikštis, pasinaudojęs tuo metu vyriau-
+    sioje rusėnų žemėje - Tverėje kilusiu sukilimu prieš Aukso ordą
+    (kurios vasalais tuo metu buvo visi ne Lietuvos valdyti rusėnai),
+    gavo mongolų leidimą rinkti duoklę Aukso ordai iš kitų seno-
+    sios Rusios kunigaikštijų. Tai reiškė, kad Maskva tapo nauju nuo
+    Lietuvos nepriklausiusių rusėnų žemių centru.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180703
+
+- id: c-164268
+  citata_originali: |
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    priešinimasis, nei pagaliau Jogailos pasiskelbimas, kad per­
+    leidžiąs Lenkijos karūną Vytautui. Vytautas, vienintelio
+    troškimo apimtas, sukviečia pas save įžymiausius šiaurės
+    šalių kunigaikščius arba jų pasiuntinius, ketindamas jiems
+    dalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430
+    metais), kur didysis kunigaikštis paprastai gyvendavo di­
+    džiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­
+    gaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir
+    Riazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­
+    vos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­
+    nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
+    magistras, Mazovijos kunigaikščiai ir totorių chanai84.
+  citata_rodoma: "Į Trakus (1430\nmetais), kur didysis kunigaikštis paprastai gyvendavo di­\ndžiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­\ngaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir\nRiazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­\nvos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­\nnus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos\nmagistras, Mazovijos kunigaikščiai ir totorių chanai84."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180681
+    - t-180699
+
+- id: c-164271
+  citata_originali: |
+    ## Puslapis 21
+
+    Gerai organizuota Lietuvos kariuomenė, vedama Lietuvos val-
+    dovo Algirdo, rusų žemėse sutriuškino su lietuviais konkuravusius
+    mongolus prie Mėlynųjų vandenų.
+
+    1328 m. Maskvos kunigaikštis, pasinaudojęs tuo metu vyriau-
+    sioje rusėnų žemėje - Tverėje kilusiu sukilimu prieš Aukso ordą
+    (kurios vasalais tuo metu buvo visi ne Lietuvos valdyti rusėnai),
+    gavo mongolų leidimą rinkti duoklę Aukso ordai iš kitų seno-
+    sios Rusios kunigaikštijų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180690
+
+- id: c-164272
+  citata_originali: |
+    Vieni jų ieškojo Lietuvos pagalbos, kiti rėmėsi Maskva.
+    Gindamas teises savo švogerio, Tverės kunigaikščio Mykolo
+    (Aleksandro sūnaus), Algirdas ginklu kliudė ten įsistiprinti Maskvai.
+    Tris kartus (1368, 1370, 1372) jis, nepasiekdamas aiškios pergalės,
+    žygiavo prieš Maskvą.
+  citata_rodoma: "Gindamas teises savo švogerio, Tverės kunigaikščio Mykolo\n(Aleksandro sūnaus), Algirdas ginklu kliudė ten įsistiprinti Maskvai.\nTris kartus (1368, 1370, 1372) jis, nepasiekdamas aiškios pergalės,\nžygiavo prieš Maskvą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180680
+
+- id: c-164273
+  citata_originali: |
+    1432 m. pradžioje derybos tarp lenkų
+    ir lietuvių strigo (tuo metu Jogaila sto-
+    vėjo Liubline, Švitrigaila su kryžiuo-
+    čių atstovais - Brastoje). Gegužės 15 d.
+
+    Skirsnemunėje Švitrigaila ir Ordinas
+    patvirtino prieš metus pasirašytą sutartį,
+    taip pat Švitrigaila sustiprino ryšius su
+    Naugardu, Pskovu, Mozūrija, Odojevo ir
+    Tverės kunigaikščiais. Tuo tarpu Jogailos
+    Lenkijos santykiai su Ordinu aštrėjo.
+  citata_rodoma: "Gegužės 15 d.\n\nSkirsnemunėje Švitrigaila ir Ordinas\npatvirtino prieš metus pasirašytą sutartį,\ntaip pat Švitrigaila sustiprino ryšius su\nNaugardu, Pskovu, Mozūrija, Odojevo ir\nTverės kunigaikščiais. Tuo tarpu Jogailos\nLenkijos santykiai su Ordinu aštrėjo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180688
+    - t-180686
+
+- id: c-164274
+  citata_originali: |
+    Tačiau neparemti jie pralaimėjo, ir Kazi-
+    mierui teko padaryti su Maskva amžinąją taiką (1449 m.), —
+    vadinasi, teko pripažinti Maskvą esant visiškai lygią su Lietuva.
+    Maža to, Kazimieras net pasidalino su Maskva įtakos sritimis:
+    Maskvos įtakoje buvo palikti Pskovas su D. Naugardu, o Lie-
+    tuvos įtakoje — Tverė. Riazanei buvo palikta teisė pačiai
+    pasirinkti sau globą.
+  citata_rodoma: "Maža to, Kazimieras net pasidalino su Maskva įtakos sritimis:\nMaskvos įtakoje buvo palikti Pskovas su D. Naugardu, o Lie-\ntuvos įtakoje — Tverė. Riazanei buvo palikta teisė pačiai\npasirinkti sau globą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180689
+    - t-180684
+
+- id: c-164275
+  citata_originali: |
+    Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
+    to ginčai, ir po kelerių metų (1500 m.) anoji sutartis su caru
+    buvo nutraukta. Tačiau Aleksandro ir Elenos santuoka išplė­
+    tė prekybinius Vilniaus santykius su Rusios miestais ir ska­
+    tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­
+    tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.
+    Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
+    pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
+    savo atvykimą iškart pranešti pilininkui4 3  44.
+  citata_rodoma: "Tačiau Aleksandro ir Elenos santuoka išplė­\ntė prekybinius Vilniaus santykius su Rusios miestais ir ska­\ntino steigti naujas užeigas pirkliams, atvykstantiems į Lie­\ntuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.\nKaralius leido miestui pastatyti Svečių namus, kuriuose rusų\npirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie\nsavo atvykimą iškart pranešti pilininkui4 3  44."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180694
+
+- id: c-164276
+  citata_originali: |
+    Atvyko
+    Jogaila su savo šimtais palydovų, Romos ciesorius Zigmantas
+    su savo žmona Barbora Cyleikaite, Jogailos antrosios žmonos
+    giminiete, — lydimi daugelio savo baronų; ir pats Vytautas su
+    gausybe savo lėnininkų pasiuntinių, didikų ir kunigaikščių.
+    Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
+    čiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­
+    zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­
+    niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­
+    riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
+    niai^2 ).
+  citata_rodoma: "Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­\nčiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­\nzūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­\nniaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­\nriaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­\nniai^2 )."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180692
+
+- id: c-164278
+  citata_originali: |
+    Tai Vytautas gerai suprato ir todėl sten­
+    gėsi, kad ir mažais patarnavimais, palenkti tiek lenkų, tiek ir
+    Ordino simpatijas savo pusėn, kas šiuo laiku jam taip buvo rei­
+    kalinga. Naudodamasis gerais santykiais su Didžiuoju Ma­
+    gistru, jis norėjo apsaugoti savo šiek tiek susilpnėjusią įtaką
+    Rusijoj, ypač Tverio kunigaikštijoj. Jis vėl ėmė artėti su toto­
+    riais ir stengėsi su jais atnaujinti gerus santykius^2 ); o norėda­
+    mas įsiteikti pačiam Ordinui, 1400 m. padarė žygį prieš Žemai­
+    čius.
+  citata_rodoma: "Naudodamasis gerais santykiais su Didžiuoju Ma­\ngistru, jis norėjo apsaugoti savo šiek tiek susilpnėjusią įtaką\nRusijoj, ypač Tverio kunigaikštijoj. Jis vėl ėmė artėti su toto­\nriais ir stengėsi su jais atnaujinti gerus santykius^2 ); o norėda­\nmas įsiteikti pačiam Ordinui, 1400 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180695
+    - t-180675
+
+- id: c-164279
+  citata_originali: |
+    Tad Maskva
+    galėjo laisvai veikti. Pirmiausia ji privertė savo valdžiai pasi-
+    duoti Lietuvos sąjungininkus Tverę ir vėliau Možaiską. Psko-
+    vas jai buvo palankus; o D. Naugardą Jonas III po antrojo žygio
+    (pirmasis buvo 1471 m., antrasis — 1479 m.) prijungė prie
+    Maskvos.
+  citata_rodoma: "Pirmiausia ji privertė savo valdžiai pasi-\nduoti Lietuvos sąjungininkus Tverę ir vėliau Možaiską. Psko-\nvas jai buvo palankus; o D. Naugardą Jonas III po antrojo žygio\n(pirmasis buvo 1471 m., antrasis — 1479 m.) prijungė prie\nMaskvos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180687
+    - t-180701
+
+- id: c-164281
+  citata_originali: |
+    Palaikydamas labai gyvus politinius santykius
+    su lenkais ir Ordinu, Vytautas turėjo visą laiką kreipti daug
+    dėmesio ir į rytus. Per metų metus rytų reikalai jam vyrauja;
+    jis taikosi ir su vakarų kaimynais, kad tik turėtų laisvas rankas
+    rytuose, kur jam ir priešų ir draugų buvo daug: Pskovas, Nau­
+    gardas, Maskva, Tveris, Riazanė, Okos aukštupio kunigaikš­
+    čiai, totoriai. Vytautas nori visus juos paimti savo valdžion
+    ar bent turėti jiems didelę įtaką.
+  citata_rodoma: "Per metų metus rytų reikalai jam vyrauja;\njis taikosi ir su vakarų kaimynais, kad tik turėtų laisvas rankas\nrytuose, kur jam ir priešų ir draugų buvo daug: Pskovas, Nau­\ngardas, Maskva, Tveris, Riazanė, Okos aukštupio kunigaikš­\nčiai, totoriai. Vytautas nori visus juos paimti savo valdžion\nar bent turėti jiems didelę įtaką."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180678
+    - t-180691
+
+- id: c-164282
+  citata_originali: |
+    Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
+    čiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­
+    zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­
+    niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­
+    riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
+    niai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­
+    džiai priimti.
+  citata_rodoma: "Atkeliavo ir Vytauto giminaičiai, Mo­\nzūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­\nniaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­\nriaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­\nniai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­\ndžiai priimti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180679
+
+- id: c-164284
+  citata_originali: |
+    Taigi
+    klysta Kojelavičius ir Strij-
+    k o v s k i s sakydami, kad Švitrigai­
+    la pabėgęs į Smolenską, bet ne į Po­
+    locką.
+    Tai, ką mūsų kronikininkai kal­
+    ba apie Švitrigailos žmonos sugavi­
+    mą Ašmenoje, esą jis neįstengęs iš­
+    sivežti kartu - tai nėra tikslu, nes tais
+    pat 1432 metais lapkričio 30 dieną
+    Švitrigaila, rašydamas Livonijos ma­
+    gistrui, užsimena, kad žmona jam
+    pagimdžiusi sūnų. Tačiau ši jo žmo­
+    na Sofija, Tverės kunigaikščio Bori­
+    so duktė, vėliau pateko Žygimanto
+    galion; nes popiežius Eugenijus IV
+    užtarė ją laiške Žygimantui Kęstu-
+    taičiui, rašytame iš Florencijos 1434
+    metų spalio 20 dieną.
+  citata_rodoma: "Tačiau ši jo žmo­\nna Sofija, Tverės kunigaikščio Bori­\nso duktė, vėliau pateko Žygimanto\ngalion; nes popiežius Eugenijus IV\nužtarė ją laiške Žygimantui Kęstu-\ntaičiui, rašytame iš Florencijos 1434\nmetų spalio 20 dieną."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180677
+    - t-180702
+
+- id: c-164286
+  citata_originali: |
+    Jau Algirdo viešpatavimo pradžioje Šv. Bazilijaus ordi­
+    no vienuoliai, jo žmonos, minėtosios Tverės kunigaikštytės,
+    atkviesti, įsikūrė Vilniuje ir turėjo medinę savo bažnyčią17.
+    Bemaž tuo pat metu stovėjo ir kita krikščionių šventykla,
+    Šv.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180697
+
+- id: c-164288
+  citata_originali: |
+    Tuo metu, greta Maskvos, visų ga-
+    lingiausia buvo Tverės kunigaikštystė. Kad ji nekliudytų, Gedi-
+    minas su ja susigiminiavo, išleisdamas už Tverės kunigaikščio
+    savo dukterį. Apskritai Gediminas daug pasiekė gausingos savo
+    šeimos vedybomis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180704
+
+- id: c-164291
+  citata_originali: |
+    Strijkovskis ir Kojela-
+    pasikrikštijo Jono vardu, priėmęs vidus klysta tvirtindami, esą Jaunu-
+    graikų apeigų tikėjimą. Žr. V\lre- tis buvęs Kęstudo karių suduptas.
+    26
+
+    ## Puslapis 43
+
+    I  KNYGA
+    krikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­
+    ko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte
+    Marija, sekdamas Gedimino politika, leido, be skirtumo, iš
+    Romos atsiųstiems vienuoliams Vilniuje skelbti evangeliją,
+    o graikų apeigų dvasininkams atlikti savo tikėjimo apei­
+    gas.
+  citata_rodoma: "26\n\n## Puslapis 43\n\nI  KNYGA\nkrikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­\nko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte\nMarija, sekdamas Gedimino politika, leido, be skirtumo, iš\nRomos atsiųstiems vienuoliams Vilniuje skelbti evangeliją,\no graikų apeigų dvasininkams atlikti savo tikėjimo apei­\ngas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180700
+
+- id: c-168527
+  citata_originali: |
+    Sutvarkęs Valachijos reikalus, karalius nuvyko į
+    Lietuvą, nes, bėgant metams ir nykstant dvasios žva­
+    lumui, vis labiau vengė valstybinių reikalų ir vis smar­
+    kiau mėgo medžioklę,
+    o ypač taurų, kurių Lenkijoje
+    negalima užtikti. Gyvendamas Vilniuje, priėmė į sve­
+    čius Tverės didįjį kunigaikštį, atklydusį iš tolimos
+    533
+
+    ## Puslapis 532
+
+    Rusios. Kai Tvėrėje ar dėl
+    M a s k v o s
+    ku n ig a ik š-
+    Maskvos valdovo Vasiljevi-
+    tis užima T v e r ę
+    čiaus klastos, ar dėl kokių ki­
+    tų priežasčių kilo maištas, ku­
+    nigaikštis, valdinių išvytas iš savo senolių valdų, pabė­
+    go pas karalių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185166
+
+- id: c-168528
+  citata_originali: |
+    Kai Tvėrėje ar dėl
+    M a s k v o s
+    ku n ig a ik š-
+    Maskvos valdovo Vasiljevi-
+    tis užima T v e r ę
+    čiaus klastos, ar dėl kokių ki­
+    tų priežasčių kilo maištas, ku­
+    nigaikštis, valdinių išvytas iš savo senolių valdų, pabė­
+    go pas karalių. Žadėdamas amžiną santarvę ir deramą
+    karinę pagalbą bet kuriuo at-
+    1486 m e ta i
+    veju, jis ragino ir kalbino
+    karalių atkeršyti už jam pa­
+    darytą skriaudą, ypač dėl to, kad visa Tverė, atsikra­
+    čiusi teisėto kunigaikščio valdžios, susivienijo su mas-
+    kvėnais, o šia sąjunga Vasiljevičius galėjo smarkiai
+    sustiprinti savo jėgas, jeigu jam kuo greičiausiai nebū­
+    siąs duotas atkirtis. Tverė turėjo labai galingas karo
+    jėgas, ji galėjo išvesti į kovos lauką ligi penkiasdešim­
+    ties tūkstančių raitelių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185167
+
+- id: c-170607
+  citata_originali: |
+    * Jaroslavas tikrai buvo Tverės didžiojo kunigaikščio Boriso
+    Aleksandravičiaus brolis. Talkininkaudamas Svitrigai'ai, žuvo Pa­
+    baisko (Ukmergės) m ūšyje 1435 m.
+    Tverė teikė karinę pagalbų Svitrigai'ai. kadangi jos didysis
+    kunigaikšl s (nuo 1425 m.) Boruos Aleksandravičius (1399— I4fil|
+    buvo Švitrigailos giminaitis (Švitrigaila buvo vedęs spėjamų Bonso
+    Aleksandrovičiaus pusseserę Onų); be to, Tverės didysis kunigaikš­
+    tis Borisas Aleksandravičius dar 1427 m. buvo sudaręs su LDK su­
+    tarti, kurios laikėsi ir Vytautui mirus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187665
+
+- id: c-175973
+  citata_originali: |
+    Rinkdamas į savo valdžią
+    centrinės Rusijos kunigaikštystes, jis irgi susidūrė su sustiprė-
+    jusią Maskva. Norėdamas turėti sąjungininką prieš Maskvą,
+    jis vedė Tverės kunigaikščio seserį Julijoną. Kadangi tuo
+    metu Tverė varžėsi su Maskva dėl įtakos, tai Algirdui teko net
+    kelis kartus padėti savo svainiui prieš Maskvą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193236
+
+- id: c-175974
+  citata_originali: |
+    Valstybei pasidalinus pusiau,
+    buvo aišku, kad ginčą turės išspręsti ginklas. Švitrigaila ne tik
+    kad nenutraukė ryšių su savo
+    sąjungininku ordinu, bet dar pa-
+    darė naują sąjungą su Maskva ir
+    Tvere. Tad Zigmantui nebeliko
+    kito sąjungininko, kaip tik Len-
+    kija, kuri jam padėjo net ruo-
+    šiant sąmokslą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193237
+
+- id: c-175975
+  citata_originali: |
+    Kipča-
+    ko, arba vadinamosios Auksinės, Ordos chanai (iš Sarajaus)
+    rinkdavo iš jų mokesčius ir skirdavo jiems kunigaikščius, kurių
+    vienas buvo laikomas didžiuoju. Dėl šio kunigaikščio titulo
+    varžėsi Vladimiro, Tverės ir Maskvos kunigaikščiai. Chanas
+    tą titulą atiduodavo tam, kuris geriau jam įsiteikdavo ir daugiau
+    sumokėdavo pinigų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193238
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Michailas Aleksandrovičius]]

@@ -9,6 +9,18 @@ tags:
   - ivykis
   - miestas
   - upė
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Martyno iš Golino laivo užgrobimas Bugo upėje
 
@@ -37,10 +49,21 @@ Nenurodyta
 <a id="claim-t-62393"></a>
 - t-001
   global_id: t-62393
-  teiginys: 'Martynas iš Golino prie Bugo upės užpuolė prekių laivą, išžudė upeivius ir atplukdė laivą į Torunę.'
+  teiginys: "Martynas iš Golino prie Bugo upės užpuolė prekių laivą, išžudė upeivius ir atplukdė laivą į Torunę."
+  teiginio_tipas: "faktas"
+  semantiniai_rysiai: "Martynas iš Golino keliavo į Torunė (0.78)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "551395-551911; hash=63dde8f9b69c7cb776090809af26a168aa828e42fdef06907503897ed6dbea24; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Torunė: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Martynas iš Golino: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Torunė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo, kad Martynas laivą atplukdė į Torunę, todėl palaikoma krypties sąsaja su Torune."
   pagrindžia:
-    - c-001
-
+    - c-62993
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -62,8 +85,35 @@ Nenurodyta
 
           230 (225).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-62993
+  citata_originali: |
+    229 (224). Apie tą patį
+
+      Tas pats Martynas su keliais savo bendrais patraukė link Lietuvos ir, tris kartus persikėlęs
+    per patvinusius vandenis, priėjo upę, vardu Bugas, o ten pamatė plaukiantį pasroviui
+    ir prikrautą prekių laivą, paskui kurį slaptai  ir leidosi; kai upeiviai papietavę sugulė
+    pokaičio, Martynas juos užpuolė su savo bendrais, visus išžudė, džiūgaudamas įsibrovė į
+    laivą ir jį atplukdė į Torunės miestą, kur jie, pardavę laivą su prekėmis, kiekvienas gavo
+    po 20 markių dalies.
+
+
+
+
+
+          230 (225).
+  citata_rodoma: "229 (224). Apie tą patį\n\n  Tas pats Martynas su keliais savo bendrais patraukė link Lietuvos ir, tris kartus persikėlęs\nper patvinusius vandenis, priėjo upę, vardu Bugas, o ten pamatė plaukiantį pasroviui\nir prikrautą prekių laivą, paskui kurį slaptai  ir leidosi; kai upeiviai papietavę sugulė\npokaičio, Martynas juos užpuolė su savo bendrais, visus išžudė, džiūgaudamas įsibrovė į\nlaivą ir jį atplukdė į Torunės miestą, kur jie, pardavę laivą su prekėmis, kiekvienas gavo\npo 20 markių dalies.\n\n\n\n\n\n      230 (225)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-62393

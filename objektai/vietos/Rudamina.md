@@ -17,6 +17,18 @@ tags:
 amziai:
   - 'XV'
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Rudamina
 
@@ -27,67 +39,163 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
 ## Teiginiai
 
 <a id="claim-t-114961"></a>
-- t-001
+- t-008
   global_id: t-114961
-  teiginys: 'Vytautas ties Rudamina pasitiko kryžiuočių pulkus, bet per tirštą rūką klaidingai įvertino jų dydį ir skubiai atsitraukė.'
+  teiginys: "Vytautas ties Rudamina pasitiko kryžiuočių pulkus, bet per tirštą rūką klaidingai įvertino jų dydį ir skubiai atsitraukė."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo prieš Kryžiuočių ordinas (0.78)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "301881-302429; hash=ba69db8aa8ade0bfc5523809929332557ac942caab0e050b542b032b31584353; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai aprašo Vytauto susidūrimą su kryžiuočių pulkais; tai pagrindžia karinę priešpriešą."
   pagrindžia:
-    - c-002
+    - c-105966
 
 <a id="claim-t-114962"></a>
-- t-002
+- t-003
   global_id: t-114962
-  teiginys: 'Voigtas manė, kad prie Rudaminos vykęs susirėmimas galėjo būti ties dabartiniu Parudaminiu į pietvakarius nuo Vilniaus.'
+  teiginys: "Voigtas manė, kad prie Rudaminos vykęs susirėmimas galėjo būti ties dabartiniu Parudaminiu į pietvakarius nuo Vilniaus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "93649-94360; hash=9b4081ec90972fbfe363b7a5b07f60938c335089c60cc7a5e6ae14cbe5bfdad5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rudamina: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=87"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rudamina\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-105967
 
 <a id="claim-t-114963"></a>
-- t-003
+- t-001
   global_id: t-114963
-  teiginys: 'Prie Rudaminos kryžiuočiai laimėjo vieną didesnių mūšių ir paėmė į nelaisvę lietuvių kariuomenę.'
+  teiginys: "Prie Rudaminos kryžiuočiai laimėjo vieną didesnių mūšių ir paėmė į nelaisvę lietuvių kariuomenę."
+  semantiniai_rysiai: "Kryžiuočių ordinas kariavo prieš Lietuviai (0.84)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "154973-155258; hash=c0d6cde3951b6e0039a7bfe104a084343c03a7946125f967a467c086b0e31cdc; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Lietuviai: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Mūšis ir lietuvių kariuomenės paėmimas į nelaisvę tiesiogiai rodo karinį konfliktą."
   pagrindžia:
-    - c-005
+    - c-105972
 
 <a id="claim-t-114964"></a>
 - t-004
   global_id: t-114964
-  teiginys: 'Vytautas ties Rudamina pasitiko kryžiuočius, bet per tirštą rūką klaidingai įvertino jų pajėgas ir atsitraukė.'
+  teiginys: "Vytautas ties Rudamina pasitiko kryžiuočius, bet per tirštą rūką klaidingai įvertino jų pajėgas ir atsitraukė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "301881-302429; hash=ba69db8aa8ade0bfc5523809929332557ac942caab0e050b542b032b31584353; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rudamina: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rudamina\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-105966
 
 <a id="claim-t-114965"></a>
-- t-005
+- t-009
   global_id: t-114965
-  teiginys: 'Rudaminos bažnyčia buvo atiduota kolegijai, o jos ir nuolatinio vikaro bažnyčios aptarnavimui duoti atskiri nurodymai.'
+  teiginys: "Rudaminos bažnyčia buvo atiduota kolegijai, o jos ir nuolatinio vikaro bažnyčios aptarnavimui duoti atskiri nurodymai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "372055-372858; hash=08d0e1782e5c95d9a6d8a26ef3874feaeea8ffb51e9fc0dfc2bda1ede5380c97; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pukančiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rudamina: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Pukančiai: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rudamina\" parinktas kaip owner_note_path. Targetas \"Pukančiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-105965
 
 <a id="claim-t-114966"></a>
-- t-006
+- t-010
   global_id: t-114966
-  teiginys: 'Vokiečiai ties Rudamina, pusantros mylios nuo Vilniaus, susirėmė su į pagalbą skubėjusiais septyniais šimtais lietuvių raitelių.'
+  teiginys: "Vokiečiai ties Rudamina, pusantros mylios nuo Vilniaus, susirėmė su į pagalbą skubėjusiais septyniais šimtais lietuvių raitelių."
+  semantiniai_rysiai: "Vokiečiai kariavo prieš Lietuviai (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "91776-92824; hash=4a928568f6d3eb2ef7ba788735ac8e3a8f99ea711c8dfe859015f23ac039f460; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Lietuviai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Susirėmimas su lietuvių raiteliais tiesiogiai pagrindžia karinę priešpriešą."
   pagrindžia:
-    - c-006
+    - c-105973
 
 <a id="claim-t-114967"></a>
-- t-007
+- t-005
   global_id: t-114967
-  teiginys: 'Rudaminos bažnyčia buvo atiduota kolegijai, o jos aptarnavimui numatyti jėzuitai ir nuolatinis vikaras.'
+  teiginys: "Rudaminos bažnyčia buvo atiduota kolegijai, o jos aptarnavimui numatyti jėzuitai ir nuolatinis vikaras."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "372055-372858; hash=08d0e1782e5c95d9a6d8a26ef3874feaeea8ffb51e9fc0dfc2bda1ede5380c97; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pukančiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rudamina: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Pukančiai: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rudamina\" parinktas kaip owner_note_path. Targetas \"Pukančiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-105965
 
 <a id="claim-t-114968"></a>
-- t-008
+- t-006
   global_id: t-114968
-  teiginys: '1571 m. birželio 1 d. Vilniaus vyskupas Valerijonas Protasevičius vikarui skyrė Rudaminą su bažnytėle.'
+  teiginys: "1571 m. birželio 1 d. Vilniaus vyskupas Valerijonas Protasevičius vikarui skyrė Rudaminą su bažnytėle."
+  temporaliniai_duomenys: "įvykio data: 1571 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, pilnas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "372055-372858; hash=08d0e1782e5c95d9a6d8a26ef3874feaeea8ffb51e9fc0dfc2bda1ede5380c97; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pukančiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rudamina: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Pukančiai: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rudamina\" parinktas kaip owner_note_path. Targetas \"Pukančiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-105965
 
 <a id="claim-t-114969"></a>
-- t-009
+- t-007
   global_id: t-114969
-  teiginys: 'Voigtas Rudminne kaimą tapatino su dabartiniu Parudaminiu, o Balińskis nurodė ir Rudaminą į pietryčius nuo Vilniaus.'
+  teiginys: "Voigtas Rudminne kaimą tapatino su dabartiniu Parudaminiu, o Balińskis nurodė ir Rudaminą į pietryčius nuo Vilniaus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "93429-93993; hash=54ae13ecfa9d69cf76fc7d266cba3ad8dd2a5b6ad6da4dc0196576938d4c1641; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rudamina: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rudamina\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-105970
 - susijęs iš [[objektai/asmenys/Charitonas Charotičius.md#claim-t-87644|Charitonas Charotičius]]: Vilniaus burmistras Charitonas Charotičius gavo patvirtinimą žemei Maišiagalos ir Rudaminos paviete pagal karaliaus Aleksandro jo broliui duotą privilegiją.
 - susijęs iš [[objektai/asmenys/Jonas (Alšėnų kunigaikštis).md#claim-t-87710|Jonas (Alšėnų kunigaikštis)]]: Alšėnų kunigaikštis Jonas pateko į nelaisvę, kai Vytautas atsitraukė po susidūrimo su kryžiuočiais ties Rudamina.
 - susijęs iš [[objektai/autoriai/Andrius Rudamina.md#claim-t-23221|Andrius Rudamina]]: Andrius Rudamina buvo Vilniaus universiteto auklėtinis.
@@ -135,8 +243,9 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
     statyta, ir viską patvarkė pagal aukščiau minėtą karaliaus
     privilegiją.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
@@ -157,6 +266,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
     šėnų kunigaikštį Joną, kuris buvo paimtas į nelaisvę; nete­
     ko ir keturių kariuomenės ženklų53.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -190,6 +300,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
     vės, senolio Algirdo ir jo įpėdinių
     suteiktos Vilniui, atnaujinimas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -216,6 +327,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
     kaimis, pietryčiuose, už pusantros
     mylios nuo miesto.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -232,6 +344,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
     prie Rudaminos: pasisekė paimti nelaisvėn lietuvių kariuome­
     nės. Po to laimėjimo jie atgavo ūpą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -278,11 +391,176 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
     leistis į derybas su Algirdu ir Kęstučiu, kurie pirmieji pa­
     reiškė tokį norą25.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
+## Citatos
+
+- id: c-105965
+  citata_originali: |
+    Pa­
+    naikinęs ano titulą ir pareigas, įvedė nuolatinio vikaro pa­
+    reigybę su jam priskiriamais adjutoriais [pagalbininkais], in
+    cura animarum administranda [rūpintis sielovada]; o tiems pa­
+    tiems [šviesybėms vienuoliams] jėzuitams suteikė neribotą
+    teisę minėtąjį vikarą siūlyti. Rudaminos bažnyčią atidavė ko­
+    legijai ir davė kitus nurodymus vienuolių jėzuitų bažnyčios
+    ir nuolatinio vikaro bažnyčios aptarnavimo atžvilgiu, visa
+    kita pavedė vyskupui. Jaugi 1571 metų birželio 1 dieną Vil­
+    niaus vyskupas Valerijonas Protasevičius, deramu išlaiky­
+    mu aprūpindamas vikarą ir jo adjutorius, skyrė arkipresbi-
+    terio nuo seno laikytas valdas: Helanokempis (Elniakampius),
+    Putviškes, Pukančius ir Rudaminą su bažnytėle, ten pat pa­
+    statyta, ir viską patvarkė pagal aukščiau minėtą karaliaus
+    privilegiją.
+  citata_rodoma: "Rudaminos bažnyčią atidavė ko­\nlegijai ir davė kitus nurodymus vienuolių jėzuitų bažnyčios\nir nuolatinio vikaro bažnyčios aptarnavimo atžvilgiu, visa\nkita pavedė vyskupui. Jaugi 1571 metų birželio 1 dieną Vil­\nniaus vyskupas Valerijonas Protasevičius, deramu išlaiky­\nmu aprūpindamas vikarą ir jo adjutorius, skyrė arkipresbi-\nterio nuo seno laikytas valdas: Helanokempis (Elniakampius),\nPutviškes, Pukančius ir Rudaminą su bažnytėle, ten pat pa­\nstatyta, ir viską patvarkė pagal aukščiau minėtą karaliaus\nprivilegiją."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-114967
+    - t-114965
+    - t-114968
+
+- id: c-105966
+  citata_originali: |
+    Ir vos tik magistras prie Vilniaus
+    įsirengė stovyklą, bemat turėjo siųsti keturis pulkus apsau­
+    goti daliniams, išleistiems parūpinti maisto. Vytautas, ne­
+    mažomis pajėgomis vedinas, pasitiko juos ties Rudamina,
+    bet, upės ir daubos nuo priešo skiriamas, per tirštą rūką
+    neįžiūri kryžiuočių viseto ir, pamanęs, kad susiduria jau su
+    pačiu magistru ir visa kariauna, skubiai atsitraukia. Atsi­
+    traukdamas Vytautas prarado nemaža saviškių, tarp jų Al-
+    šėnų kunigaikštį Joną, kuris buvo paimtas į nelaisvę; nete­
+    ko ir keturių kariuomenės ženklų53.
+  citata_rodoma: "Vytautas, ne­\nmažomis pajėgomis vedinas, pasitiko juos ties Rudamina,\nbet, upės ir daubos nuo priešo skiriamas, per tirštą rūką\nneįžiūri kryžiuočių viseto ir, pamanęs, kad susiduria jau su\npačiu magistru ir visa kariauna, skubiai atsitraukia. Atsi­\ntraukdamas Vytautas prarado nemaža saviškių, tarp jų Al-\nšėnų kunigaikštį Joną, kuris buvo paimtas į nelaisvę; nete­\nko ir keturių kariuomenės ženklų53."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-114964
+    - t-114961
+
+- id: c-105967
+  citata_originali: |
+    Bemaž tuo metu Vilniuje gerokai
+    25
+    V o i g t, V, 274, pasakodamas pagal
+    Vygandą, kad susirėmimas vykęs
+    prie didelio Rudminne kaimo (das
+    grosse dorf), mano, kad tai turėtų būti
+    dabartinis Parudaminys, esantis nuo
+    Vilniaus į pietvakarius. Betgi yra ir
+    Rudamina, miestelis, arba bažnyt­
+    kaimis, pietryčiuose, už pusantros
+    mylios nuo miesto.
+    26
+    Kazimiero IV, kai jis buvo dar Lie­
+    tuvos didysis kunigaikštis, privile­
+    gijoje, 1440 metais duotoje Romos
+    katalikų ir stačiatikių tikėjimo Vil­
+    niaus miestiečiams, kuriems leidžia­
+    ma laisvai prekiauti nemokant mui­
+    to mokesčio visoje Lietuvos valsty­
+    bėje, pasakyta, kad tai yra senos lais­
+    vės, senolio Algirdo ir jo įpėdinių
+    suteiktos Vilniui, atnaujinimas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-114962
+
+- id: c-105970
+  citata_originali: |
+    Vilniaus
+    miestiečiai, gavę svarbią privilegiją laisvai prekiauti viso­
+    je Lietuvos valstybėje, nemokėdami muito mokesčių, pradė­
+    jo lankytis tolimose provincijose, kur artimiau susipažino su
+    krikščioniškąja kultūra26. Bemaž tuo metu Vilniuje gerokai
+    25
+    V o i g t, V, 274, pasakodamas pagal
+    Vygandą, kad susirėmimas vykęs
+    prie didelio Rudminne kaimo (das
+    grosse dorf), mano, kad tai turėtų būti
+    dabartinis Parudaminys, esantis nuo
+    Vilniaus į pietvakarius. Betgi yra ir
+    Rudamina, miestelis, arba bažnyt­
+    kaimis, pietryčiuose, už pusantros
+    mylios nuo miesto.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-114969
+
+- id: c-105972
+  citata_originali: |
+    Ypa­
+    tingai Vytautas puolė ir naikino išėjusius maisto ir pašaro ieš­
+    kotis Ordino kariuomenės būrius. Vienok kartą išėjusiems
+    pasiplėšti kryžiuočiams teko laimėti vieną iš didesnių mūšių
+    prie Rudaminos: pasisekė paimti nelaisvėn lietuvių kariuome­
+    nės. Po to laimėjimo jie atgavo ūpą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-114963
+
+- id: c-105973
+  citata_originali: |
+    Tuo
+    22
+    W igand  apud Voigt, V, 179.
+    Lindenblatt Jahrbücher etc. p.
+    29, nurodo, kad tąkart ordino rite­
+    riai prie Vilniaus ir Lietuvos krašte
+    užsibuvo 13 savaičių: Item in desin
+    Jare zvoren die herren von der Wille
+    (Vilnius) unde in dem landė XIII Wo­
+    chen.
+    23
+    Y ° i g t, V, 266. Nė vienas lenkų ir
+    lietuvių metraštininkas apie tuos du
+    kryžiuočių žygius į Lietuvą nieko
+    nežino, netgi Dlugošas.
+    24
+    Kojalowicz, Pars I, p. 351. S t ryj­
+    ków s k i, p. 459. Miechowita
+    Lib. IV, p. 290, - pasakoja apie šią
+    Gotfrido Lindeno Vilniaus apgultį
+    kaip ir vokiečių kronikininkai, bet
+    apsirinka, nurodydami ją buvus me­
+    tais vėliau ir praleisdami kai kurias
+    aplinkybes.
+    31
+
+    ## Puslapis 48
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    laiku, skubėdami į pagalbą, septyni šimtų lietuvių raitelių
+    artėjo prie Vilniaus iš pietų pusės. Susirėmė su jais vokiečiai
+    ties Rudamina, pusantros mylios atstumu nuo miesto; ir šis
+    mūšis, ir Vilniaus pilių atsilaikymas, pastūmėjo kryžiuočius
+    leistis į derybas su Algirdu ir Kęstučiu, kurie pirmieji pa­
+    reiškė tokį norą25.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-114966
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Charitonas Charotičius]]

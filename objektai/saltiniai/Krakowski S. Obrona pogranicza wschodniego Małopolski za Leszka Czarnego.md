@@ -13,6 +13,18 @@ tags:
   - saltinis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Krakowski S. Obrona pogranicza wschodniego Małopolski za Leszka Czarnego
 
@@ -25,10 +37,15 @@ Dusburgietis teigia, kad krakowski S.
 <a id="claim-t-61105"></a>
 - t-001
   global_id: t-61105
-  teiginys: 'S. Krakowskio darbas „Obrona pogranicza wschodniego Małopolski za Leszka Czarnego“ paskelbtas Lodzėje 1960 m.'
+  teiginys: "S. Krakowskio darbas „Obrona pogranicza wschodniego Małopolski za Leszka Czarnego“ paskelbtas Lodzėje 1960 m."
+  temporaliniai_duomenys: "įvykio data: 1960 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia autoriaus darbo publikavimo faktą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "779632-779819; hash=66c3d930f74b4ddbe1a783bac0ec8239d64a5ea38c5483424de8ab8bf2fc18cd; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
-
+    - c-61737
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -39,8 +56,23 @@ Dusburgietis teigia, kad krakowski S.
     Zeszyty naukowe Uniw. Łódzkiego. Seria 1: Nauki humanistyczno społeczne. Historia,
     Łódź, 1960, z. 15, s. 97—114.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-61737
+  citata_originali: |
+    Krakowski S. Obrona pogranicza wschodniego Małopolski za Leszka Czarnego.—
+    Zeszyty naukowe Uniw. Łódzkiego. Seria 1: Nauki humanistyczno społeczne. Historia,
+    Łódź, 1960, z. 15, s. 97—114.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-61105

@@ -9,6 +9,18 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Teodoras (Liubarto sūnus)
 
@@ -21,24 +33,56 @@ Iš Liubarto sūnaus Teodoro Vytautas atėmė Volinijos Vladimirą, bet jį pask
 <a id="claim-t-64171"></a>
 - t-001
   global_id: t-64171
-  teiginys: 'Vytautas iš Liubarto sūnaus Teodoro atėmė Volinijos Vladimirą ir paskyrė jį vietininku į Naugardą-Sieverską.'
+  teiginys: "Vytautas iš Liubarto sūnaus Teodoro atėmė Volinijos Vladimirą ir paskyrė jį vietininku į Naugardą-Sieverską."
+  semantiniai_rysiai: "Teodoras (Liubarto sūnus) buvo sūnus Liubartas (0.99); Vytautas (Lietuvos valdovas, XIV–XV a.) paskyrė Teodoras (Liubarto sūnus) (0.95)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "852508-852735; hash=c86af95a1276a577d9feb625ffe1665b9fda76d8cceaef0069e36bcb459b8f6f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Liubartas: 0.99"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Teodoras (Liubarto sūnus): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Liubartas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Teodoras buvo Liubarto sūnus."
   pagrindžia:
-    - c-002
+    - c-65000
 
 <a id="claim-t-64172"></a>
-- t-002
+- t-003
   global_id: t-64172
-  teiginys: 'Vytautas, remiamas Jogailos, suvaldė nepaklusnų Volynijos kunigaikštį Teodorą, Liubarto sūnų.'
+  teiginys: "Vytautas, remiamas Jogailos, suvaldė nepaklusnų Volynijos kunigaikštį Teodorą, Liubarto sūnų."
+  semantiniai_rysiai: "Teodoras (Liubarto sūnus) buvo sūnus Liubartas (0.99)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "696053-696564; hash=42ee22519dc5c28bdb626ee7d487e95b14e82814a100f5d181e4c76033e8f389; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Liubartas: 0.99"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Teodoras (Liubarto sūnus): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Liubartas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Teodoras buvo Liubarto sūnus."
   pagrindžia:
-    - c-001
+    - c-36516
 
 <a id="claim-t-64173"></a>
-- t-003
+- t-002
   global_id: t-64173
-  teiginys: 'Liubarto sūnus Teodoras pabėgo į Vengriją, kur prie jo prisijungė Teodoras Karijotaitis.'
+  teiginys: "Liubarto sūnus Teodoras pabėgo į Vengriją, kur prie jo prisijungė Teodoras Karijotaitis."
+  semantiniai_rysiai: "Teodoras (Liubarto sūnus) buvo sūnus Liubartas (0.99)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "852577-852847; hash=662c9df532beb1adce3b638950ebd2f92ad9d5cb41f334b293de7d3478704693; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Liubartas: 0.99"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Teodoras (Liubarto sūnus): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Liubartas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Teodorą kaip Liubarto sūnų."
   pagrindžia:
-    - c-003
-
+    - c-65001
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -55,8 +99,9 @@ Iš Liubarto sūnaus Teodoro Vytautas atėmė Volinijos Vladimirą, bet jį pask
     naičiais Vytautas nepasitikėjo, jais nesirėmė ir kiek leido apy­
     stovos, jų valdžią silpnino.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -69,8 +114,9 @@ Iš Liubarto sūnaus Teodoro Vytautas atėmė Volinijos Vladimirą, bet jį pask
     Vladimirą, bet jį paskyrė vietininku į Naugardą - Sieverską. Bet
     Liubartaitis taip pat pabėgo Vengrijon^6.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -84,11 +130,60 @@ Iš Liubarto sūnaus Teodoro Vytautas atėmė Volinijos Vladimirą, bet jį pask
     sijungė ir trečias Gedimino anūkas, buvęs Podolės kunigaikštis
     Teodoras Karijotaitis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-36516
+  citata_originali: |
+    Bet Vytautas su jais nedarė ilgų ce­
+    remonijų. Pritariamas Jogailos, jis pirmiausia atėmė valdomą
+    Sievero žemę iš Dimitro Kaributo, vėliau suvaldė nepaklusnų
+    Podolijos kunigaikštį Karijoto sūnų Teodorą, Volynijos kunigaik­
+    štį Liubarto sūnų Teodorą, Kijevo kunigaikštį Algirdo sūnų Vla­
+    dimirą ir pagaliau kelis kartus turėjo ramdyti (net laikyti kalė­
+    jime) neramųjį Jogailos brolį Švitrigailą^2 ). Apskritai Gedimi­
+    naičiais Vytautas nepasitikėjo, jais nesirėmė ir kiek leido apy­
+    stovos, jų valdžią silpnino.
+  citata_rodoma: "Pritariamas Jogailos, jis pirmiausia atėmė valdomą\nSievero žemę iš Dimitro Kaributo, vėliau suvaldė nepaklusnų\nPodolijos kunigaikštį Karijoto sūnų Teodorą, Volynijos kunigaik­\nštį Liubarto sūnų Teodorą, Kijevo kunigaikštį Algirdo sūnų Vla­\ndimirą ir pagaliau kelis kartus turėjo ramdyti (net laikyti kalė­\njime) neramųjį Jogailos brolį Švitrigailą^2 ). Apskritai Gedimi­\nnaičiais Vytautas nepasitikėjo, jais nesirėmė ir kiek leido apy­\nstovos, jų valdžią silpnino."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-64172
+
+- id: c-65000
+  citata_originali: |
+    Toje pietinėje valstybės dalyje buvo padaryta ir kitų žymių
+    atmainų. Iš Liubarto sūnaus Teodoro Vytautas atėmė Volinijos
+    Vladimirą, bet jį paskyrė vietininku į Naugardą - Sieverską. Bet
+    Liubartaitis taip pat pabėgo Vengrijon^6.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-64171
+
+- id: c-65001
+  citata_originali: |
+    Iš Liubarto sūnaus Teodoro Vytautas atėmė Volinijos
+    Vladimirą, bet jį paskyrė vietininku į Naugardą - Sieverską. Bet
+    Liubartaitis taip pat pabėgo Vengrijon^6. Kaip bėglys, prie jo pri­
+    sijungė ir trečias Gedimino anūkas, buvęs Podolės kunigaikštis
+    Teodoras Karijotaitis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-64173
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Liubartas]]

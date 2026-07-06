@@ -15,6 +15,18 @@ tags:
   - karas
 amziai:
   - 'XVII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kėdainių lietuviškų knygų spaustuvės įkūrimas ir sudegimas (apie 1652–1654 m.)
 
@@ -39,10 +51,24 @@ Nenurodyta
 <a id="claim-t-01691"></a>
 - t-001
   global_id: t-01691
-  teiginys: 'Kėdainių lietuviškų knygų spaustuvė veikė vos porą metų ir greičiausiai sudegė 1654 m.'
+  teiginys: "Kėdainių lietuviškų knygų spaustuvė veikė vos porą metų ir greičiausiai sudegė 1654 m."
+  temporaliniai_duomenys: "įvykio data: 1652 m.; įvykio data: apie 1652 m.; įvykio data: 1654 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Citata geriau pagrindžia tiesioginį faktą apie spaustuvės veikimą ir sudegimą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "707497-707865; hash=4dbfd548efad4848962971dc738a31bd6a195d4dba666c710d66fd697e638f67; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kėdainiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kėdainių lietuviškų knygų spaustuvės įkūrimas ir sudegimas (apie 1652–1654 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Kėdainiai: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kėdainių lietuviškų knygų spaustuvės įkūrimas ir sudegimas (apie 1652–1654 m.)\" parinktas kaip owner_note_path. Targetas \"Kėdainiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
-    - c-001
-
+    - c-01929
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -56,8 +82,28 @@ Nenurodyta
     Maskvos ir Švedų karai sunaikino visą kėdainiškių Radvilų
     galybę, ir nebebuvo kas įtaisytų spaustuvę.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-01929
+  citata_originali: |
+    Tik kai apie 1652 m. hetmonas
+    Jonušas Radvila Kėdainiuose įkūrė specialią lietuviškoms
+    knygoms spaustuvę, čia buvo išspausdinta maldaknygių,
+    giesmių rinkinys, katekizmas ir nauja postilė. Spaustuvė te-
+    veikė vos porą metų: greičiausiai, ji sudegė (1654 m.). Netrukus
+    Maskvos ir Švedų karai sunaikino visą kėdainiškių Radvilų
+    galybę, ir nebebuvo kas įtaisytų spaustuvę.
+  citata_rodoma: "Spaustuvė te-\nveikė vos porą metų: greičiausiai, ji sudegė (1654 m.). Netrukus\nMaskvos ir Švedų karai sunaikino visą kėdainiškių Radvilų\ngalybę, ir nebebuvo kas įtaisytų spaustuvę."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-01691

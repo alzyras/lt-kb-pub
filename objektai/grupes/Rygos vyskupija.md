@@ -19,6 +19,18 @@ tags:
   - popiežius
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Rygos vyskupija
 
@@ -31,9 +43,23 @@ amziai:
 <a id="claim-t-41134"></a>
 - t-001
   global_id: t-41134
-  teiginys: '1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protektoratu.'
+  teiginys: "1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protektoratu."
+  semantiniai_rysiai: "Rygos vyskupija priklausė Lietuva (0.78); Livonijos ordinas priklausė Lietuva (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1559 m.; įvykio data: 1560 m.; įvykio data: 1561 m.; įvykio data: 1572 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako Rygos vyskupijos veiksmą ir statusą, citata tai tiesiogiai patvirtina."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "356453-356818; hash=e4776a46cfc66381ed28d3d40899945c3b17464f5ef11cac869df59fd02c34f6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Rygos vyskupija: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys nurodo, kad Rygos vyskupija tapo LDK protektoratu, todėl siejama su Lietuvos globa."
   pagrindžia:
-    - c-001
+    - c-44843
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-169699|Lietuvos Didžioji Kunigaikštystė]]: 1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protektoratu.
 - susijęs iš [[objektai/grupes/Livonijos konfederacija.md#claim-t-41065|Livonijos konfederacija]]: 1561 m. sutartimi su LDK Livonijos konfederacija buvo panaikinta, o didesnė Livonijos dalis tapo Lietuvos dalimi.
 ## Reikšmingi paminėjimai
@@ -48,11 +74,30 @@ amziai:
     Ištrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.) aprašymo apie Lenkijos ir
     Lietuvos kariuomenių struktūrą:
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-44843
+  citata_originali: |
+    1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protek-
+    toratu. 1560 m. Maskva tęsė karo puolimą Livonijoje. 1561 m. sutartimi su LDK panaikinta Livonijos konfederacija,
+    didesnė dalis Livonijos tapo Lietuvos dalimi
+
+    Ištrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.) aprašymo apie Lenkijos ir
+    Lietuvos kariuomenių struktūrą:
+  citata_rodoma: "1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protek-\ntoratu. 1560 m. Maskva tęsė karo puolimą Livonijoje. 1561 m. sutartimi su LDK panaikinta Livonijos konfederacija,\ndidesnė dalis Livonijos tapo Lietuvos dalimi\n\nIštrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-41134
 
 ## Ryšiai
 - Rygos vyskupija priklausė [[objektai/vietos/Lietuva]], [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]

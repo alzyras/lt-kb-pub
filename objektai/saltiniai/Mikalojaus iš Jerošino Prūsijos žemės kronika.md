@@ -17,6 +17,18 @@ tags:
   - saltinis
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Mikalojaus iš Jerošino Prūsijos žemės kronika
 
@@ -27,19 +39,41 @@ Dusburgietis teigia, kad iV-ajame dešimtmetyje Dusburgiečio kroniką eilėmis 
 ## Teiginiai
 
 <a id="claim-t-60992"></a>
-- t-001
+- t-002
   global_id: t-60992
-  teiginys: 'Mikalojaus iš Jerošino vertimas padėjo Dusburgiečio kronikai ir jos mintims plačiau paplisti tarp Ordino brolių ir istoriografijoje.'
+  teiginys: "Mikalojaus iš Jerošino vertimas padėjo Dusburgiečio kronikai ir jos mintims plačiau paplisti tarp Ordino brolių ir istoriografijoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "53418-53604; hash=4d67d3ea6b3a27691048603070ea856fe72c103a8811fd71c32375bca4e66d20; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jerošinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mikalojaus iš Jerošino Prūsijos žemės kronika: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Jerošinas: mention_match, author, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mikalojaus iš Jerošino Prūsijos žemės kronika\" parinktas kaip owner_note_path. Targetas \"Jerošinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-61624
 
 <a id="claim-t-60993"></a>
-- t-002
+- t-001
   global_id: t-60993
-  teiginys: 'XIV a. ketvirtajame dešimtmetyje Mikalojus iš Jerošino eilėmis išvertė Dusburgiečio kroniką į vokiečių kalbą.'
+  teiginys: "XIV a. ketvirtajame dešimtmetyje Mikalojus iš Jerošino eilėmis išvertė Dusburgiečio kroniką į vokiečių kalbą."
+  temporaliniai_duomenys: "įvykio data: 1335 m.; įvykio data: 1340 m.; įvykio data: apie 1340 m.; įvykio data: 1341 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Teiginys yra tikslus, gramatiškas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "53012-53417; hash=7560a474818fe69876c4b276719276f39ea948dfd1e08f59202ce2492a17bf5d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mikalojaus iš Jerošino Prūsijos žemės kronika: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Vokiečiai: mention_match, group, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mikalojaus iš Jerošino Prūsijos žemės kronika\" parinktas kaip owner_note_path. Targetas \"Vokiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
-
+    - c-61625
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -50,6 +84,7 @@ Dusburgietis teigia, kad iV-ajame dešimtmetyje Dusburgiečio kroniką eilėmis 
     kronika, jos mintys plačiau paplito tiek tarp Ordino brolių, tiek vėlesnėje istoriografijoje.
       Su Mikalojaus iš Jerošino eiliuotu vertimu buvo susipažinęs J.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -66,8 +101,37 @@ Dusburgietis teigia, kad iV-ajame dešimtmetyje Dusburgiečio kroniką eilėmis 
     jau magistro Ditricho iš Altenburgo (1335—1341 m.) laikais, apie 1340 m. Jo „Prūsijos
     žemės kronikoje“ nemaža detalių pakeista arba pridėta79.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-61624
+  citata_originali: |
+    Iš šio vertimo Dusburgiečio
+    kronika, jos mintys plačiau paplito tiek tarp Ordino brolių, tiek vėlesnėje istoriografijoje.
+      Su Mikalojaus iš Jerošino eiliuotu vertimu buvo susipažinęs J.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60992
+
+- id: c-61625
+  citata_originali: |
+    XIV a. IV-ajame dešimtmetyje Dusburgiečio kroniką eilėmis  į vokiečių kalbą išvertė
+    Mikalojus iš Jerošino. Versti jis pradėjo dar didžiojo Ordino magistro Liuterio iš Braunšveigo
+    (1331 — 1335 m.) laikais, tačiau rankraštis buvo sunaikintas. Darbą Mikalojus baigė
+    jau magistro Ditricho iš Altenburgo (1335—1341 m.) laikais, apie 1340 m. Jo „Prūsijos
+    žemės kronikoje“ nemaža detalių pakeista arba pridėta79.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60993

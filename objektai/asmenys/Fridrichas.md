@@ -19,6 +19,18 @@ amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Fridrichas
 
@@ -31,16 +43,46 @@ periodo_grupes:
 <a id="claim-t-87673"></a>
 - t-001
   global_id: t-87673
-  teiginys: 'Kardinolas Fridrichas su karaliene Elžbieta ir jos vaikais iškart po Velykų atvyko į Vilnių ir sukėlė džiaugsmą pilyje bei mieste.'
+  teiginys: "Kardinolas Fridrichas su karaliene Elžbieta ir jos vaikais iškart po Velykų atvyko į Vilnių ir sukėlė džiaugsmą pilyje bei mieste."
+  temporaliniai_duomenys: "kelionės data: 1500 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Fridrichas keliavo į Vilnius“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas puslapio triukšmas, palikta citatos remiama faktinė žinia."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "468200-468555; hash=d75f129575f10968391a00c34058067a6d12413880372e7e29ecfd638f57d10d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Elžbieta: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Fridrichas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Elžbieta: mention_match, person, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fridrichas\" parinktas kaip owner_note_path. Targetas \"Elžbieta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-83652
 
 <a id="claim-t-184698"></a>
 - t-002
   global_id: t-184698
-  teiginys: 'Fridrichas, rugijų karaliaus Feletėjo sūnus, buvo išvytas po rugijų pralaimėjimo.'
+  teiginys: "Fridrichas, rugijų karaliaus Feletėjo sūnus, buvo išvytas po rugijų pralaimėjimo."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Fridrichas buvo sūnus Feletėjas (0.92)"
+  temporaliniai_duomenys: "įvykio data: 487 m"
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko Fridricho ryšį su Feletėju ir jo išvijimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "86589-87283; hash=3e969446b1160eb3fb73c8d838be2a03d3684bb0adb63b4a05bf1738f07639c1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Feletėjas: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Fridrichas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Feletėjas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Fridrichas buvo Feletėjo sūnus."
   pagrindžia:
-    - c-002
+    - c-168059
 - susijęs iš [[objektai/asmenys/Fridrichas (Marienburgo brolis).md#claim-t-184062|Fridrichas (Marienburgo brolis)]]: Brolis Fridrichas ir brolis Heinemanas gyveno Marienburgo pilyje ir buvo vaizduojami kaip labai artimi.
 - susijęs iš [[objektai/asmenys/Fridrichas (Marienburgo brolis).md#claim-t-60277|Fridrichas (Marienburgo brolis)]]: Marienburgo pilyje gyvenęs brolis Fridrichas nukrito nuo žirgo ir užsimušė.
 - susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-54964|Fridrichas (Rygos arkivyskupas)]]: Kryžiuočių aplinkoje Rygos arkivyskupas Fridrichas buvo siejamas su Gedimino veikimu Livonijoje prieš Ordiną.
@@ -123,6 +165,7 @@ periodo_grupes:
     to ginčai, ir po kelerių metų (1500 m.) anoji sutartis su caru
     buvo nutraukta.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -152,11 +195,63 @@ periodo_grupes:
     kartų su jais nelauktai susidūręs, nebesitikėjo sėkmės
     atviroje kovoje ir pasitraukė į Raveną.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-83652
+  citata_originali: |
+    _  .
+    230
+
+    ## Puslapis 247
+
+    III KNYGA
+    pavasario, kai Aleksandro motina karalienė Elžbieta su duk­
+    terimis ir sūnumi, kardinolu Fridrichu, iškart po Velykų at­
+    vykę į Vilnių, sukėlė visuotinį džiaugsmą pilyje ir mieste.
+    Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
+    to ginčai, ir po kelerių metų (1500 m.) anoji sutartis su caru
+    buvo nutraukta.
+  citata_rodoma: "_  .\n230\n\n## Puslapis 247\n\nIII KNYGA\npavasario, kai Aleksandro motina karalienė Elžbieta su duk­\nterimis ir sūnumi, kardinolu Fridrichu, iškart po Velykų at­\nvykę į Vilnių, sukėlė visuotinį džiaugsmą pilyje ir mieste. \nDeja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­\nto ginčai, ir po kelerių metų (1500 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87673
+
+- id: c-168059
+  citata_originali: |
+    Žygiuodamas toliau su kariuomene,
+    jis užėmė Romą ir, nukėlęs
+    475 m e ta i
+    nuo sosto Vakarų Romos im­
+    peratorių, viešpatavo kaip pir­
+    mas iš svetimšalių Romoje, tačiau nesisavino nei val­
+    dovo vardo, nei purpurinės mantijos. Dvyliktaisiais
+    viešpatavimo metais, laimėjęs keletą mūšių, sumušė
+    rugijus, paėmė į nelaisvę karalių Feletėją, o jo sūnų
+    Fridrichą išvijo. Nugalėtasis rugijų valdovas maldavo
+    gotą Teodoriką pagalbos, tuo tarpu herulas, porą kar­
+    tų gotų sumuštas, stengėsi
+    487 m e ta i
+    atkurti savo kariauną, telk­
+    damas vyrus iš to Germani-
+    jos krašto, kuris jam mokėjo duoklę; vėliau, keletą
+    kartų su jais nelauktai susidūręs, nebesitikėjo sėkmės
+    atviroje kovoje ir pasitraukė į Raveną.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184698
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Feletėjas]]

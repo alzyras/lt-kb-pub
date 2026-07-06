@@ -17,6 +17,18 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Svirdeika
 
@@ -29,10 +41,23 @@ periodo_grupes:
 <a id="claim-t-80723"></a>
 - t-001
   global_id: t-80723
-  teiginys: 'Svirdeika 1376 m. birželio 7 d. su savo pajėgomis įėjo į Narkyčius kartu su Algirdu ir Kęstučiu.'
+  teiginys: "Svirdeika 1376 m. birželio 7 d. su savo pajėgomis įėjo į Narkyčius kartu su Algirdu ir Kęstučiu."
+  semantiniai_rysiai: "Svirdeika keliavo į Įsrutis (0.96); Svirdeika buvo sąjungininkas su Algirdas (Lietuvos valdovas) (0.76); Svirdeika buvo sąjungininkas su Kęstutis (vakarų pasienio valdovas, XIV–XV a.) (0.76)"
+  temporaliniai_duomenys: "įvykio data: 1376 m.; įvykio data: 1384 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko konkretų Svirdeikos veiksmą ir datą, bet pradinė formuluotė yra citatos fragmentas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "202702-203126; hash=e3c8d9bbb4f706a3bb202a754a907d00932dd5af94ae599ea179a7540fc306a1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Įsrutis: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Svirdeika: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Įsrutis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Svirdeika eina į Įsrutį."
   pagrindžia:
-    - c-001
-
+    - c-42249
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -47,11 +72,30 @@ periodo_grupes:
 
     MARIENVERDERIO PAĖMIMAS 1384 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-42249
+  citata_originali: |
+    „[...] Švenčiausios trejybės švenčių išvakarėse [1376 m. birželio 7 d.], matė karalių Algirdą
+    ir karalių Kęstutį, o su jais Svirdeiką su savo pajėgomis įeinančius į Narkyčius. Ir jie
+    padalijo kariuomenę į 3 dalis. Kęstutis užpuola Taplaukį, sukdamas į Vėluvą. Algirdas,
+    [perėjęs] Narkyčiuose per tiltą, niokoja Nadruvos žemę. Svirdeika [eina] į Įsrutį ir visur
+    [gyventojus] randa neįspėtus.“
+
+    MARIENVERDERIO PAĖMIMAS 1384 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-80723
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

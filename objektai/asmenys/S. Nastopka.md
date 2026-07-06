@@ -15,6 +15,18 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'modernioji Lietuva'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # S. Nastopka
 
@@ -25,25 +37,51 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
 ## Teiginiai
 
 <a id="claim-t-40411"></a>
-- t-001
+- t-003
   global_id: t-40411
-  teiginys: 'S. Nastopkos vadovaujama 1-oji pėstininkų divizija įžengė į bolševikų paliktą Vilnių.'
+  teiginys: "S. Nastopkos vadovaujama 1-oji pėstininkų divizija įžengė į bolševikų paliktą Vilnių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "804008-804233; hash=7d58367045af6a1715b93b1951bce1f7b1566f3326590a6dbb539be21aa8486c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> 1-oji pėstininkų divizija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "S. Nastopka: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "1-oji pėstininkų divizija: mention_match, group, gap=25"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"S. Nastopka\" parinktas kaip owner_note_path. Targetas \"1-oji pėstininkų divizija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-42210
 
 <a id="claim-t-40412"></a>
-- t-002
+- t-001
   global_id: t-40412
-  teiginys: 'S. Nastopkos vadovaujamos 11-osios brigados dalys veikė šiaurinėje Lietuvos teritorijos dalyje.'
+  teiginys: "S. Nastopkos vadovaujamos 11-osios brigados dalys veikė šiaurinėje Lietuvos teritorijos dalyje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "768351-768562; hash=70925cc55258a877279c0f6e29860e9e29024c0d6ed7422d64d43bc487d05739; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "S. Nastopka: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=67"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"S. Nastopka\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-42208
 
 <a id="claim-t-40413"></a>
-- t-003
+- t-002
   global_id: t-40413
-  teiginys: 'Gen. S. Nastopka buvo atleistas iš armijos vado pareigų prieš 1919 m. rugpjūčio 23 d. K. Ladygos paskyrimą armijos vadu.'
+  teiginys: "Gen. S. Nastopka buvo atleistas iš armijos vado pareigų prieš 1919 m. rugpjūčio 23 d. K. Ladygos paskyrimą armijos vadu."
+  temporaliniai_duomenys: "įvykio data: 1919 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginį verta perrašyti taip, kad pagrindinis faktas būtų apie S. Nastopką, o ne apie K. Ladygą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "802318-802564; hash=ddb607bfa7e376fd6c0fc12f22c2c40fb43a2a772739346ee6a7982354f6342b; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-003
+    - c-44503
 - susijęs iš [[objektai/grupes/1-oji pėstininkų divizija.md#claim-t-40819|1-oji pėstininkų divizija]]: Spalio 21 d. lenkų kavalerijos prasiveržimas Širvintų apylinkėse palietė I diviziją: į nelaisvę pateko S. Nastopka su beveik visu jos štabu.
 ## Reikšmingi paminėjimai
 
@@ -60,6 +98,7 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
 
     niją ir veržtis toliau Daugpilio kryptimi.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -75,6 +114,7 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
     vizija (2-asis, 5-asis ir 8-asis pulkai) buvo
     rezerve, dislokuota Kaune ir jos apylinkėse.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -95,8 +135,62 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
     mėjęs plk. ltn. K. Ladyga, buvo pakeisti
     kai kurie pulkų vadai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-42208
+  citata_originali: |
+    Karin. S. Nastopkos vadovaujamos 11 bri-
+
+    gados dalys veikė šiaurinėje Lietuvos te-
+
+    ritorijos dalyje. Jos uždavinys buvo pulti
+
+    ir užimti Subatės-Borovkos-Suvieko li-
+
+    niją ir veržtis toliau Daugpilio kryptimi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40412
+
+- id: c-42210
+  citata_originali: |
+    S. Nastopkos vadovaujama 1-oji pėstininkų
+    divizija (1-asis, 4-asis ir 7-asis pulkai), įžen-
+    gusi į bolševikų paliktą Vilnių. 2-oji di-
+    vizija (2-asis, 5-asis ir 8-asis pulkai) buvo
+    rezerve, dislokuota Kaune ir jos apylinkėse.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40411
+
+- id: c-44503
+  citata_originali: |
+    Konstantinas Žukas. Atleidus iš
+    pareigų armijos vadą gen. S. Nastopką
+
+    ir Generalinio štabo viršininką
+
+    gen. M. Katchę, rugpjūčio 23 d. armijos
+    vadu buvo paskirtas jau kovose pasižy-
+    mėjęs plk. ltn. K. Ladyga, buvo pakeisti
+    kai kurie pulkų vadai.
+  citata_rodoma: "Atleidus iš\npareigų armijos vadą gen. S. Nastopką\n\nir Generalinio štabo viršininką\n\ngen. M. Katchę, rugpjūčio 23 d. armijos\nvadu buvo paskirtas jau kovose pasižy-\nmėjęs plk. ltn. K. Ladyga, buvo pakeisti\nkai kurie pulkų vadai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40413

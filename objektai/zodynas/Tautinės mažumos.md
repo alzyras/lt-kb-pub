@@ -17,6 +17,18 @@ tags:
   - valstybė
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Tautinės mažumos
 
@@ -27,11 +39,21 @@ Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant 1922 m. k
 ## Teiginiai
 
 <a id="claim-t-169938"></a>
-- t-001
+- t-002
   global_id: t-169938
-  teiginys: 'Tautinės mažumos Lietuvoje galėjo puoselėti savo kalbą ir kultūrą, bet nesijautė lygiateisės su lietuviais siekdamos valstybinės tarnybos.'
+  teiginys: "Tautinės mažumos Lietuvoje galėjo puoselėti savo kalbą ir kultūrą, bet nesijautė lygiateisės su lietuviais siekdamos valstybinės tarnybos."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "344458-344912; hash=f4e70c3b80a55a128346f181b6854f3b46a23e7495928affab7cb96fed17b9fd; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tautinės mažumos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tautinės mažumos\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-154617
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77978|A. Smetona]]: A. Smetona laikėsi nuostatos, kad tautinės mažumos turi mylėti Lietuvą ir gerbti lietuvių tautą už joms suteiktas kultūrines teises.
 - susijęs iš [[objektai/zodynas/tautinė mažuma etninė kultūrinė mažuma.md#claim-t-169935|tautinė mažuma etninė kultūrinė mažuma]]: Lenkai savo valstybingumo planuose lietuviams numatė tik tautinės mažumos statusą.
 - susijęs iš [[objektai/zodynas/tautinė mažuma etninė kultūrinė mažuma.md#claim-t-169936|tautinė mažuma etninė kultūrinė mažuma]]: Tautinės mažumos Lietuvoje galėjo puoselėti savo kalbą ir kultūrą, bet nesijautė lygiateisės su lietuviais.
@@ -55,8 +77,29 @@ Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant 1922 m. k
     tuvių padėjėjų vaidmenį, atsitrenkdamos į nematomus barjerus, kai siekė
     valstybinės tarnybos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-154617
+  citata_originali: |
+    1935–1936 mokslo metais veikė apie 30 lenkiškų
+    mokyklų.
+    Negalėdami dėl prastų tarpvalstybinių santykių vykdyti platesnės poli-
+    tinės veiklos, Lietuvos lenkai daug jėgų skyrė kultūrinei veiklai. Apskritai
+    tautinės mažumos, tarp jų rusai ir vokiečiai, galėjusios laisvai puoselėti
+    savo kalbą ir kultūrą, nesijautė lygiateisės su lietuviais, gaudamos tik lie-
+    tuvių padėjėjų vaidmenį, atsitrenkdamos į nematomus barjerus, kai siekė
+    valstybinės tarnybos.
+  citata_rodoma: "Negalėdami dėl prastų tarpvalstybinių santykių vykdyti platesnės poli-\ntinės veiklos, Lietuvos lenkai daug jėgų skyrė kultūrinei veiklai. Apskritai \ntautinės mažumos, tarp jų rusai ir vokiečiai, galėjusios laisvai puoselėti \nsavo kalbą ir kultūrą, nesijautė lygiateisės su lietuviais, gaudamos tik lie-\ntuvių padėjėjų vaidmenį, atsitrenkdamos į nematomus barjerus, kai siekė \nvalstybinės tarnybos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169938

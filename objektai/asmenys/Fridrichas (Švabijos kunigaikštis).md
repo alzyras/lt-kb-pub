@@ -20,6 +20,18 @@ amziai:
   - 'XIII'
 periodo_grupes:
   - 'viduramžiai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Fridrichas (Švabijos kunigaikštis)
 
@@ -32,17 +44,39 @@ Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Ak
 <a id="claim-t-60014"></a>
 - t-001
   global_id: t-60014
-  teiginys: 'Švabijos kunigaikštis Fridrichas kreipėsi į savo brolį Henriką, kad šis tarpininkautų popiežiaus kurijoje.'
+  teiginys: "Švabijos kunigaikštis Fridrichas kreipėsi į savo brolį Henriką, kad šis tarpininkautų popiežiaus kurijoje."
+  temporaliniai_duomenys: "įvykio data: 1190 m.; įvykio data: po 1191 m.; įvykio data: 1191 m.; įvykio data: 1244 m.; įvykio data: 1251 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, faktinis ir paremtas pateikta ištrauka."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "84142-84889; hash=a63fc9c59527c6390678f955f61a5a3f5e439776ff69d74f5be8cacb0c15944d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Fridrichas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Fridrichas (Švabijos kunigaikštis): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Fridrichas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fridrichas (Švabijos kunigaikštis)\" parinktas kaip owner_note_path. Targetas \"Fridrichas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-60645
 
 <a id="claim-t-60015"></a>
-- t-002
+- t-003
   global_id: t-60015
-  teiginys: 'Fridrichas, Švabijos kunigaikštis, patarė Bremeno ir Liubeko miestiečiams padovanoti ligoninę Henrikui Valpotui.'
+  teiginys: "Fridrichas, Švabijos kunigaikštis, patarė Bremeno ir Liubeko miestiečiams padovanoti ligoninę Henrikui Valpotui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "120907-122012; hash=60a8a64a4985f8865496f22290036bb92f4458c773cccd03fb56dc7c00f9882e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bremenas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Fridrichas (Švabijos kunigaikštis): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Bremenas: mention_match, place, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fridrichas (Švabijos kunigaikštis)\" parinktas kaip owner_note_path. Targetas \"Bremenas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
-
+    - c-60646
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -60,6 +94,7 @@ Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Ak
     kunigaikštis Fridrichas kreipėsi  į savo brolį, Vokietijos karalių ir busimąjį imperatorių
     (nuo 1191 m.) Henriką, kad šis tarpininkautų popiežiaus kurijoje.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -85,6 +120,7 @@ Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Ak
     — Vokiečių (Kryžiuočių) ordino pradžią (itališkasis Joanitų ordinas įkurtas XI a. 2-oje
     pusėje, o prancūziškasis Tamplierių ordinas — XII a. 2-ame dešimtmetyje).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -121,6 +157,53 @@ Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Ak
     Henriką VI, Romos karalių, busimąjį imperatorių, kuris privaląs paprašyti jo šventenybę
     popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti.
   citata_rodoma: ''
-  statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-60645
+  citata_originali: |
+    Kronikininko teigimu, popiežiaus pasiuntinys Prūsijoje
+    Vilhelmas — tai vėlesnis popiežius Aleksandras IV (III, 33), tuo tarpu šis, 1244 m. tapęs
+    Sabinos kardinolu (miręs 1251 m.), tebuvo kurijos atstovas, rėmęs Vokiečių ordiną, kai
+    pastarasis sprendė ginčijamus klausimus su Rygos arkivyskupu ir tuometiniu popiežiaus
+    legatu140.
+      Dusburgietis iškreipia faktus dėl akivaizdžios tendencijos. Vokiečių ordino pradžią jis
+    datuoja 1190 m., kai Akono apgulos metu krikščionių kariuomenėje buvę „pamaldūs vyrai
+    iŠ Bremeno ir Liubeko“ įrengė ligoninę, o ten buvusių vokiečių feodalų vardu Švabijos
+    kunigaikštis Fridrichas kreipėsi  į savo brolį, Vokietijos karalių ir busimąjį imperatorių
+    (nuo 1191 m.) Henriką, kad šis tarpininkautų popiežiaus kurijoje.
+  citata_rodoma: "Vokiečių ordino pradžią jis\ndatuoja 1190 m., kai Akono apgulos metu krikščionių kariuomenėje buvę „pamaldūs vyrai\niŠ Bremeno ir Liubeko“ įrengė ligoninę, o ten buvusių vokiečių feodalų vardu Švabijos\nkunigaikštis Fridrichas kreipėsi  į savo brolį, Vokietijos karalių ir busimąjį imperatorių\n(nuo 1191 m.) Henriką, kad šis tarpininkautų popiežiaus kurijoje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60014
+
+- id: c-60646
+  citata_originali: |
+    Pirmas  šventosios  Marijos Teutonų namų  Jeruzalėje  ligoninės magistras  brolis
+    Henrikas, vadinamas Valpotu, vadovavo daug metų, o mirė lapkričio penktą (pirmą)
+    dieną ir palaidotas Akone. Bremeno ir Liubeko miestiečiai, pirmieji šio ordino steigėjai,
+    kurie, kaip jau buvo sakyta, ištesėję įžadą nukeliauti į šventąją žemę ir susirengę grįžti
+    į namus, patarti minėtojo valdovo Fridricho, Švabijos kunigaikščio, bei kitų Vokietijos
+    kilmingųjų, dalyvavusių Akono apsiaustyje, jam ir padovanojo šią ligoninę su visomis
+    gausiai gautomis išmaldomis bei gėrybėmis, kurioje šiems ligoniams  jis drauge su
+    broliais nuolankiai tarnavo ir rūpino visa, kas reikalinga. Paėmus Akoną, tas pats brolis
+    Henrikas nupirko žemės sklypą prie miesto sienų priešais švento Mikalojaus vartus,
+    kur pastatydino bažnyčią, ligoninę bei kitokius namus ir kur drauge su savo broliais
+
+      154 Šiame skyrelyje Dusburgietis aprašo jauniausio iš trijų didžiųjų riterių ordinų
+    — Vokiečių (Kryžiuočių) ordino pradžią (itališkasis Joanitų ordinas įkurtas XI a. 2-oje
+    pusėje, o prancūziškasis Tamplierių ordinas — XII a. 2-ame dešimtmetyje).
+  citata_rodoma: "Bremeno ir Liubeko miestiečiai, pirmieji šio ordino steigėjai,\nkurie, kaip jau buvo sakyta, ištesėję įžadą nukeliauti į šventąją žemę ir susirengę grįžti\nį namus, patarti minėtojo valdovo Fridricho, Švabijos kunigaikščio, bei kitų Vokietijos\nkilmingųjų, dalyvavusių Akono apsiaustyje, jam ir padovanojo šią ligoninę su visomis\ngausiai gautomis išmaldomis bei gėrybėmis, kurioje šiems ligoniams  jis drauge su\nbroliais nuolankiai tarnavo ir rūpino visa, kas reikalinga. Paėmus Akoną, tas pats brolis\nHenrikas nupirko žemės sklypą prie miesto sienų priešais švento Mikalojaus vartus,\nkur pastatydino bažnyčią, ligoninę bei kitokius namus ir kur drauge su savo broliais\n\n  154 Šiame skyrelyje Dusburgietis aprašo jauniausio iš trijų didžiųjų riterių ordinų\n— Vokiečių (Kryžiuočių) ordino pradžią (itališkasis Joanitų ordinas įkurtas XI a."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60015

@@ -14,6 +14,18 @@ tags:
   - seimas
 amziai:
   - 'XVIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Akademinės vaistinės prekės medikamentai, medžiagos ir degtinė
 
@@ -46,10 +58,19 @@ Nenurodyta
 <a id="claim-t-87043"></a>
 - t-001
   global_id: t-87043
-  teiginys: 'Surašius, persvėrus ir įvertinus Akademinės vaistinės medžiagas, jų vertė buvo mažesnė 28 707 auksinais ir 12 grašių.'
+  teiginys: "Surašius, persvėrus ir įvertinus Akademinės vaistinės medžiagas, jų vertė buvo mažesnė 28 707 auksinais ir 12 grašių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "390649-391594; hash=ed7add2ecff483487a2cac3380a7990153f416cf02c715c265bc626c1310268f; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vaistinės prekės, vaistai ir gydomieji gėrimai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Akademinės vaistinės prekės medikamentai, medžiagos ir degtinė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vaistinės prekės, vaistai ir gydomieji gėrimai: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Akademinės vaistinės prekės medikamentai, medžiagos ir degtinė\" parinktas kaip owner_note_path. Targetas \"Vaistinės prekės, vaistai ir gydomieji gėrimai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-83022
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -75,8 +96,38 @@ Nenurodyta
     vaistinėse pardavinėti degtinę, tad pajamos tiesiog in tertio
     sorte krito.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83022
+  citata_originali: |
+    Betgi pastaraisiais laikais, kelių vaisti­
+    ninkų dėka pradėjusi plėstis, ji pasiekė tą klestintį būvį, kaip
+    dabar (1780 metais).
+    Medžiagų in crudo [žaliavų], užjūrio ir vietinių prepara­
+    tų, užėjus vargo metams, negalėjo būti gauta pakankamos
+    quantitas, qualitas ir valor [kiekio, kokybės, vertės], kadangi
+    geram dalykų vertinimui reikėjo atsikviesti prisiekusių me­
+    dikų, kurie būtų padarę teisingą apskaitą; vis dėlto po tų
+    medžiagų surašymo, kiek sugebėta, persverta ir įvertinta, ir
+    tų visų medikamentų bei medžiagų vertė buvo mažesnė 28
+    707 auksinais ir 12 grašių.
+    Metinės pajamos, kaip kad įsitikinta peržiūrėjus kelioli­
+    kos metų darbą, buvo nevienodos ir priklausė nuo įvairių
+    aplinkybių, būtent: kol vaistinėje buvo leidžiama laikyti ir
+    pardavinėti degtinę, tol metinės pajamos galėdavo pasiekti
+    quantum 30 000 auksinų; seimo sprendimu buvo uždrausta
+    vaistinėse pardavinėti degtinę, tad pajamos tiesiog in tertio
+    sorte krito.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87043

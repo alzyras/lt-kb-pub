@@ -15,6 +15,18 @@ tags:
   - saltinis
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Historische Darstellungen und archivalische Studien. Beiträge zur Baltischen Geschichte
 
@@ -27,10 +39,15 @@ Schie­ mann, be kitko, išsp. Historische Darstellungen und archivalische Studi
 <a id="claim-t-29851"></a>
 - t-001
   global_id: t-29851
-  teiginys: 'Theodoras Schiemannas 1886 m. išspausdino „Historische Darstellungen und archivalische Studien. Beiträge zur Baltischen Geschichte“.'
+  teiginys: "Theodoras Schiemannas 1886 m. išspausdino „Historische Darstellungen und archivalische Studien. Beiträge zur Baltischen Geschichte“."
+  temporaliniai_duomenys: "įvykio data: 1886 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata patvirtina autorių, pavadinimą ir išleidimo metus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "250783-250948; hash=ba8f366accd968f4c8175335b285b63578427332a67ac14383911a8dc876fd75; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
-
+    - c-29756
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -41,8 +58,24 @@ Schie­ mann, be kitko, išsp. Historische Darstellungen und archivalische Studi
     Studien. Beiträge zur Baltischen Geschichte_ (1886); _Russland, Polen
     und Livland bis XVII.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-29756
+  citata_originali: |
+    Schie­
+    mann, be kitko, išsp. _Historische Darstellungen und archivalische
+    Studien. Beiträge zur Baltischen Geschichte_ (1886); _Russland, Polen
+    und Livland bis XVII.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-29851

@@ -18,6 +18,18 @@ tags:
 amziai:
   - 'XVI'
   - 'XVII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # sąmyšio metai
 
@@ -30,9 +42,19 @@ Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei garsieji «są
 <a id="claim-t-31571"></a>
 - t-001
   global_id: t-31571
-  teiginys: '„Sąmyšio metai“ (1604–1612) neturėjo reikšmingesnių atliepimų tarptautinio svorio netenkančioje Abiejų Tautų Respublikoje.'
+  teiginys: "„Sąmyšio metai“ (1604–1612) neturėjo reikšmingesnių atliepimų tarptautinio svorio netenkančioje Abiejų Tautų Respublikoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "84128-84602; hash=fea027438eb7ab0e798ddf793ddbf1c9789eb4a93c1d2d8f0fb97bc51223f5a1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "sąmyšio metai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=95"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"sąmyšio metai\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-33496
 - susijęs iš [[objektai/ivykiai/Sąmyšio metai (1604-1612 m.).md#claim-t-31476|Sąmyšio metai (1604-1612 m.)]]: Sąmyšio metai (1604–1612), nors lietuviai ir lenkai per Dimitrą Prisimetėlį veikė Maskvoje, Abiejų Tautų Respublikai reikšmingesnių atliepimų neturėjo.
 ## Reikšmingi paminėjimai
 
@@ -48,8 +70,29 @@ Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei garsieji «są
     mingesnių atliepimų pamažu savo tarptautinio svorio netenkančioje
     «abiejų tautų » respublikoje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33496
+  citata_originali: |
+    jos valdomas rytų slavų žemes. Šituo atžvilgiu XV amž. gale
+    Lietuvos ir Rusijos istorijos naujos epochos susiliečia.
+    Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei
+    garsieji «sąmyšio metai» (1604-12), —nors lietuviai su lenkais per
+    Dimitrą Prisimetėlį buvo ėmę šeimininkauti net pačioje Maskvoje,—
+    pagaliau nei Romanovų dinastijos pradžia (1613) nebeturėjo reikš­
+    mingesnių atliepimų pamažu savo tarptautinio svorio netenkančioje
+    «abiejų tautų » respublikoje.
+  citata_rodoma: "Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei\ngarsieji «sąmyšio metai» (1604-12), —nors lietuviai su lenkais per\nDimitrą Prisimetėlį buvo ėmę šeimininkauti net pačioje Maskvoje,—\npagaliau nei Romanovų dinastijos pradžia (1613) nebeturėjo reikš­\nmingesnių atliepimų pamažu savo tarptautinio svorio netenkančioje\n«abiejų tautų » respublikoje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31571

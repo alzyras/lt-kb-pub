@@ -22,6 +22,18 @@ tags:
 amziai:
   - 'XIII'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Mindaugo krikštas (krikštas)
 
@@ -48,60 +60,173 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187501"></a>
-- t-001
+- t-011
   global_id: t-187501
-  teiginys: 'Lietuvos metraštis vaizduoja Mindaugo krikštą kaip apgaulingą ir teigia, kad po krikšto jis toliau laikėsi pagoniškų praktikų.'
+  teiginys: "Lietuvos metraštis vaizduoja Mindaugo krikštą kaip apgaulingą ir teigia, kad po krikšto jis toliau laikėsi pagoniškų praktikų."
+  teiginio_tipas: "saltinio_teiginys"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "90477-91074; hash=1bb60a8a30799b76333dbbb96c3e8950253b821ab70c888ccc0de8405bab57d8; match=exact"
+  sprendimo_priezastis: "gap::events"
+  ryšio_patikimumas: "susije_su -> Mindaugas (valdovas, XIII a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mindaugo krikštas (krikštas): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Mindaugas (valdovas, XIII a.): mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugo krikštas (krikštas)\" parinktas kaip owner_note_path. Targetas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-170459
 
 <a id="claim-t-187502"></a>
-- t-002
+- t-004
   global_id: t-187502
-  teiginys: '1251 m. pavasarį arba vasaros pradžioje Mindaugas išsirūpino krikštą sau ir Mortai bei karaliaus karūną sau.'
+  teiginys: "1251 m. pavasarį arba vasaros pradžioje Mindaugas išsirūpino krikštą sau ir Mortai bei karaliaus karūną sau."
+  teiginio_tipas: "faktas"
+  semantiniai_rysiai: "Mindaugas (valdovas, XIII a.) buvo vyras Morta (0.95)"
+  temporaliniai_duomenys: "įvykio data: 1248 m.; įvykio data: 1251 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "45920-46457; hash=f2beac14e7312de3e5d4bbc57834df5ad30d20bf16c994c32a8ed2809f7cf65e; match=whitespace_regex"
+  sprendimo_priezastis: "gap::events"
+  ryšio_patikimumas: "buvo_vyras -> Morta: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Morta: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata Mortą tiesiogiai įvardija Mindaugo žmona."
   pagrindžia:
-    - c-004
+    - c-170460
+
+<a id="claim-t-187501"></a>
+- t-011
+  global_id: t-187501
+  teiginys: "Lietuvos metraštis vaizduoja Mindaugo krikštą kaip apgaulingą ir teigia, kad po krikšto jis toliau laikėsi pagoniškų praktikų."
+  teiginio_tipas: "saltinio_teiginys"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "90477-91074; hash=1bb60a8a30799b76333dbbb96c3e8950253b821ab70c888ccc0de8405bab57d8; match=exact"
+  sprendimo_priezastis: "gap::events"
+  ryšio_patikimumas: "susije_su -> Mindaugas (valdovas, XIII a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mindaugo krikštas (krikštas): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Mindaugas (valdovas, XIII a.): mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugo krikštas (krikštas)\" parinktas kaip owner_note_path. Targetas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-170459
 
 <a id="claim-t-187504"></a>
-- t-004
+- t-014
   global_id: t-187504
-  teiginys: 'Lietuvos metraštis teigia, kad Mindaugas pasiuntė pasiuntinius pas popiežių ir priėmė krikštą.'
+  teiginys: "Lietuvos metraštis teigia, kad Mindaugas pasiuntė pasiuntinius pas popiežių ir priėmė krikštą."
+  teiginio_tipas: "saltinio_teiginys"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "90477-91074; hash=1bb60a8a30799b76333dbbb96c3e8950253b821ab70c888ccc0de8405bab57d8; match=exact"
+  sprendimo_priezastis: "gap::events"
+  ryšio_patikimumas: "susije_su -> Mindaugas (valdovas, XIII a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mindaugo krikštas (krikštas): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Mindaugas (valdovas, XIII a.): mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugo krikštas (krikštas)\" parinktas kaip owner_note_path. Targetas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-170459
 
 <a id="claim-t-187505"></a>
-- t-005
+- t-010
   global_id: t-187505
-  teiginys: 'Lietuvos metraščio pasakojime Mindaugas nusiuntė pasiuntinius pas popiežių ir priėmė krikštą.'
+  teiginys: "Lietuvos metraščio pasakojime Mindaugas nusiuntė pasiuntinius pas popiežių ir priėmė krikštą."
+  teiginio_tipas: "saltinio_teiginys"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "90477-91074; hash=1bb60a8a30799b76333dbbb96c3e8950253b821ab70c888ccc0de8405bab57d8; match=exact"
+  sprendimo_priezastis: "gap::events"
+  ryšio_patikimumas: "susije_su -> Mindaugas (valdovas, XIII a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mindaugo krikštas (krikštas): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Mindaugas (valdovas, XIII a.): mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugo krikštas (krikštas)\" parinktas kaip owner_note_path. Targetas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-170459
 
 <a id="claim-t-187506"></a>
-- t-006
+- t-014
   global_id: t-187506
-  teiginys: 'Lietuvos metraštis teigia, kad magistras Andrius ragino Mindaugą siųsti pasiuntinius pas popiežių ir priimti krikštą.'
+  teiginys: "Lietuvos metraštis teigia, kad magistras Andrius ragino Mindaugą siųsti pasiuntinius pas popiežių ir priimti krikštą."
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "90477-91074; hash=1bb60a8a30799b76333dbbb96c3e8950253b821ab70c888ccc0de8405bab57d8; match=exact"
+  sprendimo_priezastis: "gap::events"
+  ryšio_patikimumas: "susije_su -> Mindaugas (valdovas, XIII a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mindaugo krikštas (krikštas): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Mindaugas (valdovas, XIII a.): mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugo krikštas (krikštas)\" parinktas kaip owner_note_path. Targetas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-170459
 
 <a id="claim-t-187507"></a>
-- t-007
+- t-002
   global_id: t-187507
-  teiginys: 'Mindaugo krikštas ir karalystė pagoniškos Lietuvos istorijoje liko tik epizodas.'
+  teiginys: "Mindaugo krikštas ir karalystė pagoniškos Lietuvos istorijoje liko tik epizodas."
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "41689-42380; hash=343e13b081cfada3a00695689053ec75327d0d39e5130938b0c96615721a3e89; match=exact"
+  sprendimo_priezastis: "gap::events"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mindaugo krikštas (krikštas): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugo krikštas (krikštas)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-170458
 
 <a id="claim-t-187508"></a>
-- t-008
+- t-003
   global_id: t-187508
-  teiginys: 'Mindaugas, pasinaudojęs Livonijos vidaus prieštaravimais, patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą.'
+  teiginys: "Mindaugas, pasinaudojęs Livonijos vidaus prieštaravimais, patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą."
+  teiginio_tipas: "faktas"
+  temporaliniai_duomenys: "įvykio data: 1248 m.; įvykio data: 1251 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "45920-46457; hash=f2beac14e7312de3e5d4bbc57834df5ad30d20bf16c994c32a8ed2809f7cf65e; match=whitespace_regex"
+  sprendimo_priezastis: "gap::events"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mindaugo krikštas (krikštas): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=89"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugo krikštas (krikštas)\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-170460
 
 <a id="claim-t-187509"></a>
-- t-009
+- t-001
   global_id: t-187509
-  teiginys: '1250 m. Mindaugas apsikrikštijo ir apkrikštijo daug savo didikų.'
+  teiginys: "1250 m. Mindaugas apsikrikštijo ir apkrikštijo daug savo didikų."
+  teiginio_tipas: "faktas"
+  temporaliniai_duomenys: "įvykio data: 1250 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "19752-19933; hash=9a154f14c7371b6a5c7f52058bbce8c03b4638652854f9927d97ef70987ca286; match=ocr_normalized"
+  sprendimo_priezastis: "gap::events"
+  ryšio_patikimumas: "susije_su -> Mindaugas (valdovas, XIII a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mindaugo krikštas (krikštas): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Mindaugas (valdovas, XIII a.): mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugo krikštas (krikštas)\" parinktas kaip owner_note_path. Targetas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-37037
 - susijęs iš [[objektai/asmenys/Klemensas IV.md#claim-t-183552|Klemensas IV]]: 1268 m. popiežius Klemensas IV bulėje Mindaugą vadino „šviesaus atminimo valdovu“.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113903|Mindaugas (valdovas, XIII a.)]]: Mindaugo krikštas ir karalystė nepanaikino pagoniškų dievų vaidmens Lietuvoje.
 - susijęs iš Klemenso IV bulė apie Mindaugą (1268 m.): 1268 m. popiežius Klemensas IV bulėje Mindaugą pavadino „šviesaus atminimo valdovu“.
@@ -123,6 +248,7 @@ Nenurodyta
     vanojo žymią dalį Žemaitijos, o tas ne tik jį parėmė, bet ir
     išrūpino jam karališkąjį vainiką.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -143,6 +269,7 @@ Nenurodyta
     Gedimino sapną apie staugiantį geležinį vilką pagonių žynys Lizdeika ir
     išpranašaus Vilniaus įkūrimą ir šlovę.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -165,6 +292,7 @@ Nenurodyta
     žabelio nenulaužtų. Ir savo dievams tarnavo, ir degino
     mirusiųjų kūnus, ir savo pagonybę viešai išpažino.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -187,9 +315,91 @@ Nenurodyta
     vasaros pradžioje) Mindaugas išsirūpino sau ir žmonai Mortai krikštą, o
     sau – karaliaus karūną.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
     - t-002
+
+## Citatos
+
+- id: c-37037
+  citata_originali: |
+    Ir 1250 met. Mindaugas
+    apsikrikštijo; apkrikštijo ir daug savo didikų. Ordinui jis do­
+    vanojo žymią dalį Žemaitijos, o tas ne tik jį parėmė, bet ir
+    išrūpino jam karališkąjį vainiką.
+  citata_rodoma: "Ir 1250 met. Mindaugas\napsikrikštijo; apkrikštijo ir daug savo didikų. Ordinui jis do­\nvanojo žymią dalį Žemaitijos, o tas ne tik jį parėmė, bet ir\nišrūpino jam karališkąjį vainiką."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187509
+
+- id: c-170458
+  citata_originali: |
+    kišką etnosą, o Netimero vadovaujamiems pajudėti toliau nuo gentinės
+    santvarkos į valstybę, į kurią būtų verta traukti misionieriams. Lietuva
+    liko su lietuvių kalba, mistiškai skambančiomis sutartinėmis, sakmėmis
+    ir pasakomis, su savo pagoniškais dievais. Su pagonišku veidu Lietuva dar
+    gyvens 400 metų ir po Netimero – minėtus dievus matome ir Mindaugo
+    laikais (Mindaugo krikštas ir karalystė taip pat liks epizodas), jie atėjo ir
+    iki Ldk Gedimino, kuris bylos gal ne tiek apie pagonišką monoteizmą,
+    kiek apie vyriausiąjį Dievą – „ir mes turime vieną Dievą…“ Aiškindamas
+    Gedimino sapną apie staugiantį geležinį vilką pagonių žynys Lizdeika ir
+    išpranašaus Vilniaus įkūrimą ir šlovę.
+  citata_rodoma: "kišką etnosą, o Netimero vadovaujamiems pajudėti toliau nuo gentinės \nsantvarkos į valstybę, į kurią būtų verta traukti misionieriams. Lietuva \nliko su lietuvių kalba, mistiškai skambančiomis sutartinėmis, sakmėmis \nir pasakomis, su savo pagoniškais dievais. Su pagonišku veidu Lietuva dar \ngyvens 400 metų ir po Netimero – minėtus dievus matome ir Mindaugo \nlaikais (Mindaugo krikštas ir karalystė taip pat liks epizodas), jie atėjo ir \niki Ldk Gedimino, kuris bylos gal ne tiek apie pagonišką monoteizmą, \nkiek apie vyriausiąjį Dievą – „ir mes turime vieną Dievą…“ Aiškindamas \nGedimino sapną apie staugiantį geležinį vilką pagonių žynys Lizdeika ir \nišpranašaus Vilniaus įkūrimą ir šlovę."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187507
+
+- id: c-170459
+  citata_originali: |
+    O draugiškumą tau jaučiu, ir nors
+    apakinai akis auksu, kurį gavau iš tavęs, vis dėlto aš
+    tau palankus." 1 6
+    Mindaugas nusiuntė pas popiežių [pasiuntinius| ir
+    priėmė krikštą '7 , bet jo krikštas buvo apgaulingas: jis
+    slapčia nuolat aukojo aukas savo dievams — visų pir­
+    ma, namų dievui Kalveliui ir dievui-rykiuil9 , zuikių
+    dievui2 0 , ir Medynai Būdavo, jei išjos į lauką ir
+    kiškis perbėgs per lauką į priešais esantį mišką, tai jis
+    į tą mišką nejoja ir žmonėms draudžia, kad ten nė
+    žabelio nenulaužtų. Ir savo dievams tarnavo, ir degino
+    mirusiųjų kūnus, ir savo pagonybę viešai išpažino.
+  citata_rodoma: "O draugiškumą tau jaučiu, ir nors \napakinai akis auksu, kurį gavau iš tavęs, vis dėlto aš \ntau palankus.\" 1 6\nMindaugas nusiuntė pas popiežių [pasiuntinius| ir \npriėmė krikštą '7 , bet jo krikštas buvo apgaulingas: jis \nslapčia nuolat aukojo aukas savo dievams — visų pir­\nma, namų dievui Kalveliui ir dievui-rykiuil9 , zuikių \ndievui2 0 , ir Medynai Būdavo, jei išjos į lauką ir \nkiškis perbėgs per lauką į priešais esantį mišką, tai jis \nį tą mišką nejoja ir žmonėms draudžia, kad ten nė \nžabelio nenulaužtų. Ir savo dievams tarnavo, ir degino \nmirusiųjų kūnus, ir savo pagonybę viešai išpažino."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187505
+    - t-187501
+    - t-187503
+    - t-187506
+    - t-187506
+
+- id: c-170460
+  citata_originali: |
+    Tačiau Mindaugui dar reikėjo įtvirtinti valdžią. 1248 m. padėtis jam
+    tapo labai grėsminga. Opoziciją pirmiausia sudarė artimiausi giminai-
+    čiai – brolvaikiai, pagalbon pasitelkę ir svetimuosius – Livonijos ordiną
+    ir Voluinę. Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diploma-
+    tija – pasinaudojęs Livonijos vidaus prieštaravimais, patraukė į savo pusę
+    Livonijos ordino magistrą Andrių Štirlandą. Per jį 1251 m. pavasarį (ar
+    vasaros pradžioje) Mindaugas išsirūpino sau ir žmonai Mortai krikštą, o
+    sau – karaliaus karūną.
+  citata_rodoma: "Tačiau Mindaugui dar reikėjo įtvirtinti valdžią. 1248 m. padėtis jam \ntapo labai grėsminga. Opoziciją pirmiausia sudarė artimiausi giminai-\nčiai – brolvaikiai, pagalbon pasitelkę ir svetimuosius – Livonijos ordiną \nir Voluinę. Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diploma-\ntija – pasinaudojęs Livonijos vidaus prieštaravimais, patraukė į savo pusę \nLivonijos ordino magistrą Andrių Štirlandą. Per jį 1251 m. pavasarį (ar \nvasaros pradžioje) Mindaugas išsirūpino sau ir žmonai Mortai krikštą, o \nsau – karaliaus karūną."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187508
+    - t-187502

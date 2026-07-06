@@ -5,12 +5,24 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Alus
 
 ## Santrauka
 
-Narbutas aiškina, kad alus senovės lietuviams buvo svarbiausias svaiginamasis gėrimas ir įėjo į slapiasias aukas arba vaišes. Narbutas nurodo, kad duona ir alus buvo visų aukų pagrindas, naudojamas sutinkant ar išleidžiant svečius ir apeigose.
+Narbutas aiškina, kad alus senovės lietuviams buvo svarbiausias svaiginamasis gėrimas ir įėjo į slapiasias aukas arba vaišes. Narbutas nurodo, kad duona ir alus buvo visų aukų pagrindas, naudojamas sutinkant ar išleidžiant svečius ir apeigose. Įvairiai ruošiant javus, lengva ap tikti salyklo darymo būdą, ar tai atsitiktinai sudygus grūdams, ar dirbtinai juos sudaiginus, o iš jų padarytam nuovirui per ėjus fermentaciją, alus jau ir gatavas.
 
 ## Pavadinimai šaltiniuose
 Nenurodyta
@@ -28,28 +40,65 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-189642"></a>
 - t-001
   global_id: t-189642
-  teiginys: 'Narbutas aiškina, kad alus senovės lietuviams buvo svarbiausias svaiginamasis gėrimas ir įėjo į slapiasias aukas arba vaišes.'
+  teiginys: "Narbutas aiškina, kad alus senovės lietuviams buvo svarbiausias svaiginamasis gėrimas ir įėjo į slapiasias aukas arba vaišes."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "535167-535545; hash=bae256e2fb20ab8d01bc65bb9f304e18b268481de4bb55f649ac4e3a1010dbe0; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-172525
+
 <a id="claim-t-189644"></a>
 - t-002
   global_id: t-189644
-  teiginys: 'Narbutas nurodo, kad duona ir alus buvo visų aukų pagrindas, naudojamas sutinkant ar išleidžiant svečius ir apeigose.'
+  teiginys: "Narbutas nurodo, kad duona ir alus buvo visų aukų pagrindas, naudojamas sutinkant ar išleidžiant svečius ir apeigose."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "542057-542356; hash=4143af095111f0520b29cbdfefa75ef89dde760ddfff11a9c83545820ba3e6b1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Duona: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Alus: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Duona: mention_match, thing, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Alus\" parinktas kaip owner_note_path. Targetas \"Duona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
-    - c-002
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-172527
+
+<a id="claim-t-194608"></a>
+- t-003
+  global_id: t-194608
+  teiginys: "Įvairiai ruošiant javus, lengva ap tikti salyklo darymo būdą, ar tai atsitiktinai sudygus grūdams, ar dirbtinai juos sudaiginus, o iš jų padarytam nuovirui per ėjus fermentaciją, alus jau ir gatavas."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "536354-536856; hash=86b5a9fad6d4e56f40f198994e015ab236dbdb9e382ac356465f7d06d6d1ef1b; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-177007
 - susijęs iš [[objektai/grupes/Rusinai.md#claim-t-189407|Rusinai]]: Narbutas nurodė, kad rusinai alaus tipo gėrimą vadino Ohij, o lietuviai, prūsai ir latviai turėjo giminingus pavadinimus Alaus, Alus ir Alius.
 - susijęs iš Rėzos „Dainų“ komentarai: Rėzos „Dainų“ komentaruose, Narbuto perteikimu, alus atskiriamas nuo Prūsų šalyje vadinto „Bier“ ir apibūdinamas kaip saldesnis bei šviesesnis.
 - susijęs iš [[objektai/paprociai/Šventieji gėrimai aukose ir apeigose.md#claim-t-189788|Šventieji gėrimai aukose ir apeigose]]: Narbutas alų vadina senovės lietuvių pirmutiniu ir mėgstamiausiu svaiginamuoju gėrimu, įėjusiu į slapiąsias aukas arba vaišes.
 - susijęs iš Paryžiaus akademijos „Užrašai“: Narbutas Paryžiaus akademijos „Užrašų“ XVII tomą nurodė kaip šaltinį pastaboms apie alaus mitologinę kilmę.
 - susijęs iš Londonas: Narbutas Londono alų laikė ištobulinta senojo lietuviško alaus forma.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Narbutas aiškina, kad alus senovės lietuviams buvo svarbiausias svaiginamasis gėrimas ir įėjo į slapiasias aukas arba vaišes.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -66,11 +115,14 @@ Nenurodyta
     ir mėgstamiausias svaiginamasis gėrimas; jis įeidavo į slapią­
     sias aukas arba vaišes. Todėl reikia panagrinėti jo mitologinę
     kilme.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Narbutas nurodo, kad duona ir alus buvo visų aukų pagrindas, naudojamas sutinkant ar išleidžiant svečius ir apeigose.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -81,8 +133,87 @@ Nenurodyta
     jant mažą auką namiškių susibūrime arba ant aukuro, kai bū­
     davo atliekamos kokios nors apeigos, be duonos ir alaus ne­
     būdavo galima apsieiti.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: 'Įvairiai ruošiant javus, lengva ap tikti salyklo darymo būdą, ar tai atsitiktinai sudygus grūdams, ar dirbtinai juos sudaiginus, o iš jų padarytam nuovirui per ėjus fermentaciją, alus jau ir gatavas.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Įvairiai ruošiant javus, lengva ap­
+    tikti salyklo darymo būdą, ar tai atsitiktinai sudygus grūdams,
+    ar dirbtinai juos sudaiginus, o iš jų padarytam nuovirui per­
+    ėjus fermentaciją, alus jau ir gatavas. Iš tikrųjų turime įrody­
+    mų, kad mūsų šiaurės šalių gyventojai alaus darymo būdą ži­
+    nojo nuo seniausių laikų. Tuo klausimu išsamiai įtikina Cac-
+    kis1. Skandinavai ir jų giminaičiai germanai tą gėrimą vadino
+    A e l, Al, rusinai -  Ohij1 2, lietuviai vadina alumi (Alaus), prūsai -
+    Alus, latviai Alius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003
+
+## Citatos
+
+- id: c-172525
+  citata_originali: |
+    Tą
+    patį dalyką plačiai dėstė mokslininkai Van-Dalė (Van-Dale)lr
+    taip pat grobiantis iš jo Fontenelis (Fontenete), kurio vertimą
+    turime gimtąja kalba.
+    IV
+    skyrius
+    APIE AUKAS
+    Šventieji gėrimai
+    Alus (Alus) senovės lietuviams visuomet buvo pirmutinis
+    ir mėgstamiausias svaiginamasis gėrimas; jis įeidavo į slapią­
+    sias aukas arba vaišes. Todėl reikia panagrinėti jo mitologinę
+    kilme.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-189642
+
+- id: c-172527
+  citata_originali: |
+    Tačiau visų aukų pagrindas buvo
+    duona ir alus. Ar sutinkant ką nors, ar išleidžiant, duoną ir alų
+    aukodavo namų dievams ir vaišindavo jais svečią. Atnašau­
+    jant mažą auką namiškių susibūrime arba ant aukuro, kai bū­
+    davo atliekamos kokios nors apeigos, be duonos ir alaus ne­
+    būdavo galima apsieiti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-189644
+
+- id: c-177007
+  citata_originali: |
+    Įvairiai ruošiant javus, lengva ap­
+    tikti salyklo darymo būdą, ar tai atsitiktinai sudygus grūdams,
+    ar dirbtinai juos sudaiginus, o iš jų padarytam nuovirui per­
+    ėjus fermentaciją, alus jau ir gatavas. Iš tikrųjų turime įrody­
+    mų, kad mūsų šiaurės šalių gyventojai alaus darymo būdą ži­
+    nojo nuo seniausių laikų. Tuo klausimu išsamiai įtikina Cac-
+    kis1. Skandinavai ir jų giminaičiai germanai tą gėrimą vadino
+    A e l, Al, rusinai -  Ohij1 2, lietuviai vadina alumi (Alaus), prūsai -
+    Alus, latviai Alius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194608

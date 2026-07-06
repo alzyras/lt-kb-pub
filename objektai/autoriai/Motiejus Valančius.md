@@ -8,15 +8,6 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
-aliases:
-  - 'objektai/autoriai/Vysk. Motiejus Valančius'
-variantai:
-  - 'Vysk. Motiejus Valančius'
-description: 'Motiejus Valančius – Žemaičių vyskupas, blaivybės sąjūdžio, slaptųjų mokyklų ir lietuviškos spaudos rėmėjas XIX a.'
-socialDescription: 'Motiejus Valančius – Žemaičių vyskupas ir rašytojas, siejamas su blaivybe, slaptosiomis mokyklomis ir lietuviškos spaudos rėmimu.'
-seo_atnaujinta: '2026-07-02T23:12:35.428805+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,12 +16,24 @@ tags:
 amziai:
   - 'V'
 periodo_grupes: []
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Motiejus Valančius
 
 ## Santrauka
 
-Motiejus Valančius pristatomas kaip Žemaičių vyskupas, rašytojas ir lietuviškos kultūros rėmėjas. Jo veikla siejama su blaivybės brolijų platinimu, slaptųjų mokyklų skatinimu ir draudžiamos lietuviškos spaudos palaikymu. XIX a. Valančius darė didelę įtaką Lietuvos politiniams procesams ir religiniam bei švietimo gyvenimui.
+Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio raštų autorius, bet ir kaip Žemaičių vyskupas, blaivybės skleidėjas bei lietuviškos spaudos ir slaptųjų mokyklų rėmėjas.
 
 ## Darbai
 
@@ -56,67 +59,161 @@ Motiejus Valančius pristatomas kaip Žemaičių vyskupas, rašytojas ir lietuvi
 ## Teiginiai
 
 <a id="claim-t-00056"></a>
-- t-001
+- t-012
   global_id: t-00056
-  teiginys: 'Motiejus Valančius parašė daugybę knygučių ir rūpinosi jų leidimu.'
+  teiginys: "Motiejus Valančius parašė daugybę knygučių ir rūpinosi jų leidimu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "1001713-1001929; hash=c307eea8922f85a5b3acdd97b6a79e469dbb3578f402abf4e17ec52751ee29d7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vysk. Valančius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Motiejus Valančius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Vysk. Valančius: mention_match, author, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus Valančius\" parinktas kaip owner_note_path. Targetas \"Vysk. Valančius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-163236
 
 <a id="claim-t-00058"></a>
-- t-002
+- t-013
   global_id: t-00058
-  teiginys: 'Motiejaus Valančiaus „Palangos Juzė“, „Paaugusių žmonių knygelė“, „Vaikų knygelė“ ir „Pasakojimas Antano tretininko“ turėjo nemažą reikšmę.'
+  teiginys: "Motiejaus Valančiaus „Palangos Juzė“, „Paaugusių žmonių knygelė“, „Vaikų knygelė“ ir „Pasakojimas Antano tretininko“ turėjo nemažą reikšmę."
+  temporaliniai_duomenys: "įvykio data: 1883 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata remia konkretesnį teiginį apie išvardytų Valančiaus kūrinių reikšmę."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "1004496-1005025; hash=c706d5ccc0da5200075e8cd4aeb078908248c87ed05cb45fe2d9af48352aebea; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antanas (vaistininkas): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Motiejus Valančius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Antanas (vaistininkas): mention_match, person, gap=98"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus Valančius\" parinktas kaip owner_note_path. Targetas \"Antanas (vaistininkas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-163235
 
 <a id="claim-t-00059"></a>
-- t-003
+- t-014
   global_id: t-00059
-  teiginys: 'Spaudos draudimo metu Amerikoje buvo išleista ir Motiejaus Valančiaus raštų.'
+  teiginys: "Spaudos draudimo metu Amerikoje buvo išleista ir Motiejaus Valančiaus raštų."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "1287673-1288017; hash=82ce83ffbdda711cf931e42de5028e98d448584a91ee46e5f5bc620dd3015ddf; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Motiejus Valančius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus Valančius\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-010
+    - c-163237
 
 <a id="claim-t-00060"></a>
-- t-004
+- t-015
   global_id: t-00060
-  teiginys: 'Valančiaus raginimu daug kur atsirado slaptų mokyklų, kuriose mokyta iš draudžiamųjų knygų.'
+  teiginys: "Valančiaus raginimu daug kur atsirado slaptų mokyklų, kuriose mokyta iš draudžiamųjų knygų."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "977365-977672; hash=094ca7799a2f3bb657e60a888373ab8ec4ce13e340465046704133325fb9a214; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-005
+    - c-163231
 
 <a id="claim-t-00061"></a>
-- t-005
+- t-016
   global_id: t-00061
-  teiginys: 'Valančius vyskupavo 1850—1875 m., o jo raginama kunigija platino blaivybės brolijas.'
+  teiginys: "Valančius vyskupavo 1850—1875 m., o jo raginama kunigija platino blaivybės brolijas."
+  temporaliniai_duomenys: "įvykio data: 1849 m.; įvykio data: 1875 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "985742-986285; hash=53abf0e8a224b365ca73d1c75ede3adfd23ba69c378754a53c963784ce66f606; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kuršas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Motiejus Valančius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Kuršas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus Valančius\" parinktas kaip owner_note_path. Targetas \"Kuršas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-163233
 
 <a id="claim-t-179551"></a>
-- t-006
+- t-010
   global_id: t-179551
-  teiginys: 'Valančius pasirūpino, kad kunigai turėtų pagarbų požiūrį į lietuviškai kalbančią liaudį, gerai išmoktų lietuviškai ir sakytų pamokslus lietuviškai, davė nurodymą kunigams prie bažnyčių steigti lietuviškas mokyklas.'
+  teiginys: "Valančius pasirūpino, kad kunigai turėtų pagarbų požiūrį į lietuviškai kalbančią liaudį, gerai išmoktų lietuviškai ir sakytų pamokslus lietuviškai, davė nurodymą kunigams prie bažnyčių steigti lietuviškas mokyklas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "1001713-1001929; hash=c307eea8922f85a5b3acdd97b6a79e469dbb3578f402abf4e17ec52751ee29d7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vysk. Valančius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Motiejus Valančius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Vysk. Valančius: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus Valančius\" parinktas kaip owner_note_path. Targetas \"Vysk. Valančius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-163230
 
 <a id="claim-t-179553"></a>
-- t-007
+- t-009
   global_id: t-179553
-  teiginys: 'Motiejus Valančius 1848 m. buvo paskirtas Telšių (Žemaičių) vyskupijos vyskupu.'
+  teiginys: "Motiejus Valančius 1848 m. buvo paskirtas Telšių (Žemaičių) vyskupijos vyskupu."
+  temporaliniai_duomenys: "įvykio data: 1848 m.; įvykio data: 1849 m.; įvykio data: 1875 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Motiejų Valančių ir atitinka citatos informaciją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "985742-986285; hash=53abf0e8a224b365ca73d1c75ede3adfd23ba69c378754a53c963784ce66f606; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Telšiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Motiejus Valančius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Telšiai: mention_match, place, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus Valančius\" parinktas kaip owner_note_path. Targetas \"Telšiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-163227
 
 <a id="claim-t-179554"></a>
-- t-008
+- t-011
   global_id: t-179554
-  teiginys: 'Motiejus Valančius XIX a. padarė didelę įtaką Lietuvos politiniams procesams.'
+  teiginys: "Motiejus Valančius XIX a. padarė didelę įtaką Lietuvos politiniams procesams."
+  temporaliniai_duomenys: "įvykio data: 1883 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata aiškiai teigia Valančiaus įtaką, o pradinis teiginys per fragmentiškas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "1004496-1005025; hash=c706d5ccc0da5200075e8cd4aeb078908248c87ed05cb45fe2d9af48352aebea; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Motiejus Valančius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=46"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus Valančius\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-163229
 
 <a id="claim-t-179555"></a>
-- t-009
+- t-012
   global_id: t-179555
-  teiginys: 'Zenonas Ivinskis Motiejui Valančiui priskyrė sveikas pažiūras ir gana kritišką nusistatymą šaltinių atžvilgiu veikale „Žemaičių Vyskupystė“.'
+  teiginys: "Zenonas Ivinskis Motiejui Valančiui priskyrė sveikas pažiūras ir gana kritišką nusistatymą šaltinių atžvilgiu veikale „Žemaičių Vyskupystė“."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1287673-1288017; hash=82ce83ffbdda711cf931e42de5028e98d448584a91ee46e5f5bc620dd3015ddf; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Motiejus Valančius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus Valančius\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-163234
 - susijęs iš [[objektai/asmenys/Simonas Daukantas.md#claim-t-105710|Simonas Daukantas]]: Simonas Daukantas įkalbino Motiejų Valančių rašyti ir lietuviškai išleisti Žemaičių vyskupijos istoriją.
 - susijęs iš [[objektai/autoriai/J. Eretas.md#claim-t-30667|J. Eretas]]: J. Eretas parengė spaudai veikalą „Valančiaus šviesa už marių“ apie Pranciškaus Juro ir jo bendrininkų gyvenimą bei veiklą.
 - susijęs iš [[objektai/autoriai/L. Kuodys.md#claim-t-96056|L. Kuodys]]: L. Kuodys redagavo vyskupo Valančiaus „Vaikų knygelę“, išleistą su K. Šimonio iliustracijomis.
@@ -167,6 +264,7 @@ Motiejus Valančius pristatomas kaip Žemaičių vyskupas, rašytojas ir lietuvi
     praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo
     europietiškos katalikiškos civilizacijos šalininkas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -186,6 +284,7 @@ Motiejus Valančius pristatomas kaip Žemaičių vyskupas, rašytojas ir lietuvi
     parodė Motiejus Valančius savo 2-jų tomų veikale « Žemaičių
     Vyskupystėje »^43.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -204,6 +303,7 @@ Motiejus Valančius pristatomas kaip Žemaičių vyskupas, rašytojas ir lietuvi
     politiku vyskupas M. Valančius XIX a. politiniams procesams Lietuvoje
     padarė bene didesnę įtaką, nei kas nors kitas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -222,6 +322,7 @@ Motiejus Valančius pristatomas kaip Žemaičių vyskupas, rašytojas ir lietuvi
     se kraštuose platinamomis blai-
     vybės idėjomis, inicijavo blaivybės sąjūdį.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -237,6 +338,7 @@ Motiejus Valančius pristatomas kaip Žemaičių vyskupas, rašytojas ir lietuvi
     ginus, daug kur atsirado slaptų mokyklų, kuriose buvo mokoma
     lenkiškai (dvaruose) ir lietuviškai — iš draudžiamųjų knygų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -256,6 +358,7 @@ Motiejus Valančius pristatomas kaip Žemaičių vyskupas, rašytojas ir lietuvi
     galos dekanatai). Vyskupo raginama, kunigija tapo uoliausia
     blaivybės platintoja; ji surašinėjo žmones į blaivybės brolijas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -275,6 +378,7 @@ Motiejus Valančius pristatomas kaip Žemaičių vyskupas, rašytojas ir lietuvi
     Vyskupystėje »^43. Joje yra tačiau daug smulkini klaidų ir apsiri­
     kimų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -296,6 +400,7 @@ Motiejus Valančius pristatomas kaip Žemaičių vyskupas, rašytojas ir lietuvi
     čių seminarijos rektoriaus kun. J. S. Dovydaičio „Šiaulė-
     niškis senelis" ir kitos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -312,8 +417,9 @@ Motiejus Valančius pristatomas kaip Žemaičių vyskupas, rašytojas ir lietuvi
     parašė daugybę knygučių ir joms išleisti nesigailėjo nei lėšų
     nei vargo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -330,8 +436,166 @@ Motiejus Valančius pristatomas kaip Žemaičių vyskupas, rašytojas ir lietuvi
     Strazdelio, Daukanto, Valančiaus, Ivinskio, Kudirkos ir t.t.)
     raštų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-163227
+  citata_originali: |
+    1848 m. Vilniuje ši knyga, kurios autorius tais pat metais
+    buvo paskirtas Telšių (Žemaičių) vyskupijos vyskupu (Vatikano patvir-
+    tintas po metų), išėjo lietuviškai-žemaitiškai nustebindama visus, kad
+    parašyta ne lenkiškai, kaip buvo įprasta. Romantikas S. Daukantas savo
+    veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M. Valančius –
+    praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo
+    europietiškos katalikiškos civilizacijos šalininkas.
+  citata_rodoma: "Būtent S. Daukantas įkalbino savo kraštietį Motiejų Valančių (1801–\n1875), tuomet dėstytojavusį Sankt Peterburge, ten perkeltoje iš Vilniaus \nKatalikų dvasinėje akademijoje, rašyti ir išleisti Žemaičių vyskupijos isto-\nriją lietuviškai. 1848 m. Vilniuje ši knyga, kurios autorius tais pat metais \nbuvo paskirtas Telšių (Žemaičių) vyskupijos vyskupu (Vatikano patvir-\ntintas po metų), išėjo lietuviškai-žemaitiškai nustebindama visus, kad \nparašyta ne lenkiškai, kaip buvo įprasta. Romantikas S. Daukantas savo \nveikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M. Valančius – \npraktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo \neuropietiškos katalikiškos civilizacijos šalininkas. Savo pirmąjį inaugura-\ncinį pamokslą vyskupas M. Valančius sakė ir lietuviškai, ir lenkiškai. Lie-\ntuvių (žemaičių) kalba po katedros skliautais iš vyskupo lūpų skambėjo \nbene pirmą kartą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179553
+
+- id: c-163229
+  citata_originali: |
+    Tai išryškės
+    po 1863 m., kai vyskupo slapta paraginta liaudis nepasiduos caro val-
+    džios vilionėms ir iš esmės sužlugdys rusinimo politikos užmačias. O
+    vyskupo raginimų laikytasi, nes jis savo ankstesne veikla tapo liaudžiai
+    visomis prasmėmis artimu ir neginčijamu autoritetu. Tad nebūdamas
+    politiku vyskupas M. Valančius XIX a. politiniams procesams Lietuvoje
+    padarė bene didesnę įtaką, nei kas nors kitas.
+  citata_rodoma: "Tad nebūdamas \npolitiku vyskupas M. Valančius XIX a. politiniams procesams Lietuvoje \npadarė bene didesnę įtaką, nei kas nors kitas. Ugdydamas liaudies išti-\nkimybę savo kalbai ir kultūrai, jis niekur nepasisakė ir prieš lenkiškai \nkalbančiuosius, savo dienoraštį rašė lenkiškai, o pasirašydavo lenkiška \nmaniera – Wolonczewski."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179554
+
+- id: c-163230
+  citata_originali: |
+    Kai kuriose vietovėse mokančių
+    skaityti procentas padidėjo iki
+    60 – baudžiavinio kaimo sąlygo-
+    mis tai fantastiškas skaičius. Ne-
+    gana to, 1858 m. M.  Valančius,
+    remdamasis kituose katalikiškuo-
+    se kraštuose platinamomis blai-
+    vybės idėjomis, inicijavo blaivybės sąjūdį.
+  citata_rodoma: "M. Valančius pasirūpino, kad \nkunigai turėtų pagarbų požiūrį į \nlietuviškai kalbančią liaudį, gerai \nišmoktų lietuviškai ir sakytų pa-\nmokslus lietuviškai, davė nurody-\nmą kunigams prie bažnyčių steigti \nlietuviškas mokyklas. O vyskupija \ntuomet apėmė didžiąją dalį etni-\nnės Lietuvos, ne tik Žemaitiją. Tos \nmokyklos visiškai nukonkuravo \nvaldiškas mokyklas rusų kalba. \nKai kuriose vietovėse mokančių \nskaityti procentas padidėjo iki \n60 – baudžiavinio kaimo sąlygo-\nmis tai fantastiškas skaičius. Ne-\ngana to, 1858 m. M.  Valančius, \nremdamasis kituose katalikiškuo-\nse kraštuose platinamomis blai-\nvybės idėjomis, inicijavo blaivybės sąjūdį."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179551
+
+- id: c-163231
+  citata_originali: |
+    **Slaptosios mokyklos.** Lietuviai, pajutę, kad rusai per savo
+    mokyklas nori juos surusinti ir supravoslavinti, ėmė priešintis
+    ir neleisti vaikų į tas mokyklas. Vyskupui Valančiui para-
+    ginus, daug kur atsirado slaptų mokyklų, kuriose buvo mokoma
+    lenkiškai (dvaruose) ir lietuviškai — iš draudžiamųjų knygų.
+  citata_rodoma: "Vyskupui Valančiui para-\nginus, daug kur atsirado slaptų mokyklų, kuriose buvo mokoma\nlenkiškai (dvaruose) ir lietuviškai — iš draudžiamųjų knygų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-00060
+
+- id: c-163233
+  citata_originali: |
+    XIX amž. vidury popiežiaus Pijo IX paraginti, viso pa-
+    saulio dvasininkai ėmė skelbti blaivybę. Lietuvoje didžiausią
+    pasisekimą ji turėjo vyskupo Valančiaus valdomoje Že-
+    maičių vyskupystėje (jis vyskupavo 1850—1875 m.; prieš jo vys-
+    kupavimą, 1849 m., Žemaičių vyskupystė buvo padidinta, — prie
+    jos buvo pirskirtos 93 Vilniaus vyskupystės parapijos — Kauno,
+    Panevėžio, Ukmergės, Utenos, Obelių, Zarasų, Kuršo ir Žiem-
+    galos dekanatai). Vyskupo raginama, kunigija tapo uoliausia
+    blaivybės platintoja; ji surašinėjo žmones į blaivybės brolijas.
+  citata_rodoma: "Lietuvoje didžiausią\npasisekimą ji turėjo vyskupo Valančiaus valdomoje Že-\nmaičių vyskupystėje (jis vyskupavo 1850—1875 m.; prieš jo vys-\nkupavimą, 1849 m., Žemaičių vyskupystė buvo padidinta, — prie\njos buvo pirskirtos 93 Vilniaus vyskupystės parapijos — Kauno,\nPanevėžio, Ukmergės, Utenos, Obelių, Zarasų, Kuršo ir Žiem-\ngalos dekanatai). Vyskupo raginama, kunigija tapo uoliausia\nblaivybės platintoja; ji surašinėjo žmones į blaivybės brolijas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-00061
+
+- id: c-163234
+  citata_originali: |
+    Tik
+    prieš 20 metų, metodiškai tyrinėjant^42 , buvo akivaizdžiai matyti,
+    kad Stanevičius buvo pradėjęs moksliniu atžvilgiu teisingai statyti
+    klausimus.
+    Sveikas pažiūras ir gana kritišką nusistatymą link šaltinių
+    parodė Motiejus Valančius savo 2-jų tomų veikale « Žemaičių
+    Vyskupystėje »^43. Joje yra tačiau daug smulkini klaidų ir apsiri­
+    kimų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179555
+
+- id: c-163235
+  citata_originali: |
+    Nors jos lietė tikybos
+    klausimus, bet iš tikrųjų buvo politinės brošiūros. Jose pirmą
+    kartą buvo surašyta lietuvių politinė programa — priešintis ru-
+    sams, — kurios buvo laikomasi iki pat naujo pasaulinių inteli-
+    gentų sukelto judėjimo, prasidėjusio su „Aušra" (1883 m.).
+    Be jų, nemaža reikšmės dar turėjo Valančiaus „Palangos
+    Juzė", „Paaugusių žmonių knygelė", „Vaikų knygelė", „Pasa-
+    kojimas Antano tretininko", Valančiaus bendradarbio, žemai-
+    čių seminarijos rektoriaus kun. J. S. Dovydaičio „Šiaulė-
+    niškis senelis" ir kitos.
+  citata_rodoma: "Be jų, nemaža reikšmės dar turėjo Valančiaus „Palangos\nJuzė\", „Paaugusių žmonių knygelė\", „Vaikų knygelė\", „Pasa-\nkojimas Antano tretininko\", Valančiaus bendradarbio, žemai-\nčių seminarijos rektoriaus kun. J. S. Dovydaičio „Šiaulė-\nniškis senelis\" ir kitos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-00058
+
+- id: c-163236
+  citata_originali: |
+    Iš ten slapta knygos
+    buvo gabenamos ir skleidžiamos po visą Lietuvą. Tą darbą
+    pradėjo vysk. Valančius su savo artimaisiais padėjėjais. Jis pats
+    parašė daugybę knygučių ir joms išleisti nesigailėjo nei lėšų
+    nei vargo.
+  citata_rodoma: "Tą darbą\npradėjo vysk. Valančius su savo artimaisiais padėjėjais. Jis pats\nparašė daugybę knygučių ir joms išleisti nesigailėjo nei lėšų\nnei vargo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-00056
+
+- id: c-163237
+  citata_originali: |
+    Per 35 m. ji išleido 40
+    veikalų (ne tik originalių lietuviškų raštų, bet ir verstinių). Be
+    jos, ėmė leisti knygas įvairūs laikraščiai ir atskiri asmens. Tuo
+    būdu, kai Lietuvoje buvo draudžiama spauda, Amerikoje buvo
+    išleista daugumas žymesniųjų lietuvių autorių (Duonelaičio,
+    Strazdelio, Daukanto, Valančiaus, Ivinskio, Kudirkos ir t.t.)
+    raštų.
+  citata_rodoma: "Tuo\nbūdu, kai Lietuvoje buvo draudžiama spauda, Amerikoje buvo\nišleista daugumas žymesniųjų lietuvių autorių (Duonelaičio,\nStrazdelio, Daukanto, Valančiaus, Ivinskio, Kudirkos ir t.t.)\nraštų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-00059

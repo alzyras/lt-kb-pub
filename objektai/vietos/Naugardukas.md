@@ -18,11 +18,6 @@ datos:
   - '2026 m.'
 date_start: '1044'
 date_end: '2026'
-description: 'Naugardukas – su Jaroslavu, Mindaugu, Vaišvilku ir Gediminu siejama LDK vieta, minima karuose, bažnyčių ir prekybos istorijoje.'
-socialDescription: 'Naugardukas Lietuvos istorijoje iškyla kaip ankstyvųjų žygių, Mindaugo ir Vaišvilko laikų, Gedimino religinės politikos bei LDK karų vieta.'
-seo_atnaujinta: '2026-07-02T23:12:35.137511+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -33,252 +28,757 @@ tags:
 amziai:
   - 'XI'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Naugardukas
 
 ## Santrauka
 
-Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minimas 1044 m. Jaroslavo žygyje „na Litvu“ ir miesto įkūrimo pasakojime. XIII a. jis siejamas su Mindaugo valdžia ir Vaišvilku, o Gedimino laikais čia minimos bažnyčios bei Lietuvos stačiatikių arkivyskupija. Vėlesniuose įvykiuose Naugardukas pasirodo kaip puolimų, prekybos privilegijų ir LDK gynybos erdvės dalis.
+38 psl.) lietuviškąsias Gardino, Naugarduko, Slanimo ir Volkovisko sritis. Gedimino laikais Vilniuje ir Naugarduke, o gal net ir kitur buvo katalikų bažnyčių. Bžostausko fundacija), Naugarduke (sudėtinė fundacija), Bobruiske (Triznos fundacija), Pinske (kanclerio Aibr.
 
 ## Teiginiai
 
 <a id="claim-t-119084"></a>
-- t-001
+- t-002
   global_id: t-119084
-  teiginys: '1044 m. Jaroslavas įkūrė Naugarduką, turbūt dar lietuvių gyvenamoje žemėje.'
+  teiginys: "1044 m. Jaroslavas įkūrė Naugarduką, turbūt dar lietuvių gyvenamoje žemėje."
+  semantiniai_rysiai: "Jaroslavas pastatė Naugardukas (0.72)"
+  temporaliniai_duomenys: "įkūrimo data: 1044 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "352949-353372; hash=3cc1e48bd0aa8e9c6b26dd29d9aa5574e4457fe63d6ae2b0c81af03ca7e6c5e4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Naugardukas: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jaroslavas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Naugardukas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys nurodo Jaroslavo Naugarduko įkūrimą; panaudotas artimiausias leidžiamas kūrimo santykis."
   pagrindžia:
-    - c-002
+    - c-32273
 
 <a id="claim-t-119085"></a>
-- t-002
+- t-022
   global_id: t-119085
-  teiginys: 'Totoriai iš stovyklos ties Kłecku pasiuntė nemažą būrį į Naugarduką.'
+  teiginys: "Totoriai iš stovyklos ties Kłecku pasiuntė nemažą būrį į Naugarduką."
+  semantiniai_rysiai: "Totoriai siuntė į Naugardukas (0.95)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "475350-475661; hash=f285071bf6931909f6370c680c9bc00de95756a9bdbe4a1db1a4a8d93ec83252; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Naugardukas: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Naugardukas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad totoriai pasiuntė būrį į Naugarduką."
   pagrindžia:
-    - c-015
+    - c-109425
 
 <a id="claim-t-119087"></a>
-- t-003
+- t-028
   global_id: t-119087
-  teiginys: 'Naugarduke buvo pastatyta viena iš dviejų minoritams skirtų bažnyčių.'
+  teiginys: "Naugarduke buvo pastatyta viena iš dviejų minoritams skirtų bažnyčių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "165776-166168; hash=0ed7c6eeefa374321b25b93fffc463e1e950ed17917f0f6bd6986c699a1907c3; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Viena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardukas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardukas\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-010
+    - c-109416
 
 <a id="claim-t-119088"></a>
-- t-004
+- t-014
   global_id: t-119088
-  teiginys: 'Kunigaikščių Baziliaus Serebriano ir Petro Šuiskio pajėgos planavo pulti Minsko, Naugarduko ir Vilniaus kryptimi.'
+  teiginys: "Kunigaikščių Baziliaus Serebriano ir Petro Šuiskio pajėgos planavo pulti Minsko, Naugarduko ir Vilniaus kryptimi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "350704-351200; hash=16766f13c5afcc8ecb0055de1ab964dad4ebb89e282a6d22187a4e8c94611976; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardukas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardukas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-43678
 
 <a id="claim-t-119089"></a>
-- t-005
+- t-017
   global_id: t-119089
-  teiginys: 'Naugardukas XIII amžiaus viduryje jau buvo Mindaugo sostinė.'
+  teiginys: "Naugardukas XIII amžiaus viduryje jau buvo Mindaugo sostinė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "41121-41516; hash=fe796562aa2420deaacc309c92697b376daf3c4a717b95646af07ed462e64683; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Mindaugas (valdovas, XIII a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardukas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Mindaugas (valdovas, XIII a.): mention_match, person, gap=43"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardukas\" parinktas kaip owner_note_path. Targetas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-013
+    - c-109420
 
 <a id="claim-t-119091"></a>
-- t-006
+- t-019
   global_id: t-119091
-  teiginys: 'Gediminas prašė atsiųsti keturis brolius prie Vilniuje ir Naugarduke pastatytų bažnyčių.'
+  teiginys: "Gediminas prašė atsiųsti keturis brolius prie Vilniuje ir Naugarduke pastatytų bažnyčių."
+  semantiniai_rysiai: "Gediminas pastatė Vilnius (0.84); Gediminas pastatė Naugardukas (0.84)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "153532-154639; hash=91de0d74f2441b5cf1861284643b1d8b7066baca9e88232a3e347296b7d9cfd5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Naugardukas: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Naugardukas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata apie Gedimino prašymą mini jau pastatytas bažnyčias Naugarduke."
   pagrindžia:
-    - c-009
+    - c-109415
 
 <a id="claim-t-119092"></a>
-- t-007
+- t-020
   global_id: t-119092
-  teiginys: 'Naugarduke buvo pastatyta viena iš dviejų minoritams skirtų bažnyčių, kita stovėjo Vilniuje.'
+  teiginys: "Naugarduke buvo pastatyta viena iš dviejų minoritams skirtų bažnyčių, kita stovėjo Vilniuje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "165776-166168; hash=0ed7c6eeefa374321b25b93fffc463e1e950ed17917f0f6bd6986c699a1907c3; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Viena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardukas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardukas\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-010
+    - c-109416
 
 <a id="claim-t-119093"></a>
-- t-008
+- t-029
   global_id: t-119093
-  teiginys: 'Žygimanto privilegijoje Naugardukas minėtas tarp vietų, kur Vilniaus miestiečiai galėjo gabenti prekes be muito.'
+  teiginys: "Žygimanto privilegijoje Naugardukas minėtas tarp vietų, kur Vilniaus miestiečiai galėjo gabenti prekes be muito."
+  semantiniai_rysiai: "Vilniaus miestiečių luomas prekiavo su Naugardukas (0.70)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "441401-441948; hash=e718386710e088128f379d4afb0ebcd76248f46bc464dfc426ab604b8bfaf98e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Naugardukas: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Naugardukas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys nurodo Vilniaus miestiečių prekybos privilegiją, apimančią Naugarduką."
   pagrindžia:
-    - c-008
+    - c-109413
 
 <a id="claim-t-119094"></a>
-- t-009
+- t-004
   global_id: t-119094
-  teiginys: 'Gediminas Naugarduke Lietuvos stačiatikiams palaikė atskirą arkivyskupiją.'
+  teiginys: "Gediminas Naugarduke Lietuvos stačiatikiams palaikė atskirą arkivyskupiją."
+  temporaliniai_duomenys: "įvykio data: 1330 m.; įvykio data: apie 1330 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako faktą apie Naugarduką ir yra paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "673607-674030; hash=4037b1f5d251c23bbb3d8582b8923e4b90b3ee97d72f3f3ee6e0ded2694ccaea; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardukas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardukas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-32275
 
 <a id="claim-t-119095"></a>
-- t-010
+- t-031
   global_id: t-119095
-  teiginys: '1314 m. rugsėjį brolis Henrikas su kariuomene įžengė į Krivičių žemę ir užėmė Naugarduko miestą.'
+  teiginys: "1314 m. rugsėjį brolis Henrikas su kariuomene įžengė į Krivičių žemę ir užėmė Naugarduko miestą."
+  temporaliniai_duomenys: "įvykio data: 1314 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko datą, veikėją ir Naugarduko užėmimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "648869-649239; hash=9a6393ce9387ef4eb00d0bb5c5cd753e02ff6ca2f2107a42aadb8411b378fe28; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Henrikas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardukas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Henrikas: mention_match, author, gap=55"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardukas\" parinktas kaip owner_note_path. Targetas \"Henrikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-017
+    - c-109428
 
 <a id="claim-t-119096"></a>
-- t-011
+- t-025
   global_id: t-119096
-  teiginys: 'Per ankstesnį žygį totoriai siaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.'
+  teiginys: "Per ankstesnį žygį totoriai siaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje."
+  semantiniai_rysiai: "Totoriai puolė Naugardukas (0.74); Totoriai puolė Sluckas (0.74); Totoriai puolė Vilnius (0.72); Totoriai puolė Vitebskas (0.72)"
+  temporaliniai_duomenys: "įvykio data: 1506 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradžia su „Prieš metus“ yra kontekstinė, todėl reikia savarankiško sakinio."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "304964-305302; hash=3d12ab11f0d9f3f87cd4cbc41add2e0182219d61a00aa3e40ac9b9b2e25b8a3b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Naugardukas: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Naugardukas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys Naugarduko apylinkes tiesiogiai sieja su totorių siaubimu."
   pagrindžia:
-    - c-006
+    - c-43677
 
 <a id="claim-t-119097"></a>
-- t-012
+- t-007
   global_id: t-119097
-  teiginys: '1415 m. Naugarduke sušaukęs LDK stačiatikių vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Camblaką.'
+  teiginys: "1415 m. Naugarduke sušaukęs LDK stačiatikių vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Camblaką."
+  temporaliniai_duomenys: "įkūrimo data: 1415 m.; įkūrimo data: 1439 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie įvykį Naugarduke."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "79794-80388; hash=a0ad51b1e088f42ebb3d2f12b85a69d3a87b9ba133486af861b47c9d166cad05; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Grigorijus Camblakas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardukas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Grigorijus Camblakas: mention_match, author, gap=162"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardukas\" parinktas kaip owner_note_path. Targetas \"Grigorijus Camblakas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-011
+    - c-109417
 
 <a id="claim-t-119098"></a>
-- t-013
+- t-001
   global_id: t-119098
-  teiginys: '1044 m. Jaroslavas, anot šaltinio, pavasarį įkūrė Naugarduką.'
+  teiginys: "1044 m. Jaroslavas, anot šaltinio, pavasarį įkūrė Naugarduką."
+  semantiniai_rysiai: "Jaroslavas pastatė Naugardukas (0.72)"
+  temporaliniai_duomenys: "įkūrimo data: 1044 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "335042-335247; hash=0fd2854d6ffc246e88c7827f7c38c31b92c69ace5e71cdf8f818593b760775f1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Naugardukas: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jaroslavas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Naugardukas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys nurodo Jaroslavo Naugarduko įkūrimą; panaudotas artimiausias leidžiamas kūrimo santykis."
   pagrindžia:
-    - c-001
+    - c-32272
 
 <a id="claim-t-119100"></a>
-- t-014
+- t-021
   global_id: t-119100
-  teiginys: 'Žygimantas suteikė Vilniaus miestiečiams teisę be muito gabenti prekes visoje Lietuvos žemėje, įskaitant Naugarduką.'
+  teiginys: "Žygimantas suteikė Vilniaus miestiečiams teisę be muito gabenti prekes visoje Lietuvos žemėje, įskaitant Naugarduką."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "441401-441948; hash=e718386710e088128f379d4afb0ebcd76248f46bc464dfc426ab604b8bfaf98e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardukas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardukas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-109413
 
 <a id="claim-t-119101"></a>
-- t-015
+- t-010
   global_id: t-119101
-  teiginys: '1044 m. Jaroslavo įkurtas Naugardukas, turbūt, buvo dar lietuvių gyvenamoje žemėje.'
+  teiginys: "1044 m. Jaroslavo įkurtas Naugardukas, turbūt, buvo dar lietuvių gyvenamoje žemėje."
+  temporaliniai_duomenys: "įvykio data: 1044 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "352949-353372; hash=3cc1e48bd0aa8e9c6b26dd29d9aa5574e4457fe63d6ae2b0c81af03ca7e6c5e4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardukas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardukas\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-32273
 
 <a id="claim-t-119104"></a>
-- t-016
+- t-009
   global_id: t-119104
-  teiginys: 'Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinėje.'
+  teiginys: "Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinėje."
+  semantiniai_rysiai: "Konstantinas Ostrogiškis pastatė Vilnius (0.74); Konstantinas Ostrogiškis pastatė Naugardukas (0.74)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "104797-105291; hash=91335ed8ecfdc4a3258f80c404a216daccfef050d777c6ca9129ea3754d5df5d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Naugardukas: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Konstantinas Ostrogiškis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Naugardukas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys nurodo Konstantino Ostrogiškio perstatytas Naugarduko cerkves."
   pagrindžia:
-    - c-019
+    - c-109433
+
+<a id="claim-t-119094"></a>
+- t-004
+  global_id: t-119094
+  teiginys: "Gediminas Naugarduke Lietuvos stačiatikiams palaikė atskirą arkivyskupiją."
+  temporaliniai_duomenys: "įvykio data: 1330 m.; įvykio data: apie 1330 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako faktą apie Naugarduką ir yra paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "673607-674030; hash=4037b1f5d251c23bbb3d8582b8923e4b90b3ee97d72f3f3ee6e0ded2694ccaea; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardukas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardukas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-32275
 
 <a id="claim-t-119106"></a>
-- t-018
+- t-033
   global_id: t-119106
-  teiginys: 'Naugardukas buvo užpultas ir sudegintas kartu su kitomis pilimis.'
+  teiginys: "Naugardukas buvo užpultas ir sudegintas kartu su kitomis pilimis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "153317-153430; hash=543bdb1cfdba3bf4be1a827605a03cdd77264db34fe82a9e910d0372153da8ce; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Nemunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardukas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Nemunas: mention_match, place, gap=34"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardukas\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-005
+    - c-37572
 
 <a id="claim-t-119107"></a>
-- t-019
+- t-027
   global_id: t-119107
-  teiginys: 'Valdovas nurodė, kad Naugarduke ir Vilniuje jau pastatytoms bažnyčioms tais metais reikia keturių brolių vienuolių.'
+  teiginys: "Valdovas nurodė, kad Naugarduke ir Vilniuje jau pastatytoms bažnyčioms tais metais reikia keturių brolių vienuolių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "153532-154639; hash=91de0d74f2441b5cf1861284643b1d8b7066baca9e88232a3e347296b7d9cfd5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Viena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardukas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=84"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardukas\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-109415
 
 <a id="claim-t-119108"></a>
-- t-020
+- t-013
   global_id: t-119108
-  teiginys: 'Totorių žygis nusiaubė Naugarduko ir Slucko apylinkes, priklausiusias tankiai apgyventam LDK branduoliui.'
+  teiginys: "Totorių žygis nusiaubė Naugarduko ir Slucko apylinkes, priklausiusias tankiai apgyventam LDK branduoliui."
+  semantiniai_rysiai: "Totoriai puolė Naugardukas (0.74); Totoriai puolė Sluckas (0.74); Totoriai puolė Vilnius (0.68); Totoriai puolė Vitebskas (0.68)"
+  temporaliniai_duomenys: "mūšio data: 1506 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "304964-305302; hash=3d12ab11f0d9f3f87cd4cbc41add2e0182219d61a00aa3e40ac9b9b2e25b8a3b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Naugardukas: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Naugardukas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Totorių žygis siejamas su Naugarduko apylinkių siaubimu."
   pagrindžia:
-    - c-006
+    - c-43677
 
 <a id="claim-t-119109"></a>
-- t-021
+- t-006
   global_id: t-119109
-  teiginys: 'Naugarduke tėvo įkurdintas Vaišelga siejamas su lietuvių kunigaikščių kūrimusi Rusios žemėse.'
+  teiginys: "Naugarduke tėvo įkurdintas Vaišelga siejamas su lietuvių kunigaikščių kūrimusi Rusios žemėse."
+  semantiniai_rysiai: "Vaišelga (kunigaikštis) buvo sūnus Mindaugas (valdovas, XIII a.) (0.96); Naugardukas priklausė Lietuva (0.82); Vaišelga (kunigaikštis) gyveno Naugardukas (0.78)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "51350-51833; hash=0984316057e91eb21f8a0e3a8f74fa9f3aa8e72534f9f0c246d1473ffa0b56fc; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Mindaugas (valdovas, XIII a.): 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vaišelga (kunigaikštis): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai įvardija Vaišelgą Mindaugo sūnumi."
   pagrindžia:
-    - c-016
+    - c-109426
 
 <a id="claim-t-119110"></a>
-- t-022
+- t-026
   global_id: t-119110
-  teiginys: 'Naugarduke buvo pastatyta viena iš dviejų pranciškonų bažnyčių, kita stovėjo Vilniuje.'
+  teiginys: "Naugarduke buvo pastatyta viena iš dviejų pranciškonų bažnyčių, kita stovėjo Vilniuje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "93489-93794; hash=cd1575948bbda319726eb51efbc7f66e242a207467e64918008688147e67a14e; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pranciškonų ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardukas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Pranciškonų ordinas: mention_match, group, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardukas\" parinktas kaip owner_note_path. Targetas \"Pranciškonų ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-018
+    - c-109430
 
 <a id="claim-t-119111"></a>
-- t-023
+- t-003
   global_id: t-119111
-  teiginys: 'Iš Juodojoje Rusijoje užimtų sričių Mindaugas Naugarduką atidavė sūnui Vaišvilkui.'
+  teiginys: "Iš Juodojoje Rusijoje užimtų sričių Mindaugas Naugarduką atidavė sūnui Vaišvilkui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "458775-459167; hash=9718d397df5addfcc20674b3b525c690cd797d6825790eb922dcf584e2f5e1e8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardukas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardukas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-32274
 
 <a id="claim-t-119112"></a>
-- t-024
+- t-018
   global_id: t-119112
-  teiginys: 'Gediminas teigė pastatęs pranciškonų bažnyčias Vilniuje ir Naugarduke.'
+  teiginys: "Gediminas teigė pastatęs pranciškonų bažnyčias Vilniuje ir Naugarduke."
+  semantiniai_rysiai: "Gediminas pastatė Vilnius (0.86); Gediminas pastatė Naugardukas (0.86)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "150119-150842; hash=746483d231397319a2ab5c8aa20dccdf1a45fbd91cb08db8524123fa8ba2bfd9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Naugardukas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Naugardukas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Gedimino pastatytą pranciškonų bažnyčią Naugarduke."
   pagrindžia:
-    - c-012
+    - c-109418
 
 <a id="claim-t-119113"></a>
-- t-025
+- t-032
   global_id: t-119113
-  teiginys: 'Naugardukas 1044 m. Jaroslavo buvo įkurtas, tikėtina, dar lietuvių gyvenamoje žemėje.'
+  teiginys: "Naugardukas 1044 m. Jaroslavo buvo įkurtas, tikėtina, dar lietuvių gyvenamoje žemėje."
+  temporaliniai_duomenys: "įvykio data: 1044 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir konteksto priklausomybė, sakinys išlaiko citatos atsargumą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "352756-353264; hash=fdfa03b0838ab31db9a1fb13dfd28d7808e546f44116f7080bcae5999526d973; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardukas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=58"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardukas\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-014
+    - c-109421
 
 <a id="claim-t-119114"></a>
-- t-026
+- t-024
   global_id: t-119114
-  teiginys: 'Mindaugo sūnus Vaišelga buvo įkurdintas Naugarduke, o ši žemė jungta prie Lietuvos valstybės.'
+  teiginys: "Mindaugo sūnus Vaišelga buvo įkurdintas Naugarduke, o ši žemė jungta prie Lietuvos valstybės."
+  semantiniai_rysiai: "Vaišelga (kunigaikštis) buvo sūnus Mindaugas (valdovas, XIII a.) (0.96); Naugardukas priklausė Lietuva (0.84); Vaišelga (kunigaikštis) gyveno Naugardukas (0.79)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "51350-51833; hash=0984316057e91eb21f8a0e3a8f74fa9f3aa8e72534f9f0c246d1473ffa0b56fc; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Mindaugas (valdovas, XIII a.): 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vaišelga (kunigaikštis): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai įvardija Vaišelgą Mindaugo sūnumi."
   pagrindžia:
-    - c-016
+    - c-109426
 
 <a id="claim-t-183059"></a>
-- t-027
+- t-034
   global_id: t-183059
-  teiginys: 'Naugarduke veikė jėzuitų kolegija, įsteigta sudėtinės fundacijos pagrindu.'
+  teiginys: "Naugarduke veikė jėzuitų kolegija, įsteigta sudėtinės fundacijos pagrindu."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "95921-96176; hash=6a6babd359d5c356cf9da49788c3e8f623b0c803feabc6e265bd6124fda36ce9; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bobruiskas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardukas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Bobruiskas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardukas\" parinktas kaip owner_note_path. Targetas \"Bobruiskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-020
+    - c-166450
 
 <a id="claim-t-185062"></a>
-- t-028
+- t-036
   global_id: t-185062
-  teiginys: 'Kunigaikštystės sostinė buvo perkelta iš Naugarduko į Kernavę.'
+  teiginys: "Kunigaikštystės sostinė buvo perkelta iš Naugarduko į Kernavę."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "236674-237377; hash=759c6bc1bb6e38023f9176d41bea62d2beb4d29db20ea8efe50cb0fa5bdfa393; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kernavė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardukas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kernavė: mention_match, place, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardukas\" parinktas kaip owner_note_path. Targetas \"Kernavė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-021
+    - c-168423
 
 <a id="claim-t-185063"></a>
-- t-029
+- t-037
   global_id: t-185063
-  teiginys: 'Henrikas su kariuomene nusibrovė iki Naugarduko, apiplėšė ir sudegino miestą.'
+  teiginys: "Henrikas su kariuomene nusibrovė iki Naugarduko, apiplėšė ir sudegino miestą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1314 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas nereikalingas autorinis įvadas ir išlaikytas cituotas faktinis turinys."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "328875-329635; hash=5a87f27a391e6dc223f1b0ceb2fa17f70582c325282ceffc8ad9fc497c756fe3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ugnimi ir kalaviju: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardukas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Ugnimi ir kalaviju: mention_match, thing, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardukas\" parinktas kaip owner_note_path. Targetas \"Ugnimi ir kalaviju\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-022
+    - c-168424
 
 <a id="claim-t-185064"></a>
-- t-030
+- t-038
   global_id: t-185064
-  teiginys: 'Palikę Slucką, skitai patraukė į Naugarduką, kur tuo metu buvo susirinkę didikai.'
+  teiginys: "Palikę Slucką, skitai patraukė į Naugarduką, kur tuo metu buvo susirinkę didikai."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1033570-1033866; hash=7970035e367cf0cc329819570387483bbe21e7bed11ea453cf60631ff5eaa6a9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardukas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardukas\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-023
+    - c-168425
 
 <a id="claim-t-185065"></a>
-- t-031
+- t-039
   global_id: t-185065
-  teiginys: 'Per skitų antplūdį dalis Naugarduke susirinkusių didikų, vadovaujama Alberto Goštauto, subruzdo ginti pilies.'
+  teiginys: "Per skitų antplūdį dalis Naugarduke susirinkusių didikų, vadovaujama Alberto Goštauto, subruzdo ginti pilies."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1033735-1034131; hash=d421ae8f4996e2a5802d8327f61b095fe829c2dd2bcd5ab10bd0c07a5c8478fa; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vytis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardukas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vytis: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardukas\" parinktas kaip owner_note_path. Targetas \"Vytis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-024
+    - c-168426
 
 <a id="claim-t-187621"></a>
 - t-032
   global_id: t-187621
-  teiginys: 'Lietuvos metraštis pasakoja, kad po Skirmanto mirties Treniota sėdo valdyti Naugarduką ir valdė šį miestą daugelį metų.'
+  teiginys: "Lietuvos metraštis pasakoja, kad po Skirmanto mirties Treniota sėdo valdyti Naugarduką ir valdė šį miestą daugelį metų."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Liubartas valdė miestą Karačevas (0.93)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "86949-87186; hash=a9ff60aad04631a645d91059da50a8a2ebc31faa3cee314d229206d899debbdc; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_miesta -> Karačevas: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Liubartas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Karačevas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Liubartas sėdo valdyti Karačevą."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-025
+    - c-170568
 
 <a id="claim-t-187622"></a>
 - t-033
   global_id: t-187622
-  teiginys: 'Lietuvos metraštis pasakoja, kad Vaišvilkas grįžo į Naugarduką, įkūrė vienuolyną prie Nemuno tarp Lietuvos ir Naugarduko ir ten gyveno.'
+  teiginys: "Lietuvos metraštis pasakoja, kad Vaišvilkas grįžo į Naugarduką, įkūrė vienuolyną prie Nemuno tarp Lietuvos ir Naugarduko ir ten gyveno."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "93489-93794; hash=cd1575948bbda319726eb51efbc7f66e242a207467e64918008688147e67a14e; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Nemunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardukas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Nemunas: mention_match, place, gap=34"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardukas\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-026
+    - c-170569
 
 <a id="claim-t-187623"></a>
 - t-034
   global_id: t-187623
-  teiginys: 'Lietuvos metraštis pasakoja, kad Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti.'
+  teiginys: "Lietuvos metraštis pasakoja, kad Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Naugardukiečiai keliavo į Lietuva (0.66)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "95921-96176; hash=6a6babd359d5c356cf9da49788c3e8f623b0c803feabc6e265bd6124fda36ce9; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.66"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Naugardukiečiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys leidžia suprasti, kad naugardukiečiai kartu buvo nuvesti atgal į Lietuvą."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-027
+    - c-170570
 
 <a id="claim-t-187624"></a>
 - t-035
   global_id: t-187624
-  teiginys: 'Lietuvos metraštis pasakoja, kad po Vytauto pergalės Dokudove kunigaikštis Kaributas su šeima pabėgo į Naugarduką.'
+  teiginys: "Lietuvos metraštis pasakoja, kad po Vytauto pergalės Dokudove kunigaikštis Kaributas su šeima pabėgo į Naugarduką."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Kaributas keliavo į Naugardukas (0.84)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "165776-166168; hash=0ed7c6eeefa374321b25b93fffc463e1e950ed17917f0f6bd6986c699a1907c3; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Naugardukas: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kaributas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Naugardukas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Pabėgimas į Naugarduką tiesiogiai palaiko judėjimo į vietą ryšį."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-028
+    - c-170571
+
+<a id="claim-t-193217"></a>
+- t-040
+  global_id: t-193217
+  teiginys: "Danieliaus sūnui Romanui Mindaugas davė valdyti Naugarduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų sričių miestus."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "126630-126892; hash=b4fe9a85d21bb6b37925618188c770011ed58fb79b1e5c16f0629610cc3aa36f; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-175961
+
+<a id="claim-t-193218"></a>
+- t-041
+  global_id: t-193218
+  teiginys: "Gedimino laikais Vilniuje ir Naugarduke, o gal net ir kitur buvo katalikų bažnyčių."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "324886-325126; hash=84c6f024024ed70ac4c33320ffce2cec27b9150ac7e714b283ef1a40c7f96c36; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-175962
+
+<a id="claim-t-193649"></a>
+- t-042
+  global_id: t-193649
+  teiginys: "Vytautas perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine, Naugarduke ir Lucke."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "102890-103321; hash=5bd425294d62e93ae2b6e31e114d24a183bfec2a566273b32cca60671f95574b; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176318
+
+<a id="claim-t-194256"></a>
+- t-043
+  global_id: t-194256
+  teiginys: "[Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "619842-620855; hash=f1a2fa39aed23ce7e5d575b637faa03778ade0edc4f85e82cd7f32324870af71; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176850
 - susijęs iš [[objektai/asmenys/Karijotas.md#claim-t-183748|Karijotas]]: Karijotas buvo Lietuvos valdovo Algirdo brolis ir valdė Lietuvos Naugarduką.
 - susijęs iš [[objektai/asmenys/Skirmantas.md#claim-t-186014|Skirmantas]]: Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke.
 - susijęs iš Z. Zinkevičius, Lietuvių kalbos kilmė: Z. Zinkevičiaus „Lietuvių kalbos kilmė“ nurodoma prie paaiškinimo, kad Dusburgietis Krivičių žeme vadino Naugarduko žemę Nemuno aukštupyje.
@@ -491,8 +991,9 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     dveji metai iš eilės (1131-32) Kijevo Mstislavas daręs žygius į
     Lietuvą («na Litvu»).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
@@ -508,6 +1009,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     anksčiau buvo įėję į Polocko žemės sąstatą, bet XII amž. gale
     politiškai jau atsipalaidavo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -526,6 +1028,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     kas priėmė graikišką krikštą, prie Nemuno «tarp Lietuvos ir Nau­
     garduko » pasistatė vienuolyną ir ten atgailavo^63.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -544,6 +1047,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     m. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas
     naujas įpėdinis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -558,6 +1062,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     Pilį pasisekė jam sudeginti. Bet ir tuo jis nepasiten­
     kino. Užpuolė dar Naugarduką ir kt. pilis ir jas sudegino.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -576,6 +1081,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     krašte. Totoriai neturėjo pagrindo įtarti, kad
     sėkmė nuo jų šį kartą nusisuks.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -603,6 +1109,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     nurodyta suvežti atsargas, kurių kariuome-
     nei turėjo pakakti net pusei metų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -627,6 +1134,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     laiške, datuotame 1432 metų rugpjū­
     čio 19 d. Ind.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -662,6 +1170,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     VILNIAUS MIESTO ISTORIJA I TOMAS
     amore nostri.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -692,6 +1201,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     vienuolynus verčia plėšikų prieglaudom, žudo Dievo tar­
     nus ir sielas žaloja.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -712,6 +1222,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     bažnyčios susirinkimą Konstance, kur iškėlė visuotinės bažnyčių unijos
     idėją (ji įgyvendinta vėliau – 1439 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -735,6 +1246,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     tajam tėvui, [tikėsite], jog ir tai, ką jam laiške parašėme, vis­
     ką išlaikysime.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -754,6 +1266,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     d)
     Harris, Voyages.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -773,6 +1286,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     klausė Naugardukui (Nowogródek), kuris 1044 m. Jaroslavo buvo
     įkurtas, tur būt, dar lietuvių gyvenamoje žemėje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -790,6 +1304,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     muną, savo papročiu plėšdamas apylinkes, atsidūrė vos per
     mylią nuo Lydos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -807,6 +1322,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     Lietuvos valstybės. Antra vertus, Vaišelga vienintelis kunigaikštis, atsisakęs
     kunigaikštijos ir tapęs vienuoliu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -825,6 +1341,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
       569 D.— circa territorium Medenickam, Jer.— Medenicken, Medeniken; Medininkai
     centrinėje Žemaitijoje (SZM, p. 223— 226).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -852,6 +1369,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     Vilnius, ir antrą Naugarduke, o trečią dominikonų, kad kiek­
     vienas pagal savo apeigas galėtų garbinti dievą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -870,6 +1388,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     pos kultūroje – tad labiausiai į rytus nutolusi gotika yra istorinėje Lietuvo-
     je, tai yra europinės reikšmės riba.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -894,6 +1413,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     kiuose (Minkevičių f-ja), Brastoje (vicekanclerio L. K. Sa-
     piegos f-ja).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -922,6 +1442,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     ištisus šešiolika metų nepavyko nieko padaryti reikš­
     mingesnio, kad iš lenkų būtų atsiimti jotvingiai.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -954,6 +1475,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     pirmojo antpuolio, netekęs žymiausių karių, buvo pri­
     verstas išsižadėti šio sumanymo.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -972,6 +1494,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     kaip atsiprašyti už nuoskaudas ir sutramdyti sąmyšio
     kėlėjus.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -991,6 +1514,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     įžengęs į tuščią miestą, įsakė lengvai ginkluotiems rai­
     teliams vytis bėgančiuosius, o su kitais apgulė pilį.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1007,6 +1531,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     rovą l9 , o Treniota — Naugarduką, ir valdė tuos mies­
     tus daugelį metų !0 .
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1025,6 +1550,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     lyną prie Nemuno upės, tarp Lietuvos ir Naugarduko,
     ir gyveno tenai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1042,6 +1568,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     parvyko į Lietuvą kunigaikščiauti. Visa Lietuva sutiko
     savo valdovo sūnų didžiai džiaugdamasi.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1065,11 +1592,735 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     gaikštį Kaributą, ir jo kunigaikštienę, ir jo vaikus pa­
     ėmė nelaisvėn 4 .
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-035
+
+- c-029
+  santrauka: 'Danieliaus sūnui Romanui Mindaugas davė valdyti Naugarduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų sričių miestus.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Sutartis buvo susti-
+    printa Mindaugo dukters ir Danieliaus sūnaus Švarno vedybo-
+    mis. Danieliaus sūnui Romanui Mindaugas davė valdyti Nau-
+    garduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų
+    sričių miestus. Tik jie turėjo pripažinti Mindaugo valdžią.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-036
+
+- c-030
+  santrauka: 'Gedimino laikais Vilniuje ir Naugarduke, o gal net ir kitur buvo katalikų bažnyčių.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Nuo to meto į Lie-
+    tuvą pradėjo skverbtis ir krikščionybė, atsirado vienuolių misijo-
+    nierių. Gedimino laikais Vilniuje ir Naugarduke, o gal net ir ki-
+    tur buvo katalikų bažnyčių. Be to, prasidėję prekybos santykiai
+    Lydos pilies griuvėsiai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-037
+
+- c-031
+  santrauka: 'Vytautas perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine, Naugarduke ir Lucke.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos gotikinės architektūros ypatumas – gynybinis pobūdis:
+    net ir sakraliniai pastatai turėjo gynybinius bokštus ar šaunamąsias an-
+    gas – Vytauto laikais daugiausia statyta būtent gynybinių statinių. Vytautas
+    perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine,
+    Naugarduke ir Lucke. Trakų salos pilies menė su gotikiniais kryžminiais
+    skliautais rodo, kad gotika buvo atėjusi ir į gynybinę architektūrą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-038
+
+- c-032
+  santrauka: '[Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    [Rūstusai Žygimante, kaip senasis karalius mėtau
+    žaibus,
+    Nejaugi manai, kad tik karaliams paklūsta žaibai?]
+    Vietovių pavadinimai yra tokie:
+    Pirmajame plane - Vilniaus arsenalas, antrame ir trečia­
+    me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc­
+    kas, Vitebskas, Orša, Mogiliovas, Propoiskiai, Čečerskiai,
+    Mstislavlis, Radomie, Liubičius, Gomelis, Rečica, Kšičovai,
+    Ovručas, Ostras, Vladimiras, Luckas, Mozyrius, Kijevas,
+    Čerkasai, Medilas, Kaniuvas, Podolės Brasta, Bialocerkievas,
+    Minskas, Radoškovičiai, Lietuvos Brasta, Chastiča, Rožekas,
+    Novy Zamekas, Svisločėje vadinamas Kasperu, Kremene-
+    cas, Černobilis, Suražas, Cieriščiai, Borisovas, Drisa, Trakai,
+    Upytė, Druja, Lepelis, Kopečius arba Ušcas, Tikocinas. Li­
+    vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas,
+    Rosytė, Dinaburgas, Bauskė, Pernava, Kaskhauzenas, Hel-
+    314
+
+    ## Puslapis 331
+
+    IV  KNYGA
+    menas, Trikačius, Hermesas, Veisenšteinas, Kirchholmas,
+    Volmera, Vendenė, Kokenhauzenas, Rundborgas, Diuna-
+    mundė, Ryga, Šmetenė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-039
+
+## Citatos
+
+- id: c-32272
+  citata_originali: |
+    1044 m. Jaroslavas vėl ėjęs « na Litvu » ir pavasarį įkūręs
+    Naugarduką. Lietuvos vardas vėl minimas po 87 metų, kai esą
+    dveji metai iš eilės (1131-32) Kijevo Mstislavas daręs žygius į
+    Lietuvą («na Litvu»).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119098
+
+- id: c-32273
+  citata_originali: |
+    Jau XI amžiuje Nemuno kairėje turėjo būti rytinių slavų pilys su
+    valsčiais, ar smulkiomis kunigaikštijomis V _a_ lk _a_ visku (Wolkowysk),
+    Slanimu (Slonirn), Nesvyžių (Nieśwież), Zdzitovu ir kt. Jos pri­
+    klausė Naugardukui (Nowogródek), kuris 1044 m. Jaroslavo buvo
+    įkurtas, tur būt, dar lietuvių gyvenamoje žemėje. Minėti valsčiai
+    anksčiau buvo įėję į Polocko žemės sąstatą, bet XII amž. gale
+    politiškai jau atsipalaidavo.
+  citata_rodoma: "Jos pri­\nklausė Naugardukui (Nowogródek), kuris 1044 m. Jaroslavo buvo\nįkurtas, tur būt, dar lietuvių gyvenamoje žemėje. Minėti valsčiai\nanksčiau buvo įėję į Polocko žemės sąstatą, bet XII amž."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119101
+    - t-119084
+
+- id: c-32274
+  citata_originali: |
+    Savo pali­
+    kuoniams jis nurodė ekspansijos kryptį, kuri pastoviai buvo palai­
+    koma du šimtmečius. Iš Juodojoje Rusijoje užimtųjų sričių Min­
+    daugas pasilaikė Slanimą ir Valkaviską, o sūnui Vaišvilkui^62 atidavė
+    Naugarduką. Esą dėl pralieto kraujo sąžinės kamuojamas, Vaišvil­
+    kas priėmė graikišką krikštą, prie Nemuno «tarp Lietuvos ir Nau­
+    garduko » pasistatė vienuolyną ir ten atgailavo^63.
+  citata_rodoma: "Iš Juodojoje Rusijoje užimtųjų sričių Min­\ndaugas pasilaikė Slanimą ir Valkaviską, o sūnui Vaišvilkui^62 atidavė\nNaugarduką. Esą dėl pralieto kraujo sąžinės kamuojamas, Vaišvil­\nkas priėmė graikišką krikštą, prie Nemuno «tarp Lietuvos ir Nau­\ngarduko » pasistatė vienuolyną ir ten atgailavo^63."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119111
+
+- id: c-32275
+  citata_originali: |
+    Iš imtos vartoti slavų kalbos išsivystė Lietuvos didžiojo kuni­
+    gaikščio kanceliarinė rašto kalba, kuri buvo skirtinga nuo mask­
+    vinės rusų kalbos.
+    Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne
+    tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke
+    Lietuvos stačiatikiams palaikė atskirą arkivyskupiją. Ji apie 1330
+    m. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas
+    naujas įpėdinis.
+  citata_rodoma: "Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne\ntik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke\nLietuvos stačiatikiams palaikė atskirą arkivyskupiją. Ji apie 1330\nm. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas\nnaujas įpėdinis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119105
+    - t-119094
+
+- id: c-37572
+  citata_originali: |
+    Pilį pasisekė jam sudeginti. Bet ir tuo jis nepasiten­
+    kino. Užpuolė dar Naugarduką ir kt. pilis ir jas sudegino.
+  citata_rodoma: "Bet ir tuo jis nepasiten­\nkino. Užpuolė dar Naugarduką ir kt. pilis ir jas sudegino."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119106
+
+- id: c-43677
+  citata_originali: |
+    1506 m. vasarą totoriai įsiveržė į LDK valdas
+    gerai nusiteikę. Prieš metus įvykęs jų žygis
+    leido jiems „smagintis“ Vilniaus ir Polocko,
+    Vitebsko ir Drucko, Naugarduko ir Slucko
+    apylinkėse - tikrajame LDK branduolyje,
+    tankiausiai apgyventame ir turtingiausiame
+    krašte. Totoriai neturėjo pagrindo įtarti, kad
+    sėkmė nuo jų šį kartą nusisuks.
+  citata_rodoma: "Prieš metus įvykęs jų žygis\nleido jiems „smagintis“ Vilniaus ir Polocko,\nVitebsko ir Drucko, Naugarduko ir Slucko\napylinkėse - tikrajame LDK branduolyje,\ntankiausiai apgyventame ir turtingiausiame\nkrašte. Totoriai neturėjo pagrindo įtarti, kad\nsėkmė nuo jų šį kartą nusisuks."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119108
+    - t-119096
+
+- id: c-43678
+  citata_originali: |
+    Viena jų, vadovaujama
+    kunigaikščio Baziliaus Serebriano, pajudėjo
+    iš Smolensko, kita, vadovaujama patyru-
+    sio karvedžio kunigaikščio Petro Šuiskio,
+
+    iš Polocko traukė į Drucką. Čia jos turėjo
+    susijungti ir pulti Minsko, Naugarduko, o
+    vėliau Vilniaus kryptimi. Buvo planuojama
+    stambaus masto ilgalaikė kampanija,
+
+    gal net visai Lietuvos Didžiajai
+    Kunigaikštystei užimti, nes
+
+    dar prieš tai į Didžiųjų Lukų tvirtovę buvo
+    nurodyta suvežti atsargas, kurių kariuome-
+    nei turėjo pakakti net pusei metų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119088
+
+- id: c-109413
+  citata_originali: |
+    Šis teisingu­
+    mas buvo Vilniui anksčiau negu kitiems miestams taikomas.
+    Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­
+    pročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos
+    ir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti
+    prekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­
+    toje, Naugarduke, Smolenske ir Podolėje. Vėliau, po ketu­
+    rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo
+    17
+    Apie tai didžiajam magistrui pra­
+    neša komtūras iš Lealio, iš Rygos,
+    laiške, datuotame 1432 metų rugpjū­
+    čio 19 d. Ind.
+  citata_rodoma: "Šis teisingu­\nmas buvo Vilniui anksčiau negu kitiems miestams taikomas. \nTų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­\npročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos \nir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti \nprekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­\ntoje, Naugarduke, Smolenske ir Podolėje. Vėliau, po ketu­\nrių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo\n17\nApie tai didžiajam magistrui pra­\nneša komtūras iš Lealio, iš Rygos, \nlaiške, datuotame 1432 metų rugpjū­\nčio 19 d."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119093
+    - t-119100
+
+- id: c-109415
+  citata_originali: |
+    Mes norime, kad jūs žinotumėte, jog mes pasiuntėme mū­
+    sų laišką mūsų didžiai prakilniam viešpačiui Jonui, apašta­
+    liškojo sosto aukščiausiajam kunigui, kad jis padėtų mums
+    drauge su kitomis savo avimis [įeiti] į gausumo ganyklą;
+    tuo reikalu gavome atsakymą, jog greitai atvyksią jo pasiun­
+    tiniai; jų delsimas mums kelia begalinį susirūpinimą, [nes
+    norime], kad greičiau būtų pabaigtas dievo darbas ir nie­
+    kais pavirstų klastinga apgaulė.
+    Mes pageidaujame per jus ir jūsų brolius paskelbti savo
+    nutarimą visuose miestuose, vietovėse ir kaimuose ir pa­
+    skatinti žmones išganingais pamokymais, kad tai, ką Die­
+    vas palaistė, jis ir išaugintų, ir nupiautų, o taip pat patalpin­
+    tų danguose su palaimintaisiais. Dėl to mes norime sukviesti
+    vyskupų, kunigų ir bet kurio ordino vienuolių, ypač iš jū­
+    siškių, kuriems jau pastatėme dvi bažnyčias: vieną mūsų ka­
+    rališkajame mieste, vardu Vilnius, antrą Naugarduke; prie
+    jų priskirkite mums šiais metais keturis brolius, mokančius
+    lenkų, žemgalių ir rusų kalbas, tokius, kokie dabar yra ir
+    63
+
+    ## Puslapis 80
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    amore nostri.
+  citata_rodoma: "Dėl to mes norime sukviesti\nvyskupų, kunigų ir bet kurio ordino vienuolių, ypač iš jū­\nsiškių, kuriems jau pastatėme dvi bažnyčias: vieną mūsų ka­\nrališkajame mieste, vardu Vilnius, antrą Naugarduke; prie\njų priskirkite mums šiais metais keturis brolius, mokančius\nlenkų, žemgalių ir rusų kalbas, tokius, kokie dabar yra ir\n63\n\n## Puslapis 80\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\namore nostri."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119091
+    - t-119107
+
+- id: c-109416
+  citata_originali: |
+    72
+
+    ## Puslapis 89
+
+    I  KNYGA
+    bo prievolių, tam laikui praėjus, turės, priklausomai nuo
+    žemės rūšies, tokią dešimtinę mokėti, kokią yra įprasta imti
+    kitose šalyse; visiems atvykėliams galioja Rygos miesto tei­
+    sė, nebent teisės žinovų potvarkiu kita nustatyta jiems ge­
+    resnė atrodytų. Jau yra pastatytos dvi bažnyčios minori-
+    tams, viena valdovo mūsų mieste - Vilniuje, kita -
+    Naugarduke, trečiąją paskyrėme dominikonų brolijos vie­
+    nuoliams, kad kiekvienas galėtų pagal savo apeigas Die­
+    vui melstis. Toms bažnyčioms prašytume dar šiais metais
+    ketverto vienuolių, mokančių lenkų, prūsų ir žemgalių kal­
+    bas; tik darome išimtį visiems dvasininkams, kurie savo
+    vienuolynus verčia plėšikų prieglaudom, žudo Dievo tar­
+    nus ir sielas žaloja.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119087
+    - t-119092
+
+- id: c-109417
+  citata_originali: |
+    1415 m. Naugarduke sušaukęs LDK stačiatikių
+    vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją
+    paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Cam-
+    blaką. Be to, „Kijevo ir visos Rusios“ metropolitas buvo tvirtai įkurdintas
+    Vilniuje: jam pastatyta katedra ir rezidencija, Vilniaus „rusėnų pusėje“
+    suformuota metropolito jurisdikcija, gyvavusi iki pat XVIII a. pabaigos, o
+    G. Camblako vadovaujama LDK stačiatikių delegacija nuvyko į Katalikų
+    bažnyčios susirinkimą Konstance, kur iškėlė visuotinės bažnyčių unijos
+    idėją (ji įgyvendinta vėliau – 1439 m.
+  citata_rodoma: "1415 m. Naugarduke sušaukęs LDK stačiatikių \nvyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją \npaskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Cam-\nblaką. Be to, „Kijevo ir visos Rusios“ metropolitas buvo tvirtai įkurdintas \nVilniuje: jam pastatyta katedra ir rezidencija, Vilniaus „rusėnų pusėje“ \nsuformuota metropolito jurisdikcija, gyvavusi iki pat XVIII a."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119097
+
+- id: c-109418
+  citata_originali: |
+    Tie visi žmonės tesinaudoja Rygos miesto civiline teise,
+    jei paskui nebus geriau sumanyta išmintingųjų tarybos. Tuo
+    tikslu, kad jūs mažiau abejotumėte dėl saugumo ir labiau
+    pasitikėtumėte, [pranešame], jog esame pastatę dvi pranciš­
+    konų bažnyčias: vieną mūsų karališkajame mieste, vardu
+    Vilnius, ir antrą Naugarduke, o trečią dominikonų, kad kiek­
+    vienas pagal savo apeigas galėtų garbinti dievą.
+    Taigi, kad šių mūsų privilegijų suteikimas pasiliktų ne­
+    kintamas ir tvirtas, liepėme surašyti šį raštą ir sutvirtinti jį,
+    nurodydami prikabinti mūsų antspaudą, nes jūs, žinodami,
+    jog tą patį antspaudą pasiuntėme mūsų viešpačiui ir šven­
+    tajam tėvui, [tikėsite], jog ir tai, ką jam laiške parašėme, vis­
+    ką išlaikysime.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119112
+
+- id: c-109420
+  citata_originali: |
+    Esant tokiai Europos miestų padėčiai, Lietuva, ilgiausiai at­
+    siribojusi nuo krikščionybės, valdydama nedidelį ir uostų sto­
+    kojantį Baltijos pakrantės ruožą, dar su vargana žemdirbyste ir
+    prekyba, vis dėlto pačiame XIII amžiaus viduryje savo žemėje
+    jau turėjo keletą miestų. Naugardukas jau buvo garsiojo Min­
+    daugo (Mendogo) sostinė. Gardinas, dar vadintas Gartena, Trai-
+    d)
+    Harris, Voyages.
+  citata_rodoma: "Naugardukas jau buvo garsiojo Min­\ndaugo (Mendogo) sostinė. Gardinas, dar vadintas Gartena, Trai-\nd)\nHarris, Voyages."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119089
+
+- id: c-109421
+  citata_originali: |
+    Anksti slavų salos pasirodė Nemuno aukštupio kairėje nusitiesda­
+    mos link Gardino kunigaikštijos, kur Kolože — Gardino priemies­
+    tyje — yra atkastos įdomios cerkvės (Boriso ir Glebo) liekanos.
+    Jau XI amžiuje Nemuno kairėje turėjo būti rytinių slavų pilys su
+    valsčiais, ar smulkiomis kunigaikštijomis V _a_ lk _a_ visku (Wolkowysk),
+    Slanimu (Slonirn), Nesvyžių (Nieśwież), Zdzitovu ir kt. Jos pri­
+    klausė Naugardukui (Nowogródek), kuris 1044 m. Jaroslavo buvo
+    įkurtas, tur būt, dar lietuvių gyvenamoje žemėje.
+  citata_rodoma: "Jau XI amžiuje Nemuno kairėje turėjo būti rytinių slavų pilys su\nvalsčiais, ar smulkiomis kunigaikštijomis V _a_ lk _a_ visku (Wolkowysk),\nSlanimu (Slonirn), Nesvyžių (Nieśwież), Zdzitovu ir kt. Jos pri­\nklausė Naugardukui (Nowogródek), kuris 1044 m. Jaroslavo buvo\nįkurtas, tur būt, dar lietuvių gyvenamoje žemėje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119113
+
+- id: c-109425
+  citata_originali: |
+    Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus
+    Taboras, Jonas Zabžezinskis ir Karalystės kancleris Jonas
+    Laskis. O totoriai, ties Kłecku įsirengę košą, arba stovyklą,
+    nemažą būrį pasiuntė į Naugarduką. Tas būrys, įveikęs Ne­
+    muną, savo papročiu plėšdamas apylinkes, atsidūrė vos per
+    mylią nuo Lydos.
+  citata_rodoma: "O totoriai, ties Kłecku įsirengę košą, arba stovyklą,\nnemažą būrį pasiuntė į Naugarduką. Tas būrys, įveikęs Ne­\nmuną, savo papročiu plėšdamas apylinkes, atsidūrė vos per\nmylią nuo Lydos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119085
+
+- id: c-109426
+  citata_originali: |
+    Mindaugo šalininkams nužudžius Treniotą, Lietuvos valdovu tapo
+    Mindaugo sūnus Vaišelga, kuris yra pirmas žinomas Lietuvos istorijoje sta-
+    čiatikybę priėmęs kunigaikštis. Taip pradėtas lietuvių kunigaikščių kūrima-
+    sis Rusios žemėse: lietuvių kunigaikštis priima stačiatikių tikėjimą, o žemės
+    (šiuo atveju Naugardukas, kuriame Vaišelgą įkurdino tėvas) jungiamos prie
+    Lietuvos valstybės. Antra vertus, Vaišelga vienintelis kunigaikštis, atsisakęs
+    kunigaikštijos ir tapęs vienuoliu.
+  citata_rodoma: "Taip pradėtas lietuvių kunigaikščių kūrima-\nsis Rusios žemėse: lietuvių kunigaikštis priima stačiatikių tikėjimą, o žemės \n(šiuo atveju Naugardukas, kuriame Vaišelgą įkurdino tėvas) jungiamos prie \nLietuvos valstybės. Antra vertus, Vaišelga vienintelis kunigaikštis, atsisakęs \nkunigaikštijos ir tapęs vienuoliu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119109
+    - t-119114
+
+- id: c-109428
+  citata_originali: |
+    322 (315). Apie Krivičių žemės nuniokojimą ir Naugarduko miesto užkariavimą
+
+      Tų pačių 1314 metų rugsėjo mėnesį tas pats brolis Henrikas, maršalas, patraukė su
+    visa savo kariuomene  į Krivičių žemę571, užėmė Naugarduko miestą572 ir jį ligi pamatų
+      569 D.— circa territorium Medenickam, Jer.— Medenicken, Medeniken; Medininkai
+    centrinėje Žemaitijoje (SZM, p. 223— 226).
+  citata_rodoma: "322 (315). Apie Krivičių žemės nuniokojimą ir Naugarduko miesto užkariavimą\n\n  Tų pačių 1314 metų rugsėjo mėnesį tas pats brolis Henrikas, maršalas, patraukė su\nvisa savo kariuomene  į Krivičių žemę571, užėmė Naugarduko miestą572 ir jį ligi pamatų\n  569 D."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119095
+
+- id: c-109430
+  citata_originali: |
+    Žemdirbiams, norintiems atvykti į mūsų karalystę ir čia
+    pasilikti, duodame [žemę] bei suteikiame [privilegiją] de­
+    šimt metų [ją] dirbti laisvai ir be mokesčių, o pusę to laiko
+    tebūna jie atleisti nuo bet kokios karališkos prievolės; mi­
+    nėtam terminui praėjus, priklausomai nuo žemės derlin­
+    gumo, jie duos dešimtinę, kaip ir kitose karalystėse bei tau­
+    tose paprastai jie duodavo, tačiau su tokiu [skirtumu], kad
+    mūsuose grūdas bus gausesnis, negu paprastai yra kitose
+    karalystėse.
+    Tie visi žmonės tesinaudoja Rygos miesto civiline teise,
+    jei paskui nebus geriau sumanyta išmintingųjų tarybos. Tuo
+    tikslu, kad jūs mažiau abejotumėte dėl saugumo ir labiau
+    pasitikėtumėte, [pranešame], jog esame pastatę dvi pranciš­
+    konų bažnyčias: vieną mūsų karališkajame mieste, vardu
+    Vilnius, ir antrą Naugarduke, o trečią dominikonų, kad kiek­
+    vienas pagal savo apeigas galėtų garbinti dievą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119110
+
+- id: c-109433
+  citata_originali: |
+    Čia gotika tapo
+    net ir stačiatikių ar būsimųjų graikų katalikų cerkvių stiliumi.
+    Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Kons-
+    tantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinė-
+    je. Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje
+    (Myro pilis prie Nesvyžiaus), o kartu, atrodo, yra fenomenalus visos Euro-
+    pos kultūroje – tad labiausiai į rytus nutolusi gotika yra istorinėje Lietuvo-
+    je, tai yra europinės reikšmės riba.
+  citata_rodoma: "Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Kons-\ntantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinė-\nje. Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje \n(Myro pilis prie Nesvyžiaus), o kartu, atrodo, yra fenomenalus visos Euro-\npos kultūroje – tad labiausiai į rytus nutolusi gotika yra istorinėje Lietuvo-\nje, tai yra europinės reikšmės riba."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119104
+
+- id: c-166450
+  citata_originali: |
+    Tuo
+    būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono
+    Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko
+    vyskupo Isaikovskio ir kt. fundacija). Oršoje (karaliaus Zig-
+    manto fundacija), Smolenske (klebono Lempickio ir kt. fun-
+    dacija), Kaune (brolių Vijūkų Kojelavičių fundacija), Minske
+    (kanclerio Martyno Oginskio ir K. Bžostausko fundacija), Nau-
+    garduke (sudėtinė fundacija), Bobruiske (Triznos fun-
+    dacija), Pinske (kanclerio Aibr. St. Radvilos fundacija), Pa-
+    šiaušėje (bajoro Beinarto f-ja), Slucke (sudėtinė f-ja),
+    Vitebske (Smolensko vaivados A. Gansiausko f-ja), Žodiš-
+    kiuose (Minkevičių f-ja), Brastoje (vicekanclerio L. K. Sa-
+    piegos f-ja).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183059
+
+- id: c-168423
+  citata_originali: |
+    Tad, su Traideniu tvarkydamas vals­
+    140
+
+    ## Puslapis 139
+
+    tybės reikalus, tuo pačiu jis stiprino šio galią ir, ne­
+    paisydamas brolio priešiškumo, teikė jam vilčių, jog
+    ateityje jam atiteksianti valstybė. Šitaip sutvarkęs vals­
+    tybės reikalus ir perkėlęs kunigaikštystės sostinę iš
+    Naugarduko į Kernavę, jis ėmė galvoti apie karo da­
+    lykus. Nuolatos keičiantis valdovams, jie eidavo savo
+    pareigas vos metus, todėl kariuomenės reikalai buvo
+    gana prasti, nes ir tarybos, ir karo stovyklų vadai mir­
+    davo dar tada, kai būdavo pradedama rengtis karui
+    ar vos imama kariauti; turbūt dėl tos priežasties per
+    ištisus šešiolika metų nepavyko nieko padaryti reikš­
+    mingesnio, kad iš lenkų būtų atsiimti jotvingiai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185062
+
+- id: c-168424
+  citata_originali: |
+    Jeigu lietuviai, parodę tokį narsu­
+    mą, būtų turėję ten daugiau
+    1314 m e ta i
+    karių ir jėgų, tikrai būtų kry­
+    žiuočiai netekę visos stovyk­
+    los, mat penki kariai, nakties tamsoje prasigavę pro
+    sargybas, prisėlino beveik ligi pačių vadų ir, keletą
+    priešų nužudę ir pasiplėšę
+    N e p a p ra sta
+    p e n k ių
+    grobio, kiek tik galėjo pen-
+    iie tu v ių  n arsa
+    kiese pakelti, sveiki sugrįžo
+    pas savuosius, įvarydami kry­
+    žiuočiams siaubo; tik išaušus paaiškėjo, jog daugiau
+    būta baimės nei pavojaus. Truputį vėliau Henrikas,
+    ugnimi ir kalaviju niokodamas kraštą, nusibrovė su ka­
+    riuomene ligi Naugarduko. Apiplėšęs ir sudeginęs mies­
+    tą, geriausią kariuomenę metė prieš pilį, bet po
+    pirmojo antpuolio, netekęs žymiausių karių, buvo pri­
+    verstas išsižadėti šio sumanymo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185063
+
+- id: c-168425
+  citata_originali: |
+    Miestiečiai,
+    kaimiečiai bei bajorai taip ryžtingai stojo į kovą, kad
+    skitai, smarkiai jų sumušti, turėjo pasitraukti. Palikę
+    Slucką, barbarai patraukė į Naugarduką. Tuo metu ten
+    susirinkę didikai tarėsi, kaip susigerinti su karaliumi,
+    kaip atsiprašyti už nuoskaudas ir sutramdyti sąmyšio
+    kėlėjus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185064
+
+- id: c-168426
+  citata_originali: |
+    Tuo metu ten
+    susirinkę didikai tarėsi, kaip susigerinti su karaliumi,
+    kaip atsiprašyti už nuoskaudas ir sutramdyti sąmyšio
+    kėlėjus. Gavę žinią apie skitų antplūdį, vieni, vadovau­
+    jami Naugarduko vaivados Alberto Goštauto, subruz­
+    do ginti pilies, o kiti pasitraukė už Nemuno. Priešas,
+    įžengęs į tuščią miestą, įsakė lengvai ginkluotiems rai­
+    teliams vytis bėgančiuosius, o su kitais apgulė pilį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185065
+
+- id: c-170568
+  citata_originali: |
+    O paskui didysis kunigaikštis Skirmantas pasimirė.
+    Liubartas sėdo valdyti Karačevą 1 8  ir ėmė tituluotis
+    Karačevo kunigaikščiu, o Pisimantas sėdo valdyti Tu-
+    rovą l9 , o Treniota — Naugarduką, ir valdė tuos mies­
+    tus daugelį metų !0 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187621
+
+- id: c-170569
+  citata_originali: |
+    O Grigorijus buvo šven­
+    tasis, kokio iki jo nėra buvę ir daugiau nebebus.
+    Vaišvilkas negalėjo pasiekti Šventojo Kalno, nesgi
+    anuose kraštuose tuomet buvo didelis sąmyšis. Ir par­
+    keliavo jis atgal j Naugarduką, ir įkūrė6  <sau vienuo­
+    lyną prie Nemuno upės, tarp Lietuvos ir Naugarduko,
+    ir gyveno tenai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187622
+
+- id: c-170570
+  citata_originali: |
+    11. APIE VAIŠVILKO NUŽUDYMĄ IR PALEMONO GIMINES
+    GALĄ
+    Vaišvilkas, tai išgirdęs, su pinskiečiais nuvyko į
+    Naugarduką, ten pasiėmė su savimi naugardukiečius ir
+    parvyko į Lietuvą kunigaikščiauti. Visa Lietuva sutiko
+    savo valdovo sūnų didžiai džiaugdamasi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187623
+
+- id: c-170571
+  citata_originali: |
+    Suėjo kariuomenės Dokudo-
+    vo 1  vietovėje, ir Vytauto kariuomenė sumušė Karibu-
+    98
+
+    ## Puslapis 94
+
+    to kariuomenę3 . O pats kunigaikštis Kaributas su ku­
+    nigaikštiene ir su vaikais pabėgo į Naugarduką3 . Di­
+    dysis kunigaikštis Vytautas, sutelkęs savo kariuomenę,
+    pats nužygiavo į Naugarduką ir, užėmęs miestą, kuni­
+    gaikštį Kaributą, ir jo kunigaikštienę, ir jo vaikus pa­
+    ėmė nelaisvėn 4 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187624
+
+- id: c-175961
+  citata_originali: |
+    Sutartis buvo susti-
+    printa Mindaugo dukters ir Danieliaus sūnaus Švarno vedybo-
+    mis. Danieliaus sūnui Romanui Mindaugas davė valdyti Nau-
+    garduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų
+    sričių miestus. Tik jie turėjo pripažinti Mindaugo valdžią.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193217
+
+- id: c-175962
+  citata_originali: |
+    Nuo to meto į Lie-
+    tuvą pradėjo skverbtis ir krikščionybė, atsirado vienuolių misijo-
+    nierių. Gedimino laikais Vilniuje ir Naugarduke, o gal net ir ki-
+    tur buvo katalikų bažnyčių. Be to, prasidėję prekybos santykiai
+    Lydos pilies griuvėsiai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193218
+
+- id: c-176318
+  citata_originali: |
+    Lietuvos gotikinės architektūros ypatumas – gynybinis pobūdis:
+    net ir sakraliniai pastatai turėjo gynybinius bokštus ar šaunamąsias an-
+    gas – Vytauto laikais daugiausia statyta būtent gynybinių statinių. Vytautas
+    perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine,
+    Naugarduke ir Lucke. Trakų salos pilies menė su gotikiniais kryžminiais
+    skliautais rodo, kad gotika buvo atėjusi ir į gynybinę architektūrą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193649
+
+- id: c-176850
+  citata_originali: |
+    [Rūstusai Žygimante, kaip senasis karalius mėtau
+    žaibus,
+    Nejaugi manai, kad tik karaliams paklūsta žaibai?]
+    Vietovių pavadinimai yra tokie:
+    Pirmajame plane - Vilniaus arsenalas, antrame ir trečia­
+    me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc­
+    kas, Vitebskas, Orša, Mogiliovas, Propoiskiai, Čečerskiai,
+    Mstislavlis, Radomie, Liubičius, Gomelis, Rečica, Kšičovai,
+    Ovručas, Ostras, Vladimiras, Luckas, Mozyrius, Kijevas,
+    Čerkasai, Medilas, Kaniuvas, Podolės Brasta, Bialocerkievas,
+    Minskas, Radoškovičiai, Lietuvos Brasta, Chastiča, Rožekas,
+    Novy Zamekas, Svisločėje vadinamas Kasperu, Kremene-
+    cas, Černobilis, Suražas, Cieriščiai, Borisovas, Drisa, Trakai,
+    Upytė, Druja, Lepelis, Kopečius arba Ušcas, Tikocinas. Li­
+    vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas,
+    Rosytė, Dinaburgas, Bauskė, Pernava, Kaskhauzenas, Hel-
+    314
+
+    ## Puslapis 331
+
+    IV  KNYGA
+    menas, Trikačius, Hermesas, Veisenšteinas, Kirchholmas,
+    Volmera, Vendenė, Kokenhauzenas, Rundborgas, Diuna-
+    mundė, Ryga, Šmetenė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194256
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Kukovaitis]]

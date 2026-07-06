@@ -16,6 +16,18 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'XX a.'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # A. Raulinaitis
 
@@ -28,10 +40,15 @@ Raulinaitis (Pedag.
 <a id="claim-t-30535"></a>
 - t-001
   global_id: t-30535
-  teiginys: 'A. Raulinaitis 1964 m. žurnale „Pedagogika ir psichologija“ rašė apie pirmąją katedrinę mokyklą.'
+  teiginys: "A. Raulinaitis 1964 m. žurnale „Pedagogika ir psichologija“ rašė apie pirmąją katedrinę mokyklą."
+  temporaliniai_duomenys: "įvykio data: 1964 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus faktinis sakinys apie Raulinaičio publikaciją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "228014-228182; hash=6bc9df40682335dadddfefb15df99cd6399c59b3cb200d44304ec63bdb54ef63; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
-
+    - c-32886
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -41,8 +58,24 @@ Raulinaitis (Pedag.
     (^124) **Žurnale : Pedagogika ir psichologija, t. 8, 1966. Apie pirmąją kated­
     rinę mokyklą rašė A. Raulinaitis (Pedag. ir psichok, t. 6, 1964, 111-114 p.).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-32886
+  citata_originali: |
+    2, 1969).**
+    (^124) **Žurnale : Pedagogika ir psichologija, t. 8, 1966. Apie pirmąją kated­
+    rinę mokyklą rašė A. Raulinaitis (Pedag. ir psichok, t. 6, 1964, 111-114 p.).
+  citata_rodoma: "**\n(^124) **Žurnale : Pedagogika ir psichologija, t. 8, 1966. Apie pirmąją kated­\nrinę mokyklą rašė A. Raulinaitis (Pedag. ir psichok, t. 6, 1964, 111-114 p.)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-30535

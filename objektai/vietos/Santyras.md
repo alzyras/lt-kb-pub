@@ -18,6 +18,18 @@ tags:
   - valdovas
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Santyras
 
@@ -28,46 +40,132 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
 ## Teiginiai
 
 <a id="claim-t-175394"></a>
-- t-001
+- t-003
   global_id: t-175394
-  teiginys: 'Petras Dusburgietis Santyro pilį apibūdino kaip pastatytą kenkti tikėjimui ir tikintiesiems.'
+  teiginys: "Petras Dusburgietis Santyro pilį apibūdino kaip pastatytą kenkti tikėjimui ir tikintiesiems."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "305256-305994; hash=5e77ec7a5e00d94f59057cc2b1f77a2a02a7a7ae817fbe0bcc670858472b7863; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Santyras: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžius: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Santyras\" parinktas kaip owner_note_path. Targetas \"Kryžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-159528
 
 <a id="claim-t-175395"></a>
-- t-002
+- t-001
   global_id: t-175395
-  teiginys: 'Santyras tapo Kristijono būstine, o apie 1212 m. čia, matyt, buvo įkurtas reguliarus vienuolynas.'
+  teiginys: "Santyras tapo Kristijono būstine, o apie 1212 m. čia, matyt, buvo įkurtas reguliarus vienuolynas."
+  semantiniai_rysiai: "Kristijonas gyveno Santyras (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1210 m.; įvykio data: 1212 m.; įvykio data: apie 1212 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje pateiktą informaciją apie Santyrą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "129397-130171; hash=269342ea6fecbeb6e303d2309d28aaca1225a5720757a37085926db7908f78e0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Santyras: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kristijonas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Santyras: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Santyras tapo Kristijono būstine."
   pagrindžia:
-    - c-002
+    - c-159523
 
 <a id="claim-t-175396"></a>
-- t-003
+- t-006
   global_id: t-175396
-  teiginys: '1280 m. Santyro pilis buvo perkelta į naują vietą ir pavadinta Marienburgu, arba šventos Marijos pilimi.'
+  teiginys: "1280 m. Santyro pilis buvo perkelta į naują vietą ir pavadinta Marienburgu, arba šventos Marijos pilimi."
+  temporaliniai_duomenys: "įvykio data: 1280 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą Santyro pilies perkėlimą ir pervadinimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "523618-523903; hash=57834e1c8d7048d0818b3b5d9c9fab9e80ced97f987181e7119f10b42c891d56; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Marienburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Santyras: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Marienburgas: mention_match, place, gap=55"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Santyras\" parinktas kaip owner_note_path. Targetas \"Marienburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-159527
 
 <a id="claim-t-175397"></a>
-- t-004
+- t-005
   global_id: t-175397
-  teiginys: 'Sventopelkas su kariuomene priėjo Santyro pilį ir ten įsirengė stovyklą.'
+  teiginys: "Sventopelkas su kariuomene priėjo Santyro pilį ir ten įsirengė stovyklą."
+  semantiniai_rysiai: "Sventopelkas keliavo į Santyras (0.88)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "332910-333263; hash=cb4dd0bd8fe4fd3895679b1b5af09bfd137903656d609a8a0ae5d4ac090b779e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Santyras: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sventopelkas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Santyras: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claimas tiesiogiai sako, kad Sventopelkas su kariuomene priėjo Santyro pilį."
   pagrindžia:
-    - c-003
+    - c-159524
 
 <a id="claim-t-175398"></a>
-- t-005
+- t-004
   global_id: t-175398
-  teiginys: 'Prie Santyro Konradas Bremeris pamatė jo tykojusį Sventopelką su daugybe žmonių ir 20 laivų.'
+  teiginys: "Prie Santyro Konradas Bremeris pamatė jo tykojusį Sventopelką su daugybe žmonių ir 20 laivų."
+  semantiniai_rysiai: "Konradas Bremeris keliavo į Elbingas (0.88); Sventopelkas buvo priešas Konradas Bremeris (0.82); Konradas Bremeris puolė Sventopelkas (0.78)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "310745-311329; hash=a381217ad7c16b54911ead7af7ce74e66560af995cb6b1383307c23930054f3f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Elbingas: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Konradas Bremeris: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Elbingas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Konradas buvo pasiųstas plukdyti laivų į Elbingą."
   pagrindžia:
-    - c-001
+    - c-159522
 
 <a id="claim-t-175400"></a>
-- t-006
+- t-002
   global_id: t-175400
-  teiginys: 'Santyro pilis buvo pastatyta Vyslos ir Nogato santakoje.'
+  teiginys: "Santyro pilis buvo pastatyta Vyslos ir Nogato santakoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "304360-304728; hash=77db0bb07c12274c5cbd5ffb51d96cb15893fc051d3b56d4d1884a4559dc934f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Nogatas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Santyras: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Nogatas: mention_match, place, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Santyras\" parinktas kaip owner_note_path. Targetas \"Nogatas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-167582
+
+<a id="claim-t-175400"></a>
+- t-002
+  global_id: t-175400
+  teiginys: "Santyro pilis buvo pastatyta Vyslos ir Nogato santakoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "304360-304728; hash=77db0bb07c12274c5cbd5ffb51d96cb15893fc051d3b56d4d1884a4559dc934f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Nogatas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Santyras: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Nogatas: mention_match, place, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Santyras\" parinktas kaip owner_note_path. Targetas \"Nogatas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-167582
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90011|Sventopelkas]]: Sventopelkas pastatė Santyro pilį Vyslos ir Nogato santakoje ir joje įkurdino brolių valdinius puldinėjusius vyrus.
 - susijęs iš [[objektai/grupes/Pomeranai.md#claim-t-89175|Pomeranai]]: Sis įvykis ir pomeranų kariuomenę taip išgąsdino, kad visa išsibėgiojo.
 - susijęs iš [[objektai/asmenys/Konradas Bremeris.md#claim-t-60364|Konradas Bremeris]]: Konradas Bremeris vedė tris maisto prikrautus laivus į Elbingą ir prie Santyro kovėsi su Sventopelko laivynu.
@@ -119,6 +217,7 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
     laivais, irkluotojų greitai varomais, ir paskandino daugelį kunigaikščio laivų, o kitus stipriai
     sužalojo.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -139,6 +238,7 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
     dovanojęs Gdansko  kunigaikštis Mščujus,  ketinęs panaudoti  cistersų  misiją savo
     politiniams tikslams). Čia apie 1212 m., matyt, buvęs įkurtas reguliarus vienuolynas.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -155,6 +255,7 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
     ir daug jų išžudė, o kiti, balsu šaukdami, leidosi bėgti link savo valdovo Sventopelko
     kariuomenės.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -176,6 +277,7 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
 
         209 (204).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -196,6 +298,7 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
     plaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė
     traukti su kariuomene į šią vietą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -212,12 +315,122 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
     brolių valdiniams ramiai  plaukioti  nei aukštyn,  nei žemyn, atimdavo  jų  daiktus,
     išsivarydavo juos į nelaisvę ar nugalabydavo.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
     - t-006
+
+## Citatos
+
+- id: c-159522
+  citata_originali: |
+    50 (49). Apie laivų kautynes
+
+       Brolis Poponas, magistras, rūpindamasis tikinčiaisiais, išleido į kelią su būriu ginklanešių
+    brolį Konradą, vadinamą Bremeriu, liepdamas nuplukdyti į Elbingą tris maisto prikrautus
+    laivus; priartėjęs prie Santyro, jis ten išvydo Sventopelką, kuris jo tykojo su daugybe
+    žmonių ir 20 laivų. Juos pamatęs, brolis Konradas neišsigando lyg koks bailys, o kaip
+    kilnios širdies viešpačiu pasitikįs karys smarkiai ir narsiai užpuolė juos su visais savo
+    laivais, irkluotojų greitai varomais, ir paskandino daugelį kunigaikščio laivų, o kitus stipriai
+    sužalojo.
+  citata_rodoma: "Apie laivų kautynes\n\n   Brolis Poponas, magistras, rūpindamasis tikinčiaisiais, išleido į kelią su būriu ginklanešių\nbrolį Konradą, vadinamą Bremeriu, liepdamas nuplukdyti į Elbingą tris maisto prikrautus\nlaivus; priartėjęs prie Santyro, jis ten išvydo Sventopelką, kuris jo tykojo su daugybe\nžmonių ir 20 laivų. Juos pamatęs, brolis Konradas neišsigando lyg koks bailys, o kaip\nkilnios širdies viešpačiu pasitikįs karys smarkiai ir narsiai užpuolė juos su visais savo\nlaivais, irkluotojų greitai varomais, ir paskandino daugelį kunigaikščio laivų, o kitus stipriai\nsužalojo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175398
+
+- id: c-159523
+  citata_originali: |
+    161 1210 m. pabaigos popiežiaus bulėje minimas (kaip vienas iš krikščioniškosios
+    misijos Prūsijoje vadovų) Cistersų ordino vienuolis Kristijonas, greičiausiai vokietis,
+    tiesiogiai susijęs su Olivos (prie Gdansko) vienuolynu, kur buvo danų konventas (siejamas
+    ir su Lekno vienuolynu į šiaurės vakarus nuo Gnezno). Kristijono misijai padėjo Danijos
+    karaliaus Voldemaro II 1210 m. žygis prieš Prūsiją ir Sembą, turėjusias kuriam laikui
+    pripažinti Danijos feodalų valdžią, Kristijono būstine tapo Santyras (vieni mano, kad
+    tai buvusi vietinio prūso dovana, kiti — kad Santyrą su gretimomis žemėmis Kristijonui
+    dovanojęs Gdansko  kunigaikštis Mščujus,  ketinęs panaudoti  cistersų  misiją savo
+    politiniams tikslams). Čia apie 1212 m., matyt, buvęs įkurtas reguliarus vienuolynas.
+  citata_rodoma: "Kristijono misijai padėjo Danijos\nkaraliaus Voldemaro II 1210 m. žygis prieš Prūsiją ir Sembą, turėjusias kuriam laikui\npripažinti Danijos feodalų valdžią, Kristijono būstine tapo Santyras (vieni mano, kad\ntai buvusi vietinio prūso dovana, kiti — kad Santyrą su gretimomis žemėmis Kristijonui\ndovanojęs Gdansko  kunigaikštis Mščujus,  ketinęs panaudoti  cistersų  misiją savo\npolitiniams tikslams). Čia apie 1212 m., matyt, buvęs įkurtas reguliarus vienuolynas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175395
+
+- id: c-159524
+  citata_originali: |
+    Sugėdinti prūsai sugrįžo namo. Sventopelkas su savo kariuomene priėjo
+    Santyro pilį ir ten įsirengė stovyklą, pasiųsdamas  į priekį daug karių bei ginklanešių,
+    kurie turėjo ištirti, ar Kristburgo pilis yra apsupta. Kristburgo broliai šiuos karius užpuolė
+    ir daug jų išžudė, o kiti, balsu šaukdami, leidosi bėgti link savo valdovo Sventopelko
+    kariuomenės.
+  citata_rodoma: "Sventopelkas su savo kariuomene priėjo\nSantyro pilį ir ten įsirengė stovyklą, pasiųsdamas  į priekį daug karių bei ginklanešių,\nkurie turėjo ištirti, ar Kristburgo pilis yra apsupta. Kristburgo broliai šiuos karius užpuolė\nir daug jų išžudė, o kiti, balsu šaukdami, leidosi bėgti link savo valdovo Sventopelko\nkariuomenės."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175397
+
+- id: c-159527
+  citata_originali: |
+    208 (203). Apie Marienburgo pilies pastatymą
+
+      1280 viešpaties metais Santyro pilis, pakeitus jos vardą bei vietą, buvo perkelta ten,
+    kur dabar tebestovi, ir pavadinta Marienburgu, tai yra šventos Marijos pilimi, kurios
+    šlovei bei garbei ji čia ir buvo perkelta500.
+
+
+
+
+        209 (204).
+  citata_rodoma: "Apie Marienburgo pilies pastatymą\n\n  1280 viešpaties metais Santyro pilis, pakeitus jos vardą bei vietą, buvo perkelta ten,\nkur dabar tebestovi, ir pavadinta Marienburgu, tai yra šventos Marijos pilimi, kurios\nšlovei bei garbei ji čia ir buvo perkelta500.\n\n\n\n\n    209 (204)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175396
+
+- id: c-159528
+  citata_originali: |
+    Šitai išgirdęs, 1245 legatas pats paskelbė kryžiaus karą prieš minėtąjį tironą ir
+    įsakė jį skelbti apaštališkojo sosto vardu įvairiose karalystėse bei provincijose. Kadangi
+    klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali
+    daryti blogus darbus, ir skatina dar didesnėms blogybėms, todėl ir Sventopelkas, be galo
+    didžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems, pradėjo statyti
+    prieš dabartinį Kulmo miestą naują pilį, pavadintą Sveče285 ir turėjusią trukdyti broliams
+    plaukioti Vysla aukštyn ir žemyn. Kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams
+    plaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė
+    traukti su kariuomene į šią vietą.
+  citata_rodoma: "Kadangi\nklastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali\ndaryti blogus darbus, ir skatina dar didesnėms blogybėms, todėl ir Sventopelkas, be galo\ndidžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems, pradėjo statyti\nprieš dabartinį Kulmo miestą naują pilį, pavadintą Sveče285 ir turėjusią trukdyti broliams\nplaukioti Vysla aukštyn ir žemyn. Kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams\nplaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė\ntraukti su kariuomene į šią vietą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175394
+
+- id: c-167582
+  citata_originali: |
+    Kadangi broliai jam nesugrąžino sūnaus, jis kaip ir anksčiau
+    pradėjo juos iš paskutiniųjų persekioti. Todėl dviejų upių santakoje, būtent: Vyslos ir
+    Nogato283, pastatė pilį, vardu Santyras284, kurioje įkurdino nedorų vyrų. Jie neleisdavo
+    brolių valdiniams ramiai  plaukioti  nei aukštyn,  nei žemyn, atimdavo  jų  daiktus,
+    išsivarydavo juos į nelaisvę ar nugalabydavo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184197
+    - t-175400
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Sventopelkas]]

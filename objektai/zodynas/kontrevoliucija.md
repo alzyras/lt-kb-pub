@@ -16,6 +16,18 @@ atnaujinta: ''
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # kontrevoliucija
 
@@ -25,20 +37,58 @@ Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrevoliucijos pasisek
 
 ## Teiginiai
 
-<a id="claim-t-36795"></a>
-- t-001
-  global_id: t-36795
-  teiginys: 'Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrevoliucijos pasisekimui.'
+<a id="claim-t-36797"></a>
+- t-003
+  global_id: t-36797
+  teiginys: "Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrevoliucijos pasisekimui."
+  semantiniai_rysiai: "Rygos pirkliai prekiavo su Vilnius (0.94)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "63800-64224; hash=ace4d36ce462aa49f142571b47d6077128d4b97181d8ba730cdc13fda46f49cb; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  ryšio_patikimumas: "prekiavo_su -> Vilnius: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Rygos pirkliai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Rygos pirkliai prekiavo su Vilniaus miestu."
   pagrindžia:
-    - c-002
+    - c-38743
 
 <a id="claim-t-36796"></a>
-- t-002
+- t-005
   global_id: t-36796
-  teiginys: 'Jogailos kontrevoliucijos sėkmei daug įtakos turėjo vokiečių Rygos pirkliai, prekiavę su Vilniumi.'
+  teiginys: "Jogailos kontrevoliucijos sėkmei daug įtakos turėjo vokiečių Rygos pirkliai, prekiavę su Vilniumi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "63898-64409; hash=0ecafae3bbfbaeaadc3d8fdc2845e91ebf2cfd52d7369ee0215e41b5d2322a77; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "kontrevoliucija: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=80"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"kontrevoliucija\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-38742
 
+<a id="claim-t-36797"></a>
+- t-003
+  global_id: t-36797
+  teiginys: "Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrevoliucijos pasisekimui."
+  semantiniai_rysiai: "Rygos pirkliai prekiavo su Vilnius (0.94)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "63800-64224; hash=ace4d36ce462aa49f142571b47d6077128d4b97181d8ba730cdc13fda46f49cb; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  ryšio_patikimumas: "prekiavo_su -> Vilnius: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Rygos pirkliai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Rygos pirkliai prekiavo su Vilniaus miestu."
+  pagrindžia:
+    - c-38743
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -54,8 +104,9 @@ Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrevoliucijos pasisek
     reikalams, jie laukė tik progos padėti Jogailai atgauti valdžią,
     kurio jie anksčiau buvo stipriai palaikomi.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -71,9 +122,49 @@ Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrevoliucijos pasisek
     sekimui daug turėjo įtakos vokiečių Rygos pirkliai, kurie tada
     varė gyvą ir didelę prekybą su Vilniaus miestu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
     - t-001
+
+## Citatos
+
+- id: c-38742
+  citata_originali: |
+    Tuo tarpu Vilniuje, dar sti­
+    pri Jogailos partija ir visi Kęstučio priešai apie ją susispietę,
+    pasinaudodami Vytauto iš miesto išvykimu, Jogailos vardu
+    užėmė pilį. Paminėtina tai, kad Jogailos kontrevoliucijos pasi­
+    sekimui daug turėjo įtakos vokiečių Rygos pirkliai, kurie tada
+    varė gyvą ir didelę prekybą su Vilniaus miestu. Nepatenkinti
+    lietuviškai tautiška Kęstučio politika, kuri kenkė jų prekybos
+    reikalams, jie laukė tik progos padėti Jogailai atgauti valdžią,
+    kurio jie anksčiau buvo stipriai palaikomi.
+  citata_rodoma: "Paminėtina tai, kad Jogailos kontrevoliucijos pasi­\nsekimui daug turėjo įtakos vokiečių Rygos pirkliai, kurie tada\nvarė gyvą ir didelę prekybą su Vilniaus miestu. Nepatenkinti\nlietuviškai tautiška Kęstučio politika, kuri kenkė jų prekybos\nreikalams, jie laukė tik progos padėti Jogailai atgauti valdžią,\nkurio jie anksčiau buvo stipriai palaikomi."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36796
+
+- id: c-38743
+  citata_originali: |
+    Iš Jogailos pažadėtos pagalbos negavęs, jis ne tik Dimitro ne­
+    nuveikė, bet dar turėjo nuostolių. Tuo tarpu Vilniuje, dar sti­
+    pri Jogailos partija ir visi Kęstučio priešai apie ją susispietę,
+    pasinaudodami Vytauto iš miesto išvykimu, Jogailos vardu
+    užėmė pilį. Paminėtina tai, kad Jogailos kontrevoliucijos pasi­
+    sekimui daug turėjo įtakos vokiečių Rygos pirkliai, kurie tada
+    varė gyvą ir didelę prekybą su Vilniaus miestu.
+  citata_rodoma: "Paminėtina tai, kad Jogailos kontrevoliucijos pasi­\nsekimui daug turėjo įtakos vokiečių Rygos pirkliai, kurie tada\nvarė gyvą ir didelę prekybą su Vilniaus miestu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36797
+    - t-36795

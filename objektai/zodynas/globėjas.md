@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # globėjas
 
@@ -17,9 +29,22 @@ Vasilijus paskyrė Glinskį mažamečio sūnaus globėju dėl jo sumanumo tvarka
 <a id="claim-t-185385"></a>
 - t-001
   global_id: t-185385
-  teiginys: 'Vasilijus paskyrė Glinskį mažamečio sūnaus globėju dėl jo sumanumo tvarkant taikos ir karo reikalus.'
+  teiginys: "Vasilijus paskyrė Glinskį mažamečio sūnaus globėju dėl jo sumanumo tvarkant taikos ir karo reikalus."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1117110-1117743; hash=ba1594da43cdf8a927e9ba86ba52c86ef4cf5417fc0eda7227202a3217be86e9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "globėjas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"globėjas\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-168746
 - susijęs iš [[objektai/asmenys/Fabijonas (Varmės vyskupas).md#claim-t-87667|Fabijonas (Varmės vyskupas)]]: Fabijonas buvo paskirtas Varmės vyskupu be valdovo pritarimo, bet jo paskyrimą vėliau sutikta pripažinti galiojančiu.
 - susijęs iš [[objektai/asmenys/Kristoforas Hartknochas.md#claim-t-189970|Kristoforas Hartknochas]]: Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumentuotai laikė tuo pačiu žemės dievu.
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64221|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Dusburgietis nurodo, kad Verneris iš Orzelno Ordino magistru buvo išrinktas 1324 m. liepos 6 d.
@@ -40,6 +65,8 @@ Vasilijus paskyrė Glinskį mažamečio sūnaus globėju dėl jo sumanumo tvarka
 - susijęs iš [[objektai/zodynas/fundacija.md#claim-t-86418|fundacija]]: 1544 m. sudaryta Pabaisko bažnyčios ir klebonijos fundacijos privilegija 1785 m. buvo pateikta LDK Vyriausiajam Tribunolui.
 - susijęs iš [[objektai/zodynas/lotyniškos teismo ir dokumentų formulės.md#claim-t-86481|lotyniškos teismo ir dokumentų formulės]]: LDK Vyriausiasis Tribunolas priėmė Pabaisko bažnyčios fundacijos dokumentą ir pavedė jį įrašyti į Tribunolo viešąsias knygas.
 - susijęs iš [[objektai/zodynas/Žemininkas Kurkas.md#claim-t-189144|Žemininkas Kurkas]]: Narbutas, remdamasis Hartknochu, Žemininką (Ziemienikas) tapatina su prūsų Kurku (Kurko, Kurchus).
+- susijęs iš [[objektai/paprociai/Lotynų kalbos vartojimas kaip diplomatinės kalbos.md#claim-t-192105|Lotynų kalbos vartojimas kaip diplomatinės kalbos]]: Narbutas rašo, kad slavai venedai ir lietuviai lotynų kalbą vartojo kaip diplomatinę kalbą.
+- susijęs iš [[objektai/zodynas/jurisdikcija.md#claim-t-192172|jurisdikcija]]: 1578 m. Steponas Batoras atleido Akademijos profesorius ir studentus nuo dvasinės ir pasaulietinės jurisdikcijos bei mokesčių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -59,8 +86,32 @@ Vasilijus paskyrė Glinskį mažamečio sūnaus globėju dėl jo sumanumo tvarka
     Vasilijaus našlė, o jo brolio anūkė begėdiškai gyvena
     su Ovčina, ėjusiu tas pačias pareigas, kaip ir jis.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-168746
+  citata_originali: |
+    Pats Vasilijus, beje, irgi gerai žino­
+    jo, kad Glinskis, sulaukęs iš jo malonės, dar ištikimiau
+    jam tarnausiąs ir ateityje teiksiąs kur kas daugiau nau­
+    dos Maskvos valstybei, nei būtų pridaręs žalos, pa­
+    sprukdamas slapta į Lietuvą. Štai todėl Glinskis vėl
+    atgavo laisvę ir ankstesnę pagarbą, o ateityje susilau­
+    kė tokio didelio kunigaikščio palankumo, kad jį, pa­
+    rodžiusį nuostabų sumanumą tvarkant taikos bei karo
+    reikalus, Vasilijus paskyrė mažamečio sūnaus globėju.
+    Gavęs šitokias garbingas pareigas, kartą sužinojo, jog
+    Vasilijaus našlė, o jo brolio anūkė begėdiškai gyvena
+    su Ovčina, ėjusiu tas pačias pareigas, kaip ir jis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185385

@@ -11,11 +11,6 @@ datos:
   - '2026 m.'
 date_start: '1398'
 date_end: '2026'
-description: 'Ponų taryba buvo įtakinga LDK institucija, patarusi didžiajam kunigaikščiui ir ribojusi jo veiksmus valstybės politikoje.'
-socialDescription: 'Ponų taryba LDK politikoje stiprino diduomenės įtaką ir vertė didįjį kunigaikštį tartis svarbiais valstybės klausimais.'
-seo_atnaujinta: '2026-07-02T23:12:35.354338+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,105 +21,330 @@ tags:
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Ponų taryba (institucija)
 
 ## Santrauka
 
-Ponų taryba buvo Lietuvos didžiojo kunigaikščio aplinkoje įsitvirtinusi institucija, dariusi įtaką valstybės politikai ir ribojusi valdovo veiksmus. Ji liko patariamasis organas, tačiau didysis kunigaikštis pasižadėjo tartis dėl valstybinių vietų, išlaidų ir pasiuntinių siuntimo. Kazimiero viešpatavimo metu taryba sustiprėjo, o 1492 m. Aleksandro privilegija nustatė jos kompetencijos ribas.
+Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžiojo kunigaikščio, arba ponų taryba atsirado ir Lietuvoje. Tai ir buvo vadinamoji didžiojo kunigaikščio taryba. Kazimiero viešpatavimo metu taryba taip sutvirtėjo, jog, išrinkusi Aleksandrą, pareikalavo, kad jis nustatytų jos kompetencijos ribas.
 
 ## Teiginiai
 
 <a id="claim-t-72607"></a>
-- t-001
+- t-012
   global_id: t-72607
-  teiginys: 'Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba ir seimai.'
+  teiginys: "Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba ir seimai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "474259-474501; hash=579b75e8652dc59c0660a0c0de52e6b323363ebf6f8f8fc890bc3785ba5a3ef4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aleksandras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ponų taryba (institucija): owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras: mention_match, person, gap=54"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ponų taryba (institucija)\" parinktas kaip owner_note_path. Targetas \"Aleksandras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-004
+    - c-46393
 
 <a id="claim-t-72608"></a>
-- t-002
+- t-015
   global_id: t-72608
-  teiginys: 'Didysis kunigaikštis pasižadėjo be ponų tarybos patarimo nebedalyti valstybinių vietų.'
+  teiginys: "Didysis kunigaikštis pasižadėjo be ponų tarybos patarimo nebedalyti valstybinių vietų."
+  temporaliniai_duomenys: "įvykio data: 1398 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Įvardytas veikėjas ir pataisyta sakinio forma."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "414738-415180; hash=01ceb0ee20c6f53971d8efe16cfa0c73626a44d019791754a1720ee50533c8a4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ponų taryba (institucija): owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ponų taryba (institucija)\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-003
+    - c-46391
 
 <a id="claim-t-72609"></a>
-- t-003
+- t-005
   global_id: t-72609
-  teiginys: 'Lenkijos ponų taryba prisidėjo prie 1398 m. protesto prieš Lietuvos ir Lenkijos santykių eigą ir buvo sumaniusi unijos reikalą.'
+  teiginys: "Lenkijos ponų taryba prisidėjo prie 1398 m. protesto prieš Lietuvos ir Lenkijos santykių eigą ir buvo sumaniusi unijos reikalą."
+  temporaliniai_duomenys: "įvykio data: 1398 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas neaiškus įvardis ir OCR triukšmas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "414738-415180; hash=01ceb0ee20c6f53971d8efe16cfa0c73626a44d019791754a1720ee50533c8a4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ponų taryba (institucija): owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=50"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ponų taryba (institucija)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-36928
 
 <a id="claim-t-72610"></a>
-- t-004
+- t-013
   global_id: t-72610
-  teiginys: 'Ponų taryba turėjo laisvę kalbėti, tačiau liko patariamasis organas, kurio sprendimai nevaržė didžiojo kunigaikščio.'
+  teiginys: "Ponų taryba turėjo laisvę kalbėti, tačiau liko patariamasis organas, kurio sprendimai nevaržė didžiojo kunigaikščio."
+  temporaliniai_duomenys: "įvykio data: 1398 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sutrumpintas per ilgas ir nutrūkęs teiginys, išlaikant citatos faktus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "414738-415180; hash=01ceb0ee20c6f53971d8efe16cfa0c73626a44d019791754a1720ee50533c8a4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ponų taryba (institucija): owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ponų taryba (institucija)\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-003
+    - c-46391
 
 <a id="claim-t-72612"></a>
-- t-005
+- t-016
   global_id: t-72612
-  teiginys: 'Lietuvos ponų taryboje buvę kunigaikščiai ilgai reikalavo vietos senate, bet dėl Lietuvos ponų pasipriešinimo į jį nepateko.'
+  teiginys: "Lietuvos ponų taryboje buvę kunigaikščiai ilgai reikalavo vietos senate, bet dėl Lietuvos ponų pasipriešinimo į jį nepateko."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "459709-460093; hash=8ec6b8eadfb01761930988cc7b46efe1fa260616e53030b0146a373a2ddfdac3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> kunigaikščiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ponų taryba (institucija): owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "kunigaikščiai: mention_match, thing, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ponų taryba (institucija)\" parinktas kaip owner_note_path. Targetas \"kunigaikščiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-71014
 
 <a id="claim-t-72613"></a>
-- t-006
+- t-010
   global_id: t-72613
-  teiginys: 'Kazimiero viešpatavimo metu Ponų taryba sustiprėjo ir, išrinkusi Aleksandrą, pareikalavo nustatyti jos kompetencijos ribas.'
+  teiginys: "Kazimiero viešpatavimo metu Ponų taryba sustiprėjo ir, išrinkusi Aleksandrą, pareikalavo nustatyti jos kompetencijos ribas."
+  semantiniai_rysiai: "Ponų taryba (institucija) paskyrė Aleksandras (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1492 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "414010-414391; hash=ae3c5eed8b172f14d4e18916892b71e6e00e907ec5996cbabd18343e86a4d5fe; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "paskyre -> Aleksandras: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Ponų taryba (institucija): llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Aleksandras: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Taryba tiesiogiai įvardyta kaip išrinkusi Aleksandrą."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-006
+    - c-71013
+
+<a id="claim-t-72607"></a>
+- t-012
+  global_id: t-72607
+  teiginys: "Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi ponų taryba ir seimai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "474259-474501; hash=579b75e8652dc59c0660a0c0de52e6b323363ebf6f8f8fc890bc3785ba5a3ef4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aleksandras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ponų taryba (institucija): owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras: mention_match, person, gap=54"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ponų taryba (institucija)\" parinktas kaip owner_note_path. Targetas \"Aleksandras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-46393
 
 <a id="claim-t-72615"></a>
-- t-008
+- t-006
   global_id: t-72615
-  teiginys: 'Lenkų ponų taryba Radome garantavo, kad Vytautui nebus atimta Lietuvos didžioji kunigaikštija.'
+  teiginys: "Lenkų ponų taryba Radome garantavo, kad Vytautui nebus atimta Lietuvos didžioji kunigaikštija."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "459709-460093; hash=8ec6b8eadfb01761930988cc7b46efe1fa260616e53030b0146a373a2ddfdac3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ponų taryba (institucija): owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=56"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ponų taryba (institucija)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-36929
 
 <a id="claim-t-72616"></a>
-- t-009
+- t-011
   global_id: t-72616
-  teiginys: 'Ponų taryboje kiekvienam buvo suteikta laisvė kalbėti, o didysis kunigaikštis pasižadėjo nebausti už jam nemalonų patarimą.'
+  teiginys: "Ponų taryboje kiekvienam buvo suteikta laisvė kalbėti, o didysis kunigaikštis pasižadėjo nebausti už jam nemalonų patarimą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "414648-414980; hash=2b6c871a64ebf80e0d25f257b070ae59d888362118321ef34023b132b70e154b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> didysis kunigaikštis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ponų taryba (institucija): owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "didysis kunigaikštis: mention_match, thing, gap=57"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ponų taryba (institucija)\" parinktas kaip owner_note_path. Targetas \"didysis kunigaikštis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-005
+    - c-71012
 
 <a id="claim-t-187735"></a>
 - t-010
   global_id: t-187735
-  teiginys: 'Ponų taryba Brastoje pakėlė karalaitį Kazimierą Lietuvos didžiuoju kunigaikščiu.'
+  teiginys: "Ponų taryba Brastoje pakėlė karalaitį Kazimierą Lietuvos didžiuoju kunigaikščiu."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "217894-218403; hash=feb427e9cf7ba69af7cefcd286de078ab8e2b8a572c81a5a84566c276190262c; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Brasta: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ponų taryba (institucija): owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Brasta: mention_match, place, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ponų taryba (institucija)\" parinktas kaip owner_note_path. Targetas \"Brasta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-008
+    - c-170674
 
 <a id="claim-t-187736"></a>
 - t-011
   global_id: t-187736
-  teiginys: 'Kazimieras ir Didžiosios Kunigaikštystės Ponų taryba pasiuntė Joną Goštautą su kariuomene susigrąžinti nuo LDK atsiskyrusių miestų.'
+  teiginys: "Kazimieras ir Didžiosios Kunigaikštystės Ponų taryba pasiuntė Joną Goštautą su kariuomene susigrąžinti nuo LDK atsiskyrusių miestų."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Jurgis Nosuta keliavo į Mazovija (0.93); Ponų taryba (institucija) paskyrė Goštautas (vyskupas, XV a.) (0.76)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "219930-220836; hash=379332ac2b255a07e2a061754a8edf8533c937a80a4138e65d93b54360f8fe79; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Mazovija: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jurgis Nosuta: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Mazovija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Jurgio Nosutos pabėgimas į Mazoviją tiesiogiai nurodo judėjimą į vietą."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-009
+    - c-170675
 
 <a id="claim-t-187738"></a>
 - t-012
   global_id: t-187738
-  teiginys: 'Jonušas Zaberezinskis ir kiti LDK Ponų tarybos nariai pasisakė už Melniko uniją, kuriai Aleksandras ir jo broliai priešinosi.'
+  teiginys: "Jonušas Zaberezinskis ir kiti LDK Ponų tarybos nariai pasisakė už Melniko uniją, kuriai Aleksandras ir jo broliai priešinosi."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "653139-653537; hash=e5b82d15f1b5aa6d66b8a1e5464e80e38cf22a31800721166b327c6ac3256964; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aleksandras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ponų taryba (institucija): owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras: mention_match, person, gap=54"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ponų taryba (institucija)\" parinktas kaip owner_note_path. Targetas \"Aleksandras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-010
+    - c-170677
 
 <a id="claim-t-187739"></a>
 - t-013
   global_id: t-187739
-  teiginys: 'Jonas Zaberezinskis, Vaitiekus Taboras, Stanislovas Kiška ir Stanislovas Jonaitis Kęsgaila buvo pašalinti iš Ponų tarybos.'
+  teiginys: "Jonas Zaberezinskis, Vaitiekus Taboras, Stanislovas Kiška ir Stanislovas Jonaitis Kęsgaila buvo pašalinti iš Ponų tarybos."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "653538-653952; hash=c40baf993ded7145ebc2f82e9dbac9ce3a6325e3bdc49b65511939a4ca4d7476; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> LDK Ponų Taryba (institucija, XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ponų taryba (institucija): owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "LDK Ponų Taryba (institucija, XV a.): mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ponų taryba (institucija)\" parinktas kaip owner_note_path. Targetas \"LDK Ponų Taryba (institucija, XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-011
+    - c-170678
 
 <a id="claim-t-187740"></a>
 - t-014
   global_id: t-187740
-  teiginys: 'Aleksandro 1492 m. rugpjūčio 6 d. privilegija Lietuvos feodalams išplėtė LDK Ponų tarybos teises.'
+  teiginys: "Aleksandro 1492 m. rugpjūčio 6 d. privilegija Lietuvos feodalams išplėtė LDK Ponų tarybos teises."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1492 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškus, faktinis ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "657051-657406; hash=e805ba87ae012af7fb3c3b3908e1f770b3ba3600cd84f16d95f39f08b832d185; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ponų taryba (institucija): owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ponų taryba (institucija)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-012
+    - c-170679
+
+<a id="claim-t-193844"></a>
+- t-017
+  global_id: t-193844
+  teiginys: "Paskui abi šalys su visais savo Tarybų ponais suvažiavo į Parčevą 6 dalyvauti sei me, ir visi išbuvo Parčeve dvi savaites; ką vieni su ki tais sumanė ir nutarė — visa tai paliko didelė paslap tis 7 , Ir išvažinėjo savais keliais; Olbrachtas j Kroku vą ® , o."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "258203-259104; hash=36dad47286813855ec6bd8f6b1c0878a534a3e9dcc96455110941df58d556ccd; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176488
 - susijęs iš [[objektai/grupes/LDK Ponų Taryba.md#claim-t-187765|LDK Ponų Taryba (institucija, XV a.)]]: Jonas Zaberezinskis, Vaitiekus Taboras, Stanislovas Kiška ir Stanislovas Jonaitis Kęsgaila buvo pašalinti iš LDK Ponų Tarybos.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179212|Lenkai]]: Lenkijos ponų taryba privertė Jogailą atšaukti sutikimą dėl Vytauto karūnavimo ceremonijos.
 - susijęs iš [[objektai/grupes/Lenkijos ponų taryba.md#claim-t-77825|Lenkijos ponų taryba]]: Lenkijos ponų taryba privertė Jogailą atšaukti sutikimą dėl Vytauto karūnavimo ceremonijos.
@@ -162,6 +382,7 @@ Ponų taryba buvo Lietuvos didžiojo kunigaikščio aplinkoje įsitvirtinusi ins
     ka nenueitų niekais, ir ponų taryba, kuri sumanė visos unijos
     reikalą^1 ).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -180,6 +401,7 @@ Ponų taryba buvo Lietuvos didžiojo kunigaikščio aplinkoje įsitvirtinusi ins
     teisę dalyvauti naujo kun. elekcijoj. Lenkų bajorija turėjo tą
     teisę seniau.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -198,8 +420,9 @@ Ponų taryba buvo Lietuvos didžiojo kunigaikščio aplinkoje įsitvirtinusi ins
     lėjo varžyti didžiojo kunigaikščio; išklausęs tarybos nuomonės,
     jis galėjo ir visiškai priešingai pasielgti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
@@ -214,8 +437,9 @@ Ponų taryba buvo Lietuvos didžiojo kunigaikščio aplinkoje įsitvirtinusi ins
     valstybės politikoje jį varžė įsigalėjusi ponų taryba ir
     seimai (žiūr. 198—201 psl.).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -232,6 +456,7 @@ Ponų taryba buvo Lietuvos didžiojo kunigaikščio aplinkoje įsitvirtinusi ins
     bėti; didysis kunigaikštis pasižadėjo nebausti net tų, kurių
     patarimas būtų ir nemalonus jam.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -249,6 +474,7 @@ Ponų taryba buvo Lietuvos didžiojo kunigaikščio aplinkoje įsitvirtinusi ins
     joje, kuria jis pirmiausia pasižadėjo tartis su taryba, siųs-
     damas į užsienius pasiuntinius.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -267,6 +493,7 @@ Ponų taryba buvo Lietuvos didžiojo kunigaikščio aplinkoje įsitvirtinusi ins
     kunigaikščiai. Bet kadangi Lietuvos ponai buvo jiems prie-
     šingi, tai jie vis dėlto nepateko į senatą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -288,6 +515,7 @@ Ponų taryba buvo Lietuvos didžiojo kunigaikščio aplinkoje įsitvirtinusi ins
     tuvos didžiuosius kunigaikščius l6 . Tuo metu jis turėjo
     ne daugiau, kaip trylika metų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -320,6 +548,7 @@ Ponų taryba buvo Lietuvos didžiojo kunigaikščio aplinkoje įsitvirtinusi ins
 
     buvo mozūrų kilmės.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -337,6 +566,7 @@ Ponų taryba buvo Lietuvos didžiojo kunigaikščio aplinkoje įsitvirtinusi ins
     interesų. Savo ruožtu M. Glinskis veikė kaip Aleksandro politikos
     rėmėjas, J . Zaberezinskio ir jo  šalininkų politinis priešininkas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -355,6 +585,7 @@ Ponų taryba buvo Lietuvos didžiojo kunigaikščio aplinkoje įsitvirtinusi ins
     seime atm etė Lenkijos atstovų reikalavimų ratifikuoti M elniko uni­
     jos susitarimus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -372,11 +603,280 @@ Ponų taryba buvo Lietuvos didžiojo kunigaikščio aplinkoje įsitvirtinusi ins
     pykti an t Ponų Tarybos, jeigu ji atmestų jo pasiūlytą svarstyti
     klausimą ar projektą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
+- c-013
+  santrauka: 'Paskui abi šalys su visais savo Tarybų ponais suvažiavo į Parčevą 6 dalyvauti sei me, ir visi išbuvo Parčeve dvi savaites; ką vieni su ki tais sumanė ir nutarė — visa tai paliko didelė paslap tis 7 , Ir išvažinėjo savais keliais; Olbrachtas j Kroku vą ® , o.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris­
+    taus gimimo tūkstantis keturi šimtai devyniasdešimt
+    šeštaisiais didysis kunigaikštis Aleksandras išvyko
+    į Brastą \  o karalius Olbrachtas su jų broliu, karalai­
+    čiu Zigmantu — į Liubliną 5 . Paskui abi šalys su visais
+    savo Tarybų ponais suvažiavo į Parčevą 6  dalyvauti sei­
+    me, ir visi išbuvo Parčeve dvi savaites; ką vieni su ki­
+    tais sumanė ir nutarė — visa tai paliko didelė paslap­
+    tis 7 , Ir išvažinėjo savais keliais; Olbrachtas j Kroku­
+    vą ® ,  o didysis kunigaikštis Aleksandras — į Vilnių9 .
+    Septyni tūkstančiai penktaisiais metais nuo pasaulio
+    sutvėrimo, o nuo Kristaus gimimo tūkstantis keturi šim­
+    tai devyniasdešimt septintųjų metų vasarą Lenkijos ka­
+    ralius Olbrachas sutelkė galybę savo kariuomenės ir
+    su visomis Lenkijos karalystės jėgomis, su paruoštais
+    žirgais ir ginklais išžygiavo prieš Moldavijos vaivadą
+    Steponą l0 .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-015
+
+## Citatos
+
+- id: c-36928
+  citata_originali: |
+    Lenkai stengėsi pastoti tam kelią. 1398 m.
+    pirmą kartą pasigirdo iš Lenkijos protesto balsas prieš tokią
+    Lietuvos su Lenkija santykių eigą. Tą balsą, kaip ir pirma dėl
+    Podolijos, pakėlė Jadvyga, kuri rūpinosi, kad jos padaryta au­
+    ka nenueitų niekais, ir ponų taryba, kuri sumanė visos unijos
+    reikalą^1 ).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-72609
+
+- id: c-36929
+  citata_originali: |
+    Lenkų ponų
+    taryba Radome davė garantiją, kaip lietuv. bajorai Vilniuj len­
+    kams, kad Vytautui nebus atimta d. Lietuvos kunigaikštija. Lie­
+    tuvių bajorų aktas leidžia jiems daryti spaudimą į Vytautą, jei
+    šis nesilaikytų unijos; taip pat lietuviai, mirus Vytautui, gauna
+    teisę dalyvauti naujo kun. elekcijoj. Lenkų bajorija turėjo tą
+    teisę seniau.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-72615
+
+- id: c-46391
+  citata_originali: |
+    Be to, jis pasižadėjo, nepasita-
+    ręs su taryba, nebedalinti niekam valstybinių vietų. Taryboje
+    buvo suteikta laisvė kiekvienam visiškai laisvai kal-
+    bėti; didysis kunigaikštis pasižadėjo nebausti net tų, kurių
+    patarimas būtų ir nemalonus jam. Vis dėlto šia privilegija ta-
+    ryba tebebuvo tik patariamasis organas: jos sprendimai nega-
+    lėjo varžyti didžiojo kunigaikščio; išklausęs tarybos nuomonės,
+    jis galėjo ir visiškai priešingai pasielgti.
+  citata_rodoma: "Taryboje\nbuvo suteikta laisvė kiekvienam visiškai laisvai kal-\nbėti; didysis kunigaikštis pasižadėjo nebausti net tų, kurių\npatarimas būtų ir nemalonus jam. Vis dėlto šia privilegija ta-\nryba tebebuvo tik patariamasis organas: jos sprendimai nega-\nlėjo varžyti didžiojo kunigaikščio; išklausęs tarybos nuomonės,\njis galėjo ir visiškai priešingai pasielgti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-72610
+    - t-72608
+
+- id: c-46393
+  citata_originali: |
+    Vieni žemes gaudavo amžinai,
+    kiti — iki savo ar vaikų gyvos galvos, o dar kiti — iki norėjo
+    didysis kunigaikštis. Visa tai jis galėjo daryti laisvai; tačiau
+    valstybės politikoje jį varžė įsigalėjusi ponų taryba ir
+    seimai (žiūr. 198—201 psl.).
+  citata_rodoma: "Visa tai jis galėjo daryti laisvai; tačiau\nvalstybės politikoje jį varžė įsigalėjusi ponų taryba ir\nseimai (žiūr. 198—201 psl.)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-72607
+    - t-72614
+
+- id: c-71012
+  citata_originali: |
+    Dabar
+    didysis kunigaikštis pasižadėjo, nepasitaręs su taryba, nebe-
+    daryti jokių išlaidų. Be to, jis pasižadėjo, nepasita-
+    ręs su taryba, nebedalinti niekam valstybinių vietų. Taryboje
+    buvo suteikta laisvė kiekvienam visiškai laisvai kal-
+    bėti; didysis kunigaikštis pasižadėjo nebausti net tų, kurių
+    patarimas būtų ir nemalonus jam.
+  citata_rodoma: "Taryboje\nbuvo suteikta laisvė kiekvienam visiškai laisvai kal-\nbėti; didysis kunigaikštis pasižadėjo nebausti net tų, kurių\npatarimas būtų ir nemalonus jam."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-72616
+
+- id: c-71013
+  citata_originali: |
+    Tuo būdu tarybos sudėtis pasidarė
+    pastovi, tik neaiškios pasiliko jos valdžios (kompetencijos) ribos.
+    Kazimiero viešpatavimo metu taryba taip sutvirtėjo, jog,
+    išrinkusi Aleksandrą, pareikalavo, kad jis nustatytų jos kompe-
+    tencijos ribas. Aleksandras tatai padarė savo 1492 m. privilegi-
+    joje, kuria jis pirmiausia pasižadėjo tartis su taryba, siųs-
+    damas į užsienius pasiuntinius.
+  citata_rodoma: "Kazimiero viešpatavimo metu taryba taip sutvirtėjo, jog,\nišrinkusi Aleksandrą, pareikalavo, kad jis nustatytų jos kompe-\ntencijos ribas. Aleksandras tatai padarė savo 1492 m. privilegi-\njoje, kuria jis pirmiausia pasižadėjo tartis su taryba, siųs-\ndamas į užsienius pasiuntinius."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-72613
+
+- id: c-71014
+  citata_originali: |
+    Bet į senatą nepateko dalis
+    didžiojo kunigaikščio tarybos narių — jo dvaro aukštieji digni-
+    toriai, kokių Lenkijoje iš viso nebuvo arba kurie ten nebuvo
+    senatoriais. Bet jie dėl to nekėlė triukšmo; tik ilgai spyrėsi,
+    reikalaudami sau vietos senate, Lietuvos ponų taryboje buvusieji
+    kunigaikščiai. Bet kadangi Lietuvos ponai buvo jiems prie-
+    šingi, tai jie vis dėlto nepateko į senatą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-72612
+
+- id: c-170674
+  citata_originali: |
+    Ir jis sutiko važiuoti
+    su jais ir be lenkų ponų sutikimo nusileido iš Sando-
+    miro pilies pas lietuvių ponus, ir tiedu ponai greitai įį
+    paėmė ir su didele pagarba pristatė didikams į Brastą H .
+    Ir ten Ponų Taryba — kunigaikštis Jurgis Alšėniškis,
+    ir Vilniaus kaštelionas, 2emaičių seniūnas Kęsgailą, ir
+    Jonas Goštautas, ir Mikalojus Nemiravičius, ir krašto
+    maršalas Astikas 1 5  — pakėlė karalaitį Kazimierą į Lie­
+    tuvos didžiuosius kunigaikščius l6 . Tuo metu jis turėjo
+    ne daugiau, kaip trylika metų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187735
+
+- id: c-170675
+  citata_originali: |
+    Kai tik jis išgirdo, kad karalaitis Kazimieras pakel­
+    tas didžiuoju kunigaikščiu, o Mykoliukas Zygimantailis
+    pabėgo į Mazoviją, nusprendė su tais miestais pereiti
+    Mykoliuko Zygimantaičio tarnybon ir dar prikalbėjo
+    daugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios
+    Kunigaikštystės. Ir su visais tais miestais prisijungė
+    prie Mazovijos ir ėmė tarnauti Mykoliukui
+    Išgirdę apie tai tikrą žinią, didysis kunigaikštis Ka­
+    zimieras ir Didžiosios Kunigaikštystės Ponų Taryba
+    skubiai siunčia su kariuomene Joną Goštautą, kurį, įke­
+    liant Kazimierą į sostą, buvo paskyrę didžiojo kuni­
+    gaikščio globėju, nes kunigaikštis Kazimieras dar bu­
+    vo mažametis. Ir tas Goštautas didžiojo kunigaikščio
+    įsakymu nuvyko į tuos miestus, ir juos įveikė ginklo
+    jėga, ir visus pilnutinai sugrąžino Didžiajai Kunigaikš­
+    tystei o Jurgis Nosuta pabėgo į Mazoviją, nes jis
+    LlHuvoi 129
+
+    ## Puslapis 125
+
+    buvo mozūrų kilmės.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187736
+
+- id: c-170677
+  citata_originali: |
+    “  Konflikto priežastis buvo ne tik A. Drošdšos ir Iljiničiaus
+    byla, bet ir politiniai nesutarimai — J . Zaberezinskio ir kitų LDK
+    Ponų Tarybos narių pasisakymas už vadinamųjų M elniko unijų,
+    kuriai Aleksandras ir jo broliai buvo priešingi dėl savo dinastinių
+    interesų. Savo ruožtu M. Glinskis veikė kaip Aleksandro politikos
+    rėmėjas, J . Zaberezinskio ir jo  šalininkų politinis priešininkas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187738
+
+- id: c-170678
+  citata_originali: |
+    4 T  Iš Jono Zaberezinskio buvo atim ta n e  tik Trakų vaivados,
+    bet laikinai ir krašto m aršalo vieta. Be to, jis drauge su Vilniaus
+    vyskupu Vaitiekum i Taboru, etm onu St. Kiška ir Žemaičių seniūnu
+    Stanislovu Jonaičiu Kęsgailą buvo pašalintas iš Ponų Tarybos.
+    Neutralizavus Melniko unijos rėmėjus, LDK Ponų Taryba Brastos
+    seime atm etė Lenkijos atstovų reikalavimų ratifikuoti M elniko uni­
+    jos susitarimus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187739
+
+- id: c-170679
+  citata_originali: |
+    87 Aleksandro 1492.VHI.6 privilegija Lietuvos leodalams, pra­
+    plečiam i LDK Ponų Tarybos teises, nustatė, kad didžiojo kunigaikš­
+    čio sutartinai su Ponų Tarybos priim tieji nutarim ai negali būti k ei­
+    čiami be Ponų Tarybos žinios; antra, didysis kunigaikštis negali
+    pykti an t Ponų Tarybos, jeigu ji atmestų jo pasiūlytą svarstyti
+    klausimą ar projektą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187740
+
+- id: c-176488
+  citata_originali: |
+    Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris­
+    taus gimimo tūkstantis keturi šimtai devyniasdešimt
+    šeštaisiais didysis kunigaikštis Aleksandras išvyko
+    į Brastą \  o karalius Olbrachtas su jų broliu, karalai­
+    čiu Zigmantu — į Liubliną 5 . Paskui abi šalys su visais
+    savo Tarybų ponais suvažiavo į Parčevą 6  dalyvauti sei­
+    me, ir visi išbuvo Parčeve dvi savaites; ką vieni su ki­
+    tais sumanė ir nutarė — visa tai paliko didelė paslap­
+    tis 7 , Ir išvažinėjo savais keliais; Olbrachtas j Kroku­
+    vą ® ,  o didysis kunigaikštis Aleksandras — į Vilnių9 .
+    Septyni tūkstančiai penktaisiais metais nuo pasaulio
+    sutvėrimo, o nuo Kristaus gimimo tūkstantis keturi šim­
+    tai devyniasdešimt septintųjų metų vasarą Lenkijos ka­
+    ralius Olbrachas sutelkė galybę savo kariuomenės ir
+    su visomis Lenkijos karalystės jėgomis, su paruoštais
+    žirgais ir ginklais išžygiavo prieš Moldavijos vaivadą
+    Steponą l0 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193844
 
 ## Ryšiai
 - Ponų taryba (institucija) siuntė į [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]

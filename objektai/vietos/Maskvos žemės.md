@@ -19,6 +19,18 @@ tags:
   - vieta
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Maskvos žemės
 
@@ -31,9 +43,23 @@ Tokiu nuolatinių kovų laiku augo Vytautas savo tėvo dva­ re Trakuose, todėl
 <a id="claim-t-36398"></a>
 - t-001
   global_id: t-36398
-  teiginys: 'Vytautas anksti pradėjo dalyvauti karo žygiuose: 1368 ir 1372 m. žygiavo į Maskvos žemes, o 1376 m. dalyvavo žygyje prieš lenkus.'
+  teiginys: "Vytautas anksti pradėjo dalyvauti karo žygiuose: 1368 ir 1372 m. žygiavo į Maskvos žemes, o 1376 m. dalyvavo žygyje prieš lenkus."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) surengė žygį į Maskvos žemės (0.90); Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo prieš Lenkai (0.88)"
+  temporaliniai_duomenys: "įvykio data: 1362 m.; įvykio data: 1368 m.; įvykio data: 1372 m.; įvykio data: 1376 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiksliai remiasi citatos duomenimis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "44805-45495; hash=cce06cc2eba2569ead1fa315740d03407cb2bc64ac4915f3cd9e373a78f93608; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Maskvos žemės: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Maskvos žemės: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vytautas tiesiogiai nurodytas kaip dalyvavęs karo žygiuose į Maskvos žemes."
   pagrindžia:
-    - c-001
+    - c-38561
 - susijęs iš [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę.md#claim-t-186640|Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]: Lietuvos metraščio pasakojime Kazimieras tą pačią žiemą pasiuntė savo vaivadas, kunigaikščius ir ponus su kariuomene pulti Maskvos žemės.
 ## Reikšmingi paminėjimai
 
@@ -53,11 +79,36 @@ Tokiu nuolatinių kovų laiku augo Vytautas savo tėvo dva­ re Trakuose, todėl
     lyvauja kartu žygyje prieš lenkus. Pirmąją gi didelę karinę
     pamoką Vytautas gavo viename mūšyje su kryžiuočiais.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-38561
+  citata_originali: |
+    Kiek tos kovos Kęstučio valdymo laiku padidėjo,
+    rodo ir ta aplinkybė, kad vokiečiai tiek jau buvo įsidrąsinę, kad
+    1362 m. išgriovė Kauno pilį ir pradėjo brautis vis gilyn į Lietu­
+    vą, pasiekdami net Vilniaus ir Neries sritis, kurių dar niekad
+    priešai nebuvo pasiekę.
+    Tokiu nuolatinių kovų laiku augo Vytautas savo tėvo dva­
+    re Trakuose, todėl ir jo auklėjime turėjo vyrauti kariški dalykai,
+    ir užtat nenuostabu, kad jis labai anksti (1368 m.) pradeda
+    dalyvauti įvairiuose karo žygiuose: 1368 ir 1372 metais į Mask­
+    vos žemes; 1376 metais, jau kaip Gardino‘kunigaikštis, jis da­
+    lyvauja kartu žygyje prieš lenkus. Pirmąją gi didelę karinę
+    pamoką Vytautas gavo viename mūšyje su kryžiuočiais.
+  citata_rodoma: "Tokiu nuolatinių kovų laiku augo Vytautas savo tėvo dva­\nre Trakuose, todėl ir jo auklėjime turėjo vyrauti kariški dalykai,\nir užtat nenuostabu, kad jis labai anksti (1368 m.) pradeda\ndalyvauti įvairiuose karo žygiuose: 1368 ir 1372 metais į Mask­\nvos žemes; 1376 metais, jau kaip Gardino‘kunigaikštis, jis da­\nlyvauja kartu žygyje prieš lenkus. Pirmąją gi didelę karinę\npamoką Vytautas gavo viename mūšyje su kryžiuočiais."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36398
 
 ## Ryšiai
 - Buvo žygio kryptis: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

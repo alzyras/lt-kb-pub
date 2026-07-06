@@ -16,6 +16,18 @@ tags:
 amziai:
   - 'XVI'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Liberum veto
 
@@ -49,11 +61,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-168674"></a>
-- t-001
+- t-005
   global_id: t-168674
-  teiginys: 'Liberum veto reiškė laisvojo pasipriešinimo teisę, dėl kurios daug seimų išsiskirstydavo nieko nenuveikę.'
+  teiginys: "Liberum veto reiškė laisvojo pasipriešinimo teisę, dėl kurios daug seimų išsiskirstydavo nieko nenuveikę."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "558903-559206; hash=724f6921c725dc04d3b3f8050a0a50c7450d14c2bc2cc5c4b686b5818e393d13; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
+    - c-153470
 - susijęs iš [[objektai/zodynas/Bajorų respublika liberum veto.md#claim-t-21976|Bajorų respublika liberum veto]]: Liberum veto teisė reikalavo Seimo sprendimus priimti vienu balsu ir trukdė stiprinti bei centralizuoti valstybę.
 - susijęs iš [[objektai/asmenys/Jekaterina II.md#claim-t-170051|Jekaterina II]]: Rusijos imperatorė Jekaterina II rėmė Augusto Poniatovskio globėjus Čartoriskius, tikėdamasi per juos plėsti savo įtaką.
 - susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80770|Abiejų Tautų Respublika]]: 1566–1795 m. Abiejų Tautų Respublikos bajoriškoji demokratija buvo luominė monarchija, paremta bajorų luomu.
@@ -80,8 +95,29 @@ Nenurodyta
 
     nieko nenuveikę.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-153470
+  citata_originali: |
+    Pasipriešinimo teisė
+    visų buvo labai branginama, nes visi savo laisvės pagrindu laikė
+    šį dėsnį: „Be manęs nieko negali būti sprendžiama apie mane"
+    _(nihil de те, sine те)._ Tatai vadinosi _liberum veto,_ t. y. laisvojo
+    pasipriešinimo teisė. Dėl jos daugybė seimų turėjo išsiskirstyti,
+
+
+    nieko nenuveikę.
+  citata_rodoma: "_ Tatai vadinosi _liberum veto,_ t. y. laisvojo\npasipriešinimo teisė. Dėl jos daugybė seimų turėjo išsiskirstyti,\n\n\nnieko nenuveikę."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-168674

@@ -23,6 +23,18 @@ tags:
 amziai:
   - 'XII'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Preussisches Urkundenbuch Politische Abtheilung
 
@@ -35,10 +47,22 @@ Dusburgietis teigia, kad preussisches Urkundenbuch: Politische Abtheilung.—Bd.
 <a id="claim-t-61257"></a>
 - t-001
   global_id: t-61257
-  teiginys: 'Pirmasis „Preussisches Urkundenbuch: Politische Abtheilung“ tomas apima 1140–1309 m. dokumentus.'
+  teiginys: "Pirmasis „Preussisches Urkundenbuch: Politische Abtheilung“ tomas apima 1140–1309 m. dokumentus."
+  temporaliniai_duomenys: "įvykio data: 1140-1309; įvykio data: 1309 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata nurodo pirmojo tomo dalių chronologines ribas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "793854-794474; hash=9a175c3c8960c5aaf7805afba5183b80c59d9b220d3d98fa6fbcc94d5c657674; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Preussisches Urkundenbuch Politische Abtheilung: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person, gap=50"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Preussisches Urkundenbuch Politische Abtheilung\" parinktas kaip owner_note_path. Targetas \"Tomas (Hertvigo iš Pokarvių sūnus)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-61889
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -54,8 +78,28 @@ Dusburgietis teigia, kad preussisches Urkundenbuch: Politische Abtheilung.—Bd.
     1958; [3 Lieferung): Nachträge, Register/H. Koeppen, A. Triller.—Marburg, 1961; Bd. 4
     (1346—1351) /Н. Koeppen.— Marburg, 1960.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-61889
+  citata_originali: |
+    Preussisches Urkundenbuch: Politische Abtheilung.—Bd. 1. Erste Hälfte (1140—1257)
+    / Philippi, Wölky.— 1882, 1961, Aalen; Zweite Hälfte (1257—1309) / A. Seraphim,
+    1909, 1961 — Aalen; Bd. 2/М. Hein, E. Maschke.— Königsberg Pr.: 1 Lieferung (1309—
+    1324); 2 Lieferung (1324—1331), 1935; 3 Lieferung (1331—1335), 1937; 4 Lieferung
+    (Orts, Personen und Sachregister), 1939; Bd. 3: 1 Lieferung (1335—1341) / M. Hein.—
+    Königsberg Pr., 1944, Marburg, 1975; 2 Lieferung (1342— 1345)/H. Koeppen.— Marburg,
+    1958; [3 Lieferung): Nachträge, Register/H. Koeppen, A. Triller.—Marburg, 1961; Bd. 4
+    (1346—1351) /Н. Koeppen.— Marburg, 1960.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-61257

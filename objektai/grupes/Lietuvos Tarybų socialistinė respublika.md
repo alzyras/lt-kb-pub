@@ -15,6 +15,18 @@ tags:
   - tauta
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvos Tarybų socialistinė respublika (institucija)
 
@@ -27,9 +39,22 @@ amziai:
 <a id="claim-t-31291"></a>
 - t-001
   global_id: t-31291
-  teiginys: 'Tarybiniai istorikai teigė, kad Lietuvos Tarybų respublikos suverenumas po kliūčių esą buvęs įvykdytas 1940 m.'
+  teiginys: "Tarybiniai istorikai teigė, kad Lietuvos Tarybų respublikos suverenumas po kliūčių esą buvęs įvykdytas 1940 m."
+  temporaliniai_duomenys: "įvykio data: 1918 m.; įvykio data: 1940 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia aiškiau parodyti, kad tai tarybinių istorikų pozicija."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "95337-95874; hash=c3dcf9c98eb2cde6bdfbf3b0ec6b30dc02e7f86ed958a2552b18e32d3d97a37f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos Tarybų socialistinė respublika (institucija): owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=16"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Tarybų socialistinė respublika (institucija)\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-33318
 - susijęs iš [[objektai/grupes/Lietuvos Sovietų Socialistinė Respublika.md#claim-t-74781|Lietuvos Sovietų Socialistinė Respublika]]: Sudarius marionetinę vyriausybę paskelbta, kad sukuriama Lietuvos Tarybų Socialistinė Respublika.
 ## Reikšmingi paminėjimai
 
@@ -48,8 +73,31 @@ amziai:
     marksistinėje teorijoje ir Lietuvos istorijos skirstymo atveju norėjo
     būti logiškai konsekventiški.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33318
+  citata_originali: |
+    Tada
+    Vinco Mickevičiaus-Kapsuko vadovaujama Laikinoji revoliucinė
+    darbininkų ir valstiečių Vyriausybė 1918 m. gruodžio 16 d. mani­
+    festu paskelbė įvedanti Tarybų valdžią Lietuvoje.
+    Lietuvos Tarybų respublikos suverenumas, «plačiųjų lietuvių
+    tautos masių siekimas »^16 , sukliudytas užsienio intervencijų ir bur­
+    žuazinės-fašistinės diktatūros, vėl buvęs įvykdytas 1940 m.
+    Šitaip periodizuodami Lietuvos praeitį, tarybiniai istorikai savo
+    marksistinėje teorijoje ir Lietuvos istorijos skirstymo atveju norėjo
+    būti logiškai konsekventiški.
+  citata_rodoma: "Lietuvos Tarybų respublikos suverenumas, «plačiųjų lietuvių\ntautos masių siekimas »^16 , sukliudytas užsienio intervencijų ir bur­\nžuazinės-fašistinės diktatūros, vėl buvęs įvykdytas 1940 m.\nŠitaip periodizuodami Lietuvos praeitį, tarybiniai istorikai savo\nmarksistinėje teorijoje ir Lietuvos istorijos skirstymo atveju norėjo\nbūti logiškai konsekventiški."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31291

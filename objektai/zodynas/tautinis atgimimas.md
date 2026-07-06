@@ -15,6 +15,18 @@ tags: []
 amziai:
   - 'XIX'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # tautinis atgimimas
 
@@ -51,12 +63,21 @@ Terminas vartojamas ir kaip istoriografinis laikotarpio vardas, ir kaip judėjim
 ## Teiginiai
 
 <a id="claim-t-05466"></a>
-- t-001
+- t-004
   global_id: t-05466
-  teiginys: 'Daukanto istorijos darbai šiame šaltinyje vertinami kaip reikšmingi tautinio atgimimo laikotarpiu.'
+  teiginys: "Daukanto istorijos darbai šiame šaltinyje vertinami kaip reikšmingi tautinio atgimimo laikotarpiu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "150534-151078; hash=0af1618ccd8d3ffd4bf4a930953e6f71a0b4a85c55eba7fe3f1df0d09012cfc7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "tautinis atgimimas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"tautinis atgimimas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-05595
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -72,8 +93,29 @@ Terminas vartojamas ir kaip istoriografinis laikotarpio vardas, ir kaip judėjim
     savo Žemaičių Vyskupystę buvo giriamas —susilaukė iš lenkų per­
     dėtai karčios kritikos^59.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-05595
+  citata_originali: |
+    Jokia Daukanto istorijos rašymo ir jo metodo kritika tačiau
+    nepajėgs sumažinti jo didelės reikšmės tautinio atgimimo laikotar­
+    pyje. Daukantas lietuvių tautinės sąmonės išsivystymui yra davęs
+    gana reikšmingų paskatų^58. Jis pirmasis gana aiškiai rodė kelią,
+    kad lietuviams reikia atsiskirti nuo «koroniarų » (lenkų). Ne tik
+    dėl savo žemaitiškai kieto antilenkiško nusistatymo, bet ir dėl savo
+    istorijos rašymo metodo Daukantas—tuo metu, kai Valančius už
+    savo Žemaičių Vyskupystę buvo giriamas —susilaukė iš lenkų per­
+    dėtai karčios kritikos^59.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05466

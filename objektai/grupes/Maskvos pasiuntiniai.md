@@ -14,6 +14,18 @@ tags:
   - sutartis
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Maskvos pasiuntiniai
 
@@ -26,9 +38,23 @@ Pirmiausia Maskvoje (1494 m.) balandžio 18 d. amžinos taikos sutartį su caru 
 <a id="claim-t-86810"></a>
 - t-001
   global_id: t-86810
-  teiginys: '1494 m. Aleksandras Vilniuje prisiekė iš Maskvos atvykusių pasiuntinių akivaizdoje.'
+  teiginys: "1494 m. Aleksandras Vilniuje prisiekė iš Maskvos atvykusių pasiuntinių akivaizdoje."
+  semantiniai_rysiai: "Maskvos pasiuntiniai keliavo į Vilnius (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1494 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko datą, todėl teiginį verta patikslinti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "466281-466839; hash=4497fce78fef58a4b5273f04207fc5ba40281ddacf71c70d37bc64876b9454bd; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Maskvos pasiuntiniai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Maskvos pasiuntiniai atvyko į Vilnių, kur Aleksandras prisiekė jų akivaizdoje."
   pagrindžia:
-    - c-001
+    - c-82789
 - susijęs iš [[objektai/ivykiai/Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje.md#claim-t-186645|Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje]]: Po Aleksandro ir Elenos vestuvių Vilniuje Maskvos pasiuntiniai buvo pagerbti, gausiai apdovanoti ir išleisti atgal.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-82290|Elena (vyskupas, XV–XVI a.)]]: Vilniaus vyskupas Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė didįjį kunigaikštį Aleksandrą su Elena.
 - susijęs iš [[objektai/asmenys/Foma.md#claim-t-87671|Foma]]: Graikų tikėjimo dvasininkas Foma kartu su Vilniaus vyskupu Vaitiekumi Taboru sutuokė didįjį kunigaikštį su Elena.
@@ -56,11 +82,34 @@ Pirmiausia Maskvoje (1494 m.) balandžio 18 d. amžinos taikos sutartį su caru 
     lovas Goštautas, Žemaičių seniūnas, Aleksandras prisie­
     kė Vilniuje, iš Maskvos atvykusių pasiuntinių akivaizdoje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-82789
+  citata_originali: |
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    su Taurijos chanu Mendli Girėjumi prieš Aleksandrą, nu­
+    kreipė visą jo dėmesį į save. Tarp jų kilo audringi vaidai
+    ir, norėdamas juos sėkmingai užgesinti, Aleksandras nu­
+    tarė to siekti, vesdamas Ivano Vasiljevičiaus dukterį di­
+    džiąją kunigaikštytę Eleną. Pirmiausia Maskvoje (1494 m.)
+    balandžio 18 d. amžinos taikos sutartį su caru pasirašė Lie­
+    tuvos pasiuntiniai: Petras Białas, Trakų vaivada ir Stanis­
+    lovas Goštautas, Žemaičių seniūnas, Aleksandras prisie­
+    kė Vilniuje, iš Maskvos atvykusių pasiuntinių akivaizdoje.
+  citata_rodoma: "Pirmiausia Maskvoje (1494 m.) \nbalandžio 18 d. amžinos taikos sutartį su caru pasirašė Lie­\ntuvos pasiuntiniai: Petras Białas, Trakų vaivada ir Stanis­\nlovas Goštautas, Žemaičių seniūnas, Aleksandras prisie­\nkė Vilniuje, iš Maskvos atvykusių pasiuntinių akivaizdoje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86810
 
 ## Ryšiai
 - Maskvos pasiuntiniai keliavo į [[objektai/vietos/Krokuva]], [[objektai/vietos/Maskva]], [[objektai/vietos/Vilnius]]

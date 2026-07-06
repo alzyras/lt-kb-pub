@@ -19,6 +19,18 @@ tags:
 amziai:
   - 'XIII'
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Flandrijos sukilimas ir kautynės su prancūzais (1302–1303 m.)
 
@@ -47,17 +59,40 @@ Nenurodyta
 <a id="claim-t-62780"></a>
 - t-001
   global_id: t-62780
-  teiginys: 'Liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir mūšyje nukovė tris tūkstančius prancūzų kilmingųjų.'
+  teiginys: "Liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir mūšyje nukovė tris tūkstančius prancūzų kilmingųjų."
+  teiginio_tipas: "saltinio_teiginys"
+  semantiniai_rysiai: "Flandrai kariavo prieš Prancūzai (0.82); Flandrai puolė Prancūzai (0.74)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "734039-734592; hash=b765cd7c005df636b8bd338bfe30ff7e9ac1fe785203e84905c1cbe224e61f27; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Prancūzai: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Flandrai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Prancūzai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai mini prancūzų ir flandrų kautynes."
   pagrindžia:
-    - c-001
+    - c-63576
 
 <a id="claim-t-62781"></a>
 - t-002
   global_id: t-62781
-  teiginys: 'Per Flandrijos sukilimo laikotarpio prancūzų ir flandrų kautynes abi šalys neteko daug užmuštųjų.'
+  teiginys: "Per Flandrijos sukilimo laikotarpio prancūzų ir flandrų kautynes abi šalys neteko daug užmuštųjų."
+  teiginio_tipas: "saltinio_teiginys"
+  semantiniai_rysiai: "Prancūzai kariavo prieš Flandrai (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "734460-734668; hash=b568929cf4a762d074d06c3710493862051a8b914cb04039413934d38c844db7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Flandrai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Prancūzai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Flandrai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Tekste tiesiogiai nurodomos prancūzų ir flandrų kautynės."
   pagrindžia:
-    - c-002
-
+    - c-63577
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -73,6 +108,7 @@ Nenurodyta
        Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys
     prarado labai daug užmuštaisiais (Ptol. p. 1223),
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -90,8 +126,45 @@ Nenurodyta
 
                  95. Apie Bonifaco, popiežiaus, suėmimą ir turtų iššvaistymą
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-63576
+  citata_originali: |
+    Tų pačių metų liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir,
+    suėję  į mūšį, nukovė tris tūkstančius prancūzų grafų, baronų bei kilmingųjų (Ptol. p.
+    1222).
+      1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių,
+    imperatoriumi ir jam atidavė  į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė
+    Klemensas V, popiežius (Ptol. p. 1222, 1227; Mart. p. 438, 442).
+       Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys
+    prarado labai daug užmuštaisiais (Ptol. p. 1223),
+  citata_rodoma: "Tų pačių metų liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir,\nsuėję  į mūšį, nukovė tris tūkstančius prancūzų grafų, baronų bei kilmingųjų (Ptol. p.\n1222).\n  1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių,\nimperatoriumi ir jam atidavė  į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė\nKlemensas V, popiežius (Ptol. p. 1222, 1227; Mart. p. 438, 442).\n   Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys\nprarado labai daug užmuštaisiais (Ptol. p. 1223),"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-62780
+
+- id: c-63577
+  citata_originali: |
+    Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys
+    prarado labai daug užmuštaisiais (Ptol. p. 1223),
+
+
+
+                 95. Apie Bonifaco, popiežiaus, suėmimą ir turtų iššvaistymą
+  citata_rodoma: "Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys\nprarado labai daug užmuštaisiais (Ptol. p. 1223),\n\n\n\n             95. Apie Bonifaco, popiežiaus, suėmimą ir turtų iššvaistymą"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-62781

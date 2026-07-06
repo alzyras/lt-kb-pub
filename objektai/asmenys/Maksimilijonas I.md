@@ -15,6 +15,18 @@ amziai:
   - 'XVI'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Maksimilijonas I
 
@@ -27,10 +39,34 @@ Suardžius Maskvos ir imperatoriaus Maksimilijono I sąjungą, nukreiptą prieš
 <a id="claim-t-40325"></a>
 - t-001
   global_id: t-40325
-  teiginys: 'Imperatorius Maksimilijonas I buvo sudaręs sąjungą su Maskva prieš Žygimantą Senąjį.'
+  teiginys: "Imperatorius Maksimilijonas I buvo sudaręs sąjungą su Maskva prieš Žygimantą Senąjį."
+  temporaliniai_duomenys: "įvykio data: 1515 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "348155-348446; hash=0d34d83e2bf8d5a47e472e13f639414c76a9a39950776bfe92eddac3dab310e9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maksimilijonas I: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=54"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maksimilijonas I\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-44450
 
+<a id="claim-t-193760"></a>
+- t-002
+  global_id: t-193760
+  teiginys: "J 4 as 4 ) ANGLIJA a Atlanto vang etna < N Margaretą |."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "218674-218845; hash=aa4f2bc87d7d4cf77bcee6893f1af774abe6d07f355dc28eb0d921096cf3bc00; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176418
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -45,8 +81,84 @@ Suardžius Maskvos ir imperatoriaus Maksimilijono I sąjungą, nukreiptą prieš
     jimo ryškiausia manifestacija buvo 1515 m.
     suvažiavimas Vienoje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'J 4 as 4 ) ANGLIJA a Atlanto vang etna < N Margaretą |.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Danija paskelbė Norvegiją
+    savo provincija.
+
+    J 4
+
+    as 4
+    )
+
+    ANGLIJA
+
+    a
+
+    Atlanto vang
+    etna <
+    N
+
+    Margaretą |. Buvo sudaryta Kalmaro unija, sujungusi visas tris Skandinavijos |.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+## Citatos
+
+- id: c-44450
+  citata_originali: |
+    Lenkija ir Lietuva
+    buvo vaizduojamos kaip Europos forpostas
+    prieš „schizmatikus“ maskvėnus. Suardžius
+    Maskvos ir imperatoriaus Maksimilijono I
+    sąjungą, nukreiptą prieš Žygimantą Senąjį,
+    buvo suartėta su Habsburgais. To suartė-
+    jimo ryškiausia manifestacija buvo 1515 m.
+    suvažiavimas Vienoje.
+  citata_rodoma: "Suardžius\nMaskvos ir imperatoriaus Maksimilijono I\nsąjungą, nukreiptą prieš Žygimantą Senąjį,\nbuvo suartėta su Habsburgais. To suartė-\njimo ryškiausia manifestacija buvo 1515 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40325
+
+- id: c-176418
+  citata_originali: |
+    Danija paskelbė Norvegiją
+    savo provincija.
+
+    J 4
+
+    as 4
+    )
+
+    ANGLIJA
+
+    a
+
+    Atlanto vang
+    etna <
+    N
+
+    Margaretą |. Buvo sudaryta Kalmaro unija, sujungusi visas tris Skandinavijos |.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193760

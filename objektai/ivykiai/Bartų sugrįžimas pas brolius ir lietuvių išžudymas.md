@@ -9,6 +9,18 @@ tags:
   - ivykis
   - pilis
   - valstybė
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Bartų sugrįžimas pas brolius ir lietuvių išžudymas
 
@@ -35,19 +47,38 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66482"></a>
-- t-001
+- t-002
   global_id: t-66482
-  teiginys: 'Numa ir Derska pelnė brolių palankumą, pasitiko lietuvių kariuomenę, išžudė lietuvius ir grobį išsigabeno į Pagudę.'
+  teiginys: "Numa ir Derska pelnė brolių palankumą, pasitiko lietuvių kariuomenę, išžudė lietuvius ir grobį išsigabeno į Pagudę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "546813-547975; hash=99fb3c2905502b4b04ad315adb006952073f612468383dfcf974d434af9764f0; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Derska: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bartų sugrįžimas pas brolius ir lietuvių išžudymas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Derska: mention_match, person, gap=3"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bartų sugrįžimas pas brolius ir lietuvių išžudymas\" parinktas kaip owner_note_path. Targetas \"Derska\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-66697
 
 <a id="claim-t-66483"></a>
-- t-002
+- t-001
   global_id: t-66483
-  teiginys: 'Kai broliai rengėsi pulti Gardino pilį, iš Pagudės pabėgę bartai su lietuviais surengė žygį prieš Lenkiją.'
+  teiginys: "Kai broliai rengėsi pulti Gardino pilį, iš Pagudės pabėgę bartai su lietuviais surengė žygį prieš Lenkiją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "546468-547303; hash=0b2b43ed9a49e82021eb7911a43b283a9686dbfb90aa25670447630a1751f04b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bartai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bartų sugrįžimas pas brolius ir lietuvių išžudymas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Bartai: mention_match, group, gap=54"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bartų sugrįžimas pas brolius ir lietuvių išžudymas\" parinktas kaip owner_note_path. Targetas \"Bartai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
-
+    - c-66698
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -71,6 +102,7 @@ Nenurodyta
     pelnė brolių palankumą, išžudė lietuvius, o visą grobį išsigabeno į Pagudę, kur ir gyvena,
     kaip gyvenę.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -93,8 +125,57 @@ Nenurodyta
     sužinoję, jie su baime pradėjo galvoti apie būsimas negandas, kurių per juos [bartus]
     galėsią ateityje sulaukti, o tolimesnė įvykių raida šitai ir patvirtino.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-66697
+  citata_originali: |
+    Tačiau du bartai, būtent: Numa ir Derska, nusekė, broliams
+    nusiaubus Gardino valsčių, paskui jų kariuomenę, ir juodviejų tarpininkaujami visi bartai
+    taip įsiteikė broliams, kad šie jiems sugrąžino paimtas  į nelaisvę jų žmonas ir vaikus;
+    šitai nepatiko nei broliui Ditrichui, Sembos fogtui, nei daugeliui kitų brolių, nes, apie tai
+    sužinoję, jie su baime pradėjo galvoti apie būsimas negandas, kurių per juos [bartus]
+    galėsią ateityje sulaukti, o tolimesnė įvykių raida šitai ir patvirtino. Minėtieji Numa ir
+      520 D. — contra castrum Gartham, Jer — burc zu Gartin. Apie Gardiną, jo vietą Lietuvos
+    valstybės gynyboje XIII—XIV a. žr. LE, t. 8, p. 972—985; Воронин H. H., Древнее
+    Гродно, с. 149—195; Пашуто В. Т., Гродно..., с. 191—192; Batūra R., Karinė..., р.
+    105—107; to paties, Lietuva..., p. 98, 140, 161, 164; Ткачоу М. А., Замю..., c. 23—25;
+    to paties, Абарончыя..., c. 52—55.
+
+    Derska, įsiteikę broliams, nuskubėjo pasitikti lietuvių kariuomenės ir ten, papasakoję
+    savo tėvynainiams [bartams], kas dėjosi Gardino pilyje bei jo valsčiuje, be to, kaip jie
+    pelnė brolių palankumą, išžudė lietuvius, o visą grobį išsigabeno į Pagudę, kur ir gyvena,
+    kaip gyvenę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66482
+
+- id: c-66698
+  citata_originali: |
+    225 (220). Apie bartų sugrįžimą ir daugybės lietuvių žūtį
+
+      Kai  broliai rengėsi  pulti anksčiau minėtąją Gardino  pilį, kurie ne kurie  bartai,
+    pastaruoju metu pabėgę iš Pagudės, subūrė drauge su lietuviais kariuomenę ir patraukė
+    prieš Lenkiją, iš kur, neskaitant kitų ten padarytų nusikaltimų, išsivarė didelį grobį:
+    daug žmonių bei gyvulių. Tačiau du bartai, būtent: Numa ir Derska, nusekė, broliams
+    nusiaubus Gardino valsčių, paskui jų kariuomenę, ir juodviejų tarpininkaujami visi bartai
+    taip įsiteikė broliams, kad šie jiems sugrąžino paimtas  į nelaisvę jų žmonas ir vaikus;
+    šitai nepatiko nei broliui Ditrichui, Sembos fogtui, nei daugeliui kitų brolių, nes, apie tai
+    sužinoję, jie su baime pradėjo galvoti apie būsimas negandas, kurių per juos [bartus]
+    galėsią ateityje sulaukti, o tolimesnė įvykių raida šitai ir patvirtino.
+  citata_rodoma: "Apie bartų sugrįžimą ir daugybės lietuvių žūtį\n\n  Kai  broliai rengėsi  pulti anksčiau minėtąją Gardino  pilį, kurie ne kurie  bartai,\npastaruoju metu pabėgę iš Pagudės, subūrė drauge su lietuviais kariuomenę ir patraukė\nprieš Lenkiją, iš kur, neskaitant kitų ten padarytų nusikaltimų, išsivarė didelį grobį:\ndaug žmonių bei gyvulių. Tačiau du bartai, būtent: Numa ir Derska, nusekė, broliams\nnusiaubus Gardino valsčių, paskui jų kariuomenę, ir juodviejų tarpininkaujami visi bartai\ntaip įsiteikė broliams, kad šie jiems sugrąžino paimtas  į nelaisvę jų žmonas ir vaikus;\nšitai nepatiko nei broliui Ditrichui, Sembos fogtui, nei daugeliui kitų brolių, nes, apie tai\nsužinoję, jie su baime pradėjo galvoti apie būsimas negandas, kurių per juos [bartus]\ngalėsią ateityje sulaukti, o tolimesnė įvykių raida šitai ir patvirtino."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66483

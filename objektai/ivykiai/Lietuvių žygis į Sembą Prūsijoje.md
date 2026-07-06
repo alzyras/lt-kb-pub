@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvių žygis į Sembą Prūsijoje
 
@@ -29,10 +41,22 @@ Nenurodyta
 <a id="claim-t-185814"></a>
 - t-001
   global_id: t-185814
-  teiginys: 'Į Sembą įsiveržusi aštuonių tūkstančių lietuvių raitija nusiaubė kaimus, išžudė jų gyventojus ir išsivarė grobį.'
+  teiginys: "Į Sembą įsiveržusi aštuonių tūkstančių lietuvių raitija nusiaubė kaimus, išžudė jų gyventojus ir išsivarė grobį."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "274831-275734; hash=287e8652ff8ba01385091faa18afb8e2dd116c40e5a2964f2165c8d0bc4b1817; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvių žygis į Sembą Prūsijoje: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvių žygis į Sembą Prūsijoje\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-169175
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -66,8 +90,46 @@ Nenurodyta
 
     tas pasalas.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-169175
+  citata_originali: |
+    Iš žvalgų gavęs žinią, kad, keršijant dievo rūs­
+    tybei, totoriai smarkiai niokoja Sandomiro, Seradzo ir
+    Krokuvos žemes, o Lešekas su žmona vargais negalais
+    paspruko Į Vengriją, jis galop patikėjo, kad iš tos pu­
+    sės niekas negresia. Paleidęs dalį karių, kad be reikalo
+    nebūtų laikomos tokios di-
+    L ietu via i
+    n io k o ja
+    džiulės jėgos, jis įsiveržė su
+    S e m b ą  P rū sijo je
+    aštuoniais
+    tūkstančiais ko-
+    vingiausios raitijos į Sembą,
+    kryžiuočių žemę; šie nedrįso kautis su priešu nei sto­
+    vyklose, nei atvirame lauke, tik kartkartėmis, išsiver­
+    žę iš pilių, užpuldavo tuos, kuriuos nuviliodavo nuo
+    kariuomenės besaikis grobio įgeidis ar reikalas susi­
+    rasti maisto. Kaimai buvo nusiaubti, jų gyventojai iš­
+    žudyti, grobis išvarytas netekus ne daugiau kaip aš­
+    tuoniasdešimt astuonių savųjų, kurie, pernelyg drąsiai
+    leidęsi bastytis, pateko į Henriko fon Dobino paspęs-
+    162
+
+    ## Puslapis 161
+
+    tas pasalas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185814

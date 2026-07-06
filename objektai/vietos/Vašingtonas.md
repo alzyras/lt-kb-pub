@@ -16,6 +16,18 @@ tags:
   - vieta
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vašingtonas
 
@@ -28,9 +40,22 @@ amziai:
 <a id="claim-t-21868"></a>
 - t-001
   global_id: t-21868
-  teiginys: '1999 m. balandį Vašingtone NATO vadovai pripažino Lietuvos pažangą ir patvirtino Narystės veiksmų planą.'
+  teiginys: "1999 m. balandį Vašingtone NATO vadovai pripažino Lietuvos pažangą ir patvirtino Narystės veiksmų planą."
+  temporaliniai_duomenys: "įvykio data: 1994 m.; įvykio data: 1999 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys sutrumpintas, išlaikant citatos pagrindžiamus faktus apie Vašingtono susitikimą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "531620-532093; hash=b678eb75c5cbd0eba8ab63d95400970ecfeda7bb45f85bfabb210d75bb6c62fd; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vašingtonas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=34"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vašingtonas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-24547
 - susijęs iš [[objektai/ivykiai/Lietuvos tapimas visateise NATO nare (2004 m. kovo 29 d.).md#claim-t-75197|Lietuvos tapimas visateise NATO nare (2004 m. kovo 29 d.)]]: 1999 m. balandį NATO šalių vadovų susitikime Vašingtone pripažinus Lietuvos pastangas ir pažangą siekiant narystės, patvirtintas Narystės veiksmų planas pasirengti stojimui į NATO.
 - susijęs iš [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.).md#claim-t-75221|Lietuvos įstojimas į ES ir NATO (2004 m.)]]: 1999 m. balandį NATO vadovų susitikime Vašingtone buvo patvirtintas Narystės veiksmų planas Lietuvos pasirengimui stoti į NATO.
 - susijęs iš Narystės veiksmų planas pasirengti stojimui į NATO: 1999 m. balandį NATO šalių vadovų susitikime Vašingtone pripažinus Lietuvos pastangas ir pažangą siekiant narystės, patvirtintas Narystės veiksmų planas pasirengti stojimui į NATO.
@@ -59,8 +84,29 @@ amziai:
     siekiant narystės, patvirtintas Narystės veiksmų planas pasirengti stoji-
     mui į NATO.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-24547
+  citata_originali: |
+    1994 m. sausį Lietuvos Res-
+    publikos prezidentas A. Brazauskas nusiuntė NATO generaliniam sekre-
+    toriui Manfredui Verneriui (Manfred Wörner) laišką, kad Lietuva pagei-
+    dauja tapti šios organizacijos nare. Tų pačių metų sausį Lietuva prisijungė
+    prie Partnerystės taikos labui iniciatyvos. 1999 m. balandį NATO šalių
+    vadovų susitikime Vašingtone pripažinus Lietuvos pastangas ir pažangą
+    siekiant narystės, patvirtintas Narystės veiksmų planas pasirengti stoji-
+    mui į NATO.
+  citata_rodoma: "vadovų susitikime Vašingtone pripažinus Lietuvos pastangas ir pažangą"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-21868

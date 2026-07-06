@@ -15,6 +15,18 @@ tags:
 amziai:
   - 'XI'
   - 'XII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Magus
 
@@ -27,10 +39,23 @@ Nors vietovardžių lokalizavimas yra sunkus, tačiau tekste ir žemė­ lapyje 
 <a id="claim-t-32331"></a>
 - t-001
   global_id: t-32331
-  teiginys: 'Al-Idrisi tekste ir žemėlapyje minima žemė „Magus“ laikoma lietuvių ir latvių plotais.'
+  teiginys: "Al-Idrisi tekste ir žemėlapyje minima žemė „Magus“ laikoma lietuvių ir latvių plotais."
+  semantiniai_rysiai: "Magus priklausė Lietuviai (0.78); Magus priklausė Latviai (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1100-1166"
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir tiksliai perteikia citatos informaciją apie Magus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "337589-338145; hash=1462dcc067325a647d0c45bc5c7028a5ea5b1556bc11a65d74762b5e64387646; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Latviai: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Magus: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Latviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Žemė „Magus“ apibūdinta kaip latvių plotų dalis."
   pagrindžia:
-    - c-001
-
+    - c-33938
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -47,11 +72,33 @@ Nors vietovardžių lokalizavimas yra sunkus, tačiau tekste ir žemė­ lapyje 
     lapyje minima žemė « Magus », t. y. ugnies garbintojų, yra laikoma
     lietuvių-latvių plotais.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33938
+  citata_originali: |
+    Neaiškumų teikia ir Ispanijos arabų geografas-keliautoj as Al'-
+    Idrisi (1100-66 m.), kuris, gyvendamas Sicilijos Rogero II dvare,
+    susirankiojęs žinių iš pirklių, keliautojų ir piligrimų, esąs savo vei­
+    kale (« Rogero knygoje »), skyriuje apie rytų Pabaltijį, jau pami­
+    nėjęs Kauną. Iš arabų kalbos verčiant tekstą, jis yra įvairiai tran­
+    skribuojamas : Qanya (Kaniya), Qaynu (Kaynu), ar net Kabnu.
+    Nors vietovardžių lokalizavimas yra sunkus, tačiau tekste ir žemė­
+    lapyje minima žemė « Magus », t. y. ugnies garbintojų, yra laikoma
+    lietuvių-latvių plotais.
+  citata_rodoma: "Nors vietovardžių lokalizavimas yra sunkus, tačiau tekste ir žemė­\nlapyje minima žemė « Magus », t. y. ugnies garbintojų, yra laikoma\nlietuvių-latvių plotais."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-32331
 
 ## Ryšiai
 - Magus priklausė [[objektai/grupes/Latviai]], [[objektai/grupes/Lietuviai]]

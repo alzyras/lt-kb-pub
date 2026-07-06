@@ -5,14 +5,10 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos: []
 date_start: ''
 date_end: ''
-description: 'Aleksandras minimas žygiuose prieš Ordiną, Podolės valdymo kontekste ir kaip mirštantis LDK valdovas po Glinskio pergalės.'
-socialDescription: 'Aleksandro vardas siejamas su 1365 m. žygiu į Ordino valdas, Podolės valdžia ir mirštančio LDK valdovo sprendimais.'
-seo_atnaujinta: '2026-07-02T21:03:54.605307+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'true'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -22,49 +18,146 @@ tags:
   - mūšis
 amziai: []
 periodo_grupes: []
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Aleksandras
 
 ## Santrauka
 
-Šioje žinių bazės ištraukoje Aleksandras minimas keliuose skirtinguose istoriniuose kontekstuose. 1365 m. Aleksandras kartu su Kęstučiu, Algirdu ir Patriku dalyvavo žygyje į Ordino valdas. Kituose epizoduose mirštantis LDK valdovas Aleksandras paskyrė kariuomenės vadus Stanislovą Kišką ir Mykolą Glinskį, o Podolė liko kunigaikščių Aleksandro ir Konstantino valdžioje.
+Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Aleksandras. Džiugi žinia dar spėjo pasiekti mirštantį valdovą Aleksandrą.
 
 ## Teiginiai
 
 <a id="claim-t-89626"></a>
 - t-001
   global_id: t-89626
-  teiginys: 'Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Stanislovą Kišką ir Mykolą Glinskį.'
+  teiginys: "Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Stanislovą Kišką ir Mykolą Glinskį."
+  semantiniai_rysiai: "Aleksandras paskyrė Stanislovas Kiška (0.88)"
+  temporaliniai_duomenys: "įvykio data: 1502 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir pagrįstas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "310230-310693; hash=beac4d01bf934372ea42872d3168158b9ca06754b8d44b7ef0b5243948eb8564; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "paskyre -> Stanislovas Kiška: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Aleksandras: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Stanislovas Kiška: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Aleksandras paskyrė kariuomenės vadus, tarp jų Stanislovą Kišką."
   pagrindžia:
-    - c-003
+    - c-85564
 
 <a id="claim-t-89627"></a>
-- t-002
+- t-004
   global_id: t-89627
-  teiginys: '1365 m. Kęstutis, Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas ir jas nuniokojo.'
+  teiginys: "1365 m. Kęstutis, Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas ir jas nuniokojo."
+  temporaliniai_duomenys: "įvykio data: 1365 m.; įvykio data: 1378 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Aleksandrą ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "230725-231112; hash=9f783b8ce729549ddc87d0300af99225e5e267c7d2c4120f9353d87747e5e37d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Patrikas (kunigaikštis, XIV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandras: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Patrikas (kunigaikštis, XIV a.): mention_match, person, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras\" parinktas kaip owner_note_path. Targetas \"Patrikas (kunigaikštis, XIV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-85561
 
 <a id="claim-t-89628"></a>
 - t-003
   global_id: t-89628
-  teiginys: 'Po Mykolo Glinskio pergalės žinia apie mūšį spėjo pasiekti mirštantį valdovą Aleksandrą.'
+  teiginys: "Po Mykolo Glinskio pergalės žinia apie mūšį spėjo pasiekti mirštantį valdovą Aleksandrą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "322024-322451; hash=9b92d3f8a974660196f06bd5a0a77e4388fc7a013580a0fbcde43a86293b3693; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kazanė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandras: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kazanė: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras\" parinktas kaip owner_note_path. Targetas \"Kazanė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-85563
 
 <a id="claim-t-89629"></a>
-- t-004
+- t-002
   global_id: t-89629
-  teiginys: 'Mirštantis valdovas Aleksandras dar spėjo gauti žinią apie totoriams fatališkai pasibaigusį mūšį.'
+  teiginys: "Mirštantis valdovas Aleksandras dar spėjo gauti žinią apie totoriams fatališkai pasibaigusį mūšį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "322024-322451; hash=9b92d3f8a974660196f06bd5a0a77e4388fc7a013580a0fbcde43a86293b3693; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Totoriai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandras: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Totoriai: mention_match, group, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras\" parinktas kaip owner_note_path. Targetas \"Totoriai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-85563
 
 <a id="claim-t-184656"></a>
 - t-005
   global_id: t-184656
-  teiginys: 'Po Jurgio ir Teodoro pasitraukimo visa Podolė liko kunigaikščių Aleksandro ir Konstantino valdžioje.'
+  teiginys: "Po Jurgio ir Teodoro pasitraukimo visa Podolė liko kunigaikščių Aleksandro ir Konstantino valdžioje."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1332 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko glaustą faktą apie Aleksandro valdžią Podolėje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "383574-384306; hash=04e355bdc2b97b1d07261a5ddd2b6274cf9bf4fbd0d8294ad05c278920df80ad; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Konstantinas (Karijotaitis): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandras: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Konstantinas (Karijotaitis): mention_match, person, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras\" parinktas kaip owner_note_path. Targetas \"Konstantinas (Karijotaitis)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-168017
+
+<a id="claim-t-190842"></a>
+- t-006
+  global_id: t-190842
+  teiginys: "Narbutas rašo, kad po susidūrimo su Pilypo sūnumi Aleksandru skitų kariuomenė neteko 30 000 karių ir prašė Aleksandro taikos."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "100781-101767; hash=f348adc3dda44637087f844bf20bd7e48c9838ca73bb4981e3cf7df9f20496a1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandras: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-173724
 - susijęs iš Taurija: Taurijos chanas Mendli Girėjus veikė prieš Aleksandrą ir nukreipė jo dėmesį į save.
 - susijęs iš [[objektai/asmenys/Aleksandras (Moldavijos valdovas).md#claim-t-35009|Aleksandras (Moldavijos valdovas)]]: Moldavijos valdovas Aleksandras buvo Vytauto remiamas prieš turkus.
 - susijęs iš [[objektai/asmenys/Aleksandras (Riazanės kunigaikštis).md#claim-t-87903|Aleksandras (Riazanės kunigaikštis)]]: Riazanės kunigaikštis Aleksandras laidavo karaliui už savo žentą Kaributą.
@@ -208,8 +301,9 @@ periodo_grupes: []
     paaukoti dievams (diis sacrificare voluerunt) pilies komtūrą, bet Kęstutis nepritaręs
     (SRP, 2, 596).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -234,6 +328,7 @@ periodo_grupes: []
     gužės mėnesį suderėtos taikos. Pasiuntinys
     taip pat gabeno Kazanės chano Mahometo-
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -257,6 +352,7 @@ periodo_grupes: []
     pavyko apginti Smolenską nuo maskvėnų,
     jam buvo patikėtos etmono pareigos).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -290,11 +386,170 @@ periodo_grupes: []
     ne pagal kalendorių, o pagal
     jo karus bei pergales.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
+- c-005
+  santrauka: 'Narbutas rašo, kad po susidūrimo su Pilypo sūnumi Aleksandru skitų kariuomenė neteko 30 000 karių ir prašė Aleksandro taikos.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Vėliau, 358 metais prieš Kristaus gi­
+    mimą, ėmė didėti politinė įtaka karaliaus Pilypo valdo­
+    mos Makedonijos, kurios galia Graikijos atžvilgiu iškilo
+    iki tokio lygio, jog Skitijos tautos, turėjusios glaudžius
+    ryšius su tenykščiais graikų kolonistais, pajuto nemažą
+    įtaką. Tačiau jie pakentė tai neilgai, nes istorijoje ran­
+    dame prisiminimų apie skitų genčių susidūrimą su Pi­
+    lypo sūnumi ir įpėdiniu Aleksandru; kaunantis Sapiriono
+    vadovaujama kariuomenė prarado 30 000 karių1, bet bu­
+    vo priversta prašyti Aleksandro taikos ir santarvės, o
+    vėliau, kai pagarsėjo šaunus šio monarcho žygis į Aziją,
+    skitai taip ir liko priklausomi nuo Makedonijos galybės
+    ir buvo tolydžio puldinėjami Uždonės tautų2.
+    42
+    Taip senovės skitų genčių santvarka ir politinė įtaka
+    IV amžiuje prieš Kristaus gimimą labai sumažėjo, o šią
+    milžinišką genčių sąjungą sudariusios vienos gentys pa­
+    sitraukė į Aziją, kitos paspruko į Europos gilumą, gau­
+    damos kitus pavadinimus, kitokius papročius ir naują kal­
+    bą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-006
+
+## Citatos
+
+- id: c-85561
+  citata_originali: |
+    1365 m. Kęstutis,
+    Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo
+    žygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį
+    belaisvį (SRP, 2, 349); 1378 m., kai Kęstutis sunaikino Ekersbergo pilį, jo kariai norėję
+    paaukoti dievams (diis sacrificare voluerunt) pilies komtūrą, bet Kęstutis nepritaręs
+    (SRP, 2, 596).
+  citata_rodoma: "1365 m. Kęstutis,\nAlgirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo\nžygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį\nbelaisvį (SRP, 2, 349); 1378 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89627
+
+- id: c-85563
+  citata_originali: |
+    rugpjūčio 8 d. Mūšio
+    nugalėtojas Mykolas
+    Glinskis triumfuo-
+    damas grįžo į Vilnių
+
+    YD rugpjūčio 12 d. Džiugi
+
+    žinia dar spėjo pasiekti
+
+    mirštantį valdovą Aleksandrą.
+    Mengli-Girėjus, gavęs žinią apie toto-
+    riams fatališkai pasibaigusį mūšį, tuojau pat
+    išsiuntė savo pasiuntinį į Vilnių, kuris turėjo
+    pranešti, kad chanas labai noriai laikysis ge-
+    gužės mėnesį suderėtos taikos. Pasiuntinys
+    taip pat gabeno Kazanės chano Mahometo-
+  citata_rodoma: "Mūšio\nnugalėtojas Mykolas\nGlinskis triumfuo-\ndamas grįžo į Vilnių\n\nYD rugpjūčio 12 d. Džiugi\n\nžinia dar spėjo pasiekti\n\nmirštantį valdovą Aleksandrą.\nMengli-Girėjus, gavęs žinią apie toto-\nriams fatališkai pasibaigusį mūšį, tuojau pat\nišsiuntė savo pasiuntinį į Vilnių, kuris turėjo\npranešti, kad chanas labai noriai laikysis ge-\ngužės mėnesį suderėtos taikos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89628
+    - t-89629
+
+- id: c-85564
+  citata_originali: |
+    Tą pačią
+    dieną ten buvo atvykęs jau mirtinai nega-
+    luojantis LDK valdovas Aleksandras. Jis
+    vyriausiais kariuomenės vadais paskyrė
+    LDK etmoną Stanislovą Kišką ir savo favo-
+    rita, dvaro maršalką, kunigaikštį Mykolą
+    Glinskį, o pats grįžo į Vilnių. Stanislovas
+    Kiška nebuvo labai gabus karvedys, bet jau
+    turėjo tam tikros patirties kovose su toto-
+    riais ir maskvėnais (po to, kai 1502 m. jam
+    pavyko apginti Smolenską nuo maskvėnų,
+    jam buvo patikėtos etmono pareigos).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89626
+
+- id: c-168017
+  citata_originali: |
+    Metraštininkai mini, jog tie patys
+    žmonės pastatė ant neprieinamo akmens kalno nuos­
+    tabią tvirtovę — Kamenecą, kur gynybinį pylimą ne
+    žmogaus ranka suvertė iš žemių, bet pati gamta sukū­
+    rė iškėlusi į dangų vientisą uolą. Vėliau Jurgį pakvie­
+    tė valdyti Valachijos bei Moldavijos, tačiau neilgai
+    trukus jis buvo Sučiavoje nunuodytas; Teodoras sugrį­
+    žo į Lietuvą valdyti Naugarduko tėvonijos, o visa
+    Podolė pasiliko kunigaikščių Aleksandro bei Konstan­
+    tino valdžioje. Po karo su totoriais prasidėjo karas su
+    222
+
+    ## Puslapis 221
+
+    Maskva: pirmaisiais Algirdo
+    1332 m e ta i
+    viešpatavimo metais laiką iš
+    K o d ė l p ra sid ė jo  ka-
+    tiesų galima būtų skaičiuoti
+    ras su  M a s k v a
+    ne pagal kalendorių, o pagal
+    jo karus bei pergales.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184656
+
+- id: c-173724
+  citata_originali: |
+    Vėliau, 358 metais prieš Kristaus gi­
+    mimą, ėmė didėti politinė įtaka karaliaus Pilypo valdo­
+    mos Makedonijos, kurios galia Graikijos atžvilgiu iškilo
+    iki tokio lygio, jog Skitijos tautos, turėjusios glaudžius
+    ryšius su tenykščiais graikų kolonistais, pajuto nemažą
+    įtaką. Tačiau jie pakentė tai neilgai, nes istorijoje ran­
+    dame prisiminimų apie skitų genčių susidūrimą su Pi­
+    lypo sūnumi ir įpėdiniu Aleksandru; kaunantis Sapiriono
+    vadovaujama kariuomenė prarado 30 000 karių1, bet bu­
+    vo priversta prašyti Aleksandro taikos ir santarvės, o
+    vėliau, kai pagarsėjo šaunus šio monarcho žygis į Aziją,
+    skitai taip ir liko priklausomi nuo Makedonijos galybės
+    ir buvo tolydžio puldinėjami Uždonės tautų2.
+    42
+    Taip senovės skitų genčių santvarka ir politinė įtaka
+    IV amžiuje prieš Kristaus gimimą labai sumažėjo, o šią
+    milžinišką genčių sąjungą sudariusios vienos gentys pa­
+    sitraukė į Aziją, kitos paspruko į Europos gilumą, gau­
+    damos kitus pavadinimus, kitokius papročius ir naują kal­
+    bą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190842
 
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]

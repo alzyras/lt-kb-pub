@@ -16,6 +16,18 @@ amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Mykolas Kiuchmeisteris fon Štenbergas
 
@@ -26,19 +38,43 @@ periodo_grupes:
 ## Teiginiai
 
 <a id="claim-t-101696"></a>
-- t-001
+- t-002
   global_id: t-101696
-  teiginys: '1413 m. sausio 28 d. Salyne prie Kauno maršalas Mykolas Kiuchmeisteris fon Štenbergas vadovavo Vokiečių ordino pasiuntinybei derybose.'
+  teiginys: "1413 m. sausio 28 d. Salyne prie Kauno maršalas Mykolas Kiuchmeisteris fon Štenbergas vadovavo Vokiečių ordino pasiuntinybei derybose."
+  temporaliniai_duomenys: "įvykio data: 1413 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys yra kontekstinis ir neenciklopedinis, bet citata pagrindžia konkrečią pareigą ir įvykį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "89607-89964; hash=e3efad5a98a0c847d6d314fa294fbaa6f05881e560a1b10fcf12306e10733fd3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mykolas Kiuchmeisteris fon Štenbergas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=56"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Kiuchmeisteris fon Štenbergas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-21905
 
 <a id="claim-t-101697"></a>
-- t-002
+- t-001
   global_id: t-101697
-  teiginys: '1413 m. sausio 28 d. Salyne prie Kauno Mykolas Kiuchmeisteris fon Štenbergas vadovavo Vokiečių ordino pasiuntinybei.'
+  teiginys: "1413 m. sausio 28 d. Salyne prie Kauno Mykolas Kiuchmeisteris fon Štenbergas vadovavo Vokiečių ordino pasiuntinybei."
+  temporaliniai_duomenys: "įvykio data: 1413 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "89607-89964; hash=e3efad5a98a0c847d6d314fa294fbaa6f05881e560a1b10fcf12306e10733fd3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mykolas Kiuchmeisteris fon Štenbergas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=56"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Kiuchmeisteris fon Štenbergas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-21905
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -51,9 +87,29 @@ periodo_grupes:
     lyne (prie Kauno) su Vokiečių ordino pasiuntinybės vadovu maršalu My-
     kolu Kiuchmeisteriu fon Štenbergu įvyko įdomus pašnekesys.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-21905
+  citata_originali: |
+    Tačiau Vytauto bažnytinė politika padėjo pagrindus tolesniam Lietuvos
+    krikščionėjimui.
+    Pagrindinis konfliktas su Vokiečių ordinu vyko dėl Žemaitijos. Šio
+    konflikto esmę paaiškina įdomi detalė: 1413 m. sausio 28 d. derybose Sa-
+    lyne (prie Kauno) su Vokiečių ordino pasiuntinybės vadovu maršalu My-
+    kolu Kiuchmeisteriu fon Štenbergu įvyko įdomus pašnekesys.
+  citata_rodoma: "Šio \nkonflikto esmę paaiškina įdomi detalė: 1413 m. sausio 28 d. derybose Sa-\nlyne (prie Kauno) su Vokiečių ordino pasiuntinybės vadovu maršalu My-\nkolu Kiuchmeisteriu fon Štenbergu įvyko įdomus pašnekesys."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-101697
+    - t-101696

@@ -15,11 +15,23 @@ date_start: '1254'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - vieta
 amziai:
   - 'XIII'
   - 'XXI'
-tags:
-  - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Betygala
 
@@ -28,49 +40,125 @@ tags:
 Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš Vytauto funduotų Žemaitijos bažnyčių vietų.
 
 ## Teiginiai
+
 <a id="claim-t-179756"></a>
-- t-001
+- t-005
   global_id: t-179756
-  teiginys: 'Vytautas Žemaitijoje pastatė bažnyčią Betygaloje.'
+  teiginys: "Vytautas Žemaitijoje pastatė bažnyčią Betygaloje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "274541-274963; hash=6c3d9f311db401f0fcf07cc28efbfc8bb9554258fc1de1723dee69434e7797a3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dubysa: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Betygala: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Dubysa: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Betygala\" parinktas kaip owner_note_path. Targetas \"Dubysa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-163418
 
 <a id="claim-t-179758"></a>
-- t-002
+- t-004
   global_id: t-179758
-  teiginys: 'Aukokalnis buvo ties dabartine Betygala, o nuo jo pradėtas apaštalavimo darbas Žemaitijoje.'
+  teiginys: "Aukokalnis buvo ties dabartine Betygala, o nuo jo pradėtas apaštalavimo darbas Žemaitijoje."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Kaunas (0.84); Jogaila (kunigaikštis, XIV–XV a.) keliavo į Kaunas (0.84)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "274626-275029; hash=d0b02269bff649abbd1e7c96d66f223660e274aa723c85a257b251cf58b7037a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Kaunas: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Sakinyje „jie“ nurodo Vytautą ir Jogailą, kurie keliavo į Kauną."
   pagrindžia:
-    - c-003
+    - c-163416
 
 <a id="claim-t-179759"></a>
-- t-003
+- t-008
   global_id: t-179759
-  teiginys: '1413 m. rudenį Vytautas ir Jogaila keliavo Dubysa iki Aukokalnio, buvusio ties dabartine Betygala.'
+  teiginys: "1413 m. rudenį Vytautas ir Jogaila keliavo Dubysa iki Aukokalnio, buvusio ties dabartine Betygala."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Kaunas (0.84); Jogaila (kunigaikštis, XIV–XV a.) keliavo į Kaunas (0.84); Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Dubysa (0.76); Jogaila (kunigaikštis, XIV–XV a.) keliavo į Dubysa (0.76)"
+  temporaliniai_duomenys: "kelionės data: 1413 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Dubysa“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo datą, veikėjus, maršrutą ir vietą, kaip pateikta citatoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "274626-275029; hash=d0b02269bff649abbd1e7c96d66f223660e274aa723c85a257b251cf58b7037a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Kaunas: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje „jie“ apima Vytautą, todėl remiamas Vytauto keliavimas į Kauną."
   pagrindžia:
-    - c-003
+    - c-163416
 
 <a id="claim-t-179760"></a>
-- t-004
+- t-009
   global_id: t-179760
-  teiginys: 'Žemaitijoje Vytautas pastatė bažnyčias Airiogaloje, Betygaloje, Kelmėje ir kitose vietose.'
+  teiginys: "Žemaitijoje Vytautas pastatė bažnyčias Airiogaloje, Betygaloje, Kelmėje ir kitose vietose."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) pastatė Kelmė (0.68)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "310952-311543; hash=88182443cc961625d2a2966c1dec8c0e27657a440451226d2d2eacc0ae55846d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Kelmė: 0.68"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kelmė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kelmė yra tame pačiame Vytauto pastatytų bažnyčių vietų sąraše."
   pagrindžia:
-    - c-002
+    - c-163415
 
 <a id="claim-t-179762"></a>
-- t-005
+- t-006
   global_id: t-179762
-  teiginys: '1945 m. vasario 15 d. NKVD Betygalos stribai prie Šilainių miško pateko į Vlado Pabarčiaus partizanų būrio pasalą.'
+  teiginys: "1945 m. vasario 15 d. NKVD Betygalos stribai prie Šilainių miško pateko į Vlado Pabarčiaus partizanų būrio pasalą."
+  semantiniai_rysiai: "NKVD keliavo į Kėdainiai (0.58)"
+  temporaliniai_duomenys: "įvykio data: 1945 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas netikslus miško pavadinimas ir palikta citatos paremta formuluotė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "975875-976130; hash=48d24f016e78e3927a5535ad8ca68f1ada9c356d9f67d741c30bc53020e8c78b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Kėdainiai: 0.58"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "NKVD: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kėdainiai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas sieja NKVD Betygalos stribus su užduotimi Kėdainių apskrityje, bet judėjimo kryptis yra grįžimas iš ten."
+  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
+    - c-43341
 
 <a id="claim-t-188676"></a>
 - t-006
   global_id: t-188676
-  teiginys: 'Narbutas Betygalos pavadinimą kildino iš keliautojų dainos žodžių „Bet ir galas, bet yra galas“, esą išreiškusių kelionės pabaigos džiaugsmą.'
+  teiginys: "Narbutas Betygalos pavadinimą kildino iš keliautojų dainos žodžių „Bet ir galas, bet yra galas“, esą išreiškusių kelionės pabaigos džiaugsmą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "375332-375860; hash=2714bfadeb9dc43a2037515ce049dd77dc0208b549cbc3e913a102e2a605f995; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Kėdainiai: 0.58"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "NKVD: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kėdainiai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas sieja NKVD Betygalos stribus su užduotimi Kėdainių apskrityje, bet judėjimo kryptis yra grįžimas iš ten."
+  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-005
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171565
 - susijęs iš Aukokalnis: 1413 m. rudenį Vytautas ir Jogaila keliavo Dubysa iki Aukokalnio, buvusio ties dabartine Betygala.
 - susijęs iš Dubysa: Žemaitijos apaštalavimo kelionė vyko Nemunu iki Dubysos upės ir ja iki Aukokalnio ties dabartine Betygala.
 - susijęs iš Dubysa: 1413 m. Vytautas ir Jogaila Nemunu keliavo iki Dubysos upės, o ja pasiekė Aukokalnį ties dabartine Betygala.
@@ -88,7 +176,18 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
 - susijęs iš Nemunas: Nemunas prasideda Rusios valdose, prie Klaipėdos pilies ir miesto įteka į jūrą ir atskiria Prūsiją nuo Rusios, Lietuvos bei Kuršo.
 - susijęs iš Nemunas: Narbutas minėjo padavimą, kad keliautojų vadas Nemunas buvęs garbinamas kaip dievas ir turėjęs šventyklą Nemunaityje prie Nemuno.
 - susijęs iš Trakų apskritis: Narbutas perteikia padavimą, kad keliautojų vadas Nemunas buvo garbinamas kaip dievas ir turėjo šventyklą Nemunaityje, Trakų apskrityje.
+- susijęs iš [[objektai/zodynas/Galintuvojt ir galinduoti.md#claim-t-192208|Galintuvojt ir galinduoti]]: Narbutas žodį „galinduoti“ aiškina kaip reiškiantį elgtis kaip galindas.
+- susijęs iš [[objektai/zodynas/Galintuvojt ir galinduoti.md#claim-t-192209|Galintuvojt ir galinduoti]]: Narbutas siūlo galindų pavadinimo kilmę grįsti žodžiu „galinduoti“, reiškiančiu elgtis kaip galindas.
+- susijęs iš [[objektai/zodynas/Galintuvojt ir galinduoti.md#claim-t-192210|Galintuvojt ir galinduoti]]: Narbutas mini „galinduoti“ kaip žodį, kuriuo aiškina galindų pavadinimo kilmę.
+- susijęs iš [[objektai/zodynas/Galintuvojt ir galinduoti.md#claim-t-192211|Galintuvojt ir galinduoti]]: Narbutas žodžiui „galinduoti“ teikia pirmenybę prieš Galintuvojt kildinimą iš senovės prūsų žodžio.
+- susijęs iš [[objektai/zodynas/Galintuvojt ir galinduoti.md#claim-t-192212|Galintuvojt ir galinduoti]]: Narbutas nurodo, kad kiti autoriai Galintuvojt kildino iš senovės prūsų žodžio, reiškusio triukšmauti arba niekšėti.
+- susijęs iš [[objektai/zodynas/Galintuvojt ir galinduoti.md#claim-t-192208|Galintuvojt ir galinduoti]]: Narbutas žodį „galinduoti“ aiškina kaip reiškiantį elgtis kaip galindas.
+- susijęs iš [[objektai/zodynas/Galintuvojt ir galinduoti.md#claim-t-192209|Galintuvojt ir galinduoti]]: Narbutas siūlo galindų pavadinimo kilmę grįsti žodžiu „galinduoti“, reiškiančiu elgtis kaip galindas.
+- susijęs iš [[objektai/zodynas/Galintuvojt ir galinduoti.md#claim-t-192210|Galintuvojt ir galinduoti]]: Narbutas mini „galinduoti“ kaip žodį, kuriuo aiškina galindų pavadinimo kilmę.
+- susijęs iš [[objektai/zodynas/Galintuvojt ir galinduoti.md#claim-t-192211|Galintuvojt ir galinduoti]]: Narbutas žodžiui „galinduoti“ teikia pirmenybę prieš Galintuvojt kildinimą iš senovės prūsų žodžio.
+- susijęs iš [[objektai/zodynas/Galintuvojt ir galinduoti.md#claim-t-192212|Galintuvojt ir galinduoti]]: Narbutas nurodo, kad kiti autoriai Galintuvojt kildino iš senovės prūsų žodžio, reiškusio triukšmauti arba niekšėti.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: '1945 m. vasario 15 d. NKVD Betygalos stribai prie Šilainių miško pateko į Vlado Pabarčiaus partizanų būrio pasalą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -99,11 +198,13 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
     aps., prie Šilainių miško pateko į Vlado Pabarčiaus 40-ties partizanų būrio
     pasalą. Žuvo 6 stribai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-002
   santrauka: 'Žemaitijoje Vytautas pastatė bažnyčias Airiogaloje, Betygaloje, Kelmėje ir kitose vietose.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -120,11 +221,13 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
     statytų bažnyčių tinklas apėmęs ne tik Lietuvą, bet ir kraštus,
     esančius toliau nuo Lietuvos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -136,12 +239,14 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
     ja iki Aukokalnio, buvusio ties dabartine Betygala. Nuo šios
     vietos ir buvo pradėtas apaštalavimo darbas Žemaitijoje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-003
+
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -153,11 +258,13 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
     gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir
     ja iki Aukokalnio, buvusio ties dabartine Betygala.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-005
   santrauka: 'Narbutas Betygalos pavadinimą kildino iš keliautojų dainos žodžių „Bet ir galas, bet yra galas“, esą išreiškusių kelionės pabaigos džiaugsmą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -172,8 +279,101 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
     nės pabaiga: Bet ir galas, bet yra galas; iš to kilo Betygalos
     (Betygola) pavadinimas. Šių keliautojų vadas vadinosi Nemu­
     nas (Nemon).
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
+## Citatos
+
+- id: c-43341
+  citata_originali: |
+    X ŠILAINIŲ PASALA
+    1945 m. vasario 15 d. Raseinių aps. Betygalos vls. Graužų-Lenčių
+    (Zembiškio) miške NKVD Betygalos stribai, grįždami iš užduoties Kėdainių
+    aps., prie Šilainių miško pateko į Vlado Pabarčiaus 40-ties partizanų būrio
+    pasalą. Žuvo 6 stribai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179762
+
+- id: c-163415
+  citata_originali: |
+    Trakuose,
+    Darsūniškyje, Dauguose, Punioje, Perlojoje, Švenčionyse, Du­
+    bingiuose, Utenoje, Eišiškiuose, Gardine, Liet. Brastoje (pirmos
+    žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko
+    Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne,
+    Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­
+    niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje,
+    Kražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Sen­
+    varniuose, Veliuonoje. Iš čia matome, kaip platus buvo Vytauto
+    statytų bažnyčių tinklas apėmęs ne tik Lietuvą, bet ir kraštus,
+    esančius toliau nuo Lietuvos.
+  citata_rodoma: "Brastoje (pirmos\nžmonos Marijos Praksėdos atminimui), Volkoviske, Visoko\nLitevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne,\nPinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­\nniuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje,\nKražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Sen­\nvarniuose, Veliuonoje. Iš čia matome, kaip platus buvo Vytauto\nstatytų bažnyčių tinklas apėmęs ne tik Lietuvą, bet ir kraštus,\nesančius toliau nuo Lietuvos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179760
+
+- id: c-163416
+  citata_originali: |
+    Tačiau Vytautas dar dvejus metus už­
+    truko su kitais reikalais (Horodlės unija ir Makro lankymasis)
+    ir tiktai 1413 metų rudenį kartu su Jogaila atvyko į Žemaitiją.
+    Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­
+    gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir
+    ja iki Aukokalnio, buvusio ties dabartine Betygala. Nuo šios
+    vietos ir buvo pradėtas apaštalavimo darbas Žemaitijoje.
+  citata_rodoma: "Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­\ngijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir\nja iki Aukokalnio, buvusio ties dabartine Betygala. Nuo šios\nvietos ir buvo pradėtas apaštalavimo darbas Žemaitijoje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179758
+    - t-179759
+
+- id: c-163418
+  citata_originali: |
+    Taigi Žalgirio mūšis ir Torno taika galutinai išsprendė Že­
+    maičių krikšto klausimą. Tačiau Vytautas dar dvejus metus už­
+    truko su kitais reikalais (Horodlės unija ir Makro lankymasis)
+    ir tiktai 1413 metų rudenį kartu su Jogaila atvyko į Žemaitiją.
+    Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­
+    gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir
+    ja iki Aukokalnio, buvusio ties dabartine Betygala.
+  citata_rodoma: "Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­\ngijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir\nja iki Aukokalnio, buvusio ties dabartine Betygala."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179756
+
+- id: c-171565
+  citata_originali: |
+    Plaukdami tolyn,
+    jie pateko į neaprėpiamus miškus ir, susidūrę su daugybe kliū­
+    čių, trukdančių toliau keliauti, kalbėjo: E-ira galas, nėra ga­
+    lo; toji vieta buvo praminta Eiriogala (Ariogala), o miestelis
+    iki šiol tebesivadina tokiu vardu. Siek tiek pasistūmėję upe
+    aukštyn, jie įsitikino, kad galima pasiekti užsibrėžtąjį tikslą,
+    ir uždainavo dainą, išreiškiančią džiaugsmą, kad jau kelio­
+    nės pabaiga: Bet ir galas, bet yra galas; iš to kilo Betygalos
+    (Betygola) pavadinimas. Šių keliautojų vadas vadinosi Nemu­
+    nas (Nemon).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188676

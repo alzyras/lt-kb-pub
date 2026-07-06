@@ -13,6 +13,18 @@ tags:
   - saltinis
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # A. Prochaska, Nieznany akt homogialny Witolda
 
@@ -25,10 +37,14 @@ Prochaska, Nieznany akt homogialny Witolda, Kwartalnik histor.
 <a id="claim-t-36032"></a>
 - t-001
   global_id: t-36032
-  teiginys: 'A. Prochaskos darbas „Nieznany akt homogialny Witolda“ nurodytas „Kwartalnik historyczny“ IX tome, 234 puslapyje.'
+  teiginys: "A. Prochaskos darbas „Nieznany akt homogialny Witolda“ nurodytas „Kwartalnik historyczny“ IX tome, 234 puslapyje."
+  temporaliniai_duomenys: "įvykio data: 1386 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "430900-431123; hash=86544386342aec28f073e00d30e221ee77fbbb7a9a5c34b3c33053cb22812908; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
-
+    - c-38401
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -39,8 +55,25 @@ Prochaska, Nieznany akt homogialny Witolda, Kwartalnik histor.
     Witolda, Kwartalnik histor. IX t., 234 p.
     (^2) ) C. ep„ V., 234 nr., (^3) ) Žerb.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-38401
+  citata_originali: |
+    (^1) ) Vytautas, matyt, čia kalba apie savo vasalystės dokumentą, iš­
+    duotą 1386 m. gegužės 10 d. Žiūr. A. Prochaska, Nieznany akt homogialny
+    Witolda, Kwartalnik histor. IX t., 234 p.
+    (^2) ) C. ep„ V., 234 nr., (^3) ) Žerb.
+  citata_rodoma: "Žiūr. A. Prochaska, Nieznany akt homogialny\nWitolda, Kwartalnik histor. IX t., 234 p."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36032

@@ -9,6 +9,18 @@ tags:
   - asmuo
   - pilis
   - valstybė
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Numa
 
@@ -21,16 +33,37 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
 <a id="claim-t-60185"></a>
 - t-001
   global_id: t-60185
-  teiginys: 'Numa ir Derska tarpininkavo bartams, kad broliai grąžintų į nelaisvę paimtas jų žmonas ir vaikus.'
+  teiginys: "Numa ir Derska tarpininkavo bartams, kad broliai grąžintų į nelaisvę paimtas jų žmonas ir vaikus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "546529-547378; hash=bd0e1b3b9698453d78d94aeec8c7b11d8790cd4620d93568a078e87fcd3d6e7a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bartai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Numa: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Bartai: mention_match, group, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Numa\" parinktas kaip owner_note_path. Targetas \"Bartai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-60817
 
 <a id="claim-t-60186"></a>
 - t-002
   global_id: t-60186
-  teiginys: 'Numa ir Derska pelnė brolių palankumą, išžudė lietuvius ir išsigabeno grobį į Pagudę.'
+  teiginys: "Numa ir Derska pelnė brolių palankumą, išžudė lietuvius ir išsigabeno grobį į Pagudę."
+  semantiniai_rysiai: "Numa puolė Lietuviai (0.95); Derska puolė Lietuviai (0.95); Numa gyveno Pagudė (0.86); Derska gyveno Pagudė (0.86)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "547304-547975; hash=ea9fbd7484355820826b95b7a4b8711ee670696ac0dfba5aba864f0605bf1934; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Lietuviai: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Numa: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Claimas tiesiogiai sako, kad Numa kartu su Derska išžudė lietuvius."
   pagrindžia:
-    - c-002
+    - c-60818
 - susijęs iš [[objektai/asmenys/Derska.md#claim-t-60100|Derska]]: Derska su Numa tarpininkavo bartams, kad broliai grąžintų į nelaisvę paimtas jų žmonas ir vaikus.
 - susijęs iš [[objektai/asmenys/Derska.md#claim-t-60101|Derska]]: Derska su Numa pasitiko lietuvių kariuomenę, išžudė lietuvius ir visą grobį išsigabeno į Pagudę.
 - susijęs iš [[objektai/grupes/Bartai.md#claim-t-184473|Bartai]]: Bartai Numa ir Derska, pabėgę iš Prūsijos į Lietuvą, išdavė lietuvių būrius, tikėdamiesi kryžiuočių atleidimo.
@@ -56,6 +89,7 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
     galėsią ateityje sulaukti, o tolimesnė įvykių raida šitai ir patvirtino. Minėtieji Numa ir
       520 D. — contra castrum Gartham, Jer — burc zu Gartin.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -78,11 +112,54 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
     pelnė brolių palankumą, išžudė lietuvius, o visą grobį išsigabeno į Pagudę, kur ir gyvena,
     kaip gyvenę.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-60817
+  citata_originali: |
+    Kai  broliai rengėsi  pulti anksčiau minėtąją Gardino  pilį, kurie ne kurie  bartai,
+    pastaruoju metu pabėgę iš Pagudės, subūrė drauge su lietuviais kariuomenę ir patraukė
+    prieš Lenkiją, iš kur, neskaitant kitų ten padarytų nusikaltimų, išsivarė didelį grobį:
+    daug žmonių bei gyvulių. Tačiau du bartai, būtent: Numa ir Derska, nusekė, broliams
+    nusiaubus Gardino valsčių, paskui jų kariuomenę, ir juodviejų tarpininkaujami visi bartai
+    taip įsiteikė broliams, kad šie jiems sugrąžino paimtas  į nelaisvę jų žmonas ir vaikus;
+    šitai nepatiko nei broliui Ditrichui, Sembos fogtui, nei daugeliui kitų brolių, nes, apie tai
+    sužinoję, jie su baime pradėjo galvoti apie būsimas negandas, kurių per juos [bartus]
+    galėsią ateityje sulaukti, o tolimesnė įvykių raida šitai ir patvirtino. Minėtieji Numa ir
+      520 D. — contra castrum Gartham, Jer — burc zu Gartin.
+  citata_rodoma: "Tačiau du bartai, būtent: Numa ir Derska, nusekė, broliams\nnusiaubus Gardino valsčių, paskui jų kariuomenę, ir juodviejų tarpininkaujami visi bartai\ntaip įsiteikė broliams, kad šie jiems sugrąžino paimtas  į nelaisvę jų žmonas ir vaikus;\nšitai nepatiko nei broliui Ditrichui, Sembos fogtui, nei daugeliui kitų brolių, nes, apie tai\nsužinoję, jie su baime pradėjo galvoti apie būsimas negandas, kurių per juos [bartus]\ngalėsią ateityje sulaukti, o tolimesnė įvykių raida šitai ir patvirtino."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60185
+
+- id: c-60818
+  citata_originali: |
+    Minėtieji Numa ir
+      520 D. — contra castrum Gartham, Jer — burc zu Gartin. Apie Gardiną, jo vietą Lietuvos
+    valstybės gynyboje XIII—XIV a. žr. LE, t. 8, p. 972—985; Воронин H. H., Древнее
+    Гродно, с. 149—195; Пашуто В. Т., Гродно..., с. 191—192; Batūra R., Karinė..., р.
+    105—107; to paties, Lietuva..., p. 98, 140, 161, 164; Ткачоу М. А., Замю..., c. 23—25;
+    to paties, Абарончыя..., c. 52—55.
+
+    Derska, įsiteikę broliams, nuskubėjo pasitikti lietuvių kariuomenės ir ten, papasakoję
+    savo tėvynainiams [bartams], kas dėjosi Gardino pilyje bei jo valsčiuje, be to, kaip jie
+    pelnė brolių palankumą, išžudė lietuvius, o visą grobį išsigabeno į Pagudę, kur ir gyvena,
+    kaip gyvenę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60186
 
 ## Ryšiai
 - Numa puolė [[objektai/grupes/Lietuviai]]

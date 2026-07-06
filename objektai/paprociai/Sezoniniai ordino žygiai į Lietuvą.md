@@ -15,6 +15,18 @@ tags:
   - paprotys
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Sezoniniai ordino žygiai į Lietuvą
 
@@ -45,19 +57,64 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-05363"></a>
-- t-001
+- t-003
   global_id: t-05363
-  teiginys: 'Po 1345 metų kryžiuočiai prieš Lietuvą išplėtojo reguliarią reysų sistemą.'
+  teiginys: "Po 1345 metų kryžiuočiai prieš Lietuvą išplėtojo reguliarią reysų sistemą."
+  semantiniai_rysiai: "Kryžiuočių ordinas surengė žygį į Lietuva (0.90)"
+  temporaliniai_duomenys: "įvykio data: po 1345 m.; įvykio data: 1345 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "703140-703508; hash=f5f0e827b95d8fb91ecf9b1eb00a6da0415437e2df9efcb2431f4864dc98fe5c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Lietuva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo kryžiuočių reysų sistemą prieš Lietuvą."
   pagrindžia:
-    - c-001
+    - c-05428
 
 <a id="claim-t-05364"></a>
-- t-002
+- t-004
   global_id: t-05364
-  teiginys: 'Ordino kronikose 1345–1382 m. suregistruoti 66 Prūsų kryžiuočių ir 30 Livonijos žygių.'
+  teiginys: "Ordino kronikose 1345–1382 m. suregistruoti 66 Prūsų kryžiuočių ir 30 Livonijos žygių."
+  temporaliniai_duomenys: "įvykio data: 1345-1382; įvykio data: 1382 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia pataisyti linksnį ir pašalinti ne citatoje tiesiogiai nurodytą kryptį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "704523-704809; hash=2844e3776f3791a04ad01872fc9af93c6954fd81ccbce3fc970df5f2e740f0c4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sezoniniai ordino žygiai į Lietuvą: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sezoniniai ordino žygiai į Lietuvą\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-05430
 
+<a id="claim-t-05364"></a>
+- t-004
+  global_id: t-05364
+  teiginys: "Ordino kronikose 1345–1382 m. suregistruoti 66 Prūsų kryžiuočių ir 30 Livonijos žygių."
+  temporaliniai_duomenys: "įvykio data: 1345-1382; įvykio data: 1382 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia pataisyti linksnį ir pašalinti ne citatoje tiesiogiai nurodytą kryptį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "704523-704809; hash=2844e3776f3791a04ad01872fc9af93c6954fd81ccbce3fc970df5f2e740f0c4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sezoniniai ordino žygiai į Lietuvą: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sezoniniai ordino žygiai į Lietuvą\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-05430
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -70,6 +127,7 @@ Nenurodyta
     deli kariuomenės daliniai, kad jie be vargo pajėgtų išsimaitinti ir
     rečiau lietuvių apgyventose vietose.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -85,10 +143,11 @@ Nenurodyta
     mėnesiais prieš atlydį. O vasaros žygis buvo ruošiamas apie rug­
     piūčio vidurį, skubant jį užbaigti prieš rudens darganas ir liūtis.
   citata_rodoma: ''
-  statusas: verified
-
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -98,9 +157,44 @@ Nenurodyta
     Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų
     kryžiuočių ir 30—iš Livonijos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-003
+
+## Citatos
+
+- id: c-05428
+  citata_originali: |
+    Smulkūs teriojimai iš ordino žemių nuolat buvo kartojami.
+    Sistemingai tokią taktiką kryžiuočiai ypač ėmė naudoti po 1345 m.
+    Išsidirbo tuomet visa « reysų » sistema, nes reguliariai ir nustatytais
+    terminais į Žemaičius ir Aukštaičius buvo siunčiami judrus ir nedi­
+    deli kariuomenės daliniai, kad jie be vargo pajėgtų išsimaitinti ir
+    rečiau lietuvių apgyventose vietose.
+  citata_rodoma: "Sistemingai tokią taktiką kryžiuočiai ypač ėmė naudoti po 1345 m.\nIšsidirbo tuomet visa « reysų » sistema, nes reguliariai ir nustatytais\nterminais į Žemaičius ir Aukštaičius buvo siunčiami judrus ir nedideli\nkariuomenės daliniai, kad jie be vargo pajėgtų išsimaitinti ir rečiau\nlietuvių apgyventose vietose."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05363
+
+- id: c-05430
+  citata_originali: |
+    Pora tokių žygių paprastai buvo įvykdoma pirmais žiemos
+    mėnesiais prieš atlydį. O vasaros žygis buvo ruošiamas apie rug­
+    piūčio vidurį, skubant jį užbaigti prieš rudens darganas ir liūtis.
+    Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų
+    kryžiuočių ir 30—iš Livonijos.
+  citata_rodoma: "Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų kryžiuočių\nir 30—iš Livonijos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05364
+    - t-97140

@@ -13,6 +13,18 @@ tags:
   - saltinis
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Braterstwo szlachty polskiej z bojarstwem litewskiem w unii horodelskiej 1413 roku
 
@@ -25,10 +37,12 @@ amziai:
 <a id="claim-t-34947"></a>
 - t-001
   global_id: t-34947
-  teiginys: 'Władysławo Semkowicziaus darbas „Braterstwo szlachty polskiej z bojarstwem litewskiem w unii horodelskiej 1413 roku“ buvo išspausdintas leidinyje „Polska i Litwa w dziejowym stosunku“.'
+  teiginys: "Władysławo Semkowicziaus darbas „Braterstwo szlachty polskiej z bojarstwem litewskiem w unii horodelskiej 1413 roku“ buvo išspausdintas leidinyje „Polska i Litwa w dziejowym stosunku“."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "10569-10765; hash=b5512f675abb90b4b9cf10f2340b0ed50739ada423eeffbb25cd8935c88cdb90; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
-
+    - c-36172
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -39,8 +53,24 @@ amziai:
     1413 roku. Atspausta leidiny: „Polska i Litwa w
     dziejowym stosunku“, 395—446 psi.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-36172
+  citata_originali: |
+    Semk. = Semkowicz, Władysław, Dr., Prof., Braterstwo szlachty
+    polskiej z bojarstwem litewskiem w unii horodelskiej
+    1413 roku. Atspausta leidiny: „Polska i Litwa w
+    dziejowym stosunku“, 395—446 psi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-34947

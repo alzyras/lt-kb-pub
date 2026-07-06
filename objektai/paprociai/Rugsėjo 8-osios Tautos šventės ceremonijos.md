@@ -17,6 +17,18 @@ tags:
   - valstybė
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Rugsėjo 8-osios Tautos šventės ceremonijos
 
@@ -49,10 +61,22 @@ Nenurodyta
 <a id="claim-t-77958"></a>
 - t-001
   global_id: t-77958
-  teiginys: 'Nuo 1930 m. rugsėjo 8-osios Tautos šventėje vykdavo kariuomenės paradai, eitynės, spektakliai ir pokyliai užsienio svečiams.'
+  teiginys: "Nuo 1930 m. rugsėjo 8-osios Tautos šventėje vykdavo kariuomenės paradai, eitynės, spektakliai ir pokyliai užsienio svečiams."
+  temporaliniai_duomenys: "įvykio data: po 1930 m.; įvykio data: 1930 m.; įvykio data: 1934 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie šventės ceremonijas ir atitinka citatą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "350018-350854; hash=97eada31340eba75f03dd14b38c249b2843ea60ecbfc23e7969973fa1e04cf63; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> A. Smetona: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rugsėjo 8-osios Tautos šventės ceremonijos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rugsėjo 8-osios Tautos šventės ceremonijos\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-16467
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -72,8 +96,33 @@ Nenurodyta
     pabrėžė praeities ir dabarties ryšį, sujungė tautinius laimėjimus, auklėjo šlo-
     vingos senovės pavyzdžiais, siekė parodyti kariuomenės ir tautos vienybę.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-16467
+  citata_originali: |
+    1934 m. lapkričio 23 d.
+    Kaune, Karo muziejaus sodelyje, šalia paminklo Žuvusiems už Lietuvos lais-
+    vę palaidotas Nežinomas kareivis, sukurtos pagarbos ceremonijos, rūpintasi
+    karių kapų tvarkymu, intensyviai kuriamas žuvusių karių kultas, kasmet iš-
+    kilmingai paminima kariuomenės įkūrimo diena – lapkričio 23-ioji.
+    Nuo 1930 m. rugsėjo 8 dieną švęsta ypatinga Tautos šventė (neįvykusio
+    Vytauto karūnavimo ir Švenčiausiosios Mergelės Marijos gimimo diena):
+    valstybines įstaigas papuošdavo dideli Vytauto Didžiojo ir A.  Smetonos
+    portretai, vykdavo kariuomenės paradai, inscenizuotos eitynės miestų ga-
+    tvėmis, vaidinami spektakliai, užsienio svečiams rengiami pokyliai. Šventės
+    pabrėžė praeities ir dabarties ryšį, sujungė tautinius laimėjimus, auklėjo šlo-
+    vingos senovės pavyzdžiais, siekė parodyti kariuomenės ir tautos vienybę.
+  citata_rodoma: "Nuo 1930 m. rugsėjo 8 dieną švęsta ypatinga Tautos šventė (neįvykusio \nVytauto karūnavimo ir Švenčiausiosios Mergelės Marijos gimimo diena): \nvalstybines įstaigas papuošdavo dideli Vytauto Didžiojo ir A.  Smetonos \nportretai, vykdavo kariuomenės paradai, inscenizuotos eitynės miestų ga-\ntvėmis, vaidinami spektakliai, užsienio svečiams rengiami pokyliai. Šventės \npabrėžė praeities ir dabarties ryšį, sujungė tautinius laimėjimus, auklėjo šlo-\nvingos senovės pavyzdžiais, siekė parodyti kariuomenės ir tautos vienybę."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77958

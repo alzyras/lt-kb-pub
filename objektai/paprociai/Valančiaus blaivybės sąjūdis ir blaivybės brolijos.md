@@ -16,6 +16,18 @@ tags:
   - vyskupas
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Valančiaus blaivybės sąjūdis ir blaivybės brolijos
 
@@ -48,17 +60,62 @@ Nenurodyta
 <a id="claim-t-54359"></a>
 - t-001
   global_id: t-54359
-  teiginys: '1858 m. Motiejus Valančius, remdamasis katalikiškuose kraštuose plitusiomis blaivybės idėjomis, inicijavo blaivybės sąjūdį.'
+  teiginys: "1858 m. Motiejus Valančius, remdamasis katalikiškuose kraštuose plitusiomis blaivybės idėjomis, inicijavo blaivybės sąjūdį."
+  temporaliniai_duomenys: "įvykio data: 1858 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia išplėsti inicialą ir įtraukti citatoje nurodytą datą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "211804-212077; hash=0bedea575e5490bbabeaf1478627dd292b795440ec8f69d8820ad0fc08486165; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Valančiaus blaivybės sąjūdis ir blaivybės brolijos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valančiaus blaivybės sąjūdis ir blaivybės brolijos\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-55215
+
+<a id="claim-t-54359"></a>
+- t-001
+  global_id: t-54359
+  teiginys: "1858 m. Motiejus Valančius, remdamasis katalikiškuose kraštuose plitusiomis blaivybės idėjomis, inicijavo blaivybės sąjūdį."
+  temporaliniai_duomenys: "įvykio data: 1858 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia išplėsti inicialą ir įtraukti citatoje nurodytą datą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "211804-212077; hash=0bedea575e5490bbabeaf1478627dd292b795440ec8f69d8820ad0fc08486165; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Valančiaus blaivybės sąjūdis ir blaivybės brolijos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valančiaus blaivybės sąjūdis ir blaivybės brolijos\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  pagrindžia:
+    - c-55215
 
 <a id="claim-t-54361"></a>
-- t-003
+- t-002
   global_id: t-54361
-  teiginys: 'Apie 1860 m. blaivybės brolijoms priklausė daugiau kaip 80 proc. vyskupijos gyventojų katalikų.'
+  teiginys: "Apie 1860 m. blaivybės brolijoms priklausė daugiau kaip 80 proc. vyskupijos gyventojų katalikų."
+  temporaliniai_duomenys: "priklausymo laikotarpis: 1858 m.; priklausymo laikotarpis: 1860 m.; priklausymo laikotarpis: apie 1860 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip priklausymo laikotarpis su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Reikia pakeisti kontekstinę nuorodą „po poros metų“ aiškia data."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "211932-212313; hash=b3b58628c2181f2c3891af18a8a3dce92838835c61d513973e3c2ddc6b815d79; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Valančiaus blaivybės sąjūdis ir blaivybės brolijos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valančiaus blaivybės sąjūdis ir blaivybės brolijos\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
-
+    - c-55216
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -74,8 +131,9 @@ Nenurodyta
     se kraštuose platinamomis blai-
     vybės idėjomis, inicijavo blaivybės sąjūdį.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -94,8 +152,48 @@ Nenurodyta
     Motiejus Valančius iš J. K. Vilčinskio
     „Vilniaus albumo“.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-55215
+  citata_originali: |
+    Kai kuriose vietovėse mokančių
+    skaityti procentas padidėjo iki
+    60 – baudžiavinio kaimo sąlygo-
+    mis tai fantastiškas skaičius. Ne-
+    gana to, 1858 m. M.  Valančius,
+    remdamasis kituose katalikiškuo-
+    se kraštuose platinamomis blai-
+    vybės idėjomis, inicijavo blaivybės sąjūdį.
+  citata_rodoma: "Kai kuriose vietovėse mokančių \nskaityti procentas padidėjo iki \n60 – baudžiavinio kaimo sąlygo-\nmis tai fantastiškas skaičius. Ne-\ngana to, 1858 m. M.  Valančius, \nremdamasis kituose katalikiškuo-\nse kraštuose platinamomis blai-\nvybės idėjomis, inicijavo blaivybės sąjūdį."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54359
+
+- id: c-55216
+  citata_originali: |
+    Ne-
+    gana to, 1858 m. M.  Valančius,
+    remdamasis kituose katalikiškuo-
+    se kraštuose platinamomis blai-
+    vybės idėjomis, inicijavo blaivybės sąjūdį. Po poros metų šių blaivybės
+    brolijų nariais buvo per 80 proc. vyskupijos gyventojų katalikų – taigi
+    lietuviai metė gerti degtinę, kaipmat pakilo ūkių gerovė, sustiprėjo šei-
+    Motiejus Valančius iš J. K. Vilčinskio
+    „Vilniaus albumo“.
+  citata_rodoma: "Ne-\ngana to, 1858 m. M.  Valančius, \nremdamasis kituose katalikiškuo-\nse kraštuose platinamomis blai-\nvybės idėjomis, inicijavo blaivybės sąjūdį. Po poros metų šių blaivybės \nbrolijų nariais buvo per 80 proc. vyskupijos gyventojų katalikų – taigi \nlietuviai metė gerti degtinę, kaipmat pakilo ūkių gerovė, sustiprėjo šei-\nMotiejus Valančius iš J. K. Vilčinskio  \n„Vilniaus albumo“."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54361

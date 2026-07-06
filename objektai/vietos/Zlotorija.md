@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Zlotorija
 
@@ -17,9 +29,22 @@ Zlotorija buvo užimta po aštuonių dienų apsupties, pasidavus Bobrovnikams ir
 <a id="claim-t-185322"></a>
 - t-001
   global_id: t-185322
-  teiginys: 'Zlotorija buvo užimta po aštuonių dienų apsupties, pasidavus Bobrovnikams ir išdavus Bidgoščių.'
+  teiginys: "Zlotorija buvo užimta po aštuonių dienų apsupties, pasidavus Bobrovnikams ir išdavus Bidgoščių."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "651103-651346; hash=6e5d0e7c98d30a3fce5aa2d487a8ab75606f8649aeb1b34dde85aa7ade279bfe; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bidgoščius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Zlotorija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Bidgoščius: mention_match, place, gap=85"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zlotorija\" parinktas kaip owner_note_path. Targetas \"Bidgoščius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-168683
 - susijęs iš Bidgoščius: Pasidavus Bobrovnikams ir išdavus Bidgoščių, po aštuonių dienų apsupties buvo užimta Zlotorija.
 - susijęs iš Bobrovnikai: Pasidavus Bobrovnikams ir išdavus Bidgoščių, po aštuonių dienų apsupties buvo užimta Zlotorija.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.).md#claim-t-185601|Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.)]]: Kryžiuočiai užpuolė Dobrynę, ją užėmė ir sudegino, išžudė įgulą bei nukovė seniūną Plominskį.
@@ -41,11 +66,29 @@ Zlotorija buvo užimta po aštuonių dienų apsupties, pasidavus Bobrovnikams ir
     kryžiuočių sėkmę, įsakė visoms Lenkijos žemėms stoti
     į kovą su Prūsija.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-168683
+  citata_originali: |
+    Žiau­
+    riai nusiaubė Lipną ir Ripiną. Kai pasidavė Bobrovnikai
+    ir buvo išduotas Bidgoščius, po aštuonių dienų apsup­
+    ties užėmė Zlotoriją. Karalius Jogaila, matydamas tokią
+    kryžiuočių sėkmę, įsakė visoms Lenkijos žemėms stoti
+    į kovą su Prūsija.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185322
 
 ## Ryšiai
 - Užėmė Zlotoriją: [[objektai/grupes/Kryžiuočių ordinas]]

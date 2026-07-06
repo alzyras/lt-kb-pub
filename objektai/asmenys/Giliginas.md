@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Giliginas
 
@@ -17,9 +29,22 @@ Giliginui mirė sūnus ir sosto įpėdinis Romuntas.
 <a id="claim-t-186041"></a>
 - t-001
   global_id: t-186041
-  teiginys: 'Giliginui mirė sūnus ir sosto įpėdinis Romuntas.'
+  teiginys: "Giliginui mirė sūnus ir sosto įpėdinis Romuntas."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "223656-223991; hash=a267a3569b6e8c9cd25e09f284dda9581f3b4eb685360f0de57b86886918849a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> įpėdinis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Giliginas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "įpėdinis: mention_match, thing, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Giliginas\" parinktas kaip owner_note_path. Targetas \"įpėdinis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-169402
 - susijęs iš [[objektai/asmenys/Romuntas.md#claim-t-186160|Romuntas]]: Romuntas buvo Giliginio sūnus ir sosto įpėdinis.
 - susijęs iš [[objektai/posakiai/karo, ir taikos metu tokios pat santarvės bei šlovės.md#claim-t-185477|karo, ir taikos metu tokios pat santarvės bei šlovės]]: Kernavėje rūmų maršalas ragino Giliginą ir Trobį siekti tokios pat santarvės bei šlovės karo ir taikos metu.
 - susijęs iš [[objektai/ivykiai/Kernavės sueiga po Germanto mirties ir Giligino paskelbimas valdovu.md#claim-t-185712|Kernavės sueiga po Germanto mirties ir Giligino paskelbimas valdovu]]: Kernavės didikų sueigoje Germanto vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos valdovu, o jo broliui Trobiui patikėta pavaldžioji Žemaitija.
@@ -51,11 +76,34 @@ Giliginui mirė sūnus ir sosto įpėdinis Romuntas.
     lių šaltinių minimas pasakojimas, jog jis mirė bevai­
     kis.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-169402
+  citata_originali: |
+    Vargu ar tuo skai­
+    čiumi galima patikėti, vis dėlto jis svariai įrodo, jog
+    lenkai buvo smarkiai sumušti.
+    Kiti metai Giliginui tapo
+    lemtingi: mirė sosto įpėdinis
+    jo sūnus Romuntas. Kaip tei­
+    giama įvairių rašytojų, Ro­
+    muntas paliko penketą sūnų,
+    tačiau artesnis tiesai vos ke­
+    lių šaltinių minimas pasakojimas, jog jis mirė bevai­
+    kis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186041
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Romuntas]]

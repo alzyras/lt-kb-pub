@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - kunigaikštis
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Rūdninkų vartai ir Rūdninkų gatvė Vilniuje
 
@@ -20,10 +32,20 @@ Kazimieras pamėgo Rūdninkus ir dažnai juose buvodavo, bet jie nebuvo tokie ga
 <a id="claim-t-86232"></a>
 - t-001
   global_id: t-86232
-  teiginys: 'Žygimantų laikais Vilniuje atsiradę nauji vartai ir nuo jų vingiuojanti gatvė gavo Rūdninkų vardą.'
+  teiginys: "Žygimantų laikais Vilniuje atsiradę nauji vartai ir nuo jų vingiuojanti gatvė gavo Rūdninkų vardą."
+  semantiniai_rysiai: "Rūdninkų vartai ir Rūdninkų gatvė Vilniuje priklausė Vilnius (0.78)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "511534-512160; hash=4aaba164dfbb448d1188de3a3b8f6163546e5b0747f1671c31559f90ece240bb; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Vilnius: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Rūdninkų vartai ir Rūdninkų gatvė Vilniuje: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vartai ir gatvė apibūdinti kaip atsiradę Vilniuje, todėl vietos priklausymas Vilniui tiesiogiai palaikomas."
   pagrindžia:
-    - c-001
-
+    - c-82211
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,11 +64,34 @@ Kazimieras pamėgo Rūdninkus ir dažnai juose buvodavo, bet jie nebuvo tokie ga
     liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­
     da Rūdninkuose smagiai leisdavo laiką medžiodami.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-82211
+  citata_originali: |
+    Pasiligojusi Vytauto žmona Julijona bu­
+    vo apsistojusi kažkokiame kunigaikščių kaime, vadinama­
+    me Memitz, prie Vilniaus, bet iš to pavadinimo, iškraipyto
+    vokiečių raštininko, šiandien negalima suprasti, kokia tai
+    buvo vieta. Kazimieras pamėgo Rūdninkus ir dažnai juose
+    buvodavo, bet jie nebuvo tokie garsūs, kaip pasidarė vėliau,
+    Žygimantų - Senojo ir Augusto - laikais, kai net Vilniuje
+    atsirado nauji vartai, Aleksandro laikais dar nežinomi, ir ga­
+    vo Rūdninkų vardą, kaip ir nuo jų vingiuojanti gatvė. Vė­
+    liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­
+    da Rūdninkuose smagiai leisdavo laiką medžiodami.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86232
 
 ## Ryšiai
 - Rūdninkų vartai ir Rūdninkų gatvė Vilniuje priklausė [[objektai/vietos/Vilnius]]

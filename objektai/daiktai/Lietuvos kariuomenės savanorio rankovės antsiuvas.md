@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - daiktas
   - tauta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvos kariuomenės savanorio rankovės antsiuvas
 
@@ -38,25 +50,55 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78672"></a>
-- t-001
+- t-002
   global_id: t-78672
-  teiginys: 'Pirmųjų Lietuvos karių skiriamasis ženklas buvo trikampis tautinių spalvų rankovės antsiuvas.'
+  teiginys: "Pirmųjų Lietuvos karių skiriamasis ženklas buvo trikampis tautinių spalvų rankovės antsiuvas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "700417-701139; hash=4f7b4c233ec4fd299bdd5990c9984eb86f0da7acead413256c5e54486f244b7d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenės savanorio rankovės antsiuvas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos kariuomenės savanorio rankovės antsiuvas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-75886
 
 <a id="claim-t-78673"></a>
-- t-002
+- t-001
   global_id: t-78673
-  teiginys: 'Lietuvos kariuomenės savanorio rankovės antsiuvas buvo trikampis tautinių spalvų skiriamasis ženklas.'
+  teiginys: "Lietuvos kariuomenės savanorio rankovės antsiuvas buvo trikampis tautinių spalvų skiriamasis ženklas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "700417-701139; hash=4f7b4c233ec4fd299bdd5990c9984eb86f0da7acead413256c5e54486f244b7d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenės savanorio rankovės antsiuvas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos kariuomenės savanorio rankovės antsiuvas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-75886
 
 <a id="claim-t-78674"></a>
 - t-003
   global_id: t-78674
-  teiginys: 'Pirmojo pavyzdžio Lietuvos karių uniformoje buvo trispalviai trikampiai kairės rankovės antsiuvai.'
+  teiginys: "Pirmojo pavyzdžio Lietuvos karių uniformoje buvo trispalviai trikampiai kairės rankovės antsiuvai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "701299-701920; hash=7bbe80654403421ccdef118a08753b8932fade85744b63bb0e60500f6c7f9575; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenės savanorio rankovės antsiuvas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos kariuomenės savanorio rankovės antsiuvas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-75887
 - susijęs iš Kruopiai: Bolševikams priartėjus prie Kėdainių, savanorių būriai, nesulaukdami iš Kauno žadėtų ginklų, sausio 14 d. pasitraukė į Kruopius (10 km nuo Kėdainių Kauno link).
 ## Reikšmingi paminėjimai
 
@@ -79,8 +121,9 @@ Nenurodyta
     šautuvų ugnimi įstengė sustabdyti priešo
     puolimą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -113,8 +156,68 @@ Nenurodyta
     kepures su geltonomis juostomis ir trispal-
     vius trikampius kairės rankovės antsiuvus).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-75886
+  citata_originali: |
+    Vėliau besikuriantys Lietuvos kariuomenės daliniai įsigydavo ginklų ir uniformų iš vo-
+    kiečių kariuomenės. Kad pirmieji Lietuvos kariai būtų panašūs ne į margą minią, bet į
+    kariuomenę, buvo įvesti skiriamieji ženklai - trikampis tautinių spalvų rankovės antsiu-
+    vas ir geltonas lankelis ant kepurės.
+
+    Lietuvos kariai prie gautų vokiečių kariuomenės sagčių (kairėje) pritvirtindavo
+    Lietuvos simbolį - Vytj (dešinėje), taip uždengdami vokišką imperijos karūną su
+    šūkiu „GOT MIT UNS“ („DIEVAS SU MUMIS“)
+
+    Kėdainių gynyba Karininkai J. Mikoliūnas ir
+    K. Dragunevičius, surinkę apie 80 karei-
+    vinėse buvusių savanorių ir išskleidę juos
+    abipus vieškelio Kėdainiai-Šėta, efektyvia
+    šautuvų ugnimi įstengė sustabdyti priešo
+    puolimą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78673
+    - t-78672
+
+- id: c-75887
+  citata_originali: |
+    Bolševikai tą dieną į lietuvių pusę paleido
+    užtvarą ir tęsė puolimą Kėdainių link. apie 170 artilerijos sviedinių ir kelis kartus
+    juos puolė mėgindami pralaužti gynybą,
+    tačiau savanoriams vis pavykdavo taiklia
+    šautuvų ugnimi juos sulaikyti. Toks buvo
+    pirmasis Kėdainių įgulos sava-
+    norių kovos krikštas.
+    Raudonarmiečiai,
+    matydami, jog jų
+    artilerija lietuvių
+
+    Dar tą pačią vasario 7 d.
+    tarp bolševikų ir Šilginėlių
+    kaime buvusios lietuvių
+    sargybos įvyko smarkus
+
+    stūmė lietuvių sargybas, pri-
+
+    rengti pirmojo pavyzdžio uniforma (gavo
+
+    kepures su geltonomis juostomis ir trispal-
+    vius trikampius kairės rankovės antsiuvus).
+  citata_rodoma: "Raudonarmiečiai,\nmatydami, jog jų\nartilerija lietuvių\n\nDar tą pačią vasario 7 d.\ntarp bolševikų ir Šilginėlių\nkaime buvusios lietuvių\nsargybos įvyko smarkus\n\nstūmė lietuvių sargybas, pri-\n\nrengti pirmojo pavyzdžio uniforma (gavo\n\nkepures su geltonomis juostomis ir trispal-\nvius trikampius kairės rankovės antsiuvus)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78674

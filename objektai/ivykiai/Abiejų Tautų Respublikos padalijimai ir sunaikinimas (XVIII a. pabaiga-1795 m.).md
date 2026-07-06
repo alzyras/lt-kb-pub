@@ -15,6 +15,18 @@ tags:
   - tauta
 amziai:
   - 'XVIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Abiejų Tautų Respublikos padalijimai ir sunaikinimas (XVIII a. pabaiga-1795 m.)
 
@@ -43,17 +55,42 @@ Nenurodyta
 <a id="claim-t-75089"></a>
 - t-001
   global_id: t-75089
-  teiginys: 'Abiejų Tautų Respublika buvo sunaikinta trimis XVIII a. pabaigos padalijimais, kuriuose dalyvavo Rusija, Austrija ir Prūsija.'
+  teiginys: "Abiejų Tautų Respublika buvo sunaikinta trimis XVIII a. pabaigos padalijimais, kuriuose dalyvavo Rusija, Austrija ir Prūsija."
+  temporaliniai_duomenys: "įvykio data: 1791 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir tiesiogiai pakartoja citatoje pateiktą informaciją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "24334-25557; hash=425d160f7f718fff7c650aac2ca356e0ed5a42f356467d0bcc7eadbed94bb262; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Abiejų Tautų Respublikos padalijimai ir sunaikinimas (XVIII a. pabaiga-1795 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Abiejų Tautų Respublikos padalijimai ir sunaikinimas (XVIII a. pabaiga-1795 m.)\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-73008
 
 <a id="claim-t-75090"></a>
 - t-002
   global_id: t-75090
-  teiginys: '1795 m. Rusija, Austrija ir Prūsija galutinai pasidalijo Lenkijos ir Lietuvos valstybę, o didžioji Lietuvos dalis atiteko Rusijai.'
+  teiginys: "1795 m. Rusija, Austrija ir Prūsija galutinai pasidalijo Lenkijos ir Lietuvos valstybę, o didžioji Lietuvos dalis atiteko Rusijai."
+  temporaliniai_duomenys: "įvykio data: 1795 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys yra fragmentiškas ir mažiau susijęs su note objektu; citata geriau palaiko teiginį apie 1795 m. padalijimą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "30308-30514; hash=f225d48fae073e70c1bc16ddf8ed0bd0d98c986eab86edb53d3cf761be6913fd; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Abiejų Tautų Respublikos padalijimai ir sunaikinimas (XVIII a. pabaiga-1795 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Abiejų Tautų Respublikos padalijimai ir sunaikinimas (XVIII a. pabaiga-1795 m.)\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
-
+    - c-73009
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -80,8 +117,9 @@ Nenurodyta
     Abiejų Tautų Respublika buvo sunaikinta trimis XVIII a. pabaigos pa-
     dalijimais, kuriuose dalyvavo Rusija, Austrija ir Prūsija.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -96,8 +134,55 @@ Nenurodyta
     Rusija, Austrija ir Prūsija galutinai pasidalija Lenkijos ir Lietuvos valsty-
     bę. Didžioji Lietuvos dalis atitenka Rusijai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-73008
+  citata_originali: |
+    Paprastai moksle laikoma, kad ši
+    valstybė Europos ir pasaulio civilizacijai XVII–XVIII a. davė labai reikš-
+    mingus fenomenus, kurių trumpa formulė būtų tokia – duona, toleran-
+    cija, demokratija, konstitucija, barokas. Taigi Abiejų Tautų Respublika:
+    •	 aprūpino Vakarus (per Gdanską į Amsterdamą) javais,
+    •	 sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir
+    bajoriškosios demokratijos tradiciją,
+    •	 Vilnius XVI–XVIII a. tapo vienintele stovinčia ant dviejų pasaulių
+    ribos Europos sostine, kurioje sugyveno dešimt konfesijų, o žydų pa-
+    sauliui tai buvo Vilniaus Gaono miestas ir „Šiaurės Jeruzalė“,
+    •	 iškėlė plačiausios poveikio erdvės ir vieną seniausių Vidurio Euro-
+    poje Vilniaus universitetą, turintį savitas misionierių, kankinių ir
+    šventųjų, poetų, retorikų ir logikų tradicijas,
+    •	 išpuoselėjo europiniu mastu reikšmingą Vilniaus baroko architek-
+    tūros mokyklą,
+    • sukūrė teisinę tradiciją, kuri XVI a. davė sistemingiausius Europoje
+    teisės kodeksus – Lietuvos Statutus, o 1791 m. kartu su Lenkija –
+    konstituciją, tapusią ankstyviausia rašytine konstitucija Europoje.
+    Abiejų Tautų Respublika buvo sunaikinta trimis XVIII a. pabaigos pa-
+    dalijimais, kuriuose dalyvavo Rusija, Austrija ir Prūsija.
+  citata_rodoma: "Abiejų Tautų Respublika buvo sunaikinta trimis XVIII a. pabaigos pa-\ndalijimais, kuriuose dalyvavo Rusija, Austrija ir Prūsija."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75089
+
+- id: c-73009
+  citata_originali: |
+    Susikuria jungtinė Lenkijos ir Lietuvos Valstybė –
+    Abiejų Tautų Respublika.
+    1795
+    Rusija, Austrija ir Prūsija galutinai pasidalija Lenkijos ir Lietuvos valsty-
+    bę. Didžioji Lietuvos dalis atitenka Rusijai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75090

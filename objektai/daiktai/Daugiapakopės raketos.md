@@ -15,6 +15,18 @@ tags:
 amziai:
   - 'XVI'
   - 'XVII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Daugiapakopės raketos
 
@@ -52,25 +64,60 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-45476"></a>
-- t-001
+- t-010
   global_id: t-45476
-  teiginys: 'Kazimiero Semenavičiaus veikale „Artis magnae artilleriae“ išdėstyta daugiapakopių raketų teorija.'
+  teiginys: "Kazimiero Semenavičiaus veikale „Artis magnae artilleriae“ išdėstyta daugiapakopių raketų teorija."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "119924-120380; hash=b26de2a8bd03def14d8c3932a0d755e42a84ca6220f1d6c88192b670f5e728aa; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
+  ryšio_patikimumas: "susije_su -> Artilerija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Daugiapakopės raketos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Artilerija: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Daugiapakopės raketos\" parinktas kaip owner_note_path. Targetas \"Artilerija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-48266
 
 <a id="claim-t-45477"></a>
-- t-002
+- t-007
   global_id: t-45477
-  teiginys: 'Kazimiero Semenavičiaus veikale „Artis magnae artilleriae“ buvo išdėstyta daugiapakopių raketų teorija.'
+  teiginys: "Kazimiero Semenavičiaus veikale „Artis magnae artilleriae“ buvo išdėstyta daugiapakopių raketų teorija."
+  temporaliniai_duomenys: "įvykio data: 1579 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "119681-120290; hash=075ccb3fdd4b5e02fc3fbd2a7d5f810c3a46ffb5166288afc46ec31cf75d25e7; match=whitespace_regex"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
+  ryšio_patikimumas: "susije_su -> Artilerija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Daugiapakopės raketos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Artilerija: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Daugiapakopės raketos\" parinktas kaip owner_note_path. Targetas \"Artilerija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-22227
 
 <a id="claim-t-45479"></a>
-- t-003
+- t-008
   global_id: t-45479
-  teiginys: 'K. Semenavičiaus raketų brėžiniai buvo publikuoti Amsterdame 1650 m.'
+  teiginys: "K. Semenavičiaus raketų brėžiniai buvo publikuoti Amsterdame 1650 m."
+  temporaliniai_duomenys: "įvykio data: 1650 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "149300-149469; hash=a32e63842fb37e1100bb7bb0db711f987a20d9e79d0dffc452f43ee32543504c; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
+  ryšio_patikimumas: "susije_su -> Amsterdamas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Daugiapakopės raketos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Amsterdamas: mention_match, place, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Daugiapakopės raketos\" parinktas kaip owner_note_path. Targetas \"Amsterdamas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-16405
 - susijęs iš [[objektai/asmenys/Kazimieras Simanavičius.md#claim-t-39577|Kazimieras Simanavičius]]: Kazimieras Simanavičius pirmasis aptarė daugiapakopės raketos ir raketinės artilerijos idėjas.
 ## Reikšmingi paminėjimai
 
@@ -81,6 +128,7 @@ Nenurodyta
     istorinės reikšmės aspektas. Nuo XIV a. ryčiausias Europoje du amžius
     K. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -101,8 +149,9 @@ Nenurodyta
     ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-
     orija.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -119,8 +168,9 @@ Nenurodyta
     XVII–XVIII a. barokinį kraštovaizdį architektūroje ir dailėje taip pat
     nulėmė jėzuitai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -128,3 +178,55 @@ Nenurodyta
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
+
+## Citatos
+
+- id: c-16405
+  citata_originali: |
+    Yra ir kitas senojo Vilniaus universiteto
+    istorinės reikšmės aspektas. Nuo XIV a. ryčiausias Europoje du amžius
+    K. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m.
+  citata_rodoma: "Nuo XIV a. ryčiausias Europoje du amžius\nK. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-45479
+
+- id: c-22227
+  citata_originali: |
+    Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi
+    pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky-
+    klų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur-
+    tas 1579 m.). Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė
+    solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu
+    darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“
+    („Didysis artilerijos menas“) (1650). Jame randame šiuolaikinės artilerijos
+    ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-
+    orija.
+  citata_rodoma: "Jame randame šiuolaikinės artilerijos\nir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-\norija."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-45477
+
+- id: c-48266
+  citata_originali: |
+    Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė
+    solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu
+    darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“
+    („Didysis artilerijos menas“) (1650). Jame randame šiuolaikinės artilerijos
+    ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-
+    orija.
+    XVII–XVIII a. barokinį kraštovaizdį architektūroje ir dailėje taip pat
+    nulėmė jėzuitai.
+  citata_rodoma: "Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė \nsolidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu \ndarbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ \n(„Didysis artilerijos menas“) (1650). Jame randame šiuolaikinės artilerijos \nir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-\norija. \nXVII–XVIII a."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-45476

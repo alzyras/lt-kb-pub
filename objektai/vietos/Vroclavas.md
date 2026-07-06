@@ -18,6 +18,18 @@ tags:
 amziai:
   - 'XV'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vroclavas
 
@@ -28,39 +40,115 @@ amziai:
 ## Teiginiai
 
 <a id="claim-t-85591"></a>
-- t-001
+- t-003
   global_id: t-85591
-  teiginys: '1432 m. Vroclavo gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su savo prekėmis.'
+  teiginys: "1432 m. Vroclavo gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su savo prekėmis."
+  semantiniai_rysiai: "Vroclavas prekiavo su Vilnius (0.68)"
+  temporaliniai_duomenys: "įvykio data: 1432 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "430873-431453; hash=c908dc4f788ee51d654f217f60bec163d695ee80244062303980d7d1888d3491; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Vilnius: 0.68"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vroclavas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vroclavo gyventojai su prekėmis atvykdavo į Vilnių, todėl ryšys laikomas prekybiniu."
   pagrindžia:
-    - c-002
+    - c-81577
 
 <a id="claim-t-85592"></a>
-- t-002
+- t-004
   global_id: t-85592
-  teiginys: 'Švitrigaila prašė garantuoti Vroclavo gyventojams laisvą kelionę su prekėmis per Ordino žemes.'
+  teiginys: "Švitrigaila prašė garantuoti Vroclavo gyventojams laisvą kelionę su prekėmis per Ordino žemes."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "432304-433014; hash=a446bb5e6a7b6c308ca4a678b4aa28b827d30ff7c0f4b19c98366c4185cf9185; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kistrinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vroclavas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kistrinas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vroclavas\" parinktas kaip owner_note_path. Targetas \"Kistrinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-81579
 
 <a id="claim-t-85593"></a>
-- t-003
+- t-001
   global_id: t-85593
-  teiginys: 'Jogaila ir Vytautas pasiuntė į Vroclavą protestus, kuriuos gabeno Zbignievas Olesnickis.'
+  teiginys: "Jogaila ir Vytautas pasiuntė į Vroclavą protestus, kuriuos gabeno Zbignievas Olesnickis."
+  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) siuntė į Vroclavas (0.90); Vytautas (Lietuvos valdovas, XIV–XV a.) siuntė į Vroclavas (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "968710-969078; hash=b6ccf4e3e2363aa7c27e9ce5081e88b1548f90e29d8372e7cb3c72b3e7bf557c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Vroclavas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vroclavas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje pasakyta, kad pusbroliai, tarp jų Jogaila, pasiuntė protestus į Vroclavą."
   pagrindžia:
-    - c-003
+    - c-81578
+
+<a id="claim-t-85594"></a>
+- t-005
+  global_id: t-85594
+  teiginys: "1432 m. Vroclavo gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su savo prekėmis."
+  semantiniai_rysiai: "Vroclavas prekiavo su Vilnius (0.68)"
+  temporaliniai_duomenys: "įvykio data: 1432 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Vroclavo gyventojų prekybinius ryšius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "430742-431170; hash=1b09e5b1d79f3b3e6d7d13fc8b0c2a5b4c74908865e787ac2a732f0c795d7bb8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Vilnius: 0.68"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vroclavas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vroclavo gyventojai su prekėmis atvykdavo į Vilnių, todėl ryšys laikomas prekybiniu."
+  pagrindžia:
+    - c-81576
 
 <a id="claim-t-85595"></a>
-- t-005
+- t-006
   global_id: t-85595
-  teiginys: 'Švitrigaila prašė garantuoti Vroclavo gyventojams laisvą ir nevaržomą keliavimą su prekėmis per Ordino žemes.'
+  teiginys: "Švitrigaila prašė garantuoti Vroclavo gyventojams laisvą ir nevaržomą keliavimą su prekėmis per Ordino žemes."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "432304-433014; hash=a446bb5e6a7b6c308ca4a678b4aa28b827d30ff7c0f4b19c98366c4185cf9185; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kistrinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vroclavas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kistrinas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vroclavas\" parinktas kaip owner_note_path. Targetas \"Kistrinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-81579
 
 <a id="claim-t-85596"></a>
-- t-006
+- t-002
   global_id: t-85596
-  teiginys: 'Jogaila tuojau apeliavo į popiežių Martyną V, prašydamas panaikinti Vroclavo sprendimą.'
+  teiginys: "Jogaila tuojau apeliavo į popiežių Martyną V, prašydamas panaikinti Vroclavo sprendimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "970368-970604; hash=ef30e5efa6c72561febbf17ec3d0ad7ed8a72f41fcfbc0780f98bd66324acdf3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vroclavas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=68"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vroclavas\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-81581
 - susijęs iš [[objektai/asmenys/Henrikas (Vroclavo kunigaikštis).md#claim-t-60131|Henrikas (Vroclavo kunigaikštis)]]: Totoriai, įsiveržę į Vengriją ir Lenkiją, mūšyje nukovė Henriką, Vroclavo kunigaikštį.
 - susijęs iš [[objektai/autoriai/Długopolski, Edm.md#claim-t-29461|Długopolski, Edm]]: Edm. Długopolski 1951 m. Vroclave išleido darbą „Władysław Łokietek na tle swoich czasów“.
 - susijęs iš [[objektai/autoriai/Edm. Długopolski.md#claim-t-29465|Edm. Długopolski]]: Edm. Długopolski 1951 m. Vroclave išleido veikalą „Władysław Łokietek na tle swoich czasów“.
@@ -129,8 +217,9 @@ amziai:
     turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­
     čio dvare9.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
@@ -151,8 +240,9 @@ amziai:
     kad panašią paslaugą padarytų to
     paties svečio broliui Prūsijoje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -168,6 +258,7 @@ amziai:
     lietuvių tautos dalis : « viskas yra viena, viena žemė ir tie patys
     žmonės »^14.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -203,6 +294,7 @@ amziai:
     miesto gyventojų prašymu, didysis kunigaikštis turėjo pa­
     skirti valdytoją bei garantuoti jiems globą10.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -218,11 +310,117 @@ amziai:
     sprendimą. O Vytautui pasisiūlė galimybė imperatoriui už neprie­
     telišką ištarmę atmokėti pačiu skaudžiausiu būdu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
+## Citatos
+
+- id: c-81576
+  citata_originali: |
+    Per itin galingas Švitrigailos sąjungas radosi di­
+    desnis pasitikėjimas, o prekyba išsiplėtė net iki atokiausių
+    Vokietijos žemių. Valdant Švitrigailai, Vilniaus miestietis
+    Bomannas, tikriausiai garsus pirklys, prekiavo su Gdans­
+    ku8. Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­
+    no žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o
+    turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­
+    čio dvare9.
+  citata_rodoma: "Valdant Švitrigailai, Vilniaus miestietis \nBomannas, tikriausiai garsus pirklys, prekiavo su Gdans­\nku8. Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­\nno žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o \nturtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­\nčio dvare9."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-85594
+
+- id: c-81577
+  citata_originali: |
+    Valdant Švitrigailai, Vilniaus miestietis
+    Bomannas, tikriausiai garsus pirklys, prekiavo su Gdans­
+    ku8. Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­
+    no žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o
+    turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­
+    čio dvare9. Prekybos sutartis su Pskovu, kaip ir prieš metus
+    sudarytoji su Naugardu, buvo patvirtinta Vilniuje ir, ano
+    gą poną Fridrichą fon Bebirsteyną,
+    priėmiau į savo dvariškių būrį ir
+    kaip malonų patikėtinį", bei prašo,
+    kad panašią paslaugą padarytų to
+    paties svečio broliui Prūsijoje.
+  citata_rodoma: "Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­\nno žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o\nturtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­\nčio dvare9. Prekybos sutartis su Pskovu, kaip ir prieš metus\nsudarytoji su Naugardu, buvo patvirtinta Vilniuje ir, ano\ngą poną Fridrichą fon Bebirsteyną,\npriėmiau į savo dvariškių būrį ir\nkaip malonų patikėtinį\", bei prašo,\nkad panašią paslaugą padarytų to\npaties svečio broliui Prūsijoje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-85591
+
+- id: c-81578
+  citata_originali: |
+    Per susitikimą Dauguose patyrę
+    ištarmę, jiedu esą rėkę ir raudoję, kaip du sužeisti hutai^13. Pus­
+    broliai tuojau į Vroclavą pasiuntė savo protestus, kuriuos ten ga­
+    beno savo politinę karjerą pradedąs Zbignievas Olesnickis.
+    Ilgame savo laiške Vytautas išdėstė, jog žemaičiai yra ta pati
+    lietuvių tautos dalis : « viskas yra viena, viena žemė ir tie patys
+    žmonės »^14.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-85593
+
+- id: c-81579
+  citata_originali: |
+    Jame pasakoja, kad „pasiunčiau nuo
+    savęs maloningąjį poną Konradą,
+    Vroclavo vyskupą, mylimą brolį, pa­
+    geidaudamas, kad didysis magistras
+    lieptų jį palydėti į Kistriną ir pasi­
+    teirauti kunigaikščio Štolpenskio, ar
+    minėtasis vyskupas turįs ar neturįs
+    dėl ko nuogąstauti iš jo ir tų, kurie
+    jam pavaldūs, pusės?" Tame pačia­
+    me laiške Švitrigaila prideda prašy­
+    mą: „kad Vroclavo gyventojams
+    duotų garantiją vykti per Ordino že­
+    mes, kad jie galėtų laisvai ir nevar­
+    žomai keliauti su savo prekėmis,
+    kadangi mums rodo daug palanku­
+    mo".
+    —  « —
+    213
+
+    ## Puslapis 230
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    miesto gyventojų prašymu, didysis kunigaikštis turėjo pa­
+    skirti valdytoją bei garantuoti jiems globą10.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-85595
+    - t-85592
+
+- id: c-81581
+  citata_originali: |
+    Abu valdovai tačiau kratėsi tokio sprendimo. Jogaila tuojau
+    apeliavo į popiežių Martyną V, prašydamas panaikinti Vroclavo
+    sprendimą. O Vytautui pasisiūlė galimybė imperatoriui už neprie­
+    telišką ištarmę atmokėti pačiu skaudžiausiu būdu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-85596
 
 ## Ryšiai
 - Buvo siuntimo vieta: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -16,6 +16,18 @@ tags:
 amziai:
   - 'XVIII'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Gumbinė
 
@@ -26,13 +38,24 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
 ## Teiginiai
 
 <a id="claim-t-170419"></a>
-- t-001
+- t-009
   global_id: t-170419
-  teiginys: 'XVIII a. Prūsijoje įsteigto Lietuvos departamento centras buvo Gumbinė.'
+  teiginys: "XVIII a. Prūsijoje įsteigto Lietuvos departamento centras buvo Gumbinė."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "19889-20398; hash=f9ef8c1fabad51fa058f189962ec026ef70b6a4c7ddcc7ef5e727cccf9de58f5; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gumbinė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gumbinė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-155070
 - susijęs iš [[objektai/paprociai/Varpų naudojimas pavojui, sargybai ir kariams kelti.md#claim-t-189813|Varpų naudojimas pavojui, sargybai ir kariams kelti]]: Narbutas Gumbinės (Gumbin) miesto pavadinimą kildino iš tokio varpo.
 - susijęs iš Prūsija: XVIII a. Prūsijoje oficialiai vartotas Lietuvos vardas, nes buvo įsteigtas Lietuvos departamentas su centru Gumbinėje.
+- susijęs iš [[objektai/autoriai/J. Foigtas.md#claim-t-190731|Johanas Foigtas]]: Teodoras Narbutas Foigto tvirtovės vietos tyrimą laikė kiek klaidingu ir tvirtovę siejo su sena piliaviete prie Pilkalnio kaimo.
 - susijęs iš [[objektai/autoriai/Simono Grunau.md#claim-t-30981|Simono Grunau]]: Simonas Grunau rodyklėje nurodytas kaip kronikininkas.
 - susijęs iš M. Prätorius, Deliciae: M. Prätoriaus „Deliciae“ nurodoma, kad Pisos dešinysis intakas Golba prie Narpiškių kaimo buvęs šventas.
 - susijęs iš Katinavos apylinkės: Katinavos apylinkės apibūdintos kaip ryškus pagoniško kulto židinys.
@@ -51,8 +74,29 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
     pasaulinio karo, iš Prūsijos pasitraukus seniesiems gyventojams, lietuviš-
     kai kalbančiųjų nebeliko.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-155070
+  citata_originali: |
+    Mažojoje Lietuvoje iškilo ir pirmasis
+    reikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Done-
+    laičio poema „Metai“ (apie 1750). Nors XVIII a. Prūsijoje buvo net oficia-
+    liai vartojamas Lietuvos vardas – įsteigtas Lietuvos departamentas, kurio
+    centras Gumbinė, – ilgainiui dėl germanizacijos ir savaiminio lietuvių
+    vokietėjimo lietuvių kalbos vartojimas Prūsijoje siaurėjo, o po Antrojo
+    pasaulinio karo, iš Prūsijos pasitraukus seniesiems gyventojams, lietuviš-
+    kai kalbančiųjų nebeliko.
+  citata_rodoma: "Nors XVIII a. Prūsijoje buvo net oficia-\nliai vartojamas Lietuvos vardas – įsteigtas Lietuvos departamentas, kurio \ncentras Gumbinė, – ilgainiui dėl germanizacijos ir savaiminio lietuvių \nvokietėjimo lietuvių kalbos vartojimas Prūsijoje siaurėjo, o po Antrojo \npasaulinio karo, iš Prūsijos pasitraukus seniesiems gyventojams, lietuviš-\nkai kalbančiųjų nebeliko."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-170419

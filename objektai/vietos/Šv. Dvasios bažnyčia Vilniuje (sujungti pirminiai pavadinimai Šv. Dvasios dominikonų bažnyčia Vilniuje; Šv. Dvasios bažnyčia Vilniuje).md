@@ -17,6 +17,18 @@ tags:
   - vyskupas
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Šv. Dvasios bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Dvasios dominikonų bažnyčia Vilniuje; Šv. Dvasios bažnyčia Vilniuje)
 
@@ -27,40 +39,93 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
 ## Teiginiai
 
 <a id="claim-t-85988"></a>
-- t-001
+- t-002
   global_id: t-85988
-  teiginys: 'Šv. Dvasios dominikonų bažnyčioje buvo galima matyti karaliaus Aleksandro ir kunigo Korčiako portretus ant priešais stovinčių kolonų.'
+  teiginys: "Šv. Dvasios dominikonų bažnyčioje buvo galima matyti karaliaus Aleksandro ir kunigo Korčiako portretus ant priešais stovinčių kolonų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "479728-480046; hash=b04afb9d19d13c96e726237517ebeb00eba97bbdde679c9181178e33cc86ea98; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Korčiakas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šv. Dvasios bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Dvasios dominikonų bažnyčia Vilniuje; Šv. Dvasios bažnyčia Vilniuje): owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Korčiakas: mention_match, person, gap=84"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šv. Dvasios bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Dvasios dominikonų bažnyčia Vilniuje; Šv. Dvasios bažnyčia Vilniuje)\" parinktas kaip owner_note_path. Targetas \"Korčiakas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-81972
 
 <a id="claim-t-85989"></a>
-- t-002
+- t-003
   global_id: t-85989
-  teiginys: 'Hozijus buvo įpareigotas prie dominikonų Šv. Dvasios bažnyčios pastatyti ir nuolat išlaikyti viešą špitolę.'
+  teiginys: "Hozijus buvo įpareigotas prie dominikonų Šv. Dvasios bažnyčios pastatyti ir nuolat išlaikyti viešą špitolę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "536308-536812; hash=a846b9e41487b231ae456dcd1bc671a70a1523f7e75b36b4a58152e241f89bcc; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šv. Dvasios bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Dvasios dominikonų bažnyčia Vilniuje; Šv. Dvasios bažnyčia Vilniuje): owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šv. Dvasios bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Dvasios dominikonų bažnyčia Vilniuje; Šv. Dvasios bažnyčia Vilniuje)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-81970
 
 <a id="claim-t-85990"></a>
-- t-003
+- t-005
   global_id: t-85990
-  teiginys: 'Šv. Dvasios bažnyčios kapinių vartai buvo priešais įėjimą į prieglaudos namus.'
+  teiginys: "Šv. Dvasios bažnyčios kapinių vartai buvo priešais įėjimą į prieglaudos namus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "746264-746820; hash=9f4c75802d887f726831390215c31ad1480dc130369d83f73fa5f547a1e67964; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Namas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šv. Dvasios bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Dvasios dominikonų bažnyčia Vilniuje; Šv. Dvasios bažnyčia Vilniuje): owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Namas: mention_match, thing, gap=72"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šv. Dvasios bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Dvasios dominikonų bažnyčia Vilniuje; Šv. Dvasios bažnyčia Vilniuje)\" parinktas kaip owner_note_path. Targetas \"Namas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-81973
 
 <a id="claim-t-85991"></a>
 - t-004
   global_id: t-85991
-  teiginys: 'Šventosios Trejybės prieglaudai plėsti ketinta supirkti Šv. Dvasios bažnyčios namelius ir du namelius priešais bažnyčią.'
+  teiginys: "Šventosios Trejybės prieglaudai plėsti ketinta supirkti Šv. Dvasios bažnyčios namelius ir du namelius priešais bažnyčią."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "659819-660319; hash=49f412d256d5a183249287cd46f505381fb04e2ddb020ce867ed29eaa26cd83c; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Namas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šv. Dvasios bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Dvasios dominikonų bažnyčia Vilniuje; Šv. Dvasios bažnyčia Vilniuje): owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Namas: mention_match, thing, gap=78"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šv. Dvasios bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Dvasios dominikonų bažnyčia Vilniuje; Šv. Dvasios bažnyčia Vilniuje)\" parinktas kaip owner_note_path. Targetas \"Namas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-81969
 
 <a id="claim-t-85992"></a>
-- t-005
+- t-001
   global_id: t-85992
-  teiginys: '1501 m. Aleksandras pakvietė dominikonus į Vilnių, atidavė jiems Šv. Dvasios kleboniją ir skyrė lėšų bažnyčiai bei vienuolynui statyti.'
+  teiginys: "1501 m. Aleksandras pakvietė dominikonus į Vilnių, atidavė jiems Šv. Dvasios kleboniją ir skyrė lėšų bažnyčiai bei vienuolynui statyti."
+  semantiniai_rysiai: "Aleksandras keliavo į Vilnius (0.70)"
+  temporaliniai_duomenys: "įvykio data: 1501 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Fragmentas perrašytas į aiškų sakinį be nutrūkusių dalių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "478989-479379; hash=c76a53ab14359c293f800198a568a81408b4a55030f5b3e03d1ccc5780bf8057; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Aleksandras: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Aleksandras pakvietė dominikonus vykti į Vilnių; dominikonų kandidato nėra."
   pagrindžia:
-    - c-003
-
+    - c-81971
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -77,6 +142,7 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
     miausia, kaip ir kiti, būtų leidžiami į prieglaudą, o ši prie­
     glauda būtų plečiama.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -97,6 +163,7 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
     šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado­
     vaujant Vilniaus vyskupui18.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -115,6 +182,7 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
     vo kapeliono kunigo Korčiako mirties, jiems atidavė Šv. Dva­
     sios kleboniją, skyrė lėšų bažnyčiai ir vienuolynui statyti50.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -139,6 +207,7 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
     tokio pat didumo kunigo Korčiako
     paveikslą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -160,8 +229,105 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
     Vilniaus vyskupo valdinių, namo galo, per šimtą arba 34 uo­
     lektis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-81969
+  citata_originali: |
+    Taipgi norime, kad supirktų dėl Šventosios Trejybės prie­
+    glaudos praplėtimo prie dominikonų vienuolyno Šv. Dva­
+    sios [bažnyčios] namelius, stovinčius žemiau Šventosios
+    Trejybės bažnyčios, ties Merkelio Savickio namu nuo to, ku­
+    ris tik tuo metu turės, taip pat ir du kitus namelius viršuje
+    už prieglaudos, ten pat, priešais Šv. Dvasios bažnyčią, kad
+    jų didenybės nupirktų iš tų, kieno bus, ir taip, kad jie pir­
+    miausia, kaip ir kiti, būtų leidžiami į prieglaudą, o ši prie­
+    glauda būtų plečiama.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-85991
+
+- id: c-81970
+  citata_originali: |
+    Suteikdamas Hozijui teisę pasta­
+    tyti tiltą per Viliją, kad būtų pakeista nepatogi perkėla, kuria
+    iki tol buvo naudojamasi, karalius leido imti tam tikrą mo­
+    kestį nuo pravažiuojančių; be to, jis nutarė visuomenės pato­
+    gumui paskirti labdaringą ir Vilniui labai svarbią įstaigą. Ho-
+    zijus buvo įpareigotas vėliau, kai jam sugrįš tilto statybos
+    išlaidos, prie dominikonų Šv. Dvasios bažnyčios pastatyti vie­
+    šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado­
+    vaujant Vilniaus vyskupui18.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-85989
+
+- id: c-81971
+  citata_originali: |
+    Daugelis jų garsėjo su­
+    manumu ir turtais, bet labiausiai buvo žinomas Onka Hrice-
+    vičius, turtingas įvairių nuomos mokesčių rinkikas daugelyje
+    Lietuvos miestų nuo Vilniaus iki Smolensko49. Aleksandras
+    iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­
+    vo kapeliono kunigo Korčiako mirties, jiems atidavė Šv. Dva­
+    sios kleboniją, skyrė lėšų bažnyčiai ir vienuolynui statyti50.
+  citata_rodoma: "Aleksandras \niš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­\nvo kapeliono kunigo Korčiako mirties, jiems atidavė Šv. Dva­\nsios kleboniją, skyrė lėšų bažnyčiai ir vienuolynui statyti50."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-85992
+
+- id: c-81972
+  citata_originali: |
+    Pa-
+    49
+    Daug sutarčių su tuo Onka yra Lie­
+    tuvos Metrikoje, V knygoje, prie
+    1505 metų.
+    50
+    Iki šiol Šv. Dvasios dominikonų baž­
+    nyčioje galima pamatyti karaliaus
+    Aleksandro portretą visu ūgiu ant
+    pirmosios kolonos nuo įėjimo deši­
+    nėje pusėje, o ant priešais stovinčios -
+    tokio pat didumo kunigo Korčiako
+    paveikslą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-85988
+
+- id: c-81973
+  citata_originali: |
+    Dvasios vienuolyno tėvais reikalai taip susi­
+    klostė, kad apžiūrėjo tinkamą vietą, kurioje prieglaudą ir ki­
+    tus pagalbinius jos pastatus būtų galima patogiai pastatyti.
+    Šitaip jie nužymėjo ir apibrėžė: pradedant nuo įėjimo arba
+    vartų į prieglaudos namus, esančių iš gatvės priešais šv. Dva­
+    sios bažnyčios kapinių vartus, nuo tų vartų prasidedančia ri­
+    ba, į ilgį besitęsiančia įstrižai prieglaudos sklypo iki Petro Puz-
+    dravičiaus ir Povilo Piestavičiaus, piliečių, Maloningiausiojo
+    Vilniaus vyskupo valdinių, namo galo, per šimtą arba 34 uo­
+    lektis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-85990

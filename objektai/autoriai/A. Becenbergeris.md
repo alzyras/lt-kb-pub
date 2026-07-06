@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - autorius
   - mokslininkas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # A. Becenbergeris
 
@@ -25,23 +37,53 @@ A. Becenbergeris šiame šaltinyje minimas kaip kalbininkas ir tyrinėtojas, nag
 <a id="claim-t-56717"></a>
 - t-001
   global_id: t-56717
-  teiginys: 'A. Becenbergeris šiame šaltinyje pristatomas kaip tyrinėtojas, nustatęs lietuvių ir prūsų kalbinę ribą pagal vietovardžių paplitimą.'
+  teiginys: "A. Becenbergeris šiame šaltinyje pristatomas kaip tyrinėtojas, nustatęs lietuvių ir prūsų kalbinę ribą pagal vietovardžių paplitimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "9251-9736; hash=39aedf7f7ab54d9e5bd03fe2fa7744ca720632801c64d09fa3d16980ba57f6e7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> K. Būga: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "A. Becenbergeris: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "K. Būga: mention_match, author, gap=45"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Becenbergeris\" parinktas kaip owner_note_path. Targetas \"K. Būga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-57435
 
 <a id="claim-t-56718"></a>
-- t-002
+- t-003
   global_id: t-56718
-  teiginys: 'A. Becenbergerio darbai cituojami aptariant vietovardžius su šaknimi garb-.'
+  teiginys: "A. Becenbergerio darbai cituojami aptariant vietovardžius su šaknimi garb-."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "13100-13427; hash=b4301095e0007d2d67889e5c1a3b943d7af06ec6cef5c62f9baf9180a973323f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "A. Becenbergeris: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Baltai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Becenbergeris\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-57434
 
 <a id="claim-t-56719"></a>
-- t-003
+- t-002
   global_id: t-56719
-  teiginys: 'A. Becenbergeris nustatė, kad lietuviškos kilmės vietovardžiai paplitę į rytus nuo Deimenos ir Alnos.'
+  teiginys: "A. Becenbergeris nustatė, kad lietuviškos kilmės vietovardžiai paplitę į rytus nuo Deimenos ir Alnos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "9251-9736; hash=39aedf7f7ab54d9e5bd03fe2fa7744ca720632801c64d09fa3d16980ba57f6e7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Deimena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "A. Becenbergeris: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Deimena: mention_match, place, gap=83"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Becenbergeris\" parinktas kaip owner_note_path. Targetas \"Deimena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-57435
 - susijęs iš Alna: A. Becenbergeris nustatė, kad lietuviškos kilmės vietovardžiai paplitę į rytus nuo Deimenos ir Alnos.
 - susijęs iš [[objektai/autoriai/M. Tepenas.md#claim-t-64745|M. Tepenas]]: M. Tepenas, remdamasis įvairiais rašytiniais šaltiniais, padarė išvadą, kad skalviai ir nadruviai buvo lietuviai.
 - susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65935|Nadruviai]]: M. Tepenas, remdamasis rašytiniais šaltiniais, dar XIX a. laikė skalvius ir nadruvius lietuviais.
@@ -60,6 +102,7 @@ A. Becenbergeris šiame šaltinyje minimas kaip kalbininkas ir tyrinėtojas, nag
     rytinių baltų teritorijoje, bet plačiausiai juos paliudija prūsų garbis — Топоров B. H.
     Прусский язык, E—H, c. 156—158.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -81,9 +124,49 @@ A. Becenbergeris šiame šaltinyje minimas kaip kalbininkas ir tyrinėtojas, nag
 
       3 Būga K.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
     - t-001
+
+## Citatos
+
+- id: c-57434
+  citata_originali: |
+    Apskritai jotvingių kalba (ar
+
+
+      10 Bezzenberger A. Die littauisch-preussische Grenze..., S. 651—655; to paties, Dber
+    die Verbreitung..., S. 123—128; šiuo metu vietovardžių su garb- surasta ir jotvingių bei
+    rytinių baltų teritorijoje, bet plačiausiai juos paliudija prūsų garbis — Топоров B. H.
+    Прусский язык, E—H, c. 156—158.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-56718
+
+- id: c-57435
+  citata_originali: |
+    A. Becenbergeris nustatė, kad
+    vietovardžiai, kilę iš lietuviškų žodžių kiemas, upė, kalnas, paplitę į rytus nuo Deimenos
+    ir Alnos (kair. Priegliaus intako), o vietovardžiai, kilę  iš atitinkamų prūsiškų žodžių
+    caymis, ape, garbis,—  į vakarus. Taigi abiejų tyrinėtojų duomenimis, kalbinė riba tarp
+    lietuvių ir prūsų Ordino atsikraustymo metu ėjo apytiksliai natūraliomis ribomis — upėmis
+    Deimena, Priegliumi, Alnos žemupiu, Ašvenos ir Vangrapės aukštupiais iki Dubenykų
+
+
+
+
+      3 Būga K.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-56719
+    - t-56717

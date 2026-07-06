@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - sąvoka
   - valstybė
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # seniūnija
 
@@ -20,17 +32,25 @@ Aukštosios valstybinės vietos nebuvo atlyginamos iki pat XVIII amžiaus, bet k
 <a id="claim-t-03169"></a>
 - t-001
   global_id: t-03169
-  teiginys: 'Seniūnijos buvo valstybės dvarai, kuriuos suteikdavo kartu su aukštomis valstybinėmis pareigomis.'
+  teiginys: "Seniūnijos buvo valstybės dvarai, kuriuos suteikdavo kartu su aukštomis valstybinėmis pareigomis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "541249-541680; hash=a564a9f3ea55eb9770122f4af1d9135f9d549c9109b47e6163b7bdaab2138e86; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
+    - c-166374
 
 <a id="claim-t-182976"></a>
 - t-002
   global_id: t-182976
-  teiginys: 'Aukštosios valstybinės pareigos iki XVIII a. nebuvo atlyginamos, bet teikė įtakos valstybėje ir seniūnijomis vadintų valstybės dvarų.'
+  teiginys: "Aukštosios valstybinės pareigos iki XVIII a. nebuvo atlyginamos, bet teikė įtakos valstybėje ir seniūnijomis vadintų valstybės dvarų."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "541249-541680; hash=a564a9f3ea55eb9770122f4af1d9135f9d549c9109b47e6163b7bdaab2138e86; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
-
+    - c-166374
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -48,9 +68,32 @@ Aukštosios valstybinės vietos nebuvo atlyginamos iki pat XVIII amžiaus, bet k
     dengdavo valstybės pareigas einant padarytas išlaidas, bet ir
     nemažus turtus susikraudavo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+
+## Citatos
+
+- id: c-166374
+  citata_originali: |
+    Jiems vietos paprastai būdavo dovanos,
+
+
+    už kurias jie palaikydavo karaliaus politiką. Aukštosios vals-
+    tybinės vietos nebuvo atlyginamos iki pat XVIII amžiaus, bet
+    kandidatų į jas niekad netrūkdavo, nes jos duodavo ne tik įta-
+    kos valstybėje, bet ir valstybės dvarų, vadinamųjų seniū-
+    nijų. Iš jiems duodamų valdyti dvarų dažnas ne tik pa-
+    dengdavo valstybės pareigas einant padarytas išlaidas, bet ir
+    nemažus turtus susikraudavo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-03169
+    - t-182976

@@ -10,12 +10,24 @@ tags:
   - elekcija
   - paprotys
   - seimas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Bajorijos seimelių rinkimosi ir atstovų rinkimo praktika
 
 ## Santrauka
 
-1817 m. bajorijos seimeliai rinkosi baudžiavos panaikinimo šūkiais.
+Ir iš tikro 1817 metų seimeliai rinkosi baudžiavos panaikinimo šūkiais. Kas treji metai bajorija galėjo rinktis į seimelius Apskrities seimely ji svarstydavo savo reikalus ir išrinkdavo atstovus į apskrities įstaigas.
 
 ## Laikotarpis ir datos
 
@@ -38,16 +50,18 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-67047"></a>
 - t-001
   global_id: t-67047
-  teiginys: '1817 m. bajorijos seimeliai rinkosi baudžiavos panaikinimo šūkiais.'
+  teiginys: "1817 m. bajorijos seimeliai rinkosi baudžiavos panaikinimo šūkiais."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "926181-926454; hash=05fda4f17318743edaec857fd2d24c3761f16fd926ca49bc404f8e86355111f0; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+    - c-67101
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: '1817 m. bajorijos seimeliai rinkosi baudžiavos panaikinimo šūkiais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -57,8 +71,26 @@ Nenurodyta
     ties (pavieto) seimelis. Instrukcijoje savo atstovams į guberni-
     jos seimelį ukmergiškiai aiškiai reikalavo atleisti valstiečius nuo
     baudžiavos, tik be žemės.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-67101
+  citata_originali: |
+    Ir iš tikro 1817 metų seimeliai rinkosi baudžiavos pa-
+    naikinimo šūkiais. Ypač radikalus pasirodė Ukmergės apskri-
+    ties (pavieto) seimelis. Instrukcijoje savo atstovams į guberni-
+    jos seimelį ukmergiškiai aiškiai reikalavo atleisti valstiečius nuo
+    baudžiavos, tik be žemės.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67047

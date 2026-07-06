@@ -1,0 +1,86 @@
+---
+tipas: zodyno_irasas
+pavadinimas: 'dausos'
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - sąvoka
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# dausos
+
+## Santrauka
+
+Anas pomirtinis pasaulis buvo vadinamas dausomis; jis taip pat turėjo savo dvasių bei dievų.
+
+## Teiginiai
+
+<a id="claim-t-193292"></a>
+- t-001
+  global_id: t-193292
+  teiginys: "Anas pomirtinis pasaulis buvo vadinamas dausomis; jis taip pat turėjo savo dvasių bei dievų."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "85456-85919; hash=2b635423bb2709464382ff4cd8300f31ba075eda72da8982e448161726cc835f; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
+  vertinimo_autorius: "rewrite_source_claims / reject"
+  pagrindžia:
+    - c-176020
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Anas pomirtinis pasaulis buvo vadinamas dausomis; jis taip pat turėjo savo dvasių bei dievų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Vieni žmonės, ypač žy-
+    mesnieji, pirma buvo sudeginami ant laužo, o paskui buvo lai-
+    dojami jų ir kartu sudeginto turto pelenai; kiti buvo laidojami
+    su daiktais nesudeginti. Anas pomirtinis pasaulis buvo vadi-
+    namas dausomis; jis taip pat turėjo savo dvasių bei dievų.
+    Tačiau aisčiai tikėjo, kad mirusiųjų vėlės nesiskiriančios nuo
+    šeimų ir gyventos aplinkos: jos apsigyvenančios gyvuliuose ar
+    medžiuose, augančiuose ant jų kapų, ir būnančios savo šeimų
+    globėjos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Citatos
+
+- id: c-176020
+  citata_originali: |
+    Vieni žmonės, ypač žy-
+    mesnieji, pirma buvo sudeginami ant laužo, o paskui buvo lai-
+    dojami jų ir kartu sudeginto turto pelenai; kiti buvo laidojami
+    su daiktais nesudeginti. Anas pomirtinis pasaulis buvo vadi-
+    namas dausomis; jis taip pat turėjo savo dvasių bei dievų.
+    Tačiau aisčiai tikėjo, kad mirusiųjų vėlės nesiskiriančios nuo
+    šeimų ir gyventos aplinkos: jos apsigyvenančios gyvuliuose ar
+    medžiuose, augančiuose ant jų kapų, ir būnančios savo šeimų
+    globėjos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193292

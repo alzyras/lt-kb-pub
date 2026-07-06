@@ -9,6 +9,18 @@ tags:
   - asmuo
   - ežeras
   - pilis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Skomantas (lietuvių vadas)
 
@@ -21,10 +33,20 @@ Kitais metais sūduvių ir lietuvių vadas Skomantas (Didžiojo magistro kroniko
 <a id="claim-t-40424"></a>
 - t-001
   global_id: t-40424
-  teiginys: 'Sūduvių ir lietuvių vadas Skomantas su didele kariuomene siaubė Kulmo teritoriją, puolė Kulmą ir sunaikino Eimsučio bei Cipelio pilis.'
+  teiginys: "Sūduvių ir lietuvių vadas Skomantas su didele kariuomene siaubė Kulmo teritoriją, puolė Kulmą ir sunaikino Eimsučio bei Cipelio pilis."
+  semantiniai_rysiai: "Skomantas (lietuvių vadas) puolė Kulmas (0.96)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "109409-109994; hash=30100a0e87b1ccc075082c31ebdc94932d4fbf4744ba0f155a3991efd3393de0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Kulmas: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skomantas (lietuvių vadas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kulmas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Skomantas puolė Kulmą."
   pagrindžia:
-    - c-001
-
+    - c-44511
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,11 +68,39 @@ Kitais metais sūduvių ir lietuvių vadas Skomantas (Didžiojo magistro kroniko
     puolė Elbingą, paėmė papilį, sunaikino dvi
     pilis į rytus nuo Drūsinės ežero.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-44511
+  citata_originali: |
+    Kulmo
+    žemėje ir šiauriau - Pamedėje po permai-
+    ningų susidūrimų sumušė vokiečių pa-
+    jėgas prie Zirgunos, ties Pagansčių kaimu
+    netoli Kristburgo. Kitais metais sūduvių ir
+    lietuvių vadas Skomantas (Didžiojo ma-
+    gistro kronikoje Skomantas vadinamas tie-
+    siog „lietuvių vadu“) su didele sūduvių ir
+    kitų Lietuvai pavaldžių žemių kariuomene
+    siaubė Kulmo teritoriją, puolė patį Kulmą,
+    sunaikino Eimsučio (Heimsoto) ir Cipelio
+    pilis. Kiek vėliau sūduviai su pagudėnais ir
+    kitais prūsais, „subūrę stiprią kariuomenę“,
+    puolė Elbingą, paėmė papilį, sunaikino dvi
+    pilis į rytus nuo Drūsinės ežero.
+  citata_rodoma: "Kitais metais sūduvių ir\nlietuvių vadas Skomantas (Didžiojo ma-\ngistro kronikoje Skomantas vadinamas tie-\nsiog „lietuvių vadu“) su didele sūduvių ir\nkitų Lietuvai pavaldžių žemių kariuomene\nsiaubė Kulmo teritoriją, puolė patį Kulmą,\nsunaikino Eimsučio (Heimsoto) ir Cipelio\npilis. Kiek vėliau sūduviai su pagudėnais ir\nkitais prūsais, „subūrę stiprią kariuomenę“,\npuolė Elbingą, paėmė papilį, sunaikino dvi\npilis į rytus nuo Drūsinės ežero."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40424
 
 ## Ryšiai
 - Skomantas (lietuvių vadas) puolė [[objektai/vietos/Kulmas]]

@@ -20,6 +20,18 @@ tags:
   - mokslininkas
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Čekai
 
@@ -30,46 +42,136 @@ amziai:
 ## Teiginiai
 
 <a id="claim-t-50766"></a>
-- t-001
+- t-002
   global_id: t-50766
-  teiginys: 'Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio mūšyje.'
+  teiginys: "Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio mūšyje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "304467-304831; hash=0e6eababf8293eb680c53929c66b0f6a9097b69482a2144f1bde8e7409743bae; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Konstancija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Čekai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Konstancija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Čekai\" parinktas kaip owner_note_path. Targetas \"Konstancija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-36971
 
 <a id="claim-t-50767"></a>
-- t-002
+- t-001
   global_id: t-50767
-  teiginys: 'Čekų kunigai kartu su lenkais dalyvavo Aukštaičių ir Žemaičių krikšte.'
+  teiginys: "Čekų kunigai kartu su lenkais dalyvavo Aukštaičių ir Žemaičių krikšte."
+  temporaliniai_duomenys: "įvykio data: 1413 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "304164-304466; hash=9a65bf474e7431560bab52e91e1c4a4c8398f88eea553c789f0af8236631e148; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Čekai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Čekai\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-36970
 
 <a id="claim-t-50768"></a>
 - t-003
   global_id: t-50768
-  teiginys: '1421 m. čekų pasiuntinys Hinka iš Valdšteino pasiūlė karūną Jogailai, o vėliau čekai kreipėsi į Vytautą.'
+  teiginys: "1421 m. čekų pasiuntinys Hinka iš Valdšteino pasiūlė karūną Jogailai, o vėliau čekai kreipėsi į Vytautą."
+  temporaliniai_duomenys: "įvykio data: 1421 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "342705-343228; hash=52cc2ff8fb4a6bf30713e05dcd40533da569fbf6700926c01d7916863e120f3b; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Hinka iš Valdšteino: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Čekai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Hinka iš Valdšteino: mention_match, person, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Čekai\" parinktas kaip owner_note_path. Targetas \"Hinka iš Valdšteino\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-36973
 
 <a id="claim-t-50769"></a>
 - t-004
   global_id: t-50769
-  teiginys: 'Vytautas atsisakė su čekais susijusio sumanymo, supratęs, kad husitų siūlyta karūna galėtų per brangiai kainuoti.'
+  teiginys: "Vytautas atsisakė su čekais susijusio sumanymo, supratęs, kad husitų siūlyta karūna galėtų per brangiai kainuoti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "654331-654713; hash=ae0b850a6a5a3c50d742ad7eb3a0124ec9178a55aff5f7f11d0e9675097cc9bf; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Husitai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Čekai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Husitai: mention_match, group, gap=41"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Čekai\" parinktas kaip owner_note_path. Targetas \"Husitai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-36974
+
+<a id="claim-t-184228"></a>
+- t-005
+  global_id: t-184228
+  teiginys: "Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio mūšyje."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1413 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys ir atitinka citatos informaciją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "304327-304663; hash=bddea83fc34b7a6ae030e5336044331d0f572489fb74d4f386b3dc5e6a369be7; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Praga: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Čekai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Praga: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Čekai\" parinktas kaip owner_note_path. Targetas \"Praga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  pagrindžia:
+    - c-167612
 
 <a id="claim-t-184589"></a>
 - t-006
   global_id: t-184589
-  teiginys: 'Kilus tikybiniams nesutarimams, čekai atsisakė klausyti Romos bažnyčios, maištavo prieš savo karalių ir ieškojo paramos kaimyninėse šalyse.'
+  teiginys: "Kilus tikybiniams nesutarimams, čekai atsisakė klausyti Romos bažnyčios, maištavo prieš savo karalių ir ieškojo paramos kaimyninėse šalyse."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1419 m.; įvykio data: 1420 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir palikta tik citatos paremta mintis apie čekus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "698471-699245; hash=fd17a9608fa6e8c9a5cf1b37ab4a2a16511d1d1448077f2803e12c0b2ff25e6f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Čekai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Čekai\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-167950
 
 <a id="claim-t-184590"></a>
 - t-007
   global_id: t-184590
-  teiginys: 'Čekai neišsižadėjo sumanymo ir antrą kartą siuntė pasiuntinius bandyti palenkti Jogailą bei Vytautą.'
+  teiginys: "Čekai neišsižadėjo sumanymo ir antrą kartą siuntė pasiuntinius bandyti palenkti Jogailą bei Vytautą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "699796-700048; hash=2fde76827256c747b8535fbb316cab146be23dac99da40f87df30fdf7f373342; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-007
+    - c-167951
 - susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-176882|Zigmantas Liuksemburgietis]]: Vytautas pasiuntė Zigmantą Kaributą į Čekiją padėti husitams kovoti su imperatoriumi Zigmantu Liuksemburgiečiu.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176307|Algirdas (Lietuvos valdovas)]]: Algirdo ir Kęstučio laikais Lietuvoje kursavo Čekijos grašiai, kurių 60 sudarydavo vieną rublį.
 - susijęs iš [[objektai/asmenys/Lada.md#claim-t-186231|Lada]]: Lada, čekų kilmės Krokuvos miestietis, bandė su šimtine pėstininkų nusigauti į Maskvą, bet pasienyje buvo sugautas.
@@ -154,6 +256,7 @@ amziai:
 - susijęs iš [[objektai/ivykiai/Lietuvos luomų seimas dėl Medininkų vyskupystės raštų sutvarkymo (1421 m.).md#claim-t-185816|Lietuvos luomų seimas dėl Medininkų vyskupystės raštų sutvarkymo (1421 m.)]]: 1421 m. Vytautas sušaukė Lietuvos luomų seimą ir, visiems pritariant, parūpino valstybinius raštus dėl Medininkų vyskupystės.
 - susijęs iš [[objektai/ivykiai/Vaclovo Pragiečio sprendimas ir vienerių metų paliaubos su Ordinu (1409 m.).md#claim-t-34558|Vaclovo Pragiečio sprendimas ir vienerių metų paliaubos su Ordinu (1409 m.)]]: Įsikišus Čekijos karaliui Vaclovui, kariaujančios pusės sudarė vienerių metų paliaubas.
 - susijęs iš [[objektai/ivykiai/Čekų pasiūlymas Jogailai ir Vytautui priimti Čekijos karaliaus vainiką ir abiejų atsisakymas (1420 m.).md#claim-t-185675|Čekų pasiūlymas Jogailai ir Vytautui priimti Čekijos karaliaus vainiką ir abiejų atsisakymas (1420 m.)]]: Čekai, tikėdamiesi Jogailos ir Vytauto paramos prieš imperatorių Zigmantą, pasiūlė jiems Čekijos karaliaus vainiką.
+- susijęs iš [[objektai/ivykiai/Šv. Adalberto bažnytėlės datavimas, statyba ir 1669 m. audra.md#claim-t-192023|Šv. Adalberto bažnytėlės datavimas, statyba ir 1669 m. audra]]: Narbutas, remdamasis Foigtu ir vietiniais padavimais, Šv. Adalberto bažnytėlės pradžią sieja su XIII a. pabaiga, o mūrinę statybą – su 1422 m.
 - susijęs iš [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.).md#claim-t-92952|Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]: 1420 m. husitai pasiūlė Jogailai šv. Vaclovo karūną, bet jis atsakė negalįs jos priimti nepasitaręs su Vytautu.
 - susijęs iš [[objektai/paprociai/Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika.md#claim-t-54230|Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika]]: Lietuvos Metrikos dokumentai laikomi svarbiausiu LDK istorijos šaltiniu.
 - susijęs iš [[objektai/paprociai/Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime.md#claim-t-87169|Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime]]: 1422 m. Vilniui leista kartu su svarbiausiais karalystės miestais laiduoti sutartį su kryžiuočiais prie Osos upės.
@@ -200,6 +303,7 @@ amziai:
 - susijęs iš [[objektai/zodynas/karaliaus vainikas.md#claim-t-185350|karaliaus vainikas]]: Čekai neišsižadėjo sumanymo ir antrą kartą siuntė žygūnus palenkti Jogailą bei Vytautą priimti karaliaus vainiką.
 - susijęs iš [[objektai/zodynas/karaliaus vainikas.md#claim-t-185351|karaliaus vainikas]]: Žygimantas, Dimitro Kaributaičio sūnus, apibūdintas kaip prityręs karvedys, galintis užsidėti bet kokios karalystės vainiką.
 - susijęs iš [[objektai/zodynas/rublis.md#claim-t-34275|rublis]]: Lietuvoje nuo Algirdo ir Kęstučio laikų kursavo Čekijos grašiai, kurių 60 sudarė vieną rublį.
+- susijęs iš [[objektai/ivykiai/Šv. Adalberto bažnytėlės datavimas, statyba ir 1669 m. audra.md#claim-t-192023|Šv. Adalberto bažnytėlės datavimas, statyba ir 1669 m. audra]]: Narbutas, remdamasis Foigtu ir vietiniais padavimais, Šv. Adalberto bažnytėlės pradžią sieja su XIII a. pabaiga, o mūrinę statybą – su 1422 m.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -211,8 +315,9 @@ amziai:
     lankėsi abudu Pragos Jeronimai, kurių vienas (katalikas) buvo
     nuvykęs skelbti katalikų tikėjimo Žemaitijoje dar prieš 1413 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -227,8 +332,9 @@ amziai:
     šingas Jono Huso mokslas, Konstancijos susirinkime pasmerk­
     tas, per čekus jis ėmė skverbtis Lenkijon ir Lietuvon.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -246,8 +352,9 @@ amziai:
     Vytautą savo karalium, kuris pasiuntė jiems savo vietininku
     sūnėną Zigmantą Kaributą su keliolika tūkstančių kareivių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -264,6 +371,7 @@ amziai:
     jęs, kad kuris pasirinktas kelias netinka, jis keičia kryptį, neat­
     sisakydamas tuo nuo savo vyriausiųjų uždavinių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -282,6 +390,7 @@ amziai:
     komi. Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio
     mūšyje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -317,6 +426,7 @@ amziai:
     čius teisėto valdovo valdžios,
     pasisiūlyti į valdinius.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -334,11 +444,141 @@ amziai:
     gūnus, jie vėl bandė palenkti Jogailos bei Vytauto šir­
     dis.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
+## Citatos
+
+- id: c-36970
+  citata_originali: |
+    Čekai jo metu nebuvo Lietuvai svetimi žmonės. Jų kuni­
+    gai kartu su lenkais dalyvavo Aukštaičių ir Žemaičių krikšte.
+    Vienas čekų kunigas buvo Vilniaus kapituloje. Vytauto dvare
+    lankėsi abudu Pragos Jeronimai, kurių vienas (katalikas) buvo
+    nuvykęs skelbti katalikų tikėjimo Žemaitijoje dar prieš 1413 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-50767
+
+- id: c-36971
+  citata_originali: |
+    Netrūko prie Vytauto dvaro ir pasauliečių čekų, kurie tokiose
+    vietose, ypač Lenkijoje, kaip labiau išsilavinę, buvo mielai lai­
+    komi. Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio
+    mūšyje. Todėl kai Čekijoje pasklido Katalikų Bažnyčiai prie­
+    šingas Jono Huso mokslas, Konstancijos susirinkime pasmerk­
+    tas, per čekus jis ėmė skverbtis Lenkijon ir Lietuvon.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-50766
+
+- id: c-36973
+  citata_originali: |
+    Čekai, nenustoję vilties, vėl išsiuntė
+    savo pasiuntinį Hinką iš Valdšteino, kurį Jogaila su Vytautu
+    priėmė 1421 m. Pirmiausia pasiuntinys pasiūlė karūną Jogai­
+    lai, kuris atsakė, kad tuo reikalu sušauksiąs Liubline seimą.
+    Čekai, nenorėdami laukti, kreipėsi tuojau į Vytautą, kuris pa­
+    siūlymą priėmė palankiai, nežiūrint to, kad Jogaila su tuo ne­
+    sutikęs. Tada čekai Kutnos Hožos seime (1421) ir išrinko
+    Vytautą savo karalium, kuris pasiuntė jiems savo vietininku
+    sūnėną Zigmantą Kaributą su keliolika tūkstančių kareivių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-50768
+
+- id: c-36974
+  citata_originali: |
+    Pamatęs, kad jo jė­
+    gos nebesutinka su užsimojimais, jis atsisako nuo sumanymo:
+    taip buvo su čekais, kai suprato, kad husitų siūlyta karūna ga­
+    lėtų jam per brangiai kaštuoti, taip buvo su bažnytinės unijos
+    mėginimu, kai paaiškėjo, kad ją sunku įgyvendinti. Pastebė­
+    jęs, kad kuris pasirinktas kelias netinka, jis keičia kryptį, neat­
+    sisakydamas tuo nuo savo vyriausiųjų uždavinių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-50769
+
+- id: c-167612
+  citata_originali: |
+    Vytauto dvare
+    lankėsi abudu Pragos Jeronimai, kurių vienas (katalikas) buvo
+    nuvykęs skelbti katalikų tikėjimo Žemaitijoje dar prieš 1413 m.
+    Netrūko prie Vytauto dvaro ir pasauliečių čekų, kurie tokiose
+    vietose, ypač Lenkijoje, kaip labiau išsilavinę, buvo mielai lai­
+    komi. Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio
+    mūšyje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184228
+
+- id: c-167950
+  citata_originali: |
+    Jogaila
+    1419 m e ta i
+    ir Vytautas, įsitikinę, jog len­
+    kų reikalavimai teisėti, neat­
+    metė šitokios galimybės ginčui išspręsti. Kai paaiškėjo,
+    kad imperatoriaus sprendimai nesiremia teisingumu,
+    kad jo skelbiamos ištarmės pažeidžia net moralės nor­
+    mas, jie atsisakė jo tarpinin-
+    1420 m e ta i
+    kavimo ir pasiryžo ginklu įro-
+    kilusių tikybinių nesutarimų čekai atsisakė klausyti
+    Romos bažnyčios, pradėjo atvirai maištauti prieš savo
+    karalių ir, kaip jau esu sakęs, sugalvojo paieškoti kai­
+    myninėse šalyse jėgų, kuriomis galėtų remtis kovoje
+    prieš imperatoriaus galybę. Žinodami, kad pastarojo
+    Č ek a i siūlo karaliaus
+    v a in ik ą
+    Jog a ila i
+    ir
+    V y ta u tu i
+    šiaurėje bei rytuose ir paska­
+    tino kaimynus čekus, atsikra­
+    čius teisėto valdovo valdžios,
+    pasisiūlyti į valdinius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184589
+
+- id: c-167951
+  citata_originali: |
+    Panašų atsakymą gavo jie ir iš
+    Vytauto. Tačiau čekai neišsižadėjo savo sumanymo,
+    manydami, jog troškimas gauti karaliaus vainiką įveiks
+    kiekvieną atkaklų užsispyrėlį. Antrą kartą pasiuntę žy­
+    gūnus, jie vėl bandė palenkti Jogailos bei Vytauto šir­
+    dis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184590
 
 ## Ryšiai
 - Kariavo prieš: [[objektai/asmenys/Zigmantas Liuksemburgietis]]

@@ -10,6 +10,18 @@ tags:
   - kunigaikštis
   - paprotys
   - privilegija
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija
 
@@ -39,13 +51,39 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-54262"></a>
-- t-001
-  global_id: t-54262
-  teiginys: 'Lenkijoje ir Lietuvoje tolerancijos ribos vėliau siaurėjo lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki XX a.'
+<a id="claim-t-54263"></a>
+- t-002
+  global_id: t-54263
+  teiginys: "Lenkijoje ir Lietuvoje tolerancijos ribos vėliau siaurėjo lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki XX a."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "139596-140088; hash=ec918fb4da7390ad7f4cd8ab2611c9c754e80056cbce8220c243f05536490af9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=3"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-55153
 
+<a id="claim-t-54263"></a>
+- t-002
+  global_id: t-54263
+  teiginys: "Lenkijoje ir Lietuvoje tolerancijos ribos vėliau siaurėjo lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki XX a."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "139596-140088; hash=ec918fb4da7390ad7f4cd8ab2611c9c754e80056cbce8220c243f05536490af9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=3"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-55153
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -60,8 +98,28 @@ Nenurodyta
     Lenkijoje, tiek Lietuvoje tolerancijos ribos vis siaurėjo, bet pokyčiai vyko
     lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki pat XX a.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-55153
+  citata_originali: |
+    Jau Pirmasis Lietuvos Statutas (1529), dar neži-
+    nant reformacijos, skiriamas ne tiktai katalikų, bet ir ortodoksų bajorijai.
+    Nors šis įstatymų garantuotas lygiateisiškumas tiesiogiai nelietė nekrikš-
+    čioniškų konfesijų (judėjų, karaimų ir musulmonų totorių), jų etninės
+    bendruomenės ir religija toleruojamos nuo XIV a. pabaigos. Vėliau tiek
+    Lenkijoje, tiek Lietuvoje tolerancijos ribos vis siaurėjo, bet pokyčiai vyko
+    lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki pat XX a.
+  citata_rodoma: "Jau Pirmasis Lietuvos Statutas (1529), dar neži-\nnant reformacijos, skiriamas ne tiktai katalikų, bet ir ortodoksų bajorijai. \nNors šis įstatymų garantuotas lygiateisiškumas tiesiogiai nelietė nekrikš-\nčioniškų konfesijų (judėjų, karaimų ir musulmonų totorių), jų etninės \nbendruomenės ir religija toleruojamos nuo XIV a. pabaigos. Vėliau tiek \nLenkijoje, tiek Lietuvoje tolerancijos ribos vis siaurėjo, bet pokyčiai vyko \nlėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki pat XX a."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54263

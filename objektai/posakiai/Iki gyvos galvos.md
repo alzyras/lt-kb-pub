@@ -10,6 +10,18 @@ tags:
   - posakis
   - tauta
   - vyskupas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Iki gyvos galvos
 
@@ -22,9 +34,19 @@ Tai žinodami, kaip palankumo ženklą skiriame jam du šimtus lenkiško svorio 
 <a id="claim-t-86851"></a>
 - t-001
   global_id: t-86851
-  teiginys: 'Vilniaus vyskupui Andriui iki gyvos galvos buvo paskirta šimtas grivinų iš iždo ir kasmetinė medaus duoklė iš Vilniaus pilies.'
+  teiginys: "Vilniaus vyskupui Andriui iki gyvos galvos buvo paskirta šimtas grivinų iš iždo ir kasmetinė medaus duoklė iš Vilniaus pilies."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "312719-314853; hash=2a4e525e0f85b765edbfa25a721f7f48a9c21ade32b7d17b161e5c24e52e4e08; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> duoklė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Iki gyvos galvos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "duoklė: mention_match, thing, gap=74"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Iki gyvos galvos\" parinktas kaip owner_note_path. Targetas \"duoklė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-82830
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82176|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis žmonai Elenai iki gyvos galvos dovanojo Mogiliavo pilį prie Dniepro su jos valdomis.
 - susijęs iš [[objektai/asmenys/Mendli Girėjus.md#claim-t-87443|Mendli Girėjus]]: Aleksandras siekė suimti ir įbauginti Mendli Girėjų, todėl Šach Achmedas buvo iki gyvos galvos įkalintas Kaune.
 - susijęs iš [[objektai/asmenys/Ulrikas Hozijus.md#claim-t-87365|Ulrikas Hozijus]]: 1515 m. karalius leido Ulrikui Hozijui savo lėšomis statytis malūną ir iki gyvos galvos imti trečią grūdą.
@@ -109,8 +131,77 @@ Tai žinodami, kaip palankumo ženklą skiriame jam du šimtus lenkiško svorio 
     vienais metais, taip pat iki gyvos
     galvos, ir 1.1.].
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-82830
+  citata_originali: |
+    Ten, be kita ko, pasakyta: ...habito-
+    cfue respectu ad multae devotionis cons­
+    tantiam et fructuosorum salubriumque
+    operum solertiam, quibus venerabilis in
+    Christo Pater, D-nus Andraeas Eppus
+    Ecclesiae Vilnen. circa gentem Lituani-
+    cam, noviter de tenebris, gentilitatis, ad
+    agnitionem Catholicae unitatis educ­
+    tam, insudare studuit, se et sua bona
+    circa doctrinam neophitorum, et exem­
+    pla clarissima, omnibus periculis, et
+    cunctis defectibus, pro Christi nomine,
+    tanquam verus imitator exponendo. Ho­
+    rum intuitu sibi de Ducentis marcis,
+    ponderis et numeri Polonie, quadragin­
+    ta octo grossos computando pro quoli­
+    bet marca, centum vet. ad tempora vi­
+    tae suae, de thesauris nostris, et centum
+    donec pax habeatur inter terram nost­
+    ram Lithuaniae, et Cruciferos de Prus­
+    sia, similiter de tesauris nostris, singu­
+    lis annis in festo Nativitatis Christi
+    solvendis, ac decem pullis mellis alias
+    Stawna lukna dictis, de Castro nostro
+    Vilnensi, et ejus Cellariis, similiter in
+    festo nativitatis Christi, singulis annis,
+    etiam ad tempora suae vitae, gratiose
+    providimus, etc. [... ir atsižvelgę į ne­
+    blėstantį pasišventimą ir gausą vai­
+    singų bei naudingų darbų, kuriuos
+    garbingasis Tėvas Kristuje, ponas
+    Vilniaus bažnyčios vyskupas An­
+    drius nudirbo lietuvių tautos, nau­
+    jai iš pagonybės tamsybių į katali­
+    kiškosios vienybės pažinimą atves­
+    tos, naudai, skirdamas save ir savo
+    turtą naujakrikščių mokymui, ir
+    kaip tikras sekėjas, Kristaus vardu
+    rodydamas šlovingus pavyzdžius
+    visų pavojų ir ydų akivaizdoje. Tai
+    žinodami, kaip palankumo ženklą
+    skiriame jam du šimtus lenkiško
+    svorio ir skaičiaus grivinų, skaičiuo­
+    jant po keturiasdešimt aštuonis gra­
+    šius už kiekvieną griviną, šimtą iki
+    gyvos galvos iš mūsų iždo ir šimtą,
+    kol bus pasiekta taika tarp mūsų
+    Lietuvos žemių ir kryžiuočių iš Prū­
+    sijos, iš mūsų iždo kiekvienais me­
+    tais per Kalėdas išmokamas, taip
+    pat dešimt tošinių medaus, vadina­
+    mų Stawna lukna (medaus duoklė)
+    nustatytos talpos indas - tošinė, lie­
+    pinė], iš mūsų Vilniaus pilies ir jos
+    sandėlių, taip pat per Kalėdas, kiek­
+    vienais metais, taip pat iki gyvos
+    galvos, ir 1.1.].
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86851

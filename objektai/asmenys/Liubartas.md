@@ -11,11 +11,6 @@ datos:
   - '1385 m.'
 date_start: '1340'
 date_end: '1385'
-description: 'Gedimino sūnus Liubartas, Voluinės valdovas ir paveldėtojas, po 1340 m. varžęsis su Kazimieru Didžiuoju dėl Haličo ir Volynijos.'
-socialDescription: 'Liubartas – Gedimino sūnus, per vedybas įgijęs teisių Voluinėje ir ilgai gynęs ją kovose su Lenkija.'
-seo_atnaujinta: '2026-07-02T20:14:54.818250+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -24,113 +19,299 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Liubartas
 
 ## Santrauka
 
-Liubartas – Gedimino sūnus, stačiatikių srityse priėmęs jų tikėjimą ir per vedybas įgijęs teisių Voluinėje. Po Haličo Boleslovo Jurgio Traidenaičio mirties 1340 m. jis varžėsi su Kazimieru Didžiuoju dėl Haličo ir Volynijos, o Voluinę atlaikė kovose su lenkais. Korpuse jis siejamas su ilgomis paveldėjimo kovomis iki mirties 1385 m.
+Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos paveldėjimo teisių turėtojas, ilgai gynęs Lietuvos interesus prieš Lenkiją.
 
 ## Teiginiai
 
 <a id="claim-t-05195"></a>
-- t-001
+- t-005
   global_id: t-05195
-  teiginys: 'Liubartas buvo vienas iš Gedimino sūnų, kurie, gavę dalis stačiatikių srityse, priėmė jų tikėjimą.'
+  teiginys: "Liubartas buvo vienas iš Gedimino sūnų, kurie, gavę dalis stačiatikių srityse, priėmė jų tikėjimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "635949-636222; hash=4fdb951e1b668d4d4cc680f48a2b9b40c8c47e18c2fc4e545633521ed6677208; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Liubartas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=25"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liubartas\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-06238
 
 <a id="claim-t-05197"></a>
-- t-002
+- t-007
   global_id: t-05197
-  teiginys: 'Remdamasis giminystės ir paveldėjimo teisėmis, Liubartas įsitvirtino Volinijoje ir beveik iki mirties 1385 m. kovojo su Lenkija dėl kitos palikimo dalies.'
+  teiginys: "Remdamasis giminystės ir paveldėjimo teisėmis, Liubartas įsitvirtino Volinijoje ir beveik iki mirties 1385 m. kovojo su Lenkija dėl kitos palikimo dalies."
+  temporaliniai_duomenys: "mūšio data: 1340 m.; mūšio data: 1385 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "665637-666008; hash=dca64b5703e192390339e718d8168fdbb262fde5d1f2750ee9fc2b3f88341114; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Liubartas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=73"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liubartas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-06239
 
 <a id="claim-t-12192"></a>
-- t-003
+- t-009
   global_id: t-12192
-  teiginys: 'Liubartas vedė paskutinio Volynijos kunigaikščio vienturtę dukterį.'
+  teiginys: "Liubartas vedė paskutinio Volynijos kunigaikščio vienturtę dukterį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "21566-21844; hash=42e1c9b198b235beff7365043e24ff2a20c5357d58418cf0aa428b6faf39cc98; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Liubartas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liubartas\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-13T14:24:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-003
-    - c-004
+    - c-15266
+    - c-15267
 
 <a id="claim-t-12193"></a>
-- t-004
+- t-010
   global_id: t-12193
-  teiginys: '1340 m., mirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo ir Volynijos varžėsi Gedimino sūnus Liubartas ir Kazimieras Didysis.'
+  teiginys: "1340 m., mirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo ir Volynijos varžėsi Gedimino sūnus Liubartas ir Kazimieras Didysis."
+  temporaliniai_duomenys: "įvykio data: 1340 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "680365-680884; hash=12670d85de6037a9ba084790e8544dd5e07c8082d8d66a20c879216da54e095d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kazimieras Didysis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Liubartas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kazimieras Didysis: mention_match, person, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liubartas\" parinktas kaip owner_note_path. Targetas \"Kazimieras Didysis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-15267
 
 <a id="claim-t-93458"></a>
-- t-005
+- t-011
   global_id: t-93458
-  teiginys: 'Liubartas vedė vienturtę Volynijos kunigaikščio įpėdinę.'
+  teiginys: "Liubartas vedė vienturtę Volynijos kunigaikščio įpėdinę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "21566-21844; hash=42e1c9b198b235beff7365043e24ff2a20c5357d58418cf0aa428b6faf39cc98; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Liubartas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liubartas\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-15266
 
 <a id="claim-t-93460"></a>
-- t-006
+- t-017
   global_id: t-93460
-  teiginys: 'Liubartas per kovas su lenkais atlaikė Voluinę.'
+  teiginys: "Liubartas per kovas su lenkais atlaikė Voluinę."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "186129-186398; hash=604c8ca43a027252fcba5cae4a45c92f08ecceec7a5f6f3f5602dcf8e95a60b3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Liubartas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liubartas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-13T15:43:24Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-005
+    - c-88823
 
 <a id="claim-t-93461"></a>
-- t-007
+- t-019
   global_id: t-93461
-  teiginys: 'Prieš Gedimino mirtį Liubartas buvo vedęs Voluinės kunigaikštytę ir valdė dalį Voluinės.'
+  teiginys: "Prieš Gedimino mirtį Liubartas buvo vedęs Voluinės kunigaikštytę ir valdė dalį Voluinės."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "168640-169010; hash=c64cc8b3b1de850acfc51dc0c2b07f57cfb3183304d57bbc05fa602b9482c00a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Voluinė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Liubartas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Voluinė: mention_match, place, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liubartas\" parinktas kaip owner_note_path. Targetas \"Voluinė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-88825
 
 <a id="claim-t-93463"></a>
-- t-008
+- t-012
   global_id: t-93463
-  teiginys: '1340 m. dėl Haličo ir Volynijos varžėsi Gedimino sūnus Liubartas ir Boleslovo giminaitis Kazimieras Didysis.'
+  teiginys: "1340 m. dėl Haličo ir Volynijos varžėsi Gedimino sūnus Liubartas ir Boleslovo giminaitis Kazimieras Didysis."
+  temporaliniai_duomenys: "įvykio data: 1340 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas fragmentiškumas ir OCR triukšmas; citata palaiko varžymąsi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "680365-680884; hash=12670d85de6037a9ba084790e8544dd5e07c8082d8d66a20c879216da54e095d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kazimieras Didysis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Liubartas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kazimieras Didysis: mention_match, person, gap=34"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liubartas\" parinktas kaip owner_note_path. Targetas \"Kazimieras Didysis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-15267
 
 <a id="claim-t-184773"></a>
-- t-009
+- t-013
   global_id: t-184773
-  teiginys: 'Liubartas ir Pisimantas iš šiaurinės Rusios buvo pakviesti į pagalbą su savo pulkais.'
+  teiginys: "Liubartas ir Pisimantas iš šiaurinės Rusios buvo pakviesti į pagalbą su savo pulkais."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "146112-146615; hash=9fec8544a784a1ee05ed4986200b63cffd6d4c9a3bbf99354622cb930e30292d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pisimantas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Liubartas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Pisimantas: mention_match, person, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liubartas\" parinktas kaip owner_note_path. Targetas \"Pisimantas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-168134
 
 <a id="claim-t-184774"></a>
-- t-010
+- t-014
   global_id: t-184774
-  teiginys: 'Liubartas, Pisimantas, Drucko kunigaikštis Michailas ir Lucko valdovas Andrejus žuvo tame pačiame mūšyje.'
+  teiginys: "Liubartas, Pisimantas, Drucko kunigaikštis Michailas ir Lucko valdovas Andrejus žuvo tame pačiame mūšyje."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "148569-149254; hash=fbf0a96e461b5b7fb26ad46264a9dd59ac160482f3efedb725de75525b8ab38f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Druckas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Liubartas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Druckas: mention_match, place, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liubartas\" parinktas kaip owner_note_path. Targetas \"Druckas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-168135
 
 <a id="claim-t-184775"></a>
-- t-011
+- t-015
   global_id: t-184775
-  teiginys: 'Algirdo brolis Liubartas valdė Lvovą Rusioje.'
+  teiginys: "Algirdo brolis Liubartas valdė Lvovą Rusioje."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "400027-400406; hash=4b931c6acabe1f16df0c61116904c43a266c5e3c0674d8109f87489178c62548; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lvovas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Liubartas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lvovas: mention_match, place, gap=16"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liubartas\" parinktas kaip owner_note_path. Targetas \"Lvovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-168136
 
 <a id="claim-t-184776"></a>
-- t-012
+- t-016
   global_id: t-184776
-  teiginys: 'Vladimire apsuptas Liubartas išvengė lenkų nelaisvės dėl Bogdano iš Ivanicos drąsos.'
+  teiginys: "Vladimire apsuptas Liubartas išvengė lenkų nelaisvės dėl Bogdano iš Ivanicos drąsos."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "413053-413630; hash=b97afb4d757130696c914d425c24f6bd8df3232091785fff09e27b41d4d32b8f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Liubartas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liubartas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-010
+    - c-168137
 
 <a id="claim-t-184777"></a>
-- t-013
+- t-017
   global_id: t-184777
-  teiginys: 'Kazimieras išvijo Algirdo brolį Liubartą iš Volynės, kai lietuviai buvo įsitraukę į karą su kryžiuočiais.'
+  teiginys: "Kazimieras išvijo Algirdo brolį Liubartą iš Volynės, kai lietuviai buvo įsitraukę į karą su kryžiuočiais."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "168640-169010; hash=c64cc8b3b1de850acfc51dc0c2b07f57cfb3183304d57bbc05fa602b9482c00a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Liubartas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=25"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liubartas\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-13T15:43:24Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-011
+    - c-168138
 
 <a id="claim-t-184778"></a>
-- t-014
+- t-018
   global_id: t-184778
-  teiginys: 'Liubartas be kovos atgavo iš jo neseniai atimtą tėvoniją, sustiprino senąją pilį ir paliepė sugriauti naująją.'
+  teiginys: "Liubartas be kovos atgavo iš jo neseniai atimtą tėvoniją, sustiprino senąją pilį ir paliepė sugriauti naująją."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "441222-442170; hash=ad43a6142c9c3e4dfc3a32e18086024655d43f93b88ddc6c3b8b5cda7caa86c2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aleksandras: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Liubartas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liubartas\" parinktas kaip owner_note_path. Targetas \"Aleksandras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-13T15:43:24Z"
+  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
-    - c-012
+    - c-168139
 - susijęs iš [[objektai/asmenys/Teodoras (Liubarto sūnus).md#claim-t-64171|Teodoras (Liubarto sūnus)]]: Vytautas iš Liubarto sūnaus Teodoro atėmė Volinijos Vladimirą ir paskyrė jį vietininku į Naugardą-Sieverską.
 - susijęs iš [[objektai/asmenys/Teodoras (Liubarto sūnus).md#claim-t-64172|Teodoras (Liubarto sūnus)]]: Vytautas, remiamas Jogailos, suvaldė nepaklusnų Volynijos kunigaikštį Teodorą, Liubarto sūnų.
 - susijęs iš [[objektai/asmenys/Teodoras (Liubarto sūnus).md#claim-t-64173|Teodoras (Liubarto sūnus)]]: Liubarto sūnus Teodoras pabėgo į Vengriją, kur prie jo prisijungė Teodoras Karijotaitis.
@@ -188,6 +369,7 @@ Liubartas – Gedimino sūnus, stačiatikių srityse priėmęs jų tikėjimą ir
     rimantas, Karijotas ir Liubartas tikrai), gaudami savo dalis sta­
     čiatikių srityse, priėmė jų tikėjimą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -205,6 +387,7 @@ Liubartas – Gedimino sūnus, stačiatikių srityse priėmęs jų tikėjimą ir
     bartas tačiau įsitvirtino Volinijoje, beveik iki pat savo mirties
     (1385) su Lenkija kovodamas ir dėl kitos palikimo dalies.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -220,6 +403,7 @@ Liubartas – Gedimino sūnus, stačiatikių srityse priėmęs jų tikėjimą ir
     pat kaip Algirdui dar „gerą partiją“ jis surado Liubartui, ku­
     ris vedė vienturtę Volynijos kunigaikščio įpėdinę.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -241,6 +425,7 @@ Liubartas – Gedimino sūnus, stačiatikių srityse priėmęs jų tikėjimą ir
     mine buvo susigiminiavęs vesdamas paskutinio Volynijos ku­
     nigaikščio vienturtę dukterį^4 ).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -260,8 +445,9 @@ Liubartas – Gedimino sūnus, stačiatikių srityse priėmęs jų tikėjimą ir
     nuvykdavo Kęstutis.
     Voluinę Liubartas vis dėlto atlaikė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
@@ -278,6 +464,7 @@ Liubartas – Gedimino sūnus, stačiatikių srityse priėmęs jų tikėjimą ir
     gaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo
     vedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -299,8 +486,9 @@ Liubartas – Gedimino sūnus, stačiatikių srityse priėmęs jų tikėjimą ir
     įspėjo apie pavojų, tačiau šis, pats įsivėlęs į karą su
     Livonijos ordinu, nesuteikė beveik jokios pagalbos.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
@@ -336,6 +524,7 @@ Liubartas – Gedimino sūnus, stačiatikių srityse priėmęs jų tikėjimą ir
     tybės užmuštųjų brolių valdas, remdamasis įpėdinystės
     teise.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -355,8 +544,9 @@ Liubartas – Gedimino sūnus, stačiatikių srityse priėmęs jų tikėjimą ir
     iš karto susidūrę su daugybe kliūčių ir karo sunkeny­
     bių.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
@@ -385,8 +575,9 @@ Liubartas – Gedimino sūnus, stačiatikių srityse priėmęs jų tikėjimą ir
     gęs, jis papasakojo kunigaikščiui, ką matęs, patarda­
     mas, kaip ir pro kur sprukti iš pavojaus.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
@@ -415,6 +606,7 @@ Liubartas – Gedimino sūnus, stačiatikių srityse priėmęs jų tikėjimą ir
     lius, o pilis, miestus bei įgulas tvarkysią lenkų skirti
     vietininkai.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -452,11 +644,278 @@ Liubartas – Gedimino sūnus, stačiatikių srityse priėmęs jų tikėjimą ir
     niokojo Liublino bei Sando-
     miro kraštus.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
+## Citatos
+
+- id: c-06238
+  citata_originali: |
+    O pats Lietuvos valdovas nebuvo joks
+    krikščionybės priešas. Jo paties dvare sukinėjosi ir turėjo įtakos
+    pranciškonai, kurie tvarkė kanceliariją. Keli Gedimino sūnūs (Na­
+    rimantas, Karijotas ir Liubartas tikrai), gaudami savo dalis sta­
+    čiatikių srityse, priėmė jų tikėjimą.
+  citata_rodoma: "Keli Gedimino sūnūs (Narimantas, Karijotas ir Liubartas tikrai), gaudami savo dalis stačiatikių srityse, priėmė jų tikėjimą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05195
+
+- id: c-06239
+  citata_originali: |
+    Kai Boleslovas-Jurgis 1340 m. buvo bajorų nunuodytas,
+    Kazimieras taikstėsi užimti Haličą-Voliniją. Lenkams rūpėjo, be
+    kitko, per Raudonąją Rusią ir Padoliją artėti link Juodosios Juros.
+    Remdamasis stipriomis giminystės — paveldėjimo teisėmis, Liu­
+    bartas tačiau įsitvirtino Volinijoje, beveik iki pat savo mirties
+    (1385) su Lenkija kovodamas ir dėl kitos palikimo dalies.
+  citata_rodoma: "Remdamasis stipriomis giminystės — paveldėjimo teisėmis, Liubartas tačiau įsitvirtino Volinijoje, beveik iki pat savo mirties (1385) su Lenkija kovodamas ir dėl kitos palikimo dalies."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05197
+
+- id: c-15266
+  citata_originali: |
+    Apskritai reikia pasakyti, kad gausingų savo
+    sūnų ir dukterų vedybomis Gediminas laimėjo gana daug. Jo
+    politikos sistemoje tai buvo vienas pagrindinis ramstis. Taip
+    pat kaip Algirdui dar „gerą partiją“ jis surado Liubartui, ku­
+    ris vedė vienturtę Volynijos kunigaikščio įpėdinę.
+  citata_rodoma: "Taip\npat kaip Algirdui dar „gerą partiją“ jis surado Liubartui, ku­\nris vedė vienturtę Volynijos kunigaikščio įpėdinę."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-12192
+    - t-93458
+
+- id: c-15267
+  citata_originali: |
+    Tai ir buvo vienas iš faktorių, vertusių Lenkijos ponus
+    savo karaliumi pasikviesti plačiosios Lietuvos valdovą Jo­
+    gailą.
+    Bet to laiko dienos rūpesniu Lenkijoje dar labiau buvo der­
+    lingųjų Volynijos žemių priklausomybės klausimas. 1340 met.
+    pasimirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo
+    ir Volynijos susivaržė Boleslovo giminaitis Kazimieras did. ir
+    Gedimino sūnus Liubartas, kuris su išmirusią Pomanaičiu gi­
+    mine buvo susigiminiavęs vesdamas paskutinio Volynijos ku­
+    nigaikščio vienturtę dukterį^4 ).
+  citata_rodoma: "1340 met.\npasimirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo\nir Volynijos susivaržė Boleslovo giminaitis Kazimieras did. ir\nGedimino sūnus Liubartas, kuris su išmirusią Pomanaičiu gi­\nmine buvo susigiminiavęs vesdamas paskutinio Volynijos ku­\nnigaikščio vienturtę dukterį"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-12192
+    - t-12193
+    - t-93463
+
+- id: c-88823
+  citata_originali: |
+    Bet kadangi tai bu-
+    vo visos valstybės interesai ir kadangi Lenkija taip pat grėsė
+    Kęstučio valdomajai Palenkei, tai Liubartui į pagalbą ateidavo
+    ir broliai. Buvo ne kartą ten nuvykęs ir Algirdas, bet dažniausiai
+    nuvykdavo Kęstutis.
+    Voluinę Liubartas vis dėlto atlaikė.
+  citata_rodoma: "Voluinę Liubartas vis dėlto atlaikė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-93460
+
+- id: c-88825
+  citata_originali: |
+    Lietuvos valstybei grėsė pavo-
+    jus pakrikti. O momentas buvo labai svarbus: tuo metu smar-
+    kiai padidėjo ordino puolimai, ir vienam, ordino pasienį valdan-
+    čiam, Kęstučiui būtų buvę sunku atsispirti.
+    Kaip tik prieš Gedimino mirtį buvo miręs Mozūrų kuni-
+    gaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo
+    vedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės.
+  citata_rodoma: "Kaip tik prieš Gedimino mirtį buvo miręs Mozūrų kuni-\ngaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo\nvedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-93461
+
+- id: c-168134
+  citata_originali: |
+    Todėl imanti šviesti
+    viltis, jog tie, kurie paveldėjo tėvų valdas bei nesan­
+    taiką, paveldėsią taip pat ir jų lemtį. Pirmiausia jis ap­
+    žiūrėjo lietuvių karius, po to atsikvietė pagalbon iš
+    šiaurinės Rusios brolių Liubarto ir Pisimanto pulkus.
+    Prikalbino taip pat stoti į karą prieš bendrą priešą
+    rusų kunigaikščius: Kijevo — Sviatoslavą, Drucko —
+    Simeoną, Lucko bei Volynės — Dovydą, Utenį irgi
+    įspėjo apie pavojų, tačiau šis, pats įsivėlęs į karą su
+    Livonijos ordinu, nesuteikė beveik jokios pagalbos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184773
+
+- id: c-168135
+  citata_originali: |
+    Mažai vis dėlto ką pe­
+    šė nugalėtieji bėgdami, nes skitų užnugaryje buvusios
+    upės trukdė sprunkantiesiems ir juos skandino savo
+    verpetuose. Šiame mūšyje žuvo Drucko kunigaikštis
+    Michailas, Lucko valdovas Andrejus ir Pisimantas bei
+    Liubartas, Treniotos broliai. Šit todėl Treniota, neno­
+    rėdamas, kad po kunigaikščių mirties šiaurinėje Ru­
+    sioje kas pasikeistų, pavedė baigti karą su skitais ir
+    01
+
+    ## Puslapis 90
+
+    A lg im a n ta s — L ietu ­
+    v o s  ir
+    N a u g a rd u k o
+    k u n ig a ik štis
+    valstybę tvarkyti sūnui Al­
+    gimantui; pats su nedidele
+    kariauna
+    ten
+    nuskubėjęs,
+    nuslopino
+    beprasidedantį
+    maištą ir prijungė prie vals­
+    tybės užmuštųjų brolių valdas, remdamasis įpėdinystės
+    teise.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184774
+
+- id: c-168136
+  citata_originali: |
+    Tad šis, norėdamas apginti savo teises į Ru­
+    sią, nutarė, jog pirmiausia būtina kariauti su lietuviais.
+    Mat Rusią valdė Algirdo broliai: Liubartas — Lvovą,
+    Kęstutis — dideles žemes kitur Rusioje, o Jurgis Nari-
+    mantaitis, jų brolėnas,— Kremenecą. Vis dėlto lenkai
+    turėjo vengti karo su lietuviais, antraip galėjo palūžti
+    iš karto susidūrę su daugybe kliūčių ir karo sunkeny­
+    bių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184775
+
+- id: c-168137
+  citata_originali: |
+    Kovėsi jis
+    ir su vienu lietuvių pulku, užpuolusiu karaliaus sto­
+    vyklą: lietuviai tapo išsklaidyti, o pats kunigaikštis
+    L en kai,
+    su m u šę
+    lie ­
+    tu v iu s, atg a u n a  d a lį
+    V o ly n ė s
+    238
+
+    ## Puslapis 237
+
+    Kęstutis gyvas pakliuvo į priešų rankas. To pat karo
+    metu Vladimire apsuptas Liubartas išvengė lenkų ne­
+    laisvės dėl vieno kario ypatingo drąsumo. Pastarąjį
+    šaukė Bogdanu iš Ivanicos: gūdžią naktį įsėlinęs į len­
+    kų stovyklą ir viską paeiliui pilnaties šviesoje išžval-
+    gęs, jis papasakojo kunigaikščiui, ką matęs, patarda­
+    mas, kaip ir pro kur sprukti iš pavojaus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184776
+
+- id: c-168138
+  citata_originali: |
+    Kęstutis mė­
+    gino sutrukdyti, tačiau, du
+    K a zim ie ra s, L e n k ijo s
+    kartus saugos karių atrem-
+    k a ra liu s, a tim a  iš Jie-
+    tas, galop išsižadėjo šio su-
+    tu v ių  R u sią
+    manymo. Tais pačiais metais
+    Kazimieras,
+    Lenkijos kara­
+    lius, pasinaudojęs proga, jog lietuviai įsitraukė į karą
+    su kryžiuočiais, atėmė iš jų rusų valdas išvijęs iš Vo­
+    lynės Algirdo brolį Liubartą. Mat, nors visą Belzo
+    kunigaikštystę paliko Jurgiui Narimantaičiui, o Podo­
+    lės kunigaikščiui Aleksandrui Narimantaičiui atidavė
+    Volynę, tačiau abi šias žemes atidavė su ta sąlyga,
+    kad aukščiausią galią į Rusią turėsiąs Lenkijos kara­
+    lius, o pilis, miestus bei įgulas tvarkysią lenkų skirti
+    vietininkai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184777
+
+- id: c-168139
+  citata_originali: |
+    Tuo
+    š io je  p rie š len k u s
+    metu Aleksandras buvo iš­
+    vykęs į Krokuvą, kur derė­
+    josi su lenkais; iškeliavusį valdovą Vladimire pava­
+    davo lenkų riteris Petras Turskis; pilis turėjo pakan­
+    kamai maisto ir galėjo atlaikyti ilgesnę apsuptį, tačiau
+    pilies viršininkas visai prarado narsą, kai pasirodė
+    ginkluoti būriai; jis iš niekur nesitikėjo paramos, to­
+    dėl, išsiderėjęs, kad šie paliktų jo žmones gyvus ir
+    neliestų turtų, bemat pasidavė, šitaip išvengdamas ka­
+    muojančios apgulos. Liubartas be kovos ir be didesnių
+    pastangų atgavo neseniai iš jo atimtą tėvoniją, seno­
+    je medinėje pilyje įrengė visokių gynybinių įtvirtini­
+    mų ir įkurdino stiprią įgulą, o naują, Kazimiero įsa­
+    kymu dvejus metus statytą iš degtų plytų ir pareika­
+    lavusią didelių išlaidų, paliepė iš pamatų sugriauti.
+    Po to sutelktas jėgas nuvedė į Lenkiją ir smarkiai nu-
+    254
+
+    ## Puslapis 253
+
+    L ie tu v ia i sia u b ia  L en ­
+    k iją
+    niokojo Liublino bei Sando-
+    miro kraštus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184778
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Skirmantas]], [[objektai/asmenys/Teodoras (Liubarto sūnus)]]

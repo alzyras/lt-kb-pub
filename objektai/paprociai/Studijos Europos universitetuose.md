@@ -10,12 +10,24 @@ tags:
   - didikas
   - kraštas
   - mokslininkas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Studijos Europos universitetuose
 
 ## Santrauka
 
-Lietuvai tapus krikščioniška valstybe, Lietuvos žmonės pradėjo vykti mokytis į Europos universitetus. Aukštesniojo ir aukštojo mokslo siekę Lietuvos gyventojai turėdavo vykti į užsienį: dvasininkai dažniausiai rinkdavosi Krokuvą, kiti - Vakarų Europą.
+Studijos Europos universitetuose: lietuvos žmonės pradėjo šviestis, vyko mokytis į Europos universitetus. Prasi- dėjo glaudūs prekybos ryšiai su Vakarais, ir Lietuva žymiai praturtėjo. Studijos Europos universitetuose: šiaip, kas norėdavo gauti aukštesniojo ir aukštojo mokslo, turėdavo vykti į užsienį. Tie, kurie ruošėsi dvasi- ninkais, paprastai vykdavo mokytis į Krokuvos universitetą, o visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją, Italiją ir Prancūziją. Studijos Europos universitetuose: kadangi į tolimuosius kraštus tegalėjo vykti mokytis tik turtingųjų bajorų vaikai, todėl mokytų žmo- nių buvo nedaug. Vis dėlto didikai buvo visi baigę aukštuosius mokslus.
 
 ## Laikotarpis ir datos
 
@@ -38,40 +50,29 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-67213"></a>
 - t-001
   global_id: t-67213
-  teiginys: 'Lietuvai tapus krikščioniška valstybe, Lietuvos žmonės pradėjo vykti mokytis į Europos universitetus.'
+  teiginys: "Lietuvai tapus krikščioniška valstybe, Lietuvos žmonės pradėjo vykti mokytis į Europos universitetus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "310942-311205; hash=7dd28585108affb16c38bec659a8e34f28170bc1a2a8800b4c6c71bcb5c92e5a; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-67225
+
 <a id="claim-t-67214"></a>
 - t-002
   global_id: t-67214
-  teiginys: 'Aukštesniojo ir aukštojo mokslo siekę Lietuvos gyventojai turėdavo vykti į užsienį: dvasininkai dažniausiai rinkdavosi Krokuvą, kiti - Vakarų Europą.'
+  teiginys: "Aukštesniojo ir aukštojo mokslo siekę Lietuvos gyventojai turėdavo vykti į užsienį: dvasininkai dažniausiai rinkdavosi Krokuvą, kiti - Vakarų Europą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "511647-511958; hash=7a17338575ad12aaaa737c5d2975ebe5ffb795314854445965028fcb9bed47a3; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+    - c-67224
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvai tapus krikščioniška valstybe, Lietuvos žmonės pradėjo vykti mokytis į Europos universitetus.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pa-
-    goniškoji, nuo Europos atskirta ir jos ujama Lietuva tapo krikš-
-    čioniška valstybe, lygi su visomis kitomis. Lietuvos žmonės
-    pradėjo šviestis, vyko mokytis į Europos universitetus. Prasi-
-    dėjo glaudūs prekybos ryšiai su Vakarais, ir Lietuva žymiai
-    praturtėjo.
-  citata_rodoma: ""
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-- c-002
   santrauka: 'Aukštesniojo ir aukštojo mokslo siekę Lietuvos gyventojai turėdavo vykti į užsienį: dvasininkai dažniausiai rinkdavosi Krokuvą, kiti - Vakarų Europą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -83,8 +84,64 @@ Nenurodyta
     ninkais, paprastai vykdavo mokytis į Krokuvos universitetą, o
     visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją,
     Italiją ir Prancūziją.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+- c-002
+  santrauka: 'Lietuvai tapus krikščioniška valstybe, Lietuvos žmonės pradėjo vykti mokytis į Europos universitetus.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pa-
+    goniškoji, nuo Europos atskirta ir jos ujama Lietuva tapo krikš-
+    čioniška valstybe, lygi su visomis kitomis. Lietuvos žmonės
+    pradėjo šviestis, vyko mokytis į Europos universitetus. Prasi-
+    dėjo glaudūs prekybos ryšiai su Vakarais, ir Lietuva žymiai
+    praturtėjo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Citatos
+
+- id: c-67224
+  citata_originali: |
+    Jono bažnyčios buvo aukštes-
+    nioji teisės mokykla. Šiaip, kas norėdavo gauti aukštesniojo ir
+
+
+    aukštojo mokslo, turėdavo vykti į užsienį. Tie, kurie ruošėsi dvasi-
+    ninkais, paprastai vykdavo mokytis į Krokuvos universitetą, o
+    visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją,
+    Italiją ir Prancūziją.
+  citata_rodoma: "Šiaip, kas norėdavo gauti aukštesniojo ir aukštojo mokslo, turėdavo vykti į užsienį. Tie, kurie ruošėsi dvasi-\nninkais, paprastai vykdavo mokytis į Krokuvos universitetą, o\nvisi kiti vykdavo į vakarų Europos universitetus: į Vokietiją,\nItaliją ir Prancūziją."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67214
+
+- id: c-67225
+  citata_originali: |
+    Pa-
+    goniškoji, nuo Europos atskirta ir jos ujama Lietuva tapo krikš-
+    čioniška valstybe, lygi su visomis kitomis. Lietuvos žmonės
+    pradėjo šviestis, vyko mokytis į Europos universitetus. Prasi-
+    dėjo glaudūs prekybos ryšiai su Vakarais, ir Lietuva žymiai
+    praturtėjo.
+  citata_rodoma: "Lietuvos žmonės\npradėjo šviestis, vyko mokytis į Europos universitetus. Prasi-\ndėjo glaudūs prekybos ryšiai su Vakarais, ir Lietuva žymiai\npraturtėjo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67213

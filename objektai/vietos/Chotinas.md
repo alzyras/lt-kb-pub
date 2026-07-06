@@ -23,6 +23,18 @@ tags:
 amziai:
   - 'XVI'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Chotinas
 
@@ -33,39 +45,142 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 ## Teiginiai
 
 <a id="claim-t-102179"></a>
-- t-001
+- t-006
   global_id: t-102179
-  teiginys: '1673 m. Chotino mūšio iliustracijoje priešais Chotino pilį pavaizduoti M. K. Radvilos kariai.'
+  teiginys: "1673 m. Chotino mūšio iliustracijoje priešais Chotino pilį pavaizduoti M. K. Radvilos kariai."
+  temporaliniai_duomenys: "įvykio data: 1673 m.; įvykio data: 1674 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "530402-531696; hash=53a293fbab44db31bd2d21c3c5b69ccf2ba40d8c6153e0181306832f6db25e1f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Chotinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.): mention_match, event, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Chotinas\" parinktas kaip owner_note_path. Targetas \"Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-43365
 
 <a id="claim-t-102181"></a>
 - t-002
   global_id: t-102181
-  teiginys: 'Chotino mūšis tapo paskutine Jono Karolio Chodkevičiaus pasiekta pergale.'
+  teiginys: "Chotino mūšis tapo paskutine Jono Karolio Chodkevičiaus pasiekta pergale."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "479854-480089; hash=f1df5eb0c06237829e5138bd157424d7ceb25bf1ef22e3d3add94dbea6209ec3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Chotinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.): mention_match, event, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Chotinas\" parinktas kaip owner_note_path. Targetas \"Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-43362
 
 <a id="claim-t-102182"></a>
-- t-003
+- t-004
   global_id: t-102182
-  teiginys: '1673 m. turkai prie Chotino įrengė stiprius lauko įtvirtinimus.'
+  teiginys: "1673 m. turkai prie Chotino įrengė stiprius lauko įtvirtinimus."
+  temporaliniai_duomenys: "įvykio data: 1621 m.; įvykio data: 1673 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir pagrįstas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "528537-529046; hash=540f684376a75a19f6b155620f65a6ef60cd95a214943ed14fadeb2ec458f48b; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Chotinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Chotinas\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-43364
 
 <a id="claim-t-102183"></a>
-- t-004
+- t-003
   global_id: t-102183
-  teiginys: 'Chotino mūšis vyko 1621 m. rugsėjo 22-spalio 10 d.'
+  teiginys: "Chotino mūšis vyko 1621 m. rugsėjo 22-spalio 10 d."
+  temporaliniai_duomenys: "mūšio data: 1514 m.; mūšio data: 1621 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata yra antraštinis fragmentas, bet ji pagrindžia pilną faktinį sakinį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "480644-481136; hash=31e0700e2ca3e075d72f5b7c2a5465720cf005a700a58c80243fa478717b89d6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Chotinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.): mention_match, event, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Chotinas\" parinktas kaip owner_note_path. Targetas \"Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-43363
+
+<a id="claim-t-102183"></a>
+- t-003
+  global_id: t-102183
+  teiginys: "Chotino mūšis vyko 1621 m. rugsėjo 22-spalio 10 d."
+  temporaliniai_duomenys: "mūšio data: 1514 m.; mūšio data: 1621 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata yra antraštinis fragmentas, bet ji pagrindžia pilną faktinį sakinį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "480644-481136; hash=31e0700e2ca3e075d72f5b7c2a5465720cf005a700a58c80243fa478717b89d6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Chotinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.): mention_match, event, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Chotinas\" parinktas kaip owner_note_path. Targetas \"Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-43363
 
 <a id="claim-t-102185"></a>
-- t-006
+- t-001
   global_id: t-102185
-  teiginys: 'Mūšyje prie Chotino didysis etmonas, vadovaudamas jungtinei Lietuvos ir Lenkijos kariuomenei prieš turkus, pasiekė paskutinę pergalę.'
+  teiginys: "Mūšyje prie Chotino didysis etmonas, vadovaudamas jungtinei Lietuvos ir Lenkijos kariuomenei prieš turkus, pasiekė paskutinę pergalę."
+  temporaliniai_duomenys: "įvykio data: 1617-1618; įvykio data: 1618 m.; įvykio data: 1621 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys pataisytas į aiškesnę, šaltinio citata paremtą formą apie Chotiną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "451573-451891; hash=7d77a9d77baf7fd607c420693f8f381bf404f46db2e7adb02eff88136e42ab89; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Chotinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=60"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Chotinas\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-005
+    - c-95519
+
+<a id="claim-t-183781"></a>
+- t-008
+  global_id: t-183781
+  teiginys: "Chotino mūšis tapo paskutine Jono Karolio Chodkevičiaus pasiekta pergale."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "479579-480011; hash=db5edda531dbbb7e5267000439a3885aef009302124724838194f9a927e61cd2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Chotinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.): mention_match, event, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Chotinas\" parinktas kaip owner_note_path. Targetas \"Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-167169
 - susijęs iš [[objektai/asmenys/Jonas Tarnovskis.md#claim-t-184742|Jonas Tarnovskis]]: Jonui Tarnovskiui sutelkus daugiau jėgų, Valachijos kunigaikštis Petras prie Chotino paprašė taikos.
 - susijęs iš [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.).md#claim-t-183674|Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]: Chotino mūšis buvo paskutinė Jono Karolio Chodkevičiaus pasiekta pergalė.
 - susijęs iš [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.).md#claim-t-41268|Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]: Po Chotino mūšio Turkija pasirašė paliaubas, o 1623 m. taika atstatė sieną palei Dniestrą.
@@ -106,8 +221,9 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 
     sukurti galingiausią savo laiko karinę jėgą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -151,8 +267,9 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     nės konfrontacijos tarp Lietuvos ir Rusijos
     objektu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
@@ -170,6 +287,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     tas egzistencinis pavojus ATR. 1673 m. įtvirtinimai) turkai įrengė stiprius lauko
     Abiejų Tautų Respublikos seimas atmetė įtvirtinimus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -204,8 +322,9 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 
     1673 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -222,6 +341,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     pergalę,mūšyje prie Chotino. Dar mūšiui nepasibai-
     gus didysis Lietuvos karvedys mirė Chotino pilyje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -246,11 +366,164 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     džio Jono Karolio Chodkevičiaus pasiekta
     pergale.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
+## Citatos
+
+- id: c-43362
+  citata_originali: |
+    Šis laimėjimas - puikus gy-
+    nybinio mūšio pavyzdys. Chotino mūšis
+    tapo paskutine legendinio Lietuvos karve-
+    džio Jono Karolio Chodkevičiaus pasiekta
+    pergale. Šios pergalės dėka Lenkija buvo
+
+    sukurti galingiausią savo laiko karinę jėgą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-102181
+
+- id: c-43363
+  citata_originali: |
+    1621 m. rugsėjo 22-spalio 10 d. CHOTINO MŪŠIS 117
+
+    ## Puslapis 120
+
+    E _-KURSO KUNIGAIKŠTYSTĖ S
+    res Livontios KUNIGAIKŠTYSTĖ ||
+    PES
+    Sen
+
+    PRŪSIJOS
+    KUNIGAIKSTYSTE-
+
+    “yf
+
+    LIETUVOS
+
+    14 DIDŽIOJI
+    “KUNIGAIKŠTYSTĖ
+    >
+
+    PA |
+    7
+
+    a
+
+    LENKUOS | 3
+    | KARALYSTĖ | ) uae
+
+    Mūšio priešistorė
+    1514 m. Rusijos užgrobtas strategiškai svar-
+    bus tarp Dauguvos ir Dniepro upių išsidės-
+    tęs Smolenskas visuomet buvo laikomas
+    vartais į Rusiją, todėl ne kartą tapo kari-
+    nės konfrontacijos tarp Lietuvos ir Rusijos
+    objektu.
+  citata_rodoma: "1621 m. rugsėjo 22-spalio 10 d. CHOTINO MŪŠIS 117\n\n## Puslapis 120\n\nE _-KURSO KUNIGAIKŠTYSTĖ S\nres Livontios KUNIGAIKŠTYSTĖ ||\nPES\nSen\n\nPRŪSIJOS\nKUNIGAIKSTYSTE-\n\n“yf\n\nLIETUVOS\n\n14 DIDŽIOJI\n“KUNIGAIKŠTYSTĖ\n>\n\nPA |\n7\n\na\n\nLENKUOS | 3\n| KARALYSTĖ | ) uae\n\nMūšio priešistorė\n1514 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-102184
+    - t-102183
+
+- id: c-43364
+  citata_originali: |
+    Turkai, nujausdami lenkų ir lietuvių
+
+    ir privertė ją Atėjo žinia, kad Turkija ketina siekti puolimo kryptį, stiprino įtvirtinimus
+    daugiau ir surinkusi didžiulę kariuomenę prie Podolės Kameneco tvirtovės. Prie
+    ketina dar kartą pulti ir šį kartą užimti Chotino (beveik toje pačioje vietoje, kur
+    visą Respublikos teritoriją. Iškilo rim- 1621 m. buvo įrengti J. K. Chodkevičiaus
+    tas egzistencinis pavojus ATR. 1673 m. įtvirtinimai) turkai įrengė stiprius lauko
+    Abiejų Tautų Respublikos seimas atmetė įtvirtinimus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-102182
+
+- id: c-43365
+  citata_originali: |
+    | pad
+
+    <= a
+
+    1
+
+    latio "Tureau -
+    noni ae aaa
+
+    Chotino mūšis 1673 m. 1674 m. išleistos Jokūbo Beneto poemos „Viešpaties dešinės galybė“
+    Iliustracija. Pavaizduotas jungtinės kariuomenės lemiamas turkų stovyklos puolimas. Kairiajame
+    apatiniame kampe Lietuvos kariuomenė (8. Miles Lithuanus). Priekyje stovi du pėstininkų batalionai, 4 - :
+    ,lenkisko" („lietuviško“) tipo tautiniai pėstininkai (be iečių) ir šalia jų svetimšalių autoramento „vokiški“ F š ~ Husaro
+    pėstininkai (ietininkai stovi viduryje, šauliai iš kraštų). Už jy išsirikiavusios husarų vėliavos (raiteliai ; © krūtinšarvis.
+    su ietimis, apsigobę kailiais). Aukščiau husarų stovi svetimšalių autoramento pėstininkai, išsirikiavę 4 Abiejų Tautų
+    etalonine olandiška rikiuote - ietininkai viduryje, šauliai kraštuose. Prieš juos išdėstyta LDK artilerija Respublika,
+    (11. Tormenta M:D: Lithuania). Arčiau upės, priešais Chotino (2.) pilį lauko etmono M. K. Radvilos kariai 4, XVII-XVIII a.
+    (6.). Dešinėje pavaizduotos lenkų pajėgos (19. Miles Polonus). Priešais jungtinę kariuomenę, iliustraci-
+    jos centre, pylimais ir grioviais įtvirtinta turkų stovykla (4. Circumvalatio Turcarum). Upėje matomi
+    kauburėliai - mūšio pabaigoje bėgę ir įkritę į vandenį skęstantys turkai (24. Merguntum Turca)
+
+    Jungtinės pajėgos Moldavijos valdovas
+
+    1673 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-102179
+
+- id: c-95519
+  citata_originali: |
+    1617-1618 m. daly-
+    vavo žygyje į Maskvą, nepaisant tam tikrų laimėjimų,
+    Maskvos užimti nepavyko. 1621 m. didysis etmo-
+    nas, vadovaudamas jungtinei Lietuvos ir Lenkijos
+    kariuomenei prieš turkus, pasiekė savo paskutinę
+    pergalę,mūšyje prie Chotino. Dar mūšiui nepasibai-
+    gus didysis Lietuvos karvedys mirė Chotino pilyje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-102185
+
+- id: c-167169
+  citata_originali: |
+    Darnios pėstininkų muškietų salvės
+    sulaikydavo puolančius turkų karius, o ga-
+    lingos ir veržlios kavalerijos kontratakos
+
+    Antrosios linijos brigados atsistodavo už tarpų
+    pirmoje linijoje, todėl reikalui esant pirmoji linija
+
+    priversdavo juos bėgti nuo gynybinių
+    įtvirtinimų. Šis laimėjimas - puikus gy-
+    nybinio mūšio pavyzdys. Chotino mūšis
+    tapo paskutine legendinio Lietuvos karve-
+    džio Jono Karolio Chodkevičiaus pasiekta
+    pergale.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183781
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Turkijos kariuomenė]]

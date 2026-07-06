@@ -15,6 +15,18 @@ tags:
   - tauta
 amziai:
   - 'XVIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Sukilimo akto paskelbimas Rotušės aikštėje ir Lietuvos Tautinės aukščiausios tarybos sudarymas (1794 m. balandžio 24 d.)
 
@@ -40,13 +52,49 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-78638"></a>
+<a id="claim-t-78639"></a>
 - t-001
-  global_id: t-78638
-  teiginys: '1794 m. balandžio 24 d. Vilniaus Rotušės aikštėje buvo paskelbtas 2328 sukilėlių pasirašytas sukilimo aktas ir sudaryta Lietuvos Tautinė aukščiausia taryba.'
+  global_id: t-78639
+  teiginys: "1794 m. balandžio 24 d. Vilniaus Rotušės aikštėje buvo paskelbtas 2328 sukilėlių pasirašytas sukilimo aktas ir sudaryta Lietuvos Tautinė aukščiausia taryba."
+  temporaliniai_duomenys: "įvykio data: 1794 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia papildyti teiginį tikslia data."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "617423-617725; hash=c5107f065d7104f6324a8b6a19c5770858ffc548dd260872c4c752d7aedae328; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sukilimo akto paskelbimas Rotušės aikštėje ir Lietuvos Tautinės aukščiausios tarybos sudarymas (1794 m. balandžio 24 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=87"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sukilimo akto paskelbimas Rotušės aikštėje ir Lietuvos Tautinės aukščiausios tarybos sudarymas (1794 m. balandžio 24 d.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
+    - c-75855
 
+<a id="claim-t-78639"></a>
+- t-001
+  global_id: t-78639
+  teiginys: "1794 m. balandžio 24 d. Vilniaus Rotušės aikštėje buvo paskelbtas 2328 sukilėlių pasirašytas sukilimo aktas ir sudaryta Lietuvos Tautinė aukščiausia taryba."
+  temporaliniai_duomenys: "įvykio data: 1794 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia papildyti teiginį tikslia data."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "617423-617725; hash=c5107f065d7104f6324a8b6a19c5770858ffc548dd260872c4c752d7aedae328; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sukilimo akto paskelbimas Rotušės aikštėje ir Lietuvos Tautinės aukščiausios tarybos sudarymas (1794 m. balandžio 24 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=87"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sukilimo akto paskelbimas Rotušės aikštėje ir Lietuvos Tautinės aukščiausios tarybos sudarymas (1794 m. balandžio 24 d.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-75855
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -67,9 +115,37 @@ Nenurodyta
     (Roda Naididžiausia Naradaus Lietuvos).
     Sukilimas apėmė visą Lietuvą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+
+## Citatos
+
+- id: c-75855
+  citata_originali: |
+    užmuštų ir šešių sužeistų karių.
+    Balandžio 24 d. Vilniuje,
+    Kovos Viln
+
+    Rotušės aikštėje, buvo paskelbtas
+
+    2328 sukilėlių pasirašytas sukilimo aktas
+
+    ir sudarytas vykdomosios valdžios orga-
+
+    nas - Lietuvos Tautinė aukščiausia taryba
+
+    (Roda Naididžiausia Naradaus Lietuvos).
+    Sukilimas apėmė visą Lietuvą.
+  citata_rodoma: "Balandžio 24 d. Vilniuje,\nKovos Viln\n\nRotušės aikštėje, buvo paskelbtas\n\n2328 sukilėlių pasirašytas sukilimo aktas\n\nir sudarytas vykdomosios valdžios orga-\n\nnas - Lietuvos Tautinė aukščiausia taryba\n\n(Roda Naididžiausia Naradaus Lietuvos)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78638
+    - t-78639

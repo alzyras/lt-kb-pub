@@ -8,11 +8,6 @@ datos:
   - '1938 m.'
 date_start: '1929'
 date_end: '1938'
-description: 'Juozas Tūbelis – 1929 m. paskirtas premjeras, ilgai vadovavęs Ministrų Tarybai ir vykdęs atsargią ekonominę politiką.'
-socialDescription: 'Ekonomisto ir premjero Juozo Tūbelio vaidmuo Lietuvoje: vyriausybių stabilumas, atsargi finansų politika ir kooperacijos stiprinimas.'
-seo_atnaujinta: '2026-07-02T20:14:54.870793+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -24,77 +19,201 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'modernioji Lietuva'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Juozas Tūbelis
 
 ## Santrauka
 
-Juozas Tūbelis buvo ekonomistas, kurį 1929 m. rugsėjo 23 d. prezidentas Antanas Smetona paskyrė ministru pirmininku. Vadovaudamas Ministrų Tarybai 7,5 metų ir 1931–1938 m. pirmininkaudamas Lietuvių tautininkų sąjungai, jis siejamas su vyriausybių stabilumu ir vieninga ministrų politika. Tūbelis išmanė ekonomiką ir finansus, priešinosi lito nuvertinimui, stiprino kooperacines bei masines akcines bendroves ir rėmė nuosaikų valstybinį reguliavimą.
+Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir kooperatinių organizacijų kūrėjas ir vadovas J. Tūbelis kūrė ir stiprino kooperacinių ar masinių akcinių bendrovių ūkinę veiklą, samdomojo darbo, švietimo, kultūros srityse nuosaikų valstybinį.
 
 ## Teiginiai
 
 <a id="claim-t-170077"></a>
-- t-001
+- t-007
   global_id: t-170077
-  teiginys: 'Juozas Tūbelis ir Antanas Smetona pareiškė, kad Lietuvos, Latvijos ir Estijos karinė sąjunga nebūtų naudinga Lietuvai.'
+  teiginys: "Juozas Tūbelis ir Antanas Smetona pareiškė, kad Lietuvos, Latvijos ir Estijos karinė sąjunga nebūtų naudinga Lietuvai."
+  temporaliniai_duomenys: "įvykio data: 1935 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradiniame teiginyje neaišku, koks aljansas minimas; citata leidžia jį įvardyti."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "358141-358758; hash=9971a04daf6672b321b663bf3fefa21ccb229ad7364628130d83d1b26ddfccc9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Juozas Tūbelis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozas Tūbelis\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-154758
 
 <a id="claim-t-170078"></a>
-- t-002
+- t-008
   global_id: t-170078
-  teiginys: 'Priėmus Lenkijos ultimatumą atsistatydino Juozo Tūbelio ministrų kabinetas, o premjeru tapo Vladas Mironas.'
+  teiginys: "Priėmus Lenkijos ultimatumą atsistatydino Juozo Tūbelio ministrų kabinetas, o premjeru tapo Vladas Mironas."
+  temporaliniai_duomenys: "įvykio data: 1938 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata tiesiogiai palaiko kabineto atsistatydinimą ir premjero pakeitimą; pašalintas nutrūkęs fragmentas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "360532-360915; hash=8b5a0d224e2bb474bb1c9e1ecde218223eb1e882259315915113fdcaa5f732f0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vladas Mironas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Juozas Tūbelis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vladas Mironas: mention_match, person, gap=50"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozas Tūbelis\" parinktas kaip owner_note_path. Targetas \"Vladas Mironas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-154765
 
 <a id="claim-t-170079"></a>
-- t-003
+- t-009
   global_id: t-170079
-  teiginys: 'Juozas Tūbelis išmanė Lietuvos ekonomiką ir finansus, priešinosi lito nuvertinimui ir atsargia politika padėjo atlaikyti krizę.'
+  teiginys: "Juozas Tūbelis išmanė Lietuvos ekonomiką ir finansus, priešinosi lito nuvertinimui ir atsargia politika padėjo atlaikyti krizę."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "327849-328325; hash=707bd4c8169233b70e2f90d5b76e3791e5e33d8145c50d147efc2415883f5a65; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> J. Tūbelis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Juozas Tūbelis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "J. Tūbelis: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozas Tūbelis\" parinktas kaip owner_note_path. Targetas \"J. Tūbelis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-154761
 
 <a id="claim-t-170080"></a>
-- t-004
+- t-006
   global_id: t-170080
-  teiginys: 'Juozui Tūbeliui radus rinką Didžiojoje Britanijoje, Lietuvos prekyba su šia šalimi užėmė pirmą vietą.'
+  teiginys: "Juozui Tūbeliui radus rinką Didžiojoje Britanijoje, Lietuvos prekyba su šia šalimi užėmė pirmą vietą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "333399-333779; hash=40f9e3a4f3ce888416dcf66d1cab2cef41d41e6550b326f3d2c00e09206d11d6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Juozas Tūbelis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=52"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozas Tūbelis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-154766
 
 <a id="claim-t-170081"></a>
-- t-005
+- t-001
   global_id: t-170081
-  teiginys: '1929 m. rugsėjo 23 d. prezidentas Antanas Smetona ministru pirmininku paskyrė ekonomistą Juozą Tūbelį.'
+  teiginys: "1929 m. rugsėjo 23 d. prezidentas Antanas Smetona ministru pirmininku paskyrė ekonomistą Juozą Tūbelį."
+  semantiniai_rysiai: "Antanas Smetona (Lietuvos prezidentas, XX a.) paskyrė Juozas Tūbelis (0.95)"
+  temporaliniai_duomenys: "įvykio data: 1929 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "324099-324615; hash=5219fe1e57e48a8302a5f76724cc9f536221cf7f781358990259d31d3608e131; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "paskyre -> Juozas Tūbelis: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Juozas Tūbelis: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad prezidentas A. Smetona paskyrė Juozą Tūbelį."
   pagrindžia:
-    - c-005
+    - c-154763
 
 <a id="claim-t-170082"></a>
-- t-006
+- t-005
   global_id: t-170082
-  teiginys: 'Juozas Tūbelis 7,5 metų vadovavo Ministrų Tarybai ir garantavo vyriausybių stabilumą bei vieningą ministrų politiką.'
+  teiginys: "Juozas Tūbelis 7,5 metų vadovavo Ministrų Tarybai ir garantavo vyriausybių stabilumą bei vieningą ministrų politiką."
+  temporaliniai_duomenys: "įvykio data: 1935 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta trumpiau, su pilnu vardu ir be perteklinių vertinamųjų dalių."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "332290-332755; hash=d09c8be5bd09f7c4ec16367c6669fd13a4338101ae96d887492a22c37790ce41; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Valstybės gynimo taryba (institucija): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Juozas Tūbelis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Valstybės gynimo taryba (institucija): mention_match, group, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozas Tūbelis\" parinktas kaip owner_note_path. Targetas \"Valstybės gynimo taryba (institucija)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-154764
 
 <a id="claim-t-170083"></a>
-- t-007
+- t-002
   global_id: t-170083
-  teiginys: 'Juozas Tūbelis 1931–1938 m. ramiai pirmininkavo ir vyriausybei, ir Lietuvių tautininkų sąjungai.'
+  teiginys: "Juozas Tūbelis 1931–1938 m. ramiai pirmininkavo ir vyriausybei, ir Lietuvių tautininkų sąjungai."
+  temporaliniai_duomenys: "įvykio data: 1931-1938; įvykio data: 1938 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Juozą Tūbelį ir atitinka citatos informaciją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "327167-327848; hash=cc50cbd266e5146e25fbd96c645e3fcb8b8fccd3c1fbac394765d350a755b412; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> J. Tūbelis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Juozas Tūbelis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "J. Tūbelis: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozas Tūbelis\" parinktas kaip owner_note_path. Targetas \"J. Tūbelis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-154762
 
 <a id="claim-t-170084"></a>
-- t-008
+- t-003
   global_id: t-170084
-  teiginys: 'Juozas Tūbelis kūrė ir stiprino kooperacinių bei masinių akcinių bendrovių veiklą ir laikė naudingu nuosaikų valstybinį reguliavimą.'
+  teiginys: "Juozas Tūbelis kūrė ir stiprino kooperacinių bei masinių akcinių bendrovių veiklą ir laikė naudingu nuosaikų valstybinį reguliavimą."
+  temporaliniai_duomenys: "įvykio data: 1938 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys glaustai perteikia citatoje nurodytą Tūbelio ūkinę politiką."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "328327-329201; hash=20350f5e53f49c8412824d09b548b6ff90c7f8bbf2d23fc4b9eed3b0ec037af3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> J. Tūbelis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Juozas Tūbelis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "J. Tūbelis: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozas Tūbelis\" parinktas kaip owner_note_path. Targetas \"J. Tūbelis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-154759
 
 <a id="claim-t-170085"></a>
-- t-009
+- t-010
   global_id: t-170085
-  teiginys: 'Juozas Tūbelis kūrė ir stiprino kooperacinių bei masinių akcinių bendrovių ūkinę veiklą.'
+  teiginys: "Juozas Tūbelis kūrė ir stiprino kooperacinių bei masinių akcinių bendrovių ūkinę veiklą."
+  temporaliniai_duomenys: "įvykio data: 1938 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys, tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "328327-329201; hash=20350f5e53f49c8412824d09b548b6ff90c7f8bbf2d23fc4b9eed3b0ec037af3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> J. Tūbelis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Juozas Tūbelis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "J. Tūbelis: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozas Tūbelis\" parinktas kaip owner_note_path. Targetas \"J. Tūbelis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-154759
 - susijęs iš [[objektai/grupes/Lietuvių tautininkų sąjunga.md#claim-t-44993|Lietuvių tautininkų sąjunga]]: Juozas Tūbelis 1931–1938 m. pirmininkavo ir Lietuvos vyriausybei, ir Lietuvių tautininkų sąjungai.
 - susijęs iš [[objektai/grupes/Valstybės saugumo departamentas.md#claim-t-183191|Valstybės saugumo departamentas]]: Valstybės saugumo departamentas kartu su policija buvo vienas iš A. Smetonos režimo ramsčių.
 - susijęs iš [[objektai/grupes/Valstybės saugumo departamentas.md#claim-t-20059|Valstybės saugumo departamentas]]: Valstybės saugumo departamentas kartu su policija buvo vienas iš A. Smetonos režimo ramsčių.
@@ -114,6 +233,7 @@ Juozas Tūbelis buvo ekonomistas, kurį 1929 m. rugsėjo 23 d. prezidentas Antan
     bes, pasisakė už trijų šalių karinę sąjungą, tačiau A. Smetona ir premjeras
     J. Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -142,6 +262,7 @@ Juozas Tūbelis buvo ekonomistas, kurį 1929 m. rugsėjo 23 d. prezidentas Antan
     vadinama santūria valstybinio so-
     cializmo atmaina.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -161,6 +282,7 @@ Juozas Tūbelis buvo ekonomistas, kurį 1929 m. rugsėjo 23 d. prezidentas Antan
     sienyje, sprendimus darė atsargiai, pritarė ekonominės veiklos autarki-
     jai – išsiversti su kuo mažiau importo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -183,6 +305,7 @@ Juozas Tūbelis buvo ekonomistas, kurį 1929 m. rugsėjo 23 d. prezidentas Antan
     ramiai pirmininkavo ir vyriausybei, ir Lietuvių tautininkų sąjungai 1931–
     1938 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -202,6 +325,7 @@ Juozas Tūbelis buvo ekonomistas, kurį 1929 m. rugsėjo 23 d. prezidentas Antan
     ekonomistą Juozą Tūbelį, o A. Voldemaras liko be nieko, nes neapdai-
     riai atsisakė tapti užsienio reikalų ministru.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -220,6 +344,7 @@ Juozas Tūbelis buvo ekonomistas, kurį 1929 m. rugsėjo 23 d. prezidentas Antan
     darydamas Lietuvai šansą plėtoti įvairių krypčių pažangą visose sfero-
     se be jokios paramos iš užsienio.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -238,6 +363,7 @@ Juozas Tūbelis buvo ekonomistas, kurį 1929 m. rugsėjo 23 d. prezidentas Antan
     netas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas
     Mironas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -256,11 +382,168 @@ Juozas Tūbelis buvo ekonomistas, kurį 1929 m. rugsėjo 23 d. prezidentas Antan
     Įvykiai Užnemunėje – stiprus smūgis ir ministrui pirmininkui J. Tū-
     beliui, ir A. Smetonai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
+## Citatos
+
+- id: c-154758
+  citata_originali: |
+    1935 m. balandį
+    S. Lozoraitis įteikė prezidentui A. Smetonai slaptą memorandumą, kuria-
+    me išdėstė savo schemą: mes turime Klaipėdą, tačiau dėl to gresia pavojus,
+    mes neturime Vilniaus ir nėra vilties jį atgauti artimiausioje ateityje. Nega-
+    lime kautis dviejuose diplomatijos frontuose, todėl Lietuvai reikia susigrą-
+    žinti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija. Karinėje srityje
+    S. Raštikis zondavo karinio bendradarbiavimo su Latvija ir Estija galimy-
+    bes, pasisakė už trijų šalių karinę sąjungą, tačiau A. Smetona ir premjeras
+    J. Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai.
+  citata_rodoma: "Karinėje srityje \nS. Raštikis zondavo karinio bendradarbiavimo su Latvija ir Estija galimy-\nbes, pasisakė už trijų šalių karinę sąjungą, tačiau A. Smetona ir premjeras \nJ. Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-170077
+
+- id: c-154759
+  citata_originali: |
+    Naujieji 160 000 ūkininkų vykdė melioraciją, pavertė dirbama žeme
+    tūkstančius hektarų ganyklų, krūmų ir miškų, pasėlių plotai padidėjo
+    trečdaliu, Lietuva pati apsirūpindavo maistiniais ir pašariniais grūdais,
+    o perteklių eksportuodavo (1938 m. – 132 000 tonų). Kooperatyvams ir
+    pavieniams ūkininkams įsivežus iš Danijos, Švedijos ir Vokietijos tūks-
+    tančius žalųjų bei juodmargių karvių, pieno išmilžiai pakilo nuo 700 iki
+    2 000 litrų ir lenkė daugelį šalių. Kai privati ekonominė iniciatyva dau-
+    geliu atžvilgių nepajėgė veikti tautos ūkiui reikiamu mastu, J. Tūbelis
+    kūrė ir stiprino kooperacinių ar masinių akcinių bendrovių ūkinę vei-
+    klą, samdomojo darbo, švietimo, kultūros srityse nuosaikų valstybinį
+
+    L I E T U V O S  I S T O R I J A
+    164
+    reguliavimą laikė naudingu ir rei-
+    kalingu, taigi jo politiką kartais
+    vadinama santūria valstybinio so-
+    cializmo atmaina.
+  citata_rodoma: "Kooperatyvams ir \npavieniams ūkininkams įsivežus iš Danijos, Švedijos ir Vokietijos tūks-\ntančius žalųjų bei juodmargių karvių, pieno išmilžiai pakilo nuo 700 iki \n2 000 litrų ir lenkė daugelį šalių. Kai privati ekonominė iniciatyva dau-\ngeliu atžvilgių nepajėgė veikti tautos ūkiui reikiamu mastu, J. Tūbelis \nkūrė ir stiprino kooperacinių ar masinių akcinių bendrovių ūkinę vei-\nklą, samdomojo darbo, švietimo, kultūros srityse nuosaikų valstybinį\n\nL I E T U V O S  I S T O R I J A\n164\nreguliavimą laikė naudingu ir rei-\nkalingu, taigi jo politiką kartais \nvadinama santūria valstybinio so-\ncializmo atmaina."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-170085
+    - t-170084
+
+- id: c-154761
+  citata_originali: |
+    J. Tūbelis puikiai išmanė Lietuvos ekonomiką ir finansus, kietai
+    priešinosi lito nuvertinimui, o atsargi ekonominė politika leido atlaikyti
+    krizę, valstybės finansai nepakriko, valstybė nebrido ir neįbrido į nepa-
+    keliamas skolas. Jo teorija ūkiškai konservatyvi – vengti išleisti daugiau
+    negu uždirbi, finansinę padėtį gerinti plėtojant gamybą. Nesiskolino už-
+    sienyje, sprendimus darė atsargiai, pritarė ekonominės veiklos autarki-
+    jai – išsiversti su kuo mažiau importo.
+  citata_rodoma: "Tūbelis puikiai išmanė Lietuvos ekonomiką ir finansus, kietai \npriešinosi lito nuvertinimui, o atsargi ekonominė politika leido atlaikyti \nkrizę, valstybės finansai nepakriko, valstybė nebrido ir neįbrido į nepa-\nkeliamas skolas. Jo teorija ūkiškai konservatyvi – vengti išleisti daugiau \nnegu uždirbi, finansinę padėtį gerinti plėtojant gamybą. Nesiskolino už-\nsienyje, sprendimus darė atsargiai, pritarė ekonominės veiklos autarki-\njai – išsiversti su kuo mažiau importo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-170079
+
+- id: c-154762
+  citata_originali: |
+    Taip formuotas Vytauto Didžiojo kultas, priminęs lietuviams šlovingą
+    jų senovės laikų didvyrio praeitį ir su juo susiejęs stipraus tautos vado –
+    A. Smetonos, tarsi ir antrojo Vytauto – valdomą Lietuvos valstybę. Svar-
+    biausia Vytauto jubiliejinių renginių mintis – tautos vienybė per sukeltą
+    platų patriotinį sąjūdį, esama atrama šlovingoje pagoniškosios LDK pra-
+    eityje, ir pasiųsta žinia, kad Lietuva yra sena istorinė valstybė.
+    A. Smetonos ir J. Tūbelio tandemas
+    Ūkinių ir kooperatinių organizacijų kūrėjas ir vadovas
+    J. Tūbelis pasirodė visiška priešingybė ekscentriškam A. Voldemarui, jis
+    ramiai pirmininkavo ir vyriausybei, ir Lietuvių tautininkų sąjungai 1931–
+    1938 m.
+  citata_rodoma: "A. Smetonos ir J. Tūbelio tandemas\nŪkinių ir kooperatinių organizacijų kūrėjas ir vadovas \nJ. Tūbelis pasirodė visiška priešingybė ekscentriškam A. Voldemarui, jis \nramiai pirmininkavo ir vyriausybei, ir Lietuvių tautininkų sąjungai 1931–\n1938 m. J. Tūbelis puikiai išmanė Lietuvos ekonomiką ir finansus, kietai \npriešinosi lito nuvertinimui, o atsargi ekonominė politika leido atlaikyti \nkrizę, valstybės finansai nepakriko, valstybė nebrido ir neįbrido į nepa-\nkeliamas skolas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-170083
+
+- id: c-154763
+  citata_originali: |
+    Būdamas ir premjeru, ir užsienio rei-
+    kalų ministru jau ne visur spėjo, konfliktavo su keliais savo ministrais
+    ir pradėjo pretenduoti į vienvaldystę šalyje. Po gegužę įvykdyto studen-
+    tų eserų pasikėsinimo į A. Voldemaro gyvybę, 1929 m. rugsėjį visiems
+    ministrams in corpore „atsistatydinus“, turėjo atsistatydinti ir premjeras.
+    Rugsėjo 23 dieną ministru pirmininku prezidentas A. Smetona paskyrė
+    ekonomistą Juozą Tūbelį, o A. Voldemaras liko be nieko, nes neapdai-
+    riai atsisakė tapti užsienio reikalų ministru.
+  citata_rodoma: "Rugsėjo 23 dieną ministru pirmininku prezidentas A. Smetona paskyrė \nekonomistą Juozą Tūbelį, o A. Voldemaras liko be nieko, nes neapdai-\nriai atsisakė tapti užsienio reikalų ministru."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-170081
+
+- id: c-154764
+  citata_originali: |
+    Savo dalies kariuomenės modernizacijai reikalavo kariškiai – 1935 m.
+    Valstybės gynimo taryba priėmė kariuomenės perorganizavimo planą –
+    apie 20 proc. biudžeto teko skirti krašto gynybos reikalams. J. Tūbelis,
+    vadovavęs Ministrų Tarybai 7,5 metų (ilgiausiai išsilaikė toje pozicijoje),
+    garantavo vyriausybių stabilumą ir vieningą visų ministrų politiką, su-
+    darydamas Lietuvai šansą plėtoti įvairių krypčių pažangą visose sfero-
+    se be jokios paramos iš užsienio.
+  citata_rodoma: "Savo dalies kariuomenės modernizacijai reikalavo kariškiai – 1935 m. \nValstybės gynimo taryba priėmė kariuomenės perorganizavimo planą – \napie 20 proc. biudžeto teko skirti krašto gynybos reikalams. J. Tūbelis, \nvadovavęs Ministrų Tarybai 7,5 metų (ilgiausiai išsilaikė toje pozicijoje), \ngarantavo vyriausybių stabilumą ir vieningą visų ministrų politiką, su-\ndarydamas Lietuvai šansą plėtoti įvairių krypčių pažangą visose sfero-\nse be jokios paramos iš užsienio."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-170082
+
+- id: c-154765
+  citata_originali: |
+    Nors diplomatiniai santykiai buvo atkurti, Lenkijos ir
+    Lietuvos bendradarbiavimas nesusiklostė. Lietuva tai laikė taktiniu atsi-
+    traukimu ir 1938 m. gegužę priimtoje naujoje konstitucijoje vėl įrašė, kad
+    Vilnius yra Lietuvos sostinė.
+    Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabi-
+    netas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas
+    Mironas.
+  citata_rodoma: "Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabi-\nnetas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas \nMironas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-170078
+
+- id: c-154766
+  citata_originali: |
+    Bandant padėti ūkininkams visi valsty-
+    bės tarnautojai privalėjo reguliariai pirkti žąsis. Vyriausybė palaikė kri-
+    tusias žemės ūkio produktų kainas iš biudžeto, tačiau, J. Tūbeliui radus
+    rinką Didžiojoje Britanijoje, Lietuvos importas į šią šalį iš jos ir ekspor-
+    tas užėmė pirmą vietą.
+    Įvykiai Užnemunėje – stiprus smūgis ir ministrui pirmininkui J. Tū-
+    beliui, ir A. Smetonai.
+  citata_rodoma: "Įvykiai Užnemunėje – stiprus smūgis ir ministrui pirmininkui J. Tū-\nbeliui, ir A. Smetonai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-170080
 
 ## Ryšiai
 - Paskyrė Juozas Tūbelį: [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]

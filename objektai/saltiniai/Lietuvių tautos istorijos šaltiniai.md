@@ -15,6 +15,18 @@ tags:
   - tauta
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvių tautos istorijos šaltiniai
 
@@ -27,10 +39,25 @@ Dusburgietis teigia, kad kai kurie Dusburgiečio kronikos fragmentai buvo verči
 <a id="claim-t-61136"></a>
 - t-001
   global_id: t-61136
-  teiginys: 'Kai kurie Dusburgiečio kronikos fragmentai buvo verčiami ir į lietuvių kalbą.'
+  teiginys: "Kai kurie Dusburgiečio kronikos fragmentai buvo verčiami ir į lietuvių kalbą."
+  semantiniai_rysiai: "Lietuviai kariavo prieš Kryžiuočių ordinas (0.86)"
+  temporaliniai_duomenys: "įvykio data: iki 1324 m.; įvykio data: 1324 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "claim_quality_pipeline deterministic repair"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "57846-58286; hash=ef6219c22fcee0db36929ca3e74993bb1ee701865784dc684f78ef3e883c749b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai mini lietuvių kovas su Ordinu."
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
-    - c-001
-
+    - c-61768
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,8 +70,26 @@ Dusburgietis teigia, kad kai kurie Dusburgiečio kronikos fragmentai buvo verči
     paskelbti J. Užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95. Kai kurios
     kronikos vietos lietuvių kalba publikuotos „Lietuvos TSR istorijos šaltiniuose“96.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-61768
+  citata_originali: |
+    Kai kurie Dusburgiečio kronikos fragmentai buvo verčiami ir į lietuvių kalbą. Lotyniškojo
+    originalo ir lietuviškojo vertimo paragrafai, atskleidžiantys įvairius prūsų (32 paragrafai)
+    ir lietuvių (14 paragrafų) kovų su Ordinu momentus (iki 1324 m.), tarpais sutrumpinti,
+    paskelbti J. Užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95. Kai kurios
+    kronikos vietos lietuvių kalba publikuotos „Lietuvos TSR istorijos šaltiniuose“96.
+  citata_rodoma: "Kai kurie Dusburgiečio kronikos fragmentai buvo verčiami ir į lietuvių kalbą. Lotyniškojo\noriginalo ir lietuviškojo vertimo paragrafai, atskleidžiantys įvairius prūsų (32 paragrafai)\nir lietuvių (14 paragrafų) kovų su Ordinu momentus (iki 1324 m.), tarpais sutrumpinti,\npaskelbti J. Užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-61136

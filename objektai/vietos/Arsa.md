@@ -9,6 +9,18 @@ tags:
   - pilis
   - vieta
   - žemėlapis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Arsa
 
@@ -19,25 +31,57 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
 ## Teiginiai
 
 <a id="claim-t-58427"></a>
-- t-001
+- t-002
   global_id: t-58427
-  teiginys: 'Arsa resp. Arsė tapatinta ir su Vangrape (Tepenas M.).'
+  teiginys: "Arsa resp. Arsė tapatinta ir su Vangrape (Tepenas M.)."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "481761-481986; hash=1b2d394268bc4d235fef0a8bd9ce99cde6283dc5ec2a77f990582432acab0c7f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vangrapė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Arsa: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vangrapė: mention_match, place, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Arsa\" parinktas kaip owner_note_path. Targetas \"Vangrapė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
-    - c-002
+    - c-59060
 
 <a id="claim-t-58428"></a>
-- t-002
+- t-003
   global_id: t-58428
-  teiginys: 'Arsos upelis šioje vietoje nežinomas ir tik spėjamas, kaip ir prie anksčiau minėtų Tamoviškių.'
+  teiginys: "Arsos upelis šioje vietoje nežinomas ir tik spėjamas, kaip ir prie anksčiau minėtų Tamoviškių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "482613-482876; hash=95af24453c4605779f4ca1c8770b8072ed204911385b430f213cb1d06157f95e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Arsa: owner_note_path, place"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Arsa\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-59059
 
 <a id="claim-t-58429"></a>
-- t-003
+- t-001
   global_id: t-58429
-  teiginys: 'Kampsvykių pilis stovėjo prie Arsos upės, o Ordino broliai po puolimo ją sudegino iki pamatų.'
+  teiginys: "Kampsvykių pilis stovėjo prie Arsos upės, o Ordino broliai po puolimo ją sudegino iki pamatų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "479950-480516; hash=04cd21a1358d0d92cf280aac1b2cfea42710c124646214ab3c68f4aaa67b2b99; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kampsvykiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Arsa: owner_note_path, place"
+  ryšio_targeto_parinkimas: "Kampsvykiai: mention_match, place, gap=1"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Arsa\" parinktas kaip owner_note_path. Targetas \"Kampsvykiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-59061
 - susijęs iš [[objektai/asmenys/Henrikas fon Plockė.md#claim-t-186044|Henrikas fon Plockė]]: Prūsijos maršalas Henrikas fon Plockė žiemą pakartotiniais antpuoliais nuniokojo Medininkų valsčių.
 - susijęs iš [[objektai/ivykiai/Henriko žygis prieš Naugarduką ir Dovydo smūgis kryžiuočių stovyklai (1314 m.).md#claim-t-185520|Henriko žygis prieš Naugarduką ir Dovydo smūgis kryžiuočių stovyklai (1314 m.)]]: Penki lietuvių kariai naktį prasigavo pro kryžiuočių sargybas, nužudė kelis priešus, paėmė grobio ir sveiki grįžo pas savuosius.
 - susijęs iš Naugardukas: Henrikas su kariuomene nusibrovė iki Naugarduko, apiplėšė ir sudegino miestą.
@@ -52,6 +96,7 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
     leistų, mūsų nuomone, Dusburgiečio aprašytos pilies vietą sieti su vėlesne kryžiuočių
     Tamoviškių pilimi į rytus nuo Įsruties.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -67,6 +112,7 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
     manoma, D. Arse (Ewald A. L., Die Eroberung.., 4, p. 189—190). Arsa resp. Arsė tapatinta
     ir su Vangrape (Tepenas M.).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -86,8 +132,55 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
     grumtynių įsiveržė į pilį ir, išžudę visus aukščiau mūsų minėtus vyrus, o moteris ir vaikus
     paėmę į nelaisvę drauge su nesuskaičiuojamu grobiu, pačią pilį iki pamatų sudegino.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-59059
+  citata_originali: |
+    Arsos upelis ir čia nežinomas, tik spėjamas, kaip ir
+    prie mūsų minėtų Tamoviškių. Pastarųjų pirminė forma Cammow bei išlikę vietovardžiai
+    leistų, mūsų nuomone, Dusburgiečio aprašytos pilies vietą sieti su vėlesne kryžiuočių
+    Tamoviškių pilimi į rytus nuo Įsruties.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58428
+
+- id: c-59060
+  citata_originali: |
+    Senuose žemėlapiuose
+    (Sch-K) pažymėtas nedidelis kair. Vangrapės intakas Kampsvykių apylinkėse galėtų būti,
+    manoma, D. Arse (Ewald A. L., Die Eroberung.., 4, p. 189—190). Arsa resp. Arsė tapatinta
+    ir su Vangrape (Tepenas M.).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58427
+
+- id: c-59061
+  citata_originali: |
+    178 (173). Apie Kampsvykių pilies užkariavimą
+
+      Paskui  magistras su  didele kariuomene  perėjo Nadruvos žemę, plėšdamas  ir
+    degindamas, o priėjęs Kampsvykių pilį, pastatytą prie Arsos upės463, ją smarkiai užpuolė,
+    tinkamai parengęs visa, kas tam reikalinga; abiem šalims patyrus didelių nuostolių
+    sužeistaisiais, nes šioje pilyje buvo 200 įgudusių karių, broliai galop po ilgų ir atkaklių
+    grumtynių įsiveržė į pilį ir, išžudę visus aukščiau mūsų minėtus vyrus, o moteris ir vaikus
+    paėmę į nelaisvę drauge su nesuskaičiuojamu grobiu, pačią pilį iki pamatų sudegino.
+  citata_rodoma: "Apie Kampsvykių pilies užkariavimą\n\n  Paskui  magistras su  didele kariuomene  perėjo Nadruvos žemę, plėšdamas  ir\ndegindamas, o priėjęs Kampsvykių pilį, pastatytą prie Arsos upės463, ją smarkiai užpuolė,\ntinkamai parengęs visa, kas tam reikalinga; abiem šalims patyrus didelių nuostolių\nsužeistaisiais, nes šioje pilyje buvo 200 įgudusių karių, broliai galop po ilgų ir atkaklių\ngrumtynių įsiveržė į pilį ir, išžudę visus aukščiau mūsų minėtus vyrus, o moteris ir vaikus\npaėmę į nelaisvę drauge su nesuskaičiuojamu grobiu, pačią pilį iki pamatų sudegino."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58429

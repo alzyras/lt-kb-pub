@@ -3,6 +3,7 @@ tipas: daiktas
 pavadinimas: 'Brangenybės, auksas, sidabras ir papuošalai'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
   - '1399 m.'
 date_start: '1399'
@@ -16,6 +17,18 @@ tags:
   - papuošalas
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Brangenybės, auksas, sidabras ir papuošalai
 
@@ -48,10 +61,44 @@ Nenurodyta
 <a id="claim-t-87047"></a>
 - t-001
   global_id: t-87047
-  teiginys: 'Per Vilniaus gaisrą didysis kunigaikštis neteko žirgų ir brangenybių, o miestiečių įvertinta žala siekė iki 60 tūkstančių sidabro luitų.'
+  teiginys: "Per Vilniaus gaisrą didysis kunigaikštis neteko žirgų ir brangenybių, o miestiečių įvertinta žala siekė iki 60 tūkstančių sidabro luitų."
+  temporaliniai_duomenys: "valdymo laikotarpis: 1399 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir sakinys padarytas sklandus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "321550-322029; hash=b11f623b14971b2ef1f5872aa616707cbcb487ffd385a855ed67e79a41abe67e; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Brangenybės, auksas, sidabras ir papuošalai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=50"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Brangenybės, auksas, sidabras ir papuošalai\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-83026
 
+<a id="claim-t-192493"></a>
+- t-002
+  global_id: t-192493
+  teiginys: "Narbutas rašo, kad kasinėjant netoli Elbliongo aptikta aukso, sidabro, auksuotų metalų papuošalų ir dažytų vėrinių."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "645258-645915; hash=9096ffafaa0a8b6443c2a6c48ec89d7fdccf161f70db0d5a96c973c854a502d8; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Papuošalai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Brangenybės, auksas, sidabras ir papuošalai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Papuošalai: mention_match, thing, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Brangenybės, auksas, sidabras ir papuošalai\" parinktas kaip owner_note_path. Targetas \"Papuošalai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175283
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -67,8 +114,75 @@ Nenurodyta
     kaip įkainojo patys Vilniaus gyventojai, siekė iki 60 tūkstan­
     čių sidabro luitų65 • .
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Narbutas rašo, kad kasinėjant netoli Elbliongo aptikta aukso, sidabro, auksuotų metalų papuošalų ir dažytų vėrinių.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Jei netu­
+    rėtume Siaurės keliautojo Vulfstano aprašymų, gal išvis
+    nieko nežinotume apie šį miestą. Esama neabejotinų įro­
+    dymų apie tolimais amžiais šiose vietose gyvenusių žmo­
+    nių, visuomet garsėjusių prekyba, turtingumą; kasinėjant
+    netoli Elbliongo, aptikta labai dailių aukso, sidabro ir
+    kitokių auksuotų metalų papuošalų, molio, vaško ir pana­
+    šių į mozaiką, dažytų vėrinių, kurie sudaro įdomiausią
+    dalį senovės paminklų, saugomų Karaliaučiaus Archyvo
+    kabinete; kitur panašių beveik nepavykdavo rasti. Tai pa­
+    minklai tų amžių, kai kartaginiečiai, o vėliau ir kiti jūrų
+    keliautojai atklysdavo čia gintaro, kurį išsikeisdavo į sa­
+    vo gamybos blizgučius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+## Citatos
+
+- id: c-83026
+  citata_originali: |
+    Tačiau šie politiniai kivirčai nebuvo Vilniui tokie skaudūs (1399
+    m.), kaip toji didelė nelaimė, ištikusi kitais metais žiemai bai­
+    giantis. Nuo ugnies, įsiliepsnojusios pilies kieme, kunigaikščio
+    arklidėse, kilo toks baisus gaisras, kad, be Žemutinės pilies ir
+    Katedros, ištisai visas miestas sudegė. Didysis kunigaikštis ne­
+    teko savo žirgų ir brangenybių, o žala, kurią per tai patyrė,
+    kaip įkainojo patys Vilniaus gyventojai, siekė iki 60 tūkstan­
+    čių sidabro luitų65 • .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87047
+
+- id: c-175283
+  citata_originali: |
+    Jei netu­
+    rėtume Siaurės keliautojo Vulfstano aprašymų, gal išvis
+    nieko nežinotume apie šį miestą. Esama neabejotinų įro­
+    dymų apie tolimais amžiais šiose vietose gyvenusių žmo­
+    nių, visuomet garsėjusių prekyba, turtingumą; kasinėjant
+    netoli Elbliongo, aptikta labai dailių aukso, sidabro ir
+    kitokių auksuotų metalų papuošalų, molio, vaško ir pana­
+    šių į mozaiką, dažytų vėrinių, kurie sudaro įdomiausią
+    dalį senovės paminklų, saugomų Karaliaučiaus Archyvo
+    kabinete; kitur panašių beveik nepavykdavo rasti. Tai pa­
+    minklai tų amžių, kai kartaginiečiai, o vėliau ir kiti jūrų
+    keliautojai atklysdavo čia gintaro, kurį išsikeisdavo į sa­
+    vo gamybos blizgučius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192493

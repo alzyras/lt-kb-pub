@@ -17,6 +17,18 @@ tags:
   - valstybė
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Giesmė apie stumbro išvaizdą, žiaurumą ir medžioklę
 
@@ -29,10 +41,22 @@ Jau pirmoji Lietuvos poema, tikras renesansinis kūrinys, 1523 m. išleista Mika
 <a id="claim-t-78127"></a>
 - t-001
   global_id: t-78127
-  teiginys: '1523 m. išleista Mikalojaus Husoviano poema „Giesmė apie stumbro išvaizdą, žiaurumą ir medžioklę“ Vytauto laikus rodė kaip idealą.'
+  teiginys: "1523 m. išleista Mikalojaus Husoviano poema „Giesmė apie stumbro išvaizdą, žiaurumą ir medžioklę“ Vytauto laikus rodė kaip idealą."
+  temporaliniai_duomenys: "įvykio data: 1523 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, enciklopedinis ir paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "113343-114597; hash=aac8d17b9497b8a0be40464bdbd389407a33f6947c4373c6f3b5d3c019822323; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Giesmė apie stumbro išvaizdą, žiaurumą ir medžioklę: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Giesmė apie stumbro išvaizdą, žiaurumą ir medžioklę\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-75434
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -57,8 +81,37 @@ Jau pirmoji Lietuvos poema, tikras renesansinis kūrinys, 1523 m. išleista Mika
     ir europeizacija baigdavosi lenkėjimu. Ši aplinkybė išryškėjo reformacijos
     metu, kai buvo pradėta kelti gyvųjų kalbų reikšmė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-75434
+  citata_originali: |
+    Kitas Lietuvos bajoriškosios visuomenės istorinės sąmonės siužetas for-
+    mavosi iškeliant Vytautą ir jo laikus. Jau pirmoji Lietuvos poema, tikras
+    renesansinis kūrinys, 1523 m. išleista Mikalojaus Husoviano poema „Gies-
+    mė apie stumbro išvaizdą, žiaurumą ir medžioklę“ būtent ir siekė Vytauto
+    laikus parodyti kaip idealą savo laikų visuomenei. Šias idėjas randame ir
+    Mykolo Lietuvio svarstymuose apie valstybės tvarką („Apie totorių, lietuvių
+    ir maskvėnų papročius“, apie 1550), kurioje Vytauto laikų papročių rigoriz-
+    mas ir asketizmas yra priešpriešinamas savo meto visuomenės išglebimui,
+    girtuoklystei ir netvarkai. Mykolas Lietuvis siūlo ir kalbos permainas – at-
+    sisakyti rusėnų kalbos ir pereiti prie romėnų, t. y. lotynų. Tačiau viską nulė-
+    mė dar viena aplinkybė – didžiausią įtaką Lietuvos kultūrai darė lenkiškoji
+    civilizacija. Jos poveikis reiškėsi įvairiais pavidalais: bažnytinės sistemos
+    organizavimu, studijomis Krokuvos universitete, administracinės sistemos
+    perėmimu, ūkio reforma. Lenkija buvo LDK mokytoja. Lietuvos bėda, kad
+    ji dažnu atveju nesuspėjo ar neturėjo galimybių pasiekti „gilesnę“ Europą
+    ir europeizacija baigdavosi lenkėjimu. Ši aplinkybė išryškėjo reformacijos
+    metu, kai buvo pradėta kelti gyvųjų kalbų reikšmė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78127

@@ -10,6 +10,18 @@ tags:
   - karalius
   - kunigaikštis
   - miestas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Omaras
 
@@ -22,9 +34,20 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
 <a id="claim-t-60397"></a>
 - t-001
   global_id: t-60397
-  teiginys: 'Arabų kunigaikštis Omaras, trečias Mahometo karalystės paveldėtojas, įsiveržė į Šventąją žemę ir ją užėmė.'
+  teiginys: "Arabų kunigaikštis Omaras, trečias Mahometo karalystės paveldėtojas, įsiveržė į Šventąją žemę ir ją užėmė."
+  semantiniai_rysiai: "Omaras užėmė Jeruzalė (0.60)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "722633-723162; hash=d66b93419f6235e4e80c3cd17bd80207eb0d649ef314a041caa7323ae94609ad; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Jeruzalė: 0.60"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Omaras: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Jeruzalė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginyje nurodyta, kad Omaras užėmė Šventąją žemę; leistinas artimiausias konkretus vietos kandidatas yra Jeruzalė, minima citatoje kaip Šventosios žemės miestas."
   pagrindžia:
-    - c-001
+    - c-61029
 - susijęs iš Jeruzalė: Omarui užėmus Šventąją žemę, Šventajame Jeruzalės mieste gyvenę krikščionys 490 metų kentė svetimą valdžią.
 ## Reikšmingi paminėjimai
 
@@ -41,11 +64,32 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
     sunkus netikėlių  ir žiauruolių valdžios jungas. Galop valdovas, ilgokai rūstinamas,
     pajuto širdyje užuojautą, matydamas savo Žmonių sielvartą, ir pakvietė iš.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-61029
+  citata_originali: |
+    78. Apie šventosios žemės reikalus
+
+       Neilgai trukus po to, kai imperatorius Heraklijus pasitraukė iš šventosios žemės,
+    vienas arabų kunigaikštis, vardu Omaras, trečias Mahometo karalystės paveldėtojas,
+    žiauriai įsiveržė  į Šventąją žemę bei ją visą užėmė,  ir šitaip krikščionis, gyvenusius
+    Šventajame Jeruzalės mieste bei gretimose žemėse, 490 metų užgulė kankinamai
+    sunkus netikėlių  ir žiauruolių valdžios jungas. Galop valdovas, ilgokai rūstinamas,
+    pajuto širdyje užuojautą, matydamas savo Žmonių sielvartą, ir pakvietė iš.
+  citata_rodoma: "Apie šventosios žemės reikalus\n\n   Neilgai trukus po to, kai imperatorius Heraklijus pasitraukė iš šventosios žemės,\nvienas arabų kunigaikštis, vardu Omaras, trečias Mahometo karalystės paveldėtojas,\nžiauriai įsiveržė  į Šventąją žemę bei ją visą užėmė,  ir šitaip krikščionis, gyvenusius\nŠventajame Jeruzalės mieste bei gretimose žemėse, 490 metų užgulė kankinamai\nsunkus netikėlių  ir žiauruolių valdžios jungas. Galop valdovas, ilgokai rūstinamas,\npajuto širdyje užuojautą, matydamas savo Žmonių sielvartą, ir pakvietė iš."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60397
 
 ## Ryšiai
 - Omaras užėmė [[objektai/vietos/Jeruzalė]]

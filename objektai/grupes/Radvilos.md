@@ -17,13 +17,25 @@ date_start: '1325'
 date_end: '1697'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XIV'
-  - 'XVII'
 tags:
   - bajorija
   - grupe
   - kunigaikštis
+amziai:
+  - 'XIV'
+  - 'XVII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Radvilos
 
@@ -32,42 +44,111 @@ tags:
 Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž. gale išmirė, ir jų žemės su paskutine jų giminės dukteria atiteko galingiausiajai to meto ponų šeimai, būtent Radviloms.
 
 ## Teiginiai
+
 <a id="claim-t-74888"></a>
-- t-001
+- t-003
   global_id: t-74888
-  teiginys: 'Po Mikalojaus Radvilos Juodojo mirties kalvinistinei reformacijai vadovavo jo pusbrolis Mikalojus Radvila Rudasis.'
+  teiginys: "Po Mikalojaus Radvilos Juodojo mirties kalvinistinei reformacijai vadovavo jo pusbrolis Mikalojus Radvila Rudasis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "117839-118137; hash=0f7db6455c702f48fa4d7ee22a4e550e8469ac5af463aac806d191df3f7f384e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> reformacija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Radvilos: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "reformacija: mention_match, thing, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Radvilos\" parinktas kaip owner_note_path. Targetas \"reformacija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-72865
 
 <a id="claim-t-74889"></a>
 - t-002
   global_id: t-74889
-  teiginys: 'Mikalojus Radvila Juodasis 1553 m. Brastoje įkūrė spaustuvę.'
+  teiginys: "Mikalojus Radvila Juodasis 1553 m. Brastoje įkūrė spaustuvę."
+  temporaliniai_duomenys: "įkūrimo data: 1553 m.; įkūrimo data: 1569 m.; įkūrimo data: 1575 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta glaudžiau ir be skliaustų triukšmo."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "111049-111759; hash=b73454009dc520000bd4603e30ca2aef1ae1e23d02794a1ffdf8f79a73a827f8; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Brasta: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Radvilos: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Brasta: mention_match, place, gap=25"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Radvilos\" parinktas kaip owner_note_path. Targetas \"Brasta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-003
+    - c-72866
 
 <a id="claim-t-74890"></a>
-- t-003
+- t-004
   global_id: t-74890
-  teiginys: 'Vienas iš Radvilų 1615 m. laiške rašė, kad Lietuvoje reikia vartoti lenkų kalbą.'
+  teiginys: "Vienas iš Radvilų 1615 m. laiške rašė, kad Lietuvoje reikia vartoti lenkų kalbą."
+  temporaliniai_duomenys: "įvykio data: 1615 m.; įvykio data: 1673 m.; įvykio data: 1697 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta kaip aiškus sakinys apie laiške išsakytą poziciją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "142714-143348; hash=af6b9699be56c3d5a33bef051c0b10719290afb5aae54245d9411f5599a36f70; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Radvilos: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=58"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Radvilos\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
+    - c-72863
 
 <a id="claim-t-184578"></a>
-- t-004
+- t-005
   global_id: t-184578
-  teiginys: 'Augustas liepė nutiesti takelį iš pilies į Barboros Radvilaitės sodus ir pastatyti tiltuką per Vilnią.'
+  teiginys: "Augustas liepė nutiesti takelį iš pilies į Barboros Radvilaitės sodus ir pastatyti tiltuką per Vilnią."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "pastatymo data: 1545 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas puslapio triukšmas ir paliktas aiškus faktinis sakinys."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "731708-732192; hash=da0ec572cf905c4354b847d556621411ba0a8fe2fd77f8d633d78239dfe4585b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Alcis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Radvilos: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Alcis: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Radvilos\" parinktas kaip owner_note_path. Targetas \"Alcis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-167939
 
 <a id="claim-t-188322"></a>
 - t-005
   global_id: t-188322
-  teiginys: 'Šalia aprašyto antspaudo buvo kitas antspaudas su skyde pavaizduotu Vyčiu po karūna ir apačioje esančiu Radvilų Trimitų herbu.'
+  teiginys: "Šalia aprašyto antspaudo buvo kitas antspaudas su skyde pavaizduotu Vyčiu po karūna ir apačioje esančiu Radvilų Trimitų herbu."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Trimitai priklausė Radvilos (0.88)"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "731708-732192; hash=da0ec572cf905c4354b847d556621411ba0a8fe2fd77f8d633d78239dfe4585b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Radvilos: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Trimitai: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Radvilos: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai įvardija Trimitus kaip Radvilų herbą."
   pagrindžia:
-    - c-005
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171215
 - susijęs iš [[objektai/asmenys/Albrechtas Radvila.md#claim-t-87613|Albrechtas Radvila]]: Apie 1601 m. Albrechto Radvilos laikais Goštautų ir Filipovo namai buvo sujungti ir gavo bendrą Kardinalijos pavadinimą.
 - susijęs iš [[objektai/asmenys/Cvinglis.md#claim-t-87646|Cvinglis]]: Martyno Liuterio ir Cvinglio mokslas Vilniuje buvo giliai įsišaknijęs ir remiamas Mikalojaus Radvilos Juodojo.
 - susijęs iš [[objektai/asmenys/Dominykas Radvila.md#claim-t-87655|Dominykas Radvila]]: Dominykas Radvila valdė Jašiūnus, kuriuos 1811 m. iš jo perėmė Balinskis.
@@ -242,6 +323,7 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176263|vietininkas]]: Bogdanas Kievla buvo Vilniaus vaivados ir valstybės kanclerio Mikalojaus Radvilos vietininkas.
 - susijęs iš [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis.md#claim-t-40212|Jokūbas Kudenekovičius Čerkaskis]]: Jokūbas Kudenekovičius Čerkaskis dalyvavo užimant Gardiną ir Vilnių bei sumušė J. Radvilos ir V. Gosievskio pajėgas.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Vienas iš Radvilų 1615 m. laiške rašė, kad Lietuvoje reikia vartoti lenkų kalbą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -259,11 +341,13 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
     mirti, tačiau turime vartoti mūsų tėvynėje lenkų kalbą.“ Lenkų kalba pa-
     mažu įsigalėjo – 1697 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'Po Mikalojaus Radvilos Juodojo mirties kalvinistinei reformacijai vadovavo jo pusbrolis Mikalojus Radvila Rudasis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -274,11 +358,13 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
     vavo jo pusbrolis Mikalojus Radvila Rudasis, palikuonys.
     Reformacija tapo nauju lenkėjimo postūmiu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Mikalojus Radvila Juodasis 1553 m. Brastoje įkūrė spaustuvę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -294,11 +380,13 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
     dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
     Vilnių ir atidavė besikuriančiam jėzuitų universitetui.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-004
   santrauka: 'Augustas liepė nutiesti takelį iš pilies į Barboros Radvilaitės sodus ir pastatyti tiltuką per Vilnią.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -333,11 +421,13 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
     kios kalbos ir apie Barborą, ir apie Augustą, gal ir
     neteisingos, bet nesakysi, kad visai be pagrindo.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   santrauka: 'Šalia aprašyto antspaudo buvo kitas antspaudas su skyde pavaizduotu Vyčiu po karūna ir apačioje esančiu Radvilų Trimitų herbu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -351,11 +441,126 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
     nas Alcis laikui bėgant virto šventuoju Kristupu. Antrame ant­
     spaude, prispaustame šalia šito, skyde yra Vytis po karūna;
     apačioje -  Radvilų herbas Trimitai*.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
+## Citatos
+
+- id: c-72863
+  citata_originali: |
+    Nors Lietuva ir toliau bandė rašyti ir lotyniškai, ir net lietuviškai,
+    lenkėjimo procesas pamažu apėmė visą jos politinį ir kultūrinį elitą. Len-
+    Chotyno mūšyje Lenkijos ir Lietuvos  kariuomenė
+    sumuša turkus 1673 m. (Iš Vilniuje spausdinto
+    J. Benneto veikalo „Viešpaties dešinės galybė“, 1674)
+
+    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
+    75
+    kų kalbos vaidmenį Lietuvos kultūroje apibendrino vienas iš Radvilų savo
+    laiške, rašytame 1615 m.: „Nors lietuviu esu gimęs ir lietuviu teks man
+    mirti, tačiau turime vartoti mūsų tėvynėje lenkų kalbą.“ Lenkų kalba pa-
+    mažu įsigalėjo – 1697 m.
+  citata_rodoma: "Benneto veikalo „Viešpaties dešinės galybė“, 1674)\n\n2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S\n75\nkų kalbos vaidmenį Lietuvos kultūroje apibendrino vienas iš Radvilų savo \nlaiške, rašytame 1615 m.: „Nors lietuviu esu gimęs ir lietuviu teks man \nmirti, tačiau turime vartoti mūsų tėvynėje lenkų kalbą.“ Lenkų kalba pa-\nmažu įsigalėjo – 1697 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-74890
+
+- id: c-72865
+  citata_originali: |
+    Kalvinizmas vėliau pradėjo nykti, tačiau išliko
+    iki šių dienų. Apie Biržus gyvenantys evangelikai reformatai yra tiesiogi-
+    niai kalvinistinės reformacijos, kuriai po Radvilos Juodojo mirties vado-
+    vavo jo pusbrolis Mikalojus Radvila Rudasis, palikuonys.
+    Reformacija tapo nauju lenkėjimo postūmiu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-74888
+
+- id: c-72866
+  citata_originali: |
+    Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Ra-
+    dvila Juodasis. Tai reformacijos nulemtas įvykis. Po dešimtmečio čia pa-
+    sirodė įspūdingas leidybos kūrinys – „Brastos Biblija“. Vėliau Radvila Juo-
+    dasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su Radvilomis ėmė
+    konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė
+    pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką
+    jos pobūdį. Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė
+    katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-
+    dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
+    Vilnių ir atidavė besikuriančiam jėzuitų universitetui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-74889
+
+- id: c-167939
+  citata_originali: |
+    Jaunatviškai lengvabū­
+    diškas, be to, iš mažumės
+    taip išauklėtas, kad mėgo
+    puotauti, šokti ir visaip link-
+    1545 m e ta i
+    M iršta  A u strijo s k u ­
+    n ig a ik š ty tė
+    E lžb ieta ,
+    A u g u sto  žm on a
+    6 7  4
+
+    ## Puslapis 673
+
+    smintis su moterimis, pradėjo lankyti Barborą Radvi­
+    laitę, Vilniaus kašteliono Jurgio dukrą ir Trakų vai­
+    vados Stanislovo Goštauto našlę. Nors Radvilų rūmai
+    buvo visai netoli karaliaus
+    A u g u sta s sla p ta i ve-
+    pilies, Augustas, trokšdamas
+    d a
+    B arborą
+    R a d vi-
+    kada panorėjęs kuo trumpes-
+    la itę
+    niu keliu ten patekti, palie­
+    pė nukloti iš pilies į Barboros
+    sodus takelį ir tiltuką per Vilnios upę. Sklido viso­
+    kios kalbos ir apie Barborą, ir apie Augustą, gal ir
+    neteisingos, bet nesakysi, kad visai be pagrindo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184578
+
+- id: c-171215
+  citata_originali: |
+    Rašy­
+    tas ant storo, lygaus ir gražaus skudurinio popieriaus; antspau­
+    das prispaustas prie paties popieriaus ir visiškai ryškus. Ratu
+    einantis užrašas perskaitomas; kai dėl herbo įvedimo datos,
+    atrodo, įtikėtina, kad tai buvo 1325 metais, taigi dar stabmel­
+    dystės laikais; todėl pasitvirtina mūsų spėjimas, kad tai milži­
+    nas Alcis laikui bėgant virto šventuoju Kristupu. Antrame ant­
+    spaude, prispaustame šalia šito, skyde yra Vytis po karūna;
+    apačioje -  Radvilų herbas Trimitai*.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188322
 
 ## Ryšiai
 - Kariavo prieš: [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis]]

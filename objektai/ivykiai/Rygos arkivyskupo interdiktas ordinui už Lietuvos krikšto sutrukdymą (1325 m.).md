@@ -15,6 +15,18 @@ tags:
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)
 
@@ -41,33 +53,103 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-97033"></a>
-- t-001
+- t-004
   global_id: t-97033
-  teiginys: 'Atidėjus krikšto klausimą, Gediminui rūpėjo naujai sudaryta taika.'
+  teiginys: "Atidėjus krikšto klausimą, Gediminui rūpėjo naujai sudaryta taika."
+  temporaliniai_duomenys: "įvykio data: 1325 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "640713-641076; hash=8355ba6d442080435e7034c17f546855555e48e84597502c33dd9112d28e16fe; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-04996
 
 <a id="claim-t-97034"></a>
-- t-002
+- t-003
   global_id: t-97034
-  teiginys: '1325 m. iš Avinjono sugrįžęs Rygos arkivyskupas paskelbė Ordinui interdiktą už Lietuvos krikšto sutrukdymą.'
+  teiginys: "1325 m. iš Avinjono sugrįžęs Rygos arkivyskupas paskelbė Ordinui interdiktą už Lietuvos krikšto sutrukdymą."
+  temporaliniai_duomenys: "įvykio data: 1325 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pakeista šnekamesnė formuluotė ir sutvarkyta vietovardžio rašyba."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "640543-640999; hash=abe9708d053b5cadb1e546b4d87f3a60a70d8cbe740dac49b4159969d324d9ac; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-04995
 
 <a id="claim-t-97035"></a>
-- t-003
+- t-007
   global_id: t-97035
-  teiginys: 'Kryžiuočiai kliudė Lietuvai užmegzti ryšius su krikščioniškomis valstybėmis, laikydami lietuvių krikštijimą savo monopoline teise.'
+  teiginys: "Kryžiuočiai kliudė Lietuvai užmegzti ryšius su krikščioniškomis valstybėmis, laikydami lietuvių krikštijimą savo monopoline teise."
+  temporaliniai_duomenys: "įvykio data: 1325 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir atsisakyta neapibrėžtos įžangos apie Avinjoną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "640543-640999; hash=abe9708d053b5cadb1e546b4d87f3a60a70d8cbe740dac49b4159969d324d9ac; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-04995
+
+<a id="claim-t-97036"></a>
+- t-005
+  global_id: t-97036
+  teiginys: "1325 m. iš Avinjono sugrįžęs Rygos arkivyskupas paskelbė Ordinui interdiktą už Lietuvos krikšto sutrukdymą."
+  temporaliniai_duomenys: "įvykio data: 1325 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys paremtas citata, bet sutvarkyta vietovardžio ir institucijos rašyba."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "640713-641076; hash=8355ba6d442080435e7034c17f546855555e48e84597502c33dd9112d28e16fe; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-04996
 
 <a id="claim-t-97037"></a>
-- t-005
+- t-006
   global_id: t-97037
-  teiginys: 'Atidėjus krikšto klausimą, Gediminui svarbiausia liko naujai sudaryta taika.'
+  teiginys: "Atidėjus krikšto klausimą, Gediminui svarbiausia liko naujai sudaryta taika."
+  temporaliniai_duomenys: "įvykio data: 1325 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas, teiginys paliktas kaip citatos remiamas faktas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "640894-641237; hash=59410afc21f91239125fa91c728e64cce17b739442f0ba89e53ea14030bcf40e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
-
+    - c-91584
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -81,8 +163,9 @@ Nenurodyta
     niškomis valstybėmis. Iš Avignono 1325 m. sugrįžęs Rygos arki­
     vyskupas metė ordinui interdiktą už Lietuvos krikšto sutrukdymą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -99,8 +182,9 @@ Nenurodyta
     Krikšto klausimą atidėjus, Gediminui berūpėjo tik naujai su­
     darytoji taika.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -117,8 +201,63 @@ Nenurodyta
     su Gediminu nekariauti ketverius metus, nes buvo turima vilčių,
     kad per tą laiką Gediminas galįs pasikrikštyti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
+## Citatos
+
+- id: c-04995
+  citata_originali: |
+    žodžiuose, berods, atsispindi Gedimino anksčiau turėtos viltys,
+    kada jis, kreipdamasis į popiežių, buvo tikėjęsis, jog aukščiausias
+    Bažnyčios autoritetas sudraus ordiną. Avignone greičiausiai ne­
+    daug tebuvo žinoma, kad kryžiuočiai, sau įsikalę pagonių lietuviu
+    krikštijimo monopolį, kliudė Lietuvai užmegzti ryšius su krikščio­
+    niškomis valstybėmis. Iš Avignono 1325 m. sugrįžęs Rygos arki­
+    vyskupas metė ordinui interdiktą už Lietuvos krikšto sutrukdymą.
+  citata_rodoma: "Iš Avignono 1325 m. sugrįžęs Rygos arki­\nvyskupas metė ordinui interdiktą už Lietuvos krikšto sutrukdymą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-97034
+    - t-97035
+
+- id: c-04996
+  citata_originali: |
+    Avignone greičiausiai ne­
+    daug tebuvo žinoma, kad kryžiuočiai, sau įsikalę pagonių lietuviu
+    krikštijimo monopolį, kliudė Lietuvai užmegzti ryšius su krikščio­
+    niškomis valstybėmis. Iš Avignono 1325 m. sugrįžęs Rygos arki­
+    vyskupas metė ordinui interdiktą už Lietuvos krikšto sutrukdymą.
+    Krikšto klausimą atidėjus, Gediminui berūpėjo tik naujai su­
+    darytoji taika.
+  citata_rodoma: "Krikšto klausimą atidėjus, Gediminui berūpėjo tik naujai su­\ndarytoji taika."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-97033
+    - t-97036
+
+- id: c-91584
+  citata_originali: |
+    Iš Avignono 1325 m. sugrįžęs Rygos arki­
+    vyskupas metė ordinui interdiktą už Lietuvos krikšto sutrukdymą.
+    Krikšto klausimą atidėjus, Gediminui berūpėjo tik naujai su­
+    darytoji taika. Išvykdami iš Livonijos, popiežiaus legatai įsakė
+    su Gediminu nekariauti ketverius metus, nes buvo turima vilčių,
+    kad per tą laiką Gediminas galįs pasikrikštyti.
+  citata_rodoma: "Krikšto klausimą atidėjus, Gediminui berūpėjo tik naujai su­\ndarytoji taika. Išvykdami iš Livonijos, popiežiaus legatai įsakė\nsu Gediminu nekariauti ketverius metus, nes buvo turima vilčių,\nkad per tą laiką Gediminas galįs pasikrikštyti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-97037

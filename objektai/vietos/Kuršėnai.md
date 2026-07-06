@@ -16,6 +16,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kuršėnai
 
@@ -26,32 +38,66 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
 ## Teiginiai
 
 <a id="claim-t-68377"></a>
-- t-001
+- t-004
   global_id: t-68377
-  teiginys: 'Kuršėnuose įvyko paskutinis vadų pasitarimas, kuriame išryškėjo didelė jų nesantarvė.'
+  teiginys: "Kuršėnuose įvyko paskutinis vadų pasitarimas, kuriame išryškėjo didelė jų nesantarvė."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "934890-935226; hash=929395a760dfafdd3317a60c912ec338b5f23f3fcdec0d0838a03055cf735b37; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-003
+    - c-67969
 
 <a id="claim-t-68378"></a>
-- t-002
+- t-003
   global_id: t-68378
-  teiginys: 'Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.'
+  teiginys: "Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius."
+  semantiniai_rysiai: "Virgoličiaus rinktinė keliavo į Šiauliai (0.87)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "934890-935226; hash=929395a760dfafdd3317a60c912ec338b5f23f3fcdec0d0838a03055cf735b37; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Šiauliai: 0.87"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Virgoličiaus rinktinė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Šiauliai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo rinktinės persikėlimą į Šiaulius."
   pagrindžia:
-    - c-002
+    - c-43557
 
 <a id="claim-t-68379"></a>
-- t-003
+- t-002
   global_id: t-68379
-  teiginys: '1919 m. liepos 26 d. į Kuršėnus įžengė pirmieji plk. Virgoličiaus vadovaujami bermontininkai.'
+  teiginys: "1919 m. liepos 26 d. į Kuršėnus įžengė pirmieji plk. Virgoličiaus vadovaujami bermontininkai."
+  semantiniai_rysiai: "Bermontininkai keliavo į Kuršėnai (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1919 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai aprašo bermontininkų įžengimą į Kuršėnus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "784655-784865; hash=068f82b1e322effe6293c72a083c93391fafc7eddf11dad230da494f2a0c72a4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Kuršėnai: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bermontininkai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kuršėnai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Bermontininkai tiesiogiai minimi kaip įžengę į Kuršėnus."
   pagrindžia:
-    - c-001
+    - c-43556
 
 <a id="claim-t-183039"></a>
-- t-004
+- t-005
   global_id: t-183039
-  teiginys: 'Kuršėnuose įvyko paskutinis vadų pasitarimas, kuriame išryškėjo jų nesantarvė ir neveiklumas.'
+  teiginys: "Kuršėnuose įvyko paskutinis vadų pasitarimas, kuriame išryškėjo jų nesantarvė ir neveiklumas."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "934961-935278; hash=5e7aef44e2cc39338faa4534288a8b4eafe80cfceb4e8f19c0dd16a8ba39e8cb; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-004
+    - c-166431
 - susijęs iš [[objektai/asmenys/Virgoličius.md#claim-t-40509|Virgoličius]]: 1919 m. liepos 26 d. pulkininko Virgoličiaus vadovaujami bermontininkai įžengė į Kuršėnus.
 - susijęs iš [[objektai/asmenys/Virgoličius.md#claim-t-40510|Virgoličius]]: Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.
 - susijęs iš [[objektai/grupes/Virgoličiaus rinktinė.md#claim-t-39014|Virgoličiaus rinktinė]]: 1919 m. spalio 5 d. plk. Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.
@@ -79,6 +125,7 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
     talpas, plėšti gyvento-
     jus ir kitaip savivaliauti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -96,6 +143,7 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
     rinktinė iš Kuršėnų per-
     sikėlė į Šiaulius.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -118,8 +166,9 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
     šiojo, kiekvienas norėjo
     vadovauti, bet nieko neveikė, tiktai paradavo ir puotavo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -140,11 +189,92 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
     vadovauti, bet nieko neveikė, tiktai paradavo ir puotavo. Krašto
     bajorija buvo labai nepatenkinta generolais.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
+## Citatos
+
+- id: c-43556
+  citata_originali: |
+    Bermonto ėmė
+    bręsti karinis konfliktas.
+    1919 m. liepos 26 d. į
+    Kuršėnus įžengė pirmieji
+    bermontininkai, vado-
+    vaujami plk. Virgoličiaus,
+    kur ėmė užiminėti pa-
+    talpas, plėšti gyvento-
+    jus ir kitaip savivaliauti.
+  citata_rodoma: "1919 m. liepos 26 d. į\nKuršėnus įžengė pirmieji\nbermontininkai, vado-\nvaujami plk. Virgoličiaus,\nkur ėmė užiminėti pa-\ntalpas, plėšti gyvento-\njus ir kitaip savivaliauti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-68379
+
+- id: c-43557
+  citata_originali: |
+    Virgoličiaus,
+    kur ėmė užiminėti pa-
+    talpas, plėšti gyvento-
+    jus ir kitaip savivaliauti.
+    Spalio 5 d. plk. Virgoličiaus
+    rinktinė iš Kuršėnų per-
+    sikėlė į Šiaulius.
+  citata_rodoma: "Spalio 5 d. plk. Virgoličiaus\nrinktinė iš Kuršėnų per-\nsikėlė į Šiaulius."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-68378
+
+- id: c-67969
+  citata_originali: |
+    Norėdami sukilėlių
+    nuotaiką pakelti, vadai nu-
+    sprendė pulti Šiaulius. Ta-
+    čiau ir čia nepasisekus,
+    nuotaika dar labiau nukri-
+    to. Tada Kuršėnuose
+    įvyko paskutinis vadų pa-
+    sitarimas, kur pasirodė di-
+    džiausia tarp jų nesantar-
+    vė: vieni kitiems prikai-
+    šiojo, kiekvienas norėjo
+    vadovauti, bet nieko neveikė, tiktai paradavo ir puotavo.
+  citata_rodoma: "Tada Kuršėnuose\nįvyko paskutinis vadų pa-\nsitarimas, kur pasirodė di-\ndžiausia tarp jų nesantar-\nvė: vieni kitiems prikai-\nšiojo, kiekvienas norėjo\nvadovauti, bet nieko neveikė, tiktai paradavo ir puotavo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-68377
+
+- id: c-166431
+  citata_originali: |
+    Ta-
+    čiau ir čia nepasisekus,
+    nuotaika dar labiau nukri-
+    to. Tada Kuršėnuose
+    įvyko paskutinis vadų pa-
+    sitarimas, kur pasirodė di-
+    džiausia tarp jų nesantar-
+    vė: vieni kitiems prikai-
+    šiojo, kiekvienas norėjo
+    vadovauti, bet nieko neveikė, tiktai paradavo ir puotavo. Krašto
+    bajorija buvo labai nepatenkinta generolais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183039
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Bermontininkai]], [[objektai/grupes/Virgoličiaus rinktinė]]

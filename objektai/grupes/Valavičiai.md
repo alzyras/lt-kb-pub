@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Valavičiai
 
@@ -19,9 +31,19 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
 <a id="claim-t-20056"></a>
 - t-001
   global_id: t-20056
-  teiginys: 'XVI a. Valavičiai buvo priskirti prie įtakingų rusėnų giminių, laikiusių save LDK piliečiais.'
+  teiginys: "XVI a. Valavičiai buvo priskirti prie įtakingų rusėnų giminių, laikiusių save LDK piliečiais."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "144333-144726; hash=cc7e9907045ddcf76cec6fa419ae609342a6fb98ea49aa476fdf42ed7c6472b3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusėnai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Valavičiai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Rusėnai: mention_match, group, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valavičiai\" parinktas kaip owner_note_path. Targetas \"Rusėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-22791
 - susijęs iš [[objektai/asmenys/Eustachijus Valavičius.md#claim-t-184697|Eustachijus Valavičius]]: Maršalas Eustachijus Valavičius dalyvavo derybose su maskvėnų pasiuntiniais.
 - susijęs iš [[objektai/asmenys/Eustachijus Valavičius.md#claim-t-87424|Eustachijus Valavičius]]: Eustachijus Valavičius buvo Vilniaus kaštelionas.
 - susijęs iš [[objektai/asmenys/Jurgis Valavičius.md#claim-t-186225|Jurgis Valavičius]]: Jurgis Valavičius su kitais sužeistais pulkų vadais prasiskynė kelią per ginkluotus būrius ir išvengė nelaisvės ar mirties.
@@ -47,8 +69,27 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
     Radvilos, o visos kitos – Chodkevičiai, Sapiegos, Valavičiai, Tiškevičiai,
     Oginskiai ir kt.  – rusėnai, tačiau laikantys save LDK piliečiais.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-22791
+  citata_originali: |
+    LDK politinės tautos prielaidas kūrė LDK karinės
+    pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab. Salaspilis), Chotyne,
+    kuriose lietuviai kovojo petys į petį su rusėnais.
+    Iš įtakingiausių XVI a. giminių lietuviškos kilmės yra tik Goštautai ir
+    Radvilos, o visos kitos – Chodkevičiai, Sapiegos, Valavičiai, Tiškevičiai,
+    Oginskiai ir kt.  – rusėnai, tačiau laikantys save LDK piliečiais.
+  citata_rodoma: "Radvilos, o visos kitos – Chodkevičiai, Sapiegos, Valavičiai, Tiškevičiai,"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-20056

@@ -15,6 +15,18 @@ tags:
   - sutartis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvos ir Sovietų Rusijos taikos sutartis (1920 m.)
 
@@ -27,10 +39,22 @@ Likę vieniši lietuviai 1926 m. rugsėjo 28 d. Maskvoje pasirašė nepuolimo ir
 <a id="claim-t-78152"></a>
 - t-001
   global_id: t-78152
-  teiginys: '1926 m. rugsėjo 28 d. Lietuvos ir SSRS nepuolimo sutartyje SSRS patvirtino, kad išlieka visos 1920 m. taikos sutarties sąlygos.'
+  teiginys: "1926 m. rugsėjo 28 d. Lietuvos ir SSRS nepuolimo sutartyje SSRS patvirtino, kad išlieka visos 1920 m. taikos sutarties sąlygos."
+  temporaliniai_duomenys: "įvykio data: 1920 m.; įvykio data: 1926 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys labiau apie 1926 m. sutartį, o citata leidžia susieti ją su 1920 m. sutarties sąlygų patvirtinimu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "310461-310761; hash=53ae4df8c9f30a0b0da3156495a5e210914522fa7044240dac259d7b57cd07fb; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos ir Sovietų Rusijos taikos sutartis (1920 m.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos ir Sovietų Rusijos taikos sutartis (1920 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-75460
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,8 +67,26 @@ Likę vieniši lietuviai 1926 m. rugsėjo 28 d. Maskvoje pasirašė nepuolimo ir
     su SSRS. Sutartyje SSRS patvirtino, kad išlieka visos 1920 m. sutarties są-
     lygos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-75460
+  citata_originali: |
+    Puoselėta nemažai gražių Baltoskandijos idėjų ir planų, tačiau ben-
+    dradarbiavimas su Skandinavijos šalimis neišsiplėtė. Likę vieniši lietuviai
+    1926 m. rugsėjo 28 d. Maskvoje pasirašė nepuolimo ir neutralumo sutartį
+    su SSRS. Sutartyje SSRS patvirtino, kad išlieka visos 1920 m. sutarties są-
+    lygos.
+  citata_rodoma: "Likę vieniši lietuviai \n1926 m. rugsėjo 28 d. Maskvoje pasirašė nepuolimo ir neutralumo sutartį \nsu SSRS. Sutartyje SSRS patvirtino, kad išlieka visos 1920 m. sutarties są-\nlygos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78152

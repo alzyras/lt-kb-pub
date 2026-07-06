@@ -10,12 +10,24 @@ tags:
   - ivykis
   - reforma
   - tikėjimas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Baudžiavos panaikinimas Rusijos imperijoje (1861 m.)
 
 ## Santrauka
 
-Prieš 1861 m. baudžiavos panaikinimą Lietuvos atstovai aiškiai pasisakė už valstiečių atleidimą, nors Rusijos bajorija tam nepritarė. 1858 m. baudžiavos panaikinimo rengimui visose Lietuvos gubernijose buvo sudaryti bajorų komitetai. 1861 m. baudžiavos panaikinimo reformą pagal manifestą ir ukazus reikėjo įvykdyti per dvejus metus.
+Baudžiavos panaikinimas Rusijos imperijoje (1861 m.): dar per karūnaciją caras įsakė atsiklausti dėl baudžiavos panaikinimo į iškilmes suvažiavusios bajorijos. Pačios Ru- sijos bajorija pasisakė neigiamai, bet Lietuvos atstovai aiš- kiai pasisakė už valstiečių atleidimą. Mat, Lietuvos bajorijos dauguma jau buvo. Baudžiavos panaikinimas Rusijos imperijoje (1861 m.): reformai atlikti buvo sudarytos apskrityse valstiečių ko- misijos, apskritys padalintos į apylinkes, kurių priešaky bu- vo pastatyti taikos tarpininkai, o didesniesiems nesu- sipratimams spręsti — visų tarpininkų suvažiavimai, vadinami taikos suvažiavimais. Baudžiavos panaikinimas Rusijos imperijoje (1861 m.): baudžiavos panaikinimo vykdymas buvo pačių dvarininkų rankose, nes visi taikos tarpininkai buvo renkami iš jų tarpo. Dvarininkai, žinoma, tik savimi tesirūpino. Visą reformą pagal manifestą ir papildomuosius įsakymus (ukazus) reikėjo atlikti per 2 metus (tuo.
 
 ## Laikotarpis ir datos
 
@@ -34,24 +46,28 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-<a id="claim-t-66485"></a>
-- t-001
-  global_id: t-66485
-  teiginys: 'Baudžiavos panaikinimo reformai vykdyti apskrityse buvo sudarytos valstiečių komisijos, o apylinkėms vadovavo taikos tarpininkai.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-<a id="claim-t-66487"></a>
-- t-002
-  global_id: t-66487
-  teiginys: '1858 m. baudžiavos panaikinimo rengimui visose Lietuvos gubernijose buvo sudaryti bajorų komitetai.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
+<a id="claim-t-66485"></a>
+- t-002
+  global_id: t-66485
+  teiginys: "1858 m. baudžiavos panaikinimo rengimui visose Lietuvos gubernijose buvo sudaryti bajorų komitetai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "942475-943051; hash=6264b6efcbb9d22c49b4fa7366e2dbb5c7c94134e299c89effe759f6494e7825; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-66699
+
+<a id="claim-t-66487"></a>
+- t-001
+  global_id: t-66487
+  teiginys: "Baudžiavos panaikinimo reformai vykdyti apskrityse buvo sudarytos valstiečių komisijos, o apylinkėms vadovavo taikos tarpininkai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "943694-944105; hash=3949714dd61bc14882c8b7c91ec4c90f7e8538d5ff365bc4b6982a722ce4df82; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-66702
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: '1858 m. baudžiavos panaikinimo rengimui visose Lietuvos gubernijose buvo sudaryti bajorų komitetai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -81,11 +97,14 @@ Nenurodyta
     tas į Petrapilį, kur tokį
     pat darbą dirbo speciali
     komisija visai Rusijai.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
+    - t-001
+
 - c-002
   santrauka: 'Baudžiavos panaikinimo reformai vykdyti apskrityse buvo sudarytos valstiečių komisijos, o apylinkėms vadovavo taikos tarpininkai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -99,8 +118,66 @@ Nenurodyta
     taikos suvažiavimais.
     Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų
     rankose, nes visi taikos tarpininkai buvo renkami iš jų tarpo.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
+    - t-002
+
+## Citatos
+
+- id: c-66699
+  citata_originali: |
+    Po karūnacijos visi
+    Lietuvos gubernijų sei-
+    meliai, — atsakydami į
+    klausimą, kuriuo būdu,
+    jų nuomone, reikėtų
+    pagerinti valstiečių būk-
+    lę, — pareiškė, kad pir-
+    mąja sąlyga jie laiką
+    baudžiavos panaikinimą
+    ir kad jie patys mielai
+    atsižadą savo teisių
+    valstiečiams. Po to
+    (1858 m.) valstiečių at-
+    leidimo projektui pa-
+    ruošti visose Lietuvos
+    gubernijose buvo suda-
+    ryti bajorų komitetai,
+    kurių darbą turėjo su-
+    vienodinti centralinė
+    komisija Vilniuje. Ši-
+    tos komisijos sudarytas
+    projektas buvo nusiųs-
+    tas į Petrapilį, kur tokį
+    pat darbą dirbo speciali
+    komisija visai Rusijai.
+  citata_rodoma: "Po to (1858 m.) valstiečių at-\nleidimo projektui pa-\nruošti visose Lietuvos\ngubernijose buvo suda-\nryti bajorų komitetai,\nkurių darbą turėjo su-\nvienodinti centralinė\nkomisija Vilniuje. Ši-\ntos komisijos sudarytas\nprojektas buvo nusiųs-\ntas į Petrapilį, kur tokį\npat darbą dirbo speciali\nkomisija visai Rusijai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66485
+
+- id: c-66702
+  citata_originali: |
+    Caras Aleksandras II
+    (1855-1881 m.).
+    Reformai atlikti buvo sudarytos apskrityse valstiečių ko-
+    misijos, apskritys padalintos į apylinkes, kurių priešaky bu-
+    vo pastatyti taikos tarpininkai, o didesniesiems nesu-
+    sipratimams spręsti — visų tarpininkų suvažiavimai, vadinami
+    taikos suvažiavimais.
+    Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų
+    rankose, nes visi taikos tarpininkai buvo renkami iš jų tarpo.
+  citata_rodoma: "Reformai atlikti buvo sudarytos apskrityse valstiečių ko-\nmisijos, apskritys padalintos į apylinkes, kurių priešaky bu-\nvo pastatyti taikos tarpininkai, o didesniesiems nesu-\nsipratimams spręsti — visų tarpininkų suvažiavimai, vadinami\ntaikos suvažiavimais."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66487

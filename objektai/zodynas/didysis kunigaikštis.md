@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # didysis kunigaikštis
 
@@ -17,9 +29,22 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
 <a id="claim-t-185401"></a>
 - t-001
   global_id: t-185401
-  teiginys: 'Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžiojo kunigaikščio vardo.'
+  teiginys: "Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžiojo kunigaikščio vardo."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "572588-573563; hash=9d3609ee3065c54f2b00c83fd82add8b0505779769ae10627467dcc5a48b755a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "didysis kunigaikštis: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"didysis kunigaikštis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-168762
 - susijęs iš [[objektai/asmenys/Ona (Vytauto žmona).md#claim-t-87923|Ona (Vytauto žmona)]]: Vytauto žmona Ona, Smolensko kunigaikštytė, išpažino graikų apeigų tikėjimą ir prieš Lietuvos krikštą turėjo koplyčią Trakų pilyje.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176715|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Lietuvos Didžiojoje Kunigaikštystėje apgyvendino musulmonų totorių ir karaimų bendruomenes.
 - susijęs iš [[objektai/daiktai/Vilniaus pilys, sienos, bokštai, grioviai ir perkasos 1394 m. apgultyje.md#claim-t-87066|Vilniaus pilys, sienos, bokštai, grioviai ir perkasos 1394 m. apgultyje]]: 1394 metų Vilniaus apgultyje didysis kunigaikštis įtvirtino įgulas abiejose pilyse ir mieste.
@@ -42,6 +67,7 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
 - susijęs iš [[objektai/ivykiai/Vytauto siųstas žygis į Riazanę.md#claim-t-186577|Vytauto siųstas žygis į Riazanę]]: Lietuvos metraštis pasakoja, kad Vytautas pasiuntė Simoną Lengvenį su didele kariuomene ir Smolensko pajėgomis prieš Riazanės kunigaikštį Olegą.
 - susijęs iš [[objektai/ivykiai/Vytauto siųstas žygis į Riazanę.md#claim-t-186578|Vytauto siųstas žygis į Riazanę]]: Lietuvos metraštis pasakoja, kad 1396 m. Vytautas prieš Riazanės kunigaikštį Olegą pasiuntė Simoną Lengvenį su Smolensko pajėgomis.
 - susijęs iš [[objektai/ivykiai/Žemaičių kunigaikštystės privilegija.md#claim-t-01902|Žemaičių kunigaikštystės privilegija (privilegija)]]: Žemaičių kunigaikštystės privilegija patvirtino Vytauto laikų žemaičių teises ir garantavo, kad krašto seniūną jie rinksis patys.
+- susijęs iš Lietuvos kronika: Narbutas rašo, kad Lietuvos didysis kunigaikštis Narimantas apie 1268 m. įsiveržė į jotvingių Polesę ir primetė gyventojams savo paskirtą valdovą.
 - susijęs iš Lietuvos metraštis (Bychovco kronika): Bychovco kronikoje teigiama, kad 1368 m. Maskvos didysis kunigaikštis Dmitrijus sulaužė taiką, pasiųsdamas Algirdui karo paskelbimą.
 - susijęs iš Gardinas: 1503 m. Gardine Lietuvos didysis kunigaikštis Aleksandras išleido privilegiją statyti Vilniaus gynybinę mūro sieną.
 - susijęs iš Gardinas: 1503 m. Gardine Lietuvos didysis kunigaikštis Aleksandras išleido privilegiją statyti Vilniaus gynybinę mūro sieną.
@@ -82,6 +108,7 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
 - susijęs iš [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis).md#claim-t-183741|Ivanas (Tverės didysis kunigaikštis)]]: Tverės didysis kunigaikštis Ivanas prieš mūšį lankėsi pas Vytautą su šeima ir bajorais, o vėliau buvo garbingai išlydėtas su dovanomis.
 - susijęs iš [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis).md#claim-t-39538|Ivanas (Tverės didysis kunigaikštis)]]: Tverės didysis kunigaikštis Ivanas prieš mūšį lankėsi pas Vytautą ir buvo garbingai išlydėtas su daugybe dovanų.
 - susijęs iš [[objektai/asmenys/Janas Kropidła.md#claim-t-87701|Janas Kropidła]]: Kujavų vyskupas Janas Kropidła Vytauto prašymu palaimino Vytauto ir Julijonos Alšėniškės santuoką.
+- susijęs iš [[objektai/asmenys/Jaroslavas.md#claim-t-190885|Jaroslavas]]: Narbuto pasakojimu, didysis kunigaikštis Jaroslavas 1031 m. iš Lenkijos išsivedė belaisvių ir arčiau Kijevo steigė jų kolonijas.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-183536|Jogaila (kunigaikštis, XIV–XV a.)]]: Pagal 1385 m. Krėvos sutartį su Lenkija Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi.
 - susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113832|Julijona (Vytauto žmona)]]: Vytauto žmona Julijona, Algimanto Alšėniškio duktė, išpažino graikų apeigų tikėjimą ir turėjo koplyčią Trakų pilyje.
 - susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113834|Julijona (Vytauto žmona)]]: Algimanto Alšėniškio duktė Julijona išpažino graikų apeigų tikėjimą ir Trakų pilyje turėjo koplyčią.
@@ -97,6 +124,7 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila.md#claim-t-186350|Mikalojus Radvila]]: Vilniaus vaivada Mikalojus Radvila dalyvavo derybose su maskvėnų pasiuntiniais dėl valstybės reikalų.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113913|Mindaugas (valdovas, XIII a.)]]: Mindaugas 1219 m. kartu su kitais Lietuvos žemės kunigaikščiais sudarė taikos sutartį su Haliču-Voluine.
 - susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-184800|Mykolas Glinskis]]: Mykolas Glinskis visą naktį drąsino maskvėnų vadus, žadėdamas lengvą pergalę prieš menkas karaliaus pajėgas.
+- susijęs iš [[objektai/asmenys/Narimantas (Pinsko kunigaikštis).md#claim-t-190930|Narimantas (Pinsko kunigaikštis)]]: Narbutas pasakoja, kad Narimantas apie 1268 m. įsiveržė į jotvingių Polesę ir privertė gyventojus priimti jo paskirtą valdovą Traidenį.
 - susijęs iš [[objektai/asmenys/Olegas (Riazanės didysis kunigaikštis).md#claim-t-39620|Olegas (Riazanės didysis kunigaikštis)]]: 1396 m. Riazanės didysis kunigaikštis Olegas su kitais puolė Lietuvą ir padarė daug žalos.
 - susijęs iš [[objektai/asmenys/Parfėjus.md#claim-t-87925|Parfėjus]]: Pskoviečiai pasiuntė valdovo vietininką Parfėjų pas Vytautą tartis dėl belaisvių išpirkimo.
 - susijęs iš [[objektai/asmenys/Petras (Vilniaus vyskupas).md#claim-t-87824|Petras (Vilniaus vyskupas)]]: Vilniaus vyskupas Petras atsisakė sutuokti Vytautą su Julijona dėl artimos giminystės.
@@ -104,6 +132,7 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
 - susijęs iš [[objektai/asmenys/Rumbaudas.md#claim-t-184824|Rumbaudas]]: Vytautas į Korčino seimą iš pradžių nusiuntė Lietuvos maršalą Rumbaudą ir Vilniaus vaivadą Goštautą.
 - susijęs iš [[objektai/asmenys/Silvestras Levontjevičius.md#claim-t-87928|Silvestras Levontjevičius]]: Pskoviečiai pasiuntė posadniką Silvestrą Levontjevičių pas Vytautą derėtis dėl belaisvių išpirkimo.
 - susijęs iš [[objektai/asmenys/Tautvilas.md#claim-t-121176|Tautvilas]]: 1249 m. Mindaugas iš savo sūnėno Tautvilo atėmė valdas, o Tautvilas, remiamas Haličo-Voluinės ir Livonijos, pradėjo karą prieš Mindaugą.
+- susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-190990|Traidenis (valdovas, XIII a.)]]: Narbutas Traidenį vadina Narimanto broliu, Jotvingijos ir Dainavos kunigaikščiu, turėjusiu priklausyti Lietuvos didžiajam kunigaikščiui.
 - susijęs iš [[objektai/asmenys/Vasilijus Vasiljevičius.md#claim-t-87932|Vasilijus Vasiljevičius]]: Vasilijus Vasiljevičius, vadintas Akluoju, 1430 metais atvyko į Trakus ir Vilnių Vytauto karūnavimo proga.
 - susijęs iš [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis).md#claim-t-183767|Vladimiras (Pronsko kunigaikštis)]]: Pronsko kunigaikštis Vladimiras su Riazanės kariais žygiavo Maskvos link.
 - susijęs iš [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis).md#claim-t-39673|Vladimiras (Pronsko kunigaikštis)]]: Pronsko kunigaikštis Vladimiras su Riazanės kariais žygiavo Maskvos link.
@@ -129,7 +158,6 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
 - susijęs iš [[objektai/daiktai/Bachmatai.md#claim-t-186842|Bachmatai]]: Vasilijus Dimitrijevičius Smolenske pagerbė Vytautą brangiomis dovanomis, tarp jų bachmatais.
 - susijęs iš [[objektai/daiktai/Brangenybės, auksas, sidabras ir papuošalai.md#claim-t-87047|Brangenybės, auksas, sidabras ir papuošalai]]: Per Vilniaus gaisrą didysis kunigaikštis neteko žirgų ir brangenybių, o miestiečių įvertinta žala siekė iki 60 tūkstančių sidabro luitų.
 - susijęs iš [[objektai/daiktai/Brangūs aksomai.md#claim-t-186844|Brangūs aksomai]]: Vytautas savo žentui Vasilijui Dimitrijevičiui dovanojo brangių aksomų tarp kitų vertingų dovanų.
-- susijęs iš [[objektai/daiktai/Ietis.md#claim-t-186834|Ietis]]: Lietuvos metraštis pasakoja, kad Algirdas atrėmė savo ietį į Maskvos sieną ir liepė prisiminti, jog „lietuvių ietis“ stovėjo prie Maskvos.
 - susijęs iš [[objektai/daiktai/Kryžius.md#claim-t-186839|Kryžius]]: Lietuvos metraštis pasakoja, kad Vilniuje septyni pranciškonai buvo pririšti prie kryžių ir paleisti Nerimi žemyn.
 - susijęs iš [[objektai/daiktai/Pajautos stabas.md#claim-t-187513|Pajautos stabas]]: Lietuvos metraštis vaizduoja, kad Kukovaitis motinos Pajautos atminimui padirbo jos išvaizdos stabą, pastatė jį ties Žaslių ežeru, o Pajauta buvo laikoma deive.
 - susijęs iš [[objektai/daiktai/Perlais siuvinėti drabužiai.md#claim-t-186843|Perlais siuvinėti drabužiai]]: Lietuvos metraštis pasakoja, kad Vytautas Vasilijui Dimitrijevičiui padovanojo perlais siuvinėtų drabužių ir kitų brangių dovanų.
@@ -181,6 +209,7 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
 - susijęs iš [[objektai/ivykiai/Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje.md#claim-t-186645|Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje]]: Po Aleksandro ir Elenos vestuvių Vilniuje Maskvos pasiuntiniai buvo pagerbti, gausiai apdovanoti ir išleisti atgal.
 - susijęs iš [[objektai/ivykiai/Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje.md#claim-t-186647|Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje]]: Elena buvo atgabenta į Vilnių dvi savaitės prieš Užgavėnes.
 - susijęs iš [[objektai/ivykiai/Gardino taikos derybos su maskvėnais ir jų žlugimas.md#claim-t-185700|Gardino taikos derybos su maskvėnais ir jų žlugimas]]: Gardino derybose su maskvėnais Lietuvos senatoriai buvo paskirti vieni pasiuntiniams priimti, kiti valstybės reikalams aptarti.
+- susijęs iš [[objektai/ivykiai/Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei poloviečių poslinkiai.md#claim-t-191013|Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei poloviečių poslinkiai]]: Teodoro Narbuto pasakojime Jaroslavas po 1031 m. žygio į Lenkiją belaisvius kėlė arčiau Kijevo, bet Rosės krašte kolonijų nesteigė dėl pečenegų.
 - susijęs iš [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos.md#claim-t-186604|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)]]: Lietuvos metraščio pasakojime prie Dubrovnos Jogaila, Vytautas ir Prūsijos magistras sutelkė didžiules kariuomenes.
 - susijęs iš [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos.md#claim-t-186605|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)]]: Lietuvos metraštis pasakoja, kad vokiečiai prie Dubrovnos buvo prikasę duobių ir pridengę jas velėnomis.
 - susijęs iš [[objektai/ivykiai/Jogailos pripažinimas didžiuoju kunigaikščiu Vilniuje.md#claim-t-186574|Jogailos pripažinimas didžiuoju kunigaikščiu Vilniuje]]: Lietuvos metraštis teigia, kad Kęstutis važinėjo pas Jogailą tartis dėl reikalų, kaip anksčiau pas vyriausiąjį brolį.
@@ -360,7 +389,6 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
 - susijęs iš Užnerio žemė: Vytautas, įsteigęs Žemaičių vyskupiją, apkrikštijo visą Užnerio žemę ir, metraščio teigimu, įkūrė daug bažnyčių.
 - susijęs iš Valkininkai: 1700 m. lapkričio 19–24 d. Valkininkuose vykęs respublikonų bajorijos suvažiavimas priėmė Valkininkų nutarimą ir įkūrė LDK bajorijos generalinę konfederaciją.
 - susijęs iš Viazma: Po amžinos taikos sutarties Maskvos valdovas Ivanas Vasiljevičius pasiliko Viazmą ir kitus minėtus miestus bei valsčius sau.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Didysis kunigaikštis Aleksandras dovanojo Maksimui Vasiljevičiui šienaujamą pievą už Vilnelės prie kelio į Užupį.
 - susijęs iš Vilniaus katedra: Didysis kunigaikštis didino Vilniaus katedros lobius ir 1396 m. jos kapitulai dovanojo Cudzeniškių valdą.
 - susijęs iš Vilnius: Didysis magistras su visa kariauna patraukė į Vilnių, kai lietuvių vadas pasitraukė iš kryžiuočių akiračio.
 - susijęs iš Vilnius: 1552 m. Vilniaus valdžia ir piliečiai sudarė teismo proceso tvarką pagal Magdeburgo teisę.
@@ -403,6 +431,7 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
 - susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-183482|tėvonija]]: Lietuvos didysis kunigaikštis Vytautas Voluinę laikė savo tėvonijos dalimi.
 - susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-187530|tėvonija]]: Lietuvos metraštis pasakoja, kad Kernius ir Gimbutas, geisdami praplėsti tėvonijas, sutelkė Lietuvos ir Žemaičių pajėgas žygiui į Rusią.
 - susijęs iš [[objektai/zodynas/vergas.md#claim-t-187553|vergas]]: Lietuvos metraštis Vaidilą vadina didžiojo kunigaikščio Algirdo tarnu ir vergu, kuris iš kepėjo iškilo iki Lydos valdytojo.
+- susijęs iš [[objektai/daiktai/Ietis.md#claim-t-192078|Ietis]]: Lietuvos metraštis pasakoja, kad Algirdas atrėmė savo ietį į Maskvos sieną ir liepė prisiminti, jog „lietuvių ietis“ stovėjo prie Maskvos.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -433,8 +462,43 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
     žinios ir sutikimo Vilniaus, Vitebsko, Merkinės ir Gar­
     dino pilių viršininkų.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-168762
+  citata_originali: |
+    Alek­
+    sandras Vytautas su žmona
+    Ona savo bei savo palikuonių vardu turįs prisiekti, kad
+    jis su visomis Lietuvos valdomis amžinai liksiąs paklus­
+    nus bei ištikimas karaliui; šventai saugosiąs Lietuvos
+    kunigaikštystės sąjungą ir sandraugą su Lenkijos ka­
+    ralyste, nebandydamas nei nuo jos atsiskirti, nei ją pa­
+    žeisti; visada laikysiąs savo draugais ir priešais Lenkijos
+    karalystės bei Lenkijos karaliaus draugus ir priešus; su
+    Skirgaila visada stengsiąsis gyventi taikoje ir broliškoje
+    santarvėje; skirsiąs lėšų ir duosiąs karių atkariauti Skir­
+    gailai bei jo palikuonims Kijevo kunigaikštystę su viso­
+    mis jos valdomis, tuojau pat jam atiduosiąs valdyti Tra­
+    kus, Kremenecą ir kai kurias kitas mažesnes valdas.
+    Tuo tarpu Kazimieras Skirgaila, pasitenkinęs gautomis
+    kunigaikštystėmis, nesieksiąs Lietuvos didžiojo kuni­
+    gaikščio vardo. Karalius Jogaila neskirsiąs be Vytauto
+    330
+
+    ## Puslapis 329
+
+    žinios ir sutikimo Vilniaus, Vitebsko, Merkinės ir Gar­
+    dino pilių viršininkų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185401

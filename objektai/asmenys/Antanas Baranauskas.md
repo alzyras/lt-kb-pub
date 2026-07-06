@@ -8,10 +8,6 @@ datos:
   - '1902 m.'
 date_start: '1835'
 date_end: '1902'
-aliases:
-  - 'objektai/autoriai/Antanas Baranauskas'
-variantai:
-  - 'Antanas Baranauskas'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -24,6 +20,18 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'naujieji laikai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Antanas Baranauskas
 
@@ -36,16 +44,39 @@ Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas,
 <a id="claim-t-78029"></a>
 - t-001
   global_id: t-78029
-  teiginys: 'Antanas Baranauskas 1859 m. išreiškė civilizuotos, aukštąją kultūrą turinčios lietuvių tautos viziją.'
+  teiginys: "Antanas Baranauskas 1859 m. išreiškė civilizuotos, aukštąją kultūrą turinčios lietuvių tautos viziją."
+  temporaliniai_duomenys: "įvykio data: 1859 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas interpretacinis faktas, kurį tiesiogiai remia citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "213803-214278; hash=c0a43a06e4a4072e7aa4f2a7d59bdd460a04101a25989c44c835fc06e085f088; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antanas Baranauskas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=78"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Baranauskas\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-75343
 
 <a id="claim-t-78030"></a>
 - t-002
   global_id: t-78030
-  teiginys: 'Etninės lietuvybės pagrindu gimstančiai nacijai vyskupo Antano Baranausko formuluoti tikslai atrodė pasiekiami, ypač jei atsirastų valstybė, kuri juos laikytų ir savo kultūros politikos dalimi.'
+  teiginys: "Etninės lietuvybės pagrindu gimstančiai nacijai vyskupo Antano Baranausko formuluoti tikslai atrodė pasiekiami, ypač jei atsirastų valstybė, kuri juos laikytų ir savo kultūros politikos dalimi."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "247654-248097; hash=87914f830dab7e323a42c9ae50d466ebea7d6e0ca13f7e289b2c939234d1e007; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antanas Baranauskas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Baranauskas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-75342
 - susijęs iš Anykščių šilelis: „Anykščių šilelis“ apibūdinamas kaip Antano Baranausko lietuvių literatūros šedevras.
 - susijęs iš [[objektai/posakiai/„Viso svieto mokslus lietuviam paduosiu...“.md#claim-t-26651|„Viso svieto mokslus lietuviam paduosiu...“]]: 1859 m. Antanas Baranauskas parašė eilutes „Viso svieto mokslus lietuviam paduosiu“.
 - susijęs iš [[objektai/posakiai/„Viso svieto mokslus lietuviam paduosiu...“.md#claim-t-26903|„Viso svieto mokslus lietuviam paduosiu...“]]: 1859 m. Antanas Baranauskas žadėjo lietuviams perduoti pasaulio mokslus ir lietuviškai versti pasaulio raštus bei knygas.
@@ -62,6 +93,7 @@ Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas,
     bė, kuri juos laikytų ir savo kultūros politikos dalimi. Savo valstybingumo
     planuose lenkai numatė lietuviams tik tautinės mažumos statusą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -80,8 +112,42 @@ Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas,
     visi galvočiais, / Visam svietui visuos moksluos eis kelio vedžiotų.“ Tai
     civilizuotos, savo aukštąją kultūrą turinčios tautos vizija.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-75342
+  citata_originali: |
+    Lietuvių literatūra per šį laikotarpį pakilo į naujas aukštumas, lietuvių
+    kalba parašyti kūriniai tenkino ir intelektualiai išlavintą protą, gerą meni-
+    nį skonį. Etninės lietuvybės pagrindu gimstančiai nacijai vyskupo Antano
+    Baranausko formuluoti tikslai atrodė pasiekiami, ypač jei atsirastų valsty-
+    bė, kuri juos laikytų ir savo kultūros politikos dalimi. Savo valstybingumo
+    planuose lenkai numatė lietuviams tik tautinės mažumos statusą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78030
+
+- id: c-75343
+  citata_originali: |
+    Tačiau antros šio sąjūdžio kartos atstovas, aukš-
+    taitis, kunigas ir poetas, ateityje tapsiantis vyskupu, lietuvių literatū-
+    ros šedevro, poemos „Anykščių šilelis“ autorius, Antanas Baranauskas
+    (1835–1902) 1859 m. parašė: „Viso svieto mokslus lietuviam paduosiu;
+    / Viso svieto raštus, knygas lietuviškan versiu. / Lietuvnykai žmonės bus
+    visi galvočiais, / Visam svietui visuos moksluos eis kelio vedžiotų.“ Tai
+    civilizuotos, savo aukštąją kultūrą turinčios tautos vizija.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78029

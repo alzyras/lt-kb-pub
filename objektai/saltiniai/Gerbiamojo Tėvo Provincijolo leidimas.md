@@ -11,6 +11,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XVII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Gerbiamojo Tėvo Provincijolo leidimas
 
@@ -23,10 +35,25 @@ Jėzaus draugijos Lietuvos provincijos viršininkas Jonas Rivockis 1663 m. rugs�
 <a id="claim-t-186311"></a>
 - t-001
   global_id: t-186311
-  teiginys: 'Jėzaus draugijos Lietuvos provincijos viršininkas Jonas Rivockis 1663 m. rugsėjo 9 d. Gardine leido spausdinti antrąją Alberto Kojelavičiaus „Lietuvos istorijos“ dalį.'
+  teiginys: "Jėzaus draugijos Lietuvos provincijos viršininkas Jonas Rivockis 1663 m. rugsėjo 9 d. Gardine leido spausdinti antrąją Alberto Kojelavičiaus „Lietuvos istorijos“ dalį."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1663 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra tikslus, pilnas ir tiesiogiai paremtas leidimo tekstu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "518237-519285; hash=95a1520efc856f9b0e31dfc3222200044e19daa7c83e2b45cef1954c23fd4368; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gardinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gerbiamojo Tėvo Provincijolo leidimas: owner_note_path, source"
+  ryšio_targeto_parinkimas: "Gardinas: mention_match, place, gap=87"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gerbiamojo Tėvo Provincijolo leidimas\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-169672
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -67,8 +94,53 @@ Jėzaus draugijos Lietuvos provincijos viršininkas Jonas Rivockis 1663 m. rugs�
     spausdinama ir platinama kaip neturinti nieko, kas
     prieštarautų Romos katalikų tikėjimui.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-169672
+  citata_originali: |
+    Šviesiausiosios Tavo Aukštybės
+    nevertas tarnas
+    A lb e r ta s  V iįū k a s-K o je la v ič iu s
+    iš Jėzaus draugijos
+    GERBIAMOJO TĖVO PROVINCIJOLO LEIDIMAS
+    Aš, žemiau pasirašęs Jėzaus draugijos Lietuvos pro­
+    vincijos viršininkas, remdamasis galia, kurią šiuo rei­
+    kalu man suteikė didžiai gerbiamas mūsų tėvas Jonas
+    Povilas Oliva,
+    generalinis vikaras, duodu leidimą
+    spausdinti L i e t u v o s  i s t o r i j o s  antrą dalį, tėvo
+    Alberto
+    Kojelavičiaus
+    parašytą,
+    kelių
+    tos
+    pačios
+    299
+
+    ## Puslapis 298
+
+    draugijos teologų peržiūrėtą bei patikrintą. Tatai tvir­
+    tindamas, išdaviau šj raštą, savo ranka pasirašęs ir
+    įprastiniu draugijos antspaudu patvirtinęs.
+    Gardine, 1663 viešpaties metais, rugsėjo 9 d.
+    J o n a s R iv o c k is
+    CENZORIAUS PRITARIMAS
+    Gerbiamo Tėvo Alberto Vijūko-Kojelavičiaus, Jė­
+    zaus draugijos kunigo, šventosios teologijos daktaro,
+    Lietuvos istorijos antra dalis, gerbiamųjų Jėzaus drau­
+    gijos tėvų, tam reikalui paskirtų, patikrinta, galės būti
+    spausdinama ir platinama kaip neturinti nieko, kas
+    prieštarautų Romos katalikų tikėjimui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186311

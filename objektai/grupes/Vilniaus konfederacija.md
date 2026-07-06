@@ -15,6 +15,18 @@ tags:
   - vyskupas
 amziai:
   - 'XVIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vilniaus konfederacija
 
@@ -27,10 +39,22 @@ Targovicos konfederacijai 1792 m. birželio 25 d. pritarė Vilniaus (t.
 <a id="claim-t-20071"></a>
 - t-001
   global_id: t-20071
-  teiginys: 'Vilniaus konfederacija 1792 m. birželio 25 d. pritarė Targovicos konfederacijai.'
+  teiginys: "Vilniaus konfederacija 1792 m. birželio 25 d. pritarė Targovicos konfederacijai."
+  temporaliniai_duomenys: "įvykio data: 1792 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra trumpas, aiškus ir tiesiogiai pagrįstas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "176049-176584; hash=d69ff11c50205eca77b64ce7914d141a8b4e81b06c306b82eb533be5129e40f7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Targovica: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus konfederacija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Targovica: mention_match, place, gap=54"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus konfederacija\" parinktas kaip owner_note_path. Targetas \"Targovica\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-22806
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -45,8 +69,29 @@ Targovicos konfederacijai 1792 m. birželio 25 d. pritarė Vilniaus (t.
     konfederacijos Brastoje susijungė į vieną Abiejų Tautų konfederaciją ir
     savo centru paskelbė Gardiną.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-22806
+  citata_originali: |
+    Taigi lemtis nedavė Lenkijai ir Lietuvai XVIII  a. pabaigoje garbin-
+    gesnio valdovo, istorija dviem balsais atmetė kitokios raidos galimybę.
+    Targovicos konfederacijai 1792  m. birželio 25 d. pritarė Vilniaus (t.  y.
+    Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas
+    Simonas Kosakovskis, jo brolis Livonijos vyskupas Juozapas Kosakovskis
+    ir Vilniaus vyskupas I. Masalskis. Rugsėjo 11 dieną Targovicos ir Vilniaus
+    konfederacijos Brastoje susijungė į vieną Abiejų Tautų konfederaciją ir
+    savo centru paskelbė Gardiną.
+  citata_rodoma: "ir Vilniaus vyskupas I. Masalskis. Rugsėjo 11 dieną Targovicos ir Vilniaus"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-20071

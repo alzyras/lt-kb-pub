@@ -4,18 +4,32 @@ pavadinimas: 'Kazimieras Semenavičius'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1579 m.'
   - '1650 m.'
-date_start: '1650'
-date_end: ''
+date_start: '1579'
+date_end: '1650'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - mokslininkas
 amziai:
+  - 'XVI'
   - 'XVII'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kazimieras Semenavičius
 
@@ -31,25 +45,78 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
 ## Teiginiai
 
 <a id="claim-t-23231"></a>
-- t-001
+- t-003
   global_id: t-23231
-  teiginys: 'K. Semenavičius vadinamas LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju.'
+  teiginys: "K. Semenavičius vadinamas LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju."
+  temporaliniai_duomenys: "įvykio data: 1650 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "147595-148043; hash=12a040d70a2d25325f5abdfcf81271a9df6374e2ee318d38437abb561afb7971; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kazimieras Semenavičius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazimieras Semenavičius\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-70089
 
 <a id="claim-t-23233"></a>
-- t-002
+- t-005
   global_id: t-23233
-  teiginys: 'Kazimieras Semenavičius buvo vadinamas žymiausiu LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju.'
+  teiginys: "Kazimieras Semenavičius buvo vadinamas žymiausiu LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju."
+  temporaliniai_duomenys: "įvykio data: 1650 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys yra paveikslo antraštė, o citata leidžia suformuluoti enciklopedinį faktą apie asmenį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "147595-148043; hash=12a040d70a2d25325f5abdfcf81271a9df6374e2ee318d38437abb561afb7971; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kazimieras Semenavičius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazimieras Semenavičius\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-70089
 
 <a id="claim-t-23234"></a>
-- t-003
+- t-006
   global_id: t-23234
-  teiginys: 'Kazimiero Semenavičiaus raketų brėžiniai siejami su Amsterdamu ir 1650 m.'
+  teiginys: "Kazimiero Semenavičiaus raketų brėžiniai siejami su Amsterdamu ir 1650 m."
+  temporaliniai_duomenys: "įvykio data: 1650 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata yra antraštinio pobūdžio, bet pagrindžia trumpą faktą apie brėžinių vietą ir datą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "149300-149469; hash=a32e63842fb37e1100bb7bb0db711f987a20d9e79d0dffc452f43ee32543504c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Amsterdamas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kazimieras Semenavičius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Amsterdamas: mention_match, place, gap=52"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazimieras Semenavičius\" parinktas kaip owner_note_path. Targetas \"Amsterdamas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-70088
+
+<a id="claim-t-26715"></a>
+- t-007
+  global_id: t-26715
+  teiginys: "Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ („Didysis artilerijos menas“) (1650)."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "119681-120290; hash=075ccb3fdd4b5e02fc3fbd2a7d5f810c3a46ffb5166288afc46ec31cf75d25e7; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  vertinimo_autorius: "rewrite_source_claims / reject"
+  pagrindžia:
+    - c-16789
 - susijęs iš [[objektai/daiktai/Daugiapakopės raketos ir raketų brėžiniai.md#claim-t-75315|Daugiapakopės raketos ir raketų brėžiniai]]: Daugiapakopių raketų teorija siejama su K. Semenavičiaus veikalu „Artis magnae artilleriae“.
 - susijęs iš [[objektai/daiktai/Daugiapakopės raketos ir raketų brėžiniai.md#claim-t-75314|Daugiapakopės raketos ir raketų brėžiniai]]: K. Semenavičiaus raketų brėžiniai buvo susieti su Amsterdamu ir 1650 m.
 - susijęs iš [[objektai/daiktai/Daugiapakopės raketos ir raketų brėžiniai.md#claim-t-75316|Daugiapakopės raketos ir raketų brėžiniai]]: K. Semenavičius citatoje vadinamas žymiausiu LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju.
@@ -71,6 +138,27 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ („Didysis artilerijos menas“) (1650).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi
+    pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky-
+    klų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur-
+    tas 1579 m.). Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė
+    solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu
+    darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“
+    („Didysis artilerijos menas“) (1650). Jame randame šiuolaikinės artilerijos
+    ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-
+    orija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-004
+
+- c-002
   santrauka: 'Kazimiero Semenavičiaus raketų brėžiniai siejami su Amsterdamu ir 1650 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -78,13 +166,14 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
     istorinės reikšmės aspektas. Nuo XIV a. ryčiausias Europoje du amžius
     K. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
 
-- c-002
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Baroko
@@ -96,6 +185,7 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
     teorijos  kūrėjo K. Semenavičiaus veikalo
     „Artis magnae artilleriae“  frontispisas, 1650 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -103,7 +193,7 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
     - t-001
     - t-002
 
-- c-003
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Todėl ir Lietuvos XVII–XVIII a. istoriją apibūdi-
@@ -115,6 +205,59 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
     klų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur-
     tas 1579 m.).
   citata_rodoma: ''
-  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-16789
+  citata_originali: |
+    Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi
+    pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky-
+    klų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur-
+    tas 1579 m.). Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė
+    solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu
+    darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“
+    („Didysis artilerijos menas“) (1650). Jame randame šiuolaikinės artilerijos
+    ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-
+    orija.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-26715
+
+- id: c-70088
+  citata_originali: |
+    Yra ir kitas senojo Vilniaus universiteto
+    istorinės reikšmės aspektas. Nuo XIV a. ryčiausias Europoje du amžius
+    K. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m.
+  citata_rodoma: "K. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-23234
+
+- id: c-70089
+  citata_originali: |
+    Baroko
+    epochos kultūros turinį nulėmę jėzuitai skleidė savo idėjas per Vilniaus
+    universitetą. Manoma, kad studijų lygis senajame universitete nebuvo
+    menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose. Iš šių
+    ir kitų Vakarų bei Vidurio Europos katalikiškųjų universitetų atvykę pro-
+    Žymiausio LDK karo inžinieriaus, daugiapakopių raketų
+    teorijos  kūrėjo K. Semenavičiaus veikalo
+    „Artis magnae artilleriae“  frontispisas, 1650 m.
+  citata_rodoma: "Žymiausio LDK karo inžinieriaus, daugiapakopių raketų"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-23231
+    - t-23233

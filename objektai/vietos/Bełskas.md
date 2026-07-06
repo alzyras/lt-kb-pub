@@ -16,6 +16,18 @@ tags:
   - vieta
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Bełskas
 
@@ -28,9 +40,22 @@ Kai dar 1564 metais Bełsko seime Žygimantas Augustas tvirtino Lietuvai Antrąj
 <a id="claim-t-86008"></a>
 - t-001
   global_id: t-86008
-  teiginys: '1564 m. Bełsko seime Žygimantas Augustas tvirtino Lietuvai Antrąjį Statutą.'
+  teiginys: "1564 m. Bełsko seime Žygimantas Augustas tvirtino Lietuvai Antrąjį Statutą."
+  temporaliniai_duomenys: "įvykio data: 1564 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir tiesiogiai paremtas citatos informacija apie Bełsko seimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "563443-564494; hash=fb9281892c5710c92b476e99ecd3d6ff1d530daef98996e394d641f5ba87dc5a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bełskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bełskas\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-81987
 - susijęs iš [[objektai/asmenys/Albertas (Vilniaus vyskupas).md#claim-t-87422|Albertas (Vilniaus vyskupas)]]: Albertas kaip vyskupas dalyvavo 1501 m. Gardine aktuotame dokumente tarp patikimų liudytojų.
 - susijęs iš [[objektai/asmenys/Aleksandras Jurgėvičius.md#claim-t-87616|Aleksandras Jurgėvičius]]: Aleksandras Jurgėvičius 1501 metais Gardine minėtas kaip Vilniaus kaštelionas ir Gardino seniūnas.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-82285|Elena (vyskupas, XV–XVI a.)]]: Aleksandras užrašė Elenai ir jos įpėdiniams Smolnėnus, Horodiščę, Losičius ir kitas valdas su jų priklausiniais.
@@ -86,8 +111,40 @@ Kai dar 1564 metais Bełsko seime Žygimantas Augustas tvirtino Lietuvai Antrąj
     savo metu darė ir Žygimantas Senasis, paskelbdamas Pir­
     mąjį Statutą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-81987
+  citata_originali: |
+    IV KNYGA
+    Vilnius ir pasinaudojo savo prerogatyva abiejų tautų Unijos
+    seime, vykusiame Liubline, ir sostinės Vilniaus pasiuntiniai bur­
+    mistrai Francas Dumikas, Teodoras Jackovičius ir raštininkas
+    Jeronimas Opachovskis kartu su kitais Didžiosios kunigaikš­
+    tystės delegatais 1569 metų liepos 1-ą dieną pasirašė šlovingąjį
+    susivienijimo dekretą, Lietuvos paskelbtą Lenkijos pasiunti­
+    niams. Čia paminėti įstatymai gali būti laikomi galutiniu išsi­
+    vadavimu arba veikiau aukščiausia teisių veikimo riba, kurią
+    pasiekė miestiečių luomas Vilniuje ir visoje Lietuvoje.
+    Kai dar 1564 metais Bełsko seime Žygimantas Augustas
+    tvirtino Lietuvai Antrąjį Statutą, atsimindamas naudą, ku­
+    rią miestai teikė kraštui, ir rūpindamasis Vilniaus gerove,
+    atsižvelgdamas į gautus Vilniaus miesto burmistrų prašy­
+    mus, atskiru liepos 7 d. sprendimu, jis visus miestiečius at­
+    ribojo nuo Statuto galios, šitaip suteikdamas jiems daugiau
+    bylinėjimosi teismuose laisvės pagal Magdeburgo teisę, kaip
+    savo metu darė ir Žygimantas Senasis, paskelbdamas Pir­
+    mąjį Statutą.
+  citata_rodoma: "Čia paminėti įstatymai gali būti laikomi galutiniu išsi­\nvadavimu arba veikiau aukščiausia teisių veikimo riba, kurią \npasiekė miestiečių luomas Vilniuje ir visoje Lietuvoje.\nKai dar 1564 metais Bełsko seime Žygimantas Augustas \ntvirtino Lietuvai Antrąjį Statutą, atsimindamas naudą, ku­\nrią miestai teikė kraštui, ir rūpindamasis Vilniaus gerove, \natsižvelgdamas į gautus Vilniaus miesto burmistrų prašy­\nmus, atskiru liepos 7 d. sprendimu, jis visus miestiečius at­\nribojo nuo Statuto galios, šitaip suteikdamas jiems daugiau \nbylinėjimosi teismuose laisvės pagal Magdeburgo teisę, kaip \nsavo metu darė ir Žygimantas Senasis, paskelbdamas Pir­\nmąjį Statutą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86008

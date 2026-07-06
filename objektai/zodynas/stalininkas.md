@@ -18,6 +18,18 @@ tags:
 amziai:
   - 'XIII'
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # stalininkas
 
@@ -28,11 +40,21 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
 ## Teiginiai
 
 <a id="claim-t-58869"></a>
-- t-001
+- t-002
   global_id: t-58869
-  teiginys: 'Stalininkas Druzigeris pabėgo iš mūšio ir Torunėje klaidingai pranešė, kad visa krikščionių kariuomenė žuvo.'
+  teiginys: "Stalininkas Druzigeris pabėgo iš mūšio ir Torunėje klaidingai pranešė, kad visa krikščionių kariuomenė žuvo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "319674-320279; hash=f746f1278312b122ff12a559ee53f216a1e9c909df8682fb84099b0f9d6f40bb; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Druzigeris: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "stalininkas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Druzigeris: mention_match, person, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"stalininkas\" parinktas kaip owner_note_path. Targetas \"Druzigeris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-59501
 - susijęs iš [[objektai/zodynas/pataurininkis stalininkas rūmininkas iždininkas.md#claim-t-185389|pataurininkis stalininkas rūmininkas iždininkas]]: Maskvėnų pasiuntinius priėmė pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis ir rūmininkai, o derybose dalyvavo iždininkas Mikalojus Naruševičius.
 - susijęs iš [[objektai/asmenys/Andrejus Kurbskis.md#claim-t-186030|Andrejus Kurbskis]]: Maskvėnai derybose reikalavo, kad karalius išduotų perbėgėlį Andrejų Kurbskį su visais palydovais.
 - susijęs iš [[objektai/asmenys/Druzigeris.md#claim-t-60012|Druzigeris]]: Stalininkas Druzigeris Torunėje klaidingai pranešė, kad visa krikščionių kariuomenė žuvo mūšyje.
@@ -61,10 +83,11 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
     pasiuntė jiems talkinti savo stalininką Druzigerį su didele kariuomene ir su įgudusiais
     kariauti vyrais, be to, atvyko riteris Henrikas iš Lichtenšteino, o su juo daug maldininkų.
   citata_rodoma: ''
-  statusas: verified
-
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
+
 - c-002
   santrauka: 'Stalininkas Druzigeris pabėgo iš mūšio ir Torunėje klaidingai pranešė, kad visa krikščionių kariuomenė žuvo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -78,8 +101,29 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
     mūšio, toks didelis džiaugsmas apėmė krikščionių širdis, kad pranoko vakarykštės dienos
     raudas.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-59501
+  citata_originali: |
+    grobio  ir laimėję garbingą pergalę, nes jiems talkino mūsų viešpats Jėzus Kristus,
+    kuris tebūnie garbinamas per amžių amžius, amen. Tuo tarpu stalininkas Druzigeris,
+    su saviškiais nelyginant koks bailys pabėgęs iš mūšio, Torunės mieste pranešė, kad
+    ir broliai, ir maldininkai, ir visa krikščionių kariuomenė žuvusi mūšyje, o tada Kulmo
+    žemėje ir Lenkijoje kilo toks baisus krikščionių raudojimas, kokio nuo amžių nebuvo
+    girdėta. Tačiau kitos dienos pavakaryje, kai broliai su kariuomene sugrįžo po pergalingo
+    mūšio, toks didelis džiaugsmas apėmė krikščionių širdis, kad pranoko vakarykštės dienos
+    raudas.
+  citata_rodoma: "Tuo tarpu stalininkas Druzigeris,\nsu saviškiais nelyginant koks bailys pabėgęs iš mūšio, Torunės mieste pranešė, kad\nir broliai, ir maldininkai, ir visa krikščionių kariuomenė žuvusi mūšyje, o tada Kulmo\nžemėje ir Lenkijoje kilo toks baisus krikščionių raudojimas, kokio nuo amžių nebuvo\ngirdėta. Tačiau kitos dienos pavakaryje, kai broliai su kariuomene sugrįžo po pergalingo\nmūšio, toks didelis džiaugsmas apėmė krikščionių širdis, kad pranoko vakarykštės dienos\nraudas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58869

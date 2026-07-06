@@ -20,6 +20,18 @@ tags:
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Karaimai
 
@@ -30,53 +42,154 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
 ## Teiginiai
 
 <a id="claim-t-120184"></a>
-- t-001
+- t-007
   global_id: t-120184
-  teiginys: 'Karaimai į Lietuvą atkeliavo iš rytų, o jų atvykimas šaltinyje siejamas su Vytauto valdymo laikais.'
+  teiginys: "Karaimai į Lietuvą atkeliavo iš rytų, o jų atvykimas šaltinyje siejamas su Vytauto valdymo laikais."
+  semantiniai_rysiai: "Karaimai keliavo į Lietuva (0.94); Karaimai gyveno Trakai (0.84)"
+  temporaliniai_duomenys: "įvykio data: 1427 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia kilmės kryptį ir autoriaus prielaidą dėl atvykimo laiko."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "326408-327009; hash=86bb7ad1d6fcfd7ff15ec84366db92c2b8f72f70941cc36df1da40f8f4aad387; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Karaimai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo karaimų atvykimą į Lietuvą."
   pagrindžia:
-    - c-005
+    - c-110243
 
 <a id="claim-t-120185"></a>
-- t-002
+- t-006
   global_id: t-120185
-  teiginys: 'Trakuose gyvenę karaimai vertėsi daržininkyste ir agurkus vežė į Vilniaus turgus.'
+  teiginys: "Trakuose gyvenę karaimai vertėsi daržininkyste ir agurkus vežė į Vilniaus turgus."
+  semantiniai_rysiai: "Karaimai gyveno Trakai (0.95); Karaimai prekiavo su Vilniaus turgus (0.78)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "326520-327307; hash=8bb1a202b96cf6d2f9c460de2ceb10193f7115647ba90c3654ec645cc94991d4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Trakai: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Karaimai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad karaimai gyveno Trakuose."
   pagrindžia:
-    - c-006
+    - c-110245
 
 <a id="claim-t-120186"></a>
-- t-003
+- t-005
   global_id: t-120186
-  teiginys: 'Karaimų atvykimas į Lietuvą priskiriamas Vytauto viešpatavimo laikams.'
+  teiginys: "Karaimų atvykimas į Lietuvą priskiriamas Vytauto viešpatavimo laikams."
+  semantiniai_rysiai: "Karaimai gyveno Trakai (0.95); Karaimai keliavo į Lietuva (0.94); Karaimai prekiavo su Vilniaus turgus (0.78)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "326520-327307; hash=8bb1a202b96cf6d2f9c460de2ceb10193f7115647ba90c3654ec645cc94991d4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Trakai: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Karaimai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad karaimai gyvena Trakuose."
   pagrindžia:
-    - c-006
+    - c-110245
 
 <a id="claim-t-120187"></a>
-- t-004
+- t-003
   global_id: t-120187
-  teiginys: 'Karaimų etninė bendruomenė ir religija LDK buvo toleruojamos nuo XIV a. pabaigos.'
+  teiginys: "Karaimų etninė bendruomenė ir religija LDK buvo toleruojamos nuo XIV a. pabaigos."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "139450-139927; hash=1d4ac829d168cf78445e774ee4f16db6a7381644944891aeeba5259e4444aca4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Augustas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Karaimai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Augustas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karaimai\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-22443
 
 <a id="claim-t-120188"></a>
-- t-005
+- t-001
   global_id: t-120188
-  teiginys: 'Didieji kunigaikščiai labiau pasitikėjo karaimais ir totoriais, kurie tapo artimosios sargybos tautomis.'
+  teiginys: "Didieji kunigaikščiai labiau pasitikėjo karaimais ir totoriais, kurie tapo artimosios sargybos tautomis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "68699-69104; hash=656c2867ef612f3caa541ac21e0d2a0f2da3d7b88dea78733dc1e46da7c33ada; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Karaimai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Baltai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karaimai\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-22441
 
 <a id="claim-t-120189"></a>
-- t-006
+- t-002
   global_id: t-120189
-  teiginys: 'Lietuvos didysis kunigaikštis Vytautas LDK apgyvendino ryškias musulmonų totorių ir karaimų bendruomenes.'
+  teiginys: "Lietuvos didysis kunigaikštis Vytautas LDK apgyvendino ryškias musulmonų totorių ir karaimų bendruomenes."
+  semantiniai_rysiai: "Karaimai gyveno Lietuva (0.78); Totoriai gyveno Lietuva (0.78)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "137810-138323; hash=f479109d4aa35e28aaa3f8ae3ca3361d763f4c0a79fa808cc978923fc1342bf5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Lietuva: 0.78"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Totorių bendruomenės tiesiogiai nurodomos kaip apgyvendintos LDK."
   pagrindžia:
-    - c-002
+    - c-22442
 
 <a id="claim-t-120190"></a>
-- t-007
+- t-008
   global_id: t-120190
-  teiginys: 'Per 1398 m. Vytauto žygį paimti karaimai, manoma, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.'
+  teiginys: "Per 1398 m. Vytauto žygį paimti karaimai, manoma, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose."
+  semantiniai_rysiai: "Karaimai gyveno Luckas (0.82); Karaimai gyveno Trakai (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1398 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir suformuluotas pilnas sakinys."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "861814-862006; hash=0f5d8bd7c654afd10ed0546322f8f2a9fc08fcf8cde1c8e2fed807f422c4a9ec; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Luckas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Karaimai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Luckas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad karaimai buvo apgyvendinti Lucke."
   pagrindžia:
-    - c-004
+    - c-31094
+
+<a id="claim-t-183139"></a>
+- t-009
+  global_id: t-183139
+  teiginys: "Didieji kunigaikščiai labiau pasitikėjo karaimais ir totoriais, kurie tapo artimosios sargybos tautomis."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "68801-69196; hash=12bd2ed816202eca8f9a63f228522db88e777d1444ca07173f8bc1109ab3a5d9; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Karaimai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Baltai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karaimai\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  pagrindžia:
+    - c-166524
 - susijęs iš [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų.md#claim-t-23196|Isaakas ben Abrahamas iš Trakų]]: Isaakas ben Abrahamas iš Trakų iškilo iš LDK karaimų bendruomenės.
 - susijęs iš [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų.md#claim-t-23197|Isaakas ben Abrahamas iš Trakų]]: Isaakas ben Abrahamas iš Trakų iškilo iš LDK karaimų bendruomenės ir gyveno 1525–1586 m.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176715|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Lietuvos Didžiojoje Kunigaikštystėje apgyvendino musulmonų totorių ir karaimų bendruomenes.
@@ -118,8 +231,9 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
     čiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais,
     kurie tapo artimosios sargybos tautomis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
@@ -136,8 +250,9 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
     pastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruo-
     menių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
@@ -153,8 +268,9 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
     čioniškų konfesijų (judėjų, karaimų ir musulmonų totorių), jų etninės
     bendruomenės ir religija toleruojamos nuo XIV a. pabaigos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
@@ -167,6 +283,7 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
     tvirtovę « Tavan’ » (šv. Jono pilį)^21. Berods, to žygio metu paim­
     tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -195,6 +312,7 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
     priimdavo ateivius iš tų šalių ir juos
     priglobdavo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -227,6 +345,7 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
     siai dera agurkai, kuriuos vežimais
     į Vilniaus turgus gabena.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -245,11 +364,151 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
     kurie tapo artimosios sargybos tautomis. Nepasitikėta ir savųjų įgūdžiais,
     todėl valdovai kvietė pirklius ir amatininkus iš svetur.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
+## Citatos
+
+- id: c-22441
+  citata_originali: |
+    Senieji lietuviai neturėjo rašto ir sunku pasakyti, kokia yra tautinė be-
+    raštės visuomenės savimonė. Didieji kunigaikščiai, reikšdami teritorines
+    pretenzijas, suvokė baltų erdvės giminingumą, o Vytautas kalbos bendru-
+    mu grindė žemaičių priklausomybę Lietuvai. Antra vertus, kunigaikš-
+    čiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais,
+    kurie tapo artimosios sargybos tautomis.
+  citata_rodoma: "čiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais,"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-120188
+
+- id: c-22442
+  citata_originali: |
+    Aišku,
+    šios mažumos į LDK persikėlė iš Lenkijos ir galbūt iš Vengrijos, todėl
+    natūralu, kad čia jų būta mažiau. Tačiau XVII–XVIII a. bent jau Vilnius
+    prilygo, o gal net pradėjo lenkti (Vilniaus kaip „Lietuvos Jeruzalės“ idėja)
+    tokius žydų kultūros centrus kaip Krokuva, Liublinas ar Lvovas. Taigi net
+    jei žydų, o ypač armėnų, vaidmuo LDK buvo menkesnis nei Lenkijoje,
+    pastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruo-
+    menių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.
+  citata_rodoma: "menių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-120189
+
+- id: c-22443
+  citata_originali: |
+    Žygimanto Augusto privilegija, sulyginusi visų
+    krikščioniškų konfesijų teises, tai tapo ir Antrojo bei Trečiojo Lietuvos
+    Statutų teisine norma. Jau Pirmasis Lietuvos Statutas (1529), dar neži-
+    nant reformacijos, skiriamas ne tiktai katalikų, bet ir ortodoksų bajorijai.
+    Nors šis įstatymų garantuotas lygiateisiškumas tiesiogiai nelietė nekrikš-
+    čioniškų konfesijų (judėjų, karaimų ir musulmonų totorių), jų etninės
+    bendruomenės ir religija toleruojamos nuo XIV a. pabaigos.
+  citata_rodoma: "Nors šis įstatymų garantuotas lygiateisiškumas tiesiogiai nelietė nekrikš-"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-120187
+
+- id: c-31094
+  citata_originali: |
+    Antrajame žygyje (1398) Vytautas Dniepro žiotyse pastatė
+    tvirtovę « Tavan’ » (šv. Jono pilį)^21. Berods, to žygio metu paim­
+    tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-120190
+
+- id: c-110243
+  citata_originali: |
+    Jakob Levi, iš Vilniaus, 1427
+    m. rašė hebrajiškas knygas ir turėjo
+    Moreno, t. y. teologijos daktaro, var­
+    dą. Bet Vytauto privilegija negalio­
+    jo žydų kitai sektai, vadinamai ka­
+    raimais, Lietuvoje, Trakų mieste, ir
+    labai menkoje Vilniaus dalyje įsikū-
+    rusiems. Tie karaimai, kurie išties
+    galėtų būti vadinami žvdų disiden­
+    tais, atkeliavo į Lietuvą iš rytų, o
+    įvairias aplinkybes įvertinęs, numa­
+    nau, kad jų atvykimą reikėtų Vytau­
+    to viešpatavimo laikams priskirti,
+    juk šis kunigaikštis, kurio valdžia
+    siekė tolimus rytų kraštus, noriai
+    priimdavo ateivius iš tų šalių ir juos
+    priglobdavo.
+  citata_rodoma: "teologijos daktaro, var­\ndą. Bet Vytauto privilegija negalio­\njo žydų kitai sektai, vadinamai ka­\nraimais, Lietuvoje, Trakų mieste, ir \nlabai menkoje Vilniaus dalyje įsikū- \nrusiems. Tie karaimai, kurie išties \ngalėtų būti vadinami žvdų disiden­\ntais, atkeliavo į Lietuvą iš rytų, o \nįvairias aplinkybes įvertinęs, numa­\nnau, kad jų atvykimą reikėtų Vytau­\nto viešpatavimo laikams priskirti, \njuk šis kunigaikštis, kurio valdžia \nsiekė tolimus rytų kraštus, noriai \npriimdavo ateivius iš tų šalių ir juos \npriglobdavo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-120184
+
+- id: c-110245
+  citata_originali: |
+    Bet Vytauto privilegija negalio­
+    jo žydų kitai sektai, vadinamai ka­
+    raimais, Lietuvoje, Trakų mieste, ir
+    labai menkoje Vilniaus dalyje įsikū-
+    rusiems. Tie karaimai, kurie išties
+    galėtų būti vadinami žvdų disiden­
+    tais, atkeliavo į Lietuvą iš rytų, o
+    įvairias aplinkybes įvertinęs, numa­
+    nau, kad jų atvykimą reikėtų Vytau­
+    to viešpatavimo laikams priskirti,
+    juk šis kunigaikštis, kurio valdžia
+    siekė tolimus rytų kraštus, noriai
+    priimdavo ateivius iš tų šalių ir juos
+    priglobdavo. Karaimai, gyvenantys
+    Trakuose, nors skurdžiai būdami ir
+    ne taip pašėlusiai besigriebiantys ri­
+    zikingiausių prekybinių sumany­
+    mų, kaip žydai, yra betgi garbingi,
+    ramūs ir darbštūs; gyvena Trakuo­
+    se, manydamiesi iš daržų, kur gau­
+    siai dera agurkai, kuriuos vežimais
+    į Vilniaus turgus gabena.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-120186
+    - t-120185
+
+- id: c-166524
+  citata_originali: |
+    Didieji kunigaikščiai, reikšdami teritorines
+    pretenzijas, suvokė baltų erdvės giminingumą, o Vytautas kalbos bendru-
+    mu grindė žemaičių priklausomybę Lietuvai. Antra vertus, kunigaikš-
+    čiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais,
+    kurie tapo artimosios sargybos tautomis. Nepasitikėta ir savųjų įgūdžiais,
+    todėl valdovai kvietė pirklius ir amatininkus iš svetur.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183139
 
 ## Ryšiai
 - Karaimai keliavo į [[objektai/vietos/Lietuva]]

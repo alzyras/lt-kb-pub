@@ -12,6 +12,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # ponai
 
@@ -48,25 +60,58 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186926"></a>
-- t-001
+- t-002
   global_id: t-186926
-  teiginys: 'Ponų Taryba pateikiama kaip didikų politinis organas, kurio viešpatavimą gina Bychovco kronika.'
+  teiginys: "Ponų Taryba pateikiama kaip didikų politinis organas, kurio viešpatavimą gina Bychovco kronika."
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "34612-35190; hash=61846cf55de9e75c030958e3009b8cc915ed2c78792e188693752aeb326bf61c; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  ryšio_patikimumas: "susije_su -> Ponų taryba (institucija): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "ponai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Ponų taryba (institucija): mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"ponai\" parinktas kaip owner_note_path. Targetas \"Ponų taryba (institucija)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-170101
 
 <a id="claim-t-186927"></a>
-- t-002
+- t-001
   global_id: t-186927
-  teiginys: '„Ponai“ šiame leidinyje siejami su didikų sluoksniu ir jo požiūriu į valstybės istoriją.'
+  teiginys: "„Ponai“ šiame leidinyje siejami su didikų sluoksniu ir jo požiūriu į valstybės istoriją."
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "34612-35190; hash=61846cf55de9e75c030958e3009b8cc915ed2c78792e188693752aeb326bf61c; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "ponai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"ponai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-170101
 
 <a id="claim-t-186928"></a>
 - t-003
   global_id: t-186928
-  teiginys: 'Kronikos vaizdinyje „ponai“ perkeliami ir į ankstyvesnius laikus kaip valdovų rinkėjai bei patarėjai.'
+  teiginys: "Kronikos vaizdinyje „ponai“ perkeliami ir į ankstyvesnius laikus kaip valdovų rinkėjai bei patarėjai."
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "34986-35622; hash=f6fb2558bb23cb040a6b087509865ff429bbc811341a5ec2a2109cd760cee1e2; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "ponai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"ponai\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-170102
 - susijęs iš [[objektai/asmenys/Ziemovitas III.md#claim-t-30474|Ziemovitas III]]: Jogaila geruoju susitarė su Mozūrijos Ziemovitu III po to, kai mažlenkių ponai jėga išvarė Vilhelmą.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179139|Lenkai]]: Jadvyga ir lenkų ponai nepalankiai žiūrėjo į didėjantį Vytauto savarankiškumą.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179179|Lenkai]]: Jadvyga ir lenkų ponai nepalankiai vertino Vytauto pastangas būti nepriklausomam.
@@ -118,8 +163,11 @@ Nenurodyta
 - susijęs iš Naugardas: Narbutas pasakojo, kad Tautvilos sūnus Jonas, gelbėdamas Polocko bajorus, išjojo į Naugardą ir ten tapo vienuoliu.
 - susijęs iš Polockas: 1264 metais Lietuvos ponai po Treniotos mirties pasiuntė Liutaurą užimti Polocko ir valdyti jį vietininku.
 - susijęs iš Žemaitija: Narbutas rašo, kad Liutauro sūnus Vytenis gimė 1232 m. Žemaitijoje, gyveno Ariogaloje ir kartu su tėvu valdė Polocką.
+- susijęs iš [[objektai/zodynas/Rejkis.md#claim-t-192571|Rejkis]]: Narbuto aiškinimu, krašto bajorai buvo priklausomi nuo provincijas valdžiusių karaliukų, vadinamų Rejkis ir Kunigas.
 - susijęs iš [[objektai/zodynas/bažnytinės cenzūros ir pasaulietinė valdžia.md#claim-t-86517|bažnytinės cenzūros ir pasaulietinė valdžia]]: Vilniaus vyskupui Povilui ir jo įpėdiniams suteikta pasaulietinė valdžia asmenims, ilgiau kaip metus vengiantiems bažnytinių cenzūrų.
 - susijęs iš [[objektai/zodynas/regestrai regestriniai kazokai.md#claim-t-74035|regestrai regestriniai kazokai]]: Nugalėti kazokai iš dalies patekdavo į regestrus, o kiti turėdavo dirbti žemę arba bėgdavo į Sičę.
+- susijęs iš [[objektai/zodynas/vitingas.md#claim-t-192271|vitingas]]: Teodoras Narbutas vitingų titulo aiškinimą sieja su Sambijoje buvusia bajorų kasta, vadinta Withingen.
+- susijęs iš [[objektai/zodynas/vitingas.md#claim-t-192272|vitingas]]: Teodoras Narbutas vitingų titulą aiškina kaip skandinavų vikingų įpėdinių išsaugotą titulą tarp Sambijos bajorų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -137,8 +185,9 @@ Nenurodyta
     ką, užtikrinančią didikų oligarchijos ir jų politinio or­
     gano — Ponų Tarybos — viešpatavimą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -161,8 +210,56 @@ Nenurodyta
     liepiama veikti Gedimino laikais, nors etmono — nuo­
     3 0  Kronika Macieia Slryikowskiego.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-170101
+  citata_originali: |
+    Bychovco kronikoje dėstoma Lietuvos istorija —
+    tai politinė valstybės istorija, didžiųjų ir vasalinių ku­
+    nigaikščių, didikų istorija, pasakojama, visų pirma, di­
+    dikų-,,ponų" požiūriu, priešingų didžiojo kunigaikš­
+    čio valdžios stiprinimui. Luominės didikų prerogatyvos
+    didžiojo kunigaikščio valdžios atžvilgiu pabrėžiamos
+    Aleksandro konflikto su Ponų Taryba aprašyme. By­
+    chovco kronika aiškiai gina XV a. antrosios pusės —
+    XVI a. pirmojo ketvirčio Lietuvos valstybės santvar­
+    ką, užtikrinančią didikų oligarchijos ir jų politinio or­
+    gano — Ponų Tarybos — viešpatavimą.
+  citata_rodoma: "Bychovco kronikoje dėstoma Lietuvos istorija —  \ntai politinė valstybės istorija, didžiųjų ir vasalinių ku­\nnigaikščių, didikų istorija, pasakojama, visų pirma, di­\ndikų-,,ponų\" požiūriu, priešingų didžiojo kunigaikš­\nčio valdžios stiprinimui. Luominės didikų prerogatyvos \ndidžiojo kunigaikščio valdžios atžvilgiu pabrėžiamos \nAleksandro konflikto su Ponų Taryba aprašyme. By­\nchovco kronika aiškiai gina XV a. antrosios pusės —  \nXVI a. pirmojo ketvirčio Lietuvos valstybės santvar­\nką, užtikrinančią didikų oligarchijos ir jų politinio or­\ngano — Ponų Tarybos — viešpatavimą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186927
+    - t-186926
+
+- id: c-170102
+  citata_originali: |
+    By­
+    chovco kronika aiškiai gina XV a. antrosios pusės —
+    XVI a. pirmojo ketvirčio Lietuvos valstybės santvar­
+    ką, užtikrinančią didikų oligarchijos ir jų politinio or­
+    gano — Ponų Tarybos — viešpatavimą. Toji santvar­
+    ka vaizduojama kone amžina, nes jau Kentauro her­
+    bo dinastijos pradininkas Šventaragis ir Gediminaičių
+    dinastijos pradininkas Vytenis buvę „ponų" išrinkti.
+    Autoriui, matyt, apskritai tolima mintis, kad valstybės
+    santvarka gali keistis, todėl „ponai" patarėjai priski­
+    riami jau kunigaikščiui Erdvilai (XIII a.), o etmonams
+    liepiama veikti Gedimino laikais, nors etmono — nuo­
+    3 0  Kronika Macieia Slryikowskiego.
+  citata_rodoma: "Toji santvar­\nka vaizduojama kone amžina, nes jau Kentauro her­\nbo dinastijos pradininkas Šventaragis ir Gediminaičių \ndinastijos pradininkas Vytenis buvę „ponų\" išrinkti. \nAutoriui, matyt, apskritai tolima mintis, kad valstybės \nsantvarka gali keistis, todėl „ponai\" patarėjai priski­\nriami jau kunigaikščiui Erdvilai (XIII a.)"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186928

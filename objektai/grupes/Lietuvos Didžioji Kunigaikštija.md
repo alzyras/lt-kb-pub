@@ -19,11 +19,6 @@ datos:
   - '1905 m.'
 date_start: '1253'
 date_end: '1905'
-description: 'LDK istorija: XIII a. viduryje sukurta valstybė, Gedimino ir Algirdo plėtra, ryšiai su Lenkija ir 1840 m. Statuto panaikinimas.'
-socialDescription: 'Lietuvos Didžioji Kunigaikštija iškilo XIII a. viduryje, plėtėsi valdant Gediminui ir Algirdui, o vėliau jos valstybingumą veikė ryšiai su Lenkija ir Rusijos imperijos politika.'
-seo_atnaujinta: '2026-07-02T23:12:35.287062+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -34,126 +29,362 @@ tags:
 amziai:
   - 'XIII'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvos Didžioji Kunigaikštija
 
 ## Santrauka
 
-Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos atsiradimą spartino vokiečių riterių agresija prie Baltijos. Valdant Gediminui ir Algirdui valstybė išsiplėtė ir tapo reikšminga Vidurio bei Rytų Europos jėga. Dėl Vokiečių ordino pavojaus LDK stiprino ryšius su Lenkija, tačiau personalinė unija silpnino Lietuvos valstybingumą. 1840 m. panaikinus Lietuvos Statutą, buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu.
+Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioji Kunigaikštija. Valstybė – Lietuvos Didžioji Kunigaikštija – buvo sukurta XIII a. Lietuvos Didžioji Kunigaikštija dėl Vokiečių ordino pavojaus pamažu stiprino ryšius su Lenkija, o XV–XVI a.
 
 ## Teiginiai
 
 <a id="claim-t-169681"></a>
-- t-001
+- t-018
   global_id: t-169681
-  teiginys: '1840 m. panaikinus Lietuvos Statutą ir surusinus teismus, buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu.'
+  teiginys: "1840 m. panaikinus Lietuvos Statutą ir surusinus teismus, buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu."
+  temporaliniai_duomenys: "įvykio data: 1840 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia aiškiau susieti teiginį su Lietuvos Didžiosios Kunigaikštijos objektu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "199041-199431; hash=df21a79ce72acb7a0ec27b81720f4afb5150bd5593eb4304f22d2cf8b2941830; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos Didžioji Kunigaikštija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Didžioji Kunigaikštija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-002
+    - c-154384
 
 <a id="claim-t-169682"></a>
-- t-002
+- t-003
   global_id: t-169682
-  teiginys: 'Lietuvos Didžioji Kunigaikštija dėl Vokiečių ordino pavojaus pamažu stiprino ryšius su Lenkija, o XV–XVI a.'
+  teiginys: "Lietuvos Didžioji Kunigaikštija dėl Vokiečių ordino pavojaus pamažu stiprino ryšius su Lenkija, o XV–XVI a."
+  semantiniai_rysiai: "Kalavijuočių ordinas priklausė Kryžiuočių ordinas (0.91)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "45402-45827; hash=1a3b31b115e361728eac22f2d98e743a0e01f3370764d874dd4ff019d8d7005b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Kalavijuočių ordinas tapo Kryžiuočių ordino vasalu."
   pagrindžia:
-    - c-001
+    - c-22547
 
 <a id="claim-t-169683"></a>
-- t-003
+- t-006
   global_id: t-169683
-  teiginys: 'Lietuvos Didžioji Kunigaikštija kartais vadinama „aksomine imperija“.'
+  teiginys: "Lietuvos Didžioji Kunigaikštija kartais vadinama „aksomine imperija“."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "64494-64835; hash=5fa3ee925e6296a70ea258c6a764d2c7d7b5861d6d080d69a98a7823845fc8cf; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos Didžioji Kunigaikštija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Didžioji Kunigaikštija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-010
+    - c-154394
 
 <a id="claim-t-169684"></a>
-- t-004
+- t-012
   global_id: t-169684
-  teiginys: 'XVI a. Vytauto kultas Lietuvoje stiprėjo ieškant ideologinės atramos prieš Lenkijos hegemonijos planus.'
+  teiginys: "XVI a. Vytauto kultas Lietuvoje stiprėjo ieškant ideologinės atramos prieš Lenkijos hegemonijos planus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "95787-96829; hash=0c6daebfc424a7c7a375a894648d1a98e24f9dec2c17638316bb2c53861f4f8e; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos Didžioji Kunigaikštija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=53"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Didžioji Kunigaikštija\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-154393
 
 <a id="claim-t-169685"></a>
-- t-005
+- t-002
   global_id: t-169685
-  teiginys: 'Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje.'
+  teiginys: "Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "23104-23561; hash=f5e9ab7fce8a5b629cf7b0e5651b11fa8ba7732d78b4d5931f718c2769c180d3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos Didžioji Kunigaikštija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Didžioji Kunigaikštija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-154388
 
 <a id="claim-t-169686"></a>
-- t-006
+- t-014
   global_id: t-169686
-  teiginys: 'XIV–XV a. sandūroje Lietuvos Didžiojoje Kunigaikštijoje sparčiai didėjo rašto poreikis, bet trūko vienuolijų jam tenkinti.'
+  teiginys: "XIV–XV a. sandūroje Lietuvos Didžiojoje Kunigaikštijoje sparčiai didėjo rašto poreikis, bet trūko vienuolijų jam tenkinti."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "105484-106037; hash=f7b9f32de0391f3efa6afcacc1227777b418e7144913c0e68407535fb92f8aaf; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos Didžioji Kunigaikštija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Didžioji Kunigaikštija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-154389
 
 <a id="claim-t-169687"></a>
-- t-007
+- t-005
   global_id: t-169687
-  teiginys: 'Valdant Gediminui ir Algirdui Lietuvos Didžioji Kunigaikštija išsiplėtė ir tapo reikšminga Vidurio bei Rytų Europos jėga.'
+  teiginys: "Valdant Gediminui ir Algirdui Lietuvos Didžioji Kunigaikštija išsiplėtė ir tapo reikšminga Vidurio bei Rytų Europos jėga."
+  semantiniai_rysiai: "Gediminas valdė Lietuva (0.79); Lietuvos Didžioji Kunigaikštija valdė teritoriją Baltoji Rusia (0.76); Lietuvos Didžioji Kunigaikštija valdė miestą Vitebskas (0.74)"
+  temporaliniai_duomenys: "įvykio data: 1307 m.; įvykio data: 1320 m.; įvykio data: 1322 m.; įvykio data: 1340 m.; įvykio data: 1362 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia aiškiai įvardyti note objektą ir sutrumpinti sakinį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "60671-61227; hash=f65960433b20d2c2b2be96f1baba7b5f1b3ff0cf1d65ed9382463d66d5c10d8b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Lietuva: 0.79"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai mini Gedimino valdymą; kandidatuose nėra Algirdo."
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-004
+    - c-154386
 
 <a id="claim-t-169689"></a>
-- t-008
+- t-015
   global_id: t-169689
-  teiginys: 'Edukacinės komisijos pertvarkyta valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios – į apygardas.'
+  teiginys: "Edukacinės komisijos pertvarkyta valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios – į apygardas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "161038-161285; hash=2956bd8166bf0135028d1386c408bd4ba58feabacb68954b7a0ac3e7f6c1dddd; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos Didžioji Kunigaikštija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Didžioji Kunigaikštija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-154385
 
 <a id="claim-t-169690"></a>
 - t-009
   global_id: t-169690
-  teiginys: 'Istorinėje Lietuvoje gyvenę žydai šalį vadino „Lite“, o save – „litvakais“.'
+  teiginys: "Istorinėje Lietuvoje gyvenę žydai šalį vadino „Lite“, o save – „litvakais“."
+  semantiniai_rysiai: "Žydai gyveno Lietuva (0.90)"
+  temporaliniai_duomenys: "įvykio data: iki 1831 m.; įvykio data: 1831 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta glaustiau ir pašalintas perteklinis įvardis, išlaikant citatos faktą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "18761-19102; hash=c5e5750105bb7d6faf5556a0c0702770918b10a973445aed4db072c830bdeace; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Lietuva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žydai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad žydai gyveno istorinėje Lietuvoje."
   pagrindžia:
-    - c-008
+    - c-154391
 
 <a id="claim-t-169691"></a>
-- t-010
+- t-008
   global_id: t-169691
-  teiginys: 'Įtraukus lietuvių pareigūnus į Lenkijos valstybės institucijas, Lietuva darėsi provincija, o personalinė unija naikino jos valstybingumą.'
+  teiginys: "Įtraukus lietuvių pareigūnus į Lenkijos valstybės institucijas, Lietuva darėsi provincija, o personalinė unija naikino jos valstybingumą."
+  semantiniai_rysiai: "Lenkai siuntė į Lietuva (0.74)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "71809-72687; hash=8bf613fb867530f61bb7690d217935a0bcb3981a7f69aee2a7238c5a91ee5595; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Lietuva: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad lenkų pareigūnai buvo siunčiami į Lietuvą."
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-011
+    - c-154396
 
 <a id="claim-t-169692"></a>
-- t-011
+- t-010
   global_id: t-169692
-  teiginys: '1387 m. Lietuva priėmė katalikišką krikštą, o Žemaitija tapo paskutiniu Europoje apsikrikštijusiu regionu.'
+  teiginys: "1387 m. Lietuva priėmė katalikišką krikštą, o Žemaitija tapo paskutiniu Europoje apsikrikštijusiu regionu."
+  semantiniai_rysiai: "Žemaitija priklausė Lietuva (0.87)"
+  temporaliniai_duomenys: "įvykio data: 1387 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys per ilgas ir turi perteklinę interpretacinę pabaigą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "23881-24212; hash=d10f73cac28e0d28e132901327403d681a62d7dd456275f71104bfd6a37067bb; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.87"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žemaitija: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai apibūdina Žemaitiją kaip Lietuvos dalį."
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-012
+    - c-154398
 
 <a id="claim-t-169693"></a>
-- t-012
+- t-007
   global_id: t-169693
-  teiginys: 'Rusėnų kalba LDK raštinėje tapo alternatyva slavų bažnytinei tradicijai ir buvo vartota Lietuvos Metrikoje, metraščiuose ir Statutuose.'
+  teiginys: "Rusėnų kalba LDK raštinėje tapo alternatyva slavų bažnytinei tradicijai ir buvo vartota Lietuvos Metrikoje, metraščiuose ir Statutuose."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "66760-67241; hash=4987b79eb72efa1e95193e4775a5ae2e9470d4250875913f25340edcb48bb24b; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos Didžioji Kunigaikštija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Didžioji Kunigaikštija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-015
+    - c-166539
 
 <a id="claim-t-169694"></a>
-- t-013
+- t-004
   global_id: t-169694
-  teiginys: 'Lietuvos Didžiosios Kunigaikštijos atsiradimą pagreitino vokiečių riterių agresija ir jų kolonijinių valstybių kūrimasis prie Baltijos.'
+  teiginys: "Lietuvos Didžiosios Kunigaikštijos atsiradimą pagreitino vokiečių riterių agresija ir jų kolonijinių valstybių kūrimasis prie Baltijos."
+  semantiniai_rysiai: "Kalavijuočių ordinas priklausė Kryžiuočių ordinas (0.91); Vokiečiai puolė Lietuva (0.74)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "45402-45827; hash=1a3b31b115e361728eac22f2d98e743a0e01f3370764d874dd4ff019d8d7005b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Kalavijuočių ordinas tapo Kryžiuočių ordino vasalu."
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
+    - c-22547
 
 <a id="claim-t-169696"></a>
-- t-014
+- t-016
   global_id: t-169696
-  teiginys: 'Po antrojo Abiejų Tautų Respublikos padalijimo Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės.'
+  teiginys: "Po antrojo Abiejų Tautų Respublikos padalijimo Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės."
+  temporaliniai_duomenys: "įvykio data: 1793 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia pridėti įvykio kontekstą ir padaryti sakinį informatyvesnį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "176585-177002; hash=06930a6ef4321383c3d00b77209633923ce05abcceb36d57e198a67440494bcd; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltarusiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos Didžioji Kunigaikštija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Baltarusiai: mention_match, group, gap=73"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Didžioji Kunigaikštija\" parinktas kaip owner_note_path. Targetas \"Baltarusiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-014
+    - c-154400
 
 <a id="claim-t-169697"></a>
-- t-015
+- t-011
   global_id: t-169697
-  teiginys: 'Po Krėvos sutarties Gediminaičiams buvo dalijamos kunigaikštijos Lenkijoje, o lenkų pareigūnai su valdovo įgaliojimais siųsti į Lietuvą.'
+  teiginys: "Po Krėvos sutarties Gediminaičiams buvo dalijamos kunigaikštijos Lenkijoje, o lenkų pareigūnai su valdovo įgaliojimais siųsti į Lietuvą."
+  semantiniai_rysiai: "Lenkai siuntė į Lietuva (0.74)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "71975-72773; hash=6388e9e6a711a3164f7ad81755ce3e21b6b5246c6791d23dd276d6a9c493f1a6; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Lietuva: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad lenkų pareigūnai buvo siunčiami į Lietuvą."
   pagrindžia:
-    - c-005
+    - c-154387
 
 <a id="claim-t-169698"></a>
-- t-016
+- t-001
   global_id: t-169698
-  teiginys: 'Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioji Kunigaikštija.'
+  teiginys: "Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioji Kunigaikštija."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "18721-18955; hash=92f818ff2fa4243ee1d3183ccec2398b971884640360644861f6e52eb81fa9b4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos Didžioji Kunigaikštija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Didžioji Kunigaikštija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-013
+    - c-154399
+
+<a id="claim-t-169693"></a>
+- t-007
+  global_id: t-169693
+  teiginys: "Rusėnų kalba LDK raštinėje tapo alternatyva slavų bažnytinei tradicijai ir buvo vartota Lietuvos Metrikoje, metraščiuose ir Statutuose."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "66760-67241; hash=4987b79eb72efa1e95193e4775a5ae2e9470d4250875913f25340edcb48bb24b; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos Didžioji Kunigaikštija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Didžioji Kunigaikštija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-166539
+
+<a id="claim-t-193550"></a>
+- t-020
+  global_id: t-193550
+  teiginys: "Nepaisant kultūrinių praradimų (nesuspėta suformuoti lietuviakalbio raštijos modelio), XVI a."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "98576-99069; hash=c1a3b146832b8031e0f4dfe0e9e9f17feb4b5b339fdf9ef850a0b01049e4dbb9; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176230
 - susijęs iš [[objektai/autoriai/Alfredas Bumblauskas.md#claim-t-169885|Alfredas Bumblauskas]]: A. Bumblausko veikalai „Lietuvos Didžioji Kunigaikštija ir jos tradicija“ ir „Senosios Lietuvos istorija: 1009–1795“ nurodyti iliustracijų šaltiniuose.
 - susijęs iš [[objektai/autoriai/Bumblauskas A.md#claim-t-64572|Bumblauskas A]]: A. Bumblauskas parašė veikalą „Lietuvos Didžioji Kunigaikštija ir jos tradicija“, išleistą Vilniuje 2010 m.
 - susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-72615|Ponų taryba (institucija)]]: Lenkų ponų taryba Radome garantavo, kad Vytautui nebus atimta Lietuvos didžioji kunigaikštija.
@@ -183,6 +414,7 @@ Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos atsiradim
     valdovo įsitvirtinimas yra ryškiausias išorinis valstybės atsiradimo požy-
     mis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -202,6 +434,7 @@ Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos atsiradim
     traktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės
     Vakarų kraštu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -217,6 +450,7 @@ Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos atsiradim
     švietimo provincijas, o šios – į apygardas. Lietuvos provincijos švietimą
     tvarkė reformuotas Vilniaus universitetas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -237,6 +471,7 @@ Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos atsiradim
     Algirdui išsiplėtė ne tik valstybės teritorija – Lietuva pasidarė reikšminga
     Vidurio ir Rytų Europos jėga.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -260,6 +495,7 @@ Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos atsiradim
     Tokią Lietuvai nepalankią sutartį vertė sudaryti ypač įnirtingi vokie-
     čių puolimai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -278,6 +514,7 @@ Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos atsiradim
     jau valstybės kūrimosi laikams. Valstybė – Lietuvos Didžioji Kunigaikš-
     tija – buvo sukurta XIII a. viduryje, jos pirmasis valdovas Mindaugas net
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -298,6 +535,7 @@ Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos atsiradim
     įsiskverbė į LDK bajorų ir miestiečių buitį. XV–XVI a. pradžios Lietuvos
     kultūra kartais apibūdinama kaip raštinių kultūra.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -315,6 +553,7 @@ Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos atsiradim
     dar egzistavo Lietuvos, vėliau – Lietuvos Vilniaus ir Lietuvos Gardino
     gubernijos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -345,6 +584,7 @@ Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos atsiradim
     Lietuvos jaunimo studijos Krokuvos, o vėliau ir Vokietijos bei Italijos uni-
     versitetuose.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -361,6 +601,7 @@ Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos atsiradim
     ir patenka visa Ukraina) valdę Gediminaičiai mažiau klausė Vilniaus bro-
     lių, pusbrolių ar dėdžių – didžiųjų kunigaikščių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -384,6 +625,7 @@ Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos atsiradim
     valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nu-
     lemta valstybių sąveika naikino Lietuvos valstybingumą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -404,6 +646,7 @@ Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos atsiradim
     ryšius su Lenkija, o XV–XVI a. perėmė
     krikščionišką Vakarų kultūrą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -419,6 +662,7 @@ Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos atsiradim
     Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioji Ku-
     nigaikštija.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -438,6 +682,7 @@ Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos atsiradim
     Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių
     žemės.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -456,12 +701,323 @@ Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos atsiradim
     tuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai. Taigi politinis
     lietuvių elitas – stačiatikiškos kultūros užsakovai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
     - t-012
+
+- c-016
+  santrauka: 'Nepaisant kultūrinių praradimų (nesuspėta suformuoti lietuviakalbio raštijos modelio), XVI a.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nepaisant kultūrinių praradimų (nesuspėta suformuoti lietuviakalbio
+    raštijos modelio), XVI a. LDK visuomenė tampa europinė ir įsilieja į Va-
+    karų civilizaciją. Nuosavybės santykiuose susiformuoja leno teisė, socia-
+    linėje ūkinėje struktūroje – riterio dvaras (feodas) ir baudžiava, politinėje
+    ir socialinėje struktūroje – bajorų luomas ir luominė monarchija, miestų
+    ūkyje – cechai, edukacijoje – europinė švietimo sistema (katedrinės mo-
+    kyklos ir jų triviumas, kolegijos ir universitetas).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-018
+
+## Citatos
+
+- id: c-22547
+  citata_originali: |
+    Kalavijuočių ordinas tapo
+    Kryžiuočių ordino vasalu.
+    Lietuvos valstybės atsiradimą pagreitino vokiečių riterių agresija ir jų
+    kolonijinių valstybių kūrimasis prie Baltijos. Lietuvos valstybė atsirado
+    pirmiausia kaip apsigynimo priemonė, tačiau ji turėjo remtis kokiu nors
+    visuomenės sluoksniu – tas sluoksnis buvo Mindaugo kariauna, o vieno
+    valdovo įsitvirtinimas yra ryškiausias išorinis valstybės atsiradimo požy-
+    mis.
+  citata_rodoma: "kolonijinių valstybių kūrimasis prie Baltijos. Lietuvos valstybė atsirado"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169682
+    - t-169694
+
+- id: c-154384
+  citata_originali: |
+    Po dešimt
+    metų jų Vilniuje neliks – Dvasinė akademija bus perkelta į Sankt Peter-
+    burgą, o Medicinos-chirurgijos akademija uždaryta. 1840 m. panaikintas
+    Lietuvos Statutas, o teismų sistema surusinta. Lietuvos vardas pašalintas
+    iš Vilniaus ir Gardino gubernijų pavadinimų, buvusios LLV žemės imtos
+    traktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės
+    Vakarų kraštu.
+  citata_rodoma: "1840 m. panaikintas \nLietuvos Statutas, o teismų sistema surusinta. Lietuvos vardas pašalintas \niš Vilniaus ir Gardino gubernijų pavadinimų, buvusios LLV žemės imtos \ntraktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės \nVakarų kraštu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169681
+
+- id: c-154385
+  citata_originali: |
+    Edukacinė komisija ėmėsi permainų ir stengėsi sukur-
+    ti vientisą švietimo sistemą. Valstybė buvo padalyta į Lenkijos ir Lietuvos
+    švietimo provincijas, o šios – į apygardas. Lietuvos provincijos švietimą
+    tvarkė reformuotas Vilniaus universitetas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169689
+
+- id: c-154386
+  citata_originali: |
+    Mindaugo laikais
+    prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-
+    kais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-
+    nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
+    Kijevas galėjo būti prijungtas 1322 m., valdant Gediminui, tačiau labiau
+    linkstama manyti, kad Kijevą prijungė Algirdas po pergalės prieš Aukso
+    ordą prie Mėlynųjų Vandenų 1362 m. ar 1363 m. Valdant Gediminui ir
+    Algirdui išsiplėtė ne tik valstybės teritorija – Lietuva pasidarė reikšminga
+    Vidurio ir Rytų Europos jėga.
+  citata_rodoma: "Valdant Gediminui ir \nAlgirdui išsiplėtė ne tik valstybės teritorija – Lietuva pasidarė reikšminga \nVidurio ir Rytų Europos jėga."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169687
+
+- id: c-154387
+  citata_originali: |
+    Iš pirmo žvilgsnio lyg ir egzistavo atsivėrusių naujos
+    veiklos erdvių paritetas: Gediminaičiams buvo dalijamos kunigaikštijos
+    Lenkijoje, o lenkų pareigūnai, gavę valdovo įgaliojimus, siunčiami Lietu-
+    von, lietuvių kariuomenė talkino lenkams, o lenkų – lietuviams, bet pirmu
+    atveju talkininkus kontroliavo Lenkijos valstybės institucijos, o antruoju –
+    tai galėjo atlikti tik bendrasis valdovas, tačiau jis rezidavo Krokuvoje (kur,
+    kitaip nei Vilniuje, buvo pripažintos Europos valstybės monarchas) ir jį
+    supo Lenkijos valstybės taryba. Lietuvių pareigūnus įtraukus į Lenkijos
+    valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nu-
+    lemta valstybių sąveika naikino Lietuvos valstybingumą.
+    Tokią Lietuvai nepalankią sutartį vertė sudaryti ypač įnirtingi vokie-
+    čių puolimai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169697
+
+- id: c-154388
+  citata_originali: |
+    Nuo I a. po
+    Kristaus ji jau patenka į Romos ir kitų civilizacijų akiratį. Paprastai ma-
+    noma, kad iš šių proistorinių gelmių ateina tokios kultūrinės vertybės
+    kaip lietuvių kalba, tautosaka ir folkloras, taip pat lietuvių pagoniškoji
+    religija, nors šios išsikristalizavimas šiandien dažniausiai priskiriamas
+    jau valstybės kūrimosi laikams. Valstybė – Lietuvos Didžioji Kunigaikš-
+    tija – buvo sukurta XIII a. viduryje, jos pirmasis valdovas Mindaugas net
+  citata_rodoma: "Valstybė – Lietuvos Didžioji Kunigaikš-\ntija – buvo sukurta XIII a. viduryje, jos pirmasis valdovas Mindaugas net\n\nĮvadas •  L I E T U VA  –  V I D U R I O  E U R O P O S  D A L I S\n17\nsuspėjo krikštytis, o 1253 m. – karūnuotis \nkaraliumi. Vis dėlto tai liko istorinis epi-\nzodas, nors pagoniška valstybė pamažu \ntapo regionine didvalstybe arba imperija, \nužvaldžiusia didžiules stačiatikiškų žemių \n(buvusios Kijevo Rusios) erdves."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169685
+
+- id: c-154389
+  citata_originali: |
+    Raštija
+    Formuojantis luominei LDK visuomenei ir susidarius su-
+    dėtingam valstybės valdymo aparatui, XIV–XV a. sandūroje skubiai pri-
+    reikė rašto. Šio visuomenės raidos etapo rašto poreikius Vakarų Europoje
+    tenkino vienuolijos, tačiau Lietuvoje jų trūko, o rašto poreikis sparčiai
+    didėjo. Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis
+    ir raštininkų mokyklomis. Jų veikla gerokai prisidėjo prie to, kad raštas
+    įsiskverbė į LDK bajorų ir miestiečių buitį. XV–XVI a. pradžios Lietuvos
+    kultūra kartais apibūdinama kaip raštinių kultūra.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169686
+
+- id: c-154391
+  citata_originali: |
+    Visą istorinės Lietuvos laiko-
+    tarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“. Taigi
+    Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioji Ku-
+    nigaikštija. Ją panaikinus ir prijungus prie Rusijos, iki 1831 m. sukilimo
+    dar egzistavo Lietuvos, vėliau – Lietuvos Vilniaus ir Lietuvos Gardino
+    gubernijos.
+  citata_rodoma: "Visą istorinės Lietuvos laiko-\ntarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“. Taigi \nLietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioji Ku-\nnigaikštija. Ją panaikinus ir prijungus prie Rusijos, iki 1831 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169690
+
+- id: c-154393
+  citata_originali: |
+    Enėjas Silvijus Pikolominis (Enea Silvio Picco-
+    lomini) „Knygoje apie vyrus, garsius savo gyvenimu“ Vytautui skyrė to-
+    kius žodžius: „Koks didelis Tu ir kokia didelė Tavo tėvynė.“ Ypač Vytauto
+    kultas pradėtas puoselėti XVI a., kai Lietuvos visuomenė suskato ieškoti
+    ideologinės atspirties prieš Lenkijos (Jogailaičių) planą sukurti valstybių
+    sąjungą, kurios hegemonė būtų Lenkija.
+    LIETUVOS DIDŽIOJI KUNIGAIKŠTIJA
+    KELYJE VAKARŲ LINK
+    V
+    ytautui valdant buvo padėtas pagrindas Lietuvos vi-
+    suomenės artėjimui prie Vidurio Europos, Lietuvos
+    „civilizaciniam šuoliui“. Lietuva turėjo staigiai perimti iš Vakarų Europos
+    ateinančias Viduramžių idėjas: trilaukį žemės ūkyje, feodalinę sistemą,
+    luominės visuomenės ir monarchijos principus, cechus, bažnytinę siste-
+    mą ir mokyklas, raštą ir jo „industriją“.
+    Tokio šuolio nereikėjo atlikti nė vienai Europos valstybei. Lietuvai tai
+    pavyko padaryti per šimtmetį. Svarbų vaidmenį šiame procese suvaidino
+    Lietuvos jaunimo studijos Krokuvos, o vėliau ir Vokietijos bei Italijos uni-
+    versitetuose.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169684
+
+- id: c-154394
+  citata_originali: |
+    Todėl kartais Lietuvos didvalstybė vadinama „aksomine imperija“. LDK
+    pakraščių priklausomybė svyravo tarp įvairaus laipsnio siuzereniteto ir
+    hegemonijos. Kuo toliau nuo centro – Vilniaus, tuo ten (o į šią kategoriją
+    ir patenka visa Ukraina) valdę Gediminaičiai mažiau klausė Vilniaus bro-
+    lių, pusbrolių ar dėdžių – didžiųjų kunigaikščių.
+  citata_rodoma: "Todėl kartais Lietuvos didvalstybė vadinama „aksomine imperija“. LDK \npakraščių priklausomybė svyravo tarp įvairaus laipsnio siuzereniteto ir \nhegemonijos. Kuo toliau nuo centro – Vilniaus, tuo ten (o į šią kategoriją \nir patenka visa Ukraina) valdę Gediminaičiai mažiau klausė Vilniaus bro-\nlių, pusbrolių ar dėdžių – didžiųjų kunigaikščių."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169683
+
+- id: c-154396
+  citata_originali: |
+    Tačiau didžiausias Krėvos sutarties minusas, kad viską palikta lem-
+    ti ne teisiniams, o realiems valstybių santykiams – čia Lietuvai ir glūdėjo
+    didžiausias pavojus. Iš pirmo žvilgsnio lyg ir egzistavo atsivėrusių naujos
+    veiklos erdvių paritetas: Gediminaičiams buvo dalijamos kunigaikštijos
+    Lenkijoje, o lenkų pareigūnai, gavę valdovo įgaliojimus, siunčiami Lietu-
+    von, lietuvių kariuomenė talkino lenkams, o lenkų – lietuviams, bet pirmu
+    atveju talkininkus kontroliavo Lenkijos valstybės institucijos, o antruoju –
+    tai galėjo atlikti tik bendrasis valdovas, tačiau jis rezidavo Krokuvoje (kur,
+    kitaip nei Vilniuje, buvo pripažintos Europos valstybės monarchas) ir jį
+    supo Lenkijos valstybės taryba. Lietuvių pareigūnus įtraukus į Lenkijos
+    valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nu-
+    lemta valstybių sąveika naikino Lietuvos valstybingumą.
+  citata_rodoma: "Lietuvių pareigūnus įtraukus į Lenkijos \nvalstybės institucijas, Lietuva darėsi provincija, personalinės unijos nu-\nlemta valstybių sąveika naikino Lietuvos valstybingumą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169691
+
+- id: c-154398
+  citata_originali: |
+    1387 m.
+    Lietuva krikštijosi katalikišku krikštu, o jos
+    dalis Žemaitija tapo paskutiniu Europoje
+    apsikrikštijimo regionu – šiais įvykiais bai-
+    gė formuotis krikščioniškoji Europa.
+    Lietuvos Didžioji Kunigaikštija dėl Vo-
+    kiečių ordino pavojaus pamažu stiprino
+    ryšius su Lenkija, o XV–XVI a. perėmė
+    krikščionišką Vakarų kultūrą.
+  citata_rodoma: "Lietuva krikštijosi katalikišku krikštu, o jos \ndalis Žemaitija tapo paskutiniu Europoje \napsikrikštijimo regionu – šiais įvykiais bai-\ngė formuotis krikščioniškoji Europa. \nLietuvos Didžioji Kunigaikštija dėl Vo-\nkiečių ordino pavojaus pamažu stiprino \nryšius su Lenkija, o XV–XVI a. perėmė \nkrikščionišką Vakarų kultūrą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169692
+
+- id: c-154399
+  citata_originali: |
+    Lietuvos vardas tapo ir žydų savastimi. Visą istorinės Lietuvos laiko-
+    tarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“. Taigi
+    Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioji Ku-
+    nigaikštija.
+  citata_rodoma: "Taigi \nLietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioji Ku-\nnigaikštija."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169698
+
+- id: c-154400
+  citata_originali: |
+    LLV sąjungininkę Prūsiją išgąsdino gali-
+    mas valstybės sustiprėjimas dėl reformų, o Rusijos imperatorė Jekateri-
+    na II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos
+    sienas.
+    1793 m. sausio 21 d. Prancūzijoje nukirsdinus Liudviką XVI, sausio
+    23-iąją Rusija kartu su Prūsija įvykdė antrąjį LLV padalijimą. Lietuvos
+    Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių
+    žemės.
+  citata_rodoma: "1793 m. sausio 21 d. Prancūzijoje nukirsdinus Liudviką XVI, sausio \n23-iąją Rusija kartu su Prūsija įvykdė antrąjį LLV padalijimą. Lietuvos \nDidžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių \nžemės."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169696
+
+- id: c-166539
+  citata_originali: |
+    Valdovo dvariškiai stačiatikiai, rašto išmokę stačiatikių vienuolynuo-
+    se, kūrė valdovo raštinę. Vienuolynuose rašoma bulgarų kilmės slavų
+    bažnytine kalba, o LDK raštinėje pradėjo formuotis rusėnų kalba. Šia
+    kalba, LDK raštinėje susiformavusia alternatyva „bulgariškai“ raštijos
+    tradicijai, ir surašyti reikšmingiausi to meto raštijos paminklai – Lie-
+    tuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai. Taigi politinis
+    lietuvių elitas – stačiatikiškos kultūros užsakovai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183154
+    - t-169693
+
+- id: c-176230
+  citata_originali: |
+    Nepaisant kultūrinių praradimų (nesuspėta suformuoti lietuviakalbio
+    raštijos modelio), XVI a. LDK visuomenė tampa europinė ir įsilieja į Va-
+    karų civilizaciją. Nuosavybės santykiuose susiformuoja leno teisė, socia-
+    linėje ūkinėje struktūroje – riterio dvaras (feodas) ir baudžiava, politinėje
+    ir socialinėje struktūroje – bajorų luomas ir luominė monarchija, miestų
+    ūkyje – cechai, edukacijoje – europinė švietimo sistema (katedrinės mo-
+    kyklos ir jų triviumas, kolegijos ir universitetas).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193550
 
 ## Ryšiai
 - Priešai: [[objektai/grupes/Kryžiuočių ordinas]]

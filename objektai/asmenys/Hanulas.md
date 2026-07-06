@@ -13,6 +13,18 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Hanulas
 
@@ -25,9 +37,26 @@ periodo_grupes:
 <a id="claim-t-186207"></a>
 - t-001
   global_id: t-186207
-  teiginys: '1385 m. Jogailos pasiuntinybėje į Lenkiją Hanulas dalyvavo kaip Vilniaus seniūnas.'
+  teiginys: "1385 m. Jogailos pasiuntinybėje į Lenkiją Hanulas dalyvavo kaip Vilniaus seniūnas."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Hanulas keliavo į Lenkija (0.84); Hanulas valdė miestą Vilnius (0.75)"
+  temporaliniai_duomenys: "įvykio data: 1385 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie Hanulą, bet pradinis teiginys užterštas puslapio antrašte ir OCR triukšmu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "487175-488296; hash=0823507a4bf9c3a7c862f4fcaca2b911df84e3062a934b4c60805c54c84696ed; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Lenkija: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Hanulas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Hanulas įvardytas tarp pasiuntinybės narių, siunčiamų į Lenkiją."
   pagrindžia:
-    - c-001
+    - c-169568
 - susijęs iš [[objektai/asmenys/Hanulas, arba Hanka.md#claim-t-87511|Hanulas, arba Hanka]]: Hanulas autentiškame 1385 m. Vladislovo Jogailos laiške vadinamas Hanka, Vilniaus seniūnu.
 - susijęs iš [[objektai/ivykiai/Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.).md#claim-t-35898|Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.)]]: 1382 m. birželio 12 d. Jogaila atėjo nuo Vitebsko į Vilnių, šalininkų remiamas jį paėmė, o Rygos pirklys Hanulo įteikė jam pilies raktus.
 - susijęs iš Vytauto byla su Jogaila Karaliaučiaus Slaptajame archyve: Vytauto byloje su Jogaila Hanulas tapatinamas su Hanka, paminėtu autentiškame Vladislovo Jogailos laiške.
@@ -88,11 +117,54 @@ periodo_grupes:
     sokiomis priemonėmis atgauti Sileziją, Pomeraniją bei
     Prūsiją.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-169568
+  citata_originali: |
+    Apie tai sužinojo kai­
+    myninių šalių valdovai, ir ši žinia paskatino Jogailą
+    prašyti karalienės rankos. Į Lenkiją nutarė siųsti be
+    279
+
+    ## Puslapis 278
+
+    1385 m e ta i
+    J o g a ila  p erša si J a d ­
+    v y g a i, len k ų  k a ra lie ­
+    nei
+    galo garbingus piršlius, pa­
+    siuntinybei vadovavo Skir­
+    gaila ir Vygandas Vasilijus,
+    arba, kaip kiti vadina, Bori­
+    sas, valdovo broliai, be to,
+    Hanulas, Vilniaus seniūnas;
+    jie vežėsi puikiausių dovanų karalienei bei didikams.
+    Sąlygos, kuriomis jie prašė Jadvygos rankos, buvo
+    nepaprastos Jogaila esąs krikščionės sūnus, jis visada
+    palaikęs šį tikėjimą ir su visais savo tautos luomais
+    priimsiąs Romos krikščionių tikėjimą; ką ligi šiol lie­
+    tuviai buvo iš lenkų atėmę Rusioje bei Palenkėję, ati­
+    duosiąs lenkams; belaisvius, paimtus Lenkijoje ar Ru­
+    sioje, be jokios išpirkos paleisiąs į laisvę; Lietuvos
+    Didžiąją Kunigaikštystę su visomis žemėmis, pavaldžio­
+    mis Lietuvai, sujungsiąs su lenkų valstybe amžina są­
+    junga; visus savo turtus išleisiąs Lenkijos karalystės
+    naudai; pirmiausia stengsiąsis visokiais būdais ir vi­
+    sokiomis priemonėmis atgauti Sileziją, Pomeraniją bei
+    Prūsiją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186207
 
 ## Ryšiai
 - Hanulas valdė [[objektai/vietos/Vilnius]]

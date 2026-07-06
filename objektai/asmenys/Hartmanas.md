@@ -17,6 +17,18 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Hartmanas
 
@@ -29,9 +41,22 @@ Dusburgietis teigia, kad apie Gedimino pilies papilio sudeginimą ir kitką 1317
 <a id="claim-t-60299"></a>
 - t-001
   global_id: t-60299
-  teiginys: '1317 m. brolis Hartmanas su Fridrichu Kvicu ir 60 vyrų turėjo užpulti Pagraudės valsčiaus kaimus, bet pasiklydo ir nieko nenuveikė.'
+  teiginys: "1317 m. brolis Hartmanas su Fridrichu Kvicu ir 60 vyrų turėjo užpulti Pagraudės valsčiaus kaimus, bet pasiklydo ir nieko nenuveikė."
+  temporaliniai_duomenys: "įvykio data: 1317 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "658647-659348; hash=45088ca7186321129bfa4c3c70dce2615336e85535ca4ced53319cac3720676c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Fridrichas Kvicas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Hartmanas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Fridrichas Kvicas: mention_match, person, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hartmanas\" parinktas kaip owner_note_path. Targetas \"Fridrichas Kvicas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-60931
 - susijęs iš [[objektai/asmenys/Ditrichas iš Gruningeno.md#claim-t-60266|Ditrichas iš Gruningeno]]: Ditrichas iš Gruningeno kartu su Hartmanu iš Heldrungeno buvo Teneburgo pilyje, kur Konradas ieškojo ramybės.
 - susijęs iš [[objektai/asmenys/Hartmanas iš Grumbacho.md#claim-t-60300|Hartmanas iš Grumbacho]]: Hartmanas iš Grumbacho buvo penktasis Prūsijos žemės magistras ir vadovavo trejus metus.
 - susijęs iš [[objektai/asmenys/Hartmanas iš Heldrungeno.md#claim-t-59966|Hartmanas iš Heldrungeno]]: Hartmanas iš Heldrungeno kartu su Konradu, Ditrichu iš Gruningeno ir keliais namiškiais buvo Teneburgo pilyje.
@@ -67,11 +92,33 @@ Dusburgietis teigia, kad apie Gedimino pilies papilio sudeginimą ir kitką 1317
     vyrų prieiti slapta prie Gedimino pilies ir ją paimti, tačiau pilėnai — nežinia, kuriuo būdu
     apie tai iš anksto įspėti,— pilį apgynė, nors papilį broliams ir pavyko visiškai sudeginti.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-60931
+  citata_originali: |
+    332 (325). Apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais
+
+      Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su
+    broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo savo kariuomenę
+    į keturias dalis; brolis Hartmanas ir brolis Fridrichas Kvicas su 60 vyrų turėjo užpulti
+    kai kuriuos šio valsčiaus kaimus, bet žygiuodami pasiklydo ir nieko nenuveikė. Antra
+    kariuomenės dalis, būtent brolis Fridrichas iš Libencelės, Ragainės komtūras, turėjo su 150
+    vyrų prieiti slapta prie Gedimino pilies ir ją paimti, tačiau pilėnai — nežinia, kuriuo būdu
+    apie tai iš anksto įspėti,— pilį apgynė, nors papilį broliams ir pavyko visiškai sudeginti.
+  citata_rodoma: "Apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais\n\n  Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su\nbroliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo savo kariuomenę\nį keturias dalis; brolis Hartmanas ir brolis Fridrichas Kvicas su 60 vyrų turėjo užpulti\nkai kuriuos šio valsčiaus kaimus, bet žygiuodami pasiklydo ir nieko nenuveikė. Antra\nkariuomenės dalis, būtent brolis Fridrichas iš Libencelės, Ragainės komtūras, turėjo su 150\nvyrų prieiti slapta prie Gedimino pilies ir ją paimti, tačiau pilėnai — nežinia, kuriuo būdu\napie tai iš anksto įspėti,— pilį apgynė, nors papilį broliams ir pavyko visiškai sudeginti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60299
 
 ## Ryšiai
 - Hartmanas puolė [[objektai/vietos/Pagraudė]]

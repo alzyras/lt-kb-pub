@@ -13,6 +13,18 @@ tags:
   - posakis
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # karas po karo
 
@@ -31,18 +43,44 @@ amziai:
 ## Teiginiai
 
 <a id="claim-t-09685"></a>
-- t-001
+- t-004
   global_id: t-09685
-  teiginys: 'Pavadinimas „karas po karo“ citatoje gretinamas su Lietuvos–SSRS karo (1945–1953) pavadinimu.'
+  teiginys: "Pavadinimas „karas po karo“ citatoje gretinamas su Lietuvos–SSRS karo (1945–1953) pavadinimu."
+  temporaliniai_duomenys: "įvykio data: 1863 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pirminis teiginys turi OCR klaidą ir nepatogią nuorodą „ši formuluotė“."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "30804-31133; hash=2d005881fe64ad641e400096a1fdc00672dc2f57f014311058b66df1953b1f86; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
+  ryšio_patikimumas: "susije_su -> „karas po karo“: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "karas po karo: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "„karas po karo“: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"karas po karo\" parinktas kaip owner_note_path. Targetas \"„karas po karo“\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-12495
 
 <a id="claim-t-09686"></a>
-- t-002
+- t-003
   global_id: t-09686
-  teiginys: 'Ginkluota rezistencija šiandien vadinama „karu po karo“ arba Lietuvos–SSRS karu (1945–1953).'
+  teiginys: "Ginkluota rezistencija šiandien vadinama „karu po karo“ arba Lietuvos–SSRS karu (1945–1953)."
+  temporaliniai_duomenys: "įvykio data: 1863 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra enciklopedinis, gramatiškas ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "30804-31133; hash=2d005881fe64ad641e400096a1fdc00672dc2f57f014311058b66df1953b1f86; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
+  ryšio_patikimumas: "susije_su -> Viena: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "karas po karo: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"karas po karo\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-12495
 - susijęs iš [[objektai/asmenys/J. Juška.md#claim-t-40156|J. Juška]]: J. Juška prisiminė, kad tą dieną žuvo daug savųjų ir gal ne mažiau okupantų karių.
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171499|Karolis Zikaras]]: Karolis Zikaras yra informacinio bloko „Partizanų bunkeriai“ autorius.
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171507|Karolis Zikaras]]: Karolis Zikaras ir Loreta Uzdraitė yra teksto apie 1923 m. sausio 9-15 d. sukilėlių žygį į Klaipėdos kraštą autoriai.
@@ -76,9 +114,29 @@ amziai:
     roizmu. Tiesa, kartais mūsų priešai jį bando vadinti „pilietiniu
     karu“.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-12495
+  citata_originali: |
+    dėjo pavėluotas pasipriešinimas - sukilimai (1794, 1831, 1863 m.)
+    ir ginkluota rezistencija, šiandien vadinama „karu po karo“ arba
+    Lietuvos-ssRS karu (1945-1953). Pastarajame galima surasti ne
+    vieną heroizmo pavyzdį, o gal net visą karą galima pavadinti he-
+    roizmu. Tiesa, kartais mūsų priešai jį bando vadinti „pilietiniu
+    karu“.
+  citata_rodoma: "ir ginkluota rezistencija, šiandien vadinama „karu po karo“ arba\nLietuvos-ssRS karu (1945-1953)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-09686
+    - t-09685

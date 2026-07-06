@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - grupe
   - tauta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Katalikų veikimo centras
 
@@ -20,9 +32,19 @@ Tačiau krikščionių demokratų blokas, Katalikų veikimo centras (KVC) nuolat
 <a id="claim-t-19747"></a>
 - t-001
   global_id: t-19747
-  teiginys: 'Katalikų veikimo centras neleido tautininkams monopolizuoti ideologinės ir organizacinės erdvės.'
+  teiginys: "Katalikų veikimo centras neleido tautininkams monopolizuoti ideologinės ir organizacinės erdvės."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "335696-336192; hash=7155a90ca536be5d181cbef07cecc1704ce11e70d02b6b76d54c2161925688a5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> A. Smetona: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Katalikų veikimo centras: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Katalikų veikimo centras\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-22453
 - susijęs iš [[objektai/grupes/Krikščionių demokratų blokas.md#claim-t-74194|Krikščionių demokratų blokas]]: Krikščionių demokratų blokas ir Katalikų veikimo centras trukdė tautininkams monopolizuoti ideologinę ir organizacinę erdvę.
 - susijęs iš [[objektai/asmenys/Stasys Raštikis.md#claim-t-101711|Stasys Raštikis]]: Kariuomenės vadas Stasys Raštikis visuomenėje įgavo didelį populiarumą, todėl prezidentas po ambicijų konflikto 1940 m. balandį atleido jį iš pareigų.
 - susijęs iš [[objektai/ivykiai/Stasio Raštikio atleidimas iš pareigų (1940 m. balandis).md#claim-t-20506|Stasio Raštikio atleidimas iš pareigų (1940 m. balandis)]]: Prezidentas 1940 m. balandį po ambicijų konflikto atleido populiarų kariuomenės vadą Stasį Raštikį iš pareigų.
@@ -41,11 +63,32 @@ Tačiau krikščionių demokratų blokas, Katalikų veikimo centras (KVC) nuolat
     centras (KVC) nuolat kvėpavo į pakaušį – tautininkai taip ir nesugebėjo
     monopolizuoti ideologinės ir organizacinės erdvės.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-22453
+  citata_originali: |
+    Šia kons-
+    titucija absoliučiai garantuotas A. Smetonos autoritarinis režimas.
+    A. Smetonai atrodė nepavojinga nusilpusių kairiųjų partijų veikla, ėjo
+    jų laikraščiai, nekėlė grėsmės pogrindyje esanti negausi (apie 1 200 narių)
+    Lietuvos komunistų partija, nors Maskva ir pumpavo valiutą į jos subliuš-
+    kusius raumenis. Tačiau krikščionių demokratų blokas, Katalikų veikimo
+    centras (KVC) nuolat kvėpavo į pakaušį – tautininkai taip ir nesugebėjo
+    monopolizuoti ideologinės ir organizacinės erdvės.
+  citata_rodoma: "centras (KVC) nuolat kvėpavo į pakaušį – tautininkai taip ir nesugebėjo"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-19747
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Krikščionių demokratų blokas]]

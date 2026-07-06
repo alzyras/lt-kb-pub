@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - miestas
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Mintauja
 
@@ -20,9 +32,19 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
 <a id="claim-t-41932"></a>
 - t-001
   global_id: t-41932
-  teiginys: 'Etmonas, iždininkas ir maršalas, paskleidę gandą apie kelionę į Drują bei Bychovo tvirtovę, iš tikrųjų traukėsi į Bauskę ir Mintaują.'
+  teiginys: "Etmonas, iždininkas ir maršalas, paskleidę gandą apie kelionę į Drują bei Bychovo tvirtovę, iš tikrųjų traukėsi į Bauskę ir Mintaują."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "563473-563985; hash=876cb3136dbe1df233bc244502e5c450426292d9aaf6279d8e94dc92bd6fb15d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bauskė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mintauja: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Bauskė: mention_match, place, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mintauja\" parinktas kaip owner_note_path. Targetas \"Bauskė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-45218
 - susijęs iš [[objektai/asmenys/P. Bermontas-Avalovas.md#claim-t-40381|P. Bermontas-Avalovas]]: P. Bermontas-Avalovas siekė nuversti bolševikus Rusijoje ir atkurti Rusijos imperiją, o jo pajėgos 1919 m. telkėsi Mintaujoje.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179420|Livonijos ordinas]]: Taikos sutartyje iš Livonijos ordino atstovų paminėti tik Mintaujos komtūras Jonas de Lovenbinkė ir brolis Otto iš Eželio.
 - susijęs iš Bauskė: Etmonas, iždininkas ir maršalas, paskleidę klaidinantį gandą apie kelionę į Drują ir Bychovo tvirtovę, traukėsi į Bauskę ir Mintaują.
@@ -63,11 +85,39 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
     nės dalinys įžengė į Vilnių Sapiegoms
     jau išvykus iš miesto.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-45218
+  citata_originali: |
+    Šios Sapiegų kariuomenės
+    dalies gynyba neleido respubliko-
+    nams organizuoti besitraukiančių
+    Sapiegų giminės senjorų persekio-
+    jimą. Etmonas, iždininkas ir marša-
+    las vakare pasiekė Vilnių, iš visų savo
+    rūmų suvežė svarbiausias vertybes į
+    dominikonų vienuolyną, kuriame ir
+    pernakvojo, o ryte, paskleidę gandą,
+    kad vyksta į Drują bei Bychovo tvir-
+    tovę, iš tikrųjų suskubo trauktis į
+    Kuršą - į Bauskę ir Mintaują. Juos
+    persekiojęs respublikonų kariuome-
+    nės dalinys įžengė į Vilnių Sapiegoms
+    jau išvykus iš miesto.
+  citata_rodoma: "Etmonas, iždininkas ir marša-\nlas vakare pasiekė Vilnių, iš visų savo\nrūmų suvežė svarbiausias vertybes į\ndominikonų vienuolyną, kuriame ir\npernakvojo, o ryte, paskleidę gandą,\nkad vyksta į Drują bei Bychovo tvir-\ntovę, iš tikrųjų suskubo trauktis į\nKuršą - į Bauskę ir Mintaują. Juos\npersekiojęs respublikonų kariuome-\nnės dalinys įžengė į Vilnių Sapiegoms\njau išvykus iš miesto."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-41932
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/P. Bermontas-Avalovas]]

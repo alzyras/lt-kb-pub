@@ -9,7 +9,7 @@ import AdvancedEvidenceToggle from "./AdvancedEvidenceToggle"
 import OptionsPanel from "./OptionsPanel"
 import HomeRandomTeiginiai from "./HomeRandomTeiginiai"
 import HomeCollection from "./HomeCollection"
-import BMHeader from "./BMHeader"
+import LIHeader from "./LIHeader"
 import ObjectMapCTA from "./ObjectMapCTA"
 import ObjectMediaGallery from "./ObjectMediaGallery"
 import Head from "./Head"
@@ -43,7 +43,7 @@ export {
   OptionsPanel,
   HomeRandomTeiginiai,
   HomeCollection,
-  BMHeader,
+  LIHeader,
   ObjectMapCTA,
   ObjectMediaGallery,
   Head,

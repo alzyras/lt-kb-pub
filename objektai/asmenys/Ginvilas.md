@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Ginvilas
 
@@ -17,10 +29,23 @@ Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.
 <a id="claim-t-186111"></a>
 - t-001
   global_id: t-186111
-  teiginys: 'Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.'
+  teiginys: "Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Ginvilas valdė miestą Polockas (0.88); Ginvilas buvo sūnus Mingaila (0.84)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "135595-136020; hash=aaad68b367b4999dcb9e67b8699b2f9037fe439512a8a2e671c94cee3cfc6827; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_miesta -> Polockas: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Ginvilas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Ginvilas paveldėjo valdžią Polocke."
   pagrindžia:
-    - c-001
-
+    - c-169472
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -37,11 +62,32 @@ Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.
     sis — tėvo Polocke. Sėkmingų lietuvių žygių Rusioje
     nevaliojo pakęsti rusų kunigaikščiai.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-169472
+  citata_originali: |
+    Miestas
+    turėjo pasiduoti, priimti vienu metu ir taiką, ir vergo­
+    vę: neteko laisvės tie, kurie ją piktam naudojo, skriaus­
+    dami kaimynus. Neilgai šia pergale džiaugėsi Mingai­
+    la tais pačiais metais jis mirė, įpėdiniais palikdamas
+    Skirmantą ir Ginvilą, kurių pirmasis, amžiumi vyres­
+    nis, paveldėjo senelio valdžią Naugarduke, o antra­
+    sis — tėvo Polocke. Sėkmingų lietuvių žygių Rusioje
+    nevaliojo pakęsti rusų kunigaikščiai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186111
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Mingaila]]

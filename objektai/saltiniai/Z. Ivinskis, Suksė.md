@@ -15,6 +15,18 @@ tags:
   - saltinis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Z. Ivinskis, Suksė
 
@@ -27,10 +39,22 @@ Ivinskis, Nalšia , LE XIX, 1959, 490- 491 ; Z.
 <a id="claim-t-30131"></a>
 - t-001
   global_id: t-30131
-  teiginys: 'Z. Ivinskio „Suksė“ 1963 m. nurodyta „Lietuvių enciklopedijos“ XXIX tome, 179 puslapyje.'
+  teiginys: "Z. Ivinskio „Suksė“ 1963 m. nurodyta „Lietuvių enciklopedijos“ XXIX tome, 179 puslapyje."
+  temporaliniai_duomenys: "įvykio data: 1963 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia sutvarkytą bibliografinį teiginį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "558194-558456; hash=df77345680854420e75e256313db370d5f7063d922c08d173de1f96c901485d8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Zenonas Ivinskis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Z. Ivinskis, Suksė: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Zenonas Ivinskis: mention_match, author, gap=3"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Z. Ivinskis, Suksė\" parinktas kaip owner_note_path. Targetas \"Zenonas Ivinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-30036
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -41,8 +65,24 @@ Ivinskis, Nalšia , LE XIX, 1959, 490- 491 ; Z.
     kunde 38, 1958, 99-107. Žiūr. Z. Ivinskis, Nalšia , LE XIX, 1959, 490-
     491 ; Z. Ivinskis, Suksė , LE XXIX, 1963, 179.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-30036
+  citata_originali: |
+    220c LReim 8108. Plg. P. Johansen, Eine Riga-Wisby-Urkunde des 13.
+    Jahrhunderts , Zeitschr. des Vereins für Lübekische Geschichte und Altertums­
+    kunde 38, 1958, 99-107. Žiūr. Z. Ivinskis, Nalšia , LE XIX, 1959, 490-
+    491 ; Z. Ivinskis, Suksė , LE XXIX, 1963, 179.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-30131

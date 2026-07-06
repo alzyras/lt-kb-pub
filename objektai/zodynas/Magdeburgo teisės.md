@@ -17,119 +17,308 @@ datos:
   - '2026 m.'
 date_start: '1330'
 date_end: '2026'
-aliases:
-  - 'objektai/zodynas/magdeburginės teisės'
-variantai:
-  - 'magdeburginės teisės'
-description: 'Magdeburgo teisės žymi miestų savivaldos pradžią Lietuvoje: nuo Vilniaus 1387 m. iki Vytauto privilegijų Brastai ir Kaunui.'
-socialDescription: 'Vilnius 1387 m. pirmasis gavo Magdeburgo teises, o Vytauto laikais jos plito į Brastą, Kauną ir kitus miestus.'
-seo_atnaujinta: '2026-07-02T23:12:35.302249+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Magdeburgo teisės
 
 ## Santrauka
 
-Magdeburgo teisės Lietuvos miestuose reiškė savivaldybės, arba vadinamosios magdeburgijos, suteikimą. Pirmuoju tokiu miestu laikomas Vilnius, 1387 m. gavęs teises iš Vladislovo Jogailos. Vytautas vėliau Magdeburgo teises suteikė Brastai ir Kaunui 1408 m., Tykocinui 1426 m., Drachočynui 1429 m. ir Bielskui 1430 m.
+Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pirmas Magdeburgo teises gavo Vilnius (1387 m.), vėliau Brasta (1390 m.), Gardinas (1391 m.), o dar vėliau Kaunas ir kt.
 
 ## Teiginiai
 
 <a id="claim-t-113643"></a>
-- t-001
+- t-009
   global_id: t-113643
-  teiginys: 'Vladislovas Jogaila Merkinėje rašytu aktu kitą dieną po Šv. Benedikto, abato, šventės suteikė Vilniui Magdeburgo teises.'
+  teiginys: "Vladislovas Jogaila Merkinėje rašytu aktu kitą dieną po Šv. Benedikto, abato, šventės suteikė Vilniui Magdeburgo teises."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "248181-249424; hash=954aaa30cdbce51e5465603c64f6773b961eaf91547310f1d78e1b984824aec7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Merkinė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Magdeburgo teisės: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Merkinė: mention_match, place, gap=82"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Magdeburgo teisės\" parinktas kaip owner_note_path. Targetas \"Merkinė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-104844
 
 <a id="claim-t-113644"></a>
-- t-002
+- t-012
   global_id: t-113644
-  teiginys: 'Švitrigaila, įžengęs į Lietuvos sostą, nepatvirtino dovanojimų, paremtų Magdeburgo teise.'
+  teiginys: "Švitrigaila, įžengęs į Lietuvos sostą, nepatvirtino dovanojimų, paremtų Magdeburgo teise."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "434627-435405; hash=7d08bb46de517bc6e55ee7c1bf96ac1809675988237808abab9411209cc2b0ac; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Magdeburgo teisės: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Magdeburgo teisės\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-014
+    - c-104849
 
 <a id="claim-t-113645"></a>
-- t-003
+- t-014
   global_id: t-113645
-  teiginys: '1441 m. Brastoje išleista Kazimiero privilegija Vilniui atkūrė Magdeburgo teises ir nustatė du didžiuosius prekymečius.'
+  teiginys: "1441 m. Brastoje išleista Kazimiero privilegija Vilniui atkūrė Magdeburgo teises ir nustatė du didžiuosius prekymečius."
+  temporaliniai_duomenys: "įvykio data: 1441 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai nusako 1441 m. Kazimiero privilegijos turinį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "456293-457458; hash=6811e47f8c3c5b36c040ef859c9fa1e4b7b90afdb905914d1994d629c2de9fcd; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Mūro sienos ir miesto sienos: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Magdeburgo teisės: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Mūro sienos ir miesto sienos: mention_match, thing, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Magdeburgo teisės\" parinktas kaip owner_note_path. Targetas \"Mūro sienos ir miesto sienos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-011
+    - c-104846
 
 <a id="claim-t-113646"></a>
-- t-004
+- t-016
   global_id: t-113646
-  teiginys: 'Pirmosios Magdeburgo teisės Lietuvoje būtų pagerinusios miesto būklę, jei vidaus karas nebūtų sukėlęs naujos sumaišties šalyje.'
+  teiginys: "Pirmosios Magdeburgo teisės Lietuvoje būtų pagerinusios miesto būklę, jei vidaus karas nebūtų sukėlęs naujos sumaišties šalyje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "250773-251134; hash=1841623f4cf811e7528d7c08315efe34b42087f649f6a7491c66d989cad394e4; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Magdeburgo teisės: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Magdeburgo teisės\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-104838
 
 <a id="claim-t-113647"></a>
-- t-005
+- t-023
   global_id: t-113647
-  teiginys: '1492 m. Trakuose Aleksandras privilegija Vilniui suteikė Magdeburgo teises ir laisvę laikyti vaško dirbtuvę.'
+  teiginys: "1492 m. Trakuose Aleksandras privilegija Vilniui suteikė Magdeburgo teises ir laisvę laikyti vaško dirbtuvę."
+  temporaliniai_duomenys: "įvykio data: 1492 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiksliai paremtas citata apie 1492 m. Aleksandro privilegiją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "464019-464628; hash=374b60f7cbc875ab795a102719f87ef6c57117199cf34dea01f4845e18eae634; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vaškas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Magdeburgo teisės: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vaškas: mention_match, thing, gap=36"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Magdeburgo teisės\" parinktas kaip owner_note_path. Targetas \"Vaškas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-013
+    - c-104848
 
 <a id="claim-t-113648"></a>
-- t-006
+- t-019
   global_id: t-113648
-  teiginys: '1441 m. Kazimiero privilegija atnaujino Vilniaus Magdeburgo teises, nustatė du didžiuosius prekymečius ir savaitinius turgus.'
+  teiginys: "1441 m. Kazimiero privilegija atnaujino Vilniaus Magdeburgo teises, nustatė du didžiuosius prekymečius ir savaitinius turgus."
+  temporaliniai_duomenys: "įvykio data: 1441 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis tekstas nutrūkęs; citata leidžia suformuluoti pilną faktą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "456126-457028; hash=c4e9926ed498a1eb6ed77c9600edb26b9efcc178baabed0f11694565dd32160e; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Mūro sienos ir miesto sienos: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Magdeburgo teisės: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Mūro sienos ir miesto sienos: mention_match, thing, gap=54"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Magdeburgo teisės\" parinktas kaip owner_note_path. Targetas \"Mūro sienos ir miesto sienos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-104841
 
 <a id="claim-t-113649"></a>
-- t-007
+- t-020
   global_id: t-113649
-  teiginys: 'Vytautas Magdeburgo teises suteikė Brastai ir Kaunui 1408 m., Tykocinui 1426 m., Drachočynui 1429 m. ir Bielskui 1430 m.'
+  teiginys: "Vytautas Magdeburgo teises suteikė Brastai ir Kaunui 1408 m., Tykocinui 1426 m., Drachočynui 1429 m. ir Bielskui 1430 m."
+  temporaliniai_duomenys: "įvykio data: 1408 m.; įvykio data: 1426 m.; įvykio data: 1429 m.; įvykio data: 1430 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra tikslus, gramatiškas ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "714957-715242; hash=5af41987d88c44ad7ea6886e3acb7066d4c979a728a57d7f54e14aac84579928; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bielskas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Magdeburgo teisės: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Bielskas: mention_match, place, gap=95"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Magdeburgo teisės\" parinktas kaip owner_note_path. Targetas \"Bielskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-37888
 
 <a id="claim-t-113650"></a>
-- t-008
+- t-018
   global_id: t-113650
-  teiginys: 'Žygimantas privilegijomis amžiams suteikė miestui vokišką Magdeburgo teisę, nuo seno naudotą Krokuvoje.'
+  teiginys: "Žygimantas privilegijomis amžiams suteikė miestui vokišką Magdeburgo teisę, nuo seno naudotą Krokuvoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "442759-443442; hash=1fba7ac0d9ad33381f8c0112ed008929eb90c11028019eee75abc61581c72593; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Magdeburgo teisės: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Magdeburgo teisės\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-010
+    - c-104845
 
 <a id="claim-t-113651"></a>
-- t-009
+- t-021
   global_id: t-113651
-  teiginys: 'Karinis valdymas, kryžiuočių antpuoliai ir Vilniaus apgultys trukdė įtvirtinti Magdeburgo teises tarp miestiečių.'
+  teiginys: "Karinis valdymas, kryžiuočių antpuoliai ir Vilniaus apgultys trukdė įtvirtinti Magdeburgo teises tarp miestiečių."
+  semantiniai_rysiai: "Kryžiuočių ordinas apgulė Vilnius (0.86); Skirgaila buvo valdovas Polockas (0.84); Skirgaila buvo valdovas Lietuva (0.83)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "252103-253217; hash=11c7f83f753e77288916c0b04bcc5036514b42c9b53a22d1bb4254f869c5e18e; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "apgule -> Vilnius: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai mini kryžiuočių antpuolius ir Vilniaus apgultis."
   pagrindžia:
-    - c-008
+    - c-104842
 
 <a id="claim-t-113652"></a>
 - t-010
   global_id: t-113652
-  teiginys: 'Pirmosios Lietuvoje Magdeburgo teisės būtų pagerinusios Vilniaus būklę, jei vidaus karas nebūtų sukėlęs naujos audros šalyje.'
+  teiginys: "Pirmosios Lietuvoje Magdeburgo teisės būtų pagerinusios Vilniaus būklę, jei vidaus karas nebūtų sukėlęs naujos audros šalyje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "250855-251347; hash=ff0b97c7c381958729d045bf1d3ac14204faf36bd32dac44423b576773a7ba7c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Magdeburgo teisės: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=36"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Magdeburgo teisės\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-104840
 
 <a id="claim-t-113653"></a>
-- t-011
+- t-022
   global_id: t-113653
-  teiginys: 'Žygimantas dviem privilegijomis lotynų ir rusų kalbomis atnaujino ir patvirtino Vilniaus Magdeburgo teises.'
+  teiginys: "Žygimantas dviem privilegijomis lotynų ir rusų kalbomis atnaujino ir patvirtino Vilniaus Magdeburgo teises."
+  semantiniai_rysiai: "Žygimantas buvo valdovas Lietuva (0.82)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "441753-442945; hash=13a7a7bd96fd56b887c3c706b679d9a79dda4b630942a01114ac07d8eca72e1d; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_valdovas -> Lietuva: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žygimantas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje Žygimantas apibūdintas kaip naujas Lietuvos didysis kunigaikštis."
   pagrindžia:
-    - c-005
+    - c-104839
+
+<a id="claim-t-113654"></a>
+- t-017
+  global_id: t-113654
+  teiginys: "Švitrigaila, įžengęs į Lietuvos sostą, nepatvirtino dovanojimų, paremtų Magdeburgo teise."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "434569-435061; hash=3adae65970a14d49c8677d71635b5ec7b7ae14beb2ec2ec5ee3cf9e0f3ed9047; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ašmena: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Magdeburgo teisės: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Ašmena: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Magdeburgo teisės\" parinktas kaip owner_note_path. Targetas \"Ašmena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  pagrindžia:
+    - c-104847
 
 <a id="claim-t-113655"></a>
-- t-013
+- t-006
   global_id: t-113655
-  teiginys: 'Magdeburgo teisės buvo miestams suteikiamos savivaldybės; pirmasis jas 1387 m. iš Jogailos gavo Vilnius.'
+  teiginys: "Magdeburgo teisės buvo miestams suteikiamos savivaldybės; pirmasis jas 1387 m. iš Jogailos gavo Vilnius."
+  temporaliniai_duomenys: "įvykio data: 1387 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "714745-715003; hash=11fee10594c6a92adcaba4507cebef960ac46e3af383165f00560651a7691bec; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Magdeburgo teisės: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=96"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Magdeburgo teisės\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-14674
+
+<a id="claim-t-113656"></a>
+- t-007
+  global_id: t-113656
+  teiginys: "Vytautas Magdeburgo teises suteikė Brastai ir Kaunui 1408 m., Tykocinui 1426 m., Drachočynui 1429 m. ir Bielskui 1430 m."
+  temporaliniai_duomenys: "įvykio data: 1408 m.; įvykio data: 1426 m.; įvykio data: 1429 m.; įvykio data: 1430 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia sulyginti vietovardį su citatoje pateikta forma „Drachočynui“."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "714900-715124; hash=5b7dcaf03e415e50e2e596dff01d1d94e37638707047f524f4b17d6d9a8c57c6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bielskas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Magdeburgo teisės: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Bielskas: mention_match, place, gap=95"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Magdeburgo teisės\" parinktas kaip owner_note_path. Targetas \"Bielskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-14675
 
 <a id="claim-t-182958"></a>
-- t-015
+- t-014
   global_id: t-182958
-  teiginys: 'Vytauto laikais kai kuriems iškilusiems Lietuvos miestams buvo suteiktos savivaldybės, vadinamos Magdeburgo teisėmis.'
+  teiginys: "Vytauto laikais kai kuriems iškilusiems Lietuvos miestams buvo suteiktos savivaldybės, vadinamos Magdeburgo teisėmis."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "350476-350714; hash=94d7c58e2a5f03405412877c4a4c7979a00e0d7bfc6c715a82afb84db6a3c673; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Magdeburgo teisės: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=57"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Magdeburgo teisės\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-015
+    - c-166357
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82183|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis suteikė Vilniui teisę laikyti vaško dirbtuvę ir rūpinosi laisva laivyba Vilija.
 - susijęs iš [[objektai/grupes/Vilniaus magistratas.md#claim-t-172816|Vilniaus magistratas]]: Vilniaus burmistrai, tarybos nariai ir miestiečiai skundė vaitą dėl Magdeburgo teisės nesilaikymo ir privilegijų pažeidimų.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172824|Vilniaus miestiečių luomas]]: Vilniaus burmistrai, tarybos nariai ir miestiečiai skundė vaitą dėl Magdeburgo teisės nesilaikymo ir privilegijų pažeidimų.
@@ -167,8 +356,9 @@ Magdeburgo teisės Lietuvos miestuose reiškė savivaldybės, arba vadinamosios 
     deburgo teises buvo Vilnius. Tas teises jis gavo 1387 met. iš
     Jogailos^3 ).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
@@ -183,8 +373,9 @@ Magdeburgo teisės Lietuvos miestuose reiškė savivaldybės, arba vadinamosios 
     Kaunui 1408, Tykocinui 1426, Drachočynui 1429, Bielskui 1430
     metais^4 ).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
@@ -200,6 +391,7 @@ Magdeburgo teisės Lietuvos miestuose reiškė savivaldybės, arba vadinamosios 
     Apskritai, Vytautas norėdamas pagreitinti ūkio gyvenimo
     tempą, kaip kadaise Gediminas, ieškojo tinkamų žmonių svetur.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -224,6 +416,7 @@ Magdeburgo teisės Lietuvos miestuose reiškė savivaldybės, arba vadinamosios 
     netrukus papasakosime, nebūtų sukėlęs šalyje naujos aud­
     ros.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -271,6 +464,7 @@ Magdeburgo teisės Lietuvos miestuose reiškė savivaldybės, arba vadinamosios 
     čius, amžiams suteikia miestui vokišką Magdeburgo teisę,
     Krokuvos naudojamą nuo seno.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -294,6 +488,7 @@ Magdeburgo teisės Lietuvos miestuose reiškė savivaldybės, arba vadinamosios 
     tikėjimo nuostatus; dar numaldęs Baltojoje Rusioje prasidė­
     jusius bruzdėjimus, pargrįžo į Vilnių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -321,6 +516,7 @@ Magdeburgo teisės Lietuvos miestuose reiškė savivaldybės, arba vadinamosios 
     Viliją, o skersai - nuo Lukiškių priemiesčio iki Velnio, šian­
     dien vadinamo Tauro, kalno30.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -366,6 +562,7 @@ Magdeburgo teisės Lietuvos miestuose reiškė savivaldybės, arba vadinamosios 
     miesto apgultys, žinia, anaiptol nepadėjo įtvirtinti naujų
     Magdeburgo teisių tarp miestiečių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -406,6 +603,7 @@ Magdeburgo teisės Lietuvos miestuose reiškė savivaldybės, arba vadinamosios 
     ba šiaip vietovė kokiam nors dievai­
     čiui pašvęsta.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -429,6 +627,7 @@ Magdeburgo teisės Lietuvos miestuose reiškė savivaldybės, arba vadinamosios 
     dūręs [vaitas] privalėjo ne kitaip, tik pagal miesto teisę at­
     sakyti ir aiškintis dėl pateiktų priekaištų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -460,6 +659,7 @@ Magdeburgo teisės Lietuvos miestuose reiškė savivaldybės, arba vadinamosios 
     Ši svarbi privilegija yra Vilniaus rne).
     miesto teisių D n b i n s k i o rinkinv-
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -486,6 +686,7 @@ Magdeburgo teisės Lietuvos miestuose reiškė savivaldybės, arba vadinamosios 
     ar patvirtinęs bent kokios rūšies vo­
     kišką teisę Lietuvoje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -512,6 +713,7 @@ Magdeburgo teisės Lietuvos miestuose reiškė savivaldybės, arba vadinamosios 
     vačias, išskyrus Karališkąją, Vyskupo ir Vaivadų bei Mal­
     mazijos ir kitų bet kokios rūšies vynų propinaciją40.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -544,6 +746,7 @@ Magdeburgo teisės Lietuvos miestuose reiškė savivaldybės, arba vadinamosios 
     kytis su juo sudarytos didžiojo ku­
     nigaikščio Švitrigailos sutarties.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -560,8 +763,396 @@ Magdeburgo teisės Lietuvos miestuose reiškė savivaldybės, arba vadinamosios 
     mosios Magdeburgo teisės). Tačiau tai buvo tik pati miestų kili-
     mo pradžia; jie įsigalėjo daug vėliau.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
+## Citatos
+
+- id: c-14674
+  citata_originali: |
+    Miestelėnų luomo susikūrimui irgi Vytauto laikais buvo pa­
+    dėti pagrindai, kai miestams buvo suteiktos pirmos savivaldy­
+    bės arba taip vad. magdeburgijos. Pirmasis miestas gavęs Mag­
+    deburgo teises buvo Vilnius. Tas teises jis gavo 1387 met. iš
+    Jogailos^3 ).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-113655
+
+- id: c-14675
+  citata_originali: |
+    Pirmasis miestas gavęs Mag­
+    deburgo teises buvo Vilnius. Tas teises jis gavo 1387 met. iš
+    Jogailos^3 ). O Vytautas Magdeburgo teises suteikė Brastai ir
+    Kaunui 1408, Tykocinui 1426, Drachočynui 1429, Bielskui 1430
+    metais^4 ).
+  citata_rodoma: "O Vytautas Magdeburgo teises suteikė Brastai ir\nKaunui 1408, Tykocinui 1426, Drachočynui 1429, Bielskui 1430\nmetais^4 )."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-113656
+
+- id: c-37888
+  citata_originali: |
+    Tas teises jis gavo 1387 met. iš
+    Jogailos^3 ). O Vytautas Magdeburgo teises suteikė Brastai ir
+    Kaunui 1408, Tykocinui 1426, Drachočynui 1429, Bielskui 1430
+    metais^4 ).
+    Apskritai, Vytautas norėdamas pagreitinti ūkio gyvenimo
+    tempą, kaip kadaise Gediminas, ieškojo tinkamų žmonių svetur.
+  citata_rodoma: "O Vytautas Magdeburgo teises suteikė Brastai ir\nKaunui 1408, Tykocinui 1426, Drachočynui 1429, Bielskui 1430\nmetais^4 ).\nApskritai, Vytautas norėdamas pagreitinti ūkio gyvenimo\ntempą, kaip kadaise Gediminas, ieškojo tinkamų žmonių svetur."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-113649
+
+- id: c-104838
+  citata_originali: |
+    Karalius šią privilegiją
+    suteikė savo apaštališkosios kelionės
+    po Lietuvą metu.
+    114
+
+    ## Puslapis 131
+
+    Il KNYGA
+    savo lėšomis turėjo ją vykdyti tol, kol visas miestas nebuvo
+    aptvertas mūro siena. Tos pirmosios Lietuvoj teisės būtų ge­
+    rokai pagerinusios miesto būklę, jeigu vidaus karas, apie kurį
+    netrukus papasakosime, nebūtų sukėlęs šalyje naujos aud­
+    ros.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-113646
+
+- id: c-104839
+  citata_originali: |
+    Vėliau, po ketu­
+    rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo
+    17
+    Apie tai didžiajam magistrui pra­
+    neša komtūras iš Lealio, iš Rygos,
+    laiške, datuotame 1432 metų rugpjū­
+    čio 19 d. Ind. Cod. Hist. Dipl. Livon.,
+    I, Nr. 1330.
+    18
+    Kryžiuočių knechtas Hansas Baigas
+    1432 metų rugsėjo 8 dieną iš Trakų
+    rašo didžiajam magistrui, kad: „Žy­
+    gimantas, naujas Lietuvos didysis
+    kunigaikštis, visiems, turintiems iš
+    tėvų paveldėto turto, suteikia garan­
+    tijų pagal Magdeburgo teises, kaip
+    ir tiems, kuriems seniau jo brolis Vy­
+    tautas paskyrė dovanojimus, ir taip
+    pelno miestiečių palankumą. Visi
+    kalba: „O, koks mums maloningas
+    yra mūsų valdovas, Švitrigaila to ne­
+    darė. Už mūsų Žygimantą esame
+    pasirengę numirti/' Kotzebue
+    Switrig., p . 8 6 .
+    217
+
+    ## Puslapis 234
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    teisių atnaujinimą ir patvirtinimą dviem privilegijomis lo­
+    tynų ir rusų kalbomis - katalikų ir stačiatikių tikėjimo gy­
+    ventojams. Jas magistratas priėmė viešai iš didžiojo kuni­
+    gaikščio rankų19. Privilegijose Žygimantas pareiškė, kad
+    atskirdamas visas lenkų, lietuvių ir rusų teises bei papro­
+    čius, amžiams suteikia miestui vokišką Magdeburgo teisę,
+    Krokuvos naudojamą nuo seno.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-113653
+
+- id: c-104840
+  citata_originali: |
+    114
+
+    ## Puslapis 131
+
+    Il KNYGA
+    savo lėšomis turėjo ją vykdyti tol, kol visas miestas nebuvo
+    aptvertas mūro siena. Tos pirmosios Lietuvoj teisės būtų ge­
+    rokai pagerinusios miesto būklę, jeigu vidaus karas, apie kurį
+    netrukus papasakosime, nebūtų sukėlęs šalyje naujos aud­
+    ros. Vladislovas Jogaila su nemažėjančiu apaštalavimo įkarš­
+    čiu tuo metu tikrai visą Lietuvą aplankė diegdamas naujo
+    tikėjimo nuostatus; dar numaldęs Baltojoje Rusioje prasidė­
+    jusius bruzdėjimus, pargrįžo į Vilnių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-113652
+
+- id: c-104841
+  citata_originali: |
+    Tačiau dėl gyvenančių pasiturin­
+    čiųjų ir taikos šalyje buvo atstatomi sunykę pastatai, gyvėjo
+    prekyba, o dėl suteiktų laisvių miestiečiams gausėjo žmonių
+    skaičius. Kadangi pilietinis karas po Vytauto Didžiojo mir­
+    ties ir žiauri Žygimanto valdžia buvo Vilniaus miesto
+    valdžios sluoksniuose sukėlę chaosą, nuskurdinę ir palikę
+    be gyventojų miestą, beveik galutinai sugriovę Magdebur­
+    go teisių galią, todėl Kazimieras, įsigilinęs į apgailėtiną sa­
+    vo sostinės būklę, privalėjo atnaujinti anksčiau nustatytą
+    tvarką. Reikšminga jo privilegija, 1441 metais išleista Bras­
+    toje, prikėlė Vilniui Magdeburgo teises, nustatė Vilniui du
+    didžiuosius prekymečius, o kas savaitę - įprastus turgus,
+    garantavo miestui didesnes pajamas, dovanodamas jam ne­
+    mažą žemės plotą, nusidriekusį išilgai miesto sienos palei
+    Viliją, o skersai - nuo Lukiškių priemiesčio iki Velnio, šian­
+    dien vadinamo Tauro, kalno30.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-113648
+
+- id: c-104842
+  citata_originali: |
+    Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su
+    lenkų įgula17 tuomet valdydavo ir kitus gyventojus, bet ir
+    16
+    Skirgaila ne anksčiau kaip 1388 me­
+    tais tapo didžiuoju kunigaikščiu, nes
+    1387 metais visuose dokumentuose
+    visur vadinamas Skargalo Dux Tro-
+    censis, bet niekur nėra Dux Lithua-
+    niae. Tik taikos sutartyje tarp Ordi­
+    no maršalo Engelhardo Rabės ir
+    Lietuvos, apie kurią užsimena F o i g-
+    t a s, V, 507, sudarytoje ties Kaunu
+    1388 metais, Scriptum prope Cowno in
+    crastino b. Martini Fpi^copi et confes.
+    an. dom. 1388 [pasirašyta ties Kaunu
+    rytojaus dieną po Šv. Martyno, vys­
+    kupo ir išpažinėjo, Viešpaties metais
+    1388], Skirgaila save vadina: Schir-
+    galo Dei gratia dux lithuanie et domi­
+    nus Tracensis et Polocensis [Skirgaila -
+    didysis Lietuvos kunigaikštis ir Tra­
+    kų bei Polocko valdovas].
+    17
+    Latopisiec Litwy, paskelbtas D a ni­
+    to w i c z, Wilno, 1827, 8vo, 1. 44.
+    -- • —
+    115
+
+    ## Puslapis 132
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    toks karinis valdymas, ir dažni kryžiuočių antpuoliai bei
+    miesto apgultys, žinia, anaiptol nepadėjo įtvirtinti naujų
+    Magdeburgo teisių tarp miestiečių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-113651
+
+- id: c-104844
+  citata_originali: |
+    Buvo juk to­
+    kia visuotinė pirmykščių krikščionių
+    bažnyčios taisyklė - pagonis atver­
+    čiant į tikrąjį tikėjimą bažnyčias
+    113
+
+    ## Puslapis 130
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    Sutvarkęs Vilniuje tikybos reikalus, karalius atkreipė dė­
+    mesį į savo senosios sostinės padėtį. Atmindamas Vilniaus
+    gyventojų ištikimybę ir nepalaužtą jų prieraišumą kivirčų
+    su Kęstučiu krašto viduje laikais, gelbėdamas miestą nuo
+    valdžios nepastovumo ir sumaišties, į kurią buvo įstūmę kai­
+    mynų puldinėjimai ir tarpusavio vaidai, iškilmingu aktu,
+    rašytu Merkinėje, kitą dieną po Šv. Benedikto, abato, šven­
+    tės, valdovas Vilniui suteikė Magdeburgo teises15. Prisižiū­
+    rėjęs į klestinčią Krokuvą, Vladislovas Jogaila nusprendė vi­
+    lioti svetimtaučius kurdintis Vilniaus mieste, tačiau palankūs
+    tos privilegijos padariniai sumenko per išlygą, jog nepai­
+    sant naujų nuostatų, visi miestiečiai pavaldūs Vilniaus se­
+    niūnui, dėl ko jiems kilo pavojus ne kartą susidurti su sava­
+    vališkos valdžios perlenkimais. Prie to dar prisidėjo pareiga,
+    nuo seno jiems galiojanti, saugoti Vilniaus pilį: gyventojai
+    steigti ten, kur anksčiau stovėjusios
+    pagonių šventyklos arba augusios
+    giraitės, medžiai, buvęs akmuo ar­
+    ba šiaip vietovė kokiam nors dievai­
+    čiui pašvęsta.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-113643
+
+- id: c-104845
+  citata_originali: |
+    Privilegijose Žygimantas pareiškė, kad
+    atskirdamas visas lenkų, lietuvių ir rusų teises bei papro­
+    čius, amžiams suteikia miestui vokišką Magdeburgo teisę,
+    Krokuvos naudojamą nuo seno. Iš vaivadų ir visų karališ­
+    kųjų valdininkų buvo atimta galia kištis į miesto reikalus,
+    ir tik pačiam miesto vadovui, vadinamam vaitu, duota tei­
+    sė spręsti ir bausti už miestiečių padarytus kriminalinius
+    nusikaltimus. Taigi vaitui buvo suteikta tokia galia, kad
+    niekas negalėjo jo į teismą pakviesti, tiktai pats kunigaikš­
+    tis ir tik raštu, patvirtintu valdovo antspaudu, o ten atsi­
+    dūręs [vaitas] privalėjo ne kitaip, tik pagal miesto teisę at­
+    sakyti ir aiškintis dėl pateiktų priekaištų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-113650
+
+- id: c-104846
+  citata_originali: |
+    Kadangi pilietinis karas po Vytauto Didžiojo mir­
+    ties ir žiauri Žygimanto valdžia buvo Vilniaus miesto
+    valdžios sluoksniuose sukėlę chaosą, nuskurdinę ir palikę
+    be gyventojų miestą, beveik galutinai sugriovę Magdebur­
+    go teisių galią, todėl Kazimieras, įsigilinęs į apgailėtiną sa­
+    vo sostinės būklę, privalėjo atnaujinti anksčiau nustatytą
+    tvarką. Reikšminga jo privilegija, 1441 metais išleista Bras­
+    toje, prikėlė Vilniui Magdeburgo teises, nustatė Vilniui du
+    didžiuosius prekymečius, o kas savaitę - įprastus turgus,
+    garantavo miestui didesnes pajamas, dovanodamas jam ne­
+    mažą žemės plotą, nusidriekusį išilgai miesto sienos palei
+    Viliją, o skersai - nuo Lukiškių priemiesčio iki Velnio, šian­
+    dien vadinamo Tauro, kalno30. Vilniaus vaitai ta pačia pri­
+    vilegija įgijo didelę valdžią ir jų aukštai padėčiai būtiną au­
+    29
+    Žr. Il priede išsamią žinią apie Lie- je, kur aiškiai pasakyta: ius Teutoni-
+    tuvos didžiųjų kunigaikščių me- cum quod Magdeburiense dicitur denuo
+    džioklės namus Rūdninkuose. darnus (teutoniškąją teisę, kuri vadi-
+    30 narna Magdeburgo, naujai duoda-
+    Ši svarbi privilegija yra Vilniaus rne).
+    miesto teisių D n b i n s k i o rinkinv-
+  citata_rodoma: "Kadangi pilietinis karas po Vytauto Didžiojo mir­\nties ir žiauri Žygimanto valdžia buvo Vilniaus miesto\nvaldžios sluoksniuose sukėlę chaosą, nuskurdinę ir palikę\nbe gyventojų miestą, beveik galutinai sugriovę Magdebur­\ngo teisių galią, todėl Kazimieras, įsigilinęs į apgailėtiną sa­\nvo sostinės būklę, privalėjo atnaujinti anksčiau nustatytą\ntvarką. Reikšminga jo privilegija, 1441 metais išleista Bras­\ntoje, prikėlė Vilniui Magdeburgo teises, nustatė Vilniui du\ndidžiuosius prekymečius, o kas savaitę - įprastus turgus,\ngarantavo miestui didesnes pajamas, dovanodamas jam ne­\nmažą žemės plotą, nusidriekusį išilgai miesto sienos palei\nViliją, o skersai - nuo Lukiškių priemiesčio iki Velnio, šian­\ndien vadinamo Tauro, kalno30. Vilniaus vaitai ta pačia pri­\nvilegija įgijo didelę valdžią ir jų aukštai padėčiai būtiną au­\n29\nŽr."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-113645
+
+- id: c-104847
+  citata_originali: |
+    Aplink Polianų dvarą prie
+    Ašmenos buvo rasta daug kartų.
+    12
+    Iš kryžiuočių laiškų, išsaugotų Slap­
+    tajame Karaliaučiaus archyve, aiškiai
+    matyti, kad Švitrigaila, įžengęs į Lie­
+    tuvos sostą, niekam dovanojimų, pa­
+    remtų Magdeburgo teise, nepatvir­
+    tino. Kai rinkau žinias apie daugybę
+    dekretų, susijusių su Lietuvos isto­
+    rija, niekur, jokiame archyve, man
+    nepasisekė aptikti nė menkiausio
+    ženklo, kad Švitrigaila būtų suteikęs
+    ar patvirtinęs bent kokios rūšies vo­
+    kišką teisę Lietuvoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-113654
+
+- id: c-104848
+  citata_originali: |
+    228
+
+    ## Puslapis 245
+
+    III KNYGA
+    Iki tol (1492 m.) didžiųjų Lietuvos kunigaikščių Vilniui
+    duoti dovanojimai buvo ne tik patvirtinti karaliaus Alek­
+    sandro, Kazimiero įpėdinio, bet dar pasipildė naujais, tu­
+    rėjusiais gerokai pagyvinti prekybą ir pagerinti šio miesto
+    gyventojų buitį. Ta pačia privilegija, kuria Vilniui buvo
+    duotos Magdeburgo teisės (Trakuose, 1492 m.), Aleksan­
+    dras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo
+    metu vadintą Zabójnica (žudike), panaikindamas visas pri­
+    vačias, išskyrus Karališkąją, Vyskupo ir Vaivadų bei Mal­
+    mazijos ir kitų bet kokios rūšies vynų propinaciją40.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-113647
+
+- id: c-104849
+  citata_originali: |
+    12
+    Iš kryžiuočių laiškų, išsaugotų Slap­
+    tajame Karaliaučiaus archyve, aiškiai
+    matyti, kad Švitrigaila, įžengęs į Lie­
+    tuvos sostą, niekam dovanojimų, pa­
+    remtų Magdeburgo teise, nepatvir­
+    tino. Kai rinkau žinias apie daugybę
+    dekretų, susijusių su Lietuvos isto­
+    rija, niekur, jokiame archyve, man
+    nepasisekė aptikti nė menkiausio
+    ženklo, kad Švitrigaila būtų suteikęs
+    ar patvirtinęs bent kokios rūšies vo­
+    kišką teisę Lietuvoje. Nepaisant to,
+    ne tik Vilnius, bet ir kiti Lietuvos
+    miestai dar nebuvo praradę savo
+    reikšmės, kadangi net prieš patį Švit­
+    rigailos nuopuolį, 1432 metais, Lie­
+    tuvos ir lietuviškos Rusios kuni­
+    gaikščiai, bajorai ir miestai raštu
+    prisiekė Prūsijos ordinui tiksliai lai­
+    kytis su juo sudarytos didžiojo ku­
+    nigaikščio Švitrigailos sutarties.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-113644
+
+- id: c-166357
+  citata_originali: |
+    Todėl
+    tik Vytauto laikais daugiau iškilo Vilnius, Trakai, Brasta, Gardi-
+    nas, Kaunas. Kai kuriems jų buvo duotos savivaldybės (vadina-
+    mosios Magdeburgo teisės). Tačiau tai buvo tik pati miestų kili-
+    mo pradžia; jie įsigalėjo daug vėliau.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182958

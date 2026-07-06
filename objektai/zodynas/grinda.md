@@ -9,6 +9,18 @@ tags:
   - ginklas
   - pilis
   - sąvoka
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # grinda
 
@@ -21,17 +33,36 @@ Dusburgietis teigia, kad už pelkės tilto prie grindos247, prie dabartinio vie�
 <a id="claim-t-58848"></a>
 - t-001
   global_id: t-58848
-  teiginys: 'Prie grindos ir dabartinio vieškelio broliai sutvirtino malūną kaip pilį ir paliko jame sargybą.'
+  teiginys: "Prie grindos ir dabartinio vieškelio broliai sutvirtino malūną kaip pilį ir paliko jame sargybą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "264933-265223; hash=d5b9a863b95577db55953585a706c64526fec422156a654048816f6b18bbfb3b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Malūnas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "grinda: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Malūnas: mention_match, thing, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"grinda\" parinktas kaip owner_note_path. Targetas \"Malūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-59481
 
 <a id="claim-t-58849"></a>
 - t-002
   global_id: t-58849
-  teiginys: 'Prie Baigos per vandenis ir pelkę ėjęs grįstas kelias buvo greičiausiai panašus į žemaičių kūlgrindas.'
+  teiginys: "Prie Baigos per vandenis ir pelkę ėjęs grįstas kelias buvo greičiausiai panašus į žemaičių kūlgrindas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "266426-266657; hash=76a380db831e21957a97f9db9080127074021ff626bb6babb8252a8388ef7265; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baiga: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "grinda: owner_note_path, thing"
+  ryšio_targeto_parinkimas: "Baiga: mention_match, place, gap=6"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"grinda\" parinktas kaip owner_note_path. Targetas \"Baiga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-59480
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,6 +73,7 @@ Dusburgietis teigia, kad už pelkės tilto prie grindos247, prie dabartinio vie�
     minimas prie Baigos per vandenis, pelkę ėjęs grįstas kelias, greičiausiai panašus į garsias
     žemaičių kūlgrindas (Kšivickis L., Žemaičių..., p. 60—72).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -57,8 +89,36 @@ Dusburgietis teigia, kad už pelkės tilto prie grindos247, prie dabartinio vie�
     prūsai užkariavo, apsiautę ją su didele kariuomene, ir, išžudę brolius bei ginklanešius,
     pavertė pelenais.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-59480
+  citata_originali: |
+    247 D.— pontem paludis juxta stratam, Jer.— brucke; D. III, 24 — per pontem. Čia
+    minimas prie Baigos per vandenis, pelkę ėjęs grįstas kelias, greičiausiai panašus į garsias
+    žemaičių kūlgrindas (Kšivickis L., Žemaičių..., p. 60—72).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58849
+
+- id: c-59481
+  citata_originali: |
+    už pelkės tilto prie grindos247, prie dabartinio vieškelio, ir tą malūną sutvirtino nelyginant
+    pilį, palikdami jame du brolius ir daug ginklanešių jam saugoti. Šią pilį neilgai trukus
+    prūsai užkariavo, apsiautę ją su didele kariuomene, ir, išžudę brolius bei ginklanešius,
+    pavertė pelenais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58848

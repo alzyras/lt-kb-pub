@@ -9,6 +9,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Krikščionys
 
@@ -17,49 +29,125 @@ tags:
 Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
 
 ## Teiginiai
+
 <a id="claim-t-07840"></a>
-- t-001
+- t-002
   global_id: t-07840
-  teiginys: 'Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir siekė juos pavergti.'
+  teiginys: "Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir siekė juos pavergti."
+  semantiniai_rysiai: "Krikščionys puolė Kalnėnai (0.58); Krikščionys kariavo prieš Kalnėnai (0.52)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  saltinio_vieta: "131568-132226; hash=36882709618c65c76385ef0f9cbf40242857a97a9a99fd61d99c7b7f7daa67f7; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
+  ryšio_patikimumas: "puole -> Kalnėnai: 0.58"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Krikščionys: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kalnėnai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Tekstas sako, kad krikščionys kardu vertė krikštytis lietuvį, kalnėną ar žemaitį; iš leistinų objektų yra Kalnėnai."
   pagrindžia:
-    - c-001
+    - c-10073
 
 <a id="claim-t-184481"></a>
-- t-002
+- t-003
   global_id: t-184481
-  teiginys: 'Po ilgai trukusio atkaklaus mūšio krikščionys buvo sumušti, o jų kilmingieji pateko į nelaisvę arba žuvo.'
+  teiginys: "Po ilgai trukusio atkaklaus mūšio krikščionys buvo sumušti, o jų kilmingieji pateko į nelaisvę arba žuvo."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "176435-176825; hash=3e6b9a23cac269399d12bc21b98f2d6fe901f7d93c85200a69bf3e0efb57f37c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Viena: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Krikščionys: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krikščionys\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-167842
 
 <a id="claim-t-184482"></a>
-- t-003
+- t-004
   global_id: t-184482
-  teiginys: 'Kojelavičiaus vertinimu, prislėgti krikščionys lengviau atsikvėpė tik dėl vidaus nesantarvės, palaužusios kylančią stabmeldžių galią.'
+  teiginys: "Kojelavičiaus vertinimu, prislėgti krikščionys lengviau atsikvėpė tik dėl vidaus nesantarvės, palaužusios kylančią stabmeldžių galią."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "179696-180157; hash=284f18498338e0bdfe9889d20036f1648580ec282b6e5502b7ba66d06d5b4c7e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Krikščionys: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krikščionys\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-167843
 
 <a id="claim-t-184483"></a>
-- t-004
+- t-005
   global_id: t-184483
-  teiginys: 'Popiežiaus ediktas kvietė krikščionis į šventąjį karą prieš stabmeldžius, žadėdamas nuodėmių atleidimą.'
+  teiginys: "Popiežiaus ediktas kvietė krikščionis į šventąjį karą prieš stabmeldžius, žadėdamas nuodėmių atleidimą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "356002-356629; hash=245bcd8fcc602bb3aa987ac40c42b63b213bfb9ea96aeafb67c195c9ee107d82; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Fridrichas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Krikščionys: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Fridrichas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krikščionys\" parinktas kaip owner_note_path. Targetas \"Fridrichas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-167844
 
 <a id="claim-t-184484"></a>
-- t-005
+- t-006
   global_id: t-184484
-  teiginys: 'Gediminas nenorėjo priimti krikščionybės ar sudaryti sutarties su krikščionimis, todėl nutraukė pradėtas derybas.'
+  teiginys: "Gediminas nenorėjo priimti krikščionybės ar sudaryti sutarties su krikščionimis, todėl nutraukė pradėtas derybas."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "363755-364110; hash=d1d57e6812a63555144b28d33da0cd42998072c5bc1b0c60a64cfe2922165dd3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Krikščionys: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krikščionys\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-167845
 
 <a id="claim-t-188205"></a>
 - t-006
   global_id: t-188205
-  teiginys: 'Narbutas aiškina, kad gotai jau buvo krikščionys tuo metu, kai lietuvių tikėjimas, jo manymu, ėmė kilti į romėnų lygį.'
+  teiginys: "Narbutas aiškina, kad gotai jau buvo krikščionys tuo metu, kai lietuvių tikėjimas, jo manymu, ėmė kilti į romėnų lygį."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Gotai buvo priešas Herulai (0.92); Gotai puolė Lietuviai (0.86); Gotai priklausė Krikščionys (0.80)"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "151521-152429; hash=dd4d9a8008d380c74f4bd8cac55d0b4e31f6cc474ba3270758b09e0999658279; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_priesas -> Herulai: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gotai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Herulai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo gotus kaip herulų priešus."
   pagrindžia:
-    - c-006
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171099
 - susijęs iš [[objektai/ivykiai/Galindų žygis be ginklų ir Galindos žemės nusiaubimas.md#claim-t-91904|Galindų žygis be ginklų ir Galindos žemės nusiaubimas]]: Galindų žynė paragino žemės galinguosius be ginklų kariauti su krikščionimis.
 - susijęs iš [[objektai/paprociai/Gedimino krikščionių dvasininkų kvietimas ir religinio pakantumo norma.md#claim-t-87141|Gedimino krikščionių dvasininkų kvietimas ir religinio pakantumo norma]]: Gediminas aiškino, kad kariauja su krikščionimis ne dėl katalikų tikėjimo naikinimo, o dėl patiriamų skriaudų.
 - susijęs iš [[objektai/grupes/Galindai.md#claim-t-188186|Galindai]]: Narbutas pasakojo, kad po galindų žygio krikščionys juos išmušė, o supykdyti kaimynai nuniokojo Galindą beveik iki negyvenamos šalies.
@@ -210,6 +298,7 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
 - susijęs iš [[objektai/ivykiai/Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.).md#claim-t-183956|Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)]]: Sventopelkas sudarė sąjungą su prūsais, kad iš Prūsijos jėga būtų išvaryti Teutonų ordino broliai ir kiti krikščionys.
 - susijęs iš [[objektai/ivykiai/Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.).md#claim-t-66829|Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)]]: Sventopelkas sudarė sąjungą su prūsais, kad iš Prūsijos jėga būtų išvaryti Teutonų ordino broliai ir kiti krikščionys.
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
@@ -222,11 +311,13 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
         žalas ir gieždamies ant jų apmaudą, nusiaubė plačiai platesniai, toli tolesniai jų kraštų sritis,
         belikdami po savęs akmenį ir vandenį.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Po ilgai trukusio atkaklaus mūšio krikščionys buvo sumušti, o jų kilmingieji pateko į nelaisvę arba žuvo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -240,11 +331,13 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
     sumušti. Visi kilmingieji arba į nelaisvę pakliuvo, arba
     galvas padėjo.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Kojelavičiaus vertinimu, prislėgti krikščionys lengviau atsikvėpė tik dėl vidaus nesantarvės, palaužusios kylančią stabmeldžių galią.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -260,11 +353,13 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
     mus atvyko pakviesta Daumanto, Nalšios kunigaikš­
     čio, žmona, karalienės sesuo.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Popiežiaus ediktas kvietė krikščionis į šventąjį karą prieš stabmeldžius, žadėdamas nuodėmių atleidimą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -283,11 +378,13 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
     Su šiomis jėgomis patraukęs iš Prūsijos, priešas baisiai
     nusiaubė Žemaitiją.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   santrauka: 'Gediminas nenorėjo priimti krikščionybės ar sudaryti sutarties su krikščionimis, todėl nutraukė pradėtas derybas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -301,11 +398,13 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
     tėvių tikėjimo ir nesudaryti sutarčių, reikalaujančių
     keisti tikėjimą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-006
   santrauka: 'Narbutas aiškina, kad gotai jau buvo krikščionys tuo metu, kai lietuvių tikėjimas, jo manymu, ėmė kilti į romėnų lygį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -325,11 +424,132 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
     Tiesa, jog lietuvių religija labai panaši į galų, tai yra druidų, nes
     visos senovės religijos, kaip ir pačios tautos, yra labai viena kitai
     artimos, kilusios iš vienos šakos -  iš vieno lopšio*.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
+## Citatos
+
+- id: c-10073
+  citata_originali: |
+    Užvis ilgainiui, kad nedori krikščionys,
+        užsidengę liekulu^508 savo tikybos, suokė^509 kardu juos krikštytis, vildamies, jog tuo pragumu
+        tegalėsią juos nuvergti ir tarp savo gyvulių paskaityti, todėl toje gadynėj lietuvis, kalnėnas ar
+        žemaitis, norėdamas dar liuosu mirti ar po seno gyventi, turėjo su ginklu gulti ir kelti, idant
+        visados būt rangiu^510 drausti ir ramdyti savo neprietelius, dykstančius išplėšti jo liuosybę, visų
+        brangiąją nuo paties dievo jiems duotą dovaną, kuriuos tankiai nuveikę, atmonydami^511 savo
+        žalas ir gieždamies ant jų apmaudą, nusiaubė plačiai platesniai, toli tolesniai jų kraštų sritis,
+        belikdami po savęs akmenį ir vandenį.
+  citata_rodoma: "Užvis ilgainiui, kad nedori krikščionys,\nužsidengę liekulu^508 savo tikybos, suokė^509 kardu juos krikštytis, vildamies, jog tuo pragumu\ntegalėsią juos nuvergti ir tarp savo gyvulių paskaityti, todėl toje gadynėj lietuvis, kalnėnas ar\nžemaitis, norėdamas dar liuosu mirti ar po seno gyventi, turėjo su ginklu gulti ir kelti, idant\nvisados būt rangiu^510 drausti ir ramdyti savo neprietelius, dykstančius išplėšti jo liuosybę, visų\nbrangiąją nuo paties dievo jiems duotą dovaną, kuriuos tankiai nuveikę, atmonydami^511 savo\nžalas ir gieždamies ant jų apmaudą, nusiaubė plačiai platesniai, toli tolesniai jų kraštų sritis,\nbelikdami po savęs akmenį ir vandenį."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-07840
+
+- id: c-167842
+  citata_originali: |
+    Kai pasirodė iš užnugario grėsmingi barbarai,
+    kurių vokiečiai laukė iš priekio, netikėtai kilo įtarimas
+    ir baimė, jog paimta stovykla; tada, susidūrus kariuo­
+    menėms, prasidėjo žiaurus mūšis. Kovotojų atkaklu­
+    mas palaikė ne vieną valandą ir vienoje, ir kitoje pu­
+    sėje pergalės viltį, vis dėlto galop krikščionys buvo
+    sumušti. Visi kilmingieji arba į nelaisvę pakliuvo, arba
+    galvas padėjo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184481
+
+- id: c-167843
+  citata_originali: |
+    Lenkų
+    karalystei suskilus į daugybę kunigaikštysčių, sunku
+    buvo susitarti, be to, netoliese auganti lietuvių galybė
+    ilgainiui kėlė vis 'didesnę baimę. Vargu ar prislėgti
+    krikščionys būtų kada lengviau atsikvėpę, jeigu be­
+    kylančios stabmeldžių galios nebūtų palaužusi vidaus
+    nesantarvė. Tuo laiku mirė Mindaugui žmona; šeimy­
+    nos moterų sutvarkyti ir mirusiai šermenų iškelti į rū­
+    mus atvyko pakviesta Daumanto, Nalšios kunigaikš­
+    čio, žmona, karalienės sesuo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184482
+
+- id: c-167844
+  citata_originali: |
+    Be
+    Livonijos ir Prūsijos kariuomenės, kurią vedė, Prūsi- *
+    jos magistrą pavaduodamas, Fridrichas fon Vildenber-
+    gas, atvyko į pagalbą kariaunos iš Silezijos, Čekijos,
+    Austrijos, Vokietijos, vedamos Vroclavo kunigaikščio
+    Bernardo, Svabijos kunigaikščio, dviejų Reino grafų,
+    Julicho ir kitų grafų sūnų bei kitų Vokietijos valdovų.
+    Mat popiežius krikščionių žemėse buvo paskelbęs edik­
+    tą, kuriuo krikščionys, žadant nuodėmių atleidimą, bu­
+    vo šaukiami į šventąjį karą prieš stabmeldžius, todėl
+    ir ėmė iš’visur plaukti į Prūsiją didžiuliai karių būriai.
+    Su šiomis jėgomis patraukęs iš Prūsijos, priešas baisiai
+    nusiaubė Žemaitiją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184483
+
+- id: c-167845
+  citata_originali: |
+    Teofrido
+    vienuolyno abatas Bernardas. Gediminas vis dėlto ne­
+    norėjo nei krikščionybės priimti, nei sutarties sudaryti
+    su krikščionimis, todėl visai nutraukė pradėtas dery­
+    bas. Jo pasiuntinys Livonijoje išraiškingai prisipažino,
+    kad valdovas esąs nusistatęs niekada neišsižadėti pro­
+    tėvių tikėjimo ir nesudaryti sutarčių, reikalaujančių
+    keisti tikėjimą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184484
+
+- id: c-171099
+  citata_originali: |
+    Bet jos principai visiškai
+    nutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­
+    nėmis; negalima net manyti, kad senovės graikų tikyba būtų
+    patekusi į Lietuvą per tarpininkus gotus, nes skandinavų įtaka
+    mūsų kraštui buvo senesnė nei krašto pažintis su romėnais. O
+    kai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo
+    krikščionys, herulų priešai, ir niokojo kitas lietuvių gentis, gy­
+    venusias Baltijos kraštuose; tad jie būtų visai lietuvių tautai
+    primetę ne romėnų stabmeldystę, išguitą iš vyriausių Italijos
+    miestų bei provincijų, o krikščionybę arba šiaurės asų religiją,
+    jeigu lietuviai nuo seno nebūtų turėję savo pačių išsiugdytos
+    religijos, kurią gana veiksmingai formavo graikų mitologija.
+    Tiesa, jog lietuvių religija labai panaši į galų, tai yra druidų, nes
+    visos senovės religijos, kaip ir pačios tautos, yra labai viena kitai
+    artimos, kilusios iš vienos šakos -  iš vieno lopšio*.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188205
 
 ## Ryšiai
 - Kariavo prieš: [[objektai/grupes/Galindai]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Sventopelkas]]

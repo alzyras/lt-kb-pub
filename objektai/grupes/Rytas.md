@@ -13,6 +13,18 @@ tags:
   - grupe
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Rytas
 
@@ -25,16 +37,42 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 <a id="claim-t-01471"></a>
 - t-001
   global_id: t-01471
-  teiginys: 'Vilniuje įkurta švietimo draugija „Rytas“ buvo viena iš trijų ypatingą reikšmę turėjusių švietimo draugijų.'
+  teiginys: "Vilniuje įkurta švietimo draugija „Rytas“ buvo viena iš trijų ypatingą reikšmę turėjusių švietimo draugijų."
+  temporaliniai_duomenys: "įvykio data: 1907 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys sutelktas į note objektą ir paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "1048613-1049038; hash=98c894c9e82bdf201112d36d9326a090e2ac2ae268d121a1fecf9bb376e7a321; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Viena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rytas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rytas\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-01709
 
 <a id="claim-t-182921"></a>
 - t-002
   global_id: t-182921
-  teiginys: 'Vilniuje veikęs „Rytas“ buvo viena iš trijų ypač reikšmingų švietimo reikalams įkurtų draugijų.'
+  teiginys: "Vilniuje veikęs „Rytas“ buvo viena iš trijų ypač reikšmingų švietimo reikalams įkurtų draugijų."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "1048815-1049078; hash=9217fecb96974ffb81cc947be38548cc2bf45600b63e5d19879d01598dd9df2c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuvių Dailės Draugija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rytas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuvių Dailės Draugija: mention_match, group, gap=69"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rytas\" parinktas kaip owner_note_path. Targetas \"Lietuvių Dailės Draugija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-166324
 - susijęs iš [[objektai/asmenys/Janas Lasickis.md#claim-t-188557|Janas Lasickis]]: Narbutas rašo, kad Lasickis liudijo buvus Aušros vardu vadintą ryto deivę.
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102851|Dusburgas]]: Dusburgas rašė, kad brolių vėliava nuo ryto iki vidurdienio kovojo kalne priešais Gedimino pilį.
 - susijęs iš [[objektai/grupes/P. Lukšio rinktinė.md#claim-t-41108|P. Lukšio rinktinė]]: 1952 m. J. Paliūnas-Rytas vėl tapo P. Lukšio rinktinės vadu ir tais pačiais metais, po išdavystės apsuptas bolševikų, nusišovė.
@@ -70,12 +108,14 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102843|Dusburgas]]: Dusburgas prie 1304 m. pirmą kartą paminėjo Pagraudenę, pasakodamas apie Eberhardo de Virnemburgo įsiveržimą į Lietuvą.
 - susijęs iš [[objektai/autoriai/J. Maciūnas.md#claim-t-96052|J. Maciūnas]]: J. Maciūnas parengė „Trumpą higienos vadovėlį“ pagal Švietimo ministerijos programą.
 - susijęs iš [[objektai/autoriai/Kojałowicz Kojelavičius.md#claim-t-87997|Kojałowicz Kojelavičius]]: Kojelavičius Pagraudenę vadino Žemaitijos apylinke.
+- susijęs iš [[objektai/autoriai/Mechovita.md#claim-t-191576|Mechovita]]: Narbuto vertinimu, Mechovitos padavimuose esanti prielaida apie jotvingių dukras atrodė pasitvirtinanti polesiečių moterų išvaizdoje.
 - susijęs iš [[objektai/daiktai/Kardas.md#claim-t-92971|Kardas]]: Lenkų raitelis žvilgančiu kardu kelis kartus puolė griovyje atsigulusį žvalgą.
 - susijęs iš [[objektai/daiktai/Lininiai dirbiniai.md#claim-t-189687|Lininiai dirbiniai]]: Narbutas Alabatį vadina Linų Izide ir aiškina, kad ji globojo ne linų auginimą, o iš linų padarytus dirbinius.
 - susijęs iš [[objektai/daiktai/Prisikėlimo apygardos partizanų antsiuvas.md#claim-t-78675|Prisikėlimo apygardos partizanų antsiuvas]]: Prisikėlimo apygardos partizanų antsiuvas nuo 1949 m. buvo patvirtintas bendru LLKS antsiuvu.
 - susijęs iš [[objektai/daiktai/Prisikėlimo apygardos partizanų antsiuvas.md#claim-t-78676|Prisikėlimo apygardos partizanų antsiuvas]]: Prisikėlimo apygardos partizanų antsiuvas nuo 1949 m. buvo patvirtintas bendru LLKS antsiuvu.
 - susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-10166|Vėliavos]]: 1368 m. Algirdas su savo pajėgomis ir išskleistomis vėliavomis pasirodė ant Pasveikinimo kalno prie Maskvos.
 - susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-176217|Vėliavos]]: Algirdas su visomis savo pajėgomis ir išskleistomis vėliavomis pasirodė ant Pasveikinimo kalno prie Maskvos.
+- susijęs iš [[objektai/daiktai/Šarvai.md#claim-t-192068|Šarvai]]: Narbutas pasakoja, kad du paklydę priešų vadai buvo apsiginklavę šarvais ir buvo nukauti.
 - susijęs iš [[objektai/grupes/2-asis šaulių pulko batalionas.md#claim-t-38928|2-asis šaulių pulko batalionas]]: 2-asis šaulių pulko batalionas palaikė J. Zalivskio ir V. Matusevičiaus Trakų sukilėlių dalinius puolant rusų kairįjį sparną.
 - susijęs iš [[objektai/grupes/Kėdainių įgula.md#claim-t-78195|Kėdainių įgula]]: Vasario 7 d. anksti ryte Kėdainių įgula iš Kauno gavo šautuvų, šovinių ir rankinių granatų.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179240|Lietuviai]]: Per pagrindinį puolimą lietuvių gynyba iš pradžių buvo narsi, bet Žemutinėje pilyje prasiveržė liepsna.
@@ -111,6 +151,7 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 - susijęs iš [[objektai/posakiai/Vienas kraujo lašas būt tave nuplovęs Vienų vienas žodis būt tave apgynęs.md#claim-t-41468|Vienas kraujo lašas būt tave nuplovęs Vienų vienas žodis būt tave apgynęs]]: Poeto Jono Aisčio eilutė „Vienas kraujo lašas būt tave nuplovęs“ siejama su 1940 metų įvykių vertinimu.
 - susijęs iš [[objektai/posakiai/Vienas kraujo lašas būt tave nuplovęs.md#claim-t-09679|Vienas kraujo lašas būt tave nuplovęs]]: Dažnai kartojama Jono Aisčio eilutė „Vienas kraujo lašas būt tave nuplovęs“ siejama su 1940 m. įvykių vertinimais.
 - susijęs iš A. Smetonos laiškas Michailui Kalininui: Taikingas A. Smetonos laiškas sovietų prezidentui Michailui Kalininui nepadėjo išvengti 1940 m. birželio 14 d. sovietų ultimatumo Lietuvai.
+- susijęs iš Mechovitos veikalas: Teodoro Narbuto vertinimu, Mechovitos padavimų prielaida apie jotvingių dukras esą atsispindi jaunų polesiečių išvaizdoje.
 - susijęs iš SSRS ultimatumas Lietuvai (1940 m. birželio 14 d.): 1940 m. birželio 14 d. vakare J. Urbšys iš V. Molotovo gavo ultimatumą, kuriuo Lietuvai pareikalauta įsileisti neribotus sovietų karinius dalinius.
 - susijęs iš Trumpas higienos vadovėlis: J. Maciūno „Trumpas higienos vadovėlis“ buvo sudarytas pagal Švietimo ministerijos programą ir išleistas 1929 m.
 - susijęs iš Alionys: 7-asis pulkas turėjo pulti Širvintas ir užimti liniją: Alionys-Puoriai-Ramaškonys-Šešuolėlių dvaras.
@@ -153,6 +194,7 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
     kalams, būtent Vilniuje „Rytas", Kaune „Saulė" ir Mari-
     jampolėje „Žiburys".
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -170,8 +212,45 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
     jampolėje „Žiburys". Ypač plačiai buvo užsimojusi „Sau-
     lė".
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-01709
+  citata_originali: |
+    Vilniuje 1907 m. buvo
+    įkurta Lietuvių Mokslo Draugija, kuri pasiryžo tirti
+    lietuvių tautą, jos kultūrą ir kelti lietuviškąjį mokslą (ji ir dabar
+    tebėra gyva ir tebeleidžia savo žurnalą Lietuvių Tautą).
+    Tais pačiais metais Vilniuje įsikūrė Lietuvių Dailės
+    Draugija ir daug kitų draugijų.
+    Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo rei-
+    kalams, būtent Vilniuje „Rytas", Kaune „Saulė" ir Mari-
+    jampolėje „Žiburys".
+  citata_rodoma: "Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo rei-\nkalams, būtent Vilniuje „Rytas\", Kaune „Saulė\" ir Mari-\njampolėje „Žiburys\"."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-01471
+
+- id: c-166324
+  citata_originali: |
+    Tais pačiais metais Vilniuje įsikūrė Lietuvių Dailės
+    Draugija ir daug kitų draugijų.
+    Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo rei-
+    kalams, būtent Vilniuje „Rytas", Kaune „Saulė" ir Mari-
+    jampolėje „Žiburys". Ypač plačiai buvo užsimojusi „Sau-
+    lė".
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182921

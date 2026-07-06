@@ -13,6 +13,18 @@ tags:
   - vieta
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Płockas
 
@@ -25,9 +37,22 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
 <a id="claim-t-32492"></a>
 - t-001
   global_id: t-32492
-  teiginys: 'Gediminas išleido dukterį už Płocko Vankos ir į Lietuvą kviečiamiems vakariečiams rekomendavo kelią per Mozūriją.'
+  teiginys: "Gediminas išleido dukterį už Płocko Vankos ir į Lietuvą kviečiamiems vakariečiams rekomendavo kelią per Mozūriją."
+  temporaliniai_duomenys: "įvykio data: 1325 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko teiginį, bet sakinys perrašytas glaudžiau ir sklandžiau."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "644509-644890; hash=c947b11ac17720b444cb532e6bd99598ef6c3d931c2ae7d571e63ffeb7a7781e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Płockas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Płockas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-34018
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-05202|Traidenis (valdovas, XIII a.)]]: 1279 m. Traidenio dukra Gaudimantė ištekėjo už Płocko Boleslovo II ir per krikštą gavo Sofijos vardą.
 - susijęs iš [[objektai/asmenys/Vaclovas (Wanko) iš Płocko.md#claim-t-100079|Vaclovas (Wanko) iš Płocko]]: Vaclovas (Wanko) iš Płocko vedė Gedimino dukterį.
 - susijęs iš [[objektai/asmenys/Jadvyga (Jogailos duktė).md#claim-t-51024|Jadvyga (Jogailos duktė)]]: Vytautas buvo pašauktas būti karalaitės Jadvygos globėju ir nuo tada turėjo ryškią įtaką Lenkijos reikaluose.
@@ -55,8 +80,28 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
     čiamas Liublino unijos išvakarėse, t. y. beveik po pustrečio šimt­
     mečio.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-34018
+  citata_originali: |
+    Lietuva jau nuo Traidenio laikų turėjo pastovesnį ryšį su
+    Mozurija. Išleidęs savo dukterį už Płocko «Vankos », Gediminas
+    ir savo laiškuose kviečiamiems į Lietuvą vakarų svetimšaliams
+    rekomendavo kelią per Mozūriją. Jo 1325 m. sutartis buvo pir­
+    masis su Lenkija taikos sąlytis, kurio atminimas dar buvo jau­
+    čiamas Liublino unijos išvakarėse, t. y. beveik po pustrečio šimt­
+    mečio.
+  citata_rodoma: "Lietuva jau nuo Traidenio laikų turėjo pastovesnį ryšį su\nMozurija. Išleidęs savo dukterį už Płocko «Vankos », Gediminas\nir savo laiškuose kviečiamiems į Lietuvą vakarų svetimšaliams\nrekomendavo kelią per Mozūriją. Jo 1325 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-32492

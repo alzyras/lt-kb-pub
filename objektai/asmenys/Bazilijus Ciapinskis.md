@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Bazilijus Ciapinskis
 
@@ -19,10 +31,19 @@ Rusėnų / baltarusių spaustuvininkas Bazilijus Ciapinskis antrojoje XVI a.
 <a id="claim-t-18848"></a>
 - t-001
   global_id: t-18848
-  teiginys: 'Rusėnų ir baltarusių spaustuvininkas Bazilijus Ciapinskis antrojoje XVI a. pusėje spausdino raštus dviem stulpeliais.'
+  teiginys: "Rusėnų ir baltarusių spaustuvininkas Bazilijus Ciapinskis antrojoje XVI a. pusėje spausdino raštus dviem stulpeliais."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "108565-108929; hash=95994815ed857ada16291ca64c4d84d86b92d54a2583eb393949dc3a50b0fc0b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltarusiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bazilijus Ciapinskis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Baltarusiai: mention_match, group, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bazilijus Ciapinskis\" parinktas kaip owner_note_path. Targetas \"Baltarusiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-21619
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -35,8 +56,27 @@ Rusėnų / baltarusių spaustuvininkas Bazilijus Ciapinskis antrojoje XVI a.
     Ciapinskis antrojoje XVI a. pusėje netgi spausdino raštus dviem stulpeliais:
     viename viena kalba, kitame – kita.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-21619
+  citata_originali: |
+    LDK stačiatikių vienuo-
+    lynuose rašyta bulgarų kilmės slavų bažnytine kalba, o LDK raštinėje pra-
+    dėjo formuotis rašto tradicija, kuri skyrėsi nuo minėtos bažnytinės kalbos.
+    Aiškiai ją skyrė amžininkai. Rusėnų / baltarusių spaustuvininkas Bazilijus
+    Ciapinskis antrojoje XVI a. pusėje netgi spausdino raštus dviem stulpeliais:
+    viename viena kalba, kitame – kita.
+  citata_rodoma: "Ciapinskis antrojoje XVI a. pusėje netgi spausdino raštus dviem stulpeliais:"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-18848

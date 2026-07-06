@@ -19,6 +19,18 @@ tags:
   - vyskupas
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Prūsų žemė
 
@@ -31,9 +43,21 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
 <a id="claim-t-32483"></a>
 - t-001
   global_id: t-32483
-  teiginys: 'Prūsų žemė tapo svarbiu ginkluotų misijų kraštu ir rimtu Livonijos riterių bei kryžininkų prieaugliui varžovu.'
+  teiginys: "Prūsų žemė tapo svarbiu ginkluotų misijų kraštu ir rimtu Livonijos riterių bei kryžininkų prieaugliui varžovu."
+  temporaliniai_duomenys: "įvykio data: 1225 m.; įvykio data: 1231-1234; įvykio data: 1234 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "464561-465189; hash=d4030ff35fb42c525aaf2af472cffb95bb078c0d813aeda879de44f1231e5512; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsų žemė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=57"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsų žemė\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-34010
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179323|Lietuviai]]: Pagal Dusburgą, 1262–1263 m. lietuviai surengė du žygius į Prūsus, talkindami prūsams.
 - susijęs iš [[objektai/ivykiai/Vaidoto pabėgimas į Prūsus.md#claim-t-35892|Vaidoto pabėgimas į Prūsus]]: 1381 m. šešiolikmetis Butauto sūnus Vaidotas pabėgo iš senelio Kęstučio globos į Prūsus ir vyko pas ciesorių priimti krikšto.
 - susijęs iš Pagudė: Pagudė buvo prūsų žemė į šiaurės rytus nuo Pamedės, vakaruose siekusi dabartinio Elbingo apylinkes.
@@ -471,7 +495,6 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
 - susijęs iš [[objektai/ivykiai/Štarkenbergo pilies statybos metu įvykusios žudynės ir pilies pastatymas.md#claim-t-89424|Štarkenbergo pilies statybos metu įvykusios žudynės ir pilies pastatymas]]: Teutonų ordino didysis magistras Anonas įsakė Prūsijos magistrui ir broliams prie Osos pastatyti būsimą Štarkenbergo pilį.
 - susijęs iš [[objektai/ivykiai/Štarkenbergo pilies statybos metu įvykusios žudynės ir pilies pastatymas.md#claim-t-89425|Štarkenbergo pilies statybos metu įvykusios žudynės ir pilies pastatymas]]: Po pirmųjų statybų žudynių magistras vėl sušaukė žmones, užbaigė Štarkenbergo pilį ir jai ginti paskyrė brolių bei ginklanešių.
 - susijęs iš [[objektai/ivykiai/Žemaičių vyskupijos įkūrimas (1417 m. spalio 24 d.).md#claim-t-34527|Žemaičių vyskupijos įkūrimas (1417 m. spalio 24 d.)]]: Žemaičių arba Medininkų vyskupija buvo įkurta 1417 m. spalio 24 d. kaip antroji Lietuvos vyskupija.
-- susijęs iš [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos.md#claim-t-05335|Aisčių laidotuvių ir vėlinių apeigos]]: Wulfstano aprašyti aisčiai mirusiojo kūną laikydavo mėnesius, iš jo turto keldavo puotas, o likutį išdalydavo per arklių lenktynes.
 - susijęs iš [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną.md#claim-t-59726|Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]: Mindaugo žūtis, netvirta Lietuvos vidaus padėtis ir sudėtinga tarptautinė aplinka sunkino bendrą kovą prieš Ordino agresiją.
 - susijęs iš [[objektai/paprociai/Gedimino svetimšalių pirklių, amatininkų ir kolonistų kvietimas bei teisių suteikimas.md#claim-t-87196|Gedimino svetimšalių pirklių, amatininkų ir kolonistų kvietimas bei teisių suteikimas]]: Gediminas svetimšaliams žadėjo laisvą ir saugų kelią į Lietuvą be muitų ir mokesčių per Mazovijos kunigaikščio Boleslovo žemę.
 - susijęs iš [[objektai/paprociai/Kraujo keršto paprotys po žmogžudystės.md#claim-t-67131|Kraujo keršto paprotys po žmogžudystės]]: Prūsų prigimtinėje teisėje buvęs taliono principas davė pagrindo kalbėti apie kraujo kerštą nusikaltėliui ir jo giminėms.
@@ -502,7 +525,6 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
 - susijęs iš Monumenta Ucrainae Historica: Kardinolas J. Slipyj išleido metropolito A. Šeptyckio surinktų dokumentų rinkinį „Monumenta Ucrainae Historica“.
 - susijęs iš Prūsijos valdžios gromatos: Lietuviai prūsų kraštą vadino vardais Prūsai, Prūsa, Prūsų žemė ir sulotynintu vardu Prūsija.
 - susijęs iš S. Grunau, Preussische Chronik: S. Grunau Krivį vadino Krivių Krivaičiu ir siejo šį vardą su Brutenio ir Videvučio tradicija.
-- susijęs iš Simono Grunau kronika: Romantikai rėmėsi XVI-XVII a. Prūsijos šaltiniais, kuriuose kronikininkai kalbėjo apie prūsų dievus.
 - susijęs iš Палмайтис Л. Прусское deiwas, санскритское devásya, литовское diẽvojis и русское евоный Мифический формант генитива -sio и отгенитивное скло: L. Palmaičio straipsnis apie prūsų deiwas, sanskrito devásya, lietuvių diẽvojis ir rusų евоный paskelbtas „Baltistica“ 1980 m.
 - susijęs iš „2 Kar 11, 25“: 2 Kar 11, 25 cituojama kaip Dovydo pamokymas Joabui neprarasti drąsos dėl karių žūties.
 - susijęs iš Ariogala: Prūsų magistras su Bavarijos grafo Volfgango ir Livonijos kryžiuočių parama visiškai sunaikino Ariogalos, Pernaravos ir Labūnavos žemes.
@@ -548,7 +570,7 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
 - susijęs iš Kulmo žemė: „Pranešime“ kalbama apie Vokiečių ordino pakvietimą ir Kulmo žemės užrašymą broliams.
 - susijęs iš Kulmo žemė: Kulmo žemę mozūrų kunigaikščiai buvo dovanoję vokiečiams.
 - susijęs iš Kuršas: Dusburgiečio tekste Nemunas nurodomas kaip Prūsiją nuo Kuršo skirianti riba.
-- susijęs iš Kuršių marios: 1252 m. Livonijos ordinas pradėjo statyti pilį ten, kur Kuršių marios jungiasi su Baltija.
+- susijęs iš Kuršių marios: Kariuomenė traukė užšalusiomis Kuršių mariomis, kurių ledas buvo toks minkštas, kad bangavo tarsi vanduo.
 - susijęs iš Lenkija: Magistras Hermanas pasiuntė Konradą iš Landsbergo ir kitą Ordino brolį pas Lenkijos kunigaikštį apžiūrėti Kulmo žemės.
 - susijęs iš Lietuva: 1219 m. priešmindauginė Lietuva, greičiausiai valdoma Živinbudo ir susijungusi su Žemaitija, sudarė sutartį su Volyne.
 - susijęs iš Livonija: 1372 m. Ordinas puolė Lietuvą vienu metu iš Prūsijos ir Livonijos.
@@ -649,11 +671,35 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
     vyskupo» titulą ir Romos palaikomas, veikė cistersų vienuolis Kris­
     tijonas^73.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-34010
+  citata_originali: |
+    Kai popiežiaus Honorijaus III atsiustasis legatas Vilhelmas de Mo­
+    dena sėkmingai neišnarpliojo susipainiojusių ordino, vyskupo ir au­
+    gančio Rygos miesto reikalų (1225 m.), vicelegatas Baldninas de
+    Alna (1231-1234 m.) jau nebepajėgė Livonijoje įkurti bažnytinės
+    valstybės, nes kalavijuočiai, nors formaliai ir priklausė Rygos vys­
+    kupui, ginklu priešinosi.
+    Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų
+    kraštas, būtent, Prūsų žemė, kuris Livonijos riterių ir kryžininkų
+    prieaugliui tapo rimtas varžovas. Ten nuo 1216 metų, gavęs «Prūsų
+    vyskupo» titulą ir Romos palaikomas, veikė cistersų vienuolis Kris­
+    tijonas^73.
+  citata_rodoma: "Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų\nkraštas, būtent, Prūsų žemė, kuris Livonijos riterių ir kryžininkų\nprieaugliui tapo rimtas varžovas. Ten nuo 1216 metų, gavęs «Prūsų\nvyskupo» titulą ir Romos palaikomas, veikė cistersų vienuolis Kris­\ntijonas^73."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-32483
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

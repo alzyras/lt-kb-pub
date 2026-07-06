@@ -13,6 +13,18 @@ tags:
   - grupe
 amziai:
   - 'XVII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Liuterionys
 
@@ -25,9 +37,21 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
 <a id="claim-t-01413"></a>
 - t-001
   global_id: t-01413
-  teiginys: 'Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.'
+  teiginys: "Vilniuje liuterionys ir kalvinai turėjo po bažnyčią."
+  temporaliniai_duomenys: "įvykio data: 1611 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "685881-686183; hash=1577d7ea86040204dad67386814a7c48d254d7aaae5bc56cfabbb9193c3ef32b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kalvinai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Liuterionys: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kalvinai: mention_match, group, gap=15"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liuterionys\" parinktas kaip owner_note_path. Targetas \"Kalvinai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-01651
 - susijęs iš [[objektai/grupes/Kalvinai.md#claim-t-01343|Kalvinai]]: Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
 ## Reikšmingi paminėjimai
 
@@ -40,11 +64,29 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
     buvo minios apkultas, suimtas, o vėliau pasmerktas mirti ir nu-
     kankintas. Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-01651
+  citata_originali: |
+    Protestantai buvo silpnesni, todėl jie daugiau ir nu-
+    kentėdavo. Pavyzdžiui, 1611 m. per Dievo Kūno procesiją vie-
+    nas protestantas, Ostijos garbinimą išvadinęs stabmeldyste,
+    buvo minios apkultas, suimtas, o vėliau pasmerktas mirti ir nu-
+    kankintas. Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
+  citata_rodoma: "Vilniuje liuterionys ir kalvinai turėjo po bažnyčią."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-01413
 
 ## Ryšiai
 - Liuterionys gyveno [[objektai/vietos/Vilnius]]

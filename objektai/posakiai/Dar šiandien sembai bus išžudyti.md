@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - posakis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Dar šiandien sembai bus išžudyti
 
@@ -19,17 +31,53 @@ Dusburgietis teigia, kad šitaip iš dievo malonės tą dieną krito daugiau nei
 <a id="claim-t-59084"></a>
 - t-001
   global_id: t-59084
-  teiginys: 'Tą pačią dieną, kai prieš metus įvyko Pokarvių kautynės, žuvo daugiau nei trys tūkstančiai sembų ir kitų prūsų.'
+  teiginys: "Tą pačią dieną, kai prieš metus įvyko Pokarvių kautynės, žuvo daugiau nei trys tūkstančiai sembų ir kitų prūsų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "386788-387167; hash=ac406a18890097b836eabf37bb3c05365be67ac63dc2b6e3062d8c1e4fd79e0d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsų žemė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_place_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dar šiandien sembai bus išžudyti: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Prūsai: mention_match, place, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dar šiandien sembai bus išžudyti\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-167411
 
 <a id="claim-t-59085"></a>
 - t-002
   global_id: t-59085
-  teiginys: 'Vienas prūsas išpranašavo sembų sutriuškinimą ir Karaliaučiaus broliams pareiškė, kad sembai dar tą pačią dieną bus išžudyti.'
+  teiginys: "Vienas prūsas išpranašavo sembų sutriuškinimą ir Karaliaučiaus broliams pareiškė, kad sembai dar tą pačią dieną bus išžudyti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "387192-387758; hash=e515adf83a633b8248f2f3aafd22ac89c6adc42d4610dba84811f5606e66b97a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Sembai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dar šiandien sembai bus išžudyti: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Sembai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dar šiandien sembai bus išžudyti\" parinktas kaip owner_note_path. Targetas \"Sembai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-59716
 
+<a id="claim-t-59084"></a>
+- t-001
+  global_id: t-59084
+  teiginys: "Tą pačią dieną, kai prieš metus įvyko Pokarvių kautynės, žuvo daugiau nei trys tūkstančiai sembų ir kitų prūsų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "386788-387167; hash=ac406a18890097b836eabf37bb3c05365be67ac63dc2b6e3062d8c1e4fd79e0d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsų žemė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_place_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dar šiandien sembai bus išžudyti: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Prūsai: mention_match, place, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dar šiandien sembai bus išžudyti\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-167411
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -45,6 +93,7 @@ Dusburgietis teigia, kad šitaip iš dievo malonės tą dieną krito daugiau nei
     ir tarė: „Dar šiandien sembai bus išžudyti arba žemė pravers savo žiotis ir juos gyvus
     praris nelyginant Dataną ir Abironą“. Šitaip ir įvyko, kaip buvo sakęs.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -61,9 +110,44 @@ Dusburgietis teigia, kad šitaip iš dievo malonės tą dieną krito daugiau nei
     krito daugiau nei trys tūkstančiai sembų bei kitų prūsų, taigi tą pačią dieną, kurią prieš
     metus įvyko Pokarvių kautynės.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
     - t-001
+
+## Citatos
+
+- id: c-59716
+  citata_originali: |
+    Apie tai, kaip iš anksto buvo išpranašauta ši pergalė
+
+       Šį sembų  sutriuškinimą  išpranašavo  vienas  prūsas,  taip  tvirtai nusakydamas
+    Karaliaučiaus broliams ateitį, kad rodėsi, jog kažkokia dvasia jį skatinanti guldyti galvą
+    už šiuos jo žodžius: švento Vincento dieną sembai būsią išžudyti. Kai tą dieną maldininkų
+    kariuomenė pradėjo trauktis, jis, apkaltintas melu, dar atkakliau laikėsi savo nuomonės
+    ir tarė: „Dar šiandien sembai bus išžudyti arba žemė pravers savo žiotis ir juos gyvus
+    praris nelyginant Dataną ir Abironą“. Šitaip ir įvyko, kaip buvo sakęs.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-59085
+
+- id: c-167411
+  citata_originali: |
+    Prisiėjo tam reikalui pasikviesti  į talką visus Karaliaučiaus brolius bei jų
+    ginklanešius. Šie narsiai juos užpuolė ir po ilgos kovos, pareikalavusios vienoje ir kitoje
+    pusėje daugybės sužeistųjų ir nukautųjų, visus išžudė. Šitaip iš dievo malonės tą dieną
+    krito daugiau nei trys tūkstančiai sembų bei kitų prūsų, taigi tą pačią dieną, kurią prieš
+    metus įvyko Pokarvių kautynės.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184026
+    - t-59084

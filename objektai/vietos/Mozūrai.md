@@ -15,6 +15,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Mozūrai
 
@@ -27,17 +39,39 @@ Sūnui su Barbora atvykstant į Lenkiją, ji pasišalino su dukterimis į Mozūr
 <a id="claim-t-52959"></a>
 - t-001
   global_id: t-52959
-  teiginys: 'Mozūrų kunigaikštis Konradas įkurdino vyskupą Kristijoną Kulmo žemės pakraštyje.'
+  teiginys: "Mozūrų kunigaikštis Konradas įkurdino vyskupą Kristijoną Kulmo žemės pakraštyje."
+  semantiniai_rysiai: "Kulmas priklausė Mozūrai (0.86)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "102741-103138; hash=aa3b34118dd876ff8d523ab2d3d1fc65ba25a943409fc861b0c97c7ee17bf1a3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Mozūrai: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kulmas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Mozūrai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Kulmas priklausė Mozūrams."
   pagrindžia:
-    - c-002
+    - c-54204
 
 <a id="claim-t-52960"></a>
 - t-002
   global_id: t-52960
-  teiginys: 'Kryžeiviams išvykus, prūsai nusiaubdavo Kulmą, Mozūrus ir aplinkinius krikščioniškuosius kraštus.'
+  teiginys: "Kryžeiviams išvykus, prūsai nusiaubdavo Kulmą, Mozūrus ir aplinkinius krikščioniškuosius kraštus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "103139-103499; hash=b6e990095092d1adf2a21e060bd3bcca30fa6de08732eec0ca11a0186398c07e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Albertas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mozūrai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Albertas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mozūrai\" parinktas kaip owner_note_path. Targetas \"Albertas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
+  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
-    - c-001
-
+    - c-46627
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -52,8 +86,9 @@ Sūnui su Barbora atvykstant į Lenkiją, ji pasišalino su dukterimis į Mozūr
     ganizaciją krikščionių reikalams ginti, kokią vysk. Albertas bu-
     vo įkūręs Livonijoj.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -70,11 +105,47 @@ Sūnui su Barbora atvykstant į Lenkiją, ji pasišalino su dukterimis į Mozūr
     mės pakraštėj. Naujosios sodybos ir dovanotieji turtai turėjo
     būti veikimo bazė vyskupui.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-46627
+  citata_originali: |
+    Į pagalbą jam atvykdavo būriai
+    kryžeivių. Bet vos tik jie išvykdavo namo, prūsai, išlindę iš
+    miškų, nusiaubdavo visą Kulmą, Mozūrus ir visus aplinkinius
+    krikščioniškuosius kraštus. Tada vysk. Kristijonas kartu su
+    kunigaikščiu Konradu sumanė čia įkurti tokią pat pastovią or-
+    ganizaciją krikščionių reikalams ginti, kokią vysk. Albertas bu-
+    vo įkūręs Livonijoj.
+  citata_rodoma: "Bet vos tik jie išvykdavo namo, prūsai, išlindę iš\nmiškų, nusiaubdavo visą Kulmą, Mozūrus ir visus aplinkinius\nkrikščioniškuosius kraštus. Tada vysk."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-52960
+
+- id: c-54204
+  citata_originali: |
+    Praėjo net keliolika metų, o vysk. Kristijonui vis ne-
+    sisekė: pagonys ne tik naikino jo kuriamas krikščionių bendruo-
+    menes, bet dar teriojo ir Lenkijos sritis. Tada Mozūrų kunigaikš-
+    tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vys-
+    kupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) že-
+    mės pakraštėj. Naujosios sodybos ir dovanotieji turtai turėjo
+    būti veikimo bazė vyskupui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-52959
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Kulmas]]

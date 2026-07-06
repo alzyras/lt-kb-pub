@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Polona
 
@@ -19,9 +31,22 @@ Glebui Svetoslavovičiui buvo duotas Polonos miestas.
 <a id="claim-t-187294"></a>
 - t-001
   global_id: t-187294
-  teiginys: 'Lietuvos metraštyje rašoma, kad Glebui Svetoslavovičiui buvo duotas Polonos miestas.'
+  teiginys: "Lietuvos metraštyje rašoma, kad Glebui Svetoslavovičiui buvo duotas Polonos miestas."
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "170749-171269; hash=762d43612e03413a646d178d888a53490ea5852563ec50f12c0bebe069dd8ad9; match=word_normalized"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Polona: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=68"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polona\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
+    - c-170336
 - susijęs iš [[objektai/asmenys/Grigorijus iš Polonos.md#claim-t-186205|Grigorijus iš Polonos]]: Grigorijaus iš Polonos mokslu buvo grindžiamas griežtesnių regulų gyvenimas, kurį Galiče išpažino Vaišvilkas.
 - susijęs iš Lites ac res gestae inter Polonos et Ordinemque cruciferorum: „Lites ac res gestae inter Polonos et Ordinemque cruciferorum“ pirmasis tomas išleistas Poznanėje 1890 m.
 - susijęs iš [[objektai/zodynas/regula.md#claim-t-184637|regula]]: Vaišvilkas Galiče gyveno pagal griežtesnes regulas, remdamasis Grigorijaus iš Polonos mokslu.
@@ -43,8 +68,31 @@ Glebui Svetoslavovičiui buvo duotas Polonos miestas.
     tą 9 , Smolensko didžiąją kunigaikštystę —  kunigaikščiui
     Jomantui1 9  ir Boreikos sūnui Vasilijui ".
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-170336
+  citata_originali: |
+    Tad atvykite
+    visi pas mane, ir aš išspręsiu jūsų ginčus ir sugrąžinsiu
+    brolišką meilę į jūsų širdis.“ 7  Ir šitaip išviliojęs juos
+    iš miesto, nes broliai Svetoslavovičiai, juo patikėję, at­
+    jojo pas jį su dovanomis, kaip ir visi Smolensko kuni­
+    gaikščiai ir bajorai, kad nė vieno mieste neliko. O jis,
+    visus juos sučiupęs, ištrėmė į Lietuvą8 , tik vienam ku­
+    nigaikščiui Glebui Svetoslavovičiui davė Polonos mies­
+    tą 9 , Smolensko didžiąją kunigaikštystę —  kunigaikščiui
+    Jomantui1 9  ir Boreikos sūnui Vasilijui ".
+  citata_rodoma: "O jis, \nvisus juos sučiupęs, ištrėmė į Lietuvą8 , tik vienam ku­\nnigaikščiui Glebui Svetoslavovičiui davė Polonos mies­\ntą 9 ."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187294

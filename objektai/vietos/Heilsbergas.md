@@ -12,6 +12,18 @@ tags:
   - miestas
   - pilis
   - upė
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Heilsbergas
 
@@ -24,30 +36,84 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
 <a id="claim-t-179914"></a>
 - t-001
   global_id: t-179914
-  teiginys: 'Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259 ir Heilsbergo pilys260, o Galindos žemėje — vienas miestas261, o jų apsaugai ten palikta daug brolių ir ginklanešių.'
+  teiginys: "Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259 ir Heilsbergo pilys260, o Galindos žemėje — vienas miestas261, o jų apsaugai ten palikta daug brolių ir ginklanešių."
+  semantiniai_rysiai: "Heilsbergas priklausė Varmė (0.72)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "933738-933870; hash=b9f1797759f94ab604c3d7a19966e7a8592bc479268b1adfef3b88c2b17b48d7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Varmė: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Heilsbergas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Varmė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys Heilsbergo pilį lokalizuoja Varmės žemėje, bet formuluotė yra netiesioginė."
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
-    - c-001
+    - c-32070
 
 <a id="claim-t-184156"></a>
 - t-002
   global_id: t-184156
-  teiginys: 'Ordino magistras ir broliai užkariavo pagudėnų valdytą Heilsbergo pilį, jos žmones išžudė arba paėmė į nelaisvę.'
+  teiginys: "Ordino magistras ir broliai užkariavo pagudėnų valdytą Heilsbergo pilį, jos žmones išžudė arba paėmė į nelaisvę."
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Pagudėnai valdė Heilsbergas (0.91)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "470565-471030; hash=f85875ef3d58f51df3f03f46c5af8b719e8e993ef8de46eef2c8f33005ed3509; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Heilsbergas: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pagudėnai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Heilsbergas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Pasakymas, kad pilis buvo pagudėnų rankose, tiesiogiai rodo jų valdymą."
   pagrindžia:
-    - c-002
+    - c-167541
 
 <a id="claim-t-184960"></a>
 - t-003
   global_id: t-184960
-  teiginys: 'Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.'
+  teiginys: "Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "173191-173690; hash=3388e27b32be0e566137ee7e7f680e85c77989814c7289a5280dbab6ea1319b1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Heilsbergas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=66"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Heilsbergas\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-168321
 
 <a id="claim-t-184961"></a>
 - t-004
   global_id: t-184961
-  teiginys: 'Po pergalių iš kryžiuočių buvo atimtos Heilsbergo, Kroicburgo, Karaliaučiaus ir Bartenšteino pilys bei miestai.'
+  teiginys: "Po pergalių iš kryžiuočių buvo atimtos Heilsbergo, Kroicburgo, Karaliaučiaus ir Bartenšteino pilys bei miestai."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Heilsbergas priklausė Kryžiuočių ordinas (0.84)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "177462-177968; hash=24ff136506cd98d8ebc55c3c2abd3096137addfc53ea39a28c953712ab835917; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Heilsbergas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Jeigu Heilsbergas buvo atimtas iš kryžiuočių, tekstas remia ankstesnę priklausomybę kryžiuočiams."
   pagrindžia:
-    - c-004
+    - c-168322
 - susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89156|Pagudėnai]]: Magistras ir broliai užkariavo pagudėnų rankose buvusią Heilsbergo pilį, dalį žmonių paėmė į nelaisvę, o kitus išžudė.
 - susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89156|Pagudėnai]]: Magistras ir broliai užkariavo pagudėnų rankose buvusią Heilsbergo pilį, dalį žmonių paėmė į nelaisvę, o kitus išžudė.
 - susijęs iš [[objektai/ivykiai/Heilsbergo pilies apsiaustis ir įgulos pasitraukimas.md#claim-t-62799|Heilsbergo pilies apsiaustis ir įgulos pasitraukimas (pilis)]]: Heilsbergo pilies įgula, pritrūkusi maisto po prūsų apsiausties, paliko pilį ir slapta pasitraukė į Elbingą.
@@ -88,6 +154,7 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
     maršalu B. Hevelmannu ir pradėjo taikos derybas.
     c.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -110,6 +177,7 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
 
     172 (167).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -134,6 +202,7 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
     nusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­
     tas, čekų karaliaus Otokaro visai neseniai įkurtas.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -157,11 +226,90 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
     vo kunigaikščio vaikaitis, palydėjo Mindaugą į žygį
     Mazovijos žemėn.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
+## Citatos
+
+- id: c-32070
+  citata_originali: |
+    Nuo Marienburgo
+    mūrų pasitraukęs, Vytautas prie Heilsbergo susitiko su Livonijos
+    maršalu B. Hevelmannu ir pradėjo taikos derybas.
+    c.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179914
+
+- id: c-167541
+  citata_originali: |
+    Magistras ir broliai, sujaudinti šio liūdno įvykio, pasiryžo atkeršyti už nužudytuosius,
+    subūrė visas savo karines jėgas ir, įsibrovę į Pagudės žemę, skersai ir išilgai ją nusiaubė,
+    plėsdami ir degindami, žudydami vyrus, o moteris bei vaikus išsivarydami  į nelaisvę.
+    Be to, užkariavo Heilsbergo pilį, kuri tuo metu buvo pagudėnų rankose, vienus žmones
+    išsivarydami į nelaisvę, o kitus išžudydami, ir nuo to laiko Prūsijos žemėje įsiviešpatavo
+    taika.
+
+
+
+
+    172 (167).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184156
+
+- id: c-168321
+  citata_originali: |
+    105
+
+    ## Puslapis 104
+
+    bėgti; Saksonijos riteris Gebhardas, pavijęs to būrio
+    paskutinę eilę, kalaviju nukirto vienam raiteliui gal­
+    vą, tačiau lavonas be galvos bėgo kaip bėgęs nė ne­
+    susvyravęs daugelį varstų, nesitraukdamas iš bėgan­
+    čiųjų rikiuotės ir nenukrisdamas nuo žirgo. Sudeginus
+    po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė
+    buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją. Tenai,
+    nusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­
+    tas, čekų karaliaus Otokaro visai neseniai įkurtas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184960
+
+- id: c-168322
+  citata_originali: |
+    Pats va­
+    das, praradęs kariuomenę, pateko į priešų rankas. Po
+    šių pergalių iš kryžiuočių buvo atimti Heilsbergo,
+    Kroicburgo, Karaliaučiaus, Bartenšteino pilys ir miestai.
+    Neliko saugi nuo karo tuo metu nė Livonija: ją nuo­
+    latos siaubė Mindaugo karvedžiai, ten vyko kovos prie
+    Lielvardės pilies Dauguvos pakrantėse, tačiau kokia
+    norėdamas turėti laisvesnes
+    rankas, atnaujino santarvę su rusais, ir tuo būdu tapo
+    užmegzta rusų ir lietuvių
+    vo kunigaikščio vaikaitis, palydėjo Mindaugą į žygį
+    Mazovijos žemėn.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184961
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/grupes/Pagudėnai]]

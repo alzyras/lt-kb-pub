@@ -14,6 +14,18 @@ tags:
   - tauta
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # „Varpo“ leidimo pradžia
 
@@ -42,10 +54,22 @@ Nenurodyta
 <a id="claim-t-23492"></a>
 - t-001
   global_id: t-23492
-  teiginys: '1889 m. pradėtas leisti žurnalas „Varpas“ plėtojo „Aušros“ idėjas.'
+  teiginys: "1889 m. pradėtas leisti žurnalas „Varpas“ plėtojo „Aušros“ idėjas."
+  temporaliniai_duomenys: "įvykio data: 1889 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "226535-227001; hash=6e98484e89934ae16d9570e6f5c72587403dfbe67b76d974974379089cff8690; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> V. Kudirka: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "„Varpo“ leidimo pradžia: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "V. Kudirka: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„Varpo“ leidimo pradžia\" parinktas kaip owner_note_path. Targetas \"V. Kudirka\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-25115
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -61,8 +85,30 @@ Nenurodyta
     rašė poeziją, sukūrė eilėraštį „Tautiška giesmė“ ir jam melodiją – šis kūri-
     nys taps Lietuvos himnu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-25115
+  citata_originali: |
+    „Aušros“ idėjas toliau plėto-
+    jo 1889 m. pradėtas leisti žurnalas
+    „Varpas“, įsteigtas Varšuvos lie-
+    tuvių studentų draugijos „Lietu-
+    va“. Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka
+    (1858–1899), kuris vos netapo lenku, ir tik „Aušros“ numeris, patekęs jam į
+    rankas, veikiai ištaisė galvoseną ir paskatino „pasijusti lietuviu“. V. Kudirka
+    rašė poeziją, sukūrė eilėraštį „Tautiška giesmė“ ir jam melodiją – šis kūri-
+    nys taps Lietuvos himnu.
+  citata_rodoma: "Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka \n(1858–1899), kuris vos netapo lenku, ir tik „Aušros“ numeris, patekęs jam į \nrankas, veikiai ištaisė galvoseną ir paskatino „pasijusti lietuviu“. V. Kudirka \nrašė poeziją, sukūrė eilėraštį „Tautiška giesmė“ ir jam melodiją – šis kūri-\nnys taps Lietuvos himnu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-23492

@@ -20,6 +20,18 @@ tags:
   - upė
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # komtūras
 
@@ -30,25 +42,65 @@ amziai:
 ## Teiginiai
 
 <a id="claim-t-182848"></a>
-- t-001
+- t-033
   global_id: t-182848
-  teiginys: 'Vytauto krikštatėvis buvo Ragainės komtūras, turėjęs tokį pat Vigando vardą.'
+  teiginys: "Vytauto krikštatėvis buvo Ragainės komtūras, turėjęs tokį pat Vigando vardą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "88783-89110; hash=4a12be65104c4ff96fb26e6a4100138721ffc7faa2326372657a5c1c3def7bc6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "komtūras: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"komtūras\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-14694
 
 <a id="claim-t-183715"></a>
-- t-002
+- t-034
   global_id: t-183715
-  teiginys: '1348 m. didysis komtūras Vinrichas iš Kniprodės dalyvavo Strėvos mūšyje ir narsiai kovėsi.'
+  teiginys: "1348 m. didysis komtūras Vinrichas iš Kniprodės dalyvavo Strėvos mūšyje ir narsiai kovėsi."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1348 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie komtūrą ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "143225-143398; hash=cb59477af34563daea7062cf22a8c055cf86b35b45ec56288168e6155ffcea21; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Strėva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "komtūras: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Strėva: mention_match, place, gap=41"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"komtūras\" parinktas kaip owner_note_path. Targetas \"Strėva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-167103
 
 <a id="claim-t-183834"></a>
-- t-003
+- t-035
   global_id: t-183834
-  teiginys: 'Ordino maršalas Gotfridas Lindenas su komtūrais sudegino Semeliškes Trakų paviete ir veržėsi iki Vilniaus tvirtovių.'
+  teiginys: "Ordino maršalas Gotfridas Lindenas su komtūrais sudegino Semeliškes Trakų paviete ir veržėsi iki Vilniaus tvirtovių."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Gotfridas Lindenas puolė Vilnius (0.83)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "90537-91126; hash=facd02716fa375a21dea19d7d77201448e02c180b9e504d566dc348b05d14a15; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Vilnius: 0.83"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gotfridas Lindenas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Gotfridas Lindenas veržėsi iki Vilniaus tvirtovių, tai karinį puolimo veiksmą sieja su Vilniumi."
   pagrindžia:
-    - c-003
+    - c-167219
 - susijęs iš [[objektai/asmenys/Ditrichas iš Altenburgo.md#claim-t-59949|Ditrichas iš Altenburgo]]: Ditrichas iš Altenburgo, Baigos komtūras, gavęs didžiojo magistro leidimą pastatė Lunenburgo pilį Bartos žemėje.
 - susijęs iš [[objektai/asmenys/Hermanas (Elbingo komtūras ir didysis Ordino špitolininkas).md#claim-t-60321|Hermanas (Elbingo komtūras ir didysis Ordino špitolininkas)]]: 1327 m. Hermanas, Elbingo komtūras ir didysis Ordino špitolininkas, netoli Zalfeldo pastatė Morungeno miestą.
 - susijęs iš [[objektai/asmenys/Hermanas iš Šenenbergo.md#claim-t-60327|Hermanas iš Šenenbergo (karvedys, XIII a.)]]: Hermanas iš Šenenbergo buvo paskirtas Kulmo žemės krašto komtūru ir vadovavo kovoms su į Kulmo žemę įsiveržusiais sūduviais.
@@ -280,6 +332,7 @@ amziai:
     buvo duotas Vigando vardas. Tuo pat vardu buvo ir jo krikš­
     tatėvis, Ragainės komtūras.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -294,6 +347,7 @@ amziai:
     „[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis
     Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -315,8 +369,57 @@ amziai:
     plėšti aplinkinių žemių23. Vis dėlto Algirdo valdymo pa­
     baigoje Vilnius neišvengė seniai jam grėsusio pavojaus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-14694
+  citata_originali: |
+    Grįždamas iš šito žygio, Kryžiuočių Ordinas 1383 metų
+    spalių mėn. 21 d. Tapiau miestelyje Vytautą be jokių iškilmių
+    pakrikštijo. Tai įvyko tuo pačiu laiku, kai Trakuose palikusi
+    jų įgula be vilties kovojo su gausiu priešu. Krikšte Vytautui
+    buvo duotas Vigando vardas. Tuo pat vardu buvo ir jo krikš­
+    tatėvis, Ragainės komtūras.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182848
+
+- id: c-167103
+  citata_originali: |
+    Strėvos mūšį.
+    „[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis
+    Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183715
+
+- id: c-167219
+  citata_originali: |
+    Tąkart Vinrichas, vasario pradžioje kirtęs Lie­
+    tuvos sieną su didele govėda baronų ir riterių iš Prancūzijos
+    bei Vokietijos, sutelktų stoti po kryžiaus ženklu, turėjo sku­
+    binai trauktis atgal į Prūsiją dėl staigaus atodrėkio ir upių
+    polaidžio. Ordino maršalas Gotfridas Lindenas, įsibrovęs su
+    daugybe komtūrų ir savanorių, sudegino Trakų paviete Se­
+    meliškes ir pašėlusiai veržėsi iki Vilniaus tvirtovių, tik ne­
+    pavykus staiga užimti gerai ginamo miesto, grįžo atgalios
+    plėšti aplinkinių žemių23. Vis dėlto Algirdo valdymo pa­
+    baigoje Vilnius neišvengė seniai jam grėsusio pavojaus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183834

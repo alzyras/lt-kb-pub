@@ -18,6 +18,18 @@ tags:
 amziai:
   - 'XI'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.)
 
@@ -44,19 +56,45 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-05298"></a>
-- t-001
+- t-003
   global_id: t-05298
-  teiginys: '1044 m. Jaroslavas vėl žygiavo į Lietuvą ir pavasarį įkūrė Naugarduką.'
+  teiginys: "1044 m. Jaroslavas vėl žygiavo į Lietuvą ir pavasarį įkūrė Naugarduką."
+  semantiniai_rysiai: "Jaroslavas surengė žygį į Lietuva (0.93); Jaroslavas pastatė Naugardukas (0.91)"
+  temporaliniai_duomenys: "įkūrimo data: 1044 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "335042-335247; hash=0fd2854d6ffc246e88c7827f7c38c31b92c69ace5e71cdf8f818593b760775f1; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  ryšio_patikimumas: "surenge_zygi_i -> Lietuva: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jaroslavas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Jaroslavo žygį į Lietuvą."
   pagrindžia:
-    - c-001
+    - c-31333
 
 <a id="claim-t-05299"></a>
-- t-002
+- t-004
   global_id: t-05299
-  teiginys: 'XI a. rusų metraščiai mini tik du lietuvių ir Kijevo rusų karinius konfliktus, jei 1040 ir 1044 m. Jaroslavo žygiai nebuvo viena ekspedicija.'
+  teiginys: "XI a. rusų metraščiai mini tik du lietuvių ir Kijevo rusų karinius konfliktus, jei 1040 ir 1044 m. Jaroslavo žygiai nebuvo viena ekspedicija."
+  semantiniai_rysiai: "Lietuviai kariavo prieš Kijevo Rusia (0.86)"
+  temporaliniai_duomenys: "įvykio data: 988 m; įvykio data: 1044 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia sutvarkyti archajišką ir gremėzdišką formuluotę, išlaikant citatos sąlygą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "339455-340058; hash=77af96e74bbc4f2bcdd071324657a041bedfb0eb8540c3948593614fdd394da2; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  ryšio_patikimumas: "kariavo_pries -> Kijevo Rusia: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kijevo Rusia: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Tekste tiesiogiai minimi lietuvių ir Kijevo rusų kariniai konfliktai."
   pagrindžia:
-    - c-002
-
+    - c-33403
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -67,6 +105,7 @@ Nenurodyta
     dveji metai iš eilės (1131-32) Kijevo Mstislavas daręs žygius į
     Lietuvą («na Litvu»).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -88,8 +127,44 @@ Nenurodyta
     Kijevo rusų karinius konfliktus, jeigu 1040 ir 1044 m. minimi
     Jaroslavo žygiai nereiškia tik vienos karinės ekspedicijos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-31333
+  citata_originali: |
+    1044 m. Jaroslavas vėl ėjęs « na Litvu » ir pavasarį įkūręs
+    Naugarduką. Lietuvos vardas vėl minimas po 87 metų, kai esą
+    dveji metai iš eilės (1131-32) Kijevo Mstislavas daręs žygius į
+    Lietuvą («na Litvu»).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05298
+
+- id: c-33403
+  citata_originali: |
+    Artimiausieji rytų kaimynai dregovičiai (Beržūnės
+    baseine) ir krivičiai (Dniepro ir Dauguvos aukštupiuose), nors
+    Kijevo Rusia 988 m. priėmė Bizantijos krikštą, gyveno dar gana
+    žemame kultūros laipsnyje. Tuo tarpu pagonys lietuviai, kaip
+    patvirtina rašytieji šaltiniai (XIII-XIV amž.) ir nepaliaujamų karų
+    eiga su Vakarų Europos civilizacijos atstovais — ordino riteriais,
+    buvo pasiekę, palyginti, aukštą kultūros laipsnį.
+    XI amž. rusų metraščiai vos du kartu tepaminėjo lietuvių ir
+    Kijevo rusų karinius konfliktus, jeigu 1040 ir 1044 m. minimi
+    Jaroslavo žygiai nereiškia tik vienos karinės ekspedicijos.
+  citata_rodoma: "XI amž. rusų metraščiai vos du kartu tepaminėjo lietuvių ir\nKijevo rusų karinius konfliktus, jeigu 1040 ir 1044 m. minimi\nJaroslavo žygiai nereiškia tik vienos karinės ekspedicijos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05299

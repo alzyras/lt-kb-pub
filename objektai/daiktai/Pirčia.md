@@ -5,6 +5,18 @@ saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Pirčia
 
@@ -37,10 +49,12 @@ Nenurodyta
 <a id="claim-t-08314"></a>
 - t-001
   global_id: t-08314
-  teiginys: 'Pirčioje buvo krosnis, plautai ir suolai, ant kurių pėrėsi su vantomis.'
+  teiginys: "Pirčioje buvo krosnis, plautai ir suolai, ant kurių pėrėsi su vantomis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  saltinio_vieta: "62461-62962; hash=8695001b6fe8f8068d081896baa4445f39cefdabedd38727e06f1cb78738d75c; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
-
+    - c-10269
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -53,8 +67,26 @@ Nenurodyta
         svetį į pirtį nuvesti ir išperdinti, nesgi pirtį žmogui susikeliavusiam už didžiai naudingą ir
         reikalingą daiktą turėjo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-10269
+  citata_originali: |
+    Ašmasis trobesys buvo vadinamas pirčia; pačioj pirty buvo krosnis, pusėj sienų buvo plautai,
+        nuo žodžio plauti, suolai, ant kurių voliodamies su lapuotomis beržinėmis vantomis pėrės,
+        žemiau pasieniais taip pat buvo suolai, ant kurių mazgojos ir trinkos; į kurias pirtis vedė ne vien
+        svečius ir pakeleivingus, bet siuntinius svetimų tautų: kaipogi senovėj visų didžiausia goda buvo
+        svetį į pirtį nuvesti ir išperdinti, nesgi pirtį žmogui susikeliavusiam už didžiai naudingą ir
+        reikalingą daiktą turėjo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-08314

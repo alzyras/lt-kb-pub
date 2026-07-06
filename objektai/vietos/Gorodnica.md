@@ -15,6 +15,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Gorodnica
 
@@ -27,17 +39,38 @@ Tizenhauzas buvo užsimojęs padaryti Gardiną didžiuliu pramonės centru ir bu
 <a id="claim-t-67978"></a>
 - t-001
   global_id: t-67978
-  teiginys: 'Gorodnica buvo ypač garsus Tizenhauzo Gardine pastatytas pramonės priemiestis.'
+  teiginys: "Gorodnica buvo ypač garsus Tizenhauzo Gardine pastatytas pramonės priemiestis."
+  semantiniai_rysiai: "Gorodnica priklausė Gardinas (0.83)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "869971-870408; hash=0c1c47bf197e994227f343f4372445dca959ff43fd7355f010b247c8fcfd8efa; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Gardinas: 0.83"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gorodnica: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Gardinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Gorodnica apibūdinta kaip Gardine pastatytas priemiestis."
   pagrindžia:
-    - c-001
+    - c-46499
 
 <a id="claim-t-67979"></a>
 - t-002
   global_id: t-67979
-  teiginys: 'Gorodnica buvo ypač garsus vienas iš dviejų Tizenhauzo Gardine pastatytų pramonės priemiesčių.'
+  teiginys: "Gorodnica buvo ypač garsus vienas iš dviejų Tizenhauzo Gardine pastatytų pramonės priemiesčių."
+  semantiniai_rysiai: "Gorodnica priklausė Gardinas (0.83)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "869971-870408; hash=0c1c47bf197e994227f343f4372445dca959ff43fd7355f010b247c8fcfd8efa; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Gardinas: 0.83"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gorodnica: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Gardinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Gorodnica įvardyta kaip vienas Gardine pastatytų priemiesčių."
   pagrindžia:
-    - c-001
-
+    - c-46499
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -60,12 +93,42 @@ Tizenhauzas buvo užsimojęs padaryti Gardiną didžiuliu pramonės centru ir bu
     Dirbtuvėms specialistų buvo pakviesta iš užsienio, o ateičiai
     jie buvo ruošiami iš valstiečių tarpo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+
+## Citatos
+
+- id: c-46499
+  citata_originali: |
+    Taip antai,
+    Šiauliuose buvo įsteigta
+    drobės dirbtuvė, pora
+    dirbtuvių buvo įsteigta
+    Brastoje ir jos apylin-
+    kėje; tačiau daugumas
+    dirbtuvių buvo sukon-
+    centruota Gardine. Mat,
+    Tizenhauzas buvo už-
+    simojęs padaryti Gar-
+    diną didžiuliu pramonės
+    centru ir buvo čia pa-
+    statęs net 2 pramonės
+    priemiesčius, iš kurių ypač buvo garsi Gorodnica.
+    Dirbtuvėms specialistų buvo pakviesta iš užsienio, o ateičiai
+    jie buvo ruošiami iš valstiečių tarpo.
+  citata_rodoma: "Mat,\nTizenhauzas buvo už-\nsimojęs padaryti Gar-\ndiną didžiuliu pramonės\ncentru ir buvo čia pa-\nstatęs net 2 pramonės\npriemiesčius, iš kurių ypač buvo garsi Gorodnica.\nDirbtuvėms specialistų buvo pakviesta iš užsienio, o ateičiai\njie buvo ruošiami iš valstiečių tarpo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67978
+    - t-67979
 
 ## Ryšiai
 - Gorodnica priklausė [[objektai/vietos/Gardinas]]

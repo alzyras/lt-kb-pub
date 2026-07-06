@@ -1,0 +1,80 @@
+---
+tipas: autorius
+pavadinimas: 'Kasparas Neseckis'
+saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
+sukurta: ''
+atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Kasparas Neseckis
+
+## Santrauka
+
+Narbuto teksto išnašoje cituojamas Kasparo Neseckio veikalas, įvardytas forma „Niesecki Kasper“.
+
+## Teiginiai
+
+<a id="claim-t-191611"></a>
+- t-001
+  global_id: t-191611
+  teiginys: "Narbuto teksto išnašoje cituojamas Kasparo Neseckio veikalas, įvardytas forma „Niesecki Kasper“."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "945951-946118; hash=2deb75dd17fc80a36a335f9b27313c66b4e9c2601baa6d6aa4b4f73b797bcf20; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-174493
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Narbuto teksto išnašoje cituojamas Kasparo Neseckio veikalas, įvardytas forma „Niesecki Kasper“.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Išnaša, kuria autorius papildė tekstą, rengdamas antrąjį LTI lei­
+    dimą (PEĮ. L. 273;'291). Cituojamas Kasparo Neseckio veikalas:
+    499
+
+    ## Puslapis 509
+
+    Niesecki Kasper.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Citatos
+
+- id: c-174493
+  citata_originali: |
+    Išnaša, kuria autorius papildė tekstą, rengdamas antrąjį LTI lei­
+    dimą (PEĮ. L. 273;'291). Cituojamas Kasparo Neseckio veikalas:
+    499
+
+    ## Puslapis 509
+
+    Niesecki Kasper.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-191611

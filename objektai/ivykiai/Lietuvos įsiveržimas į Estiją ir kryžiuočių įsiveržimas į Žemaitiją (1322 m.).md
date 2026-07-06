@@ -14,6 +14,18 @@ tags:
   - ivykis
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvos įsiveržimas į Estiją ir kryžiuočių įsiveržimas į Žemaitiją (1322 m.)
 
@@ -42,10 +54,22 @@ Nenurodyta
 <a id="claim-t-28845"></a>
 - t-001
   global_id: t-28845
-  teiginys: '1322 m. lietuviai įsiveržė į Estiją, o kryžiuočiai per lietuvių puolimą Livonijoje įsiveržė į Žemaitijos gilumą.'
+  teiginys: "1322 m. lietuviai įsiveržė į Estiją, o kryžiuočiai per lietuvių puolimą Livonijoje įsiveržė į Žemaitijos gilumą."
+  temporaliniai_duomenys: "įvykio data: 1322 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys apie ankstesnius puolimus, citata palaiko tikslesnį teiginį apie 1322 m. įvykį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "631050-631273; hash=b9bf1f764fadd7840e6e9220e7d1b0ffb002bce0ddf14599a29be1c2efc0ac3d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos įsiveržimas į Estiją ir kryžiuočių įsiveržimas į Žemaitiją (1322 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos įsiveržimas į Estiją ir kryžiuočių įsiveržimas į Žemaitiją (1322 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-28749
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -56,8 +80,24 @@ Nenurodyta
     tuviams puolant Livoniją, kryžiuočiai įsiveržė Žemaičių gilumon ir
     padarė daug nuostolių^6.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-28749
+  citata_originali: |
+    Lietuviams užteko jėgos ne tik gintis, bet ir priešą puldinėti
+    Prūsuose ir Livonijoje (1318-19). 1322 m. jie įsiveržė Estijon. Lie­
+    tuviams puolant Livoniją, kryžiuočiai įsiveržė Žemaičių gilumon ir
+    padarė daug nuostolių^6.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-28845

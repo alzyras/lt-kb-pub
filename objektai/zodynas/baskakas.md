@@ -15,6 +15,18 @@ tags: []
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # baskakas
 
@@ -42,40 +54,103 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
 ## Teiginiai
 
 <a id="claim-t-78877"></a>
-- t-001
+- t-006
   global_id: t-78877
-  teiginys: 'Podolėje veikę atamanai nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams.'
+  teiginys: "Podolėje veikę atamanai nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "178531-178904; hash=7096c77d69e66a293c433db5f9daafe0d41dd0ae0703e57a4006db972f02f6c5; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  ryšio_patikimumas: "susije_su -> Podolė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "baskakas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Podolė: mention_match, place, gap=78"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"baskakas\" parinktas kaip owner_note_path. Targetas \"Podolė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-75996
 
 <a id="claim-t-78878"></a>
-- t-002
+- t-003
   global_id: t-78878
-  teiginys: '1331 m. šiame šaltinyje baskakas minimas kaip totorių pareigūnas šalia Kijevo kunigaikščio, Lietuvos vietininko.'
+  teiginys: "1331 m. šiame šaltinyje baskakas minimas kaip totorių pareigūnas šalia Kijevo kunigaikščio, Lietuvos vietininko."
+  temporaliniai_duomenys: "įvykio data: 1331 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "85652-86298; hash=f1d8c9064322c9783cac9d142293468e64469774ab005af515e6c9eba3cfad2a; match=whitespace_regex"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  ryšio_patikimumas: "susije_su -> Kijevas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "baskakas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kijevas: mention_match, place, gap=47"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"baskakas\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-44151
 
 <a id="claim-t-78879"></a>
-- t-003
+- t-005
   global_id: t-78879
-  teiginys: '1331 m. šalia Kijevo kunigaikščio, Lietuvos vietininko, minimas ir totorių baskakas.'
+  teiginys: "1331 m. šalia Kijevo kunigaikščio, Lietuvos vietininko, minimas ir totorių baskakas."
+  temporaliniai_duomenys: "įvykio data: 1331 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai sieja totorių baskaką su 1331 m. Kijevo kontekstu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "85652-86298; hash=f1d8c9064322c9783cac9d142293468e64469774ab005af515e6c9eba3cfad2a; match=whitespace_regex"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  ryšio_patikimumas: "susije_su -> Kijevas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "baskakas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kijevas: mention_match, place, gap=61"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"baskakas\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-002
+    - c-44151
 
 <a id="claim-t-78880"></a>
 - t-004
   global_id: t-78880
-  teiginys: 'Podolėje atamanai duoklę atiduodavo atvykstantiems Ordos baskakams.'
+  teiginys: "Podolėje atamanai duoklę atiduodavo atvykstantiems Ordos baskakams."
+  semantiniai_rysiai: "Karijotaičiai gynė Podolė (0.88); Karijotaičiai pastatė Kamenecas (0.82)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "180611-180851; hash=da4a250c8cb7dbd53e39c6d0ccbf1a19b2c9ee6637ad5b30f6989783c319a86a; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  ryšio_patikimumas: "gyne -> Podolė: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Karijotaičiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Podolė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje tiesiogiai pasakyta, kad Karijotaičiai ėmė ginti Podolės žemę."
   pagrindžia:
-    - c-001
-    - c-003
+    - c-44150
+    - c-75996
 
 <a id="claim-t-187518"></a>
 - t-005
   global_id: t-187518
-  teiginys: 'Lietuvos metraštis Užvolgio valdovą Balaklajų vadina chanu ir nurodo, kad jis reikalavo iš Skirmanto duoklės bei baskakų laikymo miestuose.'
+  teiginys: "Lietuvos metraštis Užvolgio valdovą Balaklajų vadina chanu ir nurodo, kad jis reikalavo iš Skirmanto duoklės bei baskakų laikymo miestuose."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "85652-86298; hash=f1d8c9064322c9783cac9d142293468e64469774ab005af515e6c9eba3cfad2a; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kukovaitis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "baskakas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kukovaitis: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"baskakas\" parinktas kaip owner_note_path. Targetas \"Kukovaitis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-004
+    - c-170469
 - susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187444|Aukso orda]]: Nuo 1328 m. atsinaujinus Lietuvos puolimams, Lietuva, tikėtina, užmezgė kompromisinius santykius su Aukso orda.
 ## Reikšmingi paminėjimai
 
@@ -93,6 +168,7 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
     Podolėje pastatė Smotričo,
     Bakotos, Kameneco pilis, už-
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -115,6 +191,7 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
     ordos valdžios buvo reikšmingas Lietuvai,
     jos tarptautinei situacijai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -137,8 +214,9 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
     Algirdas „Mėlynuosius Vandenis ir Baltąją
     pakrantę nukariavo“.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -162,8 +240,96 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
     noro nusileisti ir tiems jo pasiuntiniams liepė nupjaus­
     tyti nosis, lūpas, ausis ir paleisti pas chaną atgalios.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
+## Citatos
+
+- id: c-44150
+  citata_originali: |
+    į vakarus nuo minėtos mūšio
+    vietos), kurioje nebuvo nė vie-
+    nos pilies. Jie susidraugavę su
+    vietiniais atamanais, ėmė ginti
+    Podolės žemę, neduoti duok-
+
+    lės jų baskakams. Karijotaičiai
+    Podolėje pastatė Smotričo,
+    Bakotos, Kameneco pilis, už-
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78880
+
+- id: c-44151
+  citata_originali: |
+    Kryžiuočių ordinui, remiamam kryži-
+    ninkų, nuo 1328 m. atnaujinus Lietuvos
+    puolimus, Lietuva, atrodo, bus užmezgusi
+    kompromisinius santykius su Aukso orda,
+    kurios įtakoje, matyt, liko pietinė Kijevo
+    žemės dalis. 1331 m. šalia Kijevo kunigaikš-
+    čio, Lietuvos vietininko, minimas ir totorių
+    baskakas.
+
+    Kijevo atėmimas iš tiesioginės Aukso
+    ordos valdžios buvo reikšmingas Lietuvai,
+    jos tarptautinei situacijai.
+  citata_rodoma: "1331 m. šalia Kijevo kunigaikš-\nčio, Lietuvos vietininko, minimas ir totorių\nbaskakas.\n\nKijevo atėmimas iš tiesioginės Aukso\nordos valdžios buvo reikšmingas Lietuvai,\njos tarptautinei situacijai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78879
+    - t-78878
+
+- id: c-75996
+  citata_originali: |
+    Podolės žemės tėvonys bei paveldėtojai“.
+    Podolėje veikė jų paskirti atamanai, kurie
+    nuo Podolės žemės duodavo duoklę at-
+    vykstantiems Ordos baskakams.
+
+    Mėlynųjų Vandenų įvykių pagrindi-
+    niai šaltiniai: žinios xv a. pirmosios pusės
+    rusų Tverės sąvade - Rogožos metraštyje
+    prieš 6871 (1363) m. sakoma, kad rudenį
+    Algirdas „Mėlynuosius Vandenis ir Baltąją
+    pakrantę nukariavo“.
+  citata_rodoma: "Podolės žemės tėvonys bei paveldėtojai“.\nPodolėje veikė jų paskirti atamanai, kurie\nnuo Podolės žemės duodavo duoklę at-\nvykstantiems Ordos baskakams.\n\nMėlynųjų Vandenų įvykių pagrindi-\nniai šaltiniai: žinios xv a."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78877
+    - t-78880
+
+- id: c-170469
+  citata_originali: |
+    Parvykęs
+    pas savo tėvą, nebeilgai prie jo tegyveno, ir tėvas,
+    Lietuvos ir 2emaičių didysis kunigaikštis 2ivinbudas,
+    pasimirė, o jo sūnus Kukovaitis sėdo Lietuvos ir Že­
+    maičių Didžiosios Kunigaikštystės sostan.
+    Tuo metu Užvolgio chanu buvo chanas, vardu Ba-
+    laklajus °, ir jis atsiuntė savo pasiuntinius pas didįjį
+    kunigaikštį Skirmantą, kad duotų jam duoklę ir laiky­
+    tų jo baskakus tuose miestuose, kaip kad iš tų miestų
+    buvo duodama duoklė, valdant jo pirmtakams, rusų
+    kunigaikščiams. Didysis kunigaikštis Skirmantas nepa­
+    noro nusileisti ir tiems jo pasiuntiniams liepė nupjaus­
+    tyti nosis, lūpas, ausis ir paleisti pas chaną atgalios.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187518

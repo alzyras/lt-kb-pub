@@ -16,6 +16,18 @@ amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Aleksas Jefremovičius
 
@@ -28,9 +40,20 @@ periodo_grupes:
 <a id="claim-t-87617"></a>
 - t-001
   global_id: t-87617
-  teiginys: '1432 metais Aleksas Jefremovičius su Joachimu ir Pskovo bojarinais atvyko pas Švitrigailą sudaryti sutarties.'
+  teiginys: "1432 metais Aleksas Jefremovičius su Joachimu ir Pskovo bojarinais atvyko pas Švitrigailą sudaryti sutarties."
+  semantiniai_rysiai: "Aleksas Jefremovičius sudarė sutartį su Švitrigaila (0.90); Joachimas (Pskovo vietininkas) sudarė sutartį su Švitrigaila (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "433611-433912; hash=8dfced8d3e4fbdb5eb61f7d1341adc2d1db560bc43ffb4f36e622c7331891b2d; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "sudare_sutarti_su -> Švitrigaila: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Joachimas (Pskovo vietininkas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata nurodo, kad Joachimas su kitais atvyko pas Švitrigailą ir sudarė sutartį."
   pagrindžia:
-    - c-001
+    - c-83596
 - susijęs iš [[objektai/grupes/Pskovo respublika.md#claim-t-113198|Pskovo respublika]]: Pskovo metraščio duomenimis, 1432 m. Pskovo vietininkai Joachimas ir Aleksas Jefremovičius sudarė sutartį su Švitrigaila.
 - susijęs iš Pskovas: 1432 m. Pskovo vietininkai Joachimas ir Aleksas Jefremovičius su Pskovo bajorais sudarė sutartį su Švitrigaila.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176259|vietininkas]]: Pskovo metraštis pasakoja, kad 1432 m. vietininkai Joachimas ir Aleksas Jefremovičius su Pskovo bojarinais sudarė sutartį su Švitrigaila.
@@ -51,11 +74,33 @@ periodo_grupes:
     novinės sienos, kaip buvę Vytauto
     laikais.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83596
+  citata_originali: |
+    Palenkdamas rusų bojari-
+    10
+    Pskovo metraštis (K a r a m z i n, V,
+    1. 146 - prieraš.) pasakoja, kad 1432
+    metais vietininkai Joachimas ir Alek­
+    sas Jefremovičius su Pskovo bojari­
+    nais atvyko pas Švitrigailą ir sudarė
+    su juo sutartį, kurioje patvirtinta se­
+    novinės sienos, kaip buvę Vytauto
+    laikais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87617
 
 ## Ryšiai
 - Aleksas Jefremovičius sudarė sutartį su [[objektai/asmenys/Švitrigaila]]

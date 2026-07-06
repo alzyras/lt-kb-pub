@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Goštautai
 
@@ -19,9 +31,19 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
 <a id="claim-t-19697"></a>
 - t-001
   global_id: t-19697
-  teiginys: 'XVI a. tarp įtakingiausių giminių lietuviškos kilmės buvo Goštautai ir Radvilos.'
+  teiginys: "XVI a. tarp įtakingiausių giminių lietuviškos kilmės buvo Goštautai ir Radvilos."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "144333-144726; hash=cc7e9907045ddcf76cec6fa419ae609342a6fb98ea49aa476fdf42ed7c6472b3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Radvilos: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Goštautai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Radvilos: mention_match, group, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Goštautai\" parinktas kaip owner_note_path. Targetas \"Radvilos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-22403
 - susijęs iš [[objektai/asmenys/Albrechtas Radvila.md#claim-t-87613|Albrechtas Radvila]]: Apie 1601 m. Albrechto Radvilos laikais Goštautų ir Filipovo namai buvo sujungti ir gavo bendrą Kardinalijos pavadinimą.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103037|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveldėjo mūrinį Goštautų namą priešais Šv. Jono bažnyčią.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103040|Jurgis Radvila (vyskupas, XVI a.)]]: Kardinolas Jurgis Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią ir kurį laiką pats ten gyveno.
@@ -60,8 +82,27 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
     Radvilos, o visos kitos – Chodkevičiai, Sapiegos, Valavičiai, Tiškevičiai,
     Oginskiai ir kt.  – rusėnai, tačiau laikantys save LDK piliečiais.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-22403
+  citata_originali: |
+    LDK politinės tautos prielaidas kūrė LDK karinės
+    pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab. Salaspilis), Chotyne,
+    kuriose lietuviai kovojo petys į petį su rusėnais.
+    Iš įtakingiausių XVI a. giminių lietuviškos kilmės yra tik Goštautai ir
+    Radvilos, o visos kitos – Chodkevičiai, Sapiegos, Valavičiai, Tiškevičiai,
+    Oginskiai ir kt.  – rusėnai, tačiau laikantys save LDK piliečiais.
+  citata_rodoma: "Radvilos, o visos kitos – Chodkevičiai, Sapiegos, Valavičiai, Tiškevičiai,"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-19697

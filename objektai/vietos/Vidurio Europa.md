@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Vidurio Europa'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
   - '1618 m.'
   - '1646 m.'
@@ -17,6 +18,18 @@ tags:
   - valstybė
 amziai:
   - 'XVII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vidurio Europa
 
@@ -27,39 +40,134 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
 ## Teiginiai
 
 <a id="claim-t-47312"></a>
-- t-001
+- t-003
   global_id: t-47312
-  teiginys: 'Vilniaus universitetas laikomas vienu seniausių Vidurio Europos universitetų.'
+  teiginys: "Vilniaus universitetas laikomas vienu seniausių Vidurio Europos universitetų."
+  temporaliniai_duomenys: "įvykio data: 1618 m.; įvykio data: 1646 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "148476-149140; hash=a2f26d2ab733d265711fd41c1368efba43d8b82fcaf0be3002bd25e4383f2ed7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vidurio Europa: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vidurio Europa\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-24557
 
 <a id="claim-t-47313"></a>
-- t-002
+- t-004
   global_id: t-47313
-  teiginys: 'Paulavos reiškinys neturėjo precedento Vidurio Europoje ir buvo viena radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos ir Lietuvos Valstybėje.'
+  teiginys: "Paulavos reiškinys neturėjo precedento Vidurio Europoje ir buvo viena radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos ir Lietuvos Valstybėje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "163177-163495; hash=be8ad145d8e6b3d3df9e71261a739058b1b06be2eef24ee8123646276034684a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vidurio Europa: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vidurio Europa\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-24558
 
 <a id="claim-t-47314"></a>
-- t-003
+- t-001
   global_id: t-47314
-  teiginys: 'Civilizacijos požiūriu Lietuva priskiriama Vakarų civilizacijos pakraščiams, vadinamiems Vidurio Europa.'
+  teiginys: "Civilizacijos požiūriu Lietuva priskiriama Vakarų civilizacijos pakraščiams, vadinamiems Vidurio Europa."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "14170-14939; hash=1f10ad2e17fcb77fb2dfd0fb9c1e4f336130cd57571dac74c02a6f835ddea2ad; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vidurio Europa: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vidurio Europa\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-167032
 
 <a id="claim-t-47315"></a>
-- t-004
+- t-002
   global_id: t-47315
-  teiginys: 'Katalikiškoji Vidurio Europa šliejosi prie katalikybę išpažinusios pietinės Vakarų Europos.'
+  teiginys: "Katalikiškoji Vidurio Europa šliejosi prie katalikybę išpažinusios pietinės Vakarų Europos."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "128195-128929; hash=21871fecccef8f1d06f6fd365435c6d530ca35b82a469d900e3dd58ebcaf6c55; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vidurio Europa: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vidurio Europa\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-24556
+
+<a id="claim-t-47316"></a>
+- t-005
+  global_id: t-47316
+  teiginys: "Paulavos reiškinys neturėjo precedento Vidurio Europoje ir buvo viena radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos ir Lietuvos Valstybėje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "163269-163574; hash=4921a56208dfe38acdd9ab4c9d87af039f7bfdc9a7c5fe758fff287b69bee9ea; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vidurio Europa: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vidurio Europa\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-49809
 
 <a id="claim-t-183640"></a>
 - t-006
   global_id: t-183640
-  teiginys: 'Civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraščiams – Vidurio Europai.'
+  teiginys: "Civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraščiams – Vidurio Europai."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Lietuva priklausė Vidurio Europa (0.88)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "14170-14939; hash=1f10ad2e17fcb77fb2dfd0fb9c1e4f336130cd57571dac74c02a6f835ddea2ad; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Vidurio Europa: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Vidurio Europa: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai priskiria Lietuvą Vidurio Europai."
   pagrindžia:
-    - c-005
+    - c-167032
+
+<a id="claim-t-192770"></a>
+- t-007
+  global_id: t-192770
+  teiginys: "Teodoras Narbutas Vidurio Europos tautų barbariškumą ir nesvetingumą minėjo kaip kliūtį senovei pažinti Šiaurę."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "46051-46754; hash=cec4c7785acd4137e740fe9a881807f6bfb0d24f6faac44076034f445de6213c; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vidurio Europa: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vidurio Europa\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175540
 - susijęs iš Lietuva: XVI–XVII a. Lietuva buvo šiauriausias katalikiškosios Pietų ir Vidurio Europos kultūrinio pasaulio pakraštys.
 ## Reikšmingi paminėjimai
 
@@ -79,6 +187,7 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
     katalikybę išpažinusios pietinės Vakarų Europos (Italija, Ispanija, Portu-
     galija).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -100,8 +209,9 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
     ropoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus
     universitetai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -116,8 +226,9 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
     viena iš radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos
     ir Lietuvos Valstybėje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -133,8 +244,9 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
     Klasicizmas Europoje buvo laikomas madas diktuojančios Prancūzi-
     jos stiliumi.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
@@ -158,12 +270,162 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
     unijos idėją, o tai leidžia kalbėti apie Lietuvą kaip jungtį tarp lotyniško-
     sios Vidurio ir bizantinės Rytų Europos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
     - t-003
+
+- c-006
+  santrauka: 'Teodoras Narbutas Vidurio Europos tautų barbariškumą ir nesvetingumą minėjo kaip kliūtį senovei pažinti Šiaurę.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Ant­
+    ra vertus, ryšiai su labiau išvystytomis tautomis senovė­
+    je buvo be galo painūs, padriki ir tolydžio atnaujinami.
+    Viduržemio jūros pirklių, kurie bemaž vieni pasiekdavo
+    tolimas jūras, be to, turėjo ryšį su Atlanto vandenynu ir
+    visados iš anksto puoselėjo viltis rasti lobių nežinomuose
+    kraštuose, kerštas sudarė nesuskaičiuojamas kliūtis Šiau­
+    rei pažinti dar labiau negu Vidurio Europos tautų bar­
+    bariškumas ir nesyetingumas. Bet kai anarchija pakirto
+    Romos valstybės imperatorių galybės kolosą, kai barbarų
+    antplūdis pražudė civilizuotus kraštus, pavertė apsišvie­
+    tusių romėnų palikimą dykra ir kapinynais, šiaurinėms
+    tautoms susiklostė naujos aplinkybės, ir į Europą atėjo
+    pusiausvyros metas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-007
+
+## Citatos
+
+- id: c-24556
+  citata_originali: |
+    Katalikybė buvo prielaida Italijos ir Is-
+    panijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse – Pran-
+    cūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų
+    dvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas Pe-
+    teris Paulius Rubensas).
+    Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Eu-
+    ropa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Euro-
+    pos dalies (Olandija, Anglija) ir per XVII–XVIII a. pralenkė katalikiškąją
+    Vidurio Europą. Ši, silpnesnių miestų ir silpnesnio raštingumo poreikio
+    (palyginti su protestantizmu) katalikiškoji Vidurio Europa šliejosi prie
+    katalikybę išpažinusios pietinės Vakarų Europos (Italija, Ispanija, Portu-
+    galija).
+  citata_rodoma: "Ši, silpnesnių miestų ir silpnesnio raštingumo poreikio\n(palyginti su protestantizmu) katalikiškoji Vidurio Europa šliejosi prie\nkatalikybę išpažinusios pietinės Vakarų Europos (Italija, Ispanija, Portu-\ngalija)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-47315
+
+- id: c-24557
+  citata_originali: |
+    Jėzuitiškojo Vilniaus universi-
+    teto reiškiniai darė poveikį visai Europai – tai pasakytina apie teologijos,
+    filosofijos, logikos, retorikos ir poetikos mokyklas. Vilniaus universite-
+    to profesorių veikalai pasiekė net protestantiškąją Angliją – pavyzdžiui,
+    Martyno Smigleckio „Logika“ (1618 m.) rėmėsi ne tik Sorbonos, bet ir
+    Oksfordo daktarai, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m.
+    buvo išversta iš lotynų į anglų kalbą ir skaitoma Europos universitetuose
+    vietoje įprasto Horacijaus.
+    Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Eu-
+    ropoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus
+    universitetai.
+  citata_rodoma: "Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Eu-\nropoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus\nuniversitetai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-47312
+
+- id: c-24558
+  citata_originali: |
+    Tuo metu buvo sakoma, kad valstybėje yra trys respublikos: Lenkijos,
+    Lietuvos ir Paulavos. Šis posakis rodo, kokią ypatingą reikšmę visuomenė
+    teikė Paulavai. Reiškinys neturėjo precedento Vidurio Europoje, tai buvo
+    viena iš radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos
+    ir Lietuvos Valstybėje.
+  citata_rodoma: "Reiškinys neturėjo precedento Vidurio Europoje, tai buvo\nviena iš radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos\nir Lietuvos Valstybėje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-47313
+
+- id: c-49809
+  citata_originali: |
+    Šis posakis rodo, kokią ypatingą reikšmę visuomenė
+    teikė Paulavai. Reiškinys neturėjo precedento Vidurio Europoje, tai buvo
+    viena iš radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos
+    ir Lietuvos Valstybėje.
+    Klasicizmas Europoje buvo laikomas madas diktuojančios Prancūzi-
+    jos stiliumi.
+  citata_rodoma: "Reiškinys neturėjo precedento Vidurio Europoje, tai buvo \nviena iš radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos \nir Lietuvos Valstybėje.\nKlasicizmas Europoje buvo laikomas madas diktuojančios Prancūzi-\njos stiliumi."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-47316
+
+- id: c-167032
+  citata_originali: |
+    Lietuva juk ne
+    kartą buvo okupuota ir prisijungta Rytų kaimynės.
+    Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pa-
+    kraščiams – Vidurio Europai. Lietuvoje, kaip ir Vidurio Europos šalyse
+    (Lenkijoje, Čekijoje, Vengrijoje), skirtingai nei Rytų Europoje, nuo Vidu-
+    ramžių kūrėsi individualus valstiečių ūkis, o ne bendruomenė, formavo-
+    si bajorų pilietinė visuomenė, o ne rytietiškas centralizmas ar despotija,
+
+    Įvadas •  L I E T U VA  –  V I D U R I O  E U R O P O S  D A L I S
+    13
+    vyravo vakarietiška kultūrinė orientacija ir katalikybė, o ne stačiatikybė,
+    nors buvo surastas integracijos modelis, pagimdęs lokalinės bažnytinės
+    unijos idėją, o tai leidžia kalbėti apie Lietuvą kaip jungtį tarp lotyniško-
+    sios Vidurio ir bizantinės Rytų Europos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183640
+    - t-47314
+
+- id: c-175540
+  citata_originali: |
+    Ant­
+    ra vertus, ryšiai su labiau išvystytomis tautomis senovė­
+    je buvo be galo painūs, padriki ir tolydžio atnaujinami.
+    Viduržemio jūros pirklių, kurie bemaž vieni pasiekdavo
+    tolimas jūras, be to, turėjo ryšį su Atlanto vandenynu ir
+    visados iš anksto puoselėjo viltis rasti lobių nežinomuose
+    kraštuose, kerštas sudarė nesuskaičiuojamas kliūtis Šiau­
+    rei pažinti dar labiau negu Vidurio Europos tautų bar­
+    bariškumas ir nesyetingumas. Bet kai anarchija pakirto
+    Romos valstybės imperatorių galybės kolosą, kai barbarų
+    antplūdis pražudė civilizuotus kraštus, pavertė apsišvie­
+    tusių romėnų palikimą dykra ir kapinynais, šiaurinėms
+    tautoms susiklostė naujos aplinkybės, ir į Europą atėjo
+    pusiausvyros metas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192770
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Lietuva]]

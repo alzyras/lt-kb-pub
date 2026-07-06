@@ -5,7 +5,18 @@ saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
-tags: []
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Įrodymų ledgerio suvestinė - Lietuvos metraštis, Bychovco kronika (1971 m.)
 
@@ -60,6 +71,8 @@ tags: []
 - `vocabulary` sujungtame kandidatų faile turi aukšto signalo medžiagos, bet jos būsenų suvestinė šiame `candidate_ledger_index` variante nebuvo išskleista atskiru skyriumi.
 
 ## Patvirtintų citatų branduolys
+
+Nenurodyta
 
 ## source-bibliografija-001
 
@@ -149,23 +162,14 @@ tags: []
 - potencialus_teiginys: Leidinio įvadas teigia, kad Motiejus Strijkovskis turėjo labai panašų Bychovco kronikos variantą ir jo fragmentus beveik pažodžiui perkėlė į savo kroniką.
 - public_note:
 - saltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-- vieta_saltinyje: chunk_0001; match: exact
+- vieta_saltinyje: chunk_0001; match: whitespace_regex
 - santrauka: Ši citata jungia Strijkovskio turėtą variantą, jo radimo vietą ir ryšį su 1582 m. kronika.
 - pagrindzia:
 - pastaba: Tinkama ir Strijkovskio autoriaus lapui, ir susijusios kronikos šaltinio lapui, bet viešas taikinys turėtų būti parenkamas tik patikrinus registrą.
   citata_originali: |
-    „Metraščio" (siaurąja prasme) sąvoka Bychovco kroni­
-    kai taikoma tik sąlyginai, kadangi pastarąją sudaro dau­
-    giausia literatūriniai bei istoiiniai pasakojimai apie
-    reikšmingiausius autoriaus požiūriu praeities įvykius,
-    o ne griežtai pamečiui dėstomos ir tiksliai datuojamos
-    trumpos žinios, būdingos metraščiams.
     Labai panašaus teksto kroniką savo rankose yra tu­
     rėjęs XVI a, antrosios pusės Lietuvos istorikas, mozū­
     ras Motiejus Strijkovskis, kuris rado tą Bychovco kro-
-
-    ## Puslapis 4
-
     nikos („rusiško metraščio") variantą tame pačiame
     Gardino-Volkovysko krašte, kunigaikščių Zaslavskių
     Didžiosios Berestovicos dvare. Ištisus to varianto frag­
@@ -282,7 +286,3 @@ tags: []
 - `groups` ir `people` kategorijose liko daug genealoginių bei komentarinių išnašų, kur reikia atskirti tapatybės įrodymą nuo vien vardų grandinių.
 - `sources` kategorijoje dalis bibliografinių vienetų yra stiprūs, bet kai kurie tebeturi tik antraštinį ar komentarinį aptikimą ir negali būti laikomi galutine padengtimi.
 - `vocabulary` kategorijai verta atskirai sugretinti sujungtą kandidatų failą su faktiniu indeksu, nes būsenų statistika šiame indekse neatsispindi.
-
-## Teiginiai
-
-## Reikšmingi paminėjimai

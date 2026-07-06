@@ -5,6 +5,18 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Slaptas naujo vyriausiojo žynio išrinkimas ir pristatymas žmonėms
 
@@ -28,16 +40,30 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-189941"></a>
 - t-001
   global_id: t-189941
-  teiginys: 'Narbutas aprašo paprotį, kai po vyriausiojo žynio mirties vaidilos slapta išrinkdavę įpėdinį ir žmonėms skelbdavę jį dievų pasirinktu.'
+  teiginys: "Narbutas aprašo paprotį, kai po vyriausiojo žynio mirties vaidilos slapta išrinkdavę įpėdinį ir žmonėms skelbdavę jį dievų pasirinktu."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "495507-496172; hash=e724e5e18d36587962eca687aacc8380378bd4a2ff5e524f9ebb8b3e4361b5ac; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vaidilos: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Slaptas naujo vyriausiojo žynio išrinkimas ir pristatymas žmonėms: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vaidilos: mention_match, group, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Slaptas naujo vyriausiojo žynio išrinkimas ir pristatymas žmonėms\" parinktas kaip owner_note_path. Targetas \"Vaidilos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
-
+    - c-172824
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Narbutas aprašo paprotį, kai po vyriausiojo žynio mirties vaidilos slapta išrinkdavę įpėdinį ir žmonėms skelbdavę jį dievų pasirinktu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -54,8 +80,33 @@ Nenurodyta
     ir perteikti vėlesniems amžiams tą detalę, kurią pamaldieji ra­
     šytojai savo raštuose praleido nenorėdami lyginti su švento­
     mis dabartinės Romos apeigomis.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-172824
+  citata_originali: |
+    Pagaliau liepdavo
+    uždegti laužą ir savanoriškai sudegdavo už žmones“.
+    Mirus senajam vyriausiajam žyniui, vaidilos labai slaptai
+    išrinkdavo naują; kitą dieną po išrinkimo pristatydavo jį žmo­
+    nėms, aiškindami, kad patys dievai pasirinkę šį šventą žmogų
+    iš labiausiai nusipelniusių: privalu gerbti jį ir klausyti jo. Nors
+    Hartknochas abejoja tokią konklavą buvus, kadangi ankstes­
+    nieji istorikai apie ją neužsimena, tačiau užginčyti tai -  neįma­
+    nomas dalykas, nes vietos padavimai ir dainos galėjo išsaugoti
+    ir perteikti vėlesniems amžiams tą detalę, kurią pamaldieji ra­
+    šytojai savo raštuose praleido nenorėdami lyginti su švento­
+    mis dabartinės Romos apeigomis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-189941

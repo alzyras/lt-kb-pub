@@ -16,6 +16,18 @@ tags:
   - sutartis
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # „Romos karaliaus garbei“
 
@@ -28,9 +40,21 @@ amziai:
 <a id="claim-t-41489"></a>
 - t-001
   global_id: t-41489
-  teiginys: '1431 m. birželio 19 d. Skirsnemunėje buvo pasirašyta sutartis su Ordinu „Romos karaliaus garbei“.'
+  teiginys: "1431 m. birželio 19 d. Skirsnemunėje buvo pasirašyta sutartis su Ordinu „Romos karaliaus garbei“."
+  temporaliniai_duomenys: "sutarties data: 1431 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "264324-264675; hash=12732051615d6c8996e36cf976dc4fca6d0bc95a1e67e67bb4b13ef739c95085; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "„Romos karaliaus garbei“: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„Romos karaliaus garbei“\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-44979
 - susijęs iš Skirsnemunė: 1431 m. birželio 19 d. Skirsnemunėje Švitrigaila pasirašė sutartį su Ordino kryžiuočių ir Livonijos šakomis.
 ## Reikšmingi paminėjimai
 
@@ -48,8 +72,31 @@ amziai:
     karaliaus garbei“ 1431 m. birželio 19 d.,
     Skirsnemunėje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-44979
+  citata_originali: |
+    Kilo
+    karinė įtampa tarp Lietuvos ir Lenkijos.
+    1431 m. liepos viduryje Lenkijos karalius
+    Jogaila, siekdamas išlaikyti tampresniame
+    pavaldume tėvoninę Lietuvą, reikalavo pa-
+    klusnumo iš jaunesniojo brolio. Šis vedė
+    derybas ir pasirašė sutartį su Ordinu (kry-
+    žiuočių ir Livonijos šakomis), „Romos
+    karaliaus garbei“ 1431 m. birželio 19 d.,
+    Skirsnemunėje.
+  citata_rodoma: "Šis vedė\nderybas ir pasirašė sutartį su Ordinu (kry-\nžiuočių ir Livonijos šakomis), „Romos\nkaraliaus garbei“ 1431 m. birželio 19 d.,\nSkirsnemunėje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-41489

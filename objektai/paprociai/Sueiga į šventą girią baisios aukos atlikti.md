@@ -5,6 +5,18 @@ saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Sueiga į šventą girią baisios aukos atlikti
 
@@ -31,13 +43,15 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07805"></a>
-- t-001
+- t-002
   global_id: t-07805
-  teiginys: 'Žemaičių giminių pasiuntiniai nustatytu laiku sueidavo į šventą girią atlikti baisios aukos pagal seną įprotį.'
+  teiginys: "Žemaičių giminių pasiuntiniai nustatytu laiku sueidavo į šventą girią atlikti baisios aukos pagal seną įprotį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  saltinio_vieta: "23123-23404; hash=02eaaadb2b2b3f7e7470dfd56bf965136cef1cce4af63fa8b14236921b5ecdf6; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   pagrindžia:
-    - c-001
-    - c-002
-
+    - c-09962
+    - c-09963
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -47,8 +61,9 @@ Nenurodyta
          visų giminių tos tautos sueina į šventą girią senu įpročiu baisios aukos atlikti; ir taip, nugalavę
          akivaizdoj žmogųį aukauja pagal nuožmų įprotį, godoja^100 dar ir kitaip tą girią: nieksai tenai
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -59,8 +74,36 @@ Nenurodyta
     negali, negut^101 surištas, įžengti, kaipo nenusižeminęs prieš galybę aukščiausią. Jei netyčiomis jis
          tenai pavirstų, atsikelti ir stotis, sako, nevalna^102 yra, nes turi ant pilvo išsiristi.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-09962
+  citata_originali: |
+    „Žemaičiai (Semnones) esantys. Jų tikyba senovę jų rodo. Laikui atėjus, siuntiniai^99
+         visų giminių tos tautos sueina į šventą girią senu įpročiu baisios aukos atlikti; ir taip, nugalavę
+         akivaizdoj žmogųį aukauja pagal nuožmų įprotį, godoja^100 dar ir kitaip tą girią: nieksai tenai
+  citata_rodoma: "„Žemaičiai (Semnones) esantys. Jų tikyba senovę jų rodo. Laikui atėjus, siuntiniai^99\n visų giminių tos tautos sueina į šventą girią senu įpročiu baisios aukos atlikti; ir taip, nugalavę\n akivaizdoj žmogųį aukauja pagal nuožmų įprotį, godoja^100 dar ir kitaip tą girią: nieksai tenai"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-07805
+
+- id: c-09963
+  citata_originali: |
+    negali, negut^101 surištas, įžengti, kaipo nenusižeminęs prieš galybę aukščiausią. Jei netyčiomis jis
+         tenai pavirstų, atsikelti ir stotis, sako, nevalna^102 yra, nes turi ant pilvo išsiristi.
+  citata_rodoma: "negali, negut^101 surištas, įžengti, kaipo nenusižeminęs prieš galybę aukščiausią. Jei netyčiomis jis\n tenai pavirstų, atsikelti ir stotis, sako, nevalna^102 yra, nes turi ant pilvo išsiristi."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-07805

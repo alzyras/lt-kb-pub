@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Augusto išsiskyrimas su Kotryna ir jos mirtis kelionėje
 
@@ -29,24 +41,62 @@ Nenurodyta
 <a id="claim-t-185551"></a>
 - t-001
   global_id: t-185551
-  teiginys: 'Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna.'
+  teiginys: "Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1330848-1331420; hash=dc56862474e4a2d723ac3240b6c6f6ff89c60c9bee45899c2d82c2dad90dd567; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Augusto išsiskyrimas su Kotryna ir jos mirtis kelionėje: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augusto išsiskyrimas su Kotryna ir jos mirtis kelionėje\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-168912
 
 <a id="claim-t-185552"></a>
 - t-002
   global_id: t-185552
-  teiginys: 'Augusto išsiskyrimas su Kotryna įžeidė Romos popiežių, anksčiau leidusį jam vesti mirusios žmonos seserį.'
+  teiginys: "Augusto išsiskyrimas su Kotryna įžeidė Romos popiežių, anksčiau leidusį jam vesti mirusios žmonos seserį."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1331202-1331805; hash=ff88e362d390eb55292c8f1fa099797bc621dcde24d6010cf77d6359f14a4124; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Augusto išsiskyrimas su Kotryna ir jos mirtis kelionėje: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augusto išsiskyrimas su Kotryna ir jos mirtis kelionėje\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-168913
 
 <a id="claim-t-185553"></a>
 - t-003
   global_id: t-185553
-  teiginys: 'Kotryna, pasiųsta pas imperatorių Maksimilijoną, susirgo ir mirė kelionėje.'
+  teiginys: "Kotryna, pasiųsta pas imperatorių Maksimilijoną, susirgo ir mirė kelionėje."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1331603-1331978; hash=12181bd3ae1091347f1099868bf7993ef9e333740c255b1d2babf69a1a7f3dda; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Augustas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Augusto išsiskyrimas su Kotryna ir jos mirtis kelionėje: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Augustas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augusto išsiskyrimas su Kotryna ir jos mirtis kelionėje\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
-
+    - c-168914
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -68,6 +118,7 @@ Nenurodyta
     sisk iria  su  žm o n a
     seserį.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -94,6 +145,7 @@ Nenurodyta
     lės griebtis jį tikriausiai paskatinusi nusikalstama mei­
     lė.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -113,8 +165,75 @@ Nenurodyta
     varto: susirgusi, tiesa, veikiau siela nei kūnu, kelionėje
     mirė.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-168912
+  citata_originali: |
+    Jų atsimetimą nuo
+    prosenelių tikėjimo karalius Augustas slėpė net ir
+    Lietuvoje, ir štai dėl to pasklido apie jį žmonėse viso­
+    kių negerų kalbų, kad esąs perėjęs į liuteronų atskalą18.
+    Žmonės dar labiau patikėjo šiais gandais, kai jis ga­
+    lop ryžosi įvykdyti prieš kelerius metus sugalvotą su­
+    manymą ir atvirai išsiskyrė su austrų kunigaikštyte
+    Kotryna. Šis veiksmas didžiai įžeidė Romos popiežių,
+    kuris, Augustui tuokiantis su Kotryna, leido jam ne­
+    paisyti įstatymų, draudžiančių
+    K a ra liu s A u g u sta s iš-
+    po žmonos mirties vesti jos
+    sisk iria  su  žm o n a
+    seserį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185551
+
+- id: c-168913
+  citata_originali: |
+    Šis veiksmas didžiai įžeidė Romos popiežių,
+    kuris, Augustui tuokiantis su Kotryna, leido jam ne­
+    paisyti įstatymų, draudžiančių
+    K a ra liu s A u g u sta s iš-
+    po žmonos mirties vesti jos
+    sisk iria  su  žm o n a
+    seserį. Karalius teisinosi, jog
+    jam geriau mirti, nei su Kot­
+    ryna gyventi, nes dangus, bausdamas jį už nedorovin­
+    gas jungtuves, pasiuntęs ir jo šeimai, ir valstybei ne­
+    gandų ir neramumų. Aiškiai šitokius ir kitokius daly­
+    kus atskleidė imperatoriaus pasiuntinys, Pečo vyskupas,
+    tuo tarpu žmonėse sklido kalbos, jog šitos apgau­
+    lės griebtis jį tikriausiai paskatinusi nusikalstama mei­
+    lė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185552
+
+- id: c-168914
+  citata_originali: |
+    Aiškiai šitokius ir kitokius daly­
+    kus atskleidė imperatoriaus pasiuntinys, Pečo vyskupas,
+    tuo tarpu žmonėse sklido kalbos, jog šitos apgau­
+    lės griebtis jį tikriausiai paskatinusi nusikalstama mei­
+    lė. Vis dėlto Augustas nieko nepaisė. Kotryna, pasiųsta
+    pas imperatorių Maksimilijoną, neišgyveno šitokio siel­
+    varto: susirgusi, tiesa, veikiau siela nei kūnu, kelionėje
+    mirė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185553

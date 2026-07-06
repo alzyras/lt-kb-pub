@@ -9,6 +9,18 @@ tags:
   - ginklas
   - posakis
   - tauta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Deja mums Kam mes gimėme
 
@@ -21,10 +33,12 @@ Dusburgietis teigia, kad kam mes gimėme, kad matytume savo tautos sunaikinimą 
 <a id="claim-t-59088"></a>
 - t-001
   global_id: t-59088
-  teiginys: 'Broliai posakiu „Deja mums? Kam mes gimėme?“ apgailestavo dėl tautos ir žemės sunaikinimo bei atidavimo nedraugams.'
+  teiginys: "Broliai posakiu „Deja mums? Kam mes gimėme?“ apgailestavo dėl tautos ir žemės sunaikinimo bei atidavimo nedraugams."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "295873-296208; hash=5db2649f40f6e8f0c617f0d615ba11bc9057496c7e2f0bb8c08f415254d5ff3b; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
-
+    - c-59720
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -37,8 +51,25 @@ Dusburgietis teigia, kad kam mes gimėme, kad matytume savo tautos sunaikinimą 
     ji atiduodama  į nedraugų rankas?“ „...jos seneliai užmušti, jos jaunikaičiai žuvo nuo
     nedraugų kalavijo“.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-59720
+  citata_originali: |
+    Jiems pasitraukus, broliai, išvydę visas nelaimes, pridarytas
+    žmonėms, kalbėjo vieni kitiems (1 Mak 2, 7 ir toliau): „Deja mums? Kam mes gimėme,
+    kad matytume savo tautos sunaikinimą ir savo žemės sunaikinimą ir sėdėtume čia, kai
+    ji atiduodama  į nedraugų rankas?“ „...jos seneliai užmušti, jos jaunikaičiai žuvo nuo
+    nedraugų kalavijo“.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-59088

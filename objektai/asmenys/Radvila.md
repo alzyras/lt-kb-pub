@@ -3,23 +3,62 @@ tipas: asmuo
 pavadinimas: 'Radvila'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Radvila
 
 ## Santrauka
 
-Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas imperatorių.
+Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas imperatorių. Jo įkėli mui į chano sostą drauge su juo pasiuntė krašto mar šalą Radvilą 3 2 .
 
 ## Teiginiai
 
 <a id="claim-t-186171"></a>
 - t-001
   global_id: t-186171
-  teiginys: 'Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas imperatorių.'
+  teiginys: "Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas imperatorių."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "655087-655643; hash=c93c31e97a2337c22b5bd628369a13439b476128106a343faf8c0fbf3e0827c0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rumbaudas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Radvila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Rumbaudas: mention_match, person, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Radvila\" parinktas kaip owner_note_path. Targetas \"Rumbaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-169532
+
+<a id="claim-t-193973"></a>
+- t-002
+  global_id: t-193973
+  teiginys: "Jo įkėli mui į chano sostą drauge su juo pasiuntė krašto mar šalą Radvilą 3 2 ."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "234346-234750; hash=59605e92b7bfcb50b8aabc371f9835df455ac31608e2bc8a420aee0ff08451ea; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176598
 - susijęs iš [[objektai/asmenys/Albrechtas Radvila.md#claim-t-87613|Albrechtas Radvila]]: Apie 1601 m. Albrechto Radvilos laikais Goštautų ir Filipovo namai buvo sujungti ir gavo bendrą Kardinalijos pavadinimą.
 - susijęs iš [[objektai/asmenys/Dominykas Radvila.md#claim-t-87655|Dominykas Radvila]]: Dominykas Radvila valdė Jašiūnus, kuriuos 1811 m. iš jo perėmė Balinskis.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103038|Jurgis Radvila (vyskupas, XVI a.)]]: Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė seminariją dvasinei jaunuomenei lavinti.
@@ -118,11 +157,74 @@ Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas im
     jų reikalui, kuo greičiausiai, niekam nieko nesakyda­
     mas, ten išvyks ir Jogaila patvirtinti naujo susitarimo.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Jo įkėli mui į chano sostą drauge su juo pasiuntė krašto mar šalą Radvilą 3 2 .'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Ir didysis kunigaikštis Kazimieras, pagerbęs ir ap­
+    dovanojęs tą chaną Ač-Girėjų, išsiuntė su iškilminga
+    palyda iš Lydos į Perekopo ordą viešpatauti. Jo įkėli­
+    mui į chano sostą drauge su juo pasiuntė krašto mar­
+    šalą Radvilą 3 2 . Ir Radvila atlydėjo jį pagarbiai ligi pa­
+    čios jo sostinės, iki Perekopo3 3 , ir ten didžiojo kuni­
+    gaikščio Kazimiero vardu įsodino jį Radvila į Perekopo
+    chanų sostą M .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+## Citatos
+
+- id: c-169532
+  citata_originali: |
+    Vis dėlto buvo pamato būgštauti, kad jie gali
+    nepaisyti teisėto susitarimo iš palankumo žmonėms, su
+    kuriais susiję kalba ir kilme. Vytautas pats ėmėsi šio
+    uždavinio: pasikvietęs į palydovus didikus Goštautą,
+    Rumbaudą bei Radvilą, jis išvyko pas imperatorių.
+    Prieš tai susitarė slaptai su karaliumi (apie tai žinojo
+    tiktai karalystės pakancleris Trombą), kad, Vytautui
+    376
+
+    ## Puslapis 375
+
+    išsiaiškinus, jog imperatorius bei jo brolis neabejingi
+    jų reikalui, kuo greičiausiai, niekam nieko nesakyda­
+    mas, ten išvyks ir Jogaila patvirtinti naujo susitarimo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186171
+
+- id: c-176598
+  citata_originali: |
+    Ir didysis kunigaikštis Kazimieras, pagerbęs ir ap­
+    dovanojęs tą chaną Ač-Girėjų, išsiuntė su iškilminga
+    palyda iš Lydos į Perekopo ordą viešpatauti. Jo įkėli­
+    mui į chano sostą drauge su juo pasiuntė krašto mar­
+    šalą Radvilą 3 2 . Ir Radvila atlydėjo jį pagarbiai ligi pa­
+    čios jo sostinės, iki Perekopo3 3 , ir ten didžiojo kuni­
+    gaikščio Kazimiero vardu įsodino jį Radvila į Perekopo
+    chanų sostą M .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193973
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Kristupas Radvila]]

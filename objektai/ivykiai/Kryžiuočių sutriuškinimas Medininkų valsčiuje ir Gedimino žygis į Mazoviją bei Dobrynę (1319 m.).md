@@ -11,6 +11,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kryžiuočių sutriuškinimas Medininkų valsčiuje ir Gedimino žygis į Mazoviją bei Dobrynę (1319 m.)
 
@@ -35,24 +47,64 @@ Nenurodyta
 <a id="claim-t-185598"></a>
 - t-001
   global_id: t-185598
-  teiginys: 'Apie rugpjūčio pradžią didelė kryžiuočių kariuomenė įsiveržė į Medininkų valsčių ir buvo visiškai sutriuškinta pasalose.'
+  teiginys: "Apie rugpjūčio pradžią didelė kryžiuočių kariuomenė įsiveržė į Medininkų valsčių ir buvo visiškai sutriuškinta pasalose."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Kryžiuočių ordinas puolė Medininkai (0.91)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "338953-339461; hash=7cbf25ed8a3a2063184c0ec1b79bfbf07e70fc7cb49f63c955e8c402bf185a58; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Medininkai: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Medininkai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo kryžiuočių įsiveržimą į Medininkų valsčių."
   pagrindžia:
-    - c-001
+    - c-168959
 
 <a id="claim-t-185599"></a>
 - t-002
   global_id: t-185599
-  teiginys: 'Po pralaimėjimo kryžiuočiai traukėsi iš priešo šalies, bet lietuviai iš anksto užtvėrė miškų takus.'
+  teiginys: "Po pralaimėjimo kryžiuočiai traukėsi iš priešo šalies, bet lietuviai iš anksto užtvėrė miškų takus."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Lietuviai kariavo prieš Kryžiuočių ordinas (0.74)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "339462-339886; hash=e3a4d96781b4789bc1ec776df4d5d0b9a254485673f87eb20e2a15b8fd488ee7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Lietuviai tekste veikia prieš traukiančius kryžiuočius, užtverdami jiems kelius."
   pagrindžia:
-    - c-002
+    - c-168960
 
 <a id="claim-t-185600"></a>
 - t-003
   global_id: t-185600
-  teiginys: 'Kryžiuočiai su Prūsijos maršalu Henriku fon Plocke tankmėje buvo sunaikinti arba pateko į nelaisvę.'
+  teiginys: "Kryžiuočiai su Prūsijos maršalu Henriku fon Plocke tankmėje buvo sunaikinti arba pateko į nelaisvę."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "339757-340635; hash=deca760a58f1f99e0f2ad848b26240ea8779b29f3b30112d657b8efc6a8c343a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžiuočių sutriuškinimas Medininkų valsčiuje ir Gedimino žygis į Mazoviją bei Dobrynę (1319 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių sutriuškinimas Medininkų valsčiuje ir Gedimino žygis į Mazoviją bei Dobrynę (1319 m.)\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
-
+    - c-168961
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -73,6 +125,7 @@ Nenurodyta
     atsargumo (šitaip paprastai elgiasi tokie drąsuoliai),
     buvo įvilioti į pasalas ir visiškai sutriuškinti.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -93,6 +146,7 @@ Nenurodyta
     ke, Prūsijos maršalu, buvo šioje tankmėje arba su­
     naikinti, arba pakliuvo į nelaisvę.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -128,8 +182,84 @@ Nenurodyta
 
     jos.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-168959
+  citata_originali: |
+    Po kelerių
+    taikos metų prasidėjęs žiaurus karas vėl pareikalavo
+    visokiausių aukų, bet baigė­
+    si ne mažesniu kryžiuočių
+    pralaimėjimu. Apie rugpjūčio
+    pirmąją didelė kryžiuočių ka­
+    riuomenė įsiveržė į Medinin­
+    kų valsčių, kur, paskleidę bū­
+    rius prinokusių javų naikinti, jie baudėsi įvilioti lie­
+    tuvius į atvirą mūšį; ta dingstimi niokotojai puldinėjo
+    šen bei ten su neregėtu įžūlumu. Tačiau, nepaisydami
+    atsargumo (šitaip paprastai elgiasi tokie drąsuoliai),
+    buvo įvilioti į pasalas ir visiškai sutriuškinti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185598
+
+- id: c-168960
+  citata_originali: |
+    Kadangi
+    šis pralaimėjimas palaužė kariuomenės jėgas, o sto­
+    vykloje sukėlė siaubą, kryžiuočiai turėjo trauktis iš
+    priešų šalies. Lietuviai, nujautę, jog priešas šitaip ir
+    elgsis, iš anksto slaptai apstojo miškuose takus, visur
+    prikirtą ir privertę medžių, kad priešas niekur negalėtų
+    pasprukti. Visi kryžiuočiai su vadu Henriku fon Ploc-
+    ke, Prūsijos maršalu, buvo šioje tankmėje arba su­
+    naikinti, arba pakliuvo į nelaisvę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185599
+
+- id: c-168961
+  citata_originali: |
+    Visi kryžiuočiai su vadu Henriku fon Ploc-
+    ke, Prūsijos maršalu, buvo šioje tankmėje arba su­
+    naikinti, arba pakliuvo į nelaisvę. Gediminas, norėda­
+    mas, kad kariuomenė, prisikentusi visokio vargo per
+    karą su kryžiuočiais, atgautų narsą prisiplėšusi naujo
+    grobio, apie rugsėjo vidurį patraukė į Mazoviją ir
+    Dobrynę; jis nusiaubė ir vieną, ir kitą žemę; kadangi
+    niekur nesirodė priešas, parvedė be kovos savo ka­
+    riuomenę, prisiplėšusią grobio, į tėvynę. Po to ordino
+    magistro Karolio fon Tryro
+    L ietu via i n io k o ja  M a-
+    pastangomis buvo sudarytos
+    z o v iją  ir D o b ry n ę
+    paliaubos dvejiems metams:
+    gal šis norėjo, kad ilgainiui
+    aprimtų lietuvių dvasia, kurią kėlė pastovi sėkmė (mat
+    geriausias būdas užbaigti tai, kam užsimota,— tęsti sėk­
+    mingus žygius), o gal dėl to, kad tuo metu pats ren­
+    gėsi visomis jėgomis kovoti su lenkais dėl Pomerani-
+    m
+
+    ## Puslapis 197
+
+    jos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185600

@@ -19,11 +19,6 @@ datos:
   - '2026 m.'
 date_start: '1330'
 date_end: '2026'
-description: 'Katalikų Bažnyčia Lietuvos istorijoje siejama su krikštu, Vytauto bažnytine politika, reformacija ir valdžių spaudimu.'
-socialDescription: 'Katalikų Bažnyčios vaidmuo Lietuvos istorijoje: nuo krikšto ir ryšių su Roma iki reformacijos, caro valdžios ir sovietmečio spaudimo.'
-seo_atnaujinta: '2026-07-02T23:12:35.207718+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -31,161 +26,425 @@ tags:
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Katalikų Bažnyčia
 
 ## Santrauka
 
-Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinimu, valstybės santykiais su Roma ir konfesinėmis įtampomis. Nuo Mindaugo politikos ir 1387 m. katalikiškos LDK iki Vytauto bandymų stiprinti bažnytinę struktūrą ji veikė kaip svarbus politinis ir kultūrinis veiksnys. Vėliau jos įtaką keitė reformacija, caro valdžios spaudimas ir sovietmečio persekiojimas.
+Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo su juo kovą.
 
 ## Teiginiai
 
 <a id="claim-t-116726"></a>
-- t-001
+- t-008
   global_id: t-116726
-  teiginys: 'Caro valdžia Katalikų bažnyčią priskyrė „lenkų pradams“, bet dėl tarptautinės politikos nesiėmė tiesioginio jos likvidavimo.'
+  teiginys: "Caro valdžia Katalikų bažnyčią priskyrė „lenkų pradams“, bet dėl tarptautinės politikos nesiėmė tiesioginio jos likvidavimo."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "216652-217019; hash=39ebe62ea18b01003515079c282edf4f3cb0ffa564bfb29fbf226795be843d18; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Katalikų Bažnyčia: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Katalikų Bažnyčia\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-107542
 
 <a id="claim-t-116727"></a>
-- t-002
+- t-017
   global_id: t-116727
-  teiginys: 'Šalių feodalų, katalikų bažnyčios, Kryžiuočių ordino agresija.'
+  teiginys: "Šalių feodalų, katalikų bažnyčios, Kryžiuočių ordino agresija."
+  semantiniai_rysiai: "Kryžiuočių ordinas puolė Lietuva (0.82); Katalikų Bažnyčia puolė Lietuva (0.63)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "27414-28238; hash=4f632af33043f0fbe2cdad7019748d2897c316b79aa90ce127e92c20ba387614; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Lietuva: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Ordinas veržėsi į Rytų Lietuvą."
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
-    - c-004
+    - c-107536
 
 <a id="claim-t-116728"></a>
-- t-003
+- t-016
   global_id: t-116728
-  teiginys: 'XIII-XIV a. Lietuvoje vyko karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir Katalikų Bažnyčios agresiją.'
+  teiginys: "XIII-XIV a. Lietuvoje vyko karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir Katalikų Bažnyčios agresiją."
+  temporaliniai_duomenys: "įvykio data: iki 1330 m.; įvykio data: 1330 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia aiškesnio faktinio predikato apie note objektą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "5243-6109; hash=c6213f961ad7f1df93e926c813ee0e229de60d57f6396847ddc90d769db80d72; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Katalikų Bažnyčia: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Katalikų Bažnyčia\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-015
+    - c-107549
 
 <a id="claim-t-116729"></a>
-- t-004
+- t-007
   global_id: t-116729
-  teiginys: 'Bažnyčios su dviem grakščiais skirtingai dekoruotų tarpsnių bokštais žymėjo rytinę katalikybės ir Vidurio Europos ribą.'
+  teiginys: "Bažnyčios su dviem grakščiais skirtingai dekoruotų tarpsnių bokštais žymėjo rytinę katalikybės ir Vidurio Europos ribą."
+  temporaliniai_duomenys: "įvykio data: 1737-1767; įvykio data: 1767 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko tikslesnį sakinį su svarbia architektūrine detale."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "152594-153013; hash=79f0739a91548df091c325908c57bd44013980f1ee49717f1f72f11024726f45; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bokštai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Katalikų Bažnyčia: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Bokštai: mention_match, place, gap=60"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Katalikų Bažnyčia\" parinktas kaip owner_note_path. Targetas \"Bokštai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-003
+    - c-107535
 
 <a id="claim-t-116730"></a>
-- t-005
+- t-006
   global_id: t-116730
-  teiginys: 'Lietuvos katalikai ir Vilniaus vyskupas Valerijonas Protasevičius siekė užbėgti už akių protestantų ketinimui įkurti kolegiją.'
+  teiginys: "Lietuvos katalikai ir Vilniaus vyskupas Valerijonas Protasevičius siekė užbėgti už akių protestantų ketinimui įkurti kolegiją."
+  semantiniai_rysiai: "Katalikų Bažnyčia buvo priešas Protestantai (0.66); Valerijonas Protasevičius (vyskupas) buvo priešas Protestantai (0.66)"
+  temporaliniai_duomenys: "įvykio data: 1569 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "145757-146061; hash=540c1feb76a468c465d059f52b7e343afed43fd045f9bb9642192732057d76e7; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_priesas -> Protestantai: 0.66"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Valerijonas Protasevičius (vyskupas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Protestantai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata įvardija Valerijoną Protasevičių kaip vieną iš veikėjų, siekusių sutrukdyti protestantų ketinimui."
   pagrindžia:
-    - c-011
+    - c-107544
 
 <a id="claim-t-116731"></a>
-- t-006
+- t-003
   global_id: t-116731
-  teiginys: 'Vytauto bažnytinėje politikoje bandyta steigti atskirą Lietuvos katalikų bažnyčios provinciją.'
+  teiginys: "Vytauto bažnytinėje politikoje bandyta steigti atskirą Lietuvos katalikų bažnyčios provinciją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "89235-89694; hash=b51ed9c214bb152a3cc9971611392a6f7acea873dbaa0ae6e0d04b23c8a9ce93; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Florencija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Katalikų Bažnyčia: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Florencija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Katalikų Bažnyčia\" parinktas kaip owner_note_path. Targetas \"Florencija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-018
+    - c-107552
 
 <a id="claim-t-116732"></a>
-- t-007
+- t-022
   global_id: t-116732
-  teiginys: 'Testamente pareikšta ištikimybė Katalikų Bažnyčiai ir Romos tikėjimui, priimant išpažinties, Eucharistijos ir patepimo sakramentus.'
+  teiginys: "Testamente pareikšta ištikimybė Katalikų Bažnyčiai ir Romos tikėjimui, priimant išpažinties, Eucharistijos ir patepimo sakramentus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "711545-712325; hash=ada3a7f8b2738cdecb6a516ad4d6098e907705661947d95155118437c8dae494; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Katalikų Bažnyčia: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Katalikų Bažnyčia\" parinktas kaip owner_note_path. Targetas \"Tomas (Hertvigo iš Pokarvių sūnus)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-107538
 
 <a id="claim-t-116733"></a>
-- t-008
+- t-023
   global_id: t-116733
-  teiginys: 'Nuo 1387 m. LDK buvo katalikiška, tačiau apie 1500 m. joje veikė šešios Kijevo metropolijai pavaldžios stačiatikių vyskupijos.'
+  teiginys: "Nuo 1387 m. LDK buvo katalikiška, tačiau apie 1500 m. joje veikė šešios Kijevo metropolijai pavaldžios stačiatikių vyskupijos."
+  temporaliniai_duomenys: "įvykio data: po 1387 m.; įvykio data: 1387 m.; įvykio data: 1500 m.; įvykio data: apie 1500 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Citata palaiko tikslesnį sakinį su vyskupijų pavaldumu Kijevo metropolijai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "135906-136269; hash=e1c6155e51d0c16bf7d6362f27264112a7c662aa5822d45249cb2540d8841530; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kijevas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Katalikų Bažnyčia: owner_note_path, group"
+  ryšio_targeto_parinkimas: "Kijevas: mention_match, place, gap=73"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Katalikų Bažnyčia\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-016
+    - c-107550
 
 <a id="claim-t-116734"></a>
-- t-009
+- t-004
   global_id: t-116734
-  teiginys: 'Lietuvos didikai reformacijos antruoju etapu rinkosi kalvinizmą, siekdami silpninti didžiojo kunigaikščio valdžią ir Katalikų bažnyčios įtaką.'
+  teiginys: "Lietuvos didikai reformacijos antruoju etapu rinkosi kalvinizmą, siekdami silpninti didžiojo kunigaikščio valdžią ir Katalikų bažnyčios įtaką."
+  semantiniai_rysiai: "Lietuvos didikai buvo priešas Katalikų Bažnyčia (0.62)"
+  temporaliniai_duomenys: "įvykio data: 1563 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys per ilgas; citata leidžia jį sutrumpinti į aiškesnį enciklopedinį sakinį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "116877-117666; hash=2a57ea9b3b0da142f9a527ea9076ff1984ca122ed6feeaf75b8dc9483a63a3f9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_priesas -> Katalikų Bažnyčia: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos didikai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Katalikų Bažnyčia: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Didikų tikslas silpninti Bažnyčios įtaką rodo politinį priešiškumą Katalikų Bažnyčiai."
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-014
+    - c-107548
 
 <a id="claim-t-116735"></a>
-- t-010
+- t-024
   global_id: t-116735
-  teiginys: '1417 m. gegužės 13 d. popiežius Martynas V pavedė Vytautui ir Jogailai kurti bažnyčias, globoti kunigiją ir ginti tikėjimą Lietuvoje ir Rusijoje.'
+  teiginys: "1417 m. gegužės 13 d. popiežius Martynas V pavedė Vytautui ir Jogailai kurti bažnyčias, globoti kunigiją ir ginti tikėjimą Lietuvoje ir Rusijoje."
+  temporaliniai_duomenys: "įvykio data: 1417 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas fragmentiškumas ir OCR triukšmas, suformuluotas pilnas faktinis sakinys."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "283615-284019; hash=2ff56f68d9f3065a7f89eb39127b469a4dc6f20c42d87d2b7d4e9b3e26646943; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Katalikų Bažnyčia: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=46"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Katalikų Bažnyčia\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-107537
 
 <a id="claim-t-116736"></a>
-- t-011
+- t-014
   global_id: t-116736
-  teiginys: 'Vilniaus vyskupas Povilas tyrė Abraomo Kulviečio mokymą, kurį laikė Romos katalikų Bažnyčios pasmerktu.'
+  teiginys: "Vilniaus vyskupas Povilas tyrė Abraomo Kulviečio mokymą, kurį laikė Romos katalikų Bažnyčios pasmerktu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "623354-624279; hash=dc00ea528eb32373ededff125b0f9cfd3ef4d0f0914e7ec73697aab21d59c6a7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Katalikų Bažnyčia: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=74"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Katalikų Bažnyčia\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-107539
 
 <a id="claim-t-116737"></a>
-- t-012
+- t-021
   global_id: t-116737
-  teiginys: 'Vyskupas Valerijonas atsisakė priesaika įsipareigoti sąlygoms, kurios prieštaravo katalikų tikėjimui.'
+  teiginys: "Vyskupas Valerijonas atsisakė priesaika įsipareigoti sąlygoms, kurios prieštaravo katalikų tikėjimui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "639670-640452; hash=452b0c40ea1a9db9b7f4542762e6c9bf5ee4adac8f7660e33be66987005c73df; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Valerijonas (raštininkas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Katalikų Bažnyčia: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Valerijonas (raštininkas): mention_match, person, gap=73"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Katalikų Bažnyčia\" parinktas kaip owner_note_path. Targetas \"Valerijonas (raštininkas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-017
+    - c-107551
 
 <a id="claim-t-116738"></a>
-- t-013
+- t-019
   global_id: t-116738
-  teiginys: 'Lietuva buvo vienintelė prie Sovietų Sąjungos prijungta katalikiška šalis, todėl sovietų valdžiai katalikybė siejosi su nepageidaujamu vakarietiškumu.'
+  teiginys: "Lietuva buvo vienintelė prie Sovietų Sąjungos prijungta katalikiška šalis, todėl sovietų valdžiai katalikybė siejosi su nepageidaujamu vakarietiškumu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "523353-523650; hash=db145d2bdeabf18c0e27f8d34f0d3bccec43d79d7441946978018de79efc01a6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Katalikų Bažnyčia: owner_note_path, group"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=1"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Katalikų Bažnyčia\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-002
+    - c-107534
 
 <a id="claim-t-116739"></a>
-- t-014
+- t-011
   global_id: t-116739
-  teiginys: 'Sovietų valdžia siekė pakirsti katalikų dvasininkijos autoritetą, trukdė jaunuoliams mokytis kunigų seminarijoje.'
+  teiginys: "Sovietų valdžia siekė pakirsti katalikų dvasininkijos autoritetą, trukdė jaunuoliams mokytis kunigų seminarijoje."
+  temporaliniai_duomenys: "įvykio data: 1946 m.; įvykio data: 1962 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie sovietų valdžios veiksmus prieš katalikų dvasininkiją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "467956-468290; hash=f7454501a556462d1650503ed25fde3ee1d837c17e6a15c1adc8e27427beee43; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Telšiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Katalikų Bažnyčia: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Telšiai: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Katalikų Bažnyčia\" parinktas kaip owner_note_path. Targetas \"Telšiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-013
+    - c-107547
 
 <a id="claim-t-116740"></a>
-- t-015
+- t-020
   global_id: t-116740
-  teiginys: 'Vilniaus vyskupas Povilas teigė, kad Abraomas iš Kulvos nesilaikė vienybės su Romos katalikų Bažnyčia ir klaidino kitus.'
+  teiginys: "Vilniaus vyskupas Povilas teigė, kad Abraomas iš Kulvos nesilaikė vienybės su Romos katalikų Bažnyčia ir klaidino kitus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "623354-624279; hash=dc00ea528eb32373ededff125b0f9cfd3ef4d0f0914e7ec73697aab21d59c6a7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Abraomas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Katalikų Bažnyčia: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Abraomas: mention_match, person, gap=47"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Katalikų Bažnyčia\" parinktas kaip owner_note_path. Targetas \"Abraomas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-107539
 
 <a id="claim-t-116741"></a>
-- t-016
+- t-002
   global_id: t-116741
-  teiginys: 'Mindaugas iš kunigo Kristijono sužinojo apie Katalikų Bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais.'
+  teiginys: "Mindaugas iš kunigo Kristijono sužinojo apie Katalikų Bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "48134-48534; hash=c00f6f905656d8613b378183436a794d9ef462a630ed4869dcca551c7193fa01; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Katalikų Bažnyčia: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=59"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Katalikų Bažnyčia\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-107533
 
 <a id="claim-t-116742"></a>
-- t-017
+- t-009
   global_id: t-116742
-  teiginys: 'Valdžios diskriminacinės priemonės prieš Katalikų bažnyčią prisidėjo prie lietuviškos kirilikos boikoto.'
+  teiginys: "Valdžios diskriminacinės priemonės prieš Katalikų bažnyčią prisidėjo prie lietuviškos kirilikos boikoto."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "222413-222895; hash=d939b6a843df2ca229510ae82c528af4eb032555371f02b380371c87bedb0273; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Katalikų Bažnyčia: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Katalikų Bažnyčia\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-012
+    - c-107546
 
 <a id="claim-t-116743"></a>
-- t-018
+- t-015
   global_id: t-116743
-  teiginys: 'Valerijonas atsisakė priesaika įsipareigoti sąlygoms, kurios prieštaravo katalikų tikėjimui.'
+  teiginys: "Valerijonas atsisakė priesaika įsipareigoti sąlygoms, kurios prieštaravo katalikų tikėjimui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "639801-640554; hash=e4abeea081baa3a7639bff05e47a7cd76541dda9b23c9dba475b3a9cadba6143; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antspaudas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Katalikų Bažnyčia: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Antspaudas: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Katalikų Bažnyčia\" parinktas kaip owner_note_path. Targetas \"Antspaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-107540
 
 <a id="claim-t-116744"></a>
-- t-019
+- t-018
   global_id: t-116744
-  teiginys: 'Mindaugas iš Livonijos ordino kunigo Kristijono gavo žinių apie Katalikų bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais.'
+  teiginys: "Mindaugas iš Livonijos ordino kunigo Kristijono gavo žinių apie Katalikų bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "48134-48534; hash=c00f6f905656d8613b378183436a794d9ef462a630ed4869dcca551c7193fa01; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Katalikų Bažnyčia: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=59"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Katalikų Bažnyčia\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-107533
 
 <a id="claim-t-116745"></a>
-- t-020
+- t-013
   global_id: t-116745
-  teiginys: '„Kronika“ tapo Katalikų bažnyčios pasipriešinimo sovietų valdžiai simboliu.'
+  teiginys: "„Kronika“ tapo Katalikų bažnyčios pasipriešinimo sovietų valdžiai simboliu."
+  temporaliniai_duomenys: "įvykio data: 1978 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Veiksmažodis „tapo“ enciklopediniam teiginiui tinka geriau nei „virto“."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "470797-471561; hash=be3ac7612f2163a3fc7d495c9ce4a8c36f0723c0df4668c9b73a138d65a57c32; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jonas Kauneckas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Katalikų Bažnyčia: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Jonas Kauneckas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Katalikų Bažnyčia\" parinktas kaip owner_note_path. Targetas \"Jonas Kauneckas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-010
+    - c-107543
 
 <a id="claim-t-182895"></a>
 - t-021
   global_id: t-182895
-  teiginys: 'Katalikų Bažnyčia Vakaruose pradėjo kovą su protestantizmu.'
+  teiginys: "Katalikų Bažnyčia Vakaruose pradėjo kovą su protestantizmu."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "523353-523650; hash=db145d2bdeabf18c0e27f8d34f0d3bccec43d79d7441946978018de79efc01a6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Katalikų Bažnyčia: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Katalikų Bažnyčia\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-019
+    - c-166299
 - susijęs iš [[objektai/asmenys/Gregorijus Cemblakas.md#claim-t-93283|Gregorijus Cemblakas]]: Gregorijus Cemblakas buvo numatytas Focijaus vieton ir laikytas unijos su Katalikų Bažnyčia šalininku.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176632|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Po Žalgirio mūšio atsirado Vytauto funduotų bažnyčių ir vienuolynų, o 1413 m. buvo apkrikštyta Žemaitija.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176636|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Po Žalgirio mūšio Vytautas fundavo bažnyčias ir vienuolynus, o 1413 m. buvo apkrikštyta Žemaitija.
@@ -209,6 +468,7 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
     toriumi. Papirkęs magistrą Andrių Štirlandą, per savo pasiuntinį popie-
     žiui išdėstė sąlygas, kurios buvo naudingesnės Lietuvai, o ne Livonijai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -234,6 +494,7 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
     228
     elgtasi brutaliau nei su kitomis religijomis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -251,6 +512,7 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
     co kūrybos trisdešimtmetis (1737–1767 m.) yra vienas ryškiausių senosios
     Lietuvos civilizacijos reiškinių, priklausomybės Vakarų civilizacijai ženklas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -272,6 +534,7 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
     į Žemaitiją ir Rytų Lietuvą ir tik milžiniškomis pastangomis ir aukomis buvo sulaikytas
     prie Nemuno, virtusio pagrindine fronto linija.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -291,6 +554,7 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
     nyčiai Naugardo ir Pskovo apylinkėse, Vytautui priklausan­
     čiose^1 ).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -321,6 +585,7 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
     rum avi Genitoris et germani nostrorum Regum Polonie in
     Regno nostro designamus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -348,6 +613,7 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
     su juo ir visi kiti Didžiosios Kunigaikštystės žmonės tiems
     bedieviškiems jo įtikinėjimams paklustų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -373,6 +639,7 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
     savo ranka pasirašėme ir liepėme mūsų antspaudą prika­
     binti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -389,6 +656,7 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
     talikai diskriminuojami ir viliojami į stačiatikybę. „Rusų pradų atkūrimo“
     politikos šalininkai ginčijosi dėl taktikos etninių lietuvių atžvilgiu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -417,6 +685,7 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
     ateistai, o kulto laisvė praktikoje
     varžoma.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -432,6 +701,7 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
     Valerijonas Protasevičius – stengėsi užbėgti už akių protestantų ketini-
     mui įkurti kolegiją. Todėl 1569 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -450,6 +720,7 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
     valdžios kėslus, per kunigus paskleidė mintį, kad skaityti tokias valdžios
     brukamas knygas katalikui yra nuodėmė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -465,6 +736,7 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
     kyje. Leista veikti tik vienai kunigų seminarijai Kaune, klierikų skaičių
     mažinant. 1962 m. beliko vos 55 klierikai, nors bažnyčiose kunigų trūko.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -488,6 +760,7 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
     Radvila Juodasis (1515–1565), 1563 m. išleidęs lenkiškai „Brastos Bibli-
     ją“.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -510,6 +783,7 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
     lietuvių kalbiniai tarpusavio santykiai, bendradarbiavimo kovoje prieš Ordino agresiją
     klausimai.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -529,6 +803,7 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
     pačiai metropolijai Kijeve, o metropolitas reziduodavo ne tik Kijeve, bet ir
     Naugarduke bei Vilniuje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -554,6 +829,7 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
     reigoti [sutikdamas su] šiomis sąlygomis, kurios prieštarauja
     katalikų tikėjimui.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -571,6 +847,7 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
     Tačiau Vytauto bažnytinė politika padėjo pagrindus tolesniam Lietuvos
     krikščionėjimui.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -588,11 +865,384 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
     mokydamiesi Lietuvos ir užsienio katalikiškose mokyklose,
     grįždavo namo katalikai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-021
+
+## Citatos
+
+- id: c-107533
+  citata_originali: |
+    Visa tai – Mindaugo politikos rezulta-
+    tas. Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino bro-
+    lį kunigą Kristijoną, iš kurio gavo informaciją apie Katalikų bažnyčios
+    organizaciją ir popiežiaus santykius su Europos valdovais, ypač impera-
+    toriumi. Papirkęs magistrą Andrių Štirlandą, per savo pasiuntinį popie-
+    žiui išdėstė sąlygas, kurios buvo naudingesnės Lietuvai, o ne Livonijai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-116744
+    - t-116741
+
+- id: c-107534
+  citata_originali: |
+    Savo ruožtu pagrindinis tikslas – Lietu-
+    vos nepriklausomybės atkūrimas – skatino vienytis lietuvių diplomatus ir
+    išeiviją, siekti tėvynės laisvinimo pajėgų vienybės.
+    Nesitaikstanti visuomenė
+    Lietuva buvo vienintelė prie Sovietų Sąjungos prijungta ka-
+    talikiška šalis. Nors sovietų valdžia netoleravo ir kitų konfesijų tikinčiųjų,
+    juos persekiojo, katalikai buvo ypač neparankūs dėl to, kad katalikybė
+    siejosi su komunistinei vadovybei nepageidautinu „vakarietiškumu“ –
+    katalikybės centru Vatikane, nepavaldžiu Maskvai, todėl su katalikybe
+
+    L I E T U V O S  I S T O R I J A
+    228
+    elgtasi brutaliau nei su kitomis religijomis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-116738
+
+- id: c-107535
+  citata_originali: |
+    Ryškiausias ypatumas – ypač aukšti ir
+    liekni pagrindinio fasado bokštai. Bažnyčios su dviem grakščiais, skirtingai
+    dekoruotų tarpsnių bokštais tapo neatskiriamu katalikiškojo peizažo bruo-
+    žu, žymėjo rytinę katalikybės, kartu ir Vidurio Europos ribą. J. K. Glaubi-
+    co kūrybos trisdešimtmetis (1737–1767 m.) yra vienas ryškiausių senosios
+    Lietuvos civilizacijos reiškinių, priklausomybės Vakarų civilizacijai ženklas.
+  citata_rodoma: "Bažnyčios su dviem grakščiais, skirtingai \ndekoruotų tarpsnių bokštais tapo neatskiriamu katalikiškojo peizažo bruo-\nžu, žymėjo rytinę katalikybės, kartu ir Vidurio Europos ribą. J."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-116729
+
+- id: c-107536
+  citata_originali: |
+    Visi šie faktai rodo, kad XIII a. baltų žemėse, t. y. pačių lietuvių (su žemaičiais),
+    jotvingių, prūsų ir kt. gyvenamajame plote, buvo susidaręs dvasinės (religijos, papročių)
+    ir materialinės kultūros artumas, beveik tapačios buvo socialinės santvarkos formos,
+    o kalbos giminystė padėjo gyventojams suprasti vieniems kitus. Taigi vyko vieningos
+    tautybės45 bei baltiškosios Lietuvos valstybės formavimosi procesas46, kurį sustabdė
+    vokiečių ir kt. šalių feodalų, katalikų bažnyčios, Kryžiuočių ordino agresija.
+      Dusburgiečio kronika ir vaizduoja būtent tą sudėtingą laikotarpį, kai po įtemptų bendrų
+    kovų prieš agresiją iš Vakarų buvo pavergti vakariniai baltai, kai Ordinas toliau veržėsi
+    į Žemaitiją ir Rytų Lietuvą ir tik milžiniškomis pastangomis ir aukomis buvo sulaikytas
+    prie Nemuno, virtusio pagrindine fronto linija.
+  citata_rodoma: "Taigi vyko vieningos\ntautybės45 bei baltiškosios Lietuvos valstybės formavimosi procesas46, kurį sustabdė\nvokiečių ir kt. šalių feodalų, katalikų bažnyčios, Kryžiuočių ordino agresija.\n  Dusburgiečio kronika ir vaizduoja būtent tą sudėtingą laikotarpį, kai po įtemptų bendrų\nkovų prieš agresiją iš Vakarų buvo pavergti vakariniai baltai, kai Ordinas toliau veržėsi\nį Žemaitiją ir Rytų Lietuvą ir tik milžiniškomis pastangomis ir aukomis buvo sulaikytas\nprie Nemuno, virtusio pagrindine fronto linija."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-116727
+
+- id: c-107537
+  citata_originali: |
+    Popiežius Martynas V, Konstan­
+    cijos susirinkime išrinktas, Vytautą ir Jogailą paskyrė
+    (1417. V. 13) savo vikarais pasauliniuose dalykuose Lietuvai
+    ir Rusijai, pavesdamas jiems kurti bažnyčias, lengvinti kuni­
+    gams žmonių krikštijimą, globoti kunigiją ir tikinčiuosius, ginti
+    tikėjimą. Popiežius ypač pabrėžė rusų prijungimą Kat. Baž­
+    nyčiai Naugardo ir Pskovo apylinkėse, Vytautui priklausan­
+    čiose^1 ).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-116735
+
+- id: c-107538
+  citata_originali: |
+    Paskutinį testamentą ir paskutinę mūsų žemiau
+    išreikštą valią pateikėme, išdėstėme, išreiškėme ir aprašė­
+    me bei šiuo raštu aprašome. Visų pirma pripažinome ir pri­
+    pažįstame, kad mes mirsime, laikydamiesi tvarkos ir vieny­
+    bės su šventąja motina Bažnyčia ir Romos tikėjimu, todėl su
+    priklausančiu nuolankumu ir pasišventimu išpažinties, Eu­
+    charistijos ir švento patepimo sakramentus priėmėme ir pri­
+    imame. Ir geidėme, kad mums būtų dvasiškai duoti ir su­
+    teikti [sakramentai], kaip visada, juolab dabar, kai Dievas iš
+    —  • —
+    369
+
+    ## Puslapis 386
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    et animam nostram DEO et Salvatori nostro, corpus vero
+    terrae commendamus, cui sepulturam inter olim Lustą divo­
+    rum avi Genitoris et germani nostrorum Regum Polonie in
+    Regno nostro designamus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-116732
+
+- id: c-107539
+  citata_originali: |
+    Ponas
+    ir tėvonis. Šiuo raštu skelbiame visiems, kam dera žinoti,
+    kad didžiai gerbiamas Kristuje tėvas ponas Povilas, Vilniaus
+    vyskupas, sužinojo, kad kažkoks lietuvis Abraomas iš Kul­
+    vos, mūsų valdinys, ne tik pats nesilaiko vienybės su šven­
+    tąja Romos katalikų Bažnyčia, bet ir daugelį kitų naujais
+    mokslais suklaidina. Suvokdamas, kad jo ganytojiškoms
+    pareigoms priklauso rūpintis, kad jam patikėta kaimenė
+    dogmomis apnuodytu pašaru nebūtų pavojingai nuodija­
+    ma, nutarė kuo rūpestingiausiai ir kruopščiausiai išsiaiš­
+    kinti viską apie Abraomo gyvenimą, papročius, mokslą ir
+    išsiaiškino bei iš patikimų ir pasitikėjimo vertų, priesaiką
+    davusių žmonių liudijimų patyrė, kad anas tiek žodžiais,
+    tiek darbais sąmoningai išpažįsta svetimą, Romos katalikų
+    Bažnyčios pasmerktą mokslą, taip pat stengiasi, kad kartu
+    su juo ir visi kiti Didžiosios Kunigaikštystės žmonės tiems
+    bedieviškiems jo įtikinėjimams paklustų.
+  citata_rodoma: "Šiuo raštu skelbiame visiems, kam dera žinoti,\nkad didžiai gerbiamas Kristuje tėvas ponas Povilas, Vilniaus\nvyskupas, sužinojo, kad kažkoks lietuvis Abraomas iš Kul­\nvos, mūsų valdinys, ne tik pats nesilaiko vienybės su šven­\ntąja Romos katalikų Bažnyčia, bet ir daugelį kitų naujais\nmokslais suklaidina. Suvokdamas, kad jo ganytojiškoms\npareigoms priklauso rūpintis, kad jam patikėta kaimenė\ndogmomis apnuodytu pašaru nebūtų pavojingai nuodija­\nma, nutarė kuo rūpestingiausiai ir kruopščiausiai išsiaiš­\nkinti viską apie Abraomo gyvenimą, papročius, mokslą ir\nišsiaiškino bei iš patikimų ir pasitikėjimo vertų, priesaiką\ndavusių žmonių liudijimų patyrė, kad anas tiek žodžiais,\ntiek darbais sąmoningai išpažįsta svetimą, Romos katalikų\nBažnyčios pasmerktą mokslą, taip pat stengiasi, kad kartu\nsu juo ir visi kiti Didžiosios Kunigaikštystės žmonės tiems\nbedieviškiems jo įtikinėjimams paklustų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-116736
+    - t-116740
+
+- id: c-107540
+  citata_originali: |
+    Bet negalime karštai negirti to
+    paties didžiai gerbiamo Kristuje tėvo pono Valerijono už są­
+    žinės atvirumą, pareigingumą, pamaldumą ir tikėjimą, kai
+    šios rūšies sąlygas atmetė ir taip pat mus ragino ir įspėjo,
+    kad su ja nesutiktume, ir šio dalyko paliudijimą jam norėjo­
+    me suteikti ir suteikiame šiuo mūsų raštu, visiems išaiški­
+    nančiu, kad jo Prakilnybė nieko, kas išmintingam senato­
+    riui ir pamaldžiam bei mūsų išganymu besirūpinančiam
+    ganytojui ir vyskupui pagal tikėjimą galėjo priklausyti, šiuo
+    reikalu nepraleido. Jo Prakilnybė nenorėjo priesaika įsipa­
+    reigoti [sutikdamas su] šiomis sąlygomis, kurios prieštarauja
+    katalikų tikėjimui. Šio dalyko patikimumui dabartinį raštą
+    savo ranka pasirašėme ir liepėme mūsų antspaudą prika­
+    binti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-116743
+
+- id: c-107542
+  citata_originali: |
+    „Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro
+    valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės
+    Katalikų bažnyčios likvidavimo akcijos. Tad Bažnyčios veikla varžyta, ka-
+    talikai diskriminuojami ir viliojami į stačiatikybę. „Rusų pradų atkūrimo“
+    politikos šalininkai ginčijosi dėl taktikos etninių lietuvių atžvilgiu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-116726
+
+- id: c-107543
+  citata_originali: |
+    Tai buvo kone vienintelis leidinys, be pertraukos net 17
+    metų (nors ir nereguliariai) leistas Sovietų Sąjungoje. Nors „Kronika“ skirta
+    tikinčiajai visuomenei ir kėlė tik tikėjimo reikalus, ji virto Katalikų bažny-
+    čios pasipriešinimo sovietų valdžiai simboliu, mokė tvirtybės.
+    1978 m. lapkričio 22 d. trys kunigai – Alfonsas Svarinskas, Sigitas Tam-
+    kevičius ir Juozas Zdebskis – spaudos konferencijoje Maskvoje užsienio
+    žurnalistams pranešė, kad lap-
+    kričio 13 dieną Lietuvoje įkurtas
+    Tikinčiųjų teisių gynimo komi-
+    tetas (TTGK) (jam dar priklau-
+    sė kunigai Jonas Kauneckas ir
+    Vincentas Vėlavičius), kuris kėlė
+    religinės diskriminacijos proble-
+    mą – tikintieji neturi tų teisių,
+    kuriomis valstybėje naudojasi
+    ateistai, o kulto laisvė praktikoje
+    varžoma.
+  citata_rodoma: "Nors „Kronika“ skirta \ntikinčiajai visuomenei ir kėlė tik tikėjimo reikalus, ji virto Katalikų bažny-\nčios pasipriešinimo sovietų valdžiai simboliu, mokė tvirtybės. \n1978 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-116745
+
+- id: c-107544
+  citata_originali: |
+    Aišku, aukštosios mokyklos poreikis brendo visuo-
+    menėje, tokios mokyklos kūrimąsi labai paskatino reformacijos ir kontr-
+    reformacijos konkurencija. Lietuvos katalikai – ir pats Vilniaus vyskupas
+    Valerijonas Protasevičius – stengėsi užbėgti už akių protestantų ketini-
+    mui įkurti kolegiją. Todėl 1569 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-116730
+
+- id: c-107546
+  citata_originali: |
+    Sužlugdyta ir valdžios užmačia pakeisti lietuvių raštijoje tradicinį
+    lotyniškąjį raidyną kirilika. Jei valdžia būtų leidusi lietuviškas pradžios
+    mokyklas ir nedraudusi jose dirbti mokytojais lietuviams, nesiėmusi dis-
+    kriminacinių priemonių prieš Katalikų bažnyčią ir katalikų viliojimo į
+    stačiatikybę, abėcėlė boikoto galėjo nesusilaukti. M. Valančius, perpratęs
+    valdžios kėslus, per kunigus paskleidė mintį, kad skaityti tokias valdžios
+    brukamas knygas katalikui yra nuodėmė.
+  citata_rodoma: "Jei valdžia būtų leidusi lietuviškas pradžios \nmokyklas ir nedraudusi jose dirbti mokytojais lietuviams, nesiėmusi dis-\nkriminacinių priemonių prieš Katalikų bažnyčią ir katalikų viliojimo į \nstačiatikybę, abėcėlė boikoto galėjo nesusilaukti. M."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-116742
+
+- id: c-107547
+  citata_originali: |
+    Sovietų valdžia siekė pakirsti katalikų dva-
+    sininkijos autoritetą, trukdė jaunuoliams mokytis kunigų seminarijoje.
+    1946 m. uždarytos kunigų seminarijos Vilniuje, Telšiuose ir Vilkaviš-
+    kyje. Leista veikti tik vienai kunigų seminarijai Kaune, klierikų skaičių
+    mažinant. 1962 m. beliko vos 55 klierikai, nors bažnyčiose kunigų trūko.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-116739
+
+- id: c-107548
+  citata_originali: |
+    A. Kulvietis gerai suvokė probleminę kultūros situaciją: Lietuvos
+    diduomenė, neišplėtojusi lietuviškų raštijos tradicijų, o kartu atsisakydama
+    rusėnų rašto kalbos, rinkosi lenkų kalbą ne tik raštijai, bet ir bendrauti:
+    lietuviakalbės raštijos sureikšminimui ir oficialaus statuso suteikimo pro-
+    jektui Lietuvos visuomenė nebuvo pasirengusi.
+    Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą
+    protestantizmo kryptį – kalvinizmą: jis geriau atitiko jų planus susilpninti
+    Bažnyčios autoritetu besiremiančio didžiojo kunigaikščio valdžią ir pa-
+    čios Katalikų bažnyčios įtaką. Lietuvos reformacijos ryškiausia ir įtakin-
+    giausia protestantų figūra – LDK kancleris, Vilniaus vaivada Mikalojus
+    Radvila Juodasis (1515–1565), 1563 m. išleidęs lenkiškai „Brastos Bibli-
+    ją“.
+  citata_rodoma: "Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą \nprotestantizmo kryptį – kalvinizmą: jis geriau atitiko jų planus susilpninti \nBažnyčios autoritetu besiremiančio didžiojo kunigaikščio valdžią ir pa-\nčios Katalikų bažnyčios įtaką. Lietuvos reformacijos ryškiausia ir įtakin-\ngiausia protestantų figūra – LDK kancleris, Vilniaus vaivada Mikalojus \nRadvila Juodasis (1515–1565), 1563 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-116734
+
+- id: c-107549
+  citata_originali: |
+    Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus
+    karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,
+    nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš
+    Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo (rašytos XIV a.) ir kt. kronikos.
+    Tarp jų ypatingą vietą užima Petro iš Dusburgo  „Prūsijos žemės kronika“, pateikianti
+    daugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir
+    jo sąjungininkų agresiją XIII—XIV a. pirmame trečdalyje (iki 1330 m.).
+      Kad geriau suvoktume kronikoje vaizduojamus Prūsijos  ir Lietuvos istorijos faktus
+    bei epochą, iš pradžių aptarsime, kaip mokslo sprendžiami prūsų ir jų artimų giminaičių
+    lietuvių kalbiniai tarpusavio santykiai, bendradarbiavimo kovoje prieš Ordino agresiją
+    klausimai.
+  citata_rodoma: "Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus\nkaras prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,\nnušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš\nDusburgo, Hermano iš Vartbergės, Vygando iš Marburgo (rašytos XIV a.) ir kt. kronikos.\nTarp jų ypatingą vietą užima Petro iš Dusburgo  „Prūsijos žemės kronika“, pateikianti\ndaugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir\njo sąjungininkų agresiją XIII—XIV a. pirmame trečdalyje (iki 1330 m.)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-116728
+
+- id: c-107550
+  citata_originali: |
+    Nuo 1387 m.
+    LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m. buvo tik
+
+    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
+    71
+    trys stačiatikių vyskupijos, o LDK – šešios, ir visos jos buvo pavaldžios tai
+    pačiai metropolijai Kijeve, o metropolitas reziduodavo ne tik Kijeve, bet ir
+    Naugarduke bei Vilniuje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-116733
+
+- id: c-107551
+  citata_originali: |
+    Taigi mes nusprendėme taip ir padaryti,
+    juolab kad šios apskritys mums turi būti perduotos tiktai
+    užstato, o ne dominijos teise. Bet negalime karštai negirti to
+    paties didžiai gerbiamo Kristuje tėvo pono Valerijono už są­
+    žinės atvirumą, pareigingumą, pamaldumą ir tikėjimą, kai
+    šios rūšies sąlygas atmetė ir taip pat mus ragino ir įspėjo,
+    kad su ja nesutiktume, ir šio dalyko paliudijimą jam norėjo­
+    me suteikti ir suteikiame šiuo mūsų raštu, visiems išaiški­
+    nančiu, kad jo Prakilnybė nieko, kas išmintingam senato­
+    riui ir pamaldžiam bei mūsų išganymu besirūpinančiam
+    ganytojui ir vyskupui pagal tikėjimą galėjo priklausyti, šiuo
+    reikalu nepraleido. Jo Prakilnybė nenorėjo priesaika įsipa­
+    reigoti [sutikdamas su] šiomis sąlygomis, kurios prieštarauja
+    katalikų tikėjimui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-116737
+
+- id: c-107552
+  citata_originali: |
+    Be to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinci-
+    ją, sukurti Lietuvos stačiatikių metropoliją ar vyskupiją ir šią sujungti su
+    Katalikų bažnyčia. Tačiau popiežiai labai atsargiai steigė arkivyskupijas
+    ir bažnytines provincijas, o Rytų ir Vakarų bažnyčių neįstengė sujungti
+    netrukus po Vytauto mirties įvykusi Florencijos bažnytinė unija (1439).
+    Tačiau Vytauto bažnytinė politika padėjo pagrindus tolesniam Lietuvos
+    krikščionėjimui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-116731
+
+- id: c-166299
+  citata_originali: |
+    Protestantizmo antplūdis Lietu-
+    voje vis dėlto tebuvo laikinio pobūdžio. Tuo pat metu Vaka-
+    ruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo su juo
+    kovą. Tuo metu kai kurie Lietuvos didikų protestantų sūnūs,
+    mokydamiesi Lietuvos ir užsienio katalikiškose mokyklose,
+    grįždavo namo katalikai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182895
 
 ## Ryšiai
 - Priešai: [[objektai/grupes/Lietuvos didikai]], [[objektai/grupes/Protestantai]]

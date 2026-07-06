@@ -16,6 +16,18 @@ amziai:
   - 'XIII'
 periodo_grupes:
   - 'viduramžiai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Komestorius
 
@@ -28,10 +40,19 @@ Dusburgietis teigia, kad pasak Komestoriaus, panašūs ženklai šitaip rodęsi 
 <a id="claim-t-60730"></a>
 - t-001
   global_id: t-60730
-  teiginys: 'Komestorius rašė, kad panašūs ženklai rodėsi mirštant Julijui Cezariui, o po jo mirties suskilo senatas.'
+  teiginys: "Komestorius rašė, kad panašūs ženklai rodėsi mirštant Julijui Cezariui, o po jo mirties suskilo senatas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "740967-741332; hash=aea8c498de5b659144ed3792accc00d0f6e4be4ad909f10c7c0a4f0c026ec396; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> senatas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Komestorius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "senatas: mention_match, thing, gap=96"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Komestorius\" parinktas kaip owner_note_path. Targetas \"senatas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-61362
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,8 +65,25 @@ Dusburgietis teigia, kad pasak Komestoriaus, panašūs ženklai šitaip rodęsi 
     išrinkimo. Pasak Komestoriaus, panašūs ženklai šitaip rodęsi ir tuo metu, kai mirė Julijus
     Cezaris, o po jo mirties suskilo senatas (Ptol. n 1241).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-61362
+  citata_originali: |
+    Sitai ir buvo ženklas bei požymis,
+    rodantis, kad mirsiąs popiežius, o po jo mirties suskilsianti kolegija. Vis dėlto šis skilimas
+    užtruko dvejus metus ir keturis mėnesius, kol kardinolai sutarė dėl busimojo popiežiaus
+    išrinkimo. Pasak Komestoriaus, panašūs ženklai šitaip rodęsi ir tuo metu, kai mirė Julijus
+    Cezaris, o po jo mirties suskilo senatas (Ptol. n 1241).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60730

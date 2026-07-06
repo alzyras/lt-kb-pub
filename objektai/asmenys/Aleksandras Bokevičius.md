@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Aleksandras Bokevičius
 
@@ -17,10 +29,22 @@ Aleksandras Bokevičius buvo pasiųstas pranešti Vasilijui, kad netrukus atvyks
 <a id="claim-t-186093"></a>
 - t-001
   global_id: t-186093
-  teiginys: 'Aleksandras Bokevičius buvo pasiųstas pranešti Vasilijui, kad netrukus atvyks legatai.'
+  teiginys: "Aleksandras Bokevičius buvo pasiųstas pranešti Vasilijui, kad netrukus atvyks legatai."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1176533-1177136; hash=63fc0c6ba498cdd5e1d0c74df730a9577b52b7562ca9ef4c627a4864c138d4e8; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Motiejus Kločka: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandras Bokevičius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Motiejus Kločka: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Bokevičius\" parinktas kaip owner_note_path. Targetas \"Motiejus Kločka\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-169454
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -47,8 +71,39 @@ Aleksandras Bokevičius buvo pasiųstas pranešti Vasilijui, kad netrukus atvyks
     kės vaivada, maršalas Motiejus Kločka ir Povilas
     Naruševičius, karaliaus slaptosios tarybos narys.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-169454
+  citata_originali: |
+    Pirmiausia
+    pasiuntė
+    T ariam asi d ė l ta ik o s
+    Aleksandrą Bokevičių, taurų
+    su  m a sk v ė n a is
+    jaunikaitį, turėjusį pranešti
+    Vasilijui, jog neilgai trukus
+    662
+
+    ## Puslapis 661
+
+    atvyks legatai. Jį priėmė iš tiesų gana draugiškai, ta­
+    čiau neleido pabučiuoti kunigaikščiui rankos, kadangi
+    ši tauta nuo senų laikų mano, jog tik barzda teikianti
+    žmogui deramo orumo, ir negerbia bebarzdžių vyrų,
+    netgi ir tų, kurie pasižymi dideliais gabumais ir bran­
+    džiu protu. Aleksandrą atlydėjo Jonas Sapiega, Palen­
+    kės vaivada, maršalas Motiejus Kločka ir Povilas
+    Naruševičius, karaliaus slaptosios tarybos narys.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186093

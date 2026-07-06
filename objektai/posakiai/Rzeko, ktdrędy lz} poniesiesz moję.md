@@ -5,6 +5,18 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Rzeko, ktdrędy lz} poniesiesz moję
 
@@ -13,16 +25,30 @@ atnaujinta: ''
 Narbutas posakį „Rzeko, ktdrędy lz} poniesiesz moję“ pateikia kaip kreipimosi į Vilijos upę pradžią.
 
 ## Teiginiai
+
 <a id="claim-t-189548"></a>
 - t-001
   global_id: t-189548
-  teiginys: 'Narbutas posakį „Rzeko, ktdrędy lz} poniesiesz moję“ pateikia kaip kreipimosi į Vilijos upę pradžią.'
+  teiginys: "Narbutas posakį „Rzeko, ktdrędy lz} poniesiesz moję“ pateikia kaip kreipimosi į Vilijos upę pradžią."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "259646-260233; hash=c174925d3f7696ece8ef599ae97b50c376d89c912cabe95be0c64fa958ce852a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rzeko, ktdrędy lz} poniesiesz moję: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vilija: mention_match, place, gap=63"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rzeko, ktdrędy lz} poniesiesz moję\" parinktas kaip owner_note_path. Targetas \"Vilija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
-
+    - c-172436
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Narbutas posakį „Rzeko, ktdrędy lz} poniesiesz moję“ pateikia kaip kreipimosi į Vilijos upę pradžią.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -40,8 +66,34 @@ Narbutas posakį „Rzeko, ktdrędy lz} poniesiesz moję“ pateikia kaip kreipi
     25 Štai šio nedidelio kūrinėlio pavadinimas: „Ašaringas vaizdas
     baisybių, su širdies skausmu apdainuotas elegiškomis eilėmis apie jo
     Karališkosios Malonybės Vilniaus miesto dukartinį sudeginimą.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-172436
+  citata_originali: |
+    Iš jo paimtos eilutės, arba kreipimasis (apostrofa) į Vilijos
+    upę, liečia mūsų dalyką:
+    Rzeko, ktdrędy lz}> poniesiesz moję,
+    Zmieszane z twemi czystemi wodami;
+    Rozgioš me skargi, rozgloš niepokoje...
+    Niech twoja Neris (a) i bogam oznami,
+    Pod ktorych wladzą są morskie zamęty,
+    Cierpienia moję i žal nieujęty.
+    Powiedz przešliczne boztwo Wiliej rzeki
+    Nimfom (b) twym siostrom, boginiom podwodnym:
+    25 Štai šio nedidelio kūrinėlio pavadinimas: „Ašaringas vaizdas
+    baisybių, su širdies skausmu apdainuotas elegiškomis eilėmis apie jo
+    Karališkosios Malonybės Vilniaus miesto dukartinį sudeginimą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-189548

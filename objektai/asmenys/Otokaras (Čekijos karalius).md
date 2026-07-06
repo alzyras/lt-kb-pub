@@ -18,6 +18,18 @@ amziai:
   - 'XIII'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Otokaras (Čekijos karalius)
 
@@ -30,10 +42,22 @@ Privilegijos buvo duotos čekų karaliaus Otokaro 1254 met.
 <a id="claim-t-35259"></a>
 - t-001
   global_id: t-35259
-  teiginys: 'Čekijos karalius Otokaras 1254 m. suteikė privilegijas, kurių pavyzdžiu remtasi Lietuvoje.'
+  teiginys: "Čekijos karalius Otokaras 1254 m. suteikė privilegijas, kurių pavyzdžiu remtasi Lietuvoje."
+  semantiniai_rysiai: "Žydai gyveno Lietuva (0.96)"
+  temporaliniai_duomenys: "valdymo laikotarpis: 1254 m.; valdymo laikotarpis: 1264 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Otokaras (Čekijos karalius) buvo valdovas Čekija“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "713855-714148; hash=00f36bda282d8c0e0f9321950e4aeb63ae2f60c863bbac84c665debb74cf3468; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Lietuva: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žydai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad žydai gyveno Lietuvoje."
   pagrindžia:
-    - c-001
-
+    - c-38109
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,8 +70,27 @@ Privilegijos buvo duotos čekų karaliaus Otokaro 1254 met.
     džiu. Tose privilegijose nustatytais dėsniais žydai gyveno Lie­
     tuvoje ilgus šimtmečius.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-38109
+  citata_originali: |
+    Vytautas su­
+    teikė Brastos ir Trakų, o 1389 met. ir Gardino žydams privilegiją.
+    Privilegijos buvo duotos čekų karaliaus Otokaro 1254 met. ir
+    lenkų karaliaus Boleslovo Maldingojo 1264 m. privilegijų pavyz­
+    džiu. Tose privilegijose nustatytais dėsniais žydai gyveno Lie­
+    tuvoje ilgus šimtmečius.
+  citata_rodoma: "Privilegijos buvo duotos čekų karaliaus Otokaro 1254 met. ir\nlenkų karaliaus Boleslovo Maldingojo 1264 m. privilegijų pavyz­\ndžiu. Tose privilegijose nustatytais dėsniais žydai gyveno Lie­\ntuvoje ilgus šimtmečius."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-35259

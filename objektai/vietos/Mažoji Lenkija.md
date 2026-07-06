@@ -16,6 +16,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Mažoji Lenkija
 
@@ -28,9 +40,19 @@ Mažoji Lenkija šiame šaltinyje minima ir kaip pietinės Lenkijos ponų erdvė
 <a id="claim-t-73261"></a>
 - t-001
   global_id: t-73261
-  teiginys: 'Vytautas atkeldino benediktinus į Senuosius Trakus iš Mažosios Lenkijos.'
+  teiginys: "Vytautas atkeldino benediktinus į Senuosius Trakus iš Mažosios Lenkijos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1022671-1022905; hash=0978133b626c90d463e4e16a9e58a236deaf28cb29ce24cddbb481a81202ba86; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mažoji Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mažoji Lenkija\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-71519
 - susijęs iš Didžioji Lenkija: Sudarant Liublino uniją, Didžioji Lenkija ir Mažoji Lenkija turėjo atskirus atstovų suvažiavimus, vadintus generaliniais seimeliais.
 - susijęs iš Lenkija: Abiejų Tautų Respublikoje vyravo Lenkija, nes Lietuva bendrame Seime turėjo tik trečdalį vietų.
 - susijęs iš [[objektai/daiktai/Didysis Lietuvos antspaudas.md#claim-t-19514|Didysis Lietuvos antspaudas]]: Po Liublino unijos LDK išlaikė atskirą iždą, kariuomenę, teismus ir Trečiojo Lietuvos Statuto įformintą teisinę sistemą.
@@ -52,8 +74,25 @@ Mažoji Lenkija šiame šaltinyje minima ir kaip pietinės Lenkijos ponų erdvė
     vaidmens, Vytautas įkurdino benediktinus S. Trakuose, atkeldamas
     juos iš Maž. Lenkijos (Tynieco).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-71519
+  citata_originali: |
+    Camblakas.
+    Nors viduramžinis vienuolynų steigimo įkarštis jau buvo praė­
+    jęs ir Lietuvoje jis nebesuvaidino tada savo būdingo kultūrinio
+    vaidmens, Vytautas įkurdino benediktinus S. Trakuose, atkeldamas
+    juos iš Maž. Lenkijos (Tynieco).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-73261

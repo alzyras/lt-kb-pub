@@ -9,6 +9,18 @@ tags:
   - asmuo
   - popiežius
   - valdovas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Popiežius Honorijus III
 
@@ -21,9 +33,19 @@ Dusburgietis teigia, kad kartą, kai popiežius Honorijus III ir imperatorius Fr
 <a id="claim-t-60416"></a>
 - t-001
   global_id: t-60416
-  teiginys: 'Popiežius Honorijus III ir imperatorius Fridrichas II patikėjo broliui Hermanui spręsti jų slaptų nesutarimų bylą.'
+  teiginys: "Popiežius Honorijus III ir imperatorius Fridrichas II patikėjo broliui Hermanui spręsti jų slaptų nesutarimų bylą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "126579-127553; hash=00fed1344ff969626b927038fb787dd5290ae79cdb9d2357f416f35df0954d23; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Fridrichas II: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Popiežius Honorijus III: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Fridrichas II: mention_match, person, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Popiežius Honorijus III\" parinktas kaip owner_note_path. Targetas \"Fridrichas II\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-61048
 - susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89821|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Hermanui iš Zalcos popiežius padovanojo žiedą, o imperatorius suteikė teisę vėliavoje turėti karališkąsias imperijos insignijas.
 - susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89831|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Hermanas iš Zalcos atsisakė spręsti popiežiaus Honorijaus III ir imperatoriaus Fridricho II slaptų nesutarimų bylą.
 - susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112522|Domininkonų ordinas]]: Brolių pamokslininkų ordinas minimas kaip įkurtas 1216 m., valdant popiežiui Honorijui III.
@@ -57,11 +79,35 @@ Dusburgietis teigia, kad kartą, kai popiežius Honorijus III ir imperatorius Fr
     tvirtindamas, kad jam nieku būdu nedera spręsti šio pasaulio valdovų bylos, kadangi pats
     esąs paprastų paprasčiausias žmogus, neturįs nei kilnaus vardo, nei garbios vietos.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-61048
+  citata_originali: |
+    Jį didžiai vertino ir popiežius,  ir imperatorius, nekalbant apie kitus kunigaikščius bei
+    didžiūnus, ir šitaip buvo jų širdis prie savęs palenkęs, kad gaudavo visa, ko beprašydavo
+    savo Ordino garbei bei naudai. Kai venedai buvo smarkiai sutramdyti po maišto, sukelto
+    prieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį
+    šventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo
+    ruožtu į Prūsijos kraštą, į Elbingo pilį, kur po šiai dienai ji krikščionių didžiai gerbiama dėl
+    dažnų stebuklų, kuriuos viešpats padaro per tą kryžių. Kartą, kai popiežius Honorijus III
+    ir imperatorius Fridrichas II surado dingstį kažkokiems slaptiems nesutarimams, juodu
+    patikėjo šį reikalą išspręsti tam pačiam broliui Hermanui, kuris, šitai išgirdęs, atsisakė,
+    tvirtindamas, kad jam nieku būdu nedera spręsti šio pasaulio valdovų bylos, kadangi pats
+    esąs paprastų paprasčiausias žmogus, neturįs nei kilnaus vardo, nei garbios vietos.
+  citata_rodoma: "Kartą, kai popiežius Honorijus III\nir imperatorius Fridrichas II surado dingstį kažkokiems slaptiems nesutarimams, juodu\npatikėjo šį reikalą išspręsti tam pačiam broliui Hermanui, kuris, šitai išgirdęs, atsisakė,\ntvirtindamas, kad jam nieku būdu nedera spręsti šio pasaulio valdovų bylos, kadangi pats\nesąs paprastų paprasčiausias žmogus, neturįs nei kilnaus vardo, nei garbios vietos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60416
 
 ## Ryšiai
 - Popiežius Honorijus III paskyrė [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]

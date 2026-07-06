@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - saltinis
   - sutartis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vytauto laiškai į Romą dėl husitų
 
@@ -20,10 +32,19 @@ Pasiuntė ir Vytautas į Romą laiškus, pasižadėdamas pulti visa savo galybe 
 <a id="claim-t-34997"></a>
 - t-001
   global_id: t-34997
-  teiginys: 'Vytautas į Romą pasiuntė laiškus, kuriuose pasižadėjo visa savo galybe pulti husitus.'
+  teiginys: "Vytautas į Romą pasiuntė laiškus, kuriuose pasižadėjo visa savo galybe pulti husitus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "564105-564337; hash=c2e4c319b0dc0fbc67d5f47aae76d1dc4f88c2e880bfcf662e0b2d3d55f2e7ae; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Husitai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vytauto laiškai į Romą dėl husitų: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Husitai: mention_match, group, gap=77"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto laiškai į Romą dėl husitų\" parinktas kaip owner_note_path. Targetas \"Husitai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-36222
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -34,8 +55,24 @@ Pasiuntė ir Vytautas į Romą laiškus, pasižadėdamas pulti visa savo galybe 
     ro sutartis su husitais. Bet apie savo karūnacijos teisių atida­
     vimą Martyno V teismui, jis nė neužsiminė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-36222
+  citata_originali: |
+    Pasiuntė ir Vytautas į Romą laiškus, pasižadėdamas pulti visa
+    savo galybe husitus. Jis labai stebisi, kad Jogaila nuolat da­
+    ro sutartis su husitais. Bet apie savo karūnacijos teisių atida­
+    vimą Martyno V teismui, jis nė neužsiminė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-34997

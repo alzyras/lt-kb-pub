@@ -8,12 +8,24 @@ atnaujinta: ''
 tags:
   - ivykis
   - kraštas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Polocko pavergimas Mindaugo laikais
 
 ## Santrauka
 
-Mindaugo laikais Padauguvio giminės kurį laiką mokėjo Polockui duoklę ir buvo pripažinusios jo valdžią. O Mindaugo laikais jie pavergė ir patį Polocką.
+Šiaurėje, kur buvo susikūrusi galinga Polocko kunigaikštija, lietuvių ir latvių giminėms iš karto irgi nelabai sekėsi. O Mindaugo laikais jie pavergė ir patį Polocką.
 
 ## Laikotarpis ir datos
 
@@ -32,40 +44,29 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-66836"></a>
 - t-001
   global_id: t-66836
-  teiginys: 'Mindaugo laikais Padauguvio giminės kurį laiką mokėjo Polockui duoklę ir buvo pripažinusios jo valdžią.'
+  teiginys: "Mindaugo laikais Padauguvio giminės kurį laiką mokėjo Polockui duoklę ir buvo pripažinusios jo valdžią."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "92177-92485; hash=9c3cef373af3db2233db63fe047b749e7f8d248eff37d492300f22f7dc1a43a8; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-66955
+
 <a id="claim-t-66837"></a>
 - t-002
   global_id: t-66837
-  teiginys: 'O Mindaugo laikais jie pavergė ir patį Polocką.'
+  teiginys: "O Mindaugo laikais jie pavergė ir patį Polocką."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "92534-92863; hash=4b91fb598f34377b85388cf34b976f919b3d19233000d72073287e7ab02aae3d; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+    - c-66954
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Mindaugo laikais Padauguvio giminės kurį laiką mokėjo Polockui duoklę ir buvo pripažinusios jo valdžią.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Šiaurėje, kur buvo susikūrusi galinga Polocko kunigaikštija,
-    lietuvių ir latvių giminėms iš karto irgi nelabai sekėsi. Nors jie ir
-    atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas
-    vis artino į aisčių kraštą. Kurį laiką Padauguvio giminės net mo-
-    kėjo jam duoklę — buvo pripažinusios jo valdžią.
-  citata_rodoma: ""
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'O Mindaugo laikais jie pavergė ir patį Polocką.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Iš jos miestų, kaip antai:
@@ -74,8 +75,59 @@ Nenurodyta
     pradžioje jie ne tik nebemokėjo jokių duoklių Polockui, bet net
     paėmė į savo valdžią kai kurias jo valdytas kunigaikštijėles. O
     Mindaugo laikais jie pavergė ir patį Polocką.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+- c-002
+  santrauka: 'Mindaugo laikais Padauguvio giminės kurį laiką mokėjo Polockui duoklę ir buvo pripažinusios jo valdžią.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Šiaurėje, kur buvo susikūrusi galinga Polocko kunigaikštija,
+    lietuvių ir latvių giminėms iš karto irgi nelabai sekėsi. Nors jie ir
+    atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas
+    vis artino į aisčių kraštą. Kurį laiką Padauguvio giminės net mo-
+    kėjo jam duoklę — buvo pripažinusios jo valdžią.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Citatos
+
+- id: c-66954
+  citata_originali: |
+    Iš jos miestų, kaip antai:
+    Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku-
+    nigaikštijos. Tada aisčiams jau lengviau buvo kariauti, ir XIII a.
+    pradžioje jie ne tik nebemokėjo jokių duoklių Polockui, bet net
+    paėmė į savo valdžią kai kurias jo valdytas kunigaikštijėles. O
+    Mindaugo laikais jie pavergė ir patį Polocką.
+  citata_rodoma: "Tada aisčiams jau lengviau buvo kariauti, ir XIII a. pradžioje jie ne tik nebemokėjo jokių duoklių Polockui, bet net paėmė į savo valdžią kai kurias jo valdytas kunigaikštijėles. O\nMindaugo laikais jie pavergė ir patį Polocką."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66837
+
+- id: c-66955
+  citata_originali: |
+    Šiaurėje, kur buvo susikūrusi galinga Polocko kunigaikštija,
+    lietuvių ir latvių giminėms iš karto irgi nelabai sekėsi. Nors jie ir
+    atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas
+    vis artino į aisčių kraštą. Kurį laiką Padauguvio giminės net mo-
+    kėjo jam duoklę — buvo pripažinusios jo valdžią.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66836

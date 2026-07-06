@@ -13,6 +13,18 @@ tags:
   - saltinis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Valančius M. Raštai. T. 1
 
@@ -25,10 +37,22 @@ Dusburgietis teigia, kad valančius M.
 <a id="claim-t-61336"></a>
 - t-001
   global_id: t-61336
-  teiginys: 'M. Valančiaus „Raštų“ pirmasis tomas išleistas Vilniuje 1972 m.'
+  teiginys: "M. Valančiaus „Raštų“ pirmasis tomas išleistas Vilniuje 1972 m."
+  temporaliniai_duomenys: "įvykio data: 1972 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia leidinio tomą, vietą ir metus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "801151-801188; hash=6c3f1463dae866ca7cc4cc1fa665920dc78e5f6e69a1df2ce664629a013a2eb1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Motiejus Valančius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Valančius M. Raštai. T. 1: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Motiejus Valančius: mention_match, author, gap=3"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valančius M. Raštai. T. 1\" parinktas kaip owner_note_path. Targetas \"Motiejus Valančius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-61968
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -37,8 +61,21 @@ Dusburgietis teigia, kad valančius M.
   citata_originali: |
     Valančius M. Raštai. T. 1.— V., 1972.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-61968
+  citata_originali: |
+    Valančius M. Raštai. T. 1.— V., 1972.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-61336

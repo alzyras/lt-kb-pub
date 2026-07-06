@@ -19,6 +19,18 @@ tags:
 amziai:
   - 'XVI'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Daugavgryva
 
@@ -31,23 +43,61 @@ Radvilai pasisekė apginti tik Rygą ir Dauguvos žiotis saugančią Daugavgryv�
 <a id="claim-t-49646"></a>
 - t-001
   global_id: t-49646
-  teiginys: '1609 m. kovą Jonas Karolis Chodkevičius nesėkmingai puolė Daugavgryvą, mėgindamas pralaužti Rygos blokadą.'
+  teiginys: "1609 m. kovą Jonas Karolis Chodkevičius nesėkmingai puolė Daugavgryvą, mėgindamas pralaužti Rygos blokadą."
+  temporaliniai_duomenys: "įvykio data: 1608 m.; įvykio data: 1609 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "448587-449291; hash=f082a898507291aa2906396f993d45daccfe16d36dbdcdad9f21fec1cc49561a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Chodkevičiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Daugavgryva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Chodkevičiai: mention_match, group, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Daugavgryva\" parinktas kaip owner_note_path. Targetas \"Chodkevičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-43373
 
 <a id="claim-t-49647"></a>
 - t-002
   global_id: t-49647
-  teiginys: '1609 m. rugsėjo 29 d. užėmus Daugavgryvos tvirtovę buvo galutinai panaikinta Rygos blokada.'
+  teiginys: "1609 m. rugsėjo 29 d. užėmus Daugavgryvos tvirtovę buvo galutinai panaikinta Rygos blokada."
+  temporaliniai_duomenys: "įvykio data: 1609 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta į sklandesnį enciklopedinį sakinį su aiškiu rezultatu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "457435-457525; hash=4ef404018d2eccc944b328e44d2d6ccbe6a9429a843df9728f834d97cbaa53c0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ryga: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Daugavgryva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Ryga: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Daugavgryva\" parinktas kaip owner_note_path. Targetas \"Ryga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-43374
 
 <a id="claim-t-49648"></a>
 - t-003
   global_id: t-49648
-  teiginys: '1609 m. kovą Jonas Karolis Chodkevičius puolė Daugavgryvą, siekdamas pralaužti Rygos blokadą, bet švedų įgula atsilaikė.'
+  teiginys: "1609 m. kovą Jonas Karolis Chodkevičius puolė Daugavgryvą, siekdamas pralaužti Rygos blokadą, bet švedų įgula atsilaikė."
+  temporaliniai_duomenys: "įvykio data: 1608 m.; įvykio data: 1609 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradiniame teiginyje daug OCR triukšmo ir sulietų fragmentų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "448587-449291; hash=f082a898507291aa2906396f993d45daccfe16d36dbdcdad9f21fec1cc49561a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> įgula: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Daugavgryva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "įgula: mention_match, thing, gap=58"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Daugavgryva\" parinktas kaip owner_note_path. Targetas \"įgula\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-43373
 - susijęs iš Viljandis: 1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį.
 - susijęs iš Daugavgryvos pilis (pilis): Ordinui įsigijus Daugavgryvos pilį Dauguvos žiotyse, rygiečiai ją šturmavo 1328 m. liepą.
 - susijęs iš [[objektai/asmenys/Frederikas Joachimas Mansfeldas.md#claim-t-40108|Frederikas Joachimas Mansfeldas]]: 1608 m. vasarą Frederikas Joachimas Mansfeldas vadovavo 8000 Švedijos karių ekspediciniam korpusui Livonijoje.
@@ -85,6 +135,7 @@ Radvilai pasisekė apginti tik Rygą ir Dauguvos žiotis saugančią Daugavgryv�
     dėl Livonijos vyko sudėtingomis vidaus po-
     litinėmis sąlygomis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -100,11 +151,54 @@ Radvilai pasisekė apginti tik Rygą ir Dauguvos žiotis saugančią Daugavgryv�
     kinti 1609 m. rugsėjo 29 d., užėmus
     Daugavgryvos tvirtovę.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-43373
+  citata_originali: |
+    1608 m. rudenį numalšinus rokošą Len-
+    kijos karalystėje, Jonas Karolis Chodke-
+    vičius grįžo į Livoniją ir per trumpą laiką
+    išvadavo Kuoknesę ir Viljandį. 1609 m.
+    kovo mėnesį jis pabandė pulti Daugavgryvą
+    ir taip pralaužti Rygos blokadą, bet pa-
+    pildomais įtvirtinimais sustiprinę senąją
+    tvirtovę, Nilsomo Sternskioldomo vado-
+    dinamasis Zebžidovskio rokošas privertė vaujama 250 švedų karių įgula su 29 patran-
+    Joną Karolį Chodkevičių nutraukti karo komis sugebėjo atsilaikyti prieš netikėtą
+    veiksmus Livonijoje ir vykti į Lenkiją padėti lietuvių puolimą. Po nepavykusio puolimo
+
+    Mūšio priešistorė
+
+    1600-1611 metų karas su Švedijos karalyste
+    dėl Livonijos vyko sudėtingomis vidaus po-
+    litinėmis sąlygomis.
+  citata_rodoma: "1609 m.\nkovo mėnesį jis pabandė pulti Daugavgryvą\nir taip pralaužti Rygos blokadą, bet pa-\npildomais įtvirtinimais sustiprinę senąją\ntvirtovę, Nilsomo Sternskioldomo vado-\ndinamasis Zebžidovskio rokošas privertė vaujama 250 švedų karių įgula su 29 patran-\nJoną Karolį Chodkevičių nutraukti karo komis sugebėjo atsilaikyti prieš netikėtą\nveiksmus Livonijoje ir vykti į Lenkiją padėti lietuvių puolimą. Po nepavykusio puolimo\n\nMūšio priešistorė\n\n1600-1611 metų karas su Švedijos karalyste\ndėl Livonijos vyko sudėtingomis vidaus po-\nlitinėmis sąlygomis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-49648
+    - t-49646
+
+- id: c-43374
+  citata_originali: |
+    Galutinai blokadą pavyko panai-
+    kinti 1609 m. rugsėjo 29 d., užėmus
+    Daugavgryvos tvirtovę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-49647
 
 ## Ryšiai
 - Puolė Daugavgryvą: [[objektai/asmenys/Jonas Karolis Chodkevičius]], [[objektai/grupes/Rygiečiai]]

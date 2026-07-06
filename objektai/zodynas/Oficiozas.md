@@ -12,6 +12,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Oficiozas
 
@@ -20,16 +32,30 @@ amziai:
 Oficioze „Tygodnik Petersburski“ pasirodė antroji didelė oficialių atgarsių recenzija apie T. Narbuto „Lietuvių mitologiją“.
 
 ## Teiginiai
+
 <a id="claim-t-189318"></a>
 - t-001
   global_id: t-189318
-  teiginys: 'Oficioze „Tygodnik Petersburski“ pasirodė antroji didelė oficialių atgarsių recenzija apie T. Narbuto „Lietuvių mitologiją“.'
+  teiginys: "Oficioze „Tygodnik Petersburski“ pasirodė antroji didelė oficialių atgarsių recenzija apie T. Narbuto „Lietuvių mitologiją“."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "100561-100956; hash=839166241f86afca213ecb8d906eb95dc3942052fdadcd9f21038abbcc18488c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kraševskis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Oficiozas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kraševskis: mention_match, author"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Oficiozas\" parinktas kaip owner_note_path. Targetas \"Kraševskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
-
+    - c-172205
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Oficioze „Tygodnik Petersburski“ pasirodė antroji didelė oficialių atgarsių recenzija apie T. Narbuto „Lietuvių mitologiją“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -45,8 +71,32 @@ Oficioze „Tygodnik Petersburski“ pasirodė antroji didelė oficialių atgars
     roji -  oficioze „Tygodnik Petersburski“. Pirmoji buvo anoni­
     miška, o antroji priklausė Juozapo Ignoto Kraševskio
     plunksnai.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-172205
+  citata_originali: |
+    55
+
+    ## Puslapis 55
+
+    Pirmoji reakcija. Oficialūs atgarsiai į T. Narbuto „Lietu­
+    vių mitologiją“ pasirodė netrukus, t. y. tais pačiais 1835 ir ki­
+    tais 1836 metais. Tai buvo dvi didelės recenzijos: pirmoji iš­
+    spausdinta leidinyje „Wizerunki i Roztrząsania Naukowe“, ant­
+    roji -  oficioze „Tygodnik Petersburski“. Pirmoji buvo anoni­
+    miška, o antroji priklausė Juozapo Ignoto Kraševskio
+    plunksnai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-189318

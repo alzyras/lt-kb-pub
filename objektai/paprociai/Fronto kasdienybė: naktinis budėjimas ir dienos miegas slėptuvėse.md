@@ -11,6 +11,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Fronto kasdienybė: naktinis budėjimas ir dienos miegas slėptuvėse
 
@@ -37,19 +49,38 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-09588"></a>
-- t-001
+- t-003
   global_id: t-09588
-  teiginys: 'Pirmose fronto linijose kariai naktį budėdavo, o dieną miegodavo slėptuvėse.'
+  teiginys: "Pirmose fronto linijose kariai naktį budėdavo, o dieną miegodavo slėptuvėse."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "870030-870394; hash=aae0f95e54f36e85bddb0e9c08cade67dd9813f10343d9de8c97cad2772c2786; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Fronto kasdienybė: naktinis budėjimas ir dienos miegas slėptuvėse: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fronto kasdienybė: naktinis budėjimas ir dienos miegas slėptuvėse\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-12342
 
 <a id="claim-t-09589"></a>
-- t-002
+- t-004
   global_id: t-09589
-  teiginys: 'Po želigovskininkų puolimo pirmose linijose kariai naktį budėdavo, o dieną miegodavo slėptuvėse.'
+  teiginys: "Po želigovskininkų puolimo pirmose linijose kariai naktį budėdavo, o dieną miegodavo slėptuvėse."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "870030-870394; hash=aae0f95e54f36e85bddb0e9c08cade67dd9813f10343d9de8c97cad2772c2786; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Fronto kasdienybė: naktinis budėjimas ir dienos miegas slėptuvėse: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fronto kasdienybė: naktinis budėjimas ir dienos miegas slėptuvėse\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-12342
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -63,9 +94,30 @@ Nenurodyta
     „Pirmose linijose vėl prasidėjo normalus gyvenimas: naktį budė-
     jome, o dieną slėptuvėse miegojome.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+
+## Citatos
+
+- id: c-12342
+  citata_originali: |
+    Tuo metu, kai lenkai veržėsi Ukmergės link ir vyko sunkios
+    kovos ties Giedraičiais, mėginta pralaužti lietuvių pozicijas ir
+    kitoje Neries pusėje. 6-ojo pulko viršila apibendrina padėtį jų
+    fronto ruože, po to, kai pavyko sėkmingai atremti želigovski-
+    ninkų puolimą.
+    „Pirmose linijose vėl prasidėjo normalus gyvenimas: naktį budė-
+    jome, o dieną slėptuvėse miegojome.
+  citata_rodoma: "„Pirmose linijose vėl prasidėjo normalus gyvenimas: naktį budė-\njome, o dieną slėptuvėse miegojome."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-09588
+    - t-09589

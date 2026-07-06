@@ -17,6 +17,18 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'modernioji Lietuva'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Auglys
 
@@ -29,10 +41,22 @@ Jai vadovavo lietuvis karininkas Auglys.
 <a id="claim-t-40047"></a>
 - t-001
   global_id: t-40047
-  teiginys: 'Lietuvis karininkas Auglys vadovavo Jiezno miestelio pakraštyje išdėstytai bolševikų kuopai.'
+  teiginys: "Lietuvis karininkas Auglys vadovavo Jiezno miestelio pakraštyje išdėstytai bolševikų kuopai."
+  temporaliniai_duomenys: "įvykio data: 1919 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "718280-718569; hash=c543842aad6658c6cdac994b68dd93c81c4fa50a7d6ca40649f73de80aec0397; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jieznas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Auglys: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Jieznas: mention_match, place, gap=16"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Auglys\" parinktas kaip owner_note_path. Targetas \"Jieznas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-44295
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -50,8 +74,31 @@ Jai vadovavo lietuvis karininkas Auglys.
 
     1919 m. vasario 10-13 d. JIEZNO KAUTYNĖS
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-44295
+  citata_originali: |
+    Tuo metu
+    Jiezno miestelio pakraštyje buvo išdėstyta
+    viena bolševikų kuopa (apie 100 karių). Jai
+    vadovavo lietuvis karininkas Auglys.
+    Nenorėdamas kautis su tautie-
+    čiais, jis pačioje susirėmimo
+    pradžioje perbėgo pas lietu-
+    vius. Tačiau tuo pat metu
+
+    1919 m. vasario 10-13 d. JIEZNO KAUTYNĖS
+  citata_rodoma: "Tuo metu\nJiezno miestelio pakraštyje buvo išdėstyta\nviena bolševikų kuopa (apie 100 karių). Jai\nvadovavo lietuvis karininkas Auglys.\nNenorėdamas kautis su tautie-\nčiais, jis pačioje susirėmimo\npradžioje perbėgo pas lietu-\nvius. Tačiau tuo pat metu\n\n1919 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40047

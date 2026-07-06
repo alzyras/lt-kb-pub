@@ -16,6 +16,18 @@ amziai:
   - 'XVI'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Povilas Mieleckis
 
@@ -28,10 +40,22 @@ Po Rotundo Vilniaus vaitu tapo ir 1561 metais valdė Po­ vilas Mieleckis, kaip 
 <a id="claim-t-87600"></a>
 - t-001
   global_id: t-87600
-  teiginys: 'Povilo Mieleckio valdymas Vilniaus vaitu 1561 m. šaltinyje laikomas labai abejotinu.'
+  teiginys: "Povilo Mieleckio valdymas Vilniaus vaitu 1561 m. šaltinyje laikomas labai abejotinu."
+  temporaliniai_duomenys: "įvykio data: 1561 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata mini galimą pareigybę, bet kartu aiškiai pabrėžia jos abejotinumą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "567343-567671; hash=6bd09e18af4f31ba941a8aff54613ef5c25ecc1a670ca457c94370615da72676; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Povilas Mieleckis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Povilas Mieleckis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-83579
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -49,8 +73,30 @@ Po Rotundo Vilniaus vaitu tapo ir 1561 metais valdė Po­ vilas Mieleckis, kaip 
     to Povilo Mieleckio valdymas labai
     abejotinas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83579
+  citata_originali: |
+    Po Rotundo Vilniaus
+    vaitu tapo ir 1561 metais valdė Po­
+    vilas Mieleckis, kaip patvirtina tų
+    pačių vaitų sąrašas, išlikęs miesto ar­
+    chyve. Čia apsirikta dėl vardo, nes
+    pavardės Mieleskis ir Mieleckis be­
+    veik sutampa, o buvęs kitas vaitas
+    gal Rotundo sūnus, - to nežinau. Tik
+    to Povilo Mieleckio valdymas labai
+    abejotinas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87600

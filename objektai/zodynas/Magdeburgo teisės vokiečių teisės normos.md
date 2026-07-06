@@ -10,6 +10,18 @@ tags:
   - kraštas
   - miestas
   - sąvoka
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Magdeburgo teisės vokiečių teisės normos
 
@@ -22,10 +34,32 @@ Laikas nutrynė pėdsa­ kus raštuose: nežinia, kokių pokyčių miesto valdym
 <a id="claim-t-86482"></a>
 - t-001
   global_id: t-86482
-  teiginys: 'Po pirmųjų Magdeburgo teisių suteikimo nežinoma, kokių miesto valdymo pokyčių ar laisvių gyventojams buvo duota.'
+  teiginys: "Po pirmųjų Magdeburgo teisių suteikimo nežinoma, kokių miesto valdymo pokyčių ar laisvių gyventojams buvo duota."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "305934-306819; hash=fd0657809b45a2b02db33d96e87af76477d58f79c77f8d5ff3b97eea49546066; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Magdeburgo teisės vokiečių teisės normos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Magdeburgo teisės vokiečių teisės normos\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-82462
 
+<a id="claim-t-194216"></a>
+- t-002
+  global_id: t-194216
+  teiginys: "Šio veikalo kitame tome įdėsime Lentelę, rodančią, kokiais laikais Lietuvos miestams buvo suteiktos Magdeburgo teisės."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "339782-340184; hash=d5cc5c6b6fcb0cc0438fc78b7e3cdd47147bc12de3ffc7d9e67d64e354737181; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176818
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -48,8 +82,84 @@ Laikas nutrynė pėdsa­ kus raštuose: nežinia, kokių pokyčių miesto valdym
     maišties per tuos žiaurius karus ir dažną karinės valdžios kiši­
     mąsi į municipalinius valdymo reikalus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Šio veikalo kitame tome įdėsime Lentelę, rodančią, kokiais laikais Lietuvos miestams buvo suteiktos Magdeburgo teisės.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tie
+    vardai liudija, kad juos turėjo ne tik
+    asmenys iš Jogailos giminės, kaip
+    dabar būtų linkę teigti kai kurie, pa­
+    tys turintys tokius ar panašius var­
+    dus, bet buvo tai lietuviški vardai,
+    pagonybės laikais turėti.
+    78
+    Šio veikalo kitame tome įdėsime
+    Lentelę, rodančią, kokiais laikais
+    Lietuvos miestams buvo suteiktos
+    Magdeburgo teisės. Dabar tik kai
+    kuriuos miestus palyginsime su Vil­
+    niumi.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+## Citatos
+
+- id: c-82462
+  citata_originali: |
+    Laikas nutrynė pėdsa­
+    kus raštuose: nežinia, kokių pokyčių miesto valdyme būta ir
+    kokių dar laisvių duota gyventojams tuo laikotarpiu, po pir­
+    mųjų Magdeburgo teisių suteikimo. Vien tik Vytauto privilegi­
+    jos Rygos, vokiečių ir rusų pirkliams, liudijančios, kaip uoliai
+    tas monarchas globojo prekybą savo sostinėje ir visoje šalyje,
+    išsilaikė iki mūsų dienų; tačiau, regis, kad miesto padėtis jo ad­
+    ministravimo atžvilgiu nedaug tesiskyrė nuo tos, kokią paliko
+    Vladislovas Jogaila, kai po krikščionybės įvedimo krašto val­
+    dymą buvo pavedęs Skirgailai. Numanu, kad Magdeburgo tei­
+    sės, karaliaus suteiktos miestui, buvo ne itin paveikios ne tik
+    dėl to, kad dar taip neseniai pakilę iš barbarybės miestiečiai prie
+    jų buvo dar nepripratę, bet ir dėl nuolatinės baimės bei su­
+    maišties per tuos žiaurius karus ir dažną karinės valdžios kiši­
+    mąsi į municipalinius valdymo reikalus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86482
+
+- id: c-176818
+  citata_originali: |
+    Tie
+    vardai liudija, kad juos turėjo ne tik
+    asmenys iš Jogailos giminės, kaip
+    dabar būtų linkę teigti kai kurie, pa­
+    tys turintys tokius ar panašius var­
+    dus, bet buvo tai lietuviški vardai,
+    pagonybės laikais turėti.
+    78
+    Šio veikalo kitame tome įdėsime
+    Lentelę, rodančią, kokiais laikais
+    Lietuvos miestams buvo suteiktos
+    Magdeburgo teisės. Dabar tik kai
+    kuriuos miestus palyginsime su Vil­
+    niumi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194216

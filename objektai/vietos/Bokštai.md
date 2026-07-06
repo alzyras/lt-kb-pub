@@ -10,6 +10,18 @@ tags:
   - pilis
   - vieta
   - vyskupas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Bokštai
 
@@ -22,9 +34,20 @@ I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu 
 <a id="claim-t-86173"></a>
 - t-001
   global_id: t-86173
-  teiginys: 'Bokštai buvo tarp valdų, kuriomis iškilmingu dovanojimo aktu buvo aprūpinta Vilniaus katedra.'
+  teiginys: "Bokštai buvo tarp valdų, kuriomis iškilmingu dovanojimo aktu buvo aprūpinta Vilniaus katedra."
+  semantiniai_rysiai: "Bokštai priklausė Vilniaus katedra (0.83)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "243217-243696; hash=a2b05c81000ebbbb9769499d32e5613678c07ab38299e30def47b1a0051e08c9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Vilniaus katedra: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bokštai: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Vilniaus katedra: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Bokštai išvardyti tarp valdų, kuriomis dovanojimo aktu buvo aprūpinta Vilniaus katedra."
   pagrindžia:
-    - c-001
+    - c-82152
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176382|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas Vilniuje pastatydino mūro tvirtovę, saugomą aukštų sienų ir trijų bokštų.
 - susijęs iš [[objektai/daiktai/Gotikinių pastatų gynybiniai bokštai, šaunamosios angos ir kryžminiai skliautai.md#claim-t-64922|Gotikinių pastatų gynybiniai bokštai, šaunamosios angos ir kryžminiai skliautai]]: Lietuvos gotikinės architektūros ypatumas – gynybinis pobūdis: net ir sakraliniai pastatai turėjo gynybinius bokštus ar šaunamąsias angas – Vytauto laikais daugiausia statyta būtent gynybinių statinių.
 - susijęs iš [[objektai/daiktai/Vilniaus pilys, sienos, bokštai, grioviai ir perkasos 1394 m. apgultyje.md#claim-t-87067|Vilniaus pilys, sienos, bokštai, grioviai ir perkasos 1394 m. apgultyje]]: 1394 m. Švitrigaila mėgino užimti Vilnių, įkalbėdamas vienuolius padegti du medinius bokštus puolimo metu.
@@ -90,11 +113,37 @@ I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu 
     teko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos
     istorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-82152
+  citata_originali: |
+    X, p. 112.
+    I1l
+
+    ## Puslapis 128
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    vyskupui, iškilmingu aktu dovanodamas kunigaikštišką
+    Tauragnų pilį su visu pavietu, Labanoro, Molėtų, Dambra-
+    vos, Verkių kaimus prie Vilniaus, Bokštus, didelius valsčius
+    Drohičino, Brastos ir Dubno pavietuose, su įvairiais ten ren­
+    kamais mokesčiais, dosniai aprūpino Vilniaus katedrą10. Ati­
+    teko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos
+    istorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė.
+  citata_rodoma: "112.\nI1l\n\n## Puslapis 128\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nvyskupui, iškilmingu aktu dovanodamas kunigaikštišką \nTauragnų pilį su visu pavietu, Labanoro, Molėtų, Dambra- \nvos, Verkių kaimus prie Vilniaus, Bokštus, didelius valsčius \nDrohičino, Brastos ir Dubno pavietuose, su įvairiais ten ren­\nkamais mokesčiais, dosniai aprūpino Vilniaus katedrą10. Ati­\nteko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos \nistorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86173
 
 ## Ryšiai
 - Bokštai priklausė [[objektai/vietos/Pskovas]], [[objektai/vietos/Vilniaus katedra]]

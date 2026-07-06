@@ -18,6 +18,18 @@ amziai:
   - 'XVI'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Izabelė Jogailaitė
 
@@ -30,10 +42,19 @@ Ir ši iki šiol neap­ rūpinta kraičiu dėl karų ir kitų šiais laikais mum
 <a id="claim-t-87696"></a>
 - t-001
   global_id: t-87696
-  teiginys: 'Izabelė Jogailaitė buvo karalaitė ir Vengrijos karalienė, kuriai buvo atiduotas kraitis.'
+  teiginys: "Izabelė Jogailaitė buvo karalaitė ir Vengrijos karalienė, kuriai buvo atiduotas kraitis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "661802-663918; hash=3d8dc8f05998dd845322fd62063a65e3f99d6d337f4a40e91d860de5064ecd97; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vengrija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Izabelė Jogailaitė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vengrija: mention_match, place, gap=37"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Izabelė Jogailaitė\" parinktas kaip owner_note_path. Targetas \"Vengrija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-83675
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -82,8 +103,62 @@ Ir ši iki šiol neap­ rūpinta kraičiu dėl karų ir kitų šiais laikais mum
     rims, aukščiau paminėtoms, kaip jų tikros motinos dalis pri­
     valo atitekti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83675
+  citata_originali: |
+    Prašome jų didenybių rnūsų
+    seserų, kad nesiteiktų mūsų bloguoju minėti, kad perspėjo-
+    me darydami šį gerą darbą dėl to, kad iš meilės Respublikai
+    ir pačioms jų didenybėms, nelinkime jokio sunkumo, kaip
+    pačioms jų didenybėms, taip ir Respublikai, kurio, tikime, kad
+    taip pat jų didenybės nei sau, nei Respublikai nelinkės; be to,
+    taip pat dar turime vieną seserį, kuri neišleista už vyro ir da­
+    lis jai neatiduota, turime po tėvų mirties likusią našlaitę jos
+    didenybę karalaitę Oną ir kitą jos didenybę karalaitę Kotry­
+    ną, Švedijos karalienę, jau išleistą už vyro. Ir ši iki šiol neap­
+    rūpinta kraičiu dėl karų ir kitų šiais laikais mums kilusių
+    sunkumų, taip pat norime, kad abiems jų didenybėms būtų
+    atiduoti kraičiai, kaip yra tai padaryta vyresniosioms mū­
+    sų seserims - jos didenybei karalaitei Izabelei, Vengrijos
+    —  • —
+    339
+
+    ## Puslapis 356
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    karalienei, ir jos didenybei karalaitei Sofijai, Braunsbergo
+    kunigaikštienei, tai yra, kad jų didenybėms taip pat, kaip
+    ir šioms, būtų duota grynais po tris dešimtis ir du tūkstan­
+    čius vengriškų zlotų auksu, o atskirai jos didenybei kara­
+    laitei Onai tūkstantį raudonųjų vengriškų zlotų auksu gry­
+    nais, taip pat visas mūsų teises, kurias tik turime po velionės
+    jos didenybės karalienės ponios motinos Bario ir Rezano ku­
+    nigaikštystėse ir kitą turtą - kilnojamąjį ir nekilnojamąjį -
+    Neapolio karalystėje arba tuo atžvilgiu, kas yra pas jo dide­
+    nybę Ispanijos karalių Pilypą, jų didenybėms perleidžiame,
+    duodame ir atsisakome taip pat įsipareigotos pagal Kroku­
+    vos seimo konstituciją 1540 metais, mūsų tarybų ponų ir
+    krašto pasiuntinių leidimu, tam tikras jos didenybės velio­
+    nės mūsų ponios motinos pinigų sumas tiek Krokuvos stalo
+    žemietijos valdose, čia, Lenkijoje, tiek ir LDK žemės valdo­
+    se, kas yra pažymėta Karalystėje ir Lietuvoje tam tikrais už­
+    rašymais ir raštais, taip pat yra aprašyta byla ir jos dideny­
+    bės ponios mūsų motinos mieste. Pagal ją visos sumos, kokiu
+    tik papročiu užrašytos, taip pat jų didenybėms mūsų sese­
+    rims, aukščiau paminėtoms, kaip jų tikros motinos dalis pri­
+    valo atitekti.
+  citata_rodoma: "Prašome jų didenybių rnūsų \nseserų, kad nesiteiktų mūsų bloguoju minėti, kad perspėjo- \nme darydami šį gerą darbą dėl to, kad iš meilės Respublikai \nir pačioms jų didenybėms, nelinkime jokio sunkumo, kaip \npačioms jų didenybėms, taip ir Respublikai, kurio, tikime, kad \ntaip pat jų didenybės nei sau, nei Respublikai nelinkės; be to, \ntaip pat dar turime vieną seserį, kuri neišleista už vyro ir da­\nlis jai neatiduota, turime po tėvų mirties likusią našlaitę jos \ndidenybę karalaitę Oną ir kitą jos didenybę karalaitę Kotry­\nną, Švedijos karalienę, jau išleistą už vyro. Ir ši iki šiol neap­\nrūpinta kraičiu dėl karų ir kitų šiais laikais mums kilusių \nsunkumų, taip pat norime, kad abiems jų didenybėms būtų \natiduoti kraičiai, kaip yra tai padaryta vyresniosioms mū­\nsų seserims - jos didenybei karalaitei Izabelei, Vengrijos\n—  • — \n339\n\n## Puslapis 356\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nkaralienei, ir jos didenybei karalaitei Sofijai, Braunsbergo \nkunigaikštienei, tai yra, kad jų didenybėms taip pat, kaip \nir šioms, būtų duota grynais po tris dešimtis ir du tūkstan­\nčius vengriškų zlotų auksu, o atskirai jos didenybei kara­\nlaitei Onai tūkstantį raudonųjų vengriškų zlotų auksu gry­\nnais, taip pat visas mūsų teises, kurias tik turime po velionės \njos didenybės karalienės ponios motinos Bario ir Rezano ku­\nnigaikštystėse ir kitą turtą - kilnojamąjį ir nekilnojamąjį - \nNeapolio karalystėje arba tuo atžvilgiu, kas yra pas jo dide­\nnybę Ispanijos karalių Pilypą, jų didenybėms perleidžiame, \nduodame ir atsisakome taip pat įsipareigotos pagal Kroku­\nvos seimo konstituciją 1540 metais, mūsų tarybų ponų ir \nkrašto pasiuntinių leidimu, tam tikras jos didenybės velio­\nnės mūsų ponios motinos pinigų sumas tiek Krokuvos stalo \nžemietijos valdose, čia, Lenkijoje, tiek ir LDK žemės valdo­\nse, kas yra pažymėta Karalystėje ir Lietuvoje tam tikrais už­\nrašymais ir raštais, taip pat yra aprašyta byla ir jos dideny­\nbės ponios mūsų motinos mieste."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87696

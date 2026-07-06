@@ -12,6 +12,18 @@ atnaujinta: ''
 tags: []
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vilniaus padienininkų rinkimasis prie rotušės
 
@@ -50,19 +62,41 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54741"></a>
-- t-001
+- t-002
   global_id: t-54741
-  teiginys: 'Vilniaus padienininkams nurodyta rinktis prie rotušės pagal Krokuvoje įvestos tvarkos pavyzdį.'
+  teiginys: "Vilniaus padienininkams nurodyta rinktis prie rotušės pagal Krokuvoje įvestos tvarkos pavyzdį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "551065-551620; hash=51291f3627a74df3fc74aba52489a452fe4591f01a252d31ea1fd31199feb370; match=whitespace_regex"
+  sprendimo_priezastis: "gap::customs"
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus padienininkų rinkimasis prie rotušės: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=60"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus padienininkų rinkimasis prie rotušės\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-55731
 
 <a id="claim-t-54742"></a>
-- t-002
+- t-001
   global_id: t-54742
-  teiginys: '1547 m. Vilniuje Žygimanto Augusto potvarkiu padienininkams nurodyta rinktis prie rotušės.'
+  teiginys: "1547 m. Vilniuje Žygimanto Augusto potvarkiu padienininkams nurodyta rinktis prie rotušės."
+  temporaliniai_duomenys: "įvykio data: 1547 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "551065-551620; hash=51291f3627a74df3fc74aba52489a452fe4591f01a252d31ea1fd31199feb370; match=whitespace_regex"
+  sprendimo_priezastis: "gap::customs"
+  ryšio_patikimumas: "susije_su -> Augustas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus padienininkų rinkimasis prie rotušės: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=50"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus padienininkų rinkimasis prie rotušės\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-55731
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -80,9 +114,34 @@ Nenurodyta
     rodyta rinktis prie rotušės, Krokuvoje įvestos tvarkos pa­
     vyzdžiu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-55731
+  citata_originali: |
+    Dvasios bažnyčią stovin­
+    čius33. Nepaprastas įvairaus maisto brangymetis 1547 me­
+    tais Vilniuje kilo dėl čionai atvykstančių karaliaus dvariš­
+    kių ir šiaip padaugėjus gyventojų; tai nulėmė reikšmingą
+    Žygimanto Augusto potvarkį, liečiantį supirkinėtojus, už
+    miesto superkančius visus iš kaimų atvežamus produktus
+    ir labai pakeliančius visa ko kainas. Taip pat, kad miesto
+    gyventojai savo reikmėms galėtų lengviau pasisamdyti pa­
+    dienius darbininkus, visiems padienininkams nuo tol nu­
+    rodyta rinktis prie rotušės, Krokuvoje įvestos tvarkos pa­
+    vyzdžiu.
+  citata_rodoma: "Nepaprastas įvairaus maisto brangymetis 1547 me­\ntais Vilniuje kilo dėl čionai atvykstančių karaliaus dvariš­\nkių ir šiaip padaugėjus gyventojų; tai nulėmė reikšmingą \nŽygimanto Augusto potvarkį, liečiantį supirkinėtojus, už \nmiesto superkančius visus iš kaimų atvežamus produktus \nir labai pakeliančius visa ko kainas. Taip pat, kad miesto \ngyventojai savo reikmėms galėtų lengviau pasisamdyti pa­\ndienius darbininkus, visiems padienininkams nuo tol nu­\nrodyta rinktis prie rotušės, Krokuvoje įvestos tvarkos pa­\nvyzdžiu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54742
+    - t-54741

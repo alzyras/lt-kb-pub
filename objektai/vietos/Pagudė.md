@@ -4,6 +4,7 @@ pavadinimas: 'Pagudė'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
   - '1237 m.'
   - '1277 m.'
@@ -16,6 +17,18 @@ tags:
   - vieta
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Pagudė
 
@@ -26,60 +39,189 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
 ## Teiginiai
 
 <a id="claim-t-91223"></a>
-- t-001
+- t-006
   global_id: t-91223
-  teiginys: 'Kristburgo komtūras Ditrichas Rodė antrosios atskalūnybės metais su brolių ir maldininkų šimtine apiplėšė Pagudės žemę.'
+  teiginys: "Kristburgo komtūras Ditrichas Rodė antrosios atskalūnybės metais su brolių ir maldininkų šimtine apiplėšė Pagudės žemę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "435643-436397; hash=5fc502d257032f0fa500d9874b04fd619d5ab821f2723695a895329f34ba965f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kristburgas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pagudė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kristburgas: mention_match, place, gap=106"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pagudė\" parinktas kaip owner_note_path. Targetas \"Kristburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-86954
 
 <a id="claim-t-91224"></a>
-- t-002
+- t-005
   global_id: t-91224
-  teiginys: '1237 m. magistras su broliais ir maldininkais atvyko į Pagudės žemę ir Elbingo upės saloje pastatė Elbingo pilį.'
+  teiginys: "1237 m. magistras su broliais ir maldininkais atvyko į Pagudės žemę ir Elbingo upės saloje pastatė Elbingo pilį."
+  temporaliniai_duomenys: "pastatymo data: 1237 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys gramatiškai ir tiksliai perteikia citatoje nurodytą įvykį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "256154-256842; hash=820bef1dc2369437aa33d8c458e6470794afb942f84e86793a6d9362827fafc7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Elbingas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pagudė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Elbingas: mention_match, place, gap=16"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pagudė\" parinktas kaip owner_note_path. Targetas \"Elbingas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-86947
 
 <a id="claim-t-91225"></a>
 - t-003
   global_id: t-91225
-  teiginys: 'Kai pavergta Pagudė ir kitos prūsų žemės vėl bandė sukilti prieš kryžiuočius, Skomanto vadovaujama kariuomenė 1277 m. siaubė Ordino valdas.'
+  teiginys: "Kai pavergta Pagudė ir kitos prūsų žemės vėl bandė sukilti prieš kryžiuočius, Skomanto vadovaujama kariuomenė 1277 m. siaubė Ordino valdas."
+  semantiniai_rysiai: "Sūduviai puolė Kristburgas (0.72); Lietuviai puolė Kristburgas (0.72)"
+  temporaliniai_duomenys: "įvykio data: 1277 m.; įvykio data: 1282 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys paremtas citata ir yra susijęs su Pagude."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "23087-23487; hash=22b1f40efa0e54b44e62a60596e6c9440f8b98476c368caf54d7f196ee59d6e9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Kristburgas: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sūduviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kristburgas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Skomanto vadovaujamoje kariuomenėje minimi sūduviai, o žygio riba nurodyta iki Kristburgo."
   pagrindžia:
-    - c-003
+    - c-86948
 
 <a id="claim-t-91226"></a>
-- t-004
+- t-008
   global_id: t-91226
-  teiginys: 'Magistras ir broliai, keršydami už nužudytuosius, įsiveržė į Pagudės žemę ir ją nusiaubė plėšdami, degindami bei imdami belaisvius.'
+  teiginys: "Magistras ir broliai, keršydami už nužudytuosius, įsiveržė į Pagudės žemę ir ją nusiaubė plėšdami, degindami bei imdami belaisvius."
+  semantiniai_rysiai: "Heilsbergas priklausė Pagudėnai (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "470565-471015; hash=645625a88d4e8646a0be1302736163a6e6b677c788265ea3b819d874663bee8e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Pagudėnai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Heilsbergas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Pagudėnai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Heilsbergo pilis buvo pagudėnų rankose."
   pagrindžia:
-    - c-001
+    - c-86946
 
 <a id="claim-t-91227"></a>
-- t-005
+- t-007
   global_id: t-91227
-  teiginys: 'Antrosios atskalūnybės metais keli Pagudės kilmingieji paliko tėvonijas, atvyko su šeimomis į Elbingą ir susidėjo su broliais.'
+  teiginys: "Antrosios atskalūnybės metais keli Pagudės kilmingieji paliko tėvonijas, atvyko su šeimomis į Elbingą ir susidėjo su broliais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "465708-466184; hash=08443d09dc597d48a8d9aaf894361f456219b80e927ecbbf1942e138caa19f60; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Elbingas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pagudė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Elbingas: mention_match, place, gap=59"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pagudė\" parinktas kaip owner_note_path. Targetas \"Elbingas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-86953
 
 <a id="claim-t-91228"></a>
-- t-006
+- t-002
   global_id: t-91228
-  teiginys: 'Petro iš Dusburgo kronikoje Pagudė nurodoma kaip viena iš vienuolikos Prūsijos žemės dalių.'
+  teiginys: "Petro iš Dusburgo kronikoje Pagudė nurodoma kaip viena iš vienuolikos Prūsijos žemės dalių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "6170-6754; hash=98300e6f36c0a1943451939476f38aa38804f53f3bea51fbd971bea16d686b9a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pagudė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pagudė\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-86951
 
 <a id="claim-t-91229"></a>
-- t-007
+- t-009
   global_id: t-91229
-  teiginys: 'Pavergę pamedėnus, magistras ir broliai 1237 m. atvyko į Pagudės žemę pradėti karo prieš pagudėnus.'
+  teiginys: "Pavergę pamedėnus, magistras ir broliai 1237 m. atvyko į Pagudės žemę pradėti karo prieš pagudėnus."
+  temporaliniai_duomenys: "kelionės data: 1237 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta taip, kad teiginys būtų aiškiau susietas su Pagudės žeme ir citatoje nurodytais veiksmais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "256154-256842; hash=820bef1dc2369437aa33d8c458e6470794afb942f84e86793a6d9362827fafc7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pagudėnai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pagudė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Pagudėnai: mention_match, group, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pagudė\" parinktas kaip owner_note_path. Targetas \"Pagudėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-86947
 
 <a id="claim-t-91230"></a>
-- t-008
+- t-004
   global_id: t-91230
-  teiginys: 'Pagudė buvo prūsų žemė į šiaurės rytus nuo Pamedės, vakaruose siekusi dabartinio Elbingo apylinkes.'
+  teiginys: "Pagudė buvo prūsų žemė į šiaurės rytus nuo Pamedės, vakaruose siekusi dabartinio Elbingo apylinkes."
+  semantiniai_rysiai: "Pagudė priklausė Prūsų žemė (0.90); Pagudė priklausė Elbingas (0.58)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "189973-190180; hash=c7e9cbb18bac34dd53fec5223d403ef7f369663336d01a4d5d8719cb61e8e6f1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Prūsų žemė: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pagudė: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Prūsų žemė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Pagudė apibūdinta kaip Prūsų žemė."
   pagrindžia:
-    - c-005
+    - c-86952
+
+<a id="claim-t-192712"></a>
+- t-010
+  global_id: t-192712
+  teiginys: "Narbutas Pagudės pavadinimą kildino iš Jesse arba Wesseke upės, prie kurios, jo aiškinimu, buvo šios žemės."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "468545-468826; hash=eb39016d22b1f8b39f7213f96c74f5d813de6a5449dd047e05f8ddcfbeae4f18; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175482
+
+<a id="claim-t-192713"></a>
+- t-011
+  global_id: t-192713
+  teiginys: "Pagudė vakaruose ribojosi su Pamede, nuo kurios ją skyrė Elbingo upė ir Drūsinės ežeras."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "644233-644594; hash=8a2f11645f98f013a49d3b997037a94c8d81d35e12b2fed17d658dd54ddd9997; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Drūsinė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pagudė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Drūsinė: mention_match, place, gap=72"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pagudė\" parinktas kaip owner_note_path. Targetas \"Drūsinė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175483
 - susijęs iš Glotava: Glotava laikoma pietrytiniu Pagudės valsčiumi.
 - susijęs iš Łowmiański H., Studja: Łowmiańskio veikalas nurodomas tarp šaltinių, kuriais remiamasi manant, kad Glotava buvo pietrytinis Pagudės valsčius.
 - susijęs iš [[objektai/asmenys/Ditrichas (Kristburgo komtūras).md#claim-t-60102|Ditrichas (Kristburgo komtūras)]]: Ditrichas Rodė, Kristburgo komtūras, antrosios atskalūnybės metais nusiaubė Pagudę ir mūšyje privertė prūsus bėgti.
@@ -134,6 +276,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
 - susijęs iš Elbingas: 1237 m. Ordino broliai Pagudėje pastatė pilį prie Elbingo upės ir pavadino ją Elbingu.
 - susijęs iš Elbingas: 1237 m. magistras su broliais ir maldininkais atvyko į Pagudę ir pastatė Elbingo pilį prie Elbingo upės žiočių.
 - susijęs iš Heilsbergas: Ordino magistras ir broliai užkariavo pagudėnų valdytą Heilsbergo pilį, jos žmones išžudė arba paėmė į nelaisvę.
+- susijęs iš Lovetės giria: Narbutas Lovetės, arba Loweten, girią mini kaip garsią Pamedės girią tarp kitų to krašto didelių miškų.
 - susijęs iš Pamedė: Antrosios atskalūnybės pradžioje pagudėnai su sūduviais ir kitomis Prūsijos gentimis išnaršė Pagudę bei Pamedę.
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70226|maldininkai / maldininko įžadai]]: Dusburgietis `maldininkais` vadina į Prūsiją atvykstančius ar joje paliekamus religinio karo talkininkus.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-184010|papilys]]: Pagudėnai ir jų sąjungininkai būtų galėję paimti Elbingo papilį, jei karys Virtelis nebūtų ietimi pervėręs jų vado.
@@ -154,6 +297,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
     išsivarydami į nelaisvę, o kitus išžudydami, ir nuo to laiko Prūsijos žemėje įsiviešpatavo
     taika.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -174,6 +318,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
     trukus buvusi netikėlių sunaikinta, tada ją perkėlė į tą vietą, kur ir dabar yra, o aplinkui
     išaugo miestas242.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -192,6 +337,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
     sūduvių ir lietuvių kariuomenė siaubė (1277 m.) Ordino valdas pavyslyje iki Kristburgo
     (III, 192).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -211,6 +357,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
     Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -226,6 +373,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
     rytų riba nurodoma labiau  į vakarus esanti Pasarės (Pasargės, dab. Paslenkos) upė
     (GAO, p.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -249,6 +397,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
 
                 169 (164).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -269,11 +418,213 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
     mergelę, ore vedančią paskui save brolių būrį. Šis regėjimas taip juos nugąsdino, taip
     palaužė jiems drąsą, kad niekam nė į galvą neatėjo gintis.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+- c-008
+  santrauka: 'Narbutas Pagudės pavadinimą kildino iš Jesse arba Wesseke upės, prie kurios, jo aiškinimu, buvo šios žemės.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    258
+    Pagudė (Pojessania.). Pavadinimą gavo nuo Jesse, ar­
+    ba Wesseke, upės, prie kurios ir buvo jos žemės; šios sri­
+    ties sudėtinė dalis buvo Hokerlandija, arba hokrų kraš­
+    tas, turėjęs taip vadintą gentį, o anot kitų, šis pavadini­
+    mas turėtų būti atsiradęs dėl vietovės kalvotumo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-009
+
+- c-009
+  santrauka: 'Pagudė vakaruose ribojosi su Pamede, nuo kurios ją skyrė Elbingo upė ir Drūsinės ežeras.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    346
+
+    ## Puslapis 357
+
+    Pagudė
+    Trečia — Pagirdės — provincija vakaruose ribojosi
+    su Pamede, nuo kurios ją skyrė Elbingo upė ir Drūsinės
+    ežeras. Šiaurėje ją skalavo Aistmarės, rytuose — Pasar-
+    gės, o pietuose — Veisiikos upės, bent jau ji driekėsi ne
+    toliau už tos upės ir jai priklausančios Holando kalvos.
+    Iš to jau matyti, jog ji buvo viena mažiausių apylinkių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-010
+
+## Citatos
+
+- id: c-86946
+  citata_originali: |
+    Magistras ir broliai, sujaudinti šio liūdno įvykio, pasiryžo atkeršyti už nužudytuosius,
+    subūrė visas savo karines jėgas ir, įsibrovę į Pagudės žemę, skersai ir išilgai ją nusiaubė,
+    plėsdami ir degindami, žudydami vyrus, o moteris bei vaikus išsivarydami  į nelaisvę.
+    Be to, užkariavo Heilsbergo pilį, kuri tuo metu buvo pagudėnų rankose, vienus žmones
+    išsivarydami į nelaisvę, o kitus išžudydami, ir nuo to laiko Prūsijos žemėje įsiviešpatavo
+    taika.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91226
+
+- id: c-86947
+  citata_originali: |
+    Apie karą su pagudėnais ir Elbingo pilies pastatymą
+
+       Iš dievo malonės pavergę pamedėnus, magistras bei broliai ryžosi užgriūti karo audra
+    pagudėnus. Dėl to magistras su broliais ir maldininkais, kuriuos buvo palikęs Meiseno
+    markgrafas, atvyko, pirmiausia išsiuntęs laivus su viskuo, kas būtina statybai, 1237
+    viešpaties įsikūnijimo metais  į Pagudės žemę,  į tą salą, kuri, pasak kai kurių, esanti
+    Elbingo upės viduryje, toje vietoje, kur Elbingas įteka  į Gėlo vandens marias, ir ten
+    pastatė pilį, kurią pavadino nuo upės vardo Elbingu. Kiti pasakoja, kad ši pilis neilgai
+    trukus buvusi netikėlių sunaikinta, tada ją perkėlė į tą vietą, kur ir dabar yra, o aplinkui
+    išaugo miestas242.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91229
+    - t-91224
+
+- id: c-86948
+  citata_originali: |
+    Vis dėlto Lietuva ir toliau liko pagrindinė,
+    vadovaujanti jėga kovoje prieš Ordiną. Traidenis (1269—1282 m.), remdamas žiemgalius,
+    telkė jėgas ir kovai Prūsijoje. Tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.) vėl
+    bandė sukilti prieš kryžiuočius, sūduvių kunigaikščio Skomanto vadovaujama galinga
+    sūduvių ir lietuvių kariuomenė siaubė (1277 m.) Ordino valdas pavyslyje iki Kristburgo
+    (III, 192).
+  citata_rodoma: "Tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.) vėl\nbandė sukilti prieš kryžiuočius, sūduvių kunigaikščio Skomanto vadovaujama galinga\nsūduvių ir lietuvių kariuomenė siaubė (1277 m.) Ordino valdas pavyslyje iki Kristburgo\n(III, 192)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91225
+
+- id: c-86951
+  citata_originali: |
+    Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
+    artimai  sieja  kalbos,  kultūros,  tradicijų,  senosios  religijos bendrumas,  teritorijos
+    vientisumas.
+      Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
+    atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
+    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
+    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
+    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
+  citata_rodoma: "Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ\n(Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba\n(Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),\nBárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91228
+
+- id: c-86952
+  citata_originali: |
+    Prūsų žemė į šiaurės rytus nuo
+    Pamedės, vakaruose siekė dab. Elbingo apylinkes, o rytuose — Alnos upę. Kartais kaip
+    rytų riba nurodoma labiau  į vakarus esanti Pasarės (Pasargės, dab. Paslenkos) upė
+    (GAO, p.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91230
+
+- id: c-86953
+  citata_originali: |
+    168 (163). Apie Elbingo brolių bei miestiečių kovas antrosios atskalūnybės metais ir
+               apie kai kuriuos tikinčiuosius pagudėnus, prisidėjusius prie brolių
+
+      Kai antrosios atskalūnybės metais stiprėjo krikščionių persekiojimas, kurie ne kurie
+    Pagudės kilmingieji, tiesa, vos keli, nepamiršę geradarybių, patirtų iš magistro ir brolių,
+    paliko tėvonijas449, atvyko su visais savo namais ir šeimyna į Elbingą ir ištikimai susidėjo
+    su broliais.
+
+
+
+
+                169 (164).
+  citata_rodoma: "Apie Elbingo brolių bei miestiečių kovas antrosios atskalūnybės metais ir\n           apie kai kuriuos tikinčiuosius pagudėnus, prisidėjusius prie brolių\n\n  Kai antrosios atskalūnybės metais stiprėjo krikščionių persekiojimas, kurie ne kurie\nPagudės kilmingieji, tiesa, vos keli, nepamiršę geradarybių, patirtų iš magistro ir brolių,\npaliko tėvonijas449, atvyko su visais savo namais ir šeimyna į Elbingą ir ištikimai susidėjo\nsu broliais.\n\n\n\n\n            169 (164)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91227
+
+- id: c-86954
+  citata_originali: |
+    Brolis Ditrichas, vardu Rodė, Kristburgo komtūras416, antrosios atskalūnybės metais
+    patraukė su šimtine brolių bei maldininkų žygin  ir, apiplėšęs Pagudės žemę, pasuko
+    namo, persekiojamas nesuskaitomos daugybės prūsų; negalėdamas išvengti susidūrimo,
+    pasisuko  į priešą, pasitikėdamas dievo gailestingumu, drąsiai pradėjo kovą ir privertė
+    prūsus bėgti, o broliai ir maldininkai, juos besivydami, tiek daug jų nukovė, kad vargu
+    per vieną dieną toks mažas karių pulkelis būtų kada pajėgęs nukauti. Paimtieji į nelaisvę
+    prūsai, kuriuos broliai surištus vedėsi su savimi, tikino matę mūšio metu gražių gražiausią
+    mergelę, ore vedančią paskui save brolių būrį. Šis regėjimas taip juos nugąsdino, taip
+    palaužė jiems drąsą, kad niekam nė į galvą neatėjo gintis.
+  citata_rodoma: "Brolis Ditrichas, vardu Rodė, Kristburgo komtūras416, antrosios atskalūnybės metais\npatraukė su šimtine brolių bei maldininkų žygin  ir, apiplėšęs Pagudės žemę, pasuko\nnamo, persekiojamas nesuskaitomos daugybės prūsų; negalėdamas išvengti susidūrimo,\npasisuko  į priešą, pasitikėdamas dievo gailestingumu, drąsiai pradėjo kovą ir privertė\nprūsus bėgti, o broliai ir maldininkai, juos besivydami, tiek daug jų nukovė, kad vargu\nper vieną dieną toks mažas karių pulkelis būtų kada pajėgęs nukauti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91223
+
+- id: c-175482
+  citata_originali: |
+    258
+    Pagudė (Pojessania.). Pavadinimą gavo nuo Jesse, ar­
+    ba Wesseke, upės, prie kurios ir buvo jos žemės; šios sri­
+    ties sudėtinė dalis buvo Hokerlandija, arba hokrų kraš­
+    tas, turėjęs taip vadintą gentį, o anot kitų, šis pavadini­
+    mas turėtų būti atsiradęs dėl vietovės kalvotumo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192712
+
+- id: c-175483
+  citata_originali: |
+    346
+
+    ## Puslapis 357
+
+    Pagudė
+    Trečia — Pagirdės — provincija vakaruose ribojosi
+    su Pamede, nuo kurios ją skyrė Elbingo upė ir Drūsinės
+    ežeras. Šiaurėje ją skalavo Aistmarės, rytuose — Pasar-
+    gės, o pietuose — Veisiikos upės, bent jau ji driekėsi ne
+    toliau už tos upės ir jai priklausančios Holando kalvos.
+    Iš to jau matyti, jog ji buvo viena mažiausių apylinkių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192713
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Derska]]

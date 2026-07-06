@@ -17,6 +17,18 @@ tags:
 amziai:
   - 'XVIII'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvių kalbų žodynas“
 
@@ -26,27 +38,86 @@ amziai:
 
 ## Teiginiai
 
-<a id="claim-t-101544"></a>
+<a id="claim-t-101547"></a>
 - t-001
-  global_id: t-101544
-  teiginys: 'Lietuvių kalba apibūdinta kaip gavusi daugiausia aukščiausių pagyrimų ir turinti savitą gražią bei aiškią fonologiją.'
+  global_id: t-101547
+  teiginys: "Lietuvių kalba apibūdinta kaip gavusi daugiausia aukščiausių pagyrimų ir turinti savitą gražią bei aiškią fonologiją."
+  semantiniai_rysiai: "Lietuva priklausė Rusija (0.93)"
+  temporaliniai_duomenys: "įvykio data: 1812 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "180467-181252; hash=e8825ed65636f6a15ac4991c5a631b220f8f2e0495927a77d084f4a01d0f8303; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Rusija: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Rusija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje tiesiogiai sakoma, kad Lietuva priklausė autokratinei Rusijos imperijai."
   pagrindžia:
-    - c-001
+    - c-23800
 
 <a id="claim-t-101545"></a>
-- t-002
+- t-003
   global_id: t-101545
-  teiginys: 'Kristijono Gotlibo Milkaus žodyno pratarmėje Immanuelis Kantas pabrėžė išskirtinius lietuvių kalbos pagyrimus.'
+  teiginys: "Kristijono Gotlibo Milkaus žodyno pratarmėje Immanuelis Kantas pabrėžė išskirtinius lietuvių kalbos pagyrimus."
+  semantiniai_rysiai: "Lietuva priklausė Rusija (0.93)"
+  temporaliniai_duomenys: "įvykio data: 1812 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "180467-181252; hash=e8825ed65636f6a15ac4991c5a631b220f8f2e0495927a77d084f4a01d0f8303; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Rusija: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Rusija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje tiesiogiai sakoma, kad Lietuva priklausė autokratinei Rusijos imperijai."
   pagrindžia:
-    - c-001
+    - c-23800
 
 <a id="claim-t-101546"></a>
-- t-003
+- t-004
   global_id: t-101546
-  teiginys: 'Immanuelio Kanto mintys apie lietuvių kalbą pateiktos Kristijono Gotlibo Milkaus žodyno pratarmėje.'
+  teiginys: "Immanuelio Kanto mintys apie lietuvių kalbą pateiktos Kristijono Gotlibo Milkaus žodyno pratarmėje."
+  semantiniai_rysiai: "Lietuva priklausė Rusija (0.93)"
+  temporaliniai_duomenys: "įvykio data: 1812 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia faktą apie Kanto tekstą žodyno pratarmėje; pašalintas skyriaus triukšmas ir netvarkinga citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "180467-181252; hash=e8825ed65636f6a15ac4991c5a631b220f8f2e0495927a77d084f4a01d0f8303; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Rusija: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Rusija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje tiesiogiai sakoma, kad Lietuva priklausė autokratinei Rusijos imperijai."
   pagrindžia:
-    - c-001
+    - c-23800
 
+<a id="claim-t-101547"></a>
+- t-001
+  global_id: t-101547
+  teiginys: "Lietuvių kalba apibūdinta kaip gavusi daugiausia aukščiausių pagyrimų ir turinti savitą gražią bei aiškią fonologiją."
+  semantiniai_rysiai: "Lietuva priklausė Rusija (0.93)"
+  temporaliniai_duomenys: "įvykio data: 1812 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "180467-181252; hash=e8825ed65636f6a15ac4991c5a631b220f8f2e0495927a77d084f4a01d0f8303; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Rusija: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Rusija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje tiesiogiai sakoma, kad Lietuva priklausė autokratinei Rusijos imperijai."
+  pagrindžia:
+    - c-23800
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -71,11 +142,45 @@ amziai:
     mečiui 1812 m. antrojoje pusėje įsiterpusį Napoleono Bonaparto „inter-
     liudą“).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
     - t-001
     - t-002
     - t-003
+
+## Citatos
+
+- id: c-23800
+  citata_originali: |
+    III s k y r i u s
+    Rusijos imperijos
+    valdoma Lietuva
+    (1795–1915)
+    „Iš tikrųjų jokia kita pasaulio kalba nėra gavusi tiek aukščiausių
+    pagyrimų kaip lietuvių kalba. Lietuvių tautai priskirta didelė garbė
+    už tai, kad ji sukūrė, išdailino detales ir vartojimą aukščiausiai
+    išvystytos žmonių kalbos su savita gražia ir aiškia fonologija.
+    Be to, pagal lyginamąją kalbotyrą, lietuvių kalba yra labiausiai
+    gebanti atstovauti pirmykštei arijų civilizacijai ir kultūrai“
+    Immanuel Kant (1724–1804)
+    Iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir
+     vokiečių–lietuvių kalbų žodyno“ pratarmės
+    Š
+    iuo laikotarpiu Lietuva (darant išlygą dėl Užnemunės)
+    priklausė autokratinei Rusijos imperijai (išskyrus pus-
+    mečiui 1812 m. antrojoje pusėje įsiterpusį Napoleono Bonaparto „inter-
+    liudą“).
+  citata_rodoma: "III s k y r i u s\nRusijos imperijos  \nvaldoma Lietuva  \n(1795–1915)\n„Iš tikrųjų jokia kita pasaulio kalba nėra gavusi tiek aukščiausių \npagyrimų kaip lietuvių kalba. Lietuvių tautai priskirta didelė garbė \nuž tai, kad ji sukūrė, išdailino detales ir vartojimą aukščiausiai \nišvystytos žmonių kalbos su savita gražia ir aiškia fonologija."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-101547
+    - t-101544
+    - t-101545
+    - t-101546

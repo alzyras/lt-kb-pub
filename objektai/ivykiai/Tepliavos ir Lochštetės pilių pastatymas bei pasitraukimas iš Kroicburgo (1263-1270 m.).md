@@ -17,6 +17,18 @@ tags:
   - sukilimas
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Tepliavos ir Lochštetės pilių pastatymas bei pasitraukimas iš Kroicburgo (1263-1270 m.)
 
@@ -45,10 +57,23 @@ Nenurodyta
 <a id="claim-t-62501"></a>
 - t-001
   global_id: t-62501
-  teiginys: 'Petro Dusburgiečio kronikoje Tepliavos ir Lochštetės pilių pastatymas aprašytas prieš pasitraukimą iš Kroicburgo, nors šis datuojamas 1263 m.'
+  teiginys: "Petro Dusburgiečio kronikoje Tepliavos ir Lochštetės pilių pastatymas aprašytas prieš pasitraukimą iš Kroicburgo, nors šis datuojamas 1263 m."
+  teiginio_tipas: "faktas"
+  temporaliniai_duomenys: "pastatymo data: 1263 m.; pastatymo data: 1265 m.; pastatymo data: 1270 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra apie kronikos chronologinį išdėstymą, todėl reikalinga autoriaus atribucija."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "83390-83825; hash=fede4ac65070ecac822f87143539970cac658be572dc4e78103ede310766a274; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kroicburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tepliavos ir Lochštetės pilių pastatymas bei pasitraukimas iš Kroicburgo (1263-1270 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Kroicburgas: mention_match, place, gap=73"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tepliavos ir Lochštetės pilių pastatymas bei pasitraukimas iš Kroicburgo (1263-1270 m.)\" parinktas kaip owner_note_path. Targetas \"Kroicburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-63173
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -63,8 +88,28 @@ Nenurodyta
     pastatyta 1265 m.., o antroji 1270 m.138), o jau po to aprašoma, kaip broliai pasitraukė
     iš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-63173
+  citata_originali: |
+    Netikslumai, tendencija
+
+      Petro  iš Dusburgo kronikoje ne viskas išdėstyta chronologine tvarka, pvz.,  pilių
+    statyba. Apžvelgiant Didžiojo prūsų sukilimo laikus, iš pradžių (nedatuojant) kalbama
+    apie Tepliavos  ir Lochštetės pilių pastatymą (III, 112) (iš analų žinome, jog pirmoji
+    pastatyta 1265 m.., o antroji 1270 m.138), o jau po to aprašoma, kaip broliai pasitraukė
+    iš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118).
+  citata_rodoma: "Netikslumai, tendencija\n\n  Petro  iš Dusburgo kronikoje ne viskas išdėstyta chronologine tvarka, pvz.,  pilių\nstatyba. Apžvelgiant Didžiojo prūsų sukilimo laikus, iš pradžių (nedatuojant) kalbama\napie Tepliavos  ir Lochštetės pilių pastatymą (III, 112) (iš analų žinome, jog pirmoji\npastatyta 1265 m.., o antroji 1270 m.138), o jau po to aprašoma, kaip broliai pasitraukė\niš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-62501

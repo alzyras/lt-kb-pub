@@ -15,6 +15,18 @@ tags:
   - reforma
 amziai:
   - 'XVIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Targovicos konfederacijos akto paskelbimas
 
@@ -43,10 +55,22 @@ Nenurodyta
 <a id="claim-t-77908"></a>
 - t-001
   global_id: t-77908
-  teiginys: 'Targovicos konfederacijos aktas buvo surašytas Peterburge ir paskelbtas 1792 m. gegužės 14 d.'
+  teiginys: "Targovicos konfederacijos aktas buvo surašytas Peterburge ir paskelbtas 1792 m. gegužės 14 d."
+  temporaliniai_duomenys: "įvykio data: 1792 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie akto surašymą ir paskelbimą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "171896-172530; hash=a5940e50b9a702cefab2582bcb1d7b6dedec92c974a98eb090b271d9d81a2460; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Peterburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Targovicos konfederacijos akto paskelbimas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Peterburgas: mention_match, place, gap=47"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Targovicos konfederacijos akto paskelbimas\" parinktas kaip owner_note_path. Targetas \"Peterburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-75224
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -66,8 +90,33 @@ Nenurodyta
     deratams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie
     Polocko, prasidėjo 1792 m. karas tarp LLV ir Rusijos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-75224
+  citata_originali: |
+    L I E T U V O S  I S T O R I J A
+    94
+    Lietuvos Didžiosios Kunigaikštijos
+    sunaikinimas
+    Gegužės trečiosios konstitucijos reformoms įnirtingai
+    priešinosi aristokratija ir visa konservatyvioji visuomenės dalis. Tačiau
+    opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus aršiausius
+    reformų priešininkus. Peterburge subrendo ir buvo surašytas Targovicos
+    (miestelis Ukrainoje, kuriame telkėsi reformų priešininkai) konfederaci-
+    jos aktas, paskelbtas 1792 m. gegužės 14 d. Netrukus į pagalbą konfe-
+    deratams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie
+    Polocko, prasidėjo 1792 m. karas tarp LLV ir Rusijos.
+  citata_rodoma: "L I E T U V O S  I S T O R I J A\n94\nLietuvos Didžiosios Kunigaikštijos \nsunaikinimas \nGegužės trečiosios konstitucijos reformoms įnirtingai \npriešinosi aristokratija ir visa konservatyvioji visuomenės dalis. Tačiau \nopozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus aršiausius \nreformų priešininkus. Peterburge subrendo ir buvo surašytas Targovicos \n(miestelis Ukrainoje, kuriame telkėsi reformų priešininkai) konfederaci-\njos aktas, paskelbtas 1792 m. gegužės 14 d."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77908

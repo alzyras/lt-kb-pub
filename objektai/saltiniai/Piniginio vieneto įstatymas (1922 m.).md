@@ -15,6 +15,18 @@ tags:
   - seimas
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Piniginio vieneto įstatymas (1922 m.)
 
@@ -27,10 +39,22 @@ Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatym
 <a id="claim-t-78136"></a>
 - t-001
   global_id: t-78136
-  teiginys: 'Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų.'
+  teiginys: "Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų."
+  temporaliniai_duomenys: "įvykio data: 1922 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys gramatiškas, konkretus ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "300783-301169; hash=6b4f5a079b0b6ee9112cefddcf4051a3ace8f877570639771efd52822f74a1a5; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Piniginio vieneto įstatymas (1922 m.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=56"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Piniginio vieneto įstatymas (1922 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-75444
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,8 +67,26 @@ Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatym
     auksu paremtas litas, kurį sudaro 100 centų. 1922 m. spalio 1 d. Lietuvoje
     įvestas litas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-75444
+  citata_originali: |
+    Sunkmečiu labai nukritęs vokiškų pinigų kursas neigiamai veikė Lie-
+    tuvos ekonomiką, katastrofiški infliacijos padariniai vertė Lietuvos valdžią
+    ieškoti sprendimo. Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Pi-
+    niginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra
+    auksu paremtas litas, kurį sudaro 100 centų. 1922 m. spalio 1 d. Lietuvoje
+    įvestas litas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78136

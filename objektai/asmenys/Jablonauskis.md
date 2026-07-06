@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jablonauskis
 
@@ -19,10 +31,12 @@ tags:
 <a id="claim-t-39747"></a>
 - t-001
   global_id: t-39747
-  teiginys: 'Vadas Jablonauskis sušaukė karius, pranešė apie „kirilo“ atsitraukimą ir liepė jiems dainuoti.'
+  teiginys: "Vadas Jablonauskis sušaukė karius, pranešė apie „kirilo“ atsitraukimą ir liepė jiems dainuoti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "660094-660303; hash=5d655db440069158f5cdc534abd46de7462d717ac651dce3661abd37b42a5a3a; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
-
+    - c-41551
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -32,8 +46,23 @@ tags:
     dainuoti. Uždainavom balsiai, kiek galėjome; miškas mums pritarė. Beskambant mūsų
     balsams, sugrįžo ir raitininkai netušti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-41551
+  citata_originali: |
+    [Vadas] Jablonauskis mus sušaukęs pareiškė, kad „kirilas“ jau atsitraukė ir liepė mums
+    dainuoti. Uždainavom balsiai, kiek galėjome; miškas mums pritarė. Beskambant mūsų
+    balsams, sugrįžo ir raitininkai netušti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-39747

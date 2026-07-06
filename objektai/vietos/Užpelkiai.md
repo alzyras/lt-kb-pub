@@ -13,6 +13,18 @@ tags:
   - vieta
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Užpelkiai
 
@@ -25,9 +37,22 @@ Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis, susitik
 <a id="claim-t-42237"></a>
 - t-001
   global_id: t-42237
-  teiginys: 'Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis ir susitikimas su vietos kovotojais.'
+  teiginys: "Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis ir susitikimas su vietos kovotojais."
+  temporaliniai_duomenys: "įvykio data: 1949 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pagrįstas, tik sujungtas į vieną sklandų sakinį pagal citatos turinį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "988542-989009; hash=92a8c72aa6bde6d4fc6c1e0d997bb8f7141987206195f595391131691c48c13b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Užpelkiai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Užpelkiai\" parinktas kaip owner_note_path. Targetas \"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-45388
 - susijęs iš [[objektai/asmenys/Petras Bartkus-Žadgaila.md#claim-t-39626|Petras Bartkus-Žadgaila]]: 1949 m. rugpjūčio 13 d. Užpelkių miške žuvo LLKS tarybos prezidiumo narys ir Prisikėlimo apygardos vadas Petras Bartkus-Žadgaila.
 - susijęs iš [[objektai/asmenys/Bronius Liesis-Naktis.md#claim-t-39499|Bronius Liesis-Naktis]]: Bronius Liesis-Naktis žuvo 1949 m. rugpjūčio 13 d., kai Užpelkių miške buvo sunaikintas Prisikėlimo apygardos štabas.
 - susijęs iš [[objektai/asmenys/Vytautas Šniuolis-Svajūnas.md#claim-t-39681|Vytautas Šniuolis-Svajūnas]]: 1949 m. rugpjūčio 13 d. Užpelkių miške žuvo Prisikėlimo apygardos štabo viršininkas Vytautas Šniuolis-Svajūnas.
@@ -70,11 +95,38 @@ Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis, susitik
     rašomąją mašinėlę išsiruošė į
     žygį.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-45388
+  citata_originali: |
+    1949 m. rugpjūčio 10 d. iš Kęstučio apy-
+    gardos atvyko Prisikėlimo apygardos
+    vadas Petras Bartkus-Žadgaila. Užpelkių
+    miške buvo numatytas Prisikėlimo apy-
+    gardos štabo posėdis, susitikimas su vie-
+    tos kovotojais. Po poros dienų partizanai
+    Vytautas Šniuolis-Svajūnas, Žadgaila,
+    Bronius Liesis-Naktis, Laurynas
+    Mingilas-Džiugas ir Viktoras
+    Šniuolis-Vitvytis rugpjūčio 12 d.
+    vakare susirinkę reikiamus do-
+    kumentus, pasiėmę rotatorių,
+    rašomąją mašinėlę išsiruošė į
+    žygį.
+  citata_rodoma: "iš Kęstučio apy-\ngardos atvyko Prisikėlimo apygardos\nvadas Petras Bartkus-Žadgaila. Užpelkių\nmiške buvo numatytas Prisikėlimo apy-\ngardos štabo posėdis, susitikimas su vie-\ntos kovotojais. Po poros dienų partizanai\nVytautas Šniuolis-Svajūnas, Žadgaila,\nBronius Liesis-Naktis, Laurynas\nMingilas-Džiugas ir Viktoras\nŠniuolis-Vitvytis rugpjūčio 12 d."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-42237
 
 ## Ryšiai
 - Mirties vieta: [[objektai/asmenys/Bronius Liesis-Naktis]], [[objektai/asmenys/Petras Bartkus-Žadgaila]], [[objektai/asmenys/Vytautas Šniuolis-Svajūnas]]

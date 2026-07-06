@@ -13,6 +13,18 @@ atnaujinta: ''
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Mirė tikrai mūsų tautos garbė.
 
@@ -29,18 +41,37 @@ Trumpa epitafinė formulė Vytauto mirtį įvardija kaip visos tautos garbės ne
 <a id="claim-t-67274"></a>
 - t-001
   global_id: t-67274
-  teiginys: 'Vytauto mirtis apibūdinta žodžiais, kad mirė tikrai mūsų tautos garbė.'
+  teiginys: "Vytauto mirtis apibūdinta žodžiais, kad mirė tikrai mūsų tautos garbė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "589246-589685; hash=c7a690c70f4f1c62286c3583a82155dc43a1764182fc06de7b51fb786b230aad; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mirė tikrai mūsų tautos garbė.: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mirė tikrai mūsų tautos garbė.\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-    - c-002
+    - c-14562
+    - c-14563
 
 <a id="claim-t-67275"></a>
 - t-002
   global_id: t-67275
-  teiginys: 'Vytautas mirė susitaikęs su Dievu, o jo kūnas aštuonias dienas buvo viešai išstatytas žmonių atsisveikinimui.'
+  teiginys: "Vytautas mirė susitaikęs su Dievu, o jo kūnas aštuonias dienas buvo viešai išstatytas žmonių atsisveikinimui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "589396-589814; hash=dd43463fae12fcf99e2052d2ab353ca42426a653ccd7ae52026d57f42db1f660; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kūnas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mirė tikrai mūsų tautos garbė.: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kūnas: mention_match, person, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mirė tikrai mūsų tautos garbė.\" parinktas kaip owner_note_path. Targetas \"Kūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
-
+    - c-37140
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -56,8 +87,9 @@ Trumpa epitafinė formulė Vytauto mirtį įvardija kaip visos tautos garbės ne
     talikas, susitaikinęs su Dievu, užmerkė akis ir paliko Lietuvą
     didelėms nelaimėms.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -68,8 +100,9 @@ Trumpa epitafinė formulė Vytauto mirtį įvardija kaip visos tautos garbės ne
     Mirė tikrai mūsų tautos
     garbė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -87,8 +120,59 @@ Trumpa epitafinė formulė Vytauto mirtį įvardija kaip visos tautos garbės ne
     šai išstatytas, kad galėtų žmonės paskutinį kartą atsisveikinti
     su savo dideliu valdovu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-14562
+  citata_originali: |
+    Ne tiktai
+    tikėjimu, bet ir protu suprantąs tos tiesos tikrumą, jog kiekvie­
+    nas žmogus kelsis iš numirusių ir susilauks atlyginimo pagal
+    savo darbus. Jei jis negerai suprantąs tą tiesą, prašo pamo­
+    kyti, nes esąs pasiruošęs išpildyti visus Katalikų Bažnyčios
+    nuostatus ir savo vyskupo pamokymus^3 ).
+    Taip tad Vytautas, didysis mūsų valdovas, kaip geras ka­
+    talikas, susitaikinęs su Dievu, užmerkė akis ir paliko Lietuvą
+    didelėms nelaimėms.
+  citata_rodoma: "Taip tad Vytautas, didysis mūsų valdovas, kaip geras ka­\ntalikas, susitaikinęs su Dievu, užmerkė akis ir paliko Lietuvą\ndidelėms nelaimėms."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67274
+
+- id: c-14563
+  citata_originali: |
+    Mirė tikrai mūsų tautos
+    garbė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67274
+
+- id: c-37140
+  citata_originali: |
+    Jei jis negerai suprantąs tą tiesą, prašo pamo­
+    kyti, nes esąs pasiruošęs išpildyti visus Katalikų Bažnyčios
+    nuostatus ir savo vyskupo pamokymus^3 ).
+    Taip tad Vytautas, didysis mūsų valdovas, kaip geras ka­
+    talikas, susitaikinęs su Dievu, užmerkė akis ir paliko Lietuvą
+    didelėms nelaimėms. Jo kūnas per aštuonias dienas buvo vie­
+    šai išstatytas, kad galėtų žmonės paskutinį kartą atsisveikinti
+    su savo dideliu valdovu.
+  citata_rodoma: "Taip tad Vytautas, didysis mūsų valdovas, kaip geras ka­\ntalikas, susitaikinęs su Dievu, užmerkė akis ir paliko Lietuvą\ndidelėms nelaimėms. Jo kūnas per aštuonias dienas buvo vie­\nšai išstatytas, kad galėtų žmonės paskutinį kartą atsisveikinti\nsu savo dideliu valdovu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67275

@@ -17,6 +17,18 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Marquardas von Salzbachas
 
@@ -27,26 +39,61 @@ Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris M
 ## Teiginiai
 
 <a id="claim-t-30358"></a>
-- t-001
+- t-003
   global_id: t-30358
-  teiginys: 'Marquardas von Salzbachas padėjo Vytautui pataikyti į palankų momentą Ordine.'
+  teiginys: "Marquardas von Salzbachas padėjo Vytautui pataikyti į palankų momentą Ordine."
+  semantiniai_rysiai: "Marquardas von Salzbachas rėmė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.86)"
+  temporaliniai_duomenys: "įvykio data: po 1388 m.; įvykio data: 1388 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "832329-832570; hash=293369d0930c44b04f0847b13e9e4df6823d00df7efd0a18dc503dfc3a5a1f1d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Marquardas von Salzbachas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Salzbachas padėjo Vytautui."
   pagrindžia:
-    - c-001
+    - c-32789
 
 <a id="claim-t-30359"></a>
 - t-002
   global_id: t-30359
-  teiginys: 'Marquardas von Salzbachas buvo uolus Vytauto patarėjas.'
+  teiginys: "Marquardas von Salzbachas buvo uolus Vytauto patarėjas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "832211-832425; hash=2d9c0b4660db0b6ee9509f42a257fbf4167328cc0eba6087e674702e781c789a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Liublinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Marquardas von Salzbachas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Liublinas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Marquardas von Salzbachas\" parinktas kaip owner_note_path. Targetas \"Liublinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-32790
 
 <a id="claim-t-30360"></a>
-- t-003
+- t-001
   global_id: t-30360
-  teiginys: 'Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris Marquardas von Salzbachas.'
+  teiginys: "Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris Marquardas von Salzbachas."
+  temporaliniai_duomenys: "įvykio data: po 1384 m.; įvykio data: 1384 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie asmens vaidmenį ir remiasi citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "831901-832210; hash=643a453e0c929c720faf496cda2226cdbd13a943fe7703006b6d758090c607f8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gardinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Marquardas von Salzbachas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Gardinas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Marquardas von Salzbachas\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
-
+    - c-32791
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -58,6 +105,7 @@ Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris M
     laimingą momentą. Tarp Jogailos ir vyr. magistro nuo 1388 m.
     pradžios buvo užsimezgusios derybos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -73,6 +121,7 @@ Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris M
     Kęstutaitis turėjo pasižadėti juo ir kitais įkalbinėtojais daugiau
     «nebetikėti».
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -88,11 +137,59 @@ Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris M
     ordino riteris Marquardas von Salzbachas. Drauge su kitu kryžiuo­
     čiu (grafu Reineck) jis nuo 1384 m. buvo Vytauto nelaisvėje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-32789
+  citata_originali: |
+    Dėl to Liubline
+    Kęstutaitis turėjo pasižadėti juo ir kitais įkalbinėtojais daugiau
+    «nebetikėti». Salzbacho padedamas, Vytautas pataikė ordine į
+    laimingą momentą. Tarp Jogailos ir vyr. magistro nuo 1388 m.
+    pradžios buvo užsimezgusios derybos.
+  citata_rodoma: "Salzbacho padedamas, Vytautas pataikė ordine į\nlaimingą momentą. Tarp Jogailos ir vyr."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-30358
+
+- id: c-32790
+  citata_originali: |
+    Jiedu
+    ir buvo pasiųsti pas vyriausią magistrą. Jau anksčiau buvo žinoma,
+    kad Salzbachas buvo uolus Vytauto patarėjas. Dėl to Liubline
+    Kęstutaitis turėjo pasižadėti juo ir kitais įkalbinėtojais daugiau
+    «nebetikėti».
+  citata_rodoma: "Jau anksčiau buvo žinoma,\nkad Salzbachas buvo uolus Vytauto patarėjas. Dėl to Liubline\nKęstutaitis turėjo pasižadėti juo ir kitais įkalbinėtojais daugiau\n«nebetikėti»."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-30359
+
+- id: c-32791
+  citata_originali: |
+    Su savo šalininkais jis skubiai kėlėsi į Gardiną ir iš čia mezgė san­
+    tykius su ordinu, žadėdamas vykdyti 1384 m. sutartį.
+    Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo
+    ordino riteris Marquardas von Salzbachas. Drauge su kitu kryžiuo­
+    čiu (grafu Reineck) jis nuo 1384 m. buvo Vytauto nelaisvėje.
+  citata_rodoma: "Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo\nordino riteris Marquardas von Salzbachas. Drauge su kitu kryžiuo­\nčiu (grafu Reineck) jis nuo 1384 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-30360
 
 ## Ryšiai
 - Marquardas von Salzbachas rėmė [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

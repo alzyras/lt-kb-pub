@@ -17,6 +17,18 @@ tags:
   - seimas
 amziai:
   - 'XVIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Rusijos imperijos vietinė luominė savivalda ir bajorų seimeliai
 
@@ -49,17 +61,42 @@ Nenurodyta
 <a id="claim-t-54337"></a>
 - t-001
   global_id: t-54337
-  teiginys: 'Apskrities bajorų susirinkimas rinko kai kuriuos už viešąją tvarką atsakingus pareigūnus ir žemutinės teismų grandies teisėjus.'
+  teiginys: "Apskrities bajorų susirinkimas rinko kai kuriuos už viešąją tvarką atsakingus pareigūnus ir žemutinės teismų grandies teisėjus."
+  temporaliniai_duomenys: "įvykio data: 1795 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako bajorų susirinkimo funkciją ir yra paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "184968-185660; hash=ca221e0210fb3efc97df5372c3e7e7cb0bbbcaa91bcaf617332052cecea625d1; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rusijos imperijos vietinė luominė savivalda ir bajorų seimeliai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusijos imperijos vietinė luominė savivalda ir bajorų seimeliai\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-55203
 
 <a id="claim-t-54339"></a>
-- t-002
+- t-003
   global_id: t-54339
-  teiginys: '1795 m. Rusijos aneksuotoje LDK dalyje buvo įvesta vietinio valdymo sistema su bajorų susirinkimais.'
+  teiginys: "1795 m. Rusijos aneksuotoje LDK dalyje buvo įvesta vietinio valdymo sistema su bajorų susirinkimais."
+  temporaliniai_duomenys: "įvykio data: 1795 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiksliai perteikia citatos informaciją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "184968-185660; hash=ca221e0210fb3efc97df5372c3e7e7cb0bbbcaa91bcaf617332052cecea625d1; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rusijos imperijos vietinė luominė savivalda ir bajorų seimeliai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=71"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusijos imperijos vietinė luominė savivalda ir bajorų seimeliai\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-55203
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -77,9 +114,34 @@ Nenurodyta
     ma buvo įvesta ir 1795 m. Rusijos aneksuotoje LDK dalyje, kurioje gyveno
     per 1,8 mln. žmonių, iš jų 1,1 mln. etnografinėje Lietuvoje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-55203
+  citata_originali: |
+    L I E T U V O S  I S T O R I J A
+    100
+    Nuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir
+    savivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirin-
+    kimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba su-
+    bluomų, savivalda. Tai nesavarankiškos vietinės valdžios šakos, prižiūrimos
+    vietos administracijos, atlikusios iš esmės pagalbines funkcijas. Apskrities
+    bajorų susirinkimas rinko kai kuriuos už viešąją tvarką atsakingus parei-
+    gūnus, žemutinės teismų grandies teisėjus. Tokia vietinio valdymo siste-
+    ma buvo įvesta ir 1795 m. Rusijos aneksuotoje LDK dalyje, kurioje gyveno
+    per 1,8 mln. žmonių, iš jų 1,1 mln. etnografinėje Lietuvoje.
+  citata_rodoma: "L I E T U V O S  I S T O R I J A\n100\nNuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir \nsavivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirin-\nkimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba su-\nbluomų, savivalda. Tai nesavarankiškos vietinės valdžios šakos, prižiūrimos \nvietos administracijos, atlikusios iš esmės pagalbines funkcijas. Apskrities \nbajorų susirinkimas rinko kai kuriuos už viešąją tvarką atsakingus parei-\ngūnus, žemutinės teismų grandies teisėjus. Tokia vietinio valdymo siste-\nma buvo įvesta ir 1795 m. Rusijos aneksuotoje LDK dalyje, kurioje gyveno \nper 1,8 mln. žmonių, iš jų 1,1 mln. etnografinėje Lietuvoje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54339
+    - t-54337

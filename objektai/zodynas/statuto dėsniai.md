@@ -16,6 +16,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # statuto dėsniai
 
@@ -26,26 +38,58 @@ Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalau
 ## Teiginiai
 
 <a id="claim-t-70335"></a>
-- t-001
+- t-002
   global_id: t-70335
-  teiginys: 'Unijos akte reikalauti pakeisti statuto nuostatai Lietuvoje nebuvo pakeisti.'
+  teiginys: "Unijos akte reikalauti pakeisti statuto nuostatai Lietuvoje nebuvo pakeisti."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "532920-533189; hash=8373ea3df801d0e1a9be9f3a504a5835341a776ba9d69a193a2d9ad41b4c5170; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "statuto dėsniai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"statuto dėsniai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-46929
 
 <a id="claim-t-70336"></a>
-- t-002
+- t-001
   global_id: t-70336
-  teiginys: 'Statuto dėsniai draudė lenkams įsigyti dvarų Lietuvoje, o vienas unijos nuostatas reikalavo šį draudimą panaikinti.'
+  teiginys: "Statuto dėsniai draudė lenkams įsigyti dvarų Lietuvoje, o vienas unijos nuostatas reikalavo šį draudimą panaikinti."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "531047-531597; hash=1f5eb7c976f411e7436b9ae85340034833bff74d91b23fc4ba63d0b515e2e82a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "statuto dėsniai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"statuto dėsniai\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-46928
 
 <a id="claim-t-182978"></a>
 - t-003
   global_id: t-182978
-  teiginys: 'Unijos akte reikalauta panaikinti Lietuvos statuto dėsnius, draudusius lenkams įsigyti dvarų Lietuvoje.'
+  teiginys: "Unijos akte reikalauta panaikinti Lietuvos statuto dėsnius, draudusius lenkams įsigyti dvarų Lietuvoje."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "531260-531668; hash=e617215ad1d4cfb84d40d5da1fa738b86337ddae97c80921e88d24124bbb2633; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "statuto dėsniai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"statuto dėsniai\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
-
+    - c-166376
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -62,8 +106,9 @@ Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalau
     panaikinti visus Lietuvos įstatymus (statuto dėsnius), drau-
     džiančius lenkams įsigyti Lietuvoje dvarų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -78,6 +123,7 @@ Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalau
     statai niekad nebuvo pakeisti. Tuo būdu iš visos unijos liko
     tik bendras valdovas ir bendri seimai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -97,8 +143,63 @@ Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalau
     Tokie buvo unijos akto nuostatai, įtraukti į jį, lenkams
     reikalaujant.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-46928
+  citata_originali: |
+    To-
+    liau dar nustatoma, kad abi jungtinės valstybės turėsiančios
+    bendrus seimus (§ 8), kurie visada rinksiąsi Lenkijoje (§ 16;
+    sudarius uniją, tas pats Liublino seimas nutarė, kad seimai
+    turės rinktis Varšuvoje). Kitais unijos akto paragrafais nusta-
+    toma, kad turėsianti būti bendra abiejų valstybių užsienio poli-
+    tika (§ 11) ir bendras piniginis vienetas (§ 12). Pagaliau įveda-
+    mas dar vienas — lenkams pats svarbusis — nuostatas, reikalaująs
+    panaikinti visus Lietuvos įstatymus (statuto dėsnius), drau-
+    džiančius lenkams įsigyti Lietuvoje dvarų.
+  citata_rodoma: "Pagaliau įveda-\nmas dar vienas — lenkams pats svarbusis — nuostatas, reikalaująs\npanaikinti visus Lietuvos įstatymus (statuto dėsnius), drau-\ndžiančius lenkams įsigyti Lietuvoje dvarų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-70336
+
+- id: c-46929
+  citata_originali: |
+    Vėliau jiems buvo leista įsigyti dvarų tik ve-
+    dybomis. O valstybinių urėdų jie niekuomet negalėjo gauti
+    Lietuvoje, nes unijos akte reikalaujamieji pakeisti statuto nuo-
+    statai niekad nebuvo pakeisti. Tuo būdu iš visos unijos liko
+    tik bendras valdovas ir bendri seimai.
+  citata_rodoma: "O valstybinių urėdų jie niekuomet negalėjo gauti\nLietuvoje, nes unijos akte reikalaujamieji pakeisti statuto nuo-\nstatai niekad nebuvo pakeisti. Tuo būdu iš visos unijos liko\ntik bendras valdovas ir bendri seimai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-70335
+
+- id: c-166376
+  citata_originali: |
+    Kitais unijos akto paragrafais nusta-
+    toma, kad turėsianti būti bendra abiejų valstybių užsienio poli-
+    tika (§ 11) ir bendras piniginis vienetas (§ 12). Pagaliau įveda-
+    mas dar vienas — lenkams pats svarbusis — nuostatas, reikalaująs
+    panaikinti visus Lietuvos įstatymus (statuto dėsnius), drau-
+    džiančius lenkams įsigyti Lietuvoje dvarų.
+    Tokie buvo unijos akto nuostatai, įtraukti į jį, lenkams
+    reikalaujant.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182978

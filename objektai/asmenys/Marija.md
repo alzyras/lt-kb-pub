@@ -2,11 +2,24 @@
 tipas: asmuo
 pavadinimas: 'Marija'
 saltiniai:
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Marija
 
@@ -19,9 +32,32 @@ Bet jam pavyko dvi savo karalystes — Vengrų ir Len­ kijos — paskirti savo 
 <a id="claim-t-35219"></a>
 - t-001
   global_id: t-35219
-  teiginys: 'Liudviko duktė Marija tėvui mirštant buvo sužieduota su Brandenburgo markgrafu, vėliau tapusiu ciesoriumi Zigmantu.'
+  teiginys: "Liudviko duktė Marija tėvui mirštant buvo sužieduota su Brandenburgo markgrafu, vėliau tapusiu ciesoriumi Zigmantu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "366530-366891; hash=22e41bb9e777ff0eddc39f3c9d8431bf6cb9b5323d42464afc9d9e40e173ea6b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Austrija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Marija: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Austrija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Marija\" parinktas kaip owner_note_path. Targetas \"Austrija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-38089
+
+<a id="claim-t-193954"></a>
+- t-002
+  global_id: t-193954
+  teiginys: "Paskui, po didžiojo kunigaikš čio Algirdo mirties praėjus dvejiems ar daugiau metų, didysis kunigaikštis Jogaila jį labai aukštai iškėlė ir išleido už jo tikrą savo seserį, kunigaikštytę Mariją 3 B , kuri buvo pirmiau ištekėjusi už kunigaikščio Dovydo 4 0 ."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "136156-136873; hash=b5b8050111af537eb062e4ebb34dd652685d8d4295b8f132616bcbdd16d032d3; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176579
 - susijęs iš [[objektai/asmenys/Dimitras (Tverės kunigaikštis).md#claim-t-97314|Dimitras (Tverės kunigaikštis)]]: Gedimino duktė Marija ištekėjo už didžiojo Tverės kunigaikščio Dimitro, Mykolo sūnaus.
 - susijęs iš [[objektai/asmenys/Jonas Marija.md#claim-t-87726|Jonas Marija]]: Jonas Marija buvo architektas ir raižytojas, savo meno kūriniais papuošęs Vilnių.
 - susijęs iš [[objektai/asmenys/Marija (Algirdo žmona).md#claim-t-87545|Marija (Algirdo žmona)]]: Marija buvo Tverės kunigaikštytė ir Algirdo žmona.
@@ -91,11 +127,77 @@ Bet jam pavyko dvi savo karalystes — Vengrų ir Len­ kijos — paskirti savo 
     Austrijos hercogu Vilhelmu ir antroji (12 metų) su Brandenbur­
     go markagrafu, vėliau tapusiu ciesorium Zigmantu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Paskui, po didžiojo kunigaikš čio Algirdo mirties praėjus dvejiems ar daugiau metų, didysis kunigaikštis Jogaila jį labai aukštai iškėlė ir išleido už jo tikrą savo seserį, kunigaikštytę Mariją 3 B , kuri buvo pirmiau ištekėjusi už kunigaikščio Dovydo 4 0 .'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Buvo vienas žmogus3 6 , didžiojo kunigaikščio Algir­
+    do tarnas, vergas, vardu Vaidila3 7 ; iš pradžių buvo
+    kepėju, paskui kunigaikštis pristatė jį kloti patalą ir pa­
+    davinėti jam geriamą vandenį, o ilgainiui didysis kuni­
+    gaikštis jį net labai pamėgo ir davė jam valdyti Ly­
+    d ą 3 4  ir išvedė į žmones. Paskui, po didžiojo kunigaikš­
+    čio Algirdo mirties praėjus dvejiems ar daugiau metų,
+    didysis kunigaikštis Jogaila jį labai aukštai iškėlė ir
+    išleido už jo tikrą savo seserį, kunigaikštytę Mariją 3 B ,
+    kuri buvo pirmiau ištekėjusi už kunigaikščio Dovydo 4 0 .
+    Didžiajam kunigaikščiui Kęstučiui tai sukėlė didžiausią
+    pyktį ir gailestį dėl tos jo giminaitės, o [Jogailos] se­
+    sers, kam ją ištekino už vergo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+## Citatos
+
+- id: c-38089
+  citata_originali: |
+    Tuo laiku mirė lenkų karalius Liudvikas, nepalikęs nė vieno
+    įpėdinio. Bet jam pavyko dvi savo karalystes — Vengrų ir Len­
+    kijos — paskirti savo dviem dukterim: Jadvygai ir Marijai. Abi
+    jos, tėvui mirštant, jau buvo sužieduotos: pirmoji (11 metų) su
+    Austrijos hercogu Vilhelmu ir antroji (12 metų) su Brandenbur­
+    go markagrafu, vėliau tapusiu ciesorium Zigmantu.
+  citata_rodoma: "Bet jam pavyko dvi savo karalystes — Vengrų ir Len­\nkijos — paskirti savo dviem dukterim: Jadvygai ir Marijai. Abi\njos, tėvui mirštant, jau buvo sužieduotos: pirmoji (11 metų) su\nAustrijos hercogu Vilhelmu ir antroji (12 metų) su Brandenbur­\ngo markagrafu, vėliau tapusiu ciesorium Zigmantu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-35219
+
+- id: c-176579
+  citata_originali: |
+    Buvo vienas žmogus3 6 , didžiojo kunigaikščio Algir­
+    do tarnas, vergas, vardu Vaidila3 7 ; iš pradžių buvo
+    kepėju, paskui kunigaikštis pristatė jį kloti patalą ir pa­
+    davinėti jam geriamą vandenį, o ilgainiui didysis kuni­
+    gaikštis jį net labai pamėgo ir davė jam valdyti Ly­
+    d ą 3 4  ir išvedė į žmones. Paskui, po didžiojo kunigaikš­
+    čio Algirdo mirties praėjus dvejiems ar daugiau metų,
+    didysis kunigaikštis Jogaila jį labai aukštai iškėlė ir
+    išleido už jo tikrą savo seserį, kunigaikštytę Mariją 3 B ,
+    kuri buvo pirmiau ištekėjusi už kunigaikščio Dovydo 4 0 .
+    Didžiajam kunigaikščiui Kęstučiui tai sukėlė didžiausią
+    pyktį ir gailestį dėl tos jo giminaitės, o [Jogailos] se­
+    sers, kam ją ištekino už vergo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193954
 
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Dimitras (Tverės kunigaikštis)]]

@@ -14,6 +14,18 @@ tags:
   - reforma
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Estijos liaudies frontas
 
@@ -26,10 +38,22 @@ amziai:
 <a id="claim-t-19677"></a>
 - t-001
   global_id: t-19677
-  teiginys: 'Estijos liaudies frontas buvo įsteigtas 1988 m. balandžio 13 d. kaip neformalus judėjimas reformoms vykdyti.'
+  teiginys: "Estijos liaudies frontas buvo įsteigtas 1988 m. balandžio 13 d. kaip neformalus judėjimas reformoms vykdyti."
+  temporaliniai_duomenys: "įvykio data: 1988 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata tiesiogiai palaiko aiškesnį faktą apie įsteigimą ir judėjimo pobūdį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "483191-483618; hash=f1313848bf2188237126dee12ef9ea90c9348880fc5f143f068f0efefa003ea7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Estija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Estijos liaudies frontas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Estija: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Estijos liaudies frontas\" parinktas kaip owner_note_path. Targetas \"Estija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-22382
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,8 +68,28 @@ amziai:
     vykdyti, pasirodė, kad sovietų valdžia vengia imtis represijų prieš veikliau-
     sius pertvarkos šalininkus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-22382
+  citata_originali: |
+    Nuo rašytojų
+    neatsiliko Dailininkų sąjunga, ekonomistai ir filosofai. Kritiškai mąstantys
+    ir prieš valdžią nusiteikę Lietuvos inteligentai atidžiai sekė M. Gorbačiovo
+    vykdomą pertvarką, pokyčius sovietinėse respublikose. 1988 m. balandžio
+    13 d. Estijoje įsteigus Estijos liaudies frontą, neformalų judėjimą reformoms
+    vykdyti, pasirodė, kad sovietų valdžia vengia imtis represijų prieš veikliau-
+    sius pertvarkos šalininkus.
+  citata_rodoma: "13 d. Estijoje įsteigus Estijos liaudies frontą, neformalų judėjimą reformoms"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-19677

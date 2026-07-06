@@ -16,6 +16,18 @@ tags:
   - paprotys
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Rusų administracijos dokumentų leidyba ir kultūrinės reakcijos stebėsena
 
@@ -48,10 +60,22 @@ Nenurodyta
 <a id="claim-t-87252"></a>
 - t-001
   global_id: t-87252
-  teiginys: 'Rusų administracija leido dokumentų rinkinius, kuriais tendencingai siekė įrodyti rusiškos ortodoksiškos civilizacijos tradicijas Šiaurės Vakarų krašte.'
+  teiginys: "Rusų administracija leido dokumentų rinkinius, kuriais tendencingai siekė įrodyti rusiškos ortodoksiškos civilizacijos tradicijas Šiaurės Vakarų krašte."
+  temporaliniai_duomenys: "įvykio data: 1835 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir paremtas citatos formuluote."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "10539-11036; hash=cb3458c6ce15d68a45c60e7376c61822d9f8b7dd6944e0d7d2b7f642e77f5ceb; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rusų administracijos dokumentų leidyba ir kultūrinės reakcijos stebėsena: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusų administracijos dokumentų leidyba ir kultūrinės reakcijos stebėsena\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-83231
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -71,8 +95,33 @@ Nenurodyta
     stengtasi įrodyti rusiškosios, ortodoksiškos civilizacijos tradici­
     jas Šiaurės Vakarų krašte.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83231
+  citata_originali: |
+    1835 m. pasirodė T. Narbuto istorijos pirmasis tomas, kitais
+    metais - pirmoji M. Balinskio Vilniaus miesto istorijos dalis. Lie­
+    tuvos visuomenė tiesiog alsavo praeitimi: istorikų darbai buvo
+    aptarinėjami bajorų pobūviuose, buvo kaupiamos privačios ar­
+    cheologinių radinių ir meno kolekcijos. Rusų administracija taip
+    IX
+
+    ## Puslapis 10
+
+    pat rengė ir leido dokumentų rinkinius, kuriuose tendencingai
+    stengtasi įrodyti rusiškosios, ortodoksiškos civilizacijos tradici­
+    jas Šiaurės Vakarų krašte.
+  citata_rodoma: "Lie­\ntuvos visuomenė tiesiog alsavo praeitimi: istorikų darbai buvo \naptarinėjami bajorų pobūviuose, buvo kaupiamos privačios ar­\ncheologinių radinių ir meno kolekcijos. Rusų administracija taip\nIX\n\n## Puslapis 10\n\npat rengė ir leido dokumentų rinkinius, kuriuose tendencingai \nstengtasi įrodyti rusiškosios, ortodoksiškos civilizacijos tradici­\njas Šiaurės Vakarų krašte."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87252

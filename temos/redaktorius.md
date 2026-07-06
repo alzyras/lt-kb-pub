@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 27.
+Objektų skaičius: 28.
 
 ## Kaip naudoti
 
@@ -29,6 +29,7 @@ Objektų skaičius: 27.
 - [[objektai/autoriai/Dr. J. Šliūpas]]
 - [[objektai/autoriai/Inga Vinogradnaitė]]
 - [[objektai/autoriai/Jonas Arvasevičius]]
+- [[objektai/autoriai/Jonas Basanavičius]]
 - [[objektai/autoriai/K. Jablonskis]]
 - [[objektai/autoriai/Konstantinas Jablonskis]]
 - [[objektai/autoriai/Kuršaitis (redaktorius, 1849–1880 m.)]]
@@ -51,6 +52,6 @@ Objektų skaičius: 27.
 - [[objektai/paprociai/Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]
 
 ### Įvykiai
-- [[objektai/ivykiai/„Aušros“ leidimo pradžia]]
+- [„Aušros“ leidimo pradžia](../objektai/ivykiai/%E2%80%9EAu%C5%A1ros%E2%80%9C%20leidimo%20prad%C5%BEia)
 - [„Lietuvos katalikų bažnyčios kronikos“ leidimo pradžia (1972 m. kovo 19 d.)](../objektai/ivykiai/%E2%80%9ELietuvos%20katalik%C5%B3%20ba%C5%BEny%C4%8Dios%20kronikos%E2%80%9C%20leidimo%20prad%C5%BEia%20%281972%20m.%20kovo%2019%20d.%29)
 - [„Varpo“ leidimo pradžia](../objektai/ivykiai/%E2%80%9EVarpo%E2%80%9C%20leidimo%20prad%C5%BEia)

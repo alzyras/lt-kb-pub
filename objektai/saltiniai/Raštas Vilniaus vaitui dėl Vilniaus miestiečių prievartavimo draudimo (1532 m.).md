@@ -16,6 +16,18 @@ tags:
   - saltinis
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Raštas Vilniaus vaitui dėl Vilniaus miestiečių prievartavimo draudimo (1532 m.)
 
@@ -26,12 +38,24 @@ Kreipėsi į mus Vilniaus miesto burmistrai ir tarybos nariai ir visi miestieči
 ## Teiginiai
 
 <a id="claim-t-88207"></a>
-- t-001
+- t-002
   global_id: t-88207
-  teiginys: '1532 m. raštu Vilniaus vaitui įsakyta neužkrauti miestiečiams prievolių ir gerbti jų Magdeburgo teises.'
+  teiginys: "1532 m. raštu Vilniaus vaitui įsakyta neužkrauti miestiečiams prievolių ir gerbti jų Magdeburgo teises."
+  temporaliniai_duomenys: "įvykio data: 1532 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas puslapio triukšmas; citata tiesiogiai palaiko įsakymo esmę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "606460-607534; hash=bfcdd27aef723b881da6aa44ad06a9064f2c06964bcff4a79eacff014896a9a4; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Raštas Vilniaus vaitui dėl Vilniaus miestiečių prievartavimo draudimo (1532 m.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=6"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Raštas Vilniaus vaitui dėl Vilniaus miestiečių prievartavimo draudimo (1532 m.)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-84185
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -64,8 +88,45 @@ Kreipėsi į mus Vilniaus miesto burmistrai ir tarybos nariai ir visi miestieči
     niaus vaitystei, pats sulaužysi ir per tai nebebūsi ten mūsų
     tarnautojas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-84185
+  citata_originali: |
+    O kalbant apie mūsų raštą, kurį esame
+    anais laikais tau davę dėl jų paklusnumo su mūsų rankos •
+    •
+    -----------
+    302
+
+    ## Puslapis 319
+
+    IV  KNYGA
+    parašu kaip garantiją, tai mes tau tokį raštą ne dėl to įsakė­
+    me duoti, kad tu juos, apipainiojęs tokiais suokalbiais, galė­
+    tum taip engti ir jų teises laužyti, ir tokiais nepakeliamais ir
+    nepriimtinais prasimanymais juos spausti ir skurdinti, bet
+    tai esame padarę dėl tavo nusižeminimo ir įsakę tau aną
+    raštą duoti, kad tu galėtumei jo dėka būti saugus. Dėl to
+    šiuo mūsų raštu tau primename ir tau įsakome, kad jiems tų
+    prievolių ir varginimų neužkrautumei, jų teisių, privilegijų
+    niekuo nepažeistumei ir neengtumei jų savo sumanymais ir
+    prievarta, ir visame kame jų atžvilgiu galutinai gerb tumei
+    jų Magdeburgo teises. Bet jeigu nepanorėtumei nuo to susi­
+    laikyti ir pakartotinai mus tokie žodžiai pasiektų, tada tik­
+    rai žinok, kad ne tik tą garantinį raštą, kurį esame tau davę,
+    bet ir tąją privilegiją, kurią esi toms pareigoms gavęs Vil­
+    niaus vaitystei, pats sulaužysi ir per tai nebebūsi ten mūsų
+    tarnautojas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88207

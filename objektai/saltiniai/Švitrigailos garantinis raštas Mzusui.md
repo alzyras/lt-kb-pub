@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - saltinis
   - sutartis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Švitrigailos garantinis raštas Mzusui
 
@@ -20,10 +32,19 @@ tags:
 <a id="claim-t-88513"></a>
 - t-001
   global_id: t-88513
-  teiginys: 'Švitrigailos dvaro maršalka buvo Mzusas, kuriam išduotas didžiojo kunigaikščio garantinis raštas saugotas Slaptajame archyve.'
+  teiginys: "Švitrigailos dvaro maršalka buvo Mzusas, kuriam išduotas didžiojo kunigaikščio garantinis raštas saugotas Slaptajame archyve."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "431171-431775; hash=6fc50b29b6709e8208b04cd1af3485d6651e43db05c827997c2f77e76df17c5e; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> maršalka: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigailos garantinis raštas Mzusui: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "maršalka: mention_match, thing, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigailos garantinis raštas Mzusui\" parinktas kaip owner_note_path. Targetas \"maršalka\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-84492
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -47,8 +68,36 @@ tags:
     pat savo dvariškiams, su reikalais
     vykstantiems į Sileziją.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-84492
+  citata_originali: |
+    Prekybos sutartis su Pskovu, kaip ir prieš metus
+    sudarytoji su Naugardu, buvo patvirtinta Vilniuje ir, ano
+    gą poną Fridrichą fon Bebirsteyną,
+    priėmiau į savo dvariškių būrį ir
+    kaip malonų patikėtinį", bei prašo,
+    kad panašią paslaugą padarytų to
+    paties svečio broliui Prūsijoje. Švit­
+    rigailos dvaro maršalka buvo Mzu-
+    sas, kuriam išduotas didžiojo kuni­
+    gaikščio garantinis raštas iki šiol
+    saugojamas Slaptajame archyve. Ki­
+    tame savo laiške Švitrigaila prašo
+    garantijų Hansui (Janui) Tscheizui ir
+    jo svainiui Mikalojui Sachsei, taip
+    pat savo dvariškiams, su reikalais
+    vykstantiems į Sileziją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88513

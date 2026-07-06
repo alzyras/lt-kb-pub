@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vermandua prisikėlusio riterio pasakojimas
 
@@ -35,10 +47,13 @@ Nenurodyta
 <a id="claim-t-62524"></a>
 - t-001
   global_id: t-62524
-  teiginys: 'Vermandua grafystėje, pasak kronikos, atgijęs miręs riteris pranašavo daugeliui žmonių ir ilgai gyveno nevalgydamas bei negerdamas.'
+  teiginys: "Vermandua grafystėje, pasak kronikos, atgijęs miręs riteris pranašavo daugeliui žmonių ir ilgai gyveno nevalgydamas bei negerdamas."
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "693231-693456; hash=79fa57e0be3723e51dcbabbd1d1d69119ead31e468a7501af78fc266078a4a98; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
-
+    - c-63213
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -51,8 +66,26 @@ Nenurodyta
     išpranašavo ir ilgai išgyveno, nei valgydamas, nei gerdamas (Ptol. loc. cit.; Mart. lot.
     cit.).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-63213
+  citata_originali: |
+    Apie tai, kaip prisikėlė vienas miręs riteris
+
+      Vermandua  [grafystėje]  atgijo vienas miręs  riteris, daug ką  daugeliui žmonių
+    išpranašavo ir ilgai išgyveno, nei valgydamas, nei gerdamas (Ptol. loc. cit.; Mart. lot.
+    cit.).
+  citata_rodoma: "Apie tai, kaip prisikėlė vienas miręs riteris\n\n  Vermandua  [grafystėje]  atgijo vienas miręs  riteris, daug ką  daugeliui žmonių\nišpranašavo ir ilgai išgyveno, nei valgydamas, nei gerdamas (Ptol. loc. cit.; Mart. lot.\ncit.)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-62524

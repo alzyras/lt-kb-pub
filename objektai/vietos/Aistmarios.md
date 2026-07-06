@@ -19,6 +19,18 @@ tags:
 amziai:
   - 'XIII'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Aistmarios
 
@@ -29,18 +41,45 @@ Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie 
 ## Teiginiai
 
 <a id="claim-t-97718"></a>
-- t-001
+- t-014
   global_id: t-97718
-  teiginys: 'Sembos žemėje, Aistmarių pakrantėje, stovėjo pilis beveik priešais Brandenburgo pilį.'
+  teiginys: "Sembos žemėje, Aistmarių pakrantėje, stovėjo pilis beveik priešais Brandenburgo pilį."
+  semantiniai_rysiai: "Aistmarios priklausė Semba (0.57)"
+  temporaliniai_duomenys: "įvykio data: 1267 m.; įvykio data: po 1273 m.; įvykio data: 1273 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Citata leidžia patikimai teigti tik pilies vietą; asmenų įvardijimui trūksta aiškaus konteksto."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "428156-428655; hash=1fc0384e9a4491df6df231d133e5d003731084f85531c7b216698425586ecea9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Semba: 0.57"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Aistmarios: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Semba: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas sieja marių pakrantę su Sembos žeme, bet tik netiesiogiai per pilies vietą."
   pagrindžia:
-    - c-002
+    - c-92170
 
 <a id="claim-t-97721"></a>
-- t-002
+- t-015
   global_id: t-97721
-  teiginys: 'Hermano Wartberges kronikoje aprašyta siena Priegliumi turėjo eiti iki Aistmarių.'
+  teiginys: "Hermano Wartberges kronikoje aprašyta siena Priegliumi turėjo eiti iki Aistmarių."
+  temporaliniai_duomenys: "įvykio data: 1351 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys per ilgas ir su neaiškia nuoroda; citata palaiko glaustesnį faktą apie Aistmares."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "719398-719851; hash=24b2e92d51027d92465f6d0e8c20b2732b2f73219a7261d68a676ec857149918; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aistmarios: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aistmarios\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-92163
 - susijęs iš [[objektai/asmenys/Steinavas.md#claim-t-184128|Steinavas]]: Steinavas nuvyko pas Karaliaučiaus komtūrą, išdavė Glapo paslaptį ir patarė komtūrui žygiuoti drauge su juo.
 - susijęs iš [[objektai/asmenys/Steinavas.md#claim-t-60209|Steinavas]]: Steinavas nuvyko pas Karaliaučiaus komtūrą, išdavė Glapo paslaptį ir patarė komtūrui žygiuoti drauge su juo.
 - susijęs iš [[objektai/autoriai/Boetticher A.md#claim-t-64570|Boetticher A]]: Boetticherio darbas cituojamas teiginiui, kad kryžiuočiai Baigoje įsitvirtino, pastatė mūrinę pilį ir didelį papilį.
@@ -52,7 +91,6 @@ Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie 
 - susijęs iš [[objektai/ivykiai/Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.).md#claim-t-66455|Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.)]]: 1260 m. prūsai vėl atkrito nuo krikščionių tikėjimo, o sembai, notangai, varmiai, pagudėnai ir bartai išsirinko savo vadus.
 - susijęs iš [[objektai/ivykiai/Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas.md#claim-t-66552|Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas]]: Glapo valdinys Steinavas išdavė Karaliaučiaus komtūrui Glapo planą pulti pilį Sembos žemėje prie Gėlavandenių marių.
 - susijęs iš [[objektai/ivykiai/Įtvirtinto malūno prie Baigos pastatymas ir sunaikinimas.md#claim-t-91921|Įtvirtinto malūno prie Baigos pastatymas ir sunaikinimas]]: Prie Baigos broliai pastatė prie upės į pilį panašiai sutvirtintą malūną, kurį prūsai netrukus užėmė, gynėjus išžudė ir sudegino.
-- susijęs iš Vulfstano pasakojimas: Vietovardis apie 890 m. Vulfstano užrašytas kaip Truso.
 - susijęs iš Aismarių nerija: Aismarių nerija šaltinio rodyklėje nurodyta pavadinimu „Neria“.
 - susijęs iš Aismarių nerija: Aismarių nerija šaltinio rodyklėje nurodyta pavadinimu „Neria“.
 - susijęs iš Alnos upė: Pirmajame amžiuje po Kr. Vyslos žemupio gotai įsikūrė Rytprūsių plote iki Alnos upės.
@@ -76,6 +114,7 @@ Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie 
     krantu iki pat Alnos įtekėjimo į Prieglių, o paskui šio tėkme iki
     Aistmarių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -95,11 +134,50 @@ Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie 
       409 Konradas Vyresnysis  iš Tirbergo (Frankonija), 1267 m.— Santyro, vėliau —
     Kristburgo, Kulmo komtūras, nuo 1273 m.— Prūsijos krašto magistras.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-92163
+  citata_originali: |
+    Kaip ir 1351 m., buvo reikalaujama, kad kryžiuo­
+    čių ordinas sugrąžintų Lietuvos užimtąsias žemes tarp Alnos, Prieg­
+    liaus ir Dauguvos. Hermano Wartberges kronikoje yra smulkiau
+    pažymėtos reikalaujamų žemių ribos : rubežiuodamasi su Mozūrija,
+    siena turėjo prasidėti nuo Alnos aukštupio. Per Prūsus, Lietuvai
+    paliekant daugiau kaip pusę Rytprūsių, aiški linija turėjo eiti upės
+    krantu iki pat Alnos įtekėjimo į Prieglių, o paskui šio tėkme iki
+    Aistmarių.
+  citata_rodoma: ", buvo reikalaujama, kad kryžiuo­\nčių ordinas sugrąžintų Lietuvos užimtąsias žemes tarp Alnos, Prieg­\nliaus ir Dauguvos. Hermano Wartberges kronikoje yra smulkiau\npažymėtos reikalaujamų žemių ribos : rubežiuodamasi su Mozūrija,\nsiena turėjo prasidėti nuo Alnos aukštupio. Per Prūsus, Lietuvai\npaliekant daugiau kaip pusę Rytprūsių, aiški linija turėjo eiti upės\nkrantu iki pat Alnos įtekėjimo į Prieglių, o paskui šio tėkme iki\nAistmarių."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-97721
+
+- id: c-92170
+  citata_originali: |
+    Daug
+    kartų jį buvo gelbėjęs iš mirtino pavojaus. Tačiau tas vyras, užmiršęs patirtas malones,
+    atsiteisė blogu už gera ir neapykanta už meilę. Jis sugalvojo būdą, kaip  jį pribaigti,
+    ir, norėdamas savo sumanymą įgyvendinti, pakvietė  jį pulti vienos pilies, stovėjusios
+    Sembos žemėje, Gėlavandenių marių pakrantėje, beveik prieš Brandenburgo  pilį412,
+
+      409 Konradas Vyresnysis  iš Tirbergo (Frankonija), 1267 m.— Santyro, vėliau —
+    Kristburgo, Kulmo komtūras, nuo 1273 m.— Prūsijos krašto magistras.
+  citata_rodoma: "Jis sugalvojo būdą, kaip  jį pribaigti,\nir, norėdamas savo sumanymą įgyvendinti, pakvietė  jį pulti vienos pilies, stovėjusios\nSembos žemėje, Gėlavandenių marių pakrantėje, beveik prieš Brandenburgo  pilį412,\n\n  409 Konradas Vyresnysis  iš Tirbergo (Frankonija), 1267 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-97718
 
 ## Ryšiai
 - Aistmarios priklausė [[objektai/vietos/Semba]]

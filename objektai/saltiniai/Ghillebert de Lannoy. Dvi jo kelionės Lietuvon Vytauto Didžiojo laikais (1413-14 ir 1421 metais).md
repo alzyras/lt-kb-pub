@@ -16,6 +16,18 @@ tags:
 amziai:
   - 'XV'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Ghillebert de Lannoy. Dvi jo kelionės Lietuvon Vytauto Didžiojo laikais (1413-14 ir 1421 metais)
 
@@ -28,10 +40,21 @@ amziai:
 <a id="claim-t-31690"></a>
 - t-001
   global_id: t-31690
-  teiginys: '„Ghillebert de Lannoy. Dvi jo kelionės Lietuvon Vytauto Didžiojo laikais“ išspausdintas „Praeities“ II tome 1933 m., p. 94–157.'
+  teiginys: "„Ghillebert de Lannoy. Dvi jo kelionės Lietuvon Vytauto Didžiojo laikais“ išspausdintas „Praeities“ II tome 1933 m., p. 94–157."
+  temporaliniai_duomenys: "įvykio data: 1933 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1028831-1029278; hash=ec8553b87ad4ceefb17559065027db9d582e606b551a403bac9662e5bad2427c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ghillebert de Lannoy. Dvi jo kelionės Lietuvon Vytauto Didžiojo laikais (1413-14 ir 1421 metais): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=38"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ghillebert de Lannoy. Dvi jo kelionės Lietuvon Vytauto Didžiojo laikais (1413-14 ir 1421 metais)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-33567
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -45,8 +68,28 @@ amziai:
     Praeitis, II, 1933, 94-157 p. — Končius, J. : _Vytautas the Great, Grand
     Duke of Lithuania,_ Miami, FI.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33567
+  citata_originali: |
+    — (”) _Išskiriamieji ženklai lietuviškoje nu­
+    mizmatikoje_ , TaPr, II, 1, 1964, 108-121 p. — Klimas, P. : _Vieno prancūzo
+    įspūdžiai Lietuvoje Vytauto laikais. Guillebert de Lannoy kelionė 1413-14
+    metais,_ Židinys, nr. 3, 1930, 232-245 p. — (”) _Ghillebert de Lannoy. Dvi
+    jo kelionės Lietuvon Vytauto Didžiojo laikais (1413-14 ir 1421 metais),_
+    Praeitis, II, 1933, 94-157 p. — Končius, J. : _Vytautas the Great, Grand
+    Duke of Lithuania,_ Miami, FI.
+  citata_rodoma: "— (”) _Ghillebert de Lannoy. Dvi\njo kelionės Lietuvon Vytauto Didžiojo laikais (1413-14 ir 1421 metais),_\nPraeitis, II, 1933, 94-157 p. — Končius, J. : _Vytautas the Great, Grand\nDuke of Lithuania,_ Miami, FI."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31690

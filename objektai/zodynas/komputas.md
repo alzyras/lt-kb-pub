@@ -14,6 +14,18 @@ atnaujinta: ''
 tags: []
 amziai:
   - 'XVII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # komputas
 
@@ -41,12 +53,21 @@ Terminas žymi nustatytą kariuomenės skaičių ar karo etatą, nuo kurio prikl
 ## Teiginiai
 
 <a id="claim-t-09709"></a>
-- t-001
+- t-002
   global_id: t-09709
-  teiginys: 'Komputu lenkiškai vadintas karo tarybos nustatytas karo etatas.'
+  teiginys: "Komputu lenkiškai vadintas karo tarybos nustatytas karo etatas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "527385-527885; hash=9630e383e36f3088800b4712cacbae7dc1c1b576058cd3f0395fccdec8b0b93a; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "komputas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"komputas\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-12577
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -57,8 +78,25 @@ Terminas žymi nustatytą kariuomenės skaičių ar karo etatą, nuo kurio prikl
     šiaurę, siekdama užvaldyti visą Vengrijos pastangų, kai prispiria reikalas, tačiau ji niekad nepasiekia 48 000 vyrų skaičiaus, kurį
     teritoriją (dalis Vengrijos jau priklausė nustatė karo taryba [etat de la guerre], lenkiškai vadinama komputu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-12577
+  citata_originali: |
+    XVII a. viduryje Turkija savo ekspansiją kokiam nors žygiui Respublika išrikiuotų didesnę armiją, o kadangi šis skaičius niekad
+    iš Viduržemio jūros pakrančių perkėlė į nebūna tikslus, kariuomenė būna tai stipresnė, tai silpnesnė - priklausomai nuo valstybės
+    šiaurę, siekdama užvaldyti visą Vengrijos pastangų, kai prispiria reikalas, tačiau ji niekad nepasiekia 48 000 vyrų skaičiaus, kurį
+    teritoriją (dalis Vengrijos jau priklausė nustatė karo taryba [etat de la guerre], lenkiškai vadinama komputu.
+  citata_rodoma: "teritoriją (dalis Vengrijos jau priklausė nustatė karo taryba [etat de la guerre], lenkiškai vadinama komputu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-09709

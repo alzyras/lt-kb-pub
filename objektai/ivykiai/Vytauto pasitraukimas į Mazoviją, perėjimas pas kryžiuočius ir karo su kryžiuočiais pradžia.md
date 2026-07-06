@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia
 
@@ -29,24 +41,64 @@ Nenurodyta
 <a id="claim-t-185660"></a>
 - t-001
   global_id: t-185660
-  teiginys: 'Sustiprinęs Palenkę ir Polesę, Vytautas su žmona, šeimyna, turtais ir šalininkais pasitraukė į Mazoviją pas Jonušą ir Zemovitą.'
+  teiginys: "Sustiprinęs Palenkę ir Polesę, Vytautas su žmona, šeimyna, turtais ir šalininkais pasitraukė į Mazoviją pas Jonušą ir Zemovitą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Mazovija (0.92)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "524291-525174; hash=e3a393d9dda295d45dfc4cc4f8a01e83aba3f74e90cd8101bd85df22cc03c179; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Mazovija: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Mazovija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Vytautas pasitraukė į Mazoviją."
   pagrindžia:
-    - c-001
+    - c-169021
 
 <a id="claim-t-185661"></a>
 - t-002
   global_id: t-185661
-  teiginys: 'Ordino magistras Konradas Celneris parėmė Vytauto sumanymus ir nutarė nepraleisti progos pradėti karą.'
+  teiginys: "Ordino magistras Konradas Celneris parėmė Vytauto sumanymus ir nutarė nepraleisti progos pradėti karą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "525460-526425; hash=d8aa73008de38c47294c45d50f8fa7c968108f76e6daee675ed8bdcd5272f826; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Konradas Celneris: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Konradas Celneris: mention_match, person, gap=25"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia\" parinktas kaip owner_note_path. Targetas \"Konradas Celneris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-169022
 
 <a id="claim-t-185662"></a>
 - t-003
   global_id: t-185662
-  teiginys: 'Vytautas užrašė kryžiuočiams visą Žemaitiją kaip užstatą, kad gautų tris šimtus tūkstančių kapų karo reikmėms.'
+  teiginys: "Vytautas užrašė kryžiuočiams visą Žemaitiją kaip užstatą, kad gautų tris šimtus tūkstančių kapų karo reikmėms."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) sudarė sutartį su Kryžiuočių ordinas (0.73)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "526130-526800; hash=7511ccaa725c1cfe2319e89176ebaff5fd4f172d42b7dbcaf6dc183383179a82; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.73"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata aprašo susitarimą, kuriuo Vytautas užrašė Žemaitiją kryžiuočiams kaip užstatą."
   pagrindžia:
-    - c-003
-
+    - c-169023
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -73,6 +125,7 @@ Nenurodyta
     gauti, nei karaliaus įžeisti, rūpindamiesi, kad, kilus ka­
     rui, patys vienaip ar kitaip išvengtų bėdos.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -106,6 +159,7 @@ Nenurodyta
     liams dabartinio imperialo) tik tada, kai šis užrašė kaip
     užstatą kryžiuočiams visą Žemaitiją.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -133,8 +187,95 @@ Nenurodyta
     būgštavo, atsimindami, jog anksčiau daug kartų lietu­
     viai savo ginklais buvo atrėmę kryžiuočių antpuolius.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-169021
+  citata_originali: |
+    Nieko nepešęs
+    klasta, metė savo sumanymus ir, aplinkybių verčiamas,
+    ėmė rengtis atvirai kovai, būdamas tikras, jog ir Kazi­
+    mieras netruks prieš jį griebtis ginklo, ir karalius Jo­
+    gaila skubiai iš Lenkijos atsiųs pagalbos. Smarkiai su­
+    stiprinęs Palenkę ir Polesę, įkurdinęs stiprias vokiečių
+    karių įgulas Gardine, Suraže, Breste, Kamenece ir ki­
+    tose pilyse, pats su žmona, šeimyna, brangiaisiais in­
+    dais bei savo šalininkais pa-
+    P abėga į M a z o v iją
+    sitraukė į Mazoviją pas ku­
+    nigaikščius Jonušą ir Zemo-
+    vitą, savo giminaičius. Šiedu vis dėlto Vytautą taip
+    priėmė, jog jis netruko pajusti esąs nemalonus svečias:
+    abudu nesistengė suteikti pabėgėliui deramos pagal­
+    bos; iškilo aikštėn jųdviejų baimė, nors ir slepiama:
+    mat nenorėjo jiedu nei neramios Vytauto širdies už­
+    gauti, nei karaliaus įžeisti, rūpindamiesi, kad, kilus ka­
+    rui, patys vienaip ar kitaip išvengtų bėdos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185660
+
+- id: c-169022
+  citata_originali: |
+    Čia, kaip ir
+    vylėsi, Konradas Celneris, ordino magistras, visokerio­
+    pai parėmė jo sumanymus.
+    Iš M a z o v ijo s  į Prū-
+    Nors Urbonas IV, Romos po-
+    siją
+    piežius, prieš metus ir buvo
+    išleidęs raštą, rimtai ragin­
+    damas ir karalių, ir kryžiuočių riterius laikytis taikos,
+    tačiau Celneris su džiaugsmu nutarė nepraleisti pro­
+    gos pradėti karą. Dėdamasis, kad gailisi tremtinio, jis
+    siūlė šiam visko, ko tik reikia karui f' pats iš visos šir­
+    dies trokšdamas ir tikėdamasis Lietuvoje išplėsti savo
+    valdas, Konradas gana greitai paskyrė karių bei lėšų
+    kaiui. Buvo aišku, kad pagalbą jis ne duoda, bet par­
+    duoda, tikėdamasis, kad visas pelnas ilgainiui atiteks
+    kryžiuočiams. Už pirmąjį jų patarnavimą teko atsily­
+    ginti Žemaitija, nes Vytautui, nuo pat karo pradžios
+    stokojančiam pinigų, išmokėjo tris šimtus tūkstančių
+    kapų (lietuvių pinigas, prilygstantis penkiems šeštada­
+    liams dabartinio imperialo) tik tada, kai šis užrašė kaip
+    užstatą kryžiuočiams visą Žemaitiją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185661
+
+- id: c-169023
+  citata_originali: |
+    Už pirmąjį jų patarnavimą teko atsily­
+    ginti Žemaitija, nes Vytautui, nuo pat karo pradžios
+    stokojančiam pinigų, išmokėjo tris šimtus tūkstančių
+    kapų (lietuvių pinigas, prilygstantis penkiems šeštada­
+    liams dabartinio imperialo) tik tada, kai šis užrašė kaip
+    užstatą kryžiuočiams visą Žemaitiją.
+    Sudarius sutartį, į grėti-
+    L ietu va  p ra d e d a  ka-
+    mas Lietuvos apygardas iš
+    rą su k ry žiu o č ia is
+    dviejų pusių įsiveržė nioko­
+    tojų pulkai: iš Prūsijos per
+    Nemuną ir iš Livonijos per Dauguvą. Sunkus sve­
+    timšalių pradėtas karas, tačiau žmonės dėl to nelabai
+    būgštavo, atsimindami, jog anksčiau daug kartų lietu­
+    viai savo ginklais buvo atrėmę kryžiuočių antpuolius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185662

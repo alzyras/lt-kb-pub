@@ -18,6 +18,18 @@ tags:
   - valstybė
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Rusijos Federacija
 
@@ -28,25 +40,63 @@ Demokratinė Rusija, kaip ir Lietuva siekusi atsiskirti nuo SSRS, atvirai rėmė
 ## Teiginiai
 
 <a id="claim-t-108340"></a>
-- t-001
+- t-004
   global_id: t-108340
-  teiginys: 'Rusijos valdžia SSRS griūtį vadina geopolitine katastrofa ir teigia, kad Baltijos valstybės neva savo noru įstojo į SSRS.'
+  teiginys: "Rusijos valdžia SSRS griūtį vadina geopolitine katastrofa ir teigia, kad Baltijos valstybės neva savo noru įstojo į SSRS."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "529323-529638; hash=b39d3758916082f7d88143b88f48a12dfb2509d2af703d7090c98c23d00af0a9; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rusijos Federacija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=73"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusijos Federacija\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-100537
 
 <a id="claim-t-108341"></a>
-- t-002
+- t-003
   global_id: t-108341
-  teiginys: 'Rusija Lietuvai išliko svarbi ekonominė partnerė, tačiau artimesni Lietuvos ir Rusijos santykiai nesusiklostė.'
+  teiginys: "Rusija Lietuvai išliko svarbi ekonominė partnerė, tačiau artimesni Lietuvos ir Rusijos santykiai nesusiklostė."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "528416-528714; hash=befd3bc596561857661ec5321b7f81086d055f314c000da55f6c67f873b7e0a0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rusijos Federacija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=7"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusijos Federacija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-100535
 
 <a id="claim-t-183178"></a>
-- t-003
+- t-005
   global_id: t-183178
-  teiginys: 'Vytautas Landsbergis ir Borisas Jelcinas 1991 m. liepos 29 d. pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.'
+  teiginys: "Vytautas Landsbergis ir Borisas Jelcinas 1991 m. liepos 29 d. pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1940 m.; įvykio data: 1991 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleisti inicialai ir išlaikytas citatos remiamas faktas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "527681-528126; hash=081b2a363c4f5fb034cdaaeb6216f74953ee263a4b5cf6e13a839ac66ee9ddc6; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rusijos Federacija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Rusija: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusijos Federacija\" parinktas kaip owner_note_path. Targetas \"Rusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-003
+    - c-166565
 - susijęs iš [[objektai/ivykiai/Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutarties pasirašymas (1991 m. liepos 29 d.).md#claim-t-75147|Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutarties pasirašymas (1991 m. liepos 29 d.)]]: Spalio pradžioje Lietuva ir Rusijos Federacija užmezgė diplomatinius santykius.
 ## Reikšmingi paminėjimai
 
@@ -59,6 +109,7 @@ Demokratinė Rusija, kaip ir Lietuva siekusi atsiskirti nuo SSRS, atvirai rėmė
     skirtingos abiejų valstybių užsienio politikos geopolitinės orientacijos ir
     skirtingas požiūris į netolimą istorinę praeitį bei demokratinę santvarką.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -75,6 +126,7 @@ Demokratinė Rusija, kaip ir Lietuva siekusi atsiskirti nuo SSRS, atvirai rėmė
     įstojo į SSRS ir kad SSRS dėl savo ano meto veiksmų nekalta – kalta bu-
     vusi tarptautinė aplinka...
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -93,8 +145,55 @@ Demokratinė Rusija, kaip ir Lietuva siekusi atsiskirti nuo SSRS, atvirai rėmė
     gos įvykdytos Lietuvos aneksijos pasekmių pašalinimą, o Lietuva pripaži-
     no Rusiją nepriklausoma valstybe.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-100535
+  citata_originali: |
+    roje atskyrimo. Nors Rusija Lietuvai išliko svarbi ekonominė partnerė,
+    artimesni santykiai tarp šių valstybių nesusiklostė. Pagrindinė kliūtis –
+    skirtingos abiejų valstybių užsienio politikos geopolitinės orientacijos ir
+    skirtingas požiūris į netolimą istorinę praeitį bei demokratinę santvarką.
+  citata_rodoma: "1997 m. spalį pasirašyta Lietuvos ir Rusijos sutartis dėl valstybinės \nsienos ir dėl išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jū-\n\n6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A\n257\nroje atskyrimo. Nors Rusija Lietuvai išliko svarbi ekonominė partnerė, \nartimesni santykiai tarp šių valstybių nesusiklostė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108341
+
+- id: c-100537
+  citata_originali: |
+    Rusijos valdžia SSRS griūtį vadina geopolitine katastrofa,
+    nors yra pasmerkusi Sovietų Sąjungos įvykdytą agresiją prieš tris Baltijos
+    valstybes, ir laikosi pozicijos, kad Lietuva, Estija ir Latvija neva savo noru
+    įstojo į SSRS ir kad SSRS dėl savo ano meto veiksmų nekalta – kalta bu-
+    vusi tarptautinė aplinka...
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108340
+
+- id: c-166565
+  citata_originali: |
+    Draugiški valstybių vadovų santykiai leido
+    parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
+    Abiejų šalių parlamentų pirmininkai – V. Landsbergis ir B. Jelcinas – ją
+    pasirašė 1991 m. liepos 29 d. (įsigaliojo po metų). Šia sutartimi Rusija
+    pripažino Lietuvos nepriklausomybę, pasisakė už 1940 m. Sovietų Sąjun-
+    gos įvykdytos Lietuvos aneksijos pasekmių pašalinimą, o Lietuva pripaži-
+    no Rusiją nepriklausoma valstybe.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183178

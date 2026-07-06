@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Druskininkai'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
   - '1936 m.'
   - '2026 m.'
@@ -18,6 +19,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Druskininkai
 
@@ -28,17 +41,33 @@ O kai, besivydami bolševikus, lenkai ties Druskininkais persikėlė per Nemuną
 ## Teiginiai
 
 <a id="claim-t-170325"></a>
-- t-001
+- t-011
   global_id: t-170325
-  teiginys: 'Lietuviai derybose su sovietais siekė atgauti lietuviškus Vilniaus krašto rajonus, tarp jų Druskininkus.'
+  teiginys: "Lietuviai derybose su sovietais siekė atgauti lietuviškus Vilniaus krašto rajonus, tarp jų Druskininkus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "372463-372844; hash=f1da55410e998726f4dc20aea6efe50c39616d3578d1f55a9ba1caf02fd3f090; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Estija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Druskininkai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Estija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Druskininkai\" parinktas kaip owner_note_path. Targetas \"Estija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-154996
 - susijęs iš [[objektai/ivykiai/Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga).md#claim-t-66461|Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)]]: Rugsėjo 23 d. lenkų divizijos perėjo tiltą per Nemuną Druskininkuose, o rugsėjo 28 d. lenkai užėmė Lydą ir puolė Varėnos kryptimi.
+- susijęs iš [[objektai/ivykiai/Druskininkų kapavietėje rastos monetos radimas.md#claim-t-192027|Druskininkų kapavietėje rastos monetos radimas]]: 1841 m. prie Druskininkų tik ką atkastoje kapavietėje, lauke su gausiais laidojimais, buvo rasta moneta.
+- susijęs iš [[objektai/ivykiai/Druskininkų kapavietėje rastos monetos radimas.md#claim-t-192028|Druskininkų kapavietėje rastos monetos radimas]]: Vienoje prie Druskininkų rastos monetos pusėje pavaizduoti Gedimino Stulpai, o kita pusė buvo gerokai pažeista.
+- susijęs iš [[objektai/ivykiai/Druskininkų kapavietėje rastos monetos radimas.md#claim-t-192486|Druskininkų kapavietėje rastos monetos radimas]]: 1841 m. prie Druskininkų tik ką atkastoje kapavietėje buvo rasta moneta.
 - susijęs iš Druskininkų kapavietė: 1841 metais prie Druskininkų tik ką atkastoje kapavietėje rasta moneta, kurios vienoje pusėje buvo pavaizduoti Gediminaičių Stulpai.
 - susijęs iš Druskininkų pilkapynas: Narbutas rašo, kad prie Druskininkų kaimo matė daugiau kaip margo dydžio smėlio atidengtą pilkapyną, kurį kaimiečiai siejo su stabmeldystės laikais.
 - susijęs iš Druskininkų pilkapynas: Narbutas mini chemiko raštelį, kuriame teigta, kad 1819 metais Druskininkų vandenyje aptikta bromo, bet pats šios žinios nepatvirtino.
 - susijęs iš Vilniaus kraštas: Derybose su sovietais lietuviai siekė atgauti kelis lietuviškus Vilniaus krašto rajonus, tarp jų Švenčionis ir Druskininkus.
 - susijęs iš Švenčionys: 1939 m. derybose Lietuva siekė atgauti lietuviškus Vilniaus krašto rajonus, tarp jų Švenčionis ir Druskininkus.
+- susijęs iš [[objektai/ivykiai/Druskininkų kapavietėje rastos monetos radimas.md#claim-t-192027|Druskininkų kapavietėje rastos monetos radimas]]: 1841 m. prie Druskininkų tik ką atkastoje kapavietėje, lauke su gausiais laidojimais, buvo rasta moneta.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-190856|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas rašo, kad 1841 m. prie Druskininkų rastoje monetoje vienoje pusėje buvo Gedimino šeimos herbas Stulpai.
+- susijęs iš [[objektai/daiktai/Monetos.md#claim-t-192082|Monetos]]: Narbutas nurodė: 1841 m. prie Druskininkų kapavietėje rasta labai plona ir apgadinta moneta, kurios vienoje pusėje pavaizduoti Gedimino šeimos Stulpai.
 - susijęs iš [[objektai/daiktai/Vokiškas universalusis kulkosvaidis MG 42.md#claim-t-183689|Vokiškas universalusis kulkosvaidis MG 42]]: Vokiškas universalusis kulkosvaidis MG 42 naudojo 7,92x57 mm Mauser šovinius, svėrė 11,57 kg be trikojo ir šaudė 900–1500 šūvių per minutę.
 - susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-66776|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: Per Merkinės puolimą partizanai užėmė NKVD būstinę, paštą, valsčiaus ir milicijos įstaigas.
 - susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-66777|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: Druskininkų bataliono grupei nenutraukus ryšio linijų tarp Merkinės ir Druskininkų, sovietai susisiekė su Alytumi ir išsikvietė pagalbą.
@@ -58,8 +87,27 @@ O kai, besivydami bolševikus, lenkai ties Druskininkais persikėlė per Nemuną
     Sovietai, pradžioje reikalavę įsileisti 50 000 karių, tą skaičių sumažino
     iki 20 000.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-154996
+  citata_originali: |
+    Derybas apsunkino tai, jog spalio pradžioje karines bazes pagal pa-
+    našias sutartis sovietai jau buvo primetę Estijai ir Latvijai. Lietuviai at-
+    kakliai siekė išvengti karinių bazių, išsaugoti savo etnines žemes, atgauti
+    kelis lietuviškus Vilniaus krašto rajonus (Švenčionis ir Druskininkus).
+    Sovietai, pradžioje reikalavę įsileisti 50 000 karių, tą skaičių sumažino
+    iki 20 000.
+  citata_rodoma: "Lietuviai at-\nkakliai siekė išvengti karinių bazių, išsaugoti savo etnines žemes, atgauti \nkelis lietuviškus Vilniaus krašto rajonus (Švenčionis ir Druskininkus). \nSovietai, pradžioje reikalavę įsileisti 50 000 karių, tą skaičių sumažino \niki 20 000."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-170325

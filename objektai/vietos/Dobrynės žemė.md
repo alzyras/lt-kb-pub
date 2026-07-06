@@ -17,6 +17,18 @@ tags:
   - vieta
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Dobrynės žemė
 
@@ -29,9 +41,20 @@ Tačiau Gediminas, jei galiu taip sakyti, laiškų rašytojui padarė tikrą kia
 <a id="claim-t-86177"></a>
 - t-001
   global_id: t-86177
-  teiginys: '1323 ir 1324 metais Gedimino kariauna įsiveržė į Mazoviją ir Dobrynės žemę bei žiauriai siaubė gyventojus.'
+  teiginys: "1323 ir 1324 metais Gedimino kariauna įsiveržė į Mazoviją ir Dobrynės žemę bei žiauriai siaubė gyventojus."
+  semantiniai_rysiai: "Gediminas puolė Dobrynė (0.72)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "216748-217925; hash=86da6ef375bc6ea2c80e19d1aa4332e0e6b866a7ae17b29f7d30a400306feb85; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Dobrynė: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Dobrynė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Dobrynė yra platesnio Dobrynės žemės pavadinimo dalis, todėl ryšys su konkrečiu Dobrynės įrašu mažiau tikslus."
   pagrindžia:
-    - c-001
+    - c-82156
 - susijęs iš Slaptojo archyvo dokumentai apie Dobrynės žemės nusiaubimą: Slaptojo archyvo dokumente nurodyta, kad per antpuolį kentėjo Dobrynės žemė ir kaimyninės Kulmo žemės.
 ## Reikšmingi paminėjimai
 
@@ -64,8 +87,45 @@ Tačiau Gediminas, jei galiu taip sakyti, laiškų rašytojui padarė tikrą kia
     terra Dobrynen et confinibus Culmensibus patet et patuit prohdo-
     lor evidenter!
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-82156
+  citata_originali: |
+    Trečias ir itin svarbus laiškų netikrumo įrodymas yra
+    užuomina juose apie Mazoviją, kaip apie kraštą, per kurį
+    kviestieji svetimšaliai galį laisvai, saugiai ir be jokių vargi­
+    nančių mokesčių atvykti į Lietuvą ir iš jos grįžti atgal. Taigi
+    tą Mazovijos kunigaikštį reikėtų laikyti buvus Lietuvos val­
+    dovo sąjungininku, sutartinai veikiančiu sprendžiant sve­
+    timšalių atvykimo reikalus. Tačiau Gediminas, jei galiu taip
+    sakyti, laiškų rašytojui padarė tikrą kiaulystę, nes kaip tik
+    1323 ir 1324 metais su plėšikaujančia ir viską naikinančia
+    97
+
+    ## Puslapis 114
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    ginkluota kariauna įsiveržia į Mazoviją ir Dobrynės žemę,
+    nepaprastai žiauriai siaubia gyventojus, kaip apie tai rašo
+    ne tik Dusburgas, p. 339 ir 350, bei Kojelavičius, p. 270, bet
+    byloja ir dokumentai, vienas kurių, 1323 metų (slaptame ar­
+    chyve Spinta XI, Nr. 18), be kita ko, apie Gediminą liudija:
+    quod nichil aliud quam vestrarum nostrarumque terrarum sub­
+    versionem sua dolosa calliditate pretendit, non solum ex multis
+    antiquis, verum et ex novis experimentis lamentosis novissime in
+    terra Dobrynen et confinibus Culmensibus patet et patuit prohdo-
+    lor evidenter!
+  citata_rodoma: "Tačiau Gediminas, jei galiu taip \nsakyti, laiškų rašytojui padarė tikrą kiaulystę, nes kaip tik \n1323 ir 1324 metais su plėšikaujančia ir viską naikinančia\n97\n\n## Puslapis 114\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nginkluota kariauna įsiveržia į Mazoviją ir Dobrynės žemę, \nnepaprastai žiauriai siaubia gyventojus, kaip apie tai rašo \nne tik Dusburgas, p. 339 ir 350, bei Kojelavičius, p. 270, bet \nbyloja ir dokumentai, vienas kurių, 1323 metų (slaptame ar­\nchyve Spinta XI, Nr. 18), be kita ko, apie Gediminą liudija: \nquod nichil aliud quam vestrarum nostrarumque terrarum sub­\nversionem sua dolosa calliditate pretendit, non solum ex multis \nantiquis, verum et ex novis experimentis lamentosis novissime in \nterra Dobrynen et confinibus Culmensibus patet et patuit prohdo- \nlor evidenter!"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86177

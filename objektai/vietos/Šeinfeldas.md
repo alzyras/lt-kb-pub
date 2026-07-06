@@ -16,6 +16,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Šeinfeldas
 
@@ -28,10 +40,23 @@ Lietuvos pabėgėliai stovykloje Vokietijoje (Šeinfelde) renkasi dalijamus drab
 <a id="claim-t-26300"></a>
 - t-001
   global_id: t-26300
-  teiginys: '1948 m. Šeinfeldo stovykloje Vokietijoje Lietuvos pabėgėliai rinkosi dalijamus drabužius.'
+  teiginys: "1948 m. Šeinfeldo stovykloje Vokietijoje Lietuvos pabėgėliai rinkosi dalijamus drabužius."
+  semantiniai_rysiai: "Šeinfeldas priklausė Vokietija (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1940 m.; įvykio data: 1948 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Iš antraštės pašalintas OCR triukšmas ir suformuluotas pilnas sakinys."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "462370-462730; hash=859ce10ea2348f4263446a441d230323dce9ddb6ec72c067ac1e643ebe5a3de5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Vokietija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Šeinfeldas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Vokietija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai lokalizuoja Šeinfeldą Vokietijoje."
   pagrindžia:
-    - c-001
-
+    - c-26530
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -48,11 +73,34 @@ Lietuvos pabėgėliai stovykloje Vokietijoje (Šeinfelde) renkasi dalijamus drab
     tos JAV bankuose laikytos Baltijos valstybių
     lėšos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-26530
+  citata_originali: |
+    Dėl įvairių priežasčių tokių valstybių skaičius mažė-
+    jo. LDT gyvavimui didelę įtaką turėjo 1940 m. liepos 15 d. JAV prezidento
+    Lietuvos pabėgėliai stovykloje Vokietijoje (Šeinfelde)
+    renkasi dalijamus drabužius, 1948 m.
+
+    L I E T U V O S  I S T O R I J A
+    226
+    F. Ruzvelto išleistas įsakymas, kuriuo įšaldy-
+    tos JAV bankuose laikytos Baltijos valstybių
+    lėšos.
+  citata_rodoma: "JAV prezidento \nLietuvos pabėgėliai stovykloje Vokietijoje (Šeinfelde)  \nrenkasi dalijamus drabužius, 1948 m.\n\nL I E T U V O S  I S T O R I J A\n226\nF."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-26300
 
 ## Ryšiai
 - Šeinfeldas priklausė [[objektai/vietos/Vokietija]]

@@ -15,6 +15,18 @@ tags:
   - paprotys
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vidaus kolonizacija Sūduvos giriose
 
@@ -47,10 +59,21 @@ Nenurodyta
 <a id="claim-t-31537"></a>
 - t-001
   global_id: t-31537
-  teiginys: 'Po karų su kryžiuočiais pabaigos prasidėjo vidaus kolonizacija, ypač Sūduvos giriose.'
+  teiginys: "Po karų su kryžiuočiais pabaigos prasidėjo vidaus kolonizacija, ypač Sūduvos giriose."
+  temporaliniai_duomenys: "įvykio data: 1422 m.; įvykio data: 1435 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "420567-421200; hash=fd2dd7fb2e267a01a1b9109f37c7e9075f08f017b2d3789f293e1712369a3d4a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Sūduva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vidaus kolonizacija Sūduvos giriose: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Sūduva: mention_match, place, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vidaus kolonizacija Sūduvos giriose\" parinktas kaip owner_note_path. Targetas \"Sūduva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-33467
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -68,8 +91,32 @@ Nenurodyta
     (Dancigu ir Karaliaučiumi), nuo Vytauto laikų buvo kalamos mo­
     netos, liejami pabūklai, varpai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33467
+  citata_originali: |
+    Lietuvos
+    ateičiai buvo reikšmingas faktas, kad Lietuva iš didžiosios Algirdo
+    laikų kryžkelės pasuko jau Mindaugo bandytu Romos keliu. Į kai­
+    myninę Lenkiją užkuriom nueinant Lietuvos valdovui, vėl valsty­
+    binėje plotmėje buvo atnaujintas lotyniškasis krikštas, nuošalia-
+    paliekant oficialųjį krikštytoją kryžiuočių ordiną, atstovavusį gin­
+    kluotai « misijų teorijai ». Pagaliau pasibaigus karams su kryžiuo­
+    čiais (1422 m.—su Prūsų, 1435 m.—su Livonijos), prasidėjo vi­
+    daus kolonizacija, ypač Sūduvos giriose, vystėsi prekyba su Prūsais
+    (Dancigu ir Karaliaučiumi), nuo Vytauto laikų buvo kalamos mo­
+    netos, liejami pabūklai, varpai.
+  citata_rodoma: "Pagaliau pasibaigus karams su kryžiuo­\nčiais (1422 m.—su Prūsų, 1435 m.—su Livonijos), prasidėjo vi­\ndaus kolonizacija, ypač Sūduvos giriose, vystėsi prekyba su Prūsais\n(Dancigu ir Karaliaučiumi), nuo Vytauto laikų buvo kalamos mo­\nnetos, liejami pabūklai, varpai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31537

@@ -14,6 +14,18 @@ tags:
   - saltinis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Spa protokolas
 
@@ -26,10 +38,22 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
 <a id="claim-t-02282"></a>
 - t-001
   global_id: t-02282
-  teiginys: 'Spa protokolu Lenkija įsipareigojo atsitraukti už Kerzono linijos ir liepos 10 d. atiduoti Vilniaus sritį Lietuvai.'
+  teiginys: "Spa protokolu Lenkija įsipareigojo atsitraukti už Kerzono linijos ir liepos 10 d. atiduoti Vilniaus sritį Lietuvai."
+  temporaliniai_duomenys: "įvykio data: 1920 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata nepagrindžia teiginyje pridėtų 1920 metų, todėl data palikta tik taip, kaip nurodyta citatoje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "1112523-1113037; hash=f0f1823eb3aa407486e61dd700771f942b9cab268da43f492479a8283bfe4a53; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Spa protokolas: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Spa protokolas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-02520
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -45,8 +69,30 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
     čiausioji Taryba 1919 metų gruodžio 8 d.) ir Vilniaus sritį ati-
     duoti Lietuvai (liepos 10 d.).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-02520
+  citata_originali: |
+    Kai lenkai savo kovose su Rusais nu-
+    ėjo net ligi Kijevo (1920 m. gegužės mėn.), ūmai pasikeitė karo
+    laimė, ir lenkai turėjo labai greitu tempu trauktis. Tada Aukš-
+    čiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė So-
+    vietų Rusijai paliaubas, o Lenkus privertė pasirašyti Spa mies-
+    tely (Belgijoje) protokolą, kuriuo Lenkija apsiėmė atsitraukti už
+    vadinamosios Kerzono (Curzono) linijos (ją nustatė toji Aukš-
+    čiausioji Taryba 1919 metų gruodžio 8 d.) ir Vilniaus sritį ati-
+    duoti Lietuvai (liepos 10 d.).
+  citata_rodoma: "Tada Aukš-\nčiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė So-\nvietų Rusijai paliaubas, o Lenkus privertė pasirašyti Spa mies-\ntely (Belgijoje) protokolą, kuriuo Lenkija apsiėmė atsitraukti už\nvadinamosios Kerzono (Curzono) linijos (ją nustatė toji Aukš-\nčiausioji Taryba 1919 metų gruodžio 8 d.) ir Vilniaus sritį ati-\nduoti Lietuvai (liepos 10 d.)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-02282

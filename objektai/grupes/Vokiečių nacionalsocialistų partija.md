@@ -15,6 +15,18 @@ tags:
   - grupe
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vokiečių nacionalsocialistų partija
 
@@ -27,10 +39,22 @@ Nuo 1934 m. liepos iki 1935 m. kovo Kaune vykęs teismas – pirmasis, analogų 
 <a id="claim-t-77832"></a>
 - t-001
   global_id: t-77832
-  teiginys: '1934–1935 m. Kaune vyko pirmasis Europoje vokiečių nacionalsocialistų partijos narių teismas už antivalstybinę veiklą.'
+  teiginys: "1934–1935 m. Kaune vyko pirmasis Europoje vokiečių nacionalsocialistų partijos narių teismas už antivalstybinę veiklą."
+  temporaliniai_duomenys: "įvykio data: iki 1935 m.; įvykio data: po 1934 m.; įvykio data: 1934 m.; įvykio data: 1934-1935; įvykio data: 1935 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys paremtas, bet sakinys sutrumpintas ir išvalytas nuo perteklinės formuluotės."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "362711-363651; hash=b18045561ffda7470af7abc7efabb5aff678164614952bbe0957f2b1f44ca8b3; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokiečių nacionalsocialistų partija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Vokiečiai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokiečių nacionalsocialistų partija\" parinktas kaip owner_note_path. Targetas \"Vokiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-75151
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -51,8 +75,33 @@ Nuo 1934 m. liepos iki 1935 m. kovo Kaune vykęs teismas – pirmasis, analogų 
     prezidentas Ėrichas Kochas (Erich Koch) ir Vokietijos konsulatas Klaipė-
     doje. Procesas baigėsi 1935 m. kovo 26 d. – nuteisti 76 hitlerininkai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-75151
+  citata_originali: |
+    Nuo 1934 m. liepos iki 1935 m. kovo Kaune vykęs teismas – pirma-
+    sis, analogų Europoje neturėjęs vokiečių nacionalsocialistų partijos na-
+    rių teismas už antivalstybinę veiklą. Procesą stebėjo daugybė žurnalistų
+    iš Vakarų Europos. Jie galėjo plačiai susipažinti su nacių teroristiniais ir
+    propagandiniais veiksmais ir informuoti apie tą pavojų savo skaitytojus.
+    Surinkta 34 tomai kaltinamosios medžiagos, teismo salės pasienyje išri-
+    kiuota 300 dėžių su įrodymais: svastikomis, vėliavomis, smogikų unifor-
+    momis, instrukcijomis, lapeliais, ginklais. Dauguma kaltinamųjų sakė,
+    kad žavisi nacizmu, Klaipėdą laiko Vokietijos dalimi, nurodymus gauda-
+    vo iš Vokietijos nacių, o patys buvo tik jų skyrius, kad nurodymus jiems
+    davė nacių vadai Valteris R. Hesas (Walter R. Hess), Rytų Prūsijos ober-
+    prezidentas Ėrichas Kochas (Erich Koch) ir Vokietijos konsulatas Klaipė-
+    doje. Procesas baigėsi 1935 m. kovo 26 d. – nuteisti 76 hitlerininkai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77832

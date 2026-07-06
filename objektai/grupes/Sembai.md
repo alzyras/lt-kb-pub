@@ -19,11 +19,6 @@ datos:
   - '2026 m.'
 date_start: '1073'
 date_end: '2026'
-description: 'Sembai – vakarų baltų prūsų gentis Sembos žemėje, minima kovų su Teutonų ordinu, krikšto ir sembų-notangų kultūros kontekste.'
-socialDescription: 'Sembai buvo prūsų gentis Sembos žemėje, šaltiniuose minima dėl kovų su Teutonų ordinu, krikšto ir atskalūnybių.'
-seo_atnaujinta: '2026-07-02T23:12:35.116590+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -31,220 +26,678 @@ tags:
 amziai:
   - 'XI'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Sembai
 
 ## Santrauka
 
-Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-notangų kultūrine grupe. Šaltiniuose Semba apibūdinama kaip turtinga ir tankiai gyvenama žemė, galėjusi sutelkti dideles karines pajėgas. Kryžiuočių karo pasakojimuose sembai minimi kovose su Teutonų ordinu, pasidavimuose krikštui ir vėlesnėse atskalūnybėse, įskaitant Rinavos valsčiaus puolimą prieš Fišhauzeno pilį.
+Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti žymiai anksčiau, ir ten žinomi Lietuvos Užnemunėje sūduviai, Rytprūsiuose sembai, galindai, bartai, nadruviai, skalviai ir kt. Iš XI-XII amž. danų šaltinių (Genealogia regum Danorum; Saxo Grammaticus) yra matoma, jog kuršiai ir sembai protarpiais esą mokėję duoklę ir danams.
 
 ## Teiginiai
 
 <a id="claim-t-175076"></a>
-- t-001
+- t-009
   global_id: t-175076
-  teiginys: 'Semba apibūdinta kaip turtingiausia ir tankiausiai gyvenama žemė, galėjusi sutelkti 4000 raitelių ir 40000 karių.'
+  teiginys: "Semba apibūdinta kaip turtingiausia ir tankiausiai gyvenama žemė, galėjusi sutelkti 4000 raitelių ir 40000 karių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "204728-205059; hash=ed78f9a72490fcb26b908a55ec4bd37e2b95cbf38bca31af21a394475fbab35b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Semba: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sembai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Semba: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sembai\" parinktas kaip owner_note_path. Targetas \"Semba\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-013
-    - c-020
+    - c-159222
+    - c-159234
 
 <a id="claim-t-175077"></a>
-- t-002
+- t-010
   global_id: t-175077
-  teiginys: 'Prieš sembų gentį buvo kariauta daug karų, o viename žygyje Kristburgo komtūras Henrikas Stange įsiveržė į Sembą.'
+  teiginys: "Prieš sembų gentį buvo kariauta daug karų, o viename žygyje Kristburgo komtūras Henrikas Stange įsiveržė į Sembą."
+  semantiniai_rysiai: "Henrikas Stange surengė žygį į Semba (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "338853-339956; hash=3e3ef4e22c8485b8b882c6c26e7bc422061f43b82c2a129350e04a77fac01d70; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Semba: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Henrikas Stange: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Semba: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Henriko Stange įsiveržimą į Sembą."
   pagrindžia:
-    - c-004
+    - c-159212
 
 <a id="claim-t-175078"></a>
-- t-003
+- t-018
   global_id: t-175078
-  teiginys: 'Vienas prūsas Karaliaučiaus broliams išpranašavo, kad švento Vincento dieną sembai bus išžudyti.'
+  teiginys: "Vienas prūsas Karaliaučiaus broliams išpranašavo, kad švento Vincento dieną sembai bus išžudyti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "387192-387758; hash=e515adf83a633b8248f2f3aafd22ac89c6adc42d4610dba84811f5606e66b97a; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-029
+    - c-159248
 
 <a id="claim-t-175079"></a>
-- t-004
+- t-022
   global_id: t-175079
-  teiginys: 'Rinavos valsčiuje gyvenę sembai vėl atkrito nuo tikėjimo ir, subūrę kariuomenę, užpuolė Sembos vyskupo Fišhauzeno pilį.'
+  teiginys: "Rinavos valsčiuje gyvenę sembai vėl atkrito nuo tikėjimo ir, subūrę kariuomenę, užpuolė Sembos vyskupo Fišhauzeno pilį."
+  semantiniai_rysiai: "Sembai puolė Fišhauzenas (0.97); Sembai gyveno Rinava (0.96)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "398868-399243; hash=2db9aed77aa9e1649f7a81503167ea2467210a7ae3fd60c35653bdc4e1360758; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Fišhauzenas: 0.97"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sembai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Fišhauzenas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claim ir citata tiesiogiai teigia, kad sembai užpuolė Fišhauzeno pilį."
   pagrindžia:
-    - c-006
+    - c-159214
 
 <a id="claim-t-175080"></a>
-- t-005
+- t-020
   global_id: t-175080
-  teiginys: 'Vienas sembas paėmė šį arbaletą ir pasikabino ant kaklo.'
+  teiginys: "Vienas sembas paėmė šį arbaletą ir pasikabino ant kaklo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "393892-394232; hash=e83a569cc4fe512e48f1d2e87f827146150874295fc4ee70c9dc39c2ec5e0c36; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Arbaletai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sembai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Arbaletai: mention_match, thing, gap=16"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sembai\" parinktas kaip owner_note_path. Targetas \"Arbaletai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
-    - c-022
+    - c-159236
 
 <a id="claim-t-175081"></a>
-- t-006
+- t-014
   global_id: t-175081
-  teiginys: 'Sembai nukankino Teutonų ordino kunigą, atsiųstą jų krikštyti, suspaudę jam kaklą dviem kartimis.'
+  teiginys: "Sembai nukankino Teutonų ordino kunigą, atsiųstą jų krikštyti, suspaudę jam kaklą dviem kartimis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "375133-376001; hash=68578e35bec9c03e64e4483f69eaae84097ffc94751fd10fbeeb54244d93e1ad; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Teutonai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sembai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Teutonai: mention_match, group, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sembai\" parinktas kaip owner_note_path. Targetas \"Teutonai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-024
+    - c-159241
 
 <a id="claim-t-175082"></a>
-- t-007
+- t-005
   global_id: t-175082
-  teiginys: 'Sembai priklausė sembų-notangų kultūrinei grupei, kurioje išskiriamos sembų, varmių, notangų, pagudėnų ir pamedėnų gentinės teritorijos.'
+  teiginys: "Sembai priklausė sembų-notangų kultūrinei grupei, kurioje išskiriamos sembų, varmių, notangų, pagudėnų ir pamedėnų gentinės teritorijos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "11279-11739; hash=6711fc2a01a53cb0b2777526426d5a6438874e0e50272e09c9df7682780bea4d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Notangai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sembai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Notangai: mention_match, group, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sembai\" parinktas kaip owner_note_path. Targetas \"Notangai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-159211
 
 <a id="claim-t-175083"></a>
-- t-008
+- t-027
   global_id: t-175083
-  teiginys: 'Brolis Bertoldas su tūkstančiu Sembos vyrų sudegino Medrabos pilį iki pamatų, jos žmones išžudė arba paėmė į nelaisvę.'
+  teiginys: "Brolis Bertoldas su tūkstančiu Sembos vyrų sudegino Medrabos pilį iki pamatų, jos žmones išžudė arba paėmė į nelaisvę."
+  semantiniai_rysiai: "Bertoldas puolė Medraba (0.83); Bertoldas užėmė Medraba (0.65)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "567358-567767; hash=1e73b288d5b486196e4bc7811ab51d3676f71ea428de0e9282976dfeeb3e95a5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Medraba: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bertoldas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Medraba: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Bertoldas su Sembos vyrais pasuko į Medrabos pilį ir po antpuolio ją sudegino, todėl puolimas tiesiogiai pagrįstas."
   pagrindžia:
-    - c-017
+    - c-159228
 
 <a id="claim-t-175084"></a>
-- t-009
+- t-028
   global_id: t-175084
-  teiginys: '1313 m. rudenį maršalas Henrikas su broliais ir Sembos bei Notangos vyrais užpuolė Bisenės pilį, o abu jos papiliai sudegė.'
+  teiginys: "1313 m. rudenį maršalas Henrikas su broliais ir Sembos bei Notangos vyrais užpuolė Bisenės pilį, o abu jos papiliai sudegė."
+  semantiniai_rysiai: "Sembai puolė Bisenė (0.72)"
+  temporaliniai_duomenys: "įvykio data: 1313 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "646757-647054; hash=439a3f93ed59ae4a3bb274a47953bea42bde3890f3088ef759397dc78ce1e62e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Bisenė: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sembai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Bisenė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Sembos vyrai nurodyti kaip puolime dalyvavę kariai, todėl galima atsargiai sieti juos su Bisenės puolimu."
   pagrindžia:
-    - c-008
+    - c-159217
 
 <a id="claim-t-175085"></a>
-- t-010
+- t-007
   global_id: t-175085
-  teiginys: 'Šešta — Semba196, kurioje [gyveno] sembai.'
+  teiginys: "Šešta — Semba196, kurioje [gyveno] sembai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "190622-190703; hash=baa9abb4a4eeaa8a8eec44739d455081bf2cd3a183b194db20e76fa2867417a0; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
-    - c-014
-    - c-018
+    - c-159223
+    - c-159229
 
 <a id="claim-t-175086"></a>
-- t-011
+- t-001
   global_id: t-175086
-  teiginys: 'Sembai buvo minimi tarp Rytprūsiuose žinomų vakarinių baltų genčių.'
+  teiginys: "Sembai buvo minimi tarp Rytprūsiuose žinomų vakarinių baltų genčių."
+  semantiniai_rysiai: "Sembai priklausė Baltai (0.90); Sembai gyveno Rytprūsiai (0.88)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "304836-305384; hash=58af4b122bd3bfec63bb207fc4bf2e541bb651f003f2d871473e57b983073b60; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Baltai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sembai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Baltai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys sembus mini kaip vieną iš vakarinių baltų genčių."
   pagrindžia:
-    - c-011
+    - c-159220
 
 <a id="claim-t-175088"></a>
-- t-012
+- t-021
   global_id: t-175088
-  teiginys: 'Sembai, nebepajėgdami priešintis, atsiuntė savo sūnus kaip įkaitus ir vėl pasidavė krikščionių tikėjimui.'
+  teiginys: "Sembai, nebepajėgdami priešintis, atsiuntė savo sūnus kaip įkaitus ir vėl pasidavė krikščionių tikėjimui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "398599-398867; hash=7e2c284d0f0c7ccb4396d6424604369bdaf9494becfd22baa3f488a809ba7a29; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-005
-    - c-007
-    - c-009
-    - c-021
-    - c-026
-    - c-028
-    - c-029
-    - c-030
+    - c-159213
+    - c-159215
+    - c-159218
+    - c-159235
+    - c-159243
+    - c-159246
+    - c-159248
+    - c-159249
 
 <a id="claim-t-175089"></a>
-- t-013
+- t-002
   global_id: t-175089
-  teiginys: 'XI-XII a. danų šaltiniai rodo, kad kuršiai ir sembai protarpiais mokėjo duoklę danams.'
+  teiginys: "XI-XII a. danų šaltiniai rodo, kad kuršiai ir sembai protarpiais mokėjo duoklę danams."
+  temporaliniai_duomenys: "įvykio data: 3640 m"
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "324252-324682; hash=80106f1631cef7e1f5c8decdd26cc5a1950798bfa703dae4322305805d367bb3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kuršiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sembai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kuršiai: mention_match, group, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sembai\" parinktas kaip owner_note_path. Targetas \"Kuršiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-015
+    - c-159224
 
 <a id="claim-t-175090"></a>
-- t-014
+- t-029
   global_id: t-175090
-  teiginys: '1314 m. maršalas Henrikas su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių.'
+  teiginys: "1314 m. maršalas Henrikas su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių."
+  semantiniai_rysiai: "Sembai surengė žygį į Medininkai (0.72)"
+  temporaliniai_duomenys: "įvykio data: 1314 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "647348-647919; hash=d1545523848d4e8f0a8309fe37792e5bff1b921183851081177db5e4f4a13caa; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Medininkai: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sembai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Medininkai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Sembos vyrai minimi kaip žygio į Medininkų valsčių dalyviai."
   pagrindžia:
-    - c-025
+    - c-159242
 
 <a id="claim-t-175091"></a>
-- t-015
+- t-025
   global_id: t-175091
-  teiginys: '1274 m. sembai kartu su pagudėnais, varmiais, notangais ir bartais grįžo į Bažnyčios visuotinybę ir davė įkaitų.'
+  teiginys: "1274 m. sembai kartu su pagudėnais, varmiais, notangais ir bartais grįžo į Bažnyčios visuotinybę ir davė įkaitų."
+  temporaliniai_duomenys: "įvykio data: 1274 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko sembų grįžimą į krikščionių valdžią."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "473963-474784; hash=59ae49fc8df63793e58690ed42c1e745c531dd4dceccaa7766cdf4fe865b7438; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bartai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sembai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Bartai: mention_match, group, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sembai\" parinktas kaip owner_note_path. Targetas \"Bartai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-023
+    - c-159238
 
 <a id="claim-t-175092"></a>
 - t-016
   global_id: t-175092
-  teiginys: 'Sembai paliko kuorus prie Karaliaučiaus, pasitraukė ir pastojo kelią maldininkų kariuomenei.'
+  teiginys: "Sembai paliko kuorus prie Karaliaučiaus, pasitraukė ir pastojo kelią maldininkų kariuomenei."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "385624-386128; hash=90207d4a53bc68b985e4c6ef3615f689d7d2fc45dd4c44c71b7dc13362d75c7f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kuorai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sembai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kuorai: mention_match, thing, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sembai\" parinktas kaip owner_note_path. Targetas \"Kuorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-010
+    - c-159219
 
 <a id="claim-t-175093"></a>
-- t-017
+- t-012
   global_id: t-175093
-  teiginys: 'Kvedenavos, Valdavos, Kaimo ir Tepliavos valsčių sembai davė karaliui įkaitus ir prisiekė paklusti tikėjimui bei broliams.'
+  teiginys: "Kvedenavos, Valdavos, Kaimo ir Tepliavos valsčių sembai davė karaliui įkaitus ir prisiekė paklusti tikėjimui bei broliams."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "348341-348965; hash=de330370cc697fa3fdd10e5b394041f1b1fe1d6b3ef7aa30eacb54a7cc3ca7df; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sembai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sembai\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-026
+    - c-159243
 
 <a id="claim-t-175094"></a>
-- t-018
+- t-003
   global_id: t-175094
-  teiginys: '1260 m. Klaipėdoje sembai minimi tarp Ordino pavaldžių užgrobtų žemių prievarta buriamų karių prieš Lietuvą.'
+  teiginys: "1260 m. Klaipėdoje sembai minimi tarp Ordino pavaldžių užgrobtų žemių prievarta buriamų karių prieš Lietuvą."
+  temporaliniai_duomenys: "įvykio data: 1260 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko aiškų faktą apie sembų dalyvavimą Ordino pajėgose."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "88586-89151; hash=9c5097834eb252e60b04ea040506a70a72bbc671cbaffbd32b1aca4d333702b3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sembai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sembai\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-42928
 
 <a id="claim-t-175095"></a>
-- t-019
+- t-030
   global_id: t-175095
-  teiginys: '1317 m. žiemą maršalas Henrikas, broliai ir Sembos bei Notangos kariai žygiavo prieš Vaikių valsčių, bet dėl audros grįžo atgal.'
+  teiginys: "1317 m. žiemą maršalas Henrikas, broliai ir Sembos bei Notangos kariai žygiavo prieš Vaikių valsčių, bet dėl audros grįžo atgal."
+  semantiniai_rysiai: "Sembai surengė žygį į Vaikiai (0.72)"
+  temporaliniai_duomenys: "įvykio data: 1317 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalinta antraštė ir fragmentiška pabaiga, paliktas aiškus įvykis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "657787-658636; hash=994c1103bda52c8f5faddf5713f4f2b1279835c21f4d1d8e1e60c4db2cfc0eb9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Vaikiai: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sembai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vaikiai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Sembos kariai tiesiogiai nurodyti žygyje prieš Vaikių valsčių."
   pagrindžia:
-    - c-019
+    - c-159231
 
 <a id="claim-t-175096"></a>
-- t-020
+- t-004
   global_id: t-175096
-  teiginys: 'Po mūšio išlikę sembai kartu su kitais krikščionių kariais bėgo, nebegalėdami kovoti.'
+  teiginys: "Po mūšio išlikę sembai kartu su kitais krikščionių kariais bėgo, nebegalėdami kovoti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "92182-92442; hash=5f3d0015d30697ecc343e5b9c0ad210d3eb0d7dc95b6de06135121b407d2199b; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-002
+    - c-42929
 
 <a id="claim-t-175097"></a>
-- t-021
+- t-015
   global_id: t-175097
-  teiginys: 'Grafui iš Barbio įsiveržus į Sembos žemę ir ją nusiaubus, sembai jį užpuolė sausio 21 d. ir sunkiai sužeidė.'
+  teiginys: "Grafui iš Barbio įsiveržus į Sembos žemę ir ją nusiaubus, sembai jį užpuolė sausio 21 d. ir sunkiai sužeidė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "382129-382495; hash=aa2694374e0c5f4bbb6d875e47de88532f807d59f32143296d6e8510bee8bcd5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Semba: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sembai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Semba: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sembai\" parinktas kaip owner_note_path. Targetas \"Semba\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-028
+    - c-159246
 
 <a id="claim-t-175098"></a>
-- t-022
+- t-024
   global_id: t-175098
-  teiginys: 'Po antrosios atskalūnybės Sembos žemėje pastatytos Tepliavos ir Viklandsorto pilys buvo sustiprintos sembams tramdyti.'
+  teiginys: "Po antrosios atskalūnybės Sembos žemėje pastatytos Tepliavos ir Viklandsorto pilys buvo sustiprintos sembams tramdyti."
+  temporaliniai_duomenys: "pastatymo data: 1265 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia pataisyti sakinio sandarą ir pašalinti perteklinį kartojimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "401282-401670; hash=dfaf930cf29fd6b86cf4a73e7358b4c82198c2221a16cd05909d95eeb09d3d94; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pilys: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sembai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Pilys: mention_match, thing, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sembai\" parinktas kaip owner_note_path. Targetas \"Pilys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-027
+    - c-159245
 
 <a id="claim-t-175099"></a>
-- t-023
+- t-019
   global_id: t-175099
-  teiginys: 'Kai kurie kilmingi sembai su šeimynomis paliko gimtuosius namus, atvyko į Karaliaučiaus pilį ir prisidėjo prie brolių.'
+  teiginys: "Kai kurie kilmingi sembai su šeimynomis paliko gimtuosius namus, atvyko į Karaliaučiaus pilį ir prisidėjo prie brolių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "387768-388278; hash=501519ca0a8010e55ca0302b41a0a1409f233d1102f480e9b690eb2abafcd25e; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-021
+    - c-159235
 
 <a id="claim-t-175100"></a>
-- t-024
+- t-008
   global_id: t-175100
-  teiginys: 'Sembos vardas šaltiniuose minimas formomis Semland, Samblandia, Zambia, Samia, Samplandia, Samlandia ir Sambia.'
+  teiginys: "Sembos vardas šaltiniuose minimas formomis Semland, Samblandia, Zambia, Samia, Samplandia, Samlandia ir Sambia."
+  temporaliniai_duomenys: "įvykio data: 1073 m.; įvykio data: 1224 m.; įvykio data: 1231 m.; įvykio data: 1238 m.; įvykio data: 1240 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko Sembos vardo formų išvardijimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "191621-192005; hash=0ba6f62a74b176a770e9db37f0f782f245b3768a858aa88bcc6c3ba59322f64a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Semba: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sembai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Semba: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sembai\" parinktas kaip owner_note_path. Targetas \"Semba\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-016
+    - c-159226
 
 <a id="claim-t-175101"></a>
-- t-025
+- t-006
   global_id: t-175101
-  teiginys: 'Sembų ir lietuvių bendrų veiksmų galima įžiūrėti XIII a. šeštojo dešimtmečio Klaipėdos pilies apgultyje.'
+  teiginys: "Sembų ir lietuvių bendrų veiksmų galima įžiūrėti XIII a. šeštojo dešimtmečio Klaipėdos pilies apgultyje."
+  semantiniai_rysiai: "Sembai buvo sąjungininkas su Lietuviai (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1262 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko bendrų sembų ir lietuvių veiksmų teiginį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "19782-20162; hash=b9245ad3171d7889d2a47f67d128cbadfece133d2bde5e7eb2da2830b0cbbbfe; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Lietuviai: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sembai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai kalba apie bendrus sembų ir lietuvių veiksmus apgultyje."
   pagrindžia:
-    - c-031
+    - c-159250
+
+<a id="claim-t-175094"></a>
+- t-003
+  global_id: t-175094
+  teiginys: "1260 m. Klaipėdoje sembai minimi tarp Ordino pavaldžių užgrobtų žemių prievarta buriamų karių prieš Lietuvą."
+  temporaliniai_duomenys: "įvykio data: 1260 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko aiškų faktą apie sembų dalyvavimą Ordino pajėgose."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "88586-89151; hash=9c5097834eb252e60b04ea040506a70a72bbc671cbaffbd32b1aca4d333702b3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sembai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sembai\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-42928
 
 <a id="claim-t-175103"></a>
-- t-027
+- t-017
   global_id: t-175103
-  teiginys: 'Per kautynes krito daugiau kaip trys tūkstančiai sembų ir kitų prūsų tą pačią dieną, kai prieš metus vyko Pokarvių kautynės.'
+  teiginys: "Per kautynes krito daugiau kaip trys tūkstančiai sembų ir kitų prūsų tą pačią dieną, kai prieš metus vyko Pokarvių kautynės."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "386788-387167; hash=ac406a18890097b836eabf37bb3c05365be67ac63dc2b6e3062d8c1e4fd79e0d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsų žemė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_place_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sembai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Prūsai: mention_match, place, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sembai\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-159215
 
 <a id="claim-t-175104"></a>
-- t-028
+- t-013
   global_id: t-175104
-  teiginys: 'Prūsams vėl atkritus nuo tikėjimo, sembai savo kariuomenės vadu ir vyresniuoju išsirinko Glandą.'
+  teiginys: "Prūsams vėl atkritus nuo tikėjimo, sembai savo kariuomenės vadu ir vyresniuoju išsirinko Glandą."
+  semantiniai_rysiai: "Sembai paskyrė Glanda (0.93)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "374656-375174; hash=163b7d2001444dfd4d0bd75d5f9a360958a667441748506bc2f305c13c2c6ea2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "paskyre -> Glanda: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sembai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Glanda: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citatoje tiesiogiai pasakyta, kad sembai išsirinko Glandą savo kariuomenės vadu ir vyresniuoju."
   pagrindžia:
-    - c-030
+    - c-159249
 
 <a id="claim-t-175105"></a>
-- t-029
+- t-026
   global_id: t-175105
-  teiginys: 'Sembų fogtas Ditrichas iš Lidelau, grįžęs iš Vokietijos, atkalbėjo jį gerbusius sembus nuo paklydimo.'
+  teiginys: "Sembų fogtas Ditrichas iš Lidelau, grįžęs iš Vokietijos, atkalbėjo jį gerbusius sembus nuo paklydimo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "503022-503319; hash=09dd22c115b71408279ba7f8e7ebde13d9807aeb04fc8fb63bf25f7868958dae; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> fogtas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sembai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "fogtas: mention_match, thing, gap=6"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sembai\" parinktas kaip owner_note_path. Targetas \"fogtas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-012
+    - c-159221
+
+<a id="claim-t-175097"></a>
+- t-015
+  global_id: t-175097
+  teiginys: "Grafui iš Barbio įsiveržus į Sembos žemę ir ją nusiaubus, sembai jį užpuolė sausio 21 d. ir sunkiai sužeidė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "382129-382495; hash=aa2694374e0c5f4bbb6d875e47de88532f807d59f32143296d6e8510bee8bcd5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Semba: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sembai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Semba: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sembai\" parinktas kaip owner_note_path. Targetas \"Semba\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-159246
+
+<a id="claim-t-175079"></a>
+- t-022
+  global_id: t-175079
+  teiginys: "Rinavos valsčiuje gyvenę sembai vėl atkrito nuo tikėjimo ir, subūrę kariuomenę, užpuolė Sembos vyskupo Fišhauzeno pilį."
+  semantiniai_rysiai: "Sembai puolė Fišhauzenas (0.97); Sembai gyveno Rinava (0.96)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "398868-399243; hash=2db9aed77aa9e1649f7a81503167ea2467210a7ae3fd60c35653bdc4e1360758; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Fišhauzenas: 0.97"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sembai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Fišhauzenas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claim ir citata tiesiogiai teigia, kad sembai užpuolė Fišhauzeno pilį."
+  pagrindžia:
+    - c-159214
+
+<a id="claim-t-175098"></a>
+- t-024
+  global_id: t-175098
+  teiginys: "Po antrosios atskalūnybės Sembos žemėje pastatytos Tepliavos ir Viklandsorto pilys buvo sustiprintos sembams tramdyti."
+  temporaliniai_duomenys: "pastatymo data: 1265 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia pataisyti sakinio sandarą ir pašalinti perteklinį kartojimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "401282-401670; hash=dfaf930cf29fd6b86cf4a73e7358b4c82198c2221a16cd05909d95eeb09d3d94; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pilys: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sembai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Pilys: mention_match, thing, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sembai\" parinktas kaip owner_note_path. Targetas \"Pilys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-159245
+
+<a id="claim-t-175095"></a>
+- t-030
+  global_id: t-175095
+  teiginys: "1317 m. žiemą maršalas Henrikas, broliai ir Sembos bei Notangos kariai žygiavo prieš Vaikių valsčių, bet dėl audros grįžo atgal."
+  semantiniai_rysiai: "Sembai surengė žygį į Vaikiai (0.72)"
+  temporaliniai_duomenys: "įvykio data: 1317 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalinta antraštė ir fragmentiška pabaiga, paliktas aiškus įvykis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "657787-658636; hash=994c1103bda52c8f5faddf5713f4f2b1279835c21f4d1d8e1e60c4db2cfc0eb9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Vaikiai: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sembai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vaikiai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Sembos kariai tiesiogiai nurodyti žygyje prieš Vaikių valsčių."
+  pagrindžia:
+    - c-159231
+
+<a id="claim-t-194357"></a>
+- t-036
+  global_id: t-194357
+  teiginys: "Apie daugybės maldininkų žūtį Tais pačiais metais į Prūsiją su didele kariuomene atžygiavo grafas iš Barbio368 ir įsibrovė į Sembos žemę."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "382129-382495; hash=aa2694374e0c5f4bbb6d875e47de88532f807d59f32143296d6e8510bee8bcd5; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-159246
+
+<a id="claim-t-194358"></a>
+- t-037
+  global_id: t-194358
+  teiginys: "Dusburgietis teigia, kad šitaip iš dievo malonės tą dieną krito daugiau nei trys tūkstančiai sembų bei kitų prūsų, taigi tą pačią dieną, kurią prieš metus įvyko Pokarvių kautynės."
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "386788-387167; hash=ac406a18890097b836eabf37bb3c05365be67ac63dc2b6e3062d8c1e4fd79e0d; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-159215
+
+<a id="claim-t-194359"></a>
+- t-038
+  global_id: t-194359
+  teiginys: "Apie Rinavos valsčiaus sembų naują atskalūnybę Žmonių giminės nedraugas velnias, visados pavydįs tikintiesiems taikos bei ramybės, sukurstė tuos sembus, kurie gyveno Rinavos382 valsčiuje, vėl atkristi nuo tikėjimo."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "398868-399243; hash=2db9aed77aa9e1649f7a81503167ea2467210a7ae3fd60c35653bdc4e1360758; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-159214
+
+<a id="claim-t-194360"></a>
+- t-039
+  global_id: t-194360
+  teiginys: "Apie tai, kaip Sembos žemėje buvo pastatytos Tepliavos ir Laukstetų pilys Po antrosios atskalūnybės buvo pastatyta 1265 m. Tepliavos pilis, kurią prūsai vadino Surgurbiu384, o ilgainiui— Viklandsorto385 pilis, kuri dabar vadinama Laukstetais386 nuo vieno ten."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "401282-401670; hash=dfaf930cf29fd6b86cf4a73e7358b4c82198c2221a16cd05909d95eeb09d3d94; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-159245
+
+<a id="claim-t-194361"></a>
+- t-040
+  global_id: t-194361
+  teiginys: "Kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę kariuomenę 1317 viešpaties metais, žiemą, kai brolis Henrikas, maršalas, broliai bei Sembos ir Notangos kariai nužygiavo prieš Vaikių valsčių, pačiame vidurnaktyje, vos sumigus."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "657787-658636; hash=994c1103bda52c8f5faddf5713f4f2b1279835c21f4d1d8e1e60c4db2cfc0eb9; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-159231
 - susijęs iš [[objektai/posakiai/Prakeiktasis Noliube, eik dabar ir būk valkata.md#claim-t-89602|Prakeiktasis Noliube, eik dabar ir būk valkata]]: Vargulis įspėjo Noliubą žodžiais „Prakeiktasis Noliube, eik dabar ir būk valkata“, ragindamas paklusti broliams.
+- susijęs iš [[objektai/asmenys/Hartknochas.md#claim-t-190860|Hartknochas]]: Narbuto perteikimu Hartknochas tvirtino, kad kimbrai gyveno vėlesnių prūsų žemėje ir ten buvo vadinami sembais.
 - susijęs iš [[objektai/asmenys/Henrikas Stange.md#claim-t-60319|Henrikas Stange]]: Kristburgo komtūras Henrikas Stange žiemą įsiveržė į Sembą su didele kariuomene, degindamas ir grobdamas iki Girmavos kaimo.
 - susijęs iš [[objektai/asmenys/Henrikas Ulenbušas.md#claim-t-60140|Henrikas Ulenbušas]]: Henrikas Ulenbušas nepasitraukė iš mūšio lauko ir narsiu gynimusi paskatino kitus grįžti į kovą su sembais.
 - susijęs iš [[objektai/asmenys/Juodutis.md#claim-t-60352|Juodutis]]: Juodutis buvo Naudžioto, sembų valstiečių išrinkto karvedžio, tėvas.
@@ -376,6 +829,8 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
 - susijęs iš [[objektai/zodynas/fogtas.md#claim-t-58810|fogtas]]: Magistras Konradas iš Tirbergo pasiuntė sembų žemės fogtą Ditrichą su kariuomene į Nadruvą.
 - susijęs iš [[objektai/zodynas/fogtas.md#claim-t-58811|fogtas]]: Grįžęs iš Vokietijos, sembų fogtas Ditrichas iš Lidelau atkalbėjo jį gerbusius sembus nuo paklydimo.
 - susijęs iš [[objektai/zodynas/fogtas.md#claim-t-58812|fogtas]]: Sembų fogtas Ditrichas magistro įsakymu su broliais ir tūkstančiu vyrų atplaukė pulti Ragainės pilies.
+- susijęs iš [[objektai/zodynas/vitingas.md#claim-t-192271|vitingas]]: Teodoras Narbutas vitingų titulo aiškinimą sieja su Sambijoje buvusia bajorų kasta, vadinta Withingen.
+- susijęs iš [[objektai/zodynas/vitingas.md#claim-t-192272|vitingas]]: Teodoras Narbutas vitingų titulą aiškina kaip skandinavų vikingų įpėdinių išsaugotą titulą tarp Sambijos bajorų.
 - susijęs iš [[objektai/asmenys/Henrikas Stange.md#claim-t-60319|Henrikas Stange]]: Kristburgo komtūras Henrikas Stange žiemą įsiveržė į Sembą su didele kariuomene, degindamas ir grobdamas iki Girmavos kaimo.
 - susijęs iš [[objektai/asmenys/Henrikas Ulenbušas.md#claim-t-60140|Henrikas Ulenbušas]]: Henrikas Ulenbušas nepasitraukė iš mūšio lauko ir narsiu gynimusi paskatino kitus grįžti į kovą su sembais.
 - susijęs iš Girmava: Ruskojė) — Girmava, į pietryčius nuo Palmininkų (dab.
@@ -405,8 +860,9 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
     metu Rytų Europą užplūdusius totorius
     gausiai suverbuoti kryžininkai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
@@ -425,8 +881,9 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
     pasišalinti, „bet juos nesėkmė ir čia
     lydėjo“.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
@@ -442,6 +899,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
     Kultūros  ir kalbos požiūriu bartų teritorija laikoma pereinamąja tarp tikrųjų prūsų  ir
     jotvingių arba priskiriama prūsams.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -468,6 +926,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
     abu, ilgai gynęsi ir daugybę mirtinai sužeidę, krito nukauti, o kiti broliai su kariuomene
     pasitraukė317.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -489,6 +948,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
 
                110 (105).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -505,12 +965,14 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
     Todėl jie, subūrę kariuomenę, užpuolė Sembos vyskupo pilį Fišhauzeną383, kur tuo metu
     tebuvo du vyrai: vienas brolis bei jo tarnas. Ir štai kokie stebuklai!
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
     - t-031
+    - t-036
 
 - c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -521,12 +983,14 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
     krito daugiau nei trys tūkstančiai sembų bei kitų prūsų, taigi tą pačią dieną, kurią prieš
     metus įvyko Pokarvių kautynės.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
     - t-027
+    - t-035
 
 - c-008
   santrauka: '1313 m. rudenį maršalas Henrikas su broliais ir Sembos bei Notangos vyrais užpuolė Bisenės pilį, o abu jos papiliai sudegė.'
@@ -543,6 +1007,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
 
                     320 (313).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -560,6 +1025,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
     nes tie paliko kuorus, pasitraukė ir pastojo maldininkams kelią. Šitai sužinojęs, Julicho
     grafas irgi pasitraukė su savo kariuomene, nė nenujausdamas, jog jam paspęsti spąstai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -578,6 +1044,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
     vienas iš jų, vardu Stantekas, susidūrė su sembų sauga, tačiau nors sunkiai sužeistas,
     atbėgo su kruvinu kalaviju rankose pranešti apie pasalą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -598,6 +1065,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
     (XIII amž.) randami kairiajame Dauguvos deltos krante, pietuose
     nusitęsę iki Šiaulių - Upytės.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -614,6 +1082,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
     sembus, kurie  jį nuoširdžiai gerbė, nuo šito paklydimo. Kai šitai sužinojo notangai ir
     varmiai, patys išsižadėjo piktų sumanymų, duodami žodį būti ištikimi broliams.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -629,6 +1098,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
     tūkstančių karių. Semba, turtingiausia  ir tirščiausiai gyvenama žemė, galėjo sutelkti
     keturis tūkstančius raitelių ir keturiasdešimt tūkstančių karių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -641,6 +1111,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
   citata_originali: |
     Notanga195, kurioje [gyveno] notangai. Šešta — Semba196, kurioje [gyveno] sembai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -659,6 +1130,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
     kuršiai dar buvo užėmę platų Žemaičių šiaurės vakarų kampą ir
     Klaipėdos apylinkę.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -675,6 +1147,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
     97), Samplandia (1240 m.— ten pat, Nr. 133, p. 100), Samlandia (1242 m.— ten pat, Nr.
     140, p. 105), Sambia (1246 m.— ten pat, Nr. 177, p. 128—129).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -691,6 +1164,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
     Medrabos pilies534, per kurią krikščionys patyrė daug bėdų, ir ją po stipraus antpuolio iki
     pamatų sudegino, o visus žmones išžudė ar paėmė į nelaisvę.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -706,6 +1180,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
     iki Priegliaus žiočių (jai priklausė kiek  į vakarus nuo Priegliaus žiočių vėliau kryžiuočių
     pastatyta Lencenbergo pilis).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -729,12 +1204,14 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
 
     vienas nebūtų išnešęs sveikos galvos.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
     - t-033
+    - t-038
 
 - c-020
   santrauka: 'Semba apibūdinta kaip turtingiausia ir tankiausiai gyvenama žemė, galėjusi sutelkti 4000 raitelių ir 40000 karių.'
@@ -746,6 +1223,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
     keturis tūkstančius raitelių ir keturiasdešimt tūkstančių karių. Sūduviai, patys tauriausieji,
     pranokdavo kitus ne tik papročių kilnumu, bet turtais bei galybe.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -768,6 +1246,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
 
      101 (96).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -785,6 +1264,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
     paspaudė ir atpalaidavo nuleistuką, o arbaleto templė nukirto jam kaklą, ir jis neilgai
     trukus iškvėpė dvasią. Po šio įvykio prūsai labai bijojo arbaletų.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -807,6 +1287,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
     visomis savo šeimynomis ir, krikšto prikelti naujam gyvenimui bei išsižadėję stabų, ėmė
     tarnauti gyvajam dievui Jėzui Kristui.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -830,6 +1311,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
     kad šitokia kankinių už tikėjimą mirtis ir prideranti šventiems vyrams, nes nedrįstą jų
     kraujo pralieti.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -848,6 +1330,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
     karšto tikėjimo ir tvirtai pasikliaudami viešpačiu, jie iki galo padarė visa, ko buvo ėmęsi
     mūsų dievo Jėzaus Kristaus garbei.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -865,6 +1348,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
     prie kalvos, kurioje dabar stovi Karaliaučiaus pilis, patardamas broliams čia pastatyti
     pilį tikėjimui ginti ir palikdamas jiems puikių, tikrai karališkų dovanų šiai statybai.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -887,12 +1371,14 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
 
                    113 (108).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
     - t-032
+    - t-037
 
 - c-028
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -909,6 +1395,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
 
                   94 (89).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -916,6 +1403,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
     - t-021
     - t-030
     - t-012
+    - t-034
 
 - c-029
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -929,6 +1417,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
     ir tarė: „Dar šiandien sembai bus išžudyti arba žemė pravers savo žiotis ir juos gyvus
     praris nelyginant Dataną ir Abironą“. Šitaip ir įvyko, kaip buvo sakęs.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -952,6 +1441,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
 
                    90 (85). Apie didelį krikščionių kraujo praliejimą
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -969,11 +1459,558 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
     metu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė
     Ordino užnugarį pavyslyje (III, 160).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-025
+
+## Citatos
+
+- id: c-42928
+  citata_originali: |
+    Ordino pajėgos
+    1260 m. Klaipėdoje prieš Lietuvą buvo
+    sutelktos Livonijos ir Prūsijos kryžiuočių
+    ordinų pajėgos, broliai riteriai ir
+    i 4 jiems pavaldžių užgrobtų žemių
+    “prievarta buriami kariai (prūsai -
+    pamedėnai, notangai, varmiai, sem-
+    bai, o taip pat kuršiai, estai ir kt.), iš
+    Vokietijos žemių 30 naujai įstojusių Ordino
+    brolių būrys, Revelio (Talino) danų kariuo-
+    menė, vadovaujama švedų kunigaikščio
+    Karolio, turėjusio dar savo būrį. Į šią kry-
+    žiaus karo akciją buvo įtraukti ir prieš tuo
+    metu Rytų Europą užplūdusius totorius
+    gausiai suverbuoti kryžininkai.
+  citata_rodoma: "Klaipėdoje prieš Lietuvą buvo\nsutelktos Livonijos ir Prūsijos kryžiuočių\nordinų pajėgos, broliai riteriai ir\ni 4 jiems pavaldžių užgrobtų žemių\n“prievarta buriami kariai (prūsai -\npamedėnai, notangai, varmiai, sem-\nbai, o taip pat kuršiai, estai ir kt.), iš\nVokietijos žemių 30 naujai įstojusių Ordino\nbrolių būrys, Revelio (Talino) danų kariuo-\nmenė, vadovaujama švedų kunigaikščio\nKarolio, turėjusio dar savo būrį."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175094
+    - t-175102
+
+- id: c-42929
+  citata_originali: |
+    „Kai mūšis pasibaigė, kas krikščio-
+    nių gyvas liko, brolių ir ginklanešių,
+    piligrimų ir sembų, nebegalėdami
+    kovoti, iš baimės... bėgo, kaip kas
+    tik galėjo...“ Netolimame lapuo-
+    čių miške bandė pasislėpti ir slapta
+    pasišalinti, „bet juos nesėkmė ir čia
+    lydėjo“.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175096
+
+- id: c-159211
+  citata_originali: |
+    Archeologijos, kalbos ir kitokie duomenys leidžia išskirti sembų—notangų kultūrinę
+    grupę, o joje — sembų, varmių, notangų, pagudėnų, pamedėnų gentines teritorijas.
+    Kalbos požiūriu šiame plote (t. y. prūsų kalboje) randami du pagrindiniai dialektai:
+    pamedėnų ir—artimesnis lietuviams — sembų; tam tikrų skirtybių turi notangų dialektas.
+    Kultūros  ir kalbos požiūriu bartų teritorija laikoma pereinamąja tarp tikrųjų prūsų  ir
+    jotvingių arba priskiriama prūsams.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175082
+
+- id: c-159212
+  citata_originali: |
+    Apie Girmavos valsčiaus nuniokojimą
+
+      Daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną
+    aprašinėdami skyrium, nors šį bei tą reikia pasakyti. Kristburgo komtūras, brolis Henrikas,
+    vadinamas Stange313, gavęs magistro įsakymą, su didele kariuomene patraukė  į karą
+    prieš Sembą ir žiemos metu314 įsibrovė į ją apie tą vietą, kur šiuo metu stovi Laukstetų
+    pilis315, degindamas ir grobdamas abiejose [kelio] pusėse iki Girmavos kaimo316, daug
+    žmonių nukovė ir paėmė į nelaisvę, bet čia atskubėjo ginkluoti sembai. Mūsų minėtasis
+    komtūras nelyginant bebaimis liūtas pastojo jiems kelią ir, norėdamas juos tol sulaikyti,
+    kol jo kariuomenė užims saugesnę vietą, daugybę sužeidė ietimi. Galop prūsai klasta jį
+    apsupo ir galybe smūgių nubloškė nuo žirgo. Kai šitai išvydo, brolis Hermanas, minėtojo
+    komtūro tikras brolis, didžiai susijaudino dėl jo likimo. Negalėdamas ramiai matyti, kad
+    jo brolis vienas užsikrovė ant pečių smurtingos mirties naštą, pats stojo į kovą, ir galop
+    abu, ilgai gynęsi ir daugybę mirtinai sužeidę, krito nukauti, o kiti broliai su kariuomene
+    pasitraukė317.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175077
+
+- id: c-159213
+  citata_originali: |
+    109 (104). Apie brolių ir sembų susitaikymą
+
+       Šiais  ir kitais smūgiais brolių bei kitų krikščionių rankomis viešpaties baudžiami
+    sembai, nepajėgdami ilgiau priešintis, atsiuntė savo sūnus kaip įkaitus ir vėl pasidavė
+    krikščionių tikėjimui.
+
+
+
+
+               110 (105).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175088
+
+- id: c-159214
+  citata_originali: |
+    Apie Rinavos valsčiaus sembų naują atskalūnybę
+
+      Žmonių giminės nedraugas velnias, visados pavydįs tikintiesiems taikos bei ramybės,
+    sukurstė  tuos sembus, kurie gyveno Rinavos382 valsčiuje, vėl atkristi nuo tikėjimo.
+    Todėl jie, subūrę kariuomenę, užpuolė Sembos vyskupo pilį Fišhauzeną383, kur tuo metu
+    tebuvo du vyrai: vienas brolis bei jo tarnas. Ir štai kokie stebuklai!
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175079
+    - t-183894
+    - t-194359
+
+- id: c-159215
+  citata_originali: |
+    Prisiėjo tam reikalui pasikviesti  į talką visus Karaliaučiaus brolius bei jų
+    ginklanešius. Šie narsiai juos užpuolė ir po ilgos kovos, pareikalavusios vienoje ir kitoje
+    pusėje daugybės sužeistųjų ir nukautųjų, visus išžudė. Šitaip iš dievo malonės tą dieną
+    krito daugiau nei trys tūkstančiai sembų bei kitų prūsų, taigi tą pačią dieną, kurią prieš
+    metus įvyko Pokarvių kautynės.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175088
+    - t-175103
+    - t-194358
+
+- id: c-159217
+  citata_originali: |
+    319 (312). Apie Bisenės papilių sudeginimą 1313 metais
+
+      Šių metų rudenį brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais
+    užpuolė Bisenės pilį; po ilgų puolamųjų kovų, kai abiejose pusėse buvo daug sužeistųjų,
+    abu jos papiliai supleškėjo ugnyje.
+
+
+
+
+                    320 (313).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175084
+
+- id: c-159218
+  citata_originali: |
+    Tą pačią dieną jie norėjo užkariauti sembų kuorus
+    [propugnacula], kuriais buvo apsupta Karaliaučiaus pilis, tačiau broliai juos atkalbėjo,
+    nes vargu ar per likusias valandas tą dieną būtų baigę šias smarkias kautynes. Išaušus,
+    kai krikščionių kariuomenė jau ketino užpulti kuorus, jie nerado čia nė vieno sembo,
+    nes tie paliko kuorus, pasitraukė ir pastojo maldininkams kelią. Šitai sužinojęs, Julicho
+    grafas irgi pasitraukė su savo kariuomene, nė nenujausdamas, jog jam paspęsti spąstai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175088
+
+- id: c-159219
+  citata_originali: |
+    Išaušus,
+    kai krikščionių kariuomenė jau ketino užpulti kuorus, jie nerado čia nė vieno sembo,
+    nes tie paliko kuorus, pasitraukė ir pastojo maldininkams kelią. Šitai sužinojęs, Julicho
+    grafas irgi pasitraukė su savo kariuomene, nė nenujausdamas, jog jam paspęsti spąstai.
+    Brolių patariamas, jis pasiuntė  į priekį žvalgus, įsakydamas sužinoti, ar saugūs keliai;
+    vienas iš jų, vardu Stantekas, susidūrė su sembų sauga, tačiau nors sunkiai sužeistas,
+    atbėgo su kruvinu kalaviju rankose pranešti apie pasalą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175092
+
+- id: c-159220
+  citata_originali: |
+    Latviją). Iškilo dar didesnė kilčių diferenciacija.
+    Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau
+    galima kalbėti žymiai anksčiau, ir ten žinomi Lietuvos Užnemunėje
+    sūduviai, Rytprūsiuose sembai, galindai, bartai, nadruviai, skalviai
+    ir kt.
+    Lietuvos ir Latvijos teritorijoje rytiniai baltai ilgiau sudarė
+    vieną kamieną, bet ir čia nuo V-VI amž. po Kr. ryškiau vienos
+    nuo kitų atsiskiria tokios kiltys : lietuviai, žiemgaliai, kurie vėliau
+    (XIII amž.) randami kairiajame Dauguvos deltos krante, pietuose
+    nusitęsę iki Šiaulių - Upytės.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175086
+
+- id: c-159221
+  citata_originali: |
+    190 (185). Apie daugybės pagudėnų išžudymą
+
+      Grįžęs šiuo metu iš Vokietijos, brolis Ditrichas iš Lidelau, sembų fogtas, atkalbėjo
+    sembus, kurie  jį nuoširdžiai gerbė, nuo šito paklydimo. Kai šitai sužinojo notangai ir
+    varmiai, patys išsižadėjo piktų sumanymų, duodami žodį būti ištikimi broliams.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175105
+
+- id: c-159222
+  citata_originali: |
+    Didžiąja ir Mažąja Barta ir kurioje gyveno bartai, arba bartėnai. Vargu ar kuri šių giminių
+    buvo tokia nedidelė, kad karui negalėtų sutelkti dviejų tūkstančių raitųjų vyrų ir daug
+    tūkstančių karių. Semba, turtingiausia  ir tirščiausiai gyvenama žemė, galėjo sutelkti
+    keturis tūkstančius raitelių ir keturiasdešimt tūkstančių karių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175076
+
+- id: c-159223
+  citata_originali: |
+    Notanga195, kurioje [gyveno] notangai. Šešta — Semba196, kurioje [gyveno] sembai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175085
+
+- id: c-159224
+  citata_originali: |
+    Nė sausakimšoje Apuolės pilia­
+    kalnio aikštėje (ploto 3640 m.^2 ) jokiu būdu negalėjo tilpti tiek
+    karių, kurie esą turėję nuo galvos išsipirkti, mokėdami po pusę
+    svaro sidabro. Iš XI-XII amž. danų šaltinių (Genealogia regum
+    Danorum; Saxo Grammaticus) yra matoma, jog kuršiai ir sembai
+    protarpiais esą mokėję duoklę ir danams. Istorinių laikų angoje
+    kuršiai dar buvo užėmę platų Žemaičių šiaurės vakarų kampą ir
+    Klaipėdos apylinkę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175089
+
+- id: c-159226
+  citata_originali: |
+    196 D.— Sambia, in qua Sambite, Jer.— Samin. Anksčiau Semland (1073 m.),
+    Samblandia (1224 m.—PUB, 1, 1, Nr. 52, p. 38), Zambia (1231 m — SRP, 1, p. 737;
+    1256 m.— SU, Nr. 51, p. 15), Samia (paganis Samie — 1238 m., PUB, 1, 1, Nr. 129, p.
+    97), Samplandia (1240 m.— ten pat, Nr. 133, p. 100), Samlandia (1242 m.— ten pat, Nr.
+    140, p. 105), Sambia (1246 m.— ten pat, Nr. 177, p. 128—129).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175100
+
+- id: c-159228
+  citata_originali: |
+    pavadino tuo pačiu vardu. Minėtas  brolis Bertoldas,  šitai sužinojęs, atžygiavo su
+    tūkstančiu Sembos vyrų  ir pabandė sutrukdyti statybai, bet nestengė, nes netikėliai
+    stipriai priešinosi; nenorėdami, kad jų pastangos būtų visai bergždžios, jie pasuko link
+    Medrabos pilies534, per kurią krikščionys patyrė daug bėdų, ir ją po stipraus antpuolio iki
+    pamatų sudegino, o visus žmones išžudė ar paėmė į nelaisvę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175083
+
+- id: c-159229
+  citata_originali: |
+    Šešta — Semba196, kurioje [gyveno] sembai.
+
+    iki Priegliaus žiočių (jai priklausė kiek  į vakarus nuo Priegliaus žiočių vėliau kryžiuočių
+    pastatyta Lencenbergo pilis).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175085
+
+- id: c-159231
+  citata_originali: |
+    Kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę
+                                    kariuomenę
+
+      1317 viešpaties metais, žiemą, kai brolis Henrikas, maršalas, broliai bei Sembos ir
+    Notangos kariai nužygiavo prieš Vaikių valsčių, pačiame vidurnaktyje, vos sumigus,
+    atūžė tokia siaubinga, tokia nematyta negirdėta audra, kad vėjai taip klaikiai daužėsi,
+    jog rodėsi, kad tranko griaustinis; nekalbant jau apie baimę, apėmusią žmones, daugiau
+    nei penki šimtai arklių, sutraukę kamanas ir pančius, išlakstė po mišką. Todėl, vargais
+    negalais sugaudę arklius, tiesa, ne visus, brolių kariuomenė patraukė atgal. Neilgai
+    trukus jie gavo patikimą žinią, kad daugybė kovai pasirengusių netikėlių tris dienas
+    tykojo brolių bei jų kariuomenės; jeigu krikščionys būtų įsibrovę  į jų žemę grobio, nė
+
+    vienas nebūtų išnešęs sveikos galvos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175095
+    - t-183896
+    - t-194361
+
+- id: c-159234
+  citata_originali: |
+    Vargu ar kuri šių giminių
+    buvo tokia nedidelė, kad karui negalėtų sutelkti dviejų tūkstančių raitųjų vyrų ir daug
+    tūkstančių karių. Semba, turtingiausia  ir tirščiausiai gyvenama žemė, galėjo sutelkti
+    keturis tūkstančius raitelių ir keturiasdešimt tūkstančių karių. Sūduviai, patys tauriausieji,
+    pranokdavo kitus ne tik papročių kilnumu, bet turtais bei galybe.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175076
+
+- id: c-159235
+  citata_originali: |
+    100 (95). Apie tikinčiuosius sembus, prisidėjusius prie Karaliaučiaus brolių
+
+      Nė  šis smarkus sukrėtimas neįvarė sembams proto  ir nepaskatino jų sugrįžti  į
+    šventosios motinos bažnyčios prieglobstį, anaiptol, apmaudo kurstomi, įžūliai sukilo prieš
+    viešpaties rykštę ir pradėjo kuo atkakliausiai kariauti su broliais, išskyrus kai kuriuos
+    garsios giminės bei kilmingus vyrus, kurie, palikę gimtuosius namus, vienas po kito su
+    šeimynomis atvyko į Karaliaučiaus pilį ir prisidėjo prie brolių372.
+
+
+
+
+     101 (96).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175099
+    - t-175088
+
+- id: c-159236
+  citata_originali: |
+    Vienas
+    sembas paėmė šį arbaletą  ir pasikabino ant kaklo. Kiti, apspitę  jį, didžiai stebėjosi,
+    nežinodami, kas tai yra, nes anksčiau tokių daiktų nebuvę matę; ilgai jį čiupinėję, galop
+    paspaudė ir atpalaidavo nuleistuką, o arbaleto templė nukirto jam kaklą, ir jis neilgai
+    trukus iškvėpė dvasią. Po šio įvykio prūsai labai bijojo arbaletų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175080
+
+- id: c-159238
+  citata_originali: |
+    175 (170). Apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą
+
+      1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams,
+    varmiams, notangams, bartams bei sembams, davus jiems įkaitų  ir šitaip laidavus,
+    kad jie ateityje niekada nemėginsią imtis tokių baisingų veiksmų, bet būsią nuolankiai
+    paklusnūs tikėjimui ir brolių valdžiai, magistras ir broliai, susirūpinę krikščionių [žemių]
+    ribų praplėtimu, nukreipė savo ginklus prieš nadruvius. Po to, kai mūsų aukščiau minėtas
+    Tirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais savo artimaisiais pasidavė tikėjimui
+    bei broliams, daug galingų ir kilmingų Nadruvos vyrų vienas po kito atėjo pas brolius su
+    visomis savo šeimynomis ir, krikšto prikelti naujam gyvenimui bei išsižadėję stabų, ėmė
+    tarnauti gyvajam dievui Jėzui Kristui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175091
+
+- id: c-159241
+  citata_originali: |
+    Apie didelį krikščionių kraujo praliejimą
+
+      Šie kariuomenių vadai ir vyresnieji paskyrė dieną, kada, visi susirinkę ginkluoti, turėjo
+    išžudyti visus žmones, išpažįstančius krikščionių tikėjimą, ir visiškai juos išnaikinti. Jie šitai
+    ir padarė, nes visus krikščionis, kurie nespėjo Prūsijos žemėje pasislėpti už įtvirtinimų,
+    arba be gailesčio išžudė, arba išsivarė į amžinąją vergovę; degindami dievo bažnyčias,
+    koplyčias  ir kitus maldos namus, niekindami bažnyčios šventenybes, neleistiniems
+    tikslams pavartodami šventus rūbus ir šventas taures, jie be pasigailėjimo žudė kunigus
+    bei kitus bažnyčios tarnus. Sembai pagavo vieną kunigą, Teutonų ordino brolį, atsiųstą jų
+    krikštyti, ir, suspaudę jam kaklą dviem kartimis, tol kankino, kol šis numirė, tvirtindami,
+    kad šitokia kankinių už tikėjimą mirtis ir prideranti šventiems vyrams, nes nedrįstą jų
+    kraujo pralieti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175081
+
+- id: c-159242
+  citata_originali: |
+    1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats
+    brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų
+    valsčių569; keli lietuviai, naktį įsibrovę į jo palapines, nužudė 4 vyrus ir išsivarė du arklius,
+    todėl krikščionių kariuomenė kiaurą naktį nematė ramybės. Vis dėlto šitai neįbaugino
+    brolių taip smarkiai, kad jie nors kiek būtų uždelsę pradėtąjį viešpaties darbą. Skatinami
+    karšto tikėjimo ir tvirtai pasikliaudami viešpačiu, jie iki galo padarė visa, ko buvo ėmęsi
+    mūsų dievo Jėzaus Kristaus garbei.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175090
+
+- id: c-159243
+  citata_originali: |
+    kad jų kilmingieji pasiūlė karaliui įkaitų, maldaudami jų pagailėti ir nežudyti visų žmonių.
+    Paskui jis atžygiavo  į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten
+    kai kurie, bijodami, kad ir čia jis nepridarytų panašių skerdynių kaip kitur, atidavė jam
+    įkaitais savo sūnus, galvomis prisiekdami nuolankiai paklusti tikėjimui ir broliams. Viską
+    tinkamai sutvarkęs, karalius perdavė broliams minėtuosius įkaitus, o pats nužygiavo
+    prie kalvos, kurioje dabar stovi Karaliaučiaus pilis, patardamas broliams čia pastatyti
+    pilį tikėjimui ginti ir palikdamas jiems puikių, tikrai karališkų dovanų šiai statybai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175093
+    - t-175088
+
+- id: c-159245
+  citata_originali: |
+    Apie tai, kaip Sembos žemėje buvo pastatytos Tepliavos ir Laukstetų pilys
+
+      Po antrosios atskalūnybės buvo pastatyta 1265 m. Tepliavos pilis, kurią prūsai vadino
+    Surgurbiu384, o ilgainiui— Viklandsorto385 pilis, kuri dabar vadinama Laukstetais386 nuo
+    vieno ten gyvenusio sembo, vadinamo Laukstetu, vardo, jas sustiprinant, kad būtų
+    lengviau tramdyti sembus.
+
+
+
+
+                   113 (108).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175098
+    - t-183895
+    - t-194360
+
+- id: c-159246
+  citata_originali: |
+    Apie daugybės maldininkų žūtį
+
+       Tais pačiais metais  į Prūsiją su didele kariuomene atžygiavo grafas iš Barbio368  ir
+    įsibrovė  į Sembos žemę. Kai ją nusiaubė, sembai susibūrė, užpuolė  jį palaimintos
+    mergelės Agnetės dieną (sausio 21) ir sunkiai jį sužeidė, o kiti buvo priversti sprukti, kai
+    kurie pateko į nelaisvę arba buvo nužudyti.
+
+
+
+
+                  94 (89).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175097
+    - t-183893
+    - t-175088
+    - t-194357
+
+- id: c-159248
+  citata_originali: |
+    Apie tai, kaip iš anksto buvo išpranašauta ši pergalė
+
+       Šį sembų  sutriuškinimą  išpranašavo  vienas  prūsas,  taip  tvirtai nusakydamas
+    Karaliaučiaus broliams ateitį, kad rodėsi, jog kažkokia dvasia jį skatinanti guldyti galvą
+    už šiuos jo žodžius: švento Vincento dieną sembai būsią išžudyti. Kai tą dieną maldininkų
+    kariuomenė pradėjo trauktis, jis, apkaltintas melu, dar atkakliau laikėsi savo nuomonės
+    ir tarė: „Dar šiandien sembai bus išžudyti arba žemė pravers savo žiotis ir juos gyvus
+    praris nelyginant Dataną ir Abironą“. Šitaip ir įvyko, kaip buvo sakęs.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175078
+    - t-175088
+
+- id: c-159249
+  citata_originali: |
+    [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,
+    netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug
+    sunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo prie
+    pirmykščių paklydimų, o savo kariuomenės vadais bei vyresniaisiais sembai išsirinko
+    Glandą357, notangai — Herkų Mantą358, varmiai — Glapą359, pagudėnai — Auktumą360,
+    bartai — Divaną361.
+
+
+
+
+                   90 (85). Apie didelį krikščionių kraujo praliejimą
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175104
+    - t-175088
+
+- id: c-159250
+  citata_originali: |
+    Sembų ir lietuvių (žemaičių) bendrus veiksmus galima įžiūrėti Ordinui priklausiusios
+    Klaipėdos pilies apgulties eigoje (XIII a. 6-asis dešimtmetis)30. Priešiškuose lietuviams
+    šaltiniuose randame ir vėlesnių, šiuo atveju svarbių žinių. Štai Didžiojo prūsų sukilimo
+    metu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė
+    Ordino užnugarį pavyslyje (III, 160).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175101
 
 ## Ryšiai
 - Priešai: [[objektai/grupes/Skalviai]]

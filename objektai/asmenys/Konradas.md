@@ -4,11 +4,12 @@ pavadinimas: 'Konradas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
   - '1226 m.'
-  - '1231 m.'
+  - '1237 m.'
 date_start: '1226'
-date_end: '1231'
+date_end: '1237'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -18,6 +19,18 @@ amziai:
   - 'XIII'
 periodo_grupes:
   - 'viduramžiai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Konradas
 
@@ -28,18 +41,82 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
 ## Teiginiai
 
 <a id="claim-t-79083"></a>
-- t-001
+- t-003
   global_id: t-79083
-  teiginys: 'Mozūrijos kunigaikštis Konradas 1226–1228 m. pakvietė Ordiną ir padovanojo jam Kulmo žemę.'
+  teiginys: "Mozūrijos kunigaikštis Konradas 1226–1228 m. pakvietė Ordiną ir padovanojo jam Kulmo žemę."
+  temporaliniai_duomenys: "valdymo laikotarpis: 1226-1228; valdymo laikotarpis: 1228 m.; valdymo laikotarpis: 1231 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Konradas buvo valdovas Mozūrija“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys sutvarkytas, kad aiškiai įvardytų asmenį, veiksmą ir citatoje pateiktą laiką."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "60884-61074; hash=d55ce8d915ba5ce803d57226dd05ec3309df73b46d155f2ffeeb369bf8a1aed6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Konradas (Mozūrijos kunigaikštis): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Konradas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Konradas (Mozūrijos kunigaikštis): mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konradas\" parinktas kaip owner_note_path. Targetas \"Konradas (Mozūrijos kunigaikštis)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-13T15:43:24Z"
+  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
-    - c-001
+    - c-42083
 
 <a id="claim-t-79084"></a>
 - t-002
   global_id: t-79084
-  teiginys: 'Mozūrų kunigaikštis Konradas, siekdamas pakrikštyti prūsus, įkurdino vyskupą Kristijoną Kulmo žemės pakraštyje.'
+  teiginys: "Mozūrų kunigaikštis Konradas, siekdamas pakrikštyti prūsus, įkurdino vyskupą Kristijoną Kulmo žemės pakraštyje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "102605-103063; hash=445daff2d5b04f6e40fd1283072c80aaaf3b6e13c5f2f9d5571037f2efced5ab; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-002
+    - c-76178
+
+<a id="claim-t-190906"></a>
+- t-004
+  global_id: t-190906
+  teiginys: "Narbuto pasakojime Konrado valdymo Mazovijoje metu Gotardas kautynėse suėmė septynis jotvingių kunigaikštukus, išsipirkusius sidabru."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Jotvingiai surengė žygį į Voluinė (0.86); Jotvingiai surengė žygį į Lenkija (0.72); Jotvingiai surengė žygį į Mazovija (0.72); Jotvingiai gyveno Brasta (0.70)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "218084-218884; hash=ea9367d63015f6ec3f7c1f3dd4f077597fdbcd3b0de8d28615f6f6bb781256d5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Voluinė: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jotvingiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Voluinė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo jotvingių antpuolių išplėtimą iki Voluinės."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-173788
+
+<a id="claim-t-190907"></a>
+- t-005
+  global_id: t-190907
+  teiginys: "Narbutas vaizduoja Konradą kaip Mazovijos kunigaikštį, XIII a. pradžioje pasiekusį laimėjimų Jotvingijoje ir valdžiusį Drohičiną."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Konradas valdė miestą Drohičinas (0.94); Konradas buvo valdovas Mazovija (0.93)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "219791-220437; hash=73452362898b736ddd56551959a8b9add2f0ed5ba79f812d4660cec82d0f16f2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_miesta -> Drohičinas: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Konradas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Drohičinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Sakinys tiesiogiai nurodo, kad Drohičinas priklausė Konradui."
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-173789
 - susijęs iš [[objektai/asmenys/Albrechtas iš Hageno.md#claim-t-60004|Albrechtas iš Hageno]]: Albrechtas iš Hageno su broliu Konradu ir ginklanešiais gynė Skalvių pilį nuo lietuvių karaliaus karių.
 - susijęs iš [[objektai/asmenys/Ditrichas iš Gruningeno.md#claim-t-60266|Ditrichas iš Gruningeno]]: Ditrichas iš Gruningeno kartu su Hartmanu iš Heldrungeno buvo Teneburgo pilyje, kur Konradas ieškojo ramybės.
 - susijęs iš [[objektai/asmenys/Ernestas (Livonijos žemės magistras).md#claim-t-89708|Ernestas (Livonijos žemės magistras)]]: Livonijos žemės magistrą Ernestą nukovė netikėliai prieš Konrado iš Foichtvangeno paskyrimą 1279 m.
@@ -151,6 +228,7 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
 - susijęs iš [[objektai/zodynas/fogtas.md#claim-t-58810|fogtas]]: Magistras Konradas iš Tirbergo pasiuntė sembų žemės fogtą Ditrichą su kariuomene į Nadruvą.
 - susijęs iš [[objektai/zodynas/ginklanešiai.md#claim-t-175170|ginklanešiai]]: 1293 m. vienas ginklanešys iš Ragainės, gimęs Bartos žemėje, pabėgo ir lietuvių karaliui pasisiūlė perduoti Skalvių pilį.
 - susijęs iš [[objektai/zodynas/ginklanešys.md#claim-t-175176|ginklanešys]]: 1293 m. vienas ginklanešys iš Ragainės, gimęs Bartos žemėje, pabėgo ir lietuvių karaliui pasisiūlė perduoti Skalvių pilį.
+- susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-193043|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -165,6 +243,7 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
     Prasidėjo metodiški kryžiaus
     žygiai į Prūsiją.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -184,17 +263,157 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
     kupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) že-
     mės pakraštėj.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 
+- c-003
+  santrauka: 'Narbuto pasakojime Konrado valdymo Mazovijoje metu Gotardas kautynėse suėmė septynis jotvingių kunigaikštukus, išsipirkusius sidabru.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Ma­
+    tyti, jog lietuvių padedami jie išsivadavo iš svetimųjų
+    priklausomybės ir savarankiškai, vadovaujami savo vadų
+    arba kunigai'kštukų, įvairiais laikais ir keliais veržėsi į
+    Rusią, Lenkiją ir Mazoviją. Taip vadų rankose buvo su­
+    kaupta turtų, nes, Mazovijos kunigaikščiui Konradui val­
+    dant, kai sykį Uchanės grafas Gotardas, Lukošiaus sūnus,
+    kautynėse suėmė septynis jotvingių kunigaikštukus, kiek­
+    vienas jų išsipirko sumokėdamas septynis šimtus gryno
+    sidabro grivinų, o tai yra šiandieninių lenkiškų auksinų
+    po 22 tūkstančius 400 už kiekvieną3. Jotvingiai, nepaisy­
+    dami iš mazoviečių ir prūsų patirtų nesėkmių, gyvendami
+    slavų Brastos kaimynystėje, 1227 metais savo antpuolius
+    išplėtė net iki Voluinės Vladimiro, kur buvo suimti du
+    jotvingių vadai: Sutras Monoduničius ir Stegutas Zebro-
+    vičius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003
+
+- c-004
+  santrauka: 'Narbutas vaizduoja Konradą kaip Mazovijos kunigaikštį, XIII a. pradžioje pasiekusį laimėjimų Jotvingijoje ir valdžiusį Drohičiną.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Tad Danielius, palikęs Neb-
+    rą, grįžo atgal; tai padėjo pabėgti patiems žymiausiems
+    jotvingiam sK itais metais jotvingių grėsmė iškilo Ru­
+    siai, nes Voluinės kunigaikščiai, prieš išžygiuodami su
+    kariauna į Lenkiją, savo sienų nuo pat Brastos apsauga
+    turėjo patikėti Pinsko kunigaikščiui Vladimirui1 2.
+    121
+    Mazovijos kunigaikštis Konradas XIII amžiaus pra­
+    džioje pasiekė Jotvingijoje didelių laimėjimų; dar prieš
+    1237 metus jam priklausė Drohičinas, nes tuo laiku jis
+    perdavė šį miestą magistrui Henrikui ir jo vienuoliams,
+    Dobrynės riteriams, kaip liudija privilegija, kurią vėliau
+    pateiksime. Būgas jau tuomet buvo Mazovijos ir rusų
+    žemių riba.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-004
+
+## Citatos
+
+- id: c-42083
+  citata_originali: |
+    jauti su prūsais 1226-1228 m.
+    pakvietė Mozūrijos kunigaikš-
+    tis Konradas ir padovanojo
+    jiems Kulmo žemę. 1231 m.
+    Ordinas pasistatė Torunės pil.
+    Prasidėjo metodiški kryžiaus
+    žygiai į Prūsiją.
+  citata_rodoma: "pakvietė Mozūrijos kunigaikš-\ntis Konradas ir padovanojo\njiems Kulmo žemę. 1231 m.\nOrdinas pasistatė Torunės pil.\nPrasidėjo metodiški kryžiaus\nžygiai į Prūsiją."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-79083
+
+- id: c-76178
+  citata_originali: |
+    Buvo paskelbta Vakaruose net keletas kryžiaus žygių,bet
+    iš to nieko neišėjo, nes atvykę kryžeiviai miškuose prūsų negalė-
+    davo surasti. Praėjo net keliolika metų, o vysk. Kristijonui vis ne-
+    sisekė: pagonys ne tik naikino jo kuriamas krikščionių bendruo-
+    menes, bet dar teriojo ir Lenkijos sritis. Tada Mozūrų kunigaikš-
+    tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vys-
+    kupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) že-
+    mės pakraštėj.
+  citata_rodoma: "Tada Mozūrų kunigaikš-\n  tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vys-\n  kupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) že-\n  mės pakraštėj."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-79084
+
+- id: c-173788
+  citata_originali: |
+    Ma­
+    tyti, jog lietuvių padedami jie išsivadavo iš svetimųjų
+    priklausomybės ir savarankiškai, vadovaujami savo vadų
+    arba kunigai'kštukų, įvairiais laikais ir keliais veržėsi į
+    Rusią, Lenkiją ir Mazoviją. Taip vadų rankose buvo su­
+    kaupta turtų, nes, Mazovijos kunigaikščiui Konradui val­
+    dant, kai sykį Uchanės grafas Gotardas, Lukošiaus sūnus,
+    kautynėse suėmė septynis jotvingių kunigaikštukus, kiek­
+    vienas jų išsipirko sumokėdamas septynis šimtus gryno
+    sidabro grivinų, o tai yra šiandieninių lenkiškų auksinų
+    po 22 tūkstančius 400 už kiekvieną3. Jotvingiai, nepaisy­
+    dami iš mazoviečių ir prūsų patirtų nesėkmių, gyvendami
+    slavų Brastos kaimynystėje, 1227 metais savo antpuolius
+    išplėtė net iki Voluinės Vladimiro, kur buvo suimti du
+    jotvingių vadai: Sutras Monoduničius ir Stegutas Zebro-
+    vičius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190906
+
+- id: c-173789
+  citata_originali: |
+    Tad Danielius, palikęs Neb-
+    rą, grįžo atgal; tai padėjo pabėgti patiems žymiausiems
+    jotvingiam sK itais metais jotvingių grėsmė iškilo Ru­
+    siai, nes Voluinės kunigaikščiai, prieš išžygiuodami su
+    kariauna į Lenkiją, savo sienų nuo pat Brastos apsauga
+    turėjo patikėti Pinsko kunigaikščiui Vladimirui1 2.
+    121
+    Mazovijos kunigaikštis Konradas XIII amžiaus pra­
+    džioje pasiekė Jotvingijoje didelių laimėjimų; dar prieš
+    1237 metus jam priklausė Drohičinas, nes tuo laiku jis
+    perdavė šį miestą magistrui Henrikui ir jo vienuoliams,
+    Dobrynės riteriams, kaip liudija privilegija, kurią vėliau
+    pateiksime. Būgas jau tuomet buvo Mazovijos ir rusų
+    žemių riba.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190907
+
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Fridrichas II]]
 - Sąjungininkai: [[objektai/asmenys/Albrechtas iš Hageno]]
-- Konradas buvo valdovas [[objektai/vietos/Krokuva]], [[objektai/vietos/Kujavija]], [[objektai/vietos/Lenčica]]
-- Konradas valdė [[objektai/vietos/Kujavija]], [[objektai/vietos/Lenkija]]
+- Konradas buvo valdovas [[objektai/vietos/Krokuva]], [[objektai/vietos/Kujavija]], [[objektai/vietos/Lenčica]], [[objektai/vietos/Mazovija]]
+- Konradas valdė [[objektai/vietos/Drohičinas]], [[objektai/vietos/Kujavija]], [[objektai/vietos/Lenkija]]
 - Konradas keliavo į [[objektai/vietos/Nagutinas]]
 - Konradas pastatė [[objektai/vietos/Noihauzas]]
 - Konradas puolė [[objektai/vietos/Apulija]], [[objektai/vietos/Bisenė]], [[objektai/vietos/Gardinas]], [[objektai/vietos/Karšuva]], [[objektai/vietos/Kimenava]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Mėrūniškis]], [[objektai/vietos/Neapolis]], [[objektai/vietos/Sūduva]], [[objektai/vietos/Zilija]]

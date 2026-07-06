@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Andreika
 
@@ -19,10 +31,12 @@ Jogailos pasiuntinys Andreika, atvykęs pas Vytautą prašo nukelti iškilmes i�
 <a id="claim-t-35023"></a>
 - t-001
   global_id: t-35023
-  teiginys: 'Jogailos pasiuntinys Andreika prašė Vytauto nukelti iškilmes į kitą dieną.'
+  teiginys: "Jogailos pasiuntinys Andreika prašė Vytauto nukelti iškilmes į kitą dieną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "566942-567158; hash=a286d552856ca292ba80ffdb3a3f0f7e5b95afbac30cd38ac63baa0a45d8a9e7; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
-
+    - c-37980
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -34,8 +48,25 @@ Jogailos pasiuntinys Andreika, atvykęs pas Vytautą prašo nukelti iškilmes i�
     pasiuntinys Andreika, atvykęs pas Vytautą prašo nukelti iškilmes iš tos
     dienos į kitą^5 ).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-37980
+  citata_originali: |
+    Kitame laiške tą pačią datą vėl nurodo^3 ). Vytau­
+    tas kviesdamas į tas iškilmes Ordiną, taip pat mini tą dieną^4 ). Jogailos
+    pasiuntinys Andreika, atvykęs pas Vytautą prašo nukelti iškilmes iš tos
+    dienos į kitą^5 ).
+  citata_rodoma: "Jogailos\npasiuntinys Andreika, atvykęs pas Vytautą prašo nukelti iškilmes iš tos\ndienos į kitą^5 )."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-35023

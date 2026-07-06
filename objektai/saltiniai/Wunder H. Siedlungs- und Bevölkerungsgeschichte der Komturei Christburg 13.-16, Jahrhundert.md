@@ -13,6 +13,18 @@ tags:
   - saltinis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Wunder H. Siedlungs- und Bevölkerungsgeschichte der Komturei Christburg 13.-16, Jahrhundert
 
@@ -25,10 +37,15 @@ Dusburgietis teigia, kad wunder H.
 <a id="claim-t-61372"></a>
 - t-001
   global_id: t-61372
-  teiginys: 'H. Wunder knyga apie Christburgo komtūrijos gyvenviečių ir gyventojų istoriją XIII-XVI a. išleista Vysbadene 1968 m.'
+  teiginys: "H. Wunder knyga apie Christburgo komtūrijos gyvenviečių ir gyventojų istoriją XIII-XVI a. išleista Vysbadene 1968 m."
+  temporaliniai_duomenys: "įvykio data: 1968 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia autorių, temą, laikotarpį, vietą ir metus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "804850-804960; hash=db6d04a950344c4f79df51a405d61bb1b371d9a18b524ab2bdf829f52f87a7d0; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
-
+    - c-62004
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -38,8 +55,22 @@ Dusburgietis teigia, kad wunder H.
     Wunder H. Siedlungs- und Bevölkerungsgeschichte der Komturei Christburg 13.-16,
     Jahrhundert.— Wiesbaden, 1968.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-62004
+  citata_originali: |
+    Wunder H. Siedlungs- und Bevölkerungsgeschichte der Komturei Christburg 13.-16,
+    Jahrhundert.— Wiesbaden, 1968.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-61372

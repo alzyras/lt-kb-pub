@@ -16,6 +16,18 @@ tags:
   - vyskupas
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kistrinas
 
@@ -28,9 +40,20 @@ Jame pasakoja, kad „pasiunčiau nuo savęs maloningąjį poną Konradą, Vrocl
 <a id="claim-t-86197"></a>
 - t-001
   global_id: t-86197
-  teiginys: 'Švitrigaila prašė, kad didysis magistras palydėtų Vroclavo vyskupą Konradą į Kistriną.'
+  teiginys: "Švitrigaila prašė, kad didysis magistras palydėtų Vroclavo vyskupą Konradą į Kistriną."
+  semantiniai_rysiai: "Švitrigaila siuntė į Kistrinas (0.72)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "432231-432846; hash=4416f3d914f534dc91bf813ba0f3c4b13348d90fb6bfcd779d8413337aded579; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Kistrinas: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kistrinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Švitrigaila prašė palydėti Konradą į Kistriną; adresatas nėra tinkamas objektas, todėl ryšys su vieta išreikštas atsargiai."
   pagrindžia:
-    - c-001
+    - c-82176
 - susijęs iš [[objektai/asmenys/Konradas (Vroclavo vyskupas).md#claim-t-87758|Konradas (Vroclavo vyskupas)]]: 1432 m. Švitrigaila pasiuntė Vroclavo vyskupą Konradą į Kistriną pasiteirauti dėl galimos grėsmės iš Štolpensko kunigaikščio.
 - susijęs iš Švitrigailos 1432 m. rugpjūčio 13 d. laiškas didžiajam magistrui: Švitrigaila laiške prašė didžiojo magistro palydėti Vroclavo vyskupą Konradą į Kistriną ir suteikti garantiją Vroclavo gyventojams.
 - susijęs iš [[objektai/autoriai/August von Kotzebue.md#claim-t-87945|August von Kotzebue]]: Kotzebue citavo Slaptajame archyve buvusį Švitrigailos laišką didžiajam magistrui, rašytą iš Trakų 1432 m. rugpjūčio 13 d.
@@ -67,11 +90,41 @@ Jame pasakoja, kad „pasiunčiau nuo savęs maloningąjį poną Konradą, Vrocl
     kadangi mums rodo daug palanku­
     mo".
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-82176
+  citata_originali: |
+    Mergelės Marijos ėmimą į dangų, tai
+    yra, 1432 metų rugpjūčio 13 dieną.
+    Jame pasakoja, kad „pasiunčiau nuo
+    savęs maloningąjį poną Konradą,
+    Vroclavo vyskupą, mylimą brolį, pa­
+    geidaudamas, kad didysis magistras
+    lieptų jį palydėti į Kistriną ir pasi­
+    teirauti kunigaikščio Štolpenskio, ar
+    minėtasis vyskupas turįs ar neturįs
+    dėl ko nuogąstauti iš jo ir tų, kurie
+    jam pavaldūs, pusės?" Tame pačia­
+    me laiške Švitrigaila prideda prašy­
+    mą: „kad Vroclavo gyventojams
+    duotų garantiją vykti per Ordino že­
+    mes, kad jie galėtų laisvai ir nevar­
+    žomai keliauti su savo prekėmis,
+    kadangi mums rodo daug palanku­
+    mo".
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86197
 
 ## Ryšiai
 - Buvo siuntimo vieta: [[objektai/asmenys/Švitrigaila]]

@@ -13,6 +13,18 @@ tags:
   - saltinis
 amziai:
   - 'XVII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Wapenhandelinge
 
@@ -25,10 +37,15 @@ Wapenhandelinge, 1607 (pirmasis leidimas).
 <a id="claim-t-39940"></a>
 - t-001
   global_id: t-39940
-  teiginys: 'Jacobo de Gheyno „Wapenhandelinge“ pirmasis leidimas pasirodė 1607 m.'
+  teiginys: "Jacobo de Gheyno „Wapenhandelinge“ pirmasis leidimas pasirodė 1607 m."
+  temporaliniai_duomenys: "įvykio data: 1607 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata nurodo autorių, pavadinimą ir pirmojo leidimo metus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1100075-1100275; hash=4b233b64bad21a749e4077ff8ef29f47563e51e160cf24816ec0ce4588d985ff; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
-
+    - c-41744
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,8 +59,27 @@ Wapenhandelinge, 1607 (pirmasis leidimas).
 
     (pirmasis leidimas).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-41744
+  citata_originali: |
+    p. 92, Arkebuza dagtine spyna. Kalibras - 15,5 mm, xvI a. antroji pusė, VDKM,
+
+    Artūro Užgalio nuotr.
+
+    p. 92, Arkebuzininkas; Muškietininkas, Jacob de Gheyn. Wapenhandelinge, 1607
+
+    (pirmasis leidimas).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-39940

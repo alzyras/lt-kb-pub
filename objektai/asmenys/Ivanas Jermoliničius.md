@@ -10,6 +10,18 @@ tags:
   - karalius
   - miestas
   - paliaubos
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Ivanas Jermoliničius
 
@@ -22,9 +34,19 @@ Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžio
 <a id="claim-t-87694"></a>
 - t-001
   global_id: t-87694
-  teiginys: 'Ivanas Jermoliničius buvo Didžiojo Naugardo bojarinas, Vilniuje su Švitrigaila sudaręs saugumo ir prekybos sutartį.'
+  teiginys: "Ivanas Jermoliničius buvo Didžiojo Naugardo bojarinas, Vilniuje su Švitrigaila sudaręs saugumo ir prekybos sutartį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "428769-429556; hash=7bb29fb7c2e6d8662bfa964f410169d460bc5fbb0632058b78484973549ffc32; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Didžiojo Naugardo respublika: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ivanas Jermoliničius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Didžiojo Naugardo respublika: mention_match, group, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ivanas Jermoliničius\" parinktas kaip owner_note_path. Targetas \"Didžiojo Naugardo respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-83673
 - susijęs iš [[objektai/asmenys/Chariničius.md#claim-t-87643|Chariničius]]: Didžiojo Naugardo bojarinas Chariničius su Ivanu Jermoliničiumi Vilniuje sudarė sutartį su Švitrigaila dėl saugumo ir prekybos laisvės.
 - susijęs iš [[objektai/grupes/Didžiojo Naugardo bojarinai.md#claim-t-86789|Didžiojo Naugardo bojarinai]]: Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės.
 - susijęs iš Švitrigailos sutartis su Didžiuoju Naugardu: Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės.
@@ -61,11 +83,36 @@ Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžio
     pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos
     ir rusų miestų, su kuriais buvo prekiaujama nuo seno.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83673
+  citata_originali: |
+    Volumes gyventojai, jausdami karaliui anti­
+    patiją dėl trukdymo laisvai išpažinti savo tikėjimą ir dėl rusų
+    apeigų cerkvių pakeitimo katalikiškomis bažnyčiomis, anaip­
+    tol nebuvo palankūs lenkams, o Švitrigailai šis žygis buvo ga­
+    nėtinai sėkmingas, taigi karalius, negalėdamas nieko jam pa­
+    tarti, sudarė su juo ilgalaikes paliaubas. Tik tada Švitrigaila
+    energingai ėmėsi taikos reikalų; į Vilnių iš Didžiojo Naugardo
+    pasiųsti bojarinai - Ivanas Jermoliničius ir Chariničius - pir­
+    momis vasario dienomis sudarė su juo sutartį, kuria buvo ga­
+    rantuojama abipusis saugumas ir prekybos laisvė6. Anų laikų
+    Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo
+    pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos
+    ir rusų miestų, su kuriais buvo prekiaujama nuo seno.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87694
 
 ## Ryšiai
 - Ivanas Jermoliničius keliavo į [[objektai/vietos/Vilnius]]

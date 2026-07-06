@@ -8,6 +8,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Pilsudskis
 
@@ -18,18 +30,38 @@ Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Ženevą, įsidėmėjo j
 ## Teiginiai
 
 <a id="claim-t-64036"></a>
-- t-001
+- t-003
   global_id: t-64036
-  teiginys: 'Ženevoje Pilsudskis pareiškė, kad Lenkija pripažins ir gerbs Lietuvos nepriklausomybę bei teritorijos integralumą.'
+  teiginys: "Ženevoje Pilsudskis pareiškė, kad Lenkija pripažins ir gerbs Lietuvos nepriklausomybę bei teritorijos integralumą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "1166321-1166773; hash=313a5812d2bf39128642e64fda92c5ece90b831acd84c39975c65ae28f86c27b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pilsudskis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=25"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pilsudskis\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-64907
 
 <a id="claim-t-64037"></a>
-- t-002
+- t-003
   global_id: t-64037
-  teiginys: 'Pilsudskio legionierių idėja reiškė Lenkijos, Lietuvos ir kitų buvusios Respublikos tautų federaciją.'
+  teiginys: "Pilsudskio legionierių idėja reiškė Lenkijos, Lietuvos ir kitų buvusios Respublikos tautų federaciją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "89501-90032; hash=9186dbfa8017544bbd47866cfe43555bbdba3aae8671952947fd1da4fb3e8487; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pilsudskis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=72"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pilsudskis\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-04261
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75772|Augustinas Voldemaras]]: 1927 m. gruodžio 10 d. Ženevoje Augustinas Voldemaras atsakė Juzefui Pilsudskiui, kad karo padėties tarp Lietuvos ir Lenkijos nėra.
 - susijęs iš [[objektai/asmenys/J. Pilsudskis.md#claim-t-108750|J. Pilsudskis]]: Pilsudskis motyvavo Vilniaus užėmimą vietos lenkų tautiniu apsisprendimu ir kovos su bolševikais būtinybe.
 - susijęs iš [[objektai/asmenys/J. Pilsudskis.md#claim-t-108753|J. Pilsudskis]]: 1926 m. karinis perversmas Lenkijoje, sugrąžinęs J. Pilsudskį į valdžią, skatino veikti Seimo valdymu nepatenkintas jėgas.
@@ -77,6 +109,7 @@ Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Ženevą, įsidėmėjo j
     vandenį. Pilsudskio legionierių idėja reiškė Lenkijos, Lietuvos ir
     kitų buvusių Žečpospolitos (respublikos) tautų federaciją.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -97,11 +130,52 @@ Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Ženevą, įsidėmėjo j
     gralumą, ir pasiūlė vėl tiesiogines derybas geriems santykiams
     užmegzti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-04261
+  citata_originali: |
+    Kai
+    vienu metu anos garsiosios trys dinastijos (Romanovai, Hohenzol-
+    lernai, Habsburgai), kurių protėviai buvo dalinęsi Lietuvą-Lenkiją,
+    buvo nutrenktos nuo sostų, atsirado sąlygos buvusiems unijos
+    partneriams realizuoti savą tautinį idealą. Atsistatanti Lenkijos
+    valstybė tačiau labiausiai kenkė atskiros, nepriklausomos Lietuvos
+    minčiai, nes ji ieškojo vėl bristi į seniai praeitin « nutekėjusį » (upės)
+    vandenį. Pilsudskio legionierių idėja reiškė Lenkijos, Lietuvos ir
+    kitų buvusių Žečpospolitos (respublikos) tautų federaciją.
+  citata_rodoma: "Pilsudskio legionierių idėja reiškė Lenkijos, Lietuvos ir\nkitų buvusių Žečpospolitos (respublikos) tautų federaciją."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-64037
+
+- id: c-64907
+  citata_originali: |
+    Tam pat tikslui
+    prie demarkacijos linijos buvo pradėtos grupuoti Lenkų ka-
+    riuomenės dalys. Tada Lietuvos vyriausybė dėl visų tų perse-
+    kiojimų ir grasymų vėl apskundė Lenkiją Tautų Sąjungai.
+    Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Žene-
+    vą, įsidėmėjo jo iškilmingus pareiškimus, kad Lenkija pripažįs-
+    tanti ir gerbsianti Lietuvos nepriklausomybę ir teritorijos inte-
+    gralumą, ir pasiūlė vėl tiesiogines derybas geriems santykiams
+    užmegzti.
+  citata_rodoma: "Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Žene-\n  vą, įsidėmėjo jo iškilmingus pareiškimus, kad Lenkija pripažįs-\n  tanti ir gerbsianti Lietuvos nepriklausomybę ir teritorijos inte-\n  gralumą, ir pasiūlė vėl tiesiogines derybas geriems santykiams\n  užmegzti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-64036
 
 ## Ryšiai
 - Pilsudskis valdė [[objektai/vietos/Lenkija]]

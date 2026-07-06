@@ -11,6 +11,18 @@ tags:
   - karalius
   - karas
   - kunigaikštis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lenkijos senatas
 
@@ -21,46 +33,122 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
 ## Teiginiai
 
 <a id="claim-t-86758"></a>
-- t-001
+- t-002
   global_id: t-86758
-  teiginys: 'Be Vladislovo Jogailos ir Lenkijos senato valios Vytautui nebuvo galima uždėti Lietuvos karaliaus karūnos.'
+  teiginys: "Be Vladislovo Jogailos ir Lenkijos senato valios Vytautui nebuvo galima uždėti Lietuvos karaliaus karūnos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "354502-355082; hash=a9e72c26ac0c7477f752a357c1298fa1b5ac0934fc0ca7ba7d05e97ce2683598; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Karūna: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkijos senatas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Karūna: mention_match, thing, gap=72"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkijos senatas\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-82738
 
 <a id="claim-t-86759"></a>
-- t-002
+- t-001
   global_id: t-86759
-  teiginys: 'Lenkijos senato siųsti Zbignevas Olesnickis ir Mikalojus Michalovskis Vilniuje grasino Vytautui karu, jei jis neatsisakys sumanymo.'
+  teiginys: "Lenkijos senato siųsti Zbignevas Olesnickis ir Mikalojus Michalovskis Vilniuje grasino Vytautui karu, jei jis neatsisakys sumanymo."
+  semantiniai_rysiai: "Lenkijos senatas siuntė į Vilnius (0.91)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "350400-350869; hash=d88f21079a7888883ac158d85db717544ffcfbc99521681b1c6808539e55b825; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Vilnius: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lenkijos senatas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Lenkijos senato siųsti asmenys atvyko į Vilnių."
   pagrindžia:
-    - c-001
+    - c-82737
 
 <a id="claim-t-184537"></a>
 - t-003
   global_id: t-184537
-  teiginys: 'Lenkijos senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperatoriaus sumanymams jis nusileistų Lietuvos ir Lenkijos priešui.'
+  teiginys: "Lenkijos senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperatoriaus sumanymams jis nusileistų Lietuvos ir Lenkijos priešui."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "733032-733682; hash=09d840694ceed086aa35e193070282207b66ddf487e9f67811ca256271f1810f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkijos senatas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkijos senatas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-003
+    - c-167898
 
 <a id="claim-t-184538"></a>
 - t-004
   global_id: t-184538
-  teiginys: 'Žygimanto pasiuntiniai turėjo pranešti senatui įvykius ir reikalauti paskelbti Žygimantą Lietuvos didžiuoju kunigaikščiu.'
+  teiginys: "Žygimanto pasiuntiniai turėjo pranešti senatui įvykius ir reikalauti paskelbti Žygimantą Lietuvos didžiuoju kunigaikščiu."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "772704-773392; hash=1488a1552be4769ec186ed946ad210e26f4dba6602a59d322e8062d4b67aa368; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkijos senatas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=50"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkijos senatas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-167899
 
 <a id="claim-t-184539"></a>
 - t-005
   global_id: t-184539
-  teiginys: 'Senatas nutarė išsiųsti į Lietuvą pasiuntinybę, įgaliotą tam tikromis sąlygomis pakelti Žygimantą didžiuoju kunigaikščiu.'
+  teiginys: "Senatas nutarė išsiųsti į Lietuvą pasiuntinybę, įgaliotą tam tikromis sąlygomis pakelti Žygimantą didžiuoju kunigaikščiu."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Lenkijos senatas siuntė į Lietuva (0.95)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "773393-773986; hash=cc26907c26b3f25ec41ed2c0ae399c3922ebb3d9fb5cc573a30246ca0438d594; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Lietuva: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lenkijos senatas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad senatas nutarė siųsti pasiuntinybę į Lietuvą."
   pagrindžia:
-    - c-005
+    - c-167900
 
 <a id="claim-t-184540"></a>
 - t-006
   global_id: t-184540
-  teiginys: 'Liudvikas stengėsi sužinoti, kas svarstoma slaptuose senato posėdžiuose, ir siekė paveikti Žygimantą.'
+  teiginys: "Liudvikas stengėsi sužinoti, kas svarstoma slaptuose senato posėdžiuose, ir siekė paveikti Žygimantą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "775713-776434; hash=c1d5ef83832af67317a564a31dc7a04d161191fd809a46c952bf336a6dbea184; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkijos senatas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkijos senatas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-167901
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176718|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas siekė Lietuvos karaliaus karūnos, tačiau tam priešinosi Vladislovas Jogaila ir Lenkijos senatas.
 ## Reikšmingi paminėjimai
 
@@ -78,6 +166,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
     įkalbinėjimams ir grasinimams senasis Vytautas nepasida­
     vė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -100,6 +189,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
     dėti Lietuvos karaliaus karūną ir paskui išlaikyti ją nebau­
     džiamiems.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -131,6 +221,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
     tą. Štai todėl karalius po senato posėdžio, net neatsi­
     sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -155,6 +246,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
     žinsiąs karaliaus valdžią ir paliausiąs kariauti tik ta­
     da, kai galutinai sutriuškinsiąs Boleslovą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -183,6 +275,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
     vardu buvo įgalioti tam tikromis sąlygomis pakelti Žy­
     gimantą į Lietuvos didžiuosius kunigaikščius.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -210,11 +303,154 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
     paverstų visus susitarimus ir
     pačią uniją.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
+## Citatos
+
+- id: c-82737
+  citata_originali: |
+    Deja, tik dalis tos pasiuntinybės pasie­
+    kė Lietuvos sostinę: kai kuriuos jų didžialenkiai sulaikė prie
+    sienos ir imperatoriaus aktus, kuriais Vytautui pripažįsta­
+    mas karaliaus titulas, atėmė. Dar prieš tai į Vilnių atvažiavę
+    karaliaus ir Lenkijos senato siųsti Zbignevas Olesnickis ir
+    Sandomiro vaivada Mikalojus Michalovskis grasino Vytau­
+    tui karu, jeigu jis neatsisakysiąs savo sumanymo. Bet jokiems
+    įkalbinėjimams ir grasinimams senasis Vytautas nepasida­
+    vė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86759
+
+- id: c-82738
+  citata_originali: |
+    Puikų suruošia Vytautas priėmimą,
+    bemaž du mėnesius užsitęsusį, mat nuo rugpjūčio pradžios
+    iki rugsėjo pabaigos vyko tas svarbus kunigaikščių susibū­
+    rimas. Tačiau galima buvo numatyti, kad tas prašmatnias
+    iškilmes, tą smagią viešnagę nutrauks liūdni įvykiai. Len­
+    kų priešinimasis buvo pernelyg grėsmingas, pernelyg tvir­
+    ti ir šventi jau buvo tuomet ryšiai, sieję Lietuvą su Lenkija,
+    o karalių su Vytautu, kad prieš Vladislovo Jogailos ir Len­
+    kijos senato valią galima būtų didžiajam kunigaikščiui už­
+    dėti Lietuvos karaliaus karūną ir paskui išlaikyti ją nebau­
+    džiamiems.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86758
+
+- id: c-167898
+  citata_originali: |
+    Vytautas, pasipiktinęs ne tiek
+    dėl pralaimėjimo, kiek dėl
+    P a sip ik tin ęs pasišali-
+    drąsių kalbų, išėjo iš senato
+    na
+    posėdžio, o pasišalindamas at­
+    virai pagrasino, sakydamas,
+    14*
+    4 1 9
+
+    ## Puslapis 418
+
+    jog jis, nepaisydamas lenkų norų, pasieksiąs tai, ką pa­
+    siryžęs pasiekti. Vytautui išėjus, senatas kuo rimčiau­
+    siai paaiškino karaliui, kad, pritardamas pavojingiems ir
+    suktiems imperatoriaus sumanymams, nusileistų žmo­
+    gui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos
+    priešas, nes šitai esąs parodęs praeityje ne vieną kar­
+    tą. Štai todėl karalius po senato posėdžio, net neatsi­
+    sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184537
+
+- id: c-167899
+  citata_originali: |
+    Žygimantas, beveik be kovos laimėjęs karą,
+    paėmė be kraujo praliejimo į savo rankas Vilnių, Tra­
+    kus, Gardiną bei visas kitas Lietuvos pilis ir, pasiun­
+    tęs Joną Nemiravičių, pareiškė karaliui pagarbą ir
+    pranešė, kad Boleslovas išvytas iš Lietuvos. Truputį
+    vėliau į kelią leidosi kiti pasiuntiniai, kurie turėjo pa­
+    pasakoti senatui, kas ir kaip čia dėjosi, ir pareikalauti
+    paskelbti Žygimantą Lietuvos didžiuoju kunigaikščiu.
+    Nugalėtojas turėjo gauti atlyginimą, pažadėtą kara­
+    liaus ir valstybės vardu, ypač dėl to, kad pasiuntiniai
+    davė iškilmingą pažadą, jog Žygimantas visada pripa-
+    žinsiąs karaliaus valdžią ir paliausiąs kariauti tik ta­
+    da, kai galutinai sutriuškinsiąs Boleslovą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184538
+
+- id: c-167900
+  citata_originali: |
+    Atidėlioti šį
+    reikalą būtų buvę pavojinga,
+    K araliau s p a siu n tin ia i
+    mat prasidėjus naujiems ne-
+    a tv y k s ta
+    p a s Ž y g i-
+    ramumams, dažnai pačios ap-
+    m a n tą
+    linkybės tramdo vienos šalies
+    siekimus, tačiau skatina ki­
+    tos. Kadangi reikėjo skubėti, senatas ir nutarė išsiųsti
+    į Lietuvą pasiuntinybę, sudarytą iš dorų ir sumanių
+    vyrų: vyskupą Zbignevą Olesnickį, Krokuvos vaivadą
+    Jarandą iš Brudzevo, Bresto vaivadą Joną iš Lichino,
+    Lauryną Zarembą ir kitus. Jie karaliaus ir valstybės
+    vardu buvo įgalioti tam tikromis sąlygomis pakelti Žy­
+    gimantą į Lietuvos didžiuosius kunigaikščius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184539
+
+- id: c-167901
+  citata_originali: |
+    Tada Žygimantas pagal senus papročius
+    buvo maršalų paskelbtas didžiuoju kunigaikščiu ir pa­
+    keltas į sostą, į dešinę jam įteikiant apnuogintą ka­
+    laviją, kurį buvo atsiuntęs karalius. Dėl šių iškilmių
+    didžiai susikrimto Liudvikas, Toninės komtūras, kuris
+    su trimis savo draugais, kryžiuočių ordino riteriais, gy­
+    veno Vilniuje, prisidengdamas pasiuntinio skraiste, o iš
+    tikrųjų uoliai eidamas žvalgo pareigas. Jis visaip sten­
+    gėsi iššniukštinėti, kas aptariama slaptuose senato po­
+    sėdžiuose, viliojo valdovą bei didikus, žadėdamas kry­
+    žiuočių palankumą, ir ėmėsi visų kitų priemonių, ku­
+    rios, jo galva, priverstų Žy­
+    gimantą netesėti, ką žadėjo
+    lenkams, ir, ko gero, niekais
+    paverstų visus susitarimus ir
+    pačią uniją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184540
 
 ## Ryšiai
 - Lenkijos senatas siuntė į [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]

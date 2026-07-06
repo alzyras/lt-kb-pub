@@ -18,6 +18,18 @@ tags:
   - vieta
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Sibiras
 
@@ -28,32 +40,92 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
 ## Teiginiai
 
 <a id="claim-t-69238"></a>
-- t-001
+- t-004
   global_id: t-69238
-  teiginys: 'Dalis lietuvių inteligentijos iškeliavo į Vakarus arba į Sibirą.'
+  teiginys: "Dalis lietuvių inteligentijos iškeliavo į Vakarus arba į Sibirą."
+  semantiniai_rysiai: "Lietuviai keliavo į Sibiras (0.72)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "460851-460931; hash=2d1dabb04d6f5dbacd3c3ed3da42214c1a6cf8153b19019a056c99e4225fc30e; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Sibiras: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Sibiras: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claim kalba apie lietuvių inteligentijos iškeliavimą į Sibirą; leistinas artimiausias subjektas yra lietuviai."
   pagrindžia:
-    - c-003
+    - c-68626
 
 <a id="claim-t-69239"></a>
-- t-002
+- t-001
   global_id: t-69239
-  teiginys: 'Sovietų Sąjunga vykdė masines deportacijas iš Lietuvos į Sibirą.'
+  teiginys: "Sovietų Sąjunga vykdė masines deportacijas iš Lietuvos į Sibirą."
+  semantiniai_rysiai: "Sovietų Sąjunga siuntė į Sibiras (0.88)"
+  temporaliniai_duomenys: "įvykio data: 1940 m.; įvykio data: 1944 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys glaustai nusako citatoje minimą deportacijų į Sibirą faktą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "28501-29000; hash=1d1aa42045cf596bba4b2204d5fed11f4a51c8a17c74664f5da1ff748f698a2f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Sibiras: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sovietų Sąjunga: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Sibiras: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Deportacijos į Sibirą buvo vykdytos Sovietų Sąjungos, todėl tai tiesioginis siuntimo į vietą ryšys."
   pagrindžia:
-    - c-004
+    - c-68627
 
 <a id="claim-t-69240"></a>
-- t-003
+- t-002
   global_id: t-69240
-  teiginys: 'Pusė jų 1941 m. balandį–birželį išvežti į SSRS gilumą, daugiausia Sibirą.'
+  teiginys: "Pusė jų 1941 m. balandį–birželį išvežti į SSRS gilumą, daugiausia Sibirą."
+  temporaliniai_duomenys: "įvykio data: 1941 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "391847-392266; hash=af1492dc1ce49f271c3e7d8b0e594b4444af336482b6c2de778e2cea964063b7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sibiras: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sibiras\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-68625
 
 <a id="claim-t-69241"></a>
-- t-004
+- t-003
   global_id: t-69241
-  teiginys: 'Represinės institucijos trėmė į Sibirą ginkluoto pasipriešinimo dalyvių šeimas ir rėmėjus.'
+  teiginys: "Represinės institucijos trėmė į Sibirą ginkluoto pasipriešinimo dalyvių šeimas ir rėmėjus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "434241-434842; hash=d04df7b848fa242022842845b15ee700329fe2ee02562f2e75eed66683b692b6; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
+    - c-68624
+
+<a id="claim-t-183635"></a>
+- t-005
+  global_id: t-183635
+  teiginys: "Represinės institucijos trėmė į Sibirą ginkluoto pasipriešinimo dalyvių šeimas ir rėmėjus."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "434399-435073; hash=246cd6f408b2d12e2cc801e45427e254d8f31f93ec46fd301053d19b65e7852a; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> MGB-KGB agentai smogikai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sibiras: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "MGB-KGB agentai smogikai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sibiras\" parinktas kaip owner_note_path. Targetas \"MGB-KGB agentai smogikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  pagrindžia:
+    - c-167027
 - susijęs iš [[objektai/grupes/Sovietų Sąjunga.md#claim-t-74926|Sovietų Sąjunga]]: Sovietų Sąjungos vykdytos deportacijos į Sibirą buvo viena iš didžiųjų Lietuvos netekčių po 1940 m. okupacijos ir 1944 m. reokupacijos.
 - susijęs iš [[objektai/grupes/Sovietų Sąjunga.md#claim-t-74926|Sovietų Sąjunga]]: Sovietų Sąjungos vykdytos deportacijos į Sibirą buvo viena iš didžiųjų Lietuvos netekčių po 1940 m. okupacijos ir 1944 m. reokupacijos.
 - susijęs iš [[objektai/ivykiai/Sovietų Sąjungos masinės deportacijos į Sibirą.md#claim-t-26385|Sovietų Sąjungos masinės deportacijos į Sibirą]]: Sovietų Sąjungos vykdytos masinės deportacijos į Sibirą buvo viena iš didžiųjų Lietuvos netekčių.
@@ -98,6 +170,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     miestelių aikštėse, viešai išniekindavo, neleisdavo palaidoti ir patys slap-
     čia užkasdavo pelkėse ar šiukšlynuose.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -115,6 +188,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     Per vienerius sovietų okupacijos metus suimti 6 606 apkaltinti politiniais
     nusikaltimais asmenys.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -128,6 +202,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     Tad lietuvių inteligentija
     iškeliavo dviem kryptimis – į Vakarus ar į Sibirą...
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -146,6 +221,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     nimą SSRS ištisą dešimtmetį po Antrojo pasaulinio karo (1945–1953),
     o tai kartais laikoma didžiausiu Lietuvos įnašu į Europos istoriją XX a.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -171,11 +247,110 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     kankindavo ginkluoto pasipriešinimo dalyvius, tarp jų moteris, senelius,
     vaikus, sušaudydavo partizanų ryšininkus, rėmėjus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
+## Citatos
+
+- id: c-68624
+  citata_originali: |
+    Nemažai stribų
+    buvo abejotinos moralės
+    asmenys, autoriteto jie
+    neturėjo, greitai sumota
+    būrių pavadinimą pa-
+    keisti iš „naikintojų“ į
+    „liaudies gynėjų“. Dislo-
+    kuoti visuose valsčiuo-
+    se jie saugojo sovietinį
+    aktyvą.
+    Represinės instituci-
+    jos, slopindamos parti-
+    zaninio judėjimo atramą, trėmė į Sibirą ginkluoto pasipriešinimo dalyvių
+    šeimas, rėmėjus, kankino pasipriešinimo dalyvius, naudojo psichologinę
+    prievartą, pusnuogius žuvusių partizanų lavonus išmesdavo centrinėse
+    miestelių aikštėse, viešai išniekindavo, neleisdavo palaidoti ir patys slap-
+    čia užkasdavo pelkėse ar šiukšlynuose.
+  citata_rodoma: "zaninio judėjimo atramą, trėmė į Sibirą ginkluoto pasipriešinimo dalyvių"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-69241
+
+- id: c-68625
+  citata_originali: |
+    Liepos 10–17 dieną pirmųjų
+    masinių areštų metu įkalinti žinomi nepriklausomos Lietuvos politikos
+    ir visuomenės veikėjai – paskutinis ministras pirmininkas A. Merkys,
+    užsienio reikalų ministras J. Urbšys (abu su šeimomis ištremti į SSRS gi-
+    lumą) ir kiti. Suimtieji paskelbti už įstatymo ribų, jų turtas konfiskuotas.
+    Per vienerius sovietų okupacijos metus suimti 6 606 apkaltinti politiniais
+    nusikaltimais asmenys.
+  citata_rodoma: "Per vienerius sovietų okupacijos metus suimti 6 606 apkaltinti politiniais"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-69240
+
+- id: c-68626
+  citata_originali: |
+    Tad lietuvių inteligentija
+    iškeliavo dviem kryptimis – į Vakarus ar į Sibirą...
+  citata_rodoma: "iškeliavo dviem kryptimis – į Vakarus ar į Sibirą..."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-69238
+
+- id: c-68627
+  citata_originali: |
+    Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga,
+    1940 m. Lietuvą okupavusi, o 1944 m. – reokupavusi. Tačiau pergyvenusi
+    didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos
+    vykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva su-
+    gebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasiprieši-
+    nimą SSRS ištisą dešimtmetį po Antrojo pasaulinio karo (1945–1953),
+    o tai kartais laikoma didžiausiu Lietuvos įnašu į Europos istoriją XX a.
+  citata_rodoma: "didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-69239
+
+- id: c-167027
+  citata_originali: |
+    Dislo-
+    kuoti visuose valsčiuo-
+    se jie saugojo sovietinį
+    aktyvą.
+    Represinės instituci-
+    jos, slopindamos parti-
+    zaninio judėjimo atramą, trėmė į Sibirą ginkluoto pasipriešinimo dalyvių
+    šeimas, rėmėjus, kankino pasipriešinimo dalyvius, naudojo psichologinę
+    prievartą, pusnuogius žuvusių partizanų lavonus išmesdavo centrinėse
+    miestelių aikštėse, viešai išniekindavo, neleisdavo palaidoti ir patys slap-
+    čia užkasdavo pelkėse ar šiukšlynuose. MGB-KGB agentai smogikai nau-
+    dojo rezistencijos atributiką ir uniformas terorui, rezistentams naikinti,
+    kankindavo ginkluoto pasipriešinimo dalyvius, tarp jų moteris, senelius,
+    vaikus, sušaudydavo partizanų ryšininkus, rėmėjus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183635
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]

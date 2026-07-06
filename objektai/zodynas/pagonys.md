@@ -5,6 +5,18 @@ saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # pagonys
 
@@ -17,19 +29,49 @@ Lietuvos metraščio pasakojime Vilniaus miestiečiai pagonys, Algirdui žygiuoj
 <a id="claim-t-187542"></a>
 - t-001
   global_id: t-187542
-  teiginys: 'Lietuvos metraščio pasakojime Vilniaus miestiečiai pagonys, Algirdui žygiuojant prieš Maskvą, sudegino pranciškonų vienuolyną ir nužudė keturiolika vienuolių.'
+  teiginys: "Lietuvos metraščio pasakojime Vilniaus miestiečiai pagonys, Algirdui žygiuojant prieš Maskvą, sudegino pranciškonų vienuolyną ir nužudė keturiolika vienuolių."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Vilniaus miestiečių luomas puolė Pranciškonų ordinas (0.86)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "132185-132784; hash=3c33f68940296a541586ea95e0943508195a2a53a0a224a7ebe595c281780f03; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Pranciškonų ordinas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Pranciškonų ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginyje Vilniaus miestiečiai pagonys tiesiogiai siejami su pranciškonų vienuolių nužudymu."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
+    - c-170492
 
 <a id="claim-t-187543"></a>
 - t-002
   global_id: t-187543
-  teiginys: 'Lietuvos metraščio pasakojime Petras Goštautas prašė Algirdo nubausti pagonis, kurie esą žiauriai nužudė nekaltus pranciškonų vienuolius.'
+  teiginys: "Lietuvos metraščio pasakojime Petras Goštautas prašė Algirdo nubausti pagonis, kurie esą žiauriai nužudė nekaltus pranciškonų vienuolius."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "132785-133206; hash=ac4c8fe0df4f97e1ded8b818675708cfdd0143bc5bf59b99301d48f39e805903; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pranciškonų ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "pagonys: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Pranciškonų ordinas: mention_match, group, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"pagonys\" parinktas kaip owner_note_path. Targetas \"Pranciškonų ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-002
+    - c-170493
 - susijęs iš [[objektai/ivykiai/Keturiolikos pranciškonų nužudymas Vilniuje.md#claim-t-187476|Keturiolikos pranciškonų nužudymas Vilniuje]]: Lietuvos metraštis pranciškonų nužudymą Vilniuje aiškina pagonių nenoru turėti Romos tikėjimo krikščionių ir kerštu už dievų naikinimą.
 - susijęs iš [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.).md#claim-t-54448|Lietuvos krikštas Vilniuje (1387 m.)]]: Vilniaus gyventojai pagonys buvo pakrikštyti, o po apeigų jiems išdalyti balti lininiai marškiniai.
-- susijęs iš [[objektai/paprociai/Ištikimybė protėvių religijai ir papročiams.md#claim-t-185870|Ištikimybė protėvių religijai ir papročiams]]: Kojelavičiaus pasakojime ištikimybė protėvių religijai ir papročiams siejama su lietuvių pagonių valstybės kūrimu.
 - susijęs iš Didžiųjų magistrų jaunesnioji kronika: Didžiųjų magistrų jaunesniojoje kronikoje rašoma, kad pagonys pasiuntė lietuvius Prerochą ir Corantą.
 - susijęs iš Padauguvis: Pirmoji krikščionių bendruomenė Padauguvyje buvo silpna ir dažnai nukentėdavo nuo pagonių antpuolių.
 - susijęs iš Vilnius: Vilniuje pakrikštyti pagonys gyventojai, užgesinta amžinoji ugnis ir pradėta statyti Šv. Stanislovo katedra.
@@ -61,22 +103,25 @@ Lietuvos metraščio pasakojime Vilniaus miestiečiai pagonys, Algirdui žygiuoj
 - susijęs iš [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.).md#claim-t-07573|Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.)]]: Po žūties aisčių krašte vyskupas Vaitiekus buvo paskelbtas šventuoju ir krikščionybės kankiniu.
 - susijęs iš [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis.md#claim-t-01894|Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (kraštas)]]: Kunigaikštis Boleslovas išpirko nužudytų misijonierių lavonus.
 - susijęs iš [[objektai/paprociai/Gedėjimas plėšant drabužius ir apsivelkant ašutinėmis.md#claim-t-62675|Gedėjimas plėšant drabužius ir apsivelkant ašutinėmis]]: Gedulo metu žmonės suplėšė savo drabužius ir apsivilko ašutinėmis.
-- susijęs iš [[objektai/paprociai/Ištikimybė protėvių religijai ir papročiams.md#claim-t-185871|Ištikimybė protėvių religijai ir papročiams]]: Kojelavičiaus pasakojime lietuviai pagonys, ištikimi protėvių religijai ir papročiams, sukūrė Lietuvos valstybę.
 - susijęs iš [[objektai/paprociai/Lietuvos valdovų laidojimas pagoniškais papročiais.md#claim-t-31525|Lietuvos valdovų laidojimas pagoniškais papročiais]]: Iki 1385 m. pagonys Lietuvos valdovai, tarp jų Algirdas 1377 m. ir Kęstutis 1382 m., veikiausiai buvo laidojami pagoniškais papročiais.
 - susijęs iš [[objektai/paprociai/Ordino karo religinio įprasminimo praktika.md#claim-t-67175|Ordino karo religinio įprasminimo praktika]]: Petras iš Dusburgo Ordino karą laikė vykdomu pagal Dievo valią, o Ordino priešus vadino Dievo priešais.
 - susijęs iš [[objektai/paprociai/Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas.md#claim-t-10819|Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas]]: Livonijos ordino aplinkoje buvo įprasta kviesti svečius iš Vokietijos ir skelbti specialius kryžiaus žygius.
 - susijęs iš J. Fijałek Średniowieczne biskupstwa: J. Fijałeko „Średniowieczne biskupstwa“ minima kaip 1896 m. „Kwartalnik Historyczny“ publikacija.
+- susijęs iš Johanno Voigto Prūsijos istorija: Narbutas rašė, kad kryžiuočiai į Polesę įsiveržė laikydami ją senąja Prūsijos provincija ir kaltindami Kujavijos kunigaikštį sulaužius sutartį.
 - susijęs iš K. Chodynicki Legenda o męczeństwie czternastu Franciszkanów w Wilnie: K. Chodynickio „Legenda o męczeństwie czternastu Franciszkanów w Wilnie“ 1927 m. paskelbta AW IV tome, 53–78 puslapiuose.
 - susijęs iš Polityka miska Kazimierza Wielkiego: H. Paszkiewicziaus „Polityka miska Kazimierza Wielkiego“ išleista Varšuvoje 1925 m. ir turi 189 puslapius.
 - susijęs iš Akonas: Dusburgiečio pasakojime 1290 m. pagonys iš pamatų sugriovė Akoną, kuris buvo likęs vienintelis Šventosios Žemės miestas.
 - susijęs iš Akonas: 1290 m. Akonas buvo paskutinis likęs miestas prieš jo sugriovimą.
 - susijęs iš Dorpato vyskupija: 1323 m. per Užgavėnes lietuviai įsiveržė į Dorpato vyskupiją, ją plėšė ir degino.
-- susijęs iš Kulmas: Mozūrų kunigaikštis Konradas vyskupą Kristijoną įkurdino Mozūrams priklausiusio Kulmo žemės pakraštyje.
+- susijęs iš Kulmas: Petro Dusburgiečio kronikoje Kulmo ir Lubavo žemė įvardyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Mozūrai: Mozūrų kunigaikštis Konradas įkurdino vyskupą Kristijoną Kulmo žemės pakraštyje.
 - susijęs iš Revelio žemė: 1323 m. per Užgavėnes pagonys lietuviai įsiveržė į Danijos karalystės Revelio žemę Livonijoje ir Dorpato vyskupiją.
 - susijęs iš Semba: 1254 m. į Sembos pavergimo žygį vyko Čekijos karalius Otokaras, Otonas ir kiti didikai bei dvasininkai.
+- susijęs iš Vizna: Kunigaikštis Danielius nuėjo prie Viznos, persikėlė per Narevo upę ir iš nelaisvės išvadavo daug krikščionių.
 - susijęs iš Žemaičių aukštuma: Žemaičių aukštumoje išaugo ištisos ginamųjų pilių grandinės.
 - susijęs iš [[objektai/zodynas/erezija.md#claim-t-185402|erezija]]: Petras Skarga sakė, kad nuo krikščionybės atsimetę ar prie erezijų prisidėję žmonės silpnino monarcho valdžią ir griovė Žečpospolitą.
+- susijęs iš [[objektai/paprociai/Ištikimybė protėvių religijai ir papročiams.md#claim-t-192085|Ištikimybė protėvių religijai ir papročiams]]: Kojelavičiaus pasakojime ištikimybė protėvių religijai ir papročiams siejama su lietuvių pagonių valstybės kūrimu.
+- susijęs iš [[objektai/paprociai/Ištikimybė protėvių religijai ir papročiams.md#claim-t-192086|Ištikimybė protėvių religijai ir papročiams]]: Kojelavičiaus pasakojime lietuviai pagonys, ištikimi protėvių religijai ir papročiams, sukūrė Lietuvos valstybę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -96,6 +141,7 @@ Lietuvos metraščio pasakojime Vilniaus miestiečiai pagonys, Algirdui žygiuoj
     kite. Kam mūsų dievus naikinote." 2 O vyskupo sode,
     kur juos iškapojo, toje vietoje ir dabar stovi kryžius 3 .
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -115,8 +161,49 @@ Lietuvos metraščio pasakojime Vilniaus miestiečiai pagonys, Algirdui žygiuoj
     krikščionis-vienuolius, jam buvo apmaudu, kad krikš­
     čionims teko patirti tokį žiaurumą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-170492
+  citata_originali: |
+    APIE KETURIOLIKOS VIENUOLIŲ PRANCIŠKONŲ NUŽUDYMĄ
+    VILNIUJE
+    Tuo melu kai didysis kunigaikštis Algirdas žy­
+    giavo prieš Maskvą, o su juo buvo jo vaivada Petras
+    Goštautas, susirinko Vilniaus miesliečiai pagonys ir di­
+    deliu būriu atėjo prie vienuolyno; nenorėdami, kad
+    būtų Romos tikėjimo krikščionių, vienuolyną sudegino
+    ir septynis vienuolius sukapojo, o kitus septynis vie­
+    nuolius, pririšę prie kryžių, paleido Nerimi žemyn, sa­
+    kydami: „Nuo saulėlydžio atėjote, j saulėlydį ir grįž­
+    kite. Kam mūsų dievus naikinote." 2 O vyskupo sode,
+    kur juos iškapojo, toje vietoje ir dabar stovi kryžius 3 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187542
+
+- id: c-170493
+  citata_originali: |
+    Ir parvyksta didysis kunigaikštis Algirdas į Vilnių.
+    Goštautas žemai lenkdamasis prašė didįjį kunigaikštį
+    Algirdą, idant tuos pagonis, kurie tuos nekaltus vie­
+    nuolius taip žiauriai ir negailestingai žudė, už šitokį jų
+    žiaurumą lieptų nubausti. Ir pats didysis kunigaikštis
+    Algirdas labai liūdėjo, kad taip žiauriai nužudė tuos
+    krikščionis-vienuolius, jam buvo apmaudu, kad krikš­
+    čionims teko patirti tokį žiaurumą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187543

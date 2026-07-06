@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jurgis (Sviatoslavo sūnus)
 
@@ -19,10 +31,20 @@ Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgi
 <a id="claim-t-30317"></a>
 - t-001
   global_id: t-30317
-  teiginys: 'Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo Jogailai paklusnumą.'
+  teiginys: "Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo Jogailai paklusnumą."
+  semantiniai_rysiai: "Jurgis (Sviatoslavo sūnus) buvo sūnus Sviatoslavas (0.93)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "789577-789832; hash=13e3c2800241dbfde22d1ab66dfaa4da4fa2e19ec6503fc9aba082582514517a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Sviatoslavas: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jurgis (Sviatoslavo sūnus): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Sviatoslavas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Jurgis buvo Sviatoslavo sūnus."
   pagrindžia:
-    - c-001
-
+    - c-32764
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -33,11 +55,28 @@ Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgi
     Jogailai paklusnumą. O Skirgaila, sėkmingai apgulęs Polocką, kur
     jis pats atsisėdo, Andrių paėmė nelaisvėn ir išsiuntė Lenkijon.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-32764
+  citata_originali: |
+    Bet maištininkai greitai buvo įveikti. Pačiam Sviatoslavui žuvus
+    prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo
+    Jogailai paklusnumą. O Skirgaila, sėkmingai apgulęs Polocką, kur
+    jis pats atsisėdo, Andrių paėmė nelaisvėn ir išsiuntė Lenkijon.
+  citata_rodoma: "Pačiam Sviatoslavui žuvus\nprie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo\nJogailai paklusnumą. O Skirgaila, sėkmingai apgulęs Polocką, kur\njis pats atsisėdo, Andrių paėmė nelaisvėn ir išsiuntė Lenkijon."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-30317
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Sviatoslavas]]

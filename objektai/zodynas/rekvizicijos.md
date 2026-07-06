@@ -16,6 +16,18 @@ tags:
   - valstybė
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # rekvizicijos
 
@@ -26,19 +38,41 @@ Valstybės Taryba vis atkak­ liau siekė gauti konkrečias valdymo sritis į sa
 ## Teiginiai
 
 <a id="claim-t-22275"></a>
-- t-001
+- t-002
   global_id: t-22275
-  teiginys: 'Nepriklausomybės kare arklių, pašarų ir maisto rekvizicijos daugiausia vykdytos lenkų dvaruose.'
+  teiginys: "Nepriklausomybės kare arklių, pašarų ir maisto rekvizicijos daugiausia vykdytos lenkų dvaruose."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "290615-290828; hash=219e042391be5aaf6f77516e86e5af176a09e9bd7b80f1911ea99823edce71a4; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "rekvizicijos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"rekvizicijos\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-24965
 
 <a id="claim-t-22276"></a>
-- t-002
+- t-001
   global_id: t-22276
-  teiginys: 'Valstybės Taryba siuntė protestus dėl vokiečių vykdomų rekvizicijų.'
+  teiginys: "Valstybės Taryba siuntė protestus dėl vokiečių vykdomų rekvizicijų."
+  temporaliniai_duomenys: "įvykio data: iki 1922 m.; įvykio data: 1918 m.; įvykio data: 1922 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "267669-268215; hash=e2f0fb38b2eea22aaeb501f7b867eb56bd16799d4dd0f42874d191b2e6840950; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "rekvizicijos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"rekvizicijos\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-24964
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -54,6 +88,7 @@ Valstybės Taryba vis atkak­ liau siekė gauti konkrečias valdymo sritis į sa
     žinti lietuvius karo belaisvius iš Vokietijos ir Austrijos, lietuvių repatriaci-
     ja iš Rusijos (iki 1922 m. sausio į Lietuvą sugrįžo 195 000 žmonių).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -68,8 +103,44 @@ Valstybės Taryba vis atkak­ liau siekė gauti konkrečias valdymo sritis į sa
     vykdytos arklių, pašarų, maisto rekvizicijos) ir žemės valdų apkarpymą,
     nebelaukė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-24964
+  citata_originali: |
+    Tik situa-
+    cijai kare pasikeitus, 1918 m. lapkričio 2 d. Uracho išrinkimas karaliumi
+    buvo atšauktas.
+    Naujas galimybes atvėrė dviejų imperijų – Rusijos ir Vokietijos – pra-
+    laimėjimai kare, revoliucijos abiejose šalyse. Valstybės Taryba vis atkak­
+    liau siekė gauti konkrečias valdymo sritis į savo rankas, ruošėsi perimti
+    valdžią, siuntė protestus dėl vokiečių vykdomų rekvizicijų, rūpinosi grą-
+    žinti lietuvius karo belaisvius iš Vokietijos ir Austrijos, lietuvių repatriaci-
+    ja iš Rusijos (iki 1922 m. sausio į Lietuvą sugrįžo 195 000 žmonių).
+  citata_rodoma: "žinti lietuvius karo belaisvius iš Vokietijos ir Austrijos, lietuvių repatriaci-"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-22276
+
+- id: c-24965
+  citata_originali: |
+    Lenkai, matydami Lietuvos vykdomą lenkų dvarininkų ekonominės
+    jėgos silpninimą (nepriklausomybės kare daugiausia lenkų dvaruose
+    vykdytos arklių, pašarų, maisto rekvizicijos) ir žemės valdų apkarpymą,
+    nebelaukė.
+  citata_rodoma: "Lenkai, matydami Lietuvos vykdomą lenkų dvarininkų ekonominės"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-22275

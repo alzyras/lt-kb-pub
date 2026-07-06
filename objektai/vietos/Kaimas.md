@@ -10,6 +10,18 @@ tags:
   - ordinas
   - pilis
   - tikėjimas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kaimas
 
@@ -22,16 +34,36 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 <a id="claim-t-58560"></a>
 - t-001
   global_id: t-58560
-  teiginys: 'Karalius atžygiavo į Kvedenavos, Valdavos, Kaimo ir Tepliavos valsčius, kurių dalis gyventojų jam atidavė įkaitus.'
+  teiginys: "Karalius atžygiavo į Kvedenavos, Valdavos, Kaimo ir Tepliavos valsčius, kurių dalis gyventojų jam atidavė įkaitus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "348341-348965; hash=de330370cc697fa3fdd10e5b394041f1b1fe1d6b3ef7aa30eacb54a7cc3ca7df; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Tepliava: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaimas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Tepliava: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaimas\" parinktas kaip owner_note_path. Targetas \"Tepliava\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-59193
 
 <a id="claim-t-58561"></a>
 - t-002
   global_id: t-58561
-  teiginys: 'Kaimas buvo to paties vardo valsčiaus centras rytų Semboje, į vakarus nuo Deimenos.'
+  teiginys: "Kaimas buvo to paties vardo valsčiaus centras rytų Semboje, į vakarus nuo Deimenos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "350361-350556; hash=3b799da3f26c0381863efbbb5d5d022f940113b86ab658c0adb07e7f9d027920; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Deimena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaimas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Deimena: mention_match, place, gap=74"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaimas\" parinktas kaip owner_note_path. Targetas \"Deimena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-59192
 - susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63906|Martynas iš Golino]]: Martynas iš Golino su būreliu vyrų vakaro prietemoje užpuolė vieną Sūduvos žemės kaimą ir išžudė visus jo žmones.
 - susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63916|Martynas iš Golino]]: Petras Dusburgietis Martyną iš Golino priskyrė prie krikščionių plėšikautojų, garsėjusių nuostabiais ir nepaprastais žygiais.
 - susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63917|Martynas iš Golino]]: Dusburgietis Martyną iš Golino rodo kaip vieną svarbiausių krikščionių plėšikautojų.
@@ -54,6 +86,7 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - susijęs iš [[objektai/asmenys/Simonas Grunau.md#claim-t-188610|Simonas Grunau]]: Narbutas perteikė Grunau pasakojimą, kad šis atsitiktinai pateko į kaimą per ožio aukojimą ir turėjo prisiekti Perkūnui neišduoti apeigų vyskupui.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176703|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Pasiligojusi Vytauto žmona Julijona buvo apsistojusi prie Vilniaus buvusiame kunigaikščių kaime Memitz.
 - susijęs iš [[objektai/autoriai/D. Pochilevyč.md#claim-t-29457|D. Pochilevyč]]: D. Pochilevyč buvo Lvovo universiteto profesorius ir tyrinėjo Lietuvos, Gudijos bei Ukrainos kaimo ūkinius santykius.
+- susijęs iš [[objektai/autoriai/J. Foigtas.md#claim-t-190731|Johanas Foigtas]]: Teodoras Narbutas Foigto tvirtovės vietos tyrimą laikė kiek klaidingu ir tvirtovę siejo su sena piliaviete prie Pilkalnio kaimo.
 - susijęs iš [[objektai/autoriai/Mykolas Lietuvis.md#claim-t-172962|Mykolas Lietuvis]]: Mykolas Lietuvis rašė apie Keturiasdešimties Totorių kaimo pavadinimo kilmę.
 - susijęs iš [[objektai/autoriai/V. Essen.md#claim-t-31026|V. Essen]]: V. Essen 1934 m. paskelbė darbą apie kaimo gyvenvietes Lietuvoje.
 - susijęs iš [[objektai/daiktai/Kalnėnų blindės gėlių vainikai ir kryžius.md#claim-t-189722|Kalnėnų blindės gėlių vainikai ir kryžius]]: Narbutas 1805 m. Kalnėnų kaime matė gėlių vainikais papuoštą blindę, prie kurios kunigai buvo liepę prikalti kryžių.
@@ -96,6 +129,8 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - susijęs iš Vytauto privilegijos Vilniaus kapitulai: 1411 m. Trakuose rašyta Vytauto privilegija Vilniaus kapitulai mainais už Vechatnicos kaimą suteikė valdas Krėvos ir Svisločiaus apylinkėse.
 - susijęs iš Vytauto privilegijos Vilniaus kapitulai: 1407 m. Vilniuje rašyta Vytauto privilegija Vilniaus kapitulai Liubarų kaimą suteikė mainais už anksčiau dovanotą Jaryničių kaimą.
 - susijęs iš Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: Zajączkowskio veikalas nurodomas tarp šaltinių, Bebirvaitės pilį lokalizuojančių prie Bebirvyčio upelio netoli Bebirvų kaimo.
+- susijęs iš Asgarai: Teodoras Narbutas Asgarų kaimą prie Assės žiočių tapatino su senovės Asgardu.
+- susijęs iš Asgarai: Narbutas rašo, kad pats Asgarų kaimo neaplankė, bet girdėjo apie piliavietės liekanas ir kapus su skandinavų senovės iškasenomis.
 - susijęs iš Aukaimis: Narbutas rašo, kad Aukaimio kaime slapstėsi vyriausiasis žynys Gintautas, miręs 1414 m. liepos 28 d., ir su juo baigėsi lietuvių stabmeldystė.
 - susijęs iš Aukštasis krantas: Aukštasis krantas yra kaimas dešiniame Ušos krante.
 - susijęs iš Ašminta: 1947 m. liepos 17 d. Prienų apskrities Ašmintos kaime MGB grupė apsupo partizanų bunkerį, kuriame slėpėsi 7 Birutės ir Geležinio Vilko rinktinės partizanai.
@@ -104,6 +139,7 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - susijęs iš Ažagų-Eimuliškio miškas: Mūšio metu Ažagų-Eimuliškio miškas buvo apsuptas nuo Ažagų kaimo ir Smilgių miestelio pusės.
 - susijęs iš Ažagų-Eimuliškio miškas: Mūšio metu Ažagų-Eimuliškio miškas buvo apsuptas nuo Ažagų kaimo ir Smilgių miestelio pusės.
 - susijęs iš Bakaloriškiai kaimas: Vokiečių okupacijos metu Vaclovas Voveris su kaimynais įkūrė savisaugos būrį Bakaloriškių kaimui saugoti nuo komunistinių partizanų puldinėjimų.
+- susijęs iš Belichovo pilis: Belichovo pilis, kilmingojo Jono buveinė, buvo netoli Osos, Bindigs-Bergo, šiandienio Bialochovo, apylinkėse, šiaurinėje Osos pakrantėje, prie pat Mokrau kaimo.
 - susijęs iš Cirinas: Cirinas yra kaimas prie Servečio upės, 5 km į pietus nuo Ostašino.
 - susijęs iš Dambrava: Dambravos kaimas prie Vilniaus buvo tarp valdų, kuriomis iškilmingu aktu buvo aprūpinta Vilniaus katedra.
 - susijęs iš Daukšiai: Remiantis KGB duomenimis, liepos 15 d. per operaciją Buktos miške ir Daukšių kaime žuvo partizanai Juozas Pūkas ir Motiejus Overa.
@@ -141,6 +177,8 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - susijęs iš Loza: Loza minima 1222 m. dokumente, o 1246 m. dokumente rašoma apie prie Lozos kaimo esantį ežerą.
 - susijęs iš Lydos apskritis: 1826 m. Lydos apskrityje, prie Ogrodnikų kaimo Šalčios pakrantės skardyje, kaimietis rado senų sidabrinių pinigų.
 - susijęs iš Malevas: Malevas yra kaimas pietiniame, kairiajame Ušos upės krante.
+- susijęs iš Mažoji Rosė (Roska): Mažoji Rosė, Narbuto vadinama ir Roska, prasideda kairiojoje Supo pakrantėje greta Kučincų kaimo.
+- susijęs iš Mažoji Rosė (Roska): Roska prie Rošovsko kaimo iš dešiniojo kranto įteka į Rosę, kuri drauge su Supo upe sudaro į Dneprą plaukiančių upių baseiną.
 - susijęs iš Minaičių kaimas: 1949 m. vasario 11 d. Minaičių kaime pakeliui į suvažiavimą susitiko Vakarų ir Pietų Lietuvos partizanų atstovai ir vadai.
 - susijęs iš Molėtai: Molėtų kaimas prie Vilniaus buvo vienas iš valdų, iškilmingu aktu dovanotų Vilniaus vyskupui.
 - susijęs iš Mūša: Salyno akte ordinui tenkančių žemių riba nuo Vaišvilčių kaimo buvo pratęsta Mūšos upe, Smardonės upeliu ir Apaščios ežeru.
@@ -167,6 +205,7 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - susijęs iš Sedlcai: Sedlcų kaimas buvo į pietus nuo Vyslos, kiek į šiaurę nuo Inovroclavo.
 - susijęs iš Sklunija: Sklunija buvo kaimas, anksčiau vadintas Kalija, į kurį subėgusius priešus maldininkai įveikė.
 - susijęs iš Sliepšiškio kaimas: Šimonių girioje netoli Sliepšiškio kaimo buvo puolamas Alberto Žilio-Kęstučio būrio bunkeris, kuriame žuvo 5 partizanai.
+- susijęs iš Svisločė: Volkovysko apskrityje per mylią nuo grafo Tiškevičiaus Svisločės buvo Radovickių kaimas Jatwiesk.
 - susijęs iš Trakiniai: 1945 m. birželio 27 d. Trakinių kaimo apylinkių miške NKVD 137-asis šaulių pulkas puolė Alfonso Bagdono-Aro būrį.
 - susijęs iš Upės (Oppen) kaimas: Upės (Oppen) kaime augęs storiausias ąžuolas, anot Hartknocho, priklausė šventyklos liekanoms.
 - susijęs iš Vaišvilčiai: Salyno akte ordinui tenkančių žemių siena nuo Vaišvilčių kaimo Nevėžio aukštupyje pratęsta Mūšos upe, Smardonės upeliu ir Apaščios ežeru.
@@ -180,9 +219,9 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - susijęs iš Vilkaviškio apskritis: 1950 m. birželio 22-23 d. Vilkaviškio apskrities Žiūrų-Gudelių kaimo apylinkėse MGB pajėgos puolė Tauro apygardos partizanų grupę.
 - susijęs iš Vilnelė: Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus.
 - susijęs iš Vilnelė: Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus.
 - susijęs iš Vilnius: Narbutas piktukų pavadinimą siejo su žodžiu „piktas“ ir minėjo netoli Vilniaus esantį Piktukonių kaimą.
 - susijęs iš Vilnius: Narbutas rašė, kad XVII a. pradžioje jėzuitai greta Vilniaus esančio kaimo mokykloje ant mokinio kaklo pastebėjo maišelį.
+- susijęs iš Vilnius: Narbutas rašė, kad XVII amžiaus pradžioje jėzuitai prie Vilniaus esančio kaimo mokykloje pastebėjo mokinį su žalčio kultu siejamu maišeliu.
 - susijęs iš Vitchendorfas: Vitchendorfas buvo kaimas Saksonijoje.
 - susijęs iš Šilginėliai: Vasario 7 d. bolševikai kelis kartus puolė Šilginėlių kaime buvusią lietuvių sargybą, mėgindami pralaužti jos gynybą.
 - susijęs iš Šventainė: Šventainė (Szwentejne) Prūsuose minima kaip upė, ties Baičių kaimu įtekanti į Peisę; anksčiau ji vadinta Galbe.
@@ -234,6 +273,7 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - susijęs iš [[objektai/asmenys/Povilas Lukšys.md#claim-t-49486|Povilas Lukšys]]: Povilas Lukšys su V. Vainausku ir 8 kareiviais užėjo bolševikams į užnugarį ir privertė juos trauktis iš Eigulių į Juodikio mišką.
 - susijęs iš [[objektai/asmenys/Samboras.md#claim-t-60202|Samboras]]: Samboras su broliu Sventopelku ir kitais kunigaikščiais atvyko į Prūsiją ir sustiprino Marienverderio pilį.
 - susijęs iš [[objektai/asmenys/Skomantas (lietuvių vadas).md#claim-t-40424|Skomantas (lietuvių vadas)]]: Sūduvių ir lietuvių vadas Skomantas su didele kariuomene siaubė Kulmo teritoriją, puolė Kulmą ir sunaikino Eimsučio bei Cipelio pilis.
+- susijęs iš [[objektai/asmenys/Stanislovas Trembeckis.md#claim-t-191316|Stanislovas Trembeckis]]: Narbutas Raseinių apskrityje 1805 m. užrašytą dainelę lygino su Stanislovo Trembeckio pasakėčia „Balandėliai“.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90030|Sventopelkas]]: Sventopelkas, Pomeranijos kunigaikštis, su broliu Samboru atvyko padėti statyti Marienverderio miestą.
 - susijęs iš [[objektai/asmenys/V. Vainauskas.md#claim-t-40491|V. Vainauskas]]: V. Vainauskas su P. Lukšiu ir 8 kareiviais užėjo bolševikams į užnugarį ir privertė juos trauktis į Juodikio mišką.
 - susijęs iš [[objektai/asmenys/Viktoras Šniuolis.md#claim-t-40503|Viktoras Šniuolis]]: Viktoro Šniuolio ir Algirdo Kamantausko rūpesčiu 1991 m. partizanų palaikai buvo surasti ir palaidoti Radviliškio kapinėse.
@@ -245,6 +285,7 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - susijęs iš [[objektai/autoriai/A. Mickevičius.md#claim-t-19368|A. Mickevičius]]: A. Mickevičiaus kūryba kartu su J. Kraševskio kūryba turėjo reikšmės lietuvių tautinės savimonės plėtotei.
 - susijęs iš [[objektai/autoriai/B. Nerman.md#claim-t-30569|B. Nerman]]: B. Nermanas 1929 m. Stokholme paskelbė darbą apie Skandinavijos ir Rytų Baltijos ryšius vėlyvajame geležies amžiuje.
 - susijęs iš [[objektai/autoriai/Frydrichas Stenderis.md#claim-t-190266|Frydrichas Stenderis]]: Narbutas nesutiko su Stenderio siejimu Tiimpus su Atrimpos ir vadino Tiimpus paprastu girtuoklių globėjo epitetu.
+- susijęs iš [[objektai/autoriai/Gotthardas Friedrichas Stenderis.md#claim-t-191541|Gotthardas Friedrichas Stenderis]]: Gotthardas Friedrichas Stenderis Narbuto pateikiamas kaip Kuršo pamokslininkas ir latvių gramatikos autorius, rašęs apie latvių kalbos skirtumą nuo estų kalbos.
 - susijęs iš [[objektai/autoriai/Górnowicz H.md#claim-t-60555|Górnowicz H]]: H. Górnowiczius nagrinėjo Marienverderio ir Kvidzino vietovardžių medžiagą.
 - susijęs iš [[objektai/autoriai/J. Lasickis.md#claim-t-188419|Jonas Lasickis]]: Narbutas rašo, kad Lasickis paliko žinią apie sūduvių bendrą derliaus nuėmimo šventę su aukomis.
 - susijęs iš [[objektai/autoriai/J. Lasickis.md#claim-t-188420|Jonas Lasickis]]: Narbutas Lasickį vadina šių apeigų liudytoju ir teigia, kad Lasickis pridūrė apie atpildą už tikėjimą.
@@ -271,6 +312,7 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - susijęs iš [[objektai/daiktai/Skobnis.md#claim-t-183981|Skobnis]]: Martynas iš Golino su bendrais po žygio Sūduvoje sėdo už skobnies papietauti, bet juos užpuolė priešai.
 - susijęs iš [[objektai/daiktai/Skobnis.md#claim-t-59705|Skobnis]]: Martynas iš Golino su bendrais po žygio Sūduvoje sėdo už skobnies papietauti, bet juos užpuolė priešai.
 - susijęs iš [[objektai/grupes/6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas.md#claim-t-40826|6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]]: Pervedus 6-ąjį pėstininkų pulką į lenkų frontą, jo kariai ir vadas Vidugiriuose susitiko su nuo vasaros vidurio kovojusiu I batalionu.
+- susijęs iš [[objektai/grupes/Glotinų šeima.md#claim-t-192982|Glotinų šeima]]: Narbutas Glotinų šeimą vaizduoja kaip galingą Varmijos bajorų giminę, galėjusią krašto gynybai duoti nemažų būrių.
 - susijęs iš [[objektai/grupes/Kazokai.md#claim-t-65307|Kazokai]]: 1906 m. pavasarį caro valdžia kazokų ir kariuomenės pastangomis atkūrė savo kiek pakoreguotą tvarką.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178860|Kryžiuočių ordinas]]: Hermanas iš Zalcos, Teutonų ordino didysis magistras, 1230 m. atsiuntė Hermaną Balką eiti magistro pareigų.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178928|Kryžiuočių ordinas]]: Ordino pilis ant Švento Jurgio kalno, atrodo, stovėjo dešiniajame Nemuno krante apie dabartinį Jurbarką.
@@ -282,6 +324,7 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - susijęs iš [[objektai/grupes/Pietų Lietuvos sritis.md#claim-t-54152|Pietų Lietuvos sritis]]: 1949 m. vasario 11 d. pakeliui į Lietuvos partizanų vadų suvažiavimą susitiko Pietų Lietuvos ir Vakarų Lietuvos partizanų atstovai bei vadai.
 - susijęs iš [[objektai/grupes/Rėkaus būrys.md#claim-t-41139|Rėkaus būrys]]: 1945 m. balandžio 18 d. ties Vartų kaimu žuvo penki Rėkaus būrio kovotojai ir būrio vadas.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175093|Sembai]]: Kvedenavos, Valdavos, Kaimo ir Tepliavos valsčių sembai davė karaliui įkaitus ir prisiekė paklusti tikėjimui bei broliams.
+- susijęs iš [[objektai/grupes/Skandinavai.md#claim-t-192459|Skandinavai]]: Narbutas Assagardą laikė senovės šiaurės miestu Rusioje, kur, jo teigimu, nuolat gyveno skandinavai.
 - susijęs iš [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis.md#claim-t-41186|Vakarų Lietuvos (Jūros) sritis]]: Vakarų Lietuvos (Jūros) srities partizanų atstovai ir vadai pakeliui į suvažiavimą susitiko su Pietų Lietuvos (Nemuno) partizanų atstovais.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176088|Vilniaus kapitula]]: Vytautas dosniai dalijo vis didesnes dovanas Vilniaus vyskupui ir Vilniaus kapitulai.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176094|Vilniaus kapitula]]: Vilniaus kapitulos archyve buvo išlikusios keturios Vytauto privilegijos.
@@ -319,6 +362,7 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - susijęs iš [[objektai/paprociai/Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose.md#claim-t-75370|Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose]]: Viešas kalbėjimas lietuviškai ir lietuviškų pamaldų reikalavimai bažnyčiose kėlė lenkiškai kalbančiųjų opoziciją.
 - susijęs iš [[objektai/paprociai/Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas.md#claim-t-169869|Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas]]: Valdžia manė, kad etninės Lietuvos kaimo mokykloms reikia dvikalbių elementorių, kuriuose lietuviški vertimai būtų užrašyti kirilika.
 - susijęs iš [[objektai/paprociai/Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas.md#claim-t-169870|Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas]]: Valdžia siekė kaimo mokykloms išleisti dvikalbius elementorius, kuriuose lietuviški vertimai būtų rašomi kirilika.
+- susijęs iš [[objektai/paprociai/Pilkapių nelietimo iš pagarbos ir baimės paprotys.md#claim-t-192104|Pilkapių nelietimo iš pagarbos ir baimės paprotys]]: Narbutas nurodė: Vietos kaimiečiai pilkapių nelietė, nes gerbė po jais besiilsinčios genties žmonių palaikus.
 - susijęs iš [[objektai/paprociai/Privatus lietuviškų mokyklų steigimas ir lietuviškas mokymas po 1905 m.md#claim-t-183331|Privatus lietuviškų mokyklų steigimas ir lietuviškas mokymas po 1905 m]]: Po 1905 m. mokyklas leista steigti privatiems asmenims ir visuomeninėms organizacijoms, o jose galėjo būti mokoma lietuvių ir lenkų kalbomis.
 - susijęs iš [[objektai/paprociai/Privatus lietuviškų mokyklų steigimas ir lietuviškas mokymas po 1905 m.md#claim-t-54327|Privatus lietuviškų mokyklų steigimas ir lietuviškas mokymas po 1905 m]]: Užnemunėje veikė privati moterų gimnazija, kurioje dėstyta lietuvių kalba.
 - susijęs iš [[objektai/paprociai/Ragučio garbinimo apeigos ir vasario šventės stabo vežiojimas.md#claim-t-189865|Ragučio garbinimo apeigos ir vasario šventės stabo vežiojimas]]: Narbutas Ragučio vardą kildino iš žodžio „Ragutas“, nes per vasario šventę dievo stabas ar atvaizdas būdavo vežiojamas rogėmis.
@@ -378,6 +422,7 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - susijęs iš Marijampolės apskritis: 1809 m. Lokaičių kaime Marijampolės apskrityje kaimietis Kavaliauskas po supuvusiu ąžuolo kelmu rado įvairių ginklų nuolaužų.
 - susijęs iš Motiejūnai: Apie 12 val. T. Balno kariai pasiekė Motiejūnų-Giedraičių kelią ir pasuko Motiejūnų link.
 - susijęs iš Notanga: Magistro pasiųsti broliai ir ginklanešiai įsibrovė į Notangą, degino ir grobė, bet grįždami rado priešų užstotus kelius.
+- susijęs iš Pamedė: Narbutas iš tvirtovių išsidėstymo sprendė, kad rytinė ir šiaurinė Pamedės dalys buvo gerai apgyvendintos.
 - susijęs iš Paneriai: Perkėlimai plaustais per Vilijos upę buvo uždrausti tarp Verkių kaimo ir Panerių kaimo.
 - susijęs iš Paneriai: Perkėlimai plaustais per Viliją buvo draudžiami tarp Verkių kaimo ir Vilniaus kapitulai priklausiusio Panerių kaimo.
 - susijęs iš Parudaminys: Voigtas, remdamasis Vygandu, Rudminne kaimą tapatino su dabartiniu Parudaminiu į pietvakarius nuo Vilniaus.
@@ -407,9 +452,12 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - susijęs iš Vakarų Lietuva: 1949 m. vasario 11 d. pakeliui į partizanų vadų suvažiavimą susitiko Vakarų Lietuvos ir Pietų Lietuvos partizanų atstovai bei vadai.
 - susijęs iš Valdava: Valdava buvo valsčiaus centras į rytus nuo dabartinio Kaliningrado, o pilis greičiausiai stovėjo šiauriau Valdavos.
 - susijęs iš Varka: Lenkijos bajorai Varkoje nusprendė reikalauti paleisti karalių, o nesėkmės atveju rengti žygį į Lietuvą.
+- susijęs iš Varmija: Varmijos ir Natangijos siena ėjo tarp Kroieburgo ir Giniau miestų iki Alnos upės, už kurios prasidėjo Barta.
 - susijęs iš Vyžuonos: Vyžuonas užėmė lietuviai ir vokiečiai, verždamiesi toliau po susidūrimo su priešo pėstininkais prie Debeikių.
 - susijęs iš Šventasis miškas prie Tenenio upės: Hartknochas šventąjį mišką lokalizavo prie Žemaitijos sienos, dviejų upių santakoje, iš kurių viena įteka į Rusnės įlanką.
 - susijęs iš Šėta: Po nesėkmingo puolimo Kėdainių apylinkėse bolševikai tą vakarą atsitraukė į Šėtą.
+- susijęs iš [[objektai/zodynas/Russ ir Ross.md#claim-t-192189|Russ ir Ross]]: Narbuto aprašytoje dainelėje žodis Russ siejamas su gyvenimo gimtojoje sodyboje laime ir nauda.
+- susijęs iš [[objektai/zodynas/Russ ir Ross.md#claim-t-192191|Russ ir Ross]]: Narbutas rašo, kad žodis Russ rastas 1805 m. Raseinių apskrityje užrašytoje lietuviškoje dainelėje.
 - susijęs iš [[objektai/zodynas/Simonaitė Sidzia Ventis Rageziowan Dievaitis Vetustis Guboja Tvertikas.md#claim-t-189251|Simonaitė Sidzia Ventis Rageziowan Dievaitis Vetustis Guboja Tvertikas]]: Narbutas Simonaitę (Simonajte) apibūdina kaip moteriškos giminės fetišą, kurį garbino Mikuckių giminė.
 - susijęs iš [[objektai/zodynas/Stambusis prekinis ūkis.md#claim-t-22024|Stambusis prekinis ūkis]]: Stambųjį prekinį ūkį siekė plėtoti žemę atgavę žemdirbiai, papildomai nuomoję ar pirkę kitų paveldėtojų atgautas žemes.
 - susijęs iš [[objektai/zodynas/Valstybinis žemės fondas.md#claim-t-77807|Valstybinis žemės fondas]]: Į Valstybinį žemės fondą buvo paimta valstybinė žemė, kai kurių dvarų ir virš 80 ha turėjusių privačių ar bažnytinių savininkų žemė.
@@ -420,10 +468,19 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - susijęs iš [[objektai/zodynas/kolektyvizacija.md#claim-t-75559|kolektyvizacija]]: Kolektyvizacija sovietmečiu reiškė vienkiemių naikinimą ir jų savininkų kėlimą į kolektyvines gyvenvietes, miestelius ar miestus.
 - susijęs iš [[objektai/zodynas/misterija.md#claim-t-34250|misterija]]: Misterijos „Likimo keliais“ turinį sudaro pasakojimas apie Vincą Višvilį, siekusį prikelti Žvaigždikį, tai yra Lietuvą.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-184009|papilys]]: Prūsai prie Pagansčių kaimo sumušė krikščionis, o po to sugriovė pamedėnų gyvenvietę, pilį ir brolių papilį.
+- susijęs iš [[objektai/zodynas/pilkapis.md#claim-t-192276|pilkapis]]: Teodoro Narbuto užrašytuose pasakojimuose kaimiečiai neliečia pilkapių iš pagarbos po jais besiilsinčių žmonių palaikams.
+- susijęs iš [[objektai/zodynas/pilkapis.md#claim-t-192279|pilkapis]]: Teodoro Narbuto užrašytuose vietos padavimuose pilkapiai visuomet laikomi kapais.
+- susijęs iš [[objektai/zodynas/pilkapis.md#claim-t-192282|pilkapis]]: Teodoro Narbuto užrašytuose vietos pasakojimuose pilkapiai priskiriami neatmenamos senovės epochai.
 - susijęs iš [[objektai/zodynas/sovietinis genocidas.md#claim-t-22302|sovietinis genocidas]]: Sovietinio genocido ir teroro aukomis Lietuvoje tapo 456 tūkst. gyventojų.
 - susijęs iš [[objektai/zodynas/tautinis krikštas.md#claim-t-101610|tautinis krikštas (krikštas)]]: Lietuvių tautiniam krikštui didelę reikšmę turėjo lenkų romantikų kūryba ir lietuviškai rašyta Maironio poezija.
 - susijęs iš [[objektai/zodynas/villa kaimas sodžius.md#claim-t-58880|villa kaimas sodžius]]: Sodžių, tiek ir vieno kiemo nobilio gyvenvietę.
 - susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-184111|Martynas iš Golino]]: Martynas iš Golino Sūduvos kaime nukovė 10 vyrų pirtyje, pagrobė arklių bei gyvulių ir išsivarė į nelaisvę moteris bei vaikus.
+- susijęs iš [[objektai/paprociai/Pilkapių nelietimo iš pagarbos ir baimės paprotys.md#claim-t-192104|Pilkapių nelietimo iš pagarbos ir baimės paprotys]]: Narbutas nurodė: Vietos kaimiečiai pilkapių nelietė, nes gerbė po jais besiilsinčios genties žmonių palaikus.
+- susijęs iš [[objektai/zodynas/Russ ir Ross.md#claim-t-192189|Russ ir Ross]]: Narbuto aprašytoje dainelėje žodis Russ siejamas su gyvenimo gimtojoje sodyboje laime ir nauda.
+- susijęs iš [[objektai/zodynas/Russ ir Ross.md#claim-t-192191|Russ ir Ross]]: Narbutas rašo, kad žodis Russ rastas 1805 m. Raseinių apskrityje užrašytoje lietuviškoje dainelėje.
+- susijęs iš [[objektai/zodynas/pilkapis.md#claim-t-192276|pilkapis]]: Teodoro Narbuto užrašytuose pasakojimuose kaimiečiai neliečia pilkapių iš pagarbos po jais besiilsinčių žmonių palaikams.
+- susijęs iš [[objektai/zodynas/pilkapis.md#claim-t-192279|pilkapis]]: Teodoro Narbuto užrašytuose vietos padavimuose pilkapiai visuomet laikomi kapais.
+- susijęs iš [[objektai/zodynas/pilkapis.md#claim-t-192282|pilkapis]]: Teodoro Narbuto užrašytuose vietos pasakojimuose pilkapiai priskiriami neatmenamos senovės epochai.
 - susijęs iš [[objektai/ivykiai/Glotavos valsčiaus antpuolis ir 72 lietuvių žūtis (1300 m. ruduo).md#claim-t-62272|Glotavos valsčiaus antpuolis ir 72 lietuvių žūtis (1300 m. ruduo)]]: 1300 m. rudenį 75 lietuviai įsibrovė į Varmės vyskupystės Glotavos valsčių ir sudegino vieną kaimą.
 - susijęs iš Pirmasis Lietuvos gyventojų surašymas (1923 m.): 1923 m. pirmojo Lietuvos gyventojų surašymo duomenimis, kaime gyveno 84 proc. Lietuvos gyventojų, o lietuviai sudarė 91 proc. kaimo gyventojų.
 - susijęs iš [[objektai/grupes/Gardino pulkas.md#claim-t-78168|Gardino pulkas]]: Gardino pulko štabas, lauko artilerijos baterija ir vienas pulko batalionas buvo įsikūrę kaime, prie kurio sugulė lietuviai.
@@ -437,6 +494,7 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
     rytų Semboje,  į vakarus nuo Deimenos; prūsų pilies vietoje pastatyta Ordino pilis su
     priešpiliu (CF, p. 68—70).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -455,11 +513,44 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
     prie kalvos, kurioje dabar stovi Karaliaučiaus pilis, patardamas broliams čia pastatyti
     pilį tikėjimui ginti ir palikdamas jiems puikių, tikrai karališkų dovanų šiai statybai.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-59192
+  citata_originali: |
+    326 D. — Caym, Jer. — Kayme; Kaimas (dab. Zarečjė), to pat vardo valsčiaus centras
+    rytų Semboje,  į vakarus nuo Deimenos; prūsų pilies vietoje pastatyta Ordino pilis su
+    priešpiliu (CF, p. 68—70).
+  citata_rodoma: "326 D. — Caym, Jer. — Kayme; Kaimas (dab. Zarečjė), to pat vardo valsčiaus centras\nrytų Semboje,  į vakarus nuo Deimenos; prūsų pilies vietoje pastatyta Ordino pilis su\npriešpiliu (CF, p."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58561
+
+- id: c-59193
+  citata_originali: |
+    kad jų kilmingieji pasiūlė karaliui įkaitų, maldaudami jų pagailėti ir nežudyti visų žmonių.
+    Paskui jis atžygiavo  į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten
+    kai kurie, bijodami, kad ir čia jis nepridarytų panašių skerdynių kaip kitur, atidavė jam
+    įkaitais savo sūnus, galvomis prisiekdami nuolankiai paklusti tikėjimui ir broliams. Viską
+    tinkamai sutvarkęs, karalius perdavė broliams minėtuosius įkaitus, o pats nužygiavo
+    prie kalvos, kurioje dabar stovi Karaliaučiaus pilis, patardamas broliams čia pastatyti
+    pilį tikėjimui ginti ir palikdamas jiems puikių, tikrai karališkų dovanų šiai statybai.
+  citata_rodoma: "Paskui jis atžygiavo  į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten\nkai kurie, bijodami, kad ir čia jis nepridarytų panašių skerdynių kaip kitur, atidavė jam\nįkaitais savo sūnus, galvomis prisiekdami nuolankiai paklusti tikėjimui ir broliams. Viską\ntinkamai sutvarkęs, karalius perdavė broliams minėtuosius įkaitus, o pats nužygiavo\nprie kalvos, kurioje dabar stovi Karaliaučiaus pilis, patardamas broliams čia pastatyti\npilį tikėjimui ginti ir palikdamas jiems puikių, tikrai karališkų dovanų šiai statybai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58560
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Simonas Grunau]]

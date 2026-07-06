@@ -14,6 +14,18 @@ tags:
   - karalius
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Perekopo orda
 
@@ -26,9 +38,20 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
 <a id="claim-t-86767"></a>
 - t-001
   global_id: t-86767
-  teiginys: 'Perekopo ordos chanas Šach Achmedas savo pajėgomis rėmė lietuvius prieš Mendli Girėjų.'
+  teiginys: "Perekopo ordos chanas Šach Achmedas savo pajėgomis rėmė lietuvius prieš Mendli Girėjų."
+  semantiniai_rysiai: "Šach Achmedas rėmė Lietuviai (0.96)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "469008-469649; hash=d7731ba047a3aa652378a5d9e51155b12538975506fa050c9b8bd200d952d170; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Lietuviai: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Šach Achmedas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Šach Achmedas savo pajėgomis rėmė lietuvius."
   pagrindžia:
-    - c-001
+    - c-82746
 - susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-187704|Auksinė Orda]]: Aukso ordoje ulanais vadinosi chano giminės nariai iš tų linijų, kurių atstovams neteko sėdėti chanų soste.
 - susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-187710|Krymo chanatas]]: Perekopas buvo slaviškas sąsmaukos, jungiančios Krymo pusiasalį su žemynu, pavadinimas.
 - susijęs iš [[objektai/zodynas/ulan.md#claim-t-187552|ulan]]: Ulanas buvo feodalinis titulas, kuriuo vadinosi žymiausi chanų giminės totorių feodalai, turėję ulusus ir teisę dalyvauti chanų rinkimuose.
@@ -54,11 +77,37 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
     wał, tot czudes nie widał [Kas Vilniuje
     nebuvo, tas stebuklų neregėjo].
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-82746
+  citata_originali: |
+    Krymo totorių
+    orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes,
+    paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.
+    Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus
+    Mendli Girėjaus priešas, savo pajėgomis rėmė lietuvius, -
+    Aleksandro veiksmams stigo ryžto ir, nors buvo išrinktas
+    Lenkijos karaliumi (1501 metais), jis vis dėlto negebėjo pa­
+    naudoti savo galios ir susidoroti su savo priešais. Šach Ach­
+    medas, apleistas sąjungininko, Mendli Girėjaus sumuštas,
+    43
+    Žinome, kad Maskvoje iki šiol dar
+    išlikęs priežodis: Kto w Wilnie nie by­
+    wał, tot czudes nie widał [Kas Vilniuje
+    nebuvo, tas stebuklų neregėjo].
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86767
 
 ## Ryšiai
 - Perekopo orda priklausė [[objektai/grupes/Krymo chanatas]]

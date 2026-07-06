@@ -19,22 +19,30 @@ datos:
   - '2026 m.'
 date_start: '1384'
 date_end: '2026'
-description: 'Luckas siejamas su Vytauto valdžia Volinijoje, Ostrovo taika, 1429 m. suvažiavimu, Magdeburgo teise ir Švitrigailos mirtimi.'
-socialDescription: 'Luckas Lietuvos istorijos šaltiniuose minimas kaip Vytauto valdžios, 1429 m. suvažiavimo ir Švitrigailos mirties vieta.'
-seo_atnaujinta: '2026-07-02T23:12:35.089877+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '1'
+media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/b/b8/WIG_Mapa_Operacyjna_Polski_-_77_%C5%81uck_1928.jpg'
+media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AWIG_Mapa_Operacyjna_Polski_-_77_%C5%81uck_1928.jpg'
+media_primary_directness: 'direct'
+media_primary_relation_type: 'map_of'
+media_primary_json: |-
+  {"mediaId":"m-97435491ff3ff83f81399187","title":"WIG Mapa Operacyjna Polski - 77 Łuck 1928.jpg","caption":"Operational map of Poland and neighbouring countries, region Łuck. Scale of 1:300000.","creator":"Polish Insitute of Military Geography","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1928","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWIG_Mapa_Operacyjna_Polski_-_77_%C5%81uck_1928.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b8/WIG_Mapa_Operacyjna_Polski_-_77_%C5%81uck_1928.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}
+media_direct_json: |-
+  [{"mediaId":"m-97435491ff3ff83f81399187","title":"WIG Mapa Operacyjna Polski - 77 Łuck 1928.jpg","caption":"Operational map of Poland and neighbouring countries, region Łuck. Scale of 1:300000.","creator":"Polish Insitute of Military Geography","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1928","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWIG_Mapa_Operacyjna_Polski_-_77_%C5%81uck_1928.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b8/WIG_Mapa_Operacyjna_Polski_-_77_%C5%81uck_1928.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}]
+media_contextual_json: |-
+  []
+media_all_json: |-
+  [{"mediaId":"m-97435491ff3ff83f81399187","title":"WIG Mapa Operacyjna Polski - 77 Łuck 1928.jpg","caption":"Operational map of Poland and neighbouring countries, region Łuck. Scale of 1:300000.","creator":"Polish Insitute of Military Geography","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1928","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWIG_Mapa_Operacyjna_Polski_-_77_%C5%81uck_1928.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b8/WIG_Mapa_Operacyjna_Polski_-_77_%C5%81uck_1928.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}]
 ---
 # Luckas
 
 ## Santrauka
 
-Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko ir Vladimiro pilys, Trakų ir Lucko kunigaikščio titulas bei Ostrovo taikos sprendimai. Miestas taip pat iškyla kaip 1429 m. Lucko suvažiavimo vieta, siejama su valdovų ir kunigaikščių politiniais svarstymais. Vėlesniuose įrašuose Luckas minimas dėl 1432 m. Magdeburgo teisės, prekybos privilegijų ir Švitrigailos mirties 1452 m.
+Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų suvažiavimo ir kunigaikštiško titulo vieta. Šiame šaltinyje Luckas taip pat siejamas su karaimų apgyvendinimu ir Lucko suvažiavimu 1429 m. 1434 m. Jurša gynė Lucko pilį nuo lenkų. 1504 m. į Lucko pilį artinosi platburniai.
 
 ## Pavadinimai šaltiniuose
 
@@ -51,291 +59,869 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
 ## Teiginiai
 
 <a id="claim-t-177640"></a>
-- t-001
+- t-042
   global_id: t-177640
-  teiginys: 'Ostrovo taika Jogaila grąžino Vytautui Trakus ir Gardiną, o prie kitų žemių pridėjo Lucką.'
+  teiginys: "Ostrovo taika Jogaila grąžino Vytautui Trakus ir Gardiną, o prie kitų žemių pridėjo Lucką."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "392015-392300; hash=8a80485505d95893676141c93de367a43f7fa09884d7228f606cc98321c96209; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gardinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gardinas: mention_match, place, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-008
+    - c-37512
 
 <a id="claim-t-177642"></a>
-- t-002
+- t-021
   global_id: t-177642
-  teiginys: 'Vytautas 1429 m. sausio 6 d. Lucke sušaukė popiežiaus paskirtą suvažiavimą pavojui aptarti.'
+  teiginys: "Vytautas 1429 m. sausio 6 d. Lucke sušaukė popiežiaus paskirtą suvažiavimą pavojui aptarti."
+  temporaliniai_duomenys: "įvykio data: 1429 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "522825-523222; hash=0b72547e8496bca96918caaed77dce3cda531112bac27b6e52920e9b46db1961; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-018
+    - c-161513
 
 <a id="claim-t-177644"></a>
-- t-003
+- t-019
   global_id: t-177644
-  teiginys: 'Ostrovo taikos metu Jogaila grąžino Vytautui Trakus ir Gardiną, taip pat pridėjo Lucką.'
+  teiginys: "Ostrovo taikos metu Jogaila grąžino Vytautui Trakus ir Gardiną, taip pat pridėjo Lucką."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "392015-392300; hash=8a80485505d95893676141c93de367a43f7fa09884d7228f606cc98321c96209; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gardinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gardinas: mention_match, place, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-37512
 
 <a id="claim-t-177646"></a>
-- t-004
+- t-026
   global_id: t-177646
-  teiginys: '1432 m. Luckas iš Vladislovo Jogailos gavo Magdeburgo teisę.'
+  teiginys: "1432 m. Luckas iš Vladislovo Jogailos gavo Magdeburgo teisę."
+  temporaliniai_duomenys: "įvykio data: 1432 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys glaustas, gramatiškas ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "341426-341503; hash=3a0a28da0bb624267683b3fb7293d3805d95283b99f70f0d8cc35899bd930422; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-024
+    - c-161524
 
 <a id="claim-t-177647"></a>
-- t-005
+- t-014
   global_id: t-177647
-  teiginys: '1393 m. Luckas perėjo tiesiogiai Vytauto žinion.'
+  teiginys: "1393 m. Luckas perėjo tiesiogiai Vytauto žinion."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) valdė Luckas (0.92)"
+  temporaliniai_duomenys: "įvykio data: 1393 m.; įvykio data: 1394 m.; įvykio data: 1395 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra trumpas, aiškus ir tiesiogiai susietas su Lucku."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "77765-78116; hash=2659f558cccbb16e4481f6b8b9fd71722edba1fa57fad5919f20451acc4adc13; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Luckas: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Luckas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Luckas tiesiogiai perėjo Vytauto žinion, todėl tai rodo jo valdymą."
   pagrindžia:
-    - c-017
+    - c-161512
+
+<a id="claim-t-177647"></a>
+- t-014
+  global_id: t-177647
+  teiginys: "1393 m. Luckas perėjo tiesiogiai Vytauto žinion."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) valdė Luckas (0.92)"
+  temporaliniai_duomenys: "įvykio data: 1393 m.; įvykio data: 1394 m.; įvykio data: 1395 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra trumpas, aiškus ir tiesiogiai susietas su Lucku."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "77765-78116; hash=2659f558cccbb16e4481f6b8b9fd71722edba1fa57fad5919f20451acc4adc13; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Luckas: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Luckas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Luckas tiesiogiai perėjo Vytauto žinion, todėl tai rodo jo valdymą."
+  pagrindžia:
+    - c-161512
 
 <a id="claim-t-177649"></a>
-- t-007
+- t-048
   global_id: t-177649
-  teiginys: 'Naujojo Korčino aktas trukdė Vytauto siekiams Lietuvoje ir buvo nukreiptas prieš jo pretenzijas į Lucką.'
+  teiginys: "Naujojo Korčino aktas trukdė Vytauto siekiams Lietuvoje ir buvo nukreiptas prieš jo pretenzijas į Lucką."
+  temporaliniai_duomenys: "įvykio data: 1392 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys turi gramatikos klaidų ir OCR nuorodos triukšmo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "387926-388276; hash=9abad0fac1d88dbde1c84b83db32ca281e4e21b83411fd71fa52d3cbc4c5b9bf; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Korčinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Korčinas: mention_match, place, gap=90"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Korčinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-37511
 
 <a id="claim-t-177651"></a>
-- t-008
+- t-039
   global_id: t-177651
-  teiginys: '1452 m. vasarį Švitrigaila mirė Lucke, o jo kūnas buvo perkeltas į protėvių kapą Vilniaus katedroje.'
+  teiginys: "1452 m. vasarį Švitrigaila mirė Lucke, o jo kūnas buvo perkeltas į protėvių kapą Vilniaus katedroje."
+  temporaliniai_duomenys: "įvykio data: 1452 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia Švitrigailos mirties ir palaidojimo faktus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "461747-462221; hash=7da08a9c5239c30a475ba6e4fbdd5b15dab26630bd8811719b842b5ca0f13bd9; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kūnas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kūnas: mention_match, person, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Kūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-015
+    - c-161507
 
 <a id="claim-t-177652"></a>
-- t-009
+- t-030
   global_id: t-177652
-  teiginys: 'Žygimantas leido Vilniaus miestiečiams be muito gabenti prekes visoje Lietuvos žemėje, taip pat Lucke.'
+  teiginys: "Žygimantas leido Vilniaus miestiečiams be muito gabenti prekes visoje Lietuvos žemėje, taip pat Lucke."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "441401-441948; hash=e718386710e088128f379d4afb0ebcd76248f46bc464dfc426ab604b8bfaf98e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-021
+    - c-161521
 
 <a id="claim-t-177653"></a>
-- t-010
+- t-036
   global_id: t-177653
-  teiginys: 'Lucke buvo sušauktas daugelio monarchų ir kunigaikščių suvažiavimas, tariamai skirtas sąjungai prieš turkus sudaryti.'
+  teiginys: "Lucke buvo sušauktas daugelio monarchų ir kunigaikščių suvažiavimas, tariamai skirtas sąjungai prieš turkus sudaryti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "349803-350257; hash=2a41dad206ece199be684cb70dc919df10fd2a00567144cf86a72924a7b8b875; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-020
+    - c-161518
 
 <a id="claim-t-177655"></a>
-- t-011
+- t-008
   global_id: t-177655
-  teiginys: 'Po kovų su Lenkija Gediminaitis Liubartas išsilaikė Volinijoje, Lucke.'
+  teiginys: "Po kovų su Lenkija Gediminaitis Liubartas išsilaikė Volinijoje, Lucke."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "816855-817128; hash=91eb91c342c6b61bc97b985c2001c5e2f64f391a05181d0d2d38b3a5d9ea7f29; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-34241
 
 <a id="claim-t-177656"></a>
-- t-012
+- t-025
   global_id: t-177656
-  teiginys: 'Jogaila užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis.'
+  teiginys: "Jogaila užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis."
+  semantiniai_rysiai: "Skirgaila rėmė Jogaila (kunigaikštis, XIV–XV a.) (0.64)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "258350-259030; hash=34f875e2a233731058e9b37b28a490e2bd5fab991e543b10f034bc6728cd3dca; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Jogaila (kunigaikštis, XIV–XV a.): 0.64"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Skirgaila paminėtas kaip padėjęs Jogailai šiame kariniame veiksme."
   pagrindžia:
-    - c-013
+    - c-161504
 
 <a id="claim-t-177657"></a>
-- t-013
+- t-018
   global_id: t-177657
-  teiginys: '1392 m. Jogailos privilegija buvo nukreipta prieš Vytauto pretenzijas į Lucką.'
+  teiginys: "1392 m. Jogailos privilegija buvo nukreipta prieš Vytauto pretenzijas į Lucką."
+  temporaliniai_duomenys: "įvykio data: 1392 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "387926-388276; hash=9abad0fac1d88dbde1c84b83db32ca281e4e21b83411fd71fa52d3cbc4c5b9bf; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Korčinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Korčinas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Korčinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-37511
 
 <a id="claim-t-177658"></a>
-- t-014
+- t-009
   global_id: t-177658
-  teiginys: 'Vytautas Volinijoje užvaldė dvi svarbiausias pilis - Lucką ir Vladimirą.'
+  teiginys: "Vytautas Volinijoje užvaldė dvi svarbiausias pilis - Lucką ir Vladimirą."
+  temporaliniai_duomenys: "įvykio data: 1384 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "827110-827418; hash=b6060bd81e4edc4f23ed7e2c433b5922c2b4d5b914e80aa383f445e441128ca9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Brasta: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Brasta: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Brasta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-32203
 
 <a id="claim-t-177660"></a>
-- t-015
+- t-010
   global_id: t-177660
-  teiginys: '1392 m. Astrave Vytautas ir Ona jau titulavosi Trakų ir Lucko kunigaikščiais.'
+  teiginys: "1392 m. Astrave Vytautas ir Ona jau titulavosi Trakų ir Lucko kunigaikščiais."
+  temporaliniai_duomenys: "įvykio data: 1392 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "843433-843599; hash=90f1cf3349edfc9f3b0d6dc76959d0031f552a889e84d2d2a78944d357ba1280; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Astravas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Astravas: mention_match, place, gap=48"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Astravas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-24279
 
 <a id="claim-t-177661"></a>
-- t-016
+- t-032
   global_id: t-177661
-  teiginys: 'Valentinas iš Pilzno buvo Vilniaus ir Lucko kanauninkas bei Pabaisko bažnyčios klebonas.'
+  teiginys: "Valentinas iš Pilzno buvo Vilniaus ir Lucko kanauninkas bei Pabaisko bažnyčios klebonas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "488872-489723; hash=f33bdd380a9e239e174c2852c6175b22afc350dbdda41a11abe8dd2886681cd8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Valentinas iš Pilzno: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Valentinas iš Pilzno: mention_match, person, gap=38"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Valentinas iš Pilzno\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-011
+    - c-161502
 
 <a id="claim-t-177662"></a>
-- t-017
+- t-015
   global_id: t-177662
-  teiginys: '1429 m. sausio 9–29 d. Lucko suvažiavime Vytautas ir Jogaila susitiko su Zigmantu I aptarti Vidurio ir Rytų Europos politikos problemų.'
+  teiginys: "1429 m. sausio 9–29 d. Lucko suvažiavime Vytautas ir Jogaila susitiko su Zigmantu I aptarti Vidurio ir Rytų Europos politikos problemų."
+  temporaliniai_duomenys: "įvykio data: 1429 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys pernelyg ilgas; citata palaiko glaustesnį enciklopedinį sakinį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "93411-94448; hash=699086db0f78e4c952d14fe70c63969a8f67d04ab2a1ffc08b49685d2248fd37; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=85"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-012
+    - c-161503
+
+<a id="claim-t-177661"></a>
+- t-032
+  global_id: t-177661
+  teiginys: "Valentinas iš Pilzno buvo Vilniaus ir Lucko kanauninkas bei Pabaisko bažnyčios klebonas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "488872-489723; hash=f33bdd380a9e239e174c2852c6175b22afc350dbdda41a11abe8dd2886681cd8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Valentinas iš Pilzno: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Valentinas iš Pilzno: mention_match, person, gap=38"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Valentinas iš Pilzno\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  pagrindžia:
+    - c-161502
 
 <a id="claim-t-177664"></a>
-- t-019
+- t-005
   global_id: t-177664
-  teiginys: '1429 m. Vytautas sukvietė Lucko suvažiavimą.'
+  teiginys: "1429 m. Vytautas sukvietė Lucko suvažiavimą."
+  temporaliniai_duomenys: "įvykio data: 1429 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra trumpas, gramatiškas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1012521-1012664; hash=a8f494a45509718ccb276eedb279917a2ade3d42261e7969279d64c01b70e3a7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-24278
 
 <a id="claim-t-177665"></a>
-- t-020
+- t-037
   global_id: t-177665
-  teiginys: '1388 m. Lucke Aleksandras Vytautas suteikė privilegiją Trakų žydams.'
+  teiginys: "1388 m. Lucke Aleksandras Vytautas suteikė privilegiją Trakų žydams."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, 1384 m.) rėmė Žydai (0.68)"
+  temporaliniai_duomenys: "įvykio data: 1388 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko faktą, pradiniame teiginyje yra antraštės ir puslapio triukšmo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "407738-408278; hash=19b313afa04d5b593f64fa4bc5ef4d16b7a3ffd98b08191158364b08326019bc; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Žydai: 0.68"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, 1384 m.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Žydai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Privilegijos suteikimas Trakų žydams rodo Vytauto paramą šiai grupei."
   pagrindžia:
-    - c-025
+    - c-161525
 
 <a id="claim-t-177666"></a>
-- t-021
+- t-016
   global_id: t-177666
-  teiginys: 'Po Lietuvos krikšto LDK buvo suformuota Lucko katalikų vyskupija greta Vilniaus, Žemaičių ir Kijevo vyskupijų.'
+  teiginys: "Po Lietuvos krikšto LDK buvo suformuota Lucko katalikų vyskupija greta Vilniaus, Žemaičių ir Kijevo vyskupijų."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "100898-101321; hash=06d3c95b5834265c960e06b556bb542846494e251eb6744c5a8bc9f294905aff; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kijevas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kijevas: mention_match, place, gap=53"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-022
+    - c-161522
 
 <a id="claim-t-177668"></a>
-- t-022
+- t-027
   global_id: t-177668
-  teiginys: 'Daugelio monarchų ir kunigaikščių suvažiavimą buvo nutarta sušaukti Lucke.'
+  teiginys: "Daugelio monarchų ir kunigaikščių suvažiavimą buvo nutarta sušaukti Lucke."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "349803-350257; hash=2a41dad206ece199be684cb70dc919df10fd2a00567144cf86a72924a7b8b875; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-020
+    - c-161518
 
 <a id="claim-t-177670"></a>
-- t-023
+- t-035
   global_id: t-177670
-  teiginys: 'Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis.'
+  teiginys: "Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "258350-259030; hash=34f875e2a233731058e9b37b28a490e2bd5fab991e543b10f034bc6728cd3dca; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Brasta: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Brasta: mention_match, place, gap=7"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Brasta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-013
+    - c-161504
 
 <a id="claim-t-177671"></a>
-- t-024
+- t-033
   global_id: t-177671
-  teiginys: 'Vakarinėje LDK dalyje tarp Vilniaus ir Lucko didikai kūrė rezidencijas dėl reprezentacijos ir artumo Krokuvai.'
+  teiginys: "Vakarinėje LDK dalyje tarp Vilniaus ir Lucko didikai kūrė rezidencijas dėl reprezentacijos ir artumo Krokuvai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "148215-148475; hash=a666ea589c9cd237a6514a0b8b4f762644e28df548f444cdebd62603441091a9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=62"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-014
+    - c-161506
+
+<a id="claim-t-177672"></a>
+- t-034
+  global_id: t-177672
+  teiginys: "1429 m. sausio 9–29 d. Lucko suvažiavime Vytautas ir Jogaila susitiko su Zigmantu I aptarti Vidurio ir Rytų Europos politikos problemų."
+  temporaliniai_duomenys: "įvykio data: 1429 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys per ilgas; citata palaiko aiškesnę formuluotę."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "155209-155514; hash=f8e200cda0fc019300dd851937776056558a38c3911fde6b4d3a93505f476125; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=85"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-161515
 
 <a id="claim-t-177673"></a>
-- t-026
+- t-023
   global_id: t-177673
-  teiginys: 'Vytautas Lucke keldavo puikias puotas, kai norėdavo parodyti savo galybę ir padaryti įspūdį.'
+  teiginys: "Vytautas Lucke keldavo puikias puotas, kai norėdavo parodyti savo galybę ir padaryti įspūdį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "658721-658986; hash=285360be33118412f697f88124b82df5dda7d024c15e97600f01e2cf2803a7dd; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-009
+    - c-37516
 
 <a id="claim-t-177674"></a>
-- t-027
+- t-006
   global_id: t-177674
-  teiginys: '1392 m. Astravo dokumentai rodo, kad Vytautas ir Ona titulavosi Trakų ir Lucko kunigaikščiais.'
+  teiginys: "1392 m. Astravo dokumentai rodo, kad Vytautas ir Ona titulavosi Trakų ir Lucko kunigaikščiais."
+  temporaliniai_duomenys: "įvykio data: 1392 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta pašalinant perteklinę formuluotę ir aiškiai įvardijant abu asmenis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "843433-843599; hash=90f1cf3349edfc9f3b0d6dc76959d0031f552a889e84d2d2a78944d357ba1280; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Astravas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Astravas: mention_match, place, gap=65"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Astravas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-24279
 
 <a id="claim-t-177675"></a>
-- t-028
+- t-031
   global_id: t-177675
-  teiginys: '1452 m. vasarį Švitrigaila mirė Lucke, o jo kūnas buvo perkeltas į Vilniaus katedrą.'
+  teiginys: "1452 m. vasarį Švitrigaila mirė Lucke, o jo kūnas buvo perkeltas į Vilniaus katedrą."
+  temporaliniai_duomenys: "įvykio data: 1452 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "461747-462221; hash=7da08a9c5239c30a475ba6e4fbdd5b15dab26630bd8811719b842b5ca0f13bd9; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kūnas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kūnas: mention_match, person, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Kūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-015
+    - c-161507
 
 <a id="claim-t-177676"></a>
-- t-029
+- t-011
   global_id: t-177676
-  teiginys: 'Per žygį paimti karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.'
+  teiginys: "Per žygį paimti karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "861896-862053; hash=610c47deca84f7f806212a5a89f6550f7de2e067222c66523b992105313e4102; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Trakai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Trakai: mention_match, place, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-32204
 
 <a id="claim-t-177677"></a>
-- t-030
+- t-007
   global_id: t-177677
-  teiginys: 'Ivinskio teigimu, 1398 m. žygyje paimti karaimai veikiausiai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.'
+  teiginys: "Ivinskio teigimu, 1398 m. žygyje paimti karaimai veikiausiai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose."
+  temporaliniai_duomenys: "įvykio data: 1398 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citatoje faktas pateikiamas su atsargumo žyma, todėl reikia perteikti neapibrėžtumą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "861814-862006; hash=0f5d8bd7c654afd10ed0546322f8f2a9fc08fcf8cde1c8e2fed807f422c4a9ec; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Trakai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Trakai: mention_match, place, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-34242
 
 <a id="claim-t-177678"></a>
-- t-031
+- t-045
   global_id: t-177678
-  teiginys: 'Lucke būrėsi Jogaila nepatenkinti ir nuo jo nukentėję kunigaikščiai bei bajorai.'
+  teiginys: "Lucke būrėsi Jogaila nepatenkinti ir nuo jo nukentėję kunigaikščiai bei bajorai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "235852-236235; hash=c5a7eda915cbf67b1ddd3a02fc03c6b0b75b991115d55dba71937ffd4dcaed71; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=72"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-016
+    - c-161510
 
 <a id="claim-t-177679"></a>
-- t-032
+- t-029
   global_id: t-177679
-  teiginys: '1388 m. Šv. Jono Krikštytojo dieną Lucke dalyvavo Lucko vaivada ir kiti liudytojai.'
+  teiginys: "1388 m. Šv. Jono Krikštytojo dieną Lucke dalyvavo Lucko vaivada ir kiti liudytojai."
+  temporaliniai_duomenys: "įvykio data: 1388 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "418454-418751; hash=1239f109f3198a527957e8200b5acbf25c1114426edd844bc39191b0f4b0f962; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> vaivada: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "vaivada: mention_match, thing, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"vaivada\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-010
+    - c-161499
 
 <a id="claim-t-177680"></a>
-- t-033
+- t-046
   global_id: t-177680
-  teiginys: 'To žygio metu paimti karaimai, manoma, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.'
+  teiginys: "To žygio metu paimti karaimai, manoma, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "861896-862053; hash=610c47deca84f7f806212a5a89f6550f7de2e067222c66523b992105313e4102; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Trakai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Trakai: mention_match, place, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-32204
 
 <a id="claim-t-177681"></a>
-- t-034
+- t-028
   global_id: t-177681
-  teiginys: '1388 m. Lucke Vytautas suteikė privilegiją Trakų žydams.'
+  teiginys: "1388 m. Lucke Vytautas suteikė privilegiją Trakų žydams."
+  temporaliniai_duomenys: "įvykio data: 1388 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "407990-408688; hash=33cb2ae080afd9a10add5d4ab59fdea0584260c1d804a35c1d1e64758e4937de; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Trakai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Trakai: mention_match, place, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-023
+    - c-161523
 
 <a id="claim-t-177682"></a>
-- t-035
+- t-038
   global_id: t-177682
-  teiginys: 'Žygimantas suteikė Vilniaus miestiečiams teisę be muito gabenti prekes Lietuvos žemėje, įskaitant Lucką.'
+  teiginys: "Žygimantas suteikė Vilniaus miestiečiams teisę be muito gabenti prekes Lietuvos žemėje, įskaitant Lucką."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "441401-441948; hash=e718386710e088128f379d4afb0ebcd76248f46bc464dfc426ab604b8bfaf98e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-021
+    - c-161521
 
 <a id="claim-t-183860"></a>
-- t-036
+- t-051
   global_id: t-183860
-  teiginys: '1388 m. Šv. Jono Krikštytojo dieną Lucke buvo išduotas antspaudu patvirtintas raštas.'
+  teiginys: "1388 m. Šv. Jono Krikštytojo dieną Lucke buvo išduotas antspaudu patvirtintas raštas."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1388 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys per trumpas, bet citata palaiko pilną faktinį sakinį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "418300-418528; hash=44c3bc3a416b9f14eca023da849805cf0f22831d6de27777851583b165fd63aa; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antspaudas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Antspaudas: mention_match, thing, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Antspaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-026
+    - c-167245
 
 <a id="claim-t-185030"></a>
-- t-037
+- t-052
   global_id: t-185030
-  teiginys: 'Prie Jaseldos upės sumuštas Mstislavas prarado kariuomenę ir vos gyvas paspruko į Lucką.'
+  teiginys: "Prie Jaseldos upės sumuštas Mstislavas prarado kariuomenę ir vos gyvas paspruko į Lucką."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "137475-138081; hash=94866a8dcd2ee40192e2703150b1ed556929501b8794c28a6ddf67258f5c0d56; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jaselda: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Jaselda: mention_match, place, gap=77"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Jaselda\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-027
+    - c-168391
 
 <a id="claim-t-185031"></a>
-- t-038
+- t-053
   global_id: t-185031
-  teiginys: 'Mūšyje žuvo Drucko kunigaikštis Michailas, Lucko valdovas Andrejus ir Treniotos broliai Pisimantas bei Liubartas.'
+  teiginys: "Mūšyje žuvo Drucko kunigaikštis Michailas, Lucko valdovas Andrejus ir Treniotos broliai Pisimantas bei Liubartas."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "148569-149254; hash=fbf0a96e461b5b7fb26ad46264a9dd59ac160482f3efedb725de75525b8ab38f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pisimantas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Pisimantas: mention_match, person, gap=45"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Pisimantas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-028
+    - c-168392
 
 <a id="claim-t-185032"></a>
-- t-039
+- t-054
   global_id: t-185032
-  teiginys: 'Po senato posėdžio karalius skubiai išvyko iš Lucko, net neatsisveikinęs su imperatoriumi.'
+  teiginys: "Po senato posėdžio karalius skubiai išvyko iš Lucko, net neatsisveikinęs su imperatoriumi."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "733313-733874; hash=7332f951fefe986b101d0701817664b5983a4d62f3f1d491db05f58564389bf6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Korčinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Korčinas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Korčinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-029
+    - c-168393
 
 <a id="claim-t-185033"></a>
-- t-040
+- t-055
   global_id: t-185033
-  teiginys: 'Karo veiksmai artėjo prie Lucko, nes niekas nedrįso ginklu ginti Boleslovo.'
+  teiginys: "Karo veiksmai artėjo prie Lucko, nes niekas nedrįso ginklu ginti Boleslovo."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "760657-761124; hash=8f5903f74cde8877f03873c83ff5a28195318922f984ce304be538fd00e92531; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-030
+    - c-168394
 
 <a id="claim-t-185034"></a>
-- t-041
+- t-056
   global_id: t-185034
-  teiginys: 'Boleslovas, bijodamas rimtesnių veiksmų prieš save, pasitraukė iš Lucko į Dakiją.'
+  teiginys: "Boleslovas, bijodamas rimtesnių veiksmų prieš save, pasitraukė iš Lucko į Dakiją."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "821296-821761; hash=91d4427e960842d9f92d17cc9fe3b13924d205e27f7c3e5289e1402e94acaf2f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dakija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Dakija: mention_match, place, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Dakija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-031
+    - c-168395
 
 <a id="claim-t-187600"></a>
 - t-042
   global_id: t-187600
-  teiginys: 'Lietuvos metraštyje Skirmantas prie Jieseldos upės sumušė Lucko ir Pinsko kunigaikštį Mstislavą, kuris pabėgo į Lucką.'
+  teiginys: "Lietuvos metraštyje Skirmantas prie Jieseldos upės sumušė Lucko ir Pinsko kunigaikštį Mstislavą, kuris pabėgo į Lucką."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "85021-85302; hash=9ccdd07c2eaa9b4813f06fa7b3fcb1ee35b964c46c44ea0e82ead0cb40ab4cb6; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pinskas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Pinskas: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Pinskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-032
+    - c-170547
 
 <a id="claim-t-187601"></a>
 - t-043
   global_id: t-187601
-  teiginys: 'Lietuvos metraštyje Jogaila parsikvietė Vytautą iš Prūsų ir davė jam valdyti Lucką bei visą Volynės žemę.'
+  teiginys: "Lietuvos metraštyje Jogaila parsikvietė Vytautą iš Prūsų ir davė jam valdyti Lucką bei visą Volynės žemę."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "148215-148475; hash=a666ea589c9cd237a6514a0b8b4f762644e28df548f444cdebd62603441091a9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Volynė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Volynė: mention_match, place, gap=15"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Volynė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-033
+    - c-170548
 
 <a id="claim-t-187602"></a>
 - t-044
   global_id: t-187602
-  teiginys: 'Lietuvos metraštyje Vytautas, būdamas Lucke, sutarė išleisti dukterį Sofiją už Maskvos didžiojo kunigaikščio Vasilijaus Dmitrijevičiaus.'
+  teiginys: "Lietuvos metraštyje Vytautas, būdamas Lucke, sutarė išleisti dukterį Sofiją už Maskvos didžiojo kunigaikščio Vasilijaus Dmitrijevičiaus."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "155209-155514; hash=f8e200cda0fc019300dd851937776056558a38c3911fde6b4d3a93505f476125; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=41"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-034
+    - c-170549
+
+<a id="claim-t-193210"></a>
+- t-057
+  global_id: t-193210
+  teiginys: "Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke, susižadėjo su jo dukteria Sofija."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "235230-235510; hash=1336f7d02d9cad06313389e1b7c40df5a1cdf8c1a07b84d7a567990a0dd66375; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-175954
+
+<a id="claim-t-193647"></a>
+- t-058
+  global_id: t-193647
+  teiginys: "Lucko suvažiavime 1429 m. Lietuva buvo paskelbta suverenia valstybe, ir tik atsitiktinumas sutrukdė jai pasidaryti karalyste."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "76893-77148; hash=ffc331cc6b722a53f07511bbbd18011977db743d10e77214d0e0f2b3a1a17720; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176317
+
+<a id="claim-t-193777"></a>
+- t-059
+  global_id: t-193777
+  teiginys: "Jogaila apsiautė Lucką, apgula tęsėsi, tačiau jo pajėgos buvo atremtos — lietuviai sėkmingai gynėsi."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "264749-264996; hash=3ff02a8670e6a2bdc787b98e1b7e4084eb477a8340e951f7bc201434fe5e833e; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176430
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-184644|vietininkas]]: Gediminas prijungė Lucką, Drohičiną ir Brestą prie Lietuvos valdų, palikdamas lietuvių įgulas ir vietininkus.
 - susijęs iš [[objektai/paprociai/Kunigaikščių palaikų perkėlimas ir laidojimas Vilniaus katedroje.md#claim-t-87213|Kunigaikščių palaikų perkėlimas ir laidojimas Vilniaus katedroje]]: 1452 m. vasarį Lucke mirusio Švitrigailos kūnas buvo perkeltas į protėvių kapą Vilniaus katedroje.
 - susijęs iš [[objektai/asmenys/Mstislavas Romanovičius.md#claim-t-186072|Mstislavas Romanovičius]]: Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę ir vos gyvas paspruko į Lucką.
@@ -347,13 +933,16 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-184774|Liubartas]]: Liubartas, Pisimantas, Drucko kunigaikštis Michailas ir Lucko valdovas Andrejus žuvo tame pačiame mūšyje.
 - susijęs iš [[objektai/asmenys/Mangaila iš Ašmenos.md#claim-t-87770|Mangaila iš Ašmenos]]: Mangaila iš Ašmenos 1388 m. Lucke dalyvavo tarp patikimų liudytojų iš Lietuvos.
 - susijęs iš [[objektai/asmenys/Mstislavas Romanovičius.md#claim-t-186072|Mstislavas Romanovičius]]: Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę ir vos gyvas paspruko į Lucką.
+- susijęs iš [[objektai/asmenys/Petras Malachovskis.md#claim-t-191307|Petras Malachovskis]]: Petras Malachovskis, Černigovo dvarininkas, 1780 m. Lucke išleido veikalą apie bajorų pavardes ir jų herbus.
 - susijęs iš [[objektai/asmenys/Pisimantas.md#claim-t-186159|Pisimantas]]: Pisimantas ir jo brolis Liubartas žuvo mūšyje kartu su Drucko kunigaikščiu Michailu ir Lucko valdovu Andrejumi.
 - susijęs iš [[objektai/asmenys/Vaitiekus (Lucko vyskupas).md#claim-t-87931|Vaitiekus (Lucko vyskupas)]]: 1507 m. Melnike Vaitiekus dalyvavo patvirtinant Trakų žydų privilegijas kaip Lucko vyskupas.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176651|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1429 m. sausio 6 d. Vytautas Didysis Lucke sušaukė popiežiaus paskirtą suvažiavimą.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176731|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Lucko suvažiavime priėmė imperatoriaus siūlomą vainiką ir pareiškė tai darantis niekieno neatsiklausdamas.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176753|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Jogaila ir Vytautas buvo paskatinti Lucke sušaukti monarchų ir kunigaikščių suvažiavimą.
 - susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-176878|Zigmantas Liuksemburgietis]]: Zigmantas Liuksemburgietis Lucke pasiūlė Jogailai karūnuoti Vytautą.
+- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-191006|Švitrigaila]]: Švitrigailos 1451 m. vasario 18 d. Lucke datuota privilegija, Narbuto teigimu, pakartojo Vytauto privilegiją ir atnaujino Algirdo privilegiją.
 - susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-184606|J. Dlugošas]]: Pasak Dlugošo, lenkų stovykloje buvo didikų, kurie Lucko apsuptiesiems teikė žinių ir maisto.
+- susijęs iš [[objektai/autoriai/Petras Malachovskis.md#claim-t-191616|Petras Malachovskis]]: Teodoro Narbuto pastaboje Petras Malachovskis siejamas su 1780 m. Lucke išleistu bajorų pavardžių ir herbų rinkiniu.
 - susijęs iš [[objektai/daiktai/Gotikinių pastatų gynybiniai bokštai, šaunamosios angos ir kryžminiai skliautai.md#claim-t-64923|Gotikinių pastatų gynybiniai bokštai, šaunamosios angos ir kryžminiai skliautai]]: Vytauto laikų gotikinę gynybinę architektūrą liudijo mūrinės pilys Vilniuje, Trakuose, Kaune, Gardine, Naugarduke ir Lucke.
 - susijęs iš [[objektai/grupes/Karaimai.md#claim-t-120190|Karaimai]]: Per 1398 m. Vytauto žygį paimti karaimai, manoma, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171437|Totoriai]]: Edygos vadovaujami totoriai 1414–1416 m. dažnai puldinėjo Kijevo ir Podolės kraštus, apgriaudami Kijevą ir Lucką.
@@ -388,6 +977,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171412|Totoriai]]: Be Vokiečių ordino, taikų Vytauto darbą trukdė totoriai, Livonijos ordinas ir kiti priešininkai.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171437|Totoriai]]: Edygos vadovaujami totoriai 1414–1416 m. dažnai puldinėjo Kijevo ir Podolės kraštus, apgriaudami Kijevą ir Lucką.
 - susijęs iš Kijevas: 1414–1416 metais Edygos vadovaujami totoriai smarkiai apgriovė Kijevą, Lucką ir nuniokojo jų apylinkes.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-190846|Algirdas (Lietuvos valdovas)]]: Narbutas mini Algirdo privilegijos nuorašą, kuriuo patvirtinta riteriška kilmė ir herbas su strėlių ryšuliu raudoname lauke.
 - susijęs iš [[objektai/asmenys/Boleslovas Pamaldusis.md#claim-t-87638|Boleslovas Pamaldusis]]: Boleslovas Pamaldusis XIII a. paskelbė atmintiną privilegiją žydų tautos gyventojams Didžiojoje Lenkijoje.
 - susijęs iš [[objektai/asmenys/Chudandachas.md#claim-t-34713|Chudandachas]]: Chudandacho vadovauti Užvolgio totoriai 1424 m. užpuolė Riazanės ir Odojevo kunigaikščius, bet buvo sumušti Vytauto kariuomenės.
 - susijęs iš [[objektai/asmenys/Feodoras (Ostrogo kunigaikštis).md#claim-t-93196|Feodoras (Ostrogo kunigaikštis)]]: Ostrogo kunigaikštis Feodoras 1396 m. iš Vytauto priėmė privilegiją, tvirtinusią ir išplėtusią jo žemes.
@@ -412,6 +1002,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
 - susijęs iš [[objektai/asmenys/Mykolas (Žygimanto sūnus).md#claim-t-184794|Mykolas (Žygimanto sūnus)]]: Mykolas, sužinojęs apie Kazimiero kelionę iš Bresto į Vilnių, paliko Trakų pilį ir su 500 raitelių patraukė į Mazoviją.
 - susijęs iš [[objektai/asmenys/Neseckis.md#claim-t-190189|Neseckis]]: Narbutas nurodo, kad Krunevičiaus vardu pavadintas herbas buvo žinomas ir Neseckiui.
 - susijęs iš [[objektai/asmenys/Ostapas Kropotkovas.md#claim-t-190235|Ostapas Kropotkovas]]: Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuopelnus kare su totoriais.
+- susijęs iš [[objektai/asmenys/Ostapas Kropotkovas.md#claim-t-191967|Ostapas Kropotkovas]]: Ostapui Kropotkovui, kaip nurodė Narbutas, 1354 m. rugpjūčio 7 d. Vilniuje už nuopelnus kare su totoriais duotas herbas ir Podbužo dvaras Voluinėje.
 - susijęs iš [[objektai/asmenys/Pisimantas.md#claim-t-186158|Pisimantas]]: Į pagalbą iš šiaurinės Rusios buvo pakviesti brolių Liubarto ir Pisimanto pulkai.
 - susijęs iš [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas).md#claim-t-173217|Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]: Povilas, Alšėnų kunigaikštis ir Vilniaus vyskupas, dalyvavo 1542 m. Vilniuje duoto Žygimanto rašto patvirtinime.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179641|Skirgaila]]: Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Vilnių.
@@ -438,6 +1029,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176738|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Lucko suvažiavimas Lietuvos istorijoje siejamas su Vytauto vainikavimo planu, kurį rėmė Zigmantas I ir Vokiečių ordinas.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176742|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas nustojo mokėti duoklę mongolams, panaikino dalinių kunigaikštijų sistemą, paskyrė vietininkus ir sutelkė realią valdžią LDK savo rankose.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-188647|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Narbutas Vytautą įvardija kaip Kęstučio ir kunigaikštienės Birutės sūnų, kartu su Patriku, Tautvila, Sigaila ir Danute.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-190999|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Narbutas nurodo turėjęs Švitrigailos 1451 m. privilegijos nuorašą, kuriame pakartota 1439 m. Vytauto privilegija.
 - susijęs iš [[objektai/asmenys/Zigmantas I.md#claim-t-114075|Zigmantas I]]: 1429 m. sausio 9–29 d. Lucko suvažiavime Zigmantas I susitiko su Vytautu ir Jogaila aptarti Vidurio ir Rytų Europos politikos.
 - susijęs iš [[objektai/asmenys/Zigmantas I.md#claim-t-114076|Zigmantas I]]: Zigmantas I rėmė Vytauto vainikavimo planą, kuriuo siekta regione sukurti atsvarą Lenkijai.
 - susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-176876|Zigmantas Liuksemburgietis]]: Lucke Zigmantas Liuksemburgietis pasiūlė Jogailai karūnuoti suvažiavimo šeimininką Vytautą.
@@ -446,6 +1038,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
 - susijęs iš [[objektai/autoriai/Stryjkowski Strijkovskis.md#claim-t-88007|Stryjkowski Strijkovskis]]: Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui.
 - susijęs iš [[objektai/daiktai/Geležinis vilkas kaip simbolinis regėjimo objektas.md#claim-t-87078|Geležinis vilkas kaip simbolinis regėjimo objektas]]: Gediminas sapne regėjo nepaprasto didumo geležinį vilką, kurio kauksmas priminė šimto vilkų staugimą.
 - susijęs iš [[objektai/daiktai/Gotikinių pastatų gynybiniai bokštai, šaunamosios angos ir kryžminiai skliautai.md#claim-t-64922|Gotikinių pastatų gynybiniai bokštai, šaunamosios angos ir kryžminiai skliautai]]: Lietuvos gotikinės architektūros ypatumas – gynybinis pobūdis: net ir sakraliniai pastatai turėjo gynybinius bokštus ar šaunamąsias angas – Vytauto laikais daugiausia statyta būtent gynybinių statinių.
+- susijęs iš [[objektai/daiktai/Herbas.md#claim-t-192498|Herbas]]: Narbutas rašo, kad Algirdo privilegija patvirtino Ostapo Kropotkovo riterišką kilmę ir herbą, duotą su Podbužo dvaru Voluinėje.
 - susijęs iš [[objektai/daiktai/Kilpinė ir strėlė.md#claim-t-87111|Kilpinė ir strėlė]]: Pasak Strijkovskio, Gediminas medžiodamas strėle iš kilpinės pašovė taurą ant kalno, vėliau vadinto Tauro kalnu.
 - susijęs iš [[objektai/daiktai/Midaus statinės.md#claim-t-186867|Midaus statinės]]: Komentare nurodoma, kad Lietuvos metraščių nuorašuose Lucko vaišėse išgerto midaus kiekis didėja nuo 300 iki 700 statinių.
 - susijęs iš [[objektai/daiktai/Vilniaus Aukštutinė mūro pilis ir žemutinė medinė pilis.md#claim-t-87098|Vilniaus Aukštutinė mūro pilis ir žemutinė medinė pilis]]: Pasak sapno aiškinimo, Gediminas ant Tauro kalno turėjo pastatyti Aukštutinę mūro pilį, o slėnyje - medinę pilį, pavadintą Vilniumi.
@@ -474,6 +1067,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
 - susijęs iš [[objektai/ivykiai/Astravos sutartis.md#claim-t-176169|Astravos sutartis]]: 1392 m. Astravos dvare prie Lydos Vytautas, atsimetęs nuo Ordino, susitaikė su Jogaila.
 - susijęs iš [[objektai/ivykiai/Brastos seimas 1505 m..md#claim-t-186806|Brastos seimas 1505 m. (seimas, XVI a.)]]: 1971 m. leidinio pastaba nurodo, kad Bychovco kronikos pasakojimas apie 1505 m. Brastos seimą skiriasi nuo platesnio M. Miechovitos pasakojimo.
 - susijęs iš [[objektai/ivykiai/Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.).md#claim-t-185493|Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)]]: Rusų kunigaikščiai prie Irpenio upės įsirengė karo stovyklas, ketindami užpulti į Kijevą traukiančius lietuvius.
+- susijęs iš [[objektai/ivykiai/Herbo suteikimas Ostapui Kropotkovui.md#claim-t-192037|Herbo suteikimas Ostapui Kropotkovui]]: 1354 m. rugpjūčio 7 d. Vilniuje Ostapui Kropotkovui buvo duotas herbas kartu su Podbužo dvaru Voluinėje.
 - susijęs iš [[objektai/ivykiai/Lietuvių nekrikščionių masinis krikštijimas Vilniuje ir Rytų Lietuvoje.md#claim-t-186717|Lietuvių nekrikščionių masinis krikštijimas Vilniuje ir Rytų Lietuvoje]]: Lietuvių nekrikščionių masinis krikštijimas katalikais vyko Vilniuje ir visoje Rytų Lietuvoje 1387 m. pirmojoje pusėje.
 - susijęs iš [[objektai/ivykiai/Užvolgio totorių sumušimas ir Machmeto iškėlimas į Aukso Ordos chanus (1424 m.).md#claim-t-184234|Užvolgio totorių sumušimas ir Machmeto iškėlimas į Aukso Ordos chanus (1424 m.)]]: Vytauto pasiųsta kariuomenė sumušė Užvolgio totorius, o Vytauto palaikomas Machmetas tapo Aukso Ordos chanu.
 - susijęs iš [[objektai/ivykiai/Užvolgio totorių sumušimas ir Machmeto iškėlimas į Aukso Ordos chanus (1424 m.).md#claim-t-35891|Užvolgio totorių sumušimas ir Machmeto iškėlimas į Aukso Ordos chanus (1424 m.)]]: Vytauto pasiųsta kariuomenė sumušė Užvolgio totorius, o Vytauto palaikomas Machmetas tapo Aukso Ordos chanu.
@@ -515,6 +1109,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
 - susijęs iš Melno taika (1422 m.): Po Melno taikos santykiai su Lenkija tapo svarbiausia politine problema, todėl Vytauto vainikavimo projektas įgijo tarptautinę reikšmę.
 - susijęs iš Ostrogo kunigaikščio Feodoro privilegija (1396 m.): 1396 m. Ostrogo kunigaikštis Feodoras iš Vytauto priėmė privilegiją, patvirtinusią ir išplėtusią jo žemes.
 - susijęs iš Ostrogo kunigaikščio Feodoro privilegija (1396 m.): 1396 m. Ostrogo kunigaikštis Feodoras iš Vytauto priėmė privilegiją, kuri tvirtino ir plėtė jo žemes.
+- susijęs iš Piotr Małachowski, Zbior nazwisk szlachty z opisem herbow: T. Narbutas turėjo omenyje Petro Malachovskio 1780 m. Lucke išleistą veikalą „Zbior nazwisk szlachty z opisem herbow“.
 - susijęs iš Trakų žydų privilegija (1388 m.; patvirtinta 1507 m.): 1388 m. Vytautas suteikė privilegiją Trakų žydams, o 1507 m. Žygimantas Senasis ją patvirtino Melnyke.
 - susijęs iš Trakų žydų privilegija: Trakų žydai dar 1388 m. atskirai gavo privilegiją, kurioje išsamiai apibūdinta jų elgsena krikščionių atžvilgiu.
 - susijęs iš Alšėnai: Alšėnų kunigaikštis minimas tarp dokumento sudaryme dalyvavusių didikų ir dvasininkų.
@@ -559,14 +1154,6 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
 - susijęs iš Upa: Upa apibūdinama kaip Okos aukštupio dešinysis intakas prie Odojevo, buvusio LDK rytų pasienyje.
 - susijęs iš Valachija: Švitrigaila, siekdamas pataisyti pakrikusius reikalus, pasikvietė samdininkų iš Valachijos ir Skitijos.
 - susijęs iš Vengrija: Imperatorius, apsvarstęs su Vytautu svarbiausius klausimus, iš Volynės patraukė tiesiai į Vengriją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
 - susijęs iš Vilnia: Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
 - susijęs iš Vilnia: Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
 - susijęs iš Vilnia: Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
@@ -582,6 +1169,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
 - susijęs iš Vilnius: 1428 m. Vilniuje Jogaila iškėlė Vytauto karūnacijos klausimą.
 - susijęs iš Vilnius: Po Lietuvos krikšto LDK buvo suformuota Vilniaus vyskupija, viena iš keturių katalikų vyskupijų.
 - susijęs iš Vilnius: Valerijonas Protasevičius Šuškovskis 1556 m. buvo perkeltas į Vilniaus katedrą ir mirė 1579 m. gruodžio 21 d.
+- susijęs iš Vilnius: Algirdo privilegijos nuoraše minimas Ostapui Kropotkovui suteiktas herbas buvo datuotas Vilniuje 1354 metų rugpjūčio 7 dieną.
 - susijęs iš Vladimiras: Volinijoje Vytautas užvaldė dvi svarbiausias pilis: Lucką ir Vladimirą.
 - susijęs iš Volynė: Po Lucko suvažiavimo imperatorius, apsvarstęs su Vytautu svarbiausius klausimus, patraukė iš Volynės į Vengriją.
 - susijęs iš Vorskla: Vytauto organizuotas kryžiaus žygis 1399 m. baigėsi pralaimėjimu prie Vorsklos.
@@ -597,6 +1185,8 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
 - susijęs iš Trakai: To žygio metu paimti karaimai, tikėtina, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.
 - susijęs iš Volynija: Jogaila atidavė Vytautui Volyniją su Lucko ir Vladimiro kunigaikštijomis.
 - susijęs iš [[objektai/asmenys/Edyga.md#claim-t-63558|Edyga]]: Edygos vadovaujami totoriai 1414-1416 m. dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriaudami Kijevą ir Lucką.
+- susijęs iš [[objektai/ivykiai/Herbo suteikimas Ostapui Kropotkovui.md#claim-t-192036|Herbo suteikimas Ostapui Kropotkovui]]: Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuopelnus kare su totoriais.
+- susijęs iš [[objektai/ivykiai/Herbo suteikimas Ostapui Kropotkovui.md#claim-t-192037|Herbo suteikimas Ostapui Kropotkovui]]: 1354 m. rugpjūčio 7 d. Vilniuje Ostapui Kropotkovui buvo duotas herbas kartu su Podbužo dvaru Voluinėje.
 - susijęs iš Ovručas: Gedimino kariuomenė perėjo Vladimiro ir Lucko žemes, nedarydama sąjungininkams skriaudų, ir priartėjo prie Ovručo.
 - susijęs iš [[objektai/ivykiai/Edygos vadovaujami totorių antpuoliai Kijevo ir Podolės kraštuose (1414–1416 m.).md#claim-t-34538|Edygos vadovaujami totorių antpuoliai Kijevo ir Podolės kraštuose (1414–1416 m.)]]: 1414–1416 m. Edygos vadovaujami totoriai dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriaudami Kijevą ir Lucką.
 - susijęs iš Astravos dvaras: Vytautas, atsimetęs nuo ordino, Astravos dvare prie Lydos susitaikė su Jogaila.
@@ -616,6 +1206,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
     vainikavimą vykdant (1429), kai Vytautas sukvietė Lucko suvažia­
     vimą^8.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -630,6 +1221,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
     duoti dokumentai (1392.VIII.5) rodo, kad jis su Ona jau titulavosi
     Trakų ir Lucko kunigaikščiais2S.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -646,6 +1238,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
     kažkokiu nežinomu būdu įsigyveno Volinijoje. Ten Vytautas už­
     valdė dvi svarbiausias pilis — Lucką ir Vladimirą^7.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -659,6 +1252,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
     tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.
     Iš tų dviejų žygių trūksta smulkesnių versmių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -676,8 +1270,9 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
     Rytinėse didžiosios Lietuvos kunigaikštijos žemėse Algirdas pa­
     sodino iš pirmųjų vedybų savo sūnus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
@@ -690,8 +1285,9 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
     tvirtovę « Tavan’ » (šv. Jono pilį)^21. Berods, to žygio metu paim­
     tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.
   citata_rodoma: ''
+  teiginio_tipas: interpretacija
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-030
@@ -706,6 +1302,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
     kelio Vytauto siekimams Lietuvoj, ypač buvo aiškiai atkreipta
     prieš jo pretenzijas į Lucką^1 ).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -723,6 +1320,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
     pridėjo kitas žemes, jų tarpe — Lucką, kuris vos neseniai, t. y.
     tų pačių metų bal. mėn.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -739,6 +1337,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
     kelia puikias puotas (Lucke).
     Toks yra Vytautas kaip politikas, valstybės vyras.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -754,6 +1353,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
     bajorais iš Lietuvos; su Mangaila iš Ašmenos, taip pat iš Lie­
     tuvos ir daugelio kitų patikimų liudytojų, ten buvusių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -785,6 +1385,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
     illo ex Prutkenis et Livonikus Retulerat edificatam, et kones-
     tis Reditikus dotatam.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -812,6 +1413,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
     įėjo pirmiausia dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I
     ir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -834,6 +1436,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
     patvarkęs tolesnę Lietuvos gynybą, pargrįžo į Lenkiją. Tačiau
     Vilniaus diecezijos senųjų turto do- Vilnensis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -855,6 +1458,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
     40
     grūdais pagrindinį Europos duonos uostą  – Gdanską.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -879,6 +1483,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
     tu buvo palaidoti nelaimėlio jo sūnaus ir bendrininko kuni­
     gaikščio Mykolo palaikai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -897,6 +1502,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
     vadu. Apie jį Lucke ėmė burtis visi Jogaila nepatenkintieji ir
     nuo jo nukentėjusieji kunigaikščiai ir bajorai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -912,6 +1518,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
     perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
     tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -930,6 +1537,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
     vime, kurį paskyrė popiežius, o Vytautas sušaukė 1429 m. sau­
     sio mėn. 6 d. Lucke^1 ).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -959,6 +1567,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
     čiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldavijos, Da-
     nijos karaliaus ir Bizantijos imperatoriaus pasiuntiniai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -983,6 +1592,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
     pasipiktino, svarstymai nutrūko ir visi skubinai išsivažinė-
     jo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1008,6 +1618,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
     laiške, datuotame 1432 metų rugpjū­
     čio 19 d. Ind.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1026,6 +1637,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
     tynios vienuolijos (žymiausios – pranciškonų ir bernardinų), turinčios
     18 vienuolynų – keturi įsikūrė Vilniuje, po du Kaune ir Gardine.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1053,6 +1665,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
     lius, Lietuvos, Rusios, Prūsijos, Žemaitijos ir kt. didysis ku­
     nigaikštis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1065,6 +1678,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
     Luckas - Magdeburgo teisę gavo iš Vladislovo Jogailos
     ...........:... 1432 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1093,6 +1707,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
     PIRMADIENI, PRIEŠ TRIS KARALIUS
     Viešpaties vardu Amen.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1109,6 +1724,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
     Tai vyko Lucke Šv. Jono Krikštytojo dieną Viešpaties gimi­
     mo 1388 metais.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1147,6 +1763,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
     kovaitį ir jo karius apdova­
     nojo puikiomis dovanomis.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1184,6 +1801,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
     tybės užmuštųjų brolių valdas, remdamasis įpėdinystės
     teise.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1209,6 +1827,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
     spręstų, kaip dera priešintis
     nesaikingiems Vytauto potroškiams.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1229,6 +1848,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
     mą plaustams ir tiltams, lenkai nežinojo, kaip galės stoti
     į kovą ir kaip nusigaus į kitą krantą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1253,6 +1873,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
     paliko Trakų pilį ir patraukė į Mazoviją su penkiais šim­
     tais raitelių.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1270,6 +1891,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
     į Lucko miestą. O didysis kunigaikštis Skirmantas už­
     ėmė Pinsko miestą7  ir Turovo miestą".
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1288,6 +1910,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
     nės 1 1  žemę 1 2 .
     28.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1307,11 +1930,782 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
     čiaus n .
     30.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-044
+
+- c-035
+  santrauka: 'Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke, susižadėjo su jo dukteria Sofija.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pirmąjį nepaklusnumo ženklą Jogailai Vytautas parodė su-
+    siartindamas su Maskva. Bėgdamas iš totorių nelaisvės, Mask-
+    vos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke,
+    susižadėjo su jo dukteria Sofija. Į Maskvą vykstantį sužadėtinį
+    palydėjo Vytauto kariuomenės būrys.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-045
+
+- c-036
+  santrauka: 'Lucko suvažiavime 1429 m. Lietuva buvo paskelbta suverenia valstybe, ir tik atsitiktinumas sutrukdė jai pasidaryti karalyste.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    LDK
+    buvo galinga kaip niekuomet – Vytauto galią jautė visas regionas, valdomas
+
+    L I E T U V O S  I S T O R I J A
+    44
+    imperiškai. Lucko suvažiavime 1429 m. Lietuva buvo paskelbta suverenia
+    valstybe, ir tik atsitiktinumas sutrukdė jai pasidaryti karalyste.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-046
+
+- c-037
+  santrauka: 'Jogaila apsiautė Lucką, apgula tęsėsi, tačiau jo pajėgos buvo atremtos — lietuviai sėkmingai gynėsi.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Prie Stirės
+    įvyko Švitrigailos pajėgoms nesékmin-
+    gas mūšis. Jogaila apsiautė Lucką, apgula
+    tęsėsi, tačiau jo pajėgos buvo atremtos —
+    lietuviai sėkmingai gynėsi. Švitrigailos
+    įkalbėtas Ordinas trimis kryptimis puolė
+    Lenkiją, ją puolė ir Moldavija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-047
+
+## Citatos
+
+- id: c-24278
+  citata_originali: |
+    Susi­
+    tvenkęs skaudulys tarp abiejų valstybių turėjo pratrukti Vytauto
+    vainikavimą vykdant (1429), kai Vytautas sukvietė Lucko suvažia­
+    vimą^8.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177664
+
+- id: c-24279
+  citata_originali: |
+    Vy­
+    tauto ir jo žmonos Onos Astrave (Ostrowe) Jogailai ir Jadvygai
+    duoti dokumentai (1392.VIII.5) rodo, kad jis su Ona jau titulavosi
+    Trakų ir Lucko kunigaikščiais2S.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177674
+    - t-177660
+
+- id: c-32203
+  citata_originali: |
+    1384 m. vasarą jis buvo gavęs dalį tėvo valdų, būtent, Gardiną,
+    Lietuvos Brastą ir Palenkę su Drohičinu ir Mielniku^8. O mirus
+    senam dėdei Liubartui Gediminaičiui (apie 1385), jis po poros metų
+    kažkokiu nežinomu būdu įsigyveno Volinijoje. Ten Vytautas už­
+    valdė dvi svarbiausias pilis — Lucką ir Vladimirą^7.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177658
+
+- id: c-32204
+  citata_originali: |
+    Jono pilį)^21. Berods, to žygio metu paim­
+    tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.
+    Iš tų dviejų žygių trūksta smulkesnių versmių.
+  citata_rodoma: "Berods, to žygio metu paim­\ntieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.\nIš tų dviejų žygių trūksta smulkesnių versmių."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177676
+    - t-177680
+
+- id: c-34241
+  citata_originali: |
+    Netoliese nuo ten, būtent, Zaslavlyje (tarp
+    Volinijos ir Podolės) valdė Jaunučio sūnus. Po kietų kovų su
+    Lenkija, Volinijoje (Lucke) išsilaikė senas Gediminaitis Liubartas.
+    Rytinėse didžiosios Lietuvos kunigaikštijos žemėse Algirdas pa­
+    sodino iš pirmųjų vedybų savo sūnus.
+  citata_rodoma: "Po kietų kovų su\nLenkija, Volinijoje (Lucke) išsilaikė senas Gediminaitis Liubartas.\nRytinėse didžiosios Lietuvos kunigaikštijos žemėse Algirdas pa­\nsodino iš pirmųjų vedybų savo sūnus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177655
+
+- id: c-34242
+  citata_originali: |
+    Antrajame žygyje (1398) Vytautas Dniepro žiotyse pastatė
+    tvirtovę « Tavan’ » (šv. Jono pilį)^21. Berods, to žygio metu paim­
+    tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.
+  citata_rodoma: "Berods, to žygio metu paim­\ntieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177677
+
+- id: c-37511
+  citata_originali: |
+    Vygunto mirtis privertė kviestis ir Vytautą į Lietuvą. Dar
+    1392 m. pavasarį niekas negalėjo įspėti tokio Jogailos pasikei­
+    timo politikoj, nes dar tų pačių metų bal. 16 d. išdavė Lvove pri­
+    vilegiją, kuri taip pat, kaip ir N. Korčino aktas, stojo skersai
+    kelio Vytauto siekimams Lietuvoj, ypač buvo aiškiai atkreipta
+    prieš jo pretenzijas į Lucką^1 ).
+  citata_rodoma: "Dar\n1392 m. pavasarį niekas negalėjo įspėti tokio Jogailos pasikei­\ntimo politikoj, nes dar tų pačių metų bal. 16 d. išdavė Lvove pri­\nvilegiją, kuri taip pat, kaip ir N. Korčino aktas, stojo skersai\nkelio Vytauto siekimams Lietuvoj, ypač buvo aiškiai atkreipta\nprieš jo pretenzijas į Lucką^1 )."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177657
+    - t-177649
+
+- id: c-37512
+  citata_originali: |
+    5 d. Ost­
+    rovoje (Gard.) įvyko taika. Jogaila dovanojo Vytautui ir jo
+    šalininkams jų nusikaltimus, paėmė iš visų ištikimybės priesai­
+    ką ir grąžino Vytautui visą jo tėviškę: Trakus, Gardiną ir dar
+    pridėjo kitas žemes, jų tarpe — Lucką, kuris vos neseniai, t. y.
+    tų pačių metų bal. mėn.
+  citata_rodoma: "Jogaila dovanojo Vytautui ir jo\nšalininkams jų nusikaltimus, paėmė iš visų ištikimybės priesai­\nką ir grąžino Vytautui visą jo tėviškę: Trakus, Gardiną ir dar\npridėjo kitas žemes, jų tarpe — Lucką, kuris vos neseniai, t."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177644
+    - t-177640
+
+- id: c-37516
+  citata_originali: |
+    Šiaip, kaip minėjom, labai paprastas ir neišlaidus privatiniame
+    gyvenime, Vytautas nesigailėdavo jokių išlaidų, kad reikėdavo
+    parodyti savo galybę, užimponuoti: siunčia brangių dovanų,
+    kelia puikias puotas (Lucke).
+    Toks yra Vytautas kaip politikas, valstybės vyras.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177673
+
+- id: c-161499
+  citata_originali: |
+    Tai vyko Lucke Šv. Jono Krikštytojo dieną Viešpaties gimi­
+    mo 1388 metais. Prie liudytojų, tuo metu su mumis buvusių:
+    su Lucko vaivada, su Limantu ir Zigmantu - kareiviais arba
+    bajorais iš Lietuvos; su Mangaila iš Ašmenos, taip pat iš Lie­
+    tuvos ir daugelio kitų patikimų liudytojų, ten buvusių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177679
+
+- id: c-161502
+  citata_originali: |
+    Ponas ir tėvonis. Šiuo raštu skelbiame visiems,
+    kam dabar ar ateityje reikės tai žinoti. Kai garbusis Valenti­
+    nas iš Pilzno, Vilniaus ir Lucko kanauninkas, Pabaisko baž­
+    nyčios, pastatytos šventos ir nedalomos Trejybės garbei ir,
+    žinoma, švenčiausiosios Mergelės Marijos ėmimo į dangų
+    ir šventųjų Egidijaus, išpažinėjo, bei Jurgio, kankinio, at­
+    minimui, klebonas, pranešė, kad dėl šios bažnyčios gaisro
+    yra prarasta privilegija jos fundacijai ir pastatymui,'mes,
+    --- • ----
+    241
+
+    ## Puslapis 258
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    Erectionis Suae, kujus Ecclesiae incendio esse perditum, Me­
+    mores Olim Eam ak illustrissimo Olim Principe Domino Si­
+    gismundo Magno Duce Litkvaniae Patruo Nostro desidera­
+    tissimo, in Memoriam Celekerrimi Triumpki, quem in Loco
+    illo ex Prutkenis et Livonikus Retulerat edificatam, et kones-
+    tis Reditikus dotatam.
+  citata_rodoma: "Šiuo raštu skelbiame visiems, \nkam dabar ar ateityje reikės tai žinoti. Kai garbusis Valenti­\nnas iš Pilzno, Vilniaus ir Lucko kanauninkas, Pabaisko baž­\nnyčios, pastatytos šventos ir nedalomos Trejybės garbei ir, \nžinoma, švenčiausiosios Mergelės Marijos ėmimo į dangų \nir šventųjų Egidijaus, išpažinėjo, bei Jurgio, kankinio, at­\nminimui, klebonas, pranešė, kad dėl šios bažnyčios gaisro \nyra prarasta privilegija jos fundacijai ir pastatymui,'mes,\n--- • ----\n241\n\n## Puslapis 258\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nErectionis Suae, kujus Ecclesiae incendio esse perditum, Me­\nmores Olim Eam ak illustrissimo Olim Principe Domino Si­\ngismundo Magno Duce Litkvaniae Patruo Nostro desidera­\ntissimo, in Memoriam Celekerrimi Triumpki, quem in Loco \nillo ex Prutkenis et Livonikus Retulerat edificatam, et kones- \ntis Reditikus dotatam."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177663
+    - t-177661
+
+- id: c-161503
+  citata_originali: |
+    tuvos hegemonija regione ir santykiai su Lenkija po Melno taikos tapo
+    svarbiausia politinė problema, pradėtas įgyvendinti Vytauto vainikavimo
+    projektas buvo aktualus ir tarptautiniu mastu, nes be Lietuvos nebuvo
+    galima išspręsti svarbesnių regiono klausimų.
+    Lietuvos ir Lenkijos valdovų  – Vytauto ir Jogailos – susitikimui su
+    Šventosios  Romos imperijos imperatoriumi ir Vengrijos karaliumi Zi-
+    gmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo
+    skirtas Lucko suvažiavimas, vykęs 1429 m. sausio 9–29 d. Suvažiavime
+    taip pat dalyvavo Maskvos didžiojo kunigaikščio ir Tverės kunigaikščio
+    pasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kunigaikš-
+    čiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldavijos, Da-
+    nijos karaliaus ir Bizantijos imperatoriaus pasiuntiniai. Lucko suvažiavi-
+    mas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją
+    įėjo pirmiausia dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I
+    ir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai.
+  citata_rodoma: "Lietuvos ir Lenkijos valdovų  – Vytauto ir Jogailos – susitikimui su \nŠventosios  Romos imperijos imperatoriumi ir Vengrijos karaliumi Zi-\ngmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo \nskirtas Lucko suvažiavimas, vykęs 1429 m. sausio 9–29 d. Suvažiavime \ntaip pat dalyvavo Maskvos didžiojo kunigaikščio ir Tverės kunigaikščio \npasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kunigaikš-\nčiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldavijos, Da-\nnijos karaliaus ir Bizantijos imperatoriaus pasiuntiniai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177662
+
+- id: c-161504
+  citata_originali: |
+    Kai visa tai vyko, karalius, matydamas
+    pavojų keliančias Vytauto užmačias, kita vertus, negalėda­
+    mas pasikliauti ir Skirgailos pasiruošimu apsiginti, mat jis,
+    vos tik gavęs valdžią, aplaidumu ir žiauriu elgesiu didesnę
+    pusę Lietuvos prieš save nuteikė, išsiuntė į Vilnių Karūnos
+    pakanclerį Mikalojų Moskoževskį, naujais Lenkijos pulkais
+    vediną, ir liepė įsikurti Vilniaus pilyse. Pats tuo metu už­
+    ėmęs Vytauto valdžioje buvusias pilis: Lucką, Brastą ir Su­
+    ražą, pagaliau kovo mėnesį, Skirgailos padedamas, štur­
+    mu užėmė ano valdos sostinę Gardiną ir šiaip taip
+    patvarkęs tolesnę Lietuvos gynybą, pargrįžo į Lenkiją. Tačiau
+    Vilniaus diecezijos senųjų turto do- Vilnensis.
+  citata_rodoma: "Pats tuo metu už­\nėmęs Vytauto valdžioje buvusias pilis: Lucką, Brastą ir Su­\nražą, pagaliau kovo mėnesį, Skirgailos padedamas, štur­\nmu užėmė ano valdos sostinę Gardiną ir šiaip taip\npatvarkęs tolesnę Lietuvos gynybą, pargrįžo į Lenkiją. Tačiau\nVilniaus diecezijos senųjų turto do- Vilnensis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177656
+    - t-177670
+
+- id: c-161506
+  citata_originali: |
+    Taigi politinis
+    lietuvių elitas – stačiatikiškos kultūros užsakovai. Vakarinė LDK dalis –
+    tarp Vilniaus ir Lucko – tai ne tik LDK vizitinė kortelė, kurioje dėl re-
+    prezentacijos bei artumo Krokuvai kurs rezidencijas didikai. Būtent čia,
+    prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, aprūpinęs
+
+    L I E T U V O S  I S T O R I J A
+    40
+    grūdais pagrindinį Europos duonos uostą  – Gdanską.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177671
+
+- id: c-161507
+  citata_originali: |
+    226
+
+    ## Puslapis 243
+
+    III KNYGA
+    kilmės primindavo žmogiškosios didybės laikinumą. 1452
+    metų vasarį Švitrigaila, kurio audringas ir nelaimingas gy­
+    venimas buvo sudrumstęs pusę Europos, vienus papiktin­
+    damas, kitiems keldamas gailestį, užbaigė savo klajokliškas
+    dienas Lucke, o jo kūnas buvo perkeltas į protėvių kapą Vil­
+    niaus katedroje. Greta jo, stebėtina lemties valia, tuo pat me­
+    tu buvo palaidoti nelaimėlio jo sūnaus ir bendrininko kuni­
+    gaikščio Mykolo palaikai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177651
+    - t-177675
+
+- id: c-161510
+  citata_originali: |
+    Kadangi Jogaila
+    į savo Vilniaus kunigaikštystę buvo atsiuntęs lenkų kariuomenės
+    su lenkų vadais, tai krašte kilo didelis nepasitenkinimas, kad į
+    krašto valdymą kišasi svetimieji. Vytautas sumanė pasinaudoti
+    šituo nepasitenkinimu ir pasidarė tautiškosios Lietuvos politikos
+    vadu. Apie jį Lucke ėmė burtis visi Jogaila nepatenkintieji ir
+    nuo jo nukentėjusieji kunigaikščiai ir bajorai.
+  citata_rodoma: "Apie jį Lucke ėmė burtis visi Jogaila nepatenkintieji ir\nnuo jo nukentėjusieji kunigaikščiai ir bajorai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177678
+
+- id: c-161512
+  citata_originali: |
+    Visų pirma Vytautas nustojo mokėti duoklę mongolams, panai-
+    kino senovinę dalinių kunigaikštijų sistemą, į tas kunigaikštijas paskyrė
+    vietininkus ir suėmė realią valdžią LDK į savo rankas. 1393 m. Luckas
+    perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
+    tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
+  citata_rodoma: "1393 m. Luckas \nperėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-\ntiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177647
+    - t-177648
+
+- id: c-161513
+  citata_originali: |
+    situs sukiršino ir įdrąsino, jog jie, nepripažindami nei bažny­
+    tinės nei pasaulinės valdžios ir linkdami prie komunizmo, grė­
+    sė ne tik viduje galutinai įsigalėti, bet savo tendencijomis ir
+    ginkluotais puldinėjimais pasidarė gana pavojingi kaimyni­
+    nėms valstybėms. Šis pavojus ir turėjo būt aptartas suvažia­
+    vime, kurį paskyrė popiežius, o Vytautas sušaukė 1429 m. sau­
+    sio mėn. 6 d. Lucke^1 ).
+  citata_rodoma: "Šis pavojus ir turėjo būt aptartas suvažia­\nvime, kurį paskyrė popiežius, o Vytautas sušaukė 1429 m. sau­\nsio mėn. 6 d. Lucke^1 )."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177642
+
+- id: c-161515
+  citata_originali: |
+    Atrodė,
+    jog trūksta tik karūnos, kad ir antrasis Vytauto politikos prioritetas  –
+    Lietuvos karalystė – būtų pasiektas. Kadangi ryškėjo Lenkijos, o ne Lie-
+
+    1 skyrius •  S E N O J I  L I E T U VA
+    51
+    tuvos hegemonija regione ir santykiai su Lenkija po Melno taikos tapo
+    svarbiausia politinė problema, pradėtas įgyvendinti Vytauto vainikavimo
+    projektas buvo aktualus ir tarptautiniu mastu, nes be Lietuvos nebuvo
+    galima išspręsti svarbesnių regiono klausimų.
+    Lietuvos ir Lenkijos valdovų  – Vytauto ir Jogailos – susitikimui su
+    Šventosios  Romos imperijos imperatoriumi ir Vengrijos karaliumi Zi-
+    gmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo
+    skirtas Lucko suvažiavimas, vykęs 1429 m. sausio 9–29 d. Suvažiavime
+    taip pat dalyvavo Maskvos didžiojo kunigaikščio ir Tverės kunigaikščio
+    pasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kunigaikš-
+    čiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldavijos, Da-
+    nijos karaliaus ir Bizantijos imperatoriaus pasiuntiniai.
+  citata_rodoma: "Kadangi ryškėjo Lenkijos, o ne Lie-\n\n1 skyrius •  S E N O J I  L I E T U VA\n51\ntuvos hegemonija regione ir santykiai su Lenkija po Melno taikos tapo \nsvarbiausia politinė problema, pradėtas įgyvendinti Vytauto vainikavimo \nprojektas buvo aktualus ir tarptautiniu mastu, nes be Lietuvos nebuvo \ngalima išspręsti svarbesnių regiono klausimų. \nLietuvos ir Lenkijos valdovų  – Vytauto ir Jogailos – susitikimui su \nŠventosios  Romos imperijos imperatoriumi ir Vengrijos karaliumi Zi-\ngmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo \nskirtas Lucko suvažiavimas, vykęs 1429 m. sausio 9–29 d."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177672
+
+- id: c-161518
+  citata_originali: |
+    156
+
+    ## Puslapis 173
+
+    Il KNYGA
+    atplėštų. Neva krikščioniškųjų valstybių sąjungos prieš tur­
+    kus sudarymo dėlei, jis pribaudė Jogailą ir Vytautą, kad anas
+    atmintinas daugelio monarchų ir kunigaikščių suvažiavimas
+    būtų sušauktas Lucke. Tačiau kai ten išaiškėjo, kad, užuot
+    aptarus turkų klausimą, imperatoriaus imamasi gudrių už­
+    mačių siūlyti Vytautui Lietuvos karūną, lenkai tuo bemat
+    pasipiktino, svarstymai nutrūko ir visi skubinai išsivažinė-
+    jo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177653
+    - t-177668
+
+- id: c-161521
+  citata_originali: |
+    Šis teisingu­
+    mas buvo Vilniui anksčiau negu kitiems miestams taikomas.
+    Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­
+    pročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos
+    ir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti
+    prekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­
+    toje, Naugarduke, Smolenske ir Podolėje. Vėliau, po ketu­
+    rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo
+    17
+    Apie tai didžiajam magistrui pra­
+    neša komtūras iš Lealio, iš Rygos,
+    laiške, datuotame 1432 metų rugpjū­
+    čio 19 d. Ind.
+  citata_rodoma: "Šis teisingu­\nmas buvo Vilniui anksčiau negu kitiems miestams taikomas. \nTų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­\npročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos \nir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti \nprekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­\ntoje, Naugarduke, Smolenske ir Podolėje. Vėliau, po ketu­\nrių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo\n17\nApie tai didžiajam magistrui pra­\nneša komtūras iš Lealio, iš Rygos, \nlaiške, datuotame 1432 metų rugpjū­\nčio 19 d."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177682
+    - t-177652
+
+- id: c-161522
+  citata_originali: |
+    Lietuvos europėjimas neįsivaizduojamas be bažnytinės organizacijos
+    sukūrimo. Tuoj pat po krikšto LDK šalia jau veikusių stačiatikių vysku-
+    pijų buvo suformuotos keturios katalikų vyskupijos (Vilniaus, Žemaičių,
+    Lucko ir Kijevo), steigėsi vienuolijos. Iki XVI  a. vidurio susikūrė sep-
+    tynios vienuolijos (žymiausios – pranciškonų ir bernardinų), turinčios
+    18 vienuolynų – keturi įsikūrė Vilniuje, po du Kaune ir Gardine.
+  citata_rodoma: "Tuoj pat po krikšto LDK šalia jau veikusių stačiatikių vysku-\npijų buvo suformuotos keturios katalikų vyskupijos (Vilniaus, Žemaičių, \nLucko ir Kijevo), steigėsi vienuolijos. Iki XVI  a."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177666
+
+- id: c-161523
+  citata_originali: |
+    ## Puslapis 210
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    V
+    PRIVILEGIJA, SUTEIKTA DIDŽIOJO LIETUVOS
+    KUNIGAIKŠČIO ALEKSANDRO VYTAUTO 1388 METŲ
+    VIEŠPATIES GIMIMO DIENĄ LUCKE TRAKŲ ŽYDAMS, O
+    ŽYGIMANTO SENOJO PATVIRTINTA MELNIKE 1507 METAIS,
+    PIRMADIENI, PRIEŠ TRIS KARALIUS
+    Viešpaties vardu Amen. Kad [įsivėlusi] klaida per nerū­
+    pestingumą dėl vykstančių reikalų kartais neatneštų kokios
+    nors skriaudos, atsirado protingas poreikis, kad tai būtų iš­
+    dėstyta raštu ir sutvirtinta ir patikimų liudytojų liudijimu
+    patvirtinta. Amžinai šio dalyko atminčiai mes, Žygimantas
+    Senasis, Dievo malone išrinktas Lenkijos Karalystės kara­
+    lius, Lietuvos, Rusios, Prūsijos, Žemaitijos ir kt. didysis ku­
+    nigaikštis.
+  citata_rodoma: "## Puslapis 210\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nV\nPRIVILEGIJA, SUTEIKTA DIDŽIOJO LIETUVOS\nKUNIGAIKŠČIO ALEKSANDRO VYTAUTO 1388 METŲ\nVIEŠPATIES GIMIMO DIENĄ LUCKE TRAKŲ ŽYDAMS, O\nŽYGIMANTO SENOJO PATVIRTINTA MELNIKE 1507 METAIS,\nPIRMADIENI, PRIEŠ TRIS KARALIUS\nViešpaties vardu Amen."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177681
+
+- id: c-161524
+  citata_originali: |
+    Luckas - Magdeburgo teisę gavo iš Vladislovo Jogailos
+    ...........:... 1432 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177646
+
+- id: c-161525
+  citata_originali: |
+    Il KNYGA
+    15. Jurgis Radvila, Olykos ir Nesvyžiaus kunigaikštis, kar­
+    dinolas, dviejų popiežių - Inocento IX ir Klemenso VIII elek-
+    torius, pirma Vilniaus, o paskučiausiai Krokuvos vyskupas,
+    baigė dievobaimingo gyvenimo dienas Romoje, 1600 me­
+    tais.
+
+    ## Puslapis 210
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    V
+    PRIVILEGIJA, SUTEIKTA DIDŽIOJO LIETUVOS
+    KUNIGAIKŠČIO ALEKSANDRO VYTAUTO 1388 METŲ
+    VIEŠPATIES GIMIMO DIENĄ LUCKE TRAKŲ ŽYDAMS, O
+    ŽYGIMANTO SENOJO PATVIRTINTA MELNIKE 1507 METAIS,
+    PIRMADIENI, PRIEŠ TRIS KARALIUS
+    Viešpaties vardu Amen.
+  citata_rodoma: "Jurgis Radvila, Olykos ir Nesvyžiaus kunigaikštis, kar­\ndinolas, dviejų popiežių - Inocento IX ir Klemenso VIII elek- \ntorius, pirma Vilniaus, o paskučiausiai Krokuvos vyskupas, \nbaigė dievobaimingo gyvenimo dienas Romoje, 1600 me­\ntais.\n\n## Puslapis 210\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nV\nPRIVILEGIJA, SUTEIKTA DIDŽIOJO LIETUVOS \nKUNIGAIKŠČIO ALEKSANDRO VYTAUTO 1388 METŲ \nVIEŠPATIES GIMIMO DIENĄ LUCKE TRAKŲ ŽYDAMS, O \nŽYGIMANTO SENOJO PATVIRTINTA MELNIKE 1507 METAIS, \nPIRMADIENI, PRIEŠ TRIS KARALIUS\nViešpaties vardu Amen."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177665
+
+- id: c-167245
+  citata_originali: |
+    O kad visi išvardyti dalykai am­
+    žinai savo galią turėtų, dėl to šį mano raštą su liudytojų pa­
+    rašu aniems įsakėme išduoti, mūsų antspaudu sustiprintą.
+    Tai vyko Lucke Šv. Jono Krikštytojo dieną Viešpaties gimi­
+    mo 1388 metais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183860
+
+- id: c-168391
+  citata_originali: |
+    Mstisla­
+    vas
+    Bresto
+    apylinkėse
+    jau siaubė
+    kaimus,
+    žudė
+    žemdirbius, ketindamas pradėti karą, tačiau, išgirdęs
+    apie artėjantį Skirmantą, buvo priverstas sutraukti
+    savo pulkus iš kaimų į stovyklą. Prie Jaseldos upės
+    abi šalys stojo į įnirtingą mūšį, Mstislavas, sumuš­
+    tas, praradęs kariuomenę, vos gyvas
+    paspruko iš
+    kovos
+    lauko į Lucką. Tuo tarpu Skirmantas
+    po
+    šios
+    pergalės ta pačia proga iš rusų atėmė
+    Pin­
+    ską ir Turovą;
+    džiūgaudamas dėl pergalės ir dėl
+    atimtų iš priešų žemių, pa-
+    L ie tu v ia i iš rusų a ti-
+    siuntė atgal Zivinbudui Kū­
+    ma P in ską
+    kovaitį ir jo karius apdova­
+    nojo puikiomis dovanomis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185030
+
+- id: c-168392
+  citata_originali: |
+    Mažai vis dėlto ką pe­
+    šė nugalėtieji bėgdami, nes skitų užnugaryje buvusios
+    upės trukdė sprunkantiesiems ir juos skandino savo
+    verpetuose. Šiame mūšyje žuvo Drucko kunigaikštis
+    Michailas, Lucko valdovas Andrejus ir Pisimantas bei
+    Liubartas, Treniotos broliai. Šit todėl Treniota, neno­
+    rėdamas, kad po kunigaikščių mirties šiaurinėje Ru­
+    sioje kas pasikeistų, pavedė baigti karą su skitais ir
+    01
+
+    ## Puslapis 90
+
+    A lg im a n ta s — L ietu ­
+    v o s  ir
+    N a u g a rd u k o
+    k u n ig a ik štis
+    valstybę tvarkyti sūnui Al­
+    gimantui; pats su nedidele
+    kariauna
+    ten
+    nuskubėjęs,
+    nuslopino
+    beprasidedantį
+    maištą ir prijungė prie vals­
+    tybės užmuštųjų brolių valdas, remdamasis įpėdinystės
+    teise.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185031
+
+- id: c-168393
+  citata_originali: |
+    Vytautui išėjus, senatas kuo rimčiau­
+    siai paaiškino karaliui, kad, pritardamas pavojingiems ir
+    suktiems imperatoriaus sumanymams, nusileistų žmo­
+    gui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos
+    priešas, nes šitai esąs parodęs praeityje ne vieną kar­
+    tą. Štai todėl karalius po senato posėdžio, net neatsi­
+    sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.
+    Atvykęs į Lenkiją, jis sukvie-
+    Išsiskiisto Lucko su-
+    tė Korčine seimą, norėdamas,
+    važiavimo dalyviai
+    kad karalystės luomai nu­
+    spręstų, kaip dera priešintis
+    nesaikingiems Vytauto potroškiams.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185032
+
+- id: c-168394
+  citata_originali: |
+    Karo audra pamažėle artėjo prie
+    Lucko, nes niekas nedrįso su ginklu rankose užstoti Bo­
+    leslovo. Lenkams beliko persikelti per Styrės upę, per
+    tyvuliuojančias pelkes tekančią tarp aukštų krantų dum­
+    bluota vaga. Luckas rodėsi ranka pasiekiamas, čia tu­
+    rėjo baigtis karas, vis dėto, priešui neseniai sugriovus
+    tiltus ir perkėlus į kitą krantą statybinę medžiagą, tinka­
+    mą plaustams ir tiltams, lenkai nežinojo, kaip galės stoti
+    į kovą ir kaip nusigaus į kitą krantą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185033
+
+- id: c-168395
+  citata_originali: |
+    Priėmęs luomų priesaiką, kuria
+    šie pažadėjo ištikimybę ir paklusnumą, niekais pavertė
+    visus varžovų užmojus, šitaip greitai sutvarkydamas šį
+    reikalą. Boleslovas, bijodamas, kad prieš jį nebūtų imtasi
+    kokių rimtesnių žygių, pasitraukė iš Lucko į Dakiją. Tuo
+    46 9
+
+    ## Puslapis 468
+
+    tarpu Mykolas, gavęs žinią, jog Kazimieras su žymiau­
+    siais senatoriais ir bajorais atvyksta iš Bresto į Vilnių,
+    paliko Trakų pilį ir patraukė į Mazoviją su penkiais šim­
+    tais raitelių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185034
+
+- id: c-170547
+  citata_originali: |
+    Šiapus Jieseldos5  upės
+    kunigaikštis Skirmantas visiškai sumušė Lucko ir Pins­
+    ko kunigaikštį bei visą rusų karo jėgą6 . Tiktai kuni­
+    gaikštis Mstislavas su nedidele palyda spėjo pabėgti
+    į Lucko miestą. O didysis kunigaikštis Skirmantas už­
+    ėmė Pinsko miestą7  ir Turovo miestą".
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187600
+
+- id: c-170548
+  citata_originali: |
+    Didžiajam
+    kunigaikščiui Jogailai ir Skirgailai neįmanoma buvo
+    kovoti prieš jį, kadangi jo pusėje tada buvo susitelku­
+    si didelė jėga. Ir didysis kunigaikštis Jogaila parsikvie­
+    tė jj iš Prūsų 1 0 , davė jam valdyti Lucką ir visą Voly­
+    nės 1 1  žemę 1 2 .
+    28.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187601
+
+- id: c-170549
+  citata_originali: |
+    Paskui išvyko į Lenkiją1 9 , palikęs gubernato­
+    riumi Vilniuje ir Lietuvos Didžiojoje Kunigaikštystėje
+    savo brolį Skirgailą2 0 .
+    O didysis kunigaikštis Vytautas, būdamas Lucke, su­
+    tarė išleisti savo dukterį kunigaikštytę Sofiją2 1  už
+    Maskvos didžiojo kunigaikščio Vasilijaus Dmitrijevi-
+    čiaus n .
+    30.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187602
+
+- id: c-175954
+  citata_originali: |
+    Pirmąjį nepaklusnumo ženklą Jogailai Vytautas parodė su-
+    siartindamas su Maskva. Bėgdamas iš totorių nelaisvės, Mask-
+    vos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke,
+    susižadėjo su jo dukteria Sofija. Į Maskvą vykstantį sužadėtinį
+    palydėjo Vytauto kariuomenės būrys.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193210
+
+- id: c-176317
+  citata_originali: |
+    LDK
+    buvo galinga kaip niekuomet – Vytauto galią jautė visas regionas, valdomas
+
+    L I E T U V O S  I S T O R I J A
+    44
+    imperiškai. Lucko suvažiavime 1429 m. Lietuva buvo paskelbta suverenia
+    valstybe, ir tik atsitiktinumas sutrukdė jai pasidaryti karalyste.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193647
+
+- id: c-176430
+  citata_originali: |
+    Prie Stirės
+    įvyko Švitrigailos pajėgoms nesékmin-
+    gas mūšis. Jogaila apsiautė Lucką, apgula
+    tęsėsi, tačiau jo pajėgos buvo atremtos —
+    lietuviai sėkmingai gynėsi. Švitrigailos
+    įkalbėtas Ordinas trimis kryptimis puolė
+    Lenkiją, ją puolė ir Moldavija.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193777
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

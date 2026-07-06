@@ -18,6 +18,18 @@ tags:
   - tauta
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Mokslo bičiulių draugija
 
@@ -27,19 +39,64 @@ m. Varšuvoje Mokslo bičiulių drau- 3 skyrius • R U S I J O S I M P E R I J 
 
 ## Teiginiai
 
-<a id="claim-t-45131"></a>
+<a id="claim-t-45132"></a>
 - t-001
-  global_id: t-45131
-  teiginys: '1808 m. Varšuvoje Mokslo bičiulių draugija išleido Ksavero Bogušo knygelę „Apie lietuvių tautos ir kalbos kilmę“.'
+  global_id: t-45132
+  teiginys: "1808 m. Varšuvoje Mokslo bičiulių draugija išleido Ksavero Bogušo knygelę „Apie lietuvių tautos ir kalbos kilmę“."
+  temporaliniai_duomenys: "įvykio data: 1808 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys yra pilnas, gramatiškas ir tiesiogiai pagrįstas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "208022-208561; hash=085c4ee5c6686eb30d689156afe4eef5e737545ba896a09b0926e794dafc6023; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ksaveras Bogušas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mokslo bičiulių draugija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Ksaveras Bogušas: mention_match, author, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mokslo bičiulių draugija\" parinktas kaip owner_note_path. Targetas \"Ksaveras Bogušas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-48034
+
+<a id="claim-t-45132"></a>
+- t-001
+  global_id: t-45132
+  teiginys: "1808 m. Varšuvoje Mokslo bičiulių draugija išleido Ksavero Bogušo knygelę „Apie lietuvių tautos ir kalbos kilmę“."
+  temporaliniai_duomenys: "įvykio data: 1808 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys yra pilnas, gramatiškas ir tiesiogiai pagrįstas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "208022-208561; hash=085c4ee5c6686eb30d689156afe4eef5e737545ba896a09b0926e794dafc6023; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ksaveras Bogušas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mokslo bičiulių draugija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Ksaveras Bogušas: mention_match, author, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mokslo bičiulių draugija\" parinktas kaip owner_note_path. Targetas \"Ksaveras Bogušas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-48034
 
 <a id="claim-t-45133"></a>
-- t-003
+- t-002
   global_id: t-45133
-  teiginys: 'Mokslo bičiulių draugijos išleistoje Ksavero Bogušo knygelėje teigta, kad lietuvių kalba tinkama aukštajai kultūrai.'
+  teiginys: "Mokslo bičiulių draugijos išleistoje Ksavero Bogušo knygelėje teigta, kad lietuvių kalba tinkama aukštajai kultūrai."
+  temporaliniai_duomenys: "įvykio data: 1808 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "208022-208561; hash=085c4ee5c6686eb30d689156afe4eef5e737545ba896a09b0926e794dafc6023; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ksaveras Bogušas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mokslo bičiulių draugija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Ksaveras Bogušas: mention_match, author, gap=37"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mokslo bičiulių draugija\" parinktas kaip owner_note_path. Targetas \"Ksaveras Bogušas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-48034
 - susijęs iš [[objektai/grupes/Vilniaus mokslo bičiulių draugija.md#claim-t-66288|Vilniaus mokslo bičiulių draugija]]: Vilniaus mokslo bičiulių draugija telkė lenkiškai kalbančiuosius, kai nepavyko atkurti universiteto Vilniuje.
 - susijęs iš [[objektai/grupes/Vilniaus mokslo bičiulių draugija.md#claim-t-66289|Vilniaus mokslo bičiulių draugija]]: Vilniaus mokslo bičiulių draugija ir Lietuvių mokslo draugija daug dėmesio skyrė praeičiai ir LDK paveldui.
 - susijęs iš [[objektai/ivykiai/Lietuvių mokslo draugijos ir Vilniaus mokslo bičiulių draugijos įkūrimas.md#claim-t-75130|Lietuvių mokslo draugijos ir Vilniaus mokslo bičiulių draugijos įkūrimas]]: Lietuvių mokslo draugija plėtojo etninių lietuvių tautinį sąjūdį, o Vilniaus mokslo bičiulių draugija telkė lenkiškai kalbančiuosius.
@@ -65,6 +122,7 @@ m. Varšuvoje Mokslo bičiulių drau- 3 skyrius • R U S I J O S I M P E R I J 
     Žemaitijoje, imti rašyti poeziją žemaitiškai, arba lietuviškai (Dionizas
     Poška, Silvestras Valiūnas).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -72,3 +130,26 @@ m. Varšuvoje Mokslo bičiulių drau- 3 skyrius • R U S I J O S I M P E R I J 
     - t-001
     - t-002
     - t-003
+
+## Citatos
+
+- id: c-48034
+  citata_originali: |
+    1808 m. Varšuvoje Mokslo bičiulių drau-
+
+    3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
+    111
+    gija išleido iš Lietuvos kilusio kunigo ir teologo Ksavero Bogušo knygelę
+    „Apie lietuvių tautos ir kalbos kilmę“, kurioje pirmą kartą nuskambėjo
+    mintis, kad lietuvių kalba yra visiškai tinkama būti atskiros aukštosios
+    kultūros kalba. Ši mintis paskatino kai kuriuos inteligentus, gyvenusius
+    Žemaitijoje, imti rašyti poeziją žemaitiškai, arba lietuviškai (Dionizas
+    Poška, Silvestras Valiūnas).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-45131
+    - t-45132
+    - t-45133

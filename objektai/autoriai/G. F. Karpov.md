@@ -13,6 +13,18 @@ tags:
   - diplomatas
 amziai: []
 periodo_grupes: []
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # G. F. Karpov
 
@@ -25,10 +37,22 @@ Karpov, 1892) ir t.
 <a id="claim-t-29475"></a>
 - t-001
   global_id: t-29475
-  teiginys: 'G. F. Karpovas 1892 m. išleido SbRIO 35 tomą apie Lietuvos ir Lenkijos diplomatinius santykius su Maskva.'
+  teiginys: "G. F. Karpovas 1892 m. išleido SbRIO 35 tomą apie Lietuvos ir Lenkijos diplomatinius santykius su Maskva."
+  temporaliniai_duomenys: "įvykio data: 1487-1570; įvykio data: 1570 m.; įvykio data: 1892 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko leidėjo, metų ir tomo temos faktą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "42229-42488; hash=ee0cb5f57c33780bf1da925f512e03066a64ad6aa23d5d458c56ce43b13d37eb; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "G. F. Karpov: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=62"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"G. F. Karpov\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-29380
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -40,8 +64,25 @@ Karpov, 1892) ir t.
     Maskva, išl. G. F. Karpov, 1892) ir t. 41 (Maskvos santykiai
     su totoriais).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-29380
+  citata_originali: |
+    SbRIO = Sbornik Russkogo Imperatorskogo Istoričeskogo Obščestva,
+    St. Petersburgas. Iš 148 rinkinio tomų čia panaudota : t. 35
+    (1487-1570 m. diplomat, santykiai Lietuvos ir Lenkijos su
+    Maskva, išl. G. F. Karpov, 1892) ir t. 41 (Maskvos santykiai
+    su totoriais).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-29475

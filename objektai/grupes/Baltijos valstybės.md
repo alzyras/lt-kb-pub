@@ -9,6 +9,18 @@ tags:
   - grupe
   - tauta
   - valstybė
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Baltijos valstybės
 
@@ -19,11 +31,21 @@ Neturėdamos jokio pasirinkimo, trys Baltijos valstybės paruošė neutralumo į
 ## Teiginiai
 
 <a id="claim-t-65084"></a>
-- t-001
+- t-002
   global_id: t-65084
-  teiginys: 'Sovietams kariaujant su Suomija Baltijos valstybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos kaip agresorė.'
+  teiginys: "Sovietams kariaujant su Suomija Baltijos valstybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos kaip agresorė."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "374423-374704; hash=cf49c76a61305462f4550ebacb049a311ceb789a1e535e4e1d6863f8b83e51ca; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Baltijos valstybės: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Baltijos valstybės\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-65567
 - susijęs iš [[objektai/grupes/Rusijos Federacija.md#claim-t-108340|Rusijos Federacija]]: Rusijos valdžia SSRS griūtį vadina geopolitine katastrofa ir teigia, kad Baltijos valstybės neva savo noru įstojo į SSRS.
 - susijęs iš [[objektai/ivykiai/Latvijos ir Estijos okupavimas po Lietuvos atkirtimo (1940 m. birželio 16 d.).md#claim-t-45353|Latvijos ir Estijos okupavimas po Lietuvos atkirtimo (1940 m. birželio 16 d.)]]: 1940 m. birželio 16 d. sovietų divizijos per Lietuvą atkirtusios Latviją ir Estiją nuo Vokietijos greitai okupavo abi Baltijos valstybes.
 - susijęs iš [[objektai/ivykiai/Latvijos ir Estijos okupavimas po Lietuvos atkirtimo (1940 m. birželio 16 d.).md#claim-t-45354|Latvijos ir Estijos okupavimas po Lietuvos atkirtimo (1940 m. birželio 16 d.)]]: 1940 m. birželio 16 d. sovietų divizijoms per Lietuvą atkirtus Latviją ir Estiją nuo Vokietijos, abi valstybės buvo greitai okupuotos.
@@ -54,11 +76,29 @@ Neturėdamos jokio pasirinkimo, trys Baltijos valstybės paruošė neutralumo į
     nopolizuoti Lietuvos užsienio prekybą. Sukurti Baltijos valstybių sąjungą
     pavėluota.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-65567
+  citata_originali: |
+    Sovietams kariaujant su Suomija Baltijos vals-
+    tybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos
+    kaip agresorė. Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė mo-
+    nopolizuoti Lietuvos užsienio prekybą. Sukurti Baltijos valstybių sąjungą
+    pavėluota.
+  citata_rodoma: "nopolizuoti Lietuvos užsienio prekybą. Sukurti Baltijos valstybių sąjungą"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-65084
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Estija]], [[objektai/vietos/Latvija]]

@@ -1,3 +1,3 @@
-# Lietuvos istorijos žinių bazė
+# Lietuvos istorija
 
 Vieša svetainė: [lietuvosistorija.eu](https://lietuvosistorija.eu/)

@@ -15,6 +15,18 @@ tags:
   - saltinis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vokiečių okupuota Lietuva (1941–1944)
 
@@ -27,10 +39,22 @@ Vokiečių okupuota Lietuva (1941–1944).
 <a id="claim-t-18069"></a>
 - t-001
   global_id: t-18069
-  teiginys: 'A. Bubnio veikalas „Vokiečių okupuota Lietuva (1941–1944)“ išleistas Vilniuje 1998 m.'
+  teiginys: "A. Bubnio veikalas „Vokiečių okupuota Lietuva (1941–1944)“ išleistas Vilniuje 1998 m."
+  temporaliniai_duomenys: "įvykio data: 1998 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys tik pavadinimas, o citata pagrindžia autorių, leidimo vietą ir metus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "547483-547561; hash=1bc97beff6ff3791fa9294a1f9d50d3b913437ec04bde9becb980eb3fc4525ba; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokiečių okupuota Lietuva (1941–1944): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokiečių okupuota Lietuva (1941–1944)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-21087
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -39,8 +63,23 @@ Vokiečių okupuota Lietuva (1941–1944).
     Vilnius, 1996.
     Bubnys A. Vokiečių okupuota Lietuva (1941–1944). Vilnius, 1998.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-21087
+  citata_originali: |
+    Vilnius, 1996.
+    Bubnys A. Vokiečių okupuota Lietuva (1941–1944). Vilnius, 1998.
+  citata_rodoma: "Bubnys A. Vokiečių okupuota Lietuva (1941–1944). Vilnius, 1998."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-18069

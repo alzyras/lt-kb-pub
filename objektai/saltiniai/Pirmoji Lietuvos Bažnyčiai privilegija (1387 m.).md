@@ -18,6 +18,18 @@ tags:
 amziai:
   - 'XIV'
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Pirmoji Lietuvos Bažnyčiai privilegija (1387 m.)
 
@@ -28,19 +40,43 @@ Tuo būdu su šia pirmąja Bažnyčios privilegija atsirado Lietuvoje bažnytin�
 ## Teiginiai
 
 <a id="claim-t-45751"></a>
-- t-001
+- t-002
   global_id: t-45751
-  teiginys: '1387 m. vasario 17 d. Jogaila išleido privilegiją Vilniaus vyskupui, kuria buvo įsteigiama ir aprūpinama vyskupo institucija.'
+  teiginys: "1387 m. vasario 17 d. Jogaila išleido privilegiją Vilniaus vyskupui, kuria buvo įsteigiama ir aprūpinama vyskupo institucija."
+  temporaliniai_duomenys: "įvykio data: 1387 m.; įvykio data: 1403 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškus, konkretus ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "74022-74681; hash=11d467b2c2622701330531634c3c7d435b195e1055c91afc6cc373ad5d69b22b; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pirmoji Lietuvos Bažnyčiai privilegija (1387 m.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pirmoji Lietuvos Bažnyčiai privilegija (1387 m.)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-48448
 
 <a id="claim-t-45752"></a>
-- t-002
+- t-003
   global_id: t-45752
-  teiginys: 'Lietuvos krikšto metu Jogaila suteikė privilegijas Vilniaus vyskupui, bajorams ir Vilniaus miestiečiams, pradėdamas luominės visuomenės formavimąsi.'
+  teiginys: "Lietuvos krikšto metu Jogaila suteikė privilegijas Vilniaus vyskupui, bajorams ir Vilniaus miestiečiams, pradėdamas luominės visuomenės formavimąsi."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "76010-76404; hash=ecfb97a6999c2110cf24d84b900a1bad368d8c29d102f7e07dae2850b3ca7c20; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pirmoji Lietuvos Bažnyčiai privilegija (1387 m.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=70"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pirmoji Lietuvos Bažnyčiai privilegija (1387 m.)\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-002
-
+    - c-48450
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -56,6 +92,7 @@ Tuo būdu su šia pirmąja Bažnyčios privilegija atsirado Lietuvoje bažnytin�
     su Lietuva. Krikštas tapo svarbiu Jogailos ir Vytauto diplomatinės kovos
     ideologiniu pamatu karinio konflikto su Ordinu išvakarėse.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -73,8 +110,44 @@ Tuo būdu su šia pirmąja Bažnyčios privilegija atsirado Lietuvoje bažnytin�
     nuosavybę, ir Vilniaus miestiečiams, suteikdamas jiems savivaldą. Lietu-
     vos krikštas davė pradžią luominei visuomenei.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-48448
+  citata_originali: |
+    1387 m. vasario 17 d. Jogaila išleido privilegiją Vilniaus vyskupui, ku-
+    ria buvo įsteigiama ir aprūpinama vyskupo institucija. Ši privilegija yra
+    svarbiausias krikščionybės įvedimo Lietuvoje aktas. Vasario 22-ąją Jogai-
+    la išleido raštą, kuriuo visus lietuvius prisiekė patraukti į savo pusę ar net
+    jėga priversti priimti katalikybę. Jogaila, pavertęs Lietuvą krikščioniška
+    šalimi, panaikino pagrindinę politinės izoliacijos priežastį. Politinė nau-
+    da atėjo netrukus: 1403 m. popiežius uždraudė Vokiečių ordinui kariauti
+    su Lietuva. Krikštas tapo svarbiu Jogailos ir Vytauto diplomatinės kovos
+    ideologiniu pamatu karinio konflikto su Ordinu išvakarėse.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-45751
+
+- id: c-48450
+  citata_originali: |
+    Su tripartitio christiana (visuomenės skirstymas į
+    karius, dvasininkus ir dirbančius žmones) samprata galima tiesiogiai sieti
+    ir Viduramžių luomų idėją. O juk Lietuvos krikšto metu Jogaila suteikė
+    privilegijas ne tik Vilniaus vyskupui, bet ir bajorams, patvirtindamas jų
+    nuosavybę, ir Vilniaus miestiečiams, suteikdamas jiems savivaldą. Lietu-
+    vos krikštas davė pradžią luominei visuomenei.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-45752

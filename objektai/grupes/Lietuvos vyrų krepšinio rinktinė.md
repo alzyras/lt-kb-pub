@@ -19,6 +19,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvos vyrų krepšinio rinktinė
 
@@ -29,25 +41,131 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
 ## Teiginiai
 
 <a id="claim-t-74801"></a>
-- t-001
+- t-003
   global_id: t-74801
-  teiginys: 'Lietuvos vyrų krepšinio rinktinė 1992, 1996 ir 2000 m. olimpinėse žaidynėse iškovojo bronzos medalius.'
+  teiginys: "Lietuvos vyrų krepšinio rinktinė 1992, 1996 ir 2000 m. olimpinėse žaidynėse iškovojo bronzos medalius."
+  temporaliniai_duomenys: "įvykio data: 1995 m.; įvykio data: 2000 m.; įvykio data: 2003 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, aiškus ir paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "521931-522251; hash=c812c5de6a7dc938ebeb28663517dafbccb20fe754998cfbbec297635dd85345; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos vyrų krepšinio rinktinė: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos vyrų krepšinio rinktinė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-72809
 
 <a id="claim-t-74802"></a>
-- t-002
+- t-001
   global_id: t-74802
-  teiginys: 'JAV lietuvių trenerių ir kelių žaidėjų padedama Lietuvos vyrų krepšinio rinktinė 1937 m. Rygoje tapo Europos čempione.'
+  teiginys: "JAV lietuvių trenerių ir kelių žaidėjų padedama Lietuvos vyrų krepšinio rinktinė 1937 m. Rygoje tapo Europos čempione."
+  temporaliniai_duomenys: "įvykio data: 1937 m.; įvykio data: 1939 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Patikslintas objektas ir suderinta giminė su rinktine."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "352688-353179; hash=9f62f3bd61b0bdaa4641c889d6a921747924d1fc96ac02415a2bc22362ccea5f; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos vyrų krepšinio rinktinė: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=97"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos vyrų krepšinio rinktinė\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-003
+    - c-166554
 
-<a id="claim-t-74803"></a>
-- t-003
-  global_id: t-74803
-  teiginys: '1939 m. Kauno sporto halėje Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempione.'
+<a id="claim-t-74804"></a>
+- t-002
+  global_id: t-74804
+  teiginys: "1939 m. Kauno sporto halėje Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempione."
+  temporaliniai_duomenys: "įvykio data: 1939 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "355363-355835; hash=d541853f7b530de1d6f225b2387f2b4aa89c0ea412656cf4427ad3e15f90af7c; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos vyrų krepšinio rinktinė: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=50"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos vyrų krepšinio rinktinė\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-72808
+
+<a id="claim-t-74804"></a>
+- t-002
+  global_id: t-74804
+  teiginys: "1939 m. Kauno sporto halėje Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempione."
+  temporaliniai_duomenys: "įvykio data: 1939 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "355363-355835; hash=d541853f7b530de1d6f225b2387f2b4aa89c0ea412656cf4427ad3e15f90af7c; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos vyrų krepšinio rinktinė: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=50"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos vyrų krepšinio rinktinė\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-72808
+
+<a id="claim-t-74802"></a>
+- t-001
+  global_id: t-74802
+  teiginys: "JAV lietuvių trenerių ir kelių žaidėjų padedama Lietuvos vyrų krepšinio rinktinė 1937 m. Rygoje tapo Europos čempione."
+  temporaliniai_duomenys: "įvykio data: 1937 m.; įvykio data: 1939 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Patikslintas objektas ir suderinta giminė su rinktine."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "352688-353179; hash=9f62f3bd61b0bdaa4641c889d6a921747924d1fc96ac02415a2bc22362ccea5f; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos vyrų krepšinio rinktinė: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=97"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos vyrų krepšinio rinktinė\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-166554
+
+<a id="claim-t-183168"></a>
+- t-006
+  global_id: t-183168
+  teiginys: "Lietuvos vyrų krepšinio rinktinė 1992, 1996 ir 2000 m. olimpinėse žaidynėse iškovojo bronzos medalius."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1995 m.; įvykio data: 2000 m.; įvykio data: 2003 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "522018-522313; hash=cb57a9823546ae9a70c73dee0d505b30a8c36b410b638354e99dbc9888dd00a5; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos vyrų krepšinio rinktinė: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos vyrų krepšinio rinktinė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-166555
 - susijęs iš [[objektai/ivykiai/Lietuvos vyrų krepšinio rinktinės antroji pergalė Europos čempionate Kaune (1939 m.).md#claim-t-75208|Lietuvos vyrų krepšinio rinktinės antroji pergalė Europos čempionate Kaune (1939 m.)]]: 1939 m. Kauno sporto halėje Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempione.
 - susijęs iš [[objektai/ivykiai/Lietuvos vyrų krepšinio rinktinės antroji pergalė Europos čempionate Kaune (1939 m.).md#claim-t-75209|Lietuvos vyrų krepšinio rinktinės antroji pergalė Europos čempionate Kaune (1939 m.)]]: 1939 m. Kauno sporto halėje Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempione.
 - susijęs iš [[objektai/ivykiai/Lietuvos vyrų krepšinio rinktinės olimpiniai bronzos medaliai (1992, 1996 ir 2000 m.).md#claim-t-75211|Lietuvos vyrų krepšinio rinktinės olimpiniai bronzos medaliai (1992, 1996 ir 2000 m.)]]: Lietuvos vyrų krepšinio rinktinė 1992, 1996 ir 2000 m. olimpinėse žaidynėse iškovojo bronzos medalius.
@@ -73,6 +191,7 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
     tautos kūrėjų pasiekimas, be kurio šiandieninė Lietuva vargiai būtų tokia,
     kokia yra.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -90,6 +209,7 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
     nėse iškovojo bronzos medalius. Dar geresni rezultatai pasiekti Europos
     krepšinio pirmenybėse – 1995 m. iškovota antroji vieta, o 2003 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -108,6 +228,7 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
     kartą laimėjo Europos čempionatą, o netrukus merginų krepšinio rinktinė
     Italijoje iškovojo Europos čempionato sidabro medalius.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -125,8 +246,78 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
     krepšinio pirmenybėse – 1995 m. iškovota antroji vieta, o 2003 m. Lietu-
     vos krepšininkai trečią kartą tapo Europos čempionais.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
+## Citatos
+
+- id: c-72808
+  citata_originali: |
+    O sava valstybė,
+    atėjusi iš Mindaugo, Kęstučio, Algirdo ir Vytauto laikų, buvo jų svajonių,
+    ateities planų garantas, pati didžiausia vertybė.
+    Kauno sporto halėje 1939 m. Lietuvos vyrų
+    krepšinio rinktinė antrą kartą tapo Europos čempionais
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    177
+    Lietuviška Lietuva, nors tarpais be Vilniaus ar Klaipėdos – didžiausias
+    tautos kūrėjų pasiekimas, be kurio šiandieninė Lietuva vargiai būtų tokia,
+    kokia yra.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-74803
+    - t-74804
+
+- id: c-72809
+  citata_originali: |
+    Barselonos olimpinėse žaidynėse iško-
+    vojo pirmą aukso medalį nepriklausomai Lietuvai. Žygdarbį padarė krep-
+    šininkai vyrai – Lietuvos rinktinė 1992, 1996, 2000 m. olimpinėse žaidy-
+    nėse iškovojo bronzos medalius. Dar geresni rezultatai pasiekti Europos
+    krepšinio pirmenybėse – 1995 m. iškovota antroji vieta, o 2003 m.
+  citata_rodoma: "nėse iškovojo bronzos medalius. Dar geresni rezultatai pasiekti Europos"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-74801
+
+- id: c-166554
+  citata_originali: |
+    Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV lie-
+    tuvių trenerių ir kelių žaidėjų padedami Lietuvos krepšininkai 1937 m.
+    Rygoje tapo Europos čempionais. Sportininkus parvežantį traukinį kie-
+    kvienoje Lietuvos stotelėje sutiko tūkstantinės minios su gėlėmis, tautos
+    himnu, sveikinimais ir džiaugsmo ašaromis. 1939 m. Kaune Lietuva antrą
+    kartą laimėjo Europos čempionatą, o netrukus merginų krepšinio rinktinė
+    Italijoje iškovojo Europos čempionato sidabro medalius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183167
+    - t-74802
+
+- id: c-166555
+  citata_originali: |
+    Žygdarbį padarė krep-
+    šininkai vyrai – Lietuvos rinktinė 1992, 1996, 2000 m. olimpinėse žaidy-
+    nėse iškovojo bronzos medalius. Dar geresni rezultatai pasiekti Europos
+    krepšinio pirmenybėse – 1995 m. iškovota antroji vieta, o 2003 m. Lietu-
+    vos krepšininkai trečią kartą tapo Europos čempionais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183168

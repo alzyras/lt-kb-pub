@@ -17,11 +17,6 @@ datos:
   - '2026 m.'
 date_start: '1251'
 date_end: '2026'
-description: 'Lvovas žinių bazėje siejamas su Jogailos, Vytauto ir Jadvygos politika, Žemaičių vyskupijos steigimu ir karo žygiais.'
-socialDescription: 'Lvovas Lietuvos istorijos kontekste iškyla per Jogailos, Vytauto, Jadvygos ir Kazimiero veiklą, Bažnyčios reikalus bei karinius įvykius.'
-seo_atnaujinta: '2026-07-02T23:12:35.459536+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -30,77 +25,251 @@ tags:
 amziai:
   - 'XIII'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lvovas
 
 ## Santrauka
 
-Lvovas žinių bazėje minimas kaip svarbi politinių ir karinių įvykių vieta, susijusi su Jogaila, Vytautu ir Jadvyga. 1392 m. balandžio 16 d. Jogaila Lvove išdavė privilegiją, nukreiptą prieš Vytauto siekius Lietuvoje ir pretenzijas į Lucką. Miestas taip pat siejamas su Žemaičių vyskupijos steigimo reikalais, Kazimiero apsilankymais 1485 m. ir karo veiksmais nuo Kameneco iki Lvovo apylinkių.
+Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė stipriausią Podolės tvirtovę Kameniecą ir veržėsi į Lvovo apylinkes.
 
 ## Teiginiai
 
 <a id="claim-t-121908"></a>
-- t-001
+- t-011
   global_id: t-121908
-  teiginys: '1392 m. balandžio 16 d. Jogaila Lvove išdavė privilegiją, nukreiptą prieš Vytauto siekius Lietuvoje ir pretenzijas į Lucką.'
+  teiginys: "1392 m. balandžio 16 d. Jogaila Lvove išdavė privilegiją, nukreiptą prieš Vytauto siekius Lietuvoje ir pretenzijas į Lucką."
+  temporaliniai_duomenys: "įvykio data: 1392 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia faktą apie Lvove išduotą privilegiją, o pradinis teiginys buvo nutrūkęs."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "387926-388276; hash=9abad0fac1d88dbde1c84b83db32ca281e4e21b83411fd71fa52d3cbc4c5b9bf; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lvovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=58"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lvovas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-37520
 
-<a id="claim-t-121909"></a>
-- t-002
-  global_id: t-121909
-  teiginys: 'Lvovas 1280 m. buvo pastatydintas Leono, Danilos iš Haličo sūnaus.'
+<a id="claim-t-121912"></a>
+- t-007
+  global_id: t-121912
+  teiginys: "Lvovas 1280 m. buvo pastatydintas Leono, Danilos iš Haličo sūnaus."
+  temporaliniai_duomenys: "pastatymo data: 1280 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Lvovą ir remiasi citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "595900-596174; hash=8275f2b3ae5f84630eb22045abd941d28d8b61e751cede239830206baebe46d8; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Haličas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lvovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Haličas: mention_match, place, gap=52"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lvovas\" parinktas kaip owner_note_path. Targetas \"Haličas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-111634
 
 <a id="claim-t-121910"></a>
-- t-003
+- t-010
   global_id: t-121910
-  teiginys: 'Lvovo arkivyskupas valdė Vladimiro vyskupiją ir galėjo tikėtis gauti Žemaičius dėl savo vaidmens steigiant Žemaičių vyskupiją.'
+  teiginys: "Lvovo arkivyskupas valdė Vladimiro vyskupiją ir galėjo tikėtis gauti Žemaičius dėl savo vaidmens steigiant Žemaičių vyskupiją."
+  semantiniai_rysiai: "Vilniaus vyskupija priklausė Gniezno (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "290599-290954; hash=1609fd6218d9b6d938fb3d1399f398911049e06250a894b88d66798587f22414; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Gniezno: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilniaus vyskupija: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Gniezno: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Vilniaus vyskupijos priklausymą Gniezno metropolijai."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-002
+    - c-111632
+
+<a id="claim-t-121912"></a>
+- t-007
+  global_id: t-121912
+  teiginys: "Lvovas 1280 m. buvo pastatydintas Leono, Danilos iš Haličo sūnaus."
+  temporaliniai_duomenys: "pastatymo data: 1280 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Lvovą ir remiasi citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "595900-596174; hash=8275f2b3ae5f84630eb22045abd941d28d8b61e751cede239830206baebe46d8; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Haličas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lvovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Haličas: mention_match, place, gap=52"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lvovas\" parinktas kaip owner_note_path. Targetas \"Haličas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-111634
 
 <a id="claim-t-121913"></a>
-- t-005
+- t-012
   global_id: t-121913
-  teiginys: 'Tuo metu, kai Jogaila Vilniuje vykdė savo tautos krikštą, Jadvyga iškilmingai įvažiavo į Lvovą ir suteikė tam miestui privilegiją.'
+  teiginys: "Tuo metu, kai Jogaila Vilniuje vykdė savo tautos krikštą, Jadvyga iškilmingai įvažiavo į Lvovą ir suteikė tam miestui privilegiją."
+  semantiniai_rysiai: "Jadvyga keliavo į Lvovas (0.92)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "791438-791823; hash=9e96882f334393f40b490f8b9ad13ad891385648fef34ea7250711908a7d51c9; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Lvovas: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jadvyga: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lvovas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Jadvygos įvažiavimą į Lvovą."
   pagrindžia:
-    - c-004
+    - c-111636
 
 <a id="claim-t-185036"></a>
-- t-006
+- t-014
   global_id: t-185036
-  teiginys: 'Lvovo arkivyskupui ir Vilniaus vyskupui laišku buvo patikėta įsteigti Žemaičių vyskupystę.'
+  teiginys: "Lvovo arkivyskupui ir Vilniaus vyskupui laišku buvo patikėta įsteigti Žemaičių vyskupystę."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "686709-687514; hash=84375060556db34a066accea20deb6c65da54b74d388ee6a13dac5770409bb2e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lvovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lvovas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-005
+    - c-168397
 
 <a id="claim-t-185037"></a>
-- t-007
+- t-015
   global_id: t-185037
-  teiginys: 'Karalius, nutraukęs apsiaustį ir paleidęs kariuomenę, nukeliavo į Lvovą.'
+  teiginys: "Karalius, nutraukęs apsiaustį ir paleidęs kariuomenę, nukeliavo į Lvovą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "768117-768466; hash=d84275258d4d091f5f63dffadb64e4536a1bbe403fff91ed842154455177c05c; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lvovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lvovas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-168398
 
 <a id="claim-t-187603"></a>
 - t-008
   global_id: t-187603
-  teiginys: 'Moldavijos vaivada Steponas ir turkų sultono paša Malkočas kariavo Lenkijos žemėje nuo Kameneco iki Lvovo, Tarnovo ir Krokuvos apylinkių.'
+  teiginys: "Moldavijos vaivada Steponas ir turkų sultono paša Malkočas kariavo Lenkijos žemėje nuo Kameneco iki Lvovo, Tarnovo ir Krokuvos apylinkių."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "265487-265924; hash=e3e51e4e5dfa608bf7040a6998a7a471dd6513759a392b0521c2b6eb48f43992; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lvovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lvovas\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-007
+    - c-170550
 
 <a id="claim-t-187604"></a>
 - t-009
   global_id: t-187604
-  teiginys: 'Kazimieras 1485 m. liepos 9 d. atvyko į Lvovą, kur buvo sušaukta Rusų vaivadijos ir Podolės bajorų kariuomenė.'
+  teiginys: "Kazimieras 1485 m. liepos 9 d. atvyko į Lvovą, kur buvo sušaukta Rusų vaivadijos ir Podolės bajorų kariuomenė."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "kelionės data: 1485 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys perteikia datą, atvykimą į Lvovą ir kariuomenės sušaukimo aplinkybę. Citata yra aiškinamoji chronologinė pastaba, todėl legendos ar poleminės atribucijos čia neprireikė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "595900-596174; hash=8275f2b3ae5f84630eb22045abd941d28d8b61e751cede239830206baebe46d8; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lvovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=52"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lvovas\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-008
+    - c-170551
 
 <a id="claim-t-187605"></a>
 - t-010
   global_id: t-187605
-  teiginys: 'Kazimieras 1485 m. spalio pradžioje grįžo į Lvovą ir ten buvo tarp spalio 11 ir 25 dienos.'
+  teiginys: "Kazimieras 1485 m. spalio pradžioje grįžo į Lvovą ir ten buvo tarp spalio 11 ir 25 dienos."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: iki 1485 m.; įvykio data: 1485 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia pataisyti linksnį ir pašalinti OCR triukšmą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "597765-598002; hash=39985bc0ddebb67b6a299674cbf3f3c662a02a122e2d115d9a06ef0031fe8daa; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Petrakavas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lvovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Petrakavas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lvovas\" parinktas kaip owner_note_path. Targetas \"Petrakavas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-009
+    - c-170552
+
+<a id="claim-t-193211"></a>
+- t-016
+  global_id: t-193211
+  teiginys: "Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė stipriausią Podolės tvirtovę Kameniecą ir veržėsi į Lvovo apylinkes."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "729133-729542; hash=20ba1c60ab540f1159dd12aeea249fd1515a42c7054ec332da2964771f3a41bd; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-175955
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-184764|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis valdė dideles žemes Rusioje, kai kitas Algirdo brolis Liubartas valdė Lvovą.
 - susijęs iš [[objektai/asmenys/Leonas (Haličo kunigaikščio sūnus).md#claim-t-87764|Leonas (Haličo kunigaikščio sūnus)]]: Leonas, Danieliaus iš Haličo sūnus, pastatydino Lvovą, kuris citatoje datuojamas 1280 metais.
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-184775|Liubartas]]: Algirdo brolis Liubartas valdė Lvovą Rusioje.
@@ -173,6 +342,7 @@ Lvovas žinių bazėje minimas kaip svarbi politinių ir karinių įvykių vieta
     kelio Vytauto siekimams Lietuvoj, ypač buvo aiškiai atkreipta
     prieš jo pretenzijas į Lucką^1 ).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -191,6 +361,7 @@ Lvovas žinių bazėje minimas kaip svarbi politinių ir karinių įvykių vieta
     susirinkimo įgaliotinis, prisidėjo prie Žemaičių vyskupijos įkū­
     rimo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -211,6 +382,7 @@ Lvovas žinių bazėje minimas kaip svarbi politinių ir karinių įvykių vieta
     miesto valdymą, jau buvo galingi ir reikšmingi vietinės civili­
     zacijos požiūriu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -229,6 +401,7 @@ Lvovas žinių bazėje minimas kaip svarbi politinių ir karinių įvykių vieta
     Lietuvos kariuomenė gelbėjo atgauti Raudonąją Rusią, kurion iš
     Lietuvos vėliau nuvyko ir pats Jogaila.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -261,6 +434,7 @@ Lvovas žinių bazėje minimas kaip svarbi politinių ir karinių įvykių vieta
     žiuočių, kaip rašo kai kurie metraštininkai, atsirado vi­
     sai netikėtų ir didelių kliūčių.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -279,6 +453,7 @@ Lvovas žinių bazėje minimas kaip svarbi politinių ir karinių įvykių vieta
     neapsakomai žiauriai nusiaubė visoje žemėje Romos
     tikėjimo bažnyčias ir lenkų tautybės žmones.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -298,6 +473,7 @@ Lvovas žinių bazėje minimas kaip svarbi politinių ir karinių įvykių vieta
     Lvovo, ir net ligi Tamovo, už dešimties mylių nuo Kro­
     kuvos 4 3 . Sugrįžo, padarę Lenkijos žemei daug žalos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -314,6 +490,7 @@ Lvovas žinių bazėje minimas kaip svarbi politinių ir karinių įvykių vieta
     j Lvovą, k u r buvo sušaukta Rusų vaivadijos ir Podolės bajorų ka­
     riuomenė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -329,11 +506,210 @@ Lvovas žinių bazėje minimas kaip svarbi politinių ir karinių įvykių vieta
     buvo Sandomire (XI.4— 13) Ir Petrakavo seime (XII. 1 —3)
     35 Visos šios past ra i Įlo s chronologija netiksli.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
+- c-010
+  santrauka: 'Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė stipriausią Podolės tvirtovę Kameniecą ir veržėsi į Lvovo apylinkes.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kadangi jo didieji priešai buvo susirišę su Prancūzija, tai
+    jis pats tuojau užmezgė ryšius su Austrų Habsburgais ir iš jų
+    šeimos net vedė žmoną.
+    Kartu su jo viešpatavimu Lenkijoje prasidėjo sunkus ka-
+    ras su Turkais, kuriems pasidavė ir kazokų hetmonas Doro-
+    šenko. Lenkams, netvarkingai kariaujantiems, karas labai ne-
+    sisekė: turkai užėmė stipriausią Podolės tvirtovę Kameniecą ir
+    veržėsi į Lvovo apylinkes.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-011
+
+## Citatos
+
+- id: c-37520
+  citata_originali: |
+    Vygunto mirtis privertė kviestis ir Vytautą į Lietuvą. Dar
+    1392 m. pavasarį niekas negalėjo įspėti tokio Jogailos pasikei­
+    timo politikoj, nes dar tų pačių metų bal. 16 d. išdavė Lvove pri­
+    vilegiją, kuri taip pat, kaip ir N. Korčino aktas, stojo skersai
+    kelio Vytauto siekimams Lietuvoj, ypač buvo aiškiai atkreipta
+    prieš jo pretenzijas į Lucką^1 ).
+  citata_rodoma: "Dar\n1392 m. pavasarį niekas negalėjo įspėti tokio Jogailos pasikei­\ntimo politikoj, nes dar tų pačių metų bal. 16 d. išdavė Lvove pri­\nvilegiją, kuri taip pat, kaip ir N. Korčino aktas, stojo skersai\nkelio Vytauto siekimams Lietuvoj, ypač buvo aiškiai atkreipta\nprieš jo pretenzijas į Lucką^1 )."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-121908
+
+- id: c-111632
+  citata_originali: |
+    Vilniaus vyskupija būtų metropolija.
+    Tokiems Vytauto planams stojo skersai kelio lenkai. Jų
+    Gniezno metropolijai priklausė Vilniaus vyskupija, o Lvovo ar­
+    kivyskupas, kuris jau turėjo savo valdžioj Vladimiro vyskupiją,
+    galėjo dar tikėtis gauti ir Žemaičius, nes jis, kaip Konstancijos
+    susirinkimo įgaliotinis, prisidėjo prie Žemaičių vyskupijos įkū­
+    rimo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-121910
+
+- id: c-111634
+  citata_originali: |
+    Poznanė dar anksčiau už Krokuvą - 1253 metais,
+    Sandomiras - vėliau, 1286 metais, o Liublinas Vladislavo Lo­
+    ketkos laikais -1317 metais, ėmė tvarkytis pagal vokiečių miestų
+    teises. Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos -
+    1280 metais, pastatydintas Leono, Darnios iš Haličo sūnaus. Išsi­
+    laisvinę nuo nepakeliamos kašteliono valdžios, Lenkijos mies­
+    tai, sykiu su teutonų teise suvieniję atleidimą nuo įvairių duok­
+    lių ir krašto teisės prievolių, savo pačių teisėtvarką ir atskirą
+    miesto valdymą, jau buvo galingi ir reikšmingi vietinės civili­
+    zacijos požiūriu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-121909
+    - t-121912
+
+- id: c-111636
+  citata_originali: |
+    Iš ten buvo išva­
+    rinėjami vengrų seniūnai, ir kraštas prijungtas Lenkijai. Tuo metu,
+    kai Jogaila Vilniuje vykdė savo tautos krikštą, Jadvyga iškilmingai
+    įvažiavo į Lvovą ir suteikė tam miestui privilegiją. Kaip lenkų
+    daliniai buvo padėję prieš Smolensko kunigaikštį ir Andrių, taip
+    Lietuvos kariuomenė gelbėjo atgauti Raudonąją Rusią, kurion iš
+    Lietuvos vėliau nuvyko ir pats Jogaila.
+  citata_rodoma: "Tuo metu,\nkai Jogaila Vilniuje vykdė savo tautos krikštą, Jadvyga iškilmingai\nįvažiavo į Lvovą ir suteikė tam miestui privilegiją. Kaip lenkų\ndaliniai buvo padėję prieš Smolensko kunigaikštį ir Andrių, taip\nLietuvos kariuomenė gelbėjo atgauti Raudonąją Rusią, kurion iš\nLietuvos vėliau nuvyko ir pats Jogaila."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-121913
+
+- id: c-168397
+  citata_originali: |
+    Vy­
+    tautas priėmė Jogailą, kaip
+    V y ta u to  dosniai ap-
+    dera priimti karalių, o po ke-
+    d o v a n o ja m a s
+    lių dienų pastarojo viešnagės
+    padovanojo skubančiam Kro­
+    kuvon į karalienės laidotuves valdovui, be gausybės
+    kitų dovanų, dvidešimt tūkstančių čekiškųjų markių,
+    šimtą grynakraujų žirgų, keturias dešimtis iš sabalo
+    kailio siūtų drabužių ir šimtą persiškųjų apsiaustų, iš­
+    siuvinėtų aukso siūlais.
+    S k ita i n io k o ja  R usią
+    Tuo metu sugrįžo iš baž­
+    nytinio suvažiavimo pasiun­
+    tiniai, taip sutvarkę reikalus, kaip norėjo karalius, be
+    to, parsivežu laišką, kuriuo Lvovo arkivyskupui ir Vil­
+    niaus vyskupui patikėta uždavinys įsteigti Žemaičių vys­
+    kupystę. Vis dėlto šį reikalą teko atidėti, nes dėl kry­
+    žiuočių, kaip rašo kai kurie metraštininkai, atsirado vi­
+    sai netikėtų ir didelių kliūčių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185036
+
+- id: c-168398
+  citata_originali: |
+    Iš pradžių susitarė dėl trumpalaikių
+    paliaubų, vėliau abiejų šalių valdovai pasižadėjo nu­
+    vykti į Parčevą ir susitarti dėl amžinos taikos. Kara­
+    lius, nutraukęs apsiaustį ir paleidęs kariuomenę, nu­
+    keliavo į Lvovą. Volynės kariai, nesibijodami atpildo,
+    neapsakomai žiauriai nusiaubė visoje žemėje Romos
+    tikėjimo bažnyčias ir lenkų tautybės žmones.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185037
+
+- id: c-170550
+  citata_originali: |
+    Tais pačiais metais Lietuvos žemę ištiko baisus ba­
+    das, ir paplito žmonėse prancūziškos ligos4 0 . Paskui,
+    sekančių metų vasarą bei rudenį4 I, atėjo Moldavijos
+    vaivada Steponas, o su juo — turkų sultono didysis pa­
+    ša, vardu Malkočas 4 2 , vedinas daugeliu žmonių, ir ka­
+    riavo po Lenkijos žemę, Kamenecu pradedant, ir ligi
+    Lvovo, ir net ligi Tamovo, už dešimties mylių nuo Kro­
+    kuvos 4 3 . Sugrįžo, padarę Lenkijos žemei daug žalos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187603
+
+- id: c-170551
+  citata_originali: |
+    17 Kazimieras su sūnumis A lbertu ir Aleksandru išvyko iš Kro­
+    kuvos 1485.V.18. bet ne su visos Lenkijos pajėgomis, o  su Mažo­
+    sios Lenkijos savanoriais ir algininkais. Su jais liepos 9 d. atvyko
+    j Lvovą, k u r buvo sušaukta Rusų vaivadijos ir Podolės bajorų ka­
+    riuomenė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187604
+
+- id: c-170552
+  citata_originali: |
+    34 Kazimieras grjžo | Lvovu 1485 m. spalio mėn. pradžioje ir
+    buvo ten tarp spalio II Ir 25 d., o  toliau Iki 1485 m. pabaigos
+    buvo Sandomire (XI.4— 13) Ir Petrakavo seime (XII. 1 —3)
+    35 Visos šios past ra i Įlo s chronologija netiksli.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187605
+
+- id: c-175955
+  citata_originali: |
+    Kadangi jo didieji priešai buvo susirišę su Prancūzija, tai
+    jis pats tuojau užmezgė ryšius su Austrų Habsburgais ir iš jų
+    šeimos net vedė žmoną.
+    Kartu su jo viešpatavimu Lenkijoje prasidėjo sunkus ka-
+    ras su Turkais, kuriems pasidavė ir kazokų hetmonas Doro-
+    šenko. Lenkams, netvarkingai kariaujantiems, karas labai ne-
+    sisekė: turkai užėmė stipriausią Podolės tvirtovę Kameniecą ir
+    veržėsi į Lvovo apylinkes.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193211
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Jadvyga]]

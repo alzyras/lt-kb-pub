@@ -16,6 +16,18 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'naujieji laikai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # W. Schmidt
 
@@ -28,10 +40,19 @@ Schmidt, W.
 <a id="claim-t-31071"></a>
 - t-001
   global_id: t-31071
-  teiginys: 'W. Schmidt parašė veikalus „Ursprung und Werden der Religion“ ir „Der Ursprung der Gottesidee“.'
+  teiginys: "W. Schmidt parašė veikalus „Ursprung und Werden der Religion“ ir „Der Ursprung der Gottesidee“."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "415802-416102; hash=79df154479a13f5e90ac31bd4dc40729dcea4e92a5b9bb2fd3a447ad64ac798a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Saulė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "W. Schmidt: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Saulė: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"W. Schmidt\" parinktas kaip owner_note_path. Targetas \"Saulė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-33200
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,8 +64,26 @@ Schmidt, W.
     und Werden der Religion, 1930. — (”) Der Ursprung der Gottesidee, I :
     Historisch-kritischer Teil, Münster i. W. 1912.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33200
+  citata_originali: |
+    II, Torino 1965, 807-857 p. — Sadaus­
+    kaitė, I. : _Dėl mirusiųjų deginimo papročio,_ ILKI, t. 3, 1961, 125-131 p.
+    — Saulė (jos kultas), MLTE, III, 164-165 p. — Schmidt, W. : Ursprung
+    und Werden der Religion, 1930. — (”) Der Ursprung der Gottesidee, I :
+    Historisch-kritischer Teil, Münster i. W. 1912.
+  citata_rodoma: "— Schmidt, W. : Ursprung\nund Werden der Religion, 1930. — (”) Der Ursprung der Gottesidee, I :\nHistorisch-kritischer Teil, Münster i. W. 1912."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31071

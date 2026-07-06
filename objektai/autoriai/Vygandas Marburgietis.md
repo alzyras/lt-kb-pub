@@ -3,6 +3,7 @@ tipas: autorius
 pavadinimas: 'Vygandas Marburgietis'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1323 m.'
@@ -17,6 +18,18 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vygandas Marburgietis
 
@@ -32,83 +45,265 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
 ## Teiginiai
 
 <a id="claim-t-172965"></a>
-- t-001
+- t-005
   global_id: t-172965
-  teiginys: 'Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kryžiuočius, siekdamas apsiginti ir užpulti priešo teritoriją.'
+  teiginys: "Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kryžiuočius, siekdamas apsiginti ir užpulti priešo teritoriją."
+  semantiniai_rysiai: "Lietuviai puolė Semba (0.83); Kryžiuočių ordinas gynė Prūsija (0.67)"
+  temporaliniai_duomenys: "įvykio data: 1345 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti pilną teiginį apie aprašytą veiksmą, pašalinant nutrūkusį fragmentą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "138666-139206; hash=350f6feff24ff6414a35668b70204df5bd46250520ed8addfb7489d5db3f994b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Semba: 0.83"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Semba: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje lietuvių karaliaus kariuomenė siejama su ketinimu nusiaubti Sembos žemę."
   pagrindžia:
-    - c-001
+    - c-42463
 
 <a id="claim-t-172967"></a>
-- t-002
+- t-012
   global_id: t-172967
-  teiginys: 'Vygandas Marburgietis „Naujojoje Prūsijos kronikoje“ aprašė lietuvių karaliaus dezinformaciją 1345 m.'
+  teiginys: "Vygandas Marburgietis „Naujojoje Prūsijos kronikoje“ aprašė lietuvių karaliaus dezinformaciją 1345 m."
+  temporaliniai_duomenys: "įvykio data: 1345 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia kronikos ištraukos autorių ir aprašytą veiksmą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "138666-139206; hash=350f6feff24ff6414a35668b70204df5bd46250520ed8addfb7489d5db3f994b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vygandas Marburgietis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=60"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vygandas Marburgietis\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-42463
 
 <a id="claim-t-172968"></a>
-- t-003
+- t-006
   global_id: t-172968
-  teiginys: 'Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ ištrauka pateikta apie 1348 m. Strėvos mūšį.'
+  teiginys: "Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ ištrauka pateikta apie 1348 m. Strėvos mūšį."
+  temporaliniai_duomenys: "įvykio data: 1348 m.; įvykio data: apie 1348 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiksliai paremtas citatos antraštine informacija."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "143006-143238; hash=16f94e2586958208f2cd700b48b9d4a26ac1a6874001c7699ef50f4dfa8912b2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vygandas Marburgietis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vygandas Marburgietis\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-157309
 
 <a id="claim-t-172969"></a>
-- t-004
+- t-016
   global_id: t-172969
-  teiginys: 'Vygandas Marburgietis pasakojo, kad Karolis Tryrietis popiežiaus rūmuose buvo priimtas pagarbiai ir draugiškai.'
+  teiginys: "Vygandas Marburgietis pasakojo, kad Karolis Tryrietis popiežiaus rūmuose buvo priimtas pagarbiai ir draugiškai."
+  temporaliniai_duomenys: "įvykio data: 1323 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiesiogiai paremtas citata apie Vygando pasakojimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "186127-186566; hash=1684dfa2253885300c75a02168f1957c7c9b9f45ccfb74a5c42de8b4864ad987; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Karolis Tryrietis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vygandas Marburgietis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Karolis Tryrietis: mention_match, person, gap=36"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vygandas Marburgietis\" parinktas kaip owner_note_path. Targetas \"Karolis Tryrietis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-157308
 
 <a id="claim-t-172970"></a>
-- t-005
+- t-004
   global_id: t-172970
-  teiginys: 'Vygando Marburgiečio kronikos ištraukos leidinyje pateiktos prie 1348 m. Strėvos mūšio ir pilies šturmo epizodų.'
+  teiginys: "Vygando Marburgiečio kronikos ištraukos leidinyje pateiktos prie 1348 m. Strėvos mūšio ir pilies šturmo epizodų."
+  temporaliniai_duomenys: "įvykio data: 1348 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "162268-162594; hash=233dc4475c50bfa5e10ac4c570e7c5247cd00d51704e24b4fb82ca874d3d869a; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Strėva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vygandas Marburgietis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Strėva: mention_match, place, gap=73"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vygandas Marburgietis\" parinktas kaip owner_note_path. Targetas \"Strėva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
-    - c-004
+    - c-42467
+    - c-157309
 
 <a id="claim-t-172971"></a>
-- t-006
+- t-007
   global_id: t-172971
-  teiginys: 'Vygando Marburgiečio „Naujosios Prūsijos kronikos“ ištraukoje aprašomas pilies šturmas.'
+  teiginys: "Vygando Marburgiečio „Naujosios Prūsijos kronikos“ ištraukoje aprašomas pilies šturmas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "162268-162594; hash=233dc4475c50bfa5e10ac4c570e7c5247cd00d51704e24b4fb82ca874d3d869a; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vygandas Marburgietis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vygandas Marburgietis\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-42467
 
 <a id="claim-t-172972"></a>
-- t-007
+- t-010
   global_id: t-172972
-  teiginys: 'Vygandas Marburgietis pasakojo apie asmens atvykimą pas popiežių ir pagarbų priėmimą popiežiaus rūmuose.'
+  teiginys: "Vygandas Marburgietis pasakojo apie asmens atvykimą pas popiežių ir pagarbų priėmimą popiežiaus rūmuose."
+  temporaliniai_duomenys: "įvykio data: 1323 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "186127-186566; hash=1684dfa2253885300c75a02168f1957c7c9b9f45ccfb74a5c42de8b4864ad987; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vygandas Marburgietis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vygandas Marburgietis\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-157308
 
-<a id="claim-t-172974"></a>
-- t-009
-  global_id: t-172974
-  teiginys: 'Vygandas Marburgietis ir Lindenblattas Viliją vadino Nerga, Nerge, Nerye ir Neria.'
+<a id="claim-t-172968"></a>
+- t-006
+  global_id: t-172968
+  teiginys: "Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ ištrauka pateikta apie 1348 m. Strėvos mūšį."
+  temporaliniai_duomenys: "įvykio data: 1348 m.; įvykio data: apie 1348 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiksliai paremtas citatos antraštine informacija."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "143006-143238; hash=16f94e2586958208f2cd700b48b9d4a26ac1a6874001c7699ef50f4dfa8912b2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vygandas Marburgietis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vygandas Marburgietis\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-157309
+
+<a id="claim-t-172975"></a>
+- t-008
+  global_id: t-172975
+  teiginys: "Vygandas Marburgietis ir Lindenblattas Viliją vadino Nerga, Nerge, Nerye ir Neria."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "58044-58350; hash=cde015bd7f2074d310c343864dd171deb63b0bb8884b897a093f4608f631818a; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vygandas Marburgietis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Vilija: mention_match, place, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vygandas Marburgietis\" parinktas kaip owner_note_path. Targetas \"Vilija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-157311
+
+<a id="claim-t-172975"></a>
+- t-008
+  global_id: t-172975
+  teiginys: "Vygandas Marburgietis ir Lindenblattas Viliją vadino Nerga, Nerge, Nerye ir Neria."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "58044-58350; hash=cde015bd7f2074d310c343864dd171deb63b0bb8884b897a093f4608f631818a; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vygandas Marburgietis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Vilija: mention_match, place, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vygandas Marburgietis\" parinktas kaip owner_note_path. Targetas \"Vilija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-157311
 
 <a id="claim-t-172976"></a>
-- t-011
+- t-009
   global_id: t-172976
-  teiginys: 'Vygandas Marburgietis aprašė Kęstučio laidotuves Vilniuje ir teigė, kad per deginimą atsivėrusi kiaurymė įtraukė jo pelenus.'
+  teiginys: "Vygandas Marburgietis aprašė Kęstučio laidotuves Vilniuje ir teigė, kad per deginimą atsivėrusi kiaurymė įtraukė jo pelenus."
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) buvo palaidotas Vilnius (0.84)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "108065-108806; hash=affca3580902450bfde4e32aec71ac90c06e0da998f4eedf6611b6e1c1ede72b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_palaidotas -> Vilnius: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Kęstučio laidotuves Vilniuje."
   pagrindžia:
-    - c-007
+    - c-157314
 
 <a id="claim-t-172977"></a>
-- t-012
+- t-015
   global_id: t-172977
-  teiginys: 'Vygandas Marburgietis aprašė Kęstučio laidotuves Vilniuje ir teigė, kad deginant palaikus atsivėrusi kiaurymė įtraukė pelenus.'
+  teiginys: "Vygandas Marburgietis aprašė Kęstučio laidotuves Vilniuje ir teigė, kad deginant palaikus atsivėrusi kiaurymė įtraukė pelenus."
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) buvo palaidotas Vilnius (0.84)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "107711-108725; hash=1e5ee3d3b5248f9bbeacd7f5c9ffcb89d23292c3925c659417d60e328597edee; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_palaidotas -> Vilnius: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sieja Kęstučio laidotuves su Vilniumi."
   pagrindžia:
-    - c-005
+    - c-157310
 
 <a id="claim-t-172978"></a>
-- t-013
+- t-003
   global_id: t-172978
-  teiginys: 'Vygandas Marburgietis buvo „Naujosios Prūsijos žemės kronikos“ autorius.'
+  teiginys: "Vygandas Marburgietis buvo „Naujosios Prūsijos žemės kronikos“ autorius."
+  semantiniai_rysiai: "Lietuviai puolė Semba (0.83); Kryžiuočių ordinas gynė Prūsija (0.67)"
+  temporaliniai_duomenys: "įvykio data: 1345 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "138666-139206; hash=350f6feff24ff6414a35668b70204df5bd46250520ed8addfb7489d5db3f994b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Semba: 0.83"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Semba: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje lietuvių karalius su kariuomene ketina nusiaubti Sembos žemę, todėl palaikomas lietuvių puolimo į Sembą ryšys."
   pagrindžia:
-    - c-001
-    - c-004
+    - c-42463
+    - c-157309
+
+<a id="claim-t-193881"></a>
+- t-017
+  global_id: t-193881
+  teiginys: "Kryžiuočių Vygando Marburgiškio duomenimis, Kęstučio ka riuomenė buvusi Karibulo Dimitro sumušta."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "420279-420718; hash=c7417dbb53caf9d1e02d6be9af9a93c99439e83af9a00ef0ae8e7ab54e35e0dc; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176508
 - susijęs iš [[objektai/autoriai/T. Hiršas.md#claim-t-91955|T. Hiršas]]: T. Hiršas villa Culmen laikė rašybos klaida ir siejo šį vietovardį su Kulva.
 - susijęs iš Naujosios Prūsijos žemės kronika: Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie Marienverderio pilies šturmą 1384 m.
 - susijęs iš Naujosios Prūsijos žemės kronika: Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ ištraukoje aprašomas 1376 m. Algirdo ir Kęstučio Ordino valdų siaubimas.
@@ -127,8 +322,9 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
     riuomenės, su kuria norįs nusiaubti Sembos žemę. Todėl [Prūsijos] magistras ir kiti pagal
     kilmingiausių [svečių] patarimą grįžta saugoti savo krašto.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
@@ -150,6 +346,7 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
     iš mūro sijas, kad esąs pakeliamas tiltas
     liktų laisvas naudotis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -175,6 +372,7 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
     Tokius skundo punktus randame
     įdėtus R a y n a 1  d, an.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -195,6 +393,7 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
     Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ apie 1348 m.
     Strėvos mūšį.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -236,6 +435,7 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
     tučio pelenus, ką regėjusi daugybė
     žmonių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -255,6 +455,7 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
     krikščionių tikėjimo Vilniuje priėmi­
     mo, Vilija taip buvo vadinama.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -288,8 +489,224 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
     stuta) in Wiliam ubi in cinerem est re­
     dactus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
+- c-008
+  santrauka: 'Kryžiuočių Vygando Marburgiškio duomenimis, Kęstučio ka riuomenė buvusi Karibulo Dimitro sumušta.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Žygio priežastis
+    buvo Kaributo Dimitro su Jogaila sutartas maištas prieš Kęstutį,
+    juo buvo norima atitraukll Kęstuti iš Vilniaus, kad Jogaila galėtų
+    atgauti Lietuvos sostinę.
+    Kryžiuočių Vygando Marburgiškio duomenimis, Kęstučio ka­
+    riuomenė buvusi Karibulo Dimitro sumušta.
+    5  Hanulas (kituose dokumentuose vadinamas Manike, Hennike,
+    Hans) buvo Rygos kilimo Vilniaus pirklys, veikiausiai, Vilniaus
+    vokiečių pirklių bendruomenės galva.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-014
+
+## Citatos
+
+- id: c-42463
+  citata_originali: |
+    Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“, kaip lietuvių
+    karalius 1345 m., siekdamas apsiginti nuo rengiamo kryžiuočių antpuolio, norėdamas
+    pats užpulti priešo teritoriją, jį dezinformuoja
+    „Ir iškilo [Ordino broliams] klausimas, ar žygiuoti toliau į [Lietuvos] žemę. Mat viena
+    klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telkęs didelę daugybę ka-
+    riuomenės, su kuria norįs nusiaubti Sembos žemę. Todėl [Prūsijos] magistras ir kiti pagal
+    kilmingiausių [svečių] patarimą grįžta saugoti savo krašto.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172978
+    - t-172965
+    - t-172967
+
+- id: c-42467
+  citata_originali: |
+    PILIES ŠTURMAS
+
+    Ištrauka iš Vygando Marburgiečio „Nau-
+    josios Prūsijos kronikos“.
+
+    „Susitaręs magistras užpila [priešpilio]
+    griovį ir pastato atitinkamo aukščio stati-
+    nius, kad jo [kariai] nuo jų galėtų įsiveržti
+    į pilį. Stabmeldžiai, tatai suprasdami, iškiša
+    iš mūro sijas, kad esąs pakeliamas tiltas
+    liktų laisvas naudotis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172971
+    - t-172970
+
+- id: c-157308
+  citata_originali: |
+    T. IV, p. 1034-1035;
+    kad Karolis Tryrietis, dar 1323 m.
+    rugpjūčiui įpusėjus, buvo Vokietijo­
+    je. Apie jo priėmimą popiežiaus
+    rūmuose pasakoja Vygandas
+    M a r b u r g a s, p. 279; Adiit papam,
+    u quo honorifice et amicabiliter suscep­
+    tus est [Atvyko pas popiežių, kurio
+    buvo pagarbiai ir draugiškai priim­
+    tas]. Žr. Kryžiuočių ordino Kroniką,
+    pateiktą M a t h e s s, p. 771.
+    z
+    Tokius skundo punktus randame
+    įdėtus R a y n a 1  d, an.
+  citata_rodoma: "Apie jo priėmimą popiežiaus\nrūmuose pasakoja Vygandas\nM a r b u r g a s, p. 279; Adiit papam,\nu quo honorifice et amicabiliter suscep­\ntus est [Atvyko pas popiežių, kurio\nbuvo pagarbiai ir draugiškai priim­\ntas]. Žr."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172972
+    - t-172969
+
+- id: c-157309
+  citata_originali: |
+    Tačiau nea-
+    bejotinai mūšyje patyrė smūgį ir Ordinas,
+    jis po mūšio nežygiavo gilyn į Lietuvą, bet
+    grįžo atgal į Prūsiją.
+
+    STRĖVOS MUSIS
+
+    Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ apie 1348 m.
+    Strėvos mūšį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172973
+    - t-172968
+    - t-172978
+    - t-172970
+
+- id: c-157310
+  citata_originali: |
+    Tas Vytauto pabėgimas turėjo priversti Jogailą nerimau­
+    ti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­
+    grobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­
+    jo, 1382 metų lapkričio pradžioje Dubysos upės salelėje
+    sudarė su jais paliaubas. Tačiau ir tai negalėjo pasotinti go­
+    duolio Ordino, kuris, priėmęs savo globon Vytautą ir Taut­
+    36
+    Klausimas, ar Kęstutis pats pasirin­
+    kęs mirtį, - juk Skirgaila, važiavęs
+    jo aplankyti, netikėtai rado negyvą,
+    ar nužudytas, o jo žmona kunigaikš­
+    tienė Birutė paskandinta, - nėra iki
+    šiol aiškus ir rašantiesiems Lietuvos
+    istoriją dera jo imtis.
+    37
+    Vygandas  savo kronikoje, p. 298,
+    apud V o i g t, V, 372, aprašinėda­
+    mas Kęstučio laidotuves Vilniuje,
+    kur kartu su palaikais buvo sudegin­
+    ti jo rūbai, ginklai, žirgai, medžiok­
+    liniai šunys ir paukščiai, prietarin­
+    gai priduria, kad to deginimo metu
+    stebuklingu būdu žemėje atsivėrusi
+    tokio gylio kiaurymė, jog vienas
+    žmogus galėjęs tilpti, ir įtraukė Kęs­
+    tučio pelenus, ką regėjusi daugybė
+    žmonių.
+  citata_rodoma: "Tačiau ir tai negalėjo pasotinti go­\nduolio Ordino, kuris, priėmęs savo globon Vytautą ir Taut­\n36\nKlausimas, ar Kęstutis pats pasirin­\nkęs mirtį, - juk Skirgaila, važiavęs \njo aplankyti, netikėtai rado negyvą, \nar nužudytas, o jo žmona kunigaikš­\ntienė Birutė paskandinta, - nėra iki \nšiol aiškus ir rašantiesiems Lietuvos \nistoriją dera jo imtis.\n37\nVygandas  savo kronikoje, p. 298, \napud V o i g t, V, 372, aprašinėda­\nmas Kęstučio laidotuves Vilniuje, \nkur kartu su palaikais buvo sudegin­\nti jo rūbai, ginklai, žirgai, medžiok­\nliniai šunys ir paukščiai, prietarin­\ngai priduria, kad to deginimo metu \nstebuklingu būdu žemėje atsivėrusi \ntokio gylio kiaurymė, jog vienas \nžmogus galėjęs tilpti, ir įtraukė Kęs­\ntučio pelenus, ką regėjusi daugybė\nžmonių."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172977
+
+- id: c-157311
+  citata_originali: |
+    Upė Nerige, dažnai minima senovi­
+    niame Lietuvos kelių aprašyme,
+    esančiame Kryžiuočių archyve, yra
+    dabartinė Vilija. Vygandas ir
+    Lindenblattas, kronikininkai,
+    ją taip pat vadina - Nerga, Nerge, Ne-
+    rye ir Neria. Jau 1398 metais, po
+    krikščionių tikėjimo Vilniuje priėmi­
+    mo, Vilija taip buvo vadinama.
+  citata_rodoma: "Vygandas ir\nLindenblattas, kronikininkai,\nją taip pat vadina - Nerga, Nerge, Ne-\nrye ir Neria. Jau 1398 metais, po\nkrikščionių tikėjimo Vilniuje priėmi­\nmo, Vilija taip buvo vadinama."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172975
+    - t-172974
+
+- id: c-157314
+  citata_originali: |
+    Klausimas, ar Kęstutis pats pasirin­
+    kęs mirtį, - juk Skirgaila, važiavęs
+    jo aplankyti, netikėtai rado negyvą,
+    ar nužudytas, o jo žmona kunigaikš­
+    tienė Birutė paskandinta, - nėra iki
+    šiol aiškus ir rašantiesiems Lietuvos
+    istoriją dera jo imtis.
+    37
+    Vygandas  savo kronikoje, p. 298,
+    apud V o i g t, V, 372, aprašinėda­
+    mas Kęstučio laidotuves Vilniuje,
+    kur kartu su palaikais buvo sudegin­
+    ti jo rūbai, ginklai, žirgai, medžiok­
+    liniai šunys ir paukščiai, prietarin­
+    gai priduria, kad to deginimo metu
+    stebuklingu būdu žemėje atsivėrusi
+    tokio gylio kiaurymė, jog vienas
+    žmogus galėjęs tilpti, ir įtraukė Kęs­
+    tučio pelenus, ką regėjusi daugybė
+    žmonių. Et duxit (Skirgajłło) eum (Kej-
+    stuta) in Wiliam ubi in cinerem est re­
+    dactus.
+  citata_rodoma: "37\nVygandas  savo kronikoje, p. 298,\napud V o i g t, V, 372, aprašinėda­\nmas Kęstučio laidotuves Vilniuje,\nkur kartu su palaikais buvo sudegin­\nti jo rūbai, ginklai, žirgai, medžiok­\nliniai šunys ir paukščiai, prietarin­\ngai priduria, kad to deginimo metu\nstebuklingu būdu žemėje atsivėrusi\ntokio gylio kiaurymė, jog vienas\nžmogus galėjęs tilpti, ir įtraukė Kęs­\ntučio pelenus, ką regėjusi daugybė\nžmonių. Et duxit (Skirgajłło) eum (Kej-\nstuta) in Wiliam ubi in cinerem est re­\ndactus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172976
+
+- id: c-176508
+  citata_originali: |
+    Žygio priežastis
+    buvo Kaributo Dimitro su Jogaila sutartas maištas prieš Kęstutį,
+    juo buvo norima atitraukll Kęstuti iš Vilniaus, kad Jogaila galėtų
+    atgauti Lietuvos sostinę.
+    Kryžiuočių Vygando Marburgiškio duomenimis, Kęstučio ka­
+    riuomenė buvusi Karibulo Dimitro sumušta.
+    5  Hanulas (kituose dokumentuose vadinamas Manike, Hennike,
+    Hans) buvo Rygos kilimo Vilniaus pirklys, veikiausiai, Vilniaus
+    vokiečių pirklių bendruomenės galva.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193881

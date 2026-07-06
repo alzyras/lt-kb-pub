@@ -10,6 +10,18 @@ tags:
   - ginklas
   - karas
   - ordinas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # F. Gause
 
@@ -22,10 +34,19 @@ R h o d e veikalas apie lenkų rytinę sieną (RhOP)^159 , Fr. Benninghoven dav�
 <a id="claim-t-30608"></a>
 - t-001
   global_id: t-30608
-  teiginys: 'F. Gause yra trijų tomų veikalo „Die Geschichte Königsbergs“ autorius.'
+  teiginys: "F. Gause yra trijų tomų veikalo „Die Geschichte Königsbergs“ autorius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "253018-253576; hash=dde3930d1411e47592d7fe3d1eb3cf0ec572a53e7718b0b6406b652d46c195b0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "F. Gause: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"F. Gause\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-32921
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,8 +63,31 @@ R h o d e veikalas apie lenkų rytinę sieną (RhOP)^159 , Fr. Benninghoven dav�
 
     (^153) **K. Forstreuter :** **_Das Preussische Staatsarchiv in Königsberg.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-32921
+  citata_originali: |
+    Serijoje « Ostmittel­
+    europa in Vergangenheit und Gegenwart» pasirodė Lietuvos isto­
+    rijai svarbus G. R h o d e veikalas apie lenkų rytinę sieną (RhOP)^159 ,
+    Fr. Benninghoven davė studiją apie kalavijuočių ordiną
+    (BeOSch); Lietuvos žilai senovei tyrinėti įdomus yra Fr. Mager
+    veikalas^16 °, o apie I pasaulinį karą W. Conze 161 , ir paskutiniu
+    metu išsp. F. G a u s e 3 tomų veikalas _Die Geschichte Königsbergs._
+    Herderio instituto Marburge leidžiama istorinių veikalų serija (Wis-
+
+    (^153) **K. Forstreuter :** **_Das Preussische Staatsarchiv in Königsberg.
+  citata_rodoma: "R h o d e veikalas apie lenkų rytinę sieną (RhOP)^159 ,\nFr. Benninghoven davė studiją apie kalavijuočių ordiną\n(BeOSch); Lietuvos žilai senovei tyrinėti įdomus yra Fr. Mager\nveikalas^16 °, o apie I pasaulinį karą W. Conze 161 , ir paskutiniu\nmetu išsp. F. G a u s e 3 tomų veikalas _Die Geschichte Königsbergs._\nHerderio instituto Marburge leidžiama istorinių veikalų serija (Wis-\n\n(^153) **K."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-30608

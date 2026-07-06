@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - valstybė
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Meksika
 
@@ -18,13 +30,26 @@ De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argent
 ## Teiginiai
 
 <a id="claim-t-46992"></a>
-- t-001
+- t-002
   global_id: t-46992
-  teiginys: 'Meksika pateikiama kaip ispaniškosios kultūros laidos pavyzdys.'
+  teiginys: "Meksika pateikiama kaip ispaniškosios kultūros laidos pavyzdys."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "132696-133074; hash=6a6c5b586d6636ac1f7ecdd6399a31b341fa6caec7fa71876ee9ec1f8e9d690c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kanada: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Meksika: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kanada: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Meksika\" parinktas kaip owner_note_path. Targetas \"Kanada\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-49533
+- susijęs iš [[objektai/asmenys/Augustas Liudvikas fon Slėceris.md#claim-t-191119|Augustas Liudvikas fon Slėceris]]: Slėceris darė prielaidą, kad Otaitos, Peru ir Meksikos gyventojų žemesnis išsivystymas iš dalies siejosi su raitos medžioklės nežinojimu.
+- susijęs iš [[objektai/asmenys/Slėceris.md#claim-t-191180|Slėceris]]: Slėceris kėlė prielaidą, kad Otaitos, Peru ir Meksikos gyventojų išsivystymą galėjo riboti raitos medžioklės nežinojimas.
 - susijęs iš Lisabona: XVI–XVII a. Lisabona kartu su Roma ir Madridu skleidė katalikybės bei barokinės architektūros ir dailės įtaką iki Meksikos ir Paragvajaus.
 - susijęs iš Madridas: XVI–XVII a. Madridas tebespinduliavo katalikybės ir barokinės architektūros bei dailės šviesą iki Meksikos ir Paragvajaus.
+- susijęs iš [[objektai/autoriai/Augustas Liudvigas Šleceris.md#claim-t-190692|Augustas Liudvigas Šleceris]]: Augustas Liudvigas Šleceris rašė, kad prūsai prieš tūkstantį metų kavalerija nugalėdavo savo užpuolikus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -38,8 +63,27 @@ De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argent
     sikoje ar Argentinoje.
     Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-49533
+  citata_originali: |
+    Dėl šio proceso ir Lietuvos to meto kultūra vadinama „antrąja lenkų kul-
+    tūros laida“. Tokio reiškinio analogijos – angliškosios kultūros laida Ai-
+    rijoje (ką jau kalbėti apie JAV ir Australiją), daniškosios – Norvegijoje,
+    prancūziškosios – Kanados Kvebeke, ispaniškosios kultūros laidos Mek-
+    sikoje ar Argentinoje.
+    Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką.
+  citata_rodoma: "Tokio reiškinio analogijos – angliškosios kultūros laida Ai-\nrijoje (ką jau kalbėti apie JAV ir Australiją), daniškosios – Norvegijoje, \nprancūziškosios – Kanados Kvebeke, ispaniškosios kultūros laidos Mek-\nsikoje ar Argentinoje.\nLietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-46992

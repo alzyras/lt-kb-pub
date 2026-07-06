@@ -18,6 +18,18 @@ tags:
   - vyskupas
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Bonos Sforcos laiškas Senkai Tuhanovskiui dėl Onos Hlebavičienės nuostolių Nočioje (1533 m. spalio 23 d.)
 
@@ -30,17 +42,42 @@ amziai:
 <a id="claim-t-88243"></a>
 - t-001
   global_id: t-88243
-  teiginys: '1533 m. spalio 23 d. Vilniuje datuotu laišku Bona Sforca liepė Senkai Tuhanovskiui ištirti Onos Hlebavičienės patirtus nuostolius Nočioje.'
+  teiginys: "1533 m. spalio 23 d. Vilniuje datuotu laišku Bona Sforca liepė Senkai Tuhanovskiui ištirti Onos Hlebavičienės patirtus nuostolius Nočioje."
+  temporaliniai_duomenys: "įvykio data: 1533 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis tekstas yra antraštinis ir su OCR triukšmu, o citata pagrindžia laiško datą, adresatą ir pavedimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "722822-723614; hash=f0fb7a78777b2ca8b5a61ee8c6a2db232b1199017fecc821f10a924e7f3a5f2d; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bona Sforca: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bonos Sforcos laiškas Senkai Tuhanovskiui dėl Onos Hlebavičienės nuostolių Nočioje (1533 m. spalio 23 d.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Bona Sforca: mention_match, person, gap=7"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bonos Sforcos laiškas Senkai Tuhanovskiui dėl Onos Hlebavičienės nuostolių Nočioje (1533 m. spalio 23 d.)\" parinktas kaip owner_note_path. Targetas \"Bona Sforca\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-84223
 
 <a id="claim-t-88244"></a>
-- t-002
+- t-003
   global_id: t-88244
-  teiginys: '1533 m. spalio 23 d. Vilniuje rašytame Bonos Sforcos laiške įsakyta ištirti Onos Hlebavičienės nuostolius Nočioje.'
+  teiginys: "1533 m. spalio 23 d. Vilniuje rašytame Bonos Sforcos laiške įsakyta ištirti Onos Hlebavičienės nuostolius Nočioje."
+  temporaliniai_duomenys: "įvykio data: 1533 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko glaustą teiginį apie laiško turinį ir datą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "723616-725347; hash=b87c2d938a01e5dfbbb6fc2b043fd87ecc73be9a0808876dd84c752125a00b0b; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antspaudas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bonos Sforcos laiškas Senkai Tuhanovskiui dėl Onos Hlebavičienės nuostolių Nočioje (1533 m. spalio 23 d.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Antspaudas: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bonos Sforcos laiškas Senkai Tuhanovskiui dėl Onos Hlebavičienės nuostolių Nočioje (1533 m. spalio 23 d.)\" parinktas kaip owner_note_path. Targetas \"Antspaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-84222
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -89,6 +126,7 @@ amziai:
     Sigismundus DEI gratia Rex Pol oniae Magnus Dux Litu-
     aniae, Russiae, totiusq.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -123,8 +161,93 @@ amziai:
     MAZOVIJOS IR KITŲ KUNIGAIKŠTIENĖ
     Jo Malonybei karaliaus dvariškiui Senkai Tuhanovskiui.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-84222
+  citata_originali: |
+    Mums skundėsi Polocko vaivadienė ponia Ona Jonienė
+    Hlebavičienė, buvusi Ona Jurjevaitė, esą jos Nočios valdoje,
+    esančioje ties Kłecku, buvo padaryta daug nuostolių ir ža­
+    los mūsų žmonių Senevlianų, užgrobiant jos žemes, miškus
+    ir pievas ir daugelį kitų dalykų ir, be to, esą tie patys mūsų
+    žmonės, Senevlianai, jai perkasę ir užteršę jos nuosavą kūd­
+    rą, kurią ji ten, Nočioje, turėjo, dėl ko jai padaryta nemaža
+    žala, todėl mes, norėdami jai tuo parodyti teisingumą už
+    mūsų valdinių rankomis padarytą žalą, įsakėme į ten išva­
+    žiuoti komisarui mūsų dvariškiui kunigaikščiui Timofiejui
+    Puzinai, kad ponia vaivadienė Ona paimtų pati tave savo
+    teisėje ir tu su mūsų komisaru nusiųstu ir bendrai sutaikę
+    —  • —
+    376
+
+    ## Puslapis 393
+
+    IV KNYGA
+    pasakytum, kad turite paklusti teisei, pagal rašytus žemės
+    įstatymus iškeltumėte ir mūsų Pinsko ir Kobrino seniūnui
+    ponui Ivanui Michailovičiui apie tai po kurio laiko praneš­
+    tumėte ir apie visus tuos nuostolius, ir žemių, miškų ir pie­
+    vų aukščiau paminėtų grobimą ir ponios Jonienės kūdros
+    perkasimą su mūsų žmonėmis apžiūrėtumėte ir teisingumą
+    ten įvykdytumėte, kaip atrodys teisinga pagal Dievą ir jūsų
+    sąžinę taip, kad nenukentėtų nė viena pusė, kad mums dėl
+    to ponia Ona daugiau nesiskųstų. Rašyta Vilniuje Viešpa­
+    ties gimimo metais 1533 spalio mėnesio 23 dieną, 7 indikte.
+    M.P. Valerijonas
+
+    ## Puslapis 394
+
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    ŽYGIMANTO SENOJO RAŠTAS VILNIAUS MAGISTRATUI,
+    RAŠYTAS ANT POPIERIAUS SU PRISPAUSTU ANTSPAUDU
+    1538 METŲ BALANDŽIO 6-Ą, DĖL VYSKUPO NESIKIŠIMO
+    J TARNAUJANČIŲJŲ MIESTO JURISDIKCIJOJE TEISES
+    1533 METAIS
+    (Iš Vilniaus kapitulos archyvo rankraščių)
+    Sigismundus DEI gratia Rex Pol oniae Magnus Dux Litu-
+    aniae, Russiae, totiusq.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88244
+
+- id: c-84223
+  citata_originali: |
+    1514
+    ---- • ---
+    375
+
+    ## Puslapis 392
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    KARALIENĖ BONA,
+    1533 metų spalio mėnesio 23 dieną, 7 indikte,
+    rusų kalka Vilniuje datuotu laišku, su parašu Walerijan
+    (tikriausiai tai turėjo kūti raštininkas) ir prispaustu antspaudu;
+    antspaude yra Erelis, Vytis kei dvi dalys
+    itališkosios giminės kerko, aplink įrašas lotyniškai:
+    BONA Sfor. A... REGINA POL ... [Bona SU, ..Lenk...
+    karalienė....], liepia karališkajam dvariškiui Tukanovskiui
+    išnagrinėti karalienės valdinių padarytus nuostolius
+    Polocko vaivadienei Onai Hlekavičienei jos valdoje Nočioje
+    ties Kłecku
+    (Iš Radvilų archyvo)
+    BONA, DIEVO MALONE LENKIJOS KARALIENĖ,
+    DIDŽIOJI LIETUVOS, RUSIOS, PRŪSIJOS, ŽEMAITIJOS,
+    MAZOVIJOS IR KITŲ KUNIGAIKŠTIENĖ
+    Jo Malonybei karaliaus dvariškiui Senkai Tuhanovskiui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88243

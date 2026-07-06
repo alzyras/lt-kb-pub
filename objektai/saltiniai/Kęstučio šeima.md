@@ -13,6 +13,18 @@ tags:
   - saltinis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kęstučio šeima
 
@@ -25,10 +37,15 @@ amziai:
 <a id="claim-t-100180"></a>
 - t-001
   global_id: t-100180
-  teiginys: '„Kęstučio šeima“ buvo paskelbta žurnalo „Mūsų Žinynas“ 1933 m. 98–99 numeriuose.'
+  teiginys: "„Kęstučio šeima“ buvo paskelbta žurnalo „Mūsų Žinynas“ 1933 m. 98–99 numeriuose."
+  temporaliniai_duomenys: "įvykio data: 1933 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko bibliografinį faktą apie publikavimo vietą ir laiką."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "710876-710946; hash=e8ad40b3a6e5cfd3b3611f5e9d45070543bd5936feb13959daf2fbfdd5258f2c; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
-
+    - c-31671
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -38,8 +55,22 @@ amziai:
     — (”) _Kęstučio šeima,_ Mūsų Žinynas, 1933, nr. 98-99. —
     Veblaitis, P.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-31671
+  citata_originali: |
+    — (”) _Kęstučio šeima,_ Mūsų Žinynas, 1933, nr. 98-99. —
+    Veblaitis, P.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-100180

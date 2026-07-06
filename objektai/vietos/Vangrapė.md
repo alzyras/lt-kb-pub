@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - ežeras
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vangrapė
 
@@ -20,16 +32,24 @@ Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrap�
 <a id="claim-t-58648"></a>
 - t-001
   global_id: t-58648
-  teiginys: 'Juos sulaikė išdavikas, tikindamas, kad prie Vangrapės391 juos tikriausiai užtiksią.'
+  teiginys: "Juos sulaikė išdavikas, tikindamas, kad prie Vangrapės391 juos tikriausiai užtiksią."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "406528-406815; hash=53daa7fe40d869de6de16629453f9165c0b902ae80545d824e4633ea99a01b0f; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
-    - c-002
+    - c-59281
 
 <a id="claim-t-58649"></a>
 - t-002
   global_id: t-58649
-  teiginys: 'Vangrapė, dar vadinta Ungurupe arba Unguriške, išteka iš Mamrų ežero ir šiaurėje siekia Įsruties apylinkes.'
+  teiginys: "Vangrapė, dar vadinta Ungurupe arba Unguriške, išteka iš Mamrų ežero ir šiaurėje siekia Įsruties apylinkes."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "408862-409176; hash=ad03a4fb87480cfdbfc434f8c2dfb5098d1e49edca2be35fcdf9f6c53d14c986; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
+    - c-59280
 - susijęs iš [[objektai/autoriai/Basanavičius J.md#claim-t-64568|Basanavičius J]]: Basanavičiaus veikale nurodomas Vangrapės upės kilpoje, apie 400 m į pietus nuo Tamoviškių, žinomas Kampsvykalnio piliakalnis.
 - susijęs iš Basanavičius J., Iš gyvenimo vėlių: Basanavičiaus veikalo puslapiai 190–191 nurodomi prie Kampsvykalnio piliakalnio Vangrapės krante, į pietus nuo Tamoviškių.
 - susijęs iš Arsa: Arsa resp. Arsė tapatinta ir su Vangrape (Tepenas M.).
@@ -53,6 +73,7 @@ Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrap�
     Vengorapa), ištekanti iš Mamrų ežero, šiaurėje siekianti Įsruties (dab. Černiachovskas)
     apylinkes. Aprašytos kautynės įvyko, matyt, kiek į šiaurę nuo Mamrų ežero.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -68,8 +89,38 @@ Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrap�
     juos tikriausiai užtiksią. Artėjančius prie tos vietos staiga užgriuvo priešai, kaip iš anksto
     buvo susitarę.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-59280
+  citata_originali: |
+    391 D.— Wangrapia, Jer.— an der Wangrapien; vėliau — Angerapp. Vangrapė
+    (literatūroje — Ungurupė arba Unguriškė, dab. Kaliningrado srt.— Angrapa, LLR —
+    Vengorapa), ištekanti iš Mamrų ežero, šiaurėje siekianti Įsruties (dab. Černiachovskas)
+    apylinkes. Aprašytos kautynės įvyko, matyt, kiek į šiaurę nuo Mamrų ežero.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58649
+
+- id: c-59281
+  citata_originali: |
+    Pritardami šiai nuomonei, broliai su kariuomene greitai patraukė į priekį, tačiau, jų
+    nepaviję, sugalvojo grįžti atgal. Juos sulaikė išdavikas, tikindamas, kad prie Vangrapės391
+    juos tikriausiai užtiksią. Artėjančius prie tos vietos staiga užgriuvo priešai, kaip iš anksto
+    buvo susitarę.
+  citata_rodoma: "Juos sulaikė išdavikas, tikindamas, kad prie Vangrapės391\njuos tikriausiai užtiksią. Artėjančius prie tos vietos staiga užgriuvo priešai, kaip iš anksto\nbuvo susitarę."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58648

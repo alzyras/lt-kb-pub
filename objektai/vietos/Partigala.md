@@ -9,6 +9,18 @@ tags:
   - kunigaikštis
   - pilis
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Partigala
 
@@ -19,25 +31,49 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
 ## Teiginiai
 
 <a id="claim-t-58466"></a>
-- t-001
+- t-003
   global_id: t-58466
-  teiginys: 'Kunigaikštis ir broliai su kariuomene paėmė Partigalos pilį ir kuorą, juos sudegino, o žmones išsivedė į nelaisvę arba išžudė.'
+  teiginys: "Kunigaikštis ir broliai su kariuomene paėmė Partigalos pilį ir kuorą, juos sudegino, o žmones išsivedė į nelaisvę arba išžudė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "269384-270143; hash=81e3145cf2f0674c9869fcab8116317c6580e310e83657c98c8642c140b64b53; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baiga: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Partigala: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Baiga: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Partigala\" parinktas kaip owner_note_path. Targetas \"Baiga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-59099
 
 <a id="claim-t-58467"></a>
-- t-002
+- t-001
   global_id: t-58467
-  teiginys: 'Varmės žemėje gyvenę Gubučiai sutelkė daug karių ir to paties vardo lauke pastatė Partigalos pilį.'
+  teiginys: "Varmės žemėje gyvenę Gubučiai sutelkė daug karių ir to paties vardo lauke pastatė Partigalos pilį."
+  semantiniai_rysiai: "Gubučiai pastatė Partigala (0.95); Gubučiai gyveno Varmė (0.94)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "266024-266419; hash=46ec56592ef2894a0eebc7ca2ec71675ca93a9e6ad232a7c833e74fbc492786a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Partigala: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gubučiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Partigala: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Gubučiai tiesiogiai įvardyti kaip Partigalos pilies statytojai."
   pagrindžia:
-    - c-003
+    - c-59100
 
 <a id="claim-t-58468"></a>
-- t-003
+- t-002
   global_id: t-58468
-  teiginys: 'Partigala vėliau vadinta Partheinen ir buvo į pietryčius nuo Balgos, kur išliko pilies kalnas.'
+  teiginys: "Partigala vėliau vadinta Partheinen ir buvo į pietryčius nuo Balgos, kur išliko pilies kalnas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "267368-267630; hash=dde36d04769bece9f2efd3a4f9601885ae7cf5e93e8d6b8b5d0e924f0d1d7091; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
+    - c-59098
 - susijęs iš Skrando kalnas: Gubučiai Skrando kalne pastatė įtvirtintą kuorą ir sustiprino jį kariais.
 - susijęs iš [[objektai/ivykiai/Partigalos pilies ir Skrando kuoro pastatymas.md#claim-t-91917|Partigalos pilies ir Skrando kuoro pastatymas]]: Varmės galingieji Gubučiai sutelkė daug karių, pastatė Partigalos pilį ir Skrando kalne įrengė kuorą.
 - susijęs iš [[objektai/zodynas/kuoras propugnaculum pilaitė.md#claim-t-184006|kuoras propugnaculum pilaitė]]: Gubučiai Varmės žemėje pastatė Partigalos pilį ir kuorą Skrando kalne, sustiprindami jį įvairiais kariais.
@@ -62,6 +98,7 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
     plg. Bateinen (Bateiniai—Weber L., Preussen..., p. 491; dėl pastarojo vardo žr. GAO, p.
     17).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -82,6 +119,7 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
     pilyje, kunigaikštis tais metais ne sykį grūmėsi kovos lauke su prūsais ir daug kartų
     taip kamavo prusus, kad tie nė atsikvėpti negalėjo.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -99,11 +137,62 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
     [propugnaculum[ Skrando kalne250, sustiprinę  jį visokiais  kariais. Šie kasdien taip
     puldinėjo Baigos pilies brolius, kad niekas nedrįso rodytis už pilies sienų.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-59098
+  citata_originali: |
+    250 D.— castrum dictum Partegal, Jer.— hûs [...] Partegal. Vėliau — Partheinen
+    (Parteiniai) į pietryčius nuo Balgos. Išliko pilies kalnas (HE, p. 110; GAO, p. 131, 116);
+    plg. Bateinen (Bateiniai—Weber L., Preussen..., p. 491; dėl pastarojo vardo žr. GAO, p.
+    17).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58468
+
+- id: c-59099
+  citata_originali: |
+    Pomando patariami, susirinko visi Varmės, Notangos, Bartos galingesnieji bei kiti kariauti
+    pasirengę vyrai ir apsupo Baigos pilį, įsitaisę čia karo stovyklas, tačiau broliai, iš anksto
+    žinodami, ką jie daro ir kaip tvarkosi, sutelkė minėtojo Braunšveigo kunigaikščio bei kitų
+    maldininkų jėgas ir pakilo į kovę, ir visus išžudė, nepalikdami nė vieno, kuris tokį įvykį
+    galėtų papasakoti busimosioms kartoms. Sitai padarę, kunigaikštis bei broliai su savo
+    kariuomene patraukė prie Partigalos pilies ir prie kuoro, juos paėmė, viską paversdami
+    pelenais, o žmones išsivesdami  į nelaisvę arba išžudydami. Toliau būdamas Baigos
+    pilyje, kunigaikštis tais metais ne sykį grūmėsi kovos lauke su prūsais ir daug kartų
+    taip kamavo prusus, kad tie nė atsikvėpti negalėjo.
+  citata_rodoma: "Sitai padarę, kunigaikštis bei broliai su savo\nkariuomene patraukė prie Partigalos pilies ir prie kuoro, juos paėmė, viską paversdami\npelenais, o žmones išsivesdami  į nelaisvę arba išžudydami. Toliau būdamas Baigos\npilyje, kunigaikštis tais metais ne sykį grūmėsi kovos lauke su prūsais ir daug kartų\ntaip kamavo prusus, kad tie nė atsikvėpti negalėjo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58466
+
+- id: c-59100
+  citata_originali: |
+    23. Apie Partigalos pilies ir Skrando kuoro pastatymą
+
+      Varmės žemėje gyveno labai galingi vyrai, vardu Gubučiai249, labai pavojingi broliams;
+    jie, sutelkę daug karių, pastatė pilį, vardu Partigala, to pat vardo lauke, o kitą kuorą
+    [propugnaculum[ Skrando kalne250, sustiprinę  jį visokiais  kariais. Šie kasdien taip
+    puldinėjo Baigos pilies brolius, kad niekas nedrįso rodytis už pilies sienų.
+  citata_rodoma: "Apie Partigalos pilies ir Skrando kuoro pastatymą\n\n  Varmės žemėje gyveno labai galingi vyrai, vardu Gubučiai249, labai pavojingi broliams;\njie, sutelkę daug karių, pastatė pilį, vardu Partigala, to pat vardo lauke, o kitą kuorą\n[propugnaculum[ Skrando kalne250, sustiprinę  jį visokiais  kariais. Šie kasdien taip\npuldinėjo Baigos pilies brolius, kad niekas nedrįso rodytis už pilies sienų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58467
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Gubučiai]]

@@ -15,6 +15,18 @@ tags:
   - sutartis
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Dovydiškių sutarties sudarymas
 
@@ -44,39 +56,97 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
 ## Teiginiai
 
 <a id="claim-t-12402"></a>
-- t-001
+- t-006
   global_id: t-12402
-  teiginys: 'Vytautas dalyvavo medžioklėje, bet slaptos sutarties sudarymo nepajuto; jo dalyvavimu Jogaila prisidengė nuo Kęstučio įtarimų.'
+  teiginys: "Vytautas dalyvavo medžioklėje, bet slaptos sutarties sudarymo nepajuto; jo dalyvavimu Jogaila prisidengė nuo Kęstučio įtarimų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "199575-199844; hash=8ffef613cf0820537a03427b132ed375a954120d96f2ae672ff52619d752baef; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dovydiškių sutarties sudarymas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=43"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dovydiškių sutarties sudarymas\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-14177
 
 <a id="claim-t-66523"></a>
-- t-002
+- t-004
   global_id: t-66523
-  teiginys: 'Ivinskis pabrėžia, kad Dovydiškių sutartis palieka svarbių neatsakytų klausimų dėl Vytauto žinojimo ir Jogailos laikysenos.'
+  teiginys: "Ivinskis pabrėžia, kad Dovydiškių sutartis palieka svarbių neatsakytų klausimų dėl Vytauto žinojimo ir Jogailos laikysenos."
+  semantiniai_rysiai: "Kryžiuočių ordinas puolė Kęstutis (vakarų pasienio valdovas, XIV–XV a.) (0.64)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "751605-752131; hash=2f712e9f711a6f4f430bea2302ae810cc0331a5f8e09a996da1c86733b9cbe0c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.64"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai mini ordino užpuolimą Kęstučio žemėse, tačiau objektas yra Kęstutis, nes žemių kandidato nėra."
   pagrindžia:
-    - c-002
+    - c-66735
 
 <a id="claim-t-66524"></a>
-- t-003
+- t-002
   global_id: t-66524
-  teiginys: '1380 m. gegužės 31 d. Jogaila slapta sudarė Dovydiškių sutartį su kryžiuočiais medžioklės metu, turbūt arti Gardino.'
+  teiginys: "1380 m. gegužės 31 d. Jogaila slapta sudarė Dovydiškių sutartį su kryžiuočiais medžioklės metu, turbūt arti Gardino."
+  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) sudarė sutartį su Kryžiuočių ordinas (0.93)"
+  temporaliniai_duomenys: "įvykio data: 1380 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "750817-751219; hash=3e99c317043ad48afd31f7261a2f6900275479b095a9d5afe7aad822fa366643; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Jogaila sudarė sutartį su kryžiuočiais."
   pagrindžia:
-    - c-003
+    - c-66736
 
 <a id="claim-t-66525"></a>
-- t-004
+- t-006
   global_id: t-66525
-  teiginys: '1380 m. Jogaila slapta, be Kęstučio žinios, sudarė Dovydiškių sutartį su ordinu tam surengtoje medžioklėje.'
+  teiginys: "1380 m. Jogaila slapta, be Kęstučio žinios, sudarė Dovydiškių sutartį su ordinu tam surengtoje medžioklėje."
+  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) sudarė sutartį su Kryžiuočių ordinas (0.91)"
+  temporaliniai_duomenys: "įvykio data: 1380 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys remiasi neaiškiais įvardžiais ir konteksto fragmentais, todėl reikia įvardyti veikėjus ir veiksmą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "199575-199844; hash=8ffef613cf0820537a03427b132ed375a954120d96f2ae672ff52619d752baef; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Jogaila sudarė sutartį su visu ordinu."
   pagrindžia:
-    - c-004
+    - c-66737
 
 <a id="claim-t-66526"></a>
-- t-005
+- t-003
   global_id: t-66526
-  teiginys: 'Dovydiškių sutartimi Kęstučio žemės buvo išskirtos ir paliktos tolesniems ordino naikinimams.'
+  teiginys: "Dovydiškių sutartimi Kęstučio žemės buvo išskirtos ir paliktos tolesniems ordino naikinimams."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "751220-751498; hash=d949b31cff489a889414b117d3880ba287cc8fb05ac978f7ca975fbce20f68a1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dovydiškių sutarties sudarymas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=74"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dovydiškių sutarties sudarymas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-66738
 - susijęs iš [[objektai/ivykiai/Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.).md#claim-t-54161|Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.)]]: Dovydiškių sutartimi pagoniškosios Kęstučio žemės buvo išskirtos ir paliktos tolesniems naikinimams.
 - susijęs iš Gardinas: Dovydiškių sutartis 1380 m. gegužės 31 d. slapta surašyta medžioklės metu Dovydiškėse, turbūt arti Gardino.
 - susijęs iš Gardinas: Dovydiškių sutartis buvo slapta surašyta medžioklės metu Dovydiškėse, turbūt arti Gardino, 1380 m. gegužės 31 d.
@@ -91,6 +161,7 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
     rymo nepajuto. Jo dalyvavimu, be abejo, Jogaila norėjo prisi­
     dengti nuo visų Kęstučio įtarimų.
   citata_rodoma: ''
+  teiginio_tipas: interpretacija
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -109,8 +180,9 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
     žemes, Jogaila atvyktų su kariuomene. Tik jis turi nestoti į kau­
     tynes. Šituo slaptu dokumentu Lietuvoje tarp kunigaikščių buvo
   citata_rodoma: ''
+  teiginio_tipas: interpretacija
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -126,8 +198,9 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
     buvo surašytas slapta, medžioklės metu Dovydiškėse, tur būt, arti
     Gardino (1380.V.31).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -142,6 +215,7 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
     reikalui suruoštoje medžioklėje; nuo pasirašymo vietos ji va-
     dinama Dovydiškių sutartimi.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -157,8 +231,87 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
     sutartimi pagoniškosios Kęstučio žemės buvo išskirtos ir toliau
     paliktos naikinimams.
   citata_rodoma: ''
+  teiginio_tipas: interpretacija
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
+## Citatos
+
+- id: c-14177
+  citata_originali: |
+    Kad susitarimas neišeitų aikštėn, reikia taip da­
+    ryti, tartum belaisviai būtų išperkami už pinigus. Nors Vytau­
+    tas ir dalyvavo medžioklėje, bet šitos slaptos sutarties suda­
+    rymo nepajuto. Jo dalyvavimu, be abejo, Jogaila norėjo prisi­
+    dengti nuo visų Kęstučio įtarimų.
+  citata_rodoma: "tas ir dalyvavo medžioklėje, bet šitos slaptos sutarties suda­\nrymo nepajuto. Jo dalyvavimu, be abejo, Jogaila norėjo prisi­\ndengti nuo visų Kęstučio įtarimų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-12402
+
+- id: c-66735
+  citata_originali: |
+    Dovydiškių sutartis palieka svarbių neatsakytų klausimų. Jeigu
+    Vytautas žinojo, kas buvo dokumente surašyta, tad ir jis drauge
+    su pusbroliu senelį Kęstutį apgaudinėjo. Sutartyje, pvz., yra punk­
+    tas, jog per klaidą Jogailos žemėse paimti belaisviai turi būti grą­
+    žinami, bet tai atliekama tokiu būdu, lyg jie butų išperkami. Su­
+    tartis neturėjo skaitytis sulaužyta, jei, ordinui užpuolus Kęstučio
+    žemes, Jogaila atvyktų su kariuomene. Tik jis turi nestoti į kau­
+    tynes. Šituo slaptu dokumentu Lietuvoje tarp kunigaikščių buvo
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66523
+
+- id: c-66736
+  citata_originali: |
+    Savo sunkią padėtį Jogaila stengėsi lengvinti trimis naujomis
+    sutartimis. Tęsdamas tėvo prieš Maskvą nukreiptą politiką, jis su­
+    darė sąjungą su chanu Mamajumi ir su Riazanės kunigaikščiu
+    Olegu Jonaičiu. Svarbesnė buvo jo nauja taikos sutartis su kry­
+    žiuočiais — per 8 mėnesius iš eilės jau trečias dokumentas. Jis
+    buvo surašytas slapta, medžioklės metu Dovydiškėse, tur būt, arti
+    Gardino (1380.V.31).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66524
+
+- id: c-66737
+  citata_originali: |
+    Bet tais pačiais (1380) metais Jogaila padarė naują
+    sutartį su visu ordinu. Ji buvo padaryta slaptai, be Kęstučio ži-
+    nios. Kad šis nieko nesuprastų, ji buvo pasirašyta tyčia tam
+    reikalui suruoštoje medžioklėje; nuo pasirašymo vietos ji va-
+    dinama Dovydiškių sutartimi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66525
+
+- id: c-66738
+  citata_originali: |
+    Veikliojo magistro Kniprodės išvystytoji sutarčių politika su
+    pagonimis, su kuriais kryžiuočiai dešimtmečiais tik kardo smūgiais
+    tebuvo kalbėjęsi, žadėjo pasisekimų, juo labiau, kad Dovydiškių
+    sutartimi pagoniškosios Kęstučio žemės buvo išskirtos ir toliau
+    paliktos naikinimams.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66526

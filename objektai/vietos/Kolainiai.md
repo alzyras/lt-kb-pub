@@ -8,6 +8,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kolainiai
 
@@ -18,18 +30,41 @@ Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo 
 ## Teiginiai
 
 <a id="claim-t-02501"></a>
-- t-001
+- t-003
   global_id: t-02501
-  teiginys: 'Kolainių mokykla buvo uždaryta kartu su Kalvarijos ir Padubysio mokyklomis.'
+  teiginys: "Kolainių mokykla buvo uždaryta kartu su Kalvarijos ir Padubysio mokyklomis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "937618-937895; hash=422e79d66d6d0e84f3aa140b4890e611c58df09fe4508a5bd13c6bf6e3c7e1e7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kalvarija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kolainiai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kalvarija: mention_match, place, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kolainiai\" parinktas kaip owner_note_path. Targetas \"Kalvarija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-166423
 
 <a id="claim-t-184989"></a>
-- t-002
+- t-003
   global_id: t-184989
-  teiginys: 'Apie balandžio vidurį Prūsijos magistras Meinhardas apgulė Kolainius, Lietuvos pilį prie Nemuno pakrantės arčiausiai Prūsijos.'
+  teiginys: "Apie balandžio vidurį Prūsijos magistras Meinhardas apgulė Kolainius, Lietuvos pilį prie Nemuno pakrantės arčiausiai Prūsijos."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "937618-937895; hash=422e79d66d6d0e84f3aa140b4890e611c58df09fe4508a5bd13c6bf6e3c7e1e7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kolainiai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kolainiai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-168350
 - susijęs iš [[objektai/ivykiai/Kolainių pilies puolimas (1290 m.).md#claim-t-70947|Kolainių pilies puolimas (1290 m.)]]: 1290 m. balandžio 23 d. Meinhardas su 500 raitelių ir 2 tūkst. pėstininkų puolė Kolainių pilį, kurią gynė Surminas su 120 vyrų.
 - susijęs iš [[objektai/asmenys/Surminas.md#claim-t-60001|Surminas]]: Kolainių pilininkas Surminas sušaukė pilėnus tartis, kaip apgauti pro pilį laivais plaukusius Ordino brolius.
 - susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59877|Bertoldas, vadinamas Briuhavenu]]: 1291 m. Karaliaučiaus komtūras Bertoldas Bruhavenas su broliais ir 1500 vyrų sudegino tuščią Kolainių pilį.
@@ -89,6 +124,7 @@ Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo 
     ta į Kauną. Uždarytų mokyklų vietoje veltui buvo bandomos
     kurti rusiškos mokyklos: jos neturėdavo mokinių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -111,11 +147,50 @@ Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo 
     niokoti, o du tūkstančiai pėstininkų atkakliai puolė
     apsuptą pilį.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-166423
+  citata_originali: |
+    Visa tai buvo daroma rusiškajam gaivalui su-
+    stiprinti.
+
+    Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir
+    Kolainių mokyklos buvo uždarytos, o Kražių mokykla perkel-
+    ta į Kauną. Uždarytų mokyklų vietoje veltui buvo bandomos
+    kurti rusiškos mokyklos: jos neturėdavo mokinių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-02501
+
+- id: c-168350
+  citata_originali: |
+    Už žalą, padarytą per šį niokojamą iš­
+    puolį Sembai, lietuviams buvo atsilyginta kitais ir dar
+    kokios ypatingos progos pasiplėšti, ir vieni, ir kiti vi­
+    są laiką rengė karo žygius; ir vieni, ir kiti, tuo būdu
+    kariaudami, smogė nemažai stiprių smūgių. Pirmiausia
+    ėmėsi kariauti Meinhardas, Prūsijos magistras, apie
+    balandžio vidurį apgulęs Kolainius, arčiausiai Prūsijos
+    Nemuno pakrantėje esančią Lietuvos pilį. Penki šim­
+    tai riterių buvo išsiųsta iš stovyklos aplinkinių kaimų
+    niokoti, o du tūkstančiai pėstininkų atkakliai puolė
+    apsuptą pilį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184989
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Surminas]]

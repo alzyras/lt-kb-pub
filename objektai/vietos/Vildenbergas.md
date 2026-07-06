@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vildenbergas
 
@@ -19,9 +31,21 @@ Dusburgietis teigia, kad vildenbergas Vildenbergas (prie Nogato; Wildenbergk, Wi
 <a id="claim-t-58748"></a>
 - t-001
   global_id: t-58748
-  teiginys: 'Vildenbergas Vildenbergas (prie Nogato; Wildenbergk, Wildinberc; vėliau Willenberg, dab.'
+  teiginys: "Vildenbergas Vildenbergas (prie Nogato; Wildenbergk, Wildinberc; vėliau Willenberg, dab."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "866700-866857; hash=b58db23f6ab6c9fb97e68dc7c80cf27273ee416629d0f4ef58b74bb948d09358; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Viljandis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vildenbergas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Viljandis: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vildenbergas\" parinktas kaip owner_note_path. Targetas \"Viljandis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
-    - c-001
+    - c-59380
 - susijęs iš [[objektai/asmenys/Fridrichas fon Vildenbergas.md#claim-t-87501|Fridrichas fon Vildenbergas]]: Krašto magistras Fridrichas fon Vildenbergas su 150 Ordino riterių nuvedė kariuomenę į Vaikius Žemaitijoje.
 - susijęs iš [[objektai/asmenys/Fridrichas fon Vildenbergas.md#claim-t-87502|Fridrichas fon Vildenbergas]]: 1324 m. Mevėje magistras Fridrichas fon Vildenbergas liepė parengti mažesniųjų brolių laiško nuorašą.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Vildenbergo.md#claim-t-60279|Fridrichas iš Vildenbergo]]: 1322 m. Fridrichas iš Vildenbergo, pavadavęs didįjį magistrą, su Ordino kariuomene žiemą įsiveržė į Vaikių valsčių.
@@ -45,8 +69,25 @@ Dusburgietis teigia, kad vildenbergas Vildenbergas (prie Nogato; Wildenbergk, Wi
        Viljandis
        Vilka (Vilkė), u.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-59380
+  citata_originali: |
+    Vildenbergas
+      Vildenbergas (prie Nogato; Wildenbergk, Wildinberc; vėliau Willenberg, dab. Vilbarkas,
+    piet. Malborko dalis)
+       Viljandis
+       Vilka (Vilkė), u.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58748

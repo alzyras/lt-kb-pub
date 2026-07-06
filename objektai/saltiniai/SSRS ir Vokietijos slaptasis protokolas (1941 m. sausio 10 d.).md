@@ -15,6 +15,18 @@ tags:
   - saltinis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # SSRS ir Vokietijos slaptasis protokolas (1941 m. sausio 10 d.)
 
@@ -27,10 +39,22 @@ Berlynas ir Maskva susitarė kol kas pietvakarinių lietuvių žemių klausimo n
 <a id="claim-t-21248"></a>
 - t-001
   global_id: t-21248
-  teiginys: '1941 m. sausio 10 d. slaptuoju protokolu SSRS iš Vokietijos už 7,5 mln. aukso dolerių nusipirko pietvakarines lietuvių žemes.'
+  teiginys: "1941 m. sausio 10 d. slaptuoju protokolu SSRS iš Vokietijos už 7,5 mln. aukso dolerių nusipirko pietvakarines lietuvių žemes."
+  temporaliniai_duomenys: "įvykio data: 1920 m.; įvykio data: 1926 m.; įvykio data: 1941 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs; citata leidžia suformuluoti pilną sakinį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "373108-373704; hash=eaa427c83a4e596ddcf04835e558e03a7c61de8125a1070e4fe47bb61a74526b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "SSRS ir Vokietijos slaptasis protokolas (1941 m. sausio 10 d.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=79"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"SSRS ir Vokietijos slaptasis protokolas (1941 m. sausio 10 d.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-23952
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,8 +70,30 @@ Berlynas ir Maskva susitarė kol kas pietvakarinių lietuvių žemių klausimo n
     1941 m. sausio 10 d. SSRS pagal dar vieną slaptą protokolą jas nusipirks iš
     Vokietijos už 7,5 mln. aukso dolerių).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-23952
+  citata_originali: |
+    Nors paktas minėjo Lietu-
+    vos ir Sovietų Rusijos 1920 m. ir 1926 m. sutartis kaip bazinius dvišalių
+    santykių dokumentus, kiti sutarties straipsniai potencialiai grėsė Lietuvos
+    nepriklausomybei. Lietuva gavo 6,7 tūkst. kv. km teritoriją su Vilniumi
+    ir apie 0,5 mln. gyventojų – tik penktadalį užfiksuotos 1920 m. sutartyje
+    teritorijos, o už tai turėjo įsileisti karines sovietų bazes. Berlynas ir Mas-
+    kva susitarė kol kas pietvakarinių lietuvių žemių klausimo neliesti (beje,
+    1941 m. sausio 10 d. SSRS pagal dar vieną slaptą protokolą jas nusipirks iš
+    Vokietijos už 7,5 mln. aukso dolerių).
+  citata_rodoma: "kva susitarė kol kas pietvakarinių lietuvių žemių klausimo neliesti (beje,"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-21248

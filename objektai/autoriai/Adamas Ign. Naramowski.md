@@ -15,6 +15,18 @@ amziai:
   - 'XVIII'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Adamas Ign. Naramowski
 
@@ -25,18 +37,40 @@ Adamas Ign. Naramowski siejamas su Vilniuje 1726 m. išleistu veikalu „Facies 
 ## Teiginiai
 
 <a id="claim-t-54630"></a>
-- t-001
+- t-002
   global_id: t-54630
-  teiginys: 'Naramowskis parašė platų istorijos veikalą, naudotą žinioms apie Vilniaus vyskupus.'
+  teiginys: "Naramowskis parašė platų istorijos veikalą, naudotą žinioms apie Vilniaus vyskupus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "401765-402286; hash=686bc7a370c7ea5933dc567bff89d03f46da87a41fc31cdd80db06edf2beee6b; match=whitespace_regex"
+  sprendimo_priezastis: "gap::authors"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Adamas Ign. Naramowski: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=65"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adamas Ign. Naramowski\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-55539
 
 <a id="claim-t-54631"></a>
-- t-002
+- t-001
   global_id: t-54631
-  teiginys: 'Adamas Ign. Naramowski siejamas su 1726 m. Vilniuje išleistu „Facies rerum Sarmaticarum“.'
+  teiginys: "Adamas Ign. Naramowski siejamas su 1726 m. Vilniuje išleistu „Facies rerum Sarmaticarum“."
+  temporaliniai_duomenys: "įvykio data: 1726 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "402854-403016; hash=49247a19de2504af5e9a0f176af595c3d757c21f31aaf1f0bd6a829743cb34e9; match=whitespace_regex"
+  sprendimo_priezastis: "gap::authors"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Adamas Ign. Naramowski: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=43"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adamas Ign. Naramowski\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-55538
 - susijęs iš [[objektai/autoriai/Petras Kojelavičius.md#claim-t-88013|Petras Kojelavičius]]: Kojelavičius ir Naramovskis klaidingai vadino vyskupą Mikalojų Borkovskiu, nors jis buvo Gožkovskis.
 ## Reikšmingi paminėjimai
 
@@ -49,8 +83,9 @@ Adamas Ign. Naramowski siejamas su Vilniuje 1726 m. išleistu veikalu „Facies 
     Ign. Naramowski, etc. Vilnae, 1726.
     Lib. Il, p. 346.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -69,8 +104,46 @@ Adamas Ign. Naramowski siejamas su Vilniuje 1726 m. išleistu veikalu „Facies 
     čiaus, jėzuito2. Kitas žinomas platus istorinis veikalas, taip
     pat jėzuito Naramovskio3.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-55538
+  citata_originali: |
+    Facies rerum Sarmaticarum in facie
+    Regni Poloniae, Magnique Ducatus Li-
+    tuaniae expressa, per R. P. Adamum
+    Ign. Naramowski, etc. Vilnae, 1726.
+    Lib. Il, p. 346.
+  citata_rodoma: "Facies rerum Sarmaticarum in facie \nRegni Poloniae, Magnique Ducatus Li- \ntuaniae expressa, per R. P. Adamum \nIgn. Naramowski, etc. Vilnae, 1726.\nLib. Il, p. 346."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54631
+
+- id: c-55539
+  citata_originali: |
+    Tad nu­
+    rodysime tuos Vilniaus diecezijos ganytojus, kurių vardai jo­
+    kių abejonių nekeldami istorijoje išlikę. Be įvairių autentiškų
+    aktų, kur kaip liudininkus ne kartą aptinkame Vilniaus vys­
+    kupus, buvo du šaltiniai, iš kurių galima buvo semtis išsa­
+    mesnių žinių apie juos. Pirmasis jų: lotyniškas rankraštis, bu­
+    vęs Vilniaus universiteto bibliotekoje, kuriame trumpos
+    panegirikos Vilniaus vyskupams, rašytos Petro Kojelavi­
+    čiaus, jėzuito2. Kitas žinomas platus istorinis veikalas, taip
+    pat jėzuito Naramovskio3.
+  citata_rodoma: "Tad nu­\nrodysime tuos Vilniaus diecezijos ganytojus, kurių vardai jo­\nkių abejonių nekeldami istorijoje išlikę. Be įvairių autentiškų \naktų, kur kaip liudininkus ne kartą aptinkame Vilniaus vys­\nkupus, buvo du šaltiniai, iš kurių galima buvo semtis išsa­\nmesnių žinių apie juos. Pirmasis jų: lotyniškas rankraštis, bu­\nvęs Vilniaus universiteto bibliotekoje, kuriame trumpos \npanegirikos Vilniaus vyskupams, rašytos Petro Kojelavi­\nčiaus, jėzuito2. Kitas žinomas platus istorinis veikalas, taip \npat jėzuito Naramovskio3."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54630

@@ -15,6 +15,18 @@ tags:
 amziai:
   - 'XIV'
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Pirmosios katedros didysis altoriaus kryžius
 
@@ -45,12 +57,24 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-11542"></a>
-- t-001
+- t-002
   global_id: t-11542
-  teiginys: 'Iš pirmosios katedros išlikęs didžiojo altoriaus kryžius.'
+  teiginys: "Iš pirmosios katedros išlikęs didžiojo altoriaus kryžius."
+  temporaliniai_duomenys: "įvykio data: 1531 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir tiksliai atitinka citatoje pateiktą informaciją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "262325-262523; hash=a1a7c330f461ce290abf0dda279d7dd868b609ec20b3313e197fdf50ba982cbb; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  ryšio_patikimumas: "susije_su -> Altorius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pirmosios katedros didysis altoriaus kryžius: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Altorius: mention_match, thing, gap=36"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pirmosios katedros didysis altoriaus kryžius\" parinktas kaip owner_note_path. Targetas \"Altorius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-14270
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -61,8 +85,25 @@ Nenurodyta
     bet ir ją gaisras sunaikino 1531 m. Pirmosios katedros tėra iš­
     likęs didžiojo altoriaus kryžius^2 ).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-14270
+  citata_originali: |
+    Bet ši katedra 1399 metais sudegė. Ta­
+    da Vytautas buvo pastatęs naują gotiško stiliaus katedrą,
+    bet ir ją gaisras sunaikino 1531 m. Pirmosios katedros tėra iš­
+    likęs didžiojo altoriaus kryžius^2 ).
+  citata_rodoma: "Bet ši katedra 1399 metais sudegė. Ta-\nda Vytautas buvo pastatęs naują gotiško stiliaus katedrą,\nbet ir ją gaisras sunaikino 1531 m. Pirmosios katedros tėra iš-\nlikęs didžiojo altoriaus kryžius^2 )."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-11542

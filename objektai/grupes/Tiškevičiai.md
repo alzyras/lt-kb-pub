@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Tiškevičiai
 
@@ -19,10 +31,23 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
 <a id="claim-t-20050"></a>
 - t-001
   global_id: t-20050
-  teiginys: 'XVI a. Tiškevičiai buvo priskirti prie įtakingų rusėnų giminių, laikiusių save LDK piliečiais.'
+  teiginys: "XVI a. Tiškevičiai buvo priskirti prie įtakingų rusėnų giminių, laikiusių save LDK piliečiais."
+  semantiniai_rysiai: "Tiškevičiai priklausė Rusėnai (0.78)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "144333-144726; hash=cc7e9907045ddcf76cec6fa419ae609342a6fb98ea49aa476fdf42ed7c6472b3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Rusėnai: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Tiškevičiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Rusėnai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata Tiškevičius priskiria rusėnų giminių grupei."
   pagrindžia:
-    - c-001
+    - c-22785
+- susijęs iš [[objektai/asmenys/Eustachijus Tiškevičius.md#claim-t-190853|Eustachijus Tiškevičius]]: Eustachijus Tiškevičius kasinėjo kapavietes Lietuvos Rusioje, Borisovo apskrityje.
 - susijęs iš [[objektai/asmenys/Jurgis Tiškevičius.md#claim-t-186051|Jurgis Tiškevičius]]: Jurgis Tiškevičius nuvežė į Maskvą karaliaus laišką ir sveikindamas Ivaną pavadino jį Astrachanės caru.
+- susijęs iš Eustachijus Tiškevičius, Rzut oka na irodia archeologii krajomej: Eustachijus Tiškevičius kasinėjo Lietuvos Rusioje, Borisovo apskrityje.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176101|Vilniaus kapitula]]: Apaštališkasis nuncijus Jonas Andrius patvirtino Vilniaus kapitulos Akademijos kolegijos rektoriams perleistas patronato teises.
 - susijęs iš [[objektai/grupes/Vilniaus magistratas.md#claim-t-172820|Vilniaus magistratas]]: 1654 m. liepos 4 d. įvykdytas sprendimas byloje dėl patronato teisių patenkino Vilniaus magistrato ieškinį.
 - susijęs iš 1581 m. apaštališkojo nuncijaus patvirtinimas dėl Jus Patronatus: 1581 m. liepos 7 d. apaštališkasis nuncijus Jonas Andrius patvirtino Vilniaus kapitulos rektoriams perleistas Jus Patronatus teises.
@@ -39,11 +64,30 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
     Radvilos, o visos kitos – Chodkevičiai, Sapiegos, Valavičiai, Tiškevičiai,
     Oginskiai ir kt.  – rusėnai, tačiau laikantys save LDK piliečiais.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-22785
+  citata_originali: |
+    LDK politinės tautos prielaidas kūrė LDK karinės
+    pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab. Salaspilis), Chotyne,
+    kuriose lietuviai kovojo petys į petį su rusėnais.
+    Iš įtakingiausių XVI a. giminių lietuviškos kilmės yra tik Goštautai ir
+    Radvilos, o visos kitos – Chodkevičiai, Sapiegos, Valavičiai, Tiškevičiai,
+    Oginskiai ir kt.  – rusėnai, tačiau laikantys save LDK piliečiais.
+  citata_rodoma: "Radvilos, o visos kitos – Chodkevičiai, Sapiegos, Valavičiai, Tiškevičiai,"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-20050
 
 ## Ryšiai
 - Tiškevičiai priklausė [[objektai/grupes/Rusėnai]]

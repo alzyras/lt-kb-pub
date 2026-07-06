@@ -16,6 +16,18 @@ amziai:
   - 'XVII'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Mauricijus
 
@@ -26,18 +38,41 @@ Uršulė ir Mauricijus, ignoti cognominis [nežinoma pavardė], iš magistrato u
 ## Teiginiai
 
 <a id="claim-t-87775"></a>
-- t-001
+- t-002
   global_id: t-87775
-  teiginys: 'Mauricijaus ir Uršulės mūras kadaise buvo įpareigotas kasmet mokėti 140 auksinų pamaldoms.'
+  teiginys: "Mauricijaus ir Uršulės mūras kadaise buvo įpareigotas kasmet mokėti 140 auksinų pamaldoms."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "399169-399788; hash=270588d63337abc2f4a4dea80cf417f7fca1999dbbb017d2a6a5f8b03693b134; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Uršulė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mauricijus: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Uršulė: mention_match, person, gap=15"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mauricijus\" parinktas kaip owner_note_path. Targetas \"Uršulė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-83754
 
 <a id="claim-t-87776"></a>
-- t-002
+- t-001
   global_id: t-87776
-  teiginys: '1632 m. Mauricijus ir Uršulė už 4750 auksinų nupirko Parulio mūrą ir perdavė jį Akademijos kolegijai.'
+  teiginys: "1632 m. Mauricijus ir Uršulė už 4750 auksinų nupirko Parulio mūrą ir perdavė jį Akademijos kolegijai."
+  temporaliniai_duomenys: "įvykio data: 1632 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "389683-389928; hash=92b92aed98239b55511ac2f5fe4e272c09e8baf8e570320a8d1bffa204bdf633; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Parulis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mauricijus: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Parulis: mention_match, person, gap=45"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mauricijus\" parinktas kaip owner_note_path. Targetas \"Parulis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-83755
 - susijęs iš [[objektai/asmenys/Uršulė.md#claim-t-87930|Uršulė]]: 1632 m. Uršulė ir Mauricijus už 4750 auksinų nupirko Parulio mūrą ir perdavė jį Akademijos kolegijai.
 - susijęs iš [[objektai/zodynas/viderkaftas.md#claim-t-86624|viderkaftas]]: Tėvas Juraha nuo mūrinio namo nuėmė 140 auksinų metinį viderkafto mokestį už Uršulę ir Mauricijų.
 - susijęs iš [[objektai/grupes/Vilniaus žydų kahalas.md#claim-t-55108|Vilniaus žydų kahalas]]: Kahalas mokėjo procentus nuo jame investuotų sumų įpareigotų pamaldų reikmėms.
@@ -69,6 +104,7 @@ Uršulė ir Mauricijus, ignoti cognominis [nežinoma pavardė], iš magistrato u
     nuo kurių nuošimtis įpareigotų pamaldų dėlei iki šiol kaha-
     lo yra atiduodamas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -85,8 +121,51 @@ Uršulė ir Mauricijus, ignoti cognominis [nežinoma pavardė], iš magistrato u
     vedę įpareigojimu kasmet mokėti Šv. Jono bažnyčiai po 140
     auksinų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-83754
+  citata_originali: |
+    1756. Akademijos Rektorius t. Juraha taip pat prie kole­
+    gijos pastarąją priskyrė, o kolegijos namą, vadintą Švarco,
+    187
+
+    ## Puslapis 204
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Valerijono bursai perleido, nuo kurios studentų dėlei kas­
+    met po 260 auksinų gauna, o 40 auksinų eina tam mūriniam
+    namui remontuoti.
+    O kadangi tas mūras kadaise buvo įpareigotas už Uršulę
+    ir Mauricijų pamaldoms viderkaftą mokėti, kasmet po 140
+    auksinų, todėl tasai t. Juraha to viderkafto mokestį nuo pas­
+    tarojo mūro nuėmęs priskyrė kahale investuotoms sumoms,
+    nuo kurių nuošimtis įpareigotų pamaldų dėlei iki šiol kaha-
+    lo yra atiduodamas.
+  citata_rodoma: "Juraha taip pat prie kole­\ngijos pastarąją priskyrė, o kolegijos namą, vadintą Švarco,\n187\n\n## Puslapis 204\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nValerijono bursai perleido, nuo kurios studentų dėlei kas­\nmet po 260 auksinų gauna, o 40 auksinų eina tam mūriniam \nnamui remontuoti.\nO kadangi tas mūras kadaise buvo įpareigotas už Uršulę \nir Mauricijų pamaldoms viderkaftą mokėti, kasmet po 140 \nauksinų, todėl tasai t. Juraha to viderkafto mokestį nuo pas­\ntarojo mūro nuėmęs priskyrė kahale investuotoms sumoms, \nnuo kurių nuošimtis įpareigotų pamaldų dėlei iki šiol kaha- \nlo yra atiduodamas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87775
+
+- id: c-83755
+  citata_originali: |
+    1632. Uršulė ir Mauricijus, ignoti cognominis [nežinoma
+    pavardė], iš magistrato už 4750 auksinų nupirkę tą Parulio
+    mūrą, atidavė Collegio Academico [Akademijos kolegijai], pa­
+    vedę įpareigojimu kasmet mokėti Šv. Jono bažnyčiai po 140
+    auksinų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87776

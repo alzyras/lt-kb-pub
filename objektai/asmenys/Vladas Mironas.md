@@ -16,6 +16,18 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'modernioji Lietuva'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vladas Mironas
 
@@ -26,39 +38,97 @@ Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusi
 ## Teiginiai
 
 <a id="claim-t-54005"></a>
-- t-001
+- t-002
   global_id: t-54005
-  teiginys: 'Po Klaipėdos atplėšimo Vladą Mironą premjero poste pakeitė generolas Jonas Černius.'
+  teiginys: "Po Klaipėdos atplėšimo Vladą Mironą premjero poste pakeitė generolas Jonas Černius."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "367348-367717; hash=bf90706e602190bf487ef582929b2d3fe86e19550f6f4cc8dfde5e23f16ee2d5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jonas Černius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vladas Mironas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Jonas Černius: mention_match, person, gap=46"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vladas Mironas\" parinktas kaip owner_note_path. Targetas \"Jonas Černius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-54989
 
 <a id="claim-t-54006"></a>
-- t-002
+- t-005
   global_id: t-54006
-  teiginys: 'Po Klaipėdos atplėšimo V. Mironą ministro pirmininko poste pakeitė generolas Jonas Černius.'
+  teiginys: "Po Klaipėdos atplėšimo V. Mironą ministro pirmininko poste pakeitė generolas Jonas Černius."
+  temporaliniai_duomenys: "įvykio data: 1936 m.; įvykio data: 1938 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "334792-335149; hash=ea4b99a55794757679e3b4997d29fdcff315bcc35cb3a4b7491afcde716ba9e6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jonas Černius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vladas Mironas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Jonas Černius: mention_match, person, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vladas Mironas\" parinktas kaip owner_note_path. Targetas \"Jonas Černius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-54990
 
 <a id="claim-t-54007"></a>
-- t-003
+- t-004
   global_id: t-54007
-  teiginys: 'Priėmus Lenkijos ultimatumą, kunigas Vladas Mironas pakeitė J. Tūbelį ministro pirmininko poste.'
+  teiginys: "Priėmus Lenkijos ultimatumą, kunigas Vladas Mironas pakeitė J. Tūbelį ministro pirmininko poste."
+  temporaliniai_duomenys: "įvykio data: 1938 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "360629-361036; hash=73b9ce37b276595040c29152d46f2bb55a3129eeb849e60d5adc83a3da596a86; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vladas Mironas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vladas Mironas\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-54988
 
 <a id="claim-t-54008"></a>
-- t-004
+- t-001
   global_id: t-54008
-  teiginys: 'Po Lenkijos ultimatumo Vladas Mironas pakeitė Juozą Tūbelį Lietuvos premjero poste.'
+  teiginys: "Po Lenkijos ultimatumo Vladas Mironas pakeitė Juozą Tūbelį Lietuvos premjero poste."
+  temporaliniai_duomenys: "įvykio data: 1938 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "360629-361036; hash=73b9ce37b276595040c29152d46f2bb55a3129eeb849e60d5adc83a3da596a86; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vladas Mironas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=36"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vladas Mironas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-54988
 
 <a id="claim-t-54009"></a>
-- t-005
+- t-003
   global_id: t-54009
-  teiginys: '1938 m. gegužės 12 d. ministras pirmininkas V. Mironas pasirašė naują Lietuvos konstituciją.'
+  teiginys: "1938 m. gegužės 12 d. ministras pirmininkas V. Mironas pasirašė naują Lietuvos konstituciją."
+  temporaliniai_duomenys: "įvykio data: 1938 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "367348-367717; hash=bf90706e602190bf487ef582929b2d3fe86e19550f6f4cc8dfde5e23f16ee2d5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vladas Mironas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vladas Mironas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-54989
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75724|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1938 m. gegužės 12 d. prezidentas Antanas Smetona ir ministras pirmininkas Vladas Mironas pasirašė naują Lietuvos konstituciją.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75730|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Priėmus Lenkijos ultimatumą, Antanui Smetonai artimas kunigas Vladas Mironas pakeitė Juozą Tūbelį premjero poste.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75748|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1938 m. gegužės 12 d. Antanas Smetona ir ministras pirmininkas Vladas Mironas pasirašė naują Lietuvos konstituciją.
@@ -81,8 +151,9 @@ Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusi
     Mironas. Jis atleido S. Lozoraitį, kurio linija pralaimėjo, nors Lietuvos
     valdžia stengėsi parodyti, kad iš esmės nieko neįvyko.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
@@ -98,8 +169,9 @@ Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusi
     Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos par-
     tijos gavo po dvi ministrų vietas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -115,8 +187,62 @@ Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusi
     skelbta nauja šalies konstitucija, kurią pasirašė prezidentas A. Smetona
     ir ministras pirmininkas V. Mironas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-54988
+  citata_originali: |
+    Lietuva tai laikė taktiniu atsi-
+    traukimu ir 1938 m. gegužę priimtoje naujoje konstitucijoje vėl įrašė, kad
+    Vilnius yra Lietuvos sostinė.
+    Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabi-
+    netas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas
+    Mironas. Jis atleido S. Lozoraitį, kurio linija pralaimėjo, nors Lietuvos
+    valdžia stengėsi parodyti, kad iš esmės nieko neįvyko.
+  citata_rodoma: "Lietuva tai laikė taktiniu atsi-\ntraukimu ir 1938 m. gegužę priimtoje naujoje konstitucijoje vėl įrašė, kad \nVilnius yra Lietuvos sostinė.\nPriėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabi-\nnetas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas \nMironas. Jis atleido S. Lozoraitį, kurio linija pralaimėjo, nors Lietuvos \nvaldžia stengėsi parodyti, kad iš esmės nieko neįvyko."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54008
+
+- id: c-54989
+  citata_originali: |
+    Lietuvos
+    teritorijos ir 5 proc. gyventojų, prarasta trečdalis ekonomikos, o 70 proc.
+    šalies eksporto ėjo per Klaipėdą.
+    Krikščionys demokratai ir liaudininkai po Klaipėdos atplėšimo sąly-
+    ginai sugrįžo į valdžią. V. Mironą premjero poste pakeitusio gen. Jono
+    Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos par-
+    tijos gavo po dvi ministrų vietas.
+  citata_rodoma: "Lietuvos \nteritorijos ir 5 proc. gyventojų, prarasta trečdalis ekonomikos, o 70 proc. \nšalies eksporto ėjo per Klaipėdą.\nKrikščionys demokratai ir liaudininkai po Klaipėdos atplėšimo sąly-\nginai sugrįžo į valdžią. V. Mironą premjero poste pakeitusio gen. Jono \nČerniaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos par-\ntijos gavo po dvi ministrų vietas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54005
+
+- id: c-54990
+  citata_originali: |
+    Todėl 1936 m. vasarą
+    vykę rinkimai nebuvo demokratiniai, o išrinktas IV Seimas vadintas
+    „smetoniniu Seimu“. Jo 49 narių daugumą sudarė tautininkai ar valdžiai
+    lojalūs asmenys.
+    Autoritarinį prezidento režimą 1938 m. gegužės 12 d. sustiprino pa-
+    skelbta nauja šalies konstitucija, kurią pasirašė prezidentas A. Smetona
+    ir ministras pirmininkas V. Mironas.
+  citata_rodoma: "Todėl 1936 m. vasarą \nvykę rinkimai nebuvo demokratiniai, o išrinktas IV Seimas vadintas \n„smetoniniu Seimu“. Jo 49 narių daugumą sudarė tautininkai ar valdžiai \nlojalūs asmenys.\nAutoritarinį prezidento režimą 1938 m. gegužės 12 d. sustiprino pa-\nskelbta nauja šalies konstitucija, kurią pasirašė prezidentas A. Smetona \nir ministras pirmininkas V. Mironas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54006

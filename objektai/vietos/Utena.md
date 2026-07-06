@@ -20,6 +20,18 @@ tags:
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Utena
 
@@ -30,25 +42,69 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
 ## Teiginiai
 
 <a id="claim-t-172016"></a>
-- t-001
+- t-018
   global_id: t-172016
-  teiginys: '1919 m. gegužės 24 d. gen. S. Žukauskas įsakė K. Ladygos vadovaujamai Ukmergės rinktinei žygiuoti Ukmergės–Daugpilio plentu ir užimti Uteną.'
+  teiginys: "1919 m. gegužės 24 d. gen. S. Žukauskas įsakė K. Ladygos vadovaujamai Ukmergės rinktinei žygiuoti Ukmergės–Daugpilio plentu ir užimti Uteną."
+  temporaliniai_duomenys: "įvykio data: 1919 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta, kad būtų įtrauktas citatoje nurodytas žygio kelias ir aiškus tikslas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "744653-744960; hash=d2464fe00310a2deb985afe80a18ee799aff7221f2ecbff972b5108acf2bbc8b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Daugpilis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Utena: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Daugpilis: mention_match, place, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Utena\" parinktas kaip owner_note_path. Targetas \"Daugpilis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
+    - c-43946
 
 <a id="claim-t-172018"></a>
-- t-002
+- t-017
   global_id: t-172018
-  teiginys: 'Generaliniame Lietuvos teritorijos vadavimo nuo bolševikų plane Ukmergės rinktinė turėjo veržtis Ukmergės–Utenos–Zarasų kryptimi.'
+  teiginys: "Generaliniame Lietuvos teritorijos vadavimo nuo bolševikų plane Ukmergės rinktinė turėjo veržtis Ukmergės–Utenos–Zarasų kryptimi."
+  temporaliniai_duomenys: "įvykio data: 1881 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia patikslinti planą ir išlaikyti aiškią sąsają su Utena."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "731013-731360; hash=42378b276d2d1333876b43a4e0c0084c5cbc0dece407aaeee8b75afb3d78e46f; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Zarasai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Utena: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Zarasai: mention_match, place, gap=7"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Utena\" parinktas kaip owner_note_path. Targetas \"Zarasai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-002
+    - c-156448
 
 <a id="claim-t-185169"></a>
-- t-003
+- t-019
   global_id: t-185169
-  teiginys: 'Kojelavičiaus pasakojime Narimantas apgulė Uteną, nes ten buvo pasislėpęs svetimų žmonų viliotoju vadintas žmogus.'
+  teiginys: "Kojelavičiaus pasakojime Narimantas apgulė Uteną, nes ten buvo pasislėpęs svetimų žmonų viliotoju vadintas žmogus."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Narimantas (Pinsko kunigaikštis) apgulė Utena (0.96)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "239287-239826; hash=82b93c9b6d53c2c4d766bfbc3ef0e276bc434c0c87006dfa7efe5c8a9a071ccd; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "apgule -> Utena: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Narimantas (Pinsko kunigaikštis): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Utena: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Narimantas apgulė Uteną."
   pagrindžia:
-    - c-003
+    - c-168530
 - susijęs iš [[objektai/asmenys/Bernard Lown.md#claim-t-18851|Bernard Lown]]: Utenoje gimęs kardiologas Bernard Lown 1985 m. tapo Nobelio taikos premijos laureatu už kovą dėl branduolinio ginklo neplatinimo.
 - susijęs iš [[objektai/asmenys/K. Ladyga.md#claim-t-40248|K. Ladyga]]: K. Ladyga 1919 m. birželio 2 d. su raitininkais slinko į rytus paskui atsitraukiantį priešą.
 - susijęs iš Tauragnai: Dalis raitininkų buvo pasiųsta Tauragnų kryptimi, o likusieji vyko į Uteną.
@@ -114,6 +170,7 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
     rinktinei žygiuoti Ukmergės- Daugpilio
     plentu ir užimti Uteną.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -138,6 +195,7 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
 
     | 1881 m. jstojo į Rusijos kariuomenę.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -165,11 +223,80 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
     mės atvirame kovos lauke, nes labiau buvo linkęs prie
     piktadarybių nei prie karo.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-43946
+  citata_originali: |
+    Telkdama į bolševikų frontą vis daugiau
+    naujai suformuotų dalinių, Lietuvos ka-
+    riuomenės vadovybė ėmė ruoštis naujam
+    puolimui. 1919 m. gegužės 24 d. vyriausiasis
+    kariuomenės vadas gen. S. Žukauskas įsakė
+    karin. K. Ladygos vadovaujamai Ukmergės
+    rinktinei žygiuoti Ukmergės- Daugpilio
+    plentu ir užimti Uteną.
+  citata_rodoma: "1919 m. gegužės 24 d. vyriausiasis\nkariuomenės vadas gen. S. Žukauskas įsakė\nkarin. K. Ladygos vadovaujamai Ukmergės\nrinktinei žygiuoti Ukmergės- Daugpilio\nplentu ir užimti Uteną."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172016
+
+- id: c-156448
+  citata_originali: |
+    Buvo sukurtas
+    generalinis Lietuvos teritorijos nuo bolše-
+    vikų pajėgų išvadavimo planas. Ukmergės
+    rinktinė turėjo veržtis Ukmergės-Utenos-
+    Zarasų kryptimi, Panevėžio rinktinė -
+    Kėdainių-Panevėžio-Rokiškio kryptimi.
+
+    Atskirojo Joniškėlio partizanų, kitaip
+    vadinamojo mirties bataliono kariai
+
+    ## Puslapis 181
+
+    | 1881 m. jstojo į Rusijos kariuomenę.
+  citata_rodoma: "Buvo sukurtas\ngeneralinis Lietuvos teritorijos nuo bolše-\nvikų pajėgų išvadavimo planas. Ukmergės\nrinktinė turėjo veržtis Ukmergės-Utenos-\nZarasų kryptimi, Panevėžio rinktinė -\nKėdainių-Panevėžio-Rokiškio kryptimi.\n\nAtskirojo Joniškėlio partizanų, kitaip\nvadinamojo mirties bataliono kariai\n\n## Puslapis 181\n\n| 1881 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172018
+
+- id: c-168530
+  citata_originali: |
+    Patyręs savo bei žmonos
+    skriaudą, Narimantas liūdėjo, niršo, grasino, tuo tar­
+    pu tas, kuris per aistrą buvo
+    U ž D a u m a n to  p ik ta -
+    praradęs protą, nusikaltimą
+    d a r y t ę
+    N a rim a n ta s
+    parėmė užsispyrimu: pamy-
+    k e ršiįa  karu
+    nęs dorovę, jis arba nematė
+    pavojų, arba jų nepaisė. To­
+    dėl valdovas buvo priverstas griebtis ginklo ir pradėti
+    karą su broliu. Jis apgulė Uteną, kadangi ten buvo
+    pasislėpęs svetimų žmonų viliotojas, nesitikėdamas sėk­
+    mės atvirame kovos lauke, nes labiau buvo linkęs prie
+    piktadarybių nei prie karo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185169
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]]

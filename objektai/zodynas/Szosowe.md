@@ -9,6 +9,18 @@ tags:
   - miestas
   - reforma
   - sąvoka
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Szosowe
 
@@ -21,16 +33,36 @@ Dėl Vilniaus Batoras pareikalavo iš vaivados Radvilos, kad šis neprieštaraud
 <a id="claim-t-86554"></a>
 - t-001
   global_id: t-86554
-  teiginys: 'Batoras reikalavo, kad Vilniaus miestiečiai mokėtų Czopowe ir Szosowe mokesčius.'
+  teiginys: "Batoras reikalavo, kad Vilniaus miestiečiai mokėtų Czopowe ir Szosowe mokesčius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "643579-644194; hash=6f022c03cdc04b4b5d020a13ac400f3d3b82f66140f12e956280cf5a62e50307; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Czopowe: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Szosowe: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Czopowe: mention_match, thing, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Szosowe\" parinktas kaip owner_note_path. Targetas \"Czopowe\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-82534
 
 <a id="claim-t-86555"></a>
 - t-002
   global_id: t-86555
-  teiginys: 'Szosowe buvo viena iš rinkliavų, kurias Vilniaus piliečiai ir pirkliai turėjo mokėti kartu su nustatytais muitais.'
+  teiginys: "Szosowe buvo viena iš rinkliavų, kurias Vilniaus piliečiai ir pirkliai turėjo mokėti kartu su nustatytais muitais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "644195-644748; hash=a8b93b4f1073aeed4946ccf9f11f5a912c992cec15950e3e9abf1fd0fbce0f53; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Viena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Szosowe: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Szosowe\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-82533
 - susijęs iš 1576 m. gruodžio 20 d. Stepono Batoro laiškas Mikalojui Radvilai dėl muitų, Czopowe ir Szosowe mokesčių: 1576 m. gruodžio 20 d. Steponas Batoras reikalavo, kad Mikalojus Radvila skatintų mokėti muitus ir iš Vilniaus miestiečių išreikalautų Czopowe bei Szosowe mokesčius.
 - susijęs iš Vilnius: Vilniaus miestiečiams ir pirkliams buvo nurodyta apskaičiuoti ir sumokėti muitus bei Czopowe ir Szosowe mokesčius.
 - susijęs iš [[objektai/zodynas/Czopowe.md#claim-t-86521|Czopowe]]: Vilniaus miestiečiams ir pirkliams buvo nurodyta privalomai mokėti Czopowe ir Szosowe mokesčius.
@@ -64,6 +96,7 @@ Dėl Vilniaus Batoras pareikalavo iš vaivados Radvilos, kad šis neprieštaraud
     ac dominum terrestrem Thesaurarium, notariosque ejus in thelo-
     neis constitutos, si qua in re opus fuerit, juvet.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -87,8 +120,54 @@ Dėl Vilniaus Batoras pareikalavo iš vaivados Radvilos, kad šis neprieštaraud
     we - miestiečių namų mokestis (vert.
     past.).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-82533
+  citata_originali: |
+    329
+
+    ## Puslapis 346
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    exactione constitutorum theloneorum factae per nos quoque reno­
+    vatae et reformatae obviam eant. Maxima vero ut M. Vestra in
+    Urbė Vilnensi, ex officio suo civibus et mercatoribus Vilnensibus
+    haec thelonea, nec non et exactiones Czopowe et Szosowe nuncu­
+    patas, perinde quemadmodum anno praesenti ex omnibus Oppi­
+    dis nostris solvebant, pendere et solvere irrecusabiliter demandet,
+    ac dominum terrestrem Thesaurarium, notariosque ejus in thelo-
+    neis constitutos, si qua in re opus fuerit, juvet.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86555
+
+- id: c-82534
+  citata_originali: |
+    Dėl Vilniaus Batoras pareikalavo
+    iš vaivados Radvilos, kad šis neprieštaraudamas savo auto­
+    ritetu paakintų visus mokėti nustatytus muitus, o iš Vilniaus
+    miestiečių, be to, dar išreikalautų Czopowe i Szosowe mokes­
+    čius*. Čia pateikiame to laiško pabaigą: Proinde non modo
+    M. Vestra his theloneis adauctis exigendis non contradicat, sed
+    etiam auctoritate sua Senatoria, supereminentiaque et dignitate
+    familiae suae, in eam sententiam alios quoque adducere velit, ut
+    ne huic constitutioni per olim Sigismundum Augustum Regem, et
+    Czopowe - svaigalų mokestis. Szoso­
+    we - miestiečių namų mokestis (vert.
+    past.).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86554

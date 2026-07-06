@@ -11,6 +11,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Viazmos žemė
 
@@ -23,17 +35,43 @@ Vasiljevičius stengėsi nuslėpti savo brolio Andrejaus, Možaisko kunigaikšč
 <a id="claim-t-185275"></a>
 - t-001
   global_id: t-185275
-  teiginys: 'Vasiljevičius stengėsi nuslėpti savo brolio Andrejaus, Možaisko kunigaikščio, įsibrovimą į Viazmos žemę.'
+  teiginys: "Vasiljevičius stengėsi nuslėpti savo brolio Andrejaus, Možaisko kunigaikščio, įsibrovimą į Viazmos žemę."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "941102-941690; hash=43f98f6274c0b8e21398aae4aafedd1f4060a975c648e5c80172dcb8d73f34fd; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Viazma: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Viazmos žemė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Viazma: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Viazmos žemė\" parinktas kaip owner_note_path. Targetas \"Viazma\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-168636
 
 <a id="claim-t-185276"></a>
 - t-002
   global_id: t-185276
-  teiginys: 'Stanislovas Kiška nusiaubė Viazmos žemę ir gretimas apygardas, visur žudydamas ir degindamas.'
+  teiginys: "Stanislovas Kiška nusiaubė Viazmos žemę ir gretimas apygardas, visur žudydamas ir degindamas."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Stanislovas Kiška puolė Viazmos žemė (0.82)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1073205-1073553; hash=9ce1262e772f94f20eb2c2394caaa657d9b4be4f098b309a7918b07d6e56ecd2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Viazmos žemė: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Stanislovas Kiška: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Viazmos žemė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekste tiesiogiai sakoma, kad Stanislovas Kiška nusiaubė Viazmos žemę; tai atitinka puolimo veiksmą."
   pagrindžia:
-    - c-002
-
+    - c-168637
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -60,6 +98,7 @@ Vasiljevičius stengėsi nuslėpti savo brolio Andrejaus, Možaisko kunigaikšč
     du vesti derybas su Maskvos valdovu dėl padarytos
     žalos.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -80,11 +119,60 @@ Vasiljevičius stengėsi nuslėpti savo brolio Andrejaus, Možaisko kunigaikšč
     mas apygardas, visur žudydamas ir degindamas. Šis
     įsibrovimas išviliojo iš slėpynių priešo kariuomenę.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-168636
+  citata_originali: |
+    Tuo tarpu Va­
+    siljevičius, nors, paisydamas paliaubų, atvirai ir ne­
+    pradėjo karo, bet žalos daryti nevengė. Jis ir pats atė­
+    mė iš Krošino kunigaikščių, Kęstučio sūnaus Vygando
+    palikuonių, geroką krašto dalį, ir stengėsi nuslėpti savo
+    brolio Andrejaus, Možaisko
+    1487 metai
+    kunigaikščio,
+    įsibrovimą
+    į
+    Siaubia L ie tu v o s v a i-
+    Viazmos žemę, nekalbant jau
+    d a s
+    apie smulkesnius išpuolius.
+    Kazimieras, rodos, nė nema­
+    tydamas teisingos ir akivaizdžios priežasties karui, pa­
+    vedė Vladimiro kunigaikščiui Masalskiui karaliaus var­
+    du vesti derybas su Maskvos valdovu dėl padarytos
+    žalos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185275
+
+- id: c-168637
+  citata_originali: |
+    Vis dėlto Ostro­
+    giškis su keliomis lengvųjų
+    raitelių vėliavomis įsiveržė
+    nepraeinamais keliais į prie­
+    šo kraštą ir išsivarė iš ten
+    daug grobio. Ir Stanislovas Kiška, vargais negalais pra­
+    sivalęs kelią, veržliai nusiaubė Viazmos žemę ir greti­
+    mas apygardas, visur žudydamas ir degindamas. Šis
+    įsibrovimas išviliojo iš slėpynių priešo kariuomenę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185276
 
 ## Ryšiai
 - Puolė Viazmos žemę: [[objektai/asmenys/Stanislovas Kiška]]

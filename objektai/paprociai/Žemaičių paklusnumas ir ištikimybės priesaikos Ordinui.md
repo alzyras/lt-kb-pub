@@ -13,6 +13,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Žemaičių paklusnumas ir ištikimybės priesaikos Ordinui
 
@@ -43,19 +55,44 @@ Praktika minima žemaičiams pasisukus į savo vakarykščius priešus ir mėgin
 ## Teiginiai
 
 <a id="claim-t-11635"></a>
-- t-001
+- t-004
   global_id: t-11635
-  teiginys: '1384 m. vasario pradžioje Žemaičių krašto Medininkų, Vangių ir kitų vietų gyventojai pareiškė Ordinui savo paklusnumą; tai buvo pirmas savarankiškas jų mėginimas pasiduoti naujai jėgai.'
+  teiginys: "1384 m. vasario pradžioje Žemaičių krašto Medininkų, Vangių ir kitų vietų gyventojai pareiškė Ordinui savo paklusnumą; tai buvo pirmas savarankiškas jų mėginimas pasiduoti naujai jėgai."
+  temporaliniai_duomenys: "įvykio data: 1384 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako datą, veikėjus ir veiksmą, remiamą citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "91626-91944; hash=24070c8fb92742abbb983632460e73a680d46120c5207e61419d1beacb458787; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md::validation_repair"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žemaičių paklusnumas ir ištikimybės priesaikos Ordinui: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=68"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaičių paklusnumas ir ištikimybės priesaikos Ordinui\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-14494
 
 <a id="claim-t-11636"></a>
-- t-002
+- t-003
   global_id: t-11636
-  teiginys: '1384 m. vasario pradžioje Medininkų, Vangių ir kitų Žemaičių krašto vietų gyventojai pareiškė paklusnumą Ordinui.'
+  teiginys: "1384 m. vasario pradžioje Medininkų, Vangių ir kitų Žemaičių krašto vietų gyventojai pareiškė paklusnumą Ordinui."
+  temporaliniai_duomenys: "įvykio data: 1384 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia tiksliau nurodyti datą, vietas ir Ordiną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "91626-91944; hash=24070c8fb92742abbb983632460e73a680d46120c5207e61419d1beacb458787; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md::validation_repair"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žemaičių paklusnumas ir ištikimybės priesaikos Ordinui: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=61"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaičių paklusnumas ir ištikimybės priesaikos Ordinui\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-14494
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -69,9 +106,30 @@ Praktika minima žemaičiams pasisukus į savo vakarykščius priešus ir mėgin
     ventojų pusės buvo tai pirmas savarankiškas mėginimas pasi­
     duoti naujai jėgai^1 ).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-14494
+  citata_originali: |
+    Todėl ir
+    nenuostabu, kad žemaičiai savo vakarykščiams priešams
+    ėmė daryti ištikimybės priesaikas. Taip 1384 metų vasa­
+    rio mėn. pradžioj Žemaičių krašto (Medininkų, Vangių ir
+    kt.) gyventojai pareiškė Ordinui savo paklusnumą. Iš tų gy­
+    ventojų pusės buvo tai pirmas savarankiškas mėginimas pasi­
+    duoti naujai jėgai^1 ).
+  citata_rodoma: "Todėl ir\nnenuostabu, kad žemaičiai savo vakarykščiams priešams\nėmė daryti ištikimybės priesaikas. Taip 1384 metų vasa­\nrio mėn. pradžioj Žemaičių krašto (Medininkų, Vangių ir\nkt.) gyventojai pareiškė Ordinui savo paklusnumą. Iš tų gy­\nventojų pusės buvo tai pirmas savarankiškas mėginimas pasi­\nduoti naujai jėgai^1 )."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-11636
+    - t-11635

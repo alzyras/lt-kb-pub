@@ -15,6 +15,18 @@ tags:
   - paliaubos
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vytauto paliaubos ir taikos derybos su Livonijos ordinu (1410 m. vasara)
 
@@ -43,10 +55,22 @@ Nenurodyta
 <a id="claim-t-31497"></a>
 - t-001
   global_id: t-31497
-  teiginys: '1410 m. rugpjūtį Livonijos kariuomenė laivais atvyko į Sembą.'
+  teiginys: "1410 m. rugpjūtį Livonijos kariuomenė laivais atvyko į Sembą."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Heilsbergas (0.66)"
+  temporaliniai_duomenys: "kelionės data: 1410 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "933677-933870; hash=bc0e3b79ebb9c8bb2498e32911e9b5dc6f8e9aa331622ba5b95a4989c7f8ee54; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Heilsbergas: 0.66"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Heilsbergas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata rodo, kad Vytautas buvo nuvykęs prie Heilsbergo."
   pagrindžia:
-    - c-001
-
+    - c-33443
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -58,8 +82,26 @@ Nenurodyta
     maršalu B. Hevelmannu ir pradėjo taikos derybas.
     c.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33443
+  citata_originali: |
+    Bet (1410.VIII.)
+    Livonijos kariuomenė laivais atvyko Sembon. Nuo Marienburgo
+    mūrų pasitraukęs, Vytautas prie Heilsbergo susitiko su Livonijos
+    maršalu B. Hevelmannu ir pradėjo taikos derybas.
+    c.
+  citata_rodoma: "Bet (1410.VIII.)\nLivonijos kariuomenė laivais atvyko Sembon. Nuo Marienburgo\nmūrų pasitraukęs, Vytautas prie Heilsbergo susitiko su Livonijos\nmaršalu B. Hevelmannu ir pradėjo taikos derybas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31497

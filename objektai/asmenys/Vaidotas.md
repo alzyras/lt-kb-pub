@@ -20,6 +20,18 @@ amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vaidotas
 
@@ -32,9 +44,22 @@ Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 140
 <a id="claim-t-64202"></a>
 - t-001
   global_id: t-64202
-  teiginys: 'Vaidotas, Kęstučio anūkas, po studijų Pragos universitete nuo 1401 m. tapo antruoju Krokuvos universiteto rektoriumi.'
+  teiginys: "Vaidotas, Kęstučio anūkas, po studijų Pragos universitete nuo 1401 m. tapo antruoju Krokuvos universiteto rektoriumi."
+  temporaliniai_duomenys: "įvykio data: 1381 m.; įvykio data: po 1401 m.; įvykio data: 1401 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako Vaidoto kilmę, studijas ir pareigas, paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "759112-759461; hash=7be4db1784f3a33ca4329b032088ec51e6e2d29dd56b2df949012a3dcefe5621; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vaidotas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=84"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaidotas\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-65020
 - susijęs iš [[objektai/asmenys/Vaidotas (Butauto sūnus).md#claim-t-182705|Vaidotas (Butauto sūnus)]]: Vaidotas 1381 m., būdamas apie šešiolikos metų, pabėgo iš senelio Kęstučio globos į Prūsus ir vyko pas ciesorių priimti krikšto.
 - susijęs iš [[objektai/asmenys/Vaidotas (Butauto sūnus).md#claim-t-182707|Vaidotas (Butauto sūnus)]]: Vaidotas buvo Butauto sūnus.
 - susijęs iš [[objektai/ivykiai/Vaidoto pabėgimas į Prūsus.md#claim-t-35892|Vaidoto pabėgimas į Prūsus]]: 1381 m. šešiolikmetis Butauto sūnus Vaidotas pabėgo iš senelio Kęstučio globos į Prūsus ir vyko pas ciesorių priimti krikšto.
@@ -50,8 +75,26 @@ Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 140
     Su paskutinio pagonio kunigaikščio Kęstučio iškilmingu sude­
     ginimu Lietuvos istorijoje turėjo prasidėti naujas laikotarpis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-65020
+  citata_originali: |
+    O bėglio sūnaus Butauto pėdo­
+    mis 1381 m. pasekė ir jo sūnus Vaidotas. Iš ordino žemių patekęs
+    į Vakarus, po studijų Pragos universitete, nuo 1401 šis Kęstučio
+    anūkas tapo antruoju Krokuvos universiteto rektoriumi (Fijałek).
+    Su paskutinio pagonio kunigaikščio Kęstučio iškilmingu sude­
+    ginimu Lietuvos istorijoje turėjo prasidėti naujas laikotarpis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-64202

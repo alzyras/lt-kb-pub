@@ -9,6 +9,7 @@ saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -26,697 +27,2035 @@ date_start: '1349'
 date_end: '1609'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - vieta
 amziai:
   - 'XIV'
   - 'XVII'
-description: 'Maskva Lietuvos istorijoje siejama su Algirdo žygiais, Vytauto rytų politika, Metrikos likimu ir 1940 m. delegacijos veiksmu.'
-socialDescription: 'Maskva čia atsiskleidžia kaip Lietuvos rytų politikos centras: nuo Algirdo žygių ir Vytauto planų iki Metrikos likimo bei 1940 m. įvykių.'
-seo_atnaujinta: '2026-07-02T23:12:34.950776+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
-tags:
-  - vieta
+media_total_count: '3'
+media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/1/19/Plan_von_Moskwa_%28FL33122226_2369996%29.jpg'
+media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3APlan_von_Moskwa_%28FL33122226_2369996%29.jpg'
+media_primary_directness: 'direct'
+media_primary_relation_type: 'map_of'
+media_primary_json: |-
+  {"mediaId":"m-ca55d27c304df866ba698147","title":"Plan von Moskwa (FL33122226 2369996).jpg","caption":"Plan von Moskwa.","creator":"","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2023-07-30 00:52:51","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APlan_von_Moskwa_%28FL33122226_2369996%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/19/Plan_von_Moskwa_%28FL33122226_2369996%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}
+media_direct_json: |-
+  [{"mediaId":"m-ca55d27c304df866ba698147","title":"Plan von Moskwa (FL33122226 2369996).jpg","caption":"Plan von Moskwa.","creator":"","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2023-07-30 00:52:51","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APlan_von_Moskwa_%28FL33122226_2369996%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/19/Plan_von_Moskwa_%28FL33122226_2369996%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-348c9145b70f0a4563312147","title":"A circumstantial narrative of the campaign in Russia - embellished with plans of the battles of the Moskwa and Malo-Jaroslavitz (1815) (14590360317).jpg","caption":"Identifier : circumstantialna00laba ( find matches ) Title : A circumstantial narrative of the campaign in Russia : embellished with plans of the battles of the Moskwa and Malo-Jaroslavitz Year : 1815 ( 1810s ) Authors : Labaume, Eugène, 1783-1849 Subjects : Napoleon I, Emperor of the French, 1769-1821 Publisher : London : Printed for Samuel Leigh Contributing Library : University of Pittsburgh Library System Digitizing Sponsor : Lyrasis Members and Sloan Foundation View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Text Appearing Before Image: especially to observe whether there were anymasked batteries, or ravines unknown to us*. In obedience to my instructions I advanced, anddiscovered that the Russian camp was situated be-hind the river Kologha upon a narrow eminencCjand that its left was very much weakened by theloss of the redoubt which we had taken the even^ing before. In front of the camp and opposite tous was the village of Borodino, an extremelystrong positionf, situated at the confluence of a * The plan, which will be found here, has been engravedafter that which the Viceroy used on the day of battle. t Napoleon said in his bulletin of the battle of the Moskwa, The Viceroy, who formed our left, attacked and took the village of Borodino, which the enemy could not defend.*Prince Kutusoff on the contrary wrote to the Emperor Alex-ander, The position which I have chosen in the village of Bo- rodino, is one of the best that can be found in a flat country.*« It is to be wished that the French would attack us in this k2 Text Appearing After Image: THE MOSKWA. 1^% our staff, who informed me that the Emperorwished for a plan of the ground which we hadoccupied the preceding evening. I transmittedit to prince Eugene, who immediately sent it toNapoleon. The next morning, at day break (6thof September), the Viceroy ordered me to com-plete the plan by inspecting the whole line, andapproaching as near the enemy as I possibly could,that I might the better discover the exact natureof the ground on which they were encamped, andespecially to observe whether there were anymasked batteries, or ravines unknown to us*. In obedience to my instructions I advanced, anddiscovered that the Russian camp was situated be-hind the river Kologha upon a narrow eminence^and that its left was very much weakened by theloss of the redoubt which we had taken the even^ing before. In front of the camp and opposite tous was the village of Borodino, an extremelystrong position-f, situated at the confluence of a * The plan, which will be found here, has been engra Note About Images Please note that these images are extracted from scanned page images that may have been digitally enhanced for readability - coloration and appearance of these illustrations may not perfectly resemble the original work.","creator":"Labaume, Eugène, 1783-1849","provider":"commons","providerLabel":"Wikimedia Commons","license":"No restrictions","rightsNote":"No known copyright restrictions","dateDisplay":"1815","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AA_circumstantial_narrative_of_the_campaign_in_Russia_-_embellished_with_plans_of_the_battles_of_the_Moskwa_and_Malo-Jaroslavitz_%281815%29_%2814590360317%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/18/A_circumstantial_narrative_of_the_campaign_in_Russia_-_embellished_with_plans_of_the_battles_of_the_Moskwa_and_Malo-Jaroslavitz_%281815%29_%2814590360317%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-a3df9c903a962f0492596dae","title":"A circumstantial narrative of the campaign in Russia - embellished with plans of the battles of the Moskwa and Malo-Jaroslavitz (1815) (14774496834).jpg","caption":"Identifier : circumstantialna00laba ( find matches ) Title : A circumstantial narrative of the campaign in Russia : embellished with plans of the battles of the Moskwa and Malo-Jaroslavitz Year : 1815 ( 1810s ) Authors : Labaume, Eugène, 1783-1849 Subjects : Napoleon I, Emperor of the French, 1769-1821 Publisher : London : Printed for Samuel Leigh Contributing Library : University of Pittsburgh Library System Digitizing Sponsor : Lyrasis Members and Sloan Foundation View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Text Appearing Before Image: with intrepidity the fire of the enemy,and coolly closed the ranks, as soon as a cannon-ball had laid any of our comrades low. In the meantime, the night becoming more ob-scure abated the fire without abating our ardour;and our soldiers, uncertain of their aim, reservedtheir strength and their ammunition for the mor-row. Scarcely had we ceased firing, when theRussians, whose camp resembled a vast amphi-theatre, lighted innumerable fires. The whole oftheir camp was one uninterrupted blaze of light,which, while it presented a grand and sublime ap-pearance, formed a striking contrast with ourbivouac, where the soldiers, unable to procurewood, reposed in utter darkness, and heard nosound but the groans of the wounded. Our head quarters were established on the spotwhere the Italian guard was placed in reserve.Couched in the underwood, we slept soundlyafter the fatigues of the day, in spite of an im-petuous wind, and a rain excessively cold. To-wards midnight I was awakened by the chief of Text Appearing After Image: THE MOSKWA. 13jt our staff, who informed me that the Emperorwished for a plan of the ground which we hadoccupied the preceding evening. I transmittedit to prince Eugene, Avho immediately sent it toNapoleon. The next morning, at daj break (6thof September), the Viceroy ordered me to com-plete the plan by inspecting the whole line, andapproaching as near the enemy as I possibly could,that I might the better discover the exact natureof the ground on which they were encamped, andespecially to observe whether there were anymasked batteries, or ravines unknown to us*. In obedience to my instructions I advanced, anddiscovered that the Russian camp was situated be-hind the river Kologha upon a narrow eminencCjand that its left was very much weakened by theloss of the redoubt which we had taken the even^ing before. In front of the camp and opposite tous was the village of Borodino, an extremelystrong positionf, situated at the confluence of a * The plan, which will be found here, has been engr Note About Images Please note that these images are extracted from scanned page images that may have been digitally enhanced for readability - coloration and appearance of these illustrations may not perfectly resemble the original work.","creator":"Labaume, Eugène, 1783-1849","provider":"commons","providerLabel":"Wikimedia Commons","license":"No restrictions","rightsNote":"No known copyright restrictions","dateDisplay":"1815","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AA_circumstantial_narrative_of_the_campaign_in_Russia_-_embellished_with_plans_of_the_battles_of_the_Moskwa_and_Malo-Jaroslavitz_%281815%29_%2814774496834%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/18/A_circumstantial_narrative_of_the_campaign_in_Russia_-_embellished_with_plans_of_the_battles_of_the_Moskwa_and_Malo-Jaroslavitz_%281815%29_%2814774496834%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
+media_contextual_json: |-
+  []
+media_all_json: |-
+  [{"mediaId":"m-ca55d27c304df866ba698147","title":"Plan von Moskwa (FL33122226 2369996).jpg","caption":"Plan von Moskwa.","creator":"","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2023-07-30 00:52:51","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APlan_von_Moskwa_%28FL33122226_2369996%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/19/Plan_von_Moskwa_%28FL33122226_2369996%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-348c9145b70f0a4563312147","title":"A circumstantial narrative of the campaign in Russia - embellished with plans of the battles of the Moskwa and Malo-Jaroslavitz (1815) (14590360317).jpg","caption":"Identifier : circumstantialna00laba ( find matches ) Title : A circumstantial narrative of the campaign in Russia : embellished with plans of the battles of the Moskwa and Malo-Jaroslavitz Year : 1815 ( 1810s ) Authors : Labaume, Eugène, 1783-1849 Subjects : Napoleon I, Emperor of the French, 1769-1821 Publisher : London : Printed for Samuel Leigh Contributing Library : University of Pittsburgh Library System Digitizing Sponsor : Lyrasis Members and Sloan Foundation View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Text Appearing Before Image: especially to observe whether there were anymasked batteries, or ravines unknown to us*. In obedience to my instructions I advanced, anddiscovered that the Russian camp was situated be-hind the river Kologha upon a narrow eminencCjand that its left was very much weakened by theloss of the redoubt which we had taken the even^ing before. In front of the camp and opposite tous was the village of Borodino, an extremelystrong positionf, situated at the confluence of a * The plan, which will be found here, has been engravedafter that which the Viceroy used on the day of battle. t Napoleon said in his bulletin of the battle of the Moskwa, The Viceroy, who formed our left, attacked and took the village of Borodino, which the enemy could not defend.*Prince Kutusoff on the contrary wrote to the Emperor Alex-ander, The position which I have chosen in the village of Bo- rodino, is one of the best that can be found in a flat country.*« It is to be wished that the French would attack us in this k2 Text Appearing After Image: THE MOSKWA. 1^% our staff, who informed me that the Emperorwished for a plan of the ground which we hadoccupied the preceding evening. I transmittedit to prince Eugene, who immediately sent it toNapoleon. The next morning, at day break (6thof September), the Viceroy ordered me to com-plete the plan by inspecting the whole line, andapproaching as near the enemy as I possibly could,that I might the better discover the exact natureof the ground on which they were encamped, andespecially to observe whether there were anymasked batteries, or ravines unknown to us*. In obedience to my instructions I advanced, anddiscovered that the Russian camp was situated be-hind the river Kologha upon a narrow eminence^and that its left was very much weakened by theloss of the redoubt which we had taken the even^ing before. In front of the camp and opposite tous was the village of Borodino, an extremelystrong position-f, situated at the confluence of a * The plan, which will be found here, has been engra Note About Images Please note that these images are extracted from scanned page images that may have been digitally enhanced for readability - coloration and appearance of these illustrations may not perfectly resemble the original work.","creator":"Labaume, Eugène, 1783-1849","provider":"commons","providerLabel":"Wikimedia Commons","license":"No restrictions","rightsNote":"No known copyright restrictions","dateDisplay":"1815","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AA_circumstantial_narrative_of_the_campaign_in_Russia_-_embellished_with_plans_of_the_battles_of_the_Moskwa_and_Malo-Jaroslavitz_%281815%29_%2814590360317%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/18/A_circumstantial_narrative_of_the_campaign_in_Russia_-_embellished_with_plans_of_the_battles_of_the_Moskwa_and_Malo-Jaroslavitz_%281815%29_%2814590360317%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-a3df9c903a962f0492596dae","title":"A circumstantial narrative of the campaign in Russia - embellished with plans of the battles of the Moskwa and Malo-Jaroslavitz (1815) (14774496834).jpg","caption":"Identifier : circumstantialna00laba ( find matches ) Title : A circumstantial narrative of the campaign in Russia : embellished with plans of the battles of the Moskwa and Malo-Jaroslavitz Year : 1815 ( 1810s ) Authors : Labaume, Eugène, 1783-1849 Subjects : Napoleon I, Emperor of the French, 1769-1821 Publisher : London : Printed for Samuel Leigh Contributing Library : University of Pittsburgh Library System Digitizing Sponsor : Lyrasis Members and Sloan Foundation View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Text Appearing Before Image: with intrepidity the fire of the enemy,and coolly closed the ranks, as soon as a cannon-ball had laid any of our comrades low. In the meantime, the night becoming more ob-scure abated the fire without abating our ardour;and our soldiers, uncertain of their aim, reservedtheir strength and their ammunition for the mor-row. Scarcely had we ceased firing, when theRussians, whose camp resembled a vast amphi-theatre, lighted innumerable fires. The whole oftheir camp was one uninterrupted blaze of light,which, while it presented a grand and sublime ap-pearance, formed a striking contrast with ourbivouac, where the soldiers, unable to procurewood, reposed in utter darkness, and heard nosound but the groans of the wounded. Our head quarters were established on the spotwhere the Italian guard was placed in reserve.Couched in the underwood, we slept soundlyafter the fatigues of the day, in spite of an im-petuous wind, and a rain excessively cold. To-wards midnight I was awakened by the chief of Text Appearing After Image: THE MOSKWA. 13jt our staff, who informed me that the Emperorwished for a plan of the ground which we hadoccupied the preceding evening. I transmittedit to prince Eugene, Avho immediately sent it toNapoleon. The next morning, at daj break (6thof September), the Viceroy ordered me to com-plete the plan by inspecting the whole line, andapproaching as near the enemy as I possibly could,that I might the better discover the exact natureof the ground on which they were encamped, andespecially to observe whether there were anymasked batteries, or ravines unknown to us*. In obedience to my instructions I advanced, anddiscovered that the Russian camp was situated be-hind the river Kologha upon a narrow eminencCjand that its left was very much weakened by theloss of the redoubt which we had taken the even^ing before. In front of the camp and opposite tous was the village of Borodino, an extremelystrong positionf, situated at the confluence of a * The plan, which will be found here, has been engr Note About Images Please note that these images are extracted from scanned page images that may have been digitally enhanced for readability - coloration and appearance of these illustrations may not perfectly resemble the original work.","creator":"Labaume, Eugène, 1783-1849","provider":"commons","providerLabel":"Wikimedia Commons","license":"No restrictions","rightsNote":"No known copyright restrictions","dateDisplay":"1815","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AA_circumstantial_narrative_of_the_campaign_in_Russia_-_embellished_with_plans_of_the_battles_of_the_Moskwa_and_Malo-Jaroslavitz_%281815%29_%2814774496834%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/18/A_circumstantial_narrative_of_the_campaign_in_Russia_-_embellished_with_plans_of_the_battles_of_the_Moskwa_and_Malo-Jaroslavitz_%281815%29_%2814774496834%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
 ---
 # Maskva
 
 ## Santrauka
 
-Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir ilgainiui stiprėjanti grėsmė. Algirdo žygiai į Maskvą minimi Lietuvos metraščių epiniuose siužetuose, o Vytautas siekė ją paimti savo valdžion arba bent turėti didelę įtaką. Vėlesniuose kontekstuose Maskva siejama su Lietuvos Metrikos saugojimu, Basanavičiaus studijomis ir 1940 m. delegacijos prašymu įeiti į SSRS sudėtį.
+Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas ir ilgainiui išaugęs pavojus, pagal kurį autorius siūlo matyti Lietuvos istorijos lūžius. Šiame šaltinyje Maskva taip pat rodoma kaip Vytauto dinastinių planų ir artimos giminystės su Sofija centras.
 
 ## Teiginiai
+
 <a id="claim-t-177701"></a>
-- t-001
+- t-122
   global_id: t-177701
-  teiginys: 'Vytautas siekė paimti Maskvą savo valdžion arba bent turėti jai didelę įtaką.'
+  teiginys: "Vytautas siekė paimti Maskvą savo valdžion arba bent turėti jai didelę įtaką."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "652643-653096; hash=f0787908e3cc403d48fe40b24ddcfbcb5355fa9327bf241fc4628fdc900aa646; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-37540
 
 <a id="claim-t-177703"></a>
-- t-002
+- t-054
   global_id: t-177703
-  teiginys: 'Keliais šimtmečiais Lietuva gynė sukurtą didvalstybę nuo stiprėjančių rytų grėsmių, tarp jų Maskvos.'
+  teiginys: "Keliais šimtmečiais Lietuva gynė sukurtą didvalstybę nuo stiprėjančių rytų grėsmių, tarp jų Maskvos."
+  temporaliniai_duomenys: "įvykio data: 1919-1920; įvykio data: 1920 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "21236-22009; hash=344e38eecfa0059e9a5732900bca9feb05add835d70db15930726b2f972203ad; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-43625
 
 <a id="claim-t-177704"></a>
-- t-003
+- t-090
   global_id: t-177704
-  teiginys: 'Maskvoje saugoma Lietuvos Metrika tapo Lietuvos paveldo išbarstymo ar išgrobstymo simboliu.'
+  teiginys: "Maskvoje saugoma Lietuvos Metrika tapo Lietuvos paveldo išbarstymo ar išgrobstymo simboliu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "107916-108345; hash=a7554882a3caff58ac8dbe2f55f94aa4cca42380d201f0472c9522cff3e30fbb; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-049
+    - c-161597
 
 <a id="claim-t-177705"></a>
-- t-004
+- t-030
   global_id: t-177705
-  teiginys: 'Jonas Basanavičius, pirmasis mėnraščio redaktorius, buvo baigęs medicinos studijas Maskvoje.'
+  teiginys: "Jonas Basanavičius, pirmasis mėnraščio redaktorius, buvo baigęs medicinos studijas Maskvoje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "225039-225725; hash=1a42ec31d8f84b2c50696c2715521a48e52e9201a73c3ea262f152052c9ecab9; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Baltai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-056
+    - c-161615
 
 <a id="claim-t-177707"></a>
-- t-005
+- t-071
   global_id: t-177707
-  teiginys: 'Maskvos metropolitams kasmet buvo teikiamos nemažos pajamos iš Lietuvos.'
+  teiginys: "Maskvos metropolitams kasmet buvo teikiamos nemažos pajamos iš Lietuvos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "344013-344575; hash=e596711203f1338bd7377e1b7cb833f17a297d39d757c3a9e47e9758e0abe2fe; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=63"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-019
+    - c-161553
 
 <a id="claim-t-177708"></a>
-- t-006
+- t-023
   global_id: t-177708
-  teiginys: '1427 m. Vytautas žygiavo į Maskvą padėti vaikaičiui Baziliui II, ir tam pakako pademonstruoti jėgą.'
+  teiginys: "1427 m. Vytautas žygiavo į Maskvą padėti vaikaičiui Baziliui II, ir tam pakako pademonstruoti jėgą."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) surengė žygį į Maskva (0.91)"
+  temporaliniai_duomenys: "įvykio data: 1426 m.; įvykio data: 1427 m.; įvykio data: 1428 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys yra aiškus, faktinis ir paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "92869-93210; hash=8ab2e8e39c87cea97b33bfce064b3174f65164d1a11066bb73e0c9c5a83120d8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Maskva: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vytautas tiesiogiai aprašytas kaip žygiavęs į Maskvą."
   pagrindžia:
-    - c-034
+    - c-161575
 
 <a id="claim-t-177709"></a>
-- t-007
+- t-078
   global_id: t-177709
-  teiginys: 'Aleksandro ir Elenos santuoka skatino steigti užeigas pirkliams, atvykstantiems į Vilnių iš Maskvos, Naugardo, Pskovo ir Tverės.'
+  teiginys: "Aleksandro ir Elenos santuoka skatino steigti užeigas pirkliams, atvykstantiems į Vilnių iš Maskvos, Naugardo, Pskovo ir Tverės."
+  semantiniai_rysiai: "Vilnius prekiavo su Maskva (0.76); Vilnius prekiavo su Pskovas (0.76); Vilnius prekiavo su Tverė (0.76)"
+  temporaliniai_duomenys: "įvykio data: 1500 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, faktinis ir tiksliai remiasi citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "468419-468950; hash=58e1933f8b19df3b36d40842bc611abafee5e4bb671d3e565ad0379034ff79e2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Maskva: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vilniaus prekybiniai santykiai apėmė pirklius iš Maskvos."
   pagrindžia:
-    - c-018
+    - c-161552
 
 <a id="claim-t-177710"></a>
-- t-008
+- t-019
   global_id: t-177710
-  teiginys: 'Lietuvos metraščiuose Algirdo žygiai į Maskvą priskiriami epinius pasakojimus atitinkantiems siužetams.'
+  teiginys: "Lietuvos metraščiuose Algirdo žygiai į Maskvą priskiriami epinius pasakojimus atitinkantiems siužetams."
+  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) surengė žygį į Maskva (0.86)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "37783-38366; hash=7cf892ef976e30290a3a846de607b77946be7f676ace4fc26b9d07f4761998a8; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Maskva: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Formuluotė tiesiogiai sieja Algirdą su žygiais į Maskvą."
   pagrindžia:
-    - c-002
+    - c-24290
 
 <a id="claim-t-177711"></a>
-- t-009
+- t-053
   global_id: t-177711
-  teiginys: 'Vytautas esą žadėjo Tochtamišui ordos sostą mainais į savo pasodinimą Maskvos didžiojoje kunigaikštijoje ir visos Rusios valdžioje.'
+  teiginys: "Vytautas esą žadėjo Tochtamišui ordos sostą mainais į savo pasodinimą Maskvos didžiojoje kunigaikštijoje ir visos Rusios valdžioje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "860781-861198; hash=535c6b81a6fd04959a0d3cb50e0d3e7e7fdb9c4fa1301eac9668b33b7368deb5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-040
+    - c-161583
 
 <a id="claim-t-177712"></a>
-- t-010
+- t-099
   global_id: t-177712
-  teiginys: 'J. Paleckio vadovaujama delegacija Maskvoje 1940 m. rugpjūčio 3 d. pasiprašė įeiti į SSRS sudėtį.'
+  teiginys: "J. Paleckio vadovaujama delegacija Maskvoje 1940 m. rugpjūčio 3 d. pasiprašė įeiti į SSRS sudėtį."
+  temporaliniai_duomenys: "įvykio data: 1940 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys yra kontekstinis fragmentas be aiškaus veiksnio."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "388681-389083; hash=91dae415ee835aa8bc28f646b03ad4d0ef70d7b6b8cb577fdb84daffad713dbf; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> SSRS: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "SSRS: mention_match, place, gap=50"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"SSRS\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-038
+    - c-161581
 
 <a id="claim-t-177713"></a>
-- t-011
+- t-052
   global_id: t-177713
-  teiginys: '1372 m. balandį trečiąjį Maskvos žygį pradėjo Kęstutis ir Andrius Algirdaitis, įsiveržę į Dmitrijaus Doniečio žemes.'
+  teiginys: "1372 m. balandį trečiąjį Maskvos žygį pradėjo Kęstutis ir Andrius Algirdaitis, įsiveržę į Dmitrijaus Doniečio žemes."
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) surengė žygį į Maskva (0.86); Andrius Algirdaitis surengė žygį į Maskva (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1372 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "733840-733991; hash=aeed791c5d8ad8672ef0b84c343fcb1d9aeab72fe704df3f5447eaad2e6c1223; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Maskva: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kęstutis tiesiogiai įvardytas kaip pradėjęs trečiąjį Maskvos žygį."
   pagrindžia:
-    - c-004
+    - c-32225
 
 <a id="claim-t-177714"></a>
-- t-012
+- t-001
   global_id: t-177714
-  teiginys: 'Po Lietuvos didvalstybės sukūrimo Maskva laikyta viena iš stiprėjančių rytų grėsmių.'
+  teiginys: "Po Lietuvos didvalstybės sukūrimo Maskva laikyta viena iš stiprėjančių rytų grėsmių."
+  temporaliniai_duomenys: "įvykio data: 1919-1920; įvykio data: 1920 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "21236-22009; hash=344e38eecfa0059e9a5732900bca9feb05add835d70db15930726b2f972203ad; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Viena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=15"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-43625
 
 <a id="claim-t-177715"></a>
-- t-013
+- t-092
   global_id: t-177715
-  teiginys: 'Karai su Maskvos didžiąja kunigaikštyste dėl rytinių teritorijų kėlė ATR ir Rusijos konfliktus XVII a.'
+  teiginys: "Karai su Maskvos didžiąja kunigaikštyste dėl rytinių teritorijų kėlė ATR ir Rusijos konfliktus XVII a."
+  temporaliniai_duomenys: "įvykio data: 1791 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys yra gramatiškas ir pagrįstas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "157515-158159; hash=1598d422d3aabad070e58258cd86e098a0de60987b6101f2f96bd10333421847; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Rusija: mention_match, place, gap=67"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Rusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-055
+    - c-161612
 
 <a id="claim-t-177716"></a>
-- t-014
+- t-035
   global_id: t-177716
-  teiginys: 'Per Lenkijos ultimatumą Maskva ir Berlynas Kaunui patarė priimti lenkų reikalavimus.'
+  teiginys: "Per Lenkijos ultimatumą Maskva ir Berlynas Kaunui patarė priimti lenkų reikalavimus."
+  temporaliniai_duomenys: "įvykio data: 1937 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko aiškesnį kontekstą apie ultimatumą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "359491-359826; hash=c78b2967fde686b37b79a5f9087b7ddefe4182f7ff41adba41a050ae399c018e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Berlynas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Berlynas: mention_match, place, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Berlynas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-022
+    - c-161557
 
 <a id="claim-t-177717"></a>
-- t-015
+- t-034
   global_id: t-177717
-  teiginys: 'Maskva, nepaisydama Lenkijos nepasitenkinimo, pripažino Lietuvos suverenitetą Vilniuje.'
+  teiginys: "Maskva, nepaisydama Lenkijos nepasitenkinimo, pripažino Lietuvos suverenitetą Vilniuje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "310762-311203; hash=50a19477c97c91a12556f17d17cb875e0f14daf2c96e3cb31ba4953b2a619d2b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-027
+    - c-161567
 
 <a id="claim-t-177718"></a>
-- t-016
+- t-039
   global_id: t-177718
-  teiginys: '1940 m. birželio 10 d. Kaune nutarta pasiųsti ministrą J. Urbšį į Maskvą, nes A. Merkiui nesisekė normalizuoti situacijos.'
+  teiginys: "1940 m. birželio 10 d. Kaune nutarta pasiųsti ministrą J. Urbšį į Maskvą, nes A. Merkiui nesisekė normalizuoti situacijos."
+  temporaliniai_duomenys: "įvykio data: 1940 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "376746-377145; hash=d4dc028bca02bd856245728cade306243d090f9c5b1e764322cde0eada76d771; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Merkys: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Merkys: mention_match, place, gap=15"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Merkys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-061
+    - c-161629
+
+<a id="claim-t-177719"></a>
+- t-089
+  global_id: t-177719
+  teiginys: "1427 m. Vytautas žygiavo į Maskvą padėti vaikaičiui Baziliui II, ir tam pakako pademonstruoti jėgą."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) surengė žygį į Maskva (0.92)"
+  temporaliniai_duomenys: "įvykio data: 1427 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys yra aiškus, faktinis ir paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "92815-93064; hash=26e8f904c2932a79e68accf8b34d099a358876ab99c6fb26ac0d426852914bf6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Maskva: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vytautas tiesiogiai nurodytas kaip žygiavęs į Maskvą."
+  pagrindžia:
+    - c-161563
 
 <a id="claim-t-177720"></a>
-- t-018
+- t-070
   global_id: t-177720
-  teiginys: 'Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
+  teiginys: "Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių."
+  semantiniai_rysiai: "Vilnius prekiavo su Ryga (0.67); Vilnius prekiavo su Maskva (0.67)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "93146-93648; hash=d03cd0d63b00ce75a45b7850bd579ec94fe842ba5d9b51645f45a8ec9292ebd1; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Maskva: 0.67"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vilniuje vykę mainai apėmė Maskvos pirklius, todėl tai rodo prekybinį ryšį."
   pagrindžia:
-    - c-059
+    - c-161622
 
 <a id="claim-t-177722"></a>
-- t-019
+- t-109
   global_id: t-177722
-  teiginys: 'Po caro Teodoro mirties Maskvoje prasidėjo perversmų laikotarpis, vadinamas didžiąja suirute (smuta).'
+  teiginys: "Po caro Teodoro mirties Maskvoje prasidėjo perversmų laikotarpis, vadinamas didžiąja suirute (smuta)."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "594255-594573; hash=ecf2e20357e36979f1a4f2d270a6c9eb8e98ebf7a74cf677313ba44436834b19; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> didžioji suirutė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "didžioji suirutė: mention_match, thing, gap=52"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"didžioji suirutė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-013
+    - c-46614
 
 <a id="claim-t-177723"></a>
-- t-020
+- t-066
   global_id: t-177723
-  teiginys: 'Vytautas rytuose siekė valdyti arba stipriai paveikti Pskovą, Naugardą, Maskvą, Tverę, Riazanę ir totorius.'
+  teiginys: "Vytautas rytuose siekė valdyti arba stipriai paveikti Pskovą, Naugardą, Maskvą, Tverę, Riazanę ir totorius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "652643-653096; hash=f0787908e3cc403d48fe40b24ddcfbcb5355fa9327bf241fc4628fdc900aa646; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Riazanė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Riazanė: mention_match, place, gap=15"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Riazanė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-37540
 
 <a id="claim-t-177724"></a>
-- t-021
+- t-120
   global_id: t-177724
-  teiginys: 'Tapęs savo duktėno globėju, Vytautas kartu tapo Maskvos kunigaikštijos protektoriumi.'
+  teiginys: "Tapęs savo duktėno globėju, Vytautas kartu tapo Maskvos kunigaikštijos protektoriumi."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) rėmė Vosylius I (0.78); Vytautas (Lietuvos valdovas, XIV–XV a.) valdė Maskva (0.66)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "350634-351496; hash=8285a54b9a190058296f81b65fcda2b935871cbeb0d073322a61fb2b9a7e1f0a; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Vosylius I: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vosylius I: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Vytauto globėjo vaidmuo Vosyliaus šeimos įpėdinio atžvilgiu rodo politinę paramą."
   pagrindžia:
-    - c-005
+    - c-37537
 
 <a id="claim-t-177725"></a>
-- t-022
+- t-095
   global_id: t-177725
-  teiginys: 'Georgijaus Čičerino nota patvirtino Lietuvos interesus Vilniuje ir Maskvos poziciją dėl Lietuvos teritorinio suverenumo.'
+  teiginys: "Georgijaus Čičerino nota patvirtino Lietuvos interesus Vilniuje ir Maskvos poziciją dėl Lietuvos teritorinio suverenumo."
+  semantiniai_rysiai: "Vilnius priklausė Lietuva (0.76)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "310762-311203; hash=50a19477c97c91a12556f17d17cb875e0f14daf2c96e3cb31ba4953b2a619d2b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Lietuvos suvereniteto Vilniuje pripažinimas tiesiogiai rodo Vilniaus priklausymą Lietuvos suverenitetui."
   pagrindžia:
-    - c-027
+    - c-161567
 
 <a id="claim-t-177726"></a>
-- t-023
+- t-132
   global_id: t-177726
-  teiginys: '1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė Juozą Urbšį pasirašyti sutartis dėl savitarpio pagalbos, Vilniaus krašto ir pietvakarių Lietuvos.'
+  teiginys: "1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė Juozą Urbšį pasirašyti sutartis dėl savitarpio pagalbos, Vilniaus krašto ir pietvakarių Lietuvos."
+  temporaliniai_duomenys: "sutarties data: 1939 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys yra pilnas ir paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "371343-371767; hash=4e5a99b9e32dbac10bc3b9f9afe371b92f9a4754cea48bd9e4bfc979087f9490; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Josifas Stalinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Josifas Stalinas: mention_match, person, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Josifas Stalinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-044
+    - c-161591
 
 <a id="claim-t-177727"></a>
-- t-024
+- t-060
   global_id: t-177727
-  teiginys: 'Maskva, siekdama sujungti visą Rusią, reiškė pretenzijas į Naugardo ir Pskovo respublikas.'
+  teiginys: "Maskva, siekdama sujungti visą Rusią, reiškė pretenzijas į Naugardo ir Pskovo respublikas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "149755-150283; hash=4a098fad0d768ad1403421d68bdb1b30c9b89dbc064a0b7e0e6e0c8b228ed6b3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Naugardas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Naugardas: mention_match, place, gap=59"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Naugardas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-066
+    - c-161636
 
 <a id="claim-t-177732"></a>
-- t-025
+- t-077
   global_id: t-177732
-  teiginys: '1496 m. sausį iš Maskvos išvykusi kunigaikštytė Elena vasarį atvyko į Vilnių.'
+  teiginys: "1496 m. sausį iš Maskvos išvykusi kunigaikštytė Elena vasarį atvyko į Vilnių."
+  semantiniai_rysiai: "Elena (vyskupas, XV–XVI a.) keliavo į Vilnius (0.95)"
+  temporaliniai_duomenys: "kelionės data: 1494 m.; kelionės data: 1495 m.; kelionės data: 1496 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Elena (vyskupas, XV–XVI a.) keliavo į Vilnius“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "317206-317485; hash=fe26cca7e674a171b5679b7237bd21fbfeb1c0390b1d4aa7f42edaec16585c86; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Elenos atvykimą į Vilnių."
   pagrindžia:
-    - c-017
+    - c-161551
 
 <a id="claim-t-177733"></a>
-- t-026
+- t-091
   global_id: t-177733
-  teiginys: 'Stepono Batoro valdymo metais Livonijos kare pasiektos lemiamos pergalės prieš Maskvą.'
+  teiginys: "Stepono Batoro valdymo metais Livonijos kare pasiektos lemiamos pergalės prieš Maskvą."
+  temporaliniai_duomenys: "įvykio data: 1576-1586; įvykio data: 1586 m.; įvykio data: 1609-1611; įvykio data: 1611 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir suformuluotas trumpas faktas apie Maskvą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "126507-126863; hash=9c6afa83b8e77850220626a1b59eea32b3799d8e7b90cf3196a80b1618c008d8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-064
+    - c-161633
 
-<a id="claim-t-177734"></a>
-- t-027
-  global_id: t-177734
-  teiginys: 'Maskva ir Leningradas buvo pagrindiniai iš Lietuvos išvežamų maisto produktų vartotojai.'
+<a id="claim-t-177772"></a>
+- t-045
+  global_id: t-177772
+  teiginys: "Maskva ir Leningradas buvo pagrindiniai iš Lietuvos išvežamų maisto produktų vartotojai."
+  semantiniai_rysiai: "Maskva prekiavo su Lietuva (0.62); Leningradas prekiavo su Lietuva (0.62)"
+  temporaliniai_duomenys: "įvykio data: 1959 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys yra aiškus ir tiesiogiai mini Maskvą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "445887-446872; hash=e73da3d46d9778647da847ad3e2afb4848e1e1227df1211e4873eb710a0aec45; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Lietuva: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Maisto produktų išvežimas iš Lietuvos į Maskvą rodo ekonominį prekių srautą tarp šių vietų."
   pagrindžia:
-    - c-047
+    - c-161594
 
 <a id="claim-t-177735"></a>
-- t-028
+- t-096
   global_id: t-177735
-  teiginys: 'Per Lenkijos ultimatumą Prancūzija, Britanija, Maskva ir Berlynas patarė Kaunui priimti lenkų reikalavimus.'
+  teiginys: "Per Lenkijos ultimatumą Prancūzija, Britanija, Maskva ir Berlynas patarė Kaunui priimti lenkų reikalavimus."
+  temporaliniai_duomenys: "įvykio data: 1937 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Patikslintas kontekstas ir išplėstas dalyvių pavadinimas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "359491-359826; hash=c78b2967fde686b37b79a5f9087b7ddefe4182f7ff41adba41a050ae399c018e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Berlynas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Berlynas: mention_match, place, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Berlynas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-022
+    - c-161557
 
-<a id="claim-t-177736"></a>
-- t-029
-  global_id: t-177736
-  teiginys: '1494 m. balandžio 18 d. Maskvoje Lietuvos pasiuntiniai pasirašė amžinos taikos sutartį su caru.'
+<a id="claim-t-177758"></a>
+- t-076
+  global_id: t-177758
+  teiginys: "1494 m. balandžio 18 d. Maskvoje Lietuvos pasiuntiniai pasirašė amžinos taikos sutartį su caru."
+  temporaliniai_duomenys: "įvykio data: 1494 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "439909-440108; hash=002a8c92d824d2eaad5762cf172c1874495beae74f7417c366302a86cae9270b; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-058
+    - c-161620
 
 <a id="claim-t-177737"></a>
-- t-030
+- t-094
   global_id: t-177737
-  teiginys: 'Tomo Naruševičiaus vadovaujama Lietuvos delegacija Maskvoje reikalavo pripažinti atkurtą Lietuvos valstybę.'
+  teiginys: "Tomo Naruševičiaus vadovaujama Lietuvos delegacija Maskvoje reikalavo pripažinti atkurtą Lietuvos valstybę."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "279536-280105; hash=d7bb2a12d508c3e7be4c9ea2bed2d98e61f9a57d5fd2ba7e25e1a9e145338e80; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-045
+    - c-161592
 
 <a id="claim-t-177738"></a>
-- t-031
+- t-026
   global_id: t-177738
-  teiginys: 'Livonijos kare pasiektos pergalės prieš Maskvą jos pavojų atitolino daugiau nei pusamžiui.'
+  teiginys: "Livonijos kare pasiektos pergalės prieš Maskvą jos pavojų atitolino daugiau nei pusamžiui."
+  temporaliniai_duomenys: "įvykio data: 1576-1586; įvykio data: 1586 m.; įvykio data: 1609-1611; įvykio data: 1611 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "126657-126981; hash=14d453a5756d6c31c504531f4e4541cb1b474a083d8646c3cec4ce05267f52de; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-033
+    - c-161574
 
 <a id="claim-t-177739"></a>
-- t-032
+- t-088
   global_id: t-177739
-  teiginys: 'Lietuvos metraščiuose užrašyti epiniai siužetai apie Gedimino sapną, Algirdo žygius į Maskvą ir Kęstučio bei Birutės meilę.'
+  teiginys: "Lietuvos metraščiuose užrašyti epiniai siužetai apie Gedimino sapną, Algirdo žygius į Maskvą ir Kęstučio bei Birutės meilę."
+  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) surengė žygį į Algirdo žygiai į Maskvą (0.88)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "37783-38366; hash=7cf892ef976e30290a3a846de607b77946be7f676ace4fc26b9d07f4761998a8; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Algirdo žygiai į Maskvą: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Algirdo žygiai į Maskvą: llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Citata tiesiogiai sieja Algirdą su jo žygiais į Maskvą kaip įvykiu."
   pagrindžia:
-    - c-002
+    - c-24290
 
 <a id="claim-t-177740"></a>
-- t-033
+- t-117
   global_id: t-177740
-  teiginys: 'Dėl karo su Maskva patirtų nuostolių Vilniaus vyskupija sunkiai galėjo aprūpinti klierikų kolegiją lėšomis.'
+  teiginys: "Dėl karo su Maskva patirtų nuostolių Vilniaus vyskupija sunkiai galėjo aprūpinti klierikų kolegiją lėšomis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "805459-806374; hash=cdc69916640a298b30083ac476ee618e23426b2a8cce798a0839dcaf48eee9c2; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilniaus vyskupija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilniaus vyskupija: mention_match, place, gap=25"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Vilniaus vyskupija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-029
+    - c-161569
 
 <a id="claim-t-177741"></a>
-- t-034
+- t-056
   global_id: t-177741
-  teiginys: '1617–1618 m. žygyje į Maskvą Jonas Karolis Chodkevičius pasiekė laimėjimų, tačiau Maskvos užimti nepavyko.'
+  teiginys: "1617–1618 m. žygyje į Maskvą Jonas Karolis Chodkevičius pasiekė laimėjimų, tačiau Maskvos užimti nepavyko."
+  temporaliniai_duomenys: "įvykio data: 1617-1618; įvykio data: 1618 m.; įvykio data: 1621 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia aiškiai įvardyti žygio dalyvį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "451505-451818; hash=cec5e0cf4ecd0431d8eebe302453171323f0f25cb4744fedf3389792668bda8d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Chodkevičiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Chodkevičiai: mention_match, group, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Chodkevičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-067
+    - c-161640
 
 <a id="claim-t-177742"></a>
-- t-035
+- t-050
   global_id: t-177742
-  teiginys: 'Algirdas ir Maskvos kunigaikščiai tapo nesutaikomais priešais.'
+  teiginys: "Algirdas ir Maskvos kunigaikščiai tapo nesutaikomais priešais."
+  temporaliniai_duomenys: "įvykio data: 1349 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "726895-727286; hash=237cceed8fc6462acb6edde5be37739aab1efbf37fe8819e11ad9a1c11cec4d4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> kunigaikščiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "kunigaikščiai: mention_match, thing, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"kunigaikščiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-031
+    - c-161571
 
 <a id="claim-t-177743"></a>
-- t-036
+- t-102
   global_id: t-177743
-  teiginys: '1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė santykius su Maskvos disidentais ir teikė informaciją iš Lietuvos.'
+  teiginys: "1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė santykius su Maskvos disidentais ir teikė informaciją iš Lietuvos."
+  temporaliniai_duomenys: "įvykio data: 1948 m.; įvykio data: 1960 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys yra pilnas, gramatiškas ir pagrįstas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "472010-472675; hash=a03e2071d997acc6324addf61b26b8aeeb94da7aa507b1547aac8898588629f9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-052
+    - c-161604
 
 <a id="claim-t-177744"></a>
-- t-037
+- t-107
   global_id: t-177744
-  teiginys: 'XV a. pabaigoje sustiprėjusi Maskvos valstybė ėmė kelti grėsmę Lietuvos teritorijos vientisumui.'
+  teiginys: "XV a. pabaigoje sustiprėjusi Maskvos valstybė ėmė kelti grėsmę Lietuvos teritorijos vientisumui."
+  temporaliniai_duomenys: "įvykio data: 250 m"
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir pagrįstas šaltinio citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "56296-56734; hash=f877d4c1a7737a62f981ef6c32d0777d91e7fa2337483ac6c10626a19f5577c1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=34"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-43627
 
 <a id="claim-t-177745"></a>
-- t-038
+- t-111
   global_id: t-177745
-  teiginys: 'Daugelis brangenybių buvo išvežta į Maskvą ir į Švediją.'
+  teiginys: "Daugelis brangenybių buvo išvežta į Maskvą ir į Švediją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "681864-682203; hash=e519115f4ffb581b4e1872c4643e886cf794bc28aa7887efdc3f3daf8508a888; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Švedai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Švedai: mention_match, group, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Švedai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-041
+    - c-161585
 
 <a id="claim-t-177746"></a>
-- t-039
+- t-124
   global_id: t-177746
-  teiginys: 'Algirdas prie Maskvos mūrų prastovėjo tris dienas ir tris naktis, nuniokojo apylinkę ir grįžo atgal.'
+  teiginys: "Algirdas prie Maskvos mūrų prastovėjo tris dienas ir tris naktis, nuniokojo apylinkę ir grįžo atgal."
+  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) apgulė Maskva (0.74)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "732343-732622; hash=29cafa6cec6d2b6c29824be8be70cbeb9c62ef174b5022331407459afe55b29d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "apgule -> Maskva: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Algirdas stovėjo prie Maskvos mūrų po žygio, todėl galima žymėti apgulties pobūdžio karinį veiksmą."
   pagrindžia:
-    - c-063
+    - c-161632
 
 <a id="claim-t-177747"></a>
-- t-040
+- t-029
   global_id: t-177747
-  teiginys: 'Kaip neprivaloma disciplina lietuvių kalba įsileista ir į kelias Užnemunės vidurines mokyklas, Maskvos universitete paskirta dešimt valstybės stipendijų šių mokyklų auklėtiniams, turintiems atestate lietuvių kalbos pažymį.'
+  teiginys: "Kaip neprivaloma disciplina lietuvių kalba įsileista ir į kelias Užnemunės vidurines mokyklas, Maskvos universitete paskirta dešimt valstybės stipendijų šių mokyklų auklėtiniams, turintiems atestate lietuvių kalbos pažymį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "219105-219670; hash=4a96b162e6c971a57aaf788a03f6d4b9cfec67d181a5746879c15d854a63115e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=67"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-053
+    - c-161606
 
 <a id="claim-t-177748"></a>
-- t-041
+- t-004
   global_id: t-177748
-  teiginys: '1611 m. Jonui Karoliui Chodkevičiui pavesta deblokuoti Maskvoje apsuptą lenkų ir lietuvių įgulą, bet ji kapituliavo.'
+  teiginys: "1611 m. Jonui Karoliui Chodkevičiui pavesta deblokuoti Maskvoje apsuptą lenkų ir lietuvių įgulą, bet ji kapituliavo."
+  temporaliniai_duomenys: "įvykio data: 1611 m.; įvykio data: 1615-1616; įvykio data: 1616 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "451338-451504; hash=5d8613fc60971bb346aed3ade135a7aa0010f22411e0f0e849452f27b19d6e65; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-43628
 
 <a id="claim-t-177749"></a>
-- t-042
+- t-028
   global_id: t-177749
-  teiginys: 'Napoleonui teko trauktis iš Maskvos, o traukimosi metu jo kariuomenė sunyko.'
+  teiginys: "Napoleonui teko trauktis iš Maskvos, o traukimosi metu jo kariuomenė sunyko."
+  temporaliniai_duomenys: "įvykio data: 1812 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys turi kontekstinę jungtį, kurią reikia pašalinti."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "192313-192603; hash=6194d0acd9a2e408c3aa35cbaa959cc6bd542d0c1562bc201455f965d56dacd8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-030
+    - c-161570
 
 <a id="claim-t-177751"></a>
-- t-043
+- t-003
   global_id: t-177751
-  teiginys: 'XV a. pabaigoje stiprėjanti Maskvos valstybė ėmė kelti grėsmę Lietuvos teritorijos vientisumui.'
+  teiginys: "XV a. pabaigoje stiprėjanti Maskvos valstybė ėmė kelti grėsmę Lietuvos teritorijos vientisumui."
+  temporaliniai_duomenys: "įvykio data: 250 m"
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiksliai atitinka citatos faktą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "56296-56734; hash=f877d4c1a7737a62f981ef6c32d0777d91e7fa2337483ac6c10626a19f5577c1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=34"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-43627
 
 <a id="claim-t-177752"></a>
-- t-044
+- t-022
   global_id: t-177752
-  teiginys: 'Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė į Kijevo ir Maskvos dalis, kurių istorija vėliau klostėsi savarankiškai.'
+  teiginys: "Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė į Kijevo ir Maskvos dalis, kurių istorija vėliau klostėsi savarankiškai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "80404-80823; hash=cac34066d1746230c050e63116c55dde99f9c7f62627e520c522aa52c9d962e6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-065
+    - c-161634
 
 <a id="claim-t-177753"></a>
-- t-045
+- t-073
   global_id: t-177753
-  teiginys: '1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas.'
+  teiginys: "1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas."
+  semantiniai_rysiai: "Vasilijus Vasiljevičius keliavo į Trakai (0.90); Vasilijus Vasiljevičius keliavo į Vilnius (0.90)"
+  temporaliniai_duomenys: "kelionės data: 1430 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir atitinka citatoje nurodytus asmenis bei vietas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "351836-352580; hash=e40c668c2ed112ce48b679c617973ea9bf8a2391d31bc475702f9e39683b1625; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Trakai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vasilijus Vasiljevičius: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vasilijus Vasiljevičius nurodytas tarp asmenų, atvykusių į Trakus."
   pagrindžia:
-    - c-023
+    - c-161560
 
 <a id="claim-t-177754"></a>
-- t-046
+- t-033
   global_id: t-177754
-  teiginys: '1926 m. rugsėjo 28 d. Maskvoje Lietuva pasirašė nepuolimo ir neutralumo sutartį su SSRS.'
+  teiginys: "1926 m. rugsėjo 28 d. Maskvoje Lietuva pasirašė nepuolimo ir neutralumo sutartį su SSRS."
+  temporaliniai_duomenys: "įvykio data: 1926 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys yra pilnas, tikslus ir tiesiogiai susijęs su Maskva."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "310377-310687; hash=17c8dbc8197b600308178b08f849f8578f75538a7c5b4475991a266a4581dd8b; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-042
+    - c-161586
 
 <a id="claim-t-177755"></a>
-- t-047
+- t-106
   global_id: t-177755
-  teiginys: 'Maskvos kunigaikštis gavo mongolų leidimą rinkti Aukso ordai duoklę iš kitų senosios Rusios kunigaikštijų.'
+  teiginys: "Maskvos kunigaikštis gavo mongolų leidimą rinkti Aukso ordai duoklę iš kitų senosios Rusios kunigaikštijų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "53285-53768; hash=3de296b4bc145c4a59a833c31e84166f7ce7367e4a228a0df315046691855516; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-054
+    - c-161610
 
 <a id="claim-t-177756"></a>
-- t-048
+- t-032
   global_id: t-177756
-  teiginys: 'Lietuvos kariuomenė į Vilnių įžengė liepos 15 d., jau pasirašius sutartį Maskvoje.'
+  teiginys: "Lietuvos kariuomenė į Vilnių įžengė liepos 15 d., jau pasirašius sutartį Maskvoje."
+  semantiniai_rysiai: "Lietuvos kariuomenė keliavo į Vilnius (0.82)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "282680-282947; hash=5d4b74c146a46461a205c4b0a757789c9eb1d54451109fd5ce0c53289c3ce1a4; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Lietuvos kariuomenė tiesiogiai aprašyta kaip įžengusi į Vilnių."
   pagrindžia:
-    - c-060
+    - c-161623
 
 <a id="claim-t-177757"></a>
-- t-049
+- t-108
   global_id: t-177757
-  teiginys: 'Karai su Maskva rytuose reikalavo daug pinigų, todėl reikėjo rūpintis didesniu parduodamų prekių kiekiu.'
+  teiginys: "Karai su Maskva rytuose reikalavo daug pinigų, todėl reikėjo rūpintis didesniu parduodamų prekių kiekiu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "506467-506838; hash=78d19ee5b0f74286180a5d58ce212471702c215b32c931ab8631c774fd428bdf; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-050
+    - c-161600
+
+<a id="claim-t-177758"></a>
+- t-076
+  global_id: t-177758
+  teiginys: "1494 m. balandžio 18 d. Maskvoje Lietuvos pasiuntiniai pasirašė amžinos taikos sutartį su caru."
+  temporaliniai_duomenys: "įvykio data: 1494 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "439909-440108; hash=002a8c92d824d2eaad5762cf172c1874495beae74f7417c366302a86cae9270b; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-161620
 
 <a id="claim-t-177759"></a>
-- t-051
+- t-024
   global_id: t-177759
-  teiginys: 'Lietuva, Lenkijos padedama, atsilaikė prieš stačiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m. patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio.'
+  teiginys: "Lietuva, Lenkijos padedama, atsilaikė prieš stačiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m. patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio."
+  temporaliniai_duomenys: "įvykio data: 1514 m.; įvykio data: 1526 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys yra gramatiškas ir susieja Maskvą su Oršos pergale."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "98016-98464; hash=57d5864f66c40ef7fd92048954a71ae49b14d547598ae93ddac54f7892fa3d54; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=115"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-020
+    - c-161554
 
 <a id="claim-t-177760"></a>
-- t-052
+- t-020
   global_id: t-177760
-  teiginys: 'Remdamas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmenybę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą, tačiau Kremliaus užimti nepajėgė.'
+  teiginys: "Remdamas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmenybę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą, tačiau Kremliaus užimti nepajėgė."
+  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) surengė žygį į Maskva (0.96)"
+  temporaliniai_duomenys: "įvykio data: 1372 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys yra aiškus, gramatiškas ir tiesiogiai susijęs su Maskva."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "62424-62968; hash=cd31a39a314825c93b1b568d329ad727ac65aacad8be401147d1e879016805eb; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Maskva: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Algirdas surengė žygį į Maskvą."
   pagrindžia:
-    - c-057
+    - c-161616
 
 <a id="claim-t-177761"></a>
-- t-053
+- t-057
   global_id: t-177761
-  teiginys: '1610 m. lenkų kariuomenė, sumušusi rusus prie Klušino, užėmė Maskvą.'
+  teiginys: "1610 m. lenkų kariuomenė, sumušusi rusus prie Klušino, užėmė Maskvą."
+  semantiniai_rysiai: "Lenkai užėmė Maskva (0.96); Lenkai kariavo prieš Rusai (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1610 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas neaiškus kontekstinis žodis „šios“ ir paliktas citatos paremtas faktas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "481356-481705; hash=dcb8bc2f17c620efef2108e841faeffe0d14e2aa786feff925a7df82f2ba5356; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Maskva: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Lenkų kariuomenė tiesiogiai įvardyta kaip užėmusi Maskvą."
   pagrindžia:
-    - c-010
+    - c-43629
 
 <a id="claim-t-177762"></a>
-- t-054
+- t-074
   global_id: t-177762
-  teiginys: 'Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, bet nieko nelaimėjęs išvyko į Maskvą.'
+  teiginys: "Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, bet nieko nelaimėjęs išvyko į Maskvą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "356379-357104; hash=e8bce848023e3a999938b0ebbfdd8b43b06f7f7aa1bcc6aad32821ba2f716b9f; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kijevas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kijevas: mention_match, place, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-062
+    - c-161631
 
 <a id="claim-t-177764"></a>
-- t-055
+- t-065
   global_id: t-177764
-  teiginys: 'Pas Vytautą atvyko Maskvos didysis kunigaikštis, Tverės, Riazanės, Naugardo ir Pskovo kunigaikščiai.'
+  teiginys: "Pas Vytautą atvyko Maskvos didysis kunigaikštis, Tverės, Riazanės, Naugardo ir Pskovo kunigaikščiai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "523585-523977; hash=99682e2ec5022bd9b1ad11b7a89741233c97d4c790c0a0de28df37e92f039359; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Naugardas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Naugardas: mention_match, place, gap=48"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Naugardas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-039
+    - c-161582
 
 <a id="claim-t-177765"></a>
-- t-056
+- t-114
   global_id: t-177765
-  teiginys: 'Kunigaikštis Mykolas tremtyje Maskvoje mirė nunuodytas kažkokiame vienuolyne.'
+  teiginys: "Kunigaikštis Mykolas tremtyje Maskvoje mirė nunuodytas kažkokiame vienuolyne."
+  semantiniai_rysiai: "Mykolas mirė Maskva (0.86)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "461829-462297; hash=a1b537b1e9bc537f0abfa07c3df49e1e95c5c096a9af56a5df93ebbf33364890; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "mire -> Maskva: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mykolas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Mykolas mirė tremtyje Maskvoje, todėl vietos mirties ryšys tiesiogiai pagrįstas."
   pagrindžia:
-    - c-024
+    - c-161562
 
 <a id="claim-t-177766"></a>
-- t-057
+- t-107
   global_id: t-177766
-  teiginys: 'Į suvažiavimą atvyko Vytautas, Jogaila, Maskvos, Tverės ir Riazanės kunigaikščiai, imperatorius Zigmantas ir popiežiaus legatas.'
+  teiginys: "Į suvažiavimą atvyko Vytautas, Jogaila, Maskvos, Tverės ir Riazanės kunigaikščiai, imperatorius Zigmantas ir popiežiaus legatas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "299353-299805; hash=1aa145b2dd8369c390bd0e6de913ca6f9049dd53fb7c179242cd1ff026edb5d7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Riazanė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Riazanė: mention_match, place, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Riazanė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-012
+    - c-46608
 
 <a id="claim-t-177767"></a>
-- t-058
+- t-048
   global_id: t-177767
-  teiginys: '1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais.'
+  teiginys: "1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais."
+  temporaliniai_duomenys: "įvykio data: 1948 m.; įvykio data: 1960 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta glaudžiau, paliekant tiesiogiai su Maskva susijusį faktą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "472010-472675; hash=a03e2071d997acc6324addf61b26b8aeeb94da7aa507b1547aac8898588629f9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Disidentinio judėjimo pradžia Lietuvoje (1960 m.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Disidentinio judėjimo pradžia Lietuvoje (1960 m.): mention_match, event"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Disidentinio judėjimo pradžia Lietuvoje (1960 m.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-052
+    - c-161604
 
 <a id="claim-t-177768"></a>
-- t-059
+- t-106
   global_id: t-177768
-  teiginys: 'Vytauto kariuomenės būrys palydėjo į Maskvą vykstantį kunigaikščio sūnų Vosylių.'
+  teiginys: "Vytauto kariuomenės būrys palydėjo į Maskvą vykstantį kunigaikščio sūnų Vosylių."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "235445-235731; hash=59fda711d42e68ff27a424e52ec12a1b08274bfe6edc9749fb7d67ac98ae0909; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-069
+    - c-161644
 
 <a id="claim-t-177769"></a>
-- t-060
+- t-062
   global_id: t-177769
-  teiginys: 'Livonijos Ordinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų žemes.'
+  teiginys: "Livonijos Ordinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų žemes."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "302515-303008; hash=ba70f88b431bb1cb6d3c8236b084af6d52c402a976ddbc2f85e0132590eb7ded; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=85"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-068
+    - c-161642
 
 <a id="claim-t-177771"></a>
-- t-061
+- t-043
   global_id: t-177771
-  teiginys: 'Leonidui Brežnevui įsitvirtinus valdžioje, Maskvoje sustiprėjusios stalininės jėgos prisidėjo prie valdymo sugriežtinimo.'
+  teiginys: "Leonidui Brežnevui įsitvirtinus valdžioje, Maskvoje sustiprėjusios stalininės jėgos prisidėjo prie valdymo sugriežtinimo."
+  temporaliniai_duomenys: "įvykio data: 1967-1975; įvykio data: 1975 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "426710-427319; hash=8694b86d12d4a5fd5bcea76332cfa71f60251dd06846b5f21dd5e1b34988976e; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-051
+    - c-161602
+
+<a id="claim-t-177772"></a>
+- t-045
+  global_id: t-177772
+  teiginys: "Maskva ir Leningradas buvo pagrindiniai iš Lietuvos išvežamų maisto produktų vartotojai."
+  semantiniai_rysiai: "Maskva prekiavo su Lietuva (0.62); Leningradas prekiavo su Lietuva (0.62)"
+  temporaliniai_duomenys: "įvykio data: 1959 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys yra aiškus ir tiesiogiai mini Maskvą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "445887-446872; hash=e73da3d46d9778647da847ad3e2afb4848e1e1227df1211e4873eb710a0aec45; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Lietuva: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Maisto produktų išvežimas iš Lietuvos į Maskvą rodo ekonominį prekių srautą tarp šių vietų."
+  pagrindžia:
+    - c-161594
 
 <a id="claim-t-177773"></a>
-- t-063
+- t-006
   global_id: t-177773
-  teiginys: 'Rusijoje kilus dideliam sukilimui, Maskvoje įsitvirtinę lenkai ir lietuviai buvo apsupti ir priversti kapituliuoti.'
+  teiginys: "Rusijoje kilus dideliam sukilimui, Maskvoje įsitvirtinę lenkai ir lietuviai buvo apsupti ir priversti kapituliuoti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "481627-481991; hash=000d5302116ad68f9c0ceea1ecaff867def3af506abe7ac007562e3b1ce6fc94; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-015
+    - c-161549
 
 <a id="claim-t-177774"></a>
-- t-064
+- t-079
   global_id: t-177774
-  teiginys: 'Maskvoje buvo išlikęs priežodis: „Kas Vilniuje nebuvo, tas stebuklų neregėjo.“'
+  teiginys: "Maskvoje buvo išlikęs priežodis: „Kas Vilniuje nebuvo, tas stebuklų neregėjo.“"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "469144-469784; hash=901314158fa15e9d36e7ad67da5bde9cca6918986abf2b853af0f043d47835c1; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=38"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-021
+    - c-161555
 
 <a id="claim-t-177775"></a>
-- t-065
+- t-031
   global_id: t-177775
-  teiginys: 'Tomo Naruševičiaus vadovaujama Lietuvos delegacija Maskvoje pareikalavo pripažinti atkurtą Lietuvos valstybę ir jos tęstinumą nuo LDK.'
+  teiginys: "Tomo Naruševičiaus vadovaujama Lietuvos delegacija Maskvoje pareikalavo pripažinti atkurtą Lietuvos valstybę ir jos tęstinumą nuo LDK."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "279536-280105; hash=d7bb2a12d508c3e7be4c9ea2bed2d98e61f9a57d5fd2ba7e25e1a9e145338e80; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-045
+    - c-161592
 
 <a id="claim-t-177776"></a>
-- t-066
+- t-042
   global_id: t-177776
-  teiginys: 'Vokietijai greitai užėmus Lietuvą, sovietai vos spėjo išgabenti LSSR vyriausybę į Maskvą.'
+  teiginys: "Vokietijai greitai užėmus Lietuvą, sovietai vos spėjo išgabenti LSSR vyriausybę į Maskvą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "400555-401394; hash=27e5512670369bba57f03c6bafe8faa3d5318f1b9c53395a366bcf3c455234ed; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=56"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-016
+    - c-161550
 
-<a id="claim-t-177777"></a>
-- t-067
-  global_id: t-177777
-  teiginys: '1978 m. lapkričio 22 d. Alfonsas Svarinskas, Sigitas Tamkevičius ir Juozas Zdebskis Maskvoje paskelbė apie TTGK įkūrimą Lietuvoje.'
+<a id="claim-t-177796"></a>
+- t-047
+  global_id: t-177796
+  teiginys: "1978 m. lapkričio 22 d. Alfonsas Svarinskas, Sigitas Tamkevičius ir Juozas Zdebskis Maskvoje paskelbė apie TTGK įkūrimą Lietuvoje."
+  semantiniai_rysiai: "Juozas Zdebskis (kunigas) keliavo į Maskva (0.74)"
+  temporaliniai_duomenys: "įvykio data: 1978 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia patikslinti, kad pranešimas vyko Maskvoje, o komitetas įkurtas Lietuvoje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "470797-471561; hash=be3ac7612f2163a3fc7d495c9ce4a8c36f0723c0df4668c9b73a138d65a57c32; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Maskva: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Juozas Zdebskis (kunigas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Juozas Zdebskis dalyvavo Maskvoje vykusioje spaudos konferencijoje, todėl pagrįstas buvimo ar kelionės į Maskvą ryšys."
   pagrindžia:
-    - c-037
+    - c-161580
 
 <a id="claim-t-177779"></a>
-- t-068
+- t-041
   global_id: t-177779
-  teiginys: 'J. Paleckio vadovaujama delegacija Maskvoje rugpjūčio 3 d. pasiprašė neva savanoriškai įeiti į SSRS sudėtį.'
+  teiginys: "J. Paleckio vadovaujama delegacija Maskvoje rugpjūčio 3 d. pasiprašė neva savanoriškai įeiti į SSRS sudėtį."
+  semantiniai_rysiai: "Lietuva priklausė SSRS (0.78)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "388869-389164; hash=43f987cd31500e67a6b695d969d79182e5f6feb2ecd2e8054877ebd6b72f1cd3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> SSRS: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "SSRS: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas nurodo Lietuvos įtraukimą į SSRS sudėtį, nors formuluotė pateikta okupacinės procedūros kontekste."
   pagrindžia:
-    - c-014
+    - c-161548
 
 <a id="claim-t-177782"></a>
-- t-069
+- t-113
   global_id: t-177782
-  teiginys: 'Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, bet dėl Vytauto ligos nieko nelaimėjo.'
+  teiginys: "Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, bet dėl Vytauto ligos nieko nelaimėjo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "356379-357104; hash=e8bce848023e3a999938b0ebbfdd8b43b06f7f7aa1bcc6aad32821ba2f716b9f; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kijevas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kijevas: mention_match, place, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-062
+    - c-161631
 
 <a id="claim-t-177783"></a>
-- t-070
+- t-051
   global_id: t-177783
-  teiginys: 'Algirdas tris dienas ir tris naktis stovėjo prie Maskvos mūrų, nusiaubė apylinkę ir grįžo atgal.'
+  teiginys: "Algirdas tris dienas ir tris naktis stovėjo prie Maskvos mūrų, nusiaubė apylinkę ir grįžo atgal."
+  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) apgulė Maskva (0.74)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "732455-732744; hash=219ce53a7caab62b9ff0b03ba90462fddf12f20fe9416e751073eb6184eb9d43; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "apgule -> Maskva: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Stovėjimas prie Maskvos mūrų po žygio rodo Maskvos apgulimą ar blokavimą, nors citata sako, kad ilgam apgulimui jis nebuvo pasiruošęs."
   pagrindžia:
-    - c-003
+    - c-32224
 
 <a id="claim-t-177784"></a>
-- t-071
+- t-123
   global_id: t-177784
-  teiginys: 'Kazimiero Jogailaičio laikais Lietuvos valstybė Maskvai nebekėlė tikro pavojaus, nors politine jėga dar buvo už ją pranašesnė.'
+  teiginys: "Kazimiero Jogailaičio laikais Lietuvos valstybė Maskvai nebekėlė tikro pavojaus, nors politine jėga dar buvo už ją pranašesnė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "20718-21112; hash=008e21d403ed465577b41646872741d0bf22eff7ae31c67a6a14b0e8049d4172; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-05665
+
+<a id="claim-t-177754"></a>
+- t-033
+  global_id: t-177754
+  teiginys: "1926 m. rugsėjo 28 d. Maskvoje Lietuva pasirašė nepuolimo ir neutralumo sutartį su SSRS."
+  temporaliniai_duomenys: "įvykio data: 1926 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys yra pilnas, tikslus ir tiesiogiai susijęs su Maskva."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "310377-310687; hash=17c8dbc8197b600308178b08f849f8578f75538a7c5b4475991a266a4581dd8b; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-161586
 
 <a id="claim-t-177786"></a>
-- t-073
+- t-115
   global_id: t-177786
-  teiginys: 'Balińskis teigė, kad Maskvoje buvo išlikęs priežodis: kas Vilniuje nebuvo, tas stebuklų neregėjo.'
+  teiginys: "Balińskis teigė, kad Maskvoje buvo išlikęs priežodis: kas Vilniuje nebuvo, tas stebuklų neregėjo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "469144-469784; hash=901314158fa15e9d36e7ad67da5bde9cca6918986abf2b853af0f043d47835c1; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=37"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-021
+    - c-161555
 
 <a id="claim-t-177787"></a>
-- t-074
+- t-109
   global_id: t-177787
-  teiginys: 'Jonas Karolis Chodkevičius kovojo su Maskvos kariuomene gindamas Smolenską.'
+  teiginys: "Jonas Karolis Chodkevičius kovojo su Maskvos kariuomene gindamas Smolenską."
+  semantiniai_rysiai: "Jonas Karolis Chodkevičius gynė Smolenskas (0.95)"
+  temporaliniai_duomenys: "mūšio data: 1617-1618; mūšio data: 1618 m.; mūšio data: 1621 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Jonas Karolis Chodkevičius kariavo prieš Chodkevičiai“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išplėstas asmens vardas ir išlaikytas citatos paremtas faktas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "451505-451818; hash=cec5e0cf4ecd0431d8eebe302453171323f0f25cb4744fedf3389792668bda8d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Smolenskas: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jonas Karolis Chodkevičius: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Smolenskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Chodkevičius gynė Smolenską."
   pagrindžia:
-    - c-067
+    - c-161640
 
 <a id="claim-t-177788"></a>
-- t-075
+- t-069
   global_id: t-177788
-  teiginys: 'Maskva tuomet dar tebuvo menka gyvenvietė; tik pietų Rusioje klestėjo senasis Kijevas, Rytų apeigų tikėjimo lopšys ir kurį laiką garsios monarchijos sostinė.'
+  teiginys: "Maskva tuomet dar tebuvo menka gyvenvietė; tik pietų Rusioje klestėjo senasis Kijevas, Rytų apeigų tikėjimo lopšys ir kurį laiką garsios monarchijos sostinė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "40613-41120; hash=6c0f11518bc9b24cb49c0a7191578f85a2e0d4919eba31169876c52d1cb0b365; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=53"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-026
+    - c-161565
 
 <a id="claim-t-177789"></a>
-- t-076
+- t-111
   global_id: t-177789
-  teiginys: 'Vytautas laikė Maskvos metropolitų religinę viršenybę viena opiausių kliūčių savo valdžiai Lietuvoje stiprinti.'
+  teiginys: "Vytautas laikė Maskvos metropolitų religinę viršenybę viena opiausių kliūčių savo valdžiai Lietuvoje stiprinti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "344013-344575; hash=e596711203f1338bd7377e1b7cb833f17a297d39d757c3a9e47e9758e0abe2fe; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=76"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-019
+    - c-161553
 
 <a id="claim-t-177790"></a>
-- t-077
+- t-127
   global_id: t-177790
-  teiginys: '1940 m. birželio 10 d. Kaune nutarta pasiųsti užsienio reikalų ministrą Juozą Urbšį į Maskvą.'
+  teiginys: "1940 m. birželio 10 d. Kaune nutarta pasiųsti užsienio reikalų ministrą Juozą Urbšį į Maskvą."
+  temporaliniai_duomenys: "įvykio data: 1940 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išplėstas nutrūkęs inicialas ir atkurtas pilnas citatos faktas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "376746-377145; hash=d4dc028bca02bd856245728cade306243d090f9c5b1e764322cde0eada76d771; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=63"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-061
+    - c-161629
 
 <a id="claim-t-177791"></a>
-- t-078
+- t-044
   global_id: t-177791
-  teiginys: 'Gavusi Maskvos palaiminimą Lietuvos valdžia, matydama, kad sąjunginio pavaldumo pramonės įmones sunku kontroliuoti, plėtojo sau pavaldžias pramonės šakas.'
+  teiginys: "Gavusi Maskvos palaiminimą Lietuvos valdžia, matydama, kad sąjunginio pavaldumo pramonės įmones sunku kontroliuoti, plėtojo sau pavaldžias pramonės šakas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "442164-442610; hash=86c7ae7d5ed881a3de448d5b0f05a6de525c5d85a9ee74be45c4ceda1697fa1e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-070
+    - c-161646
 
 <a id="claim-t-177792"></a>
-- t-079
+- t-112
   global_id: t-177792
-  teiginys: '1430 metais į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas.'
+  teiginys: "1430 metais į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas."
+  semantiniai_rysiai: "Vasilijus Vasiljevičius keliavo į Trakai (0.90); Vasilijus Vasiljevičius keliavo į Vilnius (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "351836-352580; hash=e40c668c2ed112ce48b679c617973ea9bf8a2391d31bc475702f9e39683b1625; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Trakai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vasilijus Vasiljevičius: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vasilijus Vasiljevičius nurodytas tarp asmenų, atvykusių į Trakus."
   pagrindžia:
-    - c-023
+    - c-161560
+
+<a id="claim-t-177776"></a>
+- t-042
+  global_id: t-177776
+  teiginys: "Vokietijai greitai užėmus Lietuvą, sovietai vos spėjo išgabenti LSSR vyriausybę į Maskvą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "400555-401394; hash=27e5512670369bba57f03c6bafe8faa3d5318f1b9c53395a366bcf3c455234ed; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=56"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  pagrindžia:
+    - c-161550
 
 <a id="claim-t-177794"></a>
-- t-081
+- t-110
   global_id: t-177794
-  teiginys: 'Jogailos vyriausiasis brolis Andrius, valdęs Polocką, pabėgo į Maskvą ir ėmė rengti koaliciją prieš Jogailą.'
+  teiginys: "Jogailos vyriausiasis brolis Andrius, valdęs Polocką, pabėgo į Maskvą ir ėmė rengti koaliciją prieš Jogailą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "197550-198010; hash=95ba2d4b93d3ab5d81ef2a5ee6606cd759c28e8c749aff8f81a33969a4915918; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-048
+    - c-161596
+
+<a id="claim-t-177796"></a>
+- t-047
+  global_id: t-177796
+  teiginys: "1978 m. lapkričio 22 d. Alfonsas Svarinskas, Sigitas Tamkevičius ir Juozas Zdebskis Maskvoje paskelbė apie TTGK įkūrimą Lietuvoje."
+  semantiniai_rysiai: "Juozas Zdebskis (kunigas) keliavo į Maskva (0.74)"
+  temporaliniai_duomenys: "įvykio data: 1978 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia patikslinti, kad pranešimas vyko Maskvoje, o komitetas įkurtas Lietuvoje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "470797-471561; hash=be3ac7612f2163a3fc7d495c9ce4a8c36f0723c0df4668c9b73a138d65a57c32; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Maskva: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Juozas Zdebskis (kunigas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Juozas Zdebskis dalyvavo Maskvoje vykusioje spaudos konferencijoje, todėl pagrįstas buvimo ar kelionės į Maskvą ryšys."
+  pagrindžia:
+    - c-161580
 
 <a id="claim-t-177797"></a>
-- t-083
+- t-104
   global_id: t-177797
-  teiginys: '1991 m. rugpjūtį žlugus Maskvos pučui, kelias į Lietuvos nepriklausomybės pripažinimą tapo laisvas.'
+  teiginys: "1991 m. rugpjūtį žlugus Maskvos pučui, kelias į Lietuvos nepriklausomybės pripažinimą tapo laisvas."
+  temporaliniai_duomenys: "įvykio data: 1991 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys yra pilnas ir pagrįstas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "507042-507640; hash=6490dbc45842d551ed0bfd4a44169619d62de7532f5e225570dbf9ee2f85a93b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-043
+    - c-161588
 
 <a id="claim-t-177798"></a>
-- t-084
+- t-040
   global_id: t-177798
-  teiginys: '1940 m. birželio 15 d. iš Maskvos į Lietuvą atvykęs Vladimiras Dekanozovas diegė Maskvos sprendimus.'
+  teiginys: "1940 m. birželio 15 d. iš Maskvos į Lietuvą atvykęs Vladimiras Dekanozovas diegė Maskvos sprendimus."
+  temporaliniai_duomenys: "įvykio data: 1940 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "383503-384115; hash=6da391f70b80309872a630f958d3594cd1581e8f31f7cbfc3510c6bb1b45355b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-032
+    - c-161572
 
 <a id="claim-t-177800"></a>
-- t-085
+- t-036
   global_id: t-177800
-  teiginys: 'Viačeslavas Molotovas pakvietė ministrą Juozą Urbšį atvykti į Maskvą.'
+  teiginys: "Viačeslavas Molotovas pakvietė ministrą Juozą Urbšį atvykti į Maskvą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "370777-371342; hash=37798640f213d80ac2664b790061040535e0e296865084125cc6c57347f3a116; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Joachimas (Pskovo vietininkas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Joachimas (Pskovo vietininkas): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Joachimas (Pskovo vietininkas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-035
+    - c-161576
 
 <a id="claim-t-177802"></a>
-- t-086
+- t-005
   global_id: t-177802
-  teiginys: 'Lenkų kariuomenė 1610 m., sumušusi rusus prie Klušino, užėmė Maskvą.'
+  teiginys: "Lenkų kariuomenė 1610 m., sumušusi rusus prie Klušino, užėmė Maskvą."
+  semantiniai_rysiai: "Lenkai užėmė Maskva (0.95); Lenkai kariavo prieš Rusai (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1610 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "481356-481705; hash=dcb8bc2f17c620efef2108e841faeffe0d14e2aa786feff925a7df82f2ba5356; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Maskva: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad lenkų kariuomenė užėmė Maskvą."
   pagrindžia:
-    - c-010
+    - c-43629
 
 <a id="claim-t-177804"></a>
-- t-087
+- t-063
   global_id: t-177804
-  teiginys: 'Vytautas rašė su kariuomene pasiekęs vietą, nuo kurios iki Maskvos buvo trijų dienų kelias.'
+  teiginys: "Vytautas rašė su kariuomene pasiekęs vietą, nuo kurios iki Maskvos buvo trijų dienų kelias."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Pronskas (0.78)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "350634-351496; hash=8285a54b9a190058296f81b65fcda2b935871cbeb0d073322a61fb2b9a7e1f0a; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Pronskas: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Pronskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo tolimiausią Vytauto žygio kryptį prie Pronsko."
   pagrindžia:
-    - c-005
+    - c-37537
 
 <a id="claim-t-177807"></a>
-- t-088
+- t-105
   global_id: t-177807
-  teiginys: 'Polocką valdęs Andrius pabėgo į Maskvą ir ėmė rengti koaliciją prieš Jogailą.'
+  teiginys: "Polocką valdęs Andrius pabėgo į Maskvą ir ėmė rengti koaliciją prieš Jogailą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "197685-198117; hash=c6cff7df046541f36a30d7d82e1d76f66784936795eb8bd92cc963fd587177bd; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Brianskas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Brianskas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Brianskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-011
+    - c-46605
 
 <a id="claim-t-177808"></a>
-- t-089
+- t-027
   global_id: t-177808
-  teiginys: 'Karai su Maskvos didžiąja kunigaikštyste dėl rytinių teritorijų kėlė konfliktus tarp Abiejų Tautų Respublikos ir Rusijos.'
+  teiginys: "Karai su Maskvos didžiąja kunigaikštyste dėl rytinių teritorijų kėlė konfliktus tarp Abiejų Tautų Respublikos ir Rusijos."
+  temporaliniai_duomenys: "įvykio data: 1791 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "157515-158159; hash=1598d422d3aabad070e58258cd86e098a0de60987b6101f2f96bd10333421847; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=76"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-055
+    - c-161612
 
 <a id="claim-t-177809"></a>
-- t-090
+- t-105
   global_id: t-177809
-  teiginys: 'Maskva minima kaip imperines ambicijas užauginusi rytų grėsmė Lietuvos sukurtai didvalstybei.'
+  teiginys: "Maskva minima kaip imperines ambicijas užauginusi rytų grėsmė Lietuvos sukurtai didvalstybei."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "21013-21811; hash=cdca3e0b1f1d0598efa42e5847f804ecf8e21b3de6c6431b69d5084d55ed83fd; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=62"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-028
+    - c-161568
 
 <a id="claim-t-177810"></a>
-- t-091
+- t-072
   global_id: t-177810
-  teiginys: 'Vytautas nutraukė ryšius su Maskvos metropolitu Fotijumi ir nurodė vyskupams išrinkti Lietuvai atskirą metropolitą.'
+  teiginys: "Vytautas nutraukė ryšius su Maskvos metropolitu Fotijumi ir nurodė vyskupams išrinkti Lietuvai atskirą metropolitą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "344299-344900; hash=3b180e586fb12d7d4ca13236c1ac842f249456aec01167e9b21683c65e7db94f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Fotijus: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Fotijus: mention_match, person, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Fotijus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-036
+    - c-161579
 
 <a id="claim-t-177811"></a>
-- t-092
+- t-093
   global_id: t-177811
-  teiginys: 'Jonas Basanavičius, pirmasis „Aušros“ redaktorius, buvo baigęs medicinos studijas Maskvoje.'
+  teiginys: "Jonas Basanavičius, pirmasis „Aušros“ redaktorius, buvo baigęs medicinos studijas Maskvoje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "225039-225725; hash=1a42ec31d8f84b2c50696c2715521a48e52e9201a73c3ea262f152052c9ecab9; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Baltai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-056
+    - c-161615
 
 <a id="claim-t-177813"></a>
-- t-093
+- t-108
   global_id: t-177813
-  teiginys: '1611 m. Jonui Karoliui Chodkevičiui buvo pavesta deblokuoti Maskvoje apsuptą lenkų ir lietuvių įgulą, bet ji kapituliavo.'
+  teiginys: "1611 m. Jonui Karoliui Chodkevičiui buvo pavesta deblokuoti Maskvoje apsuptą lenkų ir lietuvių įgulą, bet ji kapituliavo."
+  temporaliniai_duomenys: "įvykio data: 1611 m.; įvykio data: 1615-1616; įvykio data: 1616 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Patikslintas asmuo, data ir įgula, pašalinta neaiški nuoroda „ši“."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "451338-451504; hash=5d8613fc60971bb346aed3ade135a7aa0010f22411e0f0e849452f27b19d6e65; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-43628
 
 <a id="claim-t-177814"></a>
-- t-094
+- t-097
   global_id: t-177814
-  teiginys: 'Viačeslavas Molotovas pakvietė Lietuvos užsienio reikalų ministrą Juozą Urbšį atvykti į Maskvą.'
+  teiginys: "Viačeslavas Molotovas pakvietė Lietuvos užsienio reikalų ministrą Juozą Urbšį atvykti į Maskvą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "370777-371342; hash=37798640f213d80ac2664b790061040535e0e296865084125cc6c57347f3a116; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Joachimas (Pskovo vietininkas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Joachimas (Pskovo vietininkas): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Joachimas (Pskovo vietininkas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-035
+    - c-161576
 
 <a id="claim-t-177815"></a>
-- t-095
+- t-098
   global_id: t-177815
-  teiginys: '1940 m. birželio 15 d. iš Maskvos į Lietuvą atvykęs Vladimiras Dekanozovas perėmė realią aukščiausiąją valdžią.'
+  teiginys: "1940 m. birželio 15 d. iš Maskvos į Lietuvą atvykęs Vladimiras Dekanozovas perėmė realią aukščiausiąją valdžią."
+  temporaliniai_duomenys: "įvykio data: 1940 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs; citata leidžia suformuoti pilną sakinį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "383450-383927; hash=2eea9249903c9520ea8a302a8cc8159df9f4dfd52adff076f9581ac86352fcc8; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-046
+    - c-161593
+
+<a id="claim-t-177720"></a>
+- t-070
+  global_id: t-177720
+  teiginys: "Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių."
+  semantiniai_rysiai: "Vilnius prekiavo su Ryga (0.67); Vilnius prekiavo su Maskva (0.67)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "93146-93648; hash=d03cd0d63b00ce75a45b7850bd579ec94fe842ba5d9b51645f45a8ec9292ebd1; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Maskva: 0.67"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vilniuje vykę mainai apėmė Maskvos pirklius, todėl tai rodo prekybinį ryšį."
+  pagrindžia:
+    - c-161622
 
 <a id="claim-t-183050"></a>
-- t-097
+- t-112
   global_id: t-183050
-  teiginys: 'Maskvoje prasidėjo perversmų laikotarpis, vadinamas didžiąja suirute (smuta).'
+  teiginys: "Maskvoje prasidėjo perversmų laikotarpis, vadinamas didžiąja suirute (smuta)."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "594391-594644; hash=1a482fbe99c4e85bed650fe1d9e7454f8b6f8f25aa9ea05d47e8979a2c570cf8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> didžioji suirutė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "didžioji suirutė: mention_match, thing, gap=52"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"didžioji suirutė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-071
+    - c-166441
 
 <a id="claim-t-185039"></a>
-- t-098
+- t-140
   global_id: t-185039
-  teiginys: 'Iki Maskvos kariuomenei buvo likę aštuoniolika mylių, kai žygūnas ją pralenkė tik keliomis valandomis.'
+  teiginys: "Iki Maskvos kariuomenei buvo likę aštuoniolika mylių, kai žygūnas ją pralenkė tik keliomis valandomis."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "387034-387834; hash=ef94bc8ec3188ba634171653c1156cccef4cae2f1f11fc9be2983b52e9db1db4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> žygūnas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "žygūnas: mention_match, thing, gap=54"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"žygūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-072
+    - c-168400
 
 <a id="claim-t-185040"></a>
-- t-099
+- t-141
   global_id: t-185040
-  teiginys: 'Vasilijus reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą, kur jam būtų lengviau tramdyti ginčytis linkusius saviškius.'
+  teiginys: "Vasilijus reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą, kur jam būtų lengviau tramdyti ginčytis linkusius saviškius."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1153728-1154204; hash=fd92fd64234b4aaf244cdc412c75df57022c7d38cef6cea33d0414d14641b40e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vasilijus: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vasilijus: mention_match, person, gap=58"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Vasilijus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-073
+    - c-168401
 
 <a id="claim-t-185042"></a>
-- t-100
+- t-143
   global_id: t-185042
-  teiginys: 'Maskvoje maskvėnai reikalavo, kad legatai laišku paklaustų karaliaus nuomonės dėl titulų ginčo.'
+  teiginys: "Maskvoje maskvėnai reikalavo, kad legatai laišku paklaustų karaliaus nuomonės dėl titulų ginčo."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1210139-1210589; hash=b585c04ba036ca9c7a81c957d2851e9e910d1fbcbf82379e803c6ce9efa98750; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskvėnai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Maskvėnai: mention_match, group, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Maskvėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-074
+    - c-168403
 
 <a id="claim-t-187607"></a>
 - t-101
   global_id: t-187607
-  teiginys: 'Lietuvos metraščio tyrime teigiama, kad LDK santykių su Rusų valstybe vaizdavime iškeliamas Vytauto pranašumas prieš Maskvos didįjį kunigaikštį Vasilijų.'
+  teiginys: "Lietuvos metraščio tyrime teigiama, kad LDK santykių su Rusų valstybe vaizdavime iškeliamas Vytauto pranašumas prieš Maskvos didįjį kunigaikštį Vasilijų."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "40279-40615; hash=492c7be990da27398d5c56933e9d428687ae977f487c990a4db96b1735bd3680; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=117"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-075
+    - c-170554
 
 <a id="claim-t-187608"></a>
 - t-102
   global_id: t-187608
-  teiginys: 'Sofijos Vytautaitės sužadėtinis 1388 m. sausio 19 d. jau buvo Maskvoje.'
+  teiginys: "Sofijos Vytautaitės sužadėtinis 1388 m. sausio 19 d. jau buvo Maskvoje."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1388 m.; įvykio data: 1494 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys geras, bet perrašomas kaip švarus enciklopedinis sakinys be OCR konteksto."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "439909-440108; hash=002a8c92d824d2eaad5762cf172c1874495beae74f7417c366302a86cae9270b; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aleksandras: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Aleksandras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-076
+    - c-170555
 
 <a id="claim-t-188770"></a>
 - t-103
   global_id: t-188770
-  teiginys: 'Maskvoje viešėjęs arkidjakonas Povilas pasakojo apie Rusijos carui pavaldžias tautas, garbinusias dangaus kūnus ir kai kuriuos žvėris.'
+  teiginys: "Maskvoje viešėjęs arkidjakonas Povilas pasakojo apie Rusijos carui pavaldžias tautas, garbinusias dangaus kūnus ir kai kuriuos žvėris."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "317206-317485; hash=fe26cca7e674a171b5679b7237bd21fbfeb1c0390b1d4aa7f42edaec16585c86; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Arkidjakonas Povilas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Arkidjakonas Povilas: mention_match, person, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Arkidjakonas Povilas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
-    - c-077
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171659
+
+<a id="claim-t-193213"></a>
+- t-144
+  global_id: t-193213
+  teiginys: "Pirmąjį nepaklusnumo ženklą Jogailai Vytautas parodė susiartindamas su Maskva."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "235143-235444; hash=cbd0a1162b13714e73333cb2d7ef82dcc60019ad12486e92adaef4aeacb246d1; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  vertinimo_autorius: "rewrite_source_claims / reject"
+  pagrindžia:
+    - c-175957
+
+<a id="claim-t-193214"></a>
+- t-145
+  global_id: t-193214
+  teiginys: "Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke, susižadėjo su jo dukteria Sofija."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "235311-235581; hash=ac115378e1c4d547e3556389119539db3af68e16086232cf84d0271f8db8ad38; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-175958
+
+<a id="claim-t-193215"></a>
+- t-146
+  global_id: t-193215
+  teiginys: "Švitrigaila ne tik kad nenutraukė ryšių su savo sąjungininku ordinu, bet dar padarė naują sąjungą su Maskva ir Tvere."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "355725-356024; hash=e61836bb796189e1a7083daba4ea5089eb524418f8ef0ac4e10783b520f61391; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-175959
+
+<a id="claim-t-193424"></a>
+- t-147
+  global_id: t-193424
+  teiginys: "Kadangi Maskvos didikai atkirto, kad ne gali būti nė kalbos apie šitokias sąlygas, pradėta derė tis dėl kitokių taikos formulių."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1154673-1155396; hash=58fd396f2afbd060f754260a9afbcb43e2e201188958b592c69ea9dfa5a31bc7; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176146
+
+<a id="claim-t-194934"></a>
+- t-148
+  global_id: t-194934
+  teiginys: "Taip pat kalbama ir apie tautų protėvius Masochą ir Tovelą, arba Tobalą, minimus Šven tajame Rašte kaip slavų gyvenamųjų vietų Maskvos ir Tobolsko pirmtakus2."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "126853-127191; hash=1f942e4f078058146b2c25dfaba7339b1659b3960d76a6ce5ba7e6a0aae2b360; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-177330
 - susijęs iš [[objektai/ivykiai/Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.).md#claim-t-10183|Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)]]: Algirdas surengė tris karo žygius į Maskvą 1368, 1370 ir 1372 m.
 - susijęs iš [[objektai/ivykiai/Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.).md#claim-t-05286|Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)]]: 1368, 1370 ir 1372 m. Algirdas tris kartus žygiavo prieš Maskvą.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176311|Algirdas (Lietuvos valdovas)]]: Remdamas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmenybę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą, tačiau Kremliaus užimti nepajėgė.
@@ -881,8 +2220,6 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
 - susijęs iš [[objektai/autoriai/Miilleris.md#claim-t-88076|Miilleris]]: Miilleris buvo Maskvos archyvo vedėjas, kurio Rusijos genealoginėmis knygomis rėmėsi Kochas.
 - susijęs iš [[objektai/autoriai/N. N. Ulaščik.md#claim-t-30872|N. N. Ulaščik]]: N. N. Ulaščik 1966 m. Maskvoje išleido Bychovco kroniką.
 - susijęs iš [[objektai/autoriai/Sigitas Tamkevičius.md#claim-t-63313|Sigitas Tamkevičius]]: Sigitas Tamkevičius 1978 m. Maskvoje pranešė užsienio žurnalistams apie Lietuvoje įkurtą Tikinčiųjų teisių gynimo komitetą.
-- susijęs iš [[objektai/daiktai/Ietis.md#claim-t-186834|Ietis]]: Lietuvos metraštis pasakoja, kad Algirdas atrėmė savo ietį į Maskvos sieną ir liepė prisiminti, jog „lietuvių ietis“ stovėjo prie Maskvos.
-- susijęs iš [[objektai/daiktai/Ietis.md#claim-t-186837|Ietis]]: Pasak pasakojimo, Algirdas atrėmė ietį į Maskvos miesto sieną ir pareiškė, kad lietuvių ietis stovėjo prie Maskvos.
 - susijęs iš [[objektai/daiktai/Karalienės Elenos namas Vilniaus pilyje su mūriniu rūsiu.md#claim-t-87081|Karalienės Elenos namas Vilniaus pilyje su mūriniu rūsiu]]: Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą Maskvos bojarinams ir pasiuntiniams apsistoti.
 - susijęs iš [[objektai/daiktai/Stepono Batoro paradinis kalavijas.md#claim-t-09926|Stepono Batoro paradinis kalavijas]]: Stepono Batoro paradinis kalavijas buvo pagamintas pergalingoms lietuvių ir jų sąjungininkų kampanijoms Maskvos žemėse Livonijos karo metu atminti.
 - susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-10166|Vėliavos]]: 1368 m. Algirdas su savo pajėgomis ir išskleistomis vėliavomis pasirodė ant Pasveikinimo kalno prie Maskvos.
@@ -1160,6 +2497,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
 - susijęs iš [[objektai/zodynas/žirgininkas.md#claim-t-185418|žirgininkas]]: Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas į Maskvą kartu su Lukošiumi Garaburda.
 - susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-10166|Vėliavos]]: 1368 m. Algirdas su savo pajėgomis ir išskleistomis vėliavomis pasirodė ant Pasveikinimo kalno prie Maskvos.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176279|Algirdas (Lietuvos valdovas)]]: Lietuvos metraščiuose užrašyti Ldk Algirdo žygiai į Maskvą laikomi epinius pasakojimus atitinkančiu siužetu.
+- susijęs iš [[objektai/daiktai/Ietis.md#claim-t-192078|Ietis]]: Lietuvos metraštis pasakoja, kad Algirdas atrėmė savo ietį į Maskvos sieną ir liepė prisiminti, jog „lietuvių ietis“ stovėjo prie Maskvos.
+- susijęs iš [[objektai/daiktai/Ietis.md#claim-t-192079|Ietis]]: Pasak pasakojimo, Algirdas atrėmė ietį į Maskvos miesto sieną ir pareiškė, kad lietuvių ietis stovėjo prie Maskvos.
 - susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-176217|Vėliavos]]: Algirdas su visomis savo pajėgomis ir išskleistomis vėliavomis pasirodė ant Pasveikinimo kalno prie Maskvos.
 - susijęs iš [[objektai/zodynas/legatai.md#claim-t-185419|legatai]]: Maskvos kunigaikštis Vasilijus pasiūlė karaliui taiką ir žadėjo atsiųsti didesnių įgaliojimų turinčius legatus.
 - susijęs iš [[objektai/asmenys/A. Hitleris.md#claim-t-75628|A. Hitleris]]: 1939 m. balandį Lietuvos kariuomenės vadas S. Raštikis dalyvavo A. Hitlerio 50-mečio šventime.
@@ -1305,6 +2644,7 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
 - susijęs iš [[objektai/asmenys/Rapolovska.md#claim-t-87843|Rapolovska]]: Kunigaikštienė Rapolovska per didžiojo kunigaikščio ir Elenos sutuoktuves laikė vainiką virš Elenos galvos.
 - susijęs iš [[objektai/asmenys/Ratajus Širiajevas.md#claim-t-183760|Ratajus Širiajevas]]: Didžiojo kunigaikščio dvaro pajėgoms vadovavo Ratajus Širiajevas.
 - susijęs iš [[objektai/asmenys/Ratajus Širiajevas.md#claim-t-39801|Ratajus Širiajevas]]: Didžiojo kunigaikščio dvaro pajėgoms vadovavo Ratajus Širiajevas.
+- susijęs iš [[objektai/asmenys/Riurikas.md#claim-t-190965|Riurikas]]: Narbutas rašo, kad dauguma mokslininkų neigia slavų rusų egzistavimą iki Riuriko.
 - susijęs iš [[objektai/asmenys/Rusdorfas.md#claim-t-113964|Rusdorfas]]: Magistrui Rusdorfui buvo rašyti Vytauto laiškai dėl Lietuvos karūnos, saugoti Kryžiuočių Slaptajame archyve Karaliaučiuje.
 - susijęs iš [[objektai/asmenys/Simonas (Maskvos kunigaikštis).md#claim-t-87851|Simonas (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Simonas buvo valdovas, pas kurį pabėgęs Jaunutis pasislėpė ir priėmė graikų apeigų tikėjimą.
 - susijęs iš [[objektai/asmenys/Sivindukas.md#claim-t-40423|Sivindukas]]: Murza Sivindukas, kunigaikščio Madyko sūnus, vadovavo mūšyje dalyvavusiems totoriams.
@@ -1375,6 +2715,7 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
 - susijęs iš [[objektai/autoriai/M. Tumler.md#claim-t-30851|M. Tumler]]: M. Tumleris 1955 m. Vienoje išleido veikalą „Der Deutsche Orden im Werden, Wachsen und Wirken bis 1400“.
 - susijęs iš [[objektai/autoriai/Mykolas Lietuvis.md#claim-t-172961|Mykolas Lietuvis]]: Mykolas Lietuvis liudijo, kad Vilniaus katedroje saugotos trofėjinės vėliavos sudegė per 1530 m. gaisrą.
 - susijęs iš [[objektai/autoriai/Peitzner, J.md#claim-t-30923|Peitzner, J]]: J. Peitznerio darbe „PfiW“ buvo du skyriai apie Vytauto rytų politiką.
+- susijęs iš [[objektai/autoriai/Setgoisas.md#claim-t-191657|Setgoisas]]: Narbutas rašė, kad ponas Setgoisas mėgino pateikti įtikinamų prielaidos apie slavų kilmę iš budinų įrodymų.
 - susijęs iš [[objektai/autoriai/V. Pičeta.md#claim-t-100138|V. Pičeta]]: V. Pičeta parašė veikalą „Agrarnaja reforma Sigizmundą Avgusta v Litovsko-russkom gosudarstve“, išleistą 1917 m.
 - susijęs iš [[objektai/autoriai/V. T. Pašuto.md#claim-t-31047|V. T. Pašuto]]: V. T. Pašuto parašė veikalą „Obrazovanie litovskogo gosudarstva“, kurio lietuviškas vertimas išėjo pavadinimu „Lietuvos valstybės susidarymas“.
 - susijęs iš [[objektai/daiktai/1575 m. Mamoničių „Cztėry Ewangelje“ egzempliorius.md#claim-t-87107|1575 m. Mamoničių „Cztėry Ewangelje“ egzempliorius]]: Vilniaus graikų unitų metropolijos zakristijoje matytas 1575 m. „Cztėry Ewangelje“ egzempliorius buvo puikiai išsilaikęs.
@@ -1838,6 +3179,7 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
 - susijęs iš Tartai: Tuo metu Maskva buvo užgrobusi Tartų, dar vadintų Dorpatu, vyskupystę.
 - susijęs iš Tartu: 1558 m. Maskvos kariuomenė užėmė Tartu ir Narvos miestus Livonijos konfederacijos teritorijoje.
 - susijęs iš Tartu: Po Stepono Batoro karų su Maskva jėzuitų kolegija buvo įkurta ir Tartu (Dorpate).
+- susijęs iš Tobolskas: Narbuto pasakojime Tovelas, arba Tobalas, minimas kaip Šventojo Rašto protėvis ir Tobolsko pavadinimo pirmtakas.
 - susijęs iš Trakai: 1505 m. Šach Achmedas buvo atgabentas iš Vilniaus į seimą Brastoje, o paskui pasiųstas gyventi į Trakus.
 - susijęs iš Trakai: 1430 m. į Trakus ir Vilnių atvyko Vytauto karūnacijai sukviesti šiaurės šalių kunigaikščiai ir pasiuntiniai.
 - susijęs iš Trubčevskas: 1379–1380 m. žiemą Maskvos kunigaikščio Dimitro kariuomenė užėmė Trubčevską.
@@ -1989,6 +3331,7 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
 - susijęs iš Helsinkio Baigiamasis aktas: Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios kitas valstybes apie žmogaus teisių pažeidimus.
 - susijęs iš [[objektai/paprociai/Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas.md#claim-t-87198|Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas]]: 1496 m. vasarį Elena atvyko į Vilnių iš Maskvos su bojarinų ir dvariškių palyda, o Aleksandras ją pasitiko kelyje į Nemėžį.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Kazimiero Jogailaičio laikais Lietuvos valstybė Maskvai nebekėlė tikro pavojaus, nors politine jėga dar buvo už ją pranašesnė.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -2000,11 +3343,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     jau nebesukėlė tikro pavojaus, nors ji vis dar buvo politinės jėgos
     atžvilgiu pranašesnė už naują konkurentę rytų Europoje—Maskvą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-071
+
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2018,12 +3363,14 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     dota kaip pagonė, bet jos legenda nenutrūko ir įsigalint krikščionybei,
     o Birutės kalnas Palangoje buvo gerbiamas kaip šventosios).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
     - t-032
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -2033,11 +3380,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     apgaubtas žygis teturėjo reikšti vien Tverės Mykolo teisių gynimą,
     ar kai ką ir daugiau.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-070
+
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -2045,11 +3394,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     Algirdaitis (iš Polocko), netikėtai su didele kariuomene įsiveržę į
     Dimitro Doniečio žemes.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -2070,12 +3421,14 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     tas, mirdamas antrą kartą buvo pareiškęs norą, kad Vytautas globotų jo
     sūnų (įpėdinį) Vosylių II, žmoną ir vaikus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-087
     - t-021
+
 - c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -2088,12 +3441,14 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     čiai, totoriai. Vytautas nori visus juos paimti savo valdžion
     ar bent turėti jiems didelę įtaką.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
     - t-001
+
 - c-007
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -2115,12 +3470,14 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     ma jų ekspansiją prie Jiezno ir Kėdainių, po to vydama juos iki
     pat Daugpilio.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-012
+
 - c-008
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -2143,12 +3500,14 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     Bergshamaro
     herbyno
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-043
     - t-037
+
 - c-009
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -2157,12 +3516,14 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     vimui, tačiau ši, nesulaukusi pagalbos, kapituliavo.
     1615-1616 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-093
     - t-041
+
 - c-010
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -2178,12 +3539,14 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     Dalis Rusijos bojarinų naujuoju caru iš-
     rinko Zigmanto Vazos sūnų Vladislovą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-053
     - t-086
+
 - c-011
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -2196,11 +3559,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     Dimitrijas, Briansko valdovas, ir pritarė Kijevo valdovas Vla-
     dimiras.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-088
+
 - c-012
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -2214,11 +3579,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     Tarp visų suvažiavime iškeltų klausimų vienas iš svarbiau-
     siųjų buvo sumanymas karūnuoti Vytautą Lietuvos karalium.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-057
+
 - c-013
   santrauka: 'Po caro Teodoro mirties Maskvoje prasidėjo perversmų laikotarpis, vadinamas didžiąja suirute (smuta).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -2230,11 +3597,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     Dėl to po Jono IV Žiauriojo dar ilgai iš Maskvos pusės nebuvo
     jokio pavojaus Lietuvai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
+
 - c-014
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2244,11 +3613,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     prašė neva savanoriškai įeiti į SSRS sudėtį. Taip įforminta Lietuvos aneksija,
     Rinkimų į Liaudies seimą agitacinis plakatas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-068
+
 - c-015
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -2262,11 +3633,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     atsiųstos Lietuvos didžiojo etmono Jono
     Karolio Chodkevičiaus pajėgos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-063
+
 - c-016
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2287,12 +3660,14 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     rais, panikos skleidėjais, vos tik pamatę dokumentus lietuvių kalba įtari-
     nėjo šnipinėjimu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-080
     - t-066
+
 - c-017
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2313,11 +3688,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     tiesalo, padavė vienas kitam rankas ir pirmąkart pasikal­
     bėjo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-025
+
 - c-018
   santrauka: 'Aleksandro ir Elenos santuoka skatino steigti užeigas pirkliams, atvykstantiems į Vilnių iš Maskvos, Naugardo, Pskovo ir Tverės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -2332,11 +3709,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
     savo atvykimą iškart pranešti pilininkui4 3  44.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-019
   santrauka: 'Vytautas laikė Maskvos metropolitų religinę viršenybę viena opiausių kliūčių savo valdžiai Lietuvoje stiprinti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -2359,12 +3738,14 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     būdavo teikiamos Maskvos metro­
     politams.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-076
     - t-005
+
 - c-020
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2377,11 +3758,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemė-
     lapio.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-051
+
 - c-021
   santrauka: 'Balińskis teigė, kad Maskvoje buvo išlikęs priežodis: kas Vilniuje nebuvo, tas stebuklų neregėjo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -2402,12 +3785,14 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     atlydėjo į Vilnių ir buvo sužavėti
     nuostabaus priėmimo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-073
     - t-064
+
 - c-022
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2417,12 +3802,14 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     S. Raštikis pareiškė, kad kariuomenė, gavusi tokį įsakymą, kovos, tačiau
     Lietuvos kariuomenės paradinė rikiuotė 1937 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-028
     - t-014
+
 - c-023
   santrauka: '1430 metais į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -2441,12 +3828,14 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
     magistras, Mazovijos kunigaikščiai ir totorių chanai84.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-079
     - t-045
+
 - c-024
   santrauka: 'Kunigaikštis Mykolas tremtyje Maskvoje mirė nunuodytas kažkokiame vienuolyne.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -2461,11 +3850,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     gaikščio Mykolo palaikai. Jis, klajodamas po tremtį
     Maskvoje, mirė nunuodytas kažkokiame vienuolyne.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-056
+
 - c-025
   santrauka: '1427 m. Vytautas žygiavo į Maskvą padėti vaikaičiui Baziliui II, ir tam pakako pademonstruoti jėgą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -2475,11 +3866,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     kaip savarankiškas valdovas. 1427 m. žygiavo į Maskvą padėti vaikaičiui
     Baziliui (Vasiliui) II, tam užteko vien pademonstruoti jėgą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-026
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2492,11 +3885,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     kunigaikštysčių sostinės, neturėjo nei tokios reikšmės, nei lais­
     vių, kad galėtų bent kiek paveikti kaimyninius kraštus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-075
+
 - c-027
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2508,12 +3903,14 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     Lietuvos politines jėgas veikė bendrieji Europos procesai – parla-
     mentarizmo krizės, diktatūrų įvedimai, perversmai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
     - t-015
+
 - c-028
   santrauka: 'Maskva minima kaip imperines ambicijas užauginusi rytų grėsmė Lietuvos sukurtai didvalstybei.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -2534,11 +3931,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     nusiomis Maskva ir Turkija, o taip pat kova su rytinę Baltijos pa-
     krante siekusia užkariauti Švedija.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-090
+
 - c-029
   santrauka: 'Dėl karo su Maskva patirtų nuostolių Vilniaus vyskupija sunkiai galėjo aprūpinti klierikų kolegiją lėšomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -2562,11 +3961,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     427
     Vaisgėliškis (vert.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-033
+
 - c-030
   santrauka: 'Napoleonui teko trauktis iš Maskvos, o traukimosi metu jo kariuomenė sunyko.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -2577,11 +3978,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     iš Maskvos, o besitraukiant neliko ir jo kariuomenės. 1812 m. pabaigoje
     Lietuvoje vėl buvo rusai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-042
+
 - c-031
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -2593,11 +3996,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     Algirdo valdymo pradžioje, kai jis, norėdamas sulaužyti Maskvos
     jėgą, nutarė susiartinti su totorių chanu ir siuntė pas jį 1349 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-035
+
 - c-032
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2611,11 +4016,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     atstovu (polpredu) Nikolajumi Pozdniakovu priešakyje, ir iki tol pogrin-
     dyje veikusi maža Lietuvos komunistų partija (LKP).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-084
+
 - c-033
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2625,11 +4032,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     svarbiausias Liublino unijos kompromiso rezultatas – Abiejų Tautų Res-
     publika, kuri egzistavo dar du amžius.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-031
+
 - c-034
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2639,11 +4048,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     namo buvo ne karo žygis, o tik rytinių valstybės pakraščių patikrinimas –
     pajungiami Pskovas (1426 m.) ir Didysis Naugardas (1428 m.).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-035
   santrauka: 'Viačeslavas Molotovas pakvietė Lietuvos užsienio reikalų ministrą Juozą Urbšį atvykti į Maskvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -2658,12 +4069,14 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     Užtat sukruto sujudo Maskva – V. Molotovas pakvietė atvykti į Mas-
     kvą ministrą Juozą Urbšį.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-094
     - t-085
+
 - c-036
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2686,11 +4099,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     k i Specimen Ecclesiae Ruthenicae,
     Pars.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-091
+
 - c-037
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2712,12 +4127,14 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     ateistai, o kulto laisvė praktikoje
     varžoma.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-082
     - t-067
+
 - c-038
   santrauka: 'J. Paleckio vadovaujama delegacija Maskvoje 1940 m. rugpjūčio 3 d. pasiprašė įeiti į SSRS sudėtį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -2729,11 +4146,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     ja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-
     prašė neva savanoriškai įeiti į SSRS sudėtį.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-039
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -2745,11 +4164,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     niai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­
     džiai priimti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-055
+
 - c-040
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -2762,11 +4183,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     reikšti pažadą chano, kuris buvo skirstęs rusų kunigaikščių sostus,
     perleisti Vytautui valdžią ant visų rusų žemių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-041
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -2778,11 +4201,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     vis dėlto daug kas buvo išvežta, o kai kas tenai tebėra dar ir
     šiandien.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-038
+
 - c-042
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2793,12 +4218,14 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     1926 m. rugsėjo 28 d. Maskvoje pasirašė nepuolimo ir neutralumo sutartį
     su SSRS.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-046
     - t-072
+
 - c-043
   santrauka: '1991 m. rugpjūtį žlugus Maskvos pučui, kelias į Lietuvos nepriklausomybės pripažinimą tapo laisvas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -2816,11 +4243,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     pasaulio valstybės, tarp jų Prancūzija (rugpjūčio 25 d.), Didžioji Britanija
     (rugpjūčio 27 d.), JAV (rugsėjo 3 d.) ir pagaliau rugsėjo 6 d. – SSRS.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-083
+
 - c-044
   santrauka: '1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė Juozą Urbšį pasirašyti sutartis dėl savitarpio pagalbos, Vilniaus krašto ir pietvakarių Lietuvos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -2832,11 +4261,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     pagalbos sutartį, sutartį dėl Vilniaus ir Vilniaus krašto perdavimo ir sutartį
     dėl dalies pietvakarių Lietuvos teritorijos perdavimo Vokietijai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-023
+
 - c-045
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2851,12 +4282,14 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     Lietuviai atsigriebė 1 sutarties straipsnyje – juo Rusija visiems laikams
     atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę ir suverenumą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-065
     - t-030
+
 - c-046
   santrauka: '1940 m. birželio 15 d. iš Maskvos į Lietuvą atvykęs Vladimiras Dekanozovas perėmė realią aukščiausiąją valdžią.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -2870,11 +4303,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     kaip specialiųjų tarnybų atstovas, veikė slaptai), kuris diegė sprendimus
     iš Maskvos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-095
+
 - c-047
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2897,12 +4332,14 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     visiškai išvagiamos ir naujos įmonės paleidžiamos daugiau ar mažiau
     laiku.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-027
     - t-062
+
 - c-048
   santrauka: 'Jogailos vyriausiasis brolis Andrius, valdęs Polocką, pabėgo į Maskvą ir ėmė rengti koaliciją prieš Jogailą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -2916,11 +4353,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     volgio miestus, ir Livonijos ordinas, kuris visada rėmė kiek-
     vieną neramumą Lietuvoje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-081
+
 - c-049
   santrauka: 'Maskvoje saugoma Lietuvos Metrika tapo Lietuvos paveldo išbarstymo ar išgrobstymo simboliu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -2933,11 +4372,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo ru-
     sėnų – LDK stačiatikių (baltarusių ir ukrainiečių protėvių) kalba.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-050
   santrauka: 'Karai su Maskva rytuose reikalavo daug pinigų, todėl reikėjo rūpintis didesniu parduodamų prekių kiekiu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -2950,11 +4391,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     teko susirūpinti, kad būtų pertvarkytas ūkis ir kad jis duotų
     daugiau pajamų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-049
+
 - c-051
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2969,11 +4412,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     tūkstančius žmonių, bet ir ištisus socialinius sluoksnius, jų kultūrą ir tur-
     tą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-061
+
 - c-052
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2988,12 +4433,14 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     užmezgė santykius su Maskvos disidentais, pagelbėjo jiems Maskvoje leisti
     žurnalą „Sintaksis“, teikė informaciją iš Lietuvos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-036
     - t-058
+
 - c-053
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3006,11 +4453,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     paruošti rusų aukštosios kultūros proceso dalyvių, manant, kad jie taps ir
     lietuvių „suartinimo“ su rusų kultūra gija.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-040
+
 - c-054
   santrauka: 'Maskvos kunigaikštis gavo mongolų leidimą rinkti Aukso ordai duoklę iš kitų senosios Rusios kunigaikštijų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -3024,11 +4473,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     kad Maskva gali ateityje kelti grėsmę Lietuvos interesams ir su-
     rengė į ją tris karo žygius (1368; 1370; 1372).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-047
+
 - c-055
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3044,12 +4495,14 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     jūrą ir įsitvirtinti Livonijoje kėlė konfliktus tarp ATR ir Rusijos bei XVII a.
     kariškai sustiprėjusios Švedijos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
     - t-089
+
 - c-056
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3064,12 +4517,14 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     jau tokios pačios kultūrinės galimybės ir švietimo sąlygos, kokias Rusijos
     imperijoje turi latviai ir estai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
     - t-092
+
 - c-057
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3082,11 +4537,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     kytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o
     Vilnius nevirto „antruoju Kijevu“.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-052
+
 - c-058
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3101,12 +4558,14 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     lovas Goštautas, Žemaičių seniūnas, Aleksandras prisie­
     kė Vilniuje, iš Maskvos atvykusių pasiuntinių akivaizdoje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-050
     - t-029
+
 - c-059
   santrauka: 'Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -3121,12 +4580,14 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     jo lankytis tolimose provincijose, kur artimiau susipažino su
     krikščioniškąja kultūra26.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-096
     - t-018
+
 - c-060
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3135,11 +4596,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     Lietuvos kariuomenė – tik liepos 15-ąją jau padėjus parašus po sutartimi
     Maskvoje... Tad Vilnių Lietuvai perdavė ne lenkai, o bolševikai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-048
+
 - c-061
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3150,12 +4613,14 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     sužinojus, kad A. Merkiui nesiseka normalizuoti situaciją, nutarta pasiųsti
     į Maskvą ministrą J. Urbšį.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
     - t-077
+
 - c-062
   santrauka: 'Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, bet dėl Vytauto ligos nieko nelaimėjo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -3178,12 +4643,14 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     tė atgal į Lenkiją, kad jam netrukdytų Vytauto mirties atve­
     ju.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-069
     - t-054
+
 - c-063
   santrauka: 'Algirdas prie Maskvos mūrų prastovėjo tris dienas ir tris naktis, nuniokojo apylinkę ir grįžo atgal.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -3194,11 +4661,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     ir nuteriojęs apylinkę, jis grįžo atgal^17. Iki tol niekados lietuviai
     nebuvo pasiekę Maskvos vartų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-039
+
 - c-064
   santrauka: 'Stepono Batoro valdymo metais Livonijos kare pasiektos lemiamos pergalės prieš Maskvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -3212,11 +4681,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     Livonijos kare prieš Maskvą ir šios pavojus atitolintas daugiau nei pusam-
     žiui (1609–1611 m. Lenkija ir Lietuva net buvo užėmusi Maskvą).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-026
+
 - c-065
   santrauka: 'Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė į Kijevo ir Maskvos dalis, kurių istorija vėliau klostėsi savarankiškai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -3230,11 +4701,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     Vytauto centralizacijos politika sutelkė plačios erdvės Rytų Europoje
     išteklius.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-044
+
 - c-066
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -3248,11 +4721,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     su Maskva, priešingai liaudžiai, linko prie Lietuvos, mielai iš
     čia imdamasi sau vadus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-024
+
 - c-067
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -3264,12 +4739,14 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     kariuomenei prieš turkus, pasiekė savo paskutinę
     pergalę,mūšyje prie Chotino.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-034
     - t-074
+
 - c-068
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -3285,11 +4762,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
 
     karų ir Rytų Bažnyčių suvienijimą Lietuvos žemėse.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-060
+
 - c-069
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -3300,11 +4779,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     žėsi su Jogaila dėl įtakos D. Naugarde, Vytautas susidėjo su jo
     priešu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-059
+
 - c-070
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3316,11 +4797,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     įmones sunku kontroliuoti, plėtojo sau pavaldžias pramonės šakas. Tokia
     politika pasiteisino ir pagal to meto sąlygas davė palyginti gerų rezultatų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-078
+
 - c-071
   santrauka: 'Maskvoje prasidėjo perversmų laikotarpis, vadinamas didžiąja suirute (smuta).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -3331,11 +4814,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     jokio pavojaus Lietuvai. Priešingai, suirutės metu Maskva buvo
     nebe puolančioji, bet puolamoji.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-097
+
 - c-072
   santrauka: 'Iki Maskvos kariuomenei buvo likę aštuoniolika mylių, kai žygūnas ją pralenkė tik keliomis valandomis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -3362,11 +4847,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     pribėgo žygūnas, pasakė, kas jam buvo liepta, ir pra­
     nešė, kad priešą palikęs Možaiske.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-098
+
 - c-073
   santrauka: 'Vasilijus reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą, kur jam būtų lengviau tramdyti ginčytis linkusius saviškius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -3388,11 +4875,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     viau galėsiąs tramdyti saviškius, jei šie susimanys be
     saiko ginčytis.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-099
+
 - c-074
   santrauka: 'Maskvoje maskvėnai reikalavo, kad legatai laišku paklaustų karaliaus nuomonės dėl titulų ginčo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -3407,11 +4896,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     gaikštis Maskvos raštuose galėsiąs vadintis caru, tuo
     tarpu legatai laikysis senosios formulės.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-100
+
 - c-075
   santrauka: 'Lietuvos metraščio tyrime teigiama, kad LDK santykių su Rusų valstybe vaizdavime iškeliamas Vytauto pranašumas prieš Maskvos didįjį kunigaikštį Vasilijų.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -3424,11 +4915,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     nigaikštyste vaizduojami, laikantis Lietuvos valstybi­
     nių pozicijų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-101
+
 - c-076
   santrauka: 'Sofijos Vytautaitės sužadėtinis 1388 m. sausio 19 d. jau buvo Maskvoje.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -3439,11 +4932,13 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     laisvės, Jo  sužadėtuvės su Sofija Vytautaite turėjo įvykti 1387 m
     pabaigoje, nes 1388.1.19 jis ja u  buvo Maskvoje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-102
+
 - c-077
   santrauka: 'Maskvoje viešėjęs arkidjakonas Povilas pasakojo apie Rusijos carui pavaldžias tautas, garbinusias dangaus kūnus ir kai kuriuos žvėris.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -3453,11 +4948,1692 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
     kidjakonas Povilas, kartu su Sirijos patriarchu viešėdamas Maskvoje,
     papasakojo apie pavaldžias Rusijos carui tautas, kurios garbino kaip
     dievus dangaus kūnus: saulę, mėnesi, žvaigždes ir kai kuriuos žvėris.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-103
+
+- c-078
+  santrauka: 'Pirmąjį nepaklusnumo ženklą Jogailai Vytautas parodė susiartindamas su Maskva.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tad matydamas, kad geruoju
+    neatgaus savo tėviškės — Trakų, Vytautas ėmė ruoštis kovai.
+    Pirmąjį nepaklusnumo ženklą Jogailai Vytautas parodė su-
+    siartindamas su Maskva. Bėgdamas iš totorių nelaisvės, Mask-
+    vos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke,
+    susižadėjo su jo dukteria Sofija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-104
+
+- c-079
+  santrauka: 'Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke, susižadėjo su jo dukteria Sofija.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Bėgdamas iš totorių nelaisvės, Mask-
+    vos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke,
+    susižadėjo su jo dukteria Sofija. Į Maskvą vykstantį sužadėtinį
+    palydėjo Vytauto kariuomenės būrys. Jam grįžus į Maskvą, tarp
+    Maskvos ir Vytauto ėjo derybos dėl sąjungos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-105
+
+- c-080
+  santrauka: 'Švitrigaila ne tik kad nenutraukė ryšių su savo sąjungininku ordinu, bet dar padarė naują sąjungą su Maskva ir Tvere.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Valstybei pasidalinus pusiau,
+    buvo aišku, kad ginčą turės išspręsti ginklas. Švitrigaila ne tik
+    kad nenutraukė ryšių su savo
+    sąjungininku ordinu, bet dar pa-
+    darė naują sąjungą su Maskva ir
+    Tvere. Tad Zigmantui nebeliko
+    kito sąjungininko, kaip tik Len-
+    kija, kuri jam padėjo net ruo-
+    šiant sąmokslą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-106
+
+- c-081
+  santrauka: 'Kadangi Maskvos didikai atkirto, kad ne gali būti nė kalbos apie šitokias sąlygas, pradėta derė tis dėl kitokių taikos formulių.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kadangi Maskvos didikai atkirto, kad ne­
+    gali būti nė kalbos apie šitokias sąlygas, pradėta derė­
+    tis dėl kitokių taikos formulių. Vis dėlto ir šie legatai
+    tiek pat tepešė, kiek ir ankstesnės pasiuntinybės, ka­
+    dangi maskvėnai nenorėjo grąžinti ne tik Smolensko
+    žemės, bet ir nė vieno kaimo, atimto iš Lietuvos; po
+    ilgų kivirčų pasiuntiniams nebeliko nieko kito, kaip, ne­
+    susitarus dėl taikos, išvykti iš Maskvos. Visai atsitikti­
+    nai kažkam užsiminus, kad būtų galima sudaryti de­
+    šimčiai metų paliaubas, kurių metu lietuviai bei mask­
+    vėnai netrukdomi valdytų kraštą, kurį turėjo paliaubų
+    pradžioje, nesvarbu, ar teisėtai, ar neteisėtai įsigytą,
+    abi šalys susitarė dėl penkerių metų paliaubų ir Smo­
+    lensko žemės sienos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-107
+
+- c-082
+  santrauka: 'Taip pat kalbama ir apie tautų protėvius Masochą ir Tovelą, arba Tobalą, minimus Šven tajame Rašte kaip slavų gyvenamųjų vietų Maskvos ir Tobolsko pirmtakus2.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Tačiau šio Ross pavadini­
+    mo neįmanoma susieti su jokia kita tauta, išskyrus bu­
+    dinus, kai jau dauguma mokslininkų neigia slavų rusų
+    egzistavimą iki Riuriko. Taip pat kalbama ir apie tautų
+    protėvius Masochą ir Tovelą, arba Tobalą, minimus Šven­
+    tajame Rašte kaip slavų gyvenamųjų vietų Maskvos ir
+    Tobolsko pirmtakus2.
+    57
+    Europos budinai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-108
+
+## Citatos
+
+- id: c-05665
+  citata_originali: |
+    Bet tos audros debesys pamažu išsiskirstė, nepadarydami Maskvai
+    didesnių nuostolių. Vytautinė imperija nuėjo praeitin lyg šviesus
+    meteoras. O laikais Kazimiero Jogailaičio, kuris vedė perdėm
+    _dinastinę_ politiką (Čekijoje ir Vengrijoje), Lietuvos valstybė Maskvai
+    jau nebesukėlė tikro pavojaus, nors ji vis dar buvo politinės jėgos
+    atžvilgiu pranašesnė už naują konkurentę rytų Europoje—Maskvą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177784
+
+- id: c-24290
+  citata_originali: |
+    Galėtume ma-
+    nyti, kad ir lietuvių epas buvo pradėjęs formuotis. Visų pirma atsirado
+    herojinių dainų, bet jų žinoma labai nedaug. Šiandien pripažįstama, kad
+    epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraš-
+    čiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į
+    Maskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi
+    dar ir kitkuo – kunigaikštienė taip ir neįgijo krikščioniško vardo, palai-
+    dota kaip pagonė, bet jos legenda nenutrūko ir įsigalint krikščionybei,
+    o Birutės kalnas Palangoje buvo gerbiamas kaip šventosios).
+  citata_rodoma: "Šiandien pripažįstama, kad \nepinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraš-\nčiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į \nMaskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi \ndar ir kitkuo – kunigaikštienė taip ir neįgijo krikščioniško vardo, palai-\ndota kaip pagonė, bet jos legenda nenutrūko ir įsigalint krikščionybei, \no Birutės kalnas Palangoje buvo gerbiamas kaip šventosios)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177710
+    - t-177739
+
+- id: c-32224
+  citata_originali: |
+    Todėl, prastovėjęs prie Maskvos mūrų «tris dienas ir tris naktis »
+    ir nuteriojęs apylinkę, jis grįžo atgal^17. Iki tol niekados lietuviai
+    nebuvo pasiekę Maskvos vartų. Lieka neaišku, ar tas paslaptimi
+    apgaubtas žygis teturėjo reikšti vien Tverės Mykolo teisių gynimą,
+    ar kai ką ir daugiau.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177783
+
+- id: c-32225
+  citata_originali: |
+    Tretįjį Maskvos žygį (1372.IV.) pradėjo Kęstutis ir Andrius
+    Algirdaitis (iš Polocko), netikėtai su didele kariuomene įsiveržę į
+    Dimitro Doniečio žemes.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177713
+
+- id: c-37537
+  citata_originali: |
+    Šis daly­
+    kas neleido Vytautui eiti prieš Maskvą, kurios jis, be abejo, ne­
+    būtų aplenkęs, tačiau, iš kitos pusės Vytautas, tapdamas savo
+    duktėno globėju, tuo pačiu ir Maskvos kunigaikštijos protekto­
+    rium, iškilo aukščiau kitų rusų kunigaikščių, kas vertė juos dar
+    labiau lenktis Vytauto galybei. Savo laiške jis rašo, kad su vi­
+    sa kariuomene ir pulku dvariškių pasiekė net 100 mylių už Smo­
+    lensko, palikdamas kairėje Maskvą, iki kurios tebuvo trijų die­
+    nų kelio; toliausiai Vytautas nuėjo iki Okos prieupio Zna, už
+    Pronsko (visai netoli dabartinės Penzos). Čia Vytautą sveiki­
+    no ir jam lenkėsi Riazaniaus, Perejaslavlio, Pronsko, Novosiels-
+
+    (^1) ) L. E. K. U., VII, 222 nr.
+    (^2) ) Vosylius I (1389—1425), Dimitro Donskoj sūnus, Vytauto žen­
+    tas, mirdamas antrą kartą buvo pareiškęs norą, kad Vytautas globotų jo
+    sūnų (įpėdinį) Vosylių II, žmoną ir vaikus.
+  citata_rodoma: "Savo laiške jis rašo, kad su vi­\nsa kariuomene ir pulku dvariškių pasiekė net 100 mylių už Smo­\nlensko, palikdamas kairėje Maskvą, iki kurios tebuvo trijų die­\nnų kelio; toliausiai Vytautas nuėjo iki Okos prieupio Zna, už\nPronsko (visai netoli dabartinės Penzos). Čia Vytautą sveiki­\nno ir jam lenkėsi Riazaniaus, Perejaslavlio, Pronsko, Novosiels-\n\n(^1) ) L."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177804
+    - t-177724
+
+- id: c-37540
+  citata_originali: |
+    Palaikydamas labai gyvus politinius santykius
+    su lenkais ir Ordinu, Vytautas turėjo visą laiką kreipti daug
+    dėmesio ir į rytus. Per metų metus rytų reikalai jam vyrauja;
+    jis taikosi ir su vakarų kaimynais, kad tik turėtų laisvas rankas
+    rytuose, kur jam ir priešų ir draugų buvo daug: Pskovas, Nau­
+    gardas, Maskva, Tveris, Riazanė, Okos aukštupio kunigaikš­
+    čiai, totoriai. Vytautas nori visus juos paimti savo valdžion
+    ar bent turėti jiems didelę įtaką.
+  citata_rodoma: "Per metų metus rytų reikalai jam vyrauja;\njis taikosi ir su vakarų kaimynais, kad tik turėtų laisvas rankas\nrytuose, kur jam ir priešų ir draugų buvo daug: Pskovas, Nau­\ngardas, Maskva, Tveris, Riazanė, Okos aukštupio kunigaikš­\nčiai, totoriai. Vytautas nori visus juos paimti savo valdžion\nar bent turėti jiems didelę įtaką."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177723
+    - t-177701
+
+- id: c-43625
+  citata_originali: |
+    8 Mūšiai už Lietuvą: pergalės ir pralaimėjimai, rezignacijos ir heroizmai
+
+    ## Puslapis 11
+
+    valdovai sugebėjo užkariavimais ir kitomis dominavimo formo-
+    mis plėsti valstybę toli į rytus ir sukurti didvalstybę, kurią kartais
+    šiandien pavadiname net imperija. Po to sekė kelių šimtmečių
+    kova ginant sukurtą didvalstybę nuo vis stiprėjančių grėsmių iš
+    rytų — plėšikaujančiais ir sąjungomis su Maskva bei Vilniumi
+    manipuliuojančiais Krymo totoriais, imperines ambicijas užaugi-
+    nusiomis Maskva ir Turkija, o taip pat kova su rytinę Baltijos pa-
+    krante siekusia užkariauti Švedija.
+
+    Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo
+    kariauti Nepriklausomybės kovose prieš bolševikus, atremda-
+    ma jų ekspansiją prie Jiezno ir Kėdainių, po to vydama juos iki
+    pat Daugpilio.
+  citata_rodoma: "8 Mūšiai už Lietuvą: pergalės ir pralaimėjimai, rezignacijos ir heroizmai\n\n## Puslapis 11\n\nvaldovai sugebėjo užkariavimais ir kitomis dominavimo formo-\nmis plėsti valstybę toli į rytus ir sukurti didvalstybę, kurią kartais\nšiandien pavadiname net imperija. Po to sekė kelių šimtmečių\nkova ginant sukurtą didvalstybę nuo vis stiprėjančių grėsmių iš\nrytų — plėšikaujančiais ir sąjungomis su Maskva bei Vilniumi\nmanipuliuojančiais Krymo totoriais, imperines ambicijas užaugi-\nnusiomis Maskva ir Turkija, o taip pat kova su rytinę Baltijos pa-\nkrante siekusia užkariauti Švedija.\n\nGimstanti Pirmoji Lietuvos Respublika 1919-1920 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177703
+    - t-177714
+
+- id: c-43627
+  citata_originali: |
+    Jau
+    krikščioniška valstybe tapusi Lietuva xv a. Žalgirio ir Pabaisko
+    mūšiuose pergalingai užbaigė savo Didįjį (beveik 250 m. trukusį)
+    pagoniškosios epochos karą dėl išlikimo prieš Vokiečių ordiną.
+    Po to Lietuva ilgesnį laiką gyveno sąlyginai ramiai, iki kol naujas
+    galios centras - Maskvos valstybė ėmė stiprėti ir xv a. pabaigoje
+    kelti grėsmę Lietuvos teritorijos vientisumui.
+
+    m“
+
+    k
+    NN
+    a
+
+    Vytis iš XV a.
+    pirmos pusės
+    Bergshamaro
+    herbyno
+  citata_rodoma: "Po to Lietuva ilgesnį laiką gyveno sąlyginai ramiai, iki kol naujas\ngalios centras - Maskvos valstybė ėmė stiprėti ir xv a. pabaigoje\nkelti grėsmę Lietuvos teritorijos vientisumui.\n\nm“\n\nk\nNN\na\n\nVytis iš XV a."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177751
+    - t-177744
+
+- id: c-43628
+  citata_originali: |
+    1611m. J. K. Chodkevičiui buvo pavesta vadovauti
+    Maskvoje apsuptos lenkų ir lietuvių įgulos debloka-
+    vimui, tačiau ši, nesulaukusi pagalbos, kapituliavo.
+    1615-1616 m.
+  citata_rodoma: "1611m. J. K. Chodkevičiui buvo pavesta vadovauti\nMaskvoje apsuptos lenkų ir lietuvių įgulos debloka-\nvimui, tačiau ši, nesulaukusi pagalbos, kapituliavo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177813
+    - t-177748
+
+- id: c-43629
+  citata_originali: |
+    Dėl valdžios ėmė kovoti
+    Abiejų Tautų valdovo Zigmanto Vazos re-
+    miami išgyvenusiu Dmitrijumi apsimetę
+    pretendentai į Rusijos sostą ir kai kurių
+    rusų bojarinų giminių atstovai. Lenkų ka-
+    riuomenė šios sumaišties metu 1610 m. su-
+
+    mušusi rusus prie Klušino, užėmė Maskvą.
+
+    Dalis Rusijos bojarinų naujuoju caru iš-
+    rinko Zigmanto Vazos sūnų Vladislovą.
+  citata_rodoma: "Lenkų ka-\nriuomenė šios sumaišties metu 1610 m. su-\n\nmušusi rusus prie Klušino, užėmė Maskvą.\n\nDalis Rusijos bojarinų naujuoju caru iš-\nrinko Zigmanto Vazos sūnų Vladislovą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177761
+    - t-177802
+
+- id: c-46605
+  citata_originali: |
+    Labai greit vyriausiasis brolis, Andrius, val-
+    dęs Polocką, atsisakė klausyti Jogailos ir, pabėgęs į Maskvą,
+    ėmė ruošti koaliciją prieš Jogailą. Jį uoliai rėmė Maskvos kuni-
+    gaikštis Dimitrijas, kuriam rūpėjo užimti Lietuvos valdomus Pa-
+    volgio miestus, ir Livonijos ordinas, kuris visada rėmė kiek-
+    vieną neramumą Lietuvoje. Prie Andriaus prisidėjo dar brolis
+    Dimitrijas, Briansko valdovas, ir pritarė Kijevo valdovas Vla-
+    dimiras.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177807
+
+- id: c-46608
+  citata_originali: |
+    Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės,
+    Riazanės kunigaikščiai; atvyko daugybė Vytauto priklausomų
+    rusų kunigaikščių; pagaliau atvyko pats imperatorius Zigman-
+    tas, popiežiaus legatas ir daugelio Vokietijos miestų ir kunigaikš-
+    čių atstovų. Suvažiavimo šeimininkas, Vytautas, turėjo progos
+    parodyti savo vaišingumą.
+
+    Tarp visų suvažiavime iškeltų klausimų vienas iš svarbiau-
+    siųjų buvo sumanymas karūnuoti Vytautą Lietuvos karalium.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177766
+
+- id: c-46614
+  citata_originali: |
+    Po jo, 15 metų buvo caru jokiems dideliems
+    žygiams netikęs jo silpnaprotis sūnus Teodoras, su kurio mirtim
+    pasibaigė Kalitos dinastija. Maskvoje tuomet prasidėjo per-
+    versmų periodas — užėjo vadinamoji didžioji suirutė ( _smuta_ ).
+    Dėl to po Jono IV Žiauriojo dar ilgai iš Maskvos pusės nebuvo
+    jokio pavojaus Lietuvai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177722
+
+- id: c-161548
+  citata_originali: |
+    Buvo nacionalizuoti
+    bankai, stambiosios pramonės įmonės. Seime išrinkta 20 asmenų delegaci-
+    ja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-
+    prašė neva savanoriškai įeiti į SSRS sudėtį. Taip įforminta Lietuvos aneksija,
+    Rinkimų į Liaudies seimą agitacinis plakatas.
+  citata_rodoma: "Seime išrinkta 20 asmenų delegaci-\nja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-\nprašė neva savanoriškai įeiti į SSRS sudėtį. Taip įforminta Lietuvos aneksija, \nRinkimų į Liaudies seimą agitacinis plakatas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177779
+
+- id: c-161549
+  citata_originali: |
+    Dalis Rusijos bojarinų naujuoju caru iš-
+    rinko Zigmanto Vazos sūnų Vladislovą.
+    Tačiau galiausiai Rusijoje kilo didelis suki-
+    limas, Maskvoje įsitvirtinę lenkai ir lietu-
+    viai buvo apsupti ir priversti kapituliuoti.
+    Jiems padėti nesugebėjo net Lenkijos-
+    Lietuvos valdovo apgultiesiems į pagalbą
+    atsiųstos Lietuvos didžiojo etmono Jono
+    Karolio Chodkevičiaus pajėgos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177773
+
+- id: c-161550
+  citata_originali: |
+    Antra vertus, birželio 22–28 dienos įvykiai – dar vienas tragiškas
+
+    L I E T U V O S  I S T O R I J A
+    198
+    lietuvių tautos puslapis: sovietų valdymą pakeitusi nacių okupacija ne tik
+    sužlugdė Lietuvos nepriklausomybės įgyvendinimą, bet ir pradėjo masinį
+    Lietuvos žydų naikinimą.
+    Lietuvos žydų sunaikinimas – Holokaustas
+    Vokietijai greitai užėmus Lietuvą labai mažai gyventojų pa-
+    sitraukė į Rytus, sovietai vos spėjo išgabenti į Maskvą LSSR vyriausybę.
+    Tai pražūtingai atsiliepė žydams – daugybė jų, besitraukiančių į Rytus,
+    grąžinti atgal lietuvių sukilėlių arba sugrįžo patys, nes kelyje į Maskvą
+    juos aplenkė vermachtas, o iš kitos pusės, sovietų kariai ir NKVD prie
+    vidinės sienos stabdė žmonių traukimąsi į Rusiją, laikydami juos dezerty-
+    rais, panikos skleidėjais, vos tik pamatę dokumentus lietuvių kalba įtari-
+    nėjo šnipinėjimu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177793
+    - t-177776
+
+- id: c-161551
+  citata_originali: |
+    Pirmiausia Maskvoje (1494 m.)
+    balandžio 18 d. amžinos taikos sutartį su caru pasirašė Lie­
+    tuvos pasiuntiniai: Petras Białas, Trakų vaivada ir Stanis­
+    lovas Goštautas, Žemaičių seniūnas, Aleksandras prisie­
+    kė Vilniuje, iš Maskvos atvykusių pasiuntinių akivaizdoje.
+    O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­
+    terį (1495 m.), sužadėtoji didžioji kunigaikštytė Elena, ki­
+    tų metų sausį išvažiavusi iš Maskvos, į Vilnių atvyko va­
+    sarį, lydima bojarinų: kunigaikščio Simono Rapolovskio,
+    Mykolo Rusalkos ir Prokopo Zinovjevičiaus, jų žmonų bei
+    daugybės kitų dvariškių, kambarinių, arklininkų ir boja­
+    rinų vaikų. Ją sutiko pats Aleksandras per pusę mylios nuo
+    miesto, kelyje į Nemėžį, ir ten, apsupti dvaro bei tarybos
+    ponų, sustoję ant žydros, auksu siuvinėtos gelumbės pa­
+    tiesalo, padavė vienas kitam rankas ir pirmąkart pasikal­
+    bėjo.
+  citata_rodoma: "O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­\nterį (1495 m.), sužadėtoji didžioji kunigaikštytė Elena, ki­\ntų metų sausį išvažiavusi iš Maskvos, į Vilnių atvyko va­\nsarį, lydima bojarinų: kunigaikščio Simono Rapolovskio,\nMykolo Rusalkos ir Prokopo Zinovjevičiaus, jų žmonų bei\ndaugybės kitų dvariškių, kambarinių, arklininkų ir boja­\nrinų vaikų. Ją sutiko pats Aleksandras per pusę mylios nuo\nmiesto, kelyje į Nemėžį, ir ten, apsupti dvaro bei tarybos\nponų, sustoję ant žydros, auksu siuvinėtos gelumbės pa­\ntiesalo, padavė vienas kitam rankas ir pirmąkart pasikal­\nbėjo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177732
+
+- id: c-161552
+  citata_originali: |
+    Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
+    to ginčai, ir po kelerių metų (1500 m.) anoji sutartis su caru
+    buvo nutraukta. Tačiau Aleksandro ir Elenos santuoka išplė­
+    tė prekybinius Vilniaus santykius su Rusios miestais ir ska­
+    tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­
+    tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.
+    Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
+    pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
+    savo atvykimą iškart pranešti pilininkui4 3  44.
+  citata_rodoma: "Tačiau Aleksandro ir Elenos santuoka išplė­\ntė prekybinius Vilniaus santykius su Rusios miestais ir ska­\ntino steigti naujas užeigas pirkliams, atvykstantiems į Lie­\ntuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.\nKaralius leido miestui pastatyti Svečių namus, kuriuose rusų\npirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie\nsavo atvykimą iškart pranešti pilininkui4 3  44."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177709
+
+- id: c-161553
+  citata_originali: |
+    Vytautas
+    sugebėjo įvairiais būdais stiprinti sa­
+    vo aukščiausią valdžią Lietuvoje ir
+    kliūtis, kurios stojo skersai kelio, at­
+    kakliai šalindavo. Vienas didžiausių
+    ir opiausių nepatogumų buvo Mask­
+    vos metropolitų religinė viršenybė
+    rusiškojo tikėjimo vyskupų Lietuvo­
+    je atžvilgiu. Kenksmingą tos virše­
+    nybės įtaką graikų apeigų tikėjimo
+    dvasininkų ir gyventojų rusų mąs-
+    tvmo būdui ne kartą didysis kuni­
+    gaikštis buvo pajutęs, ypač karų su
+    Maskva laikais; o, be to, juk ir ne­
+    mažos pajamos kasmet iš Lietuvos
+    būdavo teikiamos Maskvos metro­
+    politams.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177789
+    - t-177707
+
+- id: c-161554
+  citata_originali: |
+    Taigi,
+    šios epochos rytinė Vidurio Europa buvo tapusi „jogailaičių Europa“, o
+    jogailaičių dinastija – pagrindine Habsburgų dinastijos konkurente. Jo-
+    gailaičių Europa pradėjo vaidinti „krikščionybės forposto“ vaidmenį, tie-
+    sa, nevienodai sėkmingai. Lietuva, Lenkijos padedama, atsilaikė prieš sta-
+    čiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m.
+    patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemė-
+    lapio.
+  citata_rodoma: "Lietuva, Lenkijos padedama, atsilaikė prieš sta-\nčiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m. \npatyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemė-\nlapio."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177759
+
+- id: c-161555
+  citata_originali: |
+    Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus
+    Mendli Girėjaus priešas, savo pajėgomis rėmė lietuvius, -
+    Aleksandro veiksmams stigo ryžto ir, nors buvo išrinktas
+    Lenkijos karaliumi (1501 metais), jis vis dėlto negebėjo pa­
+    naudoti savo galios ir susidoroti su savo priešais. Šach Ach­
+    medas, apleistas sąjungininko, Mendli Girėjaus sumuštas,
+    43
+    Žinome, kad Maskvoje iki šiol dar
+    išlikęs priežodis: Kto w Wilnie nie by­
+    wał, tot czudes nie widał [Kas Vilniuje
+    nebuvo, tas stebuklų neregėjo]. At­
+    rodo, kad šią nuomonę išplatino tie,
+    kurie didžiąją kunigaikštytę Eleną
+    atlydėjo į Vilnių ir buvo sužavėti
+    nuostabaus priėmimo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177786
+    - t-177774
+
+- id: c-161557
+  citata_originali: |
+    Politikai Kaune ultimatumo tikėjosi, patys ieškojo būdų, kaip užmegzti
+    santykius. Prancūzai ir britai patarė lenkų reikalavimus priimti, tą patį
+    Kaunui sakė Maskva ir Berlynas. Lietuvos vyriausybės posėdyje gen.
+    S. Raštikis pareiškė, kad kariuomenė, gavusi tokį įsakymą, kovos, tačiau
+    Lietuvos kariuomenės paradinė rikiuotė 1937 m.
+  citata_rodoma: "Politikai Kaune ultimatumo tikėjosi, patys ieškojo būdų, kaip užmegzti \nsantykius. Prancūzai ir britai patarė lenkų reikalavimus priimti, tą patį \nKaunui sakė Maskva ir Berlynas. Lietuvos vyriausybės posėdyje gen."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177735
+    - t-177716
+
+- id: c-161560
+  citata_originali: |
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    priešinimasis, nei pagaliau Jogailos pasiskelbimas, kad per­
+    leidžiąs Lenkijos karūną Vytautui. Vytautas, vienintelio
+    troškimo apimtas, sukviečia pas save įžymiausius šiaurės
+    šalių kunigaikščius arba jų pasiuntinius, ketindamas jiems
+    dalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430
+    metais), kur didysis kunigaikštis paprastai gyvendavo di­
+    džiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­
+    gaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir
+    Riazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­
+    vos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­
+    nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
+    magistras, Mazovijos kunigaikščiai ir totorių chanai84.
+  citata_rodoma: "Vytautas, vienintelio \ntroškimo apimtas, sukviečia pas save įžymiausius šiaurės \nšalių kunigaikščius arba jų pasiuntinius, ketindamas jiems \ndalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430 \nmetais), kur didysis kunigaikštis paprastai gyvendavo di­\ndžiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­\ngaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir \nRiazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­\nvos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­\nnus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos \nmagistras, Mazovijos kunigaikščiai ir totorių chanai84."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177792
+    - t-177753
+
+- id: c-161562
+  citata_originali: |
+    1452
+    metų vasarį Švitrigaila, kurio audringas ir nelaimingas gy­
+    venimas buvo sudrumstęs pusę Europos, vienus papiktin­
+    damas, kitiems keldamas gailestį, užbaigė savo klajokliškas
+    dienas Lucke, o jo kūnas buvo perkeltas į protėvių kapą Vil­
+    niaus katedroje. Greta jo, stebėtina lemties valia, tuo pat me­
+    tu buvo palaidoti nelaimėlio jo sūnaus ir bendrininko kuni­
+    gaikščio Mykolo palaikai. Jis, klajodamas po tremtį
+    Maskvoje, mirė nunuodytas kažkokiame vienuolyne.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177765
+
+- id: c-161563
+  citata_originali: |
+    Atėjo metas Lietuvos ir Lenkijos santykių
+    problemai. XV a. trečiojo dešimtmečio pabaigoje Vytautas pradėjo elgtis
+    kaip savarankiškas valdovas. 1427 m. žygiavo į Maskvą padėti vaikaičiui
+    Baziliui (Vasiliui) II, tam užteko vien pademonstruoti jėgą.
+  citata_rodoma: "trečiojo dešimtmečio pabaigoje Vytautas pradėjo elgtis \nkaip savarankiškas valdovas. 1427 m. žygiavo į Maskvą padėti vaikaičiui \nBaziliui (Vasiliui) II, tam užteko vien pademonstruoti jėgą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177719
+
+- id: c-161565
+  citata_originali: |
+    Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji
+    rusų miestai - Pskovas ir Naugardas - prekyba, mūrais ir netgi
+    savo pačių valdžia galingi. Maskva tuomet dar tebuvo menka
+    gyvenvietė; tik pietų Rusioje klestėjo senasis Kijevas, Rytų apeigų
+    tikėjimo lopšys ir kurį laiką garsios monarchijos sostinė. Visi
+    kiti Rusios miestai, šiauriniai ir pietiniai, perdėm susmulkintų
+    kunigaikštysčių sostinės, neturėjo nei tokios reikšmės, nei lais­
+    vių, kad galėtų bent kiek paveikti kaimyninius kraštus.
+  citata_rodoma: "Maskva tuomet dar tebuvo menka\ngyvenvietė; tik pietų Rusioje klestėjo senasis Kijevas, Rytų apeigų\ntikėjimo lopšys ir kurį laiką garsios monarchijos sostinė. Visi\nkiti Rusios miestai, šiauriniai ir pietiniai, perdėm susmulkintų\nkunigaikštysčių sostinės, neturėjo nei tokios reikšmės, nei lais­\nvių, kad galėtų bent kiek paveikti kaimyninius kraštus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177788
+
+- id: c-161567
+  citata_originali: |
+    Georgijaus Čičerino nota prie šio pakto patvirtino Lietuvos intere-
+    sus Vilniuje; sovietai užtikrino lietuviams, kad de facto esantys Lietuvos
+    sienos pažeidimai nepakeitė Maskvos pozicijų dėl Lietuvos teritorinio
+    suverenumo. Taigi Maskva, nepaisydama Lenkijos nepasitenkinimo, pri-
+    pažino Lietuvos suverenitetą Vilniuje.
+    Lietuvos politines jėgas veikė bendrieji Europos procesai – parla-
+    mentarizmo krizės, diktatūrų įvedimai, perversmai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177725
+    - t-177717
+
+- id: c-161568
+  citata_originali: |
+    Klaipėdos sukilimas, kuriam vadovavo J. Budrys, tapo paskutine ofenzyvinio pobūdžio Lietuvos karinė operacija, kurios dėka xx a. pirmoje pusėje buvo susigrąžintas
+    Klaipėdos kraštas, vokiečių užgrobtas dar XII a. viduryje.
+
+    8 Mūšiai už Lietuvą: pergalės ir pralaimėjimai, rezignacijos ir heroizmai
+
+    ## Puslapis 11
+
+    valdovai sugebėjo užkariavimais ir kitomis dominavimo formo-
+    mis plėsti valstybę toli į rytus ir sukurti didvalstybę, kurią kartais
+    šiandien pavadiname net imperija. Po to sekė kelių šimtmečių
+    kova ginant sukurtą didvalstybę nuo vis stiprėjančių grėsmių iš
+    rytų — plėšikaujančiais ir sąjungomis su Maskva bei Vilniumi
+    manipuliuojančiais Krymo totoriais, imperines ambicijas užaugi-
+    nusiomis Maskva ir Turkija, o taip pat kova su rytinę Baltijos pa-
+    krante siekusia užkariauti Švedija.
+  citata_rodoma: "viduryje.\n\n8 Mūšiai už Lietuvą: pergalės ir pralaimėjimai, rezignacijos ir heroizmai\n\n## Puslapis 11\n\nvaldovai sugebėjo užkariavimais ir kitomis dominavimo formo-\nmis plėsti valstybę toli į rytus ir sukurti didvalstybę, kurią kartais\nšiandien pavadiname net imperija. Po to sekė kelių šimtmečių\nkova ginant sukurtą didvalstybę nuo vis stiprėjančių grėsmių iš\nrytų — plėšikaujančiais ir sąjungomis su Maskva bei Vilniumi\nmanipuliuojančiais Krymo totoriais, imperines ambicijas užaugi-\nnusiomis Maskva ir Turkija, o taip pat kova su rytinę Baltijos pa-\nkrante siekusia užkariauti Švedija."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177809
+
+- id: c-161569
+  citata_originali: |
+    Suprantame, kad mūsų ganytojiškoms parei­
+    goms priklauso pasirūpinti, kad iš bendrų vyskupijos stalo
+    pajamų ir kapitulos, ir visokios rūšies vertybių, personatų,
+    pelno, abatijų turto dalies bei visokių kitokių beneficijų, mū­
+    sų diecezijoje egzistuojančių, būtų paimta tam tikra dalis ar
+    porcija, ir ta dalis, taip išimta, būtų prijungta prie anksčiau
+    minėtos kolegijos ir inkorporuota. Nors, esant dabartinėms
+    nelaimėms, nuolatiniams nuostoliams dėl karo su Maskva,
+    mes neprivalome savęs apsunkinti naujais vargais, atsižvelg­
+    dami į savo padėtį, sunkiai galime aprūpinti lėšomis, tačiau
+    tikėdamiesi, kad Viešpaties, kurismeapleidžia gerų darbų,
+    ranka nesutrumpėjusi, paties Viešpaties Dievo vardu nu­
+    sprendžiame ir funduojame mūsų klierikų kolegiją ir fun-
+    davimui bei jos aprūpinimui jai pridedame mūsų patrimo-
+    nialinį dvarelį Vilniaus paviete, vadinamą Vozgėliškėmis*.
+    —  • —
+    427
+    Vaisgėliškis (vert.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177740
+
+- id: c-161570
+  citata_originali: |
+    Vilniaus katedroje, dalyvaujant Varšuvos
+    kunigaikštystės delegacijai, deklaruotas noras iš naujo susivienyti su Len-
+    kija, susigrąžinant LDK prarastas žemes. Tačiau Napoleonui teko trauktis
+    iš Maskvos, o besitraukiant neliko ir jo kariuomenės. 1812 m. pabaigoje
+    Lietuvoje vėl buvo rusai.
+  citata_rodoma: "Tačiau Napoleonui teko trauktis \niš Maskvos, o besitraukiant neliko ir jo kariuomenės. 1812 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177749
+
+- id: c-161571
+  citata_originali: |
+    Bet to paties siekė ir Algirdas, kuris nedvejodamas pas­
+    kelbė, jog «savaime visa Rusia (Russia) turėtų priklausyti lietu­
+    viams »^14.
+    Tad Algirdas ir Maskvos kunigaikščiai tapo nesutaikomi priešai.
+    Varžybinė kova tarp Vilniaus ir Maskvos jau prasidėjo pačioje
+    Algirdo valdymo pradžioje, kai jis, norėdamas sulaužyti Maskvos
+    jėgą, nutarė susiartinti su totorių chanu ir siuntė pas jį 1349 m.
+  citata_rodoma: "Tad Algirdas ir Maskvos kunigaikščiai tapo nesutaikomi priešai.\nVaržybinė kova tarp Vilniaus ir Maskvos jau prasidėjo pačioje\nAlgirdo valdymo pradžioje, kai jis, norėdamas sulaužyti Maskvos\njėgą, nutarė susiartinti su totorių chanu ir siuntė pas jį 1349 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177742
+
+- id: c-161572
+  citata_originali: |
+    Reali aukščiausioji valdžia atiteko ne šalyje li-
+    kusiems ministrams, o birželio 15 dienos pavakare į Lietuvą iš Maskvos
+    atvykusiam sovietų vyriausybės emisarui Vladimirui Dekanozovui (kar-
+    tu su juo atvyko ir vidaus reikalų komisaro Lavrentijaus Berijos pirmasis
+    pavaduotojas Vsevolodas Merkulovas, vadinęsis „drg. Petrovu“, bet jis,
+    kaip specialiųjų tarnybų atstovas, veikė slaptai), kuris diegė sprendimus
+    iš Maskvos. V. Dekanozovui talkino ir sovietų pasiuntinybė su įgaliotuoju
+    atstovu (polpredu) Nikolajumi Pozdniakovu priešakyje, ir iki tol pogrin-
+    dyje veikusi maža Lietuvos komunistų partija (LKP).
+  citata_rodoma: "Reali aukščiausioji valdžia atiteko ne šalyje li-\nkusiems ministrams, o birželio 15 dienos pavakare į Lietuvą iš Maskvos \natvykusiam sovietų vyriausybės emisarui Vladimirui Dekanozovui (kar-\ntu su juo atvyko ir vidaus reikalų komisaro Lavrentijaus Berijos pirmasis \npavaduotojas Vsevolodas Merkulovas, vadinęsis „drg. Petrovu“, bet jis, \nkaip specialiųjų tarnybų atstovas, veikė slaptai), kuris diegė sprendimus \niš Maskvos. V."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177798
+
+- id: c-161574
+  citata_originali: |
+    Steponui Batorui (valdė 1576–1586  m.) pasiektos lemiamos pergalės
+    Livonijos kare prieš Maskvą ir šios pavojus atitolintas daugiau nei pusam-
+    žiui (1609–1611 m. Lenkija ir Lietuva net buvo užėmusi Maskvą). Tačiau
+    svarbiausias Liublino unijos kompromiso rezultatas – Abiejų Tautų Res-
+    publika, kuri egzistavo dar du amžius.
+  citata_rodoma: ") pasiektos lemiamos pergalės \nLivonijos kare prieš Maskvą ir šios pavojus atitolintas daugiau nei pusam-\nžiui (1609–1611 m. Lenkija ir Lietuva net buvo užėmusi Maskvą). Tačiau \nsvarbiausias Liublino unijos kompromiso rezultatas – Abiejų Tautų Res-\npublika, kuri egzistavo dar du amžius."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177738
+
+- id: c-161575
+  citata_originali: |
+    XV a. trečiojo dešimtmečio pabaigoje Vytautas pradėjo elgtis
+    kaip savarankiškas valdovas. 1427 m. žygiavo į Maskvą padėti vaikaičiui
+    Baziliui (Vasiliui) II, tam užteko vien pademonstruoti jėgą. Grįžimas
+    namo buvo ne karo žygis, o tik rytinių valstybės pakraščių patikrinimas –
+    pajungiami Pskovas (1426 m.) ir Didysis Naugardas (1428 m.).
+  citata_rodoma: "1427 m. žygiavo į Maskvą padėti vaikaičiui \nBaziliui (Vasiliui) II, tam užteko vien pademonstruoti jėgą. Grįžimas \nnamo buvo ne karo žygis, o tik rytinių valstybės pakraščių patikrinimas – \npajungiami Pskovas (1426 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177708
+
+- id: c-161576
+  citata_originali: |
+    Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų (formaliai
+    kariuomenė padidinta, jei kariaujančios šalys peržengtų Lietuvos sieną).
+    Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentro-
+    pui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp
+    Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į
+    SSRS įtakos sferą (už tai Vokietija gavo Liublino vaivadiją), Vokietijos
+    spaudimą Lietuvai kaip ranka nuėmė.
+    Užtat sukruto sujudo Maskva – V. Molotovas pakvietė atvykti į Mas-
+    kvą ministrą Juozą Urbšį.
+  citata_rodoma: "Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentro-\npui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp \nReicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į \nSSRS įtakos sferą (už tai Vokietija gavo Liublino vaivadiją), Vokietijos \nspaudimą Lietuvai kaip ranka nuėmė. \nUžtat sukruto sujudo Maskva – V. Molotovas pakvietė atvykti į Mas-\nkvą ministrą Juozą Urbšį."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177814
+    - t-177800
+
+- id: c-161579
+  citata_originali: |
+    Kenksmingą tos virše­
+    nybės įtaką graikų apeigų tikėjimo
+    dvasininkų ir gyventojų rusų mąs-
+    tvmo būdui ne kartą didysis kuni­
+    gaikštis buvo pajutęs, ypač karų su
+    Maskva laikais; o, be to, juk ir ne­
+    mažos pajamos kasmet iš Lietuvos
+    būdavo teikiamos Maskvos metro­
+    politams. Vytautas užkirto tam ke­
+    lią, nutraukdamas iš karto visus ry­
+    šius su naujai išrinktu Maskvos
+    metropolitu Fotijumi ir paliepdamas
+    vyskupams, susirinkusiems į Nau­
+    garduką, išrinkti iš savo tarpo Lie­
+    tuvai atskirą metropolitą. Daugiau
+    apie tai žinių yra įdėję: K u 1  c z y ń s-
+    k i Specimen Ecclesiae Ruthenicae,
+    Pars.
+  citata_rodoma: "Vytautas užkirto tam ke­\nlią, nutraukdamas iš karto visus ry­\nšius su naujai išrinktu Maskvos\nmetropolitu Fotijumi ir paliepdamas\nvyskupams, susirinkusiems į Nau­\ngarduką, išrinkti iš savo tarpo Lie­\ntuvai atskirą metropolitą. Daugiau\napie tai žinių yra įdėję: K u 1  c z y ń s-\nk i Specimen Ecclesiae Ruthenicae,\nPars."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177810
+
+- id: c-161580
+  citata_originali: |
+    Tai buvo kone vienintelis leidinys, be pertraukos net 17
+    metų (nors ir nereguliariai) leistas Sovietų Sąjungoje. Nors „Kronika“ skirta
+    tikinčiajai visuomenei ir kėlė tik tikėjimo reikalus, ji virto Katalikų bažny-
+    čios pasipriešinimo sovietų valdžiai simboliu, mokė tvirtybės.
+    1978 m. lapkričio 22 d. trys kunigai – Alfonsas Svarinskas, Sigitas Tam-
+    kevičius ir Juozas Zdebskis – spaudos konferencijoje Maskvoje užsienio
+    žurnalistams pranešė, kad lap-
+    kričio 13 dieną Lietuvoje įkurtas
+    Tikinčiųjų teisių gynimo komi-
+    tetas (TTGK) (jam dar priklau-
+    sė kunigai Jonas Kauneckas ir
+    Vincentas Vėlavičius), kuris kėlė
+    religinės diskriminacijos proble-
+    mą – tikintieji neturi tų teisių,
+    kuriomis valstybėje naudojasi
+    ateistai, o kulto laisvė praktikoje
+    varžoma.
+  citata_rodoma: "1978 m. lapkričio 22 d. trys kunigai – Alfonsas Svarinskas, Sigitas Tam-\nkevičius ir Juozas Zdebskis – spaudos konferencijoje Maskvoje užsienio \nžurnalistams pranešė, kad lap-\nkričio 13 dieną Lietuvoje įkurtas \nTikinčiųjų teisių gynimo komi-\ntetas (TTGK) (jam dar priklau-\nsė kunigai Jonas Kauneckas ir \nVincentas Vėlavičius), kuris kėlė \nreliginės diskriminacijos proble-\nmą – tikintieji neturi tų teisių, \nkuriomis valstybėje naudojasi \nateistai, o kulto laisvė praktikoje \nvaržoma."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177796
+    - t-177777
+
+- id: c-161581
+  citata_originali: |
+    Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priė-
+    mė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo
+    valstybės nuosavybe, o ūkininkai – žemės naudotojais. Buvo nacionalizuoti
+    bankai, stambiosios pramonės įmonės. Seime išrinkta 20 asmenų delegaci-
+    ja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-
+    prašė neva savanoriškai įeiti į SSRS sudėtį.
+  citata_rodoma: "Buvo nacionalizuoti \nbankai, stambiosios pramonės įmonės. Seime išrinkta 20 asmenų delegaci-\nja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-\nprašė neva savanoriškai įeiti į SSRS sudėtį."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177712
+
+- id: c-161582
+  citata_originali: |
+    Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
+    čiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­
+    zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­
+    niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­
+    riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
+    niai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­
+    džiai priimti.
+  citata_rodoma: "Atkeliavo ir Vytauto giminaičiai, Mo­\nzūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­\nniaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­\nriaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­\nniai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­\ndžiai priimti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177764
+
+- id: c-161583
+  citata_originali: |
+    Vytauto nusistaty­
+    mas rusų metraščiuose yra atžymėtas įvairiais vaizdingais posa­
+    kiais. Jis esą Tochtamišui sakęs : « Aš įkelsiu tave ordos sostan, o
+    tu pasodinsi mane didžiojoje Maskvos kunigaikštijoje ir visos Ru­
+    sijos valdžioje »^19.
+    Tochtamišo «jarlykas » Vytautui nėra išlikęs ; bet jis turėjo
+    reikšti pažadą chano, kuris buvo skirstęs rusų kunigaikščių sostus,
+    perleisti Vytautui valdžią ant visų rusų žemių.
+  citata_rodoma: "Jis esą Tochtamišui sakęs : « Aš įkelsiu tave ordos sostan, o\ntu pasodinsi mane didžiojoje Maskvos kunigaikštijoje ir visos Ru­\nsijos valdžioje »^19.\nTochtamišo «jarlykas » Vytautui nėra išlikęs ; bet jis turėjo\nreikšti pažadą chano, kuris buvo skirstęs rusų kunigaikščių sostus,\nperleisti Vytautui valdžią ant visų rusų žemių."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177711
+
+- id: c-161585
+  citata_originali: |
+    Daugelis brangeny-
+    bių buvo išvežta į Maskvą ir į Švediją. Rusai iš Vilniaus į
+    Maskvą išvežė net brangius ponų rūmų baldus, o švedai vežėsi
+    į Stokholmą net akademijos biblioteką ir daugybę kitų kultū-
+    ros turtų. Biblioteka pakeliui iš jų buvo atimta ir grąžinta, bet
+    vis dėlto daug kas buvo išvežta, o kai kas tenai tebėra dar ir
+    šiandien.
+  citata_rodoma: "Rusai iš Vilniaus į\nMaskvą išvežė net brangius ponų rūmų baldus, o švedai vežėsi\nį Stokholmą net akademijos biblioteką ir daugybę kitų kultū-\nros turtų. Biblioteka pakeliui iš jų buvo atimta ir grąžinta, bet\nvis dėlto daug kas buvo išvežta, o kai kas tenai tebėra dar ir\nšiandien."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177745
+
+- id: c-161586
+  citata_originali: |
+    Kovo mėnesį, pasitelkus tarptautinį arbitražą, nustatyta siena
+    tarp abiejų šalių.
+    Puoselėta nemažai gražių Baltoskandijos idėjų ir planų, tačiau ben-
+    dradarbiavimas su Skandinavijos šalimis neišsiplėtė. Likę vieniši lietuviai
+    1926 m. rugsėjo 28 d. Maskvoje pasirašė nepuolimo ir neutralumo sutartį
+    su SSRS.
+  citata_rodoma: "Likę vieniši lietuviai \n1926 m. rugsėjo 28 d. Maskvoje pasirašė nepuolimo ir neutralumo sutartį \nsu SSRS."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177754
+    - t-177785
+
+- id: c-161588
+  citata_originali: |
+    Pagalba atėjo iš Islandijos – 1991 m.
+    vasario 11 d. Islandijos Altingas pirmasis pripažino Lietuvos nepriklau-
+    somybę. Rugpjūtį, žlugus Maskvos pučui, kurio metu komunistai mėgino
+    susigrąžinti valdžią Sovietų Sąjungoje, kelias į nepriklausomybės pripa-
+    žinimą tapo laisvas. Per keletą dienų Lietuvą pripažino visos didžiausios
+    Sausio agresijos aukų laidotuvės – visos Lietuvos
+    protestas prieš SSRS politiką
+
+    L I E T U V O S  I S T O R I J A
+    248
+    pasaulio valstybės, tarp jų Prancūzija (rugpjūčio 25 d.), Didžioji Britanija
+    (rugpjūčio 27 d.), JAV (rugsėjo 3 d.) ir pagaliau rugsėjo 6 d. – SSRS.
+  citata_rodoma: "Islandijos Altingas pirmasis pripažino Lietuvos nepriklau-\nsomybę. Rugpjūtį, žlugus Maskvos pučui, kurio metu komunistai mėgino \nsusigrąžinti valdžią Sovietų Sąjungoje, kelias į nepriklausomybės pripa-\nžinimą tapo laisvas. Per keletą dienų Lietuvą pripažino visos didžiausios \nSausio agresijos aukų laidotuvės – visos Lietuvos  \nprotestas prieš SSRS politiką\n\nL I E T U V O S  I S T O R I J A\n248\npasaulio valstybės, tarp jų Prancūzija (rugpjūčio 25 d."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177797
+
+- id: c-161591
+  citata_originali: |
+    Šis išvyko spalio 2 dieną. Jo kelionės išvakarėse
+    pradėta dalinė Lietuvos kariuomenės demobilizacija – rizikingas žings-
+    nis, nes kritinėje situacijoje sąlygų kariuomenei padidinti galėjo nebebūti.
+    Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Urbšį pasirašyti savitarpio
+    pagalbos sutartį, sutartį dėl Vilniaus ir Vilniaus krašto perdavimo ir sutartį
+    dėl dalies pietvakarių Lietuvos teritorijos perdavimo Vokietijai.
+  citata_rodoma: "Jo kelionės išvakarėse \npradėta dalinė Lietuvos kariuomenės demobilizacija – rizikingas žings-\nnis, nes kritinėje situacijoje sąlygų kariuomenei padidinti galėjo nebebūti. \nMaskvoje spalio 3-iąją Josifas Stalinas spaudė J. Urbšį pasirašyti savitarpio \npagalbos sutartį, sutartį dėl Vilniaus ir Vilniaus krašto perdavimo ir sutartį \ndėl dalies pietvakarių Lietuvos teritorijos perdavimo Vokietijai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177726
+
+- id: c-161592
+  citata_originali: |
+    L I E T U V O S  I S T O R I J A
+    142
+    Jos delegacija, vadovaujama Tomo Naruševičiaus, atvykusi į Maskvą pir-
+    miausia pareikalavo pripažinti atkurtą Lietuvos valstybę, jos valstybingu-
+    mo tęstinumą nuo LDK. Tačiau sovietai, vadovaujami Adolfo Jofės (Adolf
+    Joffe), traktavo Lietuvą kaip naują politinį vienetą ir sutiko pripažinti Lie-
+    tuvą remdamiesi nacijų apsisprendimo teise – taigi silpnesniu pripažini-
+    mo dokumentu.
+    Lietuviai atsigriebė 1 sutarties straipsnyje – juo Rusija visiems laikams
+    atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę ir suverenumą.
+  citata_rodoma: "L I E T U V O S  I S T O R I J A\n142\nJos delegacija, vadovaujama Tomo Naruševičiaus, atvykusi į Maskvą pir-\nmiausia pareikalavo pripažinti atkurtą Lietuvos valstybę, jos valstybingu-\nmo tęstinumą nuo LDK. Tačiau sovietai, vadovaujami Adolfo Jofės (Adolf \nJoffe), traktavo Lietuvą kaip naują politinį vienetą ir sutiko pripažinti Lie-\ntuvą remdamiesi nacijų apsisprendimo teise – taigi silpnesniu pripažini-\nmo dokumentu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177775
+    - t-177737
+
+- id: c-161593
+  citata_originali: |
+    Nuo šiol trijulės likimas
+    taps nepaprastai panašus. Reali aukščiausioji valdžia atiteko ne šalyje li-
+    kusiems ministrams, o birželio 15 dienos pavakare į Lietuvą iš Maskvos
+    atvykusiam sovietų vyriausybės emisarui Vladimirui Dekanozovui (kar-
+    tu su juo atvyko ir vidaus reikalų komisaro Lavrentijaus Berijos pirmasis
+    pavaduotojas Vsevolodas Merkulovas, vadinęsis „drg. Petrovu“, bet jis,
+    kaip specialiųjų tarnybų atstovas, veikė slaptai), kuris diegė sprendimus
+    iš Maskvos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177815
+
+- id: c-161594
+  citata_originali: |
+    Kaunas, 1959 m. liepos 16 d.
+    Mariaus Baranausko nuotrauka
+
+    5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
+    219
+    mą – jos gamino techninės paskirties, gana siauro profilio produkciją, ku-
+    ria dažniausiai aprūpindavo visą didžiulę šalį. Nors pagal mėsos ir pieno
+    pramonės gamybą vienam gyventojui Lietuva užėmė pirmą vietą visoje
+    SSRS, didžioji dalis Lietuvoje pagamintos produkcijos buvo išgabenama į
+    kitus SSRS regionus (pagrindiniai išvežamų maisto produktų vartotojai –
+    Maskva ir Leningradas (dabar Sankt Peterburgas), o įmonių gaunamos
+    pajamos patekdavo į bendrą SSRS biudžetą.
+    Sovietų valdžia noriai statė ir investavo Lietuvoje ir dėl to, kad į Mas-
+    kvą keliaudavo kyšiai (lagaminai rūkytų dešrų ir kumpių), ir dėl to, jog
+    čia nebūdavo „dolgostrojų“ (ilgus metus užsitęsusių statybų, kurios rei-
+    kalaudavo nesibaigiančio finansavimo), statybinės medžiagos nebūdavo
+    visiškai išvagiamos ir naujos įmonės paleidžiamos daugiau ar mažiau
+    laiku.
+  citata_rodoma: "Mariaus Baranausko nuotrauka\n\n5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S\n219\nmą – jos gamino techninės paskirties, gana siauro profilio produkciją, ku-\nria dažniausiai aprūpindavo visą didžiulę šalį. Nors pagal mėsos ir pieno \npramonės gamybą vienam gyventojui Lietuva užėmė pirmą vietą visoje \nSSRS, didžioji dalis Lietuvoje pagamintos produkcijos buvo išgabenama į \nkitus SSRS regionus (pagrindiniai išvežamų maisto produktų vartotojai – \nMaskva ir Leningradas (dabar Sankt Peterburgas), o įmonių gaunamos \npajamos patekdavo į bendrą SSRS biudžetą. \nSovietų valdžia noriai statė ir investavo Lietuvoje ir dėl to, kad į Mas-\nkvą keliaudavo kyšiai (lagaminai rūkytų dešrų ir kumpių), ir dėl to, jog \nčia nebūdavo „dolgostrojų“ (ilgus metus užsitęsusių statybų, kurios rei-\nkalaudavo nesibaigiančio finansavimo), statybinės medžiagos nebūdavo \nvisiškai išvagiamos ir naujos įmonės paleidžiamos daugiau ar mažiau \nlaiku."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177734
+    - t-177772
+
+- id: c-161596
+  citata_originali: |
+    Mat, vyresnieji Jogailos broliai jautėsi turį daugiau
+    teisių tėvo palikimui, negu Jogaila, ir todėl nenorėjo pripa-
+    žinti jo valdžios. Labai greit vyriausiasis brolis, Andrius, val-
+    dęs Polocką, atsisakė klausyti Jogailos ir, pabėgęs į Maskvą,
+    ėmė ruošti koaliciją prieš Jogailą. Jį uoliai rėmė Maskvos kuni-
+    gaikštis Dimitrijas, kuriam rūpėjo užimti Lietuvos valdomus Pa-
+    volgio miestus, ir Livonijos ordinas, kuris visada rėmė kiek-
+    vieną neramumą Lietuvoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177794
+
+- id: c-161597
+  citata_originali: |
+    Taigi Lietuvos
+    Metrikos dokumentai – tai LDK politikos, visuomenės, ūkio, teisės, kul-
+    tūros istorija, svarbiausias LDK istorijos šaltinis. Atsidūrusi Maskvoje ir
+    iki šiol ten saugoma, ji tapo Lietuvos paveldo išbarstymo ar išgrobstymo
+    simboliu, senosios Lietuvos valstybės likimo ženklu.
+    Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo ru-
+    sėnų – LDK stačiatikių (baltarusių ir ukrainiečių protėvių) kalba.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177704
+
+- id: c-161600
+  citata_originali: |
+    Pasibaigus karams su vokiečių ordinu, atsi-
+    darė prekybos keliai į Baltijos jūrą, kur ėmė klestėti prekyba.
+    Rytuose ėję karai su Maskva reikalavo daug pinigų, todėl rei-
+    kėjo rūpintis, kad būtų daugiau ką parduoti. Didžiausi žemės
+    plotai priklausė didžiajam kunigaikščiui, todėl jam pirmiausia
+    teko susirūpinti, kad būtų pertvarkytas ūkis ir kad jis duotų
+    daugiau pajamų.
+  citata_rodoma: "Rytuose ėję karai su Maskva reikalavo daug pinigų, todėl rei-\nkėjo rūpintis, kad būtų daugiau ką parduoti. Didžiausi žemės\nplotai priklausė didžiajam kunigaikščiui, todėl jam pirmiausia\nteko susirūpinti, kad būtų pertvarkytas ūkis ir kad jis duotų\ndaugiau pajamų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177757
+
+- id: c-161602
+  citata_originali: |
+    O valdžios olimpe įsitvirtinus Leo-
+    nidui Brežnevui, sustiprėjus revanšistinėms stalininėms jėgoms Maskvoje,
+    valdymas vėl sugriežtintas – imta persekioti kitaminčius (1967–1975 m.
+    Lietuvoje už antisovietinę agitaciją ir propagandą nuteisti 1 583 asmenys),
+    ekonomika ir visuomenės gyvenimas militarizuojami, aktyviau diegiama
+    komunistinė ideologija, nors atnaujinti teroro nesiryžta.
+    Sovietų valdymas pokario Lietuvoje padarė didelių nuostolių šalies
+    gyventojams: stalininiu laikotarpiu okupacinė valdžia sunaikino ne tik
+    tūkstančius žmonių, bet ir ištisus socialinius sluoksnius, jų kultūrą ir tur-
+    tą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177771
+
+- id: c-161604
+  citata_originali: |
+    Disidentinis judėjimas sten-
+    gėsi priversti okupacinę valdžią bent neignoruoti visuotinai pripažintų
+    žmogaus teisių ir laisvių, laikytis JT Generalinės Asamblėjos 1948 m.
+    patvirtintos Visuotinės žmogaus teisių deklaracijos, nes SSRS faktiškai
+    jos nepaisė. Lietuvos disidentų siekis buvo tautos savasties išsaugojimas,
+    priešiškų jėgų veiklos dalinis neutralizavimas, žmogaus teisių gynimas.
+    Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji
+    lietuviai disidentai Aleksandras Štromas, Tomas Venclova, Pranas Morkus
+    užmezgė santykius su Maskvos disidentais, pagelbėjo jiems Maskvoje leisti
+    žurnalą „Sintaksis“, teikė informaciją iš Lietuvos.
+  citata_rodoma: "Lietuvos disidentų siekis buvo tautos savasties išsaugojimas, \npriešiškų jėgų veiklos dalinis neutralizavimas, žmogaus teisių gynimas. \nDisidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji \nlietuviai disidentai Aleksandras Štromas, Tomas Venclova, Pranas Morkus \nužmezgė santykius su Maskvos disidentais, pagelbėjo jiems Maskvoje leisti \nžurnalą „Sintaksis“, teikė informaciją iš Lietuvos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177743
+    - t-177767
+
+- id: c-161606
+  citata_originali: |
+    Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lie-
+    tuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai rei-
+    kėjo iš vadovėlių, parašytų kirilika). Kaip neprivaloma disciplina lietuvių
+    kalba įsileista ir į kelias Užnemunės vidurines mokyklas, Maskvos uni-
+    versitete paskirta dešimt valstybės stipendijų šių mokyklų auklėtiniams,
+    turintiems atestate lietuvių kalbos pažymį. Taip tikėtasi iš pačių lietuvių
+    paruošti rusų aukštosios kultūros proceso dalyvių, manant, kad jie taps ir
+    lietuvių „suartinimo“ su rusų kultūra gija.
+  citata_rodoma: "Kaip neprivaloma disciplina lietuvių \nkalba įsileista ir į kelias Užnemunės vidurines mokyklas, Maskvos uni-\nversitete paskirta dešimt valstybės stipendijų šių mokyklų auklėtiniams, \nturintiems atestate lietuvių kalbos pažymį. Taip tikėtasi iš pačių lietuvių \nparuošti rusų aukštosios kultūros proceso dalyvių, manant, kad jie taps ir \nlietuvių „suartinimo“ su rusų kultūra gija."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177747
+
+- id: c-161610
+  citata_originali: |
+    Maskvos kunigaikštis, pasinaudojęs tuo metu vyriau-
+    sioje rusėnų žemėje - Tverėje kilusiu sukilimu prieš Aukso ordą
+    (kurios vasalais tuo metu buvo visi ne Lietuvos valdyti rusėnai),
+    gavo mongolų leidimą rinkti duoklę Aukso ordai iš kitų seno-
+    sios Rusios kunigaikštijų. Tai reiškė, kad Maskva tapo nauju nuo
+    Lietuvos nepriklausiusių rusėnų žemių centru. Algirdas suvokė,
+    kad Maskva gali ateityje kelti grėsmę Lietuvos interesams ir su-
+    rengė į ją tris karo žygius (1368; 1370; 1372).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177755
+
+- id: c-161612
+  citata_originali: |
+    Taigi, LLV Konstitucija buvo antroji pasaulyje ir pirmoji Europoje, keliais
+    mėnesiais aplenkusi Prancūzijos konstituciją.
+    Pasauliui, net kai kuriems lietuviams ligi šiol ši konstitucija yra tik
+    Lenkijos konstitucija, nors Lietuvos atstovai 1791 m. rudenį padarė es-
+    minę Spalio 20-osios pataisą, Lietuvai užtikrinančią pusę visų pareigybių
+    valstybės institucijose.
+    Apšvieta ateina į LDK
+    Nuolatiniai karai su turkais, ypač Maskvos didžiąja kuni-
+    gaikštyste (vėliau – Rusija) dėl rytinių teritorijų, bandymai išeiti į Baltijos
+    jūrą ir įsitvirtinti Livonijoje kėlė konfliktus tarp ATR ir Rusijos bei XVII a.
+    kariškai sustiprėjusios Švedijos.
+  citata_rodoma: "rudenį padarė es-\nminę Spalio 20-osios pataisą, Lietuvai užtikrinančią pusę visų pareigybių \nvalstybės institucijose. \nApšvieta ateina į LDK\nNuolatiniai karai su turkais, ypač Maskvos didžiąja kuni-\ngaikštyste (vėliau – Rusija) dėl rytinių teritorijų, bandymai išeiti į Baltijos \njūrą ir įsitvirtinti Livonijoje kėlė konfliktus tarp ATR ir Rusijos bei XVII a. \nkariškai sustiprėjusios Švedijos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177715
+    - t-177808
+
+- id: c-161615
+  citata_originali: |
+    Rytprūsiuose pradėjo leisti pirmąjį Didžiajai
+    Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėn-
+    raštį „Aušra“ („Auszra“). Pirmuoju redaktoriumi buvo tuomet Prahoje
+    gyvenęs, iš Užnemunės kilęs ir Maskvoje medicinos studijas baigęs, indo-
+    europiečių ir baltų senove bei lietuvių kultūra domėjęsis Jonas Basanavi-
+    čius (1851–1927). Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų
+    tautinio sąjūdžio jėgų telkimo priemone, į caro valdžią žiūrėjo iš opozicijos
+    pozicijų, kėlė reikalavimus, kad etniniams lietuviams būtų pripažintos bent
+    jau tokios pačios kultūrinės galimybės ir švietimo sąlygos, kokias Rusijos
+    imperijoje turi latviai ir estai.
+  citata_rodoma: "Pirmuoju redaktoriumi buvo tuomet Prahoje \ngyvenęs, iš Užnemunės kilęs ir Maskvoje medicinos studijas baigęs, indo-\neuropiečių ir baltų senove bei lietuvių kultūra domėjęsis Jonas Basanavi-\nčius (1851–1927). Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų \ntautinio sąjūdžio jėgų telkimo priemone, į caro valdžią žiūrėjo iš opozicijos \npozicijų, kėlė reikalavimus, kad etniniams lietuviams būtų pripažintos bent \njau tokios pačios kultūrinės galimybės ir švietimo sąlygos, kokias Rusijos \nimperijoje turi latviai ir estai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177705
+    - t-177811
+
+- id: c-161616
+  citata_originali: |
+    XIV a. pradžioje pagrindinėmis varžovėmis dėl jarlyko (chanų duoda-
+    ma privilegija rinkti duoklę Aukso ordai iš kitų rusų kunigaikščių) tapo
+    Tverė ir Maskva, kovą laimėjo pastaroji, įsitvirtinusi ir Vladimire. Rem-
+    damas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmeny-
+    bę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą,
+    tačiau Kremliaus užimti nepajėgė. Taip liko neįgyvendintos Algirdo išsa-
+    kytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o
+    Vilnius nevirto „antruoju Kijevu“.
+  citata_rodoma: "Rem-\ndamas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmeny-\nbę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą, \ntačiau Kremliaus užimti nepajėgė. Taip liko neįgyvendintos Algirdo išsa-\nkytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o \nVilnius nevirto „antruoju Kijevu“."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177760
+
+- id: c-161620
+  citata_originali: |
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    su Taurijos chanu Mendli Girėjumi prieš Aleksandrą, nu­
+    kreipė visą jo dėmesį į save. Tarp jų kilo audringi vaidai
+    ir, norėdamas juos sėkmingai užgesinti, Aleksandras nu­
+    tarė to siekti, vesdamas Ivano Vasiljevičiaus dukterį di­
+    džiąją kunigaikštytę Eleną. Pirmiausia Maskvoje (1494 m.)
+    balandžio 18 d. amžinos taikos sutartį su caru pasirašė Lie­
+    tuvos pasiuntiniai: Petras Białas, Trakų vaivada ir Stanis­
+    lovas Goštautas, Žemaičių seniūnas, Aleksandras prisie­
+    kė Vilniuje, iš Maskvos atvykusių pasiuntinių akivaizdoje.
+  citata_rodoma: "Pirmiausia Maskvoje (1494 m.) \nbalandžio 18 d. amžinos taikos sutartį su caru pasirašė Lie­\ntuvos pasiuntiniai: Petras Białas, Trakų vaivada ir Stanis­\nlovas Goštautas, Žemaičių seniūnas, Aleksandras prisie­\nkė Vilniuje, iš Maskvos atvykusių pasiuntinių akivaizdoje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177758
+    - t-177736
+
+- id: c-161622
+  citata_originali: |
+    Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba,
+    plitusi Lietuvoje Algirdo galios ir rūpesčio dėka, sostinę da­
+    rė gyvą. Jo laikais jau būdavo saugu visuose kraštuose, ku­
+    riuos jis valdė, Vilniuje vykdavo laisvi prekių mainai tarp
+    Naugardo, Pskovo, Rygos ir Maskvos pirklių. Vilniaus
+    miestiečiai, gavę svarbią privilegiją laisvai prekiauti viso­
+    je Lietuvos valstybėje, nemokėdami muito mokesčių, pradė­
+    jo lankytis tolimose provincijose, kur artimiau susipažino su
+    krikščioniškąja kultūra26.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177816
+    - t-177720
+
+- id: c-161623
+  citata_originali: |
+    Tačiau lenkų kariškiai neskubėjo perduoti Vilniaus
+    lietuviams ir pirmi į jį įžengė Raudonosios armijos kavalerijos korpusai, o
+    Lietuvos kariuomenė – tik liepos 15-ąją jau padėjus parašus po sutartimi
+    Maskvoje... Tad Vilnių Lietuvai perdavė ne lenkai, o bolševikai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177756
+
+- id: c-161629
+  citata_originali: |
+    Jokiais paaiškinimais netikėta, be to, reikalauta atleisti „provokacijų“ kalti-
+    ninkus – vidaus reikalų ministrą gen. Kazį Skučą ir Saugumo departamen-
+    to direktorių Augustiną Povilaitį. Nuo V. Molotovo rėksmingų kaltinimų
+    absurdiškumo A. Merkys palūžo psichologiškai. Birželio 10 dieną Kaune
+    sužinojus, kad A. Merkiui nesiseka normalizuoti situaciją, nutarta pasiųsti
+    į Maskvą ministrą J. Urbšį.
+  citata_rodoma: "Birželio 10 dieną Kaune \nsužinojus, kad A. Merkiui nesiseka normalizuoti situaciją, nutarta pasiųsti \nį Maskvą ministrą J. Urbšį."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177718
+    - t-177790
+
+- id: c-161631
+  citata_originali: |
+    Širdgėlos ir senatvės kamuojamas, praradęs bet kokią viltį
+    159
+
+    ## Puslapis 176
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    kada nors turėti taip godotą karūną, jis sunkiai susirgo, o
+    gausiai susirinkę svetimšaliai pradėjo išsivažinėti iš Vilniaus.
+    Liko tik vienas Fotijas, Maskvos metropolitas, ketinęs
+    išprašyti Kijevo metropolijos prijungimą prie Maskvos;
+    gražiai, kaip byloja Rusios metraštininkai, buvo Vytauto pri­
+    imtas, bet dėl ano ligos nieko nelaimėjęs, irgi išvyko į Mask­
+    vą. Tuo tarpu karalius, regėdamas didįjį kunigaikštį kasdien
+    silpstantį ir būdamas tikras, kad šis jau galutinai atsisakė
+    savo sumanymo, aukštuosius didikus iš savo tarybos išsiun­
+    tė atgal į Lenkiją, kad jam netrukdytų Vytauto mirties atve­
+    ju.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177782
+    - t-177762
+
+- id: c-161632
+  citata_originali: |
+    Nors priešas buvo užkluptas netikėtai, tačiau
+    žiemos sąlygomis pats Algirdas nebuvo pasiruošęs ilgam apgulimui.
+    Todėl, prastovėjęs prie Maskvos mūrų «tris dienas ir tris naktis »
+    ir nuteriojęs apylinkę, jis grįžo atgal^17. Iki tol niekados lietuviai
+    nebuvo pasiekę Maskvos vartų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177746
+
+- id: c-161633
+  citata_originali: |
+    Liublino unijos nauda pasireiškė jau ne-
+    trukus. Lenkijos ir Lietuvos valdovu tapus Transilvanijos kunigaikščiui
+
+    L I E T U V O S  I S T O R I J A
+    66
+    Steponui Batorui (valdė 1576–1586  m.) pasiektos lemiamos pergalės
+    Livonijos kare prieš Maskvą ir šios pavojus atitolintas daugiau nei pusam-
+    žiui (1609–1611 m. Lenkija ir Lietuva net buvo užėmusi Maskvą).
+  citata_rodoma: "Lenkijos ir Lietuvos valdovu tapus Transilvanijos kunigaikščiui\n\nL I E T U V O S  I S T O R I J A\n66\nSteponui Batorui (valdė 1576–1586  m.) pasiektos lemiamos pergalės \nLivonijos kare prieš Maskvą ir šios pavojus atitolintas daugiau nei pusam-\nžiui (1609–1611 m. Lenkija ir Lietuva net buvo užėmusi Maskvą)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177733
+
+- id: c-161634
+  citata_originali: |
+    LDK būtent Vytauto
+    laikais pradėjo artėti prie imperijos, Vytauto reformos buvo radikalios,
+    matuojant net tų laikų mastu. „Senovės nekeitimo“ tezė tėra istoriografi-
+    nis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė
+    į dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo sava-
+    rankiškais keliais.
+    Vytauto centralizacijos politika sutelkė plačios erdvės Rytų Europoje
+    išteklius.
+  citata_rodoma: "„Senovės nekeitimo“ tezė tėra istoriografi-\nnis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė \nį dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo sava-\nrankiškais keliais. \nVytauto centralizacijos politika sutelkė plačios erdvės Rytų Europoje \ništeklius."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177752
+
+- id: c-161636
+  citata_originali: |
+    vo valdomos pačių žmonių, pasikviečiant vadas ar iš lietuvių
+    ar iš rusų kunigaikščių tarpo. Tos respublikos, tarpininkaujant
+    Maskvai, mokėjo totoriams duoklę, — iš čia jų ryšiai su Mas­
+    kva, nekalbant jau apie jų tautinį ir religinį vieningumą su ja;
+    tuo remdamasi Maskva ir rūpindamasi sujungti visą Rusiją, reiš­
+    kė pretenzijų ir į minėtas respublikas. Tiktai D. Naugardo bajo­
+    rija, siekdama nepriklausomybės ir nenorėdama būti suvienyta
+    su Maskva, priešingai liaudžiai, linko prie Lietuvos, mielai iš
+    čia imdamasi sau vadus.
+  citata_rodoma: "Tos respublikos, tarpininkaujant\nMaskvai, mokėjo totoriams duoklę, — iš čia jų ryšiai su Mas­\nkva, nekalbant jau apie jų tautinį ir religinį vieningumą su ja;\ntuo remdamasi Maskva ir rūpindamasi sujungti visą Rusiją, reiš­\nkė pretenzijų ir į minėtas respublikas. Tiktai D."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177727
+
+- id: c-161640
+  citata_originali: |
+    J. K. Chodkevičius kovojo su Maskvos
+    kariuomene gindamas Smolenską. 1617-1618 m. daly-
+    vavo žygyje į Maskvą, nepaisant tam tikrų laimėjimų,
+    Maskvos užimti nepavyko. 1621 m. didysis etmo-
+    nas, vadovaudamas jungtinei Lietuvos ir Lenkijos
+    kariuomenei prieš turkus, pasiekė savo paskutinę
+    pergalę,mūšyje prie Chotino.
+  citata_rodoma: "1617-1618 m. daly-\nvavo žygyje į Maskvą, nepaisant tam tikrų laimėjimų,\nMaskvos užimti nepavyko. 1621 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177741
+    - t-177787
+
+- id: c-161642
+  citata_originali: |
+    Vy­
+    tautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­
+    kais prieš jį kataliką, ir grasino pasiųsti skundą Konstancijos
+    susirinkimui; bet ir tas nieko nepadėjo, nes po kelių metų Ordi­
+    nas padarė amžiną taiką ir su Naugardu D. (1421). Livonijos
+    Ordinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai
+    jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų
+    žemes.
+    Tokiose sąlygose, aišku, nebebuvo galima mąstyti apie Va­
+
+    karų ir Rytų Bažnyčių suvienijimą Lietuvos žemėse.
+  citata_rodoma: "Livonijos\nOrdinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai\njiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų\nžemes.\nTokiose sąlygose, aišku, nebebuvo galima mąstyti apie Va­\n\nkarų ir Rytų Bažnyčių suvienijimą Lietuvos žemėse."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177769
+
+- id: c-161644
+  citata_originali: |
+    Į Maskvą vykstantį sužadėtinį
+    palydėjo Vytauto kariuomenės būrys. Jam grįžus į Maskvą, tarp
+    Maskvos ir Vytauto ėjo derybos dėl sąjungos. Tai buvo nusi-
+    kaltimas Jogailai, nes tuo metu, kai Maskvos kunigaikštis var-
+    žėsi su Jogaila dėl įtakos D. Naugarde, Vytautas susidėjo su jo
+    priešu.
+  citata_rodoma: "Į Maskvą vykstantį sužadėtinį\npalydėjo Vytauto kariuomenės būrys. Jam grįžus į Maskvą, tarp\nMaskvos ir Vytauto ėjo derybos dėl sąjungos. Tai buvo nusi-\nkaltimas Jogailai, nes tuo metu, kai Maskvos kunigaikštis var-\nžėsi su Jogaila dėl įtakos D."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177768
+
+- id: c-161646
+  citata_originali: |
+    Pramonė labiau
+    specializuota, imta kurti chemijos, elektronikos pramonė, vietos valdžia
+    ypač didino žemės ūkio produkcijos gamybą ir apdirbimą, taip plėtodama
+    agropramoninį kompleksą, lengvąją pramonę. Gavusi Maskvos palaimi-
+    nimą Lietuvos valdžia, matydama, kad sąjunginio pavaldumo pramonės
+    įmones sunku kontroliuoti, plėtojo sau pavaldžias pramonės šakas. Tokia
+    politika pasiteisino ir pagal to meto sąlygas davė palyginti gerų rezultatų.
+  citata_rodoma: "Gavusi Maskvos palaimi-\nnimą Lietuvos valdžia, matydama, kad sąjunginio pavaldumo pramonės \nįmones sunku kontroliuoti, plėtojo sau pavaldžias pramonės šakas. Tokia \npolitika pasiteisino ir pagal to meto sąlygas davė palyginti gerų rezultatų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177791
+
+- id: c-166441
+  citata_originali: |
+    Maskvoje tuomet prasidėjo per-
+    versmų periodas — užėjo vadinamoji didžioji suirutė ( _smuta_ ).
+    Dėl to po Jono IV Žiauriojo dar ilgai iš Maskvos pusės nebuvo
+    jokio pavojaus Lietuvai. Priešingai, suirutės metu Maskva buvo
+    nebe puolančioji, bet puolamoji.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183050
+
+- id: c-168400
+  citata_originali: |
+    Neilgai trukus, įsmei­
+    gęs į Dimitrijaus rūmus ietį,
+    M a s k v o s
+    k u n ig a ik š-
+    jis paliksiąs ten aukštai štai
+    čiui siu n čiam as d eg -
+    tokį įrašą: „Ne tas karvedys,
+    las
+    kuris, ilgą laiką atidėlioda­
+    mas galimybę pradėti karą,
+    pražiopso tinkamą progą, o tas, kuris, netgi tinkamos
+    progos neturėdamas, sugeba sėkmingai kariauti". Nuo
+    stovyklos iki Maskvos bebuvo likę dar aštuoniolika
+    mylių, tačiau kariai šį kelią taip greitai, regis, pusris-
+    čia sukorė, kad žygūnas tik keliomis valandomis pra­
+    lenkė iš paskos sekančią kariuomenę. Tą pačią naktį,
+    skirtą paminėti Kristaus iš numirusių prisikėlimui ir
+    krikščionių kasmet iškilmingai švenčiamą, kai kuni­
+    gaikštis ėjo bažnyčion į naktines pamaldas, prie jo
+    pribėgo žygūnas, pasakė, kas jam buvo liepta, ir pra­
+    nešė, kad priešą palikęs Možaiske.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185039
+
+- id: c-168401
+  citata_originali: |
+    Dėl to visi pradėjo
+    atvirai niekinti senuosius magistrų, maršalų, komtūrų
+    titulus ir galvoti apie valstybinės santvarkos pakei­
+    timą.
+    Apmalšinęs Prūsiją, karalius, tarpininkaujamas Sta­
+    nislovo Daugirdo, susitarė su
+    T a ik o s
+    d e r y b o s
+    su
+    Vasilijumi tęsti pradėtas tai-
+    m a sk v ė n a is
+    kos derybas. Vasilijus pri­
+    mygtinai reikalavo, kad ka­
+    raliaus pasiuntiniai atvyktų į Maskvą, kur jis esą leng­
+    viau galėsiąs tramdyti saviškius, jei šie susimanys be
+    saiko ginčytis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185040
+
+- id: c-168403
+  citata_originali: |
+    Susitikę su maskvėnais, karaliaus le­
+    gatai pasiūlė ginčą dėl titulų perduoti karaliui, o tuo
+    tarpu pasirašyti paliaubas pagal senąją formulę. Mask­
+    vėnai primygtinai reikalavo, kad legatai laišku pa­
+    klaustų karalių, kokia jo nuomonė šiuo klausimu, o
+    atsakymo palauktų Maskvoje. Galop abi šalys sutarė
+    penkerių metų paliaubas šitokiomis sąlygomis: kuni­
+    gaikštis Maskvos raštuose galėsiąs vadintis caru, tuo
+    tarpu legatai laikysis senosios formulės.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185042
+
+- id: c-170554
+  citata_originali: |
+    Kalbant apie LDK santykius su Rusų valstybe, labai
+    iškeliamas Vytauto pranašumas savo žento Vasilijaus,
+    Maskvos didžiojo kunigaikščio. Pskovo ir Didžiojo Nau­
+    garduko feodalinių respublikų atžvilgiu. XV a. pabai­
+    gos ir XVI a. pradžios karai su Maskvos didžiąja ku­
+    nigaikštyste vaizduojami, laikantis Lietuvos valstybi­
+    nių pozicijų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187607
+
+- id: c-170555
+  citata_originali: |
+    ## Puslapis 237
+
+    Pateko į Lucku, bėgdamas per M oldavija ir Podolę iš totorių ne­
+    laisvės, Jo  sužadėtuvės su Sofija Vytautaite turėjo įvykti 1387 m
+    pabaigoje, nes 1388.1.19 jis ja u  buvo Maskvoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187608
+
+- id: c-171659
+  citata_originali: |
+    24
+    Biblioteka dla čtenija. -  1836. -  IV -  S. 86. Ten rašoma, jog ar-
+    kidjakonas Povilas, kartu su Sirijos patriarchu viešėdamas Maskvoje,
+    papasakojo apie pavaldžias Rusijos carui tautas, kurios garbino kaip
+    dievus dangaus kūnus: saulę, mėnesi, žvaigždes ir kai kuriuos žvėris.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188770
+
+- id: c-175957
+  citata_originali: |
+    Tad matydamas, kad geruoju
+    neatgaus savo tėviškės — Trakų, Vytautas ėmė ruoštis kovai.
+    Pirmąjį nepaklusnumo ženklą Jogailai Vytautas parodė su-
+    siartindamas su Maskva. Bėgdamas iš totorių nelaisvės, Mask-
+    vos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke,
+    susižadėjo su jo dukteria Sofija.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193213
+
+- id: c-175958
+  citata_originali: |
+    Bėgdamas iš totorių nelaisvės, Mask-
+    vos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke,
+    susižadėjo su jo dukteria Sofija. Į Maskvą vykstantį sužadėtinį
+    palydėjo Vytauto kariuomenės būrys. Jam grįžus į Maskvą, tarp
+    Maskvos ir Vytauto ėjo derybos dėl sąjungos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193214
+
+- id: c-175959
+  citata_originali: |
+    Valstybei pasidalinus pusiau,
+    buvo aišku, kad ginčą turės išspręsti ginklas. Švitrigaila ne tik
+    kad nenutraukė ryšių su savo
+    sąjungininku ordinu, bet dar pa-
+    darė naują sąjungą su Maskva ir
+    Tvere. Tad Zigmantui nebeliko
+    kito sąjungininko, kaip tik Len-
+    kija, kuri jam padėjo net ruo-
+    šiant sąmokslą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193215
+
+- id: c-176146
+  citata_originali: |
+    Kadangi Maskvos didikai atkirto, kad ne­
+    gali būti nė kalbos apie šitokias sąlygas, pradėta derė­
+    tis dėl kitokių taikos formulių. Vis dėlto ir šie legatai
+    tiek pat tepešė, kiek ir ankstesnės pasiuntinybės, ka­
+    dangi maskvėnai nenorėjo grąžinti ne tik Smolensko
+    žemės, bet ir nė vieno kaimo, atimto iš Lietuvos; po
+    ilgų kivirčų pasiuntiniams nebeliko nieko kito, kaip, ne­
+    susitarus dėl taikos, išvykti iš Maskvos. Visai atsitikti­
+    nai kažkam užsiminus, kad būtų galima sudaryti de­
+    šimčiai metų paliaubas, kurių metu lietuviai bei mask­
+    vėnai netrukdomi valdytų kraštą, kurį turėjo paliaubų
+    pradžioje, nesvarbu, ar teisėtai, ar neteisėtai įsigytą,
+    abi šalys susitarė dėl penkerių metų paliaubų ir Smo­
+    lensko žemės sienos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193424
+
+- id: c-177330
+  citata_originali: |
+    Tačiau šio Ross pavadini­
+    mo neįmanoma susieti su jokia kita tauta, išskyrus bu­
+    dinus, kai jau dauguma mokslininkų neigia slavų rusų
+    egzistavimą iki Riuriko. Taip pat kalbama ir apie tautų
+    protėvius Masochą ir Tovelą, arba Tobalą, minimus Šven­
+    tajame Rašte kaip slavų gyvenamųjų vietų Maskvos ir
+    Tobolsko pirmtakus2.
+    57
+    Europos budinai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194934
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Dimitrijus]], [[objektai/asmenys/Dmitrijus Ivanovičius]], [[objektai/asmenys/Jonas Kalita]], [[objektai/asmenys/Vasilijus]], [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]

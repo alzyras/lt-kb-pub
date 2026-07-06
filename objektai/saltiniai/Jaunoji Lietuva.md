@@ -18,6 +18,18 @@ tags:
 amziai:
   - 'XIX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jaunoji Lietuva
 
@@ -30,17 +42,42 @@ Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lie
 <a id="claim-t-101542"></a>
 - t-001
   global_id: t-101542
-  teiginys: '1895 m. buvo išleistos Maironio knygos „Pavasario balsai“ ir „Jaunoji Lietuva“, o jo eilėraščiai virto liaudies dainomis.'
+  teiginys: "1895 m. buvo išleistos Maironio knygos „Pavasario balsai“ ir „Jaunoji Lietuva“, o jo eilėraščiai virto liaudies dainomis."
+  temporaliniai_duomenys: "įvykio data: 1895 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys pilnas, gramatiškas ir susijęs su leidinio išleidimu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "227991-228735; hash=8f397015cbee4cff689811fea1cd4646fe7d781a6400d755e7e89748bc8a6470; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jaunoji Lietuva: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jaunoji Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-95085
 
 <a id="claim-t-101543"></a>
 - t-002
   global_id: t-101543
-  teiginys: '1895 m. išleisti Maironio „Pavasario balsai“ ir „Jaunoji Lietuva“, o jo eilėraščiai virto liaudies dainomis.'
+  teiginys: "1895 m. išleisti Maironio „Pavasario balsai“ ir „Jaunoji Lietuva“, o jo eilėraščiai virto liaudies dainomis."
+  temporaliniai_duomenys: "įvykio data: 1895 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai ir glaustai perteikia citatos informaciją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "227991-228735; hash=8f397015cbee4cff689811fea1cd4646fe7d781a6400d755e7e89748bc8a6470; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jaunoji Lietuva: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jaunoji Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-95085
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -61,9 +98,37 @@ Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lie
     ba rašyta poezija. 1895 m. išleistos Maironio knygos „Pavasario balsai“
     ir „Jaunoji Lietuva“, jo eilėraščiai virto liaudies dainomis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+
+## Citatos
+
+- id: c-95085
+  citata_originali: |
+    Savo programoje ji buvo įrašiusi suverenios
+    Lietuvos, valstybės, sujungtos laisvos federacijos (t. y. konfederacijos) ry-
+    šiais su gretimomis valstybėmis, siekius.
+    Tautos patriarchas dr. Jonas Basanavičius
+
+    L I E T U V O S  I S T O R I J A
+    120
+    Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietu-
+    viškai kalbančio kaimo masių tautiniam krikštui, t. y. pasijutimui ne tik
+    liaudies, bet ir tautos nariais, turėjo lenkų romantikų (A. Mickevičiaus,
+    J.  Kraševskio) kūryba, o romantiškiausia, dainingiausia, lyriškiausia,
+    savotiškai kovinga buvo kunigo Jono Mačiulio-Maironio lietuvių kal-
+    ba rašyta poezija. 1895 m. išleistos Maironio knygos „Pavasario balsai“
+    ir „Jaunoji Lietuva“, jo eilėraščiai virto liaudies dainomis.
+  citata_rodoma: "Jonas Basanavičius\n\nL I E T U V O S  I S T O R I J A\n120\nDidžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietu-\nviškai kalbančio kaimo masių tautiniam krikštui, t. y. pasijutimui ne tik \nliaudies, bet ir tautos nariais, turėjo lenkų romantikų (A. Mickevičiaus, \nJ.  Kraševskio) kūryba, o romantiškiausia, dainingiausia, lyriškiausia, \nsavotiškai kovinga buvo kunigo Jono Mačiulio-Maironio lietuvių kal-\nba rašyta poezija. 1895 m. išleistos Maironio knygos „Pavasario balsai“ \nir „Jaunoji Lietuva“, jo eilėraščiai virto liaudies dainomis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-101542
+    - t-101543

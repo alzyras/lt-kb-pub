@@ -17,6 +17,18 @@ amziai:
   - 'XVI'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Albrechtas
 
@@ -29,9 +41,23 @@ periodo_grupes:
 <a id="claim-t-18766"></a>
 - t-001
   global_id: t-18766
-  teiginys: 'Kunigaikštis Albrechtas Prūsijoje priglobė 1542 m. iš Vilniaus emigravusį A. Kulvietį.'
+  teiginys: "Kunigaikštis Albrechtas Prūsijoje priglobė 1542 m. iš Vilniaus emigravusį A. Kulvietį."
+  semantiniai_rysiai: "Abraomas Kulvietis keliavo į Prūsija (0.90); Albrechtas rėmė Abraomas Kulvietis (0.84)"
+  temporaliniai_duomenys: "įvykio data: po 1525 m.; įvykio data: 1525 m.; įvykio data: 1542 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia Albrechto veiksmą, o pradinis teiginys buvo apie Kulvietį ir tik netiesiogiai minėjo Albrechtą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "115858-116318; hash=f5221424527220da64530218ab06cba2638ab108414e30e43d9916b7d617af00; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Abraomas Kulvietis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje tiesiogiai pasakyta, kad Kulvietis emigravo į Prūsiją."
   pagrindžia:
-    - c-001
+    - c-21551
 - susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63418|Albrechtas (Romos karalius)]]: Dusburgietis pasakoja, kad 1307 m. Albrechtas į Čekijos sostą pakėlė savo sūnų.
 - susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63420|Albrechtas (Romos karalius)]]: Romos karalius Albrechtas pakėlė savo sūnų į Čekijos sostą, kai po Vaclovo ir jo sūnaus mirties sostas liko be įpėdinių.
 - susijęs iš [[objektai/asmenys/Albrechtas (Rudolfo sūnus).md#claim-t-184044|Albrechtas (Rudolfo sūnus)]]: Rudolfo sūnus Albrechtas vėliau tapo Romos karaliumi.
@@ -75,11 +101,31 @@ periodo_grupes:
     į savo pusę daug žmonių, o 1542 m. turėjo emigruoti į protestantiškąją (nuo
     1525 m.) Prūsiją, kur jį priglobė kunigaikštis Albrechtas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-21551
+  citata_originali: |
+    Vilniuje ją pradė-
+    jo liuteronas Abraomas Kulvietis. Tokia įvykių seka rodė ne tik tai, kad Lie-
+    tuva tapo europinės struktūros šalimi, bet ir A. Kulviečio asmenybės mastą.
+    Vilniuje A. Kulvietis įkūrė mokyklą kilmingai jaunuomenei, kurioje mokėsi
+    60 mokinių, sakė pamokslus, kritikuojančius Katalikų bažnyčią, ir patraukė
+    į savo pusę daug žmonių, o 1542 m. turėjo emigruoti į protestantiškąją (nuo
+    1525 m.) Prūsiją, kur jį priglobė kunigaikštis Albrechtas.
+  citata_rodoma: "1525 m.) Prūsiją, kur jį priglobė kunigaikštis Albrechtas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-18766
 
 ## Ryšiai
 - Paskyrė Albrechtą: [[objektai/asmenys/Albrechtas (Romos karalius)]]

@@ -15,6 +15,18 @@ tags:
 amziai:
   - 'XIV'
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Užstato daiktai Trakų žydų privilegijoje
 
@@ -54,37 +66,80 @@ Nenurodyta
 <a id="claim-t-55051"></a>
 - t-001
   global_id: t-55051
-  teiginys: 'Privilegijoje žydui leista užstatu priimti įvairius atneštus daiktus, išskyrus kruvinas skaras, šlapius drabužius ir bažnytinius rykus.'
+  teiginys: "Privilegijoje žydui leista užstatu priimti įvairius atneštus daiktus, išskyrus kruvinas skaras, šlapius drabužius ir bažnytinius rykus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "410344-411043; hash=b17001416309c33111ddcce251cab3b050dc3c694ea2a9321d2f404673880061; match=whitespace_regex"
+  sprendimo_priezastis: "gap::items"
+  ryšio_patikimumas: "susije_su -> Drabužiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Užstato daiktai Trakų žydų privilegijoje: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Drabužiai: mention_match, thing, gap=104"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Užstato daiktai Trakų žydų privilegijoje\" parinktas kaip owner_note_path. Targetas \"Drabužiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-55717
 
 <a id="claim-t-55052"></a>
 - t-002
   global_id: t-55052
-  teiginys: 'Užstatų praradimo per gaisrą, vagystę ar jėgą atveju žydas galėjo išsiteisinti asmenine priesaika.'
+  teiginys: "Užstatų praradimo per gaisrą, vagystę ar jėgą atveju žydas galėjo išsiteisinti asmenine priesaika."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "411220-411616; hash=6b124aadfaab6c98e8ce1228fa6a49d3544cb5c9f1c3dcfea32852d98e1d5243; match=whitespace_regex"
+  sprendimo_priezastis: "gap::items"
   pagrindžia:
-    - c-002
+    - c-55718
 
 <a id="claim-t-55053"></a>
 - t-003
   global_id: t-55053
-  teiginys: 'Po metų laikymo užstatą reikėjo parodyti teisėjui, o netinkamą užstatą buvo leidžiama parduoti.'
+  teiginys: "Po metų laikymo užstatą reikėjo parodyti teisėjui, o netinkamą užstatą buvo leidžiama parduoti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "415600-416246; hash=ae794d3b311d41088c240eaac55ab40fd20092b8db4c79d96d81718c4120df51; match=whitespace_regex"
+  sprendimo_priezastis: "gap::items"
+  ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Užstato daiktai Trakų žydų privilegijoje: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Užstato daiktai Trakų žydų privilegijoje\" parinktas kaip owner_note_path. Targetas \"Tomas (Hertvigo iš Pokarvių sūnus)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-55719
 
 <a id="claim-t-55054"></a>
 - t-004
   global_id: t-55054
-  teiginys: 'Žirgus privilegijoje leista priimti užstatu tik dienai.'
+  teiginys: "Žirgus privilegijoje leista priimti užstatu tik dienai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "417168-417617; hash=5680623757dc21d5378626fbacd5ee559f542e072a0a27a0e53cc74e527a3fee; match=whitespace_regex"
+  sprendimo_priezastis: "gap::items"
+  ryšio_patikimumas: "susije_su -> Žirgai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Užstato daiktai Trakų žydų privilegijoje: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Žirgai: mention_match, thing, gap=7"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Užstato daiktai Trakų žydų privilegijoje\" parinktas kaip owner_note_path. Targetas \"Žirgai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-55720
 
 <a id="claim-t-81859"></a>
 - t-005
   global_id: t-81859
-  teiginys: 'Trakų žydų privilegijoje leista užstatu priimti įvairius atneštus daiktus, išskyrus kruvinas skaras, šlapius drabužius ir bažnytinius rykus.'
+  teiginys: "Trakų žydų privilegijoje leista užstatu priimti įvairius atneštus daiktus, išskyrus kruvinas skaras, šlapius drabužius ir bažnytinius rykus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "410462-411219; hash=d6ef97434e2ea613128a612f6f3a3e61888562f9eb6d6e2865346a215504015b; match=whitespace_regex"
+  sprendimo_priezastis: "gap::items"
+  ryšio_patikimumas: "susije_su -> Drabužiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Užstato daiktai Trakų žydų privilegijoje: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Drabužiai: mention_match, thing, gap=109"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Užstato daiktai Trakų žydų privilegijoje\" parinktas kaip owner_note_path. Targetas \"Drabužiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-78401
 - susijęs iš [[objektai/asmenys/Pekarskis.md#claim-t-87820|Pekarskis]]: Pekarskiui buvo paskolinti 800 zlotų sidabrui, užstatytam Jo Karališkosios Didenybės reikalams.
 - susijęs iš [[objektai/ivykiai/Sventopelko ir brolių susitaikymas (1243 m. pavasaris).md#claim-t-89404|Sventopelko ir brolių susitaikymas (1243 m. pavasaris)]]: Sventopelkas kaip užstatą turėjo atiduoti broliams Sartovicų pilį ir įkaitais atsiųsti Mstivojų, Vimarą bei Vojaką.
 - susijęs iš [[objektai/ivykiai/Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia.md#claim-t-185662|Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia]]: Vytautas užrašė kryžiuočiams visą Žemaitiją kaip užstatą, kad gautų tris šimtus tūkstančių kapų karo reikmėms.
@@ -123,8 +178,9 @@ Nenurodyta
     mindamas, išskyrus kruvinas skaras, šlapius drabužius ir baž­
     nytinius rykus, kurių niekada jokiu būdu imti negali.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -141,8 +197,9 @@ Nenurodyta
     tęs, norėtų jį į teismą iškviesti, žydas asmenine priesaika pri­
     valo išsiteisinti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -167,8 +224,9 @@ Nenurodyta
     metus ir dieną, tam laikui praėjus, jau neprivalo prieš nieką
     dėl to atsakyti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -185,8 +243,9 @@ Nenurodyta
     mas, aš tą užstatytą arklį paėmiau už savo pinigus, ir tas
     pats žydas už šias bylas bus tuoj pat išlaisvintas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
@@ -209,8 +268,113 @@ Nenurodyta
     turi, o iš jo būtų pavogtas arba jėga būtų paimtas, žydas
     gali nežinoti, kadangi buvo pavogta arba atimta.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
+## Citatos
+
+- id: c-55717
+  citata_originali: |
+    Taip pat jei krikščionis sąmonin­
+    gai užpultų žydą, tvirtindamas davęs savo užstatą, nors žy­
+    das to ir nepripažintų. O jei krikščionis žydui ir jo žodžiams
+    tikėjimo teikti nenorėtų, žydas prisiekęs savo ruožtu įparei­
+    gojamas; o jeigu prisiekęs krikščionis įrodytų, kad jam ne­
+    mokės ir išsigintų. Taip pat jei žydas krikščioniui be liudi­
+    ninkų pasakytų, kad užstato davęs, o anas gintųsi, už tai
+    krikščionis turi sumokėti; arba su priesaika priėmęs žydas
+    gali užstato vardu priimti visokius daiktus, kurie tik jam bū­
+    tų atnešti ir bet kokių pavadinimų, nieko apie juos neužsi­
+    mindamas, išskyrus kruvinas skaras, šlapius drabužius ir baž­
+    nytinius rykus, kurių niekada jokiu būdu imti negali.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-55051
+
+- id: c-55718
+  citata_originali: |
+    Tai savo
+    priesaikoje aiškiai daugeliu atvejų jam šis užstatas buvo įpa­
+    reigotas. O taip, suprantama, krikščionis dalį jam ir palū­
+    kanas sumokės, kokį būdą jis atras. Taip pat jeigu gaisro
+    atveju arba vagystės, arba per jėgą savo daiktus su jam at­
+    neštais užstatais prarastų, o krikščionis, kuris būtų užsta­
+    tęs, norėtų jį į teismą iškviesti, žydas asmenine priesaika pri­
+    valo išsiteisinti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-55052
+
+- id: c-55719
+  citata_originali: |
+    Taip pat jeigu žydas paimtų iš krikščionies užstatą ir
+    per visus metus laikytų, o tas užstatas tų pinigų nesiektų,
+    *
+    Atmintinė - bylą laimėjusio mokes- mėtą bylą ar turto perleidimo įrašy-
+    tis teisėjui ir jo pavaduotojui už lai- mą į teismo knygas (vert. past.).
+    197
+
+    ## Puslapis 214
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    žydas savo teisėjui turi parodyti užstatą. O jeigu užstatas
+    nebuvo geras - savo teisėjui arba mūsų seniūnui vėl turi pa­
+    rodyti, o paskui parduoti jam bus leista. O jeigu savo teisėjui
+    užstatą parodytų po metų arba jeigu užstatas pas žydą būtų
+    metus ir dieną, tam laikui praėjus, jau neprivalo prieš nieką
+    dėl to atsakyti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-55053
+
+- id: c-55720
+  citata_originali: |
+    O jeigu jo liudininkai minėti ir jo
+    nekaltumą atskleistų, krikščionis bausmę, kurią turėjo žy­
+    das patirti, pats turės ištverti. Taip pat skelbiame, kad žy­
+    dai žirgus kokius nors priimtų užstatu tik dienai. O jeigu
+    koks žirgas pas žydą pasirodytų vogtas ir pas kokį krikš­
+    čionį atsirastų, žydas savo priesaika turi išsiginti, sakyda­
+    mas, aš tą užstatytą arklį paėmiau už savo pinigus, ir tas
+    pats žydas už šias bylas bus tuoj pat išlaisvintas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-55054
+
+- id: c-78401
+  citata_originali: |
+    O jei krikščionis žydui ir jo žodžiams
+    tikėjimo teikti nenorėtų, žydas prisiekęs savo ruožtu įparei­
+    gojamas; o jeigu prisiekęs krikščionis įrodytų, kad jam ne­
+    mokės ir išsigintų. Taip pat jei žydas krikščioniui be liudi­
+    ninkų pasakytų, kad užstato davęs, o anas gintųsi, už tai
+    krikščionis turi sumokėti; arba su priesaika priėmęs žydas
+    gali užstato vardu priimti visokius daiktus, kurie tik jam bū­
+    tų atnešti ir bet kokių pavadinimų, nieko apie juos neužsi­
+    mindamas, išskyrus kruvinas skaras, šlapius drabužius ir baž­
+    nytinius rykus, kurių niekada jokiu būdu imti negali. Taip
+    pat jeigu krikščionis apšmeižtų žydą dėl užstato, kurį žydas
+    turi, o iš jo būtų pavogtas arba jėga būtų paimtas, žydas
+    gali nežinoti, kadangi buvo pavogta arba atimta.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-81859

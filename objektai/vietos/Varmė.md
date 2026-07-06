@@ -16,6 +16,18 @@ tags:
 amziai:
   - 'XIII'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Varmė
 
@@ -26,53 +38,124 @@ amziai:
 ## Teiginiai
 
 <a id="claim-t-91423"></a>
-- t-001
+- t-007
   global_id: t-91423
-  teiginys: 'Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dėl taikos sutarties.'
+  teiginys: "Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dėl taikos sutarties."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "176021-177149; hash=bef9323d457b3864381f9e14cced233651c83ed30c1377342d1e8ca7aa35c562; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Elbingas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Varmė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Elbingas: mention_match, place, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Varmė\" parinktas kaip owner_note_path. Targetas \"Elbingas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-87139
 
 <a id="claim-t-91424"></a>
-- t-002
+- t-009
   global_id: t-91424
-  teiginys: 'Petro Dusburgiečio kronikoje Varmė įtraukta tarp vienuolikos Prūsijos žemės dalių.'
+  teiginys: "Petro Dusburgiečio kronikoje Varmė įtraukta tarp vienuolikos Prūsijos žemės dalių."
+  semantiniai_rysiai: "Varmė priklausė Prūsija (0.86)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "6365-6942; hash=0fab4b7fc8bae436305491649c4d9028ede74d6dca2b1d21247990bd5e4bcfb2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Prūsija: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Varmė: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje Varmė įtraukta į Prūsijos žemės dalių sąrašą."
   pagrindžia:
-    - c-003
+    - c-87137
 
 <a id="claim-t-91426"></a>
-- t-003
+- t-008
   global_id: t-91426
-  teiginys: 'Varmės bažnyčios kapitula prašė pripažinti Fabijono paskyrimą dabartiniu Varmės vyskupu.'
+  teiginys: "Varmės bažnyčios kapitula prašė pripažinti Fabijono paskyrimą dabartiniu Varmės vyskupu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "721260-722054; hash=b5a305b0f7bbf0d75ad236a9a76c2bee1c9fdb0e082554a3a777c5a35600d593; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Fabijonas (Varmės vyskupas): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Varmė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Fabijonas (Varmės vyskupas): mention_match, person, gap=43"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Varmė\" parinktas kaip owner_note_path. Targetas \"Fabijonas (Varmės vyskupas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-87133
 
 <a id="claim-t-91427"></a>
 - t-004
   global_id: t-91427
-  teiginys: 'Varmės vyskupas Eberhardas Elblionge surengė pasitarimą dėl gautos žinios apie taikos sutartį.'
+  teiginys: "Varmės vyskupas Eberhardas Elblionge surengė pasitarimą dėl gautos žinios apie taikos sutartį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "176021-177149; hash=bef9323d457b3864381f9e14cced233651c83ed30c1377342d1e8ca7aa35c562; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Elbliongas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Varmė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Elbliongas: mention_match, place, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Varmė\" parinktas kaip owner_note_path. Targetas \"Elbliongas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-87139
 
 <a id="claim-t-91428"></a>
-- t-005
+- t-003
   global_id: t-91428
-  teiginys: 'XIV a. buvo įkurti beveik visi Varmės miestai.'
+  teiginys: "XIV a. buvo įkurti beveik visi Varmės miestai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "35138-35671; hash=036d93124793b5d2e6a825e45f575741bff2c9516a253ab27d211d79f21e997b; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Varmė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Varmė\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-87135
 
 <a id="claim-t-91429"></a>
-- t-006
+- t-005
   global_id: t-91429
-  teiginys: 'Varmės bažnyčios kapitula prašė pripažinti galiojančiu Fabijono paskyrimą Varmės vyskupu.'
+  teiginys: "Varmės bažnyčios kapitula prašė pripažinti galiojančiu Fabijono paskyrimą Varmės vyskupu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "721260-722054; hash=b5a305b0f7bbf0d75ad236a9a76c2bee1c9fdb0e082554a3a777c5a35600d593; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Fabijonas (Varmės vyskupas): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Varmė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Fabijonas (Varmės vyskupas): mention_match, person, gap=55"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Varmė\" parinktas kaip owner_note_path. Targetas \"Fabijonas (Varmės vyskupas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-87133
 
 <a id="claim-t-91430"></a>
-- t-007
+- t-006
   global_id: t-91430
-  teiginys: 'XIV amžiuje buvo įkurti beveik visi Varmės miestai.'
+  teiginys: "XIV amžiuje buvo įkurti beveik visi Varmės miestai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "35138-35671; hash=036d93124793b5d2e6a825e45f575741bff2c9516a253ab27d211d79f21e997b; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Varmė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Varmė\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-87135
 - susijęs iš Partigala: Varmės žemėje gyvenę Gubučiai sutelkė daug karių ir to paties vardo lauke pastatė Partigalos pilį.
 - susijęs iš Skrando kalnas: Gubučiai Skrando kalne pastatė įtvirtintą kuorą ir sustiprino jį kariais.
 - susijęs iš Bartos žemė: Po Varmės nuniokojimo lietuviai nuvedė grobiu apsikrovusius karius į Bartos žemę ir sustojo pailsėti atvirame lauke.
@@ -265,6 +348,7 @@ amziai:
     šventajam Apaštalų Sostui, būtų tvirti ir nekeičiami, nutarė­
     me išrūpinti Šventojo Tėvo patvirtinimą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -287,6 +371,7 @@ amziai:
     amžiumi vėliau, Lenkijoje pasuko vienas galingiausių anų lai­
     kų karalių - Boleslovas Didysis, pramintas Narsiuoju.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -307,6 +392,7 @@ amziai:
     vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos
     iki Nemuno.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -338,12 +424,115 @@ amziai:
     myniniams kraštams. Jie rašo: „Tie velnio sūnūs savo suk­
     tybėmis klastingai sandėriais taikosi jus ir mus pražudytip.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-004
+
+## Citatos
+
+- id: c-87133
+  citata_originali: |
+    1514.
+    374
+
+    ## Puslapis 391
+
+    IV KNYGA
+    I
+    \
+    Po to, kai, neprisilaikydami mūsų teisės, [bet] užkirsda-
+    mi kelią būsimiems sunkumams, sutikome su Varmės baž­
+    nyčios kapitulos prašymu pripažinti galiojančiu be mūsų pri­
+    tarimo įvykusį didžiai gerbiamo Kristuje pono Fabijono
+    paskyrimą dabartiniu Varmės vyskupu, pateikiame kai ku­
+    riuos artikulus, kuriais numatoma, kad ateityje kokiu nors
+    būdu esant vakuojančiai vietai, vyskupas privalo būti išrink­
+    tas be mūsų ir mūsų įpėdinių nesutarimų su kapitula. No­
+    rėdami, kad vėliau čia negalėtų įvykti kas nors panašaus,
+    kas pakenktų bažnyčios, kurios globėjas mes esame, padė­
+    čiai ir kad tokios rūšies teiginiai, išdėstyti į artikulus, pritarus
+    šventajam Apaštalų Sostui, būtų tvirti ir nekeičiami, nutarė­
+    me išrūpinti Šventojo Tėvo patvirtinimą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91426
+    - t-91429
+
+- id: c-87135
+  citata_originali: |
+    Teutonų
+    ordinas, XIII amžiuje pavergęs prūsus ir prislopinęs lietuvių pa­
+    gonybę, Baltijos pakrantėse pagausino miestų ir pilių. 1255 me­
+    tais iškilo Karaliaučius, įkurtas padedant Čekijos karaliui Oto­
+    kami; Torunę -1235 metais, Malburgas [Marienburgas] -1281
+    metais, pastatyti kryžiuočių; galiausiai XIV amžiuje buvo įkurti
+    bemaž visi Varmės miestai.
+    Tuo pačiu keliu kaip Henrikas Paukštininkas Vokietijoje, tik
+    amžiumi vėliau, Lenkijoje pasuko vienas galingiausių anų lai­
+    kų karalių - Boleslovas Didysis, pramintas Narsiuoju.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91430
+    - t-91428
+
+- id: c-87137
+  citata_originali: |
+    Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
+    atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
+    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
+    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
+    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
+      Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
+    vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos
+    iki Nemuno.
+  citata_rodoma: "Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,\natskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ\n(Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba\n(Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),\nBárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91424
+
+- id: c-87139
+  citata_originali: |
+    I  KNYGA
+    čų tarp abiejų pusių pavaldinių, apie prisigrobtų turtų grą­
+    žinimą, apie pabėgusių knechtų ir tarnų grąžinimą ir t. t.
+    Nors popiežiaus buvo primygtinai prašoma, kad savo ga­
+    nytojišku žodžiu tą sutartį pripažintų ir patvirtintų0, jis bet­
+    gi nenorėjo to prašymo patenkinti be tolesnio nagrinėjimo,
+    gal to priežastis buvo naujesnės žinios iš Prūsijos.
+    Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­
+    pas Eberhardas, Sembos vyskupas Jonas, Pomezanijos vys­
+    kupas Rudolfas (kadangi Mikolajus Kulmietis neseniai buvo
+    miręs), kartu su savo diecezijos klebonais Elblionge bemat
+    surengė pasitarimą ir pasiuntė laišką vyskupui į Eželį, Ry­
+    gos, Eželio, Dorpato ir Revelio kapituloms, Livonijos ma­
+    gistrui ir visam Ordinui, Danijos karaliaus vietininkui ir
+    visiems Livonijos bei Estijos didikams ir vasalams, daly­
+    vavusiems taikos sutartį sudarant, ir paskelbė tą sutartį
+    esant velnio žabangomis, visam krikščioniškajam pasau­
+    liui gėda, neabejotinai užtrauksiančia pražūtį Prūsijai ir kai­
+    myniniams kraštams. Jie rašo: „Tie velnio sūnūs savo suk­
+    tybėmis klastingai sandėriais taikosi jus ir mus pražudytip.
+  citata_rodoma: "Nors popiežiaus buvo primygtinai prašoma, kad savo ga­\nnytojišku žodžiu tą sutartį pripažintų ir patvirtintų0, jis bet­\ngi nenorėjo to prašymo patenkinti be tolesnio nagrinėjimo, \ngal to priežastis buvo naujesnės žinios iš Prūsijos.\nVos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­\npas Eberhardas, Sembos vyskupas Jonas, Pomezanijos vys­\nkupas Rudolfas (kadangi Mikolajus Kulmietis neseniai buvo \nmiręs), kartu su savo diecezijos klebonais Elblionge bemat \nsurengė pasitarimą ir pasiuntė laišką vyskupui į Eželį, Ry­\ngos, Eželio, Dorpato ir Revelio kapituloms, Livonijos ma­\ngistrui ir visam Ordinui, Danijos karaliaus vietininkui ir \nvisiems Livonijos bei Estijos didikams ir vasalams, daly­\nvavusiems taikos sutartį sudarant, ir paskelbė tą sutartį \nesant velnio žabangomis, visam krikščioniškajam pasau­\nliui gėda, neabejotinai užtrauksiančia pražūtį Prūsijai ir kai­\nmyniniams kraštams. Jie rašo: „Tie velnio sūnūs savo suk­\ntybėmis klastingai sandėriais taikosi jus ir mus pražudytip."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91423
+    - t-91427
 
 ## Ryšiai
 - Puolė Varmę: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]

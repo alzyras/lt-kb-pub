@@ -16,6 +16,18 @@ tags:
   - upė
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Žynių pranašysčių skelbimas iš bokšto Vilniaus pagonims
 
@@ -48,17 +60,52 @@ Nenurodyta
 <a id="claim-t-87243"></a>
 - t-001
   global_id: t-87243
-  teiginys: 'Pasak Lietuvos kronikininkų ir vietos padavimų, Lizdeika ir jo pirmtakai iš bokšto skelbdavo pranašystes Vilniaus pagonims.'
+  teiginys: "Pasak Lietuvos kronikininkų ir vietos padavimų, Lizdeika ir jo pirmtakai iš bokšto skelbdavo pranašystes Vilniaus pagonims."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "234499-235987; hash=aa81fc8435521c7f03f36671074baa58e32ccefa840737ffe9e904b3411b73ae; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žynių pranašysčių skelbimas iš bokšto Vilniaus pagonims: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žynių pranašysčių skelbimas iš bokšto Vilniaus pagonims\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-83222
 
 <a id="claim-t-183829"></a>
 - t-002
   global_id: t-183829
-  teiginys: 'Padavimuose dabartinė katedros varpinė tapatinta su bokštu, iš kurio Lizdeika ir jo pirmtakai Vilniaus pagonims skelbdavo pranašystes.'
+  teiginys: "Padavimuose dabartinė katedros varpinė tapatinta su bokštu, iš kurio Lizdeika ir jo pirmtakai Vilniaus pagonims skelbdavo pranašystes."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "234499-235987; hash=aa81fc8435521c7f03f36671074baa58e32ccefa840737ffe9e904b3411b73ae; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lizdeika: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žynių pranašysčių skelbimas iš bokšto Vilniaus pagonims: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lizdeika: mention_match, person, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žynių pranašysčių skelbimas iš bokšto Vilniaus pagonims\" parinktas kaip owner_note_path. Targetas \"Lizdeika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-83222
 
+<a id="claim-t-194195"></a>
+- t-003
+  global_id: t-194195
+  teiginys: "Tas pats dviejų aukštų pastatas, la bai storo mūro sienomis, stovintis šalimais katedros bokšto, iki 1832 metų priklausęs diecezijos konsisto rijai ir gyvenamas kunigų invalidų, minėtais metais, kaip ir daugelis ki tų mūrinių pastatų, supančių kated ros."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "234499-235987; hash=aa81fc8435521c7f03f36671074baa58e32ccefa840737ffe9e904b3411b73ae; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-83222
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -100,9 +147,58 @@ Nenurodyta
     pranašystės. Tačiau nėra patikimų
     tam įrodymu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+    - t-003
+
+## Citatos
+
+- id: c-83222
+  citata_originali: |
+    Šalimais jo apvalus bokštas, iš plytų
+    ir akmens sumūrytas, su langu, pro kurį žyniai ir pranašai
+    skelbdavo savo pranašystes žmonėms3, o visa Kreivosios pi­
+    lies apsauginė juosta, pirmiausia apsupta aukšta ir tvirta sta­
+    tinių tvora, paskui Vilnios upės vandenų skalaujama iš vie­
+    nos pusės, o iš kitos - jos perkasos, dar Gedimino laikais
+    iškastos, - pilį puolantiems Lietuvos priešams sudarė ne­
+    lengvai įveikiamas kliūtis4. Iš Žemutinės pilies vakarinių var­
+    tų vedė kelias per du tiltus, nutiestus per Vilnios upę ir Ving­
+    rių upokšnį, kuris šalimais su ana upe įtekėjo į Viliją. Kelias
+    suko į šiaurės pusę, kelto per Viliją link, nuo ten, išsišakojęs
+    į du, vedė į Kernavę, senąją Lietuvos sostinę, ir į Ukmergės
+    pilį. Į kairę nuo kelto, kur dabar Lukiškių priemiestis, nuo
+    senų senovės kerojo įvairioms dievybėms pašvęsti ąžuolai,
+    šen bei ten palei Viliją laukuose augo pušys5.
+    2
+    Tas pats dviejų aukštų pastatas, la­
+    bai storo mūro sienomis, stovintis
+    šalimais katedros bokšto, iki 1832
+    metų priklausęs diecezijos konsisto­
+    rijai ir gyvenamas kunigų invalidų,
+    minėtais metais, kaip ir daugelis ki­
+    tų mūrinių pastatų, supančių kated­
+    ros aikštę, buvo nugriautas, kad bū­
+    tų atvira naujos tvirtovės nuokalnė.
+    3
+    Dabartinė katedros varpinė, anot
+    Lietuvos kronikininkų ir vietos žmo­
+    nių padavimų, buvęs tas pats bokš­
+    tas, iš kurio Lizdeika ir jo pirmtakai
+    iškilmingai pasirodydavę Vilniaus
+    pagonims paskelbti blogos ar geros
+    pranašystės. Tačiau nėra patikimų
+    tam įrodymu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87243
+    - t-183829
+    - t-194195

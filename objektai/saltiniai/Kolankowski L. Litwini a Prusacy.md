@@ -14,6 +14,18 @@ tags:
   - saltinis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kolankowski L. Litwini a Prusacy
 
@@ -26,10 +38,22 @@ Dusburgietis teigia, kad kolankowski L.
 <a id="claim-t-61099"></a>
 - t-001
   global_id: t-61099
-  teiginys: 'L. Kolankowskio straipsnis „Litwini a Prusacy“ paskelbtas 1931 m. Lvove išleistame V visuotinio lenkų istorikų suvažiavimo leidinyje.'
+  teiginys: "L. Kolankowskio straipsnis „Litwini a Prusacy“ paskelbtas 1931 m. Lvove išleistame V visuotinio lenkų istorikų suvažiavimo leidinyje."
+  temporaliniai_duomenys: "įvykio data: 1931 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia autoriaus, pavadinimo, leidinio, vietos ir metų bibliografinį faktą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "779087-779224; hash=aed6e204602654d643ea752f9d89ab1d5810b2f9e9ba9c752276d640b43febeb; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> L. Kolankowski: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kolankowski L. Litwini a Prusacy: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "L. Kolankowski: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kolankowski L. Litwini a Prusacy\" parinktas kaip owner_note_path. Targetas \"L. Kolankowski\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-61731
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -39,8 +63,22 @@ Dusburgietis teigia, kad kolankowski L.
     Kolankowski L. Litwini a Prusacy.— Pamiętnik V powszechnego zjazdu historyków
     polskich w Warszawie 1930 r., Lwów, 1931, t. 2, s. 158—162.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-61731
+  citata_originali: |
+    Kolankowski L. Litwini a Prusacy.— Pamiętnik V powszechnego zjazdu historyków
+    polskich w Warszawie 1930 r., Lwów, 1931, t. 2, s. 158—162.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-61099

@@ -16,6 +16,18 @@ tags:
   - vieta
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Valakija
 
@@ -28,16 +40,40 @@ Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją
 <a id="claim-t-115142"></a>
 - t-001
   global_id: t-115142
-  teiginys: 'Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją bei plėsti savo ekspansiją toliau į Lenkijai priklausiusios Ukrainos teritoriją.'
+  teiginys: "Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją bei plėsti savo ekspansiją toliau į Lenkijai priklausiusios Ukrainos teritoriją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "458005-458491; hash=06ce889dda3f893ca783ad8cfe3c09afb84a54e220a86f9c10ded463895279c2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Valakija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=45"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valakija\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-106105
 
 <a id="claim-t-115143"></a>
 - t-002
   global_id: t-115143
-  teiginys: 'Valakijos vaivada kartu su kryžiuočiais ir Švitrigaila sudarė sąjungą prieš Lenkiją.'
+  teiginys: "Valakijos vaivada kartu su kryžiuočiais ir Švitrigaila sudarė sąjungą prieš Lenkiją."
+  semantiniai_rysiai: "Kryžiuočių ordinas buvo sąjungininkas su Švitrigaila (0.88); Švitrigaila buvo sąjungininkas su Kryžiuočių ordinas (0.88)"
+  temporaliniai_duomenys: "įvykio data: 1431 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys ištaisytas ir išlaiko citatos teigiamą faktą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "428471-428721; hash=d607e260586617032eef8b74b904889f478b16beb403b678c407c98a5886b399; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Kryžiuočių ordinas: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Švitrigaila ir kryžiuočiai kartu sudarė sąjungą."
   pagrindžia:
-    - c-001
+    - c-106104
 - susijęs iš Cecora: 1620 m. Lenkijos kariuomenė įžengė į Valakiją ir mūšyje prie Cecoro netoli Jasų buvo sutriuškinta Turkijos kariuomenės.
 - susijęs iš Cecora: 1620 m. Lenkijos kariuomenė įžengė į Valakiją ir mūšyje prie Cecoro netoli Jasų buvo sutriuškinta Turkijos kariuomenės.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178868|Kryžiuočių ordinas]]: Kryžiuočiai, Švitrigaila ir Valakijos vaivada sudarė sąjungą prieš Lenkiją.
@@ -97,8 +133,9 @@ Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją
     vaivada. Netrukus Voluinėje bei Podolėje įsiplieskė karas su
     Lietuva ir valakais, o 1431 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -122,11 +159,52 @@ Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją
     bei plėsti savo ekspansiją toliau į Lenkijai
     priklausiusios Ukrainos teritoriją.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-106104
+  citata_originali: |
+    Bet tai nė akimirkai nesustab­
+    dė tarp Lenkijos ir Lietuvos prasidėjusių vaidų. Galingą są­
+    jungą prieš Lenkiją sudarė kryžiuočiai, Švitrigaila ir Valakijos
+    vaivada. Netrukus Voluinėje bei Podolėje įsiplieskė karas su
+    Lietuva ir valakais, o 1431 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-115143
+
+- id: c-106105
+  citata_originali: |
+    Lengvieji
+    raitininkai, tokie kaip kazokai ar vidutiniai (pe-
+    tihorai), dėvėdavo žieduočio šarvus, rankų ap-
+    saugas (karvašus). Jie būdavo ginkluoti lankais ir
+    strėlėmis, kardais, pistoletais ir kitokiais ginklais
+
+    112
+
+    Mūšio priešistorė
+    XVI a. pabaigoje XVII a. pirmojoje pu-
+    sėje Lenkija ir Turkija kovojo dėl įtakos
+    Moldavijoje. Turkija siekė užvaldyti visą vi-
+    dinių kovų draskomą Moldaviją ir Valakiją
+    bei plėsti savo ekspansiją toliau į Lenkijai
+    priklausiusios Ukrainos teritoriją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-115142
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Lenkijos kariuomenė]]

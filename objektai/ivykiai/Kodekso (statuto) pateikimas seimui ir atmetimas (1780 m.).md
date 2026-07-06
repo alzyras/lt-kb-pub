@@ -10,6 +10,18 @@ tags:
   - ivykis
   - seimas
   - valstybė
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)
 
@@ -38,9 +50,21 @@ Nenurodyta
 <a id="claim-t-66624"></a>
 - t-001
   global_id: t-66624
-  teiginys: 'Lietuvos bajorija priešinosi kodeksui, nes jis buvo skirtas abiem jungtinėms valstybėms ir reiškė Lietuvos statuto atsisakymą.'
+  teiginys: "Lietuvos bajorija priešinosi kodeksui, nes jis buvo skirtas abiem jungtinėms valstybėms ir reiškė Lietuvos statuto atsisakymą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "861262-861583; hash=529b3c8d536ffc8f6f160db966c3cf0e3421d84e263f546c929bee1bece1dd02; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
-    - c-001
+    - c-66822
 - susijęs iš [[objektai/grupes/Šubravcų draugija.md#claim-t-55111|Šubravcų draugija]]: Šubravcų draugijos kodekse buvo suformuluotos nuo įprastų aukštuomenės normų besiskyrusios narių elgesio ir veiklos normos.
 - susijęs iš [[objektai/paprociai/Šubravcų elgesio kodekso normos ir saviugdos reikalavimai.md#claim-t-54737|Šubravcų elgesio kodekso normos ir saviugdos reikalavimai]]: Šubravcų kodeksas smerkė girtavimą ir azartinius žaidimus, o XII straipsnis reikalavo, kad narys kauptų nuosavą biblioteką.
 - susijęs iš [[objektai/paprociai/Šubravcų elgesio kodekso normos ir saviugdos reikalavimai.md#claim-t-54738|Šubravcų elgesio kodekso normos ir saviugdos reikalavimai]]: Šubravcų draugijos kodekse narių elgesio ir veiklos normos griežtai skyrėsi nuo įprastų aukštuomenės normų.
@@ -68,8 +92,27 @@ Nenurodyta
     skiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsiža-
     dėti savo statuto, t. y. savo atskirų teisių).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-66822
+  citata_originali: |
+    Atmetė jį svarbiausia dėl valstiečiams
+    duodamųjų palengvinimų. „Mužikus nori padaryti
+    bajorais, o mus — mužikais", — šaukė bajorija. (Lietuvos bajo-
+    rija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo
+    skiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsiža-
+    dėti savo statuto, t. y. savo atskirų teisių).
+  citata_rodoma: "„Mužikus nori padaryti\nbajorais, o mus — mužikais\", — šaukė bajorija. (Lietuvos bajo-\nrija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo\nskiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsiža-\ndėti savo statuto, t. y. savo atskirų teisių)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66624

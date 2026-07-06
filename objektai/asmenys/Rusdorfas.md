@@ -20,6 +20,18 @@ amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Rusdorfas
 
@@ -32,26 +44,56 @@ periodo_grupes:
 <a id="claim-t-113963"></a>
 - t-001
   global_id: t-113963
-  teiginys: 'Rusdorfas 1435 m. gruodžio 31 d. Bresto taikoje atstovavo Vokiečių-kryžiuočių ordino žemėms Prūsijoje, Livonijoje ir Vokietijoje.'
+  teiginys: "Rusdorfas 1435 m. gruodžio 31 d. Bresto taikoje atstovavo Vokiečių-kryžiuočių ordino žemėms Prūsijoje, Livonijoje ir Vokietijoje."
+  temporaliniai_duomenys: "įvykio data: 1435 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "281888-282329; hash=ba2ac2e0aaa31b32a1adde7d2e7283044f3c8a5c9ded18c8c76303a036cb61d6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rusdorfas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=103"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusdorfas\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-105139
 
 <a id="claim-t-113964"></a>
 - t-002
   global_id: t-113964
-  teiginys: 'Magistrui Rusdorfui buvo rašyti Vytauto laiškai dėl Lietuvos karūnos, saugoti Kryžiuočių Slaptajame archyve Karaliaučiuje.'
+  teiginys: "Magistrui Rusdorfui buvo rašyti Vytauto laiškai dėl Lietuvos karūnos, saugoti Kryžiuočių Slaptajame archyve Karaliaučiuje."
+  temporaliniai_duomenys: "įvykio data: 1430 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia Rusdorfo ryšį su Vytauto laiškais dėl karūnos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "352581-353218; hash=c9038d12151add4d83cc81e61327a54328734968d459e7edc43888b6ab8120c4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Karūna: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rusdorfas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Karūna: mention_match, thing, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusdorfas\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-105140
+- susijęs iš 1436 m. pasienio konvencija tarp Vladislovo Varniečio ir Povilo Rusdorfo: Narbutas rašo, kad 1436 m. Vladislovas Varnietis ir Povilas Rusdorfas sudarė pasienio konvenciją, nustačiusią Lenkijos ir Ordino sieną.
+- susijęs iš [[objektai/asmenys/Vladislovas Varnietis.md#claim-t-190997|Vladislovas Varnietis]]: 1436 m. Lenkijos karalius Vladislovas Varnietis ir kryžiuočių magistras Povilas Rusdorfas sudarė pasienio konvenciją dėl sienos.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-40517|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: 1435 m. gruodžio 31 d. Vladislovas Jogailaitis su Žygimantu Kęstutaičiu ir Ordino magistru Rusdorfu sudarė Bresto taiką.
 - susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113831|Julijona (Vytauto žmona)]]: Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui Pauliui fon Rusdorfui už atsiųstus gėrimus.
 - susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113833|Julijona (Vytauto žmona)]]: 1426 m. sirgusi didžioji kunigaikštienė Julijona iš Pauliaus Rusdorfo gavo dovanų atsiųstų gydomųjų gėrimų.
 - susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113837|Julijona (Vytauto žmona)]]: 1426 m. Julijona iš didžiojo magistro Pauliaus Rusdorfo gavo jai atsiųstų gydomųjų gėrimų.
+- susijęs iš [[objektai/asmenys/Paulius Rusdorfas.md#claim-t-190960|Paulius Rusdorfas]]: Narbutas Paulių Rusdorfą vadino kryžiuočių magistru, 1436 m. su Vladislovu Varniečiu sudariusiu pasienio konvenciją.
 - susijęs iš [[objektai/asmenys/Paulius Rusdorfas.md#claim-t-87452|Paulius Rusdorfas]]: Didysis magistras Paulius Rusdorfas atsiuntė kunigaikštienei Julijonai gydomųjų gėrimų.
 - susijęs iš [[objektai/asmenys/Paulius Rusdorfas.md#claim-t-87453|Paulius Rusdorfas]]: Paulius Rusdorfas kaip kryžiuočių magistras dalyvavo taikos sutartyje su Vytautu ir Mazovijos kunigaikščiais.
 - susijęs iš [[objektai/asmenys/Paulius Rusdorfas.md#claim-t-87454|Paulius Rusdorfas]]: Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui Pauliui fon Rusdorfui už jai atsiųstus gėrimus.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-40517|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: 1435 m. gruodžio 31 d. Vladislovas Jogailaitis su Žygimantu Kęstutaičiu ir Ordino magistru Rusdorfu sudarė Bresto taiką.
+- susijęs iš [[objektai/asmenys/Vladislovas Varnietis.md#claim-t-190997|Vladislovas Varnietis]]: 1436 m. Lenkijos karalius Vladislovas Varnietis ir kryžiuočių magistras Povilas Rusdorfas sudarė pasienio konvenciją dėl sienos.
 - susijęs iš [[objektai/autoriai/Karamzin.md#claim-t-88071|Karamzin]]: Karamzinas nurodė, kad Karaliaučiaus Kryžiuočių slaptajame archyve buvo Vytauto laiškų magistrui Rusdorfui.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178986|Kryžiuočių ordinas]]: Kryžiuočių Slaptajame archyve Karaliaučiuje buvo Vytauto laiškų magistrui Rusdorfui dėl Lietuvos karūnos derybų.
+- susijęs iš 1436 m. pasienio konvencija tarp Vladislovo Varniečio ir Povilo Rusdorfo: Narbutas rašo, kad 1436 m. Vladislovas Varnietis ir Povilas Rusdorfas sudarė pasienio konvenciją, nustačiusią Lenkijos ir Ordino sieną.
 - susijęs iš Vytauto laiškai magistrui Rusdorfui dėl Lietuvos karūnos: 1430 m. rugpjūtį Vytautas laiške magistrui Rusdorfui pranešė apie Maskvos ir Tverės kunigaikščių atvykimą į Lietuvą.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176706|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1426 m. Vytautas dėl žmonos Julijonos ligos kreipėsi į didįjį magistrą prašydamas gydytojo.
 - susijęs iš [[objektai/daiktai/Karališkosios vaistinės vaistai ir gydomieji gėrimai.md#claim-t-87048|Karališkosios vaistinės vaistai ir gydomieji gėrimai]]: Didžioji kunigaikštienė Julijona iš didžiojo magistro Pauliaus Rusdorfo gavo dovanų gydomųjų gėrimų.
@@ -84,8 +126,9 @@ periodo_grupes:
     joks valdovas, popiežius ar imperato-
     rius neprivers šios sutarties sulaužyti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -115,11 +158,64 @@ periodo_grupes:
     Tverės kunigaikščio atvykimą į Lie­
     tuvą rugpjūčio 8-ą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 
+## Citatos
+
+- id: c-105139
+  citata_originali: |
+    1435 m. gruodžio 31 d. sudaryta Bresto
+    (Kujavy) taika tarp Lenkijos karaliaus
+    Vladislovo Jogailaičio, Lietuvos didžiojo
+    kunigaikščio Žygimanto Kęstutaičio ir
+    Vokiečių-kryžiuočių ordino didžiojo ma-
+    gistro Rusdorfo, atstovaujančio Ordino že-
+    mėms Prūsijoje, Livonijoje ir Vokietijoje.
+    Ordinas įsipareigojo niekada neremti
+    Švitrigailos. Abi pusės įsipareigojo, kad
+    joks valdovas, popiežius ar imperato-
+    rius neprivers šios sutarties sulaužyti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-113963
+
+- id: c-105140
+  citata_originali: |
+    Pa­
+    galiau pakviestas atvyksta Jogaila, lydimas gausaus Len-
+    karalių Zigmantą nuo ketinimo ka­
+    rūnuoti Vytautą, ir Nr. 101, kuria­
+    me, rašydamas Vytautui, reiškia
+    džiaugsmą dėl jo susitaikymo su Jo­
+    gaila ir todėl dedąs viltis, jog čekų
+    eretikai būsią šiek tiek apmalšinti.
+    84
+    Kryžiuočių Slaptajame
+    Archyve, Karaliaučiuje, yra Vy­
+    tauto laiškų, rašytų magistrui Rus-
+    dorfui (pasak Karamzino, V, p. 145)
+    derybų dėl Lietuvos karūnos Vytau­
+    tui dingstimi, kur viename iš jų, da­
+    tuotame 1430 m. rugpjūčio mėn.,
+    didžiajam magistrui praneša apie
+    Maskvos didžiojo kunigaikščio ir
+    Tverės kunigaikščio atvykimą į Lie­
+    tuvą rugpjūčio 8-ą.
+  citata_rodoma: "84\nKryžiuočių Slaptajame \nArchyve, Karaliaučiuje, yra Vy­\ntauto laiškų, rašytų magistrui Rus- \ndorfui (pasak Karamzino, V, p. 145) \nderybų dėl Lietuvos karūnos Vytau­\ntui dingstimi, kur viename iš jų, da­\ntuotame 1430 m. rugpjūčio mėn., \ndidžiajam magistrui praneša apie \nMaskvos didžiojo kunigaikščio ir \nTverės kunigaikščio atvykimą į Lie­\ntuvą rugpjūčio 8-ą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-113964
+
 ## Ryšiai
-- Sudarė sutartį su: [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]
+- Sudarė sutartį su: [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]], [[objektai/asmenys/Vladislovas Varnietis]]

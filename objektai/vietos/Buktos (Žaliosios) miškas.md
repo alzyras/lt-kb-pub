@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - ežeras
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Buktos (Žaliosios) miškas
 
@@ -20,16 +32,36 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
 <a id="claim-t-41632"></a>
 - t-001
   global_id: t-41632
-  teiginys: 'Buktos (Žaliosios) miške veikė Gedimino, Klarko, Juozo Pandeikos, Edvardo ir Jurgio Lajų bei Kosto Barkausko partizanų būriai.'
+  teiginys: "Buktos (Žaliosios) miške veikė Gedimino, Klarko, Juozo Pandeikos, Edvardo ir Jurgio Lajų bei Kosto Barkausko partizanų būriai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "928538-928910; hash=7183c6657539c3327bac3d63cdbf05984c9655ab089a0fbe5c54b3f6cebde3fd; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Barkauskas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Buktos (Žaliosios) miškas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Barkauskas: mention_match, person, gap=99"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Buktos (Žaliosios) miškas\" parinktas kaip owner_note_path. Targetas \"Barkauskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-43351
 
 <a id="claim-t-41633"></a>
-- t-002
+- t-003
   global_id: t-41633
-  teiginys: 'Staniškis-Litas įsakė Dzūkų būriui trauktis į Buktos (Žaliosios) miško ir Palių pakraštį.'
+  teiginys: "Staniškis-Litas įsakė Dzūkų būriui trauktis į Buktos (Žaliosios) miško ir Palių pakraštį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "934470-934665; hash=ef5eeee5c28113adc40a948c67921cc78ace7caed1496f45e10ec1e50862b610; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Žuvintas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Buktos (Žaliosios) miškas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Žuvintas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Buktos (Žaliosios) miškas\" parinktas kaip owner_note_path. Targetas \"Žuvintas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-45046
 - susijęs iš [[objektai/grupes/Klarko būrys.md#claim-t-40923|Klarko būrys]]: Klarko būrys veikė Žuvinto paliose ir Buktos (Žaliosios) miške kartu su kitais partizanų būriais.
 - susijęs iš [[objektai/grupes/Kosto Barkausko būrys.md#claim-t-40925|Kosto Barkausko būrys]]: Kosto Barkausko būrys veikė Žuvinto paliose ir Buktos (Žaliosios) miške kartu su kitais partizanų būriais.
 - susijęs iš [[objektai/grupes/Edvardo Lajaus būrys.md#claim-t-40878|Edvardo Lajaus būrys]]: Edvardo Lajaus būrys veikė Žuvinto paliose ir Buktos, dar vadintame Žaliuoju, miške.
@@ -66,6 +98,7 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
     suvienijo ir jam vadovavo Lietuvos kariuo-
     menės majoras Sergijus Staniškis-Litas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -83,11 +116,50 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
     Palių pakraštį. Kitas būrys užsimaskavo
     Žuvinto ežero salose.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-43351
+  citata_originali: |
+    Partizanų pajėgos
+
+    Tuo metu Žuvinto paliose ir Buktos
+    (Žaliosios) miške jau veikė Gedimino,
+    Klarko, Juozo Pandeikos, Edvardo ir Jurgio
+    Lajų bei Kosto Barkausko būriai. Prie
+    Daukšių bazavosi „Muškietininkų“ būrys,
+    vadovaujamas Vlado Gavėno-Tarzano.
+    Juos visus į bendrą Žuvinto-Palių junginį
+    suvienijo ir jam vadovavo Lietuvos kariuo-
+    menės majoras Sergijus Staniškis-Litas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-41632
+
+- id: c-45046
+  citata_originali: |
+    Mūšis
+    tęsėsi visą savaitę. Matydamas tokią priešo
+    gausą S. Staniškis-Litas įsakė Dzūkų bū-
+    riui trauktis į Buktos (Žaliosios) miško —
+    Palių pakraštį. Kitas būrys užsimaskavo
+    Žuvinto ežero salose.
+  citata_rodoma: "Matydamas tokią priešo\ngausą S. Staniškis-Litas įsakė Dzūkų bū-\nriui trauktis į Buktos (Žaliosios) miško —\nPalių pakraštį. Kitas būrys užsimaskavo\nŽuvinto ežero salose."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-41633
 
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Edvardo Lajaus būrys]], [[objektai/grupes/Juozo Pandeikos būrys]], [[objektai/grupes/Jurgio Lajaus būrys]], [[objektai/grupes/Klarko būrys]], [[objektai/grupes/Kosto Barkausko būrys]]

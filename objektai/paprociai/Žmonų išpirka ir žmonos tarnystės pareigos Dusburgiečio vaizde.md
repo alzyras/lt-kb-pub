@@ -9,6 +9,18 @@ tags:
   - kraštas
   - paprotys
   - pinigai
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Žmonų išpirka ir žmonos tarnystės pareigos Dusburgiečio vaizde
 
@@ -41,18 +53,39 @@ Nenurodyta
 <a id="claim-t-62731"></a>
 - t-001
   global_id: t-62731
-  teiginys: 'Prūsai pagal seną paprotį žmonas pirkdavosi už tam tikrą pinigų sumą ir laikė jas tarsi tarnaitėmis.'
+  teiginys: "Prūsai pagal seną paprotį žmonas pirkdavosi už tam tikrą pinigų sumą ir laikė jas tarsi tarnaitėmis."
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "233029-233418; hash=b0565fb1c6cdaeab1e391a558102c785aa9feb81a50d0f84797b7a9d0588c9cb; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Namas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žmonų išpirka ir žmonos tarnystės pareigos Dusburgiečio vaizde: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Namas: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žmonų išpirka ir žmonos tarnystės pareigos Dusburgiečio vaizde\" parinktas kaip owner_note_path. Targetas \"Namas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
-    - c-004
+    - c-63497
+    - c-63499
 
 <a id="claim-t-62732"></a>
-- t-002
+- t-003
   global_id: t-62732
-  teiginys: 'Komentare teigiama, kad Dusburgietis veikiausiai supainiojo nelaisvos šeimynos moters padėtį su žmonos kaip gyvenimo draugės padėtimi.'
+  teiginys: "Komentare teigiama, kad Dusburgietis veikiausiai supainiojo nelaisvos šeimynos moters padėtį su žmonos kaip gyvenimo draugės padėtimi."
+  teiginio_tipas: "saltinio_teiginys"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "235031-235318; hash=0e394d62be2422d8670d798c32f23eb1200ff1502a90f4445e223117b9e7756c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žmonų išpirka ir žmonos tarnystės pareigos Dusburgiečio vaizde: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žmonų išpirka ir žmonos tarnystės pareigos Dusburgiečio vaizde\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-63496
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -64,6 +97,7 @@ Nenurodyta
     Atrodo, Dusburgietis bus supainiojęs moters — nelaisvos šeimynos narės padėtį su
     žmonos — gyvenimo draugės padėtimi.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -81,6 +115,7 @@ Nenurodyta
     elgetauti, pavargėliai laisvai vaikšto nuo namo prie namo ir nesidrovėdami valgo kada
     tinkami.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -98,10 +133,11 @@ Nenurodyta
     tėvui, t. y. išpirktų žmoną. Galėjo tai būti praktikuojama ir XIII a., nes paprotys buvo
     žinomas  ir vėliau.
   citata_rodoma: ''
-  statusas: verified
-
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
+
 - c-004
   santrauka: 'Prūsai pagal seną paprotį žmonas pirkdavosi už tam tikrą pinigų sumą ir laikė jas tarsi tarnaitėmis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -114,8 +150,58 @@ Nenurodyta
     laiko nelyginant tarnaitę [sicut ancillam]: ji su savo vyru nesėda prie vieno stalo, o tam
     tikromis dienomis plauna kojas namiškiams ir svečiams212.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-63496
+  citata_originali: |
+    212 XIII a. stambieji žemvaldžiai pirkdavo  ir parduodavo moteris, nelaisvosios
+    šeimynos nares. Lietuvių kalboje žodžiai moteris ir žmona XVI a. ir vėliau buvo sinonimai.
+    Atrodo, Dusburgietis bus supainiojęs moters — nelaisvos šeimynos narės padėtį su
+    žmonos — gyvenimo draugės padėtimi.
+  citata_rodoma: "212 XIII a. stambieji žemvaldžiai pirkdavo  ir parduodavo moteris, nelaisvosios\nšeimynos nares. Lietuvių kalboje žodžiai moteris ir žmona XVI a. ir vėliau buvo sinonimai.\nAtrodo, Dusburgietis bus supainiojęs moters — nelaisvos šeimynos narės padėtį su\nžmonos — gyvenimo draugės padėtimi."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-62732
+
+- id: c-63497
+  citata_originali: |
+    Pagal seną paprotį, kurį
+    prūsai išlaikė po šiai dienai, jie žmonas perkasi už tam tikrą pinigų sumą211. Dėl to žmoną
+    laiko nelyginant tarnaitę [sicut ancillam]: ji su savo vyru nesėda prie vieno stalo, o tam
+    tikromis dienomis plauna kojas namiškiams ir svečiams212. Jų krašte niekam neleidžiama
+    elgetauti, pavargėliai laisvai vaikšto nuo namo prie namo ir nesidrovėdami valgo kada
+    tinkami.
+  citata_rodoma: "Pagal seną paprotį, kurį\nprūsai išlaikė po šiai dienai, jie žmonas perkasi už tam tikrą pinigų sumą211. Dėl to žmoną\nlaiko nelyginant tarnaitę [sicut ancillam]: ji su savo vyru nesėda prie vieno stalo, o tam\ntikromis dienomis plauna kojas namiškiams ir svečiams212. Jų krašte niekam neleidžiama\nelgetauti, pavargėliai laisvai vaikšto nuo namo prie namo ir nesidrovėdami valgo kada\ntinkami."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-62731
+
+- id: c-63499
+  citata_originali: |
+    Turi paprotį lažintis, jog vaišėse visi gers po lygiai ir be saiko, todėl svečiui
+    namiškiai siūlo gerti su tokia sąlyga, kad, jiems štai savo žodį tesėjus ir štai tokį saiką
+    išgėrus, ir svečias privaląs tiek pat išgerti; tokios gėrynės taip ilgai tęsiasi, iki nusigeria
+    visi: svečias su namiškiais, žmona su vyru, sūnus su dukterimi. Pagal seną paprotį, kurį
+    prūsai išlaikė po šiai dienai, jie žmonas perkasi už tam tikrą pinigų sumą211. Dėl to žmoną
+    laiko nelyginant tarnaitę [sicut ancillam]: ji su savo vyru nesėda prie vieno stalo, o tam
+    tikromis dienomis plauna kojas namiškiams ir svečiams212.
+  citata_rodoma: "Turi paprotį lažintis, jog vaišėse visi gers po lygiai ir be saiko, todėl svečiui\nnamiškiai siūlo gerti su tokia sąlyga, kad, jiems štai savo žodį tesėjus ir štai tokį saiką\nišgėrus, ir svečias privaląs tiek pat išgerti; tokios gėrynės taip ilgai tęsiasi, iki nusigeria\nvisi: svečias su namiškiais, žmona su vyru, sūnus su dukterimi. Pagal seną paprotį, kurį\nprūsai išlaikė po šiai dienai, jie žmonas perkasi už tam tikrą pinigų sumą211. Dėl to žmoną\nlaiko nelyginant tarnaitę [sicut ancillam]: ji su savo vyru nesėda prie vieno stalo, o tam\ntikromis dienomis plauna kojas namiškiams ir svečiams212."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-62731

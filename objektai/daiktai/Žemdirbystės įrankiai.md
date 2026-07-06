@@ -15,6 +15,18 @@ tags:
   - įrankis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Žemdirbystės įrankiai
 
@@ -45,12 +57,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-179494"></a>
-- t-001
+- t-003
   global_id: t-179494
-  teiginys: 'Žemės darbui naudotas jaučių jungas, vėliau arklai su geležiniu noragu ir kiti geležiniai darbo įrankiai.'
+  teiginys: "Žemės darbui naudotas jaučių jungas, vėliau arklai su geležiniu noragu ir kiti geležiniai darbo įrankiai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "380875-381499; hash=bfcdb5ac6aa57dad0209bf41cf0b6c39e5e4cadaedd83b2ef14ea3177f2d0e4a; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
-
+    - c-31028
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -67,8 +81,30 @@ Nenurodyta
     geležinius darbo įrankius (piautuvus, dalges, plačiaašmenius kirvius),
     buvo imta sėkmingiau ūkininkauti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-31028
+  citata_originali: |
+    Jau viduriniame geležies amžiuje žemės darbui buvo imta
+    naudoti gyvulio traukiamoji jėga, pirmoje eilėje jaučių jungas. Bet
+    į arklą buvo kinkomas ir arklys, tuo būdu nuo traukiamo žemės
+    darbo įrankio, šalia « žirgo » ir « ašvienio », gavęs trečią pavadinimą.
+    Į priešistorinių laikų galą buvo pradėta vartoti arklai ir su gele­
+    žiniu noragu. XVI amž. žinios (Herberstein, Guagnini, Lasicius),
+    jog Žemaičiuose tebuvę vartojami mediniai arklų noragai, nėra
+    tikslios. Dar priešistorinių laikų epochoje ėmus vartoti ir kitus
+    geležinius darbo įrankius (piautuvus, dalges, plačiaašmenius kirvius),
+    buvo imta sėkmingiau ūkininkauti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179494

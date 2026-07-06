@@ -14,6 +14,18 @@ tags:
   - tikėjimas
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kryžių statymas Kryžių kalne kaip tikėjimo laisvės pasipriešinimo praktika
 
@@ -55,12 +67,24 @@ Sovietmečiu Kryžių kalnas tapo tikėjimo laisvės simboliu: valdžiai draudž
 ## Teiginiai
 
 <a id="claim-t-20811"></a>
-- t-001
+- t-003
   global_id: t-20811
-  teiginys: 'Kryžių kalnas tapo kovos už tikėjimo laisvę simboliu ir buvo pramintas lietuviška Golgota.'
+  teiginys: "Kryžių kalnas tapo kovos už tikėjimo laisvę simboliu ir buvo pramintas lietuviška Golgota."
+  temporaliniai_duomenys: "įvykio data: 1961 m.; įvykio data: 1993 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "469116-469616; hash=9ffdbcb742a22c1162aa141a66b354405113197c1a298f9237cfe113f3195f0f; match=exact"
+  sprendimo_priezastis: "gap::customs"
+  ryšio_patikimumas: "susije_su -> Kryžius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžių statymas Kryžių kalne kaip tikėjimo laisvės pasipriešinimo praktika: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kryžius: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžių statymas Kryžių kalne kaip tikėjimo laisvės pasipriešinimo praktika\" parinktas kaip owner_note_path. Targetas \"Kryžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-23531
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -76,8 +100,9 @@ Sovietmečiu Kryžių kalnas tapo tikėjimo laisvės simboliu: valdžiai draudž
     aplankė popiežius Jonas Paulius II) tapo simboliu ir pramintas lietuviška
     Golgota.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -85,3 +110,23 @@ Sovietmečiu Kryžių kalnas tapo tikėjimo laisvės simboliu: valdžiai draudž
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
+
+## Citatos
+
+- id: c-23531
+  citata_originali: |
+    Todėl Kryžių kalnas, esantis 12 km į šiaurę
+    nuo Šiaulių miesto, dėl kryžių gausos tapo plačiai žinomas ne tik Lietu-
+    voje, bet ir užsienyje, o kartu – kovos už tikėjimo laisvę simboliu. Val-
+    džiai draudžiant statyti kryžius, nuverstus pjaustant, deginant, daužant
+    (vien 1961 m. sunaikinti net 2 179 kalne stovėję įvairūs kryžiai), naktimis
+    Kryžių kalne žmonės statė jų vis daugiau. Taip Kryžių kalnas (jį 1993 m.
+    aplankė popiežius Jonas Paulius II) tapo simboliu ir pramintas lietuviška
+    Golgota.
+  citata_rodoma: "aplankė popiežius Jonas Paulius II) tapo simboliu ir pramintas lietuviška"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-20811

@@ -13,6 +13,18 @@ atnaujinta: ''
 tags: []
 amziai:
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # rotmistras
 
@@ -36,26 +48,72 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
 ## Teiginiai
 
 <a id="claim-t-70311"></a>
-- t-001
+- t-005
   global_id: t-70311
-  teiginys: 'Rotmistras buvo kavalerijos dalinio vadas, su šaukimo raštais pats rinkdavęs bajoriškos kilmės karius.'
+  teiginys: "Rotmistras buvo kavalerijos dalinio vadas, su šaukimo raštais pats rinkdavęs bajoriškos kilmės karius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "503052-503448; hash=89aa9e0c229099954f3f2b9811b6c1d376f67a447c1454e35ab95be639f599f1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> lengvoji kavalerija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "rotmistras: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "lengvoji kavalerija: mention_match, thing, gap=16"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"rotmistras\" parinktas kaip owner_note_path. Targetas \"lengvoji kavalerija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-44217
 
 <a id="claim-t-70312"></a>
-- t-002
+- t-007
   global_id: t-70312
-  teiginys: 'Usviatų seniūnas ir rotmistras Jonas Petras Sapiega greičiausiai vadovavo kairiojo sparno kavalerijai.'
+  teiginys: "Usviatų seniūnas ir rotmistras Jonas Petras Sapiega greičiausiai vadovavo kairiojo sparno kavalerijai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "400488-401143; hash=e293e0f5d4f182faed02a01c50a6af67323c1a887e8230cf2b205b7486bdf980; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "rotmistras: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"rotmistras\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-44216
+
+<a id="claim-t-70313"></a>
+- t-008
+  global_id: t-70313
+  teiginys: "Rotmistras buvo kavalerijos dalinio vadas, su šaukimo raštais pats rinkdavęs bajoriškos kilmės karius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "503245-503533; hash=f2512b16797bfe7892783160fc9c8cc164e1120dd1c8aa3c0b587f11849dec72; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Žirgai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "rotmistras: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Žirgai: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"rotmistras\" parinktas kaip owner_note_path. Targetas \"Žirgai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  pagrindžia:
+    - c-44219
 
 <a id="claim-t-70314"></a>
-- t-004
+- t-006
   global_id: t-70314
-  teiginys: 'Rotmistras Jonas Petras Sapiega greičiausiai vadovavo kairiajame sparne išdėstytiems kavalerijos daliniams.'
+  teiginys: "Rotmistras Jonas Petras Sapiega greičiausiai vadovavo kairiajame sparne išdėstytiems kavalerijos daliniams."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "400488-401143; hash=e293e0f5d4f182faed02a01c50a6af67323c1a887e8230cf2b205b7486bdf980; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "rotmistras: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"rotmistras\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-44216
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -79,8 +137,9 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
     daugiausiai husarų vėliavų), kuris turėjo
     smogti ir sunaikinti švedų kairįjį sparną,
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
@@ -96,8 +155,9 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
     Kavalerijos dalinio vadas - rotmistras, turėdamas šaukimo raštus
     pats rinkdavo karius („draugus“), kurie būdavo bajoriškos kilmės.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -113,8 +173,69 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
     Kiekvienas „draugas“ privalėjo pristatyti nuo kelių iki keliolikos
     | žirgų ir karių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-44216
+  citata_originali: |
+    Lauko etmonas kairiajame sparne išdėstė
+    savo kavalerijos dalinius, kuriems greičiau-
+    siai vadovavo Usviatų seniūnas, rotmistras
+    Jonas Petras Sapiega, centre buvo išdės-
+    tyti pėstininkai su muškietomis, kuriems
+    vadovavo LDK didysis maršalka Kristupas
+    Mikalojus Manvydas Dorohostaiskis, deši-
+    niajame sparne buvusiai kavalerijai va-
+    dovavo LDK taurininkas Jonušas Radvila.
+    Sudėtinga vietovė trukdė sėkmingai pulti
+    per centrą, tai galėjo lietuviams kainuoti
+    per
+    daug aukų. Etmonai nu-
+    tarė sustiprinti dešinįjį sparną ir sudaryti
+    geležinį kumštį (šiame sparne buvo sutelkta
+    daugiausiai husarų vėliavų), kuris turėjo
+    smogti ir sunaikinti švedų kairįjį sparną,
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-70314
+    - t-70312
+
+- id: c-44217
+  citata_originali: |
+    Tautinio autoramento pagrindu buvo formuojama sunkioji kava-
+    lerija - husarai, vidutinė ir lengvoji kavalerija - kazokai, petihorai
+    bei totoriai, taip pat „lenkų“ ir „vengrų“ tipo pėstininkai. Vidinė
+    dalinių tvarka buvo paremta tradicine „draugų“ tipo organizacija.
+    Kavalerijos dalinio vadas - rotmistras, turėdamas šaukimo raštus
+    pats rinkdavo karius („draugus“), kurie būdavo bajoriškos kilmės.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-70311
+
+- id: c-44219
+  citata_originali: |
+    Vidinė
+    dalinių tvarka buvo paremta tradicine „draugų“ tipo organizacija.
+    Kavalerijos dalinio vadas - rotmistras, turėdamas šaukimo raštus
+    pats rinkdavo karius („draugus“), kurie būdavo bajoriškos kilmės.
+    Kiekvienas „draugas“ privalėjo pristatyti nuo kelių iki keliolikos
+    | žirgų ir karių.
+  citata_rodoma: "Kavalerijos dalinio vadas - rotmistras, turėdamas šaukimo raštus\npats rinkdavo karius („draugus“), kurie būdavo bajoriškos kilmės.\nKiekvienas „draugas“ privalėjo pristatyti nuo kelių iki keliolikos\n| žirgų ir karių."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-70313

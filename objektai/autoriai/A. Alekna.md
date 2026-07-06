@@ -17,6 +17,18 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'naujieji laikai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # A. Alekna
 
@@ -33,53 +45,130 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
 ## Teiginiai
 
 <a id="claim-t-64500"></a>
-- t-001
+- t-010
   global_id: t-64500
-  teiginys: 'Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patarimais ir buvo numatytas įžangos žodžio autorius.'
+  teiginys: "Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patarimais ir buvo numatytas įžangos žodžio autorius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "4050-4461; hash=5185276fb024e18d8237c12d2af18dd4e7af87f4fb68ed05b19603c8d66ddfe4; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-002
+    - c-13902
 
 <a id="claim-t-64501"></a>
-- t-002
+- t-014
   global_id: t-64501
-  teiginys: 'Zenonas Ivinskis vertino, kad A. Aleknos „Katalikų Bažnyčia Lietuvoje“ parodė jo gebėjimą kritiškai ir objektyviai vertinti šaltinius.'
+  teiginys: "Zenonas Ivinskis vertino, kad A. Aleknos „Katalikų Bažnyčia Lietuvoje“ parodė jo gebėjimą kritiškai ir objektyviai vertinti šaltinius."
+  temporaliniai_duomenys: "įvykio data: 1911 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Tai autoriaus vertinimas, todėl reikalinga šaltinio atribucija."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "167471-168086; hash=bb131dbc1fc6fb61c50c59be3ab84b2f068ee940cc81f3e82bd3f6af9ed5b204; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "A. Alekna: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Alekna\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-30385
 
 <a id="claim-t-64502"></a>
-- t-003
+- t-015
   global_id: t-64502
-  teiginys: 'A. Alekna, remdamasis Kauno vyskupijos kurijos archyvine medžiaga, 1923 m. išleido veikalą „Žemaičių vysk. M. Valančius“.'
+  teiginys: "A. Alekna, remdamasis Kauno vyskupijos kurijos archyvine medžiaga, 1923 m. išleido veikalą „Žemaičių vysk. M. Valančius“."
+  temporaliniai_duomenys: "įvykio data: 1911 m.; įvykio data: 1923 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pirminis teiginys nutrūkęs; citata leidžia atkurti pilną faktinį sakinį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "167471-168086; hash=bb131dbc1fc6fb61c50c59be3ab84b2f068ee940cc81f3e82bd3f6af9ed5b204; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "A. Alekna: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Alekna\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-30385
 
 <a id="claim-t-64503"></a>
-- t-004
+- t-009
   global_id: t-64503
-  teiginys: 'A. Aleknos „Lietuvos istorijos“ antras leidimas buvo išleistas Tilžėje 1923 m.'
+  teiginys: "A. Aleknos „Lietuvos istorijos“ antras leidimas buvo išleistas Tilžėje 1923 m."
+  temporaliniai_duomenys: "įvykio data: 1923 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "245884-245944; hash=8c64b7a5c6164ded95d903a29cc9c41c79c1ff5050fb77219f68913e5e59e206; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "A. Alekna: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Alekna\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-13903
 
 <a id="claim-t-64504"></a>
-- t-005
+- t-013
   global_id: t-64504
-  teiginys: 'Antanas Alekna 1922–1930 m. dėstė Lietuvos istoriją, jos šaltinius ir istorinę geografiją Teologijos-Filosofijos fakulteto Filosofijos skyriuje.'
+  teiginys: "Antanas Alekna 1922–1930 m. dėstė Lietuvos istoriją, jos šaltinius ir istorinę geografiją Teologijos-Filosofijos fakulteto Filosofijos skyriuje."
+  temporaliniai_duomenys: "įvykio data: 1911 m.; įvykio data: 1922-1930; įvykio data: 1930 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko tikslesnę formuluotę su fakulteto skyriumi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "167471-168086; hash=bb131dbc1fc6fb61c50c59be3ab84b2f068ee940cc81f3e82bd3f6af9ed5b204; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "A. Alekna: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=34"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Alekna\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-30385
 
 <a id="claim-t-64505"></a>
-- t-006
+- t-011
   global_id: t-64505
-  teiginys: 'Prof. A. Alekna peržiūrėjo ir patikrino apie Vytautą Didįjį išleistą plačią monografiją.'
+  teiginys: "Prof. A. Alekna peržiūrėjo ir patikrino apie Vytautą Didįjį išleistą plačią monografiją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "727930-728178; hash=e490a3f6286cc10906e2f54e133bc2d168d505f0d9854c84bdf98a265ae1aeda; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> S. Daukantas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "A. Alekna: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "S. Daukantas: mention_match, author"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Alekna\" parinktas kaip owner_note_path. Targetas \"S. Daukantas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-13904
 
 <a id="claim-t-64506"></a>
-- t-007
+- t-012
   global_id: t-64506
-  teiginys: 'A. Alekna parašė „Katalikų Bažnyčia Lietuvoje“, išleistą Kaune 1936 m.'
+  teiginys: "A. Alekna parašė „Katalikų Bažnyčia Lietuvoje“, išleistą Kaune 1936 m."
+  temporaliniai_duomenys: "įvykio data: 1936 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Bibliografinis fragmentas perrašytas į pilną faktinį sakinį apie autorių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "25741-25883; hash=56718d4aa550332181819cc13196abcc0e14658c2b35daf9d7f82d54947ef7b5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Katalikų Bažnyčia: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "A. Alekna: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Katalikų Bažnyčia: mention_match, group, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Alekna\" parinktas kaip owner_note_path. Targetas \"Katalikų Bažnyčia\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-03954
 - susijęs iš [[objektai/autoriai/A. Plateris.md#claim-t-30527|A. Plateris]]: A. Plateris parašė straipsnį „Janulaitis mokslininkas“, publikuotą „Lietuvių enciklopedijos“ 9 tome.
 - susijęs iš [[objektai/grupes/Sakalo bendrovė.md#claim-t-35760|Sakalo bendrovė]]: Vytauto Didžiojo 500 metų jubiliejaus proga „Sakalo“ bendrovė išleido plačią monografiją apie Vytautą Didįjį.
 - susijęs iš Bazelio susirinkimas ir Lietuvos sosto reikalas Vytautui mirus: „Bazelio susirinkimas ir Lietuvos sosto reikalas Vytautui mirus“ buvo šaltiniais paremta studijėlė, atspausta iš TK 1926 m.
@@ -106,6 +195,7 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
     AlBL = Alekna, A. : Katalikų Bažnyčia Lietuvoje, Kaunas 1936
     (spaudai paruošė kim. J. Stakauskas).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -124,6 +214,7 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
     guojant, ir kartu apgailestaujam, kad gerb, profesorius dėl
     ligos negalėjo parašyti šiai knygai įžangos žodžio.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -135,6 +226,7 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
   citata_originali: |
     Alekna, A., Lietuvos istorija. Antras leidimas. Tilžė, 1923.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -149,6 +241,7 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
     S. Daukanto mok. Sem-jos istorijos mok. P. Šležas. Monografiją peržiū­
     rėjo ir patikrino prof. A. Alekna.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -170,10 +263,89 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
     kurijos archyvine medžiaga, jis išleido « Žemaičiu vysk. M. Valan­
     čius » (1923) 81a.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
     - t-003
     - t-002
+
+## Citatos
+
+- id: c-03954
+  citata_originali: |
+    Gause, Karaliaučius - Marburgas 1936-
+    1970.
+    AlBL = Alekna, A. : Katalikų Bažnyčia Lietuvoje, Kaunas 1936
+    (spaudai paruošė kim. J. Stakauskas).
+  citata_rodoma: "AlBL = Alekna, A. : Katalikų Bažnyčia Lietuvoje, Kaunas 1936\n(spaudai paruošė kim. J. Stakauskas)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-64506
+
+- id: c-13902
+  citata_originali: |
+    Kartu taip pat norėtume padėti mūsų platesnei vi­
+    suomenei pažinti tą didį Žmogų, kuri, tikime, šį darbą nuo­
+    širdžiai sutiks.
+    Pagaliau nieku būdu negalime praeiti pro šalį nepareiškę
+    didelio dėkingumo gerb. prof. A. Aleknai mielai padėju­
+    siam naudingais patarimais šią monografiją rašant bei reda­
+    guojant, ir kartu apgailestaujam, kad gerb, profesorius dėl
+    ligos negalėjo parašyti šiai knygai įžangos žodžio.
+  citata_rodoma: "Pagaliau nieku būdu negalime praeiti pro šalį nepareiškę\ndidelio dėkingumo gerb. prof. A. Aleknai mielai padėju­\nsiam naudingais patarimais šią monografiją rašant bei reda­\nguojant, ir kartu apgailestaujam, kad gerb, profesorius dėl\nligos negalėjo parašyti šiai knygai įžangos žodžio."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-64500
+
+- id: c-13903
+  citata_originali: |
+    Alekna, A., Lietuvos istorija. Antras leidimas. Tilžė, 1923.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-64503
+
+- id: c-13904
+  citata_originali: |
+    Vytauto Didžiojo 500 jubiliejaus metu proga „Sakalo“ B-vė išleido apie
+    Vytautą Didįjį plačią monografiją. Ją parašė istorikų būrelis, redagavo
+    S. Daukanto mok. Sem-jos istorijos mok. P. Šležas. Monografiją peržiū­
+    rėjo ir patikrino prof. A. Alekna.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-64505
+
+- id: c-30385
+  citata_originali: |
+    Kanauninkas Ant. Alekna buvo pirmasis (1922-1930) Lie­
+    tuvos istorijos, jos šaltinių ir Lietuvos istorinės geografijos dėsty­
+    tojas Teologijos-Filosofijos fakulteto Filosofijos skyriuje ir ten isto­
+    rijos katedros vedėjas. Jau 1911 m. jis išleido «Lietuvos istoriją»,
+    jos platesniajam leidimui, ketvirtam iš eilės (1923), panaudodamas
+    daugiau šaltinių ir mokslinių tyrinėjimų. A. Aleknos «Katalikų
+    Bažnyčia Lietuvoje » (1936) parodė jo sugebėjimą šaltinius kritiškai
+    ir objektyviai vertinti. Plačiai pasiremdamas Kauno vyskupijos
+    kurijos archyvine medžiaga, jis išleido « Žemaičiu vysk. M. Valan­
+    čius » (1923) 81a.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-64504
+    - t-64502
+    - t-64501

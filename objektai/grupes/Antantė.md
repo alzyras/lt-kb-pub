@@ -18,6 +18,18 @@ tags:
   - valstybė
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Antantė
 
@@ -30,30 +42,81 @@ Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antant
 <a id="claim-t-19634"></a>
 - t-001
   global_id: t-19634
-  teiginys: 'Antantės šalys pareikalavo, kad Vokietija leistų panaudoti savo dalinius bolševizmui stabdyti.'
+  teiginys: "Antantės šalys pareikalavo, kad Vokietija leistų panaudoti savo dalinius bolševizmui stabdyti."
+  temporaliniai_duomenys: "įvykio data: 1918 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta, kad faktas būtų tiesiogiai apie Antantės vaidmenį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "269730-270156; hash=6873f21cf882969186a098385f13a0de52ac3c0b98bfedd61a318884d06b4b76; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antantė: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antantė\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-22338
 
 <a id="claim-t-19635"></a>
-- t-002
+- t-004
   global_id: t-19635
-  teiginys: '1922 m. gruodžio 20 d. Prancūzija, Anglija, Italija ir Japonija kaip Antantės valstybės pripažino Lietuvą de jure.'
+  teiginys: "1922 m. gruodžio 20 d. Prancūzija, Anglija, Italija ir Japonija kaip Antantės valstybės pripažino Lietuvą de jure."
+  temporaliniai_duomenys: "įvykio data: 1921 m.; įvykio data: 1922 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas, gramatiškas ir tiksliai nurodo Antantės valstybių pripažinimą de jure."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "283402-283876; hash=30b5679f98410882bb9d1f92a66012d3d0242a84c41b9675226a503edc438637; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antantė: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antantė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-22341
 
 <a id="claim-t-19636"></a>
 - t-003
   global_id: t-19636
-  teiginys: 'Lietuvos delegacijos reikalavimu sudarytos karinės misijos sustiprino nepriklausomybės viltis ir suteikė Antantei žinių apie padėtį Lietuvoje.'
+  teiginys: "Lietuvos delegacijos reikalavimu sudarytos karinės misijos sustiprino nepriklausomybės viltis ir suteikė Antantei žinių apie padėtį Lietuvoje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "277498-278025; hash=e0b51181804aade46d73ad3665f3dfe10a2096f00da79385cc1e56215692cf17; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aukščiausiosios Tarybos rūmai (institucija): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antantė: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Aukščiausiosios Tarybos rūmai (institucija): mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antantė\" parinktas kaip owner_note_path. Targetas \"Aukščiausiosios Tarybos rūmai (institucija)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-003
+    - c-22340
 
 <a id="claim-t-19637"></a>
-- t-004
+- t-002
   global_id: t-19637
-  teiginys: 'Antantė pripažino, kad Lietuvos Taryba iškėlė nepriklausomybės klausimą ir išsivadavo iš Vokietijos politikos diktato.'
+  teiginys: "Antantė pripažino, kad Lietuvos Taryba iškėlė nepriklausomybės klausimą ir išsivadavo iš Vokietijos politikos diktato."
+  temporaliniai_duomenys: "įvykio data: 1919 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta glaustiau ir gramatiškiau, pašalinant neaiškią formuluotę."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "270271-271114; hash=f8896178e05be2b8d2b23b42b343cedbcc8d5b44bd29a2c932903c3888b68b7e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antantė: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antantė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-22339
 - susijęs iš [[objektai/grupes/Baltijos antantė.md#claim-t-19658|Baltijos antantė]]: Baltijos antantė negarantavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus krašto.
 - susijęs iš [[objektai/ivykiai/Baltijos antantės sudarymas Ženevoje (1934 m. rugsėjo 12 d.).md#claim-t-20167|Baltijos antantės sudarymas Ženevoje (1934 m. rugsėjo 12 d.)]]: 1934 m. rugsėjo 12 d. Ženevoje sudaryta Baltijos antantė buvo Baltijos valstybių politinė ir diplomatinė sąjunga.
 - susijęs iš Ženeva: 1934 m. rugsėjo 12 d. Ženevoje sudaryta Baltijos antantė siekė stiprinti ekonominį, socialinį, teisinį ir administracinį bendradarbiavimą.
@@ -101,6 +164,7 @@ Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antant
     ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antantės šalių
     reikalavimu, leido panaudoti savo dalinius stabdant bolševizmą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -125,6 +189,7 @@ Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antant
     delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferenci-
     jos ir veikė kuluaruose.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -144,6 +209,7 @@ Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antant
     nepriklausomybę, be to, misijos suteikė objektyvią informaciją Antantei
     apie padėtį Lietuvoje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -162,8 +228,86 @@ Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antant
     1922 m. gruodžio 20 d. keturios Antantės valstybės (Prancūzija, Anglija,
     Italija, Japonija) pripažino Lietuvą de jure.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-22338
+  citata_originali: |
+    Lietuvių problema buvo ta, kad 1918 m. gruodžio pabaigoje artėjant prie
+    Vilniaus Rau­donajai armijai, A. Voldemaro vyriausybė neturėjo ginkluo-
+    tųjų pajėgų. 1918 m. gruo­džio 21 d. A. Smetona skubiai išvyko į Berlyną,
+    kur pasirašė 100 mln. markių paskolą ginklams įsigyti. Vokietija pateikė
+    ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antantės šalių
+    reikalavimu, leido panaudoti savo dalinius stabdant bolševizmą.
+  citata_rodoma: "ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antantės šalių"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-19634
+
+- id: c-22339
+  citata_originali: |
+    greitosiomis kūrė Lietuvos karines pajėgas, pirmieji Lietuvos daliniai, pa-
+    dedami saksų savanorių dalinių, stojo į ginkluotą kovą prieš Raudonąją
+    armiją ir pagaliau ją sustabdė fronto linijoje Kaunas–Alytus.
+    Palaipsniui pasikeitė ir Lietuvos Tarybos vertinimas: provokiška
+    orientacija ją kaltinusi lietuvių kairė, lenkai ir net Antantė turėjo pripa-
+    žinti, kad sunkiomis sąlygomis, svetimųjų varžoma Lietuvos Taryba suge-
+    bėjo išlaviruoti ir iškelti Lietuvos nepriklausomybės klausimą, išsivaduoti
+    iš Vokietijos politikos diktato ir paskubomis kūrė valdžios ir savivaldybių
+    įstaigas.
+    Versalio sistemoje
+    Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje
+    prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai
+    delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferenci-
+    jos ir veikė kuluaruose.
+  citata_rodoma: "bėjo išlaviruoti ir iškelti Lietuvos nepriklausomybės klausimą, išsivaduoti"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-19637
+
+- id: c-22340
+  citata_originali: |
+    Paryžiuje Lietuva gavo politinę britų, materialinę – JAV, karinę – Pran-
+    cūzijos paramą. Pasamdyta užsienio karininkų tarnybai Lietuvoje, pra-
+    dėta formuoti JAV lietuvių karinė brigada – nors daug tokių sumanymų
+    nepavyko dėl finansų stokos, jie turėjo gerą atgarsį tarp sąjungininkų.
+    Lietuvos delegacijos reikalavimu sudarytos prancūzų, britų, JAV ir An-
+    tantės Aukščiausiosios Tarybos karinės misijos sustiprino viltis pasiekti
+    nepriklausomybę, be to, misijos suteikė objektyvią informaciją Antantei
+    apie padėtį Lietuvoje.
+  citata_rodoma: "tantės Aukščiausiosios Tarybos karinės misijos sustiprino viltis pasiekti"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-19636
+
+- id: c-22341
+  citata_originali: |
+    Taigi atsitiko stebuklas – Lietuva išliko, suformavo 30 000 vyrų ka-
+    riuomenę, apsigynė ir pradėjo tvarkyti vidaus ekonominius reikalus.
+    1921 m. rugsėjo 22 d. Lietuva buvo priimta į Tautų Sąjungą, nors di-
+    džiosios Vakarų valstybės dar negarantavo Lietuvos pripažinimo de jure.
+    Neilgai trukus Vatikanas, JAV, Ispanija, Olandija, Skandinavijos šalys, o
+    1922 m. gruodžio 20 d. keturios Antantės valstybės (Prancūzija, Anglija,
+    Italija, Japonija) pripažino Lietuvą de jure.
+  citata_rodoma: "Neilgai trukus Vatikanas, JAV, Ispanija, Olandija, Skandinavijos šalys, o"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-19635

@@ -25,6 +25,18 @@ tags:
 amziai:
   - 'XVI'
   - 'XVIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Unitai
 
@@ -35,18 +47,42 @@ Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemai�
 ## Teiginiai
 
 <a id="claim-t-45238"></a>
-- t-001
+- t-003
   global_id: t-45238
-  teiginys: 'Bajoriškoji santvarka leido šalia katalikų egzistuoti kalvinistų, liuteronų, stačiatikių, unitų ir kitoms etnokonfesinėms bendrijoms.'
+  teiginys: "Bajoriškoji santvarka leido šalia katalikų egzistuoti kalvinistų, liuteronų, stačiatikių, unitų ir kitoms etnokonfesinėms bendrijoms."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "694931-695296; hash=992604bf4992e7d06518684524cd8f20b0f09129aa323f5ccff876675aaed823; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Unitai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Unitai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-48118
 
 <a id="claim-t-182929"></a>
 - t-002
   global_id: t-182929
-  teiginys: 'Unitų bazilijonų vienuolynų buvo net Žemaičių Padubysyje, nors ten nebuvo nei pravoslavų, nei unitų.'
+  teiginys: "Unitų bazilijonų vienuolynų buvo net Žemaičių Padubysyje, nors ten nebuvo nei pravoslavų, nei unitų."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Unitai gyveno Lietuva (0.62)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "694931-695296; hash=992604bf4992e7d06518684524cd8f20b0f09129aa323f5ccff876675aaed823; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Lietuva: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Unitai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata rodo unitų bazilijonų vienuolynų buvimą Lietuvoje; tai netiesiogiai remia unitų institucijų buvimą Lietuvoje."
   pagrindžia:
-    - c-001
+    - c-46404
 - susijęs iš [[objektai/grupes/Unitų bažnyčia unitai.md#claim-t-101479|Unitų bažnyčia unitai]]: 1839 m. Unitų bažnyčia buvo likviduota, o unitai prievarta grąžinti į Rusų stačiatikių bažnyčią.
 - susijęs iš [[objektai/grupes/Unitų bažnyčia unitai.md#claim-t-101480|Unitų bažnyčia unitai]]: Bajoriškoji santvarka leido šalia katalikų egzistuoti kalvinistų, liuteronų, stačiatikių, unitų ir kitoms etnokonfesinėms bendrijoms.
 - susijęs iš [[objektai/grupes/Unitų bažnyčia.md#claim-t-16167|Unitų bažnyčia]]: 1839 m. Unitų bažnyčia buvo likviduota, o unitai prievarta grąžinti į Rusų stačiatikių bažnyčią.
@@ -59,6 +95,7 @@ Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemai�
 - susijęs iš [[objektai/daiktai/1575 m. Mamoničių „Cztėry Ewangelje“ egzempliorius.md#claim-t-87107|1575 m. Mamoničių „Cztėry Ewangelje“ egzempliorius]]: Vilniaus graikų unitų metropolijos zakristijoje matytas 1575 m. „Cztėry Ewangelje“ egzempliorius buvo puikiai išsilaikęs.
 - susijęs iš [[objektai/grupes/Rusų stačiatikių bažnyčia.md#claim-t-66081|Rusų stačiatikių bažnyčia]]: 1839 m. likvidavus Unitų bažnyčią, unitai buvo prievarta grąžinti į Rusų stačiatikių bažnyčios gretas.
 - susijęs iš Teodoro Narbuto „Lietuvių tautos istorija“: 1835–1841 m. Vilniuje lenkų kalba išėjo devyni Teodoro Narbuto „Lietuvių tautos istorijos“ tomai apie Lietuvos istoriją iki Liublino unijos.
+- susijęs iš Svisločė: Volkovysko apskrityje per mylią nuo grafo Tiškevičiaus Svisločės buvo Radovickių kaimas Jatwiesk.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -73,6 +110,7 @@ Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemai�
     prie jų vienuolynų buvo bent pradžios mokyklų, o kai kur net
     ir aukštesniųjų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -101,11 +139,57 @@ Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemai�
     vazija (1654–1667), o valdant Saksų dinastijai (1697–1763) Lietuva tapo
     Šiaurės karo (1700–1721) tarp Rusijos ir Švedijos kovų arena.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-46404
+  citata_originali: |
+    Vilniuje šie turėjo net savą, popiežiaus iš-
+    laikomą, kunigų seminariją; mokymu daugiausia užsiėmė jų ba-
+    zi1ijonų ordinas, kurs turėjo Lietuvoje net keletą dešimčių
+    savo vienuolynų. Jų vienuolynų buvo net Žemaičiuose (Padu-
+    bysy), nors ten nei pravoslavų nei unitų nebuvo iš viso. Visur
+    prie jų vienuolynų buvo bent pradžios mokyklų, o kai kur net
+    ir aukštesniųjų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182929
+
+- id: c-48118
+  citata_originali: |
+    Pagal liberum veto
+    teisę bajoriškojo parlamento – Seimo sprendimai turėjo būti priimami
+    vienu balsu, o tai ypač kontrastavo su Vakarų Europos absoliutistinėmis
+    santvarkomis ir trukdė stiprinti bei centralizuoti valstybę. Antra vertus,
+    tokia, moderniuoju žvilgsniu atrodanti anachronistiška, santvarka leido
+    visuomenėje šalia katalikų egzistuoti įvairioms etnokonfesinėms bendri-
+    joms: kalvinistams, liuteronams, stačiatikiams ir unitams, dar vėliau – iš
+    Rusijos atsikeliantiems sentikiams, be to, nuo Vytauto laikų gyvuojan-
+
+    L I E T U V O S  I S T O R I J A
+    64
+    tiems karaimams, totoriams ir žydams.
+    Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ truk-
+    dė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai
+    (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos in-
+    vazija (1654–1667), o valdant Saksų dinastijai (1697–1763) Lietuva tapo
+    Šiaurės karo (1700–1721) tarp Rusijos ir Švedijos kovų arena.
+  citata_rodoma: "Antra vertus, \ntokia, moderniuoju žvilgsniu atrodanti anachronistiška, santvarka leido \nvisuomenėje šalia katalikų egzistuoti įvairioms etnokonfesinėms bendri-\njoms: kalvinistams, liuteronams, stačiatikiams ir unitams, dar vėliau – iš \nRusijos atsikeliantiems sentikiams, be to, nuo Vytauto laikų gyvuojan-\n\nL I E T U V O S  I S T O R I J A\n64\ntiems karaimams, totoriams ir žydams. \nCivilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ truk-\ndė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai \n(1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos in-\nvazija (1654–1667), o valdant Saksų dinastijai (1697–1763) Lietuva tapo \nŠiaurės karo (1700–1721) tarp Rusijos ir Švedijos kovų arena."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-45238
 
 ## Ryšiai
 - Unitai gyveno [[objektai/vietos/Galicija]], [[objektai/vietos/Lietuva]]

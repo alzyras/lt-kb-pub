@@ -16,6 +16,18 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Ptolomėjus iš Lukos
 
@@ -28,10 +40,22 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
 <a id="claim-t-60421"></a>
 - t-001
   global_id: t-60421
-  teiginys: 'Ptolomėjus iš Lukos buvo Tomo Akviniečio mokinys ir popiežiaus bibliotekininkas, parašęs bažnyčios istoriją „Analai“.'
+  teiginys: "Ptolomėjus iš Lukos buvo Tomo Akviniečio mokinys ir popiežiaus bibliotekininkas, parašęs bažnyčios istoriją „Analai“."
+  temporaliniai_duomenys: "įvykio data: 1327 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, informatyvus ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "71921-72282; hash=5bb87d2547cc72c0e3d4a253f8dcc344736ebf460de5ba5c4aff4f652839264f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Martynas iš Golino: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ptolomėjus iš Lukos: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Martynas iš Golino: mention_match, person, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ptolomėjus iš Lukos\" parinktas kaip owner_note_path. Targetas \"Martynas iš Golino\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-61053
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,8 +68,26 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
       Dusburgietis marginaliniuose paaiškinimuose (51-ame paragrafe iš 126) rėmėsi abiem
     minėtais autoriais. Kai kur —tik Ptolomėjumi (25 kartus) arba Martynu (10 kartų).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-61053
+  citata_originali: |
+    Tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“, Bartolomiejus) iš Lukos, popiežiaus
+    bibliotekininkas (miręs 1327 m.), parašė „Analus“ — bažnyčios istoriją, baigiamą XIV a.
+    pradžios įvykiais129.
+      Dusburgietis marginaliniuose paaiškinimuose (51-ame paragrafe iš 126) rėmėsi abiem
+    minėtais autoriais. Kai kur —tik Ptolomėjumi (25 kartus) arba Martynu (10 kartų).
+  citata_rodoma: "Tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“, Bartolomiejus) iš Lukos, popiežiaus\nbibliotekininkas (miręs 1327 m.), parašė „Analus“ — bažnyčios istoriją, baigiamą XIV a.\npradžios įvykiais129."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60421

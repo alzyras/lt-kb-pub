@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - grupe
   - sukilimas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jakobinų klubas
 
@@ -20,9 +32,19 @@ Sukilėliai tarsi kartojo Prancūzijos didžiosios revoliucijos eigą – sumany
 <a id="claim-t-19717"></a>
 - t-001
   global_id: t-19717
-  teiginys: 'Jakobinų klubas oponavo oficialiai sukilimo valdžiai ir inicijavo Targovicos konfederatų egzekucijos sumanymą.'
+  teiginys: "Jakobinų klubas oponavo oficialiai sukilimo valdžiai ir inicijavo Targovicos konfederatų egzekucijos sumanymą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "178351-178836; hash=500f379963e3c1e9cdade1c7d7afd8e43fba569ac41e0790e4a8527a065c8ed9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Targovica: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jakobinų klubas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Targovica: mention_match, place, gap=66"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jakobinų klubas\" parinktas kaip owner_note_path. Targetas \"Targovica\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-22422
 - susijęs iš [[objektai/zodynas/jakobinizmas jakobinų klubas.md#claim-t-22171|jakobinizmas jakobinų klubas]]: Sukilimo valdžiai oponavęs jakobinų klubas rengė manifestacijas, privertusias teismą paskelbti mirties nuosprendžius.
 - susijęs iš [[objektai/paprociai/Politinės manifestacijos kaip spaudimo valdžiai ir teismui praktika.md#claim-t-183329|Politinės manifestacijos kaip spaudimo valdžiai ir teismui praktika]]: Jakobinų klubas rengė manifestacijas, privertusias teismą paskelbti mirties nuosprendžius kai kuriems Targovicos konfederatams.
 ## Reikšmingi paminėjimai
@@ -39,8 +61,28 @@ Sukilėliai tarsi kartojo Prancūzijos didžiosios revoliucijos eigą – sumany
     navusiame jakobinų klube. Šis klubas rengė manifestacijas, privertusias
     teismą paskelbti minėtus mirties nuosprendžius.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-22422
+  citata_originali: |
+    Sukilimo kulminacija Lenkijai ir Lietuvai tapo kai kurių Targovicos
+    konfederatų, tarp kurių buvo Vilniaus vyskupas I. Masalskis ir Livonijos
+    vyskupas J. Kosakovskis, egzekucija – jie buvo pakarti Varšuvoje birže-
+    lio 28 dieną. Sukilėliai tarsi kartojo Prancūzijos didžiosios revoliucijos
+    eigą – sumanymas rengti egzekuciją kilo oficialiai sukilimo valdžiai opo-
+    navusiame jakobinų klube. Šis klubas rengė manifestacijas, privertusias
+    teismą paskelbti minėtus mirties nuosprendžius.
+  citata_rodoma: "navusiame jakobinų klube. Šis klubas rengė manifestacijas, privertusias"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-19717

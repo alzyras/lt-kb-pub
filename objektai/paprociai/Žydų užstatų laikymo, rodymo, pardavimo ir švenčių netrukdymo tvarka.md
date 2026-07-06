@@ -9,6 +9,18 @@ tags:
   - miestas
   - paprotys
   - pinigai
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Žydų užstatų laikymo, rodymo, pardavimo ir švenčių netrukdymo tvarka
 
@@ -41,10 +53,19 @@ Nenurodyta
 <a id="claim-t-87242"></a>
 - t-001
   global_id: t-87242
-  teiginys: 'Jeigu žydas metus laikytą krikščionio užstatą vertino mažiau už skolą, jis turėjo parodyti užstatą savo teisėjui.'
+  teiginys: "Jeigu žydas metus laikytą krikščionio užstatą vertino mažiau už skolą, jis turėjo parodyti užstatą savo teisėjui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "415600-415962; hash=195363955ca46ed31c015c5e79687b85a9790694321fa2ae6ba184089a3ef533; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Užstato daiktai Trakų žydų privilegijoje: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žydų užstatų laikymo, rodymo, pardavimo ir švenčių netrukdymo tvarka: owner_note_path, thing"
+  ryšio_targeto_parinkimas: "Užstato daiktai Trakų žydų privilegijoje: mention_match, thing, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žydų užstatų laikymo, rodymo, pardavimo ir švenčių netrukdymo tvarka\" parinktas kaip owner_note_path. Targetas \"Užstato daiktai Trakų žydų privilegijoje\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-83221
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -63,8 +84,31 @@ Nenurodyta
     VILNIAUS MIESTO ISTORIJA / TOMAS
     žydas savo teisėjui turi parodyti užstatą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83221
+  citata_originali: |
+    Taip pat jeigu žydas paimtų iš krikščionies užstatą ir
+    per visus metus laikytų, o tas užstatas tų pinigų nesiektų,
+    *
+    Atmintinė - bylą laimėjusio mokes- mėtą bylą ar turto perleidimo įrašy-
+    tis teisėjui ir jo pavaduotojui už lai- mą į teismo knygas (vert. past.).
+    197
+
+    ## Puslapis 214
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    žydas savo teisėjui turi parodyti užstatą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87242

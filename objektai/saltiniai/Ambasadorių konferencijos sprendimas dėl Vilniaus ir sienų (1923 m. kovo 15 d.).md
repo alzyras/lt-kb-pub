@@ -15,6 +15,18 @@ tags:
   - sutartis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Ambasadorių konferencijos sprendimas dėl Vilniaus ir sienų (1923 m. kovo 15 d.)
 
@@ -25,26 +37,72 @@ Ambasadorių konferencijos 1923 m. kovo 15 d. sprendimą, paliekant istorinę Li
 ## Teiginiai
 
 <a id="claim-t-21001"></a>
-- t-001
+- t-002
   global_id: t-21001
-  teiginys: 'Ambasadorių konferencija suprato Lietuvos notą kaip pageidavimą Vilnių priskirti Lenkijai ir patvirtino Lenkijos sieną su Rusija.'
+  teiginys: "Ambasadorių konferencija suprato Lietuvos notą kaip pageidavimą Vilnių priskirti Lenkijai ir patvirtino Lenkijos sieną su Rusija."
+  semantiniai_rysiai: "Vilnius priklausė Lenkija (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1921 m.; įvykio data: 1923 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, bet citata palaiko sutrumpintą faktą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "292161-292688; hash=1cde06fef086f29913f859605eed054a59d016d093017befc04ecb2a2fa6e81c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lenkija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai kalba apie Vilniaus priskyrimą Lenkijai."
   pagrindžia:
-    - c-001
+    - c-23727
 
 <a id="claim-t-21002"></a>
-- t-002
+- t-001
   global_id: t-21002
-  teiginys: 'Ambasadorių konferencijos 1923 m. kovo 15 d. sprendimu istorinė Lietuvos sostinė Vilnius buvo palikta Lenkijai.'
+  teiginys: "Ambasadorių konferencijos 1923 m. kovo 15 d. sprendimu istorinė Lietuvos sostinė Vilnius buvo palikta Lenkijai."
+  semantiniai_rysiai: "Vilnius priklausė Lenkija (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1921 m.; įvykio data: 1923 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, o citata pagrindžia esminį sprendimo rezultatą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "292161-292688; hash=1cde06fef086f29913f859605eed054a59d016d093017befc04ecb2a2fa6e81c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lenkija: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekste sakoma, kad sprendimu Vilnius paliktas Lenkijai, todėl remiamas priklausymo ryšys."
   pagrindžia:
-    - c-001
+    - c-23727
 
 <a id="claim-t-183355"></a>
 - t-003
   global_id: t-183355
-  teiginys: 'Ambasadorių konferencija patvirtino Lenkijos sieną su Rusija pagal 1921 m. Rygos taikos sutartį ir naują Lietuvos bei Lenkijos demarkacijos liniją.'
+  teiginys: "Ambasadorių konferencija patvirtino Lenkijos sieną su Rusija pagal 1921 m. Rygos taikos sutartį ir naują Lietuvos bei Lenkijos demarkacijos liniją."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Vilnius priklausė Lenkija (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1921 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata patikslina, kad kalbama apie Rygos taikos sutartį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "292514-292959; hash=ea5a648f9c92dbbd02dd222ea00aa1b9d642748f2ca3a5cc9c02f0eaf90a3416; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lenkija: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo, kad Vilnius liko Lenkijos pusėje."
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-002
-
+    - c-166747
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -59,6 +117,7 @@ Ambasadorių konferencijos 1923 m. kovo 15 d. sprendimą, paliekant istorinę Li
     pati pageidauja Vilniaus priskyrimo Lenkijai, tad patvirtino Lenkijos sieną
     su Rusija pagal 1921 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -77,8 +136,45 @@ Ambasadorių konferencijos 1923 m. kovo 15 d. sprendimą, paliekant istorinę Li
     bai Lietuva kategoriškai atsisakė pripažinti šio sprendimo teisėtumą, o Len-
     kija ir Vakarų šalys suprato, kad Vilniaus klausimas išspręstas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-23727
+  citata_originali: |
+    tis su Lietuva tebelieka galioti, kad Lietuva turi suverenias teises į Vilnių,
+    kol neatsisakys savo suverenumo Lenkijos naudai.
+    Ambasadorių konferencijos 1923 m. kovo 15 d. sprendimą, paliekant is-
+    torinę Lietuvos sostinę Vilnių Lenkijai, savotiškai lėmė, praleidęs progą pa-
+    tylėti… E. Galvanauskas, nota pakvietęs nustatyti Lenkijos rytines sienas.
+    Ambasadorių konferencija tai suprato kaip norėjo suprasti – neva Lietuva
+    pati pageidauja Vilniaus priskyrimo Lenkijai, tad patvirtino Lenkijos sieną
+    su Rusija pagal 1921 m.
+  citata_rodoma: "Ambasadorių konferencijos 1923 m. kovo 15 d. sprendimą, paliekant is-\ntorinę Lietuvos sostinę Vilnių Lenkijai, savotiškai lėmė, praleidęs progą pa-\ntylėti… E. Galvanauskas, nota pakvietęs nustatyti Lenkijos rytines sienas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-21002
+    - t-21001
+
+- id: c-166747
+  citata_originali: |
+    Ambasadorių konferencija tai suprato kaip norėjo suprasti – neva Lietuva
+    pati pageidauja Vilniaus priskyrimo Lenkijai, tad patvirtino Lenkijos sieną
+    su Rusija pagal 1921 m. Rygos taikos sutartį ir naują demarkacijos liniją
+    tarp Lietuvos ir Lenkijos (Vilnius liko pastarosios pusėje). Lenkijos nuosta-
+    bai Lietuva kategoriškai atsisakė pripažinti šio sprendimo teisėtumą, o Len-
+    kija ir Vakarų šalys suprato, kad Vilniaus klausimas išspręstas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183355

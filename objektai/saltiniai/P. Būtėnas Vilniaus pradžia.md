@@ -14,6 +14,18 @@ tags:
   - saltinis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # P. Būtėnas Vilniaus pradžia
 
@@ -26,10 +38,22 @@ amziai:
 <a id="claim-t-31878"></a>
 - t-001
   global_id: t-31878
-  teiginys: 'P. Būtėno „Vilniaus pradžia“ paskelbta žurnalo „Karys“ 1973 m. 10 numeryje, p. 342-344.'
+  teiginys: "P. Būtėno „Vilniaus pradžia“ paskelbta žurnalo „Karys“ 1973 m. 10 numeryje, p. 342-344."
+  temporaliniai_duomenys: "įvykio data: 1973 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti tikslų leidimo faktą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "641544-642199; hash=d543183e7cbc429e3c541c8f81fb683e91eca55535a40c00040f928b7d93b3ec; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "P. Būtėnas Vilniaus pradžia: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"P. Būtėnas Vilniaus pradžia\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-33684
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,8 +70,31 @@ amziai:
     min. Eine Streitfrage,_ atsp. iš Jahrbuch der Albertus-Universität zu
     Königsberg i.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33684
+  citata_originali: |
+    Adamus, J. : _O tytule panującego i paóstwa litewskiego,_ KH, t. 49,
+    1930, 313-332 p. — Būtėnas, P. : _Lietuvos sostinė Vilnius,_ Karys, 1973,
+    nr. 8, 264-266 p. — (”) _Vilniaus pradžia,_ Karys, 1973, nr. 10, 342-344 p.
+    -— (”) _Karalius-kuniugas,_ Karys, 1971, 193-197, 227-230, 263-265, 306-
+    311 p. — Chodynicki, K. : _Próby zaprowadzenia chrześcijaństwa na Lit­
+    ine przed r. 1386,_ PH, t. 18, zesz. 2, 3, 1914, 219-255, 257-319 p.—
+    Forstbeuter, K. : _Die Bekehrung Gedimins und der Deutsche Orden,_
+    AP, t. 5, 1928, 239-268 p. — (”) _Die Bekehrung des Litauerkönigs Gedi-
+    min. Eine Streitfrage,_ atsp. iš Jahrbuch der Albertus-Universität zu
+    Königsberg i.
+  citata_rodoma: "— (”) _Vilniaus pradžia,_ Karys, 1973, nr. 10, 342-344 p.\n-— (”) _Karalius-kuniugas,_ Karys, 1971, 193-197, 227-230, 263-265, 306-\n311 p."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31878

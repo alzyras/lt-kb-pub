@@ -13,6 +13,18 @@ tags:
   - saltinis
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Nalepa J., Stabo
 
@@ -25,10 +37,23 @@ Dusburgietis teigia, kad stabo — dab.
 <a id="claim-t-61192"></a>
 - t-001
   global_id: t-61192
-  teiginys: 'J. Nalepos tyrime Stabo ežeras tapatinamas su dabartiniu Kamienne ežeru Suvalkų krašte.'
+  teiginys: "J. Nalepos tyrime Stabo ežeras tapatinamas su dabartiniu Kamienne ežeru Suvalkų krašte."
+  semantiniai_rysiai: "Jotvingiai gyveno Suvalkai (0.62)"
+  temporaliniai_duomenys: "įvykio data: po 1283 m.; įvykio data: 1283 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia teiginį apie Stabo ir Kamienne vietovardžių tapatinimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "540808-541083; hash=bac7a1cf8fac9bf9852da8d9d4c4e59cd498d49d56b7c12294c91777917449e4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Suvalkai: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jotvingiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Suvalkai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo jotvingių išlikimą regione prie Suvalkų, todėl palaiko gyvenimo vietos ryšį tik apytikriai."
   pagrindžia:
-    - c-001
-
+    - c-61824
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -40,8 +65,24 @@ Dusburgietis teigia, kad stabo — dab.
     centrinėse žemėse jotvingiai išliko dar ilgai po 1283 m., tik vėliau buvo palaipsniui
     polonizuoti (Nalepa J., Stabo..., p. 146—148).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-61824
+  citata_originali: |
+    Nauji vietovardžių tyrimai (ež. Stabo — dab. Kamienne  ir
+    kt.) Mėrūniškių regione (į šiaurės vakarus nuo Suvalkų) rodo, kad nusiaubtose savose
+    centrinėse žemėse jotvingiai išliko dar ilgai po 1283 m., tik vėliau buvo palaipsniui
+    polonizuoti (Nalepa J., Stabo..., p. 146—148).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-61192

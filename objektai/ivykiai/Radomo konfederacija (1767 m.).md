@@ -14,6 +14,18 @@ tags:
   - karalius
 amziai:
   - 'XVIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Radomo konfederacija (1767 m.)
 
@@ -38,10 +50,22 @@ Nenurodyta
 <a id="claim-t-01784"></a>
 - t-001
   global_id: t-01784
-  teiginys: 'Radome rusų kariuomenės apsupti konfederatai buvo priversti pasirašyti aktą, pripažinusį lygias teises kitatikiams.'
+  teiginys: "Radome rusų kariuomenės apsupti konfederatai buvo priversti pasirašyti aktą, pripažinusį lygias teises kitatikiams."
+  semantiniai_rysiai: "Rusai apgulė Radomas (0.90)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "828888-829661; hash=2b6c1b1a0cd1c3d4dbd886b8c545c69ecf45f160e3b4bb2170d9171000aa3900; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "apgule -> Radomas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Rusai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Radomas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claim tiesiogiai nurodo rusų kariuomenės apsuptus konfederatus Radome."
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
-    - c-001
-
+    - c-02022
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -68,8 +92,41 @@ Nenurodyta
     paprašyta garantijos, kad nė viena iš tų teisių nebus pa-
     keista.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-02022
+  citata_originali: |
+    Už
+    sugrąžinimą jis buvo dėkingas
+    tik Kotrynai, todėl sutiko, kad
+    prie jo būtų prikomandiruotas
+    rusų pulkininkas Karas, su ku-
+    riuo jis kiekvienu reikalu galėtų
+    pasitarti. Degdamas neapykan-
+    ta Čartoriskiams ir karaliui, jis
+    svajojo juos sunaikinti, o jų tur-
+    tus pasiimti sau už visas skriau-
+    das, patirtas per 3 ištrėmimo
+    metus. Tačiau ir jis ir visi kon-
+    federatai labai apsivylė: Rado-
+    me rusų kariuomenės apsupti, jie buvo priversti pasirašyti konfe-
+    deracijos aktą, kuriuo kvietė prisidėti prie konfederacijos ir kara-
+    lių, pripažino lygias teises kitatikiams, o Kotryną II prašė „priimti
+    pareigą" saugoti Respublikos konstituciją, arba, kaip ją tada
+    vadino, kardinalines teises; be to, iš Rusijos buvo
+    paprašyta garantijos, kad nė viena iš tų teisių nebus pa-
+    keista.
+  citata_rodoma: "Tačiau ir jis ir visi kon-\nfederatai labai apsivylė: Rado-\nme rusų kariuomenės apsupti, jie buvo priversti pasirašyti konfe-\nderacijos aktą, kuriuo kvietė prisidėti prie konfederacijos ir kara-\nlių, pripažino lygias teises kitatikiams, o Kotryną II prašė „priimti\npareigą\" saugoti Respublikos konstituciją, arba, kaip ją tada\nvadino, kardinalines teises; be to, iš Rusijos buvo\npaprašyta garantijos, kad nė viena iš tų teisių nebus pa-\nkeista."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-01784

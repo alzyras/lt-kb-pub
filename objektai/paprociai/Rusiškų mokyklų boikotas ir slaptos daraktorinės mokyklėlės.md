@@ -18,6 +18,18 @@ tags:
   - vyskupas
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės
 
@@ -50,45 +62,121 @@ Nenurodyta
 <a id="claim-t-75389"></a>
 - t-001
   global_id: t-75389
-  teiginys: 'Po 1863–1864 m. sukilimo daraktorinėmis vadintos slaptos mokyklėlės masiškai išplito ir miestuose.'
+  teiginys: "Po 1863–1864 m. sukilimo daraktorinėmis vadintos slaptos mokyklėlės masiškai išplito ir miestuose."
+  temporaliniai_duomenys: "įvykio data: 1863-1864; įvykio data: 1864 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia aiškesnio laiko ir konteksto, kurį pateikia citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "220606-221186; hash=eeec04de1803762bf710ecca58c1c35ceabddc6754096ca0f0f3325b728f1c06; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-003
+    - c-166724
 
 <a id="claim-t-75391"></a>
-- t-002
+- t-004
   global_id: t-75391
-  teiginys: 'Policijos persekiojamos daraktorinės mokyklėlės neišnyko, nes jų poreikis virto tradicija.'
+  teiginys: "Policijos persekiojamos daraktorinės mokyklėlės neišnyko, nes jų poreikis virto tradicija."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "220986-221378; hash=b8082029b3f5546948ea8cbbeb28f1089304d9bb0363dbf4521851c925a1b3f1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> daraktorinės mokyklėlės: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "daraktorinės mokyklėlės: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės\" parinktas kaip owner_note_path. Targetas \"daraktorinės mokyklėlės\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-73192
 
 <a id="claim-t-75392"></a>
-- t-003
+- t-006
   global_id: t-75392
-  teiginys: 'XIX a. pabaigoje etninėje Lietuvoje oficialias pradžios mokyklas lankė itin maža mokyklinio amžiaus vaikų dalis.'
+  teiginys: "XIX a. pabaigoje etninėje Lietuvoje oficialias pradžios mokyklas lankė itin maža mokyklinio amžiaus vaikų dalis."
+  temporaliniai_duomenys: "įvykio data: 1897 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas puslapio ir OCR triukšmas, paliktas šaltinio remiamas faktas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "221380-222075; hash=ce2842959ab18c9d899949ef528cac01a20bcadd5abb7c0cfe0d4ff78be6aa6d; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės: owner_note_path, thing"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-73194
 
 <a id="claim-t-75393"></a>
-- t-004
+- t-002
   global_id: t-75393
-  teiginys: 'Policijos persekiojamos daraktorinės mokyklėlės neišnyko, nes jų poreikis išliko ir susiformavo tokio mokymo tradicija.'
+  teiginys: "Policijos persekiojamos daraktorinės mokyklėlės neišnyko, nes jų poreikis išliko ir susiformavo tokio mokymo tradicija."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "220986-221378; hash=b8082029b3f5546948ea8cbbeb28f1089304d9bb0363dbf4521851c925a1b3f1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> daraktorinės mokyklėlės: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "daraktorinės mokyklėlės: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės\" parinktas kaip owner_note_path. Targetas \"daraktorinės mokyklėlės\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-73192
 
 <a id="claim-t-75394"></a>
-- t-005
+- t-003
   global_id: t-75394
-  teiginys: 'XIX a. pabaigoje Kauno gubernijoje oficialias pradžios mokyklas lankė 21 proc. berniukų ir 4 proc. mergaičių.'
+  teiginys: "XIX a. pabaigoje Kauno gubernijoje oficialias pradžios mokyklas lankė 21 proc. berniukų ir 4 proc. mergaičių."
+  temporaliniai_duomenys: "įvykio data: 1897 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatiškas ir pagrįstas citatos statistika."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "221380-222075; hash=ce2842959ab18c9d899949ef528cac01a20bcadd5abb7c0cfe0d4ff78be6aa6d; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=71"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-73194
 
 <a id="claim-t-183334"></a>
-- t-006
+- t-007
   global_id: t-183334
-  teiginys: 'Po 1863–1864 m. sukilimo vyskupas Motiejus Valančius per kunigus ragino kaimiečius neleisti vaikų į rusiškas mokyklas.'
+  teiginys: "Po 1863–1864 m. sukilimo vyskupas Motiejus Valančius per kunigus ragino kaimiečius neleisti vaikų į rusiškas mokyklas."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1863-1864; įvykio data: 1864 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia išplėsti dalinę nuorodą į aiškiai įvardytą vyskupą ir sutvarkyti sakinį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "220606-221186; hash=eeec04de1803762bf710ecca58c1c35ceabddc6754096ca0f0f3325b728f1c06; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės: owner_note_path, thing"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=73"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
-
+    - c-166724
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -101,6 +189,7 @@ Nenurodyta
     kartais ištremdavo keleriems metams į Rusijos gilumą, tai nieko neatbai-
     dė – buvo poreikis, susiformavo tradicija.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -132,8 +221,9 @@ Nenurodyta
     maž pusė – 48 proc., o rusiškai iš
     jų tepaskaitė tik kas penktas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -152,9 +242,75 @@ Nenurodyta
     slaptas mokyklėles, kur rašto pamokytų koks nors jo mokantis kaimietis.
     Tokios daraktorinėmis vadintos mokyklėlės masiškai išplito ir miestuose.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
     - t-001
+
+## Citatos
+
+- id: c-73192
+  citata_originali: |
+    O kad neliktų beraščiai, patiems kaimuose organizuoti
+    slaptas mokyklėles, kur rašto pamokytų koks nors jo mokantis kaimietis.
+    Tokios daraktorinėmis vadintos mokyklėlės masiškai išplito ir miestuose.
+    Nors tas mokyklėles persekiojo policija, įkliuvusius jų mokytojus valdžia
+    kartais ištremdavo keleriems metams į Rusijos gilumą, tai nieko neatbai-
+    dė – buvo poreikis, susiformavo tradicija.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75393
+
+- id: c-73194
+  citata_originali: |
+    3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
+    117
+    Etninės Lietuvos teritorija vi-
+    soje europinėje Rusijos imperijos
+    dalyje išsiskyrė bene mažiausiu
+    mokyklinio amžiaus vaikų, lan-
+    kančių oficialias pradžios mo-
+    kyklas, procentu – europinėje
+    Rusijos imperijos dalyje XIX a.
+    pabaigoje pradžios mokyklas lan-
+    kė vidutiniškai 66 proc. berniukų
+    ir 18 proc. mergaičių, o Kauno
+    gubernijoje tie skaičiai buvo ati-
+    tinkamai 21 proc. ir 4 proc. Ta-
+    čiau pirmasis visuotinis Rusijos
+    imperijos gyventojų surašymas
+    1897 m. parodė, kad tarp etninių
+    lietuvių mokančių skaityti yra be-
+    maž pusė – 48 proc., o rusiškai iš
+    jų tepaskaitė tik kas penktas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75392
+    - t-75394
+
+- id: c-166724
+  citata_originali: |
+    Valdžiai nepavyko į savo pusę patraukti valstiečių – mat didelės dalies
+    etninės Lietuvos kaimo gyventojams vyskupo M. Valančiaus pastangomis
+    buvo įdiegta nuostata mokytis skaityti ir rašyti gimtąja kalba. Po 1863–
+    1864 m. sukilimo leidus steigti tik rusiškas mokyklas, kuriose mokytų
+    rusai, vyskupas per patikimus kunigus paragino kaimiečius vaikų į tokias
+    mokyklas neleisti. O kad neliktų beraščiai, patiems kaimuose organizuoti
+    slaptas mokyklėles, kur rašto pamokytų koks nors jo mokantis kaimietis.
+    Tokios daraktorinėmis vadintos mokyklėlės masiškai išplito ir miestuose.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183334
+    - t-75389

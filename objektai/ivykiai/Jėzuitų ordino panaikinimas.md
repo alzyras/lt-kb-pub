@@ -18,6 +18,18 @@ tags:
   - vyskupas
 amziai:
   - 'XVIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jėzuitų ordino panaikinimas
 
@@ -44,18 +56,44 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-77883"></a>
-- t-001
+- t-002
   global_id: t-77883
-  teiginys: '1773 m. įkurta Edukacinė komisija turėjo perimti panaikinto jėzuitų ordino švietimo sistemą.'
+  teiginys: "1773 m. įkurta Edukacinė komisija turėjo perimti panaikinto jėzuitų ordino švietimo sistemą."
+  temporaliniai_duomenys: "įvykio data: 1773 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie panaikinto jėzuitų ordino švietimo sistemą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "160798-161285; hash=b58283922c4a462e49bb86ed3da6457085a1e422ab06b95246bdb5c6788b4490; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Edukacinė Komisija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jėzuitų ordino panaikinimas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Edukacinė Komisija: mention_match, group, gap=45"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jėzuitų ordino panaikinimas\" parinktas kaip owner_note_path. Targetas \"Edukacinė Komisija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-75201
 
 <a id="claim-t-77884"></a>
-- t-002
+- t-001
   global_id: t-77884
-  teiginys: 'Jėzuitų ordino panaikinimas 1773 m. kartais laikomas vienu Apšvietos epochos pradžios įvykių.'
+  teiginys: "Jėzuitų ordino panaikinimas 1773 m. kartais laikomas vienu Apšvietos epochos pradžios įvykių."
+  temporaliniai_duomenys: "įvykio data: 1767 m.; įvykio data: 1769 m.; įvykio data: 1773 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys per platus ir išvardija kelis įvykius, todėl sutrumpintas iki note objekto."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "129778-130250; hash=9d371acffe7001c355ae7a56b123c1c1c4f9d60d8ec5433f2bc0e6aabb0307bd; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baroko epocha: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jėzuitų ordino panaikinimas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Baroko epocha: mention_match, thing, gap=69"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jėzuitų ordino panaikinimas\" parinktas kaip owner_note_path. Targetas \"Baroko epocha\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-75200
 - susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46009|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai kartais laikomi Apšvietos epochos pradžia.
 - susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46005|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Antano Tyzenhauzo reformos datuojamos 1767 m. ir siejamos su Apšvietos epochos pradžia.
 - susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46007|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Antano Tyzenhauzo 1767 m. reformos kartais laikomos vienu iš Apšvietos epochos pradžios įvykių.
@@ -81,6 +119,7 @@ Nenurodyta
     Baroko epocha valstybės istorijos požiūriu – tai Lenkijos ir Lietuvos
     sąjunga, sukurta Liublino unijos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -99,8 +138,46 @@ Nenurodyta
     švietimo provincijas, o šios – į apygardas. Lietuvos provincijos švietimą
     tvarkė reformuotas Vilniaus universitetas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-75200
+  citata_originali: |
+    L I E T U V O S  I S T O R I J A
+    68
+    Baroką pamažu keitė klasicizmas, tačiau šis stilius suklestės tik pačioje
+    XVIII a. pabaigoje. Antano Tyzenhauzo reformos (1767 m.), Povilo Ksa-
+    vero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino
+    panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai
+    kartais laikomi Apšvietos epochos pradžia.
+    Baroko epocha valstybės istorijos požiūriu – tai Lenkijos ir Lietuvos
+    sąjunga, sukurta Liublino unijos.
+  citata_rodoma: "L I E T U V O S  I S T O R I J A\n68\nBaroką pamažu keitė klasicizmas, tačiau šis stilius suklestės tik pačioje \nXVIII a. pabaigoje. Antano Tyzenhauzo reformos (1767 m.), Povilo Ksa-\nvero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino \npanaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai \nkartais laikomi Apšvietos epochos pradžia."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77884
+
+- id: c-75201
+  citata_originali: |
+    Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus
+    vyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švie-
+    timo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino
+    švietimo sistemą. Edukacinė komisija ėmėsi permainų ir stengėsi sukur-
+    ti vientisą švietimo sistemą. Valstybė buvo padalyta į Lenkijos ir Lietuvos
+    švietimo provincijas, o šios – į apygardas. Lietuvos provincijos švietimą
+    tvarkė reformuotas Vilniaus universitetas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77883

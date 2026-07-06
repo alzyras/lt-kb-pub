@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Zajączkowski S
 
@@ -19,10 +31,14 @@ Dusburgietis teigia, kad abejojama, kad buvusios 4 gentinės jotvingių teritori
 <a id="claim-t-91936"></a>
 - t-001
   global_id: t-91936
-  teiginys: 'Abejojama, kad buvusios 4 gentinės jotvingių teritorijos (Zajączkowski S., Uwagi..., p. 91).'
+  teiginys: "Abejojama, kad buvusios 4 gentinės jotvingių teritorijos (Zajączkowski S., Uwagi..., p. 91)."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "199144-199371; hash=f2753b951afdf2ef0656e9ef9bb24328198020edcbbdc42a57345c36c2993086; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
-    - c-001
-
+    - c-87577
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -34,8 +50,24 @@ Dusburgietis teigia, kad abejojama, kad buvusios 4 gentinės jotvingių teritori
     p. 124). Abejojama, kad buvusios 4 gentinės jotvingių teritorijos (Zajączkowski S.,
     Uwagi..., p. 91).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-87577
+  citata_originali: |
+    Vengoževo (Węgorzewo) apylinkėse —
+    (Okulicz J. Pradzieje..., p. 466) arba į pietryčius nuo Suduonios (Powierski J., Uwagi...,
+    p. 124). Abejojama, kad buvusios 4 gentinės jotvingių teritorijos (Zajączkowski S.,
+    Uwagi..., p. 91).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91936

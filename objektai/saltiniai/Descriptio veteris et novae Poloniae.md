@@ -13,6 +13,18 @@ tags:
   - saltinis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Descriptio veteris et novae Poloniae
 
@@ -25,10 +37,12 @@ Kai kurie mūsų senieji autoriai taip pat rašo - Vigilia, užuot rašę Vilija
 <a id="claim-t-88416"></a>
 - t-001
   global_id: t-88416
-  teiginys: 'Sarnickio „Descriptio veteris et novae Poloniae“ pateikiama forma „Vigilia“ vietoje upės vardo „Vilija“.'
+  teiginys: "Sarnickio „Descriptio veteris et novae Poloniae“ pateikiama forma „Vigilia“ vietoje upės vardo „Vilija“."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "57582-57765; hash=f287d55539f8ddb542fccbff3f8f5d74cfe6512f5e6e09aa80e0b09acaeb44b2; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
-
+    - c-84395
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,8 +56,26 @@ Kai kurie mūsų senieji autoriai taip pat rašo - Vigilia, užuot rašę Vilija
     vae Poloniae etc. Dlugošo Edyc.
     Lips. p. 1926. T. II.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-84395
+  citata_originali: |
+    Kai
+    kurie mūsų senieji autoriai taip pat
+    rašo - Vigilia, užuot rašę Vilija, pvz.,
+    S a r n i c k i s Descriptio veteris et no­
+    vae Poloniae etc. Dlugošo Edyc.
+    Lips. p. 1926. T. II.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88416

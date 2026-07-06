@@ -19,6 +19,18 @@ tags:
 amziai:
   - 'XVI'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Mozyrius
 
@@ -29,39 +41,111 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
 ## Teiginiai
 
 <a id="claim-t-68717"></a>
-- t-001
+- t-003
   global_id: t-68717
-  teiginys: 'Ties Lojevu žygio dalyviai persikėlė į dešinįjį Dniepro krantą ir pasuko vakarų kryptimi Mozyriaus bei Slucko link.'
+  teiginys: "Ties Lojevu žygio dalyviai persikėlė į dešinįjį Dniepro krantą ir pasuko vakarų kryptimi Mozyriaus bei Slucko link."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "305502-305820; hash=c15f55221ce9a73c3f67618ba100f030b66a3e4b10aa07c1b4b8f62ec250d186; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Sluckas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mozyrius: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Sluckas: mention_match, place, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mozyrius\" parinktas kaip owner_note_path. Targetas \"Sluckas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-43658
 
 <a id="claim-t-68718"></a>
-- t-002
+- t-005
   global_id: t-68718
-  teiginys: 'Maišto vadui pavyko užimti tik Mozyrių ir Turovą, o Sluckas ir Minskas jam nepasidavė.'
+  teiginys: "Maišto vadui pavyko užimti tik Mozyrių ir Turovą, o Sluckas ir Minskas jam nepasidavė."
+  temporaliniai_duomenys: "įvykio data: 1535 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "86445-86946; hash=98b2658864152d32c1615e5b7dff1e2f809caca0526117eb8856d8f5ac150144; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Minskas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mozyrius: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Minskas: mention_match, place, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mozyrius\" parinktas kaip owner_note_path. Targetas \"Minskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-002
+    - c-68225
 
 <a id="claim-t-68719"></a>
-- t-003
+- t-006
   global_id: t-68719
-  teiginys: 'Maišto vadui pavyko užimti Mozyrių ir Turovą, bet Sluckas ir Minskas jam nepasidavė.'
+  teiginys: "Maišto vadui pavyko užimti Mozyrių ir Turovą, bet Sluckas ir Minskas jam nepasidavė."
+  temporaliniai_duomenys: "įvykio data: 1535 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "86445-86946; hash=98b2658864152d32c1615e5b7dff1e2f809caca0526117eb8856d8f5ac150144; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Minskas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mozyrius: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Minskas: mention_match, place, gap=34"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mozyrius\" parinktas kaip owner_note_path. Targetas \"Minskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-68225
 
 <a id="claim-t-185052"></a>
 - t-004
   global_id: t-185052
-  teiginys: 'Skirmantas iš priešo rankų atėmė Mozyrių, Starodubą, Černigovą, Karačevą ir beveik visą Seversko žemę.'
+  teiginys: "Skirmantas iš priešo rankų atėmė Mozyrių, Starodubą, Černigovą, Karačevą ir beveik visą Seversko žemę."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Skirmantas užėmė Mozyrius (0.90); Skirmantas užėmė Karačevas (0.88); Skirmantas užėmė Severskas (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1535 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys gramatiškas ir aiškiai susijęs su Mozyriumi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "86445-86946; hash=98b2658864152d32c1615e5b7dff1e2f809caca0526117eb8856d8f5ac150144; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Mozyrius: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skirmantas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Mozyrius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Skirmantas atėmė Mozyrių iš priešo rankų."
   pagrindžia:
-    - c-003
+    - c-168413
 
 <a id="claim-t-187617"></a>
 - t-005
   global_id: t-187617
-  teiginys: 'Lietuvos metraštis pasakoja, kad didysis kunigaikštis Skirmantas po pergalės Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą.'
+  teiginys: "Lietuvos metraštis pasakoja, kad didysis kunigaikštis Skirmantas po pergalės Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Skirmantas užėmė Mozyrius (0.90); Skirmantas užėmė Starodubas (0.88); Skirmantas užėmė Karačevas (0.88)"
+  temporaliniai_duomenys: "įvykio data: 1535 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Kronikos valdovo titului ir pasakojimo faktui reikia atribucijos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "86445-86946; hash=98b2658864152d32c1615e5b7dff1e2f809caca0526117eb8856d8f5ac150144; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Mozyrius: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skirmantas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Mozyrius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Skirmantas paėmė Mozyrių."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-004
+    - c-170564
 - susijęs iš [[objektai/ivykiai/Skirmanto pergalė prie Kaidanovo.md#claim-t-187490|Skirmanto pergalė prie Kaidanovo]]: Lietuvos metraštis pasakoja, kad po pergalės Skirmantas užėmė Mozyriaus, Černigovo, Starodubo ir Karačevo miestus.
 - susijęs iš Karačevas: Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų žemę ir paėmęs Karačevą su kitais miestais.
 - susijęs iš Karačevas: Skirmantas po pergalės prieš chaną Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą.
@@ -116,6 +200,7 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
     karų kryptimi Mozyriaus ir Slucko link.
     Galiausiai apie liepos 20-22 d. jie sustojo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -137,6 +222,7 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
     sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-
     zyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -167,6 +253,7 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
     šiapus
     Neries, Naugarduko ir Poleksijos kunigaikštystes.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -191,11 +278,103 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
     Turėjo didysis kunigaikštis Skirmantas tris sūnus:
     vieną Treniotą IS , antrą Liubartą l6 , trečią Pisimantą l7 .
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
+## Citatos
+
+- id: c-43658
+  citata_originali: |
+    Jodami stepėmis tarp
+    Lietuvos ir Maskvos valdų jie kasdien su-
+    kardavo maždaug po 25 km ir per 50 dienų
+    įveikė apie 900 km atstumą. Ties Lojevu jie
+    persikėlė į dešinįjį Dniepro krantą ir pa-
+    spartinę žygio tempą pasileido tiesiai va-
+    karų kryptimi Mozyriaus ir Slucko link.
+    Galiausiai apie liepos 20-22 d. jie sustojo.
+  citata_rodoma: "Ties Lojevu jie\npersikėlė į dešinįjį Dniepro krantą ir pa-\nspartinę žygio tempą pasileido tiesiai va-\nkarų kryptimi Mozyriaus ir Slucko link.\nGaliausiai apie liepos 20-22 d."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-68717
+
+- id: c-68225
+  citata_originali: |
+    Be to, Lietuvos po-
+    nai, jo priešai, norėdami jį
+    pražudyti, grasino jam iš-
+    kelti bylą tarsi už Aleksan-
+    dro nužudymą. Visa tai
+    matydamas, jis sumanė už-
+    grobti kuo daugiausia Lie-
+    tuvos žemių ir pasiduoti Maskvos kunigaikščiui Vosyliui III
+    (1505—1535 m.). Tačiau jis kiek apsivylė: Maskvos pasienio
+    sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-
+    zyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė.
+  citata_rodoma: "Maskvos pasienio\nsritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-\nzyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-68718
+    - t-68719
+
+- id: c-168413
+  citata_originali: |
+    Skirman­
+    tas, nepasitenkindamas šia pergale, vedė toliau kariuo­
+    menę, kad, išvadavęs iš skitų jungo daugelį Rusios
+    miestų, toliau nuo savęs nustumtų priešą. Jo sumany­
+    mą lydėjo sėkmė, jis išplėšė iš priešo rankų Mozyrių,
+    Starodubą, Černigovą, Karačevą ir beveik visą Severs-
+    ko žemę. Tada, sūnums Liu-
+    L ietu via i, iš v iję  s k i-
+    bartui ir Pisimantui atidalijęs
+    tus, u žim a M o zy rių  ir
+    šias
+    sritis,
+    jauniausiajam
+    v is ą  S e v e rsk o  že m ę
+    Treniotai testamentu pasky­
+    rė Lietuvos žemes
+    šiapus
+    Neries, Naugarduko ir Poleksijos kunigaikštystes.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185052
+
+- id: c-170564
+  citata_originali: |
+    50
+
+    ## Puslapis 48
+
+    Didysis kunigaikštis Skirmantas, surinkęs visas sa­
+    vo kariaunas, pasitiko juos Kaidanove l0 , prie savo sie­
+    nos. Nugalėjo tą chaną, ir sumušė visą jo totoriškąją
+    galybę, ir nukovė patį chaną ", Su didžios pergalės
+    šlove nužygiavo Rusų žemėn ir paėmė Mozyriaus
+    Černigovo, Starodubo l3 , Karačevo M  miestus, ir, laimė­
+    jęs pergalę, be nuostolių pargrįžo atgalios.
+    Turėjo didysis kunigaikštis Skirmantas tris sūnus:
+    vieną Treniotą IS , antrą Liubartą l6 , trečią Pisimantą l7 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187617
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Totoriai]]

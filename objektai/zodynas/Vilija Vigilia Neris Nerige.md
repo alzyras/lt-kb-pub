@@ -18,6 +18,18 @@ tags:
 amziai:
   - 'XIV'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vilija Vigilia Neris Nerige
 
@@ -28,33 +40,75 @@ amziai:
 ## Teiginiai
 
 <a id="claim-t-86445"></a>
-- t-001
+- t-002
   global_id: t-86445
-  teiginys: '1390 m. Vladislovo Jogailos privilegijoje Vilniaus kapitulai Vilija buvo pavadinta Vigilia.'
+  teiginys: "1390 m. Vladislovo Jogailos privilegijoje Vilniaus kapitulai Vilija buvo pavadinta Vigilia."
+  temporaliniai_duomenys: "įvykio data: 1390 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra užbaigtas, aiškus ir tiksliai atitinka citatos informaciją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "57140-57765; hash=9d4e0c4a79dfef386a3014152c2b8fecad18efac5f33aedcf93171fe5f825b90; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilija Vigilia Neris Nerige: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vilija: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilija Vigilia Neris Nerige\" parinktas kaip owner_note_path. Targetas \"Vilija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-82424
 
 <a id="claim-t-86446"></a>
-- t-002
+- t-001
   global_id: t-86446
-  teiginys: 'Vilijos vardas, jei jo kilmė lietuviška, gali būti siejamas su žodžiais „vilioju“ arba „vylius“, todėl reikštų „Vilioklė“.'
+  teiginys: "Vilijos vardas, jei jo kilmė lietuviška, gali būti siejamas su žodžiais „vilioju“ arba „vylius“, todėl reikštų „Vilioklė“."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "56558-56935; hash=5790f280878bcf0927dd18f5bdedca05df5844ccf8f713cb427b3960a0d14bec; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilija Vigilia Neris Nerige: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilija Vigilia Neris Nerige\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-82427
 
 <a id="claim-t-86447"></a>
-- t-003
+- t-004
   global_id: t-86447
-  teiginys: 'Vilija seniau vadinta Neris arba Neria, nes, autoriaus manymu, upė išrausė gilią vagą ir suformavo aukštas smėlingas pakrantes.'
+  teiginys: "Vilija seniau vadinta Neris arba Neria, nes, autoriaus manymu, upė išrausė gilią vagą ir suformavo aukštas smėlingas pakrantes."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "58931-59515; hash=7ca05f8595dd34f7f9b3319410ccf5bf91979130eb815c89c99b69093dbc8773; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Neris: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilija Vigilia Neris Nerige: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Neris: mention_match, place, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilija Vigilia Neris Nerige\" parinktas kaip owner_note_path. Targetas \"Neris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-82426
 
 <a id="claim-t-86448"></a>
-- t-004
+- t-003
   global_id: t-86448
-  teiginys: 'Kryžiuočių archyvo senajame Lietuvos kelių aprašyme minima Nerige yra dabartinė Vilija.'
+  teiginys: "Kryžiuočių archyvo senajame Lietuvos kelių aprašyme minima Nerige yra dabartinė Vilija."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "57766-58260; hash=7a013baee13198180e75cea425ef1f5072c180cc4bdeb57ffc41825a646f4f16; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilija Vigilia Neris Nerige: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vilija: mention_match, place, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilija Vigilia Neris Nerige\" parinktas kaip owner_note_path. Targetas \"Vilija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
-
+    - c-82425
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -79,6 +133,7 @@ amziai:
     vae Poloniae etc. Dlugošo Edyc.
     Lips. p. 1926. T. II.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -105,6 +160,7 @@ amziai:
     ją taip pat vadina - Nerga, Nerge, Ne-
     rye ir Neria.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -133,6 +189,7 @@ amziai:
     lenkiškai jų puikioji upė vadinama
     Wilja.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -156,8 +213,108 @@ amziai:
     nišus, klajojančius po gūdžias girias
     senovės lietuvius ir jų vaidilas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-82424
+  citata_originali: |
+    Bet jeigu upei Vili­
+    jos vardas buvo duotas Vilniaus gy­
+    ventojų krikšto laikais, valdant Jo­
+    gailai, tai tas žodis turėtų paeiti nuo
+    W igilja. Juk randama, kad Vilniaus
+    kapitulai 1390 metais Vladislovo Jo­
+    gailos duotoje privilegijoje, kuria do­
+    vanojami Paneriai, Vilija yra pava­
+    dinta Vigilia:  obstaculum in superiori
+    parte nostri obstaculi, in fluvio Vigilia
+    situati [aukštutinėje dalyje mūsų už­
+    kardos, Vigilijos upėje esančios]. Kai
+    kurie mūsų senieji autoriai taip pat
+    rašo - Vigilia, užuot rašę Vilija, pvz.,
+    S a r n i c k i s Descriptio veteris et no­
+    vae Poloniae etc. Dlugošo Edyc.
+    Lips. p. 1926. T. II.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86445
+
+- id: c-82425
+  citata_originali: |
+    Anksčiau kitaip
+    buvo vadinama arba turėjo ir kitą
+    vardą - Neris, nuo to rasi, kad glū­
+    dėjo tarp iškilių kalnų arba tikriausia,
+    kad žiūrinčiajam nuo aukštų kalnų
+    atrodė tarsi panirusi - lietuviškai -
+    Panerta, nuo ko ją supantys kalnai
+    ir mūsų laikais vadinami Paneriais.
+    Upė Nerige, dažnai minima senovi­
+    niame Lietuvos kelių aprašyme,
+    esančiame Kryžiuočių archyve, yra
+    dabartinė Vilija. Vygandas ir
+    Lindenblattas, kronikininkai,
+    ją taip pat vadina - Nerga, Nerge, Ne-
+    rye ir Neria.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86448
+
+- id: c-82426
+  citata_originali: |
+    Tačiau gali būti dar vie­
+    nas Neries vardo kilmės šaltinis. Lat­
+    vių kalboje Nereht reiškia „išgriebti,
+    paplauti". (Stenders Lettisch. Wörter­
+    buch). Iš kur kilo Nehrung arba Ne-
+    hring - vokiečių kalboje didžiulių
+    smėlio kaupų jūrų įlankose pavadi­
+    nimas [neringa]. Prūsijos dokumen­
+    tuose dar XIII amžiuje ji vadinta Ne­
+    ria. Tad, manau, jog lietuviai seniau
+    vadino Vilija, Neris arba Neria to­
+    dėl, kad ši upė išrausė sau gilią va­
+    gą, suformuodama aukštas smėlin­
+    gas pakrantes. Mūsų kaimiečiai
+    lietuviai taria „Niaris" ir sako, esą
+    lenkiškai jų puikioji upė vadinama
+    Wilja.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86447
+
+- id: c-82427
+  citata_originali: |
+    Studija apie Vilniaus
+    atsiradimą.
+    5
+    Žodį Vilija, jeigu jo kilmės imtume
+    ieškoti lietuvių kalboje, galima tarti
+    kilus nuo Wiloju [vilioju] - gundau,
+    arba nuo Wilius [vylius] - klasta, tad
+    tokiu atveju Vilija reikštų Vilioklė.
+    Gal dėl to, kad ta nuostabi upė vi­
+    liojo ir masino prie savo krantų vie­
+    nišus, klajojančius po gūdžias girias
+    senovės lietuvius ir jų vaidilas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86446

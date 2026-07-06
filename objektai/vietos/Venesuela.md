@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Venesuela
 
@@ -19,9 +31,20 @@ Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Ven
 <a id="claim-t-21870"></a>
 - t-001
   global_id: t-21870
-  teiginys: 'Venesuela buvo viena Pietų Amerikos šalių, į kurias daugiausia vyko lietuviai.'
+  teiginys: "Venesuela buvo viena Pietų Amerikos šalių, į kurias daugiausia vyko lietuviai."
+  semantiniai_rysiai: "Lietuviai keliavo į Venesuela (0.96); Lietuviai keliavo į Urugvajus (0.92)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "353557-353933; hash=bc4f096a5c95f72181ce438c6b1e67d0530acca8cdd1693b6073484374cf4420; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Venesuela: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Venesuela: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad lietuviai vyko į Venesuelą."
   pagrindžia:
-    - c-001
+    - c-24549
 - susijęs iš Brazilija: Tarpukariu lietuviai daugiausia emigravo į Pietų Amerikos šalis, įskaitant Argentiną, Braziliją, Venesuelą ir Urugvajų.
 - susijęs iš [[objektai/grupes/Užsienio lietuviai.md#claim-t-20055|Užsienio lietuviai]]: Per 20 metų lietuviai iš Lietuvos daugiausia emigravo į Pietų Amerikos šalis: Argentiną, Braziliją, Venesuelą ir Urugvajų.
 - susijęs iš Argentina: Argentina buvo viena Pietų Amerikos šalių, į kurias daugiausia vyko lietuviai emigrantai.
@@ -47,11 +70,30 @@ Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Ven
     vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV. Lietuviai vyko daugiausia į
     Pietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-24549
+  citata_originali: |
+    Neprasigy-
+    venę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į
+    Pietų Amerikos šalis, nes JAV įvedė imigracijos kvotas. Per 20 metų iš
+    šalies emigravo apie 100 000 gyventojų, iš jų apie 30 proc. sudarė žydai,
+    vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV. Lietuviai vyko daugiausia į
+    Pietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų).
+  citata_rodoma: "Pietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-21870
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]

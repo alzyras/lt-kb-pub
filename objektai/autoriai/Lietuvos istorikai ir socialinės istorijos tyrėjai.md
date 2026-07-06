@@ -6,11 +6,6 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
-description: 'Lietuvos istorikų ir socialinės istorijos tyrėjų darbai apie kovas, sukilimus, švietimą, ūkį ir spaudos draudimą.'
-socialDescription: 'Lietuvos istorikų darbų apžvalga: nuo kovų su ordinais iki sukilimų, švietimo reformų, ūkio istorijos ir spaudos draudimo tyrimų.'
-seo_atnaujinta: '2026-07-02T23:12:35.420755+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -20,85 +15,218 @@ tags:
   - tauta
 amziai: []
 periodo_grupes: []
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvos istorikai ir socialinės istorijos tyrėjai
 
 ## Santrauka
 
-Įrašas apžvelgia Lietuvos istorikus ir socialinės istorijos tyrėjus, rašiusius apie Lietuvos istorijos, teisės, ūkio, švietimo ir spaudos draudimo temas. Minimi P. Pakarklis, R. Jasas, M. Jučas, R. Vėbra, A. Šidlauskas, P. Dundulienė, R. Marčėnas, A. Makarevičius ir kiti autoriai. Tekste išryškinami darbai apie kovas su kryžiuočiais ir kalavijuočiais, 1831 m. ir 1863 m. sukilimus, 1905-1907 m. revoliuciją, Prūsijos lietuvių vokietinimą bei XIX a. spaudos draudimą.
+Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė istorikų, kaip R. , 57-74 p. (^105) Parašė, be kitko : Lietuvių kova prieš kalavijuočius (1945), Kry­ žiuočių valstybės santvarkos bruožai (1948) ; vienašališkai poleminė yra jo knyga Popiežiai lietuvių tautos priešai (1948).
 
 ## Teiginiai
 
 <a id="claim-t-179531"></a>
-- t-001
+- t-013
   global_id: t-179531
-  teiginys: 'R. Vėbra nemažai rašė lietuviškos spaudos draudimo XIX a. klausimais.'
+  teiginys: "R. Vėbra nemažai rašė lietuviškos spaudos draudimo XIX a. klausimais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "225677-225764; hash=fb7c5fcf5cd762350907f06dc727c163ede1304b86ee67474975aa052a458520; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> R. Vėbra: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos istorikai ir socialinės istorijos tyrėjai: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "R. Vėbra: mention_match, author, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos istorikai ir socialinės istorijos tyrėjai\" parinktas kaip owner_note_path. Targetas \"R. Vėbra\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-34219
 
 <a id="claim-t-179533"></a>
-- t-002
+- t-014
   global_id: t-179533
-  teiginys: 'A. Šidlauskas atkreipė dėmesį į mokyklų reformą Lietuvoje XVIII a. pabaigoje.'
+  teiginys: "A. Šidlauskas atkreipė dėmesį į mokyklų reformą Lietuvoje XVIII a. pabaigoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "225765-226142; hash=588305a8bf949c42e5b7e4f0551c9c31827939a1f43014fa24e85bd83c75e831; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos istorikai ir socialinės istorijos tyrėjai: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos istorikai ir socialinės istorijos tyrėjai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-34220
 
 <a id="claim-t-179535"></a>
-- t-003
+- t-001
   global_id: t-179535
-  teiginys: 'P. Pakarklis gvildeno Lietuvos istorijos klausimus ir ypač rašė apie teutonų ordinus.'
+  teiginys: "P. Pakarklis gvildeno Lietuvos istorijos klausimus ir ypač rašė apie teutonų ordinus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "213079-213555; hash=07e56108b63644f9bbfa48c9ad01d1beb60984fe6e2cd508d34becf4fe1767dc; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> LTSR Mokslų Akademijos Istorijos Institutas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos istorikai ir socialinės istorijos tyrėjai: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "LTSR Mokslų Akademijos Istorijos Institutas: mention_match, group, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos istorikai ir socialinės istorijos tyrėjai\" parinktas kaip owner_note_path. Targetas \"LTSR Mokslų Akademijos Istorijos Institutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-010
+    - c-163220
 
 <a id="claim-t-179536"></a>
-- t-004
+- t-002
   global_id: t-179536
-  teiginys: 'R. Jasas ir M. Jučas buvo tarp istorikų, aprašiusių lietuvių kovas su kryžiuočiais ir kalavijuočiais.'
+  teiginys: "R. Jasas ir M. Jučas buvo tarp istorikų, aprašiusių lietuvių kovas su kryžiuočiais ir kalavijuočiais."
+  semantiniai_rysiai: "Lietuviai kariavo prieš Kryžiuočių ordinas (0.90); Lietuviai kariavo prieš Kalavijuočių ordinas (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1260-1274; įvykio data: 1274 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata įvardija autorius ir temą, bet pradinė formuluotė nutrūkusi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "213269-213769; hash=00ff28687bdbd25574ac5171d529b87d47b92425b2c7f602c98994690a0fcf69; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Kalavijuočių ordinas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kalavijuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai mini lietuvių kovas su kalavijuočiais."
   pagrindžia:
-    - c-001
+    - c-34211
 
 <a id="claim-t-179537"></a>
-- t-005
+- t-016
   global_id: t-179537
-  teiginys: 'L. Vladimirovas rašė apie caro vyriausybės politiką kultūros ir švietimo srityje Lietuvoje 1871-1904 m.'
+  teiginys: "L. Vladimirovas rašė apie caro vyriausybės politiką kultūros ir švietimo srityje Lietuvoje 1871-1904 m."
+  temporaliniai_duomenys: "įvykio data: 1871-1904; įvykio data: 1904 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis tekstas yra nutrūkęs bibliografinis fragmentas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "228183-228883; hash=0b73860ea6417bdd67f3254defb911bf7f070ecb8f28368cdd0abe3f6316815a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos istorikai ir socialinės istorijos tyrėjai: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos istorikai ir socialinės istorijos tyrėjai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-34222
 
 <a id="claim-t-179538"></a>
 - t-006
   global_id: t-179538
-  teiginys: 'P. Dundulienė, R. Marčėnas ir A. Makarevičius rašė apie žemdirbystės istoriją Lietuvoje ir ekonomikos klausimus.'
+  teiginys: "P. Dundulienė, R. Marčėnas ir A. Makarevičius rašė apie žemdirbystės istoriją Lietuvoje ir ekonomikos klausimus."
+  temporaliniai_duomenys: "įvykio data: 1769 m.; įvykio data: 1783-1832; įvykio data: 1832 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata aiškiai pagrindžia autorių ir tyrimų temų sąsają."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "219512-220357; hash=5521f5937ce04aea95db0d16c547d235f260d87e62acf1e87bdd98a7acdc9daf; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos istorikai ir socialinės istorijos tyrėjai: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos istorikai ir socialinės istorijos tyrėjai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-34215
 
 <a id="claim-t-179539"></a>
-- t-007
+- t-015
   global_id: t-179539
-  teiginys: 'P. Žostautaitė tyrė Prūsijos lietuvių vokietinimą ir pasipriešinimą jam 1848-1914 m.'
+  teiginys: "P. Žostautaitė tyrė Prūsijos lietuvių vokietinimą ir pasipriešinimą jam 1848-1914 m."
+  temporaliniai_duomenys: "įvykio data: 1848-1914; įvykio data: 1868-1914; įvykio data: 1914 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia autorę, temą ir laikotarpį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "226143-226794; hash=0b22f1db3c504862a6b7fa08444a3f49a3f351a391d73f21e3cb215b0839a628; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos istorikai ir socialinės istorijos tyrėjai: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos istorikai ir socialinės istorijos tyrėjai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-34221
 
 <a id="claim-t-179542"></a>
-- t-008
+- t-009
   global_id: t-179542
-  teiginys: 'R. Strazdūnaitė 1959 m. paskelbė darbą „Valstiečių kasos ir teismai Lietuvoje XIX a. pirmojoje pusėje“.'
+  teiginys: "R. Strazdūnaitė 1959 m. paskelbė darbą „Valstiečių kasos ir teismai Lietuvoje XIX a. pirmojoje pusėje“."
+  temporaliniai_duomenys: "įvykio data: 1831 m.; įvykio data: 1959 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus bibliografinis sakinys, paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "222418-222770; hash=adebababd40511232e78f0527ddbb07febec71722e49ca7b9875cd4dc32a942d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos istorikai ir socialinės istorijos tyrėjai: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos istorikai ir socialinės istorijos tyrėjai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-34216
 
 <a id="claim-t-179544"></a>
-- t-009
+- t-011
   global_id: t-179544
-  teiginys: 'P. Girdzijauskienė parašė veikalą „1905-1907 metų revoliucija Lietuvoje“.'
+  teiginys: "P. Girdzijauskienė parašė veikalą „1905-1907 metų revoliucija Lietuvoje“."
+  temporaliniai_duomenys: "įvykio data: 1905 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia atkurti pilną autorės pavardę ir veikalo pavadinimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "223216-223801; hash=49993790693b57436a674bcd04625109e72849b96b466353beeb339572a3e994; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> L. Mulevičius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos istorikai ir socialinės istorijos tyrėjai: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "L. Mulevičius: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos istorikai ir socialinės istorijos tyrėjai\" parinktas kaip owner_note_path. Targetas \"L. Mulevičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-34218
 
 <a id="claim-t-179545"></a>
 - t-010
   global_id: t-179545
-  teiginys: 'L. Bičkauskas-Gentvila 1958 m. rašė apie 1863 m. sukilimą Lietuvoje ir Baltarusijoje.'
+  teiginys: "L. Bičkauskas-Gentvila 1958 m. rašė apie 1863 m. sukilimą Lietuvoje ir Baltarusijoje."
+  temporaliniai_duomenys: "įvykio data: 1831 m.; įvykio data: 1861-1913; įvykio data: 1863 m.; įvykio data: apie 1863 m.; įvykio data: 1913 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Citata leidžia pridėti datą ir pašalinti perteklinį kontekstą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "222470-223215; hash=55c264ab032efd3d128a055c1ce62222b774697ca446d59edc73ede42d155419; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltarusija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos istorikai ir socialinės istorijos tyrėjai: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Baltarusija: mention_match, place, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos istorikai ir socialinės istorijos tyrėjai\" parinktas kaip owner_note_path. Targetas \"Baltarusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
-
+    - c-34217
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -115,6 +243,7 @@ periodo_grupes: []
     R. J a s a s : _Didysis prūsų sukilimas 1260-1274 m._ (1959), M. J u-
     čas: _Žalgirio mūšis_ (1959)^106 , R. Varakauskas: _Pilėnų_
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -140,6 +269,7 @@ periodo_grupes: []
     Mokslų Akademijos Centrinės bibliotekos XI-XX amžių rankraščių
     fondų trumpa apžvalga_ (1963).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -158,6 +288,7 @@ periodo_grupes: []
     (Ekonomika, t. 2, 1962). 1831 m. sukilimą liečia F. Sliesoriūno
     straipsniai^117.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -182,6 +313,7 @@ periodo_grupes: []
     O. Maksimaitienė pateikė duomenų apie sukilėlių kovinius
     veiksmus 1863 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -202,6 +334,7 @@ periodo_grupes: []
     liet. spaudinių gotiškomis raidėmis uždraudimo (BBK, t. 6, 1967,
     **_1812 m._** **(IstV, t. 4, 1963, 89-103 p.) ;** **_Projektas atkurti Lietuvos Did.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -215,6 +348,7 @@ periodo_grupes: []
     171-174p.). Lietuviškos spaudos draudimo XIX a. klausimais ne­
     mažai rašė R. Vėbra^128.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -233,6 +367,7 @@ periodo_grupes: []
     (AkMD, t. 11, 1961, 133-142 p.); apie to laiko istorijos vadovėlius
     (AkMD, t. 12, sąs. 2, 1972).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -255,6 +390,7 @@ periodo_grupes: []
     P. Žostautaitė: Prūsijos lietuvių vokietinimas ir pasipriešini­
     mas jam 1848-1914 m. (AkMD, t. 26, 1968, 59-72 p.).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -275,6 +411,7 @@ periodo_grupes: []
     t. 6, 1959, 169-190 p.; t. 8, 1960, 93-120 p.; t. 10, 1961, 49-69 p. ; t. 11,
     1961, 145-167 p.; t. 12, 1961, 115-130 p.; t. 14, 1963, 115-132 p.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -295,8 +432,201 @@ periodo_grupes: []
     Lietuvos _istorijos_ klausimus gvildeno jau minėtas P. Pa­
     ka r k 1 i s, ypač rašęs apie teutonų ordinus^105.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-34211
+  citata_originali: |
+    LTSR Mokslų
+    Akademijos Istorijos Institutas leidžia kas antri metai knygas :
+    _Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje_ ; archeologijos
+    skyrių red. A. Tautavičius.
+    Lietuvos _istorijos_ klausimus gvildeno jau minėtas P. Pa­
+    ka r k 1 i s, ypač rašęs apie teutonų ordinus^105. Lietuvių kovas
+    su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė istorikų, kaip
+    R. J a s a s : _Didysis prūsų sukilimas 1260-1274 m._ (1959), M. J u-
+    čas: _Žalgirio mūšis_ (1959)^106 , R. Varakauskas: _Pilėnų_
+  citata_rodoma: "Lietuvių kovas\nsu kryžiuočiais ir kalavijuočiais aprašė ir visa eilė istorikų, kaip\nR. J a s a s : _Didysis prūsų sukilimas 1260-1274 m._ (1959), M."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179536
+
+- id: c-34215
+  citata_originali: |
+    I-jo Lietuvos Statuto šaltinių, terminų ir paleografijos
+    klausimais rašė S. Lazutka ir E. Gudavičius^111. Teisės
+    istorijos klausimais rašė V. Stašaitienė ir V. Raudeliū­
+    nas^112. Žemdirbystės istorijos Lietuvoje ir ekonomikos klausi­
+    mais rašė istorikai: P. Dundulienė: _Žemdirbystė Lietuvoje
+    (nuo seniausia laiku iki 1917 metu)_ (1963)^113 ; R. Marčėnas:
+    _Šiaulių ekonomijos valstiečių sukilimas 1769 m._ (1969)^114 ; A.
+    Makarevičius: _Ekonominės teorijos Vilniaus universitete
+    1783-1832 m._^115 Ūkio ir vietovių istorijai svarbus yra Mokslų Aka­
+    demijos Centrinės bibliotekos Vilniuje išleisti inventorių bei rank­
+    raščių rinkinių katalogai: _Feodalinių žemės valdų Lietuvoje inven­
+    torių aprašymas_ (1963) ir _Rankraščių rinkiniai Lietuvos T. S. R.
+    Mokslų Akademijos Centrinės bibliotekos XI-XX amžių rankraščių
+    fondų trumpa apžvalga_ (1963).
+  citata_rodoma: "Raudeliū­\nnas^112. Žemdirbystės istorijos Lietuvoje ir ekonomikos klausi­\nmais rašė istorikai: P. Dundulienė: _Žemdirbystė Lietuvoje\n(nuo seniausia laiku iki 1917 metu)_ (1963)^113 ; R."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179538
+
+- id: c-34216
+  citata_originali: |
+    (^80) ĮVADAS
+    vickis (IstV, t. 7, 1965, 161-165 p.). R. Strazdūnaitė:
+    _Valstiečių kasos ir teismai Lietuvoje XIX a. pirmojoje pusėje_ (Ak-
+    MD, t. 6, 1959, 155-167 p. ; A. Žilėnas: _Lietuvos valstietijos
+    diferenciacija ir klasinis jos apmokslinimo pobūdis XIX a. pabaigoje_
+    (Ekonomika, t. 2, 1962). 1831 m. sukilimą liečia F. Sliesoriūno
+    straipsniai^117.
+  citata_rodoma: "R. Strazdūnaitė:\n_Valstiečių kasos ir teismai Lietuvoje XIX a. pirmojoje pusėje_ (Ak-\nMD, t. 6, 1959, 155-167 p. ; A."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179542
+
+- id: c-34217
+  citata_originali: |
+    R. Strazdūnaitė:
+    _Valstiečių kasos ir teismai Lietuvoje XIX a. pirmojoje pusėje_ (Ak-
+    MD, t. 6, 1959, 155-167 p. ; A. Žilėnas: _Lietuvos valstietijos
+    diferenciacija ir klasinis jos apmokslinimo pobūdis XIX a. pabaigoje_
+    (Ekonomika, t. 2, 1962). 1831 m. sukilimą liečia F. Sliesoriūno
+    straipsniai^117. Apie 1863 m. sukilimą Lietuvoje ir Baltarusijoje
+    pasirodė keletas kolektyvinių veikalų 1964 ir 1965 m.; apie jį rašė
+    L. Bičkauskas - Gentvila (1958), kuris taip pat svarstė
+    ir žemėvaldos teisių apribojimą bei išpirkos mokesčius Lietuvoje ir
+    Baltarusijoje^118 ; V. Černeckis rašė apie kapitalistinės pramo­
+    nės formavimąsi Kaune 1861-1913 m. (IstV, t. 9, 1968, 57-79 p. ;
+    O. Maksimaitienė pateikė duomenų apie sukilėlių kovinius
+    veiksmus 1863 m.
+  citata_rodoma: "Bičkauskas - Gentvila (1958), kuris taip pat svarstė\nir žemėvaldos teisių apribojimą bei išpirkos mokesčius Lietuvoje ir\nBaltarusijoje^118 ; V. Černeckis rašė apie kapitalistinės pramo­\nnės formavimąsi Kaune 1861-1913 m. (IstV, t. 9, 1968, 57-79 p. ;\nO."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179545
+
+- id: c-34218
+  citata_originali: |
+    Augustavo gubernijoje (AkMD, t. 19, 1965, 143-
+    166 p.), apie sukilėlių antspaudus (AkMD, t. 22, 1966, 121-131 p.)^119 ;
+    apie to laiko žemėvaldos klausimus rašė L. Mulevičius 120.
+    1905 m. sukilimą lietė E. Griškūnaitė 121 , P. Girdzijaus­
+    kienė: _1905-1907 metų revoliucija Lietuvoje_ (1955). A. Tyla
+    taip pat svarstė tos revoliucijos klausimus^122 ; jis davė pastabų ir
+    dėl lietuviškos knygos istorijos (BBK, t. 7, 1969, 191-199 p.) ir
+    liet. spaudinių gotiškomis raidėmis uždraudimo (BBK, t. 6, 1967,
+    **_1812 m._** **(IstV, t. 4, 1963, 89-103 p.) ;** **_Projektas atkurti Lietuvos Did.
+  citata_rodoma: "1905 m. sukilimą lietė E. Griškūnaitė 121 , P. Girdzijaus­\nkienė: _1905-1907 metų revoliucija Lietuvoje_ (1955). A. Tyla\ntaip pat svarstė tos revoliucijos klausimus^122 ; jis davė pastabų ir\ndėl lietuviškos knygos istorijos (BBK, t. 7, 1969, 191-199 p.) ir\nliet. spaudinių gotiškomis raidėmis uždraudimo (BBK, t. 6, 1967,\n**_1812 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179544
+
+- id: c-34219
+  citata_originali: |
+    171-174p.). Lietuviškos spaudos draudimo XIX a. klausimais ne­
+    mažai rašė R. Vėbra^128.
+  citata_rodoma: "Lietuviškos spaudos draudimo XIX a. klausimais ne­\nmažai rašė R. Vėbra^128."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179531
+
+- id: c-34220
+  citata_originali: |
+    Apie bibliotekas Lietuvoje XIX a.
+    pradžioje rašė M. Lukšienė (BBK, t. 5, 1966, 109-136 p.), ji
+    rašė ir apie to laiko pradines mokyklas^124. A. Šidlauskas
+    atkreipė dėmesį į mokyklų reformą Lietuvoje XVIII a. pabaigoje
+    (AkMD, t. 13, 1962, 37-56 p.), į kovą dėl gamtos mokslų įvedimo
+    (AkMD, t. 11, 1961, 133-142 p.); apie to laiko istorijos vadovėlius
+    (AkMD, t. 12, sąs. 2, 1972).
+  citata_rodoma: "A. Šidlauskas\natkreipė dėmesį į mokyklų reformą Lietuvoje XVIII a. pabaigoje\n(AkMD, t. 13, 1962, 37-56 p.), į kovą dėl gamtos mokslų įvedimo\n(AkMD, t. 11, 1961, 133-142 p.); apie to laiko istorijos vadovėlius\n(AkMD, t. 12, sąs. 2, 1972)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179533
+
+- id: c-34221
+  citata_originali: |
+    S. Matulaitytė rašo apie astro­
+    nomijos mokslo įvedimą Vilniaus universitete XVIII a. (AkMD,
+    t. 29, 1969, 69-83 p.) ir astronomijos observatorijos įsteigimą (Ak­
+    MD, t. 30, 1969, 121-129 p.). Apie Vilniaus amatų pramonę, dar­
+    bininkų padėtį, amatininkų cechus XIX a. pabaigoje ir XX a.
+    pradžioje apsčiai duomenų duoda V. Merkys 125 , S. Samala­
+    vičius (IstV, t. 9, 1968, 97-111 p.) ir V. Milius (AkMD, t. 19,
+    1965, 169-183 p.). Pažymėtinos ir šios studijos: L. Truska:
+    Emigracija iš Lietuvos 1868-1914 m. (AkMD, t. 10, 1961, 71-84 p. ;
+    P. Žostautaitė: Prūsijos lietuvių vokietinimas ir pasipriešini­
+    mas jam 1848-1914 m. (AkMD, t. 26, 1968, 59-72 p.).
+  citata_rodoma: ";\nP. Žostautaitė: Prūsijos lietuvių vokietinimas ir pasipriešini­\nmas jam 1848-1914 m. (AkMD, t. 26, 1968, 59-72 p.)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179539
+
+- id: c-34222
+  citata_originali: |
+    — Pažymėtini čia ir L. Vladimirovo straipsniai:** **_Caro vyriausybės politika
+    kultūros-švietimo srityje Lietuvoje 1871-1904 m. laikotarpiu_** **(BBK, t. 3, 1964,
+    159-190 p.) ;** **_Iš bibliotekų Lietuvoje istorijos. Motiejaus Valančiaus pastabos,
+    parašytos Kražių gimnazijos bibliotekos knygose_** **(BBK, t. 4, 1965, 217-224 p.) ;**
+    **_Lietuvių kultūros-švietimo draugijos 1905-1907 metu revoliucijos ir Stolypino
+    reakcijos metais_** **(BBK, t. 2, 1962, 113-145 p.).**
+    (^125) **AkMD, t. 2, 1957, 3-16 p. ; t. 3, 1957, 37-52 p. ; t. 4, 1958, 149-170 p. ;
+    t. 6, 1959, 169-190 p.; t. 8, 1960, 93-120 p.; t. 10, 1961, 49-69 p. ; t. 11,
+    1961, 145-167 p.; t. 12, 1961, 115-130 p.; t. 14, 1963, 115-132 p.
+  citata_rodoma: "— Pažymėtini čia ir L. Vladimirovo straipsniai:** **_Caro vyriausybės politika\nkultūros-švietimo srityje Lietuvoje 1871-1904 m. laikotarpiu_** **(BBK, t. 3, 1964,\n159-190 p.) ;** **_Iš bibliotekų Lietuvoje istorijos. Motiejaus Valančiaus pastabos,\nparašytos Kražių gimnazijos bibliotekos knygose_** **(BBK, t. 4, 1965, 217-224 p.) ;**\n**_Lietuvių kultūros-švietimo draugijos 1905-1907 metu revoliucijos ir Stolypino\nreakcijos metais_** **(BBK, t. 2, 1962, 113-145 p.).**\n(^125) **AkMD, t."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179537
+
+- id: c-163220
+  citata_originali: |
+    J. Stankus rašė
+    apie geležinių įrankių technologiją Lietuvoje V-VIII ir IX-XIII
+    a.^104 E. Radzvilovaitė pateikė žinių apie lietuvių genčių
+    skydus II-VIII a. (AkMD, t. 21, 1966, 127-141 p.). LTSR Mokslų
+    Akademijos Istorijos Institutas leidžia kas antri metai knygas :
+    _Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje_ ; archeologijos
+    skyrių red. A. Tautavičius.
+    Lietuvos _istorijos_ klausimus gvildeno jau minėtas P. Pa­
+    ka r k 1 i s, ypač rašęs apie teutonų ordinus^105.
+  citata_rodoma: "Tautavičius.\nLietuvos _istorijos_ klausimus gvildeno jau minėtas P. Pa­\nka r k 1 i s, ypač rašęs apie teutonų ordinus^105."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179535

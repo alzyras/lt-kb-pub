@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - asmuo
   - mokslininkas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Karolina Praniauskaitė
 
@@ -20,10 +32,19 @@ Balinskis supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­
 <a id="claim-t-87748"></a>
 - t-001
   global_id: t-87748
-  teiginys: 'M. Balinskis skaitytojams pristatė Karolinos Praniauskaitės poeziją kartu su Žemaitijos kultūriniu sąjūdžiu.'
+  teiginys: "M. Balinskis skaitytojams pristatė Karolinos Praniauskaitės poeziją kartu su Žemaitijos kultūriniu sąjūdžiu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "22157-22718; hash=1cc046242470069fa53061d757945b2a3cadfd1a9b954122e7604ce616d0ea17; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Karolina Praniauskaitė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karolina Praniauskaitė\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-83727
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -40,8 +61,30 @@ Balinskis supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­
     supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­
     rolinos Praniauskaitės poezija, Lauryno Ivinskio kalendoriais.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83727
+  citata_originali: |
+    Iki pat gyvenimo pabaigos M. Balinskis liko kritinio meto­
+    do, kurį jam dar jaunystėje įskiepijo istorikas J. Lelevelis, šali­
+    ninkas. Kituose Gazeta Warszawska spausdintuose straipsniuo­
+    se istorikas detaliai aprašė Vilniaus Archeologinės komisijos
+    veiklą, lenkų literatūros problemas, nemažai dėmesio skyrė
+    istorijos mokslo padėčiai lenkiškos kultūros centruose - Var­
+    šuvoje, Vilniuje, Lvove, Krokuvoje ir Poznanėje. M. Balinskis
+    supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­
+    rolinos Praniauskaitės poezija, Lauryno Ivinskio kalendoriais.
+  citata_rodoma: "Kituose Gazeta Warszawska spausdintuose straipsniuo­\nse istorikas detaliai aprašė Vilniaus Archeologinės komisijos \nveiklą, lenkų literatūros problemas, nemažai dėmesio skyrė \nistorijos mokslo padėčiai lenkiškos kultūros centruose - Var­\nšuvoje, Vilniuje, Lvove, Krokuvoje ir Poznanėje. M. Balinskis \nsupažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­\nrolinos Praniauskaitės poezija, Lauryno Ivinskio kalendoriais."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87748

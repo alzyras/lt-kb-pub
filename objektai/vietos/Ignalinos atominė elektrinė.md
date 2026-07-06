@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Ignalinos atominė elektrinė
 
@@ -19,16 +31,39 @@ Visi tie veiksniai turėjo savo kainą, ryškiausias jos pavyzdys – nerašytas
 <a id="claim-t-21442"></a>
 - t-001
   global_id: t-21442
-  teiginys: 'Stojant į ES buvo keliamas nerašytas reikalavimas uždaryti Ignalinos atominę elektrinę, kuri Europoje laikyta nesaugia.'
+  teiginys: "Stojant į ES buvo keliamas nerašytas reikalavimas uždaryti Ignalinos atominę elektrinę, kuri Europoje laikyta nesaugia."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "537669-538207; hash=7cf0525d99a29b175ab9b20741de232e0c81e1440529c89cd32c1754d56ea693; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ignalinos atominė elektrinė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=34"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ignalinos atominė elektrinė\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-24139
 
 <a id="claim-t-183594"></a>
 - t-002
   global_id: t-183594
-  teiginys: 'Stojant į ES Lietuvai teko sutikti uždaryti Ignalinos atominę elektrinę, kurią europiečiai laikė nesaugia.'
+  teiginys: "Stojant į ES Lietuvai teko sutikti uždaryti Ignalinos atominę elektrinę, kurią europiečiai laikė nesaugia."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "537849-538345; hash=2313fdf20da30dc05c547a52cde5d70884538bcd4abc6e7606ecf82b2271b8a6; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ignalinos atominė elektrinė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ignalinos atominė elektrinė\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-166986
 - susijęs iš Jonavos azotinių trąšų gamykla: Septintąjį–aštuntąjį dešimtmetį Jonavos azotinių trąšų gamykla buvo pastatyta vykstant sparčiai Lietuvos industrializacijai.
 - susijęs iš Kaunas: Kaunas buvo stipriausia lietuvių pilis ir kovose su Ordinu suvaidino svarbų vaidmenį.
 - susijęs iš Kaunas: Atšilimo laikotarpiu sovietinės industrializacijos metu Lietuvoje pastatyta Kauno hidroelektrinė.
@@ -49,6 +84,7 @@ Visi tie veiksniai turėjo savo kainą, ryškiausias jos pavyzdys – nerašytas
     stojant į ES uždaryti Ignalinos atominę elektrinę, kurią europiečiai manė
     esant nesaugią.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -67,8 +103,45 @@ Visi tie veiksniai turėjo savo kainą, ryškiausias jos pavyzdys – nerašytas
     esant nesaugią. ES ir toliau griežtai laikantis savo nustatytų kriterijų, Lie-
     tuva pamažu nusileido – strateginiai šalies tikslai buvo pernelyg svarbūs.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-24139
+  citata_originali: |
+    Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais klau-
+    simais ir net paveikti ES sprendimus – ji turi savo komisarą, Europarla-
+    mente – 12 europarlamentarų. Taigi, nors pavienės šalies įtaka ES spren-
+    dimams nedidelė, Vidurio ir Rytų Europos šalių pozicijoms tam tikrais
+    atvejais sutapus, jų kolektyvinė galia gali gerokai padidėti. Visi tie veiks-
+    niai turėjo savo kainą, ryškiausias jos pavyzdys – nerašytas reikalavimas
+    stojant į ES uždaryti Ignalinos atominę elektrinę, kurią europiečiai manė
+    esant nesaugią.
+  citata_rodoma: "stojant į ES uždaryti Ignalinos atominę elektrinę, kurią europiečiai manė"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-21442
+
+- id: c-166986
+  citata_originali: |
+    Taigi, nors pavienės šalies įtaka ES spren-
+    dimams nedidelė, Vidurio ir Rytų Europos šalių pozicijoms tam tikrais
+    atvejais sutapus, jų kolektyvinė galia gali gerokai padidėti. Visi tie veiks-
+    niai turėjo savo kainą, ryškiausias jos pavyzdys – nerašytas reikalavimas
+    stojant į ES uždaryti Ignalinos atominę elektrinę, kurią europiečiai manė
+    esant nesaugią. ES ir toliau griežtai laikantis savo nustatytų kriterijų, Lie-
+    tuva pamažu nusileido – strateginiai šalies tikslai buvo pernelyg svarbūs.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183594

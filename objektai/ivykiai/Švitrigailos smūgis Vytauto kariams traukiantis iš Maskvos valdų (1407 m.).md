@@ -11,6 +11,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Švitrigailos smūgis Vytauto kariams traukiantis iš Maskvos valdų (1407 m.)
 
@@ -35,17 +47,42 @@ Nenurodyta
 <a id="claim-t-185794"></a>
 - t-001
   global_id: t-185794
-  teiginys: 'Švitrigaila sutelkė rusų ir skitų būrius, miškuose užpuolė Vytauto karius iš užpakalio bei sparnų ir juos sumušė.'
+  teiginys: "Švitrigaila sutelkė rusų ir skitų būrius, miškuose užpuolė Vytauto karius iš užpakalio bei sparnų ir juos sumušė."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "643559-644021; hash=a761f37403f31135216155a33ab496478a5e5b98246998fe402e938a47ba4559; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigailos smūgis Vytauto kariams traukiantis iš Maskvos valdų (1407 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigailos smūgis Vytauto kariams traukiantis iš Maskvos valdų (1407 m.)\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-169155
 
 <a id="claim-t-185795"></a>
 - t-002
   global_id: t-185795
-  teiginys: 'Po Švitrigailos smūgio Vytauto kariai sunkiai pasiekė Lietuvos valdas, kur šiek tiek pailsėjo ir atsigavo.'
+  teiginys: "Po Švitrigailos smūgio Vytauto kariai sunkiai pasiekė Lietuvos valdas, kur šiek tiek pailsėjo ir atsigavo."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "643939-644325; hash=ce8185f9d887d3d9da49cf0a8c3cc72bdc4075f2c1c2587372327c5498b91f67; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigailos smūgis Vytauto kariams traukiantis iš Maskvos valdų (1407 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigailos smūgis Vytauto kariams traukiantis iš Maskvos valdų (1407 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
-
+    - c-169156
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -65,6 +102,7 @@ Nenurodyta
     mušė. Be to, jie negalėjo rasti neseniai nusiaubtuose kai­
     muose nei maisto, nei pašaro.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -87,8 +125,52 @@ Nenurodyta
 
     mokėjęs, bet ir gausiai apdovanojęs.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-169155
+  citata_originali: |
+    Kaip paprastai esti, kariuomenė, karo va­
+    dams pasitraukus, patyrė nemaža nuostolių. Mat, nors
+    maskvėnai, kaip su Vasiliju-
+    Š vitrig a ila  p u ola V y -
+    mi buvo susitarta, ir neberė-
+    tauto kariu s
+    mė Švitrigailos, tačiau šis, pa­
+    laikomas savo šalininkų, su­
+    telkė keleto rusų bei skitų būrių, užpuolė miškuose Vy­
+    tauto karius iš užpakalio bei sparnų ir smarkiai juos su­
+    mušė. Be to, jie negalėjo rasti neseniai nusiaubtuose kai­
+    muose nei maisto, nei pašaro.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185794
+
+- id: c-169156
+  citata_originali: |
+    Be to, jie negalėjo rasti neseniai nusiaubtuose kai­
+    muose nei maisto, nei pašaro. Vargais negalais kariai
+    įveikė šiuos sunkumus ir pasiekė Lietuvos valdas, kur
+    šiek tiek pailsėjo ir atsigavo. Tada pašauktinius karius
+    paleido namo, o lenkus ir prūsus nuvedė ligi Vilniaus,
+    kur Vytautas juos irgi paleido namo ne tik dosniai su-
+    370
+
+    ## Puslapis 369
+
+    mokėjęs, bet ir gausiai apdovanojęs.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185795

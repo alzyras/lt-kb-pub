@@ -9,6 +9,18 @@ tags:
   - miestas
   - sukilimas
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Salos
 
@@ -21,11 +33,24 @@ Sierakausko nurodymu jie : SUKILĖLIŲ PULKAI Iš Liudvikos Gedgaudienės-Didži
 <a id="claim-t-42117"></a>
 - t-001
   global_id: t-42117
-  teiginys: 'Liudvikos Gedgaudienės-Didžiulienės atsiminimuose minima, kad sukilėlių pajėgos buvo telkiamos Salų miestelyje.'
+  teiginys: "Liudvikos Gedgaudienės-Didžiulienės atsiminimuose minima, kad sukilėlių pajėgos buvo telkiamos Salų miestelyje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "656313-656566; hash=d0623a3cd4285dc0393fe0154426c7bd6f6bc3246ac5201aa5f7c13ec574974d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Varpai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Salos: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Varpai: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Salos\" parinktas kaip owner_note_path. Targetas \"Varpai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-45317
 - susijęs iš [[objektai/asmenys/Burchardas iš Magdeburgo.md#claim-t-60097|Burchardas iš Magdeburgo]]: Burchardas iš Magdeburgo su magistru ir broliais perkėlė Marienverderio pilį iš Kvedino salos į Pamedės valsčių.
 - susijęs iš [[objektai/asmenys/Hermanas (Ordino magistras).md#claim-t-60029|Hermanas (Ordino magistras)]]: Magistras Hermanas su broliais 1233 m. Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu.
+- susijęs iš [[objektai/asmenys/Naruševičius.md#claim-t-191191|Naruševičius]]: Naruševičius tapatino Ptolemėjo chunus su graikų-skitų gentimi Geniui, kuri, anot jo, buvo atsikėlusi iš Chijo salos.
+- susijęs iš [[objektai/asmenys/Pitėjas Masilietis.md#claim-t-191132|Pitėjas Masilietis]]: Pitėjas Masilietis pasiekė Britanijos salas, prie krantų atliko astronominius stebėjimus ir nuplaukė iki Tūlos, pažymėtos 66 šiaurės platumos laipsnyje.
+- susijęs iš [[objektai/autoriai/Adomas Stanislovas Naruševičius.md#claim-t-190675|Adomas Stanislovas Naruševičius]]: Naruševičius, Narbuto perteikimu, Ptolemėjo chunus siejo su graikų-skitų gentimi ir galimu atsikėlimu iš Chijo salos.
 - susijęs iš [[objektai/autoriai/K. Hartknochas.md#claim-t-64674|Kristupas Hartknochas]]: K. Hartknochas, pirmasis Dusburgiečio kronikos leidėjas, manė, kad rutėnais vadinti Riugeno salos gyventojai.
 - susijęs iš [[objektai/daiktai/Laivai.md#claim-t-12314|Laivai]]: 1383 m. liepos 19 d. Ordino viršininkas laivu nuvyko iki Christmemelio salos.
 - susijęs iš [[objektai/daiktai/Laivai.md#claim-t-179487|Laivai]]: 1383 m. liepos 19 d. Ordino viršininkas laivu nuvyko iki Christmemelio salos ir ten sustojo.
@@ -36,6 +61,7 @@ Sierakausko nurodymu jie : SUKILĖLIŲ PULKAI Iš Liudvikos Gedgaudienės-Didži
 - susijęs iš Galvės ežeras: Ivinskis Galvės ežero salos pilį minėjo kaip žymiausią Vytauto garbės ir pasididžiavimo statinį.
 - susijęs iš Galvės ežero salos pilis (pilis): 1414 m. Galvės ežero salos pilyje apsilankė Burgundijos riteris Ghillebert de Lannoy.
 - susijęs iš Galvės ežero salos pilis (pilis): Ivinskis Galvės ežero salos pilį vadino žymiausiu Vytauto garbės ir pasididžiavimo statiniu.
+- susijęs iš Kvidzinas: Teodoras Narbutas Kvidziną, arba Quidino, mini kaip Vyslos pasienio salą, vėliau išardytą vandens srautų.
 - susijęs iš Trakų salos pilis (pilis): Trakų salos pilis buvo baigta statyti 1409 m.
 - susijęs iš [[objektai/zodynas/apsaugos raštas.md#claim-t-36762|apsaugos raštas]]: Gavęs Jogailos apsaugos raštą, Ordino viršininkas liepos 19 d. laivu nuvyko iki Christmemelio salos.
 - susijęs iš [[objektai/zodynas/rutėnai Rutheni.md#claim-t-58831|rutėnai Rutheni]]: Istorijos šaltiniuose rutėnais dažnai vadinti Baltijos jūros pietinės pakrantės ir Riugeno salos gyventojai.
@@ -51,6 +77,8 @@ Sierakausko nurodymu jie : SUKILĖLIŲ PULKAI Iš Liudvikos Gedgaudienės-Didži
 - susijęs iš [[objektai/autoriai/Manteuffel T.md#claim-t-60846|Manteuffel T]]: T. Manteuffelio „Papiestwo“ cituojamas prie teiginio, kad rutėnais dažnai vadinti pietinės Baltijos pakrantės ir Riugeno gyventojai.
 - susijęs iš [[objektai/autoriai/V. Pašuta.md#claim-t-60523|V. Pašuta]]: V. Pašuta siejo Dusburgiečio rutėnus su Smolensko kunigaikščių rusais.
 - susijęs iš [[objektai/grupes/Algimanto apygarda.md#claim-t-78161|Algimanto apygarda]]: Antanas Slučka-Šarūnas, Algimanto apygardos vadas, žuvo susisprogdinus partizanams kartu su žmona ir dar vienu partizanu.
+- susijęs iš [[objektai/grupes/Boristeniečiai.md#claim-t-192948|Boristeniečiai]]: Narbuto svarstymu, Ptolemėjo geninai galėjo būti graikai boristeniečiai, kilę iš Kijanėjos, arba Chianėjos, krašto.
+- susijęs iš [[objektai/grupes/Geninai.md#claim-t-192981|Geninai]]: Narbutas mini nuomonę, kad Ptolemėjo geninai iš tikrųjų galėję būti chueninai, gyvenę dabartinio Kijevo apylinkėse.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175543|Kalavijuočių ordinas]]: Kalavijuočių ordinas pirmiausia ėmė stiprintis prie Dauguvos krantų.
 - susijęs iš [[objektai/grupes/Pelazgai.md#claim-t-189527|Pelazgai]]: Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į Peloponesą, atsinešė dalį Kabirų ir įvedė jų paslaptingą garbinimo ritualą.
 - susijęs iš [[objektai/ivykiai/Bisenės pilies puolimas (1313 m.).md#claim-t-62208|Bisenės pilies puolimas (1313 m.)]]: 1313 m. vasarą Henrikas iš Plockės puolė Bisenės pilį, bet po nesėkmingos apgulties pasitraukė sužeidus kelis brolius ir pilėnus.
@@ -75,6 +103,11 @@ Sierakausko nurodymu jie : SUKILĖLIŲ PULKAI Iš Liudvikos Gedgaudienės-Didži
 - susijęs iš Ukmergė: Jaunutis paveldėjo ne tik Lietuvos didžiojo kunigaikščio sostą, bet ir Ašmeną, Ukmergę bei Breslaują.
 - susijęs iš Zapyškis: XV a. pabaigoje–XVI a. pirmame trečdalyje gotika pasiekė provinciją, įskaitant Kėdainius ir Zapyškį.
 - susijęs iš [[objektai/zodynas/Rygos miesto civilinė teisė vokiečių teisės.md#claim-t-86570|Rygos miesto civilinė teisė vokiečių teisės]]: Gedimino laiške nurodyta, kad į Vilnių atvykę kolonistai galės vadovautis Rygos miesto civiline teise.
+- susijęs iš [[objektai/zodynas/judančios žemės sluoksniai.md#claim-t-192291|judančios žemės sluoksniai]]: Narbutas aiškina, kad judančios žemės sluoksniai turėjo būti sujudinti arba išplauti iš Baltijos jūros.
+- susijęs iš [[objektai/zodynas/judančios žemės sluoksniai.md#claim-t-192292|judančios žemės sluoksniai]]: Narbutas akmenų radimą aiškina tuo, kad kai kurie jų buvo užpustyti judančios žemės sluoksnių.
+- susijęs iš [[objektai/zodynas/judančios žemės sluoksniai.md#claim-t-192291|judančios žemės sluoksniai]]: Narbutas aiškina, kad judančios žemės sluoksniai turėjo būti sujudinti arba išplauti iš Baltijos jūros.
+- susijęs iš [[objektai/zodynas/judančios žemės sluoksniai.md#claim-t-192292|judančios žemės sluoksniai]]: Narbutas akmenų radimą aiškina tuo, kad kai kurie jų buvo užpustyti judančios žemės sluoksnių.
+- susijęs iš [[objektai/asmenys/Pitėjas Masilietis.md#claim-t-191132|Pitėjas Masilietis]]: Pitėjas Masilietis pasiekė Britanijos salas, prie krantų atliko astronominius stebėjimus ir nuplaukė iki Tūlos, pažymėtos 66 šiaurės platumos laipsnyje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -89,8 +122,32 @@ Sierakausko nurodymu jie : SUKILĖLIŲ PULKAI Iš Liudvikos Gedgaudienės-Didži
 
     „Štai vieną dieną bažnyčioje visais varpais skambina.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-45317
+  citata_originali: |
+    Z. Sierakausko nurodymu jie
+
+    : SUKILĖLIŲ PULKAI
+
+    Iš Liudvikos Gedgaudienės-Didžiulienės užrašų. Sukilimo metu dar vaiku buvusios
+    moters prisiminimai apie telkiamas sukilėlių pajėgas Salų miestelyje.
+
+    „Štai vieną dieną bažnyčioje visais varpais skambina.
+  citata_rodoma: "Sierakausko nurodymu jie\n\n: SUKILĖLIŲ PULKAI\n\nIš Liudvikos Gedgaudienės-Didžiulienės užrašų. Sukilimo metu dar vaiku buvusios\nmoters prisiminimai apie telkiamas sukilėlių pajėgas Salų miestelyje.\n\n„Štai vieną dieną bažnyčioje visais varpais skambina."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-42117
+
+## Ryšiai
+- Buvo kelionės vieta: [[objektai/asmenys/Pitėjas Masilietis]]

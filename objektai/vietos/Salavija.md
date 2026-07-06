@@ -1,0 +1,167 @@
+---
+tipas: vieta
+pavadinimas: 'Salavija'
+saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
+sukurta: ''
+atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Salavija
+
+## Santrauka
+
+Narbutas sprendė, kad II a. didelė Salavijos dalis svetimšaliams buvo žinoma Skalvos arba Rusios vardu. Narbutas Salaviją vadino vienuolikta Prūsijos provincija ir pažymėjo, kad jos sienas sunku nustatyti.
+
+## Teiginiai
+
+<a id="claim-t-192801"></a>
+- t-001
+  global_id: t-192801
+  teiginys: "Narbutas sprendė, kad II a. didelė Salavijos dalis svetimšaliams buvo žinoma Skalvos arba Rusios vardu."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "478779-479164; hash=4b23b5b040d6d4adc892e2d87662ef6c75867f76d8bfb7ddb971c89835399c9b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Skalva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Salavija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Skalva: mention_match, place, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Salavija\" parinktas kaip owner_note_path. Targetas \"Skalva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175571
+
+<a id="claim-t-192802"></a>
+- t-002
+  global_id: t-192802
+  teiginys: "Narbutas Salaviją vadino vienuolikta Prūsijos provincija ir pažymėjo, kad jos sienas sunku nustatyti."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Salavija priklausė Prūsija (0.96)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "668653-668901; hash=411a9b7956df85ccd3f5b373ac534762f241e01cd284b8274b7ca84179c3b4ca; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Prūsija: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Salavija: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Salavija buvo Prūsijos provincija."
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175572
+- susijęs iš [[objektai/zodynas/Szalin.md#claim-t-192221|Szalin]]: Narbuto aiškinimu, Szalin siejamas su Salavija, nes ši buvo laikoma toliausiai į šiaurę plytinčia žeme.
+- susijęs iš [[objektai/zodynas/Szalin.md#claim-t-192578|Szalin]]: Narbuto aiškinimu, Salavijos pavadinimas kilo iš lietuviško žodžio Szalin, nes ji laikyta toliausiai į šiaurę plytinčia žeme.
+- susijęs iš [[objektai/asmenys/Johanas Foigtas.md#claim-t-190892|Johanas Foigtas]]: Pasak Narbuto, Johanas Foigtas manė, kad Salavija senais pagonių laikais buvo kitas Lietuvos kraštas, vadintas Pusne.
+- susijęs iš [[objektai/asmenys/Ptolemėjas.md#claim-t-191972|Ptolemėjas]]: Teodoro Narbuto aiškinimu, Ptolemėjas Salavijos gyventojus žinojo slavinu vardu, o kraštą svetimšaliai vadino Skalva arba Rusia.
+- susijęs iš [[objektai/autoriai/Ptolemėjas.md#claim-t-191523|Ptolemėjas]]: Narbutas sprendė, kad Ptolemėjas Salavijos gyventojus žinojo slavinu vardu, o svetimšaliai tą žemę vadino Skalva arba Rusia.
+- susijęs iš Ptolemėjaus Geographia: Pasak Teodoro Narbuto, Ptolemėjus Salavijos gyventojus žinojo slavinu vardu, o svetimšaliai šią žemę vadino Skalva arba Rusia.
+- susijęs iš Sasava (Salavijos tvirtovė): Narbutas Sasavą vadino garsiausia Salavijos tvirtove ir rašė, kad ji stovėjo prie tiksliai nenustatytos upės.
+- susijęs iš Sūduva: Narbutas spėjo, kad Sūduvos šiaurinė siena buvo Pisos upė, skyrusi ją nuo Salavijos ir Nadruvos.
+- susijęs iš [[objektai/zodynas/Szalin.md#claim-t-192221|Szalin]]: Narbuto aiškinimu, Szalin siejamas su Salavija, nes ši buvo laikoma toliausiai į šiaurę plytinčia žeme.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-192416|Kryžiuočių ordinas]]: Teodoro Narbuto teigimu, prieš prūsų tautos žlugimą Salavijoje apsigyveno daugiausia iš Lietuvos atsikėlę kryžiuočių žmonės.
+- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-192448|Prūsai]]: Teodoras Narbutas tikrąja Prūsija iki XIII a. vadina dvylikos provincijų ir dvylikos genčių savarankišką kraštą.
+- susijęs iš [[objektai/paprociai/Sambijos vitingų paklusnumas Romovės vyriausiajam žyniui ir vyriausiojo karvedžio rinkimas.md#claim-t-192102|Sambijos vitingų paklusnumas Romovės vyriausiajam žyniui ir vyriausiojo karvedžio rinkimas]]: Pasak Narbuto, prireikus Sambijos vitingai vadovavo ginkluotiems žmonėms, o iš jų buvo renkamas vyriausias karvedys, paskiausiai Glaudė.
+- susijęs iš [[objektai/zodynas/Szalin.md#claim-t-192578|Szalin]]: Narbuto aiškinimu, Salavijos pavadinimas kilo iš lietuviško žodžio Szalin, nes ji laikyta toliausiai į šiaurę plytinčia žeme.
+- susijęs iš [[objektai/zodynas/vitingas.md#claim-t-192273|vitingas]]: Teodoras Narbutas nurodo, kad pastaruoju laiku vyriausias karvedys buvo vitingas Glaudė.
+- susijęs iš [[objektai/zodynas/vitingas.md#claim-t-192274|vitingas]]: Teodoras Narbutas rašo, kad iš vitingų buvo renkamas vyriausias karvedys.
+- susijęs iš [[objektai/zodynas/vitingas.md#claim-t-192275|vitingas]]: Teodoras Narbutas rašo, kad vitingai prireikus vadovavo ginkluotiems žmonėms.
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Narbutas sprendė, kad II a. didelė Salavijos dalis svetimšaliams buvo žinoma Skalvos arba Rusios vardu.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Ptolemėjas žinojo Salavijos gyvento­
+    jus slavinu vardu; iš to galima spręsti, kad Rusios egzis­
+    tavimo laikais didelė dalis šios žemės II krikščioniškosios
+    eros amžiuje buvo žinoma Skalvos arba Rusios vardu,
+    kuriuo ją ir vadino svetimšaliai. Rytuose ji ribojosi su
+    Sudargija, pietuose — su Nadruva, vakaruose — su Kur­
+    šių mariomis, o šiaurėje — su Žemaitija.
+    267
+    Sudargija (Sudargia).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+- c-002
+  santrauka: 'Narbutas Salaviją vadino vienuolikta Prūsijos provincija ir pažymėjo, kad jos sienas sunku nustatyti.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Salavija
+    Vienuolikta Prūsijos provincija buvo Salavija, Scha-
+    laueri. Jos sienas pažymėti yra labai sunku. Kadangi se­
+    nais pagonių laikais ji nebuvo žinoma šiuo pavadinimu,
+    bet, kaip mano ponas Foigtas, buvęs kitas Lietuvos kraš­
+    tas, t. y. Pusnė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+## Citatos
+
+- id: c-175571
+  citata_originali: |
+    Ptolemėjas žinojo Salavijos gyvento­
+    jus slavinu vardu; iš to galima spręsti, kad Rusios egzis­
+    tavimo laikais didelė dalis šios žemės II krikščioniškosios
+    eros amžiuje buvo žinoma Skalvos arba Rusios vardu,
+    kuriuo ją ir vadino svetimšaliai. Rytuose ji ribojosi su
+    Sudargija, pietuose — su Nadruva, vakaruose — su Kur­
+    šių mariomis, o šiaurėje — su Žemaitija.
+    267
+    Sudargija (Sudargia).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192801
+
+- id: c-175572
+  citata_originali: |
+    Salavija
+    Vienuolikta Prūsijos provincija buvo Salavija, Scha-
+    laueri. Jos sienas pažymėti yra labai sunku. Kadangi se­
+    nais pagonių laikais ji nebuvo žinoma šiuo pavadinimu,
+    bet, kaip mano ponas Foigtas, buvęs kitas Lietuvos kraš­
+    tas, t. y. Pusnė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192802
+
+## Ryšiai
+- Turėjo priklausinį: [[objektai/vietos/Rusia]]
+- Salavija priklausė [[objektai/vietos/Prūsija]]

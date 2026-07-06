@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - asmuo
   - pilis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Hermanas
 
@@ -20,16 +32,40 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
 <a id="claim-t-40139"></a>
 - t-001
   global_id: t-40139
-  teiginys: 'Meistras Hermanas po keturių savaičių apgulties pastatė bombardą prieš lietuvius, tačiau buvo jų užmuštas tokiu pat pabūklu.'
+  teiginys: "Meistras Hermanas po keturių savaičių apgulties pastatė bombardą prieš lietuvius, tačiau buvo jų užmuštas tokiu pat pabūklu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "204977-205354; hash=9aa42be083ecfae1fe2a60e93664fbd8a0238759c7c7291e85f5e1a213f93083; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Viena: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Hermanas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hermanas\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-44346
 
 <a id="claim-t-183740"></a>
 - t-002
   global_id: t-183740
-  teiginys: 'Po keturių savaičių apgulties lietuviai pabūklu nukovė meistrą Hermaną, kai jis pilies angoje pastatė bombardą prieš lietuvius.'
+  teiginys: "Po keturių savaičių apgulties lietuviai pabūklu nukovė meistrą Hermaną, kai jis pilies angoje pastatė bombardą prieš lietuvius."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Lietuviai puolė Hermanas (0.88); Hermanas kariavo prieš Lietuviai (0.86)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "204833-205288; hash=dc5c5536dd6b11f5c834278eec266289455ae13993ec37f123b867e607e79486; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Hermanas: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Hermanas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad lietuviai pabūklu nukovė meistrą Hermaną."
   pagrindžia:
-    - c-002
+    - c-167128
 - susijęs iš [[objektai/asmenys/Hermanas (Ordino magistras).md#claim-t-60029|Hermanas (Ordino magistras)]]: Magistras Hermanas su broliais 1233 m. Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu.
 - susijęs iš [[objektai/asmenys/Hermanas (Ordino magistras).md#claim-t-60030|Hermanas (Ordino magistras)]]: Magistras brolis Hermanas, padedamas į Torunę atvykusių maldininkų, 1232 m. pastatė Kulmo pilį ir miestą.
 - susijęs iš [[objektai/asmenys/Hermanas (Petro iš Rozenbergo dėdė).md#claim-t-60323|Hermanas (Petro iš Rozenbergo dėdė)]]: 1324 m. Petras iš Rozenbergo ir jo dėdė Hermanas su daugybe riterių bei ginklanešių atvyko į Prūsiją.
@@ -90,6 +126,7 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
     keitė sveikieji. Mūšio įkarštyje komtūrui
     iš mašinos paleistas akmuo nunešė galvą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -114,11 +151,55 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
     sužeistų, netinkamų gynybai , tačiau juos
     keitė sveikieji.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-44346
+  citata_originali: |
+    Po keturių savaičių apgulties, po dauge-
+    lio susidūrimų meistras Hermanas vienoje
+    pilies angoje pastatė bombardą prieš lie-
+    tuvius, tačiau lietuviai, priešpriešiais įtaisę
+    tokį pat pabūklą, užmušė minėtą meistrą.
+    Po sunkių kovų buvo „pilyje daug brolių
+    sužeistų, netinkamų gynybai , tačiau juos
+    keitė sveikieji. Mūšio įkarštyje komtūrui
+    iš mašinos paleistas akmuo nunešė galvą.
+  citata_rodoma: "Po keturių savaičių apgulties, po dauge-\nlio susidūrimų meistras Hermanas vienoje\npilies angoje pastatė bombardą prieš lie-\ntuvius, tačiau lietuviai, priešpriešiais įtaisę\ntokį pat pabūklą, užmušė minėtą meistrą.\nPo sunkių kovų buvo „pilyje daug brolių\nsužeistų, netinkamų gynybai , tačiau juos\nkeitė sveikieji."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40139
+
+- id: c-167128
+  citata_originali: |
+    Tačiau
+    lietuviai sunaikino pilies priešakinius įtvir-
+    tinimus ir užpylė griovius, kryžiuočiai iš
+    papilio buvo priversti trauktis į pačią pilį.
+
+    Po keturių savaičių apgulties, po dauge-
+    lio susidūrimų meistras Hermanas vienoje
+    pilies angoje pastatė bombardą prieš lie-
+    tuvius, tačiau lietuviai, priešpriešiais įtaisę
+    tokį pat pabūklą, užmušė minėtą meistrą.
+    Po sunkių kovų buvo „pilyje daug brolių
+    sužeistų, netinkamų gynybai , tačiau juos
+    keitė sveikieji.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183740
 
 ## Ryšiai
 - Puolė Hermaną: [[objektai/grupes/Lietuviai]]

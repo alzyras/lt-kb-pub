@@ -15,6 +15,18 @@ tags:
   - karas
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Goštauto naujos pranciškonų bažnyčios ir vienuolyno pastatydinimas Smėlynėje
 
@@ -43,10 +55,19 @@ Nenurodyta
 <a id="claim-t-86947"></a>
 - t-001
   global_id: t-86947
-  teiginys: 'Goštautas Smėlynėje, netoli Vingrių šaltinių, pastatydino mūrinę pranciškonų bažnyčią ir vienuolyną.'
+  teiginys: "Goštautas Smėlynėje, netoli Vingrių šaltinių, pastatydino mūrinę pranciškonų bažnyčią ir vienuolyną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "85665-86513; hash=ef4057c7e279120acda7ff58b772660851baf048d730e25b707689a9d3e54286; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pranciškonų ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Goštauto naujos pranciškonų bažnyčios ir vienuolyno pastatydinimas Smėlynėje: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Pranciškonų ordinas: mention_match, group, gap=65"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Goštauto naujos pranciškonų bažnyčios ir vienuolyno pastatydinimas Smėlynėje\" parinktas kaip owner_note_path. Targetas \"Pranciškonų ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-82926
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -72,8 +93,39 @@ Nenurodyta
     įvykius iš tamsos į ryškią šviesą iš­
     kelti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-82926
+  citata_originali: |
+    Algirdas viešai nubaudė to žiauraus poelgio vadei­
+    vas ir liepė paskelbti visame krašte valią nevaržomiems
+    gyventi visiems krikščionių vienuoliams ir laisvę išpažinti
+    savo tikėjimą. Šis netikėtas ir liūdnas įvykis nė kiek neatšal­
+    dė Goštauto uolumo. Nukankintuosius palaidojęs, tos pa­
+    čios regulos vienuolių vėlei atkvietė iš Lenkijos, ir gal dėl
+    to, kad jų buveinė buvo liaudies sugriauta ir su ja siejosi
+    liūdni atminimai, gal dėl saugumo, mūrinę bažnyčią ir vie­
+    nuolyną pastatydino naujoje vietoje, savo naujų medinių rū­
+    mų teritorijoje, netoli nuo Vingrių šaltinių, Smėlynėje, ir pa­
+    vadino Mergelės Marijos vardu20.
+    lyno archyvas, išskyrus nuplėštus
+    nuo įvairių senų pergamentų ant­
+    spaudus, per 1812 metų karą yra be­
+    veik visai praradęs vertingiausius
+    dokumentus, kurie galėtų ano meto
+    įvykius iš tamsos į ryškią šviesą iš­
+    kelti.
+  citata_rodoma: "Šis netikėtas ir liūdnas įvykis nė kiek neatšal­\ndė Goštauto uolumo. Nukankintuosius palaidojęs, tos pa­\nčios regulos vienuolių vėlei atkvietė iš Lenkijos, ir gal dėl \nto, kad jų buveinė buvo liaudies sugriauta ir su ja siejosi \nliūdni atminimai, gal dėl saugumo, mūrinę bažnyčią ir vie­\nnuolyną pastatydino naujoje vietoje, savo naujų medinių rū­\nmų teritorijoje, netoli nuo Vingrių šaltinių, Smėlynėje, ir pa­\nvadino Mergelės Marijos vardu20.\nlyno archyvas, išskyrus nuplėštus \nnuo įvairių senų pergamentų ant­\nspaudus, per 1812 metų karą yra be­\nveik visai praradęs vertingiausius \ndokumentus, kurie galėtų ano meto \nįvykius iš tamsos į ryškią šviesą iš­\nkelti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86947

@@ -10,11 +10,6 @@ datos:
   - '1315 m.'
 date_start: '1291'
 date_end: '1315'
-description: 'Junigeda – su Veliuona siejama pilis ir valsčius, minimi 1291–1315 m. Vokiečių ordino žygiuose bei papilių sudeginimuose.'
-socialDescription: 'Junigeda – su Veliuona siejama lietuvių pilis ir valsčius, minimi 1291–1315 m. kovose su Vokiečių ordinu.'
-seo_atnaujinta: '2026-07-02T23:12:35.429369+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,91 +20,318 @@ tags:
 amziai:
   - 'XIII'
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Junigeda
 
 ## Santrauka
 
-Junigeda buvo lietuvių pilis ir valsčius, šaltiniuose minima 1291–1315 m. kovų su Vokiečių ordinu kontekste. 1291 m. Bertoldas Bruhavenas nusiaubė Junigedos valsčių, o 1293 m. magistras sudegino du pilies papilius. 1313 m. Ragainės komtūras Verneris bandė pulti Junigedos pilį laivais, o 1315 m. didysis magistras Karolis sudegino jos papilį ir paėmė 78 žmones į nelaisvę. Paaiškinimuose Junigeda siejama su Veliuona ir rytiniu Veliuonos piliakalniu, vadinamu Gedimino kapu.
+Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą 1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas, Karaliaučiaus komtūras, bei daug brolių su tūkstančiu penkiais šimtais vyrų, žygiuodami pro Kolainių pilį. Dusburgietis teigia, kad apie Junigedos pilies pastatymą ir Medrabos pilies sunaikinimą Tais pačiais metais per velykas lietuviai pastatė Junigedos valsčiuje pilį533, kurią 531 Žr. Dusburgietis teigia, kad 532 D.— territorium Junigede, Jer — genant zu Junigêdin; valsčius ir pilis (žr.
 
 ## Teiginiai
 
 <a id="claim-t-90466"></a>
-- t-001
+- t-002
   global_id: t-90466
-  teiginys: 'Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junigedos vardu.'
+  teiginys: "Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junigedos vardu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "566566-567767; hash=8286a0f52bebdf20e09bd1b55d469e51a13cc43b58141338f13cdb8eef7d3cc1; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Junigeda: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Junigeda\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-86307
 
 <a id="claim-t-90467"></a>
-- t-002
+- t-008
   global_id: t-90467
-  teiginys: 'Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieštvės pilis ir sudegino jų papilius.'
+  teiginys: "Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieštvės pilis ir sudegino jų papilius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "602132-602701; hash=a1608c724cf5a20badd2b035ee0b8e8dcd2b5ac8d66331d41697cc2dc2b4a141; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pieštvė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Junigeda: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Pieštvė: mention_match, place, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Junigeda\" parinktas kaip owner_note_path. Targetas \"Pieštvė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-86305
 
 <a id="claim-t-90468"></a>
-- t-003
+- t-011
   global_id: t-90468
-  teiginys: '1315 m. spalio 12 d. didysis magistras Karolis naktį nuplaukė prie Junigedos pilies ir sudegino jos papilį.'
+  teiginys: "1315 m. spalio 12 d. didysis magistras Karolis naktį nuplaukė prie Junigedos pilies ir sudegino jos papilį."
+  temporaliniai_duomenys: "įvykio data: 1315 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys labiau susijęs su Kristmemeliu, todėl perrašyta į faktą apie Junigedą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "654329-654891; hash=920db58fb0831e33d3bcb86a87c835b627b52981a1d1958d0ab0d6003c1595b0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Karolis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Junigeda: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Karolis: mention_match, person, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Junigeda\" parinktas kaip owner_note_path. Targetas \"Karolis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-86304
 
 <a id="claim-t-90469"></a>
-- t-004
+- t-006
   global_id: t-90469
-  teiginys: 'Per šv. Jokūbo dieną magistras Meinhardas užpuolė Junigedą ir Pieštvę ir sudegino abiejų pilių papilius.'
+  teiginys: "Per šv. Jokūbo dieną magistras Meinhardas užpuolė Junigedą ir Pieštvę ir sudegino abiejų pilių papilius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "579120-579646; hash=6630773b52756fc7be68935856b4bfb4a3df33a29df8571f018fbcd17cdf49cf; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pieštvė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Junigeda: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Pieštvė: mention_match, place, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Junigeda\" parinktas kaip owner_note_path. Targetas \"Pieštvė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-86306
 
 <a id="claim-t-90470"></a>
-- t-005
+- t-001
   global_id: t-90470
-  teiginys: '1291 m. apie vasario 2 d. Bertoldas Bruhavenas nusiaubė Junigedos valsčių, grobdamas ir degindamas.'
+  teiginys: "1291 m. apie vasario 2 d. Bertoldas Bruhavenas nusiaubė Junigedos valsčių, grobdamas ir degindamas."
+  temporaliniai_duomenys: "įvykio data: 1291 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata remia konkretų veiksmą Junigedos valsčiuje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "566066-566565; hash=7de74406765d288150db229d6e79f6072f70730bb8d82966b79bd64c0e77d91e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kolainiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Junigeda: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kolainiai: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Junigeda\" parinktas kaip owner_note_path. Targetas \"Kolainiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-86298
 
 <a id="claim-t-90471"></a>
-- t-006
+- t-005
   global_id: t-90471
-  teiginys: '1293 m. magistras žiemą užpuolė Junigedos pilį ir sudegino du jos papilius: vieną ant kalno, kitą slėnyje.'
+  teiginys: "1293 m. magistras žiemą užpuolė Junigedos pilį ir sudegino du jos papilius: vieną ant kalno, kitą slėnyje."
+  temporaliniai_duomenys: "įvykio data: 1293 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą įvykį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "577833-578286; hash=aff2703c381b3c5ff92b71b1ed772b1b8be0580b22fe9315d6c79d9de9a547a5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Viena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Junigeda: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Junigeda\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-86297
 
 <a id="claim-t-90472"></a>
-- t-007
+- t-009
   global_id: t-90472
-  teiginys: '1313 m. Ragainės komtūras Verneris pasistatydino karo laivą ir su juo plaukė pulti Junigedos pilies.'
+  teiginys: "1313 m. Ragainės komtūras Verneris pasistatydino karo laivą ir su juo plaukė pulti Junigedos pilies."
+  temporaliniai_duomenys: "įvykio data: 1313 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo veikėją, datą, veiksmą ir Junigedos objektą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "645540-645928; hash=4006f420fd68708114f578cd4ef9d479645e16d43ee42306ca09ee3ebb0539b0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ragainė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Junigeda: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Ragainė: mention_match, place, gap=75"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Junigeda\" parinktas kaip owner_note_path. Targetas \"Ragainė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-86300
 
 <a id="claim-t-90473"></a>
-- t-008
+- t-007
   global_id: t-90473
-  teiginys: 'Po to broliai nuplaukė beveik iki Junigedos pilies.'
+  teiginys: "Po to broliai nuplaukė beveik iki Junigedos pilies."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "590519-590782; hash=d27aa8adfba4aa4a736a91323ff0925f975961a478fa33fe2e9ef2c847c6565c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Laivai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Junigeda: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Laivai: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Junigeda\" parinktas kaip owner_note_path. Targetas \"Laivai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
-    - c-004
+    - c-86302
 
 <a id="claim-t-90474"></a>
-- t-009
+- t-010
   global_id: t-90474
-  teiginys: '1315 m. spalio 12 d. didysis magistras Karolis įsiveržė į Junigedos papilį, paėmė 78 žmones į nelaisvę ir jį sudegino.'
+  teiginys: "1315 m. spalio 12 d. didysis magistras Karolis įsiveržė į Junigedos papilį, paėmė 78 žmones į nelaisvę ir jį sudegino."
+  temporaliniai_duomenys: "įvykio data: 1315 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra tikslus ir tiesiogiai paremtas pateikta citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "654329-654891; hash=920db58fb0831e33d3bcb86a87c835b627b52981a1d1958d0ab0d6003c1595b0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Karolis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Junigeda: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Karolis: mention_match, person, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Junigeda\" parinktas kaip owner_note_path. Targetas \"Karolis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-86304
 
 <a id="claim-t-90475"></a>
-- t-010
+- t-004
   global_id: t-90475
-  teiginys: 'Paaiškinimuose Junigedos, arba Veliuonos, pilis siejama su rytiniu Veliuonos piliakalniu, vadinamu Gedimino kapu.'
+  teiginys: "Paaiškinimuose Junigedos, arba Veliuonos, pilis siejama su rytiniu Veliuonos piliakalniu, vadinamu Gedimino kapu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "566566-567767; hash=8286a0f52bebdf20e09bd1b55d469e51a13cc43b58141338f13cdb8eef7d3cc1; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Junigeda: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=84"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Junigeda\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-86307
 
 <a id="claim-t-90476"></a>
-- t-011
+- t-003
   global_id: t-90476
-  teiginys: 'Junigeda minima kaip valsčius ir pilis, vėlesnėse kronikose tapatinta su Veliuona.'
+  teiginys: "Junigeda minima kaip valsčius ir pilis, vėlesnėse kronikose tapatinta su Veliuona."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "566566-567767; hash=8286a0f52bebdf20e09bd1b55d469e51a13cc43b58141338f13cdb8eef7d3cc1; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Veliuona: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Junigeda: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Veliuona: mention_match, place, gap=73"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Junigeda\" parinktas kaip owner_note_path. Targetas \"Veliuona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-86307
+
+<a id="claim-t-90470"></a>
+- t-001
+  global_id: t-90470
+  teiginys: "1291 m. apie vasario 2 d. Bertoldas Bruhavenas nusiaubė Junigedos valsčių, grobdamas ir degindamas."
+  temporaliniai_duomenys: "įvykio data: 1291 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata remia konkretų veiksmą Junigedos valsčiuje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "566066-566565; hash=7de74406765d288150db229d6e79f6072f70730bb8d82966b79bd64c0e77d91e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kolainiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Junigeda: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kolainiai: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Junigeda\" parinktas kaip owner_note_path. Targetas \"Kolainiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  pagrindžia:
+    - c-86298
+
+<a id="claim-t-90471"></a>
+- t-005
+  global_id: t-90471
+  teiginys: "1293 m. magistras žiemą užpuolė Junigedos pilį ir sudegino du jos papilius: vieną ant kalno, kitą slėnyje."
+  temporaliniai_duomenys: "įvykio data: 1293 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą įvykį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "577833-578286; hash=aff2703c381b3c5ff92b71b1ed772b1b8be0580b22fe9315d6c79d9de9a547a5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Viena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Junigeda: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Junigeda\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-86297
+
+<a id="claim-t-184159"></a>
+- t-014
+  global_id: t-184159
+  teiginys: "Po to broliai nuplaukė beveik iki Junigedos pilies."
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "590455-590746; hash=10acf7244194f66a5ca0979ccf74f29bc033220993f911970909bb43b010feb1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Laivai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Junigeda: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Laivai: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Junigeda\" parinktas kaip owner_note_path. Targetas \"Laivai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+  vertinimo_autorius: "claim_quality_pipeline / rewrite"
+  pagrindžia:
+    - c-167544
+
+<a id="claim-t-194530"></a>
+- t-015
+  global_id: t-194530
+  teiginys: "Apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą 1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas, Karaliaučiaus komtūras, bei daug brolių su tūkstančiu penkiais šimtais vyrų, žygiuodami pro Kolainių pilį."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "566066-566565; hash=7de74406765d288150db229d6e79f6072f70730bb8d82966b79bd64c0e77d91e; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-86298
+
+<a id="claim-t-194531"></a>
+- t-016
+  global_id: t-194531
+  teiginys: "Apie Junigedos pilies papilių sudeginimą 1293 viešpaties metais magistras žiemą, nesigailėdamas nei savęs, nei savo žmonių, nevengdamas nei didelių rūpesčių, nei gausių išlaidų, visados pasiryžęs aukštinti tikėjimą ir tikinčiuosius, sutelkė visą savo."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "577833-578286; hash=aff2703c381b3c5ff92b71b1ed772b1b8be0580b22fe9315d6c79d9de9a547a5; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-86297
 - susijęs iš [[objektai/ivykiai/Junigedos papilio sudeginimas (1315 m. spalio 12 d.).md#claim-t-62300|Junigedos papilio sudeginimas (1315 m. spalio 12 d.)]]: 1315 m. spalio 12 d. Karolis su 6000 vyrų naktį puolė Junigedos papilį, paėmė 78 žmones į nelaisvę ir sudegino papilį iki pamatų.
 - susijęs iš [[objektai/ivykiai/Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas).md#claim-t-66576|Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas)]]: 1291 m. per Velykas lietuviai Junigedos valsčiuje pastatė pilį ir pavadino ją tuo pačiu vardu.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių žygis į Junigedos apylinkes ir Kolainių pilies sudeginimas (1291 m.).md#claim-t-185809|Kryžiuočių žygis į Junigedos apylinkes ir Kolainių pilies sudeginimas (1291 m.)]]: Vasario pradžioje Karaliaučiaus komtūras Bertoldas Briuhavenas atvedė daugiau kaip 1500 raitelių į Junigedos apylinkes.
@@ -203,12 +425,14 @@ Junigeda buvo lietuvių pilis ir valsčius, šaltiniuose minima 1291–1315 m. k
 
                      253 (246).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
     - t-013
+    - t-016
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -226,12 +450,14 @@ Junigeda buvo lietuvių pilis ir valsčius, šaltiniuose minima 1291–1315 m. k
 
          244 (237).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
     - t-012
+    - t-015
 
 - c-003
   santrauka: '1313 m. Ragainės komtūras Verneris pasistatydino karo laivą ir su juo plaukė pulti Junigedos pilies.'
@@ -244,6 +470,7 @@ Junigeda buvo lietuvių pilis ir valsčius, šaltiniuose minima 1291–1315 m. k
     laivą pagriebė smarkus vėjas ir nubloškė prie kranto. Šitai išvydę, pilėnai, pasičiupę
     ginklus, užpuolė laivą, o broliai ir ginklanešiai, jame buvę, pradėjo narsiai gintis.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -259,6 +486,7 @@ Junigeda buvo lietuvių pilis ir valsčius, šaltiniuose minima 1291–1315 m. k
     nukovė brolį Heinmaną, vardu Kindas, kitą brolį, vardu Listas, ir 25 vyrus. Viešpaties
     padedami, kiti paspruko.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -277,6 +505,7 @@ Junigeda buvo lietuvių pilis ir valsčius, šaltiniuose minima 1291–1315 m. k
     papilį, nukovė daug žmonių, 78 paėmė  į nelaisvę, o jį sudegino ligi pamatų. Po to jie
     nuvyko į Kristmemelio pilį ir atstatė viską, ką ten lietuviai buvo sugriovę.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -297,6 +526,7 @@ Junigeda buvo lietuvių pilis ir valsčius, šaltiniuose minima 1291–1315 m. k
     privertė visą brolių kariuomenę sugrįžti į mūšį ir pradėti kovą, kurioje žuvo vienas narsus
     lietuvis, o abi šalys neteko daug karių sunkiai sužeistaisiais.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -320,6 +550,7 @@ Junigeda buvo lietuvių pilis ir valsčius, šaltiniuose minima 1291–1315 m. k
 
                 255 (248).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -349,6 +580,7 @@ Junigeda buvo lietuvių pilis ir valsčius, šaltiniuose minima 1291–1315 m. k
     Medrabos pilies534, per kurią krikščionys patyrė daug bėdų, ir ją po stipraus antpuolio iki
     pamatų sudegino, o visus žmones išžudė ar paėmė į nelaisvę.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -366,11 +598,191 @@ Junigeda buvo lietuvių pilis ir valsčius, šaltiniuose minima 1291–1315 m. k
     įstrigo seklumoje  ir toliau neįstengė plaukti dėl mažo vandens, sugužėję netikėliai
     nukovė brolį Heinmaną, vardu Kindas, kitą brolį, vardu Listas, ir 25 vyrus.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
+## Citatos
+
+- id: c-86297
+  citata_originali: |
+    Apie Junigedos pilies papilių sudeginimą
+
+      1293 viešpaties metais magistras žiemą, nesigailėdamas nei savęs, nei savo žmonių,
+    nevengdamas nei  didelių rūpesčių, nei gausių  išlaidų, visados pasiryžęs  aukštinti
+    tikėjimą ir tikinčiuosius, sutelkė visą savo kariuomenę, patraukė prie Junigedos pilies ir
+    ją smarkiai užpuolė. Daug žmonių išžudęs, pavertė pelenais du šios pilies papilius, vieną
+    — ant kalno, kitą — slėnyje.
+
+
+
+
+                     253 (246).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-90471
+    - t-184158
+    - t-194531
+
+- id: c-86298
+  citata_originali: |
+    Apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą
+
+      1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas,
+    Karaliaučiaus komtūras, bei daug brolių su tūkstančiu penkiais šimtais vyrų, žygiuodami
+    pro Kolainių pilį, pamatė, kad joje nėra žmonių, ir ją sudegino. Šitai padarę, patraukė į
+    Junigedos valsčių532, kurį nusiaubė, grobdami bei degindami; neskaitant kitų padarytų
+    nuostolių, paėmė į nelaisvę ir nužudė septynis šimtus netikėlių.
+
+
+
+
+         244 (237).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-90470
+    - t-184157
+    - t-194530
+
+- id: c-86300
+  citata_originali: |
+    317 (310). Apie vieną brolių karo laivą
+
+      Po to brolis Verneris, Ragainės komtūras, 1313 metais pasistatydino karo laivą su
+    sienomis [cum meniis] ir daug kitų laivų; kai jis nuplaukė su jais pulti Junigedos pilies,
+    laivą pagriebė smarkus vėjas ir nubloškė prie kranto. Šitai išvydę, pilėnai, pasičiupę
+    ginklus, užpuolė laivą, o broliai ir ginklanešiai, jame buvę, pradėjo narsiai gintis.
+  citata_rodoma: "Apie vieną brolių karo laivą\n\n  Po to brolis Verneris, Ragainės komtūras, 1313 metais pasistatydino karo laivą su\nsienomis [cum meniis] ir daug kitų laivų; kai jis nuplaukė su jais pulti Junigedos pilies,\nlaivą pagriebė smarkus vėjas ir nubloškė prie kranto. Šitai išvydę, pilėnai, pasičiupę\nginklus, užpuolė laivą, o broliai ir ginklanešiai, jame buvę, pradėjo narsiai gintis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-90472
+
+- id: c-86302
+  citata_originali: |
+    Po to broliai nuplaukė beveik iki Junigedos pilies. Kai čia laivai
+    įstrigo seklumoje  ir toliau neįstengė plaukti dėl mažo vandens, sugužėję netikėliai
+    nukovė brolį Heinmaną, vardu Kindas, kitą brolį, vardu Listas, ir 25 vyrus. Viešpaties
+    padedami, kiti paspruko.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-90473
+
+- id: c-86304
+  citata_originali: |
+    Apie Junigedos papilio sudeginimą 1315 m. spalio 12
+
+      Tuo tarpu brolis Karolis, didysis magistras, rūpindamasis savo žmonių gyvybe  ir
+    sielodamasis dėl minėtosios pilies apgulos, subūrė didelę kariuomenę, ketindamas ją
+    išvaduoti. Kelyje sužinojęs, kad šie jau nutraukė apgulą, paleido kariuomenę, išskyrus
+    šešis tūkstančius vyrų, su kuriais naktį nuplaukė prie Junigedos pilies ir, įsiveržęs į jos
+    papilį, nukovė daug žmonių, 78 paėmė  į nelaisvę, o jį sudegino ligi pamatų. Po to jie
+    nuvyko į Kristmemelio pilį ir atstatė viską, ką ten lietuviai buvo sugriovę.
+  citata_rodoma: "spalio 12\n\n  Tuo tarpu brolis Karolis, didysis magistras, rūpindamasis savo žmonių gyvybe  ir\nsielodamasis dėl minėtosios pilies apgulos, subūrė didelę kariuomenę, ketindamas ją\nišvaduoti. Kelyje sužinojęs, kad šie jau nutraukė apgulą, paleido kariuomenę, išskyrus\nšešis tūkstančius vyrų, su kuriais naktį nuplaukė prie Junigedos pilies ir, įsiveržęs į jos\npapilį, nukovė daug žmonių, 78 paėmė  į nelaisvę, o jį sudegino ligi pamatų. Po to jie\nnuvyko į Kristmemelio pilį ir atstatė viską, ką ten lietuviai buvo sugriovę."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-90474
+    - t-90468
+
+- id: c-86305
+  citata_originali: |
+    271 (264). Apie Junigedos ir Pieštvės papilių sudeginimą 298 metais
+
+      Tuo metu, kai Prūsijos brolių kariuomenė dar tebebuvo Livonijos žemėse, brolis
+    Kunonas, Brandenburgo komtūras, užpuolė su didele kariuomene Junigedos bei Pieštvės
+    pilis ir iki pamatų sudegino jų papilius; kada jis traukė atgal, prie jo prisijungė laivu
+    atplaukęs vienas Ragainės brolis su būreliu ginklanešių, kurie, stoję į kovą su pilėnais,
+    privertė visą brolių kariuomenę sugrįžti į mūšį ir pradėti kovą, kurioje žuvo vienas narsus
+    lietuvis, o abi šalys neteko daug karių sunkiai sužeistaisiais.
+  citata_rodoma: "Apie Junigedos ir Pieštvės papilių sudeginimą 298 metais\n\n  Tuo metu, kai Prūsijos brolių kariuomenė dar tebebuvo Livonijos žemėse, brolis\nKunonas, Brandenburgo komtūras, užpuolė su didele kariuomene Junigedos bei Pieštvės\npilis ir iki pamatų sudegino jų papilius; kada jis traukė atgal, prie jo prisijungė laivu\natplaukęs vienas Ragainės brolis su būreliu ginklanešių, kurie, stoję į kovą su pilėnais,\nprivertė visą brolių kariuomenę sugrįžti į mūšį ir pradėti kovą, kurioje žuvo vienas narsus\nlietuvis, o abi šalys neteko daug karių sunkiai sužeistaisiais."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-90467
+
+- id: c-86306
+  citata_originali: |
+    254 (247). Apie Junigedos ir Pieštvės pilių papilių sudeginimą
+
+    Tais pačiais metais, švento Jokūbo apaštalo dieną (liepos 25), brolis Meinhardas,
+    magistras, kurio nei vargai nepalaužė, nei mirtis nepalauš, kuris nei žūti nebijojo, nei
+    gyventi neatsižadėjo, subūrė galybę raitelių ir smarkiai užpuolė abi lietuvių pilis, būtent:
+    Junigedą ir Pieštvę541; kai abi šalys patyrė nuostolių užmuštaisiais ir sužeistaisiais, jie iki
+    pamatų sudegino abiejų pilių papilius, nes nieko daugiau nestengė padaryti.
+
+
+
+
+                255 (248).
+  citata_rodoma: "Apie Junigedos ir Pieštvės pilių papilių sudeginimą\n\nTais pačiais metais, švento Jokūbo apaštalo dieną (liepos 25), brolis Meinhardas,\nmagistras, kurio nei vargai nepalaužė, nei mirtis nepalauš, kuris nei žūti nebijojo, nei\ngyventi neatsižadėjo, subūrė galybę raitelių ir smarkiai užpuolė abi lietuvių pilis, būtent:\nJunigedą ir Pieštvę541; kai abi šalys patyrė nuostolių užmuštaisiais ir sužeistaisiais, jie iki\npamatų sudegino abiejų pilių papilius, nes nieko daugiau nestengė padaryti.\n\n\n\n\n            255 (248)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-90469
+
+- id: c-86307
+  citata_originali: |
+    Apie Junigedos pilies pastatymą ir Medrabos pilies sunaikinimą
+
+       Tais pačiais metais per velykas lietuviai pastatė Junigedos valsčiuje  pilį533, kurią
+
+      531  Žr. D. III, 227.
+      532 D.— territorium Junigede, Jer — genant zu Junigêdin; valsčius  ir  pilis  (žr.
+    paaiškinimus D. III, 244, 1); vėliau, kitose kronikose, jau Veliuona (Zajączkowski S.,
+    Studya..., p. 38— 39). Dusburgietis, matyt, valsčiaus vardu vadinęs ir jo centrą, t. y.
+    Veliuoną (SZM, p. 215—216, 239—241), įsikūrusį deš. Nemuno krante prie Veliuonos
+    upelio.
+      533 Junigedos, Junigėdos (Veliuonos)  pilis greičiausiai buvo rytiniame Veliuonos
+    piliakalnyje, kuris vadinamas Gedimino kapu (LAA, 2, p. 179, Nr. 804). Prie pilies buvo du
+    papiliai — ant kalno ir slėnyje (D. III, 252). Pirmajam priklausė į vakarus nuo Gedimino
+
+    pavadino tuo pačiu vardu. Minėtas  brolis Bertoldas,  šitai sužinojęs, atžygiavo su
+    tūkstančiu Sembos vyrų  ir pabandė sutrukdyti statybai, bet nestengė, nes netikėliai
+    stipriai priešinosi; nenorėdami, kad jų pastangos būtų visai bergždžios, jie pasuko link
+    Medrabos pilies534, per kurią krikščionys patyrė daug bėdų, ir ją po stipraus antpuolio iki
+    pamatų sudegino, o visus žmones išžudė ar paėmė į nelaisvę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-90466
+    - t-90476
+    - t-90475
+
+- id: c-167544
+  citata_originali: |
+    Vis dėlto lietuviai neteko 70 prityrusių
+    karių, žuvusių kovoje. Po to broliai nuplaukė beveik iki Junigedos pilies. Kai čia laivai
+    įstrigo seklumoje  ir toliau neįstengė plaukti dėl mažo vandens, sugužėję netikėliai
+    nukovė brolį Heinmaną, vardu Kindas, kitą brolį, vardu Listas, ir 25 vyrus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184159
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Henrikas Cutsvertas]], [[objektai/asmenys/Konradas Štangė]]

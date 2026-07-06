@@ -9,6 +9,18 @@ tags:
   - paprotys
   - reforma
   - valstybė
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose
 
@@ -39,39 +51,92 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54297"></a>
-- t-001
+- t-003
   global_id: t-54297
-  teiginys: 'Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose prisidėjo prie europinės kultūros įsisavinimo.'
+  teiginys: "Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose prisidėjo prie europinės kultūros įsisavinimo."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "96654-96956; hash=ade6640cd053d602bbe4fb017692b33a1c4a9e75f13d5a4ea15d9db013d7ac9d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Italija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Italija: mention_match, place, gap=50"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose\" parinktas kaip owner_note_path. Targetas \"Italija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-55176
 
 <a id="claim-t-54298"></a>
 - t-002
   global_id: t-54298
-  teiginys: 'Didžiausią įtaką Lietuvos kultūrai darė lenkiškoji civilizacija, veikusi per bažnytinę sistemą, studijas Krokuvoje, administraciją ir ūkio reformą.'
+  teiginys: "Didžiausią įtaką Lietuvos kultūrai darė lenkiškoji civilizacija, veikusi per bažnytinę sistemą, studijas Krokuvoje, administraciją ir ūkio reformą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "113966-114348; hash=e08f287300c697586061e3ceb26470ddb8fd54249d5a5d3dace10aa4f7dcaa3d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=88"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-55175
 
 <a id="claim-t-54299"></a>
-- t-003
+- t-001
   global_id: t-54299
-  teiginys: 'Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose buvo svarbios europinės kultūros įsisavinimui.'
+  teiginys: "Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose buvo svarbios europinės kultūros įsisavinimui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "96654-96956; hash=ade6640cd053d602bbe4fb017692b33a1c4a9e75f13d5a4ea15d9db013d7ac9d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Italija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Italija: mention_match, place, gap=50"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose\" parinktas kaip owner_note_path. Targetas \"Italija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-55176
 
 <a id="claim-t-54300"></a>
 - t-004
   global_id: t-54300
-  teiginys: 'Studijos Krokuvos universitete buvo vienas lenkiškosios civilizacijos poveikio Lietuvos kultūrai būdų.'
+  teiginys: "Studijos Krokuvos universitete buvo vienas lenkiškosios civilizacijos poveikio Lietuvos kultūrai būdų."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "113966-114348; hash=e08f287300c697586061e3ceb26470ddb8fd54249d5a5d3dace10aa4f7dcaa3d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-55175
 
 <a id="claim-t-183322"></a>
 - t-005
   global_id: t-183322
-  teiginys: 'Lenkiškoji civilizacija darė didžiausią įtaką Lietuvos kultūrai per bažnytinę sistemą, studijas Krokuvoje, administraciją ir ūkio reformą.'
+  teiginys: "Lenkiškoji civilizacija darė didžiausią įtaką Lietuvos kultūrai per bažnytinę sistemą, studijas Krokuvoje, administraciją ir ūkio reformą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "114076-114597; hash=15feffc30a8a7441c4f5047dfaa2c883207c8b715b99ebc91346eb41de39d666; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=50"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-166712
 - susijęs iš Krokuva: Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose prisidėjo prie europinės kultūros įsisavinimo.
 ## Reikšmingi paminėjimai
 
@@ -85,8 +150,9 @@ Nenurodyta
     organizavimu, studijomis Krokuvos universitete, administracinės sistemos
     perėmimu, ūkio reforma.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -100,8 +166,9 @@ Nenurodyta
     versitetuose. Šios studijos, o ir apskritai europinės kultūros įsisavinimas
     davė konkrečių rezultatų XV a. pabaigoje–XVI a. pirmoje pusėje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -119,8 +186,59 @@ Nenurodyta
     ir europeizacija baigdavosi lenkėjimu. Ši aplinkybė išryškėjo reformacijos
     metu, kai buvo pradėta kelti gyvųjų kalbų reikšmė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
+## Citatos
+
+- id: c-55175
+  citata_originali: |
+    Mykolas Lietuvis siūlo ir kalbos permainas – at-
+    sisakyti rusėnų kalbos ir pereiti prie romėnų, t. y. lotynų. Tačiau viską nulė-
+    mė dar viena aplinkybė – didžiausią įtaką Lietuvos kultūrai darė lenkiškoji
+    civilizacija. Jos poveikis reiškėsi įvairiais pavidalais: bažnytinės sistemos
+    organizavimu, studijomis Krokuvos universitete, administracinės sistemos
+    perėmimu, ūkio reforma.
+  citata_rodoma: "Mykolas Lietuvis siūlo ir kalbos permainas – at-\nsisakyti rusėnų kalbos ir pereiti prie romėnų, t. y. lotynų. Tačiau viską nulė-\nmė dar viena aplinkybė – didžiausią įtaką Lietuvos kultūrai darė lenkiškoji \ncivilizacija. Jos poveikis reiškėsi įvairiais pavidalais: bažnytinės sistemos \norganizavimu, studijomis Krokuvos universitete, administracinės sistemos \nperėmimu, ūkio reforma."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54298
+
+- id: c-55176
+  citata_originali: |
+    Lietuvai tai
+    pavyko padaryti per šimtmetį. Svarbų vaidmenį šiame procese suvaidino
+    Lietuvos jaunimo studijos Krokuvos, o vėliau ir Vokietijos bei Italijos uni-
+    versitetuose. Šios studijos, o ir apskritai europinės kultūros įsisavinimas
+    davė konkrečių rezultatų XV a. pabaigoje–XVI a. pirmoje pusėje.
+  citata_rodoma: "Lietuvai tai \npavyko padaryti per šimtmetį. Svarbų vaidmenį šiame procese suvaidino \nLietuvos jaunimo studijos Krokuvos, o vėliau ir Vokietijos bei Italijos uni-\nversitetuose. Šios studijos, o ir apskritai europinės kultūros įsisavinimas \ndavė konkrečių rezultatų XV a. pabaigoje–XVI a. pirmoje pusėje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54299
+
+- id: c-166712
+  citata_originali: |
+    Tačiau viską nulė-
+    mė dar viena aplinkybė – didžiausią įtaką Lietuvos kultūrai darė lenkiškoji
+    civilizacija. Jos poveikis reiškėsi įvairiais pavidalais: bažnytinės sistemos
+    organizavimu, studijomis Krokuvos universitete, administracinės sistemos
+    perėmimu, ūkio reforma. Lenkija buvo LDK mokytoja. Lietuvos bėda, kad
+    ji dažnu atveju nesuspėjo ar neturėjo galimybių pasiekti „gilesnę“ Europą
+    ir europeizacija baigdavosi lenkėjimu. Ši aplinkybė išryškėjo reformacijos
+    metu, kai buvo pradėta kelti gyvųjų kalbų reikšmė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183322

@@ -18,6 +18,18 @@ tags:
   - vieta
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vaikiai
 
@@ -28,32 +40,87 @@ Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, ku
 ## Teiginiai
 
 <a id="claim-t-85033"></a>
-- t-001
+- t-005
   global_id: t-85033
-  teiginys: 'Vaikių krašte buvusi šventoji giria su netoliese stovėjusia pilimi ir pastatais per vieną naktį buvo sudeginta.'
+  teiginys: "Vaikių krašte buvusi šventoji giria su netoliese stovėjusia pilimi ir pastatais per vieną naktį buvo sudeginta."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "157991-158399; hash=a8edb29fb93e47cf0022bea39cc21bd19323e02a90fe567aa117ea7134b28b30; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Viena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vaikiai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=84"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaikiai\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-81109
 
 <a id="claim-t-184210"></a>
-- t-002
+- t-006
   global_id: t-184210
-  teiginys: 'Vieno žygio į Vaikių valsčių metu iš pasalų buvo nukauta daug kilmingųjų.'
+  teiginys: "Vieno žygio į Vaikių valsčių metu iš pasalų buvo nukauta daug kilmingųjų."
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "585425-585713; hash=4ae839134b4f86e14261c3f6cfb149212ee34f1fb372601cba9e501f6a1cf084; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pagraudė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vaikiai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Pagraudė: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaikiai\" parinktas kaip owner_note_path. Targetas \"Pagraudė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-167595
 
 <a id="claim-t-184211"></a>
-- t-003
+- t-007
   global_id: t-184211
-  teiginys: '1317 m. žiemą maršalas Henrikas su broliais bei Sembos ir Notangos kariais nužygiavo prieš Vaikių valsčių.'
+  teiginys: "1317 m. žiemą maršalas Henrikas su broliais bei Sembos ir Notangos kariais nužygiavo prieš Vaikių valsčių."
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1317 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo fragmentiškas, o citata palaiko aiškų faktą apie žygį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "657787-658636; hash=994c1103bda52c8f5faddf5713f4f2b1279835c21f4d1d8e1e60c4db2cfc0eb9; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Henrikas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vaikiai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Henrikas: mention_match, author, gap=68"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaikiai\" parinktas kaip owner_note_path. Targetas \"Henrikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-167596
 
 <a id="claim-t-185170"></a>
-- t-004
+- t-008
   global_id: t-185170
-  teiginys: 'Iš Prūsijos atžygiavęs priešas Žemaitijoje sulygino su žeme Vaikių, Raseinių, Ariogalos ir Klogėnų valsčius.'
+  teiginys: "Iš Prūsijos atžygiavęs priešas Žemaitijoje sulygino su žeme Vaikių, Raseinių, Ariogalos ir Klogėnų valsčius."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1322 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Vaikių valsčių ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "356553-357029; hash=fafb560850dac368d4fde2727b20d2109680f30f91d84c776ac4add3606132f7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ariogala: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vaikiai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Ariogala: mention_match, place, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaikiai\" parinktas kaip owner_note_path. Targetas \"Ariogala\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-168531
 - susijęs iš [[objektai/asmenys/Henrikas iš Plockės.md#claim-t-59869|Henrikas iš Plockės]]: 1317 m. žiemą Henrikui iš Plockės žygiuojant prieš Vaikių valsčių, audra išblaškė daugiau kaip 500 arklių.
 - susijęs iš [[objektai/paprociai/Kryžiuočių žygių belaisvių ėmimo, krašto niokojimo ir plėšikavimo praktika.md#claim-t-87296|Kryžiuočių žygių belaisvių ėmimo, krašto niokojimo ir plėšikavimo praktika]]: 1322 m. kryžiuočių žygio į Vaikius Žemaitijoje tikslai buvo belaisvių ėmimas, krašto niokojimas ir plėšikavimas.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Vildenbergo.md#claim-t-60279|Fridrichas iš Vildenbergo]]: 1322 m. Fridrichas iš Vildenbergo, pavadavęs didįjį magistrą, su Ordino kariuomene žiemą įsiveržė į Vaikių valsčių.
@@ -105,6 +172,7 @@ Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, ku
     išžudyti. Baigusi kruvinus darbus, ginkluota palyda kitą die­
     ną pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -120,6 +188,7 @@ Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, ku
     — irgi iš pasalų — nukovė daug kilmingųjų. Vargu ar įmanoma tiksliai surašyti, kiek
     sykių jis stojo prieš juos  į kovą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -144,6 +213,7 @@ Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, ku
 
     vienas nebūtų išnešęs sveikos galvos.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -170,11 +240,89 @@ Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, ku
     Gediminas, kai jį užgriuvo
     naujos bėdos.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
+## Citatos
+
+- id: c-81109
+  citata_originali: |
+    Belaisvių ėmimas, krašto niokojimas bei
+    plėšikavimas, kaip ir per ankstesnius puolimus, buvo vie­
+    ninteliai žygio tikslai. Vaikių krašte buvo šventoji giria, ku­
+    ri kartu su netoliese stovėjusia pilimi ir aplinkiniais pasta­
+    tais vieną naktį buvo sudeginta iki pamatų, visi gyventojai
+    išžudyti. Baigusi kruvinus darbus, ginkluota palyda kitą die­
+    ną pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-85033
+
+- id: c-167595
+  citata_originali: |
+    Šis karas taip palaužė Pagraudės žmones, kad ilgus metus jie nestengė suburti
+    tiek raitelių, kiek galėjo anksčiau. Be to, jis patraukė  į valsčių, vardu Vaikiai545, kur
+    — irgi iš pasalų — nukovė daug kilmingųjų. Vargu ar įmanoma tiksliai surašyti, kiek
+    sykių jis stojo prieš juos  į kovą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184210
+
+- id: c-167596
+  citata_originali: |
+    Kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę
+                                    kariuomenę
+
+      1317 viešpaties metais, žiemą, kai brolis Henrikas, maršalas, broliai bei Sembos ir
+    Notangos kariai nužygiavo prieš Vaikių valsčių, pačiame vidurnaktyje, vos sumigus,
+    atūžė tokia siaubinga, tokia nematyta negirdėta audra, kad vėjai taip klaikiai daužėsi,
+    jog rodėsi, kad tranko griaustinis; nekalbant jau apie baimę, apėmusią žmones, daugiau
+    nei penki šimtai arklių, sutraukę kamanas ir pančius, išlakstė po mišką. Todėl, vargais
+    negalais sugaudę arklius, tiesa, ne visus, brolių kariuomenė patraukė atgal. Neilgai
+    trukus jie gavo patikimą žinią, kad daugybė kovai pasirengusių netikėlių tris dienas
+    tykojo brolių bei jų kariuomenės; jeigu krikščionys būtų įsibrovę  į jų žemę grobio, nė
+
+    vienas nebūtų išnešęs sveikos galvos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184211
+
+- id: c-168531
+  citata_originali: |
+    Su šiomis jėgomis patraukęs iš Prūsijos, priešas baisiai
+    nusiaubė Žemaitiją. Didelį kraštą — Vaikių, Raseinių,
+    Ariogalos ir Klogėnų valsčius jis sulygino su žeme.
+    Apmalšinus žudynėmis širdis, kai, pykčiui lėgstant,
+    gėda apėmė ginkluotus karius, kad nelyginant plėši­
+    kai siaubia beginklius žmones ir kaimiečių lūšneles,
+    1322 m eta i
+    V o k ie č ių  ir k r y ž iu o ­
+    čių
+    š v e n ta sis
+    karas
+    prieš lietu viu s
+    Šiais dalykais ir rūpinosi
+    Gediminas, kai jį užgriuvo
+    naujos bėdos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185170
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Fridrichas fon Vildenbergas]]

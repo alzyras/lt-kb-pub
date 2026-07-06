@@ -18,6 +18,18 @@ tags:
   - sąvoka
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # maršalas
 
@@ -28,46 +40,132 @@ amziai:
 ## Teiginiai
 
 <a id="claim-t-42479"></a>
-- t-001
+- t-002
   global_id: t-42479
-  teiginys: '1355 m. pradžioje maršalo vadovaujama Kryžiuočių kariuomenė penketą dienų niokojo centrinę Žemaitijos Medininkų žemę.'
+  teiginys: "1355 m. pradžioje maršalo vadovaujama Kryžiuočių kariuomenė penketą dienų niokojo centrinę Žemaitijos Medininkų žemę."
+  semantiniai_rysiai: "Kryžiuočių ordinas puolė Medininkai (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1355 m.; įvykio data: po 1356 m.; įvykio data: 1356 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie maršalo vadovautą kariuomenę ir atitinka citatą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "147303-147797; hash=90a08eca465d90bcd45a81b6911e79b32d3359dc79e43567383255f3b9e6a255; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Medininkai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Medininkai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claimas tiesiogiai nurodo, kad Kryžiuočių kariuomenė niokojo Medininkų žemę; tai karinis puolimas."
   pagrindžia:
-    - c-001
+    - c-45532
 
 <a id="claim-t-42480"></a>
-- t-002
+- t-001
   global_id: t-42480
-  teiginys: '1348 m. Ordino maršalas Zygfridas iš Dahenfeldo dalyvavo Strėvos mūšyje kartu su didžiuoju komtūru Vinrichu iš Kniprodės.'
+  teiginys: "1348 m. Ordino maršalas Zygfridas iš Dahenfeldo dalyvavo Strėvos mūšyje kartu su didžiuoju komtūru Vinrichu iš Kniprodės."
+  temporaliniai_duomenys: "įvykio data: 1348 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "143239-143609; hash=e7b92c560b166155e4a39b2a2a8ada82ac38064208f6855da4188f334f54a1de; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Strėva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "maršalas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Strėva: mention_match, place, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"maršalas\" parinktas kaip owner_note_path. Targetas \"Strėva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-45533
 
 <a id="claim-t-183717"></a>
 - t-003
   global_id: t-183717
-  teiginys: '1348 m. Ordino maršalas brolis Zygfridas iš Dahenfeldo dalyvavo Strėvos mūšyje ir narsiai kovėsi.'
+  teiginys: "1348 m. Ordino maršalas brolis Zygfridas iš Dahenfeldo dalyvavo Strėvos mūšyje ir narsiai kovėsi."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1348 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia pataisyti asmenvardžio formą pagal citatą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "143239-143609; hash=e7b92c560b166155e4a39b2a2a8ada82ac38064208f6855da4188f334f54a1de; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Strėva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "maršalas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Strėva: mention_match, place, gap=49"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"maršalas\" parinktas kaip owner_note_path. Targetas \"Strėva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-002
+    - c-45533
 
 <a id="claim-t-184627"></a>
 - t-004
   global_id: t-184627
-  teiginys: 'Rūmų maršalas Kernavėje įteikė Lietuvos valdovu paskelbtam Giliginui kalaviją ir lazdą.'
+  teiginys: "Rūmų maršalas Kernavėje įteikė Lietuvos valdovu paskelbtam Giliginui kalaviją ir lazdą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Trobius valdė teritoriją Žemaitija (0.78)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "222578-223114; hash=24f7d0a031b9a02e4b0c031fb89e8800d4a0fa09219a2f41e76a15fea2f51aaa; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_teritorija -> Žemaitija: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Trobius: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Žemaitija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje Žemaitija patikėta Trobiui, todėl tai pagrindžia jo valdymo ryšį su Žemaitija."
   pagrindžia:
-    - c-003
+    - c-167988
 
 <a id="claim-t-184628"></a>
 - t-005
   global_id: t-184628
-  teiginys: 'Vytenis, suaugęs Traidenio šeimoje, tapo rūmų pareigūnu, kurį paprastai vadino maršalu.'
+  teiginys: "Vytenis, suaugęs Traidenio šeimoje, tapo rūmų pareigūnu, kurį paprastai vadino maršalu."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Traidenis (valdovas, XIII a.) surengė žygį į Prūsija (0.84)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "257992-258733; hash=3c97fb687e961a29adcac288e4590c9eb63b8fcf33e8004254feba561f76a7a4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Prūsija: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Traidenis (valdovas, XIII a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai mini Traidenio žygį į Prūsiją."
   pagrindžia:
-    - c-004
+    - c-167989
 
 <a id="claim-t-184629"></a>
 - t-006
   global_id: t-184629
-  teiginys: 'Vytautas į Korčino seimą nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą.'
+  teiginys: "Vytautas į Korčino seimą nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) siuntė į Korčinas (0.87)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "734185-734597; hash=3900cd2cc66b7cf5a72b549713666bceed1e1798d8ea22a4db3eb36e0dc9723e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Korčinas: 0.87"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Korčinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claimas tiesiogiai nurodo, kad Vytautas siuntė pasiuntinius į Korčino seimą."
   pagrindžia:
-    - c-005
+    - c-167990
 - susijęs iš [[objektai/asmenys/Ditrichas (Prūsijos žemės maršalas).md#claim-t-89685|Ditrichas (Prūsijos žemės maršalas)]]: Brolis Ditrichas buvo Prūsijos žemės maršalas Helmericho, šeštojo Prūsijos žemės magistro, vadovavimo metu.
 - susijęs iš [[objektai/asmenys/Ditrichas (Prūsijos žemės maršalas).md#claim-t-89687|Ditrichas (Prūsijos žemės maršalas)]]: Brolis Ditrichas buvo Prūsijos žemės maršalas tuo metu, kai Helmerichas vadovavo Prūsijos žemei.
 - susijęs iš [[objektai/asmenys/Henrikas iš Kalendino.md#claim-t-60314|Henrikas iš Kalendino]]: Henrikas iš Kalendino buvo imperijos maršalas, minimas tarp didikų, pritarusių legatų siuntimui dėl ligoninės patvirtinimo.
@@ -260,6 +358,7 @@ amziai:
     jėgos, nuo 1356 m. santykiai su tomis šali-
     mis kuriam laikui normalizavosi.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -275,6 +374,7 @@ amziai:
     pagal maršalo įsakymą abiejų lyčių stabmeldžiai - jauni ir seni - buvo žudomi, o kraš-
     tas ugnimi išdegintas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -300,6 +400,7 @@ amziai:
     paprotys, kuriuo valdovui suteikdavo aukščiausiąją ga­
     lią žiūrėti valstybės reikalų ir viduje, ir svetur.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -325,6 +426,7 @@ amziai:
     niui, jis tapo jo patarėju, karo žygių bendrininku, kol
     galop Lauras jį pasiūlė sosto paveldėtoju.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -347,8 +449,135 @@ amziai:
     Luomų susirinkime jie trumpai, bet aiškiai išdėstė val­
     dovo reikalavimus.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
+## Citatos
+
+- id: c-45532
+  citata_originali: |
+    S
+    sv
+    2.
+    BAU
+    =
+    S 8
+    S
+    m
+    e-+
+    >
+    os
+    2%
+
+    ## Puslapis 40
+
+    SUS os
+
+    : i Paha
+    “| KARALYS'
+
+    Mūšio priešistorė
+
+    Tesiantis Lietuvos karui su Vokiečių or-
+    dinu, 1355 m. pradžioje didelė Kryžiuočių
+    kariuomenė, vadovaujama maršalo, įsi-
+    veržusi penketą dienų niokojo centri-
+
+    nę Žemaitijos Medininkų žemę, po to
+    Vaikius (vakariau Raseinių), Ariogalą
+    prie Dubysos. Tais metais į Lietuvos pie-
+    tines žemes veržėsi Lenkijos ir Vengrijos
+    jėgos, nuo 1356 m. santykiai su tomis šali-
+    mis kuriam laikui normalizavosi.
+  citata_rodoma: "BAU\n=\nS 8\nS\nm\ne-+\n>\nos\n2%\n\n## Puslapis 40\n\nSUS os\n\n: i Paha\n“| KARALYS'\n\nMūšio priešistorė\n\nTesiantis Lietuvos karui su Vokiečių or-\ndinu, 1355 m. pradžioje didelė Kryžiuočių\nkariuomenė, vadovaujama maršalo, įsi-\nveržusi penketą dienų niokojo centri-\n\nnę Žemaitijos Medininkų žemę, po to\nVaikius (vakariau Raseinių), Ariogalą\nprie Dubysos. Tais metais į Lietuvos pie-\ntines žemes veržėsi Lenkijos ir Vengrijos\njėgos, nuo 1356 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-42479
+
+- id: c-45533
+  citata_originali: |
+    „[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis
+    Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi. Dieną prieš
+    [Šventojo] Pauliaus Atsivertimo šventę [sausio 24 d.] jie įėjo į [stabmeldžių] žemę, kur
+    pagal maršalo įsakymą abiejų lyčių stabmeldžiai - jauni ir seni - buvo žudomi, o kraš-
+    tas ugnimi išdegintas.
+  citata_rodoma: "„[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis\nVinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi. Dieną prieš\n[Šventojo] Pauliaus Atsivertimo šventę [sausio 24 d."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-42480
+    - t-183717
+
+- id: c-167988
+  citata_originali: |
+    Sukvietus Kernavėje didikų sueigą, Germanto
+    vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos
+    valdovu, jo broliui Trobiui
+    patikėta Žemaitija su ta są­
+    lyga, kad jis bus pavaldus
+    Lietuvos didžiajam kunigaik­
+    ščiui. Rūmų maršalas, para­
+    ginęs vieną bei kitą siekti ir
+    karo, ir taikos metu tokios pat santarvės bei šlovės,
+    kokią paveldėjo iš protėvių, įteikė Giliginui kalaviją
+    bei lazdą. Šitoks nesudėtingas tada buvo vainikavimo
+    paprotys, kuriuo valdovui suteikdavo aukščiausiąją ga­
+    lią žiūrėti valstybės reikalų ir viduje, ir svetur.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184627
+
+- id: c-167989
+  citata_originali: |
+    Kartą Traidenis sugrįžo iš žygio į Prūsiją ir
+    pamatė tarp kitų berniukų Vytenį, kurio gražus vei­
+    das jį patraukė ypatingu kilnumu (dažniausiai paskiri
+    didelių asmenybių bruožai esti taurūs), jis pradėjo ati­
+    džiau jį stebėti, o ilgainiui, sakytum paskatintas kažin
+    kokios slaptos galios, aiškiau suvokė savo busimąsias
+    viltis, kurių gerai nė pats nesuprato. Netrukus, tėvams
+    mielai sutinkant, mažametis Vytenis atsidūrė Traide­
+    nio šeimoje; kadangi jo dvasinė stiprybė ryškėjo die­
+    na iš dienos, vos suaugęs tapo miegamojo patarnauto­
+    ju, o susilaukęs vyro metų,— rūmų pareigūnu, kurį
+    paprastai vadina maršalu. Anksti įtikęs valdovui Traide­
+    niui, jis tapo jo patarėju, karo žygių bendrininku, kol
+    galop Lauras jį pasiūlė sosto paveldėtoju.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184628
+
+- id: c-167990
+  citata_originali: |
+    Po to prasidėjo ilgos tarpusavio rietenos, kurias
+    nuolat kurstė ir Vytautas, ir
+    lenkai, siuntinėdami žygūnus:
+    Lietuvos didysis kunigaikštis
+    stengėsi iš lenkų išgauti suti­
+    kimą, o šie — priversti Vy­
+    tautą atsisakyti savo sumany­
+    mo. Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­
+    niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.
+    Luomų susirinkime jie trumpai, bet aiškiai išdėstė val­
+    dovo reikalavimus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184629

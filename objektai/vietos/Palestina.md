@@ -18,6 +18,18 @@ tags:
 amziai:
   - 'XII'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Palestina
 
@@ -30,9 +42,22 @@ Kadangi tuo metu Europoje buvo skelbiami kryžiaus karai prieš turkus Palestino
 <a id="claim-t-183067"></a>
 - t-001
   global_id: t-183067
-  teiginys: 'Europoje skelbiami kryžiaus karai prieš turkus Palestinoje skatino savanorius karius vykti į kovas su pagonimis.'
+  teiginys: "Europoje skelbiami kryžiaus karai prieš turkus Palestinoje skatino savanorius karius vykti į kovas su pagonimis."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "98676-99208; hash=16b22ded50f731935515c471db43c3dabc0b444a7e4d2949c89fd0463532aab0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Palestina: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=47"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Palestina\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-166458
 - susijęs iš [[objektai/ivykiai/Totorių, armėnų ir gruzinų žygis į Siriją bei Palestiną (1311 m.).md#claim-t-62507|Totorių, armėnų ir gruzinų žygis į Siriją bei Palestiną (1311 m.)]]: 1311 m. totoriai su armėnais ir gruzinais žygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkst. raitelių.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171441|Totoriai]]: Totoriai su armėnais ir gruzinais nužygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkstančių raitelių.
 - susijęs iš [[objektai/grupes/Armėnai.md#claim-t-88520|Armėnai]]: Totoriai kartu su armėnais ir gruzinais žygiavo į Siriją bei Palestiną ir nukovė daugiau nei 10 tūkstančių raitelių.
@@ -75,11 +100,32 @@ Kadangi tuo metu Europoje buvo skelbiami kryžiaus karai prieš turkus Palestino
     pabuvę kiek laiko (dažniausiai metus), jie grįždavo atgal, ir vėl
     reikėdavo ieškoti naujų karių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-166458
+  citata_originali: |
+    Dažnai jis pats nuvykdavo į Vokietiją ir atsiveždavo
+    būrius karių ir riterių, kurie jam padėjo ne tik saugoti esančias
+    krikščionių bendruomenes, bet ir plėsti krikščionybę ir stiprinti
+    valdžią. Kadangi tuo metu Europoje buvo skelbiami kryžiaus
+    karai prieš turkus Palestinoje ir vyravo nuomonė, kad su neti-
+    kėliais pagonimis reikią kariauti, todėl savanorių karių atsiras-
+    davo nemaža. Bet atvykstančių karių pagalba buvo laikinė, nes,
+    pabuvę kiek laiko (dažniausiai metus), jie grįždavo atgal, ir vėl
+    reikėdavo ieškoti naujų karių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183067
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Žydai]]

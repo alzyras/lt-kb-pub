@@ -12,6 +12,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais (sutartis)
 
@@ -42,12 +54,23 @@ Praktika minima Vytauto santykiuose su Ordinu ir Jogailos dokumentiniame pažad�
 ## Teiginiai
 
 <a id="claim-t-67216"></a>
-- t-001
+- t-006
   global_id: t-67216
-  teiginys: '1385 m. rugpjūčio 14 d. Jogailos pažadus patvirtinęs dokumentas buvo papildomai sustiprintas Vytauto, Skirgailos, Kaributo ir Lengvenio antspaudais.'
+  teiginys: "1385 m. rugpjūčio 14 d. Jogailos pažadus patvirtinęs dokumentas buvo papildomai sustiprintas Vytauto, Skirgailos, Kaributo ir Lengvenio antspaudais."
+  temporaliniai_duomenys: "įvykio data: 1385 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "99331-99813; hash=657bb0e38a235da236f41bed8afec66dd95e954f7bf357674825d3dae9398377; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antspaudai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais (sutartis): owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Antspaudai: mention_match, thing, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais (sutartis)\" parinktas kaip owner_note_path. Targetas \"Antspaudai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-14488
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -62,8 +85,28 @@ Praktika minima Vytauto santykiuose su Ordinu ir Jogailos dokumentiniame pažad�
     reikšmės Lietuvai, savo antspaudas, be Jogailos, pridėjo dar Vy­
     tautas, Skirgaila, Kaributas ir Lengvenis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-14488
+  citata_originali: |
+    Po trumpų tarp abiejų pusių trukusių derybų, 1385 metų
+    rugpjūčio mėn. 14 d. toje pačioje pilyje, kur pabaigė savo dienas
+    garbingas kunigaikštis Kęstutis ir tokio pat likimo buvo laukęs jo
+    sūnus Vytautas, Jogaila dokumentališkai patvirtino visus paža­
+    dus, kuriuos jo pasiuntiniai buvo davę lenkams Krokuvoj ir ven­
+    grams Budapešte. Prie to dokumento, kuris turėjo fatališkos
+    reikšmės Lietuvai, savo antspaudas, be Jogailos, pridėjo dar Vy­
+    tautas, Skirgaila, Kaributas ir Lengvenis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67216

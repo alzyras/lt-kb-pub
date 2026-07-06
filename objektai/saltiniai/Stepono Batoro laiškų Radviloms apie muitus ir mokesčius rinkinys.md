@@ -16,6 +16,18 @@ tags:
   - vyskupas
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Stepono Batoro laiškų Radviloms apie muitus ir mokesčius rinkinys
 
@@ -28,10 +40,22 @@ Dviejų karaliaus Stepono Batoro laiškų, rašytų Radviloms, turinys: apie mui
 <a id="claim-t-88479"></a>
 - t-001
   global_id: t-88479
-  teiginys: 'Stepono Batoro laiškų Radviloms rinkinyje buvo du laiškai apie muitus ir mokesčius Vilniaus pirkliams ir miestiečiams.'
+  teiginys: "Stepono Batoro laiškų Radviloms rinkinyje buvo du laiškai apie muitus ir mokesčius Vilniaus pirkliams ir miestiečiams."
+  temporaliniai_duomenys: "įvykio data: 1559 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai nusako citatoje minimą dviejų laiškų turinį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "875691-876086; hash=14d2325a12280d6c5da4dc37f397698c2c8410955e5cbbd4377b126a9fd31661; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Steponas Batoras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Stepono Batoro laiškų Radviloms apie muitus ir mokesčius rinkinys: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Steponas Batoras: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stepono Batoro laiškų Radviloms apie muitus ir mokesčius rinkinys\" parinktas kaip owner_note_path. Targetas \"Steponas Batoras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-84458
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -53,8 +77,35 @@ Dviejų karaliaus Stepono Batoro laiškų, rašytų Radviloms, turinys: apie mui
     •328 •
     VIII PRIEDAS.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-84458
+  citata_originali: |
+    Karaliaus Žygimanto Senojo privilegija prieš eretikus,
+    duota Vilniaus vyskupui, 1542 metais
+    •316 •
+    VI PRIEDAS.
+    Žygimanto Augusto raštas, paliudijantis
+    Vilniaus vyskupo Valerijono priešinimąsi
+    Augsburgo tikėjimui, 1559 m.
+    •324 •
+    VII PRIEDAS.
+    Dviejų karaliaus Stepono Batoro laiškų, rašytų Radviloms,
+    turinys: apie muitus ir mokesčius
+    Vilniaus pirkliams ir miestiečiams
+    •328 •
+    VIII PRIEDAS.
+  citata_rodoma: "Žygimanto Augusto raštas, paliudijantis \nVilniaus vyskupo Valerijono priešinimąsi \nAugsburgo tikėjimui, 1559 m.\n•324 •\nVII PRIEDAS.\nDviejų karaliaus Stepono Batoro laiškų, rašytų Radviloms, \nturinys: apie muitus ir mokesčius \nVilniaus pirkliams ir miestiečiams \n•328 •\nVIII PRIEDAS."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88479

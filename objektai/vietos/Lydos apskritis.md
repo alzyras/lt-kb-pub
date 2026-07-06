@@ -12,6 +12,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lydos apskritis
 
@@ -20,32 +32,93 @@ amziai:
 1826 m. Lydos apskrityje, prie Ogrodnikų kaimo Šalčios pakrantės skardyje, kaimietis rado senų sidabrinių pinigų. Narbutas Ragutėniškių bajorkaimį Lydos apskrities Nočios parapijoje siejo su Ragučio žynių moterų pavadinimu. Narbutas Lydos apskritį priskyrė Tikrajai Lietuvai, kur, jo teigimu, nuo seniausių laikų buvo obelijomis vadintų pelenų laikymo vietų.
 
 ## Teiginiai
+
 <a id="claim-t-188900"></a>
 - t-001
   global_id: t-188900
-  teiginys: '1826 m. Lydos apskrityje, prie Ogrodnikų kaimo Šalčios pakrantės skardyje, kaimietis rado senų sidabrinių pinigų.'
+  teiginys: "1826 m. Lydos apskrityje, prie Ogrodnikų kaimo Šalčios pakrantės skardyje, kaimietis rado senų sidabrinių pinigų."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1826 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys suredaguotas į vientisą sakinį apie radinį Lydos apskrityje. Nepridėta detalių apie vėliau Narbuto gautas monetas."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "431942-432178; hash=351f010295e604737723f51613b45d252dde2bd8f93feeaec9418dab6ae137cc; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lydos apskritis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lydos apskritis\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171789
+
 <a id="claim-t-188901"></a>
 - t-002
   global_id: t-188901
-  teiginys: 'Narbutas Ragutėniškių bajorkaimį Lydos apskrities Nočios parapijoje siejo su Ragučio žynių moterų pavadinimu.'
+  teiginys: "Narbutas Ragutėniškių bajorkaimį Lydos apskrities Nočios parapijoje siejo su Ragučio žynių moterų pavadinimu."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Ragutėniškiai priklausė Lydos apskritis (0.90); Ragutėniškiai priklausė Nočia (0.86)"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "525876-526247; hash=6fe50f503b753c4c3e109dbd7a5d1aafb13f3e9dc77afd852e72d8bd27888eae; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lydos apskritis: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Ragutėniškiai: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lydos apskritis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas nurodo Ragutėniškius Lydos apskrities ribose."
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-002
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171790
+
 <a id="claim-t-188902"></a>
 - t-003
   global_id: t-188902
-  teiginys: 'Narbutas Lydos apskritį priskyrė Tikrajai Lietuvai, kur, jo teigimu, nuo seniausių laikų buvo obelijomis vadintų pelenų laikymo vietų.'
+  teiginys: "Narbutas Lydos apskritį priskyrė Tikrajai Lietuvai, kur, jo teigimu, nuo seniausių laikų buvo obelijomis vadintų pelenų laikymo vietų."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "666780-667121; hash=f8d44a94c655b7df06d5d9b0bbbce8b38e41795e0e9916c56215aa56fc9ded2e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Sandara: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lydos apskritis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Sandara: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lydos apskritis\" parinktas kaip owner_note_path. Targetas \"Sandara\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-003
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171791
 
+<a id="claim-t-194739"></a>
+- t-004
+  global_id: t-194739
+  teiginys: "Vilniaus akademijos mineralogijos kabinete yra keletas kirvukų iš tokio pat akmens, šiek tiek ilgesnių, tai yra ne tiek nudilintų aštrinant; jie buvę rasti Lydos apskrityje."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "672154-672486; hash=a569af44154dcc2f4b6df9528f98f16f222029a2304f33be701af563e8106dac; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-177135
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: '1826 m. Lydos apskrityje, prie Ogrodnikų kaimo Šalčios pakrantės skardyje, kaimietis rado senų sidabrinių pinigų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -55,11 +128,14 @@ amziai:
     čios upės pakrantės skardyje, kaimietis rado senų sidabrinių
     pinigų. 1832 metais iš jų gavau penkis vienetus iš trijų rūšių
     monetų, kurios sudarė tą lobį.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Narbutas Ragutėniškių bajorkaimį Lydos apskrities Nočios parapijoje siejo su Ragučio žynių moterų pavadinimu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -71,11 +147,14 @@ amziai:
     gutieniszfd) bajorkaimis; ši vieta, be abejo, susijusi su anksčiau
     nurodytu moterų žynių pavadinimu. Negalima rasti ryškesnio
     prieštaravimo, kaip tarp anų ir šių žynių.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Narbutas Lydos apskritį priskyrė Tikrajai Lietuvai, kur, jo teigimu, nuo seniausių laikų buvo obelijomis vadintų pelenų laikymo vietų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -87,11 +166,94 @@ amziai:
     dos apskrityse, nuo seniausių laikų buvo specialios vietos, į ku­
     rias dėdavo sudegintų žmonių pelenus. Šias vietas vadindavo
     Obelijomis.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+- c-004
+  santrauka: 'Vilniaus akademijos mineralogijos kabinete yra keletas kirvukų iš tokio pat akmens, šiek tiek ilgesnių, tai yra ne tiek nudilintų aštrinant; jie buvę rasti Lydos apskrityje.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Tai palikimas seniausių šios žemės gyvento­
+    jų, kurie dar nemokėjo naudoti geležies. Vilniaus akademijos
+    mineralogijos kabinete yra keletas kirvukų iš tokio pat akmens,
+    šiek tiek ilgesnių, tai yra ne tiek nudilintų aštrinant; jie buvę
+    rasti Lydos apskrityje. Pasitaiko taip pat ir akmeninių kaitų,
+    labai gražiai padirbtų iš titnago.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-004
+
+## Citatos
+
+- id: c-171789
+  citata_originali: |
+    Nematyti jokio užrašo.
+    1826 metais Lydos apskrityje, netoli Ogrodnikų kaimo, Šal­
+    čios upės pakrantės skardyje, kaimietis rado senų sidabrinių
+    pinigų. 1832 metais iš jų gavau penkis vienetus iš trijų rūšių
+    monetų, kurios sudarė tą lobį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188900
+
+- id: c-171790
+  citata_originali: |
+    Ragelienė (Ragutienie)
+    Dievo Ragučio žynės; vieną užuominą apie jas radau žmo­
+    nių pasakojime; taip pat šiokia tokia žinia bus apeigų aprašy­
+    me. Lydos apskrities Nočios parapijoje yra Ragutėniškių (Ra-
+    gutieniszfd) bajorkaimis; ši vieta, be abejo, susijusi su anksčiau
+    nurodytu moterų žynių pavadinimu. Negalima rasti ryškesnio
+    prieštaravimo, kaip tarp anų ir šių žynių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188901
+
+- id: c-171791
+  citata_originali: |
+    Vienoda jų sandara ir tokia pat radimo vieta įtikina,
+    jog jos buvo skirtos ne kam kitam, kaip tik laikyti po akimis,
+    kad į jas tekėtų ašaros.
+    Tikrojoje Lietuvoje, tai yra Ukmergės, Vilniaus, Trakų ir Ly­
+    dos apskrityse, nuo seniausių laikų buvo specialios vietos, į ku­
+    rias dėdavo sudegintų žmonių pelenus. Šias vietas vadindavo
+    Obelijomis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188902
+
+- id: c-177135
+  citata_originali: |
+    Tai palikimas seniausių šios žemės gyvento­
+    jų, kurie dar nemokėjo naudoti geležies. Vilniaus akademijos
+    mineralogijos kabinete yra keletas kirvukų iš tokio pat akmens,
+    šiek tiek ilgesnių, tai yra ne tiek nudilintų aštrinant; jie buvę
+    rasti Lydos apskrityje. Pasitaiko taip pat ir akmeninių kaitų,
+    labai gražiai padirbtų iš titnago.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194739
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Ragutėniškiai]]

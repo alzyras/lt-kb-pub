@@ -15,6 +15,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Įkaitų davimas kaip sutarties garantija (sutartis)
 
@@ -45,54 +57,122 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
 ## Teiginiai
 
 <a id="claim-t-67236"></a>
-- t-001
+- t-009
   global_id: t-67236
-  teiginys: '1390–1392 m. Vytauto duotų Ordinui įkaitų sąraše minimi du kunigaikščiai – Jurgis ir Jonas.'
+  teiginys: "1390–1392 m. Vytauto duotų Ordinui įkaitų sąraše minimi du kunigaikščiai – Jurgis ir Jonas."
+  temporaliniai_duomenys: "įvykio data: 1390-1392; įvykio data: 1392 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "134777-134971; hash=e7460e2f6b04838ad4d1db62713d0d44202bc2d2d15f094a10397c249e600c1d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> kunigaikščiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Įkaitų davimas kaip sutarties garantija (sutartis): owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "kunigaikščiai: mention_match, thing, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Įkaitų davimas kaip sutarties garantija (sutartis)\" parinktas kaip owner_note_path. Targetas \"kunigaikščiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-14492
 
 <a id="claim-t-67237"></a>
-- t-002
+- t-012
   global_id: t-67237
-  teiginys: 'Kvedenavos, Valdavos, Kaimo ir Tepliavos valsčių žmonės atidavė karaliui savo sūnus įkaitais ir prisiekė paklusti tikėjimui bei broliams.'
+  teiginys: "Kvedenavos, Valdavos, Kaimo ir Tepliavos valsčių žmonės atidavė karaliui savo sūnus įkaitais ir prisiekė paklusti tikėjimui bei broliams."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "348341-348965; hash=de330370cc697fa3fdd10e5b394041f1b1fe1d6b3ef7aa30eacb54a7cc3ca7df; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Įkaitų davimas kaip sutarties garantija (sutartis): owner_note_path, thing"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Įkaitų davimas kaip sutarties garantija (sutartis)\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-67233
 
 <a id="claim-t-67238"></a>
-- t-003
+- t-007
   global_id: t-67238
-  teiginys: 'Po Jogailos krikšto ir iškilmių lenkai pareikalavo Vytauto, Skirgailos ir kitų kunigaikščių kaip įkaitų, kad būtų garantuotas Jogailos pažadų išpildymas.'
+  teiginys: "Po Jogailos krikšto ir iškilmių lenkai pareikalavo Vytauto, Skirgailos ir kitų kunigaikščių kaip įkaitų, kad būtų garantuotas Jogailos pažadų išpildymas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "100745-100981; hash=ef5854b735ff67b772c5f542e28e3d519e9daaf3dfec7a25ac6061aefbc866de; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Įkaitų davimas kaip sutarties garantija (sutartis): owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=60"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Įkaitų davimas kaip sutarties garantija (sutartis)\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-14490
 
 <a id="claim-t-67239"></a>
-- t-004
+- t-013
   global_id: t-67239
-  teiginys: 'Unzatrapio, Gundavos ir Angetetos pilių žmonės atsiuntė įkaitų ir pasidavė krikščionių tikėjimui bei broliams.'
+  teiginys: "Unzatrapio, Gundavos ir Angetetos pilių žmonės atsiuntė įkaitų ir pasidavė krikščionių tikėjimui bei broliams."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "358018-358318; hash=081dca21a72b7176319471b69dcbf88ade449e7c74830173dafe7e616e44ef71; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Angeteta: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Įkaitų davimas kaip sutarties garantija (sutartis): owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Angeteta: mention_match, place, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Įkaitų davimas kaip sutarties garantija (sutartis)\" parinktas kaip owner_note_path. Targetas \"Angeteta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-67232
 
 <a id="claim-t-67241"></a>
-- t-005
+- t-011
   global_id: t-67241
-  teiginys: 'Pagudėnai, neatlaikę brolių antpuolių, davė įkaitų ir pasidavė krikščionių tikėjimui bei broliams.'
+  teiginys: "Pagudėnai, neatlaikę brolių antpuolių, davė įkaitų ir pasidavė krikščionių tikėjimui bei broliams."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "259363-259718; hash=c2219341a1bd577a6a397ac85968afa5da5da4500a260b68b87b2bb86e3cd357; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-007
+    - c-67235
 
 <a id="claim-t-67242"></a>
-- t-006
+- t-010
   global_id: t-67242
-  teiginys: 'Magistras reikalavo, kad Vytautas duotų bajorų sūnus įkaitais ir išpildytų seniau Ordinui duotus pasižadėjimus.'
+  teiginys: "Magistras reikalavo, kad Vytautas duotų bajorų sūnus įkaitais ir išpildytų seniau Ordinui duotus pasižadėjimus."
+  temporaliniai_duomenys: "įvykio data: 1396 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "165886-166218; hash=5bff2ef2221f04a6edc8f9e4fa0bb2bddecb3a1b9c55323dbe151127bfaef319; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Įkaitų davimas kaip sutarties garantija (sutartis): owner_note_path, thing"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=41"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Įkaitų davimas kaip sutarties garantija (sutartis)\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-14493
 
 <a id="claim-t-67243"></a>
-- t-007
+- t-006
   global_id: t-67243
-  teiginys: '1383 m. žemaičiai, atsitraukdami nuo Vilniaus, davė vokiečiams savo įkaitus, nors jie buvo duoti ne nuo visų Žemaitijos sričių.'
+  teiginys: "1383 m. žemaičiai, atsitraukdami nuo Vilniaus, davė vokiečiams savo įkaitus, nors jie buvo duoti ne nuo visų Žemaitijos sričių."
+  temporaliniai_duomenys: "įvykio data: 1383 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "88044-88301; hash=076fafc1fcb7d486fd55b876e7f9da270214e19fb3ba1a4599c4822de082cdde; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Įkaitų davimas kaip sutarties garantija (sutartis): owner_note_path, thing"
+  ryšio_targeto_parinkimas: "Vokiečiai: mention_match, group, gap=53"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Įkaitų davimas kaip sutarties garantija (sutartis)\" parinktas kaip owner_note_path. Targetas \"Vokiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-14489
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -104,8 +184,9 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
     buvo duoti ne nuo visos Žemaitijos sričių. Bet ir tai, kas buvo
     padaryta, reikia laikyti Vytauto nuopelnu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
@@ -118,8 +199,9 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
     kaipo garantijos, kad visi Jogailos duoti pasižadėjimai bus iš­
     pildyti. Tas lenkų reikalavimas buvo patenkintas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -132,6 +214,7 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
     —92 m. Vytauto duotų Ordinui įkaitų sąraše mes randame iš
     tikrųjų du kunigaikščiu: Jurgį ir Joną.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -148,8 +231,9 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
     lis; duoti bajorų sūnų įkaitais ir 3) išpildyti seniau duotus Or­
     dinui pasižadėjimus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
@@ -167,8 +251,9 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
 
                    76 (75). Apie vienos Notangos dalies nuniokojimą
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
@@ -185,6 +270,7 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
     prie kalvos, kurioje dabar stovi Karaliaučiaus pilis, patardamas broliams čia pastatyti
     pilį tikėjimui ginti ir palikdamas jiems puikių, tikrai karališkų dovanų šiai statybai.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -205,8 +291,119 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
 
     18.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
+## Citatos
+
+- id: c-14489
+  citata_originali: |
+    Šiame žygyje žemaičiai pakei­
+    tė savo nusistatymą su Vokiečių Ordinu: atsitraukdami nuo
+    Vilniaus, jie davė vokiečiams savo įkaitus. Tiesa, tie įkaitai
+    buvo duoti ne nuo visos Žemaitijos sričių. Bet ir tai, kas buvo
+    padaryta, reikia laikyti Vytauto nuopelnu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67243
+
+- id: c-14490
+  citata_originali: |
+    Po visų tų iškilmių įvyko dar vienas faktas. Būtent, lenkai
+    pareikalavo Vytauto, Skirgailos ir kitų kunigaikščių įkaitais,
+    kaipo garantijos, kad visi Jogailos duoti pasižadėjimai bus iš­
+    pildyti. Tas lenkų reikalavimas buvo patenkintas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67238
+
+- id: c-14492
+  citata_originali: |
+    Neabejotina, kad Vytautas būtų tai
+    padaręs, jei iš tikrųjų jo vaikai būtų buvę nužudyti. Gi 1390
+    —92 m. Vytauto duotų Ordinui įkaitų sąraše mes randame iš
+    tikrųjų du kunigaikščiu: Jurgį ir Joną.
+  citata_rodoma: "1390\n—92 m. Vytauto duotų Ordinui įkaitų sąraše mes randame iš\ntikrųjų du kunigaikščiu: Jurgį ir Joną."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67236
+
+- id: c-14493
+  citata_originali: |
+    Taip 1396 m. Vytautas su magistru susivažiavo Dubysos saloj.
+    Magistras patiekė tokius reikalavimus Vytautui: 1) Lietuva
+    turi pripažinti popiežiaus ir imperatoriaus supremaciją (vir­
+    šenybę), 2) Vytautas turi atstatyti visas sugriautas Ordino pi­
+    lis; duoti bajorų sūnų įkaitais ir 3) išpildyti seniau duotus Or­
+    dinui pasižadėjimus.
+  citata_rodoma: "Magistras patiekė tokius reikalavimus Vytautui: 1) Lietuva\nturi pripažinti popiežiaus ir imperatoriaus supremaciją (vir­\nšenybę), 2) Vytautas turi atstatyti visas sugriautas Ordino pi­\nlis; duoti bajorų sūnų įkaitais ir 3) išpildyti seniau duotus Or­\ndinui pasižadėjimus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67242
+
+- id: c-67232
+  citata_originali: |
+    pilyse, būtent: Unzatrapio335, Gundavos336 ir Angetetos337, matydami, jog viešpats stoja
+    už brolius, ir dėl to negalėdami ilgiau jiems priešintis kovos lauke, atsiuntė įkaitų ir
+    nuolankiai pasidavė krikščionių tikėjimui ir broliams.
+
+
+
+
+                   76 (75). Apie vienos Notangos dalies nuniokojimą
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67239
+
+- id: c-67233
+  citata_originali: |
+    kad jų kilmingieji pasiūlė karaliui įkaitų, maldaudami jų pagailėti ir nežudyti visų žmonių.
+    Paskui jis atžygiavo  į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten
+    kai kurie, bijodami, kad ir čia jis nepridarytų panašių skerdynių kaip kitur, atidavė jam
+    įkaitais savo sūnus, galvomis prisiekdami nuolankiai paklusti tikėjimui ir broliams. Viską
+    tinkamai sutvarkęs, karalius perdavė broliams minėtuosius įkaitus, o pats nužygiavo
+    prie kalvos, kurioje dabar stovi Karaliaučiaus pilis, patardamas broliams čia pastatyti
+    pilį tikėjimui ginti ir palikdamas jiems puikių, tikrai karališkų dovanų šiai statybai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67237
+
+- id: c-67235
+  citata_originali: |
+    Tą patį viešai sakė ir kiti pagudėnai, buvę tuo metu šioje kariuomenėje, kai jie vėliau
+    priėmė Kristaus tikėjimą. Štai todėl pagudėnai, nors šiaip ir smarkiai kovojo su broliais,
+    matydami šitokį stebuklą ir negalėdami atlaikyti nuolatinių brolių antpuolių, nulenkė,
+    davę įkaiti], tikėjimui ir broliams savo kietus sprandus ir nesutramdomas galvas.
+
+
+
+
+    18.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67241

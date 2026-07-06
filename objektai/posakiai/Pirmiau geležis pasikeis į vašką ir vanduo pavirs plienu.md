@@ -11,6 +11,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu
 
@@ -39,24 +51,56 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
 <a id="claim-t-55190"></a>
 - t-001
   global_id: t-55190
-  teiginys: 'Gedimino laiško vertime pažado tvirtumas išreiškiamas formule, kad pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu, negu bus atšauktas ištartas žodis.'
+  teiginys: "Gedimino laiško vertime pažado tvirtumas išreiškiamas formule, kad pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu, negu bus atšauktas ištartas žodis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "142132-142818; hash=a5f10f5e159c1fec02b67fcf4d068b6a04bb62edf82d819215209d0873601460; match=whitespace_regex"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  ryšio_patikimumas: "susije_su -> Vaškas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vaškas: mention_match, thing, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu\" parinktas kaip owner_note_path. Targetas \"Vaškas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-55400
 
 <a id="claim-t-55191"></a>
 - t-002
   global_id: t-55191
-  teiginys: 'Posakiu „Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu“ pabrėžta, kad duotas žodis nebus atšauktas.'
+  teiginys: "Posakiu „Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu“ pabrėžta, kad duotas žodis nebus atšauktas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "142132-142818; hash=a5f10f5e159c1fec02b67fcf4d068b6a04bb62edf82d819215209d0873601460; match=whitespace_regex"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  ryšio_patikimumas: "susije_su -> Vaškas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vaškas: mention_match, thing, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu\" parinktas kaip owner_note_path. Targetas \"Vaškas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-55400
 
 <a id="claim-t-82144"></a>
 - t-003
   global_id: t-82144
-  teiginys: 'Posakiu „pirma geležis į vašką, o vanduo į plieną pavirs“ 1323 m. laiškuose teigta, kad duotas žodis nebus sulaužytas ar atšauktas.'
+  teiginys: "Posakiu „pirma geležis į vašką, o vanduo į plieną pavirs“ 1323 m. laiškuose teigta, kad duotas žodis nebus sulaužytas ar atšauktas."
+  temporaliniai_duomenys: "įvykio data: 1323 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginyje yra OCR triukšmo, bet citata pagrindžia glaustą sakinį apie posakio vartojimą pažadui sutvirtinti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "173201-173979; hash=825eb1ff4e46f29dc6f0e5f4a2ca8c53a19b4586b1340f2e6cfb3294956e4db2; match=whitespace_regex"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  ryšio_patikimumas: "susije_su -> Antspaudas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Antspaudas: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu\" parinktas kaip owner_note_path. Targetas \"Antspaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
-
+    - c-78634
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -77,8 +121,9 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
     siunčia šį laišką toliau, kiek galima greičiau, kad Dievas sa­
     vo garbei užbaigtų tai, ką pradėjo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -103,8 +148,58 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
     perskaičius būtų siunčiami toliau ir visur skelbiama juose
     nurodyti pranešimai bei įsipareigojimai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-55400
+  citata_originali: |
+    I  KNYGA
+    tačiau prie šio rašto mes pridedame tą patį antspaudą, pa­
+    našiai kaip liepėme pridėti šį antspaudą prie laiško didžiai
+    mylimam viešpačiui apaštališkajam tėvui didesniam jo pa­
+    tikimumui ir sutvirtinimui, nes pirmiau geležis pasikeis į
+    vašką ir vanduo pavirs plienu, negu mes atšauksime mūsų
+    ištartą žodį.
+    Pikta valia veikiantieji prieš šį raštą ir antspaudą šiuo laiš­
+    ku yra [skelbiami] tiesos neigėjais, šėtono gerbėjais, tikėji­
+    mo ardytojais, melagingais eretikais ir bet kokios garbės ne­
+    tekusiais [žmonėmis].
+    Perskaitę ir nurašę, Saksonijos magistras ir priorai tepa­
+    siunčia šį laišką toliau, kiek galima greičiau, kad Dievas sa­
+    vo garbei užbaigtų tai, ką pradėjo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-55190
+    - t-55191
+
+- id: c-78634
+  citata_originali: |
+    Didesnio tikrumo ir pasitikėjimo dėlei šį mūsų
+    raštą tvirtiname dėdami antspaudą, kokį mes taip pat mū­
+    sų laiške Popiežiui uždėjome, tad pirma geležis į vašką, o
+    vanduo į plieną pavirs, nei mes savo žodį sulaužysime ar
+    atšauksime. Kryžiuočiai tą antspaudą mums panieką reikš­
+    dami į ugnį įmetė, kad sutrukdytų pradėto su Dievo pa­
+    galba sumanymo įgyvendinimą ir žmonėms akis užtem­
+    dytų; jei kas tuo antspaudu nepatikėtų ir jo tikrumą
+    piktžodžiaudami ginčytų, tą mūsų šiais laiškais skelbiame
+    tiesos nedraugu, velnio garbintoju, tikėjimo priešu, bedie­
+    viu, melagiu ir žmogum be garbės"*. Tie laiškai rašyti Vil­
+    niuje, datuoti 1323 metų gegužės 26 su pavedimu, kad juos
+    perskaičius būtų siunčiami toliau ir visur skelbiama juose
+    nurodyti pranešimai bei įsipareigojimai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82144

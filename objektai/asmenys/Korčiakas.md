@@ -18,6 +18,18 @@ amziai:
   - 'XVI'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Korčiakas
 
@@ -28,18 +40,41 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
 ## Teiginiai
 
 <a id="claim-t-87536"></a>
-- t-001
+- t-002
   global_id: t-87536
-  teiginys: 'Šv. Dvasios dominikonų bažnyčioje priešais karaliaus Aleksandro portretą buvo kunigo Korčiako paveikslas.'
+  teiginys: "Šv. Dvasios dominikonų bažnyčioje priešais karaliaus Aleksandro portretą buvo kunigo Korčiako paveikslas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "479728-480046; hash=b04afb9d19d13c96e726237517ebeb00eba97bbdde679c9181178e33cc86ea98; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aleksandro portretas ir kunigo Korčiako paveikslas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Korčiakas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandro portretas ir kunigo Korčiako paveikslas: mention_match, thing, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Korčiakas\" parinktas kaip owner_note_path. Targetas \"Aleksandro portretas ir kunigo Korčiako paveikslas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-83515
 
 <a id="claim-t-87537"></a>
-- t-002
+- t-001
   global_id: t-87537
-  teiginys: 'Kunigas Korčiakas buvo Aleksandro kapelionas; po Korčiako mirties Aleksandras Šv. Dvasios kleboniją perdavė dominikonams.'
+  teiginys: "Kunigas Korčiakas buvo Aleksandro kapelionas; po Korčiako mirties Aleksandras Šv. Dvasios kleboniją perdavė dominikonams."
+  temporaliniai_duomenys: "įvykio data: 1501 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia Korčiako statusą ir su jo mirtimi susietą perdavimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "478989-479379; hash=c76a53ab14359c293f800198a568a81408b4a55030f5b3e03d1ccc5780bf8057; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Korčiakas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Korčiakas\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-83516
 - susijęs iš [[objektai/daiktai/Aleksandro portretas ir kunigo Korčiako paveikslas.md#claim-t-55030|Aleksandro portretas ir kunigo Korčiako paveikslas]]: Šv. Dvasios dominikonų bažnyčioje buvo matomas karaliaus Aleksandro viso ūgio portretas ir tokio pat dydžio kunigo Korčiako paveikslas.
 - susijęs iš [[objektai/daiktai/Aleksandro portretas ir kunigo Korčiako paveikslas.md#claim-t-81840|Aleksandro portretas ir kunigo Korčiako paveikslas]]: Šv. Dvasios dominikonų bažnyčioje buvo matomas karaliaus Aleksandro portretas visu ūgiu ir tokio pat dydžio kunigo Korčiako paveikslas.
 - susijęs iš Šv. Dvasios bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Dvasios dominikonų bažnyčia Vilniuje; Šv. Dvasios bažnyčia Vilniuje): Šv. Dvasios dominikonų bažnyčioje buvo galima matyti karaliaus Aleksandro ir kunigo Korčiako portretus ant priešais stovinčių kolonų.
@@ -71,6 +106,7 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
     tokio pat didumo kunigo Korčiako
     paveikslą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -89,8 +125,50 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
     vo kapeliono kunigo Korčiako mirties, jiems atidavė Šv. Dva­
     sios kleboniją, skyrė lėšų bažnyčiai ir vienuolynui statyti50.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-83515
+  citata_originali: |
+    Pa-
+    49
+    Daug sutarčių su tuo Onka yra Lie­
+    tuvos Metrikoje, V knygoje, prie
+    1505 metų.
+    50
+    Iki šiol Šv. Dvasios dominikonų baž­
+    nyčioje galima pamatyti karaliaus
+    Aleksandro portretą visu ūgiu ant
+    pirmosios kolonos nuo įėjimo deši­
+    nėje pusėje, o ant priešais stovinčios -
+    tokio pat didumo kunigo Korčiako
+    paveikslą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87536
+
+- id: c-83516
+  citata_originali: |
+    Daugelis jų garsėjo su­
+    manumu ir turtais, bet labiausiai buvo žinomas Onka Hrice-
+    vičius, turtingas įvairių nuomos mokesčių rinkikas daugelyje
+    Lietuvos miestų nuo Vilniaus iki Smolensko49. Aleksandras
+    iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­
+    vo kapeliono kunigo Korčiako mirties, jiems atidavė Šv. Dva­
+    sios kleboniją, skyrė lėšų bažnyčiai ir vienuolynui statyti50.
+  citata_rodoma: "Aleksandras \niš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­\nvo kapeliono kunigo Korčiako mirties, jiems atidavė Šv. Dva­\nsios kleboniją, skyrė lėšų bažnyčiai ir vienuolynui statyti50."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87537

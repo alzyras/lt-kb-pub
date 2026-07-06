@@ -16,6 +16,18 @@ tags:
   - tikėjimas
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Viznos pilies sugriovimas (1294 m.)
 
@@ -44,10 +56,23 @@ Nenurodyta
 <a id="claim-t-62533"></a>
 - t-001
   global_id: t-62533
-  teiginys: '1294 m. magistras Meinhardas subūrė daug karių, užėmė Mazovijos kunigaikščio Boleslovo Viznos pilį ir ją sugriovė iš pamatų.'
+  teiginys: "1294 m. magistras Meinhardas subūrė daug karių, užėmė Mazovijos kunigaikščio Boleslovo Viznos pilį ir ją sugriovė iš pamatų."
+  teiginio_tipas: "faktas"
+  temporaliniai_duomenys: "įvykio data: 1294 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko pilies užėmimą ir sugriovimą, o pradinis teiginys turi antraštės ir OCR triukšmo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "581830-582584; hash=d385059bc32920737235fdba0eaff4a7eb768eae1f17e9ab1a0c2f7b6d54161f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vizna: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Viznos pilies sugriovimas (1294 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Vizna: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Viznos pilies sugriovimas (1294 m.)\" parinktas kaip owner_note_path. Targetas \"Vizna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-63226
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -66,8 +91,32 @@ Nenurodyta
     keliamam pavojui, viešai palaiko nusikalstamą veiklą, subūrė daug karių, užėmė šią pilį
     ir ją iš pamatų sugriovė.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-63226
+  citata_originali: |
+    Apie tai, kaip buvo sugriauta Mazovijos kunigaikščio pilis, kurią vadina Viz­
+                                       na
+
+       Tais pačiais 1294 metais, užmiršęs dievo baimę, Boleslovas, Mazovijos kunigaikštis,
+    ieškodamas dingsties suniekinti dievą bei užkrauti krikščionims sunkią ir skaudžią naštą,
+    ne kartą vaišino savo pilyje Viznoje tikėjimo priešus lietuvius, leisdamas jiems plėšti
+    Prūsijos bei Lenkijos žemes. Jis nesiliovė šito daręs, nors daug kartų buvo išganingai
+    dėl to įspėtas. Todėl brolis Meinhardas, magistras, gerai žinodamas, kad paklydimui,
+    kuriam nesipriešinama, pritariama, o tas žmogus, kuris neužkerta kelio slapto sąmokslo
+    keliamam pavojui, viešai palaiko nusikalstamą veiklą, subūrė daug karių, užėmė šią pilį
+    ir ją iš pamatų sugriovė.
+  citata_rodoma: "Apie tai, kaip buvo sugriauta Mazovijos kunigaikščio pilis, kurią vadina Viz­\n                                   na\n\n   Tais pačiais 1294 metais, užmiršęs dievo baimę, Boleslovas, Mazovijos kunigaikštis,\nieškodamas dingsties suniekinti dievą bei užkrauti krikščionims sunkią ir skaudžią naštą,\nne kartą vaišino savo pilyje Viznoje tikėjimo priešus lietuvius, leisdamas jiems plėšti\nPrūsijos bei Lenkijos žemes. Jis nesiliovė šito daręs, nors daug kartų buvo išganingai\ndėl to įspėtas. Todėl brolis Meinhardas, magistras, gerai žinodamas, kad paklydimui,\nkuriam nesipriešinama, pritariama, o tas žmogus, kuris neužkerta kelio slapto sąmokslo\nkeliamam pavojui, viešai palaiko nusikalstamą veiklą, subūrė daug karių, užėmė šią pilį\nir ją iš pamatų sugriovė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-62533

@@ -14,6 +14,18 @@ tags:
   - saltinis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # LIETUVOS PARTIZANŲ APYGARDOS IR JŲ ŽYMESNI ATSTOVAI
 
@@ -26,10 +38,22 @@ amziai:
 <a id="claim-t-80765"></a>
 - t-001
   global_id: t-80765
-  teiginys: 'Informacinio bloko „Lietuvos partizanų apygardos ir jų žymesni atstovai“ autoriai nurodyti Karolis Zikaras, Dalius Žygelis ir Loreta Uzdraitė.'
+  teiginys: "Informacinio bloko „Lietuvos partizanų apygardos ir jų žymesni atstovai“ autoriai nurodyti Karolis Zikaras, Dalius Žygelis ir Loreta Uzdraitė."
+  temporaliniai_duomenys: "įvykio data: 1923 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pirminis teiginys yra sąrašo fragmentas su OCR klaida, o ne sakinys."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1137312-1137566; hash=0724a0f771f37b898451cb24726fecbf468ed5f269717628b2b50b8c905d0444; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dalius Žygelis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "LIETUVOS PARTIZANŲ APYGARDOS IR JŲ ŽYMESNI ATSTOVAI: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Dalius Žygelis: mention_match, author, gap=88"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"LIETUVOS PARTIZANŲ APYGARDOS IR JŲ ŽYMESNI ATSTOVAI\" parinktas kaip owner_note_path. Targetas \"Dalius Žygelis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-77412
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,8 +70,30 @@ amziai:
 
     Dalius Žygelis, Loreta Uzdraitė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-77412
+  citata_originali: |
+    p. 213, Sukilėlių žygis į Klaipėdos kraštą ir sukilimo eiga 1923 m. sausio 9-15 d.,
+
+    Karolis Zikaras, Loreta Uzdraitė.
+
+    KARAS PO KARO
+
+    P. 236-237, „Lietuvos partizaninų apygardos ir jų žymesni atstovai“, Karolis Zikaras,
+
+    Dalius Žygelis, Loreta Uzdraitė.
+  citata_rodoma: ",\n\nKarolis Zikaras, Loreta Uzdraitė.\n\nKARAS PO KARO\n\nP. 236-237, „Lietuvos partizaninų apygardos ir jų žymesni atstovai“, Karolis Zikaras,\n\nDalius Žygelis, Loreta Uzdraitė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-80765

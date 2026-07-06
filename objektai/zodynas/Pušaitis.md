@@ -5,6 +5,18 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Pušaitis
 
@@ -13,14 +25,28 @@ atnaujinta: ''
 Narbutas Pušaitį (Puschajtis) pristato kaip požemio dievaitį, engiamų vargšų gynėją ir barstukais vadinamų nykštukų vyriausiąjį.
 
 ## Teiginiai
+
 <a id="claim-t-189244"></a>
 - t-001
   global_id: t-189244
-  teiginys: 'Narbutas Pušaitį (Puschajtis) pristato kaip požemio dievaitį, engiamų vargšų gynėją ir barstukais vadinamų nykštukų vyriausiąjį.'
+  teiginys: "Narbutas Pušaitį (Puschajtis) pristato kaip požemio dievaitį, engiamų vargšų gynėją ir barstukais vadinamų nykštukų vyriausiąjį."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "307325-307532; hash=63ee503bda6cedf5993cc893049def6ef32a150c8596c3bc567283c41b8c6116; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Barstukai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pušaitis: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Barstukai: mention_match, group, gap=78"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pušaitis\" parinktas kaip owner_note_path. Targetas \"Barstukai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-172132
 - susijęs iš [[objektai/paprociai/Pušaičio šaukimasis, aukos po alyvų krūmais ir markopolių prašymas dėl kaimiečių.md#claim-t-189936|Pušaičio šaukimasis, aukos po alyvų krūmais ir markopolių prašymas dėl kaimiečių]]: Narbutas markopolius vaizdavo kaip požemio dievaičius, kuriuos ypač garbino didikai ir bajorai, o Pušaitis jų prašydavo už kaimiečius.
 - susijęs iš [[objektai/asmenys/Frydrichas Stenderis.md#claim-t-189995|Frydrichas Stenderis]]: Narbutas prie Pušaičio, požemio dievaičio ir barstukų vyriausiojo, aprašymo nurodo Stenderio „Lettische Grammatik“.
 - susijęs iš [[objektai/asmenys/Motiejus Strijkovskis.md#claim-t-188591|Motiejus Strijkovskis]]: Narbutas nurodo, kad Strijkovskis alyvą Sambėje laikė pirmu tarp šventųjų medžių.
@@ -30,6 +56,7 @@ Narbutas Pušaitį (Puschajtis) pristato kaip požemio dievaitį, engiamų varg�
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179247|Lietuviai]]: Per nepilnus du nepriklausomybės dešimtmečius Lietuva tapo aiškiai lietuviška ir nebesutapatinama su Lenkija ar Rusija.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190575|Lietuviai]]: Narbutas, remdamasis Strijkovskiu, rašė, kad lietuvių maldose šauktasi Pušaičio ir barstukų, o medžio šešėliui priskirtas gydomasis poveikis.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Narbutas Pušaitį (Puschajtis) pristato kaip požemio dievaitį, engiamų vargšų gynėją ir barstukais vadinamų nykštukų vyriausiąjį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -43,8 +70,30 @@ Narbutas Pušaitį (Puschajtis) pristato kaip požemio dievaitį, engiamų varg�
     ## Puslapis 179
 
     po alyvų krūmais.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-172132
+  citata_originali: |
+    Pušaitis (Puschajtis)
+    Požemio dievaitis, engiamų vargšų gynėjas, nykštukų,
+    vadinamų barstukais, vyriausiasis. Jis gyvendavo žemėje, 16
+    16 Stender, Lettische Grammatik.
+    179
+
+    ## Puslapis 179
+
+    po alyvų krūmais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-189244

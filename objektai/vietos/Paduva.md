@@ -14,6 +14,18 @@ tags:
   - vieta
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Paduva
 
@@ -26,9 +38,22 @@ Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustuvinin
 <a id="claim-t-21671"></a>
 - t-001
   global_id: t-21671
-  teiginys: 'Pranciškus Skorina baigė Paduvos universitetą ir ten įgijo medicinos daktaro laipsnį.'
+  teiginys: "Pranciškus Skorina baigė Paduvos universitetą ir ten įgijo medicinos daktaro laipsnį."
+  temporaliniai_duomenys: "įvykio data: 1517-1519; įvykio data: 1519 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata labiau remia glaustesnį sakinį su aiškiu veiksmu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "110233-110619; hash=8e9b127b127b086cd5fe45d1f391dc0d20d5c73b48ca3d198a883f642d73a601; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltarusiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Paduva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Baltarusiai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Paduva\" parinktas kaip owner_note_path. Targetas \"Baltarusiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-24350
 - susijęs iš [[objektai/autoriai/Pranciškus Skorina.md#claim-t-64821|Pranciškus Skorina]]: Pranciškus Skorina 1517–1519 m. Prahoje parengė ir išspausdino psalmyną bei 22 Senojo Testamento knygas.
 - susijęs iš [[objektai/autoriai/Pranciškus Skorina.md#claim-t-64822|Pranciškus Skorina]]: Pranciškus Skorina vadinamas pirmuoju Lietuvos spaustuvininku.
 - susijęs iš [[objektai/autoriai/Pranciškus Skorina.md#claim-t-64824|Pranciškus Skorina]]: Pranciškus Skorina buvo iš rusėnų kultūrinės aplinkos kilęs pirmasis Lietuvos spaustuvininkas, gimęs Polocko pirklių šeimoje.
@@ -51,8 +76,27 @@ Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustuvinin
     Skorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten me-
     dicinos daktaro laipsnį, 1517–1519 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-24350
+  citata_originali: |
+    Taigi rusėnai atsiskyrė nuo Rusijos rusų. Tik XVII a. rusėnai
+    skilo į dvi tautas: ukrainiečius – pietuose ir baltarusius – šiaurėje.
+    Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustu-
+    vininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus
+    Skorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten me-
+    dicinos daktaro laipsnį, 1517–1519 m.
+  citata_rodoma: "vininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-21671

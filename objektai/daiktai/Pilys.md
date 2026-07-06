@@ -10,6 +10,18 @@ tags:
   - daiktas
   - miestas
   - pilis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Pilys
 
@@ -42,9 +54,20 @@ Nenurodyta
 <a id="claim-t-59675"></a>
 - t-001
   global_id: t-59675
-  teiginys: 'Per vienuolika metų Prūsijoje broliai pastatė daug įtvirtinimų, miestų ir pilių.'
+  teiginys: "Per vienuolika metų Prūsijoje broliai pastatė daug įtvirtinimų, miestų ir pilių."
+  semantiniai_rysiai: "Pilys priklausė Prūsija (0.71); Pilys priklausė Kulmas (0.58); Pilys priklausė Lubava (0.58)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "99443-99912; hash=3b0be79db2d8284bb95381276013197b6a0499b9ba73cddc7a47fbd3e3ab780d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Prūsija: 0.71"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pilys: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata sako, kad pilys buvo pastatytos užkariautose Prūsijos žemėse; leistinas ryšys sieja pilis su Prūsija."
   pagrindžia:
-    - c-001
+    - c-60306
 - susijęs iš [[objektai/daiktai/Gotikinių pastatų gynybiniai bokštai, šaunamosios angos ir kryžminiai skliautai.md#claim-t-64923|Gotikinių pastatų gynybiniai bokštai, šaunamosios angos ir kryžminiai skliautai]]: Vytauto laikų gotikinę gynybinę architektūrą liudijo mūrinės pilys Vilniuje, Trakuose, Kaune, Gardine, Naugarduke ir Lucke.
 - susijęs iš [[objektai/asmenys/Burchardas iš Magdeburgo.md#claim-t-60097|Burchardas iš Magdeburgo]]: Burchardas iš Magdeburgo su magistru ir broliais perkėlė Marienverderio pilį iš Kvedino salos į Pamedės valsčių.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188526|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas rašo, kad 1329 m. Lietuvos didysis kunigaikštis Gediminas, puldamas vieną iš kryžiuočių pilių, buvo nukautas šaunamuoju ginklu.
@@ -111,6 +134,7 @@ Nenurodyta
 - susijęs iš Vėluva: Vėluvos ir Angerburgo pilys nurodytos kaip įkurtos 1335 metais.
 - susijęs iš Žemaitija: Gedimino laikais Žemaitijoje tik šen bei ten stovėjo vienišos feodalinių kunigaikščių ir bajorų pilys bei gynybinės gyvenvietės.
 - susijęs iš Žemaitija: Žemaitijoje ir kitose Lietuvos žemėse kilo tik pavienės feodalinių kunigaikščių ir bajorų gynybinės pilys.
+- susijęs iš [[objektai/zodynas/Krivis.md#claim-t-192923|Krivis]]: Narbutas daro išvadą, kad šiose vietose buvo krašto Krivio rezidencinės pilys.
 - susijęs iš [[objektai/zodynas/kiemai habitaciones curia.md#claim-t-58851|kiemai habitaciones curia]]: Kiemai buvo didelės, turtingos ir daugiau ar mažiau įtvirtintos sodybos, bet ne pilys.
 - susijęs iš [[objektai/zodynas/pilėnas.md#claim-t-184635|pilėnas]]: Bisenės užpuolimą pilėnai narsiai atrėmė, o smarkiai sumuštas priešas pasitraukė nieko nepešęs.
 - susijęs iš [[objektai/asmenys/Andrejus Možaiskis.md#claim-t-186176|Andrejus Možaiskis]]: Andrejus Možaiskis kartu su Jakovu Zachariničiumi ir Andrejumi Šemiačičiumi vedė priešo pajėgas į Severską.
@@ -156,13 +180,19 @@ Nenurodyta
 - susijęs iš Nemunas: 1410 m. išvedus visą kariuomenę iš Lietuvos, pilys liko neapsaugotos, o Ordino puolimas prie Nemuno galėjo baigtis katastrofa.
 - susijęs iš Nemunas: Pradinė Mindaugo Lietuva ir jo valdomos tėviškės pilys apėmė plotą tarp Nemuno, Neries ir Merkio.
 - susijęs iš Palenkė: Vytauto laikais pilys buvo statomos ir Palenkėje, tarp jų Melnike ir galbūt Brastoje.
+- susijęs iš Pamedė: Narbutas Pamedės pavadinimą kildino iš lietuviško žodžio „Meže“, reiškiančio ribą, nes Pamedė ribojosi su svetimais kraštais.
+- susijęs iš Pamedė: Į šiaurę už Osos upės ir prie jos plytėjusios girios buvo antroji Pamedės provincija.
 - susijęs iš Polockas: 1381 m. Skirgaila su Livonijos magistru dvylika savaičių laikė apsupęs Polocką.
 - susijęs iš Polockas: 1381 m. Skirgaila su Livonijos magistru dvylika savaičių laikė apsupęs Polocką, bet buvo priverstas nutraukti apgultį.
 - susijęs iš Vilnius: Gediminas įkūrė Vilnių ir jame sutelkė pagrindinę lietuvių feodalų valdžią.
 - susijęs iš Voluinė: Vytauto laikais LDK pilys statytos ir rusėniškose žemėse, tarp jų Voluinėje, Lucke.
 - susijęs iš Žemaitija: Kryžiuočiai taip nusiaubė Karšuvos žemę Žemaitijoje, kad jos gyventojai su visu turtu turėjo išsikelti į Lietuvą.
+- susijęs iš [[objektai/zodynas/Meže.md#claim-t-192204|Meže]]: Narbutas Pamedės pavadinimą kildina iš lietuviško žodžio „Meže“, nes kraštas ribojosi su svetimais kraštais.
+- susijęs iš [[objektai/zodynas/Meže.md#claim-t-192205|Meže]]: Narbutas lietuvišką žodį „Meže“ aiškina kaip reiškiantį ribą.
 - susijęs iš [[objektai/zodynas/kryžininkai.md#claim-t-113642|kryžininkai]]: Konrado Valenrodo šlovė ir potraukis riterystei subūrė iš Europos šalių gausius kryžininkų pulkus žygiui į Lietuvą.
 - susijęs iš [[objektai/zodynas/kuoras propugnaculum pilaitė.md#claim-t-58790|kuoras propugnaculum pilaitė]]: Karaliaučiaus, Kroicburgo ir Bartenšteino pilys buvo apsuptos trimis stipriais kuorais, kad apsuptieji negalėtų įeiti ar išeiti.
+- susijęs iš [[objektai/zodynas/Meže.md#claim-t-192204|Meže]]: Narbutas Pamedės pavadinimą kildina iš lietuviško žodžio „Meže“, nes kraštas ribojosi su svetimais kraštais.
+- susijęs iš [[objektai/zodynas/Meže.md#claim-t-192205|Meže]]: Narbutas lietuvišką žodį „Meže“ aiškina kaip reiškiantį ribą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -177,11 +207,30 @@ Nenurodyta
     kurios gyveno Pamedės, Pagudės, Varmės, Notangos  ir Bartos žemėse, pastatydami
     jose daugybę įtvirtinimų, miestų ir pilių, kurias išskaičiuosime ir išvardysime vėliau.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-60306
+  citata_originali: |
+    Nieku būdu nereikia pamiršti ir to itin
+    svarbaus įrodymo, jog šių brolių kovas lydėjusi tokia karo sėkmė, kad per vienuolika
+    metų nuo tos dienos, kai įžengė  į Prūsijos žemę, jie pajungė savo galiai  ir palenkė
+    krikščionių tikėjimui ir tas gentis, kurios valdė Kulmo bei Lubavos žemes, ir tas tautas,
+
+    kurios gyveno Pamedės, Pagudės, Varmės, Notangos  ir Bartos žemėse, pastatydami
+    jose daugybę įtvirtinimų, miestų ir pilių, kurias išskaičiuosime ir išvardysime vėliau.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-59675
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

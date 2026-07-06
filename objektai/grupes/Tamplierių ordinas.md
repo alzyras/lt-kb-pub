@@ -24,6 +24,18 @@ tags:
 amziai:
   - 'XII'
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Tamplierių ordinas
 
@@ -34,39 +46,106 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
 ## Teiginiai
 
 <a id="claim-t-89286"></a>
-- t-001
+- t-002
   global_id: t-89286
-  teiginys: '1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo įsikūrusių šioje žemėje, procesas.'
+  teiginys: "1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo įsikūrusių šioje žemėje, procesas."
+  temporaliniai_duomenys: "įvykio data: 1291 m.; įvykio data: 1307 m.; įvykio data: 1310 m.; įvykio data: 1312 m.; įvykio data: 1314 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "46097-46557; hash=c3735feed559d1b1a86c61f741840d236208a2fe460ba211846bfc6afd803022; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jeruzalė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tamplierių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Jeruzalė: mention_match, place, gap=15"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tamplierių ordinas\" parinktas kaip owner_note_path. Targetas \"Jeruzalė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-85276
 
 <a id="claim-t-89287"></a>
-- t-002
+- t-003
   global_id: t-89287
-  teiginys: 'Tamplierių ordinas siejamas su 1112 m. popiežiaus Paskalio II laikais, o 1312 m. kovo 23 d. popiežius Klemensas V jį panaikino Vieno suvažiavime.'
+  teiginys: "Tamplierių ordinas siejamas su 1112 m. popiežiaus Paskalio II laikais, o 1312 m. kovo 23 d. popiežius Klemensas V jį panaikino Vieno suvažiavime."
+  temporaliniai_duomenys: "įvykio data: 1112 m.; įvykio data: 1312 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia aiškesnės veiksmo formos ir pašalinti perteklinę detalę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "695322-695846; hash=cb949f1150f53d95db6742c554f1776da0fdfd37614f78135e93d0f91e6ca081; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Klemensas V: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tamplierių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Klemensas V: mention_match, person, gap=102"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tamplierių ordinas\" parinktas kaip owner_note_path. Targetas \"Klemensas V\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-85273
 
 <a id="claim-t-89288"></a>
-- t-003
+- t-005
   global_id: t-89288
-  teiginys: 'Tamplierių ordinas minimas prie 1112 metų popiežiaus Paskalio II laikais, o 1312 m. jį panaikino popiežius Klemensas V.'
+  teiginys: "Tamplierių ordinas minimas prie 1112 metų popiežiaus Paskalio II laikais, o 1312 m. jį panaikino popiežius Klemensas V."
+  temporaliniai_duomenys: "įvykio data: 1312 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Rewrite failed deterministic gates: dangling_initial"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "695322-695846; hash=cb949f1150f53d95db6742c554f1776da0fdfd37614f78135e93d0f91e6ca081; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Klemensas V: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tamplierių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Klemensas V: mention_match, person, gap=107"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tamplierių ordinas\" parinktas kaip owner_note_path. Targetas \"Klemensas V\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-13T14:23:04Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-002
+    - c-85273
 
 <a id="claim-t-89289"></a>
 - t-004
   global_id: t-89289
-  teiginys: '1312 m. kovo 22 d. popiežius Klemensas V Vieno sinode pasmerkė Tamplierių ordiną, įsteigtą 1112 m. Paskalio II laikais.'
+  teiginys: "1312 m. kovo 22 d. popiežius Klemensas V Vieno sinode pasmerkė Tamplierių ordiną, įsteigtą 1112 m. Paskalio II laikais."
+  temporaliniai_duomenys: "įvykio data: 1112 m.; įvykio data: 1312 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, tikslus ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "738971-739366; hash=72b11b1becc42bcf0743c4ee63a1063bd34c5ec7aa707b308a77ac65ee7baf7e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Klemensas V: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tamplierių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Klemensas V: mention_match, person, gap=34"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tamplierių ordinas\" parinktas kaip owner_note_path. Targetas \"Klemensas V\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-85272
 
 <a id="claim-t-89290"></a>
-- t-005
+- t-001
   global_id: t-89290
-  teiginys: 'Neseniai Prancūzijoje likviduotas Tamplierių ordinas buvo pavyzdys, pagal kurį susikūrė ir egzistavo Teutonų ordinas.'
+  teiginys: "Neseniai Prancūzijoje likviduotas Tamplierių ordinas buvo pavyzdys, pagal kurį susikūrė ir egzistavo Teutonų ordinas."
+  temporaliniai_duomenys: "įvykio data: 1324 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia susieti teiginį su note objektu ir pašalinti silpną įžangą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "45822-46094; hash=24a4dc3e220dad0d53454f140373c613d64619e72a9cd63f1158ada6e06181cb; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tamplierių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tamplierių ordinas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-85274
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64222|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Vernerio iš Orzelno laikais Kryžiuočių ordino statute buvo pabrėžtas pamaldumas ir apriboti pasaulietiniai brolių poreikiai.
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64232|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Didysis magistras Verneris iš Orzelno ėmėsi restauruoti Kryžiuočių ordiną.
 - susijęs iš [[objektai/grupes/Cistersų ordinas.md#claim-t-88537|Cistersų ordinas]]: Cistersų ordinas kronikos chronologiniame sąraše siejamas su 1097 Viešpaties metais.
@@ -102,6 +181,7 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
     metais, popiežiaus Paskalio II bei imperatoriaus Henriko V laikais (Mart. p. 445; Ptol. p.
     1236).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -119,6 +199,7 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
       Teutonų namų ordinas — 1190 viešpaties metais popiežiaus Celestino III ir imperatoriaus
     Henriko VI laikais (Dusb.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -135,6 +216,7 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
     Prancūzijoje buvęs likviduotas Tamplierių ordinas, kurio pavyzdžiu susikūrė ir egzistavo
     Teutonų ordinas.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -153,11 +235,77 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
       Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis
     argumentacijos.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-85272
+  citata_originali: |
+    109. Apie tamplierių ordino panaikinimą
+
+      1312 viešpaties metais, kovo 22 dieną, imperatoriaus Henriko VII laikais, Klemensas
+    V, popiežius, Vieno sinode pasmerkė — nors šitai nebuvo galutinis sprendimas, bet
+    apaštališkojo sosto parengiamasis veiksmas — tamplierių ordiną, įsteigtą 1112 viešpaties
+    metais, popiežiaus Paskalio II bei imperatoriaus Henriko V laikais (Mart. p. 445; Ptol. p.
+    1236).
+  citata_rodoma: "Apie tamplierių ordino panaikinimą\n\n  1312 viešpaties metais, kovo 22 dieną, imperatoriaus Henriko VII laikais, Klemensas\nV, popiežius, Vieno sinode pasmerkė — nors šitai nebuvo galutinis sprendimas, bet\napaštališkojo sosto parengiamasis veiksmas — tamplierių ordiną, įsteigtą 1112 viešpaties\nmetais, popiežiaus Paskalio II bei imperatoriaus Henriko V laikais (Mart. p. 445; Ptol. p.\n1236)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89289
+
+- id: c-85273
+  citata_originali: |
+    Švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.
+      Tamplierių ordinas — 1112 viešpaties metais popiežiaus Paskalio II laikais; jį panaikino
+    popiežius Klemensas V Vieno suvažiavime 1312 viešpaties metais kovo 23 dieną savo
+    pontifikato 7-ais metais, imperatoriaus Henriko VII laikais, tiesa, šitai nebuvo galutinis
+    sprendimas, bet apaštališkojo sosto parengiamasis veiksmas.
+      Teutonų namų ordinas — 1190 viešpaties metais popiežiaus Celestino III ir imperatoriaus
+    Henriko VI laikais (Dusb.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89288
+    - t-89287
+
+- id: c-85274
+  citata_originali: |
+    Kita vertus, Ordino priešų veikla, kryžiuočiams keliami kaltinimai turėję tam tikrų
+    padarinių. 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti Ordiną68. Neseniai
+    Prancūzijoje buvęs likviduotas Tamplierių ordinas, kurio pavyzdžiu susikūrė ir egzistavo
+    Teutonų ordinas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89290
+
+- id: c-85276
+  citata_originali: |
+    1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo (1291
+    m.) įsikūrusių šioje žemėje, procesas. Gindamas popiežiaus ir karaliaus interesus, 1310
+    m. vyskupų sinodas pasmerkė 54 tamplierius sudeginti. Apkaltintas erezija Tamplierių
+    ordinas galutinai likviduotas 1312 m., o jo didysis magistras sudegintas ant laužo
+    Paryžiuje 1314 m.69
+      Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis
+    argumentacijos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89286
 
 ## Ryšiai
 - Tamplierių ordinas gyveno [[objektai/vietos/Prancūzija]]

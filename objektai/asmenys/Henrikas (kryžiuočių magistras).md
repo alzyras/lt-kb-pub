@@ -13,6 +13,18 @@ amziai:
   - 'XIII'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Henrikas (kryžiuočių magistras)
 
@@ -25,24 +37,65 @@ Kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, reikalaudamas 
 <a id="claim-t-186002"></a>
 - t-001
   global_id: t-186002
-  teiginys: 'Kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, reikalaudamas priesaikos nesikišti į prūsų karą.'
+  teiginys: "Kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, reikalaudamas priesaikos nesikišti į prūsų karą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1274 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "219761-220476; hash=1572eb976aec909ee416fd2519438d2dba5d0ddd83877d6e544d9b22044bd828; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Henrikas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Henrikas (kryžiuočių magistras): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Henrikas: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Henrikas (kryžiuočių magistras)\" parinktas kaip owner_note_path. Targetas \"Henrikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-169363
 
 <a id="claim-t-186003"></a>
 - t-002
   global_id: t-186003
-  teiginys: 'Magistras Henrikas, įkurdinęs stiprią įgulą Gotesverderio pilyje prie Kauno, su likusia kariuomene niokojo kraštą.'
+  teiginys: "Magistras Henrikas, įkurdinęs stiprią įgulą Gotesverderio pilyje prie Kauno, su likusia kariuomene niokojo kraštą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "434832-435286; hash=3243dc424204ea1cbd004261d0e24ec901b6b83dd7b59f0485787e072c2191bf; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gotesverderis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Henrikas (kryžiuočių magistras): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Gotesverderis: mention_match, place, gap=34"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Henrikas (kryžiuočių magistras)\" parinktas kaip owner_note_path. Targetas \"Gotesverderis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-169364
 
 <a id="claim-t-186004"></a>
 - t-003
   global_id: t-186004
-  teiginys: 'Mūšyje kryžiuočiai neteko ordino magistro Henriko ir dvidešimt šešių kilmingųjų ordino riterių.'
+  teiginys: "Mūšyje kryžiuočiai neteko ordino magistro Henriko ir dvidešimt šešių kilmingųjų ordino riterių."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "438452-439105; hash=2e7ee703f30d66a22e9738df22012ccf42e49915b3008921c76619cc718736f3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Henrikas (kryžiuočių magistras): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Henrikas (kryžiuočių magistras)\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
-
+    - c-169365
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -74,6 +127,7 @@ Kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, reikalaudamas 
     atskirų asmenų, tiesa, pavie­
     niais būriais, be kovos ženklų.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -99,6 +153,7 @@ Kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, reikalaudamas 
     tam, kad priešas, nuniokojus jo valdas, būtų toliau
     nustumtas.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -124,8 +179,90 @@ Kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, reikalaudamas 
     sekinta), ilgainiui neprarastų drąsos ir nepasileistų
     bėgti.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-169363
+  citata_originali: |
+    Atrodė, jog kryžiuočiams šį
+    5*
+    131
+
+    ## Puslapis 130
+
+    1274 m eta i
+    Ž em a ičia i gina p r ū ­
+    sus ir m u ša  k r y ž iu o ­
+    čius
+    karą pavyks užbaigti tada, kai sutrauks iš karto visas
+    jėgas ir neleis priešui kokiu nors būdu pasinaudoti sve­
+    tima pagalba. Tuo metu kryžiuočių riterių magistras
+    buvo Henrikas: jis pirmiausia atnaujino santarvę su
+    Germantu, reikalaudamas, kad šis prisiektų, jog lietu­
+    viai bei žemaičiai nesikiš j prūsų karą. Dėl tos pačios
+    priežasties valdovas neleido viešai teikti prūsams ko­
+    kios pagalbos prieš kryžiuo­
+    čius, tačiau nieko negalėjo
+    padaryti, kad slapta į Prūsi­
+    ją nežygiuotų Žemaitijoje su­
+    telkta kariuomenė, remiama
+    atskirų asmenų, tiesa, pavie­
+    niais būriais, be kovos ženklų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186002
+
+- id: c-169364
+  citata_originali: |
+    Šią naują
+    pilį, esančią per vieną mylią nuo Kauno, pavadino
+    Gotesverderiu. Įkurdinęs čia
+    K ry žiu o č ia i
+    p a sta to
+    stiprią įgulą, magistras Hen-
+    L ie tu v o je  p ilį
+    rikas su likusia kariuomene
+    patraukė krašto niokoti. Su­
+    grįžęs po to į Prūsiją, paragino maršalą Šindekopfą, ne­
+    seniai sutelktos kariuomenės vadą, vėl žygiuoti į Lie­
+    tuvą— ir tam, kad nauja pilis būtų geriau ginama, ir
+    tam, kad priešas, nuniokojus jo valdas, būtų toliau
+    nustumtas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186003
+
+- id: c-169365
+  citata_originali: |
+    Prasidėjo iš tie­
+    sų žiaurus mūšis: ir vieni, ir
+    kiti puolė iš paskutiniųjų. Kovos lauke krito tūkstan­
+    tis lietuvių, tačiau ir kryžiuočiai neteko (neskaičiuo­
+    jant paprastų karių) dvidešimt šešių kilmingųjų ordi­
+    no riterių bei paties vado — ordino magistro Henriko;
+    kadangi abiejų šalių nuostoliai rodėsi vienodi, ligi vi­
+    durdienio nebuvo aišku, katron pusėn krypsta sėkmė.
+    Gal ir buvo pamato tikėtis pergalės, tačiau Kęstutis
+    bei Algirdas nenorėjo puoselėti abejotinų vilčių: abu
+    gerokai nuogąstavo, kad jų kariuomenė, ne tokia gau­
+    si ir ne taip gerai ginkluota (be to, smarkiai kovų iš­
+    sekinta), ilgainiui neprarastų drąsos ir nepasileistų
+    bėgti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186004

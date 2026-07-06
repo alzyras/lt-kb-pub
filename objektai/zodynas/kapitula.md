@@ -6,6 +6,7 @@ saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1350 m.'
+  - '1655 m.'
   - '2026 m.'
 date_start: '1350'
 date_end: '2026'
@@ -16,6 +17,18 @@ tags:
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # kapitula
 
@@ -26,18 +39,53 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
 ## Teiginiai
 
 <a id="claim-t-70167"></a>
-- t-001
+- t-005
   global_id: t-70167
-  teiginys: 'Ordino kapitulai sutikus, kryžiuočių viršininkas pavedė Vytautui valdyti Naują Marienburgo pilį.'
+  teiginys: "Ordino kapitulai sutikus, kryžiuočių viršininkas pavedė Vytautui valdyti Naują Marienburgo pilį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "89111-89458; hash=5df374943bfa3429b6ce6286fbe374137ca1c19e02e24c4afb1fbeb125818ece; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Marienburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "kapitula: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Marienburgas: mention_match, place, gap=72"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"kapitula\" parinktas kaip owner_note_path. Targetas \"Marienburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-37913
 
 <a id="claim-t-70168"></a>
-- t-002
+- t-004
   global_id: t-70168
-  teiginys: 'Ordino kapitula turi sutikti, kad Vytautui būtų pavesta valdyti Naują Marienburgo pilį.'
+  teiginys: "Ordino kapitula turi sutikti, kad Vytautui būtų pavesta valdyti Naują Marienburgo pilį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "89051-89355; hash=0c00edb2c5dd27ff19f3450b136e4673286308e2ccebeb961d138db16fb12b89; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Marienburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "kapitula: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Marienburgas: mention_match, place, gap=63"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"kapitula\" parinktas kaip owner_note_path. Targetas \"Marienburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-14691
+
+<a id="claim-t-193146"></a>
+- t-006
+  global_id: t-193146
+  teiginys: "XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užėmė rusai."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "304510-304668; hash=33ca4b1c1831fa5707ed4ac65e6db8fa4bd95f0961cf3f7c8ee867f5b26bf3d6; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
+  vertinimo_autorius: "rewrite_source_claims / reject"
+  pagrindžia:
+    - c-175900
 - susijęs iš [[objektai/asmenys/Albinas (Vilniaus sufraganas).md#claim-t-87611|Albinas (Vilniaus sufraganas)]]: Po Vilniaus sufragano Albino mirties kapitula jo biblioteką atidavė jėzuitams.
 - susijęs iš [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis.md#claim-t-82571|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]: Mikalojus Kristupas Radvila-Našlaitėlis bylinėjosi su kapitula dėl Filipovo namo, kai nustota mokėti činšą.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113878|Mikalojus Radvila Juodasis]]: Mikalojus Radvila Juodasis nuo 1541 m. nuomojo Filipovo namą iš kapitulos ir kasmet mokėjo po 20 kapų lietuviškų grašių.
@@ -89,6 +137,8 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
 - susijęs iš [[objektai/zodynas/vaitas ir tarėjai.md#claim-t-86560|vaitas ir tarėjai]]: Vilniaus vaitas ir tarėjai tvirtino, kad katedros kapitula nepagrįstai plečia jurisdikciją miesto gyventojams.
 - susijęs iš [[objektai/zodynas/činšas.md#claim-t-183837|činšas]]: Filipovo namo činšas buvo mokamas vienuolika metų, vėliau jo mokėjimas nutrūko ir kapitula pradėjo teismo procesą su kunigaikščiu Kristupu.
 - susijęs iš [[objektai/zodynas/činšas.md#claim-t-82136|činšas]]: Filipovo namo činšas buvo mokamas vienuolika metų, vėliau jo mokėjimas nutrūko ir kapitula pradėjo teismo procesą su kunigaikščiu Kristupu.
+- susijęs iš [[objektai/zodynas/jurisdikcija.md#claim-t-192170|jurisdikcija]]: Vilniaus katedros kapitula bažnytinėse savo asmenų ir valdinių bylose turėjo jurisdikciją su ekskomunikacijos teise.
+- susijęs iš [[objektai/zodynas/jurisdikcija.md#claim-t-192173|jurisdikcija]]: Vilniaus tarėjai reikalavo atleisti miestą nuo Vilniaus kapitulos naujai pasisavintos jurisdikcijos.
 - susijęs iš [[objektai/asmenys/Aaronas.md#claim-t-87604|Aaronas]]: Aaronas buvo pirmasis Tyneco abatas ir vėliau septintasis Krokuvos vyskupas, miręs 1059 m. spalio 9 d.
 - susijęs iš [[objektai/asmenys/Laurynas Volskis.md#claim-t-87442|Laurynas Volskis]]: Vilniaus kanauninkas Laurynas Volskis prisidėjo 250 auksinų prie sumos, kuri išaugo iki 4000 auksinų.
 - susijęs iš [[objektai/asmenys/Marcelis Suchodolskis.md#claim-t-87772|Marcelis Suchodolskis]]: Vilniaus kanauninkas Marcelis Suchodolskis prie fundacijos sumos prisidėjo 500 auksinų.
@@ -112,10 +162,9 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
 - susijęs iš [[objektai/zodynas/ekskomunikacija ekskomunika.md#claim-t-86466|ekskomunikacija ekskomunika]]: Vilniaus katedros kapitula galėjo naudotis jurisdikcija su ekskomunikacijos teise savo asmenų ir valdinių bylose.
 - susijęs iš [[objektai/zodynas/ekskomunikacija ekskomunika.md#claim-t-86467|ekskomunikacija ekskomunika]]: Vilniaus miestiečiai anksčiau būdavo ekskomunikuojami Vilniaus vyskupo, vikaro arba oficijolo.
 - susijęs iš [[objektai/zodynas/ekskomunikacija ekskomunika.md#claim-t-86468|ekskomunikacija ekskomunika]]: Vilniaus kapitula teigė turėjusi teisę ekskomunikuoti paprotinės teisės ir bažnyčios valdinių niekintojus.
-- susijęs iš [[objektai/zodynas/jurisdikcija.md#claim-t-173019|jurisdikcija]]: Vilniaus tarėjai reikalavo atleisti miestą nuo Vilniaus kapitulos naujai pasisavintos jurisdikcijos.
-- susijęs iš [[objektai/zodynas/jurisdikcija.md#claim-t-173020|jurisdikcija]]: Vilniaus katedros kapitula bažnytinėse savo asmenų ir valdinių bylose turėjo jurisdikciją su ekskomunikacijos teise.
 - susijęs iš [[objektai/zodynas/kahalas.md#claim-t-86530|kahalas]]: Vilniaus kahalas iki 1763 m. nuo 5500 auksinų sumos Valerijono konvikto gyventojams mokėjo 8 procentus.
 - susijęs iš [[objektai/zodynas/oficijolas.md#claim-t-86600|oficijolas]]: Vilniaus miesto gyventojus anksčiau paprastai iškviesdavo, teisdavo ir ekskomunikuodavo Vilniaus vyskupas, vikaras arba oficijolas.
+- susijęs iš [[objektai/zodynas/diecezija.md#claim-t-192168|diecezija]]: Klodovo klebonija, duota naujajam vyskupui, buvo Gniezno diecezijoje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -128,8 +177,9 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
     muno, žemiau Dubysos įtakos, Naują Marienburgo pilį. Nauja­
     sis Marienburgas pasidarė Vytauto giminių bei šalininkų centras.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -145,8 +195,71 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
     Čia atvyko ir Vytauto jauniausias brolis Zigmantas, čia persi­
     kraustė ir Alšėnų kunigaikštis ir kiti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+- c-003
+  santrauka: 'XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užėmė rusai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    XVII amžiuje
+    kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užėmė ru-
+    sai. Tuomet iš katedros buvo išvežtos visos brangenybės ir paslėptos
+    nuo rusų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003
+
+## Citatos
+
+- id: c-14691
+  citata_originali: |
+    Tuo pat vardu buvo ir jo krikš­
+    tatėvis, Ragainės komtūras.
+    Kryžiuočių viršininkas dabar jau labiau Vytautui pasitikė­
+    damas, Ordino kapitulai sutikus, pavedė jam valdyti prie Ne­
+    muno, žemiau Dubysos įtakos, Naują Marienburgo pilį. Nauja­
+    sis Marienburgas pasidarė Vytauto giminių bei šalininkų centras.
+  citata_rodoma: "Kryžiuočių viršininkas dabar jau labiau Vytautui pasitikė­\ndamas, Ordino kapitulai sutikus, pavedė jam valdyti prie Ne­\nmuno, žemiau Dubysos įtakos, Naują Marienburgo pilį. Nauja­\nsis Marienburgas pasidarė Vytauto giminių bei šalininkų centras."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-70168
+
+- id: c-37913
+  citata_originali: |
+    Kryžiuočių viršininkas dabar jau labiau Vytautui pasitikė­
+    damas, Ordino kapitulai sutikus, pavedė jam valdyti prie Ne­
+    muno, žemiau Dubysos įtakos, Naują Marienburgo pilį. Nauja­
+    sis Marienburgas pasidarė Vytauto giminių bei šalininkų centras.
+    Čia atvyko ir Vytauto jauniausias brolis Zigmantas, čia persi­
+    kraustė ir Alšėnų kunigaikštis ir kiti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-70167
+
+- id: c-175900
+  citata_originali: |
+    XVII amžiuje
+    kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užėmė ru-
+    sai. Tuomet iš katedros buvo išvežtos visos brangenybės ir paslėptos
+    nuo rusų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193146

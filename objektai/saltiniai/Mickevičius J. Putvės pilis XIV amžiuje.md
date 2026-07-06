@@ -16,6 +16,18 @@ tags:
   - upė
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Mickevičius J. Putvės pilis XIV amžiuje
 
@@ -26,26 +38,58 @@ Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės ka
 ## Teiginiai
 
 <a id="claim-t-60956"></a>
-- t-001
+- t-003
   global_id: t-60956
-  teiginys: 'J. Mickevičiaus straipsnis „Putvės pilis XIV amžiuje“ paskelbtas 1940 m. žurnalo „Gimtasai kraštas“ 3-4 numeryje.'
+  teiginys: "J. Mickevičiaus straipsnis „Putvės pilis XIV amžiuje“ paskelbtas 1940 m. žurnalo „Gimtasai kraštas“ 3-4 numeryje."
+  temporaliniai_duomenys: "įvykio data: 1940 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti pilną bibliografinį teiginį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "786381-786468; hash=54a21db45ebe0c30a7f4c8eae45e57e44950a36701989d52ec4ec0a155aeb17c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Putvė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mickevičius J. Putvės pilis XIV amžiuje: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Putvė: mention_match, place, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mickevičius J. Putvės pilis XIV amžiuje\" parinktas kaip owner_note_path. Targetas \"Putvė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-61589
 
 <a id="claim-t-60957"></a>
-- t-002
+- t-001
   global_id: t-60957
-  teiginys: 'Pūtvės pilis ir laukas siejami su Pūtvės kaimu prie Akmenos, į pietryčius nuo Šilalės, arba su gretimo Kreivių kaimo piliakalniu.'
+  teiginys: "Pūtvės pilis ir laukas siejami su Pūtvės kaimu prie Akmenos, į pietryčius nuo Šilalės, arba su gretimo Kreivių kaimo piliakalniu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "626767-627327; hash=a6e2a184b424273c01a5fc4c83c50f27a87faf1594264eadeb099fd3603b8396; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mickevičius J. Putvės pilis XIV amžiuje: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=34"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mickevičius J. Putvės pilis XIV amžiuje\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-61588
 
 <a id="claim-t-60958"></a>
-- t-003
+- t-002
   global_id: t-60958
-  teiginys: 'Kreiviai, anksčiau vadinti Kryvos vardu, ir gretimas Romės Laukas galėjo būti susiję su pagonišku kultu.'
+  teiginys: "Kreiviai, anksčiau vadinti Kryvos vardu, ir gretimas Romės Laukas galėjo būti susiję su pagonišku kultu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "627732-628053; hash=9c0e1c3106617cb69f84137c24f18bfb293e643fbc1a68437db0883066c92653; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kreiviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mickevičius J. Putvės pilis XIV amžiuje: owner_note_path, source"
+  ryšio_targeto_parinkimas: "Kreiviai: mention_match, place, gap=1"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mickevičius J. Putvės pilis XIV amžiuje\" parinktas kaip owner_note_path. Targetas \"Kreiviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
-
+    - c-61590
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -60,6 +104,7 @@ Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės ka
     Baudžiavos..., p. 88; LAA, 2, p. 142), tačiau Kreivių kaime tėra kalva, vardu Pilė, be
     įtvirtinimų ir kultūrinio sluoksnio pėdsakų (LAA, 2, p.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -73,6 +118,7 @@ Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės ka
     Mickevičius J. Putvės pilis XIV amžiuje.— Gimtasai kraštas, 1940, Nr. 3—4, p. 286—
     287.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -89,8 +135,53 @@ Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės ka
     — Mickevičius J.) ir gretimas Romės Laukas, matyt, buvo susiję su pagonišku kultu (žr.
     paaiškinimus D. III, 5, 1).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-61588
+  citata_originali: |
+    Kryžiuočių kelių aprašymuose (XIV a. pabaiga) minimas Putinveld (Weg.
+    12, 16), Putetauken (Weg. 18). Pūtvės pilis ir laukas identifikuojami su Pūtvės kaimu
+    prie Akmenos (Jūros intako)  į pietryčius nuo Šilalės, su ten buvusiu (upės nuplautu)
+    arba gretimo Kreivių kaimo piliakalniu (SRP, 2, p. 673—675; SZM, p. 201; Biržiška V.,
+    Kryžiuočių keliai..., p. 32—33; Mickevičius J., Pūtvės pilis..., p. 286—287; Jurginis J.,
+    Baudžiavos..., p. 88; LAA, 2, p. 142), tačiau Kreivių kaime tėra kalva, vardu Pilė, be
+    įtvirtinimų ir kultūrinio sluoksnio pėdsakų (LAA, 2, p.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60957
+
+- id: c-61589
+  citata_originali: |
+    Mickevičius J. Putvės pilis XIV amžiuje.— Gimtasai kraštas, 1940, Nr. 3—4, p. 286—
+    287.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60956
+
+- id: c-61590
+  citata_originali: |
+    Dab. Pūtvės kaimo žemėse, Akmenos
+    kair. kranto vingyje, esančioje Pilikėje (aikštelė 40Х Х24 m, be žymesnių įtvirtinimų
+    pėdsakų) galėjo būti anksčiau statyta pilaitė. Kreiviai (anksčiau vadinti Kryvos vardu
+    — Mickevičius J.) ir gretimas Romės Laukas, matyt, buvo susiję su pagonišku kultu (žr.
+    paaiškinimus D. III, 5, 1).
+  citata_rodoma: "kranto vingyje, esančioje Pilikėje (aikštelė 40Х Х24 m, be žymesnių įtvirtinimų\npėdsakų) galėjo būti anksčiau statyta pilaitė. Kreiviai (anksčiau vadinti Kryvos vardu\n— Mickevičius J.) ir gretimas Romės Laukas, matyt, buvo susiję su pagonišku kultu (žr.\npaaiškinimus D. III, 5, 1)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60958

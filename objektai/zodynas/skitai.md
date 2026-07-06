@@ -11,6 +11,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # skitai
 
@@ -23,44 +35,127 @@ Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti J
 <a id="claim-t-185338"></a>
 - t-001
   global_id: t-185338
-  teiginys: 'Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti Jerim Berdį į Skitiją.'
+  teiginys: "Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti Jerim Berdį į Skitiją."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Mikalojus Radvila keliavo į Skitija (0.82)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "696197-696626; hash=cd657b4a8f3facca80d022c4e494c13aca34d951f6814b221063c83f9720d92c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Skitija: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mikalojus Radvila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Skitija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo, kad Mikalojus Radvila patraukė į skitų kraštą, t. y. Skitiją."
   pagrindžia:
-    - c-001
+    - c-168699
 
 <a id="claim-t-185339"></a>
 - t-002
   global_id: t-185339
-  teiginys: 'Skitai dviem žygio voromis užpuolė Lenkiją ir siaubė ją ugnimi bei kalaviju.'
+  teiginys: "Skitai dviem žygio voromis užpuolė Lenkiją ir siaubė ją ugnimi bei kalaviju."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1489 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas faktinis sakinys apie skitus ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "942548-943387; hash=10eb7f0797048c879b42280c84c86b326a1ee1c35a7509c5a4fb09f2106bac87; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kalavijas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "skitai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kalavijas: mention_match, thing, gap=67"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"skitai\" parinktas kaip owner_note_path. Targetas \"Kalavijas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-168700
 
 <a id="claim-t-185340"></a>
 - t-003
   global_id: t-185340
-  teiginys: 'Kovos pradžioje skitai iš tolo apšaudė priešininkus strėlėmis dar neprasidėjus tikroms kautynėms.'
+  teiginys: "Kovos pradžioje skitai iš tolo apšaudė priešininkus strėlėmis dar neprasidėjus tikroms kautynėms."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "943388-943793; hash=5ac8ebe243fa4ccd6fc93b202ef3e50fdd1e970a03abd4e7a5edc4f2604b7fc2; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Žirgai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "skitai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Žirgai: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"skitai\" parinktas kaip owner_note_path. Targetas \"Žirgai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-168701
 
 <a id="claim-t-185341"></a>
 - t-004
   global_id: t-185341
-  teiginys: 'Krymo skitų antpuoliai turėjo būti atremiami, o turkų pusiasalis neliečiamas.'
+  teiginys: "Krymo skitų antpuoliai turėjo būti atremiami, o turkų pusiasalis neliečiamas."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1028578-1029046; hash=05d5671370e5429e1fd7475133cb5969958ef470528c662eceea73e54831ed53; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krymas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "skitai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Krymas: mention_match, place, gap=6"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"skitai\" parinktas kaip owner_note_path. Targetas \"Krymas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-168702
 
 <a id="claim-t-185342"></a>
 - t-005
   global_id: t-185342
-  teiginys: 'Priešas, neįveikęs pilies, apiplėšė apylinkę ir patraukė į Skitiją.'
+  teiginys: "Priešas, neįveikęs pilies, apiplėšė apylinkę ir patraukė į Skitiją."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Mechmet Girėjus puolė Lietuva (0.89)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1034132-1034641; hash=bca0b3b6065937f7bf156576983e524ae5041cc8af92a74509fa67ecf57a1eba; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Lietuva: 0.89"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mechmet Girėjus: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Mechmet Girėjus nusiaubė Lietuvą, todėl tai laikytina puolimu."
   pagrindžia:
-    - c-005
+    - c-168703
 
 <a id="claim-t-185343"></a>
 - t-006
   global_id: t-185343
-  teiginys: 'Paaiškinimuose nurodoma, kad A. Kojelavičius skitais vadina mongolus bei totorius.'
+  teiginys: "Paaiškinimuose nurodoma, kad A. Kojelavičius skitais vadina mongolus bei totorius."
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1364636-1365000; hash=671e61624630a9b7670fdb1c360a85a4205a115404640e2323bbc4ccff151713; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Mongolai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "skitai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Mongolai: mention_match, group, gap=15"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"skitai\" parinktas kaip owner_note_path. Targetas \"Mongolai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-168704
 - susijęs iš [[objektai/asmenys/Ibrahimas.md#claim-t-186112|Ibrahimas]]: Ibrahimas vadovavo turkams, atėjusiems į pagalbą Krymo skitams jų išpuoliuose prieš lietuvių žemes.
 - susijęs iš [[objektai/asmenys/Jonas Olbrachtas.md#claim-t-185964|Jonas Olbrachtas]]: 1489 m. Jonas Olbrachtas sutelkė Rusioje ir Lietuvoje kariuomenę ir prie Savranės upės susikovė su skitais.
 - susijęs iš [[objektai/asmenys/Jurga (pasienio seniūnas).md#claim-t-186222|Jurga (pasienio seniūnas)]]: Pasienio seniūnas Jurga dovanomis išpirko lietuviams priklausomas valdas nuo skitų antpuolių.
@@ -109,6 +204,7 @@ Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti J
     menę ir su ja palydėti Jerim Berdį į Skitiją. Vykdyda­
     mas šį įsakymą, Radvila ir patraukė į skitų kraštą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -144,6 +240,7 @@ Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti J
     vyrais, prie Savranės upės at­
     virame lauke susikovė su priešu.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -167,6 +264,7 @@ Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti J
     sias apie jų kovos žymenį, ir, neleidžiant šaudyti
     iš lankų, priversti kautis kardais.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -187,6 +285,7 @@ Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti J
     žemių, kad Krymo skitai, išvydę jį kaimynystėje, ne­
     susimanytų griebtis prieš jį ginklo.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -208,6 +307,7 @@ Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti J
     smarkiau ir plačiau nusiaubė Lietuvą Mengli Girėjaus
     sūnus Mechmet Girėjus.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -229,8 +329,138 @@ Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti J
     autoriai rašė apie skitus kaip apie gerus karius, laukinius žmones.
     A. Kojelavičius skitais vadina mongolus bei totorius.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
+## Citatos
+
+- id: c-168699
+  citata_originali: |
+    Todėl ir Jerim Berdį iškilmingai paskelbė
+    teisėtu valdovu; kad niekas nesakytų, jog jis iš draugo
+    norėjęs tik pasityčioti, iškilmingai suteikdamas nieko
+    nereiškiantį titulą, pasiryžo visaip jį paremti ir sugrą­
+    žinti į valdžią. Jis įsakė Lietuvos maršalui Mikalojui
+    Radvilai skubiai sutelkti Lietuvos žemėse didelę kariuo­
+    menę ir su ja palydėti Jerim Berdį į Skitiją. Vykdyda­
+    mas šį įsakymą, Radvila ir patraukė į skitų kraštą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185338
+
+- id: c-168700
+  citata_originali: |
+    Štai
+    todėl pasirūpino, kad popiežius Inocentas paskelbtų
+    Fridrichą Krokuvos arkivyskupu ir įtrauktų į šventąją
+    kardinolų tarybą, be to, visomis priemonėmis stengė­
+    si pelnyti lenkų palankumą Jonui Olbrachtui, kurį ke­
+    tino palikti savo įpėdiniu. Todėl, sužinojęs, jog skitai
+    dviem žygio voromis užpuolė Lenkiją, siaubdami ją ug­
+    nimi ir kalaviju, jis ryžtingiau nei bet kada anksčiau
+    pradėjo rūpintis Lietuvos reikalais ir įsitraukė į karą
+    dėl Podolės, o sūnui karštai nurodė kuo apdairiausiai
+    pavaduoti karalių karo stovykloje. Kunigaikštis Jonas
+    Olbrachtas, uoliai vykdyda-
+    1489 m eta i
+    mas, kas buvo tėvo nurodyta,
+    K u n ig a ik štis
+    J o n a s
+    greitai sutelkė Rusioje ir Lie-
+    O lb ia c h ta s
+    sum u ša
+    tuvoje kariuomenę ir, patrau-
+    sk itu s
+    kęs į priekį su ryžtingiausiais
+    vyrais, prie Savranės upės at­
+    virame lauke susikovė su priešu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185339
+
+- id: c-168701
+  citata_originali: |
+    Gurguolės, saugomos
+    nedidelio būrio, lėtai slinko iš paskos. Kovos pradžia
+    buvo gana sunki, nes, neprasidėjus tikroms kautynėms,
+    skitai iš tolo juos apšaudė strėlėmis. Štai todėl kuni­
+    gaikštis paragino savuosius paspaudus žirgus pentinais
+    5 3 5
+
+    ## Puslapis 534
+
+    šuoliais užpulti pagrindines priešų jėgas, susispietu­
+    sias apie jų kovos žymenį, ir, neleidžiant šaudyti
+    iš lankų, priversti kautis kardais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185340
+
+- id: c-168702
+  citata_originali: |
+    Tiesa, karalius jį iškvietęs iš vietų, kur gyveno jo pro­
+    tėviai, bet juk jam buvę paskirti dideli plotai už Ki­
+    jevo. Antra vertus, jam laiku buvę pranešta, kad jo
+    uždavinys visomis jėgomis puldinėti Maskvos kuni­
+    gaikštystę, bet neliesti turkų pusiasalio, tiesa, atre-
+    miant visus įprastinius Krymo skitų antpuolius. Štai
+    dėl to karalius jam ir siūlęs įsikurti arčiau maskvėnų
+    žemių, kad Krymo skitai, išvydę jį kaimynystėje, ne­
+    susimanytų griebtis prieš jį ginklo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185341
+
+- id: c-168703
+  citata_originali: |
+    Netoliese, toje vietoje, kur Nemunas netrukdo rengti
+    išpuolių, įvyko smarkios kautynės, visa apylinkė liko
+    nusiaubta kalaviju ir ugnimi, tačiau, puldami pilį, ne­
+    susilaukė sėkmės. Vaivada Goštautas, pilies seniūnas
+    Maskevičius, Jonas Trizna, Nemyra ir kiti karvedžiai
+    taip nukamavo priešą, šaudydami iš patrankų bei reng­
+    dami išpuolius, kad tas, nebesitikėdamas užkariauti pi­
+    lies, apiplėšė apylinkę ir patraukė į Skitiją. Kur kas
+    smarkiau ir plačiau nusiaubė Lietuvą Mengli Girėjaus
+    sūnus Mechmet Girėjus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185342
+
+- id: c-168704
+  citata_originali: |
+    PABAIGA
+
+    ## Puslapis 755
+
+    P A A IŠ K IN IM A I
+    1 Skitais senovėje vadinta tautos, gyvenusios šiaurinėse Juodo­
+    sios jūros pakrantėse 7—3 a. prieš m. e. Manoma, kad jie priklausė
+    indoeuropiečių kalbų šeimos iranėnų grupei. Herodotas bei romėnų
+    autoriai rašė apie skitus kaip apie gerus karius, laukinius žmones.
+    A. Kojelavičius skitais vadina mongolus bei totorius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185343

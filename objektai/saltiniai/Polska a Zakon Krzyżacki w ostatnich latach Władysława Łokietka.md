@@ -16,6 +16,18 @@ tags:
 amziai:
   - 'XIV'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka
 
@@ -28,10 +40,22 @@ amziai:
 <a id="claim-t-31889"></a>
 - t-001
   global_id: t-31889
-  teiginys: 'St. Zajączkowskio „Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka“ išleista Lvove 1929 m.'
+  teiginys: "St. Zajączkowskio „Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka“ išleista Lvove 1929 m."
+  temporaliniai_duomenys: "įvykio data: 1325 m.; įvykio data: apie 1325 m.; įvykio data: 1929 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Citata remia leidimo vietą ir metus, bet pastaba apie 1325 m. sutartį yra bibliografinis komentaras."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "660785-661050; hash=46e644be5086bb4c786716d93330550edbb695fc2d15382bbaa4bcfcdcf0d351; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lvovas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lvovas: mention_match, place, gap=74"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka\" parinktas kaip owner_note_path. Targetas \"Lvovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-33692
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,8 +67,25 @@ amziai:
     (”) _Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka,_
     Lwów 1929 (daug apie 1325 m. sutartį; panaudoja W. de Machaut).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33692
+  citata_originali: |
+    Urkundenforschung, t. 5, 1914, 21-40 p. — Zajączkowski,
+    St. : _Przymierze polsko-litewskie 1325 r.,_ KH, t. 40, 1926, 567-617 p. —
+    (”) _Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka,_
+    Lwów 1929 (daug apie 1325 m. sutartį; panaudoja W. de Machaut).
+  citata_rodoma: "—\n(”) _Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka,_\nLwów 1929 (daug apie 1325 m. sutartį; panaudoja W. de Machaut)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31889

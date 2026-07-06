@@ -14,6 +14,18 @@ tags:
   - vieta
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Tryškiai
 
@@ -26,9 +38,23 @@ O kai pamatai po provincijos miestelį Tryškius vaikštantį Erkiulį Puaro –
 <a id="claim-t-21830"></a>
 - t-001
   global_id: t-21830
-  teiginys: 'Tryškiuose aktorius Davidas Suchetas ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į Pietų Afrikos Respubliką.'
+  teiginys: "Tryškiuose aktorius Davidas Suchetas ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į Pietų Afrikos Respubliką."
+  semantiniai_rysiai: "Davidas Suchetas keliavo į Tryškiai (0.74)"
+  temporaliniai_duomenys: "įvykio data: 1952 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Klausiamoji formuluotė pakeista citatos palaikomu faktiniu sakiniu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "541128-541764; hash=5a10e585036c25be7f10395b22e935281ef8dc92e379e880eda0b776974cb5d5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Tryškiai: 0.74"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Davidas Suchetas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Tryškiai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Davidas Suchetas aiškiai vaizduojamas vaikštantis Tryškiuose."
   pagrindžia:
-    - c-001
+    - c-24509
 - susijęs iš [[objektai/asmenys/Davidas Suchetas.md#claim-t-18874|Davidas Suchetas]]: Davidas Suchetas Tryškiuose ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į Pietų Afrikos Respubliką.
 - susijęs iš [[objektai/posakiai/„idealiąją Lietuvą“.md#claim-t-75613|„idealiąją Lietuvą“]]: „Idealiosios Lietuvos“ vaizdinyje Davidas Suchetas Tryškiuose ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR.
 - susijęs iš [[objektai/asmenys/Chaim Soutin.md#claim-t-63525|Chaim Soutin]]: Chaim Soutin buvo Vakaruose garsus dailininkas, siejamas su Lietuvos emigrantais arba jų šeimomis.
@@ -56,11 +82,33 @@ O kai pamatai po provincijos miestelį Tryškius vaikštantį Erkiulį Puaro –
     ieškantį savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR, pa-
     galvoji, kiek dar tokių vardų slepia Lietuva?
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-24509
+  citata_originali: |
+    Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria
+    ne tik Jonas Mekas ar teatro režisierius Eimuntas Nekrošius, bet ir Rober-
+    tas Zemeckis (Robert Zemecki, gimęs Čikagoje 1952 m. lietuvio šeimoje),
+    o juose vaidina seras John Gielgud (Džonas Gilgudas) ir Charles Bronson
+    (Karolis Bučinskis). Visos šios pasaulinės teatro ir kino žvaigždės yra Lie-
+    tuvos emigrantai arba kilusios iš jų šeimų. O kai pamatai po provincijos
+    miestelį Tryškius vaikštantį Erkiulį Puaro – aktorių Davidą Suchetą – ir
+    ieškantį savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR, pa-
+    galvoji, kiek dar tokių vardų slepia Lietuva?
+  citata_rodoma: "miestelį Tryškius vaikštantį Erkiulį Puaro – aktorių Davidą Suchetą – ir"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-21830
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Davidas Suchetas]]

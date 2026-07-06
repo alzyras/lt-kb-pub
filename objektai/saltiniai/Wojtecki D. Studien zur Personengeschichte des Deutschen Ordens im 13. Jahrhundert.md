@@ -13,6 +13,18 @@ tags:
   - saltinis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Wojtecki D. Studien zur Personengeschichte des Deutschen Ordens im 13. Jahrhundert
 
@@ -25,10 +37,22 @@ Dusburgietis teigia, kad wojtecki D.
 <a id="claim-t-61369"></a>
 - t-001
   global_id: t-61369
-  teiginys: 'D. Wojteckio studija apie Vokiečių ordino XIII a. personalijų istoriją išleista Vysbadene 1971 m.'
+  teiginys: "D. Wojteckio studija apie Vokiečių ordino XIII a. personalijų istoriją išleista Vysbadene 1971 m."
+  temporaliniai_duomenys: "įvykio data: 1971 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata nurodo leidinio autorių, temą, vietą ir metus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "804242-804342; hash=2e0f8ee650cae3210f6270fa0b4966e58859d232986a9873a47430629b9e2652; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Wojtecki D. Studien zur Personengeschichte des Deutschen Ordens im 13. Jahrhundert: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Vokiečiai: mention_match, group, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Wojtecki D. Studien zur Personengeschichte des Deutschen Ordens im 13. Jahrhundert\" parinktas kaip owner_note_path. Targetas \"Vokiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-62001
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -38,8 +62,22 @@ Dusburgietis teigia, kad wojtecki D.
     Wojtecki D. Studien zur Personengeschichte des Deutschen Ordens im 13. Jahrhundert
     —Wiesbaden, 1971.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-62001
+  citata_originali: |
+    Wojtecki D. Studien zur Personengeschichte des Deutschen Ordens im 13. Jahrhundert
+    —Wiesbaden, 1971.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-61369

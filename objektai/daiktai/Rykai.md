@@ -10,6 +10,18 @@ tags:
   - kraštas
   - miestas
   - valdovas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Rykai
 
@@ -42,9 +54,19 @@ Nenurodyta
 <a id="claim-t-87118"></a>
 - t-001
   global_id: t-87118
-  teiginys: 'Rykai į Vilnių patekdavo iš Lenkijos ir Livonijos.'
+  teiginys: "Rykai į Vilnių patekdavo iš Lenkijos ir Livonijos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "74400-74926; hash=95db02d99e669aafccc223e906ef8b3875558e1f36d16e5c33fe61b8b419c65d; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rykai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rykai\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-83097
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176417|Jadvyga Jogailienė]]: Karalienė Jadvyga Vilniaus Šv. Stanislovo katedrą apdovanojo brangiais rykais ir kita manta iš savo lobyno.
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176434|Jadvyga Jogailienė]]: Karalienė Jadvyga iš savo lobyno apdovanojo pašventintą Vilniaus bažnyčią brangiais rykais ir kita manta.
 - susijęs iš [[objektai/asmenys/Ona Jogailaitė.md#claim-t-54983|Ona Jogailaitė]]: Karalaitei Onai (Onai Jogailaitei) buvo dovanojami karalienės Barboros apdarai, vežimai, virtuvės rykai ir manta.
@@ -69,7 +91,7 @@ Nenurodyta
 - susijęs iš Kijevo Rusia: Iš Rusios pirkliai į Gedimino sostinę atveždavo kai kurių Rytų vaisių.
 - susijęs iš Kijevo Rusia: Iš Rusios pirkliai į Gedimino sostinę atveždavo kai kurių Rytų vaisių.
 - susijęs iš Livonija: 1201 m. pastatyta Rygos pilis vėliau tapo valstybės centru ir didžiausiu Livonijos miestu.
-- susijęs iš [[objektai/zodynas/diecezija.md#claim-t-86522|diecezija]]: Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.
+- susijęs iš [[objektai/zodynas/diecezija.md#claim-t-192167|diecezija]]: Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -92,6 +114,7 @@ Nenurodyta
     tinei, ypač turinčiai rūmus tokio galingo valdovo, koks bu­
     vo Gediminas, tie ryšiai, suprantama, buvo pravartus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -101,6 +124,32 @@ Nenurodyta
 ## Puslapis 40 VILNIAUS MIESTO ISTORIJA I TOMAS atveždavo kai kokių Rytų vaisių, o iš Lenkijos, glaudžia gi­ minyste susietos, ir iš Livonijos pasiekdavo rykai ir rūbai.
 
 Nenurodyta
+
+## Citatos
+
+- id: c-83097
+  citata_originali: |
+    Iš Rusios,
+    Gedimino vasalės ar besigiminiavusios, pirkliai į sostinę
+    23
+    Mažesnieji broliai (pranciškonų
+    atšaka).
+
+    ## Puslapis 40
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    atveždavo kai kokių Rytų vaisių, o iš Lenkijos, glaudžia gi­
+    minyste susietos, ir iš Livonijos pasiekdavo rykai ir rūbai.
+    Juk jei visas kraštas, didesne dalimi anuomet dar laukinis,
+    svetimšaliams pirkliams galėjo būti pelno šaltinis, tai jo sos­
+    tinei, ypač turinčiai rūmus tokio galingo valdovo, koks bu­
+    vo Gediminas, tie ryšiai, suprantama, buvo pravartus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87118
 
 ## Ryšiai
 - Rykai priklausė [[objektai/asmenys/Ona Jogailaitė]]

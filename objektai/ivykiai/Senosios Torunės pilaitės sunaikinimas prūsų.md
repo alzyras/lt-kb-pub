@@ -16,6 +16,18 @@ tags:
 amziai:
   - 'X'
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Senosios Torunės pilaitės sunaikinimas prūsų
 
@@ -44,10 +56,23 @@ Nenurodyta
 <a id="claim-t-62920"></a>
 - t-001
   global_id: t-62920
-  teiginys: 'Dabartinės Torunės pilies vietoje stovėjusi X a. vidurio–XII–XIII a. sandūros pilaitė buvo sunaikinta prūsų.'
+  teiginys: "Dabartinės Torunės pilies vietoje stovėjusi X a. vidurio–XII–XIII a. sandūros pilaitė buvo sunaikinta prūsų."
+  teiginio_tipas: "faktas"
+  temporaliniai_duomenys: "įvykio data: 500 m; įvykio data: iki 1300 m.; įvykio data: 1300 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia pilaitės datavimą ir sunaikinimą prūsų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "168113-168398; hash=674f34dfbd7070bce6adb4b1f446bc208524b9ab0b0d251491a01de28a76e6eb; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pilaitė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Senosios Torunės pilaitės sunaikinimas prūsų: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Pilaitė: mention_match, place, gap=67"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senosios Torunės pilaitės sunaikinimas prūsų\" parinktas kaip owner_note_path. Targetas \"Pilaitė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-63789
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -59,8 +84,25 @@ Nenurodyta
     (X a. vidurys — XII—XIII a. sandūra), sunaikinta prūsų. Pirmas mūrinės pilies statybos
     etapas truko iki 1300 m.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-63789
+  citata_originali: |
+    Kaip rodo archeologiniai tyrimai, dab. Torunės pilies vietoje dar 1000—500 m. pr. m.
+    e. buvo lužitėnų kultūros gyvenvietė, vėliau — atvira gyvenvietė (VIII—X a.) bei pilaitė
+    (X a. vidurys — XII—XIII a. sandūra), sunaikinta prūsų. Pirmas mūrinės pilies statybos
+    etapas truko iki 1300 m.
+  citata_rodoma: "Kaip rodo archeologiniai tyrimai, dab. Torunės pilies vietoje dar 1000—500 m. pr. m.\ne. buvo lužitėnų kultūros gyvenvietė, vėliau — atvira gyvenvietė (VIII—X a.) bei pilaitė\n(X a. vidurys — XII—XIII a. sandūra), sunaikinta prūsų. Pirmas mūrinės pilies statybos\netapas truko iki 1300 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-62920

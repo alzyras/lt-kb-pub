@@ -9,6 +9,18 @@ tags:
   - miestas
   - upė
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Žgvižda
 
@@ -21,9 +33,19 @@ Per pusantros mylios nuo Rūdninkų Mendzižečės link stūksojo nuostabiai gra
 <a id="claim-t-86289"></a>
 - t-001
   global_id: t-86289
-  teiginys: 'Žgvižda buvo Rūdninkų girios dalis, nuo Rūdninkų nutolusi apie pusantros mylios Miedzyrzeczo link.'
+  teiginys: "Žgvižda buvo Rūdninkų girios dalis, nuo Rūdninkų nutolusi apie pusantros mylios Miedzyrzeczo link."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "514139-514494; hash=c95865d0ee85bb6636096eb432d79e4e10a00495831c6526392bff30de0c10a9; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rūdninkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žgvižda: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Rūdninkai: mention_match, place, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žgvižda\" parinktas kaip owner_note_path. Targetas \"Rūdninkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-82268
 - susijęs iš [[objektai/daiktai/Rūdninkų karališkieji medžioklės rūmai ir dvaro pastatai.md#claim-t-87003|Rūdninkų karališkieji medžioklės rūmai ir dvaro pastatai]]: Prie Rūdninkų, Mendzižečės link, buvo aptvertas žvėrynas, kuriame veisėsi daug briedžių ir stirnų.
 - susijęs iš Mendzižečės giria: Mendzižečės giria apėmė daugiau kaip 3000 valakų plotą, kuriam priklausė ir Rūdninkų medžionė.
 - susijęs iš [[objektai/zodynas/žvėrynas Karaliaus daržas.md#claim-t-86632|žvėrynas Karaliaus daržas]]: Prie Rūdninkų, Mendzižečės link, stūksojęs šilas buvo aptvertas statinių tvora ir vadintas žvėrynu.
@@ -46,8 +68,32 @@ Per pusantros mylios nuo Rūdninkų Mendzižečės link stūksojo nuostabiai gra
     tvora aptvertas, vadinamas žvėrynu. Jame veisėsi daug
     briedžių ir stirnų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-82268
+  citata_originali: |
+    Per pusantros mylios nuo Rūdninkų Men-
+    dzižečės* link stūksojo nuostabiai gražus šilas, Žgviždos
+    Vienos iš Rūdninkų girios dalies bu­
+    vęs pavadinimas (vert. past.).
+    255
+
+    ## Puslapis 272
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    upės skiriamas, kelių mylių proskynoje tvarkingai statinių
+    tvora aptvertas, vadinamas žvėrynu. Jame veisėsi daug
+    briedžių ir stirnų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86289

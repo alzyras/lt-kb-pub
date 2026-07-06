@@ -12,6 +12,18 @@ atnaujinta: ''
 tags: []
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Sąjūdžio masiniai mitingai ir reikalavimų viešinimas
 
@@ -55,12 +67,24 @@ amziai:
 ## Teiginiai
 
 <a id="claim-t-23375"></a>
-- t-001
+- t-002
   global_id: t-23375
-  teiginys: '1988 m. liepą-rugsėjį visoje Lietuvoje steigėsi Sąjūdžio iniciatyvinės grupės ir vyko didžiuliai mitingai.'
+  teiginys: "1988 m. liepą-rugsėjį visoje Lietuvoje steigėsi Sąjūdžio iniciatyvinės grupės ir vyko didžiuliai mitingai."
+  temporaliniai_duomenys: "įvykio data: 1988 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata apie Sąjūdžio grupes bei mitingus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "487490-487959; hash=d59b09c8f1f9f07d7eebaf67f151aa18817ea4790a6252730d999de8c32d73e8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sąjūdžio masiniai mitingai ir reikalavimų viešinimas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sąjūdžio masiniai mitingai ir reikalavimų viešinimas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-16973
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -74,6 +98,7 @@ amziai:
     buvo atviras visiems Lietuvos žmonėms, o jo akcijose galėjo dalyvauti visi
     Lietuvos gyventojai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -83,3 +108,22 @@ amziai:
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
+
+## Citatos
+
+- id: c-16973
+  citata_originali: |
+    LPS įtaka visuomenėje didėjo, liepą–rugsėjį visoje Lietuvoje steigėsi
+    iniciatyvinės grupės, vyko didžiuliai mitingai, kuriuose dalyvavo LPS ini-
+    ciatyvinės grupės nariai. Sąjūdžio grupės pripažino Sąjūdžio iniciatyvi-
+    nės grupės lyderystę, nors ją rinko tik vilniečiai. 1988 m. spalio pabaigoje
+    1 200 Lietuvoje įregistruotų LPS grupių vienijo 300 000 narių, nes Sąjūdis
+    buvo atviras visiems Lietuvos žmonėms, o jo akcijose galėjo dalyvauti visi
+    Lietuvos gyventojai.
+  citata_rodoma: "buvo atviras visiems Lietuvos žmonėms, o jo akcijose galėjo dalyvauti visi"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-23375

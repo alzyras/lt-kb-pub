@@ -14,14 +14,26 @@ date_start: '1600'
 date_end: '1701'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XVI'
-  - 'XVIII'
 tags:
   - dinastija
   - grupe
   - karalius
   - karas
+amziai:
+  - 'XVI'
+  - 'XVIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Švedai
 
@@ -30,49 +42,138 @@ tags:
 Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Baltici). ATR kariavo su Švedija du karus: 1600–1629 ir 1655–1660 m. Karą komplikavo tai, kad švedų kilmės Vazų dinastijos ATR karaliai reiškė pretenzijas į Švedijos sostą. 1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o Lietuvos magnatai 1655 m. netgi sudarė Kėdainių sutartį su Švedija, tačiau švedams įsitvirtinti Lietuvoje nepavyko.
 
 ## Teiginiai
+
 <a id="claim-t-75058"></a>
-- t-001
+- t-004
   global_id: t-75058
-  teiginys: 'Kovos su švedais paliko gilų pėdsaką lietuvių liaudies atmintyje, tai rodo įvairūs padavimai ir pasakojimai apie švedus, „švedkapius“ ir švedų buvimą Lietuvoje.'
+  teiginys: "Kovos su švedais paliko gilų pėdsaką lietuvių liaudies atmintyje, tai rodo įvairūs padavimai ir pasakojimai apie švedus, „švedkapius“ ir švedų buvimą Lietuvoje."
+  temporaliniai_duomenys: "įvykio data: 1701 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia citatoje nurodytą atminties faktą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "159618-160247; hash=fa5a1c6768a6ac76074b08213bb4b72dbf99b36d77b471aa974f20501977c0ae; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švedai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švedai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-72980
 
 <a id="claim-t-75059"></a>
 - t-002
   global_id: t-75059
-  teiginys: 'XVII a. ATR kariavo su Švedija 1600–1629 m. ir 1655–1660 m., o karus komplikavo Vazų pretenzijos į Švedijos sostą.'
+  teiginys: "XVII a. ATR kariavo su Švedija 1600–1629 m. ir 1655–1660 m., o karus komplikavo Vazų pretenzijos į Švedijos sostą."
+  temporaliniai_duomenys: "mūšio data: 1600-1629; mūšio data: 1629 m.; mūšio data: 1655-1660; mūšio data: 1660 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "158432-158641; hash=28992f8e5e649584243e260c0fcc34273512795e55c67e0fb7fabcd10b1f188c; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Švedija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švedai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Švedija: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švedai\" parinktas kaip owner_note_path. Targetas \"Švedija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-166591
 
 <a id="claim-t-75060"></a>
 - t-003
   global_id: t-75060
-  teiginys: '1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o Lietuvos magnatai 1655 m. netgi sudarė Kėdainių sutartį su Švedija, tačiau švedams įsitvirtinti Lietuvoje nepavyko.'
+  teiginys: "1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o Lietuvos magnatai 1655 m. netgi sudarė Kėdainių sutartį su Švedija, tačiau švedams įsitvirtinti Lietuvoje nepavyko."
+  temporaliniai_duomenys: "mūšio data: 1655 m.; mūšio data: 1655-1660; mūšio data: 1660 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie švedų veiksmus Lietuvoje ir Lenkijoje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "749966-750160; hash=89630ebd48b53f85715626cdb6bcd85d886ccfc04a40caf4b3ad578a4753ef2d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kėdainiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švedai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kėdainiai: mention_match, place, gap=95"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švedai\" parinktas kaip owner_note_path. Targetas \"Kėdainiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-72981
 
 <a id="claim-t-75062"></a>
-- t-004
+- t-005
   global_id: t-75062
-  teiginys: '1655–1660 m. švedai kariavo Lietuvos ir Lenkijos teritorijose, bet Lietuvoje įsitvirtinti jiems nepavyko.'
+  teiginys: "1655–1660 m. švedai kariavo Lietuvos ir Lenkijos teritorijose, bet Lietuvoje įsitvirtinti jiems nepavyko."
+  temporaliniai_duomenys: "mūšio data: 1655 m.; mūšio data: 1655-1660; mūšio data: 1660 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra glaustas, gramatiškas ir paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "749966-750160; hash=89630ebd48b53f85715626cdb6bcd85d886ccfc04a40caf4b3ad578a4753ef2d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švedai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švedai\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-72981
 
 <a id="claim-t-75063"></a>
-- t-005
+- t-001
   global_id: t-75063
-  teiginys: 'Švedija siekė viešpatauti Baltijos jūroje, vadindama šį tikslą dominium maris Baltici.'
+  teiginys: "Švedija siekė viešpatauti Baltijos jūroje, vadindama šį tikslą dominium maris Baltici."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "158191-158430; hash=63148f8cefb17ad930e2296bcc0262444674ae7f754c32f84c934736a139b50b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švedai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švedai\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-22844
 
-<a id="claim-t-183204"></a>
-- t-006
-  global_id: t-183204
-  teiginys: 'Narbutas Švedijoje minėjo vyriausiąjį žynį ir teisėją, kuris dėl šių pareigų save laikė aukščiausiuoju karaliumi.'
+<a id="claim-t-75059"></a>
+- t-002
+  global_id: t-75059
+  teiginys: "XVII a. ATR kariavo su Švedija 1600–1629 m. ir 1655–1660 m., o karus komplikavo Vazų pretenzijos į Švedijos sostą."
+  temporaliniai_duomenys: "mūšio data: 1600-1629; mūšio data: 1629 m.; mūšio data: 1655-1660; mūšio data: 1660 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "158432-158641; hash=28992f8e5e649584243e260c0fcc34273512795e55c67e0fb7fabcd10b1f188c; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Švedija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švedai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Švedija: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švedai\" parinktas kaip owner_note_path. Targetas \"Švedija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-166591
+
+<a id="claim-t-188360"></a>
+- t-006
+  global_id: t-188360
+  teiginys: "Narbutas Švedijoje minėjo vyriausiąjį žynį ir teisėją, kuris dėl šių pareigų save laikė aukščiausiuoju karaliumi."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "749966-750160; hash=89630ebd48b53f85715626cdb6bcd85d886ccfc04a40caf4b3ad578a4753ef2d; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  vertinimo_autorius: "rewrite_source_claims / reject"
+  pagrindžia:
+    - c-171254
 - susijęs iš [[objektai/grupes/Chodkevičiai.md#claim-t-183124|Chodkevičiai]]: 1605 m. prie Kirchholmo Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė su 3 tūkst. raitelių nugalėjo 12 tūkst. švedų.
 - susijęs iš [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.).md#claim-t-49165|Kuoknesės mūšis (1601 m. birželio 23 d.)]]: 1601 m. birželio 23 d. prie Kuoknesės pagrindinė Lietuvos kariuomenė stojo prieš švedų pajėgas.
 - susijęs iš [[objektai/grupes/Bajorų konfederacija.md#claim-t-183652|Bajorų konfederacija]]: Bajorų konfederacija kovojo prieš švedus ir jų sąjungininkus, deklaravo ištikimybę Lenkijai ir Jonui Kazimierui Vazai.
@@ -86,6 +187,7 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - susijęs iš [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.).md#claim-t-186374|Salaspilio (Kircholmo) mūšis (1605 m.)]]: 1605 m. prie Kirchholmo netoli Rygos Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė su 3 tūkst. raitelių nugalėjo 12 tūkst. švedų.
 - susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-183157|Lietuvos kariuomenė]]: 1605 m. Lietuvos kariuomenė Salaspilio mūšyje pasiekė didelę pergalę prieš švedus.
 - susijęs iš [[objektai/ivykiai/ATR karai su Švedija XVII a.md#claim-t-20159|ATR karai su Švedija XVII a]]: Per XVII a. karus su Švedija Lietuvos kariuomenė laimėjo Salaspilio mūšį, bet Švedija atėmė Rygą ir užvaldė Baltijos pakrantes.
+- susijęs iš [[objektai/asmenys/Gotbrodas.md#claim-t-191273|Gotbrodas]]: Narbutas Gotbrodą vadina švedų karaliumi ir rašo, kad jo įpėdinis Goteris žuvo kovodamas su Bojumi, Otino sūnumi.
 - susijęs iš [[objektai/asmenys/Jonas Kazimieras Vaza.md#claim-t-39751|Jonas Kazimieras Vaza]]: Bajorų konfederacija deklaravo unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai.
 - susijęs iš [[objektai/asmenys/Jonas Sicinskis.md#claim-t-40228|Jonas Sicinskis]]: Birželio 2–3 d. Kristupas Radvila Perkūnas pasiuntė rotmistrą Joną Sicinskį su daliniu smogti K. Carlsono Gyllenhielmo kariams.
 - susijęs iš [[objektai/autoriai/Rimbertas.md#claim-t-30955|Rimbertas]]: Rimbertas pirmasis paminėjo kuršių (Cori) vardą ir rašė, kad jie anksčiau priklausę švedų valdžiai.
@@ -99,7 +201,9 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - susijęs iš [[objektai/asmenys/Augustas II.md#claim-t-78943|Augustas II]]: Augustas II su Petru I susitarė atimti iš švedų Baltijos pajūrį ir į sąjungą įtraukė Daniją bei Brandenburgo kunigaikštį.
 - susijęs iš [[objektai/asmenys/Augustas II.md#claim-t-78945|Augustas II]]: Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti.
 - susijęs iš [[objektai/asmenys/Augustas II.md#claim-t-78947|Augustas II]]: Augusto II siekius rėmė dalis Švedijos karaliaus Karolio XII valdymu nepatenkintos Livonijos aristokratijos.
+- susijęs iš [[objektai/asmenys/Biorntelis.md#claim-t-191377|Biorntelis]]: Biorntelis, Narbuto vadinamas švedų autoriumi, manė, kad prie Veronos ir Trento gyvena iki 60 000 senovės kimbrų palikuonių.
 - susijęs iš [[objektai/asmenys/Georgas Fridrikas Valdekas.md#claim-t-40122|Georgas Fridrikas Valdekas]]: Georgas Fridrikas Valdekas vadovavo maždaug 7000 švedų, brandenburgiečių ir prūsų karių jungtinei kariuomenei.
+- susijęs iš [[objektai/asmenys/Gotbrodas.md#claim-t-191273|Gotbrodas]]: Narbutas Gotbrodą vadina švedų karaliumi ir rašo, kad jo įpėdinis Goteris žuvo kovodamas su Bojumi, Otino sūnumi.
 - susijęs iš [[objektai/asmenys/Gustavas Adolfas.md#claim-t-79026|Gustavas Adolfas]]: Po 1629 m. paliaubų su ATR Gustavo Adolfo vadovaujama Švedijos kariuomenė Vokietijoje laimėjo prieš katalikų kariuomenes.
 - susijęs iš [[objektai/asmenys/J. P. Sapiega.md#claim-t-53891|J. P. Sapiega]]: J. P. Sapiegos ir T. Dambravos raiteliai flanguose susikovė su atakuojančia švedų kavalerija.
 - susijęs iš [[objektai/asmenys/Jonas Karolis Chodkevičius.md#claim-t-18977|Jonas Karolis Chodkevičius]]: 1605 m. Jonas Karolis Chodkevičius prie Kirchholmo vadovavo LDK kariuomenei, kuri nugalėjo 12 tūkst. švedų.
@@ -208,8 +312,11 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - susijęs iš [[objektai/ivykiai/Žemaičių sukilimas (1656 m.).md#claim-t-39089|Žemaičių sukilimas (1656 m.)]]: 1656 m. kilęs Žemaičių sukilimas padarė švedams daug nuostolių.
 - susijęs iš Kuoknesė: Prieš Kuoknesės mūšį Lietuvos kariuomenė sumušė švedų dalinį ir paėmė beveik visus Dauguva plukdytus laivus.
 - susijęs iš [[objektai/asmenys/A. Liuneburgietis.md#claim-t-39696|A. Liuneburgietis]]: Švedų generolas A. Liuneburgietis žuvo per sumaištį švedų pėstininkų rikiuotėje.
+- susijęs iš [[objektai/asmenys/Bojas.md#claim-t-191256|Bojas]]: Narbutas pasakoja, kad Bojas, Otino sūnus ir Rindos vyras, buvo sužeistas kautynėse su Goteriu ir trečią dieną mirė nuo žaizdų.
 - susijęs iš [[objektai/asmenys/Ediga.md#claim-t-30226|Ediga]]: Edigą Vytautas siekė pašalinti iš Aukso Ordos valdžios ir vietoje jo pasodinti Tochtamišą, tačiau žygis baigėsi nesėkmingai.
+- susijęs iš [[objektai/asmenys/Goteris.md#claim-t-191274|Goteris]]: Teodoro Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi, Otino sūnumi ir rusų karalienės Rindos vyru.
 - susijęs iš [[objektai/asmenys/Hadingas.md#claim-t-190155|Hadingas]]: Narbutas pasakoja, kad Danijos karalius Hadingas per jūros audrą, praradęs daug laivų, maldavo dievo Fra malonės juodosiomis aukomis.
+- susijęs iš [[objektai/asmenys/Helgė.md#claim-t-191412|Helgė]]: Narbuto pasakojime danų karalius Helgė kariavo su salas užėmusiais slavais, o į pagalbą jam buvo pakviestas Jarmerikas.
 - susijęs iš [[objektai/asmenys/Henrikas Vrede.md#claim-t-40135|Henrikas Vrede]]: Švedų reitaras Henrikas Vrede atidavė karaliui savo žirgą ir žuvo, o Karolis IX dėl to išsigelbėjo.
 - susijęs iš [[objektai/asmenys/Hoteris.md#claim-t-190157|Hoteris]]: Pasak Narbuto perteikiamų Edų, Hoteriui valdant Balderis ankstesnę auką pakeitė žmonių auka.
 - susijęs iš [[objektai/asmenys/Jonas Karolis Katkevičius.md#claim-t-79047|Jonas Karolis Katkevičius]]: Jonas Karolis Katkevičius 1608 m. rudenį grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę bei Viljandį.
@@ -227,13 +334,17 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - susijęs iš [[objektai/asmenys/Manvydas.md#claim-t-188582|Manvydas]]: Narbutas Manvydą laiko Gedimino ir Vidos sūnumi, gimusiu 1276 metais, o jo vardą aiškina kaip „Vidos pasaulis“.
 - susijęs iš [[objektai/asmenys/Narimantas Gediminaitis.md#claim-t-40368|Narimantas Gediminaitis]]: Narimantas Gediminaitis valdė Orechovą, svarbų punktą Ladogos paežerėje prie Nevos ištakų.
 - susijęs iš [[objektai/asmenys/Narimantas Gediminaitis.md#claim-t-40369|Narimantas Gediminaitis]]: Narimantas Gediminaitis valdė Orechovą, svarbų strateginį punktą Ladogos paežerėje prie Nevos ištakų.
+- susijęs iš [[objektai/asmenys/Rinda.md#claim-t-191459|Rinda]]: Narbutas pasakoja, kad rusų karalienės Rindos vyras Bojus kovėsi su Goteriu, buvo sužeistas ir trečią dieną mirė nuo žaizdų.
+- susijęs iš [[objektai/asmenys/Scipionas.md#claim-t-191462|Scipionas]]: Narbutas rašo, kad nuo Baltijos jūros pasitraukę senovės kimbrai 169 m. pr. Kr. pagarsėjo pergale prieš konsulą Scipioną.
 - susijęs iš [[objektai/asmenys/T. Dambrava.md#claim-t-40452|T. Dambrava]]: T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir atsidūrė E. J. Mansfeldo kavalerijos dešiniajame sparne.
+- susijęs iš [[objektai/asmenys/Tunmanas.md#claim-t-191235|Tunmanas]]: Narbutas rašo, kad Tunmanas lietuvių kilmę siejo su bėgliais, apie 550 metus įsikūrusiais Vyslos šakų skalaujamoje saloje.
 - susijęs iš [[objektai/asmenys/Vaina.md#claim-t-40499|Vaina]]: Rotmistro A. Vainos husarams buvo pasiųstos kelios kuršiečių reitarų kuopos kaip pastiprinimas.
 - susijęs iš [[objektai/asmenys/Walenrodto.md#claim-t-40541|Walenrodto]]: Walenrodtas vadovavo 2000 pėstininkų jungtinėje G. F. Valdeko vadovaujamoje kariuomenėje.
 - susijęs iš [[objektai/autoriai/Jornandesas.md#claim-t-88069|Jornandesas]]: Jornandesas Vyslos žiotyse gyvenusiai tautai suteikė vidivarijų vardą.
 - susijęs iš [[objektai/autoriai/Rimbertas.md#claim-t-30953|Rimbertas]]: Rimbertas pažymėjo, jog kuršiai sukilo ir ilgai stengėsi savo penkiose srityse būti nepriklausomi.
 - susijęs iš [[objektai/autoriai/Rimberto, Rimbertas.md#claim-t-30956|Rimberto, Rimbertas]]: Rimbertas pažymėjo, jog kuršiai sukilo ir ilgai stengėsi savo penkiose srityse būti nepriklausomi.
 - susijęs iš [[objektai/autoriai/Thunmanas.md#claim-t-88082|Thunmanas]]: Thunmano tyrinėjimus ir prielaidas apie lietuvių tautos kilmę Balinskis laikė panašiausiais į tiesą.
+- susijęs iš [[objektai/autoriai/Tunmanas.md#claim-t-190813|Tunmanas]]: Narbutas rašo, kad Tunmanas lietuvius kildino iš gaujos bėglių, apie 550 metus įsikūrusių Vyslos šakų skalaujamoje saloje.
 - susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-05240|Auksinė Orda]]: Lemiamasis Vytauto žygis, siekęs pasodinti Tochtamišą Aukso ordoje, baigėsi nesėkme.
 - susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187441|Aukso orda]]: Vytauto žygis pasodinti Tochtamišą Aukso Ordoje vietoje Timuro ir jo emiro Edigos baigėsi nesėkme.
 - susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187442|Aukso orda]]: Vytauto žygis pasodinti Tochtamišą Aukso Ordoje vietoje Timuro ir jo emiro Edigos baigėsi nesėkme.
@@ -259,6 +370,9 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - susijęs iš [[objektai/grupes/Varmiai.md#claim-t-78538|Varmiai]]: 1260 m. Klaipėdoje varmiai minimi tarp Ordino pavaldžių užgrobtų žemių prievarta buriamų karių prieš Lietuvą.
 - susijęs iš [[objektai/grupes/Vazų dinastija.md#claim-t-183192|Vazų dinastija]]: Valdant švedų kilmės Vazų dinastijai, Lietuvą ir Lenkiją 1654–1667 m. ištiko „tvanas“ – Rusijos ir Švedijos invazija.
 - susijęs iš [[objektai/grupes/Vazų dinastija.md#claim-t-75014|Vazų dinastija]]: Valdant švedų kilmės Vazų dinastijai, Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija 1654–1667 m.
+- susijęs iš [[objektai/ivykiai/Gotbrodo žygiai Rusioje ir Goterio žūtis.md#claim-t-192033|Gotbrodo žygiai Rusioje ir Goterio žūtis]]: Narbutas nurodo, kad Goterio sūnus ir jo įpėdiniai ilgai užtrukusius karus su rusais nutraukė baigiantis II krikščioniškosios eros amžiui.
+- susijęs iš [[objektai/ivykiai/Gotbrodo žygiai Rusioje ir Goterio žūtis.md#claim-t-192034|Gotbrodo žygiai Rusioje ir Goterio žūtis]]: Narbutas rašo, kad Gotbrodas sėkmingai kariavo Rusioje.
+- susijęs iš [[objektai/ivykiai/Gotbrodo žygiai Rusioje ir Goterio žūtis.md#claim-t-192035|Gotbrodo žygiai Rusioje ir Goterio žūtis]]: Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi, o Rusios riteriai virš Bojo kapo supylė didžiulį pilkapį.
 - susijęs iš [[objektai/ivykiai/Karalienės Bonos išvykimas į Italiją.md#claim-t-185801|Karalienės Bonos išvykimas į Italiją]]: Po ilgų ginčų karalienei Bonai leista išvykti į Italiją su visomis brangenybėmis ir valdovės turtais.
 - susijęs iš [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.).md#claim-t-49163|Kuoknesės mūšis (1601 m. birželio 23 d.)]]: Po Kuoknesės mūšio Livonijoje prie Lietuvos kariuomenės prisijungė ir Lenkijos pajėgos, o vadovavimą perėmė Janas Zamoiskis.
 - susijęs iš [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.).md#claim-t-49164|Kuoknesės mūšis (1601 m. birželio 23 d.)]]: 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, tačiau lietuvių įgula nepasidavė.
@@ -326,6 +440,8 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - susijęs iš Suvalkai: 1656 m. spalio 22 d. švedai ir brandenburgiečiai pasivijo lietuvius ties Pilypavu netoli Suvalkų ir juos sumušė.
 - susijęs iš Tartai: Tuo metu Maskva buvo užgrobusi Tartų, dar vadintų Dorpatu, vyskupystę.
 - susijęs iš Tartu: 1558 m. Maskvos kariuomenė užėmė Tartu ir Narvos miestus Livonijos konfederacijos teritorijoje.
+- susijęs iš Trentas: Narbuto pasakojime slėnyje tarp Veronos ir Trento dar turėję gyventi senovės kimbrų ainiai.
+- susijęs iš Verona: Teodoras Narbutas rašė, kad netoli Veronos, slėnyje tarp Veronos ir Trento, dar turėtų gyventi senovės kimbrų ainiai.
 - susijęs iš Vilijandis: 1560 m. rusai užėmė Alūksnę, Vilijandį.
 - susijęs iš Viljandis: 1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį.
 - susijęs iš Vilnius: 1933 m. vasarą Šapoka Vilniuje rinko archyvinę medžiagą apie Ketverių metų seimo laikotarpį.
@@ -353,6 +469,9 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - susijęs iš Seeburgas: VII amžiaus pabaigoje Grobine įsikūrę švedai turėjo svarbią karinę bazę Seeburgą.
 - susijęs iš [[objektai/asmenys/Mykolas Pacas.md#claim-t-79142|Mykolas Pacas]]: Mykolas Pacas buvo vienas bajorų konfederacijos vadų, kovojusių prieš švedus ir jų sąjungininkus.
 - susijęs iš [[objektai/zodynas/konfederacija.md#claim-t-70189|konfederacija]]: Su kariuomene ir suorganizuotais bajorijos būriais, vadintais konfederacijomis, jie puolė švedus ir Sapiegas.
+- susijęs iš [[objektai/ivykiai/Gotbrodo žygiai Rusioje ir Goterio žūtis.md#claim-t-192033|Gotbrodo žygiai Rusioje ir Goterio žūtis]]: Narbutas nurodo, kad Goterio sūnus ir jo įpėdiniai ilgai užtrukusius karus su rusais nutraukė baigiantis II krikščioniškosios eros amžiui.
+- susijęs iš [[objektai/ivykiai/Gotbrodo žygiai Rusioje ir Goterio žūtis.md#claim-t-192034|Gotbrodo žygiai Rusioje ir Goterio žūtis]]: Narbutas rašo, kad Gotbrodas sėkmingai kariavo Rusioje.
+- susijęs iš [[objektai/ivykiai/Gotbrodo žygiai Rusioje ir Goterio žūtis.md#claim-t-192035|Gotbrodo žygiai Rusioje ir Goterio žūtis]]: Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi, o Rusios riteriai virš Bojo kapo supylė didžiulį pilkapį.
 - susijęs iš Saremos: Danams atiteko Saremos, arba Eželio, vyskupystė.
 - susijęs iš Saremos: Tuo metu Danams priklausė Saremos, arba Eželio, vyskupystė.
 - susijęs iš [[objektai/asmenys/Augustas II.md#claim-t-78943|Augustas II]]: Augustas II su Petru I susitarė atimti iš švedų Baltijos pajūrį ir į sąjungą įtraukė Daniją bei Brandenburgo kunigaikštį.
@@ -362,6 +481,7 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - susijęs iš Biržų pilis (pilis): Iki 1657 m. V. Gonsievskio vadovaujamai Lietuvos kariuomenei pasidavė paskutinė Biržų pilyje buvusi švedų įgula.
 - susijęs iš [[objektai/grupes/Kazokai.md#claim-t-65305|Kazokai]]: Lietuvos totoriai ir kazokai buvo vertinami dėl manevringumo persekiojant bėgantį priešą.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Švedija siekė viešpatauti Baltijos jūroje, vadindama šį tikslą dominium maris Baltici.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -371,11 +491,13 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
     siekti viešpatauti Baltijos jūroje (dominium maris Baltici). Dėl to įsilieps-
     nojo Švedijos ir Lietuvos ir Lenkijos bei Švedijos ir Rusijos karo veiksmai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-002
   santrauka: 'Švedai sugriovė nedidelius Lietuvos uostus Palangoje ir Šventojoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -393,11 +515,13 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
     1701 m. karalyste tapusi Prūsija – šios centralizuotos valstybės ilgainiui
     nulems tolesnį ATR likimą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: '1655–1660 m. švedai kariavo Lietuvos ir Lenkijos teritorijose, bet Lietuvoje įsitvirtinti jiems nepavyko.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -412,12 +536,14 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
     Rygos. Lietuva ir Lenkija šiame kare ekonomiškai ir politiškai nusilpo, jų
     teritoriją nuniokojo svetimos ir savos kariuomenės, atsirado anarchijos
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
     - t-003
+
 - c-004
   santrauka: 'ATR kariavo su Švedija du karus: 1600–1629 ir 1655–1660 m. Karą komplikavo tai, kad švedų kilmės Vazų dinastijos ATR karaliai reiškė pretenzijas į Švedijos sostą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -428,12 +554,14 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
     Karą komplikavo tai, kad švedų kilmės Vazų dinastijos ATR karaliai reiš-
     kė pretenzijas į Švedijos sostą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
     - t-002
+
 - c-005
   santrauka: 'Narbutas Švedijoje minėjo vyriausiąjį žynį ir teisėją, kuris dėl šių pareigų save laikė aukščiausiuoju karaliumi.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -442,14 +570,103 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
     Švedijoje buvo panašus vyriausiasis žynys ir vyriausiasis teisė­
     jas, kuris dėl tų aukštų pareigų laikė save aukščiausiuoju ka­
     raliumi (Rilhs. Geschichte Schwedens. -  B. I. -  S. 39).
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
+    - t-007
+
+## Citatos
+
+- id: c-22844
+  citata_originali: |
+    Lietuva
+    ir Lenkija gavo didžiąją Livonijos dalį, kartu ir Rygą. Tačiau Švedija ėmė
+    siekti viešpatauti Baltijos jūroje (dominium maris Baltici). Dėl to įsilieps-
+    nojo Švedijos ir Lietuvos ir Lenkijos bei Švedijos ir Rusijos karo veiksmai.
+  citata_rodoma: "Dėl to įsilieps-\nnojo Švedijos ir Lietuvos ir Lenkijos bei Švedijos ir Rusijos karo veiksmai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75063
+
+- id: c-72980
+  citata_originali: |
+    Lietuva ir Lenkija šiame kare ekonomiškai ir politiškai nusilpo, jų
+    teritoriją nuniokojo svetimos ir savos kariuomenės, atsirado anarchijos
+
+    L I E T U V O S  I S T O R I J A
+    88
+    apraiškų ir magnatų tarpusavio kovų, be to, švedai sugriovė nedidelius
+    Lietuvos uostus Palangoje ir Šventojoje. Kovos su švedais paliko gilų pėd-
+    saką lietuvių liaudies atmintyje, tai rodo įvairūs padavimai ir pasakojimai
+    apie švedus, „švedkapius“ ir švedų buvimą Lietuvoje.
+    Lenkijai ir Lietuvai grasino ne tik stiprėjanti Petro I Rusija, bet ir
+    1701 m. karalyste tapusi Prūsija – šios centralizuotos valstybės ilgainiui
+    nulems tolesnį ATR likimą.
+  citata_rodoma: "Lietuva ir Lenkija šiame kare ekonomiškai ir politiškai nusilpo, jų \nteritoriją nuniokojo svetimos ir savos kariuomenės, atsirado anarchijos\n\nL I E T U V O S  I S T O R I J A\n88\napraiškų ir magnatų tarpusavio kovų, be to, švedai sugriovė nedidelius \nLietuvos uostus Palangoje ir Šventojoje. Kovos su švedais paliko gilų pėd-\nsaką lietuvių liaudies atmintyje, tai rodo įvairūs padavimai ir pasakojimai \napie švedus, „švedkapius“ ir švedų buvimą Lietuvoje.\nLenkijai ir Lietuvai grasino ne tik stiprėjanti Petro I Rusija, bet ir \n1701 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75058
+
+- id: c-72981
+  citata_originali: |
+    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
+    87
+    1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o
+    Lietuvos magnatai 1655 m. netgi sudarė Kėdainių sutartį su Švedija, ta-
+    čiau švedams įsitvirtinti Lietuvoje nepavyko. Iškylanti Rusija Šiaurės karo
+    metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuome-
+    nę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki
+    Rygos. Lietuva ir Lenkija šiame kare ekonomiškai ir politiškai nusilpo, jų
+    teritoriją nuniokojo svetimos ir savos kariuomenės, atsirado anarchijos
+  citata_rodoma: "2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S\n87\n1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o \nLietuvos magnatai 1655 m. netgi sudarė Kėdainių sutartį su Švedija, ta-\nčiau švedams įsitvirtinti Lietuvoje nepavyko."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75062
+    - t-75060
+
+- id: c-166591
+  citata_originali: |
+    L I E T U V O S  I S T O R I J A
+    86
+    XVII a. ATR kariavo su Švedija du karus: 1600–1629 ir 1655–1660 m.
+    Karą komplikavo tai, kad švedų kilmės Vazų dinastijos ATR karaliai reiš-
+    kė pretenzijas į Švedijos sostą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183204
+    - t-75059
+
+- id: c-171254
+  citata_originali: |
+    Kaip tik
+    Švedijoje buvo panašus vyriausiasis žynys ir vyriausiasis teisė­
+    jas, kuris dėl tų aukštų pareigų laikė save aukščiausiuoju ka­
+    raliumi (Rilhs. Geschichte Schwedens. -  B. I. -  S. 39).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188360
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Sapiegos]]
+- Turėjo valdovą: [[objektai/asmenys/Gotbrodas]]
 - Puolė Švedai: [[objektai/grupes/Kazokai]], [[objektai/grupes/Lietuvos totoriai]], [[objektai/asmenys/Vaina]]
 - Kariavo prieš: [[objektai/asmenys/Augustas II]], [[objektai/grupes/Bajorų konfederacija]], [[objektai/asmenys/Jonas Karolis Chodkevičius]], [[objektai/asmenys/Jonas Karolis Katkevičius]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/grupes/Lietuvos totoriai]], [[objektai/asmenys/Mykolas Pacas]], [[objektai/asmenys/Petras I Didysis]]
 - Sudarė sutartį su: [[objektai/grupes/Lenkų bajorija]]

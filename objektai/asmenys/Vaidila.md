@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Vaidila'
 saltiniai:
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1380 m.'
@@ -18,6 +19,18 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vaidila
 
@@ -28,25 +41,68 @@ Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino 
 ## Teiginiai
 
 <a id="claim-t-87462"></a>
-- t-001
+- t-003
   global_id: t-87462
-  teiginys: 'Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė.'
+  teiginys: "Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "243228-243838; hash=6f8b3c2a259f4749e8407c45f54e5d7b44c46f626b1f3257611fcccb5b5a9dea; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Brasta: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vaidila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Brasta: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaidila\" parinktas kaip owner_note_path. Targetas \"Brasta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-83443
 
 <a id="claim-t-87463"></a>
-- t-002
+- t-001
   global_id: t-87463
-  teiginys: 'Bajoras Vaidila patarimais rėmė Jogailos siekius ir savo įtaka juos skatino.'
+  teiginys: "Bajoras Vaidila patarimais rėmė Jogailos siekius ir savo įtaka juos skatino."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "97265-97825; hash=4ff06656b843e73404ecd646a33eadd673ab25c5e92a880a5e7637a0462cd3c5; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vaidila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaidila\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-83441
 
 <a id="claim-t-87464"></a>
-- t-003
+- t-002
   global_id: t-87464
-  teiginys: 'Kęstutis įsakė pakarti Vaidilą, laikydamas jį karo kurstytoju.'
+  teiginys: "Kęstutis įsakė pakarti Vaidilą, laikydamas jį karo kurstytoju."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "102378-102987; hash=b3db2220662b351dc2a64ccd1106fac65b311ed8726731e0b399ba127829252d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vaidila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaidila\" parinktas kaip owner_note_path. Targetas \"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-83442
+
+<a id="claim-t-194000"></a>
+- t-004
+  global_id: t-194000
+  teiginys: "Buvo vienas žmogus3 6 , didžiojo kunigaikščio Algir do tarnas, vergas, vardu Vaidila3 7 ; iš pradžių buvo kepėju, paskui kunigaikštis pristatė jį kloti patalą ir pa davinėti jam geriamą vandenį, o ilgainiui didysis kuni gaikštis jį net labai pamėgo ir davė."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "135834-136724; hash=6982fcf8eece43397c88b43640108c7ca932f1d1e5bc8fa9f774d4e806c89464; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176625
 - susijęs iš Dubrovno pavietas: Dubrovno pavietas atiteko Vilniaus katedrai ir kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-182813|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogaila, siekdamas atgauti paveldą ir atkeršyti už Vaidilos mirtį, sutelkė pajėgas ir nusprendė užimti Vilnių bei Trakus.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179311|Lietuviai]]: Palei Vilnią gyvenę lietuviai ir Perkūną garbinę vaidilos citatoje laikomi būsimo Vilniaus užuomazga iki Gedimino.
@@ -102,6 +158,7 @@ Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino 
     dėrį su arkikomtūru, siekiant užsitikrinti saugumą nuo kry­
     žiuočių ir palengvinti jiems Kęstučio valdų puolimą28.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -129,6 +186,7 @@ Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino 
     gaila antrąkart grįžo iš Polocko nieko nepešęs, bet sugebėjo
     pasikalbėti su Jogaila, dar tebesėdėjusiu kalėjime.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -155,11 +213,135 @@ Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino 
     ir vyskupams nemažą Vilniaus miesto dalį - visą plotą nuo
     pilies iki pat Šv.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+- c-004
+  santrauka: 'Buvo vienas žmogus3 6 , didžiojo kunigaikščio Algir do tarnas, vergas, vardu Vaidila3 7 ; iš pradžių buvo kepėju, paskui kunigaikštis pristatė jį kloti patalą ir pa davinėti jam geriamą vandenį, o ilgainiui didysis kuni gaikštis jį net labai pamėgo ir davė.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Didysis kunigaikštis Kęstutis, atsižvelg­
+    damas j susitarimą bei savo brolišką meilę ir santar-
+    mę, kurios ligi jo mirties buvo laikęsis, pripažino di­
+    džiuoju kunigaikščiu Vilniuje jo sūnų, didįjį kunigaikštį
+    Jogailą, ir ėmė pas jį važinėti tartis dėl reikalų, kaip
+    anksčiau, būdavo, atvažiuoja pas vyriausiąjį brolį.
+    Buvo vienas žmogus3 6 , didžiojo kunigaikščio Algir­
+    do tarnas, vergas, vardu Vaidila3 7 ; iš pradžių buvo
+    kepėju, paskui kunigaikštis pristatė jį kloti patalą ir pa­
+    davinėti jam geriamą vandenį, o ilgainiui didysis kuni­
+    gaikštis jį net labai pamėgo ir davė jam valdyti Ly­
+    d ą 3 4  ir išvedė į žmones. Paskui, po didžiojo kunigaikš­
+    čio Algirdo mirties praėjus dvejiems ar daugiau metų,
+    didysis kunigaikštis Jogaila jį labai aukštai iškėlė ir
+    išleido už jo tikrą savo seserį, kunigaikštytę Mariją 3 B ,
+    kuri buvo pirmiau ištekėjusi už kunigaikščio Dovydo 4 0 .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-004
+
+## Citatos
+
+- id: c-83441
+  citata_originali: |
+    Jogailos siekius pata­
+    rimais rėmė ir, naudodamasis savo įtaka, dar skatino bajo­
+    ras Vaidila. Tai buvo žmogus, kurį dar Algirdas dėl didelių
+    gabumų iš kepėjo sūnaus iki rūmų pataurininkio iškėlė. O
+    Jogaila, labai jį pamilęs, ne tik Lydos vietininku padarė, bet,
+    nepaisydamas Kęstučio prieštaravimų, dargi atidavė jam į
+    žmonas savo seserį. Kaip pasiuntinys nuvykęs į Prūsiją, Vai­
+    dila 1380 metais paruošė dirvą Jogailai sudaryti slaptą san­
+    dėrį su arkikomtūru, siekiant užsitikrinti saugumą nuo kry­
+    žiuočių ir palengvinti jiems Kęstučio valdų puolimą28.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87463
+
+- id: c-83442
+  citata_originali: |
+    Ir prisiekė Jogai­
+    la, kaip mūsų tėvui nepadės, ir gy­
+    rėsi, kaip mano tėvą ir mane patį pa­
+    gaus, ir kaip mano tėvą ir mane pati
+    35
+
+    ## Puslapis 52
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Pasigailėjo laimėtojas Jogailos, nors iš surastų pas jį doku­
+    mentų akivaizdžiai įsitikino jo priešiškumu, bet, Vytautui
+    užsistojus, kartu su motina į tėvoniją, į Vitebską, išsiuntė.
+    Tačiau, tapęs savo paties intrigų auka, krito Vaidila, kurį Kęs­
+    tutis, kaip to karo kurstytoją, įsakė pakarti. Tuo tarpu Skir­
+    gaila antrąkart grįžo iš Polocko nieko nepešęs, bet sugebėjo
+    pasikalbėti su Jogaila, dar tebesėdėjusiu kalėjime.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87464
+
+- id: c-83443
+  citata_originali: |
+    I1l
+
+    ## Puslapis 128
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    vyskupui, iškilmingu aktu dovanodamas kunigaikštišką
+    Tauragnų pilį su visu pavietu, Labanoro, Molėtų, Dambra-
+    vos, Verkių kaimus prie Vilniaus, Bokštus, didelius valsčius
+    Drohičino, Brastos ir Dubno pavietuose, su įvairiais ten ren­
+    kamais mokesčiais, dosniai aprūpino Vilniaus katedrą10. Ati­
+    teko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos
+    istorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė. Tas
+    lėšas Vladislovas Jogaila dar padidino skirdamas katedrai
+    ir vyskupams nemažą Vilniaus miesto dalį - visą plotą nuo
+    pilies iki pat Šv.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87462
+
+- id: c-176625
+  citata_originali: |
+    Didysis kunigaikštis Kęstutis, atsižvelg­
+    damas j susitarimą bei savo brolišką meilę ir santar-
+    mę, kurios ligi jo mirties buvo laikęsis, pripažino di­
+    džiuoju kunigaikščiu Vilniuje jo sūnų, didįjį kunigaikštį
+    Jogailą, ir ėmė pas jį važinėti tartis dėl reikalų, kaip
+    anksčiau, būdavo, atvažiuoja pas vyriausiąjį brolį.
+    Buvo vienas žmogus3 6 , didžiojo kunigaikščio Algir­
+    do tarnas, vergas, vardu Vaidila3 7 ; iš pradžių buvo
+    kepėju, paskui kunigaikštis pristatė jį kloti patalą ir pa­
+    davinėti jam geriamą vandenį, o ilgainiui didysis kuni­
+    gaikštis jį net labai pamėgo ir davė jam valdyti Ly­
+    d ą 3 4  ir išvedė į žmones. Paskui, po didžiojo kunigaikš­
+    čio Algirdo mirties praėjus dvejiems ar daugiau metų,
+    didysis kunigaikštis Jogaila jį labai aukštai iškėlė ir
+    išleido už jo tikrą savo seserį, kunigaikštytę Mariją 3 B ,
+    kuri buvo pirmiau ištekėjusi už kunigaikščio Dovydo 4 0 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194000
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Dubrovno pavietas]]

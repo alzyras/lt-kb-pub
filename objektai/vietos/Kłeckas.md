@@ -16,6 +16,18 @@ tags:
   - vieta
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kłeckas
 
@@ -28,9 +40,22 @@ Be to, Vilnių šiuo laikotarpiu papuošė dvi reikšmingos bažny­ čių funda
 <a id="claim-t-86301"></a>
 - t-001
   global_id: t-86301
-  teiginys: 'Mikalojus Radvila apie 1514 m. pergalės prieš totorius ties Kłecku atminimui prie Vilijos pastatė Šv. Jurgio bažnyčią.'
+  teiginys: "Mikalojus Radvila apie 1514 m. pergalės prieš totorius ties Kłecku atminimui prie Vilijos pastatė Šv. Jurgio bažnyčią."
+  temporaliniai_duomenys: "pastatymo data: 1514 m.; pastatymo data: apie 1514 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip pastatymo data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia citatoje nurodytą bažnyčios fundaciją Kłecko pergalės atminimui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "531020-531850; hash=2466d1d128a612f4f1b4d3b44e0572dd933eedb41d8c811537fa4f800f3bfdde; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kłeckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilija: mention_match, place, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kłeckas\" parinktas kaip owner_note_path. Targetas \"Vilija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-82280
 - susijęs iš [[objektai/paprociai/Totorių plėšiamieji žygiai kaip įprastas karo veikimo būdas.md#claim-t-87285|Totorių plėšiamieji žygiai kaip įprastas karo veikimo būdas]]: Totorių būrys, pasiųstas iš stovyklos prie Kłecko į Naugarduką, pagal savo paprotį plėšė apylinkes ir priartėjo prie Lydos.
 - susijęs iš Kleckas (sujungti pirminiai pavadinimai Kleckas; Kłeckas): Totoriai ties Kłecku įsirengė stovyklą ir nemažą būrį pasiuntė į Naugarduką.
 - susijęs iš Kleckas (sujungti pirminiai pavadinimai Kleckas; Kłeckas): Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio bažnyčią pergalei ties Kłecku prieš totorius atminti.
@@ -75,8 +100,45 @@ Be to, Vilnių šiuo laikotarpiu papuošė dvi reikšmingos bažny­ čių funda
     kalnelio prie Vilijos, pastatė bažnyčią Šv. Jurgio ir kartu Mer­
     gelės Dievo Gimdytojos garbei.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-82280
+  citata_originali: |
+    Po šios
+    džiugios naujienos buvo įvairiausiai
+    reiškiamas džiaugsmas ne tik gatvė­
+    se, ypač priešais kunigo Samuelio
+    Maciejovskio, tuo laiku Karalystės
+    pakanclerio ir Kulmo, o netrukus
+    po to - Plocko vyskupo, rūmus, bet
+    ir kalneliuose ties Vilniumi buvo
+
+    ## Puslapis 281
+
+    265
+    2irmek/ ^3) of nti®^ L,™ k; x
+
+    ## Puslapis 282
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    rūpinosi iš Lietuvos kunigaikščių kilęs Vilniaus vyskupas Jo­
+    nas su kapitula12, pinigais remiamas visos dvasininkijos13. Be
+    to, Vilnių šiuo laikotarpiu papuošė dvi reikšmingos bažny­
+    čių fundacijos: Vilniaus vaivada ir LDK kancleris Mikalojus
+    Radvila, Aleksandro laikais, apie 1514 metus, ties Kłecku prieš
+    totorius pasiektai pergalei atminti savo žemėje už miesto ant
+    kalnelio prie Vilijos, pastatė bažnyčią Šv. Jurgio ir kartu Mer­
+    gelės Dievo Gimdytojos garbei.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86301

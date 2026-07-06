@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - grupe
   - mūšis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # asis šaulių pulko batalionas
 
@@ -20,10 +32,22 @@ Matusevičiaus Trakų sukilėlių daliniai, palaikomi 2-ojo šaulių pulko batal
 <a id="claim-t-80645"></a>
 - t-001
   global_id: t-80645
-  teiginys: '2-ojo šaulių pulko batalionas birželio 19 d. palaikė Trakų sukilėlių puolimą prieš rusų kairįjį sparną, bet ataka buvo atmušta.'
+  teiginys: "2-ojo šaulių pulko batalionas birželio 19 d. palaikė Trakų sukilėlių puolimą prieš rusų kairįjį sparną, bet ataka buvo atmušta."
+  semantiniai_rysiai: "asis šaulių pulko batalionas puolė Rusai (0.68)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "637244-637581; hash=7b9567e33b8fda484802f9ffa15747098b537ccfcbd8099814cb3cec33dfb8cb; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Rusai: 0.68"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "asis šaulių pulko batalionas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Rusai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Batalionas rėmė puolimą prieš rusų sparną, todėl jo karinis veiksmas nukreiptas prieš rusus, nors jis įvardytas kaip palaikantis."
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
-
+    - c-77344
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,11 +67,35 @@ Matusevičiaus Trakų sukilėlių daliniai, palaikomi 2-ojo šaulių pulko batal
     puolė rusų kairįjį sparną, tačiau rusų 6-asis
     karabinierių pulkas ataką atmušė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-77344
+  citata_originali: |
+    Mūšis
+
+    Birželio 19 d. 9 val. ryte sukilėlių artile-
+
+    rija atidengė ugnį, bet dėl kalvotos vie-
+    tovės jos žala priešui buvo nedidelė.
+    Pulkininko J. Zalivskio ir papulkininkio
+
+    V. Matusevičiaus Trakų sukilėlių daliniai,
+    palaikomi 2-ojo šaulių pulko bataliono,
+    puolė rusų kairįjį sparną, tačiau rusų 6-asis
+    karabinierių pulkas ataką atmušė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-80645
 
 ## Ryšiai
 - asis šaulių pulko batalionas puolė [[objektai/grupes/Rusai]]

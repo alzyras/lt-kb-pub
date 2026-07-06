@@ -15,6 +15,18 @@ tags:
 amziai:
   - 'XV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # kontribucija
 
@@ -25,12 +37,22 @@ amziai:
 ## Teiginiai
 
 <a id="claim-t-181977"></a>
-- t-001
+- t-011
   global_id: t-181977
-  teiginys: 'Totoriai pasuko Kijevo link ir paėmė iš miesto 3000 rublių kontribucijos.'
+  teiginys: "Totoriai pasuko Kijevo link ir paėmė iš miesto 3000 rublių kontribucijos."
+  semantiniai_rysiai: "Totoriai keliavo į Kijevas (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "177387-177621; hash=54bcb99cb932c6f126c92828d61b6476040436c84f3a65b9b5befa00afaaa725; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Kijevas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo totorių judėjimą Kijevo link."
   pagrindžia:
-    - c-001
-
+    - c-37924
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,8 +64,24 @@ amziai:
     link, paėmė iš jo 3000 rublių kontribucijos. Po to dar pasu­
     ko į Lucko žemes, ir tik iš ten grįžo į savo stepes.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-37924
+  citata_originali: |
+    Totoriai, užvaldę lietuvių stovyklą, paėmė visas jų gur­
+    guoles ir turtus ir tuojau metėsi krašto terioti. Pasuko Kijevo
+    link, paėmė iš jo 3000 rublių kontribucijos. Po to dar pasu­
+    ko į Lucko žemes, ir tik iš ten grįžo į savo stepes.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181977

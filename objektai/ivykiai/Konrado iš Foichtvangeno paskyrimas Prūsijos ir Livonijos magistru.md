@@ -15,6 +15,18 @@ tags:
   - ordinas
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru
 
@@ -43,17 +55,72 @@ Nenurodyta
 <a id="claim-t-66630"></a>
 - t-001
   global_id: t-66630
-  teiginys: 'Didysis magistras 1279 m. paskyrė Konradą iš Foichtvangeno Prūsijos ir Livonijos brolių magistru.'
+  teiginys: "Didysis magistras 1279 m. paskyrė Konradą iš Foichtvangeno Prūsijos ir Livonijos brolių magistru."
+  temporaliniai_duomenys: "įvykio data: 1279 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako paskyrimą ir yra paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "517547-518088; hash=62add00196b8d1a3c5d9b178b73f4afa11cb9d937fe943da38a430f2211febe8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=63"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-66828
 
 <a id="claim-t-66631"></a>
 - t-002
   global_id: t-66631
-  teiginys: 'Po metų Konradas iš Foichtvangeno atsisakė pareigų Prūsijoje ir liko tik Livonijos žemės magistru.'
+  teiginys: "Po metų Konradas iš Foichtvangeno atsisakė pareigų Prūsijoje ir liko tik Livonijos žemės magistru."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "517976-518391; hash=0c1c9508d7afbc7026d18d21c559bad3b2567917c8ba556f036311ce64281196; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Konradas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Konradas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru\" parinktas kaip owner_note_path. Targetas \"Konradas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-66827
 
+<a id="claim-t-66630"></a>
+- t-001
+  global_id: t-66630
+  teiginys: "Didysis magistras 1279 m. paskyrė Konradą iš Foichtvangeno Prūsijos ir Livonijos brolių magistru."
+  temporaliniai_duomenys: "įvykio data: 1279 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako paskyrimą ir yra paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "517547-518088; hash=62add00196b8d1a3c5d9b178b73f4afa11cb9d937fe943da38a430f2211febe8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=63"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-66828
+
+<a id="claim-t-194397"></a>
+- t-004
+  global_id: t-194397
+  teiginys: "Apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "517547-518088; hash=62add00196b8d1a3c5d9b178b73f4afa11cb9d937fe943da38a430f2211febe8; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-66828
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -68,6 +135,7 @@ Nenurodyta
 
     atsisakė savo pareigybės Prūsijoje ir pasiliko vienos Livonijos žemės magistru.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -87,9 +155,50 @@ Nenurodyta
 
       494  Žuvo 1279.111.5 prie dab.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-003
+    - t-004
+
+## Citatos
+
+- id: c-66827
+  citata_originali: |
+    Praslinkus vieniems metams, jis, jausdamas, jog nestengsiąs abi žemes valdyti,
+
+      494  Žuvo 1279.111.5 prie dab. Aizkrauklės (buv. Ašeradė) prie Dauguvos, kur
+    Lietuvos kariuomenė sumušė Livonijos ordino bei Revelio (Talino) danų riterių kariuomenę
+    (Varakauskas R., Kautynės ties Ašerade..., p. 123—132; Lietuvių karas..., p. 179 180).
+
+    atsisakė savo pareigybės Prūsijoje ir pasiliko vienos Livonijos žemės magistru.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66631
+
+- id: c-66828
+  citata_originali: |
+    Apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais
+
+       Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.
+    Mirus broliui Konradui iš Tirbergo, Prūsijos žemės magistrui, bei žuvus broliui Ernestui,
+    Livonijos žemės magistrui, kurį nukovė netikėliai494, didysis magistras, abiejų žemių
+    pasiuntinių prašomas,  jį paskyrė Prūsijos ir Livonijos brolių magistru 1279 viešpaties
+    metais. Praslinkus vieniems metams, jis, jausdamas, jog nestengsiąs abi žemes valdyti,
+
+      494  Žuvo 1279.111.5 prie dab.
+  citata_rodoma: "Apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais\n\n   Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.\nMirus broliui Konradui iš Tirbergo, Prūsijos žemės magistrui, bei žuvus broliui Ernestui,\nLivonijos žemės magistrui, kurį nukovė netikėliai494, didysis magistras, abiejų žemių\npasiuntinių prašomas,  jį paskyrė Prūsijos ir Livonijos brolių magistru 1279 viešpaties\nmetais. Praslinkus vieniems metams, jis, jausdamas, jog nestengsiąs abi žemes valdyti,\n\n  494  Žuvo 1279."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66630
+    - t-183934
+    - t-194397

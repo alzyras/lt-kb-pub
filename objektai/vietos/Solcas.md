@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Solcas
 
@@ -19,10 +31,19 @@ Jo karališkajai didenybei vykstant į Solcą, į pono Lietu­ vos pataurininkio
 <a id="claim-t-86238"></a>
 - t-001
   global_id: t-86238
-  teiginys: 'Karališkoji didenybė vyko į Solcą, į Lietuvos pataurininkio vestuves.'
+  teiginys: "Karališkoji didenybė vyko į Solcą, į Lietuvos pataurininkio vestuves."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "827175-827434; hash=7190fb8b2093e1ef09c8a624b160fceccb40971af10a26fcec71c8c20df3b2b3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Solcas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Solcas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-82217
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -35,8 +56,26 @@ Jo karališkajai didenybei vykstant į Solcą, į pono Lietu­ vos pataurininkio
     vos pataurininkio vestuves, būdamas Liubline, išleidau lie­
     tuviškoms monetoms 7 flor., 4 grašius, 2 liet. denarus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-82217
+  citata_originali: |
+    Brastoje nuo 17 paskolintų liet. grašių palūkanos už dvi
+    savaites - 16 liet. grašių.
+    Jo karališkajai didenybei vykstant į Solcą, į pono Lietu­
+    vos pataurininkio vestuves, būdamas Liubline, išleidau lie­
+    tuviškoms monetoms 7 flor., 4 grašius, 2 liet. denarus.
+  citata_rodoma: "Jo karališkajai didenybei vykstant į Solcą, į pono Lietu­\nvos pataurininkio vestuves, būdamas Liubline, išleidau lie­\ntuviškoms monetoms 7 flor., 4 grašius, 2 liet. denarus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86238

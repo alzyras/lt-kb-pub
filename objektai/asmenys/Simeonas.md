@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - asmuo
   - miestas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Simeonas
 
@@ -20,9 +32,19 @@ Dusburgietis teigia, kad sis, atkeliavęs į šventąjį miestą, pamatė, jog n
 <a id="claim-t-60432"></a>
 - t-001
   global_id: t-60432
-  teiginys: 'Simeonas buvo šventojo miesto patriarchas, kuris kartu su savo valdiniais kentė didelę priespaudą.'
+  teiginys: "Simeonas buvo šventojo miesto patriarchas, kuris kartu su savo valdiniais kentė didelę priespaudą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "723052-723860; hash=e4cfc8289ef487dc6df535260fa1ddac875be9326339b03b25610203ca670f57; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prancūzija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Simeonas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Prancūzija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Simeonas\" parinktas kaip owner_note_path. Targetas \"Prancūzija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-61064
 - susijęs iš [[objektai/asmenys/Gurka.md#claim-t-186206|Gurka]]: Grafas Gurka kartu su Slucko kunigaikščiu Simeonu ilgą laiką kėlė naujus neramumus dėl Elžbietos.
 - susijęs iš [[objektai/asmenys/Petras Atsiskyrėlis.md#claim-t-90006|Petras Atsiskyrėlis]]: Petras Atsiskyrėlis su Jeruzalės patriarcho Simeono laiškais vyko pas popiežių Urboną II ir ragino leistis į kelionę į Jeruzalę.
 - susijęs iš [[objektai/ivykiai/Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę.md#claim-t-89409|Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę]]: Petras su Jeruzalės patriarcho Simeono ir kitų tikinčiųjų laiškais nuvyko pas popiežių Urboną II, kuris jį maloniai priėmė.
@@ -46,11 +68,34 @@ Dusburgietis teigia, kad sis, atkeliavęs į šventąjį miestą, pamatė, jog n
     mylėdamas prispaustuosius, jis smarkiai nuliūdo ir apgraudo, vienas pats nerimastingai
     svarstydamas, ar negalėtų vienaip ar kitaip pagelbėti prislėgtiesiems.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-61064
+  citata_originali: |
+    Galop valdovas, ilgokai rūstinamas,
+    pajuto širdyje užuojautą, matydamas savo Žmonių sielvartą, ir pakvietė iš. Prancūzijos
+    karalystės vieną vargšą bei dievotą žmogų, kuris gyveno Amjeno vyskupystėje nuo visų
+    atsiskyręs, todėl  jį vadino Petru Atsiskyrėliu, ragindamas  jį aplankyti viešpaties kapą
+    bei kitas šventąsias vietas. Sis, atkeliavęs  į šventąjį miestą, pamatė, jog nedorėliai
+    nepagarbiai elgiasi šventose vietose, jog godotinas vyras Simeonas, miesto patriarchas,
+    kartu su savo valdiniais nelyginant niekingas vergas, puolęs  į visišką neviltį, kenčia
+    begalinę priespaudą; būdamas doras žmogus, didžiai užjausdamas kitus ir iš visos širdies
+    mylėdamas prispaustuosius, jis smarkiai nuliūdo ir apgraudo, vienas pats nerimastingai
+    svarstydamas, ar negalėtų vienaip ar kitaip pagelbėti prislėgtiesiems.
+  citata_rodoma: "Sis, atkeliavęs  į šventąjį miestą, pamatė, jog nedorėliai\nnepagarbiai elgiasi šventose vietose, jog godotinas vyras Simeonas, miesto patriarchas,\nkartu su savo valdiniais nelyginant niekingas vergas, puolęs  į visišką neviltį, kenčia\nbegalinę priespaudą; būdamas doras žmogus, didžiai užjausdamas kitus ir iš visos širdies\nmylėdamas prispaustuosius, jis smarkiai nuliūdo ir apgraudo, vienas pats nerimastingai\nsvarstydamas, ar negalėtų vienaip ar kitaip pagelbėti prislėgtiesiems."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60432
 
 ## Ryšiai
 - Simeonas gyveno [[objektai/vietos/Jeruzalė]]

@@ -17,6 +17,18 @@ tags:
 amziai:
   - 'XVI'
   - 'XVII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Chodkevičiai
 
@@ -29,23 +41,68 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
 <a id="claim-t-19665"></a>
 - t-001
   global_id: t-19665
-  teiginys: '1569 m. Chodkevičiai Zabluduve įsteigė spaustuvę ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą.'
+  teiginys: "1569 m. Chodkevičiai Zabluduve įsteigė spaustuvę ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą."
+  semantiniai_rysiai: "Chodkevičiai rėmė Ivanas Fiodorovas (0.88); Chodkevičiai pastatė Zabluduvas (0.70)"
+  temporaliniai_duomenys: "įkūrimo data: 1569 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, aiškus ir paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "111134-111496; hash=906a29d8f0a3bd9ac1d5f217f08e49f7bab47614ec66b7bacfa3b345b768aa1c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Ivanas Fiodorovas: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Chodkevičiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Ivanas Fiodorovas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Chodkevičiai tiesiogiai priglobė Ivaną Fiodorovą, todėl tai palaikymo santykis."
   pagrindžia:
-    - c-001
+    - c-22370
 
 <a id="claim-t-19666"></a>
 - t-002
   global_id: t-19666
-  teiginys: '1605 m. prie Kirchholmo J. K. Chodkevičiaus vadovaujama LDK kariuomenė, turėjusi 3 tūkst. raitelių, nugalėjo 12 tūkst. švedų.'
+  teiginys: "1605 m. prie Kirchholmo J. K. Chodkevičiaus vadovaujama LDK kariuomenė, turėjusi 3 tūkst. raitelių, nugalėjo 12 tūkst. švedų."
+  semantiniai_rysiai: "Lietuvos kariuomenė kariavo prieš Švedai (0.92)"
+  temporaliniai_duomenys: "įvykio data: 1605 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, citata leidžia atkurti pilną faktą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "158763-159123; hash=8f86e6d16931e5e7f7b2bfe92c34ea20e90af4af3130184619f595dd6988a085; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Švedai: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Švedai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Lietuvos kariuomenės pergalę prieš švedus."
   pagrindžia:
-    - c-002
+    - c-22371
 
 <a id="claim-t-183124"></a>
 - t-003
   global_id: t-183124
-  teiginys: '1605 m. prie Kirchholmo Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė su 3 tūkst. raitelių nugalėjo 12 tūkst. švedų.'
+  teiginys: "1605 m. prie Kirchholmo Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė su 3 tūkst. raitelių nugalėjo 12 tūkst. švedų."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Lietuvos kariuomenė kariavo prieš Švedai (0.94)"
+  temporaliniai_duomenys: "įvykio data: 1605 m.; įvykio data: 1620 m.; įvykio data: apie 1620 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Reikia išplėsti inicialais nurodytą asmenį ir išlaikyti aiškų faktinį sakinį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "158938-159155; hash=a0cea0f2fd6975fa4012d9751a7e2a47f4913bdd02818a7f232d6781c894f88e; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Švedai: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Švedai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad LDK kariuomenė nugalėjo švedus."
   pagrindžia:
-    - c-003
+    - c-166509
 - susijęs iš [[objektai/asmenys/Grigalius Chodkevičius.md#claim-t-184710|Grigalius Chodkevičius]]: Krokuvos vestuvėse iš lietuvių puošniausiai atrodė Radvila ir Grigalius Chodkevičius.
 - susijęs iš [[objektai/asmenys/Grigalius Chodkevičius.md#claim-t-40125|Grigalius Chodkevičius]]: Lauko etmonas Grigalius Chodkevičius buvo tarp geriausių tuo metu surinktų karių.
 - susijęs iš [[objektai/asmenys/Ivanas Fiodorovas.md#claim-t-23198|Ivanas Fiodorovas]]: Ivanas Fiodorovas buvo pirmasis Maskvos spaustuvininkas, kurį 1569 m. Zabluduve priglobė Chodkevičiai.
@@ -154,6 +211,7 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
     pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką
     jos pobūdį.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -170,6 +228,7 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
     vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kairėje),
     turinti 3 tūkst. raitelių, nugali 12 tūkst. švedų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -185,11 +244,59 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
     turinti 3 tūkst. raitelių, nugali 12 tūkst. švedų.
     Dail. P. Snayrs, apie 1620 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-22370
+  citata_originali: |
+    Tai reformacijos nulemtas įvykis. Po dešimtmečio čia pa-
+    sirodė įspūdingas leidybos kūrinys – „Brastos Biblija“. Vėliau Radvila Juo-
+    dasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su Radvilomis ėmė
+    konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė
+    pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką
+    jos pobūdį.
+  citata_rodoma: "konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-19665
+
+- id: c-22371
+  citata_originali: |
+    1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus
+    Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė
+    Rygą ir užvaldė Baltijos pakrantes.
+    1605 m. mūšyje prie Kirchholmo netoli Rygos J. K. Chodkevičiaus
+    vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kairėje),
+    turinti 3 tūkst. raitelių, nugali 12 tūkst. švedų.
+  citata_rodoma: "vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kairėje),"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-19666
+
+- id: c-166509
+  citata_originali: |
+    1605 m. mūšyje prie Kirchholmo netoli Rygos J. K. Chodkevičiaus
+    vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kairėje),
+    turinti 3 tūkst. raitelių, nugali 12 tūkst. švedų.
+    Dail. P. Snayrs, apie 1620 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183124
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Mlynivas]]

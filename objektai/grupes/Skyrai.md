@@ -10,6 +10,18 @@ tags:
   - kraštas
   - miestas
   - tauta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Skyrai
 
@@ -22,9 +34,19 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
 <a id="claim-t-86826"></a>
 - t-001
   global_id: t-86826
-  teiginys: 'Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidivarijų vardais.'
+  teiginys: "Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidivarijų vardais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "49422-50239; hash=8b5ad07ed3b365db9030d3b44782d01037fd87145ef98951553a781641d02183; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Herulai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Skyrai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Herulai: mention_match, group, gap=7"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skyrai\" parinktas kaip owner_note_path. Targetas \"Herulai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-82805
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176379|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas dominikonams rašė pasiuntęs laišką popiežiui Jonui ir norįs sukviesti vyskupų, kunigų bei vienuolių.
 - susijęs iš [[objektai/asmenys/Jonas (popiežius).md#claim-t-87523|Jonas (popiežius)]]: Gediminas pasiuntė laišką popiežiui Jonui, prašydamas, kad šis jį apvilktų pirmuoju krikšto rūbu.
 - susijęs iš [[objektai/asmenys/Jonas Marija.md#claim-t-87726|Jonas Marija]]: Jonas Marija buvo architektas ir raižytojas, savo meno kūriniais papuošęs Vilnių.
@@ -68,8 +90,38 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
     iki Vyslos, o į žemyno gilumą buvo pasistūmėjusi tiesiog iki
     Nemuno ir Būgo žiočių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-82805
+  citata_originali: |
+    Abi šios gentys, artėdamos viena prie kitos, stūmė iš
+    13
+
+    ## Puslapis 30
+
+    VILNIAUS MIESTO ISTORIJA I  TOMAS
+    senųjų valdų germanų gentį - gotus, o šie tai į Europos va­
+    karus išsisklaidydavo, tai vėl į šiaurę, į Skandinaviją, bet ne
+    kartą iš tų kraštų sugrįždavo į senąsias gyvenvietes. Iš tokio
+    trijų skirtingų kilmių gyventojų maišymosi ir samplaikos
+    radosi nauja pasienio tauta, kuri senovės geografų ilgai bu­
+    vo vadinta skyrų, herulų ir vidivarijų vardais ir tik X amžiuje
+    Lietuvos vardu tapo žinoma Europai1. Ta lietuvių tauta, išsis­
+    kyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­
+    šius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba
+    tikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos
+    iki Vyslos, o į žemyno gilumą buvo pasistūmėjusi tiesiog iki
+    Nemuno ir Būgo žiočių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86826

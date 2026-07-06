@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Žuvintas
 
@@ -19,16 +31,40 @@ Dusburgietis teigia, kad žirgupė Žydai Žuvintas, ež.
 <a id="claim-t-91895"></a>
 - t-001
   global_id: t-91895
-  teiginys: 'Žirgupė Žydai Žuvintas, ež.'
+  teiginys: "Žirgupė Žydai Žuvintas, ež."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "868290-868343; hash=9a009679d6e468914aed04b28343df409e80cb12a9c025830a83dcc0f52be395; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Žydai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žuvintas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Žydai: mention_match, group, gap=6"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žuvintas\" parinktas kaip owner_note_path. Targetas \"Žydai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
-    - c-001
+    - c-87538
 
 <a id="claim-t-91896"></a>
 - t-002
   global_id: t-91896
-  teiginys: ', p. Žirgupė Žydai Žuvintas, ež.'
+  teiginys: ", p. Žirgupė Žydai Žuvintas, ež."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "868290-868343; hash=9a009679d6e468914aed04b28343df409e80cb12a9c025830a83dcc0f52be395; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Žydai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žuvintas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Žydai: mention_match, group, gap=6"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žuvintas\" parinktas kaip owner_note_path. Targetas \"Žydai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
-    - c-001
+    - c-87538
 - susijęs iš [[objektai/grupes/Dzūkų būrys.md#claim-t-40877|Dzūkų būrys]]: Liepos 13 d. Dzūkų būrio partizanai prie Žuvinto ežero susidūrė su pasaloje laukusiais NKVD kareiviais ir vietiniais stribais.
 - susijęs iš [[objektai/grupes/Edvardo Lajaus būrys.md#claim-t-40878|Edvardo Lajaus būrys]]: Edvardo Lajaus būrys veikė Žuvinto paliose ir Buktos, dar vadintame Žaliuoju, miške.
 - susijęs iš [[objektai/grupes/Gedimino būrys.md#claim-t-40883|Gedimino būrys]]: Gedimino būrys veikė Žuvinto paliose ir Buktos, arba Žaliosios, miške.
@@ -75,12 +111,30 @@ Dusburgietis teigia, kad žirgupė Žydai Žuvintas, ež.
       Žydai
       Žuvintas, ež.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-87538
+  citata_originali: |
+    Nekrasovas), v., p.
+      Žirgupė
+      Žydai
+      Žuvintas, ež.
+  citata_rodoma: ", p.\n  Žirgupė\n  Žydai\n  Žuvintas, ež."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91896
+    - t-91895
 
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Edvardo Lajaus būrys]], [[objektai/grupes/Juozo Pandeikos būrys]], [[objektai/grupes/Jurgio Lajaus būrys]], [[objektai/grupes/Klarko būrys]], [[objektai/grupes/Kosto Barkausko būrys]]

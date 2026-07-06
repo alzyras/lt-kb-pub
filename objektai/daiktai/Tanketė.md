@@ -16,6 +16,18 @@ tags:
   - mūšis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Tanketė
 
@@ -48,10 +60,22 @@ Nenurodyta
 <a id="claim-t-40775"></a>
 - t-001
   global_id: t-40775
-  teiginys: 'Per Merkinės puolimą 1945 m. gruodžio 15 d. plentų kryžkelėje pasirodžiusi tanketė atidengė ugnį į miestelį.'
+  teiginys: "Per Merkinės puolimą 1945 m. gruodžio 15 d. plentų kryžkelėje pasirodžiusi tanketė atidengė ugnį į miestelį."
+  temporaliniai_duomenys: "įvykio data: 1945 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia pridėti aiškų įvykio kontekstą ir pašalinti fragmentiškumą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "951625-951813; hash=8ed4d0985a227a049965da63216570a17faba895c35363a55ddb6e31bef1f2e6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Merkinė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tanketė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Merkinė: mention_match, place, gap=71"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tanketė\" parinktas kaip owner_note_path. Targetas \"Merkinė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-44685
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -67,8 +91,29 @@ Nenurodyta
 
     MERKINĖS PUOLIMAS 1945 m. gruodžio 15 d.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-44685
+  citata_originali: |
+    Taip pat pranešta apie
+    triukšmą nuo plento pusės. Plentų kryž-
+
+    kelėje pasirodė tanketė, kuri atidengė
+
+    ugnį į miestelį. Antrasis būrys be įsakymo
+
+    MERKINĖS PUOLIMAS 1945 m. gruodžio 15 d.
+  citata_rodoma: "Plentų kryž-\n\nkelėje pasirodė tanketė, kuri atidengė\n\nugnį į miestelį. Antrasis būrys be įsakymo\n\nMERKINĖS PUOLIMAS 1945 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40775

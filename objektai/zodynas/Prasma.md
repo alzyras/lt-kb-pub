@@ -5,6 +5,18 @@ saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # prasma
 
@@ -24,19 +36,25 @@ Vartojamos formos: `savo prasma`, `savo prasma dirbtais`, `savo prasma dirbo`.
 ## Teiginiai
 
 <a id="claim-t-07658"></a>
-- t-001
+- t-004
   global_id: t-07658
-  teiginys: 'Prasma nusako savą darbo būdą, kuriuo žmonės patys gaminosi buities padargus.'
+  teiginys: "Prasma nusako savą darbo būdą, kuriuo žmonės patys gaminosi buities padargus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  saltinio_vieta: "145497-145893; hash=07f0daae3767301b0f3c0e47152bec31793dd71c7aa67109bef007a7a1c9b59e; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   pagrindžia:
-    - c-001
-    - c-002
+    - c-09591
+    - c-09592
 
 <a id="claim-t-07659"></a>
-- t-002
+- t-003
   global_id: t-07659
-  teiginys: 'Prasma siejama su pačių pasigamintais daiktais, pavyzdžiui, šepečiais.'
+  teiginys: "Prasma siejama su pačių pasigamintais daiktais, pavyzdžiui, šepečiais."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  saltinio_vieta: "135139-135328; hash=9a35d1a693184da2f88c4253dff241d4ed1d4a601334251c112bb0056107f675; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   pagrindžia:
-    - c-002
+    - c-09592
 - susijęs iš [[objektai/daiktai/Namų baldai ir rakandai.md#claim-t-08309|Namų baldai ir rakandai]]: Vyriškieji patys dailidavo namų baldus, rakandus ir įvairius būtos padargus.
 ## Reikšmingi paminėjimai
 
@@ -45,8 +63,9 @@ Vartojamos formos: `savo prasma`, `savo prasma dirbtais`, `savo prasma dirbo`.
   citata_originali: |
     lovius, raugtines, kipius^575 , geldas, muldas, taip pat ir kitą būtos padargą sau tiekė: plėškes^576 , apnasrius^577 , brizgilus, strungus^578 , tinklus, krytis, kampus^579 , venterius, riužius, kinkymus, pavalkus, kamantus, ienas, – trumpai sakant, visa, ko vien butai reikiant, vis sau patys savo prasma dirbo. Perkaršęs bočius lazdos sau nepirko, su ievine, savo liekne išpjauta, krūpštinėjo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -56,9 +75,35 @@ Vartojamos formos: `savo prasma`, `savo prasma dirbtais`, `savo prasma dirbo`.
   citata_originali: |
     Nuo ryto, pusryčioti^521 eidami, visi prausės ir, abrūsu didžiai ilgu šluostydamies, meldės, kaip anie sakė, už skendinius^522 , paskui galvas šukavo su šepečiais, savo prasma^523 dirbtais.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-09591
+  citata_originali: |
+    lovius, raugtines, kipius^575 , geldas, muldas, taip pat ir kitą būtos padargą sau tiekė: plėškes^576 , apnasrius^577 , brizgilus, strungus^578 , tinklus, krytis, kampus^579 , venterius, riužius, kinkymus, pavalkus, kamantus, ienas, – trumpai sakant, visa, ko vien butai reikiant, vis sau patys savo prasma dirbo. Perkaršęs bočius lazdos sau nepirko, su ievine, savo liekne išpjauta, krūpštinėjo.
+  citata_rodoma: "lovius, raugtines, kipius^575 , geldas, muldas, taip pat ir kitą būtos padargą sau tiekė: plėškes^576 , apnasrius^577 , brizgilus, strungus^578 , tinklus, krytis, kampus^579 , venterius, riužius, kinkymus, pavalkus, kamantus, ienas, – trumpai sakant, visa, ko vien butai reikiant, vis sau patys savo prasma dirbo. Perkaršęs bočius lazdos sau nepirko, su ievine, savo liekne išpjauta, krūpštinėjo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-07658
+
+- id: c-09592
+  citata_originali: |
+    Nuo ryto, pusryčioti^521 eidami, visi prausės ir, abrūsu didžiai ilgu šluostydamies, meldės, kaip anie sakė, už skendinius^522 , paskui galvas šukavo su šepečiais, savo prasma^523 dirbtais.
+  citata_rodoma: "Nuo ryto, pusryčioti^521 eidami, visi prausės ir, abrūsu didžiai ilgu šluostydamies, meldės, kaip anie sakė, už skendinius^522 , paskui galvas šukavo su šepečiais, savo prasma^523 dirbtais."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-07659
+    - t-07658

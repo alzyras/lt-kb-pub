@@ -1,15 +1,27 @@
 ---
 tipas: tyrimas
-pavadinimas: "Dviprasmių žmonių auditas - Lietuvos metraštis, Bychovco kronika (1971 m.) - 2026-06-16"
+pavadinimas: 'Dviprasmių žmonių auditas - Lietuvos metraštis, Bychovco kronika (1971 m.) - 2026-06-16'
 saltiniai:
-  - "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-sukurta: '2026-06-16'
-atnaujinta: '2026-06-16'
-tags: []
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+sukurta: ''
+atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
-# Dviprasmių žmonių auditas
+# Dviprasmių žmonių auditas - Lietuvos metraštis, Bychovco kronika (1971 m.) - 2026-06-16
 
 ## Vykdymo metaduomenys
+
 - knyga: Lietuvos metraštis, Bychovco kronika (1971 m.)
 - source_file: `darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md`
 - modelis: unknown
@@ -29,6 +41,7 @@ tags: []
   - `darbas/prompts/05_quality_control/05_audit_ambiguous_people.md`
 
 ## Įrašas arba kandidatas
+
 - failas: `objektai/asmenys/Daugirdas.md`
 - problema: Viešo įrašo antraštė palikta vien vardinė, nors šiame šaltinyje yra aiškus pilnas asmenvardis. Tai sudaro dubliavimo ir klaidingo jungimo riziką su kitais Daugirdais. Esamame viešame įraše taip pat trūksta `priskyrimo_pagrindas` lauko citatų bloke.
 - citata: |
@@ -40,6 +53,7 @@ tags: []
 - būsena: pervadinti
 
 ## Įrašas arba kandidatas
+
 - failas: `objektai/asmenys/Leliušas.md`
 - problema: Viešo įrašo antraštė palikta vien vardinė, nors šiame šaltinyje yra aiški pavardinė forma. Esamame viešame įraše citatų bloke taip pat trūksta `priskyrimo_pagrindas`.
 - citata: |
@@ -49,6 +63,7 @@ tags: []
 - būsena: pervadinti
 
 ## Įrašas arba kandidatas
+
 - failas: `objektai/asmenys/Radvila.md`
 - problema: Įrašo pavadinimas yra tik giminės vardas. Šioje knygoje konkretus epizodas mini tik pareiginę formą `krašto maršalas Radvila`, o kitose tos pačios knygos vietose randama ir konkretesnė `Radvila Astikaitis` tapatybė. Vien pagal `Radvila` negalima saugiai priskirti visų citatų vienam asmeniui. Esamame viešame įraše trūksta `priskyrimo_pagrindas` ir yra perplėstų, su šiuo šaltiniu nesusijusių ryšių sankaupa.
 - citata: |
@@ -59,6 +74,7 @@ tags: []
 - būsena: reikia patikrinti
 
 ## Įrašas arba kandidatas
+
 - failas: `objektai/asmenys/Slavka.md`
 - problema: Viešo įrašo antraštė palikta vien vardinė, nors šaltinis jį identifikuoja tik kaip Žygimanto tarną. Be to, viešame citatų bloke trūksta `priskyrimo_pagrindas`. Papildomas sutapatinimas su forma `Claubo` šaltinyje yra tik spėjamas, todėl jo negalima laikyti tvirtu tapatybės pagrindu.
 - citata: |
@@ -71,6 +87,7 @@ tags: []
 - būsena: pervadinti
 
 ## Įrašas arba kandidatas
+
 - failas: `objektai/asmenys/Skabeika.md`
 - problema: Viešo įrašo antraštė palikta vien vardinė, o komentarinė šaltinio vieta pati pabrėžia, kad tikslesnių duomenų apie asmenį nėra. Viešame citatų bloke trūksta `priskyrimo_pagrindas`.
 - citata: |
@@ -81,6 +98,7 @@ tags: []
 - būsena: reikia patikrinti
 
 ## Įrašas arba kandidatas
+
 - failas: `kandidatas: Andrius Nemyra`
 - problema: Kandidato tapatybė pažymėta kaip žema. Pati šaltinio pastaba sako, kad asmuo kituose šaltiniuose nepaliudytas, o ryšys su kitais Nemyromis tėra netiesioginis.
 - citata: |
@@ -91,6 +109,7 @@ tags: []
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `kandidatas: Sofija Zadvydaitė`
 - problema: Kandidato istoriškumas pačiame šaltinio komentare apibūdinamas kaip ilgai neigtas, o tikslesnių žinių apie pačią figūrą nerasta. Tapatybė žemo patikimumo.
 - citata: |
@@ -103,6 +122,7 @@ tags: []
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `kandidatas: Algimantas`
 - problema: Kandidatas remiasi vien dviprasmiu vardiniu paminėjimu. Šaltinis tiesiogiai sako, kad galutinai neišaiškinta, kuris Algimantas turimas omenyje.
 - citata: |
@@ -116,6 +136,7 @@ tags: []
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `kandidatas: Rakas Moskvičius`
 - problema: Kandidato tapatybė pačiame šaltinyje įvardyta kaip neišaiškinta. Alternatyvi Strijkovskio forma nesuteikia pakankamo pagrindo viešam sutapatinimui.
 - citata: |
@@ -128,6 +149,7 @@ tags: []
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `kandidatas: Jonas Zinevas`
 - problema: Kandidatas remiasi spėjamu sutapatinimu. Pati šaltinio formuluotė `gal būt` neleidžia jo viešai tvirtinti kaip patvirtinto asmens.
 - citata: |
@@ -139,6 +161,7 @@ tags: []
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `kandidatas: Jaunius`
 - problema: Kandidatas remiasi vien vardu ir pareiga. Nors vietinis kontekstas rodo Trakų vaivadą, tapatybė išlieka tik vidutinio pasitikėjimo ir dar nesuteikia saugaus pagrindo plikam vienvardžiam viešam įrašui.
 - citata: |

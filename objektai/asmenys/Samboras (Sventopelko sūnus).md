@@ -10,6 +10,18 @@ tags:
   - kunigaikštis
   - ordinas
   - pilis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Samboras (Sventopelko sūnus)
 
@@ -20,26 +32,57 @@ Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Tod�
 ## Teiginiai
 
 <a id="claim-t-60061"></a>
-- t-001
+- t-002
   global_id: t-60061
-  teiginys: 'Samboras buvo vienas iš keturių Pomeranijos kunigaikščio Sventopelko sūnų.'
+  teiginys: "Samboras buvo vienas iš keturių Pomeranijos kunigaikščio Sventopelko sūnų."
+  semantiniai_rysiai: "Samboras (Sventopelko sūnus) buvo brolis Vartislavas (Sventopelko sūnus) (0.86)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "529754-530219; hash=575d8949c15eea80389dc7b2d5b9ed19f478f87750d79a0eeca784d1776a120a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_brolis -> Vartislavas (Sventopelko sūnus): 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Samboras (Sventopelko sūnus): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vartislavas (Sventopelko sūnus): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Samboras ir Vartislavas pateikiami tame pačiame Sventopelko sūnų sąraše."
   pagrindžia:
-    - c-001
+    - c-60693
 
 <a id="claim-t-60062"></a>
-- t-002
+- t-001
   global_id: t-60062
-  teiginys: 'Broliai Sartovicų pilį su visa kuo perdavė savo bičiuliui Samborui, Sventopelko sūnui.'
+  teiginys: "Broliai Sartovicų pilį su visa kuo perdavė savo bičiuliui Samborui, Sventopelko sūnui."
+  semantiniai_rysiai: "Samboras (Sventopelko sūnus) buvo sūnus Sventopelkas (0.96)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "304748-305100; hash=c87647480c4fb627daae49e83d6b32038d33f5f3dcef847d3733091550d282fa; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Sventopelkas: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Samboras (Sventopelko sūnus): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Sventopelkas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Samboras buvo Sventopelko sūnus."
   pagrindžia:
-    - c-002
+    - c-60694
 
 <a id="claim-t-60063"></a>
 - t-003
   global_id: t-60063
-  teiginys: 'Samboras savo kunigaikštystės dalį atidavė broliams, kad jie aprūpintų jį ir jo šeimyną.'
+  teiginys: "Samboras savo kunigaikštystės dalį atidavė broliams, kad jie aprūpintų jį ir jo šeimyną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "530051-530731; hash=a9cb34c3be85f525ebcab26894eee8605d235a72e5250d8bae5670db6088e56c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Samboras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Samboras (Sventopelko sūnus): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Samboras: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Samboras (Sventopelko sūnus)\" parinktas kaip owner_note_path. Targetas \"Samboras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
-
+    - c-60695
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -54,6 +97,7 @@ Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Tod�
     minėtosios kunigaikštystės dalį, kuri jam atiteko, atidavė labdarybės tikslais Teutonų
     ordino broliams Prūsijoje.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -71,6 +115,7 @@ Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Tod�
     be galo nuostabūs dalykai: vaikai stojo prieš savo tėvą dėl šio žiaurumo, su kuriuo jis
     žemino tikėjimą ir tikinčiuosius!
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -90,11 +135,65 @@ Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Tod�
     veiksmų, kuriems galėtų pagal įstatymus ryžtis šioje kunigaikštystėje jie patys ar jų
     palikuonys, ir išdavė tuo reikalu broliams raštus, kuriuos patvirtino savo antspaudais.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-60693
+  citata_originali: |
+    213 (208). Apie tai, kaip buvo palikta Poterbergo pilis ir pastatyta Mevės pilis
+
+      Sventopelkas, kadaise Pomeranijos kunigaikštis, apie kurį jau esame anksčiau kalbėję,
+    turėjo keturis sūnus: pirmagimį Mstivojų, kurį, kaip esame sakę, buvo davęs kaip įkaitą,
+    Samborą, Vartislavą bei dar vieną507. Vartislavas įstojo į Teutonų ordiną broliu ir anksčiau
+    minėtosios kunigaikštystės dalį, kuri jam atiteko, atidavė labdarybės tikslais Teutonų
+    ordino broliams Prūsijoje.
+  citata_rodoma: "Apie tai, kaip buvo palikta Poterbergo pilis ir pastatyta Mevės pilis\n\n  Sventopelkas, kadaise Pomeranijos kunigaikštis, apie kurį jau esame anksčiau kalbėję,\nturėjo keturis sūnus: pirmagimį Mstivojų, kurį, kaip esame sakę, buvo davęs kaip įkaitą,\nSamborą, Vartislavą bei dar vieną507. Vartislavas įstojo į Teutonų ordiną broliu ir anksčiau\nminėtosios kunigaikštystės dalį, kuri jam atiteko, atidavė labdarybės tikslais Teutonų\nordino broliams Prūsijoje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60061
+
+- id: c-60694
+  citata_originali: |
+    46(45). Apie Svečės pilies pastatymą ir jos užpuolimą
+
+      Todėl broliai, matydami, jog jiems gresia nauji karai, atsižadėjo Sartovicų pilies ir ją
+    su visa kuo perdavė savo bičiuliui Samborui, Sventopelko sūnui1. Kokie keisti, kokie
+    be galo nuostabūs dalykai: vaikai stojo prieš savo tėvą dėl šio žiaurumo, su kuriuo jis
+    žemino tikėjimą ir tikinčiuosius!
+  citata_rodoma: "Apie Svečės pilies pastatymą ir jos užpuolimą\n\n  Todėl broliai, matydami, jog jiems gresia nauji karai, atsižadėjo Sartovicų pilies ir ją\nsu visa kuo perdavė savo bičiuliui Samborui, Sventopelko sūnui1. Kokie keisti, kokie\nbe galo nuostabūs dalykai: vaikai stojo prieš savo tėvą dėl šio žiaurumo, su kuriuo jis\nžemino tikėjimą ir tikinčiuosius!"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60062
+
+- id: c-60695
+  citata_originali: |
+    Vartislavas įstojo į Teutonų ordiną broliu ir anksčiau
+    minėtosios kunigaikštystės dalį, kuri jam atiteko, atidavė labdarybės tikslais Teutonų
+    ordino broliams Prūsijoje. Samboras, matydamas, kad iš savo dalies negalėsiąs gyventi
+    taip iškilniai, kaip dera jo padėties žmogui, atidavė ją broliams, kad šie jį bei jo šeimyną
+    visa kuo aprūpintų. Tą patį padarė ir ketvirtas brolis, o kad šis dovanojimas butų teisėtas
+    ir amžinas, visi trys broliai pasižadėjo nekelti jokių teisinių ieškinių ir nesiimti faktinių
+    veiksmų, kuriems galėtų pagal įstatymus ryžtis šioje kunigaikštystėje jie patys ar jų
+    palikuonys, ir išdavė tuo reikalu broliams raštus, kuriuos patvirtino savo antspaudais.
+  citata_rodoma: "Samboras, matydamas, kad iš savo dalies negalėsiąs gyventi\ntaip iškilniai, kaip dera jo padėties žmogui, atidavė ją broliams, kad šie jį bei jo šeimyną\nvisa kuo aprūpintų. Tą patį padarė ir ketvirtas brolis, o kad šis dovanojimas butų teisėtas\nir amžinas, visi trys broliai pasižadėjo nekelti jokių teisinių ieškinių ir nesiimti faktinių\nveiksmų, kuriems galėtų pagal įstatymus ryžtis šioje kunigaikštystėje jie patys ar jų\npalikuonys, ir išdavė tuo reikalu broliams raštus, kuriuos patvirtino savo antspaudais."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60063
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Sventopelkas]]

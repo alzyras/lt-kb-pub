@@ -17,6 +17,18 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'XX a.'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Gintautas Jakštys
 
@@ -29,9 +41,22 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 <a id="claim-t-40615"></a>
 - t-001
   global_id: t-40615
-  teiginys: 'Gintautas Jakštys gimė 1971 m. ir baigė Vilniaus pedagoginio universiteto Istorijos fakultetą.'
+  teiginys: "Gintautas Jakštys gimė 1971 m. ir baigė Vilniaus pedagoginio universiteto Istorijos fakultetą."
+  temporaliniai_duomenys: "įvykio data: 1971 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1075419-1075684; hash=4c8ea98b36501f2ffd51b2ca935100f25c3dca3c7eb9a94cc113bef38bc77870; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gintautas Jakštys: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gintautas Jakštys\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-42405
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
 ## Reikšmingi paminėjimai
 
@@ -44,8 +69,24 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     rolo Jono Žemaičio LKA, Karo istorijos centro viršininkas. Domė-
     jimosi ir tyrinėjimo laukas - Lietuvos karyba nuo seniausių laikų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-42405
+  citata_originali: |
+    Gintautas Jakštys (gimęs 1971 m.), baigė Vilniaus pedagoginio uni-
+    versiteto Istorijos fakultetą. Lietuvos kariuomenės majoras. Gene-
+    rolo Jono Žemaičio LKA, Karo istorijos centro viršininkas. Domė-
+    jimosi ir tyrinėjimo laukas - Lietuvos karyba nuo seniausių laikų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40615

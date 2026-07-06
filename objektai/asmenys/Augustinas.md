@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Augustinas
 
@@ -19,9 +31,12 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
 <a id="claim-t-60241"></a>
 - t-001
   global_id: t-60241
-  teiginys: 'Dusburgiečio pasakojime šventasis Augustinas sapne žingsniavo brolių priekyje kartu su Bernardu, Domininku ir Pranciškumi.'
+  teiginys: "Dusburgiečio pasakojime šventasis Augustinas sapne žingsniavo brolių priekyje kartu su Bernardu, Domininku ir Pranciškumi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "249654-249879; hash=b4c2b7fc6660bb9c4d74b57fd09792e8c0a4bb4028d894b94598180b584011d7; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
+    - c-60873
 - susijęs iš [[objektai/asmenys/Egidijus.md#claim-t-60271|Egidijus (arkivyskupas, XIV a.)]]: Egidijus buvo augustinų ordino mokytojas, o popiežius Bonifacas VIII jį paskyrė Beri arkivyskupu.
 - susijęs iš [[objektai/asmenys/Valerijonas Protasevičius.md#claim-t-114003|Valerijonas Protasevičius (vyskupas)]]: Vilniaus vyskupas Valerijonas Protasevičius paprieštaravo, kad į sutartį būtų įtraukta sąlyga dėl Augustino tikėjimo laisvo išpažinimo.
 - susijęs iš [[objektai/asmenys/Šventasis Augustinas.md#claim-t-190121|Šventasis Augustinas]]: Narbutas rašė, kad Šventasis Augustinas kryžiaus ženklą siejo su egiptiečių amžinojo gyvenimo vaizdavimu.
@@ -50,8 +65,23 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
     Augustiną, žingsniuojančius jo brolių priekyje, kurių jis su ašaromis maldaute maldavo
     priimti ir jį į savo bendrininkus, tačiau jie visi atsisakė.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-60873
+  citata_originali: |
+    Šitaip sugalvojęs, pamatė sapne šventuosius Bernardą, Domininką, Pranciškų ir
+    Augustiną, žingsniuojančius jo brolių priekyje, kurių jis su ašaromis maldaute maldavo
+    priimti ir jį į savo bendrininkus, tačiau jie visi atsisakė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60241

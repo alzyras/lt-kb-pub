@@ -18,6 +18,18 @@ tags:
 amziai:
   - 'XV'
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Rusėnų Biblija
 
@@ -30,10 +42,22 @@ Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustuvinin
 <a id="claim-t-78138"></a>
 - t-001
   global_id: t-78138
-  teiginys: '1517–1519 m. Prahoje Pranciškus Skorina parengė ir išspausdino psalmyną ir 22 Senojo Testamento knygas bendru pavadinimu „Rusėnų Biblija“.'
+  teiginys: "1517–1519 m. Prahoje Pranciškus Skorina parengė ir išspausdino psalmyną ir 22 Senojo Testamento knygas bendru pavadinimu „Rusėnų Biblija“."
+  temporaliniai_duomenys: "įvykio data: 1517-1519; įvykio data: 1519 m.; įvykio data: 1522 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys ir tiksliai remiasi citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "110368-110768; hash=ea8ea2af0a189e66ba1ee5dd30118064869bd6c4df20d5180680c22265a75f47; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusėnai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rusėnų Biblija: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Rusėnai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusėnų Biblija\" parinktas kaip owner_note_path. Targetas \"Rusėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-75446
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -47,8 +71,26 @@ Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustuvinin
     psalmyną ir 22 Senojo Testamento knygas bendru pavadinimu „Rusėnų
     Biblija“. 1522 m. jis įkūrė spaustuvę Vilniuje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-75446
+  citata_originali: |
+    Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustu-
+    vininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus
+    Skorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten me-
+    dicinos daktaro laipsnį, 1517–1519 m. Prahoje parengęs ir išspausdinęs
+    psalmyną ir 22 Senojo Testamento knygas bendru pavadinimu „Rusėnų
+    Biblija“. 1522 m. jis įkūrė spaustuvę Vilniuje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78138

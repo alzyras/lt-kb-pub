@@ -8,6 +8,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Liudvikas
 
@@ -18,19 +30,39 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
 ## Teiginiai
 
 <a id="claim-t-63883"></a>
-- t-001
+- t-003
   global_id: t-63883
-  teiginys: 'Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Galiciją.'
+  teiginys: "Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Galiciją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "388902-389222; hash=2544a861a2a19789312a3830e1aee6c138537a64ad92c455fd5dd936a7331c15; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Galicija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Liudvikas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Galicija: mention_match, place, gap=47"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liudvikas\" parinktas kaip owner_note_path. Targetas \"Galicija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-36431
 
 <a id="claim-t-63884"></a>
 - t-002
   global_id: t-63884
-  teiginys: 'Lenkų karalius Liudvikas mirė nepalikęs nė vieno įpėdinio.'
+  teiginys: "Lenkų karalius Liudvikas mirė nepalikęs nė vieno įpėdinio."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "366453-366710; hash=d583808220aaf5204272572cc703da8017f06e9fd8fde5d1021dd221555aae50; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Liudvikas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=15"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liudvikas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-    - c-003
+    - c-36430
+    - c-64806
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176422|Jadvyga Jogailienė]]: Karalius Liudvikas savo karalystes paskyrė dukterims Jadvygai ir Marijai.
 - susijęs iš [[objektai/asmenys/Liudvikas (Torunės komtūras).md#claim-t-186063|Liudvikas (Torunės komtūras)]]: Torunės komtūras Liudvikas kurstė brolių nesantaiką ir skatino Švitrigailą nebijoti karo su lenkais.
 - susijęs iš [[objektai/asmenys/Liudvikas (Čekijos karalius).md#claim-t-186144|Liudvikas (Čekijos karalius)]]: Liudvikas raitas atjojo į susitikimą, kuriame pagerbė Maksimilijoną kaip tėvą ir valdovą.
@@ -46,6 +78,8 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
 - susijęs iš [[objektai/asmenys/Markvardas iš Revelingės.md#claim-t-60383|Markvardas iš Revelingės]]: Markvardas iš Revelingės su Liudviku iš Libencelės, dviem broliais ir 26 ginklanešiais užpuolė plėšikautojus ir 25 jų nukovė.
 - susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-59827|Skomantas]]: Skomantas pamėgo į nelaisvę patekusį Liudviką iš Libencelės ir nusivedė jį į Sūduvos diduomenės puotą.
 - susijęs iš [[objektai/asmenys/Ulrichas Bajeris.md#claim-t-60070|Ulrichas Bajeris]]: Ulrichas Bajeris, Tepliavos komtūras, žuvo mūšyje, kuriame taip pat krito keturi vyrai, o Liudvikas iš Libencelės pateko į nelaisvę.
+- susijęs iš [[objektai/autoriai/Augustas Liudvikas fon Slėceris.md#claim-t-191570|Augustas Liudvikas fon Slėceris]]: Augustas Liudvikas fon Slėceris skaitė formą „satrium“ ir ją lygino su lietuvišku žodžiu „lihtars“.
+- susijęs iš [[objektai/autoriai/Augustas Liudvikas fon Slėceris.md#claim-t-191571|Augustas Liudvikas fon Slėceris]]: Narbutas svarstė, kad Augustas Liudvikas fon Slėceris galbūt nesilankė prie Baltijos, bet galėjo remtis gerais senovės šaltiniais.
 - susijęs iš [[objektai/daiktai/Rykštės.md#claim-t-187814|Rykštės]]: 1850 m. pasakojime rykštės minimos kaip priemonė, kuria viešai išplaktas Teodoro Narbuto sūnus Liudvikas.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175107|Sūduviai-jotvingiai]]: Skomantas, sūduvių vadas, gavo belaisvį Liudviką iš Libencelės ir pamėgo jį dėl drąsos.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175138|Sūduviai-jotvingiai]]: Brolis Liudvikas iš Libencelės atvedė magistrui Konradui Kantigirdą ir 1600 sūduvių, kuriuos nelaisvėje buvo atvertęs į Kristaus tikėjimą.
@@ -91,6 +125,7 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
     įpėdinio. Bet jam pavyko dvi savo karalystes — Vengrų ir Len­
     kijos — paskirti savo dviem dukterim: Jadvygai ir Marijai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -108,6 +143,7 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
     lovą iš čia pavarė: jam už tai davė Valdyti Kujaviją, esančią
     kitame Vislos krante priešais Dobrynę.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -125,11 +161,61 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
     Tuo laiku mirė lenkų karalius Liudvikas, nepalikęs nė vieno
     įpėdinio.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-36430
+  citata_originali: |
+    Susidėjo tokios aplinkybės, kad dėl to ilgai galvos laužyt
+    niekam nereikėjo.
+    Tuo laiku mirė lenkų karalius Liudvikas, nepalikęs nė vieno
+    įpėdinio. Bet jam pavyko dvi savo karalystes — Vengrų ir Len­
+    kijos — paskirti savo dviem dukterim: Jadvygai ir Marijai.
+  citata_rodoma: "Tuo laiku mirė lenkų karalius Liudvikas, nepalikęs nė vieno\nįpėdinio. Bet jam pavyko dvi savo karalystes — Vengrų ir Len­\nkijos — paskirti savo dviem dukterim: Jadvygai ir Marijai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-63884
+
+- id: c-36431
+  citata_originali: |
+    Tą žemę Kazimieras III buvo atidavęs
+    Vladislovui iš Opolės. Tas pats Vladislovas buvo paskirtas
+    Lenkų ir Vengrų karaliaus Liudviko valdyti Galiciją. Kadangi
+    Liudvikas norėjo tą žemę prijungti prie Vengrijos, tai Vladis­
+    lovą iš čia pavarė: jam už tai davė Valdyti Kujaviją, esančią
+    kitame Vislos krante priešais Dobrynę.
+  citata_rodoma: "Tas pats Vladislovas buvo paskirtas\nLenkų ir Vengrų karaliaus Liudviko valdyti Galiciją. Kadangi\nLiudvikas norėjo tą žemę prijungti prie Vengrijos, tai Vladis­\nlovą iš čia pavarė: jam už tai davė Valdyti Kujaviją, esančią\nkitame Vislos krante priešais Dobrynę."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-63883
+
+- id: c-64806
+  citata_originali: |
+    Tik čia tvirtai stovėjo Lietuva, ir dėl tų žemių
+    reikėjo kaip nors su ja susitarti.
+    Susidėjo tokios aplinkybės, kad dėl to ilgai galvos laužyt
+    niekam nereikėjo.
+    Tuo laiku mirė lenkų karalius Liudvikas, nepalikęs nė vieno
+    įpėdinio.
+  citata_rodoma: "Tuo laiku mirė lenkų karalius Liudvikas, nepalikęs nė vieno\nįpėdinio."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-63884
 
 ## Ryšiai
 - Dukterys: [[objektai/asmenys/Jadvyga Jogailienė]]

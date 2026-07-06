@@ -218,9 +218,11 @@ article table.advanced-claims-table {
 
 .claim-technical-audit {
   margin: 0 0 0.85rem;
-  padding: 0.65rem 0.75rem;
-  border: 1px solid color-mix(in srgb, var(--gray) 18%, transparent);
-  background: color-mix(in srgb, var(--light) 88%, var(--gray) 4%);
+  padding: 0.7rem 0.8rem;
+  border: 1px solid color-mix(in srgb, var(--secondary) 18%, transparent);
+  border-left: 3px solid color-mix(in srgb, var(--secondary) 48%, transparent);
+  border-radius: 6px;
+  background: color-mix(in srgb, var(--light) 82%, var(--secondary) 4%);
 
   h4 {
     margin: 0 0 0.5rem;
@@ -350,20 +352,31 @@ article blockquote {
   margin: 0.5rem 0 1.15rem;
   border-collapse: collapse;
   font-size: 0.82rem;
+  table-layout: fixed;
 
   th,
   td {
-    padding: 0.35rem 0.5rem;
-    border: 1px solid var(--lightgray);
+    padding: 0.45rem 0.55rem;
+    border: 1px solid color-mix(in srgb, var(--gray) 14%, transparent);
     vertical-align: top;
+    overflow-wrap: anywhere;
   }
 
   th {
-    width: 11rem;
-    color: var(--gray);
-    font-weight: 700;
+    width: min(13rem, 34%);
+    background: color-mix(in srgb, var(--light) 72%, var(--gray) 5%);
+    color: var(--darkgray);
+    font-size: 0.72rem;
+    font-weight: 800;
+    letter-spacing: 0.055em;
     text-align: left;
-    white-space: nowrap;
+    text-transform: uppercase;
+    white-space: normal;
+  }
+
+  td {
+    color: var(--darkgray);
+    line-height: 1.45;
   }
 
   pre {

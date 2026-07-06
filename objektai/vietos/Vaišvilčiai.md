@@ -10,6 +10,18 @@ tags:
   - mūšis
   - ordinas
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vaišvilčiai
 
@@ -22,9 +34,20 @@ tags:
 <a id="claim-t-32629"></a>
 - t-001
   global_id: t-32629
-  teiginys: 'Salyno akte ordinui tenkančių žemių siena nuo Vaišvilčių kaimo Nevėžio aukštupyje pratęsta Mūšos upe, Smardonės upeliu ir Apaščios ežeru.'
+  teiginys: "Salyno akte ordinui tenkančių žemių siena nuo Vaišvilčių kaimo Nevėžio aukštupyje pratęsta Mūšos upe, Smardonės upeliu ir Apaščios ežeru."
+  semantiniai_rysiai: "Kryžiuočių ordinas užkariavo Sūduva (0.78)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "892258-892732; hash=11da21660daab3f63a95e375f3013dd1bf77a4ba462017802523e7969d69649a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzkariavo -> Sūduva: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Sūduva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje Sūduva vadinama ordino anksčiau nukariautu kraštu."
   pagrindžia:
-    - c-001
+    - c-34069
 - susijęs iš Mūša: Salyno akte ordinui tenkančių žemių riba nuo Vaišvilčių kaimo buvo pratęsta Mūšos upe, Smardonės upeliu ir Apaščios ežeru.
 - susijęs iš [[objektai/ivykiai/Salyno sutartis.md#claim-t-66870|Salyno sutartis]]: Salyno aktu Vytautas užleido ordinui visus Žemaičius, o akte pirmą kartą apytikriai nužymėtos ordinui tenkančių žemių sienos.
 - susijęs iš Užsienio Lietuvių Spaudos Metraštis: „Užsienio Lietuvių Spaudos Metraštis“ rodyklėje nurodytas 17 puslapyje.
@@ -49,8 +72,30 @@ tags:
     lavo ir žymią dalį Sūduvos dykros, į kurią, kaip į jo paties XIII
     amž. gale nukariautą kraštą, vis reiškė pretenzijas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-34069
+  citata_originali: |
+    Salyno akte pirmą kartą apytikriai
+    buvo nužymėtos ordinui tenkančių žemių sienos. Žemaičiuose jos
+    ėjo Nevėžio tėkme, o jo aukštupyje nuo Vaišvilčių kaimo buvo
+    pratęstos (Mūšos upe, Smardonės upeliu, Apaščios ežeru, netoli
+    dabartinių Biržų), paskui tiesiai į šiaurę iki Pskovo respublikos
+    valdų.
+    Gaudamas Žemaičius iki Nevėžio, ordinas pirmą kartą išreika­
+    lavo ir žymią dalį Sūduvos dykros, į kurią, kaip į jo paties XIII
+    amž. gale nukariautą kraštą, vis reiškė pretenzijas.
+  citata_rodoma: "Žemaičiuose jos\nėjo Nevėžio tėkme, o jo aukštupyje nuo Vaišvilčių kaimo buvo\npratęstos (Mūšos upe, Smardonės upeliu, Apaščios ežeru, netoli\ndabartinių Biržų), paskui tiesiai į šiaurę iki Pskovo respublikos\nvaldų.\nGaudamas Žemaičius iki Nevėžio, ordinas pirmą kartą išreika­\nlavo ir žymią dalį Sūduvos dykros, į kurią, kaip į jo paties XIII\namž."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-32629

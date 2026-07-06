@@ -16,6 +16,18 @@ amziai:
   - 'XII'
 periodo_grupes:
   - 'viduramžiai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Balduinas (Flandrijos grafas)
 
@@ -28,10 +40,20 @@ Dusburgietis teigia, kad ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi
 <a id="claim-t-60244"></a>
 - t-001
   global_id: t-60244
-  teiginys: 'Po Konstantinopolio užėmimo Balduinas, Flandrijos grafas, tapo imperatoriumi, o lotynai miestą valdė 57 metus.'
+  teiginys: "Po Konstantinopolio užėmimo Balduinas, Flandrijos grafas, tapo imperatoriumi, o lotynai miestą valdė 57 metus."
+  semantiniai_rysiai: "Lotynai valdė miestą Konstantinopolis (0.92)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "692161-692591; hash=11c8f5d2039245f5d7608166d31cc3250371ccc06e56f0d1a507dbe4c3f82009; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_miesta -> Konstantinopolis: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lotynai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Konstantinopolis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad lotynai ten valdė 57 metus."
   pagrindžia:
-    - c-001
-
+    - c-60876
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,8 +68,27 @@ Dusburgietis teigia, kad ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi
     apgavo miestiečius. Ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi, ir valdė ten
     lotynai 57 metus (Ptol. 21,4; Mart. p. 387).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-60876
+  citata_originali: |
+    Apie Konstantinopolio miesto užėmimą
+
+      1200 viešpaties metais Konstantinopolio miestą, kuriam buvę išpranašauta, jog
+    niekas kitas jo negalėsiąs užkariauti, tiktai angelas, užėmė prancūzai ir Venecijos kariai,
+    įsiveržę pro sieną, ant kurios buvęs nupieštas angelas. Netikras angelo kvietimas  ir
+    apgavo miestiečius. Ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi, ir valdė ten
+    lotynai 57 metus (Ptol. 21,4; Mart. p. 387).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60244

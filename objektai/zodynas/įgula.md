@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # įgula
 
@@ -17,16 +29,44 @@ Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir s
 <a id="claim-t-185371"></a>
 - t-001
   global_id: t-185371
-  teiginys: 'Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir sugriovė arba sudegino įtvirtinimus.'
+  teiginys: "Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir sugriovė arba sudegino įtvirtinimus."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Skomantas užėmė Gardinas (0.96)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "267286-267637; hash=9e5a1d474a5a30ea10687499e7e0a5f866cec07554ae6c1bfa0fd224b82f3c7a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Gardinas: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skomantas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Gardinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad Skomantas paėmė Gardino pilį."
   pagrindžia:
-    - c-001
+    - c-168732
 
 <a id="claim-t-185372"></a>
 - t-002
   global_id: t-185372
-  teiginys: 'Surminas per gautą atokvėpį išvedė iš pilies įgulą ir išgabeno vertingiausius daiktus.'
+  teiginys: "Surminas per gautą atokvėpį išvedė iš pilies įgulą ir išgabeno vertingiausius daiktus."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Surminas pastatė Kolainiai (0.80)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "277507-278287; hash=15dd4d0909112c8e589718c058f9d984c5730c41912aea818b5dc2c6e1ba31f6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Kolainiai: 0.80"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Surminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kolainiai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo, kad Kolainių pilis buvo Surmino iš naujo atstatyta; tai prilyginta pastatymo ryšiui."
   pagrindžia:
-    - c-002
+    - c-168733
 - susijęs iš [[objektai/asmenys/Jonas Olesnickis.md#claim-t-82432|Jonas Olesnickis]]: Jonas Olesnickis su visa įgula netikėtai užpuolė vokiečius ir sudavė jiems skaudų smūgį.
 - susijęs iš [[objektai/asmenys/Jonas Olesnickis.md#claim-t-82436|Jonas Olesnickis]]: Jonas Olesnickis su įgula surengė netikėtą išpuolį prieš vokiečius ir sudavė jiems skaudų smūgį.
 - susijęs iš [[objektai/asmenys/Kazimieras Sapiega.md#claim-t-49420|Kazimieras Sapiega]]: Vakare Kazimiero Sapiegos vadovaujamos artilerijos baterijos dengiama Vilniaus įgula atsitraukė per Žaliąjį tiltą.
@@ -126,6 +166,7 @@ Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir s
     tūkstančiai raitelių, pasklidusių niokoti kraštą, išsivarė
     didžiulį grobį.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -155,8 +196,55 @@ Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir s
     munu prieš srovę į Lietuvą, ir jau buvo bepraplaukią
     Kolainių pilį, Surmino iš naujo atstatytą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-168732
+  citata_originali: |
+    Ramiai
+    praslinkus pavasariui, vasaros pradžioje prasidėjo nau­
+    ji susirėmimai. Skomantas, neseniai pabėgęs į Prūsiją,
+    netikėtai patraukė su prūsų kariais Gardino kryptimi.
+    Po kruvino antpuolio jis paėmė Gardino pilį, išžudė
+    įgulą, sugriovė arba sudegino visus įtvirtinimus; du
+    tūkstančiai raitelių, pasklidusių niokoti kraštą, išsivarė
+    didžiulį grobį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185371
+
+- id: c-168733
+  citata_originali: |
+    J 63
+
+    ## Puslapis 162
+
+    kariuomene skuba lietuviai, norėdami pralaužti apsup­
+    tį, jie ėmė šaukti, kad štai čia pat priešas, metė supę
+    pilį ir galvotrūkčiais leidosi bėgti prie laivų. Vėliau,
+    sužinoję, jog apsiriko, sugrįžo prie pilies, bet Surmi-
+    nas tinkamai išnaudojo gautą atokvėpį: išvedė iš pilies
+    įgulą ir išgabeno vertingiausius daiktus; priešas, už­
+    ėmęs tuščią pilį ir sugriovęs gynybinius įrenginius, ne­
+    drįso toliau veržtis. Šiek tiek vėliau Ernekė, Ragainės
+    komtūras, ieškodamas progos karui ar pataikaudamas,
+    kaip priduria senieji rašytojai, kažkokiam iš Vienos
+    kilusiam kryžiuočiui, troškusiam pamatyti priešų kraš­
+    tą, su rinktiniais kryžiuočių ordino vyrais plaukė Ne­
+    munu prieš srovę į Lietuvą, ir jau buvo bepraplaukią
+    Kolainių pilį, Surmino iš naujo atstatytą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185372

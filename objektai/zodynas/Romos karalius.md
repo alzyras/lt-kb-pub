@@ -9,6 +9,18 @@ tags:
   - karalius
   - popiežius
   - sąvoka
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Romos karalius
 
@@ -19,18 +31,38 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
 ## Teiginiai
 
 <a id="claim-t-36751"></a>
-- t-001
+- t-002
   global_id: t-36751
-  teiginys: 'Romos karalius laikytas galinčiu karūnuoti ir kurti karalystes be popiežiaus.'
+  teiginys: "Romos karalius laikytas galinčiu karūnuoti ir kurti karalystes be popiežiaus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "556740-557330; hash=e1f611adc6cb88c457a83c22dc97dbc9567afd982046fdfe7536f1bd882f0775; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Romos karalius: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romos karalius\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-38710
 
 <a id="claim-t-36752"></a>
-- t-002
+- t-001
   global_id: t-36752
-  teiginys: 'Krokuvos profesoriai teigė, kad Romos karalius Zigmantas negalėjo suteikti karūnos, nes pats nebuvo gavęs ciesoriaus titulo iš popiežiaus.'
+  teiginys: "Krokuvos profesoriai teigė, kad Romos karalius Zigmantas negalėjo suteikti karūnos, nes pats nebuvo gavęs ciesoriaus titulo iš popiežiaus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "555781-556203; hash=0e265d97c96e772de19dcea8fca668142e60a034c6e159f8f95bccb6172ccfa2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Romos karalius: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romos karalius\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-38711
 - susijęs iš [[objektai/asmenys/Benediktas XI.md#claim-t-60246|Benediktas XI]]: 1303 m. valdė popiežius Benediktas XI, brolių pamokslininkų ordino vienuolis, ir Romos karalius Albrechtas.
 - susijęs iš [[objektai/asmenys/Henrikas VI.md#claim-t-184084|Henrikas VI]]: Henrikas VI buvo Romos karalius ir būsimasis imperatorius, kurio prašyta kreiptis į popiežių dėl ligoninės patvirtinimo.
 - susijęs iš [[objektai/asmenys/Henrikas VI.md#claim-t-63622|Henrikas VI]]: Henrikas VI buvo Romos karalius ir būsimasis imperatorius, kurio prašyta kreiptis į popiežių dėl ligoninės patvirtinimo.
@@ -65,6 +97,7 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
     priduoda daugiau valdžios, o tiktai pašventina, padaro kilnesnį
     karūnacijos aktą^2 ).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -82,8 +115,48 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
     Zb. Olesnickio, to universiteto rektoriaus, inspiruotą nuomo­
     nę, atsakė Zigmanto pavedamas Dr. Baptistą Cigala.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-38710
+  citata_originali: |
+    Bet Krokuvos profesoriai Romos karalių teisę kitų karū­
+    nuot pripažino nepakankama, nes tuo atveju ji esanti žemesnė
+    už popiežiaus teises. Cigala antrame savo atsakyme gina, kad
+    karūnacijai atlikti nereikalingas popiežiaus patvirtinimas. Ro­
+    mos karalius turįs teisę karūnuot ir kurti karalystes be popie­
+    žiaus, jis galįs atlikt viską, kas liečia išviršinę pusę — dekoraci­
+    ją. į klausimą, ar po karūnacijos turi įvykti ir konsekracija, tas
+    pats Cigala atsako, kad pastaroji, būdama bažnytiniu aktu, ne­
+    priduoda daugiau valdžios, o tiktai pašventina, padaro kilnesnį
+    karūnacijos aktą^2 ).
+  citata_rodoma: "Ro­\nmos karalius turįs teisę karūnuot ir kurti karalystes be popie­\nžiaus, jis galįs atlikt viską, kas liečia išviršinę pusę — dekoraci­\nją. į klausimą, ar po karūnacijos turi įvykti ir konsekracija, tas\npats Cigala atsako, kad pastaroji, būdama bažnytiniu aktu, ne­\npriduoda daugiau valdžios, o tiktai pašventina, padaro kilnesnį\nkarūnacijos aktą^2 )."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36751
+
+- id: c-38711
+  citata_originali: |
+    Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­
+    leisdami raštą, kuriame jie įrodinėjo, kad Zigmantas, Romos
+    karalius, neturįs teisės niekam suteikt karūnos, nes jis pats nė­
+    ra gavęs iš popiežiaus ciesoriaus titulo. Teisę karūnuot tetu­
+    rįs tiktai pats popiežius. į tą Krokuvos profesorių, be abejo
+    Zb. Olesnickio, to universiteto rektoriaus, inspiruotą nuomo­
+    nę, atsakė Zigmanto pavedamas Dr. Baptistą Cigala.
+  citata_rodoma: "Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­\nleisdami raštą, kuriame jie įrodinėjo, kad Zigmantas, Romos\nkaralius, neturįs teisės niekam suteikt karūnos, nes jis pats nė­\nra gavęs iš popiežiaus ciesoriaus titulo. Teisę karūnuot tetu­\nrįs tiktai pats popiežius. į tą Krokuvos profesorių, be abejo\nZb."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36752

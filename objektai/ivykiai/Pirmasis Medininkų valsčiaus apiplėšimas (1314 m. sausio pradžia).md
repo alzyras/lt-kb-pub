@@ -13,6 +13,18 @@ tags:
   - ivykis
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Pirmasis Medininkų valsčiaus apiplėšimas (1314 m. sausio pradžia)
 
@@ -39,19 +51,41 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-59395"></a>
-- t-001
+- t-002
   global_id: t-59395
-  teiginys: 'Per pirmąjį Medininkų valsčiaus apiplėšimą užpuolikai nusiaubė valsčių, nužudė arba paėmė į nelaisvę septynis šimtus žmonių ir grįžo su grobiu.'
+  teiginys: "Per pirmąjį Medininkų valsčiaus apiplėšimą užpuolikai nusiaubė valsčių, nužudė arba paėmė į nelaisvę septynis šimtus žmonių ir grįžo su grobiu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "647783-648176; hash=eaae356c849873a746a9067bbe5cacdf3f5f75658ae267e1c9f7c29bbd3d6d77; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Medininkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pirmasis Medininkų valsčiaus apiplėšimas (1314 m. sausio pradžia): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Medininkai: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pirmasis Medininkų valsčiaus apiplėšimas (1314 m. sausio pradžia)\" parinktas kaip owner_note_path. Targetas \"Medininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-60028
 
 <a id="claim-t-59396"></a>
-- t-002
+- t-001
   global_id: t-59396
-  teiginys: '1314 m. sausio pradžioje maršalas Henrikas su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių.'
+  teiginys: "1314 m. sausio pradžioje maršalas Henrikas su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių."
+  temporaliniai_duomenys: "įvykio data: 1314 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir atitinka citatoje pateiktą laiką, veikėjus ir vietą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "647348-647919; hash=d1545523848d4e8f0a8309fe37792e5bff1b921183851081177db5e4f4a13caa; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Medininkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pirmasis Medininkų valsčiaus apiplėšimas (1314 m. sausio pradžia): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Medininkai: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pirmasis Medininkų valsčiaus apiplėšimas (1314 m. sausio pradžia)\" parinktas kaip owner_note_path. Targetas \"Medininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-60027
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -66,6 +100,7 @@ Nenurodyta
     karšto tikėjimo ir tvirtai pasikliaudami viešpačiu, jie iki galo padarė visa, ko buvo ėmęsi
     mūsų dievo Jėzaus Kristaus garbei.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -87,8 +122,48 @@ Nenurodyta
 
                             321 (314).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-60027
+  citata_originali: |
+    1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats
+    brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų
+    valsčių569; keli lietuviai, naktį įsibrovę į jo palapines, nužudė 4 vyrus ir išsivarė du arklius,
+    todėl krikščionių kariuomenė kiaurą naktį nematė ramybės. Vis dėlto šitai neįbaugino
+    brolių taip smarkiai, kad jie nors kiek būtų uždelsę pradėtąjį viešpaties darbą. Skatinami
+    karšto tikėjimo ir tvirtai pasikliaudami viešpačiu, jie iki galo padarė visa, ko buvo ėmęsi
+    mūsų dievo Jėzaus Kristaus garbei.
+  citata_rodoma: "1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats\nbrolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų\nvalsčių569; keli lietuviai, naktį įsibrovę į jo palapines, nužudė 4 vyrus ir išsivarė du arklius,\ntodėl krikščionių kariuomenė kiaurą naktį nematė ramybės. Vis dėlto šitai neįbaugino\nbrolių taip smarkiai, kad jie nors kiek būtų uždelsę pradėtąjį viešpaties darbą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-59396
+
+- id: c-60028
+  citata_originali: |
+    Skatinami
+    karšto tikėjimo ir tvirtai pasikliaudami viešpačiu, jie iki galo padarė visa, ko buvo ėmęsi
+    mūsų dievo Jėzaus Kristaus garbei. Štai todėl kitą dieną jie įsiveržė į minėtąjį valsčių ir
+    per tris mylias į vieną bei kitą pusę jį nusiaubė, degindami bei piešdami, o nužudę bei
+    paėmę į nelaisvę septynis šimtus žmonių, sugrįžo namo su dideliu grobiu.
+
+
+
+
+                            321 (314).
+  citata_rodoma: "Štai todėl kitą dieną jie įsiveržė į minėtąjį valsčių ir\nper tris mylias į vieną bei kitą pusę jį nusiaubė, degindami bei piešdami, o nužudę bei\npaėmę į nelaisvę septynis šimtus žmonių, sugrįžo namo su dideliu grobiu.\n\n\n\n\n                        321 (314)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-59395

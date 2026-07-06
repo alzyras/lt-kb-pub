@@ -13,6 +13,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas
 
@@ -43,33 +55,74 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-05368"></a>
-- t-001
+- t-004
   global_id: t-05368
-  teiginys: 'Kalavijuočių ordiną stiprino Popiežiaus privilegijų skatinami iš Vokietijos atvykstantys kryžininkai.'
+  teiginys: "Kalavijuočių ordiną stiprino Popiežiaus privilegijų skatinami iš Vokietijos atvykstantys kryžininkai."
+  temporaliniai_duomenys: "įvykio data: 1202-1203; įvykio data: 1203 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "461997-462389; hash=174d58d924827a2a70bf76fa4a88825ca2cf7de8c18f8d766e0aac3e4efc319c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vokietija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vokietija: mention_match, place, gap=3"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas\" parinktas kaip owner_note_path. Targetas \"Vokietija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-05451
 
 <a id="claim-t-10819"></a>
-- t-002
+- t-005
   global_id: t-10819
-  teiginys: 'Livonijos ordino aplinkoje buvo įprasta kviesti svečius iš Vokietijos ir skelbti specialius kryžiaus žygius.'
+  teiginys: "Livonijos ordino aplinkoje buvo įprasta kviesti svečius iš Vokietijos ir skelbti specialius kryžiaus žygius."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "hash=8742cec55cca146333f80e6d666035e763689538cabf5d1363001b5b348510b5; match=not_found; occurrences=0"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kryžius: mention_match, thing, gap=36"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas\" parinktas kaip owner_note_path. Targetas \"Kryžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-00237
 
 <a id="claim-t-10820"></a>
-- t-003
+- t-006
   global_id: t-10820
-  teiginys: 'Ordinui prašant popiežius Vakaruose skelbdavo kryžiaus karus, kad į pagalbą plauktų minios karių.'
+  teiginys: "Ordinui prašant popiežius Vakaruose skelbdavo kryžiaus karus, kad į pagalbą plauktų minios karių."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "107008-107257; hash=bab10324795bd29c9ff38fc4c245451afa2b5ad8f96ae125a4441432ed93570f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aisčiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Aisčiai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas\" parinktas kaip owner_note_path. Targetas \"Aisčiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-00238
 
 <a id="claim-t-10821"></a>
-- t-004
+- t-007
   global_id: t-10821
-  teiginys: 'Vakarų pagalbos kvietimas tapo ordino gynimosi ir puolimo praktika.'
+  teiginys: "Vakarų pagalbos kvietimas tapo ordino gynimosi ir puolimo praktika."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "102476-102740; hash=274f5595be694639bd3f0a8a69cd6434b8c7640a87968c18818c6e787235da65; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kryžius: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas\" parinktas kaip owner_note_path. Targetas \"Kryžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
-
+    - c-00239
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -81,6 +134,7 @@ Nenurodyta
     lūs kryžiaus žygiai. Tačiau visos akcijos centras jau buvo ordi-
     nas. Jo pareiga buvo ginti krikščionys ir padėti atversti pagonys.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -96,6 +150,7 @@ Nenurodyta
     karus, ir ordinui į talką plaukdavo minios karių. Iš Palestinos or-
     dinas atsinešė į aisčių kraštą ir kariavimo būdą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -111,6 +166,7 @@ Nenurodyta
     iš to nieko neišėjo, nes atvykę kryžeiviai miškuose prūsų negalė-
     davo surasti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -128,8 +184,72 @@ Nenurodyta
     legijų skatinami, iš Vokietijos atvykstantieji kryžininkai didino naujo
     ordino prieauglių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-00237
+  citata_originali: |
+    Naujasis ordinas turėjo būti nuolatinė organizuota vokiečių
+    ir krikštytų čiabuvių karinė pajėga. Neišnyko nė senas paprati-
+    mas kviesti svečius iš Vokietijos; buvo pradėti skelbti net specia-
+    lūs kryžiaus žygiai. Tačiau visos akcijos centras jau buvo ordi-
+    nas. Jo pareiga buvo ginti krikščionys ir padėti atversti pagonys.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-10819
+
+- id: c-00238
+  citata_originali: |
+    Be
+    riterių, ordinas turėjo ir paprastų kareivių, vadinamų jų tarnais.
+    Be to, ordino prašomas popiežius skelbdavo Vakaruose kryžiaus
+    karus, ir ordinui į talką plaukdavo minios karių. Iš Palestinos or-
+    dinas atsinešė į aisčių kraštą ir kariavimo būdą.
+  citata_rodoma: "Be to, ordino prašomas popiežius skelbdavo Vakaruose kryžiaus karus,\nir ordinui į talką plaukdavo minios karių. Iš Palestinos or-\ndinas atsinešė į aisčių kraštą ir kariavimo būdą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-10820
+
+- id: c-00239
+  citata_originali: |
+    Vyskupas nebeturėjo nei tikinčiųjų nei prieglaudos. Tada,
+    Livonijos vyskupų pavyzdžiu, ir čia pradėta šauktis Vakarų pa-
+    galbos. Buvo paskelbta Vakaruose net keletas kryžiaus žygių,bet
+    iš to nieko neišėjo, nes atvykę kryžeiviai miškuose prūsų negalė-
+    davo surasti.
+  citata_rodoma: "Livonijos vyskupų pavyzdžiu, ir čia pradėta šauktis Vakarų pa-\ngalbos. Buvo paskelbta Vakaruose net keletas kryžiaus žygių,bet\niš to nieko neišėjo, nes atvykę kryžeiviai miškuose prūsų negalė-\ndavo surasti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-10821
+
+- id: c-05451
+  citata_originali: |
+    Pagal Palestinoje
+    su turkais kovojančių templininkų statutą, vyskupo priklausomybėje
+    1202-1203 m. žiemą buvo įkurtas kalavijuočių ordinas ( _Fratres Militiae
+    Christi_ ). Jojo nariai ( _Schwertbrueder_ ) ant savo balto apsiausto, be
+    raudono kryžiaus, nešiojo dar išsiuvinėtą kalaviją. Popiežiaus privi­
+    legijų skatinami, iš Vokietijos atvykstantieji kryžininkai didino naujo
+    ordino prieauglių.
+  citata_rodoma: "Popiežiaus privi­\nlegijų skatinami, iš Vokietijos atvykstantieji kryžininkai didino naujo\nordino prieauglių."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05368

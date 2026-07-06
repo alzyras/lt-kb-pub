@@ -17,6 +17,18 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Gundramas
 
@@ -29,16 +41,60 @@ Dusburgietis teigia, kad apie brolio Gundramo bei daugelio lietuvių žūtį 130
 <a id="claim-t-60298"></a>
 - t-001
   global_id: t-60298
-  teiginys: '1302 m. brolis Gundramas persekiojo prie Kristburgo plėšikavusius lietuvius, kovėsi po sunkaus sužeidimo ir po kovos mirė.'
+  teiginys: "1302 m. brolis Gundramas persekiojo prie Kristburgo plėšikavusius lietuvius, kovėsi po sunkaus sužeidimo ir po kovos mirė."
+  semantiniai_rysiai: "Gundramas kariavo prieš Lietuviai (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1302 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys yra nutrūkęs ir triukšmingas; citata palaiko aiškų faktinį sakinį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "608615-609416; hash=053bb09ddd9200a38a13b4258a8bb2323921ccf4ba51abcc37a902cab7da8c07; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Lietuviai: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gundramas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Kova su lietuviais tiesiogiai matoma iš aprašymo apie jų išžudymą po susirėmimo."
   pagrindžia:
-    - c-001
+    - c-60930
 
 <a id="claim-t-184075"></a>
 - t-002
   global_id: t-184075
-  teiginys: '1302 m. Gundramas su 9 ginklanešiais vijosi lietuvių plėšikautojus, prie Kristburgo pagrobusius dešimt žmonių ir dešimt arklių.'
+  teiginys: "1302 m. Gundramas su 9 ginklanešiais vijosi lietuvių plėšikautojus, prie Kristburgo pagrobusius dešimt žmonių ir dešimt arklių."
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Gundramas kariavo prieš Lietuviai (0.79)"
+  temporaliniai_duomenys: "įvykio data: 1302 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, konkretus ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "608615-609416; hash=053bb09ddd9200a38a13b4258a8bb2323921ccf4ba51abcc37a902cab7da8c07; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Lietuviai: 0.79"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gundramas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Gundramas vijosi lietuvių plėšikautojus karinio susidūrimo kontekste."
   pagrindžia:
-    - c-001
+    - c-60930
+
+<a id="claim-t-194485"></a>
+- t-003
+  global_id: t-194485
+  teiginys: "Apie brolio Gundramo bei daugelio lietuvių žūtį 1302 metais Tais metais brolis Gundramas, nedidelio stoto, tačiau be galo narsus ir drąsus žmogus, persekiojo su 9 ginklanešiais iš Lietuvos atsibeldusius plėšikautojus, kurie Kristburgo pilies apylinkėse buvo."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "608615-609416; hash=053bb09ddd9200a38a13b4258a8bb2323921ccf4ba51abcc37a902cab7da8c07; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-60930
 - susijęs iš [[objektai/ivykiai/Brolio Gundramo ir daugelio lietuvių žūtis prie Kristburgo (1302 m.).md#claim-t-62753|Brolio Gundramo ir daugelio lietuvių žūtis prie Kristburgo (1302 m.)]]: 1302 m. brolis Gundramas prie Kristburgo persekiojo lietuvių plėšikautojus, buvo mirtinai sužeistas ir žuvo išžudžius lietuvius.
 - susijęs iš [[objektai/ivykiai/Brolio Gundramo ir daugelio lietuvių žūtis prie Kristburgo (1302 m.).md#claim-t-62754|Brolio Gundramo ir daugelio lietuvių žūtis prie Kristburgo (1302 m.)]]: Dusburgietis pasakoja, kad Gundramo išvaduotos moterys virš į Kristburgą gabentų jo palaikų sakėsi mačiusios du baltus balandžius.
 - susijęs iš [[objektai/zodynas/dykra.md#claim-t-89546|dykra]]: Dykrose brolis Gundramas su 9 ginklanešiais užpuolė iš Lietuvos atvykusius plėšikautojus.
@@ -66,12 +122,43 @@ Dusburgietis teigia, kad apie brolio Gundramo bei daugelio lietuvių žūtį 130
 
          282 (275).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+    - t-003
+
+## Citatos
+
+- id: c-60930
+  citata_originali: |
+    Apie brolio Gundramo bei daugelio lietuvių žūtį 1302 metais
+
+       Tais metais brolis Gundramas, nedidelio stoto, tačiau be galo narsus ir drąsus žmogus,
+    persekiojo su 9 ginklanešiais iš Lietuvos atsibeldusius plėšikautojus, kurie Kristburgo
+    pilies apylinkėse buvo pagrobę dešimt žmonių ir tiek pat arklių; kai juos dykrose užpuolė,
+    pirmajame susirėmime vienas lietuvis ietimi  jį taip sužeidė, kad išleido jam vidurius,
+    tačiau jis nepaliovė kovojęs, kol visi lietuviai buvo išžudyti, o tada parkrito žemėn ir
+    pasimirė. Kai  jį mirusį ginklanešiai gabeno  į Kristburgo pilį, moterys, kurias jis buvo
+    išvadavęs iš netikėlių vergovės, sakėsi mačiusios du baltus balandžius, sklandančius ore
+    virš jo palaikų; jam sustojus, jie sustodavę vietoje, jam pajudėjus, vėl skrisdavę kaip
+    skridę.
+
+
+
+
+         282 (275).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60298
+    - t-184075
+    - t-194485
 
 ## Ryšiai
 - Gundramas puolė [[objektai/grupes/Lietuviai]]

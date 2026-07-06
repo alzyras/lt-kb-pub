@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - transportas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Aleksandro lektika
 
@@ -39,9 +51,20 @@ Nenurodyta
 <a id="claim-t-54484"></a>
 - t-001
   global_id: t-54484
-  teiginys: 'Galutinai paliegęs Aleksandras lektikoje buvo nugabentas į Vilnių, jį lydint Elenai, Vilniaus vyskupui Vaitiekui Taborui, Jonui Zabžezinskiui ir Jonui Laskiui.'
+  teiginys: "Galutinai paliegęs Aleksandras lektikoje buvo nugabentas į Vilnių, jį lydint Elenai, Vilniaus vyskupui Vaitiekui Taborui, Jonui Zabžezinskiui ir Jonui Laskiui."
+  semantiniai_rysiai: "Aleksandras keliavo į Vilnius (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "474960-475472; hash=d58a2c066455c2f635ebb59fca3e2839e1c72782097837084768a9aa2e16598c; match=whitespace_regex"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Aleksandras: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Aleksandras buvo nugabentas į Vilnių."
   pagrindžia:
-    - c-001
+    - c-55371
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82181|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis, nusilpęs po ligos, iš Lydos buvo nugabentas į Vilnių, kai prie Lydos artėjo Krymo totoriai.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-54960|Elena (vyskupas, XV–XVI a.)]]: Karalienė Elena lydėjo paliegusį Aleksandrą, kai jis buvo vežamas į Vilnių.
 - susijęs iš [[objektai/asmenys/Jonas Laskis.md#claim-t-87725|Jonas Laskis]]: Karalystės kancleris Jonas Laskis lydėjo į Vilnių lektikoje gabenamą paliegusį karalių Aleksandrą.
@@ -65,8 +88,31 @@ Nenurodyta
     Taboras, Jonas Zabžezinskis ir Karalystės kancleris Jonas
     Laskis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-55371
+  citata_originali: |
+    Tačiau neilga buvo karaliaus vieš­
+    nagė šioje pilyje, kadangi, vos dienai praėjus, pakeliui
+    piešdami ir degindami, prie Lydos prisiartino Krymo cha­
+    no sūnūs su 20 000 totorių. Kilo didelis pavojus karaliaus
+    saugumui, tad Aleksandras, ponų patarimu, kariuomenei
+    vadovauti pavedęs etmonui Kiškai ir kunigaikščiui Glins­
+    kiui, pats galutinai paliegęs lektikoje buvo nugabentas į Vil­
+    nių. Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus
+    Taboras, Jonas Zabžezinskis ir Karalystės kancleris Jonas
+    Laskis.
+  citata_rodoma: "Kilo didelis pavojus karaliaus \nsaugumui, tad Aleksandras, ponų patarimu, kariuomenei \nvadovauti pavedęs etmonui Kiškai ir kunigaikščiui Glins­\nkiui, pats galutinai paliegęs lektikoje buvo nugabentas į Vil­\nnių. Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus \nTaboras, Jonas Zabžezinskis ir Karalystės kancleris Jonas \nLaskis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54484

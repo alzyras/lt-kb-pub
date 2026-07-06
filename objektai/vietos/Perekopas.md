@@ -21,6 +21,18 @@ tags:
 amziai:
   - 'XV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Perekopas
 
@@ -31,32 +43,107 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
 ## Teiginiai
 
 <a id="claim-t-98771"></a>
-- t-001
+- t-003
   global_id: t-98771
-  teiginys: '1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu.'
+  teiginys: "1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu."
+  temporaliniai_duomenys: "įvykio data: 1443 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo datą, vietą, veikėją ir paskelbimo rezultatą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "564259-564675; hash=9a757080890f07216fdae0aaa083318d7ef1749fd911eb7c4c04f928877c748a; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Chadži Girėjus: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Perekopas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Chadži Girėjus: mention_match, person, gap=43"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Perekopas\" parinktas kaip owner_note_path. Targetas \"Chadži Girėjus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-92960
 
 <a id="claim-t-98772"></a>
-- t-002
+- t-004
   global_id: t-98772
-  teiginys: 'Perekopu vadinosi Krime atsiradusio Perekopo chanato sostinės pilis.'
+  teiginys: "Perekopu vadinosi Krime atsiradusio Perekopo chanato sostinės pilis."
+  temporaliniai_duomenys: "įvykio data: 1480 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "386309-386613; hash=6492df00d4f075574a298fc2e43cda3551bc37c507f469f626025bbb4cdef7d5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krimas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Perekopas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Krimas: mention_match, place, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Perekopas\" parinktas kaip owner_note_path. Targetas \"Krimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-92962
+
+<a id="claim-t-98771"></a>
+- t-003
+  global_id: t-98771
+  teiginys: "1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu."
+  temporaliniai_duomenys: "įvykio data: 1443 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo datą, vietą, veikėją ir paskelbimo rezultatą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "564259-564675; hash=9a757080890f07216fdae0aaa083318d7ef1749fd911eb7c4c04f928877c748a; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Chadži Girėjus: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Perekopas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Chadži Girėjus: mention_match, person, gap=43"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Perekopas\" parinktas kaip owner_note_path. Targetas \"Chadži Girėjus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  pagrindžia:
+    - c-92960
 
 <a id="claim-t-183071"></a>
-- t-004
+- t-005
   global_id: t-183071
-  teiginys: 'Krime susikūrė Perekopo chanatas, kurio sostinės pilis buvo vadinama Perekopu.'
+  teiginys: "Krime susikūrė Perekopo chanatas, kurio sostinės pilis buvo vadinama Perekopu."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "386226-386506; hash=9d69d6756a9097a89af0b231626a34d6963c0cbe308bf3021dacbc8bfd574a5c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Auksinė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Perekopas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Auksinė: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Perekopas\" parinktas kaip owner_note_path. Targetas \"Auksinė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-003
+    - c-166462
 
 <a id="claim-t-187631"></a>
 - t-005
   global_id: t-187631
-  teiginys: 'Perekopo vardas siejamas su senovėje gynybos tikslais grioviu perkasta sąsmauka, jungiančia Krymą su žemynu.'
+  teiginys: "Perekopo vardas siejamas su senovėje gynybos tikslais grioviu perkasta sąsmauka, jungiančia Krymą su žemynu."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "564259-564675; hash=9a757080890f07216fdae0aaa083318d7ef1749fd911eb7c4c04f928877c748a; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krymas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Perekopas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Krymas: mention_match, place, gap=92"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Perekopas\" parinktas kaip owner_note_path. Targetas \"Krymas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-004
+    - c-170578
 - susijęs iš [[objektai/asmenys/Chadži Girėjus.md#claim-t-87642|Chadži Girėjus]]: 1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu.
 - susijęs iš [[objektai/asmenys/Šach Achmedas.md#claim-t-87418|Šach Achmedas]]: Šach Achmedas, Perekopo ordos chanas ir Mendli Girėjaus priešas, savo pajėgomis rėmė lietuvius.
 - susijęs iš [[objektai/grupes/Perekopo orda.md#claim-t-86767|Perekopo orda]]: Perekopo ordos chanas Šach Achmedas savo pajėgomis rėmė lietuvius prieš Mendli Girėjų.
@@ -110,6 +197,7 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
     įžūliai griovė, žemai lenkėsi prieš galingojo Kazimiero sos­
     tą38.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -127,6 +215,7 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
     totorių (1480 m.), ir vienintelis galingas jos konkurentas liko
     Lietuva.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -145,8 +234,9 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
     nės pilis). Jonas III su naujuoju chanu padarė sąjungą ir su-
     naikino Auksinę Ordą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
@@ -163,8 +253,80 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
     kiškai — Aukso vartai), kurią atnaujino Krymo chanas Mengll-Girė-
     ju s (1468— 1515 m.).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
+## Citatos
+
+- id: c-92960
+  citata_originali: |
+    Daug jų vyko
+    pačiame Vilniuje35, o vienas, 1464 metų, įsimintinas įstaty­
+    mų, veikusių iki Lietuvos Statuto, paskelbimu visai valsty­
+    bei36. Čia, Vilniuje (1443 metais), totorių pasiuntinių
+    prašymu, caras Chadži Girėjus buvo iškilmingai paskelb­
+    tas Perekopo chanu. Čia 1448 metais su Prūsijos ordinu su­
+    daryta37 garsi sutartis, o po dvidešimties metų (1468 me­
+    tais) pats didžiojo magistro pavaduotojas Henrikas Plauenas
+    toje Lietuvos sostinėje, kurios sienas jo pirmtakai kadaise
+    įžūliai griovė, žemai lenkėsi prieš galingojo Kazimiero sos­
+    tą38.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-98773
+    - t-98771
+
+- id: c-92962
+  citata_originali: |
+    Tuo metu totorių Auksinė Orda suskilo, ir Krime atsi-
+    rado kitas — Perekopo chanatas (Perekopu vadinosi jų sosti-
+    nės pilis). Jonas III su naujuoju chanu padarė sąjungą ir su-
+    naikino Auksinę Ordą. Tuo būdu Maskva atsipalaidavo nuo
+    totorių (1480 m.), ir vienintelis galingas jos konkurentas liko
+    Lietuva.
+  citata_rodoma: "Tuo metu totorių Auksinė Orda suskilo, ir Krime atsi-\nrado kitas — Perekopo chanatas (Perekopu vadinosi jų sosti-\nnės pilis)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-98772
+
+- id: c-166462
+  citata_originali: |
+    Nuo jo laikų pra-
+    sidėjo Lietuvos nepasisekimai ir traukimasis atgal nuo Maskvos.
+
+    Tuo metu totorių Auksinė Orda suskilo, ir Krime atsi-
+    rado kitas — Perekopo chanatas (Perekopu vadinosi jų sosti-
+    nės pilis). Jonas III su naujuoju chanu padarė sąjungą ir su-
+    naikino Auksinę Ordą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183071
+
+- id: c-170578
+  citata_originali: |
+    27 Perckopas — slaviškas pavadinimas sąsmaukos, jungiančios
+    Krymo pusiasalį su žemynu. Dar senovėje gynybos tikslais ši są­
+    smauka siauriausioje vietoje perkasta grioviu (iš to ir Perekopo
+    vardas). Perekopu vadinamas taip  pat miestas siauriausioje sąsm au­
+    kos vietoje, atsiradęs iš tvirtovės Ferch-Kermen arba Or-Kapl (tur­
+    kiškai — Aukso vartai), kurią atnaujino Krymo chanas Mengll-Girė-
+    ju s (1468— 1515 m.).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187631

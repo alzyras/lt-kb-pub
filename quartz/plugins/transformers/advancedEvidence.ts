@@ -18,6 +18,12 @@ const ADVANCED_KEYS = new Set([
   "temporaliniai_duomenys",
   "temporalinis_paaiskinimas",
   "temporalinis_llm_pakomentavimas",
+  "šaltinio_profilis",
+  "saltinio_profilis",
+  "irodymo_stiprumas",
+  "saltinio_vieta",
+  "sprendimo_priezastis",
+  "atnaujinimo_run_id",
   "ryšio_patikimumas",
   "ryšio_patikimumo_lygis",
   "ryšio_patikimumo_priezastys",
@@ -33,6 +39,68 @@ const ADVANCED_KEYS = new Set([
   "pagrindžia",
   "global_id",
 ])
+const ADVANCED_LABELS = new Map<string, string>([
+  ["global_id", "Globalus ID"],
+  ["teiginio_tipas", "Teiginio tipas"],
+  ["patikimumo_lygis", "Patikimumas"],
+  ["patikimumo_saltinis", "Patikimumo šaltinis"],
+  ["patikimumo_pagrindimas", "Patikimumo pagrindas"],
+  ["sudarymo_pagrindimas", "Teiginio sudarymas"],
+  ["susije_objektai", "Susiję objektai"],
+  ["semantiniai_rysiai", "Ryšiai"],
+  ["temporaliniai_duomenys", "Laikotarpiai"],
+  ["temporalinis_paaiskinimas", "Laiko paaiškinimas"],
+  ["temporalinis_llm_pakomentavimas", "Laiko interpretacija"],
+  ["šaltinio_profilis", "Šaltinio profilis"],
+  ["saltinio_profilis", "Šaltinio profilis"],
+  ["irodymo_stiprumas", "Įrodymo stiprumas"],
+  ["saltinio_vieta", "Citatos vieta šaltinyje"],
+  ["sprendimo_priezastis", "Sprendimo priežastis"],
+  ["ryšio_patikimumas", "Ryšio patikimumas"],
+  ["ryšio_patikimumo_lygis", "Ryšio patikimumo lygis"],
+  ["ryšio_patikimumo_priezastys", "Ryšio patikimumo priežastys"],
+  ["ryšio_sprendimo_taisykle", "Ryšio taisyklė"],
+  ["ryšio_subjekto_parinkimas", "Ryšio subjektas"],
+  ["ryšio_targeto_parinkimas", "Ryšio objektas"],
+  ["ryšio_slopinti_kandidatai", "Atmesti ryšio kandidatai"],
+  ["ryšio_paaiskinimas", "Ryšio paaiškinimas"],
+  ["ai_siulomas_patikimumas", "AI siūlomas patikimumas"],
+  ["ai_siulymo_pagrindimas", "AI siūlymo pagrindas"],
+  ["vertinimo_atnaujinta", "Atnaujinta"],
+  ["vertinimo_autorius", "Atnaujino"],
+  ["atnaujinimo_run_id", "Run ID"],
+  ["citata_originali", "Originali citata"],
+])
+const CLAIM_ADVANCED_KEYS = [
+  "teiginio_tipas",
+  "patikimumo_lygis",
+  "patikimumo_saltinis",
+  "patikimumo_pagrindimas",
+  "sudarymo_pagrindimas",
+  "susije_objektai",
+  "semantiniai_rysiai",
+  "temporaliniai_duomenys",
+  "temporalinis_paaiskinimas",
+  "temporalinis_llm_pakomentavimas",
+  "šaltinio_profilis",
+  "saltinio_profilis",
+  "irodymo_stiprumas",
+  "saltinio_vieta",
+  "sprendimo_priezastis",
+  "ryšio_patikimumas",
+  "ryšio_patikimumo_lygis",
+  "ryšio_patikimumo_priezastys",
+  "ryšio_sprendimo_taisykle",
+  "ryšio_subjekto_parinkimas",
+  "ryšio_targeto_parinkimas",
+  "ryšio_slopinti_kandidatai",
+  "ryšio_paaiskinimas",
+  "ai_siulomas_patikimumas",
+  "ai_siulymo_pagrindimas",
+  "vertinimo_atnaujinta",
+  "vertinimo_autorius",
+  "atnaujinimo_run_id",
+]
 const QUOTE_DISPLAY_KEY = "citata_rodoma"
 const QUOTE_ORIGINAL_KEY = "citata_originali"
 const QUOTE_LEGACY_DISPLAY_KEY = "citata"
@@ -106,6 +174,10 @@ function markdownText(text: string): string {
 
 function advancedCell(text: string): string {
   return escapeHtml(text).replace(/\r?\n/g, "<br>")
+}
+
+function advancedLabel(key: string): string {
+  return ADVANCED_LABELS.get(key) ?? key
 }
 
 function normalizeLabelKey(label: string): string {
@@ -449,39 +521,19 @@ function claimAdvancedRows(entry: EvidenceEntry, resolveIndex: SlugResolveIndex)
   const rows: string[] = []
   const globalId = entry.fields.get("global_id")
   if (globalId) {
-    rows.push(`<tr><th>global_id</th><td>${escapeHtml(markdownText(globalId))}</td></tr>`)
+    rows.push(`<tr><th>${escapeHtml(advancedLabel("global_id"))}</th><td>${escapeHtml(markdownText(globalId))}</td></tr>`)
   }
-  for (const key of [
-    "teiginio_tipas",
-    "patikimumo_lygis",
-    "patikimumo_saltinis",
-    "patikimumo_pagrindimas",
-    "sudarymo_pagrindimas",
-    "susije_objektai",
-    "semantiniai_rysiai",
-    "temporaliniai_duomenys",
-    "temporalinis_paaiskinimas",
-    "temporalinis_llm_pakomentavimas",
-    "ryšio_patikimumas",
-    "ryšio_patikimumo_lygis",
-    "ryšio_patikimumo_priezastys",
-    "ryšio_sprendimo_taisykle",
-    "ryšio_subjekto_parinkimas",
-    "ryšio_targeto_parinkimas",
-    "ryšio_slopinti_kandidatai",
-    "ryšio_paaiskinimas",
-    "ai_siulomas_patikimumas",
-    "ai_siulymo_pagrindimas",
-    "vertinimo_atnaujinta",
-    "vertinimo_autorius",
-  ]) {
+  for (const key of CLAIM_ADVANCED_KEYS) {
     const value = entry.fields.get(key)
     if (value) {
       const rendered =
-        key === "susije_objektai" || key === "semantiniai_rysiai" || key === "temporaliniai_duomenys"
+        key === "susije_objektai" ||
+        key === "semantiniai_rysiai" ||
+        key === "temporaliniai_duomenys" ||
+        key === "saltinio_vieta"
           ? renderLinkifiedAdvancedCell(value, resolveIndex)
           : advancedCell(value)
-      rows.push(`<tr><th>${escapeHtml(key)}</th><td>${rendered}</td></tr>`)
+      rows.push(`<tr><th>${escapeHtml(advancedLabel(key))}</th><td>${rendered}</td></tr>`)
     }
   }
   return rows
@@ -611,39 +663,19 @@ function advancedRows(
   const rows: string[] = []
   const original = entry.fields.get(QUOTE_ORIGINAL_KEY) ?? ""
   if (original && original.trim() !== displayedQuote.trim()) {
-    rows.push(`<tr><th>citata_originali</th><td>${advancedCell(original)}</td></tr>`)
+    rows.push(`<tr><th>${escapeHtml(advancedLabel("citata_originali"))}</th><td>${advancedCell(original)}</td></tr>`)
   }
-  for (const key of [
-    "teiginio_tipas",
-    "patikimumo_lygis",
-    "patikimumo_saltinis",
-    "patikimumo_pagrindimas",
-    "sudarymo_pagrindimas",
-    "susije_objektai",
-    "semantiniai_rysiai",
-    "temporaliniai_duomenys",
-    "temporalinis_paaiskinimas",
-    "temporalinis_llm_pakomentavimas",
-    "ryšio_patikimumas",
-    "ryšio_patikimumo_lygis",
-    "ryšio_patikimumo_priezastys",
-    "ryšio_sprendimo_taisykle",
-    "ryšio_subjekto_parinkimas",
-    "ryšio_targeto_parinkimas",
-    "ryšio_slopinti_kandidatai",
-    "ryšio_paaiskinimas",
-    "ai_siulomas_patikimumas",
-    "ai_siulymo_pagrindimas",
-    "vertinimo_atnaujinta",
-    "vertinimo_autorius",
-  ]) {
+  for (const key of CLAIM_ADVANCED_KEYS) {
     const value = entry.fields.get(key)
     if (value) {
       const rendered =
-        key === "susije_objektai" || key === "semantiniai_rysiai" || key === "temporaliniai_duomenys"
+        key === "susije_objektai" ||
+        key === "semantiniai_rysiai" ||
+        key === "temporaliniai_duomenys" ||
+        key === "saltinio_vieta"
           ? renderLinkifiedAdvancedCell(value, resolveIndex)
           : escapeHtml(markdownText(value))
-      rows.push(`<tr><th>${escapeHtml(key)}</th><td>${rendered}</td></tr>`)
+      rows.push(`<tr><th>${escapeHtml(advancedLabel(key))}</th><td>${rendered}</td></tr>`)
     }
   }
   return rows

@@ -9,6 +9,18 @@ tags:
   - sutartis
   - sąvoka
   - valstybė
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # suverenas
 
@@ -21,10 +33,19 @@ Tik Jogaila šiaip taip sugebėjo išvengti tą padėtį juridiškai formuluoti,
 <a id="claim-t-36842"></a>
 - t-001
   global_id: t-36842
-  teiginys: 'Jogaila vengė juridiškai įtvirtinti padėtį, kurioje Vytautas būtų laikomas tikruoju Lietuvos suverenu.'
+  teiginys: "Jogaila vengė juridiškai įtvirtinti padėtį, kurioje Vytautas būtų laikomas tikruoju Lietuvos suverenu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "396773-397248; hash=202d8428b7f3b2d1c9214c385e217b379cc0fff3b4d2126db9505303b79deeb3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "suverenas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=93"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"suverenas\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-38765
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -39,8 +60,29 @@ Tik Jogaila šiaip taip sugebėjo išvengti tą padėtį juridiškai formuluoti,
     juridiškai formuluoti, nenorėdamas, kad Vytautas būtų laikomas
     tikruoju Lietuvos suverenu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-38765
+  citata_originali: |
+    valdžia. Nors paskutiniąja sutartim Krėvės aktas ir nebuvo pa­
+    keistas, t. y. Lietuva ir toliau buvo laikoma inkorporuota į Len­
+    kiją, bet faktiška padėtis, Vytautui ėmus valdyti, pasidarė kito­
+    kia: Lietuva tapo autonomiška valstybė, o pats Vytautas — ne
+    koks „Storasta“ ar Jogailos vietininkas, bet faktiškasis Lietuvos
+    valdytojas. Tik Jogaila šiaip taip sugebėjo išvengti tą padėtį
+    juridiškai formuluoti, nenorėdamas, kad Vytautas būtų laikomas
+    tikruoju Lietuvos suverenu.
+  citata_rodoma: "Nors paskutiniąja sutartim Krėvės aktas ir nebuvo pa­\nkeistas, t. y. Lietuva ir toliau buvo laikoma inkorporuota į Len­\nkiją, bet faktiška padėtis, Vytautui ėmus valdyti, pasidarė kito­\nkia: Lietuva tapo autonomiška valstybė, o pats Vytautas — ne\nkoks „Storasta“ ar Jogailos vietininkas, bet faktiškasis Lietuvos\nvaldytojas. Tik Jogaila šiaip taip sugebėjo išvengti tą padėtį\njuridiškai formuluoti, nenorėdamas, kad Vytautas būtų laikomas\ntikruoju Lietuvos suverenu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36842

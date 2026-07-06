@@ -19,6 +19,18 @@ amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Rumbaudas
 
@@ -29,25 +41,61 @@ Lenkijos maršalkos Bartušo ir 6) Zavišos Juodojo (rašte minimas dar Lietuvos
 ## Teiginiai
 
 <a id="claim-t-182861"></a>
-- t-001
+- t-013
   global_id: t-182861
-  teiginys: 'Vytauto pareigūnas Rumbaudas su kitais bajorais persikėlė per Nevėžį ir nuo Surviliškio bei Krekenavos pradėjo užimti sukilusį kraštą.'
+  teiginys: "Vytauto pareigūnas Rumbaudas su kitais bajorais persikėlė per Nevėžį ir nuo Surviliškio bei Krekenavos pradėjo užimti sukilusį kraštą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "915058-915505; hash=60804368537f848b2239958e2de792fd7ac31afa6493de483cea2d7de95c527e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rumbaudas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rumbaudas\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-166265
 
 <a id="claim-t-184284"></a>
-- t-002
+- t-014
   global_id: t-184284
-  teiginys: 'Vytautas pasiuntė maršalką Rumbaudą ir Vilniaus vaivadą Gedgaudą į Lenčicą pas Jogailą.'
+  teiginys: "Vytautas pasiuntė maršalką Rumbaudą ir Vilniaus vaivadą Gedgaudą į Lenčicą pas Jogailą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "545502-545790; hash=98b7e9d04f61620815787b5893dc222ec7b68588b989e6bd7b6cb67ee1a89330; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenčica: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rumbaudas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lenčica: mention_match, place, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rumbaudas\" parinktas kaip owner_note_path. Targetas \"Lenčica\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-36494
 
 <a id="claim-t-184824"></a>
-- t-003
+- t-015
   global_id: t-184824
-  teiginys: 'Vytautas į Korčino seimą iš pradžių nusiuntė Lietuvos maršalą Rumbaudą ir Vilniaus vaivadą Goštautą.'
+  teiginys: "Vytautas į Korčino seimą iš pradžių nusiuntė Lietuvos maršalą Rumbaudą ir Vilniaus vaivadą Goštautą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "734185-734597; hash=3900cd2cc66b7cf5a72b549713666bceed1e1798d8ea22a4db3eb36e0dc9723e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rumbaudas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rumbaudas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-168185
 - susijęs iš [[objektai/asmenys/Radvila.md#claim-t-186171|Radvila]]: Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas imperatorių.
 - susijęs iš [[objektai/asmenys/Vasibutas.md#claim-t-30407|Vasibutas]]: Vasibutas su Rumbaudu ir kitais bajorais persikėlė per Nevėžį ir nuo Surviliškio bei Krekenavos pradėjo užimti sukilusį kraštą.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184875|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas su didikais Goštautu, Rumbaudu ir Radvila išvyko pas imperatorių.
@@ -67,6 +115,7 @@ Lenkijos maršalkos Bartušo ir 6) Zavišos Juodojo (rašte minimas dar Lietuvos
     poldum). Atvykę jie į Lenčicą (1429 VI. 18), įteikė Jogailai Vy­
     tauto laišką.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -85,6 +134,7 @@ Lenkijos maršalkos Bartušo ir 6) Zavišos Juodojo (rašte minimas dar Lietuvos
     bajoras « Clawssegail » 1390 Karaliaučiuje su kitais Žemaičių kilmin­
     gaisiais buvo pažadėjęs remti į ordiną pabėgusį Vytautą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -107,11 +157,66 @@ Lenkijos maršalkos Bartušo ir 6) Zavišos Juodojo (rašte minimas dar Lietuvos
     Luomų susirinkime jie trumpai, bet aiškiai išdėstė val­
     dovo reikalavimus.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-36494
+  citata_originali: |
+    Kai sužinojo, kad kryžiuočių
+    pasiuntinys, Tomo komtūras, atvyko pas Jogailą į Lenčicą, pa­
+    siuntė ten ir Vytautas savo delegatus: Vilniaus vaivadą (palati­
+    num) Gedgaudą (Gedigoldum) ir maršalką Rumbaudą (Rum­
+    poldum). Atvykę jie į Lenčicą (1429 VI. 18), įteikė Jogailai Vy­
+    tauto laišką.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184284
+
+- id: c-166265
+  citata_originali: |
+    Grūdų sulaikymas Vytautui akivaizdžiai parodė, ką reiškė
+    neturėjimas Nemuno žiočių, ir tai paskatino jį veikti. Jo pareigū­
+    nas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­
+    sigaila, Vasibutas) persikėlė per Nevėžį ir nuo Surviliškio — Kreke­
+    navos pradėjo užimti sukilusį kraštą. Įdomu tai, kad Raseinių
+    bajoras « Clawssegail » 1390 Karaliaučiuje su kitais Žemaičių kilmin­
+    gaisiais buvo pažadėjęs remti į ordiną pabėgusį Vytautą.
+  citata_rodoma: "Jo pareigū­\nnas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­\nsigaila, Vasibutas) persikėlė per Nevėžį ir nuo Surviliškio — Kreke­\nnavos pradėjo užimti sukilusį kraštą. Įdomu tai, kad Raseinių\nbajoras « Clawssegail » 1390 Karaliaučiuje su kitais Žemaičių kilmin­\ngaisiais buvo pažadėjęs remti į ordiną pabėgusį Vytautą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182861
+
+- id: c-168185
+  citata_originali: |
+    Po to prasidėjo ilgos tarpusavio rietenos, kurias
+    nuolat kurstė ir Vytautas, ir
+    lenkai, siuntinėdami žygūnus:
+    Lietuvos didysis kunigaikštis
+    stengėsi iš lenkų išgauti suti­
+    kimą, o šie — priversti Vy­
+    tautą atsisakyti savo sumany­
+    mo. Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­
+    niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.
+    Luomų susirinkime jie trumpai, bet aiškiai išdėstė val­
+    dovo reikalavimus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184824
 
 ## Ryšiai
 - Rumbaudas kariavo prieš [[objektai/grupes/Kryžiuočių ordinas]]

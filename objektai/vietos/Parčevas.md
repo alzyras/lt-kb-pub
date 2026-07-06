@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Parčevas
 
@@ -17,9 +29,22 @@ Po trumpalaikių paliaubų valdovai pasižadėjo vykti į Parčevą tartis dėl 
 <a id="claim-t-185254"></a>
 - t-001
   global_id: t-185254
-  teiginys: 'Po trumpalaikių paliaubų valdovai pasižadėjo vykti į Parčevą tartis dėl amžinos taikos.'
+  teiginys: "Po trumpalaikių paliaubų valdovai pasižadėjo vykti į Parčevą tartis dėl amžinos taikos."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "767899-768333; hash=2d9b8d6b3c293059f2135bbe4c57c6ddf84ac3fef1dcfff67cde0908a0752742; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Parčevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Parčevas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-168615
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184533|Lenkai]]: Lenkų seimas susirinko Parčeve, o lietuvių seimas Breste; po ginčų nutarta susitikti Lomžoje.
 - susijęs iš [[objektai/ivykiai/Parčevo seimas.md#claim-t-186648|Parčevo seimas (seimas, XV a.)]]: Prieš Parčevo seimą didysis kunigaikštis Aleksandras su Elena ir didikais apžiūrėjo Rusų žemę, lankėsi Smolenske, Vitebske ir Polocke.
 - susijęs iš [[objektai/ivykiai/Parčevo seimas.md#claim-t-186649|Parčevo seimas (seimas, XV a.)]]: Lenkijos karaliaus Olbrachto ir Lietuvos didžiojo kunigaikščio Aleksandro atstovai per pasitarimą nutarė sušaukti seimą Parčeve.
@@ -57,11 +82,34 @@ Po trumpalaikių paliaubų valdovai pasižadėjo vykti į Parčevą tartis dėl 
     lius, nutraukęs apsiaustį ir paleidęs kariuomenę, nu­
     keliavo į Lvovą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-168615
+  citata_originali: |
+    Kai sužinojo, kad valachus Podolėje sumušė
+    Bučačo kunigaikščiai,
+    o
+    kryžiuočius prie Vieršos
+    upės išvaikė Didžiosios Lenkijos bajorai, jis, nebesiti­
+    kėdamas susilaukti pagalbos, nutarė paskubinti sutar­
+    ties sudarymą. Iš pradžių susitarė dėl trumpalaikių
+    paliaubų, vėliau abiejų šalių valdovai pasižadėjo nu­
+    vykti į Parčevą ir susitarti dėl amžinos taikos. Kara­
+    lius, nutraukęs apsiaustį ir paleidęs kariuomenę, nu­
+    keliavo į Lvovą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185254
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Aleksandras Jogailaitis]]

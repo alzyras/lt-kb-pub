@@ -14,6 +14,18 @@ tags:
   - mūšis
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)
 
@@ -36,33 +48,80 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-09884"></a>
-- t-001
+- t-008
   global_id: t-09884
-  teiginys: 'Per Ulos (Čašnikų) mūšį žuvo apie 8000–10000 maskvėnų, o P. Šuiskio kūnas buvo atvežtas į Vilnių ir palaidotas stačiatikių katedroje.'
+  teiginys: "Per Ulos (Čašnikų) mūšį žuvo apie 8000–10000 maskvėnų, o P. Šuiskio kūnas buvo atvežtas į Vilnių ir palaidotas stačiatikių katedroje."
+  semantiniai_rysiai: "Maskvėnai dalyvavo mūšyje Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.) (0.90)"
+  temporaliniai_duomenys: "mirties data: 1573 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys pagrįstas citatomis, tik aiškiau susietas su note objektu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "362084-362552; hash=4d22d5c14d581b7fe6cc9ee7ec79812f0837e37680ef0852e3e74ffca9a11375; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
+  ryšio_patikimumas: "dalyvavo_musyje -> Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.): 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Maskvėnai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.): llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Žuvusių maskvėnų skaičius tiesiogiai rodo jų dalyvavimą mūšyje."
   pagrindžia:
-    - c-004
-    - c-005
+    - c-11930
+    - c-11931
 
 <a id="claim-t-09885"></a>
-- t-002
+- t-006
   global_id: t-09885
-  teiginys: 'Per Ulos (Čašnikų) mūšį Lietuvos didysis etmonas sutelkė smūgį prieš maskvėnų artileriją ir šaulius, o išmušus juos iš pozicijų kilo sumaištis.'
+  teiginys: "Per Ulos (Čašnikų) mūšį Lietuvos didysis etmonas sutelkė smūgį prieš maskvėnų artileriją ir šaulius, o išmušus juos iš pozicijų kilo sumaištis."
+  semantiniai_rysiai: "Lietuviai dalyvavo mūšyje Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.) (0.86); Lietuviai puolė Maskvėnai (0.84)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "359175-359715; hash=cea108f27bc6c0bf929e5c13569d78b23ce75592fc38a6528bbcffd669bf6503; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
+  ryšio_patikimumas: "dalyvavo_musyje -> Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.): 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.): llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Lietuvių vėliavos pradėjo puolimą šiame mūšyje."
   pagrindžia:
-    - c-002
+    - c-11928
 
 <a id="claim-t-09886"></a>
-- t-003
+- t-007
   global_id: t-09886
-  teiginys: 'Mūšio pabaigoje maskvėnai buvo triuškinami, dalis jų skendo bandydami perplaukti Ulos upę.'
+  teiginys: "Mūšio pabaigoje maskvėnai buvo triuškinami, dalis jų skendo bandydami perplaukti Ulos upę."
+  semantiniai_rysiai: "Maskvėnai dalyvavo mūšyje Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.) (0.86)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "361274-361442; hash=1bf0deada170d67bea4f459c2ffb22ef1d4eebe2c9a8982e53c14b8950f21a56; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
+  ryšio_patikimumas: "dalyvavo_musyje -> Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.): 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Maskvėnai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.): llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Maskvėnai buvo mūšio pabaigos triuškinimo objektas, todėl jie dalyvavo Ulos mūšyje."
   pagrindžia:
-    - c-003
+    - c-11929
 
 <a id="claim-t-09887"></a>
-- t-004
+- t-005
   global_id: t-09887
-  teiginys: 'Petras Šuiskis pasirinko mūšio vietą prie Ulos upės netoli Čašnikų.'
+  teiginys: "Petras Šuiskis pasirinko mūšio vietą prie Ulos upės netoli Čašnikų."
+  semantiniai_rysiai: "Petras Šuiskis dalyvavo mūšyje Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.) (0.86); Petras Šuiskis kariavo prieš Lietuviai (0.73)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "352546-352959; hash=3033f0b2429839eab053d29c28f5739dc9e11548b631a77e47f60adee4a50656; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
+  ryšio_patikimumas: "dalyvavo_musyje -> Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.): 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Petras Šuiskis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.): llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Petras Šuiskis pasirinko Ulos mūšio vietą ir laukė lietuvių, todėl dalyvavo šiame mūšyje."
   pagrindžia:
-    - c-001
+    - c-11927
 - susijęs iš [[objektai/ivykiai/B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio.md#claim-t-41259|B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio (mūšis, XVI a.)]]: Po Ulos sutriuškinimo maskvėnai prarado iniciatyvą kare, o naujo didelio jų puolimo grėsmė išnyko.
 - susijęs iš [[objektai/ivykiai/B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio.md#claim-t-41260|B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio (mūšis, XVI a.)]]: Nepraėjus dviem savaitėms po Ulos mūšio, lietuviai beveik be mūšio sutriuškino B. Serebriano vedamą kariuomenę.
 - susijęs iš Ulos upė: P. Šuiskis pasirinko mūšio vietą lauke tarpumiškyje prie Ulos upės netoli Čašnikų.
@@ -93,6 +152,7 @@ Nenurodyta
     apie 25 km atstumą. P. Šuiskis išrikiavo
     savo kariuomenę ir laukė lietuvių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -119,6 +179,7 @@ Nenurodyta
     juos išmušti iš pozicijų, priešininkų ka-
     riuomenéje kilo sumaištis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -134,6 +195,7 @@ Nenurodyta
     skerdynės. Daug bėgančių rusų pa-
     skendo, bandydami perplaukti Ulos upę.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -159,6 +221,7 @@ Nenurodyta
     Taip pat nemaža kilmingųjų buvo paimta
     į nelaisvę.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -176,11 +239,115 @@ Nenurodyta
     daug Maskvos kariuomenės ginklų, šarvų,
     drabužių ir atsargų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-11927
+  citata_originali: |
+    Kariuomenės viena kitą pamatė sau-
+
+    sio 26 d. Žygyje gavęs žinių apie tai, kad lie-
+    tuviai ruošiasi jam užkirsti kelią, P. Šuiskis
+    pats pasirinko mūšio vietą - lauką tarpu-
+    miškyje prie Ulos upės netoli Čašnikų.
+    Prieš tai jo kariuomenė per tris-keturias
+    dienas buvo nukeliavusi apie 80 km, o lie-
+    tuvių kariuomenė mūšio išvakarėse įveikė
+    apie 25 km atstumą. P. Šuiskis išrikiavo
+    savo kariuomenę ir laukė lietuvių.
+  citata_rodoma: "Kariuomenės viena kitą pamatė sau-\n\nsio 26 d. Žygyje gavęs žinių apie tai, kad lie-\ntuviai ruošiasi jam užkirsti kelią, P. Šuiskis\npats pasirinko mūšio vietą - lauką tarpu-\nmiškyje prie Ulos upės netoli Čašnikų.\nPrieš tai jo kariuomenė per tris-keturias\ndienas buvo nukeliavusi apie 80 km, o lie-\ntuvių kariuomenė mūšio išvakarėse įveikė\napie 25 km atstumą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-09887
+
+- id: c-11928
+  citata_originali: |
+    Puolimą pradėjo kelios lietu-
+    vių vėliavos, pagrindinės jėgos
+    buvo paliktos lemiamam smūgiui.
+    P. Šuiskis kontratakavo, mėginda-
+    mas sustabdyti priešakinių lietuvių
+    pulkų puolimą, bet šie atlaikė mas-
+    kvėnų smūgius. Tuo pasinaudodamas
+    Lietuvos didysis etmonas metė į mūšį
+    visas jėgas, koncentruodamas smūgį
+    prieš maskvėnų artileriją (buvusios ke-
+    lios dešimtys patrankų, atrodo, net iš viso
+    nebuvo panaudotos, apie ką vėliau užsi-
+    minė Radvila Rudasis) ir šaulius. Pavykus
+    juos išmušti iš pozicijų, priešininkų ka-
+    riuomenéje kilo sumaištis.
+  citata_rodoma: "Puolimą pradėjo kelios lietu-\nvių vėliavos, pagrindinės jėgos\nbuvo paliktos lemiamam smūgiui.\nP. Šuiskis kontratakavo, mėginda-\nmas sustabdyti priešakinių lietuvių\npulkų puolimą, bet šie atlaikė mas-\nkvėnų smūgius. Tuo pasinaudodamas\nLietuvos didysis etmonas metė į mūšį\nvisas jėgas, koncentruodamas smūgį\nprieš maskvėnų artileriją (buvusios ke-\nlios dešimtys patrankų, atrodo, net iš viso\nnebuvo panaudotos, apie ką vėliau užsi-\nminė Radvila Rudasis) ir šaulius. Pavykus\njuos išmušti iš pozicijų, priešininkų ka-\nriuomenéje kilo sumaištis"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-09885
+
+- id: c-11929
+  citata_originali: |
+    P. Šuiskis. Trumpai žiemos dienai
+    baigiantis prasidėjo maskvėnų
+    triuškinimas ir bėgančių priešų
+    skerdynės. Daug bėgančių rusų pa-
+    skendo, bandydami perplaukti Ulos upę.
+  citata_rodoma: "Trumpai žiemos dienai\nbaigiantis prasidėjo maskvėnų\ntriuškinimas ir bėgančių priešų\nskerdynės. Daug bėgančių rusų pa-\nskendo, bandydami perplaukti Ulos upę."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-09886
+
+- id: c-11930
+  citata_originali: |
+    Skaičiuojama,
+    kad šiame mūšyje žuvo apie 8000 —
+    10000 maskvėnų. Pirmosios Lietuvos
+    istorijos autorius Motiejus Strijkovksis,
+    teigė, kad 1573 m. keliaudamas iš Vitebsko,
+    jis pats Ivansko lauke dar matė
+    boluojančias maskvėnų kaulų
+    krūvas. Be vyriausiojo vado kuni-
+    gaikščio M. Šuiskio, žuvo kunigaikš-
+    čiai Aleksandras Porozovskis, Ivanas
+    Zacharinas, Fiodoras Paleckis bei daug
+    kitų artimiausių caro Ivano rv dvariškių.
+    Taip pat nemaža kilmingųjų buvo paimta
+    į nelaisvę.
+  citata_rodoma: "Skaičiuojama,\nkad šiame mūšyje žuvo apie 8000 —\n10000 maskvėnų. Pirmosios Lietuvos\nistorijos autorius Motiejus Strijkovksis,\nteigė, kad 1573 m. keliaudamas iš Vitebsko,\njis pats Ivansko lauke dar matė\nboluojančias maskvėnų kaulų\nkrūvas. Be vyriausiojo vado kuni-\ngaikščio M. Šuiskio, žuvo kunigaikš-\nčiai Aleksandras Porozovskis, Ivanas\nZacharinas, Fiodoras Paleckis bei daug\nkitų artimiausių caro Ivano rv dvariškių.\nTaip pat nemaža kilmingųjų buvo paimta\nį nelaisvę."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-09884
+
+- id: c-11931
+  citata_originali: |
+    Taip pat nemaža kilmingųjų buvo paimta
+    į nelaisvę. P. Šuiskio kūnas buvo atvež-
+    tas į Vilnių ir su didele pagarba palaidotas
+    stačiatikių katedroje. Lietuviams atiteko
+    daug Maskvos kariuomenės ginklų, šarvų,
+    drabužių ir atsargų.
+  citata_rodoma: "P. Šuiskio kūnas buvo atvež-\ntas į Vilnių ir su didele pagarba palaidotas\nstačiatikių katedroje. Lietuviams atiteko\ndaug Maskvos kariuomenės ginklų, šarvų,\ndrabužių ir atsargų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-09884
 
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Maskvėnai]], [[objektai/asmenys/Petras Šuiskis]]

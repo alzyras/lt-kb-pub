@@ -17,6 +17,18 @@ tags:
   - tauta
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Teki Wileńskie
 
@@ -29,10 +41,22 @@ Adomas Honorijus Kir­ koras 1857-1858 m. leido Teki Wileńskie (Vilniaus aplank
 <a id="claim-t-88481"></a>
 - t-001
   global_id: t-88481
-  teiginys: 'Adomas Honorijus Kirkoras 1857–1858 m. leido „Teki Wileńskie“.'
+  teiginys: "Adomas Honorijus Kirkoras 1857–1858 m. leido „Teki Wileńskie“."
+  temporaliniai_duomenys: "įvykio data: 1857-1858; įvykio data: 1858 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "17383-17865; hash=94229c78522cf907bd104f6c55ec2bc3e9b4acddc518c50ccfa92acd35888967; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Adomas Honorijus Kirkoras: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Teki Wileńskie: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Adomas Honorijus Kirkoras: mention_match, author, gap=46"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teki Wileńskie\" parinktas kaip owner_note_path. Targetas \"Adomas Honorijus Kirkoras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-84460
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -48,8 +72,29 @@ Adomas Honorijus Kir­ koras 1857-1858 m. leido Teki Wileńskie (Vilniaus aplank
     tuvių tautos kultūrinę būklę spaudos puslapiuose kėlė iš vals­
     tiečių kilęs švietėjas Mikalojus Akelaitis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-84460
+  citata_originali: |
+    Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikini­
+    mo projektus, vakarinėse imperijos gubernijose pagyvėjo visuo­
+    meninis - politinis gyvenimas. Eustachijaus Tiškevičiaus inicia­
+    tyva buvo įkurtas Vilniaus Senienų muziejus - mokslinė
+    institucija, sutelkusi krašto visuomenę. Adomas Honorijus Kir­
+    koras 1857-1858 m. leido Teki Wileńskie (Vilniaus aplankus), lie­
+    tuvių tautos kultūrinę būklę spaudos puslapiuose kėlė iš vals­
+    tiečių kilęs švietėjas Mikalojus Akelaitis.
+  citata_rodoma: "Eustachijaus Tiškevičiaus inicia­\ntyva buvo įkurtas Vilniaus Senienų muziejus - mokslinė \ninstitucija, sutelkusi krašto visuomenę. Adomas Honorijus Kir­\nkoras 1857-1858 m. leido Teki Wileńskie (Vilniaus aplankus), lie­\ntuvių tautos kultūrinę būklę spaudos puslapiuose kėlė iš vals­\ntiečių kilęs švietėjas Mikalojus Akelaitis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88481

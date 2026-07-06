@@ -9,6 +9,18 @@ tags:
   - asmuo
   - karvedys
   - miestas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # A. N. Trubeckojus
 
@@ -21,10 +33,20 @@ Trubeckojaus kariuomenė (apie 15000 karių) užėmė Mstislavlį (liepos 22 d. 
 <a id="claim-t-39979"></a>
 - t-001
   global_id: t-39979
-  teiginys: 'A. N. Trubeckojaus kariuomenė, turėjusi apie 15000 karių, užėmė Mstislavlį ir žygiavo Lietuvos gilumon Minsko link.'
+  teiginys: "A. N. Trubeckojaus kariuomenė, turėjusi apie 15000 karių, užėmė Mstislavlį ir žygiavo Lietuvos gilumon Minsko link."
+  semantiniai_rysiai: "A. N. Trubeckojus užėmė Mstislavlis (0.94); A. N. Trubeckojus surengė žygį į Lietuva (0.78); A. N. Trubeckojus surengė žygį į Minskas (0.66)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "509188-509646; hash=de835ad7481a1379f4ee3c003b7a9011ce2d1a381e3310b6d214686d6a99f6da; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Mstislavlis: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "A. N. Trubeckojus: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Mstislavlis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad A. N. Trubeckojaus kariuomenė užėmė Mstislavlį."
   pagrindžia:
-    - c-001
-
+    - c-44248
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -52,11 +74,44 @@ Trubeckojaus kariuomenė (apie 15000 karių) užėmė Mstislavlį (liepos 22 d. 
     Bychovo. Tuo pat metu priešiškai nusi-
     teikusi Švedija lūkuriavo (su ja Lenkija
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-44248
+  citata_originali: |
+    Rusų karvedys V. B. Seremetjevas (apie
+
+    15000 karių) užėmė Polocką ir Dysną,
+
+    A. N. Trubeckojaus kariuomenė (apie
+
+    15000 karių) užėmė Mstislavlį (liepos 22 d.
+
+    užėmus miestą visi miestiečiai buvo iš-
+
+    žudyti) ir žygiavo į
+
+    Lietuvos gilumą,
+
+    Minsko link. Kazokai,
+    vadovaujami I. Zolotarenkos (apie
+    br 20000 karių) laikė apsiautę Gomelį
+    "bei kitus miestus ir priartėjo prie Senojo
+    Bychovo. Tuo pat metu priešiškai nusi-
+    teikusi Švedija lūkuriavo (su ja Lenkija
+  citata_rodoma: "Rusų karvedys V. B. Seremetjevas (apie\n\n15000 karių) užėmė Polocką ir Dysną,\n\nA. N. Trubeckojaus kariuomenė (apie\n\n15000 karių) užėmė Mstislavlį (liepos 22 d.\n\nužėmus miestą visi miestiečiai buvo iš-\n\nžudyti) ir žygiavo į\n\nLietuvos gilumą,\n\nMinsko link."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-39979
 
 ## Ryšiai
 - A. N. Trubeckojus užėmė [[objektai/vietos/Mstislavlis]]

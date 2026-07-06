@@ -7,6 +7,18 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags: []
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais
 
@@ -39,30 +51,61 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-55171"></a>
 - t-001
   global_id: t-55171
-  teiginys: 'Išstudijavę Jano Lasickio knygą, Šubravcų draugijos nariai pasivadino senovės lietuvių dievybių vardais.'
+  teiginys: "Išstudijavę Jano Lasickio knygą, Šubravcų draugijos nariai pasivadino senovės lietuvių dievybių vardais."
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]]; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Janas Chodzka|Janas Chodzka]]; mentioned_person: [[objektai/asmenys/Jokūbas Šimkevičius|Jokūbas Šimkevičius]]; mentioned_person: [[objektai/asmenys/Juozapas Zavadskis|Juozapas Zavadskis]]; mentioned_person: [[objektai/asmenys/Kazimieras Kontrimas|Kazimieras Kontrimas]]; mentioned_place: Vilnius"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "4427-5087; hash=d2b44c06c10fe0d653b513b0a7a5c1f4bed5cddaad5235f77031707d9992b57c; match=whitespace_regex"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md::validation_repair"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=45"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-55756
 
 <a id="claim-t-187829"></a>
 - t-002
   global_id: t-187829
-  teiginys: 'Vilniuje veikusi šubravcų draugija išgarsėjo, o jos nariai pasivadino senovės lietuvių dievybių vardais.'
+  teiginys: "Vilniuje veikusi šubravcų draugija išgarsėjo, o jos nariai pasivadino senovės lietuvių dievybių vardais."
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys yra faktinis, pilnas ir atitinka citatos informaciją."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]]; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Janas Chodzka|Janas Chodzka]]; mentioned_person: [[objektai/asmenys/Jokūbas Šimkevičius|Jokūbas Šimkevičius]]; mentioned_person: [[objektai/asmenys/Juozapas Zavadskis|Juozapas Zavadskis]]; mentioned_person: [[objektai/asmenys/Kazimieras Kontrimas|Kazimieras Kontrimas]]; mentioned_place: Vilnius"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "4427-5087; hash=d2b44c06c10fe0d653b513b0a7a5c1f4bed5cddaad5235f77031707d9992b57c; match=whitespace_regex"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md::validation_repair"
   pagrindžia:
-    - c-001
+    - c-55756
 
 <a id="claim-t-187830"></a>
 - t-003
   global_id: t-187830
-  teiginys: 'Šubravcų draugijos nariai rinkosi senovės lietuvių mitologijos pseudonimus ir privalėjo rinkti medžiagą apie pasirinktus mitinius personažus.'
+  teiginys: "Šubravcų draugijos nariai rinkosi senovės lietuvių mitologijos pseudonimus ir privalėjo rinkti medžiagą apie pasirinktus mitinius personažus."
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "25989-26719; hash=f241da58c7a8e6261a5140cce66342cad8c933f31ac72abe009e7a4dc7461fc3; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md::validation_repair"
+  ryšio_patikimumas: "susije_su -> Lietuvių mitologija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuvių mitologija: mention_match, thing, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais\" parinktas kaip owner_note_path. Targetas \"Lietuvių mitologija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T09:57:54Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-002
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
-
+    - c-170778
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -79,12 +122,14 @@ Nenurodyta
     gantu, Juozapas Zavadskis - Svaistiku, M. Balinskis - Aušla-
     viu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
   santrauka: 'Šubravcų draugijos nariai rinkosi senovės lietuvių mitologijos pseudonimus ir privalėjo rinkti medžiagą apie pasirinktus mitinius personažus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -101,8 +146,57 @@ Nenurodyta
     prisidėtų prie sudarymo lietuvių mitologijos, kuri su laiku ga­
     lėtų būti draugijos išleista4. Mitinio personažo Palemono var­
     du buvo pasivadinusi Raseinių masonų lošė5.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-55756
+  citata_originali: |
+    Legaliai veikė įvai­
+    rios filantropinės organizacijos ir susivienijimai, kurių nariai ap­
+    tardavo visuomenės būklę, tardavosi dėl konkrečių ir tik per­
+    spektyvoje numatomų įgyvendinti tikslų. Ypač pagarsėjo
+    Vilniuje veikusi šubravcų (nenaudėlių) draugija, kuriai priklausė
+    universiteto elitas - profesoriai, žymūs ir įtakingi miesto gy­
+    ventojai. Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­
+    matą bei netikrų krikščionių dievus, draugijos nariai pasivadino
+    senovės lietuvių dievybių vardais: Jokūbas Šimkevičius - Per­
+    kūnu, Kazimieras Kontrimas - Poklumi, Janas Chodzka - Vaiž­
+    gantu, Juozapas Zavadskis - Svaistiku, M. Balinskis - Aušla-
+    viu.
+  citata_rodoma: "Legaliai veikė įvai­\nrios filantropinės organizacijos ir susivienijimai, kurių nariai ap­\ntardavo visuomenės būklę, tardavosi dėl konkrečių ir tik per­\nspektyvoje numatomų įgyvendinti tikslų. Ypač pagarsėjo \nVilniuje veikusi šubravcų (nenaudėlių) draugija, kuriai priklausė \nuniversiteto elitas - profesoriai, žymūs ir įtakingi miesto gy­\nventojai. Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­\nmatą bei netikrų krikščionių dievus, draugijos nariai pasivadino \nsenovės lietuvių dievybių vardais: Jokūbas Šimkevičius - Per­\nkūnu, Kazimieras Kontrimas - Poklumi, Janas Chodzka - Vaiž­\ngantu, Juozapas Zavadskis - Svaistiku, M. Balinskis - Aušla- \nviu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-55171
+    - t-187829
+
+- id: c-170778
+  citata_originali: |
+    Lietuvių mitologija šiuo metu domėjosi ne tik mokslininkai,
+    rašytojai, bet ir visa apsišvietusioji visuomenė, akademinis jau­
+    nimas. Ryškus to pavyzdys „Nenaudėlių draugijos“ („Towar-
+    zystwo szubrawcow“) žavėjimasis senaisiais lietuvių mitiniais
+    personažais. Šios masoniškos draugijos, susispietusios apie sa­
+    tyrinį laikraštį „Wiadomošci Brukowe“ (1816-1822), nariai bu­
+    vo pasirinkę pseudonimus iš senovės lietuvių mitologijos (pvz.,
+    Perkūnas, Poklus, Wajžgantos) ir privalėjo rinkti medžiagą apie
+    mitinius personažus, kurių vardais buvo pasivadinę, kad tuo
+    prisidėtų prie sudarymo lietuvių mitologijos, kuri su laiku ga­
+    lėtų būti draugijos išleista4. Mitinio personažo Palemono var­
+    du buvo pasivadinusi Raseinių masonų lošė5.
+  citata_rodoma: "Lietuvių mitologija šiuo metu domėjosi ne tik mokslininkai,\nrašytojai, bet ir visa apsišvietusioji visuomenė, akademinis jau­\nnimas. Ryškus to pavyzdys „Nenaudėlių draugijos“ („Towar-\nzystwo szubrawcow“) žavėjimasis senaisiais lietuvių mitiniais\npersonažais. Šios masoniškos draugijos, susispietusios apie sa­\ntyrinį laikraštį „Wiadomošci Brukowe“ (1816-1822), nariai bu­\nvo pasirinkę pseudonimus iš senovės lietuvių mitologijos (pvz.,\nPerkūnas, Poklus, Wajžgantos) ir privalėjo rinkti medžiagą apie\nmitinius personažus, kurių vardais buvo pasivadinę, kad tuo\nprisidėtų prie sudarymo lietuvių mitologijos, kuri su laiku ga­\nlėtų būti draugijos išleista4. Mitinio personažo Palemono var­\ndu buvo pasivadinusi Raseinių masonų lošė5."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187830

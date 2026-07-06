@@ -14,11 +14,6 @@ datos:
   - '1466 m.'
 date_start: '1237'
 date_end: '1466'
-description: 'Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pilis, karo, aprūpinimo ir kronikos tradicijos vieta.'
-socialDescription: 'Elbingas šiame įraše atsiskleidžia kaip Ordino pilis ir miestas prie Gėlo vandens marių, susijęs su karais, pasalomis, kronikos nuorašais ir Elbingo kapitula.'
-seo_atnaujinta: '2026-07-02T23:12:35.232352+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -29,168 +24,435 @@ tags:
 amziai:
   - 'XIII'
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Elbingas
 
 ## Santrauka
 
-Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pilis, vėliau susijusi su aplink išaugusiu miestu. Įraše jis iškyla kaip karo ir aprūpinimo mazgas: čia minimi laivai, Elbingo broliai, Sventopelko puolimas ir 1273 m. pagudėnų pasala netoli miesto. Elbingas taip pat siejamas su Dusburgiečio kronikos tradicija ir 1303 m. didžiojo magistro Gotfrido atsistatydinimu Elbingo kapituloje.
+Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų: jis minimas kaip 1237 m. prie Gėlo vandens marių įkurta pilis, karo ir aprūpinimo mazgas, puolimo taikinys ir vieta, kur 1303 m. didysis magistras Gotfridas atsisakė pareigų.
 
 ## Teiginiai
 
 <a id="claim-t-90342"></a>
-- t-001
+- t-006
   global_id: t-90342
-  teiginys: 'Elbingo broliai, stokodami išteklių ir laukdami laivų, siuntė atgal laivus bei žygūnus sužinoti padėties Kulmo žemėje.'
+  teiginys: "Elbingo broliai, stokodami išteklių ir laukdami laivų, siuntė atgal laivus bei žygūnus sužinoti padėties Kulmo žemėje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "311563-312012; hash=de09f961aad2f8cb7ac66494f5d2bcf1593be5e2c65970629db48d51468b19f0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kulmas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Elbingas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kulmas: mention_match, place, gap=105"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elbingas\" parinktas kaip owner_note_path. Targetas \"Kulmas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-017
+    - c-86223
 
 <a id="claim-t-90343"></a>
-- t-002
+- t-024
   global_id: t-90343
-  teiginys: 'Laivai padėjo pastatyti Elbingo ir Baigos pilis bei apsaugoti Gėlo vandens marias nuo netikėlių.'
+  teiginys: "Laivai padėjo pastatyti Elbingo ir Baigos pilis bei apsaugoti Gėlo vandens marias nuo netikėlių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "255661-255915; hash=4d98f186ce94b9738a91e51993c14768373ba00399e2efef3611e12698c1a7e9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baiga: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Elbingas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Baiga: mention_match, place, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elbingas\" parinktas kaip owner_note_path. Targetas \"Baiga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-86208
 
 <a id="claim-t-90344"></a>
-- t-003
+- t-009
   global_id: t-90344
-  teiginys: 'Torunės nuorašo pagrindu padarytas ir Elbingo nuorašas.'
+  teiginys: "Torunės nuorašo pagrindu padarytas ir Elbingo nuorašas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "50500-50835; hash=a27fdf281ee9edaacbe9f65622883b8fe2871b3dca21e95499e674ebe630d816; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Berlynas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Elbingas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Berlynas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elbingas\" parinktas kaip owner_note_path. Targetas \"Berlynas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
-    - c-005
+    - c-86206
 
 <a id="claim-t-90345"></a>
-- t-004
+- t-016
   global_id: t-90345
-  teiginys: 'Elbingo broliai, stokodami atsargų ir laukdami laivų, gavę žinių apie Kulmo žemę pasiuntė atgal laivus ir žygūnus.'
+  teiginys: "Elbingo broliai, stokodami atsargų ir laukdami laivų, gavę žinių apie Kulmo žemę pasiuntė atgal laivus ir žygūnus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "311528-311840; hash=6542c5d735d6e7c90b308b4104d7d83a2938ecd7cc42dd1ad325f6269bc0efe0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kulmas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Elbingas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kulmas: mention_match, place, gap=70"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elbingas\" parinktas kaip owner_note_path. Targetas \"Kulmas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-86210
 
 <a id="claim-t-90346"></a>
-- t-005
+- t-018
   global_id: t-90346
-  teiginys: 'Elbingo broliai pasiuntė į pagalbą 60 krikščionių vyrų, kurie po žinios apie sudegintą pilį ir miestą patraukė į Elbingą.'
+  teiginys: "Elbingo broliai pasiuntė į pagalbą 60 krikščionių vyrų, kurie po žinios apie sudegintą pilį ir miestą patraukė į Elbingą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "434245-434573; hash=14d4d9e9457034a524ea9fe49be7ad75d02722bd8cb1ad67e2e45fea4b19140a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Brunsbergas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Elbingas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Brunsbergas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elbingas\" parinktas kaip owner_note_path. Targetas \"Brunsbergas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-86205
 
 <a id="claim-t-90347"></a>
-- t-006
+- t-007
   global_id: t-90347
-  teiginys: '1303 m. didysis magistras Gotfridas Elbingo kapituloje atsisakė savo pareigų.'
+  teiginys: "1303 m. didysis magistras Gotfridas Elbingo kapituloje atsisakė savo pareigų."
+  temporaliniai_duomenys: "įvykio data: 1303 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai sieja Elbingą su Gotfrido pareigų atsisakymu 1303 m."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "610149-610792; hash=a35a7cfc01a04f4d23ca7e8c35c1bff5c882558488ecf324b36385deb9dcc50f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Elbingas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Prūsija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elbingas\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-012
+    - c-86217
 
 <a id="claim-t-90348"></a>
-- t-007
+- t-010
   global_id: t-90348
-  teiginys: 'Dusburgietis apie Elbingo pilį prie to paties vardo upės žiočių rašė remdamasis ir kitų pasakojimais.'
+  teiginys: "Dusburgietis apie Elbingo pilį prie to paties vardo upės žiočių rašė remdamasis ir kitų pasakojimais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "73557-74210; hash=2aa5cf61be87250c55063bac06e087754d67bdf4330dab49ae83db838bb3c4c9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Elbingas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elbingas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-86204
 
 <a id="claim-t-90350"></a>
-- t-008
+- t-005
   global_id: t-90350
-  teiginys: 'Sventopelkas puolė Elbingo pilį ir miestą, manydamas, kad ten beveik neliko nei brolių, nei miestiečių.'
+  teiginys: "Sventopelkas puolė Elbingo pilį ir miestą, manydamas, kad ten beveik neliko nei brolių, nei miestiečių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "308341-308881; hash=923fef55a1a5d15d68f538824ce4c3629072d740bec985ba2894c80080e3deda; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pomeranija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Elbingas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Pomeranija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elbingas\" parinktas kaip owner_note_path. Targetas \"Pomeranija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-86207
 
 <a id="claim-t-90352"></a>
-- t-009
+- t-019
   global_id: t-90352
-  teiginys: 'Antrosios atskalūnybės metais keli Pagudės kilmingieji su namais ir šeimyna atvyko į Elbingą ir prisidėjo prie brolių.'
+  teiginys: "Antrosios atskalūnybės metais keli Pagudės kilmingieji su namais ir šeimyna atvyko į Elbingą ir prisidėjo prie brolių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "465708-466184; hash=08443d09dc597d48a8d9aaf894361f456219b80e927ecbbf1942e138caa19f60; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pagudė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Elbingas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Pagudė: mention_match, place, gap=50"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elbingas\" parinktas kaip owner_note_path. Targetas \"Pagudė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-015
+    - c-86220
 
 <a id="claim-t-90353"></a>
-- t-010
+- t-020
   global_id: t-90353
-  teiginys: '1273 m. pagudėnai paslėpė kariuomenę miške netoli Elbingo ir pasala atkirto miestiečiams kelią į miestą.'
+  teiginys: "1273 m. pagudėnai paslėpė kariuomenę miške netoli Elbingo ir pasala atkirto miestiečiams kelią į miestą."
+  temporaliniai_duomenys: "įvykio data: 1273 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje aprašytą pagudėnų pasalą prie Elbingo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "467776-468408; hash=e0eeb2c43cfb5f78cd2a3ca13d9977588d0e5f7c6c316b83f149ad67c4f78c38; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bartai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Elbingas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Bartai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elbingas\" parinktas kaip owner_note_path. Targetas \"Bartai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-014
+    - c-86219
 
 <a id="claim-t-90354"></a>
-- t-011
+- t-003
   global_id: t-90354
-  teiginys: '1237 m. Elbingo pilis buvo pastatyta toje vietoje, kur Elbingo upė įteka į Gėlo vandens marias.'
+  teiginys: "1237 m. Elbingo pilis buvo pastatyta toje vietoje, kur Elbingo upė įteka į Gėlo vandens marias."
+  temporaliniai_duomenys: "pastatymo data: 1237 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Elbingo pilies pastatymo vietą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "256154-256842; hash=820bef1dc2369437aa33d8c458e6470794afb942f84e86793a6d9362827fafc7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Elbingo pilis (pilis): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Elbingas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Elbingo pilis (pilis): mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elbingas\" parinktas kaip owner_note_path. Targetas \"Elbingo pilis (pilis)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-86202
 
 <a id="claim-t-90355"></a>
-- t-012
+- t-021
   global_id: t-90355
-  teiginys: '1303 m. Gotfridas Elbingo kapituloje atsisakė didžiojo magistro pareigų, o ten pat buvo išrinktas Zigfridas iš Foichtvangeno.'
+  teiginys: "1303 m. Gotfridas Elbingo kapituloje atsisakė didžiojo magistro pareigų, o ten pat buvo išrinktas Zigfridas iš Foichtvangeno."
+  temporaliniai_duomenys: "įvykio data: 1303 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo įvykį Elbingo kapituloje ir jo pasekmę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "610149-610792; hash=a35a7cfc01a04f4d23ca7e8c35c1bff5c882558488ecf324b36385deb9dcc50f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Zigfridas iš Foichtvangeno: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Elbingas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Zigfridas iš Foichtvangeno: mention_match, person, gap=70"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elbingas\" parinktas kaip owner_note_path. Targetas \"Zigfridas iš Foichtvangeno\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-012
+    - c-86217
 
 <a id="claim-t-90356"></a>
-- t-013
+- t-025
   global_id: t-90356
-  teiginys: '1237 m. magistras su broliais ir maldininkais Pagudėje pastatė pilį, kurią nuo Elbingo upės vardo pavadino Elbingu.'
+  teiginys: "1237 m. magistras su broliais ir maldininkais Pagudėje pastatė pilį, kurią nuo Elbingo upės vardo pavadino Elbingu."
+  temporaliniai_duomenys: "pastatymo data: 1237 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nebuvo apie Elbingą; citata leidžia suformuluoti tiesioginį faktą apie objektą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "256154-256842; hash=820bef1dc2369437aa33d8c458e6470794afb942f84e86793a6d9362827fafc7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Laivai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Elbingas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Laivai: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elbingas\" parinktas kaip owner_note_path. Targetas \"Laivai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-86202
 
 <a id="claim-t-90357"></a>
-- t-014
+- t-004
   global_id: t-90357
-  teiginys: 'Laivai padėjo pastatyti Elbingo ir Baigos pilis bei saugoti Gėlo vandens marias.'
+  teiginys: "Laivai padėjo pastatyti Elbingo ir Baigos pilis bei saugoti Gėlo vandens marias."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "255723-255978; hash=e00bdf0032d716d82a5ff10ab1cb0a1ee1ae538f9ee6ab600a7c4cb93e9f8355; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baiga: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Elbingas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Baiga: mention_match, place, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elbingas\" parinktas kaip owner_note_path. Targetas \"Baiga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-010
+    - c-86213
 
 <a id="claim-t-90358"></a>
-- t-015
+- t-012
   global_id: t-90358
-  teiginys: '1237 m. Ordino broliai Pagudėje pastatė pilį prie Elbingo upės ir pavadino ją Elbingu.'
+  teiginys: "1237 m. Ordino broliai Pagudėje pastatė pilį prie Elbingo upės ir pavadino ją Elbingu."
+  temporaliniai_duomenys: "pastatymo data: 1237 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys glaustai ir tiksliai perteikia citatos informaciją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "256154-256842; hash=820bef1dc2369437aa33d8c458e6470794afb942f84e86793a6d9362827fafc7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Laivai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Elbingas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Laivai: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elbingas\" parinktas kaip owner_note_path. Targetas \"Laivai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-86202
 
 <a id="claim-t-90359"></a>
-- t-016
+- t-017
   global_id: t-90359
-  teiginys: 'Žiemą daugiau kaip 60 tūkstančių karių atžygiavo į Elbingą, bet ginčas malūne vos nesuardė žygio.'
+  teiginys: "Žiemą daugiau kaip 60 tūkstančių karių atžygiavo į Elbingą, bet ginčas malūne vos nesuardė žygio."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "344200-345118; hash=9c974b2ddcaee997854033ec1e54c091f66e964e560f234f70080b27edda5d37; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Malūnas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Elbingas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Malūnas: mention_match, thing, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elbingas\" parinktas kaip owner_note_path. Targetas \"Malūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-86212
 
 <a id="claim-t-90360"></a>
-- t-017
+- t-015
   global_id: t-90360
-  teiginys: 'Magistras Poponas pasiuntė Konradą Bremerį su būriu ginklanešių nugabenti į Elbingą tris maisto prikrautus laivus.'
+  teiginys: "Magistras Poponas pasiuntė Konradą Bremerį su būriu ginklanešių nugabenti į Elbingą tris maisto prikrautus laivus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "310745-311329; hash=a381217ad7c16b54911ead7af7ce74e66560af995cb6b1383307c23930054f3f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Laivai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Elbingas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Laivai: mention_match, thing, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elbingas\" parinktas kaip owner_note_path. Targetas \"Laivai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-013
+    - c-86218
 
 <a id="claim-t-90361"></a>
-- t-018
+- t-008
   global_id: t-90361
-  teiginys: 'Dusburgietis Elbingo brolių išsigelbėjimą aiškina stebuklu, kai prūsų kariuomenė vietoje mažo kryžiuočių būrio išvydo didžiulę kariuomenę.'
+  teiginys: "Dusburgietis Elbingo brolių išsigelbėjimą aiškina stebuklu, kai prūsų kariuomenė vietoje mažo kryžiuočių būrio išvydo didžiulę kariuomenę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "40821-41179; hash=84d487c5784a8b4d8b55375598863977e1b5ba29f58626d94db2425617937aad; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Elbingas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=81"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elbingas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-86203
 
 <a id="claim-t-90362"></a>
-- t-019
+- t-014
   global_id: t-90362
-  teiginys: 'Pomeranijos kunigaikštis Sventopelkas sutelkė kariuomenę ir patraukė prie Elbingo pilies bei miesto, ketindamas juos užimti.'
+  teiginys: "Pomeranijos kunigaikštis Sventopelkas sutelkė kariuomenę ir patraukė prie Elbingo pilies bei miesto, ketindamas juos užimti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "308292-308772; hash=311395b2684c9382ebc1a868fe6f6782f64234b3501eb8013791b250a86367e7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pomeranija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Elbingas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Pomeranija: mention_match, place, gap=74"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elbingas\" parinktas kaip owner_note_path. Targetas \"Pomeranija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-011
+    - c-86216
 
 <a id="claim-t-90363"></a>
-- t-020
+- t-013
   global_id: t-90363
-  teiginys: 'Elbingo pilis iš pradžių buvo laikini žemių ir medžio įtvirtinimai Elbingo deltos saloje.'
+  teiginys: "Elbingo pilis iš pradžių buvo laikini žemių ir medžio įtvirtinimai Elbingo deltos saloje."
+  temporaliniai_duomenys: "įvykio data: iki 1309 m.; įvykio data: 1242 m.; įvykio data: po 1251 m.; įvykio data: 1251 m.; įvykio data: 1260 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir pagrįstas pastaba apie ankstyvuosius Elbingo įtvirtinimus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "257573-258114; hash=9ec55921f05ac6c71ba6e09afdf0613450b15b49178397d6fe591b5ea909dd1f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Elbingo pilis (pilis): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Elbingas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Elbingo pilis (pilis): mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elbingas\" parinktas kaip owner_note_path. Targetas \"Elbingo pilis (pilis)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-016
+    - c-86221
 
 <a id="claim-t-90364"></a>
-- t-021
+- t-011
   global_id: t-90364
-  teiginys: '1237 m. magistras su broliais ir maldininkais atvyko į Pagudę ir pastatė Elbingo pilį prie Elbingo upės žiočių.'
+  teiginys: "1237 m. magistras su broliais ir maldininkais atvyko į Pagudę ir pastatė Elbingo pilį prie Elbingo upės žiočių."
+  temporaliniai_duomenys: "pastatymo data: 1237 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir tiesiogiai paremtas citata apie Elbingo pilies statybą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "256154-256842; hash=820bef1dc2369437aa33d8c458e6470794afb942f84e86793a6d9362827fafc7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Laivai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Elbingas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Laivai: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elbingas\" parinktas kaip owner_note_path. Targetas \"Laivai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-86202
 
 <a id="claim-t-184151"></a>
-- t-022
+- t-026
   global_id: t-184151
-  teiginys: 'Elbingo broliai pasiuntė 60 krikščionių vyrų į pagalbą atsitraukiantiems pilies ir miesto gynėjams.'
+  teiginys: "Elbingo broliai pasiuntė 60 krikščionių vyrų į pagalbą atsitraukiantiems pilies ir miesto gynėjams."
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "434097-434427; hash=4c0a8f8061a81f79bf5c24856cebf12e0ffc28c6e6985eb1b9f61f3f2f81628a; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-018
+    - c-167536
+
+<a id="claim-t-193181"></a>
+- t-027
+  global_id: t-193181
+  teiginys: "Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbingą, Marijenburgą ir visą Varmijos vyskupystę."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "383671-383891; hash=ca40b96388983588f7b9ae752ea5789565ecd14979371668becace3c940711da; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-175926
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178894|Kryžiuočių ordinas]]: 1237 m. Kryžiuočių ordino magistras su broliais Pagudėje pastatė pilį, pavadintą Elbingu.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-184010|papilys]]: Pagudėnai ir jų sąjungininkai būtų galėję paimti Elbingo papilį, jei karys Virtelis nebūtų ietimi pervėręs jų vado.
 - susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89824|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Dusburgietis vaizduoja Hermaną kaip pagrindinį Ordino sustiprėjimo ir iškilimo veikėją.
@@ -263,6 +525,7 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
 - susijęs iš Karaliaučius: Prūsų sukilimo metu nesugriautos liko tik Karaliaučiaus, Baigos, Elbingo ir Kulmo ordino pilys.
 - susijęs iš Kristburgas: Kristburgo broliams buvo sunku iš Elbingo atsigabenti būtiniausių dalykų, nes pilį supo priešai.
 - susijęs iš Kristburgas: Kristburgo broliams buvo sunku iš Elbingo atsigabenti būtiniausių dalykų, nes pilį supo priešai.
+- susijęs iš Pagudė: Pagudė vakaruose ribojosi su Pamede, nuo kurios ją skyrė Elbingo upė ir Drūsinės ežeras.
 - susijęs iš Pagudė: 1237 m. magistras su broliais ir maldininkais atvyko į Pagudės žemę ir Elbingo upės saloje pastatė Elbingo pilį.
 - susijęs iš Pagudė: Antrosios atskalūnybės metais keli Pagudės kilmingieji paliko tėvonijas, atvyko su šeimomis į Elbingą ir susidėjo su broliais.
 - susijęs iš Pagudė: Pagudė buvo prūsų žemė į šiaurės rytus nuo Pamedės, vakaruose siekusi dabartinio Elbingo apylinkes.
@@ -309,8 +572,6 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
 - susijęs iš 1216 m. vasario 18 d. popiežiaus patvirtinti Lubavos ir Lanzanijos užrašymai: 1216 m. vasario 18 d. popiežius patvirtino Lubavos ir Lanzanijos užrašymus vyskupui Kristijonui.
 - susijęs iš Berlyno karališkosios bibliotekos kodeksas su Dusburgiečio kronikos nuorašu: Berlyno karališkosios bibliotekos kodekse yra nevisiškai pilnas Dusburgiečio kronikos nuorašas, rašytas XVI a. viduryje.
 - susijęs iš Prūsijos vyskupų laiškas dėl 1323 m. sutarties: Laiško originalas datuotas 1323 m. pirmadieniu prieš Šv. Simono ir Judo šventę ir siejamas su Slaptojo archyvo signatūra Spinta XI, Nr. 18.
-- susijęs iš Vulfstano pasakojimas: Vietovardis apie 890 m. Vulfstano užrašytas kaip Truso.
-- susijęs iš Vulfstano pasakojimas: Vulfstano pasakojime Aismarės vadinamos Estmere.
 - susijęs iš Aismares: Laivai padėjo pastatyti Elbingo ir Baigos pilis ir apsaugoti Aismares nuo netikėlių.
 - susijęs iš Aismares: 1237 m. Elbingo pilis buvo pastatyta saloje ties vieta, kur Elbingo upė įteka į Aismares.
 - susijęs iš Baiga: Pasak kronikos, Kristus padėjo Baigoje apsuptiems broliams, paragindamas vieną prūsą išduoti saviškius.
@@ -325,6 +586,7 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
 - susijęs iš Kulmo žemė: Prūsai su didele kariuomene nusiaubė Kulmo žemę ir patraukė prie Osos pakrantėje stovėjusios Belichovo pilies.
 - susijęs iš Lanzanija: Lanzanijos nobiliai, vadovaujami Varpodos, pripažino Kristijono valdžią.
 - susijęs iš Livonija: 1302 m. didysis magistras Gotfridas su 50 brolių per Prūsiją atvyko į Livoniją.
+- susijęs iš Lovetės giria: Narbutas Lovetės, arba Loweten, girią mini kaip garsią Pamedės girią tarp kitų to krašto didelių miškų.
 - susijęs iš Lubavos žemė: Lubavos žemės nobiliai, vadovaujami Survabūno, pripažino Kristijono valdžią.
 - susijęs iš Marienverderis: Prūsai antrą kartą sugriovė atstatytą Marienverderio miestą, o dalį miestiečių paėmė į nelaisvę arba nužudė.
 - susijęs iš Morungenas: 1327 m. Elbingo komtūras Hermanas netoli Zalfeldo pastatė Morungeną, pavadintą pagal ežerą, prie kurio jis buvo įkurdintas.
@@ -368,6 +630,7 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
     trukus buvusi netikėlių sunaikinta, tada ją perkėlė į tą vietą, kur ir dabar yra, o aplinkui
     išaugo miestas242.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -387,6 +650,7 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
     Pats Kristus padėjęs apsuptiems Baigoje broliams, paragindamas vieną prūsą išduoti
     saviškius (III, 26).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -406,6 +670,7 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
     apie Elbingo pilį to pat vardo upės žiotyse ir jos sunaikinimą (III, 7, 16), apie pirmąsias
     kryžiuočių  pilis Varmės žemėje, Rudino miesto užkariavimus  ir kt.  (III, 27, 155).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -422,6 +687,7 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
     1279 viešpaties metais, įkūrė Brunsbergo miestą bei pilį toje vietoje, kur  ji ir dabar
     tebestovi415.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -437,6 +703,7 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
     Kodeksas rašytas XVI a. viduryje, jame nestinga perrašymo netikslumų, bet šis tekstas,
     papildydamas Karaliaučiaus nuorašą, leidžia atstatyti kai kurias originalo detales.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -454,6 +721,7 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
     Todėl kunigaikštis, pamanęs, jog bus sugrįžusi atgal brolių ir miestiečių kariuomenė,
     pasitraukė sugėdintas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -470,6 +738,7 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
     apsaugoti Gėlo vandens marias241 nuo netikėlių, kurie nuo to laiko nebedrįso čia nė
     vienas pasirodyti.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -487,6 +756,7 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
     Kai jie plaukė pro Svečės pilį, Sventopelkas vėl juos užpuolė su daugybe ginklanešių
     ir 10 laivų.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -509,6 +779,7 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
     vardu Gedūnas, Visigaudo iš Medenavos321 tėvą, kilusį iš tos jų šakos, kuri vadinama
     Kandeimu, gerai žinojusį visą Sembos karių galią.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -522,6 +793,7 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
     apsaugoti Gėlo vandens marias241 nuo netikėlių, kurie nuo to laiko nebedrįso čia nė
     vienas pasirodyti. Tiedu laivai po daugelio metų buvo paskandinti Drūsinės ežere.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -540,6 +812,7 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
     pasiryžo imtis vyriško darbo ir, prisisegusios prie šlaunų kalavijus, sulipo  į sienas, taip
     ryžtingai išsirikiuodamos gynybai, kad nė kvapo nebeliko jų lyčiai būdingo trapumo.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -560,6 +833,7 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
     didžiuoju magistru brolis Zigfridas  iš Foichtvangeno, kuris  ir iškeliavo  į Veneciją,  į
     vyriausiąją [Ordino] būstinę.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -581,6 +855,7 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
     laivais, irkluotojų greitai varomais, ir paskandino daugelį kunigaikščio laivų, o kitus stipriai
     sužalojo.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -601,6 +876,7 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
     Tačiau kai miestiečiai vydamiesi per daug nutolo nuo miesto, pagudėnai, išgriuvę iš
     pasalos, atkirto jiems kelią  į miestą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -624,6 +900,7 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
 
                 169 (164).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -642,6 +919,7 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
     dalis čia nuo 1251 m. iki 1309 m. buvo Ordino vykdomosios valdžios Prūsijoje centras
     — krašto magistro rezidencija.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -658,6 +936,7 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
     kitiems vadovavusiu, ir ietimi perdūrė jam žandą, tačiau brolis Fridrichas besigindamas
     jį nukovė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -674,11 +953,348 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
     krikščionių vyrų, kuriuos siuntė  į pagalbą Elbingo broliai. Išgirdę, kad pilis ir miestas
     sudeginti, visi drauge patraukė į Elbingą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
+
+- c-019
+  santrauka: 'Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbingą, Marijenburgą ir visą Varmijos vyskupystę.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    1466 m. Torne buvo pasirašyta taika, kuria ordinas
+    pasidarė Lenkijos vasalu ir perleido jai daug žemių. Lenkija
+    atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte —
+    Elbingą, Marijenburgą ir visą Varmijos vyskupystę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-023
+
+## Citatos
+
+- id: c-86202
+  citata_originali: |
+    Apie karą su pagudėnais ir Elbingo pilies pastatymą
+
+       Iš dievo malonės pavergę pamedėnus, magistras bei broliai ryžosi užgriūti karo audra
+    pagudėnus. Dėl to magistras su broliais ir maldininkais, kuriuos buvo palikęs Meiseno
+    markgrafas, atvyko, pirmiausia išsiuntęs laivus su viskuo, kas būtina statybai, 1237
+    viešpaties įsikūnijimo metais  į Pagudės žemę,  į tą salą, kuri, pasak kai kurių, esanti
+    Elbingo upės viduryje, toje vietoje, kur Elbingas įteka  į Gėlo vandens marias, ir ten
+    pastatė pilį, kurią pavadino nuo upės vardo Elbingu. Kiti pasakoja, kad ši pilis neilgai
+    trukus buvusi netikėlių sunaikinta, tada ją perkėlė į tą vietą, kur ir dabar yra, o aplinkui
+    išaugo miestas242.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-90356
+    - t-90364
+    - t-90354
+    - t-90358
+
+- id: c-86203
+  citata_originali: |
+    Dusburgietis daugybe pavyzdžių bando parodyti, kad dievas padedąs kovojantiems
+    broliams. Štai nuo Elbingo brolių iš mūšio lauko išsibėgiojo didelė prūsų kariuomenė,
+    stebuklingai nedidelio kryžiuočių būrelio vietoje išvydusi didžiulę kariuomenę (III, 17).
+    Pats Kristus padėjęs apsuptiems Baigoje broliams, paragindamas vieną prūsą išduoti
+    saviškius (III, 26).
+  citata_rodoma: "Štai nuo Elbingo brolių iš mūšio lauko išsibėgiojo didelė prūsų kariuomenė,\nstebuklingai nedidelio kryžiuočių būrelio vietoje išvydusi didžiulę kariuomenę (III, 17).\nPats Kristus padėjęs apsuptiems Baigoje broliams, paragindamas vieną prūsą išduoti\nsaviškius (III, 26)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-90361
+
+- id: c-86204
+  citata_originali: |
+    Dusburgietis, kaip  jis pats pažymi įvade, pasisėmė medžiagos ne tik iš rašytinių
+    šaltinių, bet aprašė ir tuos įvykius, kuriuos pats buvo matęs, „apie kuriuos pasakojo juos
+    matę ir juose dalyvavę žmonės“, pagaliau ir apie tuos, apie kuriuos sužinojęs iš patikimų
+    šaltinių („Kaip ši knyga sutvarkyta“).
+      Kai kuriose vietose Dusburgietis kartais prasitaria rašąs taip, kaip kiti jam kalbėję:
+    „pasak kai kurių“. Sitai jis pažymi, kalbėdamas apie prūsų pilių vietas prie Torunės,
+    apie Elbingo pilį to pat vardo upės žiotyse ir jos sunaikinimą (III, 7, 16), apie pirmąsias
+    kryžiuočių  pilis Varmės žemėje, Rudino miesto užkariavimus  ir kt.  (III, 27, 155).
+  citata_rodoma: "Sitai jis pažymi, kalbėdamas apie prūsų pilių vietas prie Torunės,\napie Elbingo pilį to pat vardo upės žiotyse ir jos sunaikinimą (III, 7, 16), apie pirmąsias\nkryžiuočių  pilis Varmės žemėje, Rudino miesto užkariavimus  ir kt."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-90348
+
+- id: c-86205
+  citata_originali: |
+    Jiems atsitraukiant, atskubėjo priešpriešiais 60
+    krikščionių vyrų, kuriuos siuntė  į pagalbą Elbingo broliai. Išgirdę, kad pilis ir miestas
+    sudeginti, visi drauge patraukė į Elbingą. Valdovas Henrikas, Varmės vyskupas, vėliau,
+    1279 viešpaties metais, įkūrė Brunsbergo miestą bei pilį toje vietoje, kur  ji ir dabar
+    tebestovi415.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-90346
+
+- id: c-86206
+  citata_originali: |
+    Torunės nuorašo pagrindu padarytas  ir Elbingo nuorašas. Berlyno  karališkosios
+    bibliotekos Kodekse greta kitų yra nevisiškai pilnas Dusburgiečio kronikos nuorašas.
+    Kodeksas rašytas XVI a. viduryje, jame nestinga perrašymo netikslumų, bet šis tekstas,
+    papildydamas Karaliaučiaus nuorašą, leidžia atstatyti kai kurias originalo detales.
+  citata_rodoma: "Torunės nuorašo pagrindu padarytas  ir Elbingo nuorašas. Berlyno  karališkosios\nbibliotekos Kodekse greta kitų yra nevisiškai pilnas Dusburgiečio kronikos nuorašas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-90344
+
+- id: c-86207
+  citata_originali: |
+    Sventopelkas, Pomeranijos kunigaikštis, sužinojęs, kad Elbinge beveik nebeliko nei
+    brolių, nei miestiečių, sutelkė didelę kariuomenę ir patraukė prie šios pilies bei miesto,
+    ketindamas užimti. Šitai matydamos, moterys, nusisegusios moteriškus papuošalus,
+    pasiryžo imtis vyriško darbo ir, prisisegusios prie šlaunų kalavijus, sulipo  į sienas, taip
+    ryžtingai išsirikiuodamos gynybai, kad nė kvapo nebeliko jų lyčiai būdingo trapumo.
+    Todėl kunigaikštis, pamanęs, jog bus sugrįžusi atgal brolių ir miestiečių kariuomenė,
+    pasitraukė sugėdintas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-90350
+
+- id: c-86208
+  citata_originali: |
+    Apie tai aiškiau Senojoje Olivos kronikoje (SRP, 1, p. 678).
+
+    Prūsijos žemės tikintiesiems. Šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos ir
+    apsaugoti Gėlo vandens marias241 nuo netikėlių, kurie nuo to laiko nebedrįso čia nė
+    vienas pasirodyti.
+  citata_rodoma: "678).\n\nPrūsijos žemės tikintiesiems. Šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos ir\napsaugoti Gėlo vandens marias241 nuo netikėlių, kurie nuo to laiko nebedrįso čia nė\nvienas pasirodyti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-90343
+
+- id: c-86210
+  citata_originali: |
+    51 (50). Dar kartų apie tą patį
+
+      Elbingo broliai, kurie laukė atplaukiant tų laivų, didžiai nerimaudami ir visa ko stokodami,
+    pasiuntė atgal laivus ir savo žygūnus, gavę tikslesnių žinių apie padėtį Kulmo žemėje.
+    Kai jie plaukė pro Svečės pilį, Sventopelkas vėl juos užpuolė su daugybe ginklanešių
+    ir 10 laivų.
+  citata_rodoma: "Dar kartų apie tą patį\n\n  Elbingo broliai, kurie laukė atplaukiant tų laivų, didžiai nerimaudami ir visa ko stokodami,\npasiuntė atgal laivus ir savo žygūnus, gavę tikslesnių žinių apie padėtį Kulmo žemėje.\nKai jie plaukė pro Svečės pilį, Sventopelkas vėl juos užpuolė su daugybe ginklanešių\nir 10 laivų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-90345
+
+- id: c-86212
+  citata_originali: |
+    priskaičiuotum daugiau kaip 60 tūkstančių karių; kiek buvo vežimų ir ketverinių ratų,
+    gabenusių ginklus ir maistą, nesu girdėjęs. Žiemą ši kariuomenė atžygiavo  į Elbingą,
+    tačiau velnias, žmonių giminės priešas, sumanė išardyti šį žygį vardan tikėjimo, dievo
+    apvaizdos teikiamo žmonių išganymui, jis mat sukurstė viename malūne susiginčyti
+    du vyrus, vieną — iš Saksonijos, o kitą — iš Austrijos, katras pirmas turįs malti,  ir
+    štai ne tik kariai bei paprasti žmonės, bet  ir karalius,  ir kiti kunigaikščiai jau buvo
+    bepakelią ginklus kovai, tačiau Olomouco vyskupas, dievotas ir taikus vyras, pasirūpino,
+    kad nebūtų dingsties ginčui, ir atstatė pirmykštę sandorą. Susitaikius Čekijos karalius
+    nuvedė savo kariuomenę iki Baigos pilies, kur broliai pasistengė surasti vieną seną vyrą,
+    vardu Gedūnas, Visigaudo iš Medenavos321 tėvą, kilusį iš tos jų šakos, kuri vadinama
+    Kandeimu, gerai žinojusį visą Sembos karių galią.
+  citata_rodoma: "Žiemą ši kariuomenė atžygiavo  į Elbingą,\ntačiau velnias, žmonių giminės priešas, sumanė išardyti šį žygį vardan tikėjimo, dievo\napvaizdos teikiamo žmonių išganymui, jis mat sukurstė viename malūne susiginčyti\ndu vyrus, vieną — iš Saksonijos, o kitą — iš Austrijos, katras pirmas turįs malti,  ir\nštai ne tik kariai bei paprasti žmonės, bet  ir karalius,  ir kiti kunigaikščiai jau buvo\nbepakelią ginklus kovai, tačiau Olomouco vyskupas, dievotas ir taikus vyras, pasirūpino,\nkad nebūtų dingsties ginčui, ir atstatė pirmykštę sandorą. Susitaikius Čekijos karalius\nnuvedė savo kariuomenę iki Baigos pilies, kur broliai pasistengė surasti vieną seną vyrą,\nvardu Gedūnas, Visigaudo iš Medenavos321 tėvą, kilusį iš tos jų šakos, kuri vadinama\nKandeimu, gerai žinojusį visą Sembos karių galią."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-90359
+
+- id: c-86213
+  citata_originali: |
+    Prūsijos žemės tikintiesiems. Šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos ir
+    apsaugoti Gėlo vandens marias241 nuo netikėlių, kurie nuo to laiko nebedrįso čia nė
+    vienas pasirodyti. Tiedu laivai po daugelio metų buvo paskandinti Drūsinės ežere.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-90357
+
+- id: c-86216
+  citata_originali: |
+    48(47). Apie Elbingo pilies ir miesto puolimą
+
+      Sventopelkas, Pomeranijos kunigaikštis, sužinojęs, kad Elbinge beveik nebeliko nei
+    brolių, nei miestiečių, sutelkė didelę kariuomenę ir patraukė prie šios pilies bei miesto,
+    ketindamas užimti. Šitai matydamos, moterys, nusisegusios moteriškus papuošalus,
+    pasiryžo imtis vyriško darbo ir, prisisegusios prie šlaunų kalavijus, sulipo  į sienas, taip
+    ryžtingai išsirikiuodamos gynybai, kad nė kvapo nebeliko jų lyčiai būdingo trapumo.
+  citata_rodoma: "Apie Elbingo pilies ir miesto puolimą\n\n  Sventopelkas, Pomeranijos kunigaikštis, sužinojęs, kad Elbinge beveik nebeliko nei\nbrolių, nei miestiečių, sutelkė didelę kariuomenę ir patraukė prie šios pilies bei miesto,\nketindamas užimti. Šitai matydamos, moterys, nusisegusios moteriškus papuošalus,\npasiryžo imtis vyriško darbo ir, prisisegusios prie šlaunų kalavijus, sulipo  į sienas, taip\nryžtingai išsirikiuodamos gynybai, kad nė kvapo nebeliko jų lyčiai būdingo trapumo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-90362
+
+- id: c-86217
+  citata_originali: |
+    283 (276). Apie brolio Gotfrido, didžiojo magistro, atvykimą,  apie tai, kaip jis atsisa­
+             kė savo pareigų, o buvo išrinktas brolis Zigfridas iš Foichtvangeno
+
+      1302 viešpaties metais brolis Gotfridas, didysis magistras, su 50 brolių per Prūsiją
+    atvyko  į Livoniją, palikęs ten brolius šiai žemei ginti, kitais metais sugrįžo  į Prūsiją
+    ir Elbingo kapituloje atsisakė savo pareigų, nors, sugrįžęs  į Vokietiją, lengvapėdiškai
+    sugalvojo vėl jas eiti. Jam atsisakius šios pareigybės, netrukus ten pat buvo išrinktas
+    didžiuoju magistru brolis Zigfridas  iš Foichtvangeno, kuris  ir iškeliavo  į Veneciją,  į
+    vyriausiąją [Ordino] būstinę.
+  citata_rodoma: "Apie brolio Gotfrido, didžiojo magistro, atvykimą,  apie tai, kaip jis atsisa­\n         kė savo pareigų, o buvo išrinktas brolis Zigfridas iš Foichtvangeno\n\n  1302 viešpaties metais brolis Gotfridas, didysis magistras, su 50 brolių per Prūsiją\natvyko  į Livoniją, palikęs ten brolius šiai žemei ginti, kitais metais sugrįžo  į Prūsiją\nir Elbingo kapituloje atsisakė savo pareigų, nors, sugrįžęs  į Vokietiją, lengvapėdiškai\nsugalvojo vėl jas eiti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-90355
+    - t-90347
+
+- id: c-86218
+  citata_originali: |
+    50 (49). Apie laivų kautynes
+
+       Brolis Poponas, magistras, rūpindamasis tikinčiaisiais, išleido į kelią su būriu ginklanešių
+    brolį Konradą, vadinamą Bremeriu, liepdamas nuplukdyti į Elbingą tris maisto prikrautus
+    laivus; priartėjęs prie Santyro, jis ten išvydo Sventopelką, kuris jo tykojo su daugybe
+    žmonių ir 20 laivų. Juos pamatęs, brolis Konradas neišsigando lyg koks bailys, o kaip
+    kilnios širdies viešpačiu pasitikįs karys smarkiai ir narsiai užpuolė juos su visais savo
+    laivais, irkluotojų greitai varomais, ir paskandino daugelį kunigaikščio laivų, o kitus stipriai
+    sužalojo.
+  citata_rodoma: "Apie laivų kautynes\n\n   Brolis Poponas, magistras, rūpindamasis tikinčiaisiais, išleido į kelią su būriu ginklanešių\nbrolį Konradą, vadinamą Bremeriu, liepdamas nuplukdyti į Elbingą tris maisto prikrautus\nlaivus; priartėjęs prie Santyro, jis ten išvydo Sventopelką, kuris jo tykojo su daugybe\nžmonių ir 20 laivų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-90360
+
+- id: c-86219
+  citata_originali: |
+    170 (165). Apie Liefardo malūno paėmimą ir daugybės Elbingo miestiečių žūtį
+
+      1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei
+    broliams nukamuoti nesibaigiančių žygių bei išlaidų, pagudėnai, ir dabar nemanydami
+    nusileisti, paslėpė savo sutelktą kariuomenę netoli Elbingo viename miške,  iš kur
+    keli raiteliai nujojo prie Elbingo miesto ir pasirodė miestiečiams, kurie, nuolatos prie
+    savęs laikydami kovai parengtus ginklus, pasileido jų persekioti ir vieną kitą nukovė.
+    Tačiau kai miestiečiai vydamiesi per daug nutolo nuo miesto, pagudėnai, išgriuvę iš
+    pasalos, atkirto jiems kelią  į miestą.
+  citata_rodoma: "Apie Liefardo malūno paėmimą ir daugybės Elbingo miestiečių žūtį\n\n  1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei\nbroliams nukamuoti nesibaigiančių žygių bei išlaidų, pagudėnai, ir dabar nemanydami\nnusileisti, paslėpė savo sutelktą kariuomenę netoli Elbingo viename miške,  iš kur\nkeli raiteliai nujojo prie Elbingo miesto ir pasirodė miestiečiams, kurie, nuolatos prie\nsavęs laikydami kovai parengtus ginklus, pasileido jų persekioti ir vieną kitą nukovė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-90353
+
+- id: c-86220
+  citata_originali: |
+    168 (163). Apie Elbingo brolių bei miestiečių kovas antrosios atskalūnybės metais ir
+               apie kai kuriuos tikinčiuosius pagudėnus, prisidėjusius prie brolių
+
+      Kai antrosios atskalūnybės metais stiprėjo krikščionių persekiojimas, kurie ne kurie
+    Pagudės kilmingieji, tiesa, vos keli, nepamiršę geradarybių, patirtų iš magistro ir brolių,
+    paliko tėvonijas449, atvyko su visais savo namais ir šeimyna į Elbingą ir ištikimai susidėjo
+    su broliais.
+
+
+
+
+                169 (164).
+  citata_rodoma: "Apie Elbingo brolių bei miestiečių kovas antrosios atskalūnybės metais ir\n           apie kai kuriuos tikinčiuosius pagudėnus, prisidėjusius prie brolių\n\n  Kai antrosios atskalūnybės metais stiprėjo krikščionių persekiojimas, kurie ne kurie\nPagudės kilmingieji, tiesa, vos keli, nepamiršę geradarybių, patirtų iš magistro ir brolių,\npaliko tėvonijas449, atvyko su visais savo namais ir šeimyna į Elbingą ir ištikimai susidėjo\nsu broliais.\n\n\n\n\n            169 (164)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-90352
+
+- id: c-86221
+  citata_originali: |
+    242 Elbingo (dab. Elbliongas) pilis Elbingo deltos saloje (1298 m dokumente rašoma:
+    werder [...] der da heizet der alde elbinc — CDW, 1, Nr. 77, p. 133) iš pradžių buvo
+    laikino pobūdžio žemių-medžio įtvirtinimai. Vėliau Elbingo deš. krante, priešais salą,
+    imta statyti miestą ir mūrinę pilį. Statybos darbai, spėjama, prasidėjo 1240—1242 m.,
+    dėl kovų su prūsais buvo nutraukti, o 1248—1260 m. buvo pastatyta pagrindine pilies
+    dalis čia nuo 1251 m. iki 1309 m. buvo Ordino vykdomosios valdžios Prūsijoje centras
+    — krašto magistro rezidencija.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-90363
+
+- id: c-86223
+  citata_originali: |
+    Elbingo broliai, kurie laukė atplaukiant tų laivų, didžiai nerimaudami ir visa ko stokodami,
+    pasiuntė atgal laivus ir savo žygūnus, gavę tikslesnių žinių apie padėtį Kulmo žemėje.
+    Kai jie plaukė pro Svečės pilį, Sventopelkas vėl juos užpuolė su daugybe ginklanešių
+    ir 10 laivų. Kunigaikščio kariaunos vadas susigrūmė su broliu Fridrichu iš Veidos289,
+    kitiems vadovavusiu, ir ietimi perdūrė jam žandą, tačiau brolis Fridrichas besigindamas
+    jį nukovė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-90342
+
+- id: c-167536
+  citata_originali: |
+    Todėl, sudeginę pilį bei
+    miestą, pasitraukė su savo šeimynomis, tiek beišsinešdami mantos ir namų apyvokos
+    reikmenų, kiek ant pečių galėjo pakelti. Jiems atsitraukiant, atskubėjo priešpriešiais 60
+    krikščionių vyrų, kuriuos siuntė  į pagalbą Elbingo broliai. Išgirdę, kad pilis ir miestas
+    sudeginti, visi drauge patraukė į Elbingą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184151
+
+- id: c-175926
+  citata_originali: |
+    1466 m. Torne buvo pasirašyta taika, kuria ordinas
+    pasidarė Lenkijos vasalu ir perleido jai daug žemių. Lenkija
+    atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte —
+    Elbingą, Marijenburgą ir visą Varmijos vyskupystę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193181
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Konradas Bremeris]], [[objektai/grupes/Pagudėnai]]

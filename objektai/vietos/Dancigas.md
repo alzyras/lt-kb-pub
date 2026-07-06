@@ -7,6 +7,7 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1325 m.'
+  - '1466 m.'
   - '1919 m.'
   - '1936 m.'
 date_start: '1325'
@@ -16,6 +17,18 @@ atnaujinta: ''
 amziai:
   - 'XIV'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Dancigas
 
@@ -46,25 +59,75 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
 ## Teiginiai
 
 <a id="claim-t-182720"></a>
-- t-001
+- t-061
   global_id: t-182720
-  teiginys: 'Dancigo laisvojo miesto statusas minimas kaip pavyzdys, į kurį orientavosi dalis prie Lietuvos nenorėjusių jungtis klaipėdiškių lietuvininkų.'
+  teiginys: "Dancigo laisvojo miesto statusas minimas kaip pavyzdys, į kurį orientavosi dalis prie Lietuvos nenorėjusių jungtis klaipėdiškių lietuvininkų."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "22580-23103; hash=99b33441233b457b7b3af816d15c9585b2cccd50f1e25f4946f2eefabb90d611; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dancigas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=86"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dancigas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-166136
 
 <a id="claim-t-183004"></a>
-- t-002
+- t-007
   global_id: t-183004
-  teiginys: 'Vytauto laikais atgijus prekybai Nemunu, Lietuva užmezgė gyvus ryšius su Karaliaučiumi ir Dancigu.'
+  teiginys: "Vytauto laikais atgijus prekybai Nemunu, Lietuva užmezgė gyvus ryšius su Karaliaučiumi ir Dancigu."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Lietuva prekiavo su Dancigas (0.88)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "347149-347398; hash=2e894a2b5c6b3fcc988bb6276ad33e3c68085a552431394f54806e15aaf1b685; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Dancigas: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Dancigas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Prekybos kontekste Lietuva tiesiogiai siejama gyvais ryšiais su Dancigu."
   pagrindžia:
-    - c-002
+    - c-166398
 
 <a id="claim-t-183006"></a>
-- t-003
+- t-008
   global_id: t-183006
-  teiginys: 'Po Maksimilijono mirties Dancigas vienintelis Lenkijoje nepripažino Batoro ir buvo ginklu priverstas jam nusilenkti.'
+  teiginys: "Po Maksimilijono mirties Dancigas vienintelis Lenkijoje nepripažino Batoro ir buvo ginklu priverstas jam nusilenkti."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "582236-582597; hash=b55fd19e2567d6a2c0e6ceb9a3dab064fa1f8fb82341f013ccdbffcc270ae125; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dancigas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dancigas\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-166399
+
+<a id="claim-t-193176"></a>
+- t-062
+  global_id: t-193176
+  teiginys: "Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbingą, Marijenburgą ir visą Varmijos vyskupystę."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "383671-383891; hash=ca40b96388983588f7b9ae752ea5789565ecd14979371668becace3c940711da; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-13408
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176162|Žemaičiai]]: Žemaičiai vieną kartą pardavė Dancigui 50 laukinių stumbrų odų.
 - susijęs iš Karaliaučius: Vytauto laikais Lietuva užmezgė gyvus prekybos ryšius su ordino centrais Karaliaučiumi ir Dancigu.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176143|Žemaičiai]]: 1404 m. taikos politika laikinai apribojo Žemaičių prekybą, bet vėliau jie atgavo teises prekiauti su Aukštaičiais ir pardavinėjo prekes Dancigui.
@@ -116,6 +179,22 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbingą, Marijenburgą ir visą Varmijos vyskupystę.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    1466 m. Torne buvo pasirašyta taika, kuria ordinas
+    pasidarė Lenkijos vasalu ir perleido jai daug žemių. Lenkija
+    atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte —
+    Elbingą, Marijenburgą ir visą Varmijos vyskupystę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-004
+
+- c-002
   santrauka: 'Dancigo laisvojo miesto statusas minimas kaip pavyzdys, į kurį orientavosi dalis prie Lietuvos nenorėjusių jungtis klaipėdiškių lietuvininkų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -130,13 +209,14 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
     tarp miškingosios Rytų Europos priešistorinių archeologinių kultūrų
     3–2  tūkstančiai metų prieš Kristų atsirado baltų kultūra.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-- c-002
+- c-003
   santrauka: 'Vytauto laikais atgijus prekybai Nemunu, Lietuva užmezgė gyvus ryšius su Karaliaučiumi ir Dancigu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -147,13 +227,14 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
     kyba Nemunu. Užsimezgė gyvi ryšiai su ordino prekybos cent-
     rais—Karaliaučium ir Dancigu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 
-- c-003
+- c-004
   santrauka: 'Po Maksimilijono mirties Dancigas vienintelis Lenkijoje nepripažino Batoro ir buvo ginklu priverstas jam nusilenkti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -165,11 +246,77 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
     Lietuva iš pradžių visai nepripažino Batoro savo val-
     dovu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-13408
+  citata_originali: |
+    1466 m. Torne buvo pasirašyta taika, kuria ordinas
+    pasidarė Lenkijos vasalu ir perleido jai daug žemių. Lenkija
+    atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte —
+    Elbingą, Marijenburgą ir visą Varmijos vyskupystę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193176
+
+- id: c-166136
+  citata_originali: |
+    Tiesa, Versalio
+    taikos konferencija (1919) nuo Vokietijos atskyrė tik dalį Mažosios Lietu-
+    vos – Klaipėdos kraštą, tačiau jo neatidavė Lietuvai. Beje, ne visi klaipė-
+    diškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“
+    statuso (panašaus į Dancigo (dabar Gdanskas)).
+    Pagrindiniai Lietuvos
+    istorijos metmenys
+    Taigi, bendriausias Lietuvos istorijos modelis būtų toks:
+    tarp miškingosios Rytų Europos priešistorinių archeologinių kultūrų
+    3–2  tūkstančiai metų prieš Kristų atsirado baltų kultūra.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182720
+
+- id: c-166398
+  citata_originali: |
+    Arkivys-
+    kupo ir rygiečių dėka dažnai būdavo sudaromos Lietuvos pre-
+    kybos sutartys net su ordinu.
+    Vytauto laikais, aprimus karams su kryžiuočiais, atgijo pre-
+    kyba Nemunu. Užsimezgė gyvi ryšiai su ordino prekybos cent-
+    rais—Karaliaučium ir Dancigu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183004
+
+- id: c-166399
+  citata_originali: |
+    Tad veikiai, atvykęs į Krokuvą, jis karūnavosi ir vedė
+    kunigaikštytę Oną. Kadangi netrukus mirė jo konkurentas im-
+    peratorius Maksimilijonas, tai jį bematant pripažino visa Lenki-
+    ja; nepripažino jo tiktai vienintelis pirklių valdomas Dancigo
+    miestas, kurs betgi buvo ginklu priverstas jam nusilenkti.
+    Lietuva iš pradžių visai nepripažino Batoro savo val-
+    dovu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183006
 
 ## Ryšiai
 - Prekiavo su: [[objektai/vietos/Karaliaučius]], [[objektai/vietos/Lietuva]], [[objektai/grupes/Žemaičiai]]

@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - miestas
   - saltinis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vilniaus edukacinės komisijos archyvo bylos apie Šv. Jono bažnyčią ir kolegiją
 
@@ -20,10 +32,19 @@ tags:
 <a id="claim-t-88487"></a>
 - t-001
   global_id: t-88487
-  teiginys: 'Vilniaus edukacinės komisijos archyvo bylose buvo istoriniai-topografiniai duomenys apie Šv. Jono bažnyčią ir to paties vardo kolegiją.'
+  teiginys: "Vilniaus edukacinės komisijos archyvo bylose buvo istoriniai-topografiniai duomenys apie Šv. Jono bažnyčią ir to paties vardo kolegiją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "370439-370773; hash=67b3150bbcd4a3cb473ac391f9ee858707d2ff416e84a1aa25cc863b2bb8769b; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus edukacinės komisijos archyvo bylos apie Šv. Jono bažnyčią ir kolegiją: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus edukacinės komisijos archyvo bylos apie Šv. Jono bažnyčią ir kolegiją\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-84466
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,8 +65,33 @@ tags:
     KOMISIJOS ARCHYVO BYLŲ
     A) Apie Šv.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-84466
+  citata_originali: |
+    Gloss, to gaisro metu Vilniuje nebuvo.
+    171
+
+    ## Puslapis 188
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    III
+    APIE ŠV. JONO BAŽNYČIĄ IR APIE TO PATIES VARDO
+    KOLEGIJĄ, TAIP PAT APIE VISUS PADALINIUS IR PASTATUS,
+    TĄ KOLEGIJĄ SUDARANČIUS; ISTORINIAI-TOPOGRAFINIAI
+    DUOMENYS PAIMTI IŠ BUVUSIO VILNIAUS EDUKACINĖS
+    KOMISIJOS ARCHYVO BYLŲ
+    A) Apie Šv.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88487

@@ -8,7 +8,7 @@ function isObjectDetailPage(slug: string | undefined): boolean {
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [Component.BMHeader(), Component.OptionsPanel()],
+  header: [Component.LIHeader(), Component.OptionsPanel()],
   afterBody: [],
   footer: Component.ConditionalRender({
     component: Component.Footer({

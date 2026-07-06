@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - seimas
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vilnija
 
@@ -20,9 +32,19 @@ O juk planuota išrinkti ir apie 100 Seimo atstovų Vilnijoje, 9 vietos skirtos 
 <a id="claim-t-21911"></a>
 - t-001
   global_id: t-21911
-  teiginys: 'Buvo planuota Vilnijoje išrinkti apie 100 Seimo atstovų, bet rinkimai nevyko, nes Lietuva šios teritorijos nekontroliavo.'
+  teiginys: "Buvo planuota Vilnijoje išrinkti apie 100 Seimo atstovų, bet rinkimai nevyko, nes Lietuva šios teritorijos nekontroliavo."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "295599-295952; hash=5630ac5421451f295358116cfc384f560a913e1870280bfecd99bed8dd74b7b4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilnija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=68"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilnija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-24591
 - susijęs iš [[objektai/grupes/Lenkijos kariuomenė.md#claim-t-78205|Lenkijos kariuomenė]]: Pagal Juzefą Pilsudskį Vilnių užėmė ne Lenkijos kariuomenė, o Lucjano Żeligowskio vadovaujami Vilnijos daliniai.
 - susijęs iš [[objektai/grupes/Vietinė rinktinė.md#claim-t-66257|Vietinė rinktinė]]: Vietinės rinktinės daliniai Vilnijoje susidūrė su ginkluotais lenkų Armijos Krajovos daliniais.
 - susijęs iš [[objektai/asmenys/J. Pilsudskis.md#claim-t-108750|J. Pilsudskis]]: Pilsudskis motyvavo Vilniaus užėmimą vietos lenkų tautiniu apsisprendimu ir kovos su bolševikais būtinybe.
@@ -58,11 +80,30 @@ O juk planuota išrinkti ir apie 100 Seimo atstovų Vilnijoje, 9 vietos skirtos 
     kimai ten nevyko, nes Lietuva tų teritorijų nekontroliavo. Tai rodo, kad
     turimos teritorijos Lietuva dar nelaikė galutine.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-24591
+  citata_originali: |
+    Tad
+    iš viso išrinkta 112 atstovų, kurie gegužės 15 dieną laikinojoje sostinėje
+    Kaune susirinko į pirmąjį Seimo posėdį. O juk planuota išrinkti ir apie
+    100 Seimo atstovų Vilnijoje, 9 vietos skirtos Mažajai Lietuvai, tačiau rin-
+    kimai ten nevyko, nes Lietuva tų teritorijų nekontroliavo. Tai rodo, kad
+    turimos teritorijos Lietuva dar nelaikė galutine.
+  citata_rodoma: "kimai ten nevyko, nes Lietuva tų teritorijų nekontroliavo. Tai rodo, kad"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-21911
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]

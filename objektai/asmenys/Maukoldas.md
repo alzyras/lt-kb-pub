@@ -18,6 +18,18 @@ amziai:
   - 'XII'
 periodo_grupes:
   - 'viduramžiai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Maukoldas
 
@@ -30,9 +42,33 @@ periodo_grupes:
 <a id="claim-t-87550"></a>
 - t-001
   global_id: t-87550
-  teiginys: 'Maukoldas, pasak šaltinyje perteikto pasakojimo, buvo Rostislavo Rogvoldovičiaus sūnus ir Mindaugo tėvas.'
+  teiginys: "Maukoldas, pasak šaltinyje perteikto pasakojimo, buvo Rostislavo Rogvoldovičiaus sūnus ir Mindaugo tėvas."
+  semantiniai_rysiai: "Mindaugas (valdovas, XIII a.) buvo sūnus Maukoldas (0.95)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "116497-117007; hash=f0ddb0e66f5bccc32fed2d0b11187bdd0d85fed35c867bb59b499bc5cb1ceec2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Maukoldas: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Maukoldas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Jei Maukoldas buvo Mindaugo tėvas, tada Mindaugas buvo Maukoldo sūnus."
   pagrindžia:
-    - c-001
+    - c-83528
+
+<a id="claim-t-194232"></a>
+- t-002
+  global_id: t-194232
+  teiginys: "Vis dėlto gal po ta genealogi nės painiavos migla slypi krislelis tiesos, galbūt Vilnius, kaip anksčiau minėjome, dar Mindaugo laikais buvo nedidelė Lie tuvos kunigaikščių valda, gal jame ir kažkoks Maukoldas bus valdęs, bet šito nei tvirtai teigti, nei."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "123395-124099; hash=7688932030a5e4475ccedfc11af28ce2c41418b16fd74749e3d32a218f27e6cd; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176829
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113914|Mindaugas (valdovas, XIII a.)]]: Maukoldas buvo Mindaugo, dar vadinamo Mendogu, tėvas.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113936|Mindaugas (valdovas, XIII a.)]]: Maukoldas citatoje nurodomas kaip Mindaugo, dar vadinto Mendogu, tėvas.
 - susijęs iš [[objektai/asmenys/Dovilas, arba Dovydas.md#claim-t-87493|Dovilas, arba Dovydas]]: Dovilas, arba Dovydas, šaltinyje laikomas pirmuoju Vilniaus kunigaikščiu, kurį vilniečiai pasikvietė vietininku XII amžiuje.
@@ -60,11 +96,79 @@ periodo_grupes:
     deno tėvas. Maukoldas buvo Mindaugo, arba Mendogo, tė­
     vas3.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Vis dėlto gal po ta genealogi nės painiavos migla slypi krislelis tiesos, galbūt Vilnius, kaip anksčiau minėjome, dar Mindaugo laikais buvo nedidelė Lie tuvos kunigaikščių valda, gal jame ir kažkoks Maukoldas bus valdęs, bet šito nei tvirtai teigti, nei.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tačiau atsižvelgdami į tai, jog jis tikriausiai
+    buvo vienuolis, menkai nutuokęs apie jam svetimo krašto
+    praeitį, tik fragmentiškai aprašęs įvykius Rusioje, - neturė­
+    tume stebėtis, kad jis viską tempė ant savo kurpalio ir, ko
+    nebuvo matęs, tą pats prikūrė. Vis dėlto gal po ta genealogi­
+    nės painiavos migla slypi krislelis tiesos, galbūt Vilnius, kaip
+    anksčiau minėjome, dar Mindaugo laikais buvo nedidelė Lie­
+    tuvos kunigaikščių valda, gal jame ir kažkoks Maukoldas
+    bus valdęs, bet šito nei tvirtai teigti, nei išsiaiškinti iki šiol
+    neįmanoma. Dlugošas nurodo, jog Vilnius yra senovinis
+    miestas, lietuvių tautos protėvių įkurtas ir gavęs vardą nuo
+    vado Viliaus, kuris juos iš Italijos atvedęs0.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+## Citatos
+
+- id: c-83528
+  citata_originali: |
+    I. 48), liudija, kad XII amžiuje jau
+    būta Vilniaus ir kad šio miesto gyventojai, bijodami Mstis­
+    lavo Didžiojo kariaunos, kuris 1128 metais užvaldė krivi-
+    čių žemę, pasidavė Vengrijos, tai yra Haličo, karaliaus
+    valdžiai, vietininkais pasikvietę Dovilą ir Maukoldą, sū­
+    nus Rostislavo Rogvoldovičiaus, kurį tas pats Mstislavas
+    išvijo į Graikiją. Tasai Dovilas ar Dovydas turėjo būti pir­
+    masis Vilniaus kunigaikštis, Vido, praminto Vilku, ir Er-
+    deno tėvas. Maukoldas buvo Mindaugo, arba Mendogo, tė­
+    vas3.
+  citata_rodoma: "48), liudija, kad XII amžiuje jau \nbūta Vilniaus ir kad šio miesto gyventojai, bijodami Mstis­\nlavo Didžiojo kariaunos, kuris 1128 metais užvaldė krivi- \nčių žemę, pasidavė Vengrijos, tai yra Haličo, karaliaus \nvaldžiai, vietininkais pasikvietę Dovilą ir Maukoldą, sū­\nnus Rostislavo Rogvoldovičiaus, kurį tas pats Mstislavas \nišvijo į Graikiją. Tasai Dovilas ar Dovydas turėjo būti pir­\nmasis Vilniaus kunigaikštis, Vido, praminto Vilku, ir Er- \ndeno tėvas. Maukoldas buvo Mindaugo, arba Mendogo, tė­\nvas3."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87550
+
+- id: c-176829
+  citata_originali: |
+    Tačiau atsižvelgdami į tai, jog jis tikriausiai
+    buvo vienuolis, menkai nutuokęs apie jam svetimo krašto
+    praeitį, tik fragmentiškai aprašęs įvykius Rusioje, - neturė­
+    tume stebėtis, kad jis viską tempė ant savo kurpalio ir, ko
+    nebuvo matęs, tą pats prikūrė. Vis dėlto gal po ta genealogi­
+    nės painiavos migla slypi krislelis tiesos, galbūt Vilnius, kaip
+    anksčiau minėjome, dar Mindaugo laikais buvo nedidelė Lie­
+    tuvos kunigaikščių valda, gal jame ir kažkoks Maukoldas
+    bus valdęs, bet šito nei tvirtai teigti, nei išsiaiškinti iki šiol
+    neįmanoma. Dlugošas nurodo, jog Vilnius yra senovinis
+    miestas, lietuvių tautos protėvių įkurtas ir gavęs vardą nuo
+    vado Viliaus, kuris juos iš Italijos atvedęs0.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194232
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

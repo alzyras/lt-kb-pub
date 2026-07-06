@@ -15,6 +15,18 @@ tags:
   - vieta
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Neapolis
 
@@ -27,9 +39,22 @@ Dusburgietis teigia, kad apie Neapolio miesto sugriovimą ir Konrado, imperatori
 <a id="claim-t-58708"></a>
 - t-001
   global_id: t-58708
-  teiginys: '1251 m. Konradas, imperatoriaus Fridricho II sūnus, užpuolė Apulijos karalystę ir Neapolį, o Neapolio sienas sugriovė iki pamatų.'
+  teiginys: "1251 m. Konradas, imperatoriaus Fridricho II sūnus, užpuolė Apulijos karalystę ir Neapolį, o Neapolio sienas sugriovė iki pamatų."
+  temporaliniai_duomenys: "įvykio data: 1251 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys, tiesiogiai paremtas citata apie Neapolį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "706752-707114; hash=9e64f3417a6058ab4efab3a71b9ddd06f078ad9ac6bbf0d4d0923cd09a75af0d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Apulija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Neapolis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Apulija: mention_match, place, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Neapolis\" parinktas kaip owner_note_path. Targetas \"Apulija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-59340
 - susijęs iš [[objektai/asmenys/Konradas (Fridricho II sūnus).md#claim-t-60359|Konradas (Fridricho II sūnus)]]: 1251 m. Konradas, imperatoriaus Fridricho II sūnus, užpuolė Apulijos karalystę ir Neapolį, sugriovė sienas, o kitais metais mirė nunuodytas.
 - susijęs iš [[objektai/asmenys/Fridrichas II.md#claim-t-59861|Fridrichas II]]: Fridricho II sūnus Konradas 1251 m. užpuolė Apulijos karalystę ir Neapolį, sugriovė Neapolio sienas ir kitais metais mirė nunuodytas.
 - susijęs iš [[objektai/asmenys/Augustas Kocebiu.md#claim-t-190132|Augustas Kocebiu]]: Narbutas rašo, kad Augustas Kocebiu Neapolyje įsigijo rankraštį ir 1809 m. Revelyje davė jį Narbutui išrašams apie Lietuvos istoriją bei mitologiją.
@@ -51,11 +76,30 @@ Dusburgietis teigia, kad apie Neapolio miesto sugriovimą ir Konrado, imperatori
     karaliaus dukters, užpuolė Apulijos karalystę ir Neapolį. Sienas sugriovė ligi pamatų, bet
     kitais metais pasimirė nunuodytas (Mart. p. 404).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-59340
+  citata_originali: |
+    36. Apie Neapolio miesto sugriovimą ir Konrado, imperatoriaus Fridricho II sūnaus,
+                                                mirtį
+
+      1251 viešpaties metais Konradas, imperatoriaus Fridricho II sūnus, gimęs iš Jeruzalės
+    karaliaus dukters, užpuolė Apulijos karalystę ir Neapolį. Sienas sugriovė ligi pamatų, bet
+    kitais metais pasimirė nunuodytas (Mart. p. 404).
+  citata_rodoma: "Apie Neapolio miesto sugriovimą ir Konrado, imperatoriaus Fridricho II sūnaus,\n                                            mirtį\n\n  1251 viešpaties metais Konradas, imperatoriaus Fridricho II sūnus, gimęs iš Jeruzalės\nkaraliaus dukters, užpuolė Apulijos karalystę ir Neapolį. Sienas sugriovė ligi pamatų, bet\nkitais metais pasimirė nunuodytas (Mart. p. 404)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58708
 
 ## Ryšiai
 - Puolė Neapolį: [[objektai/asmenys/Konradas]], [[objektai/asmenys/Konradas (Fridricho II sūnus)]]

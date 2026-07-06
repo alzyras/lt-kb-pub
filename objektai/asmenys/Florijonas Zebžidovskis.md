@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Florijonas Zebžidovskis
 
@@ -17,10 +29,23 @@ Karalius Augustas įsakė lauko etmonui Florijonui Zebžidovskiui vesti lenkus �
 <a id="claim-t-186109"></a>
 - t-001
   global_id: t-186109
-  teiginys: 'Karalius Augustas įsakė lauko etmonui Florijonui Zebžidovskiui vesti lenkus į Polocką.'
+  teiginys: "Karalius Augustas įsakė lauko etmonui Florijonui Zebžidovskiui vesti lenkus į Polocką."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Augustas siuntė į Polockas (0.91); Florijonas Zebžidovskis surengė žygį į Polockas (0.78)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1283547-1284090; hash=e394b97ceab6a4a801758dd71e4fd7b51d5795b5869c10322460ba9a7b782eb6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Polockas: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Augustas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Karalius Augustas įsakė siųsti pajėgas į Polocką."
   pagrindžia:
-    - c-001
-
+    - c-169470
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -37,11 +62,32 @@ Karalius Augustas įsakė lauko etmonui Florijonui Zebžidovskiui vesti lenkus �
     Polocką, o M ik alo ju i R advilai tra u k ti su  lietu v iais link
     Sm olensko.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-169470
+  citata_originali: |
+    Tiesa, jis n eu žp u o lė L ivonijos, žinodam as, k ad  ten
+    g erai p asiren g u si k o v ai k a riu o m e n ė lau k ia ženklo du o ti
+    tin k am ą atkirtį, bet, n e tik ė ta i įsiv eržęs į B altarusiją,
+    sm arkiai n u siau b ė V itebsko, D ubrovno, O ršos, K opysės,
+    Š klovo apylinkes. G avęs ap ie tai žinią, k araliu s A u g u s­
+    tas p ad alijo  sav o  jėg as į dv i dalis. K araly stės lau k o  e t­
+    m onui F lo rijo n u i Z ebžidovskiui įsak ė len k u s v esti į
+    Polocką, o M ik alo ju i R advilai tra u k ti su  lietu v iais link
+    Sm olensko.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186109
 
 ## Ryšiai
 - Florijonas Zebžidovskis surengė žygį į [[objektai/vietos/Polockas]]

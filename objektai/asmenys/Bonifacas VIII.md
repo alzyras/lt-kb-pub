@@ -8,11 +8,6 @@ datos:
   - '1316 m.'
 date_start: '1217'
 date_end: '1316'
-description: 'Bonifacas VIII minimas dėl Liudviko kanonizavimo, konflikto su Pilypu, Albrechto paskelbimo imperatoriumi ir suėmimo Ananyje.'
-socialDescription: 'Bonifacas VIII: Liudviko kanonizavimas, nesantarvė su Pilypu, Albrechto paskelbimas imperatoriumi ir suėmimas Ananyje.'
-seo_atnaujinta: '2026-07-02T21:03:54.589169+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,49 +20,143 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'viduramžiai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Bonifacas VIII (arkivyskupas, XIII–XIV a.)
 
 ## Santrauka
 
-Bonifacas VIII šioje žinių bazės ištraukoje minimas kaip popiežius, susijęs su Prancūzijos karaliumi Pilypu, Romos karaliumi Albrechtu ir Liudviko kanonizavimu. 1296 m. jis kanonizavo Prancūzijos karalių Liudviką, o 1303 m. paskelbė Albrechtą imperatoriumi. Tais pačiais metais Bonifacas VIII buvo įkalintas Ananyje, tačiau miesto gyventojai jį išvadavo ir sugrąžino į švento Petro sostą.
+Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį mokytoją, bei apie jo mirtį Tuo metu garsėjo magistras Egidijus, didysis augustinų ordino mokytojas, vėliau Bonifaco VIII, popiežiaus, paskirtas Beri arkivyskupu (Ptol. Dusburgietis teigia, kad apie švento Liudviko, Prancūzijos karaliaus, kanonizavimą 1296 viešpaties metais Bonifacas [VIII], popiežius, kanonizavo Liudviką, Prancūzijos karalių (Ptol. Dusburgietis teigia, kad apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę Tais pačiais metais prasidėjo nesantarvė tarp Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus.
 
 ## Teiginiai
 
 <a id="claim-t-59900"></a>
-- t-001
+- t-003
   global_id: t-59900
-  teiginys: 'Bonifaco VIII ir Prancūzijos karaliaus Pilypo nesantarvė prasidėjo dėl popiežiaus pretenzijų į Prancūzijos reikalų pavaldumą Apaštalų sostui.'
+  teiginys: "Bonifaco VIII ir Prancūzijos karaliaus Pilypo nesantarvė prasidėjo dėl popiežiaus pretenzijų į Prancūzijos reikalų pavaldumą Apaštalų sostui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "733186-733970; hash=1a6926aa977aca430ad5969abcd29d50cb0a549681fb2e22847dc5d0f787fb4d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prancūzija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bonifacas VIII (arkivyskupas, XIII–XIV a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Prancūzija: mention_match, place, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bonifacas VIII (arkivyskupas, XIII–XIV a.)\" parinktas kaip owner_note_path. Targetas \"Prancūzija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-60536
 
 <a id="claim-t-59901"></a>
-- t-002
+- t-001
   global_id: t-59901
-  teiginys: 'Popiežius Bonifacas VIII paskyrė magistrą Egidijų Beri arkivyskupu.'
+  teiginys: "Popiežius Bonifacas VIII paskyrė magistrą Egidijų Beri arkivyskupu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "719988-720400; hash=c44af7674fb407d977f1259c1e71d1f5cee1880f5daf0360b1b26313f0ba4cb4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> magistras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bonifacas VIII (arkivyskupas, XIII–XIV a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "magistras: mention_match, thing, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bonifacas VIII (arkivyskupas, XIII–XIV a.)\" parinktas kaip owner_note_path. Targetas \"magistras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-60535
 
 <a id="claim-t-59902"></a>
-- t-003
+- t-004
   global_id: t-59902
-  teiginys: '1303 m. Bonifacas VIII paskelbė Romos karalių Albrechtą imperatoriumi ir perdavė jam Prancūzijos karalystę, bet Klemensas V tai atšaukė.'
+  teiginys: "1303 m. Bonifacas VIII paskelbė Romos karalių Albrechtą imperatoriumi ir perdavė jam Prancūzijos karalystę, bet Klemensas V tai atšaukė."
+  temporaliniai_duomenys: "įvykio data: 1303 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko faktą, pašalinti bibliografiniai ir fragmentiniai priedai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "734222-734592; hash=cea1bfc521e75963551cc1b8f1b0f232aa897e726f05420830c1ee09ba744c33; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Klemensas V: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bonifacas VIII (arkivyskupas, XIII–XIV a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Klemensas V: mention_match, person, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bonifacas VIII (arkivyskupas, XIII–XIV a.)\" parinktas kaip owner_note_path. Targetas \"Klemensas V\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-60533
 
 <a id="claim-t-59903"></a>
-- t-004
+- t-005
   global_id: t-59903
-  teiginys: '1303 m. rugsėjo pradžioje popiežius Bonifacas VIII buvo įkalintas Ananyje, o bažnyčios turtas išnešiotas.'
+  teiginys: "1303 m. rugsėjo pradžioje popiežius Bonifacas VIII buvo įkalintas Ananyje, o bažnyčios turtas išnešiotas."
+  temporaliniai_duomenys: "įvykio data: 1303 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko įvykį; pradinis tekstas prasideda šaltinio boilerplate."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "734609-734979; hash=f5c43af674243791c29f4d26421af1e08974d17b750771a6e03a077bd7280b3a; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
+    - c-60532
 
 <a id="claim-t-59904"></a>
-- t-005
+- t-002
   global_id: t-59904
-  teiginys: '1296 m. popiežius Bonifacas VIII kanonizavo Prancūzijos karalių Liudviką.'
+  teiginys: "1296 m. popiežius Bonifacas VIII kanonizavo Prancūzijos karalių Liudviką."
+  temporaliniai_duomenys: "įvykio data: 1296 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata tiesiogiai pagrindžia glaustą faktinį sakinį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "730260-730456; hash=fac3d87a477ac6ab4843e244748db89cadf04e34bf8ed1dd57eb8a8661546255; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prancūzija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bonifacas VIII (arkivyskupas, XIII–XIV a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Prancūzija: mention_match, place, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bonifacas VIII (arkivyskupas, XIII–XIV a.)\" parinktas kaip owner_note_path. Targetas \"Prancūzija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-60534
+
+<a id="claim-t-59901"></a>
+- t-001
+  global_id: t-59901
+  teiginys: "Popiežius Bonifacas VIII paskyrė magistrą Egidijų Beri arkivyskupu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "719988-720400; hash=c44af7674fb407d977f1259c1e71d1f5cee1880f5daf0360b1b26313f0ba4cb4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> magistras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bonifacas VIII (arkivyskupas, XIII–XIV a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "magistras: mention_match, thing, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bonifacas VIII (arkivyskupas, XIII–XIV a.)\" parinktas kaip owner_note_path. Targetas \"magistras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-60535
+
+<a id="claim-t-194476"></a>
+- t-007
+  global_id: t-194476
+  teiginys: "Apie brolį Egidijų, švento Augustino ordino didįjį mokytoją, bei apie jo mirtį Tuo metu garsėjo magistras Egidijus, didysis augustinų ordino mokytojas, vėliau Bonifaco VIII, popiežiaus, paskirtas Beri arkivyskupu (Ptol."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "719988-720400; hash=c44af7674fb407d977f1259c1e71d1f5cee1880f5daf0360b1b26313f0ba4cb4; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-60535
 - susijęs iš [[objektai/asmenys/Egidijus.md#claim-t-60271|Egidijus (arkivyskupas, XIV a.)]]: Egidijus buvo augustinų ordino mokytojas, o popiežius Bonifacas VIII jį paskyrė Beri arkivyskupu.
 - susijęs iš [[objektai/ivykiai/Bonifaco VIII suėmimas Ananyje ir bažnyčios turto išnešiojimas (1303 m. rugsėjo pradžia).md#claim-t-62212|Bonifaco VIII suėmimas Ananyje ir bažnyčios turto išnešiojimas (1303 m. rugsėjo pradžia)]]: 1303 m. rugsėjo pradžioje popiežius Bonifacas VIII buvo įkalintas Ananyje, o bažnyčios turtas išnešiotas.
 - susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63416|Albrechtas (Romos karalius)]]: Dusburgietis pasakoja, kad 1303 m. Bonifacas VIII paskelbė Albrechtą imperatoriumi ir atidavė jam Prancūzijos karalystę.
@@ -86,6 +175,7 @@ Bonifacas VIII šioje žinių bazės ištraukoje minimas kaip popiežius, susij�
     gyventojai jį išvadavo, palydėjo į Romą ir sugrąžino į švento Petro sostą, o neilgai trukus
     jis ir numirė (Mart. p. 438; Ptol. p. 1223).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -102,6 +192,7 @@ Bonifacas VIII šioje žinių bazės ištraukoje minimas kaip popiežius, susij�
        Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys
     prarado labai daug užmuštaisiais (Ptol. p. 1223),
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -118,6 +209,7 @@ Bonifacas VIII šioje žinių bazės ištraukoje minimas kaip popiežius, susij�
 
     karalių (Ptol. pried. p. 1217; Mart. p. 436).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -138,12 +230,14 @@ Bonifacas VIII šioje žinių bazės ištraukoje minimas kaip popiežius, susij�
 
      73.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-006
+    - t-007
 
 - c-005
   santrauka: 'Bonifaco VIII ir Prancūzijos karaliaus Pilypo nesantarvė prasidėjo dėl popiežiaus pretenzijų į Prancūzijos reikalų pavaldumą Apaštalų sostui.'
@@ -160,11 +254,100 @@ Bonifacas VIII šioje žinių bazės ištraukoje minimas kaip popiežius, susij�
     15 kaltinimų popiežiui ir kreipėsi į busimąjį susirinkimą arba popiežių. Vis dėlto popiežius
     Romos susirinkime išsiteisino nuo šių kaltinimų (Ptol. p. 1221 ir kt.; Mart. p. 438).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-60532
+  citata_originali: |
+    95. Apie Bonifaco, popiežiaus, suėmimą ir turtų iššvaistymą
+
+      Tų pačių metų rugsėjo mėnesio pradžioje Ananyje, būtent savo gimtinėje, įkalinamas
+    popiežius Bonifacas, o visas bažnyčios turtas išnešiojamas. Tačiau ilgainiui šio miesto
+    gyventojai jį išvadavo, palydėjo į Romą ir sugrąžino į švento Petro sostą, o neilgai trukus
+    jis ir numirė (Mart. p. 438; Ptol. p. 1223).
+  citata_rodoma: "Apie Bonifaco, popiežiaus, suėmimą ir turtų iššvaistymą\n\n  Tų pačių metų rugsėjo mėnesio pradžioje Ananyje, būtent savo gimtinėje, įkalinamas\npopiežius Bonifacas, o visas bažnyčios turtas išnešiojamas. Tačiau ilgainiui šio miesto\ngyventojai jį išvadavo, palydėjo į Romą ir sugrąžino į švento Petro sostą, o neilgai trukus\njis ir numirė (Mart. p. 438; Ptol. p. 1223)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-59903
+
+- id: c-60533
+  citata_originali: |
+    1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių,
+    imperatoriumi ir jam atidavė  į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė
+    Klemensas V, popiežius (Ptol. p. 1222, 1227; Mart. p. 438, 442).
+       Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys
+    prarado labai daug užmuštaisiais (Ptol. p. 1223),
+  citata_rodoma: "1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių,\nimperatoriumi ir jam atidavė  į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė\nKlemensas V, popiežius (Ptol. p. 1222, 1227; Mart. p. 438, 442)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-59902
+
+- id: c-60534
+  citata_originali: |
+    83. Apie švento Liudviko, Prancūzijos karaliaus, kanonizavimą
+
+      1296 viešpaties metais Bonifacas [VIII], popiežius, kanonizavo Liudviką, Prancūzijos
+
+    karalių (Ptol. pried. p. 1217; Mart. p. 436).
+  citata_rodoma: "Apie švento Liudviko, Prancūzijos karaliaus, kanonizavimą\n\n  1296 viešpaties metais Bonifacas [VIII], popiežius, kanonizavo Liudviką, Prancūzijos\n\nkaralių (Ptol. pried. p. 1217; Mart. p. 436)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-59904
+
+- id: c-60535
+  citata_originali: |
+    Apie brolį Egidijų, švento Augustino ordino didįjį mokytoją, bei apie jo mirtį
+
+      Tuo metu garsėjo magistras Egidijus, didysis augustinų ordino mokytojas, vėliau
+    Bonifaco VIII, popiežiaus, paskirtas Beri arkivyskupu (Ptol. 24, 14), jis mirė Avinjone,
+    kai ten įsikūrė Romos kurija, Jono XXII, popiežiaus, laikais, 1316 viešpaties metų sausio
+    1 dieną, o palaidotas Paryžiuje su kitais savo ordino broliais.
+
+
+
+     73.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-59901
+    - t-184047
+    - t-194476
+
+- id: c-60536
+  citata_originali: |
+    Apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę
+
+       Tais  pačiais metais  prasidėjo  nesantarvė  tarp  Bonifaco,  popiežiaus,  ir  Pilypo,
+    Prancūzijos karaliaus. Mat popiežius pasakė, kad ir pasaulietiški, ir dvasiški Prancūzijos
+    karalystės reikalai esą betarpiškai pavaldūs apaštališkajam sostui, ir pasiuntė popiežius
+    priklausomybės reskriptą su bule Prancūzijos karaliui, tvirtindamas, jog tas, kas teigiąs
+    priešingai, esąs eretikas. Šis reskriptas buvo perskaitytas  ir sudegintas Paryžiuje,
+    karaliaus rūmuose, daugybės dvasininkų bei pasauliečių akivaizdoje. Karalius paskelbė
+    15 kaltinimų popiežiui ir kreipėsi į busimąjį susirinkimą arba popiežių. Vis dėlto popiežius
+    Romos susirinkime išsiteisino nuo šių kaltinimų (Ptol. p. 1221 ir kt.; Mart. p. 438).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-59900
 
 ## Ryšiai
 - Bonifacas VIII (arkivyskupas, XIII–XIV a.) paskyrė [[objektai/asmenys/Albrechtas (Romos karalius)]], [[objektai/asmenys/Egidijus|Egidijus (arkivyskupas, XIV a.)]]

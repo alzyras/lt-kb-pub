@@ -7,10 +7,6 @@ datos:
   - '1902 m.'
 date_start: '1902'
 date_end: ''
-aliases:
-  - 'objektai/asmenys/T. Čarkovskis'
-variantai:
-  - 'T. Čarkovskis'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -20,6 +16,18 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'naujieji laikai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # T. Čarkovskis
 
@@ -32,10 +40,22 @@ periodo_grupes:
 <a id="claim-t-63319"></a>
 - t-001
   global_id: t-63319
-  teiginys: 'T. Čarkovskis parašė brošiūrą „Przenigdy“, kuri pablogino lenkų ir lietuvių santykius.'
+  teiginys: "T. Čarkovskis parašė brošiūrą „Przenigdy“, kuri pablogino lenkų ir lietuvių santykius."
+  teiginio_tipas: "faktas"
+  temporaliniai_duomenys: "įvykio data: 1902 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "234182-234843; hash=8ba47549c7ab956dedccf57dd7758fbb7b94c5ef806ee7aa399402a1c85e66b2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "T. Čarkovskis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=58"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"T. Čarkovskis\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-64355
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -52,8 +72,31 @@ periodo_grupes:
     dr. T. Čarkovskio (T. Czarkowski) brošiūra „Przenigdy“ („Niekados“), kuri
     lenkų ir lietuvių santykius pablogino.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-64355
+  citata_originali: |
+    1902 m. kun.
+    Adomas Jakštas-Dambrauskas išleido lenkiškai knygelę, kurioje išdėstė
+    jaunosios lietuvių kartos siekius ir programą, pageidaudamas, kad ir jau-
+    noji Lietuvos bajorų karta aiškiai pasisakytų, kas ji – lietuviai ar lenkai.
+    Lietuvos bajorų prašyta, kad būtų susipratę ir neveidmainiški lietuviai, kad
+    lietuviškai kalbėtų, melstųsi, mylėtų savo kraštą, jam dirbtų, būtų jo vadai,
+    rūpintųsi liaudies švietimu ir gerove, kad jaunieji bajorai būtų Lietuvos že-
+    mės druska. Pasiūlymo bendradarbiauti su bajorais Vilniaus lenkai atsisakė
+    dr. T. Čarkovskio (T. Czarkowski) brošiūra „Przenigdy“ („Niekados“), kuri
+    lenkų ir lietuvių santykius pablogino.
+  citata_rodoma: "Pasiūlymo bendradarbiauti su bajorais Vilniaus lenkai atsisakė\ndr. T. Čarkovskio (T. Czarkowski) brošiūra „Przenigdy“ („Niekados“), kuri\nlenkų ir lietuvių santykius pablogino."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-63319

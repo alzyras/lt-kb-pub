@@ -14,6 +14,18 @@ tags:
   - mūšis
 amziai:
   - 'XVIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Zelvos mūšis (1792 m. liepos 4 d.)
 
@@ -42,10 +54,23 @@ Nenurodyta
 <a id="claim-t-80682"></a>
 - t-001
   global_id: t-80682
-  teiginys: '1792 m. liepos 4 d. LDK kariuomenė patyrė antrąjį pralaimėjimą prie Zelvos.'
+  teiginys: "1792 m. liepos 4 d. LDK kariuomenė patyrė antrąjį pralaimėjimą prie Zelvos."
+  semantiniai_rysiai: "Lietuvos kariuomenė dalyvavo mūšyje Zelvos mūšis (1792 m. liepos 4 d.) (0.84)"
+  temporaliniai_duomenys: "įvykio data: 1792 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys per plačiai apima Zelencų mūšį, o citata leidžia tikslų sakinį apie Zelvos mūšį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "585964-586288; hash=65866d3942dc19c3160959e801178ac1448e2051dba43e71c5d792c782fc3ffb; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "dalyvavo_musyje -> Zelvos mūšis (1792 m. liepos 4 d.): 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Zelvos mūšis (1792 m. liepos 4 d.): llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "LDK kariuomenės pralaimėjimas prie Zelvos rodo jos dalyvavimą Zelvos mūšyje."
   pagrindžia:
-    - c-001
-
+    - c-77366
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -63,11 +88,34 @@ Nenurodyta
     4 d. LDK kariuomenė patyrė an-
     trąjį pralaimėjimą prie Zelvos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-77366
+  citata_originali: |
+    Pirmasis didelis mūšis įvyko bir-
+    želio 11 d. prie Miro. Čia Lietuvos
+    kariuomenė patyrė pirmąją nesė-
+    kmę. Birželio 18 d. Lenkijos kariuo-
+    menė prie Zelencų sumušė rusus,
+    tačiau didelėms priešų pajėgoms
+    spaudžiant ATR pajėgos turėjo
+    trauktis visu frontu, liepos
+    4 d. LDK kariuomenė patyrė an-
+    trąjį pralaimėjimą prie Zelvos.
+  citata_rodoma: "Birželio 18 d. Lenkijos kariuo-\nmenė prie Zelencų sumušė rusus,\ntačiau didelėms priešų pajėgoms\nspaudžiant ATR pajėgos turėjo\ntrauktis visu frontu, liepos\n4 d. LDK kariuomenė patyrė an-\ntrąjį pralaimėjimą prie Zelvos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-80682
 
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/grupes/Lietuvos kariuomenė]]

@@ -7,6 +7,7 @@ saltiniai:
 datos:
   - '1236 m.'
   - '1794 m.'
+  - '1923 m.'
   - '2026 m.'
 date_start: '1236'
 date_end: '2026'
@@ -18,6 +19,18 @@ tags:
 amziai:
   - 'XIII'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Šiauliai
 
@@ -28,25 +41,89 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
 ## Teiginiai
 
 <a id="claim-t-182783"></a>
-- t-001
+- t-055
   global_id: t-182783
-  teiginys: 'Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.'
+  teiginys: "Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius."
+  semantiniai_rysiai: "Virgoličiaus rinktinė keliavo į Šiauliai (0.96)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "784866-785070; hash=39996f9e4e66240007223618b7fdf451f4bff8e4b96bd360d847cfd886b5b107; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  ryšio_patikimumas: "keliavo_i -> Šiauliai: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Virgoličiaus rinktinė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Šiauliai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginyje tiesiogiai pasakyta, kad Virgoličiaus rinktinė persikėlė į Šiaulius."
   pagrindžia:
-    - c-001
+    - c-12723
 
 <a id="claim-t-182785"></a>
-- t-002
+- t-054
   global_id: t-182785
-  teiginys: '1794 m. balandžio 16 d. Šiauliuose ir jų apylinkėse sukilimą pradėjo LDK 1-oji Tautinė brigada.'
+  teiginys: "1794 m. balandžio 16 d. Šiauliuose ir jų apylinkėse sukilimą pradėjo LDK 1-oji Tautinė brigada."
+  temporaliniai_duomenys: "įvykio data: 1794 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys, tiksliai paremtas citata apie 1794 m. sukilimo pradžią."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "613397-613628; hash=681a12b78d99664810512441664de7a9b0bd7e66557b15cf2d6b19ed5a9132c7; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  ryšio_patikimumas: "susije_su -> LDK 1-oji Tautinė brigada: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šiauliai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "LDK 1-oji Tautinė brigada: mention_match, group, gap=45"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šiauliai\" parinktas kaip owner_note_path. Targetas \"LDK 1-oji Tautinė brigada\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-44078
 
 <a id="claim-t-182786"></a>
-- t-003
+- t-053
   global_id: t-182786
-  teiginys: 'Šiauliuose, ties dabartinių Tilžės ir Vilniaus gatvių sankryža, buvo pagrindinė Šiaulių žemės strateginė kelių sankryža.'
+  teiginys: "Šiauliuose, ties dabartinių Tilžės ir Vilniaus gatvių sankryža, buvo pagrindinė Šiaulių žemės strateginė kelių sankryža."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "65524-65773; hash=5f1e3a205ddb6d403db5dc082c681220466bf821668e8e3fb0dd5bfcbc014b0f; match=whitespace_regex"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  ryšio_patikimumas: "susije_su -> Tilžė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šiauliai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Tilžė: mention_match, place, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šiauliai\" parinktas kaip owner_note_path. Targetas \"Tilžė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-003
+    - c-166193
+
+<a id="claim-t-193258"></a>
+- t-056
+  global_id: t-193258
+  teiginys: "Ties Šiauliais įvyko didelis mūšis, kurį laimėjo lietuviai."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "116125-116375; hash=c0774f75b073425d5f0ff0bd47f176e642961cdccb0123f764e68320797679d0; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
+  vertinimo_autorius: "rewrite_source_claims / reject"
+  pagrindžia:
+    - c-175990
+
+<a id="claim-t-193783"></a>
+- t-057
+  global_id: t-193783
+  teiginys: "Mindaugo ir vėlesnių Lietuvos valdovų Lietuva turėjo kovoti su Vokiečių ordinu prie Saulės (1236), Durbės (1260) ir gausybėje kitų mūšių iki pat Žalgirio (1410)."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "20419-20676; hash=8bd0af7fb2960cd740a2c92e1a679828ca7126f099e86d668da41e754b25b594; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176434
 - susijęs iš [[objektai/grupes/Virgoličiaus rinktinė.md#claim-t-39014|Virgoličiaus rinktinė]]: 1919 m. spalio 5 d. plk. Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.
 - susijęs iš [[objektai/asmenys/Virgoličius.md#claim-t-40510|Virgoličius]]: Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.
 - susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78777|Loreta Uzdraitė]]: Loreta Uzdraitė kartu su Romu Batūra ir Karoliu Zikaru parengė kartoschemą apie Kalavijuočių ordino ir kryžininkų įsiveržimą į Šiaulių žemę.
@@ -134,6 +211,7 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
     Lietuvos kariuomenė dar
     tęsė kovas su bolševikais Dauguvos fronte.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -154,6 +232,7 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
     Tuo metu Žemaitijoje praktiškai nebuvo
     Rusijos kariuomenės.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -172,11 +251,129 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
     (ties dab. Tilžės ir Vilniaus gatvių san-
     kryža), kur plėtojosi senovės gyvenvietė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+- c-004
+  santrauka: 'Ties Šiauliais įvyko didelis mūšis, kurį laimėjo lietuviai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pajutę susitelkusią lietuvių ka-
+    riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai
+    pastojo jiems kelią. Ties Šiauliais įvyko didelis mūšis, kurį
+    laimėjo lietuviai. Kalavijuočių žuvo visa vadovybė su pačiu
+    magistru ir daugybė svečių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-004
+
+- c-005
+  santrauka: 'Mindaugo ir vėlesnių Lietuvos valdovų Lietuva turėjo kovoti su Vokiečių ordinu prie Saulės (1236), Durbės (1260) ir gausybėje kitų mūšių iki pat Žalgirio (1410).'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Visus valstybės kūrimus lydėjo kovos ir mūšiai. Mindaugo ir
+    vėlesnių Lietuvos valdovų Lietuva turėjo kovoti su Vokiečių or-
+    dinu prie Saulės (1236), Durbės (1260) ir gausybėje kitų mūšių
+    iki pat Žalgirio (1410). Nepaisant pavojų Vakaruose, Lietuvos
+
+    1923 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-005
+
+## Citatos
+
+- id: c-12723
+  citata_originali: |
+    Spalio 5 d. plk. Virgoličiaus
+    rinktinė iš Kuršėnų per-
+    sikėlė į Šiaulius. Lietuvos
+    vyriausybė negalėjo už-
+    kirsti jai kelio, nes tuo metu
+    Lietuvos kariuomenė dar
+    tęsė kovas su bolševikais Dauguvos fronte.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182783
+
+- id: c-44078
+  citata_originali: |
+    Pirmoji kovų fazė: Vilniaus
+
+    išvadavimas
+
+    1794 m. balandžio 16 d. Šiauliuose ir jo apy-
+    linkėse sukilimą pradėjo LDK 1-oji Tautinė
+    brigada (ankščiau vadinta Kauno husarų).
+    Tuo metu Žemaitijoje praktiškai nebuvo
+    Rusijos kariuomenės.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182785
+
+- id: c-166193
+  citata_originali: |
+    Iš
+    įvairių šaltinių žinoma, kad po plėšimo
+    kariuomenė vėl susirinkdavo į nustatytą
+    vietą-stovyklą. Šiaulių žemėje pagrindinė
+    strateginė kelių sankryža yra Šiauliuose
+    (ties dab. Tilžės ir Vilniaus gatvių san-
+    kryža), kur plėtojosi senovės gyvenvietė.
+  citata_rodoma: "Šiaulių žemėje pagrindinė\nstrateginė kelių sankryža yra Šiauliuose\n(ties dab. Tilžės ir Vilniaus gatvių san-\nkryža), kur plėtojosi senovės gyvenvietė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182786
+
+- id: c-175990
+  citata_originali: |
+    Pajutę susitelkusią lietuvių ka-
+    riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai
+    pastojo jiems kelią. Ties Šiauliais įvyko didelis mūšis, kurį
+    laimėjo lietuviai. Kalavijuočių žuvo visa vadovybė su pačiu
+    magistru ir daugybė svečių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193258
+
+- id: c-176434
+  citata_originali: |
+    Visus valstybės kūrimus lydėjo kovos ir mūšiai. Mindaugo ir
+    vėlesnių Lietuvos valdovų Lietuva turėjo kovoti su Vokiečių or-
+    dinu prie Saulės (1236), Durbės (1260) ir gausybėje kitų mūšių
+    iki pat Žalgirio (1410). Nepaisant pavojų Vakaruose, Lietuvos
+
+    1923 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193783
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Virgoličiaus rinktinė]]

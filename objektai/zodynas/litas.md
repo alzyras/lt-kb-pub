@@ -16,6 +16,18 @@ tags:
   - valstybė
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # litas
 
@@ -28,23 +40,67 @@ Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatym
 <a id="claim-t-22218"></a>
 - t-001
   global_id: t-22218
-  teiginys: 'Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų.'
+  teiginys: "Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų."
+  temporaliniai_duomenys: "įvykio data: 1922 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus, gramatiškas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "300707-301123; hash=ecdb52b68816f4dd35f3da859a77d6466d3f26029afedf101b594e6272ab6704; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "litas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=37"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"litas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-24907
 
 <a id="claim-t-22219"></a>
 - t-002
   global_id: t-22219
-  teiginys: 'Nepriklausomos Lietuvos laikotarpiu litas išlaikė stabilų kursą ir buvo pagrįstas vertybiniais popieriais bei 12 tonų aukso atsargomis.'
+  teiginys: "Nepriklausomos Lietuvos laikotarpiu litas išlaikė stabilų kursą ir buvo pagrįstas vertybiniais popieriais bei 12 tonų aukso atsargomis."
+  temporaliniai_duomenys: "įvykio data: 1922 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia pataisyti formuluotę apie valiutos pagrindimą ir aukso atsargas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "301124-301488; hash=6e34d7961c2a858d546254d00a4ea15fb576fac85dc0c75d969712cb2f6a73cb; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "litas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"litas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-24908
 
 <a id="claim-t-183444"></a>
 - t-003
   global_id: t-183444
-  teiginys: 'Litas Lietuvoje įvestas 1922 m. spalio 1 d.; jo aukso turinys buvo 0,150462 g gryno aukso, o santykis su JAV doleriu buvo 10:1.'
+  teiginys: "Litas Lietuvoje įvestas 1922 m. spalio 1 d.; jo aukso turinys buvo 0,150462 g gryno aukso, o santykis su JAV doleriu buvo 10:1."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1922 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia pateikti tiesiogesnį teiginį apie patį litą ir jo įvedimą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "300948-301279; hash=b0486b454a0f7843ce1b6f94dace30230fc585f7a8c8f044702e4dc69319ccc4; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "litas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=6"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"litas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-003
+    - c-166839
 - susijęs iš [[objektai/daiktai/Lietuvos pinigai litas.md#claim-t-19550|Lietuvos pinigai litas]]: Lito susiejimas su JAV doleriu laikytas vienu išmintingiausių atsikūrusios Lietuvos ekonominės politikos sprendimų.
 - susijęs iš [[objektai/daiktai/Lietuvos pinigai.md#claim-t-103468|Lietuvos pinigai]]: Per nepriklausomos Lietuvos laikotarpį litas išlaikė stabilų kursą ir buvo pagrįstas vertybiniais popieriais bei 12 tonų aukso atsargomis.
 - susijęs iš [[objektai/ivykiai/Piniginio vieneto įstatymo priėmimas ir lito įvedimas (1922 m.).md#claim-t-23351|Piniginio vieneto įstatymo priėmimas ir lito įvedimas (1922 m.)]]: 1922 m. spalio 1 d. Lietuvoje įvestas litas.
@@ -65,6 +121,7 @@ Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatym
     niginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra
     auksu paremtas litas, kurį sudaro 100 centų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -81,6 +138,7 @@ Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatym
     popieriais ir sukauptomis 12 tonų aukso, todėl ji gerai vertinta ir kitose už-
     sienio valstybėse.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -97,8 +155,57 @@ Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatym
     įvestas litas. Jo aukso turinys buvo lygus 0,150462 g gryno aukso, t. y. litas
     buvo prilygintas JAV doleriui santykiu 10:1.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-24907
+  citata_originali: |
+    Šalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksi-
+    nais. Sunkmečiu labai nukritęs vokiškų pinigų kursas neigiamai veikė Lie-
+    tuvos ekonomiką, katastrofiški infliacijos padariniai vertė Lietuvos valdžią
+    ieškoti sprendimo. Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Pi-
+    niginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra
+    auksu paremtas litas, kurį sudaro 100 centų.
+  citata_rodoma: "niginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-22218
+
+- id: c-24908
+  citata_originali: |
+    1922 m. spalio 1 d. Lietuvoje
+    įvestas litas. Jo aukso turinys buvo lygus 0,150462 g gryno aukso, t. y. litas
+    buvo prilygintas JAV doleriui santykiu 10:1. Per visą nepriklausomos Lie-
+    tuvos laikotarpį litas išlaikė stabilų kursą, valiuta buvo pagrįsta vertybiniais
+    popieriais ir sukauptomis 12 tonų aukso, todėl ji gerai vertinta ir kitose už-
+    sienio valstybėse.
+  citata_rodoma: "tuvos laikotarpį litas išlaikė stabilų kursą, valiuta buvo pagrįsta vertybiniais"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-22219
+
+- id: c-166839
+  citata_originali: |
+    Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Pi-
+    niginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra
+    auksu paremtas litas, kurį sudaro 100 centų. 1922 m. spalio 1 d. Lietuvoje
+    įvestas litas. Jo aukso turinys buvo lygus 0,150462 g gryno aukso, t. y. litas
+    buvo prilygintas JAV doleriui santykiu 10:1.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183444

@@ -13,6 +13,18 @@ tags:
   - grupe
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Gruzinai
 
@@ -25,9 +37,21 @@ Dusburgietis teigia, kad apie tai, kaip totoriai nukovė 10 tūkstančių sarac�
 <a id="claim-t-62591"></a>
 - t-001
   global_id: t-62591
-  teiginys: 'Totoriai su armėnais ir gruzinais nužygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkstančių raitelių.'
+  teiginys: "Totoriai su armėnais ir gruzinais nužygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkstančių raitelių."
+  teiginio_tipas: "faktas"
+  semantiniai_rysiai: "Gruzinai surengė žygį į Sirija (0.82); Gruzinai surengė žygį į Palestina (0.82); Gruzinai buvo sąjungininkas su Totoriai (0.76); Gruzinai buvo sąjungininkas su Armėnai (0.76)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "738716-738946; hash=093fe553dad63cc56ee275a5667bbb953a682b34a07683653d251b2c09cc7b1d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Palestina: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gruzinai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Palestina: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo bendrą žygį į Palestiną, kuriame dalyvavo gruzinai."
   pagrindžia:
-    - c-001
+    - c-63315
 - susijęs iš [[objektai/grupes/Armėnai.md#claim-t-88520|Armėnai]]: Totoriai kartu su armėnais ir gruzinais žygiavo į Siriją bei Palestiną ir nukovė daugiau nei 10 tūkstančių raitelių.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171441|Totoriai]]: Totoriai su armėnais ir gruzinais nužygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkstančių raitelių.
 - susijęs iš [[objektai/ivykiai/Totorių, armėnų ir gruzinų žygis į Siriją bei Palestiną (1311 m.).md#claim-t-62507|Totorių, armėnų ir gruzinų žygis į Siriją bei Palestiną (1311 m.)]]: 1311 m. totoriai su armėnais ir gruzinais žygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkst. raitelių.
@@ -44,11 +68,28 @@ Dusburgietis teigia, kad apie tai, kaip totoriai nukovė 10 tūkstančių sarac�
        Tais metais totoriai su armėnais bei gruzinais nužygiavo į Siriją bei Palestiną ir, išviję
     sultoną, nukovė daugiau nei 10 tūkstančių raitelių (Ptol. p. 1235).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-63315
+  citata_originali: |
+    108. Apie tai, kaip totoriai nukovė 10 tūkstančių saracėnų raitelių
+
+       Tais metais totoriai su armėnais bei gruzinais nužygiavo į Siriją bei Palestiną ir, išviję
+    sultoną, nukovė daugiau nei 10 tūkstančių raitelių (Ptol. p. 1235).
+  citata_rodoma: "108. Apie tai, kaip totoriai nukovė 10 tūkstančių saracėnų raitelių\n\n   Tais metais totoriai su armėnais bei gruzinais nužygiavo į Siriją bei Palestiną ir, išviję\nsultoną, nukovė daugiau nei 10 tūkstančių raitelių (Ptol. p. 1235)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-62591
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Armėnai]], [[objektai/grupes/Totoriai]]

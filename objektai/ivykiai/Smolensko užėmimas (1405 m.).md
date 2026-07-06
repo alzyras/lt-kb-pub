@@ -15,6 +15,18 @@ tags:
   - miestas
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Smolensko užėmimas (1405 m.)
 
@@ -43,10 +55,23 @@ Nenurodyta
 <a id="claim-t-35877"></a>
 - t-001
   global_id: t-35877
-  teiginys: '1405 m. Vytautas su didele kariuomene ir artilerija užpuolė Smolenską, o miestas buvo paimtas padedant lietuvių šalininkams.'
+  teiginys: "1405 m. Vytautas su didele kariuomene ir artilerija užpuolė Smolenską, o miestas buvo paimtas padedant lietuvių šalininkams."
+  semantiniai_rysiai: "Bajorai rėmė Lietuviai (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1405 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiksliai remiasi citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "179387-179804; hash=a6e5d89cf254e40fc2c4013aa222431890d797a1693a4873313e0222257b1eda; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Lietuviai: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bajorai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai vadina bajorus lietuvių šalininkais."
   pagrindžia:
-    - c-001
-
+    - c-37048
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -61,8 +86,28 @@ Nenurodyta
     ninkus ir įsakė duoti miestiečiams visokių palengvinimų, kad
     patrauktų juos į savo pusę.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-37048
+  citata_originali: |
+    Sviatoslavui Jur­
+    giui nesant namie, 1405 met. Vytautas vėl su didele kariuome­
+    ne ir artilerija užpuolė Smolenską. Miestas, padedant smo­
+    lenskiečiams bajorams, lietuvių šalininkams, buvo paimtas. Jur­
+    gio žmona su vaikais, taip pat ir jam priešingi bajorai liko iš­
+    vežti į Lietuvą. Vytautas Smolenske vėl pasodino savo vieti­
+    ninkus ir įsakė duoti miestiečiams visokių palengvinimų, kad
+    patrauktų juos į savo pusę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-35877

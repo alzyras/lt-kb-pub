@@ -3,17 +3,13 @@ tipas: asmuo
 pavadinimas: 'Elena (vyskupas, XV–XVI a.)'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1494 m.'
   - '1513 m.'
 date_start: '1494'
 date_end: '1513'
-description: 'Elena, Ivano Vasiljevičiaus duktė ir Aleksandro žmona, 1495 m. atvyko į Vilnių; santuoka siejama su prekyba ir globa.'
-socialDescription: 'Elena šaltiniuose minima kaip Ivano Vasiljevičiaus duktė ir Aleksandro žmona, kurios atvykimas į Vilnių, santuoka ir vėlesnė globa siejami su Lietuvos Didžiosios Kunigaikštystės politiniais bei prekybiniais ryšiais.'
-seo_atnaujinta: '2026-07-02T20:14:54.796077+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'true'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -23,12 +19,24 @@ amziai:
   - 'XVI'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Elena (vyskupas, XV–XVI a.)
 
 ## Santrauka
 
-Pateikti šaltiniai Eleną sieja su Ivano Vasiljevičiaus dukterimi ir Aleksandro žmona, 1495 m. iš Maskvos atvykusia į Vilnių. Jos santuoka su Aleksandru minima politinių vaidų ir Vilniaus prekybinių ryšių su Rusios miestais kontekste. Vėlesni įrašai kalba apie Elenos globą, jai skirtas valdas ir jos rūpesčiu Vilniaus pilyje pastatytą namą Maskvos pasiuntiniams.
+Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro žmona. Ji atvyko į Vilnių, buvo sutuokta su Aleksandru, jos santuoka siejama su Vilniaus prekybos ryšių plėtra, o vėlesni dokumentai mini jai skirtas dovanas, globą ir mirtį Vilniuje.
 
 ## Variantai
 
@@ -58,121 +66,354 @@ Pateikti šaltiniai Eleną sieja su Ivano Vasiljevičiaus dukterimi ir Aleksandr
 <a id="claim-t-54956"></a>
 - t-001
   global_id: t-54956
-  teiginys: 'Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti siekdamas užgesinti politinius vaidus.'
+  teiginys: "Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti siekdamas užgesinti politinius vaidus."
+  semantiniai_rysiai: "Elena (vyskupas, XV–XVI a.) buvo duktė Vasiljevičius (Maskvos valdovas) (0.92); Aleksandras vedė Elena (vyskupas, XV–XVI a.) (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1494 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "466259-466839; hash=5b39012f4ca1eddac84a7dd15353d6be395cde5ee46eeab84707c218aa4c6ace; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "buvo_dukte -> Vasiljevičius (Maskvos valdovas): 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vasiljevičius (Maskvos valdovas): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai įvardija Eleną Ivano Vasiljevičiaus dukterimi."
   pagrindžia:
-    - c-010
+    - c-78766
 
 <a id="claim-t-54957"></a>
 - t-002
   global_id: t-54957
-  teiginys: '1495 m. sužadėtinė Elena iš Maskvos atvyko į Vilnių, lydima bojarinų ir dvariškių, o Aleksandras ją sutiko prie Nemėžio kelio.'
+  teiginys: "1495 m. sužadėtinė Elena iš Maskvos atvyko į Vilnių, lydima bojarinų ir dvariškių, o Aleksandras ją sutiko prie Nemėžio kelio."
+  semantiniai_rysiai: "Elena (vyskupas, XV–XVI a.) keliavo į Vilnius (0.90)"
+  temporaliniai_duomenys: "kelionės data: 1494 m.; kelionės data: 1495 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "466573-467429; hash=88deac52e1f69b557732fbda5fa92e575e48ed7e521602387536f79d240ceee5; match=whitespace_regex"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Elena atvyko į Vilnių."
   pagrindžia:
-    - c-001
+    - c-55318
 
 <a id="claim-t-54958"></a>
 - t-003
   global_id: t-54958
-  teiginys: 'Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė Aleksandrą su Elena.'
+  teiginys: "Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė Aleksandrą su Elena."
+  semantiniai_rysiai: "Aleksandras vedė Elena (vyskupas, XV–XVI a.) (0.88)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "467430-467851; hash=17dce260f34f777b0e355d3de9d1f395b09d5065cc031ba13246033c119be3f5; match=whitespace_regex"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "vede -> Elena (vyskupas, XV–XVI a.): 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Aleksandras: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai patvirtina Aleksandro ir Elenos santuoką."
   pagrindžia:
-    - c-002
+    - c-55319
 
 <a id="claim-t-54959"></a>
 - t-004
   global_id: t-54959
-  teiginys: 'Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius santykius su Rusios miestais.'
+  teiginys: "Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius santykius su Rusios miestais."
+  semantiniai_rysiai: "Vilnius prekiavo su Pskovas (0.72); Vilnius prekiavo su Tverė (0.72)"
+  temporaliniai_duomenys: "įvykio data: 1500 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir citata tiesiogiai pagrindžia santuokos poveikį Vilniaus prekybai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "468227-468775; hash=1fb7fb5fc57b6b92c6916b46b8136d02f6e5c5278092662697257ceb36eb3afb; match=whitespace_regex"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "prekiavo_su -> Pskovas: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Pskovas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo Vilniaus prekybinių santykių plėtrą su Rusios miestais, tarp jų Pskovu."
   pagrindžia:
-    - c-003
+    - c-55320
 
 <a id="claim-t-54960"></a>
 - t-005
   global_id: t-54960
-  teiginys: 'Karalienė Elena lydėjo paliegusį Aleksandrą, kai jis buvo vežamas į Vilnių.'
+  teiginys: "Karalienė Elena lydėjo paliegusį Aleksandrą, kai jis buvo vežamas į Vilnių."
+  semantiniai_rysiai: "Elena (vyskupas, XV–XVI a.) keliavo į Vilnius (0.75)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "474960-475472; hash=d58a2c066455c2f635ebb59fca3e2839e1c72782097837084768a9aa2e16598c; match=whitespace_regex"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.75"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Elena lydėjo Aleksandrą, kai šis buvo gabenamas į Vilnių."
   pagrindžia:
-    - c-004
+    - c-55321
 
 <a id="claim-t-54961"></a>
 - t-006
   global_id: t-54961
-  teiginys: 'Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams.'
+  teiginys: "Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams."
+  semantiniai_rysiai: "Elena (vyskupas, XV–XVI a.) pastatė Namas (0.92)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "473474-474113; hash=209bad3c8ce86d33c43b94a34369b2362f3595f67e4ebc6f2cedee0d5e930032; match=whitespace_regex"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "pastate -> Namas: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Namas: llm_allowed_candidate, thing"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad Elena savo lėšomis pastatydino namą."
   pagrindžia:
-    - c-005
+    - c-55322
 
 <a id="claim-t-54962"></a>
-- t-007
+- t-009
   global_id: t-54962
-  teiginys: '1503 m. Aleksandras dovanojo Elenai Mogiliavo pilį jos gyvenimo laikui.'
+  teiginys: "1503 m. Aleksandras dovanojo Elenai Mogiliavo pilį jos gyvenimo laikui."
+  semantiniai_rysiai: "Mogiliavas priklausė Elena (vyskupas, XV–XVI a.) (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1503 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "705175-706849; hash=d630a5ecab1ca85606481ead2b13ca00da0150d99623bd43eab11775912069c2; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "priklause -> Elena (vyskupas, XV–XVI a.): 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mogiliavas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Mogiliavo pilis buvo dovanojama Elenai jos naudojimui."
   pagrindžia:
-    - c-013
+    - c-78769
 
 <a id="claim-t-54963"></a>
-- t-008
+- t-010
   global_id: t-54963
-  teiginys: 'Aleksandro testamentas pavedė Žygimantui ir kitiems globoti Eleną bei jos teises.'
+  teiginys: "Aleksandro testamentas pavedė Žygimantui ir kitiems globoti Eleną bei jos teises."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "714220-716031; hash=0629d8d35613d72b43cc0a834673b20d4cd1dae458e8076100085765eebe1fa9; match=whitespace_regex"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "susije_su -> Antspaudas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Elena (vyskupas, XV–XVI a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Antspaudas: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elena (vyskupas, XV–XVI a.)\" parinktas kaip owner_note_path. Targetas \"Antspaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-55324
 
 <a id="claim-t-82283"></a>
-- t-009
+- t-011
   global_id: t-82283
-  teiginys: 'Aleksandras nutarė vesti Ivano Vasiljevičiaus dukterį Eleną, siekdamas užgesinti kilusius tarpusavio vaidus.'
+  teiginys: "Aleksandras nutarė vesti Ivano Vasiljevičiaus dukterį Eleną, siekdamas užgesinti kilusius tarpusavio vaidus."
+  semantiniai_rysiai: "Elena (vyskupas, XV–XVI a.) buvo duktė Vasiljevičius (Maskvos valdovas) (0.92); Aleksandras vedė Elena (vyskupas, XV–XVI a.) (0.87)"
+  temporaliniai_duomenys: "įvykio data: 1494 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia vedybų motyvą, o pradinis teiginys prasidėjo neaiškiu įvardžiu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "466259-466839; hash=5b39012f4ca1eddac84a7dd15353d6be395cde5ee46eeab84707c218aa4c6ace; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "buvo_dukte -> Vasiljevičius (Maskvos valdovas): 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vasiljevičius (Maskvos valdovas): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai įvardija Eleną Ivano Vasiljevičiaus dukterimi."
   pagrindžia:
-    - c-010
+    - c-78766
 
 <a id="claim-t-82284"></a>
-- t-010
+- t-018
   global_id: t-82284
-  teiginys: 'Aleksandras dovanojo Elenai Mogiliavo pilį prie Dniepro ir jai priklausančias valdas tik Elenos gyvenimo laikui.'
+  teiginys: "Aleksandras dovanojo Elenai Mogiliavo pilį prie Dniepro ir jai priklausančias valdas tik Elenos gyvenimo laikui."
+  semantiniai_rysiai: "Mogiliavas priklausė Elena (vyskupas, XV–XVI a.) (0.86)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "705175-706849; hash=d630a5ecab1ca85606481ead2b13ca00da0150d99623bd43eab11775912069c2; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "priklause -> Elena (vyskupas, XV–XVI a.): 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mogiliavas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Mogiliavo pilis tekste tiesiogiai dovanojama Elenai jos gyvenimo laikui."
   pagrindžia:
-    - c-013
+    - c-78769
 
 <a id="claim-t-82285"></a>
-- t-011
+- t-017
   global_id: t-82285
-  teiginys: 'Aleksandras užrašė Elenai ir jos įpėdiniams Smolnėnus, Horodiščę, Losičius ir kitas valdas su jų priklausiniais.'
+  teiginys: "Aleksandras užrašė Elenai ir jos įpėdiniams Smolnėnus, Horodiščę, Losičius ir kitas valdas su jų priklausiniais."
+  semantiniai_rysiai: "Losičiai priklausė Elena (vyskupas, XV–XVI a.) (0.88)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "699392-701438; hash=a1699172e642578dccecb3c7aca5af8332f2304d59726efa585ee3990a75927a; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "priklause -> Elena (vyskupas, XV–XVI a.): 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Losičiai: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Losičiai yra išvardyti tarp valdų, kurias Aleksandras užrašė Elenai ir jos įpėdiniams."
   pagrindžia:
-    - c-011
+    - c-78767
 
 <a id="claim-t-82286"></a>
-- t-012
+- t-014
   global_id: t-82286
-  teiginys: 'Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere.'
+  teiginys: "Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere."
+  semantiniai_rysiai: "Vilnius prekiavo su Pskovas (0.73)"
+  temporaliniai_duomenys: "įvykio data: 1500 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata tiesiogiai pagrindžia poveikį prekybiniams ryšiams."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "468419-468950; hash=58e1933f8b19df3b36d40842bc611abafee5e4bb671d3e565ad0379034ff79e2; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "prekiavo_su -> Pskovas: 0.73"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Pskovas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata Vilniaus prekybinius ryšius sieja su Rusios miestais, tarp kurių įvardytas Pskovas."
   pagrindžia:
-    - c-009
+    - c-78765
 
 <a id="claim-t-82287"></a>
-- t-013
+- t-015
   global_id: t-82287
-  teiginys: 'Karalienė Elena mirė Vilniuje 1513 m. ir buvo palaidota graikų apeigų koplyčioje.'
+  teiginys: "Karalienė Elena mirė Vilniuje 1513 m. ir buvo palaidota graikų apeigų koplyčioje."
+  semantiniai_rysiai: "Elena (vyskupas, XV–XVI a.) mirė Vilnius (0.94)"
+  temporaliniai_duomenys: "mirties data: 1513 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir paremtas citata, nepaisant OCR triukšmo šaltinio fragmente."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "478509-478988; hash=29674020b83c5d56c890d843aa93acae5702d34c5b90a2f46deec3fb157598f2; match=whitespace_regex"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "mire -> Vilnius: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Elena mirė Vilniuje."
   pagrindžia:
-    - c-008
+    - c-78764
 
 <a id="claim-t-82288"></a>
-- t-014
+- t-012
   global_id: t-82288
-  teiginys: '1495 m. carui sutikus su vedybomis, sužadėtinė Elena kitų metų vasarį atvyko iš Maskvos į Vilnių.'
+  teiginys: "1495 m. carui sutikus su vedybomis, sužadėtinė Elena kitų metų vasarį atvyko iš Maskvos į Vilnių."
+  semantiniai_rysiai: "Elena (vyskupas, XV–XVI a.) keliavo į Vilnius (0.91)"
+  temporaliniai_duomenys: "kelionės data: 1494 m.; kelionės data: 1495 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Elena (vyskupas, XV–XVI a.) keliavo į Maskva“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys ir tiksliai perteikia citatos turinį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "466573-467429; hash=88deac52e1f69b557732fbda5fa92e575e48ed7e521602387536f79d240ceee5; match=whitespace_regex"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Elena atvyko į Vilnių."
   pagrindžia:
-    - c-001
+    - c-55318
 
 <a id="claim-t-82289"></a>
-- t-015
+- t-016
   global_id: t-82289
-  teiginys: 'Aleksandras dovanojo Elenai ir jos palikuonims Kniazičius, Teteriną, Popova Huros pilį ir kitas valdas.'
+  teiginys: "Aleksandras dovanojo Elenai ir jos palikuonims Kniazičius, Teteriną, Popova Huros pilį ir kitas valdas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "696420-697033; hash=c066b6851011b1766abe81163897d00d3148decf50f8fa1167e5f04eedcc6313; match=whitespace_regex"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "susije_su -> Aleksandras: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Elena (vyskupas, XV–XVI a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras: mention_match, person, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elena (vyskupas, XV–XVI a.)\" parinktas kaip owner_note_path. Targetas \"Aleksandras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-012
+    - c-78768
 
 <a id="claim-t-82290"></a>
-- t-016
+- t-013
   global_id: t-82290
-  teiginys: 'Vilniaus vyskupas Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė didįjį kunigaikštį Aleksandrą su Elena.'
+  teiginys: "Vilniaus vyskupas Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė didįjį kunigaikštį Aleksandrą su Elena."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "467608-468045; hash=a03a12e62592cd523721aa13c3e5352bd3063aadbc883d8ef691f9c001d15211; match=whitespace_regex"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "susije_su -> Foma: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Elena (vyskupas, XV–XVI a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Foma: mention_match, person, gap=46"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elena (vyskupas, XV–XVI a.)\" parinktas kaip owner_note_path. Targetas \"Foma\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-78763
 
 <a id="claim-t-184695"></a>
-- t-017
+- t-019
   global_id: t-184695
-  teiginys: 'Karalienė Elena, didikams išvykus į seimą, pamėgino pabėgti į Maskvos kunigaikštystę.'
+  teiginys: "Karalienė Elena, didikams išvykus į seimą, pamėgino pabėgti į Maskvos kunigaikštystę."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1092205-1092929; hash=114de11ddc2cdbd98c3d2529104f41474752c6ba209ea729817061fa55738f49; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Elena (vyskupas, XV–XVI a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=52"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elena (vyskupas, XV–XVI a.)\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-014
+    - c-168056
+
+<a id="claim-t-193907"></a>
+- t-020
+  global_id: t-193907
+  teiginys: "Lietuvos didy sis kunigaikštis Aleksandras nusiuntė į Maskvą, pas didįjį Maskvos kunigaikštį Ivaną, pasiuntinius1 9 par vežti didžiosios kunigaikštytės Elenos: Vilniaus kašte lioną, Gardino vietininką kunigaikštį Aleksandrą Jurjevičių2 0 , Trakų kaštelioną."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "255822-256575; hash=13fa6c6a9b4d96e2df78a9a1255627716208f4adc5662cb8c801a911a6dd7f82; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176532
+
+<a id="claim-t-193908"></a>
+- t-021
+  global_id: t-193908
+  teiginys: "” Maskvos kunigaikštytė Elena atvyko | Vilnių I495.II.IS ir tų pačių dienų Vilniaus katedroje įvyko jos jungtuvės su Lietuvos did. kunigaikščiu Aleksandru."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "607711-607869; hash=a0edcf9294640fe4ea9d2a994c494c522ea123ebebac30ce4f8d6c2caf22290a; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176533
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54942|Aleksandras Jogailaitis]]: Aleksandras pasirinko Vilnių nuolatiniam gyvenimui ir po vedybų su Elena atgaivino sostinę.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82180|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis pasirinko Vilnių nuolatiniam gyvenimui ir po vedybų su Elena išlaikė prabangų dvarą.
 - susijęs iš Karaliaus Aleksandro privilegija Elenai dėl Mogiliavo pilies (1503 m.): Aleksandras Elenai iki gyvos galvos dovanojo Mogiliavo pilį prie Dniepro su jai priklausančiomis žemėmis ir valdomis.
@@ -290,6 +531,7 @@ Pateikti šaltiniai Eleną sieja su Ivano Vasiljevičiaus dukterimi ir Aleksandr
     tiesalo, padavė vienas kitam rankas ir pirmąkart pasikal­
     bėjo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -309,8 +551,9 @@ Pateikti šaltiniai Eleną sieja su Ivano Vasiljevičiaus dukterimi ir Aleksandr
     tienė Rapolovska laikė vainiką, o djakas Kulešinas - stik­
     linę vyno42.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -329,8 +572,9 @@ Pateikti šaltiniai Eleną sieja su Ivano Vasiljevičiaus dukterimi ir Aleksandr
     tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­
     tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
@@ -349,8 +593,9 @@ Pateikti šaltiniai Eleną sieja su Ivano Vasiljevičiaus dukterimi ir Aleksandr
     Taboras, Jonas Zabžezinskis ir Karalystės kancleris Jonas
     Laskis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
@@ -379,8 +624,9 @@ Pateikti šaltiniai Eleną sieja su Ivano Vasiljevičiaus dukterimi ir Aleksandr
     je, vasario 12-tą dieną, 12 indikte, su
     antspaudu. Raidė aa.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
@@ -420,8 +666,9 @@ Pateikti šaltiniai Eleną sieja su Ivano Vasiljevičiaus dukterimi ir Aleksandr
     džiąją Lietuvos, Rusios, Žemaitijos kunigaikštienę, jos veiks­
     mų bei teisių globą (protectio).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
@@ -439,6 +686,7 @@ Pateikti šaltiniai Eleną sieja su Ivano Vasiljevičiaus dukterimi ir Aleksandr
     vanoti43, o iškilmės Lietuvos sostinėje tęsėsi beveik iki
     42 daugelyje rusų metraščių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -463,6 +711,7 @@ Pateikti šaltiniai Eleną sieja su Ivano Vasiljevičiaus dukterimi ir Aleksandr
     namų statymas teikė naudingos veiklos Vilniaus gyvento­
     jams, ir miestiečiai darėsi turtingesni.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -483,6 +732,7 @@ Pateikti šaltiniai Eleną sieja su Ivano Vasiljevičiaus dukterimi ir Aleksandr
     pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
     savo atvykimą iškart pranešti pilininkui4 3  44.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -508,8 +758,9 @@ Pateikti šaltiniai Eleną sieja su Ivano Vasiljevičiaus dukterimi ir Aleksandr
     lovas Goštautas, Žemaičių seniūnas, Aleksandras prisie­
     kė Vilniuje, iš Maskvos atvykusių pasiuntinių akivaizdoje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
@@ -559,6 +810,7 @@ Pateikti šaltiniai Eleną sieja su Ivano Vasiljevičiaus dukterimi ir Aleksandr
     pedire. In quorum omnium fidem, et robur praesentibus si­
     gillum nostrum est subappensum.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -583,6 +835,7 @@ Pateikti šaltiniai Eleną sieja su Ivano Vasiljevičiaus dukterimi ir Aleksandr
     *
     Mstislavlis (vert.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -627,6 +880,7 @@ Pateikti šaltiniai Eleną sieja su Ivano Vasiljevičiaus dukterimi ir Aleksandr
     dum, tenendum, utifruendum pacifice, et quiete possidendum,
     sicut expressum est ad tempora vitae suae.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -663,11 +917,480 @@ Pateikti šaltiniai Eleną sieja su Ivano Vasiljevičiaus dukterimi ir Aleksandr
     tystės sienos ji valdė iš valstybės asmeninėms išlai­
     doms gautą Breslaujos apskritį su dideliais dvarais.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
+- c-015
+  santrauka: 'Lietuvos didy sis kunigaikštis Aleksandras nusiuntė į Maskvą, pas didįjį Maskvos kunigaikštį Ivaną, pasiuntinius1 9 par vežti didžiosios kunigaikštytės Elenos: Vilniaus kašte lioną, Gardino vietininką kunigaikštį Aleksandrą Jurjevičių2 0 , Trakų kaštelioną.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Lietuvos didy­
+    sis kunigaikštis Aleksandras nusiuntė į Maskvą, pas
+    didįjį Maskvos kunigaikštį Ivaną, pasiuntinius1 9  par­
+    vežti didžiosios kunigaikštytės Elenos: Vilniaus kašte­
+    lioną, Gardino vietininką kunigaikštį Aleksandrą Jur-
+    jevičių2 0 , Trakų kaštelioną, Polocko vietininką poną
+    Jurjevičių Zaberezinskį2 I, ir Breslaujos vietininką po­
+    no
+
+    ## Puslapis 145
+
+    ną Jurijų Zenovjevičių 2 2 , raštininką, Stakliškių laiky­
+    toją poną Fedkų Hrihorovičių.
+    Jie nuvažiavo ir paėmė didžiąją kunigaikštytę Ele­
+    ną, parvežė ją j Lietuvą. O su ja vyko pasiuntiniai, at­
+    siųsti jos tėvo, Maskvos didžiojo kunigaikščio Ivano
+    Vasiljevičiaus: kunigaikštis, vardu Semionas Riapo-
+    lovskis, Michailas Rusalka, Ivanas Skuratovas, dijokas
+    Vasilijus Kulešinas2 3 .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-018
+
+- c-016
+  santrauka: '” Maskvos kunigaikštytė Elena atvyko | Vilnių I495.II.IS ir tų pačių dienų Vilniaus katedroje įvyko jos jungtuvės su Lietuvos did. kunigaikščiu Aleksandru.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    ”  Maskvos kunigaikštytė Elena atvyko | Vilnių I495.II.IS ir
+    tų pačių dienų Vilniaus katedroje įvyko jos jungtuvės su Lietuvos
+    did. kunigaikščiu Aleksandru.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-019
+
+## Citatos
+
+- id: c-55318
+  citata_originali: |
+    Pirmiausia Maskvoje (1494 m.)
+    balandžio 18 d. amžinos taikos sutartį su caru pasirašė Lie­
+    tuvos pasiuntiniai: Petras Białas, Trakų vaivada ir Stanis­
+    lovas Goštautas, Žemaičių seniūnas, Aleksandras prisie­
+    kė Vilniuje, iš Maskvos atvykusių pasiuntinių akivaizdoje.
+    O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­
+    terį (1495 m.), sužadėtoji didžioji kunigaikštytė Elena, ki­
+    tų metų sausį išvažiavusi iš Maskvos, į Vilnių atvyko va­
+    sarį, lydima bojarinų: kunigaikščio Simono Rapolovskio,
+    Mykolo Rusalkos ir Prokopo Zinovjevičiaus, jų žmonų bei
+    daugybės kitų dvariškių, kambarinių, arklininkų ir boja­
+    rinų vaikų. Ją sutiko pats Aleksandras per pusę mylios nuo
+    miesto, kelyje į Nemėžį, ir ten, apsupti dvaro bei tarybos
+    ponų, sustoję ant žydros, auksu siuvinėtos gelumbės pa­
+    tiesalo, padavė vienas kitam rankas ir pirmąkart pasikal­
+    bėjo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54957
+    - t-82288
+
+- id: c-55319
+  citata_originali: |
+    Tada Aleksandras šalia prašmatniose rogėse sėdin­
+    čios Elenos jojo raitas iki miesto, kur sužadėtinė, išklausiusi
+    mišias graikų apeigų cerkvėje, buvo iškilmingai nuvesta į
+    Šv. Stanislovo katedrą. Ten Vaitiekus Taboras, Vilniaus
+    vyskupas, kartu su Foma, graikų tikėjimo dvasininku, su­
+    tuokė didįjį kunigaikštį su Elena, virš jos galvos kunigaikš­
+    tienė Rapolovska laikė vainiką, o djakas Kulešinas - stik­
+    linę vyno42.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54958
+
+- id: c-55320
+  citata_originali: |
+    III KNYGA
+    pavasario, kai Aleksandro motina karalienė Elžbieta su duk­
+    terimis ir sūnumi, kardinolu Fridrichu, iškart po Velykų at­
+    vykę į Vilnių, sukėlė visuotinį džiaugsmą pilyje ir mieste.
+    Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
+    to ginčai, ir po kelerių metų (1500 m.) anoji sutartis su caru
+    buvo nutraukta. Tačiau Aleksandro ir Elenos santuoka išplė­
+    tė prekybinius Vilniaus santykius su Rusios miestais ir ska­
+    tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­
+    tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54959
+
+- id: c-55321
+  citata_originali: |
+    Tačiau neilga buvo karaliaus vieš­
+    nagė šioje pilyje, kadangi, vos dienai praėjus, pakeliui
+    piešdami ir degindami, prie Lydos prisiartino Krymo cha­
+    no sūnūs su 20 000 totorių. Kilo didelis pavojus karaliaus
+    saugumui, tad Aleksandras, ponų patarimu, kariuomenei
+    vadovauti pavedęs etmonui Kiškai ir kunigaikščiui Glins­
+    kiui, pats galutinai paliegęs lektikoje buvo nugabentas į Vil­
+    nių. Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus
+    Taboras, Jonas Zabžezinskis ir Karalystės kancleris Jonas
+    Laskis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54960
+
+- id: c-55322
+  citata_originali: |
+    Bet, kai totoriai didele
+    *
+    Karalienė Elena pati savo lėšomis
+    pastatydino atskirą namą Vilniaus
+    pilyje, skirtą apsistoti pas ją iš Mask­
+    vos atvykstantiems bojarinams ir pa­
+    siuntiniams. Knygoje, apimančioje
+    Lietuvos Metrikos archyvo sąrašą,
+    apie jį yra tokia žinia: „Namui Vil­
+    niaus pilyje, kur Maskvą laiko, ger­
+    biamas Janas Filipovičius, daktaras,
+    kustodas ir Vilniaus kanauninkas
+    (Jan Philipowicz Doctor Custos i Cano-
+    nik Wileński), pardavė savo paveldė­
+    tą sklypą Vilniaus pilyje su mūriniu
+    rūsiu karalienei Elenai už devynias­
+    dešimt kapų amžina teise", Vilniu­
+    je, vasario 12-tą dieną, 12 indikte, su
+    antspaudu. Raidė aa.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54961
+
+- id: c-55324
+  citata_originali: |
+    Tą gyvasties dvasią ir sielą Die­
+    vui ir mūsų Gelbėtojui, o kūną žemei patikime, kurį nuro­
+    dome palaidoti mūsų karalystėje šalia dieviškųjų senelio,
+    tėvo ir brolio, mūsų Lenkijos karalių, kapų. Šios ir taip pat
+    žemiau aprašytos paskutinės mūsų valios karalystėje ir Lie­
+    tuvos Didžiojoje Kunigaikštystėje vykdytoju bei mūsų ir mū­
+    sų tėvonijos visų ir atskirų turtų: aukso, sidabro, gėrybių ir
+    visų kitų dalykų, bei kilnojamojo ir nekilnojamojo mūsų tur­
+    to, ypač to, kurį specialiame registre ar kodicile, mūsų kara­
+    lystės antspaudu užantspauduotame, mes surašėme, iš tik­
+    rųjų vieninteliu, tiesioginiu ir neabejotinu paveldėtoju ir
+    įpėdiniu renkame ir paskiriame, žinoma, šviesiausiąjį kuni­
+    gaikštį poną Žygimantą, Dievo malone Lenkijos karalių, Di­
+    džiojo Glogovo, Opavo Silezijoje kunigaikštį ir tos pačios
+    aukštutinės ir žemutinės Silezijos bei Luzatijos vyriausiąjį
+    seniūną, mūsų brangiausiąjį brolį, suteikdami jam visą val­
+    džią, visą sykiu ir atskirai kilnojamąjį ir nekilnojamąjį turtą
+    ir iždą (thesauros), auksą, sidabrą, brangenybes ir visus ki­
+    tus turtus, mums priklausančius, prie mūsų ar kur nors ki­
+    tur esančius, perimti, paimti ar iš jų išimti visoms ir pavie­
+    nėms, dvasinėms ir pasaulietinėms reikmėms, ir mūsų
+    tarnams už mus algas išmokėti ir visokiais būdais vardan
+    mūsų išganymo taip, kaip iš dorybingumo ir broliškos mei­
+    lės nutars ir nuspręs, paskirstyti. Šiam ponui kunigaikščiui
+    Žygimantui, broliui ir paveldėtojui, mūsų įpėdiniui ir ypa­
+    tingosios paskutinės valios vykdytojui bei visiems karalys­
+    tės ir Lietuvos Didžiosios Kunigaikštystės prelatams ir tei­
+    sėjams atskirai (specialiter) perduodame ir patikime
+    šviesiausiąją kunigaikštienę ir mūsų žmoną ponią Eleną, di­
+    džiąją Lietuvos, Rusios, Žemaitijos kunigaikštienę, jos veiks­
+    mų bei teisių globą (protectio).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54963
+
+- id: c-78763
+  citata_originali: |
+    Stanislovo katedrą. Ten Vaitiekus Taboras, Vilniaus
+    vyskupas, kartu su Foma, graikų tikėjimo dvasininku, su­
+    tuokė didįjį kunigaikštį su Elena, virš jos galvos kunigaikš­
+    tienė Rapolovska laikė vainiką, o djakas Kulešinas - stik­
+    linę vyno42. Vestuvių puotos tęsėsi kelias savaites, Maskvos
+    pasiuntiniai buvo nuoširdžiai pavaišinti ir dosniai apdo­
+    vanoti43, o iškilmės Lietuvos sostinėje tęsėsi beveik iki
+    42 daugelyje rusų metraščių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82290
+
+- id: c-78764
+  citata_originali: |
+    Kai kurie karaliaus potvarkiai dėl prekybos ir daugybės
+    48
+    Karalienė Elena mirė Vilniuje 1513 gavusi iš vyro, 1510 metais jai skyrė
+    metais, palaidota graikų apeigų kop- dalį Švč. Trejybės vienuolyne Vilniu-
+    lyčioje. Karalius Žygimantas Sena- je iki gyvos galvos. Metryki.Litew.,
+    sis, be nemenko kraičio, koki buvo XVTT, 300
+    235
+
+    ## Puslapis 252
+
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    namų statymas teikė naudingos veiklos Vilniaus gyvento­
+    jams, ir miestiečiai darėsi turtingesni.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82287
+
+- id: c-78765
+  citata_originali: |
+    Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
+    to ginčai, ir po kelerių metų (1500 m.) anoji sutartis su caru
+    buvo nutraukta. Tačiau Aleksandro ir Elenos santuoka išplė­
+    tė prekybinius Vilniaus santykius su Rusios miestais ir ska­
+    tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­
+    tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.
+    Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
+    pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
+    savo atvykimą iškart pranešti pilininkui4 3  44.
+  citata_rodoma: ") anoji sutartis su caru \nbuvo nutraukta. Tačiau Aleksandro ir Elenos santuoka išplė­\ntė prekybinius Vilniaus santykius su Rusios miestais ir ska­\ntino steigti naujas užeigas pirkliams, atvykstantiems į Lie­\ntuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės. \nKaralius leido miestui pastatyti Svečių namus, kuriuose rusų \npirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie \nsavo atvykimą iškart pranešti pilininkui4 3  44."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82286
+
+- id: c-78766
+  citata_originali: |
+    229
+
+    ## Puslapis 246
+
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    su Taurijos chanu Mendli Girėjumi prieš Aleksandrą, nu­
+    kreipė visą jo dėmesį į save. Tarp jų kilo audringi vaidai
+    ir, norėdamas juos sėkmingai užgesinti, Aleksandras nu­
+    tarė to siekti, vesdamas Ivano Vasiljevičiaus dukterį di­
+    džiąją kunigaikštytę Eleną. Pirmiausia Maskvoje (1494 m.)
+    balandžio 18 d. amžinos taikos sutartį su caru pasirašė Lie­
+    tuvos pasiuntiniai: Petras Białas, Trakų vaivada ir Stanis­
+    lovas Goštautas, Žemaičių seniūnas, Aleksandras prisie­
+    kė Vilniuje, iš Maskvos atvykusių pasiuntinių akivaizdoje.
+  citata_rodoma: "229\n\n## Puslapis 246\n\nVILNIAUS MIESTO ISTORIJA II TOMAS\nsu Taurijos chanu Mendli Girėjumi prieš Aleksandrą, nu­\nkreipė visą jo dėmesį į save. Tarp jų kilo audringi vaidai \nir, norėdamas juos sėkmingai užgesinti, Aleksandras nu­\ntarė to siekti, vesdamas Ivano Vasiljevičiaus dukterį di­\ndžiąją kunigaikštytę Eleną. Pirmiausia Maskvoje (1494 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82283
+    - t-54956
+
+- id: c-78767
+  citata_originali: |
+    Taip pat [dovanojame] turtą, va­
+    dinamą Smolnėnais, su visomis Smolnėnų ir Čirčinsko že­
+    mėmis ir visais Smolnėnų ir Čirčinsko žmonėmis, panašiai
+    ir dvarą, vadinamą Horodišče, ir Losičius su visomis Horo-
+    diščės ir Losičių žemėmis ir, žinoma, su visais kaimiečiais -
+    šios žemės kadaise priklausė Bełsko kunigaikščiui Semio­
+    nui. Taigi visą minėtą turtą ir aiškiai išvardintus dvarus
+    didžiajai kunigaikštienei, mūsų brangiausiai žmonai švie­
+    siajai Elenai davėme, dovanojome ir šiuo raštu duodame,
+    dovanojame, užrašome jai ir jos įpėdiniams amžinai ir vi­
+    sam laikui su visais žmonėmis ir visais bajorais, su viskuo,
+    kas šiems dvarams ar valdoms priklauso, su jų patarnavi­
+    mais ir darbais, žinoma, su činšais, pajamomis, mokesčiais
+    - ar grašiais, ar medumi, rinkliavomis, dvareliais, dirvomis
+    ir laukais, miškų aptvarais, krūmais, vandenimis, upėmis,
+    tvenkiniais, ežerais, upeliais, upeliūkščiais, žuvų kūdromis,
+    žūklavimu, malūnais ir jų produktais, miškais, šilais, gojais,
+    bitynais, bebrų, laukinių žvėrių ir paukščių medžiokle ir ap­
+    skritai su visomis pajamomis ir gėrybėmis, nuo seno toms
+    valdoms priklausančiomis ir paprastai mokamomis, nieko
+    iš jų nepaimant, ir su visais priklausiniais, priedėliais ir vi­
+    sais priedais, kad ir kokiu vardu jie vadintųsi, nuo seno mi­
+    nėtoms valdoms kokiu nors būdu pareinančiais, kurie buvo
+    ir dabar yra, ir ateityje kokiais nors būdais ar žmogiškos veik­
+    los dėka gali atsirasti ir didėti į plotį, į ilgį ir aplinkui, žiū­
+    rint, kaip pačios žemės savo sienomis yra apribotos ir api­
+    brėžtos, minėtajai šviesiajai poniai Elenai, didžiajai
+    kunigaikštienei ir jos teisėtiems įpėdiniams su visa domini­
+    jos ir nuosavybės teise turėti, laikyti, naudotis, taikiai ir
+    361
+
+    ## Puslapis 378
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    donandum, alienandum, et in suos, suorumque succesorum
+    usus beneplacitos convertendum, prout sibi, et suis legitimis
+    successoribus, melius, et utilius, consultiusque videbitur ex­
+    pedire. In quorum omnium fidem, et robur praesentibus si­
+    gillum nostrum est subappensum.
+  citata_rodoma: "Taip pat [dovanojame] turtą, va­\ndinamą Smolnėnais, su visomis Smolnėnų ir Čirčinsko že­\nmėmis ir visais Smolnėnų ir Čirčinsko žmonėmis, panašiai \nir dvarą, vadinamą Horodišče, ir Losičius su visomis Horo- \ndiščės ir Losičių žemėmis ir, žinoma, su visais kaimiečiais - \nšios žemės kadaise priklausė Bełsko kunigaikščiui Semio­\nnui. Taigi visą minėtą turtą ir aiškiai išvardintus dvarus \ndidžiajai kunigaikštienei, mūsų brangiausiai žmonai švie­\nsiajai Elenai davėme, dovanojome ir šiuo raštu duodame, \ndovanojame, užrašome jai ir jos įpėdiniams amžinai ir vi­\nsam laikui su visais žmonėmis ir visais bajorais, su viskuo, \nkas šiems dvarams ar valdoms priklauso, su jų patarnavi­\nmais ir darbais, žinoma, su činšais, pajamomis, mokesčiais \n- ar grašiais, ar medumi, rinkliavomis, dvareliais, dirvomis \nir laukais, miškų aptvarais, krūmais, vandenimis, upėmis, \ntvenkiniais, ežerais, upeliais, upeliūkščiais, žuvų kūdromis, \nžūklavimu, malūnais ir jų produktais, miškais, šilais, gojais, \nbitynais, bebrų, laukinių žvėrių ir paukščių medžiokle ir ap­\nskritai su visomis pajamomis ir gėrybėmis, nuo seno toms \nvaldoms priklausančiomis ir paprastai mokamomis, nieko \niš jų nepaimant, ir su visais priklausiniais, priedėliais ir vi­\nsais priedais, kad ir kokiu vardu jie vadintųsi, nuo seno mi­\nnėtoms valdoms kokiu nors būdu pareinančiais, kurie buvo \nir dabar yra, ir ateityje kokiais nors būdais ar žmogiškos veik­\nlos dėka gali atsirasti ir didėti į plotį, į ilgį ir aplinkui, žiū­\nrint, kaip pačios žemės savo sienomis yra apribotos ir api­\nbrėžtos, minėtajai šviesiajai poniai Elenai, didžiajai \nkunigaikštienei ir jos teisėtiems įpėdiniams su visa domini­\njos ir nuosavybės teise turėti, laikyti, naudotis, taikiai ir\n361\n\n## Puslapis 378\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\ndonandum, alienandum, et in suos, suorumque succesorum \nusus beneplacitos convertendum, prout sibi, et suis legitimis \nsuccessoribus, melius, et utilius, consultiusque videbitur ex­\npedire."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82285
+
+- id: c-78768
+  citata_originali: |
+    Po­
+    nas ir tėvonis. Šiuo raštu skelbiame visiems, kam dabar ar
+    ateityje reikės žinoti, kad, kai mes įsitikinome šviesiausio­
+    sios ponios Elenos, Dievo malone didžiosios kunigaikštie­
+    nės, brangiausios mūsų žmonos, vedybine meile ir jos išti­
+    kimybe, norėdami ją mūsų malone ir geradarybe
+    pradžiuginti ir ja pasirūpinti, jai ir jos palikuonims [dova­
+    nojame] turtus ar dvarus su visomis žemėmis, vadinamus
+    Kniazičiai ir Teterinas, bei pilį, vadinamą Popova Hura, ku­
+    riuos anksčiau valdė Seisla vo* kunigaikštis Ivanas Jurgėvi-
+    čius, ir kitas valdas, nuo seno priklausančias tiems patiems
+    *
+    Mstislavlis (vert.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82289
+
+- id: c-78769
+  citata_originali: |
+    Ponas
+    ir tėvonis. Amžinai dalykų atminčiai. Šiuo raštu skelbiame
+    visiems, kam dabar ar ateityje reikės žinoti, kad atsižvelg­
+    damas į šviesiausiosios karalienės, mūsų brangiausiosios
+    žmonos, ponios Elenos meilumą ir vedybinę ištikimybę ir
+    norėdamas ją apdovanoti ir pradžiuginti mūsų geradarybė,
+    jai dovanojome, užrašėme ir šiuo raštu duodame, užrašome
+    ir dovanojame tik tam laikui, kol bus gyva, Mogiliavo pilį,
+    stovinčią šalia Dniepro upės, su visomis žemėmis, ir kitas
+    valdas, prie šios pilies nuo seno esančias ir jai priklausan­
+    čias su žmonėmis ir jų patarnavimais bei darbais, činšais,
+    pajamomis, mokesčiais - ar grašiais, ar medumi, rinkliavo­
+    mis, dvareliais, dirvomis, laukais ir ganyklomis, gervuogių
+    krūmais, krūmynais, miškeliais, miškais, gojais, šilais, bity­
+    nais, bebrų, laukinių žvėrių ir paukščių medžiokle, miškų
+    aptvarais, krūmais, vandenimis, upėmis, tvenkiniais, eže­
+    rais, upeliais, upeliūkščiais, žuvingomis kūdromis, žūkla-
+    vimu, malūnais ir jų produktais, apskritai, su visais priklau-
+    siniais, priedėliais ir visais priedais, kad ir kokiu vardu jie
+    365
+
+    ## Puslapis 382
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    et appendicibus universis, quocunque nomine aliter nuncu­
+    patis, ad expressum castellum Mobilow quomodolibet ex an­
+    tiquo spectantibus; et pertinentibus, quae sunt, et in poste­
+    rum quocunque ingenio, ac industria bumana fieri, et angeri
+    possint, ita late, longe, et circumferentialiter prout ipsa bona
+    in suis graniciebus limitata sunt, et distincta per expressum —
+    illustrissimam Helenam Reginam Consortem nostram haben­
+    dum, tenendum, utifruendum pacifice, et quiete possidendum,
+    sicut expressum est ad tempora vitae suae.
+  citata_rodoma: "Amžinai dalykų atminčiai. Šiuo raštu skelbiame \nvisiems, kam dabar ar ateityje reikės žinoti, kad atsižvelg­\ndamas į šviesiausiosios karalienės, mūsų brangiausiosios \nžmonos, ponios Elenos meilumą ir vedybinę ištikimybę ir \nnorėdamas ją apdovanoti ir pradžiuginti mūsų geradarybė, \njai dovanojome, užrašėme ir šiuo raštu duodame, užrašome \nir dovanojame tik tam laikui, kol bus gyva, Mogiliavo pilį, \nstovinčią šalia Dniepro upės, su visomis žemėmis, ir kitas \nvaldas, prie šios pilies nuo seno esančias ir jai priklausan­\nčias su žmonėmis ir jų patarnavimais bei darbais, činšais, \npajamomis, mokesčiais - ar grašiais, ar medumi, rinkliavo­\nmis, dvareliais, dirvomis, laukais ir ganyklomis, gervuogių \nkrūmais, krūmynais, miškeliais, miškais, gojais, šilais, bity­\nnais, bebrų, laukinių žvėrių ir paukščių medžiokle, miškų \naptvarais, krūmais, vandenimis, upėmis, tvenkiniais, eže­\nrais, upeliais, upeliūkščiais, žuvingomis kūdromis, žūkla- \nvimu, malūnais ir jų produktais, apskritai, su visais priklau- \nsiniais, priedėliais ir visais priedais, kad ir kokiu vardu jie\n365\n\n## Puslapis 382\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\net appendicibus universis, quocunque nomine aliter nuncu­\npatis, ad expressum castellum Mobilow quomodolibet ex an­\ntiquo spectantibus; et pertinentibus, quae sunt, et in poste­\nrum quocunque ingenio, ac industria bumana fieri, et angeri \npossint, ita late, longe, et circumferentialiter prout ipsa bona \nin suis graniciebus limitata sunt, et distincta per expressum — \nillustrissimam Helenam Reginam Consortem nostram haben­\ndum, tenendum, utifruendum pacifice, et quiete possidendum, \nsicut expressum est ad tempora vitae suae."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82284
+    - t-54962
+
+- id: c-168056
+  citata_originali: |
+    Mengli Girėjus, gavęs pinigų, paliovė, tiesa, niokojęs
+    Rusią, nenorėdamas laužyti visai neseniai sudaryto su­
+    sitarimo, tačiau, porą kartų nusiaubęs Valachiją, Len­
+    kijos karalystės priklausomybėje esančią žemę, aiškiai
+    parodė, kokios taikos galima tikėtis iš žmonių, įpratu­
+    sių gyventi iš plėšikavimo. Kol karalius bei didikai
+    616
+
+    ## Puslapis 615
+
+    E lena m ėg in a  p a b ė g ­
+    ti į M a sk v o s
+    k u n i­
+    g a ik š ty s tę
+    tvarkė seime valstybės rei­
+    kalus, karalienė Elena, seno­
+    kai puoselėjusi mintį pabėgti
+    į
+    Maskvos
+    kunigaikštystę,
+    pamėgino, didikams išvykus,
+    įgyvendinti šį sumanymą. Netoli Maskvos kunigaikš­
+    tystės sienos ji valdė iš valstybės asmeninėms išlai­
+    doms gautą Breslaujos apskritį su dideliais dvarais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184695
+
+- id: c-176532
+  citata_originali: |
+    Lietuvos didy­
+    sis kunigaikštis Aleksandras nusiuntė į Maskvą, pas
+    didįjį Maskvos kunigaikštį Ivaną, pasiuntinius1 9  par­
+    vežti didžiosios kunigaikštytės Elenos: Vilniaus kašte­
+    lioną, Gardino vietininką kunigaikštį Aleksandrą Jur-
+    jevičių2 0 , Trakų kaštelioną, Polocko vietininką poną
+    Jurjevičių Zaberezinskį2 I, ir Breslaujos vietininką po­
+    no
+
+    ## Puslapis 145
+
+    ną Jurijų Zenovjevičių 2 2 , raštininką, Stakliškių laiky­
+    toją poną Fedkų Hrihorovičių.
+    Jie nuvažiavo ir paėmė didžiąją kunigaikštytę Ele­
+    ną, parvežė ją j Lietuvą. O su ja vyko pasiuntiniai, at­
+    siųsti jos tėvo, Maskvos didžiojo kunigaikščio Ivano
+    Vasiljevičiaus: kunigaikštis, vardu Semionas Riapo-
+    lovskis, Michailas Rusalka, Ivanas Skuratovas, dijokas
+    Vasilijus Kulešinas2 3 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193907
+
+- id: c-176533
+  citata_originali: |
+    ”  Maskvos kunigaikštytė Elena atvyko | Vilnių I495.II.IS ir
+    tų pačių dienų Vilniaus katedroje įvyko jos jungtuvės su Lietuvos
+    did. kunigaikščiu Aleksandru.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193908
 
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Aleksandras Jogailaitis]]

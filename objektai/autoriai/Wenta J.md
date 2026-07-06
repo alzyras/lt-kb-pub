@@ -15,6 +15,18 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'XX a.'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Wenta J
 
@@ -27,10 +39,22 @@ Dusburgietis teigia, kad wenta J.
 <a id="claim-t-60851"></a>
 - t-001
   global_id: t-60851
-  teiginys: 'J. Wenta 1980 m. paskelbė straipsnį apie Petro Dusburgiečio kroniką ir Kryžiuočių ordino istoriją Oliwos kronikoje.'
+  teiginys: "J. Wenta 1980 m. paskelbė straipsnį apie Petro Dusburgiečio kroniką ir Kryžiuočių ordino istoriją Oliwos kronikoje."
+  temporaliniai_duomenys: "įvykio data: 1980 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pateikia J. Wentos straipsnio pavadinimą ir publikavimo metus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "803014-803168; hash=f072471007103054c4d418aa8cac4428512529c01fb25b584e2ef4b8a37e1fec; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dusburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Wenta J: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Dusburgas: mention_match, author, gap=47"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Wenta J\" parinktas kaip owner_note_path. Targetas \"Dusburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-61483
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -40,8 +64,22 @@ Dusburgietis teigia, kad wenta J.
     Wenta J. Kronika Piotra z Dusburga a dzieje Zakonu Krzyżackiego zawarte w Kronice
     oliwskiej.— Studia źródloznawcze, Warszawa—Poznań, 1980, 25, s. 121—132.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-61483
+  citata_originali: |
+    Wenta J. Kronika Piotra z Dusburga a dzieje Zakonu Krzyżackiego zawarte w Kronice
+    oliwskiej.— Studia źródloznawcze, Warszawa—Poznań, 1980, 25, s. 121—132.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60851

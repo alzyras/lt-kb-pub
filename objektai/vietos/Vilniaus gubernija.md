@@ -14,11 +14,23 @@ date_start: '1801'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - vieta
 amziai:
   - 'XIX'
   - 'XXI'
-tags:
-  - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vilniaus gubernija
 
@@ -27,56 +39,141 @@ tags:
 1859 m. iždas buvo apskaičiavęs iš Kauno gubernijos gauti nuo degtinės 948.056 rublius, o tegavo vos 53.146 rublius.
 
 ## Teiginiai
+
 <a id="claim-t-126076"></a>
-- t-001
+- t-012
   global_id: t-126076
-  teiginys: 'Po 1843 m. pertvarkos caro valdžia Vilniaus guberniją priskyrė prie baltarusiškų, nors jos vakarinėje dalyje tebevyravo lietuviškai kalbantieji.'
+  teiginys: "Po 1843 m. pertvarkos caro valdžia Vilniaus guberniją priskyrė prie baltarusiškų, nors jos vakarinėje dalyje tebevyravo lietuviškai kalbantieji."
+  temporaliniai_duomenys: "įvykio data: po 1843 m.; įvykio data: 1843 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "186894-187641; hash=aacd07daf2777e295365f35afdada02e8a7f3f746195bacd87396b2511b23447; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltarusiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus gubernija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Baltarusiai: mention_match, group, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus gubernija\" parinktas kaip owner_note_path. Targetas \"Baltarusiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-115219
 
 <a id="claim-t-126077"></a>
-- t-002
+- t-013
   global_id: t-126077
-  teiginys: '1840 m. Lietuvos vardas pašalintas iš Vilniaus ir Gardino gubernijų pavadinimų, o buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu.'
+  teiginys: "1840 m. Lietuvos vardas pašalintas iš Vilniaus ir Gardino gubernijų pavadinimų, o buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu."
+  temporaliniai_duomenys: "įvykio data: 1840 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginį verta sutrumpinti ir aiškiau susieti su data bei gubernijų pavadinimais."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "199175-199481; hash=9d5146a84b0abbf0604b23e159d0f88d29501d44daf7c3762a56ec7e68636500; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gardinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus gubernija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gardinas: mention_match, place, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus gubernija\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-003
+    - c-115220
 
 <a id="claim-t-126078"></a>
-- t-003
+- t-014
   global_id: t-126078
-  teiginys: 'Minėtų grupuočių teritorinės aspiracijos apėmė istorines etnines lietuvių žemes Vilniaus, Kauno, Suvalkų ir Gardino gubernijose.'
+  teiginys: "Minėtų grupuočių teritorinės aspiracijos apėmė istorines etnines lietuvių žemes Vilniaus, Kauno, Suvalkų ir Gardino gubernijose."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "255260-255925; hash=6b6982d4119ee3c04ddb92f38e5283823b2c257356b4725dc6a3567ca0e225c0; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gardinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus gubernija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gardinas: mention_match, place, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus gubernija\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-115218
 
 <a id="claim-t-126079"></a>
-- t-004
+- t-015
   global_id: t-126079
-  teiginys: '1917 m. Berno konferencijoje būsimos Lietuvos teritorijai priskirta kone visa Vilniaus gubernija, išskyrus stačiatikiškas apskritis.'
+  teiginys: "1917 m. Berno konferencijoje būsimos Lietuvos teritorijai priskirta kone visa Vilniaus gubernija, išskyrus stačiatikiškas apskritis."
+  temporaliniai_duomenys: "įvykio data: 1917 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Vilniaus guberniją ir tiksliai remiasi citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "261044-261858; hash=7ce9d074861a8a3cb0f2e9a832cb4f5f1e1b46b78dd589ad6f8f1a899f804621; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus gubernija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus gubernija\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-115221
 
 <a id="claim-t-126080"></a>
-- t-005
+- t-011
   global_id: t-126080
-  teiginys: 'Per 1863 metus atkakliausiai sukilėliai kovėsi su caro kariuomene Kauno gubernijoje, kurioje įvyko 168 mūšiai ir susidūrimai su caro kariuomene.'
+  teiginys: "Per 1863 metus atkakliausiai sukilėliai kovėsi su caro kariuomene Kauno gubernijoje, kurioje įvyko 168 mūšiai ir susidūrimai su caro kariuomene."
+  temporaliniai_duomenys: "įvykio data: 1843 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "186894-187641; hash=aacd07daf2777e295365f35afdada02e8a7f3f746195bacd87396b2511b23447; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltarusiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus gubernija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Baltarusiai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus gubernija\" parinktas kaip owner_note_path. Targetas \"Baltarusiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-115219
 
 <a id="claim-t-126081"></a>
-- t-006
+- t-016
   global_id: t-126081
-  teiginys: 'Lietuviai pretendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardino gubernijų žemes, kurias ir Rusijos vyriausybės tradiciškai vadindavo lietuviškomis.'
+  teiginys: "Lietuviai pretendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardino gubernijų žemes, kurias ir Rusijos vyriausybės tradiciškai vadindavo lietuviškomis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "280107-280512; hash=755dd9ba311e4fa08d89935e483b41c108b0d07b11c750128cb70743660fabbb; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gardinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus gubernija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gardinas: mention_match, place, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus gubernija\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-115222
 
 <a id="claim-t-188857"></a>
 - t-007
   global_id: t-188857
-  teiginys: 'Narbutui istorinė Lietuva apėmė Vilniaus, Kauno, Gardino ir Minsko gubernijas, o „litvinais“ vadinti tenykščiai katalikų bajorai.'
+  teiginys: "Narbutui istorinė Lietuva apėmė Vilniaus, Kauno, Gardino ir Minsko gubernijas, o „litvinais“ vadinti tenykščiai katalikų bajorai."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "11701-11966; hash=68cfe72f49e8846b7ea16f61dcb9c8a16b461681fe193f939e0e260b7321e1f9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus gubernija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=89"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus gubernija\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-006
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171746
 - susijęs iš Kauno gubernija: 1917 m. Berno konferencijoje Kauno gubernija įtraukta į etnografinės Lietuvos teritorijos projektą.
 - susijęs iš [[objektai/asmenys/Jurgis Šaulys.md#claim-t-19033|Jurgis Šaulys]]: Jurgis Šaulys 1917 m. lapkričio 2–10 d. dalyvavo Berno konferencijoje kaip Lietuvos Tarybos prezidiumo narys.
 - susijęs iš [[objektai/asmenys/Steponas Kairys.md#claim-t-64123|Steponas Kairys]]: Steponas Kairys 1917 m. lapkričio 2–10 d. dalyvavo Berno konferencijoje kaip Lietuvos Tarybos prezidiumo narys.
@@ -99,6 +196,7 @@ tags:
 - susijęs iš [[objektai/zodynas/Vidivarijai.md#claim-t-54798|Vidivarijai]]: Vidivarijų vardas aiškinamas kaip įvairių tautų sambūrio bendruomenės vardas, o ne vienos tautos giminės vardas.
 - susijęs iš [[objektai/zodynas/etnografinės ribos etnografinis principas.md#claim-t-101582|etnografinės ribos etnografinis principas]]: 1917 m. Berno konferencijoje pasisakyta už Lietuvos teritorijos formavimą etnografiniu principu „Lithuania Propria“ ribose.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Minėtų grupuočių teritorinės aspiracijos apėmė istorines etnines lietuvių žemes Vilniaus, Kauno, Suvalkų ir Gardino gubernijose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -115,11 +213,13 @@ tags:
     idėją, nesiruošiant konvertuotis į lietuvybę, kristalizavosi Lietuvos ne-
     priklausomybės siekis etnografiniu pagrindu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -135,12 +235,14 @@ tags:
     berniją, o Vilniaus guberniją priskyrė prie baltarusiškų, nors vakarinėje
     Vilniaus gubernijos dalyje tebevyravo lietuviškai kalbantieji.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
     - t-001
+
 - c-003
   santrauka: '1840 m. Lietuvos vardas pašalintas iš Vilniaus ir Gardino gubernijų pavadinimų, o buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -152,11 +254,13 @@ tags:
     Vakarų kraštu.
     Pasikeitė valdžios kursas ir bažnyčios atžvilgiu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-004
   santrauka: '1917 m. Berno konferencijoje būsimos Lietuvos teritorijai priskirta kone visa Vilniaus gubernija, išskyrus stačiatikiškas apskritis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -173,11 +277,13 @@ tags:
     Apskritai teritoriniai Lietuvos projektai keitėsi keičiantis tarptautinei si-
     tuacijai – niekas negalėjo pasakyti, kokio dydžio valstybe ji galėtų tapti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -188,11 +294,13 @@ tags:
     A. Jofė sutiko Vilnių ir tas žemes, net Gardiną ir Lydą, kur lietuvių gyven-
     ta išties mažai, priskirti Lietuvai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-006
   santrauka: 'Narbutui istorinė Lietuva apėmė Vilniaus, Kauno, Gardino ir Minsko gubernijas, o „litvinais“ vadinti tenykščiai katalikų bajorai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -205,8 +313,125 @@ tags:
     tai Vilniaus, Kauno, Gardino ir Minsko gubernijos; „litvinai“ -
     tenai gyvenantys bajorai, išpažįstantys katalikų tikėjimą. Jiems
     visų pirma ir buvo skirtas Lietuvos istorijos veikalas.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
+## Citatos
+
+- id: c-115218
+  citata_originali: |
+    Tai nebuvo
+    monolitinės stovyklos, nes rasdavosi įvairių tranzitinių grupelių ir iš kitų
+    politinių elementų.
+    Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos
+    valstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo
+    kaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno,
+    Suvalkų ir Gardino gubernijose, dalis Kuršo. Kadangi Lenkijos ir Lietu-
+    vos bendros valstybės pasekmės išliko, lenkiškai kalbantiems lietuviams
+    vis labiau linkstant į lenkų kultūrinę orbitą ir Lenkijos valstybingumo
+    idėją, nesiruošiant konvertuotis į lietuvybę, kristalizavosi Lietuvos ne-
+    priklausomybės siekis etnografiniu pagrindu.
+  citata_rodoma: "Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos \nvalstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo \nkaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno, \nSuvalkų ir Gardino gubernijose, dalis Kuršo. Kadangi Lenkijos ir Lietu-\nvos bendros valstybės pasekmės išliko, lenkiškai kalbantiems lietuviams \nvis labiau linkstant į lenkų kultūrinę orbitą ir Lenkijos valstybingumo \nidėją, nesiruošiant konvertuotis į lietuvybę, kristalizavosi Lietuvos ne-\npriklausomybės siekis etnografiniu pagrindu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-126078
+
+- id: c-115219
+  citata_originali: |
+    Mat baltarusių šnekta pragma-
+    tiniu požiūriu buvo patogesnė, nes leido suprasti ir lenkiškai kalbančius
+    ponus bei kunigus, ir rusų valdžios atstovus. Didesnį pagreitį šis procesas
+    įgis XIX a. antrojoje pusėje, jį sustabdys atsiradę autoritetingi etninių lie-
+    tuvių tautinio sąjūdžio veikėjai, daugiausia kunigai.
+    1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos dalies
+    apskričių buvo sudaryta Kauno gubernija, o prie Vilniaus gubernijos pri-
+    skirtos trys apskritys, iki tol priklausiusios Minsko ir Gardino guberni-
+    joms, todėl caro valdžia etnografiškai lietuviška ėmė laikyti tik Kauno gu-
+    berniją, o Vilniaus guberniją priskyrė prie baltarusiškų, nors vakarinėje
+    Vilniaus gubernijos dalyje tebevyravo lietuviškai kalbantieji.
+  citata_rodoma: "1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos dalies \napskričių buvo sudaryta Kauno gubernija, o prie Vilniaus gubernijos pri-\nskirtos trys apskritys, iki tol priklausiusios Minsko ir Gardino guberni-\njoms, todėl caro valdžia etnografiškai lietuviška ėmė laikyti tik Kauno gu-\nberniją, o Vilniaus guberniją priskyrė prie baltarusiškų, nors vakarinėje \nVilniaus gubernijos dalyje tebevyravo lietuviškai kalbantieji."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-126080
+    - t-126076
+
+- id: c-115220
+  citata_originali: |
+    1840 m. panaikintas
+    Lietuvos Statutas, o teismų sistema surusinta. Lietuvos vardas pašalintas
+    iš Vilniaus ir Gardino gubernijų pavadinimų, buvusios LLV žemės imtos
+    traktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės
+    Vakarų kraštu.
+    Pasikeitė valdžios kursas ir bažnyčios atžvilgiu.
+  citata_rodoma: "Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos \nvalstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo \nkaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno, \nSuvalkų ir Gardino gubernijose, dalis Kuršo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-126077
+
+- id: c-115221
+  citata_originali: |
+    Viena iš svarbiausių diskusijos temų – būsimos Lietuvos teritorija.
+    Europos ir JAV lietuvių atstovų Berno konferencijoje 1917 m. lapkričio
+    2–10 d., kurioje dalyvavo ir visas Lietuvos Tarybos prezidiumas (A. Sme-
+    tona, Steponas Kairys, J. Šaulys) bei užsienio lietuvių atstovai, pasisakyta
+    už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose:
+    Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko
+    apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis),
+    be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti
+    ir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais).
+    Apskritai teritoriniai Lietuvos projektai keitėsi keičiantis tarptautinei si-
+    tuacijai – niekas negalėjo pasakyti, kokio dydžio valstybe ji galėtų tapti.
+  citata_rodoma: "Sme-\ntona, Steponas Kairys, J. Šaulys) bei užsienio lietuvių atstovai, pasisakyta \nuž etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose: \nKauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko \napskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis), \nbe to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti \nir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais). \nApskritai teritoriniai Lietuvos projektai keitėsi keičiantis tarptautinei si-\ntuacijai – niekas negalėjo pasakyti, kokio dydžio valstybe ji galėtų tapti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-126079
+
+- id: c-115222
+  citata_originali: |
+    Teritoriniai klausimai taip pat buvo sprendžiami palankiai. Lietuviai pre-
+    tendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardi-
+    no gubernijų žemes, kurias ir Rusijos vyriausybės tradiciškai vadindavo
+    lietuviškomis. Nors dalį tų žemių derybų metų jau kontroliavo Lenkija,
+    A. Jofė sutiko Vilnių ir tas žemes, net Gardiną ir Lydą, kur lietuvių gyven-
+    ta išties mažai, priskirti Lietuvai.
+  citata_rodoma: "Teritoriniai klausimai taip pat buvo sprendžiami palankiai. Lietuviai pre-\ntendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardi-\nno gubernijų žemes, kurias ir Rusijos vyriausybės tradiciškai vadindavo \nlietuviškomis. Nors dalį tų žemių derybų metų jau kontroliavo Lenkija, \nA."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-126081
+
+- id: c-171746
+  citata_originali: |
+    9
+
+    ## Puslapis 9
+
+    savarankišką kultūrinio palikimo vertinimą. Istorinė Lietuva -
+    tai Vilniaus, Kauno, Gardino ir Minsko gubernijos; „litvinai“ -
+    tenai gyvenantys bajorai, išpažįstantys katalikų tikėjimą. Jiems
+    visų pirma ir buvo skirtas Lietuvos istorijos veikalas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188857

@@ -15,6 +15,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Šilutė
 
@@ -25,18 +37,57 @@ amziai:
 ## Teiginiai
 
 <a id="claim-t-69891"></a>
-- t-001
+- t-004
   global_id: t-69891
-  teiginys: '1923 m. sausio 19 d. Vyriausiasis Mažosios Lietuvos gelbėjimo komitetas Šilutėje sušaukė vadinamąjį Visuotinį seimą.'
+  teiginys: "1923 m. sausio 19 d. Vyriausiasis Mažosios Lietuvos gelbėjimo komitetas Šilutėje sušaukė vadinamąjį Visuotinį seimą."
+  temporaliniai_duomenys: "įvykio data: 1923 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, aiškus ir tiesiogiai pagrįstas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "883416-883738; hash=57497b130bb86b355ea6743479c49789ad6d42c0e1c8b162a7f040bb98c0da55; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šilutė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šilutė\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-44088
 
 <a id="claim-t-69893"></a>
-- t-002
+- t-003
   global_id: t-69893
-  teiginys: '1923 m. sausio 9 d. Vyriausiasis Mažosios Lietuvos gelbėjimo komitetas Šilutėje paskelbė manifestą, kuriuo buvo pranešta, jog Krašto direktorija yra nušalinama, valdžią į savo rankas perima Valstybės taryba.'
+  teiginys: "1923 m. sausio 9 d. Vyriausiasis Mažosios Lietuvos gelbėjimo komitetas Šilutėje paskelbė manifestą, kuriuo buvo pranešta, jog Krašto direktorija yra nušalinama, valdžią į savo rankas perima Valstybės taryba."
+  temporaliniai_duomenys: "įvykio data: 1923 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys ir atitinka citatos informaciją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "879009-879453; hash=9b9c844f6262b1c534320b4cab5a2d2e9a5c5ca6a2857fca393deb6a191535c5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Valstybės Taryba: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šilutė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Valstybės Taryba: mention_match, group, gap=119"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šilutė\" parinktas kaip owner_note_path. Targetas \"Valstybės Taryba\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-44087
+
+<a id="claim-t-193788"></a>
+- t-005
+  global_id: t-193788
+  teiginys: "Sukilėlių pajėgos Vyriausiasis Mažosios Lietuvos gelbėjimo komitetas įsikūrė Šilutėje."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "878426-878676; hash=c151b17af1b5e1e7965e01fb5db39c0a7bdcb6b381d095d088845b0a805c87ca; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-44086
 - susijęs iš Šilutės deklaracija: 1923 m. sausio 19 d. Šilutėje sušauktame Visuotiniame seime krašto atstovai vienbalsiai priėmė Šilutės deklaraciją.
 - susijęs iš [[objektai/autoriai/Salys A.md#claim-t-64844|Salys A]]: Asmenvardžio Ramego (Salys A., Skalva, p. 533), greičiausiai jis lygintinas su lie.
 - susijęs iš Pagėgiai: Pagėgių sukilėlių grupę sudarė 3 kuopos, kuriose buvo 13 karininkų, 180 kareivių ir 250 šaulių.
@@ -46,6 +97,25 @@ amziai:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sukilėlių pajėgos Vyriausiasis Mažosios Lietuvos gelbėjimo komitetas įsikūrė Šilutėje.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Sukilėlių pajėgos
+    Vyriausiasis Mažosios Lietuvos gelbėjimo
+    komitetas įsikūrė Šilutėje. Sausio 8 d. su-
+    kilėlių kariuomenės vadas J. Budrys slaptu
+    įsakymu suformavo ypatingos paskir-
+    ties rinktinę, jos štabo viršininku paskyrė
+    Oksą (kpt. Juozą Tomkų).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003
+
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Prie sukilimo prisidėjo apie
@@ -61,13 +131,14 @@ amziai:
     rija yra nušalinama, valdžią į savo
     rankas perima Valstybės taryba.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 
-- c-002
+- c-003
   santrauka: '1923 m. sausio 19 d. Vyriausiasis Mažosios Lietuvos gelbėjimo komitetas Šilutėje sušaukė vadinamąjį Visuotinį seimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -84,8 +155,70 @@ amziai:
     kuria buvo nutarta autonomijos teisėmis
     prisijungti prie Lietuvos respublikos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-44086
+  citata_originali: |
+    Sukilėlių pajėgos
+    Vyriausiasis Mažosios Lietuvos gelbėjimo
+    komitetas įsikūrė Šilutėje. Sausio 8 d. su-
+    kilėlių kariuomenės vadas J. Budrys slaptu
+    įsakymu suformavo ypatingos paskir-
+    ties rinktinę, jos štabo viršininku paskyrė
+    Oksą (kpt. Juozą Tomkų).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193788
+
+- id: c-44087
+  citata_originali: |
+    Prie sukilimo prisidėjo apie
+    300 Klaipėdos krašto gyventojų. Rinktinė
+    buvo ginkluota kulkosvaidžiais, šautu-
+    vais ir granatomis, turėjo 4 automobilius,
+    4 motociklus, 1 komutatorių, 17 telefono
+    aparatų ryšiui palaikyti ir 63 arklius.
+    1923 m. sausio 9 d. Vyriausiasis
+    Mažosios Lietuvos gelbėjimo komite-
+    tas Šilutėje paskelbė manifestą, kuriuo
+    buvo pranešta, jog Krašto direkto-
+    rija yra nušalinama, valdžią į savo
+    rankas perima Valstybės taryba.
+  citata_rodoma: "1923 m. sausio 9 d. Vyriausiasis\nMažosios Lietuvos gelbėjimo komite-\ntas Šilutėje paskelbė manifestą, kuriuo\nbuvo pranešta, jog Krašto direkto-\nrija yra nušalinama, valdžią į savo\nrankas perima Valstybės taryba."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-69893
+
+- id: c-44088
+  citata_originali: |
+    Sukilimo vadui
+    Jonui Budriui-
+    Polovinskui
+    įteiktos špagos
+    fragmentas
+
+    Vyriausiasis Mažosios Lietuvos gelbė-
+    jimo komitetas sausio 19 d. Šilutėje sušaukė
+    vadinamąjį Visuotinį seimą. Jame krašto at-
+    stovai vienbalsiai priėmė Šilutės deklaraciją,
+    kuria buvo nutarta autonomijos teisėmis
+    prisijungti prie Lietuvos respublikos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-69891

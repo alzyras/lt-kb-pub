@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - sąvoka
   - valstybė
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Privatizacija ir išvalstybinimas
 
@@ -18,19 +30,42 @@ Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo priva�
 ## Teiginiai
 
 <a id="claim-t-22018"></a>
-- t-001
+- t-002
   global_id: t-22018
-  teiginys: 'Po privatizacijos įsivyravo požiūris, kad privatizacija iš esmės buvo neteisinga.'
+  teiginys: "Po privatizacijos įsivyravo požiūris, kad privatizacija iš esmės buvo neteisinga."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "515776-516049; hash=42245cf0510d346f24e05b51ba3915f9f07cddeaf761e7e52ee58bb8e6003976; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
+    - c-24701
 
 <a id="claim-t-183457"></a>
-- t-002
+- t-004
   global_id: t-183457
-  teiginys: 'Privatizacija kėlė abejonių, ar ji buvo efektyviausias valstybės turto išvalstybinimo būdas.'
+  teiginys: "Privatizacija kėlė abejonių, ar ji buvo efektyviausias valstybės turto išvalstybinimo būdas."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "515892-516217; hash=3ebee11f8184ca13853e1cde66857e3539019cb391b72880e50fe5d169abba36; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-002
+    - c-166852
 
+<a id="claim-t-193611"></a>
+- t-005
+  global_id: t-193611
+  teiginys: "Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo privačios, susidarė naujas verslininkų sluoksnis, veikęs pagal Vakarų pasaulio ekonomikos standartus."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "515267-515775; hash=d8b4603cbb39ffd48e476eddcdf52814d350c4d0c2c999064831f68689c65cf6; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176284
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,6 +77,7 @@ Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo priva�
     gyventojų čekius pardavė ir net nesugebėjo privatizuoti savo gyvenamojo
     būsto. Įsivyravo požiūris, kad privatizacija buvusi „neteisinga“ iš esmės.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -59,8 +95,79 @@ Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo priva�
     kos „išvalstybinimo“ būdas; šiaip ar taip, jis lėmė pirmojo dešimtmečio
     šalies ūkio raidą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: 'Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo privačios, susidarė naujas verslininkų sluoksnis, veikęs pagal Vakarų pasaulio ekonomikos standartus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tam reikėjo
+    pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas, pirk-
+    tas už investicinius čekius, banko paskolos ar iš užsienio pritrauktos lė-
+    šos. Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių
+    tapo privačios, susidarė naujas verslininkų sluoksnis, veikęs pagal Vakarų
+    pasaulio ekonomikos standartus.
+    Nors visiems šalies piliečiams sudarytos tarsi vienodos galimybės įsi-
+    gyti privatizuojamo valstybės turto už investicinius čekius, tinkamai tuo
+    pasinaudojo ne visi.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003
+
+## Citatos
+
+- id: c-24701
+  citata_originali: |
+    Nemažai čekių supirkėjų, nusipirkę anksčiau buvu-
+    sias valstybines įmones, stengėsi jas kuo pelningiau perparduoti. Daugelis
+    gyventojų čekius pardavė ir net nesugebėjo privatizuoti savo gyvenamojo
+    būsto. Įsivyravo požiūris, kad privatizacija buvusi „neteisinga“ iš esmės.
+  citata_rodoma: "Įsivyravo požiūris, kad privatizacija buvusi „neteisinga“ iš esmės."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-22018
+
+- id: c-166852
+  citata_originali: |
+    Daugelis
+    gyventojų čekius pardavė ir net nesugebėjo privatizuoti savo gyvenamojo
+    būsto. Įsivyravo požiūris, kad privatizacija buvusi „neteisinga“ iš esmės.
+    Tad iki šiol lieka daug abejonių, ar tai buvo pats efektyviausias ekonomi-
+    kos „išvalstybinimo“ būdas; šiaip ar taip, jis lėmė pirmojo dešimtmečio
+    šalies ūkio raidą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183457
+
+- id: c-176284
+  citata_originali: |
+    Tam reikėjo
+    pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas, pirk-
+    tas už investicinius čekius, banko paskolos ar iš užsienio pritrauktos lė-
+    šos. Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių
+    tapo privačios, susidarė naujas verslininkų sluoksnis, veikęs pagal Vakarų
+    pasaulio ekonomikos standartus.
+    Nors visiems šalies piliečiams sudarytos tarsi vienodos galimybės įsi-
+    gyti privatizuojamo valstybės turto už investicinius čekius, tinkamai tuo
+    pasinaudojo ne visi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193611

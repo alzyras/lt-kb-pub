@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - posakis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # „tėvyninė“ šalis
 
@@ -19,9 +31,19 @@ Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir kad jis nepuls Li
 <a id="claim-t-20955"></a>
 - t-001
   global_id: t-20955
-  teiginys: 'Józefas Piłsudskis pareiškė, kad jo politika taiki ir kad jis nepuls Lietuvos, kurią vadino „tėvynine“ šalimi.'
+  teiginys: "Józefas Piłsudskis pareiškė, kad jo politika taiki ir kad jis nepuls Lietuvos, kurią vadino „tėvynine“ šalimi."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "307245-307743; hash=04c7a42ff8dd3d8c06c06a7f0454c2bb8ca6d46eace2c8d4d1d4c241b76e84b5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> J. Pilsudskis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "„tėvyninė“ šalis: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "J. Pilsudskis: mention_match, person, gap=93"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„tėvyninė“ šalis\" parinktas kaip owner_note_path. Targetas \"J. Pilsudskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-23681
 - susijęs iš [[objektai/asmenys/Juzefas Pilsudskis.md#claim-t-101667|Juzefas Pilsudskis]]: Juzefas Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir kad jis nepuls Lietuvos, kurią laikė „tėvynine“ šalimi.
 ## Reikšmingi paminėjimai
 
@@ -37,8 +59,28 @@ Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir kad jis nepuls Li
     tijos reakcijos – J. Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir
     kad jis nepuls Lietuvos, kuri yra „tėvyninė“ šalis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-23681
+  citata_originali: |
+    Prancūzams lietuviai aiškins, kad sukilimas įvyko prieš vokiečius,
+    o ne prieš Gabrielio Žano Petisnė (Gabriel Jean Petisne) administraciją.
+    Susišaudymuose nuo prancūzų kulkų žuvo 16 lietuvių, nuo lietuvių – du
+    prancūzai, tačiau garsiai protestavo visi – aršiausiai prancūzai, formaliai
+    vokiečiai ir net britai. Lenkija laikėsi ramiai, privengdama karinės Vokie-
+    tijos reakcijos – J. Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir
+    kad jis nepuls Lietuvos, kuri yra „tėvyninė“ šalis.
+  citata_rodoma: "tijos reakcijos – J. Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-20955

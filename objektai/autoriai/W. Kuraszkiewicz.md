@@ -12,6 +12,18 @@ tags:
   - autorius
 amziai: []
 periodo_grupes: []
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # W. Kuraszkiewicz
 
@@ -24,10 +36,22 @@ Kuraszkiewicz, W.
 <a id="claim-t-31064"></a>
 - t-001
   global_id: t-31064
-  teiginys: 'W. Kuraszkiewiczius 1955 m. Varšuvoje paskelbė darbą apie spėjamą jotvingių pėdsaką Palenkėje.'
+  teiginys: "W. Kuraszkiewiczius 1955 m. Varšuvoje paskelbė darbą apie spėjamą jotvingių pėdsaką Palenkėje."
+  temporaliniai_duomenys: "įvykio data: iki 1200 m.; įvykio data: 1200 m.; įvykio data: 1939 m.; įvykio data: 1955 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinį įrašą, leidžiantį suformuluoti faktą apie autorių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "345748-346153; hash=e365b1107212f7b0dd875b51a958d1b5a2b2a0b5f631f1f5109f6b59cacfccfe; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Palenkė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "W. Kuraszkiewicz: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Palenkė: mention_match, place, gap=84"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"W. Kuraszkiewicz\" parinktas kaip owner_note_path. Targetas \"Palenkė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-33195
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -41,8 +65,27 @@ Kuraszkiewicz, W.
     many Mad Jaćimngów na Podlasiu,_ Studia z filologii polskiej i słowiańs­
     kiej, Warszawa 1955, 334-348 p. — Lehr-Splawiński, T. : _Język polski.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33195
+  citata_originali: |
+    — Klimas, P. keliuose egz. mašinraštyje 1939 m. paruošė savo
+    numatytos daugiatomės Lietuvių tautos istorijos I tomą (iki 1200 m.),
+    kurio, deja, neteko panaudoti.—Kudzinowski, Cz. : _Jaćwingome w
+    języku,_ ABaSl, I, 1964, 217-225 p. — Kuraszkiewicz, W. : _Domnie­
+    many Mad Jaćimngów na Podlasiu,_ Studia z filologii polskiej i słowiańs­
+    kiej, Warszawa 1955, 334-348 p. — Lehr-Splawiński, T. : _Język polski.
+  citata_rodoma: "— Kuraszkiewicz, W. : _Domnie­\nmany Mad Jaćimngów na Podlasiu,_ Studia z filologii polskiej i słowiańs­\nkiej, Warszawa 1955, 334-348 p. — Lehr-Splawiński, T."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31064

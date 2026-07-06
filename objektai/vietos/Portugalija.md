@@ -14,6 +14,18 @@ tags:
   - vieta
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Portugalija
 
@@ -24,18 +36,41 @@ Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir 
 ## Teiginiai
 
 <a id="claim-t-47099"></a>
-- t-001
+- t-003
   global_id: t-47099
-  teiginys: '1940 m. birželį iš Lietuvos pasitraukęs Antanas Smetona per Portugaliją išvyko į JAV.'
+  teiginys: "1940 m. birželį iš Lietuvos pasitraukęs Antanas Smetona per Portugaliją išvyko į JAV."
+  temporaliniai_duomenys: "įvykio data: 1940 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys sutrumpintas ir aiškiau susietas su Portugalija."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "461318-461676; hash=33db6c3965d70ac3ab6a19691c7748892d2d438ea953bad0c85d6037d477db8a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> A. Smetona: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Portugalija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Portugalija\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-24403
 
 <a id="claim-t-47100"></a>
 - t-002
   global_id: t-47100
-  teiginys: 'Portugalija ir Ispanija neteko lyderių pozicijų, nes iš Lotynų Amerikos plukdomas auksas neskatino vietos miestų ir ekonomikos plėtros.'
+  teiginys: "Portugalija ir Ispanija neteko lyderių pozicijų, nes iš Lotynų Amerikos plukdomas auksas neskatino vietos miestų ir ekonomikos plėtros."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "127520-127919; hash=ff1954409d26296a9e9e4e35aa78f1a381bbdc52b2b82af59e4b7c89580ea535; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ispanija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Portugalija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Ispanija: mention_match, place, gap=15"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Portugalija\" parinktas kaip owner_note_path. Targetas \"Ispanija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-49626
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75723|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1940 m. birželį iš Lietuvos išvykęs Antanas Smetona per Vokietiją, Šveicariją ir Portugaliją pasitraukė į JAV.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77979|A. Smetona]]: 1940 m. birželį iš Lietuvos išvykęs A. Smetona per Vokietiją, Šveicariją ir Portugaliją pasiekė JAV.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75723|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1940 m. birželį iš Lietuvos išvykęs Antanas Smetona per Vokietiją, Šveicariją ir Portugaliją pasitraukė į JAV.
@@ -59,6 +94,7 @@ Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir 
     geidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Por-
     tugaliją išvyko į JAV.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -77,11 +113,46 @@ Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir 
     Amerikos plukdomas auksas neskatino plėtoti savų miestų ir jų ekono-
     mikos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-24403
+  citata_originali: |
+    Per trejus–ketverius metus į JAV pasisekė atvykti
+    visiems norintiems lietuvių tremtiniams ir pabėgėliams (tokių buvo apie
+    30 tūkst.), kiti pasuko į Didžiąją Britaniją, Kanadą, Australiją.
+    1940 m. birželį išvykęs iš Lietuvos prezidentas A. Smetona nebuvo pa-
+    geidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Por-
+    tugaliją išvyko į JAV.
+  citata_rodoma: "1940 m. birželį išvykęs iš Lietuvos prezidentas A. Smetona nebuvo pa-\ngeidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Por-\ntugaliją išvyko į JAV."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-47099
+
+- id: c-49626
+  citata_originali: |
+    O kas nutiko didžiųjų ge-
+    ografinių atradimų pionierėms Portugalijai ir Ispanijai? Juk pastarajai ir
+    XVI a. geopolitiniu požiūriu Europoje neprilygo nė viena valstybė – Is-
+    panijos valdose nenusileisdavo saulė. Viena priežasčių, dėl kurių Ispanija
+    ir Portugalija neteko lyderių pozicijų, – per geras gyvenimas: iš Lotynų
+    Amerikos plukdomas auksas neskatino plėtoti savų miestų ir jų ekono-
+    mikos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-47100
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]

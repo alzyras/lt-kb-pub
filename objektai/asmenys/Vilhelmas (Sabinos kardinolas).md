@@ -18,6 +18,18 @@ amziai:
   - 'XIII'
 periodo_grupes:
   - 'viduramžiai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vilhelmas (Sabinos kardinolas)
 
@@ -28,12 +40,24 @@ Dusburgietis teigia, kad regulos ir prologo redaktoriumi greičiausiai buvo Vilh
 ## Teiginiai
 
 <a id="claim-t-60221"></a>
-- t-001
+- t-002
   global_id: t-60221
-  teiginys: 'Kronikininkas klaidingai tapatino popiežiaus pasiuntinį Prūsijoje Vilhelmą su vėlesniu popiežiumi Aleksandru IV.'
+  teiginys: "Kronikininkas klaidingai tapatino popiežiaus pasiuntinį Prūsijoje Vilhelmą su vėlesniu popiežiumi Aleksandru IV."
+  temporaliniai_duomenys: "įvykio data: 1244 m.; įvykio data: 1251 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys apie kronikininko klaidą reikalauja atribucijos, bet pradinė formuluotė yra nutrūkusi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "84023-84470; hash=da451e511d4f354fb7d8489e88c87d51aac0a092d3548a7361daab41244bcf2a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aleksandras IV: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilhelmas (Sabinos kardinolas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras IV: mention_match, person, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilhelmas (Sabinos kardinolas)\" parinktas kaip owner_note_path. Targetas \"Aleksandras IV\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-60852
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -47,8 +71,27 @@ Dusburgietis teigia, kad regulos ir prologo redaktoriumi greičiausiai buvo Vilh
     pastarasis sprendė ginčijamus klausimus su Rygos arkivyskupu ir tuometiniu popiežiaus
     legatu140.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-60852
+  citata_originali: |
+    Yra čia ir kitokių klaidų bei praleidimų. Pvz., praleisti trys Ordino magistrai, tarp jų
+    — Henrikas  iš Hohenlohės139. Kronikininko teigimu, popiežiaus pasiuntinys Prūsijoje
+    Vilhelmas — tai vėlesnis popiežius Aleksandras IV (III, 33), tuo tarpu šis, 1244 m. tapęs
+    Sabinos kardinolu (miręs 1251 m.), tebuvo kurijos atstovas, rėmęs Vokiečių ordiną, kai
+    pastarasis sprendė ginčijamus klausimus su Rygos arkivyskupu ir tuometiniu popiežiaus
+    legatu140.
+  citata_rodoma: "Kronikininko teigimu, popiežiaus pasiuntinys Prūsijoje\nVilhelmas — tai vėlesnis popiežius Aleksandras IV (III, 33), tuo tarpu šis, 1244 m. tapęs\nSabinos kardinolu (miręs 1251 m.), tebuvo kurijos atstovas, rėmęs Vokiečių ordiną, kai\npastarasis sprendė ginčijamus klausimus su Rygos arkivyskupu ir tuometiniu popiežiaus\nlegatu140."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60221

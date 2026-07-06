@@ -5,6 +5,18 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Strijkovskis
 
@@ -13,14 +25,28 @@ atnaujinta: ''
 Narbutas aiškino, kad Strijkovskis apie krivio pareigybę rašė daugiau, nes turėjo Lietuvos istorijos šaltinių.
 
 ## Teiginiai
+
 <a id="claim-t-190455"></a>
 - t-001
   global_id: t-190455
-  teiginys: 'Narbutas aiškino, kad Strijkovskis apie krivio pareigybę rašė daugiau, nes turėjo Lietuvos istorijos šaltinių.'
+  teiginys: "Narbutas aiškino, kad Strijkovskis apie krivio pareigybę rašė daugiau, nes turėjo Lietuvos istorijos šaltinių."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "759129-759902; hash=da632493e4cc93156f502a9edf001188201b82d168c27f08e2034e3ce848a09b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krivis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Strijkovskis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Krivis: mention_match, person, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Strijkovskis\" parinktas kaip owner_note_path. Targetas \"Krivis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173338
 - susijęs iš [[objektai/asmenys/Janas Lasickis.md#claim-t-188561|Janas Lasickis]]: Narbutas, remdamasis Lasickiu, rašo, kad Strijkovskis ir kiti Markopolius trumpai mini kaip požemio dievaičius.
 - susijęs iš [[objektai/asmenys/Motiejus Strijkovskis.md#claim-t-188586|Motiejus Strijkovskis]]: Narbutas nurodo, kad Strijkovskis turto deivę vadino Pilwitos.
 - susijęs iš [[objektai/asmenys/Motiejus Strijkovskis.md#claim-t-188591|Motiejus Strijkovskis]]: Narbutas nurodo, kad Strijkovskis alyvą Sambėje laikė pirmu tarp šventųjų medžių.
@@ -114,6 +140,7 @@ Narbutas aiškino, kad Strijkovskis apie krivio pareigybę rašė daugiau, nes t
 - susijęs iš [[objektai/zodynas/Slenkstis Slynksnis-Perlevenu.md#claim-t-189179|Slenkstis Slynksnis-Perlevenu]]: Narbutas Slynksnį-Perlevenu (Slynxnis-Perlewenu) apibūdina kaip bendrą namų dievaitį ir žemdirbio nuosavybės globėją.
 - susijęs iš [[objektai/zodynas/Trakai Troki.md#claim-t-189142|Trakai Troki]]: Narbutas kaip Trakų vardo paplitimo pavyzdį nurodė Trakais vadintą mišką Lydos apskrities Žirmūnų parapijoje.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Narbutas aiškino, kad Strijkovskis apie krivio pareigybę rašė daugiau, nes turėjo Lietuvos istorijos šaltinių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -135,8 +162,38 @@ Narbutas aiškino, kad Strijkovskis apie krivio pareigybę rašė daugiau, nes t
     ## Puslapis 421
 
     sijos krivis niekad neįsakinėjo Livonijai.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-173338
+  citata_originali: |
+    O kodėl apie krivį nieko
+    nemini Henrikas Latvis, rašęs apie Livoniją, apie šalį, kurią
+    krivis valdė? Būtų galima manyti, kad Livonijoje nebūta jokio
+    krivio pėdsako; net galima tvirtinti, kad Dusburgietis, klysda­
+    mas, jog Prūsijos krivio valdžia buvo taip labai paplitusi, tuo
+    labiau norėjo matyti Livoniją klausančią jo įsakymų, kuo la­
+    biau stiprėjo ir įgavo didesnę reikšmę jo lyginimas su popie­
+    žiumi; žinoma, galima būtų tiesiog prisipažinti, kad joks Prū­
+    7 Atvirkščiai, Strijkovskis apie tai rašo daugiau už prūsų ir latvių
+    kroninininkus, nes jis po ranka turėjo istorijos šaltinius, kurie bylojo,
+    kad ši pareigybė Lietuvoje gyvavo labai ilgai; tie šaltiniai galėjo pa­
+    pasakoti ir daugiau smulkmenų.
+    421
+
+    ## Puslapis 421
+
+    sijos krivis niekad neįsakinėjo Livonijai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190455

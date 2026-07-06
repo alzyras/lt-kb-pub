@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Daugirdas
 
@@ -17,16 +29,43 @@ Po pasitarimo Leliušas su įgula užėmė Trakus, o Daugirdas nuskubėjo į Vil
 <a id="claim-t-186102"></a>
 - t-001
   global_id: t-186102
-  teiginys: 'Po pasitarimo Leliušas su įgula užėmė Trakus, o Daugirdas nuskubėjo į Vilnių.'
+  teiginys: "Po pasitarimo Leliušas su įgula užėmė Trakus, o Daugirdas nuskubėjo į Vilnių."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Daugirdas keliavo į Vilnius (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "814111-814580; hash=0a8d3cf999236d177d696d93e9850583a0b1e1c8345a5a2b93239927f45e0ca1; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Daugirdas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekste aiškiai pasakyta, kad Daugirdas vyko į Vilnių."
   pagrindžia:
-    - c-001
+    - c-169463
 
 <a id="claim-t-186103"></a>
 - t-002
   global_id: t-186103
-  teiginys: 'Mirus Vilniaus vaivadai Daugirdui, jo įpėdiniu buvo paskirtas Jonas Goštautas.'
+  teiginys: "Mirus Vilniaus vaivadai Daugirdui, jo įpėdiniu buvo paskirtas Jonas Goštautas."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "842822-843318; hash=c524735a025d70d07bb7b3d0bf76b10daf4839d26a824d9e30b56262258108cb; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Daugirdas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Daugirdas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-169464
 - susijęs iš [[objektai/asmenys/Daugirdas (Vilniaus vaivada).md#claim-t-87650|Daugirdas (Vilniaus vaivada)]]: 1440 m. balandį Vilniaus vaivada Daugirdas laikinai užėmė žemutinę Vilniaus pilį Švitrigailai.
 - susijęs iš [[objektai/asmenys/Stanislovas Daugirdas.md#claim-t-186253|Stanislovas Daugirdas (kunigaikštis, XVI a.)]]: Stanislovas Daugirdas stropiai surinko lietuvių belaisvių vardus iš visos Maskvos kunigaikštystės.
 - susijęs iš [[objektai/autoriai/Albertas Daugirdas.md#claim-t-40589|Albertas Daugirdas]]: Albertas Daugirdas gimė 1971 m. ir baigė Vilniaus pedagoginio universiteto Istorijos fakultetą.
@@ -69,6 +108,7 @@ Po pasitarimo Leliušas su įgula užėmė Trakus, o Daugirdas nuskubėjo į Vil
     kelionėje išgirdę apie nužudymą, jie pradžiugo, ar nu­
     liūdo.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -90,11 +130,57 @@ Po pasitarimo Leliušas su įgula užėmė Trakus, o Daugirdas nuskubėjo į Vil
     tramdė priešus, ar tada, kai santūriai ir išmintingai
     tvarkė valdinius.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-169463
+  citata_originali: |
+    Nu­
+    žudę kunigaikštį, bokšte iškėlė vėliavą, laisvės bei sau­
+    gumo ženklą, visus raginantį nesibijoti sąmokslininkų.
+    Sušaukę pasitarimą, nusprendė pašalinti Mykolą, ir Le-
+    liušas su stipria įgula užėmė Trakus, o Daugirdas nu­
+    skubėjo į Vilnių. Tuo tarpu rinkosi į seimą pakviesti
+    didikai, ilgai nežinoję, nei ką
+    Luom ai,
+    p a k v ie s ti
+    j
+    kunigaikštis ketino su jais pa-
+    seim ą,
+    daryti, nei kas su juo pačiu
+    kelionėje išgirdę apie nužudymą, jie pradžiugo, ar nu­
+    liūdo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186102
+
+- id: c-169464
+  citata_originali: |
+    Tiems, kurių ištikimybę bei narsumą patyrė per
+    ankstesnius karus, suteikė visokiausių pareigybių, no­
+    rėdamas duoti deramą paskatą ir kitiems į juos pana­
+    šiems vyrams, kurie taip reikalingi negandų metais,—
+    šitai ir turi būti svarbiausias valdovų rūpestis taikos
+    metu. Kai mirė Daugirdas, Vilniaus vaivada, Joną Goš­
+    tautą paskyrė jo įpėdiniu. Sunku pasakyti, kada ryš­
+    kiau atsiskleisdavo jo didybė, ar tada, kai sėkmingai
+    tramdė priešus, ar tada, kai santūriai ir išmintingai
+    tvarkė valdinius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186103
 
 ## Ryšiai
 - Daugirdas keliavo į [[objektai/vietos/Vilnius]]

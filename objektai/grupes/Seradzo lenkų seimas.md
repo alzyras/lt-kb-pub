@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Seradzo lenkų seimas (seimas)
 
@@ -17,10 +29,23 @@ Jogaila, nebesitikėdamas taikos su Boleslovu Švitrigaila, išvyko į Lenkiją 
 <a id="claim-t-185455"></a>
 - t-001
   global_id: t-185455
-  teiginys: 'Jogaila, nebesitikėdamas taikos su Boleslovu Švitrigaila, išvyko į Lenkiją ir sušaukė Seradzo lenkų seimą.'
+  teiginys: "Jogaila, nebesitikėdamas taikos su Boleslovu Švitrigaila, išvyko į Lenkiją ir sušaukė Seradzo lenkų seimą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Seradzo lenkų seimas (seimas) priklausė Lenkai (0.62)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "769437-770076; hash=4fcb8f2184932756c0b2a859e1b6a27757fdc7497e3909df05e6a8eb6e5b2b92; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lenkai: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Seradzo lenkų seimas (seimas): llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lenkai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Pavadinimas „lenkų seimas“ tiesiogiai sieja Seradzo seimą su lenkais."
   pagrindžia:
-    - c-001
-
+    - c-168816
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,11 +69,39 @@ Jogaila, nebesitikėdamas taikos su Boleslovu Švitrigaila, išvyko į Lenkiją 
     gaila
     sušaukė Seradze lenkų seimą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-168816
+  citata_originali: |
+    Karaliaus sumanymus
+    sugriauti padėjo ir Torunės komtūras, kryžiuočių pa­
+    siųstas pas Boleslovą: jis iš paskutiniųjų kurstė tarp
+    brolių nesantaiką, be galo naudingą jo ordinui, ir, paža­
+    dėjęs rimtą pagalbą, skatino Švitrigailą nesibaiminti
+    karo su lenkais. Netekęs bet kokios vilties pasiekti tai­
+    kos, Jogaila, suvokęs, jog net kraujo giminystė nelei­
+    džia taikstytis su šitokiomis skriaudomis, griebėsi kitų
+    priemonių, norėdamas galop sutramdyti Boleslovą ir
+    nubausti savo karališkųjų tei-
+    K a ra liu s tariasi, k a ip
+    šių pažeidėją. Iš Parčevo ka-
+    su sid o ro ti su Š vitri-
+    ralius išvyko į Lenkiją ir
+    gaila
+    sušaukė Seradze lenkų seimą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185455
 
 ## Ryšiai
 - Seradzo lenkų seimas (seimas) priklausė [[objektai/grupes/Lenkai]]

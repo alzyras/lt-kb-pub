@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Svėdasai
 
@@ -19,9 +31,20 @@ Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio kom
 <a id="claim-t-42174"></a>
 - t-001
   global_id: t-42174
-  teiginys: 'Zigmantas Sierakauskas su pagrindiniais sukilėlių daliniais išskubėjo Svėdasų kryptimi.'
+  teiginys: "Zigmantas Sierakauskas su pagrindiniais sukilėlių daliniais išskubėjo Svėdasų kryptimi."
+  semantiniai_rysiai: "Zigmantas Sierakauskas keliavo į Svėdasai (0.88)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "654987-655614; hash=42ecce83ecea30d983f9d10913d9e9fd98fa6a32302b1b4e87e5d15d42cefa5d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Svėdasai: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Zigmantas Sierakauskas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Svėdasai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Sierakauskas tiesiogiai nurodytas išskubėjęs Svėdasų kryptimi."
   pagrindžia:
-    - c-001
+    - c-45350
 - susijęs iš Antalieptė: P. Genys po Svėdasų ir Užpalių užėmimo ėmė Antalieptę birželio 5 d.
 - susijęs iš Užpaliai: Po Svėdasų užėmimo P. Genys užėmė Užpalius, o 1919 m. birželio 5 d. - Antalieptę.
 - susijęs iš [[objektai/ivykiai/Šimonių girios apgultis.md#claim-t-39119|Šimonių girios apgultis]]: 1949 m. lapkričio 1–2 d. MGB vidaus kariuomenė vykdė karines-čekistines operacijas Šimonių girioje, Svėdasų valsčiuje.
@@ -57,11 +80,42 @@ Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio kom
 
     suteikdama jam pulkininko laipsnį.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-45350
+  citata_originali: |
+    Po nepavykusio
+    grafo Liudviko Pliaterio antpuolio prieš
+    Rusijos kariuomenės karinio transporto
+    gurguolę, vykstančią į Daugpilį, teko at-
+    sisakyti šios tvirtovės puolimo, nes rusų
+    karinė vadovybė perprato sukilėlių planus.
+    Sukilėlių apmokymai ir reorgani-
+    zacija Teresboro karinėje stovykloje
+    užtruko 10 dienų. Norėdamas atitraukti
+    rusų kariuomenės dėmėsi nuo pagrin-
+    dinių sukilėlių dalinių, Z. Sierakauskas
+    išsiuntė Kasperą Maleckį su 150 karių
+    ardyti geležinkelio komunikacijas
+    ir rinkti duomenis apie priešo judė-
+    jimą, o pats su savo pagrindiniais dali-
+    niais išskubėjo Svėdasų kryptimi.
+
+    suteikdama jam pulkininko laipsnį.
+  citata_rodoma: "Norėdamas atitraukti\nrusų kariuomenės dėmėsi nuo pagrin-\ndinių sukilėlių dalinių, Z. Sierakauskas\nišsiuntė Kasperą Maleckį su 150 karių\nardyti geležinkelio komunikacijas\nir rinkti duomenis apie priešo judė-\njimą, o pats su savo pagrindiniais dali-\nniais išskubėjo Svėdasų kryptimi.\n\nsuteikdama jam pulkininko laipsnį."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-42174
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Zigmantas Sierakauskas]]

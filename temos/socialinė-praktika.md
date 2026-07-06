@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 31.
+Objektų skaičius: 30.
 
 ## Kaip naudoti
 
@@ -31,7 +31,6 @@ Objektų skaičius: 31.
 - [[objektai/paprociai/Lietuvos sportininkų atsisakymas dalyvauti SSRS rinktinėse ir atstovavimas Lietuvai]]
 - [[objektai/paprociai/Masinė Lietuvos gyventojų emigracija po privatizacijos dešimtmečio]]
 - [[objektai/paprociai/Masinės džiaugsmo manifestacijos gavus tarptautinį pripažinimą]]
-- [[objektai/paprociai/Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje]]
 - [[objektai/paprociai/Mitologijos aprašymas renkant rašytinius, tautosakinius, etnografinius ir materialius šaltinius]]
 - [[objektai/paprociai/Prezidento A. Smetonos iškilmingos kelionės po miestelius ir sutikimo vartų ceremonijos]]
 - [[objektai/paprociai/Sovietinio deficito eilės ir talonų laukimas]]
@@ -46,7 +45,7 @@ Objektų skaičius: 31.
 - [[objektai/paprociai/Žmonų išpirka ir žmonos tarnystės pareigos Dusburgiečio vaizde]]
 - [[objektai/paprociai/Žuvusių partizanų kūnų viešas išniekinimas ir slapti užkasimai]]
 - [[objektai/paprociai/Žydų apsauga nuo smurto ir kraujo kaltinimų]]
-- [Žydų gelbėjimas ir slėpimas rizikuojant gyvybe](../objektai/paprociai/%C5%BDyd%C5%B3%20gelb%C4%97jimas%20ir%20sl%C4%97pimas%20rizikuojant%20gyvybe)
+- [[objektai/paprociai/Žydų gelbėjimas ir slėpimas rizikuojant gyvybe]]
 - [Žydų kelionių, laidotuvių lydėjimo, kapinių ir mokyklos apsauga](../objektai/paprociai/%C5%BDyd%C5%B3%20kelioni%C5%B3%2C%20laidotuvi%C5%B3%20lyd%C4%97jimo%2C%20kapini%C5%B3%20ir%20mokyklos%20apsauga)
 
 ### Posakiai

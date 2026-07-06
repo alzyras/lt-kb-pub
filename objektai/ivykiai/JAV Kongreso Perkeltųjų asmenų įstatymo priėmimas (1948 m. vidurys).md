@@ -14,6 +14,18 @@ tags:
   - valstybė
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # JAV Kongreso Perkeltųjų asmenų įstatymo priėmimas (1948 m. vidurys)
 
@@ -42,10 +54,22 @@ Nenurodyta
 <a id="claim-t-26374"></a>
 - t-001
   global_id: t-26374
-  teiginys: '1948 m. viduryje JAV Kongresas priėmė Perkeltųjų asmenų įstatymą, numatantį įsileisti 205 tūkst. dipukų.'
+  teiginys: "1948 m. viduryje JAV Kongresas priėmė Perkeltųjų asmenų įstatymą, numatantį įsileisti 205 tūkst. dipukų."
+  temporaliniai_duomenys: "įvykio data: 1948 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo veikėją, veiksmą, laiką ir įstatymo turinį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "460933-461507; hash=61c8b88c233037a22605a1ba8064334c995b5f7c84931dadda5f7432493a44f2; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> JAV Kongresas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "JAV Kongreso Perkeltųjų asmenų įstatymo priėmimas (1948 m. vidurys): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "JAV Kongresas: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"JAV Kongreso Perkeltųjų asmenų įstatymo priėmimas (1948 m. vidurys)\" parinktas kaip owner_note_path. Targetas \"JAV Kongresas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-26599
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -61,8 +85,29 @@ Nenurodyta
     visiems norintiems lietuvių tremtiniams ir pabėgėliams (tokių buvo apie
     30 tūkst.), kiti pasuko į Didžiąją Britaniją, Kanadą, Australiją.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-26599
+  citata_originali: |
+    5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
+    225
+    Prasidėjus Šaltajam karui tarp JAV ir SSRS, amerikiečiai ėmė keisti
+    savo požiūrį į dipukus. 1948 m. viduryje JAV Kongresas priėmė vadi-
+    namąjį Perkeltųjų asmenų įstatymą, kuriame buvo numatoma įsileisti
+    205 tūkst. dipukų (tarp jų – 40 proc. Baltijos valstybių ir Lenkijos pa-
+    bėgėlių bei tremtinių). Per trejus–ketverius metus į JAV pasisekė atvykti
+    visiems norintiems lietuvių tremtiniams ir pabėgėliams (tokių buvo apie
+    30 tūkst.), kiti pasuko į Didžiąją Britaniją, Kanadą, Australiją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-26374

@@ -4,6 +4,7 @@ pavadinimas: 'Bartai'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1246 m.'
@@ -14,129 +15,334 @@ datos:
   - '1274 m.'
 date_start: '1246'
 date_end: '1274'
-description: 'Bartai, arba bartėnai, gyveno Didžiojoje ir Mažojoje Bartoje, dalyvavo prūsų kovose ir 1274 m. vėl pasidavė tikėjimui.'
-socialDescription: 'Bartai buvo prūsų grupė iš Didžiosios ir Mažosios Bartos, siejama su Divano vadovaujamais žygiais ir 1274 m. pasidavimu.'
-seo_atnaujinta: '2026-07-02T23:12:35.274723+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Bartai
 
 ## Santrauka
 
-Bartai, dar vadinti bartėnais, gyveno Didžiojoje ir Mažojoje Bartoje. XIII a. šaltiniuose jie minimi tarp prūsų, kovojusių su broliais, o jų vadas Divanas, pravarde Klokinis, rengė žygius į Kulmo žemę, Kristburgo ir Marienburgo apylinkes bei apsiautė Senenzės pilį. Po Divano žūties ir vėlesnių įvykių 1274 m. bartai kartu su pagudėnais, varmiais, notangais ir sembais grįžo į Bažnyčios bendruomenę ir davė įkaitų.
+Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti žymiai anksčiau, ir ten žinomi Lietuvos Užnemunėje sūduviai, Rytprūsiuose sembai, galindai, bartai, nadruviai, skalviai ir kt.
 
 ## Teiginiai
 
 <a id="claim-t-88523"></a>
-- t-001
+- t-011
   global_id: t-88523
-  teiginys: 'Sūduviai sugriovė Bartenšteino pilį, kurioje, broliams pasitraukus, buvo įsikūrę bartai.'
+  teiginys: "Sūduviai sugriovė Bartenšteino pilį, kurioje, broliams pasitraukus, buvo įsikūrę bartai."
+  semantiniai_rysiai: "Bartai gyveno Bartenšteinas (0.90); Sūduviai puolė Bartenšteinas (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1265 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiesiogiai paremtas citata apie Bartenšteino pilies sugriovimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "436799-437541; hash=a87e87e28df0b1b42e00b650839f8db7a073e1b4be612c0af8a252bc7867a47d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Bartenšteinas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bartai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Bartenšteinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad bartai buvo įsikūrę Bartenšteino pilyje."
   pagrindžia:
-    - c-001
-    - c-003
-    - c-006
-    - c-007
-    - c-014
+    - c-84502
+    - c-84505
+    - c-84509
+    - c-84510
+    - c-84518
 
 <a id="claim-t-88524"></a>
-- t-002
+- t-007
   global_id: t-88524
-  teiginys: 'Bartų vadas Divanas, pravarde Klokinis, ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo žemę.'
+  teiginys: "Bartų vadas Divanas, pravarde Klokinis, ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo žemę."
+  semantiniai_rysiai: "Divanas puolė Kulmas (0.90); Linkas puolė Kulmas (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1265 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai įvardija veikėjus, veiksmą ir vietą, kaip nurodyta citatoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "436799-437541; hash=a87e87e28df0b1b42e00b650839f8db7a073e1b4be612c0af8a252bc7867a47d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Kulmas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Linkas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kulmas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Linko įsiveržimą į Kulmo žemę."
   pagrindžia:
-    - c-001
+    - c-84502
 
 <a id="claim-t-88525"></a>
-- t-003
+- t-012
   global_id: t-88525
-  teiginys: '1274 m. bartai kartu su pagudėnais, varmiais, notangais ir sembais grįžo į Bažnyčios bendruomenę ir davė įkaitų.'
+  teiginys: "1274 m. bartai kartu su pagudėnais, varmiais, notangais ir sembais grįžo į Bažnyčios bendruomenę ir davė įkaitų."
+  temporaliniai_duomenys: "įvykio data: 1274 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata remia faktą apie bartų paklusimą ir įkaitus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "473963-474784; hash=59ae49fc8df63793e58690ed42c1e745c531dd4dceccaa7766cdf4fe865b7438; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Notangai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bartai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Notangai: mention_match, group, gap=38"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bartai\" parinktas kaip owner_note_path. Targetas \"Notangai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-012
+    - c-84515
 
 <a id="claim-t-88526"></a>
-- t-004
+- t-009
   global_id: t-88526
-  teiginys: 'Bartų vadas Divanas su aštuoniais šimtais vyrų apsiautė Senenzės pilį.'
+  teiginys: "Bartų vadas Divanas su aštuoniais šimtais vyrų apsiautė Senenzės pilį."
+  semantiniai_rysiai: "Divanas apgulė Senenzė (0.95)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "462029-462549; hash=6cda43e9d9e109780b4e471a8ee5ffb13d3e7c6c14ebe164e214a110d9080fef; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "apgule -> Senenzė: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Divanas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Senenzė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Divanas apsiautė Senenzės pilį."
   pagrindžia:
-    - c-002
+    - c-84503
 
 <a id="claim-t-88527"></a>
-- t-005
+- t-013
   global_id: t-88527
-  teiginys: '1251 m. dokumente — Barta major et minor Didžiąja ir Mažąja Barta ir kurioje gyveno bartai, arba bartėnai.'
+  teiginys: "1251 m. dokumente — Barta major et minor Didžiąja ir Mažąja Barta ir kurioje gyveno bartai, arba bartėnai."
+  semantiniai_rysiai: "Bartai gyveno Barta (0.96)"
+  temporaliniai_duomenys: "gyvenimo laikotarpis: 1251 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "claim_quality_pipeline deterministic repair"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "204694-205059; hash=c6c275a49a180bce2994f4d3e81b356c3e6d6cf72be37dd98a2b37734c668ddb; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Barta: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bartai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Barta: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginyje tiesiogiai sakoma, kad Bartoje gyveno bartai."
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
-    - c-004
+    - c-84507
 
 <a id="claim-t-88528"></a>
-- t-006
+- t-003
   global_id: t-88528
-  teiginys: 'Didžiojoje ir Mažojoje Bartoje gyveno bartai, dar vadinti bartėnais.'
+  teiginys: "Didžiojoje ir Mažojoje Bartoje gyveno bartai, dar vadinti bartėnais."
+  semantiniai_rysiai: "Bartai gyveno Barta (0.93)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "204694-205059; hash=c6c275a49a180bce2994f4d3e81b356c3e6d6cf72be37dd98a2b37734c668ddb; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Barta: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bartai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Barta: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Bartoje gyveno bartai."
   pagrindžia:
-    - c-004
-    - c-008
+    - c-84507
+    - c-84511
 
 <a id="claim-t-88529"></a>
-- t-007
+- t-008
   global_id: t-88529
-  teiginys: 'Bartų vadas Divanas sutelkė stiprią kariuomenę ir dar kartą apiplėšė Kristburgo bei Marienburgo apylinkes.'
+  teiginys: "Bartų vadas Divanas sutelkė stiprią kariuomenę ir dar kartą apiplėšė Kristburgo bei Marienburgo apylinkes."
+  semantiniai_rysiai: "Divanas puolė Kristburgas (0.86); Divanas puolė Marienburgas (0.86)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "440659-441041; hash=b4136096bc044e09aad737f32fe6d53bb599190b08f18210a9fd5c8e4cebd176; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Kristburgas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Divanas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kristburgas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo, kad Divanas apiplėšė Kristburgo apylinkes."
   pagrindžia:
-    - c-005
-    - c-011
+    - c-84508
+    - c-84514
 
 <a id="claim-t-88530"></a>
-- t-008
+- t-010
   global_id: t-88530
-  teiginys: 'Per pilies puolimą brolis Arnoldas Krofas arbaleto strėle peršovė bartų vadui Divanui kaklą, o po Divano žūties kiti pasitraukė.'
+  teiginys: "Per pilies puolimą brolis Arnoldas Krofas arbaleto strėle peršovė bartų vadui Divanui kaklą, o po Divano žūties kiti pasitraukė."
+  semantiniai_rysiai: "Arnoldas Krofas puolė Divanas (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "462550-463132; hash=32e4fa402305aa2fe8109a4a3ac26a0b898942f5509cc1d381fa9c4224d51e1e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Divanas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Arnoldas Krofas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Divanas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai aprašo Arnoldo Krofo smūgį Divanui."
   pagrindžia:
-    - c-015
+    - c-84521
 
 <a id="claim-t-88531"></a>
-- t-009
+- t-004
   global_id: t-88531
-  teiginys: 'Pamedėnai, pagudėnai, varmiai, notangai ir bartai grįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.'
+  teiginys: "Pamedėnai, pagudėnai, varmiai, notangai ir bartai grįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė."
+  temporaliniai_duomenys: "įvykio data: po 1246 m.; įvykio data: 1246 m.; įvykio data: 1260 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalinta religinė ir autorinė įžanga, paliktas citata paremtas faktinis turinys."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "336899-337806; hash=ee6bc5da96362944caaf7e2d631c52968336a9f4219112d9b36e968f49e6c742; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Henrikas iš Svarcburgo: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bartai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Henrikas iš Svarcburgo: mention_match, person, gap=49"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bartai\" parinktas kaip owner_note_path. Targetas \"Henrikas iš Svarcburgo\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-84512
 
 <a id="claim-t-88532"></a>
-- t-010
+- t-006
   global_id: t-88532
-  teiginys: '1263 m. bartų vadas Divanas vijosi iš pilies pasitraukusius brolius ir su trylika vyrų juos užpuolė.'
+  teiginys: "1263 m. bartų vadas Divanas vijosi iš pilies pasitraukusius brolius ir su trylika vyrų juos užpuolė."
+  temporaliniai_duomenys: "įvykio data: 1263 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis sakinys per ilgas ir nutrūkęs; citata remia glaustą faktą apie Divano veiksmą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "407380-408023; hash=41805736afbafee5ed2298f5db71f69fec9703f1af5d77814f2544a56d460b00; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Divanas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bartai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Divanas: mention_match, person, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bartai\" parinktas kaip owner_note_path. Targetas \"Divanas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-013
+    - c-84516
 
 <a id="claim-t-88533"></a>
-- t-011
+- t-001
   global_id: t-88533
-  teiginys: 'Bartai buvo viena iš vakarinių baltų, arba prūsų, genčių, žinomų Rytprūsiuose.'
+  teiginys: "Bartai buvo viena iš vakarinių baltų, arba prūsų, genčių, žinomų Rytprūsiuose."
+  semantiniai_rysiai: "Bartai priklausė Baltai (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "304836-305384; hash=58af4b122bd3bfec63bb207fc4bf2e541bb651f003f2d871473e57b983073b60; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Baltai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bartai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Baltai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai priskiria bartus vakariniams baltams."
   pagrindžia:
-    - c-010
+    - c-84513
 
 <a id="claim-t-88534"></a>
-- t-012
+- t-002
   global_id: t-88534
-  teiginys: '1251 m. dokumente Barta minima kaip didžioji ir mažoji Barta.'
+  teiginys: "1251 m. dokumente Barta minima kaip didžioji ir mažoji Barta."
+  temporaliniai_duomenys: "įvykio data: 1251 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata remia trumpą faktą apie Bartos pavadinimą dokumente."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "204560-204726; hash=8ae269b455176fd01d8718b376b04348d54f3173b55b5d816df57dd695244e88; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Barta: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bartai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Barta: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bartai\" parinktas kaip owner_note_path. Targetas \"Barta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-84511
 
 <a id="claim-t-88535"></a>
-- t-013
+- t-005
   global_id: t-88535
-  teiginys: 'Po prūsų atkritimo nuo krikščionių tikėjimo bartai savo kariuomenės vadu išsirinko Divaną.'
+  teiginys: "Po prūsų atkritimo nuo krikščionių tikėjimo bartai savo kariuomenės vadu išsirinko Divaną."
+  semantiniai_rysiai: "Bartai paskyrė Divanas (0.86)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "374656-375174; hash=163b7d2001444dfd4d0bd75d5f9a360958a667441748506bc2f305c13c2c6ea2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "paskyre -> Divanas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bartai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Divanas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citatoje bartai nurodomi kaip išsirinkę Divaną savo vadu."
   pagrindžia:
-    - c-014
+    - c-84518
 
 <a id="claim-t-184473"></a>
 - t-014
   global_id: t-184473
-  teiginys: 'Bartai Numa ir Derska, pabėgę iš Prūsijos į Lietuvą, išdavė lietuvių būrius, tikėdamiesi kryžiuočių atleidimo.'
+  teiginys: "Bartai Numa ir Derska, pabėgę iš Prūsijos į Lietuvą, išdavė lietuvių būrius, tikėdamiesi kryžiuočių atleidimo."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "267638-268137; hash=d7e99f28fd8df7282b460fc03d25bd39cf6825bdd8206eefe3c57da936bcdf73; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bartai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=89"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bartai\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-016
+    - c-167834
+
+<a id="claim-t-192367"></a>
+- t-015
+  global_id: t-192367
+  teiginys: "Narbuto pasakojime prūsai ir bartai kitą dieną buvo atsiųsti kaip pagalba priešams."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Bartai buvo sąjungininkas su Prūsai (0.70)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "235045-235414; hash=30b058dfe11464f9c5a498bf4f2497b3356f2cec80bcff0521060fe6064dba84; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Prūsai: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bartai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Prūsai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Prūsai ir bartai kartu pateikiami kaip pagalba tai pačiai pusei."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175162
 - susijęs iš [[objektai/asmenys/Derska.md#claim-t-60100|Derska]]: Derska su Numa tarpininkavo bartams, kad broliai grąžintų į nelaisvę paimtas jų žmonas ir vaikus.
 - susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59840|Ditrichas (Sembos fogtas)]]: Sembos fogtui Ditrichui nepatiko, kad broliai bartams grąžino į nelaisvę paimtas žmonas ir vaikus.
 - susijęs iš [[objektai/asmenys/Divanas.md#claim-t-184055|Divanas]]: 1263 m. Divanas, bartų vadas, vijosi iš pilies pasitraukusius brolius, bet buvo sunkiai sužeistas ir liovėsi kariavęs.
@@ -151,6 +357,7 @@ Bartai, dar vadinti bartėnais, gyveno Didžiojoje ir Mažojoje Bartoje. XIII a.
 - susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89169|Pagudėnai]]: Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.
 - susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89171|Pagudėnai]]: Pagudėnas Linkas su bartų vadu Divanu ir didele kariuomene įsibrovė į Kulmo žemę.
 - susijęs iš [[objektai/grupes/Pamedėnai.md#claim-t-78424|Pamedėnai]]: Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.
+- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-192445|Prūsai]]: Pasak Teodoro Narbuto pasakojimo, kitą dieną priešams į pagalbą buvo atsiųsti prūsai ir bartai.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175091|Sembai]]: 1274 m. sembai kartu su pagudėnais, varmiais, notangais ir bartais grįžo į Bažnyčios visuotinybę ir davė įkaitų.
 - susijęs iš [[objektai/grupes/Varmiai.md#claim-t-78535|Varmiai]]: 1274 m. varmiai kartu su pagudėnais, notangais, bartais ir sembais grįžo į Bažnyčios vienybę ir davė įkaitų.
 - susijęs iš [[objektai/grupes/Varmiai.md#claim-t-78540|Varmiai]]: Varmės, Notangos ir Bartos prūsai, nusilpninti brolių ir kunigaikščio, davė įkaitų ir pasidavė tikėjimui bei broliams.
@@ -232,8 +439,9 @@ Bartai, dar vadinti bartėnais, gyveno Didžiojoje ir Mažojoje Bartoje. XIII a.
     kažkokį  Kaltį, o  raiteliai nužygiavo  ligi valsčiaus, vardu Aliamas421, kuriame dabar
       416  Ditrichas iš Rodės Kristburgo komtūru buvo 1262—1265 m.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -251,6 +459,7 @@ Bartai, dar vadinti bartėnais, gyveno Didžiojoje ir Mažojoje Bartoje. XIII a.
     pastaruosius broliai apvilko savo vienuoliškais apsiaustais ir įteikė jiems savo skydelius,
     tikėdamiesi įvarysią priešams baimės, kai atrodys, jog pilyje daugiau brolių.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -273,6 +482,7 @@ Bartai, dar vadinti bartėnais, gyveno Didžiojoje ir Mažojoje Bartoje. XIII a.
 
           174 (169).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -289,6 +499,7 @@ Bartai, dar vadinti bartėnais, gyveno Didžiojoje ir Mažojoje Bartoje. XIII a.
     tūkstančių karių. Semba, turtingiausia  ir tirščiausiai gyvenama žemė, galėjo sutelkti
     keturis tūkstančius raitelių ir keturiasdešimt tūkstančių karių.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -307,6 +518,7 @@ Bartai, dar vadinti bartėnais, gyveno Didžiojoje ir Mažojoje Bartoje. XIII a.
     ir dabar jam taip seksis kaip anksčiau. Mat, tiek brolių bei kitų krikščionių išžudęs arba
     paėmęs  į nelaisvę, manė, jog nebeliko tose žemėse nieko, kas galėtų jam priešintis.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -328,6 +540,7 @@ Bartai, dar vadinti bartėnais, gyveno Didžiojoje ir Mažojoje Bartoje. XIII a.
     patvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir
     teisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -347,6 +560,7 @@ Bartai, dar vadinti bartėnais, gyveno Didžiojoje ir Mažojoje Bartoje. XIII a.
     gynybai, prasidėjo puolimas; krito daug priešų, sužeistų ir nukautų, o brolis Arnoldas
     Krofas, leisdamas strėles iš arbaleto, peršovė minėtajam Divanui kaklą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -359,6 +573,7 @@ Bartai, dar vadinti bartėnais, gyveno Didžiojoje ir Mažojoje Bartoje. XIII a.
     201 D.— Barta et Plicka Bartha, que nunc major et minor Bartka dicitur, Jer.— Bartin,
     Plicke Bartin, grôz Bartin unde kleine. 1251 m. dokumente — Barta major et minor
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -382,6 +597,7 @@ Bartai, dar vadinti bartėnais, gyveno Didžiojoje ir Mažojoje Bartoje. XIII a.
     tos pačios priežasties ir Sventopelkas, Pomeranijos kunigaikštis, pavargęs nuo pastangų
       307 Henrikas Botelis Prūsijoje (Elbinge) žinomas nuo 1246 m., žuvo 1260 m.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -402,6 +618,7 @@ Bartai, dar vadinti bartėnais, gyveno Didžiojoje ir Mažojoje Bartoje. XIII a.
     (XIII amž.) randami kairiajame Dauguvos deltos krante, pietuose
     nusitęsę iki Šiaulių - Upytės.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -419,6 +636,7 @@ Bartai, dar vadinti bartėnais, gyveno Didžiojoje ir Mažojoje Bartoje. XIII a.
     Todėl išsiuntė į priekį savo kariuomenę su grobiu, o pats nusekė iš paskos su nedideliu
     pulkeliu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -441,6 +659,7 @@ Bartai, dar vadinti bartėnais, gyveno Didžiojoje ir Mažojoje Bartoje. XIII a.
     visomis savo šeimynomis ir, krikšto prikelti naujam gyvenimui bei išsižadėję stabų, ėmė
     tarnauti gyvajam dievui Jėzui Kristui.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -460,6 +679,7 @@ Bartai, dar vadinti bartėnais, gyveno Didžiojoje ir Mažojoje Bartoje. XIII a.
     susidūrime tris nukovė. Kiti, pradėję priešintis, sunkiai sužeidė minėtąjį Divaną, kuris
     tada liovėsi kariavęs, o broliai su savaisiais ramiai atsitraukė.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -482,8 +702,9 @@ Bartai, dar vadinti bartėnais, gyveno Didžiojoje ir Mažojoje Bartoje. XIII a.
 
                    90 (85). Apie didelį krikščionių kraujo praliejimą
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
@@ -502,6 +723,7 @@ Bartai, dar vadinti bartėnais, gyveno Didžiojoje ir Mažojoje Bartoje. XIII a.
     negyvas; įėjęs  į šventyklą su daugybe žygūnų ir padėjėjų, jis nesusilaukė nė iš vieno
     pagalbos, tik neštuvais buvo išneštas laukan.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -523,13 +745,335 @@ Bartai, dar vadinti bartėnais, gyveno Didžiojoje ir Mažojoje Bartoje. XIII a.
     lietuvių reikalai nė trupučio nepagerėjo, nors ir nebu­
     vo tokie blogi kaip anuomet.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
 
+- c-017
+  santrauka: 'Narbuto pasakojime prūsai ir bartai kitą dieną buvo atsiųsti kaip pagalba priešams.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Pastarasis pasiūlymą priėmė ir nuvedė net iki Li­
+    kos upės. Kitą dieną priešams buvo atsiųsta pagalba —
+    prūsai ir bartai. Vadas visiems riteriams įsakė išeiti iš
+    stovyklos visiškai apsiginklavus: skydai spindėjo kaip
+    žvaigždės, o šalmai — kaip tekančios saulės spinduliai,
+    ietys žibėjo tankiai kaip tendrūnas, o iš šonų žygiavo šau­
+    liai su lankais, paruoštais smūgiui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-015
+
+## Citatos
+
+- id: c-84502
+  citata_originali: |
+    Apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­
+         medėnų pilaitės ir brolių papilio sunaikinimą bei daugybės krikščionių žūtį
+
+      Divanas, pravarde Klokinis418, bartų vadas, ir pagudėnas Linkas su didele kariuomene
+    įsibrovė  į Kulmo žemę; kai dėl šios kariuomenės triukšmo Kristburgo broliai bei kiti
+    susibūrė Kulmo žemėje, pagudėnai, laikydamiesi ankstesnio Divano įsakymo, su stipria
+    raitelių bei pėstininkų kariuomene patraukė prie pilies, vardu Traupeinas419, buvusios
+    tarp Kristburgo ir Marienburgo420; jos apgulai paliko čia pėstininkus ir jų vadu paskyrė
+    kažkokį  Kaltį, o  raiteliai nužygiavo  ligi valsčiaus, vardu Aliamas421, kuriame dabar
+      416  Ditrichas iš Rodės Kristburgo komtūru buvo 1262—1265 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88524
+    - t-88523
+
+- id: c-84503
+  citata_originali: |
+    165 (160). Apie Senenzės pilies puolimą ir ir bartų vado Divano žūtį
+
+      Tuo tarpu Divanas, bartų vadas, su aštuoniais šimtais vyrų apsiautė Senenzės pilį444 ir
+    prisiekė savo dievų galybe, kad iškarsiąs brolius bei jų ginklanešius ties pilies vartais, jeigu
+    jie bematant neatiduosią jam pilies. Šioje pilyje tebuvo trys broliai ir keletas ginklanešių,
+    pastaruosius broliai apvilko savo vienuoliškais apsiaustais ir įteikė jiems savo skydelius,
+    tikėdamiesi įvarysią priešams baimės, kai atrodys, jog pilyje daugiau brolių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88526
+
+- id: c-84505
+  citata_originali: |
+    173 (168). Apie antrąjį Bartenšteino pilies sugriovimą
+
+      Sūduviai, išgirdę, kad bartai, varmiai bei kiti prūsai vėl pakluso tikėjimui ir broliams,
+    labai įtūžo ir, atžygiavę su didele kariuomene, staiga apsiautė Bartenšteino pilį, kurioje,
+    broliams iš jos pasitraukus, buvo įsikūrę bartai; jie sugriovė ją, išžudę ar išsivarę  į
+    nelaisvę visus gyventojus, ir net pelenais pavertė.
+
+
+
+
+          174 (169).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88523
+
+- id: c-84507
+  citata_originali: |
+    dokumente — Barta major et minor
+
+    Didžiąja ir Mažąja Barta ir kurioje gyveno bartai, arba bartėnai. Vargu ar kuri šių giminių
+    buvo tokia nedidelė, kad karui negalėtų sutelkti dviejų tūkstančių raitųjų vyrų ir daug
+    tūkstančių karių. Semba, turtingiausia  ir tirščiausiai gyvenama žemė, galėjo sutelkti
+    keturis tūkstančius raitelių ir keturiasdešimt tūkstančių karių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88528
+    - t-88527
+
+- id: c-84508
+  citata_originali: |
+    144 (139). Apie daugybės prūsų žūtį
+
+      Mūsų jau minėtas Divanas, po senovei ištroškęs krikščionių kraujo, sutelkė stiprią
+    kariuomenę ir iš naujo apiplėšė Kristburgo bei Marienburgo apylinkes, manydamas, kad
+    ir dabar jam taip seksis kaip anksčiau. Mat, tiek brolių bei kitų krikščionių išžudęs arba
+    paėmęs  į nelaisvę, manė, jog nebeliko tose žemėse nieko, kas galėtų jam priešintis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88529
+
+- id: c-84509
+  citata_originali: |
+    Apie šią skaudžią nelaimę, dievo lemtą broliams bei jų žmonėms, išgirdo Vokietijos
+    kunigaikščiai, kurie pajuto jiems begalinį palankumą. Įvyko šitaip todėl, kad pats Kristus,
+    kuris ir plaka, ir gydo, savo dvasios malonėmis sujaudino kai kuriems kunigaikščiams
+    širdis, tad  į Prūsijos žemę įsiveržė Brandenburgo markgrafas 1251 viešpaties metais
+    ir Merzeburgo vyskupas310 bei grafas Henrikas iš Svarcburgo kitais metais su daugybe
+    karių, o šių paskiri būriai niokodami žygiavo per minėtųjų atsimetėlių žemes, degindami ir
+    grobstydami, žudydami ir imdami į nelaisvę, kol šie taip buvo nukamuoti, kad nebegalėjo
+    nė atsikvėpti. Nuo tol pamedėnai, pagudėnai, varmiai, notangai ir bartai311, šitaip viską
+    patvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir
+    teisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88523
+
+- id: c-84510
+  citata_originali: |
+    Tuo tarpu Divanas, bartų vadas, su aštuoniais šimtais vyrų apsiautė Senenzės pilį444 ir
+    prisiekė savo dievų galybe, kad iškarsiąs brolius bei jų ginklanešius ties pilies vartais, jeigu
+    jie bematant neatiduosią jam pilies. Šioje pilyje tebuvo trys broliai ir keletas ginklanešių,
+    pastaruosius broliai apvilko savo vienuoliškais apsiaustais ir įteikė jiems savo skydelius,
+    tikėdamiesi įvarysią priešams baimės, kai atrodys, jog pilyje daugiau brolių. Kai šitai
+    padarė, kai viena šalis parengė visa, kas reikalinga piliai pulti, o kita — kas reikalinga
+    gynybai, prasidėjo puolimas; krito daug priešų, sužeistų ir nukautų, o brolis Arnoldas
+    Krofas, leisdamas strėles iš arbaleto, peršovė minėtajam Divanui kaklą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88523
+
+- id: c-84511
+  citata_originali: |
+    201 D.— Barta et Plicka Bartha, que nunc major et minor Bartka dicitur, Jer.— Bartin,
+    Plicke Bartin, grôz Bartin unde kleine. 1251 m. dokumente — Barta major et minor
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88534
+    - t-88528
+
+- id: c-84512
+  citata_originali: |
+    Įvyko šitaip todėl, kad pats Kristus,
+    kuris ir plaka, ir gydo, savo dvasios malonėmis sujaudino kai kuriems kunigaikščiams
+    širdis, tad  į Prūsijos žemę įsiveržė Brandenburgo markgrafas 1251 viešpaties metais
+    ir Merzeburgo vyskupas310 bei grafas Henrikas iš Svarcburgo kitais metais su daugybe
+    karių, o šių paskiri būriai niokodami žygiavo per minėtųjų atsimetėlių žemes, degindami ir
+    grobstydami, žudydami ir imdami į nelaisvę, kol šie taip buvo nukamuoti, kad nebegalėjo
+    nė atsikvėpti. Nuo tol pamedėnai, pagudėnai, varmiai, notangai ir bartai311, šitaip viską
+    patvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir
+    teisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė. Tuo pat metu ir dėl
+    tos pačios priežasties ir Sventopelkas, Pomeranijos kunigaikštis, pavargęs nuo pastangų
+      307 Henrikas Botelis Prūsijoje (Elbinge) žinomas nuo 1246 m., žuvo 1260 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88531
+
+- id: c-84513
+  citata_originali: |
+    Latviją). Iškilo dar didesnė kilčių diferenciacija.
+    Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau
+    galima kalbėti žymiai anksčiau, ir ten žinomi Lietuvos Užnemunėje
+    sūduviai, Rytprūsiuose sembai, galindai, bartai, nadruviai, skalviai
+    ir kt.
+    Lietuvos ir Latvijos teritorijoje rytiniai baltai ilgiau sudarė
+    vieną kamieną, bet ir čia nuo V-VI amž. po Kr. ryškiau vienos
+    nuo kitų atsiskiria tokios kiltys : lietuviai, žiemgaliai, kurie vėliau
+    (XIII amž.) randami kairiajame Dauguvos deltos krante, pietuose
+    nusitęsę iki Šiaulių - Upytės.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88533
+
+- id: c-84514
+  citata_originali: |
+    Mūsų jau minėtas Divanas, po senovei ištroškęs krikščionių kraujo, sutelkė stiprią
+    kariuomenę ir iš naujo apiplėšė Kristburgo bei Marienburgo apylinkes, manydamas, kad
+    ir dabar jam taip seksis kaip anksčiau. Mat, tiek brolių bei kitų krikščionių išžudęs arba
+    paėmęs  į nelaisvę, manė, jog nebeliko tose žemėse nieko, kas galėtų jam priešintis.
+    Todėl išsiuntė į priekį savo kariuomenę su grobiu, o pats nusekė iš paskos su nedideliu
+    pulkeliu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88529
+
+- id: c-84515
+  citata_originali: |
+    175 (170). Apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą
+
+      1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams,
+    varmiams, notangams, bartams bei sembams, davus jiems įkaitų  ir šitaip laidavus,
+    kad jie ateityje niekada nemėginsią imtis tokių baisingų veiksmų, bet būsią nuolankiai
+    paklusnūs tikėjimui ir brolių valdžiai, magistras ir broliai, susirūpinę krikščionių [žemių]
+    ribų praplėtimu, nukreipė savo ginklus prieš nadruvius. Po to, kai mūsų aukščiau minėtas
+    Tirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais savo artimaisiais pasidavė tikėjimui
+    bei broliams, daug galingų ir kilmingų Nadruvos vyrų vienas po kito atėjo pas brolius su
+    visomis savo šeimynomis ir, krikšto prikelti naujam gyvenimui bei išsižadėję stabų, ėmė
+    tarnauti gyvajam dievui Jėzui Kristui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88525
+
+- id: c-84516
+  citata_originali: |
+    Neilgai trukus broliai, pristigę
+    maisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę
+    link Mazovijos kunigaikštystės. Šitai sužinojęs, Di-vanas, tuometinis bartų vadas, vijosi
+    juos su daugybe karių, bet nestengė pasivyti, nes jų pailsinti arkliai pristojo; tada jis,
+    pasiėmęs trylika vyrų, jojusių eiklesniais žirgais, pralenkė kitus ir, priartėjęs prie brolių,
+    bado nualintų ir dėl nuovargio nepajėgiančių kovoti, narsiai juos užpuolė, o pirmajame
+    susidūrime tris nukovė. Kiti, pradėję priešintis, sunkiai sužeidė minėtąjį Divaną, kuris
+    tada liovėsi kariavęs, o broliai su savaisiais ramiai atsitraukė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88532
+
+- id: c-84518
+  citata_originali: |
+    [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,
+    netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug
+    sunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo prie
+    pirmykščių paklydimų, o savo kariuomenės vadais bei vyresniaisiais sembai išsirinko
+    Glandą357, notangai — Herkų Mantą358, varmiai — Glapą359, pagudėnai — Auktumą360,
+    bartai — Divaną361.
+
+
+
+
+                   90 (85). Apie didelį krikščionių kraujo praliejimą
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88535
+    - t-88523
+
+- id: c-84521
+  citata_originali: |
+    Kai šitai
+    padarė, kai viena šalis parengė visa, kas reikalinga piliai pulti, o kita — kas reikalinga
+    gynybai, prasidėjo puolimas; krito daug priešų, sužeistų ir nukautų, o brolis Arnoldas
+    Krofas, leisdamas strėles iš arbaleto, peršovė minėtajam Divanui kaklą. Šiam žuvus,
+    kiti pasitraukė nebaigę reikalo. Piktžodžiautojui Divanui nutiko taip kaip tam Heliodorui,
+    kuris, mėgindamas apiplėšti viešpaties šventyklos iždinę, krito dievo nutrenktas žemėn
+    negyvas; įėjęs  į šventyklą su daugybe žygūnų ir padėjėjų, jis nesusilaukė nė iš vieno
+    pagalbos, tik neštuvais buvo išneštas laukan.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88530
+
+- id: c-167834
+  citata_originali: |
+    Tuo tarpu keletas kitų lietuvių būrių
+    niokojo Lenkijos pasienius, grįždami jie pateko į prie­
+    šų pasalas, ir tuo metu, kai namai, regis, buvo ranka
+    pasiekiami, šie juos išžudė. Tą pralaimėjimą jie pa­
+    tyrė dėl dviejų prūsų didikų, bartų Numos ir Derskos,
+    kurie tup metu, pabėgę iš Prūsijos, gyveno Lietuvoje,
+    vildamiesi, jog už naują išdavystę kryžiuočiai jiems
+    atleis jų ankstesnį nusikaltimą. Kitų metų pradžioje
+    lietuvių reikalai nė trupučio nepagerėjo, nors ir nebu­
+    vo tokie blogi kaip anuomet.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184473
+
+- id: c-175162
+  citata_originali: |
+    Pastarasis pasiūlymą priėmė ir nuvedė net iki Li­
+    kos upės. Kitą dieną priešams buvo atsiųsta pagalba —
+    prūsai ir bartai. Vadas visiems riteriams įsakė išeiti iš
+    stovyklos visiškai apsiginklavus: skydai spindėjo kaip
+    žvaigždės, o šalmai — kaip tekančios saulės spinduliai,
+    ietys žibėjo tankiai kaip tendrūnas, o iš šonų žygiavo šau­
+    liai su lankais, paruoštais smūgiui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192367
+
 ## Ryšiai
+- Sąjungininkai: [[objektai/grupes/Prūsai]]
 - Rėmė Bartai: [[objektai/asmenys/Derska]], [[objektai/asmenys/Numa]]
 - Bartai keliavo į [[objektai/vietos/Lietuva]]
 - Bartai puolė [[objektai/vietos/Baiga]], [[objektai/vietos/Senenzė]]

@@ -18,6 +18,18 @@ amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Boleslovas Pamaldusis
 
@@ -30,10 +42,23 @@ periodo_grupes:
 <a id="claim-t-87638"></a>
 - t-001
   global_id: t-87638
-  teiginys: 'Boleslovas Pamaldusis XIII a. paskelbė atmintiną privilegiją žydų tautos gyventojams Didžiojoje Lenkijoje.'
+  teiginys: "Boleslovas Pamaldusis XIII a. paskelbė atmintiną privilegiją žydų tautos gyventojams Didžiojoje Lenkijoje."
+  semantiniai_rysiai: "Žydai gyveno Lenkija (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1408 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata aiškiai sieja Boleslovą Pamaldųjį su XIII a. privilegija žydams."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "324706-325345; hash=c3ee9ff09e80c60af8e5dd3cef97fbecfe43ace0d47a6716af317c420c7d82dc; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Lenkija: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žydai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Frazė nurodo žydų tautos gyventojus Didžiojoje Lenkijoje."
   pagrindžia:
-    - c-001
-
+    - c-83617
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -56,8 +81,36 @@ periodo_grupes:
     privilegiją tos tautos gyventojams, paskelbtą XIII amžiuje, ku­
     rią vėliau patvirtino Kazimieras Didysis68.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83617
+  citata_originali: |
+    Vilno ipso die Sanctae Priscae Virginis 67
+    et martyris anno D-ni 1401 [Lietuvos Lindenblatt Jahrbücher, p. 147.
+    aukštesniesiems ir t. t. privilegija, Geschichte Marienburgs, etc. von J o-
+    duota Vilniuje Šv. Priskos, mergelės hannes Voigt, p. 220.
+    146
+
+    ## Puslapis 163
+
+    Il KNYGA
+    nėtinai didelį skaičių žydų Lietuvoje ir Voluinėje, ir pačioje sosti­
+    nėje jaugi nemažai jų buvo, Lucke (1408 m.) visiems Lietuvos
+    žydams suteikė tam tikrų laisvių, pavyzdžiu imdamas Didžio­
+    sios Lenkijos kunigaikščio Boleslovo Pamaldžiojo atmintiną
+    privilegiją tos tautos gyventojams, paskelbtą XIII amžiuje, ku­
+    rią vėliau patvirtino Kazimieras Didysis68.
+  citata_rodoma: "220.\n146\n\n## Puslapis 163\n\nIl KNYGA\nnėtinai didelį skaičių žydų Lietuvoje ir Voluinėje, ir pačioje sosti­\nnėje jaugi nemažai jų buvo, Lucke (1408 m.) visiems Lietuvos \nžydams suteikė tam tikrų laisvių, pavyzdžiu imdamas Didžio­\nsios Lenkijos kunigaikščio Boleslovo Pamaldžiojo atmintiną \nprivilegiją tos tautos gyventojams, paskelbtą XIII amžiuje, ku­\nrią vėliau patvirtino Kazimieras Didysis68."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87638

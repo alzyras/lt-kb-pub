@@ -15,6 +15,18 @@ tags:
   - valstybė
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvos ir Vatikano konkordatas (1927 m.)
 
@@ -24,20 +36,64 @@ Voldemarui pavyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėj
 
 ## Teiginiai
 
-<a id="claim-t-75474"></a>
-- t-001
-  global_id: t-75474
-  teiginys: '1940 m. birželio 27 d. Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordatą.'
+<a id="claim-t-75475"></a>
+- t-002
+  global_id: t-75475
+  teiginys: "1940 m. birželio 27 d. Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordatą."
+  temporaliniai_duomenys: "įvykio data: 1940 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia nurodyti metus, nes vien mėnuo ir diena nėra pakankamai aiškūs."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "385511-386314; hash=c2bdc6adb6ea09bebfe9357692ce5298e0e085178c0ecd7af458e5a84d3f40a1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos ir Vatikano konkordatas (1927 m.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos ir Vatikano konkordatas (1927 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-23876
+
+<a id="claim-t-75475"></a>
+- t-002
+  global_id: t-75475
+  teiginys: "1940 m. birželio 27 d. Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordatą."
+  temporaliniai_duomenys: "įvykio data: 1940 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia nurodyti metus, nes vien mėnuo ir diena nėra pakankamai aiškūs."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "385511-386314; hash=c2bdc6adb6ea09bebfe9357692ce5298e0e085178c0ecd7af458e5a84d3f40a1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos ir Vatikano konkordatas (1927 m.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos ir Vatikano konkordatas (1927 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-23876
 
 <a id="claim-t-75476"></a>
-- t-003
+- t-001
   global_id: t-75476
-  teiginys: '1927 m. rugsėjo 27 d. Augustinas Voldemaras pasirašė konkordatą su Vatikanu dėl Lietuvos katalikų bažnyčios padėties valstybėje.'
+  teiginys: "1927 m. rugsėjo 27 d. Augustinas Voldemaras pasirašė konkordatą su Vatikanu dėl Lietuvos katalikų bažnyčios padėties valstybėje."
+  temporaliniai_duomenys: "įvykio data: 1927 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "322420-322865; hash=baa834e532e25e9f03c43d3770ef44d1e23b87752d4f6ae1d12649e68fc7c541; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos ir Vatikano konkordatas (1927 m.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos ir Vatikano konkordatas (1927 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-23875
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -51,8 +107,9 @@ Voldemarui pavyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėj
     pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios
     padėtį valstybėje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -73,9 +130,52 @@ Voldemarui pavyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėj
     no konkordatą, o liepos 12-ąją, spaudžiant V. Dekanozovui, nutarta Sovietų
     Sąjungos valstybiniam bankui perduoti užsienyje laikomą Lietuvos auksą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-23875
+  citata_originali: |
+    Vilniaus problema komplikavo ir Lietuvos bažnytinės provincijos su-
+    darymo ir konkordato su Vatikanu klausimus. Vyriausybei derantis su
+    Vatikanu dėl diplomatinių santykių opozicija apkaltino krikščionis de-
+    mokratus išsižadant Seinų ir Vilniaus vyskupijų. Tik A. Voldemarui pa-
+    vyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėjo 27 d. jis
+    pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios
+    padėtį valstybėje.
+  citata_rodoma: "Tik A. Voldemarui pa-\nvyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėjo 27 d. jis\npasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios\npadėtį valstybėje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75476
+
+- id: c-23876
+  citata_originali: |
+    Prireikus ji gins Lietuvos
+    Nepriklausomybę ir laisvę“.
+    Iš tiesų Liaudies vyriausybė vykdė sovietų valią, nuo pirmų dienų griovė
+    Lietuvos valstybingumą, keitė administraciją: į svarbius vyriausybės pos-
+    tus buvo paskirti amnestuoti politiniai kaliniai komunistai – LKP vadovas
+    Antanas Sniečkus tapo Valstybės saugumo departamento direktoriumi, o
+    Mečislovas Gedvilas – vidaus reikalų ministru; birželio 25 dieną įteisinta
+    LKP (nors kitos politinės partijos neįteisintos), paleistas vadinamasis sme-
+    toninis Seimas, uždarytos visos nekomunistinės organizacijos, laikraščiai ir
+    žurnalai. Birželio 27-ąją Liaudies vyriausybė panaikino Lietuvos ir Vatika-
+    no konkordatą, o liepos 12-ąją, spaudžiant V. Dekanozovui, nutarta Sovietų
+    Sąjungos valstybiniam bankui perduoti užsienyje laikomą Lietuvos auksą.
+  citata_rodoma: "Birželio 27-ąją Liaudies vyriausybė panaikino Lietuvos ir Vatika-\nno konkordatą, o liepos 12-ąją, spaudžiant V. Dekanozovui, nutarta Sovietų\nSąjungos valstybiniam bankui perduoti užsienyje laikomą Lietuvos auksą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75475
+    - t-75474

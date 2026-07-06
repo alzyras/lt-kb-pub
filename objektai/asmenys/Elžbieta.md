@@ -9,11 +9,6 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
-description: 'Elžbietos vardu siejamos kelios istorijos: šventosios gyvenimas XIII a., Jadvygos kelias į Krokuvą ir karalienės atvykimas į Vilnių.'
-socialDescription: 'Elžbietos įrašas apima šventosios Elžbietos XIII a. biografijos epizodus, Vengrijos karalienės sprendimą dėl Jadvygos ir karalienės Elžbietos atvykimą į Vilnių.'
-seo_atnaujinta: '2026-07-02T20:14:54.838831+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'true'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -21,91 +16,231 @@ tags:
   - karalius
 amziai: []
 periodo_grupes: []
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Elžbieta
 
 ## Santrauka
 
-Įrašas jungia kelias Elžbietos figūras: šventąją Elžbietą, gimusią 1207 m., ištekėjusią 1221 m., mirusią 1231 m. ir kanonizuotą 1235 m. Kitas šaltinių sluoksnis mini Vengrijos karalienę Elžbietą, Jadvygos motiną, kuri 1384 m. pasiuntė dukterį į Krokuvą karūnavimui. Dar minima Aleksandro motina karalienė Elžbieta, po Velykų atvykusi į Vilnių su dukterimis ir sūnumi Fridrichu.
+Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo kurį laiką gyveno Vil­ niuje, paskui ėjo kapeliono ir sekretoriaus pareigas Vengrų ka­ ralienės Elžbietos, Jadvygos motinos. Karalienė Elžbieta su tuo reikalavimu sutiko ir pažadėjo po 1383 m. Velykų ją išsiųsti, bet su ta sąlyga, kad ji apsikarū­ navusi vėl grįžtų trims metams į Vengriją. Ka­ ralienė Elžbieta bijodama nustoti Lenkijos, pasiuntė savo ketu­ riolikos metų dukterį Jadvygą, kuri 1384 m. spalių 13 d. iškilmin­ gai įvažiavo į Krokuvą ir po dviejų dienų buvo karūnuota „Lenki­ jos karalium“.
 
 ## Teiginiai
 
 <a id="claim-t-82291"></a>
-- t-001
+- t-007
   global_id: t-82291
-  teiginys: 'Šventa Elžbieta mirė 1231 m. lapkričio 19 d.'
+  teiginys: "Šventa Elžbieta mirė 1231 m. lapkričio 19 d."
+  temporaliniai_duomenys: "įvykio data: 1231 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "697546-697675; hash=982f023aa6f58c3e33548449cd81108d83d44263e19e91837fc48d870939c4de; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-007
+    - c-78776
 
 <a id="claim-t-82292"></a>
-- t-002
+- t-005
   global_id: t-82292
-  teiginys: '1221 m. Elžbieta ištekėjo už Tiuringijos markgrafo.'
+  teiginys: "1221 m. Elžbieta ištekėjo už Tiuringijos markgrafo."
+  temporaliniai_duomenys: "įvykio data: 1221 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys turi šaltinio antraštės triukšmo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "696250-696384; hash=9393eaacc3ddab8bea287236aadfd34c57eb076231c22e15beb83dd2a6162abb; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
+    - c-78770
 
 <a id="claim-t-82293"></a>
-- t-003
+- t-004
   global_id: t-82293
-  teiginys: 'Šventa Elžbieta gimė 1207 m.'
+  teiginys: "Šventa Elžbieta gimė 1207 m."
+  temporaliniai_duomenys: "įvykio data: 1207 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra trumpas, pilnas ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "694669-694771; hash=5974f723f323ed16615880df7ad418e147b69500b077ba79c30864c624f55215; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-003
+    - c-78772
 
 <a id="claim-t-82294"></a>
-- t-004
+- t-001
   global_id: t-82294
-  teiginys: 'Elžbieta buvo Vengrijos karalienė ir Jadvygos motina.'
+  teiginys: "Elžbieta buvo Vengrijos karalienė ir Jadvygos motina."
+  temporaliniai_duomenys: "įvykio data: 1377 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "262524-262964; hash=7e5bb4e144e79e765a72c1f815632265148c896ada8c99f448ebb9fbe0590a4f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vengrai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Elžbieta: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vengrai: mention_match, group, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elžbieta\" parinktas kaip owner_note_path. Targetas \"Vengrai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-78778
 
 <a id="claim-t-82295"></a>
-- t-005
+- t-002
   global_id: t-82295
-  teiginys: 'Karalienė Elžbieta, bijodama prarasti Lenkiją, 1384 m. pasiuntė į Krokuvą keturiolikmetę dukterį Jadvygą.'
+  teiginys: "Karalienė Elžbieta, bijodama prarasti Lenkiją, 1384 m. pasiuntė į Krokuvą keturiolikmetę dukterį Jadvygą."
+  temporaliniai_duomenys: "įvykio data: 1384 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "367628-368094; hash=9bd83b08d66508c14783dfa79238adc506ae0192af8d9f7305bd4beba598e2f2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Elžbieta: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=56"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elžbieta\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-78771
 
 <a id="claim-t-82296"></a>
-- t-006
+- t-009
   global_id: t-82296
-  teiginys: 'Karalienė Elžbieta po Velykų su dukterimis ir sūnumi kardinolu Fridrichu atvyko į Vilnių.'
+  teiginys: "Karalienė Elžbieta po Velykų su dukterimis ir sūnumi kardinolu Fridrichu atvyko į Vilnių."
+  semantiniai_rysiai: "Elžbieta keliavo į Vilnius (0.91)"
+  temporaliniai_duomenys: "kelionės data: 1500 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Elžbieta keliavo į Vilnius“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Elžbietą ir atitinka citatą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "468200-468555; hash=d75f129575f10968391a00c34058067a6d12413880372e7e29ecfd638f57d10d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Elžbieta: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad karalienė Elžbieta atvyko į Vilnių."
   pagrindžia:
-    - c-005
+    - c-78774
 
 <a id="claim-t-82297"></a>
-- t-007
+- t-006
   global_id: t-82297
-  teiginys: '1227 m. rugsėjo 11 d. Ortrante mirė šventos Elžbietos vyras landgrafas.'
+  teiginys: "1227 m. rugsėjo 11 d. Ortrante mirė šventos Elžbietos vyras landgrafas."
+  temporaliniai_duomenys: "įvykio data: 1227 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatinis ir tiksliai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "696703-696928; hash=fc18dadf920040fc1b40f6369953d94c221f80a0bb199548b1a931521fa019fe; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Elžbieta: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kryžius: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elžbieta\" parinktas kaip owner_note_path. Targetas \"Kryžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-78775
 
 <a id="claim-t-82298"></a>
 - t-008
   global_id: t-82298
-  teiginys: '1235 m. popiežius Grigalius IX kanonizavo šventą Elžbietą Perudžoje.'
+  teiginys: "1235 m. popiežius Grigalius IX kanonizavo šventą Elžbietą Perudžoje."
+  temporaliniai_duomenys: "įvykio data: 1235 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą įvykį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "698799-699035; hash=b3b867c92fe15aeab3e0b3d32c963e678ea6b8f556489600aa77483184a6a60b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Perudža: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Elžbieta: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Perudža: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elžbieta\" parinktas kaip owner_note_path. Targetas \"Perudža\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-78773
 
 <a id="claim-t-82299"></a>
-- t-009
+- t-003
   global_id: t-82299
-  teiginys: 'Aleksandro motina karalienė Elžbieta su dukterimis ir sūnumi Fridrichu po Velykų atvyko į Vilnių.'
+  teiginys: "Aleksandro motina karalienė Elžbieta su dukterimis ir sūnumi Fridrichu po Velykų atvyko į Vilnių."
+  semantiniai_rysiai: "Elžbieta keliavo į Vilnius (0.91)"
+  temporaliniai_duomenys: "kelionės data: 1500 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Elžbieta keliavo į Vilnius“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "468200-468555; hash=d75f129575f10968391a00c34058067a6d12413880372e7e29ecfd638f57d10d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Elžbieta: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad karalienė Elžbieta atvyko į Vilnių."
   pagrindžia:
-    - c-005
+    - c-78774
 
 <a id="claim-t-184257"></a>
 - t-010
   global_id: t-184257
-  teiginys: 'Karalienė Elžbieta sutiko po 1383 m. Velykų išsiųsti Jadvygą lenkams, jei ši po karūnavimo trejiems metams grįš į Vengriją.'
+  teiginys: "Karalienė Elžbieta sutiko po 1383 m. Velykų išsiųsti Jadvygą lenkams, jei ši po karūnavimo trejiems metams grįš į Vengriją."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: po 1383 m.; įvykio data: 1383 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia teiginį, bet reikia išskleisti įvardžius ir pataisyti OCR klaidas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "367202-367595; hash=78bff9108da098775392b65cac4e83f78d00f3d6961ae084b373a700d14d587f; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Elžbieta: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elžbieta\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-167641
 
 <a id="claim-t-184696"></a>
 - t-011
   global_id: t-184696
-  teiginys: 'Žygimantui Augustui buvo paprašyta Romos karaliaus Ferdinando dukters Elžbietos rankos.'
+  teiginys: "Žygimantui Augustui buvo paprašyta Romos karaliaus Ferdinando dukters Elžbietos rankos."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1543 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalinta autorinė įžanga ir OCR klaidos; citata palaiko faktą apie santuokos prašymą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1195167-1195690; hash=5cea5c5e076f4d6854f8302bba3e1acbdebf776c8b017913da302bc8fc64463d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Austrija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Elžbieta: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Austrija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elžbieta\" parinktas kaip owner_note_path. Targetas \"Austrija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-010
+    - c-168057
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184731|Jogaila (kunigaikštis, XIV–XV a.)]]: Kai Edigejus siaubė Rusią, Jogaila Sanoke susituokė su Elžbieta ir iškėlė vestuvių puotą.
 - susijęs iš [[objektai/asmenys/Danmilė.md#claim-t-87649|Danmilė]]: Danmilė per krikštą buvo pavadinta Elžbieta ir ištekinta už Mazovijos kunigaikščio Vaclovo.
 - susijęs iš [[objektai/asmenys/Elžbieta (Vengrijos karalienė).md#claim-t-87494|Elžbieta (Vengrijos karalienė)]]: Vengrijos karalienė Elžbieta dalyvavo sėkmingose Jogailos derybose su Lenkijos didikais dėl Jadvygos rankos.
@@ -147,8 +282,9 @@ periodo_grupes: []
 
         16.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -165,8 +301,9 @@ periodo_grupes: []
     gai įvažiavo į Krokuvą ir po dviejų dienų buvo karūnuota „Lenki­
     jos karalium“.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
@@ -183,6 +320,7 @@ periodo_grupes: []
 
                   13.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -202,6 +340,7 @@ periodo_grupes: []
 
                        26.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -224,6 +363,7 @@ periodo_grupes: []
     to ginčai, ir po kelerių metų (1500 m.) anoji sutartis su caru
     buvo nutraukta.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -244,6 +384,7 @@ periodo_grupes: []
 
                   18.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -262,6 +403,7 @@ periodo_grupes: []
 
                          22.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -280,6 +422,7 @@ periodo_grupes: []
     ralienės Elžbietos, Jadvygos motinos. 1377 m. buvo paskirtas
     Cereteno vyskupu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -298,6 +441,7 @@ periodo_grupes: []
     po 1383 m. Velykų ją išsiųsti, bet su ta sąlyga, kad ji apsikarū­
     navusi vėl grįžtų trims metams į Vengriją.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -325,11 +469,199 @@ periodo_grupes: []
     kius, kuriems padėta pamatai anksčiau, susigiminiuo­
     jant su Vladislovu bei Liudviku.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
+## Citatos
+
+- id: c-78770
+  citata_originali: |
+    15. Kelerių metų šventa Elžbieta ištekėjo už vyro
+
+      1221 viešpaties metais Elžbieta pasiėmė į vyrus Tiuringijos markgrafą.
+
+
+
+        16.
+  citata_rodoma: "Kelerių metų šventa Elžbieta ištekėjo už vyro\n\n  1221 viešpaties metais Elžbieta pasiėmė į vyrus Tiuringijos markgrafą.\n\n\n\n    16."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82292
+
+- id: c-78771
+  citata_originali: |
+    Nuo to laiko spėjo prabėgti apie pusantrų metų, bet karalie­
+    nė Elžbieta savo pažadų vis neištesėjo. Lenkai ėmė nekantrauti
+    ir vėl susivažiavę ir sudarę laikiną valdžią, pranešė karalienei,
+    kad, jei ji neatsiųs Jadvygos, jie ieškosis kito sau valdovo. Ka­
+    ralienė Elžbieta bijodama nustoti Lenkijos, pasiuntė savo ketu­
+    riolikos metų dukterį Jadvygą, kuri 1384 m. spalių 13 d. iškilmin­
+    gai įvažiavo į Krokuvą ir po dviejų dienų buvo karūnuota „Lenki­
+    jos karalium“.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82295
+
+- id: c-78772
+  citata_originali: |
+    12. Apie šventos Elžbietos gimimą
+
+      1207 viešpaties metais gimė šventa Elžbieta.
+
+
+
+                  13.
+  citata_rodoma: "Apie šventos Elžbietos gimimą\n\n  1207 viešpaties metais gimė šventa Elžbieta.\n\n\n\n              13."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82293
+
+- id: c-78773
+  citata_originali: |
+    25. Apie šventos Elžbietos kanonizavimą
+
+      1235 viešpaties metais Grigalius IX, popiežius, kanonizavo šventą Elžbietą Perudžoje,
+    brolių pamokslininkų konvente, kur tas pats popiežius jos garbei paskyrė altorių.
+
+
+
+                       26.
+  citata_rodoma: "Apie šventos Elžbietos kanonizavimą\n\n  1235 viešpaties metais Grigalius IX, popiežius, kanonizavo šventą Elžbietą Perudžoje,\nbrolių pamokslininkų konvente, kur tas pats popiežius jos garbei paskyrė altorių.\n\n\n\n                   26."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82298
+
+- id: c-78774
+  citata_originali: |
+    _  .
+    230
+
+    ## Puslapis 247
+
+    III KNYGA
+    pavasario, kai Aleksandro motina karalienė Elžbieta su duk­
+    terimis ir sūnumi, kardinolu Fridrichu, iškart po Velykų at­
+    vykę į Vilnių, sukėlė visuotinį džiaugsmą pilyje ir mieste.
+    Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
+    to ginčai, ir po kelerių metų (1500 m.) anoji sutartis su caru
+    buvo nutraukta.
+  citata_rodoma: "230\n\n## Puslapis 247\n\nIII KNYGA\npavasario, kai Aleksandro motina karalienė Elžbieta su duk­\nterimis ir sūnumi, kardinolu Fridrichu, iškart po Velykų at­\nvykę į Vilnių, sukėlė visuotinį džiaugsmą pilyje ir mieste.\nDeja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­\nto ginčai, ir po kelerių metų (1500 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82299
+    - t-82296
+
+- id: c-78775
+  citata_originali: |
+    17. Apie Šventos Elžbietos vyro mirtį
+
+      1227 viešpaties metais rugsėjo 11 dieną maldininko kelionėje po kryžiaus žygio vėliava
+    mirė Sicilijos mieste, vardu Ortrantas, šventos Elžbietos vyras, landgrafas.
+
+
+
+                  18.
+  citata_rodoma: "Apie Šventos Elžbietos vyro mirtį\n\n  1227 viešpaties metais rugsėjo 11 dieną maldininko kelionėje po kryžiaus žygio vėliava\nmirė Sicilijos mieste, vardu Ortrantas, šventos Elžbietos vyras, landgrafas.\n\n\n\n              18."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82297
+
+- id: c-78776
+  citata_originali: |
+    21. Apie šventos Elžbietos mirtį
+
+      1231 viešpaties metais, lapkričio 19 dieną, mirė šventa Elžbieta.
+
+
+
+                         22.
+  citata_rodoma: "Apie šventos Elžbietos mirtį\n\n  1231 viešpaties metais, lapkričio 19 dieną, mirė šventa Elžbieta.\n\n\n\n                     22."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82291
+
+- id: c-78778
+  citata_originali: |
+    Vilniaus vyskupu paskirtas vysk. Andrius Vosylius Jas­
+    trzębiecas, kuris nuo pirmos Lietuvos krikšto dienos vadova­
+    vo apaštalavimo darbui, nes mokėjo lietuviškai ir lietuviams
+    nebuvo svetimas žmogus. Jis, būdamas dar pranciškonų ku­
+    nigas, kartu su savo broliu prie Algirdo kurį laiką gyveno Vil­
+    niuje, paskui ėjo kapeliono ir sekretoriaus pareigas Vengrų ka­
+    ralienės Elžbietos, Jadvygos motinos. 1377 m. buvo paskirtas
+    Cereteno vyskupu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82294
+
+- id: c-167641
+  citata_originali: |
+    Bet kai atsirado nesu­
+    sipratimų su Marijos sužieduotiniu, vėliau jos vyru, ir kai paaiš­
+    kėjo, kad Marija pasilieka Vengrijoj, lenkai atsisakė ją bepriimti
+    savo valdove ir pareikalavo jiems atsiųsti kitą karalaitę — Jad­
+    vygą. Karalienė Elžbieta su tuo reikalavimu sutiko ir pažadėjo
+    po 1383 m. Velykų ją išsiųsti, bet su ta sąlyga, kad ji apsikarū­
+    navusi vėl grįžtų trims metams į Vengriją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184257
+
+- id: c-168057
+  citata_originali: |
+    1543 m e ta i
+    Ž y g im a n ta s
+    A u g u s­
+    ta s v e d a  a u strų  k u ­
+    n ig a ik š ty tę  E lžb ietą
+    Sugrįžęs į Lenkiją, kara­
+    lius suskato apvesdinti sūnų
+    Augustą. Nutarta susigimi­
+    niuoti su Austrijos valdovų
+    šeima ir paprašyti Augustui
+    Romos karaliaus Ferdinando
+    dukters Elžbietos rankos. Ir jos tėvas, ir dėdė impera­
+    torius Karolis V didžiai pritarė šiai santuokai, įsitikinę,
+    kad ji dar labiau sustiprins santarvę ir gerus santy­
+    kius, kuriems padėta pamatai anksčiau, susigiminiuo­
+    jant su Vladislovu bei Liudviku.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184696
 
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

@@ -9,6 +9,18 @@ tags:
   - kraštas
   - kunigaikštis
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Dvina
 
@@ -21,9 +33,19 @@ tags:
 <a id="claim-t-86182"></a>
 - t-001
   global_id: t-86182
-  teiginys: 'Švitrigaila įsakė Vitebske nuo aukšto skardžio įmesti Alšėnų kunigaikštį į Dviną.'
+  teiginys: "Švitrigaila įsakė Vitebske nuo aukšto skardžio įmesti Alšėnų kunigaikštį į Dviną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "444439-444951; hash=80fbc02e516c7842d10dd9fd5f23436e6e85e5b9219a95f898e9aa4a3b20f0d6; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Alšėnai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dvina: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Alšėnai: mention_match, place, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dvina\" parinktas kaip owner_note_path. Targetas \"Alšėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-82161
 - susijęs iš Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): Lietuvių tauta, skirstyta į šešias pagrindines atšakas, užėmė Baltijos pakrantę nuo Dvinos iki Vyslos.
 - susijęs iš Baltijos jūra: Lietuvių tauta, skirstyta į šešias pagrindines atšakas, užėmė Baltijos pakrantę nuo Dvinos iki Vyslos.
 - susijęs iš Daugava Dvina (sujungti pirminiai pavadinimai Daugava; Dvina): Pasak šaltinio, lietuvių tauta buvo užėmusi Baltijos pakrantę nuo Dvinos iki Vyslos.
@@ -98,8 +120,30 @@ tags:
     atkeršijo įsakydamas juos pa valkioti gatvėmis, o paskui pa­
     skandinti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-82161
+  citata_originali: |
+    Abu jie niokojo
+    kraštą ir liejo jiems nepalankių gyventojų kraują. Švitrigai­
+    la, apsvaigintas laikinos sėkmės, sugavęs Alšėnų kunigaikštį,
+    įsakė jį Vitebske nuo aukšto skardžio įmesti į Dviną, kitą
+    kunigaikštį - nuskandinti, o metropolitą Gerasimą sudegi­
+    no. Savo ruožtu, Žygimantas, toks pat žiaurus ir nesantū­
+    rus, tenkindamas savo kerštą, kai jam buvo išduoti pas ka­
+    ralių Vladislovą Jogailą vykstantys Švitrigailos pasiuntiniai,
+    atkeršijo įsakydamas juos pa valkioti gatvėmis, o paskui pa­
+    skandinti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86182

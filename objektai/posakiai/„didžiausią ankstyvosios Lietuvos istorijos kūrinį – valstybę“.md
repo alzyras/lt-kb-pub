@@ -9,6 +9,18 @@ tags:
   - posakis
   - tauta
   - valstybė
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # „didžiausią ankstyvosios Lietuvos istorijos kūrinį – valstybę“
 
@@ -19,19 +31,38 @@ Vien to pakaktų Mindaugą laikyti viena iš svarbiausių ir Lietuvai daugiausia
 ## Teiginiai
 
 <a id="claim-t-75608"></a>
-- t-001
+- t-002
   global_id: t-75608
-  teiginys: 'Mindaugas sukūrė „didžiausią ankstyvosios Lietuvos istorijos kūrinį“ – valstybę, leidusią lietuvių tautai išlikti ir perimti Vakarų civilizaciją.'
+  teiginys: "Mindaugas sukūrė „didžiausią ankstyvosios Lietuvos istorijos kūrinį“ – valstybę, leidusią lietuvių tautai išlikti ir perimti Vakarų civilizaciją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "46880-47263; hash=01e5ae4276854d2133ba562e38a66023fb68c7bb35c5507c95d9296cfd02c2e3; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "„didžiausią ankstyvosios Lietuvos istorijos kūrinį – valstybę“: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„didžiausią ankstyvosios Lietuvos istorijos kūrinį – valstybę“\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-73334
 
 <a id="claim-t-75609"></a>
-- t-002
+- t-001
   global_id: t-75609
-  teiginys: 'Mindaugas sukūrė valstybę, vadinamą didžiausiu ankstyvosios Lietuvos istorijos kūriniu.'
+  teiginys: "Mindaugas sukūrė valstybę, vadinamą didžiausiu ankstyvosios Lietuvos istorijos kūriniu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "46880-47263; hash=01e5ae4276854d2133ba562e38a66023fb68c7bb35c5507c95d9296cfd02c2e3; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "„didžiausią ankstyvosios Lietuvos istorijos kūrinį – valstybę“: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=43"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„didžiausią ankstyvosios Lietuvos istorijos kūrinį – valstybę“\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-73334
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,9 +77,29 @@ Vien to pakaktų Mindaugą laikyti viena iš svarbiausių ir Lietuvai daugiausia
     sios Lietuvos istorijos kūrinį – valstybę, suteikusią galimybę išlikti lietuvių
     tautai ir vėliau perimti Vakarų civilizaciją.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+
+## Citatos
+
+- id: c-73334
+  citata_originali: |
+    L I E T U V O S  I S T O R I J A
+    30
+    tarsi užbaigia valstybės susikūrimą, nes Lietuvą pripažino to meto pasau-
+    lis. Vien to pakaktų Mindaugą laikyti viena iš svarbiausių ir Lietuvai dau-
+    giausia nusipelniusių asmenybių. Mindaugas sukūrė didžiausią ankstyvo-
+    sios Lietuvos istorijos kūrinį – valstybę, suteikusią galimybę išlikti lietuvių
+    tautai ir vėliau perimti Vakarų civilizaciją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75608
+    - t-75609

@@ -18,6 +18,18 @@ amziai:
   - 'XIII'
 periodo_grupes:
   - 'viduramžiai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Boleslovas
 
@@ -28,18 +40,39 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
 ## Teiginiai
 
 <a id="claim-t-89675"></a>
-- t-001
+- t-003
   global_id: t-89675
-  teiginys: 'Mozūrų kunigaikštis Boleslovas buvo vedęs Voluinės kunigaikštytę ir valdė dalį Voluinės.'
+  teiginys: "Mozūrų kunigaikštis Boleslovas buvo vedęs Voluinės kunigaikštytę ir valdė dalį Voluinės."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "168640-169010; hash=c64cc8b3b1de850acfc51dc0c2b07f57cfb3183304d57bbc05fa602b9482c00a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Voluinė: 0.89"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Boleslovas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Voluinė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Boleslovas valdė dalį Voluinės."
   pagrindžia:
-    - c-001
+    - c-85616
 
 <a id="claim-t-89676"></a>
-- t-002
+- t-003
   global_id: t-89676
-  teiginys: 'Boleslovas kartu su Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordinui Kulmo ir Lubavos žemes.'
+  teiginys: "Boleslovas kartu su Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordinui Kulmo ir Lubavos žemes."
+  semantiniai_rysiai: "Boleslovas valdė Voluinė (0.89)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "168640-169010; hash=c64cc8b3b1de850acfc51dc0c2b07f57cfb3183304d57bbc05fa602b9482c00a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Voluinė: 0.89"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Boleslovas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Voluinė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Boleslovas valdė dalį Voluinės."
   pagrindžia:
-    - c-002
+    - c-85617
 - susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-89678|Boleslovas (Mazovijos kunigaikštis)]]: Mazovijos kunigaikštis Boleslovas sudarė laikinas paliaubas tarp krikščionių ir lietuvių.
 - susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-89680|Boleslovas (Mazovijos kunigaikštis)]]: Mazovijos kunigaikštis Boleslovas po Vytenio įsiveržimo į Lenkiją sudarė laikinas paliaubas tarp krikščionių ir lietuvių.
 - susijęs iš [[objektai/asmenys/Jonas Nemiravičius.md#claim-t-186216|Jonas Nemiravičius]]: Žygimantas pasiuntė Joną Nemiravičių pranešti karaliui, kad Boleslovas išvytas iš Lietuvos.
@@ -74,6 +107,7 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
     gaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo
     vedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -103,11 +137,58 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
     teisių, nei nuosavybės ir pasižadėdamas nesiimti jokių teisinių ar faktinių veiksmų, kurie
     šiuo atveju galėtų praversti jam pačiam, jo žmonai, jo vaikams ar jų palikuonims.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-85616
+  citata_originali: |
+    Lietuvos valstybei grėsė pavo-
+    jus pakrikti. O momentas buvo labai svarbus: tuo metu smar-
+    kiai padidėjo ordino puolimai, ir vienam, ordino pasienį valdan-
+    čiam, Kęstučiui būtų buvę sunku atsispirti.
+    Kaip tik prieš Gedimino mirtį buvo miręs Mozūrų kuni-
+    gaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo
+    vedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės.
+  citata_rodoma: "Kaip tik prieš Gedimino mirtį buvo miręs Mozūrų kuni-\n  gaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo\n  vedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89675
+
+- id: c-85617
+  citata_originali: |
+    Juos išklausęs, minėtasis valdovas Konradas, Lenkijos
+    kunigaikštis, kaip jau esame sakę, nuodugniai visą reikalą apsvarstęs, be to, patartas
+      168 Dobrynė — deš. Vyslos krante aukščiau Vloclaveko, to pat vardo žemės, šiaurėje
+    besiribojančios su prūsų teritorija, centras.
+      169 Kaimas Sedlce (D.— Cedelicze) buvęs  į pietus nuo Vyslos, kiek  į šiaurę nuo
+    Inovroclavo (minimas XIII a. 3—4 dešimtmečių dokumentuose). Kaip Dobrynės ordino
+    palikimas  atiteko kryžiuočiams (Guldon  Z., Powierski  J.  Podziały...,  p. 173—174,
+    žemėlapis Nr. 6).
+      170 Dobrynės ordiną prūsai galėjo pulti 1224—1225 m. (Powierski J. Przekaz..., p.
+    411).
+
+    savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam
+    pritarė ir vieningai viską palaikė, atidavė Teutonų namų ordino broliams, jau dabar čia
+    esantiems ir ateityje atvyksiantiems, Kulmo ir Lubavos žemes, be to, tas žemes, kurias,
+    viešpaties padedami, jie ateityje atkariausią iš netikėlių, suteikdamas jiems per amžius
+    visas teises bei visas naudas, jo bei jo pirmtakų čia turėtas, nepasilaikydamas sau nei
+    teisių, nei nuosavybės ir pasižadėdamas nesiimti jokių teisinių ar faktinių veiksmų, kurie
+    šiuo atveju galėtų praversti jam pačiam, jo žmonai, jo vaikams ar jų palikuonims.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89676
 
 ## Ryšiai
 - Boleslovas valdė [[objektai/vietos/Voluinė]]

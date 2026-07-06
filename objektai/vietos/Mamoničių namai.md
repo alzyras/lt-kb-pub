@@ -14,6 +14,18 @@ tags:
   - vieta
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Mamoničių namai
 
@@ -24,11 +36,14 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
 ## Teiginiai
 
 <a id="claim-t-86086"></a>
-- t-001
+- t-002
   global_id: t-86086
-  teiginys: 'Mamoničių namai, pasak autoriaus, stovėjo dabartinių Sledzinskio namų Nr. 203 vietoje.'
+  teiginys: "Mamoničių namai, pasak autoriaus, stovėjo dabartinių Sledzinskio namų Nr. 203 vietoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "598137-598340; hash=f18f9f488eb4b92573f5f31b2e959e86e315751c3d54cb67b5bf67c9a3442a5d; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
+    - c-82064
 - susijęs iš [[objektai/grupes/Mamoničių giminė.md#claim-t-86746|Mamoničių giminė]]: Mamoničių namai, anot citatos, veikiausiai stovėjo ten, kur vėliau buvo Sledzinskio namai Nr. 203.
 - susijęs iš [[objektai/grupes/Bazilijonų ordinas.md#claim-t-188015|Bazilijonų ordinas]]: Mamoničių spaustuvė vėliau, matyt, atiteko bazilijonams.
 - susijęs iš [[objektai/grupes/Bazilijonų ordinas.md#claim-t-188016|Bazilijonų ordinas]]: Mamoničių spaustuvė vėliau, matyt, atiteko bazilijonams.
@@ -45,8 +60,27 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
     cerkvelė. Vėliau Mamoničių spaus­
     tuvė, matyt, atiteko bazilijonams.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-82064
+  citata_originali: |
+    1822. Mamoničių namai sto­
+    vėjo, rodos, toje vietoje, kur dabar Sle-
+    dzinskio namai, Nr. 203, o šalia,
+    kampiniame name, seniau buvo
+    cerkvelė. Vėliau Mamoničių spaus­
+    tuvė, matyt, atiteko bazilijonams.
+  citata_rodoma: "Mamoničių namai sto­\nvėjo, rodos, toje vietoje, kur dabar Sle- \ndzinskio namai, Nr. 203, o šalia, \nkampiniame name, seniau buvo \ncerkvelė. Vėliau Mamoničių spaus­\ntuvė, matyt, atiteko bazilijonams."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86086

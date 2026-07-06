@@ -1,0 +1,112 @@
+---
+tipas: asmuo
+pavadinimas: 'Flamoras'
+saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
+sukurta: ''
+atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Flamoras
+
+## Santrauka
+
+Narbuto pasakojime Sturlaugas Darbštusis išleido Ingigerdą už Flamoro ir kaip kraitį jam davė Aldejaborgą bei jo apylinkes.
+
+## Teiginiai
+
+<a id="claim-t-191396"></a>
+- t-001
+  global_id: t-191396
+  teiginys: "Narbuto pasakojime Sturlaugas Darbštusis išleido Ingigerdą už Flamoro ir kaip kraitį jam davė Aldejaborgą bei jo apylinkes."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Ingigerda buvo žmona Flamoras (0.90); Flamoras vedė Ingigerda (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "424374-424845; hash=307291336d1ce68370f4db13cbec47d1e387bb1cc92c1a19d5f60a0557f1eeca; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_zmona -> Flamoras: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Ingigerda: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Flamoras: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Ingigerda buvo išleista už Flamoro, todėl ji buvo jo žmona."
+  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-174278
+- susijęs iš [[objektai/asmenys/Ingigerda.md#claim-t-191419|Ingigerda]]: Pasakojime Sturlaugas Darbštusis Ingigerdą išleido už Flamoro ir kaip kraitį davė Aldejaborgą bei jo apylinkes.
+- susijęs iš [[objektai/ivykiai/Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas.md#claim-t-192042|Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas]]: Narbuto pasakojime Sturlaugas vėliau išleido Ingigerdą už Flamoro ir davė jam Aldejaborgą, kurį vadina Rusios uostu.
+- susijęs iš [[objektai/ivykiai/Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas.md#claim-t-192488|Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas]]: Narbuto pasakojime Sturlaugas Darbštusis kautynėse nužudė Ingvarą, vėliau Ingigerdą išleido už Flamoro ir jam perdavė Aldejaborgą.
+- susijęs iš [[objektai/asmenys/Biartmaras.md#claim-t-191376|Biartmaras]]: Biartmaras Teodoro Narbuto pasakojime buvo Flamoro įpėdinis, paveldėjęs garsų miestą prie Nemuno žiočių ir galia nenusileidęs karaliams.
+- susijęs iš [[objektai/asmenys/Ingigerda.md#claim-t-191419|Ingigerda]]: Pasakojime Sturlaugas Darbštusis Ingigerdą išleido už Flamoro ir kaip kraitį davė Aldejaborgą bei jo apylinkes.
+- susijęs iš [[objektai/ivykiai/Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas.md#claim-t-192042|Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas]]: Narbuto pasakojime Sturlaugas vėliau išleido Ingigerdą už Flamoro ir davė jam Aldejaborgą, kurį vadina Rusios uostu.
+- susijęs iš [[objektai/ivykiai/Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas.md#claim-t-192488|Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas]]: Narbuto pasakojime Sturlaugas Darbštusis kautynėse nužudė Ingvarą, vėliau Ingigerdą išleido už Flamoro ir jam perdavė Aldejaborgą.
+- susijęs iš [[objektai/ivykiai/Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas.md#claim-t-192042|Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas]]: Narbuto pasakojime Sturlaugas vėliau išleido Ingigerdą už Flamoro ir davė jam Aldejaborgą, kurį vadina Rusios uostu.
+- susijęs iš [[objektai/asmenys/Goteris.md#claim-t-191275|Goteris]]: Narbuto pasakojime Goterio sūnus ir įpėdiniai baigiantis II a. nutraukė ilgai trukusius karus su rusais.
+- susijęs iš [[objektai/asmenys/Ingvaras.md#claim-t-191420|Ingvaras]]: Pasakojime Sturlaugas Darbštusis kautynėse nužudė Ingvarą, kuris Narbuto tekste atsargiai siejamas su rusnėnų kariūnu.
+- susijęs iš [[objektai/ivykiai/Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas.md#claim-t-192043|Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas]]: Narbuto datavime Sturlaugo žygis, Ingvaro nužudymas ir Aldejaborgo perdavimas siejami su II a. pabaiga arba III a. pradžia.
+- susijęs iš [[objektai/ivykiai/Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas.md#claim-t-192043|Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas]]: Narbuto datavime Sturlaugo žygis, Ingvaro nužudymas ir Aldejaborgo perdavimas siejami su II a. pabaiga arba III a. pradžia.
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Narbuto pasakojime Sturlaugas Darbštusis išleido Ingigerdą už Flamoro ir kaip kraitį jam davė Aldejaborgą bei jo apylinkes.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Goterio sū­
+    nus ir jo įpėdiniai ilgai užtrukusius karus su rusais nu­
+    traukė baigiantis II krikščioniškosios eros amžiui4.
+    232
+    Skandinavų didvyris, vadinamas Sturlaugu Darbš-
+    čiuoju, ¡kautynėse nužudė Ingvarą, gal rusnėnų kariūną,
+    o vėliau jo dukrą Ingigerdą išleido už Flamoro ir jam
+    kraičio davė apylinkes ir miestą Aldejaborgą, kuris buvo
+    Rusios uostas. Būta įvairių spėjimų, kur buvęs šis mies­
+    tas, net buvo įrodinėjama, jog tai turėjęs būti šiandienis
+    Sliselburgas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Citatos
+
+- id: c-174278
+  citata_originali: |
+    Goterio sū­
+    nus ir jo įpėdiniai ilgai užtrukusius karus su rusais nu­
+    traukė baigiantis II krikščioniškosios eros amžiui4.
+    232
+    Skandinavų didvyris, vadinamas Sturlaugu Darbš-
+    čiuoju, ¡kautynėse nužudė Ingvarą, gal rusnėnų kariūną,
+    o vėliau jo dukrą Ingigerdą išleido už Flamoro ir jam
+    kraičio davė apylinkes ir miestą Aldejaborgą, kuris buvo
+    Rusios uostas. Būta įvairių spėjimų, kur buvęs šis mies­
+    tas, net buvo įrodinėjama, jog tai turėjęs būti šiandienis
+    Sliselburgas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-191396
+
+## Ryšiai
+- Žmonos: [[objektai/asmenys/Ingigerda]]
+- Sutuoktiniai: [[objektai/asmenys/Ingigerda]]

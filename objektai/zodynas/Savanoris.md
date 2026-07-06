@@ -16,6 +16,18 @@ tags:
   - tauta
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Savanoris
 
@@ -28,9 +40,19 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
 <a id="claim-t-42426"></a>
 - t-001
   global_id: t-42426
-  teiginys: 'Pirmaisiais mėnesiais besikurianti Lietuvos kariuomenė nepajėgė aprūpinti pirmųjų savanorių ginklais, uniformomis ir ekipuote.'
+  teiginys: "Pirmaisiais mėnesiais besikurianti Lietuvos kariuomenė nepajėgė aprūpinti pirmųjų savanorių ginklais, uniformomis ir ekipuote."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "699935-700716; hash=08dadc60aa90f63020a234b90cd7bb27ef8e80fcaaca43a8f1ef848c96c6f996; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ginklai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Savanoris: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Ginklai: mention_match, thing, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Savanoris\" parinktas kaip owner_note_path. Targetas \"Ginklai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-44140
 - susijęs iš [[objektai/asmenys/Artūras Sakalauskas.md#claim-t-40040|Artūras Sakalauskas]]: Artūras Sakalauskas buvo paskutinis 1991 m. kovoje už laisvę žuvęs Lietuvos savanoris.
 - susijęs iš [[objektai/daiktai/Savadarbis lygiavamzdis šautuvas.md#claim-t-39281|Savadarbis lygiavamzdis šautuvas]]: Savadarbį lygiavamzdį 16,5 mm kalibro šautuvą 1991 m. pagamino savanoris I. Drakša.
 - susijęs iš [[objektai/ivykiai/Susirėmimas prie pagrindinio įvažiavimo į AT rūmus ir Artūro Sakalausko žūtis (1991 m. rugpjūčio 21 d.).md#claim-t-39114|Susirėmimas prie pagrindinio įvažiavimo į AT rūmus ir Artūro Sakalausko žūtis (1991 m. rugpjūčio 21 d.)]]: Augant įtampai, sovietų kariškių provokacijos metu poste prie pagrindinio įvažiavimo į AT rūmus žuvo Lietuvos savanoris Artūras Sakalauskas.
@@ -60,8 +82,34 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
     kariuomenę, buvo įvesti skiriamieji ženklai - trikampis tautinių spalvų rankovės antsiu-
     vas ir geltonas lankelis ant kepurės.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-44140
+  citata_originali: |
+    Jesu P k
+    vertė trauktis Kolupių kaime, prie vieškelio
+    iš Kėdainių į Šėtą, buvusią Panevėžio būrio
+
+    LIETUVOS KARIO SAVADARBĖ DIRŽO SAGTIS
+
+    Besikurianti Lietuvos kariuomenė pirmaisiais savo egzistavimo mėnesiais nebuvo pa-
+    jėgi aprūpinti pirmųjų savanorių būtiniausiomis priemonėmis - trūko ginklų, nebuvo
+    uniformų, reikalingos ekipuotės. Savanoriai buvo apsirengę rūbais, su kuriais atvyko iš
+    namų, dažniausiai buvo ginkluoti šautuvais, kuriuos patys atsinešė įsigiję už savo lėšas.
+    Vėliau besikuriantys Lietuvos kariuomenės daliniai įsigydavo ginklų ir uniformų iš vo-
+    kiečių kariuomenės. Kad pirmieji Lietuvos kariai būtų panašūs ne į margą minią, bet į
+    kariuomenę, buvo įvesti skiriamieji ženklai - trikampis tautinių spalvų rankovės antsiu-
+    vas ir geltonas lankelis ant kepurės.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-42426

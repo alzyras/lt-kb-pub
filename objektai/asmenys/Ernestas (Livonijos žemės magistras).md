@@ -15,6 +15,18 @@ amziai:
   - 'XIII'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Ernestas (Livonijos žemės magistras)
 
@@ -27,16 +39,42 @@ Dusburgietis teigia, kad mirus broliui Konradui iš Tirbergo, Prūsijos žemės 
 <a id="claim-t-89708"></a>
 - t-001
   global_id: t-89708
-  teiginys: 'Livonijos žemės magistrą Ernestą nukovė netikėliai prieš Konrado iš Foichtvangeno paskyrimą 1279 m.'
+  teiginys: "Livonijos žemės magistrą Ernestą nukovė netikėliai prieš Konrado iš Foichtvangeno paskyrimą 1279 m."
+  temporaliniai_duomenys: "įvykio data: 1279 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata apie Ernestą palaiko tik jo žūtį ir pareigas, o ne visą pradinę konstrukciją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "517618-518054; hash=86e1c2f2ba788bd8a21476034cf95707ea7f647314d9b2a485901defc9bb21df; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Konradas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ernestas (Livonijos žemės magistras): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Konradas: mention_match, person, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ernestas (Livonijos žemės magistras)\" parinktas kaip owner_note_path. Targetas \"Konradas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-85639
 
 <a id="claim-t-89709"></a>
 - t-002
   global_id: t-89709
-  teiginys: 'Ernestas buvo Livonijos žemės magistras ir žuvo prieš Konrado iš Foichtvangeno paskyrimą 1279 m.'
+  teiginys: "Ernestas buvo Livonijos žemės magistras ir žuvo prieš Konrado iš Foichtvangeno paskyrimą 1279 m."
+  temporaliniai_duomenys: "įvykio data: 1279 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys daugiausia apie Konradą, bet citata leidžia suformuluoti faktą apie Ernestą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "517536-517975; hash=a477e698258c52bff342ec32e3f8e5471883ed7a071384010bcc39236f801fcf; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ernestas (Livonijos žemės magistras): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ernestas (Livonijos žemės magistras)\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-85640
 - susijęs iš [[objektai/asmenys/Cimbarka.md#claim-t-186192|Cimbarka]]: Cimbarka buvo Aleksandros ir Mazovijos kunigaikščio Zemovito duktė, vėliau tapusi Austrijos erchercogo Ernesto žmona.
 - susijęs iš [[objektai/asmenys/Eilartas fon Hobergas.md#claim-t-40100|Eilartas fon Hobergas]]: Eilartas fon Hobergas buvo danų vietininkas Taline ir žuvo mūšyje kartu su Livonijos ordino magistru Ernestu fon Racburgu.
 - susijęs iš [[objektai/asmenys/Ernestas fon Racburgas.md#claim-t-183738|Ernestas fon Racburgas]]: Livonijos ordino magistras Ernestas fon Racburgas žuvo mūšyje, iš kurio tik kai kuriems kariams pavyko ištrūkti.
@@ -55,6 +93,7 @@ Dusburgietis teigia, kad mirus broliui Konradui iš Tirbergo, Prūsijos žemės 
     pasiuntinių prašomas,  jį paskyrė Prūsijos ir Livonijos brolių magistru 1279 viešpaties
     metais. Praslinkus vieniems metams, jis, jausdamas, jog nestengsiąs abi žemes valdyti,
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -73,11 +112,46 @@ Dusburgietis teigia, kad mirus broliui Konradui iš Tirbergo, Prūsijos žemės 
     pasiuntinių prašomas,  jį paskyrė Prūsijos ir Livonijos brolių magistru 1279 viešpaties
     metais.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-85639
+  citata_originali: |
+    Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.
+    Mirus broliui Konradui iš Tirbergo, Prūsijos žemės magistrui, bei žuvus broliui Ernestui,
+    Livonijos žemės magistrui, kurį nukovė netikėliai494, didysis magistras, abiejų žemių
+    pasiuntinių prašomas,  jį paskyrė Prūsijos ir Livonijos brolių magistru 1279 viešpaties
+    metais. Praslinkus vieniems metams, jis, jausdamas, jog nestengsiąs abi žemes valdyti,
+  citata_rodoma: "Mirus broliui Konradui iš Tirbergo, Prūsijos žemės magistrui, bei žuvus broliui Ernestui,\nLivonijos žemės magistrui, kurį nukovė netikėliai494, didysis magistras, abiejų žemių\npasiuntinių prašomas,  jį paskyrė Prūsijos ir Livonijos brolių magistru 1279 viešpaties\nmetais."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89708
+
+- id: c-85640
+  citata_originali: |
+    201 (196). Apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais
+
+       Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.
+    Mirus broliui Konradui iš Tirbergo, Prūsijos žemės magistrui, bei žuvus broliui Ernestui,
+    Livonijos žemės magistrui, kurį nukovė netikėliai494, didysis magistras, abiejų žemių
+    pasiuntinių prašomas,  jį paskyrė Prūsijos ir Livonijos brolių magistru 1279 viešpaties
+    metais.
+  citata_rodoma: "Apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais\n\n   Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.\nMirus broliui Konradui iš Tirbergo, Prūsijos žemės magistrui, bei žuvus broliui Ernestui,\nLivonijos žemės magistrui, kurį nukovė netikėliai494, didysis magistras, abiejų žemių\npasiuntinių prašomas,  jį paskyrė Prūsijos ir Livonijos brolių magistru 1279 viešpaties\nmetais."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89709
 
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Cimbarka]]

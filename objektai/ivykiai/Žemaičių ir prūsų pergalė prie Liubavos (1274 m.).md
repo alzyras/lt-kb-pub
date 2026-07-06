@@ -11,6 +11,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Žemaičių ir prūsų pergalė prie Liubavos (1274 m.)
 
@@ -35,24 +47,67 @@ Nenurodyta
 <a id="claim-t-185682"></a>
 - t-001
   global_id: t-185682
-  teiginys: '1274 m. kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, kad lietuviai ir žemaičiai nesikištų į prūsų karą.'
+  teiginys: "1274 m. kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, kad lietuviai ir žemaičiai nesikištų į prūsų karą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1274 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys ir atitinka citatos turinį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "219761-220476; hash=1572eb976aec909ee416fd2519438d2dba5d0ddd83877d6e544d9b22044bd828; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_group_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žemaičių ir prūsų pergalė prie Liubavos (1274 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Prūsai: mention_match, place, gap=25"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaičių ir prūsų pergalė prie Liubavos (1274 m.)\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-169043
 
 <a id="claim-t-185683"></a>
 - t-002
   global_id: t-185683
-  teiginys: 'Sūduvos prūsai ir jiems padėję žemaičiai nusiaubė Kulmo kraštą, bet prie Liubavos pasitraukė nuo kryžiuočių puolimo.'
+  teiginys: "Sūduvos prūsai ir jiems padėję žemaičiai nusiaubė Kulmo kraštą, bet prie Liubavos pasitraukė nuo kryžiuočių puolimo."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Sūduvos prūsai puolė Kulmas (0.88); Žemaičiai rėmė Sūduvos prūsai (0.88); Kryžiuočių ordinas puolė Sūduvos prūsai (0.72); Kryžiuočių ordinas puolė Žemaičiai (0.72)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "220201-221033; hash=a8199fd25bd4a62db0b93c24db2f17a3c3a68625628fcd5449610f6ca05dd389; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Kulmas: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sūduvos prūsai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kulmas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Sūduvos prūsai tiesiogiai įvardyti kaip Kulmo krašto nusiaubimo dalyviai."
   pagrindžia:
-    - c-002
+    - c-169044
 
 <a id="claim-t-185684"></a>
 - t-003
   global_id: t-185684
-  teiginys: 'Prūsai ir žemaičiai prie Liubavos iš pasalų užpuolė grobio ieškojusius kryžiuočius ir padarė jiems didelį pralaimėjimą.'
+  teiginys: "Prūsai ir žemaičiai prie Liubavos iš pasalų užpuolė grobio ieškojusius kryžiuočius ir padarė jiems didelį pralaimėjimą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Žemaičiai puolė Kryžiuočių ordinas (0.82)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "220765-221520; hash=38f535cf058e22615d45a7c6a5a0315af6f12999654a1d5dd37c1fc025b8c0e4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Kryžiuočių ordinas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žemaičiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata nurodo, kad prūsai ir žemaičiai užpuolė grobio ieškojusius kryžiuočius."
   pagrindžia:
-    - c-003
-
+    - c-169045
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -84,6 +139,7 @@ Nenurodyta
     atskirų asmenų, tiesa, pavie­
     niais būriais, be kovos ženklų.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -117,6 +173,7 @@ Nenurodyta
     ir apskritai elgėsi, nelyginant bet koks pavojus būtų
     praėjęs.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -146,8 +203,102 @@ Nenurodyta
     krito karo vadai magistras Henrikas ir maršalas Dit-
     richas.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-169043
+  citata_originali: |
+    Atrodė, jog kryžiuočiams šį
+    5*
+    131
+
+    ## Puslapis 130
+
+    1274 m eta i
+    Ž em a ičia i gina p r ū ­
+    sus ir m u ša  k r y ž iu o ­
+    čius
+    karą pavyks užbaigti tada, kai sutrauks iš karto visas
+    jėgas ir neleis priešui kokiu nors būdu pasinaudoti sve­
+    tima pagalba. Tuo metu kryžiuočių riterių magistras
+    buvo Henrikas: jis pirmiausia atnaujino santarvę su
+    Germantu, reikalaudamas, kad šis prisiektų, jog lietu­
+    viai bei žemaičiai nesikiš j prūsų karą. Dėl tos pačios
+    priežasties valdovas neleido viešai teikti prūsams ko­
+    kios pagalbos prieš kryžiuo­
+    čius, tačiau nieko negalėjo
+    padaryti, kad slapta į Prūsi­
+    ją nežygiuotų Žemaitijoje su­
+    telkta kariuomenė, remiama
+    atskirų asmenų, tiesa, pavie­
+    niais būriais, be kovos ženklų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185682
+
+- id: c-169044
+  citata_originali: |
+    Dėl tos pačios
+    priežasties valdovas neleido viešai teikti prūsams ko­
+    kios pagalbos prieš kryžiuo­
+    čius, tačiau nieko negalėjo
+    padaryti, kad slapta į Prūsi­
+    ją nežygiuotų Žemaitijoje su­
+    telkta kariuomenė, remiama
+    atskirų asmenų, tiesa, pavie­
+    niais būriais, be kovos ženklų. Nusiaubę Kulmo kraš­
+    tą, Sūduvos prūsai kartu su žemaičiais, atėjusiais į pa­
+    galbą, sustojo prie Liubavos, tačiau, kryžiuočiams vi­
+    somis jėgomis ėmus juos pulti, neišdrįso atvirai pra­
+    dėti mūšio ir, be tvarkos pabėgę, palikę stovyklą ir
+    gurguoles, išsislapstė artimiausiuose miškuose. Kry­
+    žiuočių riteriai, džiaugdamie­
+    si nekruvina pergale, tuojau
+    pat be jokios tvarkos išsi­
+    sklaidė grobio ieškoti ir sto­
+    vyklos plėšti; jie puolė, ne­
+    pasirūpinę saugumu, vytis paskutiniųjų priešo būrių
+    ir apskritai elgėsi, nelyginant bet koks pavojus būtų
+    praėjęs.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185683
+
+- id: c-169045
+  citata_originali: |
+    Kry­
+    žiuočių riteriai, džiaugdamie­
+    si nekruvina pergale, tuojau
+    pat be jokios tvarkos išsi­
+    sklaidė grobio ieškoti ir sto­
+    vyklos plėšti; jie puolė, ne­
+    pasirūpinę saugumu, vytis paskutiniųjų priešo būrių
+    ir apskritai elgėsi, nelyginant bet koks pavojus būtų
+    praėjęs. Kai prūsai ir žemaičiai, kurie pabėgę slapstė­
+    si netoli stovyklos brūzgynuose, tykodami progos su­
+    rengti pasalas, iš žvalgų sužinojo, jog priešas, jausda­
+    masis išvargęs po žygio ir saugus po pergalės, plėši­
+    kauja visiškai nesirūpindamas apsauga, tai, kariškai
+    staiga susirikiavę, iššoko iš miškų ir užpuolė grobio
+    ieškotojus, juos žudydami. Tada kryžiuočiai patyrė di­
+    delį pralaimėjimą: jie neteko kariuomenės, kautynėse
+    krito karo vadai magistras Henrikas ir maršalas Dit-
+    richas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185684

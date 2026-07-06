@@ -10,6 +10,18 @@ tags:
   - miestas
   - pilis
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Pilaitė
 
@@ -22,9 +34,19 @@ Pilaitė, jėzuitų buvusi, per mylią nuo Vilniaus atstu, dešiniajame Vilijos 
 <a id="claim-t-85941"></a>
 - t-001
   global_id: t-85941
-  teiginys: 'Pilaitė, buvusi jėzuitų valda dešiniajame Vilijos krante, Balińskio laikyta viena seniausių įtvirtintų vietovių prie Vilniaus.'
+  teiginys: "Pilaitė, buvusi jėzuitų valda dešiniajame Vilijos krante, Balińskio laikyta viena seniausių įtvirtintų vietovių prie Vilniaus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "135534-136200; hash=e3f946930062c8428641162dd0f40d11a4614d1502fcd5d81733ab1aec888904; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Viena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pilaitė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=76"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pilaitė\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-81922
 - susijęs iš Kristburgas: Pagudėnai prie Kristburgo užpuolė netoliese buvusią pilaitę, kurioje gyveno tikintieji pamedėnai, ir ją sugriovė.
 - susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89158|Pagudėnai]]: Pagudėnai prie Kristburgo užpuolė tikinčiųjų pamedėnų pilaitę, į ją įsiveržė ir ją sugriovė.
 - susijęs iš [[objektai/asmenys/Pipinas.md#claim-t-59996|Pipinas]]: Pamedės kilmingasis Pipinas gyveno pilaitėje ir su būriais puldinėjo iš pilies išėjusius krikščionis.
@@ -54,6 +76,7 @@ Pilaitė, jėzuitų buvusi, per mylią nuo Vilniaus atstu, dešiniajame Vilijos 
 - susijęs iš [[objektai/asmenys/Fričinskis.md#claim-t-87677|Fričinskis]]: Pilaitė prie Vilniaus tuo metu priklausė buvusiam agronomijos instituto direktoriui Fričinskiui.
 - susijęs iš [[objektai/asmenys/Kaltis.md#claim-t-60152|Kaltis]]: Kaltis buvo paskirtas pėstininkų, paliktų Traupeino pilies apgulai, vadu.
 - susijęs iš [[objektai/asmenys/Linkas.md#claim-t-60375|Linkas]]: Pagudėnas Linkas su bartų vadu Divanu ir didele kariuomene įsibrovė į Kulmo žemę.
+- susijęs iš [[objektai/asmenys/Vulfstanas.md#claim-t-191189|Vulfstanas]]: Narbutas rašo, kad Vulfstanas jau minėjo Kodinėnų valdų ponus, kurių giminė, autoriaus teigimu, išliko iki jo laikų.
 - susijęs iš [[objektai/grupes/Bartai.md#claim-t-88523|Bartai]]: Sūduviai sugriovė Bartenšteino pilį, kurioje, broliams pasitraukus, buvo įsikūrę bartai.
 - susijęs iš [[objektai/grupes/Bartai.md#claim-t-88524|Bartai]]: Bartų vadas Divanas, pravarde Klokinis, ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo žemę.
 - susijęs iš [[objektai/grupes/Glebavičių giminė.md#claim-t-86793|Glebavičių giminė]]: Pilaitės kunigaikščių pilis po Viršilų giminės perėjo Glebavičių paveldui.
@@ -104,11 +127,39 @@ Pilaitė, jėzuitų buvusi, per mylią nuo Vilniaus atstu, dešiniajame Vilijos 
     po jų tapo jėzuitų nuosavybe, pagaliau atiteko Vilniaus uni­
     versitetui.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-81922
+  citata_originali: |
+    51
+
+    ## Puslapis 68
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    nebūtų nuo tiesos nutolta, jeigu Vilnius, tokios palankios
+    gamtos aplinkumoje stovėdamas, prie seniausių Lietuvos
+    tvirtovių būtų priskirtas. Pilaitė, jėzuitų buvusi, per mylią
+    nuo Vilniaus atstu, dešiniajame Vilijos krante, kur pastarai­
+    siais metais buvo agronomijos institutas, dabar priklauso
+    buvusiam to instituto direktoriui ponui Fričinskiui, yra vie­
+    na iš seniausių įtvirtintų vietovių prie Vilniaus. Nuo neat­
+    menamų laikų ten buvo kunigaikščių pilis, kuri vėliau do­
+    vanota Viršilų giminei, paskui perėjo Glebavičių paveldui,
+    po jų tapo jėzuitų nuosavybe, pagaliau atiteko Vilniaus uni­
+    versitetui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-85941
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]

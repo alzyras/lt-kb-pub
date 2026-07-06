@@ -16,6 +16,18 @@ tags:
   - vieta
 amziai:
   - 'XVII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kuoknesės pilis (pilis)
 
@@ -28,9 +40,23 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
 <a id="claim-t-41823"></a>
 - t-001
   global_id: t-41823
-  teiginys: '1601 m. balandžio 1 d. Švedijos kariuomenė apsupo Kuoknesės pilį, bet joje buvusi lietuvių įgula nepasidavė.'
+  teiginys: "1601 m. balandžio 1 d. Švedijos kariuomenė apsupo Kuoknesės pilį, bet joje buvusi lietuvių įgula nepasidavė."
+  semantiniai_rysiai: "Švedijos kariuomenė užėmė Kuoknesė (0.93); Švedijos kariuomenė apgulė Kuoknesės pilis (pilis) (0.92); Lietuviai gynė Kuoknesės pilis (pilis) (0.80)"
+  temporaliniai_duomenys: "įvykio data: 1601 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Kuoknesės pilies apsuptį ir įgulos laikyseną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "393929-394261; hash=533c49e7029787d8c9d7071aad8547eeae09fce57dd08a197bd550196f1c738a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Kuoknesė: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švedijos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kuoknesė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Švedijos kariuomenė tiesiogiai nurodyta kaip užėmusi Kuoknesės miestą."
   pagrindžia:
-    - c-001
+    - c-45161
 - susijęs iš [[objektai/asmenys/Karina Nilsdotter.md#claim-t-40260|Karina Nilsdotter]]: Karina Nilsdotter buvo Karolio Carlsono Gyllenhielmo motina.
 - susijęs iš [[objektai/asmenys/Karolis Carlsonas Gyllenhielmas.md#claim-t-79073|Karolis Carlsonas Gyllenhielmas]]: Karolis Carlsonas Gyllenhielmas vadovavo švedų kariuomenei, veikusiai prieš lietuvius Livonijoje.
 - susijęs iš [[objektai/asmenys/Karolis IX.md#claim-t-79078|Karolis IX]]: Karolis IX ir Karina Nilsdotter buvo nesantuokinio sūnaus Karolio Karlsono Gyllenhielmo tėvai.
@@ -52,11 +78,34 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
     tyti apsiautusiai švedų kariuomenei maistą
     ir šaudmenis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-45161
+  citata_originali: |
+    Mūšio išvakarėse
+
+    1601 m. balandžio 1 d. Švedijos kariuomenė
+    šturmu užėmė Kuoknesės miestą ir apsupo
+    pilį, bet joje esanti lietuvių įgula nepasi-
+    davė. 2500 švedų karių įsitvirtino mieste ir
+    pradėjo pilies apgultį. Karolis Sudermanas
+    pasiuntė 2400 karių, kurie turėjo prista-
+    tyti apsiautusiai švedų kariuomenei maistą
+    ir šaudmenis.
+  citata_rodoma: "Mūšio išvakarėse\n\n1601 m. balandžio 1 d. Švedijos kariuomenė\nšturmu užėmė Kuoknesės miestą ir apsupo\npilį, bet joje esanti lietuvių įgula nepasi-\ndavė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-41823
 
 ## Ryšiai
 - Apgulė Kuoknesės pilį (pilis): [[objektai/grupes/Švedijos kariuomenė]]

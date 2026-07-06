@@ -18,6 +18,18 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Antoni Melissanius de Macro
 
@@ -30,9 +42,23 @@ periodo_grupes:
 <a id="claim-t-88053"></a>
 - t-001
   global_id: t-88053
-  teiginys: 'Antoni Melissanius de Macro pasakojo, kad 1333 m. Petras Goštautas į Vilnių atkvietė keturiolika pranciškonų.'
+  teiginys: "Antoni Melissanius de Macro pasakojo, kad 1333 m. Petras Goštautas į Vilnių atkvietė keturiolika pranciškonų."
+  semantiniai_rysiai: "Pranciškonų ordinas keliavo į Vilnius (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1333 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko autoriaus pateiktą pasakojimą, bet teiginys yra fragmentiškas ir triukšmingas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "83476-84007; hash=97c440c8ed9ceb4859ec10f01a7549b082422ba8336fa03675ae75bc8ab1692c; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pranciškonų ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo, kad pranciškonai buvo atkvietę į Vilnių."
   pagrindžia:
-    - c-001
+    - c-84032
 - susijęs iš [[objektai/autoriai/Waddyngas Luca Vaddingo.md#claim-t-88049|Waddyngas Luca Vaddingo]]: Waddyngas ir Antoni Melissanius de Macro pasakojo, kad 1333 m. Petras Goštautas į Vilnių atkvietė keturiolika pranciškonų.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176276|Algirdas (Lietuvos valdovas)]]: Algirdas, laimėjęs sostą ir įsitraukęs į karus su Rusia, netrukus išvyko iš Vilniaus.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173208|Petras Goštautas]]: Apie 1345 m. Petras Goštautas dėl šalies reikalų išvyko iš Vilniaus į Tikociną Palenkėje.
@@ -67,8 +93,37 @@ periodo_grupes:
     žiaus bažnyčios, sodyboje, vėliau ta­
     pusioje Vyskupo rūmais.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-84032
+  citata_originali: |
+    Šios
+    19
+    Waddyngas,  Mažesniųjų brolių
+    ordino istorijos autorius, ir jo komen­
+    tatorius Antoni Melissanius
+    de Macro pasakoja, kad dar 1333
+    metais (prieš Gedimino mirtį) Pet­
+    ras Goštautas, būdamas Podolės vai­
+    vada, iš Rusios ir Podolės atkvietęs
+    į Vilnių keturiolika Šv. Pranciškaus
+    regulos vienuolių vietoje anksčiau,
+    1325 metais, atvykusių su popie­
+    žiaus pasiuntinybe ir jau mirusių ar
+    įvairiais laikais pagonių nukankin­
+    tų, ir apgyvendino juos prie Šv. Kry­
+    žiaus bažnyčios, sodyboje, vėliau ta­
+    pusioje Vyskupo rūmais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88053

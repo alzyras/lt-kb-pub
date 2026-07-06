@@ -16,6 +16,18 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Ona Vytautienė
 
@@ -26,11 +38,21 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
 ## Teiginiai
 
 <a id="claim-t-181595"></a>
-- t-001
+- t-011
   global_id: t-181595
-  teiginys: 'Ona Vytautienė savo meile padėjo išgelbėti Vytautą nuo neišvengiamos pražūties.'
+  teiginys: "Ona Vytautienė savo meile padėjo išgelbėti Vytautą nuo neišvengiamos pražūties."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "107282-107965; hash=d500c2d91d770247fbaeb5f5ed650b01605817bc2dc9f2f95945adf0ad837613; match=whitespace_regex"
+  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/03_normalize_titles_and_notes.md"
+  ryšio_patikimumas: "susije_su -> Dubysa: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ona Vytautienė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Dubysa: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ona Vytautienė\" parinktas kaip owner_note_path. Targetas \"Dubysa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-165129
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184877|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Po žmonos Onos mirties Vytautas Trakuose nutarė tuoktis su Alšėnų kunigaikščio Algimantaičio dukra Julijona.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-173122|Barbora Radvilaitė]]: Karalienės Barboros apdarai, saugoti Gzovskio ir kitur, buvo padovanoti karalaitei Onai.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54955|Barbora Radvilaitė]]: Karalienės Barboros apdarai testamente buvo dovanojami karalaitei Onai.
@@ -159,11 +181,36 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
     jo, 1382 metų lapkričio pradžioje Dubysos upės salelėje
     sudarė su jais paliaubas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-165129
+  citata_originali: |
+    To garbingo karžygio palaikai Skir­
+    gailos rūpesčiu buvo nuvežti į Vilnių, pagonių papročiu tu­
+    rėjo būti sudeginti su visu tuo, ką jis dažniausiai naudoda­
+    vo37. Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas
+    iš Vilniaus į Krėvą po Kęstučio mirties irgi buvo įkalintas,
+    tačiau jo stebėtina narsa ir žmonos Onos meilė, nesenu pa­
+    vyzdžiu Europos istorijoje pasikartojusi, išgelbėjo jį nuo
+    neišvengiamos pražūties.
+    Tas Vytauto pabėgimas turėjo priversti Jogailą nerimau­
+    ti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­
+    grobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­
+    jo, 1382 metų lapkričio pradžioje Dubysos upės salelėje
+    sudarė su jais paliaubas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181595
 
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

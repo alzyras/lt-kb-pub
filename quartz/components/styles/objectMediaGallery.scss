@@ -1,40 +1,29 @@
 .object-media-gallery {
   margin: 1.6rem 0 2.1rem;
-  padding: 1.3rem 1.3rem 1.45rem;
-  border: 1px solid var(--lightgray);
-  border-radius: 18px;
-  background: color-mix(in srgb, var(--light) 94%, var(--secondary) 6%);
+  padding: 0;
+  background: transparent;
 }
 
 .object-media-gallery-page {
   box-sizing: border-box;
-  width: min(100% - 2rem, 1280px);
+  width: min(calc(100% - 4rem), 1200px);
   min-height: calc(100vh - 3rem);
-  margin: 1.5rem auto;
-  padding: clamp(1rem, 3vw, 2rem);
+  margin-block: clamp(1.5rem, 4vw, 3rem);
+  margin-inline: auto;
+  padding: 0;
+  border: 0;
   border-radius: 0;
-  background:
-    linear-gradient(135deg, color-mix(in srgb, var(--light) 90%, var(--secondary) 10%), var(--light) 58%),
-    var(--light);
-}
-
-.object-media-backlink {
-  margin: 0 0 1rem;
-}
-
-.object-media-backlink a {
-  color: var(--secondary);
-  font-weight: 800;
-  text-decoration-thickness: 0.08em;
-  text-underline-offset: 0.18em;
+  background: transparent;
 }
 
 .object-media-gallery-header {
-  display: flex;
-  justify-content: space-between;
-  gap: 1rem;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: clamp(1rem, 4vw, 2.5rem);
   align-items: flex-start;
-  margin-bottom: 1rem;
+  margin-bottom: clamp(1rem, 3vw, 1.6rem);
+  padding-top: 1.2rem;
+  border-top: 1px solid var(--secondary);
 }
 
 .object-media-eyebrow,
@@ -51,14 +40,13 @@
 .object-media-gallery-header h2,
 .object-media-primary-copy h3 {
   margin: 0;
-  font-size: 1.35rem;
   line-height: 1.1;
 }
 
 .object-media-gallery-header h1 {
-  color: var(--secondary);
-  font-size: clamp(2.6rem, 7vw, 5.2rem);
-  letter-spacing: -0.04em;
+  color: var(--bm-purple, var(--dark));
+  font-size: clamp(2.15rem, 4vw, 3.65rem);
+  letter-spacing: -0.035em;
 }
 
 .object-media-lead,
@@ -83,6 +71,7 @@
   flex-wrap: wrap;
   justify-content: flex-end;
   gap: 0.42rem;
+  max-width: 13rem;
 }
 
 .object-media-summary span,
@@ -91,10 +80,10 @@
   align-items: center;
   min-height: 1.45rem;
   padding: 0.16rem 0.52rem;
-  border: 1px solid color-mix(in srgb, var(--secondary) 24%, var(--lightgray));
-  border-radius: 999px;
-  background: color-mix(in srgb, var(--secondary) 7%, transparent);
-  color: var(--darkgray);
+  border: 1px solid var(--bm-border, color-mix(in srgb, var(--secondary) 24%, var(--lightgray)));
+  border-radius: 0;
+  background: var(--bm-white, var(--light));
+  color: var(--bm-purple, var(--darkgray));
   font-size: 0.74rem;
   font-weight: 700;
   line-height: 1.1;
@@ -107,43 +96,32 @@
 }
 
 .object-media-chip-primary {
-  border-color: color-mix(in srgb, var(--tertiary) 40%, var(--lightgray));
-  background: color-mix(in srgb, var(--tertiary) 14%, transparent);
+  border-color: var(--bm-red, color-mix(in srgb, var(--tertiary) 40%, var(--lightgray)));
+  background: var(--bm-white, var(--light));
+  color: var(--bm-red, var(--secondary));
 }
 
-.object-media-primary {
-  display: grid;
-  grid-template-columns: minmax(0, 1.1fr) minmax(18rem, 0.9fr);
-  gap: 1rem;
-  margin-bottom: 1.1rem;
+.object-media-backlink {
+  display: inline-block;
+  margin-top: 0.7rem;
+  color: var(--bm-purple, var(--secondary));
+  font-weight: 820;
+  text-decoration-color: color-mix(in srgb, var(--bm-red, var(--secondary)) 68%, transparent);
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.18em;
 }
 
-.object-media-primary-figure,
 .object-media-card > a {
   display: block;
   color: inherit;
   text-decoration: none;
 }
 
-.object-media-primary-figure {
-  overflow: hidden;
-  border-radius: 14px;
-  border: 1px solid color-mix(in srgb, var(--secondary) 16%, var(--lightgray));
-  background: color-mix(in srgb, var(--light) 88%, var(--secondary) 12%);
-}
-
-.object-media-primary-figure img,
 .object-media-card img {
   display: block;
   width: 100%;
   height: auto;
   object-fit: cover;
-}
-
-.object-media-primary-copy {
-  display: grid;
-  align-content: start;
-  gap: 0.6rem;
 }
 
 .object-media-linkline a,
@@ -153,8 +131,7 @@
 }
 
 .object-media-linkline a:hover,
-.object-media-card > a:hover h4,
-.object-media-primary-figure:hover + .object-media-primary-copy h3 {
+.object-media-card > a:hover h4 {
   text-decoration: underline;
 }
 
@@ -164,7 +141,9 @@
   gap: 0.8rem;
   align-items: end;
   justify-content: space-between;
-  margin-bottom: 0.95rem;
+  margin-bottom: 1rem;
+  padding: 0 0 1rem;
+  border-bottom: 1px solid color-mix(in srgb, var(--secondary) 25%, transparent);
 }
 
 .object-media-view-switch {
@@ -176,10 +155,10 @@
 .object-media-view-switch button,
 .object-media-filter select {
   min-height: 2.25rem;
-  border: 1px solid color-mix(in srgb, var(--secondary) 25%, var(--lightgray));
-  border-radius: 999px;
-  background: var(--light);
-  color: var(--dark);
+  border: 1px solid var(--bm-border, color-mix(in srgb, var(--secondary) 25%, var(--lightgray)));
+  border-radius: 0;
+  background: var(--bm-white, var(--light));
+  color: var(--bm-purple, var(--dark));
   font: inherit;
 }
 
@@ -191,9 +170,9 @@
 }
 
 .object-media-view-switch button[aria-pressed="true"] {
-  border-color: var(--secondary);
-  background: var(--secondary);
-  color: var(--light);
+  border-color: var(--bm-red, var(--secondary));
+  background: var(--bm-red, var(--secondary));
+  color: var(--bm-white, var(--light));
 }
 
 .object-media-view-switch button:disabled {
@@ -221,23 +200,31 @@
 
 .object-media-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(13.5rem, 1fr));
-  gap: 0.85rem;
+  grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+  gap: clamp(0.8rem, 1.4vw, 1.15rem);
 }
 
 .object-media-card {
   overflow: hidden;
   border: 1px solid color-mix(in srgb, var(--secondary) 14%, var(--lightgray));
-  border-radius: 14px;
+  border-radius: 0;
   background: var(--light);
+  transition:
+    border-color 160ms ease,
+    transform 160ms ease;
 }
 
 .object-media-card > a {
   height: 100%;
 }
 
+.object-media-card:hover {
+  border-color: var(--secondary);
+  transform: translateY(-2px);
+}
+
 .object-media-card img {
-  aspect-ratio: 4 / 3;
+  aspect-ratio: 1 / 1;
   background: color-mix(in srgb, var(--light) 86%, var(--secondary) 14%);
 }
 
@@ -263,14 +250,14 @@
 }
 
 @media all and (max-width: 900px) {
-  .object-media-primary {
-    grid-template-columns: 1fr;
-  }
-
   .object-media-gallery-header,
   .object-media-controls {
     flex-direction: column;
     align-items: stretch;
+  }
+
+  .object-media-gallery-header {
+    grid-template-columns: 1fr;
   }
 
   .object-media-summary {

@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - ginklas
   - ivykis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Sūduvių žygis į Notangą ir jų išblaškymas
 
@@ -36,17 +48,54 @@ Nenurodyta
 <a id="claim-t-62495"></a>
 - t-001
   global_id: t-62495
-  teiginys: 'Sūduviai su palyginti nedidele kariuomene įsiveržė į Notangą, apiplėšė nedidelę jos dalį ir pasitraukė.'
+  teiginys: "Sūduviai su palyginti nedidele kariuomene įsiveržė į Notangą, apiplėšė nedidelę jos dalį ir pasitraukė."
+  teiginio_tipas: "faktas"
+  semantiniai_rysiai: "Sūduviai puolė Notanga (0.91)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "517215-517546; hash=c8d64ae92a2c0738660706b6d63fd6b22c124e4e7b88b5bc803f708136b2a814; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Notanga: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sūduviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Notanga: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Sūduvių įsiveržimas į Notangos žemę tiesiogiai rodo puolimą."
   pagrindžia:
-    - c-001
+    - c-63164
 
 <a id="claim-t-183966"></a>
 - t-002
   global_id: t-183966
-  teiginys: 'Ordino broliai su ginklanešiais persekiojo iš Notangos pasitraukusius sūduvius, daug jų nukovė arba mirtinai sužeidė.'
+  teiginys: "Ordino broliai su ginklanešiais persekiojo iš Notangos pasitraukusius sūduvius, daug jų nukovė arba mirtinai sužeidė."
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "517215-517546; hash=c8d64ae92a2c0738660706b6d63fd6b22c124e4e7b88b5bc803f708136b2a814; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Notanga: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sūduvių žygis į Notangą ir jų išblaškymas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Notanga: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sūduvių žygis į Notangą ir jų išblaškymas\" parinktas kaip owner_note_path. Targetas \"Notanga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-63164
 
+<a id="claim-t-194426"></a>
+- t-003
+  global_id: t-194426
+  teiginys: "Apie sūduvių pabėgimą Tuo pat metu sūduviai, norėdami atkeršyti už tai, kas aukščiau minėta, įsibrovė su palyginti nedidele kariuomene į Notangos žemę ir, apiplėšę nežymią jos dalį, pasitraukė."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "517215-517546; hash=c8d64ae92a2c0738660706b6d63fd6b22c124e4e7b88b5bc803f708136b2a814; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-63164
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -64,9 +113,36 @@ Nenurodyta
 
        201 (196).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+    - t-003
+
+## Citatos
+
+- id: c-63164
+  citata_originali: |
+    Apie sūduvių pabėgimą
+
+      Tuo pat metu sūduviai, norėdami atkeršyti už tai, kas aukščiau minėta, įsibrovė su
+    palyginti nedidele kariuomene į Notangos žemę ir, apiplėšę nežymią jos dalį, pasitraukė.
+    Broliai, smarkiai juos persekioję su savo ginklanešiais, daug jų nukovė ar mirtinai
+    sužeidė, o kiti gėdingai pabėgo.
+
+
+
+
+       201 (196).
+  citata_rodoma: "Apie sūduvių pabėgimą\n\n  Tuo pat metu sūduviai, norėdami atkeršyti už tai, kas aukščiau minėta, įsibrovė su\npalyginti nedidele kariuomene į Notangos žemę ir, apiplėšę nežymią jos dalį, pasitraukė.\nBroliai, smarkiai juos persekioję su savo ginklanešiais, daug jų nukovė ar mirtinai\nsužeidė, o kiti gėdingai pabėgo.\n\n\n\n\n   201 (196)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-62495
+    - t-183966
+    - t-194426

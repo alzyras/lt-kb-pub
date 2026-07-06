@@ -20,11 +20,6 @@ datos:
   - '1586 m.'
 date_start: '1000'
 date_end: '1586'
-description: 'Trakai aprašomi kaip svarbus Lietuvos valdžios ir karo centras, siejamas su Gediminu, Kęstučiu, Vytautu ir Trakų pilimi.'
-socialDescription: 'Trakai Lietuvos istorijos šaltiniuose minimi kaip valdovų, pilių, derybų ir karinių susidūrimų vieta nuo Gedimino iki Vytauto laikų.'
-seo_atnaujinta: '2026-07-02T23:12:34.970095+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -33,595 +28,1779 @@ tags:
 amziai:
   - 'X'
   - 'XVI'
+media_total_count: '3'
+media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/2/2c/Trak%C5%B3_rajono_savivaldyb%C4%97.svg'
+media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ATrak%C5%B3_rajono_savivaldyb%C4%97.svg'
+media_primary_directness: 'direct'
+media_primary_relation_type: 'map_of'
+media_primary_json: |-
+  {"mediaId":"m-800c4c7ab2aac00cf0254d44","title":"Trakų rajono savivaldybė.svg","caption":"Location map of Trakai District Municipality, Lithuania","creator":"Obivan Kenobi","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","dateDisplay":"2022-03-19","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrak%C5%B3_rajono_savivaldyb%C4%97.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Trak%C5%B3_rajono_savivaldyb%C4%97.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}
+media_direct_json: |-
+  [{"mediaId":"m-800c4c7ab2aac00cf0254d44","title":"Trakų rajono savivaldybė.svg","caption":"Location map of Trakai District Municipality, Lithuania","creator":"Obivan Kenobi","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","dateDisplay":"2022-03-19","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrak%C5%B3_rajono_savivaldyb%C4%97.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Trak%C5%B3_rajono_savivaldyb%C4%97.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-75503764073644efcc9b9e78","title":"Traku rajono zemelapis.png","caption":"Trakų rajono žemėlapis.","creator":"Tocekas","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2011-02-07","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATraku_rajono_zemelapis.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5f/Traku_rajono_zemelapis.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-ebb69c14a601b1fee11970bc","title":"Litthauen, Litthauische Reussen, Samogitien - Johann Ulrich Müller - Вялікае Княства Літоўскае, Рускае і Жамойцкае - Vialikaje Kniastva Litoŭskaje, Ruskaje i Žamojckaje.png","caption":"A page from an early 18th-century German pocket atlas (likely by Johann Ulrich Müller). It features a miniature map of the region and a text headed \"Litthauen theilet sich:\" (Lithuania divides itself:). The text explicitly outlines the administrative division of the state into three parts: 1. Lithuania proper ( In Litthauen selbsten ) ( https://en.wikipedia.org/wiki/Vilnius_Voivodeship , https://en.wikipedia.org/wiki/Trakai_Voivodeship , https://en.wikipedia.org/wiki/Brest_Litovsk_Voivodeship , https://en.wikipedia.org/wiki/Nowogr%C3%B3dek_Voivodeship_(1507%E2%80%931795) , 2. Lithuanian Ruthenia ( Das Litthauische Reussen )( https://en.wikipedia.org/wiki/Minsk_Voivodeship , https://en.wikipedia.org/wiki/Mstsislaw_Voivodeship , https://en.wikipedia.org/wiki/Vitebsk_Voivodeship , https://en.wikipedia.org/wiki/Polotsk_Voivodeship , https://en.wikipedia.org/wiki/Smolensk_Voivodeship ) , and 3. Samogitia ( Samogitien ) https://en.wikipedia.org/wiki/Duchy_of_Samogitia . This division reflects the full historical name of the state: Grand Duchy of Lithuania, Ruthenia and Samogitia .","creator":"Attributed to Creator:Johann Ulrich Müller (1653–1715)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1702 date QS:P571,+1702-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALitthauen%2C_Litthauische_Reussen%2C_Samogitien_-_Johann_Ulrich_M%C3%BCller_-_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D0%B0%D0%B5_%D0%9A%D0%BD%D1%8F%D1%81%D1%82%D0%B2%D0%B0_%D0%9B%D1%96%D1%82%D0%BE%D1%9E%D1%81%D0%BA%D0%B0%D0%B5%2C_%D0%A0%D1%83%D1%81%D0%BA%D0%B0%D0%B5_%D1%96_%D0%96%D0%B0%D0%BC%D0%BE%D0%B9%D1%86%D0%BA%D0%B0%D0%B5_-_Vialikaje_Kniastva_Lito%C5%ADskaje%2C_Ruskaje_i_%C5%BDamojckaje.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/84/Litthauen%2C_Litthauische_Reussen%2C_Samogitien_-_Johann_Ulrich_M%C3%BCller_-_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D0%B0%D0%B5_%D0%9A%D0%BD%D1%8F%D1%81%D1%82%D0%B2%D0%B0_%D0%9B%D1%96%D1%82%D0%BE%D1%9E%D1%81%D0%BA%D0%B0%D0%B5%2C_%D0%A0%D1%83%D1%81%D0%BA%D0%B0%D0%B5_%D1%96_%D0%96%D0%B0%D0%BC%D0%BE%D0%B9%D1%86%D0%BA%D0%B0%D0%B5_-_Vialikaje_Kniastva_Lito%C5%ADskaje%2C_Ruskaje_i_%C5%BDamojckaje.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
+media_contextual_json: |-
+  []
+media_all_json: |-
+  [{"mediaId":"m-800c4c7ab2aac00cf0254d44","title":"Trakų rajono savivaldybė.svg","caption":"Location map of Trakai District Municipality, Lithuania","creator":"Obivan Kenobi","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","dateDisplay":"2022-03-19","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATrak%C5%B3_rajono_savivaldyb%C4%97.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Trak%C5%B3_rajono_savivaldyb%C4%97.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-75503764073644efcc9b9e78","title":"Traku rajono zemelapis.png","caption":"Trakų rajono žemėlapis.","creator":"Tocekas","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2011-02-07","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATraku_rajono_zemelapis.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5f/Traku_rajono_zemelapis.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-ebb69c14a601b1fee11970bc","title":"Litthauen, Litthauische Reussen, Samogitien - Johann Ulrich Müller - Вялікае Княства Літоўскае, Рускае і Жамойцкае - Vialikaje Kniastva Litoŭskaje, Ruskaje i Žamojckaje.png","caption":"A page from an early 18th-century German pocket atlas (likely by Johann Ulrich Müller). It features a miniature map of the region and a text headed \"Litthauen theilet sich:\" (Lithuania divides itself:). The text explicitly outlines the administrative division of the state into three parts: 1. Lithuania proper ( In Litthauen selbsten ) ( https://en.wikipedia.org/wiki/Vilnius_Voivodeship , https://en.wikipedia.org/wiki/Trakai_Voivodeship , https://en.wikipedia.org/wiki/Brest_Litovsk_Voivodeship , https://en.wikipedia.org/wiki/Nowogr%C3%B3dek_Voivodeship_(1507%E2%80%931795) , 2. Lithuanian Ruthenia ( Das Litthauische Reussen )( https://en.wikipedia.org/wiki/Minsk_Voivodeship , https://en.wikipedia.org/wiki/Mstsislaw_Voivodeship , https://en.wikipedia.org/wiki/Vitebsk_Voivodeship , https://en.wikipedia.org/wiki/Polotsk_Voivodeship , https://en.wikipedia.org/wiki/Smolensk_Voivodeship ) , and 3. Samogitia ( Samogitien ) https://en.wikipedia.org/wiki/Duchy_of_Samogitia . This division reflects the full historical name of the state: Grand Duchy of Lithuania, Ruthenia and Samogitia .","creator":"Attributed to Creator:Johann Ulrich Müller (1653–1715)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1702 date QS:P571,+1702-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALitthauen%2C_Litthauische_Reussen%2C_Samogitien_-_Johann_Ulrich_M%C3%BCller_-_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D0%B0%D0%B5_%D0%9A%D0%BD%D1%8F%D1%81%D1%82%D0%B2%D0%B0_%D0%9B%D1%96%D1%82%D0%BE%D1%9E%D1%81%D0%BA%D0%B0%D0%B5%2C_%D0%A0%D1%83%D1%81%D0%BA%D0%B0%D0%B5_%D1%96_%D0%96%D0%B0%D0%BC%D0%BE%D0%B9%D1%86%D0%BA%D0%B0%D0%B5_-_Vialikaje_Kniastva_Lito%C5%ADskaje%2C_Ruskaje_i_%C5%BDamojckaje.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/84/Litthauen%2C_Litthauische_Reussen%2C_Samogitien_-_Johann_Ulrich_M%C3%BCller_-_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D0%B0%D0%B5_%D0%9A%D0%BD%D1%8F%D1%81%D1%82%D0%B2%D0%B0_%D0%9B%D1%96%D1%82%D0%BE%D1%9E%D1%81%D0%BA%D0%B0%D0%B5%2C_%D0%A0%D1%83%D1%81%D0%BA%D0%B0%D0%B5_%D1%96_%D0%96%D0%B0%D0%BC%D0%BE%D0%B9%D1%86%D0%BA%D0%B0%D0%B5_-_Vialikaje_Kniastva_Lito%C5%ADskaje%2C_Ruskaje_i_%C5%BDamojckaje.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
 ---
 # Trakai
 
 ## Santrauka
 
-Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo veiksmų vieta. Čia siejami Gediminas, Kęstutis, Vytautas, Jogaila, Skirgaila ir Žygimantas Kęstutaitis, o Trakų pilis minima apgulčių, pasidavimų ir valdžios kaitos kontekstuose. Šaltiniai taip pat pabrėžia Trakų ir Vilniaus žemių artumą didžiojo kunigaikščio būstinei bei jų didesnį apgyvendinimą.
+Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio valdų vieta ir viena iš tankiau apgyventų bei valdovo būstinei artimų žemių.
 
 ## Teiginiai
 
 <a id="claim-t-180584"></a>
-- t-001
+- t-084
   global_id: t-180584
-  teiginys: '1345 m. lapkričio 22 d. Kęstutis iš Trakų su stipriu pulku užpuolė abi Vilniaus pilis.'
+  teiginys: "1345 m. lapkričio 22 d. Kęstutis iš Trakų su stipriu pulku užpuolė abi Vilniaus pilis."
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) puolė Vilniaus pilis (0.86); Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valdė miestą Trakai (0.84)"
+  temporaliniai_duomenys: "įvykio data: 1345 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "158739-159068; hash=3cebd04eddb75be9a6fd3fc3ba491714de2738ec606c6761e9ec57b2c369a86f; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Vilniaus pilis: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilniaus pilis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo Kęstutį kaip veikėją, kuris užpuola Vilniaus pilis."
   pagrindžia:
-    - c-029
+    - c-164210
 
 <a id="claim-t-180585"></a>
-- t-002
+- t-019
   global_id: t-180585
-  teiginys: 'Jogailos ir kryžiuočių kariuomenėms apgulus Trakų pilį, Skirgaila liepos 20 d. įtikino jos įgulą pasiduoti.'
+  teiginys: "Jogailos ir kryžiuočių kariuomenėms apgulus Trakų pilį, Skirgaila liepos 20 d. įtikino jos įgulą pasiduoti."
+  semantiniai_rysiai: "Kryžiuočių ordinas apgulė Trakai (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "757572-757772; hash=36bd1051d441e04c90b55b4a65eee14c744c58fa2b28c1b1dd4352b142619586; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "apgule -> Trakai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad kryžiuočių kariuomenė apgulė Trakų pilį."
   pagrindžia:
-    - c-003
+    - c-32468
 
 <a id="claim-t-180586"></a>
-- t-003
+- t-046
   global_id: t-180586
-  teiginys: 'Žygimantas Kęstutaitis rugsėjo 1 d. buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose.'
+  teiginys: "Žygimantas Kęstutaitis rugsėjo 1 d. buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose."
+  temporaliniai_duomenys: "įvykio data: 1440 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "266508-266886; hash=150e214a79d0568bd8f63609c7f000e41ed8404d5672f7de8482d01969d769e8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-048
+    - c-164246
 
 <a id="claim-t-180587"></a>
-- t-004
+- t-090
   global_id: t-180587
-  teiginys: 'Gediminas Galvės ežero pusiasalyje pastatė Trakų pilį, kuri ilgą laiką buvo laikoma antrąja Lietuvos sostine.'
+  teiginys: "Gediminas Galvės ežero pusiasalyje pastatė Trakų pilį, kuri ilgą laiką buvo laikoma antrąja Lietuvos sostine."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "304889-305195; hash=abad4476c5a9d6b135cbc3cc9d9aedb37a42b0841f7817eb9e895ad0a4e2f92b; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=49"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-017
+    - c-164196
 
 <a id="claim-t-180589"></a>
-- t-005
+- t-059
   global_id: t-180589
-  teiginys: 'Pasakojime Gediminas po Trakų pilies įkūrimo medžiojo apylinkėse ir pasiekė Šventaragio slėnį už keturių mylių nuo Trakų.'
+  teiginys: "Pasakojime Gediminas po Trakų pilies įkūrimo medžiojo apylinkėse ir pasiekė Šventaragio slėnį už keturių mylių nuo Trakų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "357182-357447; hash=15416ded27d81904885c2b630c14f0d5d7841493ca7814ba4b511829b7a16612; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aukštutinė pilis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Aukštutinė pilis: mention_match, place, gap=6"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Aukštutinė pilis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-013
+    - c-164190
 
 <a id="claim-t-180590"></a>
-- t-006
+- t-033
   global_id: t-180590
-  teiginys: 'Algirdas valdė Vilniuje, o Kęstutis - Trakuose.'
+  teiginys: "Algirdas valdė Vilniuje, o Kęstutis - Trakuose."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "513797-514164; hash=e73dbc36096cb8d23c2fe1cb7cb0caf527b2ba798d354bd9bdb5a6b5a9616942; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-043
+    - c-164233
 
 <a id="claim-t-180591"></a>
-- t-007
+- t-121
   global_id: t-180591
-  teiginys: 'Prie Strėvos upės Trakų paviete žemaičių būriai tankiame miške iš pasalų apsupo atsitraukiančią kariauną.'
+  teiginys: "Prie Strėvos upės Trakų paviete žemaičių būriai tankiame miške iš pasalų apsupo atsitraukiančią kariauną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "304222-305519; hash=5c86970de88f2054662465ee02562b8330f71a539cfc33dda550a387d08b1acf; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-051
+    - c-164251
 
 <a id="claim-t-180592"></a>
-- t-008
+- t-104
   global_id: t-180592
-  teiginys: 'Nuo 1400 m. Vytautas, Žygimantas ir Kazimieras Trakuose šimtmetį svarstė svarbiausius Lietuvos reikalus.'
+  teiginys: "Nuo 1400 m. Vytautas, Žygimantas ir Kazimieras Trakuose šimtmetį svarstė svarbiausius Lietuvos reikalus."
+  temporaliniai_duomenys: "įvykio data: po 1400 m.; įvykio data: 1400 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir paremtas citata apie Trakus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "477495-478110; hash=99203a350a7e89a95d9136f2526232ce5c6233938b993d0601ce0844f97a569e; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-024
+    - c-164204
 
 <a id="claim-t-180593"></a>
-- t-009
+- t-063
   global_id: t-180593
-  teiginys: '1384 m. Vytauto privilegijoje Trakai apibūdinti kaip svarbus Lietuvos miestas, kuriame jau būta krikščionių bažnyčių.'
+  teiginys: "1384 m. Vytauto privilegijoje Trakai apibūdinti kaip svarbus Lietuvos miestas, kuriame jau būta krikščionių bažnyčių."
+  semantiniai_rysiai: "Trakai priklausė Lietuva (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1384 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatos faktus apie Trakus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "134961-135729; hash=11a7f3a9fbb1d8643653f04f1eac1c134e685370bbac0833b7877292062d8ef4; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Frazė tiesiogiai apibūdina Trakus kaip Lietuvos miestą."
   pagrindžia:
-    - c-027
+    - c-164208
 
-<a id="claim-t-180594"></a>
-- t-010
-  global_id: t-180594
-  teiginys: 'Pagrindinė priešo vora slinko iš Vilniaus pro Trakus ir Aukštadvarį ir pasiekė Jiezną.'
+<a id="claim-t-180644"></a>
+- t-049
+  global_id: t-180644
+  teiginys: "Pagrindinė priešo vora slinko iš Vilniaus pro Trakus ir Aukštadvarį ir pasiekė Jiezną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "134669-135145; hash=49a0a0a23e366484d8b2e68e990f812fe38da9f2d613a176a002e6d8c0b15209; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aukštadvaris: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Aukštadvaris: mention_match, place, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Aukštadvaris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-019
+    - c-164198
 
 <a id="claim-t-180595"></a>
-- t-011
+- t-021
   global_id: t-180595
-  teiginys: '1383 m. Vytautas su magistru Zollneriu žygiavo prie Skirgailos valdytų Trakų, kurie jam greitai pasidavė.'
+  teiginys: "1383 m. Vytautas su magistru Zollneriu žygiavo prie Skirgailos valdytų Trakų, kurie jam greitai pasidavė."
+  semantiniai_rysiai: "Skirgaila valdė miestą Trakai (0.92); Vytautas (Lietuvos valdovas, XIV–XV a.) surengė žygį į Trakai (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1383 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "764524-764751; hash=7425d3b549bf26bc39fd87039ca1ebdc040af2f91324fe6100ca959837f4742b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_miesta -> Trakai: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Trakai buvo Skirgailos valdomi."
   pagrindžia:
-    - c-007
+    - c-164183
 
 <a id="claim-t-180597"></a>
-- t-012
+- t-069
   global_id: t-180597
-  teiginys: '1507 m. Melnike patvirtinta Trakų žydų privilegija, jų teisės, laisvės ir kitos privilegijoje aprašytos priklausomybės.'
+  teiginys: "1507 m. Melnike patvirtinta Trakų žydų privilegija, jų teisės, laisvės ir kitos privilegijoje aprašytos priklausomybės."
+  semantiniai_rysiai: "Žydai gyveno Trakai (0.84)"
+  temporaliniai_duomenys: "įvykio data: 1507 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "418529-420231; hash=674bf9de88d60f900cc7361cafde41b95d702405d0dadb4740f8081b66b86b19; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Trakai: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žydai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata mini valdinių žydų reikalą Trakuose, todėl tiesiogiai sieja žydus su Trakais."
   pagrindžia:
-    - c-060
+    - c-164265
 
 <a id="claim-t-180599"></a>
-- t-013
+- t-127
   global_id: t-180599
-  teiginys: 'To žygio metu paimti karaimai, tikėtina, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.'
+  teiginys: "To žygio metu paimti karaimai, tikėtina, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose."
+  semantiniai_rysiai: "Karaimai gyveno Luckas (0.82); Karaimai gyveno Trakai (0.78)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "861896-862053; hash=610c47deca84f7f806212a5a89f6550f7de2e067222c66523b992105313e4102; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Luckas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Karaimai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Luckas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad karaimai buvo apgyvendinti Lucke."
   pagrindžia:
-    - c-037
+    - c-164224
 
-<a id="claim-t-180600"></a>
-- t-014
-  global_id: t-180600
-  teiginys: 'Kęstučiui ir Vytautui rugpjūčio 3 d. atvykus prie Trakų, Jogailos pusėje jau buvo Livonijos kryžiuočiai.'
+<a id="claim-t-180668"></a>
+- t-020
+  global_id: t-180668
+  teiginys: "Kęstučiui ir Vytautui rugpjūčio 3 d. atvykus prie Trakų, Jogailos pusėje jau buvo Livonijos kryžiuočiai."
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į Trakai (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "757687-757966; hash=f77ec0f6d5be675320fd70eff54161ad9351844b5fd77a3c47177609570b522f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Trakai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Kęstutis atvyko prie Trakų."
   pagrindžia:
-    - c-016
+    - c-164195
 
 <a id="claim-t-180601"></a>
-- t-015
+- t-102
   global_id: t-180601
-  teiginys: '1505 m. Šach Achmedas buvo atgabentas iš Vilniaus į seimą Brastoje, o paskui pasiųstas gyventi į Trakus.'
+  teiginys: "1505 m. Šach Achmedas buvo atgabentas iš Vilniaus į seimą Brastoje, o paskui pasiųstas gyventi į Trakus."
+  semantiniai_rysiai: "Šach Achmedas gyveno Trakai (0.94); Šach Achmedas keliavo į Brasta (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1505 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatos faktus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "470681-471037; hash=89acc7b3355ee8381a008dd08860e26661b138a91221a45634fae57be6faae47; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Trakai: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Šach Achmedas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Šach Achmedas pasiųstas gyventi į Trakus."
   pagrindžia:
-    - c-049
+    - c-164247
 
 <a id="claim-t-180602"></a>
-- t-016
+- t-092
   global_id: t-180602
-  teiginys: 'Mykolas žadėjo paklusti Kazimierui ir prašė, kad jam būtų palikti Trakai bei nubausti tėvo žudikai.'
+  teiginys: "Mykolas žadėjo paklusti Kazimierui ir prašė, kad jam būtų palikti Trakai bei nubausti tėvo žudikai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "373853-374125; hash=2f1ee339d1111c0f1a4962c39a80733a03488b7d02707bad3eb4f8ac56caef84; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-050
+    - c-164249
 
 <a id="claim-t-180603"></a>
-- t-017
+- t-057
   global_id: t-180603
-  teiginys: 'Jogaila Kęstutį laikė artimiausiu varžovu, nes šis gyveno Trakuose, todėl pirmiausia siekė juo atsikratyti.'
+  teiginys: "Jogaila Kęstutį laikė artimiausiu varžovu, nes šis gyveno Trakuose, todėl pirmiausia siekė juo atsikratyti."
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) gyveno Trakai (0.95)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "304889-305195; hash=abad4476c5a9d6b135cbc3cc9d9aedb37a42b0841f7817eb9e895ad0a4e2f92b; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Trakai: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje tiesiogiai pasakyta, kad Kęstutis gyveno Trakuose."
   pagrindžia:
-    - c-012
+    - c-164189
 
 <a id="claim-t-180604"></a>
-- t-018
+- t-040
   global_id: t-180604
-  teiginys: 'Kęstučio valdos, įskaitant dalį tikrosios Lietuvos su Trakais, dėl kaimynystės su kryžiuočiais nebuvo saugios.'
+  teiginys: "Kęstučio valdos, įskaitant dalį tikrosios Lietuvos su Trakais, dėl kaimynystės su kryžiuočiais nebuvo saugios."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "686809-687392; hash=e7285c58f07e7f0c706db489a60ed088b81cd79718b4352734de930f32739655; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gardinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gardinas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-057
+    - c-164260
 
 <a id="claim-t-180605"></a>
-- t-019
+- t-101
   global_id: t-180605
-  teiginys: '1492 m. Trakuose Aleksandras ta pačia privilegija suteikė Vilniui Magdeburgo teises ir vaško dirbtuvės laisvę.'
+  teiginys: "1492 m. Trakuose Aleksandras ta pačia privilegija suteikė Vilniui Magdeburgo teises ir vaško dirbtuvės laisvę."
+  temporaliniai_duomenys: "įvykio data: 1492 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "464041-464852; hash=db9d5093cdb8a1afbc11c1a24e6ebc821066fd240cd4b761f203083518e71040; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aleksandras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras: mention_match, person, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Aleksandras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-021
+    - c-164200
 
 <a id="claim-t-180607"></a>
-- t-020
+- t-027
   global_id: t-180607
-  teiginys: '1379 m. rugsėjo 29 d. po trijų dienų sunkių derybų Trakuose buvo pasirašyta sutartis.'
+  teiginys: "1379 m. rugsėjo 29 d. po trijų dienų sunkių derybų Trakuose buvo pasirašyta sutartis."
+  temporaliniai_duomenys: "sutarties data: 1379 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "51853-52350; hash=5095a9a095a5ea0ffd04f515265b0f49aa90097eff7d2ec6443a8e40e1d8ff5f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-041
+    - c-164230
 
 <a id="claim-t-180608"></a>
-- t-021
+- t-088
   global_id: t-180608
-  teiginys: 'Pasak Strijkovskio ir Kojelavičiaus, po Trakų pilies įkūrimo Gediminas medžiojo aplinkinėse giriose.'
+  teiginys: "Pasak Strijkovskio ir Kojelavičiaus, po Trakų pilies įkūrimo Gediminas medžiojo aplinkinėse giriose."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "357182-357447; hash=15416ded27d81904885c2b630c14f0d5d7841493ca7814ba4b511829b7a16612; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aukštutinė pilis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Aukštutinė pilis: mention_match, place, gap=6"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Aukštutinė pilis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-013
+    - c-164190
 
 <a id="claim-t-180609"></a>
-- t-022
+- t-074
   global_id: t-180609
-  teiginys: 'Kazimieras Jogailaitis Vilniuje negyveno nuolat, nes Trakų pilyse turėjo ištaigingesnę buveinę.'
+  teiginys: "Kazimieras Jogailaitis Vilniuje negyveno nuolat, nes Trakų pilyse turėjo ištaigingesnę buveinę."
+  semantiniai_rysiai: "Kazimieras Jogailaitis gyveno Trakai (0.82)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "455723-456292; hash=eefa10ac4badc11eb156b47bcd271a115848aa3fae35c599b7d4999298ecd9fd; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Trakai: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kazimieras Jogailaitis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys aiškina, kad Kazimieras turėjo buveinę Trakų pilyse, todėl ryšys su gyvenamąja vieta yra tiesiogiai pagrįstas."
   pagrindžia:
-    - c-010
+    - c-164187
 
 <a id="claim-t-180610"></a>
-- t-023
+- t-091
   global_id: t-180610
-  teiginys: '1384 m. Vytauto privilegija rodo, kad Trakai dar prieš Lietuvos krikštą buvo svarbus Lietuvos miestas.'
+  teiginys: "1384 m. Vytauto privilegija rodo, kad Trakai dar prieš Lietuvos krikštą buvo svarbus Lietuvos miestas."
+  semantiniai_rysiai: "Trakai priklausė Lietuva (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1384 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko faktą, bet pradinis sakinys nutrūkęs ir turi šaltinio fragmentų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "134961-135729; hash=11a7f3a9fbb1d8643653f04f1eac1c134e685370bbac0833b7877292062d8ef4; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata Trakus tiesiogiai vadina svarbiu Lietuvos miestu."
   pagrindžia:
-    - c-027
+    - c-164208
 
 <a id="claim-t-180611"></a>
-- t-024
+- t-042
   global_id: t-180611
-  teiginys: '1383 m. rugpjūčio 12 d. Skirgailos valdyti Trakai greitai pasidavė Vytautui, nes mieste buvo jo šalininkų.'
+  teiginys: "1383 m. rugpjūčio 12 d. Skirgailos valdyti Trakai greitai pasidavė Vytautui, nes mieste buvo jo šalininkų."
+  semantiniai_rysiai: "Skirgaila valdė miestą Trakai (0.95)"
+  temporaliniai_duomenys: "įvykio data: 1383 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys paremtas, bet reikia aiškesnės sakinio struktūros."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "764524-764751; hash=7425d3b549bf26bc39fd87039ca1ebdc040af2f91324fe6100ca959837f4742b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_miesta -> Trakai: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginyje tiesiogiai pasakyta, kad Trakai buvo Skirgailos valdomi."
   pagrindžia:
-    - c-007
+    - c-164183
 
 <a id="claim-t-180612"></a>
-- t-025
+- t-018
   global_id: t-180612
-  teiginys: '1377 m. Ordino maršalas buvo atvykęs prie Trakų ir, Wigando teigimu, kalbėjosi su Kęstučiu.'
+  teiginys: "1377 m. Ordino maršalas buvo atvykęs prie Trakų ir, Wigando teigimu, kalbėjosi su Kęstučiu."
+  temporaliniai_duomenys: "įvykio data: 1377 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "702031-702274; hash=973d3e1f969e3adafd8d3008dcbd5e1d7ed698a09ad47a1ad4aefc6aef50df44; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> maršalas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "maršalas: mention_match, thing, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"maršalas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-32467
 
 <a id="claim-t-180613"></a>
-- t-026
+- t-068
   global_id: t-180613
-  teiginys: '1388 m. Lucke Vytautas suteikė privilegiją Trakų žydams, o 1507 m. Melnike ją patvirtino Žygimantas Senasis.'
+  teiginys: "1388 m. Lucke Vytautas suteikė privilegiją Trakų žydams, o 1507 m. Melnike ją patvirtino Žygimantas Senasis."
+  temporaliniai_duomenys: "įvykio data: 1388 m.; įvykio data: 1507 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "407990-408688; hash=33cb2ae080afd9a10add5d4ab59fdea0584260c1d804a35c1d1e64758e4937de; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Melnikas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Melnikas: mention_match, place, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Melnikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-047
+    - c-164245
 
 <a id="claim-t-180614"></a>
-- t-027
+- t-093
   global_id: t-180614
-  teiginys: 'Vytautas mirė 1430 m. spalio 30 d. Trakuose, o jo palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti.'
+  teiginys: "Vytautas mirė 1430 m. spalio 30 d. Trakuose, o jo palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) mirė Trakai (0.98)"
+  temporaliniai_duomenys: "įvykio data: 1430 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo per ilgas ir turėjo neaiškų įvardį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "356861-357372; hash=a805c1d161a14396d15c45647b7d100386b5cf7d1736c4d592d9f22da002941c; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "mire -> Trakai: 0.98"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Vytauto mirties vietą."
   pagrindžia:
-    - c-026
+    - c-164207
 
 <a id="claim-t-180615"></a>
-- t-028
+- t-099
   global_id: t-180615
-  teiginys: 'Kazimieras Jogailaitis, teikdamas pirmenybę Lietuvai, dažniausiai gyveno Trakuose arba Vilniuje.'
+  teiginys: "Kazimieras Jogailaitis, teikdamas pirmenybę Lietuvai, dažniausiai gyveno Trakuose arba Vilniuje."
+  temporaliniai_duomenys: "gyvenimo laikotarpis: 1436 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas, aiškus ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "454944-455722; hash=7bf0fa9c938f6d6c15eba2962e1b1ba1185cb374fcaf3a12c7be92dfbadf9c4e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-164185
 
 <a id="claim-t-180616"></a>
-- t-029
+- t-061
   global_id: t-180616
-  teiginys: 'Trakų vardo kildinimas iš lenkiško žodžio trok atmestas, teigiant, kad miesto vardas turėtų būti lietuviškas.'
+  teiginys: "Trakų vardo kildinimas iš lenkiško žodžio trok atmestas, teigiant, kad miesto vardas turėtų būti lietuviškas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "134072-134550; hash=e6fc18c1b8fb8326d2b099537dcf74f5f32f4e0d3063a3330df5d07410c73573; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=97"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-038
+    - c-164227
 
 <a id="claim-t-180617"></a>
-- t-030
+- t-072
   global_id: t-180617
-  teiginys: 'Trakuose sušauktas seimas paspartino kruviną susidorojimą, o 1440 m. balandį Žygimantas buvo nužudytas Trakų pilyje.'
+  teiginys: "Trakuose sušauktas seimas paspartino kruviną susidorojimą, o 1440 m. balandį Žygimantas buvo nužudytas Trakų pilyje."
+  semantiniai_rysiai: "Žygimantas mirė Trakai (0.90); Žygimantas buvo palaidotas Vilnius (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1440 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir paremtas nurodyta citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "450832-451378; hash=f7a8398efa83c54ce697eaeff93b937698a8ec1aa548e56e88a96b6098ebe5fb; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "mire -> Trakai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žygimantas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Žygimantas nužudytas Trakų pilyje."
   pagrindžia:
-    - c-036
+    - c-164223
 
 <a id="claim-t-180618"></a>
-- t-031
+- t-066
   global_id: t-180618
-  teiginys: 'Vytautas mirė 1430 m. spalio 30 d. Trakuose, o jo palaikai buvo iškilmingai palaidoti Vilniuje.'
+  teiginys: "Vytautas mirė 1430 m. spalio 30 d. Trakuose, o jo palaikai buvo iškilmingai palaidoti Vilniuje."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) mirė Trakai (0.98)"
+  temporaliniai_duomenys: "įvykio data: 1430 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "356861-357372; hash=a805c1d161a14396d15c45647b7d100386b5cf7d1736c4d592d9f22da002941c; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "mire -> Trakai: 0.98"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Vytauto mirties vietą Trakuose."
   pagrindžia:
-    - c-026
+    - c-164207
 
 <a id="claim-t-180619"></a>
-- t-032
+- t-087
   global_id: t-180619
-  teiginys: 'Prūsijos istorikai nurodė, kad kariai tarp Trakų ir Vilniaus buvo sustoję ant dviejų priešpriešinių kalnų.'
+  teiginys: "Prūsijos istorikai nurodė, kad kariai tarp Trakų ir Vilniaus buvo sustoję ant dviejų priešpriešinių kalnų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "303837-304126; hash=c3740cd5b1a7d343d917fddac38a5fa0a7310f10191b9aafbf9ca5b39e2fa47d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-055
+    - c-164257
 
 <a id="claim-t-180621"></a>
-- t-033
+- t-078
   global_id: t-180621
-  teiginys: 'Nuo 1400 m. Vytautas, Žygimantas ir Kazimieras Trakuose šimtmetį svarstė svarbiausius Lietuvos valstybės reikalus.'
+  teiginys: "Nuo 1400 m. Vytautas, Žygimantas ir Kazimieras Trakuose šimtmetį svarstė svarbiausius Lietuvos valstybės reikalus."
+  temporaliniai_duomenys: "įvykio data: po 1400 m.; įvykio data: 1400 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys atitinka citatą ir yra apie Trakus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "477495-478110; hash=99203a350a7e89a95d9136f2526232ce5c6233938b993d0601ce0844f97a569e; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-024
+    - c-164204
 
 <a id="claim-t-180622"></a>
-- t-034
+- t-086
   global_id: t-180622
-  teiginys: 'Jogaila siekė pirmiausia pašalinti Trakuose gyvenusį Kęstutį, nes šis trukdė jo valdžios planams.'
+  teiginys: "Jogaila siekė pirmiausia pašalinti Trakuose gyvenusį Kęstutį, nes šis trukdė jo valdžios planams."
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) gyveno Trakai (0.95)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "304889-305195; hash=abad4476c5a9d6b135cbc3cc9d9aedb37a42b0841f7817eb9e895ad0a4e2f92b; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Trakai: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai pasako, kad Kęstutis gyveno Trakuose."
   pagrindžia:
-    - c-012
+    - c-164189
 
 <a id="claim-t-180623"></a>
-- t-035
+- t-032
   global_id: t-180623
-  teiginys: 'Jogaila atleido Vytautui ir jo šalininkams, paėmė ištikimybės priesaiką ir grąžino Vytautui Trakus bei Gardiną.'
+  teiginys: "Jogaila atleido Vytautui ir jo šalininkams, paėmė ištikimybės priesaiką ir grąžino Vytautui Trakus bei Gardiną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "513467-514021; hash=d9306caba8dadff7e08d27b86d751d35dc0c22a8d0a11ae3e003dfe584b8fa15; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gardinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gardinas: mention_match, place, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-039
+    - c-164228
 
 <a id="claim-t-180624"></a>
-- t-036
+- t-093
   global_id: t-180624
-  teiginys: 'Karūnacijos iškilmių metu Jogaila su palydovais vyko iš Vilniaus į Trakus.'
+  teiginys: "Karūnacijos iškilmių metu Jogaila su palydovais vyko iš Vilniaus į Trakus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "303837-304126; hash=c3740cd5b1a7d343d917fddac38a5fa0a7310f10191b9aafbf9ca5b39e2fa47d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=41"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-035
+    - c-164222
 
 <a id="claim-t-180625"></a>
-- t-037
+- t-116
   global_id: t-180625
-  teiginys: 'Vytautas su magistru Zollneriu, surinkęs Žemaičiuose gausų kovotojų būrį, traukė prie Skirgailos valdomų Trakų.'
+  teiginys: "Vytautas su magistru Zollneriu, surinkęs Žemaičiuose gausų kovotojų būrį, traukė prie Skirgailos valdomų Trakų."
+  semantiniai_rysiai: "Skirgaila valdė miestą Trakai (0.95)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "764524-764751; hash=7425d3b549bf26bc39fd87039ca1ebdc040af2f91324fe6100ca959837f4742b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_miesta -> Trakai: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai įvardija Trakus kaip Skirgailos valdomus."
   pagrindžia:
-    - c-007
+    - c-164183
 
 <a id="claim-t-180626"></a>
-- t-038
+- t-128
   global_id: t-180626
-  teiginys: '1412 m. per Kalėdas Makra buvo pas Vytautą jo puošnioje salos pilyje Trakuose.'
+  teiginys: "1412 m. per Kalėdas Makra buvo pas Vytautą jo puošnioje salos pilyje Trakuose."
+  temporaliniai_duomenys: "įvykio data: 1412 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys paremtas, bet reikia sutrumpinti ir pašalinti perteklinį kelionės kontekstą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "944266-944424; hash=8f61f2a2f972f449917dc970fe9708aa4546a51bb1bf6897ef5f6d4634a3cbaf; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Marienburgas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Marienburgas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Marienburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-32475
 
 <a id="claim-t-180627"></a>
-- t-039
+- t-114
   global_id: t-180627
-  teiginys: 'XVI a. plačioji Lietuvos metraščio redakcija Trakų pilies įkūrimą siejo su Gedimino medžiokle girioje.'
+  teiginys: "XVI a. plačioji Lietuvos metraščio redakcija Trakų pilies įkūrimą siejo su Gedimino medžiokle girioje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "674945-675445; hash=477632fe4915f498159b0cace710846df8b2426e3eff7ad0fe3bfd308f3afed7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-014
+    - c-164191
 
 <a id="claim-t-180628"></a>
-- t-040
+- t-047
   global_id: t-180628
-  teiginys: 'Žygimantas Kęstutaitis, sutelkęs lietuvių pajėgas ir gavęs Vladislovo Jogailaičio pagalbą, žygiavo į Trakus.'
+  teiginys: "Žygimantas Kęstutaitis, sutelkęs lietuvių pajėgas ir gavęs Vladislovo Jogailaičio pagalbą, žygiavo į Trakus."
+  temporaliniai_duomenys: "įvykio data: 1435 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pirminis teiginys per ilgas ir stilistiškai sunkus, citata leidžia suformuluoti glaustesnį sakinį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "276568-276875; hash=4ad3f625b3352de85122a9f5a53003b8ffe44318b9140d7aad838cbc74d03b3a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-011
+    - c-164188
 
 <a id="claim-t-180629"></a>
-- t-041
+- t-075
   global_id: t-180629
-  teiginys: '1492 m. Trakuose Aleksandras ta pačia privilegija suteikė Vilniui Magdeburgo teises ir teisę laikyti vaško dirbtuvę.'
+  teiginys: "1492 m. Trakuose Aleksandras ta pačia privilegija suteikė Vilniui Magdeburgo teises ir teisę laikyti vaško dirbtuvę."
+  temporaliniai_duomenys: "įvykio data: 1492 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra faktinis, pilnas ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "464041-464852; hash=db9d5093cdb8a1afbc11c1a24e6ebc821066fd240cd4b761f203083518e71040; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aleksandras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras: mention_match, person, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Aleksandras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-021
+    - c-164200
 
 <a id="claim-t-180630"></a>
-- t-042
+- t-106
   global_id: t-180630
-  teiginys: 'Prie Trakų Kęstutis rado savo sūnų Vytautą, atsivedusį kariuomenės būrį iš Gardino.'
+  teiginys: "Prie Trakų Kęstutis rado savo sūnų Vytautą, atsivedusį kariuomenės būrį iš Gardino."
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į Trakai (0.86)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "67429-67696; hash=449c10a2ffab5c1616eebf6304f2b411eab371fdc4d4b3fce56e01697494eb45; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Trakai: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Kęstučio atvykimą prie Trakų."
   pagrindžia:
-    - c-034
+    - c-164219
 
 <a id="claim-t-180631"></a>
-- t-043
+- t-028
   global_id: t-180631
-  teiginys: 'Prie Trakų atvykęs Kęstutis rado Vytautą, atsivedusį kariuomenės būrį iš Gardino.'
+  teiginys: "Prie Trakų atvykęs Kęstutis rado Vytautą, atsivedusį kariuomenės būrį iš Gardino."
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į Trakai (0.92)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "67513-67754; hash=65fcf5c9b9e5755260ba6f3074f1f7b6a445870331d41bb0b51f343e0d6ba120; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Trakai: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Kęstutis atvyko prie Trakų."
   pagrindžia:
-    - c-006
+    - c-37760
 
 <a id="claim-t-180632"></a>
-- t-044
+- t-097
   global_id: t-180632
-  teiginys: 'Ežerų apsupta Trakų pilis buvo minima kaip vienintelė didžiojo kunigaikščio buveinė ir sostinė.'
+  teiginys: "Ežerų apsupta Trakų pilis buvo minima kaip vienintelė didžiojo kunigaikščio buveinė ir sostinė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "449628-450366; hash=3965439290deae42597880cd713c81d3d4bdf992379f98a6d1c4c0510538fa79; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Trakų pilis (pilis): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Trakų pilis (pilis): mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Trakų pilis (pilis)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-028
+    - c-164209
 
 <a id="claim-t-180633"></a>
-- t-045
+- t-098
   global_id: t-180633
-  teiginys: 'Trakuose Žygimanto sušauktas seimas paspartino susidorojimą, o 1440 m. balandį Žygimantas buvo nužudytas Trakų pilyje.'
+  teiginys: "Trakuose Žygimanto sušauktas seimas paspartino susidorojimą, o 1440 m. balandį Žygimantas buvo nužudytas Trakų pilyje."
+  semantiniai_rysiai: "Žygimantas mirė Trakai (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1440 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pirminiame teiginyje įvardis „jis“ gali būti dviprasmis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "450579-451217; hash=d050acaf4895c8923ed2fde9e981de7b2ddd203af4cf66e9213fc10e0f3c2cb5; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "mire -> Trakai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žygimantas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Žygimantas nužudytas Trakų pilyje."
   pagrindžia:
-    - c-056
+    - c-164259
 
 <a id="claim-t-180634"></a>
-- t-046
+- t-109
   global_id: t-180634
-  teiginys: 'Ostrovo taikos metu Jogaila grąžino Vytautui Trakus, Gardiną ir kitas žemes.'
+  teiginys: "Ostrovo taikos metu Jogaila grąžino Vytautui Trakus, Gardiną ir kitas žemes."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "392015-392300; hash=8a80485505d95893676141c93de367a43f7fa09884d7228f606cc98321c96209; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gardinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gardinas: mention_match, place, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-054
+    - c-164256
 
 <a id="claim-t-180636"></a>
-- t-047
+- t-043
   global_id: t-180636
-  teiginys: 'Vytautas atgausimus Trakus, Gardiną ir kitas žemes turėjo valdyti kaip Ordino vasalas.'
+  teiginys: "Vytautas atgausimus Trakus, Gardiną ir kitas žemes turėjo valdyti kaip Ordino vasalas."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) valdė miestą Trakai (0.90); Vytautas (Lietuvos valdovas, XIV–XV a.) valdė miestą Gardinas (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "766090-766423; hash=be845951821e4e6384b6a7d81c44ed1ab18b0c466a284c51fa975d6b856613e9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_miesta -> Gardinas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Gardinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Vytautas turėjo valdyti Gardiną."
   pagrindžia:
-    - c-025
+    - c-164206
 
 <a id="claim-t-180637"></a>
-- t-048
+- t-095
   global_id: t-180637
-  teiginys: 'Trakų žydai prašė patvirtinti Aleksandro, arba Vytauto, suteiktas teises, laisves ir privilegijas.'
+  teiginys: "Trakų žydai prašė patvirtinti Aleksandro, arba Vytauto, suteiktas teises, laisves ir privilegijas."
+  semantiniai_rysiai: "Trakų žydai gyveno Trakai (0.92); Žydai gyveno Trakai (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "408689-410343; hash=b68921277835ff2f12da85401f0bdc0c7051dcff428a554a7dcb9565e4b15764; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Trakai: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Trakų žydai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai įvardija Trakų žydus kaip žydus iš Trakų."
   pagrindžia:
-    - c-015
+    - c-164193
 
 <a id="claim-t-180639"></a>
-- t-049
+- t-090
   global_id: t-180639
-  teiginys: 'Balińskis manė, kad Trakų pilis galėjo būti sena gynybinė ir medžiotojų gyvenvietė dar prieš Gediminą.'
+  teiginys: "Balińskis manė, kad Trakų pilis galėjo būti sena gynybinė ir medžiotojų gyvenvietė dar prieš Gediminą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "134698-135152; hash=cb90c8fea7f96f2cc359bfd959ae4cfecb3f849ff3265c55fabd6314a7c41d2a; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Trakų pilis (pilis): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Trakų pilis (pilis): mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Trakų pilis (pilis)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-042
+    - c-164232
+
+<a id="claim-t-180609"></a>
+- t-074
+  global_id: t-180609
+  teiginys: "Kazimieras Jogailaitis Vilniuje negyveno nuolat, nes Trakų pilyse turėjo ištaigingesnę buveinę."
+  semantiniai_rysiai: "Kazimieras Jogailaitis gyveno Trakai (0.82)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "455723-456292; hash=eefa10ac4badc11eb156b47bcd271a115848aa3fae35c599b7d4999298ecd9fd; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Trakai: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kazimieras Jogailaitis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys aiškina, kad Kazimieras turėjo buveinę Trakų pilyse, todėl ryšys su gyvenamąja vieta yra tiesiogiai pagrįstas."
+  pagrindžia:
+    - c-164187
 
 <a id="claim-t-180642"></a>
-- t-051
+- t-091
   global_id: t-180642
-  teiginys: 'Švitrigaila daug kartų puolė Žygimantą ir kartą pasiekė Vilnių bei Trakus, tačiau nieko nelaimėjo.'
+  teiginys: "Švitrigaila daug kartų puolė Žygimantą ir kartą pasiekė Vilnių bei Trakus, tačiau nieko nelaimėjo."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "357182-357447; hash=15416ded27d81904885c2b630c14f0d5d7841493ca7814ba4b511829b7a16612; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aukštutinė pilis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Aukštutinė pilis: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Aukštutinė pilis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-023
+    - c-164203
 
 <a id="claim-t-180643"></a>
-- t-052
+- t-082
   global_id: t-180643
-  teiginys: 'Žygimantas Kęstutaitis, gavęs pagalbos iš Lenkijos karaliaus Vladislovo Jogailaičio, ėjo į Trakus.'
+  teiginys: "Žygimantas Kęstutaitis, gavęs pagalbos iš Lenkijos karaliaus Vladislovo Jogailaičio, ėjo į Trakus."
+  temporaliniai_duomenys: "įvykio data: 1435 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata aiškiau remia žygį į Trakus negu planą pulti visa kryptimi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "276568-276875; hash=4ad3f625b3352de85122a9f5a53003b8ffe44318b9140d7aad838cbc74d03b3a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=49"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-011
+    - c-164188
+
+<a id="claim-t-180644"></a>
+- t-049
+  global_id: t-180644
+  teiginys: "Pagrindinė priešo vora slinko iš Vilniaus pro Trakus ir Aukštadvarį ir pasiekė Jiezną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "134669-135145; hash=49a0a0a23e366484d8b2e68e990f812fe38da9f2d613a176a002e6d8c0b15209; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aukštadvaris: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Aukštadvaris: mention_match, place, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Aukštadvaris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-164198
 
 <a id="claim-t-180645"></a>
-- t-054
+- t-041
   global_id: t-180645
-  teiginys: 'Rugpjūčio 3 d. Kęstučiui su Vytautu ir Liubartu atvykus prie Trakų, Jogailos pusėje jau buvo Livonijos kryžiuočiai.'
+  teiginys: "Rugpjūčio 3 d. Kęstučiui su Vytautu ir Liubartu atvykus prie Trakų, Jogailos pusėje jau buvo Livonijos kryžiuočiai."
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į Trakai (0.92); Liubartas keliavo į Trakai (0.78)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "757687-757966; hash=f77ec0f6d5be675320fd70eff54161ad9351844b5fd77a3c47177609570b522f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Trakai: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Kęstučio atvykimą prie Trakų."
   pagrindžia:
-    - c-016
+    - c-164195
+
+<a id="claim-t-180646"></a>
+- t-073
+  global_id: t-180646
+  teiginys: "Kazimieras Jogailaitis, teikdamas pirmenybę Lietuvai, dažniausiai gyveno Trakuose arba Vilniuje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "455442-455985; hash=505fabd47a553a21ab509750b0880b1703e4f187f3a52f5210ab56d3a3317a8a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-164238
 
 <a id="claim-t-180647"></a>
-- t-056
+- t-060
   global_id: t-180647
-  teiginys: 'Islandų keliautojas Snorro prie Vilniaus, Trakų ir kitų miestų rado savo genties naujakurių ir suprato jų kalbą.'
+  teiginys: "Islandų keliautojas Snorro prie Vilniaus, Trakų ir kitų miestų rado savo genties naujakurių ir suprato jų kalbą."
+  semantiniai_rysiai: "Normanai gyveno Lietuva (0.72); Skandinavai gyveno Lietuva (0.62)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "130578-131117; hash=537a4fc0c8d6a42980acd0728c0fbcc37eae7d4e1251d5fb5293991bc308f458; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Lietuva: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Normanai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata sieja normanus su seniausių gyvenviečių kūrimu Lietuvoje."
   pagrindžia:
-    - c-052
+    - c-164252
 
 <a id="claim-t-180648"></a>
-- t-057
+- t-056
   global_id: t-180648
-  teiginys: '1377 m. birželio pabaigoje pakeliui į Vilnių buvo sudegintas Trakų miestas, bet pilys dėl Kęstučio gynybos neužimtos.'
+  teiginys: "1377 m. birželio pabaigoje pakeliui į Vilnių buvo sudegintas Trakų miestas, bet pilys dėl Kęstučio gynybos neužimtos."
+  temporaliniai_duomenys: "įvykio data: 1377 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "91127-91558; hash=3f87f269c7d066b8a7ce764c8fcf82ef877117e52ae04dff55d8e09c7bb9785c; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pilys: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Pilys: mention_match, thing, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Pilys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-032
+    - c-164215
 
 <a id="claim-t-180649"></a>
-- t-058
+- t-022
   global_id: t-180649
-  teiginys: 'Trakai greitai buvo prarasti, kai Vytauto ir kryžiuočių įgula po 40 dienų apgulties pasidavė Jogailai ir Skirgailai.'
+  teiginys: "Trakai greitai buvo prarasti, kai Vytauto ir kryžiuočių įgula po 40 dienų apgulties pasidavė Jogailai ir Skirgailai."
+  semantiniai_rysiai: "Kryžiuočių ordinas gynė Trakai (0.64)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "764822-764966; hash=85b648979d443c8a3619c12b3c54e7b89436737ee906eee596b8949007e9cc63; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Trakai: 0.64"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kryžiuočių įgula Trakuose po apgulties pasidavė, todėl jų buvimas kaip gynėjų yra pagrįstas, nors formuluotė netiesioginė."
   pagrindžia:
-    - c-004
+    - c-32471
+
+<a id="claim-t-180650"></a>
+- t-055
+  global_id: t-180650
+  teiginys: "1345 m. lapkričio 22 d. Kęstutis iš Trakų su stipriu pulku užpuolė abi Vilniaus pilis."
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) puolė Vilniaus pilis (0.96); Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į Trakai (0.72)"
+  temporaliniai_duomenys: "įvykio data: 1345 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "79336-79862; hash=a7466b1ae2d5bfcf87ce7f69e8f90cfbb0d561240ef72716dc0bd6927e85159b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Vilniaus pilis: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilniaus pilis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Kęstutis užpuolė Vilniaus pilis."
+  pagrindžia:
+    - c-164255
 
 <a id="claim-t-180651"></a>
-- t-060
+- t-071
   global_id: t-180651
-  teiginys: 'Trakų pilis, apsupta ežerų, buvo didžiojo kunigaikščio buveinė ir sostinė.'
+  teiginys: "Trakų pilis, apsupta ežerų, buvo didžiojo kunigaikščio buveinė ir sostinė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "449628-450366; hash=3965439290deae42597880cd713c81d3d4bdf992379f98a6d1c4c0510538fa79; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-028
+    - c-164209
 
 <a id="claim-t-180652"></a>
-- t-061
+- t-065
   global_id: t-180652
-  teiginys: '1430 m. į Trakus ir Vilnių atvyko Maskvos, Tverės, Riazanės, Mazovijos bei kitų kraštų valdovai ir pasiuntiniai.'
+  teiginys: "1430 m. į Trakus ir Vilnių atvyko Maskvos, Tverės, Riazanės, Mazovijos bei kitų kraštų valdovai ir pasiuntiniai."
+  semantiniai_rysiai: "Tverės ir Riazanės kunigaikščiai keliavo į Trakai (0.86); Tverės ir Riazanės kunigaikščiai keliavo į Vilnius (0.86); Mazovijos kunigaikščiai keliavo į Trakai (0.84); Mazovijos kunigaikščiai keliavo į Vilnius (0.84); Totoriai keliavo į Trakai (0.78)"
+  temporaliniai_duomenys: "kelionės data: 1430 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "351836-352580; hash=e40c668c2ed112ce48b679c617973ea9bf8a2391d31bc475702f9e39683b1625; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Trakai: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Tverės ir Riazanės kunigaikščiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatos sąraše Tverės ir Riazanės kunigaikščiai nurodyti kaip atvykę į Trakus."
   pagrindžia:
-    - c-031
+    - c-164214
 
 <a id="claim-t-180653"></a>
-- t-062
+- t-070
   global_id: t-180653
-  teiginys: 'Apie 1432 m. rugpjūčio 28 d. Žygimantas užėmė Vilnių ir Trakus.'
+  teiginys: "Apie 1432 m. rugpjūčio 28 d. Žygimantas užėmė Vilnių ir Trakus."
+  temporaliniai_duomenys: "įvykio data: 1432 m.; įvykio data: apie 1432 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "437636-438488; hash=ba3de85ae7275437ec4dca699518f513168809db0aceaad248510d924977df3b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antspaudai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Antspaudai: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Antspaudai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-018
+    - c-164197
 
 <a id="claim-t-180656"></a>
-- t-063
+- t-081
   global_id: t-180656
-  teiginys: '1432 m. rugsėjo 1 d. Žygimantas Kęstutaitis buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose.'
+  teiginys: "1432 m. rugsėjo 1 d. Žygimantas Kęstutaitis buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose."
+  temporaliniai_duomenys: "įvykio data: 1432 m.; įvykio data: 1440 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas puslapio ir antraštės triukšmas, paliktas citata paremtas faktas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "266337-266807; hash=b4d8efe268eadedf29f84ba77b608c712a101fc0ded306b55cf31929b09df6af; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ašmena: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Ašmena: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Ašmena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-020
+    - c-164199
 
 <a id="claim-t-180657"></a>
-- t-064
+- t-111
   global_id: t-180657
-  teiginys: 'Vytauto laikais Trakų žemėje buvo gausu dvarų ir ūkio centrų, nes ji buvo labiau apgyventa ir arčiau valdovo būstinės.'
+  teiginys: "Vytauto laikais Trakų žemėje buvo gausu dvarų ir ūkio centrų, nes ji buvo labiau apgyventa ir arčiau valdovo būstinės."
+  semantiniai_rysiai: "Trakai priklausė Lietuva (0.82); Vilnius priklausė Lietuva (0.82)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "595648-596069; hash=99a5300658ee07ed70a7fc50abb1566de13442681bbe9d18cf7b6bde1a882764; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata Trakų žemę įvardija kaip esančią pačioje Lietuvoje."
   pagrindžia:
-    - c-001
+    - c-25149
 
 <a id="claim-t-180659"></a>
-- t-065
+- t-025
   global_id: t-180659
-  teiginys: 'To žygio metu paimti karaimai, kaip spėjama, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.'
+  teiginys: "To žygio metu paimti karaimai, kaip spėjama, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose."
+  semantiniai_rysiai: "Karaimai gyveno Trakai (0.90); Karaimai gyveno Luckas (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "861814-862006; hash=0f5d8bd7c654afd10ed0546322f8f2a9fc08fcf8cde1c8e2fed807f422c4a9ec; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Luckas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Karaimai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Luckas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad karaimai buvo apgyvendinti Lucke."
   pagrindžia:
-    - c-059
+    - c-164262
 
 <a id="claim-t-180660"></a>
-- t-066
+- t-094
   global_id: t-180660
-  teiginys: '1388 m. Lucke Aleksandras Vytautas suteikė privilegiją Trakų žydams, o Žygimantas Senasis ją patvirtino 1507 m. Melnikuose.'
+  teiginys: "1388 m. Lucke Aleksandras Vytautas suteikė privilegiją Trakų žydams, o Žygimantas Senasis ją patvirtino 1507 m. Melnikuose."
+  temporaliniai_duomenys: "įvykio data: 1388 m.; įvykio data: 1507 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas antraštės ir puslapio triukšmas; citata pagrindžia dokumento faktą apie Trakus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "407738-408278; hash=19b313afa04d5b593f64fa4bc5ef4d16b7a3ffd98b08191158364b08326019bc; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Melnikas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Melnikas: mention_match, place, gap=57"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Melnikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-022
+    - c-164201
 
 <a id="claim-t-180661"></a>
-- t-067
+- t-048
   global_id: t-180661
-  teiginys: '1655 m. rugpjūčio 7 d. rusams ir kazokams užėmus Vilnių, netrukus buvo užimti Trakai ir Kaunas.'
+  teiginys: "1655 m. rugpjūčio 7 d. rusams ir kazokams užėmus Vilnių, netrukus buvo užimti Trakai ir Kaunas."
+  semantiniai_rysiai: "Rusijos kariuomenė užėmė Lietuva (0.88); Rusai užėmė Trakai (0.78); Kazokai užėmė Trakai (0.78); Rusai užėmė Kaunas (0.78); Kazokai užėmė Kaunas (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1654-1655; įvykio data: 1655 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta taip, kad Trakų užėmimas būtų aiškus faktas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "518292-518692; hash=edab165c2937372dc44167d3a07c3333df26e76a678ae790705a002645f78074; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Lietuva: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Rusijos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje Rusijos kariuomenė tiesiogiai įvardyta kaip užėmusi Minską, tačiau Minskas nėra leidžiamas kandidatas; kito tikslaus objekto šiam veiksmui nėra."
+  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-058
+    - c-164261
 
 <a id="claim-t-180662"></a>
-- t-068
+- t-023
   global_id: t-180662
-  teiginys: 'Atgautus Trakus, Gardiną ir kitas tėviškės žemes Vytautas turėjo valdyti kaip Ordino vasalas.'
+  teiginys: "Atgautus Trakus, Gardiną ir kitas tėviškės žemes Vytautas turėjo valdyti kaip Ordino vasalas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "686743-687153; hash=baab048aa4063b6d4eb9e051890da83b690a6a37d732980488be12e8f26390a8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gardinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gardinas: mention_match, place, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-033
+    - c-164217
 
 <a id="claim-t-180663"></a>
-- t-069
+- t-062
   global_id: t-180663
-  teiginys: 'Trakų pilis laikoma sena, galbūt dar prieš Gediminą buvusia gynybine ir medžiotojų gyvenviete.'
+  teiginys: "Trakų pilis laikoma sena, galbūt dar prieš Gediminą buvusia gynybine ir medžiotojų gyvenviete."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "134840-135533; hash=1e9aeb0972b828f1a107bc45003b31b90b1bd827578e819e38b8f3246c9a43fa; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=43"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-030
+    - c-164212
 
 <a id="claim-t-180664"></a>
-- t-070
+- t-085
   global_id: t-180664
-  teiginys: '1377 m. birželį Ordino kariuomenė sudegino Trakų miestą, bet dėl Kęstučio gynybos nepajėgė užimti pilių.'
+  teiginys: "1377 m. birželį Ordino kariuomenė sudegino Trakų miestą, bet dėl Kęstučio gynybos nepajėgė užimti pilių."
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) gynė Trakai (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1377 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko faktą, bet pradinis sakinys prasideda kontekstiniu fragmentu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "91127-91558; hash=3f87f269c7d066b8a7ce764c8fcf82ef877117e52ae04dff55d8e09c7bb9785c; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Trakai: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata Trakų miesto ir pilių epizodą tiesiogiai sieja su Kęstučio gynyba."
   pagrindžia:
-    - c-032
+    - c-164215
 
 <a id="claim-t-180665"></a>
-- t-071
+- t-110
   global_id: t-180665
-  teiginys: 'Algirdas valdė Lietuvą iš Vilniaus, o Kęstutis valdė iš Trakų.'
+  teiginys: "Algirdas valdė Lietuvą iš Vilniaus, o Kęstutis valdė iš Trakų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "513797-514164; hash=e73dbc36096cb8d23c2fe1cb7cb0caf527b2ba798d354bd9bdb5a6b5a9616942; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=41"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-043
+    - c-164233
 
 <a id="claim-t-180666"></a>
-- t-072
+- t-017
   global_id: t-180666
-  teiginys: 'XVI a. plačioji Lietuvos metraščio redakcija Trakų pilies įkūrimą siejo su Gedimino medžiokle penkių mylių atstumu nuo Kernavės.'
+  teiginys: "XVI a. plačioji Lietuvos metraščio redakcija Trakų pilies įkūrimą siejo su Gedimino medžiokle penkių mylių atstumu nuo Kernavės."
+  semantiniai_rysiai: "Gediminas pastatė Trakai (0.72)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "674945-675445; hash=477632fe4915f498159b0cace710846df8b2426e3eff7ad0fe3bfd308f3afed7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Trakai: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas sieja Trakų pilies įkūrimą su Gediminu; kadangi atskiro pilies objekto nėra, naudojamas Trakų vietos objektas."
   pagrindžia:
-    - c-014
+    - c-164191
+
+<a id="claim-t-180636"></a>
+- t-043
+  global_id: t-180636
+  teiginys: "Vytautas atgausimus Trakus, Gardiną ir kitas žemes turėjo valdyti kaip Ordino vasalas."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) valdė miestą Trakai (0.90); Vytautas (Lietuvos valdovas, XIV–XV a.) valdė miestą Gardinas (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "766090-766423; hash=be845951821e4e6384b6a7d81c44ed1ab18b0c466a284c51fa975d6b856613e9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_miesta -> Gardinas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Gardinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Vytautas turėjo valdyti Gardiną."
+  pagrindžia:
+    - c-164206
+
+<a id="claim-t-180668"></a>
+- t-020
+  global_id: t-180668
+  teiginys: "Kęstučiui ir Vytautui rugpjūčio 3 d. atvykus prie Trakų, Jogailos pusėje jau buvo Livonijos kryžiuočiai."
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į Trakai (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "757687-757966; hash=f77ec0f6d5be675320fd70eff54161ad9351844b5fd77a3c47177609570b522f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Trakai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Kęstutis atvyko prie Trakų."
+  pagrindžia:
+    - c-164195
 
 <a id="claim-t-180669"></a>
-- t-075
+- t-096
   global_id: t-180669
-  teiginys: 'Žygimantas po nesėkmingo įsiveržimo į Švitrigailos dvarą tuojau užėmė Vilnių ir Trakus.'
+  teiginys: "Žygimantas po nesėkmingo įsiveržimo į Švitrigailos dvarą tuojau užėmė Vilnių ir Trakus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "437636-438488; hash=ba3de85ae7275437ec4dca699518f513168809db0aceaad248510d924977df3b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antspaudai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Antspaudai: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Antspaudai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-018
+    - c-164197
 
 <a id="claim-t-180670"></a>
-- t-076
+- t-103
   global_id: t-180670
-  teiginys: '1505 m. Vilniaus miesto sienoje buvo nurodyta palikti vartus prie kelio į Trakus.'
+  teiginys: "1505 m. Vilniaus miesto sienoje buvo nurodyta palikti vartus prie kelio į Trakus."
+  temporaliniai_duomenys: "įvykio data: 1505 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko siauresnį faktą, bet pradinis teiginys nutrūkęs."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "471124-471761; hash=0e856132f4167f3dd61e89c33892708f6896e31e6f65a6b8f037411e8c5cb6e2; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Išganytojo (Spaso) bažnyčia Vilniuje: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Išganytojo (Spaso) bažnyčia Vilniuje: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Išganytojo (Spaso) bažnyčia Vilniuje\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-046
+    - c-164243
 
 <a id="claim-t-180671"></a>
-- t-077
+- t-024
   global_id: t-180671
-  teiginys: 'Po 1397 m. žygio Vytautas totorių belaisvius ir pabėgėlius įkurdino Trakų kunigaikštijoje.'
+  teiginys: "Po 1397 m. žygio Vytautas totorių belaisvius ir pabėgėlius įkurdino Trakų kunigaikštijoje."
+  semantiniai_rysiai: "Totoriai gyveno Trakai (0.82)"
+  temporaliniai_duomenys: "įvykio data: po 1397 m.; įvykio data: 1397 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys paremtas, bet sutrumpintinas ir aiškintinas kaip faktas apie Trakus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "861199-861591; hash=5698fbb68e5f93a38e8b74f76e081495438c9e1b8a055906403e40158ed9b32a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Trakai: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad totoriai buvo įkurdinti Trakų kunigaikštijoje."
   pagrindžia:
-    - c-009
+    - c-164186
 
 <a id="claim-t-180672"></a>
-- t-078
+- t-026
   global_id: t-180672
-  teiginys: '1412 m. per Kalėdas Makra jau buvo pas Vytautą jo puošnioje salos pilyje Trakuose.'
+  teiginys: "1412 m. per Kalėdas Makra jau buvo pas Vytautą jo puošnioje salos pilyje Trakuose."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Trakai (0.88); Jogaila (kunigaikštis, XIV–XV a.) keliavo į Trakai (0.88)"
+  temporaliniai_duomenys: "įvykio data: 1412 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1018663-1018845; hash=c6e07e8de040b3c4dbd86995fda65b69e0380d1944496537d6c273db8e94152c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Trakai: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Vytauto kelionę į Trakus."
   pagrindžia:
-    - c-040
+    - c-164229
 
 <a id="claim-t-180673"></a>
-- t-079
+- t-067
   global_id: t-180673
-  teiginys: 'Vytautas būdamas Trakuose nerimavo dėl išdavystės ir norėjo ten pasilikti dar dvylika savaičių.'
+  teiginys: "Vytautas būdamas Trakuose nerimavo dėl išdavystės ir norėjo ten pasilikti dar dvylika savaičių."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) gyveno Trakai (0.88)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "363058-363455; hash=a615852d2ee256adf361988638a538d50785acd8b8f5623a432cce5bc6feacf5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Trakai: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Vytautas buvo Trakuose ir norėjo ten dar išbūti."
   pagrindžia:
-    - c-045
+    - c-164239
 
 <a id="claim-t-180674"></a>
-- t-080
+- t-092
   global_id: t-180674
-  teiginys: '1430 m. į Trakus ir Vilnių atvyko Vytauto karūnacijai sukviesti šiaurės šalių kunigaikščiai ir pasiuntiniai.'
+  teiginys: "1430 m. į Trakus ir Vilnių atvyko Vytauto karūnacijai sukviesti šiaurės šalių kunigaikščiai ir pasiuntiniai."
+  semantiniai_rysiai: "Tverės ir Riazanės kunigaikščiai keliavo į Trakai (0.86); Tverės ir Riazanės kunigaikščiai keliavo į Vilnius (0.86); Mazovijos kunigaikščiai keliavo į Trakai (0.82); Mazovijos kunigaikščiai keliavo į Vilnius (0.82); Totoriai keliavo į Trakai (0.76)"
+  temporaliniai_duomenys: "kelionės data: 1430 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko faktą, bet pradinė formuluotė nutrūkusi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "351836-352580; hash=e40c668c2ed112ce48b679c617973ea9bf8a2391d31bc475702f9e39683b1625; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Trakai: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Tverės ir Riazanės kunigaikščiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tverės ir Riazanės kunigaikščiai yra įtraukti į atvykusiųjų į Trakus sąrašą."
   pagrindžia:
-    - c-031
+    - c-164214
+
+<a id="claim-t-184404"></a>
+- t-129
+  global_id: t-184404
+  teiginys: "Po 1397 m. žygio Vytautas totorių belaisvius ir pabėgėlius įkurdino Trakų kunigaikštijoje."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Totoriai gyveno Trakai (0.86); Vytautas (Lietuvos valdovas, XIV–XV a.) siuntė į Trakai (0.74)"
+  temporaliniai_duomenys: "įvykio data: po 1397 m.; įvykio data: 1397 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys paremtas, bet sutrumpintinas ir aiškintinas kaip faktas apie Trakus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "861252-861813; hash=e748db930dca19b3f28df7361e23bf47a2820d6a24de85a6eedc2ddef0b25e90; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Trakai: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo, kad totorių belaisviai ir pabėgėliai įkurdinti Trakų kunigaikštijoje."
+  pagrindžia:
+    - c-167769
 
 <a id="claim-t-185159"></a>
-- t-082
+- t-130
   global_id: t-185159
-  teiginys: 'Trakai buvo puolami tam, kad kariai turėtų užsiėmimą laukdami pagalbos.'
+  teiginys: "Trakai buvo puolami tam, kad kariai turėtų užsiėmimą laukdami pagalbos."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "469628-470085; hash=ba77c4e6df5c8d689dd1e2f62b8dac796505533cadbea2227da113346baad055; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Mazovija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Mazovija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Mazovija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-062
+    - c-168520
 
 <a id="claim-t-185160"></a>
-- t-083
+- t-131
   global_id: t-185160
-  teiginys: 'Vytautas su žemaičiais ir Prūsijos magistras pasiekė Trakus, o miestas ir abi pilys jiems pasidavė.'
+  teiginys: "Vytautas su žemaičiais ir Prūsijos magistras pasiekė Trakus, o miestas ir abi pilys jiems pasidavė."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Trakai (0.86); Vytautas (Lietuvos valdovas, XIV–XV a.) surengė žygį į Trakai (0.82)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "479908-480394; hash=f6289ba4017c33077d643278578646a11f189303bfbf8dfd48a9931629f7858f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Trakai: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Pasidavęs miestas ir pilys reiškia Vytauto pusės užėmimą."
   pagrindžia:
-    - c-063
+    - c-168521
 
 <a id="claim-t-185161"></a>
-- t-084
+- t-132
   global_id: t-185161
-  teiginys: 'Žymiausieji Lietuvos didikai skubiai pasitraukė į Trakus, palikę Jogailą ir valstybės reikalus.'
+  teiginys: "Žymiausieji Lietuvos didikai skubiai pasitraukė į Trakus, palikę Jogailą ir valstybės reikalus."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "752111-752562; hash=383d87bf227e493715f4fc9b228200abb5f9d07ee48b97db869e2f771738cf30; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-064
+    - c-168522
 
 <a id="claim-t-185162"></a>
-- t-085
+- t-133
   global_id: t-185162
-  teiginys: 'Karalius iš Zaberezinskio atėmė Trakų vaivadiją.'
+  teiginys: "Karalius iš Zaberezinskio atėmė Trakų vaivadiją."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1026580-1027170; hash=9776505d84029b41218e3e5c446f53c26a033d3112ae389a5bd78a92d583a75e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Radomas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Radomas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Radomas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-065
+    - c-168523
 
 <a id="claim-t-185163"></a>
-- t-086
+- t-134
   global_id: t-185163
-  teiginys: 'Valdovo valia Šich Achmetas turėjo būti vaišingai priimtas Trakuose.'
+  teiginys: "Valdovo valia Šich Achmetas turėjo būti vaišingai priimtas Trakuose."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Šich Achmetas keliavo į Trakai (0.88); Lietuviai siuntė į Trakai (0.84); Šich Achmetas gyveno Trakai (0.72)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1032351-1032915; hash=1d4838834e3cb08568f8b23a44f03f45bbaf8d712d56267b2c930c0ba24edc84; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Trakai: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Šich Achmetas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Šich Achmetas buvo atvežtas į Trakus."
   pagrindžia:
-    - c-066
+    - c-168524
 
 <a id="claim-t-187660"></a>
 - t-087
   global_id: t-187660
-  teiginys: 'Kęstutis valdė Trakus ir Žemaičių žemę.'
+  teiginys: "Kęstutis valdė Trakus ir Žemaičių žemę."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valdė miestą Trakai (0.98)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "134669-135145; hash=49a0a0a23e366484d8b2e68e990f812fe38da9f2d613a176a002e6d8c0b15209; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_miesta -> Trakai: 0.98"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Kęstutis valdė Trakus."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-067
+    - c-170602
 
 <a id="claim-t-187661"></a>
 - t-088
   global_id: t-187661
-  teiginys: 'Iš Smolensko grįžęs Skirgaila pradėjo kunigaikščiauti Trakuose.'
+  teiginys: "Iš Smolensko grįžęs Skirgaila pradėjo kunigaikščiauti Trakuose."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1345 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas perteklinis titulavimas ir išlaikytas citatos faktas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "158739-159068; hash=3cebd04eddb75be9a6fd3fc3ba491714de2738ec606c6761e9ec57b2c369a86f; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-068
+    - c-170603
 
 <a id="claim-t-187662"></a>
 - t-089
   global_id: t-187662
-  teiginys: 'Vytauto pasakojime senelis Kęstučiui skyrė valdžią Trakuose, Algirdui – Vitebske, o Jaunučiui – Vilniuje.'
+  teiginys: "Vytauto pasakojime senelis Kęstučiui skyrė valdžią Trakuose, Algirdui – Vitebske, o Jaunučiui – Vilniuje."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valdė miestą Trakai (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "301700-302250; hash=36132c2e81d0ef3379c52d004b6ea71a2be87fa313e48eb16377c860c655f9cc; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_miesta -> Trakai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje valdžia Kęstučiui tiesiogiai priskiriama Trakuose."
+  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-069
+    - c-170604
 
 <a id="claim-t-187663"></a>
 - t-090
   global_id: t-187663
-  teiginys: 'Vytauto pasakojime Jogaila be Kęstučio žinios užėmė Trakus, kai Kęstutis buvo grįžęs iš karo žygio.'
+  teiginys: "Vytauto pasakojime Jogaila be Kęstučio žinios užėmė Trakus, kai Kęstutis buvo grįžęs iš karo žygio."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "304889-305195; hash=abad4476c5a9d6b135cbc3cc9d9aedb37a42b0841f7817eb9e895ad0a4e2f92b; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-070
+    - c-170605
+
+<a id="claim-t-193651"></a>
+- t-135
+  global_id: t-193651
+  teiginys: "Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "53031-53549; hash=258bef618a9cd6582f66511e507956b175034bbdcaebbcba3bd7f2a35710d437; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176320
+
+<a id="claim-t-193652"></a>
+- t-136
+  global_id: t-193652
+  teiginys: "Vytautas perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine, Naugarduke ir Lucke."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "102890-103321; hash=5bd425294d62e93ae2b6e31e114d24a183bfec2a566273b32cca60671f95574b; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176321
 - susijęs iš [[objektai/paprociai/Karaimų priglobimas ir Trakų daržininkystė su agurkų prekyba Vilniuje.md#claim-t-87209|Karaimų priglobimas ir Trakų daržininkystė su agurkų prekyba Vilniuje]]: Karaimai buvo įsikūrę Trakuose ir nedidelėje Vilniaus dalyje, tačiau Vytauto privilegija jiems negaliojo.
 - susijęs iš [[objektai/paprociai/Karaimų priglobimas ir Trakų daržininkystė su agurkų prekyba Vilniuje.md#claim-t-87210|Karaimų priglobimas ir Trakų daržininkystė su agurkų prekyba Vilniuje]]: Balińskis karaimų atvykimą į Lietuvą siejo su Vytauto laikais, nes Vytautas priimdavo ir priglobdavo ateivius iš rytų kraštų.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179712|Švitrigaila]]: Švitrigaila buvo dvare prie Ašmenos su nedidele sargyba, kai Žygimantas slapta žygiavo į Ašmeną.
@@ -820,7 +1999,6 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
 - susijęs iš Paneriai: Balińskio liudijimu, Paneriams priklausiusiuose Trakų apskrities kaimuose Vilija dar buvo vadinama Nerimi.
 - susijęs iš Paneriai: Vilija buvo vadinama Nerimi kaimuose, priklausiusiuose Zubiškių palivarkui ir Paneriams Trakų apskrityje.
 - susijęs iš Riazanė: 1430 m. Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi.
-- susijęs iš Senieji Trakai: Vytautas įkurdino benediktinus Senuosiuose Trakuose.
 - susijęs iš Senoji Trakų vaivadija: Narbutas rašo, kad deivę Lietuvą dar žinojo lietuviai, ypač senojoje Trakų vaivadijoje, taip pat latviai ir estai.
 - susijęs iš Stožkas: Vytautas pasižadėjo padėti Skirgailai paimti Kijevą ir atiduoti jam Kremencą bei Stožką vietoj Trakų kunigaikštijos.
 - susijęs iš Strėva: Prie Strėvos upės Trakų paviete žemaičių būriai tankiame miške iš pasalų apsupo atsitraukiančią kariauną.
@@ -870,6 +2048,8 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176122|Žemaičiai]]: Livonijos kryžiuočiai pasirodė Jogailos pusėje prie Trakų po Žemaičių teriojimo.
 - susijęs iš Brasta: Kęstutis buvo gavęs ilgą vakarų pasienio ruožą, kuriam priklausė Trakai, Palenkė, Gardinas ir Brasta.
 - susijęs iš Brasta: Kęstutis buvo gavęs ilgą vakarų pasienio ruožą su Trakais, Palenke, Gardinu ir Brasta.
+- susijęs iš Senieji Trakai: Vytautas įkurdino benediktinus Senuosiuose Trakuose.
+- susijęs iš Senieji Trakai: Narbutas Senųjų Trakų miesto skydą aprašo kaip kryžių, einantį beveik per visą trečiąjį skydą dešinėje nuo kunigaikščio.
 - susijęs iš Vilnius: 1377 m. birželio pabaigoje Ordino pajėgos puolė Vilnių, o padegtas miestas neteko dviejų trečdalių namų.
 - susijęs iš [[objektai/asmenys/Albertas (Vilniaus vyskupas).md#claim-t-87422|Albertas (Vilniaus vyskupas)]]: Albertas kaip vyskupas dalyvavo 1501 m. Gardine aktuotame dokumente tarp patikimų liudytojų.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54937|Aleksandras Jogailaitis]]: Aleksandras siekė užgesinti vaidus su Ivanu Vasiljevičiumi vesdamas jo dukterį Eleną.
@@ -942,6 +2122,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
 - susijęs iš [[objektai/asmenys/Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas.md#claim-t-186156|Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas]]: Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti į Maskvą kaip pasiuntiniams pas Vasilijų.
 - susijęs iš [[objektai/asmenys/Petras iš Kustynės.md#claim-t-35264|Petras iš Kustynės]]: Petras iš Kustynės 1414-1421 m. buvo ketvirtasis Vilniaus vyskupas, delegatas Konstancijoje ir pasiuntinys Žemaitijoje.
 - susijęs iš [[objektai/asmenys/Petrašu Montgirdaitis.md#claim-t-87561|Petrašu Montgirdaitis]]: Petrašu Montgirdaitis, Naugarduko vaivada, prisidėjo prie Žygimanto žygio į Švitrigailos dvarą prie Ašmenos.
+- susijęs iš [[objektai/asmenys/Pilypas.md#claim-t-190949|Pilypas]]: 358 m. pr. Kr. Pilypo valdoma Makedonija, anot Narbuto, didino politinę įtaką Graikijoje, kurią pajuto su graikų kolonistais susijusios Skitijos tautos.
 - susijęs iš [[objektai/asmenys/Redigeris Elneris.md#claim-t-87844|Redigeris Elneris]]: Arkikomtūras Redigeris Elneris su Ordino maršalu Gotfridu Lindenu buvo pasiųstas užimti Vilniaus.
 - susijęs iš [[objektai/asmenys/Rimvydas.md#claim-t-190113|Rimvydas]]: 1483 m. karaliaus Kazimiero privilegijoje bajoras Rimvydas gavo žemę prie Merkio už Merkinės valsčiaus valstiečių maišto nuslopinimą.
 - susijęs iš [[objektai/asmenys/Sigaila arba Žygimantas.md#claim-t-190208|Sigaila arba Žygimantas]]: Narbutas Sigailą, arba Žygimantą, mini kaip vieną iš Kęstučio ir jo žmonos sūnų.
@@ -1028,6 +2209,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179343|Lietuviai]]: Lietuvos kariuomenė pradėjo rinktis gegužės pabaigoje arba birželio pradžioje.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188263|Lietuviai]]: Narbutas deivę Lietuvą apibūdino kaip laisvės, malonumų ir džiaugsmo deivę, žinomą lietuviams, latviams ir estams.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188264|Lietuviai]]: Narbutas katino kaip lietuvių laisvės simbolio įrodymą siejo su 1483 m. Kazimiero privilegija bajorui Rimvydui.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-192429|Lietuviai]]: Teodoras Narbutas, remdamasis padavimais ir senaisiais autoriais, teigė, kad lietuvių genties tautoms žemės priklausė dar gerokai prieš VI amžių.
 - susijęs iš [[objektai/grupes/Lietuvos pasiuntiniai Maskvoje.md#claim-t-86804|Lietuvos pasiuntiniai Maskvoje]]: 1494 m. balandžio 18 d. Maskvoje Lietuvos pasiuntiniai Petras Białas ir Stanislovas Goštautas pasirašė amžinos taikos sutartį su Ivanu Vasiljevičiumi.
 - susijęs iš [[objektai/grupes/Maloningosios Dievo Motinos brolija.md#claim-t-86808|Maloningosios Dievo Motinos brolija]]: 1589 m. liepos 29 d. Dievo Kūno koplyčioje buvo paskelbtas Maloningosios Dievo Motinos brolijos įkūrimas.
 - susijęs iš [[objektai/grupes/Maskvos kunigaikštystė.md#claim-t-92735|Maskvos kunigaikštystė]]: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.
@@ -1067,9 +2249,11 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
 - susijęs iš [[objektai/ivykiai/Penkerių metų paliaubos tarp Lietuvos ir Maskvos.md#claim-t-185633|Penkerių metų paliaubos tarp Lietuvos ir Maskvos]]: Vasilijus reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą tęsti taikos derybų.
 - susijęs iš [[objektai/ivykiai/Rudaminos mūšis ir taikos sutartis po Vilniaus apgulties (1377 m.).md#claim-t-54706|Rudaminos mūšis ir taikos sutartis po Vilniaus apgulties (1377 m.)]]: Po mūšio ir Vilniaus pilių atsilaikymo sudaryta taikos sutartis įpareigojo kryžiuočius neliesti nuo ugnies nenukentėjusios Vilniaus dalies.
 - susijęs iš [[objektai/ivykiai/Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.).md#claim-t-41353|Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.)]]: 1654 m. Rusija pasiuntė gausią kariuomenę į Lietuvą.
+- susijęs iš [[objektai/ivykiai/Skitų susidūrimas su Aleksandro pajėgomis.md#claim-t-191074|Skitų susidūrimas su Aleksandro pajėgomis]]: Narbutas pasakoja, kad Sapiriono vadovaujama skitų kariuomenė, praradusi 30 000 karių, buvo priversta prašyti Aleksandro taikos ir santarvės.
 - susijęs iš [[objektai/ivykiai/Slapta Augusto ir Barboros Radvilaitės santuoka.md#claim-t-185537|Slapta Augusto ir Barboros Radvilaitės santuoka]]: Po Elžbietos laidotuvių Augustas pradėjo lankyti Barborą Radvilaitę, Vilniaus kašteliono Jurgio dukrą ir Stanislovo Goštauto našlę.
 - susijęs iš [[objektai/ivykiai/Strėvos mūšis (1348 m.).md#claim-t-10296|Strėvos mūšis (1348 m.)]]: Lietuvių kariuomenė prie Strėvos upės pavijo grįžtantį priešą po Ordino niokojimų.
 - susijęs iš [[objektai/ivykiai/Trakų paliaubos (1379 m. rugsėjo 29 d.).md#claim-t-28867|Trakų paliaubos (1379 m. rugsėjo 29 d.)]]: 1379 m. rugsėjo 29 d. Trakuose Kęstutis ir Jogaila su kryžiuočiais sudarė dešimties metų paliaubas dėl Palenkės ir Gardino žemės.
+- susijęs iš [[objektai/ivykiai/Trakų sutriuškinimas galų 390 m. prieš Kristaus gimimą.md#claim-t-191871|Trakų sutriuškinimas galų 390 m. prieš Kristaus gimimą]]: Narbutas rašo, kad IV a. pr. Kr. trakai nuo Dunojaus prasibrovė į Skitiją ir 390 m. pr. Kr. buvo sutriuškinti galų.
 - susijęs iš [[objektai/ivykiai/Vilniaus apgultis ir miesto padegimas (1377 m.).md#claim-t-54694|Vilniaus apgultis ir miesto padegimas (1377 m.)]]: 1377 m. birželio pabaigoje Gotfridas Lindenas ir Redigeris Elneris su 12 000 žmonių sustojo prie Vilniaus.
 - susijęs iš [[objektai/ivykiai/Vilniaus užėmimas (1655 m. rugpjūčio 7 d.).md#claim-t-41382|Vilniaus užėmimas (1655 m. rugpjūčio 7 d.)]]: 1655 m. rugpjūčio 7 d. po aršių kautynių Rusijos kariuomenė ir jos sąjungininkai kazokai užėmė Lietuvos sostinę Vilnių.
 - susijęs iš [[objektai/ivykiai/Vytauto ir Julijonos santuoka.md#claim-t-185786|Vytauto ir Julijonos santuoka]]: Trakuose, mirus žmonai Onai, Vytautas nutarė vesti Julijoną, Alšėnų kunigaikščio Algimantaičio dukrą.
@@ -1139,7 +2323,6 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
 - susijęs iš M. Strijkovskio kronika: Strijkovskio kronikoje Vilniaus įkūrimas priskiriamas Gediminui ir siejamas su medžiokle Šventaragio slėnyje.
 - susijęs iš M. Strijkovskio kronika: Vilniaus įkūrimo pasakojime Lizdeika geležinio vilko sapną aiškina kaip būsimos pilies ir Lietuvos sostinės ženklą.
 - susijęs iš Maloningosios Dievo Motinos brolijos įkūrimo paskelbimas ir Petro Skargos promocija: 1589 m. liepos 29 d. Dievo Kūno koplyčioje paskelbtas Maloningosios Dievo Motinos brolijos įkūrimas ir Petro Skargos promocija.
-- susijęs iš Schützo Prūsijos kronika: Schützo Prūsijos kronika minima kaip šaltinis apie viduramžių riterių puotas prieš karo žygius.
 - susijęs iš Stepono Batoro patvirtinta sutartis tarp Martyno Paleckio ir Vilniaus miesto dėl stiklo liejyklos: 1583 metų Varšuvos seime Vilniaus miestas ir Martynas Paleckis sudarė sutartį dėl stiklo liejyklos ir stiklo supirkimo teisių.
 - susijęs iš Vytauto privilegijos Vilniaus kapitulai: 1411 m. Trakuose rašyta Vytauto privilegija Vilniaus kapitulai mainais už Vechatnicos kaimą suteikė valdas Krėvos ir Svisločiaus apylinkėse.
 - susijęs iš Žygimanto 1432 m. Vilniaus Magdeburgo teisių patvirtinimo privilegijos: 1432 m. Vilnius gavo Magdeburgo teisių atnaujinimą ir patvirtinimą dviem privilegijomis lotynų ir rusų kalbomis.
@@ -1275,15 +2458,6 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
 - susijęs iš Ukmergės apskritis: Didžiosios kovos apygardoje buvo įkurtos dvi rinktinės: „A“ Trakų apskrityje ir „B“ Ukmergės apskrityje.
 - susijęs iš Vartenburgas: Vartenburgo apskritis buvo priskirta pietinei Prūsijos daliai, kurios lietuviai pasižadėjo nebeužpuldinėti.
 - susijęs iš Vilija: Barboros rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Gediminas įsakė pastatyti mūrinę pilį Vilnelės ir Vilijos upių santakoje.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
 - susijęs iš Vilnia: Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
 - susijęs iš Vilnia: Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
 - susijęs iš Vilnia: Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
@@ -1439,6 +2613,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     apgyventos vietos; be to, Trakų ir Vilniaus žemės buvo taip pat
     arčiau didž. Lietuvos kunigaikščio būstinės.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1453,8 +2628,9 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     buvęs atvykęs prie Trakų ir turėjęs pasikalbėjimą su pačiu Kęstu­
     čiu, kuris atsisveikindamas maršalui padavęs ranką.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-025
@@ -1467,8 +2643,9 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     bombardas palikę Jogailai, kryžiuočiai «linksmi ir sveiki grįžo
     namo »^17.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -1480,6 +2657,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     prarasti. Vytauto ir kryžiuočių įgula ten turėjo pasiduoti Jogailai
     ir Skirgailai (XI.3) po 40 dienų trukusio apgulimo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1494,6 +2672,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     per Ragainę ir Kauną, Makra Kalėdoms jau buvo pas Vytautą
     — jo puošnioje salos pilyje Trakuose^9.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1509,8 +2688,9 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     bartas.
     Jogailos ir Kęstučio kariuomenės 1382 metų rugpiūčio mėn.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-043
@@ -1523,8 +2703,9 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     Skirgailos valdomų Trakų. Jie Vytautui greit pasidavė (1383.VIII.
     12), nes Trakuose buvo jo šalininkų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-024
@@ -1560,8 +2741,9 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     gaikštystę valdyti per vietininką. Pirmenybę teikdamas Lie­
     tuvai, jis dažniausiai gyveno Trakuose arba Vilniuje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-028
@@ -1578,8 +2760,9 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     totorių belaisvių ir pabėgėlių, kurių pusę atidavė Jogailai, juos
     Vytautas įkurdino Trakų kunigaikštijoje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-077
@@ -1599,8 +2782,9 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     prekyba, o dėl suteiktų laisvių miestiečiams gausėjo žmonių
     skaičius.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
@@ -1620,6 +2804,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
 
     68 PABAISKO (UKMERGĖS) MUSIS 1435 m. rugsėjo 1 d.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1649,6 +2834,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     tovia [Jogaila, arba Jagėla, Dievo ma­
     lone lietuvių karalius].
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1687,6 +2873,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     regėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­
     vęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1707,6 +2894,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     Kernavės, toje girios vietoje, kur Gediminas primedžiojęs daug
     žvėrienos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1752,6 +2940,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     joks krikščionis prieš žydą, nebent su krikščionimi ir su žy­
     du būtų prileistas liudyti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1768,6 +2957,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     buvo pasirodę Livonijos kryžiuočiai, atvykę čia po Žemaičių terio-
     jimo^18.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1787,6 +2977,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     sūnus [[Kęstutis]] vėliau pastatė kitą didingą mūro pilį to paties
     ežero saloje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1823,6 +3014,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     1432 metų rugpjūčio 13 dieną iš Ker­
     navės.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1839,6 +3031,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     | Aukštadvarį ir pasiekė Jiezną. Į rinktinę buvo priimami tik tie savanoriai, kurie turėjo bent |
     | šiek tiek pakenčiamus batus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1865,6 +3058,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
 
     Žygimanto Kęstutaičio val- Po pralaimėjimo Lietuvai yr A \ Vidinė politinė kova Lietuvoje nurimo soste įsitvirtinus 1440 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1890,6 +3084,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     niaus miestiečių laivams su prekėmis, o keliantis perkėla
     visur atleidžiama nuo bet kokių mokesčių41.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1919,6 +3114,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     PIRMADIENI, PRIEŠ TRIS KARALIUS
     Viešpaties vardu Amen.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1934,6 +3130,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     — Livonijos ordiną, totorius, rusų kunigaikščius — ir išsiruošė
     į didelį žygį.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1956,6 +3153,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     tybės reikalus, nors Vilnius visada buvo Didžiosios Kuni­
     gaikštystės sostinė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1974,6 +3172,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     Gavus naujus Vytauto pažadus, ordinui reikėjo tik juos įgy­
     vendinti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1994,6 +3193,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     ir apsaugojo. Vytauto palaikai buvo atvežti į Vilnių ir iškil­
     mingai palaidoti85.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2031,6 +3231,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     gamtos aplinkumoje stovėdamas, prie seniausių Lietuvos
     tvirtovių būtų priskirtas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2056,6 +3257,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     23 24
     Kojałowicz, IV.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2078,6 +3280,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     riu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­
     nigaikščio buveinę.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2108,6 +3311,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     mo Galve, buvęs kunigaikščio žvė­
     rynas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2132,6 +3336,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
     magistras, Mazovijos kunigaikščiai ir totorių chanai84.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2152,6 +3357,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     mis prie Vilniaus. Ten anuomet su vaikais ir žmona buvo
     senasis Algirdas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2170,6 +3376,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     lenkė), būdamos artimoje kaimynystėje su kryžiuočių valstybe,
     niekada nebuvo saugios.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2187,6 +3394,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     rį iš Gardino. Prie jųdviejų prisidėjo dar ir Algirdo sūnus Liu­
     bartas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2203,6 +3411,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     žirgo. Susitrenkęs nebegalėjo toliau joti, todėl važiavo žmonos
     vežime. Nuvykęs į Trakus, atsigulė ir daugiau nebekėlė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2222,6 +3431,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     atvežti į Vilnių, buvo palaidoti didžiųjų Lietuvos kunigaikš­
     čių kape, katedroje, atlikus įprastas laidojimo apeigas27.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2235,6 +3445,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.
     Iš tų dviejų žygių trūksta smulkesnių versmių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2260,6 +3471,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     miestas iš tiesų turėjo lietuviškai būti
     vadinamas - Trakas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2280,6 +3492,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     Mes žinom, kad Lietuvą savo laiku valdė du didžiuoju ku­
     nigaikščiu: Algirdas Vilniuj, Trakuose Kęstutis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2295,6 +3508,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     kelyje Vytautas nukrito nuo arklio ir į Trakus buvo nuvežtas jo
     žmonos vežime.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2314,6 +3528,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     šė drauge Kęstutis ir Jogaila, dar bent formaliai veikdami iš­
     vien.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2338,6 +3553,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     latinei buveinei, paversdami galingų
     kunigaikščių garbei derančia.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2356,6 +3572,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     torikų dualizmu, kitų — diarchija nežuvo ir kai mirė Algirdas
     (1377).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2381,6 +3598,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     lei, kuriai atsiduodavo, pamiršdamas net ir oficialius
     reikalus29.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2399,6 +3617,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     su gausia kariauna, nemažais paramos pulkais ir dauge­
     liu žmonių patraukė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2421,6 +3640,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     dabar yra Aušros vartai, ketvirtuosius - ties Išganytojo (Spa-
     so) bažnyčia ir penktuosius - nuo Pilies.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2448,6 +3668,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     lius, Lietuvos, Rusios, Prūsijos, Žemaitijos ir kt. didysis ku­
     nigaikštis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2467,6 +3688,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     Žygimanto Kęstutaičio val- Po pralaimėjimo Lietuvai yr A \ Vidinė politinė kova Lietuvoje nurimo soste įsitvirtinus 1440 m. Kazimierui.
     S *Ė - Pabaisko mūšyje Livonijos Suomijos įlanka ) | Jogailaičiui.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2485,6 +3707,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     vę Nogajaus ordos pasiuntiniai ir Maskvos bojarinai, ir Vil­
     niaus pilyje tuomet kildavęs didelis sujudimas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2501,6 +3724,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     bandė suruošti prieš Kazimierą sąmokslą, kuriam nepavykus, pa-
     bėgo į Maskvą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2553,6 +3777,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     Il KNYGA
     jais užvertė kelią.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2573,6 +3798,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     gal siekia normanų piratus, kūrusius Lietuvoje seniausias
     gyvenvietes IX-X amžiuje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2593,6 +3819,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     kunigaikščiu; pirmasis - Smolenske, antrasis pas totorių
     chaną ieškojo prieglobsčio16 * .
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2610,6 +3837,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     pridėjo kitas žemes, jų tarpe — Lucką, kuris vos neseniai, t. y.
     tų pačių metų bal. mėn.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2635,6 +3863,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     sustojo ant dviejų priešpriešinių kal­
     nų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2658,6 +3887,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     niaus pilį laikinai užėmė Švitrigailai, aukštutinę tvirtovę Nar­
     butas užgrobė naktį26.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2679,6 +3909,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     anksčiau prieš šį Gediminaitį įžengęs į grabą, per 30 metų dėjo
     dideles pastangas ordinui laimėti bent Žemaičius.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2697,6 +3928,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     priartėjo prie Vilniaus. Rugpjūčio 7 d. po aršių kautynių priešas
     užėmė Lietuvos sostinę, netrukus buvo užimti Trakai ir Kaunas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2710,6 +3942,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     tvirtovę « Tavan’ » (šv. Jono pilį)^21. Berods, to žygio metu paim­
     tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2754,6 +3987,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     miems, surašyta Petro Opalinskio, Poznanės kustodo, ran­
     ka, kuriam šis reikalas buvo pavestas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2774,6 +4008,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     Lietuvos totoriai išlaikė savo mahometonišką tikėjimą ir papročius,
     kai tuo tarpu Lenkijoje jie buvo sukrikščioninti ir sulenkinti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2794,6 +4029,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     Trakus. Po kelių dienų apgulos, sutikęs smarkų pasi­
     priešinimą, griebėsi kito sumanymo.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2818,6 +4054,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     lyse stiprias vokiečių įgulas, aprūpintas viskuo, kas
     reikalinga.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2838,6 +4075,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     šie netrukdytų paskelbti Boleslovą Lietuvos didžiuoju
     kunigaikščiu.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2865,6 +4103,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     Breste ir Radome
     tremtinys ir beveik belaisvis.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2890,6 +4129,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     nius žadėjo karaliui taiką ir
     pagalbą, jeigu šis neleis Šich Achmetui pasprukti.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2910,6 +4150,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     lavu, buvo jam duotas Jurgio vardas, o kai priėmė len­
     kų tikėjimo krikštą, jam davė Aleksandro vardą2 7 .
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2929,6 +4170,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     siuntė savo seniūną iš Lenkijos.
     31.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2958,6 +4200,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     tučiu, kad jie, šiaip ar taip, turi užimti Vilnių ir Jau­
     nutį išvyti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2979,11 +4222,1572 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     Trakų, aš pats irgi buvau ten su savo tėvu kunigaikš­
     čiu Kęstučiu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-090
+
+- c-071
+  santrauka: 'Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuva tuo metu jau
+    turėjo sostinę, nuo Gedimino prasidėjo sosto paveldėjimo tradicija, mūro
+    civilizacijos ištakos. Valdant Gediminui ar jo sūnui Algirdui buvo sukurta
+    visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai,
+    Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys. Lietuva tapo
+    politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung-
+    tos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje
+    buvę Voluinė ir Haličas, Kijevas, Pskovas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-091
+
+- c-072
+  santrauka: 'Vytautas perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine, Naugarduke ir Lucke.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos gotikinės architektūros ypatumas – gynybinis pobūdis:
+    net ir sakraliniai pastatai turėjo gynybinius bokštus ar šaunamąsias an-
+    gas – Vytauto laikais daugiausia statyta būtent gynybinių statinių. Vytautas
+    perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine,
+    Naugarduke ir Lucke. Trakų salos pilies menė su gotikiniais kryžminiais
+    skliautais rodo, kad gotika buvo atėjusi ir į gynybinę architektūrą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-092
+
+## Citatos
+
+- id: c-25149
+  citata_originali: |
+    Vytautas Didysis, ėmęs valdyti Lietuvą, taip pat pasidarė
+    didelis žemvaldys, paveldėdamas didž. kunigaikščiui priklau­
+    sančias žemes ir jų dvarus. Jo laikais tokių dvarų - ūkio centrų
+    gausiai buvo pačioje Lietuvoje—Vilniaus, Trakų ir iš dalies Že­
+    maičių žemėse, ir Volynijoje bei Podolijoje, nes tai buvo labiau
+    apgyventos vietos; be to, Trakų ir Vilniaus žemės buvo taip pat
+    arčiau didž. Lietuvos kunigaikščio būstinės.
+  citata_rodoma: "kunigaikščiui priklau­\nsančias žemes ir jų dvarus. Jo laikais tokių dvarų - ūkio centrų\ngausiai buvo pačioje Lietuvoje—Vilniaus, Trakų ir iš dalies Že­\nmaičių žemėse, ir Volynijoje bei Podolijoje, nes tai buvo labiau\napgyventos vietos; be to, Trakų ir Vilniaus žemės buvo taip pat\narčiau didž. Lietuvos kunigaikščio būstinės."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180657
+
+- id: c-32467
+  citata_originali: |
+    Ordino maršalo vadovaujama kariuomenė, pasidalinusi į tris
+    grupes, (1377.II.) teriojo Aukštaičius. Wigando žodžiais, maršalas
+    buvęs atvykęs prie Trakų ir turėjęs pasikalbėjimą su pačiu Kęstu­
+    čiu, kuris atsisveikindamas maršalui padavęs ranką.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180612
+
+- id: c-32468
+  citata_originali: |
+    Jogailos ir kryžiuočių kariuomenėms apgulus Trakų pilį^16 ,
+    Skirgailai pasisekė įgulą įtikinti pasiduoti (VII.20). Visas savo
+    bombardas palikę Jogailai, kryžiuočiai «linksmi ir sveiki grįžo
+    namo »^17.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180585
+
+- id: c-32471
+  citata_originali: |
+    Bet ir Trakai greit buvo
+    prarasti. Vytauto ir kryžiuočių įgula ten turėjo pasiduoti Jogailai
+    ir Skirgailai (XI.3) po 40 dienų trukusio apgulimo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180649
+
+- id: c-32475
+  citata_originali: |
+    Su nepasitikėjimu priimtas Marienburge (1412.XII.), vykdamas
+    per Ragainę ir Kauną, Makra Kalėdoms jau buvo pas Vytautą
+    — jo puošnioje salos pilyje Trakuose^9.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180626
+
+- id: c-37760
+  citata_originali: |
+    Atvykęs su tuo būriu prie Trakų, Kęstutis ten jau
+    rado savo sūnų Vytautą, kuris buvo atsivedęs kariuomenės bū­
+    rį iš Gardino. Prie jųdviejų prisidėjo dar ir Algirdo sūnus Liu­
+    bartas.
+    Jogailos ir Kęstučio kariuomenės 1382 metų rugpiūčio mėn.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180631
+
+- id: c-164183
+  citata_originali: |
+    Surinkęs Žemaičiuose gausų būrį kovotojų (yra minimi 3.000),
+    Kęstutaitis kartu su magistru Zollneriu traukė per Lietuvą prie
+    Skirgailos valdomų Trakų. Jie Vytautui greit pasidavė (1383.VIII.
+    12), nes Trakuose buvo jo šalininkų.
+  citata_rodoma: "000),\nKęstutaitis kartu su magistru Zollneriu traukė per Lietuvą prie\nSkirgailos valdomų Trakų. Jie Vytautui greit pasidavė (1383.VIII.\n12), nes Trakuose buvo jo šalininkų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180611
+    - t-180625
+    - t-180595
+
+- id: c-164185
+  citata_originali: |
+    Garbingosios
+    Mergelės Marijos gimimo dieną
+    (rugsėjo 8), dalyvaujant Jo Dideny­
+    bei ir pritariantiems: Vilniaus kašte­
+    lionui Aštikui, Vilniaus vaivadai
+    Daugirdui, Trakų vaivadai Le-
+    liušiul, Kęsgailai iš Deltuvos, Petraš­
+    kai Montgirdaičiui, Chodkai Jurge-
+    ovičiui, Ivaškai Goštautaičiui,
+    Olechnai Davainaičiui ir kilminga­
+    jam mūsų rūmų raštininkui, kuriam
+    dabartinis reikalas buvo patikėtas"
+    ir t. t. Panašiai 1436 m. tas pats Žy­
+    gimantas Vilniaus kapitulai padova­
+    nojo Vainelgų dvarą.
+    223
+
+    ## Puslapis 240
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    Žygimanto įpėdinis Kazimieras Jogailaitis, nors pašauk­
+    tas į Lenkijos sostą, vis dėlto nepanoro Didžiąją Kuni­
+    gaikštystę valdyti per vietininką. Pirmenybę teikdamas Lie­
+    tuvai, jis dažniausiai gyveno Trakuose arba Vilniuje.
+  citata_rodoma: "tas pats Žy­\ngimantas Vilniaus kapitulai padova­\nnojo Vainelgų dvarą.\n223\n\n## Puslapis 240\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nŽygimanto įpėdinis Kazimieras Jogailaitis, nors pašauk­\ntas į Lenkijos sostą, vis dėlto nepanoro Didžiąją Kuni­\ngaikštystę valdyti per vietininką. Pirmenybę teikdamas Lie­\ntuvai, jis dažniausiai gyveno Trakuose arba Vilniuje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180615
+
+- id: c-164186
+  citata_originali: |
+    Nuo 1397 pamečiui
+    šis atliko į totorius tris žygius. Atrodo, pritariant Jogailai, kuris
+    iš viso rūpestingai rėmė pusbrolio rytų planus, Vytautas (1397)
+    suruošė didelį žygį prie Juodosios jūros ir Kryman 19 20, kuris tada
+    totorių gyvenime vaidino svarbią rolę. Atsigabenęs iš žygio daug
+    totorių belaisvių ir pabėgėlių, kurių pusę atidavė Jogailai, juos
+    Vytautas įkurdino Trakų kunigaikštijoje.
+  citata_rodoma: "Atsigabenęs iš žygio daug\ntotorių belaisvių ir pabėgėlių, kurių pusę atidavė Jogailai, juos\nVytautas įkurdino Trakų kunigaikštijoje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180671
+
+- id: c-164187
+  citata_originali: |
+    Iš tikrųjų
+    tai daryti jį vertė krašto nesutarimai ir Lietuvos bajorų ne­
+    santaika, o dar labiau traukė prisirišimas prie gimtosios že­
+    mės ir lengvai patenkinamas aistringas jo pomėgis medžiok­
+    lei, kuriai atsiduodavo, pamiršdamas net ir oficialius
+    reikalus29. Visa tai Vilniui teikė nemažai naudos, nors čia di­
+    dysis kunigaikštis ir negyveno nuolat, nes Trakų pilyse turė­
+    jo ištaigingesnę buveinę. Tačiau dėl gyvenančių pasiturin­
+    čiųjų ir taikos šalyje buvo atstatomi sunykę pastatai, gyvėjo
+    prekyba, o dėl suteiktų laisvių miestiečiams gausėjo žmonių
+    skaičius.
+  citata_rodoma: "Visa tai Vilniui teikė nemažai naudos, nors čia di­\ndysis kunigaikštis ir negyveno nuolat, nes Trakų pilyse turė­\njo ištaigingesnę buveinę. Tačiau dėl gyvenančių pasiturin­\nčiųjų ir taikos šalyje buvo atstatomi sunykę pastatai, gyvėjo\nprekyba, o dėl suteiktų laisvių miestiečiams gausėjo žmonių\nskaičius."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180609
+    - t-180641
+
+- id: c-164188
+  citata_originali: |
+    Toliau planavo pulti Trakų -
+    Vilniaus kryptimi.
+
+    Lietuvos didysis kunigaikštis Žygi-
+    mantas Kęstutaitis, sukaupęs „kiek galėjo
+    didžiausias lietuvių jėgas“, gavęs prašytos
+    pagalbos iš Lenkijos karaliaus Vladislovo
+    Jogailaičio, ėjo į Trakus. Tolesniam žygiui
+
+    68 PABAISKO (UKMERGĖS) MUSIS 1435 m. rugsėjo 1 d.
+  citata_rodoma: "Toliau planavo pulti Trakų -\nVilniaus kryptimi.\n\nLietuvos didysis kunigaikštis Žygi-\nmantas Kęstutaitis, sukaupęs „kiek galėjo\ndidžiausias lietuvių jėgas“, gavęs prašytos\npagalbos iš Lenkijos karaliaus Vladislovo\nJogailaičio, ėjo į Trakus. Tolesniam žygiui\n\n68 PABAISKO (UKMERGĖS) MUSIS 1435 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180643
+    - t-180628
+
+- id: c-164189
+  citata_originali: |
+    Galingesni vasalai grasino suvaržyti didžiojo ku­
+    nigaikščio valdžią, tad Jogailai kilo mintis visus tiesio­
+    giai valdomus lenus sujungti į vieną valstybę ir, tuo vėlei
+    susilpninus feodalizmą, ateičiai pakloti vienvaldystės pa­
+    grindus. Siekiant didelės valdžios jam labiausiai trukdė se­
+    nasis Kęstutis - ir dėdės autoritetu, ir mūšiuose pelnyta šlo­
+    ve, o juolab griežtu ir nepalenkiamu būdu, todėl Jogaila visas
+    jėgas sutelkė pirmiausia nusikratyti dėde, kaip artimiausiu,
+    nes Trakuose gyvenusiu, kaimynu. Nuo tos akimirkos užvi­
+    rė dvejus metus trukusi kova, ir Vilniui šio vidaus karo
+    27
+    Jogaila (Jagiełło) lietuviškai iš tiesų
+    buvo vadinamas Jagajłło, ir doku­
+    mentuose lotyniškai būdavo rašoma:
+    Jagail, arba Jagal, Dei gratia rex in Let-
+    tovia [Jogaila, arba Jagėla, Dievo ma­
+    lone lietuvių karalius].
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180622
+    - t-180603
+
+- id: c-164190
+  citata_originali: |
+    48
+
+    ## Puslapis 65
+
+    I  KNYGA
+    Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­
+    čius' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­
+    dami įvykį, kuris galėjo būti tam vada. Anot jų, Gediminas,
+    po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­
+    dangino su visu guotu į Šventaragio slėnį, už keturių mylių
+    nuo Trakų, kur Vilnios upė įteka į Viliją. „Tad tenai Gedimi­
+    nas (Strijkovskio žodžiai), prie pasakojimais apipintų ugnia­
+    kurų, girioje tarpu kalnų, kuriuos dabar Plikaisiais vadina,
+    medžiodamas, be daugybės kitų žvėrių, pats strėle iš kilpi­
+    nės pašovė didžiulį taurą ir pribaigė jį ant to kalno, kur dabar
+    Vilniaus Aukštutinė pilis - pastarąjį kalną ir dabar Tauro kal­
+    nu vadina, o to tauro kailį ir ragus, auksu aptaisytus, su ver­
+    tingomis brangenybėmis ilgai ižde saugojo, net iki Vytauto
+    laikų, o Vytautas, kuris paprastai dideliuose susiėjimuose ir
+    svetimšalių pasiuntinių priėmimuose iš tų ragų gerdavo, vie­
+    ną jų tad kaip didžią dovaną kartą garbingame valdovų ir
+    kunigaikščių suvažiavime Lucke 1429 metais įteikė Romos
+    imperatoriui Vengrijos karaliui Zigmantui/7  ir t. t. Gedimi­
+    nas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne
+    regėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­
+    vęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų.
+  citata_rodoma: "48\n\n## Puslapis 65\n\nI  KNYGA\nStrijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­\nčius' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­\ndami įvykį, kuris galėjo būti tam vada. Anot jų, Gediminas, \npo Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­\ndangino su visu guotu į Šventaragio slėnį, už keturių mylių \nnuo Trakų, kur Vilnios upė įteka į Viliją. „Tad tenai Gedimi­\nnas (Strijkovskio žodžiai), prie pasakojimais apipintų ugnia­\nkurų, girioje tarpu kalnų, kuriuos dabar Plikaisiais vadina, \nmedžiodamas, be daugybės kitų žvėrių, pats strėle iš kilpi­\nnės pašovė didžiulį taurą ir pribaigė jį ant to kalno, kur dabar \nVilniaus Aukštutinė pilis - pastarąjį kalną ir dabar Tauro kal­\nnu vadina, o to tauro kailį ir ragus, auksu aptaisytus, su ver­\ntingomis brangenybėmis ilgai ižde saugojo, net iki Vytauto \nlaikų, o Vytautas, kuris paprastai dideliuose susiėjimuose ir \nsvetimšalių pasiuntinių priėmimuose iš tų ragų gerdavo, vie­\nną jų tad kaip didžią dovaną kartą garbingame valdovų ir \nkunigaikščių suvažiavime Lucke 1429 metais įteikė Romos \nimperatoriui Vengrijos karaliui Zigmantui/7  ir t."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180608
+    - t-180589
+
+- id: c-164191
+  citata_originali: |
+    (^244) II skyrius: valstybės iškilimas
+    gaikštijos gyventojams, kai religinis priklausomumas politikoje
+    ėmė vaidinti svarbią rolę, kliudė rytinėse žemėse išlaikyti Vilniaus
+    dvaro atstovaujamą valstybingumą (Eigenstaatlichkeit).
+    Gediminas stiprino Lietuvą, statydamas joje naujų pilių, tapu­
+    sių administracijos centrais. XVI amž. plačioji Lietuvos metraščio
+    redakcija mini įkūrimą išgarsėjusios Trakų pilies, 5 mylios atstu nuo
+    Kernavės, toje girios vietoje, kur Gediminas primedžiojęs daug
+    žvėrienos.
+  citata_rodoma: "Gediminas stiprino Lietuvą, statydamas joje naujų pilių, tapu­\nsių administracijos centrais. XVI amž. plačioji Lietuvos metraščio\nredakcija mini įkūrimą išgarsėjusios Trakų pilies, 5 mylios atstu nuo\nKernavės, toje girios vietoje, kur Gediminas primedžiojęs daug\nžvėrienos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180627
+    - t-180666
+
+- id: c-164193
+  citata_originali: |
+    Supažindiname šiuo dabartiniu mūsų raštu, kam
+    apie tai dera žinoti, visiems dabar skaitysiantiems ir ateityje
+    kam žinoti reikėtų, kaip mūsų ir mūsų patarėjų akivaizdoje
+    stoję mūsų valdiniai žydai iš Trakų savo ir kitų žydų, ten
+    gyvenančių, vardu vieną privilegiją su titulu ir antspaudu
+    šviesiausiojo kunigaikščio viešpaties ir pono Aleksandro, ar­
+    ba Vytauto, Lietuvos kunigaikščio ir paveldėtojo Gardine,
+    Brastoje, Drohičine, Lucke, Vladimire ir kitose žemėse,
+    prašydami, kad mes teises, laisves ir kitus jiems anoje privile­
+    gijoje priklausančius dalykus patvirtinti, sustiprinti ir su­
+    tvirtinti teiktumės, o tos privilegijos reikalai tokiais žodžiais
+    turi būti parašyti: Viešpaties vardu Amen. Kadangi žmonių
+    padermės reikalai, jeigu nėra paaiškinami liudytojų balsais
+    arba raštu nepatvirtinami, greitai sunyksta ir sykiu iš atmin­
+    ties pasitraukia, dėl to mes, Aleksandras, arba Vytautas, Die­
+    vo malone Lietuvos kunigaikštis, paveldėtojas Gardine, Bras­
+    toje, Drohičine, T  /ucke, Vladimire ir kitose žemėse, skelbiame
+    -- • --
+    194
+
+    ## Puslapis 211
+
+    Il KNYGA
+    tiek dabar gyvenantiems, tiek ateityje, kuriuos žinios pasieks
+    apie šį raštą, kad mūsų žydams mūsų mieste Trakuose jų
+    lengvatas ir privilegijas, kurias iš mūsų gavo, žodis žodin
+    tai, ką mes jiems leidome ir davėme, kaip ir Liumburge turi
+    nuo žydų, taip ir šiuo raštu būtų garantuota, iškart įsakėme
+    išaiškinti ir parašyti. Tad visų pirmiausia skelbiame, kad dėl
+    pinigų už kilnojamąjį arba nekilnojamąjį turtą arba krimina­
+    linėje byloje, kuri būtų susijusi su žydų tautybės asmeniu,
+    joks krikščionis prieš žydą, nebent su krikščionimi ir su žy­
+    du būtų prileistas liudyti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180637
+
+- id: c-164195
+  citata_originali: |
+    Visas savo
+    bombardas palikę Jogailai, kryžiuočiai «linksmi ir sveiki grįžo
+    namo »^17. Kai Kęstutis su Vytautu, pasitelkę seną Liubartą, su
+    savo kariuomene VIII.3 d. atvyko prie Trakų, Jogailos pusėje jau
+    buvo pasirodę Livonijos kryžiuočiai, atvykę čia po Žemaičių terio-
+    jimo^18.
+  citata_rodoma: "Kai Kęstutis su Vytautu, pasitelkę seną Liubartą, su\nsavo kariuomene VIII.3 d. atvyko prie Trakų, Jogailos pusėje jau\nbuvo pasirodę Livonijos kryžiuočiai, atvykę čia po Žemaičių terio-\njimo^18."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180600
+    - t-180668
+    - t-180645
+
+- id: c-164196
+  citata_originali: |
+    Todėl čia greit išaugo didelis miestas, kurs tapo amžinąja
+    Lietuvos sostine. Netoli Vilniaus, sunkiai prieinamame Galvės
+    ežero pusiasaly, Gediminas pastatė dar kitą tvirtą pilį, kuri ilgą
+    laiką buvo tarytum antroji Lietuvos sostinė, — tai Trakai. Jo
+    sūnus [[Kęstutis]] vėliau pastatė kitą didingą mūro pilį to paties
+    ežero saloje.
+  citata_rodoma: "Netoli Vilniaus, sunkiai prieinamame Galvės\nežero pusiasaly, Gediminas pastatė dar kitą tvirtą pilį, kuri ilgą\nlaiką buvo tarytum antroji Lietuvos sostinė, — tai Trakai. Jo\nsūnus [[Kęstutis]] vėliau pastatė kitą didingą mūro pilį to paties\nežero saloje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180587
+
+- id: c-164197
+  citata_originali: |
+    —  • —
+    215
+
+    ## Puslapis 232
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    priekyje skubiai ir slapčiomis nužygiavęs į Ašmeną, apie
+    rugpjūčio 28-ą įžūliai įsiveržė į Švitrigailos dvarą15, bet ten
+    jo jau nerado, nes šis, ką tik įspėtas Trakų vaivados Manvy-
+    do, lydimas kelių totorių vadų, išsigelbėjo pabėgdamas. Žy­
+    gimantas tučtuojau užėmė Vilnių ir Trakus16, taigi Vilnius
+    dėl šių staigių permainų ir abipusių karinių gaudynių, atro­
+    do, bus vėl patyręs nesėkmių. Mat nemaža miesto dalis su-
+    15
+    Nors Kotzebue loco cit. pasakoja,
+    kad tai įvykę tarp rugpjūčio 14 ir 28
+    dienos, tačiau tai negalėjo įvykti
+    anksčiau, nebent prieš pat 28-ą;
+    Slaptajame archyve yra didžiojo ku­
+    nigaikščio Boleslovo Švitrigailos
+    pavedimas didžiajam magistrui su
+    antspaudais su juo sudarytoms su­
+    tartims antspauduoti, datuota dar
+    1432 metų rugpjūčio 13 dieną iš Ker­
+    navės.
+  citata_rodoma: "—  • —  \n215\n\n## Puslapis 232\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\npriekyje skubiai ir slapčiomis nužygiavęs į Ašmeną, apie \nrugpjūčio 28-ą įžūliai įsiveržė į Švitrigailos dvarą15, bet ten \njo jau nerado, nes šis, ką tik įspėtas Trakų vaivados Manvy- \ndo, lydimas kelių totorių vadų, išsigelbėjo pabėgdamas. Žy­\ngimantas tučtuojau užėmė Vilnių ir Trakus16, taigi Vilnius \ndėl šių staigių permainų ir abipusių karinių gaudynių, atro­\ndo, bus vėl patyręs nesėkmių. Mat nemaža miesto dalis su-\n15\nNors Kotzebue loco cit."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180669
+    - t-180653
+
+- id: c-164198
+  citata_originali: |
+    |
+    | Kovo mėnesį vieną dieną pradėta organizuoti rinktinė iš Kauno ir Aukštosios Panemunės |
+    | įgulų puolančiam priešui atremti. Pagrindinė priešo vora slinko iš Vilniaus pro Trakus, |
+    | Aukštadvarį ir pasiekė Jiezną. Į rinktinę buvo priimami tik tie savanoriai, kurie turėjo bent |
+    | šiek tiek pakenčiamus batus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180594
+    - t-180644
+
+- id: c-164199
+  citata_originali: |
+    Sąmokslininkai 1432 m. rugpjūčio
+    31 d. naktį užpuolė Švitrigailą Ašmenos
+    dvare, kai jis vyko į derybas su lenkais
+    Lietuvos Brastoje. Švitrigaila spėjo pabėgti
+    į Polocką.
+
+    Lietuvos metraščio liudijimu, „Lietuva
+    pasodino didįjį kunigaikštį Žygimantą
+    Kęstutaitį didžiojoje kunigaikštystėje
+    Vilniuje ir Trakuose rugsėjo 1 d.“ Greitai
+
+    ## Puslapis 69
+
+    Žygimanto Kęstutaičio val- Po pralaimėjimo Lietuvai yr A \ Vidinė politinė kova Lietuvoje nurimo soste įsitvirtinus 1440 m.
+  citata_rodoma: "Švitrigaila spėjo pabėgti\nį Polocką.\n\nLietuvos metraščio liudijimu, „Lietuva\npasodino didįjį kunigaikštį Žygimantą\nKęstutaitį didžiojoje kunigaikštystėje\nVilniuje ir Trakuose rugsėjo 1 d.“ Greitai\n\n## Puslapis 69\n\nŽygimanto Kęstutaičio val- Po pralaimėjimo Lietuvai yr A \\ Vidinė politinė kova Lietuvoje nurimo soste įsitvirtinus 1440 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180656
+
+- id: c-164200
+  citata_originali: |
+    III KNYGA
+    Iki tol (1492 m.) didžiųjų Lietuvos kunigaikščių Vilniui
+    duoti dovanojimai buvo ne tik patvirtinti karaliaus Alek­
+    sandro, Kazimiero įpėdinio, bet dar pasipildė naujais, tu­
+    rėjusiais gerokai pagyvinti prekybą ir pagerinti šio miesto
+    gyventojų buitį. Ta pačia privilegija, kuria Vilniui buvo
+    duotos Magdeburgo teisės (Trakuose, 1492 m.), Aleksan­
+    dras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo
+    metu vadintą Zabójnica (žudike), panaikindamas visas pri­
+    vačias, išskyrus Karališkąją, Vyskupo ir Vaivadų bei Mal­
+    mazijos ir kitų bet kokios rūšies vynų propinaciją40. Jo įsa­
+    kymu, buvo kuo rūpestingiausiai garantuojama laisva
+    laivyba Vilija nuo Vilniaus iki Kauno ir atgal visiems Vil­
+    niaus miestiečių laivams su prekėmis, o keliantis perkėla
+    visur atleidžiama nuo bet kokių mokesčių41.
+  citata_rodoma: "Ta pačia privilegija, kuria Vilniui buvo\nduotos Magdeburgo teisės (Trakuose, 1492 m.), Aleksan­\ndras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo\nmetu vadintą Zabójnica (žudike), panaikindamas visas pri­\nvačias, išskyrus Karališkąją, Vyskupo ir Vaivadų bei Mal­\nmazijos ir kitų bet kokios rūšies vynų propinaciją40. Jo įsa­\nkymu, buvo kuo rūpestingiausiai garantuojama laisva\nlaivyba Vilija nuo Vilniaus iki Kauno ir atgal visiems Vil­\nniaus miestiečių laivams su prekėmis, o keliantis perkėla\nvisur atleidžiama nuo bet kokių mokesčių41."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180629
+    - t-180605
+
+- id: c-164201
+  citata_originali: |
+    Il KNYGA
+    15. Jurgis Radvila, Olykos ir Nesvyžiaus kunigaikštis, kar­
+    dinolas, dviejų popiežių - Inocento IX ir Klemenso VIII elek-
+    torius, pirma Vilniaus, o paskučiausiai Krokuvos vyskupas,
+    baigė dievobaimingo gyvenimo dienas Romoje, 1600 me­
+    tais.
+
+    ## Puslapis 210
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    V
+    PRIVILEGIJA, SUTEIKTA DIDŽIOJO LIETUVOS
+    KUNIGAIKŠČIO ALEKSANDRO VYTAUTO 1388 METŲ
+    VIEŠPATIES GIMIMO DIENĄ LUCKE TRAKŲ ŽYDAMS, O
+    ŽYGIMANTO SENOJO PATVIRTINTA MELNIKE 1507 METAIS,
+    PIRMADIENI, PRIEŠ TRIS KARALIUS
+    Viešpaties vardu Amen.
+  citata_rodoma: "Jurgis Radvila, Olykos ir Nesvyžiaus kunigaikštis, kar­\ndinolas, dviejų popiežių - Inocento IX ir Klemenso VIII elek- \ntorius, pirma Vilniaus, o paskučiausiai Krokuvos vyskupas, \nbaigė dievobaimingo gyvenimo dienas Romoje, 1600 me­\ntais.\n\n## Puslapis 210\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nV\nPRIVILEGIJA, SUTEIKTA DIDŽIOJO LIETUVOS \nKUNIGAIKŠČIO ALEKSANDRO VYTAUTO 1388 METŲ \nVIEŠPATIES GIMIMO DIENĄ LUCKE TRAKŲ ŽYDAMS, O \nŽYGIMANTO SENOJO PATVIRTINTA MELNIKE 1507 METAIS, \nPIRMADIENI, PRIEŠ TRIS KARALIUS\nViešpaties vardu Amen."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180660
+
+- id: c-164203
+  citata_originali: |
+    **Ukmergės mūšis** (1435 **m.).** Švitrigaila daug kartų puolė
+    Zigmantą ir kartą net pasiekė Vilnių ir Trakus, tačiau vis
+    nieko nelaimėdavo. 1435 m. jis sukvietė visus savo sąjungininkus
+    — Livonijos ordiną, totorius, rusų kunigaikščius — ir išsiruošė
+    į didelį žygį.
+  citata_rodoma: ").** Švitrigaila daug kartų puolė\nZigmantą ir kartą net pasiekė Vilnių ir Trakus, tačiau vis\nnieko nelaimėdavo. 1435 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180642
+
+- id: c-164204
+  citata_originali: |
+    Trumpas Aleksandro valdymas, gana nesėkmingas Lie­
+    tuvai, nuo kurios visiems laikams buvo atplėšta tiek žemių,
+    jos sostinei tam tikru atžvilgiu buvo naudingas. Beveik visą
+    amžių Lietuvos valdovai, retai kada tegyvendavo Žemuti­
+    nėje Vilniaus pilyje, nes, kelissyk įbauginti kryžiuočių ant­
+    puolių, pirmenybę teikė nuošaliai, bet patogiai ir saugiai,
+    ežerų apsuptai Trakų piliai. Nuo 1400 metų, ištisą šimtmetį,
+    Trakuose Vytautas, Žygimantas ir Kazimieras svarstė lem-
+    tingiausius Lietuvos reikalus ir ten sprendė plačios savo vals­
+    tybės reikalus, nors Vilnius visada buvo Didžiosios Kuni­
+    gaikštystės sostinė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180592
+    - t-180621
+
+- id: c-164206
+  citata_originali: |
+    Siena nuo Livonijos iki Ne­
+    vėžio šaltinių turėjo eiti tiesia linija, bet žemupyje ji buvo taip
+    išvesta, kad Kaunas ir Rumšiškių plotas turėjo patekti ordinui^22.
+    O savo atgausimą tėviškę Trakus, Gardiną ir kitas žemes Vytautas
+    turėjo valdyti kaip ordino vasalas.
+    Gavus naujus Vytauto pažadus, ordinui reikėjo tik juos įgy­
+    vendinti.
+  citata_rodoma: "O savo atgausimą tėviškę Trakus, Gardiną ir kitas žemes Vytautas\nturėjo valdyti kaip ordino vasalas.\nGavus naujus Vytauto pažadus, ordinui reikėjo tik juos įgy­\nvendinti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180667
+    - t-180636
+
+- id: c-164207
+  citata_originali: |
+    Tuo tarpu karalius, regėdamas didįjį kunigaikštį kasdien
+    silpstantį ir būdamas tikras, kad šis jau galutinai atsisakė
+    savo sumanymo, aukštuosius didikus iš savo tarybos išsiun­
+    tė atgal į Lenkiją, kad jam netrukdytų Vytauto mirties atve­
+    ju. Mirtis ta galop ištiko 1430 metų spalio 30 dieną Trakuose,
+    gedint visai Lietuvai ir net lenkams, kuriuos tiek kartų vedė
+    į pergalingo mūšio lauką, kurių karalių tvirtu petimi parėmė
+    ir apsaugojo. Vytauto palaikai buvo atvežti į Vilnių ir iškil­
+    mingai palaidoti85.
+  citata_rodoma: "Mirtis ta galop ištiko 1430 metų spalio 30 dieną Trakuose,\ngedint visai Lietuvai ir net lenkams, kuriuos tiek kartų vedė\nį pergalingo mūšio lauką, kurių karalių tvirtu petimi parėmė\nir apsaugojo. Vytauto palaikai buvo atvežti į Vilnių ir iškil­\nmingai palaidoti85."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180618
+    - t-180614
+
+- id: c-164208
+  citata_originali: |
+    Gediminas
+    trumpam buvo ją padaręs savo sos­
+    tinės pilimi, ir tik Kęstutis bei jo sū­
+    nus Vytautas išplėtė ir pritaikė nuo­
+    latinei buveinei, paversdami galingų
+    kunigaikščių garbei derančia. Vieno­
+    je Vytauto privilegijoje, suteiktoje
+    Trakams, rašytoje pod lita Bożeho na-
+    roienia 1384, mca Augusta 23 dnia In-
+    dykta, skaitome, kad Trakai jau tuo­
+    met, tai yra prieš krikščionybės
+    įvedimą Lietuvoje, buvo ganėtinai
+    svarbus Lietuvos miestas, kad ten
+    jau būta krikščionių bažnyčių, ir kad
+    už ežero, skalaujančio pilį, vadina­
+    mo Galve, buvęs kunigaikščio žvė­
+    rynas.
+    51
+
+    ## Puslapis 68
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    nebūtų nuo tiesos nutolta, jeigu Vilnius, tokios palankios
+    gamtos aplinkumoje stovėdamas, prie seniausių Lietuvos
+    tvirtovių būtų priskirtas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180610
+    - t-180593
+
+- id: c-164209
+  citata_originali: |
+    Net pirkliai negalėjo jaustis saugūs dėl
+    jo nežaboto gobšumo, ir Vilnius ėmė vis labiau smukti. Į
+    sostinę neatvykdavo jokių turtuolių, prekyba visai sumen­
+    ko, nes vokiečių ir rusų pirkliai, įbauginti laukinio Žygiman­
+    to neteisingumo, jau negalėjo Vytauto sostinėje tikėtis seno­
+    jo saugumo, o Vilniaus miestiečiai, nuskurdinti nuolatinių
+    karų, išsekinti mokesčių, neturėjo jokių galimybių keistis pre­
+    kėmis su svetimšaliais. Tik Trakų pilis, apsupta ežerų, išties
+    buvo vienintelė didžiojo kunigaikščio buveinė ir sostinė, iš
+    kurios jo grėsmingi įsakymai, sklisdami po visą Lietuvą ir
+    rusų žemes, kėlė baimę diduomenei ir riteriams, turtuoliams
+    ir vargšams, o ten link besiartinantis koks nors kunigaikštis,
+    23 24
+    Kojałowicz, IV.
+  citata_rodoma: "Tik Trakų pilis, apsupta ežerų, išties\nbuvo vienintelė didžiojo kunigaikščio buveinė ir sostinė, iš\nkurios jo grėsmingi įsakymai, sklisdami po visą Lietuvą ir\nrusų žemes, kėlė baimę diduomenei ir riteriams, turtuoliams\nir vargšams, o ten link besiartinantis koks nors kunigaikštis,\n23 24\nKojałowicz, IV."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180651
+    - t-180632
+
+- id: c-164210
+  citata_originali: |
+    Be to, dar nerimą kėlė Gedimino valia ra­
+    dęsis itin didelis dalinių valdų išskaidymas į smulkias, dėl
+    ko apsilpo krašto galia, kuo mokėjo pasinaudoti Ordino
+    riteriai, gviešęsi grobio ir valdžios. Kivirčai tarp brolių da­
+    vė pradžią slaptoms, bet sumaniai parengtoms sutartims
+    siekiant nuversti nuo sosto Jaunutį. Kęstutis iš Trakų, savo
+    valdos sostinės, turėjęs geriausių galimybių stebėti visus
+    brolio žingsnius, staiga 1345 m. lapkričio 22 dieną su stip­
+    riu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­
+    nigaikščio buveinę.
+  citata_rodoma: "Kivirčai tarp brolių da­\nvė pradžią slaptoms, bet sumaniai parengtoms sutartims \nsiekiant nuversti nuo sosto Jaunutį. Kęstutis iš Trakų, savo \nvaldos sostinės, turėjęs geriausių galimybių stebėti visus \nbrolio žingsnius, staiga 1345 m. lapkričio 22 dieną su stip­\nriu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­\nnigaikščio buveinę."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180584
+
+- id: c-164212
+  citata_originali: |
+    Trakų pilis, reikia many­
+    ti, taip pat yra buvusi sena, galbūt
+    dar prieš Gediminą, gynybinė ir me­
+    džiotojų gyvenvietė. Gediminas
+    trumpam buvo ją padaręs savo sos­
+    tinės pilimi, ir tik Kęstutis bei jo sū­
+    nus Vytautas išplėtė ir pritaikė nuo­
+    latinei buveinei, paversdami galingų
+    kunigaikščių garbei derančia. Vieno­
+    je Vytauto privilegijoje, suteiktoje
+    Trakams, rašytoje pod lita Bożeho na-
+    roienia 1384, mca Augusta 23 dnia In-
+    dykta, skaitome, kad Trakai jau tuo­
+    met, tai yra prieš krikščionybės
+    įvedimą Lietuvoje, buvo ganėtinai
+    svarbus Lietuvos miestas, kad ten
+    jau būta krikščionių bažnyčių, ir kad
+    už ežero, skalaujančio pilį, vadina­
+    mo Galve, buvęs kunigaikščio žvė­
+    rynas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180663
+
+- id: c-164214
+  citata_originali: |
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    priešinimasis, nei pagaliau Jogailos pasiskelbimas, kad per­
+    leidžiąs Lenkijos karūną Vytautui. Vytautas, vienintelio
+    troškimo apimtas, sukviečia pas save įžymiausius šiaurės
+    šalių kunigaikščius arba jų pasiuntinius, ketindamas jiems
+    dalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430
+    metais), kur didysis kunigaikštis paprastai gyvendavo di­
+    džiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­
+    gaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir
+    Riazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­
+    vos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­
+    nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
+    magistras, Mazovijos kunigaikščiai ir totorių chanai84.
+  citata_rodoma: "Vytautas, vienintelio \ntroškimo apimtas, sukviečia pas save įžymiausius šiaurės \nšalių kunigaikščius arba jų pasiuntinius, ketindamas jiems \ndalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430 \nmetais), kur didysis kunigaikštis paprastai gyvendavo di­\ndžiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­\ngaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir \nRiazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­\nvos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­\nnus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos \nmagistras, Mazovijos kunigaikščiai ir totorių chanai84."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180674
+    - t-180652
+
+- id: c-164215
+  citata_originali: |
+    Pra­
+    ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­
+    no didysis magistras pasiuntė užimti tą miestą Ordino
+    maršalą Gotfridą Lindeną kartu su arkikomtūru Redigeriu
+    Elneriu. 12 000 žmonių vedini, pakeliui sudeginę Trakų mies­
+    tą, kur dėl Kęstučio narsios gynybos pilių neįstengė užimti,
+    1377 metų birželio pabaigoje jie sustojo su visomis pajėgo­
+    mis prie Vilniaus. Ten anuomet su vaikais ir žmona buvo
+    senasis Algirdas.
+  citata_rodoma: "12 000 žmonių vedini, pakeliui sudeginę Trakų mies­\ntą, kur dėl Kęstučio narsios gynybos pilių neįstengė užimti,\n1377 metų birželio pabaigoje jie sustojo su visomis pajėgo­\nmis prie Vilniaus. Ten anuomet su vaikais ir žmona buvo\nsenasis Algirdas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180648
+    - t-180664
+
+- id: c-164217
+  citata_originali: |
+    Tos nepaliaujamos kovos yra labiausiai rišamos su Kęstučio
+    vardu. Žemaičiams jis nuolatos gelbėjo jų iš kartos į kartą einan­
+    čiuose karuose, dėl kurių visa vakarinė Lietuva buvo tapusi kasmet
+    įvairiose vietose atsiveriančia žaizda. O ir paties Kęstučio visos
+    valdos (dalis tikrosios Lietuvos su Trakais, Gardino žemė ir Pa­
+    lenkė), būdamos artimoje kaimynystėje su kryžiuočių valstybe,
+    niekada nebuvo saugios.
+  citata_rodoma: "O ir paties Kęstučio visos\nvaldos (dalis tikrosios Lietuvos su Trakais, Gardino žemė ir Pa­\nlenkė), būdamos artimoje kaimynystėje su kryžiuočių valstybe,\nniekada nebuvo saugios."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180662
+
+- id: c-164219
+  citata_originali: |
+    Tikė­
+    jimo bendrumas palenkė jų simpatijas Kęstučiui ir jie davė jam
+    9000 vyrų^1 ). Atvykęs su tuo būriu prie Trakų, Kęstutis ten jau
+    rado savo sūnų Vytautą, kuris buvo atsivedęs kariuomenės bū­
+    rį iš Gardino. Prie jųdviejų prisidėjo dar ir Algirdo sūnus Liu­
+    bartas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180630
+
+- id: c-164222
+  citata_originali: |
+    Suvažiavusių į karūnaciją svečių akivaiz-
+    doje iškilmingai priimdamas Jogailą su palydovais, jis nuvargo
+    ir, raitas jodamas su svečiais iš Vilniaus į Trakus, nukrito nuo
+    žirgo. Susitrenkęs nebegalėjo toliau joti, todėl važiavo žmonos
+    vežime. Nuvykęs į Trakus, atsigulė ir daugiau nebekėlė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180624
+
+- id: c-164223
+  citata_originali: |
+    Trakuose jo sušauktas seimas, turėjęs parengti pasku­
+    tinį smūgį Rusios ir Lietuvos bajorijai, paspartino tą kruviną
+    susidorojimą. 1440 metų balandį Žygimantas sąmokslininkų
+    buvo nužudytas Trakų pilyje, jo sūnus Mykolas ištremtas; tą
+    pačią akimirką, kai Vilniaus vaivada Daugirdas žemutinę Vil­
+    niaus pilį laikinai užėmė Švitrigailai, aukštutinę tvirtovę Nar­
+    butas užgrobė naktį26. Vis dėlto Žygimanto palaikai, iš Trakų
+    atvežti į Vilnių, buvo palaidoti didžiųjų Lietuvos kunigaikš­
+    čių kape, katedroje, atlikus įprastas laidojimo apeigas27.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180617
+
+- id: c-164224
+  citata_originali: |
+    Jono pilį)^21. Berods, to žygio metu paim­
+    tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.
+    Iš tų dviejų žygių trūksta smulkesnių versmių.
+  citata_rodoma: "Berods, to žygio metu paim­\ntieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.\nIš tų dviejų žygių trūksta smulkesnių versmių."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180599
+
+- id: c-164227
+  citata_originali: |
+    Tad
+    i
+    Yra žinoma, kad neatidūs mūsų kro­
+    nikininkai Trakų vardą iš medžio­
+    tojų lenkiško trok (pavarža, nešyklė -
+    vert.) kildina nepaisydami, kad tai
+    lietuvių miestas ir įkurtas nuo seno,
+    kai lietuviai dar ne tik jokių ryšių su
+    Lenkija nepalaikė, bet ją dažnai pul­
+    dinėdavo ir plėšikaudavo, tad jo var­
+    das turėtų būti lietuviškas. O juk
+    Troki yra sulenkintas žodis ir prigi­
+    jęs tik po krikščionybės įvedimo;
+    miestas iš tiesų turėjo lietuviškai būti
+    vadinamas - Trakas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180616
+
+- id: c-164228
+  citata_originali: |
+    Baigdami šį darbą norėtume dar išspręsti vieną klausimą,
+    būtent, kas atsitiko su tuo Lietuvos valstybės valdymo dualiz­
+    mu^2 ), geriau diarchija^3 ), t. y. dviejų asmenų valdymo sistema,
+    kuri buvo susidariusi Algirdo ir Kęstučio valdymo laikais, ka­
+    da Jogaila nuėjo į Lenkiją jos karalium, o Lietuvą pasiliko val­
+    dyti Vytautas? Tuo pačiu bus aptarta ir tų santykių forma,
+    kuri buvo susidariusi tarp Lietuvos ir Lenkijos, kad ir Vytau­
+    to laikais.
+    Mes žinom, kad Lietuvą savo laiku valdė du didžiuoju ku­
+    nigaikščiu: Algirdas Vilniuj, Trakuose Kęstutis.
+  citata_rodoma: "Mes žinom, kad Lietuvą savo laiku valdė du didžiuoju ku-\nnigaikščiu: Algirdas Vilniuj, Trakuose Kęstutis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180623
+
+- id: c-164229
+  citata_originali: |
+    Bet visai
+    kitaip buvo galvojama Lenkijoje.
+    Iš Vilniaus Vytautas su Jogaila išjojo X.17 d. į Trakus. Pa­
+    kelyje Vytautas nukrito nuo arklio ir į Trakus buvo nuvežtas jo
+    žmonos vežime.
+  citata_rodoma: "Iš Vilniaus Vytautas su Jogaila išjojo X.17 d. į Trakus. Pa­\nkelyje Vytautas nukrito nuo arklio ir į Trakus buvo nuvežtas jo\nžmonos vežime."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180672
+
+- id: c-164230
+  citata_originali: |
+    Kada 1379 metais liepos mėn. pabaigoje Kęstutis su Ordino
+    maršalu vyko Kaunan pasikeisti patekusiais nelaisvėn karei­
+    viais, Jogaila prašės leisti ir jam atsiųsti savo pasiuntinius į
+    tuos pasitarimus. Po trijų dienų sunkių derybų Trakuose bu­
+    vo pasirašyta (1379—IX—29) sutartis. Tai buvo pirmas XIV
+    amž. Lietuvos istorijoje parašytas lietuvių susitarimas su kry­
+    žiuočiais, bet šitas dokumentas buvo ir paskutinis, kurį pasira­
+    šė drauge Kęstutis ir Jogaila, dar bent formaliai veikdami iš­
+    vien.
+  citata_rodoma: "Po trijų dienų sunkių derybų Trakuose bu­\nvo pasirašyta (1379—IX—29) sutartis. Tai buvo pirmas XIV\namž."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180607
+
+- id: c-164232
+  citata_originali: |
+    Lietuvių kalboje
+    iki šiol girdime žmonių vartojamą
+    ^°dį „trakas", kuris reiškia lydimus,
+    ikusius iškirtus beržus - išnaikintas
+    beržynėlis! Trakų pilis, reikia many­
+    ti, taip pat yra buvusi sena, galbūt
+    dar prieš Gediminą, gynybinė ir me­
+    džiotojų gyvenvietė. Gediminas
+    trumpam buvo ją padaręs savo sos­
+    tinės pilimi, ir tik Kęstutis bei jo sū­
+    nus Vytautas išplėtė ir pritaikė nuo­
+    latinei buveinei, paversdami galingų
+    kunigaikščių garbei derančia.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180639
+
+- id: c-164233
+  citata_originali: |
+    Tuo pačiu bus aptarta ir tų santykių forma,
+    kuri buvo susidariusi tarp Lietuvos ir Lenkijos, kad ir Vytau­
+    to laikais.
+    Mes žinom, kad Lietuvą savo laiku valdė du didžiuoju ku­
+    nigaikščiu: Algirdas Vilniuj, Trakuose Kęstutis. Toks Lietu­
+    vos žemių dviejų kun. valdymas istorijoj vadinamas vienų is­
+    torikų dualizmu, kitų — diarchija nežuvo ir kai mirė Algirdas
+    (1377).
+  citata_rodoma: "Mes žinom, kad Lietuvą savo laiku valdė du didžiuoju ku­\nnigaikščiu: Algirdas Vilniuj, Trakuose Kęstutis. Toks Lietu­\nvos žemių dviejų kun."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180590
+    - t-180665
+
+- id: c-164238
+  citata_originali: |
+    223
+
+    ## Puslapis 240
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    Žygimanto įpėdinis Kazimieras Jogailaitis, nors pašauk­
+    tas į Lenkijos sostą, vis dėlto nepanoro Didžiąją Kuni­
+    gaikštystę valdyti per vietininką. Pirmenybę teikdamas Lie­
+    tuvai, jis dažniausiai gyveno Trakuose arba Vilniuje. Iš tikrųjų
+    tai daryti jį vertė krašto nesutarimai ir Lietuvos bajorų ne­
+    santaika, o dar labiau traukė prisirišimas prie gimtosios že­
+    mės ir lengvai patenkinamas aistringas jo pomėgis medžiok­
+    lei, kuriai atsiduodavo, pamiršdamas net ir oficialius
+    reikalus29.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180646
+
+- id: c-164239
+  citata_originali: |
+    Pats Vytautas užtat
+    Trakuose būna; jam tai didelį kelia nerimą ir, bijodamas
+    išdavystės, nori dar dvylika savaičių Trakuose išbūti. Prie
+    savęs Trakuose jis turi Manvydą ir seniūną ir su jais kas­
+    dien tariasi. Mano Petras negalėjo išsiteirauti apie Švitri­
+    gailos pasišalinimo priežastį: tepasakė man, kad Švitrigaila
+    su gausia kariauna, nemažais paramos pulkais ir dauge­
+    liu žmonių patraukė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180673
+
+- id: c-164243
+  citata_originali: |
+    Tad 1505 metais, kai tie barbarai buvo mažumėlę
+    aprimę, karalius savo sprendimu atleido Vilniaus gyvento­
+    jus nuo karo tarnybos vieneriems metams, su sąlyga, kad
+    apsaugojimui nuo priešų, ypač pagonių, antpuolių, apjuostų
+    miestą mūro siena, kiekvienas pagal jam priskirtą rajoną, o
+    kas negalėtų mūrinės pastatyti, tegu tveria statinių tvorą.
+    Šiuo sprendimu buvo nurodyta sienoje į miestą palikti tik­
+    tai penketą vartų: pirmuosius -Vilijos link, antruosius - prie
+    kelio į Trakus, trečiuosius - palei Švč. Trejybės cerkvę, kur
+    dabar yra Aušros vartai, ketvirtuosius - ties Išganytojo (Spa-
+    so) bažnyčia ir penktuosius - nuo Pilies.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180670
+
+- id: c-164245
+  citata_originali: |
+    ## Puslapis 210
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    V
+    PRIVILEGIJA, SUTEIKTA DIDŽIOJO LIETUVOS
+    KUNIGAIKŠČIO ALEKSANDRO VYTAUTO 1388 METŲ
+    VIEŠPATIES GIMIMO DIENĄ LUCKE TRAKŲ ŽYDAMS, O
+    ŽYGIMANTO SENOJO PATVIRTINTA MELNIKE 1507 METAIS,
+    PIRMADIENI, PRIEŠ TRIS KARALIUS
+    Viešpaties vardu Amen. Kad [įsivėlusi] klaida per nerū­
+    pestingumą dėl vykstančių reikalų kartais neatneštų kokios
+    nors skriaudos, atsirado protingas poreikis, kad tai būtų iš­
+    dėstyta raštu ir sutvirtinta ir patikimų liudytojų liudijimu
+    patvirtinta. Amžinai šio dalyko atminčiai mes, Žygimantas
+    Senasis, Dievo malone išrinktas Lenkijos Karalystės kara­
+    lius, Lietuvos, Rusios, Prūsijos, Žemaitijos ir kt. didysis ku­
+    nigaikštis.
+  citata_rodoma: "## Puslapis 210\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nV\nPRIVILEGIJA, SUTEIKTA DIDŽIOJO LIETUVOS\nKUNIGAIKŠČIO ALEKSANDRO VYTAUTO 1388 METŲ\nVIEŠPATIES GIMIMO DIENĄ LUCKE TRAKŲ ŽYDAMS, O\nŽYGIMANTO SENOJO PATVIRTINTA MELNIKE 1507 METAIS,\nPIRMADIENI, PRIEŠ TRIS KARALIUS\nViešpaties vardu Amen."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180613
+
+- id: c-164246
+  citata_originali: |
+    Lietuvos metraščio liudijimu, „Lietuva
+    pasodino didįjį kunigaikštį Žygimantą
+    Kęstutaitį didžiojoje kunigaikštystėje
+    Vilniuje ir Trakuose rugsėjo 1 d.“ Greitai
+
+    ## Puslapis 69
+
+    Žygimanto Kęstutaičio val- Po pralaimėjimo Lietuvai yr A \ Vidinė politinė kova Lietuvoje nurimo soste įsitvirtinus 1440 m. Kazimierui.
+    S *Ė - Pabaisko mūšyje Livonijos Suomijos įlanka ) | Jogailaičiui.
+  citata_rodoma: "Lietuvos metraščio liudijimu, „Lietuva\npasodino didįjį kunigaikštį Žygimantą\nKęstutaitį didžiojoje kunigaikštystėje\nVilniuje ir Trakuose rugsėjo 1 d.“ Greitai\n\n## Puslapis 69\n\nŽygimanto Kęstutaičio val- Po pralaimėjimo Lietuvai yr A \\ Vidinė politinė kova Lietuvoje nurimo soste įsitvirtinus 1440 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180586
+
+- id: c-164247
+  citata_originali: |
+    Su­
+    gautas ir Vilniuje pasodintas į kalėjimą Šach Achmedas pri­
+    darė nemažai rūpesčių karaliui ir seimui. Jis buvo atgaben­
+    tas iš Vilniaus į seimą Brastoje 1505 metais, po to pasiųstas
+    gyventi į Trakus. Jo reikalu ne kartą į Vilnių buvo atvažia­
+    vę Nogajaus ordos pasiuntiniai ir Maskvos bojarinai, ir Vil­
+    niaus pilyje tuomet kildavęs didelis sujudimas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180601
+
+- id: c-164249
+  citata_originali: |
+    **Kazimiero konkurentų likimas.** Mykolas, nusilenkęs Kazimie-
+    rui, žadėjo būti jam paklusnus; jis tik prašė, kad jam būtų palikti
+    Trakai ir kad būtų nubausti tėvo užmušėjai. Tačiau netrukus jis
+    bandė suruošti prieš Kazimierą sąmokslą, kuriam nepavykus, pa-
+    bėgo į Maskvą.
+  citata_rodoma: "** Mykolas, nusilenkęs Kazimie-\nrui, žadėjo būti jam paklusnus; jis tik prašė, kad jam būtų palikti\nTrakai ir kad būtų nubausti tėvo užmušėjai. Tačiau netrukus jis\nbandė suruošti prieš Kazimierą sąmokslą, kuriam nepavykus, pa-\nbėgo į Maskvą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180602
+
+- id: c-164251
+  citata_originali: |
+    Tačiau
+    atsitraukiant jo laukė nauji pavojai: mat jų kariaunai pri­
+    siartinus prie Strėvos upės Trakų paviete, tankiame miške
+    iš pasalų juos apsupo žemaičių būriai ir, prikirtę medžių,
+    54
+    Stryjkowski, p. 464, aiškiai
+    nurodo, kad Švitrigaila pilies užėmi­
+    mo dėlei turėjo būti pasinaudojęs ru­
+    sų vienuolių, vadintų „čiornais", iš­
+    davyste; tačiau čia ateina į galvą
+    mintis, kad „čiornų" (prasčiokai)
+    vardu buvo vadinama ir rusų gyven­
+    tojų prastuomenė, kurių nemažai
+    anuomet buvo Vilniuje. „MepHbie
+    a k d a h" ,  „cziomyje ludi" - taip buvo
+    vadinamas Rusios miestuose pats
+    žemiausias miestiečių sluoksnis. Žr.
+    Rakowiecki  Prawda Ruška, T. I,
+    p. 108. Dar žr. CAOBapb TeorpcKpu-
+    v p c k u ü PoccuücKaro rocyqapcmßa,
+    coópcLH H biu A(panacheM h UįeKamo-
+    BbiM b, MocKBa, 1805, 4to, prie
+    žodžio Pskov, kur autorius nurodo:
+    „...a nocAeAHHe b MeiųaHCTBe 6bi-
+    AH nepHbie a k >a h ,  b HHCAe k o h x b
+    HaxoAHAHCb Bee xcHByujHe b ropo-
+    Ae xyAOxcHHKH, peMecAeHHHKH h
+    paöoTHbie a i o a h [ o  žemiausi tarp
+    miestiečių buvo čiornyje liūdi (pras­
+    tuomenė), kuriems priklausė visi
+    mieste gyvenantys dailininkai, ama­
+    tininkai ir darbininkai]. Galbūt Strij­
+    kovskis, skaitydamas rusų-lietuvių
+    metraščius, bus vienus su kitais su­
+    painiojęs.
+    138
+
+    ## Puslapis 155
+
+    Il KNYGA
+    jais užvertė kelią.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180591
+
+- id: c-164252
+  citata_originali: |
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Nors yra toks mūsų kronikininko pasakojimas apie Vil­
+    niaus įkūrimą XIV amžiuje, likę pėdsakų, liudijančių tą mies­
+    tą buvus jau XII amžiuje. Islandų keliautojas Snorro, tais lai­
+    kais vykdamas per Europos šiaurės kraštus, rado savo
+    genties nausėdžių ir suprato jų šnektą - prie V eini (Vilnius),
+    Tryk (Trakų) ir kitų miestų, netgi Lenkijojek. Tad galėjo čia
+    pirmiau būti skandinavų nausėdijos, taigi Vilniaus pradžia
+    gal siekia normanų piratus, kūrusius Lietuvoje seniausias
+    gyvenvietes IX-X amžiuje.
+  citata_rodoma: "Islandų keliautojas Snorro, tais lai­\nkais vykdamas per Europos šiaurės kraštus, rado savo\ngenties nausėdžių ir suprato jų šnektą - prie V eini (Vilnius),\nTryk (Trakų) ir kitų miestų, netgi Lenkijojek. Tad galėjo čia\npirmiau būti skandinavų nausėdijos, taigi Vilniaus pradžia\ngal siekia normanų piratus, kūrusius Lietuvoje seniausias\ngyvenvietes IX-X amžiuje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180647
+
+- id: c-164255
+  citata_originali: |
+    Kivirčai tarp brolių da­
+    vė pradžią slaptoms, bet sumaniai parengtoms sutartims
+    siekiant nuversti nuo sosto Jaunutį. Kęstutis iš Trakų, savo
+    valdos sostinės, turėjęs geriausių galimybių stebėti visus
+    brolio žingsnius, staiga 1345 m. lapkričio 22 dieną su stip­
+    riu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­
+    nigaikščio buveinę. Vis dėlto Jaunutis išsigelbėjo pabėgda­
+    mas kartu su jam palankiu broliu Narimantu, Pinsko
+    kunigaikščiu; pirmasis - Smolenske, antrasis pas totorių
+    chaną ieškojo prieglobsčio16 * .
+  citata_rodoma: "Kęstutis iš Trakų, savo\nvaldos sostinės, turėjęs geriausių galimybių stebėti visus\nbrolio žingsnius, staiga 1345 m. lapkričio 22 dieną su stip­\nriu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­\nnigaikščio buveinę. Vis dėlto Jaunutis išsigelbėjo pabėgda­\nmas kartu su jam palankiu broliu Narimantu, Pinsko\nkunigaikščiu; pirmasis - Smolenske, antrasis pas totorių\nchaną ieškojo prieglobsčio16 * ."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180650
+
+- id: c-164256
+  citata_originali: |
+    5 d. Ost­
+    rovoje (Gard.) įvyko taika. Jogaila dovanojo Vytautui ir jo
+    šalininkams jų nusikaltimus, paėmė iš visų ištikimybės priesai­
+    ką ir grąžino Vytautui visą jo tėviškę: Trakus, Gardiną ir dar
+    pridėjo kitas žemes, jų tarpe — Lucką, kuris vos neseniai, t. y.
+    tų pačių metų bal. mėn.
+  citata_rodoma: ") įvyko taika. Jogaila dovanojo Vytautui ir jo\nšalininkams jų nusikaltimus, paėmė iš visų ištikimybės priesai­\nką ir grąžino Vytautui visą jo tėviškę: Trakus, Gardiną ir dar\npridėjo kitas žemes, jų tarpe — Lucką, kuris vos neseniai, t."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180634
+
+- id: c-164257
+  citata_originali: |
+    Ultra
+    1000 hominum in occissione ceciderunt
+    et ita Butandus (Witowdus) fugit et
+    cum scandalo in longas processit patrias
+    [per 1 000 žmonių kautynėse žuvo,
+    ir taip Butandas (Vytautas) gėdingai
+    pasislėpė plačiose tėvo valdose].
+    35
+    Negalima dabar būtų tvirtai nuro­
+    dyti, kur būtent tarp Trakų ir Vil­
+    niaus turėję stovyklą tie kariai. Prū­
+    sijos istorikai yra tepasakę, kad
+    sustojo ant dviejų priešpriešinių kal­
+    nų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180619
+
+- id: c-164259
+  citata_originali: |
+    To­
+    kia Lietuvos padėtis negalėjo trukti ilgai; diduomenė, įbau­
+    ginta Manvydo ir Rumbauto mirties, Mstislavlio kunigaikš­
+    čio Jurgio Lengvenaičio ir Kopylę valdžiusio Olelkos - Algirdo
+    palikuonių - įkalinimo, nutarė gelbėtis Žygimanto gyvybės
+    kaina. Trakuose jo sušauktas seimas, turėjęs parengti pasku­
+    tinį smūgį Rusios ir Lietuvos bajorijai, paspartino tą kruviną
+    susidorojimą. 1440 metų balandį Žygimantas sąmokslininkų
+    buvo nužudytas Trakų pilyje, jo sūnus Mykolas ištremtas; tą
+    pačią akimirką, kai Vilniaus vaivada Daugirdas žemutinę Vil­
+    niaus pilį laikinai užėmė Švitrigailai, aukštutinę tvirtovę Nar­
+    butas užgrobė naktį26.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180633
+
+- id: c-164260
+  citata_originali: |
+    Žemaičiams jis nuolatos gelbėjo jų iš kartos į kartą einan­
+    čiuose karuose, dėl kurių visa vakarinė Lietuva buvo tapusi kasmet
+    įvairiose vietose atsiveriančia žaizda. O ir paties Kęstučio visos
+    valdos (dalis tikrosios Lietuvos su Trakais, Gardino žemė ir Pa­
+    lenkė), būdamos artimoje kaimynystėje su kryžiuočių valstybe,
+    niekada nebuvo saugios.
+    Veiklusis rungtyniautojas prieš Kęstutį ordino vyriausias ma­
+    gistras Winrichas von Kniprodė (1352-1382), septyniom savaitėm
+    anksčiau prieš šį Gediminaitį įžengęs į grabą, per 30 metų dėjo
+    dideles pastangas ordinui laimėti bent Žemaičius.
+  citata_rodoma: "O ir paties Kęstučio visos\nvaldos (dalis tikrosios Lietuvos su Trakais, Gardino žemė ir Pa­\nlenkė), būdamos artimoje kaimynystėje su kryžiuočių valstybe,\nniekada nebuvo saugios.\nVeiklusis rungtyniautojas prieš Kęstutį ordino vyriausias ma­\ngistras Winrichas von Kniprodė (1352-1382), septyniom savaitėm\nanksčiau prieš šį Gediminaitį įžengęs į grabą, per 30 metų dėjo\ndideles pastangas ordinui laimėti bent Žemaičius."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180604
+
+- id: c-164261
+  citata_originali: |
+    Tais pa-
+    čiais metais Rusija pasiuntė savo gausią kariuomenę į Lietuvą. Nors
+    Lietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų ver-
+    žimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą
+    lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai
+    priartėjo prie Vilniaus. Rugpjūčio 7 d. po aršių kautynių priešas
+    užėmė Lietuvos sostinę, netrukus buvo užimti Trakai ir Kaunas.
+  citata_rodoma: "Nors\nLietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų ver-\nžimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą\nlietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai\npriartėjo prie Vilniaus. Rugpjūčio 7 d. po aršių kautynių priešas\nužėmė Lietuvos sostinę, netrukus buvo užimti Trakai ir Kaunas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180661
+
+- id: c-164262
+  citata_originali: |
+    Antrajame žygyje (1398) Vytautas Dniepro žiotyse pastatė
+    tvirtovę « Tavan’ » (šv. Jono pilį)^21. Berods, to žygio metu paim­
+    tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.
+  citata_rodoma: "Berods, to žygio metu paim­\ntieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180659
+
+- id: c-164265
+  citata_originali: |
+    Prie liudytojų, tuo metu su mumis buvusių:
+    su Lucko vaivada, su Limantu ir Zigmantu - kareiviais arba
+    bajorais iš Lietuvos; su Mangaila iš Ašmenos, taip pat iš Lie­
+    tuvos ir daugelio kitų patikimų liudytojų, ten buvusių. Ir taip
+    mes minėtų mūsų valdinių žydų Trakuose reikalui visas jų
+    nuosavybes, paliaubas ir sprendimus maloningai palaikyda­
+    mi, jiems minėtą privilegiją, teises, laisves ir kitas priklau­
+    somybes, minėtoje privilegijoje aprašytas, nutarėme saugoti,
+    ginti, stiprinti, ką dabartiniu [raštu] ir patvirtiname, sustip­
+    riname ir giname, žiūrėdami, kad ši galia ir šis raštas am­
+    žiams patvirtintas ir amžinas būtų. Šio reikalo paliudijimui
+    ir didžiausiai galiai mūsų antspaudą įsakėme uždėti, tai bu­
+    vo ir vyko Melnike pirmadienį prieš Tris Karalius metais
+    nuo Viešpaties gimimo 1507-aisiais, dalyvaujant garbingiau­
+    siam Kristuje tėvui ir ponui Vaitiekui, Dievo malone Lucko
+    [Ladzko] vyskupui, ir galingiesiems, ir garbingiesiems Tra­
+    kų vaivadai Mikalojui, Jonui iš Zabžezės - Lietuvos Di­
+    džiosios Kunigaikštystės didžiajam maršalkai ir Gardino
+    seniūnui, Stanislovui Hlebavičiui - Polocko vaivadai, ku­
+    nigaikščiui ir etmonui, Ivanui Glinskiui - Naugarduko vai­
+    vadai ir jo broliui Mykolui Glinskiui - Utenos valdytojui,
+    Vaitiekui Janavičiui - karališkajam rūmininkui ir Kauno
+    seniūnui, ir Bielskiams - Jonui Mikolajevičiui - rūmų mar­
+    šalkai ir Slonimo seniūnui, Vaitiekui Narutavičiui - rūmų •
+    • --
+    199
+
+    ## Puslapis 216
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    maršalkai ir Josvainių seniūnui, Petrui Olechnavičiui - mū­
+    sų prievaizdui ir Skirsnemunės seniūnui, ir kitiems patiki­
+    miems, surašyta Petro Opalinskio, Poznanės kustodo, ran­
+    ka, kuriam šis reikalas buvo pavestas.
+  citata_rodoma: "Ir taip\nmes minėtų mūsų valdinių žydų Trakuose reikalui visas jų\nnuosavybes, paliaubas ir sprendimus maloningai palaikyda­\nmi, jiems minėtą privilegiją, teises, laisves ir kitas priklau­\nsomybes, minėtoje privilegijoje aprašytas, nutarėme saugoti,\nginti, stiprinti, ką dabartiniu [raštu] ir patvirtiname, sustip­\nriname ir giname, žiūrėdami, kad ši galia ir šis raštas am­\nžiams patvirtintas ir amžinas būtų. Šio reikalo paliudijimui\nir didžiausiai galiai mūsų antspaudą įsakėme uždėti, tai bu­\nvo ir vyko Melnike pirmadienį prieš Tris Karalius metais\nnuo Viešpaties gimimo 1507-aisiais, dalyvaujant garbingiau­\nsiam Kristuje tėvui ir ponui Vaitiekui, Dievo malone Lucko\n[Ladzko] vyskupui, ir galingiesiems, ir garbingiesiems Tra­\nkų vaivadai Mikalojui, Jonui iš Zabžezės - Lietuvos Di­\ndžiosios Kunigaikštystės didžiajam maršalkai ir Gardino\nseniūnui, Stanislovui Hlebavičiui - Polocko vaivadai, ku­\nnigaikščiui ir etmonui, Ivanui Glinskiui - Naugarduko vai­\nvadai ir jo broliui Mykolui Glinskiui - Utenos valdytojui,\nVaitiekui Janavičiui - karališkajam rūmininkui ir Kauno\nseniūnui, ir Bielskiams - Jonui Mikolajevičiui - rūmų mar­\nšalkai ir Slonimo seniūnui, Vaitiekui Narutavičiui - rūmų •\n• --\n199\n\n## Puslapis 216\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nmaršalkai ir Josvainių seniūnui, Petrui Olechnavičiui - mū­\nsų prievaizdui ir Skirsnemunės seniūnui, ir kitiems patiki­\nmiems, surašyta Petro Opalinskio, Poznanės kustodo, ran­\nka, kuriam šis reikalas buvo pavestas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180597
+
+- id: c-167769
+  citata_originali: |
+    Atrodo, pritariant Jogailai, kuris
+    iš viso rūpestingai rėmė pusbrolio rytų planus, Vytautas (1397)
+    suruošė didelį žygį prie Juodosios jūros ir Kryman 19 20, kuris tada
+    totorių gyvenime vaidino svarbią rolę. Atsigabenęs iš žygio daug
+    totorių belaisvių ir pabėgėlių, kurių pusę atidavė Jogailai, juos
+    Vytautas įkurdino Trakų kunigaikštijoje. Gavę sau privilegijas iš
+    Vytauto, kuris totorių atmintyje per šimtmečius buvo garbinamas,
+    Lietuvos totoriai išlaikė savo mahometonišką tikėjimą ir papročius,
+    kai tuo tarpu Lenkijoje jie buvo sukrikščioninti ir sulenkinti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184404
+
+- id: c-168520
+  citata_originali: |
+    Kadangi neseniai per pasiuntinius buvo pra­
+    šęs pagalbos iš Jonušo, Mazovijos kunigaikščio bei
+    savo žento, ir toji pagalba diena iš dienos turėjo at­
+    vykti, jis kol kas nieko nedarė, nenorėdamas prieš Jo­
+    gailą traukti su nedidele kariuomene ir be pagalbinin­
+    kų stoti į lemiamą mūšį. Kad kariai turėtų kokį užsi­
+    ėmimą ir kad neleistų tuščiai laiko, jis pradėjo pulti
+    Trakus. Po kelių dienų apgulos, sutikęs smarkų pasi­
+    priešinimą, griebėsi kito sumanymo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185159
+
+- id: c-168521
+  citata_originali: |
+    Sėkmingai atgavus Poleksi-
+    ją, kur kas didesni rūpesčiai paragino skubėti į tėvy­
+    nę. Mat Vytautas su žemaičiais ir Prūsijos magistras
+    su savo kariais veržėsi į pa­
+    čią Lietuvos gilumą, kalaviju
+    skindamiesi kelią. Niokoda­
+    mi kraštą, jie pasiekė Trakus;
+    miestas bei abi pilys netruko
+    jiems pasiduoti; kai pasklido
+    kalbos, jog grįžta Jogaila su pergalinga kariuomene,
+    jie kuo skubiausiai pasitraukė iš Lietuvos palikę pi­
+    lyse stiprias vokiečių įgulas, aprūpintas viskuo, kas
+    reikalinga.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185160
+
+- id: c-168522
+  citata_originali: |
+    Kaip brolį palaikė jį ir Jogaila. Vos šitai pajutę, žy­
+    miausieji Lietuvos didikai paliko karalių bei valstybės
+    reikalus ir skubiai pasitraukė į Trakus. Lenkų didikus
+    dar prieš Vytauto mirtį karalius buvo išsiuntęs į Len­
+    kiją, sakydamas, kad jie jam nebereikalingi, nes Vy­
+    tautas, laukdamas mirties, liovėsi rūpinęsis karaliaus
+    vainiku, o iš tikrųjų norėdamas jais atsikratyti, kad
+    šie netrukdytų paskelbti Boleslovą Lietuvos didžiuoju
+    kunigaikščiu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185161
+
+- id: c-168523
+  citata_originali: |
+    Nieko nežinoda­
+    mi apie karaliaus sumanymus, į seimą kaip paprastai
+    suvažiavo gausybė bajorų, tačiau, karalystės kanclerio
+    Jono Laskio laiku įspėti, išsisukinėjo kviečiami į pilį.
+    Karalius, supratęs, kad jo sumanymai visiems žinomi,
+    sutiko parodyti malonę, patariamas to paties kancle­
+    rio, o labiausiai Jono iš Osvencimo, savo nuodėm­
+    klausio, tačiau iš Zaberezinskio atėmė Trakų vaivadi­
+    ją, o kitus išvijo iš senato.
+    Į seimą atvyko iš Vilniaus
+    Skitas Sich Achmetas
+    Šich Achmetas, Užvolgio ski-
+    tariasi su karaliumi
+    tų valdovas, o šiuo metu
+    Breste ir Radome
+    tremtinys ir beveik belaisvis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185162
+
+- id: c-168524
+  citata_originali: |
+    Dėl karaliaus ligos seimas buvo pa­
+    leistas, kadangi vargu ar ką galima buvo benuveikti.
+    Susirgęs karalius nuvežamas į Krokuvą, o Šich Ach-
+    metas, valdovo valia turėjęs būti Trakuose vaišingai
+    priimtas, sugrįžo į Lietuvą garbingos palydos apsuptas.
+    Patariamas Nogajų ordos skitų, bandė iš ten pabėgti,
+    tačiau lietuviai jį sugavo ir atvežė vėl į Trakus, kur
+    dar stipriau saugojo, ypač
+    K ry m o  sk ita i n io k o -
+    dėl to, kad Krymo chanas
+    ja  L ie tu v ą
+    Mengli Girėjus per pasiunti­
+    nius žadėjo karaliui taiką ir
+    pagalbą, jeigu šis neleis Šich Achmetui pasprukti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185163
+
+- id: c-170602
+  citata_originali: |
+    Vyriausias—Jogaila Vladislovas1 8 ;
+    antras — Skirgaila1 9 , trečias — Švitrigaila3 0 , ketvir­
+    tas— Kaributas2 1 , penktas — Dimitrijus2 2 , Koreco ku­
+    nigaikštis 2 3 , šeštas — kunigaikštis Vasilijus 2 4 .
+    O didžiojo kunigaikščio Algirdo broliui Kęstučiui,
+    kuris valdė Trakus ir Žemaičių žemę, buvo šeši sū­
+    nūs2 5 . Pirmas — Vytautas2 6 , o kai krikštijosi pravos­
+    lavu, buvo jam duotas Jurgio vardas, o kai priėmė len­
+    kų tikėjimo krikštą, jam davė Aleksandro vardą2 7 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187660
+
+- id: c-170603
+  citata_originali: |
+    Jį pasodino Smolenske di­
+    džiuoju kunigaikščiu1 6 , kadangi kunigaikščio Jurgio
+    žmona buvo Skirgailos vyresniosios sesers duktė.
+    Ir, nuėjęs nuo Smolensko miesto, didysis kunigaikš­
+    tis Skirgaila parvyko į savo Lietuvos žemę ir ėmė ku-
+    nigaikščiauti Trakuose, o į Vilnių karalius Jogaila at­
+    siuntė savo seniūną iš Lenkijos.
+    31.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187661
+
+- id: c-170604
+  citata_originali: |
+    . 2 0
+
+    ## Puslapis 171
+
+    PRIEDAI
+
+    ## Puslapis 172
+
+    Prieš mūsų tėvo tėvui žūvant, mūsų senelis 1  vieton
+    savęs davė aukščiausią valdžią Vilniuje Jaunučiui;
+    Jogailos tėvui Algirdui — valdžią Vitebske, o mano tė­
+    vui kunigaikščiui Kęstučiui—Trakuose. Ir kadangi
+    mūsų tėvai, kunigaikštis Algirdas ir kunigaikštis Kęs­
+    tutis, nuo jaunystės sutarė, o dabar pamatė jiems ku­
+    nigaikščio Jaunučio kai kurias neteisybes, tai susitarė
+    kunigaikštis Algirdas su mūsų tėvu kunigaikščiu Kęs­
+    tučiu, kad jie, šiaip ar taip, turi užimti Vilnių ir Jau­
+    nutį išvyti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187662
+
+- id: c-170605
+  citata_originali: |
+    180
+
+    ## Puslapis 174
+
+    Mūsų tėvas grįžo iš karo žygio, o kunigaikštis Jo­
+    gaila be jo žinios užėmė ir Trakus. Ir mūsų tėvas ku­
+    nigaikštis Kęstutis nujojo tada į 2emaičius, norėdamas
+    gauti pagalbos. Ir atėjo mūsų tėvas su žemaičiais prie
+    Trakų, aš pats irgi buvau ten su savo tėvu kunigaikš­
+    čiu Kęstučiu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187663
+
+- id: c-176320
+  citata_originali: |
+    Lietuva tuo metu jau
+    turėjo sostinę, nuo Gedimino prasidėjo sosto paveldėjimo tradicija, mūro
+    civilizacijos ištakos. Valdant Gediminui ar jo sūnui Algirdui buvo sukurta
+    visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai,
+    Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys. Lietuva tapo
+    politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung-
+    tos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje
+    buvę Voluinė ir Haličas, Kijevas, Pskovas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193651
+
+- id: c-176321
+  citata_originali: |
+    Lietuvos gotikinės architektūros ypatumas – gynybinis pobūdis:
+    net ir sakraliniai pastatai turėjo gynybinius bokštus ar šaunamąsias an-
+    gas – Vytauto laikais daugiausia statyta būtent gynybinių statinių. Vytautas
+    perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine,
+    Naugarduke ir Lucke. Trakų salos pilies menė su gotikiniais kryžminiais
+    skliautais rodo, kad gotika buvo atėjusi ir į gynybinę architektūrą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193652
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]

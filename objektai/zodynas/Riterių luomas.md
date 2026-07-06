@@ -5,6 +5,18 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Riterių luomas
 
@@ -29,23 +41,53 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
 <a id="claim-t-55269"></a>
 - t-001
   global_id: t-55269
-  teiginys: 'Kryžiaus karų poveikis sutramdė feodalizmo piktnaudžiavimą ir iš plėšikaujančios bajorijos suformavo riterių luomą.'
+  teiginys: "Kryžiaus karų poveikis sutramdė feodalizmo piktnaudžiavimą ir iš plėšikaujančios bajorijos suformavo riterių luomą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "28362-28871; hash=c5064cb4c5f297b46b82057d01ef54d9753d8b9099b98f457e2c141fd4e69e53; match=whitespace_regex"
+  sprendimo_priezastis: "gap::vocabulary"
+  ryšio_patikimumas: "susije_su -> luomas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Riterių luomas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "luomas: mention_match, thing, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Riterių luomas\" parinktas kaip owner_note_path. Targetas \"luomas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-55818
 
 <a id="claim-t-55270"></a>
 - t-002
   global_id: t-55270
-  teiginys: 'Balińskis riterių luomą vadino garbingiausiąja viduramžių institucija.'
+  teiginys: "Balińskis riterių luomą vadino garbingiausiąja viduramžių institucija."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "28362-28871; hash=c5064cb4c5f297b46b82057d01ef54d9753d8b9099b98f457e2c141fd4e69e53; match=whitespace_regex"
+  sprendimo_priezastis: "gap::vocabulary"
+  ryšio_patikimumas: "susije_su -> luomas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Riterių luomas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "luomas: mention_match, thing, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Riterių luomas\" parinktas kaip owner_note_path. Targetas \"luomas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-55818
 
 <a id="claim-t-82096"></a>
 - t-003
   global_id: t-82096
-  teiginys: 'Susirėmimas su Rytais prisidėjo prie riterių luomo susiformavimo iš plėšikaujančios bajorijos.'
+  teiginys: "Susirėmimas su Rytais prisidėjo prie riterių luomo susiformavimo iš plėšikaujančios bajorijos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "28544-28954; hash=e4f489ec1daeef192cb449cb36f99b7b69592116fe7e1a6f617ac799ddee7b19; match=whitespace_regex"
+  sprendimo_priezastis: "gap::vocabulary"
+  ryšio_patikimumas: "susije_su -> luomas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Riterių luomas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "luomas: mention_match, thing, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Riterių luomas\" parinktas kaip owner_note_path. Targetas \"luomas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-78590
 - susijęs iš [[objektai/zodynas/feodalizmas.md#claim-t-82055|feodalizmas]]: Susidūrimas su Rytais, anot autoriaus, sutramdė feodalizmo piktnaudžiavimą ir iš bajorijos formavo riterių luomą.
 - susijęs iš [[objektai/zodynas/feodalizmas.md#claim-t-82059|feodalizmas]]: Susidūrimas su Rytais esą sutramdė feodalizmo piktnaudžiavimą ir iš plėšikaujančios bajorijos suformavo riterių luomą.
 - susijęs iš [[objektai/ivykiai/Kryžiaus karai.md#claim-t-86953|Kryžiaus karai]]: XI a. Kryžiaus karai iš pradžių laikyti savotiškais žygiais, bet vėliau virto svarbiu Europos istorijos įvykiu.
@@ -65,6 +107,7 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
     formuotas riterių luomas - pati garbingiausioji viduramžių
     institucija.
   citata_rodoma: ''
+  teiginio_tipas: interpretacija
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -85,8 +128,47 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
     institucija. Tuo metu imtasi užmestos laivininkystės, iš Rytų plito
     mokslai ir masino prekyba.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-55818
+  citata_originali: |
+    Kryžiaus karai, kurie XI amžiuje buvo sumaišę protus be­
+    veik visoje Europoje, iš pradžių laikyti tik savotiškais žygiais,
+    virto svarbiausiu įvykiu šios pasaulio dalies istorijoje. Jų įtaka
+    mūsuose ir Rytuose buvo neapsakoma, o pasekmės davė žmo­
+    nijai kuo didžiausios naudos. Visuotinai sutelkus dėmesį į Šven­
+    tąją žemę ir susirėmus su Rytais buvo sutramdytas sugedusio
+    feodalizmo piktnaudžiavimas, iš plėšikaujančios bajorijos su­
+    formuotas riterių luomas - pati garbingiausioji viduramžių
+    institucija.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-55269
+    - t-55270
+
+- id: c-78590
+  citata_originali: |
+    Jų įtaka
+    mūsuose ir Rytuose buvo neapsakoma, o pasekmės davė žmo­
+    nijai kuo didžiausios naudos. Visuotinai sutelkus dėmesį į Šven­
+    tąją žemę ir susirėmus su Rytais buvo sutramdytas sugedusio
+    feodalizmo piktnaudžiavimas, iš plėšikaujančios bajorijos su­
+    formuotas riterių luomas - pati garbingiausioji viduramžių
+    institucija. Tuo metu imtasi užmestos laivininkystės, iš Rytų plito
+    mokslai ir masino prekyba.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82096

@@ -15,6 +15,18 @@ tags:
   - žemėlapis
 amziai:
   - 'XVII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Rausvė
 
@@ -27,18 +39,42 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
 <a id="claim-t-58616"></a>
 - t-001
   global_id: t-58616
-  teiginys: 'M. Tepenas atkreipė dėmesį į Rausvės intaką Romenę rytų Nadruvoje, į pietus nuo Pilkalnio.'
+  teiginys: "M. Tepenas atkreipė dėmesį į Rausvės intaką Romenę rytų Nadruvoje, į pietus nuo Pilkalnio."
+  temporaliniai_duomenys: "įvykio data: 1684 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys turi OCR triukšmo ir klaidingą atribuciją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "211294-211879; hash=0fef8f55b26fca000c3193b221096e644de19c979ae9a2b76a0c7b59e3f24bb7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rausvė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Baltai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rausvė\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-59248
 
 <a id="claim-t-58617"></a>
 - t-002
   global_id: t-58617
-  teiginys: 'A. Mežinskis manė, kad Romovė galėjusi būti ir prie Rausvės.'
+  teiginys: "A. Mežinskis manė, kad Romovė galėjusi būti ir prie Rausvės."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "211880-212333; hash=3ec398f3065efe1eea49949003c448f1bbda68306c44273ba6e5105ddc027408; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Auksinė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rausvė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Auksinė: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rausvė\" parinktas kaip owner_note_path. Targetas \"Auksinė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-59249
 - susijęs iš [[objektai/autoriai/M. Tepenas.md#claim-t-64746|M. Tepenas]]: M. Tepenas atkreipė dėmesį į Rausvės intaką Romenę rytų Nadruvoje, į pietus nuo Pilkalnio.
 - susijęs iš [[objektai/autoriai/Тоерреn M.md#claim-t-60665|Тоерреn M]]: M. Tepenas atkreipė dėmesį į Rausvės intaką Romenę rytų Nadruvoje, į pietus nuo Pilkalnio.
+- susijęs iš [[objektai/grupes/Sudargai.md#claim-t-192929|Sudargai]]: Narbutas, remdamasis Hartknochu, sieja sudargų atminimą su krašto padavimais ir dviem Sudargais vadinamais miesteliais.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -53,6 +89,7 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
     271—272; š. p. 564—565). M, Tepenas atkreipė dėmesį į Rausvės intaką Romene rytų
     Nadruvoje, į pietus nuo Pilkalnio (Тоерреn M., HCGP, p. 26—27 ir žemėlapis).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -72,8 +109,44 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
     jis galvojo, jog ji galėjusi būti ir prie mūsų jau minėtos Rausvės (Мержинский А. Ф.,
     Ромове, с. 1—9).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-59248
+  citata_originali: |
+    Ieškodamas centrinės baltų Romovės resp. Romuvos Nadruvoje, M. Pretorijus (1664—
+    1684 m. gyvenęs Nibudžiuose, į šiaurės rytus nuo Gumbinės) rašęs, kad, jo nuomone,
+    Romovė resp. Romuva galėjusi būti prie Biserkiemio (netoli Gumbinės) ant kalvos, tada
+    vadintos Sidabro kalnu, kur aptinkama įvairių radinių, be kita ko — pentinų, lenkto ir
+    sukto sidabro (Prätorius M., Deliciae..., kn. 4, sk. 1, § XXII, r. 1. (WU) 152; r. p. (MA)
+    271—272; š. p. 564—565). M, Tepenas atkreipė dėmesį į Rausvės intaką Romene rytų
+    Nadruvoje, į pietus nuo Pilkalnio (Тоерреn M., HCGP, p. 26—27 ir žemėlapis).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58616
+
+- id: c-59249
+  citata_originali: |
+    Mėginta
+    sieti Priegliaus kair. intako Auksinės žemupio vietovardžius Kreiwutschen ir Romanuppen
+    su Kriviu ir Romove resp. Romuva (Friederici W., Über die Lage Romow’s..., p. 227—
+    253). A. Mežinskis manęs, kad nėra pagrindo ieškoti ryšio tarp pirmųjų vietovardžių,
+
+    tačiau spėjo, kad Romanuppe galėjusi būti Romovės resp. Romuvos vietoje. Kita vertus,
+    jis galvojo, jog ji galėjusi būti ir prie mūsų jau minėtos Rausvės (Мержинский А. Ф.,
+    Ромове, с. 1—9).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58617

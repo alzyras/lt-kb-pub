@@ -17,6 +17,18 @@ tags:
 amziai:
   - 'XV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Torno
 
@@ -27,32 +39,66 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
 ## Teiginiai
 
 <a id="claim-t-178211"></a>
-- t-001
+- t-003
   global_id: t-178211
-  teiginys: 'Po 1411 m. Torno sutarties Vytauto ir Ordino santykiai nepagerėjo, nors sutartyje susitarta dėl laisvos savitarpio prekybos.'
+  teiginys: "Po 1411 m. Torno sutarties Vytauto ir Ordino santykiai nepagerėjo, nors sutartyje susitarta dėl laisvos savitarpio prekybos."
+  temporaliniai_duomenys: "įvykio data: po 1411 m.; įvykio data: 1411 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys turi neaiškią nuorodą „Šitie“, todėl perrašyta į savarankišką sakinį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "616955-617362; hash=7fc501bcdb23719c74e0ad608cd37f8a25e890fc7b521b44aaa7594e43f7639e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Torno: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=16"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Torno\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-161979
 
 <a id="claim-t-178212"></a>
 - t-002
   global_id: t-178212
-  teiginys: 'Po Torno taikos Vytautas iš Jogailos gavo Podoliją ir pasiuntė jam 20 000 grašių kariuomenei apmokėti.'
+  teiginys: "Po Torno taikos Vytautas iš Jogailos gavo Podoliją ir pasiuntė jam 20 000 grašių kariuomenei apmokėti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "607760-608048; hash=4b23b0a7642ac3875ddfb002827817d0d7c0981fab457dad0241efad7bda1330; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Torno: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Torno\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-161978
 
 <a id="claim-t-178213"></a>
-- t-003
+- t-001
   global_id: t-178213
-  teiginys: 'Prie Torno pilies 1411 m. vasario 1 d. buvo sudaryta taika, kai joje buvo užsidaręs didysis magistras.'
+  teiginys: "Prie Torno pilies 1411 m. vasario 1 d. buvo sudaryta taika, kai joje buvo užsidaręs didysis magistras."
+  temporaliniai_duomenys: "įvykio data: 1411 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "935655-935756; hash=a55ca1b9920b1a37a7fdfe36891d816bd3c9d1ab81e6b5b37b91936760094d68; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
+    - c-161976
 
 <a id="claim-t-178215"></a>
-- t-004
+- t-005
   global_id: t-178215
-  teiginys: '1411 m. vasario 1 d. prie Torno pilies buvo sudaryta taika.'
+  teiginys: "1411 m. vasario 1 d. prie Torno pilies buvo sudaryta taika."
+  temporaliniai_duomenys: "įvykio data: 1411 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys turi neaiškų įvardį, todėl perrašytas be nepagrįstų vardų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "935655-935756; hash=a55ca1b9920b1a37a7fdfe36891d816bd3c9d1ab81e6b5b37b91936760094d68; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
+    - c-161976
 - susijęs iš Torno taika (1411 m.): 1411 m. Torno taika užbaigė Žalgirio kovą, tačiau nugalėtojai šio laimėjimo visiškai neišnaudojo.
 - susijęs iš Torno taika (1411 m.): 1411 m. vasario 1 d. Jogaila ir Vytautas prie Torno pilies sudarė taiką su didžiuoju magistru.
 - susijęs iš Torno taika (1411 m.): Torno taika Žemaičius Lietuvai pripažino tik iki Vytauto ir Jogailos gyvos galvos, o ordinas turėjo sumokėti 100000 kapų čekų grašių.
@@ -110,6 +156,7 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
     Atvykę prie Torno pilies, kur buvo užsidaręs
     pats didysis magistras, jiedu 1411.II.1 d. padarė taiką.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -129,6 +176,7 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
     Taip maždaug atrodo Vytauto žemės ūkis ir jam mokami
     mokesčiai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -147,11 +195,60 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
     prekybos. Kadangi Henrikas von Plauenas ruošėsi į naują karą,
     aišku, kad nuoširdžių santykių su Vytautu negalėjo būti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-161976
+  citata_originali: |
+    Atvykę prie Torno pilies, kur buvo užsidaręs
+    pats didysis magistras, jiedu 1411.II.1 d. padarė taiką.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178215
+    - t-178213
+
+- id: c-161978
+  citata_originali: |
+    Žodžiu šios kontri­
+    bucijos ir, bendrai, mokesčiai bei duoklės didino Vytauto iždą.
+    Gavęs po Torno taikos iš Jogailos Podoliją, pasiuntė jam iš sa­
+    vo iždo 20.000 grašių^2 ), kurie lenkams buvo reikalingi mokėti
+    kariuomenei.
+    Taip maždaug atrodo Vytauto žemės ūkis ir jam mokami
+    mokesčiai.
+  citata_rodoma: "Gavęs po Torno taikos iš Jogailos Podoliją, pasiuntė jam iš sa­\nvo iždo 20.000 grašių^2 ), kurie lenkams buvo reikalingi mokėti\nkariuomenei.\nTaip maždaug atrodo Vytauto žemės ūkis ir jam mokami\nmokesčiai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178212
+
+- id: c-161979
+  citata_originali: |
+    Vytautas dėl to net pasiskundė Vakarų Europos ku­
+    nigaikščiams, kad Ordinas neleidžia pirkliams susisiekti su Lie­
+    tuva ne tik per jo teritoriją, bet ir jūromis1 2).
+    Šitie pablogėję santykiai nepasitaisė ir po Torno sutarties
+    (1411), nors joje ir buvo vėl susitarta dėl laisvos savitarpio
+    prekybos. Kadangi Henrikas von Plauenas ruošėsi į naują karą,
+    aišku, kad nuoširdžių santykių su Vytautu negalėjo būti.
+  citata_rodoma: "Šitie pablogėję santykiai nepasitaisė ir po Torno sutarties\n(1411), nors joje ir buvo vėl susitarta dėl laisvos savitarpio\nprekybos. Kadangi Henrikas von Plauenas ruošėsi į naują karą,\naišku, kad nuoširdžių santykių su Vytautu negalėjo būti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178211
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Ulrichas von Jungingenas]]

@@ -17,6 +17,18 @@ tags:
   - vyskupas
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Stepono Batoro 1576 m. gruodžio 20 d. laiškas
 
@@ -29,10 +41,22 @@ amziai:
 <a id="claim-t-88337"></a>
 - t-001
   global_id: t-88337
-  teiginys: 'Stepono Batoro parašo faksimilė paimta iš jo 1576 m. gruodžio 20 d. rašyto laiško.'
+  teiginys: "Stepono Batoro parašo faksimilė paimta iš jo 1576 m. gruodžio 20 d. rašyto laiško."
+  temporaliniai_duomenys: "įvykio data: 1576 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia pašalinti netikslią ir gremėzdišką formuluotę, išlaikant citatos faktą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "870540-871951; hash=91b5bf2cda6e71d3ffaf21cda676bec7e31456e1127f3cb6f134be81c984e937; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Steponas Batoras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Stepono Batoro 1576 m. gruodžio 20 d. laiškas: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Steponas Batoras: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stepono Batoro 1576 m. gruodžio 20 d. laiškas\" parinktas kaip owner_note_path. Targetas \"Steponas Batoras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-84316
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -86,8 +110,67 @@ amziai:
     nigaikščio Jurgio Radvilos pa­
     rašas - Jerzij C ard.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-84316
+  citata_originali: |
+    Mikalojaus bažnyčia (planas) /
+    p. 206
+    • Majestotinis prikabinamas LDK
+    didžiojo kunigaikščio Žygimanto
+    Kęstutaičio antspaudas, įspaustas
+    vaške prie 1436 metų dokumento
+    originalo / p. 208
+    • Aleksandras Jogailaitis, Lenkijos
+    karalius ir Lietuvos didysis kuni­
+    gaikštis / p. 228
+    • 1733 metų Vilniaus vaivadijos
+    žemės teismo antspaudas / p. 253
+    •Steponas Batoras, Lenkijos karalius
+    ir Lietuvos didysis kunigaikštis /
+    p. 258
+    • Vilniaus Žemutinė pilis /p. 265
+    • Aukštutinės pilies griuvėsiai /p. 277
+    •Jurgis Radvila, Vilniaus vyskupas,
+    kardinolas; Valerijonas Protasevi-
+    čius, Vilniaus vyskupas; Stanislo­
+    vas Varševickis, SJ, pirmasis Vil­
+    niaus kolegijos rektorius / p. 290
+    •Vilniaus Šv. Onos bažnyčia / p. 297
+    • Faksimilės, paimtos iš dekretų ir
+    laiškų, esančių Radvilų archyve,
+    originalų:
+    1) Aleksandro Jogailaičio dovanoji­
+    mas Vilniaus miestiečiui Maksi-
+    mui Užupyje Vilniuje / p. 447
+    2) Žygimanto Senojo parašas - Si­
+    gismundus Rex Į p. 447
+    3) Karalienės Bonos parašas - Bona
+    Regina / p. 447
+    4) Žygimanto Augusto parašas - Si­
+    gismundus Augustus Rex / p. 447
+    5) Parašai ant privilegijos, išduotos
+    Bekešui dėl Alantos dvaro - Step­
+    hanus Rex - ]an Hlebowicz na Dub-
+    rownie Kaszt. Mienskij Podskarbij
+    Ziemskij i Pisar / p. 448
+    6) Stepono Batoro parašas iš laiško,
+    rašyto 1576 m. gruodžio 20 d. /
+    p. 448
+    - 7) Vilniaus vyskupo ir kardinolo ku­
+    nigaikščio Jurgio Radvilos pa­
+    rašas - Jerzij C ard.
+  citata_rodoma: "448\n6) Stepono Batoro parašas iš laiško, \nrašyto 1576 m. gruodžio 20 d. / \np. 448\n- 7) Vilniaus vyskupo ir kardinolo ku­\nnigaikščio Jurgio Radvilos pa­\nrašas - Jerzij C ard."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88337

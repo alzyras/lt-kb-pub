@@ -4,9 +4,11 @@ pavadinimas: 'Valerijono bursos studentų maitinimas ir maldos už fundatorių'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
+  - '1500 m.'
   - '1579 m.'
-date_start: '1579'
-date_end: ''
+  - '1763 m.'
+date_start: '1500'
+date_end: '1763'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -14,7 +16,20 @@ tags:
   - paprotys
   - vyskupas
 amziai:
-  - 'XVI'
+  - 'XV'
+  - 'XVIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Valerijono bursos studentų maitinimas ir maldos už fundatorių
 
@@ -47,10 +62,35 @@ Nenurodyta
 <a id="claim-t-87231"></a>
 - t-001
   global_id: t-87231
-  teiginys: '1579 m. kovo 6 d. Vilniaus vyskupas Valerijonas Protasevičius užrašė Akademijai tris mūrinius namus studentų maitinimui ir maldoms už fundatorių.'
+  teiginys: "1579 m. kovo 6 d. Vilniaus vyskupas Valerijonas Protasevičius užrašė Akademijai tris mūrinius namus studentų maitinimui ir maldoms už fundatorių."
+  temporaliniai_duomenys: "įvykio data: 1579 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs; citata palaiko glaustą faktą apie fundacijos sąlygas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "396733-397457; hash=e055ef4245fd71b1e87429db4276b9677076d2a510afe559696c16cf9ca4d312; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Valerijonas Protasevičius (vyskupas): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Valerijono bursos studentų maitinimas ir maldos už fundatorių: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Valerijonas Protasevičius (vyskupas): mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijono bursos studentų maitinimas ir maldos už fundatorių\" parinktas kaip owner_note_path. Targetas \"Valerijonas Protasevičius (vyskupas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-83210
 
+<a id="claim-t-194194"></a>
+- t-002
+  global_id: t-194194
+  teiginys: "1631 metais garbioji Vilniaus kapitula 4000 auksinų sumą davė kun. Pilypui Frizijui, o kun. Frizijus, pridėjęs savų 1500 auksinų, iki 5 500 išaugusią sumą atidavė Vilniaus kahalo žydams; nuo šios sumos kahalas iki 1763 metų Valerijono konvikto gyventojams 8."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "397458-398245; hash=f2aac640088d99ac9ed8f0fa7ba8494c6c3c61f2c36c0e37548262dce8a830b4; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176798
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -71,8 +111,92 @@ Nenurodyta
     dolskis - 500 auksinų, Stanislovas Goreckis - 2500 auksinų,
     Laurynas Volskis - 250 auksinų, ir susidarė 4 000 suma.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: '1631 metais garbioji Vilniaus kapitula 4000 auksinų sumą davė kun. Pilypui Frizijui, o kun. Frizijus, pridėjęs savų 1500 auksinų, iki 5 500 išaugusią sumą atidavė Vilniaus kahalo žydams; nuo šios sumos kahalas iki 1763 metų Valerijono konvikto gyventojams 8.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    186
+
+    ## Puslapis 203
+
+    Il KNYGA
+    1631 metais garbioji Vilniaus kapitula 4000 auksinų sumą
+    davė kun. Pilypui Frizijui, o kun. Frizijus, pridėjęs savų 1500
+    auksinų, iki 5 500 išaugusią sumą atidavė Vilniaus kahalo
+    žydams; nuo šios sumos kahalas iki 1763 metų Valerijono
+    konvikto gyventojams 8 nuošimčius mokėjo.
+    O nuo 1763 metų, Komisijos sprendimu, moka tik 3 nuo­
+    šimčius, kas metinių pajamų tesudaro 165 auksinus.
+    1632 metais sausio 2-ą Akademijos Rektorius Frizijus iš
+    Žemaičių vyskupo Merkelio Geišos Eljaševičiaus, jo mūrinį
+    quondam [kitados] Eljaševičiaus, ad praesens [dabar] Vaito va­
+    dinamą, nupirkęs, iš metinio činšo, siekiančio 800 auksinų,
+    pusę to činšo, 400 auksinų, Valerijono bursai moka, kas iki
+    šiol būdavo punktualiai atiduodama Valerijono konvikto gy­
+    ventojams.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+## Citatos
+
+- id: c-83210
+  citata_originali: |
+    Be to, dar anksčiau minėtas Vilniaus vyskupas Protase-
+    vičius tris mūrinius namus, vieną Bernardinų gatvėje, o du
+    Vyskupų gatvėje, 1579 metų kovo 6 dieną, fundacijos teise,
+    užrašė Akademijai ir Collegio, nustatydamas sąlygas:
+    lmo: kad keliems studentams, neturintiems už ką baigti
+    mokslus, būtų duodamas valgis.
+    2mo: kad tie namai būtų vadinami Valerijono bursomis.
+    3tio: kad konviktuose gyvenantys studentai, katedroje,
+    prieš Šv. Kryžiaus altorių, mišių klausydamiesi, aukotų mal­
+    das už fundatoriaus sielą. Insuper 750 auksinų sumą užrašė,
+    prie kurios prisidėjo Vilniaus kanauninkai Marcelis Sucho-
+    dolskis - 500 auksinų, Stanislovas Goreckis - 2500 auksinų,
+    Laurynas Volskis - 250 auksinų, ir susidarė 4 000 suma.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87231
+
+- id: c-176798
+  citata_originali: |
+    186
+
+    ## Puslapis 203
+
+    Il KNYGA
+    1631 metais garbioji Vilniaus kapitula 4000 auksinų sumą
+    davė kun. Pilypui Frizijui, o kun. Frizijus, pridėjęs savų 1500
+    auksinų, iki 5 500 išaugusią sumą atidavė Vilniaus kahalo
+    žydams; nuo šios sumos kahalas iki 1763 metų Valerijono
+    konvikto gyventojams 8 nuošimčius mokėjo.
+    O nuo 1763 metų, Komisijos sprendimu, moka tik 3 nuo­
+    šimčius, kas metinių pajamų tesudaro 165 auksinus.
+    1632 metais sausio 2-ą Akademijos Rektorius Frizijus iš
+    Žemaičių vyskupo Merkelio Geišos Eljaševičiaus, jo mūrinį
+    quondam [kitados] Eljaševičiaus, ad praesens [dabar] Vaito va­
+    dinamą, nupirkęs, iš metinio činšo, siekiančio 800 auksinų,
+    pusę to činšo, 400 auksinų, Valerijono bursai moka, kas iki
+    šiol būdavo punktualiai atiduodama Valerijono konvikto gy­
+    ventojams.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194194

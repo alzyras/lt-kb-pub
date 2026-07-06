@@ -16,6 +16,18 @@ tags:
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lukomlis
 
@@ -26,18 +38,43 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
 ## Teiginiai
 
 <a id="claim-t-68568"></a>
-- t-001
+- t-002
   global_id: t-68568
-  teiginys: 'Švitrigaila po 11 savaičių traukdamasis grįžo į Lukomlį, kur paleido kariuomenę, o pats išvyko į Kijevą.'
+  teiginys: "Švitrigaila po 11 savaičių traukdamasis grįžo į Lukomlį, kur paleido kariuomenę, o pats išvyko į Kijevą."
+  semantiniai_rysiai: "Švitrigaila keliavo į Lukomlis (0.90); Švitrigaila keliavo į Kijevas (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "273861-274119; hash=5647f72a0be0e13c2928385563db3af32c3fe0889f9d98dc04b77e3c7c283e6c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Kijevas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Švitrigailos išvykimą į Kijevą."
   pagrindžia:
-    - c-001
+    - c-43606
 
 <a id="claim-t-68569"></a>
-- t-002
+- t-001
   global_id: t-68569
-  teiginys: 'Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.'
+  teiginys: "Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą."
+  semantiniai_rysiai: "Andrius Polockietis užėmė Lukomlis (0.94)"
+  temporaliniai_duomenys: "įvykio data: 1385 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra factualus pilnas sakinys ir atitinka citatą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "789167-789405; hash=291f2f316912208f25b658a044f8acfbee878919c383ef87c07f581beccd3a61; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Lukomlis: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Andrius Polockietis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lukomlis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Andrius Polockietis užėmė Lukomlį."
   pagrindžia:
-    - c-002
+    - c-68114
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Rudasis.md#claim-t-113892|Mikalojus Radvila Rudasis]]: Mikalojus Radvila Rudasis žvalgų buvo greitai informuotas apie P. Šuiskio žygį iš Polocko ir tuo metu buvo Lukomlyje.
 - susijęs iš [[objektai/ivykiai/Andriaus Algirdaičio maištas prieš Jogailą.md#claim-t-186724|Andriaus Algirdaičio maištas prieš Jogailą]]: Per Andriaus Algirdaičio maištą Livonijos kryžiuočiai padėjo Andriui Algirdaičiui užimti Lukomlį.
 - susijęs iš [[objektai/ivykiai/Livonijos ordino reidas po šiaurės rytų Lietuvą.md#claim-t-186745|Livonijos ordino reidas po šiaurės rytų Lietuvą]]: 1433 m. sausio 30–vasario 9 d. Livonijos kariuomenė surengė reidą po šiaurės rytų Lietuvą, o Švitrigaila pasiliko Lukomlyje telkti kariuomenės.
@@ -62,8 +99,9 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
     žemę ir netrukus mirė nuo parsivežtos
     ligos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -77,11 +115,47 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
     Dar 1385 m. rudenį (X.10) jis su Livonijos magistru buvo sudaręs
     vasalinę sutartį.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-43606
+  citata_originali: |
+    Švitrigailos
+    rėmėjų kariuomenėje kilo arklių maras,
+    mirė ir daug žmonių. Švitrigaila po 11 sa-
+    vaičių traukdamasis grįžo į Lukomlį,
+
+    kur paleido kariuomenę, o pats išvyko į
+    Kijevą. Livonijos magistras grįžo į savo
+    žemę ir netrukus mirė nuo parsivežtos
+    ligos.
+  citata_rodoma: "Švitrigaila po 11 sa-\nvaičių traukdamasis grįžo į Lukomlį,\n\nkur paleido kariuomenę, o pats išvyko į\nKijevą. Livonijos magistras grįžo į savo\nžemę ir netrukus mirė nuo parsivežtos\nligos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-68568
+
+- id: c-68114
+  citata_originali: |
+    Vykdamu Lietuvon malšinti sukilimo, jiedu
+    turėjo raštu pažadėti, pareikalavus, atgal sugrįžti.
+    Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
+    Dar 1385 m. rudenį (X.10) jis su Livonijos magistru buvo sudaręs
+    vasalinę sutartį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-68569
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Švitrigaila]]

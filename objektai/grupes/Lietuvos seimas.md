@@ -16,6 +16,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvos seimas (seimas)
 
@@ -28,16 +40,38 @@ Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
 <a id="claim-t-72534"></a>
 - t-001
   global_id: t-72534
-  teiginys: 'Lietuvos seimas liepos 30 d. ratifikavo konvenciją.'
+  teiginys: "Lietuvos seimas liepos 30 d. ratifikavo konvenciją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "1161647-1161920; hash=27d7a10fb05a5d62a43eceaaa4fcc9fcfb25f2d30ccf30714bcb5c8c487d42f9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos seimas (seimas): owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos seimas (seimas)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-46373
 
 <a id="claim-t-72535"></a>
 - t-002
   global_id: t-72535
-  teiginys: 'Lietuvos seimas konvenciją ratifikavo liepos 30 d.'
+  teiginys: "Lietuvos seimas konvenciją ratifikavo liepos 30 d."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "1161647-1161920; hash=27d7a10fb05a5d62a43eceaaa4fcc9fcfb25f2d30ccf30714bcb5c8c487d42f9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos seimas (seimas): owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos seimas (seimas)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
+    - c-46373
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75745|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1917 m. A. Smetona išrinktas Lietuvos Tarybos pirmininku, tikintis, kad jis įveiks radikaliosios ir konservatyviosios dalių prieštaravimus.
 - susijęs iš [[objektai/grupes/Ambasadorių Konferencija.md#claim-t-152692|Ambasadorių Konferencija]]: 1923 m. vasario 17 d. Ambasadorių konferencija perleido suverenias Klaipėdos teises Lietuvai.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179217|Lietuviai]]: Konferencijos rezoliucijoje lietuviai numatė nepriklausomą demokratišką valstybę etnografinėmis ribomis.
@@ -74,12 +108,33 @@ Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
 
     **4.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+
+## Citatos
+
+- id: c-46373
+  citata_originali: |
+    Ket-
+    virtoji dalis liečia tranzitą upe ir geležinkeliais. Pagaliau
+    penktoje dalyje signatarai apsiima pripažinti po ratifikacijos
+    teisėtais Lietuvos vyriausybės aktus, kuriais ji palaikė tvarką šalyje.
+    Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
+
+    **4.
+  citata_rodoma: "Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.\n\n**4."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-72534
+    - t-72535
 
 ## Ryšiai
 - Lietuvos seimas (seimas) rėmė [[objektai/grupes/Vyriausias Mažosios Lietuvos gelbėjimo komitetas]]

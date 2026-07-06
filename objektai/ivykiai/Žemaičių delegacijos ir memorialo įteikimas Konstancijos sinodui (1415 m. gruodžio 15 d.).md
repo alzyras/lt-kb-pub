@@ -14,6 +14,18 @@ tags:
   - kunigas
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Žemaičių delegacijos ir memorialo įteikimas Konstancijos sinodui (1415 m. gruodžio 15 d.)
 
@@ -42,10 +54,22 @@ Nenurodyta
 <a id="claim-t-35923"></a>
 - t-001
   global_id: t-35923
-  teiginys: '1415 m. gruodžio 15 d. į Konstancijos sinodą buvo nusiųsta 60 pakrikštytų žemaičių bajorų, kurie įteikė memorialą „Propositio Samaytarum“.'
+  teiginys: "1415 m. gruodžio 15 d. į Konstancijos sinodą buvo nusiųsta 60 pakrikštytų žemaičių bajorų, kurie įteikė memorialą „Propositio Samaytarum“."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) siuntė į Konstancija (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1415 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "677514-678055; hash=cfb81f8f6e32b8a9a55be39022fe6a9846a301077cccf042d30c057c0aafd136; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Konstancija: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Konstancija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatos kontekste „jis“ reiškia Vytautą, kuris nusiuntė žemaičių bajorus į sinodą Konstancijoje."
   pagrindžia:
-    - c-001
-
+    - c-38334
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -62,8 +86,31 @@ Nenurodyta
     kunigas Dr. J. Fijalek, ir šiandien dar negalima sausomis akimis
     skaityti^3 ).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-38334
+  citata_originali: |
+    Prieš Ordiną toliau Vytautas kartu su Lenkija
+    vedė tai ginklu, tai diplomatišką kovą siekdamas išgauti amžiną
+    atsisakymą nuo Žemaitijos. Tos kovos metu jis vėl pagarsino
+    savo darbus ir sukompromitavo katalikiško pasaulio akyse
+    Ordiną. Jis 1415 mt. gruodžio 15 d. į visuotinį Bažnyčios
+    sinodą Konstancijoje nusiuntė net 60 apkrikštytu žemaičių ba­
+    joru, kurie įteikė sinodui ilgą memorialą — skundą „Propo­
+    sitio Samaytarum” kurio dėl graudingumo, kaip sako prof.
+    kunigas Dr. J. Fijalek, ir šiandien dar negalima sausomis akimis
+    skaityti^3 ).
+  citata_rodoma: "Jis 1415 mt. gruodžio 15 d. į visuotinį Bažnyčios\nsinodą Konstancijoje nusiuntė net 60 apkrikštytu žemaičių ba­\njoru, kurie įteikė sinodui ilgą memorialą — skundą „Propo­\nsitio Samaytarum” kurio dėl graudingumo, kaip sako prof.\nkunigas Dr. J. Fijalek, ir šiandien dar negalima sausomis akimis\nskaityti^3 )."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-35923

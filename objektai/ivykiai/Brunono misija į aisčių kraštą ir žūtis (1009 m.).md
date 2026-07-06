@@ -9,10 +9,6 @@ datos:
   - '1009 m.'
 date_start: '1008'
 date_end: '1009'
-aliases:
-  - 'objektai/ivykiai/Brunono Bonifaco misija į aisčių kraštą ir žūtis'
-variantai:
-  - 'Brunono Bonifaco misija į aisčių kraštą ir žūtis'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -21,6 +17,18 @@ tags:
   - krikštas
 amziai:
   - 'XI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Brunono misija į aisčių kraštą ir žūtis (1009 m.)
 
@@ -51,19 +59,43 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
 ## Teiginiai
 
 <a id="claim-t-10801"></a>
-- t-001
+- t-004
   global_id: t-10801
-  teiginys: 'Per misiją į aisčių kraštą Brunonas žuvo jotvingų krašte.'
+  teiginys: "Per misiją į aisčių kraštą Brunonas žuvo jotvingų krašte."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "95529-95728; hash=dcdd25ed629f05784b016ffdd59d25ea4831f984f29ed34f79429d2965ceac02; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aisčiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Brunono misija į aisčių kraštą ir žūtis (1009 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Aisčiai: mention_match, group, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Brunono misija į aisčių kraštą ir žūtis (1009 m.)\" parinktas kaip owner_note_path. Targetas \"Aisčiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T06:48:43Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
+    - c-00189
 
 <a id="claim-t-71739"></a>
 - t-002
   global_id: t-71739
-  teiginys: '1009 m. vasario 14 d. Brunonas buvo suimtas ir nužudytas su visais palydovais.'
+  teiginys: "1009 m. vasario 14 d. Brunonas buvo suimtas ir nužudytas su visais palydovais."
+  semantiniai_rysiai: "Brunonas mirė Lietuva (0.66); Brunonas mirė Rusija (0.66)"
+  temporaliniai_duomenys: "įvykio data: 1009 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "334334-334801; hash=2480253360a37b494d9798de90f5923254bcd7d5415693d4c10755ee8a7969c3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "mire -> Lietuva: 0.66"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Brunonas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje nurodoma Brunono nužudymo vieta prie Lietuvos ir Rusijos sienos; kaip vietos objektas parenkama Lietuva."
   pagrindžia:
-    - c-002
-
+    - c-70265
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -75,6 +107,7 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
     to paties Boleslovo. Ir Bonifacas buvo paskelbtas šventuoju
     kankiniu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -93,8 +126,42 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
     jog jau XI amž. pradžioje ir Vakaruose buvo žinoma, kur prasi­
     deda Lietuvos ribos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-00189
+  citata_originali: |
+    Kuriose vietose jis apaštalavo, nežinia, tik tiek žinoma, kad žuvo
+    jotvingų krašte. Jo ir palydovų lavonai taip pat buvo išpirkti
+    to paties Boleslovo. Ir Bonifacas buvo paskelbtas šventuoju
+    kankiniu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-10801
+
+- id: c-70265
+  citata_originali: |
+    Tikra yra, kad Lietuvos vardą («Litua») pirmieji paminėjo
+    Annales Quedlinburgenses, pažymėdami, kad 1009 m. prie Lietuvos
+    ir Rusijos sienos («in confinio Rusciae et Lituae ») buvo nužudytas
+    misininkas šv. Bruno su savo aštuoniolika palydovų. Pažymėjimas,
+    kad nužudymas įvykęs Lietuvos — Rusijos pasienyje (greičiausiai
+    prie Gardino — Nemuno, jotvingių žemėje), leidžia daryti išvadą,
+    jog jau XI amž. pradžioje ir Vakaruose buvo žinoma, kur prasi­
+    deda Lietuvos ribos.
+  citata_rodoma: "Tikra yra, kad Lietuvos vardą («Litua») pirmieji paminėjo\nAnnales Quedlinburgenses, pažymėdami, kad 1009 m. prie Lietuvos\nir Rusijos sienos («in confinio Rusciae et Lituae ») buvo nužudytas\nmisininkas šv. Bruno su savo aštuoniolika palydovų. Pažymėjimas,"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-71739

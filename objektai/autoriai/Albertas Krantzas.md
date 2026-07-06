@@ -15,6 +15,18 @@ amziai:
   - 'XI'
 periodo_grupes:
   - 'viduramžiai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Albertas Krantzas
 
@@ -27,23 +39,53 @@ Albertas Krantzas minimas tarp vėlesnių kronikininkų ir siejamas su „Wandal
 <a id="claim-t-54997"></a>
 - t-001
   global_id: t-54997
-  teiginys: 'Albertas Krantzas priskirtas vėlesniems kronikininkams, kurie Gedimino laiškų klausimą siejo su arkivyskupu.'
+  teiginys: "Albertas Krantzas priskirtas vėlesniems kronikininkams, kurie Gedimino laiškų klausimą siejo su arkivyskupu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "208950-209156; hash=f492bd8ac8ba6858a84f9b418d930dc596fc9dcf8e4fd81000cb511bf5130172; match=whitespace_regex"
+  sprendimo_priezastis: "gap::authors"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Albertas Krantzas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=62"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albertas Krantzas\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-55562
 
 <a id="claim-t-54998"></a>
 - t-002
   global_id: t-54998
-  teiginys: 'Pasak Alberto Krantzo, Gediminas pareiškė, kad popiežiaus nei pažinojo, nei troško pažinti.'
+  teiginys: "Pasak Alberto Krantzo, Gediminas pareiškė, kad popiežiaus nei pažinojo, nei troško pažinti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "201050-201428; hash=31849ccce8f3d7877ae3ae407875115be110267833bc29b830582d647f102b35; match=whitespace_regex"
+  sprendimo_priezastis: "gap::authors"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Albertas Krantzas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albertas Krantzas\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-55563
 
 <a id="claim-t-81884"></a>
 - t-003
   global_id: t-81884
-  teiginys: 'Albertas Krantzas teigė, kad Gediminas buvo prisiekęs gyventi ir mirti išpažindamas savo tėvų tikėjimą.'
+  teiginys: "Albertas Krantzas teigė, kad Gediminas buvo prisiekęs gyventi ir mirti išpažindamas savo tėvų tikėjimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "199959-200201; hash=463e4c69d16a636049a1893d223a64be5aa744a6dad3afa8510d3d96d807faea; match=whitespace_regex"
+  sprendimo_priezastis: "gap::authors"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Albertas Krantzas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albertas Krantzas\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-78421
 - susijęs iš [[objektai/autoriai/Hermanas Corneris Korneris.md#claim-t-88025|Hermanas Corneris Korneris]]: Hermano Kornerio kronikoje teigta, kad Gediminas buvo prisiekęs gyventi ir mirti išpažindamas savo tėvų tikėjimą.
 - susijęs iš [[objektai/autoriai/Hermanas Korneris.md#claim-t-88062|Hermanas Korneris]]: Hermano Kornerio kronikoje teigta, kad Gediminas buvo prisiekęs gyventi ir mirti išpažindamas savo tėvų tikėjimą.
 - susijęs iš [[objektai/posakiai/Gyventi ir mirti savo tėvų tikėjimą išpažindamas jokio kito įstatymo nenori priimti.md#claim-t-86850|Gyventi ir mirti savo tėvų tikėjimą išpažindamas jokio kito įstatymo nenori priimti]]: Dusburgo pranešimu, Gediminas per pasiuntinį pareiškė, kad nepriims kitų teisių ir laikysis tų, kurių laikėsi jo tėvai.
@@ -60,8 +102,9 @@ Albertas Krantzas minimas tarp vėlesnių kronikininkų ir siejamas su „Wandal
     Herm. Corneri Chron. p. 1000, nieko apie Gedimino
     laiškus nėra girdėję, o viską priskiria arkivyskupui.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -77,6 +120,7 @@ Albertas Krantzas minimas tarp vėlesnių kronikininkų ir siejamas su „Wandal
     vestrum nec novi, nec nosse cupio [Jūsų Tėvo nei pažinojau,
     nei trokštu pažinti].
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -93,8 +137,54 @@ Albertas Krantzas minimas tarp vėlesnių kronikininkų ir siejamas su „Wandal
     Gediminas buvo prisiekęs, kad nori gyventi ir mirti savo
     tėvų tikėjimą išpažindamas!
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-55562
+  citata_originali: |
+    4) Vėlesni kronikininkai: A 1 b.
+    K r a n t z, Wand. L. VIII, p. 9, K o j e 1 a v i č i u s, p. 271,
+    Herm. Corneri Chron. p. 1000, nieko apie Gedimino
+    laiškus nėra girdėję, o viską priskiria arkivyskupui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54997
+
+- id: c-55563
+  citata_originali: |
+    Taigi čia turime aiškų paties Gedimino prisipažinimą, kad
+    niekados jokių laiškų nei popiežiui, nei Vokietijos mies­
+    tams nebuvo rašęs nei liepęs rašyti ir apskritai niekados
+    net nebuvo pareiškęs noro priimti krikščionių tikėjimą.
+    Anot K r a n t z o, 1 c., Gediminas taip pat pareiškęs: Papam
+    vestrum nec novi, nec nosse cupio [Jūsų Tėvo nei pažinojau,
+    nei trokštu pažinti].
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54998
+
+- id: c-78421
+  citata_originali: |
+    Tas pareiškimas prieštarauja Koje-
+    1 a v i č i a u s (p. 272), Hermano Kornerio (Chron. p. 1006),
+    Alberto Krantzo (Wandal. L. VIII, c. 9) teiginiams, esą
+    Gediminas buvo prisiekęs, kad nori gyventi ir mirti savo
+    tėvų tikėjimą išpažindamas!
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-81884

@@ -15,6 +15,18 @@ tags:
   - vieta
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Možaiskas
 
@@ -25,46 +37,124 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
 ## Teiginiai
 
 <a id="claim-t-02612"></a>
-- t-001
+- t-007
   global_id: t-02612
-  teiginys: 'Možaiskas buvo Lietuvos sąjungininkas, kurį Maskva privertė pasiduoti jos valdžiai.'
+  teiginys: "Možaiskas buvo Lietuvos sąjungininkas, kurį Maskva privertė pasiduoti jos valdžiai."
+  temporaliniai_duomenys: "įvykio data: 1471 m.; įvykio data: 1479 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata remia faktą apie Možaiską, bet sakinys performuluotas objektiškai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "388829-389097; hash=bae85570ea5420dee79bb4f9d1a28822b8eb4a3b69e674a5e85b5912ff46a16a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Možaiskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=15"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Možaiskas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-02850
 
 <a id="claim-t-185053"></a>
 - t-002
   global_id: t-185053
-  teiginys: 'Žvalgams pranešus apie netoliese esantį Možaiską, Algirdas surikiavo karius kautynių tvarka ir išvedė į vieškelį.'
+  teiginys: "Žvalgams pranešus apie netoliese esantį Možaiską, Algirdas surikiavo karius kautynių tvarka ir išvedė į vieškelį."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "386368-386873; hash=033ed36788bcaf8ab87fefd601fee754afc78a5c6dc5802c2201ba965b321a0a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Možaiskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Možaiskas\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-168414
 
 <a id="claim-t-185054"></a>
 - t-003
   global_id: t-185054
-  teiginys: 'Žygūnas per naktines pamaldas pranešė kunigaikščiui, kad priešą paliko Možaiske.'
+  teiginys: "Žygūnas per naktines pamaldas pranešė kunigaikščiui, kad priešą paliko Možaiske."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "387368-387951; hash=0eefe846d169613e6f1da3aa4455930a7f1e0f51997f66d4de3391bfad7b43b9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Možaiskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Možaiskas\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-168415
 
 <a id="claim-t-185055"></a>
 - t-004
   global_id: t-185055
-  teiginys: 'Pagal taikos sąlygas Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros upės.'
+  teiginys: "Pagal taikos sąlygas Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros upės."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "390019-390567; hash=aed60deb9a6ba983396aacfee058c0b863b920077f98f4440a7ea24491b7fa14; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dimitrijus: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Možaiskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Dimitrijus: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Možaiskas\" parinktas kaip owner_note_path. Targetas \"Dimitrijus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-168416
 
 <a id="claim-t-185056"></a>
 - t-005
   global_id: t-185056
-  teiginys: 'Pirmoji pasiuntinybė patraukė į Možaiską tik gavusi žinią, kad karaliaus legatai yra Smolenske.'
+  teiginys: "Pirmoji pasiuntinybė patraukė į Možaiską tik gavusi žinią, kad karaliaus legatai yra Smolenske."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1160887-1161345; hash=56e90388b936b28f090c09e8bbb2fac98fe9b4217938adc784e502734b2427e9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Smolenskas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Možaiskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Smolenskas: mention_match, place, gap=53"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Možaiskas\" parinktas kaip owner_note_path. Targetas \"Smolenskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-168417
 
 <a id="claim-t-185057"></a>
 - t-006
   global_id: t-185057
-  teiginys: 'Vasilijus įsakė sulaikyti karaliaus pasiuntinius Možaiske, kai Maskvą pasiekė žinia apie valachų pasiuntinių sulaikymą.'
+  teiginys: "Vasilijus įsakė sulaikyti karaliaus pasiuntinius Možaiske, kai Maskvą pasiekė žinia apie valachų pasiuntinių sulaikymą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1170679-1171129; hash=1e64f16483ae5aa58fdfbd8c033af5f82494cd644dbd34bb53121c876afa58ee; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Možaiskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Možaiskas\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-168418
 - susijęs iš [[objektai/ivykiai/Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas.md#claim-t-185530|Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas]]: Vasilijus išsiuntė žygūną į Možaiską ir įsakė tučtuojau paleisti karaliaus legatus, kurie netrukus grįžo namo.
 - susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas.md#claim-t-187467|Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas]]: Algirdas ir Maskvos valdovas Dimitrijus sutarė sudaryti taiką, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros.
 - susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą.md#claim-t-187465|Algirdo žygis į Maskvą]]: Lietuvos metraštis teigia, kad po šio žygio siena buvo nukelta ligi Možaisko ir Kolomnos.
@@ -106,6 +196,7 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
     (pirmasis buvo 1471 m., antrasis — 1479 m.) prijungė prie
     Maskvos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -127,6 +218,7 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
     šitokius žodžius: tegu jis nešąs nelyginant laišką ir
     dovaną savo valdovui šį deglą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -154,6 +246,7 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
     koks sąmyšis kilo tarp žmonių, kai pasklido gandai
     apie tokį netikėtą pavojų.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -178,6 +271,7 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
     gi Možaisko ir Ugros upės. Dimitrijus sumokėsiąs ka­
     reiviams algą, o vadui — karo išlaidas.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -198,6 +292,7 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
     lenske. Vis dėlto, kaip rodo mano šaltiniai, iki Nau­
     jųjų metų nepradėta kalbėtis dėl taikos.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -218,11 +313,132 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
     Pritrenktas šios žinios, Vasilijus įsakė sulaikyti kara­
     liaus pasiuntinius Možaiske.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
+## Citatos
+
+- id: c-02850
+  citata_originali: |
+    Tad Maskva
+    galėjo laisvai veikti. Pirmiausia ji privertė savo valdžiai pasi-
+    duoti Lietuvos sąjungininkus Tverę ir vėliau Možaiską. Psko-
+    vas jai buvo palankus; o D. Naugardą Jonas III po antrojo žygio
+    (pirmasis buvo 1471 m., antrasis — 1479 m.) prijungė prie
+    Maskvos.
+  citata_rodoma: "Pirmiausia ji privertė savo valdžiai pasi-\nduoti Lietuvos sąjungininkus Tverę ir vėliau Možaiską. Psko-\nvas jai buvo palankus; o D. Naugardą Jonas III po antrojo žygio\n(pirmasis buvo 1471 m., antrasis — 1479 m.) prijungė prie\nMaskvos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-02612
+
+- id: c-168414
+  citata_originali: |
+    Visiems įsakė nieko nedeginti ir
+    nieko neniokoti; gyventojus leido skriausti tik tada,
+    kai reikėjo gauti maisto bei pašaro. Kai žvalgai pra­
+    nešė, jog netoliese esąs didelis miestas Možaiskas, Al­
+    girdas, leidęs kariams šiek tiek pailsėti, surikiavo juos
+    kautynių tvarka ir išvedė į atvirą vieškelį. Tada, pasi­
+    kvietęs žygūną (šis ligi tol nežinojo, kas su juo da­
+    roma ir kur esąs atvežtas), įteikė jam deglą ir pasakė
+    šitokius žodžius: tegu jis nešąs nelyginant laišką ir
+    dovaną savo valdovui šį deglą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185053
+
+- id: c-168415
+  citata_originali: |
+    Nuo
+    stovyklos iki Maskvos bebuvo likę dar aštuoniolika
+    mylių, tačiau kariai šį kelią taip greitai, regis, pusris-
+    čia sukorė, kad žygūnas tik keliomis valandomis pra­
+    lenkė iš paskos sekančią kariuomenę. Tą pačią naktį,
+    skirtą paminėti Kristaus iš numirusių prisikėlimui ir
+    krikščionių kasmet iškilmingai švenčiamą, kai kuni­
+    gaikštis ėjo bažnyčion į naktines pamaldas, prie jo
+    pribėgo žygūnas, pasakė, kas jam buvo liepta, ir pra­
+    nešė, kad priešą palikęs Možaiske. Nesunku atspėti,
+    224
+
+    ## Puslapis 223
+
+    koks sąmyšis kilo tarp žmonių, kai pasklido gandai
+    apie tokį netikėtą pavojų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185054
+
+- id: c-168416
+  citata_originali: |
+    Šitaip, kadangi ir Maskvos valdovas nepaprastai bi­
+    jojo visokių netikėtumų, ir lietuvis norėjo laiku iš­
+    vengti visokių atsitiktinumų, jie be didelio vargo su­
+    tarė sudaryti taiką šiomis sąlygomis: Algirdas, lydi­
+    mas žymiausiųjų palydovų ir
+    T a ik o s ta ip  m a s k v ė -
+    bajorų, įžengsiąs į miestą ne­
+    rių ir A lg ir d o  s ą ly g o s
+    lyginant draugas; tarsi nuga­
+    lėtojas jis įsmeigsiąs ietį į
+    pilies vartus. Lietuvos sienos būsiančios praplėstos li­
+    gi Možaisko ir Ugros upės. Dimitrijus sumokėsiąs ka­
+    reiviams algą, o vadui — karo išlaidas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185055
+
+- id: c-168417
+  citata_originali: |
+    Suderinę su karaliumi savo planus,
+    popiežiaus, imperatoriaus bei Romos karaliaus pasiun­
+    tiniai pirmieji iškeliavo į Maskvos kunigaikštystę, kur
+    iš paskos turėjo leistis ir karaliaus legatai, turėję tol
+    laukti pasienyje, kol jiems būsią leista įžengti į Mask­
+    vos žemę. Pirmoji pasiuntinybė patraukė į Možaiską
+    tik tada, kai gavo žinią, jog karaliaus legatai Smo­
+    lenske. Vis dėlto, kaip rodo mano šaltiniai, iki Nau­
+    jųjų metų nepradėta kalbėtis dėl taikos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185056
+
+- id: c-168418
+  citata_originali: |
+    Be to, sutarė teismų reikalus sutvarkyti iki
+    garsios Rusioje palaimintosios mergelės globėjos šven­
+    tės, sutikdamas, kad teismo posėdžiuose dalyvautų
+    Mackevičius. Karaliaus legatai jau keliavo namo, kai
+    Maskvą pasiekė žinia, jog valachų pasiuntiniai sulai­
+    kyti ir nuvaryti į Vilnių, o Vasilijaus jiems priskirtas
+    palydovas maskvėnas gavęs įsakymą grįžti į Maskvą.
+    Pritrenktas šios žinios, Vasilijus įsakė sulaikyti kara­
+    liaus pasiuntinius Možaiske.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185057
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

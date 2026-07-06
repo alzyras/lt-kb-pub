@@ -19,6 +19,18 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Venceslavas (Mazovijos ir Plocko kunigaikštis)
 
@@ -31,10 +43,23 @@ Savo dviejuose laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonislavas, 
 <a id="claim-t-87880"></a>
 - t-001
   global_id: t-87880
-  teiginys: 'Venceslavas tuo tarpsniu valdė Mazoviją ir Plocką, o 1321 m. sudarė sutartį su kryžiuočių Ordinu.'
+  teiginys: "Venceslavas tuo tarpsniu valdė Mazoviją ir Plocką, o 1321 m. sudarė sutartį su kryžiuočių Ordinu."
+  semantiniai_rysiai: "Venceslavas (Mazovijos ir Plocko kunigaikštis) sudarė sutartį su Kryžiuočių ordinas (0.95); Venceslavas (Mazovijos ir Plocko kunigaikštis) valdė Mazovija (0.84)"
+  temporaliniai_duomenys: "valdymo laikotarpis: 1321 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Venceslavas (Mazovijos ir Plocko kunigaikštis) valdė teritoriją Mazovija“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Venceslavo valdžią ir sutartį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "218341-219107; hash=70a64932d19776a6b83f8593211ea86f63868f19d8b318aec65db7ef74595be3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Venceslavas (Mazovijos ir Plocko kunigaikštis): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Venceslavo sutartį su Kryžiuočių ordinu."
   pagrindžia:
-    - c-001
-
+    - c-83859
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -55,11 +80,37 @@ Savo dviejuose laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonislavas, 
     kyta randame (p. 989 ir 993) prie 1327 metų - Venceslaus,
     V aniek arba Vanko Masovie Dux, bet dar irVVigand Marb.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83859
+  citata_originali: |
+    Ne tik prieštaringi tokie jų santykiai, bet tas, kuris tuos laiš­
+    kus rašė, klydo įsivaizduodamas Gedimino mąstyseną Ma­
+    zovijos kunigaikščio atžvilgiu ir, matyt, net gerai nežinojo,
+    kas tuo metu buvo Mazovijos kunigaikštis. Savo dviejuose
+    laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonisla-
+    vas, Mazovijos kunigaikštis]0. Niekur nevaliojome rasti Ma­
+    zovijos kunigaikščio tokiu vardu, tik žinome, kad tuo tarps­
+    niu valdė Wencenslaus dei gratia dux Masovie et Plocz
+    [Venceslavas, Dievo malone Mazovijos ir Plocko kuni­
+    gaikštis] (pasak dokumentų), tas pats, kuris 1321 metais su­
+    darė sutartį su kryžiuočių Ordinu, ir ne tik Dlugošo pasa­
+    kyta randame (p. 989 ir 993) prie 1327 metų - Venceslaus,
+    V aniek arba Vanko Masovie Dux, bet dar irVVigand Marb.
+  citata_rodoma: "Savo dviejuose \nlaiškuose jį vadina dominus Bonizlaus dux Masovie [Bonisla- \nvas, Mazovijos kunigaikštis]0. Niekur nevaliojome rasti Ma­\nzovijos kunigaikščio tokiu vardu, tik žinome, kad tuo tarps­\nniu valdė Wencenslaus dei gratia dux Masovie et Plocz \n[Venceslavas, Dievo malone Mazovijos ir Plocko kuni­\ngaikštis] (pasak dokumentų), tas pats, kuris 1321 metais su­\ndarė sutartį su kryžiuočių Ordinu, ir ne tik Dlugošo pasa­\nkyta randame (p. 989 ir 993) prie 1327 metų - Venceslaus, \nV aniek arba Vanko Masovie Dux, bet dar irVVigand Marb."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87880
 
 ## Ryšiai
 - Venceslavas (Mazovijos ir Plocko kunigaikštis) valdė [[objektai/vietos/Mazovija]]

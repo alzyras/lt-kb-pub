@@ -18,6 +18,18 @@ amziai:
   - 'XI'
 periodo_grupes:
   - 'viduramžiai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Netimeras
 
@@ -28,32 +40,89 @@ periodo_grupes:
 ## Teiginiai
 
 <a id="claim-t-19170"></a>
-- t-001
+- t-002
   global_id: t-19170
-  teiginys: 'Netimeras buvo Lietuvos „karalius“, kuris, Brunonui Bonifacijui atvykus į Lietuvą, įtikėjo ir krikštijosi.'
+  teiginys: "Netimeras buvo Lietuvos „karalius“, kuris, Brunonui Bonifacijui atvykus į Lietuvą, įtikėjo ir krikštijosi."
+  semantiniai_rysiai: "Netimeras buvo valdovas Lietuva (0.96)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "40083-40435; hash=b0e686f3ddb3368c53f344c75d8c7e74a31fddfda6cd7d55670287272eeab339; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_valdovas -> Lietuva: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Netimeras: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Netimeras tiesiogiai pavadintas Lietuvos „karaliumi“."
   pagrindžia:
-    - c-001
+    - c-21916
 
 <a id="claim-t-19171"></a>
-- t-002
+- t-001
   global_id: t-19171
-  teiginys: 'Brunonas Bonifacijus Lietuvoje apkrikštijo lietuvių vadą Netimerą, o vėliau žuvo nuo Netimero brolio rankos.'
+  teiginys: "Brunonas Bonifacijus Lietuvoje apkrikštijo lietuvių vadą Netimerą, o vėliau žuvo nuo Netimero brolio rankos."
+  semantiniai_rysiai: "Brunonas Bonifacijus keliavo į Lietuva (0.98)"
+  temporaliniai_duomenys: "įvykio data: 1009 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pridėta vieta iš citatos ir pašalintas galimas neaiškumas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "39298-39732; hash=6a54ff9cd3e8c9f94ccc4869cfbe91d222ac2ef29fd419779c8d8450b03ad675; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.98"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Brunonas Bonifacijus: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Brunono kelionė į Lietuvą pasakyta tiesiogiai."
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-003
+    - c-166954
 
 <a id="claim-t-19172"></a>
 - t-003
   global_id: t-19172
-  teiginys: 'Lietuvos „karaliaus“ Netimero krikštas datuojamas 1009 m.'
+  teiginys: "Lietuvos „karaliaus“ Netimero krikštas datuojamas 1009 m."
+  temporaliniai_duomenys: "įvykio data: 1009 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys yra trumpas, aiškus ir faktas tiesiogiai nurodytas citatoje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "40947-41435; hash=adb33939b156052cb069ae3fc0f122d2100fd6021e4b9cea224adc9cefda1f3e; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Adalbertas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Netimeras: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Adalbertas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Netimeras\" parinktas kaip owner_note_path. Targetas \"Adalbertas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-21917
 
 <a id="claim-t-183561"></a>
 - t-004
   global_id: t-183561
-  teiginys: 'Brunonas Bonifacijus Lietuvoje apkrikštijo lietuvių vadą Netimerą, bet vėliau žuvo nuo Netimero brolio rankos.'
+  teiginys: "Brunonas Bonifacijus Lietuvoje apkrikštijo lietuvių vadą Netimerą, bet vėliau žuvo nuo Netimero brolio rankos."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Brunonas Bonifacijus keliavo į Lietuva (0.98)"
+  temporaliniai_duomenys: "įvykio data: 1009 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys yra pilnas ir aiškiai pagrįstas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "39298-39732; hash=6a54ff9cd3e8c9f94ccc4869cfbe91d222ac2ef29fd419779c8d8450b03ad675; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.98"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Brunonas Bonifacijus: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Brunono kelionė į Lietuvą pasakyta tiesiogiai."
   pagrindžia:
-    - c-003
+    - c-166954
 - susijęs iš [[objektai/asmenys/Brunonas Bonifacijus.md#claim-t-18863|Brunonas Bonifacijus]]: Brunonas Bonifacijus iš prūsų specialiai vyko į Lietuvą, čia pakrikštijo vadą Netimerą ir vėliau žuvo nuo jo brolio rankos.
 - susijęs iš [[objektai/ivykiai/Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.).md#claim-t-75094|Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.)]]: Netimero vadovaujama bendruomenė turėjo tolti nuo gentinės santvarkos į valstybę, kad taptų verta misionierių dėmesio.
 - susijęs iš [[objektai/ivykiai/Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.).md#claim-t-75095|Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.)]]: Brunonas Bonifacijus Lietuvoje apkrikštijo lietuvių vadą Netimerą, bet vėliau žuvo nuo Netimero brolio rankos.
@@ -90,6 +159,7 @@ periodo_grupes:
     giau – šv. Brunonas Bonifacijus atrado Lietuvą ir jos „karalių“ Netimerą,
     kuris įtikėjo ir krikštijosi.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -107,6 +177,7 @@ periodo_grupes:
     jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo
     krikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -124,12 +195,65 @@ periodo_grupes:
     brolio rankos. Netimero valdžios paveldimumo principo buvimas rody-
     tų, kad Lietuva buvo pasiekusi bent jau chiefdom’o (vadystės) stadiją.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
     - t-002
+
+## Citatos
+
+- id: c-21916
+  citata_originali: |
+    Didžiausia tiki-
+    mybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai XI a. vidu-
+    ryje (XII a. pradžioje lietuviai minimi tarp genčių, kurios moka Kijevo
+    Rusiai duoklę).
+    1009-ieji Lietuvai praneša ne tik apie kriminalą, bet ir kur kas dau-
+    giau – šv. Brunonas Bonifacijus atrado Lietuvą ir jos „karalių“ Netimerą,
+    kuris įtikėjo ir krikštijosi.
+  citata_rodoma: "giau – šv. Brunonas Bonifacijus atrado Lietuvą ir jos „karalių“ Netimerą,"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-19170
+
+- id: c-21917
+  citata_originali: |
+    Paminėkime tokią grandinę: Lenkijos valdovo
+    Mieško krikštas (966), Kijevo Rusios valdovo Vladimiro krikštas (988),
+    kankinyste pasibaigusi šv. Adalberto misija Prūsijoje (997), Norvegijos
+    valdovo Olafo pradėta šalies christianizacija (997), Islandijos Altingo pri-
+    imtas sprendimas apsikrikštyti (1000), pirmojo tikro krikščionio Vengri-
+    jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo
+    krikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009).
+  citata_rodoma: "jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-19172
+
+- id: c-166954
+  citata_originali: |
+    Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai
+    vystėsi iš visų baltų genčių, todėl 1009 m. Vakarų misionierius, būsima-
+    sis šventasis Brunonas Bonifacijus iš prūsų specialiai vyko į Lietuvą. Čia
+    apkrikštijo lietuvių vadą Netimerą, tačiau šiek tiek vėliau žuvo nuo šio
+    brolio rankos. Netimero valdžios paveldimumo principo buvimas rody-
+    tų, kad Lietuva buvo pasiekusi bent jau chiefdom’o (vadystės) stadiją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183561
+    - t-19171
 
 ## Ryšiai
 - Netimeras buvo valdovas [[objektai/vietos/Lietuva]]

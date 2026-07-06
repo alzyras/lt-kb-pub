@@ -4,12 +4,6 @@ pavadinimas: 'Jerošinas'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
-variantai:
-  - 'Jerošinas'
-  - 'Jerošinas (arkivyskupas)'
-aliases:
-  - 'Jerošinas'
-  - 'Jerošinas (arkivyskupas)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -17,6 +11,18 @@ tags:
   - krikštas
   - miestas
   - ordinas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jerošinas
 
@@ -25,28 +31,63 @@ tags:
 Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jerošinas, garantuoti, kad niekados jo valia tiesiogiai ar netiesiogiai nebuvo siuntinė­ jami jokie laiškai kokiems nors miestams ar šalims, sykiu ir popiežiui, ir kad, tikėdamas savo. Panašių pasakų prirašė ir išsiuntinėjo tieka, kad pasiekė net popie­ žių Joną ir privertė jį pasiųsti du legatus į Livoniją." Taigi Jerošinas puikiausiai žinojo, kad arkivyskupas ir Rygos miestiečiai rašė prasimanytus laiškus pajūrio mies­ tams bei popiežiui.
 
 ## Teiginiai
+
 <a id="claim-t-88046"></a>
 - t-001
   global_id: t-88046
-  teiginys: 'Jerošinas teigė, kad Gediminas per pasiuntinius neigė savo valia siuntęs laiškus miestams, šalims ar popiežiui.'
+  teiginys: "Jerošinas teigė, kad Gediminas per pasiuntinius neigė savo valia siuntęs laiškus miestams, šalims ar popiežiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "203212-203945; hash=3a6aaa9d6f918e8db5735c7f336337ee13e79f7b1786bba9a41635ce5b141a1f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jerošinas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jerošinas\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-84025
 
 <a id="claim-t-88047"></a>
 - t-002
   global_id: t-88047
-  teiginys: 'Jerošinas žinojo, kad Rygos arkivyskupas ir miestiečiai rašė prasimanytus laiškus pajūrio miestams bei popiežiui.'
+  teiginys: "Jerošinas žinojo, kad Rygos arkivyskupas ir miestiečiai rašė prasimanytus laiškus pajūrio miestams bei popiežiui."
+  semantiniai_rysiai: "Rygos miestiečiai buvo priešas Kryžiuočių ordinas (0.77)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "203946-204808; hash=1268ee1c10a706c859d0a8d0138c52f3a06538b0ac4eb0cd3e395f4857351d97; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_priesas -> Kryžiuočių ordinas: 0.77"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Rygos miestiečiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citatoje Rygos gyventojai aprašomi kaip konfliktuojantys su Ordino broliais."
   pagrindžia:
-    - c-002
+    - c-84026
 
 <a id="claim-t-188408"></a>
 - t-003
   global_id: t-188408
-  teiginys: 'Narbutas spėja, kad Jerošinas apie krivį turėjo daugiau žinių, nes vadino jį Obriste Ewarte.'
+  teiginys: "Narbutas spėja, kad Jerošinas apie krivį turėjo daugiau žinių, nes vadino jį Obriste Ewarte."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "738490-738877; hash=5595883806e6f7c47ac8ea82a6cdf6e3fd62bbf55f81ceca43f163936ca223ae; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krivis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jerošinas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Krivis: mention_match, person, gap=15"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jerošinas\" parinktas kaip owner_note_path. Targetas \"Krivis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-003
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171298
 - susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-172868|J. Dlugošas]]: Petro Dusburgiečio leidinio įvade J. Dlugošas pristatomas kaip autorius, savo Lenkijos istorijos „Analuose, arba kronikose“ panaudojęs Mikalojaus iš Jerošino vertimą.
 - susijęs iš [[objektai/autoriai/Jerošinas Jeroschin.md#claim-t-88021|Jerošinas Jeroschin]]: Jerošinas teigė, kad Gediminas per pasiuntinius neigė savo valia siuntęs laiškus miestams, šalims ar popiežiui.
 - susijęs iš [[objektai/autoriai/Jerošinas Jeroschin.md#claim-t-88022|Jerošinas Jeroschin]]: Jerošinas žinojo, kad Rygos arkivyskupas ir miestiečiai rašė prasimanytus laiškus pajūrio miestams bei popiežiui.
@@ -68,6 +109,7 @@ Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jero
 - susijęs iš 1781 m. vokiškas Dusburgiečio kronikos vertimas: 1781 m. Dusburgiečio kronika iš Karaliaučiaus karališkosios bibliotekos lotyniškojo teksto buvo išversta į vokiečių kalbą.
 - susijęs iš Vilnius: 7-ojo dešimtmečio), vertimas dabar saugomas Vilniuje78.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Jerošinas teigė, kad Gediminas per pasiuntinius neigė savo valia siuntęs laiškus miestams, šalims ar popiežiui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -87,11 +129,13 @@ Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jero
     dijančių juos Rygos arkivyskupo prasimanymu ir klastote
     esant.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Jerošinas žinojo, kad Rygos arkivyskupas ir miestiečiai rašė prasimanytus laiškus pajūrio miestams bei popiežiui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -112,11 +156,13 @@ Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jero
     tams bei popiežiui ir platino melagingą žinią, jog Gedimi­
     nas norėjęs krikštytis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Narbutas spėja, kad Jerošinas apie krivį turėjo daugiau žinių, nes vadino jį Obriste Ewarte.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -128,8 +174,76 @@ Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jero
     tuo klausimu, matyt, turėjo jau daugiau žinių, nes krivį vadina
     Obriste Ewarte (aukščiausiasis teisėjas), kuo krivis iš tikrųjų ir
     buvo, nes, pasak Hugo Gracijaus (Grabus. Historia Gottorum.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-84025
+  citata_originali: |
+    Porina mums tą pasaką apie Maskvos didįjį kunigaikštį
+    Simonas Grunau,  linkęs meluoti rašytojas, o jau L u -
+    kas D a v i d a s, T. V, p. 236-237, abejoja tos nuomonės
+    teisingumu. Vėliau viskas byloja, jog Gediminas per pasiun­
+    tinius nurodė, kaip sako Jerošinas, garantuoti, kad
+    niekados jo valia tiesiogiai ar netiesiogiai nebuvo siuntinė­
+    jami jokie laiškai kokiems nors miestams ar šalims, sykiu ir
+    popiežiui, ir kad, tikėdamas savo dievais, net mintyse nie­
+    kada nebuvo dėl jų suabejojęs.
+    Jeigu su atida peržvelgsime laiškus, Gedimino vardu
+    rašytus dominikonų ordinui, minoritams ir Vokietijos mies­
+    tams, pastebėsime daugybę vidinių ir išorinių įrodymų, liu­
+    dijančių juos Rygos arkivyskupo prasimanymu ir klastote
+    esant.
+  citata_rodoma: "236-237, abejoja tos nuomonės \nteisingumu. Vėliau viskas byloja, jog Gediminas per pasiun­\ntinius nurodė, kaip sako Jerošinas, garantuoti, kad \nniekados jo valia tiesiogiai ar netiesiogiai nebuvo siuntinė­\njami jokie laiškai kokiems nors miestams ar šalims, sykiu ir \npopiežiui, ir kad, tikėdamas savo dievais, net mintyse nie­\nkada nebuvo dėl jų suabejojęs.\nJeigu su atida peržvelgsime laiškus, Gedimino vardu \nrašytus dominikonų ordinui, minoritams ir Vokietijos mies­\ntams, pastebėsime daugybę vidinių ir išorinių įrodymų, liu­\ndijančių juos Rygos arkivyskupo prasimanymu ir klastote \nesant."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88046
+
+- id: c-84026
+  citata_originali: |
+    Išorinį įrodymą randame pasakytą pirmiausia J e r o -
+    š i n o, p. 349: „Tuo metu Rygos gyventojai ir jų arkivysku­
+    pas, popiežiaus rūmų valia jiems atsiųstas, vis dar vaidijosi
+    su Livonijos ordino broliais ir per pasiuntinius plačiai pa­
+    skelbė kai kuriuose pajūrio miestuose ir laiškus, be to, dargi
+    įsakė pamokslininkams per pamaldas juos viešai skelbti/tuo
+    broliams kryžiuočiams skriaudą darydami, skleidė melą, esą
+    rusinai ir lietuviai gera valia pareiškę norą krikščionių pa­
+    pročiu krikštytis, bet jiems to daryti neleidžiama. Panašių
+    pasakų prirašė ir išsiuntinėjo tieka, kad pasiekė net popie­
+    žių Joną ir privertė jį pasiųsti du legatus į Livoniją."
+    Taigi Jerošinas puikiausiai žinojo, kad arkivyskupas
+    ir Rygos miestiečiai rašė prasimanytus laiškus pajūrio mies­
+    tams bei popiežiui ir platino melagingą žinią, jog Gedimi­
+    nas norėjęs krikštytis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88047
+
+- id: c-171298
+  citata_originali: |
+    Aiškiai matyti, kad
+    jam žodis quidam (vienas, kažkoks) pasirodė esąs nepa­
+    kankamas, tačiau jis nesugebėjo jo deramai papildyti, kadangi
+    jo nobilior beveik nieko daugiau nepasako. Tačiau Jerošinas
+    tuo klausimu, matyt, turėjo jau daugiau žinių, nes krivį vadina
+    Obriste Ewarte (aukščiausiasis teisėjas), kuo krivis iš tikrųjų ir
+    buvo, nes, pasak Hugo Gracijaus (Grabus. Historia Gottorum.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188408

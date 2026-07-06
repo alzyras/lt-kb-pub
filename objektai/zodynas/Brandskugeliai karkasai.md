@@ -14,6 +14,18 @@ tags:
   - sąvoka
 amziai:
   - 'XVIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Brandskugeliai karkasai
 
@@ -26,10 +38,21 @@ Be kartečės ir paprastų sviedinių, iš patrankų buvo šaudoma ir apšvieči
 <a id="claim-t-42419"></a>
 - t-001
   global_id: t-42419
-  teiginys: 'Brandskugeliai buvo tuščiaviduriai ketaus sviediniai su padegamuoju mišiniu, o karkasai - ovalūs iš geležinių žiedų sudaryti padegamieji sviediniai.'
+  teiginys: "Brandskugeliai buvo tuščiaviduriai ketaus sviediniai su padegamuoju mišiniu, o karkasai - ovalūs iš geležinių žiedų sudaryti padegamieji sviediniai."
+  temporaliniai_duomenys: "įvykio data: 1794 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "623673-624291; hash=17d8a3901f333dda965c529c76cd4dfec62526b5f513e53e83c52b71df643c8a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Parakas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Brandskugeliai karkasai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Parakas: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Brandskugeliai karkasai\" parinktas kaip owner_note_path. Targetas \"Parakas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-45492
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -64,8 +87,49 @@ Be kartečės ir paprastų sviedinių, iš patrankų buvo šaudoma ir apšvieči
 
     1794 m. balandis-liepa KOVOS DĖL VILNIAUS 151
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-45492
+  citata_originali: |
+    Be kartečės ir paprastų sviedinių, iš patrankų buvo šaudoma ir
+    apšviečiamaisiais bei skirtingų konstrukcijų padegamaisiais svie-
+    diniais (iki raudonumo įkaitinti metali-
+    niai sviediniai arba iš ketaus pagaminti
+    tuščiaviduriai sviediniai, užpildyti pade-
+    gamuoju mišiniu - vadinamieji brandsku-
+    geliai, taip pat ir karkasai - ovalo formos
+    sviediniai su padegamuoju mišiniu, su-
+    daryti iš geležinių žiedų).
+
+    Kartečės užtaisas Kulkos
+
+    medžiaginiame
+    maiše
+
+    Kartečės
+    užtaisas
+    metaliniame
+    korpuse
+
+    Parako užtai-
+    sas prie meta-
+    linio korpuso
+    pritvirtintame
+    medžiagi-
+    niame maiše
+
+    1794 m. balandis-liepa KOVOS DĖL VILNIAUS 151
+  citata_rodoma: "Be kartečės ir paprastų sviedinių, iš patrankų buvo šaudoma ir\napšviečiamaisiais bei skirtingų konstrukcijų padegamaisiais svie-\ndiniais (iki raudonumo įkaitinti metali-\nniai sviediniai arba iš ketaus pagaminti\ntuščiaviduriai sviediniai, užpildyti pade-\ngamuoju mišiniu - vadinamieji brandsku-\ngeliai, taip pat ir karkasai - ovalo formos\nsviediniai su padegamuoju mišiniu, su-\ndaryti iš geležinių žiedų).\n\nKartečės užtaisas Kulkos\n\nmedžiaginiame\nmaiše\n\nKartečės\nužtaisas\nmetaliniame\nkorpuse\n\nParako užtai-\nsas prie meta-\nlinio korpuso\npritvirtintame\nmedžiagi-\nniame maiše\n\n1794 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-42419

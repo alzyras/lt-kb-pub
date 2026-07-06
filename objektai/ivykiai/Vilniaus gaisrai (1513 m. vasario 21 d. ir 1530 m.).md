@@ -12,6 +12,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vilniaus gaisrai (1513 m. vasario 21 d. ir 1530 m.)
 
@@ -45,33 +57,84 @@ Pirmasis gaisras sunaikino Aukštutinę pilį, o antrasis - Žemutinę karalių 
 ## Teiginiai
 
 <a id="claim-t-54452"></a>
-- t-001
+- t-003
   global_id: t-54452
-  teiginys: 'Per 1530 m. Vilniaus gaisrą liepsnose pražuvo Žemutinė karalių pilis ir didžioji miesto dalis.'
+  teiginys: "Per 1530 m. Vilniaus gaisrą liepsnose pražuvo Žemutinė karalių pilis ir didžioji miesto dalis."
+  temporaliniai_duomenys: "įvykio data: 1530 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Patikslinta, kuris gaisras vadinamas antruoju."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "526459-526988; hash=0b5c3be207c3be1a2f13d97679275638bcc9fe5eed8604d1e22d62079b689b74; match=whitespace_regex"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus gaisrai (1513 m. vasario 21 d. ir 1530 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus gaisrai (1513 m. vasario 21 d. ir 1530 m.)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-55332
 
 <a id="claim-t-54453"></a>
 - t-002
   global_id: t-54453
-  teiginys: 'Per 1513 m. vasario 21 d. Vilniaus gaisrą buvo sunaikinta Aukštutinė pilis.'
+  teiginys: "Per 1513 m. vasario 21 d. Vilniaus gaisrą buvo sunaikinta Aukštutinė pilis."
+  temporaliniai_duomenys: "įvykio data: 1513 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Patikslinta, kuris gaisras vadinamas pirmuoju."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "526459-526988; hash=0b5c3be207c3be1a2f13d97679275638bcc9fe5eed8604d1e22d62079b689b74; match=whitespace_regex"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  ryšio_patikimumas: "susije_su -> Aukštutinė pilis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus gaisrai (1513 m. vasario 21 d. ir 1530 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Aukštutinė pilis: mention_match, place, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus gaisrai (1513 m. vasario 21 d. ir 1530 m.)\" parinktas kaip owner_note_path. Targetas \"Aukštutinė pilis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-55332
 
 <a id="claim-t-54454"></a>
-- t-003
+- t-001
   global_id: t-54454
-  teiginys: '1513 m. vasario 21 d. ir 1530 m. Vilniuje kilę gaisrai miestui padarė labai didelių nuostolių.'
+  teiginys: "1513 m. vasario 21 d. ir 1530 m. Vilniuje kilę gaisrai miestui padarė labai didelių nuostolių."
+  temporaliniai_duomenys: "įvykio data: 1513 m.; įvykio data: 1530 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, užbaigtas ir tiesiogiai pagrįstas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "526459-526988; hash=0b5c3be207c3be1a2f13d97679275638bcc9fe5eed8604d1e22d62079b689b74; match=whitespace_regex"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus gaisrai (1513 m. vasario 21 d. ir 1530 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus gaisrai (1513 m. vasario 21 d. ir 1530 m.)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-55332
 
 <a id="claim-t-54455"></a>
 - t-004
   global_id: t-54455
-  teiginys: '1513 m. vasario 21 d. ir 1530 m. Vilniaus gaisrai buvo viena iš priežasčių, paskatinusių karaliaus pastangas aprūpinti miestą vandeniu.'
+  teiginys: "1513 m. vasario 21 d. ir 1530 m. Vilniaus gaisrai buvo viena iš priežasčių, paskatinusių karaliaus pastangas aprūpinti miestą vandeniu."
+  temporaliniai_duomenys: "įvykio data: 1513 m.; įvykio data: 1530 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia pakeisti neaiškų įvardį „Šie“ konkrečiais gaisrais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "526459-526988; hash=0b5c3be207c3be1a2f13d97679275638bcc9fe5eed8604d1e22d62079b689b74; match=whitespace_regex"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  ryšio_patikimumas: "susije_su -> Viena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus gaisrai (1513 m. vasario 21 d. ir 1530 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus gaisrai (1513 m. vasario 21 d. ir 1530 m.)\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-55332
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -87,6 +150,7 @@ Pirmasis gaisras sunaikino Aukštutinę pilį, o antrasis - Žemutinę karalių 
     gaisrą buvo sunaikinta Aukštutinė pilis, per antrąjį lieps­
     nose pražuvo Žemutinė karalių pilis ir didžioji miesto dalis9.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -99,3 +163,27 @@ Pirmasis gaisras sunaikino Aukštutinę pilį, o antrasis - Žemutinę karalių 
 ## Data ir vieta
 
 Įvykiai vyko Vilniuje 1513 m. vasario 21 d. ir 1530 m.
+
+## Citatos
+
+- id: c-55332
+  citata_originali: |
+    Netgi pats, 1535 metais būdamas Vilniuje, važi­
+    nėjo už miesto apžiūrėti tos versmės ir įsitikinti, jog ji
+    trykšta karaliaus, o ne privačioje žemėje8. Tokias dideles
+    karaliaus pastangas miestą aprūpinti vandeniu nulėmė ne
+    tik patogumo siekis ir atkaklūs miestiečių prašymai, bet ir
+    du baisūs gaisrai, kilę 1513 metų vasario 21 dieną ir 1530
+    metais, Vilniui padarę labai didelių nuostolių. Per pirmąjį
+    gaisrą buvo sunaikinta Aukštutinė pilis, per antrąjį lieps­
+    nose pražuvo Žemutinė karalių pilis ir didžioji miesto dalis9.
+  citata_rodoma: "Tokias dideles \nkaraliaus pastangas miestą aprūpinti vandeniu nulėmė ne \ntik patogumo siekis ir atkaklūs miestiečių prašymai, bet ir \ndu baisūs gaisrai, kilę 1513 metų vasario 21 dieną ir 1530 \nmetais, Vilniui padarę labai didelių nuostolių. Per pirmąjį \ngaisrą buvo sunaikinta Aukštutinė pilis, per antrąjį lieps­\nnose pražuvo Žemutinė karalių pilis ir didžioji miesto dalis9."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54454
+    - t-54453
+    - t-54452
+    - t-54455

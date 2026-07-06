@@ -10,6 +10,18 @@ tags:
   - ordinas
   - upė
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Grajevo
 
@@ -22,9 +34,20 @@ Jos buvo pravestos nuo Mozūrijos sienos upe aukštyn į Grajevo ir Ragordo eže
 <a id="claim-t-36248"></a>
 - t-001
   global_id: t-36248
-  teiginys: 'Lietuvos ribos buvo pravestos per Grajevo ir Ragordo ežerus, Vištyčio ežerą, Leipūnos ir Širvintos upes iki Šešupės.'
+  teiginys: "Lietuvos ribos buvo pravestos per Grajevo ir Ragordo ežerus, Vištyčio ežerą, Leipūnos ir Širvintos upes iki Šešupės."
+  semantiniai_rysiai: "Klaipėda priklausė Kryžiuočių ordinas (0.90); Palanga priklausė Lietuva (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "344941-345565; hash=caf0f195e4a78307ecb020da7c6f1228b0ebc9e46d3368484f9a664f7768c64f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Klaipėda: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Klaipėda palikta Ordinui."
   pagrindžia:
-    - c-001
+    - c-38497
 - susijęs iš Akmenų Brasta: Melno sutarties siena senojoje jotvingių žemėje prasidėjo nuo Akmenų Brastos Luko aukštupyje, aukščiau Grajevo ir Točilovo ežerų.
 - susijęs iš Grajevas: Melno sutartimi nustatyta siena senojoje jotvingių žemėje ėjo Luko aukštupyje, aukščiau Grajevo ir Točilovo ežerų.
 - susijęs iš Leipūnos upė: Vytauto nustatytos Žemaitijos ir Sūduvijos ribos ėjo pro Vištyčio ežerą į Leipūnos upę.
@@ -56,8 +79,32 @@ Jos buvo pravestos nuo Mozūrijos sienos upe aukštyn į Grajevo ir Ragordo eže
     skyrė Vokiečių ir Livonijos Ordinų žemes, kas apsaugojo Lie­
     tuvą nuo didesnės vokiečių įtakos1 2).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-38497
+  citata_originali: |
+    Lenkija gavo Niešavo žemę su
+    keliais sodžiais ir viena pilimi, o Lietuva — Žemaitiją ir Sūda­
+    viją su Vytauto nustatytomis ribomis. Jos buvo pravestos nuo
+    Mozūrijos sienos upe aukštyn į Grajevo ir Ragordo ežerus, iš
+    čia pro Vištyčio ežerą į Leipūnos upę, toliau Leipūnos ir Šir­
+    vintos upėmis iki Šešupės ir nuo jos tiesiai į Nemuną prie Sma­
+    lininkų; iš čia — į Palangą, paliekant Ordinui dviejų mylių
+    pakraštį prie Nemuno ir trijų mylių pakraštį prie Jūros. Tuo
+    būdu Klaipėda buvo palikta Ordinui, o Palanga — Lietuvai; ji
+    skyrė Vokiečių ir Livonijos Ordinų žemes, kas apsaugojo Lie­
+    tuvą nuo didesnės vokiečių įtakos1 2).
+  citata_rodoma: "Jos buvo pravestos nuo\nMozūrijos sienos upe aukštyn į Grajevo ir Ragordo ežerus, iš\nčia pro Vištyčio ežerą į Leipūnos upę, toliau Leipūnos ir Šir­\nvintos upėmis iki Šešupės ir nuo jos tiesiai į Nemuną prie Sma­\nlininkų; iš čia — į Palangą, paliekant Ordinui dviejų mylių\npakraštį prie Nemuno ir trijų mylių pakraštį prie Jūros. Tuo\nbūdu Klaipėda buvo palikta Ordinui, o Palanga — Lietuvai; ji\nskyrė Vokiečių ir Livonijos Ordinų žemes, kas apsaugojo Lie­\ntuvą nuo didesnės vokiečių įtakos1 2)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36248

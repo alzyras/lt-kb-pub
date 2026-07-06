@@ -13,6 +13,18 @@ tags:
   - reforma
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Žemės reformos įstatymo priėmimas (1922 m. vasario 15 d.)
 
@@ -47,24 +59,79 @@ Nenurodyta
 <a id="claim-t-23356"></a>
 - t-001
   global_id: t-23356
-  teiginys: '1922 m. vasario 15 d. Steigiamasis Seimas priėmė pagrindinį Žemės reformos įstatymą.'
+  teiginys: "1922 m. vasario 15 d. Steigiamasis Seimas priėmė pagrindinį Žemės reformos įstatymą."
+  temporaliniai_duomenys: "įvykio data: 1922 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatos faktą apie įstatymo priėmimą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "298965-299491; hash=b5810147eb20027d0191ccabb697bb0f4b72fac8342a95deb292895c804ac936; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bermontininkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žemės reformos įstatymo priėmimas (1922 m. vasario 15 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Bermontininkai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemės reformos įstatymo priėmimas (1922 m. vasario 15 d.)\" parinktas kaip owner_note_path. Targetas \"Bermontininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-16903
 
 <a id="claim-t-23357"></a>
 - t-002
   global_id: t-23357
-  teiginys: 'Įstatymas numatė įvairių žemių paėmimą į Valstybinį žemės fondą.'
+  teiginys: "Įstatymas numatė įvairių žemių paėmimą į Valstybinį žemės fondą."
+  temporaliniai_duomenys: "įvykio data: 1922 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "298965-299491; hash=b5810147eb20027d0191ccabb697bb0f4b72fac8342a95deb292895c804ac936; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bermontininkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žemės reformos įstatymo priėmimas (1922 m. vasario 15 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Bermontininkai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemės reformos įstatymo priėmimas (1922 m. vasario 15 d.)\" parinktas kaip owner_note_path. Targetas \"Bermontininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-16903
 
 <a id="claim-t-23358"></a>
 - t-003
   global_id: t-23358
-  teiginys: 'Per žemės reformą pirmiausia žemės gavo kariai savanoriai, bežemiai ir mažažemiai valstiečiai, kaimo amatininkai bei kai kurios įstaigos.'
+  teiginys: "Per žemės reformą pirmiausia žemės gavo kariai savanoriai, bežemiai ir mažažemiai valstiečiai, kaimo amatininkai bei kai kurios įstaigos."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "299171-300063; hash=4c20963aefb21e7328481781a9c1ac0e4ba5941bb0f89a67f02eb55d2e22a60e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žemės reformos įstatymo priėmimas (1922 m. vasario 15 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=91"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemės reformos įstatymo priėmimas (1922 m. vasario 15 d.)\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-002
+    - c-16904
 
+<a id="claim-t-23358"></a>
+- t-003
+  global_id: t-23358
+  teiginys: "Per žemės reformą pirmiausia žemės gavo kariai savanoriai, bežemiai ir mažažemiai valstiečiai, kaimo amatininkai bei kai kurios įstaigos."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "299171-300063; hash=4c20963aefb21e7328481781a9c1ac0e4ba5941bb0f89a67f02eb55d2e22a60e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žemės reformos įstatymo priėmimas (1922 m. vasario 15 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=91"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemės reformos įstatymo priėmimas (1922 m. vasario 15 d.)\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-16904
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -80,6 +147,7 @@ Nenurodyta
     vienuolynų ir kitų bažnytinių institucijų žemė, jei jos būta daugiau nei
     80 ha.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -105,9 +173,56 @@ Nenurodyta
     ir mažažemiai (turėję mažiau kaip 10 ha) valstiečiai, kaimo amatininkai,
     kai kurios valstybinės ir visuomeninės įstaigos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
     - t-004
+
+## Citatos
+
+- id: c-16903
+  citata_originali: |
+    Tik išdalijusi dvarų žemę valdžia galėjo
+    tikėtis plačių valstietijos sluoksnių paramos.
+    1922 m. vasario 15 d. Steigiamasis Seimas krikščionių demokratų
+    balsais priėmė pagrindinį Žemės reformos įstatymą. Į Valstybinį žemės
+    fondą paimta valstybinė žemė ir kiti privilegijų teisėmis iš caro valdžios
+    gauti dvarai, visa prieš Lietuvos nepriklausomybę bermontininkų ar len-
+    kų armijose kovojusių asmenų žemė, taip pat privačių asmenų, bažnyčių,
+    vienuolynų ir kitų bažnytinių institucijų žemė, jei jos būta daugiau nei
+    80 ha.
+  citata_rodoma: "balsais priėmė pagrindinį Žemės reformos įstatymą. Į Valstybinį žemės"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-23356
+    - t-23357
+
+- id: c-16904
+  citata_originali: |
+    Į Valstybinį žemės
+    fondą paimta valstybinė žemė ir kiti privilegijų teisėmis iš caro valdžios
+    gauti dvarai, visa prieš Lietuvos nepriklausomybę bermontininkų ar len-
+    kų armijose kovojusių asmenų žemė, taip pat privačių asmenų, bažnyčių,
+    vienuolynų ir kitų bažnytinių institucijų žemė, jei jos būta daugiau nei
+    80 ha. Tokia žemės riba pasirinkta neatsitiktinai – tai skiriamoji riba tarp
+    sulenkėjusių dvarininkų ūkių ir tų stambių ūkių, kuriuos XIX a. pabaigo-
+    je–XX a. pradžioje įsigijo prakutę lietuvių valstiečiai ar negausūs to meto
+    lietuvių inteligentai, pramonininkai ir prekybininkai (dar radikaliau elg-
+    tasi Estijoje ir Latvijoje, ten žemė paimta iš vokiečių baronų ir neliesti iki
+    50 ha dydžio dvarai). Pirmiausia žemės gavo kariai savanoriai, bežemiai
+    ir mažažemiai (turėję mažiau kaip 10 ha) valstiečiai, kaimo amatininkai,
+    kai kurios valstybinės ir visuomeninės įstaigos.
+  citata_rodoma: "ir mažažemiai (turėję mažiau kaip 10 ha) valstiečiai, kaimo amatininkai,"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-23358
+    - t-23360

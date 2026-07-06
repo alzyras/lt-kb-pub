@@ -12,11 +12,6 @@ datos:
   - '2026 m.'
 date_start: '400'
 date_end: '2026'
-description: 'Baltai – rytinio Baltijos jūros pakraščio indoeuropiečių tautų grupė, siejama kalbų, kultūros, religijos ir teritorijos bendrumu.'
-socialDescription: 'Kas buvo baltai: rytinio Baltijos jūros pakraščio indoeuropiečių tautų grupė, jų kalbinis ir kultūrinis bendrumas, arealas bei politiniai ryšiai.'
-seo_atnaujinta: '2026-07-02T23:12:35.357876+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,98 +20,242 @@ tags:
 amziai:
   - 'IV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Baltai
 
 ## Santrauka
 
-Baltai – indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti rytiniame Baltijos jūros pakraštyje ir kalbanti giminiškomis kalbomis. Šaltiniuose prūsai, lietuviai ir latviai siejami kalbos, kultūros, tradicijų, senosios religijos ir teritorijos bendrumu. Viduriniame geležies amžiuje baltai daugiausia liko Nemuno, Dauguvos ir Dniepro plote, o XIII a. Mindaugas siekė telkti šiaurines ir pietvakarines baltų žemes.
+M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, gyvenusių arba gyvenančių Baltijos jūros rytų pakraštyje ir kalbėjusių arba kalbančių giminiškomis kalbomis, kurios sudaro atskirą indoeuropiečių kalbų šeimos šaką. Baltų gentys pradėjo formuotis III tūkstantmečio pr.
 
 ## Teiginiai
 
 <a id="claim-t-96076"></a>
-- t-001
+- t-013
   global_id: t-96076
-  teiginys: 'Pasak Dusburgiečio, Romovė buvo prūsų, lietuvių ir kitų baltų religinio kulto centras.'
+  teiginys: "Pasak Dusburgiečio, Romovė buvo prūsų, lietuvių ir kitų baltų religinio kulto centras."
+  semantiniai_rysiai: "Lietuviai priklausė Baltai (0.86)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "210797-210930; hash=68813071458acfcd2d2dded4c33d6e759ccfd81e54d2caf35b7c49e29d01c8df; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Baltai: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Baltai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Formuluotė lietuvius įtraukia į baltų grupę."
   pagrindžia:
-    - c-006
+    - c-90797
 
 <a id="claim-t-96077"></a>
-- t-002
+- t-019
   global_id: t-96077
-  teiginys: 'Viduriniame geležies amžiuje baltai liko gyventi Nemuno, Dauguvos ir Dniepro plote ir nedaug judėjo.'
+  teiginys: "Viduriniame geležies amžiuje baltai liko gyventi Nemuno, Dauguvos ir Dniepro plote ir nedaug judėjo."
+  semantiniai_rysiai: "Baltai gyveno Dauguva (0.88); Baltai gyveno Dniepras (0.88)"
+  temporaliniai_duomenys: "įvykio data: 800 m; įvykio data: 400-800"
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas antraštės bei OCR triukšmas, paliktas citatos remiamas faktas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "300744-301270; hash=8616a3b3f91807bf1bd5522ac2584a650eec5ecee34cc3577ccceff0e32240c2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Dauguva: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Baltai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Dauguva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo baltų gyvenimą Nemuno-Dauguvos-Dniepro plote."
   pagrindžia:
-    - c-001
+    - c-31042
 
 <a id="claim-t-96078"></a>
-- t-003
+- t-010
   global_id: t-96078
-  teiginys: 'Mindaugas siekė padaryti Lietuvą bendrąja baltų valstybe, apimančia šiaurines ir pietvakarines baltų žemes.'
+  teiginys: "Mindaugas siekė padaryti Lietuvą bendrąja baltų valstybe, apimančia šiaurines ir pietvakarines baltų žemes."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "20759-21127; hash=5ac4e64669c53b79d0cf8f631c3cacd2b619ac13514123f9e0474c2ebaece769; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> baltų sąjunga: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Baltai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "baltų sąjunga: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Baltai\" parinktas kaip owner_note_path. Targetas \"baltų sąjunga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-90794
 
 <a id="claim-t-96080"></a>
-- t-004
+- t-008
   global_id: t-96080
-  teiginys: 'Kronikoje vaizduojamu laikotarpiu prūsai, lietuviai ir latviai priskiriami baltams, siejamiems kalbos, kultūros, tradicijų, senosios religijos ir teritorijos bendrumo.'
+  teiginys: "Kronikoje vaizduojamu laikotarpiu prūsai, lietuviai ir latviai priskiriami baltams, siejamiems kalbos, kultūros, tradicijų, senosios religijos ir teritorijos bendrumo."
+  semantiniai_rysiai: "Lietuviai priklausė Baltai (0.90); Latviai priklausė Baltai (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "6148-6754; hash=986014e0dd3f9d7077e990d5a5d777aefc6dca1e0d2ba7617c013ae21a569b58; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Baltai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Latviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Baltai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata latvius tiesiogiai priskiria baltams."
   pagrindžia:
-    - c-008
+    - c-90799
 
 <a id="claim-t-96081"></a>
-- t-005
+- t-011
   global_id: t-96081
-  teiginys: 'Manoma, kad XII-XIII a. politinė ir etninė baltų bei Pamario slavų riba ėjo žemutine Vysla ir Nogatu.'
+  teiginys: "Manoma, kad XII-XIII a. politinė ir etninė baltų bei Pamario slavų riba ėjo žemutine Vysla ir Nogatu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "168997-169948; hash=26a883c10ded8482cb459f1a6d9bfb5f3bc08ffbd728232dfd8cec59540f5130; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Nogatas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Baltai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Nogatas: mention_match, place, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Baltai\" parinktas kaip owner_note_path. Targetas \"Nogatas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-010
+    - c-90803
 
 <a id="claim-t-96083"></a>
-- t-006
+- t-015
   global_id: t-96083
-  teiginys: 'XIII-XIV a. pirmos pusės šaltinių analizė sieja baltų religiją su antropomorfine dievybe, panašia į krikščioniškąjį Dievą.'
+  teiginys: "XIII-XIV a. pirmos pusės šaltinių analizė sieja baltų religiją su antropomorfine dievybe, panašia į krikščioniškąjį Dievą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "223546-224044; hash=542e4b5b9602cfdb04bd2ece785b18d3c0f1a42f7b6d72b83ab2aa1d1168b9aa; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsų žemė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_place_context; same_sentence_locality; single_candidate_actor; single_candidate_target"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Baltai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Prūsai: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Baltai\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-90796
 
 <a id="claim-t-96084"></a>
-- t-007
+- t-012
   global_id: t-96084
-  teiginys: 'Manoma, kad žalvario amžiuje baltų arealas siekė Oderio žemupį.'
+  teiginys: "Manoma, kad žalvario amžiuje baltų arealas siekė Oderio žemupį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "169951-170813; hash=9213dfbf470656e797229db4685bfc03b2f172810953327579d0ce7b43685906; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Nogatas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Baltai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Nogatas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Baltai\" parinktas kaip owner_note_path. Targetas \"Nogatas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-011
+    - c-90804
 
 <a id="claim-t-96085"></a>
-- t-008
+- t-020
   global_id: t-96085
-  teiginys: 'Su slavais baltų protėviai, ypač iki geležies amžiaus pradžios, yra turėję artimų santykių.'
+  teiginys: "Su slavais baltų protėviai, ypač iki geležies amžiaus pradžios, yra turėję artimų santykių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "303613-304022; hash=6c114b6960dd77eb5e3df11ea57a7a2ccb9199289f30f24357f71a5033758680; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> A. Salys: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Baltai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "A. Salys: mention_match, author, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Baltai\" parinktas kaip owner_note_path. Targetas \"A. Salys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-31043
 
 <a id="claim-t-96086"></a>
-- t-009
+- t-018
   global_id: t-96086
-  teiginys: 'Baltais vadinama indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti rytiniame Baltijos jūros pakraštyje ir kalbanti giminiškomis kalbomis.'
+  teiginys: "Baltais vadinama indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti rytiniame Baltijos jūros pakraštyje ir kalbanti giminiškomis kalbomis."
+  semantiniai_rysiai: "Baltai gyveno Baltija (0.91)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "31325-31768; hash=e4889df59b48eae2f2d58adc57216b6e4677f0e6afe3bf0e92c6f7919f1a737b; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Baltija: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Baltai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Baltija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo baltų gyvenamąją teritoriją prie Baltijos jūros."
   pagrindžia:
-    - c-009
+    - c-90800
 
 <a id="claim-t-96087"></a>
-- t-010
+- t-009
   global_id: t-96087
-  teiginys: 'Lietuvos pastangomis bendrai kovai prieš vokiečių feodalinę agresiją buvo mobilizuojami beveik visi baltai.'
+  teiginys: "Lietuvos pastangomis bendrai kovai prieš vokiečių feodalinę agresiją buvo mobilizuojami beveik visi baltai."
+  semantiniai_rysiai: "Baltai kariavo prieš Vokiečiai (0.84)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "19020-19329; hash=5d640c0f37f1a636a232f8c2d669114c0f3bb85ee1502435ce097f630190ba0f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Vokiečiai: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Baltai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo kovą prieš vokiečių feodalinę agresiją."
   pagrindžia:
-    - c-004
+    - c-90795
 
 <a id="claim-t-96088"></a>
-- t-011
+- t-014
   global_id: t-96088
-  teiginys: 'Kai kurios senovės baltų ir lietuvių šventovės buvo įtvirtintos tarsi pilys.'
+  teiginys: "Kai kurios senovės baltų ir lietuvių šventovės buvo įtvirtintos tarsi pilys."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "220163-220593; hash=9490eed828942e98cb65133bd92bf890ec3ca34379ac213a6e06a5fcc0d38e82; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Baltai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Baltai\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-90798
 
 <a id="claim-t-183122"></a>
-- t-012
+- t-021
   global_id: t-183122
-  teiginys: 'Baltų gentys pradėjo formuotis III tūkstantmečio pr. Kr. pabaigoje, kai indoeuropiečiai pajungė ir asimiliavo vietinius gyventojus.'
+  teiginys: "Baltų gentys pradėjo formuotis III tūkstantmečio pr. Kr. pabaigoje, kai indoeuropiečiai pajungė ir asimiliavo vietinius gyventojus."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Baltai gyveno Vysla (0.87); Baltai gyveno Dniepras (0.87)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "31960-32330; hash=729b62ad02fc6c06b3059d5a5c359bfe628841c33acac96427c13eda29d7082b; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Dniepras: 0.87"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Baltai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Dniepras: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo baltų genčių apgyvendintą arealą iki Dniepro."
   pagrindžia:
-    - c-012
+    - c-166507
 - susijęs iš [[objektai/grupes/Bartai.md#claim-t-88533|Bartai]]: Bartai buvo viena iš vakarinių baltų, arba prūsų, genčių, žinomų Rytprūsiuose.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175086|Sembai]]: Sembai buvo minimi tarp Rytprūsiuose žinomų vakarinių baltų genčių.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10072|Algirdas (Lietuvos valdovas)]]: Tose pačiose derybose Algirdas reikalavo sugrąžinti Lietuvai baltų žemes vakaruose iki Alnos, Priegliaus ir Dauguvos.
@@ -342,7 +481,6 @@ Baltai – indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti r
 - susijęs iš Commentationes Balticae: Baltų Tyrimo Institutas 1953–1967 m. Bonnoje išleido 13 Commentationes Balticae tomų.
 - susijęs iš Dzieje kultury polskiej: A. Brücknerio „Dzieje kultury polskiej“ I tomas išleistas Krokuvoje 1931 m.
 - susijęs iš Prūsijos valdžios gromatos: 1737 m. „Prūsijos valdžios gromatose“ užfiksuotas valsčiaus termino vartojimas Prūsų žemės kontekste.
-- susijęs iš Vulfstano pasakojimas: Vietovardis apie 890 m. Vulfstano užrašytas kaip Truso.
 - susijęs iš Alnos upė: Pirmajame amžiuje po Kr. Vyslos žemupio gotai įsikūrė Rytprūsių plote iki Alnos upės.
 - susijęs iš Auksinė: Auksinės apylinkės siejamos su pagonišku kultu, remiantis vietovardžiais Juodkapis, Sernupė ir galbūt Auksinės upės vardu.
 - susijęs iš Barta: Šaltiniuose skyrium nuo Prūsų minima ir Barta (ПСРЛ, т.
@@ -424,6 +562,7 @@ Baltai – indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti r
     liai, be jokių lūžių vystydami savo kultūrą viduriniame geležies
     amžiuje, baltai išlaikė ją aukštame laipsnyje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -442,6 +581,7 @@ Baltai – indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti r
     išriedėjusios iš dviejų artimų indoeuropiečių prokalbės tarmių (A.
     Salys).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -458,6 +598,7 @@ Baltai – indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti r
     baltų žemės (Livonija  ir Prūsija). Mindaugo vadovaujama baltų sąjunga tampa ypač
     akivaizdžiu reiškiniu XIII a. 5-ojo dešimtmečio pradžioje34.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -473,6 +614,7 @@ Baltai – indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti r
       Lietuvos  ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus
     tada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -490,6 +632,7 @@ Baltai – indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti r
     dievus — Gimbutienė M. Baltai, p. 148—178; Mannhardt W. Letto-Preussische..., Apie
     Krivį— Топоров B. H. Прусский язык, K—L, с. 196—205.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -503,6 +646,7 @@ Baltai – indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti r
     204 Romovė resp. Romuva (D. Romow, Jer.— Rômowe), Romava, pasak Dusburgiečio,—
     prūsų, lietuvių ir kitų baltų religinio kulto centras.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -521,6 +665,7 @@ Baltai – indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti r
     E. А., Древние..., с. 17, 31, 61), Bačkininkėlių piliakalnyje prie Nemuno (Daugudis V.,
     Senoji.., p. 36), Palangos Birutės kalne (Žulkus V., Birutės..., p. 16—17) ir kt.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -542,6 +687,7 @@ Baltai – indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti r
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
     Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -566,6 +712,7 @@ Baltai – indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti r
     kalbomis, kurios sudaro atskirą indoeuropiečių kalbų šeimos šaką. Šian-
     dien šiai šakai atstovauja likusios gyvuoti tik lietuvių ir latvių kalbos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -589,6 +736,7 @@ Baltai – indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti r
     К вопросу о топонимических соответствиях..., с. 103—111; to paties, Балтийский
     элемент..., с. 250—252).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -610,6 +758,7 @@ Baltai – indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti r
     pradžioje prie Vyslos žiočių nekelia abejonių (Beddnarczuk L. Onomastyka..., p. 50—54,
     66); žr. ir GAO, p. 204; Gimbutienė M. Baltai, p. 17—19, 48—51, 66, 106, 114.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -627,11 +776,220 @@ Baltai – indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti r
     I tūkstantmečio antroje pusėje, prasidėjo slavų ekspansija, nulėmusi ryti-
     nių baltų asimiliaciją.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
+## Citatos
+
+- id: c-31042
+  citata_originali: |
+    **4. Vidurinis geležies amžius (400-800 m.) baltuose ir jų san­**
+        **tykiai su kaimynais**
+
+    Įsikūrę vietose, kur pati gamta iš dalies teikė kliūčių judėjimui
+    (pvz., iš pietų pusės ilgus amžius baltus saugojo nepereinamos
+    Pripetės pelkės), baltai nepadarė didelių šuolių, ir, kai Europoje
+    vyko germanų tautų kraustymasis, jie ir toliau pasiliko gyventi
+    Nemuno-Dauguvos-Dniepro plote, nedaug tepajudėdami. Nuosek­
+    liai, be jokių lūžių vystydami savo kultūrą viduriniame geležies
+    amžiuje, baltai išlaikė ją aukštame laipsnyje.
+  citata_rodoma: ") baltuose ir jų san­**\n    **tykiai su kaimynais**\n\nĮsikūrę vietose, kur pati gamta iš dalies teikė kliūčių judėjimui\n(pvz., iš pietų pusės ilgus amžius baltus saugojo nepereinamos\nPripetės pelkės), baltai nepadarė didelių šuolių, ir, kai Europoje\nvyko germanų tautų kraustymasis, jie ir toliau pasiliko gyventi\nNemuno-Dauguvos-Dniepro plote, nedaug tepajudėdami. Nuosek­\nliai, be jokių lūžių vystydami savo kultūrą viduriniame geležies\namžiuje, baltai išlaikė ją aukštame laipsnyje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-96077
+
+- id: c-31043
+  citata_originali: |
+    Karo stovis su skandinavais nusitęsė beveik iki
+    pat istorinių laikų pradžios.
+    Su slavais baltų protėviai, ypač iki geležies amžiaus pradžios,
+    yra turėję artimų santykių. Todėl iš visų indoeuropiečių kalbų
+    slavų kalbos yra artimiausios baltų kalboms; tačiau baltų-slavų
+    bendra protautė yra nežinoma, nes ir slavų ir baltų prokalbės yra
+    išriedėjusios iš dviejų artimų indoeuropiečių prokalbės tarmių (A.
+    Salys).
+  citata_rodoma: "Su slavais baltų protėviai, ypač iki geležies amžiaus pradžios,\nyra turėję artimų santykių. Todėl iš visų indoeuropiečių kalbų\nslavų kalbos yra artimiausios baltų kalboms; tačiau baltų-slavų\nbendra protautė yra nežinoma, nes ir slavų ir baltų prokalbės yra\nišriedėjusios iš dviejų artimų indoeuropiečių prokalbės tarmių (A.\nSalys)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-96085
+
+- id: c-90794
+  citata_originali: |
+    Kai kuriuose to meto šaltiniuose Prūsija ir Lietuva
+    suprantama kaip viena visuma32, o Mindaugas vadinamas prūsų karaliumi33. Mindaugas
+    norėjo padaryti Lietuvą bendrąja baltų valstybe,  į kurią įeitų šiaurinės ir pietvakarinės
+    baltų žemės (Livonija  ir Prūsija). Mindaugo vadovaujama baltų sąjunga tampa ypač
+    akivaizdžiu reiškiniu XIII a. 5-ojo dešimtmečio pradžioje34.
+  citata_rodoma: "Mindaugas\nnorėjo padaryti Lietuvą bendrąja baltų valstybe,  į kurią įeitų šiaurinės ir pietvakarinės\nbaltų žemės (Livonija  ir Prūsija). Mindaugo vadovaujama baltų sąjunga tampa ypač\nakivaizdžiu reiškiniu XIII a. 5-ojo dešimtmečio pradžioje34."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-96078
+
+- id: c-90795
+  citata_originali: |
+    pasireiškė ir kitais atvejais, kovojant prieš vokiečių feodalinę agresiją. Taigi Lietuvos
+    pastangomis bendrai kovai buvo mobilizuojami beveik visi baltai.
+      Lietuvos  ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus
+    tada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną.
+  citata_rodoma: "Taigi Lietuvos\npastangomis bendrai kovai buvo mobilizuojami beveik visi baltai.\n  Lietuvos  ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus\ntada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-96087
+
+- id: c-90796
+  citata_originali: |
+    Analizuojant XIII—XIV a. 1-os pusės šaltinius, paaiškėja, kad baltai garbino išsiskyrusią
+    antropomorfinę dievybę, panašią  į krikščioniškąjį dievą (Łowmiański H. Elementy..., p.
+    153). Apie politeistinę baltų religiją, indoeuropietiškos kilmės vyriausiąjį dievą (lygintiną
+    su prūsų Patrimpu), jo garbinimą, vyriausiojo žynio Krivės funkcijas, Perkūną ir kt. baltų
+    dievus — Gimbutienė M. Baltai, p. 148—178; Mannhardt W. Letto-Preussische..., Apie
+    Krivį— Топоров B. H. Прусский язык, K—L, с. 196—205.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-96083
+
+- id: c-90797
+  citata_originali: |
+    204 Romovė resp. Romuva (D. Romow, Jer.— Rômowe), Romava, pasak Dusburgiečio,—
+    prūsų, lietuvių ir kitų baltų religinio kulto centras.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-96076
+
+- id: c-90798
+  citata_originali: |
+    Dabar jau žinome, kad kai kurios senovės baltų, lietuvių šventovės buvo įtvirtintos
+    tarsi pilys: Tušemlios piliakalnyje aukštutinėje padneprėje (Третьяков П. И., Шмидт
+
+    vadinamas kriviu205, kurį gerbė kaip popiežių, nes kaip valdovas popiežius valdo visuotinę
+
+    E. А., Древние..., с. 17, 31, 61), Bačkininkėlių piliakalnyje prie Nemuno (Daugudis V.,
+    Senoji.., p. 36), Palangos Birutės kalne (Žulkus V., Birutės..., p. 16—17) ir kt.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-96088
+
+- id: c-90799
+  citata_originali: |
+    Prūsai ir Lietuva
+
+       Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
+    artimai  sieja  kalbos,  kultūros,  tradicijų,  senosios  religijos bendrumas,  teritorijos
+    vientisumas.
+      Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
+    atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
+    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
+    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
+    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
+  citata_rodoma: "Prūsai ir Lietuva\n\n   Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos\nartimai  sieja  kalbos,  kultūros,  tradicijų,  senosios  religijos bendrumas,  teritorijos\nvientisumas.\n  Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,\natskirų žemių."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-96080
+
+- id: c-90800
+  citata_originali: |
+    2004
+    Lietuva tampa ES ir NATO nare.
+
+    I s k y r i u s
+    SENOJI LIETUVA
+    SENOVĖS BALTAI IR
+    LIETUVOS VALSTYBĖS ATSIRADIMAS
+    M
+    oksle baltais paprastai vadinama grupė indoeuro-
+    piečių genčių ir tautų, gyvenusių arba gyvenančių
+    Baltijos jūros rytų pakraštyje ir kalbėjusių arba kalbančių giminiškomis
+    kalbomis, kurios sudaro atskirą indoeuropiečių kalbų šeimos šaką. Šian-
+    dien šiai šakai atstovauja likusios gyvuoti tik lietuvių ir latvių kalbos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-96086
+
+- id: c-90803
+  citata_originali: |
+    186 Manoma, kad politinė  ir etninė baltų (Pamedės prūsų)  ir Pamario slavų riba
+    ėjusi XII—XIII  a. žemutine  Vysla  ir Nogatu (Trautmann  R.  Die  altpreussischen
+    Sprachdenkmäler, p. MII; Łowmiański H. Studja..., 1, p. 47; HP, 1, 1, p. 421—422 (G.
+    Labuda), nors prūsų tuo metu būta ir kair. Vyslos krante (Mevės apyl.— Yčas J. Prūsų...,
+    p. 11—12). Vyslos žemupį siekė ir baltų prokalbės, susiformavusios XX a. pr. m. e.,
+    arealas (Mažiulis V. Apie senovės vakarų baltus..., p. 5). Nors Vysla — pagrindinio baltų
+    arealo riba vakaruose, tačiau baltų hidronimikos yra ir  į vakarus nuo Vyslos (Ванагас
+    А. П., Максимальный ареал..., с. 119; Топоров В. Н. Новые работы..., с. 263—273;
+    plg. Рыбаков Б. А. Киевская Русь..., с. 15), periferinė baltų zona vakaruose siekusi
+    Oderio—Elbės tarpupį (Schall H. Baltische Gewässernamen..., p. 7—42; Топоров B. H.
+    К вопросу о топонимических соответствиях..., с. 103—111; to paties, Балтийский
+    элемент..., с. 250—252).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-96081
+
+- id: c-90804
+  citata_originali: |
+    Manoma, kad žalvario amžiuje baltų arealas siekęs Oderio žemupį (Gimbutienė M.,
+    Rytprūsių..., p. 13, 31 ir kt.; tos pačios, The Balts, p. 30—31, 63, 83). Prūsai V—VI a.
+    sandūroje vėl gyveno teritorijoje iki Vyslos (Labuda G. Zagadnienie..., p. 15, [Powierski J.]
+    Pomezania, p. 220). Kitų tvirtinama, kad prūsai pasiekė Vyslą ir Nogatą tik X—XI a. arba
+    net XII—XIII a. sandūroje (Pollakówna M. Zanik..., p. 164—165; Powierski J. Stosunki...,
+    p. 121; Górnowicz H. Toponimia..., p. 14—15). Pastaroji nuomonė kritikuojama (Ślaski
+    K. Rec.— ABS, 1967, 5, p. 358—360). Antikinių šaltinių tyrimas rodo, kad lotyniškoji
+    forma Viscla, Visculus (t. y. Vysla) yra baltiškos kilmės, kad baltų buvimas mūsų eros
+    pradžioje prie Vyslos žiočių nekelia abejonių (Beddnarczuk L. Onomastyka..., p. 50—54,
+    66); žr. ir GAO, p. 204; Gimbutienė M. Baltai, p. 17—19, 48—51, 66, 106, 114.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-96084
+
+- id: c-166507
+  citata_originali: |
+    Baltų gentys pradėjo formuotis III tūkstantme-
+    čio pr. Kr. pabaigoje, kai čia atvykę indoeuropiečiai pajungė ir asimiliavo
+    vietinius gyventojus. I tūkstantmetyje po Kr. baltų genčių apgyvendintas
+    arealas driekėsi nuo Vyslos iki Dniepro ir Okos baseinų rytuose. Vėliau,
+    I tūkstantmečio antroje pusėje, prasidėjo slavų ekspansija, nulėmusi ryti-
+    nių baltų asimiliaciją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183122
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Lietuviai]]

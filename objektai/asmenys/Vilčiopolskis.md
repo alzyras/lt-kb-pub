@@ -15,6 +15,18 @@ amziai:
   - 'XVII'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vilčiopolskis
 
@@ -27,9 +39,19 @@ Jonas Neliubovičius mūrinį namą su sklypu par­ davė Vilniaus kanauninkui V
 <a id="claim-t-87883"></a>
 - t-001
   global_id: t-87883
-  teiginys: 'Vilniaus kanauninkas Vilčiopolskis iš Jono Neliubovičiaus įsigijo mūrinį namą su sklypu.'
+  teiginys: "Vilniaus kanauninkas Vilčiopolskis iš Jono Neliubovičiaus įsigijo mūrinį namą su sklypu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "386566-386930; hash=67bf2fea86b3272f64b2f65771705447a341d8802344b5a58d55f2868a3f3162; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jonas Neliubovičius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilčiopolskis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Jonas Neliubovičius: mention_match, person, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilčiopolskis\" parinktas kaip owner_note_path. Targetas \"Jonas Neliubovičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-83862
 - susijęs iš [[objektai/grupes/Neliubovičiai.md#claim-t-86814|Neliubovičiai]]: 1583 m. Savickių Kristupui Zalivskiui parduota valda vėliau iš Zalivskių atiteko Neliubovičiams.
 - susijęs iš Šv. Jono Akademijos Spaustuvės kronika: 1631 m. Akademijos kolegija įgijo sklypą ir mūrinį namą, kurį vėliau pavertė spaustuve.
 - susijęs iš Šv. Jono Akademijos Spaustuvės kronika: 1547 m. Jonas Hozijus pardavė sklypą ir mūrinį namą, kuriame buvo spaustuvė, Sebastijonui Vitinskiui.
@@ -49,8 +71,27 @@ Jonas Neliubovičius mūrinį namą su sklypu par­ davė Vilniaus kanauninkui V
     mokestis nuo jo eitų Dievo Kūno koplyčios naudai, o po 25
     metų Akademijos kolegijai turėsiąs priklausyti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83862
+  citata_originali: |
+    Jonas Neliubovičius mūrinį namą su sklypu par­
+    davė Vilniaus kanauninkui Vilčiopolskiui.
+    1610. Vilniaus kanauninkas Vilčiopolskis tą mūrinį na­
+    mą su sklypu, savo paskutinę valią pareikšdamas, užrašė
+    Akademijos kolegijai, įpareigodamas, kad 25 metus činšo
+    mokestis nuo jo eitų Dievo Kūno koplyčios naudai, o po 25
+    metų Akademijos kolegijai turėsiąs priklausyti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87883

@@ -8,10 +8,6 @@ datos:
   - '1859 m.'
 date_start: '1857'
 date_end: '1859'
-aliases:
-  - 'objektai/asmenys/Mikalojus Akelaitis'
-variantai:
-  - 'Mikalojus Akelaitis'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -21,6 +17,18 @@ amziai:
   - 'XIX'
 periodo_grupes:
   - 'naujieji laikai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Mikalojus Akelaitis
 
@@ -31,11 +39,24 @@ periodo_grupes:
 ## Teiginiai
 
 <a id="claim-t-169889"></a>
-- t-001
+- t-011
   global_id: t-169889
-  teiginys: '1859 m. Mikalojus Akelaitis Juzefui Ignacui Kraševskiui rašė, kad tautos istorija turi būti kiekvieno piliečio lūpose.'
+  teiginys: "1859 m. Mikalojus Akelaitis Juzefui Ignacui Kraševskiui rašė, kad tautos istorija turi būti kiekvieno piliečio lūpose."
+  temporaliniai_duomenys: "įvykio data: 1859 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia citatoje pateiktus Akelaičio žodžius."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "6293-6807; hash=90f907f4b041770d2e0714a34391a1e69b005a64ff40bce16f273f9be90a605c; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Mikalojus Akelaitis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mikalojus Akelaitis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Mikalojus Akelaitis: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mikalojus Akelaitis\" parinktas kaip owner_note_path. Targetas \"Mikalojus Akelaitis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-154572
 - susijęs iš [[objektai/asmenys/Jonas Mačiulis-Maironis.md#claim-t-63727|Jonas Mačiulis-Maironis]]: Suvokimas, kad tautos ateitis priklauso nuo atminties, įkvėpė Joną Mačiulį-Maironį raštu įamžinti Lietuvos praeitį.
 - susijęs iš [[objektai/asmenys/Simonas Daukantas.md#claim-t-105713|Simonas Daukantas]]: Simoną Daukantą įkvėpė suvokimas, kad tautos ateičiai būtina tautos atmintis, todėl jis raštu įamžino Lietuvos praeitį.
 - susijęs iš [[objektai/paprociai/Tautos istorijos atminties saugojimas piliečių lūpose.md#claim-t-54358|Tautos istorijos atminties saugojimas piliečių lūpose]]: 1859 m. Mikalojus Akelaitis Juzefui Ignacui Kraševskiui rašė, kad tautos istorija turi būti kiekvieno piliečio lūpose.
@@ -57,8 +78,29 @@ periodo_grupes:
     Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną
     Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-154572
+  citata_originali: |
+    Jas įsi-
+    mindami, savaime tapsite gyvais Lietuvos istorijos liudininkais ir sergėto-
+    jais. Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi
+    1859 m. lietuvių švietėjo Mikalojaus Akelaičio žodžiuose lenkų literatui
+    Juzefui Ignacui Kraševskiui (Józef Ignacy Kraszewski): „Tautos istorija
+    turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“
+    Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną
+    Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu.
+  citata_rodoma: "Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi \n1859 m. lietuvių švietėjo Mikalojaus Akelaičio žodžiuose lenkų literatui \nJuzefui Ignacui Kraševskiui (Józef Ignacy Kraszewski): „Tautos istorija \nturi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“ \nBūtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną \nMačiulį-Maironį ir kt."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169889

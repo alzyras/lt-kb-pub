@@ -9,11 +9,6 @@ datos:
   - '1583 m.'
 date_start: '1558'
 date_end: '1583'
-description: 'Kristupas Radvila Perkūnas – LDK etmonas, pasižymėjęs Livonijos kare su Rusija, Polocko, Volgos aukštupio ir Šelonės žygiuose.'
-socialDescription: 'Kristupas Radvila Perkūnas – Radvilų giminės karvedys, iškilęs Livonijos karo su Rusija žygiuose ir vėliau tapęs LDK didžiuoju etmonu.'
-seo_atnaujinta: '2026-07-02T21:03:54.599113+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -23,49 +18,104 @@ amziai:
   - 'XVI'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kristupas Radvila Perkūnas
 
 ## Santrauka
 
-Kristupas Radvila Perkūnas buvo Mikalojaus Radvilos Rudojo sūnus, lauko, vėliau LDK didysis etmonas. Livonijos kare su Rusija (1558–1583 m.) jo karinis talentas išryškėjo užimant Polocko tvirtovę ir žygiuose prie Volgos aukštupio, Šelonės upės, Mstislavlio, Mogiliavo bei Šklovo. Šaltiniuose jis minimas ir kaip Radvilų protestantų lyderių grandinės dalis.
+Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju vadu buvo paskirtas Vilniaus vaivada Mikalojus Radvila Rudasis, kuriam padėjo sūnus, lauko hetmonas Kristupas, pramintas Perkūnu. Kristupas I Radvila Perkūnas, Mikalojaus R. Mikalojus Rudasis, paskui — jo sūnus Kristupas Perkūnas († 1603 m.), po jo — jo sūnus Jonušas (rokošininkas — † 1620 m.), vėliau—kitas sūnus Kristupas († 1640 m.) ir pagaliau — šio sūnus Jonušas, — tas pats, kurs 1655 m. padarė sutartį su Švedais.
 
 ## Teiginiai
 
 <a id="claim-t-79094"></a>
-- t-001
+- t-010
   global_id: t-79094
-  teiginys: 'Kristupas Radvila Perkūnas po Mikalojaus Radvilos Rudojo buvo vienas iš biržiečių Radvilų, vadovavusių Lietuvos protestantams.'
+  teiginys: "Kristupas Radvila Perkūnas po Mikalojaus Radvilos Rudojo buvo vienas iš biržiečių Radvilų, vadovavusių Lietuvos protestantams."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "685010-685476; hash=b169e21773eda7d0023c3b7eb5b1ce71c4b86f40c4976567266b6558954b6757; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-003
+    - c-76187
 
 <a id="claim-t-79095"></a>
-- t-002
+- t-006
   global_id: t-79095
-  teiginys: 'Šešiolikmetis Kristupas Radvila Perkūnas buvo tarp karių greta didžiojo etmono Mikalojaus Radvilos.'
+  teiginys: "Šešiolikmetis Kristupas Radvila Perkūnas buvo tarp karių greta didžiojo etmono Mikalojaus Radvilos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "351731-352119; hash=2162c721e3b5339d3fc5ca3ea93b9167136c3de5a114490cb810aa07c79ce55e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kristupas Radvila: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kristupas Radvila Perkūnas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kristupas Radvila: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristupas Radvila Perkūnas\" parinktas kaip owner_note_path. Targetas \"Kristupas Radvila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-76190
 
 <a id="claim-t-79097"></a>
-- t-003
+- t-007
   global_id: t-79097
-  teiginys: 'Birželio 2-3 d. LDK didysis etmonas Kristupas Radvila Perkūnas pasiuntė Jono Sicinskio dalinį prieš K. Carlsono Gyllenhielmo karius.'
+  teiginys: "Birželio 2-3 d. LDK didysis etmonas Kristupas Radvila Perkūnas pasiuntė Jono Sicinskio dalinį prieš K. Carlsono Gyllenhielmo karius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "394658-394946; hash=f5ea273379b5a54d362c884fea84fb9757ad8943d4393ac4c2ace5518cc3f89c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kristupas Radvila: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kristupas Radvila Perkūnas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kristupas Radvila: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristupas Radvila Perkūnas\" parinktas kaip owner_note_path. Targetas \"Kristupas Radvila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-42093
 
 <a id="claim-t-79098"></a>
-- t-004
+- t-008
   global_id: t-79098
-  teiginys: 'Lauko hetmonas Kristupas Radvila Perkūnas padėjo vyriausiuoju vadu paskirtam Vilniaus vaivadai Mikalojui Radvilai Rudajam.'
+  teiginys: "Lauko hetmonas Kristupas Radvila Perkūnas padėjo vyriausiuoju vadu paskirtam Vilniaus vaivadai Mikalojui Radvilai Rudajam."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "588106-588563; hash=4ade6745e7912c618c1fd07789843358fbb85b5f11d45d0bbd9263e428df5736; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kristupas Radvila: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kristupas Radvila Perkūnas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kristupas Radvila: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristupas Radvila Perkūnas\" parinktas kaip owner_note_path. Targetas \"Kristupas Radvila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-76189
 
 <a id="claim-t-79100"></a>
-- t-005
+- t-008
   global_id: t-79100
-  teiginys: 'Kristupas Radvila Perkūnas pasiekė Volgos aukštupį ir prie Šelonės upės, ties Mstislavliu, Mogiliavu, Šklovu jis sumušė rusų kariuomene.'
+  teiginys: "Kristupas Radvila Perkūnas pasiekė Volgos aukštupį ir prie Šelonės upės, ties Mstislavliu, Mogiliavu, Šklovu jis sumušė rusų kariuomene."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "588106-588563; hash=4ade6745e7912c618c1fd07789843358fbb85b5f11d45d0bbd9263e428df5736; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kristupas Radvila: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kristupas Radvila Perkūnas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kristupas Radvila: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristupas Radvila Perkūnas\" parinktas kaip owner_note_path. Targetas \"Kristupas Radvila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-42094
 - susijęs iš [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis).md#claim-t-78614|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]: 1581 m. Kristupas Radvila Perkūnas prie Šelomos upės sumušė rusų dalinį ir pasuko į Rusijos gilumą.
 - susijęs iš [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.).md#claim-t-49166|Kuoknesės mūšis (1601 m. birželio 23 d.)]]: Prieš Kuoknesės mūšį Kristupas Radvila Perkūnas birželio 2-3 d. pasiuntė Joną Sicinskį smogti K. Carlsono Gyllenhielmo kariams.
 - susijęs iš [[objektai/asmenys/Jonas Sicinskis.md#claim-t-40228|Jonas Sicinskis]]: Birželio 2–3 d. Kristupas Radvila Perkūnas pasiuntė rotmistrą Joną Sicinskį su daliniu smogti K. Carlsono Gyllenhielmo kariams.
@@ -86,6 +136,7 @@ Kristupas Radvila Perkūnas buvo Mikalojaus Radvilos Rudojo sūnus, lauko, vėli
     23 d. prie Kuoknesės pagrindinė Lietuvos
     kariuomenė stojo prieš švedų pajėgas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -106,6 +157,7 @@ Kristupas Radvila Perkūnas buvo Mikalojaus Radvilos Rudojo sūnus, lauko, vėli
     Mogiliavu, Šklovu jis sumušė rusų kariuo-
     mene.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -131,6 +183,7 @@ Kristupas Radvila Perkūnas buvo Mikalojaus Radvilos Rudojo sūnus, lauko, vėli
     kurs 1655 m. padarė sutartį su
     Švedais.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -151,6 +204,7 @@ Kristupas Radvila Perkūnas buvo Mikalojaus Radvilos Rudojo sūnus, lauko, vėli
     kuriam padėjo sūnus, lauko hetmonas Kristupas, pramintas
     Perkūnu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -175,11 +229,117 @@ Kristupas Radvila Perkūnas buvo Mikalojaus Radvilos Rudojo sūnus, lauko, vėli
     sis Livonijos etmonas Jonas
     Chodkevičius ir daugelis kitų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-42093
+  citata_originali: |
+    maistą ir amuniciją. Birželio 2-3 d. LDK di-
+    dysis etmonas Kristupas Radvila Perkūnas
+    pasiuntė rotmistrą Joną Sicinskį su dali-
+    niu, kuris sudavė antrą smūgį K. Carlsono
+    Gyllenhielmo kariams. Pagaliau birželio
+    23 d. prie Kuoknesės pagrindinė Lietuvos
+    kariuomenė stojo prieš švedų pajėgas.
+  citata_rodoma: "Birželio 2-3 d. LDK di-\ndysis etmonas Kristupas Radvila Perkūnas\npasiuntė rotmistrą Joną Sicinskį su dali-\nniu, kuris sudavė antrą smūgį K. Carlsono\nGyllenhielmo kariams."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-79097
+
+- id: c-42094
+  citata_originali: |
+    prie Ūlos, kuriame Lietuvos kariuomenė
+    sutriuškino Rusijos kariuomenę. Jo ka-
+    rinis talentas išryškėjo Livonijos kare
+
+    su Rusija (1558-1583 m.), ypač užimant
+    Polocko tvirtovę. 1581 m. su nedidele lietu-
+    vių kariuomene jis pasiekė Volgos aukš-
+    tupį ir prie Šelonės upės, ties Mstislavliu,
+    Mogiliavu, Šklovu jis sumušė rusų kariuo-
+    mene.
+  citata_rodoma: "Jo ka-\nrinis talentas išryškėjo Livonijos kare\n\nsu Rusija (1558-1583 m.), ypač užimant\nPolocko tvirtovę. 1581 m. su nedidele lietu-\nvių kariuomene jis pasiekė Volgos aukš-\ntupį ir prie Šelonės upės, ties Mstislavliu,\nMogiliavu, Šklovu jis sumušė rusų kariuo-\nmene."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-79100
+
+- id: c-76187
+  citata_originali: |
+    Lietuvoje protestantų židinys buvo galingieji biržiečiai
+    Radvilos. Karalius negalėjo jų visiškai nustumti, nes jie buvo
+    perdaug turtingi ir galingi. Vie-
+    nas iš jų šeimos visada būdavo
+    protestantų galva; iš pradžių —
+    Mikalojus Rudasis, paskui — jo
+    sūnus Kristupas Perkūnas (†
+    1603 m.), po jo — jo sūnus
+    Jonušas (rokošininkas — † 1620
+    m.), vėliau—kitas sūnus Kristu-
+    pas († 1640 m.) ir pagaliau —
+    šio sūnus Jonušas, — tas pats,
+    kurs 1655 m. padarė sutartį su
+    Švedais.
+  citata_rodoma: "Mikalojus Rudasis, paskui — jo\n  sūnus Kristupas Perkūnas (†\n  1603 m.), po jo — jo sūnus\n  Jonušas (rokošininkas — † 1620\n  m.), vėliau—kitas sūnus Kristu-\n  pas († 1640 m.) ir pagaliau —\n  šio sūnus Jonušas, — tas pats,\n  kurs 1655 m. padarė sutartį su\n  Švedais."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-79094
+
+- id: c-76189
+  citata_originali: |
+    Magnusas net buvo karūnuotas
+    Livonijos karalium. Caro ir Magnuso kariuomenė tuomet ėmė
+    vieną miestą po kito, o Lietuvos kariuomenės vadas Jonas J.
+    Katkevičius teturėjo vos apie 4.600 karių (jų tarpe lenkų te-
+    buvo vos 300), todėl negalėjo spirtis. Neprisišaukdamas pa-
+    galbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju vadu
+    buvo paskirtas Vilniaus vaivada Mikalojus Radvila Rudasis,
+    kuriam padėjo sūnus, lauko hetmonas Kristupas, pramintas
+    Perkūnu.
+  citata_rodoma: "o Lietuvos kariuomenės vadas Jonas J.\n  Katkevičius teturėjo vos apie 4.600 karių (jų tarpe lenkų te-\n  buvo vos 300), todėl negalėjo spirtis. Neprisišaukdamas pa-\n  galbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju vadu\n  buvo paskirtas Vilniaus vaivada Mikalojus Radvila Rudasis,\n  kuriam padėjo sūnus, lauko hetmonas Kristupas, pramintas\n  Perkūnu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-79098
+
+- id: c-76190
+  citata_originali: |
+    “14, 4iki 6 tūkstančių raitelių. Tačiau tai
+
+    buvo geriausi kariai, kuriuos tuo metu
+    buvo galima surinkti. Greta didžiojo
+    etmono M. Radvilos buvo jo šešio-
+    likmetis sūnus Kristupas Radvila,
+    vėliau tapęs didžiuoju etmonu ir
+    vadintas Perkūnu, lauko etmo-
+    nas Grigalius Chodkevičius,
+    būsimasis lauko etmonas
+    Romanas Sanguška, būsima-
+    sis Livonijos etmonas Jonas
+    Chodkevičius ir daugelis kitų.
+  citata_rodoma: "Tačiau tai\n\nbuvo geriausi kariai, kuriuos tuo metu\nbuvo galima surinkti. Greta didžiojo\netmono M. Radvilos buvo jo šešio-\nlikmetis sūnus Kristupas Radvila,\nvėliau tapęs didžiuoju etmonu ir\nvadintas Perkūnu, lauko etmo-\nnas Grigalius Chodkevičius,\nbūsimasis lauko etmonas\nRomanas Sanguška, būsima-\nsis Livonijos etmonas Jonas\nChodkevičius ir daugelis kitų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-79095
 
 ## Ryšiai
 - Kristupas Radvila Perkūnas keliavo į [[objektai/vietos/Rusija]], [[objektai/vietos/Veližas]]

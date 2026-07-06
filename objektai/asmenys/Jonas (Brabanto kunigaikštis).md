@@ -17,6 +17,18 @@ amziai:
   - 'XIII'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jonas (Brabanto kunigaikštis)
 
@@ -29,10 +41,19 @@ Dusburgietis teigia, kad apie mūšį netoli Kelno, prie Vurungeno kaimo Tuo met
 <a id="claim-t-60340"></a>
 - t-001
   global_id: t-60340
-  teiginys: 'Netoli Kelno, prie Vurungeno kaimo, Jonas, Brabanto kunigaikštis, mūšyje nugalėjo Kelno arkivyskupą Zigfridą iš Runkelės.'
+  teiginys: "Netoli Kelno, prie Vurungeno kaimo, Jonas, Brabanto kunigaikštis, mūšyje nugalėjo Kelno arkivyskupą Zigfridą iš Runkelės."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "721767-722071; hash=e7e0af9021a8e3646e129832b578e93a65465aa9e5508dbffb30d01272777fd2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jonas (Brabanto kunigaikštis): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=7"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonas (Brabanto kunigaikštis)\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-60972
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -49,8 +70,30 @@ Dusburgietis teigia, kad apie mūšį netoli Kelno, prie Vurungeno kaimo Tuo met
 
                              77.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-60972
+  citata_originali: |
+    76. Apie mūšį netoli Kelno, prie Vurungeno kaimo
+
+      Tuo metu netoli Kelno, prie Vurungeno kaimo, kilo mūšis, kuriame Jonas, Brabanto
+    kunigaikštis, nugalėjo Zigfridą  iš Runkelės, Kelno arkivyskupą; neskaitant paprastų
+    karių, abi šalys neteko nukautaisiais 1300 kilmingųjų.
+
+
+
+                             77.
+  citata_rodoma: "Apie mūšį netoli Kelno, prie Vurungeno kaimo\n\n  Tuo metu netoli Kelno, prie Vurungeno kaimo, kilo mūšis, kuriame Jonas, Brabanto\nkunigaikštis, nugalėjo Zigfridą  iš Runkelės, Kelno arkivyskupą; neskaitant paprastų\nkarių, abi šalys neteko nukautaisiais 1300 kilmingųjų.\n\n\n\n                         77."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60340

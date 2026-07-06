@@ -16,6 +16,18 @@ tags:
 amziai:
   - 'XIV'
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # „didžiausią Europoje tolerancijos uostą“ „Europos tolerancijos lopšys“
 
@@ -28,10 +40,22 @@ Lenkijos religinę toleranciją yra apibūdinę kaip neturinčią analogo Europo
 <a id="claim-t-26347"></a>
 - t-001
   global_id: t-26347
-  teiginys: 'Istorikai XVI–XVII a. Lenkijos religinę toleranciją apibūdino kaip neturinčią analogo Europoje ir Lenkiją vadino didžiausiu Europos tolerancijos uostu.'
+  teiginys: "Istorikai XVI–XVII a. Lenkijos religinę toleranciją apibūdino kaip neturinčią analogo Europoje ir Lenkiją vadino didžiausiu Europos tolerancijos uostu."
+  temporaliniai_duomenys: "įvykio data: po 1387 m.; įvykio data: 1387 m.; įvykio data: 1500 m.; įvykio data: apie 1500 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "135640-136269; hash=71c15da0b542e9d1d7b802c519fd986b0bd597323bce32572d6197265b553b14; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "„didžiausią Europoje tolerancijos uostą“ „Europos tolerancijos lopšys“: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=46"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„didžiausią Europoje tolerancijos uostą“ „Europos tolerancijos lopšys“\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-26572
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -49,8 +73,31 @@ Lenkijos religinę toleranciją yra apibūdinę kaip neturinčią analogo Europo
     pačiai metropolijai Kijeve, o metropolitas reziduodavo ne tik Kijeve, bet ir
     Naugarduke bei Vilniuje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-26572
+  citata_originali: |
+    Istorikai XVI–XVII a. Lenkijos religinę toleranciją yra api-
+    būdinę kaip neturinčią analogo Europoje, o Lenkiją – kaip didžiausią Eu-
+    ropoje tolerancijos uostą. Daugiakultūriškumas ir daugiakonfesiškumas
+    kartais laikomi didžiausiu Lenkijos įnašu į Europos kultūrą. Nuo 1387 m.
+    LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m. buvo tik
+
+    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
+    71
+    trys stačiatikių vyskupijos, o LDK – šešios, ir visos jos buvo pavaldžios tai
+    pačiai metropolijai Kijeve, o metropolitas reziduodavo ne tik Kijeve, bet ir
+    Naugarduke bei Vilniuje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-26347

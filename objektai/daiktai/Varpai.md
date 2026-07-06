@@ -20,6 +20,18 @@ tags:
 amziai:
   - 'XV'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Varpai
 
@@ -50,39 +62,97 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-12333"></a>
-- t-001
+- t-002
   global_id: t-12333
-  teiginys: 'Vytauto laikams baigiantis daugelyje Lietuvos vietų jau skambėjo bažnyčių varpai.'
+  teiginys: "Vytauto laikams baigiantis daugelyje Lietuvos vietų jau skambėjo bažnyčių varpai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "309583-310176; hash=d2f21565dae319cd5a477a9a7631c949303d57420fe56c790f1e726de0092029; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Varpai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=37"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Varpai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-14341
 
 <a id="claim-t-89438"></a>
-- t-002
+- t-006
   global_id: t-89438
-  teiginys: 'Pilyje paliktas iškaršęs ir aklas Ordino brolis kas valandą kaip paprastai skambino varpu.'
+  teiginys: "Pilyje paliktas iškaršęs ir aklas Ordino brolis kas valandą kaip paprastai skambino varpu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "412088-412577; hash=9ea762e0828aa123bfcb21fd7ad332158ae6c2bf95fc22258ba6fb2e6262d229; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Elbingas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Varpai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Elbingas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Varpai\" parinktas kaip owner_note_path. Targetas \"Elbingas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-85396
 
 <a id="claim-t-89439"></a>
 - t-003
   global_id: t-89439
-  teiginys: '1958 m. pasibaigus „atšilimui“, sovietų valdžia draudė skambinti bažnyčių varpais.'
+  teiginys: "1958 m. pasibaigus „atšilimui“, sovietų valdžia draudė skambinti bažnyčių varpais."
+  temporaliniai_duomenys: "įvykio data: 1958 m.; įvykio data: 1962 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinė formuluotė nutrūkusi ir perkrauta pašalinėmis detalėmis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "468228-469012; hash=cf7ca26d4fdf64641b781d3e510290afeca9895f3f2d6870a00bebc217c75d24; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kalvarija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Varpai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kalvarija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Varpai\" parinktas kaip owner_note_path. Targetas \"Kalvarija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-85397
 
 <a id="claim-t-89440"></a>
-- t-004
+- t-001
   global_id: t-89440
-  teiginys: 'Nuo Vytauto laikų Lietuvoje buvo liejami varpai.'
+  teiginys: "Nuo Vytauto laikų Lietuvoje buvo liejami varpai."
+  temporaliniai_duomenys: "įvykio data: 1422 m.; įvykio data: 1435 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "420567-421200; hash=fd2dd7fb2e267a01a1b9109f37c7e9075f08f017b2d3789f293e1712369a3d4a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Varpai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Varpai\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-22310
 
 <a id="claim-t-89442"></a>
 - t-005
   global_id: t-89442
-  teiginys: 'Po 1958 m. sovietų valdžia Lietuvoje draudė bažnyčiose skambinti varpais.'
+  teiginys: "Po 1958 m. sovietų valdžia Lietuvoje draudė bažnyčiose skambinti varpais."
+  temporaliniai_duomenys: "įvykio data: po 1958 m.; įvykio data: 1958 m.; įvykio data: 1962 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata nepagrindžia teiginio apie sausio 13-osios aukas, bet pagrindžia faktą apie varpų skambinimo draudimą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "468228-469012; hash=cf7ca26d4fdf64641b781d3e510290afeca9895f3f2d6870a00bebc217c75d24; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kalvarija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Varpai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kalvarija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Varpai\" parinktas kaip owner_note_path. Targetas \"Kalvarija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-85397
 - susijęs iš [[objektai/asmenys/Teokritas Scholastas.md#claim-t-190215|Teokritas Scholastas]]: Narbutas remiasi Teokritu Scholastu teigdamas, kad varpai priklausė slaptoms Kabirų garbinimo apeigoms.
 - susijęs iš [[objektai/autoriai/Teokritas Scholastas.md#claim-t-190458|Teokritas Scholastas]]: Teokritas Scholastas paliko žinią, kad varpai priklausė dievų Kabirų garbinimo paslaptingoms apeigoms.
 - susijęs iš [[objektai/daiktai/Lietuvių pilių varpai žadintojai ir gumbai.md#claim-t-189658|Lietuvių pilių varpai žadintojai ir gumbai]]: Narbutas rašo, kad padavimai lietuvių pilyse mini varpus kariams prikelti, sargybiniams perspėti ir pavojui paskelbti.
@@ -121,8 +191,9 @@ Nenurodyta
     mo centras buvo jau ne senojo lietuvių tikėjimo garbinama gam­
     ta, bet pats jos Kūrėjas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -142,8 +213,9 @@ Nenurodyta
     (Dancigu ir Karaliaučiumi), nuo Vytauto laikų buvo kalamos mo­
     netos, liejami pabūklai, varpai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
@@ -160,6 +232,7 @@ Nenurodyta
 
     Vis dėlto ir šis brolis, palikęs pilyje, kiekvieną valandą kaip paprastai skambino varpu.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -182,11 +255,92 @@ Nenurodyta
     pajuokiami, įžeidinėjami, uždrausta statyti kryžius, šiurkščiais metodais
     sustabdyta naujos bažnyčios statyba Klaipėdoje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-14341
+  citata_originali: |
+    Jeigu prasidedant Vytauto Didžiojo laikams Lietuva buvo
+    dar pagonių šalis ir tebebuvo garbinami jos šventi miškai ir
+    tebekūrenama amžinoji ugnis, tai jau jo laikams baigiantis Lie­
+    tuva buvo gerokai sukatalikinta ir daugelyje jos vietų skambėjo
+    bažnyčių varpai. Vytautas tai pasiekė ne iš karto, bet po visos
+    eilės tų didžių ir nelengvų katalikybės skleidimo žygių, apie ku­
+    riuos iki šiol kalbėjom. Jais Vytautas seną religinę Lietuvos
+    būklę bent oficialiai pakeitė nauja, kurioje viso religinio gyveni­
+    mo centras buvo jau ne senojo lietuvių tikėjimo garbinama gam­
+    ta, bet pats jos Kūrėjas.
+  citata_rodoma: "Jeigu prasidedant Vytauto Didžiojo laikams Lietuva buvo\ndar pagonių šalis ir tebebuvo garbinami jos šventi miškai ir\ntebekūrenama amžinoji ugnis, tai jau jo laikams baigiantis Lie­\ntuva buvo gerokai sukatalikinta ir daugelyje jos vietų skambėjo\nbažnyčių varpai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-12333
+
+- id: c-22310
+  citata_originali: |
+    Lietuvos
+    ateičiai buvo reikšmingas faktas, kad Lietuva iš didžiosios Algirdo
+    laikų kryžkelės pasuko jau Mindaugo bandytu Romos keliu. Į kai­
+    myninę Lenkiją užkuriom nueinant Lietuvos valdovui, vėl valsty­
+    binėje plotmėje buvo atnaujintas lotyniškasis krikštas, nuošalia-
+    paliekant oficialųjį krikštytoją kryžiuočių ordiną, atstovavusį gin­
+    kluotai « misijų teorijai ». Pagaliau pasibaigus karams su kryžiuo­
+    čiais (1422 m.—su Prūsų, 1435 m.—su Livonijos), prasidėjo vi­
+    daus kolonizacija, ypač Sūduvos giriose, vystėsi prekyba su Prūsais
+    (Dancigu ir Karaliaučiumi), nuo Vytauto laikų buvo kalamos mo­
+    netos, liejami pabūklai, varpai.
+  citata_rodoma: "Pagaliau pasibaigus karams su kryžiuo­\nčiais (1422 m.—su Prūsų, 1435 m.—su Livonijos), prasidėjo vi­\ndaus kolonizacija, ypač Sūduvos giriose, vystėsi prekyba su Prūsais\n(Dancigu ir Karaliaučiumi), nuo Vytauto laikų buvo kalamos mo­\nnetos, liejami pabūklai, varpai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89440
+
+- id: c-85396
+  citata_originali: |
+    Šitai išgirdę, broliai ir jų šeimyna, kitą dieną
+    pasidaliję į dvi dalis, vieni patraukė į Karaliaučiaus pilį, o kiti į Elbingą paėmę šventųjų
+    relikvijas, o pilyje palikę vieną iškaršusį ir aklą brolį, nestengiantį su jais drauge eiti.
+      392  Pateikiama kronikoje ir kita Ordino maršalo Ditricho žuvimo versija — D. III,
+    123; žr. Ewald A. L., Die Eroberung.., 4, p. 59; Jasas R., Didysis..., p. 49).
+
+    Vis dėlto ir šis brolis, palikęs pilyje, kiekvieną valandą kaip paprastai skambino varpu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89438
+
+- id: c-85397
+  citata_originali: |
+    1962 m. beliko vos 55 klierikai, nors bažnyčiose kunigų trūko.
+    J. Stalino laikais okupacinė valdžia dvasininkiją stengėsi sunaikinti fiziš-
+    kai, ištremti, bažnyčias paversti sandėliais, o N. Chruščiovo laikais bažny-
+    čią imta diskredituoti, spausti morališkai, nors iš trėmimų vietų sugrįžo
+    130 kunigų. 1958 m. „atšilimas“ baigėsi, pradėta kovoti su religija moky-
+    mo ir mokslo įstaigose, įmonėse steigti ateistų būreliai, drausta skambinti
+    varpais, varžomi krikštijimai, katekizavimas, ribotas atlaidų lankymas
+    Žemaičių Kalvarijoje ir Šiluvoje (miestelis netoli Raseinių, kurį valdžia
+    blokuodavo atlaidų metu, paskelbdama neva „kiaulių marą“), tikintieji
+    pajuokiami, įžeidinėjami, uždrausta statyti kryžius, šiurkščiais metodais
+    sustabdyta naujos bažnyčios statyba Klaipėdoje.
+  citata_rodoma: "Žemaičių Kalvarijoje ir Šiluvoje (miestelis netoli Raseinių, kurį valdžia"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89439
 
 ## Ryšiai
 - Varpai priklausė [[objektai/grupes/Romėnai]]

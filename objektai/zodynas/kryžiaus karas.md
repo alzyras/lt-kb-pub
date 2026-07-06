@@ -14,6 +14,18 @@ atnaujinta: ''
 tags: []
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # kryžiaus karas
 
@@ -53,31 +65,78 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
 <a id="claim-t-05440"></a>
 - t-001
   global_id: t-05440
-  teiginys: '1254 m. pradžioje buvo skelbiamas kryžiaus karas ordinui ginti prieš totorius.'
+  teiginys: "1254 m. pradžioje buvo skelbiamas kryžiaus karas ordinui ginti prieš totorius."
+  semantiniai_rysiai: "Kryžiuočių ordinas gynė Totoriai (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1253 m.; įvykio data: apie 1253 m.; įvykio data: 1254 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Teiginys glaustai perteikia citatoje nurodytą kryžiaus karo skelbimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "509964-510275; hash=93a1109649f06250d5334ba8e2d8c213e02c4ec14c691a580b7dbaf9c3e9f567; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Totoriai: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad kryžiaus karas buvo skelbiamas ordinui ginti prieš totorius."
   pagrindžia:
-    - c-001
+    - c-05568
 
 <a id="claim-t-05441"></a>
 - t-002
   global_id: t-05441
-  teiginys: 'Kryžiaus karo žygio vadovavimas šiame šaltinyje siejamas su Prūsų riterių magistru.'
+  teiginys: "Kryžiaus karo žygio vadovavimas šiame šaltinyje siejamas su Prūsų riterių magistru."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "510648-511039; hash=2d628d6557dc62488cfe17df7e7815c7c7f61d4c4ba383a82d857bf3f9145b55; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "kryžiaus karas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kryžius: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"kryžiaus karas\" parinktas kaip owner_note_path. Targetas \"Kryžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-05569
 
 <a id="claim-t-05442"></a>
 - t-003
   global_id: t-05442
-  teiginys: 'Popiežiaus Aleksandro IV bulėmis įsakyta intensyviau skelbti kryžiaus karus prieš pagonis.'
+  teiginys: "Popiežiaus Aleksandro IV bulėmis įsakyta intensyviau skelbti kryžiaus karus prieš pagonis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "515884-516117; hash=e1897d702afab3a65590c91838f871c8f13695af35c6344da89e234fdc2947bc; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "kryžiaus karas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kryžius: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"kryžiaus karas\" parinktas kaip owner_note_path. Targetas \"Kryžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
-    - c-004
+    - c-05570
+    - c-05571
 
 <a id="claim-t-184356"></a>
 - t-004
   global_id: t-184356
-  teiginys: 'Popiežiaus Aleksandro IV bulėmis buvo įsakyta intensyviau skelbti kryžiaus karus prieš pagonis.'
+  teiginys: "Popiežiaus Aleksandro IV bulėmis buvo įsakyta intensyviau skelbti kryžiaus karus prieš pagonis."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "515949-516193; hash=9503cf2d3dc1aff3fe07ba2c6564629ebbef06327186f3396e5598d547d1c8e2; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "kryžiaus karas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kryžius: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"kryžiaus karas\" parinktas kaip owner_note_path. Targetas \"Kryžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-167726
 - susijęs iš [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.).md#claim-t-66880|Saulės mūšis (1236 m. rugsėjo 22 d.)]]: Prieš Saulės mūšį 1236 m. kalavijuočiai su svečiais įsiveržė į Lietuvą ir žiauriai nusiaubė kraštą.
 ## Reikšmingi paminėjimai
 
@@ -91,8 +150,9 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
     Prūsuose. 1254 m. pradžioje buvo skelbiamas ordinui apginti prieš
     totorius kryžiaus karas^143.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -108,8 +168,9 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
     popiežius ragino Prūsų riterių magistrą imtis vadovauti kryžiaus
     karo žygiui prieš totorius^147.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -123,8 +184,9 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
     ordino geradario, kelios bulės. Jomis įsakoma dar intensyviau skelbti
     kryžiaus karus prieš pagonis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -139,8 +201,9 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
     Lietuvai išsaugoti karališką karūną visam laikui. Tokiu atveju būtų
     buvę liautasi prieš lietuvius skelbti kryžiaus karus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -154,8 +217,86 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
     kryžiaus karus prieš pagonis. Vienoje bulėje sakoma, jog netikėliai
     esą nužudę beveik 500 kryžiuočių^155.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
+## Citatos
+
+- id: c-05568
+  citata_originali: |
+    Tiesa, neį­
+    žengiamos lietuvių miškų zonos prie stepių pripratusiems totorių
+    raitelių būriams sudarė kliūčių, tačiau jie nepaliovė veržtis į vakarus.
+    Dar apie 1253 m. totorių invazijos pavojus baimino vokiečių ordiną
+    Prūsuose. 1254 m. pradžioje buvo skelbiamas ordinui apginti prieš
+    totorius kryžiaus karas^143.
+  citata_rodoma: "1254 m. pradžioje buvo skelbiamas ordinui apginti prieš totorius kryžiaus karas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05440
+
+- id: c-05569
+  citata_originali: |
+    Čekijos karalių^145 ir Brandenburgo markgrafą ragino į kryžiaus žygį
+    prieš totorius. Paskutiniajam popiežius rašė, jog totoriai esą nute­
+    rioję didesnę Lietuvos dalį^146.
+    Kaip tik pradžioje tų lemtingų 1260 metų, kada rudenį — po
+    Durbės kautynių — visas Pabaltijys sukils prieš vokiečių ordiną,
+    popiežius ragino Prūsų riterių magistrą imtis vadovauti kryžiaus
+    karo žygiui prieš totorius^147.
+  citata_rodoma: "popiežius ragino Prūsų riterių magistrą imtis vadovauti kryžiaus karo žygiui prieš totorius."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05441
+
+- id: c-05570
+  citata_originali: |
+    Pasveikęs magistras ėmė organizuoti didelę jėgą prieš Žemaičius.
+    Iš to laikotarpio yra užsilikusios popiežiaus Aleksandro IV, didelio
+    ordino geradario, kelios bulės. Jomis įsakoma dar intensyviau skelbti
+    kryžiaus karus prieš pagonis.
+  citata_rodoma: "Jomis įsakoma dar intensyviau skelbti kryžiaus karus prieš pagonis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05442
+
+- id: c-05571
+  citata_originali: |
+    Lietuvos valstybės istorija butų pasukusi visai kitu keliu, jeigu
+    nebūtų buvęs nužudytas karūnuotas valdovas. Eidami Mindaugo
+    pėdomis ir viešai palaikydami krikščionybę, jo įpėdiniai butų galėję
+    Lietuvai išsaugoti karališką karūną visam laikui. Tokiu atveju būtų
+    buvę liautasi prieš lietuvius skelbti kryžiaus karus.
+  citata_rodoma: "būtų buvę liautasi prieš lietuvius skelbti kryžiaus karus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05442
+
+- id: c-167726
+  citata_originali: |
+    Iš to laikotarpio yra užsilikusios popiežiaus Aleksandro IV, didelio
+    ordino geradario, kelios bulės. Jomis įsakoma dar intensyviau skelbti
+    kryžiaus karus prieš pagonis. Vienoje bulėje sakoma, jog netikėliai
+    esą nužudę beveik 500 kryžiuočių^155.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184356

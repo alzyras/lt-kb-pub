@@ -14,6 +14,18 @@ tags:
   - vieta
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Venecija
 
@@ -26,18 +38,49 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
 <a id="claim-t-58747"></a>
 - t-001
   global_id: t-58747
-  teiginys: 'Venecija minima kaip vyriausioji Ordino būstinė, į kurią iškeliavo didysis magistras Zigfridas iš Foichtvangeno.'
+  teiginys: "Venecija minima kaip vyriausioji Ordino būstinė, į kurią iškeliavo didysis magistras Zigfridas iš Foichtvangeno."
+  semantiniai_rysiai: "Zigfridas iš Foichtvangeno keliavo į Venecija (0.98)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "610160-610804; hash=2f784e84aa1ebade4391331fe098ab931a3f4b53575f4cd3b86ff3ab27ec31b0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Venecija: 0.98"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Zigfridas iš Foichtvangeno: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Venecija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Zigfridas iš Foichtvangeno iškeliavo į Veneciją."
   pagrindžia:
-    - c-001
+    - c-167599
+
+<a id="claim-t-58747"></a>
+- t-001
+  global_id: t-58747
+  teiginys: "Venecija minima kaip vyriausioji Ordino būstinė, į kurią iškeliavo didysis magistras Zigfridas iš Foichtvangeno."
+  semantiniai_rysiai: "Zigfridas iš Foichtvangeno keliavo į Venecija (0.98)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "610160-610804; hash=2f784e84aa1ebade4391331fe098ab931a3f4b53575f4cd3b86ff3ab27ec31b0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Venecija: 0.98"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Zigfridas iš Foichtvangeno: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Venecija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Zigfridas iš Foichtvangeno iškeliavo į Veneciją."
+  pagrindžia:
+    - c-167599
 - susijęs iš [[objektai/asmenys/Zigfridas iš Foichtvangeno.md#claim-t-90250|Zigfridas iš Foichtvangeno]]: Po Gotfrido atsistatydinimo Zigfridas iš Foichtvangeno buvo išrinktas didžiuoju magistru ir iškeliavo į Ordino būstinę Venecijoje.
 - susijęs iš [[objektai/asmenys/Paleologas.md#claim-t-60404|Paleologas]]: 1259 m. graikų imperatorius Paleologas atgavo Konstantinopolį, kurį buvo užėmę prancūzai ir Venecijos kariai.
 - susijęs iš [[objektai/asmenys/Zigfridas iš Foichtvangeno.md#claim-t-90250|Zigfridas iš Foichtvangeno]]: Po Gotfrido atsistatydinimo Zigfridas iš Foichtvangeno buvo išrinktas didžiuoju magistru ir iškeliavo į Ordino būstinę Venecijoje.
+- susijęs iš [[objektai/autoriai/Carlo Denina.md#claim-t-191667|Carlo Denina]]: Carlo Denina nurodytas kaip 1784 m. Venecijoje išleisto veikalo „Delle Rivoluzioni d’Italia“ autorius.
 - susijęs iš [[objektai/autoriai/J. Talmantas.md#claim-t-64647|J. Talmantas]]: J. Talmantas „Venecijos pirklį“ išvertė tiesiog iš originalo.
 - susijęs iš [[objektai/daiktai/Martyno Paleckio stiklo gaminiai Vilniuje.md#claim-t-55042|Martyno Paleckio stiklo gaminiai Vilniuje]]: Martynui Paleckiui ir jo palikuonims suteikta teisė supirkti į Vilnių iš Lenkijos vežamą stiklą, išskyrus Venecijos stiklą.
 - susijęs iš [[objektai/grupes/Prancūzai.md#claim-t-183891|Prancūzai]]: 1200 m. prancūzai ir Venecijos kariai užėmė Konstantinopolį, įsiveržę pro sieną, ant kurios buvo nupieštas angelas.
 - susijęs iš [[objektai/ivykiai/Konstantinopolio miesto atgavimas (1259 m.).md#claim-t-62332|Konstantinopolio miesto atgavimas (1259 m.)]]: 1259 m. graikų imperatorius Paleologas atgavo Konstantinopolį, kurį buvo užėmę prancūzai ir Venecijos kariai.
 - susijęs iš [[objektai/ivykiai/Konstantinopolio miesto užėmimas (1200 m.).md#claim-t-62333|Konstantinopolio miesto užėmimas (1200 m.)]]: 1200 m. Konstantinopolį užėmė prancūzai ir Venecijos kariai, o Flandrijos grafas Balduinas tapo imperatoriumi.
 - susijęs iš 1547 m. Žygimanto Augusto privilegija Martynui Paleckiui dėl stiklo liejyklos: Žygimantas Augustas suteikė Martynui Paleckiui ir jo palikuonims išimtinę teisę supirkti į Vilnių iš Lenkijos vežamą stiklą, išskyrus Venecijos stiklą.
+- susijęs iš Carlo Denina, Delle Rivoluzioni d’Italia: Narbuto išnašoje Carlo Deninos „Delle Rivoluzioni d’Italia“ nurodytas kaip 1784 m. Venecijoje išleistas šios temos pagrindo šaltinis.
 - susijęs iš Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas (1575 m.): Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas yra 1575 m. Venecijos pasiuntinio Girolamo Lippomano teksto ištrauka.
 - susijęs iš Venecijos pirklys: Šekspyro „Venecijos pirklį“ J. Talmantas išvertė tiesiog iš originalo; leidimas turėjo iliustracijų ir komentarų.
 - susijęs iš Kaffa: Į Kaffos miestą Kryme vykdavo pirkliai iš Lietuvos ir Rusijos, ten susitikdavę su Genujos ir Venecijos pirkliais.
@@ -72,12 +115,36 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
 
     284 (277).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-167599
+  citata_originali: |
+    Apie brolio Gotfrido, didžiojo magistro, atvykimą,  apie tai, kaip jis atsisa­
+             kė savo pareigų, o buvo išrinktas brolis Zigfridas iš Foichtvangeno
+
+      1302 viešpaties metais brolis Gotfridas, didysis magistras, su 50 brolių per Prūsiją
+    atvyko  į Livoniją, palikęs ten brolius šiai žemei ginti, kitais metais sugrįžo  į Prūsiją
+    ir Elbingo kapituloje atsisakė savo pareigų, nors, sugrįžęs  į Vokietiją, lengvapėdiškai
+    sugalvojo vėl jas eiti. Jam atsisakius šios pareigybės, netrukus ten pat buvo išrinktas
+    didžiuoju magistru brolis Zigfridas  iš Foichtvangeno, kuris  ir iškeliavo  į Veneciją,  į
+    vyriausiąją [Ordino] būstinę.
+
+    284 (277).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184214
+    - t-58747
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Zigfridas iš Foichtvangeno]]

@@ -16,6 +16,18 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'naujieji laikai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Steponas Kairys
 
@@ -28,10 +40,23 @@ Smetona, Steponas Kairys, J. Kairys, Stanislovas Narutavičius, Jonas Vileišis 
 <a id="claim-t-64123"></a>
 - t-001
   global_id: t-64123
-  teiginys: 'Steponas Kairys 1917 m. lapkričio 2–10 d. dalyvavo Berno konferencijoje kaip Lietuvos Tarybos prezidiumo narys.'
+  teiginys: "Steponas Kairys 1917 m. lapkričio 2–10 d. dalyvavo Berno konferencijoje kaip Lietuvos Tarybos prezidiumo narys."
+  semantiniai_rysiai: "Steponas Kairys keliavo į Bernas (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1917 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia Stepono Kairio dalyvavimą Berno konferencijoje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "260732-261703; hash=b911b7b24a1758358d3f414a75e5b93052e7f5bf0e627914d37744c90f8a4cd2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Bernas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Steponas Kairys: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Bernas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Dalyvavimas Berno konferencijoje tiesiogiai sieja Steponą Kairį su vykimu į Berną kaip renginio vietą."
   pagrindžia:
-    - c-001
-
+    - c-64966
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -53,11 +78,38 @@ Smetona, Steponas Kairys, J. Kairys, Stanislovas Narutavičius, Jonas Vileišis 
     be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti
     ir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-64966
+  citata_originali: |
+    Reali valdžia Tarybai nebuvo suteikta, tad ji ėmėsi sunkaus
+    vaidmens – tarpininkės tarp lietuvių tautos ir Oberosto, stengdamasi pa-
+    sinaudoti Vokietijoje prasibrėžiančiais skirtumais tarp kaizerio, Užsienio
+    reikalų ministerijos ir Reichstago centro (katalikų) deputatų ir trukdyti
+    Lietuvos aneksijos planus.
+    Viena iš svarbiausių diskusijos temų – būsimos Lietuvos teritorija.
+    Europos ir JAV lietuvių atstovų Berno konferencijoje 1917 m. lapkričio
+    2–10 d., kurioje dalyvavo ir visas Lietuvos Tarybos prezidiumas (A. Sme-
+    tona, Steponas Kairys, J. Šaulys) bei užsienio lietuvių atstovai, pasisakyta
+    už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose:
+    Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko
+    apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis),
+    be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti
+    ir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais).
+  citata_rodoma: "apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis),"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-64123
 
 ## Ryšiai
 - Steponas Kairys keliavo į [[objektai/vietos/Bernas]]

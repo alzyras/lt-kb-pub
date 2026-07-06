@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Pronskas
 
@@ -19,9 +31,19 @@ Savo laiške jis rašo, kad su vi­ sa kariuomene ir pulku dvariškių pasiekė 
 <a id="claim-t-36514"></a>
 - t-001
   global_id: t-36514
-  teiginys: 'Vytautas toliausiai nužygiavo iki Okos prieupio Znos už Pronsko, visai netoli dabartinės Penzos.'
+  teiginys: "Vytautas toliausiai nužygiavo iki Okos prieupio Znos už Pronsko, visai netoli dabartinės Penzos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "350634-351496; hash=8285a54b9a190058296f81b65fcda2b935871cbeb0d073322a61fb2b9a7e1f0a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pronskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pronskas\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-38610
 - susijęs iš Zna: Vytautas toliausiai nuėjo iki Okos prieupio Zna už Pronsko, netoli dabartinės Penzos.
 - susijęs iš [[objektai/asmenys/Henne.md#claim-t-35088|Henne]]: Henne keliavo kartu su Vytautu ir parašė laišką Vokiečių Ordino magistrui.
 - susijęs iš [[objektai/asmenys/Hennė (Ordino agentas).md#claim-t-35091|Hennė (Ordino agentas)]]: Hennė keliavo kartu su Vytautu ir parašė laišką Vokiečių Ordino magistrui.
@@ -57,11 +79,40 @@ Savo laiške jis rašo, kad su vi­ sa kariuomene ir pulku dvariškių pasiekė 
     tas, mirdamas antrą kartą buvo pareiškęs norą, kad Vytautas globotų jo
     sūnų (įpėdinį) Vosylių II, žmoną ir vaikus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-38610
+  citata_originali: |
+    Šis daly­
+    kas neleido Vytautui eiti prieš Maskvą, kurios jis, be abejo, ne­
+    būtų aplenkęs, tačiau, iš kitos pusės Vytautas, tapdamas savo
+    duktėno globėju, tuo pačiu ir Maskvos kunigaikštijos protekto­
+    rium, iškilo aukščiau kitų rusų kunigaikščių, kas vertė juos dar
+    labiau lenktis Vytauto galybei. Savo laiške jis rašo, kad su vi­
+    sa kariuomene ir pulku dvariškių pasiekė net 100 mylių už Smo­
+    lensko, palikdamas kairėje Maskvą, iki kurios tebuvo trijų die­
+    nų kelio; toliausiai Vytautas nuėjo iki Okos prieupio Zna, už
+    Pronsko (visai netoli dabartinės Penzos). Čia Vytautą sveiki­
+    no ir jam lenkėsi Riazaniaus, Perejaslavlio, Pronsko, Novosiels-
+
+    (^1) ) L. E. K. U., VII, 222 nr.
+    (^2) ) Vosylius I (1389—1425), Dimitro Donskoj sūnus, Vytauto žen­
+    tas, mirdamas antrą kartą buvo pareiškęs norą, kad Vytautas globotų jo
+    sūnų (įpėdinį) Vosylių II, žmoną ir vaikus.
+  citata_rodoma: "Savo laiške jis rašo, kad su vi­\nsa kariuomene ir pulku dvariškių pasiekė net 100 mylių už Smo­\nlensko, palikdamas kairėje Maskvą, iki kurios tebuvo trijų die­\nnų kelio; toliausiai Vytautas nuėjo iki Okos prieupio Zna, už\nPronsko (visai netoli dabartinės Penzos). Čia Vytautą sveiki­\nno ir jam lenkėsi Riazaniaus, Perejaslavlio, Pronsko, Novosiels-\n\n(^1) ) L."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36514
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - paprotys
   - tikėjimas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Pasidavimas tikėjimui ir broliams davus įkaitį
 
@@ -40,10 +52,13 @@ Nenurodyta
 <a id="claim-t-62705"></a>
 - t-001
   global_id: t-62705
-  teiginys: 'Pagudėnai, negalėdami atlaikyti nuolatinių Ordino brolių antpuolių, davė įkaitį ir pasidavė tikėjimui bei broliams.'
+  teiginys: "Pagudėnai, negalėdami atlaikyti nuolatinių Ordino brolių antpuolių, davė įkaitį ir pasidavė tikėjimui bei broliams."
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "259188-259710; hash=b528e5d934ad73a797ec0d1e01ec16e46caa2e70e68490c3e19728f1cdb7bdd3; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
-
+    - c-63461
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -57,8 +72,27 @@ Nenurodyta
     matydami šitokį stebuklą ir negalėdami atlaikyti nuolatinių brolių antpuolių, nulenkė,
     davę įkaiti], tikėjimui ir broliams savo kietus sprandus ir nesutramdomas galvas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-63461
+  citata_originali: |
+    Į tai jis tarė: „Mes tikrai esame matę visą lauką pilną ginkluotų vyrų, apsivilkusių
+    ir apsiginklavusių taip kaip jūsų broliai, štai dėl to ir mūsų kariuomenė leidosi bėgti“.
+    Tą patį viešai sakė ir kiti pagudėnai, buvę tuo metu šioje kariuomenėje, kai jie vėliau
+    priėmė Kristaus tikėjimą. Štai todėl pagudėnai, nors šiaip ir smarkiai kovojo su broliais,
+    matydami šitokį stebuklą ir negalėdami atlaikyti nuolatinių brolių antpuolių, nulenkė,
+    davę įkaiti], tikėjimui ir broliams savo kietus sprandus ir nesutramdomas galvas.
+  citata_rodoma: "Į tai jis tarė: „Mes tikrai esame matę visą lauką pilną ginkluotų vyrų, apsivilkusių\nir apsiginklavusių taip kaip jūsų broliai, štai dėl to ir mūsų kariuomenė leidosi bėgti“.\nTą patį viešai sakė ir kiti pagudėnai, buvę tuo metu šioje kariuomenėje, kai jie vėliau\npriėmė Kristaus tikėjimą. Štai todėl pagudėnai, nors šiaip ir smarkiai kovojo su broliais,\nmatydami šitokį stebuklą ir negalėdami atlaikyti nuolatinių brolių antpuolių, nulenkė,\ndavę įkaiti], tikėjimui ir broliams savo kietus sprandus ir nesutramdomas galvas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-62705

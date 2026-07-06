@@ -18,6 +18,18 @@ amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Petrašu Montgirdaitis
 
@@ -30,10 +42,20 @@ periodo_grupes:
 <a id="claim-t-87561"></a>
 - t-001
   global_id: t-87561
-  teiginys: 'Petrašu Montgirdaitis, Naugarduko vaivada, prisidėjo prie Žygimanto žygio į Švitrigailos dvarą prie Ašmenos.'
+  teiginys: "Petrašu Montgirdaitis, Naugarduko vaivada, prisidėjo prie Žygimanto žygio į Švitrigailos dvarą prie Ašmenos."
+  semantiniai_rysiai: "Žygimantas puolė Švitrigaila (0.86); Petrašu Montgirdaitis buvo sąjungininkas su Žygimantas (0.84); Petrašu Montgirdaitis surengė žygį į Ašmena (0.74)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "436404-437940; hash=3aa0ec0c924649780a0a8a2fc26c76528679c9a750698704c0c43deee41afb17; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Švitrigaila: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žygimantas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Žygimanto pajėgos įsiveržė į Švitrigailos dvarą, todėl puolimo objektas yra Švitrigaila."
   pagrindžia:
-    - c-001
-
+    - c-83540
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -85,11 +107,67 @@ periodo_grupes:
     jo jau nerado, nes šis, ką tik įspėtas Trakų vaivados Manvy-
     do, lydimas kelių totorių vadų, išsigelbėjo pabėgdamas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83540
+  citata_originali: |
+    Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu­
+    rėdamas prie savęs tiktai nedidelę sargybą, o tuo metu Žy­
+    gimantas, susijungęs su Alšėnų kunigaikščiu Simonu, Nau­
+    garduko vaivada Petrašu Montgirdaičiu, Vilniaus vaivada
+    Goštautu ir daugeliu kitų bajorų, galingos kariuomenės
+    13
+    Tą patvirtina Slaptajame Karaliau­
+    čiaus archyve esantis Švitrigailos
+    laiškas, rašytas iš Vilniaus didžiajam
+    magistrui 1432 metų sausio 5 dieną.
+    Jame rašo, kad, gavęs laišką nuo ka­
+    raliaus, pastarasis išlaisvinęs Ram-
+    poldą ir Gastoldą ir jam atidavęs, ti­
+    kisi netrukus galėsiąs tą patį
+    didžiajam magistrui pranešti apie
+    landmaršalką bei kitus belaisvius,
+    kadangi jo pasiuntinys juos matęs
+    laisvus ir pietus su karaliumi val­
+    gančius pirmąją dieną. Žr. Kotze­
+    bue Switrig., p. 6 9 .
+    14
+    Dabartinė Ašmena, Vilniaus guber­
+    nijos apskrities miestas, nutolęs nuo
+    Vilniaus per 7 mylias, anais laikais
+    tebuvo kaimas, kitados išaugęs ša­
+    lia kunigaikščio dvaro, dabar Staros-
+    cino.-O pats miestas buvęs ten, kur
+    dabar stovi pranciškonų vienuoly­
+    nas bei mažas kaimelis, priklausan­
+    tis vienuolynui, čia pat, už dabarti­
+    nio miesto, vadinamas Senąja
+    Ašmena. Švitrigailos dvaras stovėjo
+    kaip tik toje vietoje, kur ir dabarti­
+    nis dvaras.
+    —  • —
+    215
+
+    ## Puslapis 232
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    priekyje skubiai ir slapčiomis nužygiavęs į Ašmeną, apie
+    rugpjūčio 28-ą įžūliai įsiveržė į Švitrigailos dvarą15, bet ten
+    jo jau nerado, nes šis, ką tik įspėtas Trakų vaivados Manvy-
+    do, lydimas kelių totorių vadų, išsigelbėjo pabėgdamas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87561
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/asmenys/Žygimantas]]

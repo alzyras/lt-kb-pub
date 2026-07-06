@@ -18,6 +18,18 @@ amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Ulrichas von Jungingenas
 
@@ -28,25 +40,61 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
 ## Teiginiai
 
 <a id="claim-t-182864"></a>
-- t-001
+- t-024
   global_id: t-182864
-  teiginys: 'Ordino didysis magistras Ulrichas von Jungingenas, vėlai sužinojęs Jogailos ir Vytauto planus, skubėjo pastoti jiems kelią.'
+  teiginys: "Ordino didysis magistras Ulrichas von Jungingenas, vėlai sužinojęs Jogailos ir Vytauto planus, skubėjo pastoti jiems kelią."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "928388-928680; hash=b0c99daba70979536dd62222d3ffe4f8242d88a7b12f42a29a6b136b7085e85e; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  ryšio_patikimumas: "susije_su -> Drevenca: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ulrichas von Jungingenas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Drevenca: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ulrichas von Jungingenas\" parinktas kaip owner_note_path. Targetas \"Drevenca\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-166268
 
 <a id="claim-t-184285"></a>
-- t-002
+- t-025
   global_id: t-184285
-  teiginys: 'Didysis magistras Ulrichas von Jungingenas jojo šešiolikos į kovos lauką slenkančių kryžiuočių vėliavų priešakyje.'
+  teiginys: "Didysis magistras Ulrichas von Jungingenas jojo šešiolikos į kovos lauką slenkančių kryžiuočių vėliavų priešakyje."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "234962-235204; hash=ea72bb9d74c507ee0b0820767556c05b41a1b1bafd49d53ae4e231e30336cdf5; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ulrichas von Jungingenas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=66"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ulrichas von Jungingenas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-167661
 
 <a id="claim-t-184286"></a>
-- t-003
+- t-026
   global_id: t-184286
-  teiginys: 'Ulrichas von Jungingenas nukrito nuo arklio ir mirė.'
+  teiginys: "Ulrichas von Jungingenas nukrito nuo arklio ir mirė."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "237137-237402; hash=ab748210a84fd9004e52e2528c9b2c3b3821bb0e82f684ae0bb7fdec8d702a78; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ietis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ulrichas von Jungingenas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Ietis: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ulrichas von Jungingenas\" parinktas kaip owner_note_path. Targetas \"Ietis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-167662
 - susijęs iš [[objektai/asmenys/Konradas Jungingenas.md#claim-t-87535|Konradas Jungingenas]]: Konradas Jungingenas kartu su Švitrigaila įsibrovė į Lietuvą ir niokojo žemes nuo Gardino apylinkių iki Šalčininkų.
 - susijęs iš [[objektai/asmenys/Konradas fon Jungingenas.md#claim-t-39580|Konradas fon Jungingenas]]: Konradas fon Jungingenas rekomendavo neišrinkti savo brolio Ulricho didžiuoju magistru, nes jo karštakošiškumas galėjo atnešti nelaimę Ordinui.
 - susijęs iš [[objektai/asmenys/Konradas von Jungingen.md#claim-t-30336|Konradas von Jungingen]]: Konradas von Jungingenas 1394 m. vasarą su gausiais svečiais suruošė didelį žygį į Lietuvą.
@@ -82,6 +130,7 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
     magistras Ulricbas von Jungingenas skubėjo priešui pastoti kelią.
     Nuo Torno Drevencos krantu iki Loebau (VII.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -98,6 +147,7 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
     von Jungingenas. Tos vėliavos žygiavo ta pačia kryptimi, kur
     buvo dešinysis sąjungininkų sparnas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -115,11 +165,58 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
     lietuvio pėstininko ietis pervėrė jam kaklą — jis nukrito nuo
     arklio ir mirė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-166268
+  citata_originali: |
+    Įvairių tautų tyrinėtojai skirtingai išryškino jose ir ati­
+    tinkamų tautų (lietuvių, lenkų, Smolensko pulkų) vaidmenį.
+    Gana vėlai tepatyręs Jogailos ir Vytauto planus, ordino didysis
+    magistras Ulricbas von Jungingenas skubėjo priešui pastoti kelią.
+    Nuo Torno Drevencos krantu iki Loebau (VII.
+  citata_rodoma: "Gana vėlai tepatyręs Jogailos ir Vytauto planus, ordino didysis\nmagistras Ulricbas von Jungingenas skubėjo priešui pastoti kelią.\nNuo Torno Drevencos krantu iki Loebau (VII."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182864
+
+- id: c-167661
+  citata_originali: |
+    Šešiolika kryžiuo­
+    čių vėliavų dar visai mūšy nedalyvavusių, ėmė slinkti į kovos
+    lauką. Tų vėliavų priešaky jojo pats didysis magistras Ulrichas
+    von Jungingenas. Tos vėliavos žygiavo ta pačia kryptimi, kur
+    buvo dešinysis sąjungininkų sparnas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184285
+
+- id: c-167662
+  citata_originali: |
+    Lenkai,
+    pamatę sugrįžusius lietuvius, atgavo dvasią ir ėmė smarkiau
+    kautis. Kryžiuočių didysis magistras jau buvo sužeistas, bet
+    dar atkakliai kovojo — ryžosi gyvas nepasiduoti. Pagaliau,
+    lietuvio pėstininko ietis pervėrė jam kaklą — jis nukrito nuo
+    arklio ir mirė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184286
 
 ## Ryšiai
 - Ulrichas von Jungingenas keliavo į [[objektai/vietos/Loebau]], [[objektai/vietos/Torno]]

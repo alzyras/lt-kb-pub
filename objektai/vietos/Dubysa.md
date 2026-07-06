@@ -20,166 +20,441 @@ date_start: '1236'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XIII'
-  - 'XXI'
-description: 'Dubysa minima kaip Nemuno kelio į Žemaitiją tąsa, pilių ir gynybos orientyras bei 1382 m. Jogailos paliaubų su kryžiuočiais vieta.'
-socialDescription: 'Dubysa Lietuvos istorijos šaltiniuose siejama su Žemaitijos keliais, Nemuno pilių juosta, Vytauto veikla ir 1382 m. susitarimais su kryžiuočiais.'
-seo_atnaujinta: '2026-07-02T23:12:35.268550+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 tags:
   - ordinas
   - vieta
+amziai:
+  - 'XIII'
+  - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Dubysa
 
 ## Santrauka
 
-Dubysa šiame kontekste iškyla kaip svarbus Lietuvos istorijos geografijos orientyras. Ji minima žygiuose į Žemaitiją, gynybos planuose, pilių juostoje prie Nemuno ir 1382 m. Jogailos paliaubose su kryžiuočiais Dubysos salelėje.
+Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pilių juostos orientyras ir 1382 m. sutartyje apibrėžta riba.
 
 ## Teiginiai
+
 <a id="claim-t-179804"></a>
-- t-001
+- t-018
   global_id: t-179804
-  teiginys: 'Vytautas liepė atnaujinti pilis Dubysos ir Nemuno krantuose ir atstatyti sudegintą Veliuoną.'
+  teiginys: "Vytautas liepė atnaujinti pilis Dubysos ir Nemuno krantuose ir atstatyti sudegintą Veliuoną."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) pastatė Veliuona (0.79)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "327079-327591; hash=eedc10485a61dfac5ef75da70d938663bf82f895d39e32cbda962c105a35ad45; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Veliuona: 0.79"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Veliuona: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vytautas liepė atstatyti Veliuoną; leidžiamas ryšys pastate artimiausias atstatymui."
   pagrindžia:
-    - c-011
+    - c-163469
 
 <a id="claim-t-179806"></a>
-- t-002
+- t-029
   global_id: t-179806
-  teiginys: 'Dubysos žiočių saloje 1382 m. spalio 31 d. po šešių dienų derybų buvo surašytos trys sutartys.'
+  teiginys: "Dubysos žiočių saloje 1382 m. spalio 31 d. po šešių dienų derybų buvo surašytos trys sutartys."
+  temporaliniai_duomenys: "įvykio data: 1382 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai nusako vietą, datą, derybų trukmę ir rezultatą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "760898-761196; hash=2ac8e70c7ddb45b96f95a58b2e50f613239ac75cd50df743db59e58f6db24b83; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Konradas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dubysa: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Konradas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dubysa\" parinktas kaip owner_note_path. Targetas \"Konradas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-163460
 
 <a id="claim-t-179807"></a>
-- t-003
+- t-016
   global_id: t-179807
-  teiginys: 'Kryžiuočių viršininkas, Ordino kapitulai sutikus, pavedė Vytautui valdyti Naująją Marienburgo pilį prie Nemuno, žemiau Dubysos įtakos.'
+  teiginys: "Kryžiuočių viršininkas, Ordino kapitulai sutikus, pavedė Vytautui valdyti Naująją Marienburgo pilį prie Nemuno, žemiau Dubysos įtakos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "89111-89458; hash=5df374943bfa3429b6ce6286fbe374137ca1c19e02e24c4afb1fbeb125818ece; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Alšėnai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dubysa: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Alšėnai: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dubysa\" parinktas kaip owner_note_path. Targetas \"Alšėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-37358
 
 <a id="claim-t-179808"></a>
-- t-004
+- t-014
   global_id: t-179808
-  teiginys: 'Vytautas Dubysos žiotyse, Seredžiuje, atstatė Peštvę, nuo XIX a. žinomą Palemono kalno vardu.'
+  teiginys: "Vytautas Dubysos žiotyse, Seredžiuje, atstatė Peštvę, nuo XIX a. žinomą Palemono kalno vardu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "942035-942430; hash=c55c145c67cb24dc96e04a84e807b86a9ef4de8cec8832f4224f8f4012ef4ae7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Palemonas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dubysa: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Palemonas: mention_match, person, gap=63"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dubysa\" parinktas kaip owner_note_path. Targetas \"Palemonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-163458
 
 <a id="claim-t-179809"></a>
-- t-005
+- t-017
   global_id: t-179809
-  teiginys: 'Žemaitijos apaštalavimo kelionė vyko Nemunu iki Dubysos upės ir ja iki Aukokalnio ties dabartine Betygala.'
+  teiginys: "Žemaitijos apaštalavimo kelionė vyko Nemunu iki Dubysos upės ir ja iki Aukokalnio ties dabartine Betygala."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Aukokalnis (0.82); Jogaila (kunigaikštis, XIV–XV a.) keliavo į Aukokalnis (0.82); Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Kaunas (0.81); Jogaila (kunigaikštis, XIV–XV a.) keliavo į Kaunas (0.81)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "274626-275029; hash=d0b02269bff649abbd1e7c96d66f223660e274aa723c85a257b251cf58b7037a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Aukokalnis: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Aukokalnis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Jogaila yra tarp keliaujančiųjų, o maršrutas tiesiogiai veda iki Aukokalnio."
   pagrindžia:
-    - c-002
+    - c-163454
 
-<a id="claim-t-179812"></a>
-- t-007
-  global_id: t-179812
-  teiginys: '1382 m. lapkričio pradžioje Jogaila Dubysos upės salelėje sudarė paliaubas su kryžiuočiais.'
+<a id="claim-t-179810"></a>
+- t-028
+  global_id: t-179810
+  teiginys: "Vytautas Dubysos žiotyse, Seredžiuje, atstatė Peštvę, nuo XIX a. žinomą Palemono kalno vardu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "941890-942338; hash=e8c18a33163c838936c7af7c7bd27a03f729af0ed3518eb0cd3cb17484b12e43; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Palemonas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dubysa: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Palemonas: mention_match, person, gap=63"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dubysa\" parinktas kaip owner_note_path. Targetas \"Palemonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-163470
+
+<a id="claim-t-179819"></a>
+- t-020
+  global_id: t-179819
+  teiginys: "1382 m. lapkričio pradžioje Jogaila Dubysos upės salelėje sudarė paliaubas su kryžiuočiais."
+  temporaliniai_duomenys: "įvykio data: 1382 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, pilnas ir paremtas citatos duomenimis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "370905-371371; hash=3cd61202e49d278c5d9725344e851ce62224bd4913a93d8b19b8130fbe229dc2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Upės (Oppen) kaimas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dubysa: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Upės (Oppen) kaimas: mention_match, place, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dubysa\" parinktas kaip owner_note_path. Targetas \"Upės (Oppen) kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-163456
 
 <a id="claim-t-179813"></a>
-- t-008
+- t-027
   global_id: t-179813
-  teiginys: 'Į Dubysos salą vyko magistras Konradas Zöllneris von Rotensteinas, komtūrai ir du vyskupai, turėję krikštyti lietuvių kunigaikščius.'
+  teiginys: "Į Dubysos salą vyko magistras Konradas Zöllneris von Rotensteinas, komtūrai ir du vyskupai, turėję krikštyti lietuvių kunigaikščius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "762720-763030; hash=c6b43260e019ed846ed232dc3dc560041b5e1edb9093619a2d99fcf21763814d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dubysa: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=107"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dubysa\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-163464
 
 <a id="claim-t-179814"></a>
-- t-009
+- t-031
   global_id: t-179814
-  teiginys: 'Priešui įsiveržus į Dubysos aukštupį, buvo aktyvuotas antrasis gynybos variantas.'
+  teiginys: "Priešui įsiveržus į Dubysos aukštupį, buvo aktyvuotas antrasis gynybos variantas."
+  temporaliniai_duomenys: "įvykio data: 1236 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie Dubysos aukštupį ir pasirinktą gynybos variantą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "67435-67942; hash=39c353bb999aa97c98762596ebd48f3cd0a003f3f185cef647350f2fd8581177; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Mindaugas (valdovas, XIII a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dubysa: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Mindaugas (valdovas, XIII a.): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dubysa\" parinktas kaip owner_note_path. Targetas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-163459
 
 <a id="claim-t-179815"></a>
-- t-010
+- t-005
   global_id: t-179815
-  teiginys: 'Žygio į Žemaitiją metu kelias Nemunu vedė iki Dubysos upės ir toliau iki Aukokalnio.'
+  teiginys: "Žygio į Žemaitiją metu kelias Nemunu vedė iki Dubysos upės ir toliau iki Aukokalnio."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Kaunas (0.83); Jogaila (kunigaikštis, XIV–XV a.) keliavo į Kaunas (0.83); Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Aukokalnis (0.82); Jogaila (kunigaikštis, XIV–XV a.) keliavo į Aukokalnis (0.82)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "274541-274963; hash=6c3d9f311db401f0fcf07cc28efbfc8bb9554258fc1de1723dee69434e7797a3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Kaunas: 0.83"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo, kad Vytautas kartu su Jogaila keliavo į Kauną."
   pagrindžia:
-    - c-014
+    - c-163474
 
 <a id="claim-t-179816"></a>
-- t-011
+- t-026
   global_id: t-179816
-  teiginys: 'Dubysos žemupyje suverstų medžių užtvara veikiausiai buvo padaryta po Peštvės ir Veliuonos pilių sunaikinimo 1363 m.'
+  teiginys: "Dubysos žemupyje suverstų medžių užtvara veikiausiai buvo padaryta po Peštvės ir Veliuonos pilių sunaikinimo 1363 m."
+  temporaliniai_duomenys: "įvykio data: 1363 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, enciklopedinis ir atitinka citatos turinį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "706837-707337; hash=ce88f7c9e6adc597b71ce5987dea0d5b94823f5acac10ef92bbe137661a517c4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Peštvė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dubysa: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Peštvė: mention_match, place, gap=70"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dubysa\" parinktas kaip owner_note_path. Targetas \"Peštvė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-163457
 
 <a id="claim-t-179817"></a>
-- t-012
+- t-010
   global_id: t-179817
-  teiginys: 'Po Peštvės ir Veliuonos pilių sunaikinimo 1363 m. Dubysos žemupyje, atrodo, buvo padaryta suverstų medžių užtvara.'
+  teiginys: "Po Peštvės ir Veliuonos pilių sunaikinimo 1363 m. Dubysos žemupyje, atrodo, buvo padaryta suverstų medžių užtvara."
+  temporaliniai_duomenys: "įvykio data: 1363 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako Dubysos žemupio užtvarą ir jos datavimo aplinkybę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "706837-707337; hash=ce88f7c9e6adc597b71ce5987dea0d5b94823f5acac10ef92bbe137661a517c4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Mituva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dubysa: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Mituva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dubysa\" parinktas kaip owner_note_path. Targetas \"Mituva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-163457
 
 <a id="claim-t-179818"></a>
-- t-013
+- t-012
   global_id: t-179818
-  teiginys: 'Jogaila turėjo Prūsų kryžiuočiams užleisti Žemaičių plotą tarp Livonijos ir Prūsų iki Dubysos upės.'
+  teiginys: "Jogaila turėjo Prūsų kryžiuočiams užleisti Žemaičių plotą tarp Livonijos ir Prūsų iki Dubysos upės."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "761513-762020; hash=c208dcd4579d2059e2142e0d9e99954a307e0a73844e0c9386747f453c077b79; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dubysa: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dubysa\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-010
+    - c-163467
+
+<a id="claim-t-179819"></a>
+- t-020
+  global_id: t-179819
+  teiginys: "1382 m. lapkričio pradžioje Jogaila Dubysos upės salelėje sudarė paliaubas su kryžiuočiais."
+  temporaliniai_duomenys: "įvykio data: 1382 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, pilnas ir paremtas citatos duomenimis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "370905-371371; hash=3cd61202e49d278c5d9725344e851ce62224bd4913a93d8b19b8130fbe229dc2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Upės (Oppen) kaimas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dubysa: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Upės (Oppen) kaimas: mention_match, place, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dubysa\" parinktas kaip owner_note_path. Targetas \"Upės (Oppen) kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-163456
 
 <a id="claim-t-179820"></a>
-- t-015
+- t-013
   global_id: t-179820
-  teiginys: 'Konradas Zöllneris von Rotensteinas su komtūrais ir dviem vyskupais išsirengė į Dubysos salą krikštyti lietuvių kunigaikščių.'
+  teiginys: "Konradas Zöllneris von Rotensteinas su komtūrais ir dviem vyskupais išsirengė į Dubysos salą krikštyti lietuvių kunigaikščių."
+  semantiniai_rysiai: "Kryžiuočių ordinas keliavo į Dubysa (0.68)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "762720-763030; hash=c6b43260e019ed846ed232dc3dc560041b5e1edb9093619a2d99fcf21763814d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Dubysa: 0.68"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Dubysa: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kryžiuočiai minimi kaip kartu buvę šioje išvykoje į Dubysos salą."
   pagrindžia:
-    - c-009
+    - c-163464
 
 <a id="claim-t-179821"></a>
-- t-016
+- t-022
   global_id: t-179821
-  teiginys: 'Naujoji Marienburgo pilis stovėjo prie Nemuno, žemiau Dubysos įtakos.'
+  teiginys: "Naujoji Marienburgo pilis stovėjo prie Nemuno, žemiau Dubysos įtakos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "89051-89355; hash=0c00edb2c5dd27ff19f3450b136e4673286308e2ccebeb961d138db16fb12b89; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dubysa: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dubysa\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-013
+    - c-163472
 
 <a id="claim-t-179822"></a>
-- t-017
+- t-008
   global_id: t-179822
-  teiginys: 'Lietuva Žemaičiuose apėmė Šušvės ir Dubysos baseinus, Ventos ir Minijos aukštupius.'
+  teiginys: "Lietuva Žemaičiuose apėmė Šušvės ir Dubysos baseinus, Ventos ir Minijos aukštupius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "357815-358144; hash=4caca716d31847c7b0b704169043d0f97b19d906453811eb47333f68bb4affef; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Minija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dubysa: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Minija: mention_match, place, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dubysa\" parinktas kaip owner_note_path. Targetas \"Minija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-163463
 
 <a id="claim-t-179823"></a>
-- t-018
+- t-011
   global_id: t-179823
-  teiginys: '1382 m. spalio 31 d. Dubysos žiočių saloje po šešių dienų derybų buvo surašytos trys sutartys.'
+  teiginys: "1382 m. spalio 31 d. Dubysos žiočių saloje po šešių dienų derybų buvo surašytos trys sutartys."
+  temporaliniai_duomenys: "įvykio data: 1382 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatiškas ir paremtas citatos duomenimis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "760898-761196; hash=2ac8e70c7ddb45b96f95a58b2e50f613239ac75cd50df743db59e58f6db24b83; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Konradas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dubysa: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Konradas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dubysa\" parinktas kaip owner_note_path. Targetas \"Konradas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-163460
 
 <a id="claim-t-179824"></a>
-- t-019
+- t-023
   global_id: t-179824
-  teiginys: '1413 m. Vytautas ir Jogaila Nemunu keliavo iki Dubysos upės, o ja pasiekė Aukokalnį ties dabartine Betygala.'
+  teiginys: "1413 m. Vytautas ir Jogaila Nemunu keliavo iki Dubysos upės, o ja pasiekė Aukokalnį ties dabartine Betygala."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Aukokalnis (0.83)"
+  temporaliniai_duomenys: "kelionės data: 1413 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Aukokalnis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus, gramatiškas ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "274626-275029; hash=d0b02269bff649abbd1e7c96d66f223660e274aa723c85a257b251cf58b7037a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Aukokalnis: 0.83"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Aukokalnis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claim_text tiesiogiai nurodo, kad Vytautas Nemunu ir Dubysa pasiekė Aukokalnį."
   pagrindžia:
-    - c-002
+    - c-163454
 
 <a id="claim-t-179826"></a>
-- t-020
+- t-006
   global_id: t-179826
-  teiginys: 'Vytautas liepė atnaujinti Dubysos ir Nemuno krantuose pilis.'
+  teiginys: "Vytautas liepė atnaujinti Dubysos ir Nemuno krantuose pilis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "327079-327591; hash=eedc10485a61dfac5ef75da70d938663bf82f895d39e32cbda962c105a35ad45; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Nemunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dubysa: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Nemunas: mention_match, place, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dubysa\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-011
+    - c-163469
 
 <a id="claim-t-184949"></a>
-- t-021
+- t-032
   global_id: t-184949
-  teiginys: 'Prie Dubysos žiočių atvykėliai padėjo naujos sodybos, vėliau vadintos Romanova, pamatus.'
+  teiginys: "Prie Dubysos žiočių atvykėliai padėjo naujos sodybos, vėliau vadintos Romanova, pamatus."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "94151-94888; hash=f5df48af8b2b38885582d246abbd15752216898b42823d6692d05e1d60c70765; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dubysa: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dubysa\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-015
+    - c-168310
 
 <a id="claim-t-188687"></a>
 - t-022
   global_id: t-188687
-  teiginys: 'Narbutas nurodė, kad žemiau Dubysos žiočių prie Seredžiaus esantis apvalus kalnas vadintas Palemono kalnu.'
+  teiginys: "Narbutas nurodė, kad žemiau Dubysos žiočių prie Seredžiaus esantis apvalus kalnas vadintas Palemono kalnu."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "370905-371371; hash=3cd61202e49d278c5d9725344e851ce62224bd4913a93d8b19b8130fbe229dc2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Palemonas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dubysa: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Palemonas: mention_match, person, gap=63"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dubysa\" parinktas kaip owner_note_path. Targetas \"Palemonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-016
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171576
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179074|Kryžiuočių ordinas]]: Kryžiuočių ordinas niokojamaisiais žygiais siekė palaužti pagonių kraštą, užvaldyti jį ir ypač spaudė Žemaičius.
 - susijęs iš Kaunas: 1413 metų rudenį Vytautas ir Jogaila Nemunu keliavo iš Merkinės į Kauną, o iš Kauno plaukė iki Dubysos.
 - susijęs iš Nemunas: 1413 m. rudenį Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną, o vėliau Nemunu pasiekė Dubysos upę.
@@ -206,6 +481,7 @@ Dubysa šiame kontekste iškyla kaip svarbus Lietuvos istorijos geografijos orie
 - susijęs iš Kulių (Jurgaičių) pilys: 1348 m. kovo mėn. Livonijos ordinas puolė Šiaurės Žemaitiją ir sunaikino Kulių (Jurgaičių), Dubysos (Bubių) bei kitas pilis.
 - susijęs iš Nemunas: 1413 m. rudenį Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną, o vėliau Nemunu pasiekė Dubysos upę.
 - susijęs iš Nemunas: Keliautojai Nemunu vyko iš Merkinės į Kauną, o iš ten Nemunu ir Dubysa pasiekė Aukokalnį ties dabartine Betygala.
+- susijęs iš Nemunas: Narbuto pasakojime vilkų tauta nuo Neries žiočių dešiniuoju Nemuno krantu pasiekė Dubysą.
 - susijęs iš Palemono kalnas: Palemono kalnu Narbutas vadina apvalų kalną prie Seredžiaus, žemiau Dubysos žiočių, su pylimu arba senos piliavietės liekana.
 - susijęs iš Peštvė: Kryžiuočiai sudegino Peštvės priešpilį Seredžiuje prie Dubysos žiočių, o pati Peštvė du kartus pamečiui buvo apgulta.
 - susijęs iš Seredžius: Narbutas rašo, kad prie Seredžiaus, žemiau Dubysos žiočių, apvalus kalnas su senos piliavietės liekana vadintas Palemono kalnu.
@@ -239,6 +515,8 @@ Dubysa šiame kontekste iškyla kaip svarbus Lietuvos istorijos geografijos orie
 - susijęs iš [[objektai/autoriai/Vygandas Marburgietis.md#claim-t-172977|Vygandas Marburgietis]]: Vygandas Marburgietis aprašė Kęstučio laidotuves Vilniuje ir teigė, kad deginant palaikus atsivėrusi kiaurymė įtraukė pelenus.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179074|Kryžiuočių ordinas]]: Kryžiuočių ordinas niokojamaisiais žygiais siekė palaužti pagonių kraštą, užvaldyti jį ir ypač spaudė Žemaičius.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184489|Kryžiuočių ordinas]]: Gedimino laikais kryžiuočiai iš pamatų sugriovė Romove vadintą sodybą, vėliau tapusią Krivės Krivaičio būstine.
+- susijęs iš [[objektai/grupes/Latviai.md#claim-t-192419|Latviai]]: Teodoras Narbutas spėjo, kad Latvijos pradžią galėjo lemti jos atskyrimas nuo viengenčių lietuvių ir prūsų.
+- susijęs iš [[objektai/grupes/Vilkai-liutikai.md#claim-t-192965|Vilkai-liutikai]]: Narbutas vilkų, arba Wilkow, tautą laiko priešistorine grupe, kurios vardas, jo teigimu, buvo įvairiai iškraipomas.
 - susijęs iš [[objektai/ivykiai/Gaižuvos ir Pačtuvos sričių nusiaubimas (1292 ir 1294 m.).md#claim-t-31410|Gaižuvos ir Pačtuvos sričių nusiaubimas (1292 ir 1294 m.)]]: 1292 ir 1294 m. ordino kariuomenė nusiaubė Gaižuvos ir prie Vilkijos buvusias Pačtuvos sritis.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių žygis į Žemaitiją ir atmušimas prie Pieštvės (1322 m.).md#claim-t-62843|Kryžiuočių žygis į Žemaitiją ir atmušimas prie Pieštvės (1322 m.)]]: 1322 m. Ordinas su talkininkais iš Vokietijos, Čekijos ir kitur niokojo Žemaitiją, bet buvo atremtas prie Pieštvės pilies.
 - susijęs iš [[objektai/ivykiai/Kymel pilies sunaikinimas (1295 m.).md#claim-t-31436|Kymel pilies sunaikinimas (1295 m.)]]: 1295 m. kryžiuočiai prie Nemuno sunaikino stiprią Kymel pilį.
@@ -286,6 +564,7 @@ Dubysa šiame kontekste iškyla kaip svarbus Lietuvos istorijos geografijos orie
 - susijęs iš [[objektai/zodynas/vietovardžių priešdėlis `pa.md#claim-t-86625|vietovardžių priešdėlis `pa]]: Lietuvoje prie upių esančių gyvenviečių vardai dažnai sudaromi prie upės pavadinimo pridedant priešdėlį pa-.
 - susijęs iš Betygala: 1413 m. rudenį Vytautas ir Jogaila keliavo Dubysa iki Aukokalnio, buvusio ties dabartine Betygala.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Kryžiuočių viršininkas, Ordino kapitulai sutikus, pavedė Vytautui valdyti Naująją Marienburgo pilį prie Nemuno, žemiau Dubysos įtakos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -297,11 +576,13 @@ Dubysa šiame kontekste iškyla kaip svarbus Lietuvos istorijos geografijos orie
     Čia atvyko ir Vytauto jauniausias brolis Zigmantas, čia persi­
     kraustė ir Alšėnų kunigaikštis ir kiti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: '1413 m. Vytautas ir Jogaila Nemunu keliavo iki Dubysos upės, o ja pasiekė Aukokalnį ties dabartine Betygala.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -314,12 +595,14 @@ Dubysa šiame kontekste iškyla kaip svarbus Lietuvos istorijos geografijos orie
     ja iki Aukokalnio, buvusio ties dabartine Betygala. Nuo šios
     vietos ir buvo pradėtas apaštalavimo darbas Žemaitijoje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
     - t-005
+
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -343,12 +626,14 @@ Dubysa šiame kontekste iškyla kaip svarbus Lietuvos istorijos geografijos orie
     šiol aiškus ir rašantiesiems Lietuvos
     istoriją dera jo imtis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
     - t-007
+
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -364,12 +649,14 @@ Dubysa šiame kontekste iškyla kaip svarbus Lietuvos istorijos geografijos orie
     kurioje nebeliko pastovių sodybų ir kaimų. Tokių suverstų medžių
     užtvarų buvo ir giliau Žemaičių krašte.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
     - t-011
+
 - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -381,11 +668,13 @@ Dubysa šiame kontekste iškyla kaip svarbus Lietuvos istorijos geografijos orie
     Ordinas buvo gąsdinamas girdais, kad kunigaikštis « tas pilis pasta­
     tęs prieš vokiečius ».
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-006
   santrauka: 'Priešui įsiveržus į Dubysos aukštupį, buvo aktyvuotas antrasis gynybos variantas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -422,11 +711,13 @@ Dubysa šiame kontekste iškyla kaip svarbus Lietuvos istorijos geografijos orie
     veržė į Dubysos aukštupį, tad buvo akty-
     vuotas antrasis gynybos variantas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-007
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -436,12 +727,14 @@ Dubysa šiame kontekste iškyla kaip svarbus Lietuvos istorijos geografijos orie
     mas von Vrimersheim, Dubysos žiočių saloje 1382.X.31 d., po šešių
     dienų derybų buvo surašytos trys sutartys^19.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
     - t-002
+
 - c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -452,11 +745,13 @@ Dubysa šiame kontekste iškyla kaip svarbus Lietuvos istorijos geografijos orie
     Lietuva Žemaičiuose apėmė plotą į vakarus nuo Nevėžio, t. y.
     Šušvės ir Dubysos baseinus, Ventos ir Minijos aukštupius.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-009
   santrauka: 'Į Dubysos salą vyko magistras Konradas Zöllneris von Rotensteinas, komtūrai ir du vyskupai, turėję krikštyti lietuvių kunigaikščius.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -468,12 +763,14 @@ Dubysa šiame kontekste iškyla kaip svarbus Lietuvos istorijos geografijos orie
     tūrų ir du vyskupai, kurie turėjo lietuvių kunigaikščius krikštyti.
     Su kryžiuočiais drauge buvo ir Vytautas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
     - t-015
+
 - c-010
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -487,11 +784,13 @@ Dubysa šiame kontekste iškyla kaip svarbus Lietuvos istorijos geografijos orie
     užleisti jam visą Žemaičių plotą tarp abiejų ordino valdų — t. y.
     Livonijos ir Prūsų—-ligi Dubysos upės.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-011
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -505,12 +804,14 @@ Dubysa šiame kontekste iškyla kaip svarbus Lietuvos istorijos geografijos orie
     tuviškų žemių plotus, kuriose vis didėjo Vytauto valdžia ir
     autoritetas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
     - t-001
+
 - c-012
   santrauka: 'Vytautas Dubysos žiotyse, Seredžiuje, atstatė Peštvę, nuo XIX a. žinomą Palemono kalno vardu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -523,11 +824,13 @@ Dubysa šiame kontekste iškyla kaip svarbus Lietuvos istorijos geografijos orie
     pasistatė tvirtą Veliuonos pilį, o Dubysos žiotyse (Seredžiuje)
     atstatė Peštvę, nuo XIX amž. žinomą « Palemono kalno » vardu^2.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-013
   santrauka: 'Naujoji Marienburgo pilis stovėjo prie Nemuno, žemiau Dubysos įtakos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -539,11 +842,13 @@ Dubysa šiame kontekste iškyla kaip svarbus Lietuvos istorijos geografijos orie
     muno, žemiau Dubysos įtakos, Naują Marienburgo pilį. Nauja­
     sis Marienburgas pasidarė Vytauto giminių bei šalininkų centras.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-014
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -555,11 +860,13 @@ Dubysa šiame kontekste iškyla kaip svarbus Lietuvos istorijos geografijos orie
     gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir
     ja iki Aukokalnio, buvusio ties dabartine Betygala.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-015
   santrauka: 'Prie Dubysos žiočių atvykėliai padėjo naujos sodybos, vėliau vadintos Romanova, pamatus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -579,11 +886,13 @@ Dubysa šiame kontekste iškyla kaip svarbus Lietuvos istorijos geografijos orie
     pataujaut, iš pamatų išgriovė vokiečių ordino vienuo­
     liai riteriai, paprastai vadinami kryžiuočiais.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-021
+
 - c-016
   santrauka: 'Narbutas nurodė, kad žemiau Dubysos žiočių prie Seredžiaus esantis apvalus kalnas vadintas Palemono kalnu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -600,11 +909,337 @@ Dubysa šiame kontekste iškyla kaip svarbus Lietuvos istorijos geografijos orie
     lemonu Kalnas).
     Kaimiečiai net žino pasakojimų, vaizduojančių tą žmogų
     sudievintu didvyriu, ¿imas Didziawiris (žymus didžiavyris).
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
+
+## Citatos
+
+- id: c-37358
+  citata_originali: |
+    Kryžiuočių viršininkas dabar jau labiau Vytautui pasitikė­
+    damas, Ordino kapitulai sutikus, pavedė jam valdyti prie Ne­
+    muno, žemiau Dubysos įtakos, Naują Marienburgo pilį. Nauja­
+    sis Marienburgas pasidarė Vytauto giminių bei šalininkų centras.
+    Čia atvyko ir Vytauto jauniausias brolis Zigmantas, čia persi­
+    kraustė ir Alšėnų kunigaikštis ir kiti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179807
+
+- id: c-163454
+  citata_originali: |
+    Tačiau Vytautas dar dvejus metus už­
+    truko su kitais reikalais (Horodlės unija ir Makro lankymasis)
+    ir tiktai 1413 metų rudenį kartu su Jogaila atvyko į Žemaitiją.
+    Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­
+    gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir
+    ja iki Aukokalnio, buvusio ties dabartine Betygala. Nuo šios
+    vietos ir buvo pradėtas apaštalavimo darbas Žemaitijoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179824
+    - t-179809
+
+- id: c-163456
+  citata_originali: |
+    Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas
+    iš Vilniaus į Krėvą po Kęstučio mirties irgi buvo įkalintas,
+    tačiau jo stebėtina narsa ir žmonos Onos meilė, nesenu pa­
+    vyzdžiu Europos istorijoje pasikartojusi, išgelbėjo jį nuo
+    neišvengiamos pražūties.
+    Tas Vytauto pabėgimas turėjo priversti Jogailą nerimau­
+    ti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­
+    grobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­
+    jo, 1382 metų lapkričio pradžioje Dubysos upės salelėje
+    sudarė su jais paliaubas. Tačiau ir tai negalėjo pasotinti go­
+    duolio Ordino, kuris, priėmęs savo globon Vytautą ir Taut­
+    36
+    Klausimas, ar Kęstutis pats pasirin­
+    kęs mirtį, - juk Skirgaila, važiavęs
+    jo aplankyti, netikėtai rado negyvą,
+    ar nužudytas, o jo žmona kunigaikš­
+    tienė Birutė paskandinta, - nėra iki
+    šiol aiškus ir rašantiesiems Lietuvos
+    istoriją dera jo imtis.
+  citata_rodoma: "Tas Vytauto pabėgimas turėjo priversti Jogailą nerimau­\nti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­\ngrobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­\njo, 1382 metų lapkričio pradžioje Dubysos upės salelėje\nsudarė su jais paliaubas. Tačiau ir tai negalėjo pasotinti go­\nduolio Ordino, kuris, priėmęs savo globon Vytautą ir Taut­\n36\nKlausimas, ar Kęstutis pats pasirin­\nkęs mirtį, - juk Skirgaila, važiavęs\njo aplankyti, netikėtai rado negyvą,\nar nužudytas, o jo žmona kunigaikš­\ntienė Birutė paskandinta, - nėra iki\nšiol aiškus ir rašantiesiems Lietuvos\nistoriją dera jo imtis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179819
+    - t-179812
+
+- id: c-163457
+  citata_originali: |
+    (^27) **SRP, II, 511, 513 p.**
+
+
+    (^256) n skyrius: valstybės iškilimas
+    Atrodo, kad Dubysos žemupyje toji suverstų medžių užtvara, ski­
+    rianti dykrą nuo toliau prasidedančių gyvenviečių, buvo padaryta
+    po Peštvės ir Veliuonos pilių sunaikinimo (1363). Tada jau visas
+    pietvakarių Žemaičių plotas, ištisai prijungiant ir Mituvos baseiną,
+    buvo virtęs tik bitininkų, medžiotojų ir žvejų lankoma dykra,
+    kurioje nebeliko pastovių sodybų ir kaimų. Tokių suverstų medžių
+    užtvarų buvo ir giliau Žemaičių krašte.
+  citata_rodoma: "**\n\n\n(^256) n skyrius: valstybės iškilimas\nAtrodo, kad Dubysos žemupyje toji suverstų medžių užtvara, ski­\nrianti dykrą nuo toliau prasidedančių gyvenviečių, buvo padaryta\npo Peštvės ir Veliuonos pilių sunaikinimo (1363). Tada jau visas\npietvakarių Žemaičių plotas, ištisai prijungiant ir Mituvos baseiną,\nbuvo virtęs tik bitininkų, medžiotojų ir žvejų lankoma dykra,\nkurioje nebeliko pastovių sodybų ir kaimų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179817
+    - t-179816
+
+- id: c-163458
+  citata_originali: |
+    Vytautas teigė, jog pati Klaipėda priklausanti
+    Žemaičių plotui^1. Tuo pat metu, kai kryžiuočiai įrodinėjo, kad
+    dešinysis Nemuno krantas nuo seno tik jiems priklausęs, Vytautas
+    pasistatė tvirtą Veliuonos pilį, o Dubysos žiotyse (Seredžiuje)
+    atstatė Peštvę, nuo XIX amž. žinomą « Palemono kalno » vardu^2.
+    Ordinas buvo gąsdinamas girdais, kad kunigaikštis « tas pilis pasta­
+    tęs prieš vokiečius ».
+  citata_rodoma: "Tuo pat metu, kai kryžiuočiai įrodinėjo, kad\ndešinysis Nemuno krantas nuo seno tik jiems priklausęs, Vytautas\npasistatė tvirtą Veliuonos pilį, o Dubysos žiotyse (Seredžiuje)\natstatė Peštvę, nuo XIX amž. žinomą « Palemono kalno » vardu^2.\nOrdinas buvo gąsdinamas girdais, kad kunigaikštis « tas pilis pasta­\ntęs prieš vokiečius »."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179808
+
+- id: c-163459
+  citata_originali: |
+    1236 m. rugsėjo 22 d. SAULĖS (ŠIAULIŲ) MUSIS 21
+
+    va
+    AS
+    al
+    o
+    a4
+    mn
+    z
+    o
+    o
+    ©
+    a
+    o
+    =
+    =
+
+    iki Vytauto imperijos
+
+    ## Puslapis 24
+
+    (Upytės) ir Dubysos (Šiaulių) aukštu-
+    pių regionus. Pirmuoju atveju - gynyba
+    iš esmės tektų Mindaugo vadovaujamai
+    kariuomenei, o juos paremtų žemaičių
+    raiteliai; antruoju atveju - pagrindinė
+    gynybos našta tektų žemaičiams, vado-
+    vaujamiems Vykinto, juos vėliau paremtų
+    Mindaugo raiteliai. Kadangi priešas įsi-
+    veržė į Dubysos aukštupį, tad buvo akty-
+    vuotas antrasis gynybos variantas.
+  citata_rodoma: "SAULĖS (ŠIAULIŲ) MUSIS 21\n\nva\nAS\nal\no\na4\nmn\nz\no\no\n©\na\no\n=\n=\n\niki Vytauto imperijos\n\n## Puslapis 24\n\n(Upytės) ir Dubysos (Šiaulių) aukštu-\npių regionus. Pirmuoju atveju - gynyba\niš esmės tektų Mindaugo vadovaujamai\nkariuomenei, o juos paremtų žemaičių\nraiteliai; antruoju atveju - pagrindinė\ngynybos našta tektų žemaičiams, vado-\nvaujamiems Vykinto, juos vėliau paremtų\nMindaugo raiteliai. Kadangi priešas įsi-\nveržė į Dubysos aukštupį, tad buvo akty-\nvuotas antrasis gynybos variantas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179814
+
+- id: c-163460
+  citata_originali: |
+    Iš Jogailos buvo gana daug užsiprašyta. Suvažiavus gausiam
+    kryžiuočių aukštų pareigūnų būriui, kuriam vadovavo Prūsų ordino
+    maršalas Konradas von Wallenrod ir Livonijos magistras Vilhel­
+    mas von Vrimersheim, Dubysos žiočių saloje 1382.X.31 d., po šešių
+    dienų derybų buvo surašytos trys sutartys^19.
+  citata_rodoma: "Suvažiavus gausiam\nkryžiuočių aukštų pareigūnų būriui, kuriam vadovavo Prūsų ordino\nmaršalas Konradas von Wallenrod ir Livonijos magistras Vilhel­\nmas von Vrimersheim, Dubysos žiočių saloje 1382.X.31 d., po šešių\ndienų derybų buvo surašytos trys sutartys^19."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179823
+    - t-179806
+
+- id: c-163463
+  citata_originali: |
+    Beveik trečdalį savo
+    kronikos paskyręs Livonijos ordino santykiams su Lietuva, Eiliuo­
+    tinės Livonijos kronikos autorius Žemaičius tapatino su lietuviais
+    (« den Lettowen, die Sameiten sin genannt », eil. 4466).
+    Lietuva Žemaičiuose apėmė plotą į vakarus nuo Nevėžio, t. y.
+    Šušvės ir Dubysos baseinus, Ventos ir Minijos aukštupius.
+  citata_rodoma: "Lietuva Žemaičiuose apėmė plotą į vakarus nuo Nevėžio, t. y.\nŠušvės ir Dubysos baseinus, Ventos ir Minijos aukštupius."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179822
+
+- id: c-163464
+  citata_originali: |
+    19) prie
+    pernykščiai surašytų dokumentų turėjo būti pridėti antspaudai.
+    Ankstybesniu susitarimu Dubysos salon išsirengė vyriausias magis­
+    tras Konradas Zöllner von Rotenstein, o su juo drauge daug kom­
+    tūrų ir du vyskupai, kurie turėjo lietuvių kunigaikščius krikštyti.
+    Su kryžiuočiais drauge buvo ir Vytautas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179813
+    - t-179820
+
+- id: c-163467
+  citata_originali: |
+    Bet šio suverenumas buvo siauri­
+    namas, kai jis įsipareigojo ordinui padėti prieš jo priešus ir be jo
+    žinios, patarimo ir valios nepradėti karo.
+    Skaudžiausia Lietuvai tačiau buvo trečioji sutartis. Kaip kita­
+    dos Mindaugas už Livonijos ordino paslaugas turėjo išdavinėti
+    donacinius dokumentus, taip Jogaila Prūsų kryžiuočiams už ordino
+    « draugiškumą, patarimus, pagalbą, darbą ir įvairų triūsą » turėjo
+    užleisti jam visą Žemaičių plotą tarp abiejų ordino valdų — t. y.
+    Livonijos ir Prūsų—-ligi Dubysos upės.
+  citata_rodoma: "Kaip kita­\ndos Mindaugas už Livonijos ordino paslaugas turėjo išdavinėti\ndonacinius dokumentus, taip Jogaila Prūsų kryžiuočiams už ordino\n« draugiškumą, patarimus, pagalbą, darbą ir įvairų triūsą » turėjo\nužleisti jam visą Žemaičių plotą tarp abiejų ordino valdų — t. y.\nLivonijos ir Prūsų—-ligi Dubysos upės."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179818
+
+- id: c-163469
+  citata_originali: |
+    taip pat atsikvėpė po ilgų kovų dėl laisvės, nes po Žalgirio
+    karo buvo prijungti prie Lietuvos. Vytautas, norėdamas geriau
+    juose įsigalėti ir atstatyti Ordino nualintą kraštą, liepė atnaujin­
+    ti Dubysos ir Nemuno krantuose pilis ir atstatyti sudegintą Ve­
+    liuoną, kuri vėliau buvo mėgiamiausia Vytauto ir Ordino pa­
+    sitarimų vieta po Kauno arba Trakų. Taigi Lietuvos ribos bu­
+    vo praplėstos toliau į vakarus, apimdamos didesnius tikrų lie­
+    tuviškų žemių plotus, kuriose vis didėjo Vytauto valdžia ir
+    autoritetas.
+  citata_rodoma: "Vytautas, norėdamas geriau\njuose įsigalėti ir atstatyti Ordino nualintą kraštą, liepė atnaujin­\nti Dubysos ir Nemuno krantuose pilis ir atstatyti sudegintą Ve"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179826
+    - t-179804
+
+- id: c-163470
+  citata_originali: |
+    Tuoj po Torno taikos Vytautas ėmė reikalauti, kad į Žemaitijos
+    ribas butų pripažintos dešiniojo Nemuno kranto girios su ordino
+    pilimis žemupyje. Vytautas teigė, jog pati Klaipėda priklausanti
+    Žemaičių plotui^1. Tuo pat metu, kai kryžiuočiai įrodinėjo, kad
+    dešinysis Nemuno krantas nuo seno tik jiems priklausęs, Vytautas
+    pasistatė tvirtą Veliuonos pilį, o Dubysos žiotyse (Seredžiuje)
+    atstatė Peštvę, nuo XIX amž. žinomą « Palemono kalno » vardu^2.
+  citata_rodoma: "Vytautas teigė, jog pati Klaipėda priklausanti\nŽemaičių plotui^1. Tuo pat metu, kai kryžiuočiai įrodinėjo, kad\ndešinysis Nemuno krantas nuo seno tik jiems priklausęs, Vytautas\npasistatė tvirtą Veliuonos pilį, o Dubysos žiotyse (Seredžiuje)\natstatė Peštvę, nuo XIX amž. žinomą « Palemono kalno » vardu^2."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179810
+
+- id: c-163472
+  citata_originali: |
+    Tuo pat vardu buvo ir jo krikš­
+    tatėvis, Ragainės komtūras.
+    Kryžiuočių viršininkas dabar jau labiau Vytautui pasitikė­
+    damas, Ordino kapitulai sutikus, pavedė jam valdyti prie Ne­
+    muno, žemiau Dubysos įtakos, Naują Marienburgo pilį. Nauja­
+    sis Marienburgas pasidarė Vytauto giminių bei šalininkų centras.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179821
+
+- id: c-163474
+  citata_originali: |
+    Taigi Žalgirio mūšis ir Torno taika galutinai išsprendė Že­
+    maičių krikšto klausimą. Tačiau Vytautas dar dvejus metus už­
+    truko su kitais reikalais (Horodlės unija ir Makro lankymasis)
+    ir tiktai 1413 metų rudenį kartu su Jogaila atvyko į Žemaitiją.
+    Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­
+    gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir
+    ja iki Aukokalnio, buvusio ties dabartine Betygala.
+  citata_rodoma: "Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­\ngijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir\nja iki Aukokalnio, buvusio ties dabartine Betygala."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179815
+
+- id: c-168310
+  citata_originali: |
+    Taigi šitie arba kiti (apskritai nieko ne­
+    drįstu tokiu neaišku reikalu tvirtai sakyti), Venedų,
+    arba Baltijos, jūra įplaukę neplačiu sąsiauriu į Kuršių
+    įlanką, palei krantą nusigavo į Nemuno, arba Chrono,
+    žiotis, kur upė, ilgai tekėdama per Rusią, Lietuvą ir
+    Prūsiją, išsilieja sutelkusi vandenis dvylika atšakų.
+    Plaukdami prieš srovę į krašto gilumą, prie Dubysos
+    žiočių, patogioje vietoje, pakrantėmis išsidriekusioje
+    gražioje lygumoje, padėjo savo naujos sodybos pama­
+    tus. Toji sodyba, tada vadinama R om a n o va , paskui
+    Romnove bei Romove, vėliau tapo vyriausiojo lietuvių
+    žynio Krivės Krivaičio būstine, kurią, Gediminui vieš-
+    pataujaut, iš pamatų išgriovė vokiečių ordino vienuo­
+    liai riteriai, paprastai vadinami kryžiuočiais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184949
+
+- id: c-171576
+  citata_originali: |
+    218
+
+    ## Puslapis 218
+
+    nikininkų, kaip manė kai kurie8; jo vardas iki šiol skamba Ne­
+    muno žemupio kaimiečių lūpose. Prie Sredniko miestelio, lie­
+    tuviškai Seredžiaus, žemiau Dubysos žiočių, yra atskirtas nuo
+    kitų apvalus kalnas, ant kurio yra pylimas, arba senos piliavie-
+    tės liekana; šis kalnas iki šiol vadinamas Palemono kalnu (Pa­
+    lemonu Kalnas).
+    Kaimiečiai net žino pasakojimų, vaizduojančių tą žmogų
+    sudievintu didvyriu, ¿imas Didziawiris (žymus didžiavyris).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188687
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

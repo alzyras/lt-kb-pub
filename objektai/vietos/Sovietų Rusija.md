@@ -20,6 +20,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Sovietų Rusija
 
@@ -30,25 +42,91 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
 ## Teiginiai
 
 <a id="claim-t-77321"></a>
-- t-001
+- t-005
   global_id: t-77321
-  teiginys: 'Rusija pretendavo į LDK palikimą ir Lietuvą laikė jo sudedamąja dalimi.'
+  teiginys: "Rusija pretendavo į LDK palikimą ir Lietuvą laikė jo sudedamąja dalimi."
+  temporaliniai_duomenys: "įvykio data: 1919 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas kontekstinis įvadas; citata remia aiškų faktinį teiginį apie Rusijos pretenzijas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "278890-279484; hash=23142f04c140eceec853bbf87fe389f95f91c0bf27f460324d135857b78db9b2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sovietų Rusija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=36"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sovietų Rusija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-24492
 
 <a id="claim-t-77322"></a>
-- t-002
+- t-001
   global_id: t-77322
-  teiginys: '1919 m. rugsėjį Sovietų Rusija pasiūlė Lietuvai, Latvijai ir Estijai pradėti taikos derybas, taip de facto pripažindama šias valstybes.'
+  teiginys: "1919 m. rugsėjį Sovietų Rusija pasiūlė Lietuvai, Latvijai ir Estijai pradėti taikos derybas, taip de facto pripažindama šias valstybes."
+  temporaliniai_duomenys: "įvykio data: 1919 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai nusako Sovietų Rusijos veiksmą ir jo reikšmę."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "278890-279484; hash=23142f04c140eceec853bbf87fe389f95f91c0bf27f460324d135857b78db9b2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Estija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sovietų Rusija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Estija: mention_match, place, gap=45"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sovietų Rusija\" parinktas kaip owner_note_path. Targetas \"Estija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-24492
 
 <a id="claim-t-77324"></a>
-- t-003
+- t-002
   global_id: t-77324
-  teiginys: '1920 m. liepos 12 d. Taikos sutartis su Sovietų Rusija buvo laikoma dideliu Lietuvos diplomatijos laimėjimu.'
+  teiginys: "1920 m. liepos 12 d. Taikos sutartis su Sovietų Rusija buvo laikoma dideliu Lietuvos diplomatijos laimėjimu."
+  temporaliniai_duomenys: "sutarties data: 1920 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "281231-281676; hash=4987158a2745951c3e2b251cbd7c1e434791fb5e558fde15002125c39fedee8b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sovietų Rusija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=36"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sovietų Rusija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-24493
+
+<a id="claim-t-193784"></a>
+- t-006
+  global_id: t-193784
+  teiginys: "Pralaimėjusi kovas dėl Zarasų ir patyrusi didelių nuostolių, Sovietų Rusija po kurio laiko pasiūlė taikos derybas."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "772140-772473; hash=f226e062fb9bc68b0d3b8695acd9d827e810c314d22743cc6959df8c94422fa6; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
+  vertinimo_autorius: "rewrite_source_claims / reject"
+  pagrindžia:
+    - c-176435
+
+<a id="claim-t-193785"></a>
+- t-007
+  global_id: t-193785
+  teiginys: "PREILIAI A 1920 m. liepos 12 d. Lietuva su Sovietų Rusija sudarė taikos sutartį."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "779720-779883; hash=254559824f77fbdede8de35a44a158dca69301d7946eb4b2f4eb53d028e1197e; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-43877
 - susijęs iš [[objektai/asmenys/Dominykas Semaško.md#claim-t-63540|Dominykas Semaško]]: Dominyko Semaškos argumentais Lietuvos delegacija rėmėsi derybose su Sovietų Rusija dėl didesnės teritorijos Rytuose.
 - susijęs iš [[objektai/asmenys/Simonas Rozenbaumas.md#claim-t-64057|Simonas Rozenbaumas]]: Simonas Rozenbaumas buvo Lietuvos delegacijos narys žydas, kurio argumentais lietuviai rėmėsi derybose su Sovietų Rusija.
 - susijęs iš [[objektai/asmenys/Vladimiras Leninas.md#claim-t-64246|Vladimiras Leninas]]: Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija.
@@ -86,8 +164,9 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
     pradėti taikos derybas, taip de facto pripažindama tas valstybes ir susti-
     prindama jų pozicijas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -104,8 +183,122 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
     matijos laimėjimas mezgant ne tik savo šalies santykius su Rusija, bet ir su
     Lenkija.
   citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003
+
+- c-003
+  santrauka: 'PREILIAI A 1920 m. liepos 12 d. Lietuva su Sovietų Rusija sudarė taikos sutartį.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    PREILIAI A
+
+    1920 m. liepos 12 d. Lietuva su Sovietų Rusija sudarė
+    taikos sutartį. Sovietų Rusija pripažino Lietuvos nepriklausomybę.
+    Buvo nustatyta Lietuvos siena.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
+    - t-005
+
+- c-004
+  santrauka: 'Pralaimėjusi kovas dėl Zarasų ir patyrusi didelių nuostolių, Sovietų Rusija po kurio laiko pasiūlė taikos derybas.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Pasekmės
+    Neišnaudoję įtvirtinimų teikiamų priva-
+
+    lumų, bolševikai buvo priversti trauktis iš
+    Lietuvos. Pralaimėjusi kovas dėl Zarasų ir
+    patyrusi didelių nuostolių, Sovietų Rusija
+    po kurio laiko pasiūlė taikos derybas.
+
+    Dauguvos fronto karininkus ir karei-
+    vius, išvijusius bolševikus iš Lietuvos
+    žemės ir laimėjusius didelę pergalę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-004
+
+## Citatos
+
+- id: c-24492
+  citata_originali: |
+    Vakarų šalys, manydamos sukurti cordon sanitaire tarp Rusijos ir Vokie-
+    tijos, į Lenkijos planus žiūrėjo palankiai, tačiau Lietuva manė juos keliant
+    grėsmę savo sienoms ir atskiram valstybiniam gyvenimui.
+    Kovoti teko keliais frontais, nes dar viena šalis, Rusija, visuomet pre-
+    tendavo į LDK palikimą ir Lietuvą, kaip jos sudedamąją dalį. Tačiau pi-
+    lietinio karo metais, spaudžiama baltųjų kariuomenių, Sovietų Rusija
+    1919 m. rugsėjį ėmėsi iniciatyvos, – pasiūlė Lietuvai, Latvijai ir Estijai
+    pradėti taikos derybas, taip de facto pripažindama tas valstybes ir susti-
+    prindama jų pozicijas.
+  citata_rodoma: "Tačiau pi-\nlietinio karo metais, spaudžiama baltųjų kariuomenių, Sovietų Rusija\n1919 m. rugsėjį ėmėsi iniciatyvos, – pasiūlė Lietuvai, Latvijai ir Estijai\npradėti taikos derybas, taip de facto pripažindama tas valstybes ir susti-\nprindama jų pozicijas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77322
+    - t-77321
+
+- id: c-24493
+  citata_originali: |
+    Lietuva gavo 3 mln. aukso rublių kompensaciją ir pažadus,
+    kad galės išsikirsti miško, atsiimti išvežtus į Maskvą archyvus. Lietuva ri-
+    zikavo pasirašydama sutartį, nes manė, jog, baltiesiems nugalėjus bolše-
+    vikus, būtų atiduota Rusijai arba Lenkijai. Apskritai 1920 m. liepos 12 d.
+    pasirašyta Taikos sutartis su Sovietų Rusija buvo didelis Lietuvos diplo-
+    matijos laimėjimas mezgant ne tik savo šalies santykius su Rusija, bet ir su
+    Lenkija.
+  citata_rodoma: "Apskritai 1920 m. liepos 12 d.\npasirašyta Taikos sutartis su Sovietų Rusija buvo didelis Lietuvos diplo-\nmatijos laimėjimas mezgant ne tik savo šalies santykius su Rusija, bet ir su\nLenkija."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77324
+
+- id: c-43877
+  citata_originali: |
+    PREILIAI A
+
+    1920 m. liepos 12 d. Lietuva su Sovietų Rusija sudarė
+    taikos sutartį. Sovietų Rusija pripažino Lietuvos nepriklausomybę.
+    Buvo nustatyta Lietuvos siena.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193785
+
+- id: c-176435
+  citata_originali: |
+    Pasekmės
+    Neišnaudoję įtvirtinimų teikiamų priva-
+
+    lumų, bolševikai buvo priversti trauktis iš
+    Lietuvos. Pralaimėjusi kovas dėl Zarasų ir
+    patyrusi didelių nuostolių, Sovietų Rusija
+    po kurio laiko pasiūlė taikos derybas.
+
+    Dauguvos fronto karininkus ir karei-
+    vius, išvijusius bolševikus iš Lietuvos
+    žemės ir laimėjusius didelę pergalę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193784

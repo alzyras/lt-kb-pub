@@ -13,6 +13,18 @@ atnaujinta: ''
 tags: []
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma
 
@@ -56,17 +68,42 @@ amziai:
 <a id="claim-t-23361"></a>
 - t-001
   global_id: t-23361
-  teiginys: '1989 m. rugpjūčio 23 d. apie du milijonai lietuvių, latvių ir estų Baltijos kelyje susikibo rankomis į daugiau kaip 650 km gyvą žmonių grandinę.'
+  teiginys: "1989 m. rugpjūčio 23 d. apie du milijonai lietuvių, latvių ir estų Baltijos kelyje susikibo rankomis į daugiau kaip 650 km gyvą žmonių grandinę."
+  semantiniai_rysiai: "Estai keliavo į Baltija (0.62); Latviai keliavo į Baltija (0.62)"
+  temporaliniai_duomenys: "įvykio data: 1940 m.; įvykio data: 1989 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia datos, dalyvių ir protesto formos faktus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "491030-491790; hash=ec59ccbc68e1f69a449da4e0320442cf71e6179043c26345ac69f22e75b3de35; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Baltija: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Estai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Baltija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Estai nurodyti kaip viena iš grupių, dalyvavusių Baltijos kelyje; santykis su vieta perteikiamas per buvimą protesto akcijoje."
   pagrindžia:
-    - c-001
+    - c-16961
 
 <a id="claim-t-23362"></a>
 - t-002
   global_id: t-23362
-  teiginys: 'Baltijos kelio komemoraciniai ženklai buvo juodi gedulo kaspinai ir žvakutės.'
+  teiginys: "Baltijos kelio komemoraciniai ženklai buvo juodi gedulo kaspinai ir žvakutės."
+  temporaliniai_duomenys: "įvykio data: 1940 m.; įvykio data: 1989 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "491030-491790; hash=ec59ccbc68e1f69a449da4e0320442cf71e6179043c26345ac69f22e75b3de35; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-16961
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -84,8 +121,9 @@ amziai:
     Taline. Visame kelyje plevėsavo juodi gedulo kaspinai, degė žvakutės, ku-
     rios priminė aukas ir didelių netekčių skausmą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -94,3 +132,27 @@ amziai:
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
+
+## Citatos
+
+- id: c-16961
+  citata_originali: |
+    tautų apsisprendimo principams, Lietuvos SSR Aukščiausiosios Tary-
+    bos sudaryta valstybinė komisija išnagrinėjo ir viešai pasmerkė Moloto-
+    vo–Ribentropo pakto ir slaptųjų protokolų padarinius – 1940 m. vasarą
+    sovietų valstybės įvykdytą Lietuvos okupaciją ir neteisėtą prijungimą.
+    1989 m. rugpjūčio 23 d. 19 val. trijų Baltijos valstybių gyventojai pami-
+    nėjo 50-ąsias Molotovo–Ribentropo pakto pasirašymo sukaktuves – per
+    protesto akciją, pavadintą Baltijos keliu, apie du milijonai lietuvių, latvių
+    ir estų susikibo rankomis sudarydami gyvą, daugiau kaip 650 km ilgio
+    žmonių grandinę nuo Gedimino bokšto Vilniuje iki Hermano bokšto
+    Taline. Visame kelyje plevėsavo juodi gedulo kaspinai, degė žvakutės, ku-
+    rios priminė aukas ir didelių netekčių skausmą.
+  citata_rodoma: "protesto akciją, pavadintą Baltijos keliu, apie du milijonai lietuvių, latvių"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-23361
+    - t-23362

@@ -12,11 +12,6 @@ datos:
   - '2026 m.'
 date_start: '1579'
 date_end: '2026'
-description: 'Bendra Lietuvos ir Lenkijos Edukacinė Komisija nuo 1773 m. prižiūrėjo švietimą, mokyklas, vadovėlius ir modernino mokymą.'
-socialDescription: 'Edukacinė Komisija nuo 1773 m. tvarkė Lietuvos ir Lenkijos švietimą, perėmė mokyklų priežiūrą ir modernino mokymo programas.'
-seo_atnaujinta: '2026-07-02T23:12:35.411032+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -27,98 +22,258 @@ tags:
 amziai:
   - 'XVI'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Edukacinė Komisija
 
 ## Santrauka
 
-Edukacinė Komisija buvo bendra Lietuvos ir Lenkijos institucija, veikusi nuo 1773 m. Ji rūpinosi mokymu, vadovėliais, mokyklų priežiūra ir lėšų naudojimu, o 1776 m. jai perduoti panaikintų Dalomųjų Komisijų turtai. Komisija laikyta pirmu Europoje atveju, kai švietimą perėmė valstybė, ir siejama su mokymo programų moderninimu bei supasaulietinimu.
+Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos buvo panaikintos, ir visi turtai pavesti Edukacinei Komisijai. Edukacinės Komisijos idėja buvo tikrai vykusi: tai buvo iš viso pirmas atsitikimas Europoj, kad švietimą paėmė į savo žinią pati valstybė.
 
 ## Teiginiai
 
 <a id="claim-t-107733"></a>
-- t-001
+- t-012
   global_id: t-107733
-  teiginys: 'Michałas Balińskis, vertindamas Vilniaus akademijos istoriją, pagyrė Edukacinės komisijos veiklą.'
+  teiginys: "Michałas Balińskis, vertindamas Vilniaus akademijos istoriją, pagyrė Edukacinės komisijos veiklą."
+  temporaliniai_duomenys: "įvykio data: 1579-1803; įvykio data: 1803 m.; įvykio data: 1862 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata tiesiogiai remia glaustą teiginį apie komisijos vertinimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "854427-854795; hash=25362b90d75aec3718c7b1d5541ebd836ff349693d61ecda34dd263e7ee09767; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Edukacinė Komisija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Edukacinė Komisija\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-100008
 
 <a id="claim-t-107734"></a>
-- t-002
+- t-015
   global_id: t-107734
-  teiginys: 'Targovicos konfederacija perskyrė nuo 1773 m. veikusią bendrą Edukacinę Komisiją į atskiras Lietuvos ir Lenkijos komisijas.'
+  teiginys: "Targovicos konfederacija perskyrė nuo 1773 m. veikusią bendrą Edukacinę Komisiją į atskiras Lietuvos ir Lenkijos komisijas."
+  temporaliniai_duomenys: "įvykio data: po 1773 m.; įvykio data: 1773 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Originalas prasideda skyrybos triukšmu ir reikia sutvarkyti sakinį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "880941-881351; hash=9ec168ffb09ad95e1b8a9e264f3caf2142251e7e8593c63128df4068864c6067; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Edukacinė Komisija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Edukacinė Komisija\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-100011
 
 <a id="claim-t-107736"></a>
-- t-003
+- t-014
   global_id: t-107736
-  teiginys: 'Edukacinė Komisija buvo laikoma pirmu Europoje atveju, kai švietimą perėmė valstybė.'
+  teiginys: "Edukacinė Komisija buvo laikoma pirmu Europoje atveju, kai švietimą perėmė valstybė."
+  temporaliniai_duomenys: "įvykio data: 1579-1803; įvykio data: 1803 m.; įvykio data: 1862 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "854427-854795; hash=25362b90d75aec3718c7b1d5541ebd836ff349693d61ecda34dd263e7ee09767; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Edukacinė Komisija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=38"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Edukacinė Komisija\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-22376
 
 <a id="claim-t-107737"></a>
-- t-004
+- t-016
   global_id: t-107737
-  teiginys: '1776 m. panaikinus Dalomąsias Komisijas, visi jų valdyti turtai buvo pavesti Edukacinei Komisijai.'
+  teiginys: "1776 m. panaikinus Dalomąsias Komisijas, visi jų valdyti turtai buvo pavesti Edukacinei Komisijai."
+  temporaliniai_duomenys: "įvykio data: 1776 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys labiau apie Dalomąsias Komisijas; citata palaiko geresnį teiginį apie Edukacinę Komisiją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "852044-852363; hash=c065d5325b3598938459a6d58bb5d76a4bb2c5b63c337b7e5ed0b57b0db8c209; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Edukacinė Komisija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Edukacinė Komisija\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-22375
 
 <a id="claim-t-107738"></a>
-- t-005
+- t-011
   global_id: t-107738
-  teiginys: 'Vilniuje gyvenęs autorius kurį laiką dirbo Edukacinėje teismo komisijoje.'
+  teiginys: "Vilniuje gyvenęs autorius kurį laiką dirbo Edukacinėje teismo komisijoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "852044-852363; hash=c065d5325b3598938459a6d58bb5d76a4bb2c5b63c337b7e5ed0b57b0db8c209; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Edukacinė Komisija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=43"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Edukacinė Komisija\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-100010
 
 <a id="claim-t-107739"></a>
-- t-006
+- t-017
   global_id: t-107739
-  teiginys: 'Targovicos konfederacija bendrą Edukacinę Komisiją padalijo į atskiras Lietuvos ir Lenkijos komisijas.'
+  teiginys: "Targovicos konfederacija bendrą Edukacinę Komisiją padalijo į atskiras Lietuvos ir Lenkijos komisijas."
+  temporaliniai_duomenys: "įvykio data: po 1773 m.; įvykio data: 1773 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Originalas per ilgas, nutrūkstantis ir turi nereikalingo konteksto."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "880941-881351; hash=9ec168ffb09ad95e1b8a9e264f3caf2142251e7e8593c63128df4068864c6067; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Edukacinė Komisija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Edukacinė Komisija\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-100011
 
 <a id="claim-t-107740"></a>
-- t-007
+- t-012
   global_id: t-107740
-  teiginys: 'Edukacinė Komisija buvo įkurta kaip bendra Lietuvos ir Lenkijos institucija.'
+  teiginys: "Edukacinė Komisija buvo įkurta kaip bendra Lietuvos ir Lenkijos institucija."
+  semantiniai_rysiai: "Edukacinė Komisija priklausė Lietuva (0.82); Edukacinė Komisija priklausė Lenkija (0.82)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "849295-849453; hash=9d6fd7754c30d87b210010ed2d78413a082970bd3408aee46903c4dbc36ea55f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lenkija: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Edukacinė Komisija: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Ta pati formuluotė nurodo, kad komisija buvo bendra ir Lenkijai."
   pagrindžia:
-    - c-001
+    - c-22374
 
 <a id="claim-t-107741"></a>
 - t-008
   global_id: t-107741
-  teiginys: 'Edukacinės komisijos veikla sulaukė pagyrimo, priešingai nei XVII-XVIII a. jėzuitų ordino veikla.'
+  teiginys: "Edukacinės komisijos veikla sulaukė pagyrimo, priešingai nei XVII-XVIII a. jėzuitų ordino veikla."
+  temporaliniai_duomenys: "įvykio data: 1579-1803; įvykio data: 1803 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "16390-16725; hash=a55b2d17160c8654563b3083a6da7d72b06d58c47cc064ff94cea5f0af3e8554; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Edukacinė Komisija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Edukacinė Komisija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-100013
 
 <a id="claim-t-107742"></a>
-- t-009
+- t-014
   global_id: t-107742
-  teiginys: 'Edukacinė komisija sumodernino ir supasaulietino mokymo programą, įvesdama gamtos ir tiksliųjų mokslų disciplinas.'
+  teiginys: "Edukacinė komisija sumodernino ir supasaulietino mokymo programą, įvesdama gamtos ir tiksliųjų mokslų disciplinas."
+  temporaliniai_duomenys: "įvykio data: po 1773 m.; įvykio data: 1773 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Edukacinę komisiją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "880941-881351; hash=9ec168ffb09ad95e1b8a9e264f3caf2142251e7e8593c63128df4068864c6067; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Edukacinė Komisija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Edukacinė Komisija\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-100009
 
 <a id="claim-t-107743"></a>
-- t-010
+- t-013
   global_id: t-107743
-  teiginys: '1776 m. panaikinus komisijas, jų turtai buvo pavesti Edukacinei Komisijai.'
+  teiginys: "1776 m. panaikinus komisijas, jų turtai buvo pavesti Edukacinei Komisijai."
+  temporaliniai_duomenys: "įvykio data: 1776 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "852044-852363; hash=c065d5325b3598938459a6d58bb5d76a4bb2c5b63c337b7e5ed0b57b0db8c209; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Edukacinė Komisija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Edukacinė Komisija\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-22375
 
 <a id="claim-t-107744"></a>
-- t-011
+- t-013
   global_id: t-107744
-  teiginys: 'Edukacinė komisija įkurta 1773 m.; jos pirmininku tapo Vilniaus vyskupas Ignotas Masalskis.'
+  teiginys: "Edukacinė komisija įkurta 1773 m.; jos pirmininku tapo Vilniaus vyskupas Ignotas Masalskis."
+  temporaliniai_duomenys: "įvykio data: 1773 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatiškas ir paremtas šaltiniu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "854556-854900; hash=e061408e581e75d13ff5986db20073dbad795ff410fa08b269f2d485849bcf20; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ignotas Masalskis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Edukacinė Komisija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Ignotas Masalskis: mention_match, person, gap=73"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Edukacinė Komisija\" parinktas kaip owner_note_path. Targetas \"Ignotas Masalskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-100014
 
 <a id="claim-t-182888"></a>
-- t-012
+- t-018
   global_id: t-182888
-  teiginys: 'A. Šapokos redaguotoje istorijoje Edukacinė Komisija vertinama kaip pirmas Europoje atvejis, kai švietimą perėmė valstybė.'
+  teiginys: "A. Šapokos redaguotoje istorijoje Edukacinė Komisija vertinama kaip pirmas Europoje atvejis, kai švietimą perėmė valstybė."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "854556-854900; hash=e061408e581e75d13ff5986db20073dbad795ff410fa08b269f2d485849bcf20; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Edukacinė Komisija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=41"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Edukacinė Komisija\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-010
+    - c-166292
 - susijęs iš [[objektai/grupes/Pijarų ordinas.md#claim-t-72601|Pijarų ordinas]]: Pijarų ordinas išlaikė ypač daug mokyklų, kurių Edukacinė Komisija neperėmė, bet prižiūrėjo jų mokymą.
 - susijęs iš [[objektai/ivykiai/Edukacinės komisijos įkūrimas.md#claim-t-183221|Edukacinės komisijos įkūrimas]]: Edukacinė komisija turėjo perimti panaikinto jėzuitų ordino švietimo sistemą.
 - susijęs iš [[objektai/ivykiai/Edukacinės komisijos įkūrimas.md#claim-t-66536|Edukacinės komisijos įkūrimas]]: 1773 m. įkurta Edukacinė komisija buvo pirmoji Europoje švietimo ministerijos tipo įstaiga.
@@ -137,6 +292,7 @@ Edukacinė Komisija buvo bendra Lietuvos ir Lenkijos institucija, veikusi nuo 17
     Komisija turėjo rūpintis tik pačiu mokymu, vadovėliais ir
     pinigų sunaudojimu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -153,6 +309,7 @@ Edukacinė Komisija buvo bendra Lietuvos ir Lenkijos institucija, veikusi nuo 17
     siog vagia. Todėl 1776 m. tos komisijos buvo panaikintos, ir visi
     turtai pavesti Edukacinei Komisijai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -171,6 +328,7 @@ Edukacinė Komisija buvo bendra Lietuvos ir Lenkijos institucija, veikusi nuo 17
     pirmas atsitikimas Europoj, kad švietimą paėmė į savo žinią pati
     valstybė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -189,6 +347,7 @@ Edukacinė Komisija buvo bendra Lietuvos ir Lenkijos institucija, veikusi nuo 17
     zuitų ordino veikla XVII-XVIII a., pagyrimo - Edukacinės
     komisijos veikla.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -206,6 +365,7 @@ Edukacinė Komisija buvo bendra Lietuvos ir Lenkijos institucija, veikusi nuo 17
     amatų įgūdžių ugdymu), įvedė gamtos ir tiksliųjų mokslų disciplinas. Es-
     minių permainų įvyko Vilniaus universiteto mokslo ir studijų srityse.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -223,6 +383,7 @@ Edukacinė Komisija buvo bendra Lietuvos ir Lenkijos institucija, veikusi nuo 17
     jetonus. Būdamas darbštus ir plačių interesų, Vilniuje pradėjo
     rinkti su miesto istorija susijusius dokumentus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -241,6 +402,7 @@ Edukacinė Komisija buvo bendra Lietuvos ir Lenkijos institucija, veikusi nuo 17
     kacinę Komisiją: vietoje vienos buvo sudarytos dvi atskiros
     Lietuvos ir Lenkijos komisijos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -258,6 +420,7 @@ Edukacinė Komisija buvo bendra Lietuvos ir Lenkijos institucija, veikusi nuo 17
     komisijos veikla. Taigi jis išliko savo jaunystės idealų - Švieti­
     mo filosofijos principų - šalininkas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -274,6 +437,7 @@ Edukacinė Komisija buvo bendra Lietuvos ir Lenkijos institucija, veikusi nuo 17
     švietimo sistemą. Edukacinė komisija ėmėsi permainų ir stengėsi sukur-
     ti vientisą švietimo sistemą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -291,11 +455,173 @@ Edukacinė Komisija buvo bendra Lietuvos ir Lenkijos institucija, veikusi nuo 17
     valstybė. Iš to būtų galėję išeiti nemaža naudos, jei žmonės, kurie
     stovėjo prie to darbo, būtų buvę sąžiningesni.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
+## Citatos
+
+- id: c-22374
+  citata_originali: |
+    visų kitų mokyklų priežiūra. Komisija buvo įkurta bendra Lie-
+    tuvai ir Lenkijai.
+    Komisija turėjo rūpintis tik pačiu mokymu, vadovėliais ir
+    pinigų sunaudojimu.
+  citata_rodoma: "Komisija buvo įkurta bendra Lie-\ntuvai ir Lenkijai.\nKomisija turėjo rūpintis tik pačiu mokymu, vadovėliais ir\npinigų sunaudojimu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-107740
+
+- id: c-22375
+  citata_originali: |
+    Tiek už išnuomotus dvarus, tiek
+    už kapitalus Edukacinei Komisijai buvo mokama 41 /2%.
+    Greit pasirodė, kad Dalomosios Komisijos su tais turtais daro
+    biznį — dvarus labai pigiai dalina savo artimiesiems, o pinigus tie-
+    siog vagia. Todėl 1776 m. tos komisijos buvo panaikintos, ir visi
+    turtai pavesti Edukacinei Komisijai.
+  citata_rodoma: "Todėl 1776 m. tos komisijos buvo panaikintos, ir visi\nturtai pavesti Edukacinei Komisijai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-107743
+    - t-107737
+
+- id: c-22376
+  citata_originali: |
+    Valstybės atžvilgiu senoji karta buvo kon-
+    servatyvi ir bajoriškųjų laisvių garbintoja, o jaunoji karta išdidžiai
+    siekė reformų. Tad paskutiniaisiais Respublikos gyvenimo metais
+    padarytosios reformos buvo jaunosios kartos darbas.
+    Edukacinės Komisijos idėja buvo tikrai vykusi: tai buvo iš viso
+    pirmas atsitikimas Europoj, kad švietimą paėmė į savo žinią pati
+    valstybė.
+  citata_rodoma: "Edukacinės Komisijos idėja buvo tikrai vykusi: tai buvo iš viso\npirmas atsitikimas Europoj, kad švietimą paėmė į savo žinią pati\nvalstybė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-107736
+
+- id: c-100008
+  citata_originali: |
+    Didesnį dėmesį vėlesnėje istoriografi­
+    joje pelnė kitas M. Balinskio darbas - 1862 m. išleista Vilniaus
+    akademijos istorija. Aprašydamas šios Lietuvos aukštosios mo­
+    kyklos raidą 1579-1803 m., daugelį jos istorijos įvykių jis verti­
+    na kaip švietėjas. Ypač negailestingos jo kritikos susilaukė jė­
+    zuitų ordino veikla XVII-XVIII a., pagyrimo - Edukacinės
+    komisijos veikla.
+  citata_rodoma: ", daugelį jos istorijos įvykių jis verti­\nna kaip švietėjas. Ypač negailestingos jo kritikos susilaukė jė­\nzuitų ordino veikla XVII-XVIII a., pagyrimo - Edukacinės \nkomisijos veikla."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-107733
+
+- id: c-100009
+  citata_originali: |
+    Lietuvos provincijos švietimą
+    tvarkė reformuotas Vilniaus universitetas. Edukacinė komisija sumoder-
+    nino ir supasaulietino mokymo programą (įvedė privalomą rašymą ir skai-
+    čiavimą, bendrojo lavinimo elementus ėmė jungti su praktinių žemės ūkio,
+    amatų įgūdžių ugdymu), įvedė gamtos ir tiksliųjų mokslų disciplinas. Es-
+    minių permainų įvyko Vilniaus universiteto mokslo ir studijų srityse.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-107742
+
+- id: c-100010
+  citata_originali: |
+    Jaunavedžiai
+    gyveno Vilniuje. Čia jis kurį laiką dirbo Edukacinėje teismo ko­
+    misijoje, aktyviai bendradarbiavo Vilniaus periodinėje spaudo­
+    je rašydamas švietėjiško - pažintinio pobūdžio straipsnius ir fel­
+    jetonus. Būdamas darbštus ir plačių interesų, Vilniuje pradėjo
+    rinkti su miesto istorija susijusius dokumentus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-107738
+
+- id: c-100011
+  citata_originali: |
+    Tačiau
+    Targovicos konfederacija, kuri ėjo prieš visas reformas — už
+    senąją santvarką, sugrąžino ir senąjį Lietuvos Lenkijos valstybių
+    atskirumą. Viskas sugrįžo į senąją būklę, o kai kuriais atžvil-
+    giais valstybių atskirumas net dar padidėjo; pav., Targovicos
+    konfederacija net perskyrė nuo 1773 m. buvusią bendrą Edu-
+    kacinę Komisiją: vietoje vienos buvo sudarytos dvi atskiros
+    Lietuvos ir Lenkijos komisijos.
+  citata_rodoma: "Viskas sugrįžo į senąją būklę, o kai kuriais atžvil-\ngiais valstybių atskirumas net dar padidėjo; pav., Targovicos\nkonfederacija net perskyrė nuo 1773 m. buvusią bendrą Edu-\nkacinę Komisiją: vietoje vienos buvo sudarytos dvi atskiros\nLietuvos ir Lenkijos komisijos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-107734
+    - t-107739
+
+- id: c-100013
+  citata_originali: |
+    Aprašydamas šios Lietuvos aukštosios mo­
+    kyklos raidą 1579-1803 m., daugelį jos istorijos įvykių jis verti­
+    na kaip švietėjas. Ypač negailestingos jo kritikos susilaukė jė­
+    zuitų ordino veikla XVII-XVIII a., pagyrimo - Edukacinės
+    komisijos veikla. Taigi jis išliko savo jaunystės idealų - Švieti­
+    mo filosofijos principų - šalininkas.
+  citata_rodoma: "Ypač negailestingos jo kritikos susilaukė jė­\nzuitų ordino veikla XVII-XVIII a., pagyrimo - Edukacinės\nkomisijos veikla. Taigi jis išliko savo jaunystės idealų - Švieti­\nmo filosofijos principų - šalininkas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-100014
+  citata_originali: |
+    Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus
+    vyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švie-
+    timo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino
+    švietimo sistemą. Edukacinė komisija ėmėsi permainų ir stengėsi sukur-
+    ti vientisą švietimo sistemą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-107744
+
+- id: c-166292
+  citata_originali: |
+    Tad paskutiniaisiais Respublikos gyvenimo metais
+    padarytosios reformos buvo jaunosios kartos darbas.
+    Edukacinės Komisijos idėja buvo tikrai vykusi: tai buvo iš viso
+    pirmas atsitikimas Europoj, kad švietimą paėmė į savo žinią pati
+    valstybė. Iš to būtų galėję išeiti nemaža naudos, jei žmonės, kurie
+    stovėjo prie to darbo, būtų buvę sąžiningesni.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182888
 
 ## Ryšiai
 - Edukacinė Komisija priklausė [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]]

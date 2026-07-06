@@ -16,6 +16,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Petrapilis
 
@@ -26,25 +38,62 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
 ## Teiginiai
 
 <a id="claim-t-68917"></a>
-- t-001
+- t-003
   global_id: t-68917
-  teiginys: 'Čartoriskiai pasiuntė Stanislovą Augustą Poniatauską į Petrapilį.'
+  teiginys: "Čartoriskiai pasiuntė Stanislovą Augustą Poniatauską į Petrapilį."
+  semantiniai_rysiai: "Čartoriskiai siuntė į Petrapilis (0.91)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "803037-803392; hash=a6705a490a320a86081aa8ed81016edfa1f1697bf702194ceaf1611d4f60eee3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Petrapilis: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Čartoriskiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Petrapilis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginyje tiesiogiai pasakyta, kad Čartoriskiai pasiuntė asmenį į Petrapilį."
   pagrindžia:
-    - c-002
+    - c-68373
 
 <a id="claim-t-68918"></a>
-- t-002
+- t-003
   global_id: t-68918
-  teiginys: '1903 m. Petrapilyje buvo išleistas „Litovskaja Metrika“ teismo bylų knygų tomas.'
+  teiginys: "1903 m. Petrapilyje buvo išleistas „Litovskaja Metrika“ teismo bylų knygų tomas."
+  temporaliniai_duomenys: "įvykio data: 1903 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia leidimo vietą ir objektą, bet pradinis teiginys yra fragmentas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "803037-803392; hash=a6705a490a320a86081aa8ed81016edfa1f1697bf702194ceaf1611d4f60eee3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Petrapilis: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Čartoriskiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Petrapilis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginyje tiesiogiai pasakyta, kad Čartoriskiai pasiuntė asmenį į Petrapilį."
   pagrindžia:
-    - c-001
+    - c-32322
 
 <a id="claim-t-183072"></a>
-- t-003
+- t-004
   global_id: t-183072
-  teiginys: 'Augusto III karaliavimo pabaigoje Čartoriskiai partijų kovose rėmėsi artimais ryšiais su Petrapilio rūmais.'
+  teiginys: "Augusto III karaliavimo pabaigoje Čartoriskiai partijų kovose rėmėsi artimais ryšiais su Petrapilio rūmais."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "802686-802844; hash=0168ac4476b918fc7d1d2a8e2083488bcaf71945e774f78f996098bdfb09fc52; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Linkas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Petrapilis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Linkas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Petrapilis\" parinktas kaip owner_note_path. Targetas \"Linkas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-166463
 - susijęs iš [[objektai/grupes/Latvių Tautos Taryba.md#claim-t-72362|Latvių Tautos Taryba (institucija)]]: Latvių Tautos Taryba susidarė vokiečių neužimtoje Latvijos dalyje ir su Petrapilio latvių pabėgėlių komitetu rūpinosi nepriklausomos Latvijos kūrimu.
 - susijęs iš [[objektai/grupes/Lietuvių Tautos Taryba.md#claim-t-01389|Lietuvių Tautos Taryba (institucija)]]: 1917 m. kovą Rusijoje iš įvairių srovių buvo sudaryta Lietuvių Tautos Taryba, sušaukusi Rusijoje išblaškytų lietuvių seimą Petrapilyje.
 - susijęs iš [[objektai/grupes/Petrapilio latvių pabėgėlių komitetas.md#claim-t-72599|Petrapilio latvių pabėgėlių komitetas (institucija)]]: Petrapilio latvių pabėgėlių komitetas kartu su Tautos Taryba rūpinosi nepriklausomos Latvijos sukūrimu.
@@ -68,6 +117,7 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     LMS = Litovskaja Metrika. Knigi sudnich del, išl. P. A. Hil’tebrant
     (Russkaja Istoričeskaja Biblioteka, t. 20), Petrapilis 1903.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -85,6 +135,7 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     siartino su sosto įpėdinio rūmais, o su jo žmona Kotryna suėjo
     net į labai intimius santykius.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -101,11 +152,56 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
 
     ## 24.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-32322
+  citata_originali: |
+    LMS = Litovskaja Metrika. Knigi sudnich del, išl. P. A. Hil’tebrant
+    (Russkaja Istoričeskaja Biblioteka, t. 20), Petrapilis 1903.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-68918
+
+- id: c-68373
+  citata_originali: |
+    Augusto III val-
+    dymo gale Rusiją valdė carienė Elžbieta, o jos mirties nekantriai
+    laukė sosto įpėdinis Petras (III). Tuo metu Čartoriskiai pasiun-
+    tė į Petrapilį savo sesers sūnų Stanislovą Augustą Po-
+    niatauską. Gavęs Saksonijos atstovo titulą, šis greit su-
+    siartino su sosto įpėdinio rūmais, o su jo žmona Kotryna suėjo
+    net į labai intimius santykius.
+  citata_rodoma: "Tuo metu Čartoriskiai pasiun-\ntė į Petrapilį savo sesers sūnų Stanislovą Augustą Po-\nniatauską. Gavęs Saksonijos atstovo titulą, šis greit su-\nsiartino su sosto įpėdinio rūmais, o su jo žmona Kotryna suėjo\nnet į labai intimius santykius."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-68917
+
+- id: c-166463
+  citata_originali: |
+    Bet Augusto III
+    karaliavimo gale partijų kovose persvara jau aiškiai linko į Čarto-
+    riskių pusę. Ypač jiems padėjo artimi ryšiai su Petrapilio rūmais.
+
+    ## 24.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183072
 
 ## Ryšiai
 - Buvo siuntimo vieta: [[objektai/grupes/Čartoriskiai]]

@@ -16,6 +16,18 @@ tags:
   - valstybė
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Tautų Sąjungos susirinkimas
 
@@ -28,10 +40,21 @@ Pirmasis visuotinis Tautų S-gos susirinkimas (1920. S-gos susirinkimas, be to, 
 <a id="claim-t-66187"></a>
 - t-001
   global_id: t-66187
-  teiginys: 'Pirmasis visuotinis Tautų Sąjungos susirinkimas 1920 m. svarstė Lietuvos, Latvijos ir Estijos prašymą, bet jo dar nepatenkino.'
+  teiginys: "Pirmasis visuotinis Tautų Sąjungos susirinkimas 1920 m. svarstė Lietuvos, Latvijos ir Estijos prašymą, bet jo dar nepatenkino."
+  temporaliniai_duomenys: "įvykio data: 1920 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "1148393-1148870; hash=996d05e6a1cd7323da8945e50121247585c6a5fa4f7677f915a2caa1130772ba; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Estija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tautų Sąjungos susirinkimas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Estija: mention_match, place, gap=66"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tautų Sąjungos susirinkimas\" parinktas kaip owner_note_path. Targetas \"Estija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-47261
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,8 +69,28 @@ Pirmasis visuotinis Tautų S-gos susirinkimas (1920. S-gos susirinkimas, be to, 
     prieš kaimynų agresiją ar apskritai vengė čia susirišti kuo nors
     buvusios ar būsimos Rusijos .atžvilgiu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-47261
+  citata_originali: |
+    Pirmasis visuotinis Tautų S-gos susirinkimas (1920. XI. 15 —
+    XII. 18) ilgai svarstė Lietuvos (o taip pat ir Latvių bei Estų)
+    prašymą, tačiau nesiryžo dar jo patenkinti; ypač nesiryžo dėl
+    to, kad daugumas tuometinių Tautų S-gos narių dar netikėjo
+    Pabaltijo valstybių pastovumu, ar nenorėjo prisiimti T. Sąjungos
+    pakto (str. 10) uždedamų prievolių ginti tas naujas valstybes
+    prieš kaimynų agresiją ar apskritai vengė čia susirišti kuo nors
+    buvusios ar būsimos Rusijos .atžvilgiu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66187

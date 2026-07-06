@@ -15,6 +15,18 @@ tags:
   - valstybė
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvos demokratų partijos susikūrimas
 
@@ -41,12 +53,27 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-183239"></a>
-- t-001
+- t-002
   global_id: t-183239
-  teiginys: 'Lietuvos demokratų partija susikūrė 1902 m. „Varpą“ leidusios organizacijos pagrindu.'
+  teiginys: "Lietuvos demokratų partija susikūrė 1902 m. „Varpą“ leidusios organizacijos pagrindu."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1902 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo partijos susikūrimo laiką ir pagrindą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "242768-243279; hash=05582b948abca3d85505541b444a5616f67da6c219e4815158de1eafbb423688; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos demokratų partijos susikūrimas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos demokratų partijos susikūrimas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-166627
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -62,8 +89,28 @@ Nenurodyta
     mu“ ir federacijos ryšiais susijusi su gretimomis demokratinėmis valsty-
     bėmis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-166627
+  citata_originali: |
+    Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių
+    tautiniame sąjūdyje buvo liberali Lietuvos demokratų partija, susikūrusi
+    1902 m. „Varpą“ leidusios organizacijos pagrindu. Šie intelektualai pro-
+    pagavo Bažnyčios atskyrimo nuo valstybės principą. Lietuvos demokratų
+    programinis idealas – nepriklausoma demokratinė Lietuvos Respublika
+    lietuvių istorinių etnografinių žemių ribose, „su teisingu turto paskirsty-
+    mu“ ir federacijos ryšiais susijusi su gretimomis demokratinėmis valsty-
+    bėmis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183239

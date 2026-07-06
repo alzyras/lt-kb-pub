@@ -20,6 +20,18 @@ tags:
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Starodubas
 
@@ -30,32 +42,102 @@ Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paup
 ## Teiginiai
 
 <a id="claim-t-69312"></a>
-- t-001
+- t-002
   global_id: t-69312
-  teiginys: '1379-1380 m. žiemą Maskvos kunigaikščio Dimitro kariuomenė užėmė Starodubą ir Trubčevską.'
+  teiginys: "1379-1380 m. žiemą Maskvos kunigaikščio Dimitro kariuomenė užėmė Starodubą ir Trubčevską."
+  temporaliniai_duomenys: "įvykio data: po 1377 m.; įvykio data: 1377 m.; įvykio data: 1379-1380; įvykio data: 1380 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys per ilgas, su įvardžiais ir šalutiniu kontekstu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "749812-750238; hash=09052520a7e46ee351e49f60c59c8fdf18173c92859e1431cbeeae063180e605; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Trubčevskas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Starodubas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Trubčevskas: mention_match, place, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Starodubas\" parinktas kaip owner_note_path. Targetas \"Trubčevskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-32441
 
 <a id="claim-t-185155"></a>
-- t-002
+- t-003
   global_id: t-185155
-  teiginys: 'Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitant Černigovą, Starodubą, Naugardą ir Rylską.'
+  teiginys: "Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitant Černigovą, Starodubą, Naugardą ir Rylską."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "984986-985501; hash=21117368fa4028359702c0b0a90f7eb488d7005b2051e52528ae779be1e495d3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Naugardas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Starodubas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Naugardas: mention_match, place, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Starodubas\" parinktas kaip owner_note_path. Targetas \"Naugardas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-168516
 
 <a id="claim-t-185156"></a>
-- t-003
+- t-004
   global_id: t-185156
-  teiginys: 'Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulkais, kuriais labiausiai pasitikėjo.'
+  teiginys: "Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulkais, kuriais labiausiai pasitikėjo."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "86445-86946; hash=98b2658864152d32c1615e5b7dff1e2f809caca0526117eb8856d8f5ac150144; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaidanovas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Starodubas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kaidanovas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Starodubas\" parinktas kaip owner_note_path. Targetas \"Kaidanovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-003
+    - c-168517
 
 <a id="claim-t-187657"></a>
 - t-004
   global_id: t-187657
-  teiginys: 'Lietuvos metraštis Skirmantą vadina didžiuoju kunigaikščiu ir pasakoja, kad po pergalės prie Kaidanovo jis Rusų žemėje paėmė Starodubą.'
+  teiginys: "Lietuvos metraštis Skirmantą vadina didžiuoju kunigaikščiu ir pasakoja, kad po pergalės prie Kaidanovo jis Rusų žemėje paėmė Starodubą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Skirmantas užėmė Starodubas (0.90); Skirmantas užėmė Mozyrius (0.86); Skirmantas užėmė Karačevas (0.84)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "86445-86946; hash=98b2658864152d32c1615e5b7dff1e2f809caca0526117eb8856d8f5ac150144; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Starodubas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skirmantas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Starodubas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Skirmantas paėmė Starodubo miestą."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-004
+    - c-170600
+
+<a id="claim-t-193233"></a>
+- t-005
+  global_id: t-193233
+  teiginys: "Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paupiai."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "405232-405448; hash=e626d27ed85308b0956fb365077fb4eee79eba9851cc13e78b908da43d79bc95; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-175970
 - susijęs iš Karačevas: Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų žemę ir paėmęs Karačevą su kitais miestais.
 - susijęs iš Karačevas: Skirmantas po pergalės prieš chaną Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą.
 - susijęs iš [[objektai/ivykiai/Skirmanto pergalė prie Kaidanovo.md#claim-t-187490|Skirmanto pergalė prie Kaidanovo]]: Lietuvos metraštis pasakoja, kad po pergalės Skirmantas užėmė Mozyriaus, Černigovo, Starodubo ir Karačevo miestus.
@@ -111,6 +193,7 @@ Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paup
     Trubčevską valdąs Audriaus brolis Dimitras be mūšio atidavė savo
     valdą. Jis _pasidavė_ Maskvai, gaudamas Perejeslavlį.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -137,6 +220,7 @@ Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paup
     Seversko žemė — Černigovas, Starodubas, Naugardas ir
     Rylskas.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -163,6 +247,7 @@ Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paup
     pabėgo, kareiviai apiplėšė stovyklą, tačiau karalius,
     didikų patartas, nesiryžo persekioti maskvėnų.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -187,11 +272,132 @@ Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paup
     Turėjo didysis kunigaikštis Skirmantas tris sūnus:
     vieną Treniotą IS , antrą Liubartą l6 , trečią Pisimantą l7 .
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
+- c-005
+  santrauka: 'Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paupiai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tačiau amžinosios taikos
+    jam nepasisekė padaryti; buvo pasirašytos tik 6 metų paliaubos.
+    Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Sta-
+    rodubas ir Okos paupiai. Taigi Maskvos sienos jau siekė Dniep-
+    rą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-005
+
+## Citatos
+
+- id: c-32441
+  citata_originali: |
+    Laikydamas save tikruoju tėvo sosto paveldėtoju, Andrius
+    tuoj po 1377 m. virto Jogailos priešu ir sąjungon prieš jį traukė
+    šiaurinius Lietuvos kaimynus. Nuvykęs Maskvon, jis prikalbėjo
+    kunigaikštį Dimitrą žygiui į Lietuvą, ir šio kariuomenė 1379-
+    1380 m. žiemą užėmė Starodubą ir Trubčevską, nes Brianską ir
+    Trubčevską valdąs Audriaus brolis Dimitras be mūšio atidavė savo
+    valdą. Jis _pasidavė_ Maskvai, gaudamas Perejeslavlį.
+  citata_rodoma: "Nuvykęs Maskvon, jis prikalbėjo\nkunigaikštį Dimitrą žygiui į Lietuvą, ir šio kariuomenė 1379-\n1380 m. žiemą užėmė Starodubą ir Trubčevską, nes Brianską ir\nTrubčevską valdąs Audriaus brolis Dimitras be mūšio atidavė savo\nvaldą. Jis _pasidavė_ Maskvai, gaudamas Perejeslavlį."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-69312
+
+- id: c-168516
+  citata_originali: |
+    Kaip
+    atlyginimą už išdavystę, prisiekdamas visomis švente­
+    nybėmis, pažadėjo, kad jie paveldėsią miestus ir kraš­
+    tus, kurie bus nuo Lietuvos atplėšti. Žmonės, didžiai
+    nepalankūs Aleksandrui bei Lietuvai dėl skirtingo ti-
+    558
+
+    ## Puslapis 557
+
+    kėjimo, netruko pasiduoti įkalbami ir užmiršti ankš­
+    čiau duotą žodį. Sutelkę jėgas, visi kartu užpuolė
+    Brianską ir dėl rusų klastingos išdavystės be vargo
+    užėmė miestą, o netrukus prie išdavikų prisidėjo visa
+    Seversko žemė — Černigovas, Starodubas, Naugardas ir
+    Rylskas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185155
+
+- id: c-168517
+  citata_originali: |
+    Maskvėnai tvirtino,
+    kad didysis kunigaikštis jiems neleidęs stoti į atvirą
+    mūšį, todėl apie vidurnaktį, nepaisydami nei vadų, nei
+    605
+
+    ## Puslapis 604
+
+    įsakymų, o šaukdami ir triukšmaudami, paliko stovyk­
+    lą bei gurguoles ir pasileido sprukti per miškus ir pel­
+    kes. Po šio įvykio Glinskis, nelyginant sumažėjęs ne
+    tik savo šalininkų, bet ir savo paties akyse, pasitraukė
+    į Starodubą su išsaugotais pulkais, kuriais labiausiai
+    pasitikėjo. Kai, išaušus dienai, paaiškėjo, jog priešas
+    pabėgo, kareiviai apiplėšė stovyklą, tačiau karalius,
+    didikų patartas, nesiryžo persekioti maskvėnų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185156
+
+- id: c-170600
+  citata_originali: |
+    50
+
+    ## Puslapis 48
+
+    Didysis kunigaikštis Skirmantas, surinkęs visas sa­
+    vo kariaunas, pasitiko juos Kaidanove l0 , prie savo sie­
+    nos. Nugalėjo tą chaną, ir sumušė visą jo totoriškąją
+    galybę, ir nukovė patį chaną ", Su didžios pergalės
+    šlove nužygiavo Rusų žemėn ir paėmė Mozyriaus
+    Černigovo, Starodubo l3 , Karačevo M  miestus, ir, laimė­
+    jęs pergalę, be nuostolių pargrįžo atgalios.
+    Turėjo didysis kunigaikštis Skirmantas tris sūnus:
+    vieną Treniotą IS , antrą Liubartą l6 , trečią Pisimantą l7 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187657
+
+- id: c-175970
+  citata_originali: |
+    Tačiau amžinosios taikos
+    jam nepasisekė padaryti; buvo pasirašytos tik 6 metų paliaubos.
+    Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Sta-
+    rodubas ir Okos paupiai. Taigi Maskvos sienos jau siekė Dniep-
+    rą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193233
 
 ## Ryšiai
 - Užėmė Starodubą: [[objektai/asmenys/Mykolas]], [[objektai/asmenys/Skirmantas]]

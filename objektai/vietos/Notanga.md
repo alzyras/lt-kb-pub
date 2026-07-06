@@ -11,6 +11,18 @@ tags:
   - sutartis
   - upė
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Notanga
 
@@ -23,51 +35,125 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 <a id="claim-t-91217"></a>
 - t-001
   global_id: t-91217
-  teiginys: 'Petro iš Dusburgo kronikoje Notanga nurodoma kaip viena iš vienuolikos Prūsijos žemės dalių.'
+  teiginys: "Petro iš Dusburgo kronikoje Notanga nurodoma kaip viena iš vienuolikos Prūsijos žemės dalių."
+  semantiniai_rysiai: "Notanga priklausė Prūsija (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "6170-6754; hash=98300e6f36c0a1943451939476f38aa38804f53f3bea51fbd971bea16d686b9a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Prūsija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Notanga: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Notanga išvardijama kaip viena iš Prūsijos žemės dalių."
   pagrindžia:
-    - c-005
+    - c-86944
 
 <a id="claim-t-91218"></a>
-- t-002
+- t-003
   global_id: t-91218
-  teiginys: 'Magistro pasiųsti broliai ir ginklanešiai įsibrovė į Notangą, degino ir grobė, bet grįždami rado priešų užstotus kelius.'
+  teiginys: "Magistro pasiųsti broliai ir ginklanešiai įsibrovė į Notangą, degino ir grobė, bet grįždami rado priešų užstotus kelius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "333703-334409; hash=745c2b70bd24c45432ce7d6aff3c92828a25aeddce7ab78987f28fd6ad539291; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baiga: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Notanga: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Baiga: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Notanga\" parinktas kaip owner_note_path. Targetas \"Baiga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-86942
 
 <a id="claim-t-91219"></a>
-- t-003
+- t-005
   global_id: t-91219
-  teiginys: 'Netikėlių kariuomenė įsibrovė į Notangą, degindama ir plėšdama nusiaubė didžiąją jos dalį ir nužudė arba paėmė į nelaisvę 250 krikščionių.'
+  teiginys: "Netikėlių kariuomenė įsibrovė į Notangą, degindama ir plėšdama nusiaubė didžiąją jos dalį ir nužudė arba paėmė į nelaisvę 250 krikščionių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "603281-603597; hash=356681819b47ba874760d0cb8bafe753345204c3a90eeea7b12534ec25a26e5a; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ryga: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Notanga: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Ryga: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Notanga\" parinktas kaip owner_note_path. Targetas \"Ryga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-86943
 
 <a id="claim-t-91220"></a>
-- t-004
+- t-002
   global_id: t-91220
-  teiginys: 'Notanga šiaurės rytuose siekė Unzatrapio žemę prie Priegliaus ir Alnos santakos.'
+  teiginys: "Notanga šiaurės rytuose siekė Unzatrapio žemę prie Priegliaus ir Alnos santakos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "191003-191329; hash=ca0db4eb6251ae823628945e6d0fd31851f722a6ab9b460dadc1ee3650814796; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Notangai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Notanga: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Notangai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Notanga\" parinktas kaip owner_note_path. Targetas \"Notangai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-86945
 
 <a id="claim-t-91221"></a>
-- t-005
+- t-004
   global_id: t-91221
-  teiginys: 'Komtūro kariuomenė įsibrovė į taikos sutarčių nepripažinusį Notangos pakraštį, jį nuniokojo ir nužudė vadą Gadiką su dviem sūnumis.'
+  teiginys: "Komtūro kariuomenė įsibrovė į taikos sutarčių nepripažinusį Notangos pakraštį, jį nuniokojo ir nužudė vadą Gadiką su dviem sūnumis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "358270-358813; hash=e3ae7783b33f174dec7640afa4f441727413ade916d7a9dad8eea5717f163f20; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gadikas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Notanga: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gadikas: mention_match, person, gap=47"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Notanga\" parinktas kaip owner_note_path. Targetas \"Gadikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-86941
 
 <a id="claim-t-91222"></a>
 - t-006
   global_id: t-91222
-  teiginys: 'Magistro pasiųsti broliai ir ginklanešiai įsibrovė į Notangą, bet grįždami turėjo atsitraukti į Kriukų kaimą.'
+  teiginys: "Magistro pasiųsti broliai ir ginklanešiai įsibrovė į Notangą, bet grįždami turėjo atsitraukti į Kriukų kaimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "333624-334297; hash=b4c910bc9a9a8165d30d15457b7a3d04675ee0c2619c71acab1ac06641eda60b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Notanga: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=50"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Notanga\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-86940
 
 <a id="claim-t-185073"></a>
 - t-007
   global_id: t-185073
-  teiginys: 'Kariuomenė per Notangos kraštą įžengė į priešų žemę ir Prūsijos centre pasirinko stovyklos vietą.'
+  teiginys: "Kariuomenė per Notangos kraštą įžengė į priešų žemę ir Prūsijos centre pasirinko stovyklos vietą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "174534-175197; hash=9f637ef5828ee5d5c3f47e43b2264d10e1df8333d4c86460d5d9d99fb8b48bfc; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Notanga: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Notanga\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-168434
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175112|Sūduviai-jotvingiai]]: Sūduviai su palyginti nedidele kariuomene įsiveržė į Notangą, apiplėšė nedidelę jos dalį ir pasitraukė.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-183903|Sūduviai-jotvingiai]]: Sūduviai su palyginti nedidele kariuomene įsiveržė į Notangą, apiplėšė nedidelę jos dalį ir pasitraukė.
 - susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-183900|Sūduviai]]: Sūduviai su palyginti nedidele kariuomene įsiveržė į Notangą, apiplėšė nedidelę jos dalį ir pasitraukė.
@@ -116,7 +202,6 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - susijęs iš [[objektai/ivykiai/Pomando gudrybė, Baigos apgulties pralaužimas ir Partigalos bei kuoro sunaikinimas.md#claim-t-59398|Pomando gudrybė, Baigos apgulties pralaužimas ir Partigalos bei kuoro sunaikinimas]]: Pomandas apsimetė tikėjimo priešu ir paskatino Varmės, Notangos bei Bartos karius apsupti Baigos pilį.
 - susijęs iš [[objektai/ivykiai/Sūduvių žygis į Notangą ir jų išblaškymas.md#claim-t-183966|Sūduvių žygis į Notangą ir jų išblaškymas]]: Ordino broliai su ginklanešiais persekiojo iš Notangos pasitraukusius sūduvius, daug jų nukovė arba mirtinai sužeidė.
 - susijęs iš [[objektai/ivykiai/Sūduvių žygis į Notangą ir jų išblaškymas.md#claim-t-62495|Sūduvių žygis į Notangą ir jų išblaškymas]]: Sūduviai su palyginti nedidele kariuomene įsiveržė į Notangą, apiplėšė nedidelę jos dalį ir pasitraukė.
-- susijęs iš Prūsijos žemės kronika: 1311 m. Vytenis su didele kariuomene degindamas ir plėšdamas nusiaubė Sembą ir Notangą.
 - susijęs iš Kriukai: Kriukuose Ordino broliai atsitraukė į kaimą, kai po žygio Notangoje rado priešų užstotus kelius.
 - susijęs iš Kroicburgas: Broliai pastatė Kroicburgo pilį Notangos žemėje prie Kaustros upės, siekdami užkirsti kelią prūsų atkryčiui.
 - susijęs iš [[objektai/zodynas/alodas alodinė nuosavybė.md#claim-t-71204|alodas / alodinė nuosavybė]]: Gardino pilininko Dovydo alodas vadinamas dvaru ir buvo Notangos vyrų sudegintas iki pamatų.
@@ -199,6 +284,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     išžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų užstotus, todėl,
     negalėdami prasiveržti, turėjo atsitraukti į kaimą, vardu Kriukai306.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -218,6 +304,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     drauge su dviem jo sūnumis bei daugybe kitų žmonių, o jo žmoną bei visą šeimyną su
     moterimis ir mažais vaikais išsivarė kartu su kitu grobiu.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -237,6 +324,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     negalėdami prasiveržti, turėjo atsitraukti į kaimą, vardu Kriukai306. Prūsai, šitai išvydę,
     juos apsupo, bet nedrįso  į kaimą brautis, o broliai — iš kaimo išeiti  ir stoti  į mūšį.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -254,6 +342,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     dieną netikėlių kariuomenė įsibrovė į Notangą, nusiaubė jos didžiąją dalį, degindama ir
     plėšdama, ir nužudė bei paėmė į nelaisvę 250 krikščionių.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -273,6 +362,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
     Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -289,6 +379,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     Priegliaus ir Alnos santakoje buvusią Unzatrapio (Wohnsdorf) žemę (pastaroji kartais
     priskiriama Notangai).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -329,11 +420,154 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     ko stovyklai vietą, iš kurios patogu bet kuria krypti­
     mi puldinėti priešą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
+## Citatos
+
+- id: c-86940
+  citata_originali: |
+    66(65). Apie susirėmimą Notangoje, kur krito 54 broliai ir daug krikščionių
+
+      Kai prakeiktasis Sventopelkas pasipriešino broliams  ir paskatino Prūsijos žemės
+    naujakrikščius atsimesti nuo tikėjimo, nebegalėjo broliai saugiai keliauti nei sausuma,
+    nei vandenimis — upe žemyn ir aukštyn, nebent tada, kai lydėjo stipri ginkluota palyda.
+    Dėl to magistras pasiuntė daug brolių ir ginklanešių, kurie, pasitelkę Elbingo ir Baigos
+    brolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau,
+    išžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų užstotus, todėl,
+    negalėdami prasiveržti, turėjo atsitraukti į kaimą, vardu Kriukai306.
+  citata_rodoma: "Apie susirėmimą Notangoje, kur krito 54 broliai ir daug krikščionių\n\n  Kai prakeiktasis Sventopelkas pasipriešino broliams  ir paskatino Prūsijos žemės\nnaujakrikščius atsimesti nuo tikėjimo, nebegalėjo broliai saugiai keliauti nei sausuma,\nnei vandenimis — upe žemyn ir aukštyn, nebent tada, kai lydėjo stipri ginkluota palyda.\nDėl to magistras pasiuntė daug brolių ir ginklanešių, kurie, pasitelkę Elbingo ir Baigos\nbrolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau,\nišžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų užstotus, todėl,\nnegalėdami prasiveržti, turėjo atsitraukti į kaimą, vardu Kriukai306."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91222
+
+- id: c-86941
+  citata_originali: |
+    76 (75). Apie vienos Notangos dalies nuniokojimą
+
+      Tas pats komtūras sutelkė kariuomenę su Vonsdorfo vyrais ir kai kuriais kitais [prūsais],
+    kurie jam buvo paklusnūs,  ir įsibrovė  į vieną Notangos žemės pakraštį [confinium],
+    nenorėjusį pritarti taikos sutartims, pastaruoju metu sudarytoms su kitomis [žemėmis],
+    ir jį nuniokojo, plėšdamas bei degindamas. Šio pakraščio vadą, vardu Gadikas338, nužudė
+    drauge su dviem jo sūnumis bei daugybe kitų žmonių, o jo žmoną bei visą šeimyną su
+    moterimis ir mažais vaikais išsivarė kartu su kitu grobiu.
+  citata_rodoma: "Apie vienos Notangos dalies nuniokojimą\n\n  Tas pats komtūras sutelkė kariuomenę su Vonsdorfo vyrais ir kai kuriais kitais [prūsais],\nkurie jam buvo paklusnūs,  ir įsibrovė  į vieną Notangos žemės pakraštį [confinium],\nnenorėjusį pritarti taikos sutartims, pastaruoju metu sudarytoms su kitomis [žemėmis],\nir jį nuniokojo, plėšdamas bei degindamas. Šio pakraščio vadą, vardu Gadikas338, nužudė\ndrauge su dviem jo sūnumis bei daugybe kitų žmonių, o jo žmoną bei visą šeimyną su\nmoterimis ir mažais vaikais išsivarė kartu su kitu grobiu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91221
+
+- id: c-86942
+  citata_originali: |
+    Kai prakeiktasis Sventopelkas pasipriešino broliams  ir paskatino Prūsijos žemės
+    naujakrikščius atsimesti nuo tikėjimo, nebegalėjo broliai saugiai keliauti nei sausuma,
+    nei vandenimis — upe žemyn ir aukštyn, nebent tada, kai lydėjo stipri ginkluota palyda.
+    Dėl to magistras pasiuntė daug brolių ir ginklanešių, kurie, pasitelkę Elbingo ir Baigos
+    brolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau,
+    išžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų užstotus, todėl,
+    negalėdami prasiveržti, turėjo atsitraukti į kaimą, vardu Kriukai306. Prūsai, šitai išvydę,
+    juos apsupo, bet nedrįso  į kaimą brautis, o broliai — iš kaimo išeiti  ir stoti  į mūšį.
+  citata_rodoma: "Dėl to magistras pasiuntė daug brolių ir ginklanešių, kurie, pasitelkę Elbingo ir Baigos\nbrolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau,\nišžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų užstotus, todėl,\nnegalėdami prasiveržti, turėjo atsitraukti į kaimą, vardu Kriukai306."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91218
+
+- id: c-86943
+  citata_originali: |
+    Kitą
+      552 D — castri Molendini novi, Jer.— Nûwenmul, Nûwemul; vėliau vok. Neuermūhlen,
+    dab. Adažiai, pilis į šiaurės rytus nuo Rygos (Tuulse A., Die Burgen..., p. 133).
+
+    dieną netikėlių kariuomenė įsibrovė į Notangą, nusiaubė jos didžiąją dalį, degindama ir
+    plėšdama, ir nužudė bei paėmė į nelaisvę 250 krikščionių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91219
+
+- id: c-86944
+  citata_originali: |
+    Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
+    artimai  sieja  kalbos,  kultūros,  tradicijų,  senosios  religijos bendrumas,  teritorijos
+    vientisumas.
+      Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
+    atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
+    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
+    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
+    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
+  citata_rodoma: "Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ\n(Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba\n(Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),\nBárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91217
+
+- id: c-86945
+  citata_originali: |
+    Teritorija  į rytus nuo Varmės, šiaurėje siekė
+    Priegliaus pakrantes, o rytuose — Alnos upę  (į pietryčius nuo dab. Kaliningrado —
+    imtinai su Bagrationovsku. Pietuose maždaug iki dab. Bartošicės). Siaurės rytuose priėjo
+    Priegliaus ir Alnos santakoje buvusią Unzatrapio (Wohnsdorf) žemę (pastaroji kartais
+    priskiriama Notangai).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91220
+
+- id: c-168434
+  citata_originali: |
+    Į pagalbą buvo sutraukta galybė
+    kariuomenės iš Vokietijos: puikiai ginkluotų karių,
+    patyrusių kariauti vadų; rodėsi, jog nieko netrūksta
+    Prūsijos ir Žemaitijos žemdirbiams išžudyti. Per No-
+    tangos kraštą įžengę į priešų žemę, jie, ketindami per­
+    kelti karo židinį į šalies gilumą, Prūsijos centre parin­
+    P rūsai
+    išsiža d a
+    k r i­
+    k ščio n ių
+    tik ė jim o  ir
+    a tsim e ta
+    n u o
+    k r y ­
+    žiu o čių
+    riuos beįmanė pagauti, žiau­
+    riai nukankino; jie nepaliko
+    neišniekinę nė vienos krikš­
+    čionių
+    šventenybės,
+    kurią
+    tik valiojo pasiekti jų stai­
+    gus įsiūtis. Todėl krikščio-
+    106
+
+    ## Puslapis 105
+
+    ko stovyklai vietą, iš kurios patogu bet kuria krypti­
+    mi puldinėti priešą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185073
 
 ## Ryšiai
 - Puolė Notangą: [[objektai/asmenys/Fridrichas iš Holdenštetės]], [[objektai/grupes/Sūduviai]], [[objektai/grupes/Unzatrapio žemės gyventojai]], [[objektai/asmenys/Vytenis (Lietuvos karalius)]]

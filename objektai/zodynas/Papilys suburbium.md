@@ -16,6 +16,18 @@ tags:
   - sąvoka
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Papilys suburbium
 
@@ -28,24 +40,59 @@ amziai:
 <a id="claim-t-86505"></a>
 - t-001
   global_id: t-86505
-  teiginys: '1317 metais Ragainės komtūras Fridrichas de Libencelė su 150 žmonių neįstengė užimti Gedimino pilies, bet sudegino jos papilį.'
+  teiginys: "1317 metais Ragainės komtūras Fridrichas de Libencelė su 150 žmonių neįstengė užimti Gedimino pilies, bet sudegino jos papilį."
+  temporaliniai_duomenys: "įvykio data: 1317 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie papilį ir atitinka citatos informaciją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "126745-127051; hash=fbfee0e2b6651885a6698d952884981357cba8e3ad603de44459e28dec800ca4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dusburgas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Papilys suburbium: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Dusburgas: mention_match, author"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Papilys suburbium\" parinktas kaip owner_note_path. Targetas \"Dusburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-82485
 
 <a id="claim-t-86506"></a>
 - t-002
   global_id: t-86506
-  teiginys: 'Ragainės komtūras Tomas Aldenburgas su 44 broliais ir 400 vyrų iš Sembos bei Natangos švintant sudegino Gedimino pilies papilį.'
+  teiginys: "Ragainės komtūras Tomas Aldenburgas su 44 broliais ir 400 vyrų iš Sembos bei Natangos švintant sudegino Gedimino pilies papilį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "127977-128407; hash=51d266c1fcbe1eb52f8e15cafc6f11da4839d17f0c82e27a2a42c82489eb20db; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Papilys suburbium: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=16"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Papilys suburbium\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-82484
 
 <a id="claim-t-183835"></a>
 - t-003
   global_id: t-183835
-  teiginys: '1324 metų birželio 11 dieną Ragainės komtūras Tomas Aldenburgas netikėtai užpuolė ir sudegino Gedimino pilies papilį.'
+  teiginys: "1324 metų birželio 11 dieną Ragainės komtūras Tomas Aldenburgas netikėtai užpuolė ir sudegino Gedimino pilies papilį."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "126914-127644; hash=edc28fbdbea24470403716f039f847f60fe1c002c0022391b0430fe7430c8be6; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> papilys: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Papilys suburbium: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "papilys: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Papilys suburbium\" parinktas kaip owner_note_path. Targetas \"papilys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
-
+    - c-167220
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -66,6 +113,7 @@ amziai:
     Gedemini, et incendio destruxerunt
     etc.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -83,6 +131,7 @@ amziai:
     chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė
     jos užimti, o tik sudegino papilį.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -107,8 +156,72 @@ amziai:
     rum Gedemini jau 1304 metais buvo, o Vilniaus pilis tik 1322
     metais pastatyta.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-82484
+  citata_originali: |
+    Tai­
+    gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs
+    būti ta vadinama Castrum Gedemini, yra visiškai atmestina.
+    Mes net veikiau Veliuonoje negu Vilniuje tą Gedimino pilį
+    manytume buvus.
+    g
+    Post haec XI Kalendas Junii Fr. Tho­
+    mas de Aldenburg Commendator de Ra-
+    ganita et 44 fratres cum 400 viris de
+    Sambia et Nattangia improvise intra­
+    verunt in ortu diei suburbium Castri
+    Gedemini, et incendio destruxerunt
+    etc.
+  citata_rodoma: "Mes net veikiau Veliuonoje negu Vilniuje tą Gedimino pilį \nmanytume buvus.\ng\nPost haec XI Kalendas Junii Fr. Tho­\nmas de Aldenburg Commendator de Ra- \nganita et 44 fratres cum 400 viris de \nSambia et Nattangia improvise intra­\nverunt in ortu diei suburbium Castri \nGedemini, et incendio destruxerunt\netc."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86506
+
+- id: c-82485
+  citata_originali: |
+    Šitai vyko viešpataujant Lie­
+    tuvoje Vyteniui, kuris mirė apie 1315 metus. Kita užuomina
+    Dusburgo kronikoje apie Castrum Gedemini [Gedimino pilį]
+    yra prie 1317 m. (1. 387); anot jos, Ragainės komtūras Fridri­
+    chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė
+    jos užimti, o tik sudegino papilį.
+  citata_rodoma: "Kita užuomina \nDusburgo kronikoje apie Castrum Gedemini [Gedimino pilį] \nyra prie 1317 m. (1. 387); anot jos, Ragainės komtūras Fridri­\nchas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė \njos užimti, o tik sudegino papilį."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86505
+
+- id: c-167220
+  citata_originali: |
+    387); anot jos, Ragainės komtūras Fridri­
+    chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė
+    jos užimti, o tik sudegino papilį. Trečią kartą šis papilys bu­
+    vo sudegintas 1324 metais; rašo apie tai Dusburgas, kad bir­
+    želio Il dieną, švintant, Ragainės komtūras Tomas Alden-
+    burgas ir 44 broliai su 400 žmonių iš Sembos ir Natangos
+    netikėtai užpuolė Gedimino pilies papilį ir plėnimis palei­
+    do8. Iš to, kas Dusburgo sakoma, peršasi išvados: pirma, kad
+    ta Gedimino pilis, kiek galima susivokti, buvo Lietuvos ar
+    Žemaitijos pasienyje, dėl šito ir su Strijkovskiu sutariama;
+    antra, kad galėjo net prie Nemuno stovėti; pagaliau, kad Cast­
+    rum Gedemini jau 1304 metais buvo, o Vilniaus pilis tik 1322
+    metais pastatyta.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183835

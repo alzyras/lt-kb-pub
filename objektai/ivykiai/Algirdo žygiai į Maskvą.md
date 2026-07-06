@@ -16,6 +16,18 @@ tags:
   - valdovas
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Algirdo žygiai į Maskvą
 
@@ -44,9 +56,23 @@ Nenurodyta
 <a id="claim-t-20161"></a>
 - t-001
   global_id: t-20161
-  teiginys: 'Algirdo pretenzijos, kad visa Rusia turėtų priklausyti lietuviams, liko neįgyvendintos, o Vilnius netapo „antruoju Kijevu“.'
+  teiginys: "Algirdo pretenzijos, kad visa Rusia turėtų priklausyti lietuviams, liko neįgyvendintos, o Vilnius netapo „antruoju Kijevu“."
+  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) surengė žygį į Maskva (0.95)"
+  temporaliniai_duomenys: "įvykio data: 1372 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako įvykio rezultatą ir remiasi citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "62424-62968; hash=cd31a39a314825c93b1b568d329ad727ac65aacad8be401147d1e879016805eb; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Maskva: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Algirdas surengė žygį į Maskvą."
   pagrindžia:
-    - c-001
+    - c-22902
 - susijęs iš Maskva: Lietuvos metraščiuose užrašyti epiniai siužetai apie Gedimino sapną, Algirdo žygius į Maskvą ir Kęstučio bei Birutės meilę.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176279|Algirdas (Lietuvos valdovas)]]: Lietuvos metraščiuose užrašyti Ldk Algirdo žygiai į Maskvą laikomi epinius pasakojimus atitinkančiu siužetu.
 - susijęs iš [[objektai/asmenys/Birutė.md#claim-t-176318|Birutė]]: Birutė neįgijo krikščioniško vardo, buvo palaidota kaip pagonė, o jos legenda išliko ir įsigalint krikščionybei.
@@ -76,11 +102,32 @@ Nenurodyta
     kytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o
     Vilnius nevirto „antruoju Kijevu“.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-22902
+  citata_originali: |
+    XIV a. pradžioje pagrindinėmis varžovėmis dėl jarlyko (chanų duoda-
+    ma privilegija rinkti duoklę Aukso ordai iš kitų rusų kunigaikščių) tapo
+    Tverė ir Maskva, kovą laimėjo pastaroji, įsitvirtinusi ir Vladimire. Rem-
+    damas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmeny-
+    bę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą,
+    tačiau Kremliaus užimti nepajėgė. Taip liko neįgyvendintos Algirdo išsa-
+    kytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o
+    Vilnius nevirto „antruoju Kijevu“.
+  citata_rodoma: "kytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-20161
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

@@ -16,6 +16,18 @@ tags:
   - privilegija
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vancka
 
@@ -28,9 +40,20 @@ Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas
 <a id="claim-t-58742"></a>
 - t-001
   global_id: t-58742
-  teiginys: 'Vancka buvo Pomeranijos kunigaikštystės kraštas, kuriame tuo metu stovėjo Mevės pilis.'
+  teiginys: "Vancka buvo Pomeranijos kunigaikštystės kraštas, kuriame tuo metu stovėjo Mevės pilis."
+  semantiniai_rysiai: "Vancka priklausė Pomeranija (0.90); Vancka priklausė Teutonai (0.82)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "532812-533417; hash=d090b20132791bf63b319ec668680ccd80e4488ac4bf46a6698268a4b09bedcc; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Pomeranija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vancka: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Pomeranija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai apibūdina Vancką kaip Pomeranijos kunigaikštystės kraštą."
   pagrindžia:
-    - c-001
+    - c-59374
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178983|Kryžiuočių ordinas]]: Teutonų ordino broliai pasiliko Vanckos kraštą Pomeranijos kunigaikštystėje, kur vėliau stovėjo Mevės pilis.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178983|Kryžiuočių ordinas]]: Teutonų ordino broliai pasiliko Vanckos kraštą Pomeranijos kunigaikštystėje, kur vėliau stovėjo Mevės pilis.
 ## Reikšmingi paminėjimai
@@ -47,11 +70,31 @@ Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas
     Poterbergo pilį bei visus kitus pastatus ir įkūrė Mevės pilį prie Vyslos toje vietoje, kur ji
     po šiai dienai tebestovi508 Jėzaus Kristaus garbei ir šlovei.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-59374
+  citata_originali: |
+    įrodydamas, jog broliai turi  į jas neginčijamų teisių. Išklausęs abiejų šalių įrodymų,
+    tas pats legatas, broliams atsižadėjus anksčiau minėtųjų privilegijų ir visų teisių į tuos
+    turtus, sutaikė juos štai šiuo pagrindu: Teutonų ordino broliai pasiliksią sau Pomeranijos
+    kunigaikštystėje kraštą, vardu Vancka, kur dabar stovi Mevės pilis, ir šitaip pasibaigsianti
+    tarp jų kilusi nesantarvė. Todėl 1283 viešpaties metais broliai perkėlė iš Kulmo žemės
+    Poterbergo pilį bei visus kitus pastatus ir įkūrė Mevės pilį prie Vyslos toje vietoje, kur ji
+    po šiai dienai tebestovi508 Jėzaus Kristaus garbei ir šlovei.
+  citata_rodoma: "Išklausęs abiejų šalių įrodymų,\ntas pats legatas, broliams atsižadėjus anksčiau minėtųjų privilegijų ir visų teisių į tuos\nturtus, sutaikė juos štai šiuo pagrindu: Teutonų ordino broliai pasiliksią sau Pomeranijos\nkunigaikštystėje kraštą, vardu Vancka, kur dabar stovi Mevės pilis, ir šitaip pasibaigsianti\ntarp jų kilusi nesantarvė. Todėl 1283 viešpaties metais broliai perkėlė iš Kulmo žemės\nPoterbergo pilį bei visus kitus pastatus ir įkūrė Mevės pilį prie Vyslos toje vietoje, kur ji\npo šiai dienai tebestovi508 Jėzaus Kristaus garbei ir šlovei."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58742
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/grupes/Kryžiuočių ordinas]]

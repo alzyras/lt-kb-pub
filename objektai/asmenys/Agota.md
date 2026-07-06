@@ -16,6 +16,18 @@ amziai:
   - 'XIII'
 periodo_grupes:
   - 'viduramžiai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Agota (kunigaikščio žmona, XIII a.)
 
@@ -30,25 +42,59 @@ Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino br
 ## Teiginiai
 
 <a id="claim-t-56965"></a>
-- t-001
+- t-002
   global_id: t-56965
-  teiginys: 'Agotos valia Ordino broliai pasitelkė daug Lenkijos vyrų ir stojo į kovą su Prūsijos kariuomene.'
+  teiginys: "Agotos valia Ordino broliai pasitelkė daug Lenkijos vyrų ir stojo į kovą su Prūsijos kariuomene."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "141328-141820; hash=48ccd79a429722a016327a95511a0394e8c4cc5e87a5d38a3041e4127695b143; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Agota (kunigaikščio žmona, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=43"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Agota (kunigaikščio žmona, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-57666
 
 <a id="claim-t-56966"></a>
-- t-002
+- t-001
   global_id: t-56966
-  teiginys: 'Valdovė Agota po mūšio įsakė surinkti kovos lauke likusius pusgyvius Ordino brolius ir patikėti juos gydytojams.'
+  teiginys: "Valdovė Agota po mūšio įsakė surinkti kovos lauke likusius pusgyvius Ordino brolius ir patikėti juos gydytojams."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "141175-141761; hash=4492fe47c764c49e993123e2dcb4ec55c638741f2454ab019d604fda35494a52; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Agota (kunigaikščio žmona, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Agota (kunigaikščio žmona, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-57667
 
 <a id="claim-t-56967"></a>
 - t-003
   global_id: t-56967
-  teiginys: 'Agota kartu su Boleslovu, Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordino broliams Kulmo ir Lubavos žemes.'
+  teiginys: "Agota kartu su Boleslovu, Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordino broliams Kulmo ir Lubavos žemes."
+  semantiniai_rysiai: "Agota (kunigaikščio žmona, XIII a.) rėmė Teutonai (0.84)"
+  temporaliniai_duomenys: "įvykio data: 1225 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs ir užterštas išnašos numeriu; citata palaiko Agotos pritarimą sprendimui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "141821-143066; hash=61d35884a445e2172105b8dcc3b3434a098eaaa3bd8e45e834924b9d3226a9ec; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Teutonai: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Agota (kunigaikščio žmona, XIII a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Teutonai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Agota pritarė sprendimui dėl Teutonų ordino brolių."
   pagrindžia:
-    - c-001
+    - c-57665
 - susijęs iš [[objektai/asmenys/Konradas (Mazovijos kunigaikštis).md#claim-t-59933|Konradas (Mazovijos kunigaikštis)]]: Konradas, žmonai Agotai ir sūnums pritarus, atidavė Teutonų namų ordino broliams Kulmo ir Lubavos žemes bei būsimas atkariautas žemes.
 - susijęs iš [[objektai/asmenys/Zemovitas.md#claim-t-60471|Zemovitas]]: Zemovitas kartu su Boleslovu, Kazimieru ir Agota pritarė Konrado sprendimui Teutonų ordinui atiduoti Kulmo ir Lubavos žemes.
 - susijęs iš [[objektai/asmenys/Boguslavas (jaunesnysis Dirsovijos grafas).md#claim-t-60252|Boguslavas (jaunesnysis Dirsovijos grafas)]]: Jaunesnysis Dirsovijos grafas Boguslavas buvo tarp liudytojų, dalyvavusių apie 1226 ar 1230 m. patvirtinant žemių dovanojimą.
@@ -88,6 +134,7 @@ Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino br
     teisių, nei nuosavybės ir pasižadėdamas nesiimti jokių teisinių ar faktinių veiksmų, kurie
     šiuo atveju galėtų praversti jam pačiam, jo žmonai, jo vaikams ar jų palikuonims.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -106,6 +153,7 @@ Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino br
     likusius pusgyvius brolius ir patikėti juos gydytojų priežiūrai. Broliai pagydyti protingai
     užbaigė jiems patikėtą reikalą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -124,11 +172,73 @@ Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino br
     sugautą lenkų kariuomenės vadą. Minėtoji valdovė po mūšio įsakė surinkti kovos lauke
     likusius pusgyvius brolius ir patikėti juos gydytojų priežiūrai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-57665
+  citata_originali: |
+    Juos išklausęs, minėtasis valdovas Konradas, Lenkijos
+    kunigaikštis, kaip jau esame sakę, nuodugniai visą reikalą apsvarstęs, be to, patartas
+      168 Dobrynė — deš. Vyslos krante aukščiau Vloclaveko, to pat vardo žemės, šiaurėje
+    besiribojančios su prūsų teritorija, centras.
+      169 Kaimas Sedlce (D.— Cedelicze) buvęs  į pietus nuo Vyslos, kiek  į šiaurę nuo
+    Inovroclavo (minimas XIII a. 3—4 dešimtmečių dokumentuose). Kaip Dobrynės ordino
+    palikimas  atiteko kryžiuočiams (Guldon  Z., Powierski  J.  Podziały...,  p. 173—174,
+    žemėlapis Nr. 6).
+      170 Dobrynės ordiną prūsai galėjo pulti 1224—1225 m. (Powierski J. Przekaz..., p.
+    411).
+
+    savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam
+    pritarė ir vieningai viską palaikė, atidavė Teutonų namų ordino broliams, jau dabar čia
+    esantiems ir ateityje atvyksiantiems, Kulmo ir Lubavos žemes, be to, tas žemes, kurias,
+    viešpaties padedami, jie ateityje atkariausią iš netikėlių, suteikdamas jiems per amžius
+    visas teises bei visas naudas, jo bei jo pirmtakų čia turėtas, nepasilaikydamas sau nei
+    teisių, nei nuosavybės ir pasižadėdamas nesiimti jokių teisinių ar faktinių veiksmų, kurie
+    šiuo atveju galėtų praversti jam pačiam, jo žmonai, jo vaikams ar jų palikuonims.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-56967
+
+- id: c-57666
+  citata_originali: |
+    Minėtieji broliai, valdovės
+    Agotos, kunigaikščio žmonos, valia pasitelkę daug Lenkijos vyrų, narsiai stojo  į kovą,
+    tačiau prūsai, puolę iš priekio, jau pirmajame susirėmime lenkams pasileidus bėgti,
+    minėtuosius brolius mirtinai sužeidė ir daugybę žmonių išžudė, o su savimi nusivedė
+    sugautą lenkų kariuomenės vadą. Minėtoji valdovė po mūšio įsakė surinkti kovos lauke
+    likusius pusgyvius brolius ir patikėti juos gydytojų priežiūrai. Broliai pagydyti protingai
+    užbaigė jiems patikėtą reikalą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-56965
+
+- id: c-57667
+  citata_originali: |
+    Kai šie vyko į Lenkiją, kunigaikštis buvo kažkur toli iškeliavęs, o į Lenkijos žemę įsibrovė
+    prūsų kariuomenė  ir ją nuniokojo gaisrais  ir grobstymais. Minėtieji broliai, valdovės
+    Agotos, kunigaikščio žmonos, valia pasitelkę daug Lenkijos vyrų, narsiai stojo  į kovą,
+    tačiau prūsai, puolę iš priekio, jau pirmajame susirėmime lenkams pasileidus bėgti,
+    minėtuosius brolius mirtinai sužeidė ir daugybę žmonių išžudė, o su savimi nusivedė
+    sugautą lenkų kariuomenės vadą. Minėtoji valdovė po mūšio įsakė surinkti kovos lauke
+    likusius pusgyvius brolius ir patikėti juos gydytojų priežiūrai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-56966
 
 ## Ryšiai
 - Agota (kunigaikščio žmona, XIII a.) rėmė [[objektai/grupes/Teutonai]]

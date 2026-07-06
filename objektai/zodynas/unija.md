@@ -12,6 +12,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # unija
 
@@ -22,25 +34,74 @@ Valstybinė santvarka po Liublino unijos.
 ## Teiginiai
 
 <a id="claim-t-72004"></a>
-- t-001
+- t-006
   global_id: t-72004
-  teiginys: 'Apsisaugojęs nuo Lenkijos nauja unija, Vytautas traukėsi nuo Ordino ir siekė atsiimti Žemaitiją.'
+  teiginys: "Apsisaugojęs nuo Lenkijos nauja unija, Vytautas traukėsi nuo Ordino ir siekė atsiimti Žemaitiją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "185154-185757; hash=bda68a54781eb92f96eab0b181fb1f1092d494dc51423f496185141431debda6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Žemaitija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "unija: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Žemaitija: mention_match, place, gap=54"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"unija\" parinktas kaip owner_note_path. Targetas \"Žemaitija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-14717
 
 <a id="claim-t-72005"></a>
-- t-002
+- t-004
   global_id: t-72005
-  teiginys: 'Nauja unija padėjo Vytautui apsisaugoti nuo Lenkijos ir trauktis nuo Ordino, siekiant atsiimti Žemaitiją.'
+  teiginys: "Nauja unija padėjo Vytautui apsisaugoti nuo Lenkijos ir trauktis nuo Ordino, siekiant atsiimti Žemaitiją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "185154-185757; hash=bda68a54781eb92f96eab0b181fb1f1092d494dc51423f496185141431debda6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "unija: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=38"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"unija\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-14717
 
 <a id="claim-t-184641"></a>
-- t-003
+- t-007
   global_id: t-184641
-  teiginys: '1566 m. Lietuvoje nerimą kėlė tai, kad karaliui mirus iki unijos sudarymo lenkai gali liautis teikę pagalbą.'
+  teiginys: "1566 m. Lietuvoje nerimą kėlė tai, kad karaliui mirus iki unijos sudarymo lenkai gali liautis teikę pagalbą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1566 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir išlaikytas citatos faktas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1322093-1323099; hash=8a5b6c214a7f8ca0de9419a1f4a5ed55f0145880caeebb2eef5e3ced6ab85c60; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "unija: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=16"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"unija\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-168002
+
+<a id="claim-t-193383"></a>
+- t-008
+  global_id: t-193383
+  teiginys: "Be abejo, jie n o rė jo unijos, b et tokios, k ad n eb ū tų p ažeistas v a l stybės orum as, p ak e ista p areig y b ės ir teism ai, b e to, įstatym ai, p riv ileg ijo s, p ap ro čiai, p ag aliau L ietuvos Di džiosios K unig aik šty stės sienos."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1325015-1325549; hash=b4c6d09438753acb66526f63b4c610ab990296ed853686cb6a982009af44decb; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176108
 - susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-188627|Teodoras Narbutas]]: Teodoras Narbutas LTI apžvelgė politinę ir kultūrinę lietuvių raidą nuo seniausių laikų iki 1569 m. Liublino unijos.
 - susijęs iš [[objektai/autoriai/Kochanovskis.md#claim-t-184239|Kochanovskis]]: Kochanovskis Lenkijos ir Lietuvos unijos sumanymą vadino genialia mintimi, pralenkusia amžius ir kartas.
 - susijęs iš [[objektai/autoriai/Kochanovskis.md#claim-t-35454|Kochanovskis]]: Kochanovskis uniją su Lietuva vadino genialia mintimi, pralenkusia ištisus amžius ir kartas.
@@ -144,6 +205,7 @@ Valstybinė santvarka po Liublino unijos.
 - susijęs iš [[objektai/zodynas/lenkinti.md#claim-t-36804|lenkinti]]: Kochanovskio nuomone, Horodlės unija Vytautas siekė ne lenkinti Lietuvą, bet ją civilizuoti.
 - susijęs iš [[objektai/zodynas/perdėtinis.md#claim-t-36823|perdėtinis]]: Vytauto santykiai su Lenkija buvo apibrėžti kaip valdomojo su aukštesniu perdėtiniu.
 - susijęs iš [[objektai/zodynas/įpėdinis.md#claim-t-187547|įpėdinis]]: Pasakojimas apie Vytauto ir Jogailos susitikimą Peremišlyje ir susitarimą dėl įpėdinių žinomas tik iš Bychovco kronikos.
+- susijęs iš Šaurų dvaras: Teodoras Narbutas gimė 1784 m. lapkričio 8 d. Lydos paviete, Šaurų dvare, Jokimo ir Izabelės Narbutų šeimoje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -160,8 +222,9 @@ Valstybinė santvarka po Liublino unijos.
     kęs reikalus rytuose ir viduje, ėmė trauktis nuo Ordino, dė­
     damas pastangų atsiimti lietuvišką kraštą — Žemaitija.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -198,8 +261,105 @@ Valstybinė santvarka po Liublino unijos.
     ju n g ai, k u ri b ū tų  užbaigusi p o rą šim tm ečių u žtru k u sias
     ab ie jų  šalių p astan g as.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+- c-003
+  santrauka: 'Be abejo, jie n o rė jo unijos, b et tokios, k ad n eb ū tų p ažeistas v a l stybės orum as, p ak e ista p areig y b ės ir teism ai, b e to, įstatym ai, p riv ileg ijo s, p ap ro čiai, p ag aliau L ietuvos Di džiosios K unig aik šty stės sienos.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    K okį atsak y m ą
+    g avo p asiuntin iai, šaltin iai n erašo . K ad iš esm ės n iek o
+    n eb u v o  su tarta, rodo v ėlesn i įvykiai: p asiu n tin iam s b u ­
+    v o  u žd rau sta b et k ą  spręsti, ir jie  tu rė jo  ap ie v isk ą p ra ­
+    n ešti luom am s, susirinkusiem s į B resto seim ą. Be abejo,
+    jie  n o rė jo  unijos, b et tokios, k ad n eb ū tų  p ažeistas v a l­
+    stybės orum as, p ak e ista p areig y b ės ir teism ai, b e to,
+    įstatym ai, p riv ileg ijo s, p ap ro čiai, p ag aliau  L ietuvos Di­
+    džiosios K unig aik šty stės sienos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-004
+
+## Citatos
+
+- id: c-14717
+  citata_originali: |
+    Vytautas, aptvarkęs šiek tiek santykius su Lenkija ir su­
+    stiprinęs savo padėtį viduje, vėl ėmė nesutikti su Ordinu. Tam
+    buvo priežasčių. Nors Vytautas, darydamas Salyno taiką ir
+    buvo jam pavedęs Žemaičius, bet jie geruoju naujiems šeiminin­
+    kams nepasidavė ir nemanė pasiduoti: reikėjo juos jėga užka­
+    riauti. Jie į tai atsakydavo sukilimais, kuriuos Ordinas žiau­
+    riai malšindavo. Tame darbe jiems iš pradžių talkininkavo ir
+    Vytautas. Bet apsisaugojęs nuo Lenkijos nauja unija, sutvar­
+    kęs reikalus rytuose ir viduje, ėmė trauktis nuo Ordino, dė­
+    damas pastangų atsiimti lietuvišką kraštą — Žemaitija.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-72005
+    - t-72004
+
+- id: c-168002
+  citata_originali: |
+    K ai žlugo visos v il­
+    ty s sutarti taiką, k araliau s pasiuntiniai v arg ais n eg a­
+    7 3 4
+
+    ## Puslapis 733
+
+    lais p rik alb ė jo  m ask v ėn u s, k ad  Iv an as v ėliau  savo ru o ­
+    žtu p asiu siąs pas k a ra lių  leg atu s, o k o l k as n ei viena,
+    n ei k ita šalis n esig rieb sia n ti ginklo.
+    T uo ta rp u  L ietuvą užgriu-
+    1566 metai
+    v o  d a r didesni rūpesčiai, m at
+    Tariamasi dėl Lietu-
+    p ašlijo  k a raliau s sv eik ata, be
+    vos unijos su Lenkija
+    to, jis n e tu rė jo  įpėdinių, štai
+    to d ėl didelį n erim ą kėlė tai,
+    jo g  le n k a i gali p aliau ti te ik ę  p ag a lb ą k raštu i, įsitra u k u ­
+    siam  į su n k ų  k arą, y p a č  tad a, je ig u  k a rta is k araliu s m ir­
+    tų
+    anksčiau, n ei d a r b ū tų  su ja is su d a ry ta
+    su tartis,
+    k u rią  v ad in a u nija. Ilgą laik ą d au g y b ė v iso k ių  n e p a la n ­
+    k ių  ap lin k y b ių  tru k d ė įsig alėti stip riai d v iejų  ta u tų  są ­
+    ju n g ai, k u ri b ū tų  užbaigusi p o rą šim tm ečių u žtru k u sias
+    ab ie jų  šalių p astan g as.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184641
+
+- id: c-176108
+  citata_originali: |
+    K okį atsak y m ą
+    g avo p asiuntin iai, šaltin iai n erašo . K ad iš esm ės n iek o
+    n eb u v o  su tarta, rodo v ėlesn i įvykiai: p asiu n tin iam s b u ­
+    v o  u žd rau sta b et k ą  spręsti, ir jie  tu rė jo  ap ie v isk ą p ra ­
+    n ešti luom am s, susirinkusiem s į B resto seim ą. Be abejo,
+    jie  n o rė jo  unijos, b et tokios, k ad n eb ū tų  p ažeistas v a l­
+    stybės orum as, p ak e ista p areig y b ės ir teism ai, b e to,
+    įstatym ai, p riv ileg ijo s, p ap ro čiai, p ag aliau  L ietuvos Di­
+    džiosios K unig aik šty stės sienos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193383

@@ -15,6 +15,18 @@ tags:
 amziai:
   - 'XII'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Baltische Geschichte 1180-1918
 
@@ -27,10 +39,12 @@ Wittram : Baltische Geschichte 1180-1918 (WiBG).
 <a id="claim-t-31627"></a>
 - t-001
   global_id: t-31627
-  teiginys: 'R. Wittramo „Baltische Geschichte 1180-1918“ bibliografijoje žymėta santrumpa WiBG.'
+  teiginys: "R. Wittramo „Baltische Geschichte 1180-1918“ bibliografijoje žymėta santrumpa WiBG."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "258423-258632; hash=9e76f197be6861c8485e5c707bace7e37d40faba9162b7d66359a02d0fb4a7d5; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
-
+    - c-33536
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -41,8 +55,25 @@ Wittram : Baltische Geschichte 1180-1918 (WiBG).
     1180-1918_** **(WiBG).**
     (^168) **Pvz., joje t. 5, 1969, yra W. Nöbel :** **_Michael Küchmeister.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33536
+  citata_originali: |
+    — G. von Rauch :** **_Ge­
+    schichte der baltischen Staaten_** **(1970). — R. Wittram :** **_Baltische Geschichte
+    1180-1918_** **(WiBG).**
+    (^168) **Pvz., joje t. 5, 1969, yra W. Nöbel :** **_Michael Küchmeister.
+  citata_rodoma: "— R. Wittram :** **_Baltische Geschichte\n1180-1918_** **(WiBG).**\n(^168) **Pvz."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31627

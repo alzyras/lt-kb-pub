@@ -15,6 +15,18 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'naujieji laikai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Mykolas Biržiška
 
@@ -27,10 +39,22 @@ Biržiška iš jos pasitraukė.
 <a id="claim-t-25694"></a>
 - t-001
   global_id: t-25694
-  teiginys: 'Mykolas Biržiška 1917 m. priklausė Vilniaus konferencijos organizaciniam komitetui.'
+  teiginys: "Mykolas Biržiška 1917 m. priklausė Vilniaus konferencijos organizaciniam komitetui."
+  temporaliniai_duomenys: "priklausymo laikotarpis: 1917 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūksta OCR fragmente, bet citata pakankamai palaiko Biržiškos narystę komitete."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "258721-259330; hash=acfc7bebc8f5ddf4654964dfd4a0822eb2a21927c5cee4462a4eee240d12717d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mykolas Biržiška: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Biržiška\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-26060
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -48,8 +72,32 @@ Biržiška iš jos pasitraukė.
     iš kiekvienos apskrities po 5–8 aktyviausius įvairių socialinių ir politinių
     grupių atstovus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-26060
+  citata_originali: |
+    Vokietijai ir Austrijai paskelbus siekį atkurti Lenkijos valstybę, lietuvių
+    atstovai ėmė kelti Lietuvos klausimą. Vokiečiams modernizuojant anek-
+    sijos ir prisijungimo planus, prireikus tam ir okupuotų lietuvių balso,
+    1917 m. vasarą lietuviams leista surengti konferenciją Vilniuje. Jos orga-
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    133
+    nizacinis komitetas (Mykolas Biržiška, Petras Klimas, A. Smetona, kun.
+    Juozas Stankevičius ir Jurgis Šaulys) į konferencijos dalyvių sąrašą atrinko
+    iš kiekvienos apskrities po 5–8 aktyviausius įvairių socialinių ir politinių
+    grupių atstovus.
+  citata_rodoma: "Vokiečiams modernizuojant anek-\nsijos ir prisijungimo planus, prireikus tam ir okupuotų lietuvių balso, \n1917 m. vasarą lietuviams leista surengti konferenciją Vilniuje. Jos orga-\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n133\nnizacinis komitetas (Mykolas Biržiška, Petras Klimas, A."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-25694

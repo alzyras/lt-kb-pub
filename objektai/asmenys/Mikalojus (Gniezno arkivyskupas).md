@@ -16,6 +16,18 @@ amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Mikalojus (Gniezno arkivyskupas)
 
@@ -28,10 +40,23 @@ Jono, Gniezno arkivysk.
 <a id="claim-t-34813"></a>
 - t-001
   global_id: t-34813
-  teiginys: 'Gniezno arkivyskupas Mikalojus 1415 m. buvo į Konstanciją išsiųstos Lietuvos ir Lenkijos vyskupų delegacijos narys.'
+  teiginys: "Gniezno arkivyskupas Mikalojus 1415 m. buvo į Konstanciją išsiųstos Lietuvos ir Lenkijos vyskupų delegacijos narys."
+  semantiniai_rysiai: "Mikalojus (Gniezno arkivyskupas) keliavo į Konstancija (0.62)"
+  temporaliniai_duomenys: "įvykio data: 1415 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis tekstas per trumpas ir fragmentiškas; citata palaiko konkretų vaidmenį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "278056-278263; hash=d25020b0798e91f69934d828b208770fef47a1ef217927811bc545e8021b683e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Konstancija: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mikalojus (Gniezno arkivyskupas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Konstancija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Mikalojus įvardytas kaip delegacijos, išsiųstos į Konstanciją, narys; tai netiesiogiai patvirtina jo vykimą į Konstanciją."
   pagrindžia:
-    - c-001
-
+    - c-36038
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,11 +67,27 @@ Jono, Gniezno arkivysk.
     po Petro, Lvovo arkivysk. Jono, Gniezno arkivysk. Mikalojaus
     ir Breslavo vysk. Jono.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-36038
+  citata_originali: |
+    Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos
+    ir Lenkijos vyskupų delegacija, susidedanti iš Vilniaus vysku­
+    po Petro, Lvovo arkivysk. Jono, Gniezno arkivysk. Mikalojaus
+    ir Breslavo vysk. Jono.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-34813
 
 ## Ryšiai
 - Mikalojus (Gniezno arkivyskupas) keliavo į [[objektai/vietos/Konstancija]]

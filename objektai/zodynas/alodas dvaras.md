@@ -13,6 +13,18 @@ tags:
   - sąvoka
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # alodas dvaras
 
@@ -25,10 +37,22 @@ Dusburgietis teigia, kad apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinim�
 <a id="claim-t-58887"></a>
 - t-001
   global_id: t-58887
-  teiginys: '1324 m. kovo 1 d. trys broliai ir 600 Notangos vyrų užpuolė Dovydo Gardiniškio alodą, arba dvarą, ir jį sudegino.'
+  teiginys: "1324 m. kovo 1 d. trys broliai ir 600 Notangos vyrų užpuolė Dovydo Gardiniškio alodą, arba dvarą, ir jį sudegino."
+  temporaliniai_duomenys: "įvykio data: 1324 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra faktinis, pilnas ir pagrįstas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "675332-675679; hash=b15cd117e9c9fe000baafe8ced83f3c625899b35a52c646a812f7ca91d72f499; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gardinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "alodas dvaras: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Gardinas: mention_match, place, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"alodas dvaras\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-59519
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,8 +70,31 @@ Dusburgietis teigia, kad apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinim�
 
                    350 (343).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-59519
+  citata_originali: |
+    349 (342). Apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinimą 1324 metais
+
+       Tais pačiais metais, per gavėnią (kovo 1), trys broliai ir šeši šimtai Notangos vyrų
+    smarkiai užpuolė Gardino pilininko Dovydo alodą, arba dvarą, ir jį iki pamatų sudegino;
+    nukovę 38 žmones, išsivarė 100 arklių ir daug kitokių gyvulių.
+
+
+
+
+                   350 (343).
+  citata_rodoma: "Apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinimą 1324 metais\n\n   Tais pačiais metais, per gavėnią (kovo 1), trys broliai ir šeši šimtai Notangos vyrų\nsmarkiai užpuolė Gardino pilininko Dovydo alodą, arba dvarą, ir jį iki pamatų sudegino;\nnukovę 38 žmones, išsivarė 100 arklių ir daug kitokių gyvulių.\n\n\n\n\n               350 (343)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58887

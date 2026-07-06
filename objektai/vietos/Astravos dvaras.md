@@ -18,6 +18,18 @@ tags:
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Astravos dvaras
 
@@ -30,17 +42,61 @@ Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila Astravos dvare, paliai Ly
 <a id="claim-t-72795"></a>
 - t-001
   global_id: t-72795
-  teiginys: '1392 m. rugpjūčio 5 d. Astrave Vytautas ir Ona Jogailai bei Jadvygai duotuose dokumentuose titulavosi Trakų ir Lucko kunigaikščiais.'
+  teiginys: "1392 m. rugpjūčio 5 d. Astrave Vytautas ir Ona Jogailai bei Jadvygai duotuose dokumentuose titulavosi Trakų ir Lucko kunigaikščiais."
+  temporaliniai_duomenys: "įvykio data: 1392 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "843433-843599; hash=90f1cf3349edfc9f3b0d6dc76959d0031f552a889e84d2d2a78944d357ba1280; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Astravas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Astravos dvaras: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Astravas: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Astravos dvaras\" parinktas kaip owner_note_path. Targetas \"Astravas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-31941
+
+<a id="claim-t-72795"></a>
+- t-001
+  global_id: t-72795
+  teiginys: "1392 m. rugpjūčio 5 d. Astrave Vytautas ir Ona Jogailai bei Jadvygai duotuose dokumentuose titulavosi Trakų ir Lucko kunigaikščiais."
+  temporaliniai_duomenys: "įvykio data: 1392 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "843433-843599; hash=90f1cf3349edfc9f3b0d6dc76959d0031f552a889e84d2d2a78944d357ba1280; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Astravas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Astravos dvaras: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Astravas: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Astravos dvaras\" parinktas kaip owner_note_path. Targetas \"Astravas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-31941
 
 <a id="claim-t-72797"></a>
 - t-003
   global_id: t-72797
-  teiginys: 'Vytautas, atsimetęs nuo ordino, Astravos dvare prie Lydos susitaikė su Jogaila.'
+  teiginys: "Vytautas, atsimetęs nuo ordino, Astravos dvare prie Lydos susitaikė su Jogaila."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) valdė Luckas (0.76)"
+  temporaliniai_duomenys: "įvykio data: 1392 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir pataisyta vietos forma."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "240853-241239; hash=d57cfb1bad28e799675ba6d8c10d1abcff8e12423f1c6be33244517800b21e94; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Luckas: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Luckas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata rodo, kad Luckas buvo paliktas Vytautui."
   pagrindžia:
-    - c-002
-
+    - c-46441
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -51,8 +107,9 @@ Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila Astravos dvare, paliai Ly
     duoti dokumentai (1392.VIII.5) rodo, kad jis su Ona jau titulavosi
     Trakų ir Lucko kunigaikščiais2S.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -71,8 +128,43 @@ Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila Astravos dvare, paliai Ly
     tautas už tai pasižadėjo visada pripažinti Jogailos vyriausiąją
     valdžią ir visada jį palaikyti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-31941
+  citata_originali: |
+    Vy­
+    tauto ir jo žmonos Onos Astrave (Ostrowe) Jogailai ir Jadvygai
+    duoti dokumentai (1392.VIII.5) rodo, kad jis su Ona jau titulavosi
+    Trakų ir Lucko kunigaikščiais2S.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-72795
+    - t-72796
+
+- id: c-46441
+  citata_originali: |
+    Astravos**
+        **sutartis (1392 m.)**
+    Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila As-
+    travos dvare, paliai Lydą. Čia buvo sudaryta sutartis, kuria Jo-
+    gaila grąžino Vytautui visas jo tėvo žemes, paliko jam po pirmo-
+    jo grįžimo iš ordino duotąjį Lucką ir pavedė valdyti Vilnių. Vy-
+    tautas už tai pasižadėjo visada pripažinti Jogailos vyriausiąją
+    valdžią ir visada jį palaikyti.
+  citata_rodoma: ")**\nAtsimetęs nuo ordino, Vytautas susitaikino su Jogaila As-\ntravos dvare, paliai Lydą. Čia buvo sudaryta sutartis, kuria Jo-\ngaila grąžino Vytautui visas jo tėvo žemes, paliko jam po pirmo-\njo grįžimo iš ordino duotąjį Lucką ir pavedė valdyti Vilnių. Vy-\ntautas už tai pasižadėjo visada pripažinti Jogailos vyriausiąją\nvaldžią ir visada jį palaikyti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-72797

@@ -19,6 +19,18 @@ tags:
 amziai:
   - 'XI'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Marienverderis
 
@@ -29,18 +41,44 @@ Dusburgietis teigia, kad jo nuomone, Marienverderio pilis pavyslyje pastatyta, �
 ## Teiginiai
 
 <a id="claim-t-184179"></a>
-- t-001
+- t-005
   global_id: t-184179
-  teiginys: 'Antrosios atskalūnybės metais prūsai prie Marienverderio surengė pasalą, užėmė miestą, jį sudegino ir pasitraukė su grobiu.'
+  teiginys: "Antrosios atskalūnybės metais prūsai prie Marienverderio surengė pasalą, užėmė miestą, jį sudegino ir pasitraukė su grobiu."
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "445301-446055; hash=c5415f9510ca8480c9c1929aa5c5008b248abaf9e6001d5987ebb048631bcb48; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_group_context; same_sentence_locality; single_candidate_actor; single_candidate_target"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Marienverderis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Prūsai: mention_match, place, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Marienverderis\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-167564
 
 <a id="claim-t-184180"></a>
-- t-002
+- t-006
   global_id: t-184180
-  teiginys: 'Prūsai antrą kartą sugriovė atstatytą Marienverderio miestą, o dalį miestiečių paėmė į nelaisvę arba nužudė.'
+  teiginys: "Prūsai antrą kartą sugriovė atstatytą Marienverderio miestą, o dalį miestiečių paėmė į nelaisvę arba nužudė."
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "446079-446879; hash=6315e4739bf866355d4139e21c77c2c874c54c2524a41b1d5fdf4d00d74a2001; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Belichovas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Marienverderis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Belichovas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Marienverderis\" parinktas kaip owner_note_path. Targetas \"Belichovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-167565
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178876|Kryžiuočių ordinas]]: 1233 m. magistras ir Kryžiuočių ordino broliai Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu.
 - susijęs iš [[objektai/asmenys/Hermanas (Ordino magistras).md#claim-t-60029|Hermanas (Ordino magistras)]]: Magistras Hermanas su broliais 1233 m. Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90030|Sventopelkas]]: Sventopelkas, Pomeranijos kunigaikštis, su broliu Samboru atvyko padėti statyti Marienverderio miestą.
@@ -102,6 +140,7 @@ Dusburgietis teigia, kad jo nuomone, Marienverderio pilis pavyslyje pastatyta, �
     gyventojų paėmė  į nelaisvę, dalį išžudė, išskyrus tuos, kurie paspruko  į pilį ir šitaip
     išsigelbėjo. Ligi pamatų sugriovę ir sudeginę miestą, prūsai pasitraukė su dideliu grobiu.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -124,11 +163,52 @@ Dusburgietis teigia, kad jo nuomone, Marienverderio pilis pavyslyje pastatyta, �
     žūties, pabėgdami  į pilį, kiti — gindamiesi viename miesto kuore, tuo tarpu likusieji
     buvo arba paimti į nelaisvę, arba užmušti.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-167564
+  citata_originali: |
+    Dėl to, subūrę daugybę karių, antrosios
+    atskalūnybės metais patraukė prie Marienverderio miesto  ir, tinkamoje vietoje įrengę
+    pasalas, įsakė nedideliam būreliui pasirodyti [pilies gynėjams]. Broliai ir miestiečiai su
+    savo ginklanešiais išpuolė į lauką, buvusį tarp miesto ir malūno, smarkiai juos užpuolė,
+    daugybę nukovė ar mirtinai sužeidė; kai jau tikėjosi juos visus iki vieno išžudę, staiga iš
+    pasalų iššoko prūsai ir išmušė visus brolius bei miestiečius, išskyrus kelis, pasprukusius
+    į miestą. Atkakliai juos persekiodami, prūsai po trumpų grumtynių užėmė miestą, dalį
+    gyventojų paėmė  į nelaisvę, dalį išžudė, išskyrus tuos, kurie paspruko  į pilį ir šitaip
+    išsigelbėjo. Ligi pamatų sugriovę ir sudeginę miestą, prūsai pasitraukė su dideliu grobiu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184179
+
+- id: c-167565
+  citata_originali: |
+    Apie antrąjį minėtojo Marienverderio miesto sugriovimą
+
+      Kai  broliai, padėję daug darbo  ir pasidarę daug  išlaidų, atstatė Marienverderio
+    miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė
+    prie Belichovo pilies427, pastatytos Osos pakrantėje ir priklausiusios vienam kilmingam
+    pamedėnui, vardu Jonas, Sarginio sūnui. Iš šios pilies išėjo brolis Konradas Švabas iš
+    Elbingo su daugybe ginklanešių428 ir susirėmė su priešais ietimis; šiose kautynėse abi
+    šalys patyrė didelių nuostolių sužeistaisiais. Po to priešai priartėjo prie Marienverderio
+    miesto ir po ilgų bei sunkių grumtynių vėl jį iš pagrindų sugriovė; vieni miestiečiai išvengė
+    žūties, pabėgdami  į pilį, kiti — gindamiesi viename miesto kuore, tuo tarpu likusieji
+    buvo arba paimti į nelaisvę, arba užmušti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184180
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Hermanas (Ordino magistras)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Odoničius]], [[objektai/asmenys/Samboras]], [[objektai/asmenys/Sventopelkas]]

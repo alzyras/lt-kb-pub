@@ -17,6 +17,18 @@ amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Dimitras Kaributas
 
@@ -27,32 +39,80 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
 ## Teiginiai
 
 <a id="claim-t-50969"></a>
-- t-001
+- t-002
   global_id: t-50969
-  teiginys: 'Vytautas, pritariamas Jogailos, pirmiausia atėmė Sievero žemę iš Dimitro Kaributo.'
+  teiginys: "Vytautas, pritariamas Jogailos, pirmiausia atėmė Sievero žemę iš Dimitro Kaributo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "696053-696564; hash=42ee22519dc5c28bdb626ee7d487e95b14e82814a100f5d181e4c76033e8f389; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dimitras Kaributas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dimitras Kaributas\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-36273
 
 <a id="claim-t-50970"></a>
-- t-002
+- t-001
   global_id: t-50970
-  teiginys: 'Dimitras Kaributas valdė Sievero žemę, kurią Vytautas, pritariamas Jogailos, iš jo atėmė.'
+  teiginys: "Dimitras Kaributas valdė Sievero žemę, kurią Vytautas, pritariamas Jogailos, iš jo atėmė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "696053-696564; hash=42ee22519dc5c28bdb626ee7d487e95b14e82814a100f5d181e4c76033e8f389; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaributas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dimitras Kaributas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kaributas: mention_match, person, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dimitras Kaributas\" parinktas kaip owner_note_path. Targetas \"Kaributas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-36273
 
 <a id="claim-t-184691"></a>
 - t-003
   global_id: t-184691
-  teiginys: 'Sutramdžius Rusią, Dimitras Kaributas buvo pasiųstas į Severską, kad iš tos pusės nekiltų naujų sąmyšių.'
+  teiginys: "Sutramdžius Rusią, Dimitras Kaributas buvo pasiųstas į Severską, kad iš tos pusės nekiltų naujų sąmyšių."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Dimitras Kaributas siuntė į Severskas (0.70)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "497571-498156; hash=34b47d9be10477bf4a60034a36224ffbff8ebdfbfbf4f727dd31fd1d1da4df4b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Severskas: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Dimitras Kaributas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Severskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata išvardija, kur kas buvo pasiųstas ar paliktas; Dimitras Kaributas siejamas su Seversku."
   pagrindžia:
-    - c-002
+    - c-168052
 
 <a id="claim-t-184692"></a>
 - t-004
   global_id: t-184692
-  teiginys: 'Dimitras Kaributas atsisakė mokėti Vytauto pasiuntinių reikalautus pinigus į Lietuvos didžiojo kunigaikščio iždą.'
+  teiginys: "Dimitras Kaributas atsisakė mokėti Vytauto pasiuntinių reikalautus pinigus į Lietuvos didžiojo kunigaikščio iždą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Dimitras Kaributas buvo sūnus Algirdas (Lietuvos valdovas) (0.94); Dimitras Kaributas buvo priešas Vytautas (Lietuvos valdovas, XIV–XV a.) (0.61)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "587875-588460; hash=f05dfa25c7afe66157626fd95ba885d117c7a546440b25d08e44143ef506c75b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Algirdas (Lietuvos valdovas): 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Dimitras Kaributas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citatoje Dimitras aiškiai sako, kad jo tėvas buvo Algirdas."
   pagrindžia:
-    - c-003
+    - c-168053
 - susijęs iš Brianskas: 1393 m. pavasarį Briansko ir Naugardo-Sieversko kunigaikštis Dimitras Kaributas buvo nugalėtas kautynėse ir neteko valdos.
 - susijęs iš Naugardas Sieverskas: Sieversko Naugardo kunigaikštis Dimitras Kaributas pirmasis pakėlė ginklą prieš Vytautą.
 - susijęs iš [[objektai/ivykiai/Vitebsko užėmimas (1392 m.).md#claim-t-31488|Vitebsko užėmimas (1392 m.)]]: Vytautas su Jogailos žinia ir kartu su Skirgaila 1392 m. paėmė Vitebską.
@@ -73,6 +133,7 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
     naičiais Vytautas nepasitikėjo, jais nesirėmė ir kiek leido apy­
     stovos, jų valdžią silpnino.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -100,6 +161,7 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
     štį
     ti į puolantį priešą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -127,11 +189,83 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
     sis kunigaikštis, jog pats esąs karaliaus Jogailos brolis,
     o Vytautui — nieko neskolingas.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
+## Citatos
+
+- id: c-36273
+  citata_originali: |
+    Bet Vytautas su jais nedarė ilgų ce­
+    remonijų. Pritariamas Jogailos, jis pirmiausia atėmė valdomą
+    Sievero žemę iš Dimitro Kaributo, vėliau suvaldė nepaklusnų
+    Podolijos kunigaikštį Karijoto sūnų Teodorą, Volynijos kunigaik­
+    štį Liubarto sūnų Teodorą, Kijevo kunigaikštį Algirdo sūnų Vla­
+    dimirą ir pagaliau kelis kartus turėjo ramdyti (net laikyti kalė­
+    jime) neramųjį Jogailos brolį Švitrigailą^2 ). Apskritai Gedimi­
+    naičiais Vytautas nepasitikėjo, jais nesirėmė ir kiek leido apy­
+    stovos, jų valdžią silpnino.
+  citata_rodoma: "Pritariamas Jogailos, jis pirmiausia atėmė valdomą\nSievero žemę iš Dimitro Kaributo, vėliau suvaldė nepaklusnų\nPodolijos kunigaikštį Karijoto sūnų Teodorą, Volynijos kunigaik­\nštį Liubarto sūnų Teodorą, Kijevo kunigaikštį Algirdo sūnų Vla­\ndimirą ir pagaliau kelis kartus turėjo ramdyti (net laikyti kalė­\njime) neramųjį Jogailos brolį Švitrigailą^2 ). Apskritai Gedimi­\nnaičiais Vytautas nepasitikėjo, jais nesirėmė ir kiek leido apy­\nstovos, jų valdžią silpnino."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-50969
+    - t-50970
+
+- id: c-168052
+  citata_originali: |
+    Po šios per­
+    to karo vadas ir įkvėpėjas, buvo paimtas į nelaisvę ir
+    nusiųstas pas Jogailą, o visa Rusia sutramdyta. Kad nuo
+    tos pusės vėl nekiltų kokia sąmyšių banga, Boleslovas
+    Švitrigaila su nemaža įgula pasiliko Polocke, kitą ka­
+    riuomenę paleidus, Vytautas sugrįžo į Gardiną, Skir­
+    gaila į Trakus, Simonas Lengvenis į Mstislavlį, o į
+    Severską — Dimitras Kaributas. Jogaila, atsikratęs šio
+    karo rūpesčių ir nelaisvėn paimtą brolį Vingaudą iš­
+    siuntęs į Chencinų pilies kalėjimą, ryžtingiau ėmėsi
+    Su m u ša
+    S via to sla vą ,
+    S m o le n sk o  k u n ig a ik ­
+    štį
+    ti į puolantį priešą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184691
+
+- id: c-168053
+  citata_originali: |
+    Vytautas nutarė pirmiausia
+    ištirti jų nuotaikas, todėl pasiuntė žygūnus, turėjusius
+    pareikalauti iš jų valdomų žemių pinigų, kitados pa­
+    prastai kasmet mokamų į Lietuvos didžiojo kunigaikš­
+    čio iždą.
+    Gal jie šitaip elgėsi iš anksto tarp savęs susita­
+    rę, gal kiekvienas viską darė savo galva, tačiau visi
+    išdidžiai atšovė pasiuntiniams, jog nemokėsią, o ypač
+    339
+
+    ## Puslapis 338
+
+    Dimitras, labiau už kitus nesitaikstantis su kito valdžia.
+    Jis atrėžė, jog jo tėvas Algirdas buvęs Lietuvos didy­
+    sis kunigaikštis, jog pats esąs karaliaus Jogailos brolis,
+    o Vytautui — nieko neskolingas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184692
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

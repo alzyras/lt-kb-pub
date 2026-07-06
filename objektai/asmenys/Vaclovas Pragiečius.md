@@ -10,6 +10,18 @@ tags:
   - karalius
   - ordinas
   - paliaubos
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vaclovas Pragiečius
 
@@ -22,24 +34,56 @@ Bet įsikišus Čekų kara­ liui Vaclovui, buvo tarp kariaujančiu pusių padar
 <a id="claim-t-34763"></a>
 - t-001
   global_id: t-34763
-  teiginys: 'Čekų karaliui Vaclovui įsikišus, tarp kariaujančių pusių buvo sudarytos vienų metų paliaubos.'
+  teiginys: "Čekų karaliui Vaclovui įsikišus, tarp kariaujančių pusių buvo sudarytos vienų metų paliaubos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "441689-441919; hash=7562b01933ceb3881647dcf5325c73bcfe15d6015fb01ad474f87b287fa418a2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vaclovas Pragiečius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaclovas Pragiečius\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-35989
 
 <a id="claim-t-34764"></a>
 - t-002
   global_id: t-34764
-  teiginys: 'Vaclovas Pragietis ginčą tarp Vytauto, Jogailos ir Ordino išsprendė Lietuvos nenaudai, atiduodamas Žemaitiją kryžiuočiams.'
+  teiginys: "Vaclovas Pragietis ginčą tarp Vytauto, Jogailos ir Ordino išsprendė Lietuvos nenaudai, atiduodamas Žemaitiją kryžiuočiams."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "441920-442573; hash=30a992908f62959aa705497d6f32a637e772ae94986501811e89812d9e6ebf93; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vaclovas Pragiečius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaclovas Pragiečius\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-35988
 
 <a id="claim-t-184287"></a>
 - t-003
   global_id: t-184287
-  teiginys: 'Vaclovas Pragiečius išsprendė Vytauto, Jogailos ir Ordino ginčą Lietuvos nenaudai.'
+  teiginys: "Vaclovas Pragiečius išsprendė Vytauto, Jogailos ir Ordino ginčą Lietuvos nenaudai."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "441843-442438; hash=d6f6c1aacb1020b9f0e63740873fd9b46dc0899d17fbb236be38f6d80695eadb; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vaclovas Pragiečius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaclovas Pragiečius\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
-
+    - c-167663
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -57,6 +101,7 @@ Bet įsikišus Čekų kara­ liui Vaclovui, buvo tarp kariaujančiu pusių padar
     sprendimas tiek lietuvių, tiek ir lenkų atstovų griežtai buvo at­
     mestas, ir jie užsigavę apleido Pragą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -72,6 +117,7 @@ Bet įsikišus Čekų kara­ liui Vaclovui, buvo tarp kariaujančiu pusių padar
     pažymėta. Jogaila tik pasižadėjo neremti ginklu žemaičių ir tų,
     kurie jų pusę laikytų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -93,8 +139,64 @@ Bet įsikišus Čekų kara­ liui Vaclovui, buvo tarp kariaujančiu pusių padar
     sostą karalių iš Lietuvos ar bendrai iš Rytų Europos, bet tik iš
     Vakarų Europos valdovų tarpo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-35988
+  citata_originali: |
+    Ginčas tarp Vytauto ir Jogailos, iš vienos
+    pusės ir Ordino, iš kitos pusės, buvo pavestas galutinai išspręsti
+    Vaclovui Pragiečiui, kuris jį išsprendė Lietuvos nenaudai: Že­
+    maitija buvo atiduota kryžiuočiams; Jogailai ir Karūnai buvo
+    uždrausta remti Vytautą ir Lietuvą kovose su kryžiuočiais. Ne­
+    nuostabu, kad toks aiškiai tendencingas sprendimas Lenkijoj su­
+    kėlė gandų, esą jai uždrausta kada nors ateity kviestis į savo
+    sostą karalių iš Lietuvos ar bendrai iš Rytų Europos, bet tik iš
+    Vakarų Europos valdovų tarpo. Toks neteisingas klausimo iš­
+    sprendimas tiek lietuvių, tiek ir lenkų atstovų griežtai buvo at­
+    mestas, ir jie užsigavę apleido Pragą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-34764
+
+- id: c-35989
+  citata_originali: |
+    Bet įsikišus Čekų kara­
+    liui Vaclovui, buvo tarp kariaujančiu pusių padarytos viene­
+    riems metams paliaubos. Toj sutarty Lietuva nebuvo aiškiai
+    pažymėta. Jogaila tik pasižadėjo neremti ginklu žemaičių ir tų,
+    kurie jų pusę laikytų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-34763
+
+- id: c-167663
+  citata_originali: |
+    Jogaila tik pasižadėjo neremti ginklu žemaičių ir tų,
+    kurie jų pusę laikytų. Ginčas tarp Vytauto ir Jogailos, iš vienos
+    pusės ir Ordino, iš kitos pusės, buvo pavestas galutinai išspręsti
+    Vaclovui Pragiečiui, kuris jį išsprendė Lietuvos nenaudai: Že­
+    maitija buvo atiduota kryžiuočiams; Jogailai ir Karūnai buvo
+    uždrausta remti Vytautą ir Lietuvą kovose su kryžiuočiais. Ne­
+    nuostabu, kad toks aiškiai tendencingas sprendimas Lenkijoj su­
+    kėlė gandų, esą jai uždrausta kada nors ateity kviestis į savo
+    sostą karalių iš Lietuvos ar bendrai iš Rytų Europos, bet tik iš
+    Vakarų Europos valdovų tarpo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184287

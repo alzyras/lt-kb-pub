@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - ivykis
   - valstybė
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Zilijos valsčiaus nusiaubimas ir antrasis Liudviko paėmimas į nelaisvę
 
@@ -36,17 +48,37 @@ Nenurodyta
 <a id="claim-t-59459"></a>
 - t-001
   global_id: t-59459
-  teiginys: 'Konradas iš Tirbergo su didele kariuomene įsiveržė į Sūduvos Zilijos valsčių, sudegino pastatus ir išsigabeno grobį.'
+  teiginys: "Konradas iš Tirbergo su didele kariuomene įsiveržė į Sūduvos Zilijos valsčių, sudegino pastatus ir išsigabeno grobį."
+  semantiniai_rysiai: "Konradas puolė Sūduva (0.84); Konradas puolė Zilija (0.78)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "528177-529228; hash=2d73fb39934e2e6160521243a06365c5368f6cb86ab77316a66a32dbc5b25ba9; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Sūduva: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Konradas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Sūduva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Konrado kariuomenės įsiveržimas į Sūduvą yra tiesioginis karinis veiksmas."
   pagrindžia:
-    - c-001
+    - c-60091
 
 <a id="claim-t-59460"></a>
 - t-002
   global_id: t-59460
-  teiginys: 'Antrą kartą patekęs į nelaisvę, brolis Liudvikas iš Libencelės buvo nuvestas pas kilmingąjį Kantigirdą ir pavestas jo globai.'
+  teiginys: "Antrą kartą patekęs į nelaisvę, brolis Liudvikas iš Libencelės buvo nuvestas pas kilmingąjį Kantigirdą ir pavestas jo globai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "529229-529745; hash=63d2c77b9721c6cb54ede73e05065ede928b87e479cc043ab7139ca33cb819ed; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kantigirdas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Zilijos valsčiaus nusiaubimas ir antrasis Liudviko paėmimas į nelaisvę: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Kantigirdas: mention_match, person, gap=72"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zilijos valsčiaus nusiaubimas ir antrasis Liudviko paėmimas į nelaisvę\" parinktas kaip owner_note_path. Targetas \"Kantigirdas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
-
+    - c-60092
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -70,6 +102,7 @@ Nenurodyta
     pavertė pelenais visus pastatus minėtajame valsčiuje, nukovė vieną kilmingąjį, vardu
     Vadolis505, tenykštį vadą, bei daugybę kitų ir išsigabeno nesuskaičiuojamą grobį.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -88,8 +121,52 @@ Nenurodyta
     teisingai sakė. Antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas buvo nuvestas pas vieną
     kilmingąjį, vardu Kantigirdas506, ir pavestas jo globai.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-60091
+  citata_originali: |
+    Apie Sūduvos valsčiaus, vardu Zilija, nusiaubimą ir apie tai, kaip brolis Liu­
+                            dvikas antrą kartą pakliuvo į nelaisvę
+
+      Tuo metu, kai brolis Mangoldas, magistras, keliavo  į kapitulą, brolis Konradas iš
+    Tirbergo, maršalas, įsiveržė su daugybe brolių ir didžiule kariuomene į Sūduvos valsčių,
+    vardu Zilija504. Ši kariuomenė buvo tokia didelė, kad ji nusidriekė per daugelį mylių. Ji
+
+      503 Turbūt į Lietuvos valstybės teritoriją, gal į Gardino apylinkes (plg. D. III, 217, 219,
+    223). Apie sūduvių (jotvingių) apgyvendinimą Lietuvos valstybės teritorijoje žr. Kamiński
+    A., Jaćwież..., p. 67—71. Jų sodybos randamos XIII a. etninio lietuvių ploto rytiniame
+    pakraštyje — Dainavos (Dojnova) gyvenvietės prie Radoškovičių ir kitur (Ochmański J.,
+    Litewska granica..., p.. 36—37).
+      504 D. — territorium [...] Siliam, Jer.— zu Silien; Liber censuum Daniae — Syllonis
+
+    pavertė pelenais visus pastatus minėtajame valsčiuje, nukovė vieną kilmingąjį, vardu
+    Vadolis505, tenykštį vadą, bei daugybę kitų ir išsigabeno nesuskaičiuojamą grobį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-59459
+
+- id: c-60092
+  citata_originali: |
+    Sunkiai
+    šiame žygyje sužeistas brolis Liudvikas iš Libencelės buvo pusgyvis paliktas sniegynuose.
+    Neilgai trukus jį aptiko sūduviai ir, uždėję ant arklio taip, kad galva bei rankos karojo
+    viename arklio šone, o kojos kitame, nusigabeno, bet taip nevykusiai, kad iš apkrešėjusių
+    žaizdų vėl smarkiai paplūdo kraujas, o šitai ir išgelbėjo sužeistąjį, kaip jis pats vėliau
+    teisingai sakė. Antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas buvo nuvestas pas vieną
+    kilmingąjį, vardu Kantigirdas506, ir pavestas jo globai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-59460

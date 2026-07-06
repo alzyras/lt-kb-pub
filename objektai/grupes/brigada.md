@@ -13,6 +13,18 @@ tags:
   - grupe
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # brigada
 
@@ -23,11 +35,21 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
 ## Teiginiai
 
 <a id="claim-t-80638"></a>
-- t-001
+- t-002
   global_id: t-80638
-  teiginys: 'Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos teritorijos dalyje.'
+  teiginys: "Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos teritorijos dalyje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "768351-768562; hash=70925cc55258a877279c0f6e29860e9e29024c0d6ed7422d64d43bc487d05739; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "brigada: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"brigada\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-77336
 - susijęs iš [[objektai/asmenys/Juozapas Bielakas.md#claim-t-40233|Juozapas Bielakas]]: Juozapo Bielako priešakinės sargybos pulkas stovėjo prieš priemiesčius su 1-osios tautinės kavalerijos brigada.
 - susijęs iš [[objektai/asmenys/Mykolas Sulistrovskis.md#claim-t-40362|Mykolas Sulistrovskis]]: Mykolas Sulistrovskis vadovavo 1-ajai tautinės kavalerijos brigadai prie Lietuvos Brastos.
 - susijęs iš [[objektai/asmenys/S. Nastopka.md#claim-t-40412|S. Nastopka]]: S. Nastopkos vadovaujamos 11-osios brigados dalys veikė šiaurinėje Lietuvos teritorijos dalyje.
@@ -92,11 +114,32 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
 
     niją ir veržtis toliau Daugpilio kryptimi.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-77336
+  citata_originali: |
+    Karin. S. Nastopkos vadovaujamos 11 bri-
+
+    gados dalys veikė šiaurinėje Lietuvos te-
+
+    ritorijos dalyje. Jos uždavinys buvo pulti
+
+    ir užimti Subatės-Borovkos-Suvieko li-
+
+    niją ir veržtis toliau Daugpilio kryptimi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-80638
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/grupes/Marijampolės batalionas]]

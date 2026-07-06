@@ -10,6 +10,18 @@ tags:
   - kunigaikštis
   - mūšis
   - pinigai
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Timūr-Kutlukas
 
@@ -22,30 +34,78 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
 <a id="claim-t-40467"></a>
 - t-001
   global_id: t-40467
-  teiginys: 'Timūr-Kutlukas, rengdamasis žygiui į Sarajų, reikalavo, kad Vytautas išduotų jo priešą Tochtamišą.'
+  teiginys: "Timūr-Kutlukas, rengdamasis žygiui į Sarajų, reikalavo, kad Vytautas išduotų jo priešą Tochtamišą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "215958-216432; hash=86687560a0cfdb032ce85da14e6a25ff77784d39d671c3f02d7915a3e1b6d0d5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Timūr-Kutlukas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=60"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Timūr-Kutlukas\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-44536
 
 <a id="claim-t-40468"></a>
 - t-002
   global_id: t-40468
-  teiginys: 'Timūr-Kutlukas vadovavo totorių pajėgoms, kuriose buvo ir Krymo emyro Edygos kariai.'
+  teiginys: "Timūr-Kutlukas vadovavo totorių pajėgoms, kuriose buvo ir Krymo emyro Edygos kariai."
+  semantiniai_rysiai: "Totorių pajėgos priklausė Timūr-Kutlukas (0.75); Totorių pajėgos priklausė Edyga (0.75)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "217119-217419; hash=41a4ab9bc5ccba646c997209fd6583b6a46792023ac99c1883cc2f9c840383a7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Edyga: 0.75"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totorių pajėgos: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Edyga: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata nurodo, kad totorių pajėgose buvo Edygos kariai."
   pagrindžia:
-    - c-002
+    - c-44537
 
 <a id="claim-t-183762"></a>
 - t-003
   global_id: t-183762
-  teiginys: 'Aukso ordos chanas Timūr-Kutlukas, rengdamasis žygiui į Sarajų, reikalavo, kad Vytautas išduotų jo priešą Tochtamišą.'
+  teiginys: "Aukso ordos chanas Timūr-Kutlukas, rengdamasis žygiui į Sarajų, reikalavo, kad Vytautas išduotų jo priešą Tochtamišą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "215774-216239; hash=a3b76ace67123a4f8040db1c45774a1eb3638593075b75b539ec3026a6f86cbf; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Timūr-Kutlukas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=60"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Timūr-Kutlukas\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-167150
 
 <a id="claim-t-183763"></a>
 - t-004
   global_id: t-183763
-  teiginys: 'Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai.'
+  teiginys: "Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Totorių pajėgos priklausė Timūr-Kutlukas (0.75); Totorių pajėgos priklausė Edyga (0.75)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "216952-217313; hash=c2f027ad72932759acad970d3dae3a86a81c823d9cae659d977f5a949cced2d1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Edyga: 0.75"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totorių pajėgos: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Edyga: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Pajėgų aprašymas nurodo Edygos karius kaip totorių pajėgų dalį."
   pagrindžia:
-    - c-004
+    - c-167151
 - susijęs iš [[objektai/asmenys/Tochtamišas.md#claim-t-111433|Tochtamišas]]: Timūr-Kutlukas reikalavo, kad Vytautas išduotų pabėgusį jo priešą Tochtamišą.
 - susijęs iš [[objektai/grupes/Tochtamišo totoriai.md#claim-t-171392|Tochtamišo totoriai]]: Dalis Tochtamišo karių prieš Vorsklos mūšį galėjo pereiti į chano Timūr-Kutluko šalininkų pusę.
 - susijęs iš [[objektai/posakiai/„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“.md#claim-t-186382|„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“]]: Vytautas atsakė Timūr-Kutluko pasiuntiniams, kad Tochtamišo neišduos ir su Timūr-Kutluku nori matytis pats.
@@ -83,6 +143,7 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
     jam pavaldžių rusų kunigaikščių karius ir
     kitus) stovykloje prie Kijevo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -105,6 +166,7 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
     siuntė Vytautui daug galvijų, jaučių, avių,
     sveikino jį.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -128,6 +190,7 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
     „caro Tochtamišo neišduosiu, o su caru
     Timūr-Kutluku noriu matytis pats“.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -155,11 +218,104 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
     tarsi reikalavęs pavaldumo - visos Ordos
     pinigus žymėti Vytauto ženklu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
+## Citatos
+
+- id: c-44536
+  citata_originali: |
+    Besirengdamas žygiui į Sarajų, Aukso
+    ordos chanas Timūr-Kutlukas atsiuntė savo
+    pasiuntinius pas lietuvių didįjį kunigaikštį
+    Vytautą, kad išduotų jam pabėgusį „carą“
+    Tochtamišą, jo priešą. O Vytautas atsakęs:
+    „caro Tochtamišo neišduosiu, o su caru
+    Timūr-Kutluku noriu matytis pats“.
+    Pagrindinė Vytauto kariuomenė iš
+    Vilniaus išvyko apie gegužės 18 d. Vytautas
+    visą birželį telkė karius (savo lietuvius,
+    jam pavaldžių rusų kunigaikščių karius ir
+    kitus) stovykloje prie Kijevo.
+  citata_rodoma: "Besirengdamas žygiui į Sarajų, Aukso\nordos chanas Timūr-Kutlukas atsiuntė savo\npasiuntinius pas lietuvių didįjį kunigaikštį\nVytautą, kad išduotų jam pabėgusį „carą“\nTochtamišą, jo priešą. O Vytautas atsakęs:\n„caro Tochtamišo neišduosiu, o su caru\nTimūr-Kutluku noriu matytis pats“.\nPagrindinė Vytauto kariuomenė iš\nVilniaus išvyko apie gegužės 18 d."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40467
+
+- id: c-44537
+  citata_originali: |
+    Totorių pajėgos
+    Aukso ordos chano Timūr-Kutluko,
+    Krymo emyro Edygos kariai.
+
+    Mūšis
+
+    Pokalbyje su chanu prieš mūšį Vytautas
+    tarsi reikalavęs pavaldumo - visos Ordos
+    pinigus žymėti Vytauto ženklu. Timūr-
+    Kutlukas, paprašęs trijų dienų pagalvoti,
+    siuntė Vytautui daug galvijų, jaučių, avių,
+    sveikino jį.
+  citata_rodoma: "Totorių pajėgos\nAukso ordos chano Timūr-Kutluko,\nKrymo emyro Edygos kariai.\n\nMūšis\n\nPokalbyje su chanu prieš mūšį Vytautas\ntarsi reikalavęs pavaldumo - visos Ordos\npinigus žymėti Vytauto ženklu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40468
+
+- id: c-167150
+  citata_originali: |
+    Greičiausiai Vytauto
+    iniciatyva per Maskvos didįjį kunigaikštį
+    Vasilijų Konstantinopolio patriarchas ra-
+    gino Kijevo metropolitą Kiprijoną kviesti
+    tikinčiuosius į karą prieš totorius.
+    Besirengdamas žygiui į Sarajų, Aukso
+    ordos chanas Timūr-Kutlukas atsiuntė savo
+    pasiuntinius pas lietuvių didįjį kunigaikštį
+    Vytautą, kad išduotų jam pabėgusį „carą“
+    Tochtamišą, jo priešą. O Vytautas atsakęs:
+    „caro Tochtamišo neišduosiu, o su caru
+    Timūr-Kutluku noriu matytis pats“.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183762
+
+- id: c-167151
+  citata_originali: |
+    Lietuvos jungtinės pajėgos
+
+    Lietuviai, žemaičiai, LDK rusų žemių ku-
+    nigaikščiai, Tochtamišo totoriai, talkinin-
+    kai iš Lenkijos, Kryžiuočių ordino kariai,
+    moldavai.
+
+    Totorių pajėgos
+    Aukso ordos chano Timūr-Kutluko,
+    Krymo emyro Edygos kariai.
+
+    Mūšis
+
+    Pokalbyje su chanu prieš mūšį Vytautas
+    tarsi reikalavęs pavaldumo - visos Ordos
+    pinigus žymėti Vytauto ženklu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183763
 
 ## Ryšiai
 - Priešai: [[objektai/asmenys/Tochtamišas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

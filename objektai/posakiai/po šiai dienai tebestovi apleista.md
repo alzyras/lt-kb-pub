@@ -10,6 +10,18 @@ tags:
   - pilis
   - posakis
   - sukilimas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # po šiai dienai tebestovi apleista
 
@@ -20,11 +32,21 @@ Dusburgietis teigia, kad buvę „per du akmens sviedimus nuo tos vietos, kur da
 ## Teiginiai
 
 <a id="claim-t-59151"></a>
-- t-001
+- t-002
   global_id: t-59151
-  teiginys: 'Posakis „po šiai dienai tebestovi apleista“ vartojamas apibūdinant Spitenbergo pilį Pamedėje.'
+  teiginys: "Posakis „po šiai dienai tebestovi apleista“ vartojamas apibūdinant Spitenbergo pilį Pamedėje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "76206-76616; hash=4e1e12fc436db5c3b6ae08f9429a161630ac94185b5ffdd341dfbcce55afc8c9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pamedė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "po šiai dienai tebestovi apleista: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Pamedė: mention_match, place, gap=84"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"po šiai dienai tebestovi apleista\" parinktas kaip owner_note_path. Targetas \"Pamedė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-59783
 - susijęs iš Pamedė: Pamedės žemėje buvusią Spitenbergo pilį antrosios atskalūnybės metais broliai sudegino ir paliko dėl prūsų antpuolių bei reikmenų stokos.
 ## Reikšmingi paminėjimai
 
@@ -39,8 +61,27 @@ Dusburgietis teigia, kad buvę „per du akmens sviedimus nuo tos vietos, kur da
       Paprastai Dusburgietis pasakoja tik apie svarbiausius įvykius, turinčius apibendrinamąją
     reikšmę.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-59783
+  citata_originali: |
+    Šiuo  principu  jis naudojasi, aprašydamas  Prūsijos žemių tarp Vyslos  ir
+    Nemuno nukariavimą. Retrospektyvinis požiūris  į įvykius ryškus tokiuose kronikininko
+    pareiškimuose,— kaip „po šiai dienai tebestovi apleista“ Spitenbergo pilis Pamedėje,
+    paliko negyvenamos Nadruvos, Sūduvos žemės (III, 151, 179, 219).
+      Paprastai Dusburgietis pasakoja tik apie svarbiausius įvykius, turinčius apibendrinamąją
+    reikšmę.
+  citata_rodoma: "Retrospektyvinis požiūris  į įvykius ryškus tokiuose kronikininko\npareiškimuose,— kaip „po šiai dienai tebestovi apleista“ Spitenbergo pilis Pamedėje,\npaliko negyvenamos Nadruvos, Sūduvos žemės (III, 151, 179, 219).\n  Paprastai Dusburgietis pasakoja tik apie svarbiausius įvykius, turinčius apibendrinamąją\nreikšmę."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-59151

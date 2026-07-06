@@ -9,6 +9,18 @@ tags:
   - asmuo
   - ginklas
   - karas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Blinkevičius
 
@@ -21,9 +33,21 @@ Po kelių dienų mūsų apylinkės pirmininkas Blinkevičius nusprendė, kad rei
 <a id="claim-t-80709"></a>
 - t-001
   global_id: t-80709
-  teiginys: 'Apylinkės pirmininkas Blinkevičius gavo Pušaloto valsčiaus valdžios leidimą surinkti miške likusius lavonus.'
+  teiginys: "Apylinkės pirmininkas Blinkevičius gavo Pušaloto valsčiaus valdžios leidimą surinkti miške likusius lavonus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "914870-915379; hash=b715b87dcb17b2b02dfbbbd84168b43d83f264b0d0dfc6011b4db40502a832b3; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pušalotas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Blinkevičius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Pušalotas: mention_match, place, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Blinkevičius\" parinktas kaip owner_note_path. Targetas \"Pušalotas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
+    - c-41872
 - susijęs iš Pušalotas: Blinkevičius prašė Pušaloto valsčiaus valdžios leidimo surinkti miške likusius lavonus ir tokį leidimą gavo.
 ## Reikšmingi paminėjimai
 
@@ -48,8 +72,36 @@ Po kelių dienų mūsų apylinkės pirmininkas Blinkevičius nusprendė, kad rei
 
     partizanų junginio vadų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-41872
+  citata_originali: |
+    Po
+    kelių dienų mūsų apylinkės pirmininkas
+    Blinkevičius nusprendė, kad reikia prašyti
+    Pušaloto valsčiaus valdžios, kad leistų su-
+    rinkti miške likusius lavonus. Leidimą gavo.
+    Visi apylinkės žmonės su pastotėmis va-
+    žiavo į mišką tų lavonų rinkti. Ginklai jau
+    buvo surinkti, radome tik beginklių parti-
+    zanų lavonus durtuvais subadytomis krū-
+    tinėmis. O prie pagrindinio bunkerio buvo
+    iš viso baisu - ten žuvo ir kelios moterys. Jų
+    lavonai buvo labiausiai išniekinti...“
+
+    Karas po karo
+
+    partizanų junginio vadų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-80709

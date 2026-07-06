@@ -16,6 +16,18 @@ tags:
   - sąvoka
 amziai:
   - 'IX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # kunigas
 
@@ -26,18 +38,41 @@ Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar «kuni
 ## Teiginiai
 
 <a id="claim-t-32787"></a>
-- t-001
+- t-002
   global_id: t-32787
-  teiginys: 'Wulfstanas pažymėjo socialinius skirtumus, nes aisčių kunigai ir turtingieji gėrė kumelių pieną.'
+  teiginys: "Wulfstanas pažymėjo socialinius skirtumus, nes aisčių kunigai ir turtingieji gėrė kumelių pieną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "314673-315048; hash=63672fca268e5218caa1c0327c36c02123ba126c896d6500b0d9ada6ae0d51b8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aisčiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "kunigas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Aisčiai: mention_match, group, gap=7"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"kunigas\" parinktas kaip owner_note_path. Targetas \"Aisčiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-34161
 
 <a id="claim-t-32788"></a>
-- t-002
+- t-001
   global_id: t-32788
-  teiginys: 'XII-XIII a. kunigų įrengtos pilys, anksčiau naudotos tarpusavio vaidams, ėmė tarnauti gynybai nuo išorinių priešų.'
+  teiginys: "XII-XIII a. kunigų įrengtos pilys, anksčiau naudotos tarpusavio vaidams, ėmė tarnauti gynybai nuo išorinių priešų."
+  temporaliniai_duomenys: "įvykio data: 890 m; įvykio data: 870-890"
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis sakinys per ilgas ir gremėzdiškas, bet citata remia glaustesnį faktą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "313300-313825; hash=473fee01793a2b45bff86cb75d20f597f9fc90dccc7ebe11a1f5ed4aac1e8a51; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "kunigas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Baltai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"kunigas\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-34162
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75730|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Priėmus Lenkijos ultimatumą, Antanui Smetonai artimas kunigas Vladas Mironas pakeitė Juozą Tūbelį premjero poste.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-54993|Petras Goštautas]]: Petras Goštautas tradicijoje vadintas kunigaikščio Algirdo laikų didiku ir Vilniaus vaivada.
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102849|Dusburgas]]: 1985 m. leidinio įžangoje Petras iš Dusburgo apibūdinamas kaip Kryžiuočių ordino brolis kunigas, 1326 m. užbaigęs savo kroniką; nurodoma, kad ji pratęsta iki 1330 m.
@@ -56,10 +91,13 @@ Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar «kuni
 - susijęs iš K. Sirvydo žodynas: Narbutas rašo, kad kunigas Sirvydas savo žodyne Aitvarą vadino lietuviškai Ajtwaros, lotyniškai Incubus, lenkiškai Latawiec.
 - susijęs iš Lietuvos katalikų bažnyčios kronika: Pirmasis „Lietuvos katalikų bažnyčios kronikos“ redaktorius buvo Simne dirbęs kunigas Sigitas Tamkevičius.
 - susijęs iš Liudvikos Gedgaudienės-Didžiulienės užrašai: Kunigas Mackevičius pamokslą sakė lenkiškai ir lietuviškai, o kariuomenė bei daugybė žmonių jo klausėsi lauke.
+- susijęs iš T. Czackio laiškas Malachovskiui (1787-07-31): 1787 m. liepos 31 d. T. Cackio laiške Malachovskiui rašyta, kad Jasuose lankėsi kunigas Sevaljė, L’Abbé Chevalier.
 - susijęs iš Nalšėnai: Vaišvilkui persekiojant Mindaugo nužudymo sąmokslininkus, į Livoniją pabėgo Nalšėnų kunigas Suksė.
 - susijęs iš [[objektai/zodynas/Kunigas Didis.md#claim-t-189305|Kunigas Didis]]: Narbutas aiškino, kad runų įrašo junginys KUNI: DI reiškia „Kunigas Didis“, tai yra didįjį kunigaikštį.
 - susijęs iš [[objektai/zodynas/Ordino brolis.md#claim-t-58861|Ordino brolis]]: Petras Dusburgietis buvo Ordino brolis kunigas ir Prūsijos žemės kronikos autorius.
 - susijęs iš [[objektai/zodynas/spiritus movens.md#claim-t-22304|spiritus movens]]: 1896 m. pradėto leisti „Tėvynės sargo“ spiritus movens buvo jaunas kunigas Juozas Tumas-Vaižgantas.
+- susijęs iš [[objektai/ivykiai/Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių.md#claim-t-192021|Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių]]: Narbutas nurodė: 1840 m. rugsėjį Vaitiekus Jučas Platelių dvare gavo karo dievo Kovo statulėlę iš kunigo Kognovickio.
+- susijęs iš [[objektai/zodynas/Rejkis.md#claim-t-192267|Rejkis]]: Narbuto aiškinimu, provincijas valdė karaliukai, vadinami Rejkis ir Kunigas.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77968|A. Smetona]]: Priėmus Lenkijos ultimatumą premjeru tapęs kunigas Vladas Mironas buvo A. Smetonai artimas asmuo.
 - susijęs iš [[objektai/asmenys/Abraomas Kulvietis.md#claim-t-181560|Abraomas Kulvietis]]: 1539 m. Abraomas Kulvietis Vilniuje pirmasis skleidė Martyno Liuterio religines pažiūras ir savo mokykloje išlavino 60 mokinių.
 - susijęs iš [[objektai/asmenys/Abraomas.md#claim-t-60226|Abraomas]]: Abraomas su 318 tarnų kovojo dėl savo dievobaimingo brolio laisvės ir nekalto kalinio sugrąžinimo.
@@ -84,9 +122,11 @@ Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar «kuni
 - susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93430|Kristijonas (vyskupas, XIII a.)]]: Livonijos ordino brolis kunigas Kristijonas buvo Mindaugo pagalbininkas ir informavo jį apie Katalikų bažnyčios organizaciją.
 - susijęs iš [[objektai/asmenys/Liudvikas Narbutas.md#claim-t-40307|Liudvikas Narbutas]]: Vilniaus apskrityje veikę Liudviko Narbuto vadovaujami sukilėliai kovėsi su rusų kariuomene prie Rūdninkų ir Dubičių, kur žuvo pats Narbutas, o sukilėliai buvo išblaškyti.
 - susijęs iš [[objektai/asmenys/Melchioras Giedraitis.md#claim-t-190183|Melchioras Giedraitis (vyskupas)]]: Žemaičių vyskupas Melchioras Giedraitis vėl išsikvietė jėzuitus, nes jo diecezijoje dalis kaimiečių, pasak Narbuto, laikėsi senosios pagoniškos religijos.
+- susijęs iš [[objektai/asmenys/Melchioras Giedraitis.md#claim-t-190920|Melchioras Giedraitis (vyskupas)]]: Narbutas aiškina, kad Žemaičių vyskupas Melchioras Giedraitis vėl išsikvietė jėzuitus dėl kaimiečių religinės padėties savo diecezijoje.
 - susijęs iš [[objektai/asmenys/Melchizedekas.md#claim-t-60387|Melchizedekas (kunigas)]]: Dusburgiečio pateiktame Pradžios knygos epizode karalius ir kunigas Melchizedekas Abraomui padovanojo duonos ir vyno.
 - susijęs iš [[objektai/asmenys/Mergelė Marija.md#claim-t-59892|Mergelė Marija]]: Dusburgiečio pasakojime Mergelė Marija vienu rankos prisilietimu pagydė sužalotą brolį.
 - susijęs iš [[objektai/asmenys/Mingaila.md#claim-t-188585|Mingaila]]: Kunigui vikarui Mingailai buvo nunešta Kauno klebonijos sienoje rasta cinkinė deivės Veneros statulėlė.
+- susijęs iš [[objektai/asmenys/Mingaila.md#claim-t-190922|Mingaila]]: Kunigui vikarui Mingailai buvo nunešta Kauno klebonijoje sienoje rasta įmūryta cinkinė Veneros statulėlė.
 - susijęs iš [[objektai/asmenys/Motiejus (Žemaičių ir Vilniaus vyskupas).md#claim-t-176552|Motiejus (Žemaičių ir Vilniaus vyskupas)]]: Motiejus buvo Trakų klebonas ir Vilniaus kapitulos kanauninkas, vėliau tapęs Žemaičių ir Vilniaus vyskupu.
 - susijęs iš [[objektai/asmenys/Palemonas.md#claim-t-187455|Palemonas]]: Pasak Kojelavičiaus, Palemonas Lietuvoje nepanaikino daugelio dievų garbinimo ir senąsias apeigas papildė naujais prietarais.
 - susijęs iš [[objektai/asmenys/Papildomi mažesnio konteksto kandidatai iš vienos citatos.md#claim-t-87924|Papildomi mažesnio konteksto kandidatai iš vienos citatos]]: Papildomi mažesnio konteksto kandidatai iš vienos citatos nevertas būti pavyzdžiu kitiems?
@@ -124,6 +164,7 @@ Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar «kuni
 - susijęs iš [[objektai/daiktai/1863-1864 m. sukilėlių vėliava.md#claim-t-40685|1863-1864 m. sukilėlių vėliava]]: Kunigas A. Mackevičius laimino sukilėlius ir šventino jų vėliavas.
 - susijęs iš [[objektai/daiktai/Goštauto liepa.md#claim-t-87027|Goštauto liepa]]: 1621 metais Petras Korkonas rašė, kad Petro Goštauto pasodinta liepa buvo vešli, drūta ir vadinta Goštauto liepa.
 - susijęs iš [[objektai/daiktai/Medinis kryžius.md#claim-t-59693|Medinis kryžius]]: Po krikšto susirgęs sūduvis Ruseinis buvo liepęs padirbdinti medinį kryžių, stovėjusį jo kojūgalyje.
+- susijęs iš [[objektai/daiktai/Mildos cinkinė statulėlė.md#claim-t-192504|Mildos cinkinė statulėlė]]: Franckevičiaus dienoraščio pasakojime Kauno klebonijoje darbininkas sienoje aptiko įmūrytą cinkinę Veneros statulėlę ir nunešė ją vikarui Mingailai.
 - susijęs iš [[objektai/daiktai/Paženklinta plyta.md#claim-t-08312|Paženklinta plyta]]: Vilniaus žinyčios sienoje būdavo įmūrijama paženklinta plyta, kad būtų žinomi praėjusių metų skaitliai.
 - susijęs iš [[objektai/daiktai/Smilkalai.md#claim-t-08331|Smilkalai]]: Vyriausias kunigas į šventą ugnį mėtydavo smilkalus.
 - susijęs iš [[objektai/daiktai/Žalčio taukų žvakės.md#claim-t-189761|Žalčio taukų žvakės]]: Narbutas pagal Jucevičių rašė, kad lietuviai burtams naudodavo iš žalčio taukų pagamintas žvakes.
@@ -202,6 +243,8 @@ Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar «kuni
 - susijęs iš [[objektai/zodynas/Vylius Wilius.md#claim-t-189258|Vylius Wilius]]: Narbutas, remdamasis Sirvydo žodynu, nurodo, kad Zdrada, Dolus, fraus, falacia ir perfidia lietuviškai atitinka Vylius (Wilius).
 - susijęs iš [[objektai/zodynas/krivis krivė krivaitis.md#claim-t-58814|krivis krivė krivaitis]]: Krivis arba krivaitis aiškinamas kaip luominis vyriausiojo žynio vardas.
 - susijęs iš [[objektai/zodynas/Žalčių karalius.md#claim-t-189349|Žalčių karalius]]: Narbutas, remdamasis L. A. Jucevičiumi, pasakoja, kad uždegus iš žalčio taukų pagamintą žvakę atvykdavęs žalčių karalius su roplių svita.
+- susijęs iš [[objektai/zodynas/Krirsae.md#claim-t-192259|Krirsae]]: Narbutas nurodo, kad Tatiščevas krivičių pavadinimą kildino iš sarmatų žodžio „Krirsae“, reiškiančio šaltinį.
+- susijęs iš [[objektai/zodynas/Krirsae.md#claim-t-192260|Krirsae]]: Narbutas nepripažįsta krivičių pavadinimo kildinimo iš sarmatų žodžio „Krirsae“.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -215,6 +258,7 @@ Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar «kuni
     dančiųjų ir paprastų žmonių, nes «kunigai» ir turtingieji gerią
     kumelių pieną. (Matomai arklius teturėdavę turtingieji).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -234,8 +278,46 @@ Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar «kuni
     palieka svarbiausias rašytas šaltinis, kalbėjo apie daugelį ten buvu­
     sių pilių, kurių kiekvienoje yra « kunigas » (« cynigc »).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-34161
+  citata_originali: |
+    Panašios lenktynės Prūsuose yra paliudytos dar XVI-XVII
+    amž.
+    Apie « aisčių » žemę Wulfstanas pasakoja, kad ji esanti labai
+    didelė, o joje esą daug medaus ir žuvies. Tarp savęs aisčiai daug
+    kariaują. Keliautojas pažymėjo ir socialinius skirtumus tarp val­
+    dančiųjų ir paprastų žmonių, nes «kunigai» ir turtingieji gerią
+    kumelių pieną. (Matomai arklius teturėdavę turtingieji).
+  citata_rodoma: "Apie « aisčių » žemę Wulfstanas pasakoja, kad ji esanti labai\ndidelė, o joje esą daug medaus ir žuvies. Tarp savęs aisčiai daug\nkariaują. Keliautojas pažymėjo ir socialinius skirtumus tarp val­\ndančiųjų ir paprastų žmonių, nes «kunigai» ir turtingieji gerią\nkumelių pieną. (Matomai arklius teturėdavę turtingieji)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-32787
+
+- id: c-34162
+  citata_originali: |
+    giminės apgyventa ir sutvirtinta kalva, vėliau virto tikra pilimi.
+    Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar
+    «kunigų » (mūsiškai kunigaikščių) įsirengtos gynimuisi tarpusavio
+    vaiduose ir nesantaikoje, XII-XIII amž. ėmė tarnauti gintis nuo
+    išorinių priešų. Ir anglo-saksų jūrininkas Wulfstanas savo prane­
+    šime (870-890 m.), kuris iki istorinių laikų apie vakarinius baltus
+    palieka svarbiausias rašytas šaltinis, kalbėjo apie daugelį ten buvu­
+    sių pilių, kurių kiekvienoje yra « kunigas » (« cynigc »).
+  citata_rodoma: "Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar\n«kunigų » (mūsiškai kunigaikščių) įsirengtos gynimuisi tarpusavio\nvaiduose ir nesantaikoje, XII-XIII amž. ėmė tarnauti gintis nuo\nišorinių priešų. Ir anglo-saksų jūrininkas Wulfstanas savo prane­\nšime (870-890 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-32788

@@ -13,6 +13,18 @@ atnaujinta: ''
 tags: []
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Karinė savanorystė ir žemės pažadas valstybės gynimui
 
@@ -55,19 +67,42 @@ Nepriklausomybės kovų metu karinė savanorystė siejama su entuziastingu stoji
 ## Teiginiai
 
 <a id="claim-t-20809"></a>
-- t-001
+- t-005
   global_id: t-20809
-  teiginys: 'Apie 12 000 savanorių stojo į Lietuvos kariuomenę, o jiems buvo žadėti žemės sklypai.'
+  teiginys: "Apie 12 000 savanorių stojo į Lietuvos kariuomenę, o jiems buvo žadėti žemės sklypai."
+  semantiniai_rysiai: "Lietuvos kariuomenė priklausė Lietuva (0.90)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "272814-273295; hash=7cd77947e659f5efadad3658a1b1d337854aea95ee1d1343c7f900004fe7e5bb; match=exact"
+  sprendimo_priezastis: "gap::customs"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Pats objektas „Lietuvos kariuomenė“ ir citata tiesiogiai sieja kariuomenę su Lietuva."
   pagrindžia:
-    - c-001
+    - c-23529
 
 <a id="claim-t-20810"></a>
-- t-002
+- t-006
   global_id: t-20810
-  teiginys: 'M. Sleževičius pabrėžė, kad bežemiai ir mažažemiai gaus dalijamos lenkų dvarininkų žemės.'
+  teiginys: "M. Sleževičius pabrėžė, kad bežemiai ir mažažemiai gaus dalijamos lenkų dvarininkų žemės."
+  temporaliniai_duomenys: "įvykio data: po 1920 m.; įvykio data: 1920 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys patikslintas pagal citatą, išlaikant jos faktinį turinį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "284979-285682; hash=e7f1f8d23a7ac169e2ed3ed090db2dc188d5eb7ee03c65a52294e5c873b2b67d; match=exact"
+  sprendimo_priezastis: "gap::customs"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Karinė savanorystė ir žemės pažadas valstybės gynimui: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karinė savanorystė ir žemės pažadas valstybės gynimui\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
-
+    - c-23530
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -81,8 +116,9 @@ Nepriklausomybės kovų metu karinė savanorystė siejama su entuziastingu stoji
     vanoriai pakiliai, su entuziazmu ėjo į Lietuvos kariuomenę, tokių buvo
     apie 12 000, jiems žadėti žemės sklypai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -101,8 +137,9 @@ Nepriklausomybės kovų metu karinė savanorystė siejama su entuziastingu stoji
     Pabuvęs Lietuvos rankose vos porą mėnesių Vilnius, Lenkijai sumušus
     Raudonąją armiją, nuo 1920 m. rudens atiteko Lenkijai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -110,3 +147,42 @@ Nepriklausomybės kovų metu karinė savanorystė siejama su entuziastingu stoji
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
+
+## Citatos
+
+- id: c-23529
+  citata_originali: |
+    Valstybės Tarybos posėdyje A. Smetona išrinktas Lietuvos valstybės pre-
+    zidentu, nes jis galėjo suvienyti tarpusavyje gerokai nebesutariančius kai-
+    riuosius, liberalus ir krikščionis demokratus, garantuoti politinį stabilu-
+    mą. Lietuvos kariuomenė balandžio pabaigoje jau turėjo apie 6 000 vyrų
+    ir nuosekliai didėjo, trūkstant karininkų, jie pradėti rengti Kaune. Sa-
+    vanoriai pakiliai, su entuziazmu ėjo į Lietuvos kariuomenę, tokių buvo
+    apie 12 000, jiems žadėti žemės sklypai.
+  citata_rodoma: "vanoriai pakiliai, su entuziazmu ėjo į Lietuvos kariuomenę, tokių buvo"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-20809
+
+- id: c-23530
+  citata_originali: |
+    nepriklausomybės kovose išskirtinis, nes jis pasiekė politinį susitarimą,
+    konsolidavo centrinę administraciją ir pajungė vietos savivaldybes, pa-
+    kvietė priešintis įsiveržėliams ir tautines mažumas, dėl to Lietuvos ka-
+    riuomenėje kovėsi ir žydų bei baltarusių savanoriai. Lietuviai atmetė
+    bolševikų klasinės diferenciacijos schemą – M. Sleževičius pabrėžė, kad
+    lietuviai yra arba valstiečiai, arba jų vaikai, kad bus dalijama lenkų dva-
+    rininkų, kurių vaikai nuėjo į Lenkijos kariuomenę, žemė, kad jos gaus
+    bežemiai ir mažažemiai – dėl to dauguma gyventojų parėmė vyriausybę.
+    Pabuvęs Lietuvos rankose vos porą mėnesių Vilnius, Lenkijai sumušus
+    Raudonąją armiją, nuo 1920 m. rudens atiteko Lenkijai.
+  citata_rodoma: "bolševikų klasinės diferenciacijos schemą – M. Sleževičius pabrėžė, kad"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-20810

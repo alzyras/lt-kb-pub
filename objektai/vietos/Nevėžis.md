@@ -16,13 +16,25 @@ date_start: '1384'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XIV'
-  - 'XXI'
 tags:
   - kraštas
   - ordinas
   - vieta
+amziai:
+  - 'XIV'
+  - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Nevėžis
 
@@ -31,56 +43,158 @@ tags:
 Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be to, buvo palikta šiaurinė Suvalkų krašto dalis (anapus linijos, einančios nuo Salyno tiesiog į Šešupę, ir kairysis Šešupės krantas).
 
 ## Teiginiai
+
 <a id="claim-t-182771"></a>
-- t-001
+- t-062
   global_id: t-182771
-  teiginys: 'Prie Kėdainių lenkai ketino susprogdinti tiltą per Nevėžį, bet 1-ojo pasienio pulko ir Kėdainių komendantūros kariai sutrukdė.'
+  teiginys: "Prie Kėdainių lenkai ketino susprogdinti tiltą per Nevėžį, bet 1-ojo pasienio pulko ir Kėdainių komendantūros kariai sutrukdė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "864380-864925; hash=eebf2f9382027d180408ac2daa4619d4f6e389ed84202b150c209206342d2a15; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Nevėžis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nevėžis\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-166183
 
 <a id="claim-t-183062"></a>
-- t-002
+- t-006
   global_id: t-183062
-  teiginys: 'Salyno sutartimi Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio.'
+  teiginys: "Salyno sutartimi Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Kryžiuočių ordinas rėmė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.84); Vytautas (Lietuvos valdovas, XIV–XV a.) sudarė sutartį su Kryžiuočių ordinas (0.68)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "221808-222453; hash=35b430092cff24fce6282bd786737d51a0fd0ca15610c5c62b0fc185aed6f897; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Sakinys tiesiogiai nurodo, kad Ordinas sutiko padėti Vytautui."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-003
+    - c-166453
 
 <a id="claim-t-184312"></a>
-- t-003
+- t-064
   global_id: t-184312
-  teiginys: 'Atiduodamas vokiečiams visą Žemaičių kraštą iki pat Nevėžio upės, Vytautas dar pažadėjo Ordinui Kauną.'
+  teiginys: "Atiduodamas vokiečiams visą Žemaičių kraštą iki pat Nevėžio upės, Vytautas dar pažadėjo Ordinui Kauną."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) sudarė sutartį su Kryžiuočių ordinas (0.72)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "90319-90547; hash=4b78c98a2635a9347a6fce02a9981f3f14a8e245d694def3cc5230d064bc5191; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Pažadas Ordinui dėl Kauno yra politinis susitarimo veiksmas tarp Vytauto ir Ordino."
   pagrindžia:
-    - c-004
+    - c-167685
 
 <a id="claim-t-184313"></a>
-- t-004
+- t-065
   global_id: t-184313
-  teiginys: '1398 m. Vytautas užrašė Ordinui Žemaičių kraštą iki Nevėžio upės.'
+  teiginys: "1398 m. Vytautas užrašė Ordinui Žemaičių kraštą iki Nevėžio upės."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) sudarė sutartį su Kryžiuočių ordinas (0.70)"
+  temporaliniai_duomenys: "įvykio data: 1398 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir sutrumpinta iki aiškaus fakto."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "272928-273059; hash=61e195203616059282bf90f1e9ff5cbade9ea00ea1d31022aab03b9cc6fb3c1e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Užrašymas Ordinui 1398 m. yra politinis susitarimo veiksmas tarp Vytauto ir Ordino."
   pagrindžia:
-    - c-005
+    - c-167686
 
 <a id="claim-t-184314"></a>
-- t-005
+- t-066
   global_id: t-184314
-  teiginys: '1398 m. Salyno sutartimi Vytautas užleido Ordinui visą Žemaitiją iki Nevėžio.'
+  teiginys: "1398 m. Salyno sutartimi Vytautas užleido Ordinui visą Žemaitiją iki Nevėžio."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) rėmė Kryžiuočių ordinas (0.91); Vytautas (Lietuvos valdovas, XIV–XV a.) sudarė sutartį su Kryžiuočių ordinas (0.88)"
+  temporaliniai_duomenys: "įvykio data: 1398 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra glaustas, faktinis ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "673876-674021; hash=382c17f9039ed682725f299a627d0ccf93b9c962fd1f744f48ba6fbadb3136b9; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Kryžiuočių ordinas: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vytautas padėjo Ordinui."
   pagrindžia:
-    - c-001
+    - c-37602
 
 <a id="claim-t-187626"></a>
 - t-006
   global_id: t-187626
-  teiginys: 'Lietuvos metraštis pasakoja, kad žemaičiai susirinko anapus Nevėžio ir ketino stoti į mūšį su Kazimieru.'
+  teiginys: "Lietuvos metraštis pasakoja, kad žemaičiai susirinko anapus Nevėžio ir ketino stoti į mūšį su Kazimieru."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Kryžiuočių ordinas rėmė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.84); Vytautas (Lietuvos valdovas, XIV–XV a.) sudarė sutartį su Kryžiuočių ordinas (0.66)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "221808-222453; hash=35b430092cff24fce6282bd786737d51a0fd0ca15610c5c62b0fc185aed6f897; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Pateikta citata tiesiogiai sako, kad Ordinas sutiko padėti Vytautui."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-006
+    - c-170573
 
 <a id="claim-t-188792"></a>
 - t-007
   global_id: t-188792
-  teiginys: 'Narbutas perteikia Hartknocho nuomonę, kad Lietuvoje Kurko garbei kurstoma ugnis turėjusi degti prie Nevėžio.'
+  teiginys: "Narbutas perteikia Hartknocho nuomonę, kad Lietuvoje Kurko garbei kurstoma ugnis turėjusi degti prie Nevėžio."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "382518-382807; hash=d1371ba87194c7271ac007236669449077ab5f19800ee101536d67e878d4f018; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Nevėžis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=58"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nevėžis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-007
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171681
 - susijęs iš [[objektai/asmenys/Galminas.md#claim-t-30231|Galminas]]: Galminas su Rumbaudu, Getautu, Klausigaila ir Vasibutu persikėlė per Nevėžį ir pradėjo užimti sukilusį kraštą.
 - susijęs iš [[objektai/asmenys/Getautas.md#claim-t-30255|Getautas]]: Getautas su Rumbaudu, Galminu, Klausigaila ir Vasibutu persikėlė per Nevėžį ir pradėjo užimti sukilusį kraštą.
 - susijęs iš [[objektai/asmenys/Kernius.md#claim-t-186005|Kernius]]: Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos.
@@ -92,6 +206,7 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176130|Žemaičiai]]: Gardino preliminarine sutartimi Vytautas atidavė Ordinui Žemaičius iki Nevėžio ir pasižadėjo padėti statyti pilis.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176153|Žemaičiai]]: 1398 m. Gardino preliminariąja sutartimi Vytautas atidavė Ordinui Žemaičius iki Nevėžio ir pažadėjo padėti statyti pilis.
 - susijęs iš [[objektai/ivykiai/Kauno susitarimas su Vokiečių ordinu (1402 m.).md#claim-t-34452|Kauno susitarimas su Vokiečių ordinu (1402 m.)]]: Kaune Vytautas be Lenkijos žinios suteikė Vokiečių ordinui teisę abipus Nevėžio statytis malūnus ir pažadėjo jam pagalbą.
+- susijęs iš Aukštaitija: Aukštaitiją nuo Žemaitijos skyrusi siena ėjo dešiniuoju Neries ir Nemuno pakraščiu nuo Nevėžio žiočių iki Kuršo.
 - susijęs iš Gaižuva: 1292 ir 1294 m. Ordino kariuomenė nusiaubė Gaižuvos sritį prie Nemuno dešiniojo kranto tarp Dubysos ir Nevėžio.
 - susijęs iš Klaipėda: 1402 m. gegužę žemaičiai sudegino Klaipėdą, o Vytautas Nevėžio žiotyse sugriovė Gotteswerderį.
 - susijęs iš Kulautuva: Nemuno saloje „Salyne“ (kiek žemiau Kulautuvos) Vytauto ir didžiojo magistro Konrado delegacijų susitikime buvo patvirtinta kryžiuočiams užleista Žemaitija iki Nevėžio ir Sūduva iki Šešupės aukštupio.
@@ -108,6 +223,8 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
 - susijęs iš Upytės žemė: 1363 m. pradžioje buvo siaubiama Upytės žemė Nevėžio aukštupyje ir gretimos apylinkės.
 - susijęs iš Vaišvilčiai: Salyno akte ordinui tenkančių žemių siena nuo Vaišvilčių kaimo Nevėžio aukštupyje pratęsta Mūšos upe, Smardonės upeliu ir Apaščios ežeru.
 - susijęs iš Vyrgalės sala: Kęstutis statydino Naująjį Kauną Vyrgalės saloje ir tiltą per Nemuną, siekdamas atkurti Nemuno, Neries ir Nevėžio žiočių gynybą.
+- susijęs iš Aukštaitija: Aukštaitiją nuo Žemaitijos skyrusi siena ėjo dešiniuoju Neries ir Nemuno pakraščiu nuo Nevėžio žiočių iki Kuršo.
+- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-190845|Aleksandras Jogailaitis]]: Narbutas Aleksandrą Jogailaitį vadina karaliumi ir rašo, kad jo įsakymu pagoniškos šventyklos vietoje pastatyta filija.
 - susijęs iš [[objektai/asmenys/Gimbutas.md#claim-t-186110|Gimbutas]]: Gimbutui buvo paskirta valdyti Žemaitiją.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184267|Jogaila (kunigaikštis, XIV–XV a.)]]: 1413 m. Kauno saloje vykusiame Žemaitijos sienų suvažiavime dalyvavo Jogaila.
 - susijęs iš [[objektai/asmenys/Kūnas.md#claim-t-186135|Kūnas]]: Kūnas gyvas būdamas padalijo valdžią Kerniui ir Gimbutui, kad sūnums nepaliktų paveldimos neapykantos šaltinio.
@@ -123,6 +240,8 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190583|Lietuviai]]: Narbutas rašė, kad lietuviai turėjo dievams paskirtų kalnų, bet nežinojo tikrai lietuviškų pasakojimų apie Plikąjį kalną.
 - susijęs iš [[objektai/grupes/Rusinai.md#claim-t-189404|Rusinai]]: Narbutas Plikojo kalno pavadinimą siejo su rusinu, vienu iš miesto kolonistų, atgabentų iš Lietuvos Rusios kuriant Vilnių.
 - susijęs iš [[objektai/ivykiai/Aleksandro įsakymu pastatyta filija pagoniškos šventyklos vietoje.md#claim-t-189617|Aleksandro įsakymu pastatyta filija pagoniškos šventyklos vietoje]]: Narbutas rašo, kad karaliaus Aleksandro įsakymu prie Kražių, Medžiokalnyje, pagoniškos šventyklos vietoje buvo pastatyta filija.
+- susijęs iš [[objektai/ivykiai/Filijos pastatymas pagoniškos šventyklos vietoje prie Kražių.md#claim-t-192029|Filijos pastatymas pagoniškos šventyklos vietoje prie Kražių]]: Narbuto pasakojimu, valdant karaliui Aleksandrui pagoniškos šventyklos vietoje jo įsakymu buvo pastatyta filija.
+- susijęs iš [[objektai/ivykiai/Filijos pastatymas pagoniškos šventyklos vietoje prie Kražių.md#claim-t-192030|Filijos pastatymas pagoniškos šventyklos vietoje prie Kražių]]: Narbuto pasakojimu, prie Kražių ant Medžiokalnio stovėjo deivės Medziojnos šventykla.
 - susijęs iš [[objektai/ivykiai/Gardino preliminarinė sutartis ir Salyno ratifikavimas (1398 m.).md#claim-t-95956|Gardino preliminarinė sutartis ir Salyno ratifikavimas (1398 m.)]]: 1398 m. Gardine Vytautas sudarė preliminarinę sutartį su Ordinu, siekdamas laisvų rankų Rytuose ir santykiuose su lenkais.
 - susijęs iš [[objektai/ivykiai/Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.).md#claim-t-66821|Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.)]]: Gaižuva buvo į rytus nuo Dubysos žiočių ir į šiaurės vakarus nuo Vilkijos.
 - susijęs iš [[objektai/ivykiai/Romainių šventvietės sunaikinimas (1294 m.).md#claim-t-55130|Romainių šventvietės sunaikinimas (1294 m.)]]: 1294 m. kryžiuočiai užėmė Romainių pilį, pasiėmė turtą ir išžudė žynius.
@@ -138,6 +257,8 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
 - susijęs iš Z. Ivinskis, Salyno taika: Z. Ivinskio „Salyno taika“ nurodyta „Lietuvių enciklopedijos“ 26 tome, 351-353 puslapiuose.
 - susijęs iš Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ remiama nustatant Paštuvos valsčiaus centro, Paštuvos pilies, vietą.
 - susijęs iš Apaščia: Žemaičių ribos Nevėžio aukštupyje buvo pratęstos Mūšos upe, Smardonės upeliu ir Apaščios ežeru ties dabartiniais Biržais.
+- susijęs iš Aukštaitija: Narbuto aprašyme Aukštaitija sudarė aukštesniąją Lietuvos dalį ir lotynų autorių buvo vadinama Austechia.
+- susijęs iš Aukštaitija: Narbuto aprašyme Lietuva dalijosi į aukštesniąją Aukštaitiją, lotynų autorių vadintą Austechia, ir žemesniąją Žemaitiją.
 - susijęs iš Gotesverderis: Gotesverderis buvo viena iš prie Kauno daug kartų statytų ir vėl sugriautų Ordino pilių.
 - susijęs iš Kaunas: Kaunas buvo įkurtas Neries ir Nemuno santakoje ir pavadintas įkūrėjo atminimui.
 - susijęs iš Kulautuva: Salynas, vokiškai vadintas Sallinwerder, turėjo būti viena iš Nemuno salų tarp Nevėžio žiočių ir Kulautuvos.
@@ -170,8 +291,12 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
 - susijęs iš [[objektai/zodynas/Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija.md#claim-t-86452|Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija]]: Romuvos buvo senovės lietuvių šventvietės šventose giriose, kur garbintas Perkūnas ir gyveno Krivių Krivaitis.
 - susijęs iš [[objektai/asmenys/Galminas.md#claim-t-30231|Galminas]]: Galminas su Rumbaudu, Getautu, Klausigaila ir Vasibutu persikėlė per Nevėžį ir pradėjo užimti sukilusį kraštą.
 - susijęs iš [[objektai/asmenys/Vasibutas.md#claim-t-30407|Vasibutas]]: Vasibutas su Rumbaudu ir kitais bajorais persikėlė per Nevėžį ir nuo Surviliškio bei Krekenavos pradėjo užimti sukilusį kraštą.
+- susijęs iš [[objektai/ivykiai/Filijos pastatymas pagoniškos šventyklos vietoje prie Kražių.md#claim-t-192029|Filijos pastatymas pagoniškos šventyklos vietoje prie Kražių]]: Narbuto pasakojimu, valdant karaliui Aleksandrui pagoniškos šventyklos vietoje jo įsakymu buvo pastatyta filija.
+- susijęs iš [[objektai/ivykiai/Filijos pastatymas pagoniškos šventyklos vietoje prie Kražių.md#claim-t-192030|Filijos pastatymas pagoniškos šventyklos vietoje prie Kražių]]: Narbuto pasakojimu, prie Kražių ant Medžiokalnio stovėjo deivės Medziojnos šventykla.
+- susijęs iš Aukštaitija: Narbuto aprašyme Aukštaitija sudarė aukštesniąją Lietuvos dalį ir lotynų autorių buvo vadinama Austechia.
 - susijęs iš [[objektai/asmenys/Getautas.md#claim-t-30255|Getautas]]: Getautas su Rumbaudu, Galminu, Klausigaila ir Vasibutu persikėlė per Nevėžį ir pradėjo užimti sukilusį kraštą.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: '1398 m. Salyno sutartimi Vytautas užleido Ordinui visą Žemaitiją iki Nevėžio.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -180,11 +305,13 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
     tiją, net iki Nevėžio^5 ). O 1400 met. net ginklu padėjo Ordinui
     suvaldyti ją^6 ).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-002
   santrauka: 'Prie Kėdainių lenkai ketino susprogdinti tiltą per Nevėžį, bet 1-ojo pasienio pulko ir Kėdainių komendantūros kariai sutrukdė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -214,11 +341,13 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
     T @ Ryteiš Kauno atvyksta kelios kuopos pastiprinimo ir šarvuotas traukinys
     „Gediminas“, prasideda lenkų pajėgų persekiojimas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Salyno sutartimi Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -231,11 +360,13 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
     ordinas sutiko ne tik nepulti Lietuvos, bet net padėti Vytautui
     rytuose.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-004
   santrauka: 'Atiduodamas vokiečiams visą Žemaičių kraštą iki pat Nevėžio upės, Vytautas dar pažadėjo Ordinui Kauną.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -245,11 +376,13 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
     iki pat Nevėžio upės, Vytautas dar pažadėjo Ordinui Kauną.
     Prie šito akto Vytauto antspauda neišliko.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-005
   santrauka: '1398 m. Vytautas užrašė Ordinui Žemaičių kraštą iki Nevėžio upės.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -258,11 +391,13 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
     rašęs Žemaičių kraštą iki Nevėžio upės (1398) ir Vok. Ordinas
     visai nesirūpino žemaičių apkrikštyti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-006
   santrauka: 'Lietuvos metraštis pasakoja, kad žemaičiai susirinko anapus Nevėžio ir ketino stoti į mūšį su Kazimieru.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -281,11 +416,13 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
     globėjas Jonas Goštautas, sakydamas: „Valdove, kuni­
     gaikšti Kazimierai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-007
   santrauka: 'Narbutas perteikia Hartknocho nuomonę, kad Lietuvoje Kurko garbei kurstoma ugnis turėjusi degti prie Nevėžio.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -296,11 +433,138 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
     Siekierka, Šventasis Kirvelis. Lietuvoje, Hartknocho nuomo­
     ne, tokia ugnis turėjo degti prie Nevėžio upės.
     3.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
+## Citatos
+
+- id: c-37602
+  citata_originali: |
+    1398 mt. Salyno sutartimi jis pats užleido Ordinui visą Žemai­
+    tiją, net iki Nevėžio^5 ). O 1400 met. net ginklu padėjo Ordinui
+    suvaldyti ją^6 ).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184314
+
+- id: c-166183
+  citata_originali: |
+    Naktį lenkai priartėja prie
+
+    )— Lietuvių pajėgų išdėsty-
+    mas ir puolimo kryptys
+    Lenkų pajėgų išdėsty-
+    J mas ir puolimo kryptys
+    = = = =a Lietuvių atsitraukimo
+
+    kryptys
+    St | me me p> Lenkų atsitraukimo
+
+    kryptys
+
+    a
+    ||
+
+    |
+
+    Kėdainių ir ketina susprogdinti tiltą per Nevėžį, tačiau 1-ojo pasienio pulko
+
+    Pao, ir Kėdainių komendantūros kariai sutrukdo. Dalis lenkų šiauriau Kėdainių
+    pereina Nevėžį ir susprogdina geležinkelį.
+    T @ Ryteiš Kauno atvyksta kelios kuopos pastiprinimo ir šarvuotas traukinys
+    „Gediminas“, prasideda lenkų pajėgų persekiojimas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182771
+
+- id: c-166453
+  citata_originali: |
+    Nuo pasirašymo vie-
+    tos ir sutartis vadinama Salyno sutartim. Ja Vytautas sutiko už-
+    leisti ordinui Žemaičius iki pat Nevėžio; ordinui, be to, buvo pa-
+    likta šiaurinė Suvalkų krašto dalis (anapus linijos, einančios nuo
+    Salyno tiesiog į Šešupę, ir kairysis Šešupės krantas). Už tai
+    ordinas sutiko ne tik nepulti Lietuvos, bet net padėti Vytautui
+    rytuose.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183062
+
+- id: c-167685
+  citata_originali: |
+    Jeigu Vytautas mirtą, nepalikęs jokio įpėdinio, tai jie turėtų ati­
+    tekti Ordinui. Atiduodamas vokiečiams visą Žemaičių kraštą
+    iki pat Nevėžio upės, Vytautas dar pažadėjo Ordinui Kauną.
+    Prie šito akto Vytauto antspauda neišliko.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184312
+
+- id: c-167686
+  citata_originali: |
+    Ordinas. Vytautas jam buvo už­
+    rašęs Žemaičių kraštą iki Nevėžio upės (1398) ir Vok. Ordinas
+    visai nesirūpino žemaičių apkrikštyti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184313
+
+- id: c-170573
+  citata_originali: |
+    Ir didysis kunigaikštis Kazimieras labai
+    susirūpino, kad Žemaičiai atkrito nuo Lietuvos Didžio­
+    sios Kunigaikštystės, ir tuoj pat rašė laiškus į visas sa­
+    vo valdas, visiems Didžiosios Kunigaikštystės pareigū­
+    nams, kad skubiai ruoštųsi karui, norėjo jėga susigrą­
+    žinti Žemaičius savo tėvonijon, kaip anksčiau kad
+    priklausė. Sutelkė nemenkas lietuvių pajėgas, patrau­
+    kė į Žemaičius ir apsistojo Kaune, o žemaičiai sujojo
+    ir sustojo anapus Nevėžio, ketindami stoti į mūšį su
+    didžiuoju kunigaikščiu Kazimieru I S .
+    Ir tuomet kreipėsi į didįjį kunigaikštį Kazimierą jo
+    globėjas Jonas Goštautas, sakydamas: „Valdove, kuni­
+    gaikšti Kazimierai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187626
+
+- id: c-171681
+  citata_originali: |
+    Dievo Kurko garbei taip pat degė nuolat kurstoma ug­
+    nis, ypač Prūsuose, didelėje to dievo šventovėje Šventamiesty-
+    je (Szwentameste), kur dabar Heiligenbeilis, lenkiškai Swięta-
+    Siekierka, Šventasis Kirvelis. Lietuvoje, Hartknocho nuomo­
+    ne, tokia ugnis turėjo degti prie Nevėžio upės.
+    3.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188792
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Galminas]], [[objektai/asmenys/Getautas]], [[objektai/asmenys/Klausigaila]], [[objektai/asmenys/Vasibutas]]

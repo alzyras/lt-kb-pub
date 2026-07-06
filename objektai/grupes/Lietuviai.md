@@ -10,6 +10,7 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -25,1505 +26,4472 @@ date_start: '1009'
 date_end: '1514'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XI'
-  - 'XVI'
-description: 'Lietuviai XI–XVI a. šaltiniuose: žygiai, kova su ordinais, bendro gynimosi idėjos, seimai, Prūsai ir valstybės vizija.'
-socialDescription: 'Lietuvių istorijos santrauka apie XI–XVI a. šaltinius, karinius žygius, santykius su ordinais, seimų idėjas ir valstybės viziją.'
-seo_atnaujinta: '2026-07-02T23:12:34.857384+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 tags:
   - grupe
   - tauta
+amziai:
+  - 'XI'
+  - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuviai
 
 ## Santrauka
 
-Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų ir žygių iki politinių susitarimų dėl bendro gynimosi bei seimų. XIII–XIV a. pasakojimuose jie vaizduojami kaip pagonys, kariavę su ordino riteriais ir aukas deginę šventomis laikytose vietose. Vėlesniuose šaltiniuose lietuviai siejami su savitais Lietuvos urėdais, etnografinėmis ribomis grindžiama valstybe ir santykiu su Prūsais, Livonija bei Lenkija.
+Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateikiamas kaip anksti istoriniuose šaltiniuose paminėtas. Daukanto pasakojime lietuviai dar rodomi kaip sena tauta, prieš Kristaus gimimą gyvenusi prie Juodųjų pamarių, save vadinusi ir kalnėnais, aukštėjais bei žemaičiais pagal gyvenamą vietą, o Perūną garbinusi ugnia.
 
 ## Teiginiai
+
 <a id="claim-t-10785"></a>
-- t-001
+- t-140
   global_id: t-10785
-  teiginys: 'Lietuviai siūlė bendrą gynimąsi ir bendrus seimus, bet saviems reikalams norėjo atskirų seimų ir urėdų Lietuvoje tik lietuviams.'
+  teiginys: "Lietuviai siūlė bendrą gynimąsi ir bendrus seimus, bet saviems reikalams norėjo atskirų seimų ir urėdų Lietuvoje tik lietuviams."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "162803-163195; hash=4c423505390eb68d36b7a6099f08b40e6fc8cae0ae277504c524ed7cf5990512; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-    - c-023
+    - c-00365
+    - c-162928
 
 <a id="claim-t-179215"></a>
-- t-002
+- t-128
   global_id: t-179215
-  teiginys: 'Dėl lietuvių diduomenės ir paprastų žmonių nenoro keisti senojo gyvenimo būdo siūlyta pirmiau pasiųsti į Lietuvą pasiuntinius.'
+  teiginys: "Dėl lietuvių diduomenės ir paprastų žmonių nenoro keisti senojo gyvenimo būdo siūlyta pirmiau pasiųsti į Lietuvą pasiuntinius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "221352-223065; hash=862e973a10ef44e19b287e8c8ff9f9bb66462b37806dd4cdd43467facfe5d7d2; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.): mention_match, event, gap=99"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-089
+    - c-163026
 
 <a id="claim-t-179216"></a>
-- t-003
+- t-095
   global_id: t-179216
-  teiginys: 'Lietuvos karalius, sužinojęs apie Gardino pilies papilio sunaikinimą, nusiuntė pilies ginti daug rinktinių karių.'
+  teiginys: "Lietuvos karalius, sužinojęs apie Gardino pilies papilio sunaikinimą, nusiuntė pilies ginti daug rinktinių karių."
+  semantiniai_rysiai: "Lietuviai gynė Gardinas (0.82)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "623031-623583; hash=2b0cbb1730de2f07109fb3df4e33e59d748cf2e3e7bf0f129e5f4d1edb3acf97; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Gardinas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Gardinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Lietuvos karalius pasiuntė karių ginti Gardino pilies; subjektas apibendrintas kaip lietuvių pusė."
   pagrindžia:
-    - c-105
+    - c-167272
 
 <a id="claim-t-179217"></a>
-- t-004
+- t-116
   global_id: t-179217
-  teiginys: 'Konferencijos rezoliucijoje lietuviai numatė nepriklausomą demokratišką valstybę etnografinėmis ribomis.'
+  teiginys: "Konferencijos rezoliucijoje lietuviai numatė nepriklausomą demokratišką valstybę etnografinėmis ribomis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "400448-400748; hash=3b7590ba81be20f3067de098e3d751b89a7536d5eed52d12d0dd74c82b7b5254; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-059
+    - c-162981
 
 <a id="claim-t-179218"></a>
-- t-005
+- t-065
   global_id: t-179218
-  teiginys: 'Prūsų kraštą lietuviai vadino Prūsais, Prūsa, Prūsų žeme ir sulotynintu Prūsijos vardu.'
+  teiginys: "Prūsų kraštą lietuviai vadino Prūsais, Prūsa, Prūsų žeme ir sulotynintu Prūsijos vardu."
+  temporaliniai_duomenys: "įvykio data: 1589 m.; įvykio data: 1639 m.; įvykio data: 1722 m.; įvykio data: 1739 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalinta bibliografinė nuotrupa ir paliktas citata paremtas faktas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "172296-172519; hash=c39ea6e834ecc0b00430c1ca64fa84a586956392280d1f16906cd69b62bb074c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=59"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-012
+    - c-162913
 
 <a id="claim-t-179219"></a>
-- t-006
+- t-010
   global_id: t-179219
-  teiginys: 'XIII-XIV a. rašytiniai šaltiniai ir karai su ordino riteriais rodo, kad pagonys lietuviai buvo pasiekę palyginti aukštą kultūros lygį.'
+  teiginys: "XIII-XIV a. rašytiniai šaltiniai ir karai su ordino riteriais rodo, kad pagonys lietuviai buvo pasiekę palyginti aukštą kultūros lygį."
+  temporaliniai_duomenys: "įvykio data: 988 m; įvykio data: 1044 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalinta kontekstinė pradžia ir paliktas citatos pagrįstas teiginys."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "339455-340058; hash=77af96e74bbc4f2bcdd071324657a041bedfb0eb8540c3948593614fdd394da2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bizantija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Bizantija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Bizantija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-34226
 
 <a id="claim-t-179220"></a>
-- t-007
+- t-068
   global_id: t-179220
-  teiginys: 'Pasak Petro Dusburgiečio, lietuviai ir kiti tose žemėse gyvenę žmonės aukas degino vietose, kurias laikė šventomis.'
+  teiginys: "Pasak Petro Dusburgiečio, lietuviai ir kiti tose žemėse gyvenę žmonės aukas degino vietose, kurias laikė šventomis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "513266-514124; hash=a1f37a647a58e6d5fd0f5971929f72d31e1c571938506bef81c8a81cded49c56; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-041
-    - c-053
-    - c-065
-    - c-090
-    - c-102
+    - c-162955
+    - c-162971
+    - c-162990
+    - c-163028
+    - c-163048
 
 <a id="claim-t-179221"></a>
-- t-008
+- t-145
   global_id: t-179221
-  teiginys: 'Lietuviams mokesčių mokėjimas kam nors kitam reiškė priklausomybės pripažinimą ir buvo laikomas nepriimtinu.'
+  teiginys: "Lietuviams mokesčių mokėjimas kam nors kitam reiškė priklausomybės pripažinimą ir buvo laikomas nepriimtinu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "167307-167744; hash=81ee1d0c72ba5f2e69eb7fbcc0a3a528ee9aa95366cbd26e0efa1a99d225e3b4; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-039
+    - c-162950
 
 <a id="claim-t-179222"></a>
-- t-009
+- t-133
   global_id: t-179222
-  teiginys: 'Lietuviai, rusai, maskvėnai ir totoriai, įsigiję dominijos nuosavybę, turėjo prisiimti ankstesnių savininkų prievoles.'
+  teiginys: "Lietuviai, rusai, maskvėnai ir totoriai, įsigiję dominijos nuosavybę, turėjo prisiimti ankstesnių savininkų prievoles."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "558663-559101; hash=16c3579d7131f549c613d08d0fe901be986c029dafacfbf2f5ba9c4eb885b2fc; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskvėnai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Maskvėnai: mention_match, group, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Maskvėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-080
+    - c-163012
 
-<a id="claim-t-179223"></a>
-- t-010
-  global_id: t-179223
-  teiginys: 'Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.'
+<a id="claim-t-179287"></a>
+- t-055
+  global_id: t-179287
+  teiginys: "Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją."
+  semantiniai_rysiai: "Lietuviai surengė žygį į Livonija (0.93); Lietuviai puolė Dorpatas (0.82)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "159087-159799; hash=a788bdb92b38f9034d5dfb6756e29c7a00d366ae62451cba3e0af3236b0e82d8; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Livonija: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo lietuvių pulko karinį įsiveržimą į Livoniją."
   pagrindžia:
-    - c-042
+    - c-162956
 
 <a id="claim-t-179225"></a>
-- t-011
+- t-112
   global_id: t-179225
-  teiginys: '1897 m. surašymo duomenimis, dabartinės Lietuvos ribose be Klaipėdos krašto gyveno apie 2,7 mln. žmonių.'
+  teiginys: "1897 m. surašymo duomenimis, dabartinės Lietuvos ribose be Klaipėdos krašto gyveno apie 2,7 mln. žmonių."
+  temporaliniai_duomenys: "gyvenimo laikotarpis: 1897 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta glaudžiau ir sklandžiau, išlaikant citatos faktą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "388304-389008; hash=799b23b6182c695857122f8fa0ffbf369c60a9f6d6245a013b75b5a12b6035cb; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-027
+    - c-162932
 
 <a id="claim-t-179226"></a>
-- t-012
+- t-064
   global_id: t-179226
-  teiginys: '1320 m. liepos 27 d. Medininkų žemėje lietuviai sutriuškino į Žemaitiją įsiveržusius kryžiuočius.'
+  teiginys: "1320 m. liepos 27 d. Medininkų žemėje lietuviai sutriuškino į Žemaitiją įsiveržusius kryžiuočius."
+  semantiniai_rysiai: "Lietuviai kariavo prieš Kryžiuočių ordinas (0.93); Lietuviai puolė Revelis (0.90); Pskoviečiai puolė Revelis (0.90); Lietuvos kariuomenė puolė Livonija (0.84); Lietuvos kariuomenė surengė žygį į Dobrynė (0.81)"
+  temporaliniai_duomenys: "įvykio data: 1320 m.; įvykio data: 1322 m.; įvykio data: 1323 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas, faktinis ir tiksliai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "31298-32159; hash=650350e4baaa3eff584bdc6fc9eac3bc26f0d1e6b81d274202cbedfd28461c7b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo lietuvių karinį veiksmą prieš kryžiuočius."
   pagrindžia:
-    - c-087
+    - c-163023
 
 <a id="claim-t-179227"></a>
-- t-013
+- t-037
   global_id: t-179227
-  teiginys: 'Lietuvos kariuomenė pradėjo rinktis gegužės pabaigoje arba birželio pradžioje.'
+  teiginys: "Lietuvos kariuomenė pradėjo rinktis gegužės pabaigoje arba birželio pradžioje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "216913-217201; hash=37df9e376fdd3d6086b9cf13e96f9f36385849ab5ee693312f3da8fe8afd3f7d; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkijos kariuomenė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lenkijos kariuomenė: mention_match, group, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lenkijos kariuomenė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-061
+    - c-162983
 
 <a id="claim-t-179228"></a>
-- t-014
+- t-008
   global_id: t-179228
-  teiginys: 'Kildindamas lietuvius iš romėnų, istorikas papildė legendinę dalį Lietuvos žymių šeimų genealogijomis iš Romos patricijų.'
+  teiginys: "Kildindamas lietuvius iš romėnų, istorikas papildė legendinę dalį Lietuvos žymių šeimų genealogijomis iš Romos patricijų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "127504-127831; hash=79a8acb130e358bdba4ea3306c3a46a389c52420c9046f8ea1c6dbbbb0c6ef80; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-091
+    - c-163029
 
 <a id="claim-t-179229"></a>
-- t-015
+- t-017
   global_id: t-179229
-  teiginys: 'Vytauto vadovaujami Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų, sugrįžo į kovos lauką.'
+  teiginys: "Vytauto vadovaujami Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų, sugrįžo į kovos lauką."
+  semantiniai_rysiai: "Lietuviai kariavo prieš Kryžiuočių ordinas (0.77)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "931773-932007; hash=61adeaff518e7a8ebf46e52dd10a91fdc6f948c927fccdcd48c1f06352ec9458; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.77"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata mūšio kontekste rodo lietuvių grįžimą į kovą, po kurio puolama kryžiuočių kariuomenė; tai palaiko karo prieš kryžiuočius ryšį."
   pagrindžia:
-    - c-008
+    - c-34228
 
 <a id="claim-t-179230"></a>
-- t-016
+- t-040
   global_id: t-179230
-  teiginys: 'Lietuvių kariuomenė grįžo į mūšį tuo metu, kai sėkmė jau sviro kryžiuočių pusėn.'
+  teiginys: "Lietuvių kariuomenė grįžo į mūšį tuo metu, kai sėkmė jau sviro kryžiuočių pusėn."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "238074-238439; hash=cc1cc6264b55a069d81dbaa0fe299fbc9732a318fa3af16d936597cee4e3675b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=63"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-050
+    - c-162967
 
 <a id="claim-t-179231"></a>
-- t-017
+- t-109
   global_id: t-179231
-  teiginys: 'Lietuvių bajorai ir individualiai ūkininkavę valstiečiai skyrėsi nuo rytinių slavų nuosavybės struktūra.'
+  teiginys: "Lietuvių bajorai ir individualiai ūkininkavę valstiečiai skyrėsi nuo rytinių slavų nuosavybės struktūra."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "67743-68264; hash=6a8273dd26aba968d8eecc2043f125a6535542e62b2df8089dc68883c2c6193a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-014
+    - c-162917
 
 <a id="claim-t-179232"></a>
-- t-018
+- t-119
   global_id: t-179232
-  teiginys: 'Laisvoje Lietuvoje augusi jaunoji karta šalies suverenumą laikė didžiausiu prioritetu.'
+  teiginys: "Laisvoje Lietuvoje augusi jaunoji karta šalies suverenumą laikė didžiausiu prioritetu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "403089-403292; hash=dd95ec1a759fc067d9dc986c500776c20ae55590cccd976f962c15ef3ebd7868; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-046
+    - c-162962
 
 <a id="claim-t-179233"></a>
-- t-019
+- t-034
   global_id: t-179233
-  teiginys: 'Lietuviams mokėti mokesčius ir taip pripažinti priklausomybę buvo laikoma per didele nuolaida.'
+  teiginys: "Lietuviams mokėti mokesčius ir taip pripažinti priklausomybę buvo laikoma per didele nuolaida."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "167307-167744; hash=81ee1d0c72ba5f2e69eb7fbcc0a3a528ee9aa95366cbd26e0efa1a99d225e3b4; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-039
+    - c-162950
 
 <a id="claim-t-179235"></a>
-- t-020
+- t-023
   global_id: t-179235
-  teiginys: 'Didieji kunigaikščiai, reikšdami teritorines pretenzijas, suvokė baltų erdvės giminingumą, o Vytautas kalbos bendrumu grindė žemaičių priklausomybę Lietuvai.'
+  teiginys: "Didieji kunigaikščiai, reikšdami teritorines pretenzijas, suvokė baltų erdvės giminingumą, o Vytautas kalbos bendrumu grindė žemaičių priklausomybę Lietuvai."
+  semantiniai_rysiai: "Karaimai gynė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.51)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "68699-69104; hash=656c2867ef612f3caa541ac21e0d2a0f2da3d7b88dea78733dc1e46da7c33ada; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.51"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Karaimai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata nurodo, kad karaimai tapo artimosios sargybos tauta; tai palaiko gynimo ryšį su valdovu Vytautu, nors totoriai nėra kandidatų sąraše."
   pagrindžia:
-    - c-022
+    - c-162927
 
 <a id="claim-t-179236"></a>
-- t-021
+- t-120
   global_id: t-179236
-  teiginys: 'Leidinyje atrinkti mūšiai, kuriuose lietuviai kovojo dėl Lietuvos valstybės interesų.'
+  teiginys: "Leidinyje atrinkti mūšiai, kuriuose lietuviai kovojo dėl Lietuvos valstybės interesų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "410344-410760; hash=96e3ff31502bef02a82d04a06bb276ff23e545a8044099b189e8da9eb64e132a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-075
+    - c-163004
 
 <a id="claim-t-179237"></a>
-- t-022
+- t-081
   global_id: t-179237
-  teiginys: 'Lietuvis Jazbutas su 500 rinktinių vyrų įsibrovė į Lenkiją, išsivarė daug žmonių ir išsigabeno didelį grobį.'
+  teiginys: "Lietuvis Jazbutas su 500 rinktinių vyrų įsibrovė į Lenkiją, išsivarė daug žmonių ir išsigabeno didelį grobį."
+  semantiniai_rysiai: "Jazbutas surengė žygį į Lenkija (0.94); Lietuviai surengė žygį į Lenkija (0.82)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "563741-564165; hash=b465bdfc1f307c3992a3d253eecb688cbf790ecc73a90e17fb17977b115b0c7e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Lenkija: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jazbutas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Jazbuto įsibrovimą į Lenkiją."
   pagrindžia:
-    - c-071
+    - c-163000
 
 <a id="claim-t-179238"></a>
-- t-023
+- t-110
   global_id: t-179238
-  teiginys: 'Senieji lietuviai neturėjo rašto ir sunku pasakyti, kokia yra tautinė beraštės visuomenės savimonė.'
+  teiginys: "Senieji lietuviai neturėjo rašto ir sunku pasakyti, kokia yra tautinė beraštės visuomenės savimonė."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "68699-69104; hash=656c2867ef612f3caa541ac21e0d2a0f2da3d7b88dea78733dc1e46da7c33ada; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Baltai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-022
+    - c-162927
 
 <a id="claim-t-179239"></a>
-- t-024
+- t-075
   global_id: t-179239
-  teiginys: 'Aštuoni šimtai Lietuvos raitelių nuniokojo 10 kaimų Kersovu vadintoje Lenkijos žemės dalyje ir pasitraukė su dideliu grobiu.'
+  teiginys: "Aštuoni šimtai Lietuvos raitelių nuniokojo 10 kaimų Kersovu vadintoje Lenkijos žemės dalyje ir pasitraukė su dideliu grobiu."
+  semantiniai_rysiai: "Lietuviai puolė Kersovas (0.89); Lietuviai puolė Lenkija (0.77)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "513266-514124; hash=a1f37a647a58e6d5fd0f5971929f72d31e1c571938506bef81c8a81cded49c56; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Kersovas: 0.89"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kersovas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Lietuvos raitelių veiksmą Kersovu vadintoje žemės dalyje."
   pagrindžia:
-    - c-041
+    - c-162955
 
 <a id="claim-t-179240"></a>
-- t-025
+- t-131
   global_id: t-179240
-  teiginys: 'Per pagrindinį puolimą lietuvių gynyba iš pradžių buvo narsi, bet Žemutinėje pilyje prasiveržė liepsna.'
+  teiginys: "Per pagrindinį puolimą lietuvių gynyba iš pradžių buvo narsi, bet Žemutinėje pilyje prasiveržė liepsna."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "529292-530225; hash=2ce2b0df076a80e9aa02b2065259b7961b4e13e5d088f52b041d47b1fa386a02; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rytas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Rytas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Rytas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-063
+    - c-162986
 
 <a id="claim-t-179241"></a>
-- t-026
+- t-094
   global_id: t-179241
-  teiginys: 'Ordino broliai nužudė 17 Lietuvos karalystės galingesniųjų ir daugybę paprastų žmonių.'
+  teiginys: "Ordino broliai nužudė 17 Lietuvos karalystės galingesniųjų ir daugybę paprastų žmonių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "621956-622334; hash=b546183844c79dceb948d0f113ef40ef4462c45a97d0bf00bd161e91e83b4add; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-088
+    - c-163024
 
 <a id="claim-t-179242"></a>
-- t-027
+- t-020
   global_id: t-179242
-  teiginys: 'Mindaugo sukurta valstybė sudarė sąlygas lietuvių tautai išlikti ir vėliau perimti Vakarų civilizaciją.'
+  teiginys: "Mindaugo sukurta valstybė sudarė sąlygas lietuvių tautai išlikti ir vėliau perimti Vakarų civilizaciją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "46995-47463; hash=f66c35772ee0fbb0650ffb30bd0367d1437b06414989b349e548dbaf79f0882a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-069
+    - c-162997
 
 <a id="claim-t-179243"></a>
-- t-028
+- t-091
   global_id: t-179243
-  teiginys: '1302 m. iš Lietuvos atvykę plėšikautojai užpuolė 5 Lubavos žemės kaimus ir nužudė arba išsivarė į nelaisvę beveik 200 krikščionių.'
+  teiginys: "1302 m. iš Lietuvos atvykę plėšikautojai užpuolė 5 Lubavos žemės kaimus ir nužudė arba išsivarė į nelaisvę beveik 200 krikščionių."
+  semantiniai_rysiai: "Lietuviai puolė Lubava (0.93)"
+  temporaliniai_duomenys: "įvykio data: 1302 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiksliai perteikia citatos faktus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "609406-609745; hash=3997fa70b9ff2c6aab69e4ed2eaa1c88f6caf478cb0ff7f2a94e16fe5acdddf5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Lubava: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lubava: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad iš Lietuvos atvykę plėšikautojai puolė Lubavos kaimus."
   pagrindžia:
-    - c-093
+    - c-163034
 
 <a id="claim-t-179244"></a>
-- t-029
+- t-151
   global_id: t-179244
-  teiginys: 'Lietuviai asimiliavo pietines žiemgalių ir sėlių sritis.'
+  teiginys: "Lietuviai asimiliavo pietines žiemgalių ir sėlių sritis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "332097-332570; hash=271f7ee777a10229fa87704111e789ffaef48268548319b8bfb4b3859e64d669; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Sėliai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Sėliai: mention_match, group, gap=43"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Sėliai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-34225
 
 <a id="claim-t-179247"></a>
-- t-030
+- t-118
   global_id: t-179247
-  teiginys: 'Per nepilnus du nepriklausomybės dešimtmečius Lietuva tapo aiškiai lietuviška ir nebesutapatinama su Lenkija ar Rusija.'
+  teiginys: "Per nepilnus du nepriklausomybės dešimtmečius Lietuva tapo aiškiai lietuviška ir nebesutapatinama su Lenkija ar Rusija."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "402275-402688; hash=d15b4aae6734edd8dc1ace021dad17a76a62e88a440b3f5c3224cfa9ddcc46cc; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=55"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-079
+    - c-163011
 
 <a id="claim-t-179248"></a>
-- t-031
+- t-056
   global_id: t-179248
-  teiginys: 'Šv. Kryžiaus Išaukštinimo dieną gausus lietuvių pulkas užgriuvo Prūsiją.'
+  teiginys: "Šv. Kryžiaus Išaukštinimo dieną gausus lietuvių pulkas užgriuvo Prūsiją."
+  semantiniai_rysiai: "Lietuviai puolė Prūsija (0.77)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "163837-164364; hash=7dfe85aa1ba58332ce829287d31b32c29cd3e37c5c20e2ea62806ce24c70abe9; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Prūsija: 0.77"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Prūsija minima kaip kraštas, kurį užgriuvo lietuvių pulkas."
   pagrindžia:
-    - c-028
+    - c-162933
 
 <a id="claim-t-179250"></a>
-- t-032
+- t-070
   global_id: t-179250
-  teiginys: 'Mūšyje lietuviai puolė iš priekio, o kuršiai iš užpakalio, todėl beveik visi Prūsijos ir Livonijos žmonės pasitraukė.'
+  teiginys: "Mūšyje lietuviai puolė iš priekio, o kuršiai iš užpakalio, todėl beveik visi Prūsijos ir Livonijos žmonės pasitraukė."
+  semantiniai_rysiai: "Kuršiai puolė Lietuviai (0.70)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "366592-367655; hash=05fb3bc890b18c02ce2cd25a4e8949085d20b488bd9b98c94801e5c5d000dc17; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Lietuviai: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kuršiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Artimiausias tiesioginis karinis ryšys tarp leistinų kandidatų yra brolių pradėtas puolimas prieš lietuvius, bet broliai nėra kandidatuose; kuršiai puolė krikščionis, ne lietuvius, todėl šis ryšys atmestas kaip kraštinis."
   pagrindžia:
-    - c-098
+    - c-163042
 
 <a id="claim-t-179251"></a>
-- t-033
+- t-032
   global_id: t-179251
-  teiginys: 'Vytauto jaunystės laikotarpiu kardininkai ir kryžiuočiai smarkiai puldavo Lietuvą.'
+  teiginys: "Vytauto jaunystės laikotarpiu kardininkai ir kryžiuočiai smarkiai puldavo Lietuvą."
+  semantiniai_rysiai: "Kalavijuočių ordinas puolė Lietuva (0.86); Kryžiuočių ordinas puolė Lietuva (0.86)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "643903-644218; hash=8a6118d9b987c898ff60969a6e2426c144bdf43a3f120e6e982e2ca29b8fdb07; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Lietuva: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claim tekste tiesiogiai sakoma, kad kardininkai puldavo Lietuvą."
   pagrindžia:
-    - c-068
+    - c-162996
 
 <a id="claim-t-179252"></a>
-- t-034
+- t-150
   global_id: t-179252
-  teiginys: 'Stryjkovskis, kildindamas lietuvius iš romėnų, Lietuvos žymių šeimų pradžią vedė iš Romos patricijų.'
+  teiginys: "Stryjkovskis, kildindamas lietuvius iš romėnų, Lietuvos žymių šeimų pradžią vedė iš Romos patricijų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "724601-725204; hash=036be1fe91bc84ddf833475da27f1b04f9f0daa07374e52a528ab3c578327035; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-011
+    - c-162912
 
 <a id="claim-t-179253"></a>
-- t-035
+- t-009
   global_id: t-179253
-  teiginys: 'Lietuviai, kaip teigiama citatoje, asimiliavo pietines žiemgalių ir sėlių sritis.'
+  teiginys: "Lietuviai, kaip teigiama citatoje, asimiliavo pietines žiemgalių ir sėlių sritis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "332097-332570; hash=271f7ee777a10229fa87704111e789ffaef48268548319b8bfb4b3859e64d669; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Sėliai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Sėliai: mention_match, group, gap=68"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Sėliai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-34225
 
 <a id="claim-t-179254"></a>
-- t-036
+- t-058
   global_id: t-179254
-  teiginys: 'Plėšikaujančios lietuvių gaujos niokojo krikščionių žemes, kai Prūsijoje pasklido gandas apie Gedimino norą krikštytis.'
+  teiginys: "Plėšikaujančios lietuvių gaujos niokojo krikščionių žemes, kai Prūsijoje pasklido gandas apie Gedimino norą krikštytis."
+  semantiniai_rysiai: "Dovydas surengė žygį į Dobrynė (0.88)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "167988-168825; hash=26feb7333d651cec9edd1a5112ead024e469d01de837c52e150d5316fc95e7f1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Dobrynė: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Dovydas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Dobrynė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Dovydas su lietuvių kariuomene įžengė į Dobrynės žemę."
   pagrindžia:
-    - c-101
+    - c-163047
 
 <a id="claim-t-179255"></a>
-- t-037
+- t-141
   global_id: t-179255
-  teiginys: '1300 m. šeši tūkstančiai lietuvių apiplėšė Dobrynės kunigaikštystę, žudydami, imdami belaisvius ir degindami turtą.'
+  teiginys: "1300 m. šeši tūkstančiai lietuvių apiplėšė Dobrynės kunigaikštystę, žudydami, imdami belaisvius ir degindami turtą."
+  temporaliniai_duomenys: "įvykio data: 1300 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškus, gramatiškas ir tiesiogiai pagrįstas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "638232-638594; hash=7f4f6c2b7ef4c2aa7bd57fc6b82b2635794de26d7639572d4ca403fe3f5bff0b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dobrynė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Dobrynė: mention_match, place, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Dobrynė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-072
+    - c-163001
 
 <a id="claim-t-179257"></a>
-- t-038
+- t-071
   global_id: t-179257
-  teiginys: 'Prūsų, sūduvių ir lietuvių kariuomenė įsiveržė į Sembą ir aštuonias dienas laikė apsupusi Vėluvos pilį.'
+  teiginys: "Prūsų, sūduvių ir lietuvių kariuomenė įsiveržė į Sembą ir aštuonias dienas laikė apsupusi Vėluvos pilį."
+  semantiniai_rysiai: "Lietuviai puolė Semba (0.86); Sūduviai puolė Semba (0.86); Lietuviai apgulė Vėluva (0.84); Sūduviai apgulė Vėluva (0.84)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "174047-174679; hash=e51959743e8b4f5ece2d3c8fb4ff3b1b2bfa4b8cc83c1f77ada90dbf9d40a8fa; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Semba: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Semba: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claim tekste tiesiogiai teigiama, kad lietuvių kariuomenė kartu su kitais įsiveržė į Sembą."
   pagrindžia:
-    - c-040
+    - c-162954
 
 <a id="claim-t-179258"></a>
-- t-039
+- t-146
   global_id: t-179258
-  teiginys: 'Lietuvių ir rusų bajorai per puotą paskelbė Vytautą Lietuvos ir Rusijos karaliumi.'
+  teiginys: "Lietuvių ir rusų bajorai per puotą paskelbė Vytautą Lietuvos ir Rusijos karaliumi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "168797-169020; hash=f694bb7a9806b4cb60e5d24d51b83eff490470a1d12ae307a899e53ea3655dae; match=word_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-070
+    - c-162998
 
 <a id="claim-t-179259"></a>
-- t-040
+- t-141
   global_id: t-179259
-  teiginys: 'Lietuviai unijos projekte ir vėlesniuose ginčuose su lenkais reikalavo karaliaus garantijos, kad Lietuvoje nebus vykdoma egzekucija.'
+  teiginys: "Lietuviai unijos projekte ir vėlesniuose ginčuose su lenkais reikalavo karaliaus garantijos, kad Lietuvoje nebus vykdoma egzekucija."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "171752-172197; hash=3deab359a1c44e030933da9cbad9e3c3d01fb61dac3fb913b7044ed043f74f91; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=53"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-015
+    - c-162918
 
 <a id="claim-t-179260"></a>
-- t-041
+- t-086
   global_id: t-179260
-  teiginys: 'Lietuvos karalius Pukuveras pasiuntė Vytenį su didele kariuomene į Bresto žemę, kur lietuviai žudė, degino ir grobė.'
+  teiginys: "Lietuvos karalius Pukuveras pasiuntė Vytenį su didele kariuomene į Bresto žemę, kur lietuviai žudė, degino ir grobė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "224349-224950; hash=a9e1d10cfa01219f78f56b181da8239d20f5884559e801ae77ac78447c585637; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-051
+    - c-162968
 
 <a id="claim-t-179265"></a>
-- t-042
+- t-140
   global_id: t-179265
-  teiginys: '1299 m. šeši šimtai Lietuvos vyrų įsibrovė į Notangą, nusiaubė didžiąją jos dalį ir nužudė arba paėmė į nelaisvę 250 krikščionių.'
+  teiginys: "1299 m. šeši šimtai Lietuvos vyrų įsibrovė į Notangą, nusiaubė didžiąją jos dalį ir nužudė arba paėmė į nelaisvę 250 krikščionių."
+  temporaliniai_duomenys: "įvykio data: 1299 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas, faktinis ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "632944-633471; hash=da19843bfbbfeec7d5167dc442695270b812cd068e86a0bd5845a13e1ffa4235; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-030
+    - c-162936
 
 <a id="claim-t-179266"></a>
-- t-043
+- t-054
   global_id: t-179266
-  teiginys: '1385 m. pabaigoje Jogaila, lydimas gausios lietuvių kunigaikščių ir didikų svitos, išvyko į Krokuvą.'
+  teiginys: "1385 m. pabaigoje Jogaila, lydimas gausios lietuvių kunigaikščių ir didikų svitos, išvyko į Krokuvą."
+  temporaliniai_duomenys: "įvykio data: 1385 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškus ir tiesiogiai paremtas citata apie lietuvių svitą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "422166-422444; hash=baa8d583b16e2884294ef83947fe22908bed09afbf3a6cd5fb0bb5877e322134; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=49"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-021
+    - c-162926
 
 <a id="claim-t-179269"></a>
-- t-044
+- t-026
   global_id: t-179269
-  teiginys: 'Priėmus Gegužės trečiosios konstituciją prasidėjusiose diskusijose Lietuvos atstovai konstituciją manė esant savo nuolaida valstybės stiprinimo vardan (už konstituciją balsavo 30 iš 50 LDK seimūnų).'
+  teiginys: "Priėmus Gegužės trečiosios konstituciją prasidėjusiose diskusijose Lietuvos atstovai konstituciją manė esant savo nuolaida valstybės stiprinimo vardan (už konstituciją balsavo 30 iš 50 LDK seimūnų)."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "167417-168055; hash=ef2ca6854f46b3628661fe54379fffbc1f76e5fa119e56502a4bf0e9561c188c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-038
+    - c-162949
 
 <a id="claim-t-179270"></a>
-- t-045
+- t-156
   global_id: t-179270
-  teiginys: 'Užgrobę svetimą kraštą, lietuviai iš pradžių nekeisdavo susiklosčiusios tvarkos.'
+  teiginys: "Užgrobę svetimą kraštą, lietuviai iš pradžių nekeisdavo susiklosčiusios tvarkos."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "63564-63906; hash=d1672f96de4183e6386c91e743eb7d34a9982d1af595fc854e7160498b0f4a20; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bizantija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Bizantija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Bizantija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-057
+    - c-162977
 
 <a id="claim-t-179271"></a>
-- t-046
+- t-117
   global_id: t-179271
-  teiginys: 'Lietuviai vengė federacijos su Lenkija, bet sutiko derėtis, jei Varšuva pripažins Lietuvą su sostine Vilniumi.'
+  teiginys: "Lietuviai vengė federacijos su Lenkija, bet sutiko derėtis, jei Varšuva pripažins Lietuvą su sostine Vilniumi."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "400645-401024; hash=3571272ef45ac71b5b9a77b86f87d66728a9b95127481746b8abd41dc50656b7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-054
+    - c-162972
 
 <a id="claim-t-179272"></a>
-- t-047
+- t-148
   global_id: t-179272
-  teiginys: 'Lietuviai ir lenkai įsakė savo kariuomenių būriams rengti puolimus, kad nukreiptų dėmesį nuo savęs.'
+  teiginys: "Lietuviai ir lenkai įsakė savo kariuomenių būriams rengti puolimus, kad nukreiptų dėmesį nuo savęs."
+  semantiniai_rysiai: "Lietuviai buvo sąjungininkas su Lenkai (0.72)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "702630-703548; hash=c3be495e6d5c9abd3c9264a179ff59baa1dcd39fa704cd7c4f552b653ffd5c5a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Lenkai: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lenkai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Lietuviai ir lenkai čia veikia kartu, įsakydami savo kariuomenių būriams rengti puolimus."
   pagrindžia:
-    - c-056
+    - c-162974
 
-<a id="claim-t-179273"></a>
-- t-048
-  global_id: t-179273
-  teiginys: 'Po Ostrovos sutarties lietuviai savo valstybę laikė visiškai savarankiška.'
+<a id="claim-t-179303"></a>
+- t-033
+  global_id: t-179303
+  teiginys: "Po Ostrovos sutarties lietuviai savo valstybę laikė visiškai savarankiška."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "163015-163310; hash=0a2bfddab43efac0e82189b7d719c0f675c3c0557605cd81c7bee1e9ad79e59a; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-016
+    - c-162920
 
-<a id="claim-t-179274"></a>
-- t-049
-  global_id: t-179274
-  teiginys: 'Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokiečiai, lenkai, totoriai, rusai ir valakai.'
+<a id="claim-t-179314"></a>
+- t-036
+  global_id: t-179314
+  teiginys: "Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokiečiai, lenkai, totoriai, rusai ir valakai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "174678-175010; hash=64afda3daa792d6959f9d5375b477da195da48ccafc1bd489be3414a5dd31244; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-036
+    - c-162946
 
 <a id="claim-t-179275"></a>
-- t-050
+- t-149
   global_id: t-179275
-  teiginys: 'Lietuvių kariuomenės sugrįžimas į mūšį tada, kai laimė sviro kryžiuočiams, laikytas nepaprastu karo taktikos reiškiniu.'
+  teiginys: "Lietuvių kariuomenės sugrįžimas į mūšį tada, kai laimė sviro kryžiuočiams, laikytas nepaprastu karo taktikos reiškiniu."
+  semantiniai_rysiai: "Lietuviai kariavo prieš Kryžiuočių ordinas (0.68)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "238074-238439; hash=cc1cc6264b55a069d81dbaa0fe299fbc9732a318fa3af16d936597cee4e3675b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.68"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Kontekstas apie lietuvių kariuomenės sugrįžimą į mūšį, kai sėkmė krypo kryžiuočiams, rodo mūšio priešingas puses."
   pagrindžia:
-    - c-050
+    - c-162967
 
 <a id="claim-t-179276"></a>
 - t-051
   global_id: t-179276
-  teiginys: 'Cituojamame aiškinime teigiama, kad žemaičiai nuo senų laikų save vadino lietuviais.'
+  teiginys: "Cituojamame aiškinime teigiama, kad žemaičiai nuo senų laikų save vadino lietuviais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "52987-53731; hash=5c98622d80f898e1670f5577be1b54ae9770dae1b1b3a36cc13405c5a5c273ac; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-032
+    - c-162940
 
 <a id="claim-t-179277"></a>
-- t-052
+- t-004
   global_id: t-179277
-  teiginys: 'Lietuviai slėpdavosi miškuose, rengdavo pasalas grįžtantiems kryžiuočiams ir keršydavo įsiverždami į Ordino kraštą.'
+  teiginys: "Lietuviai slėpdavosi miškuose, rengdavo pasalas grįžtantiems kryžiuočiams ir keršydavo įsiverždami į Ordino kraštą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "45920-46167; hash=c3880a4f986ee9310fdb9495499250ff00fa7572276078753ef340e91629100b; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=101"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
-    - c-035
-    - c-062
-    - c-097
+    - c-21416
+    - c-162944
+    - c-162984
+    - c-163041
 
 <a id="claim-t-179278"></a>
-- t-053
+- t-062
   global_id: t-179278
-  teiginys: 'Kronikoje vaizduojamu laikotarpiu lietuviai, prūsai ir latviai laikomi baltais, siejamais kalbos, kultūros, tradicijų, senosios religijos ir teritorijos bendrumo.'
+  teiginys: "Kronikoje vaizduojamu laikotarpiu lietuviai, prūsai ir latviai laikomi baltais, siejamais kalbos, kultūros, tradicijų, senosios religijos ir teritorijos bendrumo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "6148-6754; hash=986014e0dd3f9d7077e990d5a5d777aefc6dca1e0d2ba7617c013ae21a569b58; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Latviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Latviai: mention_match, group, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Latviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-104
+    - c-163054
 
 <a id="claim-t-179279"></a>
-- t-054
+- t-025
   global_id: t-179279
-  teiginys: 'Įvairiakilmė LDK ponija formavo bendros savimonės „lietuvių nacijos“ ponų sluoksnį.'
+  teiginys: "Įvairiakilmė LDK ponija formavo bendros savimonės „lietuvių nacijos“ ponų sluoksnį."
+  temporaliniai_duomenys: "įvykio data: 1514 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys yra užbaigtas, gramatiškas ir atitinka citatos turinį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "145193-145549; hash=338a8cc7352a4b05cc532d8f7d914378977a4cbc20a283b7a141f96a278ecd13; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-044
+    - c-162959
 
 <a id="claim-t-179280"></a>
-- t-055
+- t-013
   global_id: t-179280
-  teiginys: 'Mindaugas apjungė smulkias Lietuvos, ypač Aukštaitijos, kunigaikštijas vienoje valdžioje.'
+  teiginys: "Mindaugas apjungė smulkias Lietuvos, ypač Aukštaitijos, kunigaikštijas vienoje valdžioje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "546563-546865; hash=8b041d5f8b9e70cd826e6cfe30b101c79a328335975cf6ff913333913d5b9de2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Viena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-052
+    - c-162969
 
 <a id="claim-t-179282"></a>
-- t-056
+- t-101
   global_id: t-179282
-  teiginys: '1316 m. prie Bisenės pilies Ordino broliai nukovė šešis lietuvių pamaininės saugos vyrus, turėjusius trauktis iš pilies.'
+  teiginys: "1316 m. prie Bisenės pilies Ordino broliai nukovė šešis lietuvių pamaininės saugos vyrus, turėjusius trauktis iš pilies."
+  semantiniai_rysiai: "Lietuviai gynė Bisenė (0.75); Fridrichas Kvicas puolė Bisenė (0.74)"
+  temporaliniai_duomenys: "įvykio data: 1316 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta, kad sakinys būtų sklandus ir aiškiai perteiktų įvykio eigą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "204061-204339; hash=5d097478fef032b58d1bf9fbe14817793d112fac0005b71cc069a03c32007eb2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Bisenė: 0.75"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Bisenė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Lietuvių pamaininė sauga buvo prie Bisenės pilies ir atliko jos apsaugos funkciją."
   pagrindžia:
-    - c-085
+    - c-163020
 
 <a id="claim-t-179283"></a>
-- t-057
+- t-121
   global_id: t-179283
-  teiginys: 'Lietuviai kaip tauta, anot šaltinio, Europoje Lietuvos vardu tapo žinomi tik X amžiuje.'
+  teiginys: "Lietuviai kaip tauta, anot šaltinio, Europoje Lietuvos vardu tapo žinomi tik X amžiuje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "415584-415901; hash=98caddbbfe705fc64ec6b85bc3136134fc5443878d622418a13f6504cc071a21; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=37"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-095
+    - c-163038
 
 <a id="claim-t-179284"></a>
-- t-058
+- t-097
   global_id: t-179284
-  teiginys: '1314 m. lietuviai naktį įsibrovė į maršalo Henriko palapines Medininkų valsčiuje, nužudė 4 vyrus ir išsivarė du arklius.'
+  teiginys: "1314 m. lietuviai naktį įsibrovė į maršalo Henriko palapines Medininkų valsčiuje, nužudė 4 vyrus ir išsivarė du arklius."
+  temporaliniai_duomenys: "įvykio data: 1314 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas, datuotas ir pagrįstas tinkama citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "563741-564165; hash=b465bdfc1f307c3992a3d253eecb688cbf790ecc73a90e17fb17977b115b0c7e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Medininkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Medininkai: mention_match, place, gap=53"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Medininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-071
-    - c-077
-    - c-083
-    - c-103
+    - c-163000
+    - c-163007
+    - c-163018
+    - c-163053
 
 <a id="claim-t-179285"></a>
-- t-059
+- t-142
   global_id: t-179285
-  teiginys: 'Po brolių smūgio 30 išsigelbėjusių lietuvių pranešė savo kariuomenei apie pralaimėjimą, ir ši paniškai pabėgo.'
+  teiginys: "Po brolių smūgio 30 išsigelbėjusių lietuvių pranešė savo kariuomenei apie pralaimėjimą, ir ši paniškai pabėgo."
+  semantiniai_rysiai: "Lietuviai puolė Kulmas (0.82)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "643314-643764; hash=39070ff1da9d8bf91e8107d6b2c55e8039d30eeaa7c07d7db75b3c4566dc4792; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Kulmas: 0.82"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kulmas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata aprašo lietuvių kariuomenės vyrų ketinimą plėšti kaimus Kulmo žemėje, todėl ryšys laikomas puolimu į Kulmą."
   pagrindžia:
-    - c-081
+    - c-163014
 
 <a id="claim-t-179286"></a>
-- t-060
+- t-137
   global_id: t-179286
-  teiginys: 'Lietuvių kariuomenei grįžtant, burtus metęs lietuvis perspėjo apie nesėkmę prieš brolių pasalą.'
+  teiginys: "Lietuvių kariuomenei grįžtant, burtus metęs lietuvis perspėjo apie nesėkmę prieš brolių pasalą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "599284-599913; hash=6975f3d30552dcdf6d47487f4f26d6585d572b62e4c08743fe39b380ed1a91a8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bebras: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Bebras: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Bebras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-024
+    - c-162929
+
+<a id="claim-t-179287"></a>
+- t-055
+  global_id: t-179287
+  teiginys: "Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją."
+  semantiniai_rysiai: "Lietuviai surengė žygį į Livonija (0.93); Lietuviai puolė Dorpatas (0.82)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "159087-159799; hash=a788bdb92b38f9034d5dfb6756e29c7a00d366ae62451cba3e0af3236b0e82d8; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Livonija: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo lietuvių pulko karinį įsiveržimą į Livoniją."
+  pagrindžia:
+    - c-162956
 
 <a id="claim-t-179288"></a>
-- t-062
+- t-098
   global_id: t-179288
-  teiginys: '1314 m. prie Sizditės pilies Medininkų valsčiuje lietuviai neteko Masiaus brolio ir dar 18 vyrų.'
+  teiginys: "1314 m. prie Sizditės pilies Medininkų valsčiuje lietuviai neteko Masiaus brolio ir dar 18 vyrų."
+  temporaliniai_duomenys: "įvykio data: 1314 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata aiškiai nurodo lietuvių nuostolius mūšyje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "648166-648861; hash=f067a1e9f1731730a6143e52fab599037b7f3658b4ab5aa3f5b367001a31fcc2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Medininkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Medininkai: mention_match, place, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Medininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-077
+    - c-163007
 
 <a id="claim-t-179289"></a>
 - t-063
   global_id: t-179289
-  teiginys: 'Lietuvių ir vakarinių baltų bendradarbiavimas ypač išryškėjo prasidėjus kovai prieš pavyslyje įsikūrusį Kryžiuočių ordiną.'
+  teiginys: "Lietuvių ir vakarinių baltų bendradarbiavimas ypač išryškėjo prasidėjus kovai prieš pavyslyje įsikūrusį Kryžiuočių ordiną."
+  semantiniai_rysiai: "Lietuviai kariavo prieš Kryžiuočių ordinas (0.92); Lietuviai kariavo prieš Kalavijuočių ordinas (0.90); Lietuviai puolė Kulmas (0.86); Lietuviai buvo sąjungininkas su Baltai (0.74)"
+  temporaliniai_duomenys: "įvykio data: 1236 m.; įvykio data: 1242 m.; įvykio data: 1243 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pataisyta didžioji raidė ir pašalintas nereikalingas atribucijos boilerplate."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "19177-19652; hash=e162e3fd2527e47a79dd083ef842ae14b9108e31bb59a80056ec73efac04b526; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo kovą prieš Kryžiuočių ordiną."
   pagrindžia:
-    - c-073
+    - c-163002
 
 <a id="claim-t-179290"></a>
-- t-064
+- t-050
   global_id: t-179290
-  teiginys: 'Tik X a. Lietuvos vardu Europai tapusi žinoma tauta citatoje siejama su trijų skirtingų kilmių gyventojų samplaika.'
+  teiginys: "Tik X a. Lietuvos vardu Europai tapusi žinoma tauta citatoje siejama su trijų skirtingų kilmių gyventojų samplaika."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "49709-50571; hash=e0d34793c024f731e1884d11e7ad0b997f69c75b6349ece25afa04d2b653ba5e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=15"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-018
+    - c-162923
 
 <a id="claim-t-179291"></a>
-- t-065
+- t-035
   global_id: t-179291
-  teiginys: 'Lietuvių ir rusų bajorai paskelbė Vytautą Lietuvos ir Rusijos karaliumi.'
+  teiginys: "Lietuvių ir rusų bajorai paskelbė Vytautą Lietuvos ir Rusijos karaliumi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "168797-169020; hash=f694bb7a9806b4cb60e5d24d51b83eff490470a1d12ae307a899e53ea3655dae; match=word_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-070
+    - c-162998
 
 <a id="claim-t-179292"></a>
-- t-066
+- t-011
   global_id: t-179292
-  teiginys: 'XI a. rusų metraščiai tik du kartus paminėjo lietuvių ir Kijevo rusų karinius konfliktus, jei 1040 ir 1044 m. Jaroslavo žygiai nebuvo viena ekspedicija.'
+  teiginys: "XI a. rusų metraščiai tik du kartus paminėjo lietuvių ir Kijevo rusų karinius konfliktus, jei 1040 ir 1044 m. Jaroslavo žygiai nebuvo viena ekspedicija."
+  semantiniai_rysiai: "Lietuviai kariavo prieš Kijevo Rusia (0.82)"
+  temporaliniai_duomenys: "įvykio data: 988 m; įvykio data: 1044 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pataisyta kalba ir sutrumpintas teiginys, išlaikant citatos sąlygą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "339455-340058; hash=77af96e74bbc4f2bcdd071324657a041bedfb0eb8540c3948593614fdd394da2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Kijevo Rusia: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kijevo Rusia: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai mini lietuvių ir Kijevo rusų karinius konfliktus."
   pagrindžia:
-    - c-006
+    - c-34226
 
 <a id="claim-t-179293"></a>
-- t-067
+- t-019
   global_id: t-179293
-  teiginys: 'Valstybės pakraščiuose Lietuvos valdovai galėjo įkurdinti ištikimus žmones iš Lietuvos, vadintus leičiais arba liečiais.'
+  teiginys: "Valstybės pakraščiuose Lietuvos valdovai galėjo įkurdinti ištikimus žmones iš Lietuvos, vadintus leičiais arba liečiais."
+  semantiniai_rysiai: "Lietuviai gyveno Lietuva (0.64)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "16081-16568; hash=0bfb12b9774db9528ebacfa42e1ec047ef52333ee038fed017c1d3f6e015e4fd; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Lietuva: 0.64"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas nurodo žmones iš Lietuvos, aplinkinių vadintus leičiais; artimiausias leistinas ryšys yra gyvenimas/kilmė iš vietos."
   pagrindžia:
-    - c-084
+    - c-163019
 
 <a id="claim-t-179294"></a>
-- t-068
+- t-115
   global_id: t-179294
-  teiginys: 'Lietuvių lyderių prisitaikymas prie Vokietijos interesų provokavo konfliktus su lenkais ir tarp pačių lietuvių.'
+  teiginys: "Lietuvių lyderių prisitaikymas prie Vokietijos interesų provokavo konfliktus su lenkais ir tarp pačių lietuvių."
+  temporaliniai_duomenys: "įvykio data: 1916 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta glaudžiau, pašalinant sunkų junginį ir išlaikant citatos faktą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "393283-393601; hash=121f1454a6da2686a1d5befcdfee41da88cd7825757660194c5562be8c0ec87b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=80"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-037
+    - c-162947
 
 <a id="claim-t-179295"></a>
-- t-069
+- t-080
   global_id: t-179295
-  teiginys: 'Lietuviai iš Aukaimio pilies apylinkių su 36 vyrais ketino plėšikiškais išpuoliais trikdyti Ragainės brolių ramybę.'
+  teiginys: "Lietuviai iš Aukaimio pilies apylinkių su 36 vyrais ketino plėšikiškais išpuoliais trikdyti Ragainės brolių ramybę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "562909-563315; hash=f6d0e89283583ec1a7a07cb84de83ce0046cca40d500410e84793665a2f4b24b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aukaimis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Aukaimis: mention_match, place, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Aukaimis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-013
-    - c-055
+    - c-162916
+    - c-162973
 
 <a id="claim-t-179296"></a>
-- t-070
+- t-092
   global_id: t-179296
-  teiginys: '1303 m. 50 plėšikautojų iš Lietuvos įsibrovė į Lubavos žemę, apiplėšė daug kaimų ir paėmė į nelaisvę ar nukovė daug krikščionių.'
+  teiginys: "1303 m. 50 plėšikautojų iš Lietuvos įsibrovė į Lubavos žemę, apiplėšė daug kaimų ir paėmė į nelaisvę ar nukovė daug krikščionių."
+  semantiniai_rysiai: "Lietuviai surengė žygį į Lubava (0.92); Lietuviai puolė Lubava (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1303 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir paremtas nurodyta citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "615529-616073; hash=f178f98be340a8de65b6ec3bc5173bfdd2004d2d9fdaefb1fc33d280efbaa40c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Lubava: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lubava: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo iš Lietuvos kilusių plėšikautojų įsibrovimą į Lubavos žemę."
   pagrindžia:
-    - c-029
+    - c-162935
 
 <a id="claim-t-179297"></a>
-- t-071
+- t-123
   global_id: t-179297
-  teiginys: 'Balińskis Ordino riterių smūgį pagoniškai Lietuvai apibūdino kaip paskutinį.'
+  teiginys: "Balińskis Ordino riterių smūgį pagoniškai Lietuvai apibūdino kaip paskutinį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "422166-422444; hash=baa8d583b16e2884294ef83947fe22908bed09afbf3a6cd5fb0bb5877e322134; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-021
+    - c-162926
 
 <a id="claim-t-179298"></a>
-- t-072
+- t-053
   global_id: t-179298
-  teiginys: 'Ordino riteriai, nešini šv. Jurgio vėliava, puolė į mūšį, bet lietuviai juos atrėmė.'
+  teiginys: "Ordino riteriai, nešini šv. Jurgio vėliava, puolė į mūšį, bet lietuviai juos atrėmė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "111606-111918; hash=0390ce0f08abe84abc5b986cb2b2fd494b1140d5f6787e75e5b240f67fc1a8bb; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Deglas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Deglas: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Deglas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-033
+    - c-162942
 
 <a id="claim-t-179299"></a>
-- t-073
+- t-099
   global_id: t-179299
-  teiginys: '1315 m. apie Žolinę lietuviai iš Žemaitijos su visa kariuomene slaptai ir netikėtai užpuolė Ragainės pilį.'
+  teiginys: "1315 m. apie Žolinę lietuviai iš Žemaitijos su visa kariuomene slaptai ir netikėtai užpuolė Ragainės pilį."
+  semantiniai_rysiai: "Lietuviai puolė Ragainė (0.91)"
+  temporaliniai_duomenys: "įvykio data: 1315 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškus, faktinis ir remiasi citata apie lietuvius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "224349-224950; hash=a9e1d10cfa01219f78f56b181da8239d20f5884559e801ae77ac78447c585637; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Ragainė: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Ragainė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claim tekste tiesiogiai pasakyta, kad lietuviai užpuolė Ragainės pilį."
   pagrindžia:
-    - c-051
-    - c-066
-    - c-092
-    - c-105
+    - c-162968
+    - c-162994
+    - c-163030
+    - c-167272
 
 <a id="claim-t-179300"></a>
-- t-074
+- t-102
   global_id: t-179300
-  teiginys: '1316 m. Medininkų valsčiuje Ragainės broliai, persekiojami 200 lietuvių, sudegino du kaimus ir paėmė į nelaisvę moteris bei vaikus.'
+  teiginys: "1316 m. Medininkų valsčiuje Ragainės broliai, persekiojami 200 lietuvių, sudegino du kaimus ir paėmė į nelaisvę moteris bei vaikus."
+  temporaliniai_duomenys: "įvykio data: 1316 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir pagrįstas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "112462-112710; hash=c5838897f4da37d5500596a3b3e7d88654f1b27041d904ffe4b59a54298d172e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-083
+    - c-163018
 
 <a id="claim-t-179301"></a>
-- t-075
+- t-077
   global_id: t-179301
-  teiginys: '1283 m. žiemą 800 raitelių iš Lietuvos per Kuršių neriją įsibrovė į Sembą ir nusiaubė Abendos bei Pabečių valsčius.'
+  teiginys: "1283 m. žiemą 800 raitelių iš Lietuvos per Kuršių neriją įsibrovė į Sembą ir nusiaubė Abendos bei Pabečių valsčius."
+  semantiniai_rysiai: "Lietuviai puolė Abenda (0.88); Lietuviai puolė Pabečiai (0.88)"
+  temporaliniai_duomenys: "įvykio data: 1283 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas skyriaus pavadinimas ir nutrūkusi pabaiga."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "533913-534601; hash=63ba53239e3b3716e34f72e9ff16e270774119f39fb2325baf8f9144483a22c2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Abenda: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Abenda: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Abenda tiesiogiai įvardyta kaip vienas nusiaubtų valsčių."
   pagrindžia:
-    - c-100
+    - c-163045
 
 <a id="claim-t-179302"></a>
-- t-076
+- t-122
   global_id: t-179302
-  teiginys: 'Palei Vilnios upę gyvenę senbuviai lietuviai sudarė būsimo Vilniaus miesto užuomazgą dar iki Gedimino.'
+  teiginys: "Palei Vilnios upę gyvenę senbuviai lietuviai sudarė būsimo Vilniaus miesto užuomazgą dar iki Gedimino."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "419517-420059; hash=a74d27098b34a5f513b5135141bb8ab48ac9689bb825cea4c787859f23a48bf5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vaidilos: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Vaidilos: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Vaidilos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-094
+    - c-163035
+
+<a id="claim-t-179303"></a>
+- t-033
+  global_id: t-179303
+  teiginys: "Po Ostrovos sutarties lietuviai savo valstybę laikė visiškai savarankiška."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "163015-163310; hash=0a2bfddab43efac0e82189b7d719c0f675c3c0557605cd81c7bee1e9ad79e59a; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-162920
 
 <a id="claim-t-179304"></a>
-- t-078
+- t-027
   global_id: t-179304
-  teiginys: '1897 m. surašymas parodė, kad skaityti mokėjo 48 proc. etninių lietuvių, o rusiškai skaitė tik kas penktas iš jų.'
+  teiginys: "1897 m. surašymas parodė, kad skaityti mokėjo 48 proc. etninių lietuvių, o rusiškai skaitė tik kas penktas iš jų."
+  temporaliniai_duomenys: "įvykio data: 1897 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys yra aiškus, užbaigtas ir tiksliai perteikia citatos duomenis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "221871-222411; hash=940d724ac00fc03a11122893a058ed094167606ec855bcfcd59ded8611ab4215; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-078
+    - c-163009
 
 <a id="claim-t-179305"></a>
-- t-079
+- t-139
   global_id: t-179305
-  teiginys: 'Magistrui Meinhardui niokojant Gaižuvos ir Paštuvos valsčius, grįžtančią jo kariuomenę kelis kartus užpuolė lietuviai.'
+  teiginys: "Magistrui Meinhardui niokojant Gaižuvos ir Paštuvos valsčius, grįžtančią jo kariuomenę kelis kartus užpuolė lietuviai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "617513-618249; hash=378707057d7258f4ca7b758e96f40e3d6f5a0f5eee85b0865519d03ba65c5dfe; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gaižuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Gaižuva: mention_match, place, gap=77"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Gaižuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-043
+    - c-162958
 
 <a id="claim-t-179306"></a>
-- t-080
+- t-108
   global_id: t-179306
-  teiginys: 'Mokslininkai, Lietuvos vardą kildindami iš etnonimo „lietuvis“, tyrė vietovardžius su šaknimis „leit-“ ir „liet-“ už Lietuvos ribų.'
+  teiginys: "Mokslininkai, Lietuvos vardą kildindami iš etnonimo „lietuvis“, tyrė vietovardžius su šaknimis „leit-“ ir „liet-“ už Lietuvos ribų."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "355020-355297; hash=46967784541cd6bffbbf9819d614e384eeb666f664977b7a3bde0b58ae894acf; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-060
+    - c-162982
 
 <a id="claim-t-179307"></a>
-- t-081
+- t-134
   global_id: t-179307
-  teiginys: 'Kronikoje vaizduojamu laikotarpiu prūsus, lietuvius ir latvius siejo kalbos, kultūros, tradicijų ir senosios religijos bendrumas.'
+  teiginys: "Kronikoje vaizduojamu laikotarpiu prūsus, lietuvius ir latvius siejo kalbos, kultūros, tradicijų ir senosios religijos bendrumas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "561805-562509; hash=c2a2cb0b37d29ba842a90b37ddafff76a23fb53f79ab227e99cc3e3e8ebb0164; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Latviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Latviai: mention_match, group, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Latviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-020
+    - c-162925
 
 <a id="claim-t-179308"></a>
-- t-082
+- t-125
   global_id: t-179308
-  teiginys: 'Šv. Kryžiaus Išaukštinimo dieną gausus lietuvių pulkas užpuolė kraštą ir nužudė arba į nelaisvę išsivedė 6-8 tūkst. gyventojų.'
+  teiginys: "Šv. Kryžiaus Išaukštinimo dieną gausus lietuvių pulkas užpuolė kraštą ir nužudė arba į nelaisvę išsivedė 6-8 tūkst. gyventojų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "163837-164364; hash=7dfe85aa1ba58332ce829287d31b32c29cd3e37c5c20e2ea62806ce24c70abe9; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kryžius: mention_match, thing, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Kryžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-028
+    - c-162933
 
 <a id="claim-t-179309"></a>
-- t-083
+- t-076
   global_id: t-179309
-  teiginys: 'Sūduviai, siekdami atkeršyti už priespaudą, pasitelkė lietuvius ir smarkiai užpuolė Sembos žemę.'
+  teiginys: "Sūduviai, siekdami atkeršyti už priespaudą, pasitelkė lietuvius ir smarkiai užpuolė Sembos žemę."
+  semantiniai_rysiai: "Lietuviai puolė Semba (0.86)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "519417-520078; hash=ae24a465c86717efb5543f10f4448c518541ab77ae7d8c47d2c14b7f64efeb6f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Semba: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Semba: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Lietuviai tiesiogiai įvardyti kaip pagalbon pasitelkta puolimo prieš Sembą dalis."
   pagrindžia:
-    - c-034
+    - c-162943
 
 <a id="claim-t-179310"></a>
-- t-084
+- t-138
   global_id: t-179310
-  teiginys: 'Per Velykas lietuviai Junigedos valsčiuje pastatė pilį ir pavadino ją Junigedos vardu.'
+  teiginys: "Per Velykas lietuviai Junigedos valsčiuje pastatė pilį ir pavadino ją Junigedos vardu."
+  semantiniai_rysiai: "Lietuviai pastatė Junigeda (0.88)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "614764-615745; hash=d0508482fccc1567124a93f19c57302ea4f34519c359ffbe439e393f810631d1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Junigeda: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Junigeda: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje tiesiogiai nurodyta, kad lietuviai Junigedos valsčiuje pastatė pilį."
   pagrindžia:
-    - c-048
+    - c-162964
 
 <a id="claim-t-179311"></a>
-- t-085
+- t-052
   global_id: t-179311
-  teiginys: 'Palei Vilnią gyvenę lietuviai ir Perkūną garbinę vaidilos citatoje laikomi būsimo Vilniaus užuomazga iki Gedimino.'
+  teiginys: "Palei Vilnią gyvenę lietuviai ir Perkūną garbinę vaidilos citatoje laikomi būsimo Vilniaus užuomazga iki Gedimino."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "71847-72230; hash=3b86ef673018d258033b4132fc74d2df36fab21c3617c3579e3e844ba0e3a9d0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vaidila: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Vaidila: mention_match, person, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Vaidila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-031
+    - c-162938
 
 <a id="claim-t-179312"></a>
-- t-086
+- t-096
   global_id: t-179312
-  teiginys: '1313 m. lietuvių karalius ir visa Lietuva pasiuntė Surminą su šimtu laivų sunaikinti Nemune buvusio Ordino laivo.'
+  teiginys: "1313 m. lietuvių karalius ir visa Lietuva pasiuntė Surminą su šimtu laivų sunaikinti Nemune buvusio Ordino laivo."
+  semantiniai_rysiai: "Lietuviai paskyrė Surminas (0.70)"
+  temporaliniai_duomenys: "įvykio data: 1313 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Lietuviai susiję su Lietuva“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir tiksliai atitinka citatos informaciją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "646054-646767; hash=1a9520974410cae06f54c812b1bb82bd2776585e04992abbf59ce2af969dbd43; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "paskyre -> Surminas: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Surminas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Lietuvių karalius ir Lietuva pasirinko Surminą užduočiai, todėl tai artima paskyrimui."
   pagrindžia:
-    - c-067
+    - c-162995
 
 <a id="claim-t-179313"></a>
-- t-087
+- t-073
   global_id: t-179313
-  teiginys: 'Skomantas su 4 tūkstančiais sūduvių ir stipria lietuvių kariuomene spalio 21 d. įsiveržė į Kulmo žemę.'
+  teiginys: "Skomantas su 4 tūkstančiais sūduvių ir stipria lietuvių kariuomene spalio 21 d. įsiveržė į Kulmo žemę."
+  semantiniai_rysiai: "Skomantas surengė žygį į Kulmas (0.94); Sūduviai surengė žygį į Kulmas (0.90); Lietuviai surengė žygį į Kulmas (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "506635-507435; hash=fa8a230f07ebbbf0fe68e98d79af85d4656e427d38e349451dbc140e6d0d48e7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Kulmas: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skomantas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kulmas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Skomanto vadovaujamą įsiveržimą į Kulmo žemę."
   pagrindžia:
-    - c-047
+    - c-162963
+
+<a id="claim-t-179314"></a>
+- t-036
+  global_id: t-179314
+  teiginys: "Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokiečiai, lenkai, totoriai, rusai ir valakai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "174678-175010; hash=64afda3daa792d6959f9d5375b477da195da48ccafc1bd489be3414a5dd31244; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-162946
 
 <a id="claim-t-179315"></a>
-- t-089
+- t-024
   global_id: t-179315
-  teiginys: 'XVII–XVIII a. LDK dar gyvavo lietuvių nacija, suprasta kaip politinė tauta.'
+  teiginys: "XVII–XVIII a. LDK dar gyvavo lietuvių nacija, suprasta kaip politinė tauta."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "143648-144332; hash=58245db73c31dc7956187f1248934d5bcc161fd200d1c279f20758463e2eb0f2; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-099
+    - c-163044
 
 <a id="claim-t-179316"></a>
-- t-090
+- t-152
   global_id: t-179316
-  teiginys: 'Lietuviai, valdant energingam Lietuvos valdovui, vėl stipriai puolė Livonijos kryžiuočius ir rengė žygius į Lenkiją.'
+  teiginys: "Lietuviai, valdant energingam Lietuvos valdovui, vėl stipriai puolė Livonijos kryžiuočius ir rengė žygius į Lenkiją."
+  semantiniai_rysiai: "Lietuviai surengė žygį į Lenkija (0.92); Lietuviai puolė Kryžiuočių ordinas (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "784561-784871; hash=20d7637cb4845897cf6cfe9f14ca3d3d639803a24f1e24756a93da393f0c8e01; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Lenkija: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claim tiesiogiai teigia, kad lietuviai rengė žygius į Lenkiją."
   pagrindžia:
-    - c-082
+    - c-163015
 
 <a id="claim-t-179317"></a>
-- t-091
+- t-130
   global_id: t-179317
-  teiginys: 'Po mūšio tarp Verkių ir Šeškinės dalis lietuvių pajėgų užsidarė Vilniaus tvirtovių mūruose ir aptvaruose.'
+  teiginys: "Po mūšio tarp Verkių ir Šeškinės dalis lietuvių pajėgų užsidarė Vilniaus tvirtovių mūruose ir aptvaruose."
+  semantiniai_rysiai: "Lenkai gynė Vilnius (0.69)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "501579-502048; hash=a632a57e73c7431651c96efeeb8c34745ece6af854e221849cf37f615a805ab8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Vilnius: 0.69"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje visa lenkų įgula užsidarė Vilniaus tvirtovėse miesto gynybai, todėl ryšys su Vilniaus gynimu pagrįstas."
   pagrindžia:
-    - c-025
+    - c-162930
 
 <a id="claim-t-179318"></a>
-- t-092
+- t-066
   global_id: t-179318
-  teiginys: 'Pasak Petro Dusburgiečio, Romuva buvo prūsų, lietuvių ir kitų baltų religinio kulto centras.'
+  teiginys: "Pasak Petro Dusburgiečio, Romuva buvo prūsų, lietuvių ir kitų baltų religinio kulto centras."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "210797-210930; hash=68813071458acfcd2d2dded4c33d6e759ccfd81e54d2caf35b7c49e29d01c8df; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Baltai: mention_match, group, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-064
+    - c-162988
 
 <a id="claim-t-179320"></a>
-- t-093
+- t-018
   global_id: t-179320
-  teiginys: 'Lietuvos vardas pirmąkart paminėtas 1009 m., bet lietuvių gentis iš rytų baltų turėjo išsiskirti keliais amžiais anksčiau.'
+  teiginys: "Lietuvos vardas pirmąkart paminėtas 1009 m., bet lietuvių gentis iš rytų baltų turėjo išsiskirti keliais amžiais anksčiau."
+  temporaliniai_duomenys: "įvykio data: 1009 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys yra aiškus, gramatiškas ir pagrįstas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "14673-15210; hash=14851f974c0141561ec34dc855b72ef53f97e1539e1705f0c95690d4e3e73d26; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Baltai: mention_match, group, gap=73"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-086
+    - c-163022
 
 <a id="claim-t-179322"></a>
-- t-094
+- t-072
   global_id: t-179322
-  teiginys: 'Henrikas Tupadelis balistos strėle nukovė kilmingą ir galingą lietuvių vadą per Vėluvos pilies apgultį.'
+  teiginys: "Henrikas Tupadelis balistos strėle nukovė kilmingą ir galingą lietuvių vadą per Vėluvos pilies apgultį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "181558-181923; hash=5b25869e6d5029f568c9214e9c3c4511e197dd79256df51b45cf6374d23e6fa5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vėluva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Vėluva: mention_match, place, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Vėluva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-092
+    - c-163030
 
 <a id="claim-t-179323"></a>
-- t-095
+- t-012
   global_id: t-179323
-  teiginys: 'Pagal Dusburgą, 1262–1263 m. lietuviai surengė du žygius į Prūsus, talkindami prūsams.'
+  teiginys: "Pagal Dusburgą, 1262–1263 m. lietuviai surengė du žygius į Prūsus, talkindami prūsams."
+  semantiniai_rysiai: "Lietuviai surengė žygį į Prūsų žemė (0.94); Lietuviai puolė Vokiečiai (0.92); Lietuviai buvo sąjungininkas su Sūduviai (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1262-1263; įvykio data: 1263 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "543345-543638; hash=946eee99be2973d3eb3cbec2488ed8fa98f5c21fd7f1c8a7530bad72eeea660f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Prūsų žemė: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "deterministic_validation_passed; llm_structured_decision; prusai_place_context"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Prūsai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo du lietuvių žygius į Prūsus."
   pagrindžia:
-    - c-003
+    - c-31191
 
 <a id="claim-t-179324"></a>
-- t-096
+- t-014
   global_id: t-179324
-  teiginys: 'Lietuviai vėl stipriai puolė Livonijos kryžiuočius ir rengė intensyvius karo žygius į Lenkiją.'
+  teiginys: "Lietuviai vėl stipriai puolė Livonijos kryžiuočius ir rengė intensyvius karo žygius į Lenkiją."
+  semantiniai_rysiai: "Lietuviai puolė Kryžiuočių ordinas (0.88)"
+  temporaliniai_duomenys: "įvykio data: iki 1306 m.; įvykio data: 1306 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir paremtas citata apie lietuvių puolimus Livonijoje ir Lenkijoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "562101-562359; hash=482eaa28449d8daeba1f2a4cabea76522f33572cf0b354420d26922738512e7e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Kryžiuočių ordinas: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad lietuviai puolė Livonijos kryžiuočius."
   pagrindžia:
-    - c-004
+    - c-31192
 
 <a id="claim-t-179325"></a>
-- t-097
+- t-143
   global_id: t-179325
-  teiginys: 'Vytauto jaunystėje kardininkai ir kryžiuočiai ypač smarkiai puldavo Lietuvą.'
+  teiginys: "Vytauto jaunystėje kardininkai ir kryžiuočiai ypač smarkiai puldavo Lietuvą."
+  semantiniai_rysiai: "Kalavijuočių ordinas puolė Lietuva (0.95); Kryžiuočių ordinas puolė Lietuva (0.95)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "643903-644218; hash=8a6118d9b987c898ff60969a6e2426c144bdf43a3f120e6e982e2ca29b8fdb07; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Lietuva: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad kardininkai puldavo Lietuvą."
   pagrindžia:
-    - c-068
+    - c-162996
 
 <a id="claim-t-179326"></a>
-- t-098
+- t-061
   global_id: t-179326
-  teiginys: 'Anglų riteriai kryžiaus žygiuose kartu su kryžiuočiais kovojo prieš pagonis lietuvius.'
+  teiginys: "Anglų riteriai kryžiaus žygiuose kartu su kryžiuočiais kovojo prieš pagonis lietuvius."
+  semantiniai_rysiai: "Anglų riteriai kariavo prieš Lietuviai (0.90); Anglų riteriai buvo sąjungininkas su Kryžiuočių ordinas (0.84); Kryžiuočių ordinas kariavo prieš Lietuviai (0.84)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "229047-229427; hash=b1c8c48d4edf9c24205b03ceec5556917f5b481f58dcce992e78e16f40bbb092; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Lietuviai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Anglų riteriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad anglų riteriai žygiuose kovėsi su lietuviais."
   pagrindžia:
-    - c-076
+    - c-163006
 
 <a id="claim-t-179327"></a>
-- t-099
+- t-078
   global_id: t-179327
-  teiginys: 'Konradas Kuršių nerijoje pastatydino Noihauzo pilį, kad lietuviai negalėtų netikėtai veržtis į Sembos žemę.'
+  teiginys: "Konradas Kuršių nerijoje pastatydino Noihauzo pilį, kad lietuviai negalėtų netikėtai veržtis į Sembos žemę."
+  semantiniai_rysiai: "Lietuviai puolė Semba (0.70)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "535806-536316; hash=dce9664d5c3595f4d53b59c235002859d1c1e32002df2b836d5ffd2d93f1cb71; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Semba: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Semba: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas kaip pilies statybos tikslą nurodo užkirsti kelią lietuvių veržimuisi į Sembą."
   pagrindžia:
-    - c-065
+    - c-162990
 
 <a id="claim-t-179328"></a>
-- t-100
+- t-041
   global_id: t-179328
-  teiginys: 'Lietuvių bajorai gavo teisę po Vytauto mirties dalyvauti naujo kunigaikščio rinkimuose.'
+  teiginys: "Lietuvių bajorai gavo teisę po Vytauto mirties dalyvauti naujo kunigaikščio rinkimuose."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "431463-431808; hash=3f6d9cc1d136543e556cf38bcdc89706c9b00f6bd5e6e7b8b297cae245da45b5; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-010
+    - c-36885
 
 <a id="claim-t-179329"></a>
-- t-101
+- t-060
   global_id: t-179329
-  teiginys: 'Dalis lietuvių diduomenės ir paprastų žmonių, kaip manyta, nekeisianti senojo gyvenimo būdo.'
+  teiginys: "Dalis lietuvių diduomenės ir paprastų žmonių, kaip manyta, nekeisianti senojo gyvenimo būdo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "221352-223065; hash=862e973a10ef44e19b287e8c8ff9f9bb66462b37806dd4cdd43467facfe5d7d2; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-089
+    - c-163026
 
 <a id="claim-t-179330"></a>
-- t-102
+- t-038
   global_id: t-179330
-  teiginys: 'Tuo metu lietuviai puolė iš Žemaitijos, o lenkai – netoli Sviečės.'
+  teiginys: "Tuo metu lietuviai puolė iš Žemaitijos, o lenkai – netoli Sviečės."
+  semantiniai_rysiai: "Lenkai puolė Sviečė (0.76)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "702630-703548; hash=c3be495e6d5c9abd3c9264a179ff59baa1dcd39fa704cd7c4f552b653ffd5c5a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Sviečė: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Sviečė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje minimas lenkų puolimas netoli Sviečės; vieta nėra pats taikinys, todėl tik vidutinis tikrumas."
   pagrindžia:
-    - c-056
+    - c-162974
 
 <a id="claim-t-179332"></a>
-- t-103
+- t-016
   global_id: t-179332
-  teiginys: 'Kronikininkas Posilgė apie lietuvius kautynių pabaigoje tepasakė, kad jie buvo atmušti.'
+  teiginys: "Kronikininkas Posilgė apie lietuvius kautynių pabaigoje tepasakė, kad jie buvo atmušti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "930555-930936; hash=40bf57d45c99e0fae144b0ef07b77193984941605120fb23c819956b7d4c32bd; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-34227
 
 <a id="claim-t-179333"></a>
-- t-104
+- t-127
   global_id: t-179333
-  teiginys: 'Gediminas laiške popiežiui Jonui prisistatė lietuvių ir daugelio rusų karaliumi.'
+  teiginys: "Gediminas laiške popiežiui Jonui prisistatė lietuvių ir daugelio rusų karaliumi."
+  semantiniai_rysiai: "Gediminas buvo valdovas Rusai (0.88)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "453491-454180; hash=418b79ca1edfa6cf1a8a5b5136bca1d46451aec398b3ec70121542fc76bee323; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_valdovas -> Rusai: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Rusai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citatoje Gediminas tiesiogiai vadinamas daugelio rusų karaliumi."
   pagrindžia:
-    - c-058
+    - c-162980
 
 <a id="claim-t-179334"></a>
-- t-105
+- t-022
   global_id: t-179334
-  teiginys: 'Lietuvių bajorai ir individualiai ūkininkaujantys valstiečiai skyrėsi nuo rytinių slavų žemėvaldos tradicijos.'
+  teiginys: "Lietuvių bajorai ir individualiai ūkininkaujantys valstiečiai skyrėsi nuo rytinių slavų žemėvaldos tradicijos."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "67743-68264; hash=6a8273dd26aba968d8eecc2043f125a6535542e62b2df8089dc68883c2c6193a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-014
+    - c-162917
 
 <a id="claim-t-179335"></a>
-- t-106
+- t-153
   global_id: t-179335
-  teiginys: 'Pagal Dlugošo kroniką, lietuvių pasitraukimas Žalgirio kautynėse reiškė bėgimą.'
+  teiginys: "Pagal Dlugošo kroniką, lietuvių pasitraukimas Žalgirio kautynėse reiškė bėgimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "930555-930936; hash=40bf57d45c99e0fae144b0ef07b77193984941605120fb23c819956b7d4c32bd; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-34227
 
 <a id="claim-t-179336"></a>
-- t-107
+- t-079
   global_id: t-179336
-  teiginys: 'Lietuvių karalius su 8 tūkstančiais raitelių įsiveržė į Sembą ir sudegino visus pastatus bei pasėlius.'
+  teiginys: "Lietuvių karalius su 8 tūkstančiais raitelių įsiveržė į Sembą ir sudegino visus pastatus bei pasėlius."
+  semantiniai_rysiai: "Lietuviai surengė žygį į Semba (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "559031-559608; hash=5934d1180cb8a7d2690e64a5b6f80fa19b28ea9a37825be16dcf402746496631; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Semba: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Semba: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Lietuvių karaliaus pajėgos tiesiogiai įsibrovė į Sembos žemę."
   pagrindžia:
-    - c-074
+    - c-163003
 
 <a id="claim-t-179338"></a>
-- t-108
+- t-006
   global_id: t-179338
-  teiginys: 'Lietuviai pateikė savą projektą, pagal kurį bendras karalius turėjo būti atskirai pakeliamas Vilniuje didžiuoju kunigaikščiu.'
+  teiginys: "Lietuviai pateikė savą projektą, pagal kurį bendras karalius turėjo būti atskirai pakeliamas Vilniuje didžiuoju kunigaikščiu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "162959-163203; hash=a4b1519543a85fced1c97e43f1dfac71da6a6ae709ddca761ab6da37809ed85f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-017
-    - c-062
+    - c-162922
+    - c-162984
 
 <a id="claim-t-179339"></a>
-- t-109
+- t-087
   global_id: t-179339
-  teiginys: '1298 m. rugsėjo 29 d. 140 Lietuvos vyrų netikėtai užpuolė Straisbergą, išžudė gyventojus ir paėmė į nelaisvę moteris bei vaikus.'
+  teiginys: "1298 m. rugsėjo 29 d. 140 Lietuvos vyrų netikėtai užpuolė Straisbergą, išžudė gyventojus ir paėmė į nelaisvę moteris bei vaikus."
+  semantiniai_rysiai: "Lietuviai puolė Straisbergas (0.95)"
+  temporaliniai_duomenys: "įvykio data: 1298 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas, aiškus ir tiesiogiai pagrįstas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "601449-602120; hash=0b9be1c7907fa47ac91ec9bbc9e710aeb704d2a283ef07cae0af0b31c9c384ef; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Straisbergas: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Straisbergas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai įvardija Lietuvos vyrus kaip Straisbergo miesto puolėjus."
   pagrindžia:
-    - c-026
+    - c-162931
+
+<a id="claim-t-179320"></a>
+- t-018
+  global_id: t-179320
+  teiginys: "Lietuvos vardas pirmąkart paminėtas 1009 m., bet lietuvių gentis iš rytų baltų turėjo išsiskirti keliais amžiais anksčiau."
+  temporaliniai_duomenys: "įvykio data: 1009 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys yra aiškus, gramatiškas ir pagrįstas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "14673-15210; hash=14851f974c0141561ec34dc855b72ef53f97e1539e1705f0c95690d4e3e73d26; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Baltai: mention_match, group, gap=73"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-163022
 
 <a id="claim-t-179342"></a>
-- t-111
+- t-114
   global_id: t-179342
-  teiginys: 'Oberosto režimo metu lietuviai įsteigė apie tūkstantį mokyklų ir mokytojų kursų.'
+  teiginys: "Oberosto režimo metu lietuviai įsteigė apie tūkstantį mokyklų ir mokytojų kursų."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "391600-392084; hash=55298cfdf132f74a21675f70b8a2fee1162901ca9ae9131a0ebcc8d31a8f4924; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Berlynas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Berlynas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Berlynas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-096
+    - c-163039
+
+<a id="claim-t-179227"></a>
+- t-037
+  global_id: t-179227
+  teiginys: "Lietuvos kariuomenė pradėjo rinktis gegužės pabaigoje arba birželio pradžioje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "216913-217201; hash=37df9e376fdd3d6086b9cf13e96f9f36385849ab5ee693312f3da8fe8afd3f7d; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkijos kariuomenė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lenkijos kariuomenė: mention_match, group, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lenkijos kariuomenė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-162983
 
 <a id="claim-t-179344"></a>
-- t-113
+- t-028
   global_id: t-179344
-  teiginys: 'Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėnraštį „Aušra“ („Auszra“).'
+  teiginys: "Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėnraštį „Aušra“ („Auszra“)."
+  temporaliniai_duomenys: "įvykio data: 1883 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, enciklopedinis ir tiesiogiai pagrįstas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "225013-225725; hash=834d7449474dc0805306fc29b66baae3bdf24f3b3bec13c3121b69ffd6ce1910; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-019
+    - c-162924
 
 <a id="claim-t-179345"></a>
-- t-114
+- t-039
   global_id: t-179345
-  teiginys: 'Lietuviai žygiavo pirmieji ir prie Gilgenburgo užpuolė bei paėmė miestelį.'
+  teiginys: "Lietuviai žygiavo pirmieji ir prie Gilgenburgo užpuolė bei paėmė miestelį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "222247-222453; hash=b516566824f54e89e3a43a8f07901061e95eb205965f3ba3f126adc34b06afac; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gilgenburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Gilgenburgas: mention_match, place, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Gilgenburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-36883
 
 <a id="claim-t-179346"></a>
-- t-115
+- t-132
   global_id: t-179346
-  teiginys: 'Tik penktą dieną iš lietuvių, pabėgusių iš Aukštutinės pilies, sužinota, kad kunigaikštis Karigaila žuvo.'
+  teiginys: "Tik penktą dieną iš lietuvių, pabėgusių iš Aukštutinės pilies, sužinota, kad kunigaikštis Karigaila žuvo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "537156-537483; hash=927259e295610f296d7c7e76382363909005de30807011e5f10202ba80af58c3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Karigaila: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Karigaila: mention_match, person, gap=70"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Karigaila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-049
+    - c-162966
 
 <a id="claim-t-179348"></a>
-- t-116
+- t-021
   global_id: t-179348
-  teiginys: 'Užėmę svetimą kraštą, lietuviai iš pradžių veikiausiai nekeisdavo susiklosčiusios tvarkos.'
+  teiginys: "Užėmę svetimą kraštą, lietuviai iš pradžių veikiausiai nekeisdavo susiklosčiusios tvarkos."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "63564-63906; hash=d1672f96de4183e6386c91e743eb7d34a9982d1af595fc854e7160498b0f4a20; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bizantija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Bizantija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Bizantija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-057
+    - c-162977
+
+<a id="claim-t-179336"></a>
+- t-079
+  global_id: t-179336
+  teiginys: "Lietuvių karalius su 8 tūkstančiais raitelių įsiveržė į Sembą ir sudegino visus pastatus bei pasėlius."
+  semantiniai_rysiai: "Lietuviai surengė žygį į Semba (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "559031-559608; hash=5934d1180cb8a7d2690e64a5b6f80fa19b28ea9a37825be16dcf402746496631; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Semba: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Semba: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Lietuvių karaliaus pajėgos tiesiogiai įsibrovė į Sembos žemę."
+  pagrindžia:
+    - c-163003
+
+<a id="claim-t-179216"></a>
+- t-095
+  global_id: t-179216
+  teiginys: "Lietuvos karalius, sužinojęs apie Gardino pilies papilio sunaikinimą, nusiuntė pilies ginti daug rinktinių karių."
+  semantiniai_rysiai: "Lietuviai gynė Gardinas (0.82)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "623031-623583; hash=2b0cbb1730de2f07109fb3df4e33e59d748cf2e3e7bf0f129e5f4d1edb3acf97; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Gardinas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Gardinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Lietuvos karalius pasiuntė karių ginti Gardino pilies; subjektas apibendrintas kaip lietuvių pusė."
+  pagrindžia:
+    - c-167272
+
+<a id="claim-t-179312"></a>
+- t-096
+  global_id: t-179312
+  teiginys: "1313 m. lietuvių karalius ir visa Lietuva pasiuntė Surminą su šimtu laivų sunaikinti Nemune buvusio Ordino laivo."
+  semantiniai_rysiai: "Lietuviai paskyrė Surminas (0.70)"
+  temporaliniai_duomenys: "įvykio data: 1313 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Lietuviai susiję su Lietuva“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir tiksliai atitinka citatos informaciją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "646054-646767; hash=1a9520974410cae06f54c812b1bb82bd2776585e04992abbf59ce2af969dbd43; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "paskyre -> Surminas: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Surminas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Lietuvių karalius ir Lietuva pasirinko Surminą užduočiai, todėl tai artima paskyrimui."
+  pagrindžia:
+    - c-162995
 
 <a id="claim-t-184221"></a>
-- t-120
+- t-161
   global_id: t-184221
-  teiginys: 'Žygiuojant Gilgenburgo link, lietuviai žygiavo pirmieji.'
+  teiginys: "Žygiuojant Gilgenburgo link, lietuviai žygiavo pirmieji."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Lietuviai puolė Gilgenburgas (0.92); Lietuviai užėmė Gilgenburgas (0.90); Lietuviai keliavo į Gilgenburgas (0.86)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "222212-222370; hash=5e56e7195b0bba5ca4b1d462538f06bfa3384723385ac247c98b38480a369071; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Gilgenburgas: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Gilgenburgas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas aiškiai sako, kad lietuviai užpuolė Gilgenburgo miestelį."
   pagrindžia:
-    - c-106
+    - c-167606
 
 <a id="claim-t-184541"></a>
-- t-121
+- t-162
   global_id: t-184541
-  teiginys: 'Lietuviai išvijo priešus iš stovyklos, o daug bėgančiųjų žuvo nuo kalavijų arba prigėrė Dnepro ir Pripetės duburiuose.'
+  teiginys: "Lietuviai išvijo priešus iš stovyklos, o daug bėgančiųjų žuvo nuo kalavijų arba prigėrė Dnepro ir Pripetės duburiuose."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "132670-133256; hash=a3c1388296248957773c67994935dfdcac0c946e625fe8a1e56e8b5d30dc185f; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dnepras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Dnepras: mention_match, place, gap=88"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Dnepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-107
+    - c-167902
 
 <a id="claim-t-184542"></a>
-- t-122
+- t-163
   global_id: t-184542
-  teiginys: 'Kernavės susirinkime visi lietuviai rėmė Vaišvilką.'
+  teiginys: "Kernavės susirinkime visi lietuviai rėmė Vaišvilką."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "187812-188228; hash=a462e3e3bf0ed717faf117da13abaf1183f4ba6992fa754f0194a2906aade757; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kernavė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kernavė: mention_match, place, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Kernavė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-108
+    - c-167903
 
 <a id="claim-t-184543"></a>
-- t-123
+- t-164
   global_id: t-184543
-  teiginys: 'Lietuviams sulaužius sutartį, jiems priklausanti Poleksija buvo nusiaubta Mazovijos ir Kujavijos karių.'
+  teiginys: "Lietuviams sulaužius sutartį, jiems priklausanti Poleksija buvo nusiaubta Mazovijos ir Kujavijos karių."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Poleksija priklausė Lietuviai (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1274 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas moralizuojantis vertinimas ir OCR klaidos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "219299-220014; hash=d0e6796fd4f697677e98c70720e53f921c38c826eac6c9df68df5293bf5998b9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuviai: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Poleksija: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai apibūdina Poleksiją kaip lietuviams priklausantį kraštą."
   pagrindžia:
-    - c-109
+    - c-167904
 
 <a id="claim-t-184544"></a>
-- t-124
+- t-165
   global_id: t-184544
-  teiginys: 'Livonijos metraščio teigimu, žemaičiai ir lietuviai prie Eželio ant ledo kovėsi su Livonijos magistru Otonu.'
+  teiginys: "Livonijos metraščio teigimu, žemaičiai ir lietuviai prie Eželio ant ledo kovėsi su Livonijos magistru Otonu."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "222075-222523; hash=54155089b400be3583fb01996c89a39721a9941fec554487ed67037304651624; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> magistras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "magistras: mention_match, thing, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"magistras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-110
+    - c-167905
 
 <a id="claim-t-184545"></a>
-- t-125
+- t-166
   global_id: t-184545
-  teiginys: 'Konrado pakviesti lietuviai atėmė Gostininą iš Kujavijos kunigaikščio Vladislovo ir apiplėštą pilį atidavė Konradui.'
+  teiginys: "Konrado pakviesti lietuviai atėmė Gostininą iš Kujavijos kunigaikščio Vladislovo ir apiplėštą pilį atidavė Konradui."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "268988-269341; hash=667bbd3154ec5c49c6abb0efc65911d937eb3bc0005af47e0d8030a0543dfa6a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gostininas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Gostininas: mention_match, place, gap=16"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Gostininas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-111
+    - c-167906
 
 <a id="claim-t-184546"></a>
-- t-126
+- t-167
   global_id: t-184546
-  teiginys: 'Lietuviai, kaip sąjungininkai žygiuodami per Mazoviją į Gostininą, ėmė grobstyti atsigavusio krašto turtus.'
+  teiginys: "Lietuviai, kaip sąjungininkai žygiuodami per Mazoviją į Gostininą, ėmė grobstyti atsigavusio krašto turtus."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Lietuviai užėmė Sochačevas (0.87); Lietuviai užėmė Plockas (0.87); Lietuviai keliavo į Mazovija (0.72)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "269342-270149; hash=8839b633df5533a848df510bbfe777829020cb09531572f40eaca2311c2e0ad8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Plockas: 0.87"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Plockas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad lietuviai užėmė Plocko apygardą."
   pagrindžia:
-    - c-112
+    - c-167907
 
 <a id="claim-t-184548"></a>
-- t-127
+- t-169
   global_id: t-184548
-  teiginys: 'Lietuviai atrėmė priešo puolimą, persekiojo kryžiuočius ir privertė juos bėgti.'
+  teiginys: "Lietuviai atrėmė priešo puolimą, persekiojo kryžiuočius ir privertė juos bėgti."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Lietuviai kariavo prieš Kryžiuočių ordinas (0.83)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "302608-303096; hash=ea34321bd51455e8a84a45dd0373f0151db1975e90ce069d73322363499d8112; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata rodo mūšį, kuriame lietuviai sutriuškino kryžiuočių kariuomenę."
   pagrindžia:
-    - c-113
+    - c-167909
 
 <a id="claim-t-184549"></a>
-- t-128
+- t-170
   global_id: t-184549
-  teiginys: 'Lietuviai krikščionių šventyklose išniekino šventuosius indus, o grįžtančius juos išžudė Kulmo komtūras Konradas Žakas.'
+  teiginys: "Lietuviai krikščionių šventyklose išniekino šventuosius indus, o grįžtančius juos išžudė Kulmo komtūras Konradas Žakas."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Konradas Žakas puolė Lietuviai (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1299 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "304545-305209; hash=543d3ef4413207672ae805d20fe0cbf7a31817efb7572bc3bf26f29f55f367a6; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Lietuviai: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Konradas Žakas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citatoje Konradas Žakas kaip veikėjas išžudo grįžtančius lietuvius."
   pagrindžia:
-    - c-114
+    - c-167910
 
 <a id="claim-t-184550"></a>
-- t-129
+- t-171
   global_id: t-184550
-  teiginys: 'Gediminas su kitais kariais atskubėjo padėti pradėjusiam krikti lietuvių raitelių pulkui ir vėliau įsakė jam pulti rusų sparną.'
+  teiginys: "Gediminas su kitais kariais atskubėjo padėti pradėjusiam krikti lietuvių raitelių pulkui ir vėliau įsakė jam pulti rusų sparną."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Gediminas gynė Lietuviai (0.74); Gediminas puolė Rusai (0.67)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "346984-347735; hash=65c3d6bdd10b2932143e67b3603abc8d9952c716a2048218fafc5c9cde9ad85d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Lietuviai: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Tekstas nurodo, kad Gediminas atskubėjo padėti krinkančiam lietuvių raitelių pulkui."
+  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-115
+    - c-167911
 
 <a id="claim-t-184551"></a>
-- t-130
+- t-172
   global_id: t-184551
-  teiginys: 'Kijevo monarchijai baigiantis, Kijevas atsidūrė Lietuvos kunigaikščio valdžioje.'
+  teiginys: "Kijevo monarchijai baigiantis, Kijevas atsidūrė Lietuvos kunigaikščio valdžioje."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Kijevas priklausė Lietuva (0.74)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "350321-351024; hash=f2c82324756d216b6dcb4311840e3e749ac05022f84b7a318ef7efd8c29f5eca; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kijevas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata teigia, kad Kijevas atsidūrė Lietuvos kunigaikščio valdžioje; konkretaus kunigaikščio kandidatuose nėra."
   pagrindžia:
-    - c-116
+    - c-167912
 
 <a id="claim-t-184552"></a>
-- t-131
+- t-173
   global_id: t-184552
-  teiginys: 'Lietuviai reikalavo perrašyti Jogailos sudarytą unijos sutartį ir pašalinti Lietuvos Didžiosios Kunigaikštystės orumą žeminančius straipsnius.'
+  teiginys: "Lietuviai reikalavo perrašyti Jogailos sudarytą unijos sutartį ir pašalinti Lietuvos Didžiosios Kunigaikštystės orumą žeminančius straipsnius."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "856726-857732; hash=839f64a9328f1c40aabe3918d231e578dba2269962063295fd59ef698a5d7d96; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-117
+    - c-167913
 
 <a id="claim-t-184553"></a>
-- t-132
+- t-174
   global_id: t-184553
-  teiginys: 'Kivirčuose su lenkais dėl Rusios lietuviai ginklu gynė savo teises į Rusią.'
+  teiginys: "Kivirčuose su lenkais dėl Rusios lietuviai ginklu gynė savo teises į Rusią."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "859639-860032; hash=1b83ba2a0d9be8420e6b1c7bb23251ddef1ddea5de251d4dc4104a14d900c5a1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-118
+    - c-167914
 
 <a id="claim-t-184554"></a>
-- t-133
+- t-175
   global_id: t-184554
-  teiginys: 'Lenkai atsakė, kad neatsisakys atsilyginti lietuvių luomams.'
+  teiginys: "Lenkai atsakė, kad neatsisakys atsilyginti lietuvių luomams."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "901172-901582; hash=abd998b4b2ea76707ccc59a1bf6d469c47085c8ffe2fb41fbfed558ca13f62e8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=43"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-119
+    - c-167915
 
 <a id="claim-t-184555"></a>
-- t-134
+- t-176
   global_id: t-184555
-  teiginys: 'Aleksandras ir Šich Achmetas suteikė karo žygiais išgarsėjusiems lietuviams, lenkams ir skitams bajoriškųjų lengvatų.'
+  teiginys: "Aleksandras ir Šich Achmetas suteikė karo žygiais išgarsėjusiems lietuviams, lenkams ir skitams bajoriškųjų lengvatų."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1027375-1027982; hash=74dc8a245f64cb38b067efeb101c139962b25eaa0c75612b25a0268f19ee5fd4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-120
+    - c-167916
 
 <a id="claim-t-187716"></a>
 - t-135
   global_id: t-187716
-  teiginys: 'Lietuvių kariuomenė mūšio pradžioje pirmiausia susikovė su vokiečiais, o abiejose pusėse krito daug karių.'
+  teiginys: "Lietuvių kariuomenė mūšio pradžioje pirmiausia susikovė su vokiečiais, o abiejose pusėse krito daug karių."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "185462-186017; hash=90512b28adca4f6723946c1d8bd2b5550e914ffd30efe57e9725724fcbab07a9; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Vokiečiai: mention_match, group, gap=59"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Vokiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-121
+    - c-170655
 
 <a id="claim-t-187717"></a>
 - t-136
   global_id: t-187717
-  teiginys: 'Žygimantas iš Vilniaus atžygiavo su septynių tūkstančių lietuvių pajėgomis prieš gruodžio 8 d. prasidėjusį mūšį.'
+  teiginys: "Žygimantas iš Vilniaus atžygiavo su septynių tūkstančių lietuvių pajėgomis prieš gruodžio 8 d. prasidėjusį mūšį."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "204061-204339; hash=5d097478fef032b58d1bf9fbe14817793d112fac0005b71cc069a03c32007eb2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bisenė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Bisenė: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Bisenė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-122
+    - c-170656
 
 <a id="claim-t-188251"></a>
 - t-137
   global_id: t-188251
-  teiginys: 'Narbutas apgailestavo, kad per 400 metų Lietuvos praeitimi esą rūpinosi tik Kojalavičius, Mykolas Lietuvis ir jis pats.'
+  teiginys: "Narbutas apgailestavo, kad per 400 metų Lietuvos praeitimi esą rūpinosi tik Kojalavičius, Mykolas Lietuvis ir jis pats."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "112462-112710; hash=c5838897f4da37d5500596a3b3e7d88654f1b27041d904ffe4b59a54298d172e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-123
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171145
+
 <a id="claim-t-188252"></a>
 - t-138
   global_id: t-188252
-  teiginys: 'Narbutas lietuvių mitologiją laikė iš graikų kilusia sistema, kurią esą sukūrė aukštesnį civilizacijos laipsnį pasiekę žmonės.'
+  teiginys: "Narbutas lietuvių mitologiją laikė iš graikų kilusia sistema, kurią esą sukūrė aukštesnį civilizacijos laipsnį pasiekę žmonės."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "140938-141495; hash=6d766e475b35161dbdbe6caf4f063f1241f61d46aa95641a715c5fca4a04eb00; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Graikai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Graikai: mention_match, group, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-124
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171146
+
 <a id="claim-t-188253"></a>
 - t-139
   global_id: t-188253
-  teiginys: 'Narbutas manė, kad lietuviai į daugiadievystę ėjo tuo pačiu keliu kaip helenai, nes juos siejo kilmė ir panaši religija.'
+  teiginys: "Narbutas manė, kad lietuviai į daugiadievystę ėjo tuo pačiu keliu kaip helenai, nes juos siejo kilmė ir panaši religija."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "149811-150291; hash=459de75cdc2057bbfdfeec5b44b14464befb7dcb6b139c1ec60350a40a31801e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Tikybinis sugedimas kyla iš pačių religijos sargų: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Tikybinis sugedimas kyla iš pačių religijos sargų: mention_match, thing, gap=92"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Tikybinis sugedimas kyla iš pačių religijos sargų\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-125
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171147
+
 <a id="claim-t-188254"></a>
 - t-140
   global_id: t-188254
-  teiginys: 'Narbutas seniausiąją lietuvių religiją aiškino kaip azijinę ir indišką, dangaus kūnų bei ugnies, vandens ir žemės garbinimą.'
+  teiginys: "Narbutas seniausiąją lietuvių religiją aiškino kaip azijinę ir indišką, dangaus kūnų bei ugnies, vandens ir žemės garbinimą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "150595-151388; hash=6807d1d516444de285cdaebdb461aaf702c7b6e737579199814591b3f19401d5; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Persai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Persai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Persai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-126
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171148
+
 <a id="claim-t-188255"></a>
 - t-141
   global_id: t-188255
-  teiginys: 'Narbutas rašė, kad lietuviai Perkūną garbino iškilmingomis apeigomis, jam skirdami miškelius ir puošnias šventyklas.'
+  teiginys: "Narbutas rašė, kad lietuviai Perkūną garbino iškilmingomis apeigomis, jam skirdami miškelius ir puošnias šventyklas."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "162803-163195; hash=4c423505390eb68d36b7a6099f08b40e6fc8cae0ae277504c524ed7cf5990512; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Livonija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Livonija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-127
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171149
+
 <a id="claim-t-188256"></a>
 - t-142
   global_id: t-188256
-  teiginys: 'Narbutas, remdamasis Glumerio pastabomis, lietuvių 1243 m. karo šūkį aiškino kaip kreipinį į karo dievą Kovą.'
+  teiginys: "Narbutas, remdamasis Glumerio pastabomis, lietuvių 1243 m. karo šūkį aiškino kaip kreipinį į karo dievą Kovą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1243 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Kronikinis ir mitologinis aiškinimas paliktas su Narbuto šaltinio grandine. Neišplėsta Livonijos riterių puolimo aplinkybių."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "171752-172197; hash=3deab359a1c44e030933da9cbad9e3c3d01fb61dac3fb913b7044ed043f74f91; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-128
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171150
+
 <a id="claim-t-188257"></a>
 - t-143
   global_id: t-188257
-  teiginys: 'Narbutas rašė, kad lietuviai Ragutį garbino aukurais, stabais, šventyklomis, žyniais ir vaidilutėmis.'
+  teiginys: "Narbutas rašė, kad lietuviai Ragutį garbino aukurais, stabais, šventyklomis, žyniais ir vaidilutėmis."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Kuršiai puolė Lietuviai (0.72)"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "173421-173828; hash=30e490d5ae432aea98bd11d7763f854024f16cd138f68c7a1353ebb54c343a1a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Lietuviai: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kuršiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citatoje minima, kad puolant lietuvius veikė broliai; kadangi „broliai“ nėra kandidatas, kuršių ryšys su šiuo puolimu nepakankamas."
   pagrindžia:
-    - c-129
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171151
+
 <a id="claim-t-188258"></a>
 - t-144
   global_id: t-188258
-  teiginys: 'Narbutas lietuvių Bakcho garbinimą siejo su jau labai senu ir plačiai paplitusiu šio dievo kultu kitose tautose.'
+  teiginys: "Narbutas lietuvių Bakcho garbinimą siejo su jau labai senu ir plačiai paplitusiu šio dievo kultu kitose tautose."
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "174047-174679; hash=e51959743e8b4f5ece2d3c8fb4ff3b1b2bfa4b8cc83c1f77ada90dbf9d40a8fa; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Graikai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Graikai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-130
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171152
+
 <a id="claim-t-188259"></a>
 - t-145
   global_id: t-188259
-  teiginys: 'Narbutas teigė, kad lietuviai turėjo dainius, apdainavusius tautos istorijos įvykius ir vadintus burtininkais.'
+  teiginys: "Narbutas teigė, kad lietuviai turėjo dainius, apdainavusius tautos istorijos įvykius ir vadintus burtininkais."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "181558-181923; hash=5b25869e6d5029f568c9214e9c3c4511e197dd79256df51b45cf6374d23e6fa5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Burtininkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Burtininkai: mention_match, group, gap=77"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Burtininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-131
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171153
+
 <a id="claim-t-188260"></a>
 - t-146
   global_id: t-188260
-  teiginys: 'Narbutas manė, kad dėl gyvenimo prie jūros ir didelių vandenų lietuviai turėjo savo Neptūną, laivininkų globėją.'
+  teiginys: "Narbutas manė, kad dėl gyvenimo prie jūros ir didelių vandenų lietuviai turėjo savo Neptūną, laivininkų globėją."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "183252-183769; hash=5ece1a9ea7793b2ea9d457f84523050663c6a6624a8f3973470db893eae511ad; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Laivai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Laivai: mention_match, thing, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Laivai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-132
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171154
+
 <a id="claim-t-188261"></a>
 - t-147
   global_id: t-188261
-  teiginys: 'Narbutas nurodė Jucevičiaus nuomonę, kad Palangos apylinkių lietuviai žvejai Atrimpą vadino Dzivsvits.'
+  teiginys: "Narbutas nurodė Jucevičiaus nuomonę, kad Palangos apylinkių lietuviai žvejai Atrimpą vadino Dzivsvits."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Lietuviai gyveno Palanga (0.95)"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "184464-184671; hash=56ebac1db169426601fa57606ab1a60b58551f61ef36f2ebd63837750afd1bdc; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Palanga: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Palanga: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo lietuvius, gyvenančius prie Palangos."
   pagrindžia:
-    - c-133
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171155
+
 <a id="claim-t-188262"></a>
 - t-148
   global_id: t-188262
-  teiginys: 'Narbutas rašė, kad lietuviai šiam žemės dievui teikė garbę laikydami žalčius ir maitindami juos pienu.'
+  teiginys: "Narbutas rašė, kad lietuviai šiam žemės dievui teikė garbę laikydami žalčius ir maitindami juos pienu."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "192782-193196; hash=a636a723256561adc4e266a07be3489836c004be9f53fd5956bfe500c653cce9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Lenkai: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lenkai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Lietuviai ir lenkai čia veikia kartu, įsakydami savo kariuomenių būriams rengti puolimus."
   pagrindžia:
-    - c-134
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171156
+
 <a id="claim-t-188263"></a>
 - t-149
   global_id: t-188263
-  teiginys: 'Narbutas deivę Lietuvą apibūdino kaip laisvės, malonumų ir džiaugsmo deivę, žinomą lietuviams, latviams ir estams.'
+  teiginys: "Narbutas deivę Lietuvą apibūdino kaip laisvės, malonumų ir džiaugsmo deivę, žinomą lietuviams, latviams ir estams."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "222287-222439; hash=995046d6f89d1921d71c8ace10c1955ea6d92ec4bf3582b136b6c287877be16e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Estai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Estai: mention_match, group, gap=92"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Estai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-135
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171157
+
 <a id="claim-t-188264"></a>
 - t-150
   global_id: t-188264
-  teiginys: 'Narbutas katino kaip lietuvių laisvės simbolio įrodymą siejo su 1483 m. Kazimiero privilegija bajorui Rimvydui.'
+  teiginys: "Narbutas katino kaip lietuvių laisvės simbolio įrodymą siejo su 1483 m. Kazimiero privilegija bajorui Rimvydui."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1483 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Interpretacija apie simbolį pateikta su Narbuto atribucija. Išlaikyta tik privilegijos data, valdovas ir adresatas."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "224019-224729; hash=be7943a662539bafd2a3dbcc4cc4fbc12d5dcd7d33a4dcd86dd823d65d684b80; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-136
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171158
+
 <a id="claim-t-188265"></a>
 - t-151
   global_id: t-188265
-  teiginys: 'Narbutas aiškino, kad lietuviai, siekdami išsivaduoti iš priespaudos, naudodavo laisvės deivės simbolį.'
+  teiginys: "Narbutas aiškino, kad lietuviai, siekdami išsivaduoti iš priespaudos, naudodavo laisvės deivės simbolį."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Lietuviai surengė žygį į Lenkija (0.78)"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "224349-224950; hash=a9e1d10cfa01219f78f56b181da8239d20f5884559e801ae77ac78447c585637; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Lenkija: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata aprašo Lietuvos karaliaus pasiųstą kariuomenę į Lenkiją, todėl tai palaiko žygio į Lenkiją ryšį."
   pagrindžia:
-    - c-137
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171159
+
 <a id="claim-t-188266"></a>
 - t-152
   global_id: t-188266
-  teiginys: 'Narbutas manė, kad lietuviai kaip žemdirbių tauta nuo pradžių visuotinai garbino žemdirbystės deivę Krūminę.'
+  teiginys: "Narbutas manė, kad lietuviai kaip žemdirbių tauta nuo pradžių visuotinai garbino žemdirbystės deivę Krūminę."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "239043-239403; hash=a3ae13a0e5862bf278c6c00da8bffb9aab67f6e0b6b7f44fad2d15a3f2c23993; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Lenkija: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claim tiesiogiai teigia, kad lietuviai rengė žygius į Lenkiją."
   pagrindžia:
-    - c-138
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171160
+
 <a id="claim-t-188268"></a>
 - t-153
   global_id: t-188268
-  teiginys: 'Narbutas lietuvių mitologijoje įžvelgė seniausio dangaus kūnų sudievinimo liekanas.'
+  teiginys: "Narbutas lietuvių mitologijoje įžvelgė seniausio dangaus kūnų sudievinimo liekanas."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "315489-316097; hash=cc2ddda6164f6aa2039ebf4eff9513f0b40735a1a742d655271d58077d2d8901; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Tomas (Hertvigo iš Pokarvių sūnus)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-139
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171162
+
 <a id="claim-t-188269"></a>
 - t-154
   global_id: t-188269
-  teiginys: 'Narbutas teigė, kad lietuvių mitologijos dangaus kūnų sampratos pagrindą sudaro indų padavimai.'
+  teiginys: "Narbutas teigė, kad lietuvių mitologijos dangaus kūnų sampratos pagrindą sudaro indų padavimai."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "316596-317054; hash=ba4dc48228d525f11ea7340d5675c62702df7e4cff9f17ea2352afb0ed8afef6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Indai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Indai: mention_match, group, gap=60"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Indai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-140
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171163
+
 <a id="claim-t-188270"></a>
 - t-155
   global_id: t-188270
-  teiginys: 'Narbutas rašė, kad lietuvių kalbose Saulė yra moteriškos giminės, todėl mitologijoje laikoma deive.'
+  teiginys: "Narbutas rašė, kad lietuvių kalbose Saulė yra moteriškos giminės, todėl mitologijoje laikoma deive."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "318066-318411; hash=df9a9c67d9a82b7559fba2db1a895c1c1ad3e5a047d19c833573e8bf1a323ca5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Baltai: mention_match, group, gap=73"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-141
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171164
+
 <a id="claim-t-188271"></a>
 - t-156
   global_id: t-188271
-  teiginys: 'Narbutas teigė, kad pakitus mitologijai lietuviai vietoj Saulės garbino Svaistiką, arba Santvarą.'
+  teiginys: "Narbutas teigė, kad pakitus mitologijai lietuviai vietoj Saulės garbino Svaistiką, arba Santvarą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "319179-319472; hash=e86f5eea21d02b09ebabed6f17ce9e6bf705d94dbd6941693c82e2369ff13270; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Graikai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Graikai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-142
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171165
+
 <a id="claim-t-188272"></a>
 - t-157
   global_id: t-188272
-  teiginys: 'Narbutas rašė, kad lietuviai turėjo slaptų apeigų, kurių žinios dingo kartu su joms pasišventusiais žmonėmis.'
+  teiginys: "Narbutas rašė, kad lietuviai turėjo slaptų apeigų, kurių žinios dingo kartu su joms pasišventusiais žmonėmis."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "334656-335149; hash=cf731b96b7931d89475f9ea21e4ad16b66c0bb1de62825ce942035e4c32b3768; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lasickis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lasickis: mention_match, author"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lasickis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-143
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171166
+
 <a id="claim-t-188273"></a>
 - t-158
   global_id: t-188273
-  teiginys: 'Narbutas lietuvių religiją, mitologiją, kalbą ir teisę vertino kaip aukštos senovinės civilizacijos požymius.'
+  teiginys: "Narbutas lietuvių religiją, mitologiją, kalbą ir teisę vertino kaip aukštos senovinės civilizacijos požymius."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "336936-337261; hash=de565d97994f584bbc4e277d0cfc07200bc908780ac63c5e5c04025729c9b6ce; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Semba: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Semba: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo lietuvių valdovo ir raitelių įsibrovimą į Sembą."
   pagrindžia:
-    - c-144
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171167
+
 <a id="claim-t-188274"></a>
 - t-159
   global_id: t-188274
-  teiginys: 'Narbutas rašė, kad lietuviai turi daug pasakojimų ir padavimų apie žalčius.'
+  teiginys: "Narbutas rašė, kad lietuviai turi daug pasakojimų ir padavimų apie žalčius."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "346737-347097; hash=0c86c78213a7b44684eaca1e04fc5a09faa77ad67edfd77735bdc21dea318c3b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> kunigas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "kunigas: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"kunigas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-145
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171168
+
 <a id="claim-t-188275"></a>
 - t-160
   global_id: t-188275
-  teiginys: 'Narbutas teigė, kad lietuvių mitologinėse dainose ir stebuklinėse pasakose žvėrys bei paukščiai gyvena savitą gyvenimą.'
+  teiginys: "Narbutas teigė, kad lietuvių mitologinėse dainose ir stebuklinėse pasakose žvėrys bei paukščiai gyvena savitą gyvenimą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "355020-355297; hash=46967784541cd6bffbbf9819d614e384eeb666f664977b7a3bde0b58ae894acf; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-146
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171169
+
 <a id="claim-t-188276"></a>
 - t-161
   global_id: t-188276
-  teiginys: 'Narbutas rašė, kad lietuviai žuvusius tėvynės gynėjus vadino Runketojais ir šventomis laikė jų kapų vietas.'
+  teiginys: "Narbutas rašė, kad lietuviai žuvusius tėvynės gynėjus vadino Runketojais ir šventomis laikė jų kapų vietas."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "377996-378375; hash=ce251f0471751ac95a5a92e8400cb8ce74e2fae528b1fee83ffe7b6003591748; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Gilgenburgas: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Gilgenburgas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas aiškiai sako, kad lietuviai užpuolė Gilgenburgo miestelį."
   pagrindžia:
-    - c-147
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171170
+
 <a id="claim-t-188277"></a>
 - t-162
   global_id: t-188277
-  teiginys: 'Narbutas teigė, kad lietuviai senojoje religijoje daug reikšmės skyrė ugniai ir šventiesiems aukurų židiniams.'
+  teiginys: "Narbutas teigė, kad lietuviai senojoje religijoje daug reikšmės skyrė ugniai ir šventiesiems aukurų židiniams."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "381683-382139; hash=931a7780e5df640cb7e681cee33d648a9cc4a1a8ddae7a5f631aaefd7bcf4a72; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aukurai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Aukurai: mention_match, thing, gap=73"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Aukurai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-148
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171171
+
 <a id="claim-t-188278"></a>
 - t-163
   global_id: t-188278
-  teiginys: 'Narbutas ugnies žinyčios kultą laikė vienu seniausių lietuvių protėvių iš Rytų atsineštų kultų.'
+  teiginys: "Narbutas ugnies žinyčios kultą laikė vienu seniausių lietuvių protėvių iš Rytų atsineštų kultų."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "383881-384386; hash=b5f98c3918deb4387fe1edf8964bd8dae2dee4e8c77e373062d7b5cc1d87239a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kernavė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kernavė: mention_match, place, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Kernavė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-149
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171172
+
 <a id="claim-t-188279"></a>
 - t-164
   global_id: t-188279
-  teiginys: 'Narbutas spėjo, kad Rusos upės vardą Naugardo gubernijoje galėjo duoti variagų atgabenta lietuvių tautos kolonija.'
+  teiginys: "Narbutas spėjo, kad Rusos upės vardą Naugardo gubernijoje galėjo duoti variagų atgabenta lietuvių tautos kolonija."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "388304-389008; hash=799b23b6182c695857122f8fa0ffbf369c60a9f6d6245a013b75b5a12b6035cb; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dnepras: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Dnepras: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Dnepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-150
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171173
+
 <a id="claim-t-188280"></a>
 - t-165
   global_id: t-188280
-  teiginys: 'Narbutas atmetė nuomonę, kad Šventoji prie Ukmergės taip pavadinta dėl Jogailos laikų lietuvių krikšto.'
+  teiginys: "Narbutas atmetė nuomonę, kad Šventoji prie Ukmergės taip pavadinta dėl Jogailos laikų lietuvių krikšto."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "389012-389437; hash=7532167a72b1d6d175e0749077e67877880be70f515de2c21e8f649239a1fde4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=15"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-151
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171174
+
 <a id="claim-t-190571"></a>
 - t-166
   global_id: t-190571
-  teiginys: 'Narbutas rašė, kad senojoje lietuvių religijoje šventais laikyti ne tik tekantys, bet ir kai kurie stovintys vandenys.'
+  teiginys: "Narbutas rašė, kad senojoje lietuvių religijoje šventais laikyti ne tik tekantys, bet ir kai kurie stovintys vandenys."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "391600-392084; hash=55298cfdf132f74a21675f70b8a2fee1162901ca9ae9131a0ebcc8d31a8f4924; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Berlynas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Berlynas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Berlynas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-152
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173454
+
 <a id="claim-t-190572"></a>
 - t-167
   global_id: t-190572
-  teiginys: 'Narbutas teigė, kad lietuvių mitologijoje visus ežerus globojo dievas Atrimpas, vadintas Ežeriniu.'
+  teiginys: "Narbutas teigė, kad lietuvių mitologijoje visus ežerus globojo dievas Atrimpas, vadintas Ežeriniu."
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1916 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Mitologinis teiginys paliktas su Narbuto atribucija. Nepridėtas draudimas žvejoti šventuose vandenyse."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "393283-393601; hash=121f1454a6da2686a1d5befcdfee41da88cd7825757660194c5562be8c0ec87b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-153
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173455
+
 <a id="claim-t-190573"></a>
 - t-168
   global_id: t-190573
-  teiginys: 'Narbutas rašė, kad lietuvių religija mokė pamaldumo medžiams, o šventieji medžiai buvo puošiami trofėjais ir girliandomis.'
+  teiginys: "Narbutas rašė, kad lietuvių religija mokė pamaldumo medžiams, o šventieji medžiai buvo puošiami trofėjais ir girliandomis."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "400448-400748; hash=3b7590ba81be20f3067de098e3d751b89a7536d5eed52d12d0dd74c82b7b5254; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-154
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173456
+
 <a id="claim-t-190574"></a>
 - t-169
   global_id: t-190574
-  teiginys: 'Narbutas vertino lietuvius kaip mažiau apsišvietusius, bet rašė, kad jie pažino medžių dievybes ir saugojo vertingus medžius.'
+  teiginys: "Narbutas vertino lietuvius kaip mažiau apsišvietusius, bet rašė, kad jie pažino medžių dievybes ir saugojo vertingus medžius."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "400645-401024; hash=3571272ef45ac71b5b9a77b86f87d66728a9b95127481746b8abd41dc50656b7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-155
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173457
+
 <a id="claim-t-190575"></a>
 - t-170
   global_id: t-190575
-  teiginys: 'Narbutas, remdamasis Strijkovskiu, rašė, kad lietuvių maldose šauktasi Pušaičio ir barstukų, o medžio šešėliui priskirtas gydomasis poveikis.'
+  teiginys: "Narbutas, remdamasis Strijkovskiu, rašė, kad lietuvių maldose šauktasi Pušaičio ir barstukų, o medžio šešėliui priskirtas gydomasis poveikis."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "402275-402688; hash=d15b4aae6734edd8dc1ace021dad17a76a62e88a440b3f5c3224cfa9ddcc46cc; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Barstukai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Barstukai: mention_match, group, gap=38"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Barstukai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-156
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173458
+
 <a id="claim-t-190576"></a>
 - t-171
   global_id: t-190576
-  teiginys: 'Narbutas Romovės pavadinimą kildino iš senovės lietuvių žodžio, reiškusio susilaikymo, pamaldumo ir taikos vietą.'
+  teiginys: "Narbutas Romovės pavadinimą kildino iš senovės lietuvių žodžio, reiškusio susilaikymo, pamaldumo ir taikos vietą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "403089-403292; hash=dd95ec1a759fc067d9dc986c500776c20ae55590cccd976f962c15ef3ebd7868; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Romovė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Romovė: mention_match, place, gap=38"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Romovė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-157
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173459
+
 <a id="claim-t-190577"></a>
 - t-172
   global_id: t-190577
-  teiginys: 'Narbutas manė, kad skandinavai tikėjimą ąžuolo šventumu iš dalies perėmė iš lietuvių.'
+  teiginys: "Narbutas manė, kad skandinavai tikėjimą ąžuolo šventumu iš dalies perėmė iš lietuvių."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "410344-410760; hash=96e3ff31502bef02a82d04a06bb276ff23e545a8044099b189e8da9eb64e132a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Skandinavai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Skandinavai: mention_match, group, gap=57"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Skandinavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-158
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173460
+
 <a id="claim-t-190578"></a>
 - t-173
   global_id: t-190578
-  teiginys: 'Narbutas lietuvių aukurus apibūdino kaip primityvius ir nepuošnius, išskirdamas kai kuriuos Perkūno šventyklų aukurus.'
+  teiginys: "Narbutas lietuvių aukurus apibūdino kaip primityvius ir nepuošnius, išskirdamas kai kuriuos Perkūno šventyklų aukurus."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "415584-415901; hash=98caddbbfe705fc64ec6b85bc3136134fc5443878d622418a13f6504cc071a21; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aukurai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Aukurai: mention_match, thing, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Aukurai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-159
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173461
+
 <a id="claim-t-190579"></a>
 - t-174
   global_id: t-190579
-  teiginys: 'Narbutas teigė, kad lietuvių Perkūno stabas X a. buvo garsus Šiaurėje, o panašūs stabai pastatyti Kijeve ir Naugarde.'
+  teiginys: "Narbutas teigė, kad lietuvių Perkūno stabas X a. buvo garsus Šiaurėje, o panašūs stabai pastatyti Kijeve ir Naugarde."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "419517-420059; hash=a74d27098b34a5f513b5135141bb8ab48ac9689bb825cea4c787859f23a48bf5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kijevas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kijevas: mention_match, place, gap=78"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-160
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173462
+
 <a id="claim-t-190580"></a>
 - t-175
   global_id: t-190580
-  teiginys: 'Narbutas rašė, kad senovinėse lietuvių monetose dievai buvo vaizduojami pagal seną paprotį, būdingą ir kaimyninėms tautoms.'
+  teiginys: "Narbutas rašė, kad senovinėse lietuvių monetose dievai buvo vaizduojami pagal seną paprotį, būdingą ir kaimyninėms tautoms."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "422166-422444; hash=baa8d583b16e2884294ef83947fe22908bed09afbf3a6cd5fb0bb5877e322134; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Varėna: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Varėna: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Varėna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-161
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173463
+
 <a id="claim-t-190581"></a>
 - t-176
   global_id: t-190581
-  teiginys: 'Narbutas moterų figūras lietuvių monetose aiškino kaip deives, nes, jo teigimu, lietuviai neturėjo tikrų karalių ir karalienių.'
+  teiginys: "Narbutas moterų figūras lietuvių monetose aiškino kaip deives, nes, jo teigimu, lietuviai neturėjo tikrų karalių ir karalienių."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "428411-428805; hash=9d7b710d34b236d152dad8e603e5fcf81b3c08a20514f9c8683164f21ff7158b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-162
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173464
+
 <a id="claim-t-190582"></a>
 - t-177
   global_id: t-190582
-  teiginys: 'Narbutas kaip lietuvių valdovą Jurijaus vardu minėjo Jurijų Vytautaitį, apie 1342 m. valdžiusį Pskovo žemę.'
+  teiginys: "Narbutas kaip lietuvių valdovą Jurijaus vardu minėjo Jurijų Vytautaitį, apie 1342 m. valdžiusį Pskovo žemę."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1342 m.; įvykio data: apie 1342 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Asmens teiginys sutvarkytas į aiškų sakinį su autoriaus atribucija dėl titulo vartosenos. Vėlesnė stabo ir vandenženklio medžiaga nepridėta."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "429533-430277; hash=d99921aa2e71faad138845ccf980c6c7f9163d90f3af9c43395997d3d7a50480; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pskovas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Pskovas: mention_match, place, gap=81"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Pskovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-163
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173465
+
 <a id="claim-t-190583"></a>
 - t-178
   global_id: t-190583
-  teiginys: 'Narbutas rašė, kad lietuviai turėjo dievams paskirtų kalnų, bet nežinojo tikrai lietuviškų pasakojimų apie Plikąjį kalną.'
+  teiginys: "Narbutas rašė, kad lietuviai turėjo dievams paskirtų kalnų, bet nežinojo tikrai lietuviškų pasakojimų apie Plikąjį kalną."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "452081-452400; hash=73f1a9a5238c383b665b42ec0be877bb2156a0bb76f045e7a1d5b3278f61a5fa; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aukurai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Aukurai: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Aukurai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-164
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173466
+
 <a id="claim-t-190584"></a>
 - t-179
   global_id: t-190584
-  teiginys: 'Narbutas teigė, kad lietuvių mitologijoje šventi buvo miško plotai su aukurais ir šventyklomis, dažniausiai prie upių santakų.'
+  teiginys: "Narbutas teigė, kad lietuvių mitologijoje šventi buvo miško plotai su aukurais ir šventyklomis, dažniausiai prie upių santakų."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "453491-454180; hash=418b79ca1edfa6cf1a8a5b5136bca1d46451aec398b3ec70121542fc76bee323; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aukurai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Aukurai: mention_match, thing, gap=50"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Aukurai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-165
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173467
+
 <a id="claim-t-190586"></a>
 - t-180
   global_id: t-190586
-  teiginys: 'Narbutas cituojamame pasakojime nurodė, kad Vilniui tapus Lietuvos sostine Trakai, nors turėjo pilį ir kunigaikščio rūmus, sumenko.'
+  teiginys: "Narbutas cituojamame pasakojime nurodė, kad Vilniui tapus Lietuvos sostine Trakai, nors turėjo pilį ir kunigaikščio rūmus, sumenko."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "479829-480747; hash=5d8b830f08863d6325c8efd1b17ccb5b706179b728864cb415657ed0a57f1328; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-166
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173469
+
 <a id="claim-t-190587"></a>
 - t-181
   global_id: t-190587
-  teiginys: 'Narbutas teigė, kad lietuviai turėjo kilnojamųjų, arba stovyklinių, šventovių, priklausiusių ugnies šventovėms.'
+  teiginys: "Narbutas teigė, kad lietuviai turėjo kilnojamųjų, arba stovyklinių, šventovių, priklausiusių ugnies šventovėms."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "483162-483446; hash=73085df35313a3d563bc00f8277d7507f7dd683327bf3a17d30c1bd370739a92; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Prūsija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-167
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173470
+
 <a id="claim-t-190588"></a>
 - t-182
   global_id: t-190588
-  teiginys: 'Narbutas rašė, kad po prūsų stabmeldystės smūgio religinė sostinė buvo perkelta į Lietuvą, o vyriausiųjų žynių tvarka truko iki 1387 m.'
+  teiginys: "Narbutas rašė, kad po prūsų stabmeldystės smūgio religinė sostinė buvo perkelta į Lietuvą, o vyriausiųjų žynių tvarka truko iki 1387 m."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Kryžiuočių ordinas puolė Vilnius (0.70)"
+  temporaliniai_duomenys: "mūšio data: iki 1387 m.; mūšio data: 1387 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Kryžiuočių ordinas puolė Vilnius“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Religinė istoriografinė schema pateikta kaip Narbuto teiginys. Pašalintas nutrūkęs sakinio galas ir palikta data."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "501579-502048; hash=a632a57e73c7431651c96efeeb8c34745ece6af854e221849cf37f615a805ab8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Vilnius: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata aprašo kryžiuočių spaudimą Vilniaus link ir kovą prie miesto gynybos, bet pats puolimo veiksmažodis nėra tiesiogiai susietas su Vilniumi."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-168
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173471
+
 <a id="claim-t-190589"></a>
 - t-183
   global_id: t-190589
-  teiginys: 'Narbutas lietuvius apibūdino kaip pamaldžius ir prietaringus, kurie prieš darbus klausdavo pranašų patarimo.'
+  teiginys: "Narbutas lietuvius apibūdino kaip pamaldžius ir prietaringus, kurie prieš darbus klausdavo pranašų patarimo."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "529292-530225; hash=2ce2b0df076a80e9aa02b2065259b7961b4e13e5d088f52b041d47b1fa386a02; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rytas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Rytas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Rytas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-169
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173472
+
 <a id="claim-t-190590"></a>
 - t-184
   global_id: t-190590
-  teiginys: 'Narbutas teigė, kad lietuviai alų gėrė ypač religinių apeigų metu.'
+  teiginys: "Narbutas teigė, kad lietuviai alų gėrė ypač religinių apeigų metu."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "537156-537483; hash=927259e295610f296d7c7e76382363909005de30807011e5f10202ba80af58c3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Prūsai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-170
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173473
+
 <a id="claim-t-190591"></a>
 - t-185
   global_id: t-190591
-  teiginys: 'Narbutas rašė, kad kiekviena lietuvių genties tauta dievams aukojamiems arkliams rinkdavosi savitą plauką ir ženklus.'
+  teiginys: "Narbutas rašė, kad kiekviena lietuvių genties tauta dievams aukojamiems arkliams rinkdavosi savitą plauką ir ženklus."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "558663-559101; hash=16c3579d7131f549c613d08d0fe901be986c029dafacfbf2f5ba9c4eb885b2fc; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskvėnai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Maskvėnai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Maskvėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-171
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173474
+
 <a id="claim-t-190592"></a>
 - t-186
   global_id: t-190592
-  teiginys: 'Narbutas lietuvių priesaikas aiškino kaip dievų šaukimą liudytojais, minėdamas formules „dėl Dievo“ ir „Kad man Perkūnas sumuštų“.'
+  teiginys: "Narbutas lietuvių priesaikas aiškino kaip dievų šaukimą liudytojais, minėdamas formules „dėl Dievo“ ir „Kad man Perkūnas sumuštų“."
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "561805-562509; hash=c2a2cb0b37d29ba842a90b37ddafff76a23fb53f79ab227e99cc3e3e8ebb0164; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-172
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173475
+
 <a id="claim-t-190593"></a>
 - t-187
   global_id: t-190593
-  teiginys: 'Narbutas teigė, kad dešinės rankos laikymo prie gerklės priesaikos paprotys gyvavo ir svetimųjų valdytuose lietuvių kraštuose.'
+  teiginys: "Narbutas teigė, kad dešinės rankos laikymo prie gerklės priesaikos paprotys gyvavo ir svetimųjų valdytuose lietuvių kraštuose."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "562510-562906; hash=abadcc3b01a76e71d1ebc1d375f9458a63a5c7534b99fd6d943e85e6bf3e7639; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-173
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173476
+
 <a id="claim-t-190594"></a>
 - t-188
   global_id: t-190594
-  teiginys: 'Narbutas teigė, kad lietuviai nuo seniausių amžių laiką dalijo į dienos ir nakties valandas, matuojamas vandens laikrodžiais.'
+  teiginys: "Narbutas teigė, kad lietuviai nuo seniausių amžių laiką dalijo į dienos ir nakties valandas, matuojamas vandens laikrodžiais."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "566490-566700; hash=c8a3071146b18e1bba5988e53da15907eea1ac680e2b9019ec6e8dd116615ec3; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-174
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173477
+
 <a id="claim-t-190595"></a>
 - t-189
   global_id: t-190595
-  teiginys: 'Narbutas manė, kad senovinės lietuvių religinės apeigos buvo daug turtingesnės, nei leidžia atkurti išlikusi medžiaga.'
+  teiginys: "Narbutas manė, kad senovinės lietuvių religinės apeigos buvo daug turtingesnės, nei leidžia atkurti išlikusi medžiaga."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "599284-599913; hash=6975f3d30552dcdf6d47487f4f26d6585d572b62e4c08743fe39b380ed1a91a8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bebras: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Bebras: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Bebras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-175
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173478
+
 <a id="claim-t-190596"></a>
 - t-190
   global_id: t-190596
-  teiginys: 'Narbutas rašė, kad senovinė lietuvių teisė ir papročiai numatė vienpatystę, o kitos lietuvių gentys jos laikėsi griežčiau už prūsus.'
+  teiginys: "Narbutas rašė, kad senovinė lietuvių teisė ir papročiai numatė vienpatystę, o kitos lietuvių gentys jos laikėsi griežčiau už prūsus."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Lietuviai pastatė Junigeda (0.90)"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "614764-615745; hash=d0508482fccc1567124a93f19c57302ea4f34519c359ffbe439e393f810631d1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Junigeda: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Junigeda: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad lietuviai pastatė pilį Junigedos valsčiuje; leidžiamas objektas yra Junigedos vieta."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-176
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173479
+
 <a id="claim-t-190597"></a>
 - t-191
   global_id: t-190597
-  teiginys: 'Narbutas rašė, kad jaunos netekėjusios lietuvaitės nešiodavosi prie juostos prikabintus varpelius, kad tėvai girdėtų jų judėjimą.'
+  teiginys: "Narbutas rašė, kad jaunos netekėjusios lietuvaitės nešiodavosi prie juostos prikabintus varpelius, kad tėvai girdėtų jų judėjimą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "617513-618249; hash=378707057d7258f4ca7b758e96f40e3d6f5a0f5eee85b0865519d03ba65c5dfe; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Juostos: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Juostos: mention_match, thing, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Juostos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-177
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173480
+
 <a id="claim-t-190598"></a>
 - t-192
   global_id: t-190598
-  teiginys: 'Narbutas teigė, kad lietuvių kalboje ir tautinėse dainose nerado slavų vestuvių dainoms būdingo cinizmo.'
+  teiginys: "Narbutas teigė, kad lietuvių kalboje ir tautinėse dainose nerado slavų vestuvių dainoms būdingo cinizmo."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "632944-633471; hash=da19843bfbbfeec7d5167dc442695270b812cd068e86a0bd5845a13e1ffa4235; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Slavai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Slavai: mention_match, group, gap=45"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Slavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-178
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173481
+
 <a id="claim-t-190599"></a>
 - t-193
   global_id: t-190599
-  teiginys: 'Narbutas rašė, kad lietuvių laidotuvių giesmės vadinamos raudomis ir skambėjo visose lietuvių genties tautose.'
+  teiginys: "Narbutas rašė, kad lietuvių laidotuvių giesmės vadinamos raudomis ir skambėjo visose lietuvių genties tautose."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "638232-638594; hash=7f4f6c2b7ef4c2aa7bd57fc6b82b2635794de26d7639572d4ca403fe3f5bff0b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dobrynė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Dobrynė: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Dobrynė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-179
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173482
+
 <a id="claim-t-190600"></a>
 - t-194
   global_id: t-190600
-  teiginys: 'Narbutas mirusiųjų deginimą kildino iš indų ir teigė, kad vėlyvojoje lietuvių stabmeldystėje jis taikytas tik žymesniems žmonėms.'
+  teiginys: "Narbutas mirusiųjų deginimą kildino iš indų ir teigė, kad vėlyvojoje lietuvių stabmeldystėje jis taikytas tik žymesniems žmonėms."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Lietuviai puolė Kulmas (0.82)"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "643314-643764; hash=39070ff1da9d8bf91e8107d6b2c55e8039d30eeaa7c07d7db75b3c4566dc4792; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Kulmas: 0.82"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kulmas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatos įvykis rodo lietuvių kariuomenės vyrų veiksmą Kulmo žemėje, kur buvo plėšiami kaimai."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-180
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173483
+
 <a id="claim-t-190601"></a>
 - t-195
   global_id: t-190601
-  teiginys: 'Narbutas teigė neturįs patvirtinimo, kad lietuviai šventose giraitėse ant medžių kabindavo karalių kūnus aukso grandinėmis.'
+  teiginys: "Narbutas teigė neturįs patvirtinimo, kad lietuviai šventose giraitėse ant medžių kabindavo karalių kūnus aukso grandinėmis."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "643903-644218; hash=8a6118d9b987c898ff60969a6e2426c144bdf43a3f120e6e982e2ca29b8fdb07; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Skandinavai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Skandinavai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Skandinavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-181
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173484
+
 <a id="claim-t-190602"></a>
 - t-196
   global_id: t-190602
-  teiginys: 'Narbutas rašė, kad lietuviai skenduolių arba plėšikų nužudytųjų kūnus laidodavo toje vietoje, kur juos rasdavo.'
+  teiginys: "Narbutas rašė, kad lietuviai skenduolių arba plėšikų nužudytųjų kūnus laidodavo toje vietoje, kur juos rasdavo."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "648210-648467; hash=290575be6ac53695acf70dfe4978e7623d667d7621c693fb66e8c4f879af62ac; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Romėnai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Romėnai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Romėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-182
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173485
+
 <a id="claim-t-190603"></a>
 - t-197
   global_id: t-190603
-  teiginys: 'Narbutas rašė, kad senovės lietuviams kapai buvo šventi, o antkapinių statinių nederėjo liesti.'
+  teiginys: "Narbutas rašė, kad senovės lietuviams kapai buvo šventi, o antkapinių statinių nederėjo liesti."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "655957-656326; hash=58b57aa45a5d49f426a3cb5a3efab88ea6abd773c2d1129969676fe24fc790b2; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-183
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173486
+
 <a id="claim-t-190604"></a>
 - t-198
   global_id: t-190604
-  teiginys: 'Narbutas teigė, kad lietuviai tikėjo sielos nemirtingumu ir pomirtiniu atpildu bei bausme.'
+  teiginys: "Narbutas teigė, kad lietuviai tikėjo sielos nemirtingumu ir pomirtiniu atpildu bei bausme."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "691396-692232; hash=bed6ac8fe0a82af1b4feb83229b0e11bfd4ee1ae7c343170a02c006f06e80225; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Žyniai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Žyniai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Žyniai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-184
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173487
+
 <a id="claim-t-190605"></a>
 - t-199
   global_id: t-190605
-  teiginys: 'Narbutas perteikė autoriaus pasakojimą, kad Rytų bažnyčios atskalūnai tarp lietuvių turėjo daugiau laisvės negu savo šalyje.'
+  teiginys: "Narbutas perteikė autoriaus pasakojimą, kad Rytų bažnyčios atskalūnai tarp lietuvių turėjo daugiau laisvės negu savo šalyje."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "699072-699952; hash=1c02cc6b3f0a3a5042f471a0b569fda9e6623f442e45deeba857d458203d1e72; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-185
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173488
+
 <a id="claim-t-190606"></a>
 - t-200
   global_id: t-190606
-  teiginys: 'Narbutas nurodė, kad cituojamas autorius pateikė kai kurių lietuvių mitologijos sričių smulkius aprašymus.'
+  teiginys: "Narbutas nurodė, kad cituojamas autorius pateikė kai kurių lietuvių mitologijos sričių smulkius aprašymus."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Lietuviai buvo sąjungininkas su Lenkai (0.72)"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "702630-703548; hash=c3be495e6d5c9abd3c9264a179ff59baa1dcd39fa704cd7c4f552b653ffd5c5a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Lenkai: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lenkai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citatoje lietuviai ir lenkai veikia kartu, įsakydami kariuomenių būriams rengti puolimus."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-186
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173489
+
 <a id="claim-t-190607"></a>
 - t-201
   global_id: t-190607
-  teiginys: 'Narbutas teigė, kad lietuviai neturėjo savos heraldikos, bet žymesni asmenys raštus tvirtindavo pasirinktais antspaudais.'
+  teiginys: "Narbutas teigė, kad lietuviai neturėjo savos heraldikos, bet žymesni asmenys raštus tvirtindavo pasirinktais antspaudais."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "719738-720053; hash=30f7241632ad109da956d6785149de48fbd613e0a199a0d74c80148cd4089fdb; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antspaudai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Antspaudai: mention_match, thing, gap=89"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Antspaudai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-187
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173490
+
 <a id="claim-t-190608"></a>
 - t-202
   global_id: t-190608
-  teiginys: 'Narbutas aiškino, kad herbo vardas „Kiniglis“ lietuvių kalboje reiškia triušį, o ne Neseckio nurodytą kiškį.'
+  teiginys: "Narbutas aiškino, kad herbo vardas „Kiniglis“ lietuvių kalboje reiškia triušį, o ne Neseckio nurodytą kiškį."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "724601-725204; hash=036be1fe91bc84ddf833475da27f1b04f9f0daa07374e52a528ab3c578327035; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-188
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173491
+
 <a id="claim-t-190609"></a>
 - t-203
   global_id: t-190609
-  teiginys: 'Narbutas lietuvių tautos kilmę laikė kitokia nei gotų, o gotiškus elementus aiškino kaip skolinius iš gotų ir herulų aplinkos.'
+  teiginys: "Narbutas lietuvių tautos kilmę laikė kitokia nei gotų, o gotiškus elementus aiškino kaip skolinius iš gotų ir herulų aplinkos."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Gotai buvo priešas Lietuviai (0.72)"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "754874-755369; hash=8082bb28e19aa9aa78ddd60ed9fbc2ce6945eb00cddde8547f6b8ae045dbd0ec; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_priesas -> Lietuviai: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gotai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata teigia, kad gotai engė tas tautas; kontekste kalbama apie lietuvių genties tautas."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-189
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173492
+
 <a id="claim-t-190610"></a>
 - t-204
   global_id: t-190610
-  teiginys: 'Narbutas teigė, kad lietuvių žemėje aptikti Biarmijos, arba Permės, raidyno pėdsakai rodo senovės lietuvius naudojusis tomis raidėmis.'
+  teiginys: "Narbutas teigė, kad lietuvių žemėje aptikti Biarmijos, arba Permės, raidyno pėdsakai rodo senovės lietuvius naudojusis tomis raidėmis."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "784561-784871; hash=20d7637cb4845897cf6cfe9f14ca3d3d639803a24f1e24756a93da393f0c8e01; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Biarmija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Biarmija: mention_match, place, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Biarmija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-190
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173493
+
 <a id="claim-t-190611"></a>
 - t-205
   global_id: t-190611
-  teiginys: 'Narbutas sanskritą laikė lietuvių kalbos ir kitų senųjų Europos tautų kalbų šaltiniu.'
+  teiginys: "Narbutas sanskritą laikė lietuvių kalbos ir kitų senųjų Europos tautų kalbų šaltiniu."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "795428-795753; hash=ad93254dad79efdb47d0186e3f9d4b5e2169d8154406cf7a58578d445a87c9a0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-191
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173494
+
 <a id="claim-t-190612"></a>
 - t-206
   global_id: t-190612
-  teiginys: 'Narbutas pateikė iš Ksavero Bogušo perimtą Čemberleno senovės lietuvių kalbos maldos pavyzdį.'
+  teiginys: "Narbutas pateikė iš Ksavero Bogušo perimtą Čemberleno senovės lietuvių kalbos maldos pavyzdį."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "814664-815099; hash=9643881d229c226baad9a5d979ced20c2085951066ab32eba4a6e56742245d9d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ksaveras Bogušas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Ksaveras Bogušas: mention_match, author, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Ksaveras Bogušas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-192
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173495
+
 <a id="claim-t-190613"></a>
 - t-207
   global_id: t-190613
-  teiginys: 'Narbutas pasakojo, kad jo tarnai lietuviai Bogušo eilėse girdėjo nuostabiai perteiktą harmoningą žodžių skambesį.'
+  teiginys: "Narbutas pasakojo, kad jo tarnai lietuviai Bogušo eilėse girdėjo nuostabiai perteiktą harmoningą žodžių skambesį."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "816121-816734; hash=7a2c71a32b569af1d8f5ddf73d62a82ba6acff21c7f71634beb61703513b9132; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ksaveras Bogušas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Ksaveras Bogušas: mention_match, author, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Ksaveras Bogušas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-193
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173496
+
+<a id="claim-t-192422"></a>
+- t-208
+  global_id: t-192422
+  teiginys: "Teodoro Narbuto antrojo tomo aptarime nurodoma, kad beveik visas 576 puslapių tomas skirtas lietuvių kilmei."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "20428-20767; hash=6de03cd699136b58114b1bb4f06ef2062bfc17c34e32135395de175f378cd51e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175216
+
+<a id="claim-t-192423"></a>
+- t-209
+  global_id: t-192423
+  teiginys: "Teodoras Narbutas pratarmėje antrąjį tomą pristatė kaip lietuvių tautos ištakų ir protėvių atsikėlimo istorijos apžvalgą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "38760-39763; hash=4c3d29c3c874c438f4b83cef994565f14650a4602e632f64746dd16738848b3c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Reda Griškaitė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Reda Griškaitė: mention_match, author"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Reda Griškaitė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175217
+
+<a id="claim-t-192424"></a>
+- t-210
+  global_id: t-192424
+  teiginys: "Teodoras Narbutas, remdamasis Kepenu, lietuvių dialektą laikė viduriniu tarp senovės prūsų ir latvių dialektų."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "54621-55233; hash=786c3de92b598da06528ae8c7096a09e30fb8a54d8e4c84fd2d6c687876daf72; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Latviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Latviai: mention_match, group, gap=56"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Latviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175218
+
+<a id="claim-t-192425"></a>
+- t-211
+  global_id: t-192425
+  teiginys: "Foigto teigimu, senoji lietuvių tvirtovė Klaipėda stovėjo prie Dangės žiočių, susijusių su dešiniąja Nemuno deltos šaka."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "327419-328085; hash=32428fb69ec739dd5daf08c46cfe0acc42d7d9d433ad78139b8819c6ab52a57c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Klaipėda: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Klaipėda: mention_match, place, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Klaipėda\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175219
+
+<a id="claim-t-192426"></a>
+- t-212
+  global_id: t-192426
+  teiginys: "Teodoras Narbutas laikė istorine tiesa, kad lietuvių tautos protėviai gyveno prie Rosės upės dabartinėje Volkovysko apskrityje."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Lietuviai gyveno Upės (Oppen) kaimas (0.82)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "390404-390779; hash=987bb5269fd83bc852fabca5a5f8a3cf0958d28471951aab47be182a46746f8e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Upės (Oppen) kaimas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Upės (Oppen) kaimas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo lietuvių tautos protėvių gyvenimą prie Rosės upės."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175220
+
+<a id="claim-t-192427"></a>
+- t-213
+  global_id: t-192427
+  teiginys: "Teodoras Narbutas Nemuno žemupio pakrantes laikė pirmąja lietuvių tautos buveine šiame krašte."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Lietuviai užėmė Semba (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "394259-394889; hash=39804ac91823921f4e15d49a5d220bd45be8b4d0313ad73df03a7c86af29934e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Semba: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Semba: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad lietuviai užėmė Sembą."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175221
+
+<a id="claim-t-192428"></a>
+- t-214
+  global_id: t-192428
+  teiginys: "Teodoras Narbutas darė išvadą, kad pirmos lietuvių tautos gyvenvietės buvo dešiniosios Nemuno žemupio šakos pakrantėse."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "420844-421335; hash=c56a3028f80c438c2a53f02bd3213de5f37a4789afe0844b0a310ccb91506ca5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Teodoras Narbutas: mention_match, person, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Teodoras Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175222
+
+<a id="claim-t-192429"></a>
+- t-215
+  global_id: t-192429
+  teiginys: "Teodoras Narbutas, remdamasis padavimais ir senaisiais autoriais, teigė, kad lietuvių genties tautoms žemės priklausė dar gerokai prieš VI amžių."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Lietuviai priklausė Lietuva (0.62)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "440303-441413; hash=a5f506ea8fbdb4435b248b7ac8e527d953ff24108ae7b0e30b5ba0a0918e6ac1; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas lietuvių genties tautų žemes sieja su Lietuvos ribų aprašymu."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175223
+
+<a id="claim-t-192430"></a>
+- t-216
+  global_id: t-192430
+  teiginys: "Teodoro Narbuto skirstyme lietuvių krašto teritoriją sudarė trys pagrindinės sritys: senovės Prūsija, tikroji Lietuva ir Latvija."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Lietuva priklausė Lietuviai (0.78); Latvija priklausė Lietuviai (0.78)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "447140-447608; hash=3cfc00c5b38cc8296a3d17f2dd5a2aaf6bc16b557cecc0d1f2671c95b2133301; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuviai: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Latvija: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Latvija pateikiama kaip viena pagrindinių lietuvių krašto žemių."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175224
+
+<a id="claim-t-192431"></a>
+- t-217
+  global_id: t-192431
+  teiginys: "Teodoro Narbuto nuomone, slavai venedai ir lietuviai lotynų kalbą vartojo kaip diplomatinę kalbą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "895734-896107; hash=e0be952bca20694cdab156c23e668731e124bb294223a011facac15cd6d06d0d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lotynai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lotynai: mention_match, group, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Lotynai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175225
+
+<a id="claim-t-192432"></a>
+- t-218
+  global_id: t-192432
+  teiginys: "Teodoro Narbuto teigimu, herbų suteikimo paprotys lietuviams nebuvo būdingas, nors Lietuvoje šeimos herbai egzistavo bent nuo Gedimino laikų."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "947888-948384; hash=2140822e61c077ac3a191908684cf2ac5b6bc8efd4b32e68d2337876dd99faa1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas (Lietuvos didysis kunigaikštis, XIV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas (Lietuvos didysis kunigaikštis, XIV a.): mention_match, person, gap=76"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Gediminas (Lietuvos didysis kunigaikštis, XIV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175226
+
+<a id="claim-t-193107"></a>
+- t-219
+  global_id: t-193107
+  teiginys: "Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skubėdavo, kad nespėtų pastoti jiems kelio lietuviai."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "172540-173016; hash=cf850ca4e8779aa8276adcddbc43285b73cc291c44e8f208edbddbbf335f42e2; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175867
+
+<a id="claim-t-193108"></a>
+- t-220
+  global_id: t-193108
+  teiginys: "Po pirmų susidūrimų lietuviai pareikalavo, kad lenkai savo pasiūlymus pateiktų raštu."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "462875-463290; hash=1745640b4feef1dd362298e09bd5aa440b1ba802d253717c4260256a5d7058d3; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175868
+
+<a id="claim-t-193316"></a>
+- t-221
+  global_id: t-193316
+  teiginys: "Kai po šio smūgio Lietuva šiek tiek atsiga vo, Vytenis, surinkęs visose valdose lėšų, vieną ka riuomenę nukreipė į Dobrynę, o kitą — prieš kryžiuo čius."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "273005-273513; hash=e68ef480b4a2f12b3a6a947fc6ff5d1b9c7677d21cd55525770afa063fad2558; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / reject"
+  pagrindžia:
+    - c-176044
+
+<a id="claim-t-193549"></a>
+- t-222
+  global_id: t-193549
+  teiginys: "Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių dinastija."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "144971-145413; hash=366e6de360ab2dd1950f67e4e6d95d9046af3c8614db7c0cd6881333f2947b77; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-176229
+
+<a id="claim-t-194327"></a>
+- t-223
+  global_id: t-194327
+  teiginys: "Apie Vėluvos pilies puolimą Tuo metu stipri prūsų, sūduvių ir lietuvių kariuomenė įsibrovė į Sembos žemę; lietuviai su viena apgulos mašina vienoje pusėje, likusieji su antra — kitoje pusėje aštuonias dienas laikė apsupę Vėluvos pilį, kasdien ją puldami."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "174047-174679; hash=e51959743e8b4f5ece2d3c8fb4ff3b1b2bfa4b8cc83c1f77ada90dbf9d40a8fa; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-162954
+
+<a id="claim-t-194328"></a>
+- t-224
+  global_id: t-194328
+  teiginys: "Šioje smarkioje kovoje daug netikėlių buvo nukauta ir mirtinai sužeista, o minėtasis Henrikas savo balistos paleista strėle pataikė vienam kilmingam ir galingam lietuvių vadui ir jį nukovė, o paleidęs [strėlę] į kitą priešo kariuomenės dalį, pataikė vienam."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "181558-181923; hash=5b25869e6d5029f568c9214e9c3c4511e197dd79256df51b45cf6374d23e6fa5; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-163030
+
+<a id="claim-t-194329"></a>
+- t-225
+  global_id: t-194329
+  teiginys: "Apie Sembos žemės nusiaubimą Tų pačių metų rudenį lietuvių karalius su aštuoniais tūkstančiais raitelių įsibrovė į Sembos žemę, sudegino visus pastatus bei pasėlius, tačiau nužudė tik kelis krikščionis, o grobio išsigabeno palyginti nedaug, nes broliai iš."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "559031-559608; hash=5934d1180cb8a7d2690e64a5b6f80fa19b28ea9a37825be16dcf402746496631; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-163003
+
+<a id="claim-t-194330"></a>
+- t-226
+  global_id: t-194330
+  teiginys: "Apie Lenkijos žemės apiplėšimą Pukuveras, Lietuvos karalius, tais pačiais metais pasiuntė savo sūnų Vytenį538 su didele kariuomene į Lenkiją, į Bresto žemę539; kai jie ten pridarė daug žalos, galybę žmonių nukovę bei paėmę į nelaisvę, išdeginę bei išgrobstę."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "224349-224950; hash=a9e1d10cfa01219f78f56b181da8239d20f5884559e801ae77ac78447c585637; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-162968
+
+<a id="claim-t-194331"></a>
+- t-227
+  global_id: t-194331
+  teiginys: "Apie šio laivo sudeginimą 1313 metais Pasklidus apie šį laivą garsui, smarkiai susirūpino lietuvių karalius, o su juo ir visa Lietuva; ilgai taręsi ir visaip svarstę, kaip jį sunaikinti, galop pasiuntė kilmingą bei karingą vyrą Surminą su šimtu laivų."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "646054-646767; hash=1a9520974410cae06f54c812b1bb82bd2776585e04992abbf59ce2af969dbd43; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-162995
+
+<a id="claim-t-194572"></a>
+- t-228
+  global_id: t-194572
+  teiginys: "Atrodo, lietuviai garbino jį kaip didelį žaltį."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "271422-271900; hash=0954fbbf006bedcc263266e8fc1c6bf97c707b6d85847db47bfb3ba34b75472d; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-176972
+
+<a id="claim-t-194573"></a>
+- t-229
+  global_id: t-194573
+  teiginys: "Lydos apskrityje, prie Girkų kaimo, tikrojoje Lietuvoje, yra plotas tokių me džių, labai senų ir gražiai augančių; apie juos esama padavi mo, kad tai liekana šventojo miško, kuris buvo mirtinai per sekiojamųjų prieglobstis, o nematoma jėga, sauganti tokius."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "455415-456314; hash=5769d24cc106f9498a745c52f7c66352f79129381283a6c74954f0af55d5d8d1; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-176973
 - susijęs iš [[objektai/grupes/Perekopo orda.md#claim-t-86767|Perekopo orda]]: Perekopo ordos chanas Šach Achmedas savo pajėgomis rėmė lietuvius prieš Mendli Girėjų.
 - susijęs iš [[objektai/asmenys/Numa.md#claim-t-60186|Numa]]: Numa ir Derska pelnė brolių palankumą, išžudė lietuvius ir išsigabeno grobį į Pagudę.
 - susijęs iš [[objektai/posakiai/Viskas yra viena, viena žemė ir tie patys žmonės.md#claim-t-71821|Viskas yra viena, viena žemė ir tie patys žmonės]]: Vytautas laiške teigė, kad žemaičiai yra ta pati lietuvių tautos dalis: „viskas yra viena, viena žemė ir tie patys žmonės“.
@@ -1672,6 +4640,7 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš [[objektai/asmenys/Fridrichas Kvicas.md#claim-t-59958|Fridrichas Kvicas]]: 1319 m. Ulrichas iš Drinlevės ir Fridrichas Kvicas persekiojo Dovydo iš Gardino vyrus, nukovė 55 lietuvius ir atsiėmė jų grobį.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Libencelės.md#claim-t-59954|Fridrichas iš Libencelės (vyskupas, XIV a.)]]: 1316 m. Fridrichas iš Libencelės, Kristmemelio vicekomtūras, su 20 brolių ir 60 vyrų išžudė Bisenės pilies sargybą keitusius lietuvius.
 - susijęs iš [[objektai/asmenys/Gabrielis Žanas Petisnė.md#claim-t-18896|Gabrielis Žanas Petisnė]]: Gabrielis Žanas Petisnė vadovavo administracijai, prieš kurią lietuviai neigė nukreipę Klaipėdos sukilimą.
+- susijęs iš [[objektai/asmenys/Gajus Mesijus Kvintas Decijus.md#claim-t-191400|Gajus Mesijus Kvintas Decijus]]: Teodoro Narbuto pasakojime Decijaus laikais nuo jūros toliau gyvenę lietuviai kariavo su romėnais ir buvo germanų sąjungininkai.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05167|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05170|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas iki gyvenimo galo liko pagonis, nieko dėl religinių priežasčių nepersekiojo ir Naugarduke palaikė atskirą Lietuvos stačiatikių arkivyskupiją.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176331|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Valdant Gediminui pagoniška Lietuvos visuomenė ir jos ūkinė, socialinė, politinė bei dvasinė struktūra įgijo brandžiausią pavidalą.
@@ -1694,6 +4663,7 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš [[objektai/asmenys/Henrikas fon Plockė.md#claim-t-186043|Henrikas fon Plockė]]: Henrikas fon Plockė vadovavo kryžiuočiams, kurie auštant iš visų pusių apsupo lietuvius.
 - susijęs iš [[objektai/asmenys/Henrikas iš Dobino.md#claim-t-184078|Henrikas iš Dobino]]: Henrikas iš Dobino su būriu ginklanešių nukovė 80 lietuvių, kai lietuvių kariuomenė traukėsi iš Sembos žemės.
 - susijęs iš [[objektai/asmenys/Henrikas iš Dobino.md#claim-t-60134|Henrikas iš Dobino]]: Henrikas iš Dobino su būriu ginklanešių nukovė 80 lietuvių, kai lietuvių kariuomenė traukėsi iš Sembos žemės.
+- susijęs iš [[objektai/asmenys/Hostilianas.md#claim-t-191416|Hostilianas]]: Narbutas Hostiliano laikus minėjo tarp imperatorių epochų, kai toliau nuo jūros gyvenę lietuviai kariavo su romėnais.
 - susijęs iš [[objektai/asmenys/Ibrahimas.md#claim-t-186112|Ibrahimas]]: Ibrahimas vadovavo turkams, atėjusiems į pagalbą Krymo skitams jų išpuoliuose prieš lietuvių žemes.
 - susijęs iš [[objektai/asmenys/Immanuel Kant.md#claim-t-78054|Immanuel Kant]]: Immanuelis Kantas Kristijono Gotlibo Milkaus žodyno pratarmėje aukštai įvertino lietuvių kalbą.
 - susijęs iš [[objektai/asmenys/Isamas (Rygos arkivyskupas).md#claim-t-87518|Isamas (Rygos arkivyskupas)]]: Rygos arkivyskupui Isamui tarpininkaujant buvo sudaryta lietuvių taikos sutartis su Vokiečių ordinu.
@@ -1859,6 +4829,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-90055|Traidenis (valdovas, XIII a.)]]: 1281 m. Traidenis pasiuntė Nameisio vadovaujamą Lietuvos kariuomenę niokoti Ordino užnugario, siekdamas sulaikyti kryžiuočius nuo Sūduvos.
 - susijęs iš [[objektai/asmenys/Treniota Vykintaitis.md#claim-t-40480|Treniota Vykintaitis]]: Tikėtina, kad Treniota Vykintaitis vadovavo lietuvių kariuomenei Durbės mūšyje.
 - susijęs iš [[objektai/asmenys/Trobius.md#claim-t-186083|Trobius]]: Mirus Romuntui, Žemaitijos kunigaikščiui Trobiui buvo pavesta valdyti Lietuvą.
+- susijęs iš [[objektai/asmenys/Trojanas.md#claim-t-191479|Trojanas]]: Narbutas rašo, kad imperatoriaus Trojano laikais toliau nuo jūros gyvenę lietuviai kariavo su romėnais ir buvo germanų sąjungininkai.
+- susijęs iš [[objektai/asmenys/Tunmanas.md#claim-t-191234|Tunmanas]]: Tunmanas savo tyrimais rodė, kad lietuvių tautos tėvai, atsikėlę prie Baltijos jūros, užėmė Sembą ir gintaro kasyklas.
 - susijęs iš [[objektai/asmenys/Ulrichas iš Drinlevės.md#claim-t-184135|Ulrichas iš Drinlevės]]: 1319 m. Ulrichas iš Drinlevės ir Fridrichas Kvicas persekiojo Dovydo karius, nukovė 55 lietuvius ir atsiėmė visą grobį.
 - susijęs iš [[objektai/asmenys/Ulrichas iš Drinlevės.md#claim-t-60450|Ulrichas iš Drinlevės]]: 1319 m. Ulrichas iš Drinlevės ir Fridrichas Kvicas persekiojo Dovydo karius, nukovė 55 lietuvius ir atsiėmė visą grobį.
 - susijęs iš [[objektai/asmenys/Urbonas VI.md#claim-t-82775|Urbonas VI]]: Popiežius Urbonas VI išgyrė apsikrikštijusius lietuvius ir įgaliojo vyskupą Dobrogostą sutvarkyti bažnytinius reikalus Lietuvoje.
@@ -1940,6 +4912,7 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš [[objektai/autoriai/Irena Katilienė.md#claim-t-55007|Irena Katilienė]]: Irena Katilienė buvo viena iš 2007 m. lietuviško „Vilniaus miesto istorijos“ vertimo autorių.
 - susijęs iš [[objektai/autoriai/Isaac Taylor.md#claim-t-19402|Isaac Taylor]]: Isaacas Tayloras veikale „The Origins of the Aryans“ svarstė lietuvių apgyventą teritoriją kaip galimą arijų kalbos lopšį.
 - susijęs iš [[objektai/autoriai/Ivinskis Z.md#claim-t-91932|Ivinskis Z]]: Z. Ivinskio darbas apie Saulės-Šiaulių kautynes cituojamas aiškinant 1236 m. rugsėjo 22 d. mūšį, kuriame lietuviai sutriuškino kalavijuočius.
+- susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-190732|J. Dlugošas]]: „Slavų senienų“ autoriaus nuomone, jau J. Dlugošo laikais slavai lietuvius laikė labai maža ir silpna tauta.
 - susijęs iš [[objektai/autoriai/J. Grinius.md#claim-t-30672|J. Grinius]]: J. Grinius išleido antrąjį „Veidų ir problemų lietuvių literatūroje“ tomą Romoje 1977 m.
 - susijęs iš [[objektai/autoriai/J. Jaroszewicz.md#claim-t-30678|J. Jaroszewicz]]: J. Jaroszewiczius teigė, kad lietuviai daržoves pradėjo auginti artimiau susipažinę su slavais.
 - susijęs iš [[objektai/autoriai/J. Matusas.md#claim-t-30688|J. Matusas]]: J. Matusas perdėtai vertino Stryjkovskį, laikydamas jį pirmuoju ir iki XIX a. iš esmės vieninteliu Lietuvos istoriku.
@@ -1984,6 +4957,7 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš [[objektai/autoriai/Maironis.md#claim-t-125059|Maironis]]: Maironis buvo vienas lietuvių literatūros klasikų, tuo metu dar vaikščiojusių Kauno gatvėmis.
 - susijęs iš [[objektai/autoriai/Matulevičius A.md#claim-t-62645|Matulevičius A]]: A. Matulevičius 1972 m. paskelbė straipsnį apie lietuvių etninę ribą Prūsijoje XVIII a. pradžioje.
 - susijęs iš [[objektai/autoriai/Mažiulis V.md#claim-t-60847|Mažiulis V]]: V. Mažiulis teigė, kad lietuvių kalboje Kuršių nerija vadinta Kopomis, Kalnais, Pajūriais ir Randavomis.
+- susijęs iš [[objektai/autoriai/Mechovita.md#claim-t-191575|Mechovita]]: Narbuto vertinimu, Mechovita maišė jotvingių ir lietuvių kilmę, nors rašė, kad prie Drohičino vartotos jotvingių kalbos lietuviai nesuprasdavo.
 - susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182794|Michał Baliński Mykolas Balinskis]]: Mykolas Balinskis Vilnių apibūdino kaip Lietuvos mokslo ir vyriausiosios valdžios centrą.
 - susijęs iš [[objektai/autoriai/Mindaugas Tamošaitis.md#claim-t-26608|Mindaugas Tamošaitis]]: Mindaugas Tamošaitis apibendrino įvykius nuo 1940 m. okupacijų iki Lietuvos narystės Europos Sąjungoje 2004 m.
 - susijęs iš [[objektai/autoriai/Motiejus Valančius.md#claim-t-179554|Motiejus Valančius]]: Motiejus Valančius XIX a. padarė didelę įtaką Lietuvos politiniams procesams.
@@ -2021,10 +4995,12 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš [[objektai/autoriai/Skirmantė Ramanauskaitė.md#claim-t-81964|Skirmantė Ramanauskaitė]]: Skirmantė Ramanauskaitė buvo 2007 m. lietuviško „Vilniaus miesto istorijos“ leidimo redaktorė.
 - susijęs iš [[objektai/autoriai/Stasys Šalkauskis.md#claim-t-81967|Stasys Šalkauskis]]: Stasys Šalkauskis lietuvių tautos pašaukimą aiškino lietuvių gyvenimu tarp slavų ir germanų pasaulių.
 - susijęs iš [[objektai/autoriai/Stryjkowski Strijkovskis.md#claim-t-88008|Stryjkowski Strijkovskis]]: Strijkovskis užsiminė apie mūšį prie Sudervėlės upelio, siejamą su lietuvių sumuštų kryžiuočių kapaviete.
+- susijęs iš [[objektai/autoriai/T. Narbutas.md#claim-t-190808|Teodoras Narbutas]]: Teodoras Narbutas buvo skaitęs Augusto Liudviko fon Slėcerio tyrinėjimus ir žinojo jo nuomonę apie lietuvių kilmę bei Palemoną.
 - susijęs iš [[objektai/autoriai/T. Čarkovskis.md#claim-t-63319|T. Čarkovskis]]: T. Čarkovskis parašė brošiūrą „Przenigdy“, kuri pablogino lenkų ir lietuvių santykius.
 - susijęs iš [[objektai/autoriai/Tadas Čackis.md#claim-t-190301|Tadas Čackis]]: Narbutas klaidinga vadino Čackio nuomonę, kad lietuviai germanų pavyzdžiu laiką skaičiavę naktimis, o ne dienomis.
 - susijęs iš [[objektai/autoriai/Tarvydas S.md#claim-t-60797|Tarvydas S]]: S. Tarvydas 1967 m. paskelbė straipsnį apie vakarinių lietuvių genčių teritorijų istorinius-geografinius landšaftus.
 - susijęs iš [[objektai/autoriai/Thunmanas.md#claim-t-88082|Thunmanas]]: Thunmano tyrinėjimus ir prielaidas apie lietuvių tautos kilmę Balinskis laikė panašiausiais į tiesą.
+- susijęs iš [[objektai/autoriai/Tunmanas.md#claim-t-190812|Tunmanas]]: Pasak Teodoro Narbuto, Tunmanas tyrimais rodė, kad lietuvių tautos tėvai, atsikėlę prie Baltijos jūros, užėmė Sembą ir gintaro kasyklas.
 - susijęs iš [[objektai/autoriai/V. Daugirdaitė-Sruogienė.md#claim-t-31022|V. Daugirdaitė-Sruogienė]]: V. Daugirdaitė-Sruogienė parašė Lietuvių enciklopedijos straipsnį apie Norimantą.
 - susijęs iš [[objektai/autoriai/V. Kamantauskas.md#claim-t-96058|V. Kamantauskas]]: V. Kamantauskas parengė „Kirčiuotą lietuvių literatūros chrestomatiją“, kurios kirčius patikrino Pr. Skardžius.
 - susijęs iš [[objektai/autoriai/V. Pašuta.md#claim-t-60525|V. Pašuta]]: V. Pašuta rašė apie prūsų tautos kovą, Lietuvos valstybės susidarymą ir revanšistus.
@@ -2051,7 +5027,6 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš [[objektai/daiktai/Bombardos.md#claim-t-113454|Bombardos]]: Per apgultį meistras Hermanas pilies angoje pastatė bombardą prieš lietuvius, bet lietuviai tokiu pat pabūklu jį užmušė.
 - susijęs iš [[objektai/daiktai/Bombardos.md#claim-t-113457|Bombardos]]: Po keturių savaičių apgulties meistras Hermanas pilies angoje pastatė bombardą prieš lietuvius, bet lietuviai priešais įtaisė tokį pat pabūklą ir užmušė Hermaną.
 - susijęs iš [[objektai/daiktai/Geležiniai įrankiai.md#claim-t-31107|Geležiniai įrankiai]]: J. Stankus rašė apie geležinių įrankių technologiją Lietuvoje V-VIII ir IX-XIII a.
-- susijęs iš [[objektai/daiktai/Ietis.md#claim-t-186837|Ietis]]: Pasak pasakojimo, Algirdas atrėmė ietį į Maskvos miesto sieną ir pareiškė, kad lietuvių ietis stovėjo prie Maskvos.
 - susijęs iš [[objektai/daiktai/J. Bulhako nuotrauka „Vilnius 1916 m. – lietuvių ir lenkų disputo epicentras“.md#claim-t-77925|J. Bulhako nuotrauka „Vilnius 1916 m. – lietuvių ir lenkų disputo epicentras“]]: J. Bulhako nuotraukos antraštė Vilnių vadina 1916 m. lietuvių ir lenkų disputo epicentru.
 - susijęs iš [[objektai/daiktai/Karinės vėliavos ir ženklai.md#claim-t-87051|Karinės vėliavos ir ženklai]]: Ordino riteriai puolė į mūšį nešini šv. Jurgio vėliava, bet lietuviai juos atrėmė ir privertė grįžti patyrus nuostolių.
 - susijęs iš [[objektai/daiktai/Katinas kaip stabmeldiškosios laisvės ženklas.md#claim-t-189725|Katinas kaip stabmeldiškosios laisvės ženklas]]: Narbutas katiną aiškino kaip laisvės deivės simbolį, kuriuo lietuvių tauta esą naudojosi priešindamasi laisvių suvaržymui.
@@ -2347,6 +5322,7 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš [[objektai/grupes/Variagai (normanai).md#claim-t-31364|Variagai (normanai)]]: Variagų laikotarpiu Dniepro baseine lietuviai išplėtojo prekybinius santykius rytų kryptimi.
 - susijęs iš [[objektai/grupes/Varšuvos lietuvių studentų draugija „Lietuva“.md#claim-t-20060|Varšuvos lietuvių studentų draugija „Lietuva“]]: Varšuvos lietuvių studentų draugija „Lietuva“ įsteigė 1889 m. pradėtą leisti žurnalą „Varpas“, plėtojusį „Aušros“ idėjas.
 - susijęs iš [[objektai/grupes/Vazų dinastija.md#claim-t-75016|Vazų dinastija]]: Vazų dinastijos pradžia Lietuvos istorijos skirstyme buvo siejama su 1587 metais.
+- susijęs iš [[objektai/grupes/Venedai.md#claim-t-192484|Venedai]]: Lotynų kalbą slavai venedai ir lietuviai var tojo kaip diplomatinę kalbą.
 - susijęs iš [[objektai/grupes/Vengrai.md#claim-t-184586|Vengrai]]: Lenkai, vengrai, čekai, lietuviai ir valachai sudarė sutartis dėl tarpusavio gynybos prasidėjus karui prieš turkus.
 - susijęs iš [[objektai/grupes/Vilkolakiai.md#claim-t-189538|Vilkolakiai]]: Narbutas rašė, kad latviai vilkolakiu vadino kerėtoją, mokantį pasiversti vilku, o rusinai ir lietuviai vartojo giminingus vardus.
 - susijęs iš [[objektai/grupes/Vilniaus Lietuvių Mokslo Draugija.md#claim-t-72654|Vilniaus Lietuvių Mokslo Draugija]]: Vilniaus Lietuvių Mokslo Draugijoje buvo saugomas D. Malinausko padirbdintas grabas Vytauto kaulams sudėti.
@@ -2713,7 +5689,6 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš [[objektai/paprociai/Gamtos reiškinių sudievinimas ir šventviečių telkimasis.md#claim-t-54233|Gamtos reiškinių sudievinimas ir šventviečių telkimasis]]: Gamtos sudievinimo sampratoje senieji lietuviai šventybės raišką matė danguje, žemėje, ugnyje ir vandenyje.
 - susijęs iš [[objektai/paprociai/Generaliniai seimeliai ir provincijų sesijos.md#claim-t-01948|Generaliniai seimeliai ir provincijų sesijos]]: Generaliniai seimeliai neišnyko įvedus bendrą seimą su lietuviais, o Lietuvoje prieš bendruosius seimus pradėti rengti panašūs suvažiavimai.
 - susijęs iš [[objektai/paprociai/Itališkos mados perėmimas Lietuvos diduomenėje.md#claim-t-77946|Itališkos mados perėmimas Lietuvos diduomenėje]]: Bona Sforca į Lenkiją ir Lietuvą atsivežė italų menininkų, o Lietuvos diduomenė pamažu perėmė itališką madą.
-- susijęs iš [[objektai/paprociai/Ištikimybė protėvių religijai ir papročiams.md#claim-t-185870|Ištikimybė protėvių religijai ir papročiams]]: Kojelavičiaus pasakojime ištikimybė protėvių religijai ir papročiams siejama su lietuvių pagonių valstybės kūrimu.
 - susijęs iš [[objektai/paprociai/JAV lietuvių spaudos, draugijų, chorų ir politinių akcijų praktika.md#claim-t-67095|JAV lietuvių spaudos, draugijų, chorų ir politinių akcijų praktika]]: JAV lietuviai leido laikraščius, kūrė chorus, finansiškai rėmė Lietuvos kultūrinį gyvenimą ir rengė politines akcijas.
 - susijęs iš [[objektai/paprociai/JAV lietuvių spaudos, draugijų, chorų ir politinių akcijų praktika.md#claim-t-67096|JAV lietuvių spaudos, draugijų, chorų ir politinių akcijų praktika]]: 1910 m. JAV gyveno 207 tūkst. lietuvių, kurie kūrė spaudą, draugijas ir organizacijas, chorų veiklą bei politines akcijas.
 - susijęs iš [[objektai/paprociai/JAV lietuvių spaudos, draugijų, chorų ir politinių akcijų praktika.md#claim-t-67097|JAV lietuvių spaudos, draugijų, chorų ir politinių akcijų praktika]]: JAV lietuviai leido lietuviškus laikraščius, kūrė chorus, rėmė Lietuvos kultūrą ir rengė politines akcijas.
@@ -2787,6 +5762,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš [[objektai/paprociai/Teresboro stovyklos mokymai lietuvių kalba.md#claim-t-78718|Teresboro stovyklos mokymai lietuvių kalba]]: Teresboro stovykloje mokymai vyko lietuviškai, o komandos buvo duodamos lietuvių kalba.
 - susijęs iš [[objektai/paprociai/Teresboro stovyklos mokymai lietuvių kalba.md#claim-t-78720|Teresboro stovyklos mokymai lietuvių kalba]]: Teresboro stovykloje mokymai vyko lietuviškai, o komandos buvo duodamos lietuvių kalba.
 - susijęs iš [[objektai/paprociai/Teresboro stovyklos mokymai lietuvių kalba.md#claim-t-78721|Teresboro stovyklos mokymai lietuvių kalba]]: Teresboro stovykloje mokymai vyko lietuviškai.
+- susijęs iš [[objektai/paprociai/Upių šventinimas Rosės vardu.md#claim-t-192091|Upių šventinimas Rosės vardu]]: Narbutas upių šventinimą Rosės vardu aiškina kaip vieną iš lietuvių tautos religinių skolinių iš indų budistų.
+- susijęs iš [[objektai/paprociai/Upių šventinimas Rosės vardu.md#claim-t-192516|Upių šventinimas Rosės vardu]]: Narbutas Rosės pavadinimo kilmę sieja su upių šventinimu Rosės vardu ir lietuvių religijos skoliniais iš indų budistų.
 - susijęs iš [[objektai/paprociai/Užsienio lietuvių kolonijų ryšių su tėvyne palaikymas per spaudą, kunigus, mokytojus ir kongresus.md#claim-t-77962|Užsienio lietuvių kolonijų ryšių su tėvyne palaikymas per spaudą, kunigus, mokytojus ir kongresus]]: Draugija užsienio lietuviams remti buvo sukurta padėti emigrantams ir palaikyti jų ryšius su tėvyne.
 - susijęs iš [[objektai/paprociai/Valdovo meilės ryšių viešas smerkimas apkalbomis ir pašiepiamomis dainelėmis.md#claim-t-185899|Valdovo meilės ryšių viešas smerkimas apkalbomis ir pašiepiamomis dainelėmis]]: Lenkų ir lietuvių didikai smerkė nelygių žmonių meilę, o liežuvautojai iš nepadorių santykių tyčiojosi pašiepiamomis dainelėmis.
 - susijęs iš [[objektai/paprociai/Valdų išpirkimas nuo antpuolių dovanomis per žygūnus.md#claim-t-185926|Valdų išpirkimas nuo antpuolių dovanomis per žygūnus]]: 1449 m. pasienio seniūnas Jurga per žygūnus pasiuntė gausių dovanų ir išpirko lietuviams priklausomas valdas nuo skitų antpuolių.
@@ -2958,6 +5935,7 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvių kalbų žodynas“: Kristijono Gotlibo Milkaus žodyno pratarmėje Immanuelis Kantas pabrėžė išskirtinius lietuvių kalbos pagyrimus.
 - susijęs iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvių kalbų žodynas“: Immanuelio Kanto mintys apie lietuvių kalbą pateiktos Kristijono Gotlibo Milkaus žodyno pratarmėje.
 - susijęs iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvių kalbų žodynas“: Lietuvių kalba apibūdinta kaip gavusi daugiausia aukščiausių pagyrimų ir turinti savitą gražią bei aiškią fonologiją.
+- susijęs iš Kromerio veikalas: Kromerio veikale, Narbuto perteikimu, jotvingių likučiai apie Drohiciną kalbėjo lietuviams nesuprantama ir nuo slavų bei lietuvių kalbų besiskyrusia kalba.
 - susijęs iš Kronika Polska litewska żmódzka y wszystkiey Rusi Kijowskiey: M. Stryjkovskio 1582 m. kronika Lietuvos istoriją pradėjo nuo Romos imperatoriaus Nerono laikų pabėgėlių atvykimo prie Nemuno.
 - susijęs iš Ksaveras Bogušas, „Apie lietuvių tautos ir kalbos kilmę“: 1808 m. Varšuvoje išleistoje Ksavero Bogušo knygelėje „Apie lietuvių tautos ir kalbos kilmę“ pirmą kartą teigta, kad lietuvių kalba tinkama aukštajai kultūrai.
 - susijęs iš Ksaveras Bogušas, „Apie lietuvių tautos ir kalbos kilmę“: Ksavero Bogušo knygelėje „Apie lietuvių tautos ir kalbos kilmę“ pirmą kartą nuskambėjo mintis, kad lietuvių kalba tinka aukštajai kultūrai.
@@ -3050,6 +6028,7 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš Mažiulis V. Dėl Neringos vardo: V. Mažiulio „Dėl Neringos vardo“ paskelbtas „Lietuvių kalbotyros klausimų“ 3 tome 1960 m., p. 301–315.
 - susijęs iš Mažosios Lietuvos himnas: XIX a. pabaigoje Georgas Zauerveinas parašė Mažosios Lietuvos himną, kuris greitai išpopuliarėjo ir Didžiojoje Lietuvoje.
 - susijęs iš Mažosios Lietuvos himnas: Už lietuvių kalbą Rytų Prūsijoje kovojęs Jurgis Zauerveinas parašė Mažosios Lietuvos himną, išpopuliarėjusį ir Didžiojoje Lietuvoje.
+- susijęs iš Mechovitos veikalas: Teodoro Narbuto vertinimu, Mechovita painioja jotvingių ir lietuvių kilmę, nors mini prie Drohicino dar vartotą jotvingių kalbą.
 - susijęs iš Memelio (Klaipėdos) Konvencija ir Statutas: Lietuvos vyriausybė į Klaipėdos uostą investavo 42 mln. litų, o pajamų gavo 11 mln. litų.
 - susijęs iš Memelio (Klaipėdos) Konvencija ir Statutas: 1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas paskelbė Klaipėdos kraštą autonomine Lietuvos dalimi.
 - susijęs iš Metai: Kristijono Donelaičio poema „Metai“ apibūdinama kaip pirmasis reikšmingas lietuviakalbės literatūros kūrinys Mažojoje Lietuvoje.
@@ -3139,7 +6118,6 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš Antakalnis: Antakalnyje, dabartinės Šv. Petro bažnyčios vietoje, minima medinė visiems lietuvių dievams pašvęsta šventovė.
 - susijęs iš Argentina: Argentina buvo viena Pietų Amerikos šalių, į kurias daugiausia vyko lietuviai emigrantai.
 - susijęs iš Ariogala: Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių sodybos ir nuotykių ieškotojai keliami į riterius.
-- susijęs iš Aukštaitija: Vytautas rašte Zigmantui teigė, kad Aukštaitija ir Žemaitija yra dvi neatskiriamos Lietuvos dalys.
 - susijęs iš Berezina: Berezinos upė buvo sutarta riba tarp Polocko kunigaikštystės ir Lietuvos.
 - susijęs iš Biarmija: Narbutas rašė, kad Biarmijos, arba Permės, raidyno pėdsakų buvo aptikta lietuvių žemėje ir kad senovės lietuviai naudojosi tomis raidėmis.
 - susijęs iš Bielsko: Liepos 16 d. S. Zabiela iš stovyklos prie Bielsko išžygiavo į Lietuvos Brastą su keturiais pėstininkų pulkais.
@@ -3314,6 +6292,7 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš Nemunas: Sudeginus Peštvę ir Veliuoną, Nemuno krantuose iki Kauno nebeliko lietuvių gynybos punktų.
 - susijęs iš Nemunas: Užšalęs Nemunas leido magistro Konrado fon Tirbergo vedamiems kryžiuočiams lengvai persikelti ledu į Lietuvą.
 - susijęs iš Nemunas: Narbutas pažymėjo, kad Nemuno žemupio lietuviai vietoj „Gej“ šaukdavę „Hej“.
+- susijęs iš Nemunas: Teodoras Narbutas Nemuno žemupio pakrantes laikė pirmąja lietuvių tautos buveine šiame krašte.
 - susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Žemiau Vilniaus Vilijos pakrantėse gyvenę lietuviai kaimiečiai šią upę vadino Nerimi.
 - susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Baliński spėjo, kad Vilijos vardas lietuviškai galėjo kilti iš „vilioju“ arba „vylius“ ir reikšti Vilioklę.
 - susijęs iš Nesvyžius: 1586 m. pradėta Nesvyžiaus jėzuitų bažnyčia žymėjo Lietuvos baroko epochos pradžią.
@@ -3600,6 +6579,9 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš [[objektai/grupes/Draugija Užsienio Lietuviams Remti (DULR).md#claim-t-182887|Draugija Užsienio Lietuviams Remti (DULR)]]: DULR rūpinosi lietuviškų mokyklų steigimu, mokytojų parūpinimu išeivių mokykloms ir knygų siuntimu bibliotekoms.
 - susijęs iš [[objektai/ivykiai/Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.).md#claim-t-185493|Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)]]: Rusų kunigaikščiai prie Irpenio upės įsirengė karo stovyklas, ketindami užpulti į Kijevą traukiančius lietuvius.
 - susijęs iš [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną.md#claim-t-59725|Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]: Sembų ir lietuvių bendri karo veiksmai siejami su Ordinui priklausiusios Klaipėdos pilies apgultimi XIII a. šeštajame dešimtmetyje.
+- susijęs iš [[objektai/paprociai/Ištikimybė protėvių religijai ir papročiams.md#claim-t-192086|Ištikimybė protėvių religijai ir papročiams]]: Kojelavičiaus pasakojime lietuviai pagonys, ištikimi protėvių religijai ir papročiams, sukūrė Lietuvos valstybę.
+- susijęs iš [[objektai/paprociai/Lotynų kalbos vartojimas kaip diplomatinės kalbos.md#claim-t-192105|Lotynų kalbos vartojimas kaip diplomatinės kalbos]]: Narbutas rašo, kad slavai venedai ir lietuviai lotynų kalbą vartojo kaip diplomatinę kalbą.
+- susijęs iš [[objektai/paprociai/Upių šventinimas Rosės vardu.md#claim-t-192091|Upių šventinimas Rosės vardu]]: Narbutas upių šventinimą Rosės vardu aiškina kaip vieną iš lietuvių tautos religinių skolinių iš indų budistų.
 - susijęs iš Rudamina: Prie Rudaminos kryžiuočiai laimėjo vieną didesnių mūšių ir paėmė į nelaisvę lietuvių kariuomenę.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77974|A. Smetona]]: A. Smetona vadovavo draugijai nuo karo nukentėjusiesiems šelpti ir į jos veiklą įtraukė kairės bei liberalų lyderius.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77979|A. Smetona]]: 1940 m. birželį iš Lietuvos išvykęs A. Smetona per Vokietiją, Šveicariją ir Portugaliją pasiekė JAV.
@@ -3623,6 +6605,7 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176284|Algirdas (Lietuvos valdovas)]]: 1440 m. privilegijoje Vilniui atnaujintos senos laisvės, suteiktos Algirdo ir jo įpėdinių.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176291|Algirdas (Lietuvos valdovas)]]: Lietuvos valdovas Algirdas prie Mėlynųjų vandenų vedė Lietuvos kariuomenę, kuri sutriuškino su lietuviais konkuravusius mongolus.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-183725|Algirdas (Lietuvos valdovas)]]: Lietuvos valdovas Algirdas prie Mėlynųjų vandenų vedė Lietuvos kariuomenę, kuri sutriuškino su lietuviais konkuravusius mongolus.
+- susijęs iš [[objektai/asmenys/Amianas Marcelinas.md#claim-t-191938|Amianas Marcelinas]]: Narbutas agazirus tapatina su agatirais, kuriuos Amianas Marcelinas mini XXXI knygoje.
 - susijęs iš [[objektai/asmenys/Andrejus Sacharovas.md#claim-t-75687|Andrejus Sacharovas]]: Andrejus Sacharovas buvo Jelenos Boner vyras ir bendražygis.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis Polockietis.md#claim-t-40018|Andrius Algirdaitis Polockietis]]: Andrius Algirdaitis Polockietis su Kęstučiu ir Vytautu Kęstutaičiu puolė Perejeslavlį.
 - susijęs iš [[objektai/asmenys/Andrius iš Vasilevo Važila.md#claim-t-87624|Andrius iš Vasilevo Važila]]: Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.
@@ -3650,6 +6633,7 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54951|Barbora Radvilaitė]]: 1828 m. Radvilų prokuratorija pardavė Barboros Radvilaitės rūmų griuvėsius už 500 sidabrinių rublių plytoms.
 - susijęs iš [[objektai/asmenys/Bernardas (Šv. Teofrido vienuolyno abatas).md#claim-t-60250|Bernardas (Šv. Teofrido vienuolyno abatas)]]: Bernardas, Šv. Teofrido vienuolyno abatas, 1324 m. buvo popiežiaus Jono XXII pasiųstas į Livoniją kaip legatas.
 - susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59879|Bertoldas, vadinamas Briuhavenu]]: 1298 m. didysis magistras Gotfridas Hohenlohė pasiuntė Karaliaučiaus komtūrą Bertoldą Briuhaveną į pagalbą Livonijos broliams.
+- susijęs iš [[objektai/asmenys/Biartmaras.md#claim-t-191376|Biartmaras]]: Biartmaras Teodoro Narbuto pasakojime buvo Flamoro įpėdinis, paveldėjęs garsų miestą prie Nemuno žiočių ir galia nenusileidęs karaliams.
 - susijęs iš [[objektai/asmenys/Bochartas.md#claim-t-190134|Bochartas]]: Narbutas nurodo, kad Bochartas žodį Cabires kildino iš arabiško Kabir, reiškiančio galią.
 - susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-184680|Boleslovas (Mazovijos kunigaikštis)]]: Boleslovas, Mazovijos kunigaikštis, užpuolė Palenkę ir užėmė Melniką, Belską bei Drohičiną.
 - susijęs iš [[objektai/asmenys/Bonifacas IX.md#claim-t-35042|Bonifacas IX]]: Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę tarp stačiatikių, patvirtindamas Vladimiro vyskupiją Volynijoje.
@@ -3903,8 +6887,6 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš [[objektai/asmenys/Vincas Kudirka.md#claim-t-78008|Vincas Kudirka]]: Iš bibliotekų buvo pašalintos Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių knygos bei tautinė literatūra.
 - susijęs iš [[objektai/asmenys/Vincas Mykolaitis-Putinas.md#claim-t-19317|Vincas Mykolaitis-Putinas]]: Po J. Stalino mirties atšilimo laikotarpiu buvo išspausdinta Vinco Mykolaičio-Putino kūrinių.
 - susijęs iš [[objektai/asmenys/Vinrichas fon Kniprodė.md#claim-t-80702|Vinrichas fon Kniprodė]]: 1362 m. Kauno pilies žygiui vadovavo didysis Ordino magistras Vinrichas fon Kniprodė.
-- susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-79219|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
-- susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-79220|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
 - susijęs iš [[objektai/asmenys/Vladimiras Leninas.md#claim-t-64246|Vladimiras Leninas]]: Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija.
 - susijęs iš [[objektai/asmenys/Vladislovas (Jogailos sūnus).md#claim-t-35320|Vladislovas (Jogailos sūnus)]]: 1425 m. šlėkta pasirinko Jogailos sūnų Vladislovą būsimu valdovu ir karaliumi.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173226|Vladislovas Jogaila]]: Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.
@@ -4092,8 +7074,6 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš [[objektai/daiktai/Herbai.md#claim-t-92961|Herbai]]: Horodlės unijoje 47 pirmaeilinės Lenkijos giminės susibroliavo su žymesniais Lietuvos bajorais ir suteikė jiems herbus.
 - susijęs iš [[objektai/daiktai/Herbai.md#claim-t-92965|Herbai]]: Lenkai didžiuodamiesi pabrėždavo, kad Lietuvos bajorijai davė savo herbus.
 - susijęs iš [[objektai/daiktai/Herbas.md#claim-t-34572|Herbas]]: Horodlės unijos 18 paragrafu 47 lietuvių bajorams buvo suteikti 47 lenkų bajorų herbai.
-- susijęs iš [[objektai/daiktai/Ietis.md#claim-t-186834|Ietis]]: Lietuvos metraštis pasakoja, kad Algirdas atrėmė savo ietį į Maskvos sieną ir liepė prisiminti, jog „lietuvių ietis“ stovėjo prie Maskvos.
-- susijęs iš [[objektai/daiktai/Ietis.md#claim-t-186836|Ietis]]: 1329 m. Jonas Liuksemburgietis ir lietuvių didikas Margalis raiti susirėmė ietimis, o jas sulaužę ėmė kautis kalavijais.
 - susijęs iš [[objektai/daiktai/J. Zikaro skulptūra „Knygnešys“.md#claim-t-77926|J. Zikaro skulptūra „Knygnešys“]]: J. Zikaro skulptūra „Knygnešys“ datuojama 1939 m.
 - susijęs iš [[objektai/daiktai/Juostos.md#claim-t-47812|Juostos]]: Apyrankių ir kitų papuošalų ornamentai buvo giminingi lietuvių kaimo audinių ir juostų raštams.
 - susijęs iš [[objektai/daiktai/Juostos.md#claim-t-47813|Juostos]]: Apyrankių ir kitų papuošalų ornamentai buvo giminingi lietuvių kaimo audinių ir juostų raštams.
@@ -4116,6 +7096,7 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš [[objektai/daiktai/Medžiotojo diržai prie balno risietis.md#claim-t-189689|Medžiotojo diržai prie balno risietis]]: Narbutas rašė, kad lietuviai medžiotojo diržus vadino Risietis ir todėl neturėjo skolintis šio daikto pavadinimo iš svetimos kalbos.
 - susijęs iš [[objektai/daiktai/Memelio kryžiuočių pilis, apjuosta siena.md#claim-t-87031|Memelio kryžiuočių pilis, apjuosta siena]]: Per žemaičių antpuolį Memelyje kryžiuočių pilis išliko sveika, nors miestas buvo sudegintas.
 - susijęs iš [[objektai/daiktai/Mildos cinkinė statulėlė.md#claim-t-189732|Mildos cinkinė statulėlė]]: Narbutas pasakojo, kad darbininkas mūre aptiko cinkinę deivės Veneros statulėlę ir nunešė ją kunigui vikarui Mingailai.
+- susijęs iš [[objektai/daiktai/Mildos cinkinė statulėlė.md#claim-t-192504|Mildos cinkinė statulėlė]]: Franckevičiaus dienoraščio pasakojime Kauno klebonijoje darbininkas sienoje aptiko įmūrytą cinkinę Veneros statulėlę ir nunešė ją vikarui Mingailai.
 - susijęs iš [[objektai/daiktai/Nuometai.md#claim-t-08311|Nuometai]]: Moteriškosios dar ilgai nenorėjo mesti senovės nuometų nuo galvos.
 - susijęs iš [[objektai/daiktai/Ordino komtūrų barzdos.md#claim-t-19577|Ordino komtūrų barzdos]]: Po Žalgirio mūšio lenkai ir lietuviai pasidalijo grobį, įskaitant belaisvius, Ordino komtūrų barzdas ir vėliavas.
 - susijęs iš [[objektai/daiktai/Paplotėlis.md#claim-t-59699|Paplotėlis]]: Žygio prieš Lietuvą metu broliui Albertui prie burnos pasirodė Viešpaties kūnas paplotėlio pavidalu.
@@ -4127,7 +7108,6 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš [[objektai/daiktai/Sienodaužiai.md#claim-t-171481|Sienodaužiai]]: Puldami Gotteswerderį lietuviai naudojo 15 mašinų ir 5 sienodaužius.
 - susijęs iš [[objektai/daiktai/Sienodaužiai.md#claim-t-171482|Sienodaužiai]]: Puldami Gotteswerderį lietuviai naudojo 15 mašinų ir 5 sienodaužius.
 - susijęs iš [[objektai/daiktai/Sklandytuvai.md#claim-t-19592|Sklandytuvai]]: Kaune lietuviai konstravo karo ir sporto lėktuvus, lengvuosius bombonešius ir gamino sportui skirtus sklandytuvus.
-- susijęs iš [[objektai/daiktai/Skydai.md#claim-t-97104|Skydai]]: E. Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a.
 - susijęs iš [[objektai/daiktai/Spaudos leidiniai kaip kontrabandiniai objektai.md#claim-t-183300|Spaudos leidiniai kaip kontrabandiniai objektai]]: Valdžios ir žandarų bausmės knygnešiams nesustabdė lietuviškos spaudos srauto į Lietuvą.
 - susijęs iš [[objektai/daiktai/Sutikimo vartai.md#claim-t-23305|Sutikimo vartai]]: 1927 m. vasarą ir rudenį Antaną Smetoną miesteliuose iškilmingai sutikdavo prie gėlėmis ir vainikais išdabintų sutikimo vartų.
 - susijęs iš [[objektai/daiktai/Taurelė vilkolakio pasakojime.md#claim-t-189750|Taurelė vilkolakio pasakojime]]: Narbuto pateiktame vilkolakio pasakojime vilku virstantis kerėtojas geria su draugu iš tos pačios taurelės ir kalbasi.
@@ -4196,12 +7176,15 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96109|Gediminaičių dinastija]]: Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gediminas (valdęs 1316–1341 m.).
 - susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96110|Gediminaičių dinastija]]: Iš lietuvių tautos buvo kilusi ir valdančioji Gediminaičių šeima.
 - susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96113|Gediminaičių dinastija]]: XIII a. pabaigoje Lietuvos istorijoje iškilo lietuvių kilmės valdovų Gediminaičių dinastija.
+- susijęs iš [[objektai/grupes/Gelonai.md#claim-t-192384|Gelonai]]: Narbutui priskiriamame kilmės aiškinime lietuviai kildinami iš gelonų ir budinų, o vėlesnė jų karta siejama su Prūsija, Lietuva ir Latvija.
+- susijęs iš [[objektai/grupes/Germanai.md#claim-t-192394|Germanai]]: Narbutas mini, bet atmeta nuomonę, kad lietuvių tauta susidarė IV ar V amžiuje Vyslos žemupyje iš daugelio, ypač germanų, tautų.
 - susijęs iš [[objektai/grupes/Glebavičių giminė.md#claim-t-86793|Glebavičių giminė]]: Pilaitės kunigaikščių pilis po Viršilų giminės perėjo Glebavičių paveldui.
 - susijęs iš [[objektai/grupes/Gotai.md#claim-t-31185|Gotai]]: Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į rytus, į Rytprūsių plotą iki Alnos upės.
 - susijęs iš [[objektai/grupes/Goštautai.md#claim-t-19697|Goštautai]]: XVI a. tarp įtakingiausių giminių lietuviškos kilmės buvo Goštautai ir Radvilos.
 - susijęs iš [[objektai/grupes/Hanza.md#claim-t-116694|Hanza]]: Rygiečiai Hanzos sąjungoje skundė Vytautą sulaužius jų patvirtintą sutartį su Polocku.
 - susijęs iš [[objektai/grupes/Herulai.md#claim-t-188192|Herulai]]: Narbutas herulus vaizdavo kaip gotų priešus, kai gotai, jo aiškinimu, jau buvo krikščionys ir niokojo baltų kraštų gentis.
 - susijęs iš [[objektai/grupes/Herulai.md#claim-t-86794|Herulai]]: Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidivarijų vardais.
+- susijęs iš [[objektai/grupes/Hiriai.md#claim-t-192927|Hiriai]]: Narbutas spėja, kad hiriai, eidami paskui gotus, apie II amžiaus pabaigą apsigyveno dešiniajame Dnestro krante.
 - susijęs iš [[objektai/grupes/Husitai.md#claim-t-172105|Husitai]]: Lenkijoje, o vėliau ir Lietuvoje kilo opozicija husitams: imta kovoti su jų mokslu ir likta Bažnyčios pusėje.
 - susijęs iš [[objektai/grupes/II brigada.md#claim-t-40891|II brigada]]: II brigada pralaužė gynybą ir 28 d. privertė bolševikus trauktis už Dauguvos.
 - susijęs iš [[objektai/grupes/Japonai.md#claim-t-189471|Japonai]]: Narbutas japonus priskyrė prie tautų, kurios, jo aiškinimu, turėjo daugiau ar mažiau paslaptingą dievų Kabirų ritualą.
@@ -4356,6 +7339,7 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108326|Pranciškonų ordinas]]: Andrius Vosylius Jastrzębiecas, dar būdamas pranciškonų kunigas, kurį laiką gyveno Vilniuje prie Algirdo.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108329|Pranciškonų ordinas]]: Pranciškonai veikė sostinėje ir joje laikė savo vienuolyną.
 - susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188311|Prūsai]]: Narbutas ginčija Hartknocho abejonę ir teigia, kad prūsai alų darė labai senu papročiu dar iki kryžiuočių atsikraustymo.
+- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-192447|Prūsai]]: Pasak Hartknocho, prie Baltijos jūros nuo seno buvo žinomi padavimai apie tenykščių genčių, ypač prūsų, ištakas.
 - susijęs iš [[objektai/grupes/Prūsijos valstybė.md#claim-t-19968|Prūsijos valstybė]]: Vokiečių ordinas nukariavo ir asimiliavo prūsus bei jotvingius, o vėliau įkūrė Prūsijos valstybę.
 - susijęs iš [[objektai/grupes/Prūsijos valstybė.md#claim-t-19969|Prūsijos valstybė]]: Vokiečių ordino valstybė vėliau pasivadino Prūsijos hercogija, o dar vėliau – Prūsijos karalija.
 - susijęs iš [[objektai/grupes/Pskovo muškietininkų pulkas.md#claim-t-78425|Pskovo muškietininkų pulkas]]: Lietuviams puolant Vilnių balandžio 23 d., rusų įguloje buvo du Pskovo muškietininkų pulko batalionai.
@@ -4418,6 +7402,7 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš [[objektai/grupes/Valavičiai.md#claim-t-20056|Valavičiai]]: XVI a. Valavičiai buvo priskirti prie įtakingų rusėnų giminių, laikiusių save LDK piliečiais.
 - susijęs iš [[objektai/grupes/Venedai.md#claim-t-86773|Venedai]]: Hanoverio žemėje prie Elbės žemupio gyvenusių venedų kalboje žodis „Vilija“ reiškė valią.
 - susijęs iš [[objektai/grupes/Venedai.md#claim-t-86774|Venedai]]: Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
+- susijęs iš [[objektai/grupes/Vidivariai.md#claim-t-192944|Vidivariai]]: Narbutas mini nuomonę, kad lietuvių tauta IV ar V a. Vyslos žemupyje susidarė kaip germanų kilmės lydinys ir vadinta vidivariais.
 - susijęs iš [[objektai/grupes/Vietinė rinktinė.md#claim-t-183193|Vietinė rinktinė]]: Vokiečiai pareikalavo, kad Vietinė rinktinė taptų jiems pavaldi.
 - susijęs iš [[objektai/grupes/Vietinė rinktinė.md#claim-t-66257|Vietinė rinktinė]]: Vietinės rinktinės daliniai Vilnijoje susidūrė su ginkluotais lenkų Armijos Krajovos daliniais.
 - susijęs iš [[objektai/grupes/Vietinė rinktinė.md#claim-t-66258|Vietinė rinktinė]]: Vietinės rinktinės kariai neketino kariauti Vokietijos pusėje ir ėmė skirstytis su ginklais bei amunicija.
@@ -4558,6 +7543,7 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis).md#claim-t-78615|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]: Kristupas Radvila nusprendė imtis iniciatyvos ir pasuko Rževo link, į Rusijos teritorijos gilumą.
 - susijęs iš [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis).md#claim-t-78616|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]: Kristupo Radvilos pajėgos nusiaubė Dubno ir Opokos apylinkes, užėmė Cholmą ir sudegino Starają Rusą.
 - susijęs iš [[objektai/ivykiai/Karaliaus Uracho rinkimas.md#claim-t-01638|Karaliaus Uracho rinkimas]]: Lietuvos Taryba nusprendė valdovu kviesti kataliką kunigaikštį von Urachą, kuris priėmė lietuvių pateiktas karaliavimo sąlygas.
+- susijęs iš [[objektai/ivykiai/Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių.md#claim-t-192020|Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių]]: Narbutas radinį prie Kražių apibūdina kaip 1836 m. Žemaitijoje rastą bronzinę karo dievo Kovo statulėlę.
 - susijęs iš [[objektai/ivykiai/Karo padėties Klaipėdos krašte atšaukimas po Miuncheno susitarimo (1938 m. pabaiga).md#claim-t-169829|Karo padėties Klaipėdos krašte atšaukimas po Miuncheno susitarimo (1938 m. pabaiga)]]: Lietuvos vyriausybė į Klaipėdos uostą investavo 42 mln. litų, tačiau iš jo gavo tik 11 mln. litų pajamų.
 - susijęs iš [[objektai/ivykiai/Karo padėties Klaipėdos krašte atšaukimas po Miuncheno susitarimo (1938 m. pabaiga).md#claim-t-169830|Karo padėties Klaipėdos krašte atšaukimas po Miuncheno susitarimo (1938 m. pabaiga)]]: Lietuviško mokymo ir lietuvių kalbos vartojimo skatinimas Klaipėdos krašte davė priešingą rezultatą, nes oponentai kliudė krašto integracijai.
 - susijęs iš [[objektai/ivykiai/Karšuvos nuniokojimas ir Skronaičių bei Bebirvaičių pilių sudeginimas (1307 m.).md#claim-t-28824|Karšuvos nuniokojimas ir Skronaičių bei Bebirvaičių pilių sudeginimas (1307 m.)]]: 1307 m. Ragainės komtūro riteriai nusiaubė Karšuvą, o rudenį sudegino karšuvių paliktas Skronaičių ir Bebirvaičių pilis.
@@ -4669,6 +7655,9 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš [[objektai/ivykiai/Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.).md#claim-t-75287|Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.)]]: 1920 m. balandžio 14–15 d. Steigiamojo Seimo rinkimus laimėjo krikščionių demokratų blokas, gavęs 59 vietas.
 - susijęs iš [[objektai/ivykiai/Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.).md#claim-t-75288|Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.)]]: 1920 m. balandžio 14–15 d. rinkimus į Steigiamąjį Seimą laimėjo krikščionių demokratų blokas, gavęs 59 vietas.
 - susijęs iš [[objektai/ivykiai/Strėvos mūšis (1348 m.).md#claim-t-10296|Strėvos mūšis (1348 m.)]]: Lietuvių kariuomenė prie Strėvos upės pavijo grįžtantį priešą po Ordino niokojimų.
+- susijęs iš [[objektai/ivykiai/Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas.md#claim-t-192042|Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas]]: Narbuto pasakojime Sturlaugas vėliau išleido Ingigerdą už Flamoro ir davė jam Aldejaborgą, kurį vadina Rusios uostu.
+- susijęs iš [[objektai/ivykiai/Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas.md#claim-t-192043|Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas]]: Narbuto datavime Sturlaugo žygis, Ingvaro nužudymas ir Aldejaborgo perdavimas siejami su II a. pabaiga arba III a. pradžia.
+- susijęs iš [[objektai/ivykiai/Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas.md#claim-t-192488|Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas]]: Narbuto pasakojime Sturlaugas Darbštusis kautynėse nužudė Ingvarą, vėliau Ingigerdą išleido už Flamoro ir jam perdavė Aldejaborgą.
 - susijęs iš [[objektai/ivykiai/Sunkus badas visoje Lietuvoje ir Baltarusijoje (1440 m.).md#claim-t-185829|Sunkus badas visoje Lietuvoje ir Baltarusijoje (1440 m.)]]: Per sunkų badą Baltarusijoje sulaukėję šunys puldinėjo ir draskė sutiktus žmones.
 - susijęs iš [[objektai/ivykiai/Sutartis su Fridriku Brandenburgiečiu ir Jadvygos sužieduotuvės (1420–1421 m.).md#claim-t-35878|Sutartis su Fridriku Brandenburgiečiu ir Jadvygos sužieduotuvės (1420–1421 m.)]]: 1421 m. Jogailos dukra Jadvyga buvo sužieduota su devynerių metų Brandenburgo markgrafo sūnumi Fridriku.
 - susijęs iš [[objektai/ivykiai/Sūduvių ir lietuvių antpuolis prieš Sembą.md#claim-t-62493|Sūduvių ir lietuvių antpuolis prieš Sembą]]: Sūduviai pasitelkė lietuvius ir smarkiai užpuolė Sembą, dešimt dienų degindami sodybas bei kitą už pilių buvusį turtą.
@@ -4762,7 +7751,6 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš [[objektai/paprociai/Istorikų darbų aptarinėjimas bajorų pobūviuose ir privačių kolekcijų kaupimas.md#claim-t-54748|Istorikų darbų aptarinėjimas bajorų pobūviuose ir privačių kolekcijų kaupimas]]: Privačiose kolekcijose buvo kaupiami archeologiniai radiniai ir meno objektai.
 - susijęs iš [[objektai/paprociai/Išpažintis per aukojimo apeigas.md#claim-t-189803|Išpažintis per aukojimo apeigas]]: Narbutas išpažintį priskyrė apeigoms, atliekamoms per aukų atnašavimą, remdamasis Strijkovskio ir senųjų kronikininkų duomenimis.
 - susijęs iš [[objektai/paprociai/Išpažintis per aukojimo apeigas.md#claim-t-189805|Išpažintis per aukojimo apeigas]]: Narbutas aiškino, kad po krikščionybės įvedimo lietuvių išpažintis mėgdžiojo katalikų išpažintį, bet turėjo senesnių stabmeldiškų bruožų.
-- susijęs iš [[objektai/paprociai/Ištikimybė protėvių religijai ir papročiams.md#claim-t-185871|Ištikimybė protėvių religijai ir papročiams]]: Kojelavičiaus pasakojime lietuviai pagonys, ištikimi protėvių religijai ir papročiams, sukūrė Lietuvos valstybę.
 - susijęs iš [[objektai/paprociai/Karinė savanorystė ir žemės pažadas valstybės gynimui.md#claim-t-20810|Karinė savanorystė ir žemės pažadas valstybės gynimui]]: M. Sleževičius pabrėžė, kad bežemiai ir mažažemiai gaus dalijamos lenkų dvarininkų žemės.
 - susijęs iš [[objektai/paprociai/Kariuomenės sutikimas papuoštu vieškeliu.md#claim-t-71809|Kariuomenės sutikimas papuoštu vieškeliu]]: Vietos gyventojai bėgo iš visų pusių pasitikti į miestelį su daina įžygiuojančios lietuvių kariuomenės.
 - susijęs iš [[objektai/paprociai/Karo belaisvių vertimas sunkiais darbais ir pardavimas į vergus.md#claim-t-07778|Karo belaisvių vertimas sunkiais darbais ir pardavimas į vergus]]: Kare paimtus priešus, ypač vokiečius krikščionis, lietuviai versdavo sunkiai dirbti, prirakindavo prie girnų arba laikydavo iki mirties.
@@ -4794,6 +7782,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš [[objektai/paprociai/Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas.md#claim-t-169870|Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas]]: Valdžia siekė kaimo mokykloms išleisti dvikalbius elementorius, kuriuose lietuviški vertimai būtų rašomi kirilika.
 - susijęs iš [[objektai/paprociai/Lotyniško krikšto privalomumas ir mišrių moterystių draudimas.md#claim-t-05354|Lotyniško krikšto privalomumas ir mišrių moterystių draudimas (krikštas)]]: Jogailos įsakymu lietuviams buvo draudžiamos mišrios santuokos su rusais ir nekatalikais, kol antroji pusė priims katalikų tikėjimą.
 - susijęs iš [[objektai/paprociai/Lotyniško krikšto privalomumas ir mišrių moterystių draudimas.md#claim-t-05355|Lotyniško krikšto privalomumas ir mišrių moterystių draudimas (krikštas)]]: Jogaila dokumente įsipareigojo lietuvius priversti paklusti Romos Bažnyčiai, įvedant privalomą lotynišką krikštą ir draudžiant mišrias santuokas.
+- susijęs iš [[objektai/paprociai/Lotynų kalbos vartojimas kaip diplomatinės kalbos.md#claim-t-192105|Lotynų kalbos vartojimas kaip diplomatinės kalbos]]: Narbutas rašo, kad slavai venedai ir lietuviai lotynų kalbą vartojo kaip diplomatinę kalbą.
+- susijęs iš [[objektai/paprociai/Lotynų kalbos vartojimas kaip diplomatinės kalbos.md#claim-t-192511|Lotynų kalbos vartojimas kaip diplomatinės kalbos]]: Narbutas rašo, kad slavai venedai ir lietuviai lotynų kalbą vartojo kaip diplomatinę kalbą.
 - susijęs iš [[objektai/paprociai/Lydimų vertimas miškuose kaip ankstyvos gyvenvietės plėtimo praktika.md#claim-t-87299|Lydimų vertimas miškuose kaip ankstyvos gyvenvietės plėtimo praktika]]: Balińskio aiškinimu, Germantas Šventaragio slėnyje vertė miškus lydimais ir plėtė senovinę Vilniaus gyvenvietę Vilnios pakrantėse.
 - susijęs iš [[objektai/paprociai/Mergaičių, nuotakų, žmonų ir našlių galvos puošyba.md#claim-t-67168|Mergaičių, nuotakų, žmonų ir našlių galvos puošyba]]: Motriškosios ilgai dėvėjo senovinius nuometus ir nenorėjo jų mesti nuo galvos.
 - susijęs iš [[objektai/paprociai/Mirštančiųjų reikalavimų vykdyti laidotuvių apeigas laikymas šventais.md#claim-t-189963|Mirštančiųjų reikalavimų vykdyti laidotuvių apeigas laikymas šventais]]: Narbutas aiškina, kad lietuviai prieš mirtį reikalaudavo laidotuvių apeigų, nes rūpinosi vėlės likimu ir bijojo dievų keršto.
@@ -4866,6 +7856,7 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš [[objektai/posakiai/Kalta istorija.md#claim-t-75602|Kalta istorija]]: Dėl Lietuvos istorijos komplikuotumo Lietuvos istorikai nelaikomi kaltais.
 - susijęs iš [[objektai/posakiai/Kožnas lietuvininkas, prigulintis ing susivienijimą.md#claim-t-02066|Kožnas lietuvininkas, prigulintis ing susivienijimą]]: Susivienijimo įstatai reikalavo, kad kiekvienas narys palaikytų savo naciją, padėtų nelaimės ištiktam broliui ir rodytų gerą pavyzdį.
 - susijęs iš [[objektai/posakiai/Kurcho, optimo maximo.md#claim-t-189563|Kurcho, optimo maximo]]: Narbutas „Kurcho, optimo maximo“ aiškino kaip analogiją romėniškų medalių užrašui „IOVI OPTIMO MAXIMO“.
+- susijęs iš [[objektai/posakiai/Kurcho, optimo maximo.md#claim-t-192112|Kurcho, optimo maximo]]: Teodoras Narbutas užrašą „optimo maximo“ lygino su romėniška formule IOVI OPTIMO MAXIMO ir Jaruvito skydo užrašu.
 - susijęs iš [[objektai/posakiai/Liet’gola Lethi vel Lethigalli.md#claim-t-184359|Liet’gola Lethi vel Lethigalli]]: Nestoro kronikoje tikrieji latviai vadinti „Liet’gola“, o Latvijos Henrikas juos įvardijo kaip „Lethi vel Lethigalli“.
 - susijęs iš [[objektai/posakiai/Liet’gola Lethi vel Lethigalli.md#claim-t-31549|Liet’gola Lethi vel Lethigalli]]: Latvijos Henrikas tikruosius latvius vadino „Lethi vel Lethigalli“ ir aiškino, kad jie tiksliai vadinami Lethigalli.
 - susijęs iš [[objektai/posakiai/Mes kariaujame ne su kryžium, o su vokiečiais!.md#claim-t-67272|Mes kariaujame ne su kryžium, o su vokiečiais!]]: Gediminas pareiškė, kad lietuviai kariauja ne su kryžiumi, o su vokiečiais.
@@ -5034,11 +8025,7 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš Pirmoji Lietuvos Bažnyčiai privilegija (1387 m.): 1387 m. vasario 17 d. Jogaila išleido privilegiją Vilniaus vyskupui, kuria buvo įsteigiama ir aprūpinama vyskupo institucija.
 - susijęs iš Popiežiaus 1230 m. sausio 18 d. bulė: M. Tepenas pažymėjo, kad Dusburgietis rėmėsi popiežiaus 1230 m. sausio 18 d. bule.
 - susijęs iš Prūsijos valdžios gromatos: Lietuviai prūsų kraštą vadino vardais Prūsai, Prūsa, Prūsų žemė ir sulotynintu vardu Prūsija.
-- susijęs iš Prūsijos žemės kronika: Mikalojus iš Jarošino, versdamas Dusburgo kroniką į vokiečių kalbą, pridėjo nemažai savo papildymų ir paaiškinimų.
-- susijęs iš Prūsijos žemės kronika: 1311 m. Vytenis su didele kariuomene degindamas ir plėšdamas nusiaubė Sembą ir Notangą.
-- susijęs iš Prūsijos žemės kronika: Mikalojus iš Jarošino, versdamas Dusburgo kroniką iš lotynų į vokiečių kalbą, pridėjo papildymų ir paaiškinimų nuo savęs.
-- susijęs iš Prūsijos žemės kronika: 1292 m. Pukuveras pasiuntė savo sūnų Vytenį su didele kariuomene į Lenkijos Bresto žemę.
-- susijęs iš Prūsijos žemės kronika: Prūsijos žemės kronikoje minima tik Dobrynės kunigaikštystė, o kitame dokumente nurodoma ir kaimyninė Kulmo žemė.
+- susijęs iš Prūsijos žemės kronika: Narbutas rašė, kad Pretorijus Dusburgiečio kronikos vietoje minimą žynio lazdą vadino krivūle.
 - susijęs iš Prūsų kalba: „Prūsų kalba“ nurodyta kaip MLTE 1968 m. antro tomo 935–936 puslapių publikacija.
 - susijęs iš Pskovskije letopisi: Pskovskije letopisi 1-asis leidimas buvo išleistas Maskvoje-Leningrade 1941 m.
 - susijęs iš Radvilų archyvas Kardinalijoje: Radvilų archyve Kardinalijoje buvo saugomi vertingi istorijos šaltiniai, prie kurių prieigą palengvino Mikalojus Malinovskis.
@@ -5067,7 +8054,6 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš Vilniaus albumas: Motiejaus Valančiaus atvaizdas buvo publikuotas J. K. Vilčinskio „Vilniaus albume“.
 - susijęs iš Vilniaus konferencijos pagrindinė rezoliucija (1917 m.): Vilniaus konferencijoje dominavo kunigai, valstiečiai ir inteligentai: atitinkamai 66, 65 ir 59 dalyviai.
 - susijęs iš Visuotinė žmogaus teisių deklaracija: Disidentinis judėjimas ragino okupacinę valdžią laikytis 1948 m. JT Generalinės Asamblėjos patvirtintos Visuotinės žmogaus teisių deklaracijos, kurios SSRS faktiškai nepaisė.
-- susijęs iš Vulfstano pasakojimas: Vulfstano pasakojime Aismarės vadinamos Estmere.
 - susijęs iš Vytautas D. istorinėje literatūroje ir jo periodo bibliografija: Z. Ivinskio „Vytautas D. istorinėje literatūroje ir jo periodo bibliografija“ paskelbta „Athenaeum“ 1931 m., p. 89-141.
 - susijęs iš Vytautas Didysis ir jo Čekijos politika Venceliui mirus: Penkausko darbas „Vytautas Didysis ir jo Čekijos politika Venceliui mirus“ buvo atspaustas iš 1930 m. „Židinio“.
 - susijęs iš Vytauto Reivyčio slaptas raštas Nr. 3: 1941 m. rugpjūčio 16 d. Vytautas Reivytis slaptu raštu Nr. 3 įsakė sulaikyti visus žydus ir sutelkti juos tam numatytose vietose.
@@ -5117,6 +8103,7 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš Baltijos jūra: Lietuvių tauta, skirstyta į šešias pagrindines atšakas, užėmė Baltijos pakrantę nuo Dvinos iki Vyslos.
 - susijęs iš Baltijos jūra: Versalyje Lietuvos delegacija kėlė Rytų Prūsijos perdavimo Lietuvai ir išėjimo į Baltijos jūrą per Klaipėdą klausimą.
 - susijęs iš Baltijos jūra: Livonijos kariai pasuko prie Baltijos jūros, tikėdamiesi ties Palanga rasti retesnių medžių ir lygesnį kelią.
+- susijęs iš Baltijos jūra: Narbutas perteikia Tunmano nuomonę, kad lietuvių tautos tėvai, atsikėlę prie Baltijos jūros, tuojau užėmė Sembą ir gintaro kasyklas.
 - susijęs iš Barboros rūmai Vilniuje: Balińskio aprašymo metu Barboros rūmus priminė tik neužlygintų tvenkinių žymės ir vieta, kur buvo rūmai, sodai bei tvenkiniai.
 - susijęs iš Barboros rūmai Vilniuje: 1828 m. Barboros rūmų griuvėsiai buvo parduoti plytoms naujai statomam Kosobudžkio namui.
 - susijęs iš Barboros rūmai Vilniuje: Barboros rūmų griuvėsiai stovėjo Vilniuje tarp Katedros ir Šv. Jurgio bažnyčios prie Vilijos.
@@ -5139,6 +8126,7 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš Bulgarija: J. Basanavičius grįžo iš emigracijos Bulgarijoje ir tapo suvažiavimo sumanymo iniciatoriumi.
 - susijęs iš Butrimonys: Iki liepos pabaigos lenkai užgrobė Butrimonis, Merkinę, Daugus, Stakliškes, Aukštadvarį, Vievį, Kernavę, Molėtus, Tauragnus, Dūkštą ir kitas vietoves.
 - susijęs iš Chotinas: 1673 m. turkai prie Chotino įrengė stiprius lauko įtvirtinimus.
+- susijęs iš Danija: Narbutas pasakoja, kad slavai, pasinaudoję Jarmeriko nebuvimu, sunaikino jo paliktas sargybas ir plėšdami įsiveržė į Daniją.
 - susijęs iš Daugai: 1919 m. balandžio 3-8 d. Pietinė lietuvių grupė turėjo užimti Daugus ir Varėną, o tada pro Lentvarį pulti Vilnių.
 - susijęs iš Daugailiai: Karininkas Kazys Ladyga su lietuvių kariais birželio 3 d. užėmė Daugailius ir Tauragnus, o birželio 4 d. Paberžę.
 - susijęs iš Daugava Dvina (sujungti pirminiai pavadinimai Daugava; Dvina): Pasak šaltinio, lietuvių tauta buvo užėmusi Baltijos pakrantę nuo Dvinos iki Vyslos.
@@ -5550,6 +8538,7 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš Semba: Lietuviai įsiveržė į Sembą ir niokojo priešo teritoriją.
 - susijęs iš Semba: Sūduviai, pasitelkę lietuvius, užpuolė Sembos žemę ir dešimt dienų degino sodybas bei kitką už pilių ir įtvirtinimų.
 - susijęs iš Semba: Lietuvių karalius su aštuoniais tūkstančiais raitelių įsibrovė į Sembą ir sudegino pastatus bei pasėlius.
+- susijęs iš Semba: Narbutas, remdamasis Tunmanu, teigė, kad lietuvių protėviai prie Baltijos jūros tuojau užėmė Sembą ir gintaro kasyklas.
 - susijęs iš Severskas: Levas, net nepabandęs kovoti lauke, kuo greičiausiai pabėgo į Severską.
 - susijęs iš Severskas: Gediminas, sulaukęs Belgorodo, Slepovrodžio, Kanevo ir Čerkasų pasidavimo, patraukė į Severską.
 - susijęs iš Seversko žemės: Vilniaus seime lenkų atstovai reikalavo Lenkijai atiduoti Palenkę, Volynę, Kijevo ir Seversko žemes bei sudaryti uniją.
@@ -5646,9 +8635,6 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš Vidiškis: Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraičius, Želvą, Dubingius, Vidiškį.
 - susijęs iš Viduržemio jūra: Seniausiais laikais lietuviai upėmis pasiekdavo Viduržemio pajūrį.
 - susijęs iš Viljandis: 1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Balińskis manė, kad iki Gedimino ant Vilnios srovę supančių kalvų, kur dabar stovi Vilnius, tikėtina, buvo medinė tvirtovė.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Nuo tvirtovės prie Vilnios palei krantą pažemiais trobelės tęsėsi iki Vilijos.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Pasak autoriaus, Gediminas, statydindamas pilį, iškasė Vilnelei kitą vagą.
 - susijęs iš Vilnia: Balińskis manė, kad iki Gedimino ant Vilnios srovę supančių kalvų, kur dabar stovi Vilnius, tikėtina, buvo medinė tvirtovė.
 - susijęs iš Vilnia: Nuo tvirtovės prie Vilnios palei krantą pažemiais trobelės tęsėsi iki Vilijos.
 - susijęs iš Vilnia: Gediminas, statydindamas pilį, iškasė Vilniai naują vagą ir iškastomis žemėmis paaukštino Pilies kalną.
@@ -5697,6 +8683,7 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš Vilnius: Kazimieras patraukė į Vilnių ir netrukus atvyko į miestą, sveikinamas didžiulės minios žmonių.
 - susijęs iš Vilnius: Sugrįžęs iš Maskvos Jesmanas Vilniuje rado karalių ir karalienę.
 - susijęs iš Vilnius: Tą pačią vasarą į Vilnių pas Aleksandrą atvyko jo motina Elžbieta, brolis Fridrichas ir seserys Barbora bei Elžbieta, o metraštis pabrėžia džiaugsmingą jų priėmimą.
+- susijęs iš Vindavos upė: Narbutas Vindavos upės pavadinimą laikė pėdsaku venedų slavų, galėjusių gyventi Baltijos pakrantėje tarp Vyslos ir Dauguvos žiočių.
 - susijęs iš Virinta: Giedraičius gynęs 2-asis pulkas buvo priverstas atsitraukti į ŠešuolėsVirintos upių liniją.
 - susijęs iš Vitebskas: Gediminas prie anksčiau lietuvių užvaldytų žemių pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.
 - susijęs iš Viznos apylinkės: Kai Livonijos magistras buvo prie Vilniaus, lietuviai pietvakariuose atakavo kryžiuočių kontroliuojamas Viznos apylinkes prie Narevo.
@@ -5721,6 +8708,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš Vysla: Kronikos įvade Vyslos žemupys nurodomas kaip viena Kryžiuočių ordino ekspansijos į baltų žemes ploto riba.
 - susijęs iš Vysla: Lietuvių tautos atšakos užėmė Baltijos pakrantę nuo Dvinos iki Vyslos.
 - susijęs iš Vysla: Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
+- susijęs iš Vysla: Narbutas atmetė nuomonę, kad lietuvių tauta IV ar V a. susidarė Vyslos žemupyje kaip daugelio, ypač germanų, tautų lydinys.
+- susijęs iš Vysla: Narbutas laikė neįtikėtina, kad vieninga lietuvių tauta būtų greitai pasklidusi nuo Vyslos iki Dauguvos ir nuo Baltijos iki Neries.
 - susijęs iš Vėluva: Prūsų, sūduvių ir lietuvių kariuomenė aštuonias dienas laikė apsupusi Vėluvos pilį ir kasdien ją puolė.
 - susijęs iš Vėluva: Rugpjūtį lietuviai pasiekė Vėluvos apylinkes, sudegino šešis kaimus ir nužudė Fridrichą fon Quitzą su 36 kariais.
 - susijęs iš Vėluva: 1347 m. spalio pradžioje lietuvių karalius priėjo Vėluvą, o lietuviai tyliai įėję sudegino miestą.
@@ -5774,6 +8763,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš [[objektai/zodynas/Antisemitizmas.md#claim-t-75540|Antisemitizmas]]: Šimtmečius Lietuvoje aršaus antisemitizmo nebuvo dėl abipusės lietuvių valstiečių ir žydų pirklių ekonominės priklausomybės.
 - susijęs iš [[objektai/zodynas/Antisemitizmas.md#claim-t-75541|Antisemitizmas]]: Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes lietuvių valstiečiai ir žydų pirkliai buvo tarpusavyje priklausomi.
 - susijęs iš [[objektai/zodynas/Antisemitizmas.md#claim-t-75542|Antisemitizmas]]: Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos planų, o Paryžiaus taikos konferencijoje žydams žadėjo plačią kultūrinę autonomiją.
+- susijęs iš [[objektai/zodynas/Atlimpas Atrimpas Potrimpos.md#claim-t-192304|Atlimpas Atrimpas Potrimpos]]: Narbutas nurodė: Jucevičius tvirtino, kad spirališkai susivijusio žalčio stabas buvo ne Atrimpo, o Žalčių karaliaus.
+- susijęs iš [[objektai/zodynas/Atlimpas Atrimpas Potrimpos.md#claim-t-192306|Atlimpas Atrimpas Potrimpos]]: Narbutas nurodė: Jucevičiaus nuomone, prie Palangos gyvenantys lietuvių žvejai Atrimpą vadino Dzivsvifs.
 - susijęs iš [[objektai/zodynas/Baudžiava.md#claim-t-108575|Baudžiava]]: 1831 m. sukilimo atsišaukimuose lenkų ir lietuvių kalbomis keltas reikalavimas paleisti valstiečius iš baudžiavos.
 - susijęs iš [[objektai/zodynas/Bodziawolas.md#claim-t-189282|Bodziawolas]]: Narbutas vandens laikrodžius, kuriais lietuviai esą matuodavo valandų trukmę, vadino Bodziawolas.
 - susijęs iš [[objektai/zodynas/Eistr.md#claim-t-32750|Eistr]]: Rytų Pabaltijui vieną kartą buvo pavartotas senasis terminas „Eistr“ „Saga Olafs konungs Tryggvasonar“ tekste.
@@ -5864,7 +8855,6 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš [[objektai/zodynas/chiefdom vadystė.md#claim-t-26668|chiefdom / vadystė]]: Netimero valdžios paveldimumo principas rodytų, kad Lietuva buvo pasiekusi bent vadystės, arba chiefdom'o, stadiją.
 - susijęs iš [[objektai/zodynas/dezertyrai.md#claim-t-183412|dezertyrai]]: Tūkstančiai lietuvių slapstėsi arba bėgo iš sovietų kariuomenės ir buvo oficialiai ieškomi kaip dezertyrai.
 - susijęs iš [[objektai/zodynas/dezertyrai.md#claim-t-22116|dezertyrai]]: Pradėjus mobilizaciją į SSRS kariuomenę, lietuviai dezertyrai vengė tarnybos Raudonojoje armijoje.
-- susijęs iš [[objektai/zodynas/diecezija.md#claim-t-86522|diecezija]]: Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.
 - susijęs iš [[objektai/zodynas/duoklė.md#claim-t-185382|duoklė]]: Erdvilas atsisakė skitams mokėti duoklę, paskelbė karą ir jų kunigaikščiui įteikė dvi strėles.
 - susijęs iš [[objektai/zodynas/dvarionys.md#claim-t-187554|dvarionys]]: Lietuvos metraštyje karaliaus Aleksandro dvarionys lietuviai ir rusai buvo pasiųsti į pagalbą Slucko kunigaikščiui Simonui Mykolaičiui.
 - susijęs iš [[objektai/zodynas/egzekucija.md#claim-t-02984|egzekucija]]: Ginčuose su lenkais lietuviai reikalavo garantijos, kad Lietuvoje nebūtų vykdoma egzekucija.
@@ -6025,6 +9015,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš [[objektai/zodynas/Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija.md#claim-t-86452|Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija]]: Romuvos buvo senovės lietuvių šventvietės šventose giriose, kur garbintas Perkūnas ir gyveno Krivių Krivaitis.
 - susijęs iš [[objektai/zodynas/šturmovcai.md#claim-t-42530|šturmovcai]]: Šturmovcai savo nesėkmę aiškino tuo, kad buvo atvežti tiesiai iš bolševikų fronto ir puolė taip pat kaip bolševikus.
 - susijęs iš [[objektai/zodynas/Žalčių karalius.md#claim-t-189349|Žalčių karalius]]: Narbutas, remdamasis L. A. Jucevičiumi, pasakoja, kad uždegus iš žalčio taukų pagamintą žvakę atvykdavęs žalčių karalius su roplių svita.
+- susijęs iš [[objektai/zodynas/Žalčių karalius.md#claim-t-192308|Žalčių karalius]]: Narbutas perteikia L. A. Jucevičiaus teiginį, kad spirališkai susivijusio žalčio stabas buvo ne Atrimpo, o Žalčių karaliaus.
+- susijęs iš [[objektai/zodynas/Žalčių karalius.md#claim-t-192310|Žalčių karalius]]: Narbutas perteikia L. A. Jucevičiaus teiginį, kad kai kur lietuviai Žalčių karalių laikė tikru aukščiausiojo dievo Ukapirmo broliu.
 - susijęs iš [[objektai/zodynas/Žiuponai.md#claim-t-07692|žiuponai]]: Prašaleičiai lietuvių sau ponus vadino žiuponais, o tokie valdžionai IX amžiuje minimi Žemaičių krašte.
 - susijęs iš [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti.md#claim-t-168144|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija)]]: Centralinis Komitetas per atstovus Skandinavijoje ir Šveicarijoje rūpinosi lietuvių belaisviais Vokietijoje.
 - susijęs iš [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti.md#claim-t-182885|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija)]]: Centralinis Komitetas per atstovus Skandinavijoje ir Šveicarijoje rūpinosi lietuvių belaisviais Vokietijoje.
@@ -6056,12 +9048,19 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš [[objektai/asmenys/Fridrichas Kvicas.md#claim-t-59958|Fridrichas Kvicas]]: 1319 m. Ulrichas iš Drinlevės ir Fridrichas Kvicas persekiojo Dovydo iš Gardino vyrus, nukovė 55 lietuvius ir atsiėmė jų grobį.
 - susijęs iš [[objektai/asmenys/Henrikas fon Plockė.md#claim-t-186043|Henrikas fon Plockė]]: Henrikas fon Plockė vadovavo kryžiuočiams, kurie auštant iš visų pusių apsupo lietuvius.
 - susijęs iš [[objektai/asmenys/Ibrahimas.md#claim-t-186112|Ibrahimas]]: Ibrahimas vadovavo turkams, atėjusiems į pagalbą Krymo skitams jų išpuoliuose prieš lietuvių žemes.
+- susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-193042|Visvaldis]]: Narbutas Visvaldį vadina rusų kunigaikščiu, kurio sostinė buvo Gercikos pilis prie Dauguvos, jo nuomone, dabartinis Daugpilis.
+- susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-193043|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176673|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas su lietuviais ir lenkais užklupo Rittersverderio pilį stačiusį magistrą ir ragino jį pasitraukti iš krašto.
 - susijęs iš [[objektai/asmenys/Žegota.md#claim-t-186271|Žegota]]: Žegota, Krokuvos vaivada, su prityrusių karių pulku ir rūmų raiteliais atlaikė puolančius lietuvius.
+- susijęs iš [[objektai/daiktai/Ietis.md#claim-t-192077|Ietis]]: 1329 m. Jonas Liuksemburgietis ir lietuvių didikas Margalis raiti susirėmė ietimis, o jas sulaužę ėmė kautis kalavijais.
 - susijęs iš [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti.md#claim-t-168139|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija)]]: Komitetas gynė žmones nuo okupacinės valdžios žiaurumų, rekvizicijų ir neteisybių bei atstovavo lietuvių politiniams reikalams.
 - susijęs iš [[objektai/grupes/J. Baranovskio brigada.md#claim-t-40892|J. Baranovskio brigada]]: Lapkričio 17 d. gen. J. Baranovskio brigada atakavo 2-ojo pėstininkų pulko pozicijas ir privertė lietuvius pasitraukti iš Giedraičių.
 - susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-184588|Vokiečiai]]: Livonijos vokiečiai 1225 m. pirmą kartą patyrė stambų pralaimėjimą nuo lietuvių ir žemaičių.
 - susijęs iš [[objektai/ivykiai/Biržų (Medeikių) mūšis (1863 m.).md#claim-t-10204|Biržų (Medeikių) mūšis (1863 m.)]]: Gegužės 7 d. prie Medeikių rusų pėstininkai tris valandas atakavo lietuvių gynybines pozicijas.
+- susijęs iš [[objektai/ivykiai/Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių.md#claim-t-192020|Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių]]: Narbutas radinį prie Kražių apibūdina kaip 1836 m. Žemaitijoje rastą bronzinę karo dievo Kovo statulėlę.
+- susijęs iš [[objektai/ivykiai/Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas.md#claim-t-192042|Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas]]: Narbuto pasakojime Sturlaugas vėliau išleido Ingigerdą už Flamoro ir davė jam Aldejaborgą, kurį vadina Rusios uostu.
+- susijęs iš [[objektai/ivykiai/Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas.md#claim-t-192043|Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas]]: Narbuto datavime Sturlaugo žygis, Ingvaro nužudymas ir Aldejaborgo perdavimas siejami su II a. pabaiga arba III a. pradžia.
+- susijęs iš [[objektai/paprociai/Ištikimybė protėvių religijai ir papročiams.md#claim-t-192085|Ištikimybė protėvių religijai ir papročiams]]: Kojelavičiaus pasakojime ištikimybė protėvių religijai ir papročiams siejama su lietuvių pagonių valstybės kūrimu.
 - susijęs iš [[objektai/paprociai/Užsienio lietuvių kolonijų ryšių su tėvyne palaikymas per spaudą, kunigus, mokytojus ir kongresus.md#claim-t-77962|Užsienio lietuvių kolonijų ryšių su tėvyne palaikymas per spaudą, kunigus, mokytojus ir kongresus]]: Draugija užsienio lietuviams remti buvo sukurta padėti emigrantams ir palaikyti jų ryšius su tėvyne.
 - susijęs iš [[objektai/posakiai/„mūsų žydeliai“.md#claim-t-20920|„mūsų žydeliai“]]: Lietuvoje žydai, lietuvių malonybiškai ir pašaipiai vadinti „mūsų žydeliais“, garsėjo visuotiniu raštingumu ir pomėgiu knygai.
 - susijęs iš Magus: Al-Idrisi tekste ir žemėlapyje minima žemė „Magus“ laikoma lietuvių ir latvių plotais.
@@ -6135,6 +9134,7 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - susijęs iš Vilnius: Kazimieras patraukė į Vilnių ir netrukus atvyko į miestą, sveikinamas didžiulės minios žmonių.
 - susijęs iš [[objektai/grupes/Krymo totoriai.md#claim-t-184487|Krymo totoriai]]: Krymo skitai netikėtai įsiveržė Dyklaukiais, apiplėšė dideles apygardas ir išsivežė grobį, kai lietuviai neturėjo sutelktos kariuomenės.
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -6146,11 +9146,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     tik lietuviams, bet įsigyti dvarų turį būti leidžiama tiek lenkams Lie-
     tuvoje, tiek lietuviams Lenkijoje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -6160,11 +9162,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     netoli Karaliaučiaus, vėl susirinko krūvon. Mūšis pasibaigė di­
     deliu lietuvių pralaimėjimu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-052
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -6175,11 +9179,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     talkininkaudami prūsams, lietuviai drauge su sūduviais vokiečius
     puolė Semboje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-095
+
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -6188,11 +9194,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     ėmė ruošti, kaip niekada iki tol, į _Lenkiją_ intensyvius karo žygius.
     Nepertraukiani lietuvių žygiai Lenkijon nusitęsė iki 1306 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-096
+
 - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -6206,12 +9214,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     ryškiau nuo lietuvių pradėję išsiskirti, Nestoro kronikai buvo žino­
     mi kaip Liet’gola.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-035
     - t-029
+
 - c-006
   santrauka: 'XIII-XIV a. rašytiniai šaltiniai ir karai su ordino riteriais rodo, kad pagonys lietuviai buvo pasiekę palyginti aukštą kultūros lygį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -6227,12 +9237,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     Kijevo rusų karinius konfliktus, jeigu 1040 ir 1044 m. minimi
     Jaroslavo žygiai nereiškia tik vienos karinės ekspedicijos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
     - t-066
+
 - c-007
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -6244,12 +9256,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     esą bėgę («in der flucht geslagin »), apie lietuvius tiek tepasakė,
     kad jie buvę atmušti^26.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-103
     - t-106
+
 - c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -6258,11 +9272,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     sugrįžo į kovos lauką. Nauji Lenkijos pulkai ėmė pulti ilstančią
     kryžiuočių kariuomenę, ir jų eilės nebeatlaikė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-009
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -6271,11 +9287,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     Ordino magistras iš karto manė, kad sąjungininkai, pamatę Or­
     dino galybę, pabėgs.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-114
+
 - c-010
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -6287,11 +9305,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     teisę dalyvauti naujo kun. elekcijoj. Lenkų bajorija turėjo tą
     teisę seniau.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-100
+
 - c-011
   santrauka: 'Stryjkovskis, kildindamas lietuvius iš romėnų, Lietuvos žymių šeimų pradžią vedė iš Romos patricijų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -6302,11 +9322,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     padarė ypač daug papildinėjimų, pvz., surašė genealogiją atskirų
     Lietuvos žymių šeimų, vesdamas jų pradžią iš Romos patricijų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-034
+
 - c-012
   santrauka: 'Prūsų kraštą lietuviai vadino Prūsais, Prūsa, Prūsų žeme ir sulotynintu Prūsijos vardu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -6315,11 +9337,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     (Būga K. 1, p. 554; MPKP, 1, p. 14—15; Prūsijos valdžios gromatos..., Nr. 1 (1589
     m.), 2 (1639 m.), 6 (1722 m.), 25 (1739 m.) ir kt.).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-013
   santrauka: 'Lietuviai iš Aukaimio pilies apylinkių su 36 vyrais ketino plėšikiškais išpuoliais trikdyti Ragainės brolių ramybę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -6331,11 +9355,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     plėšikiškais išpuoliais Ragainės broliams ramybę. Artėdami jie metė — kaip reikalauja
     jų papročiai — burtus, kurie jiems nežadėjo sėkmės. Dėl to tučtuojau pasuko atgal.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-069
+
 - c-014
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -6348,12 +9374,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     tiška ūkininkavimo ir nuosavybės forma – alodas (individualus valstiečių
     ūkis).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-105
     - t-017
+
 - c-015
   santrauka: 'Lietuviai unijos projekte ir vėlesniuose ginčuose su lenkais reikalavo karaliaus garantijos, kad Lietuvoje nebus vykdoma egzekucija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -6366,11 +9394,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     sianti vykdoma vadinamoji egzekucija.
     Lenkai šitokiu lietuvių siūlomu projektu pasipiktino.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-040
+
 - c-016
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -6382,12 +9412,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     trėjimas iškilo tuomet, kai ėmė didėti Vytauto galybė ir sava­
     rankiškumas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-077
     - t-048
+
 - c-017
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -6398,11 +9430,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     kai savarankišką^1 ), o lenkai, remdamiesi Krėvės unijos aktu,
     laikė Lietuvą savo provincija.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-108
+
 - c-018
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -6422,11 +9456,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     iki pat Baltijos jūros siekianti, kaip lietuvių genties centras,
     išsaugojo gryniausius savo padermės bruožus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-064
+
 - c-019
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -6441,11 +9477,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     jau tokios pačios kultūrinės galimybės ir švietimo sąlygos, kokias Rusijos
     imperijoje turi latviai ir estai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-113
+
 - c-020
   santrauka: 'Kronikoje vaizduojamu laikotarpiu prūsus, lietuvius ir latvius siejo kalbos, kultūros, tradicijų ir senosios religijos bendrumas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -6465,11 +9503,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
       Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
     atskirų žemių.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-081
+
 - c-021
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -6482,12 +9522,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     Miesto, kurio istorijos įvykius keliame iš užmaršties, li­
     kimas glaudžiai susijęs su viso krašto likimu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-071
     - t-043
+
 - c-022
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -6498,12 +9540,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     čiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais,
     kurie tapo artimosios sargybos tautomis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
     - t-023
+
 - c-023
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -6514,11 +9558,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     lenkų. Taip pat, nepaisydami unijos akto nuostatų, jie dar ilgai
     šaukdavo ir savo atskirus seimus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-024
   santrauka: 'Lietuvių kariuomenei grįžtant, burtus metęs lietuvis perspėjo apie nesėkmę prieš brolių pasalą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -6533,11 +9579,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     ne kurie dykroje iš sielvarto pasikorė, o kiti ten išmirė, negaudami nei atsigerti, nei
     pavalgyti, tik vienas kitas išsigelbėjo nuo žūties.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-060
+
 - c-025
   santrauka: 'Po mūšio tarp Verkių ir Šeškinės dalis lietuvių pajėgų užsidarė Vilniaus tvirtovių mūruose ir aptvaruose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -6552,11 +9600,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     ir dalis lietuvių pajėgų užsidarė tarp tuometinių Vilniaus
     tvirtovių mūrų bei aptvarų27.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-091
+
 - c-026
   santrauka: '1298 m. rugsėjo 29 d. 140 Lietuvos vyrų netikėtai užpuolė Straisbergą, išžudė gyventojus ir paėmė į nelaisvę moteris bei vaikus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -6571,11 +9621,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     krašto komtūras, o pasivijęs išvadavo į nelaisvę paimtus krikščionis, o juos visus išžudė,
     palikdamas vienui vieną gyvą, kad tas galėtų palikuonims papasakoti apie šį įvykį.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-109
+
 - c-027
   santrauka: '1897 m. surašymo duomenimis, dabartinės Lietuvos ribose be Klaipėdos krašto gyveno apie 2,7 mln. žmonių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -6587,11 +9639,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     ventojų), 13 proc. – žydai, 10 proc. – lenkai, 15 proc. – baltarusiai, rusai ir
     ukrainiečiai kartu sudėjus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-028
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -6606,12 +9660,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     shin aiškina: dry vlihuyser, taip pat
     Łuk.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-031
     - t-082
+
 - c-029
   santrauka: '1303 m. 50 plėšikautojų iš Lietuvos įsibrovė į Lubavos žemę, apiplėšė daug kaimų ir paėmė į nelaisvę ar nukovė daug krikščionių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -6625,11 +9681,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     pasiskirstė dviem būriais, vieną pasivijo Kristburgo broliai, nukovė 15 lietuvių ir atėmė
     iš jų 50 krikščionių.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-070
+
 - c-030
   santrauka: '1299 m. šeši šimtai Lietuvos vyrų įsibrovė į Notangą, nusiaubė didžiąją jos dalį ir nužudė arba paėmė į nelaisvę 250 krikščionių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -6645,11 +9703,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     dieną netikėlių kariuomenė įsibrovė į Notangą, nusiaubė jos didžiąją dalį, degindama ir
     plėšdama, ir nužudė bei paėmė į nelaisvę 250 krikščionių.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-042
+
 - c-031
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -6662,11 +9722,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     12
     R a y n a 1  d u s Annal.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-085
+
 - c-032
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -6693,11 +9755,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     Vyslos žiočių iki pat Suomijos įlan­
     kos ir buvo jų vadinamas A ust u rweg.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-051
+
 - c-033
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -6708,11 +9772,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     dinius miesto namus mestas deglas sukėlė didžiulį gaisrą,
     per kurį didelę Vilniaus dalį pasiglemžė ugnis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-072
+
 - c-034
   santrauka: 'Sūduviai, siekdami atkeršyti už priespaudą, pasitelkė lietuvius ir smarkiai užpuolė Sembos žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -6727,11 +9793,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     tik dešimt dienų žygiuoti nuo vienos šios žemės ribos iki kitos ir deginti sodybas bei visa
     kita, kas buvo už pilių ir įtvirtinimų [sienų]; jie sugrįžo namo, netekę tik 5 savo karių.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-083
+
 - c-035
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -6744,11 +9812,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     šiaurės ir kryžiuočiai iš žiemos vakarų pusės, tuo laiku ypač
     smarkiai puldavo Lietuvą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-052
+
 - c-036
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -6759,12 +9829,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     kariuomenė buvo internacionalinė. Pačių Lietuvos ir Rusijos
     kunigaikščių joje buvo per penkiasdešimt.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-088
     - t-049
+
 - c-037
   santrauka: 'Lietuvių lyderių prisitaikymas prie Vokietijos interesų provokavo konfliktus su lenkais ir tarp pačių lietuvių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -6779,11 +9851,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     šalies nepriklausomybę, karinė vokiečių valdžia neleido daug spekuliuoti
     šia tema.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-068
+
 - c-038
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -6800,11 +9874,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     Karūnos ir LDK terminų, Abiejų Tautų Respublikos sąvoka atsiranda
     komisijų įvardijimuose, atskirai vyksta kodifikacijos darbai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-044
+
 - c-039
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -6817,12 +9893,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     tat nenuostabu, kad tada pasklido gandai, esą Vytautas rengia­
     si į karą prieš lenkus ar prieš totorius.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
     - t-008
+
 - c-040
   santrauka: 'Prūsų, sūduvių ir lietuvių kariuomenė įsiveržė į Sembą ir aštuonias dienas laikė apsupusi Vėluvos pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -6836,11 +9914,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     ragino apsuptuosius gintis ir drauge su jais daug kartų gesino degalus, [pakišamus]
     piliai padegti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-038
+    - t-223
+
 - c-041
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -6857,12 +9938,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     smogė tikėjimo priešams tokį smūgį, kad iš aštuonių šimtų vyrų vos dešimčiai pavyko
     pasprukti.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-024
     - t-007
+
 - c-042
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -6879,12 +9962,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     nas dalykas, jog Gediminas nuo to laiko su arkivyskupu bu­
     vo susimokęs ir veikė jo patarimų ir planų paisydamas1 5 .
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-061
     - t-010
+
 - c-043
   santrauka: 'Magistrui Meinhardui niokojant Gaižuvos ir Paštuvos valsčius, grįžtančią jo kariuomenę kelis kartus užpuolė lietuviai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -6918,11 +10003,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     Jazbutas, suvokdamas, jog artėja neišvengiama mirtis, kirto, negalėdamas atsisukti,
     kalaviju atgalia ranka, broliui Henrikui nunešdamas pirštą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-079
+
 - c-044
   santrauka: 'Įvairiakilmė LDK ponija formavo bendros savimonės „lietuvių nacijos“ ponų sluoksnį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -6936,11 +10023,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     Ostrogiškio, 1514 m. rugsėjo 8 d. sutriuškina Maskvos kariuomenę
     prie Oršos
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-054
+
 - c-045
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -6951,11 +10040,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama
     kariuomenė buvo internacionalinė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-046
   santrauka: 'Laisvoje Lietuvoje augusi jaunoji karta šalies suverenumą laikė didžiausiu prioritetu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -6970,11 +10061,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     kai gyvai reagavo į grėsmes iš užsienio, reikšdami aiškų ryžtą ginti tėvy-
     nę, jeigu to prireiktų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
+
 - c-047
   santrauka: 'Skomantas su 4 tūkstančiais sūduvių ir stipria lietuvių kariuomene spalio 21 d. įsiveržė į Kulmo žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -6989,11 +10082,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     jeigu galop nebūtų susitarę su pilėnais, kad šie jiems duosią du patyrusius vyrus, kurie
     netikėlių kariuomenę nuvesią į krikščionių žemes ir iš jų parvesią, šitaip jie išvengė žūties.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-087
+
 - c-048
   santrauka: 'Per Velykas lietuviai Junigedos valsčiuje pastatė pilį ir pavadino ją Junigedos vardu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -7014,11 +10109,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 
     pavadino tuo pačiu vardu.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-084
+
 - c-049
   santrauka: 'Tik penktą dieną iš lietuvių, pabėgusių iš Aukštutinės pilies, sužinota, kad kunigaikštis Karigaila žuvo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -7071,11 +10168,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     jo jie visa širdimi linko, nes jis buvo Birutės, jų žemietės, sū­
     nus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-115
+
 - c-050
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -7087,12 +10186,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     tuo, kad lietuviai taip greitai sugrįžo, o iš kitos pusės, kad sugrį­
     žo kaip tik laiku.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
     - t-050
+
 - c-051
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7106,12 +10207,15 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     nuostolių, nes daug brolių bei kitų krikščionių buvo sunkiai sužeista anksčiau, nei jiems
     pavyko garbingai išvengti kovos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-073
     - t-041
+    - t-226
+
 - c-052
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -7121,11 +10225,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     ir savaranniškomis tapusias smulkias Lietuvos, ypač Aukštaitijos,
     kunigaikštijas jis apjungė vienoje valdžioje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-055
+
 - c-053
   santrauka: 'Pasak Petro Dusburgiečio, lietuviai ir kiti tose žemėse gyvenę žmonės aukas degino vietose, kurias laikė šventomis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -7142,11 +10248,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     prieš degindami arklius, taip juos nuvaro nuo kojų bevaikydami, kad šie vos begali
     pastovėti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-054
   santrauka: 'Lietuviai vengė federacijos su Lenkija, bet sutiko derėtis, jei Varšuva pripažins Lietuvą su sostine Vilniumi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -7160,11 +10268,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     146
     Per tris savaites P.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-046
+
 - c-055
   santrauka: 'Lietuviai iš Aukaimio pilies apylinkių su 36 vyrais ketino plėšikiškais išpuoliais trikdyti Ragainės brolių ramybę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -7179,11 +10289,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     užpakalio348, beveik visi abiejų žemių žmonės pasitraukė, palikdami čia brolius ir jiems
     ištikimus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-069
+
 - c-056
   santrauka: 'Lietuviai ir lenkai, norėdami nukreipti nuo savęs dėmesį, įsakė savo kariuomenių būriams rengti puolimus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -7196,12 +10308,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     klausti Jogailos, kur ir kada būtų galima pradėti taikos dery­
     bas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-047
     - t-102
+
 - c-057
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -7212,12 +10326,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     bę svetimą kraštą, „nespausdavo“, t. y. iš pradžių nekeisdavo susiklosčiu-
     sios tvarkos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-116
     - t-045
+
 - c-058
   santrauka: 'Gediminas laiške popiežiui Jonui prisistatė lietuvių ir daugelio rusų karaliumi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -7234,11 +10350,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     aukščiausiajam kunigui, Gediminas, lietuvių ir daugelio rusų
     ir 1.1, karalius.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-104
+
 - c-059
   santrauka: 'Konferencijos rezoliucijoje lietuviai numatė nepriklausomą demokratišką valstybę etnografinėmis ribomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -7257,11 +10375,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     tiek į rytus /Rusiją/ ir ne tiek į pietus /Lenkiją/, kiek į vakarus /Vokieti-
     ją/“.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-060
   santrauka: 'Mokslininkai, Lietuvos vardą kildindami iš etnonimo „lietuvis“, tyrė vietovardžius su šaknimis „leit-“ ir „liet-“ už Lietuvos ribų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -7275,11 +10395,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     Lietuvos. Šie žmonės aplinkinių buvo vadinami „leičiais“ (latviai iki šiol
     vadina lietuvius „leišiais“), o gal ir „liečiais“.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-080
+
 - c-061
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -7289,12 +10411,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     pradėjo rinktis gegužės mėn. pabaigoj ar birželio mėn.
     pradžioj; rinkosi, tur būt, Trakuose ar Gardine.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
     - t-112
+
 - c-062
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -7305,6 +10429,7 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     riams daryti puolimus. Tuo metu ir įvyko lietuvių puolimas iš
     Žemaičių, o lenkų — netoli Sviečės.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -7312,6 +10437,7 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     - t-052
     - t-108
     - t-010
+
 - c-063
   santrauka: 'Per pagrindinį puolimą lietuvių gynyba iš pradžių buvo narsi, bet Žemutinėje pilyje prasiveržė liepsna.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -7325,11 +10451,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     rus, užkardas. Ar išdaviko, ar priešo sumaniai padegta ugnis
     staiga apėmė Krautuvių pilį ir likusią Kreivosios dalį.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-025
+
 - c-064
   santrauka: 'Pasak Petro Dusburgiečio, Romuva buvo prūsų, lietuvių ir kitų baltų religinio kulto centras.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -7337,11 +10465,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     204 Romovė resp. Romuva (D. Romow, Jer.— Rômowe), Romava, pasak Dusburgiečio,—
     prūsų, lietuvių ir kitų baltų religinio kulto centras.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-092
+
 - c-065
   santrauka: 'Konradas Kuršių nerijoje pastatydino Noihauzo pilį, kad lietuviai negalėtų netikėtai veržtis į Sembos žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -7359,12 +10489,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 
     217 (212).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-099
     - t-007
+
 - c-066
   santrauka: '1315 m. apie Žolinę lietuviai iš Žemaitijos su visa kariuomene slaptai ir netikėtai užpuolė Ragainės pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -7379,11 +10511,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     pasitraukė, ištrypę ir sunaikinę abiejų pilių, būtent: Skalvių ir Ragainės, laukuose visus
     pasėlius.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-073
+
 - c-067
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7403,12 +10537,15 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 
                 319 (312).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-086
     - t-119
+    - t-227
+
 - c-068
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -7429,12 +10566,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     mi plačias jos sritis, degindami gyvenamas vietas ir žmones iš­
     sivesdami nelaisvėn.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-097
     - t-033
+
 - c-069
   santrauka: 'Mindaugo sukurta valstybė sudarė sąlygas lietuvių tautai išlikti ir vėliau perimti Vakarų civilizaciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -7447,11 +10586,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     žiaus žygis vyko valdant Mindaugui, o paskutinis – aštuntasis neilgai
     trukus po jo mirties).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-027
+
 - c-070
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -7461,12 +10602,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     vių ir rusų bajorai paskelbė Vytautą Lietuvos ir Rusijos kara­
     liumi.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-065
     - t-039
+
 - c-071
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7478,12 +10621,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     su netikėliais, tačiau slapta gerbė brolius. Jis įspėjo juos anksčiau, nei pats patraukė
     su kariuomene į žygį.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
     - t-058
+
 - c-072
   santrauka: '1300 m. šeši tūkstančiai lietuvių apiplėšė Dobrynės kunigaikštystę, žudydami, imdami belaisvius ir degindami turtą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -7496,11 +10641,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     kitą turtą,  kurį lenkai, prisibijodami anksčiau minėtojo karaliaus, buvo sugabenę į šią
     kunigaikštystę.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-037
+
 - c-073
   santrauka: 'Lietuvių ir vakarinių baltų bendradarbiavimas ypač išryškėjo prasidėjus kovai prieš pavyslyje įsikūrusį Kryžiuočių ordiną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -7512,11 +10659,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     Kulmo žemę ir sutriuškino priešą Renzeno mūšyje. Kryžiuočiai patyrė pirmą nuo pat
     atsikraustymo  į pavyslį tokio masto pralaimėjimą28.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-063
+
 - c-074
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7534,12 +10683,15 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 
                       238 (231).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-107
     - t-117
+    - t-225
+
 - c-075
   santrauka: 'Leidinyje atrinkti mūšiai, kuriuose lietuviai kovojo dėl Lietuvos valstybės interesų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -7554,11 +10706,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     ir jungtinėse kariuomenėse nesudarė ženklios dalies ar neatliko gretas naujais jaunais istorikais.
     ryškesnio vaidmens.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-021
+
 - c-076
   santrauka: 'Anglų riteriai kryžiaus žygiuose kartu su kryžiuočiais kovojo prieš pagonis lietuvius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -7580,11 +10734,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     vietos žmonių, atiteko sūnui vienos karo belaisvės, lietuvių
     paimtos Prūsijoje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-098
+
 - c-077
   santrauka: '1314 m. prie Sizditės pilies Medininkų valsčiuje lietuviai neteko Masiaus brolio ir dar 18 vyrų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -7600,12 +10756,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     ir Mindotės. Ne kažką laimėję, puldami pilį, jie vėliau patraukė į jos apylinkes ir dar kartą
     jas nusiaubė, degindami ir piešdami.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-062
     - t-058
+
 - c-078
   santrauka: '1897 m. surašymas parodė, kad skaityti mokėjo 48 proc. etninių lietuvių, o rusiškai skaitė tik kas penktas iš jų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -7624,11 +10782,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     nijoje (skaičiuojant visus gyventojus) moterų raštingumas buvo didesnis
     nei vyrų: atitinkamai 55 proc. ir 52 proc.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-078
+
 - c-079
   santrauka: 'Per nepilnus du nepriklausomybės dešimtmečius Lietuva tapo aiškiai lietuviška ir nebesutapatinama su Lenkija ar Rusija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -7642,11 +10802,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     išsilavinusių gabių žmonių karta, gebėjusi atsiverti pasaulio sukurtoms
     vertybėms, interpretuoti jas lietuviškoje dirvoje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-030
+
 - c-080
   santrauka: 'Lietuviai, rusai, maskvėnai ir totoriai, įsigiję dominijos nuosavybę, turėjo prisiimti ankstesnių savininkų prievoles.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -7676,11 +10838,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     possessionibus acquisitis vėl acquirendis, quae sustinuerunt
     ii, a quibus eas acquisiverunt, aut acquisituri sunt.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-081
   santrauka: 'Po brolių smūgio 30 išsigelbėjusių lietuvių pranešė savo kariuomenei apie pralaimėjimą, ir ši paniškai pabėgo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -7698,11 +10862,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     kad, kitų nelaukdami, pabėgo kur akys veda, kur kojos neša ir prarado galybę žmonių
     bei arklių, kurių daug prigėrė Narevo upėje dėl baisios kamšaties.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-059
+
 - c-082
   santrauka: 'Lietuviai, valdant energingam Lietuvos valdovui, vėl stipriai puolė Livonijos kryžiuočius ir rengė žygius į Lenkiją.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -7713,11 +10879,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     ranką. Lietuviai vėl stipriai pradėjo pulti Livonijos kryžiuočius ir
     ėmė ruošti, kaip niekada iki tol, į _Lenkiją_ intensyvius karo žygius.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-090
+
 - c-083
   santrauka: '1316 m. Medininkų valsčiuje Ragainės broliai, persekiojami 200 lietuvių, sudegino du kaimus ir paėmė į nelaisvę moteris bei vaikus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -7736,12 +10904,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 
      331 (324).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-074
     - t-058
+
 - c-084
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -7754,11 +10924,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     atsirasti nuo etnonimo (susijusio su specifinėmis karinėmis funkcijomis)
     „liečiai“ ar „leičiai“.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-067
+
 - c-085
   santrauka: '1316 m. prie Bisenės pilies Ordino broliai nukovė šešis lietuvių pamaininės saugos vyrus, turėjusius trauktis iš pilies.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -7773,11 +10945,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     broliai su savo ginklanešiais įėjo į visiškai tuščią pilį ir ją iki pamatų sudegino, ir šitaip
     pilis paliko apleista po šiai dienai.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-056
+
 - c-086
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -7792,12 +10966,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     ka amžių. Kalbininkai yra nustatę, kad lietuvių kalba atsiskyrė nuo latvių
     apie VII a.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-093
     - t-110
+
 - c-087
   santrauka: '1320 m. liepos 27 d. Medininkų žemėje lietuviai sutriuškino į Žemaitiją įsiveržusius kryžiuočius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -7814,11 +10990,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     patraukė  į Dobrynės kunigaikštystę, gindama Mazoviją, kurią norėta  išlaikyti savo
     pusėje56.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-088
   santrauka: 'Ordino broliai nužudė 17 Lietuvos karalystės galingesniųjų ir daugybę paprastų žmonių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -7834,11 +11012,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 
                      292 (285).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-026
+
 - c-089
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -7871,12 +11051,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     rio miestams, ir kaip tik šis dokumentas yra Kryžiuočių archy­
     ve, ir tik iš jo su tais laiškais galima susipažinti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-101
     - t-002
+
 - c-090
   santrauka: 'Pasak Petro Dusburgiečio, lietuviai ir kiti tose žemėse gyvenę žmonės aukas degino vietose, kurias laikė šventomis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -7889,11 +11071,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     pastovėti. Prūsai retai kada imasi kokio svarbesnio darbo netraukę, kaip reikalauja jų
     papročiai, burtų ir šitaip nepasiteiravę savo dievų, ar gerai, ar blogai tas darbas pavyksiąs.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-091
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -7904,11 +11088,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     savo nuožiūra vis taisydamas, ar papildinėdamas Lietuvos Metraš­
     čio žinias.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-092
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7923,12 +11109,15 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     vienam prižiūrėtojui, įkopusiam pataisyti apgulos mašinos viršūnės gedimo, ir prismeigė
     jam ranką prie mašinos; visa tai pamatę, netikėliai pabūgo ir nutraukė apgultį.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-073
     - t-094
+    - t-224
+
 - c-093
   santrauka: '1302 m. iš Lietuvos atvykę plėšikautojai užpuolė 5 Lubavos žemės kaimus ir nužudė arba išsivarė į nelaisvę beveik 200 krikščionių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -7939,11 +11128,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     nužudė ar išsivarė į nelaisvę beveik 200 krikščionių. Kristburgo broliai pasileido pavymui
     ir, priėję dykras, iš pėdsakų suprato, jog šie toliau traukia pasiskirstę į du būrius.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-028
+
 - c-094
   santrauka: 'Palei Vilnios upę gyvenę senbuviai lietuviai sudarė būsimo Vilniaus miesto užuomazgą dar iki Gedimino.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -7956,11 +11147,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     svitai priklausę žmonės - tokia tad būsimo miesto užuomaz­
     ga dar iki Gedimino.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-076
+
 - c-095
   santrauka: 'Lietuviai kaip tauta, anot šaltinio, Europoje Lietuvos vardu tapo žinomi tik X amžiuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -7984,11 +11177,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     iki Vyslos, o į žemyno gilumą buvo pasistūmėjusi tiesiog iki
     Nemuno ir Būgo žiočių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-057
+
 - c-096
   santrauka: 'Oberosto režimo metu lietuviai įsteigė apie tūkstantį mokyklų ir mokytojų kursų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -8004,11 +11199,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     „Dabartis“. Tokią politiką kritikuojančius atsišaukimų autorius vokiečiai
     areštuodavo, mokytojus deportuodavo, dėl to lietuviai skundėsi Berlynui.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-111
+
 - c-097
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -8020,11 +11217,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     pažinti savo priklausomybę, ir tai tada, kai prieš Lietuvos galy­
     bę drebėjo visos aplinkinės tautos, viso to buvo perdaug!
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-052
+
 - c-098
   santrauka: 'Mūšyje lietuviai puolė iš priekio, o kuršiai iš užpakalio, todėl beveik visi Prūsijos ir Livonijos žmonės pasitraukė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -8042,11 +11241,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     užuot gėrę saldų medaus vyną, arba midų, kurio ne kartą esate gavę iš brolių rankų,
     gerkite šiandien žiaurios mirties kartėlį, išpažindami tikrąjį amžinosios trejybės tikėjimą”.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-032
+
 - c-099
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -8061,11 +11262,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     tuvis yra ne tas, kuris kalba lietuviškai, o tas, kuris gina laisvę ir vadovau-
     jasi Lietuvos Statutais.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-089
+
 - c-100
   santrauka: '1283 m. žiemą 800 raitelių iš Lietuvos per Kuršių neriją įsibrovė į Sembą ir nusiaubė Abendos bei Pabečių valsčius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -8081,11 +11284,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     namo. Kaip tik kitą dieną lietuviai įsibrovė į Sembą ir, niekieno netrukdomi, padarė tai,
     apie ką jau aukščiau papasakota.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-075
+
 - c-101
   santrauka: 'Plėšikaujančios lietuvių gaujos niokojo krikščionių žemes, kai Prūsijoje pasklido gandas apie Gedimino norą krikštytis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -8114,11 +11319,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     mas apie savo norą priimti krikštą ir prisijungti prie tikinčių­
     jų. Netrukus su tais laiškais ir Prūsijoje buvo susipažinta.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-036
+
 - c-102
   santrauka: 'Pasak Petro Dusburgiečio, lietuviai ir kiti tose žemėse gyvenę žmonės aukas degino vietose, kurias laikė šventomis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -8130,11 +11337,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     iš kunigaikščių, kilmingųjų207 bei prastuomenės208. Be to, jie garbino, kaip buvo įprasta
     senovėje, negęstančiąją ugnį.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-103
   santrauka: '1314 m. lietuviai naktį įsibrovė į maršalo Henriko palapines Medininkų valsčiuje, nužudė 4 vyrus ir išsivarė du arklius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -8147,11 +11356,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     karšto tikėjimo ir tvirtai pasikliaudami viešpačiu, jie iki galo padarė visa, ko buvo ėmęsi
     mūsų dievo Jėzaus Kristaus garbei.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-058
+
 - c-104
   santrauka: 'Kronikoje vaizduojamu laikotarpiu lietuviai, prūsai ir latviai laikomi baltais, siejamais kalbos, kultūros, tradicijų, senosios religijos ir teritorijos bendrumo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -8167,11 +11378,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
     Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-053
+
 - c-105
   santrauka: 'Dusburgietis teigia, kad tačiau Lietuvos karalius, išgirdęs, jog sunaikintas šios pilies papilys, nusiuntė pilies ginti daugybę rinktinių bei įgudusių karių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -8186,6 +11399,7 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     rinktinių bei įgudusių karių. Dėl to, broliams pradėjus pulti pilį, pilėnai, savo ruožtu
     narsiai priešindamiesi, išėjo iš pilies ir pradėjo kautynes, kurios ilgokai užtruko.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -8193,6 +11407,7 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     - t-118
     - t-073
     - t-003
+
 - c-106
   santrauka: 'Žygiuojant Gilgenburgo link, lietuviai žygiavo pirmieji.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -8201,11 +11416,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     Pirmutiniai žygiavo lietuviai. Kai visa kariuomenė apsistojo
     netoli Gilgenburgo, lietuviai užpuolė tą miestelį ir jį paėmė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-120
+
 - c-107
   santrauka: 'Lietuviai išvijo priešus iš stovyklos, o daug bėgančiųjų žuvo nuo kalavijų arba prigėrė Dnepro ir Pripetės duburiuose.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -8230,11 +11447,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     valdovui ne tik didesnę pagarbą bei palankumą, bet
     ir pastovesnę ištikimybę.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-121
+
 - c-108
   santrauka: 'Kernavės susirinkime visi lietuviai rėmė Vaišvilką.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -8258,11 +11477,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     ten susirinko galybė diduomenės. Visi lietuviai rėmė
     Vaišvilką.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-122
+
 - c-109
   santrauka: 'Lietuviams sulaužius sutartį, jiems priklausanti Poleksija buvo nusiaubta Mazovijos ir Kujavijos karių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -8289,11 +11510,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     jėgas ir neleis priešui kokiu nors būdu pasinaudoti sve­
     tima pagalba.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-123
+
 - c-110
   santrauka: 'Livonijos metraščio teigimu, žemaičiai ir lietuviai prie Eželio ant ledo kovėsi su Livonijos magistru Otonu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -8309,11 +11532,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     Vestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas
     ir žuvo.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-124
+
 - c-111
   santrauka: 'Konrado pakviesti lietuviai atėmė Gostininą iš Kujavijos kunigaikščio Vladislovo ir apiplėštą pilį atidavė Konradui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -8326,11 +11551,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     išžudę dalį įgulos, o dalį su kitu grobiu išsivarę į ne­
     laisvę, atidavė apiplėštą pilį Konradui.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-125
+
 - c-112
   santrauka: 'Lietuviai, kaip sąjungininkai žygiuodami per Mazoviją į Gostininą, ėmė grobstyti atsigavusio krašto turtus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -8355,11 +11582,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     visa kita, ko negalėjo išsigabenti iš krašto kaip gro­
     bio, sunaikino ugnimi ir kalaviju.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-126
+
 - c-113
   santrauka: 'Lietuviai atrėmė priešo puolimą, persekiojo kryžiuočius ir privertė juos bėgti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -8375,11 +11604,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     tūkstančiai krito, žuvo mūšyje pats magistras su be­
     veik 20 ordino riterių.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-127
+
 - c-114
   santrauka: 'Lietuviai krikščionių šventyklose išniekino šventuosius indus, o grįžtančius juos išžudė Kulmo komtūras Konradas Žakas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -8406,11 +11637,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     menę stipriu Ragainės būriu, nugabeno ją laivais į
     krašto gilumą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-128
+
 - c-115
   santrauka: 'Gediminas su kitais kariais atskubėjo padėti pradėjusiam krikti lietuvių raitelių pulkui ir vėliau įsakė jam pulti rusų sparną.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -8431,11 +11664,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     tie, kurie ką tik jau traukėsi, pirmieji ėmė veržtis į
     pergalę.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-129
+
 - c-116
   santrauka: 'Kijevo monarchijai baigiantis, Kijevas atsidūrė Lietuvos kunigaikščio valdžioje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -8455,11 +11690,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     paversti savo -valdiniais; mat rusai vėliau kovose įro­
     dė, jog atsisakė paklusti lenkams.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-130
+
 - c-117
   santrauka: 'Lietuviai reikalavo perrašyti Jogailos sudarytą unijos sutartį ir pašalinti Lietuvos Didžiosios Kunigaikštystės orumą žeminančius straipsnius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -8487,11 +11724,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     kartų patvirtintų abiejų tautų didikų bei valdovų prie­
     saikomis, antspaudais bei parašais.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-131
+
 - c-118
   santrauka: 'Kivirčuose su lenkais dėl Rusios lietuviai ginklu gynė savo teises į Rusią.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -8505,11 +11744,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     pažadų, antra vertus, jų reikalas neleisti, kad valstybė
     dėl anų susitarimų patirtų kokių nuostolių.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-132
+
 - c-119
   santrauka: 'Lenkai atsakė, kad neatsisakys atsilyginti lietuvių luomams.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -8523,11 +11764,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     asmeniškai aptramdyti priešingų grupuočių įniršį, ne­
     paisant to, seimo posėdžiuose užvirė atkakli kova.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-133
+
 - c-120
   santrauka: 'Aleksandras ir Šich Achmetas suteikė karo žygiais išgarsėjusiems lietuviams, lenkams ir skitams bajoriškųjų lengvatų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -8550,11 +11793,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     reikalą, karalius pareikalavo šaukti bendrą abiejų tau­
     tų seimą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-134
+
 - c-121
   santrauka: 'Lietuvių kariuomenė mūšio pradžioje pirmiausia susikovė su vokiečiais, o abiejose pusėse krito daug karių.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -8571,11 +11816,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     menių, ir didžiulė daugybė krito karių iš abiejų pu­
     sių — lietuvių bei vokiečių kariuomenių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-135
+
 - c-122
   santrauka: 'Žygimantas iš Vilniaus atžygiavo su septynių tūkstančių lietuvių pajėgomis prieš gruodžio 8 d. prasidėjusį mūšį.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -8588,11 +11835,13 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     čiais l0 . Ir prasidėjo mūšis pirmadienį, gruodžio mėne­
     sio 8 dieną.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-136
+
 - c-123
   santrauka: 'Narbutas apgailestavo, kad per 400 metų Lietuvos praeitimi esą rūpinosi tik Kojalavičius, Mykolas Lietuvis ir jis pats.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -8605,11 +11854,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     kolą Lietuvį ir Teodorą Narbutą, nepasirūpino krašto praeiti­
     mi. Iki šiolei apie Abisiniją, arabus, mongolus ir samojedus
     daugiau darbų parašyta nei apie Lietuvą.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-137
+
 - c-124
   santrauka: 'Narbutas lietuvių mitologiją laikė iš graikų kilusia sistema, kurią esą sukūrė aukštesnį civilizacijos laipsnį pasiekę žmonės.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -8623,11 +11875,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     nebeturi tos laukinės ir barbariškos fantazijos, su kuria pa­
     prastai susiduriama kitose šiaurės tautose, tad ją turėjo išru­
     tulioti žmonės, užkopę ant aukštesnio civilizacijos laipto.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-138
+
 - c-125
   santrauka: 'Narbutas manė, kad lietuviai į daugiadievystę ėjo tuo pačiu keliu kaip helenai, nes juos siejo kilmė ir panaši religija.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -8641,11 +11896,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     tatai paaiškės pažinus jų senovės istoriją, -  bet ir turėjo vieną
     ir tais pačiais principais besiremiančią religiją, pamėgdžiojan-
     čią beveik visas menkiausias smulkmenas.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-139
+
 - c-126
   santrauka: 'Narbutas seniausiąją lietuvių religiją aiškino kaip azijinę ir indišką, dangaus kūnų bei ugnies, vandens ir žemės garbinimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -8667,11 +11925,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     nių mitų ir apeigų, kurių pėdsakai mūsų mitologijoje yra pa­
     kankamai ryškūs -  tiek, kad senesnieji istorikai visą tą mitolo­
     giją kildina iš skandinavų.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-140
+
 - c-127
   santrauka: 'Narbutas rašė, kad lietuviai Perkūną garbino iškilmingomis apeigomis, jam skirdami miškelius ir puošnias šventyklas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -8684,11 +11945,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     tam tikru puošnumu įrengtos Šventyklos. Žyniai kasdien au­
     kodavo jam aukas didelėse šventyklose, jo ženklu buvo pažy­
     mėti vyriausiojo žynio Krivių Krivaičio nešiojami drabužiai.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-141
+
 - c-128
   santrauka: 'Narbutas, remdamasis Glumerio pastabomis, lietuvių 1243 m. karo šūkį aiškino kaip kreipinį į karo dievą Kovą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -8701,11 +11965,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     rėkė: JogKauou, jogKauaile! („Jok Kove, jok Kovaiti!“). Anot
     autoriaus, tai buvęs šios tautos karo šūkis, arba kreipinys į jų
     karo dievą.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-142
+
 - c-129
   santrauka: 'Narbutas rašė, kad lietuviai Ragutį garbino aukurais, stabais, šventyklomis, žyniais ir vaidilutėmis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -8717,11 +11984,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     iškilmes, labai panašias į Romos bakchanalijas.
     Kronikininkai skiria Ragutį nuo Bubilo, pirmąjį pripažin­
     dami rūgšties, antrąjį -  saldumynų šeimininku.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-143
+
 - c-130
   santrauka: 'Narbutas lietuvių Bakcho garbinimą siejo su jau labai senu ir plačiai paplitusiu šio dievo kultu kitose tautose.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -8737,11 +12007,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     nes žmonių polinkiai visur panašūs, piktnaudžiaujančių svai­
     ginamaisiais gėrimais ištvirkimas visur dangstomas dievobai­
     mingumo skraiste.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-144
+
 - c-131
   santrauka: 'Narbutas teigė, kad lietuviai turėjo dainius, apdainavusius tautos istorijos įvykius ir vadintus burtininkais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -8752,11 +12025,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     davo burtininkais (Burtynikaj), latviškai-Birnvis arba taip pat
     Burts. Kai kuriose savo giesmėse jie šaukdavosi Santvara, kar­
     iais Lėlio. Apie tai skaityk straipsnyje „Žyniai“.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-145
+
 - c-132
   santrauka: 'Narbutas manė, kad dėl gyvenimo prie jūros ir didelių vandenų lietuviai turėjo savo Neptūną, laivininkų globėją.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -8771,11 +12047,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     jie negalėjo apsieiti be savo Neptūno. Gyvenantys prie ežerų
     lietuviai šaukdavosi to paties dievo, vadindami jį Ežeriniu (Eže­
     rinis). Vienintelis Lasickis išsaugojo mums šį faktą.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-146
+
 - c-133
   santrauka: 'Narbutas nurodė Jucevičiaus nuomonę, kad Palangos apylinkių lietuviai žvejai Atrimpą vadino Dzivsvits.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -8785,11 +12064,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     prie jūros, tai yra žvejai, Atrimpą vadina „Dzivsvits“. Tas žymu­
     23 Ks. Ludwik Adam Jucevvicz. Przyslovvia ludu Litevvskiego. -
     S. 65*.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-147
+
 - c-134
   santrauka: 'Narbutas rašė, kad lietuviai šiam žemės dievui teikė garbę laikydami žalčius ir maitindami juos pienu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -8801,11 +12083,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     goma, ko reikėjo gyvoms būtybėms išsimaitinti. Todėl jam bu­
     vo aukojami pirmieji žemės derliaus grūdai, medžių vaisiai,
     pirmos sužvejotos žuvys ir sumedžioti žvėrys.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-148
+
 - c-135
   santrauka: 'Narbutas deivę Lietuvą apibūdino kaip laisvės, malonumų ir džiaugsmo deivę, žinomą lietuviams, latviams ir estams.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -8817,11 +12102,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     Lietuva į.Liethua)
     Laisvės, malonumų, džiaugsmo deivė. Ją tebežino lietu­
     viai, ypač senojoje Trakų vaivadijoje, latviai ir estai.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-149
+
 - c-136
   santrauka: 'Narbutas katino kaip lietuvių laisvės simbolio įrodymą siejo su 1483 m. Kazimiero privilegija bajorui Rimvydui.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -8843,11 +12131,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     didenybės karaliaus orumą ir rimtumą, išdrįso paduoti kara­
     liui katiną, sakydamas, kad tai esąs stabmeldiškosios laisvės
     (Lietwii) ženklas.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-150
+
 - c-137
   santrauka: 'Narbutas aiškino, kad lietuviai, siekdami išsivaduoti iš priespaudos, naudodavo laisvės deivės simbolį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -8863,11 +12154,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     suvaržymo ir norėdama išsivaduoti iš priespaudos, pasinau­
     dodavo laisvės deivės simboliu. Šitoks simbolio panaudojimas
     buvo visuotinai paplitęs Antikos tautose.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-151
+
 - c-138
   santrauka: 'Narbutas manė, kad lietuviai kaip žemdirbių tauta nuo pradžių visuotinai garbino žemdirbystės deivę Krūminę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -8879,11 +12173,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     lietuvių genčių, kaip žemdirbių tautos nuo pačios savo pra­
     džios. Visiems javams ir žemės ūkio padargams įvardyti yra
     savi lietuviški žodžiai15.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-152
+
 - c-139
   santrauka: 'Narbutas lietuvių mitologijoje įžvelgė seniausio dangaus kūnų sudievinimo liekanas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -8903,11 +12200,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     ## Puslapis 184
 
     „Lietuvių tautos istorijos“ pirmojo tomo skyrių uždavinys.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-153
+
 - c-140
   santrauka: 'Narbutas teigė, kad lietuvių mitologijos dangaus kūnų sampratos pagrindą sudaro indų padavimai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -8920,11 +12220,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     pagrindą ištisai sudaro indų padavimai. Saulė ir mėnuo, du
     svarbiausieji dangaus kūnai, į savo giminę įtraukia visus kitus,
     kurie yra jų vaikai.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-154
+
 - c-141
   santrauka: 'Narbutas rašė, kad lietuvių kalbose Saulė yra moteriškos giminės, todėl mitologijoje laikoma deive.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -8939,11 +12242,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     viso gėrio ir gyvybės teikėja. Jos vyras buvo Mėnuo. Iš tų ve­
     dybų atsiradę vaikai buvo žvaigždės -  Saulės dukterys, o kiti,
     dėl vardų priklausantys vyriškai giminei, buvo Saulės sūnūs.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-155
+
 - c-142
   santrauka: 'Narbutas teigė, kad pakitus mitologijai lietuviai vietoj Saulės garbino Svaistiką, arba Santvarą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -8954,11 +12260,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     diena, ir pasaulis nugrims tamsoje.
     Vėliau, mitologijai pakitus, lietuviai vietoj Saulės garbino
     Svaistiką, arba Santvarą, kaip graikai -  Apoloną.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-156
+
 - c-143
   santrauka: 'Narbutas rašė, kad lietuviai turėjo slaptų apeigų, kurių žinios dingo kartu su joms pasišventusiais žmonėmis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -8975,11 +12284,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     ## Puslapis 197
 
     išvardija net aštuonetą.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-157
+
 - c-144
   santrauka: 'Narbutas lietuvių religiją, mitologiją, kalbą ir teisę vertino kaip aukštos senovinės civilizacijos požymius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -8993,11 +12305,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     ## Puslapis 198
 
     kad paslaptys nebuvo svetimos mūsų protėviams.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-158
+
 - c-145
   santrauka: 'Narbutas rašė, kad lietuviai turi daug pasakojimų ir padavimų apie žalčius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9008,11 +12323,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     čius10 1. Lietuviai tam tikriems burtams naudodavo žvakes, paga­
     mintas iš žalčio taukų, nes, tokią žvakę uždegus, atvykdavo žal­
     čių karalius su visa didžiule roplių svita.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-159
+
 - c-146
   santrauka: 'Narbutas teigė, kad lietuvių mitologinėse dainose ir stebuklinėse pasakose žvėrys bei paukščiai gyvena savitą gyvenimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9023,11 +12341,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     se pasakose žvėrys ir paukščiai gyvena savitą gyvenimą. Čia
     pateiksime ištrauką iš vienos dainos16:
     Holą wy, mate ptaszęta, ja chce pojąč žonę.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-160
+
 - c-147
   santrauka: 'Narbutas rašė, kad lietuviai žuvusius tėvynės gynėjus vadino Runketojais ir šventomis laikė jų kapų vietas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9039,11 +12360,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     rankos. Pasakojimai dar skelbia, kad esama dangiško miško
     arba sodo, kuriame gyvena visų tautų kariautojai, paaukoję
     gyvybę už teisų reikalą.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-161
+
 - c-148
   santrauka: 'Narbutas teigė, kad lietuviai senojoje religijoje daug reikšmės skyrė ugniai ir šventiesiems aukurų židiniams.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9060,11 +12384,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     gyvulių bandų ir kai kurių daiktų; su ugnimi būdavo išaiškina­
     ma tiesa užsispyrusių žmonių ginčuose; iš ugnies būdavo bu­
     riama.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-162
+
 - c-149
   santrauka: 'Narbutas ugnies žinyčios kultą laikė vienu seniausių lietuvių protėvių iš Rytų atsineštų kultų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9078,11 +12405,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     jai užgesus, tautai gresia pražūtis. Ji buvo garbinama su dide­
     lėmis pamaldomis, iš jos buvo imami nuodėguliai svarbiau­
     sioms aukoms deginti ir laidotuvių laužams.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-163
+
 - c-150
   santrauka: 'Narbutas spėjo, kad Rusos upės vardą Naugardo gubernijoje galėjo duoti variagų atgabenta lietuvių tautos kolonija.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9101,11 +12431,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     Be šito, lietuvių kraštuose turime ne vieną šventą upe, ar­
     ba tiesiog taip pavadintą, arba apie ją žinome iš istorijos ar
     liaudies padavimų.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-164
+
 - c-151
   santrauka: 'Narbutas atmetė nuomonę, kad Šventoji prie Ukmergės taip pavadinta dėl Jogailos laikų lietuvių krikšto.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9117,11 +12450,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     vietos padavimai įtikina, kad tą vandenį senoji religija laikė
     šventu, todėl krikščionių kunigai jį ir vartojo, o gal net pačią
     upę, kad sutrauktų prie jos krantų žmones krikštui.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-165
+
 - c-152
   santrauka: 'Narbutas rašė, kad senojoje lietuvių religijoje šventais laikyti ne tik tekantys, bet ir kai kurie stovintys vandenys.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9140,11 +12476,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     kaimai, neturintys, jų manymu, tinkamos šventoms apeigoms
     upės, atlikdavo savo apeigas prie ežerų, kuriuos tekdavo pri­
     pažinti šventais.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-166
+
 - c-153
   santrauka: 'Narbutas teigė, kad lietuvių mitologijoje visus ežerus globojo dievas Atrimpas, vadintas Ežeriniu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9156,11 +12495,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     Šventosiose upėse ir ežeruose niekam nederėjo gaudyti žu­
     vies, nebent per didelį badmetį, priešų apgultį arba staiga iški­
     lus kitokiam reikalui.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-167
+
 - c-154
   santrauka: 'Narbutas rašė, kad lietuvių religija mokė pamaldumo medžiams, o šventieji medžiai buvo puošiami trofėjais ir girliandomis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9171,11 +12513,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     se, padavimuose ir liaudies dainose. Šventųjų medžių puoši­
     mas trofėjais, gėlių girliandomis ir degančiais žibintais buvo
     įprastas dalykas.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-168
+
 - c-155
   santrauka: 'Narbutas vertino lietuvius kaip mažiau apsišvietusius, bet rašė, kad jie pažino medžių dievybes ir saugojo vertingus medžius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9187,11 +12532,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     jie pažino visas šios rūšies dievybes (kaip jau matėme iš straips­
     nių „Ragana“, „Medziojna“, „Lazdona“), gerbė ir dievobai­
     mingai saugojo išaugintus vertingus medžius.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-169
+
 - c-156
   santrauka: 'Narbutas, remdamasis Strijkovskiu, rašė, kad lietuvių maldose šauktasi Pušaičio ir barstukų, o medžio šešėliui priskirtas gydomasis poveikis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9204,11 +12552,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     priskiriamas išganingas poveikis sveikatai; dėl šios priežasties
     daugelyje lietuvių kaimų alyvų krūmai buvo gerbiami kaip die­
     vybė.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-170
+
 - c-157
   santrauka: 'Narbutas Romovės pavadinimą kildino iš senovės lietuvių žodžio, reiškusio susilaikymo, pamaldumo ir taikos vietą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9221,11 +12572,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     su ąžuolo šventumu. Senovės lietuvių kalba šis žodis reiškė
     susilaikymo, pamaldumo, taikos vietą nuo Romume -  Romu­
     mas .
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-171
+
 - c-158
   santrauka: 'Narbutas manė, kad skandinavai tikėjimą ąžuolo šventumu iš dalies perėmė iš lietuvių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9238,11 +12592,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     les, iškeptas pelenuose arba virtas su pelenais. Gali būti, kad
     šis vaisius nuo alkaloidinės rūgšties praranda savo aitrumą ir
     būna visai pakenčiamas valgis.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-172
+
 - c-159
   santrauka: 'Narbutas lietuvių aukurus apibūdino kaip primityvius ir nepuošnius, išskirdamas kai kuriuos Perkūno šventyklų aukurus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9253,11 +12610,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     skyrium įvairiems dievams. O lietuviai dėl savo vargingo pa­
     prastumo turėjo primityvius ir nepuošnius aukurus, išskyrus
     kai kuriuos, buvusius Perkūno šventyklose.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-173
+
 - c-160
   santrauka: 'Narbutas teigė, kad lietuvių Perkūno stabas X a. buvo garsus Šiaurėje, o panašūs stabai pastatyti Kijeve ir Naugarde.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9272,11 +12632,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     yra vadinamasis Perimo vienuolynas. Tai buvusi didžiulė sta­
     tula, liemuo iš ąžuolo, galva sidabrinė, ūsai ir ausys auksinės,
     kojos geležinės, kumštyje laikė kažką panašaus į žaibus23.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-174
+
 - c-161
   santrauka: 'Narbutas rašė, kad senovinėse lietuvių monetose dievai buvo vaizduojami pagal seną paprotį, būdingą ir kaimyninėms tautoms.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9286,11 +12649,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     Senovinėse lietuvių monetose dievai buvo vaizduojami se­
     nu papročiu, kuris tinka ir kitoms kaimyninėms tautoms. Tu­
     rėjau rankoje sidabrinę monetą, rastą Varėnos apylinkėse.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-175
+
 - c-162
   santrauka: 'Narbutas moterų figūras lietuvių monetose aiškino kaip deives, nes, jo teigimu, lietuviai neturėjo tikrų karalių ir karalienių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9302,11 +12668,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     šito įrodymas. Moterų figūros vaizduoja deives, nes lietuvių gen­
     ties tautos savo šalyse neturėjo karalių ir karalienių tikrąja šio
     rango prasme.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-176
+
 - c-163
   santrauka: 'Narbutas kaip lietuvių valdovą Jurijaus vardu minėjo Jurijų Vytautaitį, apie 1342 m. valdžiusį Pskovo žemę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9324,11 +12693,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     27 Išsamesnių žinių apie senovės prūsų monetas yra Lybknechto
     (Liebknecht) veikale “De antiquis nummis aliquando effosis in Prussia
     Regali et adjacentibus Regionibus”.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-177
+
 - c-164
   santrauka: 'Narbutas rašė, kad lietuviai turėjo dievams paskirtų kalnų, bet nežinojo tikrai lietuviškų pasakojimų apie Plikąjį kalną.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9339,11 +12711,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     siriboja kalnais, ant kurių stovėjo aukurai arba šventyklos. Kal­
     nas prie Palangos garsėjo Praurimės aukuru, prie Nevėžio -
     šventykla.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-178
+
 - c-165
   santrauka: 'Narbutas teigė, kad lietuvių mitologijoje šventi buvo miško plotai su aukurais ir šventyklomis, dažniausiai prie upių santakų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9364,11 +12739,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     mo, kadangi visos ten esančios būtybės, taip pat medžiai ir
     augalai dėl griežto pamaldumo buvo laikomi šventais ir nelie­
     čiamais.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-179
+
 - c-166
   santrauka: 'Narbutas cituojamame pasakojime nurodė, kad Vilniui tapus Lietuvos sostine Trakai, nors turėjo pilį ir kunigaikščio rūmus, sumenko.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9388,11 +12766,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     kurie pritraukdavo daugybę žmonių iš Lietuvos, Žemaitijos,
     Prūsijos, Kuršo, Livonijos ir Rusios, nes būdavo didelė įvairių
     prekių mainų mugė ir procesija iš miesto į miestą“.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-180
+
 - c-167
   santrauka: 'Narbutas teigė, kad lietuviai turėjo kilnojamųjų, arba stovyklinių, šventovių, priklausiusių ugnies šventovėms.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9403,11 +12784,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     Lietuviai dar turėjo kilnojamųjų, arba stovyklinių, švento­
     vių, kurios priklausė ugnies šventovėms piratėjoms. Apie to­
     kią turime istorinę žinią, išlikusią Prūsijos kronikose21 2 23.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-181
+
 - c-168
   santrauka: 'Narbutas rašė, kad po prūsų stabmeldystės smūgio religinė sostinė buvo perkelta į Lietuvą, o vyriausiųjų žynių tvarka truko iki 1387 m.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9421,11 +12805,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     metais visuotinai buvo priimtas krikščionių tikėjimas. Straips­
     nyje apie šventyklas skaitėme, kaip keitėsi vyriausiųjų žynių
     buveinių vietos Lietuvoje.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-182
+
 - c-169
   santrauka: 'Narbutas lietuvius apibūdino kaip pamaldžius ir prietaringus, kurie prieš darbus klausdavo pranašų patarimo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9447,11 +12834,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     visokiausių sumanymų ir darbų tolesnę ateitį; jo pranašystės
     buvo nutarimų politiniais, teismo^ religijos klausimais pagrin­
     das.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-183
+
 - c-170
   santrauka: 'Narbutas teigė, kad lietuviai alų gėrė ypač religinių apeigų metu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9462,11 +12852,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     daryti alų iki atsikraustant kryžiuočiams. Paneigimui pakanka
     pasakyti, kad B lefo tikrai nepažino, bet savo alų darė labai
     senu papročiu4.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-184
+
 - c-171
   santrauka: 'Narbutas rašė, kad kiekviena lietuvių genties tauta dievams aukojamiems arkliams rinkdavosi savitą plauką ir ženklus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9479,11 +12872,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     bę širmiems, kitos provincijos -juodžiams, dar kitos -  kitokio
     plauko, tad kiekviena lietuvių genties tauta turėjo atskirą sa­
     vo pasirinktą plauką ir su juo ypatingus ženklus.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-185
+
 - c-172
   santrauka: 'Narbutas lietuvių priesaikas aiškino kaip dievų šaukimą liudytojais, minėdamas formules „dėl Dievo“ ir „Kad man Perkūnas sumuštų“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9501,11 +12897,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     dievus būti liudytojais. Priesaikos su užkeikimu taip pat dar
     tebegirdimos, formulė buvo: „Kad aš skradžiai prapultau“
     (Kad až skradziuprapoltu).
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-186
+
 - c-173
   santrauka: 'Narbutas teigė, kad dešinės rankos laikymo prie gerklės priesaikos paprotys gyvavo ir svetimųjų valdytuose lietuvių kraštuose.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9517,11 +12916,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     saiką labiau nei pirštų padėjimas ant Evangelijos. Tokio pat
     I autinio papročio laikytasi ir kituose lietuvių genties tautų kraš-
     I uose, kurie atsidūrė svetimųjų valdžioje.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-187
+
 - c-174
   santrauka: 'Narbutas teigė, kad lietuviai nuo seniausių amžių laiką dalijo į dienos ir nakties valandas, matuojamas vandens laikrodžiais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9530,11 +12932,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     (lYahmda) , o jos skirstytos į dienos ir nakties. Buvo 12 dienos
     ir tiek pat nakties valandų. Valandų trukmę matuodavo van­
     dens laikrodžiais (Bodziawolas).
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-188
+
 - c-175
   santrauka: 'Narbutas manė, kad senovinės lietuvių religinės apeigos buvo daug turtingesnės, nei leidžia atkurti išlikusi medžiaga.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9550,11 +12955,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     pamąstyti apie nuostabią praeitį didelės tautos, kurios religija
     buvo kupina aukštų polėkių, gyvos fantazijos ir turėjo nekas­
     dieniškai iškilmingas apeigas.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-189
+
 - c-176
   santrauka: 'Narbutas rašė, kad senovinė lietuvių teisė ir papročiai numatė vienpatystę, o kitos lietuvių gentys jos laikėsi griežčiau už prūsus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9576,11 +12984,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     mat istorijoje nematome net pėdsako, kad lietuvių didikai ir
     kunigaikščiai būtų turėję daugiau kaip vieną žmoną; vėl ves­
     davo tiktai po žmonos mirties.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-190
+
 - c-177
   santrauka: 'Narbutas rašė, kad jaunos netekėjusios lietuvaitės nešiodavosi prie juostos prikabintus varpelius, kad tėvai girdėtų jų judėjimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9599,11 +13010,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     gomas, jas pagrobdavo lakedemoniečių pavyzdžiu; tai padaro
     du jaunikio giminaičiai; tada jie atsiprašo tėvų ir įteikia jiems
     tam tikras dovanas.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-191
+
 - c-178
   santrauka: 'Narbutas teigė, kad lietuvių kalboje ir tautinėse dainose nerado slavų vestuvių dainoms būdingo cinizmo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9618,11 +13032,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     tokių žodžių. Kiek stengėmės aptikti tokių dalykų šių dienų
     lietuviuose, šitaip suslavėjusiuose, niekad ir niekur negalėjo­
     me to pastebėti.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-192
+
 - c-179
   santrauka: 'Narbutas rašė, kad lietuvių laidotuvių giesmės vadinamos raudomis ir skambėjo visose lietuvių genties tautose.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9634,11 +13051,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     eiles su gražia melodija, rastas pas Prūsijos lietuvius, pavadi­
     nęs „Motiną apraudančios našlaitės verksmu“:
     Ktčž mi ogrzeje ręce i nogi?
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-193
+
 - c-180
   santrauka: 'Narbutas mirusiųjų deginimą kildino iš indų ir teigė, kad vėlyvojoje lietuvių stabmeldystėje jis taikytas tik žymesniems žmonėms.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9655,11 +13075,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     protys, kurio užuomazga kilusi iš indų, lietuvių buvo apribo­
     tas tiek, kad paskutiniais stabmeldystės amžiais taikytas tik
     žymesniems žmonėms laidoti.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-194
+
 - c-181
   santrauka: 'Narbutas teigė neturįs patvirtinimo, kad lietuviai šventose giraitėse ant medžių kabindavo karalių kūnus aukso grandinėmis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9670,11 +13093,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     taip pat užmušdavo jų mylimiausius tarnus. Neturime jokio pa­
     tvirtinimo, kad lietuviai savo šventose giraitėse ant medžių ka­
     bindavo karalių kūnus, parištus ant aukso grandinių .
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-195
+
 - c-182
   santrauka: 'Narbutas rašė, kad lietuviai skenduolių arba plėšikų nužudytųjų kūnus laidodavo toje vietoje, kur juos rasdavo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9684,11 +13110,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     tą tvirtindavo visuotinai tikėdami20. Lietuviai turėjo paprotį
     skenduolių arba plėšikų nužudytųjų kūnus laidoti toje vietoje,
     kur atrado.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-196
+
 - c-183
   santrauka: 'Narbutas rašė, kad senovės lietuviams kapai buvo šventi, o antkapinių statinių nederėjo liesti.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9704,11 +13133,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     du nederėjo paliesti antkapinių statinių; buvo meldžiamasi net
     kapams savo protėvių arba asmenų, atmintinų dėl ypatingų
     dorybių.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-197
+
 - c-184
   santrauka: 'Narbutas teigė, kad lietuviai tikėjo sielos nemirtingumu ir pomirtiniu atpildu bei bausme.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9729,11 +13161,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     mirtį reikalaudavo iš giminaičių, kad tie stropiai atliktų laido­
     tuvių apeigas ir per žynius ieškotų priemonių laimingam am­
     žinajam gyvenimui pasiekti.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-198
+
 - c-185
   santrauka: 'Narbutas perteikė autoriaus pasakojimą, kad Rytų bažnyčios atskalūnai tarp lietuvių turėjo daugiau laisvės negu savo šalyje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9753,11 +13188,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     manicheizmo paklydimais, labiau juos pritaikė prie stabmel­
     dystės, tai sunku pasakyti, ar lietuvių stabmeldystė sumišo su
     krikščionybe, ar krikščionybė susiliejo su stabmeldyste.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-199
+
 - c-186
   santrauka: 'Narbutas nurodė, kad cituojamas autorius pateikė kai kurių lietuvių mitologijos sričių smulkius aprašymus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9781,11 +13219,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     čios valdžios, kuri tapo tautos išganymu; tauta aklai pasiklio­
     vė viešpataujančios dinastijos, garsėjančios tikrais karžygiais,
     valia ir teise.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-200
+
 - c-187
   santrauka: 'Narbutas teigė, kad lietuviai neturėjo savos heraldikos, bet žymesni asmenys raštus tvirtindavo pasirinktais antspaudais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9797,11 +13238,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     toj parašų patvirtindavo savo raštus -  taip, kaip romėnai9. Lie­
     9
     Neseckis (Herbarz Polski.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-201
+
 - c-188
   santrauka: 'Narbutas aiškino, kad herbo vardas „Kiniglis“ lietuvių kalboje reiškia triušį, o ne Neseckio nurodytą kiškį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9817,11 +13261,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     se ant sutarčių, kurias sudarinėjo bajorai vieni su kitais, net iki
     XVII amžiaus vidurio išlikęs labai ryškus tokių dar seno pavi­
     dalo ir seno graviravimo signečių pėdsakas.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-202
+
 - c-189
   santrauka: 'Narbutas lietuvių tautos kilmę laikė kitokia nei gotų, o gotiškus elementus aiškino kaip skolinius iš gotų ir herulų aplinkos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9834,11 +13281,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     genties tautos, jeigu ir neigtume papročių, įpročių, religijos bendru­
     mą, net giminystę, nuolatos susidurdavo su gotais arba savo, arba
     svetimoje žemėje.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-203
+
 - c-190
   santrauka: 'Narbutas teigė, kad lietuvių žemėje aptikti Biarmijos, arba Permės, raidyno pėdsakai rodo senovės lietuvius naudojusis tomis raidėmis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9854,11 +13304,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     ## Puslapis 434
 
     lietuviai naudojosi tomis raidėmis.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-204
+
 - c-191
   santrauka: 'Narbutas sanskritą laikė lietuvių kalbos ir kitų senųjų Europos tautų kalbų šaltiniu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9873,11 +13326,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     kitų Europos kalbų, kuriomis kalba seniausios tos pasaulio
     dalies tautos23. Norėdami tą aiškiau įrodyti, pateiksime pavyz­
     džių.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-205
+
 - c-192
   santrauka: 'Narbutas pateikė iš Ksavero Bogušo perimtą Čemberleno senovės lietuvių kalbos maldos pavyzdį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9892,11 +13348,14 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     Lietuvių kalba, vartojama Prūsijoje, Nemuno žemupyje; imta
     iš Hartknocho (ten pat):
     15.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-206
+
 - c-193
   santrauka: 'Narbutas pasakojo, kad jo tarnai lietuviai Bogušo eilėse girdėjo nuostabiai perteiktą harmoningą žodžių skambesį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -9913,15 +13372,4527 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
     davo, kad jie suvokia eilučių metrų darną. Deklamuojant tas 30 eilu­
     čių, net nemokantys kalbos žmonės jausdavo nuostabos vertą skam­
     bumą.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-207
 
+- c-194
+  santrauka: 'Teodoro Narbuto antrojo tomo aptarime nurodoma, kad beveik visas 576 puslapių tomas skirtas lietuvių kilmei.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Kuo la­
+    biau skaitau, tuo labiau tuo įsitikinu. Antras tomas be­
+    veik visas yra skirtas lietuvių kilmei, lengva pasakyti —
+    576 puslapiai. Tamsta kildini juos iš gelonų (pelazgų-
+    helenų tautos) ir iš budinu (indų-skitų tautos); vėliau
+    išaugusi gelonų-budinų karta susiskirstė į tris pagrin­
+    dines dalis: Prūsiją, tikrąją Lietuvą ir Latviją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208
+
+- c-195
+  santrauka: 'Teodoras Narbutas pratarmėje antrąjį tomą pristatė kaip lietuvių tautos ištakų ir protėvių atsikėlimo istorijos apžvalgą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Reda Griškaitė
+
+    ## Puslapis 22
+
+    Istorijoje tiesa yra geležinė
+    būtinybė, ir nereikėtų manyti, jog
+    ji kada nors gali pakenkti.
+    Sena gavenda
+
+    ## Puslapis 23
+
+    Laisvė be baimės — tai anarchija,
+    Baimė be laisvės — tai 'vergovė, i
+    Mano patarlė
+
+    ## Puslapis 24
+
+    PRATARME
+    Vos tik buvo išspausdinta religijos, papročių ir kitų
+    dalykų apžvalga, esanti įvadas į lietuvių tautos istorijos
+    pažinimą, skubu atiduoti spaudai antrą tomą, apžvel­
+    giantį šios tautos ištakas ir jos protėvių atsikėlimo į da­
+    bar gyvenamąsias žemes istoriją.
+    Ir čia skaitytojas neras to literatūrinio patrauklumo,
+    kuris smagina istorinėmis naujienomis ir grakščiu pasa­
+    kojimu, nes dar ir šį tomą reikėjo skirti parengiamiesiems
+    tyrimams, idant palengvintume tolesnę istoriją, neapsun­
+    kindami teksto plačiais prierašais, išvadomis ir įrody­
+    mais vien todėl, kad šie dalykai yra nauji ir dar neišna­
+    grinėti nei kritikos, nei smulkmenų, surinktų iš įvairių
+    raštų, aiškinimų; teko juos sujungti į vieną visumą ir
+    susieti vienodais įrodymais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209
+
+- c-196
+  santrauka: 'Teodoras Narbutas, remdamasis Kepenu, lietuvių dialektą laikė viduriniu tarp senovės prūsų ir latvių dialektų.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Mes pasisakome už pono Kepeno požiū-
+    2. T. Narbutas
+    33
+
+    ## Puslapis 33
+
+    rį: lyginant tris svarbiausius dialektus — senovės prūsų,
+    lietuvių ir latvių, — vidurys tenka lietuvių, o tai negin­
+    čytinai įrodo, kad tautos lopšys buvo būtent lietuvių gen­
+    tyje arba kad ši gentis buvo arčiausia prie šio lopšio1. O
+    be to, Lietuvos valstybė tuomet ne tik savo galybe ir dy­
+    džiu pranoko Prūsiją ir Latviją, bet ir buvo viena tų, ku­
+    rios ilgiausiai džiaugėsi savo nepriklausomybe. Tad tuo
+    remdamiesi nedvejojame visą tautos visumą su visomis
+    jai giminingomis žmonių bendruomenėmis ir kartomis pa­
+    skelbdami lietuviškąja2.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210
+
+- c-197
+  santrauka: 'Foigto teigimu, senoji lietuvių tvirtovė Klaipėda stovėjo prie Dangės žiočių, susijusių su dešiniąja Nemuno deltos šaka.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Labai svarbių hidrografinių pokyčių
+    nuo Palangos iki Sembos pakrančių įvyko rašytinės isto­
+    rijos amžiais. Iš įvairių Karaliaučiaus Slaptajame archy­
+    ve esančių transakcijų ponas Foigtas1 teigia, jog viena
+    dešinioji Nemuno deltos šaka nuo Rusnės suko į šiaurę,
+    iš dešiniosios pakrantės įtekėjo Minija, po to jungėsi su
+    Dange, kurios žiotyse stovėjo sena lietuvių tvirtovė Klai­
+    pėda, Klejpeda2, ir galop vienomis plačiomis žiotimis įsi­
+    liejo į jūrą toje pačioje vietoje, kur šiandien yra Kuršių
+    marių žiotys. Prie šio tvirtinimo reikia pridurti, jog Pto-
+    lemėjas nurodo Krono upės, kuri yra Nemunas, žiotis sub-
+    elevatione Poli 56 graduum et longitudine 50 graduum.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211
+
+- c-198
+  santrauka: 'Teodoras Narbutas laikė istorine tiesa, kad lietuvių tautos protėviai gyveno prie Rosės upės dabartinėje Volkovysko apskrityje.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Tą patį, bet kiek aiškiau minėjo Stra-
+    bonas savo septintojoje knygoje. Taip mes taip pat nedve­
+    jodami pripažįstame tą istorinę tiesą, kad lietuvių tautos
+    protėviai gyveno prie Rosės upės, tekančios per šiandienę
+    Volkovysko apskritį. Jų gyvenviečių galėjo būti net iki
+    IV amžiaus po Kristaus gimimo ar kiek vėliau, kol iš
+    Nemuno aukštupio pusės pradėjo spausti slavų gentys.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212
+
+- c-199
+  santrauka: 'Teodoras Narbutas Nemuno žemupio pakrantes laikė pirmąja lietuvių tautos buveine šiame krašte.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Senovės tyrinėtojai ne­
+    abejoja, jog budinai įsiterpė tarp venedų ir slavų gyvena­
+    mųjų vietovių ir įsikūrė iš dalies taikiai, iš dalies gal iš­
+    stumdami kitas gentis prie Nemuno, o vėliau ir Vyslos,
+    Dauguvos, — tai nedvejodamas pasakoja Osolinskisk Prie
+    jūros skubančio Nemuno vaga atvedė iki žygio j vakarus
+    pabaigos. Tad Nemuno žemupio pakrantes visų pirma de­
+    ra laikyti ¡pirmąja lietuvių tautos buveine šiame krašte,
+    iš kur besiplėsdami lietuviai užėmė tolesnes šalis. Tun-
+    manas savo tyrimais rodo, jog, kai lietuvių tautos tėvai
+    atsikėlė prie Baltijos jūros ir ėmė prie jos plėstis, tuojau
+    užėmė Sembą ir gintaro kasyklas2.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213
+
+- c-200
+  santrauka: 'Teodoras Narbutas darė išvadą, kad pirmos lietuvių tautos gyvenvietės buvo dešiniosios Nemuno žemupio šakos pakrantėse.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Vadinasi, pirmasis
+    su neapdorota medžiaga dirbęs žmogus ir visas jo milži­
+    niškas darbas dažniausiai būva pamirštas palyginti su
+    vėlesnio darbuotojo efektyvaus darbo šviesa.
+    230
+    Mūsų Rusios tyrimo išvada yra ta, kad dešiniosios
+    Nemuno žemupio šakos pakrantėse buvo pirmos lietuvių
+    tautos gyvenvietės, atsiradusios bendruomeninėje santvar­
+    koje. Gelonai-budinai, įsikūrę šiuose vaizdinguose kraš­
+    tuose, turtinguose gyvenimui reikalingų gamtos turtų, ne­
+    abejotinai labai ir greitai išplito1.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214
+
+- c-201
+  santrauka: 'Teodoras Narbutas, remdamasis padavimais ir senaisiais autoriais, teigė, kad lietuvių genties tautoms žemės priklausė dar gerokai prieš VI amžių.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Heimkringla
+    Saga.
+    238
+
+    ## Puslapis 249
+
+    243
+    Apskritai, atsižvelgiant į krašto padavimus, tiek se­
+    niausių prūsų kronikininkų užrašytus, tiek ir senovės ty­
+    rinėtojų įvairiose vietose pastebėtus, galima pasakyti, kad
+    lietuvių ¡genties tautoms dar gerokai* prieš VI amžių
+    pritklausė tos žemės, kurios ir šiandien ¡priklauso jų val­
+    doms. Sį teiginį patvirtins tolesni mūsų pasakojimai, o
+    tuo tarpu aprašysime įvairių kartų užimamų žemių geo­
+    grafinę padėtį, pradėdami nuo bendro žymėjimo krašto,
+    turėjusio tokias ribas: Baltijos jūra nuo Vyslos žiočių net
+    iki Vakarų Dauguvos dešiniosios ¡pakrantės, kur jūrą pa­
+    siekia Salacos apskritis, šios apskrities ribomis su Estija
+    ir Pskovo gubernija, paskui skersai Dauguvą iki Kuršo
+    sienos su Livonija, toliau Ukmergės apskrities riba net
+    ligi ten, kur susisiekia Vilniaus ir Ašmenos apskričių sie­
+    nos, Vilniaus apskrities riba ligi trijų: Vilniaus, Ašmenos
+    ir Lydos apskričių ribų susikirtimo vietos, šį ¡paskutinį
+    kartą sena Lietuvos siena, tad Lietuvai lieka tik kelios
+    senovėje priklausiusios Trakų apskričiai gretimos parapi­
+    jos, taip pat ir Gardino apskrities.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215
+
+- c-202
+  santrauka: 'Teodoro Narbuto skirstyme lietuvių krašto teritoriją sudarė trys pagrindinės sritys: senovės Prūsija, tikroji Lietuva ir Latvija.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    244
+    Sritys, arba pagrindinės lietuvių krašto žemės. Šią te­
+    ritoriją sudarė trys pagrindinės sritys: senovės Prūsija,
+    tikroji Lietuva ir Latvija. Kažkokių politinių įvykių suta­
+    pimas lėmė ¡pasidalijimą trijų tautos kartų, įsikūrusių to­
+    se trijose, gana tolimose srityse; jas siejo viena — tik
+    gimtoji žemė. Iš čia atsirado trys atskiri dialektai: seno­
+    vės prūsų, lietuvių ir latvių. Be kalbos panašumo, juos
+    siejo religija ir visai tautai bendra teokratinė valdžia.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216
+
+- c-203
+  santrauka: 'Teodoro Narbuto nuomone, slavai venedai ir lietuviai lotynų kalbą vartojo kaip diplomatinę kalbą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Todėl, mano nuomone, reikėtų
+    skaityti: Kurcho, optimo maximo. O tai yra toks pat užrašas kaip
+    ir ant kai kurių romėniškų medalių; jis reiškia IOVI OPTIMO
+    MAXIMO. Taip pat kaip ir ant Volgasto miesto globėjo Jaruvito
+    skydo, ant kurio radau tokį užrašą: „Tutori Voigasliensi, optimo
+    maximo Jurowito". Lotynų kalbą slavai venedai ir lietuviai var­
+    tojo kaip diplomatinę kalbą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217
+
+- c-204
+  santrauka: 'Teodoro Narbuto teigimu, herbų suteikimo paprotys lietuviams nebuvo būdingas, nors Lietuvoje šeimos herbai egzistavo bent nuo Gedimino laikų.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    180 /Ten pat, 3 pastraipos 1 sakinio minties tęsinys ir nauja išnaša/
+    Kartais didieji kunigaikščiai herbus suteikdavo slavų giminėms;
+    tokį herbą 1302 metais Gediminas davė Krunevičiui. Sis paprotys
+    lietuviams nebuvo būdingas, bet kai kurios riterių šeimos, pri­
+    klausančios Lietuvos valdžiai (ar tai būtų lenkai, ar rusinai), ga­
+    lėjo prašyti, kad jiems būtų suteikti herbai — taip būdavo Len­
+    kijoje. Bet, nepaisant to, visuomet, bent jau nuo Gedimino laikų,
+    Lietuvoje šeimos herbai egzistavo70.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218
+
+- c-205
+  santrauka: 'Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skubėdavo, kad nespėtų pastoti jiems kelio lietuviai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Toks žygis paprastai trukdavo ne ilgiau, kaip
+    savaitę: mat, kryžiuočiai skubėdavo, kad nespėtų pastoti jiems
+    kelio lietuviai. Sužinoję apie kryžiuočių žygį, lietuviai skubė-
+    davo pasislėpti miškuose, iš kur tykodavo užpulti kryžiuočius,
+    dažnai jie sunaikindavo ištisą grįžtančių kryžiuočių būrį: kry-
+    žiuočių kelią staiga užvertę medžiais, patys iš visų pusių
+    supuolę juos išžudydavo. Be to, už tokiuos užpuolimus lietu-
+    viai keršydavo įsiverždami ir naikindami ordino kraštą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219
+
+- c-206
+  santrauka: 'Po pirmų susidūrimų lietuviai pareikalavo, kad lenkai savo pasiūlymus pateiktų raštu.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tad kiekvieną, kurs
+    norėtų mane pavergti, aš laikyčiau tironu, o ne savo viešpačiu".
+    Po pirmų susidūrimų lietuviai pareikalavo, kad lenkai savo pa-
+    siūlymus pateiktų raštu. Gavę juos, po trijų dienų lietuviai atnešė len-
+    kams savo projektą; lietuvių projektu, bendrai rinktas karalius tu-
+    rįs būti atskirai pakeliamas Vilniuje didžiuoju kunigaikščiu; kol
+    nebūsiąs pakeltas, tol negalėsiąs turėti Lietuvoje valdžios.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220
+
+- c-207
+  santrauka: 'Kai po šio smūgio Lietuva šiek tiek atsiga vo, Vytenis, surinkęs visose valdose lėšų, vieną ka riuomenę nukreipė į Dobrynę, o kitą — prieš kryžiuo čius.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kai po šio smūgio Lietuva šiek tiek atsiga­
+    vo, Vytenis, surinkęs visose valdose lėšų, vieną ka­
+    riuomenę nukreipė į Dobrynę, o kitą — prieš kryžiuo­
+    čius. Ir vienas, ir kitas žygis, kaip ir tikėtasi, pasisekė.
+    Kadangi Dobrynėje sekmadienį visi žmonės buvo su-
+    D o b iy n ą , ž u d o  k i y -
+    nių ir plėšimo, žuvo liepsno-
+    devynis tūkstančius belaisvių. Su kryžiuočiais kautasi
+    atvirame lauke: mūšyje krito ordino magistras Bur-
+    chardas Aremas su trisdešimčia to ordino riterių, o
+    lietuviai laimėjo kautynes.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221
+
+- c-208
+  santrauka: 'Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių dinastija.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono
+    ir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai
+    vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių
+    dinastija. Taip įvairiakilmė ponija formavo bendros savimonės „lietuvių
+    nacijos“ ponų sluoksnį. Tokie žmonės pagal kilmę buvo rusėnai, pagal
+    tikėjimą – graikai katalikai, pagal politinę savimonę – lietuviai, o kalbėjo
+    lenkiškai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-222
+
+- c-209
+  santrauka: 'Atrodo, lietuviai garbino jį kaip didelį žaltį.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    III skyrius
+    M A Ž E S N I E J I  DIEVAI,
+    ARBA D IEVAIČIAI,
+    D E W A J T A S
+    Au šia vis (Auszlawis)
+    Nusilpusių, ligonių, sveikstančių dievaitis, mitinis gydytojas.
+    Atrodo, lietuviai garbino jį kaip didelį žaltį. Kiti duome­
+    nys leidžia spėti, jog būta ypatingų apgavikų, kurie nešiodavo
+    užantyje žalčius ir taip įtikindavo žmones, kad, mokėdami
+    kenksmingus dalykus padaryti nekenksmingus, sugebėsią iš­
+    gydyti visokias ligas. Jie tapdavo šio dievaičio mokiniais arba
+    garbintojais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-228
+
+- c-210
+  santrauka: 'Lydos apskrityje, prie Girkų kaimo, tikrojoje Lietuvoje, yra plotas tokių me džių, labai senų ir gražiai augančių; apie juos esama padavi mo, kad tai liekana šventojo miško, kuris buvo mirtinai per sekiojamųjų prieglobstis, o nematoma jėga, sauganti tokius.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Lydos apskrityje,
+    prie Girkų kaimo, tikrojoje Lietuvoje, yra plotas tokių me­
+    džių, labai senų ir gražiai augančių; apie juos esama padavi­
+    mo, kad tai liekana šventojo miško, kuris buvo mirtinai per­
+    sekiojamųjų prieglobstis, o nematoma jėga, sauganti tokius
+    žmones, stebuklingu būdu juos maitinusi, kol jie ten gyven­
+    davę.
+    Lietuvių prisirišimas prie šventųjų miškų neišnyko iš kar­
+    to, pasikeitus tikėjimui; vietos dokumentuose, senesniuose už
+    XVIII amžių, tarp reikšmingesnių nekilnojamojo turto objektų
+    randame nuolat minimus miškus: kartais kalbama apie mišką
+    su kovarniais, tai reikštų seniai suaugusį mišką, nes tie paukš­
+    čiai yra įpratę krauti lizdus aukščiausiuose medžiuose, tan­
+    kiausiame miške ar nuošaliausiose vietose.
+    Šventyklos
+    Herodotas ir Strabonas tikina, kad egiptiečiai ir finikiečiai
+    pirmieji pradėjo statyti šventyklas dievams arba pastatus, ku­
+    riuose jie būdavo garbinami.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-229
+
+## Citatos
+
+- id: c-00365
+  citata_originali: |
+    Bendras
+    turįs būti gynimasis nuo priešų ir bendri seimai, bet juose turį būti
+    sprendžiami tik abi valstybes liečią reikalai. Seimai turį rinktis pakai-
+    tomis Lietuvoj ir Lenkijoj. Savitiems reikalams abiejose valsty-
+    bėse turį būti atskiri seimai. Urėdai Lietuvoje turį būti duodami
+    tik lietuviams, bet įsigyti dvarų turį būti leidžiama tiek lenkams Lie-
+    tuvoje, tiek lietuviams Lenkijoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-10785
+
+- id: c-21416
+  citata_originali: |
+    Pasidalinę mažais būre­
+    liais ir nuterioję kelias Sambijos krašto sritis, lietuviai 1370 me­
+    tų vasario mėn. 17 d. (sekmadienį) prie Rudavos bažnytkaimio,
+    netoli Karaliaučiaus, vėl susirinko krūvon. Mūšis pasibaigė di­
+    deliu lietuvių pralaimėjimu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179277
+
+- id: c-31191
+  citata_originali: |
+    Pagal Dusbur­
+    gą, jiems talkos siuntę ir lietuviai, ir iki Mindaugo nužudymo yra
+    minimi (1262-63 m.) du jų žygiai į Prūsus208 *. Vienam jų vadovavo
+    «Lietuvos karaliaus sūnus Treniota» ( _Trinota_ ). Kitame žygyje,
+    talkininkaudami prūsams, lietuviai drauge su sūduviais vokiečius
+    puolė Semboje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179323
+
+- id: c-31192
+  citata_originali: |
+    Ne vien tik Romanaičiai pajuto energingo Lietuvos valdovo
+    ranką. Lietuviai vėl stipriai pradėjo pulti Livonijos kryžiuočius ir
+    ėmė ruošti, kaip niekada iki tol, į _Lenkiją_ intensyvius karo žygius.
+    Nepertraukiani lietuvių žygiai Lenkijon nusitęsė iki 1306 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179324
+
+- id: c-34225
+  citata_originali: |
+    Kai kurie
+    tyrinėtojai, išeidami iš amžių bėgyje susidariusio vienalytiško latvių
+    kalbos ploto, išnykusias kuršių, žiemgalių ir sėlių kiltis tenorėjo
+    laikyti geografinėmis sąvokomis. Latvių ten atliktas asimiliacijos
+    faktas yra aiškus, kaip aišku ir tai, kad pietines žiemgalių ir sėlių
+    sritis yra asimiliavę lietuviai.
+    Tikrieji latviai, tik naujojo geležies amžiaus pradžioje kalbiškai
+    ryškiau nuo lietuvių pradėję išsiskirti, Nestoro kronikai buvo žino­
+    mi kaip Liet’gola.
+  citata_rodoma: "Latvių ten atliktas asimiliacijos\nfaktas yra aiškus, kaip aišku ir tai, kad pietines žiemgalių ir sėlių\nsritis yra asimiliavę lietuviai.\nTikrieji latviai, tik naujojo geležies amžiaus pradžioje kalbiškai\nryškiau nuo lietuvių pradėję išsiskirti, Nestoro kronikai buvo žino­\nmi kaip Liet’gola."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179253
+    - t-179244
+
+- id: c-34226
+  citata_originali: |
+    Artimiausieji rytų kaimynai dregovičiai (Beržūnės
+    baseine) ir krivičiai (Dniepro ir Dauguvos aukštupiuose), nors
+    Kijevo Rusia 988 m. priėmė Bizantijos krikštą, gyveno dar gana
+    žemame kultūros laipsnyje. Tuo tarpu pagonys lietuviai, kaip
+    patvirtina rašytieji šaltiniai (XIII-XIV amž.) ir nepaliaujamų karų
+    eiga su Vakarų Europos civilizacijos atstovais — ordino riteriais,
+    buvo pasiekę, palyginti, aukštą kultūros laipsnį.
+    XI amž. rusų metraščiai vos du kartu tepaminėjo lietuvių ir
+    Kijevo rusų karinius konfliktus, jeigu 1040 ir 1044 m. minimi
+    Jaroslavo žygiai nereiškia tik vienos karinės ekspedicijos.
+  citata_rodoma: "Tuo tarpu pagonys lietuviai, kaip\npatvirtina rašytieji šaltiniai (XIII-XIV amž.) ir nepaliaujamų karų\neiga su Vakarų Europos civilizacijos atstovais — ordino riteriais,\nbuvo pasiekę, palyginti, aukštą kultūros laipsnį.\nXI amž."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179219
+    - t-179292
+
+- id: c-34227
+  citata_originali: |
+    Pagal Dlugošo kroniką,
+    lietuvių pasitraukimas, esą, reiškęs bėgimą^25. Šitas «bėgimas»
+    tačiau galėjo reikšti iš totorių paimtą taktiką — apsimesti bėgti,
+    kad būtų galima patraukti priešą ir suardyti jo eiles. Kronikininkas
+    Posilgė, kuris apie kryžiuočius kautynių pabaigoje rašė, jog jie,
+    esą bėgę («in der flucht geslagin »), apie lietuvius tiek tepasakė,
+    kad jie buvę atmušti^26.
+  citata_rodoma: "Šitas «bėgimas»\ntačiau galėjo reikšti iš totorių paimtą taktiką — apsimesti bėgti,\nkad būtų galima patraukti priešą ir suardyti jo eiles. Kronikininkas\nPosilgė, kuris apie kryžiuočius kautynių pabaigoje rašė, jog jie,\nesą bėgę («in der flucht geslagin »), apie lietuvius tiek tepasakė,\nkad jie buvę atmušti^26."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179332
+    - t-179335
+
+- id: c-34228
+  citata_originali: |
+    Bet tas įspūdis nepasitvirtino. Vytauto vadovaujami
+    Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų,
+    sugrįžo į kovos lauką. Nauji Lenkijos pulkai ėmė pulti ilstančią
+    kryžiuočių kariuomenę, ir jų eilės nebeatlaikė.
+  citata_rodoma: "Vytauto vadovaujami\nLietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų,\nsugrįžo į kovos lauką. Nauji Lenkijos pulkai ėmė pulti ilstančią\nkryžiuočių kariuomenę, ir jų eilės nebeatlaikė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179229
+
+- id: c-36883
+  citata_originali: |
+    Pirmutiniai žygiavo lietuviai. Kai visa kariuomenė apsistojo
+    netoli Gilgenburgo, lietuviai užpuolė tą miestelį ir jį paėmė.
+    Ordino magistras iš karto manė, kad sąjungininkai, pamatę Or­
+    dino galybę, pabėgs.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179345
+
+- id: c-36885
+  citata_originali: |
+    Lenkų ponų
+    taryba Radome davė garantiją, kaip lietuv. bajorai Vilniuj len­
+    kams, kad Vytautui nebus atimta d. Lietuvos kunigaikštija. Lie­
+    tuvių bajorų aktas leidžia jiems daryti spaudimą į Vytautą, jei
+    šis nesilaikytų unijos; taip pat lietuviai, mirus Vytautui, gauna
+    teisę dalyvauti naujo kun. elekcijoj. Lenkų bajorija turėjo tą
+    teisę seniau.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179328
+
+- id: c-162912
+  citata_originali: |
+    Jau Livonijos (Ronneburgo) analai parodė, kad Stryjkovskis
+    nebuvo tikslus šaltinių atžvilgiu. Jis neparodė ir žymesnio kritiš­
+    kumo. Kildindamas lietuvius iš romėnų, legendarinėje dalyje jis
+    padarė ypač daug papildinėjimų, pvz., surašė genealogiją atskirų
+    Lietuvos žymių šeimų, vesdamas jų pradžią iš Romos patricijų.
+  citata_rodoma: "Jis neparodė ir žymesnio kritiš­\nkumo. Kildindamas lietuvius iš romėnų, legendarinėje dalyje jis\npadarė ypač daug papildinėjimų, pvz., surašė genealogiją atskirų\nLietuvos žymių šeimų, vesdamas jų pradžią iš Romos patricijų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179252
+
+- id: c-162913
+  citata_originali: |
+    Prūsų kraštą lietuviai vadino žodžiu Prūsai, Prūsa, Prūsų žemė bei (sulotynintu) Prūsija
+    (Būga K. 1, p. 554; MPKP, 1, p. 14—15; Prūsijos valdžios gromatos..., Nr. 1 (1589
+    m.), 2 (1639 m.), 6 (1722 m.), 25 (1739 m.) ir kt.).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179218
+
+- id: c-162916
+  citata_originali: |
+    Apie tai, kaip Ragainės broliai nukovė 25 lietuvius
+
+      Po šio įvykio lietuviai taip suįžūlėjo, kad susigalvojo, patraukę švento Jono Krikštytojo
+    dieną (birželio 25) iš netoliese buvusios Aukaimio pilies apylinkių su 36 vyrais, patrikdyti
+    plėšikiškais išpuoliais Ragainės broliams ramybę. Artėdami jie metė — kaip reikalauja
+    jų papročiai — burtus, kurie jiems nežadėjo sėkmės. Dėl to tučtuojau pasuko atgal.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179295
+
+- id: c-162917
+  citata_originali: |
+    Kitą lietuvių vaidmens rusėnų visuomenėje aspektą slepia socialinė
+    ekonominė sritis. Atėję iš ryškią individualią alodinę nuosavybės struk-
+    tūrą turinčios visuomenės lietuvių bajorai ir individualiai ūkininkaujan-
+    tys valstiečiai skyrėsi nuo rytinių slavų. Pastarųjų erdvėje toliau į rytus
+    (Maskvos valstybėje, vėliau Rusijoje) ryškėjo bendruomeninė žemėvalda,
+    tačiau rusėnų žemėse, priklausiusiose Lenkijai ir Lietuvai, išplito vakarie-
+    tiška ūkininkavimo ir nuosavybės forma – alodas (individualus valstiečių
+    ūkis).
+  citata_rodoma: "Atėję iš ryškią individualią alodinę nuosavybės struk-\ntūrą turinčios visuomenės lietuvių bajorai ir individualiai ūkininkaujan-\ntys valstiečiai skyrėsi nuo rytinių slavų. Pastarųjų erdvėje toliau į rytus \n(Maskvos valstybėje, vėliau Rusijoje) ryškėjo bendruomeninė žemėvalda, \ntačiau rusėnų žemėse, priklausiusiose Lenkijai ir Lietuvai, išplito vakarie-\ntiška ūkininkavimo ir nuosavybės forma – alodas (individualus valstiečių \nūkis)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179334
+    - t-179231
+
+- id: c-162918
+  citata_originali: |
+    Lietuvoje daugybė valstybės dvarų buvo taip pat patekę į bajorijos
+    ir ponų rankas, — ypač Aleksandro laikais, nes jis juos dalino be
+    atodairos, ir todėl jiems niekas neturėjo nuosavybės dokumentų.
+    Tad ir šitam unijos projekte ir vėlesniuose ginčuose su lenkais
+    lietuviai reikalavo, kad karalius duotų garantiją, jog Lietuvoje nebū-
+    sianti vykdoma vadinamoji egzekucija.
+    Lenkai šitokiu lietuvių siūlomu projektu pasipiktino.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179259
+
+- id: c-162920
+  citata_originali: |
+    Artinosi ir kitas ne­
+    susipratimas.
+    Po Ostrovos sutarties lietuviai savo valstybę laikė visiš­
+    kai savarankišką^1 ), o lenkai, remdamiesi Krėvės unijos aktu,
+    laikė Lietuvą savo provincija. Nuomonių skirtumas ir jų paaš­
+    trėjimas iškilo tuomet, kai ėmė didėti Vytauto galybė ir sava­
+    rankiškumas.
+  citata_rodoma: "Po Ostrovos sutarties lietuviai savo valstybę laikė visiš­\nkai savarankišką^1 ), o lenkai, remdamiesi Krėvės unijos aktu,\nlaikė Lietuvą savo provincija. Nuomonių skirtumas ir jų paaš­\ntrėjimas iškilo tuomet, kai ėmė didėti Vytauto galybė ir sava­\nrankiškumas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179303
+    - t-179273
+
+- id: c-162922
+  citata_originali: |
+    Bet šis ginčas,
+    kaip matėme, pavyko taikiai likviduoti. Artinosi ir kitas ne­
+    susipratimas.
+    Po Ostrovos sutarties lietuviai savo valstybę laikė visiš­
+    kai savarankišką^1 ), o lenkai, remdamiesi Krėvės unijos aktu,
+    laikė Lietuvą savo provincija.
+  citata_rodoma: "Po Ostrovos sutarties lietuviai savo valstybę laikė visiš­\nkai savarankišką^1 ), o lenkai, remdamiesi Krėvės unijos aktu,\nlaikė Lietuvą savo provincija."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179338
+
+- id: c-162923
+  citata_originali: |
+    Iš tokio
+    trijų skirtingų kilmių gyventojų maišymosi ir samplaikos
+    radosi nauja pasienio tauta, kuri senovės geografų ilgai bu­
+    vo vadinta skyrų, herulų ir vidivarijų vardais ir tik X amžiuje
+    Lietuvos vardu tapo žinoma Europai1. Ta lietuvių tauta, išsis­
+    kyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­
+    šius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba
+    tikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos
+    iki Vyslos, o į žemyno gilumą buvo pasistūmėjusi tiesiog iki
+    Nemuno ir Būgo žiočių. Prūsai - apie jų kalbą pasakytina,
+    kad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu
+    palei Viliją gyvenę ar aukštaičiai, pasistūmėję į Rusios gilu­
+    mą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija,
+    iki pat Baltijos jūros siekianti, kaip lietuvių genties centras,
+    išsaugojo gryniausius savo padermės bruožus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179290
+
+- id: c-162924
+  citata_originali: |
+    Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai
+    Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėn-
+    raštį „Aušra“ („Auszra“). Pirmuoju redaktoriumi buvo tuomet Prahoje
+    gyvenęs, iš Užnemunės kilęs ir Maskvoje medicinos studijas baigęs, indo-
+    europiečių ir baltų senove bei lietuvių kultūra domėjęsis Jonas Basanavi-
+    čius (1851–1927). Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų
+    tautinio sąjūdžio jėgų telkimo priemone, į caro valdžią žiūrėjo iš opozicijos
+    pozicijų, kėlė reikalavimus, kad etniniams lietuviams būtų pripažintos bent
+    jau tokios pačios kultūrinės galimybės ir švietimo sąlygos, kokias Rusijos
+    imperijoje turi latviai ir estai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179344
+
+- id: c-162925
+  citata_originali: |
+    Kad geriau suvoktume kronikoje vaizduojamus Prūsijos  ir Lietuvos istorijos faktus
+    bei epochą, iš pradžių aptarsime, kaip mokslo sprendžiami prūsų ir jų artimų giminaičių
+    lietuvių kalbiniai tarpusavio santykiai, bendradarbiavimo kovoje prieš Ordino agresiją
+    klausimai.
+
+
+
+                                       Prūsai ir Lietuva
+
+       Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
+    artimai  sieja  kalbos,  kultūros,  tradicijų,  senosios  religijos bendrumas,  teritorijos
+    vientisumas.
+      Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
+    atskirų žemių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179307
+
+- id: c-162926
+  citata_originali: |
+    Tačiau tai buvo jau paskutinis smūgis, krikščioniškojo
+    Ordino riterių kirstas pagoniškai Lietuvai. Juk kai per Jogai­
+    los apsukrų laviravimą žlugo visos kryžiuočių jam daromos
+    kliūtys siekti Lenkijos sosto, 1385 metų pabaigoje Lietuvos
+    valdovas paliko savo senąją sostinę ir gausios lietuvių kuni­
+    gaikščių ir didikų svitos lydimas išvyko į Krokuvą.
+    Miesto, kurio istorijos įvykius keliame iš užmaršties, li­
+    kimas glaudžiai susijęs su viso krašto likimu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179297
+    - t-179266
+
+- id: c-162927
+  citata_originali: |
+    Senieji lietuviai neturėjo rašto ir sunku pasakyti, kokia yra tautinė be-
+    raštės visuomenės savimonė. Didieji kunigaikščiai, reikšdami teritorines
+    pretenzijas, suvokė baltų erdvės giminingumą, o Vytautas kalbos bendru-
+    mu grindė žemaičių priklausomybę Lietuvai. Antra vertus, kunigaikš-
+    čiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais,
+    kurie tapo artimosios sargybos tautomis.
+  citata_rodoma: "Didieji kunigaikščiai, reikšdami teritorines \npretenzijas, suvokė baltų erdvės giminingumą, o Vytautas kalbos bendru-\nmu grindė žemaičių priklausomybę Lietuvai. Antra vertus, kunigaikš-\nčiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais, \nkurie tapo artimosios sargybos tautomis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179235
+    - t-179238
+
+- id: c-162928
+  citata_originali: |
+    Maskvos pavojus lietuviams ne-
+    leido rinktis sau atskiro valdovo, tad noromis nenoromis jie turė-
+    davo rinktis tą patį valdovą, kurį rinkdavosi ir lenkai. Tačiau
+    dar ilgai lietuviai savo didįjį kunigaikštį rinkdavosi atskirai nuo
+    lenkų. Taip pat, nepaisydami unijos akto nuostatų, jie dar ilgai
+    šaukdavo ir savo atskirus seimus.
+  citata_rodoma: "Tačiau\ndar ilgai lietuviai savo didįjį kunigaikštį rinkdavosi atskirai nuo\nlenkų. Taip pat, nepaisydami unijos akto nuostatų, jie dar ilgai\nšaukdavo ir savo atskirus seimus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-10785
+
+- id: c-162929
+  citata_originali: |
+    Galop, kai lietuvių kariuomenė grįždama priėjo šią vietą,
+    voros priekyje žygiavęs lietuvis, metęs burtus, sušuko: „Vargas mums, nes mūsų laukia
+      530 D.— inter [...] fluvios [...] Lickam et Naram; vėliau vok. Lyck, dab. Elkas (Elk),
+    deš. Bebro intakas.
+
+    nesėkmė“. Vadas sušuko, kad jis nutiltų. Tačiau jis nesiliovė šaukęs, kol broliai, iššokę
+    su savo kariais iš pasalų, neužpuolė jų ir nenukovė 350 jų žmonių. Kiti išbėgiojo, ir kurie
+    ne kurie dykroje iš sielvarto pasikorė, o kiti ten išmirė, negaudami nei atsigerti, nei
+    pavalgyti, tik vienas kitas išsigelbėjo nuo žūties.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179286
+
+- id: c-162930
+  citata_originali: |
+    Dalis pralaimėju­
+    siųjų kartu su pačiu didžiuoju kunigaikščiu užsidarė Vise­
+    valdės pilyje, o kita dalis traukėsi nuo nugalėtojų Vilniaus
+    link. Dar tarp Verkių ir Šeškinės kalno įsiplieskė kitas įnir­
+    tingas mūšis, tačiau pajėgesni kryžiuočiai neleido lietuvių-
+    lenkų kariuomenei ilgai priešintis, o miestui reikėjo stip­
+    rios ir platų frontą rėpiančios gynybos. Tad visa lenkų įgula
+    ir dalis lietuvių pajėgų užsidarė tarp tuometinių Vilniaus
+    tvirtovių mūrų bei aptvarų27.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179317
+
+- id: c-162931
+  citata_originali: |
+    270 (263). Apie Straisbergo miesto sugriovimą 1298 metais
+
+       Tais pačiais metais, tai yra 1298 viešpaties metais, švento Mykolo dieną (rugsėjo
+    29), 140 Lietuvos vyrų taip netikėtai užpuolė Straisbergo miestą, kad ten išžudė visus
+    gyventojus ir vieną kunigą, o moteris bei vaikus paėmė į nelaisvę; visaip išniekinę kitus
+    sakramentus, vienas dar suteršė indą krikšto vandeniui laikyti, pridergdamas į jį. Ligi pat
+    dykrų juos persekiojo su daugybe brolių bei ginklanešių brolis Konradas Žakas, Kulmo
+    krašto komtūras, o pasivijęs išvadavo į nelaisvę paimtus krikščionis, o juos visus išžudė,
+    palikdamas vienui vieną gyvą, kad tas galėtų palikuonims papasakoti apie šį įvykį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179339
+
+- id: c-162932
+  citata_originali: |
+    1897 m. surašymo duomenimis, gyventojų skaičius maždaug da-
+    bartinės Lietuvos ribose (be Klaipėdos krašto) siekė apie 2,7 mln. Apie
+    1,6 mln. (58 proc.) jų buvo etniniai lietuviai (prie lietuvių save priskyrė
+    ir apie 28 proc. bajorų – tuomet bajorai sudarė 5,3 proc. visų krašto gy-
+    ventojų), 13 proc. – žydai, 10 proc. – lenkai, 15 proc. – baltarusiai, rusai ir
+    ukrainiečiai kartu sudėjus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179225
+
+- id: c-162933
+  citata_originali: |
+    Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­
+    nės kunigaikštystė, kurią maždaug tuo metu valdė kuni­
+    gaikštienė Anastazija, kaimyninė Mazovija bei artimos apy­
+    linkės1 1 . Iki to laiko sėkmės lydėti lietuviai taip suįžūlėjo, kad
+    Šv. Kryžiaus Išaukštinimo dieną, kai Prūsijos vyresnybė iš­
+    vyko į Marienburgą, į kapitulą, gausus jų pulkas užgriūna
+    tą kraštą, nužudo nuo šešių iki aštuonių tūkstančių abiejų
+    lyčių gyventojų1  arba juos išsiveda į nelaisvę iki gyvos galvos;
+    shin aiškina: dry vlihuyser, taip pat
+    Łuk.
+  citata_rodoma: "Iki to laiko sėkmės lydėti lietuviai taip suįžūlėjo, kad\nŠv. Kryžiaus Išaukštinimo dieną, kai Prūsijos vyresnybė iš­\nvyko į Marienburgą, į kapitulą, gausus jų pulkas užgriūna\ntą kraštą, nužudo nuo šešių iki aštuonių tūkstančių abiejų\nlyčių gyventojų1  arba juos išsiveda į nelaisvę iki gyvos galvos;\nshin aiškina: dry vlihuyser, taip pat\nŁuk."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179248
+    - t-179308
+
+- id: c-162935
+  citata_originali: |
+    286 (279). Apie Lubavos žemės nusiaubimą ir 15 lietuvių žūtį 1303 metais
+
+       Tais pačiais metais penkiasdešimt plėšikautojų iš Lietuvos įsibrovė į Lubavos žemę; į
+    priekį jie pasiuntė vieną vyrą, mokantį kalbėti lenkiškai, įsakę jam gerai išžvalgyti, kas
+    ten dedasi; kai jis sugrįžęs pasakė, kad niekas ten nieko nežino apie jų žygį, jie apiplėšė
+    daug kaimų, paimdami į nelaisvę ir nukaudami daugybę krikščionių. Traukdami atgal, jie
+    pasiskirstė dviem būriais, vieną pasivijo Kristburgo broliai, nukovė 15 lietuvių ir atėmė
+    iš jų 50 krikščionių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179296
+
+- id: c-162936
+  citata_originali: |
+    Apie Notangos žemės nuniokojimą ir 250 krikščionių mirtį 1299 metais
+
+      Šio magistro laikais šeši šimtai Lietuvos vyrų patraukė link Notangos; iš anksto įspėtas
+    apie šią kariuomenę, brolis Kunonas, Brandenburgo komtūras, subūrė savo valdinius
+    ir keletą dienų jos ištykojo, tačiau, kai jam įkyrėjo laukti, paleido savo žmones. Kitą
+      552 D — castri Molendini novi, Jer.— Nûwenmul, Nûwemul; vėliau vok. Neuermūhlen,
+    dab. Adažiai, pilis į šiaurės rytus nuo Rygos (Tuulse A., Die Burgen..., p. 133).
+
+    dieną netikėlių kariuomenė įsibrovė į Notangą, nusiaubė jos didžiąją dalį, degindama ir
+    plėšdama, ir nužudė bei paėmė į nelaisvę 250 krikščionių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179265
+
+- id: c-162938
+  citata_originali: |
+    Nesunku numanyti, koks buvo Vilniaus, kaip miesto,
+    pradinis kūrimasis. Palei Vilnios upę esančios gyvenvietės
+    senbuviai lietuviai, greta jų Perkūną garbinę vaidilos ir jų
+    svitai priklausę žmonės - tokia tad būsimo miesto užuomaz­
+    ga dar iki Gedimino. Kai tas galingas valdovas įsakė ant kal­
+    no sumūryti pilį ir papėdėje pastatyti medinę tvirtovę, už­
+    12
+    R a y n a 1  d u s Annal.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179311
+
+- id: c-162940
+  citata_originali: |
+    Tai reiškia:
+    „Žemaitijos žemė yra ir visada bu­
+    vo vienas ir tas pats, kaip ir Lietu­
+    vos žemė: juk ta pati kalba ir tie pa­
+    tys žmonės; tik dėl to, kad žemaičių
+    žemė yra žemesnė už Lietuvos že­
+    mę, todėl ir vadinama Szomoyth, kas
+    lietuviškai reiškia - žemesnė žemė.
+    O žemaičiai Lietuvą vadina Auxto-
+    te, tai yra aukštesnė žemė palyginus
+    su Žemaitija. Visi žemaičiai nuo se­
+    nų laikų lietuviais save vadino, bet
+    niekados - žemaičiais, ir dėl tokio ta­
+    patumo mes mūsų titule nerašome
+    Žemaitijos vardo, nes viskas yra vie­
+    na - ir žemė, ir žmonės/'
+    3
+    Kraštas, lankytas normanų piratų iš
+    Švedijos, Norvegijos ir Danijos, už­
+    ėmė visą Baltijos jūros pakrantę nuo
+    Vyslos žiočių iki pat Suomijos įlan­
+    kos ir buvo jų vadinamas A ust u rweg.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179276
+
+- id: c-162942
+  citata_originali: |
+    Su trigubai di­
+    desniu įniršiu, nešini šv. Jurgio vėliava puolė į mūšį Ordino
+    riteriai, bet, narsiai lietuvių atremti, patyrę didelių nuosto­
+    lių, turėjo grįžti prie likusių karių. Tačiau mūšio metu į me­
+    dinius miesto namus mestas deglas sukėlė didžiulį gaisrą,
+    per kurį didelę Vilniaus dalį pasiglemžė ugnis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179298
+
+- id: c-162943
+  citata_originali: |
+    Apie Sembos žemės nusiaubimą
+
+      Šio magistro brolio Mangoldo vadovavimo metais sūduviai, be galo brolių kamuojami
+    mūsų aprašytais ir neaprašytais smūgiais, didžiai krimtosi ir degė prieš juos neapsakomu
+    įtūžiu, todėl pradėjo tartis, kaip būtų galima atkeršyti už šitokią priespaudą, tačiau patys
+    vieni nieko nestengdami, pasitelkė į pagalbą lietuvius ir smarkiai užpuolė Sembos žemę497.
+    Broliai iš anksto buvo pasirengę tam antpuoliui. Dėl to šie nieko kita čia negalėjo daryti,
+    tik dešimt dienų žygiuoti nuo vienos šios žemės ribos iki kitos ir deginti sodybas bei visa
+    kita, kas buvo už pilių ir įtvirtinimų [sienų]; jie sugrįžo namo, netekę tik 5 savo karių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179309
+
+- id: c-162944
+  citata_originali: |
+    Istorikai nurodo, kad Vy­
+    tautas turėjo tris žmonas^1 ). Trečios žmonos vardas buvęs Ju­
+    lijona.
+    Vytautas brendo audringu Lietuvos valstybės laikotarpiu,
+    kada jo tėvas, gindamas Žemaitijos bei lietuvių laisvę, negalėjo
+    išleisti ginklo iš rankų, nes du galingi priešai, kardininkai iš
+    šiaurės ir kryžiuočiai iš žiemos vakarų pusės, tuo laiku ypač
+    smarkiai puldavo Lietuvą.
+  citata_rodoma: "Vytautas brendo audringu Lietuvos valstybės laikotarpiu,\nkada jo tėvas, gindamas Žemaitijos bei lietuvių laisvę, negalėjo\nišleisti ginklo iš rankų, nes du galingi priešai, kardininkai iš\nšiaurės ir kryžiuočiai iš žiemos vakarų pusės, tuo laiku ypač\nsmarkiai puldavo Lietuvą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179277
+
+- id: c-162946
+  citata_originali: |
+    Salzbachą su keliais tūkstančiais kariuomenės;
+    prisijungė prie Vytauto su savo pulkais ir Tochtamyšas. Tuo
+    būdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­
+    čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama
+    kariuomenė buvo internacionalinė. Pačių Lietuvos ir Rusijos
+    kunigaikščių joje buvo per penkiasdešimt.
+  citata_rodoma: "Tuo\nbūdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­\nčiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama\nkariuomenė buvo internacionalinė. Pačių Lietuvos ir Rusijos\nkunigaikščių joje buvo per penkiasdešimt."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179314
+    - t-179274
+
+- id: c-162947
+  citata_originali: |
+    Lietuviai kūrė ateities planus nuo Lietuvos autonomijos iki LDK
+    atkūrimo, netgi iki senosios Lenkijos ir Lietuvos Valstybės – Abiejų Tau-
+    tų Respublikos restauracijos, tačiau tokia turėjo esminį trūkumą – nega-
+    rantavo Lietuvos nepriklausomybės. Kadangi lietuvių lyderiai privalėjo
+    konformistiškai sietis su Vokietijos interesais, tai provokavo konfliktą
+    ne tik su lenkais, bet ir tarp pačių lietuvių. Kai 1916 m. birželį Lozanos
+    pavergtųjų tautų kongrese lietuviai pirmąkart išsakė tikslą paskelbti savo
+    šalies nepriklausomybę, karinė vokiečių valdžia neleido daug spekuliuoti
+    šia tema.
+  citata_rodoma: "Kadangi lietuvių lyderiai privalėjo \nkonformistiškai sietis su Vokietijos interesais, tai provokavo konfliktą \nne tik su lenkais, bet ir tarp pačių lietuvių. Kai 1916 m. birželį Lozanos \npavergtųjų tautų kongrese lietuviai pirmąkart išsakė tikslą paskelbti savo \nšalies nepriklausomybę, karinė vokiečių valdžia neleido daug spekuliuoti \nšia tema."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179294
+
+- id: c-162949
+  citata_originali: |
+    Minimi ne tik bendri valdovai, bet ir Lietuvos didysis kuni-
+    gaikštis Vytautas ir jo privilegijos Lietuvos bajorams.
+    Priėmus Gegužės trečiosios konstituciją prasidėjusiose diskusijose
+    Lietuvos atstovai konstituciją manė esant savo nuolaida valstybės stipri-
+    nimo vardan (už konstituciją balsavo 30 iš 50 LDK seimūnų). Gegužės
+    16 dieną buvo priimtas įstatymas dėl kiekvieno trečio seimo Gardine
+
+    L I E T U V O S  I S T O R I J A
+    92
+    ir atskirų Lietuvos atstovų sesijų, o birželio 24-ąją grįžta prie istorinių
+    Karūnos ir LDK terminų, Abiejų Tautų Respublikos sąvoka atsiranda
+    komisijų įvardijimuose, atskirai vyksta kodifikacijos darbai.
+  citata_rodoma: "Priėmus Gegužės trečiosios konstituciją prasidėjusiose diskusijose \nLietuvos atstovai konstituciją manė esant savo nuolaida valstybės stipri-\nnimo vardan (už konstituciją balsavo 30 iš 50 LDK seimūnų). Gegužės \n16 dieną buvo priimtas įstatymas dėl kiekvieno trečio seimo Gardine\n\nL I E T U V O S  I S T O R I J A\n92\nir atskirų Lietuvos atstovų sesijų, o birželio 24-ąją grįžta prie istorinių \nKarūnos ir LDK terminų, Abiejų Tautų Respublikos sąvoka atsiranda \nkomisijų įvardijimuose, atskirai vyksta kodifikacijos darbai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179269
+
+- id: c-162950
+  citata_originali: |
+    Čia tuo metu
+    lyg tyčia nelaimingas Jadvygos laiškas, sujaudinęs jį ir jo ba­
+    joriją, dar labiau vertė susiartinti su Ordinu. Lietuviams, lais­
+    viems nuo senų senovės, mokėti kam nors mokesčius ir tuo pri­
+    pažinti savo priklausomybę, ir tai tada, kai prieš Lietuvos galy­
+    bę drebėjo visos aplinkinės tautos, viso to buvo perdaug! Už­
+    tat nenuostabu, kad tada pasklido gandai, esą Vytautas rengia­
+    si į karą prieš lenkus ar prieš totorius.
+  citata_rodoma: "Lietuviams, lais­\nviems nuo senų senovės, mokėti kam nors mokesčius ir tuo pri­\npažinti savo priklausomybę, ir tai tada, kai prieš Lietuvos galy­\nbę drebėjo visos aplinkinės tautos, viso to buvo perdaug! Už­\ntat nenuostabu, kad tada pasklido gandai, esą Vytautas rengia­\nsi į karą prieš lenkus ar prieš totorius."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179233
+    - t-179221
+
+- id: c-162954
+  citata_originali: |
+    Tuo metu stipri prūsų, sūduvių ir lietuvių kariuomenė įsibrovė į Sembos žemę; lietuviai
+    su viena apgulos mašina vienoje pusėje, likusieji su antra — kitoje pusėje aštuonias
+    dienas laikė apsupę Vėluvos pilį, kasdien ją puldami. Galop vieną dieną visi pakilo  į
+    kovą, lankininkai [šaudė] strėles, apgulos mašinos [mėtė] akmenis, kiti nešė malkų
+    bei šiaudų piliai padegti, o likusieji dar kitais būdais kamavo apsuptuosius. Henrikas
+    Tupadelis, kuris vėliau tapo Teutonų ordino broliu, puikus karys ir įgudęs balistininkas,
+    ragino apsuptuosius gintis ir drauge su jais daug kartų gesino degalus, [pakišamus]
+    piliai padegti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179257
+    - t-194327
+
+- id: c-162955
+  citata_originali: |
+    Dar apie tą patį: apie aštuonių šimtų lietuvių žūtį
+
+       Neilgai trukus aštuoni šimtai Lietuvos raitelių nuniokojo 10 kaimų toje Lenkijos žemės
+    dalyje, kuri vadinama Kersovu,  ir, išžudę daugybę krikščionių, pasitraukė su dideliu
+    grobiu. Tuo metu, kai šitai dėjosi, pamaldusis Lešekas, Krokuvos kunigaikštis491, subūręs
+    daugybę tūkstančių vyrų, užkopė į vieną kalvą ir pasakė: „Kas nejaučia baimės, tegu tas
+    kopia pas mane, idant šiandien galėtume atkeršyti už nukryžiuotojo kančias”. Trumpai
+    drūtai kalbant, jis nelyginant Gedeonas iš daugybės karių tepasiėmė 300 vyrų, su kuriais
+    stojo į kovą ir drąsiai puolė priešus, pasikliaudamas gailestingumu dievo, kuris neapleidžia
+    nė vieno žmogaus, juo įtikėjusio; pirmiausia išvadavęs nelaisvėn paimtuosius krikščionis,
+    smogė tikėjimo priešams tokį smūgį, kad iš aštuonių šimtų vyrų vos dešimčiai pavyko
+    pasprukti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179239
+    - t-179220
+
+- id: c-162956
+  citata_originali: |
+    Tas valdovas po pergalingų žygių, tikriausiai todėl, kad
+    kryžiuočiai tolydžio artinosi, nuo Rytų atsigręžė į Vakarus
+    ir į juos nukreipė savo kruviną kardą. Kol vokiečių kariau­
+    na dar delsė stovyklaudama Žemaitijoje, galingas lietuvių
+    pulkas įsiveržė į Livoniją ir pirmiausia ugnimi bei kardu
+    nusiaubė Dorpato vyskupiją; daugiau kaip penki tūkstan­
+    čiai krikščionių buvo per tą antpuolį užmušta ar į nelaisvę
+    išsivesta3. Vėliau tarp kryžiuočių buvo įsigalėjusi visuotinė
+    nuomonė, esą kupinas senos neapykantos Rygos arkivys­
+    kupas Fridrichas atsikvietęs priešą į šalį; bent jau neabejoti­
+    nas dalykas, jog Gediminas nuo to laiko su arkivyskupu bu­
+    vo susimokęs ir veikė jo patarimų ir planų paisydamas1 5 .
+  citata_rodoma: "Kol vokiečių kariau­\nna dar delsė stovyklaudama Žemaitijoje, galingas lietuvių\npulkas įsiveržė į Livoniją ir pirmiausia ugnimi bei kardu\nnusiaubė Dorpato vyskupiją; daugiau kaip penki tūkstan­\nčiai krikščionių buvo per tą antpuolį užmušta ar į nelaisvę\nišsivesta3. Vėliau tarp kryžiuočių buvo įsigalėjusi visuotinė\nnuomonė, esą kupinas senos neapykantos Rygos arkivys­\nkupas Fridrichas atsikvietęs priešą į šalį; bent jau neabejoti­\nnas dalykas, jog Gediminas nuo to laiko su arkivyskupu bu­\nvo susimokęs ir veikė jo patarimų ir planų paisydamas1 5 ."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179287
+    - t-179223
+
+- id: c-162958
+  citata_originali: |
+    Apie Paštuvos ir Gaižuvos valsčių apiplėšimą
+
+      Tuo metu  brolis Meinhardas, magistras, nesitenkindamas lietuviams  pridarytais
+    nuostoliais, su šimtu brolių ir galybe raitelių įsiveržė į Gaižuvos535 ir Paštuvos536 valsčius,
+    viską čia didžiausiais gaisrais niokodamas, tiesa,  į nelaisvę paėmė ir nužudė nedaug
+    žmonių, o grobio irgi mažai išsigabeno. Begrįžtantį jį persekiojo lietuviai ir kelis kartus
+    kapo esantis Pilies (Ramybės) kalnas (atrodo, XV a. pradžioje jame buvusi atstatyta
+    Veliuonos pilis — LAA, 2, p. 179, Nr. 805). Žemutinis papilys — ovali kalvelė, išlikusi  į
+    rytus nuo Gedimino kapo, matyt, anksčiau jam priklausė didesnė papėdės teritorija.
+      534 D. — castrum Mederabam, Jer.— bure zu Mederabe; Medraba (SZM, p. 223). Iš
+    piliakalnių išsidėstymo  į vak. nuo Dubysos situacijos, pateiktos kronikoje, atrodo, kad
+    Medrabos pilis galėjusi būti Meškininkų piliakalnyje (Jurbarko rj.), esančiame  į šiaurės
+    vakarus nuo Jurbarko kair. Mituvos krante (LAA, 2, p. 107—108).
+      Neįtikimas atrodo bandymas tapatinti šią pilį su Nadrowsie, t. y. Nadrausve Vilkaviškio
+    rj. (Łowmiański H., Studia 2 p. 41).
+      535 D.— Gesovie, Jer.— Geisow, Gaižuva (SZM, p. 214, 215),  į rytus nuo Dubysos
+    žiočių,  į šiaurės vakarus nuo Vilkijos. Čia išliko Ringovės (prie Nemuno) ir Butvilonių
+    piliakalniai (LAA, 2, Nr. 635, 120).
+      536 D. — Pastovie, Jer.— Pastow. Paštuvos valsčius buvo deš. Nemuno krante žemiau
+    Nevėžio žiočių; pavadinimą išsaugojo to pat vardo kaimas tarp Kulautuvos ir Vilkijos.
+    Valsčiaus centras — Paštuvos (Vilkijos) pilis (D. III, 347; Zajączkowski S., Studya..., p.
+    40—41; SZM, p. 229), ji buvusi Jaučakių piliakalnyje į rytus nuo Vilkijos (LAA, 2, p. 72;
+    Makarevičius A., Vilkijos..., p. 62).
+
+    užpuolė. Šioje kovoje Jazbutas, kadaise draugas, o dabar priešas, užpuolė brolį Henriką
+    Cutsvertą ir sužeidė jam žirgą, todėl brolis Henrikas įniršo ir jį perdūrė ietimi. Vis dėlto
+    Jazbutas, suvokdamas, jog artėja neišvengiama mirtis, kirto, negalėdamas atsisukti,
+    kalaviju atgalia ranka, broliui Henrikui nunešdamas pirštą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179305
+
+- id: c-162959
+  citata_originali: |
+    Taip įvairiakilmė ponija formavo bendros savimonės „lietuvių
+    nacijos“ ponų sluoksnį. Tokie žmonės pagal kilmę buvo rusėnai, pagal
+    tikėjimą – graikai katalikai, pagal politinę savimonę – lietuviai, o kalbėjo
+    lenkiškai.
+
+    Lietuvos ir Lenkijos kariuomenė, vadovaujama Konstantino
+    Ostrogiškio, 1514 m. rugsėjo 8 d. sutriuškina Maskvos kariuomenę
+    prie Oršos
+  citata_rodoma: "Taip įvairiakilmė ponija formavo bendros savimonės „lietuvių \nnacijos“ ponų sluoksnį. Tokie žmonės pagal kilmę buvo rusėnai, pagal \ntikėjimą – graikai katalikai, pagal politinę savimonę – lietuviai, o kalbėjo \nlenkiškai.\n\nLietuvos ir Lenkijos kariuomenė, vadovaujama Konstantino \nOstrogiškio, 1514 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179279
+
+- id: c-162962
+  citata_originali: |
+    Nepriklausomybės metais aiškiai nubrėžti Lietuvos valstybės kontūrai
+    ir nusakytas tautinių vertybių turinys. Lietuvos jaunoji karta, augusi ir
+    gimusi laisvoje Lietuvoje, šalies suverenumą laikė didžiausiu prioritetu,
+    jai buvo savaime suprantama, kad pati nacija tvarko savo ekonominį, kul-
+    tūrinį ir politinį gyvenimą, nors jis ir nebuvo be trūkumų (anot vieno to
+    meto gimnazisto – jo svajonė buvo išvaduoti iš lenkų Vilnių ir nuversti
+    A. Smetoną). Lietuvos gimnazistai, studentai, kariškiai ir jaunieji ūkinin-
+    kai gyvai reagavo į grėsmes iš užsienio, reikšdami aiškų ryžtą ginti tėvy-
+    nę, jeigu to prireiktų.
+  citata_rodoma: "Lietuvos jaunoji karta, augusi ir \ngimusi laisvoje Lietuvoje, šalies suverenumą laikė didžiausiu prioritetu, \njai buvo savaime suprantama, kad pati nacija tvarko savo ekonominį, kul-\ntūrinį ir politinį gyvenimą, nors jis ir nebuvo be trūkumų (anot vieno to \nmeto gimnazisto – jo svajonė buvo išvaduoti iš lenkų Vilnių ir nuversti \nA. Smetoną). Lietuvos gimnazistai, studentai, kariškiai ir jaunieji ūkinin-\nkai gyvai reagavo į grėsmes iš užsienio, reikšdami aiškų ryžtą ginti tėvy-\nnę, jeigu to prireiktų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179232
+
+- id: c-162963
+  citata_originali: |
+    kelią, užpuldavo juos ir sumušdavo, daugybę išžudydamas, o kitus išsklaidydamas; jis tiek
+    kartų šitai padarė ir tiek jų išžudė, kad sūduviai daugiau nebedrįsdavo rodytis be didesnės
+    kariuomenės. Įniršęs dėl tokio savo žmonių pralaimėjimo  ir tokių didelių nuostolių,
+    patirtų Kulmo žemėje, Skomantas, sūduvių vadas, su 4 tūkstančiais savo gentainių ir
+    stipria lietuvių kariuomene spalio 21 dieną įsiveržė į Kulmo žemę 11 tūkstančių mergelių
+    dieną481, pasiryžęs visokeriopai atkeršyti už savųjų žūtį. Iš pradžių jie smarkiai užpuolė
+    vieno vasalo pilį, vardu Plovista482, buvusią Osos upės pakrantėje; būtų ją sugriovę,
+    jeigu galop nebūtų susitarę su pilėnais, kad šie jiems duosią du patyrusius vyrus, kurie
+    netikėlių kariuomenę nuvesią į krikščionių žemes ir iš jų parvesią, šitaip jie išvengė žūties.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179313
+
+- id: c-162964
+  citata_originali: |
+    Apie Junigedos pilies pastatymą ir Medrabos pilies sunaikinimą
+
+       Tais pačiais metais per velykas lietuviai pastatė Junigedos valsčiuje  pilį533, kurią
+
+      531  Žr. D. III, 227.
+      532 D.— territorium Junigede, Jer — genant zu Junigêdin; valsčius  ir  pilis  (žr.
+    paaiškinimus D. III, 244, 1); vėliau, kitose kronikose, jau Veliuona (Zajączkowski S.,
+    Studya..., p. 38— 39). Dusburgietis, matyt, valsčiaus vardu vadinęs ir jo centrą, t. y.
+    Veliuoną (SZM, p. 215—216, 239—241), įsikūrusį deš. Nemuno krante prie Veliuonos
+    upelio.
+      533 Junigedos, Junigėdos (Veliuonos)  pilis greičiausiai buvo rytiniame Veliuonos
+    piliakalnyje, kuris vadinamas Gedimino kapu (LAA, 2, p. 179, Nr. 804). Prie pilies buvo du
+    papiliai — ant kalno ir slėnyje (D. III, 252). Pirmajam priklausė į vakarus nuo Gedimino
+
+    pavadino tuo pačiu vardu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179310
+
+- id: c-162966
+  citata_originali: |
+    Gynėjai iškėlė vėliavas su kryžiais, kaip
+    ženklą, esą su pagonimis kovojantys, mat žemaičių ir lietu­
+    vių, dar nepakrikštytų, begalė buvo Vytauto gretose, nes prie
+    lio skundų ir ginčų tarp Jogailos ir
+    Ordino priežastis; pastarasis smar­
+    kiai gynėsi, atremdamas priekaištus,
+    esą skriaudos jam tuo daromos, va­
+    dindamas juos melagingais prasi­
+    manymais, žeidžiančiais Ordiną. Tą
+    liudija Ordino pareigūno vienas laiš­
+    kas (įdėtas F o i g t o, V, 546) Lenki­
+    jos karalienei 1391 metų pradžioje,
+    kuriame taip pasakyta: „Iš jūsų laiš­
+    ko mums aišku, kad Jūsų Karališko­
+    sios Didenybės vadai, kurie dalyva­
+    vo įvykiuose prie Vilniaus, praneša
+    Jums apie Karigailos, turinčio krikš­
+    čionišką Kazimiero vardą, nukirsdi-
+    uimą; atsakome: kas J. K. Didenybei
+    taip kalbėjo, nežinojo ir nežino, kaip
+    buvo iš tikrųjų. Kadangi girdėjome
+    iš vyriausiojo maršalo ir iš kitų gar­
+    bingų žmonių, ponų riterių, ginkla­
+    nešių, jog kunigaikštis Karigaila, ka­
+    reivių neatpažintas buvęs nukautas,
+    ir kad tik penktą dieną iš lietuvių,
+    pabėgusių iš Aukštutinės pilies, bu­
+    vo sužinota, jog kunigaikštis žuvęs/'
+    Visi tuometiniai kryžiuočių prane­
+    šimai panašiai užginčija, kad Kari-
+    gailalauvęs nukirsdintas. Vėliau pa­
+    stebėsime Vytautą savo fundacijose
+    Vilniaus kapitulai dideles dovanas
+    aukojant už to kunigaikščio vėlę.
+    Daniłowicz Latopisiec Litezv., p. 45
+    primena, kad lenkų įgula, įsitvirti­
+    nusi Aukštutinėje pilyje, kunigaikš­
+    čio Karigailos į ją neįsileido, o- apie
+    jo mirtį visai nutyli.
+    —  •  —
+    125
+
+    ## Puslapis 142
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    jo jie visa širdimi linko, nes jis buvo Birutės, jų žemietės, sū­
+    nus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179346
+
+- id: c-162967
+  citata_originali: |
+    Grįžkime dar prie vieno kovos epizodo ir paskui vėl kalbė­
+    sime apie tolimesnį priešo vijimą.
+    Pabėgusios lietuvių kariuomenės sugrįžimas ir stojimas mūšin
+    tuo momentu, kai jau laimė sviro kryžiuočių pusėn, yra nepa­
+    prastas karo taktikos reiškinys. Nepaprastas iš vienos pusės
+    tuo, kad lietuviai taip greitai sugrįžo, o iš kitos pusės, kad sugrį­
+    žo kaip tik laiku.
+  citata_rodoma: "Pabėgusios lietuvių kariuomenės sugrįžimas ir stojimas mūšin\ntuo momentu, kai jau laimė sviro kryžiuočių pusėn, yra nepa­\nprastas karo taktikos reiškinys. Nepaprastas iš vienos pusės\ntuo, kad lietuviai taip greitai sugrįžo, o iš kitos pusės, kad sugrį­\nžo kaip tik laiku."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179230
+    - t-179275
+
+- id: c-162968
+  citata_originali: |
+    Pukuveras, Lietuvos karalius, tais pačiais metais pasiuntė savo sūnų Vytenį538 su didele
+    kariuomene  į Lenkiją,  į Bresto žemę539; kai jie ten pridarė daug žalos, galybę žmonių
+    nukovę bei paėmę  į nelaisvę, išdeginę bei išgrobstę, Kazimieras bei Lokietka, Lenkijos
+    kunigaikščiai, nerimaudami dėl savo žmonių likimo, paprašė brolį Meinhardą, Prūsijos
+    magistrą, pagalbos. Kai šis atvyko su didele kariuomene ir užpuolė netikėlius, minėtieji
+    kunigaikščiai pasileido bėgti su visais savo lenkais. Sitai matydami, broliai nusigando ir,
+    neturėdami jėgų atsispirti tokiai daugybei priešų, irgi pasitraukė, tiesa, patyrę nemažų
+    nuostolių, nes daug brolių bei kitų krikščionių buvo sunkiai sužeista anksčiau, nei jiems
+    pavyko garbingai išvengti kovos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179299
+    - t-179260
+    - t-194330
+
+- id: c-162969
+  citata_originali: |
+    Tad ir tautinė lietuvių kultūra būtų buvusi labiau išsaugota.
+    Mindaugas lietuvių tautoje yra atlikęs svarbių uždavinių. Nuo
+    XIII amž. pradžios iš bendros pirmatako valdžios atsipalaidavusias
+    ir savaranniškomis tapusias smulkias Lietuvos, ypač Aukštaitijos,
+    kunigaikštijas jis apjungė vienoje valdžioje.
+  citata_rodoma: "Mindaugas lietuvių tautoje yra atlikęs svarbių uždavinių. Nuo\nXIII amž. pradžios iš bendros pirmatako valdžios atsipalaidavusias\nir savaranniškomis tapusias smulkias Lietuvos, ypač Aukštaitijos,\nkunigaikštijas jis apjungė vienoje valdžioje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179280
+
+- id: c-162971
+  citata_originali: |
+    Dėl šitų mirusiųjų nutikdavo tokių velniškų
+    patyčių, kad štai, mirusiojo tėvams nuėjus pas minėtąjį popiežių — krivį ir paklausus,
+    ar tokią ir tokią dieną bei tokią ir tokią naktį jis nesąs matęs ko einant į jų namus, tas
+    nedvejodamas pasakydavo, kokie buvo mirusiojo drabužiai, ginklai210, žirgai bei šeimyna,
+    be to, siekdamas didesnio įtikinamumo, pridurdavo, jog, girdi, jo namų durų staktoje
+    numirėlis esąs palikęs vienokią ar kitokią žymę ietimi ar kitu kokiu įrankiu. Po pergalės jie
+    aukoja savo dievams padėkos auką iš viso grobio, pergalingoje kovoje laimėto, trečdalį
+    atiduodami minėtajam kriviui, kuris tą dalį degino. Šiuo metu lietuviai ir kiti tose žemėse
+    gyvenantys netikėliai tą auką degina toje ar kitoje vietoje, kurią jie laiko šventąja, bet,
+    prieš degindami arklius, taip juos nuvaro nuo kojų bevaikydami, kad šie vos begali
+    pastovėti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179220
+
+- id: c-162972
+  citata_originali: |
+    apeiti Vilniaus temą. Lietuviai federacijos
+    principo vengė logiškai manydami, kaip čia 2 milijonams lietuvių nepa-
+    skendus 28 milijonų lenkų jūroje, tačiau derėtis sutiko, jeigu tik Varšuva
+    pripažins Lietuvą su sostine Vilniumi.
+
+    L I E T U V O S  I S T O R I J A
+    146
+    Per tris savaites P.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179271
+
+- id: c-162973
+  citata_originali: |
+    Tuo tarpu atvyko kuršiai, nuolankiai prašydami,
+    kad, dievui padėjus krikščionims laimėti, jiems būtų sugrąžintos jų moterys ir vaikai.
+    Nors broliai buvo linkę jų prašymą patenkinti, pasipriešino tam kiti Prūsijos ir Livonijos
+    žmonės, tvirtindami, kad su jų belaisviais bus pasielgta taip, kaip reikalauja elgtis
+    visiems žinomi karo papročiai. Išgirdę tokį sprendimą, kuršiai taip įtūžo ant tikėjimo
+    ir tikinčiųjų, kad, broliams pradėjus pulti lietuvius, jie nelyginant tikri atskalūnai iš
+    užpakalio nirtulingai užgriuvo krikščionis; lietuviams puolant iš priekio, o kuršiams iš
+    užpakalio348, beveik visi abiejų žemių žmonės pasitraukė, palikdami čia brolius ir jiems
+    ištikimus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179295
+
+- id: c-162974
+  citata_originali: |
+    Lietuviai ir lenkai, norėdami
+    labiau nukreipti nuo savęs dėmesį, įsakė savo kariuomenių bū­
+    riams daryti puolimus. Tuo metu ir įvyko lietuvių puolimas iš
+    Žemaičių, o lenkų — netoli Sviečės.
+    Į Červinską atvyko iš kryžiuočių pusės vengrų pasiuntiniai
+    klausti Jogailos, kur ir kada būtų galima pradėti taikos dery­
+    bas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179272
+    - t-179330
+
+- id: c-162977
+  citata_originali: |
+    Bizantijos šaltiniai apie jokį lietuvių taikumą ne-
+    užsimena – atvirkščiai, kalba apie „narsią ir karingą tautą“. Net dinastinės
+    vedybos vykdavo tiesioginiu kariniu spaudimu.
+    Lietuviai veikiausiai buvo tokie pat imperialistai kaip ir kiti, tik, užgro-
+    bę svetimą kraštą, „nespausdavo“, t. y. iš pradžių nekeisdavo susiklosčiu-
+    sios tvarkos.
+  citata_rodoma: "Lietuviai veikiausiai buvo tokie pat imperialistai kaip ir kiti, tik, užgro-\nbę svetimą kraštą, „nespausdavo“, t. y. iš pradžių nekeisdavo susiklosčiu-\nsios tvarkos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179348
+    - t-179270
+
+- id: c-162980
+  citata_originali: |
+    Item terras po­
+    nunt desertas, ut patet in Samigallia et in aliis multis. Sed
+    dicunt, quod faciunt propterea ut ohristianos defendant. Pater
+    84
+
+    ## Puslapis 101
+
+    I  KNYGA
+    Didžiai prakilniam tėvui viešpačiui Jonui, Romos sosto
+    aukščiausiajam kunigui, Gediminas, lietuvių ir daugelio rusų
+    ir 1.1, karalius.
+  citata_rodoma: "Sed \ndicunt, quod faciunt propterea ut ohristianos defendant. Pater\n84\n\n## Puslapis 101\n\nI  KNYGA\nDidžiai prakilniam tėvui viešpačiui Jonui, Romos sosto \naukščiausiajam kunigui, Gediminas, lietuvių ir daugelio rusų \nir 1.1, karalius."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179333
+
+- id: c-162981
+  citata_originali: |
+    Konferencijoje dominavo
+    kunigai – 66, valstiečiai – 65 ir inteligentai – 59.
+    Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos
+    valstybės modelio kontūrus – „nepriklausoma demokratiškai sutvarkyta
+    valstybė etnografinėmis ribomis su būtinai reikalingomis ekonominiam
+    gyvenimui korektyvomis“, kurios galutinę struktūrą turės nustatyti „su-
+    šauktas Steigiamasis Lietuvos Seimas Vilniuje, demokratiškai visų jos
+    gyventojų išrinktas“, užtikrintos kultūrinės teisės tautinėms mažumoms.
+    Jeigu Vokietija sutiktų pripažinti Lietuvos valstybę prieš Taikos konfe-
+    renciją, nustatyti tam tikrus, dar tikslintinus santykius su Vokietija, jeigu
+    tai nekenktų Lietuvos interesams, nes Lietuvos interesai „yra pasvirę ne
+    tiek į rytus /Rusiją/ ir ne tiek į pietus /Lenkiją/, kiek į vakarus /Vokieti-
+    ją/“.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179217
+
+- id: c-162982
+  citata_originali: |
+    Šiandien mokslininkai, remdamiesi prielaida, kad Lie-
+    tuvos vardas turi būti išvestas iš etnonimo „lietuvis“, atkreipė dėmesį į
+    vietovardžius su šaknimis „leit-“ ir „liet-“ už Lietuvos ribų. Grindžiama
+    mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
+    valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat
+    žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš
+    Lietuvos. Šie žmonės aplinkinių buvo vadinami „leičiais“ (latviai iki šiol
+    vadina lietuvius „leišiais“), o gal ir „liečiais“.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179306
+
+- id: c-162983
+  citata_originali: |
+    Lenkijos kariuomenė susirinko į Volbožą ir iš ten į Červin­
+    ską išvyko birželio mėn. 26 d. Birželio m. 30 d. jau buvo atvy­
+    kusi vieton ir ruošėsi keltis per Vislą. Lietuvos kariuomenė
+    pradėjo rinktis gegužės mėn. pabaigoj ar birželio mėn.
+    pradžioj; rinkosi, tur būt, Trakuose ar Gardine.
+  citata_rodoma: "Lietuvos kariuomenė\npradėjo rinktis gegužės mėn. pabaigoj ar birželio mėn.\npradžioj; rinkosi, tur būt, Trakuose ar Gardine."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179227
+    - t-179343
+
+- id: c-162984
+  citata_originali: |
+    Tuo
+    pačiu metu Ordino jėgos, kaip anksčiau minėjome, buvo iš­
+    sklaidytos visuose pasieniuose. Lietuviai ir lenkai, norėdami
+    labiau nukreipti nuo savęs dėmesį, įsakė savo kariuomenių bū­
+    riams daryti puolimus. Tuo metu ir įvyko lietuvių puolimas iš
+    Žemaičių, o lenkų — netoli Sviečės.
+  citata_rodoma: "Tuo metu ir įvyko lietuvių puolimas iš\nŽemaičių, o lenkų — netoli Sviečės."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179277
+    - t-179338
+    - t-010
+
+- id: c-162986
+  citata_originali: |
+    O
+    šeštosios dienos rytą buvo pradėtas pagrindinis puolimas iš
+    visų pusių, sukaupus visas jėgas. Svetimšalių ataka buvo
+    smarki, tačiau ir lietuvių gynyba iš pradžių ne mažiau nar­
+    si; paskui ūmai keliose vietose nežinia kaip prasiveržė lieps­
+    na Žemutinėje pilyje ir pagavo medinius statinius, aptva­
+    rus, užkardas. Ar išdaviko, ar priešo sumaniai padegta ugnis
+    staiga apėmė Krautuvių pilį ir likusią Kreivosios dalį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179240
+
+- id: c-162988
+  citata_originali: |
+    204 Romovė resp. Romuva (D. Romow, Jer.— Rômowe), Romava, pasak Dusburgiečio,—
+    prūsų, lietuvių ir kitų baltų religinio kulto centras.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179318
+
+- id: c-162990
+  citata_originali: |
+    216 (211). Apie naujos pilies pastatymą Sūriosios jūros pakrantėje, Sembos žemėje,
+                                       Kuršių nerijoje
+
+       Brolis  Konradas,  magistras,  išmintingas  ir  apdairus  vyras, suprasdamas,  kad,
+    braudamiesi per neriją tuo slaptuoju keliu, netikėliai gali pridaryti daug nuostolių bei žalos
+    broliams bei Sembos žemei, pastatydino nerijoje, sūriosios jūros pakrantėje, stiprią pilį,
+    kuri buvo vadinama Noihauzu511, kad lietuviai negalėtų netikėtai veržtis į Sembos žemę.
+
+
+
+
+    217 (212).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179327
+    - t-179220
+
+- id: c-162994
+  citata_originali: |
+    Apie Ragainės pilies užpuolimą
+
+      1315 viešpaties metais, apie žolinę (rugpjūčio 15), lietuviai iš Žemaitijos574 slaptai ir
+    netikėtai atžygiavo su visa savo kariuomene prie Ragainės pilies ir ją užpuolė. Broliai
+    jiems bandė pastoti kelią, tačiau noromis nenoromis turėjo pasitraukti, nes nepajėgė
+    atsispirti tokiai daugybei, be to, patyrė ir nuostolių, kadangi netikėliai ten nukovė brolį
+    Joną, vadinamą Pope, o daug kitų sužeidė. Galop lietuviai, nieko nepešę iš šio antpuolio,
+    pasitraukė, ištrypę ir sunaikinę abiejų pilių, būtent: Skalvių ir Ragainės, laukuose visus
+    pasėlius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179299
+
+- id: c-162995
+  citata_originali: |
+    Apie šio laivo sudeginimą 1313 metais
+
+      Pasklidus apie šį laivą garsui, smarkiai susirūpino lietuvių karalius, o su juo ir visa
+    Lietuva; ilgai taręsi  ir visaip svarstę, kaip  jį sunaikinti, galop pasiuntė kilmingą bei
+    karingą vyrą Surminą su šimtu laivų, kuriuose buvo šeši šimtai ar daugiau vyrų, ir šimtą
+    raitelių; kai jie užpuolė laivą, jame buvę 4 šauliai, palikti jo saugoti, pradėjo drąsiai
+    gintis. Galop, nukirtus virvę, kuria buvo pririštas, laivas nuplaukė Nemunu žemyn; jį,
+    pasroviui plaukiantį, lietuviai taip smarkiai užpuolė, kad, nors ir daug jų buvo sužeista,
+    o Skaldonis, minėtojo Surmino brolis, užmuštas, paėmė laivą ir, nužudę 4 lankininkus,
+    jį pavertė pelenais568.
+
+
+
+
+                319 (312).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179312
+    - t-183888
+    - t-194331
+
+- id: c-162996
+  citata_originali: |
+    Trečios žmonos vardas buvęs Ju­
+    lijona.
+    Vytautas brendo audringu Lietuvos valstybės laikotarpiu,
+    kada jo tėvas, gindamas Žemaitijos bei lietuvių laisvę, negalėjo
+    išleisti ginklo iš rankų, nes du galingi priešai, kardininkai iš
+    šiaurės ir kryžiuočiai iš žiemos vakarų pusės, tuo laiku ypač
+    smarkiai puldavo Lietuvą.
+    Vokiečių Ordinas, bekariaudamas įsigijo Prūsuose didelius
+    žemės plotus ir juos kolonizuodamas, darėsi vis stipresnis, Lai­
+    mėjęs Vislos žiotis ir Pamarį (1309 metais) ir išplėtęs savo pre­
+    kybą su tolimais Vakarų Europos miestais, nors vis labiau tolo
+    nuo pirmykštės Ordino dvasios, bet turėdami pilną iždą pinigų,
+    daug stiprių pilių ir nuolat iš Vakarų Europos plaukiančių jėgų,
+    kryžiuočiai kasmet po kelis kartus puldavo Lietuvą, išniokoda­
+    mi plačias jos sritis, degindami gyvenamas vietas ir žmones iš­
+    sivesdami nelaisvėn.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179325
+    - t-179251
+
+- id: c-162997
+  citata_originali: |
+    Vien to pakaktų Mindaugą laikyti viena iš svarbiausių ir Lietuvai dau-
+    giausia nusipelniusių asmenybių. Mindaugas sukūrė didžiausią ankstyvo-
+    sios Lietuvos istorijos kūrinį – valstybę, suteikusią galimybę išlikti lietuvių
+    tautai ir vėliau perimti Vakarų civilizaciją. Lietuva įžengė į istorijos areną,
+    kai Europa jau buvo pergyvenusi kryžiaus karų epochą (septintasis kry-
+    žiaus žygis vyko valdant Mindaugui, o paskutinis – aštuntasis neilgai
+    trukus po jo mirties).
+  citata_rodoma: "Mindaugas sukūrė didžiausią ankstyvo-\nsios Lietuvos istorijos kūrinį – valstybę, suteikusią galimybę išlikti lietuvių \ntautai ir vėliau perimti Vakarų civilizaciją. Lietuva įžengė į istorijos areną, \nkai Europa jau buvo pergyvenusi kryžiaus karų epochą (septintasis kry-\nžiaus žygis vyko valdant Mindaugui, o paskutinis – aštuntasis neilgai \ntrukus po jo mirties)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179242
+
+- id: c-162998
+  citata_originali: |
+    Kryžiuočių riteriai buvo nustebinti
+    Vytauto žmonos rūbų brangumu, taip pat ir visų Vytauto ba­
+    jorų šaunumu. Per puotą įvyko įsidėmėtinas dalykas. Lietu­
+    vių ir rusų bajorai paskelbė Vytautą Lietuvos ir Rusijos kara­
+    liumi.
+  citata_rodoma: "Lietu­\nvių ir rusų bajorai paskelbė Vytautą Lietuvos ir Rusijos kara­\nliumi."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179291
+    - t-179258
+
+- id: c-163000
+  citata_originali: |
+    Apie beveik penkių šimtų lietuvių žūtį
+
+       Tais pačiais metais ir tuo pačiu laiku lietuvis Jazbutas su penkiais šimtais rinktinių vyrų
+    įsibrovė į Lenkiją ir, neskaitant kitų ten pridarytų piktadarybių, išsigabeno didelį grobį:
+    išsivarė daug žmonių ir išsivežė galybę visokių daiktų. Nors šis Jazbutas rodėsi einąs
+    su netikėliais, tačiau slapta gerbė brolius. Jis įspėjo juos anksčiau, nei pats patraukė
+    su kariuomene į žygį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179237
+    - t-179284
+
+- id: c-163001
+  citata_originali: |
+    277 (270). Apie Dobrynės žemės apiplėšimą ir 70 lietuvių žūtį 1300 metais
+
+       Tais metais Čekijos karalius Vaclovas buvo vainikuotas Lenkijos karaliumi. O šeši
+    tūkstančiai lietuvių apiplėšė Dobrynės kunigaikštystę, žudydami bei imdami  į nelaisvę
+    žmones  ir degindami viską, kas degė; be to, jie pagrobė visas žirgų kaimenes bei
+    kitą turtą,  kurį lenkai, prisibijodami anksčiau minėtojo karaliaus, buvo sugabenę į šią
+    kunigaikštystę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179255
+
+- id: c-163002
+  citata_originali: |
+    Lietuvos  ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus
+    tada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną. Lietuviai, atrėmę ir
+    sutriuškinę kalavijuočius šiaurėje (1229 ir 1236 m.), praėjus totorių—mongolų pavojui
+    (1238—1242 m.), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą —
+    Kulmo žemę ir sutriuškino priešą Renzeno mūšyje. Kryžiuočiai patyrė pirmą nuo pat
+    atsikraustymo  į pavyslį tokio masto pralaimėjimą28.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179289
+
+- id: c-163003
+  citata_originali: |
+    Apie Sembos žemės nusiaubimą
+
+      Tų pačių metų rudenį lietuvių karalius su aštuoniais tūkstančiais raitelių įsibrovė  į
+    Sembos žemę, sudegino visus pastatus bei pasėlius, tačiau nužudė tik kelis krikščionis,
+    o grobio išsigabeno palyginti nedaug, nes broliai iš anksto sužinojo, jog šie susiruošė
+    į žygį. Beveik 14 dienų žygiavęs per šią žemę nuo vieno pasienio iki kito, jis patraukė
+    atgal, tačiau patyrė ir sunkių nuostolių, mat neskaitant kitų žuvusiųjų, kurių buvo gana
+    daug, brolis Henrikas iš Dobino su būriu ginklanešių nukovė 80 lietuvių.
+
+
+
+
+                      238 (231).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179336
+    - t-183886
+    - t-194329
+
+- id: c-163004
+  citata_originali: |
+    Lietuvos kariams per ilgą kurti įvairių laikotarpių Lietuvos kario įvaizdį. Stengtasi pateikti
+    Lietuvos istoriją yra tekę dalyvauti daugelyje mūšių, kurie nepa- daug kontekstinės informacijos, nupasakojančios kiekvieno lai-
+    teko į šią knygą. Į šį leidinį stengtasi atrinkti svarbesnius, įdo- kotarpio karybos, ginkluotės raidos tendencijas bei regiono
+    mesnius, o svarbiausia tuos mūšius, kuriuose lietuviai kovojo geopolitinį kontekstą.
+    dėl Lietuvos valstybės interesų, todėl į knygą nepateko karinės Knygos rengėjai tikisi, kad ši knyga suteiks galimybę skaityto-
+    operacijos, kuriose lietuviai dalyvavo kitų šalių kariuomenėse, ar jams pamatyti Lietuvos istoriją ir Lietuvos karybos raidą nauju
+    mūšiai, kuriuose lietuviai talkino kitoms šalims sąjungininkėms kampu ir paskatins papildyti Lietuvos karybos istorijos tyrinėtojų
+    ir jungtinėse kariuomenėse nesudarė ženklios dalies ar neatliko gretas naujais jaunais istorikais.
+    ryškesnio vaidmens.
+  citata_rodoma: "Stengtasi pateikti\nLietuvos istoriją yra tekę dalyvauti daugelyje mūšių, kurie nepa- daug kontekstinės informacijos, nupasakojančios kiekvieno lai-\nteko į šią knygą. Į šį leidinį stengtasi atrinkti svarbesnius, įdo- kotarpio karybos, ginkluotės raidos tendencijas bei regiono\nmesnius, o svarbiausia tuos mūšius, kuriuose lietuviai kovojo geopolitinį kontekstą.\ndėl Lietuvos valstybės interesų, todėl į knygą nepateko karinės Knygos rengėjai tikisi, kad ši knyga suteiks galimybę skaityto-\noperacijos, kuriose lietuviai dalyvavo kitų šalių kariuomenėse, ar jams pamatyti Lietuvos istoriją ir Lietuvos karybos raidą nauju\nmūšiai, kuriuose lietuviai talkino kitoms šalims sąjungininkėms kampu ir paskatins papildyti Lietuvos karybos istorijos tyrinėtojų\nir jungtinėse kariuomenėse nesudarė ženklios dalies ar neatliko gretas naujais jaunais istorikais."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179236
+
+- id: c-163006
+  citata_originali: |
+    66, p. 948.
+    Anglų riteriai, ne kartą draugėj su
+    kryžiuočiais ėję į kryžiaus žygius
+    kautis su pagonimis lietuviais, ga­
+    lėjo kryžiuočius prieš kelerius me­
+    tus su tuo bombardų išradimu su­
+    pažindinti, galėjo ir Gediminas nuo
+    jų žūti.
+    - • —
+    103
+
+    ## Puslapis 120
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    vietos žmonių, atiteko sūnui vienos karo belaisvės, lietuvių
+    paimtos Prūsijoje.
+  citata_rodoma: "Anglų riteriai, ne kartą draugėj su\nkryžiuočiais ėję į kryžiaus žygius\nkautis su pagonimis lietuviais, ga­\nlėjo kryžiuočius prieš kelerius me­\ntus su tuo bombardų išradimu su­\npažindinti, galėjo ir Gediminas nuo\njų žūti.\n- • —\n103\n\n## Puslapis 120\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nvietos žmonių, atiteko sūnui vienos karo belaisvės, lietuvių\npaimtos Prūsijoje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179326
+
+- id: c-163007
+  citata_originali: |
+    321 (314). Dar apie tą patį
+
+       Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas,
+    maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė
+    pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje, ilgokai užtrukusioje,
+    lietuviai neteko Masiaus brolio bei 18 kitų [vyrų], kurie krito nukauti, o broliai — trijų
+    brolių, būtent: brolio Henriko Rutėno, brolio Ulricho iš Tetingeno  ir brolio Rebodo iš
+    Izenburgo, bei keturių prityrusių karių, būtent: Spagerotės, Kviramo iš Valdavos, Mykolo
+    ir Mindotės. Ne kažką laimėję, puldami pilį, jie vėliau patraukė į jos apylinkes ir dar kartą
+    jas nusiaubė, degindami ir piešdami.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179288
+    - t-179284
+
+- id: c-163009
+  citata_originali: |
+    Ta-
+    čiau pirmasis visuotinis Rusijos
+    imperijos gyventojų surašymas
+    1897 m. parodė, kad tarp etninių
+    lietuvių mokančių skaityti yra be-
+    maž pusė – 48 proc., o rusiškai iš
+    jų tepaskaitė tik kas penktas. Pa-
+    gal raštingumą etniniai lietuviai
+    bemaž du kartus lenkė Rusijos
+    vidurkį ir nusileido, neskaitant žydų, tik latviams ir estams, kurie legaliai
+    mokėsi gimtąja kalba. Beje, ekspertus apstulbino tai, kad Kauno guber-
+    nijoje (skaičiuojant visus gyventojus) moterų raštingumas buvo didesnis
+    nei vyrų: atitinkamai 55 proc. ir 52 proc.
+  citata_rodoma: "Ta-\nčiau pirmasis visuotinis Rusijos \nimperijos gyventojų surašymas \n1897 m. parodė, kad tarp etninių \nlietuvių mokančių skaityti yra be-\nmaž pusė – 48 proc., o rusiškai iš \njų tepaskaitė tik kas penktas. Pa-\ngal raštingumą etniniai lietuviai \nbemaž du kartus lenkė Rusijos \nvidurkį ir nusileido, neskaitant žydų, tik latviams ir estams, kurie legaliai \nmokėsi gimtąja kalba. Beje, ekspertus apstulbino tai, kad Kauno guber-\nnijoje (skaičiuojant visus gyventojus) moterų raštingumas buvo didesnis \nnei vyrų: atitinkamai 55 proc."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179304
+
+- id: c-163011
+  citata_originali: |
+    Nepriklausomybės karta
+    Per nepilnus du dešimtmečius Lietuva galutinai tapo lietu-
+    viška, jos nebegalėjai supainioti nei su Lenkija, nei su Rusija. A. Smetonos
+    valstybės modelio, jo režimo prioritetai – tautinės kultūros kūrimas ir lie-
+    tuviškai kalbanti Lietuva – iš esmės įgyvendintas. Nacionalinė kultūra,
+    nereguliuojama ir nevaržoma, atsiskleidė visa savo pilnatve, užaugo nauja
+    išsilavinusių gabių žmonių karta, gebėjusi atsiverti pasaulio sukurtoms
+    vertybėms, interpretuoti jas lietuviškoje dirvoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179247
+
+- id: c-163012
+  citata_originali: |
+    Tarė­
+    jų nesutarimo atveju pasiliekame aukščiausiąjį sprendimą
+    mums patiems, kadangi turime aukščiausią abiejų luomų
+    sienų tyrimo valdžią.
+    Be to, tuo pačiu raštu skelbiame, kad mums buvo pra­
+    nešta, jog dėl šioje Didžiojoje Kunigaikštystėje mūsų valdo­
+    se gyvenančių rusų ir totorių dvasiškiai patyrė didelę netei­
+    sybę, mat rusai ir totoriai, jei ar iš mūsų, ar iš mūsų tikėjimo
+    žmonių kokiu nors būdu yra įsigiję nuosavybę, atsisako mo­
+    kėti dešimtinę, pelno mokestį ir kitas duokles, kurios mūsų
+    ir kitų mūsų tikėjimo žmonių dvasininkams buvo mokamos,
+    ir jei į svetimą dominiją nepersikeltų, mokėtų. Mes norime,
+    kad, kokio tikėjimo jie būtų - lietuviai, rusai, maskvėnai ar
+    totoriai - visi žmonės, kurie iš mūsų ar mūsų tikėjimą išpa­
+    žįstančių valdinių cesijos ar decesijos būdu, sudarydami
+    kontraktą ar kokią nors sutartį, įsigyja dominijos nuosavybę,
+    401
+
+    ## Puslapis 418
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    nostram profitentibus acquirunt, eadem onera sustineant, in
+    possessionibus acquisitis vėl acquirendis, quae sustinuerunt
+    ii, a quibus eas acquisiverunt, aut acquisituri sunt.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179222
+
+- id: c-163014
+  citata_originali: |
+    Šimtas šios kariuomenės rinktinių, tačiau per daug savimi pasikliaujančių
+    vyrų ryžosi persikelti per Drevantos upę ir Kulmo žemėje apiplėšti du kaimus; leidęsi iš
+      553 D.— territorium Giottowie, Jer.— Glottow, valsčius į vakarus nuo Alnos aukštupio,
+    vardas išlikęs dab. Glotovo (Głotowo, į šiaurę nuo Olštino) pavadinime. Išlikęs piliakalnis.
+    Manoma, kad Glotava — pietrytinis Pagudės valsčius (GAO, p. 43; Łowmiański H.,
+    Studia..., 2, p. 16, 25; MGP, p. 54).
+
+    paskos, broliai su savo kariuomene juos pasivijo, 70 nukovė ir išgelbėjo daug krikščionių,
+    paimtų  į nelaisvę. 30 išvengusių mirties lietuvių greitai nukūrė link savo kariuomenės
+    ir jai pranešė, ką jiems padarė broliai; juos pagavo tokia baimė ir apėmė toks siaubas,
+    kad, kitų nelaukdami, pabėgo kur akys veda, kur kojos neša ir prarado galybę žmonių
+    bei arklių, kurių daug prigėrė Narevo upėje dėl baisios kamšaties.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179285
+
+- id: c-163015
+  citata_originali: |
+    Laikinai jis buvo užvaldęs Drogičiną ir daug kartų
+    plėšė Vladimirą.
+    Ne vien tik Romanaičiai pajuto energingo Lietuvos valdovo
+    ranką. Lietuviai vėl stipriai pradėjo pulti Livonijos kryžiuočius ir
+    ėmė ruošti, kaip niekada iki tol, į _Lenkiją_ intensyvius karo žygius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179316
+
+- id: c-163018
+  citata_originali: |
+    Apie dviejų kaimų sudeginimą Medininkų valsčiuje 1316 metais
+
+      Tų pačių metų vasarą brolis Hugonas, Sembos fogtas, išjojo, maršalo įsakytas, su
+    aštuoniais šimtais vyrų link Medininkų valsčiaus, o Ragainės broliai, palikę tinkamoje
+    vietoje pasalą, įsiveržė  [į  jį] su savo kariais; sudeginę du kaimus, išžudę vyrus, o
+    moteris ir vaikus paėmę  į nelaisvę, jie paskubomis pasitraukė, smarkiai persekiojami
+    200 lietuvių. Vis dėlto, išvydę krikščionių kariuomenę, per anksti išpuolusią iš pasalų, jie
+    pasileido bėgti ir šitaip išsigelbėjo.
+
+
+
+
+     331 (324).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179300
+    - t-179284
+
+- id: c-163019
+  citata_originali: |
+    Grindžiama
+    mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
+    valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat
+    žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš
+    Lietuvos. Šie žmonės aplinkinių buvo vadinami „leičiais“ (latviai iki šiol
+    vadina lietuvius „leišiais“), o gal ir „liečiais“. Taigi, Lietuvos vardas turėjo
+    atsirasti nuo etnonimo (susijusio su specifinėmis karinėmis funkcijomis)
+    „liečiai“ ar „leičiai“.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179293
+
+- id: c-163020
+  citata_originali: |
+    Apie Bisenės pilies sudeginimą 1316 metais
+
+       Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas  iš
+    Altenburgo, brolis Fridrichas Kvicas  ir dar vienas brolis patraukė su trimis Ragainės
+    ginklanešiais link Bisenės pilies irgi tuo laiku, kai lietuvių pamaininė sauga, išbudėjusi
+    čia jiems skirtą laiką, turėjo iš pilies pasitraukti, ir nukovė šešis jų vyrus. Kiti šeši, išvydę
+    du ginklanešius, kuriems buvo įsakyta saugoti kelią, pabėgo metę šalin ginklus. Po to
+    broliai su savo ginklanešiais įėjo į visiškai tuščią pilį ir ją iki pamatų sudegino, ir šitaip
+    pilis paliko apleista po šiai dienai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179282
+
+- id: c-163022
+  citata_originali: |
+    vyravo vakarietiška kultūrinė orientacija ir katalikybė, o ne stačiatikybė,
+    nors buvo surastas integracijos modelis, pagimdęs lokalinės bažnytinės
+    unijos idėją, o tai leidžia kalbėti apie Lietuvą kaip jungtį tarp lotyniško-
+    sios Vidurio ir bizantinės Rytų Europos.
+    Lietuvos vardo kilmė ir
+    sampratos likimas
+    Lietuvos vardas pirmąkart paminėtas 1009 m., tačiau atsi-
+    rado jis anksčiau: lietuvių gentis iš rytų baltų turėjo išsiskirti prieš kelioli-
+    ka amžių. Kalbininkai yra nustatę, kad lietuvių kalba atsiskyrė nuo latvių
+    apie VII a.
+  citata_rodoma: "Lietuvos vardo kilmė ir \nsampratos likimas\nLietuvos vardas pirmąkart paminėtas 1009 m., tačiau atsi-\nrado jis anksčiau: lietuvių gentis iš rytų baltų turėjo išsiskirti prieš kelioli-\nka amžių. Kalbininkai yra nustatę, kad lietuvių kalba atsiskyrė nuo latvių \napie VII a."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179320
+    - t-179340
+
+- id: c-163023
+  citata_originali: |
+    XIV a. 3-iajame dešimtmetyje, kai rašė savo kroniką Dusburgietis, Lietuva, tęsdama
+    ginklo kovą prieš Vakarų Europos feodalų agresiją, 1320 m. liepos 27 d. Medininkų
+    žemėje sutriuškino įsiveržusius į Žemaitiją kryžiuočius (III, 338); puldama plačiu frontu,
+    Lietuvos kariuomenė 1322 m. nusiaubė Livonijoje Dorpato vyskupo valdas54, Dovydo
+    Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasario mėn. užpuolė danų vasalinėje
+    priklausomybėje buvusią Revelio žemę; kai sekantį mėnesį Pskovą puolė Livonijos
+    ordinas, Lietuvos ir pskoviečių jėgos atstūmė priešą nuo miesto sienų55. Tuo pat metu
+    „Žemaitijos lietuviai“ sunaikino Klaipėdos miestą ir tris gretimas kryžiuočiams pavaldžias
+    pilis. Vasarą Lietuvos kariuomenė smogė Ordinui, puldama Sembą ties Vėluva, o rudenį
+    patraukė  į Dobrynės kunigaikštystę, gindama Mazoviją, kurią norėta  išlaikyti savo
+    pusėje56.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179226
+
+- id: c-163024
+  citata_originali: |
+    Po to tie 200 vyrų, kurie ėjo priekyje, sugrįžo, smarkiai
+    šūkaudami ir triukšmaudami, patraukė į mūšio lauką ir įvarė priešams tokį siaubą, kad
+    karalius bei visi jo žmonės, juos išvydę, bematant išmėtė ginklus ir pasileido bėgti. Tada
+    įniršę broliai nubaudė nusidėjėlius ir nužudė 17 Lietuvos karalystės galingesniųjų bei
+    daugybę paprastų žmonių.
+
+
+
+
+                     292 (285).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179241
+
+- id: c-163026
+  citata_originali: |
+    Kai pakviestieji atvyko ir jiems buvo per­
+    skaityti laiškai, jie pareiškė: jeigu viskas, kas juose rašoma,
+    yra tiesa, savo būtina pareiga jie laiką kuo veiksmingiausiai
+    prisidėti prie švento tikėjimo rėmimo Lietuvoje. Tačiau ka­
+    dangi daugelis pavienių lietuvių iš diduomenės ir paprastų
+    žmonių nekeisią savo senojo gyvenimo būdo, tad, skaitantis
+    su tomis aplinkybėmis, būsią naudinga pirma pasiųsti į Lie­
+    tuvą pasiuntinius, ir pridūrė: Si prefato negocio stante in su­
+    spenso antequam fidem christi suscipiant et baptismum, quemad­
+    modum in litteris pollicentur prelibatis, in Christianos quod absit,
+    aut in res, terras seu personas eorundem manus mitterent virulen­
+    tas, sicut ex certis verisimiliter formidant coniecturis, cum fides fi­
+    dem non servanti minime debeat observari, in ipsos cogentur fidei
+    contumeliam vindicare, atque hoc facientes promissi sui inveniri
+    nolunt circa premissa transgressores [Jei minėtas reikalas atsi­
+    durs ant pražūties slenksčio anksčiau, negu jie Kristaus tikė­
+    jimą ir krikštą priimtų, kurį bent jau iš anksto laiškuose žada,
+    į krikščionis kad nebūtų, arba į reikalus, žemes arba jų pačių
+    asmenis išties nuodingas rankas; tartum tam tikrų, tikėtina,
+    baimintųsi pasekmių; kadangi tikėjimas tikėjimui netarnau­
+    jančiam mažiausiai reikalinga garbinti, pačiuose privalo ti­
+    kėjimo niekinimą įveikti ir šitai darydami dėl savo pažado
+    nenori pažeidėjų atskleisti].
+    Visą tą aukščiau aprašytą reikalą raštininkas išdėstė tarny­
+    biniame pranešime (Notariats instrument), į kurį taip pat buvo
+    įrašyti ir tariamieji Gedimino laiškai dviem ordinams ir pajū­
+    rio miestams, ir kaip tik šis dokumentas yra Kryžiuočių archy­
+    ve, ir tik iš jo su tais laiškais galima susipažinti.
+  citata_rodoma: "Tačiau ka­\ndangi daugelis pavienių lietuvių iš diduomenės ir paprastų\nžmonių nekeisią savo senojo gyvenimo būdo, tad, skaitantis\nsu tomis aplinkybėmis, būsią naudinga pirma pasiųsti į Lie­\ntuvą pasiuntinius, ir pridūrė: Si prefato negocio stante in su­\nspenso antequam fidem christi suscipiant et baptismum, quemad­\nmodum in litteris pollicentur prelibatis, in Christianos quod absit,\naut in res, terras seu personas eorundem manus mitterent virulen­\ntas, sicut ex certis verisimiliter formidant coniecturis, cum fides fi­\ndem non servanti minime debeat observari, in ipsos cogentur fidei\ncontumeliam vindicare, atque hoc facientes promissi sui inveniri\nnolunt circa premissa transgressores [Jei minėtas reikalas atsi­\ndurs ant pražūties slenksčio anksčiau, negu jie Kristaus tikė­\njimą ir krikštą priimtų, kurį bent jau iš anksto laiškuose žada,\nį krikščionis kad nebūtų, arba į reikalus, žemes arba jų pačių\nasmenis išties nuodingas rankas; tartum tam tikrų, tikėtina,\nbaimintųsi pasekmių; kadangi tikėjimas tikėjimui netarnau­\njančiam mažiausiai reikalinga garbinti, pačiuose privalo ti­\nkėjimo niekinimą įveikti ir šitai darydami dėl savo pažado\nnenori pažeidėjų atskleisti].\nVisą tą aukščiau aprašytą reikalą raštininkas išdėstė tarny­\nbiniame pranešime (Notariats instrument), į kurį taip pat buvo\nįrašyti ir tariamieji Gedimino laiškai dviem ordinams ir pajū­\nrio miestams, ir kaip tik šis dokumentas yra Kryžiuočių archy­\nve, ir tik iš jo su tais laiškais galima susipažinti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179329
+    - t-179215
+
+- id: c-163028
+  citata_originali: |
+    Po pergalės jie
+    aukoja savo dievams padėkos auką iš viso grobio, pergalingoje kovoje laimėto, trečdalį
+    atiduodami minėtajam kriviui, kuris tą dalį degino. Šiuo metu lietuviai ir kiti tose žemėse
+    gyvenantys netikėliai tą auką degina toje ar kitoje vietoje, kurią jie laiko šventąja, bet,
+    prieš degindami arklius, taip juos nuvaro nuo kojų bevaikydami, kad šie vos begali
+    pastovėti. Prūsai retai kada imasi kokio svarbesnio darbo netraukę, kaip reikalauja jų
+    papročiai, burtų ir šitaip nepasiteiravę savo dievų, ar gerai, ar blogai tas darbas pavyksiąs.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179220
+
+- id: c-163029
+  citata_originali: |
+    Kildindamas lietuvius iš romėnų, legendarinėje dalyje jis
+    padarė ypač daug papildinėjimų, pvz., surašė genealogiją atskirų
+    Lietuvos žymių šeimų, vesdamas jų pradžią iš Romos patricijų.
+    Mūsų istorikas painiojo chronologiją, net Lietuvos valdovų datas,
+    savo nuožiūra vis taisydamas, ar papildinėdamas Lietuvos Metraš­
+    čio žinias.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179228
+
+- id: c-163030
+  citata_originali: |
+    Galop vieną dieną visi pakilo  į
+    kovą, lankininkai [šaudė] strėles, apgulos mašinos [mėtė] akmenis, kiti nešė malkų
+    bei šiaudų piliai padegti, o likusieji dar kitais būdais kamavo apsuptuosius. Henrikas
+    Tupadelis, kuris vėliau tapo Teutonų ordino broliu, puikus karys ir įgudęs balistininkas,
+    ragino apsuptuosius gintis ir drauge su jais daug kartų gesino degalus, [pakišamus]
+    piliai padegti. Šioje smarkioje kovoje daug netikėlių buvo nukauta ir mirtinai sužeista, o
+    minėtasis Henrikas savo balistos paleista strėle pataikė vienam kilmingam ir galingam
+    lietuvių vadui ir  jį nukovė, o paleidęs [strėlę]  į kitą priešo kariuomenės dalį, pataikė
+    vienam prižiūrėtojui, įkopusiam pataisyti apgulos mašinos viršūnės gedimo, ir prismeigė
+    jam ranką prie mašinos; visa tai pamatę, netikėliai pabūgo ir nutraukė apgultį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179299
+    - t-179322
+    - t-194328
+
+- id: c-163034
+  citata_originali: |
+    282 (275). Apie Lubavos žemės apiplėšimą ir 65 lietuvių žūtį 1302 metais
+
+      Vėliau kiti iš Lietuvos atsibeldę plėšikautojai užpuolė 5 Lubavos žemės kaimus ir ten
+    nužudė ar išsivarė į nelaisvę beveik 200 krikščionių. Kristburgo broliai pasileido pavymui
+    ir, priėję dykras, iš pėdsakų suprato, jog šie toliau traukia pasiskirstę į du būrius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179243
+
+- id: c-163035
+  citata_originali: |
+    Ta­
+    čiau nevalia nuginčyti teisingų išvadų, jog naujoji sostinė
+    augo. Nesunku numanyti, koks buvo Vilniaus, kaip miesto,
+    pradinis kūrimasis. Palei Vilnios upę esančios gyvenvietės
+    senbuviai lietuviai, greta jų Perkūną garbinę vaidilos ir jų
+    svitai priklausę žmonės - tokia tad būsimo miesto užuomaz­
+    ga dar iki Gedimino.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179302
+
+- id: c-163038
+  citata_originali: |
+    Abi šios gentys, artėdamos viena prie kitos, stūmė iš
+    13
+
+    ## Puslapis 30
+
+    VILNIAUS MIESTO ISTORIJA I  TOMAS
+    senųjų valdų germanų gentį - gotus, o šie tai į Europos va­
+    karus išsisklaidydavo, tai vėl į šiaurę, į Skandinaviją, bet ne
+    kartą iš tų kraštų sugrįždavo į senąsias gyvenvietes. Iš tokio
+    trijų skirtingų kilmių gyventojų maišymosi ir samplaikos
+    radosi nauja pasienio tauta, kuri senovės geografų ilgai bu­
+    vo vadinta skyrų, herulų ir vidivarijų vardais ir tik X amžiuje
+    Lietuvos vardu tapo žinoma Europai1. Ta lietuvių tauta, išsis­
+    kyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­
+    šius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba
+    tikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos
+    iki Vyslos, o į žemyno gilumą buvo pasistūmėjusi tiesiog iki
+    Nemuno ir Būgo žiočių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179283
+
+- id: c-163039
+  citata_originali: |
+    O Oberosto karinis kolonijinis režimas plėšė vals-
+    tiečius, – nusavindavo maistą, apkrovė dideliais mokesčiais ir prievolė-
+    mis, pramonės įmones išvežė į Vokietiją, o mokyklose pradėjo germani-
+    zaciją (lietuviai įsteigė apie tūkstantį mokyklų ir mokytojų kursų, tačiau
+    kariškiai įvedė privalomą vokiečių kalbos mokymą, jų paskirti mokyto-
+    jais vokiečiai liuteronai soldafoniškai ir primityvokai mokė šlovinti kaize-
+    rį). Judėjimas tarp apskričių buvo suvaržytas, pašto korespondencija lie-
+    tuviškai uždrausta, lietuviškai leistas vienintelis cenzūruojamas laikraštis
+    „Dabartis“. Tokią politiką kritikuojančius atsišaukimų autorius vokiečiai
+    areštuodavo, mokytojus deportuodavo, dėl to lietuviai skundėsi Berlynui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179342
+
+- id: c-163041
+  citata_originali: |
+    Dabar tam buvo pats geriau­
+    sias laikas, nes jo galybė buvo aukštai iškilusi. Čia tuo metu
+    lyg tyčia nelaimingas Jadvygos laiškas, sujaudinęs jį ir jo ba­
+    joriją, dar labiau vertė susiartinti su Ordinu. Lietuviams, lais­
+    viems nuo senų senovės, mokėti kam nors mokesčius ir tuo pri­
+    pažinti savo priklausomybę, ir tai tada, kai prieš Lietuvos galy­
+    bę drebėjo visos aplinkinės tautos, viso to buvo perdaug!
+  citata_rodoma: "Lietuviams, lais­\nviems nuo senų senovės, mokėti kam nors mokesčius ir tuo pri­\npažinti savo priklausomybę, ir tai tada, kai prieš Lietuvos galy­\nbę drebėjo visos aplinkinės tautos, viso to buvo perdaug!"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179277
+
+- id: c-163042
+  citata_originali: |
+    Nors broliai buvo linkę jų prašymą patenkinti, pasipriešino tam kiti Prūsijos ir Livonijos
+    žmonės, tvirtindami, kad su jų belaisviais bus pasielgta taip, kaip reikalauja elgtis
+    visiems žinomi karo papročiai. Išgirdę tokį sprendimą, kuršiai taip įtūžo ant tikėjimo
+    ir tikinčiųjų, kad, broliams pradėjus pulti lietuvius, jie nelyginant tikri atskalūnai iš
+    užpakalio nirtulingai užgriuvo krikščionis; lietuviams puolant iš priekio, o kuršiams iš
+    užpakalio348, beveik visi abiejų žemių žmonės pasitraukė, palikdami čia brolius ir jiems
+    ištikimus. Kurie ne kurie Prūsijos kilmingieji ištikimai palaikė brolius,  vienas iš jų,
+    sembas Sklodas iš Kvedenavos, Noliubo tėvas349, sušaukęs savo giminaičius ir bičiulius,
+    pasakė: „Šiandien prisiminkite puikius drabužius, kurių dažnai gaudavote iš brolių,  ir,
+    užuot rengęsi vaiskiaspalviais drabužiais, parausvinkite savo drapanas žaizdų krauju, o
+    užuot gėrę saldų medaus vyną, arba midų, kurio ne kartą esate gavę iš brolių rankų,
+    gerkite šiandien žiaurios mirties kartėlį, išpažindami tikrąjį amžinosios trejybės tikėjimą”.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179250
+
+- id: c-163044
+  citata_originali: |
+    XVII–XVIII  a. formavosi ir bendra Abiejų Tautų Respublikos kaip
+    Lenkijos savimonė, tačiau šioje Lenkijoje aiškiai skiriant ir „kitą Lenki-
+    ją“. Ir vis dėlto net ir šiais vėlyvais amžiais gyvavo „lietuvių nacija“, LDK
+    „politinė tauta“. Tai patvirtina sudėtingos dvilypės savimonės formulės.
+    Pavyzdžiui, „gente polonus, natione lituanus“, ir „Лiцвiны грэцкага
+    закону людзi“ arba „Лiцвiны рус’кага рода“. Bendras vidaus politinis
+    gyvenimas, bendri seimai ir seimeliai, susiformavusi LDK teisė Lietuvos
+    Statutuose (tai trys teisynai – 1529, 1566, 1588) ugdė sampratą, kad lie-
+    tuvis yra ne tas, kuris kalba lietuviškai, o tas, kuris gina laisvę ir vadovau-
+    jasi Lietuvos Statutais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179315
+
+- id: c-163045
+  citata_originali: |
+    Apie vienos Sembos dalies nusiaubimą
+
+      1283 viešpaties metų žiemą aštuoni šimtai raitelių iš Lietuvos per Kuršių neriją509
+    įsibrovė  į Sembos žemę ir, degindami bei piešdami, nusiaubė du jos valsčius, būtent:
+    Abendą ir Pabečius510; nužudę 150 krikščionių, jie, niekur nesutikę pasipriešinimo, sveiki
+    ir gyvi sugrįžo atgal. Neabejojama, jog šitai įvyko dėl to, kad magistras ir broliai, iš
+    anksto žinodami, jog lietuviai susirengė  į žygį, kelias dienas jų laukė su kariuomene,
+    tačiau pabodus laukti, nes šie kelyje užtruko ilgiau nei paprastai, išsisklaidę sugrįžo
+    namo. Kaip tik kitą dieną lietuviai įsibrovė į Sembą ir, niekieno netrukdomi, padarė tai,
+    apie ką jau aukščiau papasakota.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179301
+
+- id: c-163047
+  citata_originali: |
+    Et nihilominus opi-
+    do quodam munito Dobryn vulgariter
+    dicto expugnato et in favillam prorsus
+    redacto multis inibi christifidelibus fer­
+    ro peremptis decem millia et utra homi­
+    num utriusque sexus secum abegit si­
+    militer et deduxit [Kai bedievis vadas
+    Dovydas prieš pat anksčiau minėtas
+    paliaubas įžengęs su stipria lietuvių
+    kariuomene į Dobrynės žemę, esan­
+    čią minėtoje Plocko diecezijoje, visą
+    pragaištingai nusiaubė. Ir kaip tik
+    70
+
+    ## Puslapis 87
+
+    I  KNYGA
+    Kai plėšikaujančių lietuvių gaujos, dažniausiai valdovo
+    numylėtinių ir bičiulių vedamos, su laukiniu įniršiu šitaip
+    niokojo krikščionių žemes, Prūsijoje pasklido gandas, jog ka­
+    ralius Gediminas į visas šalis išsiuntinėjo laiškus, skelbda­
+    mas apie savo norą priimti krikštą ir prisijungti prie tikinčių­
+    jų. Netrukus su tais laiškais ir Prūsijoje buvo susipažinta.
+  citata_rodoma: "Ir kaip tik\n70\n\n## Puslapis 87\n\nI  KNYGA\nKai plėšikaujančių lietuvių gaujos, dažniausiai valdovo\nnumylėtinių ir bičiulių vedamos, su laukiniu įniršiu šitaip\nniokojo krikščionių žemes, Prūsijoje pasklido gandas, jog ka­\nralius Gediminas į visas šalis išsiuntinėjo laiškus, skelbda­\nmas apie savo norą priimti krikštą ir prisijungti prie tikinčių­\njų. Netrukus su tais laiškais ir Prūsijoje buvo susipažinta."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179254
+
+- id: c-163048
+  citata_originali: |
+    tikinčiųjų bažnyčią, taip ir jo valiai bei potvarkiui pakluso ne tik minėtosios gentys, bet
+    ir lietuviai, ir kitos tautos, gyvenusios Livonijos žemėje. Toks didelis buvo jo autoritetas,
+    kad ne tik jis pats, ne tik jo gentainiai, bet ir jo pasiuntinys, su jo krivūle206 ar kokiu
+    kitu žinomu ženklu keliaudamas per šių netikėlių žemes, susilaukdavo didžios pagarbos
+    iš kunigaikščių, kilmingųjų207 bei prastuomenės208. Be to, jie garbino, kaip buvo įprasta
+    senovėje, negęstančiąją ugnį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179220
+
+- id: c-163053
+  citata_originali: |
+    1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats
+    brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų
+    valsčių569; keli lietuviai, naktį įsibrovę į jo palapines, nužudė 4 vyrus ir išsivarė du arklius,
+    todėl krikščionių kariuomenė kiaurą naktį nematė ramybės. Vis dėlto šitai neįbaugino
+    brolių taip smarkiai, kad jie nors kiek būtų uždelsę pradėtąjį viešpaties darbą. Skatinami
+    karšto tikėjimo ir tvirtai pasikliaudami viešpačiu, jie iki galo padarė visa, ko buvo ėmęsi
+    mūsų dievo Jėzaus Kristaus garbei.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179284
+
+- id: c-163054
+  citata_originali: |
+    Prūsai ir Lietuva
+
+       Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
+    artimai  sieja  kalbos,  kultūros,  tradicijų,  senosios  religijos bendrumas,  teritorijos
+    vientisumas.
+      Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
+    atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
+    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
+    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
+    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179278
+
+- id: c-167272
+  citata_originali: |
+    Dar apie tą patį
+
+      Kai 1306 metais ši kariuomenė sugrįžo, brolis Eberhardas, Karaliaučiaus komtūras,
+    patyręs, ką ji padarė, ir pamanęs, jog, sudeginus papilį, be vargo užkariausiąs ir pačią
+
+    pilį, patraukė su šimtu brolių ir šešiais tūkstančiais raitelių prieš Gardino pilį. Tačiau
+    Lietuvos karalius, išgirdęs, jog sunaikintas šios pilies papilys, nusiuntė pilies ginti daugybę
+    rinktinių bei įgudusių karių. Dėl to, broliams pradėjus pulti pilį, pilėnai, savo ruožtu
+    narsiai priešindamiesi, išėjo iš pilies ir pradėjo kautynes, kurios ilgokai užtruko.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183887
+    - t-179299
+    - t-179216
+
+- id: c-167606
+  citata_originali: |
+    13) ėmė žygiuoti Gilgenburgo link.
+    Pirmutiniai žygiavo lietuviai. Kai visa kariuomenė apsistojo
+    netoli Gilgenburgo, lietuviai užpuolė tą miestelį ir jį paėmė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184221
+
+- id: c-167902
+  citata_originali: |
+    Galop nugalėję lietuviai išvijo barbarus iš
+    stovyklos: galybė priešų krito mūšyje, kur kas dau­
+    giau krito bėgančiųjų, žuvusių nuo kalavijų arba pri­
+    gėrusių Dnepro ir Pripetės duburiuose. Ši pergalė buvo
+    D u o k lės p ra ša n tiem s
+    sk ita m s E rd vila s siu n ­
+    čia  d v i strė le s
+    šaukęs pasiuntinius, jis atsi­
+    sakė duoklės, paskelbė karą
+    ir įteikė jų kunigaikščiui do­
+    vaną— dvi strėles. Atleidęs
+    pasiuntinius, įsakė juos klyst-
+    82
+
+    ## Puslapis 81
+
+    itin reikšminga, nes rusai vėliau ėmė rodyti lietuvių
+    valdovui ne tik didesnę pagarbą bei palankumą, bet
+    ir pastovesnę ištikimybę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184541
+
+- id: c-167903
+  citata_originali: |
+    Vie­
+    nui vienas tebuvo kelias išbristi iš netikėtų bėdų ir
+    113
+
+    ## Puslapis 112
+
+    pasiekti santarvę bei visuo-
+    P a sk e lb ia m i n a u jo
+    tinę gerovę: reikėjo kuo sku-
+    v a ld o v o  rinkimjni
+    biausiai
+    užgniaužti
+    įvairių
+    asmenų savimeilius siekimus,
+    paskelbiant valdovu tą, kurį paskirs bendru balsavi­
+    mu taryba. Kernavėje buvo sukviestas susirinkimas,
+    ten susirinko galybė diduomenės. Visi lietuviai rėmė
+    Vaišvilką.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184542
+
+- id: c-167904
+  citata_originali: |
+    Tačiau ir lietuviai, sulaužę sutartį, gavo tinkamą
+    atlygį už šią piktadarybę: apie tą patį laiką Poleksija,
+    jiems priklausąs kraštas, buvo nusiaubta karių iš Ma­
+    zovijos ir Kujavijos. Be to, jie paėmė nemažą grobį ir
+    Prūsijoje, tačiau prūsų padėtis po kelių sėkmingų žy­
+    gių prieš kryžiuočius gerokai sustiprėjo: jie menkai pa­
+    juto nuostolius, juo labiau kad sunkesnių plėšikiškų
+    antpuolių atveju čia pat stovėjo pasirengę padėti lie­
+    tuvių ir žemaičių būriai. Atrodė, jog kryžiuočiams šį
+    5*
+    131
+
+    ## Puslapis 130
+
+    1274 m eta i
+    Ž em a ičia i gina p r ū ­
+    sus ir m u ša  k r y ž iu o ­
+    čius
+    karą pavyks užbaigti tada, kai sutrauks iš karto visas
+    jėgas ir neleis priešui kokiu nors būdu pasinaudoti sve­
+    tima pagalba.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184543
+
+- id: c-167905
+  citata_originali: |
+    Vis dėl­
+    to markgrafas, nenorėdamas, kad atrodytų, jog jis vel­
+    tui keliavo tokį kelią, įkūrė miestą, kuris po šiai die­
+    nai vadinamas Brandenburgu. Tais pačiais metais, kaip
+    sako Livonijos metraštis, žemaičiai ir lietuviai prie
+    Eželio ant ledo kovojo su Livonijos magistru Otonu,
+    magistras žuvo su penkiasdešimčia šio ordino brolių.
+    Tokio pat likimo susilaukė jo įpėdinis Andrius fon
+    Vestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas
+    ir žuvo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184544
+
+- id: c-167906
+  citata_originali: |
+    Ši nelaimė siautėjo ir Prūsijoje bei Kurše.
+    Vasarai įpusėjus, lietuviai galop sulaukė ramybės ir
+    netgi surengė vieną kitą žygį į svetimą kraštą. Pa­
+    kviesti Konrado, Čersko Mazovijos kunigaikščio, at­
+    ėmė iš Kujavijos kunigaikščio Vladislovo Gostininą ir,
+    išžudę dalį įgulos, o dalį su kitu grobiu išsivarę į ne­
+    laisvę, atidavė apiplėštą pilį Konradui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184545
+
+- id: c-167907
+  citata_originali: |
+    Žinoma, visada
+    pavojinga telktis priešą į pa­
+    galbą, nes jis trumpą ginklų
+    draugystę gali slaptai panau­
+    doti savo reikalams ir, išty­
+    ręs padėtį kaip draugas, vė­
+    liau kur kas saugiau veikti
+    kaip priešas; šito susilaukė ir
+    Konradas. Lietuviai, kelerius metus vengę niokoti to­
+    limesnius Mazovijos pakraščius, dabar, be kliūčių kaip
+    sąj ungininkai galėdami žygiuoti šiomis žemėmis į Gos­
+    tininą, susiviliojo taikos metais visiškai atsistačiusio
+    krašto turtais ir įniko grobstyti, o beieškodami grobio,
+    Įsitraukė į karą; vos parsigabenę namo grobį iš Gos-
+    tinino, jie su stambesnėmis jėgomis sugrįžo į Konrado
+    valdas, staiga iš sąjungininkų virtę priešais. Jie netru­
+    ko užimti Sochačevo ir Plocko apygardas; dvarus ir
+    visa kita, ko negalėjo išsigabenti iš krašto kaip gro­
+    bio, sunaikino ugnimi ir kalaviju.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184546
+
+- id: c-167909
+  citata_originali: |
+    Kadangi iš užpakalio buvo jūra,
+    vienoje pusėje trukdė Treiderės upė, o kitoje pusėje
+    ir priekyje puolė priešai, jie turėjo kariauti, nes ne­
+    buvo jokios vilties pabėgti. Padrąsėjo širdys, ir užvi­
+    rė atkaklus mūšis, lietuvius apėmė toks kovos įkarštis,
+    kad su įniršiu atrėmė bemaž jau nugalinčio priešo
+    puolimą, o vėliau, nesiliaudami jį persekioję, privertė
+    bėgti. Kryžiuočių kariuomenė buvo sutriuškinta, keli
+    tūkstančiai krito, žuvo mūšyje pats magistras su be­
+    veik 20 ordino riterių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184548
+
+- id: c-167910
+  citata_originali: |
+    Pridarė ten lietuviai daug siaubingų šventvagysčių
+    krikščionių šventyklose, bjauriai išniekino šventuosius
+    indus; vis dėlto retai kada po tokių nusikaltimų ilgai
+    užtrunka bausmė; grįždami atgal, šventvagiškieji plė­
+    šikai patyrė kerštą už dievybės paniekinimą: Kulmo
+    komtūras Konradas Žakas juos visus ligi vieno išžudė.
+    Kur kas didesnės sėkmės kitais metais susilaukė šeši
+    178
+
+    ## Puslapis 177
+
+    šimtai
+    raitelių.
+    Kanonas,
+    1299 m e ta i
+    Brandenburgo komtūras, su
+    nemaža kariuomene įsibro­
+    vęs į Lietuvą, sudegino artimiausių tvirtovių Junigedos
+    bei Pieštvės papilyse namus, o po to, papildęs kariuo­
+    menę stipriu Ragainės būriu, nugabeno ją laivais į
+    krašto gilumą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184549
+
+- id: c-167911
+  citata_originali: |
+    Atkaklus ir kruvinas mūšis užvirė, kai
+    susidūrė ištisi būriai, kai iš arti imta kovoti kalavi­
+    jais: vieni ir kiti grūmėsi narsiai, ir tų, ir kitų nuos­
+    toliai buvo vienodi. Vienas lietuvių raitelių pulkas jau
+    buvo ėmęs krikti, jau dairėsi, kur sprukti, tačiau be­
+    matant jiems padėti atskubėjo su kitais kariais Gedi­
+    minas. Pakeitę nuvargusius, kariai su nauju įkarščiu
+    stojo į žūtbūtinę kovą; Gediminas netrukus įsakė iš
+    mūšio lauko atitrauktam pulkui užgriūti visa galybe
+    rusų sparną; gal dėl to, kad menka atokvėpio valan­
+    dėlė atgaivino jėgas, gal dėl to, kad dabar, jausdamie­
+    si prasikaltę, iš gėdos rodė kur kas didesnę drąsą,
+    kariai puolė vykdyti įsakymo su tokiu įkarščiu, jog
+    tie, kurie ką tik jau traukėsi, pirmieji ėmė veržtis į
+    pergalę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184550
+
+- id: c-167912
+  citata_originali: |
+    Šitaip ilgai­
+    niui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi
+    Kijevo monarchija, patyrusi visokių sėkmių ir nesėk­
+    mių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­
+    džioje. Prasidėjo dėl jo nuolatiniai lenkų ir lietuvių
+    kivirčai: lenkai savinosi Kijevą ir Volynę, remdamiesi
+    senomis Boleslovo Narsiojo pergalėmis ir naujais gi­
+    minystės ryšiais. Nors kitados Boleslovas, nugalėjęs
+    rusus, ir buvo užėmęs Kijevą bei privertęs kijeviečius
+    duoklę duoti, tačiau nė vienam lenkų karaliui dar ne­
+    buvo pavykę nei gauti Kijevo kunigaikščio vardo, nei
+    išvyti iš šių valdų teisėtų valdovų, nei nugalėtų tautų
+    paversti savo -valdiniais; mat rusai vėliau kovose įro­
+    dė, jog atsisakė paklusti lenkams.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184551
+
+- id: c-167913
+  citata_originali: |
+    Lietuviai visų
+    pirma reikalavo iš naujo surašyti Jogailos sudarytą su­
+    tartį (paprastai vadinamą unija), mat kadaise į susita­
+    rimo aktą dėl kurių ne kurių
+    L ie tu v ių  ir len k ų  gi n-
+    žmonių apsileidimo ar leng-
+    čai d ė l P o d o lės
+    vabūdiškumo pakliuvo keli
+    straipsniai, žeminantys Lietu­
+    vos Didžiosios Kunigaikštystės orumą ir kenkiantys jos
+    labui, juos esą reikią pašalinti ir aiškiai parašyti, kad
+    vienam valdovui pavaldi dviejų tautų sąjunga truksian­
+    ti tol, kol Jogailos šeimos palikuonys karaliausią Len­
+    kijoje. Be to, turinti būti sugrąžinta Podolė, kurią Lie­
+    tuvos kunigaikščių ginklas išvadavęs iš skitų vergovės.
+    Lenkai atkakliai tvirtino, jog visi Jogailos ir Vytauto
+    laikais sudaryti susitarimai, be to, vėliau, Žygimanto
+    laikais, paskelbti potvarkiai iš viso negalį būti keičiami,
+    nes jų teisėtumas nekeliąs jokių abejonių, antra vertus,
+    nieku būdu negalima liesti ir keisti ištarmių, daugel
+    kartų patvirtintų abiejų tautų didikų bei valdovų prie­
+    saikomis, antspaudais bei parašais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184552
+
+- id: c-167914
+  citata_originali: |
+    Vėliau, susi­
+    kivirčiję su lenkais dėl Rusios, lietuviai visada ginklu
+    gynę savo teises į šią žemę. Dėl Jogailos, troškusio ka­
+    raliaus sosto, lengvabūdiškumo Podolė buvusi atplėšta
+    nuo Lietuvos ir prijungta prie Lenkijos. Žinoma, jis pa­
+    daręs klaidą, kai, siekdamas sosto, davęs neapgalvotų
+    pažadų, antra vertus, jų reikalas neleisti, kad valstybė
+    dėl anų susitarimų patirtų kokių nuostolių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184553
+
+- id: c-167915
+  citata_originali: |
+    Gavo jie tik tokį atsakymą, kad
+    lenkai nieku būdu neatsisakysią atsilyginti lietuvių luo­
+    mams. Kai Vilniuje susirinko lietuvių seimas, atvyko
+    čia Lenkijos pasiuntiniai Stanislovas Ostrorogas, Kali-
+    šo vaivada, ir Jonas Ritvianskis, karalystės maršalas.
+    Anksčiau nei jie atkeliavo pats karalius, norėdamas
+    asmeniškai aptramdyti priešingų grupuočių įniršį, ne­
+    paisant to, seimo posėdžiuose užvirė atkakli kova.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184554
+
+- id: c-167916
+  citata_originali: |
+    Aleksandras Šich Achmetą priėmė su didele
+    pagarba ir pasisodino dešinėje. Vienas kitam pareiškę
+    savo prielankumą ir pasikalbėję it du geri bičiuliai,
+    nes norėjo, kad kuo daugiau žmonių patirtų, koks nuo­
+    širdus jųdviejų susitikimas, abu valdovai suteikė ba­
+    joriškųjų lengvatų išgarsėjusiems karo žygiais lenkams,
+    lietuviams bei skitams, lengvai paliesdami jų petį
+    kardu. Šich Achmeto nusiskundimus turėjusį svarstyti
+    581
+
+    ## Puslapis 580
+
+    seimą karalius nukėlė į Radomą:
+    kadangi svars­
+    tyti reikėjo ir lenkams, ir lietuviams vienodai rūpimą
+    reikalą, karalius pareikalavo šaukti bendrą abiejų tau­
+    tų seimą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184555
+
+- id: c-170655
+  citata_originali: |
+    Matydami, kad jų didžiuosius etmonus ištiko nelai­
+    mė, karalius Jogaila ir didysis kunigaikštis Vytautas
+    paskyrė jų vieton du etmonus: vieton Sokolo paskyrė
+    poną Spytką, o Vytautas — poną Joną Goštautą, ir įsa­
+    kė rikiuoti kariuomenes ir ruošti vėliavas mūšiui, o tų
+    klastingų duobių saugotis.
+    Tada tie etmonai, išrikiavę karius, žengė į mūšį,
+    o vokiečiai, šitai matydami, susikovė su jais. Ir prasi­
+    dėjo mūšis, pirmiausia tarp vokiečių ir lietuvių kariuo­
+    menių, ir didžiulė daugybė krito karių iš abiejų pu­
+    sių — lietuvių bei vokiečių kariuomenių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187716
+
+- id: c-170656
+  citata_originali: |
+    Ir nebenu­
+    ėję likusių lig Vilniaus septynių mylių7 , apsistojo Aš­
+    menoje ir savaitę ten prastovėjo*.
+    Ir didysis kunigaikštis Žygimantas atžygiavo iš Vil­
+    niaus3  su lietuvių pajėgomis- - septyniais tūkstan­
+    čiais l0 . Ir prasidėjo mūšis pirmadienį, gruodžio mėne­
+    sio 8 dieną.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187717
+
+- id: c-171145
+  citata_originali: |
+    61
+
+    ## Puslapis 61
+
+    garą. Per 400 metų nė Vienas lietuvis, išskyrus Kojalavičių, My­
+    kolą Lietuvį ir Teodorą Narbutą, nepasirūpino krašto praeiti­
+    mi. Iki šiolei apie Abisiniją, arabus, mongolus ir samojedus
+    daugiau darbų parašyta nei apie Lietuvą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188251
+
+- id: c-171146
+  citata_originali: |
+    Ypač aš stengiausi, nieko nepraleisdamas, aprašyti visa,
+    ką paliko rašytosios istorijos, ką atskleidė senovės mokslinin­
+    kų tyrimai, ką pavyko surinkti iš žmonių padavimų bei dainų
+    ir ką išsaugojo paminklų liekanos. Tiesa, daugybė to paveiks­
+    lo detalių yra dingusių, tačiau išliko visuma, išsamesnė už vi­
+    sus šiaurės tautų mitus. Lietuvių mitologija, sukurta iš graikų,
+    nebeturi tos laukinės ir barbariškos fantazijos, su kuria pa­
+    prastai susiduriama kitose šiaurės tautose, tad ją turėjo išru­
+    tulioti žmonės, užkopę ant aukštesnio civilizacijos laipto.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188252
+
+- id: c-171147
+  citata_originali: |
+    Štai kokia yra tikra
+    ir per amžių amžius patikrinta tiesa, kad tikybinis sugedimas
+    kyla iš pačių religijos sargų arba kunigų.
+    Lietuviai turėjo eiti į daugiadievystę tuo pačiu keliu, nes
+    dėl vienodų padarinių galima spėti buvus vienodą priežastį.
+    Mat jie ne tik kad buvo su helenais tos pačios kilmės -  kaip
+    tatai paaiškės pažinus jų senovės istoriją, -  bet ir turėjo vieną
+    ir tais pačiais principais besiremiančią religiją, pamėgdžiojan-
+    čią beveik visas menkiausias smulkmenas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188253
+
+- id: c-171148
+  citata_originali: |
+    Išnagrinėję visą lietuvių mitologijos sistemą, lengvai pa­
+    stebime, kad seniausioji lietuvių religija buvo azijinė -  indiš­
+    ka: dangaus kūnai ir elementai, tai yra ugnis, vanduo, žemė,
+    84
+
+    ## Puslapis 84
+
+    buvo garbinami pagal budistų ir senovės persų -  iš budizmo
+    kilusio Zoroastro mokymo sekėjų -  taisykles. Tas tikėjimas
+    V amžiaus pabaigoje arba VI amžiaus pradžioje kažkokiu bū­
+    du susigiminiavo su senovės romėnų tikyba, tikriausiai ne itin
+    svetima lietuvių protėviams dėl jų kraujo giminystės ir santy­
+    kių rytuose su graikais2. Kadangi lietuvių gentys nuolatos pa­
+    laikė artimus ryšius su gotais, tad ir iš jų perėmė daug religi­
+    nių mitų ir apeigų, kurių pėdsakai mūsų mitologijoje yra pa­
+    kankamai ryškūs -  tiek, kad senesnieji istorikai visą tą mitolo­
+    giją kildina iš skandinavų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188254
+
+- id: c-171149
+  citata_originali: |
+    Šitą dievą žmogus pripažino
+    aukščiausiu visos gamtos viešpačiu ir davė jam Perkūno var­
+    dą.
+    Lietuvių genties tautos Perkūną garbino ko iškilmingiau­
+    siai, su reguliariomis apeigomis, jam buvo skirti miškeliai, su
+    tam tikru puošnumu įrengtos Šventyklos. Žyniai kasdien au­
+    kodavo jam aukas didelėse šventyklose, jo ženklu buvo pažy­
+    mėti vyriausiojo žynio Krivių Krivaičio nešiojami drabužiai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188255
+
+- id: c-171150
+  citata_originali: |
+    Henriko Latvio kronikos prierašuose, arba pastabose, ku­
+    rias XVII amžiuje parašė kažkoks kunigas Glumeris ir kurias
+    turiu rankoje, tarp nedaugelio Lietuvos istoriją liečiančių da­
+    lykų yra parašyta, kad, kai 1243 metais Livonijos riteriai, šauk­
+    dami tikrojo Dievo vardą, užpuolė lietuvius, šie savo ruožtu
+    rėkė: JogKauou, jogKauaile! („Jok Kove, jok Kovaiti!“). Anot
+    autoriaus, tai buvęs šios tautos karo šūkis, arba kreipinys į jų
+    karo dievą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188256
+
+- id: c-171151
+  citata_originali: |
+    Lietuviai garbino jį tam tikru būdu: jis turėjo savo auku­
+    rus, stabus, šventyklas, žynius, vaidilutes. Plačiau apie tas smul­
+    kmenas papasakosime toliau, atskiruose straipsniuose, kuriuo­
+    se išvardysime jo garbei atlikinėtas apeigas, rengtas šventes ir
+    iškilmes, labai panašias į Romos bakchanalijas.
+    Kronikininkai skiria Ragutį nuo Bubilo, pirmąjį pripažin­
+    dami rūgšties, antrąjį -  saldumynų šeimininku.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188257
+
+- id: c-171152
+  citata_originali: |
+    Iš padavimų apie graikų dievus žinome, kad garsus prana­
+    šautojas Melampas, kuris gyveno Proito laikais, dar iki Trojos
+    karo, apie 1380 metus prieš Kristaus gimimą, pirmasis Graiki­
+    joje įvedė Bakcho garbinimą. Todėl tais laikais, kai lietuvių
+    tauta brandino savo stabmeldystę, to dievo garbinimas kitur
+    buvo labai senas ir visuotinai paplitęs. Lietuviai įvedė tą gar­
+    binimą savo šalyje, tačiau natūralu, kad, neturėdami vynuo­
+    gių, savo Bakchui turėjo priskirti kitas ypatybes ir atributus,
+    nes žmonių polinkiai visur panašūs, piktnaudžiaujančių svai­
+    ginamaisiais gėrimais ištvirkimas visur dangstomas dievobai­
+    mingumo skraiste.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188258
+
+- id: c-171153
+  citata_originali: |
+    Visos lietuvių genties tautos turėjo savo dainius, panašius
+    į kitur žinomus trubadūrus, skaldus arba bardus, kurie apdai­
+    nuodavo įvairius tautos istorijos įvykius; lieuviškai juos vadin­
+    davo burtininkais (Burtynikaj), latviškai-Birnvis arba taip pat
+    Burts. Kai kuriose savo giesmėse jie šaukdavosi Santvara, kar­
+    iais Lėlio. Apie tai skaityk straipsnyje „Žyniai“.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188259
+
+- id: c-171154
+  citata_originali: |
+    Že­
+    maitijos žvejai ir šiandieną savo dainose apdainuoja jūrą dievą,
+    vardu „ Dzivsvits “:r\
+    Tai bus bendras jūrų ir kitų vandenų, kuriais plaukiota,
+    dievas ir laivininkų globėjas. Lietuviai gyveno susisiekiančia­
+    me su jūra krašte, kuriame daug visokių didelių vandenų, to­
+    dėl plaukioti buriniais laivais jiems buvo neišvengiama, taigi
+    jie negalėjo apsieiti be savo Neptūno. Gyvenantys prie ežerų
+    lietuviai šaukdavosi to paties dievo, vadindami jį Ežeriniu (Eže­
+    rinis). Vienintelis Lasickis išsaugojo mums šį faktą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188260
+
+- id: c-171155
+  citata_originali: |
+    Kuni­
+    go Jucevičiaus nuomone23 24 lietuviai, gyvenantys prie Palangos,
+    prie jūros, tai yra žvejai, Atrimpą vadina „Dzivsvits“. Tas žymu­
+    23 Ks. Ludwik Adam Jucevvicz. Przyslovvia ludu Litevvskiego. -
+    S. 65*.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188261
+
+- id: c-171156
+  citata_originali: |
+    Lietuviai teikė jam garbę, laikydami žalčius ir maitindami
+    juos pienu; su juo buvo susiję šiurkštūs ir tamsūs prietarai. Jis
+    priklausė pagrindiniams dievams ir iš jų buvo žemiausias, ka­
+    dangi valdė žemės elementą. Jo valdžioje buvo visa, kas val­
+    goma, ko reikėjo gyvoms būtybėms išsimaitinti. Todėl jam bu­
+    vo aukojami pirmieji žemės derliaus grūdai, medžių vaisiai,
+    pirmos sužvejotos žuvys ir sumedžioti žvėrys.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188262
+
+- id: c-171157
+  citata_originali: |
+    127
+
+    ## Puslapis 127
+
+    Lietuva į.Liethua)
+    Laisvės, malonumų, džiaugsmo deivė. Ją tebežino lietu­
+    viai, ypač senojoje Trakų vaivadijoje, latviai ir estai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188263
+
+- id: c-171158
+  citata_originali: |
+    Murgų, arba Tautų sambūrio, rūmai
+    buvo pačioje toliausioje šiaurėje.
+    Įrodymą, kad lietuviams katinas buvo Lietuvos simbolis,
+    radau vienoje 1483 metų karaliaus Kazimiero privilegijoje, ra­
+    šytoje ant pergamento rusų kalba, kuria bajorui Rimvydui
+    128
+
+    ## Puslapis 128
+
+    (Rymwidowi) suteikia žemę prie Merkio upės Trakų apskrity­
+    je. Ten pasakyta, kad duota kaip atpildas už didesnės, nei įsta­
+    tymais garantuojama, laisvės siekiančių Merkinės valsčiaus
+    valstiečių maišto nuslopinimą, taip pat už sugavimą maišti­
+    ninkų vado, vardu Leicis (Lejczis), kuris, paniekindamas jo
+    didenybės karaliaus orumą ir rimtumą, išdrįso paduoti kara­
+    liui katiną, sakydamas, kad tai esąs stabmeldiškosios laisvės
+    (Lietwii) ženklas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188264
+
+- id: c-171159
+  citata_originali: |
+    Ten pasakyta, kad duota kaip atpildas už didesnės, nei įsta­
+    tymais garantuojama, laisvės siekiančių Merkinės valsčiaus
+    valstiečių maišto nuslopinimą, taip pat už sugavimą maišti­
+    ninkų vado, vardu Leicis (Lejczis), kuris, paniekindamas jo
+    didenybės karaliaus orumą ir rimtumą, išdrįso paduoti kara­
+    liui katiną, sakydamas, kad tai esąs stabmeldiškosios laisvės
+    (Lietwii) ženklas.
+    Iš to matyti, kad lietuvių tauta, nepakęsdama savo laisvių
+    suvaržymo ir norėdama išsivaduoti iš priespaudos, pasinau­
+    dodavo laisvės deivės simboliu. Šitoks simbolio panaudojimas
+    buvo visuotinai paplitęs Antikos tautose.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188265
+
+- id: c-171160
+  citata_originali: |
+    Strijkovskis, kuris visus dievus vaišina gaidiena, sako, kad
+    Krūminei aukodavo kapotą gaidieną, norėdami išjos išprašyti
+    tankių ir varpotų, o ne retų javų.
+    Šita žemdirbių deivė turėjo būti visuotinai garbinama visų
+    lietuvių genčių, kaip žemdirbių tautos nuo pačios savo pra­
+    džios. Visiems javams ir žemės ūkio padargams įvardyti yra
+    savi lietuviški žodžiai15.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188266
+
+- id: c-171162
+  citata_originali: |
+    IV skyrius
+    D A N G A U S  K Ū N Ų  D IE V IN IM A S
+    Seniausias religinis garbinimas buvo dangaus kūnų sudie­
+    vinimas. Šito liekanas pastebime lietuvių mitologijoje. Tiesa,
+    kronikininkai, aprašinėjantys lietuvių genties tautų religiją, ko­
+    kia ji buvo paskutiniais savo smukimo metais, šito aiškiai ne­
+    mini, kadangi šis seniausias religijos sluoksnis jau labai seniai
+    virto Titanų giminės garbinimu, su kuriuo priviso įvairių die­
+    vų, kuriuos aprašyti buvo ankstesnių skyrių ir dar bus kitų šio
+    23 Stender. Lettische Grammatik,
+    184
+
+    ## Puslapis 184
+
+    „Lietuvių tautos istorijos“ pirmojo tomo skyrių uždavinys.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188268
+
+- id: c-171163
+  citata_originali: |
+    Tegu mitologai sako ką nori apie senovės egiptiečių religi­
+    ją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame,
+    yra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau­
+    lio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai.
+    Taip pat lietuvių mitologijoje, kalbant apie šio objekto esmę,
+    pagrindą ištisai sudaro indų padavimai. Saulė ir mėnuo, du
+    svarbiausieji dangaus kūnai, į savo giminę įtraukia visus kitus,
+    kurie yra jų vaikai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188269
+
+- id: c-171164
+  citata_originali: |
+    185
+
+    ## Puslapis 185
+
+    Saulė (Saute)
+    Lietuvių genties tautų kalbose ji yra moteriškos giminės,
+    todėl visuotinai laikoma deive. Ji buvo dienos šviesos dievybė,
+    viso gėrio ir gyvybės teikėja. Jos vyras buvo Mėnuo. Iš tų ve­
+    dybų atsiradę vaikai buvo žvaigždės -  Saulės dukterys, o kiti,
+    dėl vardų priklausantys vyriškai giminei, buvo Saulės sūnūs.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188270
+
+- id: c-171165
+  citata_originali: |
+    Tuomet kiekvieną būty­
+    bę apimdavo baimė, kad mieloji Saulė nebūtų sunaikinta. Iki
+    šiol to neįvyko, tačiau, pasak pranašavimo, kada nors ateis ta
+    diena, ir pasaulis nugrims tamsoje.
+    Vėliau, mitologijai pakitus, lietuviai vietoj Saulės garbino
+    Svaistiką, arba Santvarą, kaip graikai -  Apoloną.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188271
+
+- id: c-171166
+  citata_originali: |
+    Lietuviai turėjo savo slaptas apeigas, kurias joms pasišven-
+    tusieji ne kiekvienam atskleisdavo, todėl išsamesnės žinios apie
+    jas dingo kartu su jų netektimi. Vis dėlto išliko neabejotinų
+    faktų apie jų buvimą senovėje. Lasickis sako, kad lietuviai slėp­
+    davo tam tikras dievų garbinimo apeigas, dažniausiai nuo krikš­
+    čionių, tai yra ne kiekvienas jose galėdavo dalyvauti. Iš čia slap­
+    tos sueigos, slaptos reikšmės dievybės, kurių mūsų mitologas
+    197
+
+    ## Puslapis 197
+
+    išvardija net aštuonetą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188272
+
+- id: c-171167
+  citata_originali: |
+    Šiuo aspektu žvelgdami į lietuvių religiją, į gana aukštą
+    tautos senovinės civilizacijos laipsnį, tobulą mitologiją, kalbą,
+    teisę ir kitą viešąją tvarką, iš tikrųjų turime pritarti nuomonei,
+    1 Essais sur l’esprit et les moeurs de nations. -  T. I. - P. 20.
+    J98
+
+    ## Puslapis 198
+
+    kad paslaptys nebuvo svetimos mūsų protėviams.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188273
+
+- id: c-171168
+  citata_originali: |
+    Lietuviai turi apie žalčius daugybę pasakojimų ir padavimų,
+    kuriuos visus čia išpasakoti reikėtų daug laiko. Tačiau tarp jų
+    negalima nepaminėti tų, kuriuos pasakoja kunigas L. A. Jucevi­
+    čius10 1. Lietuviai tam tikriems burtams naudodavo žvakes, paga­
+    mintas iš žalčio taukų, nes, tokią žvakę uždegus, atvykdavo žal­
+    čių karalius su visa didžiule roplių svita.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188274
+
+- id: c-171169
+  citata_originali: |
+    Paimtą iš Erazmo Stelos faktą
+    Hartknochas pagrindžia savo pastebėjimais15.
+    Lietuvių genties tautų mitologinėse dainose ir stebuklinė­
+    se pasakose žvėrys ir paukščiai gyvena savitą gyvenimą. Čia
+    pateiksime ištrauką iš vienos dainos16:
+    Holą wy, mate ptaszęta, ja chce pojąč žonę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188275
+
+- id: c-171170
+  citata_originali: |
+    Lietuviai žuvusius tėvynės gynėjus didvyrius vadindavo
+    Runketojas (kentėtojais? -  R.J.). Yra vietovių, šventų dėl jų
+    kapų. Buvo manoma, kad nederlius ir badas paprastai vargina
+    kraštą, kai nustojama gerbti karžygius, žuvusius nuo priešo
+    rankos. Pasakojimai dar skelbia, kad esama dangiško miško
+    arba sodo, kuriame gyvena visų tautų kariautojai, paaukoję
+    gyvybę už teisų reikalą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188276
+
+- id: c-171171
+  citata_originali: |
+    224
+
+    ## Puslapis 224
+
+    Lietuviai savo senojoje religijoje labai daug reikšmės sky­
+    rė ugniai. Buvo nusilenkiama šventosioms ugnims, ypač toms,
+    kurios be paliovos degė tam tikri} šventyklų aukuruose, kurias
+    saugojo žyniai ir vaidilutės, pasišventusios tarnauti vien šven­
+    tajai ugniai. Ugnimi būdavo apvalomas blogis nuo žmonių,
+    gyvulių bandų ir kai kurių daiktų; su ugnimi būdavo išaiškina­
+    ma tiesa užsispyrusių žmonių ginčuose; iš ugnies būdavo bu­
+    riama.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188277
+
+- id: c-171172
+  citata_originali: |
+    Iš to, ką apie tą ugnį
+    dar žinome iš istorikų, reikia pripažinti teisinga nuomonę, kad
+    jos žinyčios kultas buvo vienas iš seniausių, lietuvių tautos pro­
+    tėvių atsineštas iš Rytų. Istoriniai padavimai skelbia, kad lie­
+    tuviai XIV amžiuje šventuosius židinius slėpė ir dangstė ne­
+    prieinamuose miškuose, idant išsaugotų ugnį, nes manė, jog,
+    jai užgesus, tautai gresia pražūtis. Ji buvo garbinama su dide­
+    lėmis pamaldomis, iš jos buvo imami nuodėguliai svarbiau­
+    sioms aukoms deginti ir laidotuvių laužams.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188278
+
+- id: c-171173
+  citata_originali: |
+    Galbūt neįsižeis slavų seno­
+    vės tyrėjai, jei manysime, kad Naugardo gubernijoje Rusa, ar­
+    ba Russ, upei vardą davė lietuvių tautos kolonija, kažkaip va­
+    riagų atgabenta, kadangi ir pačiame Naugarde buvo prūsų ko­
+    lonistų ir jie gyveno vienoje iš seniausių gatvių, vadintoje Prū­
+    sų gatve.
+    Pagaliau dabar Kijevo gubernijoje ukrainiečių Rosės (Ross)
+    upė, įtekanti į Dneprą dešiniajame krante, už savo pašventin­
+    tą vardą yra skolinga lietuvių genties tautoms, kadaise ten gy­
+    venusioms, kurios išėjo į rytus su gotais karaliaujant Filimerui
+    arba šiek tiek vėliau.
+    Be šito, lietuvių kraštuose turime ne vieną šventą upe, ar­
+    ba tiesiog taip pavadintą, arba apie ją žinome iš istorijos ar
+    liaudies padavimų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188279
+
+- id: c-171174
+  citata_originali: |
+    Upė, tekanti pro Ukmergę, įteka į Nerį jos dešiniajame
+    krante, aukščiau Jonavos, ir vadinasi Šventoji (Swięta). Nieko
+    verta nuomonė, jog upė turinti tokį vardą dėl to, kad jos van­
+    deniu buvo krikštijami lietuviai, kai Jogaila visus atvertė. Mat
+    vietos padavimai įtikina, kad tą vandenį senoji religija laikė
+    šventu, todėl krikščionių kunigai jį ir vartojo, o gal net pačią
+    upę, kad sutrauktų prie jos krantų žmones krikštui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188280
+
+- id: c-173454
+  citata_originali: |
+    229
+
+    ## Puslapis 229
+
+    Be to, nesunku Lietuvos žemėje vienur kitur surasti te­
+    kančio vandens atkarpą, kurią būtų galima susieti su šiuo da­
+    lyku, arba išgirsti žmonių pasakojimą, primenantį kažką pa­
+    našaus.
+    Šventieji ežerai
+    Senojoje lietuvių religijoje ne tik tekantys, bet ir kai kurie
+    stovintys vandenys buvo laikomi šventenybėmis. Tikriausiai
+    kaimai, neturintys, jų manymu, tinkamos šventoms apeigoms
+    upės, atlikdavo savo apeigas prie ežerų, kuriuos tekdavo pri­
+    pažinti šventais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190571
+
+- id: c-173455
+  citata_originali: |
+    Taip pat Žaslių, Zarasų ežerai ir nemaža kitų.
+    Apskritai lietuvių mitologija visus ežerus manė esant glo­
+    bojamus dievo Atrimpo, šiuo atveju vadinto Ežeriniu (Ežeri­
+    nis).
+    Šventosiose upėse ir ežeruose niekam nederėjo gaudyti žu­
+    vies, nebent per didelį badmetį, priešų apgultį arba staiga iški­
+    lus kitokiam reikalui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190572
+
+- id: c-173456
+  citata_originali: |
+    Šios meilės vaisius buvo dvejetas įpėdinių.
+    Lietuvių religija medžių atžvilgiu mokė tokio pat pamal­
+    dumo: ne vieną šito pavyzdį turime kronikose, pasakojimuo­
+    se, padavimuose ir liaudies dainose. Šventųjų medžių puoši­
+    mas trofėjais, gėlių girliandomis ir degančiais žibintais buvo
+    įprastas dalykas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190573
+
+- id: c-173457
+  citata_originali: |
+    Šventųjų medžių puoši­
+    mas trofėjais, gėlių girliandomis ir degančiais žibintais buvo
+    įprastas dalykas. Tiesa, lietuviai, mažiau apsišvietę, nepajėgė
+    sugalvoti tokių gražių pasakojimų apie savo raganas. Tačiau
+    jie pažino visas šios rūšies dievybes (kaip jau matėme iš straips­
+    nių „Ragana“, „Medziojna“, „Lazdona“), gerbė ir dievobai­
+    mingai saugojo išaugintus vertingus medžius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190574
+
+- id: c-173458
+  citata_originali: |
+    Anot aiškaus Strijkovskio liudijimo, tas
+    medis pirmavo tarp kitų šventųjų. Mat po jo kelmu gyvenąs
+    dievaitis Pušaitis su savo barstukų kariuomene. Šitų būtybių
+    dažnai šaukiamasi maldose, ir pats medis gerbiamas dėl savo
+    įgimto veiksmingumo, glūdinčio visose jo dalyse, jo šešėliui
+    priskiriamas išganingas poveikis sveikatai; dėl šios priežasties
+    daugelyje lietuvių kaimų alyvų krūmai buvo gerbiami kaip die­
+    vybė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190575
+
+- id: c-173459
+  citata_originali: |
+    235
+
+    ## Puslapis 235
+
+    clžiu. Romovės šventyklos mitologinis pavadinimas siejamas
+    su ąžuolo šventumu. Senovės lietuvių kalba šis žodis reiškė
+    susilaikymo, pamaldumo, taikos vietą nuo Romume -  Romu­
+    mas .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190576
+
+- id: c-173460
+  citata_originali: |
+    Tikėjimą šito medžio šventumu skandinavai iš dalies pe­
+    rėmė iš lietuvių, kadangi ne visi ir ne visur turėjo šventyklas
+    po ąžuolais; kaip praneša Adomas Bremenietis, to ypač laikė­
+    si švedų protėviai .
+    Lietuvių liaudies pasakos mini, kad žmonės valgydavę gi­
+    les, iškeptas pelenuose arba virtas su pelenais. Gali būti, kad
+    šis vaisius nuo alkaloidinės rūgšties praranda savo aitrumą ir
+    būna visai pakenčiamas valgis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190577
+
+- id: c-173461
+  citata_originali: |
+    Kunigai, stovėdami ant pa­
+    kopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­
+    kai, romėnai statė prabangius ir didingus aukurus, paskirtus
+    skyrium įvairiems dievams. O lietuviai dėl savo vargingo pa­
+    prastumo turėjo primityvius ir nepuošnius aukurus, išskyrus
+    kai kuriuos, buvusius Perkūno šventyklose.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190578
+
+- id: c-173462
+  citata_originali: |
+    O šios šventyklos aprašyme
+    istorikai aiškiai mini vyriausiojo dievo Perkūno stabą, kuris
+    buvęs puošnesnis už kitus.
+    Lietuvių Perkūno stabas X amžiuje Šiaurėje buvo garsus,
+    kadangi Vladimiras, tapęs visos Šiaurės Rusios didžiuoju ku­
+    nigaikščiu, tokius pačius pastatė Kijeve ir Naugarde; tuo pa­
+    čiu metu tam dievui buvo pastatyta šventykla toje vietoje, kur
+    yra vadinamasis Perimo vienuolynas. Tai buvusi didžiulė sta­
+    tula, liemuo iš ąžuolo, galva sidabrinė, ūsai ir ausys auksinės,
+    kojos geležinės, kumštyje laikė kažką panašaus į žaibus23.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190579
+
+- id: c-173463
+  citata_originali: |
+    Apie tai 1836 metais man rašė vienas iš
+    tenykščių korespondentų, į kurį buvau kreipęsis tuo klausimu *.
+    Senovinėse lietuvių monetose dievai buvo vaizduojami se­
+    nu papročiu, kuris tinka ir kitoms kaimyninėms tautoms. Tu­
+    rėjau rankoje sidabrinę monetą, rastą Varėnos apylinkėse.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190580
+
+- id: c-173464
+  citata_originali: |
+    Gaila, kad Siuco kronikos leidėjas nepridėjo tų monetų
+    piešinių, kurių, matyt, būta rankraštyje. Vis dėlto reikėtų sutik­
+    ti, kad jos nebuvo susijusios su kuriais nors svetimais kraštais,
+    kadangi čia išvardytos smulkmenos kiekvienam numizmatui yra
+    šito įrodymas. Moterų figūros vaizduoja deives, nes lietuvių gen­
+    ties tautos savo šalyse neturėjo karalių ir karalienių tikrąja šio
+    rango prasme.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190581
+
+- id: c-173465
+  citata_originali: |
+    Buvo ir lietuvių valdo­
+    vų, turėjusių Jurijaus vardą, kaip antai Jurijus (Jurgis) Vytau-
+    taitis, kuris valdė Pskovo žemę apie 1342 metus27 28.
+    Dievo Santvara stabas rastas Prilvice su užrašu runomis
+    Swaistix29, kur tarp 72 stabų, atkastų žemėje, tikriausiai ne vie­
+    nas priklausė lietuvių dievų kategorijai, kuriuos slavai obotri-
+    tai galėjo būti atėmę iš herulų kartu su jų pilimis ir šventyklo­
+    mis30. Viename dokumente, rusiškai rašytame XVI amžiuje
+    Lydos apskrityje ant labai patvaraus popieriaus, pastebėjau
+    vandenženklį arba fabriko ženklą, kurio atvaizdas yra IV lente­
+    27 Išsamesnių žinių apie senovės prūsų monetas yra Lybknechto
+    (Liebknecht) veikale “De antiquis nummis aliquando effosis in Prussia
+    Regali et adjacentibus Regionibus”.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190582
+
+- id: c-173466
+  citata_originali: |
+    Lietuviai turėjo dievams paskirtų kalnų, tačiau neturime
+    tikrai lietuviškų pasakojimų, kuriuose būtų minimas koks nors
+    Plikasis kalnas. Visa, ką šiuo klausimu žinome iš istorijos, ap­
+    siriboja kalnais, ant kurių stovėjo aukurai arba šventyklos. Kal­
+    nas prie Palangos garsėjo Praurimės aukuru, prie Nevėžio -
+    šventykla.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190583
+
+- id: c-173467
+  citata_originali: |
+    262
+
+    ## Puslapis 262
+
+    mo pamatai ir čia išgyventos pirmosios religinės vizijos: taigi
+    miškelis buvo pirmoji visų tautų šventykla.
+    Tas pats pastebima lietuvių mitologijoje; šventi buvo ištisi
+    miško plotai, kur stovėjo aukurai ir šventyklos, žinoma, visuo­
+    met prie upių, dažniausiai dviejų didesnių upių santakoje.
+    Miškelių garbinimas buvo taip sureikšmintas, kad juose
+    jokiu būdu nederėjo ne tik medžioti ir gaudyti žvėris ir paukš­
+    čius, bet jie dar buvo persekiojamų žmonių prieglobstis; pasi­
+    slėpę toje šventoje vietoje, jie išsivaduodavo nuo persekioji­
+    mo, kadangi visos ten esančios būtybės, taip pat medžiai ir
+    augalai dėl griežto pamaldumo buvo laikomi šventais ir nelie­
+    čiamais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190584
+
+- id: c-173469
+  citata_originali: |
+    Plačiau rašo apie Vilniaus įkūrimą; tie dalykai šiaip žino­
+    mi, ir tame aprašyme nieko naujo nėra; toliau tęsia pasakoji­
+    mą tokiais žodžiais: „Tas Vilnius su Trakais buvo beveik vie­
+    nas miestas. Vilniaus gyventojai turėjo namų ir giminių Tra­
+    kuose, o trakiečiai -  Vilniuje, bendrai švęsdavo ir minėdavo
+    stabmeldžių šventes. O kadangi Vilnius tapo Lietuvos sostine
+    ir šiaip jo padėtis dėl prekių plukdymo upėmis yra patogesnė,
+    į jį atplūdo daugiau gyventojų nei į Trakus, tad vėlesniais lai­
+    kais, nors turėjo pilį ir kunigaikščio rūmus, tas miestas virto
+    beveik kaimu. Būtent dėl šitokios eigos Vilniuje pastatė Al-
+    tambo šventyklą; jo šventė Trakuose būdavo rugsėjo 8 dieną,
+    o Vilniuje -  15. Šiose iškilmėse vykdavo tam tikri vaidinimai,
+    kurie pritraukdavo daugybę žmonių iš Lietuvos, Žemaitijos,
+    Prūsijos, Kuršo, Livonijos ir Rusios, nes būdavo didelė įvairių
+    prekių mainų mugė ir procesija iš miesto į miestą“.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190586
+
+- id: c-173470
+  citata_originali: |
+    Val­
+    dant karaliui Aleksandrui^ jo įsakymu, pagoniškos šventyklos vie­
+    toje buvo pastatyta filija .
+    Lietuviai dar turėjo kilnojamųjų, arba stovyklinių, švento­
+    vių, kurios priklausė ugnies šventovėms piratėjoms. Apie to­
+    kią turime istorinę žinią, išlikusią Prūsijos kronikose21 2 23.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190587
+
+- id: c-173471
+  citata_originali: |
+    Pagyvenęs su atgaila, netru­
+    kus pasimirė kaip krikščionis14.
+    Pirmą kartą griuvus prūsų stabmeldystei, kuriai stiprų smū­
+    gį kirto pats vyriausiasis žynys Alepas, pats atvirsdamas į krikš­
+    čionybę, religinė sostinė buvo perkelta į Lietuvą, kur susiklos­
+    tė nauja vyriausiųjų žynių tvarka, trukusi 122 metus, kol 1387
+    metais visuotinai buvo priimtas krikščionių tikėjimas. Straips­
+    nyje apie šventyklas skaitėme, kaip keitėsi vyriausiųjų žynių
+    buveinių vietos Lietuvoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190588
+
+- id: c-173472
+  citata_originali: |
+    Alanai, senieji kai ku­
+    rių plačiosios Lietuvos sričių gyventojai, arba veikiau klajok­
+    liai, burdavo, kaip sako istorija, iš karklo šakų, tam tikru būdu
+    sumaišytų; vėliau, traukdami vieną po kitos tam tikru nustaty­
+    tu laiku bei ištardami kažkokius žodžius ir kitaip burtininkų
+    mada vaipydamiesi, skaitydavo lemties knygą .
+    Lietuviai, visuomet pamaldūs ir todėl prietaringi, nieko
+    nepradėdavo nepaklausę pranašų patarimo; šiuo požiūriu
+    mūsų kaimiečiai iki šiol tebėra lengvatikiai; kiek jie turėjo
+    žynių, tiek kerėtojų arba burtininkų, o pats vyriausiasis žy­
+    nys Krivių Krivaitis buvo gyvas orakulas; į jį buvo kreipiama­
+    si norint sužinoti vėlės padėtį mirus kokiam nors žmogui,
+    kaip tai pamatysime toliau. Jis išpranašaudavo privačių as­
+    menų, valdovų, kariuomenės, miestų, visos valstybės, taip pat
+    visokiausių sumanymų ir darbų tolesnę ateitį; jo pranašystės
+    buvo nutarimų politiniais, teismo^ religijos klausimais pagrin­
+    das.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190589
+
+- id: c-173473
+  citata_originali: |
+    Visi lietuviai visuomet gėrė tą gėrimą, ypač atlikdami re­
+    ligines apeigas. Tą tiesą patvirtino vėlesni nei Hartknocho ty­
+    rinėjimai, nors tas istorikas, atrodo, abejoja, ar prūsai mokėjo
+    daryti alų iki atsikraustant kryžiuočiams. Paneigimui pakanka
+    pasakyti, kad B lefo tikrai nepažino, bet savo alų darė labai
+    senu papročiu4.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190590
+
+- id: c-173474
+  citata_originali: |
+    Tokiu atveju vieną iš pagrobtų arklių liepdavo nujodyti,
+    kol kris, o tada Krivių Krivaitis, papjovęs savo ranka, sudegin­
+    davo jį ant laužo.
+    Dievams taip pat būdavo aukojamas arklys tam tikro plau­
+    ko, su tam tikrais įgimtais ženklais. Prūsai teikdavo pirmeny­
+    bę širmiems, kitos provincijos -juodžiams, dar kitos -  kitokio
+    plauko, tad kiekviena lietuvių genties tauta turėjo atskirą sa­
+    vo pasirinktą plauką ir su juo ypatingus ženklus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190591
+
+- id: c-173475
+  citata_originali: |
+    Antikos žmonės duodavo dvejopas
+    priesaikas: vienokią paprastą, kai būdavo prisiekiama kokiam
+    galingam ir kerštingam dievui: Me Hercule, MeJove, tegu Her­
+    kų lis, Jupiteris bus man maloningas; kitokią su užkeikimu,
+    kreipdamiesi į Stikso vandenis, į pragarą ir kitas mitines pa­
+    baisas arba į Cezario gyvybę, į jo barzdą, kadangi jo pyktis
+    būdavo toks pat baisus kaip ir anų.
+    Lietuviai savo priesaikas duodavo visai panašiai: visi saky­
+    davo (tai ir dabar yra kaimiečių paprotys) „dėl Dievo“ (Dali
+    lkw u), taip pat: Kad man Periamas sumusztu; tai reiškė šaukti
+    dievus būti liudytojais. Priesaikos su užkeikimu taip pat dar
+    tebegirdimos, formulė buvo: „Kad aš skradžiai prapultau“
+    (Kad až skradziuprapoltu).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190592
+
+- id: c-173476
+  citata_originali: |
+    Senovės prūsų papročiu prisiekian­
+    tysis laikydavo dešinę ranką prie savo gerklės. Kaip liudija
+    Hartknochas (p. 548), šis paprotys dar ilgai gyvavo kryžiuočių
+    valdomoje Prūsijoje, nes ši religinė apeiga sutvirtindavo prie­
+    saiką labiau nei pirštų padėjimas ant Evangelijos. Tokio pat
+    I autinio papročio laikytasi ir kituose lietuvių genties tautų kraš-
+    I uose, kurie atsidūrė svetimųjų valdžioje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190593
+
+- id: c-173477
+  citata_originali: |
+    Lietuviai nuo seniausių amžių dalijo laiką į valandas
+    (lYahmda) , o jos skirstytos į dienos ir nakties. Buvo 12 dienos
+    ir tiek pat nakties valandų. Valandų trukmę matuodavo van­
+    dens laikrodžiais (Bodziawolas).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190594
+
+- id: c-173478
+  citata_originali: |
+    Sis bei tas išliko vien kaimo
+    žmonių papročiuose, įpročiuose, prietaruose, kerėjimuose ir
+    tautos būde, kuriam lemtis skyrė ištverti drauge su savo tauta.
+    Sprendžiant iš to, ką surinko ankstesnieji Lietuvos senovės ty­
+    rėjai ir ką dar pavyko surinkti, senovines religines apeigas rei­
+    kia įsivaizduoti buvus nepalyginti turtingesnes. Bet mes, rašy­
+    dami ne spėliojimus, o istoriją, turime pasitenkinti kritikos pa­
+    tvirtinta medžiaga, palikdami pačiam skaitytojui malonumą
+    pamąstyti apie nuostabią praeitį didelės tautos, kurios religija
+    buvo kupina aukštų polėkių, gyvos fantazijos ir turėjo nekas­
+    dieniškai iškilmingas apeigas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190595
+
+- id: c-173479
+  citata_originali: |
+    Senovės prūsų merginas, jeigu norė­
+    davo jas vesti, turėdavo iš tėvų nusipirkti1.
+    Leisdamiesi nuo tryliktojo amžiaus gilyn į praeitį, pastebi­
+    me vedybų papročius, bendrus lietuviams ir skandinavams, tai
+    yra kad tik viena, pirmoji, žmona buvo iš tikrųjų laikoma tei­
+    sėta žmona ir namų šeimininke, o vėliau paimtos į namus mo­
+    terys neturėjo tokios reikšmės ir nors jų vaikai, tėvo pripažin­
+    ti, buvo laikomi teisėtais, kaip ir pagimdyti pirmosios žmonos,
+    vis dėlto ta daugpatystė buvo labai apribota, net iki to, kad
+    kitos žmonos buvo laikomos vergėmis ir namų nuosavybe, ku­
+    rią po šeimininko mirties pasidalydavo įpėdiniai; jos būdavo
+    arba iš paimtų per karą, arba nupirktos iš vargingų tėvų. O iš
+    tikrųjų senovinė teisė ir papročiai numatė vienpatystę; juk ki­
+    tos lietuvių genties tautos laikėsi šito griežčiau negu prūsai;
+    mat istorijoje nematome net pėdsako, kad lietuvių didikai ir
+    kunigaikščiai būtų turėję daugiau kaip vieną žmoną; vėl ves­
+    davo tiktai po žmonos mirties.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190596
+
+- id: c-173480
+  citata_originali: |
+    Mat visa, kas galė­
+    jo prisidėti prie moters apkalbėjimo, kad ji esanti nesantūri,
+    visa tai smarkiai pažemindavo ją visuomenės akyse; tarytum
+    norėta aukščiausia moters dorybe laikyti tai, kas jai daugiau­
+    sia kainuodavo, kreipiant dėmesį ne į dalyko, bet į pasiaukoji­
+    mo didumą.
+    Jaunos netekėjusioski/mingos" lietuvaitės nešiodavosi var­
+    pelius, prikabintus virvutėmis prie juostos ir nuleistus iki ke­
+    lių, o vakare sutemus jos nedrįsdavo nė per žingsnį nutolti nuo
+    namų; net po namus turėdavo vaikščioti su ugnimi, kad tėvai
+    girdėtų ir matytų, kur jų duktė sukinėjasi8. Šitaip akylai sau­
+    gomas, jas pagrobdavo lakedemoniečių pavyzdžiu; tai padaro
+    du jaunikio giminaičiai; tada jie atsiprašo tėvų ir įteikia jiems
+    tam tikras dovanas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190597
+
+- id: c-173481
+  citata_originali: |
+    Ypač slavai, mėgs­
+    tantys vartoti svaiginamuosius gėrimus, savo senoviniuose pa­
+    pročiuose nuslysta į kraštutinumą; net pagyvenusios moterys
+    pirmos rodo pavyzdį: jų dainos girtą vestuvių pavakarę nu­
+    rungia bet kokį senovės cinizmo įsivaizdavimą. Priešingai, lie­
+    tuvių genties tautose šito negalima susekti -  nei jų kalboje,
+    nei tautinėse dainose nėra nieko panašaus; joms net trūksta
+    tokių žodžių. Kiek stengėmės aptikti tokių dalykų šių dienų
+    lietuviuose, šitaip suslavėjusiuose, niekad ir niekur negalėjo­
+    me to pastebėti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190598
+
+- id: c-173482
+  citata_originali: |
+    Išskaičiuoja visą velionio turtą, kiek­
+    vieną kartą sušukdami: „Kodėl numirei?“ Laidotuvių giesmės,
+    iki šiol skambančios visose lietuvių genties tautose, vadinasi
+    raudos (Rauda). Ponas Rėza kaip pavyzdį pateikia lietuviškas
+    eiles su gražia melodija, rastas pas Prūsijos lietuvius, pavadi­
+    nęs „Motiną apraudančios našlaitės verksmu“:
+    Ktčž mi ogrzeje ręce i nogi?
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190599
+
+- id: c-173483
+  citata_originali: |
+    Kai kada tarnai, arkliai, šunys, saka­
+    lai buvo gyvi laidojami su didiku jo kape; dažniau eidavo ant
+    364
+
+    ## Puslapis 364
+
+    uždegto laužo, kadangi turtingųjų kūnai būdavo deginami.
+    Deginti mirusiųjų kūnus buvo įprasta sekant graikų, ro­
+    mėnų, skandinavų ’ ir kai kurių slavų kilčių papročiu. Šis pa­
+    protys, kurio užuomazga kilusi iš indų, lietuvių buvo apribo­
+    tas tiek, kad paskutiniais stabmeldystės amžiais taikytas tik
+    žymesniems žmonėms laidoti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190600
+
+- id: c-173484
+  citata_originali: |
+    Šiuo po­
+    žiūriu sekta senovės galais ir skandinavais bei daugeliu kitų
+    įvairių tautų. Pasak Herodoto, skitai, laidodami savo karalius,
+    taip pat užmušdavo jų mylimiausius tarnus. Neturime jokio pa­
+    tvirtinimo, kad lietuviai savo šventose giraitėse ant medžių ka­
+    bindavo karalių kūnus, parištus ant aukso grandinių .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190601
+
+- id: c-173485
+  citata_originali: |
+    Svarbiausia mirusių vėlių klajojimo priežastis -  smurtinė
+    mirtis ir palaidojimas nesilaikant laidojimo apeigų. Romėnai
+    tą tvirtindavo visuotinai tikėdami20. Lietuviai turėjo paprotį
+    skenduolių arba plėšikų nužudytųjų kūnus laidoti toje vietoje,
+    kur atrado.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190602
+
+- id: c-173486
+  citata_originali: |
+    Ten pat jie sunaikino ir svečių dievuko, vadinto Ce-
+    rokliu, garbinimą; jam atiduodavo pirmąjį maisto kąsnį ir pir­
+    mąją gėrimo taurę23.
+    VII skyrius
+    APIE ŽMOGAUS MIRTIES
+    DALYKUS
+    Kapai
+    Kapai senovės lietuviams buvo šventas dalykas. Jokiu bū­
+    du nederėjo paliesti antkapinių statinių; buvo meldžiamasi net
+    kapams savo protėvių arba asmenų, atmintinų dėl ypatingų
+    dorybių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190603
+
+- id: c-173487
+  citata_originali: |
+    Tai
+    buvo atpildas dorovingiesiems; priešingai, nedorųjų ir nusi­
+    kaltėlių bei nepaklusnių žyniams po mirties laukė toks paža­
+    das: „Dievai atims iš jų viską, ką tik turėjo, kankins klaikiu
+    siaubu ir tokiomis kančiomis, kad jie turės kaukti ir inkšti lau­
+    žydami rankas tūkstantinėse nesibaigiančiose kančiose“ .
+    Spręsdami iš viso to, ką iki šiol pateikėme apie pomirtinį
+    gyvenimą, negalime abejoti, kad lietuviai tikėjo sielos nemir­
+    tingumu, bet šis prietarais aplipęs tikėjimas buvo priežastis
+    daugybės prietaringų nuomonių apie būsimą pomirtinę sielos
+    būklę.
+    Įsitikinę, kad ateinantis gyvenimas bus atpildas ir bausmė,
+    jie nepaprastai rūpindavosi būsimu vėlės likimu, todėl prieš
+    mirtį reikalaudavo iš giminaičių, kad tie stropiai atliktų laido­
+    tuvių apeigas ir per žynius ieškotų priemonių laimingam am­
+    žinajam gyvenimui pasiekti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190604
+
+- id: c-173488
+  citata_originali: |
+    Toliau autorius pa­
+    sakoja, kad šie Rytų bažnyčios atskalūnai, nuo seno gyvenan­
+    tys tarp stabmeldžių lietuvių, ne tik naudojasi didesne laisve
+    negu savo šalyje, bet daugelio lietuvių didikų šeimose netgi
+    turi savo tikėjimo šalininkų; per tai susidarė padėtis, kad Lie­
+    tuvoje mažai liko Rytų atskalos bažnyčių, neapkrėstų jų pa­
+    klydimais. Priešingai, lietuvių bajorai, urmu linkstantys į šią
+    krikščionybę, sukūrė tarytum naują sektą, kurią autorius va­
+    dina lietuviškuoju manicheizmu, Manicheismus Lilhuanicus.
+    Jo atsiradimą aprašo taip: „Rusinai pirmieji, kaip sako, dar XI
+    amžiaus pirmojoje pusėje, ėmė platinti krikščionybę stabmel­
+    diškoje Lietuvoje, bet vėliau šie krikščionys, patys užsikrėtę
+    manicheizmo paklydimais, labiau juos pritaikė prie stabmel­
+    dystės, tai sunku pasakyti, ar lietuvių stabmeldystė sumišo su
+    krikščionybe, ar krikščionybė susiliejo su stabmeldyste.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190605
+
+- id: c-173489
+  citata_originali: |
+    Toliau autorius pateikia kai kurių lietuvių mitologijos sri-
+    393
+
+    ## Puslapis 393
+
+    čių smulkius aprašymus; iš jų tas vietas, kurios mums šiaip ne­
+    buvo žinomos, išdėstėme anksčiau įvairiuose straipsniuose.
+    Apie katalikų religijos, kaip viešpataujančios, priėmimą auto­
+    rius pasakoja: „Nors lietuvių genties tautos yra stipriai susiju­
+    sios su savo protėvių tikėjimu, vis dėlto paklusnumas viešpa­
+    taujantiems kunigaikščiams svarbiau už viską; tos valdžios įsa­
+    kymus gerbia kaip nenuginčijamą autoritetą. Mat tauta, ilgus
+    metus varginta kruvinų vidaus ir išorės karų, privalėdama dė­
+    koti už savo tautinį gyvenimą protui ir galybei Liutauro dinas­
+    tijos kunigaikščių, iš kurių kiekvienas garsėjo ypatingomis iš­
+    minties ir vyriškumo savybėmis, nepavydėjo jiems tos absoliu­
+    čios valdžios, kuri tapo tautos išganymu; tauta aklai pasiklio­
+    vė viešpataujančios dinastijos, garsėjančios tikrais karžygiais,
+    valia ir teise.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190606
+
+- id: c-173490
+  citata_originali: |
+    Užrašas virš akmenų galvų -  runomis'*.
+    Lietuviai, tiesą sakant, neturėjo savo heraldikos, kuri yra
+    viduramžių padaras, išsirutuliojęs Pietų Europoje, bet žymes­
+    ni asmenys pasirinkdavo patinkamus antspaudus, kuriais vie­
+    toj parašų patvirtindavo savo raštus -  taip, kaip romėnai9. Lie­
+    9
+    Neseckis (Herbarz Polski.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190607
+
+- id: c-173491
+  citata_originali: |
+    Pa­
+    vyzdžiui, „Paparona“ arba „Kiniglis“, tai reiškia ne kiškį, kaip
+    kad pasakyta Neseckio „Herbyne“ (aiškino tik pagal piešinį ir iš
+    lotynų kalbos išvertė žodį „Lepus“), bet triušį, nes lietuvių kal­
+    boje žodis „ Kiniglis“ būtent tą ir reiškia *.
+    Nors pirmaujančios lietuvių giminės po Horodlės seimo
+    naudojosi antspaudais su lenkiškais herbais, vis dėlto vargin­
+    gesnį bajorai dar ilgai turėjo savo senovinius antspaudus. Juo­
+    se ant sutarčių, kurias sudarinėjo bajorai vieni su kitais, net iki
+    XVII amžiaus vidurio išlikęs labai ryškus tokių dar seno pavi­
+    dalo ir seno graviravimo signečių pėdsakas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190608
+
+- id: c-173492
+  citata_originali: |
+    3 Vokiečių autoriai kildina prūsus iš gotų, kadangi kryžiuočiai
+    radę Prūsuose daug ką gotiško. Mes, priešingai, įžiūrėdami kitoniš­
+    ką lietuvių tautos kilmę, tuos gotiškus elementus laikome skoliniais
+    iš gotų, kurie visados engė tas tautas, ir siejame taip pat su herulais,
+    kurie šitiek laiko lydėjo gotus Pietryčių Europoje. Todėl lietuvių
+    genties tautos, jeigu ir neigtume papročių, įpročių, religijos bendru­
+    mą, net giminystę, nuolatos susidurdavo su gotais arba savo, arba
+    svetimoje žemėje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190609
+
+- id: c-173493
+  citata_originali: |
+    V priedas
+    A pie Biarmijos raidyną
+    Rašydami šį veikalą, ne kartą kalbėjome apie Biarmijos
+    (Permės) raidyną, kurio pėdsakų pasitaikė aptikti lietuvių že­
+    mėje, ir iš tiesų tokių, kurie nepalieka abejonės, kad senovės
+    18 Alt- und Neues Preussen. - S. 149.
+    434
+
+    ## Puslapis 434
+
+    lietuviai naudojosi tomis raidėmis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190610
+
+- id: c-173494
+  citata_originali: |
+    439
+
+    ## Puslapis 439
+
+    svarbiausių įstatymų ir sentencijų, laikomos šventomis, kurias
+    saugo indų išminčiai; tą kalbą vadina sanskritu.
+    Be abejo, ji yra lietuvių kalbos šaltinis, -  taip pat kaip ir
+    kitų Europos kalbų, kuriomis kalba seniausios tos pasaulio
+    dalies tautos23. Norėdami tą aiškiau įrodyti, pateiksime pavyz­
+    džių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190611
+
+- id: c-173495
+  citata_originali: |
+    Senovės lietuvių kalba iš Čemberleno; imta iš Ksavero Bo­
+    gušo (p. 109):
+    Tews mus, kas ekas Debbesin; swetislajn taws Wardas; laj
+    enak mums tawa Walstibe; taws prats lajnot ek Debbesin kne ku
+    žeme. Musa dieniszku mausu dod mums szoden, unpedod muns
+    musu paradus, ka mes pedodam musum paradukam; un ne wed
+    mus kierdi na szane, bet pestino ta launa.
+    Lietuvių kalba, vartojama Prūsijoje, Nemuno žemupyje; imta
+    iš Hartknocho (ten pat):
+    15.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190612
+
+- id: c-173496
+  citata_originali: |
+    30
+    30
+    Šių eilių proga negaliu neprisiminti tokio atsitikimo. Kai pir­
+    mą sykį paėmiau į rankas švento atminimo Ksavero Bogušo studiją,
+    šios eilės smarkiai patraukė mano dėmesį. Skaičiau jas savo tarnams
+    lietuviams, jie klausėsi su dideliu malonumu, sakydami, kad, jų iš­
+    manymu, harmoningas žodžių skambesys perteiktas nuostabiai. O
+    vėliau, kai išmokiau atmintinai vieną puikų balsą turinčią lietuvaitę
+    ir kai ji deklamuodavo, kaimiečiai klausydavosi susižavėję, ir atrody­
+    davo, kad jie suvokia eilučių metrų darną. Deklamuojant tas 30 eilu­
+    čių, net nemokantys kalbos žmonės jausdavo nuostabos vertą skam­
+    bumą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190613
+
+- id: c-175216
+  citata_originali: |
+    Kuo la­
+    biau skaitau, tuo labiau tuo įsitikinu. Antras tomas be­
+    veik visas yra skirtas lietuvių kilmei, lengva pasakyti —
+    576 puslapiai. Tamsta kildini juos iš gelonų (pelazgų-
+    helenų tautos) ir iš budinu (indų-skitų tautos); vėliau
+    išaugusi gelonų-budinų karta susiskirstė į tris pagrin­
+    dines dalis: Prūsiją, tikrąją Lietuvą ir Latviją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192422
+
+- id: c-175217
+  citata_originali: |
+    Reda Griškaitė
+
+    ## Puslapis 22
+
+    Istorijoje tiesa yra geležinė
+    būtinybė, ir nereikėtų manyti, jog
+    ji kada nors gali pakenkti.
+    Sena gavenda
+
+    ## Puslapis 23
+
+    Laisvė be baimės — tai anarchija,
+    Baimė be laisvės — tai 'vergovė, i
+    Mano patarlė
+
+    ## Puslapis 24
+
+    PRATARME
+    Vos tik buvo išspausdinta religijos, papročių ir kitų
+    dalykų apžvalga, esanti įvadas į lietuvių tautos istorijos
+    pažinimą, skubu atiduoti spaudai antrą tomą, apžvel­
+    giantį šios tautos ištakas ir jos protėvių atsikėlimo į da­
+    bar gyvenamąsias žemes istoriją.
+    Ir čia skaitytojas neras to literatūrinio patrauklumo,
+    kuris smagina istorinėmis naujienomis ir grakščiu pasa­
+    kojimu, nes dar ir šį tomą reikėjo skirti parengiamiesiems
+    tyrimams, idant palengvintume tolesnę istoriją, neapsun­
+    kindami teksto plačiais prierašais, išvadomis ir įrody­
+    mais vien todėl, kad šie dalykai yra nauji ir dar neišna­
+    grinėti nei kritikos, nei smulkmenų, surinktų iš įvairių
+    raštų, aiškinimų; teko juos sujungti į vieną visumą ir
+    susieti vienodais įrodymais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192423
+
+- id: c-175218
+  citata_originali: |
+    Mes pasisakome už pono Kepeno požiū-
+    2. T. Narbutas
+    33
+
+    ## Puslapis 33
+
+    rį: lyginant tris svarbiausius dialektus — senovės prūsų,
+    lietuvių ir latvių, — vidurys tenka lietuvių, o tai negin­
+    čytinai įrodo, kad tautos lopšys buvo būtent lietuvių gen­
+    tyje arba kad ši gentis buvo arčiausia prie šio lopšio1. O
+    be to, Lietuvos valstybė tuomet ne tik savo galybe ir dy­
+    džiu pranoko Prūsiją ir Latviją, bet ir buvo viena tų, ku­
+    rios ilgiausiai džiaugėsi savo nepriklausomybe. Tad tuo
+    remdamiesi nedvejojame visą tautos visumą su visomis
+    jai giminingomis žmonių bendruomenėmis ir kartomis pa­
+    skelbdami lietuviškąja2.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192424
+
+- id: c-175219
+  citata_originali: |
+    Labai svarbių hidrografinių pokyčių
+    nuo Palangos iki Sembos pakrančių įvyko rašytinės isto­
+    rijos amžiais. Iš įvairių Karaliaučiaus Slaptajame archy­
+    ve esančių transakcijų ponas Foigtas1 teigia, jog viena
+    dešinioji Nemuno deltos šaka nuo Rusnės suko į šiaurę,
+    iš dešiniosios pakrantės įtekėjo Minija, po to jungėsi su
+    Dange, kurios žiotyse stovėjo sena lietuvių tvirtovė Klai­
+    pėda, Klejpeda2, ir galop vienomis plačiomis žiotimis įsi­
+    liejo į jūrą toje pačioje vietoje, kur šiandien yra Kuršių
+    marių žiotys. Prie šio tvirtinimo reikia pridurti, jog Pto-
+    lemėjas nurodo Krono upės, kuri yra Nemunas, žiotis sub-
+    elevatione Poli 56 graduum et longitudine 50 graduum.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192425
+
+- id: c-175220
+  citata_originali: |
+    Tą patį, bet kiek aiškiau minėjo Stra-
+    bonas savo septintojoje knygoje. Taip mes taip pat nedve­
+    jodami pripažįstame tą istorinę tiesą, kad lietuvių tautos
+    protėviai gyveno prie Rosės upės, tekančios per šiandienę
+    Volkovysko apskritį. Jų gyvenviečių galėjo būti net iki
+    IV amžiaus po Kristaus gimimo ar kiek vėliau, kol iš
+    Nemuno aukštupio pusės pradėjo spausti slavų gentys.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192426
+
+- id: c-175221
+  citata_originali: |
+    Senovės tyrinėtojai ne­
+    abejoja, jog budinai įsiterpė tarp venedų ir slavų gyvena­
+    mųjų vietovių ir įsikūrė iš dalies taikiai, iš dalies gal iš­
+    stumdami kitas gentis prie Nemuno, o vėliau ir Vyslos,
+    Dauguvos, — tai nedvejodamas pasakoja Osolinskisk Prie
+    jūros skubančio Nemuno vaga atvedė iki žygio j vakarus
+    pabaigos. Tad Nemuno žemupio pakrantes visų pirma de­
+    ra laikyti ¡pirmąja lietuvių tautos buveine šiame krašte,
+    iš kur besiplėsdami lietuviai užėmė tolesnes šalis. Tun-
+    manas savo tyrimais rodo, jog, kai lietuvių tautos tėvai
+    atsikėlė prie Baltijos jūros ir ėmė prie jos plėstis, tuojau
+    užėmė Sembą ir gintaro kasyklas2.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192427
+
+- id: c-175222
+  citata_originali: |
+    Vadinasi, pirmasis
+    su neapdorota medžiaga dirbęs žmogus ir visas jo milži­
+    niškas darbas dažniausiai būva pamirštas palyginti su
+    vėlesnio darbuotojo efektyvaus darbo šviesa.
+    230
+    Mūsų Rusios tyrimo išvada yra ta, kad dešiniosios
+    Nemuno žemupio šakos pakrantėse buvo pirmos lietuvių
+    tautos gyvenvietės, atsiradusios bendruomeninėje santvar­
+    koje. Gelonai-budinai, įsikūrę šiuose vaizdinguose kraš­
+    tuose, turtinguose gyvenimui reikalingų gamtos turtų, ne­
+    abejotinai labai ir greitai išplito1.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192428
+
+- id: c-175223
+  citata_originali: |
+    Heimkringla
+    Saga.
+    238
+
+    ## Puslapis 249
+
+    243
+    Apskritai, atsižvelgiant į krašto padavimus, tiek se­
+    niausių prūsų kronikininkų užrašytus, tiek ir senovės ty­
+    rinėtojų įvairiose vietose pastebėtus, galima pasakyti, kad
+    lietuvių ¡genties tautoms dar gerokai* prieš VI amžių
+    pritklausė tos žemės, kurios ir šiandien ¡priklauso jų val­
+    doms. Sį teiginį patvirtins tolesni mūsų pasakojimai, o
+    tuo tarpu aprašysime įvairių kartų užimamų žemių geo­
+    grafinę padėtį, pradėdami nuo bendro žymėjimo krašto,
+    turėjusio tokias ribas: Baltijos jūra nuo Vyslos žiočių net
+    iki Vakarų Dauguvos dešiniosios ¡pakrantės, kur jūrą pa­
+    siekia Salacos apskritis, šios apskrities ribomis su Estija
+    ir Pskovo gubernija, paskui skersai Dauguvą iki Kuršo
+    sienos su Livonija, toliau Ukmergės apskrities riba net
+    ligi ten, kur susisiekia Vilniaus ir Ašmenos apskričių sie­
+    nos, Vilniaus apskrities riba ligi trijų: Vilniaus, Ašmenos
+    ir Lydos apskričių ribų susikirtimo vietos, šį ¡paskutinį
+    kartą sena Lietuvos siena, tad Lietuvai lieka tik kelios
+    senovėje priklausiusios Trakų apskričiai gretimos parapi­
+    jos, taip pat ir Gardino apskrities.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192429
+
+- id: c-175224
+  citata_originali: |
+    244
+    Sritys, arba pagrindinės lietuvių krašto žemės. Šią te­
+    ritoriją sudarė trys pagrindinės sritys: senovės Prūsija,
+    tikroji Lietuva ir Latvija. Kažkokių politinių įvykių suta­
+    pimas lėmė ¡pasidalijimą trijų tautos kartų, įsikūrusių to­
+    se trijose, gana tolimose srityse; jas siejo viena — tik
+    gimtoji žemė. Iš čia atsirado trys atskiri dialektai: seno­
+    vės prūsų, lietuvių ir latvių. Be kalbos panašumo, juos
+    siejo religija ir visai tautai bendra teokratinė valdžia.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192430
+
+- id: c-175225
+  citata_originali: |
+    Todėl, mano nuomone, reikėtų
+    skaityti: Kurcho, optimo maximo. O tai yra toks pat užrašas kaip
+    ir ant kai kurių romėniškų medalių; jis reiškia IOVI OPTIMO
+    MAXIMO. Taip pat kaip ir ant Volgasto miesto globėjo Jaruvito
+    skydo, ant kurio radau tokį užrašą: „Tutori Voigasliensi, optimo
+    maximo Jurowito". Lotynų kalbą slavai venedai ir lietuviai var­
+    tojo kaip diplomatinę kalbą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192431
+
+- id: c-175226
+  citata_originali: |
+    180 /Ten pat, 3 pastraipos 1 sakinio minties tęsinys ir nauja išnaša/
+    Kartais didieji kunigaikščiai herbus suteikdavo slavų giminėms;
+    tokį herbą 1302 metais Gediminas davė Krunevičiui. Sis paprotys
+    lietuviams nebuvo būdingas, bet kai kurios riterių šeimos, pri­
+    klausančios Lietuvos valdžiai (ar tai būtų lenkai, ar rusinai), ga­
+    lėjo prašyti, kad jiems būtų suteikti herbai — taip būdavo Len­
+    kijoje. Bet, nepaisant to, visuomet, bent jau nuo Gedimino laikų,
+    Lietuvoje šeimos herbai egzistavo70.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192432
+
+- id: c-175867
+  citata_originali: |
+    Toks žygis paprastai trukdavo ne ilgiau, kaip
+    savaitę: mat, kryžiuočiai skubėdavo, kad nespėtų pastoti jiems
+    kelio lietuviai. Sužinoję apie kryžiuočių žygį, lietuviai skubė-
+    davo pasislėpti miškuose, iš kur tykodavo užpulti kryžiuočius,
+    dažnai jie sunaikindavo ištisą grįžtančių kryžiuočių būrį: kry-
+    žiuočių kelią staiga užvertę medžiais, patys iš visų pusių
+    supuolę juos išžudydavo. Be to, už tokiuos užpuolimus lietu-
+    viai keršydavo įsiverždami ir naikindami ordino kraštą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193107
+
+- id: c-175868
+  citata_originali: |
+    Tad kiekvieną, kurs
+    norėtų mane pavergti, aš laikyčiau tironu, o ne savo viešpačiu".
+    Po pirmų susidūrimų lietuviai pareikalavo, kad lenkai savo pa-
+    siūlymus pateiktų raštu. Gavę juos, po trijų dienų lietuviai atnešė len-
+    kams savo projektą; lietuvių projektu, bendrai rinktas karalius tu-
+    rįs būti atskirai pakeliamas Vilniuje didžiuoju kunigaikščiu; kol
+    nebūsiąs pakeltas, tol negalėsiąs turėti Lietuvoje valdžios.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193108
+
+- id: c-176044
+  citata_originali: |
+    Kai po šio smūgio Lietuva šiek tiek atsiga­
+    vo, Vytenis, surinkęs visose valdose lėšų, vieną ka­
+    riuomenę nukreipė į Dobrynę, o kitą — prieš kryžiuo­
+    čius. Ir vienas, ir kitas žygis, kaip ir tikėtasi, pasisekė.
+    Kadangi Dobrynėje sekmadienį visi žmonės buvo su-
+    D o b iy n ą , ž u d o  k i y -
+    nių ir plėšimo, žuvo liepsno-
+    devynis tūkstančius belaisvių. Su kryžiuočiais kautasi
+    atvirame lauke: mūšyje krito ordino magistras Bur-
+    chardas Aremas su trisdešimčia to ordino riterių, o
+    lietuviai laimėjo kautynes.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193316
+
+- id: c-176229
+  citata_originali: |
+    Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono
+    ir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai
+    vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių
+    dinastija. Taip įvairiakilmė ponija formavo bendros savimonės „lietuvių
+    nacijos“ ponų sluoksnį. Tokie žmonės pagal kilmę buvo rusėnai, pagal
+    tikėjimą – graikai katalikai, pagal politinę savimonę – lietuviai, o kalbėjo
+    lenkiškai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193549
+
+- id: c-176972
+  citata_originali: |
+    III skyrius
+    M A Ž E S N I E J I  DIEVAI,
+    ARBA D IEVAIČIAI,
+    D E W A J T A S
+    Au šia vis (Auszlawis)
+    Nusilpusių, ligonių, sveikstančių dievaitis, mitinis gydytojas.
+    Atrodo, lietuviai garbino jį kaip didelį žaltį. Kiti duome­
+    nys leidžia spėti, jog būta ypatingų apgavikų, kurie nešiodavo
+    užantyje žalčius ir taip įtikindavo žmones, kad, mokėdami
+    kenksmingus dalykus padaryti nekenksmingus, sugebėsią iš­
+    gydyti visokias ligas. Jie tapdavo šio dievaičio mokiniais arba
+    garbintojais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194572
+
+- id: c-176973
+  citata_originali: |
+    Lydos apskrityje,
+    prie Girkų kaimo, tikrojoje Lietuvoje, yra plotas tokių me­
+    džių, labai senų ir gražiai augančių; apie juos esama padavi­
+    mo, kad tai liekana šventojo miško, kuris buvo mirtinai per­
+    sekiojamųjų prieglobstis, o nematoma jėga, sauganti tokius
+    žmones, stebuklingu būdu juos maitinusi, kol jie ten gyven­
+    davę.
+    Lietuvių prisirišimas prie šventųjų miškų neišnyko iš kar­
+    to, pasikeitus tikėjimui; vietos dokumentuose, senesniuose už
+    XVIII amžių, tarp reikšmingesnių nekilnojamojo turto objektų
+    randame nuolat minimus miškus: kartais kalbama apie mišką
+    su kovarniais, tai reikštų seniai suaugusį mišką, nes tie paukš­
+    čiai yra įpratę krauti lizdus aukščiausiuose medžiuose, tan­
+    kiausiame miške ar nuošaliausiose vietose.
+    Šventyklos
+    Herodotas ir Strabonas tikina, kad egiptiečiai ir finikiečiai
+    pirmieji pradėjo statyti šventyklas dievams arba pastatus, ku­
+    riuose jie būdavo garbinami.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194573
+
 ## Ryšiai
 - Priešai: [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)]], [[objektai/grupes/Gotai]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Vokiečiai]]
-- Sąjungininkai: [[objektai/grupes/Baltai]], [[objektai/grupes/Jotvingiai]], [[objektai/grupes/Krymo totoriai]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Pamarėnai]], [[objektai/grupes/Rusai]], [[objektai/grupes/Rusėnai]], [[objektai/grupes/Rygiečiai]], [[objektai/grupes/Sembai]], [[objektai/grupes/Sūduviai]], [[objektai/grupes/Totoriai]], [[objektai/grupes/Vengrai]], [[objektai/grupes/Vokiečiai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Sąjungininkai: [[objektai/grupes/Baltai]], [[objektai/grupes/Germanai]], [[objektai/grupes/Jotvingiai]], [[objektai/grupes/Krymo totoriai]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Pamarėnai]], [[objektai/grupes/Rusai]], [[objektai/grupes/Rusėnai]], [[objektai/grupes/Rygiečiai]], [[objektai/grupes/Sembai]], [[objektai/grupes/Sūduviai]], [[objektai/grupes/Totoriai]], [[objektai/grupes/Vengrai]], [[objektai/grupes/Vokiečiai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Turėjo valdovą: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - Puolė Lietuviai: [[objektai/asmenys/Andrius Vingaudas]], [[objektai/asmenys/Brunonas]], [[objektai/asmenys/Derska]], [[objektai/asmenys/Ditrichas iš Altenburgo]], [[objektai/asmenys/Fridrichas iš Libencelės|Fridrichas iš Libencelės (vyskupas, XIV a.)]], [[objektai/asmenys/Fridrichas Kvicas]], [[objektai/grupes/Gotai]], [[objektai/asmenys/Gundramas]], [[objektai/asmenys/Henrikas fon Plockė]], [[objektai/asmenys/Henrikas iš Dobino]], [[objektai/grupes/J. Baranovskio brigada]], [[objektai/asmenys/Konradas Štangė]], [[objektai/asmenys/Konradas Žakas]], [[objektai/grupes/Krymo totoriai]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Kuršiai]], [[objektai/grupes/Lenkai]], [[objektai/asmenys/Leontijus Bennigsenas]], [[objektai/asmenys/Liudvikas iš Libencelės]], [[objektai/asmenys/Markvardas iš Revelingės]], [[objektai/asmenys/Muka]], [[objektai/asmenys/Numa]], [[objektai/grupes/Rusai]], [[objektai/grupes/Švedai]], [[objektai/grupes/Švedų gvardijos kavalerija]], [[objektai/grupes/Totoriai]], [[objektai/asmenys/Valteris Goldinas]], [[objektai/asmenys/Vigandas fon Baldersheimas]]
 - Gynė Lietuviai: [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija)]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Georgas Zauerveinas]], [[objektai/asmenys/Paulius Vladimiri]], [[objektai/asmenys/Žegota]]
@@ -9929,21 +17900,21 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
 - Sudarė sutartį su: [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Vengrai]]
 - Prekiavo su: [[objektai/vietos/Stralsundas]], [[objektai/grupes/Vokiečių ordinas]], [[objektai/grupes/Žydai]]
 - Rėmė Lietuviai: [[objektai/grupes/Bajorai]], [[objektai/asmenys/Borisas Jelcinas]], [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija)]], [[objektai/grupes/Draugija užsienio lietuviams remti]], [[objektai/grupes/Draugija Užsienio Lietuviams Remti (DULR)]], [[objektai/asmenys/Jadvyga Jogailienė]], [[objektai/asmenys/Jurga (pasienio seniūnas)]], [[objektai/grupes/Krikščionys]], [[objektai/grupes/Kuršiai]], [[objektai/grupes/Lenkai]], [[objektai/asmenys/Philippe de Mezières]], [[objektai/asmenys/Šach Achmedas]], [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]], [[objektai/grupes/Vokiečiai]]
-- Turėjo priklausinį: [[objektai/vietos/Braclavas]], [[objektai/vietos/Jotvingija]], [[objektai/daiktai/Karinė ginkluotė]], [[objektai/vietos/Magus]], [[objektai/grupes/Nadruviai]], [[objektai/vietos/Poleksija]], [[objektai/vietos/Polockas]], [[objektai/grupes/Skalviai]], [[objektai/vietos/Sūdavija]], [[objektai/vietos/Veliuona]], [[objektai/vietos/Vilnius]], [[objektai/grupes/Žemaičiai]]
+- Turėjo priklausinį: [[objektai/vietos/Braclavas]], [[objektai/vietos/Jotvingija]], [[objektai/daiktai/Karinė ginkluotė]], [[objektai/vietos/Latvija]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Magus]], [[objektai/grupes/Nadruviai]], [[objektai/vietos/Poleksija]], [[objektai/vietos/Polockas]], [[objektai/grupes/Skalviai]], [[objektai/vietos/Sūdavija]], [[objektai/vietos/Veliuona]], [[objektai/vietos/Vilnius]], [[objektai/grupes/Žemaičiai]]
 - Lietuviai valdė [[objektai/vietos/Kauno gubernija]], [[objektai/vietos/Polockas]], [[objektai/vietos/Žemaitija]]
-- Lietuviai keliavo į [[objektai/vietos/Argentina]], [[objektai/vietos/Aukaimis]], [[objektai/vietos/Australija]], [[objektai/vietos/Bartos žemė]], [[objektai/vietos/Brazilija]], [[objektai/vietos/Dauguva]], [[objektai/vietos/Dobryniaus]], [[objektai/vietos/Giedraičiai]], [[objektai/vietos/Gilgenburgas]], [[objektai/vietos/JAV]], [[objektai/vietos/Kanada]], [[objektai/vietos/Kijevas]], [[objektai/vietos/Kujavija]], [[objektai/vietos/Lentvaris]], [[objektai/vietos/Lomža]], [[objektai/vietos/Lozana]], [[objektai/vietos/Maskva]], [[objektai/vietos/Mazovija]], [[objektai/vietos/Rudava]], [[objektai/vietos/Sibiras]], [[objektai/vietos/Urugvajus]], [[objektai/vietos/Venesuela]], [[objektai/vietos/Vėluva]], [[objektai/vietos/Vilnija]], [[objektai/vietos/Vokietija]], [[objektai/vietos/Zavichostas]], [[objektai/vietos/Žalioji giria]]
+- Lietuviai keliavo į [[objektai/vietos/Argentina]], [[objektai/vietos/Aukaimis]], [[objektai/vietos/Australija]], [[objektai/vietos/Baltija]], [[objektai/vietos/Baltijos jūra]], [[objektai/vietos/Bartos žemė]], [[objektai/vietos/Brazilija]], [[objektai/vietos/Dauguva]], [[objektai/vietos/Dobryniaus]], [[objektai/vietos/Giedraičiai]], [[objektai/vietos/Gilgenburgas]], [[objektai/vietos/JAV]], [[objektai/vietos/Kanada]], [[objektai/vietos/Kijevas]], [[objektai/vietos/Kujavija]], [[objektai/vietos/Lentvaris]], [[objektai/vietos/Lomža]], [[objektai/vietos/Lozana]], [[objektai/vietos/Maskva]], [[objektai/vietos/Mazovija]], [[objektai/vietos/Rudava]], [[objektai/vietos/Sibiras]], [[objektai/vietos/Urugvajus]], [[objektai/vietos/Venesuela]], [[objektai/vietos/Vėluva]], [[objektai/vietos/Vilnija]], [[objektai/vietos/Vokietija]], [[objektai/vietos/Zavichostas]], [[objektai/vietos/Žalioji giria]]
 - Lietuviai pastatė [[objektai/vietos/Junigeda]], [[objektai/daiktai/Romo Kalantos atminimo paminklai ir simboliai]], [[objektai/daiktai/Sklandytuvai]]
 - Lietuviai puolė [[objektai/vietos/Abenda]], [[objektai/vietos/Bartos žemė]], [[objektai/asmenys/Ditrichas iš Ezbeko]], [[objektai/vietos/Dobrynė]], [[objektai/vietos/Dorpatas]], [[objektai/vietos/Dorpato vyskupija]], [[objektai/vietos/Duobelės pilis|Duobelės pilis (pilis)]], [[objektai/ivykiai/Durbės mūšis (1260 m.)]], [[objektai/asmenys/Gerhardas, pravarde Rudė]], [[objektai/vietos/Gilgenburgas]], [[objektai/vietos/Glotava]], [[objektai/asmenys/Hermanas]], [[objektai/vietos/Kaimas]], [[objektai/vietos/Kališo sritis]], [[objektai/vietos/Kersovas]], [[objektai/vietos/Klaipėda]], [[objektai/vietos/Kristburgas]], [[objektai/vietos/Kristmemelis]], [[objektai/vietos/Krokuva]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/vietos/Kujavija]], [[objektai/vietos/Kulmas]], [[objektai/vietos/Kuršas]], [[objektai/vietos/Kuršo žemė]], [[objektai/grupes/Lenkai]], [[objektai/vietos/Lenkija]], [[objektai/vietos/Liubava]], [[objektai/vietos/Liublinas]], [[objektai/vietos/Livonija]], [[objektai/vietos/Lubava]], [[objektai/grupes/Maskvėnai]], [[objektai/vietos/Mazovija]], [[objektai/vietos/Mežuotnės pilis|Mežuotnės pilis (pilis)]], [[objektai/asmenys/Michailas Jaroslavičius]], [[objektai/vietos/Pabečiai]], [[objektai/vietos/Piltenė]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Prūsų žemė]], [[objektai/vietos/Pskovas]], [[objektai/vietos/Ragainė]], [[objektai/vietos/Revelio žemė]], [[objektai/vietos/Revelis]], [[objektai/grupes/Rusai]], [[objektai/vietos/Salacgryva]], [[objektai/vietos/Sambija]], [[objektai/vietos/Sandomierius]], [[objektai/vietos/Sandomiras]], [[objektai/vietos/Semba]], [[objektai/grupes/Skalviai]], [[objektai/vietos/Skalvių pilis|Skalvių pilis (pilis, XIII a.)]], [[objektai/vietos/Straisbergas]], [[objektai/grupes/Totoriai]], [[objektai/vietos/Tverės sritis]], [[objektai/ivykiai/Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)]], [[objektai/vietos/Vėluva]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Vizna]], [[objektai/vietos/Viznos apylinkės]], [[objektai/grupes/Vokiečiai]], [[objektai/asmenys/Volkvinas]], [[objektai/asmenys/Walenrodto]], [[objektai/vietos/Zavichostas]]
 - Lietuviai apgulė [[objektai/vietos/Georgenburgas]], [[objektai/vietos/Kristmemelis]], [[objektai/vietos/Lunenburgas]], [[objektai/vietos/Piltenė]], [[objektai/vietos/Vėluva]]
-- Lietuviai užėmė [[objektai/vietos/Alytus]], [[objektai/vietos/Baltija]], [[objektai/vietos/Baltijos jūra]], [[objektai/vietos/Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai)]], [[objektai/vietos/Birgelava]], [[objektai/vietos/Daugai]], [[objektai/vietos/Dobrynė]], [[objektai/vietos/Gilgenburgas]], [[objektai/vietos/Gostininas]], [[objektai/vietos/Karkuso pilis|Karkuso pilis (pilis, XIII a.)]], [[objektai/vietos/Paberžė]], [[objektai/vietos/Padauguvio Sėla]], [[objektai/vietos/Piarnu]], [[objektai/vietos/Plockas]], [[objektai/vietos/Smolenskas]], [[objektai/vietos/Sochačevas]], [[objektai/vietos/Vyžuonos]], [[objektai/vietos/Žąsliai]]
+- Lietuviai užėmė [[objektai/vietos/Alytus]], [[objektai/vietos/Baltija]], [[objektai/vietos/Baltijos jūra]], [[objektai/vietos/Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai)]], [[objektai/vietos/Birgelava]], [[objektai/vietos/Daugai]], [[objektai/vietos/Dobrynė]], [[objektai/vietos/Gilgenburgas]], [[objektai/vietos/Gostininas]], [[objektai/vietos/Karkuso pilis|Karkuso pilis (pilis, XIII a.)]], [[objektai/vietos/Paberžė]], [[objektai/vietos/Padauguvio Sėla]], [[objektai/vietos/Piarnu]], [[objektai/vietos/Plockas]], [[objektai/vietos/Semba]], [[objektai/vietos/Smolenskas]], [[objektai/vietos/Sochačevas]], [[objektai/vietos/Vyžuonos]], [[objektai/vietos/Žąsliai]]
 - Lietuviai gynė [[objektai/vietos/Bisenė]], [[objektai/vietos/Gardinas]], [[objektai/vietos/Junigeda]], [[objektai/vietos/Kaunas]], [[objektai/vietos/Kėdainiai]], [[objektai/grupes/Krymo totoriai]], [[objektai/vietos/Kuoknesė]], [[objektai/vietos/Kuoknesės pilis|Kuoknesės pilis (pilis)]], [[objektai/grupes/Lenkai]], [[objektai/vietos/Lojevka upė]], [[objektai/vietos/Pieštvė]], [[objektai/vietos/Pilėnai]], [[objektai/vietos/Pskovas]], [[objektai/vietos/Smolenskas]], [[objektai/vietos/Šilginėliai]], [[objektai/vietos/Vilnius]], [[objektai/grupes/Žydai]]
 - Lietuviai siuntė į [[objektai/vietos/Brasta]], [[objektai/vietos/Sluckas]], [[objektai/vietos/Smolenskas]], [[objektai/vietos/Trakai]]
 - Lietuviai surengė žygį į [[objektai/vietos/Dobrynė]], [[objektai/vietos/Kijevo Rusia]], [[objektai/vietos/Kulmas]], [[objektai/vietos/Lenkija]], [[objektai/vietos/Livonija]], [[objektai/vietos/Lubava]], [[objektai/vietos/Mazovija]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Prūsų žemė]], [[objektai/vietos/Pskovas]], [[objektai/vietos/Ragainė]], [[objektai/vietos/Revelis]], [[objektai/vietos/Semba]], [[objektai/vietos/Vėluva]]
-- Lietuviai kariavo prieš [[objektai/grupes/Armija Krajova]], [[objektai/asmenys/Fridrichas fon Quitzas]], [[objektai/asmenys/Fridrichas Kvicas]], [[objektai/asmenys/Hermanas]], [[objektai/asmenys/Kaidanas]], [[objektai/grupes/Kalavijuočių ordinas]], [[objektai/grupes/Kijevo Rusia]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Livonijos riteriai]], [[objektai/grupes/Maskvėnai]], [[objektai/grupes/Mongolai]], [[objektai/grupes/Rusai]], [[objektai/grupes/Švedai]], [[objektai/asmenys/Švitrigaila]], [[objektai/grupes/Totoriai]], [[objektai/grupes/Vokiečiai]]
+- Lietuviai kariavo prieš [[objektai/grupes/Armija Krajova]], [[objektai/asmenys/Fridrichas fon Quitzas]], [[objektai/asmenys/Fridrichas Kvicas]], [[objektai/asmenys/Hermanas]], [[objektai/asmenys/Kaidanas]], [[objektai/grupes/Kalavijuočių ordinas]], [[objektai/grupes/Kijevo Rusia]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Livonijos riteriai]], [[objektai/grupes/Maskvėnai]], [[objektai/grupes/Mongolai]], [[objektai/grupes/Romėnai]], [[objektai/grupes/Rusai]], [[objektai/grupes/Švedai]], [[objektai/asmenys/Švitrigaila]], [[objektai/grupes/Totoriai]], [[objektai/grupes/Vokiečiai]]
 - Lietuviai dalyvavo mūšyje [[objektai/ivykiai/Durbės mūšis (1260 m.)]], [[objektai/ivykiai/Giedraičių kautynės]], [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)]], [[objektai/ivykiai/Karusės mūšis (1270 m. vasario 16 d.)]], [[objektai/ivykiai/Kėdainių-Šėtos kautynės]], [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]], [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)]], [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]], [[objektai/ivykiai/Penkių kaimų apiplėšimas Goliubo pilies apylinkėse|Penkių kaimų apiplėšimas Goliubo pilies apylinkėse (pilis)]], [[objektai/ivykiai/Pilypavo mūšis (1656 m. spalio 22 d.)]], [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)]], [[objektai/ivykiai/Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.)]], [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.)]], [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]], [[objektai/ivykiai/Strėvos mūšis (1348 m.)]], [[objektai/ivykiai/Šklovo mūšis (1654 m. rugpjūčio 12 d.)]], [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]], [[objektai/ivykiai/Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)]], [[objektai/ivykiai/Vernerio karo laivo žygis prieš Junigedą (1313 m.)]], [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis (mūšis)]], [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]], [[objektai/ivykiai/Žemaičių ir lietuvių pergalė prie Eželio prieš Livonijos magistrą Otoną]]
 - Lietuviai sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Teutonai]], [[objektai/grupes/Valachai]]
 - Lietuviai prekiavo su [[objektai/vietos/Livonija]], [[objektai/grupes/Normanai]], [[objektai/vietos/Prūsija]], [[objektai/grupes/Rusai]]
-- Lietuviai gyveno [[objektai/vietos/Anglija]], [[objektai/vietos/Dainava]], [[objektai/vietos/Daugpilis]], [[objektai/vietos/Estija]], [[objektai/vietos/Europa]], [[objektai/vietos/Kaimas]], [[objektai/vietos/Kaunas]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Nemunas]], [[objektai/vietos/Niujorkas]], [[objektai/vietos/Palanga]], [[objektai/vietos/Pensilvanija]], [[objektai/vietos/Peterburgas]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Rusija]], [[objektai/vietos/SSRS]], [[objektai/vietos/Suomija]], [[objektai/vietos/Šiaurės Amerika]], [[objektai/vietos/Šveicarija]], [[objektai/vietos/Vilija]], [[objektai/vietos/Vilniaus kraštas]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Voronežas]], [[objektai/vietos/Zietela]], [[objektai/vietos/Žalioji giria]]
+- Lietuviai gyveno [[objektai/vietos/Anglija]], [[objektai/vietos/Baltija]], [[objektai/vietos/Dainava]], [[objektai/vietos/Daugpilis]], [[objektai/vietos/Estija]], [[objektai/vietos/Europa]], [[objektai/vietos/Kaimas]], [[objektai/vietos/Kaunas]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Nemunas]], [[objektai/vietos/Niujorkas]], [[objektai/vietos/Palanga]], [[objektai/vietos/Pensilvanija]], [[objektai/vietos/Peterburgas]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Rusija]], [[objektai/vietos/SSRS]], [[objektai/vietos/Suomija]], [[objektai/vietos/Šiaurės Amerika]], [[objektai/vietos/Šveicarija]], [[objektai/vietos/Upės (Oppen) kaimas]], [[objektai/vietos/Vilija]], [[objektai/vietos/Vilniaus kraštas]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Voronežas]], [[objektai/vietos/Zietela]], [[objektai/vietos/Žalioji giria]]
 - Lietuviai paskyrė [[objektai/asmenys/Surminas]]
-- Lietuviai priklausė [[objektai/grupes/Baltai]], [[objektai/grupes/Lietuvos komunistų partija]]
+- Lietuviai priklausė [[objektai/grupes/Baltai]], [[objektai/vietos/Lietuva]], [[objektai/grupes/Lietuvos komunistų partija]]
 - Lietuviai rėmė [[objektai/grupes/Lenkai]], [[objektai/grupes/Vokiečiai]], [[objektai/grupes/Žiemgaliai]]

@@ -13,6 +13,18 @@ amziai:
   - 'XIII'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Leonas
 
@@ -25,17 +37,45 @@ Germantas siekė susikauti su Leonu, nes Leonas prieš kelerius metus per vaiše
 <a id="claim-t-186009"></a>
 - t-001
   global_id: t-186009
-  teiginys: 'Germantas siekė susikauti su Leonu, nes Leonas prieš kelerius metus per vaišes nužudė Lietuvos didįjį kunigaikštį.'
+  teiginys: "Germantas siekė susikauti su Leonu, nes Leonas prieš kelerius metus per vaišes nužudė Lietuvos didįjį kunigaikštį."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "217290-217751; hash=47b93c73ff60c7246490c8d7b3f0507c11d7d2edd238d93be26cbadd997ccac8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Leonas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=57"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Leonas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-169370
 
 <a id="claim-t-186010"></a>
 - t-002
   global_id: t-186010
-  teiginys: 'Leonas pirmose pozicijose išrikiavo rusus, o lietuvius ir skitus pastatė užnugaryje kaip žiūrovus.'
+  teiginys: "Leonas pirmose pozicijose išrikiavo rusus, o lietuvius ir skitus pastatė užnugaryje kaip žiūrovus."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "pastatymo data: 1280 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Leono veiksmus ir tiksliai atitinka citatą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "228205-229188; hash=67384aac081d7d8e5c8d851609b59fa5823b67fc25842acbfa58f0a18f85e373; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Leonas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=45"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Leonas\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
-
+    - c-169371
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -52,6 +92,7 @@ Germantas siekė susikauti su Leonu, nes Leonas prieš kelerius metus per vaiše
     padarytą lietuviams, ligi šiol dėl jo tėvo ištižimo ru­
     sui neatkeršyta, kad jis po šiai dienai ramiai gyvena.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -90,8 +131,65 @@ Germantas siekė susikauti su Leonu, nes Leonas prieš kelerius metus per vaiše
     statė užnugaryje, bet ne tam, kad sudarytų rezervą, o
     tam, kad, pasak jo, būtų žiūrovais.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-169370
+  citata_originali: |
+    Su pastaraisiais Germantas
+    suėjo į draugystę, pasiūlydamas sąjungą — ne tiek iš
+    noro taikiai gyventi, kiek iš troškimo visomis jėgo­
+    mis iš karto pulti rusus. Labiausiai jis veržėsi susi­
+    kauti su Leonu, negalėdamas užmiršti, kaip prieš ke­
+    letą metų jo buvo nužudytas vaišėse Lietuvos didysis
+    kunigaikštis. Jis niršte niršo, kad už šitokią skriaudą,
+    padarytą lietuviams, ligi šiol dėl jo tėvo ištižimo ru­
+    sui neatkeršyta, kad jis po šiai dienai ramiai gyvena.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186009
+
+- id: c-169371
+  citata_originali: |
+    Tuo tarpu Krokuvos kaš­
+    telionas Varsas teturėjo labai negausią žygiui pa­
+    sirengusią kariauną, bet, gavęs Lešeko įsakymą pulti
+    priešą bet kokiomis sąlygomis, nusprendė kautis su
+    stipria jo kariuomene atvirame lauke; galimas daiktas,
+    pasielgė lengvabūdiškai, tačiau paprastiems žmonėms
+    (kuriems sprendimas tada geras, kai sėkmingas) atro­
+    dė, jog jis elgėsi pakankamai narsiai. Kadangi Leonas
+    su panieka žiūrėjo į negausius priešus, būdamas tik­
+    ras dėl savo pergalės, o gal norėdamas, kad visa prie­
+    šo nugalėjimo šlovė atitektų jo rusams, ar dar kokiais
+    sumetimais, jis išrikiavo rusus pirmose pozicijose, kur
+    tikėjosi ir kovos, ir pergalės, o lietuvius bei skitus pa­
+    1280 m e ta i
+    L en k a i su m u ša lietu-
+    dėjusiam karą su lenkais, jis
+    pasiuntė į pagalbą kariuo­
+    menę, tačiau nesulaukė sek­
+    sams p a g a lb ą
+    tą neseniai buvo paveldėjęs
+    Lešekas Juodasis. Rusas vėl
+    136
+
+    ## Puslapis 135
+
+    statė užnugaryje, bet ne tam, kad sudarytų rezervą, o
+    tam, kad, pasak jo, būtų žiūrovais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186010

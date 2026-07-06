@@ -12,11 +12,6 @@ datos:
   - '1580 m.'
 date_start: '1515'
 date_end: '1580'
-description: 'Vilnelė Vilniaus istorijoje: nuo Gedimino tvirtovės ir Manvydo rūmų iki XVI a. malūnų, Markučių ir Kasparo Bekešo kapo.'
-socialDescription: 'Vilnelė sieja Gedimino tvirtovę, Šventaragio slėnį, Užupį, Markučius ir XVI a. Vilniaus malūnus bei Bekešo atminimą.'
-seo_atnaujinta: '2026-07-02T23:12:35.479885+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,112 +21,286 @@ tags:
   - valdovas
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vilnelė
 
 ## Santrauka
 
-Vilnelė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Vilniaus vietovaizdžio ir miesto raidos ašis. Prie jos žiočių minima Gedimino pastatydinta mūro tvirtovė, netoliese stovėję Manvydo rūmai, Šventaragio slėnis ir kelias į Užupį. XVI a. šaltiniuose prie Vilnelės minimi malūnai, Markučiai ir 1580 m. Kasparo Bekešo kapą pažymėjęs apvalaus bokšto pavidalo paminklas.
+Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nukovęs taurą, o paskni Šventaragio slėnyje (kur vėliau pastatyta katedra) susapnavęs įdomų sapną, kurį tepa­ jėgęs tik vyriausias žynys Lizdeika išaiškinti. 73 Vilhelmas Habsburgas 281, 284- 286, 289 Vilhelmas Morenietis 166, 167, 180 Vilhelmas, Olandijos grafas 249 Vilija (Neris) 156 Vilikaila 162 Vilkaviškis 112 Vilkija 216 Vilkų Kampo kaimas 109 Vilnelė, upė 110, 244 Vilkolevičius, bajoras 368 Vilnius 5, 6.
 
 ## Teiginiai
 
 <a id="claim-t-85116"></a>
-- t-001
+- t-002
   global_id: t-85116
-  teiginys: 'Ten, kur Vilnelė įteka į Viliją, stovėjo Gedimino pastatydinta mūro tvirtovė.'
+  teiginys: "Ten, kur Vilnelė įteka į Viliją, stovėjo Gedimino pastatydinta mūro tvirtovė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "232817-233377; hash=bfe98eeaea6cffd3087f6fa909bd58a38ebccf49db9dd6c91884e593ba8f813a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilnelė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilnelė\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-81193
 
 <a id="claim-t-85117"></a>
-- t-002
+- t-006
   global_id: t-85117
-  teiginys: '1522 m. prie Vilnelės iškilo popieriaus malūnas.'
+  teiginys: "1522 m. prie Vilnelės iškilo popieriaus malūnas."
+  temporaliniai_duomenys: "įvykio data: 1522 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "533832-534468; hash=7325eb9ffeea910618d083348dad22f6cd5b09aae8db14549f4e0d9171d0ad90; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Malūnas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilnelė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Malūnas: mention_match, thing, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilnelė\" parinktas kaip owner_note_path. Targetas \"Malūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-81199
 
 <a id="claim-t-85118"></a>
-- t-003
+- t-010
   global_id: t-85118
-  teiginys: 'Pilies kalno pietų pusėje tarp kalno ir Vilnelės stovėjo didžiuliai Manvydo rūmai.'
+  teiginys: "Pilies kalno pietų pusėje tarp kalno ir Vilnelės stovėjo didžiuliai Manvydo rūmai."
+  semantiniai_rysiai: "Manvydo rūmai priklausė Manvydas (0.86)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "233177-233676; hash=c34c1558d9458573cfbc750c9149973a67b455f4ffd6b91ee1fed955137e21e1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Manvydas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Manvydo rūmai: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Manvydas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Pavadinimas ir sakinys tiesiogiai sieja rūmus su Manvydu."
   pagrindžia:
-    - c-007
+    - c-81202
 
 <a id="claim-t-85119"></a>
-- t-004
+- t-003
   global_id: t-85119
-  teiginys: 'Šventaragio slėnis buvo lanka tarp Vilijos ir Vilnelės, kur degė lietuvių garbinama amžinoji ugnis Gabija.'
+  teiginys: "Šventaragio slėnis buvo lanka tarp Vilijos ir Vilnelės, kur degė lietuvių garbinama amžinoji ugnis Gabija."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "233177-233676; hash=c34c1558d9458573cfbc750c9149973a67b455f4ffd6b91ee1fed955137e21e1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilnelė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilnelė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-81202
 
-<a id="claim-t-85120"></a>
+<a id="claim-t-85130"></a>
 - t-005
-  global_id: t-85120
-  teiginys: 'Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus.'
+  global_id: t-85130
+  teiginys: "Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "527306-528093; hash=09e9c96377f340c341803c6e69f3465883663b41a0e5d2afa1d7082a7d6ee22c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilnelė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=25"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilnelė\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-81194
 
 <a id="claim-t-85121"></a>
-- t-006
+- t-014
   global_id: t-85121
-  teiginys: '1580 metais ant kalno prie Vilnelės, prie Kasparo Bekešo kapo, pastatytas apvalaus bokšto pavidalo paminklas.'
+  teiginys: "1580 metais ant kalno prie Vilnelės, prie Kasparo Bekešo kapo, pastatytas apvalaus bokšto pavidalo paminklas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "586922-587520; hash=c5b9a3a00fc7d4ddbb489f5bd8e1c0aed1e4eebfa30345fe665ac5e5490da7f4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Astikas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilnelė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Astikas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilnelė\" parinktas kaip owner_note_path. Targetas \"Astikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-81200
 
 <a id="claim-t-85122"></a>
 - t-007
   global_id: t-85122
-  teiginys: '1580 m. ant kalno prie Vilnelės Kasparo Bekešo kapą pažymėjo apvalaus bokšto pavidalo paminklas.'
+  teiginys: "1580 m. ant kalno prie Vilnelės Kasparo Bekešo kapą pažymėjo apvalaus bokšto pavidalo paminklas."
+  temporaliniai_duomenys: "įvykio data: 1580 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "586922-587520; hash=c5b9a3a00fc7d4ddbb489f5bd8e1c0aed1e4eebfa30345fe665ac5e5490da7f4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Astikas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilnelė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Astikas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilnelė\" parinktas kaip owner_note_path. Targetas \"Astikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-81200
 
 <a id="claim-t-85123"></a>
-- t-008
+- t-013
   global_id: t-85123
-  teiginys: '1522 metais prie Vilnelės iškilo popieriaus malūnas, buvęs aukščiau Vilniaus vaivados malūno ir žemiau Charitonovo palivarko.'
+  teiginys: "1522 metais prie Vilnelės iškilo popieriaus malūnas, buvęs aukščiau Vilniaus vaivados malūno ir žemiau Charitonovo palivarko."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "533832-534468; hash=7325eb9ffeea910618d083348dad22f6cd5b09aae8db14549f4e0d9171d0ad90; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Malūnas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilnelė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Malūnas: mention_match, thing, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilnelė\" parinktas kaip owner_note_path. Targetas \"Malūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-81199
 
 <a id="claim-t-85124"></a>
-- t-009
+- t-008
   global_id: t-85124
-  teiginys: 'Maksimui Vasiljevičiui buvo dovanota šienaujama pieva prie kelio į Užupį, už Vilnelės.'
+  teiginys: "Maksimui Vasiljevičiui buvo dovanota šienaujama pieva prie kelio į Užupį, už Vilnelės."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "693900-694245; hash=8c612950a853081791fa46b280eff28b7d7a5dc94e439cbac19301cc39f32987; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Malūnas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilnelė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Malūnas: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilnelė\" parinktas kaip owner_note_path. Targetas \"Malūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-81195
 
 <a id="claim-t-85125"></a>
-- t-010
+- t-015
   global_id: t-85125
-  teiginys: 'Aleksandras dovanojo Maksimui Vasiljevičiui šienaujamą pievą už Vilnelės prie kelio iš miesto į Užupį.'
+  teiginys: "Aleksandras dovanojo Maksimui Vasiljevičiui šienaujamą pievą už Vilnelės prie kelio iš miesto į Užupį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "693900-694245; hash=8c612950a853081791fa46b280eff28b7d7a5dc94e439cbac19301cc39f32987; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Užupis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilnelė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Užupis: mention_match, place, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilnelė\" parinktas kaip owner_note_path. Targetas \"Užupis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-81195
 
 <a id="claim-t-85126"></a>
 - t-011
   global_id: t-85126
-  teiginys: 'Vilnia, arba Vilnelė, anuomet tekėjo pro Pilies gatvę, palei Pilies vartus ir už dabartinės katedros įtekėjo į Viliją.'
+  teiginys: "Vilnia, arba Vilnelė, anuomet tekėjo pro Pilies gatvę, palei Pilies vartus ir už dabartinės katedros įtekėjo į Viliją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "235954-236351; hash=ad4c0181b6bd2b3b9364112693d5a036157b448e63723782f1997a238efbb8e2; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilnelė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilija: mention_match, place, gap=98"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilnelė\" parinktas kaip owner_note_path. Targetas \"Vilija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-81197
 
 <a id="claim-t-85127"></a>
-- t-012
+- t-009
   global_id: t-85127
-  teiginys: 'Gedimino pastatydinta mūro tvirtovė stovėjo prie Vilnelės žiočių į Viliją.'
+  teiginys: "Gedimino pastatydinta mūro tvirtovė stovėjo prie Vilnelės žiočių į Viliją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "232817-233377; hash=bfe98eeaea6cffd3087f6fa909bd58a38ebccf49db9dd6c91884e593ba8f813a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilnelė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilija: mention_match, place, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilnelė\" parinktas kaip owner_note_path. Targetas \"Vilija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-81193
 
 <a id="claim-t-85128"></a>
-- t-013
+- t-004
   global_id: t-85128
-  teiginys: 'Vilnelė anuomet tekėjo pro Pilies gatvę, palei Pilies vartus ir už dabartinės katedros įtekėjo į Viliją.'
+  teiginys: "Vilnelė anuomet tekėjo pro Pilies gatvę, palei Pilies vartus ir už dabartinės katedros įtekėjo į Viliją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "235954-236351; hash=ad4c0181b6bd2b3b9364112693d5a036157b448e63723782f1997a238efbb8e2; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilnelė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilija: mention_match, place, gap=97"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilnelė\" parinktas kaip owner_note_path. Targetas \"Vilija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-81197
 
 <a id="claim-t-85129"></a>
-- t-014
+- t-001
   global_id: t-85129
-  teiginys: 'Gedimino legendoje medžioklė vyko kalne prie Neries ir Vilnelės santakos, o sapną Šventaragio slėnyje išaiškino Lizdeika.'
+  teiginys: "Gedimino legendoje medžioklė vyko kalne prie Neries ir Vilnelės santakos, o sapną Šventaragio slėnyje išaiškino Lizdeika."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "675446-675923; hash=eeb5788ee93c4c6236e5669c1a205f28607727e5f5486bcbc74f37ed95df6115; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Šventaragis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilnelė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Šventaragis: mention_match, person, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilnelė\" parinktas kaip owner_note_path. Targetas \"Šventaragis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-81207
+
+<a id="claim-t-85130"></a>
+- t-005
+  global_id: t-85130
+  teiginys: "Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "527306-528093; hash=09e9c96377f340c341803c6e69f3465883663b41a0e5d2afa1d7082a7d6ee22c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilnelė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=25"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilnelė\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-81194
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176351|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Balińskis manė, kad Gediminas, statydindamas pilį Rusios belaisvių rankomis, iškasė Vilnelei kitą vagą ir paaukštino Pilies kalną.
 - susijęs iš [[objektai/asmenys/Kasparas Bekešas.md#claim-t-87531|Kasparas Bekešas]]: Kasparo Bekešo atminimas Vilniuje 1580 m. pagerbtas prie kapo ant kalno prie Vilnelės pastačius apvalaus bokšto paminklą.
 - susijęs iš [[objektai/asmenys/Maksimas Vasiljevičius.md#claim-t-87769|Maksimas Vasiljevičius]]: Didysis kunigaikštis Aleksandras dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą už Vilnelės.
@@ -145,13 +314,6 @@ Vilnelė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Vilniaus 
 - susijęs iš Kreivasis kalnas: Kreivasis kalnas lokalizuojamas šiauriniame Vilnelės krante, priešais dabartinį Gedimino kalną.
 - susijęs iš Užupis: Maksimui Vasiljevičiui buvo dovanota šienaujama pieva prie kelio iš miesto į Užupį, už Vilnelės.
 - susijęs iš Užupis: Aleksandras dovanojo Maksimui Vasiljevičiui pievą prie kelio iš Vilniaus į Užupį už Vilnelės.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): 1522 metais prie Vilnelės iškilo popieriaus malūnas, buvęs aukščiau Vilniaus vaivados malūno ir žemiau Charitonovo palivarko.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Didysis kunigaikštis Aleksandras dovanojo Maksimui Vasiljevičiui šienaujamą pievą už Vilnelės prie kelio į Užupį.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Gediminas įsakė pastatyti mūrinę pilį Vilnelės ir Vilijos upių santakoje.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): 1580 metais ant kalno prie Vilnelės Kasparo Bekešo kapui buvo pastatytas apvalaus bokšto pavidalo paminklas.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Pasak autoriaus, Gediminas, statydindamas pilį, iškasė Vilnelei kitą vagą.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Tarp Vilijos ir Vilnelės plytėjo Šventaragio slėnio lanka, nuo seno apaugusi ąžuolais.
 - susijęs iš Voluinė: Užėmęs Rusios kunigaikščių tėvonijas Voluinėje, valdovas įsakė Vilnelės ir Vilijos santakoje pastatyti mūrinę pilį.
 - susijęs iš Šventaragio slėnis: Šventaragio slėnyje tarp Vilijos ir Vilnelės degė lietuvių garbinta amžinoji ugnis Gabija.
 - susijęs iš [[objektai/asmenys/Eustachijus (raštininkas).md#claim-t-87662|Eustachijus (raštininkas)]]: Raštininkas Eustachijus pasirašė 1538 m. rugsėjo 1 d. Žygimanto Augusto laišką dėl Drujos vandens tiekimo į Vilnių.
@@ -171,7 +333,6 @@ Vilnelė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Vilniaus 
 - susijęs iš Palenkė: Palenkėje tarp vietos žmonių sklido padavimas, kad senovėje iš ten eidavo į Vilnių kalnų kasti.
 - susijęs iš Romainiai: Balińskio manymu, po 1294 m. kryžiuočių smūgio Perkūno tikėjimo relikvijos, Krivių Krivaitis ir aukotojai tikriausiai buvo perkelti iš Romainių į Vilnių.
 - susijęs iš Vilija: Gedimino pastatydinta mūro tvirtovė stovėjo prie Vilnelės žiočių į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Vilnia tekėjo kalnų apsupta vaga ir įtekėjo į Viliją ties Gedimino pastatyta mūro tvirtove.
 - susijęs iš Vilnia: Gediminas, statydindamas pilį, iškasė Vilniai naują vagą ir iškastomis žemėmis paaukštino Pilies kalną.
 - susijęs iš Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): Vilnelės ir Vilijos santakoje buvo įsakyta pastatyti mūrinę pilį ant žmonių rankomis paaukštinto kalno.
 - susijęs iš Vilniaus pilis: Vilnelės ir Vilijos santakoje buvo įsakyta pastatyti mūrinę pilį ant žmonių rankomis paaukštinto kalno.
@@ -202,8 +363,9 @@ Vilnelė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Vilniaus 
     siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje,
     palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -234,6 +396,7 @@ Vilnelė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Vilniaus 
     Vitebsko vaivadienė turėjo gerą sko­
     nį ir gyveno žavingoje vietoje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -254,6 +417,7 @@ Vilnelė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Vilniaus 
     čio iš miesto į Užupį, už Vilnelės. Tai davėme jam ir jo
     vaikams visiems laikams.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -279,6 +443,7 @@ Vilnelė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Vilniaus 
     siškai greta Vilnios žiočių įtekėjo į Vi­
     liją.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -302,6 +467,7 @@ Vilnelė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Vilniaus 
     dimą priešais Žemutinės Vilniaus pilies vartus, per Vilijos upę
     nutiesti tiltą iš akmenų arba plytų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -325,6 +491,7 @@ Vilnelė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Vilniaus 
     vyskupo stalo dvaro, vadinamo
     Vozgėliškėmis [Vaisgėliškis].
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -345,6 +512,7 @@ Vilnelė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Vilniaus 
     didžiai garbinama lietuvių. Čia pat medinė šventykla, prie
     kurios šliejosi pagonių vaidilų būstai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -364,8 +532,188 @@ Vilnelė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Vilniaus 
     vilkų », reiškęs, jog toje vietoje busiąs pastatytas miestas, kuris
     pasieksiąs didelio garso.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
+## Citatos
+
+- id: c-81193
+  citata_originali: |
+    Dar
+    niūrokas tuomet, bet visais laikais kerintis gražiu krašto­
+    vaizdžiu buvo anuometinis Vilnius, iškilęs prieš akis atvyku-
+    siems lenkams. Iš žalio slėnio gilumos, ant paskutiniojo iš kal­
+    nų, supančių Vilnelės upės vagą, ir ten, kur ji įteka į Viliją,
+    buvo iškilusi mūro tvirtovė, galingojo Gedimino pastatydin­
+    ta, saugoma aukštų sienų ir trijų bokštų. O pilies kalno pietų
+    pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­
+    siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje,
+    palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja.
+  citata_rodoma: "Iš žalio slėnio gilumos, ant paskutiniojo iš kal­\nnų, supančių Vilnelės upės vagą, ir ten, kur ji įteka į Viliją,\nbuvo iškilusi mūro tvirtovė, galingojo Gedimino pastatydin­\nta, saugoma aukštų sienų ir trijų bokštų. O pilies kalno pietų\npusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­\nsiausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje,\npalei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-85116
+    - t-85127
+
+- id: c-81194
+  citata_originali: |
+    Iš tos versmės ištekantis upelis vadi­
+    nosi Druja, nes yra miesto archyve ka­
+    raliaus Žygimanto Augusto laiškas,
+    rašytas rusų kalba iš Liublino, datuo­
+    tas 1538 metų rugsėjo 1 dieną, su
+    Lietuvos antspaudu ir raštininko Os-
+    tafiejaus [Eustachijaus] parašu, įspė­
+    jantis ponią Kiščiną, Vitebsko vaiva-
+    dienę, kad nestabdytų vandens,
+    vamzdžiais nuvesto į miestą, iš Dru­
+    jos upės Paplaujoje, tekančios netoli
+    Ziupronių kelio, nes tam yra kara­
+    liaus leidimas, kurį ji privalanti gerb­
+    ti. Toji Kiščina valdė Markučius ir ant
+    kalno prie Vilnelės turėjo didelius
+    kaimo stiliaus namus, - prie kelio, iš­
+    einančio iš daubos ir vedančio iš da­
+    bartinio Markučių dvaro į namelį, va­
+    dintą Jeruzalimu, Paplaujoje. Ponia
+    Vitebsko vaivadienė turėjo gerą sko­
+    nį ir gyveno žavingoje vietoje.
+  citata_rodoma: "Toji Kiščina valdė Markučius ir ant\nkalno prie Vilnelės turėjo didelius\nkaimo stiliaus namus, - prie kelio, iš­\neinančio iš daubos ir vedančio iš da­\nbartinio Markučių dvaro į namelį, va­\ndintą Jeruzalimu, Paplaujoje. Ponia\nVitebsko vaivadienė turėjo gerą sko­\nnį ir gyveno žavingoje vietoje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-85130
+    - t-85120
+
+- id: c-81195
+  citata_originali: |
+    PATS ALEKSANDRAS,
+    DIEVO MALONE DIDYSIS LIETUVOS,
+    RUSIOS, ŽEMAIČIŲ IR KITŲ
+    KUNIGAIKŠTIS
+    Vilniaus vaivadai mūsų kancleriui ponui Mikalojui Rad­
+    vilai. Dovanojame Vilniaus miestiečiui Maksimui Vasiljevi-
+    čiui šienaujamą pievą palei tavo malūną prie kelio, vedan­
+    čio iš miesto į Užupį, už Vilnelės. Tai davėme jam ir jo
+    vaikams visiems laikams.
+  citata_rodoma: "Dovanojame Vilniaus miestiečiui Maksimui Vasiljevi-\nčiui šienaujamą pievą palei tavo malūną prie kelio, vedan­\nčio iš miesto į Užupį, už Vilnelės. Tai davėme jam ir jo\nvaikams visiems laikams."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-85124
+    - t-85125
+
+- id: c-81197
+  citata_originali: |
+    Tačiau nėra patikimų
+    tam įrodymu.
+    4
+    Vilnia, arba Vilnelė, anuomet, atite­
+    kėjusi iš už Plikojo kalno, bėgo pro
+    Pilies [gatvę], per senuosius roki tų
+    mūrus, palei Pilies vartus, paskui per
+    mažąjį turgų ir, apsukusi lankstu pi­
+    lies teritoriją, už dabartinės katedros
+    įtekėjo į Viliją. Iš priešingos, vakarų,
+    pusės atitekėjęs Vingrių upokšnis vi­
+    siškai greta Vilnios žiočių įtekėjo į Vi­
+    liją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-85126
+    - t-85128
+
+- id: c-81199
+  citata_originali: |
+    Malūnas, iki mūsų laikų vadin­
+    tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius
+    1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui
+    ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­
+    mis, leisdamas imti trečią grūdą iki gyvos galvos15. O po kele­
+    lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir
+    žemiau Charitonovo palivarko prie Vilnelės16 iškilo popieriaus
+    malūnas. Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­
+    tautas, Vilniaus vaivada ir LDK kancleris, gavo karaliaus lei­
+    dimą priešais Žemutinės Vilniaus pilies vartus, per Vilijos upę
+    nutiesti tiltą iš akmenų arba plytų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-85123
+    - t-85117
+
+- id: c-81200
+  citata_originali: |
+    Pagaliau čia, Vilniuje,
+    šis didis karalius, nenuilstamai rūpindamasis krašto saugu­
+    mu, naudodamasis jam patikėta valdžia, griežtai, bet teisin­
+    gai bausdavo išdavikus ir apdovanodavo doruosius bei nu­
+    sipelniusius. Vilniaus turguje 1580 metų birželio 18 dieną
+    buvo nukirsdintas Jurgis Astikas - už klastą ir tėvynės išda­
+    vystę61. Narsiojo Kasparo Bekešo atminimas Vilniuje 1580
+    metais buvo pagerbtas prie jo kapo, ant kalno prie Vilnelės,
+    pastačius apvalaus bokšto pavidalo paminklą, išlikusį iki
+    [Vyskupo seminarijos fundacija iš
+    vyskupo stalo dvaro, vadinamo
+    Vozgėliškėmis [Vaisgėliškis].
+  citata_rodoma: "Vilniaus turguje 1580 metų birželio 18 dieną \nbuvo nukirsdintas Jurgis Astikas - už klastą ir tėvynės išda­\nvystę61. Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 \nmetais buvo pagerbtas prie jo kapo, ant kalno prie Vilnelės, \npastačius apvalaus bokšto pavidalo paminklą, išlikusį iki\n[Vyskupo seminarijos fundacija iš \nvyskupo stalo dvaro, vadinamo \nVozgėliškėmis [Vaisgėliškis]."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-85121
+    - t-85122
+
+- id: c-81202
+  citata_originali: |
+    O pilies kalno pietų
+    pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­
+    siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje,
+    palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja. Reikš­
+    mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­
+    tis pleištu įsiterpusią lanką tarp Vilijos ir Vilnelės, nuo senų
+    senovės apaugęs ąžuolais; ten degė amžinoji ugnis - Gabija,
+    didžiai garbinama lietuvių. Čia pat medinė šventykla, prie
+    kurios šliejosi pagonių vaidilų būstai.
+  citata_rodoma: "Reikš­\nmingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­\ntis pleištu įsiterpusią lanką tarp Vilijos ir Vilnelės, nuo senų\nsenovės apaugęs ąžuolais; ten degė amžinoji ugnis - Gabija,\ndidžiai garbinama lietuvių. Čia pat medinė šventykla, prie\nkurios šliejosi pagonių vaidilų būstai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-85119
+    - t-85118
+
+- id: c-81207
+  citata_originali: |
+    Gražia legenda yra apipintas Vilniuje valstybės sostinės
+    įkūrimas^14. Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­
+    takoje), Gediminas nukovęs taurą, o paskni Šventaragio slėnyje
+    (kur vėliau pastatyta katedra) susapnavęs įdomų sapną, kurį tepa­
+    jėgęs tik vyriausias žynys Lizdeika išaiškinti. Valdovo sapne gir­
+    dėtas staugimas «geležinio vilko », «lyg jame butų staugę šimtas
+    vilkų », reiškęs, jog toje vietoje busiąs pastatytas miestas, kuris
+    pasieksiąs didelio garso.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-85129

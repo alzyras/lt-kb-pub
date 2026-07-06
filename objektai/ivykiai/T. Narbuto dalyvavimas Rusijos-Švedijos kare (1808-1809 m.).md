@@ -13,6 +13,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # T. Narbuto dalyvavimas Rusijos-Švedijos kare (1808-1809 m.)
 
@@ -43,22 +55,51 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-003
-  teiginys: 'T. Narbutas dalyvavo 1808-1809 m. Rusijos-Švedijos kare.'
-  pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Dalyvaudamas 1808-1809 m. Rusijos-Švedijos kare, T. Narbutas buvo kontūzytas mūšyje prie Abo miesto ir vėliau apkurto.'
-  pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
 
+<a id="claim-t-187805"></a>
+- t-004
+  global_id: t-187805
+  teiginys: "Dalyvaudamas 1808-1809 m. Rusijos-Švedijos kare, T. Narbutas buvo kontūzytas mūšyje prie Abo miesto ir vėliau apkurto."
+  teiginio_tipas: "faktas"
+  temporaliniai_duomenys: "įvykio data: 1807 m.; įvykio data: 1808-1809; įvykio data: 1809 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys jau sujungia karą, Abo mūšio kontūziją ir vėlesnį apkurtimą į pilną faktinį sakinį. Papildoma atribucija nereikalinga, nes nėra vertinamosios ar legendinės formuluotės."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "5972-6239; hash=db3d47279b2d612d473e01d8ce7b114e4fa9bcd3794c3a30fd6f42fab870416d; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  ryšio_patikimumas: "susije_su -> Rusija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "T. Narbuto dalyvavimas Rusijos-Švedijos kare (1808-1809 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Rusija: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"T. Narbuto dalyvavimas Rusijos-Švedijos kare (1808-1809 m.)\" parinktas kaip owner_note_path. Targetas \"Rusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-170757
+
+<a id="claim-t-187806"></a>
+- t-003
+  global_id: t-187806
+  teiginys: "T. Narbutas dalyvavo 1808-1809 m. Rusijos-Švedijos kare."
+  teiginio_tipas: "faktas"
+  temporaliniai_duomenys: "įvykio data: 1807 m.; įvykio data: 1808-1809; įvykio data: 1809 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai nusako note objektą. Citata jį pakankamai pagrindžia be papildomų neparemtų detalių."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "5972-6239; hash=db3d47279b2d612d473e01d8ce7b114e4fa9bcd3794c3a30fd6f42fab870416d; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  ryšio_patikimumas: "susije_su -> Rusija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "T. Narbuto dalyvavimas Rusijos-Švedijos kare (1808-1809 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Rusija: mention_match, place, gap=34"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"T. Narbuto dalyvavimas Rusijos-Švedijos kare (1808-1809 m.)\" parinktas kaip owner_note_path. Targetas \"Rusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-170757
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'T. Narbutas dalyvavo 1808-1809 m. Rusijos-Švedijos kare.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Tarnaudamas Rusijos kariuomenėje, 1807 m. daly­
@@ -66,12 +107,14 @@ Nenurodyta
     butas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.
     Mūšyje prie Abo miesto jį kontūzijo. Sužeidimas netrukus at­
     siliepė sveikatai -  jis apkurto.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-    - t-004
+    - t-002
+    - t-001
 
 ## Data ir vieta
 
@@ -80,3 +123,21 @@ Data: 1808-1809 m.
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
+
+## Citatos
+
+- id: c-170757
+  citata_originali: |
+    Tarnaudamas Rusijos kariuomenėje, 1807 m. daly­
+    vavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas. T. Nar­
+    butas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.
+    Mūšyje prie Abo miesto jį kontūzijo. Sužeidimas netrukus at­
+    siliepė sveikatai -  jis apkurto.
+  citata_rodoma: "Tarnaudamas Rusijos kariuomenėje, 1807 m. daly­\nvavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas. T. Nar­\nbutas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.\nMūšyje prie Abo miesto jį kontūzijo. Sužeidimas netrukus at­\nsiliepė sveikatai -  jis apkurto."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187806
+    - t-187805

@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Liubava
 
@@ -17,9 +29,23 @@ Liubavą apiplėšęs lietuvių būrys neteko penkiolikos karių ir didelės gro
 <a id="claim-t-185253"></a>
 - t-001
   global_id: t-185253
-  teiginys: 'Liubavą apiplėšęs lietuvių būrys neteko penkiolikos karių ir didelės grobio dalies.'
+  teiginys: "Liubavą apiplėšęs lietuvių būrys neteko penkiolikos karių ir didelės grobio dalies."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Lietuviai puolė Liubava (0.84)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "308509-309006; hash=edf38f24c1a03d5f9c1305aa2381f8ad4b3289b52a0a181f2587457e9192af50; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Liubava: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Liubava: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Lietuvių būrys tiesiogiai nurodomas apiplėšęs Liubavą, todėl ryšys žymi puolamąjį veiksmą."
   pagrindžia:
-    - c-001
+    - c-168614
 - susijęs iš [[objektai/ivykiai/Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą.md#claim-t-185648|Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą]]: Skomantas su žemaičių ir sūduvių kariais sudegino Liubavos ir Kulmo miestus ir nusiaubė visą Kujaviją.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184493|Kryžiuočių ordinas]]: Sūduvos prūsai ir žemaičiai prie Liubavos neišdrįso stoti į atvirą mūšį su kryžiuočiais ir pabėgo, palikę stovyklą bei gurguoles.
 - susijęs iš [[objektai/grupes/Sūduvos prūsai.md#claim-t-185461|Sūduvos prūsai]]: Sūduvos prūsai su jiems padėjusiais žemaičiais nusiaubė Kulmo kraštą ir sustojo prie Liubavos.
@@ -54,11 +80,37 @@ Liubavą apiplėšęs lietuvių būrys neteko penkiolikos karių ir didelės gro
     sumą ar godumą: neteko penkiolikos karių ir didelės
     grobio dalies.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-168614
+  citata_originali: |
+    Vėliau, be tvarkos kelian­
+    180
+
+    ## Puslapis 179
+
+    tis per Narevą, upės sūkuriuose žuvo didelė dalis ka­
+    rių ir grobio. Ne geriau pavyko kitam lietuvių būriui,
+    apiplėšusiam Liubavą. Penkiasdešimt raitelių (nunioko­
+    ję kaimus, jie išžudė daugybę kaimiečių, kuriuos už­
+    klupo beginklius), nejausdami pavojaus, vežėsi namo
+    grobį ir varėsi belaisvius; juos apsupo staiga pasiro­
+    dę kryžiuočiai ir privertė atsiteisti už neapgalvotą nar­
+    sumą ar godumą: neteko penkiolikos karių ir didelės
+    grobio dalies.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185253
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Sūduvos prūsai]]

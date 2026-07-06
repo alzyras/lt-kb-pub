@@ -13,6 +13,18 @@ tags:
   - vieta
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Tauragnai
 
@@ -23,18 +35,42 @@ Dalį raitininkų pasiuntęs Tauragnų kryptimi, su likusiais vyko į Uteną. Bi
 ## Teiginiai
 
 <a id="claim-t-42181"></a>
-- t-001
+- t-002
   global_id: t-42181
-  teiginys: '1919 m. birželio 3 d. lietuvių kariai, persekiodami bolševikus, užėmė Daugailius ir Tauragnus.'
+  teiginys: "1919 m. birželio 3 d. lietuvių kariai, persekiodami bolševikus, užėmė Daugailius ir Tauragnus."
+  temporaliniai_duomenys: "įvykio data: 1919 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia aiškaus veikėjo ir gramatiškai pritaikyto vietovardžio."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "756571-756713; hash=b38ab42b10ce24eae36e1a86bd10f4991037ca3d1962047f90249a005f306517; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Daugailiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tauragnai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Daugailiai: mention_match, place, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tauragnai\" parinktas kaip owner_note_path. Targetas \"Daugailiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-45353
 
 <a id="claim-t-42182"></a>
-- t-002
+- t-001
   global_id: t-42182
-  teiginys: 'Dalis raitininkų buvo pasiųsta Tauragnų kryptimi, o likusieji vyko į Uteną.'
+  teiginys: "Dalis raitininkų buvo pasiųsta Tauragnų kryptimi, o likusieji vyko į Uteną."
+  semantiniai_rysiai: "K. Ladyga keliavo į Utena (0.90); K. Ladyga siuntė į Tauragnai (0.85)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "756123-756371; hash=a43ed0dc1881d7c5d30f3c7ec1dfb7f626f84dee4748b3daab225f3e3a32307a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Utena: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "K. Ladyga: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Utena: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad K. Ladyga su likusiais vyko į Uteną."
   pagrindžia:
-    - c-002
+    - c-45354
 - susijęs iš Butrimonys: Iki liepos pabaigos lenkai užgrobė Butrimonis, Merkinę, Daugus, Stakliškes, Aukštadvarį, Vievį, Kernavę, Molėtus, Tauragnus, Dūkštą ir kitas vietoves.
 - susijęs iš Butrimonys: Iki liepos pabaigos lenkai užgrobė Butrimonis, Merkinę, Daugus, Stakliškes, Aukštadvarį, Vievį, Kernavę, Molėtus, Tauragnus, Dūkštą ir kitas vietoves.
 - susijęs iš [[objektai/asmenys/K. Ladyga.md#claim-t-40248|K. Ladyga]]: K. Ladyga 1919 m. birželio 2 d. su raitininkais slinko į rytus paskui atsitraukiantį priešą.
@@ -74,6 +110,7 @@ Dalį raitininkų pasiuntęs Tauragnų kryptimi, su likusiais vyko į Uteną. Bi
     kus. Birželio 3 d. buvo užimti Daugailiai,
     Tauragnai, birželio 4 d. Paberžė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -93,11 +130,47 @@ Dalį raitininkų pasiuntęs Tauragnų kryptimi, su likusiais vyko į Uteną. Bi
     Uteną pasiekusias Zechau ir Musteikio
     kolonos dalis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-45353
+  citata_originali: |
+    Karin. K. Ladyga su lie-
+    tuvių kariais toliau persekiojo bolševi-
+    kus. Birželio 3 d. buvo užimti Daugailiai,
+    Tauragnai, birželio 4 d. Paberžė.
+  citata_rodoma: "Birželio 3 d. buvo užimti Daugailiai,\nTauragnai, birželio 4 d. Paberžė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-42181
+
+- id: c-45354
+  citata_originali: |
+    K. Ladyga birželio 2 d.
+    su raitininkais slinko paskui atsi-
+    traukiantį priešą į rytus. Dalį raiti-
+    ninkų pasiuntęs Tauragnų kryptimi,
+    su likusiais vyko į Uteną.
+
+    Ten jis rado jau prieš pusvalandį
+    Uteną pasiekusias Zechau ir Musteikio
+    kolonos dalis.
+  citata_rodoma: "Dalį raiti-\nninkų pasiuntęs Tauragnų kryptimi,\nsu likusiais vyko į Uteną.\n\nTen jis rado jau prieš pusvalandį\nUteną pasiekusias Zechau ir Musteikio\nkolonos dalis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-42182
 
 ## Ryšiai
 - Užėmė Tauragnai: [[objektai/grupes/Lenkai]]

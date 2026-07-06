@@ -13,6 +13,18 @@ tags:
   - saltinis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Zajączkowski S. Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka
 
@@ -25,10 +37,19 @@ Dusburgietis teigia, kad zajączkowski S.
 <a id="claim-t-61379"></a>
 - t-001
   global_id: t-61379
-  teiginys: 'S. Zajączkowskio veikalas „Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka“ išleistas Lvove 1929 metais.'
+  teiginys: "S. Zajączkowskio veikalas „Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka“ išleistas Lvove 1929 metais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "819151-819244; hash=b9dfbee31a72d91fca121ec0198e8829f0387f5eee998696946472d57160cf7f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lvovas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Zajączkowski S. Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lvovas: mention_match, place, gap=102"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zajączkowski S. Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka\" parinktas kaip owner_note_path. Targetas \"Lvovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-62011
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -38,8 +59,22 @@ Dusburgietis teigia, kad zajączkowski S.
     Zajączkowski S. Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka.—
     Lwów, 1929.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-62011
+  citata_originali: |
+    Zajączkowski S. Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka.—
+    Lwów, 1929.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-61379

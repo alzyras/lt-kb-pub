@@ -17,6 +17,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vyrgalės sala
 
@@ -27,19 +39,38 @@ amziai:
 ## Teiginiai
 
 <a id="claim-t-50552"></a>
-- t-001
+- t-002
   global_id: t-50552
-  teiginys: 'Kęstutis statydino Naująjį Kauną Vyrgalės saloje ir tiltą per Nemuną, siekdamas atkurti Nemuno, Neries ir Nevėžio žiočių gynybą.'
+  teiginys: "Kęstutis statydino Naująjį Kauną Vyrgalės saloje ir tiltą per Nemuną, siekdamas atkurti Nemuno, Neries ir Nevėžio žiočių gynybą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "163206-163528; hash=ccf2fa7143441a06a8920b858514887772cfde49cb0d33ebb3a43f15977ffe04; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Nemunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vyrgalės sala: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Nemunas: mention_match, place, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vyrgalės sala\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-44047
 
 <a id="claim-t-50553"></a>
-- t-002
+- t-001
   global_id: t-50553
-  teiginys: 'Kęstutis statydino Naujojo Kauno pilį Nevėžio žiočių Vyrgalės saloje, siekdamas atkurti gynybą Nemuno, Neries ir Nevėžio žiočių ruože.'
+  teiginys: "Kęstutis statydino Naujojo Kauno pilį Nevėžio žiočių Vyrgalės saloje, siekdamas atkurti gynybą Nemuno, Neries ir Nevėžio žiočių ruože."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "163206-163528; hash=ccf2fa7143441a06a8920b858514887772cfde49cb0d33ebb3a43f15977ffe04; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Nemunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vyrgalės sala: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Nemunas: mention_match, place, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vyrgalės sala\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-44047
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -55,9 +86,32 @@ amziai:
     Tiltas galuose turėjo du gynybinius bokš-
     tus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+
+## Citatos
+
+- id: c-44047
+  citata_originali: |
+    Situacija Kauno regione bei visoje
+    Lietuvoje ir toliau buvo labai sudėtinga.
+    Siekdamas atkurti gynybą Nemuno-
+    Neries-Nevėžio žiočių ruože, Kęstutis
+    statydino pilį Nevėžio žiočių Vyrgalės sa-
+    loje - Naująjį Kauną ir „tiltą per Nemuną“
+    (greičiausiai per Nemuno senvagę į salą).
+    Tiltas galuose turėjo du gynybinius bokš-
+    tus.
+  citata_rodoma: "Siekdamas atkurti gynybą Nemuno-\nNeries-Nevėžio žiočių ruože, Kęstutis\nstatydino pilį Nevėžio žiočių Vyrgalės sa-\nloje - Naująjį Kauną ir „tiltą per Nemuną“\n(greičiausiai per Nemuno senvagę į salą)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-50552
+    - t-50553

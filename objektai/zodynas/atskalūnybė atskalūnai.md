@@ -10,6 +10,18 @@ tags:
   - pilis
   - sąvoka
   - tauta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # atskalūnybė atskalūnai
 
@@ -20,26 +32,75 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
 ## Teiginiai
 
 <a id="claim-t-58806"></a>
-- t-001
+- t-002
   global_id: t-58806
-  teiginys: 'Dusburgietis atskalūnybių antkrytį aiškino kaip Kristaus leistą išbandymą tikėjimo ištikimybei grūdinti.'
+  teiginys: "Dusburgietis atskalūnybių antkrytį aiškino kaip Kristaus leistą išbandymą tikėjimo ištikimybei grūdinti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "372615-373274; hash=f2fa78792f9f7bf9fc9016fd002babd8052f7567884b61fa94a0de6558e3bc87; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kuršas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "atskalūnybė atskalūnai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kuršas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"atskalūnybė atskalūnai\" parinktas kaip owner_note_path. Targetas \"Kuršas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-59440
 
 <a id="claim-t-58807"></a>
-- t-002
+- t-003
   global_id: t-58807
-  teiginys: 'Kai prūsai buvo įtariami atskalūnybe, Notangos ir Varmės fogtas Volradas vakarieniavo su kilmingaisiais Lencenbergo pilyje.'
+  teiginys: "Kai prūsai buvo įtariami atskalūnybe, Notangos ir Varmės fogtas Volradas vakarieniavo su kilmingaisiais Lencenbergo pilyje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "373288-373833; hash=4427e1530efee4eac5b18584ba0491e158a5f2bcf3af034e4deb9c1db6da9cfe; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Notanga: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "atskalūnybė atskalūnai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Notanga: mention_match, place, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"atskalūnybė atskalūnai\" parinktas kaip owner_note_path. Targetas \"Notanga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-59438
 
 <a id="claim-t-58808"></a>
-- t-003
+- t-001
   global_id: t-58808
-  teiginys: 'Petras Dusburgietis kuršius, iš užnugario užpuolusius krikščionis, pavadino tikrais atskalūnais.'
+  teiginys: "Petras Dusburgietis kuršius, iš užnugario užpuolusius krikščionis, pavadino tikrais atskalūnais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "366592-367655; hash=05fb3bc890b18c02ce2cd25a4e8949085d20b488bd9b98c94801e5c5d000dc17; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kuršiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "atskalūnybė atskalūnai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kuršiai: mention_match, group, gap=64"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"atskalūnybė atskalūnai\" parinktas kaip owner_note_path. Targetas \"Kuršiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-59441
 
+<a id="claim-t-184001"></a>
+- t-005
+  global_id: t-184001
+  teiginys: "Petras Dusburgietis kuršius, iš užnugario užpuolusius krikščionis, pavadino tikrais atskalūnais."
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "366457-367134; hash=f59007dbab603dd6bbde562a3deadeab11908a70e61760deb5168aedd21d626d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kuršiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "atskalūnybė atskalūnai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kuršiai: mention_match, group, gap=64"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"atskalūnybė atskalūnai\" parinktas kaip owner_note_path. Targetas \"Kuršiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  pagrindžia:
+    - c-167386
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -55,6 +116,7 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
     ginkluotas. Kai šviesa buvo vėl įžiebta, jis parodė savo sudraskytus drabužius ir paklausė
     kilmingųjų, ko užsitarnavęs šitoks žmogžudys.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -74,6 +136,7 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
     tikėjimui, kad netikėliai būtų sutriuškinti, nes tikėjimo dorybė išbandoma pavojų, nes ji
     saugi pavojuose, nes ji tolygi geriems darbams.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -97,6 +160,7 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
     užuot gėrę saldų medaus vyną, arba midų, kurio ne kartą esate gavę iš brolių rankų,
     gerkite šiandien žiaurios mirties kartėlį, išpažindami tikrąjį amžinosios trejybės tikėjimą”.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -117,8 +181,85 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
     užpakalio348, beveik visi abiejų žemių žmonės pasitraukė, palikdami čia brolius ir jiems
     ištikimus.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
+## Citatos
+
+- id: c-59438
+  citata_originali: |
+    88 (83). Apie Lencenbergo pilies bei daugybės prūsų sudeginimą
+
+      Tuo metu, kai prūsai buvo įtariami atskalūnybe, brolis Volradas, Notangos ir Varmės
+    fogtas, vadinamas Volradu Nuostabiuoju355 (jis iš tiesų toks buvo), vakarieniavo su
+    minėtosios žemės kilmingaisiais Lencenbergo pilyje356; praslinkus gerai valandai, kažin
+    kas užpūtė šviesą ir užpuolė brolį Volradą; būtų jį ir nužudęs, jeigu tas nebūtų buvęs
+    ginkluotas. Kai šviesa buvo vėl įžiebta, jis parodė savo sudraskytus drabužius ir paklausė
+    kilmingųjų, ko užsitarnavęs šitoks žmogžudys.
+  citata_rodoma: "Apie Lencenbergo pilies bei daugybės prūsų sudeginimą\n\n  Tuo metu, kai prūsai buvo įtariami atskalūnybe, brolis Volradas, Notangos ir Varmės\nfogtas, vadinamas Volradu Nuostabiuoju355 (jis iš tiesų toks buvo), vakarieniavo su\nminėtosios žemės kilmingaisiais Lencenbergo pilyje356; praslinkus gerai valandai, kažin\nkas užpūtė šviesą ir užpuolė brolį Volradą; būtų jį ir nužudęs, jeigu tas nebūtų buvęs\nginkluotas. Kai šviesa buvo vėl įžiebta, jis parodė savo sudraskytus drabužius ir paklausė\nkilmingųjų, ko užsitarnavęs šitoks žmogžudys."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58807
+
+- id: c-59440
+  citata_originali: |
+    Šių dviejų vyrų regėjimai sutapo vienas su kitu net ir tuo, kad visos sielos, kurių kūnai
+    krito tame Kuršo mūšyje, buvusios išganytos, išskyrus vieną. Nežinau, dėl ko ji buvo
+    pasmerkta, vienas dievas tai žino. Visa tai leidžia daryti išvadą ir nedvejojant tikėti,
+    kad pats Kristus, be kurio valios nieko žemėje negali įvykti, užleido ant savo tautos
+    šį buvusių ir būsimų atskalūnybių antkrytį, norėdamas, kad nukautieji gautų danguje
+    pelnytą atpildą, o likę gyvi atsidurtų pavojuose ir šitaip nuolatos grūdintų ištikimybę
+    tikėjimui, kad netikėliai būtų sutriuškinti, nes tikėjimo dorybė išbandoma pavojų, nes ji
+    saugi pavojuose, nes ji tolygi geriems darbams.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58806
+
+- id: c-59441
+  citata_originali: |
+    Nors broliai buvo linkę jų prašymą patenkinti, pasipriešino tam kiti Prūsijos ir Livonijos
+    žmonės, tvirtindami, kad su jų belaisviais bus pasielgta taip, kaip reikalauja elgtis
+    visiems žinomi karo papročiai. Išgirdę tokį sprendimą, kuršiai taip įtūžo ant tikėjimo
+    ir tikinčiųjų, kad, broliams pradėjus pulti lietuvius, jie nelyginant tikri atskalūnai iš
+    užpakalio nirtulingai užgriuvo krikščionis; lietuviams puolant iš priekio, o kuršiams iš
+    užpakalio348, beveik visi abiejų žemių žmonės pasitraukė, palikdami čia brolius ir jiems
+    ištikimus. Kurie ne kurie Prūsijos kilmingieji ištikimai palaikė brolius,  vienas iš jų,
+    sembas Sklodas iš Kvedenavos, Noliubo tėvas349, sušaukęs savo giminaičius ir bičiulius,
+    pasakė: „Šiandien prisiminkite puikius drabužius, kurių dažnai gaudavote iš brolių,  ir,
+    užuot rengęsi vaiskiaspalviais drabužiais, parausvinkite savo drapanas žaizdų krauju, o
+    užuot gėrę saldų medaus vyną, arba midų, kurio ne kartą esate gavę iš brolių rankų,
+    gerkite šiandien žiaurios mirties kartėlį, išpažindami tikrąjį amžinosios trejybės tikėjimą”.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58808
+
+- id: c-167386
+  citata_originali: |
+    Tuo tarpu atvyko kuršiai, nuolankiai prašydami,
+    kad, dievui padėjus krikščionims laimėti, jiems būtų sugrąžintos jų moterys ir vaikai.
+    Nors broliai buvo linkę jų prašymą patenkinti, pasipriešino tam kiti Prūsijos ir Livonijos
+    žmonės, tvirtindami, kad su jų belaisviais bus pasielgta taip, kaip reikalauja elgtis
+    visiems žinomi karo papročiai. Išgirdę tokį sprendimą, kuršiai taip įtūžo ant tikėjimo
+    ir tikinčiųjų, kad, broliams pradėjus pulti lietuvius, jie nelyginant tikri atskalūnai iš
+    užpakalio nirtulingai užgriuvo krikščionis; lietuviams puolant iš priekio, o kuršiams iš
+    užpakalio348, beveik visi abiejų žemių žmonės pasitraukė, palikdami čia brolius ir jiems
+    ištikimus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184001

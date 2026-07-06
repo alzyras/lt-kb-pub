@@ -5,7 +5,7 @@ import { pageResources, renderPage } from "../../components/renderPage"
 import { FullPageLayout } from "../../cfg"
 import { FullSlug, pathToRoot } from "../../util/path"
 import { sharedPageComponents } from "../../../quartz.layout"
-import { ObjectMediaGallery } from "../../components"
+import { ArticleTitle, Breadcrumbs, ContentMeta, ObjectMapCTA, ObjectMediaGallery, TagList } from "../../components"
 import { defaultProcessedContent } from "../vfile"
 import { write } from "./helpers"
 import { cleanText, isObjectPage, objectGallerySlug, objectMediaSet } from "../../util/objectMedia"
@@ -14,10 +14,15 @@ export const ObjectGalleryPage: QuartzEmitterPlugin = () => {
   const opts: FullPageLayout = {
     ...sharedPageComponents,
     pageBody: ObjectMediaGallery(),
-    beforeBody: [],
+    beforeBody: [
+      Breadcrumbs(),
+      ArticleTitle(),
+      ContentMeta({ showReadingTime: false }),
+      ObjectMapCTA(),
+      TagList(),
+    ],
     left: [],
     right: [],
-    header: [],
     afterBody: [],
   }
 
@@ -49,11 +54,10 @@ export const ObjectGalleryPage: QuartzEmitterPlugin = () => {
           description: `Objekto ${objectTitle} atvaizdų galerija.`,
           frontmatter: {
             ...file.data.frontmatter,
-            title: `Galerija (${objectTitle})`,
+            title: objectTitle,
             object_title: objectTitle,
             object_slug: objectSlug,
             object_gallery_page: true,
-            tags: ["galerija"],
           },
         })
         const externalResources = pageResources(pathToRoot(slug), resources)

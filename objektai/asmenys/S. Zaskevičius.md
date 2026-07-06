@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - asmuo
   - kraštas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # S. Zaskevičius
 
@@ -18,26 +30,48 @@ Zaskevičius. Zaskevičiaus vadovaujama rinktinė artėjo prie Jiezno. Zaskevič
 ## Teiginiai
 
 <a id="claim-t-40414"></a>
-- t-001
+- t-002
   global_id: t-40414
-  teiginys: 'Vasario 10 d. rytą S. Zaskevičiaus vadovaujama sustiprintos kuopos dydžio rinktinė artėjo prie Jiezno.'
+  teiginys: "Vasario 10 d. rytą S. Zaskevičiaus vadovaujama sustiprintos kuopos dydžio rinktinė artėjo prie Jiezno."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "717894-718224; hash=ee6949eed8294c03141f2a6d4b3cfaaf9c8af6328ac4a6b38a3a7514daddc676; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> J. Cetuchinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "S. Zaskevičius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "J. Cetuchinas: mention_match, person, gap=76"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"S. Zaskevičius\" parinktas kaip owner_note_path. Targetas \"J. Cetuchinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-44506
 
 <a id="claim-t-40415"></a>
-- t-002
+- t-003
   global_id: t-40415
-  teiginys: 'Po nepavykusio vasario 10 d. Jiezno puolimo karin. S. Zaskevičius su likusia rinktinės dalimi traukėsi Tverų kryptimi.'
+  teiginys: "Po nepavykusio vasario 10 d. Jiezno puolimo karin. S. Zaskevičius su likusia rinktinės dalimi traukėsi Tverų kryptimi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "720522-720666; hash=b07ab4480e01366988a63328c0f5854a073d71e6eee3778079f8fc94d903ea2f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jieznas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "S. Zaskevičius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Jieznas: mention_match, place, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"S. Zaskevičius\" parinktas kaip owner_note_path. Targetas \"Jieznas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-44504
 
 <a id="claim-t-40416"></a>
-- t-003
+- t-001
   global_id: t-40416
-  teiginys: 'Krašto apsaugos viceministras S. Zaskevičius ėmėsi vadovauti operacijai, kuria siekta neutralizuoti kilusį pavojų.'
+  teiginys: "Krašto apsaugos viceministras S. Zaskevičius ėmėsi vadovauti operacijai, kuria siekta neutralizuoti kilusį pavojų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "714899-715151; hash=8c8424123ef3b4039a2e710bf65ab751820db56e0cd46d5a009b9b5c78e95da3; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-002
-
+    - c-44505
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -49,6 +83,7 @@ Zaskevičius. Zaskevičiaus vadovaujama rinktinė artėjo prie Jiezno. Zaskevič
     su likusia rinktinės dalimi traukėsi
     Tverų kryptimi. Vakare pasiekusi netoli
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -69,6 +104,7 @@ Zaskevičius. Zaskevičiaus vadovaujama rinktinė artėjo prie Jiezno. Zaskevič
     apsaugos viceministras
     karin. S. Zaskevičius.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -89,8 +125,65 @@ Zaskevičius. Zaskevičiaus vadovaujama rinktinė artėjo prie Jiezno. Zaskevič
     kevičiaus vadovaujama rinktinė
     artėjo prie Jiezno.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-44504
+  citata_originali: |
+    Po nepavy-
+    kusio vasario
+    10 d. Jiezno puolimo karin. S. Zaskevičius
+    su likusia rinktinės dalimi traukėsi
+    Tverų kryptimi. Vakare pasiekusi netoli
+  citata_rodoma: "Po nepavy-\nkusio vasario\n10 d. Jiezno puolimo karin. S. Zaskevičius\nsu likusia rinktinės dalimi traukėsi\nTverų kryptimi."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40415
+
+- id: c-44505
+  citata_originali: |
+    bus ruožas buvo silpnai pridengtas.
+    Atsižvelgiant į minėtos krypties
+    svarbą ir besiklostančios situaci-
+    jos pavojingumą, vadovauti |
+    operacijai, neutralizuo-
+    jant kilusį pavojų, ėmėsi
+    pats tuometinis krašto
+    apsaugos viceministras
+    karin. S. Zaskevičius.
+  citata_rodoma: "Atsižvelgiant į minėtos krypties\nsvarbą ir besiklostančios situaci-\njos pavojingumą, vadovauti |\noperacijai, neutralizuo-\njant kilusį pavojų, ėmėsi\npats tuometinis krašto\napsaugos viceministras\nkarin. S. Zaskevičius."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40416
+
+- id: c-44506
+  citata_originali: |
+    Pirmasis Jiezno puolimas pirmajai grupei vadovavęs išdavikas rusų
+    kilmės karin. J. Cetuchinas savo vado-
+    vaujamą grupę nuvedė pas bolševikus,
+    liepęs nešaudyti, o vėliau tiesiog įsakyda-
+    mas jiems pasiduoti. Dauguma savano-
+
+    Vasario 10 d. ryte sustip-
+    rintos kuopos dydžio S. Zas-
+    kevičiaus vadovaujama rinktinė
+    artėjo prie Jiezno.
+  citata_rodoma: "Dauguma savano-\n\nVasario 10 d. ryte sustip-\nrintos kuopos dydžio S. Zas-\nkevičiaus vadovaujama rinktinė\nartėjo prie Jiezno."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40414

@@ -12,6 +12,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Deglas
 
@@ -44,16 +56,37 @@ Nenurodyta
 <a id="claim-t-55033"></a>
 - t-001
   global_id: t-55033
-  teiginys: 'Mūšio metu į medinius miesto namus mestas deglas sukėlė didžiulį gaisrą, per kurį ugnis pasiglemžė didelę Vilniaus dalį.'
+  teiginys: "Mūšio metu į medinius miesto namus mestas deglas sukėlė didžiulį gaisrą, per kurį ugnis pasiglemžė didelę Vilniaus dalį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "111606-111918; hash=0390ce0f08abe84abc5b986cb2b2fd494b1140d5f6787e75e5b240f67fc1a8bb; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Deglas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=64"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Deglas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-55710
 
 <a id="claim-t-81844"></a>
 - t-002
   global_id: t-81844
-  teiginys: 'Mūšio metu į medinius Vilniaus namus mestas deglas sukėlė didžiulį gaisrą, per kurį sudegė didelė miesto dalis.'
+  teiginys: "Mūšio metu į medinius Vilniaus namus mestas deglas sukėlė didžiulį gaisrą, per kurį sudegė didelė miesto dalis."
+  semantiniai_rysiai: "Vokiečiai surengė žygį į Vilnius (0.76)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "111649-112374; hash=880b60d55ad2e79cfcbd9ee6fb271359940a96d7b672b9801ecce88b9e0b0a16; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Vilnius: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata mini vokiečių kasmetinius žygius iki pat Vilniaus."
   pagrindžia:
-    - c-002
+    - c-78388
 - susijęs iš [[objektai/daiktai/Mediniai miesto namai.md#claim-t-87084|Mediniai miesto namai]]: Mūšio metu į medinius Vilniaus namus mestas deglas sukėlė gaisrą, per kurį sudegė didelė miesto dalis.
 - susijęs iš [[objektai/ivykiai/Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.).md#claim-t-86928|Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.)]]: Per mūšį į medinius Vilniaus namus mestas deglas sukėlė didžiulį gaisrą, pasiglemžusį didelę miesto dalį.
 - susijęs iš Vilnius: Mūšio metu į medinius Vilniaus namus mestas deglas sukėlė didelį gaisrą, sunaikinusį didelę miesto dalį.
@@ -80,8 +113,9 @@ Nenurodyta
     dinius miesto namus mestas deglas sukėlė didžiulį gaisrą,
     per kurį didelę Vilniaus dalį pasiglemžė ugnis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -104,8 +138,48 @@ Nenurodyta
     siškas pastarojo kariaunos sunaikinimas tąkart apsaugojo
     sostinę nuo puolimo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-55710
+  citata_originali: |
+    Su trigubai di­
+    desniu įniršiu, nešini šv. Jurgio vėliava puolė į mūšį Ordino
+    riteriai, bet, narsiai lietuvių atremti, patyrę didelių nuosto­
+    lių, turėjo grįžti prie likusių karių. Tačiau mūšio metu į me­
+    dinius miesto namus mestas deglas sukėlė didžiulį gaisrą,
+    per kurį didelę Vilniaus dalį pasiglemžė ugnis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-55033
+
+- id: c-78388
+  citata_originali: |
+    Jurgio vėliava puolė į mūšį Ordino
+    riteriai, bet, narsiai lietuvių atremti, patyrę didelių nuosto­
+    lių, turėjo grįžti prie likusių karių. Tačiau mūšio metu į me­
+    dinius miesto namus mestas deglas sukėlė didžiulį gaisrą,
+    per kurį didelę Vilniaus dalį pasiglemžė ugnis. Tas pašėlęs
+    lietuvių priešinimasis nė kiek neatbaidė vokiečių nuo kas­
+    metinių žygių iki pat Vilniaus, kuris tolydžio gyveno apim­
+    tas naujo puolimo grėsmės; 1384 metais, nepaisant skaudžių
+    netekčių, Ordino patirtų Lietuvoje, jo antpuoliai jau siekda­
+    vo Kernavę, bet lemtinga Jogailos ir Skirgailos pergalė prieš
+    Ragainės komtūrą, laimėta tarp Vilniaus ir Ukmergės, ir vi­
+    siškas pastarojo kariaunos sunaikinimas tąkart apsaugojo
+    sostinę nuo puolimo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-81844

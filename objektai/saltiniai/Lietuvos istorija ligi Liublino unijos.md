@@ -14,6 +14,18 @@ tags:
   - unija
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvos istorija ligi Liublino unijos
 
@@ -26,10 +38,22 @@ Lietuvos istorija ligi Liublino unijos.
 <a id="claim-t-34969"></a>
 - t-001
   global_id: t-34969
-  teiginys: 'M. Liubavskio „Lietuvos istorija ligi Liublino unijos“ lietuviškas vertimas išleistas Vilniuje 1922 m. dviem dalimis.'
+  teiginys: "M. Liubavskio „Lietuvos istorija ligi Liublino unijos“ lietuviškas vertimas išleistas Vilniuje 1922 m. dviem dalimis."
+  temporaliniai_duomenys: "įvykio data: 1922 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinį faktą, o pradinis teiginys yra tik pavadinimas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "9387-9486; hash=a5b9b11db7a4d939eea65b5b162f711b339530413f1080d06acddaac525b4c01; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos istorija ligi Liublino unijos: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos istorija ligi Liublino unijos\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-36194
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -38,8 +62,22 @@ Lietuvos istorija ligi Liublino unijos.
     Liub. = Liubavskis, M. Lietuvos istorija ligi Liublino unijos.
     Dvi dalys (vertimas), Vilnius, 1922.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-36194
+  citata_originali: |
+    Liub. = Liubavskis, M. Lietuvos istorija ligi Liublino unijos.
+    Dvi dalys (vertimas), Vilnius, 1922.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-34969

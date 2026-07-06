@@ -17,6 +17,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuviška Lietuva
 
@@ -27,19 +39,41 @@ Per nepilnus du dešimtmečius Lietuva galutinai tapo lietuviška, jos nebegalė
 ## Teiginiai
 
 <a id="claim-t-75571"></a>
-- t-001
+- t-003
   global_id: t-75571
-  teiginys: 'Lietuviška Lietuva, nors tarpais buvo be Vilniaus ar Klaipėdos, laikyta didžiausiu tautos kūrėjų pasiekimu.'
+  teiginys: "Lietuviška Lietuva, nors tarpais buvo be Vilniaus ar Klaipėdos, laikyta didžiausiu tautos kūrėjų pasiekimu."
+  temporaliniai_duomenys: "įvykio data: 1939 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas pašalinis krepšinio ir puslapio antraštės tekstas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "355508-356305; hash=c666cb358d30d386c28a40c13f0da9fdce37dd7510c94a2357fb89ab345feb8c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviška Lietuva: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=50"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviška Lietuva\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-73308
 
 <a id="claim-t-75573"></a>
 - t-002
   global_id: t-75573
-  teiginys: 'Per nepilnus du nepriklausomybės dešimtmečius Lietuva tapo lietuviška ir nebebuvo painiojama nei su Lenkija, nei su Rusija.'
+  teiginys: "Per nepilnus du nepriklausomybės dešimtmečius Lietuva tapo lietuviška ir nebebuvo painiojama nei su Lenkija, nei su Rusija."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "345551-345944; hash=976b7123d81a80a656b31601e7cdc7c2fe8a2e0f93a946d29fb3c45d89a20416; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviška Lietuva: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviška Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-24685
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -54,6 +88,7 @@ Per nepilnus du dešimtmečius Lietuva galutinai tapo lietuviška, jos nebegalė
     valstybės modelio, jo režimo prioritetai – tautinės kultūros kūrimas ir lie-
     tuviškai kalbanti Lietuva – iš esmės įgyvendintas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -79,8 +114,52 @@ Per nepilnus du dešimtmečius Lietuva galutinai tapo lietuviška, jos nebegalė
     besisukdamos juodos svastikos ir raudonas pjautuvas ims kapoti galvas
     geriausioms tautos dukterims ir sūnums.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-24685
+  citata_originali: |
+    Nė vienų netenkino nuosaikus A. Smetonos autoritarinis re-
+    žimas, nors ir dėl visai skirtingų priežasčių.
+    Nepriklausomybės karta
+    Per nepilnus du dešimtmečius Lietuva galutinai tapo lietu-
+    viška, jos nebegalėjai supainioti nei su Lenkija, nei su Rusija. A. Smetonos
+    valstybės modelio, jo režimo prioritetai – tautinės kultūros kūrimas ir lie-
+    tuviškai kalbanti Lietuva – iš esmės įgyvendintas.
+  citata_rodoma: "Nepriklausomybės karta\nPer nepilnus du dešimtmečius Lietuva galutinai tapo lietu-\nviška, jos nebegalėjai supainioti nei su Lenkija, nei su Rusija. A. Smetonos \nvalstybės modelio, jo režimo prioritetai – tautinės kultūros kūrimas ir lie-\ntuviškai kalbanti Lietuva – iš esmės įgyvendintas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75573
+
+- id: c-73308
+  citata_originali: |
+    Kauno sporto halėje 1939 m. Lietuvos vyrų
+    krepšinio rinktinė antrą kartą tapo Europos čempionais
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    177
+    Lietuviška Lietuva, nors tarpais be Vilniaus ar Klaipėdos – didžiausias
+    tautos kūrėjų pasiekimas, be kurio šiandieninė Lietuva vargiai būtų tokia,
+    kokia yra. Gana tipiškas to meto Europai A. Smetonos valstybės modelis,
+    įdiegtas tautiškumas, patriotizmas savotiškai tarsi paruošė nepriklauso-
+    mybės vaikus viena po kitos ėjusioms trims okupacijoms, net 50 metų už-
+    truksiančiam sovietų valdymui, o Lietuvos nepriklausomybės idėja, viltis
+    vėl gyventi laisvėje duos jėgų išsaugoti gimtąją kalbą, kultūrą, kai greitai
+    besisukdamos juodos svastikos ir raudonas pjautuvas ims kapoti galvas
+    geriausioms tautos dukterims ir sūnums.
+  citata_rodoma: "Kauno sporto halėje 1939 m. Lietuvos vyrų \nkrepšinio rinktinė antrą kartą tapo Europos čempionais\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n177\nLietuviška Lietuva, nors tarpais be Vilniaus ar Klaipėdos – didžiausias \ntautos kūrėjų pasiekimas, be kurio šiandieninė Lietuva vargiai būtų tokia, \nkokia yra. Gana tipiškas to meto Europai A."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75571

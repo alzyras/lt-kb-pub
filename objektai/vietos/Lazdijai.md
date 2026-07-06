@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lazdijai
 
@@ -19,9 +31,19 @@ tags:
 <a id="claim-t-02540"></a>
 - t-001
   global_id: t-02540
-  teiginys: 'Spalio 1-2 d. lenkai netoli Lazdijų sumušė Lietuvos kariuomenės dalį.'
+  teiginys: "Spalio 1-2 d. lenkai netoli Lazdijų sumušė Lietuvos kariuomenės dalį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "1115920-1116313; hash=3c451c3a05e68a1b0e273aedebd723bbef51d08068f9fe9ee364d5b61ac1cdfd; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lazdijai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=15"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lazdijai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-02778
 - susijęs iš Kalniškės miškas: Kalniškės miškas tęsiasi apie kilometrą už Krosnos Lazdijų link ir yra 3–4 km pločio bei apie 8 km ilgio kalvotas mišrus miškas.
 - susijęs iš Krosna: Apie kilometrą už Krosnos Lazdijų link kairėje plento pusėje driekėsi kalvotas mišrus Kalniškės miškas.
 - susijęs iš Krosna: Apie kilometrą už Krosnos Lazdijų link buvo Kalniškės miškas, kuriame 1945 m. įvyko Kalniškės mūšis.
@@ -40,8 +62,28 @@ tags:
     lenkai sumušė mūsų kariuomenės dalį netoli Lazdijų, spalių 3—4
     d. užėmė Varėnos stotį, kur paėmė mūsų šarvuotą traukinį.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-02778
+  citata_originali: |
+    O kai, besivydami bolše-
+    vikus, lenkai ties Druskininkais persikėlė per Nemuną ir užėjo
+    lietuviams iš kairiojo sparno, — mūsų kariuomenės būklė dar
+    labiau pablogėjo: dalis mūsų kariuomenės buvo visai atkirsta
+    nuo savųjų. Pagaliau ėjo kiti nepasisekimai: spalių mėn. 1—2 d.
+    lenkai sumušė mūsų kariuomenės dalį netoli Lazdijų, spalių 3—4
+    d. užėmė Varėnos stotį, kur paėmė mūsų šarvuotą traukinį.
+  citata_rodoma: "Pagaliau ėjo kiti nepasisekimai: spalių mėn. 1—2 d.\nlenkai sumušė mūsų kariuomenės dalį netoli Lazdijų, spalių 3—4\nd. užėmė Varėnos stotį, kur paėmė mūsų šarvuotą traukinį."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-02540

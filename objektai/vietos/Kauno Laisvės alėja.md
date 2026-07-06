@@ -15,6 +15,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kauno Laisvės alėja
 
@@ -24,13 +36,45 @@ Protesto eisena Kauno Laisvės alėjoje Kaune 1972 m. gegužės 18 d. KGB numeri
 
 ## Teiginiai
 
-<a id="claim-t-101812"></a>
+<a id="claim-t-101813"></a>
 - t-001
-  global_id: t-101812
-  teiginys: '1972 m. gegužės 18 d. Kauno Laisvės alėjoje vyko protesto eisena, kurios lyderius KGB pažymėjo numeriais.'
+  global_id: t-101813
+  teiginys: "1972 m. gegužės 18 d. Kauno Laisvės alėjoje vyko protesto eisena, kurios lyderius KGB pažymėjo numeriais."
+  temporaliniai_duomenys: "įvykio data: 1972 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie vietą ir atitinka citatos informaciją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "481518-482598; hash=5a304a264171987b52d36497819d0d7de37af382ef646b198b9d5dd022729896; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kauno Laisvės alėja: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kauno Laisvės alėja\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-95226
 
+<a id="claim-t-101813"></a>
+- t-001
+  global_id: t-101813
+  teiginys: "1972 m. gegužės 18 d. Kauno Laisvės alėjoje vyko protesto eisena, kurios lyderius KGB pažymėjo numeriais."
+  temporaliniai_duomenys: "įvykio data: 1972 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie vietą ir atitinka citatos informaciją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "481518-482598; hash=5a304a264171987b52d36497819d0d7de37af382ef646b198b9d5dd022729896; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kauno Laisvės alėja: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kauno Laisvės alėja\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-95226
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -59,9 +103,45 @@ Protesto eisena Kauno Laisvės alėjoje Kaune 1972 m. gegužės 18 d. KGB numeri
     džias perdavę maskviečiui, lietuviškai nekalbančiam antrajam sekretoriui
     Nikolajui Mitkinui, kuris siekė „Lietuvą padaryti internacionalinę“.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-95226
+  citata_originali: |
+    So-
+    vietinio režimo žlugimo išvakarėse veikdama nelegaliai ir pusiau legaliai,
+    ji sulaukė Atgimimo epochos ir tapo pirmąja nacionalinio išsivadavimo
+    organizacija. O Sąjūdis – tautos frontas, suvienijęs plačiausius jos sluoks-
+    nius, labai įvairių pažiūrų, tačiau dar sinkretišką nediferencijuotą Lietu-
+    vos visuomenę, kurios priekyje stovėjo mokslo ir kultūros inteligentija,
+    kėlusi tautą visuotiniais, universaliais, pavergtai tautai ypač brangiais lais-
+    vės, demokratijos, nepriklausomybės idealais.
+    Protesto eisena Kauno Laisvės alėjoje Kaune  1972 m.
+    gegužės 18 d. KGB numeriais pažymėjo eisenos lyderius
+
+    VI s k y r i u s
+    DAINUOJANTI
+    REVOLIUCIJA
+    SU SĄJŪDŽIU UŽ LIETUVĄ
+    S
+    SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos
+    politiką, Lietuvoje, kitaip nei Maskvoje, Ukrainoje ar
+    Gruzijoje, spengė tyla – pilki LKP CK pirmieji sekretoriai Petras Griš-
+    kevičius ir jį pakeitęs Rimgaudas Songaila laikėsi pasyviai, valdžios va-
+    džias perdavę maskviečiui, lietuviškai nekalbančiam antrajam sekretoriui
+    Nikolajui Mitkinui, kuris siekė „Lietuvą padaryti internacionalinę“.
+  citata_rodoma: "Protesto eisena Kauno Laisvės alėjoje Kaune  1972 m.  \ngegužės 18 d. KGB numeriais pažymėjo eisenos lyderius\n\nVI s k y r i u s\nDAINUOJANTI  \nREVOLIUCIJA\nSU SĄJŪDŽIU UŽ LIETUVĄ\nS\nSRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos \npolitiką, Lietuvoje, kitaip nei Maskvoje, Ukrainoje ar \nGruzijoje, spengė tyla – pilki LKP CK pirmieji sekretoriai Petras Griš-\nkevičius ir jį pakeitęs Rimgaudas Songaila laikėsi pasyviai, valdžios va-\ndžias perdavę maskviečiui, lietuviškai nekalbančiam antrajam sekretoriui \nNikolajui Mitkinui, kuris siekė „Lietuvą padaryti internacionalinę“."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-101813
+    - t-101812

@@ -15,6 +15,18 @@ atnaujinta: ''
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Naujosios Prūsijos žemės kronika
 
@@ -34,40 +46,100 @@ Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 137
 ## Teiginiai
 
 <a id="claim-t-171552"></a>
-- t-001
+- t-004
   global_id: t-171552
-  teiginys: 'Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie Marienverderio pilies šturmą 1384 m.'
+  teiginys: "Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie Marienverderio pilies šturmą 1384 m."
+  temporaliniai_duomenys: "įvykio data: 1384 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "207391-207495; hash=5a53db6a573646338731c761ea396901f4350784a5499a9e79848dc5096d4c35; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Marienverderis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naujosios Prūsijos žemės kronika: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Marienverderis: mention_match, place, gap=48"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naujosios Prūsijos žemės kronika\" parinktas kaip owner_note_path. Targetas \"Marienverderis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-11260
 
 <a id="claim-t-171553"></a>
-- t-002
+- t-003
   global_id: t-171553
-  teiginys: 'Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ ištraukoje aprašomas 1376 m. Algirdo ir Kęstučio Ordino valdų siaubimas.'
+  teiginys: "Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ ištraukoje aprašomas 1376 m. Algirdo ir Kęstučio Ordino valdų siaubimas."
+  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) surengė žygį į Nadruva (0.91); Kęstutis (vakarų pasienio valdovas, XIV–XV a.) surengė žygį į Nadruva (0.91); Algirdas (Lietuvos valdovas) puolė Vėluva (0.66); Kęstutis (vakarų pasienio valdovas, XIV–XV a.) puolė Vėluva (0.66); Algirdas (Lietuvos valdovas) puolė Želva (0.60)"
+  temporaliniai_duomenys: "įvykio data: 1376 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinį teiginį reikia sutrumpinti ir pašalinti įvadinį boilerplate."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "201739-202700; hash=2b405c3e7e29d3bf0a13ee097fb8b5f00cf213958d28712b6bb71ede71868116; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Nadruva: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Nadruva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Algirdo įsiveržimą į Nadruvos kraštą."
   pagrindžia:
-    - c-002
+    - c-43288
 
 <a id="claim-t-171555"></a>
-- t-003
+- t-008
   global_id: t-171555
-  teiginys: 'Naujosios Prūsijos žemės kronika nurodo, kad prie Vilniaus penkias savaites dieną ir naktį vyko kautynės.'
+  teiginys: "Naujosios Prūsijos žemės kronika nurodo, kad prie Vilniaus penkias savaites dieną ir naktį vyko kautynės."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "278418-278944; hash=9dd7fccbe32f4c9b74f900bcf2b863997ca822040fdadb02023e75ce56952dfe; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naujosios Prūsijos žemės kronika: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naujosios Prūsijos žemės kronika\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-156051
 
 <a id="claim-t-171556"></a>
-- t-004
+- t-005
   global_id: t-171556
-  teiginys: '1376 m. Kęstutis ir Algirdas, pagavę Ordino sargybinius, trimis voromis įsiveržė į Nadruvos kraštą.'
+  teiginys: "1376 m. Kęstutis ir Algirdas, pagavę Ordino sargybinius, trimis voromis įsiveržė į Nadruvos kraštą."
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) surengė žygį į Nadruva (0.93); Algirdas (Lietuvos valdovas) surengė žygį į Nadruva (0.93)"
+  temporaliniai_duomenys: "įvykio data: 1376 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo veikėjus, veiksmą, laiką ir vietą, o citata tai patvirtina."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "201739-202700; hash=2b405c3e7e29d3bf0a13ee097fb8b5f00cf213958d28712b6bb71ede71868116; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Nadruva: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Nadruva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys ir citata tiesiogiai nurodo Kęstučio įsiveržimą į Nadruvą."
   pagrindžia:
-    - c-002
+    - c-43288
 
 <a id="claim-t-171557"></a>
-- t-005
+- t-007
   global_id: t-171557
-  teiginys: 'Vygando liudijimu, po penkias savaites trukusių kautynių kryžiuočiai atsitraukė nuo Vilniaus ir grįžo į Prūsiją bei Livoniją.'
+  teiginys: "Vygando liudijimu, po penkias savaites trukusių kautynių kryžiuočiai atsitraukė nuo Vilniaus ir grįžo į Prūsiją bei Livoniją."
+  semantiniai_rysiai: "Kryžiuočių ordinas keliavo į Prūsija (0.91); Kryžiuočių ordinas keliavo į Livonija (0.90); Kryžiuočių ordinas apgulė Vilnius (0.78)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "278418-278944; hash=9dd7fccbe32f4c9b74f900bcf2b863997ca822040fdadb02023e75ce56952dfe; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad kryžiuočiai grįžo į Prūsiją."
   pagrindžia:
-    - c-003
-
+    - c-156051
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -76,6 +148,7 @@ Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 137
     Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos kronikos“ apie Marienverderio
     pilies šturmą 1384 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -102,8 +175,9 @@ Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 137
 
     Naujoji Prūsijos kronika apie lietuvių reidą į ordino žemes 1376 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
@@ -132,9 +206,77 @@ Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 137
     žiuočiai galop atsitraukė ir, palikę Vilnių, kraštą ugnimi ir
     kalaviju nusiaubę, grįžo į Prūsiją ir Livoniją.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
     - t-005
+
+## Citatos
+
+- id: c-11260
+  citata_originali: |
+    Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos kronikos“ apie Marienverderio
+    pilies šturmą 1384 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171552
+
+- id: c-43288
+  citata_originali: |
+    Piksidomis (ma-
+    žesnio kalibro pabūklais) daugelį jų karių
+
+    Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ apie tai,
+    kaip 1376 m. Algirdas ir Kęstutis siaubia Ordino valdas.
+
+    „Tais pačiais metais Kęstutis ir Algirdas, pagavę [Ordino] sargybinius, trimis voromis
+    įsiveržia į neįspėtą Nadruvos kraštą ir aplink Įsruties pilį viską išdegina. Nusivaro vyrus,
+    moteris, taip pat [Ordino] brolių arklius su milžinišku grobiu. Kita kariuomenės vora kaip
+    priešai užpuola Narkyčius. Tenai niokoja taip kaip prieš tai. Pagaliau [niokoja] Taplaukio
+    krašte ir Nadruvoje, [nusinesdami] pakankamą grobį ir t.t. Trečioji vora - Vėluvos žemėje,
+    kurią parbėga, degindami ir naikindami kaimus, bažnyčias, ir viską žudydami ar imdami
+    į nelaisvę. Panašiai pasielgė Karaliaučiaus kanauninkų Želvos valsčiuje, išvesdami vyrus
+    ir moteris. Paskui skuba prie Jurgenburgo - vyskupo pilies ir t.t.“
+
+    Naujoji Prūsijos kronika apie lietuvių reidą į ordino žemes 1376 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171556
+    - t-171553
+
+- id: c-156051
+  citata_originali: |
+    Augustiną, tai
+    yra, rugpjūčio 28-ą, o priartėta prie
+    Vilniaus buvo rugsėjo 4-ą. Vygan­
+    das  tačiau byloja: Steterunt V septi­
+    manis in continuo agone nocte dieque
+    et pugna et ex utraque parte multi sunt
+    occisi [stovėjo 5 savaites nuolatinėse
+    kautynėse dieną naktį ir kovoje iš
+    abiejų pusių daug buvo užmuštų].
+    - • —
+    126
+
+    ## Puslapis 143
+
+    Il KNYGA
+    po įtemptos, tačiau perniek nuėjusios, pilies apsupties, kry­
+    žiuočiai galop atsitraukė ir, palikę Vilnių, kraštą ugnimi ir
+    kalaviju nusiaubę, grįžo į Prūsiją ir Livoniją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171555
+    - t-171557

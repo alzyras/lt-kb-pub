@@ -11,49 +11,110 @@ date_start: '1409'
 date_end: '1411'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XV'
-periodo_grupes:
-  - 'LDK'
-description: 'Dlugošas – XV a. LDK kontekste minimas šaltinis apie 1409–1411 m. karą, Žemaičius, Jogailą, Vytautą ir lietuvių tikėjimus.'
-socialDescription: 'Dlugošas pristatomas kaip svarbus šaltinis apie 1409–1411 m. karą, Žemaičių laikyseną, Jogailą, Vytautą ir lietuvių tikėjimų vertinimus.'
-seo_atnaujinta: '2026-07-02T21:03:54.614358+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 tags:
   - asmuo
   - kunigaikštis
   - tauta
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Dlugošas
 
 ## Santrauka
 
-Dlugošas žinių bazėje minimas kaip pagrindinis 1409–1411 m. karo šaltinis, kritiškai vertinęs Jogailą ir Vytautą. Jo pasakojimuose Žemaičių gyventojai slėpėsi giriose ir pabrėžė ryšį su kitais lietuviais. Narbuto vertinimu, Dlugošas taip pat aiškiai pripažino lietuvių genties tautų tikėjimą fetišais.
+Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 1409-1411 m. karui yra pagrindinis šaltinis, perdėm buvo kritiškas apie abu Lietuvos kunigaikščius, t.
 
 ## Teiginiai
+
 <a id="claim-t-30223"></a>
 - t-001
   global_id: t-30223
-  teiginys: 'Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose.'
+  teiginys: "Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "905988-906319; hash=ba8966830c667e5b1a2b9eeeb54e1b98278c84e98e36d910b984977a219e997a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Žemaičiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dlugošas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Žemaičiai: mention_match, group, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dlugošas\" parinktas kaip owner_note_path. Targetas \"Žemaičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-30127
 
 <a id="claim-t-30224"></a>
 - t-002
   global_id: t-30224
-  teiginys: 'Dlugošas buvo pagrindinis 1409-1411 m. karo šaltinis ir kritiškai vertino Jogailą bei Vytautą.'
+  teiginys: "Dlugošas buvo pagrindinis 1409-1411 m. karo šaltinis ir kritiškai vertino Jogailą bei Vytautą."
+  temporaliniai_duomenys: "įvykio data: 1409-1411; įvykio data: 1411 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "926454-926830; hash=e1a41aa4b2d5bfedb18eecc87f1e59dcef11ef22a6cafbc7ea0aa64644c60473; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dlugošas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dlugošas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-32717
 
 <a id="claim-t-184372"></a>
 - t-003
   global_id: t-184372
-  teiginys: 'Narbuto vertinimu, Dlugošas iš senesniųjų istorikų aiškiai pripažino, kad lietuvių genties tautos tikėjo fetišais.'
+  teiginys: "Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "905907-906253; hash=13d1727337ff45e26680122efed206f8a15f50b5747db41356029a1f846805e5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Žemaičiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dlugošas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Žemaičiai: mention_match, group, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dlugošas\" parinktas kaip owner_note_path. Targetas \"Žemaičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-167742
+
+<a id="claim-t-188524"></a>
+- t-003
+  global_id: t-188524
+  teiginys: "Narbuto vertinimu, Dlugošas iš senesniųjų istorikų aiškiai pripažino, kad lietuvių genties tautos tikėjo fetišais."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "341166-341580; hash=8011a58a67cd3311879b256247f8ac0deb267afbd893e68f6857624d2a02a62f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Žemaičiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dlugošas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Žemaičiai: mention_match, group, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dlugošas\" parinktas kaip owner_note_path. Targetas \"Žemaičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-171413
 - susijęs iš [[objektai/autoriai/J. Dlugošas Długosz.md#claim-t-87985|J. Dlugošas Długosz]]: J. Dlugošas rašė, kad Kęstutis slapta atėjo į Vilnių ir užėmė Jogailą bei Vilniaus pilį.
 - susijęs iš [[objektai/autoriai/J. Dlugošas Długosz.md#claim-t-87986|J. Dlugošas Długosz]]: Dlugošas ir Kojelavičius tvirtino, kad Vilniaus pilių gaisrą sukėlė papirkti išdavikai.
 - susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-172865|J. Dlugošas]]: J. Dlugošas aprašė Vorsklos mūšį, kuriame Edigėjaus kariuomenė atrodė akimis neaprėpiama.
@@ -95,6 +156,7 @@ Dlugošas žinių bazėje minimas kaip pagrindinis 1409–1411 m. karo šaltinis
 - susijęs iš Vitebskas: Švitrigailos pajėgose buvo rytinių LDK slaviškų žemių, tarp jų Vitebsko, kariai.
 - susijęs iš Vitebskas: Švitrigailą rėmusiose pajėgose buvo rytinių LDK slaviškų žemių, įskaitant Vitebską, kariai.
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -104,11 +166,13 @@ Dlugošas žinių bazėje minimas kaip pagrindinis 1409–1411 m. karo šaltinis
     nes žemaičiai esą tos pačios tautos, tos pat kalbos ir papročių^35.
     Šitaip buvo aiškinama ir « Žemaičiu skunde » Konstancoje 36 * 38.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -121,11 +185,13 @@ Dlugošas žinių bazėje minimas kaip pagrindinis 1409–1411 m. karo šaltinis
     perdėm buvo kritiškas apie abu Lietuvos kunigaikščius, t. y. Jogailą
     ir Vytautą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -137,11 +203,13 @@ Dlugošas žinių bazėje minimas kaip pagrindinis 1409–1411 m. karo šaltinis
     kryžiuočiams — « Vakkis Ahridlis » ir neatplėštų nuo kitų lietuvių,
     nes žemaičiai esą tos pačios tautos, tos pat kalbos ir papročių^35.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Narbuto vertinimu, Dlugošas iš senesniųjų istorikų aiškiai pripažino, kad lietuvių genties tautos tikėjo fetišais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -157,8 +225,79 @@ Dlugošas žinių bazėje minimas kaip pagrindinis 1409–1411 m. karo šaltinis
     išaiškina smulkiau: pasak jo, jokia šventovė, jokia žymesnė gi­
     minė, jokie namai, net daug pavienių asmenų negyveno be
     savo asmeninių fetišų.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
+    - t-004
+
+## Citatos
+
+- id: c-30127
+  citata_originali: |
+    Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Primindami
+    savo ištikimybę Kęstutaičiui, jie jo maldavę, kad neatiduotų jų
+    kryžiuočiams — « Vakkis Ahridlis » ir neatplėštų nuo kitų lietuvių,
+    nes žemaičiai esą tos pačios tautos, tos pat kalbos ir papročių^35.
+    Šitaip buvo aiškinama ir « Žemaičiu skunde » Konstancoje 36 * 38.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-30223
+
+- id: c-32717
+  citata_originali: |
+    Apskritai, sąjungininkų pusėje
+    ieškojimas tikrojo karo vado ir tik vieno kurio pusbrolio viena­
+    šališkas iškėlimas antrojo sąskaiton sunkiai gali atitikti faktus.
+    O jiedu kiekvienas veikė savo srityje ir atliko pasiimtus uždavi­
+    nius.
+    Dlugošas, kuris 1409-1411 m. karui yra pagrindinis šaltinis,
+    perdėm buvo kritiškas apie abu Lietuvos kunigaikščius, t. y. Jogailą
+    ir Vytautą.
+  citata_rodoma: "Dlugošas, kuris 1409-1411 m. karui yra pagrindinis šaltinis,\nperdėm buvo kritiškas apie abu Lietuvos kunigaikščius, t. y. Jogailą\nir Vytautą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-30224
+
+- id: c-167742
+  citata_originali: |
+    Dubysos rajone
+    Vytautas vėl pasirodė su karine jėga, kurioje buvo rusų ir lenkų.
+    Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Primindami
+    savo ištikimybę Kęstutaičiui, jie jo maldavę, kad neatiduotų jų
+    kryžiuočiams — « Vakkis Ahridlis » ir neatplėštų nuo kitų lietuvių,
+    nes žemaičiai esą tos pačios tautos, tos pat kalbos ir papročių^35.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184372
+
+- id: c-171413
+  citata_originali: |
+    201
+
+    ## Puslapis 201
+
+    mitologas mokėdavo atskirti fetišus nuo kitų dievų, kadangi
+    gal ir nežinojo to termino. Iš mūsų senesniųjų istorikų vienas
+    Dlugošas aiškiai pripažįsta, kad lietuvių genties tautos tikėjo
+    fetišais. Lasickis, tiesa, šio termino nenurodo, tačiau dalyką
+    išaiškina smulkiau: pasak jo, jokia šventovė, jokia žymesnė gi­
+    minė, jokie namai, net daug pavienių asmenų negyveno be
+    savo asmeninių fetišų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188524

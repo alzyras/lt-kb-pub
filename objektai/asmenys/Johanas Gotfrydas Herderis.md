@@ -16,6 +16,18 @@ amziai:
   - 'XIX'
 periodo_grupes:
   - 'naujieji laikai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Johanas Gotfrydas Herderis
 
@@ -28,10 +40,42 @@ Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio (Joha
 <a id="claim-t-75881"></a>
 - t-001
   global_id: t-75881
-  teiginys: 'Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio ir kitų vokiečių romantikų mintys apie tautos dvasią liaudies kalboje ir kultūroje.'
+  teiginys: "Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio ir kitų vokiečių romantikų mintys apie tautos dvasią liaudies kalboje ir kultūroje."
+  temporaliniai_duomenys: "įvykio data: 1831 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Herderio idėjų paplitimą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "206667-207363; hash=1f8cc287074fb6dec98e7975b45b12baa0d822632af71936533940a5d8cc77df; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Johanas Gotfrydas Herderis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vokiečiai: mention_match, group, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Johanas Gotfrydas Herderis\" parinktas kaip owner_note_path. Targetas \"Vokiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-21727
 
+<a id="claim-t-75882"></a>
+- t-002
+  global_id: t-75882
+  teiginys: "Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio ir kitų vokiečių romantikų mintys apie tautos dvasią liaudies kalboje ir kultūroje."
+  temporaliniai_duomenys: "įvykio data: 1831 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Herderio idėjų paplitimą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "206962-207535; hash=3efdedbc409f6b511dfa622f03345678cc925a529f58ff8b81a54209e81caeec; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Johanas Gotfrydas Herderis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vokiečiai: mention_match, group, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Johanas Gotfrydas Herderis\" parinktas kaip owner_note_path. Targetas \"Vokiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-73553
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -49,8 +93,9 @@ Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio (Joha
     mintys, kad tautos dvasia glūdi liaudies kalboje ir kultūroje, kad kie-
     kviena kalba ir kultūra yra vertingas visos žmonijos turtas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -69,8 +114,49 @@ Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio (Joha
     liaudies kalba turi būti ugdoma ir kaip atskiros aukštosios kultūros kal-
     ba.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-21727
+  citata_originali: |
+    Diduma aukštuomenės neabejojo, kad tokia kalba turi būti krašte
+    vyraujančios aukštosios kultūros kalba; liaudies kalba gali būti vartoja-
+    ma liaudžiai skirtoje pradžios mokykloje, bet ir šiuo atveju mokykla turi
+    išmokyti visus ir tos kalbos, kuri laikoma to krašto aukštosios kultūros
+    kalba. Tokia nuostata nugalėjo daugumoje Vakarų Europos valstybių, jos
+    laikėsi ir lenkiškai kalbantis buvusios LLV elitas iki pat 1831 m.
+    Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Her-
+    derio (Johann Gottfried Herder) ir kitų vokiečių romantizmo atstovų
+    mintys, kad tautos dvasia glūdi liaudies kalboje ir kultūroje, kad kie-
+    kviena kalba ir kultūra yra vertingas visos žmonijos turtas.
+  citata_rodoma: "Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Her-\nderio (Johann Gottfried Herder) ir kitų vokiečių romantizmo atstovų\nmintys, kad tautos dvasia glūdi liaudies kalboje ir kultūroje, kad kie-\nkviena kalba ir kultūra yra vertingas visos žmonijos turtas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75881
+
+- id: c-73553
+  citata_originali: |
+    Tokia nuostata nugalėjo daugumoje Vakarų Europos valstybių, jos
+    laikėsi ir lenkiškai kalbantis buvusios LLV elitas iki pat 1831 m.
+    Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Her-
+    derio (Johann Gottfried Herder) ir kitų vokiečių romantizmo atstovų
+    mintys, kad tautos dvasia glūdi liaudies kalboje ir kultūroje, kad kie-
+    kviena kalba ir kultūra yra vertingas visos žmonijos turtas. Atskira tauta
+    yra visi tie, kurie kalba viena kalba, turi bendrą istoriją ir kultūrą, todėl
+    liaudies kalba turi būti ugdoma ir kaip atskiros aukštosios kultūros kal-
+    ba.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75882

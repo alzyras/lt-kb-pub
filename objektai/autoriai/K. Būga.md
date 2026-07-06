@@ -17,6 +17,18 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'modernioji Lietuva'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # K. Būga
 
@@ -33,32 +45,78 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
 ## Teiginiai
 
 <a id="claim-t-00043"></a>
-- t-001
+- t-005
   global_id: t-00043
-  teiginys: 'Būga kartu su Jauniumi vadino aisčių gimines aisčiais.'
+  teiginys: "Būga kartu su Jauniumi vadino aisčių gimines aisčiais."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "55457-55760; hash=a0b2f431508de553bffbe993bf7bb32003f037a426f2797907e16e597196dd33; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aisčiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "K. Būga: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Aisčiai: mention_match, group, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"K. Būga\" parinktas kaip owner_note_path. Targetas \"Aisčiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-00072
 
 <a id="claim-t-64668"></a>
-- t-002
+- t-005
   global_id: t-64668
-  teiginys: 'K. Būga manė, kad dauguma gotiškos kilmės žodžių į baltų kalbas pateko per slavus.'
+  teiginys: "K. Būga manė, kad dauguma gotiškos kilmės žodžių į baltų kalbas pateko per slavus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "55457-55760; hash=a0b2f431508de553bffbe993bf7bb32003f037a426f2797907e16e597196dd33; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "K. Būga: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Baltai: mention_match, group, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"K. Būga\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-03996
 
 <a id="claim-t-64669"></a>
 - t-003
   global_id: t-64669
-  teiginys: 'K. Būga yra „Rinktinių Raštų“, sudarytų V. Zinkevičiaus ir išleistų Vilniuje 1958-1961 m., autorius.'
+  teiginys: "K. Būga yra „Rinktinių Raštų“, sudarytų V. Zinkevičiaus ir išleistų Vilniuje 1958-1961 m., autorius."
+  temporaliniai_duomenys: "įvykio data: 1958-1961; įvykio data: 1961 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinė formuluotė silpna, bet bibliografinė nuoroda palaiko aiškesnį teiginį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "27608-27784; hash=b0817c4f1b0eabfc6317d4b5e06ec0a03706034f2c1d67991e6ff330c7d7e534; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "K. Būga: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=68"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"K. Būga\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-03994
 
 <a id="claim-t-64672"></a>
-- t-004
+- t-007
   global_id: t-64672
-  teiginys: 'K. Būga 1924 m. paskelbė darbą „Die Vorgeschichte der aistischen (baltischen) Stämme im Lichte der Ortsnamenforschung“.'
+  teiginys: "K. Būga 1924 m. paskelbė darbą „Die Vorgeschichte der aistischen (baltischen) Stämme im Lichte der Ortsnamenforschung“."
+  temporaliniai_duomenys: "įvykio data: 1924 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Bibliografinė citata palaiko aiškesnį sakinį su publikavimo metais ir pataisytu OCR triukšmu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "305855-306297; hash=18b707013df733abf5a7a4d138d4156c60f63ecb30257e111fd2aed45b1408e3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "K. Būga: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"K. Būga\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-03998
 - susijęs iš [[objektai/asmenys/Gebhardas.md#claim-t-60283|Gebhardas]]: Brolis Gebhardas iš Saksonijos mūšyje persekiojo bėgančius prūsus ir vienam jų kalaviju nukirto galvą.
 - susijęs iš [[objektai/asmenys/Kazimieras Būga.md#claim-t-183549|Kazimieras Būga]]: Kazimieras Būga 1902 m. pradėjo lietuvių kalbos žodyno sudarymą, kuris buvo tęsiamas vėlesniais laikotarpiais.
 - susijęs iš [[objektai/asmenys/Kazimieras Būga.md#claim-t-19054|Kazimieras Būga]]: Kazimieras Būga pradėjo lietuvių kalbos žodyno sudarymą.
@@ -105,7 +163,6 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
 - susijęs iš [[objektai/ivykiai/Skomanto naktinis puolimas prie Birgelavos.md#claim-t-91919|Skomanto naktinis puolimas prie Birgelavos]]: Vakarop ji priėjo Birgelavos pilį ir ten įsirengė stovyklą443.
 - susijęs iš Die litauisch-weissrussischen Beziehungen und ihr Alter: K. Būgos „Die litauisch-weissrussischen Beziehungen und ihr Alter“ paskelbta 1925 m. leidinio „Zeitschrift für slavische Philologie“ I tome.
 - susijęs iš Rusiškai lietuviškas žodynas: „Rusiškai lietuviško žodyno“ autorius žodžiams aiškinti naudojo daug lietuviškų raštų, o rusiškiems žodžiams nustatyti rėmėsi Dalio žodynu.
-- susijęs iš Vulfstano pasakojimas: Vulfstano pasakojime Aismarės vadinamos Estmere.
 - susijęs iš Prieglius: Kalbinė riba tarp lietuvių ir prūsų Ordino atsikraustymo metu ėjo Priegliumi ir kitomis natūraliomis ribomis.
 - susijęs iš Unzatrapio žemė: Karaliaučiaus komtūras su sembų kariuomene netikėtai įsibrovė į Vonsdorfo, arba Unzatrapio, žemę.
 - susijęs iš [[objektai/zodynas/Aistuva.md#claim-t-11667|Aistuva]]: Kazimieras Jaunius ir Kazimieras Būga žodį „aesti“ kildino iš žodžio „Aistuva“.
@@ -122,6 +179,7 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
     taip jas vadina senieji viduramžio raštai ir kad ten, kur jie gyveno,
     yra tą vardą pateisinančių vietovardžių (pav., _Aistmarės_ Prūsuose).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -137,6 +195,7 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
     BūRR = Būga, K. : Rinktiniai Raštai, sudarė V. Zinkevičius, 1-3,
     Vilnius 1958-61.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -153,8 +212,9 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
     ba, stiklas, šalmas, lūkas, piela, muitas, tuinas) K. Būgos nuomone
     esą patekę į baltų kalbas ne tiesioginiu keliu, bet per slavus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -171,8 +231,73 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
     manais_ , Kalba ir Senovė, I, Kaunas 1922, 60-75 p. — Endzelin, J. :
     _Slavjano-baltijskie etjudy_ , Charkov 1911.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
+## Citatos
+
+- id: c-00072
+  citata_originali: |
+    Tas geografinis terminas reiš-
+    kia Baltijos pajūrio tautas. Tik didieji mūsų kalbininkai Jaunius su
+    Būga visas tas gimines vadino aisčiais, argumentuodami tuo, kad
+    taip jas vadina senieji viduramžio raštai ir kad ten, kur jie gyveno,
+    yra tą vardą pateisinančių vietovardžių (pav., _Aistmarės_ Prūsuose).
+  citata_rodoma: "Tik didieji mūsų kalbininkai Jaunius su\nBūga visas tas gimines vadino aisčiais, argumentuodami tuo, kad\ntaip jas vadina senieji viduramžio raštai ir kad ten, kur jie gyveno,\nyra tą vardą pateisinančių vietovardžių (pav., _Aistmarės_ Prūsuose)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-00043
+
+- id: c-03994
+  citata_originali: |
+    BL1 = Baltische Lande, I : Ostbaltische Frühzeit, išl. C. Engel ir
+    A. Brackmann, Leipzig 1939.
+    BūRR = Būga, K. : Rinktiniai Raštai, sudarė V. Zinkevičius, 1-3,
+    Vilnius 1958-61.
+  citata_rodoma: "BūRR = Būga, K. : Rinktiniai Raštai, sudarė V. Zinkevičius, 1-3,\nVilnius 1958-61."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-64669
+
+- id: c-03996
+  citata_originali: |
+    Lietuvos teritorijos jie nepalietė ir dides­
+    nės įtakos baltams neturėjo. Pavyslyje ir prie Aismarių santykiau­
+    dami su prūsais, gotai jiems tame laikotarpyje yra davę devynius
+    skolinius. Dauguma gotiškosios kilmės žodžių (asilas, katilas, istu­
+    ba, stiklas, šalmas, lūkas, piela, muitas, tuinas) K. Būgos nuomone
+    esą patekę į baltų kalbas ne tiesioginiu keliu, bet per slavus.
+  citata_rodoma: "Dauguma gotiškosios kilmės žodžių (asilas, katilas, istu-\nba, stiklas, šalmas, lūkas, piela, muitas, tuinas) K. Būgos nuomone\nesą patekę į baltų kalbas ne tiesioginiu keliu, bet per slavus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-64668
+
+- id: c-03998
+  citata_originali: |
+    Suwałki,_ Wiadomości Archeolo­
+    giczne, t. 1, sąs. 1, 1961. — _Apuolė_ , MLTE, I, 85-86 p. — _Baltic Langu­
+    ages_ , EnL, I, 259-261 p. — Būga, K. : _Die Vorgeschichte der aistischen
+    (ibaltischen) Stämme im Lichte der Ortsnamenforschung,_ Streitberg-Fest­
+    gabe, Leipzig 1924, 22-35 p. — (”) _Visųsenieji lietuvių santykiai su ger­
+    manais_ , Kalba ir Senovė, I, Kaunas 1922, 60-75 p. — Endzelin, J. :
+    _Slavjano-baltijskie etjudy_ , Charkov 1911.
+  citata_rodoma: "Būga, K. : _Die Vorgeschichte der aistischen (ibaltischen) Stämme im Lichte\nder Ortsnamenforschung,_ Streitberg-Festgabe, Leipzig 1924, 22-35 p."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-64672

@@ -14,6 +14,18 @@ tags:
   - sąvoka
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # specfondai
 
@@ -26,10 +38,22 @@ Politinis atšilimas ir liberalizacijos ženklai kultūriniame gyvenime nereišk
 <a id="claim-t-70328"></a>
 - t-001
   global_id: t-70328
-  teiginys: 'Politinio atšilimo metais dauguma užsienio ar ikikarinių leidinių tebebuvo laikomi vadinamuosiuose specfonduose.'
+  teiginys: "Politinio atšilimo metais dauguma užsienio ar ikikarinių leidinių tebebuvo laikomi vadinamuosiuose specfonduose."
+  temporaliniai_duomenys: "įvykio data: po 1956 m.; įvykio data: 1956 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas puslapio ir antraštės triukšmas, paliktas citata pagrįstas faktas apie specfondus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "450026-450554; hash=11295473674458d186b7ab98ea79595b76bf95d1f813e5c4bb5f8a465ef80304; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "specfondai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"specfondai\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-69371
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,8 +70,29 @@ Politinis atšilimas ir liberalizacijos ženklai kultūriniame gyvenime nereišk
     jos ir tais pačiais metais Lenkijoje vykusio Poznanės darbininkų sukilimo
     Lietuvos valdžia leido suprasti, kad kultūros politika iš esmės nepasikeis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-69371
+  citata_originali: |
+    Politinis atšilimas ir liberalizacijos ženklai kultūriniame gyvenime ne-
+    reiškė esminių pokyčių, kultūrines organizacijas kibiai prižiūrėjo sovietų
+
+    5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
+    221
+    saugumas, išliko griežta cenzūra, dauguma užsienio ar ikikarinių leidinių
+    gulėjo vadinamuosiuose „specfonduose“. Po 1956 m. Vengrijos revoliuci-
+    jos ir tais pačiais metais Lenkijoje vykusio Poznanės darbininkų sukilimo
+    Lietuvos valdžia leido suprasti, kad kultūros politika iš esmės nepasikeis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-70328

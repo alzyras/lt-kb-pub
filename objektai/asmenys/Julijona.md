@@ -11,11 +11,6 @@ datos:
   - '1418 m.'
 date_start: '1383'
 date_end: '1418'
-description: 'Julijonos vardas šaltiniuose siejamas su Algirdu, Jogaila, Tvere, 1383 m. politika ir Vytauto sprendimu Vilniuje 1418 m.'
-socialDescription: 'Julijona minima kaip Algirdo žmona ir Jogailos motina, o kituose šaltiniuose jos vardas siejamas su Vytauto vedybų sprendimu 1418 m.'
-seo_atnaujinta: '2026-07-02T20:14:54.910861+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'true'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,70 +21,173 @@ amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Julijona
 
 ## Santrauka
 
-Julijona šaltiniuose pirmiausia siejama su Algirdu, Jogaila ir Tverės valdovų aplinka: ji vadinama Tverės kunigaikščio Aleksandro dukterimi ir Algirdo žmona. Pasakojimuose apie 1383 m. Jogailos politiką jai priskiriama įtaka Jogailos sprendimams ir sutartims su Ordinu. Kartu šaltiniai mini kitą Julijoną: 1418 m. Vilniuje Vytautas nusprendė vesti Onos dukterėčią, Jono Algimantaičio dukterį.
+Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algirdo žmona ir Jogailos motina. Ivinskio tekste ji vadinama kunigaikščio Aleksandro dukterimi, o ankstesniame šaltinyje minima kaip Tverės kunigaikščio sesuo; abiem atvejais pabrėžiama jos vieta Jogailos ankstyvojoje politikoje.
 
 ## Teiginiai
 
 <a id="claim-t-05184"></a>
-- t-001
+- t-003
   global_id: t-05184
-  teiginys: 'Julijona buvo Tverės kunigaikščio Aleksandro duktė ir Algirdo žmona.'
+  teiginys: "Julijona buvo Tverės kunigaikščio Aleksandro duktė ir Algirdo žmona."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "727320-727654; hash=71521ef723d946e6cb2e79bd130abf0a2d1ad13913fa776300a97f171d9814ad; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Julijona: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=54"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Julijona\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-160501
 
 <a id="claim-t-05185"></a>
-- t-002
+- t-004
   global_id: t-05185
-  teiginys: 'Julijona paminėta Žemaičių dovanojimo dokumente kartu su kunigaikščio taryba.'
+  teiginys: "Julijona paminėta Žemaičių dovanojimo dokumente kartu su kunigaikščio taryba."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "761711-762367; hash=d5c5831d7d6e1a0e69a0c107757c0c36ab75bb51cf0bf150957924ae7113b422; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dubysa: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Julijona: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Dubysa: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Julijona\" parinktas kaip owner_note_path. Targetas \"Dubysa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-04832
 
 <a id="claim-t-05186"></a>
-- t-003
+- t-005
   global_id: t-05186
-  teiginys: 'Remiantis Torno analų žinia, Julijonos įtaka aiškinamas Jogailos atsisakymas judėti pas magistrą.'
+  teiginys: "Remiantis Torno analų žinia, Julijonos įtaka aiškinamas Jogailos atsisakymas judėti pas magistrą."
+  temporaliniai_duomenys: "įvykio data: 1383 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "763518-764065; hash=1758f4cc78ad5ca8682bf69642fa37c2f5933b4d6520dd9ae6bf629c431dd10c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Julijona: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Julijona\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-160504
 
 <a id="claim-t-176500"></a>
-- t-004
+- t-010
   global_id: t-176500
-  teiginys: 'Julijona prisidėjo prie Jogailos sutarties su Ordinu, nukreiptos prieš Kęstutį, sudarymo.'
+  teiginys: "Julijona prisidėjo prie Jogailos sutarties su Ordinu, nukreiptos prieš Kęstutį, sudarymo."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "200049-200566; hash=d8f58a5b6e90bb3e39911d72372fa41d2f9502da9c7f92618f176d0c75c4584d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Julijona: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Julijona\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-160505
 
 <a id="claim-t-176502"></a>
-- t-005
+- t-008
   global_id: t-176502
-  teiginys: 'Julijonos sūnūs Kaributas, Karigaila, Lengvenis, Vygandas ir Švitrigaila buvo trijų Jogailos ir Skirgailos sutarčių liudininkai.'
+  teiginys: "Julijonos sūnūs Kaributas, Karigaila, Lengvenis, Vygandas ir Švitrigaila buvo trijų Jogailos ir Skirgailos sutarčių liudininkai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "761711-762367; hash=d5c5831d7d6e1a0e69a0c107757c0c36ab75bb51cf0bf150957924ae7113b422; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Skirgaila: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Julijona: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Skirgaila: mention_match, person, gap=96"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Julijona\" parinktas kaip owner_note_path. Targetas \"Skirgaila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-04832
 
 <a id="claim-t-176503"></a>
-- t-006
+- t-009
   global_id: t-176503
-  teiginys: 'Zenonas Ivinskis, remdamasis Torno analais, svarsto, kad Julijona galėjo nenorėti Lietuvos krikšto lotynų apeigomis.'
+  teiginys: "Zenonas Ivinskis, remdamasis Torno analais, svarsto, kad Julijona galėjo nenorėti Lietuvos krikšto lotynų apeigomis."
+  temporaliniai_duomenys: "įvykio data: 1383 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pateikia autoriaus samprotavimą, todėl reikia atribucijos ir glaustesnio sakinio."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "763518-764065; hash=1758f4cc78ad5ca8682bf69642fa37c2f5933b4d6520dd9ae6bf629c431dd10c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Julijona: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=25"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Julijona\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-160504
 
 <a id="claim-t-176505"></a>
-- t-007
+- t-006
   global_id: t-176505
-  teiginys: 'Po Onos mirties Vilniuje 1418 m. Vytautas nusprendė vesti jos dukterėčią Julijoną, Jono Algimantaičio dukterį.'
+  teiginys: "Po Onos mirties Vilniuje 1418 m. Vytautas nusprendė vesti jos dukterėčią Julijoną, Jono Algimantaičio dukterį."
+  temporaliniai_duomenys: "įvykio data: 1418 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "332936-333523; hash=510012cb147e118cce5e6be4e1f106185d5ea37683d61a34b0ba5459aec0b773; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Alšėnai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Julijona: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Alšėnai: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Julijona\" parinktas kaip owner_note_path. Targetas \"Alšėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-160500
 
 <a id="claim-t-184743"></a>
-- t-008
+- t-010
   global_id: t-184743
-  teiginys: 'Julijonos noru Algirdas sutiko priimti krikščionybę ir Vitebske pastatė rusams dvi šventoves.'
+  teiginys: "Julijonos noru Algirdas sutiko priimti krikščionybę ir Vitebske pastatė rusams dvi šventoves."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "391029-391470; hash=679dec1ded2e4c2cb69813c0c8738d4b203e17896adff64ed6dfc6ccee563c07; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Julijona: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=15"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Julijona\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-168104
 - susijęs iš [[objektai/asmenys/Kaributas.md#claim-t-97457|Kaributas]]: Kaributas, Julijonos sūnus ir Jogailos brolis, buvo vienas iš trijų Jogailos ir Skirgailos sutarčių liudininkų.
 - susijęs iš [[objektai/asmenys/Karigaila.md#claim-t-63794|Karigaila]]: Karigaila, Julijonos sūnus ir Jogailos brolis, buvo vienas iš trijų Jogailos ir Skirgailos sutarčių liudininkų.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179723|Švitrigaila]]: Švitrigaila buvo vienas iš penkių Julijonos sūnų, liudijusių trijose Jogailos ir Skirgailos vardu sudarytose sutartyse.
@@ -159,6 +257,7 @@ Julijona šaltiniuose pirmiausia siejama su Algirdu, Jogaila ir Tverės valdovų
     bei svarbiu patarėju tapęs Hanulis. O Julijona ir kunigaikščio
     taryba tėra paminėta Žemaičių dovanojimo dokumente.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -186,6 +285,7 @@ Julijona šaltiniuose pirmiausia siejama su Algirdu, Jogaila ir Tverės valdovų
     dė vesti jos dukterėčią Julijoną, Alšėnų kunigaikščio Jono
     Algimantaičio dukterį.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -202,8 +302,9 @@ Julijona šaltiniuose pirmiausia siejama su Algirdu, Jogaila ir Tverės valdovų
     metropolito Teognosto gavo leidimą (1349 ar 1350) vesti Tverės
     kunigaikščio Aleksandro dukterį Julijoną^15.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -221,8 +322,9 @@ Julijona šaltiniuose pirmiausia siejama su Algirdu, Jogaila ir Tverės valdovų
     Į karo stovį patekus kryžiuočių su Jogaila santykiams, ordinas
     turėjo labiau susidomėti Vytautu ir jį palaikyti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
@@ -243,6 +345,7 @@ Julijona šaltiniuose pirmiausia siejama su Algirdu, Jogaila ir Tverės valdovų
     ne tiek Jogailos, kiek giminių — brolių ir motinos Julijonos —
     pastangomis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -263,11 +366,135 @@ Julijona šaltiniuose pirmiausia siejama su Algirdu, Jogaila ir Tverės valdovų
     žiauriai tuo metu atkeršydamas už krikščionių šventi­
     kų nužudymą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
+## Citatos
+
+- id: c-04832
+  citata_originali: |
+    Kaip kita­
+    dos Mindaugas už Livonijos ordino paslaugas turėjo išdavinėti
+    donacinius dokumentus, taip Jogaila Prūsų kryžiuočiams už ordino
+    « draugiškumą, patarimus, pagalbą, darbą ir įvairų triūsą » turėjo
+    užleisti jam visą Žemaičių plotą tarp abiejų ordino valdų — t. y.
+    Livonijos ir Prūsų—-ligi Dubysos upės. Visose trijose Jogailos ir
+    Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi
+    kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas,
+    Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs
+    bei svarbiu patarėju tapęs Hanulis. O Julijona ir kunigaikščio
+    taryba tėra paminėta Žemaičių dovanojimo dokumente.
+  citata_rodoma: "Visose trijose Jogailos ir\nSlorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi\nkiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas,\nKarigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs\nbei svarbiu patarėju tapęs Hanulis. O Julijona ir kunigaikščio\ntaryba tėra paminėta Žemaičių dovanojimo dokumente."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05185
+    - t-176502
+
+- id: c-160500
+  citata_originali: |
+    T. I, Nr. 698.
+    149
+
+    ## Puslapis 166
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Vytautas savo sostinėje su visa ištaiga priėmė Vladislovą Jo­
+    gailą, vėl apsilankiusį Lietuvoje, kad numaldytų nuolatos at­
+    sinaujinančius kivirčus su kryžiuočiais, ir dosniai ją apdalijo
+    dovanomis; bet vėliau Vilniaus reikalai darėsi liūdnesni. Kai
+    Vilniuje (1418 m.) mirė Vytauto žmona Ona, kuri kadaise di­
+    džiausios pagarbos vertu pasišventimu jį iš Krėvos pilies ka­
+    lėjimo didvyriškai išvadavo73, didysis kunigaikštis nuspren­
+    dė vesti jos dukterėčią Julijoną, Alšėnų kunigaikščio Jono
+    Algimantaičio dukterį.
+  citata_rodoma: "149\n\n## Puslapis 166\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nVytautas savo sostinėje su visa ištaiga priėmė Vladislovą Jo­\ngailą, vėl apsilankiusį Lietuvoje, kad numaldytų nuolatos at­\nsinaujinančius kivirčus su kryžiuočiais, ir dosniai ją apdalijo \ndovanomis; bet vėliau Vilniaus reikalai darėsi liūdnesni. Kai \nVilniuje (1418 m.) mirė Vytauto žmona Ona, kuri kadaise di­\ndžiausios pagarbos vertu pasišventimu jį iš Krėvos pilies ka­\nlėjimo didvyriškai išvadavo73, didysis kunigaikštis nuspren­\ndė vesti jos dukterėčią Julijoną, Alšėnų kunigaikščio Jono \nAlgimantaičio dukterį."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176505
+
+- id: c-160501
+  citata_originali: |
+    Bet jiedu nepasiekė tikslo, nes
+    buvo perduoti didžiajam Maskvos kunigaikščini, šiam reikalaujant.
+    Gelbėdamas savo pasiuntinius-sūnėnus, Algirdas taikėsi su Maskva.
+    Tada jis jau buvo našlys, ir iš Maskvos kunigaikščio Simano ir
+    metropolito Teognosto gavo leidimą (1349 ar 1350) vesti Tverės
+    kunigaikščio Aleksandro dukterį Julijoną^15.
+  citata_rodoma: "Tada jis jau buvo našlys, ir iš Maskvos kunigaikščio Simano ir\nmetropolito Teognosto gavo leidimą (1349 ar 1350) vesti Tverės\nkunigaikščio Aleksandro dukterį Julijoną^15."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05184
+
+- id: c-160504
+  citata_originali: |
+    Jogailos politikos nauja kryptis, t. y. jo savarankiška laikysena
+    ir užsispyrimas nevykti į Skirsnemunę, gali būti tuo paaiškintas,
+    kad jis jau 1383 m. pavasarį bus žinojęs apie projektus kviesti jį
+    Lenkijos karaliumi ir sutuokti su Jadvyga. Remiantis Torno analų
+    žinia, dar gali būti samprotaujama, kad Jogaila atsisakė judintis
+    pas magistrą įtakoje Julijonos^21 , kuri galėjo nenorėti, kad Lietuva
+    butų pakrikštyta lotynų apeigomis.
+    Į karo stovį patekus kryžiuočių su Jogaila santykiams, ordinas
+    turėjo labiau susidomėti Vytautu ir jį palaikyti.
+  citata_rodoma: "pavasarį bus žinojęs apie projektus kviesti jį\nLenkijos karaliumi ir sutuokti su Jadvyga. Remiantis Torno analų\nžinia, dar gali būti samprotaujama, kad Jogaila atsisakė judintis\npas magistrą įtakoje Julijonos^21 , kuri galėjo nenorėti, kad Lietuva\nbutų pakrikštyta lotynų apeigomis.\nĮ karo stovį patekus kryžiuočių su Jogaila santykiams, ordinas\nturėjo labiau susidomėti Vytautu ir jį palaikyti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176503
+    - t-05186
+
+- id: c-160505
+  citata_originali: |
+    Tuo būdu Jo-
+    gaila pasidarė ordino sąjungininkas prieš dėdę. Sutarty net nu-
+    matyta, ką reikėsią daryti, kad Kęstutis apie ją nieko nesužinotų:
+    joje net numatomas atvejis, kad Jogaila galįs būti priverstas
+    žygiuoti tarsi į pagalbą Kęstučiui, bet dėl to sutartis dar ne-
+    būsianti nutraukta; Jogaila neturįs tiktai kautis su kryžiuočiais,
+    tačiau karo veiksmų srityse jam galima būti.
+    Šita Jogailos sutartis, nukreipta prieš dėdę, buvo sudaryta
+    ne tiek Jogailos, kiek giminių — brolių ir motinos Julijonos —
+    pastangomis.
+  citata_rodoma: "Šita Jogailos sutartis, nukreipta prieš dėdę, buvo sudaryta\nne tiek Jogailos, kiek giminių — brolių ir motinos Julijonos —\npastangomis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176500
+
+- id: c-168104
+  citata_originali: |
+    Mat rusai nuo senų senovės įpratę Velykų dieną do­
+    vanoti vienas kitam margutį kaip bičiuliškumo ženklą.
+    Algirdas, nors viešai laikėsi stabmeldžių apeigų, ta­
+    čiau, neseniai savo žmonos Julijonos, Vitebsko kuni­
+    gaikščio dukters, noru sutikęs priimti krikščionybę, ne­
+    atmetė rusų apeigų ir rusams Vitebske pastatė porą
+    šventovių. Palankumą krikščionybei jis, be to, parodė,
+    žiauriai tuo metu atkeršydamas už krikščionių šventi­
+    kų nužudymą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184743
 
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

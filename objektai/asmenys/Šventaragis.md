@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Šventaragis'
 saltiniai:
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
@@ -11,15 +12,27 @@ date_start: '1263'
 date_end: '1282'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'LDK'
 tags:
   - asmuo
   - kraštas
   - kunigaikštis
   - miestas
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Šventaragis
 
@@ -28,29 +41,90 @@ tags:
 Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas savo tėvo, kunigaikščio Šventaragio, pasak jų, viešpatavusio Lietuvoje apie 1268 m., valią, tam slėny pir­ masis miškus išnaikinęs ir savo tė­ vo bei savo paties įpėdinių kapavie­ tėms.
 
 ## Teiginiai
+
 <a id="claim-t-87898"></a>
 - t-001
   global_id: t-87898
-  teiginys: 'Pasakojime kunigaikštis Šventaragis vaizduojamas kaip apie 1268 m. Lietuvoje viešpatavęs Germanto tėvas.'
+  teiginys: "Pasakojime kunigaikštis Šventaragis vaizduojamas kaip apie 1268 m. Lietuvoje viešpatavęs Germanto tėvas."
+  semantiniai_rysiai: "Šventaragis valdė Lietuva (0.90); Šventaragis buvo sūnus Germantas (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1268 m.; įvykio data: apie 1268 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Citata perteikia pasakojimo teiginį apie Šventaragį, bet pradinis tekstas buvo fragmentiškas ir su OCR triukšmu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "61799-62501; hash=a3b30e9ad7bf8408473e29e8e979a87f4b2b6ca7d2025353a1687b3ac93c9aa7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Lietuva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Šventaragis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys aiškiai nurodo, kad Šventaragis viešpatavo Lietuvoje."
   pagrindžia:
-    - c-001
+    - c-83877
 
 <a id="claim-t-188653"></a>
 - t-002
   global_id: t-188653
-  teiginys: 'Narbutas, remdamasis senu pasakojimu, rašo, kad Šventaragis 1263 m. siuntė pasiuntinius pas Nemuno upės orakulą klausti apie šventyklos ateitį.'
+  teiginys: "Narbutas, remdamasis senu pasakojimu, rašo, kad Šventaragis 1263 m. siuntė pasiuntinius pas Nemuno upės orakulą klausti apie šventyklos ateitį."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1263 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Legendinis pasakojimas paliktas su Narbuto ir seno pasakojimo atribucija. Pašalintas nutrūkęs fragmentas ir nepridėta pranašystės detalių."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "471608-472495; hash=87a7bfb625151387150d675f28a0606fdc296cb8f40e2aa7e5f44df2116cc9b0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Upės (Oppen) kaimas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šventaragis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Upės (Oppen) kaimas: mention_match, place, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šventaragis\" parinktas kaip owner_note_path. Targetas \"Upės (Oppen) kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-002
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171542
+
 <a id="claim-t-188654"></a>
 - t-003
   global_id: t-188654
-  teiginys: 'Narbutas teigė, kad kunigaikštis Šventaragis 1282 m. priėmė lietuvių Vytį kaip valstybinį herbą.'
+  teiginys: "Narbutas teigė, kad kunigaikštis Šventaragis 1282 m. priėmė lietuvių Vytį kaip valstybinį herbą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1282 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys apie herbo priėmimą perrašytas trumpai ir priskirtas Narbutui, nes tai interpretacinis titulų ir kilmės kontekstas. Mitologinio ženklo svarstymas nepridėtas."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "723663-724249; hash=e259227c82fc0a6c7c01850f4ae59b5727faed0b555381b420a860638e590724; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Herbas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šventaragis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Herbas: mention_match, thing, gap=57"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šventaragis\" parinktas kaip owner_note_path. Targetas \"Herbas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-003
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171543
+
+<a id="claim-t-194020"></a>
+- t-004
+  global_id: t-194020
+  teiginys: "APIE KENTAURO HERBO VALDOVUS - ŠVENTARAGĮ IR JO ŠONŲ SKIRMANTĄ Ponai gedėjo savo gimtojo valdovo ir išsirinko val dovu ŠventaragįK entauro herbo, Lietuvos ir Žemai čių kunigaikščio Utenio sūnų."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "98283-98647; hash=c75d0a289c4499144f8e8d308d67057b84aba94b96c1e456b06f157562701e5e; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176645
 - susijęs iš [[objektai/asmenys/Gerimantas.md#claim-t-187907|Gerimantas]]: Narbutas perteikia Mitrofano Pinskiečio metraščio pasakojimą, kad Gerimantas sumanė statyti šventyklą, o Šventaragis 1263 m. klausė orakulo dėl jos ateities.
 - susijęs iš [[objektai/asmenys/Gerimantas.md#claim-t-188535|Gerimantas]]: Narbutas perteikia Mitrofano Pinskiečio metraščio žinią, kad Gerimantui sumanius statyti šventyklą Šventaragis siuntė pasiuntinius pas Nemuno orakulą.
 - susijęs iš [[objektai/asmenys/Germantas.md#claim-t-87427|Germantas]]: Pasak kronikų, Germantas pirmasis Šventaragio slėnyje iškirto miškus ir skyrė vietą kapavietėms.
@@ -80,7 +154,6 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 - susijęs iš Tauro kalnas: Narbutas pasakoja, kad Gediminas nukovė taurą ant kalno, vėliau vadinto Tauro kalnu, o Lizdeika po nakvynės Šventaragio miške išaiškino jo sapną.
 - susijęs iš Trakai: Pasakojime Gediminas po Trakų pilies įkūrimo medžiojo apylinkėse ir pasiekė Šventaragio slėnį už keturių mylių nuo Trakų.
 - susijęs iš Vilnelė: Gedimino legendoje medžioklė vyko kalne prie Neries ir Vilnelės santakos, o sapną Šventaragio slėnyje išaiškino Lizdeika.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Tarp Vilijos ir Vilnelės plytėjo Šventaragio slėnio lanka, nuo seno apaugusi ąžuolais.
 - susijęs iš Šventaragio slėnis: Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv.
 - susijęs iš Šventaragio slėnis: Pasak Strijkovskio ir Kojelavičiaus, Gediminas po Trakų pilies įkūrimo medžiojo Šventaragio slėnyje.
 - susijęs iš Šventaragio slėnis: Tai buvo Šventaragio slėny prie pat pilies kalno.
@@ -147,15 +220,6 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 - susijęs iš Vilija: Balińskis Vilniaus vardą siejo su Vilnia, o ne Vilija, ir iš to sprendė, kad pirmykštė gyvenvietė buvo prie Vilnios.
 - susijęs iš Vilnelė: Pilies kalno pietų pusėje tarp kalno ir Vilnelės stovėjo didžiuliai Manvydo rūmai.
 - susijęs iš Vilnelė: Šventaragio slėnis buvo lanka tarp Vilijos ir Vilnelės, kur degė lietuvių garbinama amžinoji ugnis Gabija.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Balińskis Vilniaus vardą siejo su Vilnia, o ne Vilija, ir iš to sprendė, kad pirmykštė gyvenvietė buvo prie Vilnios.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
 - susijęs iš Vilnia: Balińskis Vilniaus vardą siejo su Vilnia, o ne Vilija, ir iš to sprendė, kad pirmykštė gyvenvietė buvo prie Vilnios.
 - susijęs iš Vilnia: Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
 - susijęs iš Vilnia: Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
@@ -180,6 +244,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 - susijęs iš [[objektai/zodynas/vaidilos, žyniai ir pranašai.md#claim-t-86494|vaidilos, žyniai ir pranašai]]: Šventaragio slėnyje prie medinės šventyklos stovėjo pagonių vaidilų būstai.
 - susijęs iš [[objektai/zodynas/žiogriai statinių tvoros palisadai.md#claim-t-86443|žiogriai statinių tvoros palisadai]]: Vilniaus miesto centro aikštė buvo apstatyta prekijų krautuvėlėmis ir nuo kryžiuočių antpuolių apjuosta statinių tvoromis.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Pasakojime kunigaikštis Šventaragis vaizduojamas kaip apie 1268 m. Lietuvoje viešpatavęs Germanto tėvas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -206,11 +271,13 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
     tuvoje, tai vienas svarbiausių jau nykstančio tame krašte te­
     okratinio valdymo centrų tikrai galėjo būti8.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Narbutas, remdamasis senu pasakojimu, rašo, kad Šventaragis 1263 m. siuntė pasiuntinius pas Nemuno upės orakulą klausti apie šventyklos ateitį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -231,11 +298,14 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
     išpranašaujami geri ar prasti metai; paskutinė plyta buvo su
     dvigubo kryžiaus ženklu: tai ji buvo orakulo dovana kuni­
     gaikščiui.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Narbutas teigė, kad kunigaikštis Šventaragis 1282 m. priėmė lietuvių Vytį kaip valstybinį herbą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -251,11 +321,132 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
     kunigaikštis Šventaragis 1282 metais priėmė kaip valstybinį
     herbą1'. Tad nėra abejonės, kad lietuviai pažinojo ženklus, pa­
     našius į kryžius1 12.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+- c-004
+  santrauka: 'APIE KENTAURO HERBO VALDOVUS - ŠVENTARAGĮ IR JO ŠONŲ SKIRMANTĄ Ponai gedėjo savo gimtojo valdovo ir išsirinko val dovu ŠventaragįK entauro herbo, Lietuvos ir Žemai čių kunigaikščio Utenio sūnų.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    ## Puslapis 55
+
+    12. APIE KENTAURO HERBO VALDOVUS -  ŠVENTARAGĮ IR JO
+    ŠONŲ SKIRMANTĄ
+    Ponai gedėjo savo gimtojo valdovo ir išsirinko val­
+    dovu ŠventaragįK entauro herbo, Lietuvos ir Žemai­
+    čių kunigaikščio Utenio sūnų.
+    Šventaragiui neilgai pabuvus Naugarduko bei Rusų
+    miestų kunigaikščiu, pasimirė jo tėvas Utenis2 , Lietu­
+    vos ir Žemaičių didysis kunigaikštis 3 .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-004
+
+## Citatos
+
+- id: c-83877
+  citata_originali: |
+    Franciszkanów Litew­
+    skich. Wilno 1740 in 8vo, skyr. I. Esą
+    pirmasis toje vietovėje įkurdinęs gy­
+    venvietę Germantas, vykdydamas
+    savo tėvo, kunigaikščio Šventaragio,
+    pasak jų, viešpatavusio Lietuvoje
+    apie 1268 m., valią, tam slėny pir­
+    masis miškus išnaikinęs ir savo tė­
+    vo bei savo paties įpėdinių kapavie­
+    tėms skyręs; pavadino ją vardu tėvo,
+    Šventaragio, kas reikštų Šventą al-
+    18
+
+    ## Puslapis 35
+
+    I  KNYGA
+    Urna būtų prieiti prie išvados: jei Vilnius iki Gedimino laikų
+    nebuvo Europai žinomas kaip miestas, nebuvo pirmapradė
+    vietovė kokios nors mažos kunigaikščio dalinės valdos Lie­
+    tuvoje, tai vienas svarbiausių jau nykstančio tame krašte te­
+    okratinio valdymo centrų tikrai galėjo būti8.
+  citata_rodoma: "I. Esą \npirmasis toje vietovėje įkurdinęs gy­\nvenvietę Germantas, vykdydamas \nsavo tėvo, kunigaikščio Šventaragio, \npasak jų, viešpatavusio Lietuvoje \napie 1268 m., valią, tam slėny pir­\nmasis miškus išnaikinęs ir savo tė­\nvo bei savo paties įpėdinių kapavie­\ntėms skyręs; pavadino ją vardu tėvo, \nŠventaragio, kas reikštų Šventą al-\n18\n\n## Puslapis 35\n\nI  KNYGA\nUrna būtų prieiti prie išvados: jei Vilnius iki Gedimino laikų \nnebuvo Europai žinomas kaip miestas, nebuvo pirmapradė \nvietovė kokios nors mažos kunigaikščio dalinės valdos Lie­\ntuvoje, tai vienas svarbiausių jau nykstančio tame krašte te­\nokratinio valdymo centrų tikrai galėjo būti8."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87898
+
+- id: c-171542
+  citata_originali: |
+    Tas rūmas turėjo apvalų bokš­
+    tą, iš kurio buvo stebimas saulės judėjimas; pagal tą stebėji­
+    mą aukos deginimas ant aukuro pakopos reiškė pirmąją mė­
+    nesio dieną, o plytelė su tam tikru ženklu, įmūrijama bokšto
+    sienoje metų pradžioje, rodydavo metus. Senas pasakojimas,
+    kuris yra Mitrofano Pinskiečio rusiškame metraštyje, atneša
+    žinią, kad, kai kunigaikštis Gerimantas sumanė statyti šią
+    šventyklą, jo tėvas Šventaragis dvejus metus prieš tai (1263
+    metais ') siuntė garbingus pasiuntinius pas Nemuno upės ora­
+    kulą Žemaitijoje, klausdamas, kokia būsianti šventyklos at­
+    eitis. Orakulas žadėjo, kad ji gyvuosianti tol, kol gyva bus
+    pati stabmeldystė, ir įsakė pagaminti 122 apvalainas plytas
+    su orakulo nurodytais ženklais -  hieroglifais; iš jų turėjo būti
+    išpranašaujami geri ar prasti metai; paskutinė plyta buvo su
+    dvigubo kryžiaus ženklu: tai ji buvo orakulo dovana kuni­
+    gaikščiui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188653
+
+- id: c-171543
+  citata_originali: |
+    Bet mažų
+    mažiausiai nelaikysime šito keistu dalyku, jeigu apmąstysime
+    tai, ką išdėstėme dėl stabmeldiškų kryžių straipsnyje „Kapai“;
+    net nesikreipsime dėl herbynų j kryžiuočius, nes jų tikrai dar
+    nerastume Prūsijoje tuo metu, kai giminė, kuri naudojosi Prūso
+    herbu, persikėlė į Lenkiją, tai yra pačioje XII amžiaus pra­
+    džioje. Jeigu net Prūso herbo nelaikytume mitologiniu žen­
+    klu, tai jį randame raitelio skyde lietuvių Vyčio herbe, kurį
+    kunigaikštis Šventaragis 1282 metais priėmė kaip valstybinį
+    herbą1'. Tad nėra abejonės, kad lietuviai pažinojo ženklus, pa­
+    našius į kryžius1 12.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188654
+
+- id: c-176645
+  citata_originali: |
+    ## Puslapis 55
+
+    12. APIE KENTAURO HERBO VALDOVUS -  ŠVENTARAGĮ IR JO
+    ŠONŲ SKIRMANTĄ
+    Ponai gedėjo savo gimtojo valdovo ir išsirinko val­
+    dovu ŠventaragįK entauro herbo, Lietuvos ir Žemai­
+    čių kunigaikščio Utenio sūnų.
+    Šventaragiui neilgai pabuvus Naugarduko bei Rusų
+    miestų kunigaikščiu, pasimirė jo tėvas Utenis2 , Lietu­
+    vos ir Žemaičių didysis kunigaikštis 3 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194020
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Gerimantas]], [[objektai/asmenys/Germantas]]

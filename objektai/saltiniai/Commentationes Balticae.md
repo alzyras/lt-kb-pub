@@ -14,6 +14,18 @@ tags:
   - saltinis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Commentationes Balticae
 
@@ -26,10 +38,22 @@ amziai:
 <a id="claim-t-29799"></a>
 - t-001
   global_id: t-29799
-  teiginys: 'Baltų Tyrimo Institutas 1953–1967 m. Bonnoje išleido 13 Commentationes Balticae tomų.'
+  teiginys: "Baltų Tyrimo Institutas 1953–1967 m. Bonnoje išleido 13 Commentationes Balticae tomų."
+  temporaliniai_duomenys: "įvykio data: iki 1967 m.; įvykio data: 1953-1967; įvykio data: 1967 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatos duomenis apie leidėją, vietą, laiką ir tomų skaičių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "258943-259048; hash=6d1cbc6b2cd71f29802e66e1726d2dddfd042f8f082d4de34c1a8329b92cc287; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Commentationes Balticae: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Baltai: mention_match, group, gap=56"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Commentationes Balticae\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-29704
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -38,8 +62,22 @@ amziai:
     Nuo 1953 iki 1967 m. Bonnoje Baltų Tyrimo Institutas išleido 13 tt.
     « Commentationes Balticae » (CB)^171.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-29704
+  citata_originali: |
+    Nuo 1953 iki 1967 m. Bonnoje Baltų Tyrimo Institutas išleido 13 tt.
+    « Commentationes Balticae » (CB)^171.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-29799

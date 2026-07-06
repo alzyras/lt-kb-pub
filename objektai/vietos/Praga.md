@@ -22,6 +22,18 @@ tags:
 amziai:
   - 'XIII'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Praga
 
@@ -32,53 +44,140 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
 ## Teiginiai
 
 <a id="claim-t-71956"></a>
-- t-001
+- t-002
   global_id: t-71956
-  teiginys: 'Būtautas, vadintas Henricus dux Lithuaniae, ilgai gyveno imperatoriaus Karolio IV dvare ir 1380 m. mirė Pragoje.'
+  teiginys: "Būtautas, vadintas Henricus dux Lithuaniae, ilgai gyveno imperatoriaus Karolio IV dvare ir 1380 m. mirė Pragoje."
+  temporaliniai_duomenys: "gyvenimo laikotarpis: 1380 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia išplėsti įvardį ir aiškiai įvardyti asmenį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "697486-697783; hash=09fffe471f52b9e0c078e15ce72dcd3f82aa1c14658e9822754a329ef56af760; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Karolis IV: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Praga: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Karolis IV: mention_match, person, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Praga\" parinktas kaip owner_note_path. Targetas \"Karolis IV\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-32351
 
 <a id="claim-t-71957"></a>
-- t-002
+- t-007
   global_id: t-71957
-  teiginys: 'Būtautas, ilgai gyvenęs imperatoriaus Karolio IV dvare, 1380 m. mirė Pragoje.'
+  teiginys: "Būtautas, ilgai gyvenęs imperatoriaus Karolio IV dvare, 1380 m. mirė Pragoje."
+  temporaliniai_duomenys: "įvykio data: 1380 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia išplėsti įvardį ir pašalinti OCR triukšmą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "697486-697783; hash=09fffe471f52b9e0c078e15ce72dcd3f82aa1c14658e9822754a329ef56af760; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Karolis IV: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Praga: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Karolis IV: mention_match, person, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Praga\" parinktas kaip owner_note_path. Targetas \"Karolis IV\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-32351
 
 <a id="claim-t-71958"></a>
-- t-003
+- t-004
   global_id: t-71958
-  teiginys: 'Vytautas sutiko priimti čekų karūną ir pasiuntė Zigmantą Kaributą savo vietininku į Pragą.'
+  teiginys: "Vytautas sutiko priimti čekų karūną ir pasiuntė Zigmantą Kaributą savo vietininku į Pragą."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) siuntė į Praga (0.93); Vytautas (Lietuvos valdovas, XIV–XV a.) paskyrė Kaributas (0.84)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "481205-481638; hash=3f41cca0b9e70c8d49cec8355b41a8d46e75e25dbe36f94744b1869fe1adf17a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Praga: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Praga: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teigiama, kad Vytautas pasiuntė asmenį į Pragą."
   pagrindžia:
-    - c-004
+    - c-37656
 
 <a id="claim-t-71959"></a>
-- t-004
+- t-001
   global_id: t-71959
-  teiginys: 'J. Pfitznerio veikalas „Grossfürst Witold als Staatsmann“ 1930 m. buvo išleistas Pragoje.'
+  teiginys: "J. Pfitznerio veikalas „Grossfürst Witold als Staatsmann“ 1930 m. buvo išleistas Pragoje."
+  temporaliniai_duomenys: "įvykio data: 1930 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "534464-534863; hash=0205e714ab9a1cbf9a4f3e2d782bb70c5633dc8061421977c703a4e26eceaf63; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Praga: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Praga\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-32350
 
 <a id="claim-t-71960"></a>
 - t-005
   global_id: t-71960
-  teiginys: 'Vytautas, nepaisydamas lenkų pasipriešinimo, sutiko priimti čekų karūną ir pasiuntė Zigmantą Kaributą savo vietininku į Pragą.'
+  teiginys: "Vytautas, nepaisydamas lenkų pasipriešinimo, sutiko priimti čekų karūną ir pasiuntė Zigmantą Kaributą savo vietininku į Pragą."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) siuntė į Praga (0.93)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "481372-481711; hash=7015bec4f9e3ab2735f5ec42252c4fc297ac68338adf27c228c412646499226e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Praga: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Praga: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vytautas siuntė į Pragą."
   pagrindžia:
-    - c-005
+    - c-37657
 
 <a id="claim-t-71962"></a>
-- t-006
+- t-003
   global_id: t-71962
-  teiginys: 'Karalienė Jadvyga Prahoje įsteigė bendrabutį lietuviams studentams, kurie Pragos universitete mokėsi teologijos.'
+  teiginys: "Karalienė Jadvyga Prahoje įsteigė bendrabutį lietuviams studentams, kurie Pragos universitete mokėsi teologijos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "268771-269161; hash=f842053406661f8503cd45cfed9fab9656ab3ced26409da8ee4fa4b86fa25b32; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jadvyga Jogailienė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Praga: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Jadvyga Jogailienė: mention_match, person, gap=64"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Praga\" parinktas kaip owner_note_path. Targetas \"Jadvyga Jogailienė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-37655
 
 <a id="claim-t-183077"></a>
 - t-007
   global_id: t-183077
-  teiginys: 'Lietuvos atstovai per elekcijas sustodavo Varšuvos priemiestyje Pragoje, dešiniajame Vyslos krante.'
+  teiginys: "Lietuvos atstovai per elekcijas sustodavo Varšuvos priemiestyje Pragoje, dešiniajame Vyslos krante."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Praga priklausė Varšuva (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1930 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išplėstas neaiškus įvardis ir patikslintas objektas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "534464-534863; hash=0205e714ab9a1cbf9a4f3e2d782bb70c5633dc8061421977c703a4e26eceaf63; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Varšuva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Praga: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Varšuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Praga apibūdinta kaip Varšuvos priemiestis."
   pagrindžia:
-    - c-006
+    - c-166467
 - susijęs iš [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.).md#claim-t-92951|Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]: Vytautas sutiko priimti čekų karūną ir pasiuntė Zigmantą Kaributą į Pragą savo vietininku.
 - susijęs iš [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.).md#claim-t-92953|Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]: Vytautas, nepaisydamas lenkų pasipriešinimo, sutiko priimti čekų karūną ir vėliau šio sumanymo atsisakė.
 - susijęs iš [[objektai/daiktai/Šv. Vaclovo karūna.md#claim-t-35569|Šv. Vaclovo karūna]]: Vytautas sutiko priimti čekų karūną ir pasiuntė į Pragą savo vietininku Zigmantą Kaributą.
@@ -108,6 +207,7 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
     vertimas, Kaunas 1930) reikalavo į šį didį valdovą žiūrėti lietuvių
     požiūriu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -125,6 +225,7 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
     Kryžiuočiai turėjo toliau ginklu tęsti savo prieš Lietuvą 1283
     pradėtą kovą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -145,6 +246,7 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
     Taip įvedamas Lietuvoje krikštas griežtai pakeitė ir jos
     santykius su Vok.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -164,6 +266,7 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
     pasipriešinimo, sutiko čekų karūną priimti ir pasiuntė į Pragą
     savo vietininku Zigmantą Kaributą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -182,6 +285,7 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
     savo vietininku Zigmantą Kaributą. Tik vėliau, pasikeitus ap­
     linkybėms, Vytautas nuo to sumanymo atsisakė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -200,11 +304,112 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
     iš tikrųjų būdavo renkama ne bendrai, o buvo du rinkėjai —
     Lenkija ir Lietuva.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
+## Citatos
+
+- id: c-32350
+  citata_originali: |
+    J. Pfitzneris 1930 m. Pragoję išleistame įdomiame veikale
+    «Grossfürst Witold als Staatsmann» (lietuv. Jurgio Talmanto
+    vertimas, Kaunas 1930) reikalavo į šį didį valdovą žiūrėti lietuvių
+    požiūriu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-71959
+
+- id: c-32351
+  citata_originali: |
+    Kadangi Būtauto kėslai pačioje
+    Lietuvoje pritarimo nerado, jis ordinui tapo nebereikalingas. Ilgą
+    laiką praleidęs imperatoriaus Karolio IV dvare, jis, kaip « Henri­
+    cus dux Lithuaniae », savo dienas baigė Pragoje (1380).
+    Kryžiuočiai turėjo toliau ginklu tęsti savo prieš Lietuvą 1283
+    pradėtą kovą.
+  citata_rodoma: "Ilgą\nlaiką praleidęs imperatoriaus Karolio IV dvare, jis, kaip « Henri­\ncus dux Lithuaniae », savo dienas baigė Pragoje (1380).\nKryžiuočiai turėjo toliau ginklu tęsti savo prieš Lietuvą 1283\npradėtą kovą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-71957
+    - t-71956
+
+- id: c-37655
+  citata_originali: |
+    Iš pra­
+    džių tai nebuvo tiek žymu, bet vėliau lenkišką kunigų politiką
+    lietuviai patirdavo labai aiškiai. Lietuviams kunigams rengti
+    karalienė Jadvyga įsteigė Pragoję bendrabutį studentams, ku­
+    rie mokėsi teologijos Pragos universitete, o Jogaila tuo pat
+    tikslu atnaujino ir praplatino Krokuvos universitetą (1400).
+    Taip įvedamas Lietuvoje krikštas griežtai pakeitė ir jos
+    santykius su Vok.
+  citata_rodoma: "Lietuviams kunigams rengti\nkaralienė Jadvyga įsteigė Pragoję bendrabutį studentams, ku­\nrie mokėsi teologijos Pragos universitete, o Jogaila tuo pat\ntikslu atnaujino ir praplatino Krokuvos universitetą (1400).\nTaip įvedamas Lietuvoje krikštas griežtai pakeitė ir jos\nsantykius su Vok."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-71962
+
+- id: c-37656
+  citata_originali: |
+    Be abejo, Vytautui susiartinus su Praga, pa­
+    darius su ja uniją, apsikarūnavus jos karaliaus karūna, Lenkija
+    jam nebebūtų buvusi taip reikalinga savo tikslams siekti. Ši
+    aplinkybė ir meta šiek tiek šviesos, kodėl Vytautas taip mielai
+    pritarė ir rėmė Jogailos dukters piršlybas.
+    Kaip ten bebūtų, mes žinom, kad Vytautas, nežiūrint lenkų
+    pasipriešinimo, sutiko čekų karūną priimti ir pasiuntė į Pragą
+    savo vietininku Zigmantą Kaributą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-71958
+
+- id: c-37657
+  citata_originali: |
+    Ši
+    aplinkybė ir meta šiek tiek šviesos, kodėl Vytautas taip mielai
+    pritarė ir rėmė Jogailos dukters piršlybas.
+    Kaip ten bebūtų, mes žinom, kad Vytautas, nežiūrint lenkų
+    pasipriešinimo, sutiko čekų karūną priimti ir pasiuntė į Pragą
+    savo vietininku Zigmantą Kaributą. Tik vėliau, pasikeitus ap­
+    linkybėms, Vytautas nuo to sumanymo atsisakė.
+  citata_rodoma: "Kaip ten bebūtų, mes žinom, kad Vytautas, nežiūrint lenkų\npasipriešinimo, sutiko čekų karūną priimti ir pasiuntė į Pragą\nsavo vietininku Zigmantą Kaributą. Tik vėliau, pasikeitus ap­\nlinkybėms, Vytautas nuo to sumanymo atsisakė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-71960
+
+- id: c-166467
+  citata_originali: |
+    Bet į elekciją, žinoma, susirinkdavo ne visi, o tik arti-
+    mųjų sričių ir, be to, tik turtingesnieji bajorai. Iš tolimosios Lietu-
+    vos paprastai atvykdavo tik senatoriai ir tuo pat metu šaukiamojo
+    seimo atstovai. Jie visada sustodavo Varšuvos priemiestyje,
+    Pragoje, dešiniajam Vyslos krante, ir laikydavosi vieningai. Tad
+    iš tikrųjų būdavo renkama ne bendrai, o buvo du rinkėjai —
+    Lenkija ir Lietuva.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183077
 
 ## Ryšiai
 - Buvo siuntimo vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

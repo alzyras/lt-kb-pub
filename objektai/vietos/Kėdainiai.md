@@ -18,6 +18,18 @@ tags:
 amziai:
   - 'XVII'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kėdainiai
 
@@ -28,18 +40,62 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 ## Teiginiai
 
 <a id="claim-t-182770"></a>
-- t-001
+- t-041
   global_id: t-182770
-  teiginys: '1919 m. sausio 9 d. Jonas Variakojis su pirmuoju savanorių būriu paliko Panevėžį ir atvyko į Kėdainius.'
+  teiginys: "1919 m. sausio 9 d. Jonas Variakojis su pirmuoju savanorių būriu paliko Panevėžį ir atvyko į Kėdainius."
+  semantiniai_rysiai: "J. Variakojis keliavo į Kėdainiai (0.90)"
+  temporaliniai_duomenys: "kelionės data: 1918 m.; kelionės data: 1919 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia išplėsti inicialą ir patikslinti datą pagal citatos kontekstą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "698377-698730; hash=2b0bf1af4c69d301e8e18920aec281f2834c5418d723bf5427f8e8bb15fd264d; match=ocr_normalized"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  ryšio_patikimumas: "keliavo_i -> Kėdainiai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "J. Variakojis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kėdainiai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo J. Variakojo atvykimą į Kėdainius."
+  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
+    - c-43559
 
 <a id="claim-t-183041"></a>
-- t-002
+- t-007
   global_id: t-183041
-  teiginys: 'Kėdainių mokykla išgarsėjo, kai Radvilos Kėdainius darė protestantų kultūros centru.'
+  teiginys: "Kėdainių mokykla išgarsėjo, kai Radvilos Kėdainius darė protestantų kultūros centru."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "696132-696456; hash=cf076f667f056f18bb2e80315a02791f3e5af322bce2f277834ed45b0c384461; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Protestantai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kėdainiai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Protestantai: mention_match, group, gap=56"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kėdainiai\" parinktas kaip owner_note_path. Targetas \"Protestantai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-166433
+
+<a id="claim-t-193200"></a>
+- t-042
+  global_id: t-193200
+  teiginys: "Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje)."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "596871-597285; hash=8d70f2c7e72f75db1ed54c3d60510d6eb232a0927e8a3c44d2966ab62b70919e; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
+  vertinimo_autorius: "rewrite_source_claims / reject"
+  pagrindžia:
+    - c-175944
 - susijęs iš Panevėžys: 1919 m. sausio 9 d. bolševikų pajėgos užėmė Panevėžį, o J. Variakojis su pirmuoju savanorių būriu pasitraukė į Kėdainius.
 - susijęs iš [[objektai/asmenys/J. Variakojis.md#claim-t-40167|J. Variakojis]]: 1918 m. gruodžio 29 d. Panevėžio srities apsaugos viršininku paskirtas J. Variakojis organizavo savanorių būrį.
 - susijęs iš [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.).md#claim-t-09855|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]: Kėdainių gynybai vadovavę J. Mikoliūnas ir K. Dragunevičius apie 80 savanorių šautuvų ugnimi sustabdė bolševikų puolimą.
@@ -150,6 +206,7 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     su pirmuoju savanorių būriu paliko
     miestą ir atvyko į Kėdainius.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -167,11 +224,88 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     centru. Čia net buvo įsteigta spaustuvė, kurioje buvo spausdina-
     mos religinio turinio knygos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: 'Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pats
+    apsukrusis ir įtakingasis to meto Lietuvos politikos veikėjas,
+    Žemaičių seniūnas ir Livonijos valdytojas Jonas Jeronimas Kat-
+    kevičius, ne tik patsai metė kalvinizmą, bet taip pat ir savo
+    sūnų Joną Karolį, — būsimąjį Vilniaus vaivadą, hetmoną, ge-
+    nialųjį karo vadą, — atidavė auklėti jėzuitams.
+    Radvilų šeimos buvo dvi šakos. Vienos centras buvo Biržai
+    ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003
+
+## Citatos
+
+- id: c-43559
+  citata_originali: |
+    ## Puslapis 173
+
+    —————
+
+    Dar 1918 m. gruodžio 29 d. paskir-
+    tas Panevėžio srities apsaugos viršininku
+    karin. J. Variakojis, nuvykęs į pasky-
+    rimo vietą, energingai ėmėsi organi-
+    zuoti savanorių būrį. Tačiau tų metų
+    sausio 9 d. stambioms bolševikų pajė-
+    goms užimant Panevėžį, J. Variakojis
+    su pirmuoju savanorių būriu paliko
+    miestą ir atvyko į Kėdainius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182770
+
+- id: c-166433
+  citata_originali: |
+    Tada pražydo protestantų Radvilų centruose
+    esančios Kėdainių ir Slucko mokyklos, kurioms atiteko daugumas
+    Vilniaus mokyklos turtų. Ypač garsėjo Kėdainių mokykla: mat,
+    Radvilų pastangomis Kėdainiai buvo daromi protestantų kultūros
+    centru. Čia net buvo įsteigta spaustuvė, kurioje buvo spausdina-
+    mos religinio turinio knygos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183041
+
+- id: c-175944
+  citata_originali: |
+    Pats
+    apsukrusis ir įtakingasis to meto Lietuvos politikos veikėjas,
+    Žemaičių seniūnas ir Livonijos valdytojas Jonas Jeronimas Kat-
+    kevičius, ne tik patsai metė kalvinizmą, bet taip pat ir savo
+    sūnų Joną Karolį, — būsimąjį Vilniaus vaivadą, hetmoną, ge-
+    nialųjį karo vadą, — atidavė auklėti jėzuitams.
+    Radvilų šeimos buvo dvi šakos. Vienos centras buvo Biržai
+    ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193200
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Bolševikų 2-asis šaulių pulkas]], [[objektai/asmenys/J. Variakojis]], [[objektai/grupes/NKVD]]

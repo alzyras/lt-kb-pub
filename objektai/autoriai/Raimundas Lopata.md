@@ -13,6 +13,18 @@ tags:
   - mokslininkas
 amziai: []
 periodo_grupes: []
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Raimundas Lopata
 
@@ -27,18 +39,41 @@ Raimundas Lopata įvardytas leidinio redakcinės kolegijos pirmininku ir minimas
 ## Teiginiai
 
 <a id="claim-t-23254"></a>
-- t-001
+- t-002
   global_id: t-23254
-  teiginys: 'Raimundas Lopata buvo tarp mokslininkų, tyrusių istorijos politikos problemas.'
+  teiginys: "Raimundas Lopata buvo tarp mokslininkų, tyrusių istorijos politikos problemas."
+  temporaliniai_duomenys: "įvykio data: 1009 m.; įvykio data: 2004 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia konkretesnį, gramatišką teiginį apie asmens veiklos sritį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "8770-10057; hash=7acbfb5e6a8560fd349c1ba583c7a6005150f66cca963a742922dada33e5ee91; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Raimundas Lopata: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Raimundas Lopata\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-65427
 
 <a id="claim-t-23255"></a>
-- t-002
+- t-003
   global_id: t-23255
-  teiginys: 'Bibliografijoje Lopata R. siejamas su veikalu „Lietuvos valstybingumo raida 1914–1918 metais“.'
+  teiginys: "Bibliografijoje Lopata R. siejamas su veikalu „Lietuvos valstybingumo raida 1914–1918 metais“."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "549490-549589; hash=2c83417e5925eb049dfdcf5b54bb1a1d3d5deba22803a40c50005d25e5c1f385; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Raimundas Lopata: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Raimundas Lopata\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-16800
 - susijęs iš [[objektai/autoriai/Alfonsas Eidintas.md#claim-t-169878|Alfonsas Eidintas]]: Alfonsui Eidintui nurodytos 2013 m. leidimo autorių teisės.
 - susijęs iš [[objektai/autoriai/Alfonsas Eidintas.md#claim-t-169881|Alfonsas Eidintas]]: Alfonsas Eidintas buvo vienas iš 2013 m. leidinio „Lietuvos istorija“ autorių.
 - susijęs iš [[objektai/autoriai/Alfredas Bumblauskas.md#claim-t-169883|Alfredas Bumblauskas]]: 2013 m. leidime nurodytos Alfredo Bumblausko autorių teisės.
@@ -57,6 +92,7 @@ Raimundas Lopata įvardytas leidinio redakcinės kolegijos pirmininku ir minimas
     terdam–New York, 2010.
     Lopata R. Lietuvos valstybingumo raida 1914–1918 metais. Vilnius, 1996.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -87,8 +123,53 @@ Raimundas Lopata įvardytas leidinio redakcinės kolegijos pirmininku ir minimas
     paminėjimo vienoje iš Europos kronikų 1009 m. iki Lietuvos virsmo vi-
     sateise Europos Sąjungos nare 2004 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-16800
+  citata_originali: |
+    Ams-
+    terdam–New York, 2010.
+    Lopata R. Lietuvos valstybingumo raida 1914–1918 metais. Vilnius, 1996.
+  citata_rodoma: "Lopata R. Lietuvos valstybingumo raida 1914–1918 metais. Vilnius, 1996."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-23255
+
+- id: c-65427
+  citata_originali: |
+    Tai iš-
+    skirtinė galimybė ne tik aktyviai prisidėti kuriant bendrą Europos ateitį,
+    bet ir sustiprinti šalių solidarumą ir dėmesingumą žemyno tautų praeičiai
+    ir, žinoma, dar kartą patiems – iš šiandieninio požiūrio taško – pažvelgti
+    ir visam pasauliui priminti, kas buvo, yra (ir bus) Lietuva.
+    Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio
+    reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus
+    universiteto Tarptautinių santykių ir politikos mokslų instituto moks-
+    lininkus, ne pirmus metus tiriančius istorijos politikos problemas (pro-
+    fesorius Raimundą Lopatą, Alvydą Jokubaitį, Vytautą Radžvilą ir kitus),
+    prašydama parengti glaustą, lengvai skaitomą, tiesos ir atvirumo kriteri-
+    jais grįstą Lietuvos istorijos veikalą. Jo paskirtis – kiekvienam Skaitytojui,
+    visų pirma Europos Sąjungos piliečiams, aiškiai ir suprantamai atskleisti
+    ilgą, pergalingą, kartais sunkų ar net tragišką mūsų valstybės istorinį ke-
+    lią, kurį Lietuvos valstybės kūrėjai įveikė vesdami šio krašto žmones per
+    skirtingus laikotarpius, valstybės sanklodas, okupacijų duobes ir atkurtos
+    nepriklausomybės įkalnes bei nuokalnes – nuo pat pirmo valstybės vardo
+    paminėjimo vienoje iš Europos kronikų 1009 m. iki Lietuvos virsmo vi-
+    sateise Europos Sąjungos nare 2004 m.
+  citata_rodoma: "jais grįstą Lietuvos istorijos veikalą. Jo paskirtis – kiekvienam Skaitytojui,"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-23254

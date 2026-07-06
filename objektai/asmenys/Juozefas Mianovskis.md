@@ -10,6 +10,18 @@ tags:
   - karalius
   - miestas
   - upė
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Juozefas Mianovskis
 
@@ -22,10 +34,19 @@ Atrodo, kad anoji liejykla buvusi toje vieto­ je, kur dabar stovi Medicinos Chi
 <a id="claim-t-87737"></a>
 - t-001
   global_id: t-87737
-  teiginys: 'Juzefo Mianovskio užmiesčio namas, pramintas Belvederiu, stovėjo spėjamoje senosios liejyklos vietoje.'
+  teiginys: "Juzefo Mianovskio užmiesčio namas, pramintas Belvederiu, stovėjo spėjamoje senosios liejyklos vietoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "553302-553918; hash=927349ec422f7567b56c73c202ab38ded0f214795647d5d2f08f705277f73718; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Juozefas Mianovskis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozefas Mianovskis\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-83716
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -51,8 +72,38 @@ Atrodo, kad anoji liejykla buvusi toje vieto­ je, kur dabar stovi Medicinos Chi
     Vilnių iš Lenkijos vežamą stiklą, iš­
     skyrus Venecijos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83716
+  citata_originali: |
+    Sklypas, skir­
+    tas fabrikui statyti, buvo „prie Vil­
+    niaus miesto, už Vilijos upės, tarp
+    karaliaus šunidės ir Vilniaus vaiva­
+    dos ir karaliaus kanclerio Hlebavi-
+    čiaus plytinės", perduotas Paleckio
+    žiniai, karaliaus valia, per Vilniaus
+    gorodničių Povilą Giedraitį. Atrodo,
+    kad anoji liejykla buvusi toje vieto­
+    je, kur dabar stovi Medicinos Chi­
+    rurgijos Akademijos adjunkto pono
+    Juzefo Mianovskio užmiesčio na­
+    mas, pramintas Belvederiu. Atsi­
+    žvelgdamas į Paleckio prašymą, ka­
+    ralius suteikė tik jam ir jo palikuo­
+    nims teisę supirkti visokių rūšių į
+    Vilnių iš Lenkijos vežamą stiklą, iš­
+    skyrus Venecijos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87737

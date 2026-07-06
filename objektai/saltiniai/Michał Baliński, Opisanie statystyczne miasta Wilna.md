@@ -1,0 +1,96 @@
+---
+tipas: saltinis
+pavadinimas: 'Michał Baliński, Opisanie statystyczne miasta Wilna'
+saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
+datos:
+  - '1835 m.'
+date_start: '1835'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Michał Baliński, Opisanie statystyczne miasta Wilna
+
+## Santrauka
+
+Michało Balińskio „Opisanie statystyczne miasta Wilna“ Narbuto cituojamas kaip 1835 m. Vilniuje išleistas veikalas.
+
+## Teiginiai
+
+<a id="claim-t-191799"></a>
+- t-001
+  global_id: t-191799
+  teiginys: "Michało Balińskio „Opisanie statystyczne miasta Wilna“ Narbuto cituojamas kaip 1835 m. Vilniuje išleistas veikalas."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1835 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra faktinis sakinys apie Balińskio veikalo citavimą ir leidimo duomenis. Narbuto kontekstas paliktas kaip citavimo atribucija, nepridedant argumentacijos iš aplinkinio teksto."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "255939-256188; hash=8dade4dde37a163ec3f73dfccbe45473f4da666f930d4a11b411ba2b897d6a6d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Michał Baliński, Opisanie statystyczne miasta Wilna: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=87"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Michał Baliński, Opisanie statystyczne miasta Wilna\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-174681
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Michało Balińskio „Opisanie statystyczne miasta Wilna“ Narbuto cituojamas kaip 1835 m. Vilniuje išleistas veikalas.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Iš tikrųjų galima daryti tokią prielaidą, ir ji
+    būtų gana įtikėtina; bet kaip galima įsivaizduoti jėgą ir
+    priežastį, kurios privertė besiveržiančius su žemėmis ir
+    1
+    Opisanie stalystyczne miasta Wilna. Przez Michala Balinskiego.
+    Wilno,
+    1835. S. 6—9*.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Citatos
+
+- id: c-174681
+  citata_originali: |
+    Iš tikrųjų galima daryti tokią prielaidą, ir ji
+    būtų gana įtikėtina; bet kaip galima įsivaizduoti jėgą ir
+    priežastį, kurios privertė besiveržiančius su žemėmis ir
+    1
+    Opisanie stalystyczne miasta Wilna. Przez Michala Balinskiego.
+    Wilno,
+    1835. S. 6—9*.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-191799

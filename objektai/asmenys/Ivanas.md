@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Ivanas
 
@@ -17,9 +29,22 @@ Ivanas slapta sutelkė didelę kariuomenę, įsiveržė į Polocko vaivadiją ir
 <a id="claim-t-185962"></a>
 - t-001
   global_id: t-185962
-  teiginys: 'Ivanas slapta sutelkė didelę kariuomenę, įsiveržė į Polocko vaivadiją ir gruodžio pabaigoje apsupo jos sostinę bei abi pilis.'
+  teiginys: "Ivanas slapta sutelkė didelę kariuomenę, įsiveržė į Polocko vaivadiją ir gruodžio pabaigoje apsupo jos sostinę bei abi pilis."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1287860-1288892; hash=5857aeea39ecbbe59112c9fe0cf06d5e8f60722f0a8f6960dabbf9e4f76b9c3a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Polockas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ivanas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Polockas: mention_match, place, gap=52"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ivanas\" parinktas kaip owner_note_path. Targetas \"Polockas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-169323
 - susijęs iš [[objektai/asmenys/Andrejus Kurbskis.md#claim-t-186031|Andrejus Kurbskis]]: Karalius pažadėjo atiduoti Andrejų Kurbskį tik tada, jei Ivanas grąžins Lietuvos pusės kunigaikščius su šeimomis ir tėvonijomis.
 - susijęs iš [[objektai/asmenys/Anisijus Gornostajus.md#claim-t-186181|Anisijus Gornostajus]]: Maršalas Anisijus Gornostajus Lietuvos senate atkakliai prieštaravo Ivano titulavimui Maskvos kunigaikštystės caru.
 - susijęs iš [[objektai/asmenys/Ivanas (Maskvos valdovas).md#claim-t-185944|Ivanas (Maskvos valdovas)]]: Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų nuskriausti jo globon paimti asmenys ar jų tėvonijos.
@@ -80,11 +105,44 @@ Ivanas slapta sutelkė didelę kariuomenę, įsiveržė į Polocko vaivadiją ir
     p abūklų, įsiveržė į P olocko v a iv a d iją  ir gruodžio p a ­
     b aig o je apsupo  v a iv a d ijo s sostinę bei abi pilis.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-169323
+  citata_originali: |
+    M at, išsiuntęs A u g u stu i laišką, p arag in o  jį ta i­
+    k y tis ir pareiškė, jog, tro k šd am as taikos, m ielai įvyk-
+    dysiąs viską, ko p ag eid au siąs k araliu s: esą šis p a n o rė ­
+    jęs galįs siųsti savo įg alio ­
+    tu s leg atu s į M askvą, an tra
+    v ertu s, galįs m ask v ėn ų  p a ­
+    lau k ti V iln iu je. Šios ap g a u ­
+    lės Iv an as griebėsi tam , k ad
+    k a ra liu s,
+    ta ria m o  sau g u m o
+    suviliotas, k u r k itu r n u k re ip ­
+    tų  savo jėg as, n etru k d y d a m as jam  n e tik ė ta i
+    įsiv erž­
+    ti, k aip  v ėliau  p aa išk ė jo  iš įv y k ių  eigos, į tą  a r k itą
+    žem ę. M at, k ai žym i k ariu o m en ės dalis, v ed am a Po-
+    lubinskio, nužy g iav o  ginti nuo danų p ajū rio , o k ita
+    p a tra u k ė  L ietuvon į žiem os sto v y k las, Ivanas, tylom is
+    p e r tu o s m etus su telk ęs d u  šim tus tū k stan čių  - p ėstin in ­
+    kų, aštuo n iasd ešim t tū k stan čių  ra ite lių  bei du šim tus
+    p abūklų, įsiveržė į P olocko v a iv a d iją  ir gruodžio p a ­
+    b aig o je apsupo  v a iv a d ijo s sostinę bei abi pilis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185962
 
 ## Ryšiai
 - Ivanas puolė [[objektai/vietos/Livonija]]

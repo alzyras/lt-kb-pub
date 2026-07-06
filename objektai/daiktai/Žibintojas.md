@@ -5,6 +5,18 @@ saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Žibintojas
 
@@ -37,10 +49,20 @@ Nenurodyta
 <a id="claim-t-08364"></a>
 - t-001
   global_id: t-08364
-  teiginys: 'Ant akmens, vadinamo žibintoju, sukurdavo ugnį vakarojant.'
+  teiginys: "Ant akmens, vadinamo žibintoju, sukurdavo ugnį vakarojant."
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  saltinio_vieta: "57142-57699; hash=e6d012dbc0ec3d5fa51dabfc3b39c3b1a69387b7d848d83bf9d3465722231961; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Troba: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žibintojas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Troba: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žibintojas\" parinktas kaip owner_note_path. Targetas \"Troba\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-10317
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -53,8 +75,27 @@ Nenurodyta
         kuknę per sieną išvestas, tad didesnę tenai ugnį kūrino liepkauliais ar sausais šakaliais, taip
         vadinamais beržų medžiais, smulkiai sukapotais, idant nesproginėtų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-10317
+  citata_originali: |
+    Po ta skyle trobos asloj buvo apvalus ir slesnas^225 akmuo, ant trinkos ąžuolo padėtas, kurį išaušus į
+        trobos kertę galėjo paristi ar laukan išnešti. Norėdami vakaroti, padėjo tą akmenį, vadinamą
+        žibintoju, po skyle ir sukūrė ant jo iš kėnių ar liepkaulių^226 ugnį ir paleido nuo skylės pakabintą
+        keine iš palubio ant ugnies, idant dūmus trauktų laukan vakarojant Jei kaminas buvo iš molio į
+        kuknę per sieną išvestas, tad didesnę tenai ugnį kūrino liepkauliais ar sausais šakaliais, taip
+        vadinamais beržų medžiais, smulkiai sukapotais, idant nesproginėtų.
+  citata_rodoma: "Po ta skyle trobos asloj buvo apvalus ir slesnas^225 akmuo, ant trinkos ąžuolo padėtas, kurį išaušus į\ntrobos kertę galėjo paristi ar laukan išnešti. Norėdami vakaroti, padėjo tą akmenį, vadinamą\nžibintoju, po skyle ir sukūrė ant jo iš kėnių ar liepkaulių^226 ugnį ir paleido nuo skylės pakabintą\nkeine iš palubio ant ugnies, idant dūmus trauktų laukan vakarojant Jei kaminas buvo iš molio į\nkuknę per sieną išvestas, tad didesnę tenai ugnį kūrino liepkauliais ar sausais šakaliais, taip\nvadinamais beržų medžiais, smulkiai sukapotais, idant nesproginėtų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-08364

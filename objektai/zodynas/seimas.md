@@ -6,6 +6,18 @@ saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # seimas
 
@@ -18,23 +30,66 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą. Bychovc
 <a id="claim-t-185391"></a>
 - t-001
   global_id: t-185391
-  teiginys: 'Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą.'
+  teiginys: "Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "649767-650237; hash=30fe339935415112a3aa076f5f1e884257efcfc082b96157154e386cc7467384; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "seimas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=36"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"seimas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-168752
 
 <a id="claim-t-187527"></a>
 - t-002
   global_id: t-187527
-  teiginys: 'Bychovco kronikos pasakojime karalius Aleksandras Brastos seime nepagrįstai pyko ant didikų dėl Droždžai atiduotos Lydos.'
+  teiginys: "Bychovco kronikos pasakojime karalius Aleksandras Brastos seime nepagrįstai pyko ant didikų dėl Droždžai atiduotos Lydos."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "286842-287144; hash=b5fd1e558fc80892b7f5936ba462db71b7a7be64e006e7fd703a681e876f7a58; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aleksandras Jogailaitis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "seimas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras Jogailaitis: mention_match, person, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"seimas\" parinktas kaip owner_note_path. Targetas \"Aleksandras Jogailaitis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-002
+    - c-170477
 
 <a id="claim-t-187528"></a>
 - t-003
   global_id: t-187528
-  teiginys: 'Po Maskvos Didžiosios Kunigaikštystės pralaimėjimo karalius Aleksandras rudenį paskyrė Lenkijos ponams seimą Radome.'
+  teiginys: "Po Maskvos Didžiosios Kunigaikštystės pralaimėjimo karalius Aleksandras rudenį paskyrė Lenkijos ponams seimą Radome."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "292931-293239; hash=058ac7fcbcf0f120e5b28b3a1aff2ed3842ba07ba88efe84c855636f1c04d9ef; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Radomas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "seimas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Radomas: mention_match, place, gap=6"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"seimas\" parinktas kaip owner_note_path. Targetas \"Radomas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-003
+    - c-170478
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77965|A. Smetona]]: 1927 m. balandžio 12 d. A. Smetona paleido III Seimą ir taip pašalino krikščionis demokratus iš valdžios.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75728|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1927 m. balandžio 12 d. Antanas Smetona prezidento aktu paleido III Seimą ir nustūmė krikščionis demokratus nuo valdžios.
 - susijęs iš [[objektai/asmenys/Mykolas Sleževičius.md#claim-t-75994|Mykolas Sleževičius]]: Mykolas Sleževičius laikėsi šūkio „Kova eina, ji eis iki Seimas bus sušauktas“.
@@ -105,7 +160,6 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą. Bychovc
 - susijęs iš Lietuva: 1567 m. pabaigoje karalius, nenutraukęs karo veiksmų, išsiuntė Lietuvai universalus dėl Gardino seimo sušaukimo.
 - susijęs iš Liublinas: Liublino seimas unijos klausimui spręsti susirinko 1569 m. sausio 10 d.
 - susijęs iš Radomas: Radomo seimas vyko 1505 m. balandžio-birželio mėn.
-- susijęs iš Sankt Peterburgas: 1772 m. Sankt Peterburge buvo pasirašytos padalijimo sutartys, kurias 1773-1775 m. patvirtino delegacinis seimas Varšuvoje.
 - susijęs iš Trakai: Trakuose sušauktas seimas paspartino kruviną susidorojimą, o 1440 m. balandį Žygimantas buvo nužudytas Trakų pilyje.
 - susijęs iš Trakai: Trakuose Žygimanto sušauktas seimas paspartino susidorojimą, o 1440 m. balandį Žygimantas buvo nužudytas Trakų pilyje.
 - susijęs iš Vilnius: Didysis Vilniaus Seimas vyko Vilniuje, Miesto salėje, gruodžio 4–5 dienomis.
@@ -277,6 +331,7 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą. Bychovc
     gų, visokiais būdais skatinti magistrą draugiškai už­
     baigti ginčą su Vytautu.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -294,6 +349,7 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą. Bychovc
     dėl ko. Kunigaikščio Glinskio priprašytas, jis davė
     Droždžai Lydą3 8 , priklausiusią Iljiničiui3 9 .
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -312,8 +368,64 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą. Bychovc
     nams seimą Radome rudenį, šventųjų Kozmo ir Dami­
     jono dieną 6 5 . Ten dalyvavo ir Lietuvos didikai 6 6 .
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-168752
+  citata_originali: |
+    Gal vengdamas aiškaus atsakymo į kry­
+    žiuočių klausimą, gal norėdamas turėti laiko pasitarti,
+    373
+
+    ## Puslapis 372
+
+    karalius atsakė, kad jis viešpataująs valstybėje, kurio­
+    je svarbiais reikalais nieko negalįs nutarti be luomų
+    pritarimo. Atleidęs žygūną, jis sušaukė Lenčicoje seimą.
+    Seimas pasiuntė Mikalojų Kurovskį, Gnezno, arkivys­
+    kupą, pas kryžiuočius, įpareigodamas, negailint pastan­
+    gų, visokiais būdais skatinti magistrą draugiškai už­
+    baigti ginčą su Vytautu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185391
+
+- id: c-170477
+  citata_originali: |
+    O po kunigaikščio Michailo mirties Lucką
+    davė raštininkui ponui Teodorui Januševičiui3 6 .
+    Tais pat metais karalius Aleksandras dalyvavo Bras­
+    tos seime3 7 , nepagrįstai pykdamas ant didikų, ir štai
+    dėl ko. Kunigaikščio Glinskio priprašytas, jis davė
+    Droždžai Lydą3 8 , priklausiusią Iljiničiui3 9 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187527
+
+- id: c-170478
+  citata_originali: |
+    Ir Maskvos
+    Didžioji Kunigaikštystė sunkiai pralaimėjo ir neapsa­
+    komai daug neteko; labai maža maskvėnų pargrįžo,
+    nesuskaičiuojama jų daugybė žuvo.
+    Paskui6 1  karalius Aleksandras paskyrė Lenkijos po­
+    nams seimą Radome rudenį, šventųjų Kozmo ir Dami­
+    jono dieną 6 5 . Ten dalyvavo ir Lietuvos didikai 6 6 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187528

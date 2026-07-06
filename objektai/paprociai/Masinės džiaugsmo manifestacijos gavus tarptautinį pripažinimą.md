@@ -12,6 +12,18 @@ atnaujinta: ''
 tags: []
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Masinės džiaugsmo manifestacijos gavus tarptautinį pripažinimą
 
@@ -53,12 +65,24 @@ amziai:
 ## Teiginiai
 
 <a id="claim-t-20817"></a>
-- t-001
+- t-003
   global_id: t-20817
-  teiginys: '1919 m. rugsėjo 26 d. tūkstančiai žmonių susirinko prie Kauno rotušės, gavę žinią apie Didžiosios Britanijos de facto pripažinimą Lietuvai.'
+  teiginys: "1919 m. rugsėjo 26 d. tūkstančiai žmonių susirinko prie Kauno rotušės, gavę žinią apie Didžiosios Britanijos de facto pripažinimą Lietuvai."
+  temporaliniai_duomenys: "įvykio data: 1919 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys patikslintas pagal citatą, išlaikant manifestacijos vietą ir priežastį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "277587-278298; hash=40cf5e43f9979845b95c62e838afe5b4e3fbc2b33f6612f042a76187666fc6c4; match=exact"
+  sprendimo_priezastis: "gap::customs"
+  ryšio_patikimumas: "susije_su -> Didžioji Britanija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Masinės džiaugsmo manifestacijos gavus tarptautinį pripažinimą: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Didžioji Britanija: mention_match, place, gap=16"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Masinės džiaugsmo manifestacijos gavus tarptautinį pripažinimą\" parinktas kaip owner_note_path. Targetas \"Didžioji Britanija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-23535
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -76,8 +100,9 @@ amziai:
     Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių
     susirinko prie laikinosios sostinės Kauno rotušės.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -85,3 +110,26 @@ amziai:
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
+
+## Citatos
+
+- id: c-23535
+  citata_originali: |
+    Pasamdyta užsienio karininkų tarnybai Lietuvoje, pra-
+    dėta formuoti JAV lietuvių karinė brigada – nors daug tokių sumanymų
+    nepavyko dėl finansų stokos, jie turėjo gerą atgarsį tarp sąjungininkų.
+    Lietuvos delegacijos reikalavimu sudarytos prancūzų, britų, JAV ir An-
+    tantės Aukščiausiosios Tarybos karinės misijos sustiprino viltis pasiekti
+    nepriklausomybę, be to, misijos suteikė objektyvią informaciją Antantei
+    apie padėtį Lietuvoje.
+    Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos ma-
+    sinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad
+    Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių
+    susirinko prie laikinosios sostinės Kauno rotušės.
+  citata_rodoma: "Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-20817

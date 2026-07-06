@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kolomna
 
@@ -19,9 +31,19 @@ Porai mėnesių praslinkus, būtent spalių 1 d. įvyko antras susivažiavimas K
 <a id="claim-t-36320"></a>
 - t-001
   global_id: t-36320
-  teiginys: 'Spalio 1 d. Kolomnoje įvyko antras susivažiavimas, kuriame Vytautas siekė Smolensko paėmimo aprobavimo.'
+  teiginys: "Spalio 1 d. Kolomnoje įvyko antras susivažiavimas, kuriame Vytautas siekė Smolensko paėmimo aprobavimo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "159753-160165; hash=41c6b1b6fc3b681524cb85a1271fd3eba9895f21cfd3a76df2210ded055f83b5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Smolenskas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kolomna: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Smolenskas: mention_match, place, gap=62"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kolomna\" parinktas kaip owner_note_path. Targetas \"Smolenskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-38524
 - susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą.md#claim-t-187465|Algirdo žygis į Maskvą]]: Lietuvos metraštis teigia, kad po šio žygio siena buvo nukelta ligi Možaisko ir Kolomnos.
 - susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-12357|Didžiojo Naugardo respublika]]: Didysis Naugardas atsisakė pradėti karą su vokiečiais, nes turėjo atskiras taikos sutartis su Maskva, Lietuva ir vokiečiais.
 - susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-117311|Vokiečiai]]: Naugardiečiai teigė su vokiečiais sudarę atskirą taikos sutartį.
@@ -41,8 +63,29 @@ Porai mėnesių praslinkus, būtent spalių 1 d. įvyko antras susivažiavimas K
     išgauti Smolensko paėmimo aprobaciją, bet iš tikro čia buvo
     aptarti ir kitokie reikalai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-38524
+  citata_originali: |
+    Brangūs kailiniai ir
+    rytų audeklai, brangios juostos, aukso indai ir bachmatai
+    (stambūs Podolijos arkliai) — tai žento dovanos; puikiausi va­
+    karų audeklai, aksomitai, balnai, šilkinės staldengtės — tai
+    uošvio dovanos. Porai mėnesių praslinkus, būtent spalių 1 d.
+    įvyko antras susivažiavimas Kolomnoj. Čia Vytautas rūpinosi
+    išgauti Smolensko paėmimo aprobaciją, bet iš tikro čia buvo
+    aptarti ir kitokie reikalai.
+  citata_rodoma: "Porai mėnesių praslinkus, būtent spalių 1 d.\nįvyko antras susivažiavimas Kolomnoj. Čia Vytautas rūpinosi\nišgauti Smolensko paėmimo aprobaciją, bet iš tikro čia buvo\naptarti ir kitokie reikalai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36320

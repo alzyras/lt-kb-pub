@@ -21,6 +21,18 @@ tags:
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Narva
 
@@ -31,29 +43,71 @@ Staiga vienu puolimu jis suvaldė Daniją, o padaręs čia taiką, ties Narva (E
 ## Teiginiai
 
 <a id="claim-t-182871"></a>
-- t-001
+- t-017
   global_id: t-182871
-  teiginys: 'Vokiečių ordino valstybės valdos tęsėsi nuo Neumarko iki Narvos, išskyrus Žemaičių kylį.'
+  teiginys: "Vokiečių ordino valstybės valdos tęsėsi nuo Neumarko iki Narvos, išskyrus Žemaičių kylį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "658226-658728; hash=b9402917b3833a26cfad0d96b91ace8cd2d8a3438d72613614de96f213d5836a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Narva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Narva\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-166275
 
 <a id="claim-t-183055"></a>
-- t-002
+- t-004
   global_id: t-183055
-  teiginys: 'Ties Narva Estijoje buvo visiškai sunaikinta caro kariuomenė.'
+  teiginys: "Ties Narva Estijoje buvo visiškai sunaikinta caro kariuomenė."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "772490-772740; hash=59e886e2fe010efca66655d393d09a872dde3228658d492c88eba1a155ce22df; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Estija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Narva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Estija: mention_match, place, gap=6"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Narva\" parinktas kaip owner_note_path. Targetas \"Estija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-166446
 
 <a id="claim-t-183794"></a>
-- t-003
+- t-019
   global_id: t-183794
-  teiginys: '1558 m. Maskvos kariuomenė užėmė dalį Livonijos konfederacijos teritorijos su Narvos ir Tartu miestais.'
+  teiginys: "1558 m. Maskvos kariuomenė užėmė dalį Livonijos konfederacijos teritorijos su Narvos ir Tartu miestais."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Maskvos kariuomenė užėmė Narva (0.88); Maskvos kariuomenė užėmė Tartu (0.86); Maskvos kariuomenė užėmė Livonija (0.74)"
+  temporaliniai_duomenys: "įvykio data: 1558 m.; įvykio data: 1560 m.; įvykio data: 1561 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra taisyklingas faktinis sakinys apie Narvą ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "353437-353659; hash=faeab21604ce3d596c4a7b7091cd5838a4a1f0a76f7a7aa847f46c9917714a4c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Narva: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Maskvos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Narva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Maskvos kariuomenė užėmė teritoriją su Narvos miestu."
   pagrindžia:
-    - c-001
+    - c-43674
 - susijęs iš Tartu: 1558 m. Maskvos kariuomenė užėmė Tartu ir Narvos miestus Livonijos konfederacijos teritorijoje.
+- susijęs iš [[objektai/autoriai/Adomas Stanislovas Naruševičius.md#claim-t-190678|Adomas Stanislovas Naruševičius]]: Naruševičius, Narbuto vertinimu, iki XII a. jotvingiams priskyrė pernelyg plačias valdas nuo Bugo iki Beržūnos ir nuo Pripetės iki Narvos.
 - susijęs iš [[objektai/grupes/Narvos muškietininkų pulkas.md#claim-t-78388|Narvos muškietininkų pulkas]]: Balandžio 23 d. lietuviams puolant Vilniuje buvusią rusų įgulą, joje buvo vienas Narvos muškietininkų pulko batalionas ir trys kuopos.
 - susijęs iš [[objektai/grupes/Narvos muškietininkų pulkas.md#claim-t-78389|Narvos muškietininkų pulkas]]: Narvos muškietininkų pulko dvi kuopos saugojo hauptvachtą prie Šv. Kazimiero bažnyčios.
 - susijęs iš [[objektai/grupes/Narvos muškietininkų pulkas.md#claim-t-78390|Narvos muškietininkų pulkas]]: Balandžio 23 d. lietuviams puolant Vilniuje buvusią rusų įgulą, joje buvo vienas Narvos muškietininkų pulko batalionas ir trys kuopos.
+- susijęs iš Adomas Stanislovas Naruševičius, Historia narodu polskiego: Narbutas vertino, kad Naruševičius iki XII a. jotvingiams priskyrė pernelyg plačias valdas nuo Bugo iki Beržūnos ir nuo Pripetės iki Narvos.
 - susijęs iš Neumarkas: Vokiečių ordino valstybės valdos tęsėsi nuo Neumarko iki Narvos, išskyrus Žemaičių kylį.
 - susijęs iš Tartu: 1558 m. Maskvos kariuomenė užėmė Tartu ir Narvos miestus Livonijos konfederacijos teritorijoje.
 - susijęs iš [[objektai/asmenys/Antanas Mackevičius.md#claim-t-75694|Antanas Mackevičius]]: Kauno gubernijoje vienas pirmųjų sukilimo organizatorių buvo kunigas Antanas Mackevičius.
@@ -63,6 +117,7 @@ Staiga vienu puolimu jis suvaldė Daniją, o padaręs čia taiką, ties Narva (E
 - susijęs iš [[objektai/grupes/Dono kazokų pulkas.md#claim-t-78167|Dono kazokų pulkas]]: 1794 m. balandžio 23 d. lietuviams puolant Vilnių, Dono kazokų pulkas buvo rusų įgulos dalis.
 - susijęs iš [[objektai/grupes/Pskovo muškietininkų pulkas.md#claim-t-78425|Pskovo muškietininkų pulkas]]: Lietuviams puolant Vilnių balandžio 23 d., rusų įguloje buvo du Pskovo muškietininkų pulko batalionai.
 - susijęs iš [[objektai/grupes/Pskovo muškietininkų pulkas.md#claim-t-78426|Pskovo muškietininkų pulkas]]: Vilniaus rusų įguloje buvo du Pskovo muškietininkų pulko batalionai.
+- susijęs iš [[objektai/grupes/Slavai.md#claim-t-192472|Slavai]]: Danijos karalius Frotonas III pirmiausia kariavo su slavais, kurių karvedys Strunikas buvo nukautas.
 - susijęs iš [[objektai/ivykiai/Naujaberžės kautynės.md#claim-t-41331|Naujaberžės kautynės]]: Kovo 27 d. ties Surviliškio valsčiaus Naujaberžės kaimu A. Mackevičiaus sukilėliai atlaikė barono Dellingsgauzeno vadovaujamo dalinio puolimą.
 - susijęs iš Alūksnė: 1560 m. rusai užėmė Alūksnę ir Viljandį.
 - susijęs iš Augustavo gubernija: 1863 m. Augustavo gubernijoje, į kurią įėjo lietuviškoji Užnemunė, įvyko 62 sukilėlių mūšiai su caro kariuomene.
@@ -74,6 +129,7 @@ Staiga vienu puolimu jis suvaldė Daniją, o padaręs čia taiką, ties Narva (E
 - susijęs iš Vilijandis: 1560 m. rusai užėmė Alūksnę, Vilijandį.
 - susijęs iš Vilnius: Lietuviams puolant balandžio 23 d., Vilniuje buvusią rusų įgulą sudarė 2500 pėstininkų, 300 raitelių ir 19 artilerijos pabūklų.
 - susijęs iš Vilnius: Lietuviams puolant balandžio 23 d., Vilniuje buvusią rusų įgulą sudarė 2500 pėstininkų, 300 raitelių ir 19 artilerijos pabūklų.
+- susijęs iš Adomas Stanislovas Naruševičius, Historia narodu polskiego: Narbutas vertino, kad Naruševičius iki XII a. jotvingiams priskyrė pernelyg plačias valdas nuo Bugo iki Beržūnos ir nuo Pripetės iki Narvos.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -88,6 +144,7 @@ Staiga vienu puolimu jis suvaldė Daniją, o padaręs čia taiką, ties Narva (E
 
     1561 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -108,6 +165,7 @@ Staiga vienu puolimu jis suvaldė Daniją, o padaręs čia taiką, ties Narva (E
     čio mirties (1316-1382), skaitomas didžiausios ordino stiprybės ir
     geriausio jo žydėjimo metais.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -124,11 +182,64 @@ Staiga vienu puolimu jis suvaldė Daniją, o padaręs čia taiką, ties Narva (E
     sunaikino caro kariuomenę. Po to jis atsigręžė į Augusto ka-
     riuomenę, apgulusią Rygą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 
+## Citatos
+
+- id: c-43674
+  citata_originali: |
+    Suomijos įlanka, „ 5
+
+    1558 m. Maskvos kariuomenė užėmė dalį Livonijos konfederacijos
+    teritorijos su Narvos ir Tartu miestais, Danija užvaldė Saremos
+    salą. 1560 m. rusai užėmė Alūksnę, Vilijandį. Švedai užėmė šiau-
+
+    1561 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183794
+
+- id: c-166275
+  citata_originali: |
+    Pats didysis
+    magistras buvo apgulęs Veliuonos pilį^28 , bet jos paimti neįstengė.
+    Militariškai gana stipri, pavyzdingai sutvarkiusi savo adminis­
+    traciją ir ekonomiškai klestinti vokiečių ordino valstybė, kurios
+    valdos tęsėsi nuo Neumarko iki Narvos (išskyrus Žemaičių kylį),
+    jau buvo praleidusi laiką lietuviams įveikti. Dviejų generacijų
+    amžius, 66-rių metų laikotarpis nuo Gedimino iki jo sūnaus Kęstu­
+    čio mirties (1316-1382), skaitomas didžiausios ordino stiprybės ir
+    geriausio jo žydėjimo metais.
+  citata_rodoma: "Militariškai gana stipri, pavyzdingai sutvarkiusi savo adminis­\ntraciją ir ekonomiškai klestinti vokiečių ordino valstybė, kurios\nvaldos tęsėsi nuo Neumarko iki Narvos (išskyrus Žemaičių kylį),\njau buvo praleidusi laiką lietuviams įveikti. Dviejų generacijų\namžius, 66-rių metų laikotarpis nuo Gedimino iki jo sūnaus Kęstu­\nčio mirties (1316-1382), skaitomas didžiausios ordino stiprybės ir\ngeriausio jo žydėjimo metais."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182871
+
+- id: c-166446
+  citata_originali: |
+    Iš visų pusių apsuptas, jis pasiryžo
+    nugalėti priešus vieną po kito. Staiga vienu puolimu jis su-
+    valdė Daniją, o padaręs čia taiką, ties Narva (Estijoje) visiškai
+    sunaikino caro kariuomenę. Po to jis atsigręžė į Augusto ka-
+    riuomenę, apgulusią Rygą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183055
+
 ## Ryšiai
+- Buvo valdoma: [[objektai/grupes/Jotvingiai]]
 - Užėmė Narvą: [[objektai/grupes/Maskvos kariuomenė]]

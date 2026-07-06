@@ -14,6 +14,18 @@ tags:
   - valstybė
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Pasaulio lietuvių kongresas Kaune (1935 m.)
 
@@ -42,9 +54,22 @@ Nenurodyta
 <a id="claim-t-20439"></a>
 - t-001
   global_id: t-20439
-  teiginys: '1935 m. Pasaulio lietuvių kongresas Kaune sulaukė 3 000 delegatų ir svečių iš 19 valstybių.'
+  teiginys: "1935 m. Pasaulio lietuvių kongresas Kaune sulaukė 3 000 delegatų ir svečių iš 19 valstybių."
+  temporaliniai_duomenys: "įvykio data: 1935 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, aiškus ir tiksliai paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "354287-354711; hash=28aafefdbc9f27abc0e576bdddf1184dcfe81e111a8f853290f2fe6119fe60ff; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pasaulio lietuvių kongresas Kaune (1935 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pasaulio lietuvių kongresas Kaune (1935 m.)\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-23167
 - susijęs iš [[objektai/grupes/Užsienio lietuviai.md#claim-t-20054|Užsienio lietuviai]]: 1935 m. Pasaulio lietuvių kongresas Kaune parodė, kad dauguma užsienio lietuvių buvo artimi Lietuvai ir rūpinosi jos ateitimi.
 - susijęs iš Kaunas: 1935 m. Pasaulio lietuvių kongrese Kaune dalyvavo 3000 delegatų ir svečių iš 19 valstybių.
 - susijęs iš [[objektai/grupes/Užsienio lietuviai.md#claim-t-20054|Užsienio lietuviai]]: 1935 m. Pasaulio lietuvių kongresas Kaune parodė, kad dauguma užsienio lietuvių buvo artimi Lietuvai ir rūpinosi jos ateitimi.
@@ -61,11 +86,31 @@ Nenurodyta
     rūpinasi jos ateitimi, nors ir nepritaria autoritarinio režimo įvestiems
     politiniams suvaržymams.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-23167
+  citata_originali: |
+    Su stipriausiais finansiškai ir
+    organizacijų atžvilgiu JAV lietuviais daugiausia bendrauta per giminin-
+    gas politines organizacijas, profesiškai ar tiesiog asmeniškai. Pasaulio
+    lietuvių kongresas Kaune 1935 m., į kurį atvyko 3 000 delegatų ir svečių
+    iš 19 valstybių, parodė, kad dauguma užsienio lietuvių artimi Lietuvai,
+    rūpinasi jos ateitimi, nors ir nepritaria autoritarinio režimo įvestiems
+    politiniams suvaržymams.
+  citata_rodoma: "gas politines organizacijas, profesiškai ar tiesiog asmeniškai. Pasaulio"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-20439
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Užsienio lietuviai]]

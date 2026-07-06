@@ -16,6 +16,18 @@ tags:
   - tauta
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvos disidentai
 
@@ -26,39 +38,119 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
 ## Teiginiai
 
 <a id="claim-t-74667"></a>
-- t-001
+- t-004
   global_id: t-74667
-  teiginys: 'Lietuvos disidentai, skirtingai nei katalikų opozicija, kėlė Lietuvos laisvės klausimus.'
+  teiginys: "Lietuvos disidentai, skirtingai nei katalikų opozicija, kėlė Lietuvos laisvės klausimus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "473776-474220; hash=086c62ee251b436fbd136c106f32e68ff6c73b6d43384e6cd0f4e0f136522ca1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos disidentai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos disidentai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-22601
 
 <a id="claim-t-74668"></a>
 - t-002
   global_id: t-74668
-  teiginys: 'Lietuvos disidentai siekė išsaugoti tautos savastį, iš dalies neutralizuoti priešiškų jėgų veiklą ir ginti žmogaus teises.'
+  teiginys: "Lietuvos disidentai siekė išsaugoti tautos savastį, iš dalies neutralizuoti priešiškų jėgų veiklą ir ginti žmogaus teises."
+  temporaliniai_duomenys: "įvykio data: 1948 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "471826-472403; hash=25fa6aa2c3afbe03cd984949a1cab86d2bc6273da79231733b9aed02acecf0a5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos disidentai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos disidentai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-22599
 
 <a id="claim-t-74669"></a>
-- t-003
+- t-001
   global_id: t-74669
-  teiginys: 'Lietuvos disidentai siekė priversti okupacinę valdžią gerbti žmogaus teises ir 1948 m. Visuotinę žmogaus teisių deklaraciją.'
+  teiginys: "Lietuvos disidentai siekė priversti okupacinę valdžią gerbti žmogaus teises ir 1948 m. Visuotinę žmogaus teisių deklaraciją."
+  temporaliniai_duomenys: "įvykio data: 1948 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "471713-472268; hash=681d5bd33371247db0ee1417adef47148fffd2a155c5f48a5962944a29ad624a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos disidentai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos disidentai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-22598
 
 <a id="claim-t-74670"></a>
-- t-004
+- t-006
   global_id: t-74670
-  teiginys: 'Sovietinė valdžia žinomus Lietuvos disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nuteisdavo.'
+  teiginys: "Sovietinė valdžia žinomus Lietuvos disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nuteisdavo."
+  temporaliniai_duomenys: "įvykio data: 1978 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra faktinis ir susijęs su Lietuvos disidentais."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "473868-474457; hash=49848c2b273839be619dc013dce0ab2362e248a2be5dae1f2605ad55f09f0102; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos disidentai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos disidentai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-72706
 
 <a id="claim-t-74671"></a>
-- t-005
+- t-003
   global_id: t-74671
-  teiginys: 'Lietuvos disidentinio judėjimo pradžia laikoma 1960 m., kai Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais.'
+  teiginys: "Lietuvos disidentinio judėjimo pradžia laikoma 1960 m., kai Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais."
+  temporaliniai_duomenys: "įvykio data: 1948 m.; įvykio data: 1960 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus sakinys apie Lietuvos disidentinį judėjimą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "472010-472675; hash=a03e2071d997acc6324addf61b26b8aeeb94da7aa507b1547aac8898588629f9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Disidentinio judėjimo pradžia Lietuvoje (1960 m.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos disidentai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Disidentinio judėjimo pradžia Lietuvoje (1960 m.): mention_match, event, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos disidentai\" parinktas kaip owner_note_path. Targetas \"Disidentinio judėjimo pradžia Lietuvoje (1960 m.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-22600
+
+<a id="claim-t-74672"></a>
+- t-005
+  global_id: t-74672
+  teiginys: "Lietuvos disidentai, skirtingai nei katalikų opozicija, kėlė Lietuvos laisvės klausimus."
+  temporaliniai_duomenys: "įvykio data: 1978 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "473868-474457; hash=49848c2b273839be619dc013dce0ab2362e248a2be5dae1f2605ad55f09f0102; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos disidentai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos disidentai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-72706
 - susijęs iš [[objektai/zodynas/disidentai reformatai reformatoriai.md#claim-t-86464|disidentai reformatai reformatoriai]]: Lietuvos disidentai reformatai nepajėgė sutelkti tokių stiprių pajėgų kovai su Vilniaus jėzuitais.
 ## Reikšmingi paminėjimai
 
@@ -76,8 +168,9 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
     patvirtintos Visuotinės žmogaus teisių deklaracijos, nes SSRS faktiškai
     jos nepaisė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -94,8 +187,9 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
     jos nepaisė. Lietuvos disidentų siekis buvo tautos savasties išsaugojimas,
     priešiškų jėgų veiklos dalinis neutralizavimas, žmogaus teisių gynimas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -115,8 +209,9 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
     užmezgė santykius su Maskvos disidentais, pagelbėjo jiems Maskvoje leisti
     žurnalą „Sintaksis“, teikė informaciją iš Lietuvos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
@@ -132,8 +227,9 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
     teisdavo (pavyzdžiui, teisti Balys Gajauskas, Viktoras Petkus). Skirtingai nei
     katalikų opozicija, disidentai kėlė Lietuvos laisvės klausimus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -151,9 +247,107 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
     politinės sąmonės ugdymas, Lietuvos laisvės klausimo kėlimas tarptauti-
     niuose forumuose.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
     - t-004
+
+## Citatos
+
+- id: c-22598
+  citata_originali: |
+    Politinių tikslų
+    nesiekęs Komitetas veikė penkerius metus, parengė 53 dokumentus ir kai
+    kuriuos jų išplatino.
+    Maždaug nuo XX a. šeštojo dešimtmečio pabaigos su sovietų režimu
+    ėmė kovoti ir pavieniai lietuvių inteligentai, vadinamieji disidentai – so-
+    vietinio režimo reformatoriai idealistai. Disidentinis judėjimas sten-
+    gėsi priversti okupacinę valdžią bent neignoruoti visuotinai pripažintų
+    žmogaus teisių ir laisvių, laikytis JT Generalinės Asamblėjos 1948 m.
+    patvirtintos Visuotinės žmogaus teisių deklaracijos, nes SSRS faktiškai
+    jos nepaisė.
+  citata_rodoma: "Disidentinis judėjimas sten-\ngėsi priversti okupacinę valdžią bent neignoruoti visuotinai pripažintų\nžmogaus teisių ir laisvių, laikytis JT Generalinės Asamblėjos 1948 m.\npatvirtintos Visuotinės žmogaus teisių deklaracijos, nes SSRS faktiškai\njos nepaisė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-74669
+
+- id: c-22599
+  citata_originali: |
+    Maždaug nuo XX a. šeštojo dešimtmečio pabaigos su sovietų režimu
+    ėmė kovoti ir pavieniai lietuvių inteligentai, vadinamieji disidentai – so-
+    vietinio režimo reformatoriai idealistai. Disidentinis judėjimas sten-
+    gėsi priversti okupacinę valdžią bent neignoruoti visuotinai pripažintų
+    žmogaus teisių ir laisvių, laikytis JT Generalinės Asamblėjos 1948 m.
+    patvirtintos Visuotinės žmogaus teisių deklaracijos, nes SSRS faktiškai
+    jos nepaisė. Lietuvos disidentų siekis buvo tautos savasties išsaugojimas,
+    priešiškų jėgų veiklos dalinis neutralizavimas, žmogaus teisių gynimas.
+  citata_rodoma: "Lietuvos disidentų siekis buvo tautos savasties išsaugojimas,\npriešiškų jėgų veiklos dalinis neutralizavimas, žmogaus teisių gynimas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-74668
+
+- id: c-22600
+  citata_originali: |
+    Disidentinis judėjimas sten-
+    gėsi priversti okupacinę valdžią bent neignoruoti visuotinai pripažintų
+    žmogaus teisių ir laisvių, laikytis JT Generalinės Asamblėjos 1948 m.
+    patvirtintos Visuotinės žmogaus teisių deklaracijos, nes SSRS faktiškai
+    jos nepaisė. Lietuvos disidentų siekis buvo tautos savasties išsaugojimas,
+    priešiškų jėgų veiklos dalinis neutralizavimas, žmogaus teisių gynimas.
+    Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji
+    lietuviai disidentai Aleksandras Štromas, Tomas Venclova, Pranas Morkus
+    užmezgė santykius su Maskvos disidentais, pagelbėjo jiems Maskvoje leisti
+    žurnalą „Sintaksis“, teikė informaciją iš Lietuvos.
+  citata_rodoma: "Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji\nlietuviai disidentai Aleksandras Štromas, Tomas Venclova, Pranas Morkus\nužmezgė santykius su Maskvos disidentais, pagelbėjo jiems Maskvoje leisti\nžurnalą „Sintaksis“, teikė informaciją iš Lietuvos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-74671
+
+- id: c-22601
+  citata_originali: |
+    Taip
+    demokratiniai Vakarai sužinojo apie tikrąją padėtį, žmogaus teisių pažei-
+    dimus SSRS. Sovietinė valdžia represijas prieš disidentus derino su dalinių
+    nuolaidų kitaminčiams taktika, vengdama imtis drastiškų priemonių, ži-
+    nomus disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nu-
+    teisdavo (pavyzdžiui, teisti Balys Gajauskas, Viktoras Petkus). Skirtingai nei
+    katalikų opozicija, disidentai kėlė Lietuvos laisvės klausimus.
+  citata_rodoma: "Skirtingai nei\nkatalikų opozicija, disidentai kėlė Lietuvos laisvės klausimus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-74667
+
+- id: c-72706
+  citata_originali: |
+    Sovietinė valdžia represijas prieš disidentus derino su dalinių
+    nuolaidų kitaminčiams taktika, vengdama imtis drastiškų priemonių, ži-
+    nomus disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nu-
+    teisdavo (pavyzdžiui, teisti Balys Gajauskas, Viktoras Petkus). Skirtingai nei
+    katalikų opozicija, disidentai kėlė Lietuvos laisvės klausimus.
+    Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos laisvės lyga ( LLL),
+    kurios tikslas – nepriklausomos Lietuvos atkūrimas, religinės, tautinės ir
+    politinės sąmonės ugdymas, Lietuvos laisvės klausimo kėlimas tarptauti-
+    niuose forumuose.
+  citata_rodoma: "Skirtingai nei \nkatalikų opozicija, disidentai kėlė Lietuvos laisvės klausimus. \nSavo aktyvumu išsiskyrė 1978 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-74672
+    - t-74670

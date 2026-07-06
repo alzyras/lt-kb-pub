@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Sabalų ir kitų brangių žvėrių kailiai
 
@@ -40,10 +52,22 @@ Nenurodyta
 <a id="claim-t-186840"></a>
 - t-001
   global_id: t-186840
-  teiginys: 'Bychovco kronikoje pasakojama, kad po taikos su Algirdu Maskvos didysis kunigaikštis dovanojo jam sabalų ir kitų brangių bei retų žvėrių kailių.'
+  teiginys: "Bychovco kronikoje pasakojama, kad po taikos su Algirdu Maskvos didysis kunigaikštis dovanojo jam sabalų ir kitų brangių bei retų žvėrių kailių."
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "130628-131319; hash=4bd7e55dca3494be75a47db607d544e15f3268ede0fa6f1a3eaae7fbcf7f8235; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sabalų ir kitų brangių žvėrių kailiai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sabalų ir kitų brangių žvėrių kailiai\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
-
+    - c-170023
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -66,8 +90,36 @@ Nenurodyta
     lių 5 , ir apmokėjo išlaidas, kurias Algirdas pasidarė,
     žygiuodamas j Maskvos žemę.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-170023
+  citata_originali: |
+    Ir,
+    niekaip neišgalėdamas jam atsispirti, nusiuntė pas jj,
+    prašydamas [taikos] ir žadėdamas jam brangias dova­
+    nas, idant jo iš Maskvos, jo tėvonijos, neišvarytų,
+    o savo rūstybę numalšintų ir pasiimtų iš jo. ką pa­
+    norės.
+    Ir didysis kunigaikštis Algirdas pasigailėjo, parodė
+    savo maloningumą, nemetė jo iš Maskvos ir padarė su
+    juo taiką. O paskui, sudarius susitarimą, ir pats Mask­
+    vos didysis kunigaikštis išjojo pas jį, ir matėsi su juo,
+    ir dovanojo didžiajam kunigaikščiui Algirdui nesuskai­
+    čiuojamą daugybę dovanų — aukso, sidabro ir bran­
+    gių perlų, sabalų bei kitų brangių ir retų žvėrių kai­
+    lių 5 , ir apmokėjo išlaidas, kurias Algirdas pasidarė,
+    žygiuodamas j Maskvos žemę.
+  citata_rodoma: "O paskui, sudarius susitarimą, ir pats Mask­\nvos didysis kunigaikštis išjojo pas jį, ir matėsi su juo, \nir dovanojo didžiajam kunigaikščiui Algirdui nesuskai­\nčiuojamą daugybę dovanų — aukso, sidabro ir bran­\ngių perlų, sabalų bei kitų brangių ir retų žvėrių kai­\nlių 5 , ir apmokėjo išlaidas, kurias Algirdas pasidarė, \nžygiuodamas j Maskvos žemę."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186840

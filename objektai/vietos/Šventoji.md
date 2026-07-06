@@ -15,6 +15,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Šventoji
 
@@ -25,11 +37,21 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
 ## Teiginiai
 
 <a id="claim-t-182117"></a>
-- t-001
+- t-014
   global_id: t-182117
-  teiginys: 'Siena į Nemuną buvo išvesta ties vieta, priešais kurią dešinėje Nemuno pusėje įteka Šventoji.'
+  teiginys: "Siena į Nemuną buvo išvesta ties vieta, priešais kurią dešinėje Nemuno pusėje įteka Šventoji."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "978863-979229; hash=cfb7142d10de4aa5b5e42964ce018c19f2520b00c01adca2efd869331e56b22e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šventoji: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šventoji\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-165605
 - susijęs iš [[objektai/asmenys/Šventoji Barbora.md#claim-t-60081|Šventoji Barbora]]: Šventoji Barbora moteriai tris kartus pasirodė naktį ir sakė ketinanti eiti į Kulmo miestą klausyti mišių.
 - susijęs iš [[objektai/daiktai/Vaikių pilis ir aplinkiniai pastatai.md#claim-t-87095|Vaikių pilis ir aplinkiniai pastatai]]: Vaikių krašte šventoji giria, netoliese stovėjusi pilis ir aplinkiniai pastatai per vieną naktį buvo sudeginti iki pamatų.
 - susijęs iš [[objektai/paprociai/Aisčių ugnies kultas ir šventoji namų ugnelė.md#claim-t-10816|Aisčių ugnies kultas ir šventoji namų ugnelė]]: Namų židinyje nuolat kūrenama šventoji namų ugnelė buvo vadinama gabija.
@@ -111,8 +133,28 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
     stačiai per dykrą į vakarus — Juros upėn, ordinui paliekant Ne­
     muną dviejų mylių ruože^31.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-165605
+  citata_originali: |
+    Šešupės krantu ji ėjo per girių masyvus. Jos žemupys
+    paliekamas ordinui, nes nuo į vakarus pasukančios Šešupės siena
+    tiesia linija į Nemuną buvo išvesta ten, kur priešais dešinėje Ne­
+    muno pusėje įteka Šventoji.
+    Žemaičių pusėje siena turėjo kilti Šventąja dvi mylias, paskui
+    stačiai per dykrą į vakarus — Juros upėn, ordinui paliekant Ne­
+    muną dviejų mylių ruože^31.
+  citata_rodoma: "Jos žemupys\npaliekamas ordinui, nes nuo į vakarus pasukančios Šešupės siena\ntiesia linija į Nemuną buvo išvesta ten, kur priešais dešinėje Ne­\nmuno pusėje įteka Šventoji.\nŽemaičių pusėje siena turėjo kilti Šventąja dvi mylias, paskui\nstačiai per dykrą į vakarus — Juros upėn, ordinui paliekant Ne­\nmuną dviejų mylių ruože^31."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182117

@@ -4,7 +4,9 @@ pavadinimas: 'Švitrigaila'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -12,11 +14,6 @@ datos:
   - '1452 m.'
 date_start: '1382'
 date_end: '1452'
-description: 'Švitrigaila – Jogailos brolis, siejamas su Vitebsku, Podolija, Maskva ir Ordinu, kėlęs pretenzijas į Lietuvą.'
-socialDescription: 'Švitrigaila: Jogailos brolis, Podolijos valdytojas ir Vytauto priešininkas, ieškojęs paramos Maskvoje, pas totorius ir Ordine.'
-seo_atnaujinta: '2026-07-02T19:20:23.278009+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -27,343 +24,977 @@ amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Švitrigaila
 
 ## Santrauka
 
-Švitrigaila vaizduojamas kaip neramus Jogailos brolis, po Vytauto pralaimėjimo prie Vorsklos pareiškęs pretenzijas į Lietuvą. Jam buvo atiduota Podolija ir kiti Rusios plotai, tačiau jis vėliau bėgo į Maskvą, pas totorius ir pas Ordiną. Šaltiniuose jis siejamas su Vitebsko kovomis, Vilniaus apgulties sumanymais ir Ordino pastangomis silpninti Lietuvos ir Lenkijos vienybę.
+Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausias Jogailos brolis ir Julijonos sūnus, įsišeimininkavęs Vitebske, vėliau grįžęs pas Vytautą ir vėl įsivėlęs į sąmokslus su ordinu. Jis siejamas su Boleslovo krikšto vardu, Briansko bei Severijos valdymu ir įkalinimu Kremenetse. Papildomai akcentuojamas jo maištas Vitebske, bėgimai į Vengriją, Maskvą ir pas Ordiną, pretenzijos į Lietuvą po Vorsklos ir Podolijos perdavimas.
 
 ## Teiginiai
 
 <a id="claim-t-179687"></a>
-- t-001
+- t-027
   global_id: t-179687
-  teiginys: 'Švitrigaila kartu su Jogaila, Vytautu, Karigaila, Vygandu ir lietuvių didikais priėmė katalikų tikėjimą.'
+  teiginys: "Švitrigaila kartu su Jogaila, Vytautu, Karigaila, Vygandu ir lietuvių didikais priėmė katalikų tikėjimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "255259-255724; hash=79436a16fab9ab5968f95e84d49eaed698a13d88e2ee88e78c9549c2a716f525; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=61"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-163355
 
 <a id="claim-t-179688"></a>
-- t-002
+- t-020
   global_id: t-179688
-  teiginys: 'Po Vorsklos pralaimėjimo Švitrigaila pareiškė pretenzijas į Lietuvą, o ramybės dėlei jam buvo atiduota Podolija ir kiti Rusios plotai.'
+  teiginys: "Po Vorsklos pralaimėjimo Švitrigaila pareiškė pretenzijas į Lietuvą, o ramybės dėlei jam buvo atiduota Podolija ir kiti Rusios plotai."
+  semantiniai_rysiai: "Švitrigaila valdė teritoriją Podolija (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "180063-180286; hash=175e612bf5c08a937e32267d693182190c602b4b6432fcddb47c0de77b90539f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_teritorija -> Podolija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Podolija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Podolija buvo atiduota Švitrigailai valdyti."
   pagrindžia:
-    - c-001
+    - c-14091
 
 <a id="claim-t-179690"></a>
-- t-003
+- t-021
   global_id: t-179690
-  teiginys: 'Švitrigaila vėl pabėgo iš Lietuvos į Maskvą, vėliau pas totorius ir galiausiai pas Ordiną.'
+  teiginys: "Švitrigaila vėl pabėgo iš Lietuvos į Maskvą, vėliau pas totorius ir galiausiai pas Ordiną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "191380-191597; hash=a7512f3b098a9b38392d3ec7fed65cffedd23b1263d3353236d4f337dd17d085; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=83"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-032
+    - c-163387
 
 <a id="claim-t-179692"></a>
-- t-004
+- t-068
   global_id: t-179692
-  teiginys: 'Švitrigaila, nieko nelaimėjęs prie Vilniaus, prikalbino Livonijos ordino riterius drauge pulti Vitebską.'
+  teiginys: "Švitrigaila, nieko nelaimėjęs prie Vilniaus, prikalbino Livonijos ordino riterius drauge pulti Vitebską."
+  semantiniai_rysiai: "Švitrigaila puolė Vitebskas (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "307654-308159; hash=9a5deb7f5a35e9e2b751f5fab964bd44645a37257d34a5c5a34c91d567994eac; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Vitebskas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vitebskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Švitrigailos organizuotą puolimą prieš Vitebską."
   pagrindžia:
-    - c-036
+    - c-163394
 
 <a id="claim-t-179693"></a>
-- t-005
+- t-030
   global_id: t-179693
-  teiginys: 'Pajutęs Vytauto susilpnėjimą, Švitrigaila pareiškė pretenzijas į Lietuvą.'
+  teiginys: "Pajutęs Vytauto susilpnėjimą, Švitrigaila pareiškė pretenzijas į Lietuvą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "416527-416800; hash=b12f9ea4632b94ff927aa1124066141bfa685e3ab09bfdc9d73479cfd4ca56dc; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-163357
 
 <a id="claim-t-179694"></a>
-- t-006
+- t-036
   global_id: t-179694
-  teiginys: 'Švitrigaila, nieko nepešęs prie Vilniaus, prikalbino Livonijos ordino riterius kartu pulti Vitebską.'
+  teiginys: "Švitrigaila, nieko nepešęs prie Vilniaus, prikalbino Livonijos ordino riterius kartu pulti Vitebską."
+  semantiniai_rysiai: "Švitrigaila puolė Vitebskas (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "307654-308159; hash=9a5deb7f5a35e9e2b751f5fab964bd44645a37257d34a5c5a34c91d567994eac; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Vitebskas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vitebskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Švitrigailos ketinimą ir organizuotą puolimą prieš Vitebską."
   pagrindžia:
-    - c-036
+    - c-163394
 
 <a id="claim-t-179695"></a>
-- t-007
+- t-024
   global_id: t-179695
-  teiginys: '1402 m. pradžioje Ordinas Marienburge priglaudė iš Podolės pabėgusį Vytauto priešą Švitrigailą.'
+  teiginys: "1402 m. pradžioje Ordinas Marienburge priglaudė iš Podolės pabėgusį Vytauto priešą Švitrigailą."
+  semantiniai_rysiai: "Švitrigaila keliavo į Marienburgas (0.74)"
+  temporaliniai_duomenys: "įvykio data: 1402 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "900382-900718; hash=57968f0e518018c6c042fbae00dacc6868561a8516b1bfae4c53d9fa512cec4a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Marienburgas: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Marienburgas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata rodo, kad Švitrigaila buvo priimtas Marienburge."
   pagrindžia:
-    - c-003
+    - c-30378
 
 <a id="claim-t-179696"></a>
-- t-008
+- t-053
   global_id: t-179696
-  teiginys: 'Didysis magistras apstatė Švitrigailą savo parankiniais, siekdamas silpninti Lietuvos ir Lenkijos vienybę.'
+  teiginys: "Didysis magistras apstatė Švitrigailą savo parankiniais, siekdamas silpninti Lietuvos ir Lenkijos vienybę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "429366-429917; hash=06e279dc01118dfc58cdaef164c5c3bda90f74dccd50b52b1297200afb9b38da; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=63"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-021
+    - c-163375
 
 <a id="claim-t-179697"></a>
-- t-009
+- t-048
   global_id: t-179697
-  teiginys: 'Švitrigaila su didžiuoju magistru turėjo nutraukti Vilniaus apgultį, kai vienuolis išdavė jų sumanymą pilies įgulai.'
+  teiginys: "Švitrigaila su didžiuoju magistru turėjo nutraukti Vilniaus apgultį, kai vienuolis išdavė jų sumanymą pilies įgulai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "303397-304086; hash=3282fe5caeb53e1379f2e754700b6464631a57511d6a658774b1b26d622c0cd7; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Viena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=73"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-163356
 
 <a id="claim-t-179698"></a>
-- t-010
+- t-040
   global_id: t-179698
-  teiginys: 'Petras pranešė, kad Švitrigaila išvaduotas iš nelaisvės ir yra laisvėje.'
+  teiginys: "Petras pranešė, kad Švitrigaila išvaduotas iš nelaisvės ir yra laisvėje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "362654-363057; hash=e5bf7377c4d1fd724e4bec0d67429dc39e96b526c105a63912fa09882850e118; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-017
+    - c-163369
 
 <a id="claim-t-179699"></a>
-- t-011
+- t-018
   global_id: t-179699
-  teiginys: 'Švitrigaila sukilo, užmušė Feodorą Vesną ir pats ėmė valdyti Vitebską.'
+  teiginys: "Švitrigaila sukilo, užmušė Feodorą Vesną ir pats ėmė valdyti Vitebską."
+  semantiniai_rysiai: "Švitrigaila valdė miestą Vitebskas (0.96)"
+  temporaliniai_duomenys: "įvykio data: 1392 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako Švitrigailos veiksmus ir yra paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "143378-143703; hash=43ac9b23fa035bf9b4959369346d4b9f4f4cc1ee2f1faf40384df20b9957ef86; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_miesta -> Vitebskas: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vitebskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Švitrigaila ėmė valdyti Vitebską."
   pagrindžia:
-    - c-028
+    - c-163383
 
 <a id="claim-t-179700"></a>
-- t-012
+- t-066
   global_id: t-179700
-  teiginys: '1382 m. Dubysos sutarčių aktams pritarė Jogailos motina Julijona ir broliai, tarp jų Švitrigaila.'
+  teiginys: "1382 m. Dubysos sutarčių aktams pritarė Jogailos motina Julijona ir broliai, tarp jų Švitrigaila."
+  semantiniai_rysiai: "Švitrigaila buvo sūnus Julijona (0.80)"
+  temporaliniai_duomenys: "įvykio data: 1382 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys per ilgas ir nutrūkęs, citata palaiko trumpesnį faktą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "671251-671807; hash=b391eb7e8a17d9d3e5ac1c2647cda70e128e6b85d1f7f58cdd1dcbc77317c5cb; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Julijona: 0.80"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Julijona: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Švitrigaila pateiktas tarp Jogailos brolių, kurių motina yra Julijona."
   pagrindžia:
-    - c-015
+    - c-163365
 
 <a id="claim-t-179701"></a>
-- t-013
+- t-044
   global_id: t-179701
-  teiginys: 'Švitrigailos sąjungos didino pasitikėjimą ir išplėtė prekybą iki atokiausių Vokietijos žemių.'
+  teiginys: "Švitrigailos sąjungos didino pasitikėjimą ir išplėtė prekybą iki atokiausių Vokietijos žemių."
+  temporaliniai_duomenys: "įvykio data: 1432 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta glaudžiau ir enciklopediškiau, išlaikant citatos faktus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "430742-431170; hash=1b09e5b1d79f3b3e6d7d13fc8b0c2a5b4c74908865e787ac2a732f0c795d7bb8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vokietija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vokietija: mention_match, place, gap=76"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Vokietija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-022
+    - c-163376
 
 <a id="claim-t-179702"></a>
-- t-014
+- t-060
   global_id: t-179702
-  teiginys: 'Švitrigaila su sūnėnu Maskvos kunigaikščiu Jurgiu išvengė sutriuškinimo po nesėkmės ties Ukmerge.'
+  teiginys: "Švitrigaila su sūnėnu Maskvos kunigaikščiu Jurgiu išvengė sutriuškinimo po nesėkmės ties Ukmerge."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "446682-447149; hash=b88fda10d13c523e7c0f0107af1b9f562af5cf8ef65cbac87057bbc0bb10168c; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-024
+    - c-163379
 
 <a id="claim-t-179703"></a>
-- t-015
+- t-062
   global_id: t-179703
-  teiginys: 'Švitrigaila kartu su Jogaila, Vytautu, Jogailos broliais ir daugeliu lietuvių didikų priėmė katalikų tikėjimą Krokuvoje.'
+  teiginys: "Švitrigaila kartu su Jogaila, Vytautu, Jogailos broliais ir daugeliu lietuvių didikų priėmė katalikų tikėjimą Krokuvoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "255259-255724; hash=79436a16fab9ab5968f95e84d49eaed698a13d88e2ee88e78c9549c2a716f525; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=110"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-163355
 
 <a id="claim-t-179704"></a>
-- t-016
+- t-061
   global_id: t-179704
-  teiginys: '1452 m. vasarį Švitrigaila mirė Lucke, o jo kūnas buvo perkeltas į protėvių kapą Vilniaus katedroje.'
+  teiginys: "1452 m. vasarį Švitrigaila mirė Lucke, o jo kūnas buvo perkeltas į protėvių kapą Vilniaus katedroje."
+  temporaliniai_duomenys: "įvykio data: 1452 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "461747-462221; hash=7da08a9c5239c30a475ba6e4fbdd5b15dab26630bd8811719b842b5ca0f13bd9; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kūnas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kūnas: mention_match, person, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Kūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-023
+    - c-163377
 
 <a id="claim-t-179705"></a>
-- t-017
+- t-039
   global_id: t-179705
-  teiginys: 'Vytautas po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską ir paėmė Švitrigailą į nelaisvę.'
+  teiginys: "Vytautas po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską ir paėmė Švitrigailą į nelaisvę."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Vitebskas (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "360385-360931; hash=9ff9f7f06fb418a9cbf772d50b563b2df6efb010eb49a528efc43feabb68687d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Vitebskas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vitebskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vytautas atgavo Vitebską po apgulties."
   pagrindžia:
-    - c-030
+    - c-163385
 
 <a id="claim-t-179706"></a>
-- t-018
+- t-038
   global_id: t-179706
-  teiginys: 'Dinaburgo komtūras pranešė Livonijos magistrui, kad iš nelaisvės paleistas Švitrigaila vėl traukia į mūšio lauką.'
+  teiginys: "Dinaburgo komtūras pranešė Livonijos magistrui, kad iš nelaisvės paleistas Švitrigaila vėl traukia į mūšio lauką."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "359739-360085; hash=61ebcc6764bf0c51d0e9d6f066012c34d83425c52e60fe8bfb4a03a82b3766ef; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dinaburgas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Dinaburgas: mention_match, place, gap=75"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Dinaburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-163359
 
 <a id="claim-t-179707"></a>
-- t-019
+- t-052
   global_id: t-179707
-  teiginys: 'Po sėkmingo žygio Švitrigaila sudarė ilgalaikes paliaubas su karaliumi.'
+  teiginys: "Po sėkmingo žygio Švitrigaila sudarė ilgalaikes paliaubas su karaliumi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "428769-429556; hash=7bb29fb7c2e6d8662bfa964f410169d460bc5fbb0632058b78484973549ffc32; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Chariničius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Chariničius: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Chariničius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-020
+    - c-163374
 
 <a id="claim-t-179708"></a>
-- t-020
+- t-065
   global_id: t-179708
-  teiginys: 'Švitrigailai buvo pavesta valdyti Podoliją, o šaltinyje jis vadinamas pavojingiausiu Vytauto priešininku.'
+  teiginys: "Švitrigailai buvo pavesta valdyti Podoliją, o šaltinyje jis vadinamas pavojingiausiu Vytauto priešininku."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "420728-421219; hash=2374aa2c158722d078e9278324209c510177a63e54e94dc78dbac54a655280ff; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-031
+    - c-163386
 
 <a id="claim-t-179709"></a>
-- t-021
+- t-025
   global_id: t-179709
-  teiginys: 'Švitrigaila ir Žygimantas buvo Vytauto politikos tęsėjai.'
+  teiginys: "Švitrigaila ir Žygimantas buvo Vytauto politikos tęsėjai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1036309-1036539; hash=c1a6432592f5710a57790b9809eae2bbd6e45979ed23adf332f06fcebea13c48; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Žygimantas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Žygimantas: mention_match, person, gap=15"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Žygimantas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-035
+    - c-163391
 
 <a id="claim-t-179710"></a>
-- t-022
+- t-032
   global_id: t-179710
-  teiginys: 'Švitrigaila buvo tarp Jogailos brolių, pritarusių jo sutarčių su Ordinais įsipareigojimams.'
+  teiginys: "Švitrigaila buvo tarp Jogailos brolių, pritarusių jo sutarčių su Ordinais įsipareigojimams."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "671251-671807; hash=b391eb7e8a17d9d3e5ac1c2647cda70e128e6b85d1f7f58cdd1dcbc77317c5cb; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=65"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-015
+    - c-163365
 
 <a id="claim-t-179712"></a>
-- t-023
+- t-056
   global_id: t-179712
-  teiginys: 'Švitrigaila buvo dvare prie Ašmenos su nedidele sargyba, kai Žygimantas slapta žygiavo į Ašmeną.'
+  teiginys: "Švitrigaila buvo dvare prie Ašmenos su nedidele sargyba, kai Žygimantas slapta žygiavo į Ašmeną."
+  semantiniai_rysiai: "Žygimantas užėmė Vilnius (0.95); Žygimantas užėmė Trakai (0.95); Žygimantas surengė žygį į Ašmena (0.88); Švitrigaila gyveno Ašmena (0.80)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "436404-438095; hash=524aed87abc131f3ecace75b630e8f3ac87607902e88aca428e6bac8c0abd43d; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Trakai: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žygimantas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Žygimantas užėmė Trakus."
   pagrindžia:
-    - c-018
+    - c-163371
 
 <a id="claim-t-179713"></a>
-- t-024
+- t-059
   global_id: t-179713
-  teiginys: 'Po dvylikos metų paliaubų tarp karaliaus ir didžiojo magistro Švitrigailos jėgos Lietuvoje apsilpo.'
+  teiginys: "Po dvylikos metų paliaubų tarp karaliaus ir didžiojo magistro Švitrigailos jėgos Lietuvoje apsilpo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "445376-446176; hash=0916e40861d9ecd3502d6fc514b8baad9ac2dfecc420a4b96e6be8d2fd4e49ea; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-034
+    - c-163390
+
+<a id="claim-t-179714"></a>
+- t-051
+  global_id: t-179714
+  teiginys: "Vytautas po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską ir paėmė Švitrigailą į nelaisvę."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Vitebskas (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "360110-360840; hash=337aca4af301ada0507115c3c0cbb51909674b8fa4b53f7588ff5ee1901cf7ca; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Vitebskas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vitebskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vytautas atgavo Vitebską po apgulties."
+  pagrindžia:
+    - c-163382
 
 <a id="claim-t-179715"></a>
-- t-026
+- t-034
   global_id: t-179715
-  teiginys: '1395 m. Švitrigaila su kryžiuočių pulku ir magistru Konradu Jungingenu įsibrovė į Lietuvą ir nusiaubė vietoves prie Gardino.'
+  teiginys: "1395 m. Švitrigaila su kryžiuočių pulku ir magistru Konradu Jungingenu įsibrovė į Lietuvą ir nusiaubė vietoves prie Gardino."
+  semantiniai_rysiai: "Švitrigaila surengė žygį į Lietuva (0.90); Švitrigaila keliavo į Šalčininkai (0.78); Švitrigaila puolė Gardinas (0.72); Kryžiuočių ordinas surengė žygį į Lietuva (0.72)"
+  temporaliniai_duomenys: "įvykio data: 1394 m.; įvykio data: 1395 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "298774-299508; hash=caf8ca4df248d6f243d3c4d2a086bdf1a302975598e13d608ed368acbb18935f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Lietuva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo Švitrigailos įsibrovimą į Lietuvą."
   pagrindžia:
-    - c-011
+    - c-163361
 
 <a id="claim-t-179716"></a>
-- t-027
+- t-019
   global_id: t-179716
-  teiginys: 'Švitrigaila buvo priverstas nusilenkti Vytautui, po to pasiųstas Jogailai į Krokuvą, bet netrukus pabėgo į Vengriją.'
+  teiginys: "Švitrigaila buvo priverstas nusilenkti Vytautui, po to pasiųstas Jogailai į Krokuvą, bet netrukus pabėgo į Vengriją."
+  semantiniai_rysiai: "Švitrigaila keliavo į Vengrija (0.92); Švitrigaila keliavo į Krokuva (0.85)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "143851-144111; hash=d3001d3bfc9d65c5e7e0bf36b7868d612f2a7ba9a761a47f3581a38f6390b5f6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Vengrija: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vengrija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Švitrigaila pabėgo į Vengriją."
   pagrindžia:
-    - c-002
+    - c-16101
 
 <a id="claim-t-179717"></a>
-- t-028
+- t-049
   global_id: t-179717
-  teiginys: 'Švitrigaila apsimestinai sutiko su sutartimi, o 1402 m. persirengęs pirkliu išvyko pas magistrą į Marienburgą.'
+  teiginys: "Švitrigaila apsimestinai sutiko su sutartimi, o 1402 m. persirengęs pirkliu išvyko pas magistrą į Marienburgą."
+  semantiniai_rysiai: "Švitrigaila keliavo į Marienburgas (0.95)"
+  temporaliniai_duomenys: "įvykio data: 1402 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko faktą, bet pradinė formuluotė per ilga ir nutrūkusi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "322830-323986; hash=9b6b1e739025689e38ffac6f80b5bb4e1ffa9e1ce6b3a4de666b46a52f8fce76; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Marienburgas: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Marienburgas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Švitrigaila nuvyko į Marienburgą."
   pagrindžia:
-    - c-033
+    - c-163388
 
 <a id="claim-t-179718"></a>
-- t-029
+- t-042
   global_id: t-179718
-  teiginys: 'Švitrigaila su iš Didžiojo Naugardo atsiųstais bojarinais sudarė sutartį dėl abipusio saugumo ir prekybos laisvės.'
+  teiginys: "Švitrigaila su iš Didžiojo Naugardo atsiųstais bojarinais sudarė sutartį dėl abipusio saugumo ir prekybos laisvės."
+  semantiniai_rysiai: "Švitrigaila sudarė sutartį su Didžiojo Naugardo respublika (0.86); Švitrigaila prekiavo su Didžiojo Naugardo respublika (0.60)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "429105-429645; hash=24fa86eb4931af9307e82fc0a58a02250fa6cb2123f66107f3d35c86b73564e6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "sudare_sutarti_su -> Didžiojo Naugardo respublika: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Didžiojo Naugardo respublika: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Bojarinai buvo pasiųsti iš Didžiojo Naugardo ir sudarė sutartį su Švitrigaila, todėl sąsaja su Didžiojo Naugardo respublika tiesiogiai pagrįsta."
   pagrindžia:
-    - c-014
+    - c-163364
 
 <a id="claim-t-179719"></a>
-- t-030
+- t-035
   global_id: t-179719
-  teiginys: 'Švitrigailos bandymas užimti Vilnių žlugo, kai vienuolis išdavė jo sumanymą pilies įgulos vadui.'
+  teiginys: "Švitrigailos bandymas užimti Vilnių žlugo, kai vienuolis išdavė jo sumanymą pilies įgulos vadui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "303397-304086; hash=3282fe5caeb53e1379f2e754700b6464631a57511d6a658774b1b26d622c0cd7; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Viena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=47"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-163356
 
 <a id="claim-t-179720"></a>
-- t-031
+- t-045
   global_id: t-179720
-  teiginys: 'Lenkijos valdantieji sluoksniai Švitrigailai siūlė Lenkijos vainiką arba Lietuvos valdymą susiejus ją su Lenkija.'
+  teiginys: "Lenkijos valdantieji sluoksniai Švitrigailai siūlė Lenkijos vainiką arba Lietuvos valdymą susiejus ją su Lenkija."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "265873-266115; hash=7928144df31e9f1b671b187126634c447b8973069f3bdbb6d1f9b93c34dc0cf8; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=41"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-026
+    - c-163381
 
 <a id="claim-t-179721"></a>
-- t-032
+- t-017
   global_id: t-179721
-  teiginys: 'Švitrigaila manė, kad po kunigaikštienės mirties Jogaila jį paskirs Vitebsko valdytoju.'
+  teiginys: "Švitrigaila manė, kad po kunigaikštienės mirties Jogaila jį paskirs Vitebsko valdytoju."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "143265-143463; hash=8097c7b773402ada4e6982ce4949194158a1468da06e8ee77a4f6aa234c2e318; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=49"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-010
+    - c-163360
 
 <a id="claim-t-179722"></a>
-- t-033
+- t-037
   global_id: t-179722
-  teiginys: 'Švitrigaila apsimestinai sutiko su sutartimi, o 1402 m. persirengęs pirkliu nuvyko pas magistrą į Marienburgą.'
+  teiginys: "Švitrigaila apsimestinai sutiko su sutartimi, o 1402 m. persirengęs pirkliu nuvyko pas magistrą į Marienburgą."
+  semantiniai_rysiai: "Švitrigaila keliavo į Marienburgas (0.95)"
+  temporaliniai_duomenys: "kelionės data: 1402 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Švitrigaila keliavo į Marienburgas“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "322830-323986; hash=9b6b1e739025689e38ffac6f80b5bb4e1ffa9e1ce6b3a4de666b46a52f8fce76; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Marienburgas: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Marienburgas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Švitrigaila nuvyko į Marienburgą."
   pagrindžia:
-    - c-033
+    - c-163388
 
 <a id="claim-t-179723"></a>
-- t-034
+- t-022
   global_id: t-179723
-  teiginys: 'Švitrigaila buvo vienas iš penkių Julijonos sūnų, liudijusių trijose Jogailos ir Skirgailos vardu sudarytose sutartyse.'
+  teiginys: "Švitrigaila buvo vienas iš penkių Julijonos sūnų, liudijusių trijose Jogailos ir Skirgailos vardu sudarytose sutartyse."
+  semantiniai_rysiai: "Švitrigaila buvo sūnus Julijona (0.88)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "761711-762367; hash=d5c5831d7d6e1a0e69a0c107757c0c36ab75bb51cf0bf150957924ae7113b422; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Julijona: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Julijona: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Švitrigaila įtrauktas į Julijonos sūnų sąrašą."
   pagrindžia:
-    - c-025
+    - c-163380
 
 <a id="claim-t-179724"></a>
-- t-035
+- t-026
   global_id: t-179724
-  teiginys: '1430 m. lapkričio 7 d. buvo sudarytos paliaubos tarp Lenkijos karaliaus Jogailos ir jo brolio, Lietuvos didžiojo kunigaikščio Švitrigailos.'
+  teiginys: "1430 m. lapkričio 7 d. buvo sudarytos paliaubos tarp Lenkijos karaliaus Jogailos ir jo brolio, Lietuvos didžiojo kunigaikščio Švitrigailos."
+  temporaliniai_duomenys: "įvykio data: 1430 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Švitrigailą ir paliaubas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "263939-264227; hash=bd2aab5bfbc71a91a332cc20b2e61fd1a792dd9760ed6dfe176f3bb4726b712b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=73"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-012
+    - c-163362
 
 <a id="claim-t-179725"></a>
-- t-036
+- t-031
   global_id: t-179725
-  teiginys: 'Švitrigaila, tikrasis Algirdo sūnus, turėjo pirmenybę į Lietuvos didžiojo kunigaikščio sostą.'
+  teiginys: "Švitrigaila, tikrasis Algirdo sūnus, turėjo pirmenybę į Lietuvos didžiojo kunigaikščio sostą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "420728-421219; hash=2374aa2c158722d078e9278324209c510177a63e54e94dc78dbac54a655280ff; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-031
+    - c-163386
 
 <a id="claim-t-179726"></a>
-- t-037
+- t-058
   global_id: t-179726
-  teiginys: 'Livonijos magistro ir totorių remiamas Švitrigaila vėl užėmė Ašmeną ir priartėjo prie Vilniaus per septynetą mylių.'
+  teiginys: "Livonijos magistro ir totorių remiamas Švitrigaila vėl užėmė Ašmeną ir priartėjo prie Vilniaus per septynetą mylių."
+  semantiniai_rysiai: "Švitrigaila užėmė Ašmena (0.94); Švitrigaila keliavo į Vilnius (0.64)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "443944-444702; hash=6779ca051c7a63ceca5bbccc58357cd804b91fede7054b6c4678050a7f2a8e2e; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Ašmena: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Ašmena: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Švitrigaila užėmė Ašmeną."
   pagrindžia:
-    - c-016
+    - c-163367
 
 <a id="claim-t-179727"></a>
-- t-038
+- t-033
   global_id: t-179727
-  teiginys: 'Dar neįsitvirtinus Vytautui, Švitrigaila išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą.'
+  teiginys: "Dar neįsitvirtinus Vytautui, Švitrigaila išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "297741-298849; hash=10b63b9779e9f9b2cac8a487cc9f2222ef4f3c51e9fa6f56c4812691e5ef1782; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=69"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-163353
+
+<a id="claim-t-179728"></a>
+- t-054
+  global_id: t-179728
+  teiginys: "Švitrigailos sąjungos didino pasitikėjimą ir išplėtė prekybą iki atokiausių Vokietijos žemių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "430694-430977; hash=3e394be26d01528431bb2ad5ec19630f7771c56b7283f5e1732c34ec6f13166d; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vokietija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vokietija: mention_match, place, gap=76"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Vokietija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-163354
 
 <a id="claim-t-179729"></a>
-- t-040
+- t-055
   global_id: t-179729
-  teiginys: 'Švitrigailos valdymo metais Vilniaus monetų kalykla kaldino lietuviškus grašius ir pusgrašius.'
+  teiginys: "Švitrigailos valdymo metais Vilniaus monetų kalykla kaldino lietuviškus grašius ir pusgrašius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "433015-433610; hash=4fca982b7c8f3cd1b314b11b51a7c70680d6d92e70d1b6cd0491b5ce2f897aea; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=60"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-019
+    - c-163373
+
+<a id="claim-t-179706"></a>
+- t-038
+  global_id: t-179706
+  teiginys: "Dinaburgo komtūras pranešė Livonijos magistrui, kad iš nelaisvės paleistas Švitrigaila vėl traukia į mūšio lauką."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "359739-360085; hash=61ebcc6764bf0c51d0e9d6f066012c34d83425c52e60fe8bfb4a03a82b3766ef; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dinaburgas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Dinaburgas: mention_match, place, gap=75"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Dinaburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  pagrindžia:
+    - c-163359
 
 <a id="claim-t-179731"></a>
-- t-042
+- t-041
   global_id: t-179731
-  teiginys: 'Įniršęs Švitrigaila priekaištavo Jogailai dėl Podolės ir įkalino jį su palyda pilyje.'
+  teiginys: "Įniršęs Švitrigaila priekaištavo Jogailai dėl Podolės ir įkalino jį su palyda pilyje."
+  semantiniai_rysiai: "Švitrigaila buvo priešas Jogaila (kunigaikštis, XIV–XV a.) (0.78)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "426387-427019; hash=5b70e6d0faca0ce4766642c2cbe61a4a7962f9d124267955bebc186c09fd000d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_priesas -> Jogaila (kunigaikštis, XIV–XV a.): 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Švitrigaila užsipuolė ir įkalino Jogailą, todėl politinės priešpriešos ryšys tiesiogiai pagrįstas."
   pagrindžia:
-    - c-029
+    - c-163384
 
 <a id="claim-t-179732"></a>
-- t-043
+- t-047
   global_id: t-179732
-  teiginys: 'Švitrigaila, įsižeidęs dėl Vytauto iškėlimo, išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą.'
+  teiginys: "Švitrigaila, įsižeidęs dėl Vytauto iškėlimo, išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "297741-298849; hash=10b63b9779e9f9b2cac8a487cc9f2222ef4f3c51e9fa6f56c4812691e5ef1782; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=102"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-163353
 
 <a id="claim-t-179733"></a>
-- t-044
+- t-057
   global_id: t-179733
-  teiginys: 'Švitrigaila, nusigavęs į Polocką, ten įkūrė atramos vietą, iš kurios beveik šešerius metus plito vaidai, puldinėjimai ir pilietinis karas.'
+  teiginys: "Švitrigaila, nusigavęs į Polocką, ten įkūrė atramos vietą, iš kurios beveik šešerius metus plito vaidai, puldinėjimai ir pilietinis karas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "440164-441025; hash=3502b0d4c7a42ba910c7a1341e3e4f9bfd81af637a320c764d363f2480c18454; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Eugenijus IV: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Eugenijus IV: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Eugenijus IV\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-013
+    - c-163363
 
 <a id="claim-t-179734"></a>
-- t-045
+- t-046
   global_id: t-179734
-  teiginys: '1432 m. gruodžio 8 d. Ašmenos mūšyje Švitrigailos jėgos buvo išsklaidytos, o Švitrigaila pabėgo į Polocką.'
+  teiginys: "1432 m. gruodžio 8 d. Ašmenos mūšyje Švitrigailos jėgos buvo išsklaidytos, o Švitrigaila pabėgo į Polocką."
+  semantiniai_rysiai: "Švitrigaila keliavo į Polockas (0.94)"
+  temporaliniai_duomenys: "įvykio data: 1432 m.; įvykio data: 1432-1433; įvykio data: 1433 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta pašalinant dviprasmį įvardį ir aiškiai įvardijant veikėją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "271304-271525; hash=871a55d9d14f0723364961f34d55c04a19257d699f571d0eb23aba4564228679; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Polockas: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Švitrigaila pabėgo į Polocką."
   pagrindžia:
-    - c-037
+    - c-163395
 
 <a id="claim-t-184896"></a>
-- t-046
+- t-069
   global_id: t-184896
-  teiginys: 'Boleslovą Švitrigailą kamavo neišsipildžiusios viltys, nes po Skirgailos jis turėjo teisę pirmas paveldėti valdžią.'
+  teiginys: "Boleslovą Švitrigailą kamavo neišsipildžiusios viltys, nes po Skirgailos jis turėjo teisę pirmas paveldėti valdžią."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "576282-576901; hash=c539cb610dd5b57a83b6ea45a497847327fb169d16d3e18c8c92eb53cf428a42; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kazimieras Skirgaila (Lenkijos karalius): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kazimieras Skirgaila (Lenkijos karalius): mention_match, person, gap=52"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Kazimieras Skirgaila (Lenkijos karalius)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-038
+    - c-168257
 
 <a id="claim-t-184897"></a>
-- t-047
+- t-070
   global_id: t-184897
-  teiginys: 'Konradui du mėnesius nesėkmingai puolus Vilnių, Švitrigaila nutarė miesto puolime griebtis apgaulės.'
+  teiginys: "Konradui du mėnesius nesėkmingai puolus Vilnių, Švitrigaila nutarė miesto puolime griebtis apgaulės."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "583107-583806; hash=db1f00edd53cadb65451bfdf92a1fd0325f50d1b2dcf28bc734276c7a7111625; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Konradas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Konradas: mention_match, person, gap=48"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Konradas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-039
+    - c-168258
 
 <a id="claim-t-184898"></a>
-- t-048
+- t-071
   global_id: t-184898
-  teiginys: 'Švitrigaila nuolat kurstė Prūsijos ir Livonijos kryžiuočių magistrus prieš Vytautą.'
+  teiginys: "Švitrigaila nuolat kurstė Prūsijos ir Livonijos kryžiuočių magistrus prieš Vytautą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "601668-602022; hash=1b6166a41140564e2c68358d0d160e41f395954cfaa99a943d3f105c40a81be8; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=48"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-040
+    - c-168259
 
 <a id="claim-t-184899"></a>
-- t-049
+- t-072
   global_id: t-184899
-  teiginys: 'Švitrigaila matė, kad karai ir plėšikiški antpuoliai naudingi tik kryžiuočiams, o jis pats lieka nuskurdęs tremtinys.'
+  teiginys: "Švitrigaila matė, kad karai ir plėšikiški antpuoliai naudingi tik kryžiuočiams, o jis pats lieka nuskurdęs tremtinys."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "602698-603184; hash=24dfa167b7f2bce22c015ea433f442a43e3574a9638500cc328f142a804c06c8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-041
+    - c-168260
 
 <a id="claim-t-184900"></a>
-- t-050
+- t-073
   global_id: t-184900
-  teiginys: 'Ištrūkęs į laisvę Švitrigaila pabėgo pas imperatorių Zigmantą, o vėliau susitaikė su Vytautu.'
+  teiginys: "Ištrūkęs į laisvę Švitrigaila pabėgo pas imperatorių Zigmantą, o vėliau susitaikė su Vytautu."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "692278-692594; hash=da48c049af1e46f68fb888d7f1b03b35ed90ffb646f7613441156cca577d24b9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-042
+    - c-168261
+
+<a id="claim-t-191006"></a>
+- t-074
+  global_id: t-191006
+  teiginys: "Švitrigailos 1451 m. vasario 18 d. Lucke datuota privilegija, Narbuto teigimu, pakartojo Vytauto privilegiją ir atnaujino Algirdo privilegiją."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1451 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir aiškiai sieja Švitrigailą su 1451 m. privilegija. Narbuto autorystės atribucija išlaikyta."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "948561-949183; hash=0118151f03a417f29cdc7dae508dff174cd57dd4e6d19051a0642d2ecfd8f5b5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=122"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-173888
+
+<a id="claim-t-194021"></a>
+- t-075
+  global_id: t-194021
+  teiginys: "O sekančiais metais2 2 iš Moldavijos atvyko kuni gaikštis Švitrigaila, didžiojo kunigaikščio Kazimiero dėdė, kuris, pabėgęs nuo kunigaikščio Žygimanto, sep tynerius metus išgyveno Moldavijoje, ganydamas avis2 3 ."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "233469-233948; hash=6041a07444adae748fd7deb3e2f75b5672214327fa212d0b19a7ecbc45e65c1f; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176646
 - susijęs iš [[objektai/paprociai/Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika.md#claim-t-87147|Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika]]: Vasario pradžioje Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės.
 - susijęs iš [[objektai/grupes/Didžiojo Naugardo bojarinai.md#claim-t-86789|Didžiojo Naugardo bojarinai]]: Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės.
 - susijęs iš [[objektai/asmenys/Chariničius.md#claim-t-87643|Chariničius]]: Didžiojo Naugardo bojarinas Chariničius su Ivanu Jermoliničiumi Vilniuje sudarė sutartį su Švitrigaila dėl saugumo ir prekybos laisvės.
@@ -501,6 +1132,7 @@ periodo_grupes:
 - susijęs iš [[objektai/zodynas/bojarinai.md#claim-t-86459|bojarinai]]: Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje su Švitrigaila sudarė sutartį dėl abipusio saugumo ir prekybos laisvės.
 - susijęs iš [[objektai/zodynas/prastuomenė.md#claim-t-185408|prastuomenė]]: Išbadėjusi prastuomenė ir eiliniai kariai sukilo prieš Švitrigailą, todėl pilis atiteko Vytautui.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176282|Algirdas (Lietuvos valdovas)]]: Algirdas buvo Seversko kunigaikščio Dmitrijaus Kaributo tėvas.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-190846|Algirdas (Lietuvos valdovas)]]: Narbutas mini Algirdo privilegijos nuorašą, kuriuo patvirtinta riteriška kilmė ir herbas su strėlių ryšuliu raudoname lauke.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis Polockietis.md#claim-t-183726|Andrius Algirdaitis Polockietis]]: Andrius Algirdaitis Polockietis buvo vienas iš žymių Lietuvos kunigaikščių, žuvusių mūšyje.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis Polockietis.md#claim-t-40018|Andrius Algirdaitis Polockietis]]: Andrius Algirdaitis Polockietis su Kęstučiu ir Vytautu Kęstutaičiu puolė Perejeslavlį.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis Polockietis.md#claim-t-40019|Andrius Algirdaitis Polockietis]]: Andrius Algirdaitis Polockietis žuvo mūšyje, kuriame krito keliasdešimt žymių Lietuvos kunigaikščių.
@@ -544,6 +1176,7 @@ periodo_grupes:
 - susijęs iš [[objektai/asmenys/Nesselrodė.md#claim-t-40371|Nesselrodė]]: Maršalas Nesselrodė žuvo Pabaisko mūšyje, kuriame taip pat krito dauguma Livonijos komtūrų ir riterijos.
 - susijęs iš [[objektai/asmenys/Olegas (Riazanės kunigaikštis).md#claim-t-87808|Olegas (Riazanės kunigaikštis)]]: Riazanės kunigaikštis Olegas atkakliai prašė ir laidavo, kad Dmitrijus Kaributas būtų paleistas iš Vilniaus Aukštutinės pilies.
 - susijęs iš [[objektai/asmenys/Ostapas Kropotkovas.md#claim-t-190235|Ostapas Kropotkovas]]: Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuopelnus kare su totoriais.
+- susijęs iš [[objektai/asmenys/Ostapas Kropotkovas.md#claim-t-191967|Ostapas Kropotkovas]]: Ostapui Kropotkovui, kaip nurodė Narbutas, 1354 m. rugpjūčio 7 d. Vilniuje už nuopelnus kare su totoriais duotas herbas ir Podbužo dvaras Voluinėje.
 - susijęs iš [[objektai/asmenys/Simonas (Alšėnų kunigaikštis).md#claim-t-87574|Simonas (Alšėnų kunigaikštis)]]: 1432 m. rugsėjo 3 d. Švitrigaila pranešė, kad Žygimantas ir Alšėnų kunigaikštis Simonas užpuolė jo dvarą Ašmenoje.
 - susijęs iš [[objektai/asmenys/Simonas Lengvenis.md#claim-t-184825|Simonas Lengvenis (valdovas, XIV a.)]]: Paleidus kariuomenę Simonas Lengvenis grįžo į Mstislavlį.
 - susijęs iš [[objektai/asmenys/Sofija Vytautaitė.md#claim-t-79159|Sofija Vytautaitė]]: Sofijos Vytautaitės lankymasis su vaikais pas Vytautą Smolenske garantavo Maskvos didžiojo kunigaikščio Vasilijaus neutralumą.
@@ -554,11 +1187,13 @@ periodo_grupes:
 - susijęs iš [[objektai/asmenys/Vyguntas.md#claim-t-35340|Vyguntas]]: Vyguntas kartu su Jogailos motina Julijona ir broliais pritarė Jogailos sutarčių su Ordinais įsipareigojimams.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-10108|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Po Žalgirio pergalės 1410 m. ir 1411 m. Torunės taikos Žemaitija Vytautui ir Jogailai atiteko iki gyvos galvos, o Vytautas siekė ją susigrąžinti visam laikui kartu su Klaipėda ir visa Užnemune.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176677|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas dažnai paremdavo prieš Vokiečių ordino valdžią sukilusius žemaičius.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-190999|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Narbutas nurodo turėjęs Švitrigailos 1451 m. privilegijos nuorašą, kuriame pakartota 1439 m. Vytauto privilegija.
 - susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-114101|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: 1432 m. rugsėjo 23 d. Žygimantas Kęstutaitis leido Vilniaus miestiečiams prekiauti ir gabenti prekes be muitų Lietuvos žemėje.
 - susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-114106|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: Žygimantas Kęstutaitis Pabaisko mūšio lauke pastatė parapijos bažnyčią ir pavadino per jį tekantį upelį Viktorija.
 - susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-114107|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: Žygimantas Kęstutaitis Pabaisko pergalės atminimui mūšio lauką pavadino Pabaisku ir pastatė parapijos bažnyčią.
 - susijęs iš [[objektai/autoriai/August von Kotzebue.md#claim-t-87939|August von Kotzebue]]: Michałas Balińskis nesutiko su Kotzebue datavimu, kad minėtas įvykis nutiko tarp 1432 m. rugpjūčio 14 ir 28 d.
 - susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182788|Michał Baliński Mykolas Balinskis]]: Rodyklė apima įvadą ir M. Balinskio veikalo vertimą.
+- susijęs iš [[objektai/daiktai/Herbas.md#claim-t-192498|Herbas]]: Narbutas rašo, kad Algirdo privilegija patvirtino Ostapo Kropotkovo riterišką kilmę ir herbą, duotą su Podbužo dvaru Voluinėje.
 - susijęs iš [[objektai/daiktai/Iždo ir pilių raktai.md#claim-t-64929|Iždo ir pilių raktai]]: Dlugošo aprašymu, Vytautas prieš mirtį pavedė Lietuvą Jogailai ir liepė jam atiduoti iždo ir pilių raktus.
 - susijęs iš [[objektai/daiktai/Medžių užtvaros kelyje.md#claim-t-87087|Medžių užtvaros kelyje]]: Prie Strėvos upės žemaičių būriai prikirto medžių ir jais užvertė atsitraukiančios kariaunos kelią.
 - susijęs iš [[objektai/daiktai/Rittersverderio pilis ir laikini įtvirtinimai.md#claim-t-87034|Rittersverderio pilis ir laikini įtvirtinimai]]: Laikini įtvirtinimai buvo pastatyti iš statybai skirtų medžiagų, kad gintųsi, kol atvyks raiteliai.
@@ -590,6 +1225,7 @@ periodo_grupes:
 - susijęs iš [[objektai/ivykiai/Andriaus Algirdaičio maištas prieš Jogailą.md#claim-t-186723|Andriaus Algirdaičio maištas prieš Jogailą]]: Po Polocko užėmimo Andrius Algirdaitis buvo suimtas ir septynerius metus kalėjo Chencinų tvirtovėje Lenkijoje.
 - susijęs iš [[objektai/ivykiai/Andriaus Algirdaičio maištas prieš Jogailą.md#claim-t-186724|Andriaus Algirdaičio maištas prieš Jogailą]]: Per Andriaus Algirdaičio maištą Livonijos kryžiuočiai padėjo Andriui Algirdaičiui užimti Lukomlį.
 - susijęs iš [[objektai/ivykiai/Dmitrijaus Kaributo suėmimas ir įkalinimas Vilniaus Aukštutinėje pilyje.md#claim-t-86944|Dmitrijaus Kaributo suėmimas ir įkalinimas Vilniaus Aukštutinėje pilyje]]: Vytautas suėmė Seversko kunigaikštį Dmitrijų Kaributą ir su žmona bei vaikais uždarė jį Vilniaus Aukštutinėje pilyje.
+- susijęs iš [[objektai/ivykiai/Herbo suteikimas Ostapui Kropotkovui.md#claim-t-192037|Herbo suteikimas Ostapui Kropotkovui]]: 1354 m. rugpjūčio 7 d. Vilniuje Ostapui Kropotkovui buvo duotas herbas kartu su Podbužo dvaru Voluinėje.
 - susijęs iš [[objektai/ivykiai/Karo su Prūsija pradžia ir dvejų metų paliaubos per popiežiaus legatą.md#claim-t-185711|Karo su Prūsija pradžia ir dvejų metų paliaubos per popiežiaus legatą]]: Karo su Prūsija pradžioje lenkų ir lietuvių kariuomenės peržengė sienas ir įsiveržė į Prūsiją.
 - susijęs iš [[objektai/ivykiai/Kulikovo mūšis (1380 m. rugsėjo 8 d.).md#claim-t-86954|Kulikovo mūšis (1380 m. rugsėjo 8 d.)]]: Andrius Algirdaitis 1380 m. rugsėjo 8 d. Kulikovo lauke kovėsi prieš totorius ir daug prisidėjo prie pergalės.
 - susijęs iš [[objektai/ivykiai/Livonijos ordino reidas po šiaurės rytų Lietuvą.md#claim-t-186743|Livonijos ordino reidas po šiaurės rytų Lietuvą]]: Livonijos kariuomenės reidas 1433 m. sausio 30–vasario 9 d. ėjo per Linkmenų, Tauragnų, Utenos ir Užpalių valsčius.
@@ -729,6 +1365,7 @@ periodo_grupes:
 - susijęs iš Vilnius: Žygimantas po nesėkmingo Švitrigailos persekiojimo Ašmenoje tučtuojau užėmė Vilnių ir Trakus.
 - susijęs iš Vilnius: Po Vytauto mirties Švitrigaila atvyko į Vilnių anksčiau, negu mirė valdovas.
 - susijęs iš Vilnius: Vilniuje gauta žinia, kad Podolės bajorai atplėšė Podolę nuo Lietuvos ir perdavė ją Lenkijai.
+- susijęs iš Vilnius: Algirdo privilegijos nuoraše minimas Ostapui Kropotkovui suteiktas herbas buvo datuotas Vilniuje 1354 metų rugpjūčio 7 dieną.
 - susijęs iš Vintara: Kariuomenių išsidėstymą natūroje atitinka Vintaros, o ne Žirnajos, padėtis; Vintara yra dešinysis Žirnajos intakas, tekantis per dabartinį Pabaiską.
 - susijęs iš Vitebskas: Po Julijonos Algirdienės mirties Švitrigaila prieš Jogailos valią įsitvirtino Vitebske.
 - susijęs iš Vitebskas: Švitrigailos pajėgose buvo rytinių LDK slaviškų žemių, tarp jų Vitebsko, kariai.
@@ -758,6 +1395,8 @@ periodo_grupes:
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-184647|vietininkas]]: Karalius laikinai paskyrė Spiteką valdų vietininku.
 - susijęs iš [[objektai/zodynas/šinkorystė propinacija.md#claim-t-86561|šinkorystė propinacija]]: Žygimantas garantavo Vilniui pajamas iš šinkorystės, apėmusios vyno, midaus ir alaus smukles.
 - susijęs iš [[objektai/asmenys/Simonas (Alšėnų kunigaikštis).md#claim-t-87574|Simonas (Alšėnų kunigaikštis)]]: 1432 m. rugsėjo 3 d. Švitrigaila pranešė, kad Žygimantas ir Alšėnų kunigaikštis Simonas užpuolė jo dvarą Ašmenoje.
+- susijęs iš [[objektai/ivykiai/Herbo suteikimas Ostapui Kropotkovui.md#claim-t-192036|Herbo suteikimas Ostapui Kropotkovui]]: Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuopelnus kare su totoriais.
+- susijęs iš [[objektai/ivykiai/Herbo suteikimas Ostapui Kropotkovui.md#claim-t-192037|Herbo suteikimas Ostapui Kropotkovui]]: 1354 m. rugpjūčio 7 d. Vilniuje Ostapui Kropotkovui buvo duotas herbas kartu su Podbužo dvaru Voluinėje.
 - susijęs iš Moldova: Moldovos kunigaikščiai rėmė Švitrigailos šalininkus Podolėje, su kuriais kovojo Jogaila.
 - susijęs iš Vilnius: Vilnius tapo Žygimanto ir Švitrigailos grupuočių kovos taikiniu.
 - susijęs iš [[objektai/asmenys/Simonas (Alšėnų kunigaikštis).md#claim-t-87573|Simonas (Alšėnų kunigaikštis)]]: Alšėnų kunigaikštis Simonas prisidėjo prie Žygimanto žygio į Švitrigailos dvarą Ašmenoje.
@@ -780,8 +1419,9 @@ periodo_grupes:
     dėliai jam buvo atiduota valdyti Podolija, kaip Lenkijos žemė ir
     dar buvo pridėta ir kiti Rusijos plotai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -795,8 +1435,9 @@ periodo_grupes:
     pasiduoti. Po to jis buvo pasiųstas į Krokuvą Jogailai. Iš čia
     netrukus jis pabėgo į Vengriją.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-027
@@ -811,8 +1452,9 @@ periodo_grupes:
     vimą » Algirdaitis taip pat prisiekė pildyti Salyno sutarties sąly­
     gas^25.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
@@ -846,8 +1488,9 @@ periodo_grupes:
     VILNIAUS MIESTO ISTORIJA / TOMAS
     bandant nuversti naująjį Lietuvos valdovą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-038
@@ -864,8 +1507,9 @@ periodo_grupes:
     Bomannas, tikriausiai garsus pirklys, prekiavo su Gdans­
     ku8.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-039
@@ -883,6 +1527,7 @@ periodo_grupes:
     gandas, Švitrigaila ir daug lietuvių didikų. Tai buvo kaip ir
     pirmas Lietuvos krikšto aktas, atliktas Krokuvoje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -906,6 +1551,7 @@ periodo_grupes:
     das, dykai eikvotas, tad gavę progą pagiežą išlieti, atsigriebė
     nuteisdami jį pakarti kaip išdaviką.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -922,6 +1568,7 @@ periodo_grupes:
     reiškė savo pretenzijas į Lietuvą. Ramybės dėliai jam buvo pa­
     vesta valdyti Podolija.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -940,6 +1587,7 @@ periodo_grupes:
     nausiąs ir 1.1. Rašyta: Liksnoje, antrą savaitę po Viešpaties
     Prisikėlimo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -955,6 +1603,7 @@ periodo_grupes:
     Jogailos brolis Švitrigaila. Švitrigaila manė, kad mirus ku­
     nigaikštienei, Jogaila jį paskirs Vitebsko valdytoju.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -978,6 +1627,7 @@ periodo_grupes:
     nai grįžti į savo kraštą, taigi jie nepriėjo iki sostinės ir pen­
     kiolika dienų teplėšė Lietuvą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -996,6 +1646,7 @@ periodo_grupes:
     liaus Jogailos ir jo brolio, Lietuvos didžiojo
     kunigaikščio Švitrigailos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1029,6 +1680,7 @@ periodo_grupes:
     jų lygiai tokių pat galingų, kaip ir viena kitos nekenčiančių
     Žygimanto ir Švitrigailos grupuočių taikiniu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1049,6 +1701,7 @@ periodo_grupes:
     niekada Kryžiuočių ordinas neturėjo tokios įtakos Lietuvos
     reikalams, kaip tuomet.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1068,6 +1721,7 @@ periodo_grupes:
     tyti ir kas svarbiausia — užleidžia Ordinui pusę Žemaitijos:
     visą dešinį Dubysos krantą, nuo pat ištakos iki įtakos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1100,6 +1754,7 @@ periodo_grupes:
     kunigaikštį - nuskandinti, o metropolitą Gerasimą sudegi­
     no.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1118,6 +1773,7 @@ periodo_grupes:
     buvo ten, kur jisai sėdėjo nelaisvėje). Žudė dargi ir kapojo
     visus, kas tik jų kelyje pasitaikydavo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1176,6 +1832,7 @@ periodo_grupes:
     dėl šių staigių permainų ir abipusių karinių gaudynių, atro­
     do, bus vėl patyręs nesėkmių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1198,6 +1855,7 @@ periodo_grupes:
     iki tol niekam nepatvirtino Magdeburgo teisių, juo labiau
     nesuteikė naujų dovanojimų12.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1222,6 +1880,7 @@ periodo_grupes:
     pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos
     ir rusų miestų, su kuriais buvo prekiaujama nuo seno.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1243,6 +1902,7 @@ periodo_grupes:
     sergėjo, kad dviejų neseniai susijungusių tautų vienybė vis
     labiau silpnėtų ir tarp brolių tvyrotų nesantarvė7.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1262,6 +1922,7 @@ periodo_grupes:
     turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­
     čio dvare9.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1286,6 +1947,7 @@ periodo_grupes:
     tu buvo palaidoti nelaimėlio jo sūnaus ir bendrininko kuni­
     gaikščio Mykolo palaikai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1306,6 +1968,7 @@ periodo_grupes:
     laisvę. Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­
     gaikščiu Jurgiu, išvengė sutriuškinimo21.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1328,6 +1991,7 @@ periodo_grupes:
     bei svarbiu patarėju tapęs Hanulis. O Julijona ir kunigaikščio
     taryba tėra paminėta Žemaičių dovanojimo dokumente.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1347,6 +2011,7 @@ periodo_grupes:
     Kovai prieš Ordiną Lenkija suartėjo
     su Čekijos husitais.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1376,6 +2041,7 @@ periodo_grupes:
     la ir kitos žinios iš šio laiško iki šiol istorijoje nebuvo mini­
     mos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1392,6 +2058,7 @@ periodo_grupes:
     kęsti ambicingas ir neramaus būdo Švitrigaila ir pakėlė mai­
     štą: užmušė Feodorą Vesną ir pats ėmė valdyti Vitebską.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1413,6 +2080,7 @@ periodo_grupes:
     Jogaila su visa savo palyda buvo įkalintas pilyje ir daugybės
     kareivių saugojamas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1442,6 +2110,7 @@ periodo_grupes:
     Copia
     Minen Willigk en Horsam to voren.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1462,6 +2131,7 @@ periodo_grupes:
     nus, turėjo pirmenybę į Lietuvos d. kunigaikščio sostą: Vy­
     tautas tos pirmenybės neturėjo, jis tik ją išsikovojo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1478,6 +2148,7 @@ periodo_grupes:
     Tuo pačiu metu Švitrigaila vėl pabėgo iš Lietuvos. Šį kartą jau į
     Maskvą, o paskui pas totorius, iš čia — pas Ordiną.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1513,6 +2184,7 @@ periodo_grupes:
     mat Vytauto geradariška globa gaubė visus, nieko neišskiriant,
     vienijo visus žmones ir įvairius tikėjimus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1539,6 +2211,7 @@ periodo_grupes:
     netoli Ukmergės užbaigė šių dviejų, Lietuvai gal vienodai
     pragaištingų konkurentų, varžybas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1554,6 +2227,7 @@ periodo_grupes:
     išaugusi didikų ir bajorų generacija vedė vad. «separatistinę » poli­
     tiką Kazimiero laikais.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1573,6 +2247,7 @@ periodo_grupes:
     tai Vilniui atmintini dar ir dėl pilies kalno smarkios griūties
     bei alpių karščių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1593,6 +2268,7 @@ periodo_grupes:
     nėse LDK žemėse tarp Lenkijos karaliaus ir
     Švitrigailos šalininkų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1616,6 +2292,7 @@ periodo_grupes:
     šomis ėmė rengtis kariauti; sutelkęs rusų kariuomenę,
     jis ketino pulti Vilnių ir Vytautą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1647,6 +2324,7 @@ periodo_grupes:
     vienu metu padegti medines abiejų pilių įtvirtinimų
     dalis.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1670,6 +2348,7 @@ periodo_grupes:
     kryžiuočių magistrus prieš
     Vytautą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1697,6 +2376,7 @@ periodo_grupes:
     tuvą bei Žemaitiją, naudos turi tiktai kryžiuočiai, tuo
     tarpu jis pats lieka kaip buvęs nuskurdęs tremtinys.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1718,11 +2398,1001 @@ periodo_grupes:
     su
     sija.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-050
+
+- c-043
+  santrauka: 'Švitrigailos 1451 m. vasario 18 d. Lucke datuota privilegija, Narbuto teigimu, pakartojo Vytauto privilegiją ir atnaujino Algirdo privilegiją.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Neseckiui šis herbas, pavadintas Kru-
+    nevičiaus vardu, yra žinomas. Rankoje turiu nuorašą Švitrigailos
+    privilegijos, datuotos Lucke 1451 metų vasario 18 dieną, kuria jis
+    pakartoja 1439 metų kovo 3 dienos Vytauto privilegiją, taip pat
+    atnaujina Algirdo privilegiją (nuorašas), kuria patvirtinama rite­
+    riška kilmė ir herbas raudoname lauke: ryšulys strėlių, tris kartus
+    kryžmai perjuostų auksine juosta, o iš abiejų pusių du pusmėnu­
+    liai, žiūrintys vienas j kitą, ant šalmo— riterio kepurė, o abipus du
+    erelio sparnai. Herbas buvo duotas Ostapui Kropotkovui kartu su
+    Podbužo dvaru Voluinėje už nuopelnus kare su totoriais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-051
+
+- c-044
+  santrauka: 'O sekančiais metais2 2 iš Moldavijos atvyko kuni gaikštis Švitrigaila, didžiojo kunigaikščio Kazimiero dėdė, kuris, pabėgęs nuo kunigaikščio Žygimanto, sep tynerius metus išgyveno Moldavijoje, ganydamas avis2 3 .'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Ir didysis kunigaikštis Kazimieras, Tarybos
+    ponams užtarus, sugrąžino jam Kijevą2 1 , jo tėvoniją,
+    su visais Kijevo priemiesčiais.
+    O sekančiais metais2 2  iš Moldavijos atvyko kuni­
+    gaikštis Švitrigaila, didžiojo kunigaikščio Kazimiero
+    dėdė, kuris, pabėgęs nuo kunigaikščio Žygimanto, sep­
+    tynerius metus išgyveno Moldavijoje, ganydamas
+    avis2 3 . Ir kunigaikštis Kazimieras sutiko jį maloniai, su
+    didžia pagarba, ir davė jam ligi gyvos galvos Lucką su
+    visa Volynės žeme u .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-052
+
+## Citatos
+
+- id: c-14091
+  citata_originali: |
+    Tą Vytauto pralaimėjimą pajuto ir neramusis Švitrigaila.
+    Skubinos ir jis pareikšti savo pretenzijų į Lietuvą. Ramybės
+    dėliai jam buvo atiduota valdyti Podolija, kaip Lenkijos žemė ir
+    dar buvo pridėta ir kiti Rusijos plotai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179688
+
+- id: c-16101
+  citata_originali: |
+    Švitrigaila susilaukė pagalbos ir iš Smo­
+    lensko. Dėl to Vitebsko paėmimas kiek užtruko. Bet Švitri­
+    gaila vis dėlto buvo priverstas iki žemės Vytautui nusilenkti ir
+    pasiduoti. Po to jis buvo pasiųstas į Krokuvą Jogailai. Iš čia
+    netrukus jis pabėgo į Vengriją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179716
+
+- id: c-30378
+  citata_originali: |
+    Ordinas vėl susirado talkininkų tarp pačių lietuvių kunigaikš­
+    čių. Kaip anksčiau jis buvo globojęs Jogailos priešą Vytautą, taip
+    1402 m. pradžioje Marienburge priglaudė Vytauto priešą, iš Podo­
+    lės pabėgusį jo jauną pusbrolį Švitrigailą. Už «tėviškės atkaria­
+    vimą » Algirdaitis taip pat prisiekė pildyti Salyno sutarties sąly­
+    gas^25.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179695
+
+- id: c-163353
+  citata_originali: |
+    Juk
+    tas didis žmogus mėgo tvarką ir krašte jos reikalaudavo, glo­
+    bojo pirklius, ir prekyba Vilniuje jau plačiai išsišakojo - su
+    Prūsijos bei Livonijos miestais, su Pskovu, Naugardu ir Mask­
+    va, o naudodamasi galingo monarcho parama, jau pasiekė ir
+    tolimus kraštus, bet jai trukdydavo dažni karai: ir, regis, Vil­
+    nius savo dydžiu ir turtais nepasiekė tokių aukštumų, iki ko­
+    kių turėjo išaugti būdamas tokios didelės valstybės sostinė.
+    Esant karinei valdžiai, viešpataujant valdovams, besirūpinan­
+    tiems vien nukariavimais ir, po teisybei, naujos monarchijos
+    kūrimu, toje sumaištyje, kuri anuomet dar tvyrojo šiaurės
+    kraštuose, kai barbariškumas lėtai ir sunkiai traukėsi, įveik­
+    tas Kristaus tikėjimo šviesos, miestai tikrai dar negalėjo su­
+    klestėti!
+    Dar neįsitvirtinus savo soste Vytautui, kitas karaliaus Jo­
+    gailos brolis, Švitrigaila, dėl ano iškėlimo nuoskaudą paju­
+    tęs, išvyko pas kryžiuočius - visų rezgamų pinklių ir pasikė­
+    sinimų prieš Lenkiją ir Lietuvą židinį, ieškodamas pagalbos
+    -- • --
+    135
+
+    ## Puslapis 152
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    bandant nuversti naująjį Lietuvos valdovą.
+  citata_rodoma: "Dar neįsitvirtinus savo soste Vytautui, kitas karaliaus Jo­\ngailos brolis, Švitrigaila, dėl ano iškėlimo nuoskaudą paju­\ntęs, išvyko pas kryžiuočius - visų rezgamų pinklių ir pasikė­\nsinimų prieš Lenkiją ir Lietuvą židinį, ieškodamas pagalbos\n-- • --\n135\n\n## Puslapis 152\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nbandant nuversti naująjį Lietuvos valdovą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179727
+    - t-179732
+
+- id: c-163354
+  citata_originali: |
+    Livonija vis glaudžiau šliejosi prie
+    Prūsijos. Per itin galingas Švitrigailos sąjungas radosi di­
+    desnis pasitikėjimas, o prekyba išsiplėtė net iki atokiausių
+    Vokietijos žemių. Valdant Švitrigailai, Vilniaus miestietis
+    Bomannas, tikriausiai garsus pirklys, prekiavo su Gdans­
+    ku8.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179728
+
+- id: c-163355
+  citata_originali: |
+    Vytautas Jogailos krikšto metu pada­
+    rė katalikų tikėjimo išpažinimą, t. y., atnaujino savo pirmykštį
+    krikštą, priimdamas naują Aleksandro vardą, nes tuo laiku, kai
+    susitaikė su Jogaila ir skyrėsi su Ordinu, Jogailos verčiamas
+    buvo priėmęs stačiatikių tikėjimą^2 ). Kartu su Jogaila ir Vy­
+    tautu priėmė katalikų tikėjimą Jogailos broliai Karigaila, Vy­
+    gandas, Švitrigaila ir daug lietuvių didikų. Tai buvo kaip ir
+    pirmas Lietuvos krikšto aktas, atliktas Krokuvoje.
+  citata_rodoma: ", atnaujino savo pirmykštį\nkrikštą, priimdamas naują Aleksandro vardą, nes tuo laiku, kai\nsusitaikė su Jogaila ir skyrėsi su Ordinu, Jogailos verčiamas\nbuvo priėmęs stačiatikių tikėjimą^2 ). Kartu su Jogaila ir Vy­\ntautu priėmė katalikų tikėjimą Jogailos broliai Karigaila, Vy­\ngandas, Švitrigaila ir daug lietuvių didikų. Tai buvo kaip ir\npirmas Lietuvos krikšto aktas, atliktas Krokuvoje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179703
+    - t-179687
+
+- id: c-163356
+  citata_originali: |
+    Tad pasiuntęs vieną iš saviškių, kuris apsukriai
+    sugebėjo prasigauti į pilis, įkalbėjo tuos „čiornus", kad pa­
+    degtų du medinius bokštus tuo metu, kai jis pradės ataką;
+    manė taip lengviau užimsiąs tvirtovę. Tačiau veltui Švit­
+    rigaila ėmėsi tos suktybės; mat vienas vienuolis, kuriam
+    buvo patikėta paslaptis, ją išdavė pilies įgulos vadui, tad
+    ir šį kartą visos pastangos užimti Vilnių nuėjo perniek, o
+    Švitrigaila su didžiuoju magistru turėjo nutraukti apgul­
+    tį54. Vienas tik Sudimantas, lietuvių vadas, sučiuptas per
+    puolimą, tapo tarsi koks atpildas prūsams už triūsą ir išlai­
+    das, dykai eikvotas, tad gavę progą pagiežą išlieti, atsigriebė
+    nuteisdami jį pakarti kaip išdaviką.
+  citata_rodoma: "Tačiau veltui Švit­\nrigaila ėmėsi tos suktybės; mat vienas vienuolis, kuriam\nbuvo patikėta paslaptis, ją išdavė pilies įgulos vadui, tad\nir šį kartą visos pastangos užimti Vilnių nuėjo perniek, o\nŠvitrigaila su didžiuoju magistru turėjo nutraukti apgul­\ntį54. Vienas tik Sudimantas, lietuvių vadas, sučiuptas per\npuolimą, tapo tarsi koks atpildas prūsams už triūsą ir išlai­\ndas, dykai eikvotas, tad gavę progą pagiežą išlieti, atsigriebė\nnuteisdami jį pakarti kaip išdaviką."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179719
+    - t-179697
+
+- id: c-163357
+  citata_originali: |
+    Vytauto pralaimėjimas ties Vorskla buvo baisus, sukrėtęs jo
+    likimą iš pamatų: jo galybė sumažėjo ir Lietuvoj ir Rusijoj. Tą
+    Vytauto susilpnėjimą pajutęs neramusis Švitrigaila, tuojau pa­
+    reiškė savo pretenzijas į Lietuvą. Ramybės dėliai jam buvo pa­
+    vesta valdyti Podolija.
+  citata_rodoma: "Tą\nVytauto susilpnėjimą pajutęs neramusis Švitrigaila, tuojau pa­\nreiškė savo pretenzijas į Lietuvą. Ramybės dėliai jam buvo pa­\nvesta valdyti Podolija."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179693
+
+- id: c-163359
+  citata_originali: |
+    Livoniae)
+    TI, p. 132, N 518.
+    Dinaburgo komtūras praneša Livonijos magistrui, kad
+    Švitrigaila, išleistas iš nelaisvės, vėl traukia į mūšio lauką;
+    kad Pilies kalną Vilniuje ištiko griūtis; kad vienas Vengrijos
+    kunigaikštis su 700 raitelių pulku pasiskelbė Vytautui tar­
+    nausiąs ir 1.1. Rašyta: Liksnoje, antrą savaitę po Viešpaties
+    Prisikėlimo.
+  citata_rodoma: "Dinaburgo komtūras praneša Livonijos magistrui, kad\nŠvitrigaila, išleistas iš nelaisvės, vėl traukia į mūšio lauką;\nkad Pilies kalną Vilniuje ištiko griūtis; kad vienas Vengrijos\nkunigaikštis su 700 raitelių pulku pasiskelbė Vytautui tar­\nnausiąs ir 1.1. Rašyta: Liksnoje, antrą savaitę po Viešpaties\nPrisikėlimo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179706
+    - t-179730
+
+- id: c-163360
+  citata_originali: |
+    Ten viešpatavo kunigaikš­
+    tienė Julijona, Algirdo žmona. Pas ją buvo apsigyvenęs ir
+    Jogailos brolis Švitrigaila. Švitrigaila manė, kad mirus ku­
+    nigaikštienei, Jogaila jį paskirs Vitebsko valdytoju.
+  citata_rodoma: "Pas ją buvo apsigyvenęs ir\nJogailos brolis Švitrigaila. Švitrigaila manė, kad mirus ku­\nnigaikštienei, Jogaila jį paskirs Vitebsko valdytoju."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179721
+
+- id: c-163361
+  citata_originali: |
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    bandant nuversti naująjį Lietuvos valdovą. Prūsijos ordi­
+    nas iš sykio griebėsi tos patogios progos pradėti karą ir nio­
+    koti tuos pavojingus jam kaimynus (1394 m.); kitais metais
+    Švitrigaila, kryžiuočių pulku vedinas, kartu su didžiuoju ma­
+    gistru Konradu Jungingenu įsibrovė į Lietuvą ir, nusiaubę
+    prie Gardino panemunės pavietus, sudegino Drohičiną, Nau­
+    garduką, Mirą ir Lydą, paėmė 2 200 belaisvių, 1 400 žirgų ir
+    prisiplėšė daugybę grobio, niekur nesutikę pasipriešinimo,
+    net iki Šalčininkų nusigavo51. Visa tai vyko žiemos pabaigo­
+    je, tik staigus atodrėkis privertė vokiečių kariuomenę skubi­
+    nai grįžti į savo kraštą, taigi jie nepriėjo iki sostinės ir pen­
+    kiolika dienų teplėšė Lietuvą.
+  citata_rodoma: "Prūsijos ordi­\nnas iš sykio griebėsi tos patogios progos pradėti karą ir nio­\nkoti tuos pavojingus jam kaimynus (1394 m.); kitais metais\nŠvitrigaila, kryžiuočių pulku vedinas, kartu su didžiuoju ma­\ngistru Konradu Jungingenu įsibrovė į Lietuvą ir, nusiaubę\nprie Gardino panemunės pavietus, sudegino Drohičiną, Nau­\ngarduką, Mirą ir Lydą, paėmė 2 200 belaisvių, 1 400 žirgų ir\nprisiplėšė daugybę grobio, niekur nesutikę pasipriešinimo,\nnet iki Šalčininkų nusigavo51. Visa tai vyko žiemos pabaigo­\nje, tik staigus atodrėkis privertė vokiečių kariuomenę skubi­\nnai grįžti į savo kraštą, taigi jie nepriėjo iki sostinės ir pen­\nkiolika dienų teplėšė Lietuvą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179715
+
+- id: c-163362
+  citata_originali: |
+    Tuo
+    tarpu Lenkija klasta užėmė LDK pavaldume
+    buvusias pietines derlingąsias Podolės
+    žemes. Tuo pasipiktino „visi lietuviai“, kilo
+    didžiulė įtampa. 1430 m. lapkričio 7 d. buvo
+    sudarytos paliaubos tarp Lenkijos kara-
+    liaus Jogailos ir jo brolio, Lietuvos didžiojo
+    kunigaikščio Švitrigailos.
+  citata_rodoma: "1430 m. lapkričio 7 d. buvo\nsudarytos paliaubos tarp Lenkijos kara-\nliaus Jogailos ir jo brolio, Lietuvos didžiojo\nkunigaikščio Švitrigailos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179724
+
+- id: c-163363
+  citata_originali: |
+    Tačiau ši jo žmo­
+    na Sofija, Tverės kunigaikščio Bori­
+    so duktė, vėliau pateko Žygimanto
+    galion; nes popiežius Eugenijus IV
+    užtarė ją laiške Žygimantui Kęstu-
+    taičiui, rašytame iš Florencijos 1434
+    metų spalio 20 dieną.
+    216
+
+    ## Puslapis 233
+
+    I I I  KNYGA
+    degė padegta gal Švitrigailos kariuomenės, o gal ir pačių
+    miestiečių17.0 Švitrigaila, nusigavęs į Polocką, ten įkūrė iršt­
+    vą, iš kurios beveik 6 metus po visas Lietuvos šalis tolydžio
+    sklido įnirtingi vaidai, nesiliaujantys puldinėjimai ir pilieti­
+    nis karas, ir anoji Lietuvos valstybė, Vytauto laikais pasie­
+    kusi tokios didžios galybės, alinama jo įpėdinių niekšybių
+    ir barbariškumo, nuo to laiko pradėjo smukti. Vilnius, drau­
+    ge su visu kraštu patyręs likimo išbandymus, vėl tapo dvie­
+    jų lygiai tokių pat galingų, kaip ir viena kitos nekenčiančių
+    Žygimanto ir Švitrigailos grupuočių taikiniu.
+  citata_rodoma: "216\n\n## Puslapis 233\n\nI I I  KNYGA\ndegė padegta gal Švitrigailos kariuomenės, o gal ir pačių \nmiestiečių17.0 Švitrigaila, nusigavęs į Polocką, ten įkūrė iršt­\nvą, iš kurios beveik 6 metus po visas Lietuvos šalis tolydžio \nsklido įnirtingi vaidai, nesiliaujantys puldinėjimai ir pilieti­\nnis karas, ir anoji Lietuvos valstybė, Vytauto laikais pasie­\nkusi tokios didžios galybės, alinama jo įpėdinių niekšybių \nir barbariškumo, nuo to laiko pradėjo smukti. Vilnius, drau­\nge su visu kraštu patyręs likimo išbandymus, vėl tapo dvie­\njų lygiai tokių pat galingų, kaip ir viena kitos nekenčiančių \nŽygimanto ir Švitrigailos grupuočių taikiniu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179733
+
+- id: c-163364
+  citata_originali: |
+    Tik tada Švitrigaila
+    energingai ėmėsi taikos reikalų; į Vilnių iš Didžiojo Naugardo
+    pasiųsti bojarinai - Ivanas Jermoliničius ir Chariničius - pir­
+    momis vasario dienomis sudarė su juo sutartį, kuria buvo ga­
+    rantuojama abipusis saugumas ir prekybos laisvė6. Anų laikų
+    Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo
+    pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos
+    ir rusų miestų, su kuriais buvo prekiaujama nuo seno. Dar
+    niekada Kryžiuočių ordinas neturėjo tokios įtakos Lietuvos
+    reikalams, kaip tuomet.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179718
+
+- id: c-163365
+  citata_originali: |
+    Dar didesnio Lietuvos nuovargio liudijimas yra 1382 mt.,
+    po Kęstučio mirties, Jogailos įgaliotinių (Skirgailos ir Hanu­
+    lono) Dubysos įtakoje padarytieji trijų atskirų sutarčių aktai.
+    Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas
+    motinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­
+    gunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais
+    taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­
+    tyti ir kas svarbiausia — užleidžia Ordinui pusę Žemaitijos:
+    visą dešinį Dubysos krantą, nuo pat ištakos iki įtakos.
+  citata_rodoma: "Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas\nmotinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­\ngunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais\ntaikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­\ntyti ir kas svarbiausia — užleidžia Ordinui pusę Žemaitijos:\nvisą dešinį Dubysos krantą, nuo pat ištakos iki įtakos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179710
+    - t-179700
+
+- id: c-163367
+  citata_originali: |
+    Šiuos pirmuosius Žygimanto potvarkius Vytauto soste
+    nutraukė ketinantis grįžti Švitrigaila. Jis, remiamas Livoni­
+    jos magistro ir totorių, vėl užėmė Ašmeną ir vos per septy­
+    netą mylių priartėjo prie Vilniaus. Netrukus, 1432 metų ru­
+    denį, ties šiuo miestu įvyko Žygimanto ir Švitrigailos
+    kariaunų susirėmimas, kuris daug atsiėjo abiem, bet antra-
+    19
+    Abi šios privilegijos yra minimos
+    D u b i n s k i o, 1. 2, 3.
+    218
+
+    ## Puslapis 235
+
+    I I I  KNYGA
+    jam vis dėlto atnešė šiokios tokios naudos. Abu jie niokojo
+    kraštą ir liejo jiems nepalankių gyventojų kraują. Švitrigai­
+    la, apsvaigintas laikinos sėkmės, sugavęs Alšėnų kunigaikštį,
+    įsakė jį Vitebske nuo aukšto skardžio įmesti į Dviną, kitą
+    kunigaikštį - nuskandinti, o metropolitą Gerasimą sudegi­
+    no.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179726
+
+- id: c-163369
+  citata_originali: |
+    Kilmin-
+    gasai ir malonusis magistrė, žinokite, kad buvau pasiun­
+    tęs iš Liksnos į Lietuvą Petrą viską susižinoti. Jis dabar
+    grįžęs man pranešė, kad Švitrigaila yra laisvėje, ir kad bu­
+    vo čionai du kunigaikščiu su žmonių pajėgomis, ir pasta­
+    rieji išpjovė visus aną saugojusius (užmušė visus, kurie
+    buvo ten, kur jisai sėdėjo nelaisvėje). Žudė dargi ir kapojo
+    visus, kas tik jų kelyje pasitaikydavo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179698
+
+- id: c-163371
+  citata_originali: |
+    Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu­
+    rėdamas prie savęs tiktai nedidelę sargybą, o tuo metu Žy­
+    gimantas, susijungęs su Alšėnų kunigaikščiu Simonu, Nau­
+    garduko vaivada Petrašu Montgirdaičiu, Vilniaus vaivada
+    Goštautu ir daugeliu kitų bajorų, galingos kariuomenės
+    13
+    Tą patvirtina Slaptajame Karaliau­
+    čiaus archyve esantis Švitrigailos
+    laiškas, rašytas iš Vilniaus didžiajam
+    magistrui 1432 metų sausio 5 dieną.
+    Jame rašo, kad, gavęs laišką nuo ka­
+    raliaus, pastarasis išlaisvinęs Ram-
+    poldą ir Gastoldą ir jam atidavęs, ti­
+    kisi netrukus galėsiąs tą patį
+    didžiajam magistrui pranešti apie
+    landmaršalką bei kitus belaisvius,
+    kadangi jo pasiuntinys juos matęs
+    laisvus ir pietus su karaliumi val­
+    gančius pirmąją dieną. Žr. Kotze­
+    bue Switrig., p. 6 9 .
+    14
+    Dabartinė Ašmena, Vilniaus guber­
+    nijos apskrities miestas, nutolęs nuo
+    Vilniaus per 7 mylias, anais laikais
+    tebuvo kaimas, kitados išaugęs ša­
+    lia kunigaikščio dvaro, dabar Staros-
+    cino.-O pats miestas buvęs ten, kur
+    dabar stovi pranciškonų vienuoly­
+    nas bei mažas kaimelis, priklausan­
+    tis vienuolynui, čia pat, už dabarti­
+    nio miesto, vadinamas Senąja
+    Ašmena. Švitrigailos dvaras stovėjo
+    kaip tik toje vietoje, kur ir dabarti­
+    nis dvaras.
+    —  • —
+    215
+
+    ## Puslapis 232
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    priekyje skubiai ir slapčiomis nužygiavęs į Ašmeną, apie
+    rugpjūčio 28-ą įžūliai įsiveržė į Švitrigailos dvarą15, bet ten
+    jo jau nerado, nes šis, ką tik įspėtas Trakų vaivados Manvy-
+    do, lydimas kelių totorių vadų, išsigelbėjo pabėgdamas. Žy­
+    gimantas tučtuojau užėmė Vilnių ir Trakus16, taigi Vilnius
+    dėl šių staigių permainų ir abipusių karinių gaudynių, atro­
+    do, bus vėl patyręs nesėkmių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179712
+
+- id: c-163373
+  citata_originali: |
+    Pagaliau mone­
+    tų kalykla, Vilniuje įkurta Jogailos, Švitrigailos valdymo me­
+    tais energingai darbavosi, kaldama lietuviškus grašius ir
+    pusgrašius11. Vis dėlto, be šių prekybinių ryšių naudos ir prie­
+    lankumo, kurio Švitrigaila berods negailėjo šiai savo krašto
+    pramonės šakai, jo valdžia nežadėjo Lietuvos ateičiai nieko
+    gera. Kupinas neapykantos Jogailai ir lenkams, įsipainiojęs
+    į kryžiuočių intrigas, per savo nežabotą būdą nepaisantis
+    jokių teisių ir savo valią primetantis kiekvienam įstatymui,
+    iki tol niekam nepatvirtino Magdeburgo teisių, juo labiau
+    nesuteikė naujų dovanojimų12.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179729
+
+- id: c-163374
+  citata_originali: |
+    Volumes gyventojai, jausdami karaliui anti­
+    patiją dėl trukdymo laisvai išpažinti savo tikėjimą ir dėl rusų
+    apeigų cerkvių pakeitimo katalikiškomis bažnyčiomis, anaip­
+    tol nebuvo palankūs lenkams, o Švitrigailai šis žygis buvo ga­
+    nėtinai sėkmingas, taigi karalius, negalėdamas nieko jam pa­
+    tarti, sudarė su juo ilgalaikes paliaubas. Tik tada Švitrigaila
+    energingai ėmėsi taikos reikalų; į Vilnių iš Didžiojo Naugardo
+    pasiųsti bojarinai - Ivanas Jermoliničius ir Chariničius - pir­
+    momis vasario dienomis sudarė su juo sutartį, kuria buvo ga­
+    rantuojama abipusis saugumas ir prekybos laisvė6. Anų laikų
+    Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo
+    pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos
+    ir rusų miestų, su kuriais buvo prekiaujama nuo seno.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179707
+
+- id: c-163375
+  citata_originali: |
+    Anų laikų
+    Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo
+    pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos
+    ir rusų miestų, su kuriais buvo prekiaujama nuo seno. Dar
+    niekada Kryžiuočių ordinas neturėjo tokios įtakos Lietuvos
+    reikalams, kaip tuomet. Didžiojo kunigaikščio dvare knibž­
+    dėjo beveik vieni vokiečiai, ir didysis magistras gudriai su­
+    gebėjo apstatyti Švitrigailą savo parankiniais, kurie akylai
+    sergėjo, kad dviejų neseniai susijungusių tautų vienybė vis
+    labiau silpnėtų ir tarp brolių tvyrotų nesantarvė7.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179696
+
+- id: c-163376
+  citata_originali: |
+    Per itin galingas Švitrigailos sąjungas radosi di­
+    desnis pasitikėjimas, o prekyba išsiplėtė net iki atokiausių
+    Vokietijos žemių. Valdant Švitrigailai, Vilniaus miestietis
+    Bomannas, tikriausiai garsus pirklys, prekiavo su Gdans­
+    ku8. Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­
+    no žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o
+    turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­
+    čio dvare9.
+  citata_rodoma: "Per itin galingas Švitrigailos sąjungas radosi di­\ndesnis pasitikėjimas, o prekyba išsiplėtė net iki atokiausių\nVokietijos žemių. Valdant Švitrigailai, Vilniaus miestietis\nBomannas, tikriausiai garsus pirklys, prekiavo su Gdans­\nku8. Silezijos, o ypač Vroclavo (1432 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179701
+
+- id: c-163377
+  citata_originali: |
+    226
+
+    ## Puslapis 243
+
+    III KNYGA
+    kilmės primindavo žmogiškosios didybės laikinumą. 1452
+    metų vasarį Švitrigaila, kurio audringas ir nelaimingas gy­
+    venimas buvo sudrumstęs pusę Europos, vienus papiktin­
+    damas, kitiems keldamas gailestį, užbaigė savo klajokliškas
+    dienas Lucke, o jo kūnas buvo perkeltas į protėvių kapą Vil­
+    niaus katedroje. Greta jo, stebėtina lemties valia, tuo pat me­
+    tu buvo palaidoti nelaimėlio jo sūnaus ir bendrininko kuni­
+    gaikščio Mykolo palaikai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179704
+
+- id: c-163379
+  citata_originali: |
+    Čia
+    žuvo daugybė livoniečių, tarp jų - Frankas Kirskorffas, Ka­
+    lavijuočių riterių ordino magistras. Priešininkas, persekio­
+    jamas nugalėtojų, naują nesėkmę patyrė brastoje per Šven­
+    tosios upę ties Ukmerge, kur buvo nuskandinta labai daug
+    jo kareivių. Čekų ir Silezijos savanorių vadai ir, gražiausia,
+    Jaroslavas Lingumas*, Mstislavlio kunigaikštis, pateko į ne­
+    laisvę. Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­
+    gaikščiu Jurgiu, išvengė sutriuškinimo21.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179702
+
+- id: c-163380
+  citata_originali: |
+    Kaip kita­
+    dos Mindaugas už Livonijos ordino paslaugas turėjo išdavinėti
+    donacinius dokumentus, taip Jogaila Prūsų kryžiuočiams už ordino
+    « draugiškumą, patarimus, pagalbą, darbą ir įvairų triūsą » turėjo
+    užleisti jam visą Žemaičių plotą tarp abiejų ordino valdų — t. y.
+    Livonijos ir Prūsų—-ligi Dubysos upės. Visose trijose Jogailos ir
+    Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi
+    kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas,
+    Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs
+    bei svarbiu patarėju tapęs Hanulis. O Julijona ir kunigaikščio
+    taryba tėra paminėta Žemaičių dovanojimo dokumente.
+  citata_rodoma: "Visose trijose Jogailos ir\nSlorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi\nkiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas,\nKarigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs\nbei svarbiu patarėju tapęs Hanulis. O Julijona ir kunigaikščio\ntaryba tėra paminėta Žemaičių dovanojimo dokumente."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179723
+
+- id: c-163381
+  citata_originali: |
+    Lenkijos valdantieji sluoksniai Švitrigailai
+    siūlė net Lenkijos vainiką arba valdyti
+    Lietuvą, bet ryšyje su Lenkija. Švitrigaila
+    siekė visiško savarankiškumo ir palaikė
+    ryšį su Ordinu.
+
+    Kovai prieš Ordiną Lenkija suartėjo
+    su Čekijos husitais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179720
+
+- id: c-163382
+  citata_originali: |
+    (Iš originalo Karaliaučiaus Slaptajame Archyve)
+    Adresas toks: „Dėmė Erwerdighen Meister to Lyfflande
+    mit Werdicheit kome desse Breef dorch dach und nacht sun­
+    der alle sümen B." (Didžiai gerbiamam Livonijos magistrui
+    šis laiškas turi būti tikrai ir nedelsiant atiduotas).
+    Mūsų nuomonę apie šio laiško senumą patvirtina ne tik
+    jo pobūdis, bet ir ta užuomina apie Švitrigailos paėmimą
+    162
+
+    ## Puslapis 179
+
+    Il KNYGA
+    neleidžia manyti buvus kitus metus, juk kaip tik tuo laiku
+    Vytautas su Smolensko pulkais Švitrigailos ir Livonijos už­
+    imtą Vitebską po keturių savaičių apgulties atgavo ir patį
+    Švitrigailą paėmė į nelaisvę. Kaip buvo išvaduotas Švitrigai­
+    la ir kitos žinios iš šio laiško iki šiol istorijoje nebuvo mini­
+    mos.
+  citata_rodoma: "\" (Didžiai gerbiamam Livonijos magistrui \nšis laiškas turi būti tikrai ir nedelsiant atiduotas).\nMūsų nuomonę apie šio laiško senumą patvirtina ne tik \njo pobūdis, bet ir ta užuomina apie Švitrigailos paėmimą\n162\n\n## Puslapis 179\n\nIl KNYGA\nneleidžia manyti buvus kitus metus, juk kaip tik tuo laiku \nVytautas su Smolensko pulkais Švitrigailos ir Livonijos už­\nimtą Vitebską po keturių savaičių apgulties atgavo ir patį \nŠvitrigailą paėmė į nelaisvę. Kaip buvo išvaduotas Švitrigai­\nla ir kitos žinios iš šio laiško iki šiol istorijoje nebuvo mini­\nmos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179714
+
+- id: c-163383
+  citata_originali: |
+    Švitrigaila manė, kad mirus ku­
+    nigaikštienei, Jogaila jį paskirs Vitebsko valdytoju.
+    Bet taip neįvyko, nes 1392 m. mirus kunigaikštienei Julijonai,
+    Jogaila pasodino į jos vietą Feodorą Vesną. To negalėjo pa­
+    kęsti ambicingas ir neramaus būdo Švitrigaila ir pakėlė mai­
+    štą: užmušė Feodorą Vesną ir pats ėmė valdyti Vitebską.
+  citata_rodoma: "To negalėjo pa­\nkęsti ambicingas ir neramaus būdo Švitrigaila ir pakėlė mai­\nštą: užmušė Feodorą Vesną ir pats ėmė valdyti Vitebską."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179699
+
+- id: c-163384
+  citata_originali: |
+    Šį norą dar labiau sustiprino Vilniuje gauta žinia, kad
+    Podolės bajorai, vadovaujami Gregoro Kierdėjaus, klastingai
+    sugavę Daugirdą Gedgailą, anuomet Vytauto vardu valdžiusį
+    Podolę, visą šį kraštą nuo Lietuvos atplėšė Lenkijai, atiduo­
+    dami viršenybę Bučackiams. Įširdęs Švitrigaila tuomet jau vi­
+    sai nejautė savo įdūkio ribų. Beprotiškai įniršęs, kaip sako
+    Lietuvos istorikai3, užsipuolė karalių, užgauliai priekaištau­
+    damas jam ir jį supantiems lenkams, kad Podolę, nuo seno
+    priklausančią Lietuvai, norį neteisėtai iš jo atimti. Beginklis
+    Jogaila su visa savo palyda buvo įkalintas pilyje ir daugybės
+    kareivių saugojamas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179731
+
+- id: c-163385
+  citata_originali: |
+    Mūsų nuomonę apie šio laiško senumą patvirtina ne tik
+    jo pobūdis, bet ir ta užuomina apie Švitrigailos paėmimą
+    162
+
+    ## Puslapis 179
+
+    Il KNYGA
+    neleidžia manyti buvus kitus metus, juk kaip tik tuo laiku
+    Vytautas su Smolensko pulkais Švitrigailos ir Livonijos už­
+    imtą Vitebską po keturių savaičių apgulties atgavo ir patį
+    Švitrigailą paėmė į nelaisvę. Kaip buvo išvaduotas Švitrigai­
+    la ir kitos žinios iš šio laiško iki šiol istorijoje nebuvo mini­
+    mos.
+
+    ## Puslapis 180
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    Copia
+    Minen Willigk en Horsam to voren.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179705
+
+- id: c-163386
+  citata_originali: |
+    Kalbant dar apie tiesiogines vilniškės unijos priežastis, ten­
+    ka neišleisti iš akių ir vieno jau aukščiau minėto fakto — Švitri­
+    gailos pasirodymo^4 ).
+    Kaip žinoma, Vorsklos mūšy žuvo geras Vytauto prietelius
+    Spytkas iš Melštyno, kuris valdė Podoliją.
+    Šita žemė ir buvo pavesta valdyti Švitrigailai, pavojingiau­
+    siam Vytauto priešininkui, kuris, būdamas tikrasis Algirdo sū­
+    nus, turėjo pirmenybę į Lietuvos d. kunigaikščio sostą: Vy­
+    tautas tos pirmenybės neturėjo, jis tik ją išsikovojo.
+  citata_rodoma: "Kaip žinoma, Vorsklos mūšy žuvo geras Vytauto prietelius\nSpytkas iš Melštyno, kuris valdė Podoliją.\nŠita žemė ir buvo pavesta valdyti Švitrigailai, pavojingiau­\nsiam Vytauto priešininkui, kuris, būdamas tikrasis Algirdo sū­\nnus, turėjo pirmenybę į Lietuvos d. kunigaikščio sostą: Vy­\ntautas tos pirmenybės neturėjo, jis tik ją išsikovojo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179708
+    - t-179725
+
+- id: c-163387
+  citata_originali: |
+    Tik Vytautas buvo kryžiuočių
+    piktai įžeistas, dėl ko vėl jis pasiryžo iš jų atimti Žemaičių kraštą.
+    Tuo pačiu metu Švitrigaila vėl pabėgo iš Lietuvos. Šį kartą jau į
+    Maskvą, o paskui pas totorius, iš čia — pas Ordiną.
+  citata_rodoma: "Tuo pačiu metu Švitrigaila vėl pabėgo iš Lietuvos. Šį kartą jau į\nMaskvą, o paskui pas totorius, iš čia — pas Ordiną."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179690
+
+- id: c-163388
+  citata_originali: |
+    • —
+    145
+
+    ## Puslapis 162
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    Lietuvos ir Rusios didikai bei žemvaldžiai ir tame suvažiavi­
+    me pakiliai prisiekė ištikimybę ir pagalbą kovoje prieš bendrą
+    karaliaus ir Lenkijos Karūnos priešą, o po Vytauto mirties -
+    visos Lietuvos grįžimą į Lenkiją ir paklusnumą ne kokiam ki­
+    tam karaliui, o tik Jogailai, tačiau su sąlyga, kad tuo atveju,
+    jeigu Vladislovas Jogaila mirtų nepalikęs įpėdinių, lenkai ne­
+    turėtų teisės rinkti karaliaus be Vytauto ir Lietuvos bajorų ži­
+    nios bei pritarimo66. Sutiko su šia sutartimi ir Švitrigaila, Jo­
+    gailos tuomet pakviestas į Vilnių, bet jo sutikimas buvo
+    apsimestinis, ir netgi antspaudas, kaip nurodoma, buvo ne­
+    tikras, nes tuo aktu nustumtas nuo Lietuvos valdžios vairo,
+    širdyje užslopinęs apmaudą ir neapykantą broliams, netru­
+    kus, užuot vykęs į Krokuvą, kur buvo karaliaus kviečiamas,
+    suktybės ėmęsis, persirengė pirkliu ir 1402 metais nuvyko į
+    Marienburgą, pas magistrą67. Vėlesniais metais Vilniaus mies­
+    tas tolydžio augo: greitai plito statybos, daugėjo gyventojų,
+    mat Vytauto geradariška globa gaubė visus, nieko neišskiriant,
+    vienijo visus žmones ir įvairius tikėjimus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179717
+    - t-179722
+
+- id: c-163390
+  citata_originali: |
+    Kai paskelbus dvylikos metų paliaubas tarp
+    karaliaus ir didžiojo magistro karo veiksmai Karalystėje vis
+    dėlto aprimo, apsilpo ir energingojo Švitrigailos jėgos Lie­
+    tuvoje. Naudodamasis visuotine neapykanta, kurią per sa­
+    vo žiaurumą Lietuvoje buvo užsitraukęs Žygimantas, mi­
+    nėtas kunigaikštis tolydžio kėsinosi išplėšti iš jo valdžią ir į
+    šį kraštą kreipė įvairias totorių ir rusų ordas, todėl per visą
+    Žygimanto valdymo laiką Lietuva nepaliaujamai buvo nio­
+    kojama ir saviškių, ir svetimšalių. Ilgai Švitrigaila drumstė
+    šios nelaimingos žemės ramybę, kol pagaliau lemtinga Žy­
+    gimanto sūnaus kunigaikščio Mykolo, vedusio lenkų ir lie­
+    tuvių pulkus prieš Švitrigailą ir Livonijos magistrą, pergalė
+    netoli Ukmergės užbaigė šių dviejų, Lietuvai gal vienodai
+    pragaištingų konkurentų, varžybas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179713
+
+- id: c-163391
+  citata_originali: |
+    Ištisa
+    dešimtis metų po jo mirties buvo lyg jo valdymo tąsa. Švitrigaila
+    ir Žygimantas buvo Vytauto politikos tęsėjai. Vytauto mokykloje
+    išaugusi didikų ir bajorų generacija vedė vad. «separatistinę » poli­
+    tiką Kazimiero laikais.
+  citata_rodoma: "Švitrigaila\nir Žygimantas buvo Vytauto politikos tęsėjai. Vytauto mokykloje\nišaugusi didikų ir bajorų generacija vedė vad."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179709
+
+- id: c-163394
+  citata_originali: |
+    Sėkmė lydėjo Vytautą ir susidūrus su Švitrigaila, kuris, nie­
+    ko nepešęs prie Vilniaus, prikalbino Livonijos ordino rite­
+    rius drauge su juo pulti Vitebską. Vytautas, sutelkęs Smo­
+    lenske pulkus, apsupo tą miestą ir po keturias savaites
+    užsitęsusio puolimo užėmė Vitebską, o Švitrigailą paėmė į
+    nelaisvę. Kitais metais jis buvo išvaduotas dviejų jam palan­
+    kių kunigaikščių ir vėl patraukė į mūšio lauką56.1396-ieji me­
+    tai Vilniui atmintini dar ir dėl pilies kalno smarkios griūties
+    bei alpių karščių.
+  citata_rodoma: "Sėkmė lydėjo Vytautą ir susidūrus su Švitrigaila, kuris, nie­\nko nepešęs prie Vilniaus, prikalbino Livonijos ordino rite­\nrius drauge su juo pulti Vitebską. Vytautas, sutelkęs Smo­\nlenske pulkus, apsupo tą miestą ir po keturias savaites \nužsitęsusio puolimo užėmė Vitebską, o Švitrigailą paėmė į \nnelaisvę. Kitais metais jis buvo išvaduotas dviejų jam palan­\nkių kunigaikščių ir vėl patraukė į mūšio lauką56."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179694
+    - t-179692
+
+- id: c-163395
+  citata_originali: |
+    lenkų daliniais. 1432 m.
+    gruodžio 8 d. Ašmenos
+    mūšyje Švitrigailos jėgos
+    buvo išsklaidytos, o jis pats
+    pabėgo į Polocką. 1432-
+    1433 m. kova vyko pietryti-
+    nėse LDK žemėse tarp Lenkijos karaliaus ir
+    Švitrigailos šalininkų.
+  citata_rodoma: "1432 m.\ngruodžio 8 d. Ašmenos\nmūšyje Švitrigailos jėgos\nbuvo išsklaidytos, o jis pats\npabėgo į Polocką."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179734
+
+- id: c-168257
+  citata_originali: |
+    Kai karalius išvyko
+    į Lenkiją, neilgai vis dėlto jie pajėgė tramdyti širdyje
+    tūnantį įniršį: neilgai trukus galingai prasiveržė į vie­
+    šumą tai, ką iki šiol slėpė. Netekęs valdžios Kazimieras
+    Skirgaila pyko dėl patirtų nuostolių ir gėdijosi dėl ne­
+    sėkmių, Boleslovą Švitrigailą kamavo nepasitenkinusios
+    viltys: metais artimiausias Skirgailai, jis turėjo teisę
+    pirmas paveldėti valdžią. Skirgaila, linkęs griebtis ryž­
+    tingų priemonių, be to, remiamas rusų ir turėjęs nema­
+    žai pinigų, surinktų tada, kai buvo valdžioje, savo lė­
+    šomis ėmė rengtis kariauti; sutelkęs rusų kariuomenę,
+    jis ketino pulti Vilnių ir Vytautą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184896
+
+- id: c-168258
+  citata_originali: |
+    Tikrai žinoma, kad tais metais
+    Konradas pirmą kartą kariavo prieš Vytautą; pasitel­
+    kęs galybę svetimšalių ir nu-
+    Š iek  tiek  v ė lia u  Švit-
+    niokojęs kraštą, jis buvo ap-
+    rigaila k la stin gai už-
+    supęs Vilnių. Per du mėne-
+    p u o la  V iln ių
+    sius Konradas išmėgino viso­
+    kiausias
+    priemones,
+    kurių,
+    puldami miestus, paprastai imasi visi patyrę vadai, ta­
+    čiau nesėkmingai, todėl Švitrigaila nutarė griebtis ap­
+    gaulės. Jis įsakė vienam apsukriam jaunam vyrui, savo
+    giminaičiui, apsimesti perbėgėliu ir pabandyti patekti į
+    miestą; įsigijęs pasitikėjimo ir įsileistas į miestą, šis
+    turėjo susirasti atsidavusių parankinių ir, jų padedamas,
+    vienu metu padegti medines abiejų pilių įtvirtinimų
+    dalis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184897
+
+- id: c-168259
+  citata_originali: |
+    Tuo metu jau galima buvo
+    manyti, jog visoje Lietuvoje įsiviešpataus taika, tačiau
+    nerimo Švitrigaila. Matydamas, kad Vytautą lydi pa­
+    stovi sėkmė, jis niršo ir siuto, galop ėmėsi ryžtingų
+    žingsnių, pasitelkdamas sve-
+    K ry žiu o č ia i
+    n io k o ja
+    timšalių ginklą. Jis nuolatos
+    L ie tu v ą
+    kurstė Prūsijos bei Livonijos
+    kryžiuočių magistrus prieš
+    Vytautą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184898
+
+- id: c-168260
+  citata_originali: |
+    Taigi atsargesni Vy­
+    tauto vyrai būgštavo, kad šis nesusimanytų žygiuoti į
+    tokias vietas, kurių ligi šiol kryžiuočiai nebuvo lietę.
+    347
+
+    ## Puslapis 346
+
+    Š vitrig a ila  p e re in a  į
+    L ivo n i ją
+    Vis dėlto Švitrigaila visai ką
+    kita turėjo galvoje ir kuo ki­
+    tu rūpinosi. Jis matė, kad iš
+    tų karų, o po teisybei, plėši­
+    kiškų antpuolių, protarpiais siaubiančių iš netyčia Lie­
+    tuvą bei Žemaitiją, naudos turi tiktai kryžiuočiai, tuo
+    tarpu jis pats lieka kaip buvęs nuskurdęs tremtinys.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184899
+
+- id: c-168261
+  citata_originali: |
+    Jį netrukus paleido rusų sąmokslininkai, nu­
+    žudę sargybos viršininką Konradą Frankenbergą. Atsi­
+    dūręs laisvėje, Švitrigaila pabėgo pas imperatorių Zig­
+    mantą, vėliau, tarpininkaujant imperatoriui bei karaliui
+    Jogailai, vargais negalais susitaikė su Vytautu. Tuo
+    metu prasidėjo karas su Prū-
+    Prūdėtas
+    karas
+    su
+    sija.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184900
+
+- id: c-173888
+  citata_originali: |
+    Neseckiui šis herbas, pavadintas Kru-
+    nevičiaus vardu, yra žinomas. Rankoje turiu nuorašą Švitrigailos
+    privilegijos, datuotos Lucke 1451 metų vasario 18 dieną, kuria jis
+    pakartoja 1439 metų kovo 3 dienos Vytauto privilegiją, taip pat
+    atnaujina Algirdo privilegiją (nuorašas), kuria patvirtinama rite­
+    riška kilmė ir herbas raudoname lauke: ryšulys strėlių, tris kartus
+    kryžmai perjuostų auksine juosta, o iš abiejų pusių du pusmėnu­
+    liai, žiūrintys vienas j kitą, ant šalmo— riterio kepurė, o abipus du
+    erelio sparnai. Herbas buvo duotas Ostapui Kropotkovui kartu su
+    Podbužo dvaru Voluinėje už nuopelnus kare su totoriais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-191006
+
+- id: c-176646
+  citata_originali: |
+    Ir didysis kunigaikštis Kazimieras, Tarybos
+    ponams užtarus, sugrąžino jam Kijevą2 1 , jo tėvoniją,
+    su visais Kijevo priemiesčiais.
+    O sekančiais metais2 2  iš Moldavijos atvyko kuni­
+    gaikštis Švitrigaila, didžiojo kunigaikščio Kazimiero
+    dėdė, kuris, pabėgęs nuo kunigaikščio Žygimanto, sep­
+    tynerius metus išgyveno Moldavijoje, ganydamas
+    avis2 3 . Ir kunigaikštis Kazimieras sutiko jį maloniai, su
+    didžia pagarba, ir davė jam ligi gyvos galvos Lucką su
+    visa Volynės žeme u .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194021
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Julijona]]

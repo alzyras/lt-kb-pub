@@ -18,6 +18,18 @@ amziai:
   - 'XIII'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jonas (Brandenburgo markgrafas)
 
@@ -30,10 +42,23 @@ Dusburgietis teigia, kad apie Brandenburgo markgrafo atvykimą Tais metais, tai 
 <a id="claim-t-60341"></a>
 - t-001
   global_id: t-60341
-  teiginys: '1255 m. žiemą Jonas, Brandenburgo markgrafas, su stipria kariuomene atžygiavo į Prūsiją, bet dėl šiltos žiemos nepasiekė tikėjimo priešų.'
+  teiginys: "1255 m. žiemą Jonas, Brandenburgo markgrafas, su stipria kariuomene atžygiavo į Prūsiją, bet dėl šiltos žiemos nepasiekė tikėjimo priešų."
+  semantiniai_rysiai: "Jonas (Brandenburgo markgrafas) keliavo į Prūsija (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1255 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs ir su antraštės triukšmu; citata leidžia suformuluoti pilną faktinį sakinį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "358833-359320; hash=92e6257eb27ec9194a9562d928407a1e686fe983dfb1251244cdb16edb371ccd; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jonas (Brandenburgo markgrafas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claim tiesiogiai sako, kad Jonas atžygiavo į Prūsiją."
   pagrindžia:
-    - c-001
-
+    - c-60973
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -49,11 +74,32 @@ Dusburgietis teigia, kad apie Brandenburgo markgrafo atvykimą Tais metais, tai 
     vietų, pereinamų tik tada, kai jas dengia labai storas ledas, antraip ten neįmanoma
     pereiti.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-60973
+  citata_originali: |
+    77 (76). Apie Brandenburgo markgrafo atvykimą
+
+       Tais  metais,  tai  yra 1255  viešpaties  metais339, valdovas  Jonas, Brandenburgo
+    markgrafas, didžiai įgudęs  ir prityręs karvedys, žiemą atžygiavo  į Prūsijos žemę su
+    stipria kariuomene, gerai viskuo aprūpinta; kadangi žiema pasitaikė šilta, jis negalėjo
+    prieiti kaimynystėje gyvenančių tikėjimo priešų. Mat ten esama pelkių ir kitų pavojingų
+    vietų, pereinamų tik tada, kai jas dengia labai storas ledas, antraip ten neįmanoma
+    pereiti.
+  citata_rodoma: "Apie Brandenburgo markgrafo atvykimą\n\n   Tais  metais,  tai  yra 1255  viešpaties  metais339, valdovas  Jonas, Brandenburgo\nmarkgrafas, didžiai įgudęs  ir prityręs karvedys, žiemą atžygiavo  į Prūsijos žemę su\nstipria kariuomene, gerai viskuo aprūpinta; kadangi žiema pasitaikė šilta, jis negalėjo\nprieiti kaimynystėje gyvenančių tikėjimo priešų. Mat ten esama pelkių ir kitų pavojingų\nvietų, pereinamų tik tada, kai jas dengia labai storas ledas, antraip ten neįmanoma\npereiti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60341
 
 ## Ryšiai
 - Jonas (Brandenburgo markgrafas) keliavo į [[objektai/vietos/Prūsija]]

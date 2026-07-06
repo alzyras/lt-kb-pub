@@ -14,6 +14,18 @@ tags:
   - saltinis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Ig. Skupskelis, Vytautas Didysis vokiečių literatūroje
 
@@ -26,10 +38,21 @@ amziai:
 <a id="claim-t-31708"></a>
 - t-001
   global_id: t-31708
-  teiginys: 'Ig. Skupskelio „Vytautas Didysis vokiečių literatūroje“ paskelbtas 1930 m. „Athenaeum“ I tome.'
+  teiginys: "Ig. Skupskelio „Vytautas Didysis vokiečių literatūroje“ paskelbtas 1930 m. „Athenaeum“ I tome."
+  temporaliniai_duomenys: "įvykio data: 1930 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1038181-1038401; hash=582265e0908eb37fb2369cb6cd03f341406cf682d7c95368d29f6bdecc1b6d93; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ig. Skupskelis, Vytautas Didysis vokiečių literatūroje: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Vokiečiai: mention_match, group, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ig. Skupskelis, Vytautas Didysis vokiečių literatūroje\" parinktas kaip owner_note_path. Targetas \"Vokiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-33578
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -40,8 +63,25 @@ amziai:
     1933, 1-71 p. — PfiW. — Skkupskelis, Ig. : _Vytautas Didysis vokiečių
     literatūroje,_ Athenaeum, I, 1930.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33578
+  citata_originali: |
+    : Vytautas Didysis, red. P. Šležas, Kaunas
+    1930, 253-265 p. — Lappo, J. : _Istorinė Vytauto reikšmė,_ Praeitis, II,
+    1933, 1-71 p. — PfiW. — Skkupskelis, Ig. : _Vytautas Didysis vokiečių
+    literatūroje,_ Athenaeum, I, 1930.
+  citata_rodoma: "— Lappo, J. : _Istorinė Vytauto reikšmė,_ Praeitis, II,\n1933, 1-71 p. — PfiW. — Skkupskelis, Ig. : _Vytautas Didysis vokiečių\nliteratūroje,_ Athenaeum, I, 1930."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31708

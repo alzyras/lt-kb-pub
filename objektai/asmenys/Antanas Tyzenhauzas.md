@@ -8,102 +8,233 @@ datos:
   - '1800 m.'
 date_start: '1767'
 date_end: '1800'
-description: 'Antanas Tyzenhauzas: 1767 m. reformos karališkosiose ekonomijose, ūkio pertvarkos ir mokyklos Gardine Apšvietos pradžios kontekste.'
-socialDescription: 'Antano Tyzenhauzo reformos 1767 m. keitė Lietuvos ūkį: nuo karališkųjų ekonomijų pertvarkų iki profesinių mokyklų Gardine.'
-seo_atnaujinta: '2026-07-02T20:14:54.905668+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XVIII'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Antanas Tyzenhauzas (ūkio reformų veikėjas)
 
 ## Santrauka
 
-Antanas Tyzenhauzas siejamas su 1767 m. reformomis, kurios karališkosiose ekonomijose keitė Lietuvos ūkį. Reformos apėmė palivarkų steigimą, lažo didinimą, žemės rūšiavimą, melioraciją, kelių tiesimą ir naujų gyvulių veislių auginimą. Gardine jis kūrė profesines mokyklas ir siuntė jaunimą mokytis agronomijos į Angliją.
+Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomis karališkosiose ekonomijose.
 
 ## Teiginiai
 
 <a id="claim-t-46002"></a>
-- t-001
+- t-016
   global_id: t-46002
-  teiginys: 'Antano Tyzenhauzo veikla atnešė didelių permainų į Lietuvos ūkį.'
+  teiginys: "Antano Tyzenhauzo veikla atnešė didelių permainų į Lietuvos ūkį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "161603-162045; hash=cf2e8611617255d31969c934f98e933ed5cb6f325f59c19900741531d507dedf; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antanas Tyzenhauzas (ūkio reformų veikėjas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Tyzenhauzas (ūkio reformų veikėjas)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-26900
 
 <a id="claim-t-46003"></a>
-- t-002
+- t-025
   global_id: t-46003
-  teiginys: 'Tyzenhauzo reformos buvo vienas iš svarbiausių XVIII a.'
+  teiginys: "Tyzenhauzo reformos buvo vienas iš svarbiausių XVIII a."
+  temporaliniai_duomenys: "įvykio data: 1800 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "162582-162806; hash=2d031cc5e1df5f874503fecd774f8029a3b95a6e7a89e807c82dd4bec6946719; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gardinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antanas Tyzenhauzas (ūkio reformų veikėjas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Gardinas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Tyzenhauzas (ūkio reformų veikėjas)\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-25412
 
 <a id="claim-t-46004"></a>
-- t-003
+- t-023
   global_id: t-46004
-  teiginys: 'Su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais sutapo Antano Tyzenhauzo veiklos, atnešusios didelių permainų į Lietuvos ūkį, pradžia.'
+  teiginys: "Su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais sutapo Antano Tyzenhauzo veiklos, atnešusios didelių permainų į Lietuvos ūkį, pradžia."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "161893-162461; hash=2060214aba4e8846ffeccdf2d2c79c65d53c4d95e3c0e151629009add3609ff5; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antanas Tyzenhauzas (ūkio reformų veikėjas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=57"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Tyzenhauzas (ūkio reformų veikėjas)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-26902
 
 <a id="claim-t-46005"></a>
-- t-004
+- t-015
   global_id: t-46005
-  teiginys: 'Antano Tyzenhauzo reformos datuojamos 1767 m. ir siejamos su Apšvietos epochos pradžia.'
+  teiginys: "Antano Tyzenhauzo reformos datuojamos 1767 m. ir siejamos su Apšvietos epochos pradžia."
+  temporaliniai_duomenys: "įvykio data: 1767 m.; įvykio data: 1769 m.; įvykio data: 1773 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "129814-130250; hash=7cd51cd06917dfc677d4db8aea1e80ee1cfa0bf89427efca0d9d497db526bd13; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antano Tyzenhauzo reformos: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antanas Tyzenhauzas (ūkio reformų veikėjas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Antano Tyzenhauzo reformos: mention_match, event, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Tyzenhauzas (ūkio reformų veikėjas)\" parinktas kaip owner_note_path. Targetas \"Antano Tyzenhauzo reformos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-21603
 
 <a id="claim-t-46006"></a>
-- t-005
+- t-017
   global_id: t-46006
-  teiginys: 'Antanas Tyzenhauzas Gardine įkūrė matininkų, buhalterių, statybininkų ir veterinarų mokyklas.'
+  teiginys: "Antanas Tyzenhauzas Gardine įkūrė matininkų, buhalterių, statybininkų ir veterinarų mokyklas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "161893-162461; hash=2060214aba4e8846ffeccdf2d2c79c65d53c4d95e3c0e151629009add3609ff5; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gardinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antanas Tyzenhauzas (ūkio reformų veikėjas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Gardinas: mention_match, place, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Tyzenhauzas (ūkio reformų veikėjas)\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-26902
 
 <a id="claim-t-46007"></a>
-- t-006
+- t-018
   global_id: t-46007
-  teiginys: 'Antano Tyzenhauzo 1767 m. reformos kartais laikomos vienu iš Apšvietos epochos pradžios įvykių.'
+  teiginys: "Antano Tyzenhauzo 1767 m. reformos kartais laikomos vienu iš Apšvietos epochos pradžios įvykių."
+  temporaliniai_duomenys: "įvykio data: 1767 m.; įvykio data: 1769 m.; įvykio data: 1773 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "129814-130250; hash=7cd51cd06917dfc677d4db8aea1e80ee1cfa0bf89427efca0d9d497db526bd13; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antano Tyzenhauzo reformos: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antanas Tyzenhauzas (ūkio reformų veikėjas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Antano Tyzenhauzo reformos: mention_match, event, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Tyzenhauzas (ūkio reformų veikėjas)\" parinktas kaip owner_note_path. Targetas \"Antano Tyzenhauzo reformos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-21603
 
 <a id="claim-t-46008"></a>
-- t-007
+- t-021
   global_id: t-46008
-  teiginys: 'Antano Tyzenhauzo reformos buvo vienas svarbiausių XVIII a. pabaigos Lietuvos gyvenimo reiškinių.'
+  teiginys: "Antano Tyzenhauzo reformos buvo vienas svarbiausių XVIII a. pabaigos Lietuvos gyvenimo reiškinių."
+  temporaliniai_duomenys: "įvykio data: 1800 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "162582-162806; hash=2d031cc5e1df5f874503fecd774f8029a3b95a6e7a89e807c82dd4bec6946719; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antano Tyzenhauzo reformos: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antanas Tyzenhauzas (ūkio reformų veikėjas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Antano Tyzenhauzo reformos: mention_match, event, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Tyzenhauzas (ūkio reformų veikėjas)\" parinktas kaip owner_note_path. Targetas \"Antano Tyzenhauzo reformos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-25412
 
 <a id="claim-t-46009"></a>
-- t-008
+- t-022
   global_id: t-46009
-  teiginys: 'Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai kartais laikomi Apšvietos epochos pradžia.'
+  teiginys: "Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai kartais laikomi Apšvietos epochos pradžia."
+  temporaliniai_duomenys: "įvykio data: 1767 m.; įvykio data: 1769 m.; įvykio data: 1773 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, informatyvus ir paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "129814-130250; hash=7cd51cd06917dfc677d4db8aea1e80ee1cfa0bf89427efca0d9d497db526bd13; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antanas Tyzenhauzas (ūkio reformų veikėjas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=81"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Tyzenhauzas (ūkio reformų veikėjas)\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-21603
 
 <a id="claim-t-46010"></a>
-- t-009
+- t-024
   global_id: t-46010
-  teiginys: 'Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė matininkų, buhalterių, statybininkų bei veterinarų mokyklas.'
+  teiginys: "Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė matininkų, buhalterių, statybininkų bei veterinarų mokyklas."
+  semantiniai_rysiai: "Antanas Tyzenhauzas (ūkio reformų veikėjas) siuntė į Anglija (0.93)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "162046-162579; hash=b8696c5384851934eb866cfb5c9107985c63e66e996678cc2a4f932735700278; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Anglija: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Antanas Tyzenhauzas (ūkio reformų veikėjas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Anglija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginyje tiesiogiai pasakyta, kad Tyzenhauzas siuntė jaunimą mokytis į Angliją."
   pagrindžia:
-    - c-006
+    - c-48648
 
 <a id="claim-t-46011"></a>
-- t-010
+- t-020
   global_id: t-46011
-  teiginys: 'Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė profesines mokyklas.'
+  teiginys: "Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė profesines mokyklas."
+  semantiniai_rysiai: "Antanas Tyzenhauzas (ūkio reformų veikėjas) siuntė į Anglija (0.93)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "161893-162461; hash=2060214aba4e8846ffeccdf2d2c79c65d53c4d95e3c0e151629009add3609ff5; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Anglija: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Antanas Tyzenhauzas (ūkio reformų veikėjas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Anglija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginyje tiesiogiai pasakyta, kad Tyzenhauzas siuntė jaunimą mokytis į Angliją."
   pagrindžia:
-    - c-005
+    - c-26902
 
 <a id="claim-t-46012"></a>
-- t-011
+- t-019
   global_id: t-46012
-  teiginys: 'Antano Tyzenhauzo veiklos pradžia sutapo su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais.'
+  teiginys: "Antano Tyzenhauzo veiklos pradžia sutapo su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "161702-162327; hash=215baef2c54a189db619e89c1c8310cc8067203ad031b27cffa7f8e3e4b943c7; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antanas Tyzenhauzas (ūkio reformų veikėjas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Tyzenhauzas (ūkio reformų veikėjas)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-26901
 - susijęs iš [[objektai/ivykiai/Antano Tyzenhauzo reformos.md#claim-t-183217|Antano Tyzenhauzo reformos]]: Antanas Tyzenhauzas karališkosiose ekonomijose steigė palivarkus, reikalavo lažo, rūšiavo žemę, melioravo laukus ir tiesė kelius.
 - susijęs iš [[objektai/ivykiai/Antano Tyzenhauzo reformos.md#claim-t-66449|Antano Tyzenhauzo reformos]]: Antanas Tyzenhauzas karališkosiose ekonomijose steigė palivarkus, reikalavo lažo, rūšiavo žemę, melioravo laukus ir tiesė kelius.
 - susijęs iš [[objektai/ivykiai/Antano Tyzenhauzo reformos.md#claim-t-66450|Antano Tyzenhauzo reformos]]: Antano Tyzenhauzo reformos 1767 m. kartais laikomos vienu Apšvietos epochos pradžios ženklų.
@@ -130,6 +261,7 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis, kurios karališkosiose ekono
     Baroko epocha valstybės istorijos požiūriu – tai Lenkijos ir Lietuvos
     sąjunga, sukurta Liublino unijos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -146,8 +278,9 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis, kurios karališkosiose ekono
     Gardino ekonomijoje. A. Tyzenhauzo reformos buvo vienas iš svarbiau-
     sių XVIII a. pabaigos Lietuvos gyvenimo reiškinių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -165,8 +298,9 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis, kurios karališkosiose ekono
     po Antano Tyzenhauzo veiklos, atnešusios didelių permainų į Lietuvos
     ūkį, pradžia.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -185,8 +319,9 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis, kurios karališkosiose ekono
     lioruoti laukai, tiesiami keliai, auginamos naujos (olandų) gyvulių veis-
     lės.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
@@ -203,6 +338,7 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis, kurios karališkosiose ekono
     lės. A. Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją, įkūrė
     matininkų, buhalterių, statybininkų, veterinarų mokyklas Gardine.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -226,11 +362,123 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis, kurios karališkosiose ekono
     89
     Lietuvos valstiečiai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
+## Citatos
+
+- id: c-21603
+  citata_originali: |
+    Baroką pamažu keitė klasicizmas, tačiau šis stilius suklestės tik pačioje
+    XVIII a. pabaigoje. Antano Tyzenhauzo reformos (1767 m.), Povilo Ksa-
+    vero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino
+    panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai
+    kartais laikomi Apšvietos epochos pradžia.
+    Baroko epocha valstybės istorijos požiūriu – tai Lenkijos ir Lietuvos
+    sąjunga, sukurta Liublino unijos.
+  citata_rodoma: "Antano Tyzenhauzo reformos (1767 m.), Povilo Ksa-\nvero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino \npanaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai \nkartais laikomi Apšvietos epochos pradžia."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-46009
+    - t-46005
+    - t-46007
+
+- id: c-25412
+  citata_originali: |
+    Dail. P. Smuglevičius, 1800 m.
+    įsteigė tekstilės, popieriaus, galanterijos, ginklų, vežimų manufaktūras
+    Gardino ekonomijoje. A. Tyzenhauzo reformos buvo vienas iš svarbiau-
+    sių XVIII a. pabaigos Lietuvos gyvenimo reiškinių.
+  citata_rodoma: "A. Tyzenhauzo reformos buvo vienas iš svarbiau-\nsių XVIII a. pabaigos Lietuvos gyvenimo reiškinių."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-46003
+    - t-46008
+
+- id: c-26900
+  citata_originali: |
+    For-
+    mavosi nauji fizikos, biologijos ir medicinos mokslai, astronomija tapo ats-
+    kira specialybė. Nors lietuvių kalba buvo mokoma tik pradinėje mokykloje,
+    o vidurinė mokykla ir universitetas perėjo nuo lotynų kalbos prie lenkų, vis
+    dėlto naujoji švietimo sistema griovė luomų barjerus.
+    Su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais suta-
+    po Antano Tyzenhauzo veiklos, atnešusios didelių permainų į Lietuvos
+    ūkį, pradžia.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-46002
+
+- id: c-26901
+  citata_originali: |
+    Nors lietuvių kalba buvo mokoma tik pradinėje mokykloje,
+    o vidurinė mokykla ir universitetas perėjo nuo lotynų kalbos prie lenkų, vis
+    dėlto naujoji švietimo sistema griovė luomų barjerus.
+    Su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais suta-
+    po Antano Tyzenhauzo veiklos, atnešusios didelių permainų į Lietuvos
+    ūkį, pradžia. Karališkosiose ekonomijose jis ėmėsi radikalių reformų:
+    steigė palivarkus, vietoje činšo reikalavo dviejų dienų lažo per savaitę,
+    buvo pradėta naujai rūšiuoti žemę, įvertinant jos kokybę, pradėti me-
+    lioruoti laukai, tiesiami keliai, auginamos naujos (olandų) gyvulių veis-
+    lės.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-46012
+
+- id: c-26902
+  citata_originali: |
+    Su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais suta-
+    po Antano Tyzenhauzo veiklos, atnešusios didelių permainų į Lietuvos
+    ūkį, pradžia. Karališkosiose ekonomijose jis ėmėsi radikalių reformų:
+    steigė palivarkus, vietoje činšo reikalavo dviejų dienų lažo per savaitę,
+    buvo pradėta naujai rūšiuoti žemę, įvertinant jos kokybę, pradėti me-
+    lioruoti laukai, tiesiami keliai, auginamos naujos (olandų) gyvulių veis-
+    lės. A. Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją, įkūrė
+    matininkų, buhalterių, statybininkų, veterinarų mokyklas Gardine.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-46006
+    - t-46011
+    - t-46004
+
+- id: c-48648
+  citata_originali: |
+    Karališkosiose ekonomijose jis ėmėsi radikalių reformų:
+    steigė palivarkus, vietoje činšo reikalavo dviejų dienų lažo per savaitę,
+    buvo pradėta naujai rūšiuoti žemę, įvertinant jos kokybę, pradėti me-
+    lioruoti laukai, tiesiami keliai, auginamos naujos (olandų) gyvulių veis-
+    lės. A. Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją, įkūrė
+    matininkų, buhalterių, statybininkų, veterinarų mokyklas Gardine. Jis
+
+    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
+    89
+    Lietuvos valstiečiai.
+  citata_rodoma: "A. Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją, įkūrė \nmatininkų, buhalterių, statybininkų, veterinarų mokyklas Gardine. Jis\n\n2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S\n89\nLietuvos valstiečiai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-46010
 
 ## Ryšiai
 - Antanas Tyzenhauzas (ūkio reformų veikėjas) siuntė į [[objektai/vietos/Anglija]]

@@ -18,6 +18,18 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Ringailė
 
@@ -28,18 +40,36 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
 ## Teiginiai
 
 <a id="claim-t-93490"></a>
-- t-001
+- t-003
   global_id: t-93490
-  teiginys: '1392 m. Ringailę vedė Ritesverderyje kitas Mozūrijos kunigaikštis Henrikas.'
+  teiginys: "1392 m. Ringailę vedė Ritesverderyje kitas Mozūrijos kunigaikštis Henrikas."
+  temporaliniai_duomenys: "įvykio data: 1392 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "237157-237387; hash=2a707fd3f84bf9f46ed94e795898bc8542693f3d1dfff24a4167ef3665591b3b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Mozūrija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ringailė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Mozūrija: mention_match, place, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ringailė\" parinktas kaip owner_note_path. Targetas \"Mozūrija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-88853
 
 <a id="claim-t-93492"></a>
 - t-002
   global_id: t-93492
-  teiginys: 'Vytautas pasiuntė seserį Ringailę įkaitu, laiduodamas sutartį su Ordinu.'
+  teiginys: "Vytautas pasiuntė seserį Ringailę įkaitu, laiduodamas sutartį su Ordinu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "237157-237387; hash=2a707fd3f84bf9f46ed94e795898bc8542693f3d1dfff24a4167ef3665591b3b; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
+    - c-88851
 - susijęs iš [[objektai/asmenys/Henrikas (Mazovijos kunigaikštis).md#claim-t-87685|Henrikas (Mazovijos kunigaikštis)]]: Mazovijos kunigaikštis Henrikas, atvykęs pas Vytautą su slaptu Jogailos pavedimu, vedė Ringailę.
 - susijęs iš [[objektai/asmenys/Mozūrų kunigaikštis Henrikas.md#claim-t-34819|Mozūrų kunigaikštis Henrikas]]: 1392 m. Mozūrų kunigaikštis Henrikas Ritesverderyje vedė Ringailę.
 - susijęs iš [[objektai/asmenys/Henrikas (Mazovijos kunigaikštis).md#claim-t-87685|Henrikas (Mazovijos kunigaikštis)]]: Mazovijos kunigaikštis Henrikas, atvykęs pas Vytautą su slaptu Jogailos pavedimu, vedė Ringailę.
@@ -65,6 +95,7 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
     muosius. Vytautas sutiko ir pasiuntė įkaitais savo brolį Zig-
     mantą su šio sūnum Mykolu, seserį Ringailę ir apie 100 bajorų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -78,11 +109,40 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
     kitas Mozūrijos kunigaikštis Henrikas. Ji gavo krikšte
     Elžbietos vardą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-88851
+  citata_originali: |
+    100 psl.). Ordinas, kartą jau apgautas,
+    pareikalavo, kad Vytautas laiduotų sutartį, įkeisdamas savo arti-
+    muosius. Vytautas sutiko ir pasiuntė įkaitais savo brolį Zig-
+    mantą su šio sūnum Mykolu, seserį Ringailę ir apie 100 bajorų.
+  citata_rodoma: "Vytautas sutiko ir pasiuntė įkaitais savo brolį Zig-\n  mantą su šio sūnum Mykolu, seserį Ringailę ir apie 100 bajorų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-93492
+
+- id: c-88853
+  citata_originali: |
+    1392 m. Ringailę vedė Ritesverderyje
+    kitas Mozūrijos kunigaikštis Henrikas. Ji gavo krikšte
+    Elžbietos vardą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-93490
 
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Henrikas (Mazovijos kunigaikštis)]], [[objektai/asmenys/Mozūrų kunigaikštis Henrikas]]

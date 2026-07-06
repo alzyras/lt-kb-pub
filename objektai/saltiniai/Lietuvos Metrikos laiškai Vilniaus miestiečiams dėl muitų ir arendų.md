@@ -9,6 +9,18 @@ tags:
   - miestas
   - pinigai
   - saltinis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvos Metrikos laiškai Vilniaus miestiečiams dėl muitų ir arendų
 
@@ -21,10 +33,19 @@ tags:
 <a id="claim-t-88445"></a>
 - t-001
   global_id: t-88445
-  teiginys: 'Lietuvos Metrikoje minimas Žygimanto Senojo laiškas Vilniaus miestiečiui Andrejui Tiekiui dėl Smolensko muito ir smuklių arendavimo.'
+  teiginys: "Lietuvos Metrikoje minimas Žygimanto Senojo laiškas Vilniaus miestiečiui Andrejui Tiekiui dėl Smolensko muito ir smuklių arendavimo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "539398-539993; hash=0a92cb53a6585a1365d733ca4440fff6a8f211409176e8effe8f249ecede2045; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos Metrikos laiškai Vilniaus miestiečiams dėl muitų ir arendų: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Metrikos laiškai Vilniaus miestiečiams dėl muitų ir arendų\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-84424
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -50,8 +71,38 @@ tags:
     Svisločės smuklių už devynerius
     metus], 1. 100.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-84424
+  citata_originali: |
+    20
+    Lietuvos Metrikoje yra labai daug
+    Žygimanto Senojo laiškų, tuo tikslu
+    rašytų Vilniaus miestiečiams, - paci­
+    tuosime kai kuriuos: List Meszczani-
+    nu Wileńskomu Andrejų Tyckomu
+    [Laiškas Vilniaus miestiečiui Andre­
+    jui Tiekiui] dėl Smolensko muito ir
+    smuklių arendavimo. Knyga 8,1.87.
+    List Radzcy Wileńskomu Bohdanu On-
+    kieiviczu, na wybranie jemu winnych
+    peneźy z Korczem Bobruyjskoje i
+    Swisłockoje do dewet let spoina [Laiš­
+    kas Vilniaus tarėjui Bohdanui Anke-
+    vičiui, leidžiantis jam surinkti pri­
+    klausančius pinigus iš Bobruisko ir
+    Svisločės smuklių už devynerius
+    metus], 1. 100.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88445

@@ -11,6 +11,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Žemaičių jūra
 
@@ -42,40 +54,75 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
 ## Teiginiai
 
 <a id="claim-t-92017"></a>
-- t-001
+- t-011
   global_id: t-92017
-  teiginys: 'Žemaičių jūra siejama su žuvėdų karėmis ir prekybos plėtra.'
+  teiginys: "Žemaičių jūra siejama su žuvėdų karėmis ir prekybos plėtra."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  saltinio_vieta: "378024-378185; hash=8fa2fe73fa94a91bad7f627287c4805360add2e4b25df02f52fe78ce90ba5668; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  ryšio_patikimumas: "susije_su -> Žuvėdai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žemaičių jūra: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Žuvėdai: mention_match, group, gap=25"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaičių jūra\" parinktas kaip owner_note_path. Targetas \"Žuvėdai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-10525
 
 <a id="claim-t-92018"></a>
-- t-002
+- t-008
   global_id: t-92018
-  teiginys: 'Į Žemaičių jūrą tekėjo šiaurinės kalvos įšleitės upės, tarp jų Daugava, Nemunas, Pragaras ir Isla.'
+  teiginys: "Į Žemaičių jūrą tekėjo šiaurinės kalvos įšleitės upės, tarp jų Daugava, Nemunas, Pragaras ir Isla."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  saltinio_vieta: "15533-15691; hash=2d6b694ad4f7e55a2f40622623dc538197d60fec8df8b18bc15272933401d8c0; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   pagrindžia:
-    - c-002
+    - c-10522
 
 <a id="claim-t-92020"></a>
-- t-003
+- t-009
   global_id: t-92020
-  teiginys: 'Šią jūrą kai kurie raštininkai vadino Rusų mare.'
+  teiginys: "Šią jūrą kai kurie raštininkai vadino Rusų mare."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  saltinio_vieta: "294045-295051; hash=5d3df5a4b9e147b3c3f16abd427fe0ccff5bcc2ee85b43201b23ab7b91230aaf; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žemaičių jūra: owner_note_path, place"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaičių jūra\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-10523
 
 <a id="claim-t-92021"></a>
-- t-004
+- t-010
   global_id: t-92021
-  teiginys: 'Žemaičių jūra šiame fragmente yra konkretus jūros vardas.'
+  teiginys: "Žemaičių jūra šiame fragmente yra konkretus jūros vardas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  saltinio_vieta: "376030-376187; hash=2b8a5402dcb9a5962406ee838a7114809a16d6efa7c66cefa682cbf36b2e8cfd; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   pagrindžia:
-    - c-004
+    - c-10524
 
 <a id="claim-t-92022"></a>
-- t-005
+- t-007
   global_id: t-92022
-  teiginys: 'Žemaičių jūra per 1000 metų nuseko kelias uolektis.'
+  teiginys: "Žemaičių jūra per 1000 metų nuseko kelias uolektis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  saltinio_vieta: "2580-2696; hash=8f7aff3170e96dbd5aa6a4cc4b45d13b76a0df875fad06970657df160f5c7ea0; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  ryšio_patikimumas: "susije_su -> uolektis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žemaičių jūra: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "uolektis: mention_match, thing, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaičių jūra\" parinktas kaip owner_note_path. Targetas \"uolektis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-10521
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -84,8 +131,9 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
     Žuvėdai^14 turi ant savo uolų ženklus, kurie rodo, jog Žemaičių jūra
         per 1000 metų yra per kelias uolektis nusekusi.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
@@ -97,8 +145,9 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
     Taip pat lygia dalia visos upės šiaurinėj įšleitėj nuo tos gi kalvos teka į
         Žemaičių jūrą, tarp kurių didžiosios upės yra: Daugava, Nemunas, Pragaras ir Isla.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -122,8 +171,9 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
         buvusios, kurioje žinyčioj amžina ugnis ant dievo garbės rusėjo, nuo ko ne vien pati sala Rusnės vardą sau gavo, bet dar tūli raštininkai pačią Žemaičių jūrą Rusų mare vadino, o jos pajūrių
         gyventojus rusais, bet tankiau parusiais, arba parusais, beje, pas Rusnę gyvenančiais.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -133,8 +183,9 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
   citata_originali: |
     Šiaurėj, Odinui mirus, nebepasitiko tokio, kurs būt galėjęs visą šiaurę valdyti ir kurio būt klausiusios tautos, šiapus ir anapus Žemaičių jūros gyvenančios.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
@@ -144,8 +195,78 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
   citata_originali: |
     Kad taip šiaurėj ir Žemaičių jūroje audras vertė kariaudami, vienok nuo pietų, nurimus tautoms kita kitą stumdyti, rados pakajus, ir prekyba vėl pradėjo plėstis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-10521
+  citata_originali: |
+    Žuvėdai^14 turi ant savo uolų ženklus, kurie rodo, jog Žemaičių jūra
+        per 1000 metų yra per kelias uolektis nusekusi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-92022
+
+- id: c-10522
+  citata_originali: |
+    Taip pat lygia dalia visos upės šiaurinėj įšleitėj nuo tos gi kalvos teka į
+        Žemaičių jūrą, tarp kurių didžiosios upės yra: Daugava, Nemunas, Pragaras ir Isla.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-92018
+
+- id: c-10523
+  citata_originali: |
+    - status: unused
+    - claim_role: new_claim
+    - kategorija: vieta
+    - kandidatas: Parusis
+    - potencialus_teiginys: Žemaičių kraštas tarp Išlos ir Nemuno buvo vadinamas Prūsais arba Parusais.
+    - public_note:
+    - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+    - vieta_saltinyje: match: normalized_whitespace
+    - santrauka: Žemaičių kraštas tarp Išlos ir Nemuno buvo vadinamas Prūsais arba Parusais.
+    - pagrindzia:
+    - pastaba: Išsaugota kaip atskiras galimo teiginio įrodymas prieš viešą publikavimą.
+      citata_originali: |
+        Kiti vadino Žemaičių kraštą, pajūry esantį, tarp upės Išlos ir Nemuno, Prūsais, arba Parusais, nuo didžiai garsios žinyčios, senovėj Nemuno įtakos saloje
+        buvusios, kurioje žinyčioj amžina ugnis ant dievo garbės rusėjo, nuo ko ne vien pati sala Rusnės vardą sau gavo, bet dar tūli raštininkai pačią Žemaičių jūrą Rusų mare vadino, o jos pajūrių
+        gyventojus rusais, bet tankiau parusiais, arba parusais, beje, pas Rusnę gyvenančiais.
+  citata_rodoma: "nuo ko ne vien pati sala Rusnės\nvardą sau gavo, bet dar tūli raštininkai pačią Žemaičių jūrą Rusų mare vadino, o jos pajūrių\ngyventojus rusais, bet tankiau parusiais, arba parusais, beje, pas Rusnę gyvenančiais."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-92020
+
+- id: c-10524
+  citata_originali: |
+    Šiaurėj, Odinui mirus, nebepasitiko tokio, kurs būt galėjęs visą šiaurę valdyti ir kurio būt klausiusios tautos, šiapus ir anapus Žemaičių jūros gyvenančios.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-92021
+
+- id: c-10525
+  citata_originali: |
+    Kad taip šiaurėj ir Žemaičių jūroje audras vertė kariaudami, vienok nuo pietų, nurimus tautoms kita kitą stumdyti, rados pakajus, ir prekyba vėl pradėjo plėstis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-92017

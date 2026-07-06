@@ -17,11 +17,6 @@ datos:
   - '1983 m.'
 date_start: '500'
 date_end: '1983'
-description: 'Torunės istorija nuo kryžiuočių pilies Kulmo žemėje iki 1576 m. Stepono Batoro dokumento ir vėlesnių miesto paminėjimų.'
-socialDescription: 'Torunė Lietuvos istorijos šaltiniuose siejama su kryžiuočių pilimi, Kulmo žeme, prūsų nukariavimu ir 1576 m. Stepono Batoro dokumentu.'
-seo_atnaujinta: '2026-07-02T23:12:35.314403+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -32,126 +27,308 @@ tags:
 amziai:
   - 'V'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Torunė
 
 ## Santrauka
 
-Torunė minima kaip Teutonų ordino atramos vieta Kulmo žemėje: 1231 m. Ordino magistras pastatė Torunės pilį, o 1236 m. miestas perkeltas į dabartinę vietą. Šaltiniai sieja Torunę su kryžiuočių pilių ir miestų plėtra Baltijos pakrantėse bei agresija prieš prūsus. Vėliau Torunė minima ir politiniuose dokumentuose, tarp jų Stepono Batoro 1576 m. gruodžio 20 d. laiške.
+Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos krante, persikėlė per upę į Kulmo žemę ir pastatė Torunės pilį, prasidėjo sisteminga agresija prieš prūsus.
 
 ## Teiginiai
 
 <a id="claim-t-175431"></a>
-- t-001
+- t-014
   global_id: t-175431
-  teiginys: 'Stalininkas Druzigeris Torunėje klaidingai pranešė, kad krikščionių kariuomenė žuvo mūšyje.'
+  teiginys: "Stalininkas Druzigeris Torunėje klaidingai pranešė, kad krikščionių kariuomenė žuvo mūšyje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "319674-320279; hash=f746f1278312b122ff12a559ee53f216a1e9c909df8682fb84099b0f9d6f40bb; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kulmas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Torunė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kulmas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Torunė\" parinktas kaip owner_note_path. Targetas \"Kulmas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-159559
 
 <a id="claim-t-175432"></a>
 - t-002
   global_id: t-175432
-  teiginys: 'Torunę 1235 m. pastatė kryžiuočiai.'
+  teiginys: "Torunę 1235 m. pastatė kryžiuočiai."
+  semantiniai_rysiai: "Kryžiuočių ordinas pastatė Torunė (0.93); Kryžiuočių ordinas pastatė Malburgas (0.88)"
+  temporaliniai_duomenys: "pastatymo data: 1235 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys glaustai perteikia citatoje nurodytą Torunės pastatymo faktą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "35138-35671; hash=036d93124793b5d2e6a825e45f575741bff2c9516a253ab27d211d79f21e997b; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Torunė: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Torunė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Torunę pastatė kryžiuočiai."
   pagrindžia:
-    - c-001
+    - c-159558
 
 <a id="claim-t-175433"></a>
-- t-003
+- t-004
   global_id: t-175433
-  teiginys: 'Torunės seime dėl ginčų su Gdansku ir kitų nesutarimų nebuvo numatyta nustatyti jokių rinkliavų.'
+  teiginys: "Torunės seime dėl ginčų su Gdansku ir kitų nesutarimų nebuvo numatyta nustatyti jokių rinkliavų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "642932-643802; hash=1aa06fd1dca7b3a7a7d8c668582c2578963aac91194a0921a7e3d84bebd7e051; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Czopowe: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Torunė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Czopowe: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Torunė\" parinktas kaip owner_note_path. Targetas \"Czopowe\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-012
+    - c-159574
 
 <a id="claim-t-175435"></a>
-- t-004
+- t-006
   global_id: t-175435
-  teiginys: 'Stepono Batoro dokumentas buvo duotas Torunėje 1576 m. gruodžio 20 d.'
+  teiginys: "Stepono Batoro dokumentas buvo duotas Torunėje 1576 m. gruodžio 20 d."
+  temporaliniai_duomenys: "įvykio data: 1576 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "646792-646953; hash=2c12563c5e50b4522cc7dff52c8c91b4caf6ec635042ba5d8bcad9aab100fcb6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Steponas Batoras: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Torunė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Steponas Batoras: mention_match, person, gap=38"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Torunė\" parinktas kaip owner_note_path. Targetas \"Steponas Batoras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-010
+    - c-159570
 
 <a id="claim-t-175436"></a>
-- t-005
+- t-003
   global_id: t-175436
-  teiginys: 'Sužinoję apie Gedimino skundą popiežiui, Torunės, Kulmo, Braunsbergo ir Neuenbergo gvardijonai stojo ginti kryžiuočių.'
+  teiginys: "Sužinoję apie Gedimino skundą popiežiui, Torunės, Kulmo, Braunsbergo ir Neuenbergo gvardijonai stojo ginti kryžiuočių."
+  semantiniai_rysiai: "Paulius iš Olivos rėmė Kryžiuočių ordinas (0.86); Jordanas iš Pelplino rėmė Kryžiuočių ordinas (0.86)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "178501-179518; hash=c7727a9936e60cd4db58aecbc83230029c830c8b308d55f8a267c197d2b108c9; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Kryžiuočių ordinas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Paulius iš Olivos: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Paulius iš Olivos stojo ginti kryžiuočių."
   pagrindžia:
-    - c-008
+    - c-159568
 
 <a id="claim-t-175437"></a>
-- t-006
+- t-010
   global_id: t-175437
-  teiginys: '1236 m. Torunės miestas buvo perkeltas į dabartinės Torunės vietą.'
+  teiginys: "1236 m. Torunės miestas buvo perkeltas į dabartinės Torunės vietą."
+  temporaliniai_duomenys: "įvykio data: 1236 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, pilnas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "167634-167889; hash=a304cfeee526ce71b4f44546569b917a091d1f1de6b8275954d3b212e83e3ea0; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-005
+    - c-159562
 
 <a id="claim-t-175438"></a>
-- t-007
+- t-019
   global_id: t-175438
-  teiginys: 'Torunę 1235 m. pastatė kryžiuočiai, Teutonų ordinui gausinant miestus ir pilis Baltijos pakrantėse.'
+  teiginys: "Torunę 1235 m. pastatė kryžiuočiai, Teutonų ordinui gausinant miestus ir pilis Baltijos pakrantėse."
+  temporaliniai_duomenys: "pastatymo data: 1235 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata tiesiogiai palaiko faktą, bet pradiniame tekste yra OCR ir skyrybos klaidų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "35138-35671; hash=036d93124793b5d2e6a825e45f575741bff2c9516a253ab27d211d79f21e997b; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Torunė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=79"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Torunė\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-159558
 
 <a id="claim-t-175440"></a>
-- t-008
+- t-021
   global_id: t-175440
-  teiginys: '1576 m. gruodžio 20 d. laiškas buvo duotas Torunėje.'
+  teiginys: "1576 m. gruodžio 20 d. laiškas buvo duotas Torunėje."
+  temporaliniai_duomenys: "įvykio data: 1576 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo dokumento formuluotės fragmentas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "646706-646898; hash=dca26efb77a68ce241d800afa8d390b5f51086a1ee543af98d0f02a3269c20f5; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-006
+    - c-159565
 
 <a id="claim-t-175441"></a>
-- t-009
+- t-007
   global_id: t-175441
-  teiginys: 'XVII a. Torunės magistrato bibliotekos nuorašas buvo padarytas iš Karaliaučiaus bibliotekos teksto.'
+  teiginys: "XVII a. Torunės magistrato bibliotekos nuorašas buvo padarytas iš Karaliaučiaus bibliotekos teksto."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "50048-50266; hash=14606af021f269f9458b32d03dbffa67d3433f5a7ec8b01592e7c65cfb3fb6f1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> nuorašas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Torunė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "nuorašas: mention_match, thing, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Torunė\" parinktas kaip owner_note_path. Targetas \"nuorašas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-159569
 
 <a id="claim-t-175442"></a>
-- t-010
+- t-001
   global_id: t-175442
-  teiginys: '1231 m. Ordino magistras Kulmo žemėje pastatė Torunės pilį, po to prasidėjo sisteminga agresija prieš prūsus.'
+  teiginys: "1231 m. Ordino magistras Kulmo žemėje pastatė Torunės pilį, po to prasidėjo sisteminga agresija prieš prūsus."
+  temporaliniai_duomenys: "pastatymo data: 1231 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pridėta citatoje nurodyta data ir sutrumpinta formuluotė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "63772-64064; hash=dd519d6014243e8cfef1061de5f36e511bbb53576055c5e0b1cd7a8683e9c6c4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_group_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Torunė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Prūsai: mention_match, place, gap=56"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Torunė\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-007
+    - c-159567
 
 <a id="claim-t-175443"></a>
-- t-011
+- t-012
   global_id: t-175443
-  teiginys: 'Magistras su Torunės broliais ir kunigaikščiu Kazimieru žygiavo stabdyti naujos Sventopelko pilies statybos.'
+  teiginys: "Magistras su Torunės broliais ir kunigaikščiu Kazimieru žygiavo stabdyti naujos Sventopelko pilies statybos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "305421-306038; hash=86e226a9d44214bf239784c07e600c61d7cd13425752cc51a488cb574e94e36e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Sventopelkas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Torunė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Sventopelkas: mention_match, person, gap=67"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Torunė\" parinktas kaip owner_note_path. Targetas \"Sventopelkas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-014
+    - c-159577
 
 <a id="claim-t-175444"></a>
-- t-012
+- t-013
   global_id: t-175444
-  teiginys: 'Vienas Krokuvos kilmingasis į Torunės pilį pasiuntė tris laivus su maistu ir gėrimais, 300 jaučių bei karvių ir daug kinkomų gyvulių.'
+  teiginys: "Vienas Krokuvos kilmingasis į Torunės pilį pasiuntė tris laivus su maistu ir gėrimais, 300 jaučių bei karvių ir daug kinkomų gyvulių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "312808-313386; hash=90c936964dc9587838c1848adf817c014d17c2f9d7ce52c05cbc04521af6f04d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Laivai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Torunė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Laivai: mention_match, thing, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Torunė\" parinktas kaip owner_note_path. Targetas \"Laivai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-013
+    - c-159575
 
 <a id="claim-t-175445"></a>
-- t-013
+- t-020
   global_id: t-175445
-  teiginys: 'Torunės gvardijonas kartu su kitais dvasininkais laiškuose popiežiui gynė kryžiuočius nuo Gedimino skundo.'
+  teiginys: "Torunės gvardijonas kartu su kitais dvasininkais laiškuose popiežiui gynė kryžiuočius nuo Gedimino skundo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "178501-179518; hash=c7727a9936e60cd4db58aecbc83230029c830c8b308d55f8a267c197d2b108c9; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Torunė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=90"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Torunė\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-159568
 
 <a id="claim-t-175446"></a>
-- t-014
+- t-009
   global_id: t-175446
-  teiginys: 'Dusburgietis prūsų pilių vietas prie Torunės aprašė remdamasis ir kitų pasakojimais.'
+  teiginys: "Dusburgietis prūsų pilių vietas prie Torunės aprašė remdamasis ir kitų pasakojimais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "73557-74210; hash=2aa5cf61be87250c55063bac06e087754d67bdf4330dab49ae83db838bb3c4c9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Elbingas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Torunė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Elbingas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Torunė\" parinktas kaip owner_note_path. Targetas \"Elbingas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-011
+    - c-159571
 
 <a id="claim-t-175448"></a>
-- t-015
+- t-016
   global_id: t-175448
-  teiginys: 'Prie Torunės priėjusi kariuomenė sudegino ligoninę ir kitus už miesto sienų buvusius degius objektus.'
+  teiginys: "Prie Torunės priėjusi kariuomenė sudegino ligoninę ir kitus už miesto sienų buvusius degius objektus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "459306-459692; hash=7a73483984811638ddc51f2e9d4bdf53f9a4f79aea18db31084837806e942ee2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kulmas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Torunė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kulmas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Torunė\" parinktas kaip owner_note_path. Targetas \"Kulmas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-159561
 
 <a id="claim-t-175449"></a>
-- t-016
+- t-011
   global_id: t-175449
-  teiginys: 'Dabartinės Torunės pilies vietoje 1000–500 m. pr. m. e. buvo lužitėnų kultūros gyvenvietė.'
+  teiginys: "Dabartinės Torunės pilies vietoje 1000–500 m. pr. m. e. buvo lužitėnų kultūros gyvenvietė."
+  temporaliniai_duomenys: "įvykio data: 500 m; įvykio data: iki 1300 m.; įvykio data: 1000-500; įvykio data: 1300 m.; įvykio data: 1454 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Teiginys yra enciklopedinis, gramatiškas ir paremtas archeologinių tyrimų aprašymu citatoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "168113-168459; hash=2b1f63fea72f26cb6c7bc6a7d5e2ad77994214babf57a6b3941745a92be4e98d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pilaitė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Torunė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Pilaitė: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Torunė\" parinktas kaip owner_note_path. Targetas \"Pilaitė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-159560
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-188213|Kryžiuočių ordinas]]: Hartknocho pastaba Narbutas sieja Senosios Torunės įkūrimą su vieta, kurią kryžiuočiai paėmė įžengdami į Prūsus.
 - susijęs iš [[objektai/ivykiai/Pipino nukankinimas ir mirtis.md#claim-t-62897|Pipino nukankinimas ir mirtis]]: Dusburgietis Pipino mirtį vaizdavo kaip pakorimą po to, kai Pipinas buvo pririštas prie arklio ir atvilktas iki Torunės.
 - susijęs iš [[objektai/asmenys/Pipinas.md#claim-t-59998|Pipinas]]: Ragavos vadas išdavė savo seserėną Pipiną broliams, kurie pririštą prie arklio uodegos Pipiną nuvilko iki Torunės ir pakorė po medžiu.
@@ -307,8 +484,9 @@ Torunė minima kaip Teutonų ordino atramos vieta Kulmo žemėje: 1231 m. Ordino
     amžiumi vėliau, Lenkijoje pasuko vienas galingiausių anų lai­
     kų karalių - Boleslovas Didysis, pramintas Narsiuoju.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -327,6 +505,7 @@ Torunė minima kaip Teutonų ordino atramos vieta Kulmo žemėje: 1231 m. Ordino
     mūšio, toks didelis džiaugsmas apėmė krikščionių širdis, kad pranoko vakarykštės dienos
     raudas.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -342,6 +521,7 @@ Torunė minima kaip Teutonų ordino atramos vieta Kulmo žemėje: 1231 m. Ordino
     (X a. vidurys — XII—XIII a. sandūra), sunaikinta prūsų. Pirmas mūrinės pilies statybos
     etapas truko iki 1300 m. XIV a. statybos darbai buvo tęsiami. Pilis sugriauta 1454 m.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -359,6 +539,7 @@ Torunė minima kaip Teutonų ordino atramos vieta Kulmo žemėje: 1231 m. Ordino
     prie Kulmo miesto, jį smarkiai puolė dieną ir naktį, tačiau nieko nelaimėjo, nes miestiečiai
     atkakliai gynėsi.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -373,6 +554,7 @@ Torunė minima kaip Teutonų ordino atramos vieta Kulmo žemėje: 1231 m. Ordino
     statyti ir nauja pilis, iš pradžių — iš rąstų, žemių ir akmenų, о XIII a. 6—7 dešimtmečiais
     — mūrinė. Torunės pilyje apie XIII a. vidurį, atrodo, įsikūrė Ordino konventas.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -388,6 +570,7 @@ Torunė minima kaip Teutonų ordino atramos vieta Kulmo žemėje: 1231 m. Ordino
     Viešpaties metais 1576, gruodžio 20 dieną. Mūsų karaliavi­
     mo išties pirmaisiais metais].
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -407,6 +590,7 @@ Torunė minima kaip Teutonų ordino atramos vieta Kulmo žemėje: 1231 m. Ordino
     kindavo Ordinui, kuris niokojo baltiš-
     kąją Prūsiją.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -436,6 +620,7 @@ Torunė minima kaip Teutonų ordino atramos vieta Kulmo žemėje: 1231 m. Ordino
     genti peccatrici, populo nequam, filiis
     sceleratis aliqua pactione conjungi.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -451,6 +636,7 @@ Torunė minima kaip Teutonų ordino atramos vieta Kulmo žemėje: 1231 m. Ordino
     bibliotekos  teksto. Nurašyta žmogaus,  gerai mokėjusio viduramžių  lotynų  kalbą,
     daugelyje vietų tekstui grąžinusio pirminę prasmę.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -465,6 +651,7 @@ Torunė minima kaip Teutonų ordino atramos vieta Kulmo žemėje: 1231 m. Ordino
     mo išties pirmaisiais metais]. Asmeninis parašas:
     STEPHANUS REX [karalius Steponas].
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -484,6 +671,7 @@ Torunė minima kaip Teutonų ordino atramos vieta Kulmo žemėje: 1231 m. Ordino
     apie Elbingo pilį to pat vardo upės žiotyse ir jos sunaikinimą (III, 7, 16), apie pirmąsias
     kryžiuočių  pilis Varmės žemėje, Rudino miesto užkariavimus  ir kt.  (III, 27, 155).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -511,6 +699,7 @@ Torunė minima kaip Teutonų ordino atramos vieta Kulmo žemėje: 1231 m. Ordino
     miestiečių, be to, dar išreikalautų Czopowe i Szosowe mokes­
     čius*.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -529,6 +718,7 @@ Torunė minima kaip Teutonų ordino atramos vieta Kulmo žemėje: 1231 m. Ordino
     trukus pats atvykęs, buvo priimtas su didele pagarba, apsivilko Teutonų namų ordino
     vienuolio apsiaustą, o brolius išgelbėjo nuo didelio vargo.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -548,11 +738,256 @@ Torunė minima kaip Teutonų ordino atramos vieta Kulmo žemėje: 1231 m. Ordino
     plaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė
     traukti su kariuomene į šią vietą. Jis mat norėjo neleisti statyti čia pilies.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
+## Citatos
+
+- id: c-159558
+  citata_originali: |
+    Teutonų
+    ordinas, XIII amžiuje pavergęs prūsus ir prislopinęs lietuvių pa­
+    gonybę, Baltijos pakrantėse pagausino miestų ir pilių. 1255 me­
+    tais iškilo Karaliaučius, įkurtas padedant Čekijos karaliui Oto­
+    kami; Torunę -1235 metais, Malburgas [Marienburgas] -1281
+    metais, pastatyti kryžiuočių; galiausiai XIV amžiuje buvo įkurti
+    bemaž visi Varmės miestai.
+    Tuo pačiu keliu kaip Henrikas Paukštininkas Vokietijoje, tik
+    amžiumi vėliau, Lenkijoje pasuko vienas galingiausių anų lai­
+    kų karalių - Boleslovas Didysis, pramintas Narsiuoju.
+  citata_rodoma: "1255 me­\ntais iškilo Karaliaučius, įkurtas padedant Čekijos karaliui Oto­\nkami; Torunę -1235 metais, Malburgas [Marienburgas] -1281\nmetais, pastatyti kryžiuočių; galiausiai XIV amžiuje buvo įkurti\nbemaž visi Varmės miestai.\nTuo pačiu keliu kaip Henrikas Paukštininkas Vokietijoje, tik\namžiumi vėliau, Lenkijoje pasuko vienas galingiausių anų lai­\nkų karalių - Boleslovas Didysis, pramintas Narsiuoju."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175432
+    - t-175438
+
+- id: c-159559
+  citata_originali: |
+    grobio  ir laimėję garbingą pergalę, nes jiems talkino mūsų viešpats Jėzus Kristus,
+    kuris tebūnie garbinamas per amžių amžius, amen. Tuo tarpu stalininkas Druzigeris,
+    su saviškiais nelyginant koks bailys pabėgęs iš mūšio, Torunės mieste pranešė, kad
+    ir broliai, ir maldininkai, ir visa krikščionių kariuomenė žuvusi mūšyje, o tada Kulmo
+    žemėje ir Lenkijoje kilo toks baisus krikščionių raudojimas, kokio nuo amžių nebuvo
+    girdėta. Tačiau kitos dienos pavakaryje, kai broliai su kariuomene sugrįžo po pergalingo
+    mūšio, toks didelis džiaugsmas apėmė krikščionių širdis, kad pranoko vakarykštės dienos
+    raudas.
+  citata_rodoma: "Tuo tarpu stalininkas Druzigeris,\nsu saviškiais nelyginant koks bailys pabėgęs iš mūšio, Torunės mieste pranešė, kad\nir broliai, ir maldininkai, ir visa krikščionių kariuomenė žuvusi mūšyje, o tada Kulmo\nžemėje ir Lenkijoje kilo toks baisus krikščionių raudojimas, kokio nuo amžių nebuvo\ngirdėta."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175431
+
+- id: c-159560
+  citata_originali: |
+    Kaip rodo archeologiniai tyrimai, dab. Torunės pilies vietoje dar 1000—500 m. pr. m.
+    e. buvo lužitėnų kultūros gyvenvietė, vėliau — atvira gyvenvietė (VIII—X a.) bei pilaitė
+    (X a. vidurys — XII—XIII a. sandūra), sunaikinta prūsų. Pirmas mūrinės pilies statybos
+    etapas truko iki 1300 m. XIV a. statybos darbai buvo tęsiami. Pilis sugriauta 1454 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175449
+
+- id: c-159561
+  citata_originali: |
+    Paskui
+    prie Štraisbergo pilies441 įėjo į Kulmo žemę padaliję savo kariuomenę, paėmė daug pilių,
+    o  į jas bėgančius žmones išžudė ar išsivarė  į nelaisvę. Po to priėjo Torunę ir sudegino
+    ligoninę bei visa kita, kas tik galėjo būti ugnies sunaikinama už sienų. Galop, atžygiavę
+    prie Kulmo miesto, jį smarkiai puolė dieną ir naktį, tačiau nieko nelaimėjo, nes miestiečiai
+    atkakliai gynėsi.
+  citata_rodoma: "Po to priėjo Torunę ir sudegino\nligoninę bei visa kita, kas tik galėjo būti ugnies sunaikinama už sienų. Galop, atžygiavę\nprie Kulmo miesto, jį smarkiai puolė dieną ir naktį, tačiau nieko nelaimėjo, nes miestiečiai\natkakliai gynėsi."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175448
+
+- id: c-159562
+  citata_originali: |
+    1236 m. Torunės miestas perkeltas į dab. Torunės vietą (SRP, 3, p. 58). Čia pradėta
+    statyti ir nauja pilis, iš pradžių — iš rąstų, žemių ir akmenų, о XIII a. 6—7 dešimtmečiais
+    — mūrinė. Torunės pilyje apie XIII a. vidurį, atrodo, įsikūrė Ordino konventas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175437
+
+- id: c-159565
+  citata_originali: |
+    Norime, kad kuo ilgiausiai tas darbas bei
+    šis [laiškas] gyvuotų ir būtų nepažeistas. Duota Torunėje,
+    Viešpaties metais 1576, gruodžio 20 dieną. Mūsų karaliavi­
+    mo išties pirmaisiais metais].
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175440
+
+- id: c-159567
+  citata_originali: |
+    1231 m. Ordino magistras iš lenkų jam
+    dovanotų žemių, savo pilių kairiajame
+    Vyslos krante, persikėlė per upę į Kulmo
+    žemę ir pastatė Torunės pilį, prasidėjo
+    sisteminga agresija prieš prūsus. Daug
+    kunigaikščių iš Vokietijos ir Lenkijos tal-
+    kindavo Ordinui, kuris niokojo baltiš-
+    kąją Prūsiją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175442
+
+- id: c-159568
+  citata_originali: |
+    Tad atmeskite tą bedievišką sąjungą: o ka­
+    dangi Viešpats jūsų ginklą valdo ir narsos didybės suteiks,
+    nesiliaukite kovoję su priešu ir tik po visiško jo sunaikinimo
+    pelnysite garbę žemėje, o danguje triumfo laurus"8.
+    Kai maždaug tuo metu sužinota, jog Gedimino skundas
+    tikrai popiežiui pasiųstas, ne tik Mažesniųjų brolių visos Prū­
+    sijos kustodas, to paties ordino Torunės, Kulmo, Braunsber-
+    go ir Neuenbergo gvardijonai, bet ir didžios garbės verti aba­
+    tai: Paulius iš Olivos ir Jordanas iš Pelplino stojo ginti
+    kryžiuočių, tiesiogiai popiežiui dviejuose laiškuose pranešda­
+    mi, esą meilė tiesai ir pareiga jos laikytis verčianti juos pa­
+    reikšti Jo Šventenybei, kad Ordino brolių garbė tapo šmeiži­
+    kišku ir nedoru būdu suteršta, nes pavyduoliai jų priešai išdrįso
+    teigti, esą ordinas karštai priešinęsis Lietuvos karaliaus pa­
+    geidavimui priimti krikščionių tikėjimą*. Jie tad, esant tokiai
+    Minus ergo decet militantes domino,
+    genti peccatrici, populo nequam, filiis
+    sceleratis aliqua pactione conjungi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175445
+    - t-175436
+
+- id: c-159569
+  citata_originali: |
+    Torunės  magistrato  bibliotekos  nuorašas  (XVII  a.)  padarytas  iš  Karaliaučiaus
+    bibliotekos  teksto. Nurašyta žmogaus,  gerai mokėjusio viduramžių  lotynų  kalbą,
+    daugelyje vietų tekstui grąžinusio pirminę prasmę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175441
+
+- id: c-159570
+  citata_originali: |
+    Duota Torunėje,
+    Viešpaties metais 1576, gruodžio 20 dieną. Mūsų karaliavi­
+    mo išties pirmaisiais metais]. Asmeninis parašas:
+    STEPHANUS REX [karalius Steponas].
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175435
+
+- id: c-159571
+  citata_originali: |
+    Dusburgietis, kaip  jis pats pažymi įvade, pasisėmė medžiagos ne tik iš rašytinių
+    šaltinių, bet aprašė ir tuos įvykius, kuriuos pats buvo matęs, „apie kuriuos pasakojo juos
+    matę ir juose dalyvavę žmonės“, pagaliau ir apie tuos, apie kuriuos sužinojęs iš patikimų
+    šaltinių („Kaip ši knyga sutvarkyta“).
+      Kai kuriose vietose Dusburgietis kartais prasitaria rašąs taip, kaip kiti jam kalbėję:
+    „pasak kai kurių“. Sitai jis pažymi, kalbėdamas apie prūsų pilių vietas prie Torunės,
+    apie Elbingo pilį to pat vardo upės žiotyse ir jos sunaikinimą (III, 7, 16), apie pirmąsias
+    kryžiuočių  pilis Varmės žemėje, Rudino miesto užkariavimus  ir kt.  (III, 27, 155).
+  citata_rodoma: "Sitai jis pažymi, kalbėdamas apie prūsų pilių vietas prie Torunės,\napie Elbingo pilį to pat vardo upės žiotyse ir jos sunaikinimą (III, 7, 16), apie pirmąsias\nkryžiuočių  pilis Varmės žemėje, Rudino miesto užkariavimus  ir kt."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175446
+
+- id: c-159574
+  citata_originali: |
+    Radvila užsistojo juos,
+    prašydamas karaliaus šiuos muitus atidėti iki būsimo sei­
+    mo, ir karalius sutiko. Tačiau Torunės seime, kilus ginčams
+    su Gdansku ir kitiems nesutarimams, jokių rinkliavų nusta­
+    tyti nė nemanyta, ir karalius, ne dėl to, kad būtų engęs jam
+    pavaldžius žmones ar norėjęs suvaržyti kurio nors luomo
+    teises bei privilegijas, bet iškilus netikėtiems krašto reika­
+    lams, visų pirma dėl Livonijos ir Lietuvos sienų gynybos,
+    norėdamas, kad pirkliai iš nemažų savo prekybos pajamų
+    ką nors kraštui paskirtų, kas jiems su kaupu sugrįš iš užsie­
+    nio prekybos, bet nebūtų rizikuojama sienų saugumu, įsakė
+    tuojau pat rinkti muitus. Dėl Vilniaus Batoras pareikalavo
+    iš vaivados Radvilos, kad šis neprieštaraudamas savo auto­
+    ritetu paakintų visus mokėti nustatytus muitus, o iš Vilniaus
+    miestiečių, be to, dar išreikalautų Czopowe i Szosowe mokes­
+    čius*.
+  citata_rodoma: "Tačiau Torunės seime, kilus ginčams\nsu Gdansku ir kitiems nesutarimams, jokių rinkliavų nusta­\ntyti nė nemanyta, ir karalius, ne dėl to, kad būtų engęs jam\npavaldžius žmones ar norėjęs suvaržyti kurio nors luomo\nteises bei privilegijas, bet iškilus netikėtiems krašto reika­\nlams, visų pirma dėl Livonijos ir Lietuvos sienų gynybos,\nnorėdamas, kad pirkliai iš nemažų savo prekybos pajamų\nką nors kraštui paskirtų, kas jiems su kaupu sugrįš iš užsie­\nnio prekybos, bet nebūtų rizikuojama sienų saugumu, įsakė\ntuojau pat rinkti muitus. Dėl Vilniaus Batoras pareikalavo\niš vaivados Radvilos, kad šis neprieštaraudamas savo auto­\nritetu paakintų visus mokėti nustatytus muitus, o iš Vilniaus\nmiestiečių, be to, dar išreikalautų Czopowe i Szosowe mokes­\nčius*."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175433
+
+- id: c-159575
+  citata_originali: |
+    Neilgai trukus, stigdami pilyse maisto, beveik jau bado spiriami, broliai su savo
+    šeimyna ėmė šauktis pagalbos  į viešpatį, kuris visada globoja nelaimės ištiktuosius.
+    Todėl jis paragino vieną kilmingą Krokuvos vyrą290 stoti  į vienuolyną, ir šis pasiuntė  į
+    Torunės pilį tris didelius laivus, pakrautus vyno, midaus, arba medaus vyno, bei kitko,
+    kas reikalinga gyvenimui, be to, 300 jaučių bei karvių ir daug kinkomų gyvulių; neilgai
+    trukus pats atvykęs, buvo priimtas su didele pagarba, apsivilko Teutonų namų ordino
+    vienuolio apsiaustą, o brolius išgelbėjo nuo didelio vargo.
+  citata_rodoma: "Todėl jis paragino vieną kilmingą Krokuvos vyrą290 stoti  į vienuolyną, ir šis pasiuntė  į\nTorunės pilį tris didelius laivus, pakrautus vyno, midaus, arba medaus vyno, bei kitko,\nkas reikalinga gyvenimui, be to, 300 jaučių bei karvių ir daug kinkomų gyvulių; neilgai\ntrukus pats atvykęs, buvo priimtas su didele pagarba, apsivilko Teutonų namų ordino\nvienuolio apsiaustą, o brolius išgelbėjo nuo didelio vargo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175444
+
+- id: c-159577
+  citata_originali: |
+    Kadangi
+    klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali
+    daryti blogus darbus, ir skatina dar didesnėms blogybėms, todėl ir Sventopelkas, be galo
+    didžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems, pradėjo statyti
+    prieš dabartinį Kulmo miestą naują pilį, pavadintą Sveče285 ir turėjusią trukdyti broliams
+    plaukioti Vysla aukštyn ir žemyn. Kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams
+    plaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė
+    traukti su kariuomene į šią vietą. Jis mat norėjo neleisti statyti čia pilies.
+  citata_rodoma: "Kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams\nplaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė\ntraukti su kariuomene į šią vietą. Jis mat norėjo neleisti statyti čia pilies."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175443
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Martynas iš Golino]]

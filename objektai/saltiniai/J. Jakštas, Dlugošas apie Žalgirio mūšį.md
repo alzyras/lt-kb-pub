@@ -16,6 +16,18 @@ tags:
   - valstybė
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # J. Jakštas, Dlugošas apie Žalgirio mūšį
 
@@ -28,10 +40,21 @@ amziai:
 <a id="claim-t-31722"></a>
 - t-001
   global_id: t-31722
-  teiginys: 'J. Jakšto „Dlugošas apie Žalgirio mūšį“ 1960 m. išspausdintas TaPr I tomo 2 numeryje, p. 165–181.'
+  teiginys: "J. Jakšto „Dlugošas apie Žalgirio mūšį“ 1960 m. išspausdintas TaPr I tomo 2 numeryje, p. 165–181."
+  temporaliniai_duomenys: "įvykio data: 1960 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "938096-938521; hash=9762926a68c1f1977981d72fba076a6cf6fc4b998d5f012622173e79dcaf7086; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> J. Jakštas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "J. Jakštas, Dlugošas apie Žalgirio mūšį: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "J. Jakštas: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Jakštas, Dlugošas apie Žalgirio mūšį\" parinktas kaip owner_note_path. Targetas \"J. Jakštas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-33585
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -48,8 +71,31 @@ amziai:
     158-163 p. — Jučas, M. : _Žalgirio mūšis,_ Vilnius 1959. — (”) _Žalgirio
     mūšis,_ rinkiny : LKaKr, 1964.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33585
+  citata_originali: |
+    (^37) **DlugO, XIII, 119 p.**
+    (^38) **DlugO, XIII, 29, 119 p.**
+
+
+    (^344) III skyrius: valstybės suklestėjimas
+    _bibliografija,_ Athenaeum, nr. 1, 1931, 89-138 p. (nurodyta apie 200
+    darbų apie Žalgirio kautynes). — Jakštas, J. : _Dlugošas apie Žalgirio
+    mūšį,_ TaPr, I, 2, 1960, 165-181 p. — (”) _Žalgirio mūšis,_ LE, t. 35,
+    158-163 p. — Jučas, M. : _Žalgirio mūšis,_ Vilnius 1959. — (”) _Žalgirio
+    mūšis,_ rinkiny : LKaKr, 1964.
+  citata_rodoma: "**\n\n\n(^344) III skyrius: valstybės suklestėjimas\n_bibliografija,_ Athenaeum, nr. 1, 1931, 89-138 p. (nurodyta apie 200\ndarbų apie Žalgirio kautynes). — Jakštas, J. : _Dlugošas apie Žalgirio\nmūšį,_ TaPr, I, 2, 1960, 165-181 p. — (”) _Žalgirio mūšis,_ LE, t. 35,\n158-163 p."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31722

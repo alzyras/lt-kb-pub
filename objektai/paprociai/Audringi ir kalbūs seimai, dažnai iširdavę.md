@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - paprotys
   - seimas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Audringi ir kalbūs seimai, dažnai iširdavę
 
@@ -35,10 +47,19 @@ Nenurodyta
 <a id="claim-t-01911"></a>
 - t-001
   global_id: t-01911
-  teiginys: 'Seimai paprastai būdavo audringi ir kalbūs, o po ilgų kalbų dažnai iširdavo; iki minimo momento iš Augusto II šauktų seimų buvo iširę septyni.'
+  teiginys: "Seimai paprastai būdavo audringi ir kalbūs, o po ilgų kalbų dažnai iširdavo; iki minimo momento iš Augusto II šauktų seimų buvo iširę septyni."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "780130-780497; hash=8a86a8d34178af65b3147dac76746939d46e73ad5d2ca642343c4d1002002cb4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> seimas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Audringi ir kalbūs seimai, dažnai iširdavę: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "seimas: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Audringi ir kalbūs seimai, dažnai iširdavę\" parinktas kaip owner_note_path. Targetas \"seimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-02149
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -52,8 +73,28 @@ Nenurodyta
     seimas dažniausiai iširdavo (iš Augusto II iki tol šauktų seimų
     buvo iširę net 7), bet dabar niekas nedrįso kalbėti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-02149
+  citata_originali: |
+    Jei kuri pusė jų nepriimtų, prieš tą jis pagrasino čia pat
+    stovinčia caro armija. Visi buvo labai nepatenkinti, tačiau prieš
+    jėgą teko nusilenkti. Nors šiaipjau visi seimai būdavo labai
+    audringi, atstovai juose mėgdavo daug kalbėti, ir po ilgų kalbų
+
+    seimas dažniausiai iširdavo (iš Augusto II iki tol šauktų seimų
+    buvo iširę net 7), bet dabar niekas nedrįso kalbėti.
+  citata_rodoma: "Nors šiaipjau visi seimai būdavo labai\naudringi, atstovai juose mėgdavo daug kalbėti, ir po ilgų kalbų\n\nseimas dažniausiai iširdavo (iš Augusto II iki tol šauktų seimų\nbuvo iširę net 7), bet dabar niekas nedrįso kalbėti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-01911

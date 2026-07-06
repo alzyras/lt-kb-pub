@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - tikėjimas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Amžinosios ugnies saugojimas ir ligonių likimo būrimas iš šešėlio
 
@@ -37,14 +49,41 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-002
-  teiginys: 'Narbutas pasakoja, kad žyniai prie Amžinosios ugnies pagal ligonio šešėlio padėtį aiškindavo gyvybės arba mirties ženklus.'
-  pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
 
+<a id="claim-t-187999"></a>
+- t-002
+  global_id: t-187999
+  teiginys: "Narbutas pasakoja, kad žyniai prie Amžinosios ugnies pagal ligonio šešėlio padėtį aiškindavo gyvybės arba mirties ženklus."
+  teiginio_tipas: "saltinio_teiginys"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "822795-823349; hash=562ab801748ef827a81a2b5d3410ee7d642409d4f17ca312f0bb819882857ffe; match=exact"
+  sprendimo_priezastis: "gap::customs"
+  ryšio_patikimumas: "susije_su -> Rytas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Amžinosios ugnies saugojimas ir ligonių likimo būrimas iš šešėlio: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Rytas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Amžinosios ugnies saugojimas ir ligonių likimo būrimas iš šešėlio\" parinktas kaip owner_note_path. Targetas \"Rytas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  pagrindžia:
+    - c-171006
+
+<a id="claim-t-194620"></a>
+- t-003
+  global_id: t-194620
+  teiginys: "Jie staty davo ligonį priešais didele ugnį (laužą): jeigu šešėlis nuo jo kūno krisdavo tiesiai ir visiškai į priešingą nuo laužo pusę, tai tą laikydavo ženklu, kad ligonis išgis; o jeigu šešėlis krisdavo įstrižai arba atrodydavo esąs šiek tiek nukrypęs į."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "604649-605370; hash=2d8151be7b77c4ac3c4cd5acdafd77008ba8b923fb5623780a7e95a7d751ae86; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-177019
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Narbutas pasakoja, kad žyniai prie Amžinosios ugnies pagal ligonio šešėlio padėtį aiškindavo gyvybės arba mirties ženklus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -59,8 +98,85 @@ Nenurodyta
     mirties, arba gyvybės ženklus: jeigu ligoniui būdavę lemta gy­
     venti, šešėlis stovėdavęs veidu į ugnį; priešingai, jeigu pasiro­
     dydavo nugara į ugnį, neabejotinai laukė mirtis.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+- c-002
+  santrauka: 'Jie staty davo ligonį priešais didele ugnį (laužą): jeigu šešėlis nuo jo kūno krisdavo tiesiai ir visiškai į priešingą nuo laužo pusę, tai tą laikydavo ženklu, kad ligonis išgis; o jeigu šešėlis krisdavo įstrižai arba atrodydavo esąs šiek tiek nukrypęs į.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Jono Krikštytojo
+    šventės išvakarėse, šokinėjimą aplink laužą, šokimą per jį Del-
+    344
+
+    ## Puslapis 344
+
+    rijus (Delno)' priskiria prie žiniuonystės dalykų, vadinamų pi­
+    romantija, pridurdamas, kad jo laikais, XVI amžiaus antrojo­
+    je pusėje, praktikuodavo dar kitą piromantijos rūšį. Jie staty­
+    davo ligonį priešais didele ugnį (laužą): jeigu šešėlis nuo jo
+    kūno krisdavo tiesiai ir visiškai į priešingą nuo laužo pusę, tai
+    tą laikydavo ženklu, kad ligonis išgis; o jeigu šešėlis krisdavo
+    įstrižai arba atrodydavo esąs šiek tiek nukrypęs į šoną, daryta
+    išvada, kad liga neišgydoma. Matėme aukojimų aprašyme, kad
+    aukų paplotėliai buvo kepami mėtant juos per ugnį -  tai buvo
+    apvalytoji duona, vadinamieji sikies nuplaudimies.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-171006
+  citata_originali: |
+    Vėliau
+    jis aptikęs, kad žmonės garbinę ugnį ir vadinę ją Amžinąja.
+    Prie šventovių gyvenančių žynių darbas buvo rūpintis ku­
+    ru, kad ugnis niekad neužgestų. Bičiuliai teiraudavosi žynių,
+    ar ligoniai išliks gyvi. Tuomet žyniai nakčia kreipdavosi į ugnį,
+    o rytą atsakydavo klausėjams, kad prie šventosios ugnies matę
+    ligonio šešėlį; šildydamasis prie ugnies, jis parūdydavęs arba
+    mirties, arba gyvybės ženklus: jeigu ligoniui būdavę lemta gy­
+    venti, šešėlis stovėdavęs veidu į ugnį; priešingai, jeigu pasiro­
+    dydavo nugara į ugnį, neabejotinai laukė mirtis.
+  citata_rodoma: "Vėliau\njis aptikęs, kad žmonės garbinę ugnį ir vadinę ją Amžinąja.\nPrie šventovių gyvenančių žynių darbas buvo rūpintis ku­\nru, kad ugnis niekad neužgestų. Bičiuliai teiraudavosi žynių,\nar ligoniai išliks gyvi. Tuomet žyniai nakčia kreipdavosi į ugnį,\no rytą atsakydavo klausėjams, kad prie šventosios ugnies matę\nligonio šešėlį; šildydamasis prie ugnies, jis parūdydavęs arba\nmirties, arba gyvybės ženklus: jeigu ligoniui būdavę lemta gy­\nventi, šešėlis stovėdavęs veidu į ugnį; priešingai, jeigu pasiro­\ndydavo nugara į ugnį, neabejotinai laukė mirtis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187999
+
+- id: c-177019
+  citata_originali: |
+    Jono Krikštytojo
+    šventės išvakarėse, šokinėjimą aplink laužą, šokimą per jį Del-
+    344
+
+    ## Puslapis 344
+
+    rijus (Delno)' priskiria prie žiniuonystės dalykų, vadinamų pi­
+    romantija, pridurdamas, kad jo laikais, XVI amžiaus antrojo­
+    je pusėje, praktikuodavo dar kitą piromantijos rūšį. Jie staty­
+    davo ligonį priešais didele ugnį (laužą): jeigu šešėlis nuo jo
+    kūno krisdavo tiesiai ir visiškai į priešingą nuo laužo pusę, tai
+    tą laikydavo ženklu, kad ligonis išgis; o jeigu šešėlis krisdavo
+    įstrižai arba atrodydavo esąs šiek tiek nukrypęs į šoną, daryta
+    išvada, kad liga neišgydoma. Matėme aukojimų aprašyme, kad
+    aukų paplotėliai buvo kepami mėtant juos per ugnį -  tai buvo
+    apvalytoji duona, vadinamieji sikies nuplaudimies.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194620

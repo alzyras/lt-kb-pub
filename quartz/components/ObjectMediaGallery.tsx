@@ -1,5 +1,6 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/objectMediaGallery.scss"
+import { FullSlug, resolveRelative } from "../util/path"
 import {
   cleanText,
   directnessLabel,
@@ -9,7 +10,6 @@ import {
   objectMediaSet,
   relationLabel,
 } from "../util/objectMedia"
-import { FullSlug, resolveRelative } from "../util/path"
 // @ts-ignore
 import script from "./scripts/object-media-gallery.inline"
 
@@ -18,9 +18,9 @@ const ObjectMediaGallery: QuartzComponent = ({ fileData }: QuartzComponentProps)
     return null
   }
 
-  const { direct, contextual, all, fallbackPrimary, totalCount } = objectMediaSet(fileData.frontmatter)
+  const { direct, contextual, all, totalCount } = objectMediaSet(fileData.frontmatter)
 
-  if (!fallbackPrimary || all.length === 0) {
+  if (all.length === 0) {
     return null
   }
 
@@ -28,8 +28,8 @@ const ObjectMediaGallery: QuartzComponent = ({ fileData }: QuartzComponentProps)
   const relationOptions = [...new Set(all.map((entry) => String(entry.relationType ?? "").trim()).filter(Boolean))]
     .sort((a, b) => relationLabel(a).localeCompare(relationLabel(b), "lt"))
   const objectTitle = cleanText(fileData.frontmatter?.object_title) || cleanText(fileData.frontmatter?.title)
-  const objectSlug = cleanText(fileData.frontmatter?.object_slug) as FullSlug
-  const backHref = objectSlug ? resolveRelative(fileData.slug as FullSlug, objectSlug) : "../"
+  const objectSlug = String(fileData.slug ?? "").replace(/\/galerija$/, "") as FullSlug
+  const objectHref = resolveRelative(fileData.slug as FullSlug, objectSlug)
 
   return (
     <main
@@ -38,9 +38,6 @@ const ObjectMediaGallery: QuartzComponent = ({ fileData }: QuartzComponentProps)
       data-default-view={defaultView}
       data-total-count={String(totalCount)}
     >
-      <p class="object-media-backlink">
-        <a href={backHref}>Grįžti į objektą{objectTitle ? ` (${objectTitle})` : ""}</a>
-      </p>
       <div class="object-media-gallery-header">
         <div>
           <p class="object-media-eyebrow">Atvaizdai</p>
@@ -49,54 +46,14 @@ const ObjectMediaGallery: QuartzComponent = ({ fileData }: QuartzComponentProps)
             Visi su objektu susieti atvaizdai. Pagal nutylėjimą rodomi tiesioginiai atvaizdai, o susijusius
             gali įjungti atskirai.
           </p>
+          <a class="object-media-backlink" href={objectHref}>
+            Grįžti į pagrindinį puslapį{objectTitle ? ` (${objectTitle})` : ""}
+          </a>
         </div>
         <div class="object-media-summary">
           <span>{totalCount} vaizd.</span>
           <span>{direct.length} tiesiog.</span>
           <span>{contextual.length} susij.</span>
-        </div>
-      </div>
-
-      <div class="object-media-primary">
-        <a
-          class="object-media-primary-figure"
-          href={fallbackPrimary.canonicalUrl || fallbackPrimary.thumbUrl || "#"}
-          target="_blank"
-          rel="noreferrer noopener"
-        >
-          <img
-            src={fallbackPrimary.thumbUrl || fallbackPrimary.canonicalUrl || ""}
-            alt={displayCaption(fallbackPrimary)}
-            loading="eager"
-            decoding="async"
-          />
-        </a>
-        <div class="object-media-primary-copy">
-          <p class="object-media-primary-label">
-            {fallbackPrimary.directness === "direct" ? "Pagrindinis atvaizdas" : "Pagrindinis susijęs vaizdas"}
-          </p>
-          <h3>{displayCaption(fallbackPrimary)}</h3>
-          <div class="object-media-chip-row">
-            <span class="object-media-chip object-media-chip-directness">{directnessLabel(fallbackPrimary.directness)}</span>
-            <span class="object-media-chip object-media-chip-relation">{relationLabel(fallbackPrimary.relationType)}</span>
-            {Number(fallbackPrimary.isPrimary ?? 0) === 1 && (
-              <span class="object-media-chip object-media-chip-primary">Pirminis</span>
-            )}
-          </div>
-          {displayMeta(fallbackPrimary) && <p class="object-media-meta-line">{displayMeta(fallbackPrimary)}</p>}
-          {cleanText(fallbackPrimary.license) && (
-            <p class="object-media-license">Licencija: {cleanText(fallbackPrimary.license)}</p>
-          )}
-          {fallbackPrimary.directness !== "direct" && direct.length === 0 && (
-            <p class="object-media-note">
-              Tiesioginio portretinio ar analogiško atvaizdo dar neturime, todėl rodomas geriausias susijęs vaizdas.
-            </p>
-          )}
-          <p class="object-media-linkline">
-            <a href={fallbackPrimary.canonicalUrl || fallbackPrimary.thumbUrl || "#"} target="_blank" rel="noreferrer noopener">
-              Atidaryti šaltinį
-            </a>
-          </p>
         </div>
       </div>
 

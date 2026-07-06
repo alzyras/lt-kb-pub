@@ -16,6 +16,18 @@ tags:
   - sąvoka
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # protestantizmas
 
@@ -26,18 +38,39 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
 ## Teiginiai
 
 <a id="claim-t-168684"></a>
-- t-001
+- t-002
   global_id: t-168684
-  teiginys: 'Karalių Vazų laikais paaiškėjo, kad protestantizmas Lietuvoje nyks, ypač išmirus protestantiškajai Radvilų šakai.'
+  teiginys: "Karalių Vazų laikais paaiškėjo, kad protestantizmas Lietuvoje nyks, ypač išmirus protestantiškajai Radvilų šakai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "686779-687157; hash=694570918da39c1f8ae66d80a8ca423df4490aee64eb51ceb0e8d2acf45a23ff; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-06-13T14:12:56Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-002
+    - c-153485
 
 <a id="claim-t-168689"></a>
-- t-002
+- t-001
   global_id: t-168689
-  teiginys: 'Lietuvos protestantizmo srovės skyrėsi: tarp didikų labiausiai įsigalėjo kalvinizmas, o miestuose ir kai kur tarp vidutinės bajorijos - liuteranizmas.'
+  teiginys: "Lietuvos protestantizmo srovės skyrėsi: tarp didikų labiausiai įsigalėjo kalvinizmas, o miestuose ir kai kur tarp vidutinės bajorijos - liuteranizmas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "523908-524222; hash=2258c90b5612c9b41039e052e852f3b27f4fcafb0c3a566908a32f5b512968ea; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
+    - c-153481
+
+<a id="claim-t-193156"></a>
+- t-003
+  global_id: t-193156
+  teiginys: "Be to, labai daug pakenkė protestantizmui įvairių jo sektų savitarpio nesutikimai."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "524010-524313; hash=1e00e7fe330b37b3e9705e8de5fad865143f41934a8e1801ad42592beade3803; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-175908
 - susijęs iš [[objektai/autoriai/J. Bretkūnas.md#claim-t-05719|J. Bretkūnas]]: J. Bretkūnas buvo tarp lietuvių, rašiusių protestantizmo skleidimo tekstus.
 - susijęs iš Mažoji Lietuva: Žmonių iš Mažosios Lietuvos lietuviškai skelbtas protestantizmas buvo silpnas ir trumpas judėjimas.
 - susijęs iš Šiaurės Europa: XVII–XVIII a. Šiaurės Europa dėl protestantizmo pritapo prie dinamiškosios Vakarų Europos dalies.
@@ -71,6 +104,7 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
     įsigalėjęs kalvinizmas, o miestuose ir kai kur vidutinės bajo-
     rijos tarpe — liuteranizmas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -89,8 +123,75 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
     tuvoje protestantų išliko tik mažos salelės apie buvusius Rad-
     vilų centrus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+- c-003
+  santrauka: 'Be to, labai daug pakenkė protestantizmui įvairių jo sektų savitarpio nesutikimai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Be to, labai daug pakenkė protestantizmui įvairių jo sektų
+    savitarpio nesutikimai. Lietuvos didikų tarpe labiausiai buvo
+    įsigalėjęs kalvinizmas, o miestuose ir kai kur vidutinės bajo-
+    rijos tarpe — liuteranizmas. Tačiau buvo nemaža ir kitų sektų;
+    visos jos tarp savęs ginčijosi, vienos kitas smerkdamos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003
+
+## Citatos
+
+- id: c-153481
+  citata_originali: |
+    Didžiausias protestantizmo
+    rėmėjas dar liko M. Radvila Rudasis, o vėliau — jo sūnūs —
+    Biržų Radvilos.
+    Be to, labai daug pakenkė protestantizmui įvairių jo sektų
+    savitarpio nesutikimai. Lietuvos didikų tarpe labiausiai buvo
+    įsigalėjęs kalvinizmas, o miestuose ir kai kur vidutinės bajo-
+    rijos tarpe — liuteranizmas.
+  citata_rodoma: "Lietuvos didikų tarpe labiausiai buvo\nįsigalėjęs kalvinizmas, o miestuose ir kai kur vidutinės bajo-\nrijos tarpe — liuteranizmas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-168689
+
+- id: c-153485
+  citata_originali: |
+    Apskritai karalių Vazų laikais jau visiškai paaiškėjo, kad
+    protestantizmas Lietuvoje išnyks. Ypač jo būklė pasunkėjo,
+    kai išmirė protestantiškoji Radvilų šaka. Protestantizmo gy-
+    nėjų nebeliko; o be galingų gynėjų ano meto sąlygomis protes-
+    tantizmui laikytis buvo neįmanoma. Todėl iki mūsų laikų Lie-
+    tuvoje protestantų išliko tik mažos salelės apie buvusius Rad-
+    vilų centrus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-168684
+
+- id: c-175908
+  citata_originali: |
+    Be to, labai daug pakenkė protestantizmui įvairių jo sektų
+    savitarpio nesutikimai. Lietuvos didikų tarpe labiausiai buvo
+    įsigalėjęs kalvinizmas, o miestuose ir kai kur vidutinės bajo-
+    rijos tarpe — liuteranizmas. Tačiau buvo nemaža ir kitų sektų;
+    visos jos tarp savęs ginčijosi, vienos kitas smerkdamos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193156

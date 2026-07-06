@@ -16,11 +16,6 @@ datos:
   - '2026 m.'
 date_start: '1236'
 date_end: '2026'
-description: 'Lietuvos kariuomenės raida nuo Gedimino laikų tarnybininkų iki LDK pergalių, 1939 m. mobilizacijos ir Liaudies kariuomenės.'
-socialDescription: 'Lietuvos kariuomenės istorija per tarnybą, bajorų šaukimą, LDK vadus, Salaspilio ir Kirchholmo pergales bei XX a. lūžius.'
-seo_atnaujinta: '2026-07-02T23:12:35.345653+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -28,105 +23,333 @@ tags:
 amziai:
   - 'XIII'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvos kariuomenė
 
 ## Santrauka
 
-Lietuvos kariuomenė šiame įraše pristatoma nuo Gedimino laikais susiformavusių karo tarnybininkų iki LDK mūšių ir XX a. pertvarkų. Akcentuojami pilėnai, raiteliai, bajorų pašauktinė kariuomenė, Kristupo Radvilos Perkūno ir Jono Karolio Chodkevičiaus vadovavimas. Įrašas sieja kariuomenę su Mėlynųjų Vandenų, Salaspilio ir Kirchholmo mūšiais, Klaipėdos žygiu, 1939 m. mobilizacija ir virtimu Liaudies kariuomene.
+Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, kaip Algirdo vedama kariuomenė prie Mėlynųjų Vandenų, kaip XV a. pabaigos - XVI a. pradžios kilmingųjų pašauktinė raitelių kariuomenė ir kaip aktyvi kovos jėga Klecko bei Kuoknesės kampanijose. Šiame šaltinyje ji apibūdinama ir per savo sandarą, ginkluotę, samdinių naudojimą, žygio tempą bei vadovavimą.
 
 ## Teiginiai
 
 <a id="claim-t-182738"></a>
-- t-001
+- t-229
   global_id: t-182738
-  teiginys: 'Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybininkų sluoksnis: pilėnai, raiteliai ir gerieji žmonės.'
+  teiginys: "Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybininkų sluoksnis: pilėnai, raiteliai ir gerieji žmonės."
+  semantiniai_rysiai: "Lietuvos kariuomenė kariavo prieš Mongolai (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1328 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pirminis teiginys per ilgas ir turi skyrybos triukšmo, todėl sutrumpintas iki aiškaus fakto apie kariuomenę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "52898-53284; hash=f78fc1473e3fb9a3d2d8d6ef3688f7eda6dae234f40207841358f9b709a27d4d; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
+  ryšio_patikimumas: "kariavo_pries -> Mongolai: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Mongolai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Lietuvos kariuomenė sutriuškino mongolus."
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-004
+    - c-166157
 
 <a id="claim-t-182741"></a>
-- t-002
+- t-232
   global_id: t-182741
-  teiginys: 'Karolis Chodkevičius išvedė Lietuvos kariuomenę į mūšio lauką, kai priešo kariai jau buvo išsirikiavę.'
+  teiginys: "Karolis Chodkevičius išvedė Lietuvos kariuomenę į mūšio lauką, kai priešo kariai jau buvo išsirikiavę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "429965-430534; hash=f9c671cc1613eafbfc234941f7e0633f186049912e61fc7733464aff0aaaa162; match=ocr_normalized"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos kariuomenė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-42824
 
 <a id="claim-t-182742"></a>
-- t-003
+- t-230
   global_id: t-182742
-  teiginys: 'Visuotinio šaukimo metu didesniąją Lietuvos kariuomenės dalį sudarydavo iš pavietų į savo vėliavas susirinkę bajorai.'
+  teiginys: "Visuotinio šaukimo metu didesniąją Lietuvos kariuomenės dalį sudarydavo iš pavietų į savo vėliavas susirinkę bajorai."
+  semantiniai_rysiai: "Bajorai priklausė Lietuvos kariuomenė (0.91)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "304335-304764; hash=1e8f899eb027600998cb2ccbb874b92aa5e91b3dd9279c241c55560dd82e6dee; match=whitespace_regex"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
+  ryšio_patikimumas: "priklause -> Lietuvos kariuomenė: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bajorai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad bajorai sudarydavo didelę Lietuvos kariuomenės dalį."
   pagrindžia:
-    - c-001
+    - c-12742
 
 <a id="claim-t-182743"></a>
-- t-004
+- t-231
   global_id: t-182743
-  teiginys: 'Kristupas Radvila Perkūnas 1589–1603 m. vadovavo Lietuvos kariuomenei kaip LDK kariuomenės didysis etmonas.'
+  teiginys: "Kristupas Radvila Perkūnas 1589–1603 m. vadovavo Lietuvos kariuomenei kaip LDK kariuomenės didysis etmonas."
+  temporaliniai_duomenys: "įvykio data: 1547-1603; įvykio data: 1564 m.; įvykio data: 1589-1603; įvykio data: 1603 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta, kad teiginys aiškiau sietų asmenį su Lietuvos kariuomene ir pašalintų kataloginį fragmentiškumą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "394948-395261; hash=38fe2c42331044f05091c35a36b8f5cf8614878e04ee2ea1b1d7befe115be1b4; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos kariuomenė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-002
+    - c-42823
 
 <a id="claim-t-183157"></a>
-- t-005
+- t-233
   global_id: t-183157
-  teiginys: '1605 m. Lietuvos kariuomenė Salaspilio mūšyje pasiekė didelę pergalę prieš švedus.'
+  teiginys: "1605 m. Lietuvos kariuomenė Salaspilio mūšyje pasiekė didelę pergalę prieš švedus."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Lietuvos kariuomenė kariavo prieš Švedai (0.91)"
+  temporaliniai_duomenys: "įvykio data: 1605 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "158642-158937; hash=8061e79942c9f426b92c85e45b0c1730c5d7d3b7794ac4b83ea73e7cb7d4aa4a; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Švedai: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Švedai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Lietuvos kariuomenės pergalę prieš švedus."
   pagrindžia:
-    - c-005
+    - c-166542
 
 <a id="claim-t-183158"></a>
-- t-006
+- t-234
   global_id: t-183158
-  teiginys: '1605 m. prie Kirchholmo Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė su 3 tūkst. raitelių nugalėjo 12 tūkst. švedų.'
+  teiginys: "1605 m. prie Kirchholmo Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė su 3 tūkst. raitelių nugalėjo 12 tūkst. švedų."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Lietuvos kariuomenė kariavo prieš Švedai (0.92)"
+  temporaliniai_duomenys: "įvykio data: 1605 m.; įvykio data: 1620 m.; įvykio data: apie 1620 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, o citata palaiko pilną sakinį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "158938-159155; hash=a0cea0f2fd6975fa4012d9751a7e2a47f4913bdd02818a7f232d6781c894f88e; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Švedai: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Švedai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad LDK kariuomenė nugalėjo švedus."
   pagrindžia:
-    - c-006
+    - c-166543
 
 <a id="claim-t-183160"></a>
-- t-007
+- t-236
   global_id: t-183160
-  teiginys: 'Kadriniai Lietuvos kariuomenės karininkai nenoriai rašėsi į Klaipėdos žygį, nes nelaikė jo kova už tėvynę.'
+  teiginys: "Kadriniai Lietuvos kariuomenės karininkai nenoriai rašėsi į Klaipėdos žygį, nes nelaikė jo kova už tėvynę."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "306050-306364; hash=22ff83b972ef5c11061d99831fd04ec734dbc4a3cc1b89661cb7151bc87f7b94; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos kariuomenė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-166545
 
 <a id="claim-t-183161"></a>
-- t-008
+- t-237
   global_id: t-183161
-  teiginys: '1939 m. rugsėjo 17 d. Lietuvos prezidentui paskelbus dalinę mobilizaciją, Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų.'
+  teiginys: "1939 m. rugsėjo 17 d. Lietuvos prezidentui paskelbus dalinę mobilizaciją, Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1939 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas puslapio triukšmas ir suformuluotas faktas apie Lietuvos kariuomenę."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "370556-370917; hash=d51ea29138bea88a6f98c3f181e4423129524d36cc2df937deaee56c8e268c43; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos kariuomenė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-166546
 
 <a id="claim-t-183162"></a>
-- t-009
+- t-238
   global_id: t-183162
-  teiginys: 'Liepos 3 d. priimtu pertvarkymo įstatymu Lietuvos kariuomenė paversta Liaudies kariuomene.'
+  teiginys: "Liepos 3 d. priimtu pertvarkymo įstatymu Lietuvos kariuomenė paversta Liaudies kariuomene."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "386391-386731; hash=de4f7e5d5ec1ebf3acae258584df2bdd9505c52c4160322cc9714b71bb54d633; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos kariuomenė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-166547
 
 <a id="claim-t-184332"></a>
-- t-010
+- t-239
   global_id: t-184332
-  teiginys: 'Vytauto vadovaujami Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų, sugrįžo į kovos lauką.'
+  teiginys: "Vytauto vadovaujami Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų, sugrįžo į kovos lauką."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "931773-932007; hash=61adeaff518e7a8ebf46e52dd10a91fdc6f948c927fccdcd48c1f06352ec9458; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos kariuomenė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-010
+    - c-167702
 
 <a id="claim-t-184333"></a>
-- t-011
+- t-240
   global_id: t-184333
-  teiginys: 'Vytauto kariuomenę išretino Žalgirio kautynės ir prie Marienburgo prasidėjusios ligos.'
+  teiginys: "Vytauto kariuomenę išretino Žalgirio kautynės ir prie Marienburgo prasidėjusios ligos."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Lietuvos kariuomenė dalyvavo mūšyje Tanenbergo mūšis 1410 m. liepos 15 d (0.84)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "934542-934809; hash=bea44fb84b5eb96ce9a28b45df27d8af6ad0a463fef91eb44e5f7261e614c860; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "dalyvavo_musyje -> Tanenbergo mūšis 1410 m. liepos 15 d: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Tanenbergo mūšis 1410 m. liepos 15 d: llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Teiginys nurodo, kad Vytauto kariuomenė buvo išretinta Žalgirio kautynėse, vadinasi dalyvavo tame mūšyje."
   pagrindžia:
-    - c-011
+    - c-167703
 
 <a id="claim-t-187724"></a>
 - t-012
   global_id: t-187724
-  teiginys: 'Mykolas Glinskis ir Lietuvos kariuomenė prie Klecko paėmė arba nukovė daugybę totorių ir grįžo į stovyklą su belaisviais bei grobiu.'
+  teiginys: "Mykolas Glinskis ir Lietuvos kariuomenė prie Klecko paėmė arba nukovė daugybę totorių ir grįžo į stovyklą su belaisviais bei grobiu."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Lietuvos kariuomenė kariavo prieš Totoriai (0.90); Mykolas Glinskis kariavo prieš Totoriai (0.88)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "301023-301582; hash=95b8b87c3b87c070dd01de052b1682145356dddb293e0f34320161d3405e7914; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Totoriai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Lietuvos kariuomenės smurtinį karinį veiksmą prieš totorius."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
-    - c-012
+    - c-170663
 
 <a id="claim-t-187725"></a>
 - t-013
   global_id: t-187725
-  teiginys: 'Per 1406-1408 m. LDK ir Maskvos karą LDK kariuomenė buvo užėmusi Odojevą ir Vorotynską.'
+  teiginys: "Per 1406-1408 m. LDK ir Maskvos karą LDK kariuomenė buvo užėmusi Odojevą ir Vorotynską."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Lietuvos kariuomenė užėmė Odojevas (0.94)"
+  temporaliniai_duomenys: "įvykio data: 1398 m.; įvykio data: 1406 m.; įvykio data: 1406-1408; įvykio data: 1407 m.; įvykio data: 1408 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys ir atitinka citatos informaciją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "476461-477209; hash=dca6652d36d947d21c72ae59118aeee789f8d0639ac8eaefea328bd524aa1261; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Odojevas: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Odojevas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad LDK kariuomenė buvo užėmusi Odojevą."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-013
+    - c-170664
+
+<a id="claim-t-193552"></a>
+- t-241
+  global_id: t-193552
+  teiginys: "Kovose gimę Lietuvos kariuomenės savanorių pulkai, partizanai mūšiuose dėl nepriklausomybės prarado 1 444 žmones, tačiau apgynė kraštą ir išstūmė iš jo svetimas kariuomenes."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "277255-277586; hash=824fecfe9e9461e10b863b72a70455cca7f74f4fdaa5c762a78991c2d2564d31; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176232
+
+<a id="claim-t-193837"></a>
+- t-242
+  global_id: t-193837
+  teiginys: "Paskui Lietuvos kariuomenė pasidarė abipus Raudonojo tvenkinio užtvankos du perėjimus per upę."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "298964-299479; hash=b58cf54d58148ddda7a01f082ba309bd60043ece897f7774a76bd682f10a12e8; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176481
 - susijęs iš [[objektai/asmenys/Chadžibėjus.md#claim-t-39502|Chadžibėjus]]: Chadžibėjus buvo vienas iš trijų vadų-kunigaikščių, kurių kariuomenė susirėmė su Lietuvos kariuomene.
 - susijęs iš [[objektai/asmenys/Chadžibėjus.md#claim-t-39502|Chadžibėjus]]: Chadžibėjus buvo vienas iš trijų vadų-kunigaikščių, kurių kariuomenė susirėmė su Lietuvos kariuomene.
 - susijęs iš [[objektai/asmenys/Dmitrijus (totorių vadas).md#claim-t-78963|Dmitrijus (totorių vadas)]]: Dmitrijus buvo vienas iš trijų Juodosios jūros pajūrio ir Krymo totorių teritorijos vadų, kurių kariuomenė susirėmė su Lietuvos kariuomene.
@@ -332,6 +555,7 @@ Lietuvos kariuomenė šiame įraše pristatoma nuo Gedimino laikais susiformavus
     buvo įprastas atributas, kuris mūšio lauke
     vis dėlto praversdavo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -356,6 +580,7 @@ Lietuvos kariuomenė šiame įraše pristatoma nuo Gedimino laikais susiformavus
 
     DVNA FL.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -383,6 +608,7 @@ Lietuvos kariuomenė šiame įraše pristatoma nuo Gedimino laikais susiformavus
     tras, dešinysis sparnas, nedidelis rezervas ir
     stovyklos apsauga.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -406,6 +632,7 @@ Lietuvos kariuomenė šiame įraše pristatoma nuo Gedimino laikais susiformavus
 
     1328 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -422,6 +649,7 @@ Lietuvos kariuomenė šiame įraše pristatoma nuo Gedimino laikais susiformavus
     Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė
     Rygą ir užvaldė Baltijos pakrantes.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -437,6 +665,7 @@ Lietuvos kariuomenė šiame įraše pristatoma nuo Gedimino laikais susiformavus
     turinti 3 tūkst. raitelių, nugali 12 tūkst. švedų.
     Dail. P. Snayrs, apie 1620 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -453,6 +682,7 @@ Lietuvos kariuomenė šiame įraše pristatoma nuo Gedimino laikais susiformavus
     lenkus, bermontininkus ir bolševikus, nenoriai rašėsi į Klaipėdos žygį,
     nes... nelaikė to kova už tėvynę.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -472,6 +702,7 @@ Lietuvos kariuomenė šiame įraše pristatoma nuo Gedimino laikais susiformavus
     ją. Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų (formaliai
     kariuomenė padidinta, jei kariaujančios šalys peržengtų Lietuvos sieną).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -488,6 +719,7 @@ Lietuvos kariuomenė šiame įraše pristatoma nuo Gedimino laikais susiformavus
     liau – Raudonosios armijos 29-uoju šaulių korpusu). Liepos 11 dieną su-
     stabdyta Lietuvos šaulių sąjungos veikla, ji nuginkluota.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -503,6 +735,7 @@ Lietuvos kariuomenė šiame įraše pristatoma nuo Gedimino laikais susiformavus
     sugrįžo į kovos lauką. Nauji Lenkijos pulkai ėmė pulti ilstančią
     kryžiuočių kariuomenę, ir jų eilės nebeatlaikė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -519,6 +752,7 @@ Lietuvos kariuomenė šiame įraše pristatoma nuo Gedimino laikais susiformavus
     Be to, didelis nuovargis ir maisto trukumas vertė Vytautą grįžti
     atgal.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -541,6 +775,7 @@ Lietuvos kariuomenė šiame įraše pristatoma nuo Gedimino laikais susiformavus
     pini neapsakomo džiaugsmo ir linksmybės, ramiai pra­
     leido tą naktį 2 S .
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -564,11 +799,316 @@ Lietuvos kariuomenė šiame įraše pristatoma nuo Gedimino laikais susiformavus
     1  A ndrius Nemyra kituose šaltiniuose nepaliudytas, bet vienas
     Nemyra (be vardo) jau  figūruoja 1398 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
+- c-014
+  santrauka: 'Kovose gimę Lietuvos kariuomenės savanorių pulkai, partizanai mūšiuose dėl nepriklausomybės prarado 1 444 žmones, tačiau apgynė kraštą ir išstūmė iš jo svetimas kariuomenes.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Sėkmingai likviduotas ir bermontininkų
+    rengtas perversmas Kaune. Kovose gimę Lietuvos kariuomenės savanorių
+    pulkai, partizanai mūšiuose dėl nepriklausomybės prarado 1 444 žmones,
+    tačiau apgynė kraštą ir išstūmė iš jo svetimas kariuomenes.
+    Paryžiuje Lietuva gavo politinę britų, materialinę – JAV, karinę – Pran-
+    cūzijos paramą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-014
+
+- c-015
+  santrauka: 'Paskui Lietuvos kariuomenė pasidarė abipus Raudonojo tvenkinio užtvankos du perėjimus per upę.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Dėl keblaus upės perėjimo negalėjo ne­
+    delsiant su jais susigrumti ir daugiau kaip tris valan­
+    das kovėsi su jais per upę. Paskui Lietuvos kariuomenė
+    pasidarė abipus Raudonojo tvenkinio užtvankos du
+    perėjimus per upę. Totoriai matė, kad lietuviai stovi
+    tvirtai ir nepajudinamai, pasiryžę kautis, ir kad jie pa­
+    sidarė praėjimus, greitai ketindami ateiti pas juos iš
+    už upės. Ir Lietuvos kariuomenė pradėjo šaudyti į juos
+    iš patrankų, iš šautuvų, iš lankų, o tuo metu nedidelis
+    būrys dvarionių leidosi per upę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-015
+
+## Citatos
+
+- id: c-12742
+  citata_originali: |
+    Visuotinio šaukimo
+    metu didesniąją visos kariuomenės dalį
+    sudarydavo iš pavietų į savo vėliavas susi-
+    rinkę bajorai. Šių dalinių kovinė vertė buvo
+    menkesnė, bet ir jie sugebėdavo pasireikšti
+    mūšio lauke. Pagrindiniai tokios kariuome-
+    nės ginklai buvo ietys ir kalavijai. Artilerija
+    to meto Lietuvos kariuomenėje dar nevai-
+    dino didesnio savarankiško vaidmens, bet
+    buvo įprastas atributas, kuris mūšio lauke
+    vis dėlto praversdavo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182742
+
+- id: c-42823
+  citata_originali: |
+    Kristupas Radvila Perkūnas
+
+    Lietuvos kariuomenei vadovavo Kuni-
+    gaikštis Kristupas Radvila Perkūnas
+    (1547-1603 m.). Lietuvos Didžiosios Kuni-
+    gaikštystės kariuomenės didysis etmonas
+    (1589-1603 m.), būdamas jaunas kartu su
+    tėvu, LDK didžiuoju etmonu Mikalojum
+    Radvila Ruduoju dalyvavo 1564 m. mūšyje
+
+    “LI
+
+    DVNA FL.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182743
+
+- id: c-42824
+  citata_originali: |
+    LDK didysis etmo-
+    nas Karolis Chodkevičius, matydamas
+
+    jau išsirikiavusius priešo karius, išvedė į
+    mūšio lauką ir savo kariuomenę. Be lie-
+    tuvių, mūšyje dalyvavo į pagalbą prieš
+    mėnesį karaliaus atsiųsti Lenkijos pės-
+    tininkų daliniai (trys lenkų pėstininkų
+    kuopos - apie 300 karių, viena jų mūšio
+    metu saugojo lietuvių stovyklą), ir lietu-
+    viams talkininkavusių leninės Kuršo ir
+    Žiemgalos kunigaikštystės dalinių — apie
+    300 Fridricho Ketlerio reitarų. Lietuvos
+    kariuomenę sudarė: kairysis sparnas, cen-
+    tras, dešinysis sparnas, nedidelis rezervas ir
+    stovyklos apsauga.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182741
+
+- id: c-166157
+  citata_originali: |
+    Gedimino laikais Lie-
+    tuvoje buvo išplėtotas mūrinių pilių tinklas, susiformavo nuo-
+    latinių karo tarnybininkų sluoksnis - pilėnai, raiteliai, gerieji
+    žmonės - kariai, galintys bet kada stoti į tarnybą.
+
+    ## Puslapis 21
+
+    Gerai organizuota Lietuvos kariuomenė, vedama Lietuvos val-
+    dovo Algirdo, rusų žemėse sutriuškino su lietuviais konkuravusius
+    mongolus prie Mėlynųjų vandenų.
+
+    1328 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182738
+
+- id: c-166542
+  citata_originali: |
+    Kova dėl Livonijos daugiausia buvo suin-
+    teresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko
+    uostą. 1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus
+    Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė
+    Rygą ir užvaldė Baltijos pakrantes.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183157
+
+- id: c-166543
+  citata_originali: |
+    1605 m. mūšyje prie Kirchholmo netoli Rygos J. K. Chodkevičiaus
+    vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kairėje),
+    turinti 3 tūkst. raitelių, nugali 12 tūkst. švedų.
+    Dail. P. Snayrs, apie 1620 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183158
+
+- id: c-166545
+  citata_originali: |
+    Abipusis psichologinis atotrūkis akivaizdus – E. Galvanauskas
+    ir ruošiamo žygio vadas, žvalgybos karininkas Jonas Budrys (Polovins-
+    kas) nustebo, jog kadriniai Lietuvos kariuomenės karininkai, kovoję prieš
+    lenkus, bermontininkus ir bolševikus, nenoriai rašėsi į Klaipėdos žygį,
+    nes... nelaikė to kova už tėvynę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183160
+
+- id: c-166546
+  citata_originali: |
+    Nepatarė imti Vilniaus ir sovietai.
+
+    L I E T U V O S  I S T O R I J A
+    184
+    Rugsėjo 17 dieną, SSRS įsiveržus į Lenkiją, demonstruojant pasiryžimą
+    ginti nepriklausomybę, Lietuvos prezidentas paskelbė dalinę mobilizaci-
+    ją. Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų (formaliai
+    kariuomenė padidinta, jei kariaujančios šalys peržengtų Lietuvos sieną).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183161
+
+- id: c-166547
+  citata_originali: |
+    Maskva diegė SSRS valdymo modelį administracijoje, policijoje, teis-
+    muose, pradėta kurti liaudies milicija. Liepos 3 dieną priimtas Lietuvos
+    kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vė-
+    liau – Raudonosios armijos 29-uoju šaulių korpusu). Liepos 11 dieną su-
+    stabdyta Lietuvos šaulių sąjungos veikla, ji nuginkluota.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183162
+
+- id: c-167702
+  citata_originali: |
+    Bet tas įspūdis nepasitvirtino. Vytauto vadovaujami
+    Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų,
+    sugrįžo į kovos lauką. Nauji Lenkijos pulkai ėmė pulti ilstančią
+    kryžiuočių kariuomenę, ir jų eilės nebeatlaikė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184332
+
+- id: c-167703
+  citata_originali: |
+    Yra duomenų spręsti, kad Jogaila ir Vytautas yra veikę drauge
+    ir sutartinai^34. Vytauto kariuomenė buvo stipriai išretinta ne tik
+    Žalgirio kautynėse, bet ir prie Marienburgo prasidėjusių ligų^35.
+    Be to, didelis nuovargis ir maisto trukumas vertė Vytautą grįžti
+    atgal.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184333
+
+- id: c-170663
+  citata_originali: |
+    Ir patyrė Lietuvos Didžioji Kunigaikštystė begalinį
+    dievo gailestingumą, o Korano giminė — neapsakomą
+    kraujo praliejimą. Kunigaikštis Mykolas Glinskis ir
+    Lietuvos kariuomenė tą dieną pasiliko prie lavonų, vi­
+    są dieną jodinėdami ir vaikydamiesi aplink Ceprą ir už
+    Cepros, paėmė arba nukovė daugybą totorių, sugrįžo
+    į kariuomenės stovyklą prie Klecko, vesdamiesi su sa­
+    vimi daug belaisvių ir turėdami rankas pilnas aukso,
+    ir sidabro, ir ginklų, ir drabužių, ir brangių žirgų. Ku­
+    pini neapsakomo džiaugsmo ir linksmybės, ramiai pra­
+    leido tą naktį 2 S .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187724
+
+- id: c-170664
+  citata_originali: |
+    * Čia labai apibendrintai Ir glaustai kalbama apie LDK ir
+    Maskvos Didžiosios Kunigaikštystės karų 1406— 1408 m. Karo prie­
+    žastis buvo ne du bebrai ir trys statinės medaus, o  Vytauto progra­
+    ma Išplėsti savo įtakų Pskovo Ir Didžiojo Naugardo bajorų respub­
+    likose ir pasodinti ten savo vietininkus. Karo veiksmai ėjo  LDK
+    rytų pasieniu, Ugios Ir Okos upių ruože, daugiausia dabartinės
+    Kalugos srities teritorijoje. Maskvėnų kariuomenė puolė Vlazmų
+    (1406, 1407 m.|, Serpelskų ir Kozelskų (1406 m.), o LDK kariuomenė
+    buvo užėmus) Odojevų, Vorollnskų. BK. matyt, turim as galvoje
+    Vytauto vadovaujamos LDK kariuomenes žygis 1408 m. rudeni-
+    1  A ndrius Nemyra kituose šaltiniuose nepaliudytas, bet vienas
+    Nemyra (be vardo) jau  figūruoja 1398 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187725
+
+- id: c-176232
+  citata_originali: |
+    Sėkmingai likviduotas ir bermontininkų
+    rengtas perversmas Kaune. Kovose gimę Lietuvos kariuomenės savanorių
+    pulkai, partizanai mūšiuose dėl nepriklausomybės prarado 1 444 žmones,
+    tačiau apgynė kraštą ir išstūmė iš jo svetimas kariuomenes.
+    Paryžiuje Lietuva gavo politinę britų, materialinę – JAV, karinę – Pran-
+    cūzijos paramą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193552
+
+- id: c-176481
+  citata_originali: |
+    Dėl keblaus upės perėjimo negalėjo ne­
+    delsiant su jais susigrumti ir daugiau kaip tris valan­
+    das kovėsi su jais per upę. Paskui Lietuvos kariuomenė
+    pasidarė abipus Raudonojo tvenkinio užtvankos du
+    perėjimus per upę. Totoriai matė, kad lietuviai stovi
+    tvirtai ir nepajudinamai, pasiryžę kautis, ir kad jie pa­
+    sidarė praėjimus, greitai ketindami ateiti pas juos iš
+    už upės. Ir Lietuvos kariuomenė pradėjo šaudyti į juos
+    iš patrankų, iš šautuvų, iš lankų, o tuo metu nedidelis
+    būrys dvarionių leidosi per upę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193837
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Lenkai]]

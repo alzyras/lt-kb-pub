@@ -5,6 +5,18 @@ saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # karmūšų
 
@@ -24,19 +36,24 @@ Papildomos aiškios formos neišskirtos.
 ## Teiginiai
 
 <a id="claim-t-07690"></a>
-- t-001
+- t-003
   global_id: t-07690
-  teiginys: 'Karmūšų vietos buvo kovų laukai, kuriuose su priešais grūmėsi ir žuvo kariai.'
+  teiginys: "Karmūšų vietos buvo kovų laukai, kuriuose su priešais grūmėsi ir žuvo kariai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  saltinio_vieta: "26896-27806; hash=79aa79a6d7f1c9bdb6e6ddbb091fe992029471f8d19d3e4f5f7b9d21afbf6399; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   pagrindžia:
-    - c-001
+    - c-09620
 
 <a id="claim-t-07691"></a>
-- t-002
+- t-004
   global_id: t-07691
-  teiginys: 'Karmūšų vietos buvo vadinamos šventomis, nes jose žuvo už laisvę ir namus kovoję žmonės.'
+  teiginys: "Karmūšų vietos buvo vadinamos šventomis, nes jose žuvo už laisvę ir namus kovoję žmonės."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  saltinio_vieta: "26896-27806; hash=79aa79a6d7f1c9bdb6e6ddbb091fe992029471f8d19d3e4f5f7b9d21afbf6399; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   pagrindžia:
-    - c-001
-
+    - c-09620
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -53,9 +70,33 @@ Papildomos aiškios formos neišskirtos.
         kokias vietas paprastai milžinų kapais vadina, apie kuriuos pasakos šiandien dar visiems yra
         žinomos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+
+## Citatos
+
+- id: c-09620
+  citata_originali: |
+    Buvo dar šventomis vadinamos karmūšų^842 , arba kovų, vietos, tai yra laukai, kuriuose su
+        neprieteliais buvo grūmęsi ir tenai svietas buvo kritęs kariaudamas: kaipogi senovėj didžiai
+        godojo tuos, kurie, kariaudami ir gyniodami nuo neprietelių savo liuosybę ir savo namus, buvo
+        galvą padėję. Ne vien jų narsybę ir kantrybę gėrynėse^843 ir sueimuose^844 garbino, bet dar norėjo
+        pačias vietas, ant kurių taip garbingi ir narsūs vyrai buvo mirę, idant nė nuo ko nebūt palytimos
+        ir pakušinamos^845 , todėl žambį smeginti^846 , arti, kasti tokias vietas arba laukus turėjo sau už visų
+        didžiausią nuodėmę ir tuos, kurie būt drįsę juos ardyti, kuo smarkiausiai karojo, ką nuo to gal
+        manyti, jog šiandien dar savo pramone^847 niekšai nedrįsta jų kušinti, negut vyresnybei liepiant;
+        kokias vietas paprastai milžinų kapais vadina, apie kuriuos pasakos šiandien dar visiems yra
+        žinomos.
+  citata_rodoma: "Buvo dar šventomis vadinamos karmūšų^842 , arba kovų, vietos, tai yra laukai, kuriuose su\nneprieteliais buvo grūmęsi ir tenai svietas buvo kritęs kariaudamas: kaipogi senovėj didžiai\ngodojo tuos, kurie, kariaudami ir gyniodami nuo neprietelių savo liuosybę ir savo namus, buvo\ngalvą padėję."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-07690
+    - t-07691

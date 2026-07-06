@@ -19,6 +19,18 @@ tags:
 amziai:
   - 'XVI'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Romanovų dinastija
 
@@ -29,26 +41,63 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
 ## Teiginiai
 
 <a id="claim-t-66060"></a>
-- t-001
+- t-002
   global_id: t-66060
-  teiginys: 'Romanovų dinastijos pradžia 1613 m. Abiejų Tautų Respublikoje neturėjo reikšmingesnių atliepimų.'
+  teiginys: "Romanovų dinastijos pradžia 1613 m. Abiejų Tautų Respublikoje neturėjo reikšmingesnių atliepimų."
+  temporaliniai_duomenys: "įvykio data: 1613 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje pateiktą vertinimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "84159-84782; hash=df683a876c147d453269307f04d3b3df2659f5b2a59a75d465f01b98a4ad6ee6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Romanovų dinastija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=36"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romanovų dinastija\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-31250
 
 <a id="claim-t-66061"></a>
-- t-002
+- t-004
   global_id: t-66061
-  teiginys: 'Romanovų vyriškoji linija išmirė jau XVIII amžiuje, bet carai Romanovais vadinosi iki pat galo.'
+  teiginys: "Romanovų vyriškoji linija išmirė jau XVIII amžiuje, bet carai Romanovais vadinosi iki pat galo."
+  temporaliniai_duomenys: "įvykio data: iki 1917 m.; įvykio data: 1613 m.; įvykio data: 1917 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "640156-640614; hash=338e1fd5631af95484e465f80a0646add39b233c9372d2465980daa37a057a96; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Mykolas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Romanovų dinastija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Mykolas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romanovų dinastija\" parinktas kaip owner_note_path. Targetas \"Mykolas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-66378
 
 <a id="claim-t-66062"></a>
 - t-003
   global_id: t-66062
-  teiginys: 'Romanovų, Hohenzollernų ir Habsburgų dinastijų nuvertimas nuo sostų sudarė sąlygas buvusiems unijos partneriams siekti tautinių idealų.'
+  teiginys: "Romanovų, Hohenzollernų ir Habsburgų dinastijų nuvertimas nuo sostų sudarė sąlygas buvusiems unijos partneriams siekti tautinių idealų."
+  temporaliniai_duomenys: "įvykio data: iki 1917 m.; įvykio data: 1613 m.; įvykio data: 1917 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys turi kontekstinį žodį ir yra per ilgas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "640156-640614; hash=338e1fd5631af95484e465f80a0646add39b233c9372d2465980daa37a057a96; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Habsburgai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Romanovų dinastija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Habsburgai: mention_match, group, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romanovų dinastija\" parinktas kaip owner_note_path. Targetas \"Habsburgai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
-
+    - c-31251
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -67,6 +116,7 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
     imperiją į Europos areną, reiškė bajorų respublikai patekimą Ru­
     sijos įtakon.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -88,6 +138,7 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
     minčiai, nes ji ieškojo vėl bristi į seniai praeitin « nutekėjusį » (upės)
     vandenį.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -107,8 +158,71 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
     linija išmirė jau XVIII amžiuje, tačiau carai tebesivadino Roma-
     novais iki pat galo).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-31250
+  citata_originali: |
+    Šituo atžvilgiu XV amž. gale
+    Lietuvos ir Rusijos istorijos naujos epochos susiliečia.
+    Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei
+    garsieji «sąmyšio metai» (1604-12), —nors lietuviai su lenkais per
+    Dimitrą Prisimetėlį buvo ėmę šeimininkauti net pačioje Maskvoje,—
+    pagaliau nei Romanovų dinastijos pradžia (1613) nebeturėjo reikš­
+    mingesnių atliepimų pamažu savo tarptautinio svorio netenkančioje
+    «abiejų tautų » respublikoje. Tačiau epocha caro Petro Didžiojo,
+    kuris iš naujos sostinės (Petersburgo) tvirtu žingsniu įvedė savo
+    imperiją į Europos areną, reiškė bajorų respublikai patekimą Ru­
+    sijos įtakon.
+  citata_rodoma: "Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei\ngarsieji «sąmyšio metai» (1604-12), —nors lietuviai su lenkais per\nDimitrą Prisimetėlį buvo ėmę šeimininkauti net pačioje Maskvoje,—\npagaliau nei Romanovų dinastijos pradžia (1613) nebeturėjo reikš­\nmingesnių atliepimų pamažu savo tarptautinio svorio netenkančioje\n«abiejų tautų » respublikoje. Tačiau epocha caro Petro Didžiojo,\nkuris iš naujos sostinės (Petersburgo) tvirtu žingsniu įvedė savo\nimperiją į Europos areną, reiškė bajorų respublikai patekimą Ru­\nsijos įtakon."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66060
+    - t-001
+
+- id: c-31251
+  citata_originali: |
+    (^32) ĮVADAS
+    Ir tolimesnė epocha turi abiejų tautų istorijoje paraleles. Kai
+    vienu metu anos garsiosios trys dinastijos (Romanovai, Hohenzol-
+    lernai, Habsburgai), kurių protėviai buvo dalinęsi Lietuvą-Lenkiją,
+    buvo nutrenktos nuo sostų, atsirado sąlygos buvusiems unijos
+    partneriams realizuoti savą tautinį idealą. Atsistatanti Lenkijos
+    valstybė tačiau labiausiai kenkė atskiros, nepriklausomos Lietuvos
+    minčiai, nes ji ieškojo vėl bristi į seniai praeitin « nutekėjusį » (upės)
+    vandenį.
+  citata_rodoma: "Kai\nvienu metu anos garsiosios trys dinastijos (Romanovai, Hohenzol-\nlernai, Habsburgai), kurių protėviai buvo dalinęsi Lietuvą-Lenkiją,\nbuvo nutrenktos nuo sostų, atsirado sąlygos buvusiems unijos\npartneriams realizuoti savą tautinį idealą. Atsistatanti Lenkijos\nvalstybė tačiau labiausiai kenkė atskiros, nepriklausomos Lietuvos\nminčiai, nes ji ieškojo vėl bristi į seniai praeitin « nutekėjusį » (upės)\nvandenį."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66062
+
+- id: c-66378
+  citata_originali: |
+    O
+    kai jos gelbėti išsiruošė patsai karalius Zigmantas su didesnėmis
+    jėgomis, jau buvo per vėlų: įgula buvo priversta iš bado pa-
+    siduoti. Caru buvo išrinktas metropolito Filareto, Teodoro
+    Romanovo, sūnus Mykolas (1613 m.). Su juo prasidėjo nau-
+    joji Maskvos, o vėliau „visos Rusijos" carų dinastija, kuri iš-
+    gyvavo iki 1917 m. revoliucijos (iš tikrųjų Romanovų vyriškoji
+    linija išmirė jau XVIII amžiuje, tačiau carai tebesivadino Roma-
+    novais iki pat galo).
+  citata_rodoma: "(iš tikrųjų Romanovų vyriškoji\nlinija išmirė jau XVIII amžiuje, tačiau carai tebesivadino Roma-\nnovais iki pat galo)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66061

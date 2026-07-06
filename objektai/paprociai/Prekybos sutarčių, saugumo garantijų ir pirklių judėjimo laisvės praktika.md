@@ -16,6 +16,18 @@ tags:
   - paprotys
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika
 
@@ -46,19 +58,40 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87146"></a>
-- t-001
+- t-003
   global_id: t-87146
-  teiginys: 'Švitrigaila laiške didžiajam magistrui prašė saugumo garantijų Vilniaus gyventojui Bomannui, vykstančiam į Gdanską prekybos reikalais.'
+  teiginys: "Švitrigaila laiške didžiajam magistrui prašė saugumo garantijų Vilniaus gyventojui Bomannui, vykstančiam į Gdanską prekybos reikalais."
+  semantiniai_rysiai: "Švitrigaila siuntė į Kistrinas (0.77)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "431827-432846; hash=199b95d1c7cdde216d67b63b60bb6ecbb0aff1187122cbb90f5e59be1a975215; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Kistrinas: 0.77"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kistrinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Laiške Švitrigaila sako pasiuntęs asmenį ir prašo palydėti jį į Kistriną."
   pagrindžia:
-    - c-001
+    - c-83124
 
 <a id="claim-t-87147"></a>
-- t-002
+- t-001
   global_id: t-87147
-  teiginys: 'Vasario pradžioje Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės.'
+  teiginys: "Vasario pradžioje Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės."
+  semantiniai_rysiai: "Didžiojo Naugardo bojarinai sudarė sutartį su Švitrigaila (0.97); Ivanas Jermoliničius sudarė sutartį su Švitrigaila (0.94); Didžiojo Naugardo bojarinai keliavo į Vilnius (0.90); Didžiojo Naugardo bojarinai priklausė Didžiojo Naugardo respublika (0.90); Vilnius prekiavo su Rusai (0.78)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "428769-429556; hash=7bb29fb7c2e6d8662bfa964f410169d460bc5fbb0632058b78484973549ffc32; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "sudare_sutarti_su -> Švitrigaila: 0.97"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Didžiojo Naugardo bojarinai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Didžiojo Naugardo bojarinai sudarė sutartį su Švitrigaila."
   pagrindžia:
-    - c-002
-
+    - c-83125
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -97,6 +130,7 @@ Nenurodyta
     kadangi mums rodo daug palanku­
     mo".
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -121,8 +155,73 @@ Nenurodyta
     pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos
     ir rusų miestų, su kuriais buvo prekiaujama nuo seno.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-83124
+  citata_originali: |
+    8
+    Iki mūsų laikų Slaptajame Karaliau­
+    čiaus archyve išliko didžiojo kuni­
+    gaikščio Švitrigailos laiškas, kuriame
+    didžiojo magistro prašo saugumo ga­
+    rantijų Bomannui, Vilniaus gyvento­
+    jui, vykstančiam į Gdanską su pre­
+    kybiniais reikalais. Id. Ibid.
+    9
+    Kotzebue Switrigail, p. 83, cituo­
+    ja Slaptajame archyve esantį Švitrigai­
+    los laišką didžiajam magistrui, rašy­
+    tą iš Trakų, trečiadienį prieš Švč.
+    Mergelės Marijos ėmimą į dangų, tai
+    yra, 1432 metų rugpjūčio 13 dieną.
+    Jame pasakoja, kad „pasiunčiau nuo
+    savęs maloningąjį poną Konradą,
+    Vroclavo vyskupą, mylimą brolį, pa­
+    geidaudamas, kad didysis magistras
+    lieptų jį palydėti į Kistriną ir pasi­
+    teirauti kunigaikščio Štolpenskio, ar
+    minėtasis vyskupas turįs ar neturįs
+    dėl ko nuogąstauti iš jo ir tų, kurie
+    jam pavaldūs, pusės?" Tame pačia­
+    me laiške Švitrigaila prideda prašy­
+    mą: „kad Vroclavo gyventojams
+    duotų garantiją vykti per Ordino že­
+    mes, kad jie galėtų laisvai ir nevar­
+    žomai keliauti su savo prekėmis,
+    kadangi mums rodo daug palanku­
+    mo".
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87146
+
+- id: c-83125
+  citata_originali: |
+    Volumes gyventojai, jausdami karaliui anti­
+    patiją dėl trukdymo laisvai išpažinti savo tikėjimą ir dėl rusų
+    apeigų cerkvių pakeitimo katalikiškomis bažnyčiomis, anaip­
+    tol nebuvo palankūs lenkams, o Švitrigailai šis žygis buvo ga­
+    nėtinai sėkmingas, taigi karalius, negalėdamas nieko jam pa­
+    tarti, sudarė su juo ilgalaikes paliaubas. Tik tada Švitrigaila
+    energingai ėmėsi taikos reikalų; į Vilnių iš Didžiojo Naugardo
+    pasiųsti bojarinai - Ivanas Jermoliničius ir Chariničius - pir­
+    momis vasario dienomis sudarė su juo sutartį, kuria buvo ga­
+    rantuojama abipusis saugumas ir prekybos laisvė6. Anų laikų
+    Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo
+    pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos
+    ir rusų miestų, su kuriais buvo prekiaujama nuo seno.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87147

@@ -15,6 +15,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Voronežas
 
@@ -27,9 +39,20 @@ menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).
 <a id="claim-t-181304"></a>
 - t-001
   global_id: t-181304
-  teiginys: 'Lietuvių Komitetas Voroneže įsteigtose lietuviškose gimnazijose organizavo jaunuomenės mokymą.'
+  teiginys: "Lietuvių Komitetas Voroneže įsteigtose lietuviškose gimnazijose organizavo jaunuomenės mokymą."
+  semantiniai_rysiai: "Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija) rėmė Lietuviai (0.78); Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija) gyveno Petrapilis (0.72)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "1069397-1069714; hash=5f1183cc4dcb181292112aa75877e4ad46ec65fff302d59a67862e024799f994; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Lietuviai: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija): llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Lietuvių komitetas organizavo tremtinių šelpimą ir mokymą, remdamas lietuvių tremtinius."
   pagrindžia:
-    - c-001
+    - c-164861
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113996|Steponas Batoras]]: Po Stepono Batoro kampanijų Didieji Lukai, Zavoločė, Sebežas, Nevelis ir Voronežas buvo sugrąžinti Rusijai.
 - susijęs iš Peterburgas: Pirmojo pasaulinio karo metais Peterburge ir Voroneže susiformavo lietuvių centrai su laikraščių redakcijomis ir gimnazijomis.
 - susijęs iš [[objektai/grupes/JAV lietuviai.md#claim-t-74138|JAV lietuviai]]: JAV lietuvius 1917 m. suaktyvino JAV įstojimas į karą prieš Vokietiją ir Woodrow Wilsono paskelbti „14 punktų“.
@@ -53,11 +76,30 @@ menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).
     zijose). Studentams buvo duodamos pašalpos universitetuose ir
     steigiami bendrabučiai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-164861
+  citata_originali: |
+    ##### 2. Lietuvių tremtiniai Rusijoje
+
+    **Lietuvių Komitetas,** persikėlęs į Petrapilį (dabartinį Lenin-
+    gradą), organizavo ne tik tremtinių šelpimą, bet ir visos jaunuo-
+    menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimna-
+    zijose). Studentams buvo duodamos pašalpos universitetuose ir
+    steigiami bendrabučiai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181304
 
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Lietuviai]]

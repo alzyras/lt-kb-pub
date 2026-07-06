@@ -19,6 +19,18 @@ tags:
 amziai:
   - 'XIII'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Pomeranija
 
@@ -31,37 +43,96 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
 <a id="claim-t-68996"></a>
 - t-001
   global_id: t-68996
-  teiginys: 'Pomeranijoje, Vyslos žemupyje ir Sembos pusiasalyje pasitaikė pavienių importuotų dirbinių.'
+  teiginys: "Pomeranijoje, Vyslos žemupyje ir Sembos pusiasalyje pasitaikė pavienių importuotų dirbinių."
+  temporaliniai_duomenys: "įvykio data: 1400 m.; įvykio data: apie 1400 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Pradinė formuluotė perima šnekamą citatos žodį, todėl ją verta suenciklopedinti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "283644-283910; hash=5f2885a23af9966e82658e2b5907df8a7815dcb3da6ef254e8540ff2c0493634; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Semba: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pomeranija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Semba: mention_match, place, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pomeranija\" parinktas kaip owner_note_path. Targetas \"Semba\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-68433
 
 <a id="claim-t-68997"></a>
-- t-002
+- t-005
   global_id: t-68997
-  teiginys: '1246 m. magistras ir broliai su sąjungininkais įsiveržė į Pomeraniją ir devynias dienas bei naktis ją niokojo.'
+  teiginys: "1246 m. magistras ir broliai su sąjungininkais įsiveržė į Pomeraniją ir devynias dienas bei naktis ją niokojo."
+  temporaliniai_duomenys: "įvykio data: 1246 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko glaustą faktą apie Pomeranijos nuniokojimą, pašalinus sakinio nuotrupas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "316479-317356; hash=5cb096124e23a3809bb69956350d4988f08bedb4bfddecb0f9467c982fde1343; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Austrija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pomeranija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Austrija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pomeranija\" parinktas kaip owner_note_path. Targetas \"Austrija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-68434
 
 <a id="claim-t-68998"></a>
-- t-003
+- t-004
   global_id: t-68998
-  teiginys: 'Vysla, tekėdama nuo Krokuvos į Pomeraniją ir įtekėdama į jūrą prie Gdansko, skyrė Lenkiją bei Pomeraniją nuo Prūsijos.'
+  teiginys: "Vysla, tekėdama nuo Krokuvos į Pomeraniją ir įtekėdama į jūrą prie Gdansko, skyrė Lenkiją bei Pomeraniją nuo Prūsijos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "167176-167631; hash=a18f217294e28137bff1b6441a805e9e71a02d3b4ddcdbf3c14dd19c9031df48; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pomeranija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pomeranija\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-68435
 
 <a id="claim-t-69000"></a>
-- t-004
+- t-003
   global_id: t-69000
-  teiginys: '1396 m. Vytautas sudarė laisvos prekybos sutartis su Štetino Pomeranijos hercogu, Rygos arkivyskupu elektu ir Dorpato vyskupu Ditrichu III Damerau.'
+  teiginys: "1396 m. Vytautas sudarė laisvos prekybos sutartis su Štetino Pomeranijos hercogu, Rygos arkivyskupu elektu ir Dorpato vyskupu Ditrichu III Damerau."
+  temporaliniai_duomenys: "sutarties data: 1396 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys gramatiškas ir pagrįstas citatoje nurodytomis sutartimis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "621045-621420; hash=315cc551e2380bcb454b8ce9e4207d802fd105e7198f221e57c38d405ecfec67; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dorpatas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pomeranija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Dorpatas: mention_match, place, gap=49"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pomeranija\" parinktas kaip owner_note_path. Targetas \"Dorpatas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-37651
 
 <a id="claim-t-69001"></a>
-- t-005
+- t-006
   global_id: t-69001
-  teiginys: 'Nuniokojus Pomeraniją, kunigaikštis Sventopelkas paprašė brolių atkurti taiką.'
+  teiginys: "Nuniokojus Pomeraniją, kunigaikštis Sventopelkas paprašė brolių atkurti taiką."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "320297-321062; hash=56ff02de867d927917c741eef257bcb5489fc10a3e11b001b9ed2ab80aa00443; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Sventopelkas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pomeranija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Sventopelkas: mention_match, person, gap=25"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pomeranija\" parinktas kaip owner_note_path. Targetas \"Sventopelkas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-68436
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90015|Sventopelkas]]: 1253 m. Sventopelko karas baigėsi, o Pomeranijos kunigaikštis iki gyvenimo pabaigos laikėsi sutarties su broliais.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90030|Sventopelkas]]: Sventopelkas, Pomeranijos kunigaikštis, su broliu Samboru atvyko padėti statyti Marienverderio miestą.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90039|Sventopelkas]]: Sventopelkas, buvęs Pomeranijos kunigaikštis, turėjo keturis sūnus: Mstivojų, Samborą, Vartislavą ir dar vieną sūnų.
@@ -101,6 +172,9 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
 - susijęs iš [[objektai/asmenys/Mstivojus.md#claim-t-59895|Mstivojus]]: Šio pamokymo nepaklausė jo vyriausias sūnus Mstivojus.
 - susijęs iš [[objektai/asmenys/Mstivojus.md#claim-t-59898|Mstivojus]]: Sventopelko pirmagimis sūnus Mstivojus anksčiau buvo atiduotas kaip įkaitas.
 - susijęs iš [[objektai/asmenys/Pilypas (Fermo vyskupas).md#claim-t-60411|Pilypas (Fermo vyskupas)]]: Pilypas, Fermo vyskupas ir apaštališkojo sosto legatas, atvyko į Lenkijos žemę, kur Konradas iš Tirbergo jam skundėsi dėl Mstivojaus skriaudų.
+- susijęs iš [[objektai/asmenys/Plinijus Vyresnysis.md#claim-t-191090|Plinijus Vyresnysis]]: Plinijus rašė, kad Hilleviones, jo apibūdinti kaip labai gausūs žmonės, gyveno Skandinavijoje.
+- susijęs iš [[objektai/asmenys/Plinijus.md#claim-t-190952|Plinijus]]: Plinijus rašė, kad Hilleviones, jo apibūdinti kaip labai gausūs žmonės, gyveno Skandinavijoje.
+- susijęs iš [[objektai/asmenys/Ptolemėjas.md#claim-t-191098|Ptolemėjas]]: Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, kurią tyrinėtojai siejo su Silezija arba Vyslos apylinkėmis.
 - susijęs iš [[objektai/asmenys/Samboras.md#claim-t-60202|Samboras]]: Samboras su broliu Sventopelku ir kitais kunigaikščiais atvyko į Prūsiją ir sustiprino Marienverderio pilį.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-184132|Sventopelkas]]: Prieš mirtį Sventopelkas sušaukė savo sūnus ir patarė jiems niekada nesipriešinti Ordino broliams.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90013|Sventopelkas]]: Dusburgietis pasakoja, kad Sventopelkas su dviem tūkstančiais karių įsiveržė į Kulmo žemę ir po nesėkmės traukėsi prie laivų.
@@ -118,6 +192,8 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90042|Sventopelkas]]: Sventopelkas sutelkė kariuomenę iš savo valdinių ir Prūsijos atsivertėlių ir nusekė paskui atsitraukiančius brolius.
 - susijęs iš [[objektai/asmenys/Vartislavas (Sventopelko sūnus).md#claim-t-60460|Vartislavas (Sventopelko sūnus)]]: Vartislavas įstojo į Teutonų ordiną broliu ir Ordinui atidavė jam atitekusią kunigaikštystės dalį.
 - susijęs iš [[objektai/autoriai/Hennenberger C.md#claim-t-64604|Hennenberger C]]: C. Hennenbergeris rašė apie Brandenburgo pilies vietą Pokarviuose prie Aismarių.
+- susijęs iš [[objektai/autoriai/Plinijus.md#claim-t-190780|Plinijus]]: Teodoro Narbuto pasakojime Plinijus Hilleviones vadino labai gausia Skandinavijoje gyvenusia žmonių grupe.
+- susijęs iš [[objektai/autoriai/Ptolemėjas.md#claim-t-191514|Ptolemėjas]]: Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Silezija, Vyslos apylinkėmis arba pajūriu kairiajame Vyslos krante.
 - susijęs iš [[objektai/grupes/Bartai.md#claim-t-88531|Bartai]]: Pamedėnai, pagudėnai, varmiai, notangai ir bartai grįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179039|Kryžiuočių ordinas]]: 1246 m. mūšyje Sventopelkas įsakė tūkstančiui rinktinių karių pulti Kryžiuočių ordino brolius pėsčiomis ir ietimis galabyti jų arklius.
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-78407|Notangai]]: Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.
@@ -172,8 +248,9 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
     prekybos sutartis su Štetino (Pomeranijos) hercogu—Rygos ar­
     kivyskupu elektu ir Dorpato vyskupu Ditrichu III Damerau.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
@@ -188,6 +265,7 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
     kitas importuotas dirbinys. Veliuonoje surastas kotinis durklas iš žalvario
     skirtinas apie 1400 m. pr.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -211,6 +289,7 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
     stiprius  ir žiaurius smūgius, taip ją nusiaubė, kad nebeliko ten nė vieno kampelio,
     kurio nebūtų nuniokoję plėšimais ir gaisrais.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -228,6 +307,7 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
     o prie Klaipėdos pilies bei miesto įtekanti į jūrą, ji taip pat atskiria Prūsiją nuo Rusios,
     Lietuvos ir Kuršo187.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -250,11 +330,103 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
     rodė įvykių raida, mat jis jau trečią kartą buvo sulaužęs priesaika patvirtintą taikos
     sutartį.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
+## Citatos
+
+- id: c-37651
+  citata_originali: |
+    Tai
+    buvo kraštas, esąs prie Oderio žemupio Baltijos pakraštyje.
+    Taip ir Hanzos miestai, kaip Anklamas, Stralsundas, Greifsval­
+    das, Greifenbergas suteikė lietuvių ir lenkų pirkliams panašias
+    privilegijas^2 ). Kiek vėliau (1396) pats Vytautas padarė laisvos
+    prekybos sutartis su Štetino (Pomeranijos) hercogu—Rygos ar­
+    kivyskupu elektu ir Dorpato vyskupu Ditrichu III Damerau.
+  citata_rodoma: "Taip ir Hanzos miestai, kaip Anklamas, Stralsundas, Greifsval­\ndas, Greifenbergas suteikė lietuvių ir lenkų pirkliams panašias\nprivilegijas^2 ). Kiek vėliau (1396) pats Vytautas padarė laisvos\nprekybos sutartis su Štetino (Pomeranijos) hercogu—Rygos ar­\nkivyskupu elektu ir Dorpato vyskupu Ditrichu III Damerau."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-69000
+
+- id: c-68433
+  citata_originali: |
+    Dar XVI-XV amž.
+    Lietuvoje žalvario buvo tiek maža, kad visi įrankiai buvo dar akmeniniai.
+    Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas
+    kitas importuotas dirbinys. Veliuonoje surastas kotinis durklas iš žalvario
+    skirtinas apie 1400 m. pr.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-68996
+
+- id: c-68434
+  citata_originali: |
+    Dar kartą apie brolių laimėtą mūšį, kuriame vėl buvo nukauta 1500 Pomerani­
+                                            jos [vyrų]
+
+      Kai apaštališkojo sosto legatas293 pats paskelbė kryžiaus karą  ir kai įsakė kitiems
+    jį skelbti karalystėse bei provincijose, skirtose tam reikalui, 1246 m. Prūsijos žemės
+    kančios sujaudino Vokietijos kunigaikščius bei kilminguosius, o Austrijos kunigaikštis294
+    pasiuntė jiems talkinti savo stalininką Druzigerį su didele kariuomene ir su įgudusiais
+    kariauti vyrais, be to, atvyko riteris Henrikas iš Lichtenšteino, o su juo daug maldininkų.
+    Magistras  ir broliai su jais bei su kunigaikščiu Kazimieru  ir su savaisiais įsibrovė  į
+    Pomeranijos žemę  ir, devynetą dienų  ir naktų tai viena, tai kita kryptimi smogdami
+    stiprius  ir žiaurius smūgius, taip ją nusiaubė, kad nebeliko ten nė vieno kampelio,
+    kurio nebūtų nuniokoję plėšimais ir gaisrais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-68997
+
+- id: c-68435
+  citata_originali: |
+    Prūsijos žemę riboja  iš visų pusių Vysla,  Sūrioji  jūra, Nemunas, Rusios žemė,
+    Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė. Vysla — tai upė, atitekanti nuo
+    Krokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją
+    bei Pomeraniją nuo Prūsijos186. Nemunas — taip pat upė, prasidedanti Rusios valdose,
+    o prie Klaipėdos pilies bei miesto įtekanti į jūrą, ji taip pat atskiria Prūsiją nuo Rusios,
+    Lietuvos ir Kuršo187.
+  citata_rodoma: "Vysla — tai upė, atitekanti nuo\nKrokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją\nbei Pomeraniją nuo Prūsijos186. Nemunas — taip pat upė, prasidedanti Rusios valdose,\no prie Klaipėdos pilies bei miesto įtekanti į jūrą, ji taip pat atskiria Prūsiją nuo Rusios,\nLietuvos ir Kuršo187."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-68998
+
+- id: c-68436
+  citata_originali: |
+    56 (55). Apie taikos atkūrimą tarp Sventopelko ir brolių
+
+      Kai Pomeranijos žemė teisingojo viešpaties valia tapo šitaip nuniokota, kunigaikštis
+    Sventopelkas, kuris anksčiau kaip riaumojantis liūtas suko ratą po rato, bausdamasis
+    sunaikinti brolius bei tikėjimo daigyną, per didelį ir gausų krikščionių kraujo praliejimą
+    pasodintą Prūsijos žemėje, dabar  it jaukus avinėlis, nuleidęs akis  ir nukoręs galvą,
+    nuolankiai paprašė brolius, kad teiktųsi jam vėl parodyti savo įprastą maloningąjį
+    palankumą. Broliai nenorėjo leistis suvedžiojami, žinodami, kad jis, bėdos prispirtas,
+    visados slepia po švelniu avinėlio kailiu lapės širdį, kupiną klastos ir suktumo, nes šitai
+    rodė įvykių raida, mat jis jau trečią kartą buvo sulaužęs priesaika patvirtintą taikos
+    sutartį.
+  citata_rodoma: "Apie taikos atkūrimą tarp Sventopelko ir brolių\n\n  Kai Pomeranijos žemė teisingojo viešpaties valia tapo šitaip nuniokota, kunigaikštis\nSventopelkas, kuris anksčiau kaip riaumojantis liūtas suko ratą po rato, bausdamasis\nsunaikinti brolius bei tikėjimo daigyną, per didelį ir gausų krikščionių kraujo praliejimą\npasodintą Prūsijos žemėje, dabar  it jaukus avinėlis, nuleidęs akis  ir nukoręs galvą,\nnuolankiai paprašė brolius, kad teiktųsi jam vėl parodyti savo įprastą maloningąjį\npalankumą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-69001
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Mstivojus]], [[objektai/asmenys/Sventopelkas]]

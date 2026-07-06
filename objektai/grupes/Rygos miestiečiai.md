@@ -17,6 +17,18 @@ tags:
   - privilegija
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Rygos miestiečiai
 
@@ -27,18 +39,44 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
 ## Teiginiai
 
 <a id="claim-t-81605"></a>
-- t-001
+- t-002
   global_id: t-81605
-  teiginys: 'Rygos miestiečiai ir jų arkivyskupas skelbė žinią, esą Gediminas su saviškiais noriai priimtų krikštą ir tikėjimą.'
+  teiginys: "Rygos miestiečiai ir jų arkivyskupas skelbė žinią, esą Gediminas su saviškiais noriai priimtų krikštą ir tikėjimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "204484-205559; hash=718016377435939e4d14985b049a55c234be11b6e94f48d4a7a7e369c69f78db; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rygos miestiečiai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=55"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rygos miestiečiai\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-78197
 
 <a id="claim-t-183892"></a>
-- t-002
+- t-003
   global_id: t-183892
-  teiginys: '1330 m. apie Velykas Rygos miestiečiai patikėjo miestą, šeimas, laisves, teises ir privilegijas Livonijos magistrui Eberhardui iš Manheimo.'
+  teiginys: "1330 m. apie Velykas Rygos miestiečiai patikėjo miestą, šeimas, laisves, teises ir privilegijas Livonijos magistrui Eberhardui iš Manheimo."
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1330 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "755237-755984; hash=1bf4c40721d15cf919075671b770f4c930c0e7070ce8b4bb71c86a313db4043d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Eberhardas (Varmės vyskupas): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rygos miestiečiai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Eberhardas (Varmės vyskupas): mention_match, person, gap=95"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rygos miestiečiai\" parinktas kaip owner_note_path. Targetas \"Eberhardas (Varmės vyskupas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-167277
 - susijęs iš [[objektai/autoriai/Epitomatorius.md#claim-t-88045|Epitomatorius]]: Epitomatorius nurodė, kad Rygos miestiečiai ir arkivyskupas skelbė apie lietuvių ir rutėnų valdovų norą priimti krikštą.
 - susijęs iš [[objektai/autoriai/Jerošinas Jeroschin.md#claim-t-88022|Jerošinas Jeroschin]]: Jerošinas žinojo, kad Rygos arkivyskupas ir miestiečiai rašė prasimanytus laiškus pajūrio miestams bei popiežiui.
 - susijęs iš [[objektai/autoriai/Jerošinas.md#claim-t-88047|Jerošinas]]: Jerošinas žinojo, kad Rygos arkivyskupas ir miestiečiai rašė prasimanytus laiškus pajūrio miestams bei popiežiui.
@@ -76,6 +114,7 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
     nenorį, kad jie priimtų, ir taip pat įteikė laiškus Apaštalų
     Sostui].
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -98,11 +137,68 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
     Magistras tol nekėlė kojos  į miestą, kol jo sienoje nebuvo išlaužta 30 uolekčių ilgio
     spraga.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-78197
+  citata_originali: |
+    Panašių
+    pasakų prirašė ir išsiuntinėjo tieka, kad pasiekė net popie­
+    žių Joną ir privertė jį pasiųsti du legatus į Livoniją."
+    Taigi Jerošinas puikiausiai žinojo, kad arkivyskupas
+    ir Rygos miestiečiai rašė prasimanytus laiškus pajūrio mies­
+    tams bei popiežiui ir platino melagingą žinią, jog Gedimi­
+    nas norėjęs krikštytis.
+    Epitomatorius  nurodo tiesiai: Cives Rigenses et
+    Archiepiscopus eorum tunc Rome adhuc contra fratres in Lyvo-
+    nia dissidiantur et in omnibus civitatibus et locis maritimis notifi-
+    cant et predicant, quomodo Rex Ruthenorum et Rex Lithwanorum
+    91
+
+    ## Puslapis 108
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    baptisma et fidem libenter cum suis susciperent, sed fratres nollet
+    eos suscipere, et idem intimant litteris apostołko [Rygos mies­
+    tiečiai ir jų arkivyskupas anuomet dar Romoje ir Livonijoje
+    prieš brolius nesantaiką sėjo ir visuose pajūrio miestuose ir
+    vietovėse platino ir skelbė, esą rutėnų ir lietuvių karalius
+    noriai su saviškiais krikštą ir tikėjimą priimtų, bet broliai
+    nenorį, kad jie priimtų, ir taip pat įteikė laiškus Apaštalų
+    Sostui].
+  citata_rodoma: "\"\nTaigi Jerošinas puikiausiai žinojo, kad arkivyskupas \nir Rygos miestiečiai rašė prasimanytus laiškus pajūrio mies­\ntams bei popiežiui ir platino melagingą žinią, jog Gedimi­\nnas norėjęs krikštytis.\nEpitomatorius  nurodo tiesiai: Cives Rigenses et \nArchiepiscopus eorum tunc Rome adhuc contra fratres in Lyvo- \nnia dissidiantur et in omnibus civitatibus et locis maritimis notifi- \ncant et predicant, quomodo Rex Ruthenorum et Rex Lithwanorum\n91\n\n## Puslapis 108\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nbaptisma et fidem libenter cum suis susciperent, sed fratres nollet \neos suscipere, et idem intimant litteris apostołko [Rygos mies­\ntiečiai ir jų arkivyskupas anuomet dar Romoje ir Livonijoje \nprieš brolius nesantaiką sėjo ir visuose pajūrio miestuose ir \nvietovėse platino ir skelbė, esą rutėnų ir lietuvių karalius \nnoriai su saviškiais krikštą ir tikėjimą priimtų, bet broliai \nnenorį, kad jie priimtų, ir taip pat įteikė laiškus Apaštalų \nSostui]."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-81605
+
+- id: c-167277
+  citata_originali: |
+    16. Apie Rygos miesto sugriovimą
+
+      Mūsų jau minėtais metais, būtent 1330, apie Velykas (balandžio 1—8), kai Rygos
+    miestas bemaž ištisus metus jau buvo apsuptas, nemari (kitados visi šitaip manė)
+    Rygos miestiečių ir Livonijos teutonų ordino brolių nesantarvė laikinai aprimo; didėjant
+    nepritekliui ir stiprėjant nesantaikai, kurios su baime laukta kilsiant tarp miesto valdytojų
+    ir paprastų žmonių, miestiečiai turėjo ir save, ir savo šeimas, ir miestą, ir savo laisves
+    bei visas teises ir privilegijas patikėti broliui Eberhardui iš Manheimo, Livonijos žemės
+    magistrui, bei broliams tam, kad jie viską tvarkytų ir rikiuotų, kaip jiems rodysis tinkama.
+    Magistras tol nekėlė kojos  į miestą, kol jo sienoje nebuvo išlaužta 30 uolekčių ilgio
+    spraga.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183892
 
 ## Ryšiai
 - Priešai: [[objektai/grupes/Kryžiuočių ordinas]]

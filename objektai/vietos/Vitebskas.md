@@ -8,6 +8,7 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -21,11 +22,6 @@ datos:
   - '2026 m.'
 date_start: '1307'
 date_end: '2026'
-description: 'Vitebskas siejamas su LDK rytinėmis sritimis, Dauguvos prekyba, Jogailos žygiu į Vilnių ir Vytauto bei Skirgailos veikimu.'
-socialDescription: 'Vitebskas – LDK rytinių žemių ir Dauguvos kelio mazgas, minimas Jogailos, Vytauto, Skirgailos ir Švitrigailos kovų kontekste.'
-seo_atnaujinta: '2026-07-02T23:12:35.074524+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -36,329 +32,988 @@ tags:
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '2'
+media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/0/04/WIG_Mapa_Operacyjna_Polski_-_29_Witebsk_1931.jpg'
+media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AWIG_Mapa_Operacyjna_Polski_-_29_Witebsk_1931.jpg'
+media_primary_directness: 'direct'
+media_primary_relation_type: 'map_of'
+media_primary_json: |-
+  {"mediaId":"m-3bfaccea84102f1033361e8a","title":"WIG Mapa Operacyjna Polski - 29 Witebsk 1931.jpg","caption":"Operational map of Poland and neighbouring countries, region Witebsk. Scale of 1:300000.","creator":"Polish Insitute of Military Geography","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1931","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWIG_Mapa_Operacyjna_Polski_-_29_Witebsk_1931.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/04/WIG_Mapa_Operacyjna_Polski_-_29_Witebsk_1931.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}
+media_direct_json: |-
+  [{"mediaId":"m-3bfaccea84102f1033361e8a","title":"WIG Mapa Operacyjna Polski - 29 Witebsk 1931.jpg","caption":"Operational map of Poland and neighbouring countries, region Witebsk. Scale of 1:300000.","creator":"Polish Insitute of Military Geography","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1931","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWIG_Mapa_Operacyjna_Polski_-_29_Witebsk_1931.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/04/WIG_Mapa_Operacyjna_Polski_-_29_Witebsk_1931.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-fdb1db41edd98f35635bf7fc","title":"Witebsk maps.png","caption":"Vitebsk maps","creator":"Smat","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2014-03-28 08:58:42","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWitebsk_maps.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e0/Witebsk_maps.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
+media_contextual_json: |-
+  []
+media_all_json: |-
+  [{"mediaId":"m-3bfaccea84102f1033361e8a","title":"WIG Mapa Operacyjna Polski - 29 Witebsk 1931.jpg","caption":"Operational map of Poland and neighbouring countries, region Witebsk. Scale of 1:300000.","creator":"Polish Insitute of Military Geography","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1931","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWIG_Mapa_Operacyjna_Polski_-_29_Witebsk_1931.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/04/WIG_Mapa_Operacyjna_Polski_-_29_Witebsk_1931.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-fdb1db41edd98f35635bf7fc","title":"Witebsk maps.png","caption":"Vitebsk maps","creator":"Smat","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2014-03-28 08:58:42","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWitebsk_maps.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e0/Witebsk_maps.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
 ---
 # Vitebskas
 
 ## Santrauka
 
-Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvos Didžiosios Kunigaikštystės sritis ir Dauguvos prekybos kelio dalis. Su juo siejamas 1382 m. Jogailos atvykimas į Vilnių, Hanulio perduoti pilies raktai ir vėlesnis Vytauto bei Skirgailos Vitebsko paėmimas 1392 m. Miestas taip pat minimas platesniame Polocko, Smolensko, Minsko ir kitų rytinių žemių politiniame bei kariniame kontekste.
+Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio į Vilnių ir Kijevą mazgas bei kaip viena iš vėliau panaikintų didžiųjų kunigaikštijų.
 
 ## Teiginiai
 
 <a id="claim-t-181110"></a>
-- t-001
+- t-043
   global_id: t-181110
-  teiginys: 'Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugomame namų arešte Vitebske.'
+  teiginys: "Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugomame namų arešte Vitebske."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "3262-3603; hash=5856bd3160f6d04a03f31a27adcaea602626083c8fcc8683087058c8f86b1832; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vitebskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person, gap=53"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vitebskas\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-011
+    - c-164687
 
 <a id="claim-t-181111"></a>
-- t-002
+- t-020
   global_id: t-181111
-  teiginys: '1382 m. birželio 12 d. Jogaila atėjo nuo Vitebsko į Vilnių ir, šalininkų remiamas, jį paėmė.'
+  teiginys: "1382 m. birželio 12 d. Jogaila atėjo nuo Vitebsko į Vilnių ir, šalininkų remiamas, jį paėmė."
+  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) keliavo į Vilnius (0.90); Jogaila (kunigaikštis, XIV–XV a.) užėmė Vilnius (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1382 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "64225-64783; hash=303086d082de6fe6d11d04a664243c8c767df75799dea29a283b96fcc6665db5; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Jogailos judėjimą į Vilnių."
   pagrindžia:
-    - c-006
+    - c-164682
+
+<a id="claim-t-181110"></a>
+- t-043
+  global_id: t-181110
+  teiginys: "Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugomame namų arešte Vitebske."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "3262-3603; hash=5856bd3160f6d04a03f31a27adcaea602626083c8fcc8683087058c8f86b1832; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vitebskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person, gap=53"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vitebskas\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  pagrindžia:
+    - c-164687
 
 <a id="claim-t-181113"></a>
-- t-004
+- t-048
   global_id: t-181113
-  teiginys: 'XII a. iš Polocko kunigaikštijos miestų, tarp jų Vitebsko, susidarė atskiros kunigaikštijos.'
+  teiginys: "XII a. iš Polocko kunigaikštijos miestų, tarp jų Vitebsko, susidarė atskiros kunigaikštijos."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "166792-167081; hash=5e96fb528882d2150268460e26bcee8674ff1267fd7a35e33816b9b5cf5e4b13; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aisčiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vitebskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Aisčiai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vitebskas\" parinktas kaip owner_note_path. Targetas \"Aisčiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-013
+    - c-164690
 
 <a id="claim-t-181115"></a>
-- t-005
+- t-029
   global_id: t-181115
-  teiginys: 'Gediminas prie anksčiau lietuvių užvaldytų žemių pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.'
+  teiginys: "Gediminas prie anksčiau lietuvių užvaldytų žemių pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes."
+  semantiniai_rysiai: "Gediminas užkariavo Vitebskas (0.92); Gediminas užkariavo Kijevas (0.90); Lietuviai valdė teritoriją Polockas (0.55)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "52631-52897; hash=69af795387a79615a7eff01634d6fe644574b29e955530a75a007a6cdf3ff5d9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzkariavo -> Vitebskas: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vitebskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sieja Gediminą su užkariautų Vitebsko žemių prijungimu."
+  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-018
+    - c-164696
 
 <a id="claim-t-181116"></a>
-- t-006
+- t-017
   global_id: t-181116
-  teiginys: 'Vilniaus valdovui tiesiogiai priklausė Vilniaus žemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio sritimis.'
+  teiginys: "Vilniaus valdovui tiesiogiai priklausė Vilniaus žemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio sritimis."
+  semantiniai_rysiai: "Vitebskas priklausė Vilnius (0.60)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "815842-816130; hash=f4470565936352080e8fa6e6d9cd52ec197df623d246edd27b17dca2758c3eed; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Vilnius: 0.60"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vitebskas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vitebsko sritys įvardytos kaip artimos Vilniaus žemei ir didžiojo kunigaikščio tiesioginėje valdžioje, bet ryšys su Vilniumi netiesioginis."
   pagrindžia:
-    - c-023
+    - c-164708
 
 <a id="claim-t-181117"></a>
-- t-007
+- t-018
   global_id: t-181117
-  teiginys: 'Po Julijonos Algirdienės mirties Švitrigaila prieš Jogailos valią įsitvirtino Vitebske.'
+  teiginys: "Po Julijonos Algirdienės mirties Švitrigaila prieš Jogailos valią įsitvirtino Vitebske."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Vitebskas (0.92); Skirgaila užėmė Vitebskas (0.90); Švitrigaila valdė miestą Vitebskas (0.88)"
+  temporaliniai_duomenys: "įvykio data: 1392 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo Švitrigailos veiksmą Vitebske ir yra paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "850985-851297; hash=7a064592788a2e738c5637b842d3c2c4b9f911d3e28d18b4e2996d5ed5641578; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Vitebskas: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vitebskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Vytautas kartu su Skirgaila paėmė Vitebską."
   pagrindžia:
-    - c-016
+    - c-164694
 
 <a id="claim-t-181118"></a>
-- t-008
+- t-063
   global_id: t-181118
-  teiginys: '1382 m. birželio 12 d. Jogaila nuo Vitebsko atėjo į Vilnių ir, šalininkų remiamas, jį paėmė.'
+  teiginys: "1382 m. birželio 12 d. Jogaila nuo Vitebsko atėjo į Vilnių ir, šalininkų remiamas, jį paėmė."
+  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) keliavo į Vilnius (0.93); Jogaila (kunigaikštis, XIV–XV a.) užėmė Vilnius (0.84)"
+  temporaliniai_duomenys: "įvykio data: 1382 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "64225-64783; hash=303086d082de6fe6d11d04a664243c8c767df75799dea29a283b96fcc6665db5; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Jogailos atėjimą į Vilnių."
   pagrindžia:
-    - c-006
+    - c-164682
 
 <a id="claim-t-181119"></a>
-- t-009
+- t-015
   global_id: t-181119
-  teiginys: '1382 m. birželio 12 d. Jogailai atvykus iš Vitebsko į Vilnių, Hanulis jam įteikė pilies raktus.'
+  teiginys: "1382 m. birželio 12 d. Jogailai atvykus iš Vitebsko į Vilnių, Hanulis jam įteikė pilies raktus."
+  temporaliniai_duomenys: "įvykio data: 1382 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "756226-756408; hash=e76173809f6943626eb29c3b2c91ddc2533d7261b6cc3981d979cca443c45252; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Hanulis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vitebskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Hanulis: mention_match, person, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vitebskas\" parinktas kaip owner_note_path. Targetas \"Hanulis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-32547
 
 <a id="claim-t-181120"></a>
-- t-010
+- t-019
   global_id: t-181120
-  teiginys: 'Su Jogailos žinia, Vytautas kartu su Skirgaila 1392 m. paėmė Vitebską.'
+  teiginys: "Su Jogailos žinia, Vytautas kartu su Skirgaila 1392 m. paėmė Vitebską."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Vitebskas (0.94); Skirgaila užėmė Vitebskas (0.92)"
+  temporaliniai_duomenys: "įvykio data: 1392 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiesiogiai atitinka citatą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "851045-851457; hash=9ec65edc7b3006b04e860e50316f3da687d486dfa462740ee6803e4b22ccafe7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Vitebskas: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vitebskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Vytautą kaip Vitebsko paėmėją."
   pagrindžia:
-    - c-030
+    - c-164722
 
 <a id="claim-t-181121"></a>
-- t-011
+- t-042
   global_id: t-181121
-  teiginys: 'Mykolas Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, netoli Vitebsko.'
+  teiginys: "Mykolas Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, netoli Vitebsko."
+  temporaliniai_duomenys: "įvykio data: 1794 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra faktinis ir citata patvirtina gimimo datą bei vietą prie Vitebsko."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "3162-3382; hash=b70789e0324aa5e6bdccfdacbe6d954ba587dac43bd25736809c37bf956790ab; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vitebskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person, gap=59"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vitebskas\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-021
+    - c-164705
 
 <a id="claim-t-181123"></a>
-- t-012
+- t-031
   global_id: t-181123
-  teiginys: 'Švitrigailos pajėgose buvo rytinių LDK slaviškų žemių, tarp jų Vitebsko, kariai.'
+  teiginys: "Švitrigailos pajėgose buvo rytinių LDK slaviškų žemių, tarp jų Vitebsko, kariai."
+  semantiniai_rysiai: "Kryžiuočių ordinas buvo sąjungininkas su Švitrigaila (0.74)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "277882-278354; hash=25ff96df4502a96887268eb192ffb46b154ead82fcb49582df5976ef9ad4a8f8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Švitrigaila: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Bendra pajėgų antraštė rodo Švitrigailos ir Ordino sąjungą šiame kariniame kontekste."
   pagrindžia:
-    - c-028
+    - c-164716
 
 <a id="claim-t-181124"></a>
-- t-013
+- t-022
   global_id: t-181124
-  teiginys: '1411 m. pavasarį Vytautas su Jogaila keliavo pro Vitebską, o tų kraštų kunigaikščiai reiškė Vytautui paklusnumą.'
+  teiginys: "1411 m. pavasarį Vytautas su Jogaila keliavo pro Vitebską, o tų kraštų kunigaikščiai reiškė Vytautui paklusnumą."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Vitebskas (0.91); Jogaila (kunigaikštis, XIV–XV a.) keliavo į Vitebskas (0.78)"
+  temporaliniai_duomenys: "kelionės data: 1411 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia Vytauto ir Jogailos kelionę pro Vitebską."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "327825-328301; hash=d132e3c5fbe4c01309e93fc3194972f9d78bb45e48a1c818e206107c3ae3139c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Vitebskas: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vitebskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vytautas tiesiogiai minimas vykęs pro Vitebską."
   pagrindžia:
-    - c-020
+    - c-164703
 
 <a id="claim-t-181125"></a>
-- t-014
+- t-045
   global_id: t-181125
-  teiginys: 'Po nepavykusio sąmokslo Švitrigaila pabėgo į Polocką ir paėmė į savo valdžią Vitebsko, Smolensko, Kijevo bei kitas sritis.'
+  teiginys: "Po nepavykusio sąmokslo Švitrigaila pabėgo į Polocką ir paėmė į savo valdžią Vitebsko, Smolensko, Kijevo bei kitas sritis."
+  semantiniai_rysiai: "Švitrigaila valdė teritoriją Vitebskas (0.94); Švitrigaila valdė teritoriją Polockas (0.94); Švitrigaila keliavo į Polockas (0.92); Švitrigaila valdė teritoriją Kijevas (0.92)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "257660-258450; hash=17c41d5994d22ef556100a5d2d526b7978aaa5d182ccef975d5fd552c17e8c84; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_teritorija -> Polockas: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Polocko sritis tiesiogiai įvardyta kaip paimta į Švitrigailos valdžią."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-017
+    - c-164695
 
 <a id="claim-t-181126"></a>
-- t-015
+- t-058
   global_id: t-181126
-  teiginys: 'Švitrigaila prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą praleisti paskutines audringos senatvės dienas.'
+  teiginys: "Švitrigaila prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą praleisti paskutines audringos senatvės dienas."
+  semantiniai_rysiai: "Švitrigaila keliavo į Ukraina (0.90); Švitrigaila gyveno Vitebskas (0.78)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "448468-449086; hash=876f97f128944c624e17f268888bf4b97a416bf101b11e8e282f6c50766fd517; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Ukraina: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Ukraina: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo Švitrigailos vykimą į Ukrainą."
   pagrindžia:
-    - c-014
+    - c-164691
 
 <a id="claim-t-181127"></a>
-- t-016
+- t-047
   global_id: t-181127
-  teiginys: 'Vitebskas buvo viena iš vietų, kur įkurtos pijarų mokyklos.'
+  teiginys: "Vitebskas buvo viena iš vietų, kur įkurtos pijarų mokyklos."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "304032-304888; hash=e20dff8e8058432b78ac223498c8257f3c17bc85be4da50e206322c3ecb2255b; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Viena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vitebskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=15"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vitebskas\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-010
+    - c-164686
 
 <a id="claim-t-181128"></a>
-- t-017
+- t-064
   global_id: t-181128
-  teiginys: 'Vytenio ir Gedimino laikais prie Lietuvos prijungta Baltoji Rusia, įskaitant Polocką 1307 m. ir Vitebską 1320 m.'
+  teiginys: "Vytenio ir Gedimino laikais prie Lietuvos prijungta Baltoji Rusia, įskaitant Polocką 1307 m. ir Vitebską 1320 m."
+  semantiniai_rysiai: "Vitebskas priklausė Lietuva (0.86); Polockas priklausė Lietuva (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1307 m.; įvykio data: 1320 m.; įvykio data: 1340 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys sutelktas į Vitebską ir sutrumpintas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "60377-60904; hash=383b34832f673c57ff6b23e1de60866e24ba194febfe08aa909ddd36051591ce; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vitebskas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vitebskas pateiktas kaip viena prie Lietuvos prijungtų Baltosios Rusios vietų."
   pagrindžia:
-    - c-009
+    - c-164685
 
 <a id="claim-t-181129"></a>
-- t-018
+- t-044
   global_id: t-181129
-  teiginys: 'Algirdas dar Gediminui gyvam esant viešpatavo Vitebske ir Krėvoje.'
+  teiginys: "Algirdas dar Gediminui gyvam esant viešpatavo Vitebske ir Krėvoje."
+  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) valdė miestą Vitebskas (0.90); Algirdas (Lietuvos valdovas) valdė miestą Krėva (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "78665-79136; hash=ff207ccd5136a8e94c30b457d1b79984b1273fed46d1f272cca591eff7d43993; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_miesta -> Krėva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Krėva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Krėva išvardyta kaip viena iš vietų, kur Algirdas viešpatavo."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-008
+    - c-164684
 
 <a id="claim-t-181131"></a>
-- t-019
+- t-049
   global_id: t-181131
-  teiginys: 'Po sąmokslininkų užpuolimo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Vitebsko sritį.'
+  teiginys: "Po sąmokslininkų užpuolimo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Vitebsko sritį."
+  semantiniai_rysiai: "Švitrigaila valdė teritoriją Vitebskas (0.94); Švitrigaila keliavo į Polockas (0.86)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "257660-258450; hash=17c41d5994d22ef556100a5d2d526b7978aaa5d182ccef975d5fd552c17e8c84; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_teritorija -> Vitebskas: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vitebskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad Švitrigaila paėmė Vitebsko sritį į savo valdžią."
+  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
+  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
-    - c-017
+    - c-164695
 
 <a id="claim-t-181132"></a>
-- t-020
+- t-024
   global_id: t-181132
-  teiginys: 'Panaikinus Vitebsko kunigaikštiją, jos dvarai ir pajamos pateko į tiesioginę Vytauto valdžią.'
+  teiginys: "Panaikinus Vitebsko kunigaikštiją, jos dvarai ir pajamos pateko į tiesioginę Vytauto valdžią."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "597149-597634; hash=31473bc66f550f248b49fa31afeb6d67eae869c496f1844780f66d968039a787; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vitebskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vitebskas\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-015
+    - c-164692
 
 <a id="claim-t-181136"></a>
-- t-021
+- t-032
   global_id: t-181136
-  teiginys: 'Totorių žygis nusiaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.'
+  teiginys: "Totorių žygis nusiaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje."
+  semantiniai_rysiai: "Totoriai surengė žygį į Vitebskas (0.82); Totoriai surengė žygį į Vilnius (0.82); Totoriai surengė žygį į Naugardukas (0.82); Totoriai surengė žygį į Sluckas (0.82)"
+  temporaliniai_duomenys: "mūšio data: 1506 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "304964-305302; hash=3d12ab11f0d9f3f87cd4cbc41add2e0182219d61a00aa3e40ac9b9b2e25b8a3b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Naugardukas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Naugardukas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Naugarduko apylinkės tiesiogiai išvardytos tarp totorių žygio niokojamų vietų."
   pagrindžia:
-    - c-007
+    - c-164683
 
 <a id="claim-t-181137"></a>
-- t-022
+- t-016
   global_id: t-181137
-  teiginys: 'Didžiosios kunigaikštijos plačios sritys per Polocką ir Vitebską buvo įtrauktos į Dauguvos prekybą.'
+  teiginys: "Didžiosios kunigaikštijos plačios sritys per Polocką ir Vitebską buvo įtrauktos į Dauguvos prekybą."
+  semantiniai_rysiai: "Vitebskas prekiavo su Dauguva (0.76); Polockas prekiavo su Dauguva (0.76); Ryga prekiavo su Lietuva (0.68)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "813240-813570; hash=b22112cb688a0f14b7a9fb82ca97b4a49fd466e71f580372ca917aa037fcf4b3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Dauguva: 0.76"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Dauguva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Polockas taip pat tiesiogiai minimas kaip tarpinis Dauguvos prekybos centras."
   pagrindžia:
-    - c-004
+    - c-32548
 
 <a id="claim-t-181138"></a>
-- t-023
+- t-044
   global_id: t-181138
-  teiginys: 'Iš Rusios miestų, tarp jų Vitebsko, susidarė atskiros kunigaikštijos.'
+  teiginys: "Iš Rusios miestų, tarp jų Vitebsko, susidarė atskiros kunigaikštijos."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "166792-167081; hash=5e96fb528882d2150268460e26bcee8674ff1267fd7a35e33816b9b5cf5e4b13; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> kunigaikštija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vitebskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "kunigaikštija: mention_match, thing, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vitebskas\" parinktas kaip owner_note_path. Targetas \"kunigaikštija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-013
+    - c-164690
 
 <a id="claim-t-181139"></a>
-- t-024
+- t-056
   global_id: t-181139
-  teiginys: 'Algirdas, Gediminui dar gyvam esant, viešpatavo Vitebske ir Krėvoje.'
+  teiginys: "Algirdas, Gediminui dar gyvam esant, viešpatavo Vitebske ir Krėvoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "78665-79136; hash=ff207ccd5136a8e94c30b457d1b79984b1273fed46d1f272cca591eff7d43993; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krėva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vitebskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Krėva: mention_match, place, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vitebskas\" parinktas kaip owner_note_path. Targetas \"Krėva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-164684
 
 <a id="claim-t-181140"></a>
-- t-025
+- t-045
   global_id: t-181140
-  teiginys: 'Vytautas apsupo Vitebską ir po keturias savaites trukusio puolimo jį užėmė, o Švitrigailą paėmė į nelaisvę.'
+  teiginys: "Vytautas apsupo Vitebską ir po keturias savaites trukusio puolimo jį užėmė, o Švitrigailą paėmė į nelaisvę."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Vitebskas (0.97); Vytautas (Lietuvos valdovas, XIV–XV a.) apgulė Vitebskas (0.88); Švitrigaila puolė Vitebskas (0.87)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "307654-308159; hash=9a5deb7f5a35e9e2b751f5fab964bd44645a37257d34a5c5a34c91d567994eac; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Vitebskas: 0.97"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vitebskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vytautas užėmė Vitebską."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-027
+    - c-164713
 
 <a id="claim-t-181141"></a>
-- t-026
+- t-030
   global_id: t-181141
-  teiginys: 'Prieš žygį į Lietuvą Švitrigaila savo ir pavaldžių rusų kunigaikščių pajėgas sutelkė Vitebske.'
+  teiginys: "Prieš žygį į Lietuvą Švitrigaila savo ir pavaldžių rusų kunigaikščių pajėgas sutelkė Vitebske."
+  semantiniai_rysiai: "Švitrigaila surengė žygį į Lietuva (0.90); Švitrigaila keliavo į Vitebskas (0.66); Švitrigaila surengė žygį į Vilnius (0.50)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "276300-276615; hash=1865ac0186db579bb1624782a11d41580fef9b45a8aa352fe9ab31909c068804; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Lietuva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Švitrigailos žygį į Lietuvą."
   pagrindžia:
-    - c-022
+    - c-164706
 
 <a id="claim-t-181143"></a>
-- t-027
+- t-052
   global_id: t-181143
-  teiginys: 'Žygiui į Lietuvą Švitrigaila savo ir pavaldžių rusų kunigaikščių pajėgas sutelkė Vitebske, iš kur patraukė į Breslaują.'
+  teiginys: "Žygiui į Lietuvą Švitrigaila savo ir pavaldžių rusų kunigaikščių pajėgas sutelkė Vitebske, iš kur patraukė į Breslaują."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "276174-276567; hash=5bf36a0e71b09e2ca7a532928477e845ce143925974e6ff66628548ff907f4c2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Breslauja: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vitebskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Breslauja: mention_match, place, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vitebskas\" parinktas kaip owner_note_path. Targetas \"Breslauja\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-024
+    - c-164709
 
 <a id="claim-t-181144"></a>
-- t-028
+- t-033
   global_id: t-181144
-  teiginys: '1562 m. maskvėnai nusiaubė Vitebsko apylinkes, o lietuviai atsakydami nuniokojo Maskvos žemes Vitebsko vaivadijos pasienyje.'
+  teiginys: "1562 m. maskvėnai nusiaubė Vitebsko apylinkes, o lietuviai atsakydami nuniokojo Maskvos žemes Vitebsko vaivadijos pasienyje."
+  semantiniai_rysiai: "Maskvėnai puolė Vitebskas (0.88); Maskvėnai kariavo prieš Lietuviai (0.75)"
+  temporaliniai_duomenys: "įvykio data: 1562 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas neaiškus laiko įvardis ir sutelkta į Vitebską."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "349164-349627; hash=e7d10ef45777739e657e173592218633c51da67d44174f20d8b6834da4440b55; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Vitebskas: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Maskvėnai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vitebskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Maskvėnai tiesiogiai nurodyti kaip nusiaubę Vitebsko apylinkes."
+  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-005
+    - c-44028
 
 <a id="claim-t-181145"></a>
-- t-029
+- t-046
   global_id: t-181145
-  teiginys: 'Švitrigaila Vitebske įsakė Alšėnų kunigaikštį nuo aukšto skardžio įmesti į Dviną.'
+  teiginys: "Švitrigaila Vitebske įsakė Alšėnų kunigaikštį nuo aukšto skardžio įmesti į Dviną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "444439-444951; hash=80fbc02e516c7842d10dd9fd5f23436e6e85e5b9219a95f898e9aa4a3b20f0d6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Alšėnai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vitebskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Alšėnai: mention_match, place, gap=15"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vitebskas\" parinktas kaip owner_note_path. Targetas \"Alšėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-026
+    - c-164712
 
 <a id="claim-t-181146"></a>
-- t-030
+- t-047
   global_id: t-181146
-  teiginys: 'Švitrigaila prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą ramybėje praleisti paskutines audringos senatvės dienas.'
+  teiginys: "Švitrigaila prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą ramybėje praleisti paskutines audringos senatvės dienas."
+  semantiniai_rysiai: "Švitrigaila keliavo į Ukraina (0.90); Švitrigaila gyveno Vitebskas (0.78)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "448468-449086; hash=876f97f128944c624e17f268888bf4b97a416bf101b11e8e282f6c50766fd517; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Ukraina: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Ukraina: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad Švitrigaila nusigavo į Ukrainą."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-014
+    - c-164691
 
 <a id="claim-t-181147"></a>
-- t-031
+- t-014
   global_id: t-181147
-  teiginys: 'Po perversmo Jogailai buvo paliktos jo tėvo žemės: Vitebskas ir Krėvos kunigaikštystė.'
+  teiginys: "Po perversmo Jogailai buvo paliktos jo tėvo žemės: Vitebskas ir Krėvos kunigaikštystė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "755012-755368; hash=697e08cf95d9a145a8dc75462bb17586a3824714b9f139bceb39891ef2c679e2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krėva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vitebskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Krėva: mention_match, place, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vitebskas\" parinktas kaip owner_note_path. Targetas \"Krėva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-012
+    - c-164688
 
 <a id="claim-t-181148"></a>
-- t-032
+- t-054
   global_id: t-181148
-  teiginys: '1505 m. totoriai niokojo Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.'
+  teiginys: "1505 m. totoriai niokojo Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje."
+  semantiniai_rysiai: "Totoriai puolė Vitebskas (0.87)"
+  temporaliniai_duomenys: "įvykio data: 1505 m.; įvykio data: 1506 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalinti neaiškūs įvardžiai ir kontekstinė formuluotė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "304964-305302; hash=3d12ab11f0d9f3f87cd4cbc41add2e0182219d61a00aa3e40ac9b9b2e25b8a3b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Vitebskas: 0.87"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vitebskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Niokojimas apylinkėse tiesiogiai palaiko totorių puolimą prieš Vitebsko apylinkes."
   pagrindžia:
-    - c-007
+    - c-164683
 
 <a id="claim-t-181149"></a>
-- t-033
+- t-053
   global_id: t-181149
-  teiginys: 'Švitrigailą rėmusiose pajėgose buvo rytinių LDK slaviškų žemių, įskaitant Vitebską, kariai.'
+  teiginys: "Švitrigailą rėmusiose pajėgose buvo rytinių LDK slaviškų žemių, įskaitant Vitebską, kariai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "277482-278260; hash=96fd9ff8cf2e40a2b989d5b996fc2420702b33b4a20814b538367a46f65f2160; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dlugošas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vitebskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Dlugošas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vitebskas\" parinktas kaip owner_note_path. Targetas \"Dlugošas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-025
+    - c-164710
 
 <a id="claim-t-181150"></a>
-- t-034
+- t-046
   global_id: t-181150
-  teiginys: 'Vitebske atsirado jėzuitų kolegija, įkurta Smolensko vaivados A. Gansiausko fundacija.'
+  teiginys: "Vitebske atsirado jėzuitų kolegija, įkurta Smolensko vaivados A. Gansiausko fundacija."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "301700-302250; hash=36132c2e81d0ef3379c52d004b6ea71a2be87fa313e48eb16377c860c655f9cc; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Smolenskas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vitebskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Smolenskas: mention_match, place, gap=43"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vitebskas\" parinktas kaip owner_note_path. Targetas \"Smolenskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
+    - c-21492
 
 <a id="claim-t-181152"></a>
-- t-035
+- t-013
   global_id: t-181152
-  teiginys: 'Strėvos kautynėse dalyvavo būriai iš Vitebsko, o mūšis baigėsi lietuvių pralaimėjimu.'
+  teiginys: "Strėvos kautynėse dalyvavo būriai iš Vitebsko, o mūšis baigėsi lietuvių pralaimėjimu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "691991-692335; hash=54e8db518b39268fab4847fef8b95dfb65c043a19ac9d79ac3bfa765fbe4fbae; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vitebskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vitebskas\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-32545
 
 <a id="claim-t-181153"></a>
-- t-036
+- t-065
   global_id: t-181153
-  teiginys: '1562 m. Vitebsko karo lauko seimas siuntė Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos.'
+  teiginys: "1562 m. Vitebsko karo lauko seimas siuntė Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos."
+  temporaliniai_duomenys: "įvykio data: 1562 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys yra pilnas ir aiškiai apibūdina Vitebsko karo lauko seimo veiksmą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "123228-123483; hash=3dd87ee0125af18a222cbf0f538a65c16802f241ede57e618a106ec31656b0e8; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Chodkevičiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vitebskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Chodkevičiai: mention_match, group, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vitebskas\" parinktas kaip owner_note_path. Targetas \"Chodkevičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-031
+    - c-164724
+
+<a id="claim-t-181154"></a>
+- t-062
+  global_id: t-181154
+  teiginys: "Strėvos kautynėse dalyvavo būriai iš Vitebsko, o mūšis baigėsi lietuvių pralaimėjimu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "691911-692147; hash=1ed6650c25d3074d13ea05b643e59ce33e94b1ed7729a7e7d58deb5517bfcfee; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vitebskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vitebskas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-164721
 
 <a id="claim-t-181155"></a>
-- t-038
+- t-050
   global_id: t-181155
-  teiginys: 'Vitebske veikė pijarų mokykla - pilna kolegija arba žemesnioji mokykla.'
+  teiginys: "Vitebske veikė pijarų mokykla - pilna kolegija arba žemesnioji mokykla."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "304032-304888; hash=e20dff8e8058432b78ac223498c8257f3c17bc85be4da50e206322c3ecb2255b; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vitebskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vitebskas\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-010
+    - c-164686
 
 <a id="claim-t-181156"></a>
-- t-039
+- t-057
   global_id: t-181156
-  teiginys: 'Vytautas apsupo Vitebską ir po keturias savaites trukusio puolimo užėmė miestą.'
+  teiginys: "Vytautas apsupo Vitebską ir po keturias savaites trukusio puolimo užėmė miestą."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Vitebskas (0.96); Vytautas (Lietuvos valdovas, XIV–XV a.) apgulė Vitebskas (0.88)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "307264-307960; hash=c917cd57f076dce4467d9fea70ab64f20649cd5daba9e3c1009babcef28be50f; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Vitebskas: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vitebskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad Vytautas užėmė Vitebską."
   pagrindžia:
-    - c-019
+    - c-164697
 
 <a id="claim-t-184324"></a>
-- t-040
+- t-066
   global_id: t-184324
-  teiginys: 'Jogailai grįžus iš Vitebsko, Kęstutis organizavo pasipriešinimą, o Vytautas jam tik padėjo.'
+  teiginys: "Jogailai grįžus iš Vitebsko, Kęstutis organizavo pasipriešinimą, o Vytautas jam tik padėjo."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "643791-644140; hash=55bab37cd00aa0cdc88f697d42308a501b7134c219cb826882b88529d827e491; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vitebskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vitebskas\" parinktas kaip owner_note_path. Targetas \"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-032
+    - c-167695
 
 <a id="claim-t-185201"></a>
-- t-041
+- t-067
   global_id: t-185201
-  teiginys: 'Algirdas, priėmęs krikščionybę žmonos Julijonos noru, neatmetė rusų apeigų ir pastatė rusams Vitebske porą šventovių.'
+  teiginys: "Algirdas, priėmęs krikščionybę žmonos Julijonos noru, neatmetė rusų apeigų ir pastatė rusams Vitebske porą šventovių."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "391029-391470; hash=679dec1ded2e4c2cb69813c0c8738d4b203e17896adff64ed6dfc6ccee563c07; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vitebskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vitebskas\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-033
+    - c-168562
 
 <a id="claim-t-185202"></a>
-- t-042
+- t-068
   global_id: t-185202
-  teiginys: 'Prie Vytauto kariuomenės prisidėjus smolenskiečiams, padidėjusi kariuomenė buvo nuvesta į Vitebską.'
+  teiginys: "Prie Vytauto kariuomenės prisidėjus smolenskiečiams, padidėjusi kariuomenė buvo nuvesta į Vitebską."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "605474-606127; hash=4d9e3760f42bec985f5987a6d3012bcea91e9a285ea66c0a38bd78d098fc2a2f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Livonija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vitebskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Livonija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vitebskas\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-034
+    - c-168563
 
 <a id="claim-t-185203"></a>
-- t-043
+- t-069
   global_id: t-185203
-  teiginys: 'Žiemos viduryje Kazimieras aplankė Baltarusiją ir Polocke, Vitebske bei Smolenske tvarkė taikos ir karo reikalus.'
+  teiginys: "Žiemos viduryje Kazimieras aplankė Baltarusiją ir Polocke, Vitebske bei Smolenske tvarkė taikos ir karo reikalus."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1470 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys gramatiškas ir citata patvirtina Kazimiero veiklą Vitebske."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "914864-916138; hash=6e31fa6bffc61a4c57c3712602ee571a1b2bdab1aab706a91e667acbea63b0a4; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Smolenskas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vitebskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Smolenskas: mention_match, place, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vitebskas\" parinktas kaip owner_note_path. Targetas \"Smolenskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-035
+    - c-168564
 
 <a id="claim-t-187682"></a>
 - t-044
   global_id: t-187682
-  teiginys: 'Vytautas su Skirgaila ir didele kariuomene žygiavo į Vitebską prieš kunigaikštį Švitrigailą.'
+  teiginys: "Vytautas su Skirgaila ir didele kariuomene žygiavo į Vitebską prieš kunigaikštį Švitrigailą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "166792-167081; hash=5e96fb528882d2150268460e26bcee8674ff1267fd7a35e33816b9b5cf5e4b13; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aisčiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vitebskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Aisčiai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vitebskas\" parinktas kaip owner_note_path. Targetas \"Aisčiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-036
+    - c-170623
 
 <a id="claim-t-187683"></a>
 - t-045
   global_id: t-187683
-  teiginys: 'Aleksandras su Elena ir didikais žiemą lankėsi Vitebske, apžiūrėdamas Rusų žemę.'
+  teiginys: "Aleksandras su Elena ir didikais žiemą lankėsi Vitebske, apžiūrėdamas Rusų žemę."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "257660-258450; hash=17c41d5994d22ef556100a5d2d526b7978aaa5d182ccef975d5fd552c17e8c84; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vitebskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vitebskas\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-037
+    - c-170624
 
 <a id="claim-t-187684"></a>
 - t-046
   global_id: t-187684
-  teiginys: 'Jogailos tėvas Algirdas gavo valdžią Vitebske, kai valdžia Vilniuje teko Jaunučiui, o Trakuose - Kęstučiui.'
+  teiginys: "Jogailos tėvas Algirdas gavo valdžią Vitebske, kai valdžia Vilniuje teko Jaunučiui, o Trakuose - Kęstučiui."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) valdė Vitebskas (0.89); Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valdė Trakai (0.82)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "301700-302250; hash=36132c2e81d0ef3379c52d004b6ea71a2be87fa313e48eb16377c860c655f9cc; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Vitebskas: 0.89"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vitebskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Algirdas gavo valdžią Vitebske."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-038
+    - c-170625
 
 <a id="claim-t-187685"></a>
 - t-047
   global_id: t-187685
-  teiginys: 'Kęstutis grąžino Jogailai jo tėvo dalį - Vitebską ir kitas sritis, o Jogaila prisiekė Kęstučiui ištikimybę.'
+  teiginys: "Kęstutis grąžino Jogailai jo tėvo dalį - Vitebską ir kitas sritis, o Jogaila prisiekė Kęstučiui ištikimybę."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Vitebskas priklausė Jogaila (kunigaikštis, XIV–XV a.) (0.73)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "304032-304888; hash=e20dff8e8058432b78ac223498c8257f3c17bc85be4da50e206322c3ecb2255b; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Jogaila (kunigaikštis, XIV–XV a.): 0.73"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vitebskas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Vitebskas įvardytas kaip Jogailai grąžinama jo tėvo dalis, todėl priklausomybė Jogailai paremta tekstu."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-039
+    - c-170626
+
+<a id="claim-t-192778"></a>
+- t-070
+  global_id: t-192778
+  teiginys: "Narbutas, remdamasis Karamzinu, Vitebsko vietoje minėjo senovės pilį prie Dauguvos Witsby kaip vibionų arba vitbionų genties sostinę."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "181055-181501; hash=ce1a42d599368d50dd5e04f01d446b750ae2f91951ecfb438197c5c3415286a3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dauguva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vitebskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Dauguva: mention_match, place, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vitebskas\" parinktas kaip owner_note_path. Targetas \"Dauguva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175548
+
+<a id="claim-t-193250"></a>
+- t-071
+  global_id: t-193250
+  teiginys: "Pačiam Švitrigailai pavyko pabėgti į Vitebską ir surinkti naują kariuomenę, tačiau su ja jis vis dėlto nebegalėjo priešintis."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "357635-358147; hash=4c3ac0f0eb396c88f89d97e2a5fcf43ebb2b075797f43485517f2c36da1e537b; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-175983
+
+<a id="claim-t-193251"></a>
+- t-072
+  global_id: t-193251
+  teiginys: "Maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Oršą ir apdegino Vitebską."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "405022-405231; hash=4df3649ded8fca2a1c3556d87d3307fa3908fc982c101e34dcec2898cf31ed31; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-175984
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10666|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Krėvą ir Vitebską.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179699|Švitrigaila]]: Švitrigaila sukilo, užmušė Feodorą Vesną ir pats ėmė valdyti Vitebską.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176733|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Su Jogailos žinia, Vytautas kartu su Skirgaila 1392 m. paėmė Vitebską.
@@ -392,8 +1047,10 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
 - susijęs iš [[objektai/asmenys/Julijona (Algirdo žmona).md#claim-t-12183|Julijona (Algirdo žmona)]]: Julijona, Algirdo žmona, viešpatavo Vitebske ir mirė 1392 m.
 - susijęs iš [[objektai/asmenys/Julijona (Algirdo žmona).md#claim-t-176510|Julijona (Algirdo žmona)]]: Julijona, Vitebsko kunigaikštytė, buvo antroji Algirdo žmona ir Polocko kunigaikščio Andriaus motina.
 - susijęs iš [[objektai/asmenys/Julijona.md#claim-t-184743|Julijona]]: Julijonos noru Algirdas sutiko priimti krikščionybę ir Vitebske pastatė rusams dvi šventoves.
+- susijęs iš [[objektai/asmenys/Karamzinas.md#claim-t-191247|Karamzinas]]: Karamzinas, Narbuto perteikimu, tyrimuose rašė apie vibionų, arba vitbionų, gentį ir jos sostinę Witsby prie Dauguvos, dabartinį Vitebską.
 - susijęs iš [[objektai/asmenys/Kiščina (Vitebsko vaivadienė).md#claim-t-87756|Kiščina (Vitebsko vaivadienė)]]: Kiščina, Vitebsko vaivadienė, buvo įspėta nestabdyti į Vilnių vamzdžiais vedamo vandens iš Drujos upės.
 - susijęs iš [[objektai/asmenys/Marija (Vitebsko sosto įpėdinė).md#claim-t-30356|Marija (Vitebsko sosto įpėdinė)]]: Marija buvo vienintelė Vitebsko kunigaikščio sosto įpėdinė, o ją vedęs Algirdas po uošvio mirties paveldėjo Vitebską.
+- susijęs iš [[objektai/asmenys/Nikolajus Karamzinas.md#claim-t-191143|Nikolajus Karamzinas]]: Teodoras Narbutas nurodo, kad Karamzinas tyrimuose rašė apie vitbionų sostinę Witsby prie Dauguvos, dabartinio Vitebsko vietoje.
 - susijęs iš [[objektai/asmenys/Vikintas.md#claim-t-34831|Vikintas]]: Vikintas, Mindaugo sūnėnų Tautvilo ir Edivido dėdė iš motinos pusės, buvo įsigyvenęs Vitebske.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176733|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Su Jogailos žinia, Vytautas kartu su Skirgaila 1392 m. paėmė Vitebską.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179692|Švitrigaila]]: Švitrigaila, nieko nelaimėjęs prie Vilniaus, prikalbino Livonijos ordino riterius drauge pulti Vitebską.
@@ -402,12 +1059,14 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179705|Švitrigaila]]: Vytautas po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską ir paėmė Švitrigailą į nelaisvę.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179714|Švitrigaila]]: Vytautas po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską ir paėmė Švitrigailą į nelaisvę.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179721|Švitrigaila]]: Švitrigaila manė, kad po kunigaikštienės mirties Jogaila jį paskirs Vitebsko valdytoju.
+- susijęs iš [[objektai/autoriai/Nikolajus Karamzinas.md#claim-t-190770|Nikolajus Karamzinas]]: Karamzinas, Narbuto perteikimu, rašė apie vitbionų sostinę Witsby prie Dauguvos, siejamą su Vitebsku.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179367|Livonijos ordinas]]: Vytautas su Smolensko pulkais po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179399|Livonijos ordinas]]: Švitrigaila po nesėkmės prie Vilniaus prikalbino Livonijos ordino riterius kartu pulti Vitebską.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179405|Livonijos ordinas]]: Švitrigaila prikalbino Livonijos ordino riterius kartu su juo pulti Vitebską.
 - susijęs iš [[objektai/grupes/Pijarų ordinas.md#claim-t-72605|Pijarų ordinas]]: Pijarų ordinas turėjo pilnų kolegijų ir žemesniųjų mokyklų Vilniuje, Panevėžyje, Ukmergėje, Raseiniuose, Vitebske ir kitose vietose.
 - susijęs iš [[objektai/grupes/Smolensko pulkai.md#claim-t-81606|Smolensko pulkai]]: Vytautas su Smolensko pulkais po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską.
 - susijęs iš [[objektai/grupes/Smolensko pulkai.md#claim-t-81607|Smolensko pulkai]]: Vytautas su Smolensko pulkais po keturių savaičių apgulties atgavo Vitebską ir paėmė Švitrigailą į nelaisvę.
+- susijęs iš [[objektai/grupes/Vibionai.md#claim-t-192992|Vibionai]]: Narbutas rašo, kad vibionų, arba vitbionų, genties sostinė buvo senovės pilis Witsby prie Dauguvos, dabartinio Vitebsko vietoje.
 - susijęs iš [[objektai/grupes/Vitebsko gvardijos 103-ioji oro desanto divizija.md#claim-t-41198|Vitebsko gvardijos 103-ioji oro desanto divizija]]: Vitebsko gvardijos 103-ioji oro desanto divizija sausio 8-11 d. buvo perdislokuota į Lietuvą.
 - susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą.md#claim-t-187460|Algirdo žygis į Maskvą]]: Algirdas, anot šaltinio, po pasiuntinio atleidimo sušaukė lietuvių bei rusų kariuomenę ir iš Vitebsko patraukė į Maskvą.
 - susijęs iš [[objektai/ivykiai/Andriaus Algirdaičio maištas prieš Jogailą.md#claim-t-186721|Andriaus Algirdaičio maištas prieš Jogailą]]: Apie 1386 m. vasario 20 d. Andriaus Algirdaičio pajėgos užėmė du valsčius Polocko ir Vitebsko kunigaikštysčių pasienyje.
@@ -419,6 +1078,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
 - susijęs iš [[objektai/ivykiai/Vitebsko užėmimas (1392 m.).md#claim-t-31488|Vitebsko užėmimas (1392 m.)]]: Vytautas su Jogailos žinia ir kartu su Skirgaila 1392 m. paėmė Vitebską.
 - susijęs iš [[objektai/ivykiai/Vytauto žygis prieš Švitrigailą ir Vitebsko atgavimas.md#claim-t-185667|Vytauto žygis prieš Švitrigailą ir Vitebsko atgavimas]]: Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, prijungė Smolensko pajėgas prie Vytauto žygio į Vitebską.
 - susijęs iš [[objektai/ivykiai/Švitrigailos Vitebsko žemės užėmimas.md#claim-t-185681|Švitrigailos Vitebsko žemės užėmimas]]: Švitrigaila be didelio vargo užėmė Vitebsko miestą, dvi pilis, Oršą ir visą kraštą tarp Dnepro ir Dauguvos.
+- susijęs iš Karamzinas, Istorija gosudarstva Rossiiskogo: Pasak Teodoro Narbuto, Karamzinas rašė, kad vibionų, arba vitbionų, sostinė buvo senovės pilis Witsby prie Dauguvos, dabartinio Vitebsko vietoje.
 - susijęs iš Baltarusija: Kazimieras žiemos viduryje aplankė Baltarusiją ir Polocke, Vitebske bei Smolenske tvarkė taikos bei karo reikalus.
 - susijęs iš Baltoji Rusia: Vytenio ir Gedimino laikais prie Lietuvos buvo prijungta Baltoji Rusia, įskaitant Polocką 1307 m. ir Vitebską 1320 m.
 - susijęs iš Druckas: Druckas buvo paimtas kartu su Orša prieš priartėjant prie Vitebsko.
@@ -567,7 +1227,6 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
 - susijęs iš Varniai: Jėzuitai Varniuose turėjo įsikūrę mažesnę mokyklą.
 - susijęs iš Vilnelė: Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus.
 - susijęs iš Vilnelė: Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus.
 - susijęs iš Vilnius: 1382 m. birželio 12 d. į Vilnių atvykusiam Jogailai Hanulis įteikė pilies raktus.
 - susijęs iš Vilnius: 1382 m. birželio 12 d. Vilniuje miesčionys užėmė pilį ir išmušė Kęstučio sargybas.
 - susijęs iš Vilnius: 1382 m. birželio 12 d. Vilniaus miesčionys užėmė pilį ir išmušė Kęstučio sargybas.
@@ -613,8 +1272,9 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     kiuose (Minkevičių f-ja), Brastoje (vicekanclerio L. K. Sa-
     piegos f-ja).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-034
@@ -629,8 +1289,9 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     žuvę keliolika tūkstančių žmonių, o dar keli tūkstančiai esą prigėrę
     Strėvoje, kai pati upė yra nesunkiai perbrendama.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-035
@@ -643,8 +1304,9 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     raktus^13 , ir Vytautas, atvykęs su savo kariuomene prie pilies mūrų,
     jau nieko nebegalėjo padaryti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
@@ -659,8 +1321,9 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     Gedimino laikų Ryga išsivystė Lietuvai ypatingai svarbiu prekybos
     centru.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
@@ -685,6 +1348,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
 
     nių rezultatų nepasiekė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -705,8 +1369,9 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     Vitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­
     gos pirklys Hanulo įteikė jam pilies raktus^1 ).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -724,8 +1389,9 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     krašte. Totoriai neturėjo pagrindo įtarti, kad
     sėkmė nuo jų šį kartą nusisuks.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-021
@@ -744,6 +1410,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     lygdamas, Gedimino karūną ir Lietuvos valdžią, šlovės
     neįgijęs, sergėjo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -765,6 +1432,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     kais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-
     nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -784,6 +1452,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
 
     #### 6.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -801,6 +1470,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     užklupo saugomą rusų kareivių namų arešte Vitebske. Būsimo
     istoriko motina - Ona Balevičiūtė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -818,6 +1488,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     valdžią, tapdamas didžiuoju kunigaikščiu (1381-82). Jogailos prie­
     šui Andriui jis leido grįžti į Polocką.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -834,6 +1505,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     pradžioje jie ne tik nebemokėjo jokių duoklių Polockui, bet net
     paėmė į savo valdžią kai kurias jo valdytas kunigaikštijėles.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -861,6 +1533,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     nesutarimai (1434 metų), galėję kilti tarp Žygimanto ir Jo­
     gailos, buvo užglaistyti naujos tarpusavio sutarties23.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -881,6 +1554,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     miau jos sudarydavo didesniųjų rusų kunigaikščių pelną, kurio
     tiktai dalį jie skirdavo uždėtiems mokesčiams.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -897,6 +1571,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     Jogailos valią buvo įsišeimininkavęs Vitebske. Su Jogailos žinia,
     Vytautas kartu su Skirgaila 1392 m. paėmė Vitebską.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -915,6 +1590,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     vos, liko tiktai Palenkės, Pagirio ir Minsko žemės.
     Zigmanto ryšiai su Lenkija.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -932,6 +1608,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.
     Lietuva tapo didvalstybe - regiono lydere.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -960,6 +1637,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     užsitęsusio puolimo užėmė Vitebską, o Švitrigailą paėmė į
     nelaisvę.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -980,6 +1658,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­
     klusnumą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -996,6 +1675,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     Mickūnuose, jei ne tų prakeiktųjų jėgerių ir kazokų užpuoli­
     mas"2.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1016,6 +1696,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     (Ukmergę). Toliau planavo pulti Trakų -
     Vilniaus kryptimi.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1031,6 +1712,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     sritimis. Tas žemes Vilniaus valdovas pats valdė per savo pasta­
     tytus vietininkus (« namiestniki ») ir tijūnus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1056,6 +1738,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     gos „Užnerio puse“ žygiavo į Vilkmergę
     (Ukmergę).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1088,6 +1771,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     jūrio“ (J. Dlugošas mini Prūsijos magistro
     karius), Livonijos samdiniai - apie 4500.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1109,6 +1793,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     atkeršijo įsakydamas juos pa valkioti gatvėmis, o paskui pa­
     skandinti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1128,6 +1813,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     tai Vilniui atmintini dar ir dėl pilies kalno smarkios griūties
     bei alpių karščių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1151,6 +1837,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     fijoje šis skaičius kartais padidinamas iki
     30 000).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1166,6 +1853,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     tynės, kuriose dalyvavo būriai iš Vladimiro (Volinijos), Liet. Bras­
     tos, Polocko, Vitebsko ir Smolensko, baigėsi lietuvių pralaimėjimu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1183,6 +1871,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     versko kunigaikštis Dimitras Kaributas 1393 pavasarį kautynėse
     buvo nugalėtas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1198,6 +1887,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti
     karinės pagalbos, kartu unijos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1215,6 +1905,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     keistai atrodo Vytauto pasitikėjimas Jogaila, nors jau ne kartą
     buvo paaiškėję, kad Jogaila neteisingai elgėsi.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1235,6 +1926,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     žiauriai tuo metu atkeršydamas už krikščionių šventi­
     kų nužudymą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1261,6 +1953,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     gailos skatinimų, kiek įsakymų bei grasinimų, prieši­
     nosi iš paskutiniųjų.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1305,6 +1998,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     Motiejų ir Jurgį, bendromis pastangomis bei jungtinė­
     mis karo jėgomis suteikti Čekijos sostą Vladislovui.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1322,6 +2016,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     Drucko kunigaikščiai pasitiko jį ir stojo jam tarnauti.
     Iš ten nužygiavo į Oršą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1352,6 +2047,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     į Brastą \  o karalius Olbrachtas su jų broliu, karalai­
     čiu Zigmantu — į Liubliną 5 .
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1381,6 +2077,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     tučiu, kad jie, šiaip ar taip, turi užimti Vilnių ir Jau­
     nutį išvyti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1409,11 +2106,897 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
     nių prieš mūsų tėvą: tuo metu mūsų tėvas buvo karo
     žygyje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-047
+
+- c-040
+  santrauka: 'Narbutas, remdamasis Karamzinu, Vitebsko vietoje minėjo senovės pilį prie Dauguvos Witsby kaip vibionų arba vitbionų genties sostinę.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Toliausiai į pietryčius gyveno
+    stūmiai (turėtų būti Stirnii), kurių gyvenamųjų vietų
+    pavadinimą išsaugojo, kaip teisingai pastebėjo Malte-
+    Brunas2, Styrės upė. O šiaurės rytų kryptimi gyveno vi-
+    bionų, arba vitbionų, gentis, jų sostinė buvo senovės pi­
+    lis prie Dauguvos Witsby, kur dabar yra Vitebskas, —
+    apie tai Karamzinas rašo savo tyrimuose3. Neįmanoma
+    nustatyti, kuriai giminei priklausė šios tautos; jos pasi­
+    meta sarmatų genčių sūkuryje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-048
+
+- c-041
+  santrauka: 'Pačiam Švitrigailai pavyko pabėgti į Vitebską ir surinkti naują kariuomenę, tačiau su ja jis vis dėlto nebegalėjo priešintis.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Jame žuvo patsai Livonijos magistras su dau-
+    gybe riterių, žuvo Kaributo sūnus Zigmantas (kadaise buvęs
+    Vytauto vietininku Čekijoje, dabar palaikęs Švitrigailą), žuvo
+    daugybė rusų kunigaikščių; be to, daugelis pateko į nelaisvę.
+    Pačiam Švitrigailai pavyko pabėgti į Vitebską ir surinkti naują
+    kariuomenę, tačiau su ja jis vis dėlto nebegalėjo priešintis. Ne-
+    trukus Zigmantui pasidavė Polockas, Smolenskas, Vitebskas ir
+    Naugardas Sieverskas; Švitrigailai liko tik pietinės sritys — Ki-
+    jevas ir Voluinė su Lucku.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-049
+
+- c-042
+  santrauka: 'Maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Oršą ir apdegino Vitebską.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Besirūpinant karaliaus karūna apleisti karo reikalai
+    dar labiau pablogėjo. Maskvos kariuomenė net tris kartus buvo
+    apgulusi Smolenską, užėmė Oršą ir apdegino Vitebską. Alek-
+    sandras pradėjo derybas dėl taikos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-050
+
+## Citatos
+
+- id: c-21492
+  citata_originali: |
+    Tuo
+    būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono
+    Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko
+    vyskupo Isaikovskio ir kt. fundacija). Oršoje (karaliaus Zig-
+    manto fundacija), Smolenske (klebono Lempickio ir kt. fun-
+    dacija), Kaune (brolių Vijūkų Kojelavičių fundacija), Minske
+    (kanclerio Martyno Oginskio ir K. Bžostausko fundacija), Nau-
+    garduke (sudėtinė fundacija), Bobruiske (Triznos fun-
+    dacija), Pinske (kanclerio Aibr. St. Radvilos fundacija), Pa-
+    šiaušėje (bajoro Beinarto f-ja), Slucke (sudėtinė f-ja),
+    Vitebske (Smolensko vaivados A. Gansiausko f-ja), Žodiš-
+    kiuose (Minkevičių f-ja), Brastoje (vicekanclerio L. K. Sa-
+    piegos f-ja).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181150
+
+- id: c-32545
+  citata_originali: |
+    Tačiau Strėvos kau­
+    tynės, kuriose dalyvavo būriai iš Vladimiro (Volinijos), Liet. Bras­
+    tos, Polocko, Vitebsko ir Smolensko, baigėsi lietuvių pralaimėjimu.
+    Aiškiai perdėtais ordino kronikų duomenimis^11 , lietuvių pusėje esą
+    žuvę keliolika tūkstančių žmonių, o dar keli tūkstančiai esą prigėrę
+    Strėvoje, kai pati upė yra nesunkiai perbrendama.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181152
+
+- id: c-32547
+  citata_originali: |
+    Kai 1382.VI.
+    12 d. iš Vitebsko atvyko į Vilnių Jogaila, Hanulis jam įteikė pilies
+    raktus^13 , ir Vytautas, atvykęs su savo kariuomene prie pilies mūrų,
+    jau nieko nebegalėjo padaryti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181119
+
+- id: c-32548
+  citata_originali: |
+    Esant nepatogiam susisiekimui į Pietus, vis daugiau reikšmės
+    įgijo Dauguvos kelias. Didžiosios kunigaikštijos plačios sritys per
+    Polocką ir Vitebską buvo įtrauktos į Dauguvos prekybą. Vilniuje
+    ir Trakuose atsirado vokiečių pirklių kolonijos. Nuo Vytenio ir
+    Gedimino laikų Ryga išsivystė Lietuvai ypatingai svarbiu prekybos
+    centru.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181137
+
+- id: c-44028
+  citata_originali: |
+    Kol tarp Maskvos ir Lietuvos
+    didžiųjų kunigaikštysčių galiojo
+    paliaubos, tarpusavio kovos vyko jo
+    tik Livonijos teritorijoje, tačiau
+    1562 metais paliauboms pasibaigus 4
+    karo frontas nusidriekė visu pasie- |
+    niu. Tais pačiais metais maskvė-
+    nai nusiaubė Oršos, Vitebsko,
+    Kopilino, Šklovo, Dubrovnos
+    apylinkes, o atsakydami į tai lie-
+    tuviai nuniokojo Maskvos žemes
+    Vitebsko vaivadijos pasienyje. Šiose
+    pasienio kovose nė viena pusė žymes-
+
+    nių rezultatų nepasiekė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181144
+
+- id: c-164682
+  citata_originali: |
+    Nepatenkinti
+    lietuviškai tautiška Kęstučio politika, kuri kenkė jų prekybos
+    reikalams, jie laukė tik progos padėti Jogailai atgauti valdžią,
+    kurio jie anksčiau buvo stipriai palaikomi. Vokiečių Ordinas,
+    gerai žinodamas, kas dedasi Lietuvoje, irgi nemiegojo.
+    Tą pačią dieną, kada Vilniuje miesčionys užėmė pilį ir iš­
+    mušė Kęstučio sargybas, t. y. 1382 m. birželio 12 d., Jogaila su
+    ta kariuomene, kurią buvo Kęstučiui žadėjęs pagalbai, atėjo nuo
+    Vitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­
+    gos pirklys Hanulo įteikė jam pilies raktus^1 ).
+  citata_rodoma: "Tą pačią dieną, kada Vilniuje miesčionys užėmė pilį ir iš­\nmušė Kęstučio sargybas, t. y. 1382 m. birželio 12 d., Jogaila su\nta kariuomene, kurią buvo Kęstučiui žadėjęs pagalbai, atėjo nuo\nVitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­\ngos pirklys Hanulo įteikė jam pilies raktus^1 )."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181111
+    - t-181118
+
+- id: c-164683
+  citata_originali: |
+    1506 m. vasarą totoriai įsiveržė į LDK valdas
+    gerai nusiteikę. Prieš metus įvykęs jų žygis
+    leido jiems „smagintis“ Vilniaus ir Polocko,
+    Vitebsko ir Drucko, Naugarduko ir Slucko
+    apylinkėse - tikrajame LDK branduolyje,
+    tankiausiai apgyventame ir turtingiausiame
+    krašte. Totoriai neturėjo pagrindo įtarti, kad
+    sėkmė nuo jų šį kartą nusisuks.
+  citata_rodoma: "Prieš metus įvykęs jų žygis\nleido jiems „smagintis“ Vilniaus ir Polocko,\nVitebsko ir Drucko, Naugarduko ir Slucko\napylinkėse - tikrajame LDK branduolyje,\ntankiausiai apgyventame ir turtingiausiame\nkrašte. Totoriai neturėjo pagrindo įtarti, kad\nsėkmė nuo jų šį kartą nusisuks."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181136
+    - t-181148
+
+- id: c-164684
+  citata_originali: |
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    bet ir Ašmeną, Ukmergę ir Breslaują. Tik neilgai Lietuvos
+    sostinė šio naujo didžiojo kunigaikščio buvo valdoma. Jau­
+    nesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis -
+    Žemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Ma-
+    zovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­
+    jo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­
+    lygdamas, Gedimino karūną ir Lietuvos valdžią, šlovės
+    neįgijęs, sergėjo.
+  citata_rodoma: "Jau­\nnesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis -\nŽemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Ma-\nzovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­\njo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­\nlygdamas, Gedimino karūną ir Lietuvos valdžią, šlovės\nneįgijęs, sergėjo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181129
+    - t-181139
+
+- id: c-164685
+  citata_originali: |
+    Tai šiek tiek primena frankus Galijoje,
+    t. y. germanų gentį, sukūrusią valstybę ir valdžios struktūras Galijoje ir
+    perėmusią vietinių žmonių kalbą bei kultūrą.
+    Algirdo didvalstybė
+    Mongolų imperija XIII a. sudaužė Kijevo Rusią, o Lietuva
+    pasinaudojo pergale ir pajungė kai kurias rusų žemes. Mindaugo laikais
+    prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-
+    kais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-
+    nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
+  citata_rodoma: "Mindaugo laikais \nprie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-\nkais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-\nnė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181128
+
+- id: c-164686
+  citata_originali: |
+    Pijarai, niekuo daugiau neužsiimdami,
+    kaip tik mokymu, gyveno tik ten, kur buvo jų mokyklų, o jėzui-
+    tai stengėsi visur apsigyventi. Pijarų mokyklos — vienur pilnos
+    kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vie-
+    tose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam
+    Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Va-
+    leranavoj, Vitebske, Želviuose ir dar vienur kitur.
+
+    #### 6.
+  citata_rodoma: "Pijarų mokyklos — vienur pilnos\nkolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vie-\ntose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam\nDolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Va-\nleranavoj, Vitebske, Želviuose ir dar vienur kitur.\n\n#### 6."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181127
+    - t-181155
+
+- id: c-164687
+  citata_originali: |
+    Kaip pats prisipažino atsiminimuose, turėjęs „gimti
+    Mickūnuose, jei ne tų prakeiktųjų jėgerių ir kazokų užpuoli­
+    mas"2. Jo tėvą Igną Balinskį, Inflantų taurininką ir Vilniaus vai­
+    vadijos civilinį-karinį komisarą, antrasis valstybės padalijimas
+    užklupo saugomą rusų kareivių namų arešte Vitebske. Būsimo
+    istoriko motina - Ona Balevičiūtė.
+  citata_rodoma: "Jo tėvą Igną Balinskį, Inflantų taurininką ir Vilniaus vai­\nvadijos civilinį-karinį komisarą, antrasis valstybės padalijimas\nužklupo saugomą rusų kareivių namų arešte Vitebske. Būsimo\nistoriko motina - Ona Balevičiūtė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181110
+    - t-181112
+
+- id: c-164688
+  citata_originali: |
+    Jogailai nenujaučiant, Kęstutis, staiga užėmęs sostinę, nelais­
+    vėn paėmė Jogailą su jo broliais ir motina. Perversmo pasėkoje
+    Jogailai tebuvo paliktos jo tėvo žemės — Vitebskas ir Kriavo
+    kunigaikštystė, o pats Kęstutis pirmą kartą paėmė aukščiausią
+    valdžią, tapdamas didžiuoju kunigaikščiu (1381-82). Jogailos prie­
+    šui Andriui jis leido grįžti į Polocką.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181147
+
+- id: c-164690
+  citata_originali: |
+    Bet jau XII
+    amž. Polocko kunigaikštija pakriko. Iš jos miestų, kaip antai:
+    Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku-
+    nigaikštijos. Tada aisčiams jau lengviau buvo kariauti, ir XIII a.
+    pradžioje jie ne tik nebemokėjo jokių duoklių Polockui, bet net
+    paėmė į savo valdžią kai kurias jo valdytas kunigaikštijėles.
+  citata_rodoma: "Polocko kunigaikštija pakriko. Iš jos miestų, kaip antai:\nSmolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku-\nnigaikštijos. Tada aisčiams jau lengviau buvo kariauti, ir XIII a."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181138
+    - t-181113
+
+- id: c-164691
+  citata_originali: |
+    220
+
+    ## Puslapis 237
+
+    I I I  KNYGA
+    dysis magistras gudriausiomis suktybėmis siekė, kad nu­
+    trūktų Lietuvos ir Lenkijos sąjunga, grėsmingos jų užma­
+    čios žlugo; su Vladislovu Jogaila turėjo būti sudaryta ilga­
+    laikė taika. Švitrigaila, pagaliau atsiduodamas likimui,
+    prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą ramybė­
+    je praleisti paskutinių audringos senatvės dienų, o Kęstu­
+    čio sūnus nuo tol galėjo saugiai valdyti tiekos nelaimių iš­
+    kamuotą Lietuvą. Palankios buvo visos aplinkybės, nes ir
+    nesutarimai (1434 metų), galėję kilti tarp Žygimanto ir Jo­
+    gailos, buvo užglaistyti naujos tarpusavio sutarties23.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181126
+    - t-181146
+
+- id: c-164692
+  citata_originali: |
+    įvyko panaikinant tokias didžiąsias kunigaikštijas, kaip Poloc­
+    ko, Vitebsko, Smolensko, Novgorodo-Sieversko, Kijevo, Voly­
+    nijos ir Podolijos. Visi šių kunigaikščių, daugiausia jau minėtų
+    tėvynainių, dvarai su visa dirbama ir nedirbama žeme, žmonė­
+    mis, gyvuliais ir padargais pateko į tiesioginę Vytauto valdžią.
+    Gaunamos iš jų pajamos ėjo dabar tiesiai į Vytauto iždą; pir­
+    miau jos sudarydavo didesniųjų rusų kunigaikščių pelną, kurio
+    tiktai dalį jie skirdavo uždėtiems mokesčiams.
+  citata_rodoma: "įvyko panaikinant tokias didžiąsias kunigaikštijas, kaip Poloc­\nko, Vitebsko, Smolensko, Novgorodo-Sieversko, Kijevo, Voly­\nnijos ir Podolijos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181132
+
+- id: c-164694
+  citata_originali: |
+    Du suimti paties Jogailos broliai buvo nusiųsti Krokuvon^3.
+    Po Julijonos Algirdienės mirties jauniausias karaliaus brolis, būtent
+    Švitrigaila, kuris per krikštą buvo gavęs Boleslovo vardą, prieš
+    Jogailos valią buvo įsišeimininkavęs Vitebske. Su Jogailos žinia,
+    Vytautas kartu su Skirgaila 1392 m. paėmė Vitebską.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181117
+
+- id: c-164695
+  citata_originali: |
+    Švitrigaila buvo sąmokslininkų užpultas tuo metu, kai, vyk-
+    damas į derybas su Jogaila, nakvojo sustojęs Ašmenoje.
+    Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti
+    į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko,
+    Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zig-
+    mantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietu-
+    vos, liko tiktai Palenkės, Pagirio ir Minsko žemės.
+    Zigmanto ryšiai su Lenkija.
+  citata_rodoma: "Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti\nį Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko,\nNaugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zig-\nmantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietu-\nvos, liko tiktai Palenkės, Pagirio ir Minsko žemės.\nZigmanto ryšiai su Lenkija."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181125
+    - t-181131
+
+- id: c-164696
+  citata_originali: |
+    Pasiekimai vakaruose Gediminui leido
+    plėsti savo valstybę rytuose. Prie jau anksčiau lietuvių užvaldytų
+    Juodosios Rusios (Naugarduko žemių) ir Polocko Gediminas
+    pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.
+    Lietuva tapo didvalstybe - regiono lydere.
+  citata_rodoma: "Prie jau anksčiau lietuvių užvaldytų\nJuodosios Rusios (Naugarduko žemių) ir Polocko Gediminas\npridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.\nLietuva tapo didvalstybe - regiono lydere."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181115
+
+- id: c-164697
+  citata_originali: |
+    Paimtas su žmona ir vaikais, kuni­
+    gaikštis buvo uždarytas Vilniaus Aukštutinėje pilyje, kur
+    gana ilgai buvo saugomas sargybos, kol, atkakliai prašant
+    ir laiduojant Riazanės kunigaikščiui Olegui, jo uošviui, buvo
+    139
+
+    ## Puslapis 156
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    paleistas ir iš Seversko valstybės, jau prijungtos prie Lie­
+    tuvos, perkeltas į Volumes ir Podolės didžiules vaidas55.
+    Sėkmė lydėjo Vytautą ir susidūrus su Švitrigaila, kuris, nie­
+    ko nepešęs prie Vilniaus, prikalbino Livonijos ordino rite­
+    rius drauge su juo pulti Vitebską. Vytautas, sutelkęs Smo­
+    lenske pulkus, apsupo tą miestą ir po keturias savaites
+    užsitęsusio puolimo užėmė Vitebską, o Švitrigailą paėmė į
+    nelaisvę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181156
+
+- id: c-164703
+  citata_originali: |
+    Tos žinios kėlė Vytauto
+    garbę, aukštino jį vietinių gyventojų akyse. Ir kada Vytautas,
+    norėdamas dar labiau sustiprinti rusiškuose kraštuose savo per­
+    galės įspūdį ir daugiau laimėti jų pasitikėjimo, 1411 metų pava­
+    sarį kartu su Jogaila lankė Lietuvos Rytų pakraščius, tai jų ke­
+    lionė buvo panaši triumfui. Vykstant Vytautui pro Polocką,
+    Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo,
+    jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­
+    klusnumą.
+  citata_rodoma: "Vykstant Vytautui pro Polocką,\nVitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo,\njam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­\nklusnumą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181124
+
+- id: c-164705
+  citata_originali: |
+    Tai didelis jo nuopelnas.
+    M. Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, neto­
+    li Vitebsko. Kaip pats prisipažino atsiminimuose, turėjęs „gimti
+    Mickūnuose, jei ne tų prakeiktųjų jėgerių ir kazokų užpuoli­
+    mas"2.
+  citata_rodoma: "M. Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, neto­\nli Vitebsko. Kaip pats prisipažino atsiminimuose, turėjęs „gimti\nMickūnuose, jei ne tų prakeiktųjų jėgerių ir kazokų užpuoli­\nmas\"2."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181121
+
+- id: c-164706
+  citata_originali: |
+    Prieš mūšį
+
+    Žygiui į Lietuvą kunigaikštis Švitrigaila
+    savo ir pavaldžių rusų kunigaikščių pa-
+    jėgas sutelkė Vitebske, iš kur patraukė į
+    Breslaują. Čia prisijungė Livonijos ma-
+    gistro kariuomenė ir šios jungtinės pajė-
+    gos „Užnerio puse“ žygiavo į Vilkmergę
+    (Ukmergę). Toliau planavo pulti Trakų -
+    Vilniaus kryptimi.
+  citata_rodoma: "Prieš mūšį\n\nŽygiui į Lietuvą kunigaikštis Švitrigaila\nsavo ir pavaldžių rusų kunigaikščių pa-\njėgas sutelkė Vitebske, iš kur patraukė į\nBreslaują. Čia prisijungė Livonijos ma-\ngistro kariuomenė ir šios jungtinės pajė-\ngos „Užnerio puse“ žygiavo į Vilkmergę\n(Ukmergę)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181141
+
+- id: c-164708
+  citata_originali: |
+    Tiesioginėje didžiojo kunigaikščio valdžioje
+    tebuvo tik dalis valstybės. Jam priklausė betarpiškai Vilniaus
+    žemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio
+    sritimis. Tas žemes Vilniaus valdovas pats valdė per savo pasta­
+    tytus vietininkus (« namiestniki ») ir tijūnus.
+  citata_rodoma: "Jam priklausė betarpiškai Vilniaus\nžemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio\nsritimis. Tas žemes Vilniaus valdovas pats valdė per savo pasta­\ntytus vietininkus (« namiestniki ») ir tijūnus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181116
+
+- id: c-164709
+  citata_originali: |
+    To siekė Livonijos kry-
+    žiuočiai, kišdamiesi į susiskaldžiusios LDK
+    reikalus, remdami buvusį didįjį kunigaikštį
+    Švitrigailą.
+
+    Prieš mūšį
+
+    Žygiui į Lietuvą kunigaikštis Švitrigaila
+    savo ir pavaldžių rusų kunigaikščių pa-
+    jėgas sutelkė Vitebske, iš kur patraukė į
+    Breslaują. Čia prisijungė Livonijos ma-
+    gistro kariuomenė ir šios jungtinės pajė-
+    gos „Užnerio puse“ žygiavo į Vilkmergę
+    (Ukmergę).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181143
+
+- id: c-164710
+  citata_originali: |
+    Žygimanto Kęstutaičio pajėgos
+    Žygimanto „lietuvių pajėgos“ (apie 5000
+    karių), kažkiek Lietuvos totorių, karaliaus
+    Vladislovo Jogailaičio atsiųstas į pagalbą
+    lenkų dalinys („800 iečių - apie 4000
+    karių, vadovaujamų Jokūbo iš Kobylanų).
+    Bendrai jungtinės pajėgos galėjo sudaryti
+    apie 9500 karių (šaltiniuose nurodomi
+    skaičiai gerokai padidinti, tai atsispindi ir
+    istoriografijoje - iki 30 ooo karių).
+
+    Švitrigailos ir Livonijos ordino pajėgos
+    Švitrigailą remiantys lietuviai, rytinių
+
+    LDK slaviškų žemių (Smolensko, Kijevo,
+    Vitebsko, Polocko) kariai - apie 6000, apie
+    500 totorių; Kryžiuočių ordino Livonijos
+    atšakos „Rygos“ magistro pajėgos — apie
+    500 riterių, apie 100 riterių — „svečių iš už-
+    jūrio“ (J. Dlugošas mini Prūsijos magistro
+    karius), Livonijos samdiniai - apie 4500.
+  citata_rodoma: "Bendrai jungtinės pajėgos galėjo sudaryti\napie 9500 karių (šaltiniuose nurodomi\nskaičiai gerokai padidinti, tai atsispindi ir\nistoriografijoje - iki 30 ooo karių).\n\nŠvitrigailos ir Livonijos ordino pajėgos\nŠvitrigailą remiantys lietuviai, rytinių\n\nLDK slaviškų žemių (Smolensko, Kijevo,\nVitebsko, Polocko) kariai - apie 6000, apie\n500 totorių; Kryžiuočių ordino Livonijos\natšakos „Rygos“ magistro pajėgos — apie\n500 riterių, apie 100 riterių — „svečių iš už-\njūrio“ (J."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181149
+
+- id: c-164712
+  citata_originali: |
+    Abu jie niokojo
+    kraštą ir liejo jiems nepalankių gyventojų kraują. Švitrigai­
+    la, apsvaigintas laikinos sėkmės, sugavęs Alšėnų kunigaikštį,
+    įsakė jį Vitebske nuo aukšto skardžio įmesti į Dviną, kitą
+    kunigaikštį - nuskandinti, o metropolitą Gerasimą sudegi­
+    no. Savo ruožtu, Žygimantas, toks pat žiaurus ir nesantū­
+    rus, tenkindamas savo kerštą, kai jam buvo išduoti pas ka­
+    ralių Vladislovą Jogailą vykstantys Švitrigailos pasiuntiniai,
+    atkeršijo įsakydamas juos pa valkioti gatvėmis, o paskui pa­
+    skandinti.
+  citata_rodoma: "Švitrigai­\nla, apsvaigintas laikinos sėkmės, sugavęs Alšėnų kunigaikštį,\nįsakė jį Vitebske nuo aukšto skardžio įmesti į Dviną, kitą\nkunigaikštį - nuskandinti, o metropolitą Gerasimą sudegi­\nno. Savo ruožtu, Žygimantas, toks pat žiaurus ir nesantū­\nrus, tenkindamas savo kerštą, kai jam buvo išduoti pas ka­\nralių Vladislovą Jogailą vykstantys Švitrigailos pasiuntiniai,\natkeršijo įsakydamas juos pa valkioti gatvėmis, o paskui pa­\nskandinti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181145
+
+- id: c-164713
+  citata_originali: |
+    Sėkmė lydėjo Vytautą ir susidūrus su Švitrigaila, kuris, nie­
+    ko nepešęs prie Vilniaus, prikalbino Livonijos ordino rite­
+    rius drauge su juo pulti Vitebską. Vytautas, sutelkęs Smo­
+    lenske pulkus, apsupo tą miestą ir po keturias savaites
+    užsitęsusio puolimo užėmė Vitebską, o Švitrigailą paėmė į
+    nelaisvę. Kitais metais jis buvo išvaduotas dviejų jam palan­
+    kių kunigaikščių ir vėl patraukė į mūšio lauką56.1396-ieji me­
+    tai Vilniui atmintini dar ir dėl pilies kalno smarkios griūties
+    bei alpių karščių.
+  citata_rodoma: "Sėkmė lydėjo Vytautą ir susidūrus su Švitrigaila, kuris, nie­\nko nepešęs prie Vilniaus, prikalbino Livonijos ordino rite­\nrius drauge su juo pulti Vitebską. Vytautas, sutelkęs Smo­\nlenske pulkus, apsupo tą miestą ir po keturias savaites\nužsitęsusio puolimo užėmė Vitebską, o Švitrigailą paėmė į\nnelaisvę. Kitais metais jis buvo išvaduotas dviejų jam palan­\nkių kunigaikščių ir vėl patraukė į mūšio lauką56."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181140
+
+- id: c-164716
+  citata_originali: |
+    Švitrigailos ir Livonijos ordino pajėgos
+    Švitrigailą remiantys lietuviai, rytinių
+
+    LDK slaviškų žemių (Smolensko, Kijevo,
+    Vitebsko, Polocko) kariai - apie 6000, apie
+    500 totorių; Kryžiuočių ordino Livonijos
+    atšakos „Rygos“ magistro pajėgos — apie
+    500 riterių, apie 100 riterių — „svečių iš už-
+    jūrio“ (J. Dlugošas mini Prūsijos magistro
+    karius), Livonijos samdiniai - apie 4500.
+    Iš viso - apie 11000 žmonių (istoriogra-
+    fijoje šis skaičius kartais padidinamas iki
+    30 000).
+  citata_rodoma: "Švitrigailos ir Livonijos ordino pajėgos\nŠvitrigailą remiantys lietuviai, rytinių\n\nLDK slaviškų žemių (Smolensko, Kijevo,\nVitebsko, Polocko) kariai - apie 6000, apie\n500 totorių; Kryžiuočių ordino Livonijos\natšakos „Rygos“ magistro pajėgos — apie\n500 riterių, apie 100 riterių — „svečių iš už-\njūrio“ (J."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181123
+
+- id: c-164721
+  citata_originali: |
+    Tuomet ir Algirdo valdos buvo ak­
+    tyviai įsijungusios į vakarų Lietuvos gynybą. Tačiau Strėvos kau­
+    tynės, kuriose dalyvavo būriai iš Vladimiro (Volinijos), Liet. Bras­
+    tos, Polocko, Vitebsko ir Smolensko, baigėsi lietuvių pralaimėjimu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181154
+
+- id: c-164722
+  citata_originali: |
+    Po Julijonos Algirdienės mirties jauniausias karaliaus brolis, būtent
+    Švitrigaila, kuris per krikštą buvo gavęs Boleslovo vardą, prieš
+    Jogailos valią buvo įsišeimininkavęs Vitebske. Su Jogailos žinia,
+    Vytautas kartu su Skirgaila 1392 m. paėmė Vitebską. Dėl neaiškios
+    laikysenos ir kitas Jogailos brolis -— Briansko ir Naugardo — Sie­
+    versko kunigaikštis Dimitras Kaributas 1393 pavasarį kautynėse
+    buvo nugalėtas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181120
+
+- id: c-164724
+  citata_originali: |
+    Lietuvos Didžiajai Kunigaikštijai sunkiai sekėsi atlaikyti rytų frontą Li-
+    vonijos kare. Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas
+    siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti
+    karinės pagalbos, kartu unijos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181153
+
+- id: c-167695
+  citata_originali: |
+    Bet jo veikime nežymu dar didelio veiklumo, savos
+    iniciatyvos jis nereiškė, pildė tik Kęstučio įsakymus. Kai Jo­
+    gaila grįžo iš Vitebsko, Kęstutis, skubiai parvykęs Lietuvon, or­
+    ganizuoja pasipriešinimą, Vytautas jam tik padeda. Stačiai
+    keistai atrodo Vytauto pasitikėjimas Jogaila, nors jau ne kartą
+    buvo paaiškėję, kad Jogaila neteisingai elgėsi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184324
+
+- id: c-168562
+  citata_originali: |
+    Mat rusai nuo senų senovės įpratę Velykų dieną do­
+    vanoti vienas kitam margutį kaip bičiuliškumo ženklą.
+    Algirdas, nors viešai laikėsi stabmeldžių apeigų, ta­
+    čiau, neseniai savo žmonos Julijonos, Vitebsko kuni­
+    gaikščio dukters, noru sutikęs priimti krikščionybę, ne­
+    atmetė rusų apeigų ir rusams Vitebske pastatė porą
+    šventovių. Palankumą krikščionybei jis, be to, parodė,
+    žiauriai tuo metu atkeršydamas už krikščionių šventi­
+    kų nužudymą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185201
+
+- id: c-168563
+  citata_originali: |
+    Taip pat ir Jurijus Svia-
+    toslavovičius, Smolensko valdovas, nors ir elgėsi kaip
+    neabejotinas priešas, kol Vytautas dar nebuvo atvykęs,
+    tačiau, išsigandęs atvykusios kariuomenės, užslėpė ne­
+    draugiškus jausmus ir prijungė, puoselėdamas tam tik­
+    rus sumanymus, savo karines jėgas prie Vytauto. Smo-
+    lenskiečiams prisidėjus, padidėjusi Vytauto kariuomenė
+    buvo nuvesta į Vitebską. Apgula užtruko ištisą mėnesį,
+    tačiau ne dėl to, kad nebuvo
+    A p su p a  V ite b s k ą
+    daroma, kas tokiais atvejais
+    reikalinga, o todėl, kad gynė­
+    jai, ypač Livonijos kariai, klausydami ne tiek Švitri­
+    gailos skatinimų, kiek įsakymų bei grasinimų, prieši­
+    nosi iš paskutiniųjų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185202
+
+- id: c-168564
+  citata_originali: |
+    Žiemos viduryje ap­
+    lankė Baltarusiją, kur Polocke, Vitebske bei Smolenske
+    popiežiaus ir imperatoriaus įsikišimas. Mat popiežius,
+    priekaištingai
+    tvirtindamas, kad Vladislovas kol kas
+    niekuo nenusipelnęs tikėjimui, o Motiejus didžiai nu­
+    sipelnęs, atvirai rėmė Motiejų, rodydamas jam palan­
+    kumą. Tiesą sakant, turint galvoje tikėjimo reikalus,
+    negalima buvo nė dvejoti, kad Čekijai reikalingas toks
+    karalius, kuris, pagarsėjęs karo žygiais, nepriklausytų
+    nuo sektantų malonės, kaip dabar galima buvo tikė­
+    tis, ir pastoviai remtų bažnyčią, vis dėlto Kazimieras
+    jautėsi įžeistas, kad šiuo atveju žiūrima nuopelnų, ne­
+    lyginant būtų visiškai abejotinos teisės, kurias turėjo
+    jo vaikai dėl kilmės bei įpėdinystės. Tuo tarpu impe­
+    ratorius Fridrichas papiršo į Vladislovo žmonas savo
+    dukterį Kunegundą, o savo sūnui Maksimilijonui pa­
+    prašė Kazimiero dukters Jadvygos rankos, norėdamas
+    šia dviguba santuoka sustiprinti sąjungą ir, nušalinus
+    1470 m eta i
+    P o p iežiu s ii im p e r a to ­
+    rius p riešin a si
+    tvarkė taikos bei karo rei­
+    kalus, o išaušus pavasariui,
+    sugrįžo į Lenkiją ir vėl įniko
+    į Čekijos reikalus, kuriuos
+    sėkmingai užbaigti sutrukdė
+    520
+
+    ## Puslapis 519
+
+    Motiejų ir Jurgį, bendromis pastangomis bei jungtinė­
+    mis karo jėgomis suteikti Čekijos sostą Vladislovui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185203
+
+- id: c-170623
+  citata_originali: |
+    Didysis kunigaikštis Vytautas pasiėmė su sa­
+    vimi kunigaikštį Skirgailą, ir surinko didelę kariuome­
+    nę, ir išžygiavo į Vitebsko miestą prieš kunigaikštį
+    Švitrigailą'. Pirmiausia atvyko prie Drucko pilies.
+    Drucko kunigaikščiai pasitiko jį ir stojo jam tarnauti.
+    Iš ten nužygiavo į Oršą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187682
+
+- id: c-170624
+  citata_originali: |
+    APIE LENKUOS KARALIAUS OLBRACHTO IR JO  BROLIO
+    ALEKSANDRO, LIETUVOS DIDŽIOJO KUNIGAIKŠČIO, KARA
+    SU MOLDAVUOS VAIVADA STEPONU
+    Tą patį rudenį1  Lenkijos karaliaus Olbrachto ir jo
+    brolio Lietuvos didžiojo kunigaikščio Aleksandro atsto­
+
+    ## Puslapis 146
+
+    vai suvažiavo į pasitarimą2 , ir abi šalys nutarė sušaukti
+    seimą Parčeve. Tą pačią žiemą didysis kunigaikštis
+    Aleksandras su didžiąja kunigaikštiene Elena bei su
+    didikais važiavo apžiūrėti Rusų žemės ir lankėsi Smo­
+    lenske, ir Vitebske, ir Polocke, ir pavasariop pargrįžo
+    j Vilnių 3 .
+    Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris­
+    taus gimimo tūkstantis keturi šimtai devyniasdešimt
+    šeštaisiais didysis kunigaikštis Aleksandras išvyko
+    į Brastą \  o karalius Olbrachtas su jų broliu, karalai­
+    čiu Zigmantu — į Liubliną 5 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187683
+
+- id: c-170625
+  citata_originali: |
+    . 2 0
+
+    ## Puslapis 171
+
+    PRIEDAI
+
+    ## Puslapis 172
+
+    Prieš mūsų tėvo tėvui žūvant, mūsų senelis 1  vieton
+    savęs davė aukščiausią valdžią Vilniuje Jaunučiui;
+    Jogailos tėvui Algirdui — valdžią Vitebske, o mano tė­
+    vui kunigaikščiui Kęstučiui—Trakuose. Ir kadangi
+    mūsų tėvai, kunigaikštis Algirdas ir kunigaikštis Kęs­
+    tutis, nuo jaunystės sutarė, o dabar pamatė jiems ku­
+    nigaikščio Jaunučio kai kurias neteisybes, tai susitarė
+    kunigaikštis Algirdas su mūsų tėvu kunigaikščiu Kęs­
+    tučiu, kad jie, šiaip ar taip, turi užimti Vilnių ir Jau­
+    nutį išvyti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187684
+
+- id: c-170626
+  citata_originali: |
+    Mūsų tėvas šitą tikrai patyrė
+    ir, pamatęs ant savo galvos nelaimę, nužygiavo į Vil­
+    nių, užėmė Vilnių, paėmė į nelaisvę patį kunigaikštį
+    Jogailą, ir jo brolius, ir jo motiną, ir jo visas žemes
+    bei pilis jis paėmė taip pat į savo rankas; ir jo auksą,
+    ir iždą, ir žirgyną, viską tą jis paėmė.
+    Tačiau mūsų tėvas, vengdamas apie save piktų kal­
+    bų ir nenorėdamas nieko iš savo giminės išvyti, sugrą­
+    žino jam visą jo tėvo dalį — Vitebską ir kitas sritis,
+    kurios buvo jo tėvo,— ir auksą, ir iždą, ir žirgyną, o ku­
+    nigaikštis Jogaila prižadėjo mūsų tėvui su savo motina
+    ir savo broliais ir prisiekė ištikimybę, sutvirtindamas
+    tai raštais ta prasme, kad jis Vilniaus niekados nebe-
+    reikalaus ir bus mūsų tėvui paklusnus savo tėvo dalyje
+    Vitebske. Ir po to tačiau tiesos nesilaikė ir užėmė Vil­
+    nių prieš mūsų tėvą: tuo metu mūsų tėvas buvo karo
+    žygyje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187685
+
+- id: c-175548
+  citata_originali: |
+    Toliausiai į pietryčius gyveno
+    stūmiai (turėtų būti Stirnii), kurių gyvenamųjų vietų
+    pavadinimą išsaugojo, kaip teisingai pastebėjo Malte-
+    Brunas2, Styrės upė. O šiaurės rytų kryptimi gyveno vi-
+    bionų, arba vitbionų, gentis, jų sostinė buvo senovės pi­
+    lis prie Dauguvos Witsby, kur dabar yra Vitebskas, —
+    apie tai Karamzinas rašo savo tyrimuose3. Neįmanoma
+    nustatyti, kuriai giminei priklausė šios tautos; jos pasi­
+    meta sarmatų genčių sūkuryje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192778
+
+- id: c-175983
+  citata_originali: |
+    Jame žuvo patsai Livonijos magistras su dau-
+    gybe riterių, žuvo Kaributo sūnus Zigmantas (kadaise buvęs
+    Vytauto vietininku Čekijoje, dabar palaikęs Švitrigailą), žuvo
+    daugybė rusų kunigaikščių; be to, daugelis pateko į nelaisvę.
+    Pačiam Švitrigailai pavyko pabėgti į Vitebską ir surinkti naują
+    kariuomenę, tačiau su ja jis vis dėlto nebegalėjo priešintis. Ne-
+    trukus Zigmantui pasidavė Polockas, Smolenskas, Vitebskas ir
+    Naugardas Sieverskas; Švitrigailai liko tik pietinės sritys — Ki-
+    jevas ir Voluinė su Lucku.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193250
+
+- id: c-175984
+  citata_originali: |
+    Besirūpinant karaliaus karūna apleisti karo reikalai
+    dar labiau pablogėjo. Maskvos kariuomenė net tris kartus buvo
+    apgulusi Smolenską, užėmė Oršą ir apdegino Vitebską. Alek-
+    sandras pradėjo derybas dėl taikos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193251
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

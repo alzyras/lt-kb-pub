@@ -21,192 +21,538 @@ date_start: '1000'
 date_end: '1429'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'X'
-  - 'XV'
-description: 'Naugardas Lietuvos istorijoje siejamas su Vytauto žygiais, 1428 m. kontribucija ir Vilniaus prekybos ryšiais su Rytų miestais.'
-socialDescription: 'Naugardas atsiskleidžia per Vytauto karinius žygius, 1428 m. kontribuciją ir Vilniaus prekybos ryšius su Rusios miestais.'
-seo_atnaujinta: '2026-07-02T23:12:35.182188+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 tags:
   - karalius
   - kunigaikštis
   - ordinas
   - vieta
+amziai:
+  - 'X'
+  - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Naugardas
 
 ## Santrauka
 
-Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Kunigaikštystės ryšiais su Rusios miestais. Vytauto laikais minimi žygiai į Pskovą ir Naugardą, o 1428 m. Naugardas ir Porchovas sumokėjo Vytautui 10 000 rublių kontribuciją. Šaltiniuose Naugardas taip pat pasirodo kaip svarbus Vilniaus prekybos partneris greta Pskovo, Maskvos, Rygos, Prūsijos ir Livonijos miestų.
+Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų žemes. Livonijos Ordinas padarė prieš Vytautą nukreiptą taiką su Pskovu (1417) ir Naugardu (1421), kas Bažnyčių unijai dar labiau pakenkė.
 
 ## Teiginiai
+
 <a id="claim-t-94761"></a>
-- t-001
+- t-009
   global_id: t-94761
-  teiginys: 'Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai karinei sąjungai.'
+  teiginys: "Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai karinei sąjungai."
+  temporaliniai_duomenys: "priklausymo laikotarpis: 1241 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Naugardas priklausė Hamburgas“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "34293-34545; hash=09bb6d468d5d373dc83e5c84f7954b2834e5df1b055ea853849a2bfb82e3d6cc; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Hamburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Hamburgas: mention_match, place, gap=47"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardas\" parinktas kaip owner_note_path. Targetas \"Hamburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-89828
 
 <a id="claim-t-94762"></a>
-- t-002
+- t-008
   global_id: t-94762
-  teiginys: '1428 m. Naugardas ir Porchovas, nebenorėdami kariauti, sumokėjo Vytautui 10 000 rublių kontribuciją.'
+  teiginys: "1428 m. Naugardas ir Porchovas, nebenorėdami kariauti, sumokėjo Vytautui 10 000 rublių kontribuciją."
+  temporaliniai_duomenys: "įvykio data: 1428 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "607366-607759; hash=4b67081daa82d06c84a236c38400de7b4b44d5e0541777a96d0f4fdce1b80e4d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardas\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-37566
 
 <a id="claim-t-94763"></a>
-- t-003
+- t-014
   global_id: t-94763
-  teiginys: 'Aleksandro ir Elenos santuoka skatino steigti užeigas pirkliams iš Naugardo ir kitų Rusios miestų Vilniuje.'
+  teiginys: "Aleksandro ir Elenos santuoka skatino steigti užeigas pirkliams iš Naugardo ir kitų Rusios miestų Vilniuje."
+  semantiniai_rysiai: "Vilnius prekiavo su Naugardas (0.72); Vilnius prekiavo su Pskovas (0.70)"
+  temporaliniai_duomenys: "įvykio data: 1500 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir paliktas citata pagrįstas faktas apie Naugardą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "468419-468950; hash=58e1933f8b19df3b36d40842bc611abafee5e4bb671d3e565ad0379034ff79e2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Naugardas: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Naugardas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginyje Naugardo pirkliai siejami su užeigomis Vilniuje ir prekybiniais ryšiais."
   pagrindžia:
-    - c-012
+    - c-89836
 
-<a id="claim-t-94764"></a>
-- t-004
-  global_id: t-94764
-  teiginys: 'Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
+<a id="claim-t-94771"></a>
+- t-011
+  global_id: t-94771
+  teiginys: "Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių."
+  semantiniai_rysiai: "Naugardas prekiavo su Ryga (0.76); Naugardas prekiavo su Maskva (0.76)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "93146-93648; hash=d03cd0d63b00ce75a45b7850bd579ec94fe842ba5d9b51645f45a8ec9292ebd1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Maskva: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Naugardas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Naugardo ir Maskvos pirkliai įvardyti kaip laisvų prekių mainų dalyviai."
   pagrindžia:
-    - c-011
+    - c-89834
 
 <a id="claim-t-94765"></a>
-- t-005
+- t-020
   global_id: t-94765
-  teiginys: '1428 m. Naugardas ir Porchovas, nebenorėdami kariauti, sumokėjo Vytautui 10 000 rublių kontribucijos.'
+  teiginys: "1428 m. Naugardas ir Porchovas, nebenorėdami kariauti, sumokėjo Vytautui 10 000 rublių kontribucijos."
+  temporaliniai_duomenys: "įvykio data: 1428 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata tiesiogiai pagrindžia aiškų faktą apie Naugardą, reikėjo tik pašalinti OCR triukšmą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "786116-786880; hash=ba93f61924720b13684ea8d6f36f796f7a51fbf95f3d648f3eb558075159f17a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=56"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardas\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-89827
 
 <a id="claim-t-94766"></a>
-- t-006
+- t-013
   global_id: t-94766
-  teiginys: 'Senyvo amžiaus Vytautas kariavo su Pskovu ir Naugardu, siekdamas atkeršyti už Lietuvai patirtas skriaudas.'
+  teiginys: "Senyvo amžiaus Vytautas kariavo su Pskovu ir Naugardu, siekdamas atkeršyti už Lietuvai patirtas skriaudas."
+  temporaliniai_duomenys: "mūšio data: 1429 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "388190-388866; hash=f89bab3efabb681e76ee2cf20053e64e8b0068fd6a414fe908fac5811ec83647; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-89824
 
 <a id="claim-t-94767"></a>
-- t-007
+- t-017
   global_id: t-94767
-  teiginys: 'Vytauto valdymo laikais Vilniaus prekyba išsiplėtė su Naugardu, Pskovu, Maskva ir Prūsijos bei Livonijos miestais.'
+  teiginys: "Vytauto valdymo laikais Vilniaus prekyba išsiplėtė su Naugardu, Pskovu, Maskva ir Prūsijos bei Livonijos miestais."
+  semantiniai_rysiai: "Vilnius prekiavo su Naugardas (0.92); Vilnius prekiavo su Maskva (0.90); Vilnius prekiavo su Prūsija (0.82); Vilnius prekiavo su Livonija (0.82)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "297585-298500; hash=859af48acd0d764849264671c094e06cb6f11d04c09f7dcae60126379694ea2e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Naugardas: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Naugardas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Vilniaus prekybos išsiplėtimą su Naugardu."
   pagrindžia:
-    - c-006
+    - c-89826
 
 <a id="claim-t-94769"></a>
-- t-008
+- t-004
   global_id: t-94769
-  teiginys: 'Į Vytauto susitikimą atvyko Naugardo kunigaikščiai ir kitų kraštų valdovai bei pasiuntiniai.'
+  teiginys: "Į Vytauto susitikimą atvyko Naugardo kunigaikščiai ir kitų kraštų valdovai bei pasiuntiniai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "523585-523977; hash=99682e2ec5022bd9b1ad11b7a89741233c97d4c790c0a0de28df37e92f039359; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> kunigaikščiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "kunigaikščiai: mention_match, thing, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardas\" parinktas kaip owner_note_path. Targetas \"kunigaikščiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-37565
 
 <a id="claim-t-94770"></a>
-- t-009
+- t-002
   global_id: t-94770
-  teiginys: 'Livonijos Ordinas sudarė prieš Vytautą nukreiptą taiką su Pskovu 1417 m. ir Naugardu 1421 m., o tai pakenkė Bažnyčių unijai.'
+  teiginys: "Livonijos Ordinas sudarė prieš Vytautą nukreiptą taiką su Pskovu 1417 m. ir Naugardu 1421 m., o tai pakenkė Bažnyčių unijai."
+  temporaliniai_duomenys: "įvykio data: 1417 m.; įvykio data: 1418 m.; įvykio data: 1421 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiesiogiai remiasi citatos informacija."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "339584-339907; hash=fba4b5791cc74177a010b2cc3040421cff6419392d21617e358e16ddc10afa19; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kijevas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kijevas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardas\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-010
+    - c-89833
+
+<a id="claim-t-94771"></a>
+- t-011
+  global_id: t-94771
+  teiginys: "Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių."
+  semantiniai_rysiai: "Naugardas prekiavo su Ryga (0.76); Naugardas prekiavo su Maskva (0.76)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "93146-93648; hash=d03cd0d63b00ce75a45b7850bd579ec94fe842ba5d9b51645f45a8ec9292ebd1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Maskva: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Naugardas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Naugardo ir Maskvos pirkliai įvardyti kaip laisvų prekių mainų dalyviai."
+  pagrindžia:
+    - c-89834
 
 <a id="claim-t-94772"></a>
-- t-011
+- t-007
   global_id: t-94772
-  teiginys: 'Į Vytauto susitikimą atvyko Naugardo ir Pskovo kunigaikščiai, taip pat kitų valstybių valdovai bei pasiuntiniai.'
+  teiginys: "Į Vytauto susitikimą atvyko Naugardo ir Pskovo kunigaikščiai, taip pat kitų valstybių valdovai bei pasiuntiniai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "523585-523977; hash=99682e2ec5022bd9b1ad11b7a89741233c97d4c790c0a0de28df37e92f039359; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pskovas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Pskovas: mention_match, place, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardas\" parinktas kaip owner_note_path. Targetas \"Pskovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-37565
+
+<a id="claim-t-94761"></a>
+- t-009
+  global_id: t-94761
+  teiginys: "Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai karinei sąjungai."
+  temporaliniai_duomenys: "priklausymo laikotarpis: 1241 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Naugardas priklausė Hamburgas“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "34293-34545; hash=09bb6d468d5d373dc83e5c84f7954b2834e5df1b055ea853849a2bfb82e3d6cc; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Hamburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Hamburgas: mention_match, place, gap=47"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardas\" parinktas kaip owner_note_path. Targetas \"Hamburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-89828
 
 <a id="claim-t-94774"></a>
-- t-013
+- t-001
   global_id: t-94774
-  teiginys: 'Livonijos Ordinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų žemes.'
+  teiginys: "Livonijos Ordinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų žemes."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "302515-303008; hash=ba70f88b431bb1cb6d3c8236b084af6d52c402a976ddbc2f85e0132590eb7ded; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=97"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardas\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-89829
 
 <a id="claim-t-94775"></a>
-- t-014
+- t-003
   global_id: t-94775
-  teiginys: 'Vytautas sutvarkė reikalus su Didžiuoju Naugardu ir Maskva.'
+  teiginys: "Vytautas sutvarkė reikalus su Didžiuoju Naugardu ir Maskva."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "400556-400708; hash=974987932e90961be23a04d332756f3d148ba667bb4fc5acb2b6db110d5c7606; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardas\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-37564
 
 <a id="claim-t-94776"></a>
-- t-015
+- t-012
   global_id: t-94776
-  teiginys: 'Vytauto remiama Vilniaus prekyba išsiplėtė su Pskovu, Naugardu, Maskva, Prūsijos ir Livonijos miestais.'
+  teiginys: "Vytauto remiama Vilniaus prekyba išsiplėtė su Pskovu, Naugardu, Maskva, Prūsijos ir Livonijos miestais."
+  semantiniai_rysiai: "Vilnius prekiavo su Naugardas (0.86); Vilnius prekiavo su Prūsija (0.80); Vilnius prekiavo su Livonija (0.80)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "297585-298500; hash=859af48acd0d764849264671c094e06cb6f11d04c09f7dcae60126379694ea2e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Naugardas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Naugardas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Vilniaus prekybos ryšį su Naugardu."
   pagrindžia:
-    - c-006
+    - c-89826
 
 <a id="claim-t-94777"></a>
-- t-016
+- t-010
   global_id: t-94777
-  teiginys: 'Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji rusų miestai - Pskovas ir Naugardas - prekyba, mūrais ir netgi savo pačių valdžia galingi.'
+  teiginys: "Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji rusų miestai - Pskovas ir Naugardas - prekyba, mūrais ir netgi savo pačių valdžia galingi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "40330-40926; hash=ec9084479dbab92bb1a23a1e24172798a68eaded8460ad24483258b09a3cc180; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardas\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-013
+    - c-89839
 
 <a id="claim-t-94778"></a>
-- t-017
+- t-018
   global_id: t-94778
-  teiginys: '1427 m. Vytauto žygiai prieš Pskovą ir Naugardą baigėsi sėkmingai.'
+  teiginys: "1427 m. Vytauto žygiai prieš Pskovą ir Naugardą baigėsi sėkmingai."
+  temporaliniai_duomenys: "įvykio data: 1427 m.; įvykio data: 1429 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Ilgas kontekstinis tekstas sutrumpintas iki aiškaus fakto apie Naugardą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "388190-388866; hash=f89bab3efabb681e76ee2cf20053e64e8b0068fd6a414fe908fac5811ec83647; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dnepras: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Dnepras: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardas\" parinktas kaip owner_note_path. Targetas \"Dnepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-89824
 
 <a id="claim-t-94779"></a>
-- t-018
+- t-006
   global_id: t-94779
-  teiginys: 'Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428).'
+  teiginys: "Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428)."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) surengė žygį į Naugardas (0.86); Vytautas (Lietuvos valdovas, XIV–XV a.) surengė žygį į Pskovas (0.86)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "631007-631395; hash=0b279c42900db0de78d983fa1de0705b3cabad6c676ba2724998b5fbf94d7680; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Naugardas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Naugardas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai mini Vytauto žygį į Naugardą."
   pagrindžia:
-    - c-004
+    - c-37567
 
 <a id="claim-t-94780"></a>
-- t-019
+- t-005
   global_id: t-94780
-  teiginys: 'Naugardas ir Porchovas, nebenorėdami kariauti, 1428 m. sumokėjo Vytautui 10 000 rublių kontribuciją.'
+  teiginys: "Naugardas ir Porchovas, nebenorėdami kariauti, 1428 m. sumokėjo Vytautui 10 000 rublių kontribuciją."
+  temporaliniai_duomenys: "įvykio data: 1428 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "607366-607759; hash=4b67081daa82d06c84a236c38400de7b4b44d5e0541777a96d0f4fdce1b80e4d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardas\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-37566
+
+<a id="claim-t-184311"></a>
+- t-021
+  global_id: t-184311
+  teiginys: "Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428)."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) surengė žygį į Pskovas (0.94); Vytautas (Lietuvos valdovas, XIV–XV a.) surengė žygį į Naugardas (0.94)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "630864-631171; hash=3771449fafd76535a49505768562d23486c8a349518eb92f3a53f8b8cfd5bab1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Naugardas: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Naugardas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Vytauto žygį į Naugardą."
+  pagrindžia:
+    - c-167684
 
 <a id="claim-t-185060"></a>
-- t-021
+- t-022
   global_id: t-185060
-  teiginys: 'Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitant Černigovą, Starodubą, Naugardą ir Rylską.'
+  teiginys: "Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitant Černigovą, Starodubą, Naugardą ir Rylską."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Naugardas priklausė Seversko žemė (0.86); Rylskas priklausė Seversko žemė (0.83)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "984986-985501; hash=21117368fa4028359702c0b0a90f7eb488d7005b2051e52528ae779be1e495d3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Seversko žemė: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Naugardas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Seversko žemė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata Naugardą išvardija kaip Seversko žemės dalį."
   pagrindžia:
-    - c-015
+    - c-168421
 
 <a id="claim-t-185061"></a>
-- t-022
+- t-023
   global_id: t-185061
-  teiginys: 'Šich Achmetas staigiu antpuoliu užėmė Seversko Naugardą ir Aleksandro vardu pavedė jį valdyti Chaleckiui.'
+  teiginys: "Šich Achmetas staigiu antpuoliu užėmė Seversko Naugardą ir Aleksandro vardu pavedė jį valdyti Chaleckiui."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Šich Achmetas užėmė Naugardas (0.93); Šich Achmetas puolė Severskas (0.80)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1002274-1003052; hash=e9c088b1d3fcbfeb6bfc8744227c01117bd38e6710ef7ce80bca3be43f20f551; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Naugardas: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Šich Achmetas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Naugardas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Šich Achmetas užėmė Seversko Naugardą."
+  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-016
+    - c-168422
 
 <a id="claim-t-188773"></a>
 - t-023
   global_id: t-188773
-  teiginys: 'Narbutas pasakojo, kad Tautvilos sūnus Jonas, gelbėdamas Polocko bajorus, išjojo į Naugardą ir ten tapo vienuoliu.'
+  teiginys: "Narbutas pasakojo, kad Tautvilos sūnus Jonas, gelbėdamas Polocko bajorus, išjojo į Naugardą ir ten tapo vienuoliu."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "362471-362874; hash=e34b83091395dd60715090650dd49ef9e8bf605d2573e60edbc1385e0bd9db8e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Liutauras: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Liutauras: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardas\" parinktas kaip owner_note_path. Targetas \"Liutauras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-017
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171662
+
 <a id="claim-t-188774"></a>
 - t-024
   global_id: t-188774
-  teiginys: 'Narbutas spėjo, kad Naugardo gubernijos Rusos, arba Russ, upės vardą galėjo duoti variagų atgabenta lietuvių kolonija.'
+  teiginys: "Narbutas spėjo, kad Naugardo gubernijos Rusos, arba Russ, upės vardą galėjo duoti variagų atgabenta lietuvių kolonija."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "388190-388866; hash=f89bab3efabb681e76ee2cf20053e64e8b0068fd6a414fe908fac5811ec83647; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Upės (Oppen) kaimas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Upės (Oppen) kaimas: mention_match, place, gap=38"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardas\" parinktas kaip owner_note_path. Targetas \"Upės (Oppen) kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-018
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171663
+
 <a id="claim-t-188775"></a>
 - t-025
   global_id: t-188775
-  teiginys: 'Narbutas teigė, kad Vladimiras X a. Kijeve ir Naugarde pastatė Perkūno stabus, panašius į lietuvių Perkūno stabą.'
+  teiginys: "Narbutas teigė, kad Vladimiras X a. Kijeve ir Naugarde pastatė Perkūno stabus, panašius į lietuvių Perkūno stabą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "419517-420059; hash=a74d27098b34a5f513b5135141bb8ab48ac9689bb825cea4c787859f23a48bf5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kijevas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kijevas: mention_match, place, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardas\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-019
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171664
+
 <a id="claim-t-188776"></a>
 - t-026
   global_id: t-188776
-  teiginys: 'Narbutas Biarmiją iki vikingų atsikraustymo į Didįjį Naugardą apibūdino kaip atskirą valstybę, bendravusią su Naugardo slavais.'
+  teiginys: "Narbutas Biarmiją iki vikingų atsikraustymo į Didįjį Naugardą apibūdino kaip atskirą valstybę, bendravusią su Naugardo slavais."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "786116-786880; hash=ba93f61924720b13684ea8d6f36f796f7a51fbf95f3d648f3eb558075159f17a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Didžiojo Naugardo respublika: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naugardas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Didžiojo Naugardo respublika: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardas\" parinktas kaip owner_note_path. Targetas \"Didžiojo Naugardo respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-020
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171665
 - susijęs iš [[objektai/ivykiai/Vytauto žygis į Naugardą (1428 m. vasara).md#claim-t-34519|Vytauto žygis į Naugardą (1428 m. vasara)]]: 1428 m. vasarą Vytautas surengė didelį žygį į Naugardą, sutelkęs daug kunigaikščių ir kariuomenės iš Lenkijos bei Rusijos.
 - susijęs iš Pskovas: Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428).
 - susijęs iš [[objektai/ivykiai/Krokuvos sutartis dėl bendro karo su Šich Achmetu ir žygis į Severską.md#claim-t-185592|Krokuvos sutartis dėl bendro karo su Šich Achmetu ir žygis į Severską (sutartis)]]: Šich Achmetas staigiu antpuoliu užėmė Seversko Naugardą ir Aleksandro vardu perdavė jį valdyti Chaleckiui.
@@ -226,11 +572,14 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
 - susijęs iš [[objektai/asmenys/Lengvenis.md#claim-t-47954|Lengvenis]]: Jogaila paskyrė savo brolį Lengvenį Didžiojo Naugardo kunigaikščiu, ir Lengvenis ten buvo pakviestas.
 - susijęs iš [[objektai/asmenys/Lengvenis.md#claim-t-47955|Lengvenis]]: Jogaila paskyrė savo brolį Lengvenį į Didžiojo Naugardo kunigaikščius maitinimuisi, ir Lengvenis ten buvo pakviestas.
 - susijęs iš [[objektai/asmenys/Machmetas.md#claim-t-96027|Machmetas]]: Machmetas pasiuntė savo sūnų auklėtis į Vytauto Didžiojo dvarą ir rėmė Vytauto žygius į Pskovą bei Naugardą.
+- susijęs iš [[objektai/asmenys/Motiejus Strijkovskis.md#claim-t-190927|Motiejus Strijkovskis]]: Narbutas rašo, kad Strijkovskis savo laikais dar girdėjo apie išsklaidytų jotvingių likučius prie Naugarduko, Raigardo ir kitur.
 - susijęs iš [[objektai/asmenys/Patrikas, arba Patricijus.md#claim-t-87816|Patrikas, arba Patricijus]]: Patrikas, arba Patricijus, po Narimanto perėmė valdžią Didžiajame Naugarde.
 - susijęs iš [[objektai/asmenys/Simonas Lengvenis.md#claim-t-82664|Simonas Lengvenis (valdovas, XIV a.)]]: Simonas Lengvenis, Algirdo sūnus, po Patriko tapo Didžiojo Naugardo valdovu arba vaivada.
+- susijęs iš [[objektai/asmenys/Strijkovskis.md#claim-t-191471|Strijkovskis]]: Strijkovskis savo amžiuje dar girdėjo apie išsklaidytų jotvingių likučius, Didžiojo Naugardo kraštuose vadintus igovėnais.
 - susijęs iš [[objektai/asmenys/Sveneldas.md#claim-t-190212|Sveneldas]]: Vla dimiro vietininkas Sveneldas tuo pat metu įvedė Perkūno kul tą Didžiajame Naugarde.
 - susijęs iš [[objektai/asmenys/Teodoras (Liubarto sūnus).md#claim-t-64171|Teodoras (Liubarto sūnus)]]: Vytautas iš Liubarto sūnaus Teodoro atėmė Volinijos Vladimirą ir paskyrė jį vietininku į Naugardą-Sieverską.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179718|Švitrigaila]]: Švitrigaila su iš Didžiojo Naugardo atsiųstais bojarinais sudarė sutartį dėl abipusio saugumo ir prekybos laisvės.
+- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-190765|Motiejus Strijkovskis (kronikininkas)]]: Teodoro Narbuto teigimu, Motiejus Strijkovskis dar girdėjo apie išsklaidytų jotvingių likučius prie Naugarduko, Raigardo, Insterburgo, Kuršo ir Livonijos.
 - susijęs iš [[objektai/grupes/Didžiojo Naugardo bojarinai.md#claim-t-86789|Didžiojo Naugardo bojarinai]]: Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės.
 - susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-05243|Didžiojo Naugardo respublika]]: Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus.
 - susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-05245|Didžiojo Naugardo respublika]]: Prieš Algirdo mirtį Didžiajame Naugarde įsigalėjo Maskvos įtaka, todėl 1375 m. Naugardas sudarė sutartį su Dimitru.
@@ -365,6 +714,7 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179707|Švitrigaila]]: Po sėkmingo žygio Švitrigaila sudarė ilgalaikes paliaubas su karaliumi.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179727|Švitrigaila]]: Dar neįsitvirtinus Vytautui, Švitrigaila išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179732|Švitrigaila]]: Švitrigaila, įsižeidęs dėl Vytauto iškėlimo, išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą.
+- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-190766|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis skyrėsi nuo slavų ir lietuvių kalbų.
 - susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182793|Michał Baliński Mykolas Balinskis]]: Mykolas Balinskis parašė „Vilniaus miesto istoriją“, kurios antras tomas apėmė 1430-1586 m. Vilniaus istoriją.
 - susijęs iš [[objektai/daiktai/Halka.md#claim-t-35504|Halka]]: Halka buvo didelė patranka, kurią vos patraukdavo 20 porų arklių.
 - susijęs iš [[objektai/daiktai/Halka.md#claim-t-35505|Halka]]: Halka buvo didelė kanuolė, kurią vos patraukdavo 20 porų arklių.
@@ -432,6 +782,7 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
 - susijęs iš Lietuvos senato laiškas Maskvos didikams dėl taikos, belaisvių ir apeigų: Jonas Zaberezinskis Lietuvos senato vardu įteikė Maskvos didikams laišką dėl taikos laikymosi, belaisvių švelnesnio traktavimo ir apeigų laisvės.
 - susijęs iš Pskovo 10 metų sutartis: Livonijos Ordinas sudarė su Pskovu dešimties metų sutartį, nukreiptą prieš Vytautą.
 - susijęs iš Pskovskije letopisi: Pskovskije letopisi 1-asis leidimas buvo išleistas Maskvoje-Leningrade 1941 m.
+- susijęs iš Strijkovskio kronika: Narbutas, remdamasis Strijkovskiu, rašė, kad Strijkovskio laikais dar girdėta apie išsklaidytų jotvingių likučius.
 - susijęs iš Cesys: Mindaugas su Treniota nesėkmingai puolė Cesio, arba Wendeno, pilį Livonijoje.
 - susijęs iš Dancigas Gdanskas (sujungti pirminiai pavadinimai Gdansko uostas; Gdanskas; Dancigas): Vytauto laikais išplitę Vilniaus prekybiniai ryšiai pasiekė Gdanską, Sileziją, Karaliaučių, Rygą ir rusų miestus.
 - susijęs iš Dauguva: Treniotos ir žemaičių žygiai siekė už Dauguvos esančią Estiją, bet buvo siaubiamieji, o ne užkariaujamieji.
@@ -501,9 +852,11 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
 - susijęs iš Rosė (Ross) upė Kijevo gubernijoje: Narbutas Rosės (Ross) upės Kijevo gubernijoje vardą aiškino kaip paveldėtą iš ten kadaise gyvenusių lietuvių genties tautų.
 - susijęs iš Rosė: Narbutas Rosės (Ross) upę, įtekančią į Dneprą dešiniajame krante, laikė vardą gavusia iš lietuvių genties tautų.
 - susijęs iš Rusa (Russ) upė Naugardo gubernijoje: Narbutas spėjo, kad Naugardo gubernijos Rusos, arba Russ, upei vardą davė variagų atgabenta lietuvių tautos kolonija.
+- susijęs iš [[objektai/asmenys/Motiejus Strijkovskis.md#claim-t-190927|Motiejus Strijkovskis]]: Narbutas rašo, kad Strijkovskis savo laikais dar girdėjo apie išsklaidytų jotvingių likučius prie Naugarduko, Raigardo ir kitur.
 - susijęs iš [[objektai/ivykiai/Pskovo pasidavimas Vytautui ir vietininko paskyrimas.md#claim-t-186598|Pskovo pasidavimas Vytautui ir vietininko paskyrimas]]: Lietuvos metraštis pasakoja, kad kitais metais Vytautas išsirengė prieš Pskovą ir paėmė Veližą bei Krasnyj Gorodą.
 - susijęs iš Švitrigailos sutartis su Didžiuoju Naugardu: Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės.
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -512,11 +865,13 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
     Didž. Naugardu ir Maskva. Teko dabar jam ir naujų Rusijos
     žemių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -528,12 +883,14 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
     niai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­
     džiai priimti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
     - t-008
+
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -545,12 +902,14 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
     vo imamos ir nuo nepaklusnių bei atkritusių rusų kunigaikščių,
     kurių žemės vėl būdavo užkariaujamos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-019
+
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -562,11 +921,13 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
     nemenka ir kad to amato lietuviai išmokę iš kryžiuočiu; iš jų
     retais atsitikimais gaudavę ir patranką.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
+
 - c-005
   santrauka: '1427 m. Vytauto žygiai prieš Pskovą ir Naugardą baigėsi sėkmingai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -586,12 +947,14 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
     250 rublių nepridėjo (1429 m.) per antrąkart atsiųstus: po-
     sadniką Silvestrą Levontjevičių ir vietininką Parfėjų81.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
     - t-006
+
 - c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -612,12 +975,14 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
     tas Kristaus tikėjimo šviesos, miestai tikrai dar negalėjo su­
     klestėti!
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
     - t-007
+
 - c-007
   santrauka: '1428 m. Naugardas ir Porchovas, nebenorėdami kariauti, sumokėjo Vytautui 10 000 rublių kontribucijos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -629,11 +994,13 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
     chovo miestai, nebenorėdami kariauti, sumokėjo Vytautui
     10.000 rublių kontribucijos (1428).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-008
   santrauka: 'Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai karinei sąjungai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -648,12 +1015,14 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
     ĮVADAS
     Krokuva, Kališas ir Naugardas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
     - t-001
+
 - c-009
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -669,11 +1038,13 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
 
     karų ir Rytų Bažnyčių suvienijimą Lietuvos žemėse.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-010
   santrauka: 'Livonijos Ordinas sudarė prieš Vytautą nukreiptą taiką su Pskovu 1417 m. ir Naugardu 1421 m., o tai pakenkė Bažnyčių unijai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -685,11 +1056,13 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
     trigailą, kuris mėgino sukelti didelę audrą Lietuvos Rytuose,
     bet tas jam nepavyko.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-011
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -703,12 +1076,14 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
     jo lankytis tolimose provincijose, kur artimiau susipažino su
     krikščioniškąja kultūra26.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
     - t-004
+
 - c-012
   santrauka: 'Aleksandro ir Elenos santuoka skatino steigti užeigas pirkliams iš Naugardo ir kitų Rusios miestų Vilniuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -723,11 +1098,13 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
     pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
     savo atvykimą iškart pranešti pilininkui4 3  44.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-013
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -743,11 +1120,13 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
     gyvenvietė; tik pietų Rusioje klestėjo senasis Kijevas, Rytų apeigų
     tikėjimo lopšys ir kurį laiką garsios monarchijos sostinė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-014
   santrauka: 'Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428).'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -759,11 +1138,13 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
     (1426) bei Naugardą (1428). Žymiausia jų buvo Halka, kurią
     veždavo 20 porų arklių prieš piet ir tiek pat po piet.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
 - c-015
   santrauka: 'Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitant Černigovą, Starodubą, Naugardą ir Rylską.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -784,11 +1165,13 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
     Seversko žemė — Černigovas, Starodubas, Naugardas ir
     Rylskas.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-021
+
 - c-016
   santrauka: 'Šich Achmetas staigiu antpuoliu užėmė Seversko Naugardą ir Aleksandro vardu pavedė jį valdyti Chaleckiui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -811,11 +1194,13 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
     kunigaikštį, išdrįsusį jam pastoti kelią su ginkluotais
     būriais.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
+
 - c-017
   santrauka: 'Narbutas pasakojo, kad Tautvilos sūnus Jonas, gelbėdamas Polocko bajorus, išjojo į Naugardą ir ten tapo vienuoliu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -828,11 +1213,14 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
     vos ponai 1264 metais visuotiniame suvažiavime, jau po Tre­
     niotos mirties, nusiuntė Liutaurą užimti Polocko, kad šis val­
     dytų jį kaip vietininkas.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-023
+
 - c-018
   santrauka: 'Narbutas spėjo, kad Naugardo gubernijos Rusos, arba Russ, upės vardą galėjo duoti variagų atgabenta lietuvių kolonija.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -850,11 +1238,14 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
     tą vardą yra skolinga lietuvių genties tautoms, kadaise ten gy­
     venusioms, kurios išėjo į rytus su gotais karaliaujant Filimerui
     arba šiek tiek vėliau.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-024
+
 - c-019
   santrauka: 'Narbutas teigė, kad Vladimiras X a. Kijeve ir Naugarde pastatė Perkūno stabus, panašius į lietuvių Perkūno stabą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -869,11 +1260,14 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
     yra vadinamasis Perimo vienuolynas. Tai buvusi didžiulė sta­
     tula, liemuo iš ąžuolo, galva sidabrinė, ūsai ir ausys auksinės,
     kojos geležinės, kumštyje laikė kažką panašaus į žaibus23.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-025
+
 - c-020
   santrauka: 'Narbutas Biarmiją iki vikingų atsikraustymo į Didįjį Naugardą apibūdino kaip atskirą valstybę, bendravusią su Naugardo slavais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -892,11 +1286,408 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
     jo pastangų įveikti kliūtis, kuriomis gamta atskyrė biarmiečius
     dėl grobio, išperkamo savo pačių krauju, kadangi biarmiečiai
     mokėjo gana neblogai gintis.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-026
+
+## Citatos
+
+- id: c-37564
+  citata_originali: |
+    Sutvarkė reikalus su Smo­
+    lensku, kuriame irgi paliko savo vietininkus. Tą padarė ir su
+    Didž. Naugardu ir Maskva. Teko dabar jam ir naujų Rusijos
+    žemių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-94775
+
+- id: c-37565
+  citata_originali: |
+    Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
+    čiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­
+    zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­
+    niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­
+    riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
+    niai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­
+    džiai priimti.
+  citata_rodoma: "Atkeliavo ir Vytauto giminaičiai, Mo­\nzūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­\nniaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­\nriaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­\nniai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­\ndžiai priimti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-94772
+    - t-94769
+
+- id: c-37566
+  citata_originali: |
+    Yra žinoma, kad jis, kariaudamas su Pskovu, pa­
+    sitraukė nuo jo tik sutikus sumokėti 1000 rublių kontribucijos,
+    o už belaisvius — pridėjus dar 450 rublių. Naugardo ir Por­
+    chovo miestai, nebenorėdami kariauti, sumokėjo Vytautui
+    10.000 rublių kontribucijos (1428). Kontribucijos ir bausmės bu­
+    vo imamos ir nuo nepaklusnių bei atkritusių rusų kunigaikščių,
+    kurių žemės vėl būdavo užkariaujamos.
+  citata_rodoma: "Naugardo ir Por­\nchovo miestai, nebenorėdami kariauti, sumokėjo Vytautui\n10.000 rublių kontribucijos (1428). Kontribucijos ir bausmės bu­\nvo imamos ir nuo nepaklusnių bei atkritusių rusų kunigaikščių,\nkurių žemės vėl būdavo užkariaujamos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-94762
+    - t-94780
+
+- id: c-37567
+  citata_originali: |
+    Vytautas turėjo patrankų ir savo žygiuose į Pskovą
+    (1426) bei Naugardą (1428). Žymiausia jų buvo Halka, kurią
+    veždavo 20 porų arklių prieš piet ir tiek pat po piet.
+    Mykolas Brenšteinas^1 ), remdamasis įvairiomis kroniko­
+    mis, mano, kad Vytauto amžiaus gale lietuvių artilerija buvo jau
+    nemenka ir kad to amato lietuviai išmokę iš kryžiuočiu; iš jų
+    retais atsitikimais gaudavę ir patranką.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-94779
+
+- id: c-89824
+  citata_originali: |
+    Žinodamas karalių esant įtarų, gebėjo supykinti jį su žmona,
+    taip gana ilgam sudrumstęs namų ramybę, privertė lenkus
+    gaišti dėl nesvarbių reikalų.
+    Jau senyvo amžiaus sulaukęs, Lietuvos kunigaikštis bu­
+    vo priverstas kovoti su Pskovu ir Naugardu, nes norėjo at­
+    keršyti už įvairias skriaudas, kurių Lietuvai iš tų galingų
+    miestų tekdavo patirti. Pergalė jam buvo lemta ir tąsyk: du­
+    syk pakartotas žygis, nepaisant didelių pavojų ir pasalų, sėk­
+    mingai pasibaigęs (1427 metais), prispyrė atkakti į Vilnių
+    Pskovo pasiuntinius bojarinus Joachimą Pavlovičių ir Ivaną
+    Sidorovičių, kurie, pakloję 1 000 sidabro rublių, meldė pa­
+    leisti belaisvius, bet Vytautas jų neišleido tol, kol jam dar
+    250 rublių nepridėjo (1429 m.) per antrąkart atsiųstus: po-
+    sadniką Silvestrą Levontjevičių ir vietininką Parfėjų81.
+  citata_rodoma: "Žinodamas karalių esant įtarų, gebėjo supykinti jį su žmona, \ntaip gana ilgam sudrumstęs namų ramybę, privertė lenkus \ngaišti dėl nesvarbių reikalų.\nJau senyvo amžiaus sulaukęs, Lietuvos kunigaikštis bu­\nvo priverstas kovoti su Pskovu ir Naugardu, nes norėjo at­\nkeršyti už įvairias skriaudas, kurių Lietuvai iš tų galingų \nmiestų tekdavo patirti. Pergalė jam buvo lemta ir tąsyk: du­\nsyk pakartotas žygis, nepaisant didelių pavojų ir pasalų, sėk­\nmingai pasibaigęs (1427 metais), prispyrė atkakti į Vilnių \nPskovo pasiuntinius bojarinus Joachimą Pavlovičių ir Ivaną \nSidorovičių, kurie, pakloję 1 000 sidabro rublių, meldė pa­\nleisti belaisvius, bet Vytautas jų neišleido tol, kol jam dar \n250 rublių nepridėjo (1429 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-94778
+    - t-94766
+
+- id: c-89826
+  citata_originali: |
+    Vis dėlto nereikėtų manyti, kad Vilnius
+    ypač vėlesniais Vytauto valdymo laikais neužgydė žaizdų,
+    patirtų nesėkmingai valdant Skirgailai, ir nepraturtėjo. Juk
+    tas didis žmogus mėgo tvarką ir krašte jos reikalaudavo, glo­
+    bojo pirklius, ir prekyba Vilniuje jau plačiai išsišakojo - su
+    Prūsijos bei Livonijos miestais, su Pskovu, Naugardu ir Mask­
+    va, o naudodamasi galingo monarcho parama, jau pasiekė ir
+    tolimus kraštus, bet jai trukdydavo dažni karai: ir, regis, Vil­
+    nius savo dydžiu ir turtais nepasiekė tokių aukštumų, iki ko­
+    kių turėjo išaugti būdamas tokios didelės valstybės sostinė.
+    Esant karinei valdžiai, viešpataujant valdovams, besirūpinan­
+    tiems vien nukariavimais ir, po teisybei, naujos monarchijos
+    kūrimu, toje sumaištyje, kuri anuomet dar tvyrojo šiaurės
+    kraštuose, kai barbariškumas lėtai ir sunkiai traukėsi, įveik­
+    tas Kristaus tikėjimo šviesos, miestai tikrai dar negalėjo su­
+    klestėti!
+  citata_rodoma: "Juk\ntas didis žmogus mėgo tvarką ir krašte jos reikalaudavo, glo­\nbojo pirklius, ir prekyba Vilniuje jau plačiai išsišakojo - su\nPrūsijos bei Livonijos miestais, su Pskovu, Naugardu ir Mask­\nva, o naudodamasi galingo monarcho parama, jau pasiekė ir\ntolimus kraštus, bet jai trukdydavo dažni karai: ir, regis, Vil­\nnius savo dydžiu ir turtais nepasiekė tokių aukštumų, iki ko­\nkių turėjo išaugti būdamas tokios didelės valstybės sostinė.\nEsant karinei valdžiai, viešpataujant valdovams, besirūpinan­\ntiems vien nukariavimais ir, po teisybei, naujos monarchijos\nkūrimu, toje sumaištyje, kuri anuomet dar tvyrojo šiaurės\nkraštuose, kai barbariškumas lėtai ir sunkiai traukėsi, įveik­\ntas Kristaus tikėjimo šviesos, miestai tikrai dar negalėjo su­\nklestėti!"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-94776
+    - t-94767
+
+- id: c-89827
+  citata_originali: |
+    Be mokesčių Vytautas didindavo dar savo pajamas ir kon­
+    tribucijomis. Yra žinoma, kad jis, kariaudamas su Pskovu, pa­
+    sitraukė nuo jo tik sutikus sumokėti 1000 rublių kontribucijos,
+    o už belaisvius — pridėjus dar 450 rublių. Naugardo ir Por­
+    chovo miestai, nebenorėdami kariauti, sumokėjo Vytautui
+    10.000 rublių kontribucijos (1428).
+  citata_rodoma: "Yra žinoma, kad jis, kariaudamas su Pskovu, pa­\nsitraukė nuo jo tik sutikus sumokėti 1000 rublių kontribucijos,\no už belaisvius — pridėjus dar 450 rublių. Naugardo ir Por­\nchovo miestai, nebenorėdami kariauti, sumokėjo Vytautui\n10.000 rublių kontribucijos (1428)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-94765
+
+- id: c-89828
+  citata_originali: |
+    Jų veikla vis labiau plėtėsi, net toli į šiaurę nutolę mies­
+    tai, net slaviškieji, ėmė prie jų šlietis. Prie karinės sąjungos, 1241 m.
+    Hamburgo sudarytos su Liubeku, tam tikru požiūriu priklausė
+    D
+
+    ## Puslapis 22
+
+    ĮVADAS
+    Krokuva, Kališas ir Naugardas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-94773
+    - t-94761
+
+- id: c-89829
+  citata_originali: |
+    Vy­
+    tautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­
+    kais prieš jį kataliką, ir grasino pasiųsti skundą Konstancijos
+    susirinkimui; bet ir tas nieko nepadėjo, nes po kelių metų Ordi­
+    nas padarė amžiną taiką ir su Naugardu D. (1421). Livonijos
+    Ordinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai
+    jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų
+    žemes.
+    Tokiose sąlygose, aišku, nebebuvo galima mąstyti apie Va­
+
+    karų ir Rytų Bažnyčių suvienijimą Lietuvos žemėse.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-94774
+
+- id: c-89833
+  citata_originali: |
+    Kijeve ir apleisti tikinčiuosius. Livonijos Ordinas padarė
+    prieš Vytautą nukreiptą taiką su Pskovu (1417) ir Naugardu
+    (1421), kas Bažnyčių unijai dar labiau pakenkė. 1418 m. suo­
+    kalbininkai paleido iš Kremenco kalėjimo Jogailos brolį Švi­
+    trigailą, kuris mėgino sukelti didelę audrą Lietuvos Rytuose,
+    bet tas jam nepavyko.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-94770
+
+- id: c-89834
+  citata_originali: |
+    Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba,
+    plitusi Lietuvoje Algirdo galios ir rūpesčio dėka, sostinę da­
+    rė gyvą. Jo laikais jau būdavo saugu visuose kraštuose, ku­
+    riuos jis valdė, Vilniuje vykdavo laisvi prekių mainai tarp
+    Naugardo, Pskovo, Rygos ir Maskvos pirklių. Vilniaus
+    miestiečiai, gavę svarbią privilegiją laisvai prekiauti viso­
+    je Lietuvos valstybėje, nemokėdami muito mokesčių, pradė­
+    jo lankytis tolimose provincijose, kur artimiau susipažino su
+    krikščioniškąja kultūra26.
+  citata_rodoma: "Jo laikais jau būdavo saugu visuose kraštuose, ku­\nriuos jis valdė, Vilniuje vykdavo laisvi prekių mainai tarp\nNaugardo, Pskovo, Rygos ir Maskvos pirklių. Vilniaus\nmiestiečiai, gavę svarbią privilegiją laisvai prekiauti viso­\nje Lietuvos valstybėje, nemokėdami muito mokesčių, pradė­\njo lankytis tolimose provincijose, kur artimiau susipažino su\nkrikščioniškąja kultūra26."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-94771
+    - t-94764
+
+- id: c-89836
+  citata_originali: |
+    Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
+    to ginčai, ir po kelerių metų (1500 m.) anoji sutartis su caru
+    buvo nutraukta. Tačiau Aleksandro ir Elenos santuoka išplė­
+    tė prekybinius Vilniaus santykius su Rusios miestais ir ska­
+    tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­
+    tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.
+    Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
+    pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
+    savo atvykimą iškart pranešti pilininkui4 3  44.
+  citata_rodoma: "Tačiau Aleksandro ir Elenos santuoka išplė­\ntė prekybinius Vilniaus santykius su Rusios miestais ir ska­\ntino steigti naujas užeigas pirkliams, atvykstantiems į Lie­\ntuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.\nKaralius leido miestui pastatyti Svečių namus, kuriuose rusų\npirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie\nsavo atvykimą iškart pranešti pilininkui4 3  44."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-94763
+
+- id: c-89839
+  citata_originali: |
+    Išsi­
+    laisvinę nuo nepakeliamos kašteliono valdžios, Lenkijos mies­
+    tai, sykiu su teutonų teise suvieniję atleidimą nuo įvairių duok­
+    lių ir krašto teisės prievolių, savo pačių teisėtvarką ir atskirą
+    miesto valdymą, jau buvo galingi ir reikšmingi vietinės civili­
+    zacijos požiūriu.
+    Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji
+    rusų miestai - Pskovas ir Naugardas - prekyba, mūrais ir netgi
+    savo pačių valdžia galingi. Maskva tuomet dar tebuvo menka
+    gyvenvietė; tik pietų Rusioje klestėjo senasis Kijevas, Rytų apeigų
+    tikėjimo lopšys ir kurį laiką garsios monarchijos sostinė.
+  citata_rodoma: "Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji\nrusų miestai - Pskovas ir Naugardas - prekyba, mūrais ir netgi\nsavo pačių valdžia galingi. Maskva tuomet dar tebuvo menka\ngyvenvietė; tik pietų Rusioje klestėjo senasis Kijevas, Rytų apeigų\ntikėjimo lopšys ir kurį laiką garsios monarchijos sostinė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-94777
+
+- id: c-167684
+  citata_originali: |
+    Tačiau
+    šie, palyginti, dar nauji karo technikos pabūklai buvo tokie ne­
+    tobuli, kad Žalgirio mūšyje jie neturėjo jokios lemiančios reikš­
+    mės. Vytautas turėjo patrankų ir savo žygiuose į Pskovą
+    (1426) bei Naugardą (1428). Žymiausia jų buvo Halka, kurią
+    veždavo 20 porų arklių prieš piet ir tiek pat po piet.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184311
+
+- id: c-168421
+  citata_originali: |
+    Kaip
+    atlyginimą už išdavystę, prisiekdamas visomis švente­
+    nybėmis, pažadėjo, kad jie paveldėsią miestus ir kraš­
+    tus, kurie bus nuo Lietuvos atplėšti. Žmonės, didžiai
+    nepalankūs Aleksandrui bei Lietuvai dėl skirtingo ti-
+    558
+
+    ## Puslapis 557
+
+    kėjimo, netruko pasiduoti įkalbami ir užmiršti ankš­
+    čiau duotą žodį. Sutelkę jėgas, visi kartu užpuolė
+    Brianską ir dėl rusų klastingos išdavystės be vargo
+    užėmė miestą, o netrukus prie išdavikų prisidėjo visa
+    Seversko žemė — Černigovas, Starodubas, Naugardas ir
+    Rylskas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185060
+
+- id: c-168422
+  citata_originali: |
+    Sako, jog skitai,
+    laikydamiesi barbariškųjų papročių, šitaip sudarydavę
+    sutartis: ištraukę iš makštų kardus, pylė ant jų šaltą
+    vandenį ir jį, varvantį nuo aštrių ašmenų, vienas po
+    kito siurbė, pridurdami užkeikimo žodžius, kad, girdi,
+    tas, kas pirmas sulaužysiąs šią sutartį, žūsiąs nelygi­
+    nant šis vanduo. Laikydamasis šio susitarimo, Šich
+    Achmetas su šimtu tūkstančių raitelių užpuolė Severs-
+    ko žemę, baisiai siaubdamas valdas didikų, kurie atsi­
+    metė nuo Lietuvos ir prisijungė prie Maskvos. Staigiu
+    antpuoliu užėmęs Seversko Naugardą, Aleksandro var­
+    du jį bei kitas vietoves, pasidavusias geruoju, atidavė
+    valdyti Chaleckiui; perėjęs visą Seversko kraštą, kru­
+    vinose kautynėse sumušė Mechmet
+    Girėjų, Krymo
+    kunigaikštį, išdrįsusį jam pastoti kelią su ginkluotais
+    būriais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185061
+
+- id: c-171662
+  citata_originali: |
+    Šį nu­
+    siuntė į Polocką su įsakymu, kad polockiečiai nužudytų jauną­
+    jį Joną, Tautvilos sūnų, nes kitaip įsakysiąs iškapoti visus su­
+    imtus bajorus. Todėl Jonas, išvaduodamas nuo nelaimės Po­
+    locko ponus, išjojo į Naugardą ir ten tapo vienuoliu. O Lietu­
+    vos ponai 1264 metais visuotiniame suvažiavime, jau po Tre­
+    niotos mirties, nusiuntė Liutaurą užimti Polocko, kad šis val­
+    dytų jį kaip vietininkas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188773
+
+- id: c-171663
+  citata_originali: |
+    Net Vokietijoje,
+    kur herulai įsikūrė žuvus jų vadui Odoakrui, randame upę Ross,
+    Russ, vėliau imtą vadinti Wessel. Galbūt neįsižeis slavų seno­
+    vės tyrėjai, jei manysime, kad Naugardo gubernijoje Rusa, ar­
+    ba Russ, upei vardą davė lietuvių tautos kolonija, kažkaip va­
+    riagų atgabenta, kadangi ir pačiame Naugarde buvo prūsų ko­
+    lonistų ir jie gyveno vienoje iš seniausių gatvių, vadintoje Prū­
+    sų gatve.
+    Pagaliau dabar Kijevo gubernijoje ukrainiečių Rosės (Ross)
+    upė, įtekanti į Dneprą dešiniajame krante, už savo pašventin­
+    tą vardą yra skolinga lietuvių genties tautoms, kadaise ten gy­
+    venusioms, kurios išėjo į rytus su gotais karaliaujant Filimerui
+    arba šiek tiek vėliau.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188774
+
+- id: c-171664
+  citata_originali: |
+    O šios šventyklos aprašyme
+    istorikai aiškiai mini vyriausiojo dievo Perkūno stabą, kuris
+    buvęs puošnesnis už kitus.
+    Lietuvių Perkūno stabas X amžiuje Šiaurėje buvo garsus,
+    kadangi Vladimiras, tapęs visos Šiaurės Rusios didžiuoju ku­
+    nigaikščiu, tokius pačius pastatė Kijeve ir Naugarde; tuo pa­
+    čiu metu tam dievui buvo pastatyta šventykla toje vietoje, kur
+    yra vadinamasis Perimo vienuolynas. Tai buvusi didžiulė sta­
+    tula, liemuo iš ąžuolo, galva sidabrinė, ūsai ir ausys auksinės,
+    kojos geležinės, kumštyje laikė kažką panašaus į žaibus23.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188775
+
+- id: c-171665
+  citata_originali: |
+    Apie juos senovės Graikijos
+    geografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi­
+    nius pavadinimus iš daugelio Siaurės Europos gyventojų, kad
+    ir paties Herodoto išvardytų.
+    Iš amžių iki vikingų atsikraustymo į Didįjį Naugardą maža
+    ką galima pasakyti apie Biarmiją, kuri, liesdamasi su Naugar-
+    do slavais ir palaikydama su jais santykius, vis dėlto sudarė
+    atskirą valstybę. Vėliau iš skandinavų legendų arba iš gana
+    fragmentiškų Biarmijos paminėjimų matome, jog ta šalis bu­
+    vusi turtinga, turėjusi gausybę brangiųjų metalų ir tiek svarbi,
+    kad skandinavų plėšikai, tai yra tų amžių keliautojai, negailė­
+    jo pastangų įveikti kliūtis, kuriomis gamta atskyrė biarmiečius
+    dėl grobio, išperkamo savo pačių krauju, kadangi biarmiečiai
+    mokėjo gana neblogai gintis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188776
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Kaributas]], [[objektai/asmenys/Patrikas, arba Patricijus]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
@@ -904,6 +1695,6 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
 - Užėmė Naugardą: [[objektai/asmenys/Šich Achmetas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Buvo žygio kryptis: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Prekiavo su: [[objektai/vietos/Vilnius]]
-- Gyvenamoji vieta: [[objektai/grupes/Prūsai]]
+- Gyvenamoji vieta: [[objektai/grupes/Jotvingiai]], [[objektai/grupes/Prūsai]]
 - Naugardas prekiavo su [[objektai/vietos/Maskva]], [[objektai/vietos/Ryga]]
 - Naugardas priklausė [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/vietos/Seversko žemė]], [[objektai/vietos/Seversko žemės]]

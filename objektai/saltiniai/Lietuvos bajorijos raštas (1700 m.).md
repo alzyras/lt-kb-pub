@@ -16,6 +16,18 @@ tags:
   - saltinis
 amziai:
   - 'XVII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvos bajorijos raštas (1700 m.)
 
@@ -28,10 +40,23 @@ amziai:
 <a id="claim-t-10521"></a>
 - t-001
   global_id: t-10521
-  teiginys: 'Lietuvos bajorijos rašte totoriai apibūdinti kaip lengvoji raitija, gerai aprūpinta ir ginkluota kaip kazokai.'
+  teiginys: "Lietuvos bajorijos rašte totoriai apibūdinti kaip lengvoji raitija, gerai aprūpinta ir ginkluota kaip kazokai."
+  semantiniai_rysiai: "Totoriai gyveno Lietuva (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1700 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko aiškų teiginį apie rašte pateiktą totorių kariuomenės apibūdinimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "568177-568903; hash=69785add90e52ed0d04f0f7759858ebb2d84596e79d52157b7a3344122ad0845; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Lietuva: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Totoriai aprašomi kaip įkurdinti po visą Lietuvą."
   pagrindžia:
-    - c-001
-
+    - c-43279
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -54,8 +79,35 @@ amziai:
     iš Sapiegų jų turėtas pareigybes, o dvarus
     konfiskuoti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-43279
+  citata_originali: |
+    1700 m. lapkričio 19-24 d. Valki-
+    ninkuose vyko respublikonų bajorijos
+
+    „Toliau - totoriai, kuriuos nugalėjęs Lietuvos didysis kunigaikštis parsivedė daugybę
+    šeimų ir vėliau jas įkurdino po visą Lietuvą kraštui apgyvendinti. Visoje šalyje jie valdo
+    laisvuosius dvarus, bet neturi nei rango, nei balso tarp bajorijos. Totoriai taip pat sudaro
+    lengvąją raitiją, gerai aprūpintą ir ginkluotą kaip kazokų, ir nuo pastarųjų skiriasi tik
+    tuo, kad nenešioja grandijų. Jų alga - trisdešimt livry už ketvirtį.“
+
+    suvažiavimas, priėmęs „Valkininkų nuta-
+    rimą“, kuriuo buvo įkurta LDK bajorijos
+    generalinė konfederacija, suformuoti ypa-
+    tingieji LDK valdžios organai, nutarta atimti
+    iš Sapiegų jų turėtas pareigybes, o dvarus
+    konfiskuoti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-10521

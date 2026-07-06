@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Niendorf M
 
@@ -19,10 +31,19 @@ Niendorf M.
 <a id="claim-t-19458"></a>
 - t-001
   global_id: t-19458
-  teiginys: 'M. Niendorfas siejamas su veikalu „Das Großfürstentum Litauen“ apie Lietuvos Didžiąją Kunigaikštystę ankstyvaisiais naujaisiais laikais.'
+  teiginys: "M. Niendorfas siejamas su veikalu „Das Großfürstentum Litauen“ apie Lietuvos Didžiąją Kunigaikštystę ankstyvaisiais naujaisiais laikais."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "549590-549776; hash=320cc86a1d4422e8771e4aaa8588d190a19b18b4ff4b75e42b61f6e2b82e0fdf; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Niendorf M: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=68"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Niendorf M\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-22183
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -33,8 +54,25 @@ Niendorf M.
     Niendorf M. Das Großfürstentum Litauen: Studien zur Nationsbildung in
     der Frühen Neuzeit (1569–1795).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-22183
+  citata_originali: |
+    Mačiulis D. Valstybės kultūros politika Lietuvoje 1927–1940 metais. Vilnius,
+    2005.
+    Niendorf M. Das Großfürstentum Litauen: Studien zur Nationsbildung in
+    der Frühen Neuzeit (1569–1795).
+  citata_rodoma: "Niendorf M. Das Großfürstentum Litauen: Studien zur Nationsbildung in"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-19458

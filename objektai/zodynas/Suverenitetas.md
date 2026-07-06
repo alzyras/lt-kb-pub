@@ -19,6 +19,18 @@ tags:
   - sąvoka
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Suverenitetas
 
@@ -53,39 +65,102 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-05427"></a>
-- t-001
+- t-005
   global_id: t-05427
-  teiginys: 'Tarybiniai istorikai Lietuvos Tarybų respublikos suverenitetą laikė 1940 m. įvykdytu plačiųjų lietuvių tautos masių siekimu.'
+  teiginys: "Tarybiniai istorikai Lietuvos Tarybų respublikos suverenitetą laikė 1940 m. įvykdytu plačiųjų lietuvių tautos masių siekimu."
+  temporaliniai_duomenys: "įvykio data: 1918 m.; įvykio data: 1940 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalinta nuoroda į šaltinį ir išlaikyta citatoje pateikta interpretacija."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "95131-95708; hash=6989144ad68b066a7f6e66051046e7564ae78f493117ea88af0b26f36216a28f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Suverenitetas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Suverenitetas\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-05558
 
 <a id="claim-t-05586"></a>
-- t-002
+- t-007
   global_id: t-05586
-  teiginys: 'Dubysos sutartyje Jogailos suverenitetas buvo siaurinamas, nes jis įsipareigojo be Ordino žinios, patarimo ir valios nepradėti karo.'
+  teiginys: "Dubysos sutartyje Jogailos suverenitetas buvo siaurinamas, nes jis įsipareigojo be Ordino žinios, patarimo ir valios nepradėti karo."
+  temporaliniai_duomenys: "įvykio data: 1924 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia aiškiai įvardyti, kaip buvo ribojamas suverenitetas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1160356-1161441; hash=621f0058cb5249a8fef9f82260107d2308cd736b95a7fd82170da6eb008beb2b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Anglai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Suverenitetas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Anglai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Suverenitetas\" parinktas kaip owner_note_path. Targetas \"Anglai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-05559
 
 <a id="claim-t-10898"></a>
-- t-003
+- t-009
   global_id: t-10898
-  teiginys: 'Suverenitetas reiškia Lietuvos valdžią ir teisinę viršenybę Klaipėdos krašte.'
+  teiginys: "Suverenitetas reiškia Lietuvos valdžią ir teisinę viršenybę Klaipėdos krašte."
+  temporaliniai_duomenys: "įvykio data: 1924 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "1160356-1161441; hash=621f0058cb5249a8fef9f82260107d2308cd736b95a7fd82170da6eb008beb2b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Suverenitetas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Suverenitetas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-00297
 
 <a id="claim-t-10899"></a>
-- t-004
+- t-010
   global_id: t-10899
-  teiginys: '1926 m. Lietuva ir Sovietų Rusija nepuolimo sutartimi pasižadėjo gerbti viena kitos suverenitetą ir teritorinį neliečiamumą.'
+  teiginys: "1926 m. Lietuva ir Sovietų Rusija nepuolimo sutartimi pasižadėjo gerbti viena kitos suverenitetą ir teritorinį neliečiamumą."
+  temporaliniai_duomenys: "įvykio data: 1920 m.; įvykio data: 1926 m.; įvykio data: 1934 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Cituojamas konkretus sutarties įsipareigojimas, o ne bendra sąvokos apibrėžtis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "1172068-1172636; hash=1e13f425b26e4bd4d67ca9b0f1ffff165494180490bf263dd595ac98aecb3546; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Suverenitetas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=76"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Suverenitetas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-00298
 
 <a id="claim-t-10900"></a>
-- t-005
+- t-011
   global_id: t-10900
-  teiginys: 'Suvereniteto sąvoka taikoma ir Lietuvos teisėms į Vilniaus sritį.'
+  teiginys: "Suvereniteto sąvoka taikoma ir Lietuvos teisėms į Vilniaus sritį."
+  temporaliniai_duomenys: "įvykio data: 1926 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "1172325-1173042; hash=104902d778fe7a5a01c61be615f736ebf68ddb887155dbda23b63772edbf4095; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Suverenitetas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Suverenitetas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-00299
 - susijęs iš [[objektai/ivykiai/Lietuvos Respublikos Konstitucijos priėmimas referendume (1992 m. spalio 25 d.).md#claim-t-75195|Lietuvos Respublikos Konstitucijos priėmimas referendume (1992 m. spalio 25 d.)]]: Konstitucija skelbė Lietuvą demokratine respublika, kurios suverenitetas priklauso tautai.
 - susijęs iš [[objektai/grupes/Lietuvos Respublikos Seimas.md#claim-t-74771|Lietuvos Respublikos Seimas (seimas)]]: Konstitucija nustatė, kad valstybės valdžią Lietuvoje vykdo Seimas, Respublikos prezidentas, Vyriausybė ir teismas.
 - susijęs iš [[objektai/grupes/Lietuvos Respublikos Seimas.md#claim-t-74773|Lietuvos Respublikos Seimas (seimas)]]: Pagal Konstituciją Seimas kartu su Respublikos prezidentu, Vyriausybe ir teismu vykdo valstybės valdžią Lietuvoje.
@@ -116,6 +191,7 @@ Nenurodyta
     santykius tarp teismo organų, dviejų kalbų oficialumą, finansinius
     atsiskaitymus ir paties statuto keitimo procedūrą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -137,6 +213,7 @@ Nenurodyta
     verenumą ir teritorialinį integralumą bei neliečiamybę, o taip pat
     susilaikyti nuo bet kurių agresyvinių (puolamųjų) veiksmų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -159,6 +236,7 @@ Nenurodyta
     Vilniaus srity, kuri buvo pripažinta Lietuvai 1920 metų liepos
     12 dienos sutartim.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -180,6 +258,7 @@ Nenurodyta
     tautos masių siekimas »^16 , sukliudytas užsienio intervencijų ir bur­
     žuazinės-fašistinės diktatūros, vėl buvęs įvykdytas 1940 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -197,8 +276,115 @@ Nenurodyta
     namas, kai jis įsipareigojo ordinui padėti prieš jo priešus ir be jo
     žinios, patarimo ir valios nepradėti karo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-00297
+  citata_originali: |
+    **_Klaipėdos konvencija,_** kurią 1924 m. gegužės 8 d. pasirašė Pary-
+    žiuje Prancūzų ministeris pirmininkas ir užsienių reikalų ministeris
+    **_Poincarė,_** italų ambasadorius **_Avenzzana,_** japonų **_ambasadorius
+    Ishii,_** anglų markizas **_de Crewe_** ir Lietuvos ministeris pirmininkas ir
+    užsienių reikalų ministeris **_Galvanauskas,_** — susideda iš penkių da-
+    lių. Pirmoji — pagrindinė konvencija perduoda Lietuvai suvere-
+    nitetą Klaipėdos krašte, uždeda pareigą atlyginti okupacijos išlaidas
+    ir dalį reparacijų, nustato optacijos sąlygas, atleidžia klaipėdiečius
+    ligi 1930 metų nuo karo prievolės ir duoda teisę Tautų S-gos tarybos
+    nariams atkreipti dėmesį į konvencijos laužymus; o jei dėl to ne-
+    būtų sutikimo su signatarais, šiems paliekama laisvė pateikti ginčą
+    Hagos Teismui. Antroji dalis yra priedėlis, kuris išdėsto au-
+    tonominį statutą, būtent apibrėžia vietinių organų kompetenciją,
+    nustato seimelio ir direktorijos sudarymą, gubernatoriaus funkcijas,
+    santykius tarp teismo organų, dviejų kalbų oficialumą, finansinius
+    atsiskaitymus ir paties statuto keitimo procedūrą.
+  citata_rodoma: "Pirmoji — pagrindinė konvencija perduoda Lietuvai suvere-\nnitetą Klaipėdos krašte, uždeda pareigą atlyginti okupacijos išlaidas\nir dalį reparacijų, nustato optacijos sąlygas, atleidžia klaipėdiečius"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-10898
+
+- id: c-00298
+  citata_originali: |
+    Iš politinių sutarčių paminėtinos yra drau-
+    gingumo sutartys su Sovietų Rusija ir 1934 m. pasirašytoji Pa-
+    baltijo valstybių sąjunga.
+    1920 m. padarius taiką su Sovietų Rusija, ši daug kartų yra
+    parodžiusi Lietuvai palankumo ir užstojusi Lietuvą jos kovose.
+    Santykiams vis gerėjant, pagaliau 1926 m. (rugsėjo 28 d.) Mas-
+    kvoje buvo pasirašyta vadinamoji nepuolimo sutartis, kuria abi
+    šalys pasižadėjo visose aplinkybėse gerbti viena antros su-
+    verenumą ir teritorialinį integralumą bei neliečiamybę, o taip pat
+    susilaikyti nuo bet kurių agresyvinių (puolamųjų) veiksmų.
+  citata_rodoma: "šalys pasižadėjo visose aplinkybėse gerbti viena antros su-\nverenumą ir teritorialinį integralumą bei neliečiamybę, o taip pat\nsusilaikyti nuo bet kurių agresyvinių (puolamųjų) veiksmų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-10899
+
+- id: c-00299
+  citata_originali: |
+    Santykiams vis gerėjant, pagaliau 1926 m. (rugsėjo 28 d.) Mas-
+    kvoje buvo pasirašyta vadinamoji nepuolimo sutartis, kuria abi
+    šalys pasižadėjo visose aplinkybėse gerbti viena antros su-
+    verenumą ir teritorialinį integralumą bei neliečiamybę, o taip pat
+    susilaikyti nuo bet kurių agresyvinių (puolamųjų) veiksmų. Abi
+    šalys, be to, pasižadėjo neteikti paramos kitoms valstybėms,
+    kurios pultų vieną iš jų. Šios sutarties pasirašymo metu Sovietų
+    vyriausybė pareiškė atskiram laiške, kad, vadovaudamasi savo
+    simpatijomis ir nuolatiniu noru matyti lietuvių tautą nepriklau-
+    somą, ji nekeičia savo nusistatymo dėl teritorialinio suvereniteto
+    Vilniaus srity, kuri buvo pripažinta Lietuvai 1920 metų liepos
+    12 dienos sutartim.
+  citata_rodoma: "vyriausybė pareiškė atskiram laiške, kad, vadovaudamasi savo\nsimpatijomis ir nuolatiniu noru matyti lietuvių tautą nepriklau-\nsomą, ji nekeičia savo nusistatymo dėl teritorialinio suvereniteto\nVilniaus srity, kuri buvo pripažinta Lietuvai 1920 metų liepos\n12 dienos sutartim."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-10900
+
+- id: c-05558
+  citata_originali: |
+    Neigdami
+    tikrąją Vasario 16-tosios (1918) akto reikšmę čia tarybiniai istorikai
+    pabrėžė, jog tikrasis Lietuvos valstybingumas tebuvęs atkurtas
+    pasėkoje liaudies masių judėjimo ir proletarinės revoliucijos. Tada
+    Vinco Mickevičiaus-Kapsuko vadovaujama Laikinoji revoliucinė
+    darbininkų ir valstiečių Vyriausybė 1918 m. gruodžio 16 d. mani­
+    festu paskelbė įvedanti Tarybų valdžią Lietuvoje.
+    Lietuvos Tarybų respublikos suverenumas, «plačiųjų lietuvių
+    tautos masių siekimas »^16 , sukliudytas užsienio intervencijų ir bur­
+    žuazinės-fašistinės diktatūros, vėl buvęs įvykdytas 1940 m.
+  citata_rodoma: "Lietuvos Tarybų respublikos suverenumas, «plačiųjų lietuvių\ntautos masių siekimas »^16 , sukliudytas užsienio intervencijų ir bur­\nžuazinės-fašistinės diktatūros, vėl buvęs įvykdytas 1940 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05427
+
+- id: c-05559
+  citata_originali: |
+    Kitu aktu buvo daroma savotiška karinė sąjunga. Jogaila
+    ordinui žadėjo padėti prieš jo priešus. Į Lietuvą siunčiama pagal­
+    binė kariuomenė, iki Vilniaus atvykusi su savo maistu, toliau turėjo
+    būti viskuo Jogailos aprūpinta. Bet šio suverenumas buvo siauri­
+    namas, kai jis įsipareigojo ordinui padėti prieš jo priešus ir be jo
+    žinios, patarimo ir valios nepradėti karo.
+  citata_rodoma: "Kitu aktu buvo daroma savotiška karinė sąjunga. Jogaila\nordinui žadėjo padėti prieš jo priešus. Į Lietuvą siunčiama pagal-\nbinė kariuomenė, iki Vilniaus atvykusi su savo maistu, toliau turėjo\nbūti viskuo Jogailos aprūpinta. Bet šio suverenumas buvo siauri-\nnamas, kai jis įsipareigojo ordinui padėti prieš jo priešus ir be jo\nžinios, patarimo ir valios nepradėti karo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05586

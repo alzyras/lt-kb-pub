@@ -16,6 +16,18 @@ tags:
   - valstybė
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Liaudies vyriausybė
 
@@ -26,18 +38,41 @@ Taip birželio 17-ąją atsirado gudriai sumanyta savotiška pereinamojo laikota
 ## Teiginiai
 
 <a id="claim-t-19797"></a>
-- t-001
+- t-002
   global_id: t-19797
-  teiginys: 'Liaudies vyriausybė vykdė sovietų valią, griovė Lietuvos valstybingumą ir nuo pirmųjų dienų keitė administraciją.'
+  teiginys: "Liaudies vyriausybė vykdė sovietų valią, griovė Lietuvos valstybingumą ir nuo pirmųjų dienų keitė administraciją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "385388-386100; hash=8c922d6eb9ff6160cb1aba17d69a25cb1f354279f882bf3cd0ea3e183bc71f45; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Liaudies vyriausybė: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=48"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liaudies vyriausybė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-22521
 
 <a id="claim-t-19798"></a>
-- t-002
+- t-001
   global_id: t-19798
-  teiginys: '1940 m. birželio 17 d. sudaryta marionetinė Liaudies vyriausybė, į kurią įėjo A. Smetonos valdymą kritikavę inteligentai.'
+  teiginys: "1940 m. birželio 17 d. sudaryta marionetinė Liaudies vyriausybė, į kurią įėjo A. Smetonos valdymą kritikavę inteligentai."
+  temporaliniai_duomenys: "įvykio data: 1940 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra faktinis sakinys apie Liaudies vyriausybės sudarymą ir sudėtį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "384698-385147; hash=8b4902d7db9e4d37aa245be4d2767d0311675eff3e4441e8367ea70c26458b5e; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Liaudies vyriausybė: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=34"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liaudies vyriausybė\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-22520
 - susijęs iš [[objektai/zodynas/sovietizacija sovietizavimas.md#claim-t-101608|sovietizacija sovietizavimas]]: Sovietizacija Lietuvoje prasidėjo Liaudies vyriausybei vykdant sovietų valią, griaunant valstybingumą ir keičiant administraciją.
 - susijęs iš [[objektai/daiktai/Lietuvos auksas.md#claim-t-13781|Lietuvos auksas]]: Iš užsienyje laikyto Lietuvos aukso pasisavintas tik Švedijos ir Šveicarijos bankuose saugotas auksas.
 - susijęs iš [[objektai/daiktai/Lietuvos auksas.md#claim-t-13782|Lietuvos auksas]]: Iš užsienyje laikyto Lietuvos aukso pasisavintas tik Švedijos ir Šveicarijos bankuose saugotas auksas.
@@ -62,6 +97,7 @@ Taip birželio 17-ąją atsirado gudriai sumanyta savotiška pereinamojo laikota
     tru – rašytojas Vincas Krėvė-Mickevičius, finansų ministru liko Ernestas
     Galvanauskas, krašto apsaugos – gen. Vincas Vitkauskas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -83,8 +119,49 @@ Taip birželio 17-ąją atsirado gudriai sumanyta savotiška pereinamojo laikota
     toninis Seimas, uždarytos visos nekomunistinės organizacijos, laikraščiai ir
     žurnalai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-22520
+  citata_originali: |
+    Taip birželio 17-ąją at-
+    sirado gudriai sumanyta savotiška pereinamojo laikotarpio marionetinė
+    „Liaudies vyriausybė“, į kurią įėjo žinomi, kritikavę A. Smetonos valdymą
+    inteligentai: ministru pirmininku paskirtas komunistuojantis liaudinin-
+    kas žurnalistas Justas Paleckis, o jo pavaduotoju ir užsienio reikalų minis-
+    tru – rašytojas Vincas Krėvė-Mickevičius, finansų ministru liko Ernestas
+    Galvanauskas, krašto apsaugos – gen. Vincas Vitkauskas.
+  citata_rodoma: "tru – rašytojas Vincas Krėvė-Mickevičius, finansų ministru liko Ernestas"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-19798
+
+- id: c-22521
+  citata_originali: |
+    gandai privertė įtikinėti gyventojus, kad žemės nuosavybė nebus liečiama
+    ir kad „Lietuvos kariuomenė pasilieka ir toliau. Prireikus ji gins Lietuvos
+    Nepriklausomybę ir laisvę“.
+    Iš tiesų Liaudies vyriausybė vykdė sovietų valią, nuo pirmų dienų griovė
+    Lietuvos valstybingumą, keitė administraciją: į svarbius vyriausybės pos-
+    tus buvo paskirti amnestuoti politiniai kaliniai komunistai – LKP vadovas
+    Antanas Sniečkus tapo Valstybės saugumo departamento direktoriumi, o
+    Mečislovas Gedvilas – vidaus reikalų ministru; birželio 25 dieną įteisinta
+    LKP (nors kitos politinės partijos neįteisintos), paleistas vadinamasis sme-
+    toninis Seimas, uždarytos visos nekomunistinės organizacijos, laikraščiai ir
+    žurnalai.
+  citata_rodoma: "toninis Seimas, uždarytos visos nekomunistinės organizacijos, laikraščiai ir"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-19797

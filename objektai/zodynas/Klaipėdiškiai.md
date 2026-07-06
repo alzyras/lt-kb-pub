@@ -9,6 +9,18 @@ tags:
   - elekcija
   - seimas
   - sąvoka
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Klaipėdiškiai
 
@@ -21,16 +33,39 @@ Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir 
 <a id="claim-t-21995"></a>
 - t-001
   global_id: t-21995
-  teiginys: 'Lietuva prarado lietuviškai kalbėjusius klaipėdiškius, kurie rinkimuose į vietos seimelį balsavo už susitelkusias vokiškas partijas.'
+  teiginys: "Lietuva prarado lietuviškai kalbėjusius klaipėdiškius, kurie rinkimuose į vietos seimelį balsavo už susitelkusias vokiškas partijas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "365076-365639; hash=925628be63afa9a350923f3ab77622f4676f6720dda1de39318a1c116ebd2076; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Klaipėdiškiai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Klaipėdiškiai\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-24677
 
 <a id="claim-t-183433"></a>
 - t-002
   global_id: t-183433
-  teiginys: 'Lietuva dėl socialinių, politinių tradicijų ir psichologinių priežasčių prarado lietuviškai kalbėjusius klaipėdiškius.'
+  teiginys: "Lietuva dėl socialinių, politinių tradicijų ir psichologinių priežasčių prarado lietuviškai kalbėjusius klaipėdiškius."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "365244-365754; hash=9abb943541fe97de60127f9bbae1ddc1660c56165ba1ceaaea06a6c4cbc14d04; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Klaipėdos kraštas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Klaipėdiškiai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Klaipėdos kraštas: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Klaipėdiškiai\" parinktas kaip owner_note_path. Targetas \"Klaipėdos kraštas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-166828
 - susijęs iš Gdanskas: Kai kurie klaipėdiškiai lietuvininkai siekė laisvojo miesto statuso, panašaus į Dancigo, dabartinio Gdansko, statusą.
 - susijęs iš [[objektai/zodynas/lietuvininkai.md#claim-t-183442|lietuvininkai]]: Ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos; dalis jų siekė „laisvojo miesto“ statuso.
 - susijęs iš [[objektai/zodynas/lietuvininkai.md#claim-t-26548|lietuvininkai]]: Ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos; dalis siekė „laisvojo miesto“ statuso.
@@ -48,6 +83,7 @@ Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir 
     kurie rinkimuose į vietos seimelį balsavo už susitelkusias vokiškas parti-
     jas (panašiai kaip elzasiečiai ar Silezijos lenkai).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -67,8 +103,46 @@ Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir 
     liu išsivystymo parametrų buvo panašesnis į Latviją ir Estiją, negu į Di-
     džiąją Lietuvą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-24677
+  citata_originali: |
+    Lietuvos vyriausybė nerado atramos Klaipėdos krašto viduje: krašto
+    vokiečiams nepatiko būti „tautine mažuma“, jie apskritai Lietuvos valdy-
+    mą laike sezoniniu dalyku. Kaunas bandė remtis atvykėliais iš Didžio-
+    sios Lietuvos, tačiau dauguma jų buvo paprasti, neišsilavinę darbininkai.
+    Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir
+    psichologinių priežasčių prarado lietuviškai kalbėjusius „klaipėdiškius“,
+    kurie rinkimuose į vietos seimelį balsavo už susitelkusias vokiškas parti-
+    jas (panašiai kaip elzasiečiai ar Silezijos lenkai).
+  citata_rodoma: "Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-21995
+
+- id: c-166828
+  citata_originali: |
+    Kaunas bandė remtis atvykėliais iš Didžio-
+    sios Lietuvos, tačiau dauguma jų buvo paprasti, neišsilavinę darbininkai.
+    Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir
+    psichologinių priežasčių prarado lietuviškai kalbėjusius „klaipėdiškius“,
+    kurie rinkimuose į vietos seimelį balsavo už susitelkusias vokiškas parti-
+    jas (panašiai kaip elzasiečiai ar Silezijos lenkai). Klaipėdos kraštas dauge-
+    liu išsivystymo parametrų buvo panašesnis į Latviją ir Estiją, negu į Di-
+    džiąją Lietuvą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183433

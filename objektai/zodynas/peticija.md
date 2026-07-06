@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # peticija
 
@@ -19,10 +31,14 @@ Kai atskirų asmenų ir delegacijų rūpesčiai nieko negelbėjo, jie 1879 m. pa
 <a id="claim-t-70281"></a>
 - t-001
   global_id: t-70281
-  teiginys: 'Rašant peticijas dėl lietuvių kalbos grąžinimo į mokyklas, konservatoriai dėjosi pritariantys lietuvių rūpesčiams.'
+  teiginys: "Rašant peticijas dėl lietuvių kalbos grąžinimo į mokyklas, konservatoriai dėjosi pritariantys lietuvių rūpesčiams."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "1237902-1238471; hash=33eba30f375f3058e39192b961526ebf2d274ecd33fe3fae156d60cc6921aadc; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
+  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
-    - c-001
-
+    - c-69331
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,8 +58,33 @@ Kai atskirų asmenų ir delegacijų rūpesčiai nieko negelbėjo, jie 1879 m. pa
     josi pritarią tiems lietuvių rūpesčiams, o iš tikro parlamente lie-
     tuvių reikalų neužtardavo nė vienu žodžiu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-69331
+  citata_originali: |
+    Tačiau
+    pirmieji lietuviai kandidatai gaudavo labai maža balsų, nes dau-
+    gumas valstiečių tebebalsavo už vokiečių konservatorių kandida-
+    tus. Mat, konservatoriai buvo daugiausia dvarininkai ir valdi-
+    ninkai, t. y. žmonės, kurie reprezentavo lietuvių kaimiečių įprastą
+    ištikimybę karaliui ir senajai tvarkai. Kadangi tuo pat metu
+
+
+    buvo rašomos peticijos dėl lietuvių kalbos grąžinimo į moky-
+    klas, tai konservatoriai, norėdami įsipirkti į lietuvių malonę, dė-
+    josi pritarią tiems lietuvių rūpesčiams, o iš tikro parlamente lie-
+    tuvių reikalų neužtardavo nė vienu žodžiu.
+  citata_rodoma: "Kadangi tuo pat metu\nbuvo rašomos peticijos dėl lietuvių kalbos grąžinimo į moky-\nklas, tai konservatoriai, norėdami įsipirkti į lietuvių malonę, dė-\njosi pritarią tiems lietuvių rūpesčiams, o iš tikro parlamente lie-\ntuvių reikalų neužtardavo nė vienu žodžiu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-70281

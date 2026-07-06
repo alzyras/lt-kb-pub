@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Svecė
 
@@ -17,9 +29,23 @@ Prie Bidgoščiaus kariuomenė gavo žinią, kad kryžiuočių pulkai artėja pr
 <a id="claim-t-185309"></a>
 - t-001
   global_id: t-185309
-  teiginys: 'Prie Bidgoščiaus kariuomenė gavo žinią, kad kryžiuočių pulkai artėja prie Svecės.'
+  teiginys: "Prie Bidgoščiaus kariuomenė gavo žinią, kad kryžiuočių pulkai artėja prie Svecės."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Kryžiuočių ordinas keliavo į Svecė (0.78)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "651447-651691; hash=b21c84d3dd6eae57be8d2bc7eca876da5cf6b90720178c04295bbce6a43085e5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Svecė: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Svecė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Artėjimas prie Svecės rodo kryžiuočių pulkų judėjimą šios vietos link."
   pagrindžia:
-    - c-001
+    - c-168670
 - susijęs iš Bidgoščius: Prie Radzejovo susijungusi kariuomenė patraukė link Bidgoščiaus, kur gavo žinią apie kryžiuočių artėjimą prie Svecės.
 - susijęs iš Radzejovas: Prie Radzejovo susijungusi kariuomenė patraukė link Bidgoščiaus.
 ## Reikšmingi paminėjimai
@@ -34,11 +60,28 @@ Prie Bidgoščiaus kariuomenė gavo žinią, kad kryžiuočių pulkai artėja pr
     ton pusėn su visa kariuomene, išsiuntė stiprų rinktinių
     karių būrį pabandyti karo laimės.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-168670
+  citata_originali: |
+    Prie Radzejovo susijungusi kariuomenė pa­
+    traukė link Bidgoščiaus. Ten jie gavo žinią, kad kryžiuo­
+    čių pulkai artėja prie Svecės. Karalius, nežygiuodamas
+    ton pusėn su visa kariuomene, išsiuntė stiprų rinktinių
+    karių būrį pabandyti karo laimės.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185309
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Kryžiuočių ordinas]]

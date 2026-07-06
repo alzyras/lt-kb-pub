@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - posakis
   - reforma
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # „Viešumas, demokratija, suverenumas“
 
@@ -20,9 +32,19 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.
 <a id="claim-t-77858"></a>
 - t-001
   global_id: t-77858
-  teiginys: 'Pradiniame Sąjūdžio etape pagrindinis LPS šūkis buvo „Viešumas, demokratija, suverenumas“.'
+  teiginys: "Pradiniame Sąjūdžio etape pagrindinis LPS šūkis buvo „Viešumas, demokratija, suverenumas“."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "484468-484959; hash=3944419533e69a77fcf294865f079c2ca538050feb219e0a6931729a9d3fd98a; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "„Viešumas, demokratija, suverenumas“: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„Viešumas, demokratija, suverenumas“\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-75176
 - susijęs iš [[objektai/posakiai/Viešumas, demokratija, suverenumas.md#claim-t-13363|Viešumas, demokratija, suverenumas]]: „Viešumas, demokratija, suverenumas“ buvo pagrindinis šūkis.
 - susijęs iš [[objektai/posakiai/Viešumas, demokratija, suverenumas.md#claim-t-13364|Viešumas, demokratija, suverenumas]]: „Viešumas, demokratija, suverenumas“ buvo pagrindinis šūkis.
 - susijęs iš [[objektai/zodynas/pertvarka perestroika.md#claim-t-183451|pertvarka perestroika]]: Pradiniame etape Sąjūdis rėmė Maskvoje pradėtas perestroikos reformas ir siekė jas įgyvendinti Lietuvoje.
@@ -41,8 +63,28 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.
     Svarbiausias dėmesys skiriamas kultūros ir ekologijos problemoms, šalies
     ekonomikai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-75176
+  citata_originali: |
+    Pradiniame etape Sąjūdis iš es-
+    mės buvo gorbačiovinės perestroikos kūdikis, kurį su ankstesniais kovų eta-
+    pais siejo tik laisvos Lietuvos siekis. M. Gorbačiovas, rungdamasis su senąja
+    SSKP vadovybe, buvo priverstas remtis reformas palaikančiomis jėgomis,
+    o LPS stengėsi remti Maskvoje pradėtas reformas ir siekė jas įgyvendinti
+    Lietuvoje. Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.
+    Svarbiausias dėmesys skiriamas kultūros ir ekologijos problemoms, šalies
+    ekonomikai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77858

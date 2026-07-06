@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - mokslininkas
   - paprotys
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jėzuitų pamokslininko siuntimas į Šv. Onos bažnyčią sekmadieniais ir per šventes
 
@@ -40,10 +52,19 @@ Nenurodyta
 <a id="claim-t-87270"></a>
 - t-001
   global_id: t-87270
-  teiginys: 'Jėzuitai buvo įpareigoti kiekvieną sekmadienį ir per šventes siųsti pamokslininką į Šv. Onos bažnyčią mokyti tikėjimo.'
+  teiginys: "Jėzuitai buvo įpareigoti kiekvieną sekmadienį ir per šventes siųsti pamokslininką į Šv. Onos bažnyčią mokyti tikėjimo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "660871-661231; hash=4059c9d4ec2cfb168d77a217f6fde450289e4d9509977b595ef55485d148ea61; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ona Vytautienė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jėzuitų pamokslininko siuntimas į Šv. Onos bažnyčią sekmadieniais ir per šventes: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Ona Vytautienė: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jėzuitų pamokslininko siuntimas į Šv. Onos bažnyčią sekmadieniais ir per šventes\" parinktas kaip owner_note_path. Targetas \"Ona Vytautienė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-83249
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -58,8 +79,27 @@ Nenurodyta
     kyti mylimo Dievo mokslo ir valios pagal visuotinės Bažny­
     čios įstatymus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83249
+  citata_originali: |
+    O tų knygų, kurias atiduodame jėzuitams, der­
+    lius yra nemažas ir neprastas. Įpareigojame tėvus jėzuitus,
+    kad būtų už jas atsakingi ir kiekvieną sekmadienį bei per
+    kiekvienas šventes į Šv. Onos bažnyčią iš savo kolegijos at­
+    siųstų vieną gerą ir garbingą pamokslininką skelbti ir mo­
+    kyti mylimo Dievo mokslo ir valios pagal visuotinės Bažny­
+    čios įstatymus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87270

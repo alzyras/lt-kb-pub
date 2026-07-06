@@ -21,11 +21,6 @@ datos:
   - '2026 m.'
 date_start: '1034'
 date_end: '2026'
-description: 'Vokietija Lietuvos istorijoje minima kaip studijų, protestantizmo sklaidos, karinės paramos ir XX a. geopolitinių susitarimų veikėja.'
-socialDescription: 'Vokietijos vaidmuo Lietuvos istorijoje: universitetai ir protestantizmo sklaida, kariniai ryšiai, 1918 m. pripažinimas ir 1939 m. susitarimai.'
-seo_atnaujinta: '2026-07-02T23:12:35.126652+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -36,301 +31,830 @@ tags:
 amziai:
   - 'XI'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vokietija
 
 ## Santrauka
 
-Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių idėjų sklaida, diplomatija ir karais. Vokietijos universitetuose mokęsi didikų vaikai į Lietuvą parsiveždavo protestantizmo idėjas, o 1579 m. žygiui buvo samdomi kariai Vengrijoje ir Vokietijoje. XX a. Vokietija veikė Lietuvos tarptautinę padėtį: 1918 m. Wilhelmas II pripažino Lietuvos nepriklausomybę, o 1939 m. Vokietijos ir SSRS susitarimai keitė Lietuvos priklausymą įtakos sferoms.
+Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos universitetą, o visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją, Italiją ir Prancūziją. Be to, daug didikų vaikų, išvažiavę mokytis į Vokietijos universitetus, užsikrėsdavo protestantų mokslu, kurį parsiveždavo kartu ir į Lietuvą; čia,. Tuo būdu surinkus pinigų, prisisamdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisigaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),.
 
 ## Teiginiai
 
 <a id="claim-t-181162"></a>
-- t-001
+- t-048
   global_id: t-181162
-  teiginys: 'Rengiantis 1579 m. buvo samdomi kareiviai Vengrijoje ir Vokietijoje, perkami ir gaminami ginklai.'
+  teiginys: "Rengiantis 1579 m. buvo samdomi kareiviai Vengrijoje ir Vokietijoje, perkami ir gaminami ginklai."
+  temporaliniai_duomenys: "įvykio data: 1579 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "589769-590161; hash=1c52aef0b22bb607d80b5f52fe7a4f3f52bf7e9dd361155d8233e3e0e724dcf0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ginklai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokietija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Ginklai: mention_match, thing, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokietija\" parinktas kaip owner_note_path. Targetas \"Ginklai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-011
+    - c-164745
 
 <a id="claim-t-181163"></a>
-- t-002
+- t-037
   global_id: t-181163
-  teiginys: '1918 m. kovo 23 d. Vokietijos kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę.'
+  teiginys: "1918 m. kovo 23 d. Vokietijos kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę."
+  temporaliniai_duomenys: "įvykio data: 1918 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, todėl palikta aiški paremta dalis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "266229-267057; hash=7f6540af63ca254e7856051b8afe6eb5749a5a61cdc8292e90282326065f7953; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokietija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=57"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokietija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-010
+    - c-164739
 
 <a id="claim-t-181164"></a>
-- t-003
+- t-019
   global_id: t-181164
-  teiginys: '1939 m. rugsėjo 28 d. slaptu protokolu Lietuva pateko į SSRS įtakos sferą, o Vokietija gavo Liublino vaivadiją.'
+  teiginys: "1939 m. rugsėjo 28 d. slaptu protokolu Lietuva pateko į SSRS įtakos sferą, o Vokietija gavo Liublino vaivadiją."
+  semantiniai_rysiai: "Lietuva priklausė SSRS (0.90); Liublinas priklausė Vokietija (0.87)"
+  temporaliniai_duomenys: "įvykio data: 1939 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "370777-371342; hash=37798640f213d80ac2664b790061040535e0e296865084125cc6c57347f3a116; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> SSRS: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "SSRS: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo Lietuvos patekimą į SSRS įtakos sferą."
   pagrindžia:
-    - c-002
+    - c-164729
 
 <a id="claim-t-181167"></a>
-- t-004
+- t-051
   global_id: t-181167
-  teiginys: 'Kryžiuočių ordino veikloje išliko paprotys kviesti svečius iš Vokietijos.'
+  teiginys: "Kryžiuočių ordino veikloje išliko paprotys kviesti svečius iš Vokietijos."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "99787-100048; hash=cdab822a28ab19a581f2ea1fea8b2dfe8b6a64e7c285d27cb769e76a44b72b91; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokietija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=62"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokietija\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-023
+    - c-164764
 
 <a id="claim-t-181168"></a>
-- t-005
+- t-018
   global_id: t-181168
-  teiginys: '1939 m. rugpjūčio 23 d. Vokietija ir SSRS slaptu protokolu pasidalijo regioną įtakos sferomis, o Lietuva atiteko Vokietijai.'
+  teiginys: "1939 m. rugpjūčio 23 d. Vokietija ir SSRS slaptu protokolu pasidalijo regioną įtakos sferomis, o Lietuva atiteko Vokietijai."
+  semantiniai_rysiai: "Lietuva priklausė Vokietija (0.88)"
+  temporaliniai_duomenys: "įvykio data: 1939 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "369202-369856; hash=7ea4364c30dadf0ef69af66ede05bd77190b856df2581f5f3bcc3ba7ef2a4478; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Vokietija: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Vokietija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad įtakos sferų pasidalijime Lietuva atiteko Vokietijai."
   pagrindžia:
-    - c-012
+    - c-164747
 
 <a id="claim-t-181169"></a>
-- t-006
+- t-058
   global_id: t-181169
-  teiginys: 'Po 1629 m. paliaubų su ATR Gustavo Adolfo vadovaujama Švedijos kariuomenė Vokietijoje laimėjo pergalių prieš katalikų kariuomenes.'
+  teiginys: "Po 1629 m. paliaubų su ATR Gustavo Adolfo vadovaujama Švedijos kariuomenė Vokietijoje laimėjo pergalių prieš katalikų kariuomenes."
+  temporaliniai_duomenys: "įvykio data: 1618-1648; įvykio data: po 1629 m.; įvykio data: 1629 m.; įvykio data: 1648 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Patikslinta formuluotė pagal citatą ir išlaikytas faktas apie Vokietiją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "480208-480413; hash=5bef5e4ac382dbc1acb8feb614e4809c81de157ca6d57a6b72d2281e4d276a73; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Švedai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokietija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Švedai: mention_match, group, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokietija\" parinktas kaip owner_note_path. Targetas \"Švedai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-019
+    - c-164756
 
 <a id="claim-t-181170"></a>
-- t-007
+- t-047
   global_id: t-181170
-  teiginys: 'Vokietijos universitetuose besimokę didikų vaikai protestantų mokslą parsiveždavo į Lietuvą.'
+  teiginys: "Vokietijos universitetuose besimokę didikų vaikai protestantų mokslą parsiveždavo į Lietuvą."
+  temporaliniai_duomenys: "įvykio data: 1525 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "520287-520687; hash=9b855904c3e813cfa21c302a7644cc20db5d8561600d7506f006f42c60ac7f1f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokietija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=84"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokietija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-24595
 
 <a id="claim-t-181172"></a>
-- t-008
+- t-011
   global_id: t-181172
-  teiginys: '1918 m. kovo 23 d. Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę, bet siejo ją su glaudžiais ryšiais su Vokietija.'
+  teiginys: "1918 m. kovo 23 d. Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę, bet siejo ją su glaudžiais ryšiais su Vokietija."
+  temporaliniai_duomenys: "įvykio data: 1918 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "266229-267057; hash=7f6540af63ca254e7856051b8afe6eb5749a5a61cdc8292e90282326065f7953; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> A. Smetona: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokietija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokietija\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-010
+    - c-164739
 
 <a id="claim-t-181173"></a>
-- t-009
+- t-031
   global_id: t-181173
-  teiginys: 'Rygos pasiuntiniai pranešė popiežiui, kad buvo svarstytas Gedimino laiškų į Vokietiją tikrumas.'
+  teiginys: "Rygos pasiuntiniai pranešė popiežiui, kad buvo svarstytas Gedimino laiškų į Vokietiją tikrumas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "174288-175183; hash=a0016b9d52fe1aad71050fbdcbeadbf7a74bcaf263914228708704a5ee204d48; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokietija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokietija\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-164737
 
 <a id="claim-t-181175"></a>
-- t-010
+- t-052
   global_id: t-181175
-  teiginys: 'Rengiant 1579 m. žygį prieš caro kariuomenę, kareivių buvo prisisamdyta Vengrijoje ir Vokietijoje.'
+  teiginys: "Rengiant 1579 m. žygį prieš caro kariuomenę, kareivių buvo prisisamdyta Vengrijoje ir Vokietijoje."
+  temporaliniai_duomenys: "įvykio data: 1579 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys yra nutrūkęs fragmentas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "589769-590161; hash=1c52aef0b22bb607d80b5f52fe7a4f3f52bf7e9dd361155d8233e3e0e724dcf0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ginklai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokietija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Ginklai: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokietija\" parinktas kaip owner_note_path. Targetas \"Ginklai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-011
+    - c-164745
 
 <a id="claim-t-181176"></a>
-- t-011
+- t-041
   global_id: t-181176
-  teiginys: '1939 m. rugsėjo 28 d. slaptu Reicho ir SSRS protokolu Lietuvai patekus į SSRS įtakos sferą, Vokietijos spaudimas Lietuvai baigėsi.'
+  teiginys: "1939 m. rugsėjo 28 d. slaptu Reicho ir SSRS protokolu Lietuvai patekus į SSRS įtakos sferą, Vokietijos spaudimas Lietuvai baigėsi."
+  semantiniai_rysiai: "Lietuva priklausė SSRS (0.89); Liublinas priklausė Vokietija (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1939 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta glaustai ir pašalinta šnekamoji citatos formuluotė."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "370777-371342; hash=37798640f213d80ac2664b790061040535e0e296865084125cc6c57347f3a116; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> SSRS: 0.89"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "SSRS: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo Lietuvos teritorijos patekimą į SSRS įtakos sferą."
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-002
+    - c-164729
 
 <a id="claim-t-181178"></a>
-- t-012
+- t-053
   global_id: t-181178
-  teiginys: 'Į Vokietijos protestantiškus universitetus mokytis išvykę jaunuoliai dažnai grįždavo protestantai.'
+  teiginys: "Į Vokietijos protestantiškus universitetus mokytis išvykę jaunuoliai dažnai grįždavo protestantai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "597743-598291; hash=940d2277bd2f027115d7c87b620a6bb36ec8e1fc5c7dc3aa4e8254ff9ea60dc2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Protestantai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokietija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Protestantai: mention_match, group, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokietija\" parinktas kaip owner_note_path. Targetas \"Protestantai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-164736
 
 <a id="claim-t-181179"></a>
-- t-013
+- t-025
   global_id: t-181179
-  teiginys: '1940 m. birželį iš Lietuvos pasitraukęs Antanas Smetona per Vokietiją, Šveicariją ir Portugaliją išvyko į JAV.'
+  teiginys: "1940 m. birželį iš Lietuvos pasitraukęs Antanas Smetona per Vokietiją, Šveicariją ir Portugaliją išvyko į JAV."
+  temporaliniai_duomenys: "įvykio data: 1940 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pavardė išskleista ir sakinys padarytas aiškesnis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "461318-461676; hash=33db6c3965d70ac3ab6a19691c7748892d2d438ea953bad0c85d6037d477db8a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Portugalija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokietija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Portugalija: mention_match, place, gap=25"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokietija\" parinktas kaip owner_note_path. Targetas \"Portugalija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-014
+    - c-164749
 
 <a id="claim-t-181180"></a>
-- t-014
+- t-050
   global_id: t-181180
-  teiginys: '1928 m. sausio 29 d. po ilgų derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis.'
+  teiginys: "1928 m. sausio 29 d. po ilgų derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis."
+  temporaliniai_duomenys: "sutarties data: 1928 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys yra pilnas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "308739-309184; hash=cd0c8ce8dc734201f4f54753c30f51afc8826a8ea0fd69760646b66bf0d3ff09; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokietija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokietija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-164730
 
 <a id="claim-t-181181"></a>
-- t-015
+- t-051
   global_id: t-181181
-  teiginys: '1939 m. rugpjūčio 23 d. Vokietijos ir SSRS slaptasis protokolas Lietuvą priskyrė Vokietijos įtakos sferai.'
+  teiginys: "1939 m. rugpjūčio 23 d. Vokietijos ir SSRS slaptasis protokolas Lietuvą priskyrė Vokietijos įtakos sferai."
+  semantiniai_rysiai: "Lietuva priklausė Vokietija (0.89)"
+  temporaliniai_duomenys: "įvykio data: 1939 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas ilgas kontekstas ir nutrūkusi pabaiga."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "369202-369856; hash=7ea4364c30dadf0ef69af66ede05bd77190b856df2581f5f3bcc3ba7ef2a4478; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Vokietija: 0.89"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Vokietija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Įtakos sferų pasidalijime tiesiogiai pasakyta, kad Lietuva atiteko Vokietijai."
   pagrindžia:
-    - c-012
+    - c-164747
 
 <a id="claim-t-181182"></a>
-- t-016
+- t-013
   global_id: t-181182
-  teiginys: '1928 m. sausio 29 d. po ilgų derybų buvo pasirašyta Lietuvos ir Vokietijos sienos sutartis.'
+  teiginys: "1928 m. sausio 29 d. po ilgų derybų buvo pasirašyta Lietuvos ir Vokietijos sienos sutartis."
+  temporaliniai_duomenys: "sutarties data: 1928 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys yra aiškus, gramatiškas ir paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "308739-309184; hash=cd0c8ce8dc734201f4f54753c30f51afc8826a8ea0fd69760646b66bf0d3ff09; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokietija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokietija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-164730
 
 <a id="claim-t-181183"></a>
-- t-017
+- t-008
   global_id: t-181183
-  teiginys: '1919 m. Versalio taikos konferencija nuo Vokietijos atskyrė Klaipėdos kraštą, bet jo Lietuvai neatidavė.'
+  teiginys: "1919 m. Versalio taikos konferencija nuo Vokietijos atskyrė Klaipėdos kraštą, bet jo Lietuvai neatidavė."
+  temporaliniai_duomenys: "įvykio data: 1919 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas perteklinis įvadinis žodis ir sakinys sutrumpintas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "22494-22873; hash=9a29c55e9857ad82104933045cc82297dd691abddf7a5dc909e13173cd86c3c2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokietija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokietija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-025
+    - c-164766
 
 <a id="claim-t-181184"></a>
-- t-018
+- t-045
   global_id: t-181184
-  teiginys: 'Po magistro mirties Ordine buvo priskaičiuojama du tūkstančiai brolių, gimusių kilmingose Vokietijos šeimose.'
+  teiginys: "Po magistro mirties Ordine buvo priskaičiuojama du tūkstančiai brolių, gimusių kilmingose Vokietijos šeimose."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "125516-125953; hash=be61be4ba9fa76df95439afffbd7c5317bd7939012a35638670a23b5b1b518e0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokietija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=70"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokietija\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-027
+    - c-164773
 
 <a id="claim-t-181185"></a>
-- t-019
+- t-049
   global_id: t-181185
-  teiginys: 'Į Vokietijos protestantiškus universitetus išvykę studentai dažnai grįždavo protestantais.'
+  teiginys: "Į Vokietijos protestantiškus universitetus išvykę studentai dažnai grįždavo protestantais."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "597743-598291; hash=940d2277bd2f027115d7c87b620a6bb36ec8e1fc5c7dc3aa4e8254ff9ea60dc2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Protestantai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokietija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Protestantai: mention_match, group, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokietija\" parinktas kaip owner_note_path. Targetas \"Protestantai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-164736
 
 <a id="claim-t-181186"></a>
-- t-020
+- t-023
   global_id: t-181186
-  teiginys: 'Vokietija Lietuvą laikė sudedamąja SSRS dalimi ir iš pradžių ją administravo karinė valdžia, o 1941 m. liepos pabaigoje įvestas civilinis okupacinis valdymas.'
+  teiginys: "Vokietija Lietuvą laikė sudedamąja SSRS dalimi ir iš pradžių ją administravo karinė valdžia, o 1941 m. liepos pabaigoje įvestas civilinis okupacinis valdymas."
+  temporaliniai_duomenys: "įvykio data: 1941 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys yra pilnas ir tiksliai perteikia Vokietijos okupacinio valdymo eigą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "410247-410620; hash=4368a7b3eecd1b2e80fbde660775fab781b8fe00c363e860854a904009b7cd7b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokietija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokietija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-017
+    - c-164754
 
 <a id="claim-t-181187"></a>
-- t-021
+- t-046
   global_id: t-181187
-  teiginys: 'Iš Vokietijos ir toliau buvo kviečiami svečiai, o kovoms imta skelbti specialius kryžiaus žygius.'
+  teiginys: "Iš Vokietijos ir toliau buvo kviečiami svečiai, o kovoms imta skelbti specialius kryžiaus žygius."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "99787-100048; hash=cdab822a28ab19a581f2ea1fea8b2dfe8b6a64e7c285d27cb769e76a44b72b91; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokietija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžius: mention_match, thing, gap=78"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokietija\" parinktas kaip owner_note_path. Targetas \"Kryžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-023
+    - c-164764
 
 <a id="claim-t-181188"></a>
-- t-022
+- t-057
   global_id: t-181188
-  teiginys: 'Vokietija, po Antrojo pasaulinio karo prievarta išstumta iš Rytprūsių (dabartinės Kaliningrado srities), neturėdama sienos su Lietuva, nepretendavo į Klaipėdos kraštą, kurio daugumą gyventojų sudarė lietuviai.'
+  teiginys: "Vokietija, po Antrojo pasaulinio karo prievarta išstumta iš Rytprūsių (dabartinės Kaliningrado srities), neturėdama sienos su Lietuva, nepretendavo į Klaipėdos kraštą, kurio daugumą gyventojų sudarė lietuviai."
+  semantiniai_rysiai: "Vokietija priklausė Rytprūsiai (0.63)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "525239-525678; hash=89b3c84fb88a776f77ed4265ba25f96da1caed1627c40ca0bb1431f50760ef3c; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Rytprūsiai: 0.63"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vokietija: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Rytprūsiai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Pasakymas, kad Vokietija buvo išstumta iš Rytprūsių, rodo ankstesnį ryšį su šia teritorija, bet nuosavybė neišplėtota."
   pagrindžia:
-    - c-026
+    - c-164768
 
 <a id="claim-t-181189"></a>
-- t-023
+- t-015
   global_id: t-181189
-  teiginys: 'Lietuvos diplomatijoje buvo siūloma susigrąžinti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija.'
+  teiginys: "Lietuvos diplomatijoje buvo siūloma susigrąžinti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija."
+  temporaliniai_duomenys: "įvykio data: 1935 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "358141-358758; hash=9971a04daf6672b321b663bf3fefa21ccb229ad7364628130d83d1b26ddfccc9; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> A. Smetona: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokietija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokietija\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-013
+    - c-164748
 
 <a id="claim-t-181191"></a>
-- t-024
+- t-043
   global_id: t-181191
-  teiginys: 'Rygos pasiuntiniai popiežiui pranešė, kad buvo svarstytas Gedimino laiškų, rašytų į Vokietiją, tikrumas.'
+  teiginys: "Rygos pasiuntiniai popiežiui pranešė, kad buvo svarstytas Gedimino laiškų, rašytų į Vokietiją, tikrumas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "174288-175183; hash=a0016b9d52fe1aad71050fbdcbeadbf7a74bcaf263914228708704a5ee204d48; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokietija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokietija\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-164737
 
 <a id="claim-t-181192"></a>
-- t-025
+- t-014
   global_id: t-181192
-  teiginys: '1928 m. Lietuva su Vokietija pasirašė net aštuonias sutartis.'
+  teiginys: "1928 m. Lietuva su Vokietija pasirašė net aštuonias sutartis."
+  temporaliniai_duomenys: "sutarties data: 1928 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "320247-320594; hash=e1728ec43e1a7d693e6c377dae858fe740dff9624facec04d7beacb20862e184; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> A. Voldemaras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokietija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "A. Voldemaras: mention_match, person, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokietija\" parinktas kaip owner_note_path. Targetas \"A. Voldemaras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-164738
 
 <a id="claim-t-181193"></a>
-- t-026
+- t-039
   global_id: t-181193
-  teiginys: '1935 m. Stasys Lozoraitis siūlė Lietuvai atkurti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija.'
+  teiginys: "1935 m. Stasys Lozoraitis siūlė Lietuvai atkurti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija."
+  temporaliniai_duomenys: "įvykio data: 1935 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citatoje pateikta memorandumo pozicija, todėl reikalinga atribucija."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "358141-358758; hash=9971a04daf6672b321b663bf3fefa21ccb229ad7364628130d83d1b26ddfccc9; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> A. Smetona: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokietija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=54"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokietija\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-013
+    - c-164748
 
 <a id="claim-t-181194"></a>
-- t-027
+- t-056
   global_id: t-181194
-  teiginys: 'Pabėgėlių gretas papildė nacių okupacijos metais prievarta išvežti į Vokietiją dirbti lietuviai.'
+  teiginys: "Pabėgėlių gretas papildė nacių okupacijos metais prievarta išvežti į Vokietiją dirbti lietuviai."
+  semantiniai_rysiai: "Lietuviai keliavo į Vokietija (0.84)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "460405-460711; hash=45920e06dfc34ccb8310049798a937daa36f8a13d0ad8fe36af61c75c8ba440b; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Vokietija: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vokietija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo lietuvių prievartinį išvežimą į Vokietiją."
   pagrindžia:
-    - c-015
+    - c-164751
 
 <a id="claim-t-181195"></a>
-- t-028
+- t-030
   global_id: t-181195
-  teiginys: 'Susitikime dalyvavo Vokietijos pasiuntiniai, Silezijos kunigaikščiai ir Hanzos atstovai.'
+  teiginys: "Susitikime dalyvavo Vokietijos pasiuntiniai, Silezijos kunigaikščiai ir Hanzos atstovai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "523336-523905; hash=8831aaa45c4f9669960a6fd62ecfd05ade86254f4c0bbc23cca78b194e26c714; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Hanza: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokietija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Hanza: mention_match, group, gap=52"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokietija\" parinktas kaip owner_note_path. Targetas \"Hanza\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-024
+    - c-164765
 
 <a id="claim-t-181196"></a>
-- t-029
+- t-044
   global_id: t-181196
-  teiginys: 'Karolis Tryrietis 1323 m. rugpjūčio viduryje buvo Vokietijoje.'
+  teiginys: "Karolis Tryrietis 1323 m. rugpjūčio viduryje buvo Vokietijoje."
+  semantiniai_rysiai: "Karolis Tryrietis gyveno Vokietija (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1323 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko trumpą faktą, o pradiniame teiginyje buvo nuorodos ir OCR triukšmo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "99787-100048; hash=cdab822a28ab19a581f2ea1fea8b2dfe8b6a64e7c285d27cb769e76a44b72b91; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Vokietija: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Karolis Tryrietis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vokietija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claim tiesiogiai nurodo Karolio Tryriečio buvimą Vokietijoje."
   pagrindžia:
-    - c-020
+    - c-164757
 
 <a id="claim-t-181197"></a>
-- t-030
+- t-050
   global_id: t-181197
-  teiginys: 'Išvykę į Vokietijos universitetus jaunuoliai dažnai vėl pereidavo į protestantizmą.'
+  teiginys: "Išvykę į Vokietijos universitetus jaunuoliai dažnai vėl pereidavo į protestantizmą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "597907-598517; hash=b0c0b5f244a93dcd2a8df959aeae8f1d236a9e3e55b77ec1921c5454935f1931; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Namas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokietija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Namas: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokietija\" parinktas kaip owner_note_path. Targetas \"Namas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-016
+    - c-164752
 
-<a id="claim-t-181199"></a>
-- t-031
-  global_id: t-181199
-  teiginys: 'Pasiuntiniai su vainikais, išgirdę apie pasienio trukdymus, grįžo į Vokietiją.'
+<a id="claim-t-181205"></a>
+- t-028
+  global_id: t-181205
+  teiginys: "Pasiuntiniai su vainikais, išgirdę apie pasienio trukdymus, grįžo į Vokietiją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1017926-1018122; hash=b2906dcd8ae20586c7775ebe0bf8ca0cd1643777e5a502a9872cef391800e3ac; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokietija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokietija\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-021
+    - c-164759
 
 <a id="claim-t-181200"></a>
-- t-032
+- t-036
   global_id: t-181200
-  teiginys: 'Lietuvių konferencija numatė santykius su Vokietija, jeigu ši prieš Taikos konferenciją pripažintų Lietuvos valstybę.'
+  teiginys: "Lietuvių konferencija numatė santykius su Vokietija, jeigu ši prieš Taikos konferenciją pripažintų Lietuvos valstybę."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "597743-598291; hash=940d2277bd2f027115d7c87b620a6bb36ec8e1fc5c7dc3aa4e8254ff9ea60dc2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokietija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokietija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-164733
 
 <a id="claim-t-181201"></a>
-- t-033
+- t-042
   global_id: t-181201
-  teiginys: 'LAF aktyvistai per ryšininkus iš Vokietijos siuntė instrukcijas dėl Lietuvos valstybingumo atkūrimo ir būsimo sukilimo.'
+  teiginys: "LAF aktyvistai per ryšininkus iš Vokietijos siuntė instrukcijas dėl Lietuvos valstybingumo atkūrimo ir būsimo sukilimo."
+  temporaliniai_duomenys: "įvykio data: 1940 m.; įvykio data: 1941 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys yra pilnas ir aiškiai susieja Vokietiją su LAF veikla."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "394583-395729; hash=a054745d76a5e8975546a820a78b400bb756d8d9bdaf55cff390c5c6abd337ae; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokietija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokietija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-164735
 
 <a id="claim-t-181202"></a>
-- t-034
+- t-052
   global_id: t-181202
-  teiginys: '1940 m. birželio 16 d. sovietų divizijos per Lietuvos teritoriją strategiškai atkirtusios Latviją ir Estiją nuo Vokietijos padėjo okupuoti abi šalis.'
+  teiginys: "1940 m. birželio 16 d. sovietų divizijos per Lietuvos teritoriją strategiškai atkirtusios Latviją ir Estiją nuo Vokietijos padėjo okupuoti abi šalis."
+  temporaliniai_duomenys: "įvykio data: 1940 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys prasidėjo skyriaus antrašte ir buvo negramatiškas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "382778-383449; hash=ccb84fb4c3acddf16818a4a27ebf892f88af751829339f8517adb0eefc9fecc1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokietija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokietija\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-164731
 
 <a id="claim-t-181203"></a>
-- t-035
+- t-020
   global_id: t-181203
-  teiginys: '1940 m. birželio 16 d. sovietų divizijos per Lietuvą strategiškai atkirtusios Latviją ir Estiją nuo Vokietijos.'
+  teiginys: "1940 m. birželio 16 d. sovietų divizijos per Lietuvą strategiškai atkirtusios Latviją ir Estiją nuo Vokietijos."
+  temporaliniai_duomenys: "įvykio data: 1940 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "382778-383449; hash=ccb84fb4c3acddf16818a4a27ebf892f88af751829339f8517adb0eefc9fecc1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokietija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokietija\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-164731
 
 <a id="claim-t-181204"></a>
-- t-036
+- t-040
   global_id: t-181204
-  teiginys: 'Kaltinamieji teigė, kad Klaipėdą laiko Vokietijos dalimi ir nurodymus gaudavo iš Vokietijos nacių.'
+  teiginys: "Kaltinamieji teigė, kad Klaipėdą laiko Vokietijos dalimi ir nurodymus gaudavo iš Vokietijos nacių."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "363075-363463; hash=edeeb5c2cfd7c0f066f93d7280771084bcb6752bf1878df77d314feb64b58c45; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-022
+    - c-164760
+
+<a id="claim-t-181205"></a>
+- t-028
+  global_id: t-181205
+  teiginys: "Pasiuntiniai su vainikais, išgirdę apie pasienio trukdymus, grįžo į Vokietiją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1017926-1018122; hash=b2906dcd8ae20586c7775ebe0bf8ca0cd1643777e5a502a9872cef391800e3ac; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokietija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokietija\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  pagrindžia:
+    - c-164759
 
 <a id="claim-t-181206"></a>
-- t-038
+- t-032
   global_id: t-181206
-  teiginys: 'Karolis Tryrietis 1323 m. rugpjūčio viduryje dar buvo Vokietijoje.'
+  teiginys: "Karolis Tryrietis 1323 m. rugpjūčio viduryje dar buvo Vokietijoje."
+  semantiniai_rysiai: "Karolis Tryrietis gyveno Vokietija (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1323 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "99787-100048; hash=cdab822a28ab19a581f2ea1fea8b2dfe8b6a64e7c285d27cb769e76a44b72b91; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Vokietija: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Karolis Tryrietis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vokietija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claim tiesiogiai nurodo, kad Karolis Tryrietis tuo metu buvo Vokietijoje."
   pagrindžia:
-    - c-020
+    - c-164757
 
 <a id="claim-t-181208"></a>
-- t-039
+- t-038
   global_id: t-181208
-  teiginys: '1928 m. Lietuva su Vokietija pasirašė net aštuonias sutartis ir su ja pasiekė daugiausia užsienio politikos susitarimų.'
+  teiginys: "1928 m. Lietuva su Vokietija pasirašė net aštuonias sutartis ir su ja pasiekė daugiausia užsienio politikos susitarimų."
+  temporaliniai_duomenys: "sutarties data: 1928 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs ir buvo per platus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "319678-320434; hash=fc6ed6c36ba0daf125def5fb6716aef4a2ea41f6e536614f2717eb464c2310c5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokietija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokietija\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-018
+    - c-164755
 
 <a id="claim-t-181209"></a>
-- t-040
+- t-021
   global_id: t-181209
-  teiginys: 'Aktyvistai per ryšininkus iš Vokietijos siuntė instrukcijas dėl Lietuvos valstybingumo atkūrimo ir būsimo sukilimo detalių.'
+  teiginys: "Aktyvistai per ryšininkus iš Vokietijos siuntė instrukcijas dėl Lietuvos valstybingumo atkūrimo ir būsimo sukilimo detalių."
+  temporaliniai_duomenys: "įvykio data: 1940 m.; įvykio data: 1941 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "394583-395729; hash=a054745d76a5e8975546a820a78b400bb756d8d9bdaf55cff390c5c6abd337ae; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokietija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokietija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-164735
 
 <a id="claim-t-181210"></a>
-- t-041
+- t-010
   global_id: t-181210
-  teiginys: 'Vilniaus konferencijoje svarstyta, kad Lietuvos interesai labiau krypsta į Vakarus, tai yra į Vokietiją.'
+  teiginys: "Vilniaus konferencijoje svarstyta, kad Lietuvos interesai labiau krypsta į Vakarus, tai yra į Vokietiją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "597743-598291; hash=940d2277bd2f027115d7c87b620a6bb36ec8e1fc5c7dc3aa4e8254ff9ea60dc2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokietija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=55"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokietija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-164733
 
 <a id="claim-t-183107"></a>
-- t-042
+- t-054
   global_id: t-183107
-  teiginys: 'Dvasininkais besirengiantys studentai paprastai vykdavo į Krokuvą, o kiti mokėsi Vokietijos, Italijos ir Prancūzijos universitetuose.'
+  teiginys: "Dvasininkais besirengiantys studentai paprastai vykdavo į Krokuvą, o kiti mokėsi Vokietijos, Italijos ir Prancūzijos universitetuose."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "511698-512076; hash=f6da2e1d286ee909a082eaf0868744de7f11ceae4507258395c45d0c4b0d285c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Italija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokietija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Italija: mention_match, place, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokietija\" parinktas kaip owner_note_path. Targetas \"Italija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
-    - c-028
+    - c-166492
+
+<a id="claim-t-193656"></a>
+- t-059
+  global_id: t-193656
+  teiginys: "Lietuvos pagrindinėmis užsienio prekybos partnerėmis tapo Vokietija (pirmoje vietoje) ir Lenkija (antroje vietoje)."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "514448-514749; hash=6e07a7aaa2c563dc5df13b67b2f8efc27722cba46bde5100b5e57cc7d09e6a5a; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176325
 - susijęs iš [[objektai/asmenys/Albertas Didysis.md#claim-t-184043|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]: Albertas Didysis buvo Vokietijoje gimęs pamokslininkų ordino kunigas, garsėjęs neprilygstamu išsilavinimu.
 - susijęs iš [[objektai/asmenys/Albertas Didysis.md#claim-t-56968|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]: Albertas Didysis buvo Vokietijoje gimęs pamokslininkų ordino kunigas, garsėjęs neprilygstamu išsilavinimu.
 - susijęs iš [[objektai/asmenys/Albertas Didysis.md#claim-t-56969|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]: Albertas Didysis buvo Vokietijoje gimęs pamokslininkų ordino kunigas, garsėjęs neprilygstamu išsilavinimu.
@@ -367,6 +891,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179701|Švitrigaila]]: Švitrigailos sąjungos didino pasitikėjimą ir išplėtė prekybą iki atokiausių Vokietijos žemių.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179728|Švitrigaila]]: Švitrigailos sąjungos didino pasitikėjimą ir išplėtė prekybą iki atokiausių Vokietijos žemių.
 - susijęs iš [[objektai/autoriai/Dreyer.md#claim-t-88055|Dreyer]]: Dreyerio veikale buvo paskelbtas Gedimino laiškas Šiaurės Vokietijos pajūrio miestams.
+- susijęs iš [[objektai/autoriai/Reichardas.md#claim-t-191655|Reichardas]]: Narbutas mini Reichardą kaip Didžiojo Vokietijos žemėlapio vadovą, pasitelktą prekybos keliui nužymėti.
 - susijęs iš [[objektai/grupes/Antantė.md#claim-t-19634|Antantė]]: Antantės šalys pareikalavo, kad Vokietija leistų panaudoti savo dalinius bolševizmui stabdyti.
 - susijęs iš [[objektai/grupes/Antantė.md#claim-t-19637|Antantė]]: Antantė pripažino, kad Lietuvos Taryba iškėlė nepriklausomybės klausimą ir išsivadavo iš Vokietijos politikos diktato.
 - susijęs iš [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti.md#claim-t-168144|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija)]]: Centralinis Komitetas per atstovus Skandinavijoje ir Šveicarijoje rūpinosi lietuvių belaisviais Vokietijoje.
@@ -688,6 +1213,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
 - susijęs iš [[objektai/grupes/Sovietų Sąjunga.md#claim-t-74927|Sovietų Sąjunga]]: 1940 m. birželio 15 d. Sovietų Sąjunga, realizuodama Molotovo–Ribentropo paktą, okupavo ir aneksavo Lietuvos Respubliką.
 - susijęs iš [[objektai/grupes/Tautų Sąjunga.md#claim-t-181336|Tautų Sąjunga]]: Įsileidusi sovietų bazes Lietuva prarado viltis būti išrinkta į Tautų Sąjungos Tarybą.
 - susijęs iš [[objektai/grupes/Tilžės gestapo būrys.md#claim-t-20049|Tilžės gestapo būrys]]: Tilžės gestapo būrys 1941 m. birželio 24–27 d. Gargžduose, Kretingoje ir Palangoje sušaudė 526 žydus.
+- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-192476|Totoriai]]: Narbutas rašo, kad totorių puldinėjimai tuo metu palietė Lenkiją ir Polesę nuo Bugo.
 - susijęs iš [[objektai/grupes/Valstybės gynimo taryba.md#claim-t-20058|Valstybės gynimo taryba (institucija)]]: Valstybės gynimo taryba priėmė kariuomenės perorganizavimo planą, pagal kurį apie 20 proc. biudžeto teko krašto gynybai.
 - susijęs iš [[objektai/grupes/Varmiai.md#claim-t-78538|Varmiai]]: 1260 m. Klaipėdoje varmiai minimi tarp Ordino pavaldžių užgrobtų žemių prievarta buriamų karių prieš Lietuvą.
 - susijęs iš [[objektai/grupes/Varmiai.md#claim-t-78540|Varmiai]]: Varmės, Notangos ir Bartos prūsai, nusilpninti brolių ir kunigaikščio, davė įkaitų ir pasidavė tikėjimui bei broliams.
@@ -814,7 +1340,6 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
 - susijęs iš SSRS ir Lietuvos savitarpio pagalbos sutartis (1939 m. spalio 10 d.): Pagal 1939 m. spalio 10 d. sutartį Lietuva gavo Vilnių ir dalį teritorijos, bet turėjo įsileisti sovietų karines bazes.
 - susijęs iš SSRS ir Lietuvos savitarpio pagalbos sutartis (1939 m. spalio 10 d.): Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietuva prarado neutralios politikos statusą ir dalį suvereniteto.
 - susijęs iš SSRS ir Lietuvos savitarpio pagalbos sutartis (1939 m. spalio 10 d.): 1939 m. spalio 10 d., spaudžiant Josifui Stalinui ir Viačeslavui Molotovui, pasirašyta SSRS ir Lietuvos savitarpio pagalbos sutartis.
-- susijęs iš Schützo Prūsijos kronika: Schützo Prūsijos kronika minima kaip šaltinis apie viduramžių riterių puotas prieš karo žygius.
 - susijęs iš Sovietų Lietuvos manifestas (1918 m. gruodžio 16 d.): Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 dienos manifestu deklaravo Sovietų Lietuvą.
 - susijęs iš Sovietų Rusijos dekretas dėl Sovietų Lietuvos pripažinimo: Vladimiro Lenino pasirašytu dekretu Sovietų Rusija pripažino Sovietų Lietuvą.
 - susijęs iš Specimen Juris publici Lubecensis: Gedimino laiškas Šiaurės Vokietijos pajūrio miestams buvo įdėtas Dreyerio veikale „Specimen Juris publici Lubecensis“.
@@ -951,7 +1476,6 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
 - susijęs iš Ventės ragas: Kryžiuočiai prie Nemuno žiočių, Ventės rage, statė pilį, vadintą Vindenburgu.
 - susijęs iš Ventės ragas: 1360 m. kryžiuočiai tvirtinosi Nemuno žemupyje ir statė naują pilį prie Nemuno žiočių, Ventės rage, vadintą Vindenburgu.
 - susijęs iš Vilijampolė: 1941 m. birželio 26 d. Vilijampolėje lietuvių talkininkai dalyvavo SD inspiruotuose žiauriuose pogromuose.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Pasak autoriaus, Gediminas, statydindamas pilį, iškasė Vilnelei kitą vagą.
 - susijęs iš Vilnia: Gediminas, statydindamas pilį, iškasė Vilniai naują vagą ir iškastomis žemėmis paaukštino Pilies kalną.
 - susijęs iš Vilniaus sporto rūmai: Lietuvos Persitvarkymo Sąjūdžio Steigiamasis suvažiavimas vyko Vilniaus sporto rūmuose 1988 m. spalio 22–23 d.
 - susijęs iš Vilnius: Švitrigailos valdymo laikais Vilniaus miestietis Bomannas prekiavo su Gdansku.
@@ -1018,6 +1542,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
     esant tokiai liūdnai Bažnyčios būklei, jam buvo labai patogi
     dirva plisti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1037,6 +1562,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
     Užtat sukruto sujudo Maskva – V. Molotovas pakvietė atvykti į Mas-
     kvą ministrą Juozą Urbšį.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1055,6 +1581,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
     svarbi prekybos ir laivininkystės sutartis, o 1928 m. sausio 29 d. po ilgų
     ir sunkių derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1077,6 +1604,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
     vos teritoriją strategiškai atkirtus Latviją ir Estiją nuo Vokietijos, žaibu
     okupuotos ir dvi gretimos Baltijos valstybės.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1103,6 +1631,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
     ninku – teisininkas, lietuviškų laikraščių redaktorius A. Smetona, tikintis,
     Lietuvių konferencijos Vilniuje prezidiumas (1917 m. rugsėjis)
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1134,6 +1663,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
     Vokietija – manyta, jog „Vokietijos vadovaujamoje Naujoje Europoje bus
     suteikta visoms tautoms teisė tvarkytis pas save, kaip nori“.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1155,6 +1685,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
     testantizmą, o grįžę namo po kiek laiko vėl pereidavo į kata-
     likybę.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1182,6 +1713,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
     tį, ištisai visą abiejų besitariančių pusių priesaikomis pa­
     tvirtintą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1198,6 +1730,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
     stumtelėjo radikalesne kryptimi, pabrėžęs, kad politika su Lenkija nesi-
     keičia, tačiau be Vilniaus Lietuva nėra vienas kūnas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1220,6 +1753,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
     vingai tąsėsi su karine administracija ir Berlynu, kur dėlioti planai su-
     jungti Lietuvą personaline unija su Saksonija arba Prūsija.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1239,6 +1773,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
     1579 m. vasarą pats karalius iš Vilniaus išžygiavo prieš caro
     kariuomenę, kuri buvo suspiesta Pskove.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1260,6 +1795,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
     pasirašė papildomą slaptąjį protokolą, – pasidalijo regioną įtakos sfero-
     mis: Suomija, Estija ir Latvija atiteko sovietams, o Lietuva – Vokietijai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1280,6 +1816,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
     bes, pasisakė už trijų šalių karinę sąjungą, tačiau A. Smetona ir premjeras
     J. Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1298,6 +1835,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
     geidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Por-
     tugaliją išvyko į JAV.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1313,6 +1851,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
     (angl. displaced persons (DP) – perkeltieji asmenys) – karo pabėgėlių, dėl
     įvairių priežasčių atsidūrusių už tėvynės ribų, stovyklas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1333,6 +1872,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
     mokytis svetur ir kad vietoje būtų galima paruošti didžiai rei-
     kalingų katalikų šviesuolių su aukštuoju mokslu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1350,6 +1890,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
     Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto
     (Ostlando) reicho komisariatas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1375,6 +1916,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
     ambicijų Vilniuje, tačiau būtent su Vokietija 1928 m. pasirašytos net aš-
     tuonios sutartys ir pasiekta daugiausia.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1390,6 +1932,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
     likų kariuomenes Trisdešimtmečio karo mūšių laukuose (1618-
     1648 m.), Vokietijoje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1410,6 +1953,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
     buvo pagarbiai ir draugiškai priim­
     tas].
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1425,6 +1969,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
     Išgirdę apie pasienio trukdymus, tie pasiuntiniai su vainikais grįžo
     Vokietijon. Vainikavimas susitrukdė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1443,6 +1988,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
     vo iš Vokietijos nacių, o patys buvo tik jų skyrius, kad nurodymus jiems
     davė nacių vadai Valteris R.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1458,6 +2004,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
     lūs kryžiaus žygiai. Tačiau visos akcijos centras jau buvo ordi-
     nas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1480,6 +2027,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
     riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
     niai^2 ).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1497,6 +2045,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
     diškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“
     statuso (panašaus į Dancigo (dabar Gdanskas)).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1517,6 +2066,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
     čio demografinė padėtis pasikeitė lietuvių naudai, lenkų Vilniuje liko
     20  proc.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1534,6 +2084,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
     pats magistras, būdamas pasauliečiu, užsivilko drauge su dideliu būriu savo kilmingųjų
     šio Ordino vienuoli© apsiaustą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1554,11 +2105,583 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
     vykti mokytis tik turtingųjų bajorų vaikai, todėl mokytų žmo-
     nių buvo nedaug.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-042
+
+- c-029
+  santrauka: 'Lietuvos pagrindinėmis užsienio prekybos partnerėmis tapo Vokietija (pirmoje vietoje) ir Lenkija (antroje vietoje).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau krizė privertė Lietuvos eksportą persiorientuoti iš
+    nestabilių Rytų rinkų į reiklesnes Vakarų rinkas. Lietuvos pagrindinėmis
+    užsienio prekybos partnerėmis tapo Vokietija (pirmoje vietoje) ir Lenkija
+    (antroje vietoje). Greitai persiorientavusi į Vakarus Lietuvos ekonomika
+    išvengė nuosmukio.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-043
+
+## Citatos
+
+- id: c-24595
+  citata_originali: |
+    **Protestantizmo plitimas.** Protestantizmas labai greitai pa-
+    siekė Lietuvą. 1525 m. Lietuvos pašonėje priėmė protestantizmą
+    kryžiuočių ordino magistras ir daugumas brolių. Be to, daug didi-
+    kų vaikų, išvažiavę mokytis į Vokietijos universitetus, užsikrėsda-
+    vo protestantų mokslu, kurį parsiveždavo kartu ir į Lietuvą; čia,
+    esant tokiai liūdnai Bažnyčios būklei, jam buvo labai patogi
+    dirva plisti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181170
+
+- id: c-164729
+  citata_originali: |
+    Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų (formaliai
+    kariuomenė padidinta, jei kariaujančios šalys peržengtų Lietuvos sieną).
+    Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentro-
+    pui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp
+    Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į
+    SSRS įtakos sferą (už tai Vokietija gavo Liublino vaivadiją), Vokietijos
+    spaudimą Lietuvai kaip ranka nuėmė.
+    Užtat sukruto sujudo Maskva – V. Molotovas pakvietė atvykti į Mas-
+    kvą ministrą Juozą Urbšį.
+  citata_rodoma: "Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentro-\npui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp \nReicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į \nSSRS įtakos sferą (už tai Vokietija gavo Liublino vaivadiją), Vokietijos \nspaudimą Lietuvai kaip ranka nuėmė. \nUžtat sukruto sujudo Maskva – V."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181164
+    - t-181176
+
+- id: c-164730
+  citata_originali: |
+    Kadangi Lietuva be vidinių skrupulų laikė „klaipėdiečius“ lie-
+    tuviais, skaičiavo krašte esant 50,8 proc. lietuvių. Lietuva įgijo neužšalantį
+    uostą.
+    Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių
+    dėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių,
+    svarbi prekybos ir laivininkystės sutartis, o 1928 m. sausio 29 d. po ilgų
+    ir sunkių derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis.
+  citata_rodoma: "Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių \ndėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių, \nsvarbi prekybos ir laivininkystės sutartis, o 1928 m. sausio 29 d. po ilgų \nir sunkių derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181182
+    - t-181180
+
+- id: c-164731
+  citata_originali: |
+    karą, neturint galimybės patiems apginti nepriklausomybę, pasirinkti
+    kiti būdai išlikti, priešintis, bandyti išsaugoti tautą, jos kalbą ir kultūrą
+    ir laukta palankaus momento Lietuvos valstybei atkurti. Lietuvių tautos
+    lūkesčiai gyventi savo valstybėje išsipildys tik baigiantis Šaltajam karui,
+    kai antrą kartą XX a. pavyks atkurti šalies nepriklausomybę, atgauti jos
+    tarptautinį pripažinimą ir tapti visateise Vakarų pasaulio ir demokratinės
+    Europos dalimi.
+    Lietuvos sovietizacija
+    1940 m. birželio 16 d., sovietų divizijoms žygiu per Lietu-
+    vos teritoriją strategiškai atkirtus Latviją ir Estiją nuo Vokietijos, žaibu
+    okupuotos ir dvi gretimos Baltijos valstybės.
+  citata_rodoma: "Lietuvos sovietizacija\n1940 m. birželio 16 d., sovietų divizijoms žygiu per Lietu-\nvos teritoriją strategiškai atkirtus Latviją ir Estiją nuo Vokietijos, žaibu \nokupuotos ir dvi gretimos Baltijos valstybės."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181202
+    - t-181203
+
+- id: c-164733
+  citata_originali: |
+    Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos
+    valstybės modelio kontūrus – „nepriklausoma demokratiškai sutvarkyta
+    valstybė etnografinėmis ribomis su būtinai reikalingomis ekonominiam
+    gyvenimui korektyvomis“, kurios galutinę struktūrą turės nustatyti „su-
+    šauktas Steigiamasis Lietuvos Seimas Vilniuje, demokratiškai visų jos
+    gyventojų išrinktas“, užtikrintos kultūrinės teisės tautinėms mažumoms.
+    Jeigu Vokietija sutiktų pripažinti Lietuvos valstybę prieš Taikos konfe-
+    renciją, nustatyti tam tikrus, dar tikslintinus santykius su Vokietija, jeigu
+    tai nekenktų Lietuvos interesams, nes Lietuvos interesai „yra pasvirę ne
+    tiek į rytus /Rusiją/ ir ne tiek į pietus /Lenkiją/, kiek į vakarus /Vokieti-
+    ją/“. Konferencijoje išrinkta 20 asmenų Lietuvos Taryba (ji pradėjo veikti
+    rugsėjo 24 dieną) kaip vykdomasis Lietuvos žmonių organas, o jos pirmi-
+    ninku – teisininkas, lietuviškų laikraščių redaktorius A. Smetona, tikintis,
+    Lietuvių konferencijos Vilniuje prezidiumas (1917 m. rugsėjis)
+  citata_rodoma: "Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos \nvalstybės modelio kontūrus – „nepriklausoma demokratiškai sutvarkyta \nvalstybė etnografinėmis ribomis su būtinai reikalingomis ekonominiam \ngyvenimui korektyvomis“, kurios galutinę struktūrą turės nustatyti „su-\nšauktas Steigiamasis Lietuvos Seimas Vilniuje, demokratiškai visų jos \ngyventojų išrinktas“, užtikrintos kultūrinės teisės tautinėms mažumoms. \nJeigu Vokietija sutiktų pripažinti Lietuvos valstybę prieš Taikos konfe-\nrenciją, nustatyti tam tikrus, dar tikslintinus santykius su Vokietija, jeigu \ntai nekenktų Lietuvos interesams, nes Lietuvos interesai „yra pasvirę ne \ntiek į rytus /Rusiją/ ir ne tiek į pietus /Lenkiją/, kiek į vakarus /Vokieti-\nją/“. Konferencijoje išrinkta 20 asmenų Lietuvos Taryba (ji pradėjo veikti \nrugsėjo 24 dieną) kaip vykdomasis Lietuvos žmonių organas, o jos pirmi-\nninku – teisininkas, lietuviškų laikraščių redaktorius A."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181200
+    - t-181210
+
+- id: c-164735
+  citata_originali: |
+    giausia tai spontaniškas atsakas į sovietų politiką Lietuvoje, iš dalies jis
+    ruoštas – antisovietinio sukilimo idėją Vokietijos ir SSRS karo pradžioje
+    brandino buvusio Lietuvos pasiuntinio Berlyne Kazio Škirpos vadovauja-
+    mas 1940 m. lapkritį Berlyne grupės lietuvių emigrantų įkurtas Lietuvių
+    aktyvistų frontas (LAF), save laikęs pagrindiniu sukilimo organizatoriumi.
+    1941 m. birželio 26 d. sovietų nužudyti Pravieniškių lagerio
+    kaliniai ir prižiūrėtojai
+    Kauno gyventojai sveikina įžengusį vermachtą 1941 m.
+    (R. Mičiūno reprodukcija)
+
+    L I E T U V O S  I S T O R I J A
+    196
+    Aktyvistai rinko žinias iš sovietų valdomos Lietuvos, per ryšininkus iš
+    Vokietijos siuntė įvairias instrukcijas, nurodymus, kuriuose išskirtinis
+    dėmesys buvo kreipiamas į galimybes atkurti Lietuvos valstybingumą,
+    būsimo sukilimo detales. Kadangi karinė LAF dalis bendradarbiavo su
+    Abveru, nurodyta pirmiausia užimti tiltus, svarbiausius geležinkelio maz-
+    gus, oro uostus, fabrikus ir kt. LAF vadovybė pernelyg pasitikėjo nacių
+    Vokietija – manyta, jog „Vokietijos vadovaujamoje Naujoje Europoje bus
+    suteikta visoms tautoms teisė tvarkytis pas save, kaip nori“.
+  citata_rodoma: "Mičiūno reprodukcija)\n\nL I E T U V O S  I S T O R I J A\n196\nAktyvistai rinko žinias iš sovietų valdomos Lietuvos, per ryšininkus iš \nVokietijos siuntė įvairias instrukcijas, nurodymus, kuriuose išskirtinis \ndėmesys buvo kreipiamas į galimybes atkurti Lietuvos valstybingumą, \nbūsimo sukilimo detales. Kadangi karinė LAF dalis bendradarbiavo su \nAbveru, nurodyta pirmiausia užimti tiltus, svarbiausius geležinkelio maz-\ngus, oro uostus, fabrikus ir kt."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181209
+    - t-181201
+
+- id: c-164736
+  citata_originali: |
+    Tuo būdu jau buvo pakankamai
+    kandidatų aukštajai mokyklai, kuri buvo labai reikalinga, nes
+    daugelis jaunimo turėjo vykti toliau mokytis į užsienio univer-
+    sitetus. Daugelis vyko į Vokietiją; bet kadangi ten universitetai
+    buvo protestantiški, tai dažnai jie iš ten grįždavo protestantai.
+    Tais laikais būdavo labai paprastas reiškinys, kad jaunystėje
+    buvę protestantai, patekę į jėzuitų mokyklas, pasidarydavo ka-
+    talikais, išvykę į Vokietijos universitetus, vėl atvirsdavo į pro-
+    testantizmą, o grįžę namo po kiek laiko vėl pereidavo į kata-
+    likybę.
+  citata_rodoma: "Daugelis vyko į Vokietiją; bet kadangi ten universitetai\nbuvo protestantiški, tai dažnai jie iš ten grįždavo protestantai.\nTais laikais būdavo labai paprastas reiškinys, kad jaunystėje\nbuvę protestantai, patekę į jėzuitų mokyklas, pasidarydavo ka-\ntalikais, išvykę į Vokietijos universitetus, vėl atvirsdavo į pro-\ntestantizmą, o grįžę namo po kiek laiko vėl pereidavo į kata-\nlikybę."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181185
+    - t-181178
+
+- id: c-164737
+  citata_originali: |
+    Dar niekas nenutuokė juos buvus
+    kunigaikščio gudrybe ir apgaule, ypač, kai greitai kitas išti­
+    ko dalykas, kurio tikslų irgi negalima buvo suprasti. Mat
+    atvyko į popiežiaus rūmus misija žodžiu pareikšti popiežiui
+    apie Gedimino ryžtą pereiti į naują tikėjimą ir prašyti, kad
+    teiktųsi į Livoniją ir Lietuvą atsiųsti dievotų ir gerai išma­
+    nančių tikėjimo mokymą vyrų, kurie uoliai prisidėtų pildant
+    valdovo sumanymą. Atvykę taip pat Rygos miesto pasiun­
+    tiniai pranešė popiežiui, kad Gediminas prašęs Ordino ri­
+    terių, vyskupų ir Livonijos miestų tarpininkauti sudarant
+    taiką, kad dėl to tartasi ir kartu apsvarstytas valdovo laiškų,
+    rašytų į Vokietiją, tikrumas ir pagaliau po pasitarimų pas
+    jį išleista ori misija, kuri pagarbiai sutikta, iškilmingai pri­
+    imta ir kuri pagal turimus įgaliojimus sudarė taikos sutar­
+    tį, ištisai visą abiejų besitariančių pusių priesaikomis pa­
+    tvirtintą.
+  citata_rodoma: "Atvykę taip pat Rygos miesto pasiun­\ntiniai pranešė popiežiui, kad Gediminas prašęs Ordino ri­\nterių, vyskupų ir Livonijos miestų tarpininkauti sudarant\ntaiką, kad dėl to tartasi ir kartu apsvarstytas valdovo laiškų,\nrašytų į Vokietiją, tikrumas ir pagaliau po pasitarimų pas\njį išleista ori misija, kuri pagarbiai sutikta, iškilmingai pri­\nimta ir kuri pagal turimus įgaliojimus sudarė taikos sutar­\ntį, ištisai visą abiejų besitariančių pusių priesaikomis pa­\ntvirtintą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181173
+    - t-181191
+
+- id: c-164738
+  citata_originali: |
+    Lenkiją. Tapusi Tautų Sąjungos nare Vokietija nebegalėjo remti Lietuvos
+    ambicijų Vilniuje, tačiau būtent su Vokietija 1928 m. pasirašytos net aš-
+    tuonios sutartys ir pasiekta daugiausia. A. Voldemaras užsienio politiką
+    stumtelėjo radikalesne kryptimi, pabrėžęs, kad politika su Lenkija nesi-
+    keičia, tačiau be Vilniaus Lietuva nėra vienas kūnas.
+  citata_rodoma: "Tapusi Tautų Sąjungos nare Vokietija nebegalėjo remti Lietuvos \nambicijų Vilniuje, tačiau būtent su Vokietija 1928 m. pasirašytos net aš-\ntuonios sutartys ir pasiekta daugiausia. A."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181192
+
+- id: c-164739
+  citata_originali: |
+    Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo na-
+    cijos laisvės ir suverenumo simboliu, Lietuvos Nepriklausomybės diena,
+    davė pradžią tikrai Lietuvos nepriklausomybei, pagaliau aiškiai pasakant,
+    kur Taryba veda Lietuvą. Kovo 23 dieną Berlyne A. Smetonos vadovau-
+    jama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui
+    Georgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos
+    kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomy-
+    bę, bet pažymėjo, kad nustatomi glaudūs Lietuvos ir Vokietijos ryšiai…
+    gruodžio 11-osios rezoliucijos pagrindu.
+    Konstitucinė monarchija taip pat liko darbotvarkėje, nes Taryba ner-
+    vingai tąsėsi su karine administracija ir Berlynu, kur dėlioti planai su-
+    jungti Lietuvą personaline unija su Saksonija arba Prūsija.
+  citata_rodoma: "Kovo 23 dieną Berlyne A. Smetonos vadovau-\njama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui \nGeorgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos \nkaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomy-\nbę, bet pažymėjo, kad nustatomi glaudūs Lietuvos ir Vokietijos ryšiai… \ngruodžio 11-osios rezoliucijos pagrindu. \nKonstitucinė monarchija taip pat liko darbotvarkėje, nes Taryba ner-\nvingai tąsėsi su karine administracija ir Berlynu, kur dėlioti planai su-\njungti Lietuvą personaline unija su Saksonija arba Prūsija."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181172
+    - t-181163
+
+- id: c-164745
+  citata_originali: |
+    Pagaliau laimėjo lietuviai
+    ir karalius; lenkai irgi sutiko apsidėti mokesčiais. Lietuva noriai
+    pasižadėjo duoti 10.000 karių. Tuo būdu surinkus pinigų, prisi-
+    samdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisi-
+    gaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),
+
+    1579 m. vasarą pats karalius iš Vilniaus išžygiavo prieš caro
+    kariuomenę, kuri buvo suspiesta Pskove.
+  citata_rodoma: "000 karių. Tuo būdu surinkus pinigų, prisi-\nsamdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisi-\ngaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),\n\n1579 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181162
+    - t-181175
+
+- id: c-164747
+  citata_originali: |
+    Kariuomenės vadas gen. S. Raštikis balandį dalyvavo A. Hitlerio
+    50-mečio šventime, gegužę – maršalo Edvardo Rydzo-Smiglo (Edward
+    Rydz-Śmigły) kvietimu oficialiai lankėsi Lenkijoje. Aštrėjant santykiams
+    tarp didžiųjų valstybių, gegužę Lietuvos diplomatams nurodyta, kad
+    Lietuva laikysis griežto neutraliteto „kiekvienoje situacijoje ir kiekvienu
+    klausimu“.
+    Neutralumo įstatymu besiginantį Kauną sukrėtė naujiena apie nacių ir
+    sovietų nepuolimo sutartį 1939 m. rugpjūčio 23 d., kad Vokietija ir SSRS
+    pasirašė papildomą slaptąjį protokolą, – pasidalijo regioną įtakos sfero-
+    mis: Suomija, Estija ir Latvija atiteko sovietams, o Lietuva – Vokietijai.
+  citata_rodoma: "Neutralumo įstatymu besiginantį Kauną sukrėtė naujiena apie nacių ir \nsovietų nepuolimo sutartį 1939 m. rugpjūčio 23 d., kad Vokietija ir SSRS \npasirašė papildomą slaptąjį protokolą, – pasidalijo regioną įtakos sfero-\nmis: Suomija, Estija ir Latvija atiteko sovietams, o Lietuva – Vokietijai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181181
+    - t-181168
+
+- id: c-164748
+  citata_originali: |
+    1935 m. balandį
+    S. Lozoraitis įteikė prezidentui A. Smetonai slaptą memorandumą, kuria-
+    me išdėstė savo schemą: mes turime Klaipėdą, tačiau dėl to gresia pavojus,
+    mes neturime Vilniaus ir nėra vilties jį atgauti artimiausioje ateityje. Nega-
+    lime kautis dviejuose diplomatijos frontuose, todėl Lietuvai reikia susigrą-
+    žinti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija. Karinėje srityje
+    S. Raštikis zondavo karinio bendradarbiavimo su Latvija ir Estija galimy-
+    bes, pasisakė už trijų šalių karinę sąjungą, tačiau A. Smetona ir premjeras
+    J. Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai.
+  citata_rodoma: "Nega-\nlime kautis dviejuose diplomatijos frontuose, todėl Lietuvai reikia susigrą-\nžinti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija. Karinėje srityje \nS."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181189
+    - t-181193
+
+- id: c-164749
+  citata_originali: |
+    Per trejus–ketverius metus į JAV pasisekė atvykti
+    visiems norintiems lietuvių tremtiniams ir pabėgėliams (tokių buvo apie
+    30 tūkst.), kiti pasuko į Didžiąją Britaniją, Kanadą, Australiją.
+    1940 m. birželį išvykęs iš Lietuvos prezidentas A. Smetona nebuvo pa-
+    geidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Por-
+    tugaliją išvyko į JAV.
+  citata_rodoma: "1940 m. birželį išvykęs iš Lietuvos prezidentas A. Smetona nebuvo pa-\ngeidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Por-\ntugaliją išvyko į JAV."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181179
+
+- id: c-164751
+  citata_originali: |
+    Pabėgėlių gretas pa-
+    pildė nacių okupacijos metais prievarta išvežti į Vokietiją dirbti lietuviai.
+    Vokietijai pralaimėjus karą, kai kurie jų pateko į vadinamąsias dipukų
+    (angl. displaced persons (DP) – perkeltieji asmenys) – karo pabėgėlių, dėl
+    įvairių priežasčių atsidūrusių už tėvynės ribų, stovyklas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181194
+
+- id: c-164752
+  citata_originali: |
+    Daugelis vyko į Vokietiją; bet kadangi ten universitetai
+    buvo protestantiški, tai dažnai jie iš ten grįždavo protestantai.
+    Tais laikais būdavo labai paprastas reiškinys, kad jaunystėje
+    buvę protestantai, patekę į jėzuitų mokyklas, pasidarydavo ka-
+    talikais, išvykę į Vokietijos universitetus, vėl atvirsdavo į pro-
+    testantizmą, o grįžę namo po kiek laiko vėl pereidavo į kata-
+    likybę. Todėl katalikų dvasininkams ir jėzuitams buvo labai
+    svarbu įkurti savo aukštąją mokyklą, kad kuo mažiausia vyktų
+    mokytis svetur ir kad vietoje būtų galima paruošti didžiai rei-
+    kalingų katalikų šviesuolių su aukštuoju mokslu.
+  citata_rodoma: "Tais laikais būdavo labai paprastas reiškinys, kad jaunystėje\nbuvę protestantai, patekę į jėzuitų mokyklas, pasidarydavo ka-\ntalikais, išvykę į Vokietijos universitetus, vėl atvirsdavo į pro-\ntestantizmą, o grįžę namo po kiek laiko vėl pereidavo į kata-\nlikybę. Todėl katalikų dvasininkams ir jėzuitams buvo labai\nsvarbu įkurti savo aukštąją mokyklą, kad kuo mažiausia vyktų\nmokytis svetur ir kad vietoje būtų galima paruošti didžiai rei-\nkalingų katalikų šviesuolių su aukštuoju mokslu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181197
+
+- id: c-164754
+  citata_originali: |
+    Ištremtųjų
+    vietas turėjo užimti atkelti milijonai vokiečių.
+    Vokietija Lietuvą laikė sudedamąja SSRS dalimi ir iš pradžių ją ad-
+    ministravo karinė valdžia, o 1941 m. liepos pabaigoje įvestas civilinis
+    okupacinis valdymas. Liepos 17-osios nutarimu iš „buvusių laisvų
+    Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto
+    (Ostlando) reicho komisariatas.
+  citata_rodoma: "Vokietija Lietuvą laikė sudedamąja SSRS dalimi ir iš pradžių ją ad-\nministravo karinė valdžia, o 1941 m. liepos pabaigoje įvestas civilinis \nokupacinis valdymas. Liepos 17-osios nutarimu iš „buvusių laisvų \nLietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto \n(Ostlando) reicho komisariatas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181186
+
+- id: c-164755
+  citata_originali: |
+    Pasirodė, kad jis neturėjo naujų užsienio politikos idė-
+    jų, o A. Smetona stengėsi laikytis „vidurainės [A. Smetonos terminas –
+    Red.] linijos“ – nesusisieti su kokia nors konkrečia valstybe ar jų grupe.
+    A. Voldemaras buvo įsitikinęs, kad „mūsų priešų priešai yra mūsų drau-
+    gai“ ir laikėsi tautininkų pozicijos, jog Vilniaus klausimo sprendimas eina
+    per Maskvą ir Berlyną, todėl pragmatiškai ieškojo SSRS paramos prieš
+    VII Lietuvos žemės ūkio  ir pramonės parodos lankytojai
+    (Kaunas, 1928 m.)
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    159
+    Lenkiją. Tapusi Tautų Sąjungos nare Vokietija nebegalėjo remti Lietuvos
+    ambicijų Vilniuje, tačiau būtent su Vokietija 1928 m. pasirašytos net aš-
+    tuonios sutartys ir pasiekta daugiausia.
+  citata_rodoma: ")\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n159\nLenkiją. Tapusi Tautų Sąjungos nare Vokietija nebegalėjo remti Lietuvos \nambicijų Vilniuje, tačiau būtent su Vokietija 1928 m. pasirašytos net aš-\ntuonios sutartys ir pasiekta daugiausia."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181208
+
+- id: c-164756
+  citata_originali: |
+    Po 1629 m. paliaubų su ATR, Švedijos karaliaus Gustavo Adolfo
+    vadovaujama švedų kariuomenė ėmė skinti pergales prieš kata-
+    likų kariuomenes Trisdešimtmečio karo mūšių laukuose (1618-
+    1648 m.), Vokietijoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181169
+
+- id: c-164757
+  citata_originali: |
+    Diplom. T. IV, p. 1034-1035;
+    kad Karolis Tryrietis, dar 1323 m.
+    rugpjūčiui įpusėjus, buvo Vokietijo­
+    je. Apie jo priėmimą popiežiaus
+    rūmuose pasakoja Vygandas
+    M a r b u r g a s, p. 279; Adiit papam,
+    u quo honorifice et amicabiliter suscep­
+    tus est [Atvyko pas popiežių, kurio
+    buvo pagarbiai ir draugiškai priim­
+    tas].
+  citata_rodoma: "1034-1035;\nkad Karolis Tryrietis, dar 1323 m.\nrugpjūčiui įpusėjus, buvo Vokietijo­\nje. Apie jo priėmimą popiežiaus\nrūmuose pasakoja Vygandas\nM a r b u r g a s, p."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181206
+    - t-181196
+
+- id: c-164759
+  citata_originali: |
+    Lenkai dar labiau su­
+    stiprino sargybas, kad nepravažiuotų delegacija, kuri vežė vainikus.
+    Išgirdę apie pasienio trukdymus, tie pasiuntiniai su vainikais grįžo
+    Vokietijon. Vainikavimas susitrukdė.
+  citata_rodoma: "Išgirdę apie pasienio trukdymus, tie pasiuntiniai su vainikais grįžo\nVokietijon. Vainikavimas susitrukdė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181205
+    - t-181199
+
+- id: c-164760
+  citata_originali: |
+    Surinkta 34 tomai kaltinamosios medžiagos, teismo salės pasienyje išri-
+    kiuota 300 dėžių su įrodymais: svastikomis, vėliavomis, smogikų unifor-
+    momis, instrukcijomis, lapeliais, ginklais. Dauguma kaltinamųjų sakė,
+    kad žavisi nacizmu, Klaipėdą laiko Vokietijos dalimi, nurodymus gauda-
+    vo iš Vokietijos nacių, o patys buvo tik jų skyrius, kad nurodymus jiems
+    davė nacių vadai Valteris R.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181204
+
+- id: c-164764
+  citata_originali: |
+    Naujasis ordinas turėjo būti nuolatinė organizuota vokiečių
+    ir krikštytų čiabuvių karinė pajėga. Neišnyko nė senas paprati-
+    mas kviesti svečius iš Vokietijos; buvo pradėti skelbti net specia-
+    lūs kryžiaus žygiai. Tačiau visos akcijos centras jau buvo ordi-
+    nas.
+  citata_rodoma: "Neišnyko nė senas paprati-\nmas kviesti svečius iš Vokietijos; buvo pradėti skelbti net specia-\nlūs kryžiaus žygiai. Tačiau visos akcijos centras jau buvo ordi-\nnas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181187
+    - t-181167
+
+- id: c-164765
+  citata_originali: |
+    Atvyko
+    Jogaila su savo šimtais palydovų, Romos ciesorius Zigmantas
+    su savo žmona Barbora Cyleikaite, Jogailos antrosios žmonos
+    giminiete, — lydimi daugelio savo baronų; ir pats Vytautas su
+    gausybe savo lėnininkų pasiuntinių, didikų ir kunigaikščių.
+    Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
+    čiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­
+    zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­
+    niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­
+    riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
+    niai^2 ).
+  citata_rodoma: "Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­\nčiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­\nzūrijos kunigaikščiai, Maskvos d."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181195
+
+- id: c-164766
+  citata_originali: |
+    Be to, moderniosios Lietuvos
+    valstybės kūrėjai pretendavo į Mažosios Lietuvos žemes. Tiesa, Versalio
+    taikos konferencija (1919) nuo Vokietijos atskyrė tik dalį Mažosios Lietu-
+    vos – Klaipėdos kraštą, tačiau jo neatidavė Lietuvai. Beje, ne visi klaipė-
+    diškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“
+    statuso (panašaus į Dancigo (dabar Gdanskas)).
+  citata_rodoma: "Tiesa, Versalio \ntaikos konferencija (1919) nuo Vokietijos atskyrė tik dalį Mažosios Lietu-\nvos – Klaipėdos kraštą, tačiau jo neatidavė Lietuvai. Beje, ne visi klaipė-\ndiškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“ \nstatuso (panašaus į Dancigo (dabar Gdanskas))."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181183
+
+- id: c-164768
+  citata_originali: |
+    pabaigoje padėtis pasikeitė. Vokie-
+    tija, po Antrojo pasaulinio karo prievarta išstumta iš Rytprūsių (dabar-
+    tinės Kaliningrado srities), neturėdama sienos su Lietuva, nepretendavo
+    į Klaipėdos kraštą, kurio daugumą gyventojų sudarė lietuviai. Geryn
+    klostėsi santykiai su kaimyne Lenkija, mat Vilniuje per pusę šimtme-
+
+    L I E T U V O S  I S T O R I J A
+    256
+    čio demografinė padėtis pasikeitė lietuvių naudai, lenkų Vilniuje liko
+    20  proc.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181188
+
+- id: c-164773
+  citata_originali: |
+    Anaiptol, tu gausiai davei jiems visa, ko troško jo širdis.
+    Jo vadovavimo metais Ordinas taip sustiprėjo, kad neilgai trukus po jo mirties šiame
+    Ordine jau buvo priskaičiuojama du tūkstančiai brolių, gimusių kilmingose Vokietijos
+    šeimose. Jo šviesybė valdovas Konradas, Tiuringijos landgrafas, kurio giminaitis buvo ir
+    pats magistras, būdamas pasauliečiu, užsivilko drauge su dideliu būriu savo kilmingųjų
+    šio Ordino vienuoli© apsiaustą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181184
+
+- id: c-166492
+  citata_originali: |
+    Šiaip, kas norėdavo gauti aukštesniojo ir
+
+
+    aukštojo mokslo, turėdavo vykti į užsienį. Tie, kurie ruošėsi dvasi-
+    ninkais, paprastai vykdavo mokytis į Krokuvos universitetą, o
+    visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją,
+    Italiją ir Prancūziją. Kadangi į tolimuosius kraštus tegalėjo
+    vykti mokytis tik turtingųjų bajorų vaikai, todėl mokytų žmo-
+    nių buvo nedaug.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183107
+
+- id: c-176325
+  citata_originali: |
+    Tačiau krizė privertė Lietuvos eksportą persiorientuoti iš
+    nestabilių Rytų rinkų į reiklesnes Vakarų rinkas. Lietuvos pagrindinėmis
+    užsienio prekybos partnerėmis tapo Vokietija (pirmoje vietoje) ir Lenkija
+    (antroje vietoje). Greitai persiorientavusi į Vakarus Lietuvos ekonomika
+    išvengė nuosmukio.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193656
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Henrikas I Paukštininkas]]

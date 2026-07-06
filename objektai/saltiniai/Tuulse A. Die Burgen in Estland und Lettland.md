@@ -14,6 +14,18 @@ tags:
   - saltinis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Tuulse A. Die Burgen in Estland und Lettland
 
@@ -24,19 +36,40 @@ Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79). Dusburgi
 ## Teiginiai
 
 <a id="claim-t-60965"></a>
-- t-001
+- t-002
   global_id: t-60965
-  teiginys: 'A. Tuulse veikalas „Die Burgen in Estland und Lettland“ minimas kaip šaltinis apie Adažių pilį į šiaurės rytus nuo Rygos.'
+  teiginys: "A. Tuulse veikalas „Die Burgen in Estland und Lettland“ minimas kaip šaltinis apie Adažių pilį į šiaurės rytus nuo Rygos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "603281-603450; hash=32733d40a126b6684cb44d27042c8e22f1b044ebce90e00713373f1ea2c10eeb; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ryga: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tuulse A. Die Burgen in Estland und Lettland: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Ryga: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tuulse A. Die Burgen in Estland und Lettland\" parinktas kaip owner_note_path. Targetas \"Ryga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-61599
 
 <a id="claim-t-60966"></a>
-- t-002
+- t-001
   global_id: t-60966
-  teiginys: 'Viljandžio (Tuulse A., Die Burgen..., p. 79).'
+  teiginys: "Viljandžio (Tuulse A., Die Burgen..., p. 79)."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "600872-601052; hash=b9a6d71a514eba8257580d92154f8a40ab0b410d519c84a51faf483189f1b968; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Livonija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tuulse A. Die Burgen in Estland und Lettland: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Livonija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tuulse A. Die Burgen in Estland und Lettland\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
-    - c-001
-
+    - c-61598
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -47,6 +80,7 @@ Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79). Dusburgi
     Livonijoje (pietinėje Estijoje), į pietus nuo dab. Viljandžio (Tuulse A., Die Burgen..., p.
     79).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -61,8 +95,35 @@ Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79). Dusburgi
       552 D — castri Molendini novi, Jer.— Nûwenmul, Nûwemul; vėliau vok. Neuermūhlen,
     dab. Adažiai, pilis į šiaurės rytus nuo Rygos (Tuulse A., Die Burgen..., p. 133).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-61598
+  citata_originali: |
+    550 D.— in Carthusen, Jer — burc Karchuis; vok. Karkus, Karkuso resp. Karksio pilis
+    Livonijoje (pietinėje Estijoje), į pietus nuo dab. Viljandžio (Tuulse A., Die Burgen..., p.
+    79).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60966
+
+- id: c-61599
+  citata_originali: |
+    Kitą
+      552 D — castri Molendini novi, Jer.— Nûwenmul, Nûwemul; vėliau vok. Neuermūhlen,
+    dab. Adažiai, pilis į šiaurės rytus nuo Rygos (Tuulse A., Die Burgen..., p. 133).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60965

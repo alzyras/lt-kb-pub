@@ -19,6 +19,18 @@ tags:
 amziai:
   - 'XII'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Akonas
 
@@ -43,67 +55,169 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
 ## Teiginiai
 
 <a id="claim-t-179736"></a>
-- t-001
+- t-005
   global_id: t-179736
-  teiginys: 'Aprašęs Akono žlugimą 1291 m., Petras Dusburgietis pateikė Šventosios Žemės apraudojimą ir trumpą kryžiaus žygių istoriją.'
+  teiginys: "Aprašęs Akono žlugimą 1291 m., Petras Dusburgietis pateikė Šventosios Žemės apraudojimą ir trumpą kryžiaus žygių istoriją."
+  temporaliniai_duomenys: "įvykio data: 1291 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Dusburgiečio pasakojimą ir Akono žlugimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "47599-48169; hash=c58f89671246d0bede52f8caf9c67d1ca1203457b528ae5a0fc1f8953df8d1c2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dusburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Akonas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Dusburgas: mention_match, author, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Akonas\" parinktas kaip owner_note_path. Targetas \"Dusburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-163404
 
 <a id="claim-t-179737"></a>
-- t-002
+- t-007
   global_id: t-179737
-  teiginys: 'Henrikas Valpotas mirė lapkričio pradžioje ir buvo palaidotas Akone.'
+  teiginys: "Henrikas Valpotas mirė lapkričio pradžioje ir buvo palaidotas Akone."
+  semantiniai_rysiai: "Henrikas Valpotas buvo palaidotas Akonas (0.95)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "120769-121565; hash=fcae6d30cd86366537983fadcc9edc9d449d1997bb0e144f73bfbcaa18456bc2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_palaidotas -> Akonas: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Henrikas Valpotas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Akonas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys ir citata tiesiogiai sako, kad Henrikas Valpotas buvo palaidotas Akone."
   pagrindžia:
-    - c-007
+    - c-163408
 
 <a id="claim-t-179739"></a>
-- t-003
+- t-008
   global_id: t-179739
-  teiginys: 'Paėmus Akoną, brolis Henrikas Valpotas prie miesto sienų priešais Šv. Mikalojaus vartus pastatydino bažnyčią, ligoninę ir kitus namus.'
+  teiginys: "Paėmus Akoną, brolis Henrikas Valpotas prie miesto sienų priešais Šv. Mikalojaus vartus pastatydino bažnyčią, ligoninę ir kitus namus."
+  semantiniai_rysiai: "Henrikas Valpotas pastatė Akonas (0.74)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "120907-122012; hash=60a8a64a4985f8865496f22290036bb92f4458c773cccd03fb56dc7c00f9882e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Akonas: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Henrikas Valpotas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Akonas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Henrikas Valpotas pastatydino statinius prie Akono miesto sienų; leistinas objektas yra tik Akonas."
   pagrindžia:
-    - c-005
+    - c-163406
 
 <a id="claim-t-179740"></a>
-- t-004
+- t-010
   global_id: t-179740
-  teiginys: 'Dusburgiečio pasakojime 1290 m. pagonys iš pamatų sugriovė Akoną, kuris buvo likęs vienintelis Šventosios Žemės miestas.'
+  teiginys: "Dusburgiečio pasakojime 1290 m. pagonys iš pamatų sugriovė Akoną, kuris buvo likęs vienintelis Šventosios Žemės miestas."
+  temporaliniai_duomenys: "įvykio data: 1290 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia atribucijos, nes citata perteikia kronikos interpretacinį pasakojimą apie Šventąją Žemę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "727774-728619; hash=93380db0587da569b216e21b6b9b3589141378df4fed1b15984977675392eea7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> pagonys: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Akonas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "pagonys: mention_match, thing, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Akonas\" parinktas kaip owner_note_path. Targetas \"pagonys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-163402
 
 <a id="claim-t-179741"></a>
-- t-005
+- t-002
   global_id: t-179741
-  teiginys: 'Seniausias pasakojamojo pobūdžio šaltinis apie Vokiečių ordino įsikūrimą greičiausiai 1204–1211 m. atsirado Akone.'
+  teiginys: "Seniausias pasakojamojo pobūdžio šaltinis apie Vokiečių ordino įsikūrimą greičiausiai 1204–1211 m. atsirado Akone."
+  temporaliniai_duomenys: "įvykio data: 1204-1211; įvykio data: 1211 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata apie Akone atsiradusį šaltinį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "60936-61164; hash=c5dd48ed35483c0c373cc81e82adae90aa24a3a58bb772d9f75a9d1087a7501e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Teutonai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Akonas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Teutonai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Akonas\" parinktas kaip owner_note_path. Targetas \"Teutonai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-163398
 
 <a id="claim-t-179742"></a>
-- t-006
+- t-009
   global_id: t-179742
-  teiginys: '1290 m. gegužės 19 d. sultonas sugriovė Akoną, paėmė į nelaisvę ir išžudė daug krikščionių.'
+  teiginys: "1290 m. gegužės 19 d. sultonas sugriovė Akoną, paėmė į nelaisvę ir išžudė daug krikščionių."
+  temporaliniai_duomenys: "įvykio data: 1290 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiesiogiai paremtas citatoje pateikta data bei įvykiu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "722068-722296; hash=65eb746fa3c823c768e18b0bf146ab9be0cb2aebaa1aa6af9b88a3a8d9910347; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-006
+    - c-163407
 
 <a id="claim-t-179743"></a>
-- t-007
+- t-003
   global_id: t-179743
-  teiginys: 'Paėmus Akoną, brolis Henrikas Valpotas prie miesto sienų priešais Šv. Mikalojaus vartus nupirko sklypą bažnyčiai ir ligoninei.'
+  teiginys: "Paėmus Akoną, brolis Henrikas Valpotas prie miesto sienų priešais Šv. Mikalojaus vartus nupirko sklypą bažnyčiai ir ligoninei."
+  semantiniai_rysiai: "Henrikas Valpotas buvo palaidotas Akonas (0.95); Henrikas Valpotas pastatė Akonas (0.73)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "120907-122012; hash=60a8a64a4985f8865496f22290036bb92f4458c773cccd03fb56dc7c00f9882e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_palaidotas -> Akonas: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Henrikas Valpotas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Akonas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Henrikas Valpotas palaidotas Akone."
   pagrindžia:
-    - c-005
+    - c-163406
 
 <a id="claim-t-179744"></a>
-- t-008
+- t-001
   global_id: t-179744
-  teiginys: 'Akonas šiame leidime apibūdinamas kaip Jeruzalės karalystės sostinė, kurios žlugimą aprašė kronikininkas.'
+  teiginys: "Akonas šiame leidime apibūdinamas kaip Jeruzalės karalystės sostinė, kurios žlugimą aprašė kronikininkas."
+  temporaliniai_duomenys: "įvykio data: 1291 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "47599-48169; hash=c58f89671246d0bede52f8caf9c67d1ca1203457b528ae5a0fc1f8953df8d1c2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jeruzalė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Akonas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Jeruzalė: mention_match, place, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Akonas\" parinktas kaip owner_note_path. Targetas \"Jeruzalė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-163404
 
 <a id="claim-t-179745"></a>
-- t-009
+- t-004
   global_id: t-179745
-  teiginys: '1290 m. Akonas buvo paskutinis likęs miestas prieš jo sugriovimą.'
+  teiginys: "1290 m. Akonas buvo paskutinis likęs miestas prieš jo sugriovimą."
+  temporaliniai_duomenys: "įvykio data: 1290 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "727709-728354; hash=ddec28fa3d87d0b2074734196cbc1eb5aadf3fdf769c7361712e348233524715; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> pagonys: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Akonas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "pagonys: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Akonas\" parinktas kaip owner_note_path. Targetas \"pagonys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-163400
 - susijęs iš [[objektai/asmenys/Otonas.md#claim-t-60400|Otonas]]: Brolis Otonas buvo antrasis magistras, daug metų vadovavo, mirė birželio 2 dieną ir buvo palaidotas Akone.
 - susijęs iš [[objektai/asmenys/Henrikas Valpotas.md#claim-t-60141|Henrikas Valpotas]]: Henrikas Valpotas buvo pirmasis Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistras, daug metų vadovavo ir buvo palaidotas Akone.
 - susijęs iš [[objektai/asmenys/Hermanas Bartas.md#claim-t-60325|Hermanas Bartas]]: Hermanas Bartas buvo trečiasis magistras, mirė gegužės 20 dieną ir buvo palaidotas Akone.
@@ -130,6 +244,7 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
     Akone greičiausiai 1204—1211 m. ankstesnių (XII a. pabaigos) dokumentų pagrindu,
     yra „Pasakojimas (Narratio...) apie Teutonų ordino pradžią“109.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -149,6 +264,7 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
     viešpaties 1290 metais pagonys iš pamatų sugriovė Akono miestą, kuris vienas tebuvo
     likęs.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -172,6 +288,7 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
 
     galią.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -189,6 +306,7 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
     suartėti su totoriais — mongolais  ir aprašomi pastarųjų žygiai prieš Siriją bei kitas
     musulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -214,6 +332,7 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
     — Vokiečių (Kryžiuočių) ordino pradžią (itališkasis Joanitų ordinas įkurtas XI a. 2-oje
     pusėje, o prancūziškasis Tamplierių ordinas — XII a. 2-ame dešimtmetyje).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -231,6 +350,7 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
     sugriovė Akono miestą ir paėmė į nelaisvę bei išžudė be galo daug krikščionių (Mart. p.
     421; Ptol. 24, 23, 24).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -253,11 +373,145 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
     gausiai gautomis išmaldomis bei gėrybėmis, kurioje šiems ligoniams  jis drauge su
     broliais nuolankiai tarnavo ir rūpino visa, kas reikalinga.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-163398
+  citata_originali: |
+    Seniausias pasakojamojo pobūdžio šaltinis apie Vokiečių ordino įsikūrimą, atsiradęs
+    Akone greičiausiai 1204—1211 m. ankstesnių (XII a. pabaigos) dokumentų pagrindu,
+    yra „Pasakojimas (Narratio...) apie Teutonų ordino pradžią“109.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179741
+
+- id: c-163400
+  citata_originali: |
+    Taigi šitaip dievas nubaudė
+    savo tautą ir paniekino jos paveldą. Šitaip jų nedraugai gavo viršų, o jie tapo pažeminti,
+    nes jųjų priešai užgrobė ne tik žadėtąją žemę, bet beveik visas apygardas, miestus bei
+    tvirtoves nuo pat Egipto žemės pakraščių ligi Mezopotamijos daugiau nei dvidešimties
+    dienų kelio ruože, be to, daug kitų miestų bei tvirtovių pajūryje. Po to daug karalių
+    ir kunigaikščių, atžygiavusių su nesuskaitoma galybe karių, atsiėmė šventąją žemę,
+    tačiau vėl ją prarado, ir šitaip ji 1250 viešpaties metais pradėjo aiškiai irti, kol to paties
+    viešpaties 1290 metais pagonys iš pamatų sugriovė Akono miestą, kuris vienas tebuvo
+    likęs.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179745
+
+- id: c-163402
+  citata_originali: |
+    Šitaip jų nedraugai gavo viršų, o jie tapo pažeminti,
+    nes jųjų priešai užgrobė ne tik žadėtąją žemę, bet beveik visas apygardas, miestus bei
+    tvirtoves nuo pat Egipto žemės pakraščių ligi Mezopotamijos daugiau nei dvidešimties
+    dienų kelio ruože, be to, daug kitų miestų bei tvirtovių pajūryje. Po to daug karalių
+    ir kunigaikščių, atžygiavusių su nesuskaitoma galybe karių, atsiėmė šventąją žemę,
+    tačiau vėl ją prarado, ir šitaip ji 1250 viešpaties metais pradėjo aiškiai irti, kol to paties
+    viešpaties 1290 metais pagonys iš pamatų sugriovė Akono miestą, kuris vienas tebuvo
+    likęs. Dvejopa šio miesto sugriovimo priežastis: pirma, nesantarvė valdovų, kurie,  jį
+    gindami, nerado bendros kalbos, antra, tai, kad kryžininkai, jo šventenybės popiežiaus
+    atsiųsti į pagalbą, neteko sveiko proto ir nuolatiniais maištais bei sąmokslais ardė savo
+
+    galią.
+  citata_rodoma: "Po to daug karalių\nir kunigaikščių, atžygiavusių su nesuskaitoma galybe karių, atsiėmė šventąją žemę,\ntačiau vėl ją prarado, ir šitaip ji 1250 viešpaties metais pradėjo aiškiai irti, kol to paties\nviešpaties 1290 metais pagonys iš pamatų sugriovė Akono miestą, kuris vienas tebuvo\nlikęs. Dvejopa šio miesto sugriovimo priežastis: pirma, nesantarvė valdovų, kurie,  jį\ngindami, nerado bendros kalbos, antra, tai, kad kryžininkai, jo šventenybės popiežiaus\natsiųsti į pagalbą, neteko sveiko proto ir nuolatiniais maištais bei sąmokslais ardė savo\n\ngalią."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179740
+
+- id: c-163404
+  citata_originali: |
+    Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų
+    feodalinių riterių žygių prieš musulmoniškąjį pasaulį. Antisaracėniškos idėjos išreikštos
+    kronikos IV-ojoje dalyje. Aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą
+    (1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą  ir trumpai
+    atpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms
+    suartėti su totoriais — mongolais  ir aprašomi pastarųjų žygiai prieš Siriją bei kitas
+    musulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108).
+  citata_rodoma: "Aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą\n(1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą  ir trumpai\natpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms\nsuartėti su totoriais — mongolais  ir aprašomi pastarųjų žygiai prieš Siriją bei kitas\nmusulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179736
+    - t-179744
+
+- id: c-163406
+  citata_originali: |
+    Pirmas  šventosios  Marijos Teutonų namų  Jeruzalėje  ligoninės magistras  brolis
+    Henrikas, vadinamas Valpotu, vadovavo daug metų, o mirė lapkričio penktą (pirmą)
+    dieną ir palaidotas Akone. Bremeno ir Liubeko miestiečiai, pirmieji šio ordino steigėjai,
+    kurie, kaip jau buvo sakyta, ištesėję įžadą nukeliauti į šventąją žemę ir susirengę grįžti
+    į namus, patarti minėtojo valdovo Fridricho, Švabijos kunigaikščio, bei kitų Vokietijos
+    kilmingųjų, dalyvavusių Akono apsiaustyje, jam ir padovanojo šią ligoninę su visomis
+    gausiai gautomis išmaldomis bei gėrybėmis, kurioje šiems ligoniams  jis drauge su
+    broliais nuolankiai tarnavo ir rūpino visa, kas reikalinga. Paėmus Akoną, tas pats brolis
+    Henrikas nupirko žemės sklypą prie miesto sienų priešais švento Mikalojaus vartus,
+    kur pastatydino bažnyčią, ligoninę bei kitokius namus ir kur drauge su savo broliais
+
+      154 Šiame skyrelyje Dusburgietis aprašo jauniausio iš trijų didžiųjų riterių ordinų
+    — Vokiečių (Kryžiuočių) ordino pradžią (itališkasis Joanitų ordinas įkurtas XI a. 2-oje
+    pusėje, o prancūziškasis Tamplierių ordinas — XII a. 2-ame dešimtmetyje).
+  citata_rodoma: "Paėmus Akoną, tas pats brolis\nHenrikas nupirko žemės sklypą prie miesto sienų priešais švento Mikalojaus vartus,\nkur pastatydino bažnyčią, ligoninę bei kitokius namus ir kur drauge su savo broliais\n\n  154 Šiame skyrelyje Dusburgietis aprašo jauniausio iš trijų didžiųjų riterių ordinų\n— Vokiečių (Kryžiuočių) ordino pradžią (itališkasis Joanitų ordinas įkurtas XI a."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179739
+    - t-179743
+
+- id: c-163407
+  citata_originali: |
+    77. Apie Akono miesto sugriovimą
+
+      1290 viešpaties metais, mergelės Potencianos dieną, tai yra gegužės 19, sultonas
+    sugriovė Akono miestą ir paėmė į nelaisvę bei išžudė be galo daug krikščionių (Mart. p.
+    421; Ptol. 24, 23, 24).
+  citata_rodoma: "Apie Akono miesto sugriovimą\n\n  1290 viešpaties metais, mergelės Potencianos dieną, tai yra gegužės 19, sultonas\nsugriovė Akono miestą ir paėmė į nelaisvę bei išžudė be galo daug krikščionių (Mart. p.\n421; Ptol. 24, 23, 24)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179742
+
+- id: c-163408
+  citata_originali: |
+    2. Apie brolį Henriką Valpotą, pirmą šventosios Marijos Teutonų namų ligoninės magis­
+                                                 trą
+
+      Pirmas  šventosios  Marijos Teutonų namų  Jeruzalėje  ligoninės magistras  brolis
+    Henrikas, vadinamas Valpotu, vadovavo daug metų, o mirė lapkričio penktą (pirmą)
+    dieną ir palaidotas Akone. Bremeno ir Liubeko miestiečiai, pirmieji šio ordino steigėjai,
+    kurie, kaip jau buvo sakyta, ištesėję įžadą nukeliauti į šventąją žemę ir susirengę grįžti
+    į namus, patarti minėtojo valdovo Fridricho, Švabijos kunigaikščio, bei kitų Vokietijos
+    kilmingųjų, dalyvavusių Akono apsiaustyje, jam ir padovanojo šią ligoninę su visomis
+    gausiai gautomis išmaldomis bei gėrybėmis, kurioje šiems ligoniams  jis drauge su
+    broliais nuolankiai tarnavo ir rūpino visa, kas reikalinga.
+  citata_rodoma: "Apie brolį Henriką Valpotą, pirmą šventosios Marijos Teutonų namų ligoninės magis­\n                                             trą\n\n  Pirmas  šventosios  Marijos Teutonų namų  Jeruzalėje  ligoninės magistras  brolis\nHenrikas, vadinamas Valpotu, vadovavo daug metų, o mirė lapkričio penktą (pirmą)\ndieną ir palaidotas Akone. Bremeno ir Liubeko miestiečiai, pirmieji šio ordino steigėjai,\nkurie, kaip jau buvo sakyta, ištesėję įžadą nukeliauti į šventąją žemę ir susirengę grįžti\nį namus, patarti minėtojo valdovo Fridricho, Švabijos kunigaikščio, bei kitų Vokietijos\nkilmingųjų, dalyvavusių Akono apsiaustyje, jam ir padovanojo šią ligoninę su visomis\ngausiai gautomis išmaldomis bei gėrybėmis, kurioje šiems ligoniams  jis drauge su\nbroliais nuolankiai tarnavo ir rūpino visa, kas reikalinga."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179737
 
 ## Ryšiai
 - Mirties vieta: [[objektai/asmenys/Otonas]]

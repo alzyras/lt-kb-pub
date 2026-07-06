@@ -9,6 +9,18 @@ tags:
   - kunigaikštis
   - ordinas
   - saltinis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # die litauischen Wegeberichte
 
@@ -21,10 +33,20 @@ Ar XIV amž. gale kryžiuočių ordino surašytuose Lie­ tuvos kelių aprašymu
 <a id="claim-t-32022"></a>
 - t-001
   global_id: t-32022
-  teiginys: 'XIV a. pabaigos „die litauischen Wegeberichte“ įvairiose Aukštaičių žemės vietose mini 18 didžiojo kunigaikščio dvarų.'
+  teiginys: "XIV a. pabaigos „die litauischen Wegeberichte“ įvairiose Aukštaičių žemės vietose mini 18 didžiojo kunigaikščio dvarų."
+  semantiniai_rysiai: "Lietuviai gyveno Zietela (0.74)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "353875-354448; hash=3411516110b29d84ee095996bc992840d556cfc672d4884233370d9140265e5a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Zietela: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Zietela: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata teigia, kad lietuvių gyventas plotas matomas Zieteloje, todėl palaikomas lietuvių gyvenimo ryšys su Zietela."
   pagrindžia:
-    - c-001
-
+    - c-33775
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -40,8 +62,30 @@ Ar XIV amž. gale kryžiuočių ordino surašytuose Lie­ tuvos kelių aprašymu
     atviras klausimas. Savo dvarus didysis kunigaikštis paprastai turėjo
     jam betarpiškai priklausančiose lietuviškose tėviškės valdose.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33775
+  citata_originali: |
+    (^126) I SKYRIUS: LIETUVOS PROISTORĖ
+    Lietuvių ten gyventą plotą akivaizdžiai parodo į pietvakarius nuo
+    Naugarduko Zieteloje (Zdzięciol) iki šių dienų išsilaikiusi lietuvių
+    kalbos sala. Ar XIV amž. gale kryžiuočių ordino surašytuose Lie­
+    tuvos kelių aprašymuose (« die litauischen Wegeberichte ») įvairiose
+    Aukštaičių žemės vietose minimi didžiojo kunigaikščio dvarai (jų
+    iš viso sužymėta 18), gali tarnauti lietuvių plotui apibrėžti, palieka
+    atviras klausimas. Savo dvarus didysis kunigaikštis paprastai turėjo
+    jam betarpiškai priklausančiose lietuviškose tėviškės valdose.
+  citata_rodoma: "Ar XIV amž. gale kryžiuočių ordino surašytuose Lie­\ntuvos kelių aprašymuose (« die litauischen Wegeberichte ») įvairiose\nAukštaičių žemės vietose minimi didžiojo kunigaikščio dvarai (jų\niš viso sužymėta 18), gali tarnauti lietuvių plotui apibrėžti, palieka\natviras klausimas. Savo dvarus didysis kunigaikštis paprastai turėjo\njam betarpiškai priklausančiose lietuviškose tėviškės valdose."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-32022

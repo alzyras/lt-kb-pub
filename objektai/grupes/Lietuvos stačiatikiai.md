@@ -13,6 +13,18 @@ tags:
   - grupe
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvos stačiatikiai
 
@@ -25,9 +37,22 @@ Po Romano mirties (1361), Maskvai ir Aleksiui rūpinantis, Lietuvos stačiatiki�
 <a id="claim-t-31302"></a>
 - t-001
   global_id: t-31302
-  teiginys: 'Po Romano mirties 1361 m. Lietuvos stačiatikių metropolija nebuvo atnaujinta ir vėl pajungta Maskvos metropolitui.'
+  teiginys: "Po Romano mirties 1361 m. Lietuvos stačiatikių metropolija nebuvo atnaujinta ir vėl pajungta Maskvos metropolitui."
+  temporaliniai_duomenys: "įvykio data: 1361 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "728886-729303; hash=a9b9f486fec028bcc0e8980d080ebd422becf9cbac8b901df42467cedf28672b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos stačiatikiai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos stačiatikiai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-33324
 - susijęs iš [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas).md#claim-t-93198|Focijus (Maskvos „visos Rusijos“ metropolitas)]]: Lietuvos stačiatikių vyskupai apskundė Focijų Vytautui, kaltindami jį bažnytinių turtų išvežimu į Maskvą.
 - susijęs iš [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas).md#claim-t-93199|Focijus (Maskvos „visos Rusijos“ metropolitas)]]: Focijus savo rezidencija pasirinko Maskvą, nors Vytautas reikalavo, kad jis apsigyventų Kijeve.
 ## Reikšmingi paminėjimai
@@ -44,8 +69,29 @@ Po Romano mirties (1361), Maskvai ir Aleksiui rūpinantis, Lietuvos stačiatiki�
     gelio pastangų Algirdui vėl pavyko Konstantinopolio patriarchą
     Filotėją įtikinti Lietuvos ortodoksų labui.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33324
+  citata_originali: |
+    Konstan­
+    tinopolio patriarchas paskyrė atskirą Lietuvos valstybei priklau­
+    sančių žemių metropolitą — arkivyskupą Romaną.
+    Po Romano mirties (1361), Maskvai ir Aleksiui rūpinantis,
+    Lietuvos stačiatikių metropolija nebebuvo atnaujinta, bet vėl tapo
+    pajungta maskviniam « visos Rusijos metropolitui ». Tik po dau­
+    gelio pastangų Algirdui vėl pavyko Konstantinopolio patriarchą
+    Filotėją įtikinti Lietuvos ortodoksų labui.
+  citata_rodoma: "Po Romano mirties (1361), Maskvai ir Aleksiui rūpinantis,\nLietuvos stačiatikių metropolija nebebuvo atnaujinta, bet vėl tapo\npajungta maskviniam « visos Rusijos metropolitui ». Tik po dau­\ngelio pastangų Algirdui vėl pavyko Konstantinopolio patriarchą\nFilotėją įtikinti Lietuvos ortodoksų labui."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31302

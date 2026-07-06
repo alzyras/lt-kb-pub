@@ -6,6 +6,18 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags: []
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # proistorė
 
@@ -36,31 +48,107 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
 <a id="claim-t-05457"></a>
 - t-001
   global_id: t-05457
-  teiginys: 'Lietuvos proistorė Ivinskio veikale apibūdinama kaip plačiai išaugusi į atskirą mokslą, tyrinėjamą kitais metodais.'
+  teiginys: "Lietuvos proistorė Ivinskio veikale apibūdinama kaip plačiai išaugusi į atskirą mokslą, tyrinėjamą kitais metodais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "11237-11547; hash=0f912f1b20bbc478739d325e57bec214a165c7a23a3566d0fd9ddcb7359b74c5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "proistorė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"proistorė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-    - c-002
+    - c-05587
+    - c-69344
 
 <a id="claim-t-05458"></a>
 - t-002
   global_id: t-05458
-  teiginys: 'Lietuvos proistorė remiasi archeologiniais duomenimis ir yra tyrinėjama kitais metodais nei rašytinė istorija.'
+  teiginys: "Lietuvos proistorė remiasi archeologiniais duomenimis ir yra tyrinėjama kitais metodais nei rašytinė istorija."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "11237-11547; hash=0f912f1b20bbc478739d325e57bec214a165c7a23a3566d0fd9ddcb7359b74c5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "proistorė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"proistorė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-05587
+
+<a id="claim-t-05457"></a>
+- t-001
+  global_id: t-05457
+  teiginys: "Lietuvos proistorė Ivinskio veikale apibūdinama kaip plačiai išaugusi į atskirą mokslą, tyrinėjamą kitais metodais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "11237-11547; hash=0f912f1b20bbc478739d325e57bec214a165c7a23a3566d0fd9ddcb7359b74c5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "proistorė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"proistorė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  pagrindžia:
+    - c-05587
+    - c-69344
 
 <a id="claim-t-05608"></a>
-- t-004
+- t-005
   global_id: t-05608
-  teiginys: 'Lietuvos proistorė apima seniausius laikus, paremtus archeologiniais duomenimis.'
+  teiginys: "Lietuvos proistorė apima seniausius laikus, paremtus archeologiniais duomenimis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "11237-11547; hash=0f912f1b20bbc478739d325e57bec214a165c7a23a3566d0fd9ddcb7359b74c5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "proistorė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"proistorė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-05587
+
+<a id="claim-t-05457"></a>
+- t-001
+  global_id: t-05457
+  teiginys: "Lietuvos proistorė Ivinskio veikale apibūdinama kaip plačiai išaugusi į atskirą mokslą, tyrinėjamą kitais metodais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "11237-11547; hash=0f912f1b20bbc478739d325e57bec214a165c7a23a3566d0fd9ddcb7359b74c5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "proistorė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"proistorė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  pagrindžia:
+    - c-05587
+    - c-69344
 
 <a id="claim-t-70294"></a>
-- t-006
+- t-007
   global_id: t-70294
-  teiginys: 'Lietuvos proistorei geriau pažinti padėjo gausūs archeologiniai kasinėjimai ir tyrinėjimai.'
+  teiginys: "Lietuvos proistorei geriau pažinti padėjo gausūs archeologiniai kasinėjimai ir tyrinėjimai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "208101-208485; hash=545c75c76bce317df0962e65d7aadc1ff44195aaf217aa0946cdd015d907b3af; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "proistorė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"proistorė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-69345
 - susijęs iš [[objektai/autoriai/J. Jakubowski.md#claim-t-64629|J. Jakubowski]]: J. Jakubowski 1907 m. paskelbė darbą „Opis księstwa trockiego w 1387 r.“
 - susijęs iš [[objektai/autoriai/St. Zajączkowski.md#claim-t-100100|St. Zajączkowski]]: St. Zajączkowski rašė apie jotvingių vardus ir Jotvos problemą istoriografijoje.
 - susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-05243|Didžiojo Naugardo respublika]]: Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus.
@@ -85,8 +173,9 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
     Ten su _kastuvu_ rankoje iš tos didžiosios konservatorės, mūsų žemės
     surankiojama vertingų žilos praeities paminklų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -103,8 +192,9 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
     periodizacijos skyrelyje. Lietuvos _proistorei_ geriau pažinti padeda
     ten daromi gausus archeologiniai kasinėjimai bei tyrinėjimai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -119,8 +209,56 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
     pateikęs duomenų apie seniausiai Lietuvoje augintus javus (AkMD,
     t. 1, 1955, 75-84 p.), apie įvairius tyrinėtus piliakalnius ir senka­
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
+## Citatos
+
+- id: c-05587
+  citata_originali: |
+    Tik gana trumpai čia tėra apžvelgti patys seniausieji laikai,
+    paremti archeologiniais duomenimis. Lietuvos _proistorė_ yra jau
+    plačiai išaugusi į atskirą mokslą, kur tyrinėjama kitais metodais.
+    Ten su _kastuvu_ rankoje iš tos didžiosios konservatorės, mūsų žemės
+    surankiojama vertingų žilos praeities paminklų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05457
+    - t-05458
+    - t-05607
+    - t-05608
+
+- id: c-69344
+  citata_originali: |
+    Čia tenka paminėti bent iškilesnius tarybinius istori­
+    kus^94. Apie jų darbų atranką ir metodą buvo rašyta aukščiau,
+    periodizacijos skyrelyje. Lietuvos _proistorei_ geriau pažinti padeda
+    ten daromi gausus archeologiniai kasinėjimai bei tyrinėjimai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05457
+
+- id: c-69345
+  citata_originali: |
+    Apie jų darbų atranką ir metodą buvo rašyta aukščiau,
+    periodizacijos skyrelyje. Lietuvos _proistorei_ geriau pažinti padeda
+    ten daromi gausus archeologiniai kasinėjimai bei tyrinėjimai. Šioje
+    srityje pirmiausiai minėtini archeologai: P. Kulikauskas,
+    pateikęs duomenų apie seniausiai Lietuvoje augintus javus (AkMD,
+    t. 1, 1955, 75-84 p.), apie įvairius tyrinėtus piliakalnius ir senka­
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-70294

@@ -14,6 +14,18 @@ tags:
   - paprotys
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Valsčių savivaldybių priežiūra per taikos tarpininkus ir taikos teisėjus
 
@@ -41,10 +53,15 @@ Nenurodyta
 <a id="claim-t-02044"></a>
 - t-001
   global_id: t-02044
-  teiginys: '1861 m. įkurtų valsčių viršaičiai ir raštininkai, kurių daugumą buvo paskyrę dvarininkai, buvo atstatydinti.'
+  teiginys: "1861 m. įkurtų valsčių viršaičiai ir raštininkai, kurių daugumą buvo paskyrę dvarininkai, buvo atstatydinti."
+  temporaliniai_duomenys: "įvykio data: 1861 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Žodis „atstatyti“ čia taisytinas į aiškesnį faktinį veiksmą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "963498-963867; hash=d286ebb187c35ad14f2ad352bc7e0ea1231bae710aceda531eb26ed830f701de; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
-
+    - c-02282
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -59,8 +76,27 @@ Nenurodyta
     cijos tarnautojai nedalyvautų valsčių sueigose ir nesikištų į jų
     nutarimus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-02282
+  citata_originali: |
+    1861 m. įkurtų valsčių viršaičiai (star-
+    šinos) ir raštininkai, kurių daugumas buvo dvarininkų pastatyti,
+    buvo atstatyti. Nauji viršaičių rinkimai buvo apsaugoti nuo
+    dvarininkų įtakos. Centro valdžios skirtiems valdininkams bu-
+    vo įsakyta stropiai žiūrėti, kad dvarininkai ir dvarų administra-
+    cijos tarnautojai nedalyvautų valsčių sueigose ir nesikištų į jų
+    nutarimus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-02044

@@ -18,6 +18,18 @@ amziai:
   - 'XII'
 periodo_grupes:
   - 'viduramžiai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Erdenas, arba Jerdenas
 
@@ -30,10 +42,20 @@ Tasai Dovilas ar Dovydas turėjo būti pir­ masis Vilniaus kunigaikštis, Vido,
 <a id="claim-t-87498"></a>
 - t-001
   global_id: t-87498
-  teiginys: 'Erdenas nurodomas kaip pirmuoju Vilniaus kunigaikščiu laikyto Dovilo arba Dovydo sūnus.'
+  teiginys: "Erdenas nurodomas kaip pirmuoju Vilniaus kunigaikščiu laikyto Dovilo arba Dovydo sūnus."
+  semantiniai_rysiai: "Erdenas, arba Jerdenas buvo sūnus Dovydas (0.97)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "116497-117007; hash=f0ddb0e66f5bccc32fed2d0b11187bdd0d85fed35c867bb59b499bc5cb1ceec2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Dovydas: 0.97"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Erdenas, arba Jerdenas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Dovydas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Erdenas buvo Dovydo sūnus."
   pagrindžia:
-    - c-001
-
+    - c-83477
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -51,11 +73,34 @@ Tasai Dovilas ar Dovydas turėjo būti pir­ masis Vilniaus kunigaikštis, Vido,
     deno tėvas. Maukoldas buvo Mindaugo, arba Mendogo, tė­
     vas3.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83477
+  citata_originali: |
+    I. 48), liudija, kad XII amžiuje jau
+    būta Vilniaus ir kad šio miesto gyventojai, bijodami Mstis­
+    lavo Didžiojo kariaunos, kuris 1128 metais užvaldė krivi-
+    čių žemę, pasidavė Vengrijos, tai yra Haličo, karaliaus
+    valdžiai, vietininkais pasikvietę Dovilą ir Maukoldą, sū­
+    nus Rostislavo Rogvoldovičiaus, kurį tas pats Mstislavas
+    išvijo į Graikiją. Tasai Dovilas ar Dovydas turėjo būti pir­
+    masis Vilniaus kunigaikštis, Vido, praminto Vilku, ir Er-
+    deno tėvas. Maukoldas buvo Mindaugo, arba Mendogo, tė­
+    vas3.
+  citata_rodoma: "48), liudija, kad XII amžiuje jau \nbūta Vilniaus ir kad šio miesto gyventojai, bijodami Mstis­\nlavo Didžiojo kariaunos, kuris 1128 metais užvaldė krivi- \nčių žemę, pasidavė Vengrijos, tai yra Haličo, karaliaus \nvaldžiai, vietininkais pasikvietę Dovilą ir Maukoldą, sū­\nnus Rostislavo Rogvoldovičiaus, kurį tas pats Mstislavas \nišvijo į Graikiją. Tasai Dovilas ar Dovydas turėjo būti pir­\nmasis Vilniaus kunigaikštis, Vido, praminto Vilku, ir Er- \ndeno tėvas. Maukoldas buvo Mindaugo, arba Mendogo, tė­\nvas3."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87498
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Dovydas]]

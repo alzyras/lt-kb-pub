@@ -11,11 +11,6 @@ datos:
   - '1393 m.'
 date_start: '1382'
 date_end: '1393'
-description: 'Kaributas – Jogailos brolis ir Naugardo Sieversko kunigaikštis, minimas 1382 m. Dubysos sutartyse ir konfliktuose su Kęstučiu.'
-socialDescription: 'Kaributas siejamas su Jogailos aplinka, Dubysos sutartimis, Naugardo Sieversko kunigaikštija ir pasipriešinimu Kęstučio valdžiai.'
-seo_atnaujinta: '2026-07-02T21:03:54.559037+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,63 +21,155 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kaributas
 
 ## Santrauka
 
-Kaributas buvo Jogailos brolis ir Naugardo Sieversko kunigaikštis, minimas XIV a. pabaigos Lietuvos politiniuose įvykiuose. 1382 m. jis pritarė Dubysos sutartims, o Kęstučiui apgulus Jurbarką sukilo prieš jo viršenybę. Iki 1393 m. Kaributas valdė Naugardo Sieversko kunigaikštiją, iš kurios jį pašalino Vytautas.
+Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pašalinti iš savo kunigaikštijų). Kaip tik tuo metu, kada Kęstutis buvo apgulęs Jurbarką, atėjo žinia, kad prieš jį sukilo Jogailos brolis, Naugardo Sieversko kunigaikštis Kaributas. Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir Vytautas.
 
 ## Teiginiai
 
 <a id="claim-t-97455"></a>
-- t-001
+- t-003
   global_id: t-97455
-  teiginys: 'Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir Vytautas.'
+  teiginys: "Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir Vytautas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1338069-1338505; hash=2fba29ee0260a73159cc8132823723c4b7f92101af2b490f9465fd4f3ad8714f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dubysa: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaributas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Dubysa: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaributas\" parinktas kaip owner_note_path. Targetas \"Dubysa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-91950
 
 <a id="claim-t-97456"></a>
-- t-002
+- t-008
   global_id: t-97456
-  teiginys: 'Kaributas iki 1393 m. valdė Naugardo Sieversko kunigaikštiją, iš kurios jį pašalino Vytautas.'
+  teiginys: "Kaributas iki 1393 m. valdė Naugardo Sieversko kunigaikštiją, iš kurios jį pašalino Vytautas."
+  temporaliniai_duomenys: "valdymo pabaiga: iki 1393 m.; valdymo pabaiga: 1393 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Kaributas valdė teritoriją Naugardas“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pirminis teiginys yra lentelės fragmentas; citata leidžia suformuluoti pilną faktą apie Kaributą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "1338069-1338505; hash=2fba29ee0260a73159cc8132823723c4b7f92101af2b490f9465fd4f3ad8714f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Naugardas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaributas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Naugardas: mention_match, place, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaributas\" parinktas kaip owner_note_path. Targetas \"Naugardas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-91949
 
 <a id="claim-t-97457"></a>
-- t-003
+- t-007
   global_id: t-97457
-  teiginys: 'Kaributas, Julijonos sūnus ir Jogailos brolis, buvo vienas iš trijų Jogailos ir Skirgailos sutarčių liudininkų.'
+  teiginys: "Kaributas, Julijonos sūnus ir Jogailos brolis, buvo vienas iš trijų Jogailos ir Skirgailos sutarčių liudininkų."
+  semantiniai_rysiai: "Kaributas buvo sūnus Julijona (0.96)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1338069-1338505; hash=2fba29ee0260a73159cc8132823723c4b7f92101af2b490f9465fd4f3ad8714f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Julijona: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kaributas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Julijona: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Kaributas tiesiogiai įrašytas tarp Julijonos sūnų."
   pagrindžia:
-    - c-005
+    - c-91950
 
 <a id="claim-t-97458"></a>
-- t-004
+- t-006
   global_id: t-97458
-  teiginys: 'Kaributas pritarė 1382 m. Dubysos sutartims, kuriomis Jogaila įsipareigojo taikai su Ordinais ir krikštui.'
+  teiginys: "Kaributas pritarė 1382 m. Dubysos sutartims, kuriomis Jogaila įsipareigojo taikai su Ordinais ir krikštui."
+  temporaliniai_duomenys: "įvykio data: 1382 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata tiesiogiai mini Kaributą tarp Jogailai pritarusių brolių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "202539-202797; hash=d6f0af4fc977ab597152e8f0b79c9a04a27177425aec52dec127d467b4d0f91d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dubysa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaributas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Dubysa: mention_match, place, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaributas\" parinktas kaip owner_note_path. Targetas \"Dubysa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-91945
 
 <a id="claim-t-97459"></a>
-- t-005
+- t-009
   global_id: t-97459
-  teiginys: 'Kaributas, Jogailos brolis ir Naugardo Sieversko kunigaikštis, sukilo prieš Kęstutį, kai šis buvo apgulęs Jurbarką.'
+  teiginys: "Kaributas, Jogailos brolis ir Naugardo Sieversko kunigaikštis, sukilo prieš Kęstutį, kai šis buvo apgulęs Jurbarką."
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) apgulė Jurbarkas (0.94); Kaributas buvo priešas Kęstutis (vakarų pasienio valdovas, XIV–XV a.) (0.86); Kaributas valdė Naugardas (0.84)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "202539-202797; hash=d6f0af4fc977ab597152e8f0b79c9a04a27177425aec52dec127d467b4d0f91d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "apgule -> Jurbarkas: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Jurbarkas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Kęstutis buvo apgulęs Jurbarką."
   pagrindžia:
-    - c-006
+    - c-91951
 
 <a id="claim-t-97460"></a>
-- t-006
+- t-004
   global_id: t-97460
-  teiginys: 'Kaributas, valdęs Seversko kunigaikštystę, sukėlė maištus Rusioje ir nepripažino Kęstučio viršenybės.'
+  teiginys: "Kaributas, valdęs Seversko kunigaikštystę, sukėlė maištus Rusioje ir nepripažino Kęstučio viršenybės."
+  semantiniai_rysiai: "Kaributas valdė Severskas (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "103276-103684; hash=953e76a6a9a1709b0d63e542ba137332c67e158346da0a3d09862e56ce340bc3; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Severskas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kaributas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Severskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kaributas tiesiogiai įvardytas kaip viešpatavęs Seversko kunigaikštystėje."
   pagrindžia:
-    - c-001
+    - c-91944
 
 <a id="claim-t-97461"></a>
-- t-007
+- t-005
   global_id: t-97461
-  teiginys: 'Karalių Jogailą saugojo kunigaikščio Kaributo vėliava, kurią Vytautas buvo nusiuntęs dar prieš karą.'
+  teiginys: "Karalių Jogailą saugojo kunigaikščio Kaributo vėliava, kurią Vytautas buvo nusiuntęs dar prieš karą."
+  semantiniai_rysiai: "Kaributas gynė Jogaila (kunigaikštis, XIV–XV a.) (0.70)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "230930-231338; hash=2d4efb405e7dfcefa6547f84f182087ed2f65a0f8a528700de4226f645dda5f8; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Jogaila (kunigaikštis, XIV–XV a.): 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kaributas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Jogailą saugojo Kaributo vėliava, todėl ryšys su Kaributu yra per jo karinį vienetą."
   pagrindžia:
-    - c-003
+    - c-91947
 - susijęs iš [[objektai/asmenys/Dimitras Kaributas.md#claim-t-184692|Dimitras Kaributas]]: Dimitras Kaributas atsisakė mokėti Vytauto pasiuntinių reikalautus pinigus į Lietuvos didžiojo kunigaikščio iždą.
 - susijęs iš [[objektai/asmenys/Dimitras Kaributas.md#claim-t-50970|Dimitras Kaributas]]: Dimitras Kaributas valdė Sievero žemę, kurią Vytautas, pritariamas Jogailos, iš jo atėmė.
 - susijęs iš [[objektai/asmenys/Lengvenis Algirdaitis.md#claim-t-47959|Lengvenis Algirdaitis]]: Lengvenis kartu su Švitrigaila ir Kaributu lydėjo Vytautą žygyje prieš Smolenską po Raciąžo taikos.
@@ -147,6 +234,7 @@ Kaributas buvo Jogailos brolis ir Naugardo Sieversko kunigaikštis, minimas XIV 
     Vilnių, Trakų pilies gynybą ir valdžią pavedė savo sūnui,
     jaunajam Vytautui.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -167,6 +255,7 @@ Kaributas buvo Jogailos brolis ir Naugardo Sieversko kunigaikštis, minimas XIV 
     tyti ir kas svarbiausia — užleidžia Ordinui pusę Žemaitijos:
     visą dešinį Dubysos krantą, nuo pat ištakos iki įtakos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -185,6 +274,7 @@ Kaributas buvo Jogailos brolis ir Naugardo Sieversko kunigaikštis, minimas XIV 
     lė greičiausių ir visiškai paruoštų arklių, kuriais Jogaila galė­
     tų pabėgti, jei kiltų pavojus iš kryžiuočių pusės.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -203,6 +293,7 @@ Kaributas buvo Jogailos brolis ir Naugardo Sieversko kunigaikštis, minimas XIV 
     pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pašalinti
     iš savo kunigaikštijų).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -224,6 +315,7 @@ Kaributas buvo Jogailos brolis ir Naugardo Sieversko kunigaikštis, minimas XIV 
     bei svarbiu patarėju tapęs Hanulis. O Julijona ir kunigaikščio
     taryba tėra paminėta Žemaičių dovanojimo dokumente.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -241,11 +333,120 @@ Kaributas buvo Jogailos brolis ir Naugardo Sieversko kunigaikštis, minimas XIV 
     sukilo Jogailos brolis, Naugardo Sieversko kunigaikštis Kari-
     butas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
+## Citatos
+
+- id: c-91944
+  citata_originali: |
+    Vilniui grėsė naujas
+    pavojus. Ir Lietuvos sostinė ilgai netvėrė Kęstučio valdžioje;
+    vos tik jis išvijo vokiečius už Lietuvos ribų, kai maištai Ru­
+    sioje, sukelti Jogailos brolio Kaributo, viešpatavusio Severs-
+    ko kunigaikštystėje ir nenorėjusio pripažinti Kęstučio vir­
+    šenybės, vertė šį vykti ten su visa kariauna. Palikdamas
+    Vilnių, Trakų pilies gynybą ir valdžią pavedė savo sūnui,
+    jaunajam Vytautui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-97460
+
+- id: c-91945
+  citata_originali: |
+    Dar didesnio Lietuvos nuovargio liudijimas yra 1382 mt.,
+    po Kęstučio mirties, Jogailos įgaliotinių (Skirgailos ir Hanu­
+    lono) Dubysos įtakoje padarytieji trijų atskirų sutarčių aktai.
+    Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas
+    motinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­
+    gunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais
+    taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­
+    tyti ir kas svarbiausia — užleidžia Ordinui pusę Žemaitijos:
+    visą dešinį Dubysos krantą, nuo pat ištakos iki įtakos.
+  citata_rodoma: ",\npo Kęstučio mirties, Jogailos įgaliotinių (Skirgailos ir Hanu­\nlono) Dubysos įtakoje padarytieji trijų atskirų sutarčių aktai.\nPagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas\nmotinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­\ngunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais\ntaikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­\ntyti ir kas svarbiausia — užleidžia Ordinui pusę Žemaitijos:\nvisą dešinį Dubysos krantą, nuo pat ištakos iki įtakos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-97458
+
+- id: c-91947
+  citata_originali: |
+    Karaliui buvo parinkta saugi vieta,
+    iš kur jis galėjo matyti visą kovos lauką, o jo niekas nematė, ir
+    jį apstatė geriausia sargyba. Jį saugojo kunigaikščio Kaributo
+    vėliava, kurią dar prieš karą Vytautas buvo Jogailai nusiuntęs.
+    Nuo karaliaus stovyklos Lenkijos pusėn buvo sustatyta visa ei­
+    lė greičiausių ir visiškai paruoštų arklių, kuriais Jogaila galė­
+    tų pabėgti, jei kiltų pavojus iš kryžiuočių pusės.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-97461
+
+- id: c-91949
+  citata_originali: |
+    Lentelėse duodamieji pavyzdžiai:
+    4—10 — Vytauto laikų _pinigėliai_ (dokumentuose minimi jau 1387 m.;
+    10 pinigėlių = 1 skatikui; vėliau, XVI amž., jie buvo sulyginti su _denarais);_
+    5 — _pusskatikis_ (= 5 pinigėliams) ; 6 ir 7 — _dvidenariai_ (^2 /в skatiko) ; 8 —
+    Kijevo kunig. Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Kaributo
+    pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pašalinti
+    iš savo kunigaikštijų).
+  citata_rodoma: "8 —\nKijevo kunig. Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Kaributo\npinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pašalinti\niš savo kunigaikštijų)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-97456
+
+- id: c-91950
+  citata_originali: |
+    Kaip kita­
+    dos Mindaugas už Livonijos ordino paslaugas turėjo išdavinėti
+    donacinius dokumentus, taip Jogaila Prūsų kryžiuočiams už ordino
+    « draugiškumą, patarimus, pagalbą, darbą ir įvairų triūsą » turėjo
+    užleisti jam visą Žemaičių plotą tarp abiejų ordino valdų — t. y.
+    Livonijos ir Prūsų—-ligi Dubysos upės. Visose trijose Jogailos ir
+    Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi
+    kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas,
+    Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs
+    bei svarbiu patarėju tapęs Hanulis. O Julijona ir kunigaikščio
+    taryba tėra paminėta Žemaičių dovanojimo dokumente.
+  citata_rodoma: "Livonijos ir Prūsų—-ligi Dubysos upės. Visose trijose Jogailos ir\nSlorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi\nkiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas,\nKarigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs\nbei svarbiu patarėju tapęs Hanulis. O Julijona ir kunigaikščio\ntaryba tėra paminėta Žemaičių dovanojimo dokumente."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-97457
+    - t-97455
+
+- id: c-91951
+  citata_originali: |
+    Kęstutį iš pradžių pripažino visi. Jis, maža tekreipdamas dėme-
+    sio į rytus, pradėjo kovas su kryžiuočiais. Kaip tik tuo metu,
+    kada Kęstutis buvo apgulęs Jurbarką, atėjo žinia, kad prieš jį
+    sukilo Jogailos brolis, Naugardo Sieversko kunigaikštis Kari-
+    butas.
+  citata_rodoma: "Kaip tik tuo metu,\nkada Kęstutis buvo apgulęs Jurbarką, atėjo žinia, kad prieš jį\nsukilo Jogailos brolis, Naugardo Sieversko kunigaikštis Kari-\nbutas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-97459
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Julijona]]

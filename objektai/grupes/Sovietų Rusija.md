@@ -1,0 +1,128 @@
+---
+tipas: grupe
+pavadinimas: 'Sovietų Rusija'
+saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+sukurta: ''
+atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Sovietų Rusija
+
+## Santrauka
+
+Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 dienos manifestu deklaravo Sovietų Lietuvą. Tačiau sovietai, vadovaujami Adolfo Jofės (Adolf Joffe), traktavo Lietuvą kaip naują politinį vienetą ir sutiko pripažinti Lietuvą remdamiesi nacijų apsisprendimo teise – taigi silpnesniu pripažinimo dokumentu.
+
+## Teiginiai
+
+<a id="claim-t-193669"></a>
+- t-001
+  global_id: t-193669
+  teiginys: "Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 dienos manifestu deklaravo Sovietų Lietuvą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "269434-269728; hash=a94a376d63ae1517782094fe52a9b9a0449e751a34708e2931af70bcc6c24c8e; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176338
+
+<a id="claim-t-193670"></a>
+- t-002
+  global_id: t-193670
+  teiginys: "Tačiau sovietai, vadovaujami Adolfo Jofės (Adolf Joffe), traktavo Lietuvą kaip naują politinį vienetą ir sutiko pripažinti Lietuvą remdamiesi nacijų apsisprendimo teise – taigi silpnesniu pripažinimo dokumentu."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "279536-280105; hash=d7bb2a12d508c3e7be4c9ea2bed2d98e61f9a57d5fd2ba7e25e1a9e145338e80; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176339
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 dienos manifestu deklaravo Sovietų Lietuvą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Rem-
+    damiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio
+    16 dienos manifestu deklaravo Sovietų Lietuvą. Po savaitės ją Vladimiro
+    Lenino pasirašytu dekretu pripažino Sovietų Rusija. Tačiau lietuviams
+    sovietai nesiasocijavo su tautine valstybe, todėl bolševikų jie neparėmė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+- c-002
+  santrauka: 'Tačiau sovietai, vadovaujami Adolfo Jofės (Adolf Joffe), traktavo Lietuvą kaip naują politinį vienetą ir sutiko pripažinti Lietuvą remdamiesi nacijų apsisprendimo teise – taigi silpnesniu pripažinimo dokumentu.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    L I E T U V O S  I S T O R I J A
+    142
+    Jos delegacija, vadovaujama Tomo Naruševičiaus, atvykusi į Maskvą pir-
+    miausia pareikalavo pripažinti atkurtą Lietuvos valstybę, jos valstybingu-
+    mo tęstinumą nuo LDK. Tačiau sovietai, vadovaujami Adolfo Jofės (Adolf
+    Joffe), traktavo Lietuvą kaip naują politinį vienetą ir sutiko pripažinti Lie-
+    tuvą remdamiesi nacijų apsisprendimo teise – taigi silpnesniu pripažini-
+    mo dokumentu.
+    Lietuviai atsigriebė 1 sutarties straipsnyje – juo Rusija visiems laikams
+    atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę ir suverenumą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+## Citatos
+
+- id: c-176338
+  citata_originali: |
+    Rem-
+    damiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio
+    16 dienos manifestu deklaravo Sovietų Lietuvą. Po savaitės ją Vladimiro
+    Lenino pasirašytu dekretu pripažino Sovietų Rusija. Tačiau lietuviams
+    sovietai nesiasocijavo su tautine valstybe, todėl bolševikų jie neparėmė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193669
+
+- id: c-176339
+  citata_originali: |
+    L I E T U V O S  I S T O R I J A
+    142
+    Jos delegacija, vadovaujama Tomo Naruševičiaus, atvykusi į Maskvą pir-
+    miausia pareikalavo pripažinti atkurtą Lietuvos valstybę, jos valstybingu-
+    mo tęstinumą nuo LDK. Tačiau sovietai, vadovaujami Adolfo Jofės (Adolf
+    Joffe), traktavo Lietuvą kaip naują politinį vienetą ir sutiko pripažinti Lie-
+    tuvą remdamiesi nacijų apsisprendimo teise – taigi silpnesniu pripažini-
+    mo dokumentu.
+    Lietuviai atsigriebė 1 sutarties straipsnyje – juo Rusija visiems laikams
+    atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę ir suverenumą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193670

@@ -9,6 +9,18 @@ tags:
   - kraštas
   - seimas
   - sąvoka
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # konstitucijos
 
@@ -21,9 +33,12 @@ konstitucijos: visi seimo nutarimai, vadinęsi konstituci- jomis, buvo įstatyma
 <a id="claim-t-72700"></a>
 - t-001
   global_id: t-72700
-  teiginys: 'Konstitucijomis vadinti seimo nutarimai buvo įstatymai, po seimo paprastai išspausdinami ir pranešami visam kraštui.'
+  teiginys: "Konstitucijomis vadinti seimo nutarimai buvo įstatymai, po seimo paprastai išspausdinami ir pranešami visam kraštui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "559601-559757; hash=e4ae056184644fd71f8fd7588c88f4f0ab4fd43a1454872f83ae365c672646dd; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
+    - c-71080
 - susijęs iš [[objektai/asmenys/Michailas Gorbačiovas.md#claim-t-101678|Michailas Gorbačiovas]]: 1991 m. sausio 10 d. Michailas Gorbačiovas pareikalavo, kad Lietuvos AT-AS atkurtų SSRS konstitucijos galiojimą.
 - susijęs iš [[objektai/autoriai/Tadas Korsakas.md#claim-t-23259|Tadas Korsakas]]: Tadas Korsakas buvo Gegužės trečiosios konstitucijos pataisos autorius ir žuvo ginant Varšuvą.
 - susijęs iš [[objektai/autoriai/Tadas Korsakas.md#claim-t-23262|Tadas Korsakas]]: Tadas Korsakas buvo Gegužės trečiosios konstitucijos pataisos autorius ir žuvo ginant Varšuvą.
@@ -143,8 +158,23 @@ konstitucijos: visi seimo nutarimai, vadinęsi konstituci- jomis, buvo įstatyma
     jomis, buvo įstatymai. Po seimo paprastai jie būdavo išspaus-
     dinami ir pranešami visam kraštui.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-71080
+  citata_originali: |
+    **Seimo aktai.** Visi seimo nutarimai, vadinęsi konstituci-
+    jomis, buvo įstatymai. Po seimo paprastai jie būdavo išspaus-
+    dinami ir pranešami visam kraštui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-72700

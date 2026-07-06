@@ -15,6 +15,18 @@ tags:
   - miestas
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Versalio taikos konferencijos sprendimas dėl Klaipėdos krašto (1919 m.)
 
@@ -43,10 +55,19 @@ Nenurodyta
 <a id="claim-t-20527"></a>
 - t-001
   global_id: t-20527
-  teiginys: 'Dalis klaipėdiškių lietuvininkų nenorėjo jungtis prie Lietuvos ir siekė laisvojo miesto statuso.'
+  teiginys: "Dalis klaipėdiškių lietuvininkų nenorėjo jungtis prie Lietuvos ir siekė laisvojo miesto statuso."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "22494-22873; hash=9a29c55e9857ad82104933045cc82297dd691abddf7a5dc909e13173cd86c3c2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Versalio taikos konferencijos sprendimas dėl Klaipėdos krašto (1919 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Versalio taikos konferencijos sprendimas dėl Klaipėdos krašto (1919 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-23251
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -59,8 +80,27 @@ Nenurodyta
     diškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“
     statuso (panašaus į Dancigo (dabar Gdanskas)).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-23251
+  citata_originali: |
+    Be to, moderniosios Lietuvos
+    valstybės kūrėjai pretendavo į Mažosios Lietuvos žemes. Tiesa, Versalio
+    taikos konferencija (1919) nuo Vokietijos atskyrė tik dalį Mažosios Lietu-
+    vos – Klaipėdos kraštą, tačiau jo neatidavė Lietuvai. Beje, ne visi klaipė-
+    diškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“
+    statuso (panašaus į Dancigo (dabar Gdanskas)).
+  citata_rodoma: "diškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-20527

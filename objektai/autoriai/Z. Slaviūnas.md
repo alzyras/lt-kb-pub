@@ -13,6 +13,18 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'XX a.'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Z. Slaviūnas
 
@@ -21,24 +33,49 @@ periodo_grupes:
 Z. Slaviūnas kartu su M. Lukšiene parengė L. A. Jucevičiaus „Raštų“ komentarus 1959 m. leidime.
 
 ## Teiginiai
+
 <a id="claim-t-190409"></a>
 - t-001
   global_id: t-190409
-  teiginys: 'Z. Slaviūnas kartu su M. Lukšiene parengė L. A. Jucevičiaus „Raštų“ komentarus 1959 m. leidime.'
+  teiginys: "Z. Slaviūnas kartu su M. Lukšiene parengė L. A. Jucevičiaus „Raštų“ komentarus 1959 m. leidime."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1959 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Iš fragmento išskleistas subjektas Z. Slaviūnas ir jo vaidmuo leidinyje. Nepridėta biografinių duomenų ar platesnio leidinio vertinimo."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "67928-68045; hash=5199597cb81e867160a1a29879808f474c0f3ba6df01bb040159e8c57da279de; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
-
+    - c-173292
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Z. Slaviūnas kartu su M. Lukšiene parengė L. A. Jucevičiaus „Raštų“ komentarus 1959 m. leidime.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     22 Jucevičius L. A. Raštai / Vertė D. Urbas. įvadas M. Lukšienės.
     Komentarai M. Lukšienės ir Z. Slaviūno. -  V, 1959.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-173292
+  citata_originali: |
+    22 Jucevičius L. A. Raštai / Vertė D. Urbas. įvadas M. Lukšienės.
+    Komentarai M. Lukšienės ir Z. Slaviūno. -  V, 1959.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190409

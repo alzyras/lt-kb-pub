@@ -16,6 +16,18 @@ tags:
 amziai:
   - 'XIV'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # K. Heinl, Fürst Witold von Litauen 1382-1401
 
@@ -28,10 +40,21 @@ Heinl : Fürst Witold von Litauen 1382-1401, 1925, 61 p. (^13) KolLJ, I, 51 p.
 <a id="claim-t-31756"></a>
 - t-001
   global_id: t-31756
-  teiginys: 'K. Heinlio „Fürst Witold von Litauen 1382–1401“ 1925 m. buvo išleistas kaip 61 puslapio darbas.'
+  teiginys: "K. Heinlio „Fürst Witold von Litauen 1382–1401“ 1925 m. buvo išleistas kaip 61 puslapio darbas."
+  temporaliniai_duomenys: "įvykio data: 1925 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "833240-833433; hash=553b40fe67c33e660ef9fb3f44396347fceeb56629663a694c40f0154e3b43e2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> K. Heinl: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "K. Heinl, Fürst Witold von Litauen 1382-1401: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "K. Heinl: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"K. Heinl, Fürst Witold von Litauen 1382-1401\" parinktas kaip owner_note_path. Targetas \"K. Heinl\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-33604
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,8 +66,26 @@ Heinl : Fürst Witold von Litauen 1382-1401, 1925, 61 p. (^13) KolLJ, I, 51 p.
     Litauen_** **1382-1401, 1925, 61 p.**
     (^13) **KolLJ, I, 51 p.**
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33604
+  citata_originali: |
+    (^10) **CEV, 18 (nr. 53).**
+    (^11) **SRP, II, 713 p.**
+    (^12) **L. Kolankowski : KolLJ, I, 47 p. — K. Heinl :** **_Fürst Witold von
+    Litauen_** **1382-1401, 1925, 61 p.**
+    (^13) **KolLJ, I, 51 p.**
+  citata_rodoma: "**\n(^12) **L. Kolankowski : KolLJ, I, 47 p. — K. Heinl :** **_Fürst Witold von\nLitauen_** **1382-1401, 1925, 61 p.**\n(^13) **KolLJ, I, 51 p."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31756

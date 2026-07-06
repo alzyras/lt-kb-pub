@@ -10,15 +10,23 @@ datos:
   - '2026 m.'
 date_start: '1180'
 date_end: '2026'
-aliases:
-  - 'objektai/vietos/Padaugavys'
-variantai:
-  - 'Padaugavys'
 sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XII'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Padauguvis
 
@@ -40,18 +48,42 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
 ## Teiginiai
 
 <a id="claim-t-73355"></a>
-- t-001
+- t-006
   global_id: t-73355
-  teiginys: 'Nuo XI a., skandinavams liovusis lankytis Padauguvyje, į šį kraštą pradėjo atvykti vokiečių pirkliai.'
+  teiginys: "Nuo XI a., skandinavams liovusis lankytis Padauguvyje, į šį kraštą pradėjo atvykti vokiečių pirkliai."
+  semantiniai_rysiai: "Vokiečių pirkliai prekiavo su Lybiai (0.96); Vokiečių pirkliai prekiavo su Aisčiai (0.95); Vokiečių pirkliai keliavo į Padauguvis (0.86); Vokiečių pirkliai prekiavo su Rusai (0.72)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "97582-97827; hash=0011da664069c50b714c2b75f4eda094fca86813947a9a0ea730e58ee5068f03; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Lybiai: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vokiečių pirkliai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lybiai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad vokiečių pirkliai prekiavo su lybiais."
   pagrindžia:
-    - c-001
+    - c-46658
 
 <a id="claim-t-73356"></a>
-- t-002
+- t-007
   global_id: t-73356
-  teiginys: 'Pirmoji krikščionių bendruomenė Padauguvyje buvo silpna ir dažnai nukentėdavo nuo pagonių antpuolių.'
+  teiginys: "Pirmoji krikščionių bendruomenė Padauguvyje buvo silpna ir dažnai nukentėdavo nuo pagonių antpuolių."
+  temporaliniai_duomenys: "įvykio data: 1180 m.; įvykio data: apie 1180 m.; įvykio data: 1229 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Pašalinta kontekstinė pradžia, teiginys sutrumpintas ir sugramatintas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "98089-98493; hash=305fd6102e86e0d876c313b5200591f47421e2a8443306c6f0a3ba7e872603ac; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> pagonys: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Padauguvis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "pagonys: mention_match, thing, gap=50"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Padauguvis\" parinktas kaip owner_note_path. Targetas \"pagonys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-46659
 - susijęs iš [[objektai/grupes/Voluiniečiai.md#claim-t-52464|Voluiniečiai]]: Ankstyvaisiais istoriniais laikais aisčiai pietuose susidūrė su lenkais ir voluiniečiais, o rytuose su gudais.
 - susijęs iš [[objektai/grupes/Voluiniečiai.md#claim-t-52465|Voluiniečiai]]: Ankstyvaisiais istoriniais laikais aisčiai pietuose susidūrė su slavais: lenkais ir voluiniečiais.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175538|Kalavijuočių ordinas]]: Kalavijuočiai atsikraustė į Padauguvį, o kryžiuočiai į Pavyslį.
@@ -77,6 +109,7 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
     lankytis vokiečių pirkliai. Jie prekiavo su lybiais ir aisčiais arba
     čia tik sustodavo, vykdami prekiauti į rusų kraštus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -96,11 +129,46 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
     vyskupas, Albertas (1199—1229 m.), ėmė organizuoti gin-
     kluotą savo tikinčiųjų apsaugą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-46658
+  citata_originali: |
+    **Pirmosios vokiečių kolonijos Padauguvy.** Nuo XI amž.,
+    kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo
+    lankytis vokiečių pirkliai. Jie prekiavo su lybiais ir aisčiais arba
+    čia tik sustodavo, vykdami prekiauti į rusų kraštus.
+  citata_rodoma: ",\nkai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo\nlankytis vokiečių pirkliai. Jie prekiavo su lybiais ir aisčiais arba\nčia tik sustodavo, vykdami prekiauti į rusų kraštus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-73355
+
+- id: c-46659
+  citata_originali: |
+    Pirmasis pago-
+    nių krikštu susirūpino misijonierius Meinhardas, kuris
+    buvo paskirtas ir pirmuoju Livonijos vyskupu (apie 1180 m.).
+    Bet pirmoji krikščionių bendruomenė Padauguvy buvo silpna,
+    ir pagonys labai dažnai ją išnaikindavo, gyventojus išžudydavo,
+    jų sodybas ir bažnyčias sudegindavo. Todėl trečiasis Livonijos
+    vyskupas, Albertas (1199—1229 m.), ėmė organizuoti gin-
+    kluotą savo tikinčiųjų apsaugą.
+  citata_rodoma: "Bet pirmoji krikščionių bendruomenė Padauguvy buvo silpna,\nir pagonys labai dažnai ją išnaikindavo, gyventojus išžudydavo,\njų sodybas ir bažnyčias sudegindavo. Todėl trečiasis Livonijos\nvyskupas, Albertas (1199—1229 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-73356
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Vokiečiai]], [[objektai/grupes/Vokiečių pirkliai]]

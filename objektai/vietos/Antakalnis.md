@@ -7,100 +7,223 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
-description: 'Antakalnis siejamas su Šv. Petro ir Povilo bažnyčia, pagoniškos šventyklos padavimais ir lietuviška vietovardžio kilme.'
-socialDescription: 'Antakalnis pristatomas per Vilijos pakrantės priemiesčio užuomazgas, Šv. Petro ir Povilo bažnyčią, pagoniškos šventyklos tradiciją ir lietuvišką vietovardžio aiškinimą.'
-seo_atnaujinta: '2026-07-02T23:12:35.448062+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 tags:
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Antakalnis
 
 ## Santrauka
 
-Antakalnis žinių bazėje atsiskleidžia kaip Vilniaus priemiestis, kurio užuomazgos siejamos su vienišomis trobomis palei Viliją tarp Aukštutinės pilies ir Antakalnio šventyklos. Pasakojimuose minima dabartinės Šv. Petro ir Povilo bažnyčios vietoje stovėjusi pagoniška šventovė, o bažnyčios statyba siejama su Mykolu Pacu ir Goštauto padavimu. Balińskis Antakalnio pavadinimą aiškina lietuviška kilme, iš formų „ant to kalno“ arba „ant pakalnės“.
+Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pagonių šventyklos tradicija ir priemiesčio formavimosi užuomazgomis palei Viliją. Balińskio pasakojime Antakalnio vietovardis aiškinamas lietuviškais, ne lotyniškais, pagrindais.
 
 ## Teiginiai
+
 <a id="claim-t-83136"></a>
-- t-001
+- t-005
   global_id: t-83136
-  teiginys: 'Dabartinių Lukiškių ir Antakalnio užuomazgos siejamos su vienišomis trobomis palei Viliją tarp Aukštutinės pilies ir Antakalnio šventyklos.'
+  teiginys: "Dabartinių Lukiškių ir Antakalnio užuomazgos siejamos su vienišomis trobomis palei Viliją tarp Aukštutinės pilies ir Antakalnio šventyklos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "240064-240572; hash=e5326d0c3ab313f70e9cd115602866314a7f9ca5c6970c4691678a886adc3851; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antakalnis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilija: mention_match, place, gap=60"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antakalnis\" parinktas kaip owner_note_path. Targetas \"Vilija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-55437
 
 <a id="claim-t-83137"></a>
-- t-002
+- t-007
   global_id: t-83137
-  teiginys: 'Antakalnio pavadinimas aiškinamas kaip kilęs iš lietuviškų žodžių „ant to kalno“ arba „ant pakalnės“.'
+  teiginys: "Antakalnio pavadinimas aiškinamas kaip kilęs iš lietuviškų žodžių „ant to kalno“ arba „ant pakalnės“."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "238268-238850; hash=b35ce5a7820413e3dae2d4388c1d41efd4556732aee5e2d33cc5c445815312ea; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antakalnis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=48"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antakalnis\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-55436
 
 <a id="claim-t-83138"></a>
-- t-003
+- t-008
   global_id: t-83138
-  teiginys: 'Dabartinio Antakalnio užuomazgos buvo vienišos trobos palei Viliją tarp Aukštutinės pilies ir Antakalnio šventyklos.'
+  teiginys: "Dabartinio Antakalnio užuomazgos buvo vienišos trobos palei Viliją tarp Aukštutinės pilies ir Antakalnio šventyklos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "240064-240572; hash=e5326d0c3ab313f70e9cd115602866314a7f9ca5c6970c4691678a886adc3851; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Troba: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antakalnis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Troba: mention_match, thing, gap=36"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antakalnis\" parinktas kaip owner_note_path. Targetas \"Troba\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-55437
 
 <a id="claim-t-83139"></a>
 - t-004
   global_id: t-83139
-  teiginys: 'Balińskis Antakalnio pavadinimą aiškina kaip nuo seno lietuvišką, siejamą su ant kalno arba ant pakalnės formomis.'
+  teiginys: "Balińskis Antakalnio pavadinimą aiškina kaip nuo seno lietuvišką, siejamą su ant kalno arba ant pakalnės formomis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "238268-238850; hash=b35ce5a7820413e3dae2d4388c1d41efd4556732aee5e2d33cc5c445815312ea; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antakalnis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antakalnis\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-55436
 
 <a id="claim-t-83140"></a>
-- t-005
+- t-009
   global_id: t-83140
-  teiginys: 'Jėzuitai pralaimėjo teisme dėl plytinės, žemės sklypo ir lankos Antakalnyje, nes neturėjo nuosavybės dokumentų.'
+  teiginys: "Jėzuitai pralaimėjo teisme dėl plytinės, žemės sklypo ir lankos Antakalnyje, nes neturėjo nuosavybės dokumentų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "530732-531380; hash=97caa508b909e2bacc1a3385aa1b1aec07eb3e0c18af3d04c0fd51121ab0300d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antakalnis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antakalnis\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-79527
 
 <a id="claim-t-83141"></a>
 - t-006
   global_id: t-83141
-  teiginys: 'Viršupio dvaras buvo prie pat Vilniaus, už Antakalnio priemiesčio.'
+  teiginys: "Viršupio dvaras buvo prie pat Vilniaus, už Antakalnio priemiesčio."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "515777-516138; hash=5b8c31dffea196101d515f1a1a7386a7f402fb704470f68c86eaae1cc4a501ea; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antakalnis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antakalnis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-55438
 
 <a id="claim-t-83142"></a>
-- t-007
+- t-010
   global_id: t-83142
-  teiginys: 'Antakalnyje hetmonas Mykolas Pacas pastatė Vilniaus barokinę Šv. Petro ir Povilo bažnyčią.'
+  teiginys: "Antakalnyje hetmonas Mykolas Pacas pastatė Vilniaus barokinę Šv. Petro ir Povilo bažnyčią."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "233927-234144; hash=7dd4865f8a7e56b239dea4c43d3d9c7de1fc4385d70660ca54171398fd08c0c8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Mykolas Pacas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antakalnis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Mykolas Pacas: mention_match, person, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antakalnis\" parinktas kaip owner_note_path. Targetas \"Mykolas Pacas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-79526
 
 <a id="claim-t-83143"></a>
-- t-008
+- t-002
   global_id: t-83143
-  teiginys: 'Pagal vieną padavimą Goštautas Antakalnyje pastatydino Šv. Petro bažnyčią pagonių šventyklos vietoje.'
+  teiginys: "Pagal vieną padavimą Goštautas Antakalnyje pastatydino Šv. Petro bažnyčią pagonių šventyklos vietoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "86553-86702; hash=a41ae646e1ee83848a2841ff228be2ad9b010866693300ccd0bdb2a735cf7032; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Viena: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antakalnis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=25"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antakalnis\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-55434
 
 <a id="claim-t-83144"></a>
-- t-009
+- t-003
   global_id: t-83144
-  teiginys: 'Antakalnyje, dabartinės Šv. Petro bažnyčios vietoje, minima medinė visiems lietuvių dievams pašvęsta šventovė.'
+  teiginys: "Antakalnyje, dabartinės Šv. Petro bažnyčios vietoje, minima medinė visiems lietuvių dievams pašvęsta šventovė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "237566-237913; hash=8bd16768bf4a44e2fcd29d62fc66aa834b62658625d06ca32d131e6f9dcc10bb; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antakalnis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=75"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antakalnis\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-55435
 
 <a id="claim-t-188663"></a>
 - t-010
   global_id: t-188663
-  teiginys: 'Pasak Narbuto minimo padavimo, Vilniaus Antakalnyje, Gedimino sode, dabartinio Šv. Petro vienuolyno vietoje stovėjusi Mildos šventykla arba koplyčia.'
+  teiginys: "Pasak Narbuto minimo padavimo, Vilniaus Antakalnyje, Gedimino sode, dabartinio Šv. Petro vienuolyno vietoje stovėjusi Mildos šventykla arba koplyčia."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "233927-234144; hash=7dd4865f8a7e56b239dea4c43d3d9c7de1fc4385d70660ca54171398fd08c0c8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antakalnis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antakalnis\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-008
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171552
+
 <a id="claim-t-188664"></a>
 - t-011
   global_id: t-188664
-  teiginys: 'Narbuto perpasakotoje Gedimino sapno legendoje Lizdeika aiškino sapną po medžioklės prie Antakalnio link stūksojusio Tauro kalno.'
+  teiginys: "Narbuto perpasakotoje Gedimino sapno legendoje Lizdeika aiškino sapną po medžioklės prie Antakalnio link stūksojusio Tauro kalno."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "530732-531380; hash=97caa508b909e2bacc1a3385aa1b1aec07eb3e0c18af3d04c0fd51121ab0300d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antakalnis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=67"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antakalnis\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-009
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171553
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188532|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas rašo, kad Gedimino kapas esąs prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio iš Užupio į Antakalnį.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172922|M. Strijkovskis Stryjkowski]]: Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais dvasininkai degindavo vaško žvakes.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172923|M. Strijkovskis Stryjkowski]]: Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais dvasininkai degindavo vaško žvakes.
@@ -150,6 +273,7 @@ Antakalnis žinių bazėje atsiskleidžia kaip Vilniaus priemiestis, kurio užuo
 - susijęs iš Viršupis: Didieji Lietuvos kunigaikščiai prie Vilniaus, už Antakalnio priemiesčio, turėjo miesto dvarą, vadinamą Viršupiu.
 - susijęs iš [[objektai/zodynas/žiogriai statinių tvoros palisadai.md#claim-t-86441|žiogriai statinių tvoros palisadai]]: Aplink pilį stovėję pastatai buvo atskirti žiogriais, arba statinių tvoromis, tarp jų plytėjo daržai ir pievos.
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -159,11 +283,13 @@ Antakalnis žinių bazėje atsiskleidžia kaip Vilniaus priemiestis, kurio užuo
     je, pagonių šventyklos vietoje, kurią
     mini Strijkovskis (Sk. IV, 1.400).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -175,11 +301,13 @@ Antakalnis žinių bazėje atsiskleidžia kaip Vilniaus priemiestis, kurio užuo
     tovė Laukai-kišas-upys, vėliau išvir­
     to į Lukiškes.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -201,12 +329,14 @@ Antakalnis žinių bazėje atsiskleidžia kaip Vilniaus priemiestis, kurio užuo
     nį regėtų plokštumoje, kalno papė­
     dėje.
   citata_rodoma: ''
+  teiginio_tipas: interpretacija
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
     - t-002
+
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -221,12 +351,14 @@ Antakalnis žinių bazėje atsiskleidžia kaip Vilniaus priemiestis, kurio užuo
     kuris jau krikščionybės laikais atsi- tai yra esančiu ant kalno, vadiname],
     rado.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-003
+
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -239,11 +371,13 @@ Antakalnis žinių bazėje atsiskleidžia kaip Vilniaus priemiestis, kurio užuo
     Iki šios dienos ten tebėra tvenkinių liekanų, ir vietovė išlai­
     kė senąjį vardą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -257,11 +391,13 @@ Antakalnis žinių bazėje atsiskleidžia kaip Vilniaus priemiestis, kurio užuo
     kolas pastatė taip pat gražiausią Vilniuje barokinę šv. Petro
     ir Povilo -bažnyčią Antakalny).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-007
   santrauka: 'Jėzuitai pralaimėjo teisme dėl plytinės, žemės sklypo ir lankos Antakalnyje, nes neturėjo nuosavybės dokumentų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -275,11 +411,13 @@ Antakalnis žinių bazėje atsiskleidžia kaip Vilniaus priemiestis, kurio užuo
     4to, Virogorų ežerą su žeme, miškais, lankomis tie patys
     tėvai jėzuitai pasisavino.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-008
   santrauka: 'Pasak Narbuto minimo padavimo, Vilniaus Antakalnyje, Gedimino sode, dabartinio Šv. Petro vienuolyno vietoje stovėjusi Mildos šventykla arba koplyčia.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -289,11 +427,14 @@ Antakalnis žinių bazėje atsiskleidžia kaip Vilniaus priemiestis, kurio užuo
     Esama padavimo, kad Vilniaus Antakalnyje, Gedimino so­
     de, buvusiame dabartinio šv. Petro vienuolyno vietoje, stovė­
     jusi Mildos šventykla arba koplyčia.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-009
   santrauka: 'Narbuto perpasakotoje Gedimino sapno legendoje Lizdeika aiškino sapną po medžioklės prie Antakalnio link stūksojusio Tauro kalno.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -313,11 +454,182 @@ Antakalnis žinių bazėje atsiskleidžia kaip Vilniaus priemiestis, kurio užuo
     gę šimtas kitų vilkų. Tą naktį gretimame miške tikrai galėjo
     kaukti vilkai, tad nedaug reikėjo, kad medžiotojui -  kunigaikš­
     čiui -  kas nors panašaus prisisapnuotų.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
+## Citatos
+
+- id: c-55434
+  citata_originali: |
+    Anot
+    kitų padavimų, Goštautas pastaty­
+    dinęs Šv. Petro bažnyčią Antakalny­
+    je, pagonių šventyklos vietoje, kurią
+    mini Strijkovskis (Sk. IV, 1.400).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-83143
+
+- id: c-55435
+  citata_originali: |
+    Gausu buvo pagonių šventyklų, nes, be tų, ku­
+    rias pilies teritorijoje buvus patyrėme, viena šventa vietovė
+    buvo ant tos kalvos, kur dabar stovi Šv. Jono bažnyčia, o Ant­
+    akalnyje, kaip tik ten, kur dabar Šv. Petro bažnyčia, buvo iš­
+    kilusi medinė šventovė, visiems lietuvių dievams pašvęsta6.
+    tovė Laukai-kišas-upys, vėliau išvir­
+    to į Lukiškes.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-83144
+
+- id: c-55436
+  citata_originali: |
+    IV, p. 400.
+    Antakalnio pavadinimas, jeigu mes
+    jį aiškintume taip, kaip to tūlas no­
+    rėtų, turėtų būti kilęs iš lotvniško žo­
+    džio ante - prieš ir collis - kalva, mat
+    jis tarp kalnų išsidėstęs, bet vietovė,
+    kur buvo lietuvių šventykla, turėjo
+    būti nuo seno lietuviškai vadinama,
+    ne lotyniškai. Antakalnis yra pava­
+    dintas arba nuo žodžių: ant-to-Kal-
+    no, arba: ant-Pakalnės, pagal tai, kaip
+    pirmasis davęs pavadinimą, Ant­
+    akalnį stebėjo; juk plaukiančiam Vi­
+    lija atrodytų esantis ant aukštumos,
+    o stovintis ant upės kranto Antakal­
+    nį regėtų plokštumoje, kalno papė­
+    dėje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-83139
+    - t-83137
+
+- id: c-55437
+  citata_originali: |
+    Čia buvo pats miesto centras - ten,
+    kur dabar stovi Rotušė ir Šv. Kazimiero bažnyčia; po Aukš­
+    tutinės ir Žemutinės pilių tai buvo tarsi trečia tvirtovė. Jo­
+    kių dabar žinomų priemiesčių tada dar nebuvo, tik vienišos
+    trobos, Lukiškėse išsibarsčiusios šventų girių kryptimi, o ki­
+    toje pusėje, tarp Aukštutinės pilies ir Antakalnio šventyk­
+    los, išsidėsčiusios palei Viliją - dabartinių Lukiškių ir Ant­
+    akalnio užuomazgos7.
+    kuris jau krikščionybės laikais atsi- tai yra esančiu ant kalno, vadiname],
+    rado.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-83136
+    - t-83138
+
+- id: c-55438
+  citata_originali: |
+    Bažny­
+    čia Rūdninkuose galėjusi būti nuo seno, bet klebonijos fun­
+    dacija datuojama nuo Zigmanto III.
+    Be Rūdninkų, didieji Lietuvos kunigaikščiai prie pat Vil­
+    niaus, už Antakalnio priemiesčio, turėjo miesto dvarą, va­
+    dinamą Viršupiu, o lietuviškai tai reiškia vandens paviršių.
+    Iki šios dienos ten tebėra tvenkinių liekanų, ir vietovė išlai­
+    kė senąjį vardą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-83141
+
+- id: c-79526
+  citata_originali: |
+    Už jų
+    pečių tuomet jau stovėjo visa Lietuva, nes, grįždamas iš elek-
+    cinio seimo, Boguslavas Radvila mirė (netoli Karaliaučiaus), ir
+    galingų konkurentų Pacams daugiau jau nebeliko Lietuvoje.
+    Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu,
+    buvo kancleris Kristupas Pacas, — tas pats, kuris pastatė gra-
+    žųjį Pažaislio vienuolyną paliai Kauną (jo brolis hetmonas My-
+    kolas pastatė taip pat gražiausią Vilniuje barokinę šv. Petro
+    ir Povilo -bažnyčią Antakalny).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-83142
+
+- id: c-79527
+  citata_originali: |
+    2do, kad tėvai jėzuitai didelę aikštę prie bažnyčios, sodą
+    ir 4 užvažiuojamus namus, pritaikę vaistinei, spaustuvei ir
+    mokyklai, prie kolegijos prijungė.
+    8tio, plytinę su žemės sklypu ir lanka Antakalnyje paė­
+    mę, jie artylleryi judicialiter pralaimėjo, kadangi, dokumentų
+    stokodami, neturėjo kuo teisme įrodyti nuosavybę.
+    4to, Virogorų ežerą su žeme, miškais, lankomis tie patys
+    tėvai jėzuitai pasisavino.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-83140
+
+- id: c-171552
+  citata_originali: |
+    Bet kai kas painioja šią patrauklią dievybę su deive Lie­
+    tuva.
+    Esama padavimo, kad Vilniaus Antakalnyje, Gedimino so­
+    de, buvusiame dabartinio šv. Petro vienuolyno vietoje, stovė­
+    jusi Mildos šventykla arba koplyčia.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188663
+
+- id: c-171553
+  citata_originali: |
+    304
+
+    ## Puslapis 304
+
+    tinai turi išaugti į didelį miestą, kadangi tą nuostabiai skati­
+    no ir vietos padėtis.
+    Lizdeika išaiškino sapną Gediminui po to, kai jis, nukovęs
+    didžiulį taurą ant aukščiausio kalno, stūksančio Antakalnio
+    link, -  išmanantys tėvynės istoriją dabar jį vadina Tauro kal­
+    nu -  nakvojo šventajame miške prie Vilnios ir Neries santa­
+    kos, vadintame Šventaragiu; jam prisisapnavo, kad matęs mil­
+    žinišką vilką, visą šarvuotą geležiniais šarvais, o jo viduje stau­
+    gę šimtas kitų vilkų. Tą naktį gretimame miške tikrai galėjo
+    kaukti vilkai, tad nedaug reikėjo, kad medžiotojui -  kunigaikš­
+    čiui -  kas nors panašaus prisisapnuotų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188664
 
 ## Ryšiai
 - Antakalnis priklausė [[objektai/vietos/Vilnius]]

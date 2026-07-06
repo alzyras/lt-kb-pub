@@ -15,6 +15,18 @@ tags:
   - vieta
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kamienecas
 
@@ -27,10 +39,22 @@ Abu magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­ jos s
 <a id="claim-t-36264"></a>
 - t-001
   global_id: t-36264
-  teiginys: 'Kamienecas buvo minimas tarp krikščioniškų Trakų kunigaikštijos sričių, kurių magistrai pasižadėjo nepulti.'
+  teiginys: "Kamienecas buvo minimas tarp krikščioniškų Trakų kunigaikštijos sričių, kurių magistrai pasižadėjo nepulti."
+  semantiniai_rysiai: "Kamienecas priklausė Trakai (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1379 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "670616-671103; hash=1ce11cba5fc76d46d7066241fc8e432d7d6d7758e251450f2a05ae3ccbe90bff; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Trakai: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kamienecas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kamienecas nurodomas kaip viena iš Trakų kunigaikštijos sričių."
   pagrindžia:
-    - c-001
-
+    - c-38507
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,11 +70,33 @@ Abu magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­ jos s
     Ordino apskričių (Osterodes, Ortelsburgo, Wartenburgo ir
     Varmijos)^1 ).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-38507
+  citata_originali: |
+    Su pagoniškąja Lietuva pirmąsias nuolatinio karo paliau­
+    bas Ordinas padarė 1379 m. Labai įdomios ir viduramžiui
+    charakteringos jų sąlygos: paliaubos daromos 10 metų. Abu
+    magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­
+    jos sričių (Gardino, Volkovisko, Drahočyno, Mielniko, Bielsko,
+    Brastos, Kamienco) Lietuvos gi kunigaikščiai — Jogaila su
+    Kęstučiu, — pasižadėjo nepulti prie tų pat sričių prieinančių
+    Ordino apskričių (Osterodes, Ortelsburgo, Wartenburgo ir
+    Varmijos)^1 ).
+  citata_rodoma: "Abu\nmagistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­\njos sričių (Gardino, Volkovisko, Drahočyno, Mielniko, Bielsko,\nBrastos, Kamienco) Lietuvos gi kunigaikščiai — Jogaila su\nKęstučiu, — pasižadėjo nepulti prie tų pat sričių prieinančių\nOrdino apskričių (Osterodes, Ortelsburgo, Wartenburgo ir\nVarmijos)^1 )."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36264
 
 ## Ryšiai
 - Kamienecas priklausė [[objektai/vietos/Trakai]]

@@ -15,6 +15,18 @@ amziai:
   - 'XVII'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # J. Radvila
 
@@ -27,9 +39,22 @@ Radvilos pajėgos.
 <a id="claim-t-40164"></a>
 - t-001
   global_id: t-40164
-  teiginys: 'Caro kariuomenė prie Smolensko vengė šturmuoti tvirtovę, kol netoliese buvo J. Radvilos pajėgos.'
+  teiginys: "Caro kariuomenė prie Smolensko vengė šturmuoti tvirtovę, kol netoliese buvo J. Radvilos pajėgos."
+  temporaliniai_duomenys: "įvykio data: 1654 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai sieja caro kariuomenės neveiklumą su J. Radvilos pajėgomis ir yra pagrįstas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "517399-517690; hash=8d9aec4ecb026e9e2b322980b5c1059c391c13cea7fb41bc4b9af47336c38fad; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Radvilos: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "J. Radvila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Radvilos: mention_match, group, gap=3"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Radvila\" parinktas kaip owner_note_path. Targetas \"Radvilos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-44364
 - susijęs iš [[objektai/ivykiai/Kėdainių unija (1655 m. spalio 20 d.).md#claim-t-80674|Kėdainių unija (1655 m. spalio 20 d.)]]: Po Kėdainių unijos švedai nepateisino Jonušo Radvilos lūkesčių: jis negavo reikšmingų pareigų, o karinė pagalba nebuvo suteikta.
 - susijęs iš [[objektai/ivykiai/Kėdainių unija (1655 m. spalio 20 d.).md#claim-t-80673|Kėdainių unija (1655 m. spalio 20 d.)]]: Jonušo Radvilos pastangomis Kėdainių unija su Švedija buvo sudaryta 1655 m. spalio 20 d.
 - susijęs iš [[objektai/ivykiai/Kėdainių unija (1655 m. spalio 20 d.).md#claim-t-80675|Kėdainių unija (1655 m. spalio 20 d.)]]: Jonušas Radvila siekė nutraukti LDK uniją su Lenkija ir sudaryti naują uniją su Švedija.
@@ -49,11 +74,32 @@ Radvilos pajėgos.
     Esant tokiai padėčiai atėjo 1654 m. rug-
     pjūčio 12 diena.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-44364
+  citata_originali: |
+    Etmonas siųsdavo atskirus dalinius
+    Smolensko link ir puldinėjo mažesnius
+    priešo dalinius. Caro kariuomenė prie
+    Smolensko taip pat nesiryžo imtis ryz-
+    tingesnių veiksmų ir šturmuoti tvirto-
+    vės, kol netoliese buvo J. Radvilos pajėgos.
+    Esant tokiai padėčiai atėjo 1654 m. rug-
+    pjūčio 12 diena.
+  citata_rodoma: "Caro kariuomenė prie\nSmolensko taip pat nesiryžo imtis ryz-\ntingesnių veiksmų ir šturmuoti tvirto-\nvės, kol netoliese buvo J. Radvilos pajėgos.\nEsant tokiai padėčiai atėjo 1654 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40164
 
 ## Ryšiai
 - J. Radvila surengė žygį į [[objektai/vietos/Lojevas]]

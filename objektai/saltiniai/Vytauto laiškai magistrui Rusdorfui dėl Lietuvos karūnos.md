@@ -15,6 +15,18 @@ tags:
   - tauta
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vytauto laiškai magistrui Rusdorfui dėl Lietuvos karūnos
 
@@ -27,10 +39,22 @@ amziai:
 <a id="claim-t-88500"></a>
 - t-001
   global_id: t-88500
-  teiginys: '1430 m. rugpjūtį Vytautas laiške magistrui Rusdorfui pranešė apie Maskvos ir Tverės kunigaikščių atvykimą į Lietuvą.'
+  teiginys: "1430 m. rugpjūtį Vytautas laiške magistrui Rusdorfui pranešė apie Maskvos ir Tverės kunigaikščių atvykimą į Lietuvą."
+  temporaliniai_duomenys: "įvykio data: 1430 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia laiško datą, adresatą ir praneštą įvykį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "352581-353218; hash=c9038d12151add4d83cc81e61327a54328734968d459e7edc43888b6ab8120c4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vytauto laiškai magistrui Rusdorfui dėl Lietuvos karūnos: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=91"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto laiškai magistrui Rusdorfui dėl Lietuvos karūnos\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-84479
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -58,8 +82,41 @@ amziai:
     Tverės kunigaikščio atvykimą į Lie­
     tuvą rugpjūčio 8-ą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-84479
+  citata_originali: |
+    Pa­
+    galiau pakviestas atvyksta Jogaila, lydimas gausaus Len-
+    karalių Zigmantą nuo ketinimo ka­
+    rūnuoti Vytautą, ir Nr. 101, kuria­
+    me, rašydamas Vytautui, reiškia
+    džiaugsmą dėl jo susitaikymo su Jo­
+    gaila ir todėl dedąs viltis, jog čekų
+    eretikai būsią šiek tiek apmalšinti.
+    84
+    Kryžiuočių Slaptajame
+    Archyve, Karaliaučiuje, yra Vy­
+    tauto laiškų, rašytų magistrui Rus-
+    dorfui (pasak Karamzino, V, p. 145)
+    derybų dėl Lietuvos karūnos Vytau­
+    tui dingstimi, kur viename iš jų, da­
+    tuotame 1430 m. rugpjūčio mėn.,
+    didžiajam magistrui praneša apie
+    Maskvos didžiojo kunigaikščio ir
+    Tverės kunigaikščio atvykimą į Lie­
+    tuvą rugpjūčio 8-ą.
+  citata_rodoma: "84\nKryžiuočių Slaptajame \nArchyve, Karaliaučiuje, yra Vy­\ntauto laiškų, rašytų magistrui Rus- \ndorfui (pasak Karamzino, V, p. 145) \nderybų dėl Lietuvos karūnos Vytau­\ntui dingstimi, kur viename iš jų, da­\ntuotame 1430 m. rugpjūčio mėn., \ndidžiajam magistrui praneša apie \nMaskvos didžiojo kunigaikščio ir \nTverės kunigaikščio atvykimą į Lie­\ntuvą rugpjūčio 8-ą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88500

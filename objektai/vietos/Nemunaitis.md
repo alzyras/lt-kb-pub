@@ -5,6 +5,18 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Nemunaitis
 
@@ -13,17 +25,32 @@ atnaujinta: ''
 Narbutas minėjo padavimą, kad keliautojų vadas Nemunas buvęs garbinamas kaip dievas ir turėjęs šventyklą Nemunaityje prie Nemuno.
 
 ## Teiginiai
+
 <a id="claim-t-189027"></a>
 - t-001
   global_id: t-189027
-  teiginys: 'Narbutas minėjo padavimą, kad keliautojų vadas Nemunas buvęs garbinamas kaip dievas ir turėjęs šventyklą Nemunaityje prie Nemuno.'
+  teiginys: "Narbutas minėjo padavimą, kad keliautojų vadas Nemunas buvęs garbinamas kaip dievas ir turėjęs šventyklą Nemunaityje prie Nemuno."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "375574-376109; hash=e584319d561c0147be87d3f6865483d6b19e34653515427a5376d23ac4debaaa; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Betygala: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Nemunaitis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Betygala: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nemunaitis\" parinktas kaip owner_note_path. Targetas \"Betygala\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171916
 - susijęs iš [[objektai/asmenys/Nemunas (jūrininkas).md#claim-t-190076|Nemunas (jūrininkas)]]: Narbutas perteikia padavimą, kad keliautojų vadas Nemunas buvo garbinamas kaip dievas ir turėjo šventyklą Nemunaityje prie Nemuno.
 - susijęs iš Nemunas: Narbutas minėjo padavimą, kad keliautojų vadas Nemunas buvęs garbinamas kaip dievas ir turėjęs šventyklą Nemunaityje prie Nemuno.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Narbutas minėjo padavimą, kad keliautojų vadas Nemunas buvęs garbinamas kaip dievas ir turėjęs šventyklą Nemunaityje prie Nemuno.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -38,8 +65,31 @@ Narbutas minėjo padavimą, kad keliautojų vadas Nemunas buvęs garbinamas kaip
     ant Nemuno kranto; panašu, kad ten, kur šiandien Trakų ap­
     skrityje yra taip besivadinąs miestelis su pylimų žymėmis ir
     keliais milžinkapiais.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-171916
+  citata_originali: |
+    Siek tiek pasistūmėję upe
+    aukštyn, jie įsitikino, kad galima pasiekti užsibrėžtąjį tikslą,
+    ir uždainavo dainą, išreiškiančią džiaugsmą, kad jau kelio­
+    nės pabaiga: Bet ir galas, bet yra galas; iš to kilo Betygalos
+    (Betygola) pavadinimas. Šių keliautojų vadas vadinosi Nemu­
+    nas (Nemon). Apie jį dar esama padavimo, kad jis buvęs gar­
+    binamas kaip dievas ir turėjęs savo šventyklą Nemunaityje,
+    ant Nemuno kranto; panašu, kad ten, kur šiandien Trakų ap­
+    skrityje yra taip besivadinąs miestelis su pylimų žymėmis ir
+    keliais milžinkapiais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-189027

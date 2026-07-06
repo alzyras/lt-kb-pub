@@ -10,6 +10,18 @@ tags:
   - didikas
   - kunigaikštis
   - miestas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Motiejus (Vilniaus vyskupas)
 
@@ -20,26 +32,55 @@ tags:
 ## Teiginiai
 
 <a id="claim-t-87446"></a>
-- t-001
+- t-002
   global_id: t-87446
-  teiginys: 'Vilniaus vyskupui Motiejui ir jo įpėdiniams buvo dovanotas dvaras Medininkų valsčiuje.'
+  teiginys: "Vilniaus vyskupui Motiejui ir jo įpėdiniams buvo dovanotas dvaras Medininkų valsčiuje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "453102-453857; hash=bb8f069a44a1cb06aa086df4d211fb74adb46d59464c0e0239a32cde64e8f25d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Medininkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Motiejus (Vilniaus vyskupas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Medininkai: mention_match, place, gap=48"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus (Vilniaus vyskupas)\" parinktas kaip owner_note_path. Targetas \"Medininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-83427
 
 <a id="claim-t-87447"></a>
-- t-002
+- t-003
   global_id: t-87447
-  teiginys: 'Vilniaus vyskupas Motiejus raštu suteikė kapitulai ir jos valdiniams jurisdikciją su teise taikyti bažnytines cenzūras.'
+  teiginys: "Vilniaus vyskupas Motiejus raštu suteikė kapitulai ir jos valdiniams jurisdikciją su teise taikyti bažnytines cenzūras."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "730245-731516; hash=6b4aa199d01f48603158aa74b561eb0e0c4b027338fd8d869c052c8fe24a61f1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Motiejus: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Motiejus (Vilniaus vyskupas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Motiejus: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus (Vilniaus vyskupas)\" parinktas kaip owner_note_path. Targetas \"Motiejus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-83426
 
 <a id="claim-t-87448"></a>
-- t-003
+- t-001
   global_id: t-87448
-  teiginys: 'Vilniaus vyskupas Motiejus buvo nurodytas tarp kunigaikščių ir prelatų sutartyje, kurią leista laiduoti Vilniui.'
+  teiginys: "Vilniaus vyskupas Motiejus buvo nurodytas tarp kunigaikščių ir prelatų sutartyje, kurią leista laiduoti Vilniui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "339112-339781; hash=4964e660b96cf84d2e647883e796f452b7f52b29a5a6326122a78601c2bc4247; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Motiejus: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Motiejus (Vilniaus vyskupas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Motiejus: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus (Vilniaus vyskupas)\" parinktas kaip owner_note_path. Targetas \"Motiejus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-83425
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -66,6 +107,7 @@ tags:
     Trakų kaštelionas Jonas Švitrigaila,
     Šalčininkų seniūnas Mantautas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -99,6 +141,7 @@ tags:
     mo ir smurto, miesto pareigūnų ar tarnų įvykdyto Vilniaus
     kapitulai, jos turtui bei valdiniams.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -130,8 +173,101 @@ tags:
     pat mūsų valdinio, vadinamo An-
     driušiu, prie to paties dvaro esančią.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83425
+  citata_originali: |
+    Lenkijos miestai, jau
+    Kazimiero Didžiojo laikais turėję
+    ypatingą padėtį karalystėje, ne kar­
+    tą dalyvaudavo seimuose ir derybo­
+    se su kryžiuočiais, o Vilnius, būda­
+    mas anuomet vienas reikšmingas
+    Lietuvoj miestas, pirmą kartą ir, re­
+    gis, kaip Horodlės privilegijos išda­
+    va, buvo sulygintas su Lenkijos
+    miestais ir jam leista laiduoti sutar­
+    tį. Šioje sutartyje tarp kunigaikščių
+    ir prelatų nurodyti: Černigovo ku­
+    nigaikštis Švitrigaila, Vilniaus vys­
+    kupas Motiejus ir Medininkų (Žemai­
+    tija) vyskupas nominatas Mikalojus.
+    Tarp Lietuvos didikų buvo: Žemai­
+    čių seniūnas Mykolas Skirgaila ir
+    Trakų kaštelionas Jonas Švitrigaila,
+    Šalčininkų seniūnas Mantautas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87448
+
+- id: c-83426
+  citata_originali: |
+    IV KNYGA
+    duonos formos miesto tarnams ir pareigūnams grasino kal­
+    bomis apie ekskomunikaciją, pažeisdama seną paprotį ir
+    miestui duotas privilegijas. Savo ir minėto miesto vardu [ta­
+    rėjai] reikalavo, kad nuo tos naujai kapitulos pasisavintos
+    jurisdikcijos būtų laisvi ir atleisti. O prelatai ir kanauninkai
+    savo ir visos minėtos Vilniaus kapitulos vardu į tai atsakė,
+    kad jie niekam skriaudos nepadarė, teise, nuo seno Vilniaus
+    vyskupų suteikta ir tiek Apaštalų Sosto, tiek ir Lietuvos ku­
+    nigaikščių, mūsų pirmtakų ir mūsų pačių patvirtinta, vado­
+    vavosi, kuria nuo neatmenamų laikų iki pat šios dienos, kiek
+    tik buvo būtina, naudojosi; ir paremdami šitokį teiginį, pa­
+    teikė kitados buvusio didžiai gerbiamo Vilniaus vyskupo
+    Motiejaus raštą, kuriuo pačiai kapitulai ir jos valdiniams bu­
+    vo suteikta jurisdikcija su leidimu taikyti bažnytines cenzū­
+    ras, ir taip pat kitus minėto Motiejaus įpėdinių, Vilniaus vys­
+    kupų raštus, išrūpintus tiek iš Apaštalų Sosto, tiek iš jo
+    legatų, patvirtinančius ir minėtą jurisdikciją, ir kitas teises,
+    ir kapitulos bei Vilniaus bažnyčios statutą, pridurdami, kad
+    prasižengta ne tik dėl pasaulietinių dalykų, bet ir dėl plėši­
+    mo ir smurto, miesto pareigūnų ar tarnų įvykdyto Vilniaus
+    kapitulai, jos turtui bei valdiniams.
+  citata_rodoma: "Savo ir minėto miesto vardu [ta­\nrėjai] reikalavo, kad nuo tos naujai kapitulos pasisavintos \njurisdikcijos būtų laisvi ir atleisti. O prelatai ir kanauninkai \nsavo ir visos minėtos Vilniaus kapitulos vardu į tai atsakė, \nkad jie niekam skriaudos nepadarė, teise, nuo seno Vilniaus \nvyskupų suteikta ir tiek Apaštalų Sosto, tiek ir Lietuvos ku­\nnigaikščių, mūsų pirmtakų ir mūsų pačių patvirtinta, vado­\nvavosi, kuria nuo neatmenamų laikų iki pat šios dienos, kiek \ntik buvo būtina, naudojosi; ir paremdami šitokį teiginį, pa­\nteikė kitados buvusio didžiai gerbiamo Vilniaus vyskupo \nMotiejaus raštą, kuriuo pačiai kapitulai ir jos valdiniams bu­\nvo suteikta jurisdikcija su leidimu taikyti bažnytines cenzū­\nras, ir taip pat kitus minėto Motiejaus įpėdinių, Vilniaus vys­\nkupų raštus, išrūpintus tiek iš Apaštalų Sosto, tiek iš jo \nlegatų, patvirtinančius ir minėtą jurisdikciją, ir kitas teises, \nir kapitulos bei Vilniaus bažnyčios statutą, pridurdami, kad \nprasižengta ne tik dėl pasaulietinių dalykų, bet ir dėl plėši­\nmo ir smurto, miesto pareigūnų ar tarnų įvykdyto Vilniaus \nkapitulai, jos turtui bei valdiniams."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87447
+
+- id: c-83427
+  citata_originali: |
+    Nusilpęs, nesėkmių pribaigtas prūsas lio­
+    vėsi kliudęs Lietuvos ryšiams bei svarbiems šios valstybės
+    reikalams su kylančia rytuose Rusija, o Jogailos ir Vytauto
+    įpėdinių kova su žlungančiu
+    Lenkiją.
+    in districtu Jenkmen, Kirkitto et Szo-
+    dejko, cum eorum filiis et posteris. Item
+    homines dictos Mondunij in districtu
+    Nemenczani" etc. etc. [Dievobaimin­
+    ga širdimi apsvarstę pirmuosius
+    veiksmus, Kristuje gerbiamam tėvui
+    ponui Vilniaus vyskupui Motiejui ir
+    jo įpėdiniams, Visagalio Dievo ir šlo­
+    vingosios Mergelės Marijos garbei ir
+    t. t. (Dovanojame) mūsų dvarą Me­
+    dininkų valsčiuje; kurį kitados val­
+    dė broliai Ivaška ir Fedka, vadina­
+    mi Korevičiais, ir vieną žemę, taip
+    pat mūsų valdinio, vadinamo An-
+    driušiu, prie to paties dvaro esančią.
+  citata_rodoma: "[Dievobaimin­\nga širdimi apsvarstę pirmuosius \nveiksmus, Kristuje gerbiamam tėvui \nponui Vilniaus vyskupui Motiejui ir \njo įpėdiniams, Visagalio Dievo ir šlo­\nvingosios Mergelės Marijos garbei ir \nt. t. (Dovanojame) mūsų dvarą Me­\ndininkų valsčiuje; kurį kitados val­\ndė broliai Ivaška ir Fedka, vadina­\nmi Korevičiais, ir vieną žemę, taip \npat mūsų valdinio, vadinamo An- \ndriušiu, prie to paties dvaro esančią."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87446

@@ -11,11 +11,6 @@ datos:
   - '1541 m.'
 date_start: '1490'
 date_end: '1541'
-description: 'Rusėnai LDK formavosi atskirai nuo Maskvos rusų, kūrė rašto kalbą ir davė Lietuvai pirmąjį spaustuvininką Pranciškų Skoriną.'
-socialDescription: 'Kas buvo LDK rusėnai, kaip formavosi jų rašto kalba ir kodėl Pranciškus Skorina svarbus Lietuvos kultūrai?'
-seo_atnaujinta: '2026-07-02T23:12:35.452157+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,84 +21,206 @@ tags:
 amziai:
   - 'XV'
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Rusėnai
 
 ## Santrauka
 
-Rusėnai buvo LDK slavų tauta, susiformavusi stačiatikiškose senrusių žemėse atskirai nuo Maskvos rusų. LDK raštinėje formavosi rusėnų kalba, kuria buvo surašyti svarbūs raštijos paminklai, tarp jų Lietuvos Metrika, metraščiai ir Statutai. Iš rusėnų kultūrinės aplinkos kilo Pranciškus Skorina, 1522 m. Vilniuje įkūręs spaustuvę.
+Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo) valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš Lietuvos. Jose pamažu formavosi atskira nuo Maskvos rusų LDK slavų – rusėnų tauta, iš kurios vėliau ir atsiras šiuolaikinės baltarusių ir ukrainiečių tautos. Vienuolynuose rašoma bulgarų kilmės slavų bažnytine kalba, o LDK raštinėje pradėjo formuotis rusėnų kalba.
 
 ## Teiginiai
 
 <a id="claim-t-74904"></a>
-- t-001
+- t-006
   global_id: t-74904
-  teiginys: 'Pranciškus Skorina kilo iš rusėnų kultūrinės aplinkos ir buvo pirmasis Lietuvos spaustuvininkas.'
+  teiginys: "Pranciškus Skorina kilo iš rusėnų kultūrinės aplinkos ir buvo pirmasis Lietuvos spaustuvininkas."
+  temporaliniai_duomenys: "įvykio data: 1517-1519; įvykio data: 1519 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "110233-110619; hash=8e9b127b127b086cd5fe45d1f391dc0d20d5c73b48ca3d198a883f642d73a601; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rusėnai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusėnai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-22729
 
 <a id="claim-t-74905"></a>
-- t-002
+- t-005
   global_id: t-74905
-  teiginys: 'LDK rusėnai save vadino rusais, suvokė kaip vieną etninę grupę ir Lietuvos valdovą laikė savu valdovu.'
+  teiginys: "LDK rusėnai save vadino rusais, suvokė kaip vieną etninę grupę ir Lietuvos valdovą laikė savu valdovu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "109929-110232; hash=a0e4fdf10bb2c194351a252ff0fd40dc1c5f7fe3fea7b366088b15f1398cba44; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rusėnai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=62"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusėnai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-22728
 
 <a id="claim-t-74906"></a>
-- t-003
+- t-002
   global_id: t-74906
-  teiginys: 'LDK slavų rusėnų tauta formavosi atskirai nuo Maskvos rusų, o iš jos vėliau kilo šiuolaikinės baltarusių ir ukrainiečių tautos.'
+  teiginys: "LDK slavų rusėnų tauta formavosi atskirai nuo Maskvos rusų, o iš jos vėliau kilo šiuolaikinės baltarusių ir ukrainiečių tautos."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "59588-60036; hash=481fef92eacfdc8bf368daffcdf90e1a119e8b7fdbd49722a7a65b3ff18145c1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltarusiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rusėnai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Baltarusiai: mention_match, group, gap=84"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusėnai\" parinktas kaip owner_note_path. Targetas \"Baltarusiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-22724
 
 <a id="claim-t-74907"></a>
-- t-004
+- t-003
   global_id: t-74907
-  teiginys: 'LDK raštinėje pradėjo formuotis rusėnų kalba, skyrusi ją nuo vienuolynuose vartotos bulgarų kilmės slavų bažnytinės kalbos.'
+  teiginys: "LDK raštinėje pradėjo formuotis rusėnų kalba, skyrusi ją nuo vienuolynuose vartotos bulgarų kilmės slavų bažnytinės kalbos."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "66760-67171; hash=a59c9c43e526f097df19a968c9a5a479a86e3a6795c3cee933f3a0e8376e16e0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Slavai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rusėnai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Slavai: mention_match, group, gap=67"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusėnai\" parinktas kaip owner_note_path. Targetas \"Slavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-003
+    - c-22725
 
 <a id="claim-t-74908"></a>
-- t-005
+- t-001
   global_id: t-74908
-  teiginys: 'Mokslininkų aiškinimu, Lietuvos valdovai rusėnų ir žemaičių žemėse galėjo įkurdinti ištikimus žmones iš Lietuvos.'
+  teiginys: "Mokslininkų aiškinimu, Lietuvos valdovai rusėnų ir žemaičių žemėse galėjo įkurdinti ištikimus žmones iš Lietuvos."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "15796-16322; hash=93416a6770e3e20e2b811353c57522d0ee6f4013738297451b91bbdec15d59ec; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rusėnai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusėnai\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-22723
 
 <a id="claim-t-74909"></a>
-- t-006
+- t-010
   global_id: t-74909
-  teiginys: 'Pranciškus Skorina buvo iš rusėnų kultūrinės aplinkos kilęs pirmasis Lietuvos spaustuvininkas.'
+  teiginys: "Pranciškus Skorina buvo iš rusėnų kultūrinės aplinkos kilęs pirmasis Lietuvos spaustuvininkas."
+  temporaliniai_duomenys: "įvykio data: 1517-1519; įvykio data: 1519 m.; įvykio data: 1522 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys sieja Pranciškų Skoriną su rusėnų kultūrine aplinka ir yra pagrįstas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "110368-110768; hash=ea8ea2af0a189e66ba1ee5dd30118064869bd6c4df20d5180680c22265a75f47; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rusėnai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusėnai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-72869
 
 <a id="claim-t-74910"></a>
 - t-007
   global_id: t-74910
-  teiginys: 'Lenkijai ir Lietuvai priklausiusiose rusėnų žemėse išplito alodas, vakarietiška ūkininkavimo ir nuosavybės forma.'
+  teiginys: "Lenkijai ir Lietuvai priklausiusiose rusėnų žemėse išplito alodas, vakarietiška ūkininkavimo ir nuosavybės forma."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "68001-68698; hash=91770ab389fea1c1b4f6a332d4302f1c69b382118b5221bcc3a818bb89313210; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rusėnai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=37"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusėnai\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-72871
 
 <a id="claim-t-74912"></a>
 - t-008
   global_id: t-74912
-  teiginys: 'Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo rusėnų – LDK stačiatikių (baltarusių ir ukrainiečių protėvių) kalba.'
+  teiginys: "Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo rusėnų – LDK stačiatikių (baltarusių ir ukrainiečių protėvių) kalba."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "108209-108564; hash=d84af0bba9d678ce4007ec1af9734278102553c74f568230c7baf922d7730360; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Stačiatikiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rusėnai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Stačiatikiai: mention_match, group, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusėnai\" parinktas kaip owner_note_path. Targetas \"Stačiatikiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-72870
 
 <a id="claim-t-74913"></a>
-- t-009
+- t-004
   global_id: t-74913
-  teiginys: 'XV–XVI a. Lietuvos Metrikos rusėnų kalboje buvo vartojamos lietuviškos ūkio sąvokos, paplitusios net Ukrainoje.'
+  teiginys: "XV–XVI a. Lietuvos Metrikos rusėnų kalboje buvo vartojamos lietuviškos ūkio sąvokos, paplitusios net Ukrainoje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "68001-68698; hash=91770ab389fea1c1b4f6a332d4302f1c69b382118b5221bcc3a818bb89313210; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ukraina: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rusėnai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Ukraina: mention_match, place, gap=73"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusėnai\" parinktas kaip owner_note_path. Targetas \"Ukraina\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-72871
 
 <a id="claim-t-183179"></a>
-- t-010
+- t-011
   global_id: t-183179
-  teiginys: 'Mokslininkų aiškinimu, rusėnų ir žemaičių žemėse įkurdinti Lietuvos valdovų žmonės galėjo būti vadinami leičiais.'
+  teiginys: "Mokslininkų aiškinimu, rusėnų ir žemaičių žemėse įkurdinti Lietuvos valdovų žmonės galėjo būti vadinami leičiais."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "15889-16439; hash=c6203bb33092d0dd4a662e73a643b259cf927c59dada081af323b791aec2297f; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rusėnai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=36"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusėnai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-166566
 - susijęs iš Chotynas: LDK karinės pergalės Chotyne stiprino politinės tautos sampratą, nes lietuviai jose kovojo petys į petį su rusėnais.
 - susijęs iš Salaspilis: Kirchholmas, dabartinis Salaspilis, minimas tarp LDK karinių pergalių vietų, kur lietuviai kovojo kartu su rusėnais.
 - susijęs iš [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.).md#claim-t-186373|Salaspilio (Kircholmo) mūšis (1605 m.)]]: Salaspilio, arba Kirchholmo, mūšis buvo viena iš LDK karinių pergalių, kuriose lietuviai kovojo petys į petį su rusėnais.
@@ -209,8 +326,9 @@ Rusėnai buvo LDK slavų tauta, susiformavusi stačiatikiškose senrusių žemė
     žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš
     Lietuvos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
@@ -226,8 +344,9 @@ Rusėnai buvo LDK slavų tauta, susiformavusi stačiatikiškose senrusių žemė
     mažu formavosi atskira nuo Maskvos rusų LDK slavų – rusėnų tauta, iš
     kurios vėliau ir atsiras šiuolaikinės baltarusių ir ukrainiečių tautos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -243,8 +362,9 @@ Rusėnai buvo LDK slavų tauta, susiformavusi stačiatikiškose senrusių žemė
     tradicijai, ir surašyti reikšmingiausi to meto raštijos paminklai – Lie-
     tuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
@@ -259,6 +379,7 @@ Rusėnai buvo LDK slavų tauta, susiformavusi stačiatikiškose senrusių žemė
     vadino rusais, save suvokė kaip vieną etninę grupę, o Lietuvos valdovą laikė
     savu valdovu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -275,8 +396,9 @@ Rusėnai buvo LDK slavų tauta, susiformavusi stačiatikiškose senrusių žemė
     Skorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten me-
     dicinos daktaro laipsnį, 1517–1519 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -292,8 +414,9 @@ Rusėnai buvo LDK slavų tauta, susiformavusi stačiatikiškose senrusių žemė
     psalmyną ir 22 Senojo Testamento knygas bendru pavadinimu „Rusėnų
     Biblija“. 1522 m. jis įkūrė spaustuvę Vilniuje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
@@ -307,6 +430,7 @@ Rusėnai buvo LDK slavų tauta, susiformavusi stačiatikiškose senrusių žemė
     tradicijų nebuvo sukūrusi, o stačiatikiai valdiniai jau turėjo kelių šimtmečių
     bažnytinę rašto tradiciją nuo Kijevo Rusios laikų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -327,6 +451,7 @@ Rusėnai buvo LDK slavų tauta, susiformavusi stačiatikiškose senrusių žemė
     kluonas („klunia“), aruodas („orud“), priemenė („primen“). Pateko net
     lietuviškos „gerovės“ žodžiai: kumpis („kompa“) ar skilandis („skilond“).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -347,11 +472,162 @@ Rusėnai buvo LDK slavų tauta, susiformavusi stačiatikiškose senrusių žemė
     Lietuvos. Šie žmonės aplinkinių buvo vadinami „leičiais“ (latviai iki šiol
     vadina lietuvius „leišiais“), o gal ir „liečiais“.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
+## Citatos
+
+- id: c-22723
+  citata_originali: |
+    Šie argumentai nuginčija paplitusią versiją, bet nepaaiškina, iš kur kilęs
+    Lietuvos vardas. Šiandien mokslininkai, remdamiesi prielaida, kad Lie-
+    tuvos vardas turi būti išvestas iš etnonimo „lietuvis“, atkreipė dėmesį į
+    vietovardžius su šaknimis „leit-“ ir „liet-“ už Lietuvos ribų. Grindžiama
+    mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
+    valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat
+    žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš
+    Lietuvos.
+  citata_rodoma: "Grindžiama\nmintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)\nvalstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat\nžemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš\nLietuvos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-74908
+
+- id: c-22724
+  citata_originali: |
+    Valdant Ldk
+    Algirdui (1345–1377) Lietuva ne tik tampa didvalstybe, bet ir išplečia
+    savo teritoriją nuo Baltijos iki Juodosios jūros. Tai nulėmė, kad Lietuva
+    pasidarė dvilypė – apėmė etnines pagoniškas lietuvių žemes ir platesnes
+    teritoriškai, gausesnes gyventojų stačiatikiškas senrusių žemes. Jose pa-
+    mažu formavosi atskira nuo Maskvos rusų LDK slavų – rusėnų tauta, iš
+    kurios vėliau ir atsiras šiuolaikinės baltarusių ir ukrainiečių tautos.
+  citata_rodoma: "Jose pa-\nmažu formavosi atskira nuo Maskvos rusų LDK slavų – rusėnų tauta, iš\nkurios vėliau ir atsiras šiuolaikinės baltarusių ir ukrainiečių tautos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-74906
+
+- id: c-22725
+  citata_originali: |
+    Valdovo dvariškiai stačiatikiai, rašto išmokę stačiatikių vienuolynuo-
+    se, kūrė valdovo raštinę. Vienuolynuose rašoma bulgarų kilmės slavų
+    bažnytine kalba, o LDK raštinėje pradėjo formuotis rusėnų kalba. Šia
+    kalba, LDK raštinėje susiformavusia alternatyva „bulgariškai“ raštijos
+    tradicijai, ir surašyti reikšmingiausi to meto raštijos paminklai – Lie-
+    tuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai.
+  citata_rodoma: "Vienuolynuose rašoma bulgarų kilmės slavų\nbažnytine kalba, o LDK raštinėje pradėjo formuotis rusėnų kalba. Šia\nkalba, LDK raštinėje susiformavusia alternatyva „bulgariškai“ raštijos\ntradicijai, ir surašyti reikšmingiausi to meto raštijos paminklai – Lie-\ntuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-74907
+
+- id: c-22728
+  citata_originali: |
+    XVI a. rusėnai pasijuto visai atskira tauta, kitokia nei Mas-
+    kvos valstybės rusai. LDK rytų slavai Rusijos žmones vadino maskvėnais, o
+    maskvėnai savo ruožtu LDK rytų slavus – lietuviais. Patys LDK slavai save
+    vadino rusais, save suvokė kaip vieną etninę grupę, o Lietuvos valdovą laikė
+    savu valdovu.
+  citata_rodoma: "Patys LDK slavai save\nvadino rusais, save suvokė kaip vieną etninę grupę, o Lietuvos valdovą laikė\nsavu valdovu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-74905
+
+- id: c-22729
+  citata_originali: |
+    Taigi rusėnai atsiskyrė nuo Rusijos rusų. Tik XVII a. rusėnai
+    skilo į dvi tautas: ukrainiečius – pietuose ir baltarusius – šiaurėje.
+    Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustu-
+    vininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus
+    Skorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten me-
+    dicinos daktaro laipsnį, 1517–1519 m.
+  citata_rodoma: "Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustu-\nvininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus\nSkorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten me-\ndicinos daktaro laipsnį, 1517–1519 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-74904
+
+- id: c-72869
+  citata_originali: |
+    Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustu-
+    vininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus
+    Skorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten me-
+    dicinos daktaro laipsnį, 1517–1519 m. Prahoje parengęs ir išspausdinęs
+    psalmyną ir 22 Senojo Testamento knygas bendru pavadinimu „Rusėnų
+    Biblija“. 1522 m. jis įkūrė spaustuvę Vilniuje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-74909
+
+- id: c-72870
+  citata_originali: |
+    Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo ru-
+    sėnų – LDK stačiatikių (baltarusių ir ukrainiečių protėvių) kalba. Tai lėmė
+    spartus raštijos poreikių didėjimas Vytauto laikais. Lietuvių kalba raštijos
+    tradicijų nebuvo sukūrusi, o stačiatikiai valdiniai jau turėjo kelių šimtmečių
+    bažnytinę rašto tradiciją nuo Kijevo Rusios laikų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-74912
+
+- id: c-72871
+  citata_originali: |
+    Pastarųjų erdvėje toliau į rytus
+    (Maskvos valstybėje, vėliau Rusijoje) ryškėjo bendruomeninė žemėvalda,
+    tačiau rusėnų žemėse, priklausiusiose Lenkijai ir Lietuvai, išplito vakarie-
+    tiška ūkininkavimo ir nuosavybės forma – alodas (individualus valstiečių
+    ūkis). Dėl šio pažangesnio ūkininkavimo ir nuosavybės santykių būdo
+    neatsitiktinai į XV–XVI a. Lietuvos Metrikos rusėnų kalbą pateko ir buvo
+    vartojamos net Ukrainoje lietuviškos tokios to meto ūkio sąvokos: dal-
+    gio tipas „litovka“, dailidė („doilida“) ar jauja („jevje“), svirnas („sviren“),
+    kluonas („klunia“), aruodas („orud“), priemenė („primen“). Pateko net
+    lietuviškos „gerovės“ žodžiai: kumpis („kompa“) ar skilandis („skilond“).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-74910
+    - t-74913
+
+- id: c-166566
+  citata_originali: |
+    Šiandien mokslininkai, remdamiesi prielaida, kad Lie-
+    tuvos vardas turi būti išvestas iš etnonimo „lietuvis“, atkreipė dėmesį į
+    vietovardžius su šaknimis „leit-“ ir „liet-“ už Lietuvos ribų. Grindžiama
+    mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
+    valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat
+    žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš
+    Lietuvos. Šie žmonės aplinkinių buvo vadinami „leičiais“ (latviai iki šiol
+    vadina lietuvius „leišiais“), o gal ir „liečiais“.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183179
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Lietuviai]]

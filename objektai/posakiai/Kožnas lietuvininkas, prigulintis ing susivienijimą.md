@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - posakis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kožnas lietuvininkas, prigulintis ing susivienijimą
 
@@ -19,10 +31,19 @@ tags:
 <a id="claim-t-02066"></a>
 - t-001
   global_id: t-02066
-  teiginys: 'Susivienijimo įstatai reikalavo, kad kiekvienas narys palaikytų savo naciją, padėtų nelaimės ištiktam broliui ir rodytų gerą pavyzdį.'
+  teiginys: "Susivienijimo įstatai reikalavo, kad kiekvienas narys palaikytų savo naciją, padėtų nelaimės ištiktam broliui ir rodytų gerą pavyzdį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "1277060-1277565; hash=5b7005a8fd2c45c059e92fb016cf09c55c94a7413dd85a11bce9e381c702ec25; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kožnas lietuvininkas, prigulintis ing susivienijimą: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kožnas lietuvininkas, prigulintis ing susivienijimą\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-02304
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -38,8 +59,30 @@ tags:
     priklodą (t. y. pavyzdį) nog savęs, taipgi naujai pribuvusiam
     broliui iš Lietuvos duoti pagelbą".
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-02304
+  citata_originali: |
+    Tačiau jis greitai žuvo. Jo vietoje lietuvių kunigų pastangomis
+    tuojau buvo įkurtas kitas — Susivienijimas Visų
+    Draugysčių Katalikiškų Lietuviškų Ameri-
+    koje. Šio Susivienijimo įstatuose buvo įrašytas toksai reika-
+    lavimas: „Kožnas lietuvininkas, prigulintis ing susivienijimą, pri-
+    valo užlaikyti savo naciją, priduot pagelbą savo broliui nelai-
+    mėje būvančiam, vest dievobaimingą gyvenimą ir davinėti gerą
+    priklodą (t. y. pavyzdį) nog savęs, taipgi naujai pribuvusiam
+    broliui iš Lietuvos duoti pagelbą".
+  citata_rodoma: "Šio Susivienijimo įstatuose buvo įrašytas toksai reika-\nlavimas: „Kožnas lietuvininkas, prigulintis ing susivienijimą, pri-\nvalo užlaikyti savo naciją, priduot pagelbą savo broliui nelai-\nmėje būvančiam, vest dievobaimingą gyvenimą ir davinėti gerą\npriklodą (t. y. pavyzdį) nog savęs, taipgi naujai pribuvusiam\nbroliui iš Lietuvos duoti pagelbą\"."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-02066

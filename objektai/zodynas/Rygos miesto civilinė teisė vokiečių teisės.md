@@ -18,6 +18,18 @@ tags:
 amziai:
   - 'XII'
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Rygos miesto civilinė teisė vokiečių teisės
 
@@ -28,19 +40,38 @@ Senoviniai lietuvių papročiai, teisėjų apdairus sąžiningumas atstojo gyven
 ## Teiginiai
 
 <a id="claim-t-86570"></a>
-- t-001
+- t-002
   global_id: t-86570
-  teiginys: 'Gedimino laiške nurodyta, kad į Vilnių atvykę kolonistai galės vadovautis Rygos miesto civiline teise.'
+  teiginys: "Gedimino laiške nurodyta, kad į Vilnių atvykę kolonistai galės vadovautis Rygos miesto civiline teise."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "77573-78603; hash=a2e4e272221314dc652e389bd667f4faacfcd51e1cfa0c0152fa2afd67af4e75; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bajerburgas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rygos miesto civilinė teisė vokiečių teisės: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Bajerburgas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rygos miesto civilinė teisė vokiečių teisės\" parinktas kaip owner_note_path. Targetas \"Bajerburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-82549
 
 <a id="claim-t-86571"></a>
-- t-002
+- t-001
   global_id: t-86571
-  teiginys: 'Vokiečiai ir naujakuriai lenkai Vilniuje galėjo būti užstojami vokiečių teisių pagal Rygos pavyzdį.'
+  teiginys: "Vokiečiai ir naujakuriai lenkai Vilniuje galėjo būti užstojami vokiečių teisių pagal Rygos pavyzdį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "76635-77304; hash=6c13df2bb52f8b5e2aa07b61ebb0760406972375b937f63fa401c74325e4e16c; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rygos miesto civilinė teisė vokiečių teisės: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=38"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rygos miesto civilinė teisė vokiečių teisės\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
-
+    - c-82550
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -76,6 +107,7 @@ Senoviniai lietuvių papročiai, teisėjų apdairus sąžiningumas atstojo gyven
     gos miesto teise, jei paskui geriau ne­
     bus sumanyta išmintingųjų tarybos].
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -99,8 +131,69 @@ Senoviniai lietuvių papročiai, teisėjų apdairus sąžiningumas atstojo gyven
     gi galima laiduoti už bet kokių įstatymų pastovumą ir pati­
     kimumą?
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-82549
+  citata_originali: |
+    Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­
+    lies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­
+    nutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su
+    valdovo, arba Lietuvos didžiojo kunigaikščio, pareigomis,
+    13
+    Rygos miestas buvo įkurtas 1200
+    metais, ant kalno, vadinto Righe,
+    Dvinos pakrantėje, vyskupo Alber­
+    to fon Apeldemo, pasiųsto skleisti
+    krikščioniškąjį tikėjimą Livonijoje,
+    bet ten dar prieš aštuonerius metus
+    Bremeno pirkliai jau buvo pastaty­
+    dinę keletą namų.
+    14
+    Gedimino laiške Liubeko, Rostoko,
+    Zundo, Greifsvaldo, Štetino mies­
+    tams ir Gotlando salos gyventojams
+    šis valdovas praneša, kad į Vilnių at­
+    vykę kolonistai galės vadovautis ci­
+    viline teise, kokia naudojasi Rygos
+    miestas, kol teisėtvarkininkai nesu­
+    kurs geresnių įstatymų. Jure civili
+    utantur Rigensis Civitatis, omnis vul­
+    gus, nisi tunc melius fuerit inuentum
+    de sano consilio discretorum [tad visi
+    [tie] žmonės tesinaudoja civiline Ry­
+    gos miesto teise, jei paskui geriau ne­
+    bus sumanyta išmintingųjų tarybos].
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86570
+
+- id: c-82550
+  citata_originali: |
+    Senoviniai lietuvių papročiai, teisėjų apdairus sąžiningumas
+    atstojo gyventojams teisės normas ir anų amžių neįmantriam
+    protui vėliau parašytus įstatymus. Tačiau vokiečiai ir nau­
+    jakuriai lenkai kaimyninės Rygos, įkurtos daugiau negu
+    prieš amžių13, pavyzdžiu jau tada galėjo būti užstojami vo­
+    kiečių teisių14. Betgi toje epochoje, kai naujos civilizacijos
+    spinduliai Lietuvos žemėje buvo tik pradėję blykčioti, kai,
+    nepaisant Lietuvos valdovų išmintingų siekių, karo reikalai
+    ir užgrobimai labiau už įstatymų leidimą ar krašto valdy­
+    mą visiems rūpėjo, dar skendint barbariškų laikų tamsoj ar­
+    gi galima laiduoti už bet kokių įstatymų pastovumą ir pati­
+    kimumą?
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86571

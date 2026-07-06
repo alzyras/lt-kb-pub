@@ -5,6 +5,18 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # netikėliai
 
@@ -27,18 +39,38 @@ Vartojama kryžiaus karo ir Ordino savivaizdžio kalboje.
 ## Teiginiai
 
 <a id="claim-t-70246"></a>
-- t-001
+- t-002
   global_id: t-70246
-  teiginys: 'Pirmieji Ordino broliai vaizduojami kaip pasirengę ginti tikėjimą kare su netikėliais.'
+  teiginys: "Pirmieji Ordino broliai vaizduojami kaip pasirengę ginti tikėjimą kare su netikėliais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "39995-40504; hash=486a7dc92841e4a0b4488b89c9597bb011d8255b1fc7d92ffdf53f8518f0bb17; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Drabužiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "netikėliai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Drabužiai: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"netikėliai\" parinktas kaip owner_note_path. Targetas \"Drabužiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-69306
 
 <a id="claim-t-70247"></a>
-- t-002
+- t-001
   global_id: t-70247
-  teiginys: 'Dusburgietis Ordino brolius vaizduoja kaip pasirengusius ginti tikėjimą kare su `netikėliais`.'
+  teiginys: "Dusburgietis Ordino brolius vaizduoja kaip pasirengusius ginti tikėjimą kare su `netikėliais`."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "39995-40504; hash=486a7dc92841e4a0b4488b89c9597bb011d8255b1fc7d92ffdf53f8518f0bb17; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Drabužiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "netikėliai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Drabužiai: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"netikėliai\" parinktas kaip owner_note_path. Targetas \"Drabužiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-69306
 - susijęs iš [[objektai/asmenys/Ernestas (Livonijos žemės magistras).md#claim-t-89708|Ernestas (Livonijos žemės magistras)]]: Livonijos žemės magistrą Ernestą nukovė netikėliai prieš Konrado iš Foichtvangeno paskyrimą 1279 m.
 - susijęs iš [[objektai/posakiai/Ar ilgai, viešpatie, rūstausi.md#claim-t-59076|Ar ilgai, viešpatie, rūstausi]]: Po posakio „Ar ilgai, viešpatie, rūstausi?“ prašoma parodyti rūstį netikėliams ir neleisti jiems klausti, kur yra krikščionių Dievas.
 - susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59876|Bertoldas, vadinamas Briuhavenu]]: Bertoldas su tūkstančiu Sembos vyrų nesėkmingai bandė sutrukdyti statybai, o vėliau sudegino Medrabos pilį.
@@ -103,9 +135,29 @@ Vartojama kryžiaus karo ir Ordino savivaizdžio kalboje.
     kiekvienu momentu pasiryžę  ginti tikėjimą kare su netikėliais. Štai tokių didžiulių
     „stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje“.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+
+## Citatos
+
+- id: c-69306
+  citata_originali: |
+    Dusburgiečio veikale nemaža moralizacijos, pamokymų, stebuklų, vizijų, nepaprastų
+    įvykių. Jau kronikos pratarmėje autorius idealizuoja pirmuosius Ordino brolius, kurie,
+    atsisakę kilmingų  titulų, prabangių drabužių  ir  kt., nuolankiai dirbo paprasčiausius
+    darbus; pasirinko neturtą, pavojus, rūpesčius ir vienatvę, vilkėjo ašutines arba šarvus,
+    kiekvienu momentu pasiryžę  ginti tikėjimą kare su netikėliais. Štai tokių didžiulių
+    „stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje“.
+  citata_rodoma: "Dusburgiečio veikale nemaža moralizacijos, pamokymų, stebuklų, vizijų, nepaprastų\nįvykių. Jau kronikos pratarmėje autorius idealizuoja pirmuosius Ordino brolius, kurie,\natsisakę kilmingų  titulų, prabangių drabužių  ir  kt., nuolankiai dirbo paprasčiausius\ndarbus; pasirinko neturtą, pavojus, rūpesčius ir vienatvę, vilkėjo ašutines arba šarvus,\nkiekvienu momentu pasiryžę  ginti tikėjimą kare su netikėliais."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-70246
+    - t-70247

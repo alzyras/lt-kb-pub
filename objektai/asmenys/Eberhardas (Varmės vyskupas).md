@@ -18,6 +18,18 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Eberhardas (Varmės vyskupas)
 
@@ -28,18 +40,41 @@ Dusburgietis teigia, kad tais pačiais metais ir tuo pat laiku Eberhardas, Varm�
 ## Teiginiai
 
 <a id="claim-t-82281"></a>
-- t-001
+- t-002
   global_id: t-82281
-  teiginys: 'Varmės vyskupas Eberhardas Elblionge surengė pasitarimą dėl taikos sutarties ir su kitais vyskupais paskelbė ją pražūtinga Prūsijai.'
+  teiginys: "Varmės vyskupas Eberhardas Elblionge surengė pasitarimą dėl taikos sutarties ir su kitais vyskupais paskelbė ją pražūtinga Prūsijai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "176021-177149; hash=bef9323d457b3864381f9e14cced233651c83ed30c1377342d1e8ca7aa35c562; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Elbliongas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Eberhardas (Varmės vyskupas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Elbliongas: mention_match, place, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Eberhardas (Varmės vyskupas)\" parinktas kaip owner_note_path. Targetas \"Elbliongas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-78760
 
 <a id="claim-t-82282"></a>
-- t-002
+- t-003
   global_id: t-82282
-  teiginys: 'Varmės vyskupas Eberhardas 1325 m. rašė, kad teiginiai apie lietuvių norą krikštytis yra melagingi.'
+  teiginys: "Varmės vyskupas Eberhardas 1325 m. rašė, kad teiginiai apie lietuvių norą krikštytis yra melagingi."
+  temporaliniai_duomenys: "įvykio data: 1325 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinė pretenzija per ilga, su lotynišku fragmentu ir OCR triukšmu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "206070-207244; hash=91148e05710134feebc38819a0edcaa2f9f8abc6b1b29dc4e755a7f1c133302d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Eberhardas (Varmės vyskupas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Eberhardas (Varmės vyskupas)\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-78759
 - susijęs iš [[objektai/asmenys/Eberhardas de Virnemburgas.md#claim-t-87656|Eberhardas de Virnemburgas]]: 1304 m. Eberhardas de Virnemburgas nusiaubė Lietuvos valsčių, vadintą Pagraudene.
 - susijęs iš [[objektai/asmenys/Eberhardas iš Manheimo.md#claim-t-60270|Eberhardas iš Manheimo]]: 1330 m. Rygos miestiečiai patikėjo miestą, šeimas, laisves ir privilegijas Livonijos magistrui Eberhardui iš Manheimo.
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102843|Dusburgas]]: Dusburgas prie 1304 m. pirmą kartą paminėjo Pagraudenę, pasakodamas apie Eberhardo de Virnemburgo įsiveržimą į Lietuvą.
@@ -90,6 +125,7 @@ Dusburgietis teigia, kad tais pačiais metais ir tuo pat laiku Eberhardas, Varm�
     I  KNYGA
     gant manifestissime atque factis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -121,11 +157,78 @@ Dusburgietis teigia, kad tais pačiais metais ir tuo pat laiku Eberhardas, Varm�
     myniniams kraštams. Jie rašo: „Tie velnio sūnūs savo suk­
     tybėmis klastingai sandėriais taikosi jus ir mus pražudytip.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-78759
+  citata_originali: |
+    Pavyzdžiui, abatai iš Olivos ir Pel-
+    plino 1323 metais praneša popiežiui: Ex nuper actis patefeci­
+    mus per presentes, eundem prefatum regem quasdam per piures
+    mundi partes litteras direxisse, in quibus se cum suis et toto Reg­
+    no asseruit baptizari et conjungi velle turbe fidelium populorum
+    [Iš neseniai gautų dabartinių dokumentų įsitikinome, kad
+    tas pats minėtas karalius po daugelį pasaulio šalių išsiunti­
+    nėjęs tuos laiškus, kuriuose tvirtino, kad pats su saviškiais
+    ir visa karalyste nori pasikrikštyti ir prisijungti prie tikinčių
+    tautų bendruomenės]. (Slaptasis archyvas, Spinta
+    XI, Nr. 19 ir 20). Tačiau apgaulė greitai išaiškėjo, jau Varmės
+    vyskupas Eberhardas  1325 metais rašo: Quidam - factis
+    caritatem negantes, que ambiciosa non est, nugis victum queren-
+    tes in populo apud fideles predicare et asserere mendaciter sunt
+    inventi, quod (Lethowini) Gristi fidelium sanquinis effusores ve­
+    lint converti ad fidem Gristi, sed per fratres de domo Theutonica
+    nullatenus admittantur, quod in hits scriptis - coram - et dei fide­
+    libus mendacium manifestum, quod et Udem infideles verbis ne-
+    92
+
+    ## Puslapis 109
+
+    I  KNYGA
+    gant manifestissime atque factis.
+  citata_rodoma: "19 ir 20). Tačiau apgaulė greitai išaiškėjo, jau Varmės \nvyskupas Eberhardas  1325 metais rašo: Quidam - factis \ncaritatem negantes, que ambiciosa non est, nugis victum queren- \ntes in populo apud fideles predicare et asserere mendaciter sunt \ninventi, quod (Lethowini) Gristi fidelium sanquinis effusores ve­\nlint converti ad fidem Gristi, sed per fratres de domo Theutonica \nnullatenus admittantur, quod in hits scriptis - coram - et dei fide­\nlibus mendacium manifestum, quod et Udem infideles verbis ne-\n92\n\n## Puslapis 109\n\nI  KNYGA\ngant manifestissime atque factis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82282
+
+- id: c-78760
+  citata_originali: |
+    I  KNYGA
+    čų tarp abiejų pusių pavaldinių, apie prisigrobtų turtų grą­
+    žinimą, apie pabėgusių knechtų ir tarnų grąžinimą ir t. t.
+    Nors popiežiaus buvo primygtinai prašoma, kad savo ga­
+    nytojišku žodžiu tą sutartį pripažintų ir patvirtintų0, jis bet­
+    gi nenorėjo to prašymo patenkinti be tolesnio nagrinėjimo,
+    gal to priežastis buvo naujesnės žinios iš Prūsijos.
+    Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­
+    pas Eberhardas, Sembos vyskupas Jonas, Pomezanijos vys­
+    kupas Rudolfas (kadangi Mikolajus Kulmietis neseniai buvo
+    miręs), kartu su savo diecezijos klebonais Elblionge bemat
+    surengė pasitarimą ir pasiuntė laišką vyskupui į Eželį, Ry­
+    gos, Eželio, Dorpato ir Revelio kapituloms, Livonijos ma­
+    gistrui ir visam Ordinui, Danijos karaliaus vietininkui ir
+    visiems Livonijos bei Estijos didikams ir vasalams, daly­
+    vavusiems taikos sutartį sudarant, ir paskelbė tą sutartį
+    esant velnio žabangomis, visam krikščioniškajam pasau­
+    liui gėda, neabejotinai užtrauksiančia pražūtį Prūsijai ir kai­
+    myniniams kraštams. Jie rašo: „Tie velnio sūnūs savo suk­
+    tybėmis klastingai sandėriais taikosi jus ir mus pražudytip.
+  citata_rodoma: "Nors popiežiaus buvo primygtinai prašoma, kad savo ga­\nnytojišku žodžiu tą sutartį pripažintų ir patvirtintų0, jis bet­\ngi nenorėjo to prašymo patenkinti be tolesnio nagrinėjimo, \ngal to priežastis buvo naujesnės žinios iš Prūsijos.\nVos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­\npas Eberhardas, Sembos vyskupas Jonas, Pomezanijos vys­\nkupas Rudolfas (kadangi Mikolajus Kulmietis neseniai buvo \nmiręs), kartu su savo diecezijos klebonais Elblionge bemat \nsurengė pasitarimą ir pasiuntė laišką vyskupui į Eželį, Ry­\ngos, Eželio, Dorpato ir Revelio kapituloms, Livonijos ma­\ngistrui ir visam Ordinui, Danijos karaliaus vietininkui ir \nvisiems Livonijos bei Estijos didikams ir vasalams, daly­\nvavusiems taikos sutartį sudarant, ir paskelbė tą sutartį \nesant velnio žabangomis, visam krikščioniškajam pasau­\nliui gėda, neabejotinai užtrauksiančia pražūtį Prūsijai ir kai­\nmyniniams kraštams. Jie rašo: „Tie velnio sūnūs savo suk­\ntybėmis klastingai sandėriais taikosi jus ir mus pražudytip."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82281
 
 ## Ryšiai
 - Eberhardas (Varmės vyskupas) puolė [[objektai/vietos/Lietuva]], [[objektai/vietos/Pagraudenė]], [[objektai/vietos/Pagraudė]]

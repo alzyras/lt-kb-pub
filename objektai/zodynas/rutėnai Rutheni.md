@@ -15,6 +15,18 @@ tags:
   - valstybė
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # rutėnai Rutheni
 
@@ -25,19 +37,34 @@ Dusburgietis teigia, kad 466 Rutheni minimi ir kitose D. Dusburgietis teigia, ka
 ## Teiginiai
 
 <a id="claim-t-58831"></a>
-- t-001
+- t-003
   global_id: t-58831
-  teiginys: 'Istorijos šaltiniuose rutėnais dažnai vadinti Baltijos jūros pietinės pakrantės ir Riugeno salos gyventojai.'
+  teiginys: "Istorijos šaltiniuose rutėnais dažnai vadinti Baltijos jūros pietinės pakrantės ir Riugeno salos gyventojai."
+  temporaliniai_duomenys: "įvykio data: 1216 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra taisyklingas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "489645-490322; hash=cf9bb9634cafb68281fbe4cb5c985b260aba2df999e2a5ee1f68821383ae4e01; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "rutėnai Rutheni: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"rutėnai Rutheni\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-59465
 
 <a id="claim-t-58833"></a>
 - t-002
   global_id: t-58833
-  teiginys: 'Rutėnai nutraukė pilies apgulą sužinoję, kad apsiaustieji maitinasi žuvimis iš pilyje buvusio tvenkinio.'
+  teiginys: "Rutėnai nutraukė pilies apgulą sužinoję, kad apsiaustieji maitinasi žuvimis iš pilyje buvusio tvenkinio."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "487800-488132; hash=3a0cfa5c83e1f06d54a97e7efa44b8dde41acdac2a1d05f3a435ad8b66b17c71; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
-
+    - c-59463
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -50,6 +77,7 @@ Dusburgietis teigia, kad 466 Rutheni minimi ir kitose D. Dusburgietis teigia, ka
     beveik tokio pat pločio žuvų tvenkinį, jame buvę tiek žuvies, kad jos pakako visiems
     apsiaustiesiems maitintis. Šitai išgirdę, rutėnai nutraukė apgulą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -69,8 +97,42 @@ Dusburgietis teigia, kad 466 Rutheni minimi ir kitose D. Dusburgietis teigia, ka
     Gramatiko (mir. 1216 m.) Danijos istorijoje minimi Rutheni — tai greičiausiai venedai,
     kad apie juos ir rašo Dusburgietis (Кудрякова E. Б., Известия o Руси...).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-59463
+  citata_originali: |
+    Galop
+    rutėnai, pavargę nuo įstangų  ir patyrę didelių išlaidų, paklausė apsiaustųjų, kuo jie
+    bemintą. Šie atsakė: „Žuvimis“. Mat  jie turėję  viduryje pilies 20 žingsnių  ilgio  ir
+    beveik tokio pat pločio žuvų tvenkinį, jame buvę tiek žuvies, kad jos pakako visiems
+    apsiaustiesiems maitintis. Šitai išgirdę, rutėnai nutraukė apgulą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58833
+
+- id: c-59465
+  citata_originali: |
+    Istorijos šaltiniuose rutėnais (Rutheni) dažnai buvo vadinami Baltijos jūros pietinės
+    pakrantės ir Riugeno (Rugijos) salos gyventojai (Manteuffel T., Papiestwo.., p. 122—
+    123; Łowmiański H., Początki Polski, t. 5, p. 148; Ловмянский Г., Руссы и руги, с. 51;
+    Вилинбахов В. Б., Балтийские... с, 184; Кузьмин А. Г, „Варяги”..., с. 39; to paties,
+    Об этнической природе.., с. 54—83,— pastarajame darbe iškelta hipotezė, kad pietinio
+    Baltijos pajūrio ir Riugeno rutėnai — tai venedai, slavizuoti keltai). Manoma, kad Sakso
+    Gramatiko (mir. 1216 m.) Danijos istorijoje minimi Rutheni — tai greičiausiai venedai,
+    kad apie juos ir rašo Dusburgietis (Кудрякова E. Б., Известия o Руси...).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58831

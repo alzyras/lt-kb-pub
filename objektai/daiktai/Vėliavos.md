@@ -6,6 +6,7 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -14,15 +15,6 @@ datos:
   - '1410 m.'
 date_start: '1368'
 date_end: '1410'
-aliases:
-  - 'objektai/daiktai/Karinės vėliavos'
-variantai:
-  - 'Karinės vėliavos'
-description: 'Vėliavos kaip karo ženklai, riterių būrių simboliai ir Žalgirio mūšio epizodų dalis Lietuvos istorijos šaltiniuose.'
-socialDescription: 'Kaip vėliavos veikė karo apeigose, kariuomenės rikiuotėje ir Žalgirio mūšio pasakojimuose.'
-seo_atnaujinta: '2026-07-02T23:12:35.197282+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -31,12 +23,24 @@ tags:
 amziai:
   - 'XIV'
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vėliavos
 
 ## Santrauka
 
-Vėliavos Lietuvos istorijos šaltiniuose pasirodo kaip karo ženklai, laiminimo apeigų dalis ir kariniai telkimosi centrai. Jos minimos prie karūžojo, kariaunos rikiuotėje ir riterių būriuose, kurie patys galėjo būti vadinami vėliavomis. Šaltiniai sieja vėliavas su Algirdo žygiu prie Maskvos 1368 m. ir Žalgirio mūšio epizodais, įskaitant Smolensko, Krokuvos bei šv. Jurgio vėliavas.
+Vyriausioji Lenkijos vėliava pateko į priešų rankas. Lietuvos pulkai paskui save buvo patraukę eilę priešo vėliavų. Kareiviams būdavo paduodama raudona vėliava kaip karo ženklas ir laiminimo dalis. Prie karūžojo buvo laikoma karės vėliava tos apykartos. Šiame šaltinyje papildomai matyti, kad Algirdas prie Maskvos pasirodė išskleidęs vėliavas, o Žalgirio mūšyje Smolensko vėliavos dengė lenkų kraštines pozicijas ir krito didžioji Krokuvos vėliava.
 
 ## Pavadinimai šaltiniuose
 
@@ -61,158 +65,442 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-08355"></a>
-- t-001
+- t-004
   global_id: t-08355
-  teiginys: 'Kareiviams būdavo paduodama raudona vėliava kaip karo ženklas ir laiminimo dalis.'
+  teiginys: "Kareiviams būdavo paduodama raudona vėliava kaip karo ženklas ir laiminimo dalis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  saltinio_vieta: "346550-346768; hash=01a47e9ab01549f056e3130a4d15db01a08023ee3673064713b2c332f2c4c73a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> vėliava: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vėliavos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "vėliava: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vėliavos\" parinktas kaip owner_note_path. Targetas \"vėliava\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-10308
 
 <a id="claim-t-08356"></a>
-- t-002
+- t-005
   global_id: t-08356
-  teiginys: 'Prie karūžojo buvo laikoma karės vėliava tos apykartos.'
+  teiginys: "Prie karūžojo buvo laikoma karės vėliava tos apykartos."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  saltinio_vieta: "347055-347790; hash=333e3b2e230a80cd9a3ea0976ce65ff8d82823928d74ed20bbd92de8ccfe969c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> vėliava: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vėliavos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "vėliava: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vėliavos\" parinktas kaip owner_note_path. Targetas \"vėliava\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-10309
 
 <a id="claim-t-08357"></a>
-- t-003
+- t-006
   global_id: t-08357
-  teiginys: 'Kariauna stodama į kovą turėjo didelę baltą vėliavą su ženklu ir įrašu.'
+  teiginys: "Kariauna stodama į kovą turėjo didelę baltą vėliavą su ženklu ir įrašu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  saltinio_vieta: "357718-358138; hash=a2b70ba9f36239dd807c6a765d471dbac2a8e7f48faa4d386a7bf59b4f7ff5ac; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Karūna: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vėliavos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Karūna: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vėliavos\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-10310
 
 <a id="claim-t-10166"></a>
-- t-004
+- t-007
   global_id: t-10166
-  teiginys: '1368 m. Algirdas su savo pajėgomis ir išskleistomis vėliavomis pasirodė ant Pasveikinimo kalno prie Maskvos.'
+  teiginys: "1368 m. Algirdas su savo pajėgomis ir išskleistomis vėliavomis pasirodė ant Pasveikinimo kalno prie Maskvos."
+  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) surengė žygį į Maskva (0.85)"
+  temporaliniai_duomenys: "įvykio data: 1368 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Patikslinta vieta ir data, pašalintas neaiškumas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "187688-188267; hash=24f837ef045161ddf38edb0fe75c74357f63c7a0cc3bc6b8265102598396fb75; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Maskva: 0.85"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai rodo Algirdo karinį pasirodymą su pajėgomis prie Maskvos."
   pagrindžia:
-    - c-013
+    - c-160238
 
 <a id="claim-t-10167"></a>
-- t-005
+- t-008
   global_id: t-10167
-  teiginys: 'Žalgirio mūšyje lietuviai, pridengę lenkų kraštines pozicijas trimis Smolensko vėliavomis, pradėjo atsitraukimo manevrą.'
+  teiginys: "Žalgirio mūšyje lietuviai, pridengę lenkų kraštines pozicijas trimis Smolensko vėliavomis, pradėjo atsitraukimo manevrą."
+  semantiniai_rysiai: "Kryžiuočių ordinas puolė Lietuviai (0.90); Lietuviai gynė Lenkai (0.76)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "259688-259957; hash=779502c2f2e53b426ca4328dc34ce568e26c8c5e30efbe5a80c021b77fcd0802; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Lietuviai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citatoje tiesiogiai pasakyta, kad kryžiuočiai puolė persekioti lietuvius."
   pagrindžia:
-    - c-007
+    - c-42581
 
 <a id="claim-t-10168"></a>
-- t-006
+- t-009
   global_id: t-10168
-  teiginys: 'Žalgirio mūšyje neatlaikiusi spaudimo krito didžioji Krokuvos vėliava.'
+  teiginys: "Žalgirio mūšyje neatlaikiusi spaudimo krito didžioji Krokuvos vėliava."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "260271-260525; hash=acf8cc4663f31c6f31c9a2a7d66442154c708ec70b59f8e7c63bb78af52b9fe3; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vėliavos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vėliavos\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-42582
 
 <a id="claim-t-12340"></a>
-- t-007
+- t-010
   global_id: t-12340
-  teiginys: 'Riterių būrys buvo vadinamas vėliava ir telkėsi apie savo ženklą.'
+  teiginys: "Riterių būrys buvo vadinamas vėliava ir telkėsi apie savo ženklą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "211970-212241; hash=096425ea8237e17b9ec1b4cb886afae84dd4e7972c09de446d00085410c705f2; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> vėliava: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vėliavos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "vėliava: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vėliavos\" parinktas kaip owner_note_path. Targetas \"vėliava\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-14345
 
 <a id="claim-t-12341"></a>
-- t-008
+- t-011
   global_id: t-12341
-  teiginys: 'Riteris neturėjo teisės palikęs savo vėliavą bėgti iš mūšio.'
+  teiginys: "Riteris neturėjo teisės palikęs savo vėliavą bėgti iš mūšio."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "220111-220414; hash=46007a098993e135051266c532609a4b0b8fcbbe1e217b4ea93d77fedcf7b174; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Drevenca: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vėliavos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Drevenca: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vėliavos\" parinktas kaip owner_note_path. Targetas \"Drevenca\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-36751
 
 <a id="claim-t-12343"></a>
-- t-009
+- t-013
   global_id: t-12343
-  teiginys: 'Jogailą saugojo kunigaikščio Kaributo vėliava, kurią Vytautas buvo nusiuntęs dar prieš karą.'
+  teiginys: "Jogailą saugojo kunigaikščio Kaributo vėliava, kurią Vytautas buvo nusiuntęs dar prieš karą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "230886-231158; hash=9bfdfc4f6fe5cfa158fb7a4e915cfe7881fc8e361f7c11287bf737d30a8e8a5c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vėliavos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=15"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vėliavos\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-011
+    - c-160236
 
 <a id="claim-t-12344"></a>
-- t-010
+- t-014
   global_id: t-12344
-  teiginys: 'Tarp pabėgusių lenkų vėliavų buvo ir šv. Jurgio vėliava.'
+  teiginys: "Tarp pabėgusių lenkų vėliavų buvo ir šv. Jurgio vėliava."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "233050-233126; hash=de51b7240600363b9f479a18f12cc62ccedb9abdd82faff16c6bf25f5b44297d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> vėliava: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vėliavos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "vėliava: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vėliavos\" parinktas kaip owner_note_path. Targetas \"vėliava\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-14349
 
 <a id="claim-t-176206"></a>
-- t-011
+- t-023
   global_id: t-176206
-  teiginys: 'Vytauto vadovaujami Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų, sugrįžo į kovos lauką.'
+  teiginys: "Vytauto vadovaujami Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų, sugrįžo į kovos lauką."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "931773-932007; hash=61adeaff518e7a8ebf46e52dd10a91fdc6f948c927fccdcd48c1f06352ec9458; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vėliavos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vėliavos\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-015
+    - c-160240
 
 <a id="claim-t-176207"></a>
-- t-012
+- t-002
   global_id: t-176207
-  teiginys: 'Vytauto vadovaujami Lietuvos pulkai buvo patraukę paskui save kelias priešo vėliavas ir sugrįžo į kovos lauką.'
+  teiginys: "Vytauto vadovaujami Lietuvos pulkai buvo patraukę paskui save kelias priešo vėliavas ir sugrįžo į kovos lauką."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "931715-931917; hash=7d470e171441357ec75e3f3340832a680ee82f2c470f5493f773203a9247e70f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vėliavos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=56"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vėliavos\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-016
+    - c-160241
 
 <a id="claim-t-176209"></a>
-- t-013
+- t-019
   global_id: t-176209
-  teiginys: 'Kiekvienas riteris kaudavosi po savo vėliava ir neturėjo teisės ją palikęs bėgti.'
+  teiginys: "Kiekvienas riteris kaudavosi po savo vėliava ir neturėjo teisės ją palikęs bėgti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "213137-213463; hash=806b662bb1b21e4447eace06184e67db5dc83d5d3eb650f0b086cc3f4b738ef4; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> vėliava: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vėliavos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "vėliava: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vėliavos\" parinktas kaip owner_note_path. Targetas \"vėliava\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-017
+    - c-160245
 
 <a id="claim-t-176210"></a>
-- t-014
+- t-001
   global_id: t-176210
-  teiginys: 'Vyriausioji Lenkijos vėliava pateko į priešų rankas.'
+  teiginys: "Vyriausioji Lenkijos vėliava pateko į priešų rankas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "931447-931617; hash=00bc06be7be5dfa56f3888173b2cbaa2656ef5623ad55932e4d9b1204b25ba83; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> vėliava: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vėliavos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "vėliava: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vėliavos\" parinktas kaip owner_note_path. Targetas \"vėliava\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-160234
 
 <a id="claim-t-176211"></a>
-- t-015
+- t-018
   global_id: t-176211
-  teiginys: 'Lenkams patiriant didelį spaudimą centre ir dešinėje, Žalgirio mūšyje krito didžioji Krokuvos vėliava.'
+  teiginys: "Lenkams patiriant didelį spaudimą centre ir dešinėje, Žalgirio mūšyje krito didžioji Krokuvos vėliava."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "260271-260525; hash=acf8cc4663f31c6f31c9a2a7d66442154c708ec70b59f8e7c63bb78af52b9fe3; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vėliavos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vėliavos\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-42582
 
 <a id="claim-t-176212"></a>
-- t-016
+- t-020
   global_id: t-176212
-  teiginys: 'Zyndramas iš Moškovicų kovojo prie vyriausios vėliavos, o visos sąjunginės kariuomenės vadovybė atiteko Vytautui.'
+  teiginys: "Zyndramas iš Moškovicų kovojo prie vyriausios vėliavos, o visos sąjunginės kariuomenės vadovybė atiteko Vytautui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "220111-220414; hash=46007a098993e135051266c532609a4b0b8fcbbe1e217b4ea93d77fedcf7b174; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Drevenca: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vėliavos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Drevenca: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vėliavos\" parinktas kaip owner_note_path. Targetas \"Drevenca\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-36751
 
 <a id="claim-t-176213"></a>
-- t-017
+- t-003
   global_id: t-176213
-  teiginys: '1410 m. rudenį Transilvanijos vaivada puolė Lenkiją su 10 vėliavų.'
+  teiginys: "1410 m. rudenį Transilvanijos vaivada puolė Lenkiją su 10 vėliavų."
+  temporaliniai_duomenys: "įvykio data: 1410 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "936259-936536; hash=8cb128689ff64cbef2bad4aab3fed1c55b91b374fde596f27c2ee9df704d15f6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vėliavos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vėliavos\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-010
+    - c-160235
 
 <a id="claim-t-176214"></a>
-- t-018
+- t-022
   global_id: t-176214
-  teiginys: 'Jogailą saugojo kunigaikščio Kaributo vėliava, kurią Vytautas buvo nusiuntęs Jogailai dar prieš karą.'
+  teiginys: "Jogailą saugojo kunigaikščio Kaributo vėliava, kurią Vytautas buvo nusiuntęs Jogailai dar prieš karą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "230930-231338; hash=2d4efb405e7dfcefa6547f84f182087ed2f65a0f8a528700de4226f645dda5f8; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vėliavos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=15"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vėliavos\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-012
+    - c-160237
 
 <a id="claim-t-176215"></a>
-- t-019
+- t-016
   global_id: t-176215
-  teiginys: 'XIV a. antrosios pusės lietuvių kario rekonstrukcijoje karys vaizduojamas tarnaujantis Lietuvos valdovo asmeninėje vėliavoje.'
+  teiginys: "XIV a. antrosios pusės lietuvių kario rekonstrukcijoje karys vaizduojamas tarnaujantis Lietuvos valdovo asmeninėje vėliavoje."
+  temporaliniai_duomenys: "įvykio data: 1399 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia pašalinti neaiškų konstrukcijos pobūdį ir padaryti sakinį tikslesnį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "210965-211225; hash=281f82ce6ab9b88a82d469693a054e5a94439f3124a3973109e80c906b408592; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminaičių stulpai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vėliavos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Gediminaičių stulpai: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vėliavos\" parinktas kaip owner_note_path. Targetas \"Gediminaičių stulpai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-018
+    - c-160246
 
 <a id="claim-t-176216"></a>
-- t-020
+- t-017
   global_id: t-176216
-  teiginys: 'Lietuviai, pridengę lenkų kraštines pozicijas trimis Smolensko vėliavomis, pradėjo atsitraukimo manevrą.'
+  teiginys: "Lietuviai, pridengę lenkų kraštines pozicijas trimis Smolensko vėliavomis, pradėjo atsitraukimo manevrą."
+  semantiniai_rysiai: "Lietuviai gynė Lenkai (0.76)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "259469-259846; hash=43cb6137cee8a51a91ce4374ba1cf39900fff8895bf513234189e2f5f12bded6; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Lenkai: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lenkai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys rodo, kad lietuviai dengė lenkų pozicijas, todėl tai laikoma gynimo santykiu."
   pagrindžia:
-    - c-014
+    - c-160239
 
 <a id="claim-t-176217"></a>
-- t-021
+- t-015
   global_id: t-176217
-  teiginys: 'Algirdas su visomis savo pajėgomis ir išskleistomis vėliavomis pasirodė ant Pasveikinimo kalno prie Maskvos.'
+  teiginys: "Algirdas su visomis savo pajėgomis ir išskleistomis vėliavomis pasirodė ant Pasveikinimo kalno prie Maskvos."
+  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) surengė žygį į Maskva (0.84)"
+  temporaliniai_duomenys: "įvykio data: 1368 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citatos fragmentas perrašytas į vientisą enciklopedinį sakinį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "187688-188267; hash=24f837ef045161ddf38edb0fe75c74357f63c7a0cc3bc6b8265102598396fb75; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Maskva: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai rodo Algirdo karinį žygį su pajėgomis prie Maskvos."
   pagrindžia:
-    - c-013
+    - c-160238
+
+<a id="claim-t-184344"></a>
+- t-024
+  global_id: t-184344
+  teiginys: "Vyriausioji Lenkijos vėliava pateko į priešų rankas."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "931533-931714; hash=2b1256b07c9e2563809076b723ad5b24ed6708c50a3057f987b74983297cb3e7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> vėliava: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vėliavos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "vėliava: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vėliavos\" parinktas kaip owner_note_path. Targetas \"vėliava\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-167714
 
 <a id="claim-t-184602"></a>
-- t-023
+- t-025
   global_id: t-184602
-  teiginys: 'Herulai, tapę Romos sąjungininkais ir pagalbine kariuomene, daugelį amžių karo tarnyboje gynė romėnų vėliavas.'
+  teiginys: "Herulai, tapę Romos sąjungininkais ir pagalbine kariuomene, daugelį amžių karo tarnyboje gynė romėnų vėliavas."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Herulai buvo sąjungininkas su Romėnai (0.86)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "69191-69892; hash=3e6ea3bb2cf980e4847dd592aaafb67969d5a529048698994216e46b7e81af80; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Romėnai: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Herulai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Romėnai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citatoje herulai aiškiai apibūdinami kaip virtę romėnų sąjungininkais."
   pagrindžia:
-    - c-020
+    - c-167963
+
+<a id="claim-t-192507"></a>
+- t-026
+  global_id: t-192507
+  teiginys: "Narbuto pasakojime jotvingiai smarkiai puolė Lozoriaus rezerve buvusius poloviečius ir atėmė vado vėliavą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "232951-233176; hash=3ab5d2c878f4018ce36136a911306f9a26b07038de8e52d1a7c47bac02745aa4; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Danielius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vėliavos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Danielius: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vėliavos\" parinktas kaip owner_note_path. Targetas \"Danielius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175297
 - susijęs iš [[objektai/asmenys/B. P. Sapiega.md#claim-t-40057|B. P. Sapiega]]: Iždininkas B. P. Sapiega pasitraukė kartu su maršalu A. P. Sapiega ir totorių vėliavomis.
 - susijęs iš [[objektai/asmenys/H. Brantas.md#claim-t-40129|H. Brantas]]: H. Brantas buvo generolas, kurio kavaleriją sumušė J. P. Sapiegos, M. Vielamovskio ir M. Giedraičio vėliavos, priversdamos ją trauktis.
 - susijęs iš [[objektai/asmenys/Henenbergeris.md#claim-t-190008|Henenbergeris]]: Narbutas nurodo, kad Henenbergeris ir Hartknochas vėliavos su nežinomų raidžių užrašu aprašymą perėmė iš Grunau.
@@ -253,6 +541,7 @@ Nenurodyta
 - susijęs iš [[objektai/zodynas/vėliava.md#claim-t-78912|vėliava]]: Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trauktis arba kautis prie kitos vėliavos.
 - susijęs iš [[objektai/asmenys/Kristoforas Hartknochas.md#claim-t-189984|Kristoforas Hartknochas]]: Narbutas nurodė, kad pasakojimą apie ypatingą vėliavos užrašą iš Grunau perėmė Henenbergeris ir Hartknochas.
 - susijęs iš [[objektai/asmenys/Tadas Volianskis.md#claim-t-189990|Tadas Volianskis]]: Narbutas nurodo, kad pagal Tado Volianskio šifruotę runų užrašas piešinyje reiškė Vaivedučio vardą.
+- susijęs iš [[objektai/asmenys/Tadas Volianskis.md#claim-t-190984|Tadas Volianskis]]: Narbutas nurodo, kad runų užrašas reiškė Vaidevučio vardą pagal Tado Volianskio šifruotę.
 - susijęs iš [[objektai/autoriai/Prūsijos vyskupas Kristijonas.md#claim-t-190450|Prūsijos vyskupas Kristijonas]]: Narbutas spėjo, kad prūsų vėliavos runų užrašas buvo senovinis vertimas iš dingusios Prūsijos vyskupo Kristijono kronikos.
 - susijęs iš [[objektai/daiktai/Lietuvos herbas Vytis.md#claim-t-77927|Lietuvos herbas Vytis]]: 1922 m. Lietuvos Valstybės Konstitucijoje herbu liko baltas Vytis raudoname fone.
 - susijęs iš [[objektai/daiktai/Ordino magistro valdžios žymenys.md#claim-t-183980|Ordino magistro valdžios žymenys]]: Popiežius Honorijus III žiedą, o imperatorius Fridrichas II vėliavos insignijas suteikė kaip Ordino magistro valdžios žymenis.
@@ -287,8 +576,9 @@ Nenurodyta
         pasimeldęs išvyturo raudoną vėliavą ir kareiviams padavė, paskui, nešiojamas po rindas, barstė, regis,
         druską ant kareivių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -305,8 +595,9 @@ Nenurodyta
         reistre Lietuvos ūkės kareivių, surašytų metuose 1528, kuriame karūžieji yra minavojami tarp tų pačių
         žemlionų, arba vyčių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -320,8 +611,9 @@ Nenurodyta
         besėdįs meškos galva, ant kurios vėliavos buvę išrašyti tie žodžiai: „Dieve kūrėjau, supyk ant
         pustytojų^1335 , užtik juos.“
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -335,8 +627,9 @@ Nenurodyta
     liavoje būdavo apie 300-400 raitųjų. Tie būriai savo ženklu,
     apie kurį spiesdavosi, turėjo vėliavą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
@@ -347,8 +640,9 @@ Nenurodyta
     Pabėgo ir kelios lenkų vėliavos, jų tarpe ir labai narsi šv.
     Jurgio vėliava.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
@@ -364,8 +658,9 @@ Nenurodyta
     Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­
     niku.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
@@ -383,6 +678,7 @@ Nenurodyta
     sklaidė savo gretas, pavyti manevringesnių
     lietuvių jiems nepavyko.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -400,8 +696,9 @@ Nenurodyta
     tas, užtraukė pergalės giesmę „Kristus
     prisikėlė“.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
@@ -414,8 +711,9 @@ Nenurodyta
     dar pasiuntė 16 rezerve stovėjusių pulkų. Sąjungininkų eilės su­
     svyravo. Vyriausioji Lenkijos vėliava pateko į priešų rankas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
@@ -429,8 +727,9 @@ Nenurodyta
     manto skatinamas Transilvanijos vaivada 1410 m. rudenį puolė
     Lenkiją su 10 vėliavų^38.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
@@ -444,8 +743,9 @@ Nenurodyta
     jį apstatė geriausia sargyba. Jį saugojo kunigaikščio Kaributo
     vėliava, kurią dar prieš karą Vytautas buvo Jogailai nusiuntęs.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
@@ -462,6 +762,7 @@ Nenurodyta
     lė greičiausių ir visiškai paruoštų arklių, kuriais Jogaila galė­
     tų pabėgti, jei kiltų pavojus iš kryžiuočių pusės.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -490,8 +791,9 @@ Nenurodyta
     su juo ir metropolitas, kunigaikščiai bei
     bajorai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-021
@@ -513,8 +815,9 @@ Nenurodyta
     pozicijas trimis Smolensko vėliavomis,
     lietuviai pradėjo manevrą atsitraukdami.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
@@ -527,6 +830,7 @@ Nenurodyta
     sugrįžo į kovos lauką. Nauji Lenkijos pulkai ėmė pulti ilstančią
     kryžiuočių kariuomenę, ir jų eilės nebeatlaikė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -542,6 +846,7 @@ Nenurodyta
     Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų,
     sugrįžo į kovos lauką.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -559,6 +864,7 @@ Nenurodyta
     būdavo pasielgti savo nuožiūra — ar trauktis, ar kautis prisi­
     dėjus prie kitos vėliavos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -580,6 +886,7 @@ Nenurodyta
 
     52 VORSKLOS MUSIS 1399 m. rugpjūčio 12 d.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -595,6 +902,7 @@ Nenurodyta
     žiuočiai jau tikėjo savo pergale ir ėmė giedoti laimėjusių giesmę
     « Christ ist erstanden ».
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -631,11 +939,383 @@ Nenurodyta
     sos) herulų triba ėmė vadin­
     tis Lietuva.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-023
+
+- c-021
+  santrauka: 'Narbuto pasakojime jotvingiai smarkiai puolė Lozoriaus rezerve buvusius poloviečius ir atėmė vado vėliavą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Kunigaikštis Danielius
+    išžygiavo su Boleslovo būrio lenkais ir gerokai atsitraukė.
+    Vasilka pasiliko su Ziemovitu, o Lozorius lūkuriavo re­
+    zerve su poloviečiais. Pastaruosius jotvingiai smarkiai puo­
+    lė ir atėmė vado vėliavą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-024
+
+## Citatos
+
+- id: c-10308
+  citata_originali: |
+    Kaipogi pats kūrėjų kūrėjas, išleisdamas kariauną į karę, laimino ją tokiu būdu: visų pirma
+        pasimeldęs išvyturo raudoną vėliavą ir kareiviams padavė, paskui, nešiojamas po rindas, barstė, regis,
+        druską ant kareivių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-08355
+
+- id: c-10309
+  citata_originali: |
+    Kiekvienos pavietės buvo karūžasis, kurs turėjo visus žemlionis, arba vyčius, surašytus ir kas metą,
+        sujojus visiems į pavietę ant įsakytos dienos, paprastai rudenį, visus perskaitė ir perveizėjo kožno
+        žemlionies ginklą ir arklį, jei nerado kaip reikiant, tokį iš reistro išpaišė^1303. Atlikusysis arba išmestasis
+        ir nevaidinusysis ant tos perveizos^1304 vėl duoklę turėjo duoti su kitais valsčionimis; prie jo buvo
+        laikoma karės vėliava tos apykartos; kėlė į tą godą^1305 ne dėl didelumo turtų, kaip paskesnėse
+        gadynėse kad darė, bet, kaip sakiau, visų narsųjį ir guvųjį vyrą tarp pačių žemlionų, ką gal regėti
+        reistre Lietuvos ūkės kareivių, surašytų metuose 1528, kuriame karūžieji yra minavojami tarp tų pačių
+        žemlionų, arba vyčių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-08356
+
+- id: c-10310
+  citata_originali: |
+    Kariauna, stodama į kovą, turėjo priešaky didelę baltą vėliavą, ant kurios buvęs skydas, pusiau
+        perdalytas, viršutinėje pusėj geltoni, o apatinėje mėlyni laukai, geltonuosiuose laukuose karūna
+        buvusi stati, o mėlynuosiuose aukštynoka^1334. Kartais turėję baltą vėliavą, kurios skyde buvęs žmogus
+        besėdįs meškos galva, ant kurios vėliavos buvę išrašyti tie žodžiai: „Dieve kūrėjau, supyk ant
+        pustytojų^1335 , užtik juos.“
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-08357
+
+- id: c-14345
+  citata_originali: |
+    Riteris su savo palydovais sudarydavo tam tikrą
+    vienetą, kuris vadinosi „lance“, arba „kopijo“. 25-80 lancų su­
+    darydavo būrį, kuris buvo vadinamas vėliava. Tokiu būdu vė­
+    liavoje būdavo apie 300-400 raitųjų. Tie būriai savo ženklu,
+    apie kurį spiesdavosi, turėjo vėliavą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-12340
+
+- id: c-14349
+  citata_originali: |
+    Pabėgo ir kelios lenkų vėliavos, jų tarpe ir labai narsi šv.
+    Jurgio vėliava.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-12344
+
+- id: c-36751
+  citata_originali: |
+    Tada karalius lenkų kariuomenės ve­
+    dimą atidavė Zyndramui iš Moškovicų, Krokuvos vaivadai.
+    Zyndramas vedimui mažai turėjo reikšmės; jis kovojo tik prie
+    vyriausios vėliavos, tuo tarpu visos sąjunginės kariuomenės
+    vadovybė atiteko Vytautui.
+    Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­
+    niku.
+  citata_rodoma: "Zyndramas vedimui mažai turėjo reikšmės; jis kovojo tik prie\nvyriausios vėliavos, tuo tarpu visos sąjunginės kariuomenės\nvadovybė atiteko Vytautui.\nKitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­\nniku."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-12341
+    - t-176212
+
+- id: c-42581
+  citata_originali: |
+    Po valandos pagaliau į mūšį įsitraukė
+    lenkų kavalerija. Pridengę jų kraštines
+
+    pozicijas trimis Smolensko vėliavomis,
+    lietuviai pradėjo manevrą atsitraukdami.
+    Lietuvius puolę persekioti kryžiuočiai iš-
+    sklaidė savo gretas, pavyti manevringesnių
+    lietuvių jiems nepavyko.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-10167
+
+- id: c-42582
+  citata_originali: |
+    kariuomenę iš lenkų dešinės ir juos ap-
+    supti. Lenkai patyrė didelį spaudimą tiek
+    centre, tiek dešinėje, neatlaikiusi spau-
+    dimo net krito didžioji Krokuvos vėliava.
+    Kryžiuočiai, pamanę, jog mūšis laimė-
+    tas, užtraukė pergalės giesmę „Kristus
+    prisikėlė“.
+  citata_rodoma: "Lenkai patyrė didelį spaudimą tiek\ncentre, tiek dešinėje, neatlaikiusi spau-\ndimo net krito didžioji Krokuvos vėliava.\nKryžiuočiai, pamanę, jog mūšis laimė-\ntas, užtraukė pergalės giesmę „Kristus\nprisikėlė“."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-10168
+    - t-176211
+
+- id: c-160234
+  citata_originali: |
+    Tuo lemtingu momentu Jungingenas į kautynes
+    dar pasiuntė 16 rezerve stovėjusių pulkų. Sąjungininkų eilės su­
+    svyravo. Vyriausioji Lenkijos vėliava pateko į priešų rankas.
+  citata_rodoma: "Vyriausioji Lenkijos vėliava pateko į priešų rankas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176210
+
+- id: c-160235
+  citata_originali: |
+    Ordinas nesidavė greitai įveikiamas. Vienos laimėtos kautynės
+    dar negalėjo sėkmingai išspręsti visų klausimų, juo labiau, kad
+    popiežius ir imperatorius vis buvo kryžiuočių pusėje. Pvz., Zig­
+    manto skatinamas Transilvanijos vaivada 1410 m. rudenį puolė
+    Lenkiją su 10 vėliavų^38.
+  citata_rodoma: "Pvz., Zig­\nmanto skatinamas Transilvanijos vaivada 1410 m. rudenį puolė\nLenkiją su 10 vėliavų^38."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176213
+
+- id: c-160236
+  citata_originali: |
+    Jogaila netrukus įsakė
+    duoti ženklą mūšiui. Karaliui buvo parinkta saugi vieta,
+    iš kur jis galėjo matyti visą kovos lauką, o jo niekas nematė, ir
+    jį apstatė geriausia sargyba. Jį saugojo kunigaikščio Kaributo
+    vėliava, kurią dar prieš karą Vytautas buvo Jogailai nusiuntęs.
+  citata_rodoma: "Jį saugojo kunigaikščio Kaributo\nvėliava, kurią dar prieš karą Vytautas buvo Jogailai nusiuntęs."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-12343
+
+- id: c-160237
+  citata_originali: |
+    Karaliui buvo parinkta saugi vieta,
+    iš kur jis galėjo matyti visą kovos lauką, o jo niekas nematė, ir
+    jį apstatė geriausia sargyba. Jį saugojo kunigaikščio Kaributo
+    vėliava, kurią dar prieš karą Vytautas buvo Jogailai nusiuntęs.
+    Nuo karaliaus stovyklos Lenkijos pusėn buvo sustatyta visa ei­
+    lė greičiausių ir visiškai paruoštų arklių, kuriais Jogaila galė­
+    tų pabėgti, jei kiltų pavojus iš kryžiuočių pusės.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176214
+
+- id: c-160238
+  citata_originali: |
+    Algirdo kariuomenė
+    netrukus priartėjo prie Maskvos ir išsidėstė
+    palei Kremliaus sienas (mūrinės Maskvos
+    sienos buvo baigtos statyti tų pačių 1368 m.
+    pavasarį).
+
+    Kai ryte po pamaldų „Maskvos kuni-
+    gaikštis su bajorais ir su kunigaikščiais
+    išeina iš cerkvės, Algirdas su visomis savo
+    pajėgomis, išskleidęs savo vėliavas, pasi-
+    rodė ant Pasveikinimo kalno (Paklonaja
+    gara)“ prie Maskvos. Maskvos didysis
+
+    kunigaikštis, įsakęs aplink sudeginti visą
+    priemiestį („posadą“), kad būtų atviras
+    plotas gynybai, užsidarė Kremliuje, o kartu
+    su juo ir metropolitas, kunigaikščiai bei
+    bajorai.
+  citata_rodoma: "pavasarį).\n\nKai ryte po pamaldų „Maskvos kuni-\ngaikštis su bajorais ir su kunigaikščiais\nišeina iš cerkvės, Algirdas su visomis savo\npajėgomis, išskleidęs savo vėliavas, pasi-\nrodė ant Pasveikinimo kalno (Paklonaja\ngara)“ prie Maskvos. Maskvos didysis\n\nkunigaikštis, įsakęs aplink sudeginti visą\npriemiestį („posadą“), kad būtų atviras\nplotas gynybai, užsidarė Kremliuje, o kartu\nsu juo ir metropolitas, kunigaikščiai bei\nbajorai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176217
+    - t-10166
+
+- id: c-160239
+  citata_originali: |
+    Pradėti
+    iš anksto numatyto apgaulingo atsitrau-
+    kimo manevro nebuvo galima, kol į mūšį
+    neįsitraukė pagrindinės lenkų pajėgos, nes
+    priešingu atveju būtų pavojingai atideng-
+    tas lietuvių sąjungininkų dešinysis flan-
+    gas. Po valandos pagaliau į mūšį įsitraukė
+    lenkų kavalerija. Pridengę jų kraštines
+
+    pozicijas trimis Smolensko vėliavomis,
+    lietuviai pradėjo manevrą atsitraukdami.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176216
+
+- id: c-160240
+  citata_originali: |
+    Bet tas įspūdis nepasitvirtino. Vytauto vadovaujami
+    Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų,
+    sugrįžo į kovos lauką. Nauji Lenkijos pulkai ėmė pulti ilstančią
+    kryžiuočių kariuomenę, ir jų eilės nebeatlaikė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176206
+
+- id: c-160241
+  citata_originali: |
+    Jiems galėjo atrodyti, jog susilpnėjęs prie­
+    šas pakriks. Bet tas įspūdis nepasitvirtino. Vytauto vadovaujami
+    Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų,
+    sugrįžo į kovos lauką.
+  citata_rodoma: "Vytauto vadovaujami\nLietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų,\nsugrįžo į kovos lauką."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176207
+
+- id: c-160245
+  citata_originali: |
+    Riteriai kovose, bendrai, būdavo mažai varžomi,
+    kiekvienas rūpindavosi savimi ir savo garbe. Kiekvienas rite­
+    ris kaudavosi po savo vėliava ir neturėdavo teisės ją palikęs
+    bėgti. Jei vėliava patekdavo į priešo rankas, tai riteriui valia
+    būdavo pasielgti savo nuožiūra — ar trauktis, ar kautis prisi­
+    dėjus prie kitos vėliavos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176209
+
+- id: c-160246
+  citata_originali: |
+    Pagal istorinę tradiciją Vytautas
+
+    XIV a. antrosios pusės lietuvių kario rekonstrukcija. Šis
+    karys tarnauja Lietuvos valdovo asmeninėje vėliavoje.
+    Jo tunika puošia valdovo heraldinė simbolika -
+    Gediminaičių stulpai
+
+    ~
+
+    52 VORSKLOS MUSIS 1399 m. rugpjūčio 12 d.
+  citata_rodoma: "Pagal istorinę tradiciją Vytautas\n\nXIV a. antrosios pusės lietuvių kario rekonstrukcija. Šis\nkarys tarnauja Lietuvos valdovo asmeninėje vėliavoje.\nJo tunika puošia valdovo heraldinė simbolika -\nGediminaičių stulpai\n\n~\n\n52 VORSKLOS MUSIS 1399 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176215
+
+- id: c-167714
+  citata_originali: |
+    Sąjungininkų eilės su­
+    svyravo. Vyriausioji Lenkijos vėliava pateko į priešų rankas. Kry­
+    žiuočiai jau tikėjo savo pergale ir ėmė giedoti laimėjusių giesmę
+    « Christ ist erstanden ».
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184344
+
+- id: c-167963
+  citata_originali: |
+    Pagaliau herulai, dėl įvairių prie­
+    žasčių atplėšti nuo savo krašto, daug kartų siaubė Ro­
+    mos imperiją ir pačią Italiją, o truputį vėliau, iš priešų
+    L ie tu v ia i —
+    h eru lų
+    g im in a ičia i
+    ties dydžio raidėmis šventą­
+    ją maldą jų kasdienine šne­
+    ka. Atidžiau ją skaitydamas,
+    suvokiau, jog ši kalba visai
+    45
+
+    ## Puslapis 44
+
+    pavirtę sąjungininkais ir priskirti prie pagalbinės ka­
+    riuomenės, daugelį amžių ėjo karo tarnybą, gindami
+    romėnų vėliavas. Tačiau niekur nerandu patikimų ži­
+    nių, kokia proga ir kuriame
+    Iš k u i k ilę s  L ie tu v o s
+    amžiuje viena ar gotų, ar
+    p a v a d in im a s ir a p ie
+    kimbrų, ar (o šitai arčiau tie-
+    L italan ą V y re sn i]}
+    sos) herulų triba ėmė vadin­
+    tis Lietuva.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184602
+
+- id: c-175297
+  citata_originali: |
+    Kunigaikštis Danielius
+    išžygiavo su Boleslovo būrio lenkais ir gerokai atsitraukė.
+    Vasilka pasiliko su Ziemovitu, o Lozorius lūkuriavo re­
+    zerve su poloviečiais. Pastaruosius jotvingiai smarkiai puo­
+    lė ir atėmė vado vėliavą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192507
 
 ## Ryšiai
 - Vėliavos priklausė [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]], [[objektai/grupes/Prūsai]], [[objektai/vietos/Vilnius]], [[objektai/grupes/Vokiečiai]]

@@ -2,17 +2,13 @@
 tipas: asmuo
 pavadinimas: 'Zbignievas Olesnickis'
 saltiniai:
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1422 m.'
   - '1423 m.'
 date_start: '1422'
 date_end: '1423'
-description: 'Krokuvos vyskupas Zbignievas Olesnickis buvo įtakingas Jogailos dvare ir priešinosi Vytauto karūnacijos siekiams.'
-socialDescription: 'Zbignievas Olesnickis iškyla kaip įtakingas Krokuvos vyskupas, kurio laikysena Jogailos dvare tapo svarbia kliūtimi Vytauto karūnacijai.'
-seo_atnaujinta: '2026-07-02T20:14:54.826138+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -24,112 +20,286 @@ amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Zbignievas Olesnickis
 
 ## Santrauka
 
-Zbignievas Olesnickis buvo Krokuvos vyskupas ir įtakingas karaliaus dvaro veikėjas, laikytas Vytauto persvaros bei nepriklausomos politikos priešininku. Jogaila jo ir lenkų ponų užsispyrimą įvardijo kaip didžiausią kliūtį Vytauto karūnacijai. Vytautas mėgino patraukti Olesnickį į savo pusę dovanomis, nes jo parama galėjo lemti karūnacijos klausimą.
+Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo apsaugai kelias vėliavas. Olesnickis grįžo be pagalbos — taigi, šiuo mūšio momentu jau buvo įtraukta ir paskutinė lenkų at­ sarga. Zbignievas Olesnickis.
 
 ## Teiginiai
 
 <a id="claim-t-176848"></a>
-- t-001
+- t-013
   global_id: t-176848
-  teiginys: 'Zbignievas Olesnickis, tapęs Krokuvos vyskupu, buvo priskirtas žmonėms, priešiškiems Vytauto persvarai ir politikai bendroje valstybėje.'
+  teiginys: "Zbignievas Olesnickis, tapęs Krokuvos vyskupu, buvo priskirtas žmonėms, priešiškiems Vytauto persvarai ir politikai bendroje valstybėje."
+  temporaliniai_duomenys: "įvykio data: 1422-1423"
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys fragmentiškas, citata palaiko pilną sakinį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "483828-484265; hash=a5b57511fad25a44ed29f4a1628744f88e90860157b4814849dcf468852932a7; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Zbignievas Olesnickis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zbignievas Olesnickis\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-160811
 
 <a id="claim-t-176849"></a>
-- t-002
+- t-009
   global_id: t-176849
-  teiginys: 'Jogaila Zbignievo Olesnickio ir lenkų ponų užsispyrimą laikė didžiausia kliūtimi Vytauto karūnacijai.'
+  teiginys: "Jogaila Zbignievo Olesnickio ir lenkų ponų užsispyrimą laikė didžiausia kliūtimi Vytauto karūnacijai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "583606-583847; hash=a3c0283acf8053f7cc65e4adbc293be2d3fa1cd52bf058cb05d163a24f3d7f0f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Zbignievas Olesnickis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zbignievas Olesnickis\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-36608
 
 <a id="claim-t-176850"></a>
 - t-003
   global_id: t-176850
-  teiginys: 'Krokuvos vyskupas Zbignievas Olesnickis buvo įtakingas karaliaus dvare ir priešinosi nepriklausomai Vytauto politikai.'
+  teiginys: "Krokuvos vyskupas Zbignievas Olesnickis buvo įtakingas karaliaus dvare ir priešinosi nepriklausomai Vytauto politikai."
+  semantiniai_rysiai: "Zbignievas Olesnickis buvo priešas Vytautas (Lietuvos valdovas, XIV–XV a.) (0.94)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "347260-347753; hash=2f67e341aac83399877619367a3be224c363037e54dd36ab3c55564251c7da48; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_priesas -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Zbignievas Olesnickis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai vadina Olesnickį nepriklausomos Vytauto politikos priešu."
   pagrindžia:
-    - c-006
+    - c-160807
 
 <a id="claim-t-176851"></a>
-- t-004
+- t-010
   global_id: t-176851
-  teiginys: 'Vytautas siekė patraukti Zbignievą Olesnickį į savo pusę ir negailėjo jam dovanų.'
+  teiginys: "Vytautas siekė patraukti Zbignievą Olesnickį į savo pusę ir negailėjo jam dovanų."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) rėmė Zbignievas Olesnickis (0.62)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "583954-584203; hash=b137d971838b83f2bbb811139e748ddf9e63b04381dae849e9da23587e168312; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Zbignievas Olesnickis: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Zbignievas Olesnickis: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Vytautas siekė patraukti Olesnickį į savo pusę ir teikė jam dovanas; tai ribotai pagrindžia rėmimo veiksmą."
   pagrindžia:
-    - c-004
+    - c-36609
 
 <a id="claim-t-176852"></a>
-- t-005
+- t-011
   global_id: t-176852
-  teiginys: 'Krokuvos vyskupas Zbignievas Olesnickis karaliaus dvare įgijo daug įtakos ir buvo laikomas nepriklausomos Vytauto politikos priešininku.'
+  teiginys: "Krokuvos vyskupas Zbignievas Olesnickis karaliaus dvare įgijo daug įtakos ir buvo laikomas nepriklausomos Vytauto politikos priešininku."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "347207-347687; hash=6b03fbfad501a7858df5eaea5f73074567106082342f9b91d798aa7e2a55c129; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Zbignievas Olesnickis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zbignievas Olesnickis\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-011
+    - c-160814
 
 <a id="claim-t-176853"></a>
-- t-006
+- t-005
   global_id: t-176853
-  teiginys: 'Naujasis Krokuvos vyskupas Zbignievas Olesnickis buvo priešingas Vytauto persvarai bendroje valstybėje ir jo politikai.'
+  teiginys: "Naujasis Krokuvos vyskupas Zbignievas Olesnickis buvo priešingas Vytauto persvarai bendroje valstybėje ir jo politikai."
+  temporaliniai_duomenys: "įvykio data: 1422-1423"
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "483828-484265; hash=a5b57511fad25a44ed29f4a1628744f88e90860157b4814849dcf468852932a7; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Karūna: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Zbignievas Olesnickis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Karūna: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zbignievas Olesnickis\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-160811
 
 <a id="claim-t-176854"></a>
-- t-007
+- t-006
   global_id: t-176854
-  teiginys: 'Zbignievas Olesnickis tapo kancleriu be Vytauto žinios ir pritarimo ir užkirto kelią jo įtakai Lenkijoje.'
+  teiginys: "Zbignievas Olesnickis tapo kancleriu be Vytauto žinios ir pritarimo ir užkirto kelią jo įtakai Lenkijoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "509803-510061; hash=5e339f9e8d22be20f9f40384047d110e4a1673dfec762bdde1e3957f81ebd1e7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Zbignievas Olesnickis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=95"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zbignievas Olesnickis\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-010
+    - c-160812
 
 <a id="claim-t-176855"></a>
 - t-008
   global_id: t-176855
-  teiginys: 'Zbignievas Olesnickis pasisiūlė būti vienu iš lenkų atstovų, vykusių kartu su Jogaila į Lietuvą.'
+  teiginys: "Zbignievas Olesnickis pasisiūlė būti vienu iš lenkų atstovų, vykusių kartu su Jogaila į Lietuvą."
+  semantiniai_rysiai: "Zbignievas Olesnickis keliavo į Lietuva (0.82)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "582279-582477; hash=fc02797314ef7691eab0133c1e1841cd5500d8c9421cd0429b95fe2617e67ebc; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Zbignievas Olesnickis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Olesnickis pasisiūlė būti tarp atstovų, vykusių kartu su Jogaila į Lietuvą."
   pagrindžia:
-    - c-002
+    - c-36607
 
 <a id="claim-t-176856"></a>
-- t-009
+- t-007
   global_id: t-176856
-  teiginys: 'Zbignievas Olesnickis buvo universiteto rektorius ir inspiravo Krokuvos profesorių nuomonę.'
+  teiginys: "Zbignievas Olesnickis buvo universiteto rektorius ir inspiravo Krokuvos profesorių nuomonę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "555781-556203; hash=0e265d97c96e772de19dcea8fca668142e60a034c6e159f8f95bccb6172ccfa2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Zbignievas Olesnickis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=63"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zbignievas Olesnickis\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-160810
 
 <a id="claim-t-176857"></a>
-- t-010
+- t-016
   global_id: t-176857
-  teiginys: 'Zbignievas Olesnickis, kaip Krokuvos universiteto rektorius, veikiausiai inspiravo profesorių nuomonę dėl Zigmanto teisės teikti karūną.'
+  teiginys: "Zbignievas Olesnickis, kaip Krokuvos universiteto rektorius, veikiausiai inspiravo profesorių nuomonę dėl Zigmanto teisės teikti karūną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "555781-556203; hash=0e265d97c96e772de19dcea8fca668142e60a034c6e159f8f95bccb6172ccfa2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Karūna: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Zbignievas Olesnickis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Karūna: mention_match, thing, gap=129"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zbignievas Olesnickis\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-160810
 
 <a id="claim-t-176859"></a>
-- t-011
+- t-002
   global_id: t-176859
-  teiginys: 'Zbignievas Olesnickis grįžo be pagalbos, bet vėliau ietimi nuvertė nuo arklio Jogailą puolusį riterį.'
+  teiginys: "Zbignievas Olesnickis grįžo be pagalbos, bet vėliau ietimi nuvertė nuo arklio Jogailą puolusį riterį."
+  semantiniai_rysiai: "Zbignievas Olesnickis puolė Kryžiuočių ordinas (0.63)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "235857-236233; hash=9d7aeedde212d3574c924ce7fd3643bcd204a99a127e599420490ce0eac52d5e; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Kryžiuočių ordinas: 0.63"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Zbignievas Olesnickis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Olesnickis ietimi parbloškė kryžiuočių vėliavos riterį; objektas apibendrintas iki leistino Kryžiuočių ordino kandidato."
   pagrindžia:
-    - c-001
+    - c-36599
 
 <a id="claim-t-176862"></a>
-- t-012
+- t-004
   global_id: t-176862
-  teiginys: 'Zbignievas Olesnickis buvo karūnos pasiuntinys, su kuriuo Vytautas pasiuntė savo sekretorių Mikalojų Cebulką pas Zigmantą.'
+  teiginys: "Zbignievas Olesnickis buvo karūnos pasiuntinys, su kuriuo Vytautas pasiuntė savo sekretorių Mikalojų Cebulką pas Zigmantą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "476870-477297; hash=bcec3e9fa513243941761148b02a5a2af761725a8fb19bdd4bdc6612b5df8ce8; match=word_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Karūna: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Zbignievas Olesnickis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Karūna: mention_match, thing, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zbignievas Olesnickis\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-160809
 
 <a id="claim-t-176863"></a>
-- t-013
+- t-001
   global_id: t-176863
-  teiginys: 'Zbignievas Olesnickis buvo pasiųstas į mūšio lauką parūpinti kelias vėliavas Jogailos apsaugai.'
+  teiginys: "Zbignievas Olesnickis buvo pasiųstas į mūšio lauką parūpinti kelias vėliavas Jogailos apsaugai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "235427-235635; hash=2171f05c0843d6f110a9a3948032d6e907e348635a5f819abd22a051f118e0c0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vėliavos: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Zbignievas Olesnickis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vėliavos: mention_match, thing, gap=68"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zbignievas Olesnickis\" parinktas kaip owner_note_path. Targetas \"Vėliavos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-160806
 
 <a id="claim-t-176864"></a>
-- t-014
+- t-012
   global_id: t-176864
-  teiginys: 'Zbignievas Olesnickis buvo karūnos pasiuntinys, kartu su kuriuo Vytautas pasiuntė Mikalojų Cebulką pareikšti Zigmantui nepasitenkinimą.'
+  teiginys: "Zbignievas Olesnickis buvo karūnos pasiuntinys, kartu su kuriuo Vytautas pasiuntė Mikalojų Cebulką pareikšti Zigmantui nepasitenkinimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "476870-477297; hash=bcec3e9fa513243941761148b02a5a2af761725a8fb19bdd4bdc6612b5df8ce8; match=word_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Karūna: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Zbignievas Olesnickis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Karūna: mention_match, thing, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zbignievas Olesnickis\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-160809
+
+<a id="claim-t-194018"></a>
+- t-017
+  global_id: t-194018
+  teiginys: "Švitrigaila Ldk tapo prieš Horodlo unijos 11413) nuostatus, ne atsižvelgiant | Lenkijos karalystes tarybaKrokuvos vyskupo Zbignievo Olesnickio vadovaujama, ši ėmė nedelsiant regzti sąmokslą, siekdama patalini!"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "505464-505856; hash=9d6d1d6b11e12aa880f0cf0a52e94d9292b78ec2fdd89a8f90fe3a37ca7f2b87; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176643
 - susijęs iš [[objektai/ivykiai/Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.).md#claim-t-179457|Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)]]: Vytautas ir Jogaila po Vroclavo sprendimo tuojau pasiuntė protestus, kuriuos į Vroclavą gabeno Zbignievas Olesnickis.
 - susijęs iš Vroclavas: Jogaila ir Vytautas pasiuntė į Vroclavą protestus, kuriuos gabeno Zbignievas Olesnickis.
 - susijęs iš [[objektai/ivykiai/Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.).md#claim-t-179455|Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)]]: 1420 m. Vroclave imperatoriaus Zigmanto sprendimas dėl Žemaičių ir Sūduvos kryžiuočiams pripažino daugiau, negu jie patys buvo prašę.
@@ -146,8 +316,9 @@ Zbignievas Olesnickis buvo Krokuvos vyskupas ir įtakingas karaliaus dvaro veik�
     kė tiesiog į Jogailą. Jis buvo bebandąs pulti, kai staiga Zbignie­
     vas Olesnickis jam pataikė ietimi ir nuvertė jį nuo arklio.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
@@ -160,8 +331,9 @@ Zbignievas Olesnickis buvo Krokuvos vyskupas ir įtakingas karaliaus dvaro veik�
     atstovais ir pasisiūlė Zb. Olesnickis, pakancleris Oporovskis ir
     kiti^5 ).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
@@ -175,8 +347,9 @@ Zbignievas Olesnickis buvo Krokuvos vyskupas ir įtakingas karaliaus dvaro veik�
     tį^2 ). Dabar Lietuvoj susidūrė dvi pažiūros: vieną atkakliai gy­
     nė Zb.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -190,6 +363,7 @@ Zbignievas Olesnickis buvo Krokuvos vyskupas ir įtakingas karaliaus dvaro veik�
     pusę patraukus, karūnacijos klausimas būtų kaip reikiant iš­
     sprendžiamas. Olesnickiui ir nesigailėta dovanų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -204,6 +378,7 @@ Zbignievas Olesnickis buvo Krokuvos vyskupas ir įtakingas karaliaus dvaro veik�
     jis parūpintų jo apsaugai kelias vėliavas. Tasai kreipėsi į ar­
     timiausios vėliavos vadą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -223,8 +398,9 @@ Zbignievas Olesnickis buvo Krokuvos vyskupas ir įtakingas karaliaus dvaro veik�
     mos Vytauto politikos priešas. Todėl gerus santykius su Va­
     karais Vytautas ėmė labai branginti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -242,8 +418,9 @@ Zbignievas Olesnickis buvo Krokuvos vyskupas ir įtakingas karaliaus dvaro veik�
     sekretorių Mikalojų Cebulką, kuris jo vardu pareiškė Zigmantui
     nepasitenkinimą^3 ).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
@@ -260,8 +437,9 @@ Zbignievas Olesnickis buvo Krokuvos vyskupas ir įtakingas karaliaus dvaro veik�
     Zb. Olesnickio, to universiteto rektoriaus, inspiruotą nuomo­
     nę, atsakė Zigmanto pavedamas Dr. Baptistą Cigala.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
@@ -280,8 +458,9 @@ Zbignievas Olesnickis buvo Krokuvos vyskupas ir įtakingas karaliaus dvaro veik�
     Olesnickis, buvo priešingi jo turimai persvarai bendroje valsty­
     bėje ir jo politikai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -296,8 +475,9 @@ Zbignievas Olesnickis buvo Krokuvos vyskupas ir įtakingas karaliaus dvaro veik�
     kanclerius be Vytauto žinios ir pritarimo, pastojo jo įtakai
     kelią į Lenkiją.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
@@ -316,11 +496,225 @@ Zbignievas Olesnickis buvo Krokuvos vyskupas ir įtakingas karaliaus dvaro veik�
     Krokuvos vysk. Zbignievas Olesnickis — didelis nepriklauso­
     mos Vytauto politikos priešas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
+- c-012
+  santrauka: 'Švitrigaila Ldk tapo prieš Horodlo unijos 11413) nuostatus, ne atsižvelgiant | Lenkijos karalystes tarybaKrokuvos vyskupo Zbignievo Olesnickio vadovaujama, ši ėmė nedelsiant regzti sąmokslą, siekdama patalini!'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Jogaila turėjo pritarti valiai
+    LDK feodalines visuomenės, pasirinkusios Švitrigaila Vytauto įpėdi­
+    niu. Švitrigaila Ldk tapo prieš Horodlo unijos 11413) nuostatus, ne­
+    atsižvelgiant | Lenkijos karalystes taryba- Krokuvos vyskupo Zbig-
+    nievo Olesnickio vadovaujama, ši ėmė nedelsiant regzti sąmokslą,
+    siekdama patalini! Švitrigaila Ir užkirsti kelią bijomam LDK atsi­
+    skyrimui nuo Lenkijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-015
+
+## Citatos
+
+- id: c-36599
+  citata_originali: |
+    Jogailos siųstasis Zb. Olesnickis grįžo be pagalbos — taigi,
+    šiuo mūšio momentu jau buvo įtraukta ir paskutinė lenkų at­
+    sarga. Bet tuo tarpu kryžiuočių vėliava pastebėjo savo klaidą
+    ir pasisuko atgal. Vienas riteris iš jų tarpo išsiskyrė ir patrau­
+    kė tiesiog į Jogailą. Jis buvo bebandąs pulti, kai staiga Zbignie­
+    vas Olesnickis jam pataikė ietimi ir nuvertė jį nuo arklio.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176859
+
+- id: c-36607
+  citata_originali: |
+    Lenkai bijojo leisti vieną Jogailą į Lietuvą ir prisiprašė,
+    kad leistų kartu su juo vykti ir kai kuriems jų atstovams. Tais
+    atstovais ir pasisiūlė Zb. Olesnickis, pakancleris Oporovskis ir
+    kiti^5 ).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176855
+
+- id: c-36608
+  citata_originali: |
+    Ant rytojaus įvyko didelis pasitarimas, ku­
+    riame Jogaila griežtai stojo už Vytauto karūnaciją ir nurodė
+    Zb. Olesnickio ir lenkų ponų užsispyrimą, kaip didžiausią kliū­
+    tį^2 ). Dabar Lietuvoj susidūrė dvi pažiūros: vieną atkakliai gy­
+    nė Zb.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176849
+
+- id: c-36609
+  citata_originali: |
+    Vytautas
+    jiems nė dovanų nesigailėjo. Ypač stengėsi patraukti į savo pu­
+    sę didžiausį savo priešininką Oleśnicki, nes žinojo, kad jį į savo
+    pusę patraukus, karūnacijos klausimas būtų kaip reikiant iš­
+    sprendžiamas. Olesnickiui ir nesigailėta dovanų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176851
+
+- id: c-160806
+  citata_originali: |
+    Karalius pamanęs, kad jį pastebėjo, liepė nuleisti žemyn
+    vėliavą. Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad
+    jis parūpintų jo apsaugai kelias vėliavas. Tasai kreipėsi į ar­
+    timiausios vėliavos vadą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176863
+
+- id: c-160807
+  citata_originali: |
+    Vytautas, tur būt, niekada
+    nuoširdžiai nemanė būti čekų karalium, nes tam reikėjo ilgų
+    kovų su vokiečiais ir popiežium, o Vytautui buvo reikalinga tai­
+    ka Vakaruose ir geri santykiai su Bažnyčia. Jis ilgai jau ne­
+    lankė rusų kraštų, kur mielai kreipdavo savo žirgą; pasibaigė
+    ir lenkų draugingumas, nes karaliaus dvare įgijo daug įtakos
+    Krokuvos vysk. Zbignievas Olesnickis — didelis nepriklauso­
+    mos Vytauto politikos priešas. Todėl gerus santykius su Va­
+    karais Vytautas ėmė labai branginti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176850
+
+- id: c-160809
+  citata_originali: |
+    Kai šį sprendimą sužinojo Vytautas ir
+    Jogaila, kurie tada viešėjo Dauguose, abu taip balsiai pra­
+    virko, kad jų verksmas, kaip sako Dlugošas, iš tolo buvo
+    girdėti. Toks įžeidžiantis ir neteisingas klausimo išsprendimas
+    suglaudė abi valstybes į bendrą kovą. Vytautas kartu su karū­
+    nos pasiuntiniu Zbignievu Olesnickiu pasiuntė ir savo atstovą,
+    sekretorių Mikalojų Cebulką, kuris jo vardu pareiškė Zigmantui
+    nepasitenkinimą^3 ).
+  citata_rodoma: "Toks įžeidžiantis ir neteisingas klausimo išsprendimas\nsuglaudė abi valstybes į bendrą kovą. Vytautas kartu su karū­\nnos pasiuntiniu Zbignievu Olesnickiu pasiuntė ir savo atstovą,\nsekretorių Mikalojų Cebulką, kuris jo vardu pareiškė Zigmantui\nnepasitenkinimą^3 )."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176864
+    - t-176862
+
+- id: c-160810
+  citata_originali: |
+    Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­
+    leisdami raštą, kuriame jie įrodinėjo, kad Zigmantas, Romos
+    karalius, neturįs teisės niekam suteikt karūnos, nes jis pats nė­
+    ra gavęs iš popiežiaus ciesoriaus titulo. Teisę karūnuot tetu­
+    rįs tiktai pats popiežius. į tą Krokuvos profesorių, be abejo
+    Zb. Olesnickio, to universiteto rektoriaus, inspiruotą nuomo­
+    nę, atsakė Zigmanto pavedamas Dr. Baptistą Cigala.
+  citata_rodoma: "į tą Krokuvos profesorių, be abejo\nZb. Olesnickio, to universiteto rektoriaus, inspiruotą nuomo­\nnę, atsakė Zigmanto pavedamas Dr. Baptistą Cigala."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176856
+    - t-176857
+
+- id: c-160811
+  citata_originali: |
+    Tada Ordinas kreipėsi tuo reikalu tie­
+    siog į Vytautą, kuris ir palaikė jų pusę. Lenkų užsispyrimas,
+    trukęs net ketverius metus, suerzino Vytautą dar labiau, kai
+    1422-23 m. skirstant į karūnos dignitorių vietas, nežiūrint tos
+    įtakos, kurią jis turėjo tame dalyke, aukščiausios vietos atiteko
+    žmonėms, kurie, kaip kad ir naujasis Krokuvos vyskupas Zb.
+    Olesnickis, buvo priešingi jo turimai persvarai bendroje valsty­
+    bėje ir jo politikai.
+  citata_rodoma: "Lenkų užsispyrimas,\ntrukęs net ketverius metus, suerzino Vytautą dar labiau, kai\n1422-23 m. skirstant į karūnos dignitorių vietas, nežiūrint tos\nįtakos, kurią jis turėjo tame dalyke, aukščiausios vietos atiteko\nžmonėms, kurie, kaip kad ir naujasis Krokuvos vyskupas Zb.\nOlesnickis, buvo priešingi jo turimai persvarai bendroje valsty­\nbėje ir jo politikai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176848
+    - t-176853
+
+- id: c-160812
+  citata_originali: |
+    tauto šitoji įtaka ėmė galop silpnėti. Mat, tuo metu Lenki­
+    joj iškilo naujas, gabus ir energingas politikas, didelis Vy­
+    tauto užsimojimų priešas, Zb. Olesnickis, kuris, patekęs į
+    kanclerius be Vytauto žinios ir pritarimo, pastojo jo įtakai
+    kelią į Lenkiją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176854
+
+- id: c-160814
+  citata_originali: |
+    Tuo ir užsibaigė
+    šie lietuvių santykiai su husitais. Vytautas, tur būt, niekada
+    nuoširdžiai nemanė būti čekų karalium, nes tam reikėjo ilgų
+    kovų su vokiečiais ir popiežium, o Vytautui buvo reikalinga tai­
+    ka Vakaruose ir geri santykiai su Bažnyčia. Jis ilgai jau ne­
+    lankė rusų kraštų, kur mielai kreipdavo savo žirgą; pasibaigė
+    ir lenkų draugingumas, nes karaliaus dvare įgijo daug įtakos
+    Krokuvos vysk. Zbignievas Olesnickis — didelis nepriklauso­
+    mos Vytauto politikos priešas.
+  citata_rodoma: "Vytautas, tur būt, niekada\nnuoširdžiai nemanė būti čekų karalium, nes tam reikėjo ilgų\nkovų su vokiečiais ir popiežium, o Vytautui buvo reikalinga tai­\nka Vakaruose ir geri santykiai su Bažnyčia. Jis ilgai jau ne­\nlankė rusų kraštų, kur mielai kreipdavo savo žirgą; pasibaigė\nir lenkų draugingumas, nes karaliaus dvare įgijo daug įtakos\nKrokuvos vysk. Zbignievas Olesnickis — didelis nepriklauso­\nmos Vytauto politikos priešas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176852
+
+- id: c-176643
+  citata_originali: |
+    Jogaila turėjo pritarti valiai
+    LDK feodalines visuomenės, pasirinkusios Švitrigaila Vytauto įpėdi­
+    niu. Švitrigaila Ldk tapo prieš Horodlo unijos 11413) nuostatus, ne­
+    atsižvelgiant | Lenkijos karalystes taryba- Krokuvos vyskupo Zbig-
+    nievo Olesnickio vadovaujama, ši ėmė nedelsiant regzti sąmokslą,
+    siekdama patalini! Švitrigaila Ir užkirsti kelią bijomam LDK atsi­
+    skyrimui nuo Lenkijos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194018
 
 ## Ryšiai
 - Priešai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

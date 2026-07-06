@@ -17,6 +17,18 @@ amziai:
   - 'XIII'
 periodo_grupes:
   - 'viduramžiai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Grigalius (vicekancleris)
 
@@ -29,9 +41,19 @@ Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, 
 <a id="claim-t-60296"></a>
 - t-001
   global_id: t-60296
-  teiginys: 'Apie 1226 (1230) m. vicekancleris Grigalius dalyvavo kaip Kulmo ir Lubavos žemių dovanojimo rašto liudytojas.'
+  teiginys: "Apie 1226 (1230) m. vicekancleris Grigalius dalyvavo kaip Kulmo ir Lubavos žemių dovanojimo rašto liudytojas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "142452-143589; hash=426d0d1e3f1d722e3321375d24fc9bb44b8ec9d302eb4be44d21cd3b08592936; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kulmas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Grigalius (vicekancleris): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kulmas: mention_match, place, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Grigalius (vicekancleris)\" parinktas kaip owner_note_path. Targetas \"Kulmas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-60928
 - susijęs iš [[objektai/asmenys/Fridrichas (riteris).md#claim-t-186203|Fridrichas (riteris)]]: Riteris Fridrichas vykdė reikalavimus, pateiktus šv. Grigaliaus vardu.
 - susijęs iš [[objektai/asmenys/Boguslavas (jaunesnysis Dirsovijos grafas).md#claim-t-60252|Boguslavas (jaunesnysis Dirsovijos grafas)]]: Jaunesnysis Dirsovijos grafas Boguslavas buvo tarp liudytojų, dalyvavusių apie 1226 ar 1230 m. patvirtinant žemių dovanojimą.
 - susijęs iš [[objektai/asmenys/Boguslavas (vyresnysis Dirsovijos grafas).md#claim-t-60253|Boguslavas (vyresnysis Dirsovijos grafas)]]: Vyresnysis Dirsovijos grafas Boguslavas buvo tarp liudytojų, dalyvavusių apie 1226 ar 1230 m. patvirtinant žemių dovanojimą.
@@ -53,11 +75,11 @@ Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, 
 - susijęs iš [[objektai/paprociai/Lietuvių grobiamieji antpuoliai, belaisvių išvarymas ir deginimas.md#claim-t-87297|Lietuvių grobiamieji antpuoliai, belaisvių išvarymas ir deginimas]]: Rugpjūtį lietuviai prie Vėluvos sudegino šešis kaimus ir nužudė kryžiuotį Fridrichą fon Quitzą su 36 kariais.
 - susijęs iš [[objektai/posakiai/Pergalės būdas tikriausias — kantrybė.md#claim-t-59051|Pergalės būdas tikriausias — kantrybė]]: Dusburgietis kantrybę vadina dorybių viršūne, galinčia įveikti ir beginklį, ir ginkluotą priešininką.
 - susijęs iš [[objektai/posakiai/Pergalės būdas tikriausias — kantrybė.md#claim-t-59052|Pergalės būdas tikriausias — kantrybė]]: Dusburgietis Grigaliui priskiria mintį, kad kankiniu galima būti ir be kalavijo ar liepsnų, jei sieloje išsaugoma kantrybė.
-- susijęs iš Prūsijos žemės kronika: Prūsijos žemės kronikoje minima tik Dobrynės kunigaikštystė, o kitame dokumente nurodoma ir kaimyninė Kulmo žemė.
 - susijęs iš Slaptojo archyvo dokumentai apie Dobrynės žemės nusiaubimą: Slaptojo archyvo dokumente nurodyta, kad per antpuolį kentėjo Dobrynės žemė ir kaimyninės Kulmo žemės.
 - susijęs iš Lubavos žemė: Apie 1226 arba 1230 m. Kulmo ir Lubavos žemės buvo atiduotos Teutonų namų ordino broliams.
 - susijęs iš [[objektai/zodynas/daiktiški ir dvasiški ginklai dvasios ginklai.md#claim-t-58935|daiktiški ir dvasiški ginklai dvasios ginklai]]: Dvasios ginklai apibūdinami kaip priemonės nugalėti tikybos ir bažnyčios priešus.
 - susijęs iš [[objektai/zodynas/daiktiški ir dvasiški ginklai.md#claim-t-58934|daiktiški ir dvasiški ginklai]]: Dvasios ginklai apibūdinami kaip priemonės nugalėti tikybos ir bažnyčios priešus.
+- susijęs iš [[objektai/zodynas/jurisdikcija.md#claim-t-192172|jurisdikcija]]: 1578 m. Steponas Batoras atleido Akademijos profesorius ir studentus nuo dvasinės ir pasaulietinės jurisdikcijos bei mokesčių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -78,8 +100,34 @@ Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, 
     Vilhelmui, Dirsovijos grafams — vyresniajam ir jaunesniajam Boguslavams, kancleriui
     Jonui, vicekancleriui Grigaliui ir daugybei kitų taurių dvasininkų bei pasauliečių174.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-60928
+  citata_originali: |
+    savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam
+    pritarė ir vieningai viską palaikė, atidavė Teutonų namų ordino broliams, jau dabar čia
+    esantiems ir ateityje atvyksiantiems, Kulmo ir Lubavos žemes, be to, tas žemes, kurias,
+    viešpaties padedami, jie ateityje atkariausią iš netikėlių, suteikdamas jiems per amžius
+    visas teises bei visas naudas, jo bei jo pirmtakų čia turėtas, nepasilaikydamas sau nei
+    teisių, nei nuosavybės ir pasižadėdamas nesiimti jokių teisinių ar faktinių veiksmų, kurie
+    šiuo atveju galėtų praversti jam pačiam, jo žmonai, jo vaikams ar jų palikuonims. Kad
+    šis dovanojimas būtų teisėtas bei amžinas ir kad ateityje niekas negalėtų jo atšaukti,
+    išdavė jiems raštą, kurį patvirtino savo antspaudu172. Šitai padaryta apie 1226 (1230)
+    viešpaties metus173, dalyvaujant pasirašiusiems liudytojams, būtent: Mazovijos vyskupui
+    Giunteriui, Kujavijos — Mykolui  ir Prūsijos — Kristijonui, abatui Gernuldui, dekanui
+    Vilhelmui, Dirsovijos grafams — vyresniajam ir jaunesniajam Boguslavams, kancleriui
+    Jonui, vicekancleriui Grigaliui ir daugybei kitų taurių dvasininkų bei pasauliečių174.
+  citata_rodoma: "Šitai padaryta apie 1226 (1230)\nviešpaties metus173, dalyvaujant pasirašiusiems liudytojams, būtent: Mazovijos vyskupui\nGiunteriui, Kujavijos — Mykolui  ir Prūsijos — Kristijonui, abatui Gernuldui, dekanui\nVilhelmui, Dirsovijos grafams — vyresniajam ir jaunesniajam Boguslavams, kancleriui\nJonui, vicekancleriui Grigaliui ir daugybei kitų taurių dvasininkų bei pasauliečių174."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60296

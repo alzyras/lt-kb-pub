@@ -8,6 +8,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Nogatas
 
@@ -18,26 +30,60 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
 ## Teiginiai
 
 <a id="claim-t-68827"></a>
-- t-001
+- t-003
   global_id: t-68827
-  teiginys: 'Nogatas yra rytinė Vyslos deltos atšaka, seniau įtekėjusi į Aismares gerokai piečiau dabartinio atsišakojimo.'
+  teiginys: "Nogatas yra rytinė Vyslos deltos atšaka, seniau įtekėjusi į Aismares gerokai piečiau dabartinio atsišakojimo."
+  semantiniai_rysiai: "Nogatas priklausė Vysla (0.88); Nogatas priklausė Aismares (0.62)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "306490-306671; hash=cc62492168908013ea7c261a7f4feaa0776b477089c2017de8cd236545de9d8a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Vysla: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Nogatas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Vysla: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai apibūdina Nogatą kaip Vyslos deltos atšaką."
   pagrindžia:
-    - c-003
+    - c-68314
 
 <a id="claim-t-68828"></a>
 - t-002
   global_id: t-68828
-  teiginys: 'Vyslos ir Nogato santakoje buvo pastatyta Santyro pilis, kurios vyrai trukdė brolių valdiniams plaukioti upe.'
+  teiginys: "Vyslos ir Nogato santakoje buvo pastatyta Santyro pilis, kurios vyrai trukdė brolių valdiniams plaukioti upe."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "304360-304728; hash=77db0bb07c12274c5cbd5ffb51d96cb15893fc051d3b56d4d1884a4559dc934f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Santyras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Nogatas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Santyras: mention_match, place, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nogatas\" parinktas kaip owner_note_path. Targetas \"Santyras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-68312
 
 <a id="claim-t-68829"></a>
 - t-003
   global_id: t-68829
-  teiginys: 'Nogatu buvo plaukiama iš Aistmarių į Vyslą prekybos keliu, kuriuo Lietuvos prekės galiausiai pasiekdavo Dancigą.'
+  teiginys: "Nogatu buvo plaukiama iš Aistmarių į Vyslą prekybos keliu, kuriuo Lietuvos prekės galiausiai pasiekdavo Dancigą."
+  semantiniai_rysiai: "Lietuva prekiavo su Dancigas (0.72)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "504068-504462; hash=3dc2c13a643ea2de38e874811d779749a6c96a337d57c7763d96b0938322f014; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Dancigas: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Dancigas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo Lietuvos prekių eksporto kelią, kuris galiausiai pasiekdavo Dancigą."
   pagrindžia:
-    - c-002
+    - c-68313
+- susijęs iš [[objektai/asmenys/Pitėjas Masilietis.md#claim-t-191134|Pitėjas Masilietis]]: Narbutas spėjo, kad Pitėjas Masilietis priplaukė prie Nogato žiočių ir iš ten pakrante galėjo pasiekti Sembą per vieną ar dvi dienas.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90011|Sventopelkas]]: Sventopelkas pastatė Santyro pilį Vyslos ir Nogato santakoje ir joje įkurdino brolių valdinius puldinėjusius vyrus.
+- susijęs iš [[objektai/asmenys/Vulfstanas.md#claim-t-191187|Vulfstanas]]: Narbuto pasakojime Vulfstanas dideliu laivu atplaukė prie Nogato žiočių ir pasiekė Druso miestą.
 - susijęs iš [[objektai/grupes/Baltai.md#claim-t-96081|Baltai]]: Manoma, kad XII-XIII a. politinė ir etninė baltų bei Pamario slavų riba ėjo žemutine Vysla ir Nogatu.
 - susijęs iš [[objektai/ivykiai/Sventopelko taikos sulaužymas, Kujavijos nusiaubimas ir Santyro pilies pastatymas.md#claim-t-62927|Sventopelko taikos sulaužymas, Kujavijos nusiaubimas ir Santyro pilies pastatymas (pilis)]]: Broliams negrąžinus sūnaus, Sventopelkas Vyslos ir Nogato santakoje pastatė Santyro pilį.
 - susijęs iš Aliamas: Pamedės valsčius Aliamas 1250 m. minėtas forma Alyem prie Nogato ir siejamas su vėlesniu Štumu.
@@ -61,9 +107,13 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
 - susijęs iš [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas.md#claim-t-66522|Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]: Divanas Klokinis ir Linkas su didele kariuomene įsibrovė į Kulmo žemę, o jų pajėgos patraukė prie Traupeino pilies.
 - susijęs iš [[objektai/ivykiai/Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę.md#claim-t-66638|Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę]]: Kresmenos valsčiaus ieškoma ir į šiaurės rytus nuo Skomanto ežero, tarp Suvalkų ir Seinų.
 - susijęs iš [[objektai/ivykiai/Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas.md#claim-t-66768|Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas]]: Lenkijos ir Pomeranijos kunigaikščiai bei kiti didikai su didele kariuomene pastatė Marienverderio miestą ir sustiprino anksčiau įkurtą pilį.
+- susijęs iš [[objektai/ivykiai/Pitėjo Masiliečio kelionė į šiaurines jūras ir gintaringus krantus.md#claim-t-191022|Pitėjo Masiliečio kelionė į šiaurines jūras ir gintaringus krantus]]: Teodoras Narbutas Abalo salą siejo su Semba, aiškindamas, kad senoviniai jos krantai galėjo suklaidinti jūros keliautoją.
 - susijęs iš [[objektai/ivykiai/Svečės pilies statyba ir nesėkmingas Ordino puolimas.md#claim-t-66924|Svečės pilies statyba ir nesėkmingas Ordino puolimas]]: Jis mat norėjo neleisti statyti čia pilies.
 - susijęs iš Deimena: Lietuvos prekės iš Nemuno per Giliją ir Kuršmares buvo plukdomos Deimena pro Labguvą į Prieglių.
+- susijęs iš Pamedė: Narbutas iš tvirtovių išsidėstymo sprendė, kad rytinė ir šiaurinė Pamedės dalys buvo gerai apgyvendintos.
 - susijęs iš [[objektai/zodynas/kuoras propugnaculum pilaitė.md#claim-t-58786|kuoras propugnaculum pilaitė]]: Prūsų pilaitė prie Wildenbergo aiškinama kaip buvusi greta vėlesnės Marienburgo pilies arba jos vietoje.
+- susijęs iš [[objektai/asmenys/Pitėjas Masilietis.md#claim-t-191134|Pitėjas Masilietis]]: Narbutas spėjo, kad Pitėjas Masilietis priplaukė prie Nogato žiočių ir iš ten pakrante galėjo pasiekti Sembą per vieną ar dvi dienas.
+- susijęs iš [[objektai/asmenys/Vulfstanas.md#claim-t-191187|Vulfstanas]]: Narbuto pasakojime Vulfstanas dideliu laivu atplaukė prie Nogato žiočių ir pasiekė Druso miestą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -76,6 +126,7 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
     brolių valdiniams ramiai  plaukioti  nei aukštyn,  nei žemyn, atimdavo  jų  daiktus,
     išsivarydavo juos į nelaisvę ar nugalabydavo.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -93,6 +144,7 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
     plaukiama Deimena pro Labguvą į Prieglių, juo — pro Kara-
     liaučių į Aistmares, iš čia — Nogatu į Vyslą, pagaliau į Dancigą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -107,11 +159,58 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
       283 D.— Nogadi, Jer.— Nogat. Nogatas — Vyslos deltos rytinė atšaka. Seniau Nogato
     vaga, įtekanti į Aismares, prasidėjo gerokai į pietus nuo dabartinio atsišakojimo.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
+## Citatos
+
+- id: c-68312
+  citata_originali: |
+    Kadangi broliai jam nesugrąžino sūnaus, jis kaip ir anksčiau
+    pradėjo juos iš paskutiniųjų persekioti. Todėl dviejų upių santakoje, būtent: Vyslos ir
+    Nogato283, pastatė pilį, vardu Santyras284, kurioje įkurdino nedorų vyrų. Jie neleisdavo
+    brolių valdiniams ramiai  plaukioti  nei aukštyn,  nei žemyn, atimdavo  jų  daiktus,
+    išsivarydavo juos į nelaisvę ar nugalabydavo.
+  citata_rodoma: "Todėl dviejų upių santakoje, būtent: Vyslos ir\nNogato283, pastatė pilį, vardu Santyras284, kurioje įkurdino nedorų vyrų. Jie neleisdavo\nbrolių valdiniams ramiai  plaukioti  nei aukštyn,  nei žemyn, atimdavo  jų  daiktus,\nišsivarydavo juos į nelaisvę ar nugalabydavo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-68828
+
+- id: c-68313
+  citata_originali: |
+    183 psl.), jis pasi-
+    darė svarbiausias Lenkijos žemės produktų eksporto centras.
+    Lietuva kad ir neturėjo savo uosto, tačiau ir ji stengėsi ekspor-
+    tuoti savo javus. Ji veždavo savo prekes Nemunu; iš Nemuno
+    kelias ėjo per jo šaką Giliją; pasiekus Kuršmares, toliau būdavo
+    plaukiama Deimena pro Labguvą į Prieglių, juo — pro Kara-
+    liaučių į Aistmares, iš čia — Nogatu į Vyslą, pagaliau į Dancigą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-68829
+
+- id: c-68314
+  citata_originali: |
+    Todėl broliai,
+      283 D.— Nogadi, Jer.— Nogat. Nogatas — Vyslos deltos rytinė atšaka. Seniau Nogato
+    vaga, įtekanti į Aismares, prasidėjo gerokai į pietus nuo dabartinio atsišakojimo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-68827
+
 ## Ryšiai
+- Buvo kelionės vieta: [[objektai/asmenys/Pitėjas Masilietis]], [[objektai/asmenys/Vulfstanas]]
 - Nogatas priklausė [[objektai/vietos/Aismares]], [[objektai/vietos/Vysla]]

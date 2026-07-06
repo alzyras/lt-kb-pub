@@ -1,3 +1,4 @@
+import { BrandLockup } from "./BrandLockup"
 import { QuartzComponent, QuartzComponentConstructor } from "./types"
 // @ts-ignore
 import script from "./scripts/graph-explorer.inline"
@@ -9,7 +10,7 @@ export default (() => {
       <main class="graph-explorer" data-graph-explorer>
         <form class="graph-explorer-topbar" data-graph-filters>
           <a class="graph-explorer-brand" href="/">
-            Lietuvos istorijos žinių bazė
+            <BrandLockup compact showTagline />
           </a>
           <label class="graph-explorer-search">
             <span class="sr-only">Paieška</span>

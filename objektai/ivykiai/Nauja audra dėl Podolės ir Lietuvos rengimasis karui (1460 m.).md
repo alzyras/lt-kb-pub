@@ -11,6 +11,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Nauja audra dėl Podolės ir Lietuvos rengimasis karui (1460 m.)
 
@@ -35,17 +47,45 @@ Nenurodyta
 <a id="claim-t-185756"></a>
 - t-001
   global_id: t-185756
-  teiginys: 'Lietuva suskato rengtis karui dėl Podolės, tačiau apsiribota grasinimais ir kariuomenės telkimu.'
+  teiginys: "Lietuva suskato rengtis karui dėl Podolės, tačiau apsiribota grasinimais ir kariuomenės telkimu."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "897019-897532; hash=a01a33450f80811292608cc0ed227ec6a7bc2768070012d96765cbdb6f462616; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Nauja audra dėl Podolės ir Lietuvos rengimasis karui (1460 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nauja audra dėl Podolės ir Lietuvos rengimasis karui (1460 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-169117
 
 <a id="claim-t-185757"></a>
 - t-002
   global_id: t-185757
-  teiginys: '1460 m. karalius Bresto seime stengėsi nukreipti didikų užmojus nuo Podolės.'
+  teiginys: "1460 m. karalius Bresto seime stengėsi nukreipti didikų užmojus nuo Podolės."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "valdymo laikotarpis: 1460 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia citatoje nurodytą karaliaus veiksmą Bresto seime."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "897362-898124; hash=f2b7cdca23bcc6934ce7e0d470a3b9a70e55b86e3552caec236d02aae8f320ad; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Podolė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Nauja audra dėl Podolės ir Lietuvos rengimasis karui (1460 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Podolė: mention_match, place, gap=60"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nauja audra dėl Podolės ir Lietuvos rengimasis karui (1460 m.)\" parinktas kaip owner_note_path. Targetas \"Podolė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
-
+    - c-169118
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -74,6 +114,7 @@ Nenurodyta
     tik tuo metu mirė žymiausias šios grupuotės vadas Jo­
     nas Goštautas.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -104,8 +145,69 @@ Nenurodyta
     ram inti
     griebdavosi ginklų.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-169117
+  citata_originali: |
+    N e s ė k m in g a s  ž y g is  į
+    P rūsiją
+    leidimo paliko stovyklą, o
+    sumažėjus jėgoms ir pralei­
+    dus tinkamą metą
+    lemia-
+    rkovo seime jie, be galo iš­
+    510
+
+    ## Puslapis 509
+
+    Šitai dar labiau sukurstė aist-
+    N a u ja  au d ra  d ė l Po-
+    ras, dar neatvėsusias po anks-
+    d o lės
+    tesnių sambrūzdžių. Visa Lie­
+    tuva suskato rengtis karui dėl
+    Podolės. Tačiau lemiamas žingsnis nebuvo žengtas: pasi­
+    tenkinta grasinimais bei kariuomenės telkimu, nes kaip
+    tik tuo metu mirė žymiausias šios grupuotės vadas Jo­
+    nas Goštautas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185756
+
+- id: c-169118
+  citata_originali: |
+    Tačiau lemiamas žingsnis nebuvo žengtas: pasi­
+    tenkinta grasinimais bei kariuomenės telkimu, nes kaip
+    tik tuo metu mirė žymiausias šios grupuotės vadas Jo­
+    nas Goštautas. Antra vertus, karalius irgi labiau nei
+    kitados stengėsi išlaikyti sa-
+    1460 m e ta i
+    vo rankose Lietuvą, nes su­
+    silaukė jau kelių palikuonių
+    (mat šiek tiek anksčiau gimė trečias sūnus Jonas Ol-
+    brachtas, o šiais metais ir ketvirtas — Aleksandras), to­
+    dėl visaip baudėsi Bresto seime nukreipti nuo Podolės
+    didikų užmojus. Kadangi skausmas dėl patirtos skriau­
+    dos, tai yra dėl atimtų žemių, tebuvo tik sušvelnėjus,
+    karaliaus akivaizdoje jie, tiesa, nerodė ypatingo įkar­
+    ščio, tačiau, jam išvykus, vėl
+    K araliui p a v y k s ta  n u-
+    ryžtingai rengdavosi karui ir
+    ram inti
+    griebdavosi ginklų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185757

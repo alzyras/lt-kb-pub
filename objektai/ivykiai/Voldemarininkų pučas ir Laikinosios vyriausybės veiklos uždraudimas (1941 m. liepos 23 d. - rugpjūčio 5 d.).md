@@ -14,6 +14,18 @@ tags:
   - ivykis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Voldemarininkų pučas ir Laikinosios vyriausybės veiklos uždraudimas (1941 m. liepos 23 d. - rugpjūčio 5 d.)
 
@@ -42,17 +54,44 @@ Nenurodyta
 <a id="claim-t-20563"></a>
 - t-001
   global_id: t-20563
-  teiginys: 'Liepos 23-iosios naktį naciai per gestapui paklususius voldemarininkus įvykdė pučą ir perėmė batalionų bei policijos vadovybę.'
+  teiginys: "Liepos 23-iosios naktį naciai per gestapui paklususius voldemarininkus įvykdė pučą ir perėmė batalionų bei policijos vadovybę."
+  temporaliniai_duomenys: "įvykio data: iki 1940 m.; įvykio data: 1940 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "399078-399780; hash=4c05d15ccdd3159c6cdf607691d1b82ecb55a4d53cbedceb94479143edd1c290; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Voldemarininkų pučas ir Laikinosios vyriausybės veiklos uždraudimas (1941 m. liepos 23 d. - rugpjūčio 5 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Voldemarininkų pučas ir Laikinosios vyriausybės veiklos uždraudimas (1941 m. liepos 23 d. - rugpjūčio 5 d.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-23287
 
 <a id="claim-t-20564"></a>
 - t-002
   global_id: t-20564
-  teiginys: 'Po Laikinosios vyriausybės veiklos sustabdymo naciai 1941 m. rugsėjo 26 d. uždarė LAF, kai dauguma ministrų atsisakė tapti tarėjais.'
+  teiginys: "Po Laikinosios vyriausybės veiklos sustabdymo naciai 1941 m. rugsėjo 26 d. uždarė LAF, kai dauguma ministrų atsisakė tapti tarėjais."
+  temporaliniai_duomenys: "įvykio data: 1941 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta, kad faktas būtų aiškiai susietas su Laikinosios vyriausybės veiklos sustabdymo kontekstu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "399781-400140; hash=06856adbd70faf714f81e7aef3ec4fb33dec2ae876c99f2308b6347420ca7f20; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Voldemarininkų pučas ir Laikinosios vyriausybės veiklos uždraudimas (1941 m. liepos 23 d. - rugpjūčio 5 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Voldemarininkų pučas ir Laikinosios vyriausybės veiklos uždraudimas (1941 m. liepos 23 d. - rugpjūčio 5 d.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-002
-
+    - c-23288
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -70,6 +109,7 @@ Nenurodyta
     policijai bei pagalbinės policijos daliniams, mielai perėmė sovietų nacio-
     nalizuotą turtą, o rugpjūčio 5 dieną uždraudė LV veiklą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -87,8 +127,48 @@ Nenurodyta
     sidariusią Lietuvių nacionalistų partiją). Taip nacių okupuotoje Lietuvoje
     baigėsi legalių lietuvių organizacijų veikla.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-23287
+  citata_originali: |
+    Sugrąžinus iki 1940 m. birželio 15 d. bu-
+    vusią tvarką, atkūrus apskritis, miestų savivaldybes, organizavus policiją,
+    vokiečių okupacinė valdžia neleido iš partizanų ir Lietuvos kariuomenės
+    dalių, pasitraukusių iš Raudonosios armijos, sudaryti reguliariąją Lietu-
+    vos kariuomenę.
+    Nepatenkinti LV egzistavimu naciai liepos 23-iosios naktį voldemari-
+    ninkų nacionalistų, paklususių gestapui, rankomis įvykdė pučą, pašalinę
+    LAF paskirtus asmenis, paėmė batalionų ir policijos vadovybę į savo ran-
+    kas. Dabar naciai jau be kliūčių tiesiai davė įsakymus savivaldybėms ir
+    policijai bei pagalbinės policijos daliniams, mielai perėmė sovietų nacio-
+    nalizuotą turtą, o rugpjūčio 5 dieną uždraudė LV veiklą.
+  citata_rodoma: "kas. Dabar naciai jau be kliūčių tiesiai davė įsakymus savivaldybėms ir"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-20563
+
+- id: c-23288
+  citata_originali: |
+    Vyriausybės pir-
+    mininkui J. Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo
+    veikimą sustabdytu prieš savo valią“. Daugumai ministrų atsisakius tapti
+    tarėjais rugsėjo 26-ąją naciai uždarė LAF (gruodį ir iš voldemarininkų su-
+    sidariusią Lietuvių nacionalistų partiją). Taip nacių okupuotoje Lietuvoje
+    baigėsi legalių lietuvių organizacijų veikla.
+  citata_rodoma: "sidariusią Lietuvių nacionalistų partiją). Taip nacių okupuotoje Lietuvoje"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-20564

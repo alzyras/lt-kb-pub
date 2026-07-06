@@ -9,6 +9,18 @@ tags:
   - grupe
   - reforma
   - vyskupas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Katalikų bažnyčia katalikai
 
@@ -19,12 +31,23 @@ Nuo 1387 m. LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m
 ## Teiginiai
 
 <a id="claim-t-65303"></a>
-- t-001
+- t-003
   global_id: t-65303
-  teiginys: 'Bažnyčios su dviem grakščiais skirtingai dekoruotų tarpsnių bokštais tapo katalikiškojo peizažo bruožu ir žymėjo rytinę katalikybės ribą.'
+  teiginys: "Bažnyčios su dviem grakščiais skirtingai dekoruotų tarpsnių bokštais tapo katalikiškojo peizažo bruožu ir žymėjo rytinę katalikybės ribą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "152511-152846; hash=74ffdc201626970da771ad7284ab7d81955ca9317ffc76454d22c8b3115218fa; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bokštai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Katalikų bažnyčia katalikai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Bokštai: mention_match, place, gap=60"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Katalikų bažnyčia katalikai\" parinktas kaip owner_note_path. Targetas \"Bokštai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
-
+    - c-65728
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -37,8 +60,26 @@ Nuo 1387 m. LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m
     dekoruotų tarpsnių bokštais tapo neatskiriamu katalikiškojo peizažo bruo-
     žu, žymėjo rytinę katalikybės, kartu ir Vidurio Europos ribą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-65728
+  citata_originali: |
+    Mokykla išsiskiria dekoratyvių, kompozicinių ir
+    architektūrinių elementų deriniu. Ryškiausias ypatumas – ypač aukšti ir
+    liekni pagrindinio fasado bokštai. Bažnyčios su dviem grakščiais, skirtingai
+    dekoruotų tarpsnių bokštais tapo neatskiriamu katalikiškojo peizažo bruo-
+    žu, žymėjo rytinę katalikybės, kartu ir Vidurio Europos ribą.
+  citata_rodoma: "žu, žymėjo rytinę katalikybės, kartu ir Vidurio Europos ribą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-65303

@@ -9,6 +9,18 @@ tags:
   - karas
   - paprotys
   - tauta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Prūsų šventųjų giraičių, laukų ir vandenų neliečiamumo norma
 
@@ -41,10 +53,19 @@ Nenurodyta
 <a id="claim-t-91925"></a>
 - t-001
   global_id: t-91925
-  teiginys: 'Prūsai turėjo šventųjų giraičių, laukų ir vandenų, kuriuose niekas nedrįso kirsti medžių, dirbti žemės ar žvejoti.'
+  teiginys: "Prūsai turėjo šventųjų giraičių, laukų ir vandenų, kuriuose niekas nedrįso kirsti medžių, dirbti žemės ar žvejoti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "209860-210418; hash=02cd606063563b9488b99d8d285e1316b0a30ae53bd2b051e9952dcbc7de09b8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Galinda: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsų šventųjų giraičių, laukų ir vandenų neliečiamumo norma: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Galinda: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsų šventųjų giraičių, laukų ir vandenų neliečiamumo norma\" parinktas kaip owner_note_path. Targetas \"Galinda\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-87567
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -60,8 +81,28 @@ Nenurodyta
       203 Manoma, kad pagrindinė Galindos žemės nusiaubimo priežastis buvo pasienio
     karai, ypač su Lenkija XI—XIII a.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-87567
+  citata_originali: |
+    Kadangi jie nepažino
+    dievo, tai, suprantama, klaidingai dievino visokiausius tvarinius, būtent: saulę, mėnulį ir
+    žvaigždes, griaustinį, sparnuočius ir keturkojus, netgi rupūžes.
+       Jie turėjo šventųjų giraičių, laukų ir vandenų, kur niekas nedrįso nei medžio kirsti, nei
+    žemės dirbti, nei žuvauti. Šios klastingos tautos [gyvenamų žemių] viduryje, Nadruvoje,
+    buvo vieta, kurią vadino Romove204, gavusi savo vardą nuo Romos, o ten gyveno žmogus,
+      203 Manoma, kad pagrindinė Galindos žemės nusiaubimo priežastis buvo pasienio
+    karai, ypač su Lenkija XI—XIII a.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91925

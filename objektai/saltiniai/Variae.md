@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - karalius
   - saltinis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Variae
 
@@ -20,10 +32,19 @@ tags:
 <a id="claim-t-31962"></a>
 - t-001
   global_id: t-31962
-  teiginys: 'Kassiodoro „Variae“ V, 12 pateiktas Teodoriko padėkos laiško aisčiams už gintaro dovanas tekstas.'
+  teiginys: "Kassiodoro „Variae“ V, 12 pateiktas Teodoriko padėkos laiško aisčiams už gintaro dovanas tekstas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "292868-293156; hash=b6f3d18f58fcf1cda2701d150d7d8a9397496b943c4ae9dde49d838144023f94; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aisčiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Variae: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Aisčiai: mention_match, group, gap=49"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Variae\" parinktas kaip owner_note_path. Targetas \"Aisčiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-33738
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -36,8 +57,27 @@ tags:
     535-526 po Kr.) padavė tekstą Teodoriko padėkos laiško aisčiams
     («Hestis ») už gintaro dovanas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33738
+  citata_originali: |
+    Vėliau (iki IX amž.) kelis kartus yra
+    dar minimas aisčių vardas.
+    Ostgotų karaliaus Teodoriko aukštas valdininkas Kassiodoras
+    (Cassiodorus, a. 490-585) savo raštuose (Variae, V, 12, parašytuose
+    535-526 po Kr.) padavė tekstą Teodoriko padėkos laiško aisčiams
+    («Hestis ») už gintaro dovanas.
+  citata_rodoma: "Ostgotų karaliaus Teodoriko aukštas valdininkas Kassiodoras\n(Cassiodorus, a. 490-585) savo raštuose (Variae, V, 12, parašytuose\n535-526 po Kr.) padavė tekstą Teodoriko padėkos laiško aisčiams\n(«Hestis ») už gintaro dovanas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31962

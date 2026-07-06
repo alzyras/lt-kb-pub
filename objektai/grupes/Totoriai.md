@@ -8,6 +8,7 @@ saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -22,11 +23,6 @@ datos:
   - '2026 m.'
 date_start: '1202'
 date_end: '2026'
-description: 'Totoriai LDK istorijoje siejami su Vytauto kovomis, Kijevo ir Podolės puldinėjimais, įkurdinimu Lietuvoje ir Klecko mūšio aplinka.'
-socialDescription: 'Totoriai čia atsiskleidžia kaip LDK kaimynai, priešininkai ir naujakuriai: nuo Vytauto kovų bei 1414–1416 m. antpuolių iki įkurdinimo Lietuvoje ir Klecko epizodų.'
-seo_atnaujinta: '2026-07-02T23:12:35.026645+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -36,407 +32,1251 @@ tags:
 amziai:
   - 'XIII'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Totoriai
 
 ## Santrauka
 
-Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jėga, valdžiusi daugelį rusų žemių, bet Vytauto laikais išgyvenusi krizę ir vidaus kovas. Algirdas, pasinaudojęs chanų vaidais, atėmė iš jų Kijevą ir Podoliją, o Vytautas, plėsdamas valdžią į rusų kraštus, susidūrė su klausimu, kas valdys Rusijos žemes. Šaltiniuose taip pat minimas totorių įkurdinimas Lietuvoje, jų pasiuntiniai Vilniuje, 1414–1416 m. Kijevo ir Lucko puldinėjimai bei totorių kariuomenė prie Klecko apie 1506 m. liepos 20–22 d.
+Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus totoriams, prekyba su pietiniais kraštais visai nutrūko. Totorių pavergta Rusija buvo suskilusi į daugybę kunigaikštysčių, todėl nesunku buvo jas paimti į savo valdžią.
 
 ## Teiginiai
 
 <a id="claim-t-171393"></a>
-- t-001
+- t-054
   global_id: t-171393
-  teiginys: 'Andrius kartu su Dmitrijumi Doniškiu kovojo prieš totorius ir prisidėjo prie pergalės Kulikovo lauke 1380 m. rugsėjo 8 d.'
+  teiginys: "Andrius kartu su Dmitrijumi Doniškiu kovojo prieš totorius ir prisidėjo prie pergalės Kulikovo lauke 1380 m. rugsėjo 8 d."
+  temporaliniai_duomenys: "mūšio data: 1380 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pirminis teiginys fragmentiškas, bet citata remia aiškų faktą apie kovą su totoriais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "99005-100009; hash=f9d0ea0f4b047faa33a26129f7a58eccba57f5c0a68628bf33d7a6b8798ee8a4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-015
+    - c-155948
 
 <a id="claim-t-171394"></a>
-- t-002
+- t-057
   global_id: t-171394
-  teiginys: 'Vytautas Lietuvoje įkurdino totorius, kurie garsėjo dora, narsa ir prieraišumu naujai tėvynei.'
+  teiginys: "Vytautas Lietuvoje įkurdino totorius, kurie garsėjo dora, narsa ir prieraišumu naujai tėvynei."
+  semantiniai_rysiai: "Totoriai gyveno Lietuva (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1398 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie totorių įkurdinimą ir apibūdinimą; pašalintas nutrūkęs tekstas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "318807-319797; hash=22e3239807a6a3b81d957ef167dd26ce4a59e6533b372a9ec15b55dc6201b52e; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Lietuva: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad totoriai buvo įkurdinti Lietuvoje."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-036
+    - c-155980
 
 <a id="claim-t-171395"></a>
-- t-003
+- t-055
   global_id: t-171395
-  teiginys: 'Vilniuje ir jo apylinkėse įsikūrė nemaža į nelaisvę paimtų totorių.'
+  teiginys: "Vilniuje ir jo apylinkėse įsikūrė nemaža į nelaisvę paimtų totorių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "312005-312717; hash=8d211a429f38758a0dd37c126892410a5795ecc8d7b4edecd1135b80842fb362; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Manvydas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Manvydas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Manvydas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-023
+    - c-155960
 
 <a id="claim-t-171396"></a>
-- t-004
+- t-031
   global_id: t-171396
-  teiginys: 'Be Vokiečių ordino, taikų Vytauto darbą trukdė totoriai ir Livonijos ordinas.'
+  teiginys: "Be Vokiečių ordino, taikų Vytauto darbą trukdė totoriai ir Livonijos ordinas."
+  semantiniai_rysiai: "Totoriai puolė Luckas (0.84)"
+  temporaliniai_duomenys: "įvykio data: 1416 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta į aiškesnį, pilną sakinį su citatoje nurodytu kontekstu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "339239-339500; hash=be1a3346d2da9ed946e25599e728287f410bc23ab87a564a8ae983ee8377cbf2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Luckas: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Luckas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo, kad totoriai apgriovė Lucką."
+  vertinimo_atnaujinta: "2026-06-13T14:24:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-006
+    - c-36951
 
 <a id="claim-t-171397"></a>
-- t-005
+- t-043
   global_id: t-171397
-  teiginys: '1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu.'
+  teiginys: "1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu."
+  temporaliniai_duomenys: "įvykio data: 1443 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus ir tiesiogiai pagrįstas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "460524-461077; hash=c4e668a60df346aa5bc528cd655046815a146f7b751fd1762f4f54b5d4dbb26e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Chadži Girėjus: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Chadži Girėjus: mention_match, person, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Chadži Girėjus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-038
+    - c-155984
 
 <a id="claim-t-171398"></a>
-- t-006
+- t-061
   global_id: t-171398
-  teiginys: 'Didžiojoje Kunigaikštystėje gyvenę totoriai, įsigiję nuosavybę, atsisakydavo mokėti dešimtinę ir kitas duokles dvasininkams.'
+  teiginys: "Didžiojoje Kunigaikštystėje gyvenę totoriai, įsigiję nuosavybę, atsisakydavo mokėti dešimtinę ir kitas duokles dvasininkams."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "764821-765917; hash=549c838b2d9bd5e63214ee1ebad2d9adeb03e301d42eab1ed3b0563097805dd8; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskvėnai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Maskvėnai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Maskvėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-016
+    - c-155949
 
 <a id="claim-t-171400"></a>
-- t-007
+- t-040
   global_id: t-171400
-  teiginys: 'Totorių chanas Jedigėjus, siekdamas Vytauto draugystės, siųsdavo jam turtingomis dovanomis apkrautus kupranugarius.'
+  teiginys: "Totorių chanas Jedigėjus, siekdamas Vytauto draugystės, siųsdavo jam turtingomis dovanomis apkrautus kupranugarius."
+  temporaliniai_duomenys: "įvykio data: 1420 m.; įvykio data: 1422 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "335693-336291; hash=186a717fef636cb8e4d63afeacc3048ecbc8caf7971ee0e4cae68bce0b7bfcbf; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=36"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-019
+    - c-155954
 
 <a id="claim-t-171401"></a>
-- t-008
+- t-021
   global_id: t-171401
-  teiginys: 'Apie 1506 m. liepos 20–22 d. totoriai pasirinko stovyklavietę prie Klecko, patogią išpuoliams į Pinską, Vilnių, Nesvyžių ir Slucką.'
+  teiginys: "Apie 1506 m. liepos 20–22 d. totoriai pasirinko stovyklavietę prie Klecko, patogią išpuoliams į Pinską, Vilnių, Nesvyžių ir Slucką."
+  semantiniai_rysiai: "Totoriai puolė Nesvyžius (0.68); Totoriai puolė Sluckas (0.68)"
+  temporaliniai_duomenys: "įvykio data: 1503 m.; įvykio data: 1506 m.; įvykio data: apie 1506 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "305634-306104; hash=8676523b51d02d8258a1b6fd047bc3175dcd5bfffcd0e793c1b50179bbc1e0f4; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Nesvyžius: 0.68"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Nesvyžius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Nesvyžius įvardytas kaip totorių išpuolių kryptis."
   pagrindžia:
-    - c-013
+    - c-42958
 
 <a id="claim-t-171402"></a>
-- t-009
+- t-060
   global_id: t-171402
-  teiginys: 'Švitrigaila į Lietuvą kreipė įvairias totorių ir rusų ordas, siekdamas atimti valdžią iš Žygimanto.'
+  teiginys: "Švitrigaila į Lietuvą kreipė įvairias totorių ir rusų ordas, siekdamas atimti valdžią iš Žygimanto."
+  semantiniai_rysiai: "Švitrigaila siuntė į Lietuva (0.78); Totoriai puolė Lietuva (0.70); Rusai puolė Lietuva (0.68)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "445376-446176; hash=0916e40861d9ecd3502d6fc514b8baad9ac2dfecc420a4b96e6be8d2fd4e49ea; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Lietuva: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Švitrigaila tiesiogiai apibūdintas kaip nukreipęs ordas į Lietuvą."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
-    - c-024
+    - c-155963
 
 <a id="claim-t-171403"></a>
-- t-010
+- t-023
   global_id: t-171403
-  teiginys: 'Artėdama Klecko link nuo Pinsko pusės LDK kariuomenė išėjo ant aukštumos, nuo kurios buvo matyti Kleckas ir jo kaimynystėje tarp Lanios ir Cepros upių išsirikiavusi totorių kariuomenė.'
+  teiginys: "Artėdama Klecko link nuo Pinsko pusės LDK kariuomenė išėjo ant aukštumos, nuo kurios buvo matyti Kleckas ir jo kaimynystėje tarp Lanios ir Cepros upių išsirikiavusi totorių kariuomenė."
+  semantiniai_rysiai: "Lietuvos kariuomenė keliavo į Kleckas (0.86)"
+  temporaliniai_duomenys: "įvykio data: 200 m"
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas faktinis sakinys ir atitinka citatos turinį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "315858-316324; hash=4e67c5f42ee0a35d6654dd792d41ac983a4781a4975a8ef2e74c73ec470c0647; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Kleckas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kleckas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo LDK kariuomenės judėjimą Klecko link."
   pagrindžia:
-    - c-014
+    - c-42960
 
 <a id="claim-t-171404"></a>
-- t-011
+- t-012
   global_id: t-171404
-  teiginys: 'Totoriai kartu su Livonijos ordinu trukdė taikų Vytauto darbą.'
+  teiginys: "Totoriai kartu su Livonijos ordinu trukdė taikų Vytauto darbą."
+  semantiniai_rysiai: "Totoriai puolė Luckas (0.84)"
+  temporaliniai_duomenys: "įvykio data: 1416 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "339239-339500; hash=be1a3346d2da9ed946e25599e728287f410bc23ab87a564a8ae983ee8377cbf2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Luckas: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Luckas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo, kad totoriai smarkiai apgriovė Lucką."
   pagrindžia:
-    - c-006
+    - c-36951
 
 <a id="claim-t-171405"></a>
-- t-012
+- t-066
   global_id: t-171405
-  teiginys: '1279 m. totoriai sąjungoje su Volinijos Levu apiplėšė Lietuvą.'
+  teiginys: "1279 m. totoriai sąjungoje su Volinijos Levu apiplėšė Lietuvą."
+  temporaliniai_duomenys: "įvykio data: 1279 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys gramatiškas ir tiesiogiai paremtas citatos informacija."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "574197-574427; hash=afbd0605a7c183ac0faa65a6ed844e87026772160b3040df7c519ee625606438; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Levas (Haličo kunigaikštis): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Levas (Haličo kunigaikštis): mention_match, person, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Levas (Haličo kunigaikštis)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-035
+    - c-155979
 
 <a id="claim-t-171406"></a>
-- t-013
+- t-051
   global_id: t-171406
-  teiginys: 'LDK turėjo totorių musulmonų bendruomenę, kurios iki unijos su Lenkija Lenkijoje nebuvo.'
+  teiginys: "LDK turėjo totorių musulmonų bendruomenę, kurios iki unijos su Lenkija Lenkijoje nebuvo."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "183481-184449; hash=9d3e979999817dd07e6b9f4357cb2014518b71f70988cdc5bc589a7676046203; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=52"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-037
+    - c-155981
 
 <a id="claim-t-171407"></a>
-- t-014
+- t-048
   global_id: t-171407
-  teiginys: 'Totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną, Henriką Vroclavietį ir daugybę kitų žmonių, o šias šalis pavertė dykromis.'
+  teiginys: "Totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną, Henriką Vroclavietį ir daugybę kitų žmonių, o šias šalis pavertė dykromis."
+  semantiniai_rysiai: "Totoriai puolė Vengrija (0.90); Totoriai puolė Lenkija (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "699223-699720; hash=84a46f3a7cfbec6886201d8750948e9744f93253740da61cb0f1a4f33f9efd98; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Lenkija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo totorių įsiveržimą į Lenkiją."
   pagrindžia:
-    - c-026
+    - c-155965
 
 <a id="claim-t-171408"></a>
-- t-015
+- t-046
   global_id: t-171408
-  teiginys: '1202 m. prasidėjo totorių viešpatavimas.'
+  teiginys: "1202 m. prasidėjo totorių viešpatavimas."
+  temporaliniai_duomenys: "įvykio data: 1202 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra trumpas, pilnas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "692857-692984; hash=f76c883362367eec7751720a69e48b6d3cd166b4d7da9d944add983825caaac0; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-022
+    - c-155958
 
 <a id="claim-t-171409"></a>
-- t-016
+- t-015
   global_id: t-171409
-  teiginys: 'Algirdo reikalavimuose siūlyta iškelti kryžiuočius į rytų stepes ginti Europos šalių nuo totorių.'
+  teiginys: "Algirdo reikalavimuose siūlyta iškelti kryžiuočius į rytų stepes ginti Europos šalių nuo totorių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "149330-149869; hash=419830688212644c47dbf1f2e7e4be1360fa84010e8510fda9b245f1d782b476; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=89"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-42952
 
 <a id="claim-t-171410"></a>
-- t-017
+- t-018
   global_id: t-171410
-  teiginys: 'Po apiplėšimų totoriai stengdavosi greitai pasitraukti, todėl bajorų pašauktinės kariuomenės mobilizacija dažnai vėluodavo.'
+  teiginys: "Po apiplėšimų totoriai stengdavosi greitai pasitraukti, todėl bajorų pašauktinės kariuomenės mobilizacija dažnai vėluodavo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "303270-303681; hash=4ea88c61369216da8fe16643c06bd4f41ecc0cb19b514c5a17a4a37ae31ec3be; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=48"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-039
+    - c-155985
 
 <a id="claim-t-171411"></a>
-- t-018
+- t-058
   global_id: t-171411
-  teiginys: 'Vytautas Vilniuje ne kartą skelbdavo totorių kunigaikščius chanais arba carais.'
+  teiginys: "Vytautas Vilniuje ne kartą skelbdavo totorių kunigaikščius chanais arba carais."
+  temporaliniai_duomenys: "įvykio data: 1419 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas ilgas kontekstas ir paliktas tik citata paremtas faktas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "333524-334673; hash=07c853747ca390637bc349d209abbeff234e429bd9f3816c7381a13eee412db1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dniepras: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Dniepras: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Dniepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-018
+    - c-155952
 
 <a id="claim-t-171412"></a>
-- t-019
+- t-064
   global_id: t-171412
-  teiginys: 'Be Vokiečių ordino, taikų Vytauto darbą trukdė totoriai, Livonijos ordinas ir kiti priešininkai.'
+  teiginys: "Be Vokiečių ordino, taikų Vytauto darbą trukdė totoriai, Livonijos ordinas ir kiti priešininkai."
+  semantiniai_rysiai: "Totoriai puolė Luckas (0.84)"
+  temporaliniai_duomenys: "įvykio data: 1416 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pirminis teiginys yra OCR fragmentas su iškreipta sakinio tvarka."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "339239-339500; hash=be1a3346d2da9ed946e25599e728287f410bc23ab87a564a8ae983ee8377cbf2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Luckas: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Luckas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo, kad totoriai apgriovė Lucką."
   pagrindžia:
-    - c-006
+    - c-36951
 
 <a id="claim-t-171413"></a>
-- t-020
+- t-017
   global_id: t-171413
-  teiginys: 'Totorių raiteliai vesdavosi po tris atsarginius žirgus, todėl galėdavo judėti labai sparčiai ir pasiekti netikėtumo efektą.'
+  teiginys: "Totorių raiteliai vesdavosi po tris atsarginius žirgus, todėl galėdavo judėti labai sparčiai ir pasiekti netikėtumo efektą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "302927-303268; hash=759b11153b412f39074c613ccdb0c88cfb079dd84cf880e06093d86d685c3239; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-011
+    - c-42954
 
 <a id="claim-t-171414"></a>
-- t-021
+- t-039
   global_id: t-171414
-  teiginys: 'Vytautas po pergalių prieš totorius savo sostinėje ne kartą skelbdavo totorių kunigaikštį chanu arba caru.'
+  teiginys: "Vytautas po pergalių prieš totorius savo sostinėje ne kartą skelbdavo totorių kunigaikštį chanu arba caru."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo prieš Totoriai (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1419 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "333524-334673; hash=07c853747ca390637bc349d209abbeff234e429bd9f3816c7381a13eee412db1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Totoriai: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai mini Vytauto mūšius su totoriais."
   pagrindžia:
-    - c-018
+    - c-155952
 
 <a id="claim-t-171415"></a>
-- t-022
+- t-042
   global_id: t-171415
-  teiginys: 'Švitrigaila kėsinosi atimti iš Žygimanto valdžią ir į Lietuvą kreipė įvairias totorių bei rusų ordas.'
+  teiginys: "Švitrigaila kėsinosi atimti iš Žygimanto valdžią ir į Lietuvą kreipė įvairias totorių bei rusų ordas."
+  semantiniai_rysiai: "Švitrigaila siuntė į Lietuva (0.76); Rusai puolė Lietuva (0.68)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "445376-446176; hash=0916e40861d9ecd3502d6fc514b8baad9ac2dfecc420a4b96e6be8d2fd4e49ea; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Lietuva: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Švitrigaila tiesiogiai apibūdintas kaip kreipęs totorių ir rusų ordas į Lietuvą."
   pagrindžia:
-    - c-024
+    - c-155963
 
 <a id="claim-t-171416"></a>
-- t-023
+- t-009
   global_id: t-171416
-  teiginys: 'Užimdamas naujus rusų kraštus, Vytautas priartėjo prie totorių sienų ir tai vedė prie karo su totoriais.'
+  teiginys: "Užimdamas naujus rusų kraštus, Vytautas priartėjo prie totorių sienų ir tai vedė prie karo su totoriais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "169887-170212; hash=1b05df405a2a04151d105a54643e907030bf104bbbb62874587541eae7bf1163; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kijevas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kijevas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-13T14:24:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-003
+    - c-36948
 
 <a id="claim-t-171418"></a>
-- t-024
+- t-062
   global_id: t-171418
-  teiginys: 'Totoriai, įsigalėję Rusijoje, pradėjo tarpusavyje vaidytis, o Lietuva iš šių vaidų ne kartą pasipelnydavo.'
+  teiginys: "Totoriai, įsigalėję Rusijoje, pradėjo tarpusavyje vaidytis, o Lietuva iš šių vaidų ne kartą pasipelnydavo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "169782-170103; hash=4397edf01bb19eb3b3dbe9473520bb9c95ce103342dc781b8695d20100c3134b; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=62"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-033
+    - c-155977
 
 <a id="claim-t-171419"></a>
-- t-025
+- t-044
   global_id: t-171419
-  teiginys: 'Didžiojoje Kunigaikštystėje gyvenę rusai ir totoriai, įsigiję nuosavybę, atsisakydavo mokėti dešimtinę, pelno mokestį ir kitas duokles dvasininkams.'
+  teiginys: "Didžiojoje Kunigaikštystėje gyvenę rusai ir totoriai, įsigiję nuosavybę, atsisakydavo mokėti dešimtinę, pelno mokestį ir kitas duokles dvasininkams."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "764821-765917; hash=549c838b2d9bd5e63214ee1ebad2d9adeb03e301d42eab1ed3b0563097805dd8; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskvėnai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Maskvėnai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Maskvėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-016
+    - c-155949
 
 <a id="claim-t-171420"></a>
-- t-026
+- t-016
   global_id: t-171420
-  teiginys: 'Totoriams strateginį privalumą teikė jų pagrindinės buveinės Krymo pusiasalyje nuošalumas nuo stiprių galios centrų.'
+  teiginys: "Totoriams strateginį privalumą teikė jų pagrindinės buveinės Krymo pusiasalyje nuošalumas nuo stiprių galios centrų."
+  semantiniai_rysiai: "Totoriai gyveno Krymas (0.72)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "302438-302926; hash=6ce7675b951a214c490fd2250f58242467da328755bef6f5573ff9abad05bdde; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Krymas: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Krymas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Krymas nurodytas kaip pagrindinių totorių buveinių vieta."
   pagrindžia:
-    - c-010
+    - c-42953
 
 <a id="claim-t-171421"></a>
-- t-027
+- t-063
   global_id: t-171421
-  teiginys: 'Vytautas, tarpininkaujant Tochtamyšui, ketino nukariauti totorius ir perimti kovotojo su netikinčiais šlovę.'
+  teiginys: "Vytautas, tarpininkaujant Tochtamyšui, ketino nukariauti totorius ir perimti kovotojo su netikinčiais šlovę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "172747-173117; hash=836be1e12a40befdb4e9d1714fc90c4d6f4130a7857e70183a60d6ba6ab52fed; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kipčakas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kipčakas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Kipčakas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-032
+    - c-155975
 
 <a id="claim-t-171422"></a>
-- t-028
+- t-013
   global_id: t-171422
-  teiginys: 'Vytauto laikais totorių valstybė išgyveno krizę: Orda buvo suskilusi, o atskiri saarai nuolat kariavo.'
+  teiginys: "Vytauto laikais totorių valstybė išgyveno krizę: Orda buvo suskilusi, o atskiri saarai nuolat kariavo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "689934-690411; hash=d8d5ff9ff1d6d3711b7efc1e0f70ab0f86ef8e7cd27769aac64425ebc2b0b70a; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-13T14:24:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
+    - c-14992
 
 <a id="claim-t-171423"></a>
-- t-029
+- t-056
   global_id: t-171423
-  teiginys: 'Mykolas Lietuvis liudijo, kad seniau totoriai garsėjo santūrumu, svetingumu ir iš kartos į kartą perduodamomis dorybėmis.'
+  teiginys: "Mykolas Lietuvis liudijo, kad seniau totoriai garsėjo santūrumu, svetingumu ir iš kartos į kartą perduodamomis dorybėmis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "316268-316743; hash=0f97c076a790631dc7e7ff83cce16563bc411efacdba4ad1947859cae43a125f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Mykolas Lietuvis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Mykolas Lietuvis: mention_match, author, gap=37"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Mykolas Lietuvis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-021
+    - c-155957
 
 <a id="claim-t-171424"></a>
-- t-030
+- t-045
   global_id: t-171424
-  teiginys: 'Petro Dusburgiečio kryžiaus žygių istorijoje pritariama popiežiaus kurijos pastangoms suartėti su totoriais-mongolais.'
+  teiginys: "Petro Dusburgiečio kryžiaus žygių istorijoje pritariama popiežiaus kurijos pastangoms suartėti su totoriais-mongolais."
+  semantiniai_rysiai: "Totoriai surengė žygį į Sirija (0.72)"
+  temporaliniai_duomenys: "įvykio data: 1291 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys remia autoriaus interpretaciją, todėl tinka aiškesnė atribucinė formuluotė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "47599-48169; hash=c58f89671246d0bede52f8caf9c67d1ca1203457b528ae5a0fc1f8953df8d1c2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Sirija: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Sirija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje nurodyti totorių-mongolų žygiai prieš Siriją."
   pagrindžia:
-    - c-029
+    - c-155969
 
 <a id="claim-t-171425"></a>
-- t-031
+- t-022
   global_id: t-171425
-  teiginys: 'Pagrindinėje stovyklavietėje buvę totoriai jau tą pačią dieną - rugpjūčio ketvirtąją - sužinojo apie link jų judančią Lietuvos kariuomenę.'
+  teiginys: "Pagrindinėje stovyklavietėje buvę totoriai jau tą pačią dieną - rugpjūčio ketvirtąją - sužinojo apie link jų judančią Lietuvos kariuomenę."
+  temporaliniai_duomenys: "įvykio data: 1506 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys turi aiškų subjektą, veiksmą ir datą, citata jį palaiko."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "314684-315072; hash=4802480ab4c3777af06c7a5a9c05cf020da5afbf978a7423a8747a7dadb848cc; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=84"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-042
+    - c-155990
+
+<a id="claim-t-171409"></a>
+- t-015
+  global_id: t-171409
+  teiginys: "Algirdo reikalavimuose siūlyta iškelti kryžiuočius į rytų stepes ginti Europos šalių nuo totorių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "149330-149869; hash=419830688212644c47dbf1f2e7e4be1360fa84010e8510fda9b245f1d782b476; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=89"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  pagrindžia:
+    - c-42952
 
 <a id="claim-t-171427"></a>
-- t-033
+- t-065
   global_id: t-171427
-  teiginys: 'Vytauto politikoje svarbi buvo kova rytuose su rusų kunigaikščiais ir totoriais.'
+  teiginys: "Vytauto politikoje svarbi buvo kova rytuose su rusų kunigaikščiais ir totoriais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "650462-650809; hash=a839344b355773c04bad77e6dc077953bceaa6ebdf212cee68cbe9464114a7a0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-025
+    - c-155964
 
 <a id="claim-t-171428"></a>
-- t-034
+- t-026
   global_id: t-171428
-  teiginys: 'Lietuvos didysis kunigaikštis Vytautas LDK apgyvendino ryškias musulmonų totorių ir karaimų bendruomenes.'
+  teiginys: "Lietuvos didysis kunigaikštis Vytautas LDK apgyvendino ryškias musulmonų totorių ir karaimų bendruomenes."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "137924-138458; hash=f83e5bf0c90acdcddfa08eb0347b6150023f773afe34404f9ad2abf939865e0c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Isaakas ben Abrahamas iš Trakų: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Isaakas ben Abrahamas iš Trakų: mention_match, person, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Isaakas ben Abrahamas iš Trakų\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-030
+    - c-155972
 
 <a id="claim-t-171429"></a>
-- t-035
+- t-034
   global_id: t-171429
-  teiginys: 'Andrius kartu su Dmitrijumi Doniečiu kovojo prieš totorius ir prisidėjo prie pergalės Kulikovo lauke.'
+  teiginys: "Andrius kartu su Dmitrijumi Doniečiu kovojo prieš totorius ir prisidėjo prie pergalės Kulikovo lauke."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "99005-100009; hash=f9d0ea0f4b047faa33a26129f7a58eccba57f5c0a68628bf33d7a6b8798ee8a4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-015
+    - c-155948
 
 <a id="claim-t-171430"></a>
-- t-036
+- t-059
   global_id: t-171430
-  teiginys: 'Totorių chanas Jedigėjus, siekdamas Vytauto draugystės, siųsdavo į Vilnių kupranugarius su turtingomis dovanomis.'
+  teiginys: "Totorių chanas Jedigėjus, siekdamas Vytauto draugystės, siųsdavo į Vilnių kupranugarius su turtingomis dovanomis."
+  semantiniai_rysiai: "Totoriai siuntė į Vilnius (0.70)"
+  temporaliniai_duomenys: "įvykio data: 1420 m.; įvykio data: 1422 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo kontekstinis fragmentas, perrašytas į pilną sakinį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "335693-336291; hash=186a717fef636cb8e4d63afeacc3048ecbc8caf7971ee0e4cae68bce0b7bfcbf; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Vilnius: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys priskiria totorių chanui siuntimą į Vilnių; objektas apibendrintas kaip totoriai."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-019
+    - c-155954
 
 <a id="claim-t-171431"></a>
-- t-037
+- t-010
   global_id: t-171431
-  teiginys: 'Vytautui atsisakius išduoti Tochtamyšą Kipčako chanui Timur-Kotlogui, karas su totoriais tapo neišvengiamas.'
+  teiginys: "Vytautui atsisakius išduoti Tochtamyšą Kipčako chanui Timur-Kotlogui, karas su totoriais tapo neišvengiamas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "172958-173255; hash=5e88159dc82ceba633db08e458eaf6390a73dce95bd7e32c5b3ca4696fb6ba45; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jadvyga: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Jadvyga: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Jadvyga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-36949
 
 <a id="claim-t-171432"></a>
-- t-038
+- t-025
   global_id: t-171432
-  teiginys: 'Po Žalgirio mūšio Vakaruose sklido paskviliai, kad Jogailos ir Vytauto pergalė buvusi „netikra“, nes jie pasitelkė totorius musulmonus.'
+  teiginys: "Po Žalgirio mūšio Vakaruose sklido paskviliai, kad Jogailos ir Vytauto pergalė buvusi „netikra“, nes jie pasitelkė totorius musulmonus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "91099-91471; hash=0e8c1df100e5d92aba7e07e087aa29ac850a93aec99924d6d1650d7d84d2d54c; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-043
+    - c-166576
 
 <a id="claim-t-171433"></a>
-- t-039
+- t-037
   global_id: t-171433
-  teiginys: 'Vytauto Lietuvoje įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir keliuose pavietuose.'
+  teiginys: "Vytauto Lietuvoje įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir keliuose pavietuose."
+  semantiniai_rysiai: "Totoriai gyveno Lietuva (0.85); Totoriai gyveno Naugardukas (0.78); Totoriai gyveno Ašmena (0.78)"
+  temporaliniai_duomenys: "gyvenimo laikotarpis: 1398 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Totoriai gyveno Nemėžis“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "318807-319797; hash=22e3239807a6a3b81d957ef167dd26ce4a59e6533b372a9ec15b55dc6201b52e; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad totoriai buvo įkurdinti Vytauto Lietuvoje."
   pagrindžia:
-    - c-036
+    - c-155980
 
 <a id="claim-t-171434"></a>
-- t-040
+- t-068
   global_id: t-171434
-  teiginys: 'Seniau totoriai vertėsi audinių ir siūlų prekyba.'
+  teiginys: "Seniau totoriai vertėsi audinių ir siūlų prekyba."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "319266-320121; hash=1bae43167dec84c04dcc456fcc2bc02a9cf22b4bffd46a09a7d8781d39180494; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ašmena: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Ašmena: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Ašmena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-028
+    - c-155968
 
 <a id="claim-t-171435"></a>
-- t-041
+- t-027
   global_id: t-171435
-  teiginys: 'Iki unijos su Lenkija LDK turėjo totorių musulmonų bendruomenę, kurios Lenkijoje iki tol nebuvo.'
+  teiginys: "Iki unijos su Lenkija LDK turėjo totorių musulmonų bendruomenę, kurios Lenkijoje iki tol nebuvo."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "138819-139318; hash=a700f842df8071e26cbc09c451cb77e6a40d354d710571ba719c4cd9a1fe8131; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-041
+    - c-155989
 
 <a id="claim-t-171436"></a>
-- t-042
+- t-014
   global_id: t-171436
-  teiginys: 'Lietuva tuo metu turėjo keturis pagrindinius priešus: Prūsijos-Livonijos vokiečių ordiną, Maskvą, totorius ir Lenkiją.'
+  teiginys: "Lietuva tuo metu turėjo keturis pagrindinius priešus: Prūsijos-Livonijos vokiečių ordiną, Maskvą, totorius ir Lenkiją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "146510-146926; hash=29148e6896d862d98cec9785bbb07e6a3e0f3325e9845f022ef3a8abd8582018; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-42951
 
 <a id="claim-t-171437"></a>
-- t-043
+- t-011
   global_id: t-171437
-  teiginys: 'Edygos vadovaujami totoriai 1414–1416 m. dažnai puldinėjo Kijevo ir Podolės kraštus, apgriaudami Kijevą ir Lucką.'
+  teiginys: "Edygos vadovaujami totoriai 1414–1416 m. dažnai puldinėjo Kijevo ir Podolės kraštus, apgriaudami Kijevą ir Lucką."
+  semantiniai_rysiai: "Totoriai puolė Kijevas (0.86); Totoriai puolė Podolė (0.84); Totoriai puolė Luckas (0.84)"
+  temporaliniai_duomenys: "įvykio data: 1414-1416; įvykio data: 1416 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatiškas ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "301941-302336; hash=139dd24ea2a3d87a88744953a3aded8fe1e18d388bf2dd83a4b52867b642ed8a; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Kijevas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo totorių puldinėjimus Kijevo krašte."
   pagrindžia:
-    - c-002
+    - c-21433
 
 <a id="claim-t-171438"></a>
-- t-044
+- t-033
   global_id: t-171438
-  teiginys: 'Kova rytuose su rusų kunigaikščiais ir totoriais buvo viena iš Vytauto politikos krypčių.'
+  teiginys: "Kova rytuose su rusų kunigaikščiais ir totoriais buvo viena iš Vytauto politikos krypčių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "650603-650857; hash=6b55900a44dbddaf117f93b9ccb432700de583c3545cd75d29e52a6fc20ef6be; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Viena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=15"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-36953
 
 <a id="claim-t-171439"></a>
-- t-045
+- t-047
   global_id: t-171439
-  teiginys: 'Totoriai nuniokojo Vengriją ir Lenkiją.'
+  teiginys: "Totoriai nuniokojo Vengriją ir Lenkiją."
+  semantiniai_rysiai: "Totoriai puolė Vengrija (0.88); Totoriai puolė Lenkija (0.88)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "697676-697810; hash=d8ff511a18026042c5865f0fc93989dce6130fbb32c10616e327458bfe8f3bef; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Lenkija: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Lenkija tiesiogiai įvardyta kaip totorių nuniokota šalis."
   pagrindžia:
-    - c-020
-    - c-026
+    - c-155956
+    - c-155965
 
 <a id="claim-t-171440"></a>
-- t-046
+- t-019
   global_id: t-171440
-  teiginys: '1506 m. vasarą totoriai įsiveržė į LDK valdas, nesitikėdami nesėkmės.'
+  teiginys: "1506 m. vasarą totoriai įsiveržė į LDK valdas, nesitikėdami nesėkmės."
+  temporaliniai_duomenys: "įvykio data: 1506 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "304943-305356; hash=438e2b8676bd996a887a19a626c009a8f475d71ac7697b550b8309d07a23b5e5; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Naugardukas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Naugardukas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Naugardukas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-012
+    - c-42956
 
 <a id="claim-t-171441"></a>
-- t-047
+- t-049
   global_id: t-171441
-  teiginys: 'Totoriai su armėnais ir gruzinais nužygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkstančių raitelių.'
+  teiginys: "Totoriai su armėnais ir gruzinais nužygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkstančių raitelių."
+  semantiniai_rysiai: "Totoriai surengė žygį į Sirija (0.90); Totoriai surengė žygį į Palestina (0.90); Totoriai buvo sąjungininkas su Armėnai (0.82); Totoriai buvo sąjungininkas su Gruzinai (0.82)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "738716-738946; hash=093fe553dad63cc56ee275a5667bbb953a682b34a07683653d251b2c09cc7b1d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Palestina: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Palestina: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo totorių žygį į Palestiną."
   pagrindžia:
-    - c-017
+    - c-155951
+
+<a id="claim-t-171442"></a>
+- t-029
+  global_id: t-171442
+  teiginys: "1279 m. totoriai sąjungoje su Volinijos Levu apiplėšė Lietuvą."
+  semantiniai_rysiai: "Totoriai buvo sąjungininkas su Levas (Haličo kunigaikštis) (0.90); Totoriai puolė Lietuva (0.88); Levas (Haličo kunigaikštis) puolė Lietuva (0.80)"
+  temporaliniai_duomenys: "įvykio data: 1279 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia citatoje nurodytą totorių veiksmą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "574253-574535; hash=76247a1130417872b15a8d5508acee31d09c757c92b14a90c07980210450e800; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Levas (Haličo kunigaikštis): 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Levas (Haličo kunigaikštis): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo totorių sąjungą su Volinijos Levu."
+  pagrindžia:
+    - c-155987
 
 <a id="claim-t-171443"></a>
-- t-049
+- t-050
   global_id: t-171443
-  teiginys: '1326 m. Vengrijos karalius nukovė 30 tūkstančių totorių, kurių kariuomenė siaubė jo karalystę.'
+  teiginys: "1326 m. Vengrijos karalius nukovė 30 tūkstančių totorių, kurių kariuomenė siaubė jo karalystę."
+  semantiniai_rysiai: "Totoriai puolė Vengrija (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1326 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Totoriai susiję su Vengrija“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia pataisyti skaičiaus rašybą į norminę lietuvišką formą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "744238-744444; hash=01de3f7b006b37d96f4001d7f7e9b4614932d8b39b0cd7989030f7ad0c730e6e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Vengrija: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vengrija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Totorių kariuomenė apibūdinta kaip siaubusi Vengrijos karaliaus karalystę."
   pagrindžia:
-    - c-034
+    - c-155978
 
 <a id="claim-t-171444"></a>
-- t-050
+- t-041
   global_id: t-171444
-  teiginys: 'Vytautas užmezgė draugiškus ryšius su totorių chanu ir susitarė dėl taikos.'
+  teiginys: "Vytautas užmezgė draugiškus ryšius su totorių chanu ir susitarė dėl taikos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "369482-369795; hash=cb78ec576962ca11813d7e541a8745149e0a70cfa68f4cb2c3b06e8d46b697c7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> chanas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "chanas: mention_match, thing, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"chanas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-027
+    - c-155966
 
 <a id="claim-t-171445"></a>
-- t-051
+- t-030
   global_id: t-171445
-  teiginys: 'Totoriai, užėmę lietuvių stovyklą, paėmė jų gurguoles bei turtus ir ėmė niokoti kraštą.'
+  teiginys: "Totoriai, užėmę lietuvių stovyklą, paėmė jų gurguoles bei turtus ir ėmė niokoti kraštą."
+  semantiniai_rysiai: "Totoriai keliavo į Kijevas (0.78)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "177387-177552; hash=cb9a89887501c063ab1a893533b43f64da17e780ec4ba5f328485b454b9aa111; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Kijevas: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo totorių judėjimą Kijevo link."
   pagrindžia:
-    - c-005
+    - c-36950
 
 <a id="claim-t-171446"></a>
-- t-052
+- t-036
   global_id: t-171446
-  teiginys: 'Mykolas Lietuvis liudijo, kad seniau totoriai garsėjo santūrumu, svetingumu ir kitomis dorybėmis.'
+  teiginys: "Mykolas Lietuvis liudijo, kad seniau totoriai garsėjo santūrumu, svetingumu ir kitomis dorybėmis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "316268-316743; hash=0f97c076a790631dc7e7ff83cce16563bc411efacdba4ad1947859cae43a125f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Mykolas Lietuvis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Mykolas Lietuvis: mention_match, author, gap=37"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Mykolas Lietuvis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-021
+    - c-155957
 
 <a id="claim-t-171447"></a>
-- t-053
+- t-024
   global_id: t-171447
-  teiginys: 'Didieji kunigaikščiai labiau pasitikėjo karaimais ir totoriais, tapusiais artimosios sargybos tautomis.'
+  teiginys: "Didieji kunigaikščiai labiau pasitikėjo karaimais ir totoriais, tapusiais artimosios sargybos tautomis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "68801-69196; hash=12bd2ed816202eca8f9a63f228522db88e777d1444ca07173f8bc1109ab3a5d9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Baltai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-031
+    - c-155974
+
+<a id="claim-t-171432"></a>
+- t-025
+  global_id: t-171432
+  teiginys: "Po Žalgirio mūšio Vakaruose sklido paskviliai, kad Jogailos ir Vytauto pergalė buvusi „netikra“, nes jie pasitelkė totorius musulmonus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "91099-91471; hash=0e8c1df100e5d92aba7e07e087aa29ac850a93aec99924d6d1650d7d84d2d54c; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  pagrindžia:
+    - c-166576
+
+<a id="claim-t-183669"></a>
+- t-072
+  global_id: t-183669
+  teiginys: "Lietuva tuo metu turėjo keturis pagrindinius priešus: Prūsijos-Livonijos vokiečių ordiną, Maskvą, totorius ir Lenkiją."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "146402-146779; hash=7a2362cd69644eb9e8aca7ee4fafff62d1d8e92ff5f00529dcdc39bfecd3b062; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-167061
+
+<a id="claim-t-183905"></a>
+- t-073
+  global_id: t-183905
+  teiginys: "Totoriai nuniokojo Vengriją ir Lenkiją."
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Totoriai puolė Vengrija (0.88); Totoriai puolė Lenkija (0.88)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "697676-697810; hash=d8ff511a18026042c5865f0fc93989dce6130fbb32c10616e327458bfe8f3bef; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Lenkija: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Lenkija tiesiogiai įvardyta kaip totorių nuniokota šalis."
+  pagrindžia:
+    - c-155956
 
 <a id="claim-t-187746"></a>
-- t-057
+- t-054
   global_id: t-187746
-  teiginys: 'Lietuvos metraštyje totorių chanas su sutelktomis ordomis patraukė į Rusų žemę ir, pasak kronikos, padarė jai daug žalos.'
+  teiginys: "Lietuvos metraštyje totorių chanas su sutelktomis ordomis patraukė į Rusų žemę ir, pasak kronikos, padarė jai daug žalos."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "86147-86579; hash=414b24bf43d7ff91fdfe2bc66676650431f4da95a4d45de573db1979afd2c272; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=49"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-045
+    - c-170685
 
 <a id="claim-t-187747"></a>
-- t-058
+- t-055
   global_id: t-187747
-  teiginys: 'Lietuvos metraštis teigia, kad Dievui padėjus totoriai sumušė Vytautą ir jo kariuomenę, o Vytautas su nedideliu būriu pabėgo.'
+  teiginys: "Lietuvos metraštis teigia, kad Dievui padėjus totoriai sumušė Vytautą ir jo kariuomenę, o Vytautas su nedideliu būriu pabėgo."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "173285-173777; hash=d6f6ed99671eaa151df0e1a16568e64d74df5d630f1b953fe6a8d3abccaed565; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=16"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-046
+    - c-170686
 
 <a id="claim-t-187748"></a>
-- t-059
+- t-056
   global_id: t-187748
-  teiginys: 'Vytautas į karą su Prūsijos vokiečiais sutelkė Lietuvos ir Rusios pajėgas bei daug Ordos totorių.'
+  teiginys: "Vytautas į karą su Prūsijos vokiečiais sutelkė Lietuvos ir Rusios pajėgas bei daug Ordos totorių."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "183481-184449; hash=9d3e979999817dd07e6b9f4357cb2014518b71f70988cdc5bc589a7676046203; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-047
+    - c-170687
 
 <a id="claim-t-187750"></a>
-- t-060
+- t-057
   global_id: t-187750
-  teiginys: 'Prie Klecko už Lanės upės stovėjo mūšiui pasirengę totorių pulkai.'
+  teiginys: "Prie Klecko už Lanės upės stovėjo mūšiui pasirengę totorių pulkai."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "298385-298886; hash=ebeecb700c888a77123e01d376e0675afcb9f3e29a4204d016af818f6080da89; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Mykolas Glinskis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Mykolas Glinskis: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Mykolas Glinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-048
+    - c-170689
 
 <a id="claim-t-187751"></a>
-- t-061
+- t-058
   global_id: t-187751
-  teiginys: 'Totoriai puolė per upę besikeliančių lietuvių dešinįjį sparną ir nukovė daug jo karių.'
+  teiginys: "Totoriai puolė per upę besikeliančių lietuvių dešinįjį sparną ir nukovė daug jo karių."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Totoriai puolė Lietuviai (0.90)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "299766-300464; hash=756a49a6b262868874f4002db224232075114aacf1a09fd9ccaaa3a2c7a3fbef; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Lietuviai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad totoriai puolė lietuvius."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-049
+    - c-170690
+
+<a id="claim-t-192476"></a>
+- t-074
+  global_id: t-192476
+  teiginys: "Narbutas rašo, kad totorių puldinėjimai tuo metu palietė Lenkiją ir Polesę nuo Bugo."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Totoriai puolė Lenkija (0.86)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "236716-237322; hash=298cc82dfde1052252d9d126c9ebacc404e0819f3246f3d6dd36c562a12ee45b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Lenkija: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Totorių puldinėjimai tiesiogiai nurodyti kaip palietę Lenkiją."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175270
+
+<a id="claim-t-193131"></a>
+- t-075
+  global_id: t-193131
+  teiginys: "Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus totoriams, prekyba su pietiniais kraštais visai nutrūko."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "144814-145141; hash=eee589168faa8e96bfe51cd7be9d1cb5260fd1a05dec138c50adbd1d70c69003; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-175889
+
+<a id="claim-t-193132"></a>
+- t-076
+  global_id: t-193132
+  teiginys: "Totorių pavergta Rusija buvo suskilusi į daugybę kunigaikštysčių, todėl nesunku buvo jas paimti į savo valdžią."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "160728-160951; hash=fa135591bfc0e25ea2fde900f25e2a498a373ab44d89c09aa009ecc1724eaab8; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-175890
+
+<a id="claim-t-193845"></a>
+- t-077
+  global_id: t-193845
+  teiginys: "Tuo pačiu metu stepėje, dvylika mylių nuo Braclavo, lietuviai sumušė kelis šimtus totorių."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "265129-265486; hash=2286fdcf9b45e1a6632487f0389c50842bf962b9fe7537fce984a37f43ce13c9; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176489
+
+<a id="claim-t-194371"></a>
+- t-078
+  global_id: t-194371
+  teiginys: "Apie Vengrijos ir Lenkijos nusiaubimą Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "697676-697810; hash=d8ff511a18026042c5865f0fc93989dce6130fbb32c10616e327458bfe8f3bef; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-155956
 - susijęs iš Detmaro Liubeko kronikos tęsinys: Detmaro Liubeko kronikos tęsinyje Vytauto žygiai ir Vorsklos kautynės apibendrinti kaip trys lietuvių karai su totoriais.
 - susijęs iš Detmaro Liubeko kronikos tęsinys: Detmaro Liubeko kronikos tęsinyje rašoma, kad lietuviai prieš totorius kariavo tris kartus, du mūšius laimėjo, o prie Vorsklos patyrė nesėkmę.
 - susijęs iš [[objektai/autoriai/Detmaro Liubeko.md#claim-t-183696|Detmaro Liubeko]]: Detmaro Liubeko kronikos tęsinyje teigiama, kad lietuviai prieš totorius kariavo tris kartus, du mūšius laimėjo, o prie Vorsklos pralaimėjo.
@@ -492,6 +1332,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
 - susijęs iš [[objektai/zodynas/murza.md#claim-t-183718|murza]]: Po Algirdo pajėgų spaudimo totoriai bėgo, o mūšyje žuvo daug murzų ir ulonų.
 - susijęs iš [[objektai/zodynas/murza.md#claim-t-38767|murza]]: Neišlaikę Algirdo pajėgų spaudimo totoriai bėgo, o mūšyje žuvo daug murzų ir ulonų.
 - susijęs iš [[objektai/asmenys/Aleksandras (Mykolo sūnus).md#claim-t-30194|Aleksandras (Mykolo sūnus)]]: Aleksandras su sūnumi greičiausiai dėl artimų ryšių su Gediminu buvo nužudyti totorių ordoje.
+- susijęs iš [[objektai/asmenys/Aleksandras Gvaninis.md#claim-t-191362|Aleksandras Gvaninis]]: Narbutas remiasi Aleksandru Gvaniniu, kuris Klerkei, arba Bialohrodo, pilį siejo su Belgorodo totorių vardu.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82181|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis, nusilpęs po ligos, iš Lydos buvo nugabentas į Vilnių, kai prie Lydos artėjo Krymo totoriai.
 - susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-89629|Aleksandras]]: Mirštantis valdovas Aleksandras dar spėjo gauti žinią apie totoriams fatališkai pasibaigusį mūšį.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-05159|Algirdas (Lietuvos valdovas)]]: Algirdas paliuosavo Rusios žemes iš totorių jungo, paliko jose ankstesnę tvarką ir išplėtė valdžią į rytus bei pietus.
@@ -524,6 +1365,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
 - susijęs iš [[objektai/asmenys/Jurgis (Danieliaus sūnus).md#claim-t-30316|Jurgis (Danieliaus sūnus)]]: Maskvos kunigaikštis Jurgis, Danieliaus sūnus, 1325 m. žuvo totorių ordoje.
 - susijęs iš [[objektai/asmenys/Kiprijonas.md#claim-t-63829|Kiprijonas]]: Kijevo metropolitas Kiprijonas buvo raginamas kviesti tikinčiuosius į karą prieš totorius.
 - susijęs iš [[objektai/asmenys/Konstantinas (Karijotaitis).md#claim-t-29032|Konstantinas (Karijotaitis)]]: Konstantinas Karijotaitis palaikė Lietuvos ir Lenkijos sąjungą, nes jam rūpėjo apsaugoti Podolę nuo totorių.
+- susijęs iš [[objektai/asmenys/Ksaveras Bogušas.md#claim-t-190916|Ksaveras Bogušas]]: Teodoro Narbuto teigimu, Ksaveras Bogušas lygino Belgorodo totorių herulišką dialektą su latviams artimu dialektu.
 - susijęs iš [[objektai/asmenys/Kutlubuga.md#claim-t-40301|Kutlubuga]]: Kutlubuga buvo vienas iš trijų Juodosios jūros pajūrio ir Krymo totorių teritorijos vadų-kunigaikščių.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-184768|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis rengė didesnį žygį prieš Prūsiją ir telkė Lietuvos, Žemaitijos, Rusios bei totorių pajėgas.
 - susijęs iš [[objektai/asmenys/Levas (Haličo kunigaikštis).md#claim-t-40306|Levas (Haličo kunigaikštis)]]: Haličo kunigaikštis Levas su totoriais paėmė Naugarduko papilį, bet pati Naugarduko pilis nebuvo paimta.
@@ -533,6 +1375,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
 - susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-82624|Mykolas Glinskis]]: Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidelį totorių padalinį.
 - susijęs iš [[objektai/asmenys/Olegas (Romano sūnus).md#claim-t-40378|Olegas (Romano sūnus)]]: Olegas, Briansko kunigaikščio Romano sūnus, buvo priverstas dalyvauti totorių antpuolyje prieš Lietuvą.
 - susijęs iš [[objektai/asmenys/Ostapas Kropotkovas.md#claim-t-190235|Ostapas Kropotkovas]]: Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuopelnus kare su totoriais.
+- susijęs iš [[objektai/asmenys/Ostapas Kropotkovas.md#claim-t-191967|Ostapas Kropotkovas]]: Ostapui Kropotkovui, kaip nurodė Narbutas, 1354 m. rugpjūčio 7 d. Vilniuje už nuopelnus kare su totoriais duotas herbas ir Podbužo dvaras Voluinėje.
 - susijęs iš [[objektai/asmenys/Sivindukas.md#claim-t-40423|Sivindukas]]: Murza Sivindukas, kunigaikščio Madyko sūnus, vadovavo mūšyje dalyvavusiems totoriams.
 - susijęs iš [[objektai/asmenys/Tavernjė.md#claim-t-190214|Tavernjė]]: Narbutas nurodo, kad Tavernjė čerkesų ir kumanų totorių papročiuose rado tam tikrą Motinos žemės kulto panašybę.
 - susijęs iš [[objektai/asmenys/Timūr-Kutlukas.md#claim-t-40468|Timūr-Kutlukas]]: Timūr-Kutlukas vadovavo totorių pajėgoms, kuriose buvo ir Krymo emyro Edygos kariai.
@@ -546,10 +1389,13 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
 - susijęs iš [[objektai/asmenys/Zaberezinskis.md#claim-t-40543|Zaberezinskis]]: Dalis maršalkos Zaberezinskio karių išsiveržė į priekį, bet totoriai juos atmušė.
 - susijęs iš [[objektai/asmenys/Šach Achmedas.md#claim-t-87417|Šach Achmedas]]: Šach Achmedas su savo palyda klajojo palapinėse aplink Vilnių, kol karalius tvarkė totorių reikalus.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179690|Švitrigaila]]: Švitrigaila vėl pabėgo iš Lietuvos į Maskvą, vėliau pas totorius ir galiausiai pas Ordiną.
+- susijęs iš [[objektai/autoriai/Aleksandras Gvaninis.md#claim-t-190689|Aleksandras Gvaninis]]: Aleksandras Gvaninis Kerkelio, arba Bialohrodo, totorių vardą siejo su Klerkei, arba Bialohrodo, pilimi ant uolos.
 - susijęs iš [[objektai/autoriai/Aleksandro Gvanjinio.md#claim-t-78739|Aleksandro Gvanjinio]]: Aleksandro Gvanjinio knygoje „Europos Sarmatijos aprašymas“ yra iliustracija, vaizduojanti mūšį su totoriais.
 - susijęs iš [[objektai/autoriai/Aleksandro Gvanjinio.md#claim-t-78741|Aleksandro Gvanjinio]]: Aleksandro Gvanjinio knygoje „Europos Sarmatijos aprašymas“ yra iliustracija, vaizduojanti mūšį su totoriais.
 - susijęs iš [[objektai/autoriai/Detmaro Liubeko.md#claim-t-183696|Detmaro Liubeko]]: Detmaro Liubeko kronikos tęsinyje teigiama, kad lietuviai prieš totorius kariavo tris kartus, du mūšius laimėjo, o prie Vorsklos pralaimėjo.
 - susijęs iš [[objektai/autoriai/Detmaro Liubeko.md#claim-t-39865|Detmaro Liubeko]]: Detmaro Liubeko kronikos tęsinyje teigta, kad lietuviai prieš totorius kariavo tris kartus, dvejas kautynes laimėjo, o prie Vorsklos pralaimėjo.
+- susijęs iš [[objektai/autoriai/Gotthard Friedrich Stender.md#claim-t-191624|Gotthard Friedrich Stender]]: Gotthardas Friedrichas Stenderis perdavė karininko pasakojimą, kad Belgorodo totorių kalba buvo panaši į latvių ir suprantama lyviams bei kuršiams.
+- susijęs iš [[objektai/autoriai/Gotthardas Friedrichas Stenderis.md#claim-t-191539|Gotthardas Friedrichas Stenderis]]: Narbutas Stenderiui priskiria žinią, kad Belgorodo totorių kalba buvo panaši į latvių ir suprantama lyviams bei kuršiams.
 - susijęs iš [[objektai/autoriai/Lianskoronskij, V.md#claim-t-29547|Lianskoronskij, V]]: V. Lianskoronskij rašė apie Vytauto 1399 m. žygį prieš totorius ir mūšį prie Vorsklos.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172883|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis teigė, kad Algirdas prie Mėlynųjų Vandenų sumušė totorius, žygiuodamas Padniepre pro Kanevą ir Čerkasus.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172886|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis pateikė istorine tradicija grindžiamų detalių apie Algirdo pergalę prieš totorius prie Mėlynųjų Vandenų.
@@ -610,6 +1456,8 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
 - susijęs iš [[objektai/ivykiai/Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje.md#claim-t-186661|Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje]]: Lietuvos metraštis pasakoja, kad tuo metu stepėje, dvylika mylių nuo Braclavo, lietuviai sumušė kelis šimtus totorių.
 - susijęs iš [[objektai/ivykiai/Edygos vadovaujami totorių antpuoliai Kijevo ir Podolės kraštuose (1414–1416 m.).md#claim-t-34538|Edygos vadovaujami totorių antpuoliai Kijevo ir Podolės kraštuose (1414–1416 m.)]]: 1414–1416 m. Edygos vadovaujami totoriai dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriaudami Kijevą ir Lucką.
 - susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185492|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: Žeimelės mūšyje Gedimino kariuomenės priekyje stovėję totoriai puslankiu išsisklaidė ir išvengė kryžiuočių ietininkų antpuolio.
+- susijęs iš [[objektai/ivykiai/Herbo suteikimas Ostapui Kropotkovui.md#claim-t-192036|Herbo suteikimas Ostapui Kropotkovui]]: Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuopelnus kare su totoriais.
+- susijęs iš [[objektai/ivykiai/Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei poloviečių poslinkiai.md#claim-t-191014|Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei poloviečių poslinkiai]]: Narbutas nurodo, kad 1128 m. nutautėję hiriai su pečenegais persikėlė į kairįjį Dnepro krantą, vėliau buvo išstumti už Dono ir davė pradžią Belgorodo totoriams.
 - susijęs iš [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę.md#claim-t-186642|Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]: Lietuvos metraščio pasakojime maskvėnai su totoriais atėjo ir nusiaubė Viazmos žemę.
 - susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-171466|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Po mūšio lietuviai paėmė arba nukovė daugybę totorių ir paėmė daug belaisvių bei grobio.
 - susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-171467|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Klecko mūšyje kunigaikštis Mykolas su kairiuoju sparnu perėjo upę, smogė totorių pulkams ir perskėlė juos į dvi dalis.
@@ -650,6 +1498,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
 - susijęs iš [[objektai/posakiai/gerumu galima ir laukinius žvėris sušvelninti.md#claim-t-186391|gerumu galima ir laukinius žvėris sušvelninti.]]: Vytautas posakiu „gerumu galima ir laukinius žvėris sušvelninti“ aiškino savo dosnumą totoriams dalijant žemes Lietuvoje ir Rusioje.
 - susijęs iš [[objektai/posakiai/„Reikia taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją...“.md#claim-t-77854|„Reikia taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją...“]]: Vilniaus akademiją steigęs jėzuitas rašė, kad iš Vilniaus atsiveria kelias į Maskoviją, o per totorius galima pasiekti Kiniją.
 - susijęs iš [[objektai/posakiai/„Todėl ir reikia kariauti... šaltis ir totoriai.“.md#claim-t-36026|„Todėl ir reikia kariauti... šaltis ir totoriai.“]]: Vytautas prie Dniepro atrėmė, kad reikia kariauti, nes pergalė reikštų triumfą prieš šaltį ir totorius.
+- susijęs iš Aleksandras Gvaninis, Sarmacya Europejska: Narbutas, cituodamas Gvaninį, Kerkelio arba Belgorodo totorių vardą siejo su Klerkei, arba Bialohrod, pilimi ant uolos.
 - susijęs iš Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėje: Antoine’as Gramont’as rašė, kad totoriai Lietuvoje valdė laisvuosius dvarus ir sudarė lengvąją raitiją.
 - susijęs iš Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėje: Antoine’o Gramont’o 1663-1664 m. pasakojimo ištrauka aprašo totorius Lietuvos kariuomenėje.
 - susijęs iš Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėje: Antoine’o Gramont’o 1663-1664 m. pasakojimo ištrauka aprašo totorius Lietuvos kariuomenėje.
@@ -733,9 +1582,11 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
 - susijęs iš [[objektai/asmenys/Dimitras (Maskvos kunigaikštis).md#claim-t-184255|Dimitras (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Dimitras kartu su Algirdu puolė totorių galybę, kuri Vytauto laikais jau buvo nusilpusi.
 - susijęs iš [[objektai/asmenys/Dimitras (Maskvos kunigaikštis).md#claim-t-34718|Dimitras (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Dimitras puolė totorių galybę, kuri Vytauto laikais jau buvo žlugusi.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-10106|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytauto pralaimėjimas totoriams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.
+- susijęs iš [[objektai/ivykiai/Herbo suteikimas Ostapui Kropotkovui.md#claim-t-192036|Herbo suteikimas Ostapui Kropotkovui]]: Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuopelnus kare su totoriais.
 - susijęs iš [[objektai/posakiai/Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du.md#claim-t-35985|Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du]]: Prie Dniepro Vytautas atrėmė siūlymą dėl šalčių mesti kovą su totoriais, sakydamas, kad kariauti reikia prieš šaltį ir totorius.
 - susijęs iš Petrikovičiai: Lietuviai gaudė bėgančius totorius Slucko, Petrikovičių, Ovručo, Žitomiro ir Volynės keliais, juos žudė ir atiminėjo grobį.
 - susijęs iš [[objektai/asmenys/Abramas (iždininkas).md#claim-t-87605|Abramas (iždininkas)]]: Karaliaus raštu iždininkui Abramui nurodyta leisti Vilniaus vaitui į užsienį parduoti tris vaško gabalus po 50 akmenų.
+- susijęs iš [[objektai/asmenys/Albertas Vijūkas-Kojalavičius.md#claim-t-190840|Albertas Vijūkas-Kojalavičius]]: Narbutas rašo, kad Kojalavičius poloviečius laikė turinčiais lietuvių kalbą ir siejo juos su Mamajaus sugriauta Beloserkos sostine.
 - susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-97311|Aldona Gediminaitė]]: Aldona Gediminaitė, per krikštą pavadinta Ona, buvo ištekinta už Lenkijos karaliaus Kazimiero Didžiojo.
 - susijęs iš [[objektai/asmenys/Aleksandras (Mykolo sūnus).md#claim-t-184369|Aleksandras (Mykolo sūnus)]]: Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė Tverės kunigaikštį Aleksandrą (Mykolo sūnų).
 - susijęs iš [[objektai/asmenys/Aleksandras (Mykolo sūnus).md#claim-t-30193|Aleksandras (Mykolo sūnus)]]: Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė Tverės kunigaikštį Aleksandrą (Mykolo sūnų).
@@ -744,6 +1595,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
 - susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-184656|Aleksandras]]: Po Jurgio ir Teodoro pasitraukimo visa Podolė liko kunigaikščių Aleksandro ir Konstantino valdžioje.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176281|Algirdas (Lietuvos valdovas)]]: 1365 m. Algirdas su Kęstučiu, Patriku ir Aleksandru įsiveržė į Ordino valdas, jas nuniokojo ir ugnyje paaukojo vokietį belaisvį.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176289|Algirdas (Lietuvos valdovas)]]: Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas bei pats Vilnius perėjo į Algirdo rankas.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-190846|Algirdas (Lietuvos valdovas)]]: Narbutas mini Algirdo privilegijos nuorašą, kuriuo patvirtinta riteriška kilmė ir herbas su strėlių ryšuliu raudoname lauke.
 - susijęs iš [[objektai/asmenys/Almimolinas.md#claim-t-60235|Almimolinas]]: Almimolinas, saracėnų valdovas, su gausia kariuomene atvyko į Ispaniją ir paskelbė karą nukryžiuotąjį gerbiantiems žmonėms.
 - susijęs iš [[objektai/asmenys/Andrius Polockietis.md#claim-t-30207|Andrius Polockietis]]: Skirgaila, sėkmingai apgulęs Polocką, paėmė Andrių Polockietį į nelaisvę ir išsiuntė į Lenkiją.
 - susijęs iš [[objektai/asmenys/Chadži Girėjus.md#claim-t-87642|Chadži Girėjus]]: 1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu.
@@ -784,6 +1636,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
 - susijęs iš [[objektai/asmenys/M. P. Sapiega.md#claim-t-40317|M. P. Sapiega]]: LDK arklidininkas M. P. Sapiega, gavęs Višnioveckių saugumo garantijas, pasidavė respublikonams su likusia kariuomene.
 - susijęs iš [[objektai/asmenys/M. Vaina.md#claim-t-39781|M. Vaina]]: Breslaujos seniūnas M. Vaina buvo nužudytas kartu su M. P. Sapiega ir rotmistru Kurovičiumi.
 - susijęs iš [[objektai/asmenys/Machmetas.md#claim-t-96029|Machmetas]]: 1424 m. Aukso Ordos chanu tapo Vytauto palaikomas Machmetas.
+- susijęs iš [[objektai/asmenys/Mamajus.md#claim-t-191441|Mamajus]]: Kojelavičiaus nurodytoje istorijoje totorių vadas Mamajus XIV a. viduryje puldinėjo ir sugriovė poloviečių-lietuvių sostinę Beloserką.
 - susijęs iš [[objektai/asmenys/Mamšėjus.md#claim-t-40326|Mamšėjus]]: 1279 m. pradžioje Mamšėjus vadovavo Nogajaus pasiųstai kariuomenei prieš Traidenio Lietuvą.
 - susijęs iš [[objektai/asmenys/Marija (Gedimino duktė).md#claim-t-82550|Marija (Gedimino duktė)]]: Gedimino duktė Marija buvo ištekinta už Rusios kunigaikščio Boleslovo.
 - susijęs iš [[objektai/asmenys/Markvardas (Ragainės komtūras).md#claim-t-39600|Markvardas (Ragainės komtūras)]]: Ragainės komtūras Markvardas vadovavo 100 riterių kryžiuočių daliniui Vytauto kariuomenėje prie Kijevo.
@@ -833,6 +1686,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176714|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1430 m. Vytautas ketino karūnuotis Lietuvos karaliumi, dalyvaujant sušauktiems kunigaikščiams ir pasiuntiniams.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176730|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1422 m. Vytautas pasiuntė į Prahą savo sūnėną Žygimantą Kaributaitį kaip pageidaujamą valdovą.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176735|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vilniaus vyskupui Petrui atsisakius sutuokti dėl artimos giminystės, tarp jo ir Vytauto kilo karšti ginčai.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-190999|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Narbutas nurodo turėjęs Švitrigailos 1451 m. privilegijos nuorašą, kuriame pakartota 1439 m. Vytauto privilegija.
 - susijęs iš [[objektai/asmenys/Walenrodto.md#claim-t-40542|Walenrodto]]: Generolo Walenrodto brandenburgiečius, G. Valdeko įsakytus keltis atgal, užpuolė ir sumušė V. Gosievskio pajėgos.
 - susijęs iš [[objektai/asmenys/Zigmantas Kaributas.md#claim-t-176866|Zigmantas Kaributas]]: Zigmantas Kaributas vadovavo kai kurioms lenkų kariuomenės dalims per karą, kuriame buvo nuniokoti Prūsai.
 - susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-176876|Zigmantas Liuksemburgietis]]: Lucke Zigmantas Liuksemburgietis pasiūlė Jogailai karūnuoti suvažiavimo šeimininką Vytautą.
@@ -841,8 +1695,10 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179712|Švitrigaila]]: Švitrigaila buvo dvare prie Ašmenos su nedidele sargyba, kai Žygimantas slapta žygiavo į Ašmeną.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179713|Švitrigaila]]: Po dvylikos metų paliaubų tarp karaliaus ir didžiojo magistro Švitrigailos jėgos Lietuvoje apsilpo.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179726|Švitrigaila]]: Livonijos magistro ir totorių remiamas Švitrigaila vėl užėmė Ašmeną ir priartėjo prie Vilniaus per septynetą mylių.
+- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-191006|Švitrigaila]]: Švitrigailos 1451 m. vasario 18 d. Lucke datuota privilegija, Narbuto teigimu, pakartojo Vytauto privilegiją ir atnaujino Algirdo privilegiją.
 - susijęs iš [[objektai/asmenys/Žygimantas Kaributaitis.md#claim-t-114098|Žygimantas Kaributaitis]]: 1422 m. Vytautas išsiuntė savo sūnėną Žygimantą Kaributaitį į Prahą kaip čekų pageidaujamą valdovą.
 - susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173336|Žygimantas Senasis]]: Žygimantas Senasis patvirtino sąjungą su Krymu, nes naujasis LDK valdovas turėjo daug reikalų.
+- susijęs iš [[objektai/autoriai/Albertas Vijūkas-Kojalavičius.md#claim-t-190688|Albertas Vijūkas-Kojalavičius]]: Kojalavičius, Narbuto perteikimu, teigė, kad poloviečiai turėjo lietuvių kalbą, ir rėmėsi pasakojimu apie Mamajaus sugriautą Beloserką.
 - susijęs iš [[objektai/autoriai/Aleksandro Gvanjinio.md#claim-t-78740|Aleksandro Gvanjinio]]: Aleksandro Gvanjinio knygoje neįvardytas iliustracijoje vaizduojamas mūšis, bet labiausiai tikėtina, kad tai 1512 m. Lopušnos mūšis.
 - susijęs iš [[objektai/autoriai/Andrius Rudamina.md#claim-t-23224|Andrius Rudamina]]: Andrius Rudamina, Vilniaus universiteto auklėtinis, 1626–1634 m. misionieriavo Kinijoje ir rašė asketikos veikalus kinų kalba.
 - susijęs iš [[objektai/autoriai/Andrius Rudamina.md#claim-t-26708|Andrius Rudamina]]: Andrius Rudamina nunešė Jėzaus draugijos idėjas iki Kinijos, kur 1626–1634 m. misionieriavo.
@@ -1234,6 +2090,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
 - susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-171470|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: 1506 m. rugpjūčio 6 d. Lietuvos kariuomenė prie Klecko perėjo upę, išvydo totorių pulkus ir pradėjo mūšį.
 - susijęs iš [[objektai/posakiai/„Todėl ir reikia kariauti... šaltis ir totoriai.“.md#claim-t-36026|„Todėl ir reikia kariauti... šaltis ir totoriai.“]]: Vytautas prie Dniepro atrėmė, kad reikia kariauti, nes pergalė reikštų triumfą prieš šaltį ir totorius.
 - susijęs iš [[objektai/zodynas/kryžiaus karas.md#claim-t-05440|kryžiaus karas]]: 1254 m. pradžioje buvo skelbiamas kryžiaus karas ordinui ginti prieš totorius.
+- susijęs iš [[objektai/asmenys/Ostapas Kropotkovas.md#claim-t-191967|Ostapas Kropotkovas]]: Ostapui Kropotkovui, kaip nurodė Narbutas, 1354 m. rugpjūčio 7 d. Vilniuje už nuopelnus kare su totoriais duotas herbas ir Podbužo dvaras Voluinėje.
 - susijęs iš [[objektai/grupes/Armėnai.md#claim-t-88520|Armėnai]]: Totoriai kartu su armėnais ir gruzinais žygiavo į Siriją bei Palestiną ir nukovė daugiau nei 10 tūkstančių raitelių.
 - susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185492|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: Žeimelės mūšyje Gedimino kariuomenės priekyje stovėję totoriai puslankiu išsisklaidė ir išvengė kryžiuočių ietininkų antpuolio.
 - susijęs iš Vorskla: Vytauto pralaimėjimas totoriams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.
@@ -1267,8 +2124,9 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     laikais totorių valstybė kaip tik pergyveno krizį. Orda buvo
     suskilusi, atskiri „saarai“ vedė nuolatinius karus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-028
@@ -1284,8 +2142,9 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     (1414) ir krikšto reikalais Žemaitijoje (1416), negalėjo tinkamai
     totorių sudrausti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-043
@@ -1301,8 +2160,9 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     reikėjo išspręsti jau senokai pribrendusi klausimą, kas valdys
     Rusijos žemes: Vytautas ar totoriai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-023
@@ -1316,6 +2176,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     czym duchem“ (pranašingu nujautimu), kaip sako Prochaska,
     pranašavo ambicingam Vytautui didelių užsimojimų galą^2 ).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1330,8 +2191,9 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     guoles ir turtus ir tuojau metėsi krašto terioti. Pasuko Kijevo
     link, paėmė iš jo 3000 rublių kontribucijos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-051
@@ -1345,6 +2207,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     vedami seno Vorsklos nugalėtojo Edygos, 1414—1416 m. smar­
     kiai apgriovė Kijevą, Lucką ir nuniokojo jų apylinkes.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1362,6 +2225,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     sios Vytauto politikos mintys.
     Beveik visa ta programa pavyko jam įgyvendinti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1384,6 +2248,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     Ordino spaudimą plataus Lietuvos gyny-
     binio karo sąlygomis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1408,6 +2273,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     Baltijos pakrantę, suvokimas, kad jūra yra
     natūrali Lietuvos siena šiaurvakariuose.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1432,6 +2298,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     nesunkiai leistis į tolimus žygius. Taktinį
     pranašumą sąlygojo jų lengvoji kavalerija.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1451,6 +2318,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     efektą. Laiku neįspėtas kraštas tapdavo
     lengvu grobikų „eksploatacijos“ objektu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1473,6 +2341,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
 
     į LDK gilumą prasidėjo gegužės pabaigoje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1495,6 +2364,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     išpuoliams, kuriuos totoriai vykdė pasi-
     skirstę mažesniais būriais.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1519,6 +2389,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     vertus, vietos kompaktiškumas ir jiems pa-
     tiems neleido laisvai manevruoti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1559,6 +2430,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     rugpjūčio viduryje su stipriu žemaičių raitelių pulku apsupo
     Vilnių.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1595,6 +2467,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     possessionibus acquisitis vėl acquirendis, quae sustinuerunt
     ii, a quibus eas acquisiverunt, aut acquisituri sunt.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1611,6 +2484,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
        Tais metais totoriai su armėnais bei gruzinais nužygiavo į Siriją bei Palestiną ir, išviję
     sultoną, nukovė daugiau nei 10 tūkstančių raitelių (Ptol. p. 1235).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1642,6 +2516,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     73 nė Ona mirė Trakuose, o palaidota
     Ona buvo Smolensko kunigaikščio buvo Vilniuje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1664,6 +2539,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     siuntė jiems į Prahą (1422 m.) pageidaujamu valdovu kunigaikštį
     Žygimantą Kaributaitį, savo sūnėną.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1682,12 +2558,14 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
 
              23.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-045
     - t-056
+    - t-066
 
 - c-021
   santrauka: 'Mykolas Lietuvis liudijo, kad seniau totoriai garsėjo santūrumu, svetingumu ir iš kartos į kartą perduodamomis dorybėmis.'
@@ -1709,6 +2587,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     multiplici historia referta etc. nunc pri-
     M um per J. J a c.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1724,6 +2603,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
 
       1202 viešpaties metais prasidėjo totorių viešpatavimas (Ptol. loc. cit.; Mart. loc. cit.).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1757,6 +2637,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     imtų į nelaisvę totorių60, kurių palikuonys vėliau tapo labai
     bažnyčioje giedama Dei Cantate].
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1781,6 +2662,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     netoli Ukmergės užbaigė šių dviejų, Lietuvai gal vienodai
     pragaištingų konkurentų, varžybas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1800,6 +2682,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     stiprinimas ir kultūros kėlimas krašto viduje — štai vedamo­
     sios Vytauto politikos mintys.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1818,6 +2701,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     galybę kitų, kuriuos ten stengė užtikti, o tas šalis pavertė dykromis, todėl daug žmonių
     vieno kalno dulkėmis maitinosi nelyginant miltais (Mart. p. 399).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1836,6 +2720,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     rį, kurį vadina dromedaru. Lai Dievas Jūsų Prakilnybei duoda
     stiprybės ir sveikatos ilgiems metams.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1870,6 +2755,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     menis arba turi menkus žemės plo­
     telius, po tėvų mirties paveldėtus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1888,6 +2774,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     suartėti su totoriais — mongolais  ir aprašomi pastarųjų žygiai prieš Siriją bei kitas
     musulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1907,6 +2794,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     Būtent iš LDK karaimų bendruomenės iškilo žymiausias, tolerancijos
     tyrėjų dažnai minimas Isaakas ben Abrahamas iš Trakų (1525–1586).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1924,6 +2812,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     kurie tapo artimosios sargybos tautomis. Nepasitikėta ir savųjų įgūdžiais,
     todėl valdovai kvietė pirklius ir amatininkus iš svetur.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1942,6 +2831,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     jam pabėgėlį Tochtamyšą, tai Vytautas atsisakė. Po to, karas su
     totoriais pasidarė jau nebeišvengiamas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1959,6 +2849,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     mas vis naujus rusų kraštus, dar labiau prisiartino prie totorių
     sienų, kas jiems negalėjo patikti, ir vedė prie karo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1978,6 +2869,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
 
                     126.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1993,6 +2885,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     Įsakmiai tačiau žinoma, kad totoriai, sąjungoje su Volinijos Levu,
     1279 m. apiplėšė Lietuvą^256.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2029,6 +2922,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     pavadinimuose: Totoriškės, Totorių
     kapinės ir 1.1.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2052,6 +2946,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     turėdama totorių musulmonų, kurių iki tol Lenkijoje nebuvo). LDK, tu-
     rinti dešimt skirtingų konfesijų, XVI a.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2074,6 +2969,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     įžūliai griovė, žemai lenkėsi prieš galingojo Kazimiero sos­
     tą38.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2096,6 +2992,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     nebaudžiamiems plėšti LDK žemes xv a.
     pabaigoje - xvi a. pradžioje. Tiesa, dar
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2112,6 +3009,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     Traidenio laikais Lietuva vėl atgavo savo ankstybesnį svorį,
     kuris buvo sumažėjęs tuoj po Mindaugo mirties.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2131,6 +3029,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     skiria iš Vidurio Rytų Europos regiono daugiakonfesiškumo legitimavi-
     mo ar juridinio įforminimo sparta.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2153,6 +3052,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     pametę grobį, kuriam „surinkti“ prireikė ke-
     leto mėnesių darbo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2171,6 +3071,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     karuose sklido paskviliai apie „netikrą“ Jogailos ir Vytauto pergalę, nes
     jie nugalėjo pasitelkę pagonis, totorius musulmonus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2194,6 +3095,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     Kęstutis kurį laiką laviravo santykiuose su
     Lenkija ir totoriais.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2218,6 +3120,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     vo kariaunas, pasitiko juos Kaidanove l0 , prie savo sie­
     nos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2239,6 +3142,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     jo Lucko ir, pridarę daug pikto, atsitraukė į savo
     žemę.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2270,6 +3174,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     mūšį, negalėjo surasti, nes lygių ir didelių laukų buvo
     tik prie vokiečių miesto Dubrovnos*.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2291,6 +3196,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     kalno išvydo stovinčius už upės totorių pulkus, pasi­
     rengusius mūšiui.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2315,11 +3221,1171 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     tik kautis nebegalėjo, bet ir akių bei rankų nebedrįso
     prieš Lietuvos kariuomenę pakelti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-061
+
+- c-050
+  santrauka: 'Narbutas rašo, kad totorių puldinėjimai tuo metu palietė Lenkiją ir Polesę nuo Bugo.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Ypatingoji šitą vie­
+    nuolių durna visuomet diegė panieką kunigaikščiams ir
+    ponams, kurie nepriklausė vokiečių tautai, todėl jų kai­
+    mynai niekada nebuvo ištikimi bičiuliai. Šiuo laiku vėl
+    ima puldinėti totoriai; tai palietė Lenkiją ir ¡gal Polesę
+    nuo Bugo, be to, didėjanti Lietuvos galybė, žemaičių re­
+    miamų prūsų maištingumas, neramumai Kurše ir prie
+    Uždauguvės Latvijos, stebinantis žemaičių vadų karin­
+    gumas, pagaliau Vokietijoje didėjęs nepalankumas kry­
+    žiaus karams vertė susimąstyti apie ateitį kryžiuočių, ku­
+    riuos Prūsijoje valdyti pradėjo Hartnumdas Grumbachas.
+    1 Iš Foigto tyrinėjimų (Gesch.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-062
+
+- c-051
+  santrauka: 'Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus totoriams, prekyba su pietiniais kraštais visai nutrūko.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Per
+    ją ėjo prekyba su visais Lietuvai priklausiusiais ir dar nepriklau-
+    siusiais Dauguvos ir Dniepro upyno miestais. Per ją ėjo vienin-
+    telis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus totoriams,
+    prekyba su pietiniais kraštais visai nutrūko. Dabar, padarius
+    sąjungą su Rygos miestu, kelias Lietuvos prekybai buvo atviras.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-063
+
+- c-052
+  santrauka: 'Totorių pavergta Rusija buvo suskilusi į daugybę kunigaikštysčių, todėl nesunku buvo jas paimti į savo valdžią.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Rusijos žemės tada buvo labai palaidos.
+    Totorių pavergta Rusija buvo suskilusi į daugybę kunigaikštys-
+    čių, todėl nesunku buvo jas paimti į savo valdžią. Užtat
+    Lietuvos kunigaikščiai taip toli nužygiuodavo į Rusijos gilumą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-064
+
+- c-053
+  santrauka: 'Tuo pačiu metu stepėje, dvylika mylių nuo Braclavo, lietuviai sumušė kelis šimtus totorių.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    154
+
+    ## Puslapis 150
+
+    Didysis kunigaikštis Aleksandras išstovėjo Braclave
+    nemaža laiko ir atstatė Braclavo miestą; visi žmonės,
+    kurie iš Braclavo buvo išvaryti i Moldaviją, sugrįžo
+    į Braciavą. Tuo pačiu metu stepėje, dvylika mylių nuo
+    Braclavo, lietuviai sumušė kelis šimtus totorių. O pas­
+    kui didysis kunigaikštis Aleksandras sugrįžo į Lietu­
+    vą 3 9 .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-065
+
+## Citatos
+
+- id: c-14992
+  citata_originali: |
+    Rytų Europos pietuose Vytauto laikais turėjo didelę galybę
+    totoriai, kurie kadaise buvo užkariavę veik visus didžiulius ru­
+    sų gyvenamus plotus ir pasidarę jų suverenais. Daugelis rusų
+    kunigaikščių tebemokėjo jiems duoklę dar ir Vytauto laikais.
+    Bet kadaise Europą drebėti vertusi jų galybė jau buvo žuvusi,
+    puolama Algirdo ir Maskvos kunigaikščio Dimitro. Vytauto
+    laikais totorių valstybė kaip tik pergyveno krizį. Orda buvo
+    suskilusi, atskiri „saarai“ vedė nuolatinius karus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171422
+
+- id: c-21433
+  citata_originali: |
+    Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­
+    jant Vorsklos nugalėtojui Edygai, 1414—1416 m. laikotarpyje
+    dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriauda­
+    mi patį Kijevą ir Lucką. Cemblakas iš savo sostinės turėjo per­
+    sikelti į Vilnių, o Vytautas, užimtas tada karu su Vok. Ordinu
+    (1414) ir krikšto reikalais Žemaitijoje (1416), negalėjo tinkamai
+    totorių sudrausti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171437
+
+- id: c-36948
+  citata_originali: |
+    Taip Algirdas, pasinaudojęs chanų
+    vaidais, atėmė iš jų Kijevą ir Podoliją. Vytautas irgi, užimda­
+    mas vis naujus rusų kraštus, dar labiau prisiartino prie totorių
+    sienų, kas jiems negalėjo patikti, ir vedė prie karo. Dabar ir
+    reikėjo išspręsti jau senokai pribrendusi klausimą, kas valdys
+    Rusijos žemes: Vytautas ar totoriai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171416
+
+- id: c-36949
+  citata_originali: |
+    Kai Timur-Kotlogas, Kipčako chanas, pareikalavo išduoti
+    jam pabėgėlį Tochtamyšą, tai Vytautas atsisakė. Po to, karas su
+    totoriais pasidarė jau nebeišvengiamas. Jadvyga savo „wiesz­
+    czym duchem“ (pranašingu nujautimu), kaip sako Prochaska,
+    pranašavo ambicingam Vytautui didelių užsimojimų galą^2 ).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171431
+
+- id: c-36950
+  citata_originali: |
+    Totoriai, užvaldę lietuvių stovyklą, paėmė visas jų gur­
+    guoles ir turtus ir tuojau metėsi krašto terioti. Pasuko Kijevo
+    link, paėmė iš jo 3000 rublių kontribucijos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171445
+
+- id: c-36951
+  citata_originali: |
+    Visi šie rūpesčiai reikalavo
+    taikos, o jos nebuvo matyti. Be Vok. Ordino trukdė dar
+    taikų Vytauto darbą totoriai, Livonijos Ordinas ir k. Totoriai,
+    vedami seno Vorsklos nugalėtojo Edygos, 1414—1416 m. smar­
+    kiai apgriovė Kijevą, Lucką ir nuniokojo jų apylinkes.
+  citata_rodoma: "Be Vok. Ordino trukdė dar\ntaikų Vytauto darbą totoriai, Livonijos Ordinas ir k. Totoriai,\nvedami seno Vorsklos nugalėtojo Edygos, 1414—1416 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171396
+    - t-171404
+    - t-171412
+
+- id: c-36953
+  citata_originali: |
+    Geri santykiai su Jogaila ir lenkais, kova su Or­
+    dinu ir rytuose su rusų kun. ir totoriais, kunigaikščio valdžios
+    stiprinimas ir kultūros kėlimas krašto viduje — štai vedamo­
+    sios Vytauto politikos mintys.
+    Beveik visa ta programa pavyko jam įgyvendinti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171438
+
+- id: c-42951
+  citata_originali: |
+    Lietuva tuo metu turėjo keturis pagrin-
+    dinius priešus: Prūsijos-Livonijos vokie-
+    čių ordiną, Maskvą, totorius ir Lenkiją.
+    Silpnindami priešišką spaudimą vienuose
+    frontuose, Lietuvos valdovai Algirdas ir
+    Kęstutis kurį laiką laviravo santykiuose su
+    Lenkija ir totoriais.
+
+    Taigi Strėvos mūšis, kad ir patyrus nuos-
+    tolių, įnešė savo indėlį atremiant galingą
+    Ordino spaudimą plataus Lietuvos gyny-
+    binio karo sąlygomis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171436
+
+- id: c-42952
+  citata_originali: |
+    Taigi, Lietuva siekė atgauti
+    Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą,
+    Latgalą, visą Baltijos pajūrį tarp Priegliaus
+    ir Dauguvos. Taip pat buvo pasiūlyta iškelti
+    kryžiuočius į rytų stepes ginti Europos
+    šalių nuo totorių. Šiuose Algirdo reikala-
+    vimuose atsispindi suvokimas, kad žemės,
+    kuriose gyvena vokiečių nukariauti baltai,
+
+    turi priklausyti vienintelei valstybingumą
+    sukūrusiai baltų tautai - lietuviams, ir
+    teisėtas siekis atremti Lietuvos valstybę į
+    Baltijos pakrantę, suvokimas, kad jūra yra
+    natūrali Lietuvos siena šiaurvakariuose.
+  citata_rodoma: "Taip pat buvo pasiūlyta iškelti\nkryžiuočius į rytų stepes ginti Europos\nšalių nuo totorių. Šiuose Algirdo reikala-\nvimuose atsispindi suvokimas, kad žemės,\nkuriose gyvena vokiečių nukariauti baltai,\n\nturi priklausyti vienintelei valstybingumą\nsukūrusiai baltų tautai - lietuviams, ir\nteisėtas siekis atremti Lietuvos valstybę į\nBaltijos pakrantę, suvokimas, kad jūra yra\nnatūrali Lietuvos siena šiaurvakariuose."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171409
+    - t-171426
+
+- id: c-42953
+  citata_originali: |
+    Totorių kariuomenė
+
+    Strateginį privalumą totoriams laidavo jų
+    pagrindinės buveinės - Krymo pusiasalio
+    nuošalumas nuo stiprių galios centrų, tokių
+    kaip Lenkija, Lietuva ar Maskvos valstybė.
+    Nuo sėsliai gyvenančių visuomenių atskirti
+    plačių stepių ir turėdami „gerai užrakina-
+    mus Krymo vartus“ - įtvirtintą Perekopo
+    sąsmauką - totoriai turėjo sunkiai pasie-
+    kiamą lizdą, iš kurio, savo ruožtu, galėdavo
+    nesunkiai leistis į tolimus žygius. Taktinį
+    pranašumą sąlygojo jų lengvoji kavalerija.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171420
+
+- id: c-42954
+  citata_originali: |
+    Kiekvienas raitelis su savimi vesdavosi po
+    tris atsarginius žirgus, kuriuos keičiant
+    totorių raiteliai galėdavo judėti taip spar-
+    čiai, jog anaiptol ne visada žinia apie toto-
+    rių reidą galėdavo užbėgti jiems už akių.
+    Totoriams tai leisdavo pasiekti netikėtumo
+    efektą. Laiku neįspėtas kraštas tapdavo
+    lengvu grobikų „eksploatacijos“ objektu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171413
+
+- id: c-42956
+  citata_originali: |
+    Totorių įsiveržimas
+
+    1506 m. vasarą totoriai įsiveržė į LDK valdas
+    gerai nusiteikę. Prieš metus įvykęs jų žygis
+    leido jiems „smagintis“ Vilniaus ir Polocko,
+    Vitebsko ir Drucko, Naugarduko ir Slucko
+    apylinkėse - tikrajame LDK branduolyje,
+    tankiausiai apgyventame ir turtingiausiame
+    krašte. Totoriai neturėjo pagrindo įtarti, kad
+    sėkmė nuo jų šį kartą nusisuks. Pats žygis
+
+    į LDK gilumą prasidėjo gegužės pabaigoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171440
+
+- id: c-42958
+  citata_originali: |
+    Ties Lojevu jie
+    persikėlė į dešinįjį Dniepro krantą ir pa-
+    spartinę žygio tempą pasileido tiesiai va-
+    karų kryptimi Mozyriaus ir Slucko link.
+    Galiausiai apie liepos 20-22 d. jie sustojo.
+    Vietą savo stovyklavietei jie pasirinko prie
+    Klecko miesto, kuris dar 1503 m. buvo jų
+    sunaikintas ir nekėlė pavojaus, o stovėda-
+    mas ant kelių, vedančių į Pinską, Vilnių,
+    Nesvyžių ir Slucką, buvo itin geras punktas
+    išpuoliams, kuriuos totoriai vykdė pasi-
+    skirstę mažesniais būriais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171401
+
+- id: c-42960
+  citata_originali: |
+    Artėdama
+    Klecko link nuo Pinsko pusės LDK kariuo-
+    menė išėjo ant aukštumos, nuo kurios
+
+    buvo matyti Kleckas ir jo kaimynystėje tarp
+    Lanios ir Cepros upių išsirikiavusi totorių
+
+    kariuomenė. Totoriai buvo neblogai įsi-
+    tvirtinę: Lanios upės krantai buvo pelkėti,
+    jiems už nugaros plytėjo 200 m pločio ir
+    10 m gylio griova. Apsupti totorius tokioje
+    pozicijoje būtų buvę labai sudėtinga, antra
+    vertus, vietos kompaktiškumas ir jiems pa-
+    tiems neleido laisvai manevruoti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171403
+
+- id: c-155948
+  citata_originali: |
+    Tasai Andrius, Jogailai pavaldaus
+    Polocko kunigaikštis, Algirdo sū­
+    nus, gimęs iš antros jo santuokos su
+    Julijona, Vitebsko kunigaikštyte, ta­
+    čiau nebuvo palankus Jogailai, vei­
+    kiau linkęs į Kęstučio pusę; tad Jo­
+    gaila nusprendė jį išvyti iš jo dalinės
+    valdos. Dėl to sudarė slaptą, be
+    Kęstučio žinios, sutartį su Livoni­
+    jos magistru, kad anas padėtų jam
+    vykdyti tuos kėslus. Tuo metu, kai
+    Andrius, nuolatinis Dmitrijaus Do­
+    niškio bendražygis, karo rūpesčiais
+    dalinęsis, kovojęs su juo dar kartu
+    prieš totorius, kur Kulikovo lauke
+    (1380 metų rugsėjo 8-ą) prie perga­
+    lės daugiausia prisidėjęs, dalyvavo
+    mūšiuose, - Skirgaila užsibuvo Po-
+    34
+
+    ## Puslapis 51
+
+    I  KNYGA
+    Galiausiai Kęstutis, perpratęs slaptas Jogailos užmačias, pa­
+    siryžo užbėgti jam už akių ir žinodamas, jog šis visas savo
+    ginkluotąsias pajėgas yra išsiuntęs iš Vilniaus į Polocką, kad
+    ten vėl įkurdintų polockiečių išvytą Skirgailą, staiga 1381 metų
+    rugpjūčio viduryje su stipriu žemaičių raitelių pulku apsupo
+    Vilnių.
+  citata_rodoma: "Dėl to sudarė slaptą, be \nKęstučio žinios, sutartį su Livoni­\njos magistru, kad anas padėtų jam \nvykdyti tuos kėslus. Tuo metu, kai \nAndrius, nuolatinis Dmitrijaus Do­\nniškio bendražygis, karo rūpesčiais \ndalinęsis, kovojęs su juo dar kartu \nprieš totorius, kur Kulikovo lauke \n(1380 metų rugsėjo 8-ą) prie perga­\nlės daugiausia prisidėjęs, dalyvavo \nmūšiuose, - Skirgaila užsibuvo Po-\n34\n\n## Puslapis 51\n\nI  KNYGA\nGaliausiai Kęstutis, perpratęs slaptas Jogailos užmačias, pa­\nsiryžo užbėgti jam už akių ir žinodamas, jog šis visas savo \nginkluotąsias pajėgas yra išsiuntęs iš Vilniaus į Polocką, kad \nten vėl įkurdintų polockiečių išvytą Skirgailą, staiga 1381 metų \nrugpjūčio viduryje su stipriu žemaičių raitelių pulku apsupo \nVilnių."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171393
+    - t-171429
+
+- id: c-155949
+  citata_originali: |
+    Tarė­
+    jų nesutarimo atveju pasiliekame aukščiausiąjį sprendimą
+    mums patiems, kadangi turime aukščiausią abiejų luomų
+    sienų tyrimo valdžią.
+    Be to, tuo pačiu raštu skelbiame, kad mums buvo pra­
+    nešta, jog dėl šioje Didžiojoje Kunigaikštystėje mūsų valdo­
+    se gyvenančių rusų ir totorių dvasiškiai patyrė didelę netei­
+    sybę, mat rusai ir totoriai, jei ar iš mūsų, ar iš mūsų tikėjimo
+    žmonių kokiu nors būdu yra įsigiję nuosavybę, atsisako mo­
+    kėti dešimtinę, pelno mokestį ir kitas duokles, kurios mūsų
+    ir kitų mūsų tikėjimo žmonių dvasininkams buvo mokamos,
+    ir jei į svetimą dominiją nepersikeltų, mokėtų. Mes norime,
+    kad, kokio tikėjimo jie būtų - lietuviai, rusai, maskvėnai ar
+    totoriai - visi žmonės, kurie iš mūsų ar mūsų tikėjimą išpa­
+    žįstančių valdinių cesijos ar decesijos būdu, sudarydami
+    kontraktą ar kokią nors sutartį, įsigyja dominijos nuosavybę,
+    401
+
+    ## Puslapis 418
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    nostram profitentibus acquirunt, eadem onera sustineant, in
+    possessionibus acquisitis vėl acquirendis, quae sustinuerunt
+    ii, a quibus eas acquisiverunt, aut acquisituri sunt.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171398
+    - t-171419
+
+- id: c-155951
+  citata_originali: |
+    108. Apie tai, kaip totoriai nukovė 10 tūkstančių saracėnų raitelių
+
+       Tais metais totoriai su armėnais bei gruzinais nužygiavo į Siriją bei Palestiną ir, išviję
+    sultoną, nukovė daugiau nei 10 tūkstančių raitelių (Ptol. p. 1235).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171441
+
+- id: c-155952
+  citata_originali: |
+    Tačiau Vilniaus vyskupas Petras tam
+    prieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­
+    nystės, tad tarp jo ir Vytauto kilo karšti ginčai, kad kokios,
+    būtų ir prie didesnių dalykų priėję, jeigu ne Kujavų vyskupas
+    Janas Kropidła iš Jogailos svitos, kurį Vytautui pavyko įkalbė­
+    ti, ir kuris palaimino tą santuoką.
+    Vytautas, savo viešpatavimo laikais laimėjęs daug mūšių
+    su Kipčiako didžiosios ordos totoriais ir kitais, mažesniaisiais,
+    klajojusiais už Dniepro bei Volgos, įveikė juos, taigi, vienval­
+    dyste naudodamasis, skirdavo ir savo sostinėje ne kartą yra
+    skelbęs chanu arba caru kokį nors totorių kunigaikštį, kurių
+    daugelis dažnai buvodavo jo rūmuose. Tokios iškilmės Vy­
+    tauto laikais pirmą kartą (1419 m.) buvo surengtos Vilniaus
+    pilyje, kai po Tochtamišo sūnaus sultono Saladino, ištikimo Lie­
+    tuvos sąjungininkomirties, jo įpėdinis Kerimberdėjus nenorėjo
+    paklusti Lietuvos valdovui, ir Vytautas didžiosios ordos chanu
+    paskelbė Tochtamišo giminaitį Betsabutą74, viešai uždedamas
+    jam kunigaikščio kepurę, apsiausdamas brangiu purpuriniu,
+    73 nė Ona mirė Trakuose, o palaidota
+    Ona buvo Smolensko kunigaikščio buvo Vilniuje.
+  citata_rodoma: "Tačiau Vilniaus vyskupas Petras tam \nprieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­\nnystės, tad tarp jo ir Vytauto kilo karšti ginčai, kad kokios, \nbūtų ir prie didesnių dalykų priėję, jeigu ne Kujavų vyskupas \nJanas Kropidła iš Jogailos svitos, kurį Vytautui pavyko įkalbė­\nti, ir kuris palaimino tą santuoką.\nVytautas, savo viešpatavimo laikais laimėjęs daug mūšių \nsu Kipčiako didžiosios ordos totoriais ir kitais, mažesniaisiais, \nklajojusiais už Dniepro bei Volgos, įveikė juos, taigi, vienval­\ndyste naudodamasis, skirdavo ir savo sostinėje ne kartą yra \nskelbęs chanu arba caru kokį nors totorių kunigaikštį, kurių \ndaugelis dažnai buvodavo jo rūmuose. Tokios iškilmės Vy­\ntauto laikais pirmą kartą (1419 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171411
+    - t-171414
+
+- id: c-155954
+  citata_originali: |
+    Vytauto
+    didžiausios šlovės ir galybės metai ir Vilniui buvo geriausios
+    kloties laikai. Tada Lietuvos sostinėje regėdavo kupranuga­
+    rius, dryžuotom gūniom apdangstytus, turtingomis dovano­
+    mis apkrautus, iš už Volgos ateinančius, kuriuos siekdamas
+    Vytauto draugystės iš Juodosios jūros pakrančių atsiųsdavo
+    totorių chanas Jedigėjus76. Valakijos kunigaikščiai jo globos sie­
+    kė (1420 m.), o čekų tautos pasiuntiniai kvietė Lietuvos mo­
+    narchą užimti jų karalių sostą, todėl Vytautas pagaliau nu­
+    siuntė jiems į Prahą (1422 m.) pageidaujamu valdovu kunigaikštį
+    Žygimantą Kaributaitį, savo sūnėną.
+  citata_rodoma: "Tada Lietuvos sostinėje regėdavo kupranuga­\nrius, dryžuotom gūniom apdangstytus, turtingomis dovano­\nmis apkrautus, iš už Volgos ateinančius, kuriuos siekdamas\nVytauto draugystės iš Juodosios jūros pakrančių atsiųsdavo\ntotorių chanas Jedigėjus76. Valakijos kunigaikščiai jo globos sie­\nkė (1420 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171400
+    - t-171430
+
+- id: c-155956
+  citata_originali: |
+    Apie Vengrijos ir Lenkijos nusiaubimą
+
+       Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol. 21,34).
+
+
+
+             23.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171439
+    - t-183905
+    - t-194371
+
+- id: c-155957
+  citata_originali: |
+    2.
+    62
+    Kaip seniau totoriai garsėjo santū­
+    rumu, svetingumu ir kitomis iš kar­
+    tų kartoms pereinančiomis dorybė­
+    mis, liudija Mykolas Lietuvis,
+    vienintelis autentiškų raštų apie sa­
+    vo tautos papročius autorius, kuris
+    bando (gal ir apsirinka) totorius ver­
+    tesniais už savo tėvynainius esant
+    pripažinti. Žr. retą jo kūrinėlį: Mi­
+    kalonis Lituani, de M oribus Tartarorum,
+    Lituanorum et M oschorum, Fragmina X,
+    multiplici historia referta etc. nunc pri-
+    M um per J. J a c.
+  citata_rodoma: "2.\n62\nKaip seniau totoriai garsėjo santū­\nrumu, svetingumu ir kitomis iš kar­\ntų kartoms pereinančiomis dorybė­\nmis, liudija Mykolas Lietuvis, \nvienintelis autentiškų raštų apie sa­\nvo tautos papročius autorius, kuris \nbando (gal ir apsirinka) totorius ver­\ntesniais už savo tėvynainius esant \npripažinti. Žr."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171423
+    - t-171446
+
+- id: c-155958
+  citata_originali: |
+    Apie totorių viešpatavimo pradžią
+
+      1202 viešpaties metais prasidėjo totorių viešpatavimas (Ptol. loc. cit.; Mart. loc. cit.).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171408
+
+- id: c-155960
+  citata_originali: |
+    Dalyvaujant garbingiems
+    ir narsiems vyrams Mingailai, Goš­
+    tautui; Vilniaus vaivadai Manvydui
+    bei mūsų dvaro maršalkoms Čupur-
+    vai ir Milonui bei daugeliui kitų, ver­
+    tų pasitikėjimo].
+    59
+    Vilniaus kapitulos archy­
+    vas, pažymėta data: in Lida die Do­
+    minico, quo in Ecclesia Dei, Cantate de­
+    cantatur [Lydoje, sekmadienį, kai
+    1 4 1
+
+    ## Puslapis 158
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    geradarybė, didinant mieste gyvenančių dvasininkų turtus,
+    nemažai prisidėta ir prie kitų miestiečių gerovės. Tuo me­
+    tu Vilnius daug laimėjo per gyventojų pagausėjimą, mat
+    tiek pačiame mieste, tiek jo apylinkėse įsikūrė nemaža pa­
+    imtų į nelaisvę totorių60, kurių palikuonys vėliau tapo labai
+    bažnyčioje giedama Dei Cantate].
+  citata_rodoma: "59\nVilniaus kapitulos archy­\nvas, pažymėta data: in Lida die Do­\nminico, quo in Ecclesia Dei, Cantate de­\ncantatur [Lydoje, sekmadienį, kai\n1 4 1\n\n## Puslapis 158\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\ngeradarybė, didinant mieste gyvenančių dvasininkų turtus, \nnemažai prisidėta ir prie kitų miestiečių gerovės. Tuo me­\ntu Vilnius daug laimėjo per gyventojų pagausėjimą, mat \ntiek pačiame mieste, tiek jo apylinkėse įsikūrė nemaža pa­\nimtų į nelaisvę totorių60, kurių palikuonys vėliau tapo labai\nbažnyčioje giedama Dei Cantate]."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171395
+
+- id: c-155963
+  citata_originali: |
+    Kai paskelbus dvylikos metų paliaubas tarp
+    karaliaus ir didžiojo magistro karo veiksmai Karalystėje vis
+    dėlto aprimo, apsilpo ir energingojo Švitrigailos jėgos Lie­
+    tuvoje. Naudodamasis visuotine neapykanta, kurią per sa­
+    vo žiaurumą Lietuvoje buvo užsitraukęs Žygimantas, mi­
+    nėtas kunigaikštis tolydžio kėsinosi išplėšti iš jo valdžią ir į
+    šį kraštą kreipė įvairias totorių ir rusų ordas, todėl per visą
+    Žygimanto valdymo laiką Lietuva nepaliaujamai buvo nio­
+    kojama ir saviškių, ir svetimšalių. Ilgai Švitrigaila drumstė
+    šios nelaimingos žemės ramybę, kol pagaliau lemtinga Žy­
+    gimanto sūnaus kunigaikščio Mykolo, vedusio lenkų ir lie­
+    tuvių pulkus prieš Švitrigailą ir Livonijos magistrą, pergalė
+    netoli Ukmergės užbaigė šių dviejų, Lietuvai gal vienodai
+    pragaištingų konkurentų, varžybas.
+  citata_rodoma: "Naudodamasis visuotine neapykanta, kurią per sa­\nvo žiaurumą Lietuvoje buvo užsitraukęs Žygimantas, mi­\nnėtas kunigaikštis tolydžio kėsinosi išplėšti iš jo valdžią ir į\nšį kraštą kreipė įvairias totorių ir rusų ordas, todėl per visą\nŽygimanto valdymo laiką Lietuva nepaliaujamai buvo nio­\nkojama ir saviškių, ir svetimšalių. Ilgai Švitrigaila drumstė\nšios nelaimingos žemės ramybę, kol pagaliau lemtinga Žy­\ngimanto sūnaus kunigaikščio Mykolo, vedusio lenkų ir lie­\ntuvių pulkus prieš Švitrigailą ir Livonijos magistrą, pergalė\nnetoli Ukmergės užbaigė šių dviejų, Lietuvai gal vienodai\npragaištingų konkurentų, varžybas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171415
+    - t-171402
+
+- id: c-155964
+  citata_originali: |
+    Atrodo,
+    kad pamažu susikristalizuoja lyg ir pagrindiniai jo veikimo pro­
+    gramos punktai. Jie duoda jo darbams tam tikro tvirtumo,
+    pastovumo. Geri santykiai su Jogaila ir lenkais, kova su Or­
+    dinu ir rytuose su rusų kun. ir totoriais, kunigaikščio valdžios
+    stiprinimas ir kultūros kėlimas krašto viduje — štai vedamo­
+    sios Vytauto politikos mintys.
+  citata_rodoma: "Jie duoda jo darbams tam tikro tvirtumo,\npastovumo. Geri santykiai su Jogaila ir lenkais, kova su Or­\ndinu ir rytuose su rusų kun. ir totoriais, kunigaikščio valdžios\nstiprinimas ir kultūros kėlimas krašto viduje — štai vedamo­\nsios Vytauto politikos mintys."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171427
+
+- id: c-155965
+  citata_originali: |
+    27. Apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­
+                                  lio, ir Henriko, Vroclavo kunigaikščio, žūtį
+
+       Tais pačiais metais rytų šalyse gyvenusi totorių tauta įsiveržė  į Vengriją ir Lenkiją,
+    kur mūšyje nukovė Kolomaną, Vengrijos karaliaus brolį, Henriką, Lenkijos kunigaikštį, ir
+    galybę kitų, kuriuos ten stengė užtikti, o tas šalis pavertė dykromis, todėl daug žmonių
+    vieno kalno dulkėmis maitinosi nelyginant miltais (Mart. p. 399).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171407
+    - t-171439
+
+- id: c-155966
+  citata_originali: |
+    Dar iš to paties
+    pasiuntinio turiu, jog (de Vörste) Vytautas su totorių chanu už­
+    mezgė draugiškus ryšius ir sutarė dėl taikos. Totorių didysis
+    chanas atsiuntė jam labai bičiulišką laišką ir kartu didžiulį žvė­
+    rį, kurį vadina dromedaru. Lai Dievas Jūsų Prakilnybei duoda
+    stiprybės ir sveikatos ilgiems metams.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171444
+
+- id: c-155968
+  citata_originali: |
+    Jų dau­
+    gybę su visomis šeimomis į šiuos
+    kraštus turėjo būti atkėlęs šaunus
+    pergalingas karys Vytautas; be jų pa­
+    grindinės gyvenvietės prie Vokės
+    upės, be tų, kurie įsikūrė mieste ir
+    kurie apsigyveno vietovėje, vadinto­
+    je Nemėžiu, per mylią nuo Vilniaus į
+    rytus, daug jų įsikūrė pavietuose:
+    Lydos, Ašmenos ir Naugarduko ir
+    iš tiesų nėra valdos, ypač pasakyti­
+    na tai apie Vilniaus, Trakų ir Nau­
+    garduko pavietus, kur iki šiolei ne­
+    būtų išlikę totorių buveinių pėdsakų
+    pavadinimuose: Totoriškės, Totorių
+    kapinės ir 1.1. Seniau totoriai vertėsi
+    audinių ir siūlų prekyba. Dabar Lie­
+    tuvos totoriai praturtėję, iš tiesų visi
+    tarnauja kariuomenėje, specialiuose
+    raitininkų, vadinamuosiuose totorių
+    ulonų pulkuose, kiti yra tarnautojai,
+    o vargingesni dirba pas privačius as­
+    menis arba turi menkus žemės plo­
+    telius, po tėvų mirties paveldėtus.
+  citata_rodoma: "1. Seniau totoriai vertėsi \naudinių ir siūlų prekyba. Dabar Lie­\ntuvos totoriai praturtėję, iš tiesų visi\ntarnauja kariuomenėje, specialiuose \nraitininkų, vadinamuosiuose totorių \nulonų pulkuose, kiti yra tarnautojai, \no vargingesni dirba pas privačius as­\nmenis arba turi menkus žemės plo­\ntelius, po tėvų mirties paveldėtus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171434
+
+- id: c-155969
+  citata_originali: |
+    Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų
+    feodalinių riterių žygių prieš musulmoniškąjį pasaulį. Antisaracėniškos idėjos išreikštos
+    kronikos IV-ojoje dalyje. Aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą
+    (1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą  ir trumpai
+    atpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms
+    suartėti su totoriais — mongolais  ir aprašomi pastarųjų žygiai prieš Siriją bei kitas
+    musulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171424
+
+- id: c-155972
+  citata_originali: |
+    Tačiau XVII–XVIII a. bent jau Vilnius
+    prilygo, o gal net pradėjo lenkti (Vilniaus kaip „Lietuvos Jeruzalės“ idėja)
+    tokius žydų kultūros centrus kaip Krokuva, Liublinas ar Lvovas. Taigi net
+    jei žydų, o ypač armėnų, vaidmuo LDK buvo menkesnis nei Lenkijoje,
+    pastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruo-
+    menių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.
+    Būtent iš LDK karaimų bendruomenės iškilo žymiausias, tolerancijos
+    tyrėjų dažnai minimas Isaakas ben Abrahamas iš Trakų (1525–1586).
+  citata_rodoma: "Taigi net \njei žydų, o ypač armėnų, vaidmuo LDK buvo menkesnis nei Lenkijoje, \npastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruo-\nmenių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK. \nBūtent iš LDK karaimų bendruomenės iškilo žymiausias, tolerancijos \ntyrėjų dažnai minimas Isaakas ben Abrahamas iš Trakų (1525–1586)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171428
+
+- id: c-155974
+  citata_originali: |
+    Didieji kunigaikščiai, reikšdami teritorines
+    pretenzijas, suvokė baltų erdvės giminingumą, o Vytautas kalbos bendru-
+    mu grindė žemaičių priklausomybę Lietuvai. Antra vertus, kunigaikš-
+    čiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais,
+    kurie tapo artimosios sargybos tautomis. Nepasitikėta ir savųjų įgūdžiais,
+    todėl valdovai kvietė pirklius ir amatininkus iš svetur.
+  citata_rodoma: "Antra vertus, kunigaikš-\nčiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais, \nkurie tapo artimosios sargybos tautomis. Nepasitikėta ir savųjų įgūdžiais, \ntodėl valdovai kvietė pirklius ir amatininkus iš svetur."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171447
+
+- id: c-155975
+  citata_originali: |
+    Dabar visa garbė ir
+    šlovė, kurią savinosi Prūsų Ordinas, kaip kovotojas su netikin­
+    čiais, turėjo atitekti Vytautui, galvojančiam nukariauti visus
+    totorius, tarpininkaujant Tochtamyšui, pretendentui į jų sostą.
+    Kai Timur-Kotlogas, Kipčako chanas, pareikalavo išduoti
+    jam pabėgėlį Tochtamyšą, tai Vytautas atsisakė. Po to, karas su
+    totoriais pasidarė jau nebeišvengiamas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171421
+
+- id: c-155977
+  citata_originali: |
+    Bet ir totoriai,
+    įsigalėję Rusijoj, taip pat ėmė tarp savęs vaidytis, kuo nekartą
+    Lietuva pasipelnydavo. Taip Algirdas, pasinaudojęs chanų
+    vaidais, atėmė iš jų Kijevą ir Podoliją. Vytautas irgi, užimda­
+    mas vis naujus rusų kraštus, dar labiau prisiartino prie totorių
+    sienų, kas jiems negalėjo patikti, ir vedė prie karo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171418
+
+- id: c-155978
+  citata_originali: |
+    125. Apie Vengrijos žemės niokojimą ir 30 tūkstančių totorių žūtį
+
+      1326  viešpaties metais Vengrijos  karalius nukovė 30 tūkstančių  totorių,  kurių
+    kariuomenė siaubė jo karalystę.
+
+
+
+                    126.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171443
+
+- id: c-155979
+  citata_originali: |
+    Kaip in Mindaugni, Traidenini rūpesčių sudarė totoriai. Iš tu­
+    rimų šaltinių nėra tiksliai atsekama, kiek jam teko su jais susikauti.
+    Įsakmiai tačiau žinoma, kad totoriai, sąjungoje su Volinijos Levu,
+    1279 m. apiplėšė Lietuvą^256.
+  citata_rodoma: "Iš tu­\nrimų šaltinių nėra tiksliai atsekama, kiek jam teko su jais susikauti.\nĮsakmiai tačiau žinoma, kad totoriai, sąjungoje su Volinijos Levu,\n1279 m. apiplėšė Lietuvą^256."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171405
+
+- id: c-155980
+  citata_originali: |
+    Gana grėsmingai įsiliepsnojo pirmieji nesuta­
+    rimai tarp abiejų tautų (1398 m.); pati karalienė Jadvyga juos
+    bus užtraukusi: mat parašė laišką Vytautui prašydama išmo-
+    miestų, kuriuos reikėtų saugoti.]* -
+    Šitas, nepalankus lietuvių atžvilgiu
+    palyginimas su totoriais gal persū­
+    dytas, tačiau negalima būtų nugin­
+    čyti, kad totoriai, Vytauto Lietuvoje
+    įkurdinti, net iki mūsų laikų garsūs
+    nepriekaištinga dora, narsa ir prie­
+    raišumu savo naujai tėvynei. Jų dau­
+    gybę su visomis šeimomis į šiuos
+    kraštus turėjo būti atkėlęs šaunus
+    pergalingas karys Vytautas; be jų pa­
+    grindinės gyvenvietės prie Vokės
+    upės, be tų, kurie įsikūrė mieste ir
+    kurie apsigyveno vietovėje, vadinto­
+    je Nemėžiu, per mylią nuo Vilniaus į
+    rytus, daug jų įsikūrė pavietuose:
+    Lydos, Ašmenos ir Naugarduko ir
+    iš tiesų nėra valdos, ypač pasakyti­
+    na tai apie Vilniaus, Trakų ir Nau­
+    garduko pavietus, kur iki šiolei ne­
+    būtų išlikę totorių buveinių pėdsakų
+    pavadinimuose: Totoriškės, Totorių
+    kapinės ir 1.1.
+  citata_rodoma: "]* -\nŠitas, nepalankus lietuvių atžvilgiu\npalyginimas su totoriais gal persū­\ndytas, tačiau negalima būtų nugin­\nčyti, kad totoriai, Vytauto Lietuvoje\nįkurdinti, net iki mūsų laikų garsūs\nnepriekaištinga dora, narsa ir prie­\nraišumu savo naujai tėvynei. Jų dau­\ngybę su visomis šeimomis į šiuos\nkraštus turėjo būti atkėlęs šaunus\npergalingas karys Vytautas; be jų pa­\ngrindinės gyvenvietės prie Vokės\nupės, be tų, kurie įsikūrė mieste ir\nkurie apsigyveno vietovėje, vadinto­\nje Nemėžiu, per mylią nuo Vilniaus į\nrytus, daug jų įsikūrė pavietuose:\nLydos, Ašmenos ir Naugarduko ir\niš tiesų nėra valdos, ypač pasakyti­\nna tai apie Vilniaus, Trakų ir Nau­\ngarduko pavietus, kur iki šiolei ne­\nbūtų išlikę totorių buveinių pėdsakų\npavadinimuose: Totoriškės, Totorių\nkapinės ir 1."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171433
+    - t-171394
+
+- id: c-155981
+  citata_originali: |
+    LDK
+    kultūrinę įvairovę didino etninis aspektas: nors kai kurios konfesinės ir
+    etninės ribos sutapo (žydų, totorių, karaimų, iš dalies ir sentikių), dažnai
+    konfesijos apėmė įvairias etninės kilmės bendruomenes.
+
+    L I E T U V O S  I S T O R I J A
+    72
+    LDK iki unijos su Lenkija savo kultūrine ir konfesine įvairove len-
+    kė Lenkiją ir jungtinėje valstybėje šią įvairovę padidino (pavyzdžiui,
+    turėdama totorių musulmonų, kurių iki tol Lenkijoje nebuvo). LDK, tu-
+    rinti dešimt skirtingų konfesijų, XVI a.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171406
+
+- id: c-155984
+  citata_originali: |
+    Daug jų vyko
+    pačiame Vilniuje35, o vienas, 1464 metų, įsimintinas įstaty­
+    mų, veikusių iki Lietuvos Statuto, paskelbimu visai valsty­
+    bei36. Čia, Vilniuje (1443 metais), totorių pasiuntinių
+    prašymu, caras Chadži Girėjus buvo iškilmingai paskelb­
+    tas Perekopo chanu. Čia 1448 metais su Prūsijos ordinu su­
+    daryta37 garsi sutartis, o po dvidešimties metų (1468 me­
+    tais) pats didžiojo magistro pavaduotojas Henrikas Plauenas
+    toje Lietuvos sostinėje, kurios sienas jo pirmtakai kadaise
+    įžūliai griovė, žemai lenkėsi prieš galingojo Kazimiero sos­
+    tą38.
+  citata_rodoma: "Čia, Vilniuje (1443 metais), totorių pasiuntinių\nprašymu, caras Chadži Girėjus buvo iškilmingai paskelb­\ntas Perekopo chanu. Čia 1448 metais su Prūsijos ordinu su­\ndaryta37 garsi sutartis, o po dvidešimties metų (1468 me­\ntais) pats didžiojo magistro pavaduotojas Henrikas Plauenas\ntoje Lietuvos sostinėje, kurios sienas jo pirmtakai kadaise\nįžūliai griovė, žemai lenkėsi prieš galingojo Kazimiero sos­\ntą38."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171397
+
+- id: c-155985
+  citata_originali: |
+    Iš kitos pusės, nesant masinės reguliarios
+    kariuomenės, bajorų pašauktinės kariuo-
+    menės mobilizacija galėdavo užtrukti tol,
+    kol jos jau nebereikėdavo, nes po apiplė-
+    šimo totoriai stengdavosi pasitraukti kuo
+    sparčiau. Būtent šios struktūrinės-orga-
+    nizacinės Lietuvos karinės organizacijos
+    silpnosios vietos leido totoriams dažnai
+
+    nebaudžiamiems plėšti LDK žemes xv a.
+    pabaigoje - xvi a. pradžioje. Tiesa, dar
+  citata_rodoma: "Iš kitos pusės, nesant masinės reguliarios\nkariuomenės, bajorų pašauktinės kariuo-\nmenės mobilizacija galėdavo užtrukti tol,\nkol jos jau nebereikėdavo, nes po apiplė-\nšimo totoriai stengdavosi pasitraukti kuo\nsparčiau. Būtent šios struktūrinės-orga-\nnizacinės Lietuvos karinės organizacijos\nsilpnosios vietos leido totoriams dažnai\n\nnebaudžiamiems plėšti LDK žemes xv a.\npabaigoje - xvi a. pradžioje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171410
+
+- id: c-155987
+  citata_originali: |
+    Iš tu­
+    rimų šaltinių nėra tiksliai atsekama, kiek jam teko su jais susikauti.
+    Įsakmiai tačiau žinoma, kad totoriai, sąjungoje su Volinijos Levu,
+    1279 m. apiplėšė Lietuvą^256.
+    Traidenio laikais Lietuva vėl atgavo savo ankstybesnį svorį,
+    kuris buvo sumažėjęs tuoj po Mindaugo mirties.
+  citata_rodoma: "Įsakmiai tačiau žinoma, kad totoriai, sąjungoje su Volinijos Levu,\n1279 m. apiplėšė Lietuvą^256.\nTraidenio laikais Lietuva vėl atgavo savo ankstybesnį svorį,\nkuris buvo sumažėjęs tuoj po Mindaugo mirties."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171442
+
+- id: c-155989
+  citata_originali: |
+    L I E T U V O S  I S T O R I J A
+    72
+    LDK iki unijos su Lenkija savo kultūrine ir konfesine įvairove len-
+    kė Lenkiją ir jungtinėje valstybėje šią įvairovę padidino (pavyzdžiui,
+    turėdama totorių musulmonų, kurių iki tol Lenkijoje nebuvo). LDK, tu-
+    rinti dešimt skirtingų konfesijų, XVI a. šiuo požiūriu yra lyderė, palyginti
+    su margiausiomis Europos šalimis – Lenkija ir Transilvanija. LDK išsi-
+    skiria iš Vidurio Rytų Europos regiono daugiakonfesiškumo legitimavi-
+    mo ar juridinio įforminimo sparta.
+  citata_rodoma: "L I E T U V O S  I S T O R I J A\n72\nLDK iki unijos su Lenkija savo kultūrine ir konfesine įvairove len-\nkė Lenkiją ir jungtinėje valstybėje šią įvairovę padidino (pavyzdžiui, \nturėdama totorių musulmonų, kurių iki tol Lenkijoje nebuvo). LDK, tu-\nrinti dešimt skirtingų konfesijų, XVI a."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171435
+
+- id: c-155990
+  citata_originali: |
+    Dalis jų išvengė
+    žūties ir aplinkiniais keliais pasiekė Klecką.
+    Pagrindinėje stovyklavietėje buvę totoriai
+    jau tą pačią dieną - rugpjūčio ketvirtąją -
+    sužinojo apie link jų judančią Lietuvos ka-
+    riuomenę. Totoriai nusprendė laukti savo
+
+    78 KLECKO MŪŠIS 1506 m. rugpjūčio 6 d.
+
+    priešų vietoje, nes jie nebuvo nusiteikę bėgti
+    pametę grobį, kuriam „surinkti“ prireikė ke-
+    leto mėnesių darbo.
+  citata_rodoma: "Pagrindinėje stovyklavietėje buvę totoriai\njau tą pačią dieną - rugpjūčio ketvirtąją -\nsužinojo apie link jų judančią Lietuvos ka-\nriuomenę. Totoriai nusprendė laukti savo\n\n78 KLECKO MŪŠIS 1506 m. rugpjūčio 6 d.\n\npriešų vietoje, nes jie nebuvo nusiteikę bėgti\npametę grobį, kuriam „surinkti“ prireikė ke-\nleto mėnesių darbo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171425
+
+- id: c-166576
+  citata_originali: |
+    Tačiau vėliau
+    jis pretendavo tik į visą Žemaitiją iki Nemuno (vadinasi, ir Klaipėdą) bei
+    Užnemunę.
+    Taigi, net po Žalgirio mūšio pagrindinė Vytauto konflikto su Ordinu
+    priežastis – Žemaitija. Žalgirio pergalė dar nepasiekta ideologiškai – Va-
+    karuose sklido paskviliai apie „netikrą“ Jogailos ir Vytauto pergalę, nes
+    jie nugalėjo pasitelkę pagonis, totorius musulmonus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183189
+    - t-171432
+
+- id: c-167061
+  citata_originali: |
+    Visa tai liudytų, kad Kryžiuočių or-
+    dino ir Švedijos puolimai vienu metu
+    galėjo būti iš anksto suderinti.
+
+    Lietuva tuo metu turėjo keturis pagrin-
+    dinius priešus: Prūsijos-Livonijos vokie-
+    čių ordiną, Maskvą, totorius ir Lenkiją.
+    Silpnindami priešišką spaudimą vienuose
+    frontuose, Lietuvos valdovai Algirdas ir
+    Kęstutis kurį laiką laviravo santykiuose su
+    Lenkija ir totoriais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183669
+
+- id: c-170685
+  citata_originali: |
+    Didysis kunigaikštis Skirmantas nepa­
+    noro nusileisti ir tiems jo pasiuntiniams liepė nupjaus­
+    tyti nosis, lūpas, ausis ir paleisti pas chaną atgalios.
+    Ir sekančiais metais tas chanas su daugeriopomis
+    sutelktomis jėgomis bei totorių ordomis patraukė į Ru­
+    sų žemę ir padarė daug žalos Rusų žemei.
+    50
+
+    ## Puslapis 48
+
+    Didysis kunigaikštis Skirmantas, surinkęs visas sa­
+    vo kariaunas, pasitiko juos Kaidanove l0 , prie savo sie­
+    nos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187746
+
+- id: c-170686
+  citata_originali: |
+    Ilgai jie kovėsi, vos ne visą dieną 22. O  pas­
+    kui dievas padėjo totoriams, ir jie sumušė didįjį kuni­
+    gaikštį Vytautą ir visą jo kariuomenę, o pats didysis
+    kunigaikštis su nedideliu būriu pabėgo. O chanas Te-
+    mir-Kutlujus, sumušęs kunigaikštį Vytautą, atžygiavo
+    prie Kijevo ir paėmė iš miesto išpirką — tris tūkstan­
+    čius lietuviškų rublių, ir visą savo kariuomenę paleido
+    po Lietuvos žemę, ir totoriai siautėjo ligi pat Didžio­
+    jo Lucko ir, pridarę daug pikto, atsitraukė į savo
+    žemę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187747
+
+- id: c-170687
+  citata_originali: |
+    APIE JOGAILOS IR VYTAUTO KARĄ SU PROSUOS
+    VOKIEČIAIS IR APIE JŲ NUGALĖJIMĄ MOSYJE PRIE
+    DUBROVNOS
+    Sesi tūkstančiai devyni šimtai dvidešimt pirmaisiais
+    metais nuo pasaulio sutvėrimo, o nuo dievo gimimo
+    tūkstantis keturi šimtai dvyliktaisiais metais 1  prasidė­
+    jo Lenkijos karaliaus Vladislovo Jogailos ir jo brolio
+    Lietuvos kunigaikščio Vytauto karas su Prūsijos vo­
+    kiečiais.
+    Ir sutelkė abi pusės didžiulę kariuomenę: karalius
+    Jogaila su visa Lenkų karalystės jėga, o didysis kuni­
+    gaikštis Vytautas su visomis Lietuvių ir Rusų pajėgo­
+    mis ir su daugeliu Ordos totorių, o Prūsijos magistras
+    taip pat su savo pajėgomis ir su visa Vokiečių imperija.
+    Ir kai visa abiejų pusių kariuomenė jau buvo pasi­
+    ruošusi, karalius Jogaila ir didysis kunigaikštis Vytau­
+    tas išžygiavo j mūšį, vis blogais miškų keliais, o lygaus
+    ir plataus lauko, kur būtų galima sustoti ir pradėti
+    mūšį, negalėjo surasti, nes lygių ir didelių laukų buvo
+    tik prie vokiečių miesto Dubrovnos*.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187748
+
+- id: c-170689
+  citata_originali: |
+    Ir didikai, matydami, kad etmonas labai serga ir kad
+    be jo kariuomenėje nebus jokios tvarkos, nutarė ir pa­
+    vedė tą sykį etmono pareigas kunigaikščiui Mykolui
+    Glinskiui ir teikėsi būti visi jam paklusnūs.
+    Kunigaikštis Mykolas Glinskis ėmė vadovauti ka­
+    riuomenei ir patraukė į Klecką, o pirmyn išsiuntė ke­
+    letą šimtų raitelių. Ir kai prisiartino prie Klecko, priei­
+    dami iš pietų Raudonąjį tvenkinį2 1  ir Lanės upę 2 2 , nuo
+    kalno išvydo stovinčius už upės totorių pulkus, pasi­
+    rengusius mūšiui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187750
+
+- id: c-170690
+  citata_originali: |
+    Ir, sutrimitavę trimitais ir užgroję birbynėmis žen­
+    gė per upę. Dešiniojo sparno kariuomenė paskubėjusi
+    pirmoji įveikė perėją ir atsidūrė už upės. Totoriai ma­
+    tė, kad lietuviai ne visi kartu keliasi per upę, patys
+    narsiausieji iš jų tarpo puolė lietuvius ir daugelį iš to
+    dešiniojo sparno nukovė ir vos jų nesumušė. O tada
+    kunigaikštis Mykolas atskubėjo su kairiuoju sparnu ir,
+    perėjęs per upę, smogė visiems totorių pulkams ir per­
+    skėlė juos į dvi dalis. Tada atsigavo ir tie mūsų deši­
+    niojo sparno žmonės ir taip pat smogė jiems, ir iš abie­
+    jų pusių taip sumaišė totorių pulkus, kad totoriai ne­
+    tik kautis nebegalėjo, bet ir akių bei rankų nebedrįso
+    prieš Lietuvos kariuomenę pakelti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187751
+
+- id: c-175270
+  citata_originali: |
+    Ypatingoji šitą vie­
+    nuolių durna visuomet diegė panieką kunigaikščiams ir
+    ponams, kurie nepriklausė vokiečių tautai, todėl jų kai­
+    mynai niekada nebuvo ištikimi bičiuliai. Šiuo laiku vėl
+    ima puldinėti totoriai; tai palietė Lenkiją ir ¡gal Polesę
+    nuo Bugo, be to, didėjanti Lietuvos galybė, žemaičių re­
+    miamų prūsų maištingumas, neramumai Kurše ir prie
+    Uždauguvės Latvijos, stebinantis žemaičių vadų karin­
+    gumas, pagaliau Vokietijoje didėjęs nepalankumas kry­
+    žiaus karams vertė susimąstyti apie ateitį kryžiuočių, ku­
+    riuos Prūsijoje valdyti pradėjo Hartnumdas Grumbachas.
+    1 Iš Foigto tyrinėjimų (Gesch.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192476
+
+- id: c-175889
+  citata_originali: |
+    Per
+    ją ėjo prekyba su visais Lietuvai priklausiusiais ir dar nepriklau-
+    siusiais Dauguvos ir Dniepro upyno miestais. Per ją ėjo vienin-
+    telis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus totoriams,
+    prekyba su pietiniais kraštais visai nutrūko. Dabar, padarius
+    sąjungą su Rygos miestu, kelias Lietuvos prekybai buvo atviras.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193131
+
+- id: c-175890
+  citata_originali: |
+    Rusijos žemės tada buvo labai palaidos.
+    Totorių pavergta Rusija buvo suskilusi į daugybę kunigaikštys-
+    čių, todėl nesunku buvo jas paimti į savo valdžią. Užtat
+    Lietuvos kunigaikščiai taip toli nužygiuodavo į Rusijos gilumą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193132
+
+- id: c-176489
+  citata_originali: |
+    154
+
+    ## Puslapis 150
+
+    Didysis kunigaikštis Aleksandras išstovėjo Braclave
+    nemaža laiko ir atstatė Braclavo miestą; visi žmonės,
+    kurie iš Braclavo buvo išvaryti i Moldaviją, sugrįžo
+    į Braciavą. Tuo pačiu metu stepėje, dvylika mylių nuo
+    Braclavo, lietuviai sumušė kelis šimtus totorių. O pas­
+    kui didysis kunigaikštis Aleksandras sugrįžo į Lietu­
+    vą 3 9 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193845
 
 ## Ryšiai
 - Priešai: [[objektai/grupes/Kazokai]]
@@ -2337,6 +4403,6 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
 - Totoriai surengė žygį į [[objektai/vietos/Lenkija]], [[objektai/vietos/Naugardukas]], [[objektai/vietos/Palestina]], [[objektai/vietos/Polockas]], [[objektai/vietos/Sirija]], [[objektai/vietos/Sluckas]], [[objektai/vietos/Vengrija]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Vitebskas]]
 - Totoriai kariavo prieš [[objektai/asmenys/Kolomanas]]
 - Totoriai dalyvavo mūšyje [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]], [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.)]], [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]], [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]], [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)]]
-- Totoriai gyveno [[objektai/vietos/Ašmena]], [[objektai/vietos/Krymas]], [[objektai/vietos/Krymo pusiasalis]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Naugardukas]], [[objektai/vietos/Nemėžis]], [[objektai/vietos/Rusija]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]]
+- Totoriai gyveno [[objektai/vietos/Ašmena]], [[objektai/vietos/Belgorodas]], [[objektai/vietos/Krymas]], [[objektai/vietos/Krymo pusiasalis]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Naugardukas]], [[objektai/vietos/Nemėžis]], [[objektai/vietos/Rusija]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]]
 - Totoriai priklausė [[objektai/vietos/Lietuva]], [[objektai/grupes/Lietuvos jungtinės pajėgos]], [[objektai/grupes/Maskvos kariuomenė]]
 - Totoriai rėmė [[objektai/asmenys/Jonas Kalita]]

@@ -10,6 +10,18 @@ tags:
   - karas
   - paprotys
   - seimas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Atskiri Lietuvos seimai karo ir tarpuvaldžio metu
 
@@ -35,19 +47,40 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-01908"></a>
-- t-001
+- t-002
   global_id: t-01908
-  teiginys: 'XVII amžiuje, nuo Vladislovo Vazos laikų lietuviams ėmus karalius rinkti bendrai su lenkais, atskiri Lietuvos seimai ėmė nykti.'
+  teiginys: "XVII amžiuje, nuo Vladislovo Vazos laikų lietuviams ėmus karalius rinkti bendrai su lenkais, atskiri Lietuvos seimai ėmė nykti."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "555188-555566; hash=f535a6298f6008f0790dad4b179be9f6555a79753fe9fa928427c1444e2e6da2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Atskiri Lietuvos seimai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Atskiri Lietuvos seimai karo ir tarpuvaldžio metu: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Atskiri Lietuvos seimai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Atskiri Lietuvos seimai karo ir tarpuvaldžio metu\" parinktas kaip owner_note_path. Targetas \"Atskiri Lietuvos seimai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
-    - c-001
+    - c-02146
 
 <a id="claim-t-01910"></a>
-- t-002
+- t-001
   global_id: t-01910
-  teiginys: 'Karalius ne kartą, nepaisydamas unijos akto nuostatų, sušaukdavo atskirus Lietuvos seimus, ypač karo su Maskva metu.'
+  teiginys: "Karalius ne kartą, nepaisydamas unijos akto nuostatų, sušaukdavo atskirus Lietuvos seimus, ypač karo su Maskva metu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "554715-555073; hash=f08cd54326e832c9721c078f66e789d2efd85c9569ee68007e0aa300387071ba; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Atskiri Lietuvos seimai karo ir tarpuvaldžio metu: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Atskiri Lietuvos seimai karo ir tarpuvaldžio metu\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
-
+    - c-02147
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -61,6 +94,7 @@ Nenurodyta
     lovu Vaza, lietuviai ėmė rinkti karalius bendrai su lenkais, tie
     atskiri Lietuvos seimai ėmė nykti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -77,8 +111,44 @@ Nenurodyta
     Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant
     karui su Maskva (mat, jis nelietė Lenkijos).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-02146
+  citata_originali: |
+    Taip antai, po Zigmanto
+    Augusto ir po vėlesniųjų karalių mirties visada susirinkdavo
+    atskiri Lietuvos seimai ir atskirai spręsdavo, ką rinkti. Į tuo pat
+    metu lenkų šaukiamus seimus jie nevažiuodavo, derėdamiesi su
+    jais tik per delegatus. Bet XVII amžiuje, kai, pradedant Vladis-
+    lovu Vaza, lietuviai ėmė rinkti karalius bendrai su lenkais, tie
+    atskiri Lietuvos seimai ėmė nykti.
+  citata_rodoma: "Bet XVII amžiuje, kai, pradedant Vladis-\nlovu Vaza, lietuviai ėmė rinkti karalius bendrai su lenkais, tie\natskiri Lietuvos seimai ėmė nykti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-01908
+
+- id: c-02147
+  citata_originali: |
+    Tuojau po Liublino unijos abi valstybės turėjo labai daug skir-
+    tingų reikalų, kurie kartais visai neliesdavo antrosios valstybės.
+    Todėl buvo nemaža atsitikimų, kad, neatsižvelgdamas į unijos
+    akto nuostatus, net pats karalius sušaukdavo atskirus seimus.
+    Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant
+    karui su Maskva (mat, jis nelietė Lenkijos).
+  citata_rodoma: "Todėl buvo nemaža atsitikimų, kad, neatsižvelgdamas į unijos\nakto nuostatus, net pats karalius sušaukdavo atskirus seimus.\nYpač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant\nkarui su Maskva (mat, jis nelietė Lenkijos)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-01910

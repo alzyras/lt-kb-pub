@@ -5,6 +5,18 @@ saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # pasėlininkai
 
@@ -24,19 +36,24 @@ Vartojamos formos: `pasėlininkais`, `auglininkais`.
 ## Teiginiai
 
 <a id="claim-t-07696"></a>
-- t-001
+- t-004
   global_id: t-07696
-  teiginys: 'Pasėlininkai ir auglininkai, dar gyvendami prie tėvų, netoli tėvo kiemo įkūrė namus ir pataisė dirvas.'
+  teiginys: "Pasėlininkai ir auglininkai, dar gyvendami prie tėvų, netoli tėvo kiemo įkūrė namus ir pataisė dirvas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  saltinio_vieta: "278923-279314; hash=c8ada0ad46624722305a43a7d131e67c9e12fdbffb270c1c7aa344955d42cd92; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   pagrindžia:
-    - c-001
+    - c-09625
 
 <a id="claim-t-07697"></a>
-- t-002
+- t-003
   global_id: t-07697
-  teiginys: 'Pasėlininkais ir auglininkais vadinti vaikai, kurie prie tėvų kiemo įkūrė namus ir pataisė dirvas.'
+  teiginys: "Pasėlininkais ir auglininkais vadinti vaikai, kurie prie tėvų kiemo įkūrė namus ir pataisė dirvas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  saltinio_vieta: "278923-279314; hash=c8ada0ad46624722305a43a7d131e67c9e12fdbffb270c1c7aa344955d42cd92; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   pagrindžia:
-    - c-001
-
+    - c-09625
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,9 +61,24 @@ Vartojamos formos: `pasėlininkais`, `auglininkais`.
   citata_originali: |
     Viršiau minavojau, jog vaikai ilgai prie tėvų buvo ir vėlai pačią tevedė; vieni tarp jų vadinos pasėlininkais^1037 , kiti auglininkais^1038 , kurie, dar prie tėvų bebūdami, netoli nuo tėvo kiemo sau namus įkūrė ir dirvas pataisė, tai tokie kiemai, kaip strazdai po girią ištupyti aplink tėvo namus, vadinos taip pat nuo tėvo vardo Mitkaičiai, Rumšaičiai, beje: Mitkaus vaikai, Rumšos vaikai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-09625
+  citata_originali: |
+    Viršiau minavojau, jog vaikai ilgai prie tėvų buvo ir vėlai pačią tevedė; vieni tarp jų vadinos pasėlininkais^1037 , kiti auglininkais^1038 , kurie, dar prie tėvų bebūdami, netoli nuo tėvo kiemo sau namus įkūrė ir dirvas pataisė, tai tokie kiemai, kaip strazdai po girią ištupyti aplink tėvo namus, vadinos taip pat nuo tėvo vardo Mitkaičiai, Rumšaičiai, beje: Mitkaus vaikai, Rumšos vaikai.
+  citata_rodoma: "Viršiau minavojau, jog vaikai ilgai prie tėvų buvo ir vėlai pačią tevedė; vieni tarp jų vadinos pasėlininkais^1037 , kiti auglininkais^1038 , kurie, dar prie tėvų bebūdami, netoli nuo tėvo kiemo sau namus įkūrė ir dirvas pataisė, tai tokie kiemai, kaip strazdai po girią ištupyti aplink tėvo namus, vadinos taip pat nuo tėvo vardo Mitkaičiai, Rumšaičiai, beje: Mitkaus vaikai, Rumšos vaikai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-07697
+    - t-07696

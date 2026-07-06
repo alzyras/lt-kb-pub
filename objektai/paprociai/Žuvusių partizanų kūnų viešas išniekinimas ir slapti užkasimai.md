@@ -13,6 +13,18 @@ atnaujinta: ''
 tags: []
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Žuvusių partizanų kūnų viešas išniekinimas ir slapti užkasimai
 
@@ -55,12 +67,21 @@ Sovietinės represinės institucijos partizaninio judėjimo atramai slopinti nau
 ## Teiginiai
 
 <a id="claim-t-20825"></a>
-- t-001
+- t-003
   global_id: t-20825
-  teiginys: 'Represinės institucijos viešai išniekindavo žuvusių partizanų kūnus, neleisdavo jų palaidoti ir slapčia užkasdavo pelkėse ar šiukšlynuose.'
+  teiginys: "Represinės institucijos viešai išniekindavo žuvusių partizanų kūnus, neleisdavo jų palaidoti ir slapčia užkasdavo pelkėse ar šiukšlynuose."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "434241-434842; hash=d04df7b848fa242022842845b15ee700329fe2ee02562f2e75eed66683b692b6; match=exact"
+  sprendimo_priezastis: "gap::customs"
+  ryšio_patikimumas: "susije_su -> Sibiras: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žuvusių partizanų kūnų viešas išniekinimas ir slapti užkasimai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Sibiras: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žuvusių partizanų kūnų viešas išniekinimas ir slapti užkasimai\" parinktas kaip owner_note_path. Targetas \"Sibiras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-23547
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -84,8 +105,9 @@ Sovietinės represinės institucijos partizaninio judėjimo atramai slopinti nau
     miestelių aikštėse, viešai išniekindavo, neleisdavo palaidoti ir patys slap-
     čia užkasdavo pelkėse ar šiukšlynuose.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -93,3 +115,32 @@ Sovietinės represinės institucijos partizaninio judėjimo atramai slopinti nau
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
+
+## Citatos
+
+- id: c-23547
+  citata_originali: |
+    Nemažai stribų
+    buvo abejotinos moralės
+    asmenys, autoriteto jie
+    neturėjo, greitai sumota
+    būrių pavadinimą pa-
+    keisti iš „naikintojų“ į
+    „liaudies gynėjų“. Dislo-
+    kuoti visuose valsčiuo-
+    se jie saugojo sovietinį
+    aktyvą.
+    Represinės instituci-
+    jos, slopindamos parti-
+    zaninio judėjimo atramą, trėmė į Sibirą ginkluoto pasipriešinimo dalyvių
+    šeimas, rėmėjus, kankino pasipriešinimo dalyvius, naudojo psichologinę
+    prievartą, pusnuogius žuvusių partizanų lavonus išmesdavo centrinėse
+    miestelių aikštėse, viešai išniekindavo, neleisdavo palaidoti ir patys slap-
+    čia užkasdavo pelkėse ar šiukšlynuose.
+  citata_rodoma: "zaninio judėjimo atramą, trėmė į Sibirą ginkluoto pasipriešinimo dalyvių"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-20825

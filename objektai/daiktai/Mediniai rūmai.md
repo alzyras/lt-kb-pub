@@ -10,6 +10,18 @@ tags:
   - didikas
   - kunigaikštis
   - valdovas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Mediniai rūmai
 
@@ -42,9 +54,19 @@ Nenurodyta
 <a id="claim-t-87085"></a>
 - t-001
   global_id: t-87085
-  teiginys: 'Gedimino dvare gyvenę lietuvių didikai ir kunigaikščio giminės ties pilimi statydinosi medinius rūmus.'
+  teiginys: "Gedimino dvare gyvenę lietuvių didikai ir kunigaikščio giminės ties pilimi statydinosi medinius rūmus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "72813-73456; hash=7008859c6d0089dd1f4f696e73c80f815e81fdac572a61852cbb414b7b496046; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mediniai rūmai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=87"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mediniai rūmai\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-83064
 - susijęs iš [[objektai/daiktai/Žemutinės pilies sienos ir mediniai rūmai.md#claim-t-87105|Žemutinės pilies sienos ir mediniai rūmai]]: 1506 m. tikriausiai buvo pataisytos pakrypusios ir suskilusios Žemutinės pilies sienos, taip pat iškilo erdvūs mediniai rūmai.
 - susijęs iš Merkys: Mediniai rūmai ant aukšto mūrinio cokolio stovėjo ant kalvelės, puslankiu skalaujamos Merkio upės.
 ## Reikšmingi paminėjimai
@@ -66,8 +88,32 @@ Nenurodyta
     dimino dvare, statydinosi ties pilimi medinius savo rūmus,
     o aplink kurdino savo valdinius.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83064
+  citata_originali: |
+    Lietu­
+    vos valdovas įsikurdino Žemutinės pilies teritorijoje, aplink
+    įgyvendino savo dvariškius bei tarnus, žinoma, dar reikė­
+    tų pridurti ir nemažai paimtų į nelaisvę lenkų bei rusinu.
+    Žinodami gausią globą ir ypatingas privilegijas, o krikščio­
+    nys - garantuotą tikėjimo laisvę, atvyko nemažai amatinin­
+    kų iš Vokietijos - Saksonijos, Silezijos, Liubeko ir kitų Han­
+    zos miestų, ir kartu su Rusios bei Livonijos pirkliais jie
+    pasidarė turtingiausias Vilniaus gyventojų sluoksnis. Savo
+    ruožtu lietuvių didikai ir kunigaikščio giminės, gyvenę Ge­
+    dimino dvare, statydinosi ties pilimi medinius savo rūmus,
+    o aplink kurdino savo valdinius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87085

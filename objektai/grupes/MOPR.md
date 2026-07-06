@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # MOPR
 
@@ -19,10 +31,19 @@ narių svarbiausioje – Kauno LKP organizacijoje, daugumą komjaunime ir MOPR�
 <a id="claim-t-19938"></a>
 - t-001
   global_id: t-19938
-  teiginys: 'MOPR buvo iš Maskvos diriguojama tarptautinė organizacija revoliucionieriams remti, kurioje daugumą sudarė žydai.'
+  teiginys: "MOPR buvo iš Maskvos diriguojama tarptautinė organizacija revoliucionieriams remti, kurioje daugumą sudarė žydai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "340635-341461; hash=8b32ea56042d0a494f171a2751c907f5f5672c4c6a2676f48dd5529824cb61a9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "MOPR: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"MOPR\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-22668
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,8 +63,34 @@ narių svarbiausioje – Kauno LKP organizacijoje, daugumą komjaunime ir MOPR�
     (tarptautinė organizacija revoliucionieriams remti, diriguojama iš Mas-
     kvos).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-22668
+  citata_originali: |
+    Jauna ir dar niekuo neimponuojanti lietuvių
+    kultūra (literatūros klasikai Maironis, Vaižgantas, V. Krėvė-Mickevičius
+    dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli žydams, iš kitos
+    pusės, carizmo priespaudą kentusių lietuvių tautinius jausmus žeidė, kad
+    žydai tarpusavyje dažnai vartojo rusų kalbą.
+    Žydai – daugiapolė, pliuralistinė, politiškai susiskaidžiusi bendruome-
+    nė, turinti daugelį partijų ir organizacijų. Vykstant sekuliarizacijai, jauni-
+    mo modernizacijai, yrant uždaram žydų geto gyvenimui valdžia šnairavo
+    į gausėjančius žydų kairiuosius, akty­vius LKP, komunistinio pogrindžio
+    atstovus, kur žydai dominavo: jie sudarė daugiau kaip 70 proc. narių svar-
+    biausioje – Kauno LKP organizacijoje, daugumą komjaunime ir MOPR’e
+    (tarptautinė organizacija revoliucionieriams remti, diriguojama iš Mas-
+    kvos).
+  citata_rodoma: "biausioje – Kauno LKP organizacijoje, daugumą komjaunime ir MOPR’e"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-19938

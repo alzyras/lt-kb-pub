@@ -5,6 +5,18 @@ saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jaunuomenės vamzdžiavimas ir piemenėlių pypynės pavasarį
 
@@ -31,12 +43,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07769"></a>
-- t-001
+- t-002
   global_id: t-07769
-  teiginys: 'Pavasarį jaunuomenė grodavo iš karklo ar blindės padirbtais vamzdžiais, o piemenėliai, ganydami ožaičius ir ėraičius, naudodavo molio pypynes.'
+  teiginys: "Pavasarį jaunuomenė grodavo iš karklo ar blindės padirbtais vamzdžiais, o piemenėliai, ganydami ožaičius ir ėraičius, naudodavo molio pypynes."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  saltinio_vieta: "142312-142549; hash=6b85e707bd9cc998737418231e7e61dc422d0f980d745bbcefad54ad6523d2c3; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  ryšio_patikimumas: "susije_su -> Vamzdžiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jaunuomenės vamzdžiavimas ir piemenėlių pypynės pavasarį: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vamzdžiai: mention_match, thing, gap=60"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jaunuomenės vamzdžiavimas ir piemenėlių pypynės pavasarį\" parinktas kaip owner_note_path. Targetas \"Vamzdžiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-09925
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -45,8 +66,23 @@ Nenurodyta
     Taip pat vamzdžiais vamzdijo jaunuomenė, iš mauknos^559 karklų ar blendies padirbę pavasariais, lig žievei neprikepus;
         be tų vamzdžių turėjo piemenėliai molio pypynes, su kuriomis pavasarį ožaičius ir ėraičius po laukus ganydami tancino.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-09925
+  citata_originali: |
+    Taip pat vamzdžiais vamzdijo jaunuomenė, iš mauknos^559 karklų ar blendies padirbę pavasariais, lig žievei neprikepus;
+        be tų vamzdžių turėjo piemenėliai molio pypynes, su kuriomis pavasarį ožaičius ir ėraičius po laukus ganydami tancino.
+  citata_rodoma: "Taip pat vamzdžiais vamzdijo jaunuomenė, iš mauknos^559 karklų ar blendies padirbę pavasariais, lig žievei neprikepus;\nbe tų vamzdžių turėjo piemenėliai molio pypynes, su kuriomis pavasarį ožaičius ir ėraičius po laukus ganydami tancino."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-07769

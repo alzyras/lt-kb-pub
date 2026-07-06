@@ -20,6 +20,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Ambasadorių Konferencija
 
@@ -30,39 +42,99 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
 ## Teiginiai
 
 <a id="claim-t-152689"></a>
-- t-001
+- t-003
   global_id: t-152689
-  teiginys: 'Ambasadorių Konferencija apkaltino Lietuvą Tautų Sąjungai, kad ji savo elgesiu Klaipėdoje gresianti suardyti taiką ir gerus internaciolinius santykius ir pareikalavo pritaikyti pakto 11 str.'
+  teiginys: "Ambasadorių Konferencija apkaltino Lietuvą Tautų Sąjungai, kad ji savo elgesiu Klaipėdoje gresianti suardyti taiką ir gerus internaciolinius santykius ir pareikalavo pritaikyti pakto 11 str."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "1156606-1156964; hash=3453c95b2aa20885cac7f3a615591c14527b3785788091666e0ff0fa1f50043f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ambasadorių Konferencija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ambasadorių Konferencija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-139021
 
 <a id="claim-t-152690"></a>
-- t-002
+- t-004
   global_id: t-152690
-  teiginys: 'E. Galvanauskas manė, kad per Ambasadorių konferenciją Lietuva Klaipėdos negaus, todėl nusistatė kraštą užimti jėga.'
+  teiginys: "E. Galvanauskas manė, kad per Ambasadorių konferenciją Lietuva Klaipėdos negaus, todėl nusistatė kraštą užimti jėga."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "1156606-1156964; hash=3453c95b2aa20885cac7f3a615591c14527b3785788091666e0ff0fa1f50043f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ambasadorių Konferencija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=25"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ambasadorių Konferencija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-139021
 
 <a id="claim-t-152691"></a>
-- t-003
+- t-002
   global_id: t-152691
-  teiginys: '1923 m. kovo 15 d. Ambasadorių konferencija paliko Vilnių Lenkijai ir patvirtino naują Lietuvos ir Lenkijos demarkacijos liniją.'
+  teiginys: "1923 m. kovo 15 d. Ambasadorių konferencija paliko Vilnių Lenkijai ir patvirtino naują Lietuvos ir Lenkijos demarkacijos liniją."
+  semantiniai_rysiai: "Vilnius priklausė Lenkija (0.88)"
+  temporaliniai_duomenys: "įvykio data: 1921 m.; įvykio data: 1923 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir tiksliai perteikia Ambasadorių konferencijos sprendimą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "292290-292800; hash=4c8c9fcc5160326c02ec39dfb17f70520203534d15c9dcf07a6730c0af2f33f6; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lenkija: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vilnius liko Lenkijos pusėje."
   pagrindžia:
-    - c-001
+    - c-139019
 
 <a id="claim-t-152692"></a>
-- t-004
+- t-005
   global_id: t-152692
-  teiginys: '1923 m. vasario 17 d. Ambasadorių konferencija perleido suverenias Klaipėdos teises Lietuvai.'
+  teiginys: "1923 m. vasario 17 d. Ambasadorių konferencija perleido suverenias Klaipėdos teises Lietuvai."
+  temporaliniai_duomenys: "įvykio data: 1923 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako datą, veikėją ir sprendimo turinį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "307863-308367; hash=1b06e9ab469e82ff8f135faecc3bd91326d3db3efb93b0824d7f5cb12f671bad; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ambasadorių Konferencija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=62"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ambasadorių Konferencija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-139020
 
 <a id="claim-t-182883"></a>
 - t-005
   global_id: t-182883
-  teiginys: 'Ambasadorių Konferencija Klaipėdos konvencijos nuostatais siekė pralaužti Lietuvos nusistatymą Lenkijos atžvilgiu ir patenkinti Lenkijos laisvo tranzito reikalavimus.'
+  teiginys: "Ambasadorių Konferencija Klaipėdos konvencijos nuostatais siekė pralaužti Lietuvos nusistatymą Lenkijos atžvilgiu ir patenkinti Lenkijos laisvo tranzito reikalavimus."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "1156606-1156964; hash=3453c95b2aa20885cac7f3a615591c14527b3785788091666e0ff0fa1f50043f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ambasadorių Konferencija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=95"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ambasadorių Konferencija\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-166287
 - susijęs iš Ambasadorių konferencijos sprendimas dėl Vilniaus ir sienų (1923 m. kovo 15 d.): Ambasadorių konferencija patvirtino Lenkijos sieną su Rusija pagal 1921 m. Rygos taikos sutartį ir naują Lietuvos bei Lenkijos demarkacijos liniją.
 - susijęs iš Ambasadorių konferencijos sprendimas dėl Vilniaus ir sienų (1923 m. kovo 15 d.): Ambasadorių konferencija suprato Lietuvos notą kaip pageidavimą Vilnių priskirti Lenkijai ir patvirtino Lenkijos sieną su Rusija.
 - susijęs iš Ambasadorių konferencijos sprendimas dėl Vilniaus ir sienų (1923 m. kovo 15 d.): Ambasadorių konferencijos 1923 m. kovo 15 d. sprendimu istorinė Lietuvos sostinė Vilnius buvo palikta Lenkijai.
@@ -94,6 +166,7 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
     su Rusija pagal 1921 m. Rygos taikos sutartį ir naują demarkacijos liniją
     tarp Lietuvos ir Lenkijos (Vilnius liko pastarosios pusėje).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -115,6 +188,7 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
     nias Klaipėdos teises Lietuvai. Lietuviai tai laikė didžiausia savo diploma-
     tine ir karine pergale, kokia ji iš tiesų ir buvo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -133,6 +207,7 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
     A. Smetonos, be faktinės kontrolės nebus juridinės), J. Pilsudskio pavyz-
     džiu pastatyti visus į fait accompli padėtį ir tada derėtis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -151,8 +226,80 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
     ir patenkinti šiosios reikalavimus turėti laisvą tranzitą. 1923 metų
     balandžio mėnesį derybos buvo pertrauktos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
+## Citatos
+
+- id: c-139019
+  citata_originali: |
+    Ambasadorių konferencijos 1923 m. kovo 15 d. sprendimą, paliekant is-
+    torinę Lietuvos sostinę Vilnių Lenkijai, savotiškai lėmė, praleidęs progą pa-
+    tylėti… E. Galvanauskas, nota pakvietęs nustatyti Lenkijos rytines sienas.
+    Ambasadorių konferencija tai suprato kaip norėjo suprasti – neva Lietuva
+    pati pageidauja Vilniaus priskyrimo Lenkijai, tad patvirtino Lenkijos sieną
+    su Rusija pagal 1921 m. Rygos taikos sutartį ir naują demarkacijos liniją
+    tarp Lietuvos ir Lenkijos (Vilnius liko pastarosios pusėje).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-152691
+
+- id: c-139020
+  citata_originali: |
+    1923 m. sausio 17 d.
+    VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis
+    teisėmis ir paprašė Lietuvos vyriausybės karinės ir finansinės pagalbos.
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    153
+    Kilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino
+    šį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suvere-
+    nias Klaipėdos teises Lietuvai. Lietuviai tai laikė didžiausia savo diploma-
+    tine ir karine pergale, kokia ji iš tiesų ir buvo.
+  citata_rodoma: "VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis \nteisėmis ir paprašė Lietuvos vyriausybės karinės ir finansinės pagalbos.\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n153\nKilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino \nšį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suvere-\nnias Klaipėdos teises Lietuvai. Lietuviai tai laikė didžiausia savo diploma-\ntine ir karine pergale, kokia ji iš tiesų ir buvo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-152692
+
+- id: c-139021
+  citata_originali: |
+    Prancūzai skelbė, kad
+    Klaipėda gali tapti Lietuvos, bet tik susivienijusios su Lenkija, dalimi. Mat
+    ir Lenkija neslėpė savo planų įsitvirtinti Klaipėdoje. Ministras pirminin-
+    kas E. Galvanauskas, įsitikinęs, kad per Tautų Sąjungą ar Ambasadorių
+    konferenciją Lietuva Klaipėdos negaus, nusistatė užimti kraštą jėga (anot
+    A. Smetonos, be faktinės kontrolės nebus juridinės), J. Pilsudskio pavyz-
+    džiu pastatyti visus į fait accompli padėtį ir tada derėtis.
+  citata_rodoma: "VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis \nteisėmis ir paprašė Lietuvos vyriausybės karinės ir finansinės pagalbos.\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n153\nKilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino \nšį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suvere-\nnias Klaipėdos teises Lietuvai. Lietuviai tai laikė didžiausia savo diploma-\ntine ir karine pergale, kokia ji iš tiesų ir buvo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-152690
+    - t-152689
+
+- id: c-166287
+  citata_originali: |
+    **Derybos su didžiosiomis valstybėmis dėl Klaipėdos krašto
+    perėmimo** buvo labai sunkios. Salia punktų, dėl kurių buvo
+    susitarta, Ambasadorių Konferencija norėjo Klaipėdos konven-
+    cijos nuostatais pralaužti Lietuvos nusistatymą Lenkijos atžvilgiu
+    ir patenkinti šiosios reikalavimus turėti laisvą tranzitą. 1923 metų
+    balandžio mėnesį derybos buvo pertrauktos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182883

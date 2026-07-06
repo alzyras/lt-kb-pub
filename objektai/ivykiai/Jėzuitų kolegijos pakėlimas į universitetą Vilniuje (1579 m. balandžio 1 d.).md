@@ -11,6 +11,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jėzuitų kolegijos pakėlimas į universitetą Vilniuje (1579 m. balandžio 1 d.)
 
@@ -46,10 +58,19 @@ Nenurodyta
 <a id="claim-t-54451"></a>
 - t-001
   global_id: t-54451
-  teiginys: 'Balandžio 1-ąją išleisti dekretai patvirtino vyskupo Protasevičiaus funduotos jėzuitų kolegijos pakėlimą į universitetą.'
+  teiginys: "Balandžio 1-ąją išleisti dekretai patvirtino vyskupo Protasevičiaus funduotos jėzuitų kolegijos pakėlimą į universitetą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "583867-584445; hash=fcdc71ca420a1c7662228034e4a64b852318e0d7bbf1e73d6e008d4ec0ce2591; match=whitespace_regex"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  ryšio_patikimumas: "susije_su -> Valerijonas (raštininkas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jėzuitų kolegijos pakėlimas į universitetą Vilniuje (1579 m. balandžio 1 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Valerijonas (raštininkas): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jėzuitų kolegijos pakėlimas į universitetą Vilniuje (1579 m. balandžio 1 d.)\" parinktas kaip owner_note_path. Targetas \"Valerijonas (raštininkas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-55331
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -68,8 +89,32 @@ Nenurodyta
     vardu, jai mieste dovanojo tris mūrinius namus, pavedė juos
     jėzuitų priežiūrai ir globai58.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-55331
+  citata_originali: |
+    IV KNYGA
+    žvangant ginklams, nesiliaujant kariniams pasitarimams,
+    viešą pagarbą atiduoda mokslui. Vyskupo Protasevičiaus
+    funduotą ir tinkamai aprūpintą jėzuitų kolegiją karalius pa­
+    kelia iki universiteto laipsnio, tą rodo ir, nepaisant kai ku­
+    rių senatorių priešinimosi, balandžio 1-ą dieną iškilmingai
+    išleisti dekretai57. Neapsiribodamas pavyzdžio verta savo
+    labdaringa veikla, Protasevičius, be šių fundacijų, dar įstei­
+    gė neturtingiems studentams bursą, pavadintą Valerijono
+    vardu, jai mieste dovanojo tris mūrinius namus, pavedė juos
+    jėzuitų priežiūrai ir globai58.
+  citata_rodoma: "Vyskupo Protasevičiaus \nfunduotą ir tinkamai aprūpintą jėzuitų kolegiją karalius pa­\nkelia iki universiteto laipsnio, tą rodo ir, nepaisant kai ku­\nrių senatorių priešinimosi, balandžio 1-ą dieną iškilmingai \nišleisti dekretai57."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54451

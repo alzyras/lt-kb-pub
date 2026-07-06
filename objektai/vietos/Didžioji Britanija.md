@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Didžioji Britanija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
   - '1944 m.'
   - '1967 m.'
@@ -15,6 +16,18 @@ tags:
   - vieta
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Didžioji Britanija
 
@@ -25,25 +38,103 @@ Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lie
 ## Teiginiai
 
 <a id="claim-t-67798"></a>
-- t-001
+- t-003
   global_id: t-67798
-  teiginys: 'Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos tarptautinį pripažinimą Didžiojoje Britanijoje ir kitose okupacijos nepripažinusiose šalyse.'
+  teiginys: "Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos tarptautinį pripažinimą Didžiojoje Britanijoje ir kitose okupacijos nepripažinusiose šalyse."
+  temporaliniai_duomenys: "įvykio data: iki 1967 m.; įvykio data: iki 1977 m.; įvykio data: 1944 m.; įvykio data: 1967 m.; įvykio data: 1977 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir paremtas šalių sąrašu citatoje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "461827-462369; hash=9a91af1e31115a228bcef4cadf1ab1c096ed7ab2c4d5bd03e6226b2b18ecc41f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> A. Smetona: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Didžioji Britanija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Didžioji Britanija\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-67566
 
 <a id="claim-t-67799"></a>
-- t-002
+- t-001
   global_id: t-67799
-  teiginys: 'Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lietuvos užsienio prekybą.'
+  teiginys: "Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lietuvos užsienio prekybą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "374282-374657; hash=94a2e18acb50457152e8268d37154d9bdf5e82e805f8e8a275dd5c82e9775ea4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Didžioji Britanija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Didžioji Britanija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-24104
+
+<a id="claim-t-183589"></a>
+- t-004
+  global_id: t-183589
+  teiginys: "Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lietuvos užsienio prekybą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "374423-374704; hash=cf49c76a61305462f4550ebacb049a311ceb789a1e535e4e1d6863f8b83e51ca; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Didžioji Britanija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Didžioji Britanija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-166981
 
 <a id="claim-t-183590"></a>
-- t-004
+- t-005
   global_id: t-183590
-  teiginys: 'Po Antrojo pasaulinio karo dalis lietuvių tremtinių ir pabėgėlių pasuko į Didžiąją Britaniją, Kanadą ir Australiją.'
+  teiginys: "Po Antrojo pasaulinio karo dalis lietuvių tremtinių ir pabėgėlių pasuko į Didžiąją Britaniją, Kanadą ir Australiją."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "461259-461507; hash=9705a1cb7cc327e358f9e72dc14ee328826502d28689d6b75f46a9fa59cd49d2; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Australija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Didžioji Britanija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Australija: mention_match, place, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Didžioji Britanija\" parinktas kaip owner_note_path. Targetas \"Australija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-166982
+
+<a id="claim-t-192640"></a>
+- t-006
+  global_id: t-192640
+  teiginys: "Narbutas perteikia nuomonę, kad Pitėjas pirmąją kelionę atliko į Britaniją, o antrąją - į šiaurės rytus, kur atrado Baltijos salą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "601598-602034; hash=d577a6e935a63d40e3d68fbc2aee8266a163a1b6c04aec5228f75b02e7f51069; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Didžioji Britanija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Didžioji Britanija\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175410
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77984|A. Smetona]]: 1919 m. rugsėjo 26 d. Kaune prezidentas A. Smetona iš balkono sveikino minias, susirinkusias dėl Didžiosios Britanijos de facto pripažinimo.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75729|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1919 m. rugsėjo 26 d. Kaune prezidentas Antanas Smetona iš balkono sveikino minias po Didžiosios Britanijos de facto pripažinimo.
 - susijęs iš [[objektai/paprociai/Masinės džiaugsmo manifestacijos gavus tarptautinį pripažinimą.md#claim-t-20817|Masinės džiaugsmo manifestacijos gavus tarptautinį pripažinimą]]: 1919 m. rugsėjo 26 d. tūkstančiai žmonių susirinko prie Kauno rotušės, gavę žinią apie Didžiosios Britanijos de facto pripažinimą Lietuvai.
@@ -75,6 +166,7 @@ Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lie
     kaip agresorė. Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė mo-
     nopolizuoti Lietuvos užsienio prekybą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -94,6 +186,7 @@ Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lie
     Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje,
     Šveicarijoje, Vatikane.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -110,6 +203,7 @@ Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lie
     nopolizuoti Lietuvos užsienio prekybą. Sukurti Baltijos valstybių sąjungą
     pavėluota.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -125,8 +219,112 @@ Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lie
     visiems norintiems lietuvių tremtiniams ir pabėgėliams (tokių buvo apie
     30 tūkst.), kiti pasuko į Didžiąją Britaniją, Kanadą, Australiją.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
+- c-005
+  santrauka: 'Narbutas perteikia nuomonę, kad Pitėjas pirmąją kelionę atliko į Britaniją, o antrąją - į šiaurės rytus, kur atrado Baltijos salą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Graikai, ypač
+    masiliečiai, tęsė finikiečių tyrimus, bet rašė eilėmis, pa­
+    vyzdžiui, apie argonautų kelionę; romėnai, kaip nuga­
+    lėtojai, pažengė toliau, tačiau apie kraštus, esančius už
+    Elbės ir Arkados žiočių, nepaliko jokių rašytinių žinių1.
+    Apie Pitėją manoma, jog jis keliavęs du kartus: pir­
+    mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado
+    Baltijos salą. Fosas teigia, jog jis pasiekė tik Reiną ar
+    toliausiai Elbės žiotis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-005
+
+## Citatos
+
+- id: c-24104
+  citata_originali: |
+    SSRS 1940 metų ultimatumas ir
+    sovietų okupacija
+    Įsileidusi sovietų bazes Lietuva palaidojo viltis būti išrink-
+    ta į Tautų Sąjungos Tarybą. Sovietams kariaujant su Suomija Baltijos vals-
+    tybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos
+    kaip agresorė. Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė mo-
+    nopolizuoti Lietuvos užsienio prekybą.
+  citata_rodoma: "Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė mo-\nnopolizuoti Lietuvos užsienio prekybą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67799
+
+- id: c-67566
+  citata_originali: |
+    1944 m. sausį A. Smetona žuvo Klivlande per gaisrą. Tad
+    lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rūpinosi
+    Lietuvos diplomatinė tarnyba (LDT), Lietuvos valstybingumo simbolis, gy-
+    vavusi per visą sovietų okupacijos laikotarpį. Ji siekė išlaikyti Lietuvos vals-
+    tybės tarptautinį pripažinimą tose šalyse, kurios nepripažino Lietuvos prie-
+    vartinio įjungimo į SSRS sudėtį: JAV, Kanadoje, Brazilijoje (iki 1967 m.),
+    Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje,
+    Šveicarijoje, Vatikane.
+  citata_rodoma: "Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje,"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67798
+
+- id: c-166981
+  citata_originali: |
+    Sovietams kariaujant su Suomija Baltijos vals-
+    tybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos
+    kaip agresorė. Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė mo-
+    nopolizuoti Lietuvos užsienio prekybą. Sukurti Baltijos valstybių sąjungą
+    pavėluota.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183589
+
+- id: c-166982
+  citata_originali: |
+    Baltijos valstybių ir Lenkijos pa-
+    bėgėlių bei tremtinių). Per trejus–ketverius metus į JAV pasisekė atvykti
+    visiems norintiems lietuvių tremtiniams ir pabėgėliams (tokių buvo apie
+    30 tūkst.), kiti pasuko į Didžiąją Britaniją, Kanadą, Australiją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183590
+
+- id: c-175410
+  citata_originali: |
+    Graikai, ypač
+    masiliečiai, tęsė finikiečių tyrimus, bet rašė eilėmis, pa­
+    vyzdžiui, apie argonautų kelionę; romėnai, kaip nuga­
+    lėtojai, pažengė toliau, tačiau apie kraštus, esančius už
+    Elbės ir Arkados žiočių, nepaliko jokių rašytinių žinių1.
+    Apie Pitėją manoma, jog jis keliavęs du kartus: pir­
+    mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado
+    Baltijos salą. Fosas teigia, jog jis pasiekė tik Reiną ar
+    toliausiai Elbės žiotis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192640

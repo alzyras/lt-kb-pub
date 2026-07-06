@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - posakis
   - privilegija
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # In Nomine Domini Amen Ad Perpetuam Rei Memoriam
 
@@ -20,10 +32,12 @@ Quum Nobis Exposuisset Venerabilis Valentinus a Pilzno Vilnensis, et Luceoriensi
 <a id="claim-t-86858"></a>
 - t-001
   global_id: t-86858
-  teiginys: 'Formulė „In Nomine Domini Amen. Ad Perpetuam Rei Memoriam“ lietuviškai pateikta kaip „Vardan Viešpaties Amen. Amžinai dalykų atminčiai“.'
+  teiginys: "Formulė „In Nomine Domini Amen. Ad Perpetuam Rei Memoriam“ lietuviškai pateikta kaip „Vardan Viešpaties Amen. Amžinai dalykų atminčiai“."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "488057-488732; hash=647dd5498c9bab3d855fc422e9d9fd5eaf3a87791b2e99d4d25ed8e395fe4cb2; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
-
+    - c-82837
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -48,8 +62,37 @@ Quum Nobis Exposuisset Venerabilis Valentinus a Pilzno Vilnensis, et Luceoriensi
     garbinimu, kuriuo žmonės ir įrodo, kad prisimena iš visa­
     galio DIEVO gaunamas geradarybes ir yra dėkingi.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-82837
+  citata_originali: |
+    Quum Nobis Exposuisset Venerabilis Valentinus
+    a Pilzno Vilnensis, et Luceoriensis Canonicus Ecclesiae in
+    Poboysco Plebanus, in Honorem Sanctae et Individuae Tri-
+    nitatis extructae, nec non in Memoriam Nativitatis, et As­
+    sumptionis Gloriosae Virginis Mariae, et Sanctorum Egidii
+    Confessoris, et Georgii Martyris, Privilegium Fundationis et
+    240
+
+    ## Puslapis 257
+
+    III KNYGA
+    Vardan Viešpaties Amen.
+    Amžinai dalykų atminčiai. Kadangi manome, kad iš vi­
+    sų krikščioniškojo monarcho darbų ir pastangų joks netei­
+    kia tiek daug nemirtingos šlovės, kaip rūpinimasis DIEVO
+    garbinimu, kuriuo žmonės ir įrodo, kad prisimena iš visa­
+    galio DIEVO gaunamas geradarybes ir yra dėkingi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86858

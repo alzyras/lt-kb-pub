@@ -5,6 +5,18 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Triznos lenktynės prie kaimo ribos
 
@@ -28,16 +40,23 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-189964"></a>
 - t-001
   global_id: t-189964
-  teiginys: 'Narbutas triznos papročio dalimi laiko lenktynes, kuriose raiteliai jodavo prie stulpelio, o pirmasis paėmęs pinigą pelnydavo šlovę.'
+  teiginys: "Narbutas triznos papročio dalimi laiko lenktynes, kuriose raiteliai jodavo prie stulpelio, o pirmasis paėmęs pinigą pelnydavo šlovę."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "641449-641851; hash=0fb3ab20002424575f80d7f20d06fa9df8f1484f0d4d21c12af2967a4d25a9b3; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
-
+    - c-172847
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Narbutas triznos papročio dalimi laiko lenktynes, kuriose raiteliai jodavo prie stulpelio, o pirmasis paėmęs pinigą pelnydavo šlovę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -50,8 +69,29 @@ Nenurodyta
     akių; kiti lydi mirusįjį iki laidojimo vietos. Šios lenktynės yra
     dalis triznos papročio, žmonių pamėgdžiojamo ir mūsų istori­
     ko pastebėto.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-172847
+  citata_originali: |
+    Toje
+    vietoje būna įkaltas stulpelis ir ant jo padėtas pinigas. Raite­
+    liai nuo tam tikros vietos leidžiasi lenktynių stulpelio link; tas,
+    kuris prijos pirmasis ir paims pinigą, pelno nemenką šlovę. Jis
+    nesustodamas joja tolyn, rodydamas laimikį, kol išnyksta iš
+    akių; kiti lydi mirusįjį iki laidojimo vietos. Šios lenktynės yra
+    dalis triznos papročio, žmonių pamėgdžiojamo ir mūsų istori­
+    ko pastebėto.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-189964

@@ -16,6 +16,18 @@ amziai:
   - 'XIX'
 periodo_grupes:
   - 'naujieji laikai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # F. Rolandas
 
@@ -28,10 +40,22 @@ Rolando pajėgas pasukti kairiau, Nėries link.
 <a id="claim-t-80732"></a>
 - t-001
   global_id: t-80732
-  teiginys: 'Priešo šaulių ir artilerijos ugnis privertė F. Rolando pajėgas pasukti Neries link ir susikauti su rusų pėstininkais.'
+  teiginys: "Priešo šaulių ir artilerijos ugnis privertė F. Rolando pajėgas pasukti Neries link ir susikauti su rusų pėstininkais."
+  temporaliniai_duomenys: "įvykio data: 1831 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatinis ir tiesiogiai pagrįstas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "638110-640607; hash=fa08de8b2e8464f77754b3da0234fdae69f2239e1b28a1b05b726088b2661dd1; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "F. Rolandas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=55"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"F. Rolandas\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-41905
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -128,8 +152,109 @@ Rolando pajėgas pasukti kairiau, Nėries link.
     įtvirtinimus, sukilėlių pėstininkai buvo pri-
     versti trauktis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-41905
+  citata_originali: |
+    @ Priešo šaulių ir artilerijos ugnis
+    priverčia F. Rolando pajėgas
+    pasukti kairiau, Nėries link. Čia
+    sukilėliai susikauna su rusų
+    pėstininkais ir priverčiami
+    atsitraukti.
+
+    @ Lietuvių ir lenkų pajėgos ata-
+    kuoja centrinius rusų įtvir-
+    tinimus. Po keturių valandų
+    kautynių nuo priešo ugnies
+    patyrę didelių nuostolių puo-
+
+    = Sukilėlių artilerijos
+    pabūklai
+
+    = Rusų artilerijos
+    pabūklai
+    A. Rusų užvartos
+
+    {J Sukilėlių pėstininkai quan Sukilėlių puo-
+
+    <q = = Sukilėlių atsi-
+
+    <@ m= «© Rusy atsitrau-
+
+    lantieji priverciami atsitraukti.
+
+    Iš] Sukilėlių kavalerija limo kryptys (G Sukilėlių kariuomenė traukiasi iš
+    17 Rusų pėstininkai | fjeswss Rusų puolimo mūšio lauko.
+    te Rusų kavalerija kryptys © Atsitraukimą pridenge lenkų
+
+    ulonai atremia rusų ulonų ata-
+
+    traukimo kryptys kas, o vėliau taip pat traukiasi.
+
+    kimo kryptys Lauko pabūklų sviediniai.
+
+    Panerių kautynių schema. 1831 m. birželio 19 d.
+
+    Kartečės kulka.
+    XIX a. pirmoji pusė
+
+    Neries link ir susikovė su Leibgvardijos
+    Voluinės pėstininkų pulko kariais. Po
+    smarkaus susišaudymo rusų gvardie-
+    čiai, remiami dviejų pabūklų, pe-
+
+    rėjo į durtuvų ataką. Po trumpų ir
+    įnirtingų kautynių, patyrę nemažai
+    nuostolių, lenkų batalionai pradėjo
+    trauktis atgal.
+
+    Rusų gynybos centrinius įtvirtinimus
+    atakavo 7-asis lenkų pėstininkų pulkas,
+    vadovaujamas pulkininko E. Koso, ir 2-asis
+    (lietuvių) pėstininkų pulkas, vadovau-
+    jamas plk. S. Radziševskio. Pulkas buvo
+    tik prieš 5 dienas suformuotas ir kariai
+    jaudinosi.
+
+    Priekyje žygiavo lenkai, už jų - lietu-
+    viai. Pasipylus artilerijos ugniai, lietuvių
+    kariai pradėjo gultis ant žemės, tačiau po
+    plk. S. Radziševskio nuoširdaus kreipimosi
+    kariai nugalėjo baimę ir drąsiai stojo į ko-
+    vą. (Vėliau pulkas pasižymėjo daugelyje
+    mūšių ir dalyvavo Varšuvos gynyboje).
+    Puolančiuosius pasitiko nukirstų medžių
+    kliūtys, už jų kartečės lietus iš priešo pa-
+    būklų ir batalioninė pėstininkų šautuvų
+    ugnis. Abu pulkai atakavo priešo pozi-
+    cijas keturias valandas, per šį laiką rusų
+    centrinės gynybos artilerija į atakuojan-
+    čius paleido ne mažiau 2560 stambių svie-
+    dinių ir 91440 kartečės sviedinių kulkų.
+    Puolantieji patyrė didelių nuostolių.
+
+    XIX a. pirmoji pusė k
+
+    Gen. A. Gelgaudas, palikęs štabą, pats
+    dalyvavo mūšyje. Jis nesislėpė, stengėsi
+    visur būti pirmas. Artilerijos sviedinys
+    nukovė jo žirgą. Daugeliui atrodė, kad jis
+    ieškojo mirties. Generolas aiškiai suprato,
+    jog priešo neįveiks ir mūšis jau pralaimėtas.
+    Daug kartų energingai atakavę centrinius
+    įtvirtinimus, sukilėlių pėstininkai buvo pri-
+    versti trauktis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-80732

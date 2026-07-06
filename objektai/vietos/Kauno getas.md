@@ -13,6 +13,18 @@ tags:
   - vieta
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kauno getas
 
@@ -25,10 +37,23 @@ amziai:
 <a id="claim-t-21480"></a>
 - t-001
   global_id: t-21480
-  teiginys: 'Kauno getas buvo tarp getų, kuriuose apie 50 tūkst. žydų laikinai palikti ir išnaudoti kaip pigi darbo jėga.'
+  teiginys: "Kauno getas buvo tarp getų, kuriuose apie 50 tūkst. žydų laikinai palikti ir išnaudoti kaip pigi darbo jėga."
+  semantiniai_rysiai: "Žydai gyveno Kauno getas (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1941 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys prasideda mažąja raide ir taisytinas į vientisą sakinį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "406840-407219; hash=91442311acbab13e7852f08014a42ae5da9b875c1c28486bd979b5602b33c956; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Kauno getas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žydai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kauno getas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad žydai buvo laikinai palikti Kauno gete."
   pagrindžia:
-    - c-001
-
+    - c-24169
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,11 +67,31 @@ amziai:
     laikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose, jie išnau-
     doti kaip pigi darbo jėga.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-24169
+  citata_originali: |
+    Akcijose
+    prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo armi-
+    jos dalinius, ukrainiečių, latvių policijos batalionus.
+    Taip diena po dienos 1941 m. vasarą ir rudenį tikrose skerdynėse su-
+    naikinta dauguma – apie 150 000 – Lietuvos žydų. Apie 50 tūkst. žydų
+    laikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose, jie išnau-
+    doti kaip pigi darbo jėga.
+  citata_rodoma: "laikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose, jie išnau-"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-21480
 
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Žydai]]

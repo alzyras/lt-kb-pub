@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - paprotys
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Valstiečių prievolių įrašymas inventoriuose ir skundimasis dėl nuo jų nukrypstančių reikalavimų
 
@@ -34,10 +46,19 @@ Nenurodyta
 <a id="claim-t-02042"></a>
 - t-001
   global_id: t-02042
-  teiginys: 'Valstiečiai galėjo skųstis, jei seniūnas nesilaikė nustatytų prievolių ir reikalavo daugiau.'
+  teiginys: "Valstiečiai galėjo skųstis, jei seniūnas nesilaikė nustatytų prievolių ir reikalavo daugiau."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "859962-860413; hash=ab5b6df9280cb08d7c4beea7a4e7b278bf5d10a19a0fcf0e2a92627fc2e12c77; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> seniūnas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Valstiečių prievolių įrašymas inventoriuose ir skundimasis dėl nuo jų nukrypstančių reikalavimų: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "seniūnas: mention_match, thing, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valstiečių prievolių įrašymas inventoriuose ir skundimasis dėl nuo jų nukrypstančių reikalavimų\" parinktas kaip owner_note_path. Targetas \"seniūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-02280
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -52,8 +73,29 @@ Nenurodyta
     mėdavo; priešingai, kartais būdavo net jie patys apkaltinami
     maišto kėlimu ir, pakvietus kariuomenę, skaudžiai nubaudžiami.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-02280
+  citata_originali: |
+    Kokios pareigos bū-
+    davo pažymėtos tuose inventoriuose, tokias valstiečiai turė-
+    davo ir eiti tiems dvarams. Jei kartais koks seniūnas nenorė-
+    davo to laikytis, reikalaudavo daugiau, tai valstiečiai galėjo
+    skųstis. Žinoma, valstiečiams skųsti poną jo paties draugams
+    ar giminėms buvo gana sunku, ir dažniausiai jie nieko nelai-
+    mėdavo; priešingai, kartais būdavo net jie patys apkaltinami
+    maišto kėlimu ir, pakvietus kariuomenę, skaudžiai nubaudžiami.
+  citata_rodoma: "Jei kartais koks seniūnas nenorė-\ndavo to laikytis, reikalaudavo daugiau, tai valstiečiai galėjo\nskųstis. Žinoma, valstiečiams skųsti poną jo paties draugams\nar giminėms buvo gana sunku, ir dažniausiai jie nieko nelai-\nmėdavo; priešingai, kartais būdavo net jie patys apkaltinami\nmaišto kėlimu ir, pakvietus kariuomenę, skaudžiai nubaudžiami."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-02042

@@ -23,6 +23,18 @@ tags:
 amziai:
   - 'XIII'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Brianskas
 
@@ -33,25 +45,65 @@ amziai:
 ## Teiginiai
 
 <a id="claim-t-179764"></a>
-- t-001
+- t-008
   global_id: t-179764
-  teiginys: 'Apie 1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių prie Dniepro — Černigovo ir Briansko kunigaikštijose.'
+  teiginys: "Apie 1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių prie Dniepro — Černigovo ir Briansko kunigaikštijose."
+  semantiniai_rysiai: "Mindaugas (valdovas, XIII a.) užėmė Brianskas (0.86); Mindaugas (valdovas, XIII a.) užėmė Černigovas (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1237-1263; įvykio data: 1255 m.; įvykio data: apie 1255 m.; įvykio data: 1263 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai susieja Mindaugo veiksmus su Briansko kunigaikštija."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "507119-507418; hash=b4b1aba69cd2f8a8ad14f3c2d7e6406e0363de271020ebee24594018cd86773b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Brianskas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Brianskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Briansko kunigaikštija nurodyta tarp Mindaugo užimtų naujų žemių."
   pagrindžia:
-    - c-001
+    - c-163423
 
 <a id="claim-t-179765"></a>
-- t-002
+- t-009
   global_id: t-179765
-  teiginys: '1393 m. pavasarį Briansko ir Naugardo-Sieversko kunigaikštis Dimitras Kaributas buvo nugalėtas kautynėse ir neteko valdos.'
+  teiginys: "1393 m. pavasarį Briansko ir Naugardo-Sieversko kunigaikštis Dimitras Kaributas buvo nugalėtas kautynėse ir neteko valdos."
+  temporaliniai_duomenys: "įvykio data: 1392 m.; įvykio data: 1393 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnai nurodo Dimitro Kaributo pralaimėjimą ir valdos praradimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "851227-851486; hash=dd14c1e9dff626a7481b3c19b24267b5a472dd8f321296736e109bb3caf450d9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dimitras Kaributas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Brianskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Dimitras Kaributas: mention_match, person, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Brianskas\" parinktas kaip owner_note_path. Targetas \"Dimitras Kaributas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-163424
 
 <a id="claim-t-184937"></a>
-- t-003
+- t-010
   global_id: t-184937
-  teiginys: 'Gediminas, užėmęs Brianską ir Perejeslavlį, išplėtė lietuvių valdų ribas ligi Putivlio.'
+  teiginys: "Gediminas, užėmęs Brianską ir Perejeslavlį, išplėtė lietuvių valdų ribas ligi Putivlio."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "350011-350507; hash=6c62e3f401917ef0fcb77c78e376f095647a5c91122b6a94f8e57fca71050de5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Brianskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=34"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Brianskas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-168298
 - susijęs iš [[objektai/zodynas/monarchas monarchija.md#claim-t-185388|monarchas monarchija]]: Gediminui užkariavus Kijevą, baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi Kijevo monarchija.
 - susijęs iš [[objektai/ivykiai/Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.).md#claim-t-185495|Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)]]: Kojelavičiaus vertinimu, Gediminui užėmus Kijevą baigėsi daugiau kaip 430 metų Rusioje gyvavusi Kijevo monarchija.
 - susijęs iš Rževas: Algirdas dar 1356 m. tvirtinosi Volgos aukštupyje, Rževe, ir atakavo Brianską bei Smolenską.
@@ -122,6 +174,7 @@ amziai:
     1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių
     prie Dniepro — Černigovo ir Briansko kunigaikštijose.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -138,6 +191,7 @@ amziai:
     versko kunigaikštis Dimitras Kaributas 1393 pavasarį kautynėse
     buvo nugalėtas. Jis nebeteko ir savo valdos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -159,11 +213,63 @@ amziai:
     mių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­
     džioje.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-163423
+  citata_originali: |
+    Iš viso Mindaugo laikotarpyje po Saulės kautynių
+    (1237-1263 m.) iš 33 lietuvių karo žygių į kaimynus tik 5 tėra buvę
+    į ordino valdas, 8 — į Lenkiją ir 20 — į rusų žemes140 141. Apie
+    1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių
+    prie Dniepro — Černigovo ir Briansko kunigaikštijose.
+  citata_rodoma: ") iš 33 lietuvių karo žygių į kaimynus tik 5 tėra buvę\nį ordino valdas, 8 — į Lenkiją ir 20 — į rusų žemes140 141. Apie\n1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių\nprie Dniepro — Černigovo ir Briansko kunigaikštijose."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179764
+
+- id: c-163424
+  citata_originali: |
+    Su Jogailos žinia,
+    Vytautas kartu su Skirgaila 1392 m. paėmė Vitebską. Dėl neaiškios
+    laikysenos ir kitas Jogailos brolis -— Briansko ir Naugardo — Sie­
+    versko kunigaikštis Dimitras Kaributas 1393 pavasarį kautynėse
+    buvo nugalėtas. Jis nebeteko ir savo valdos.
+  citata_rodoma: "paėmė Vitebską. Dėl neaiškios\nlaikysenos ir kitas Jogailos brolis -— Briansko ir Naugardo — Sie­\nversko kunigaikštis Dimitras Kaributas 1393 pavasarį kautynėse\nbuvo nugalėtas. Jis nebeteko ir savo valdos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179765
+
+- id: c-168298
+  citata_originali: |
+    Gediminas, pasilsėjęs čia, kol artimiausios pi­
+    lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­
+    vė nugalėtojui, patraukė į Severską. Užėmęs Brianską
+    ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­
+    kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis
+    išplėtė lietuvių valdų ribas ligi Putivlio. Šitaip ilgai­
+    niui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi
+    Kijevo monarchija, patyrusi visokių sėkmių ir nesėk­
+    mių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­
+    džioje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184937
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]

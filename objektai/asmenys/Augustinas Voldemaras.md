@@ -8,11 +8,6 @@ datos:
   - '1928 m.'
 date_start: '1918'
 date_end: '1928'
-description: 'Augustinas Voldemaras – Lietuvos premjeras ir užsienio reikalų ministras, siekęs stiprios prezidento valdžios ir aktyvios Vilniaus politikos.'
-socialDescription: 'Augustinas Voldemaras siejamas su ankstyvos Lietuvos valstybės mobilizacija, autoritarinės krypties idėjomis ir įtempta užsienio politika dėl Vilniaus.'
-seo_atnaujinta: '2026-07-02T19:20:23.365538+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -23,154 +18,409 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'modernioji Lietuva'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Augustinas Voldemaras
 
 ## Santrauka
 
-Augustinas Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų ministras, pabrėžęs stiprias prezidento galias ir menkinęs partijų vaidmenį. 1918 m. lapkričio 23 d. jam teko skelbti mobilizaciją, nors jo vyriausybė neturėjo ginkluotųjų pajėgų. Užsienio politikoje jis laikėsi radikalesnės linijos Vilniaus klausimu, 1927 m. Ženevoje pareiškė, kad karo padėties tarp Lietuvos ir Lenkijos nėra, o Romoje pasirašė konkordatą su Vatikanu.
+Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Taryba pakvietė Augustiną Voldemarą suformuoti ministrų kabinetą. Voldemarui teko skelbti mobilizaciją. Voldemaro vyriausybė neturėjo ginkluotųjų pajėgų.
 
 ## Teiginiai
 
 <a id="claim-t-75767"></a>
-- t-001
+- t-007
   global_id: t-75767
-  teiginys: 'Augustinas Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį.'
+  teiginys: "Augustinas Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį."
+  temporaliniai_duomenys: "įvykio data: 1924 m.; įvykio data: 1926 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia trumpesnį enciklopedinį teiginį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "315961-316821; hash=27a8aca5dc9f968845247c94dcb651fc36c8089be7559dee063f67259be3d61d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> 1926 m. gruodžio 17 d. perversmas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Augustinas Voldemaras: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "1926 m. gruodžio 17 d. perversmas: mention_match, event, gap=67"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustinas Voldemaras\" parinktas kaip owner_note_path. Targetas \"1926 m. gruodžio 17 d. perversmas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-012
+    - c-73462
 
 <a id="claim-t-75768"></a>
-- t-002
+- t-016
   global_id: t-75768
-  teiginys: 'Augustinas Voldemaras 1927 m. rugsėjo 27 d. Romoje pasirašė konkordatą su Vatikanu.'
+  teiginys: "Augustinas Voldemaras 1927 m. rugsėjo 27 d. Romoje pasirašė konkordatą su Vatikanu."
+  temporaliniai_duomenys: "įvykio data: 1927 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalinta miglota nuoroda į „tą reikalą“."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "322420-322865; hash=baa834e532e25e9f03c43d3770ef44d1e23b87752d4f6ae1d12649e68fc7c541; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vatikanas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Augustinas Voldemaras: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vatikanas: mention_match, place, gap=74"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustinas Voldemaras\" parinktas kaip owner_note_path. Targetas \"Vatikanas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-013
+    - c-73463
 
 <a id="claim-t-75769"></a>
-- t-003
+- t-017
   global_id: t-75769
-  teiginys: 'Stiprėjant Europos sienų neliečiamumo tendencijai, Augustinas Voldemaras nebegalėjo pakeisti Lietuvos padėties.'
+  teiginys: "Stiprėjant Europos sienų neliečiamumo tendencijai, Augustinas Voldemaras nebegalėjo pakeisti Lietuvos padėties."
+  temporaliniai_duomenys: "įvykio data: 1929 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinys per silpnas be konteksto."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "323999-324429; hash=5b546df62ba68354db0cd95157901b247507060254d588f5b33fddb7c7708b3a; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Augustinas Voldemaras: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustinas Voldemaras\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-015
+    - c-73465
 
 <a id="claim-t-75770"></a>
-- t-004
+- t-008
   global_id: t-75770
-  teiginys: 'Augustinas Voldemaras buvo ministras pirmininkas ir užsienio reikalų ministras.'
+  teiginys: "Augustinas Voldemaras buvo ministras pirmininkas ir užsienio reikalų ministras."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "319250-319881; hash=479d78d33eee321566640c85f7ad3e9e91d0558638a14cbc3256b388f066468f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Augustinas Voldemaras: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustinas Voldemaras\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-73454
 
 <a id="claim-t-75771"></a>
-- t-005
+- t-013
   global_id: t-75771
-  teiginys: 'A. Voldemaras buvo tarp tautininkų kritikų, kurie dėl valdžios taikytų spaudos ir susirinkimų ribojimų pasėdėjo kalėjime.'
+  teiginys: "A. Voldemaras buvo tarp tautininkų kritikų, kurie dėl valdžios taikytų spaudos ir susirinkimų ribojimų pasėdėjo kalėjime."
+  temporaliniai_duomenys: "įvykio data: 1929 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "324257-324896; hash=f689d346e889eee33600d49ffd90f5b9516405e6147e74038bf119c02067e21d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> A. Smetona: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Augustinas Voldemaras: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=3"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustinas Voldemaras\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-73457
 
 <a id="claim-t-75772"></a>
-- t-006
+- t-015
   global_id: t-75772
-  teiginys: '1927 m. gruodžio 10 d. Ženevoje Augustinas Voldemaras atsakė Juzefui Pilsudskiui, kad karo padėties tarp Lietuvos ir Lenkijos nėra.'
+  teiginys: "1927 m. gruodžio 10 d. Ženevoje Augustinas Voldemaras atsakė Juzefui Pilsudskiui, kad karo padėties tarp Lietuvos ir Lenkijos nėra."
+  semantiniai_rysiai: "Augustinas Voldemaras keliavo į Ženeva (0.70)"
+  temporaliniai_duomenys: "įvykio data: 1926 m.; įvykio data: 1927 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "321346-321997; hash=5010259d8d2540bd83398b4f81b12056d60cb4f13ac25ade4186bc6aac6a3c7c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Ženeva: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Augustinas Voldemaras: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Ženeva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "A. Voldemaras dalyvavo Ženevoje vykusiame susidūrime Tautų Sąjungoje."
   pagrindžia:
-    - c-006
+    - c-73456
 
 <a id="claim-t-75773"></a>
-- t-007
+- t-001
   global_id: t-75773
-  teiginys: 'Augustinas Voldemaras pareiškė neplanuojantis kurti Lietuvos kariuomenės, nes esą Lietuvai užteksią milicijos.'
+  teiginys: "Augustinas Voldemaras pareiškė neplanuojantis kurti Lietuvos kariuomenės, nes esą Lietuvai užteksią milicijos."
+  temporaliniai_duomenys: "įvykio data: 1918 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "268487-269219; hash=3360ce846c916e6933bdc47e5e331a563ffd74ba26dc974a5c56ab917c585552; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Augustinas Voldemaras: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=52"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustinas Voldemaras\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-73459
 
 <a id="claim-t-75774"></a>
-- t-008
+- t-020
   global_id: t-75774
-  teiginys: '1918 m. lapkričio 23 d. Augustinui Voldemarui teko skelbti mobilizaciją.'
+  teiginys: "1918 m. lapkričio 23 d. Augustinui Voldemarui teko skelbti mobilizaciją."
+  temporaliniai_duomenys: "įvykio data: 1918 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys aiškiai nurodo datą, asmenį ir veiksmą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "268217-268985; hash=f6ce80d40df3f619850146e5dd9b94226faebd36fe29a8737d095c9540648c68; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Augustinas Voldemaras: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustinas Voldemaras\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-014
+    - c-73464
 
 <a id="claim-t-75775"></a>
-- t-009
+- t-010
   global_id: t-75775
-  teiginys: 'Augustinas Voldemaras užsienio politiką stūmė radikalesne kryptimi ir pabrėžė, kad be Vilniaus Lietuva nėra vienas kūnas.'
+  teiginys: "Augustinas Voldemaras užsienio politiką stūmė radikalesne kryptimi ir pabrėžė, kad be Vilniaus Lietuva nėra vienas kūnas."
+  temporaliniai_duomenys: "įvykio data: 1927 m.; įvykio data: 1928 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pataisytas į sklandų sakinį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "320256-320785; hash=76fd02992d946954e420d0be92eb870e57c38873f8b441968f3d05d2b640e70c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> A. Voldemaras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Augustinas Voldemaras: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "A. Voldemaras: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustinas Voldemaras\" parinktas kaip owner_note_path. Targetas \"A. Voldemaras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-73452
 
 <a id="claim-t-75776"></a>
-- t-010
+- t-004
   global_id: t-75776
-  teiginys: 'Augustinas Voldemaras prieš Varšuvą bandė atsilaikyti Vokietijos arba Sovietų Rusijos padedamas.'
+  teiginys: "Augustinas Voldemaras prieš Varšuvą bandė atsilaikyti Vokietijos arba Sovietų Rusijos padedamas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "287077-287419; hash=08f125895cb7926044180b98e339f34ca9eab9ef9efd58ec8ab5c934ea3be406; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Augustinas Voldemaras: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Rusija: mention_match, place, gap=78"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustinas Voldemaras\" parinktas kaip owner_note_path. Targetas \"Rusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-73451
 
 <a id="claim-t-75777"></a>
-- t-011
+- t-009
   global_id: t-75777
-  teiginys: 'Augustinas Voldemaras Vilniaus klausimu pragmatiškai ieškojo SSRS paramos prieš Lenkiją.'
+  teiginys: "Augustinas Voldemaras Vilniaus klausimu pragmatiškai ieškojo SSRS paramos prieš Lenkiją."
+  temporaliniai_duomenys: "įvykio data: 1928 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys aiškiai perteikia citatoje nurodytą Voldemaro poziciją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "319470-320255; hash=3140f376936d609d958ea3b63fdc89e8bfddca2ff43630058548b2ccca3beabc; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Augustinas Voldemaras: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustinas Voldemaras\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-73458
 
 <a id="claim-t-75778"></a>
-- t-012
+- t-011
   global_id: t-75778
-  teiginys: 'A. Voldemaras buvo kooptuotas į Lietuvos Tarybą vietoj nuo jos atsiskyrusių kairiųjų pažiūrų narių.'
+  teiginys: "A. Voldemaras buvo kooptuotas į Lietuvos Tarybą vietoj nuo jos atsiskyrusių kairiųjų pažiūrų narių."
+  semantiniai_rysiai: "Augustinas Voldemaras keliavo į Paryžius (0.88)"
+  temporaliniai_duomenys: "įvykio data: 1934 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "330648-331053; hash=c1df0e38885e7aaa0a3643e4936097a77b0e00e226a8f0fa5d24ccdc601671da; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Paryžius: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Augustinas Voldemaras: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Paryžius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad A. Voldemaras buvo ištremtas į Paryžių."
   pagrindžia:
-    - c-005
+    - c-73455
 
 <a id="claim-t-75779"></a>
-- t-013
+- t-003
   global_id: t-75779
-  teiginys: 'Augustinas Voldemaras vadovavo Lietuvos delegacijai prie Paryžiaus taikos konferencijos.'
+  teiginys: "Augustinas Voldemaras vadovavo Lietuvos delegacijai prie Paryžiaus taikos konferencijos."
+  temporaliniai_duomenys: "įvykio data: 1919 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir tiksliai atitinka citatos informaciją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "270482-271365; hash=495d957562a42b661079f0f9fcfa8c80d20e83bd594b20ff8d95f71e4a76f615; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Augustinas Voldemaras: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustinas Voldemaras\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-011
+    - c-73461
 
 <a id="claim-t-75780"></a>
-- t-014
+- t-018
   global_id: t-75780
-  teiginys: '1929 m. Augustinas Voldemaras neteko pareigų, nes atsisakė tapti užsienio reikalų ministru.'
+  teiginys: "1929 m. Augustinas Voldemaras neteko pareigų, nes atsisakė tapti užsienio reikalų ministru."
+  temporaliniai_duomenys: "įvykio data: 1929 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys sutrumpintas ir sukonkretintas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "324257-324896; hash=f689d346e889eee33600d49ffd90f5b9516405e6147e74038bf119c02067e21d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Augustinas Voldemaras: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustinas Voldemaras\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-73457
 
 <a id="claim-t-75781"></a>
-- t-015
+- t-005
   global_id: t-75781
-  teiginys: 'Augustinas Voldemaras buvo tarp tautininkų kritikų, kurie dėl valdžios taikytų spaudos ir susirinkimų ribojimų pasėdėjo kalėjime.'
+  teiginys: "Augustinas Voldemaras buvo tarp tautininkų kritikų, kurie dėl valdžios taikytų spaudos ir susirinkimų ribojimų pasėdėjo kalėjime."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "297630-298125; hash=7c4681502b18e7242f134bf5640d78d7a3e7c5a691808babf75f585f59c65271; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Augustinas Voldemaras: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustinas Voldemaras\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-73453
 
 <a id="claim-t-75782"></a>
-- t-016
+- t-012
   global_id: t-75782
-  teiginys: '1918 m. lapkričio 5 d. Taryba pavedė A. Voldemarui sudaryti pirmą nepriklausomos Lietuvos kabinetą.'
+  teiginys: "1918 m. lapkričio 5 d. Taryba pavedė A. Voldemarui sudaryti pirmą nepriklausomos Lietuvos kabinetą."
+  temporaliniai_duomenys: "įvykio data: 1918 m.; įvykio data: 1929 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "323999-324429; hash=5b546df62ba68354db0cd95157901b247507060254d588f5b33fddb7c7708b3a; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Augustinas Voldemaras: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=41"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustinas Voldemaras\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-015
+    - c-73465
 
 <a id="claim-t-75783"></a>
-- t-017
+- t-002
   global_id: t-75783
-  teiginys: 'Augustinas Voldemaras birželį pareiškė, kad Lietuva galėtų įsijungti į Rusijos federaciją panašiais pagrindais kaip Bavarija į Vokietijos sąjungą.'
+  teiginys: "Augustinas Voldemaras birželį pareiškė, kad Lietuva galėtų įsijungti į Rusijos federaciją panašiais pagrindais kaip Bavarija į Vokietijos sąjungą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "275156-275565; hash=952abc4da7eb7d4f67e42d3ef09bb81acf76a034c184264960c35eb683e1a9ff; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> A. Voldemaras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Augustinas Voldemaras: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "A. Voldemaras: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustinas Voldemaras\" parinktas kaip owner_note_path. Targetas \"A. Voldemaras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-010
+    - c-73460
 
 <a id="claim-t-75784"></a>
-- t-018
+- t-019
   global_id: t-75784
-  teiginys: 'Kariuomenėje įtakingi voldemarininkai pučais bandė grąžinti Augustiną Voldemarą į valdžią.'
+  teiginys: "Kariuomenėje įtakingi voldemarininkai pučais bandė grąžinti Augustiną Voldemarą į valdžią."
+  semantiniai_rysiai: "Voldemarininkai rėmė Augustinas Voldemaras (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1934 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, o citata tiesiogiai patvirtina pataisytą sakinį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "330648-331053; hash=c1df0e38885e7aaa0a3643e4936097a77b0e00e226a8f0fa5d24ccdc601671da; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Augustinas Voldemaras: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Voldemarininkai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Augustinas Voldemaras: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Voldemarininkai veikė siekdami sugrąžinti Voldemarą į valdžią, tai yra aiški politinė parama."
   pagrindžia:
-    - c-005
+    - c-73455
 
 <a id="claim-t-75785"></a>
-- t-019
+- t-014
   global_id: t-75785
-  teiginys: 'Po M. Sleževičiaus vyriausybės atstatydinimo K. Grinius pavedė tautininkui A. Voldemarui sudaryti naują Ministrų kabinetą.'
+  teiginys: "Po M. Sleževičiaus vyriausybės atstatydinimo K. Grinius pavedė tautininkui A. Voldemarui sudaryti naują Ministrų kabinetą."
+  temporaliniai_duomenys: "įvykio data: 1929 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "324257-324896; hash=f689d346e889eee33600d49ffd90f5b9516405e6147e74038bf119c02067e21d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> A. Smetona: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Augustinas Voldemaras: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=47"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustinas Voldemaras\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-73457
 
 <a id="claim-t-75786"></a>
-- t-020
+- t-006
   global_id: t-75786
-  teiginys: 'Po M. Sleževičiaus vyriausybės atstatydinimo K. Grinius pavedė tautininkui Augustinui Voldemarui sudaryti naują Ministrų kabinetą.'
+  teiginys: "Po M. Sleževičiaus vyriausybės atstatydinimo K. Grinius pavedė tautininkui Augustinui Voldemarui sudaryti naują Ministrų kabinetą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "315082-315548; hash=75620db35075ae65bed1a9da1f9e654e3c81baac53cc76cec4a115742912d32b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> konstitucijos: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Augustinas Voldemaras: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "konstitucijos: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustinas Voldemaras\" parinktas kaip owner_note_path. Targetas \"konstitucijos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-016
+    - c-73466
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75714|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona ir Augustinas Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75732|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona ir Augustinas Voldemaras pabrėždavo stiprių prezidento galių būtinybę ir nevertino politinių partijų vaidmens.
 - susijęs iš [[objektai/asmenys/Augustas Zaleskis.md#claim-t-18838|Augustas Zaleskis]]: Augustas Zaleskis buvo Lenkijos užsienio reikalų ministras, su kuriuo Paryžiuje susitiko Augustinas Voldemaras.
@@ -201,8 +451,9 @@ Augustinas Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų 
     ieškoti paramos ir Vakaruose, o išnaudoti kaimynų konfliktus savo nau-
     dai neužteko jėgų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
@@ -220,8 +471,9 @@ Augustinas Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų 
     išspręstas, A. Voldemaras prašovė – 1927 m. balandį derybose Lenkija
     atsisakė kalbėtis dėl Vilniaus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
@@ -238,6 +490,7 @@ Augustinas Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų 
     blicistus; pasėdėjo kalėjime ir aršiausi kritikai tautininkai A. Voldemaras,
     A. Smetona.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -259,6 +512,7 @@ Augustinas Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų 
     jų, o A. Smetona stengėsi laikytis „vidurainės [A. Smetonos terminas –
     Red.] linijos“ – nesusisieti su kokia nors konkrečia valstybe ar jų grupe.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -276,6 +530,7 @@ Augustinas Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų 
     ir laiku sustabdomi. Tik A. Voldemaras šį kartą nubaustas ypač rimtai – iš
     Lietuvos provincijos miestelio Zarasų ištremtas į Paryžių...
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -300,6 +555,7 @@ Augustinas Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų 
     išeities, paprasčiausiai pasakė, jog karo padėties tarp Lietuvos ir Lenkijos
     nėra.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -321,6 +577,7 @@ Augustinas Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų 
     ginkluotą radikaliausių tautininkų organizaciją „Geležinis vilkas“, kuri
     laikė A. Voldemarą savo vadu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -347,6 +604,7 @@ Augustinas Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų 
     159
     Lenkiją.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -369,6 +627,7 @@ Augustinas Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų 
     metė Raudonosios armijos divizijas paskui traukiančią namo vokiečių
     kariuomenę.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -386,6 +645,7 @@ Augustinas Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų 
     Lietuvos vyriausybė skubiai paskelbė, kad tai tik asmeninė A. Voldemaro
     nuomonė...
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -411,6 +671,7 @@ Augustinas Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų 
     nykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs
     iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -443,6 +704,7 @@ Augustinas Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų 
     laikus“, prilygintus netvarkai ir
     anarchijai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -461,6 +723,7 @@ Augustinas Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų 
     pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios
     padėtį valstybėje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -483,6 +746,7 @@ Augustinas Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų 
     Lietuva nesiruošianti kariauti – užteksią milicijos…
     Tačiau jau lapkričio 23-iąją A. Voldemarui teko skelbti mobilizaciją.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -500,6 +764,7 @@ Augustinas Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų 
     tų eserų pasikėsinimo į A. Voldemaro gyvybę, 1929 m. rugsėjį visiems
     ministrams in corpore „atsistatydinus“, turėjo atsistatydinti ir premjeras.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -518,11 +783,321 @@ Augustinas Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų 
     sutiko atsistatydinti ir pats K. Grinius, įtikintas, kad naujoji valdžia lai-
     kysis konstitucijos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
+## Citatos
+
+- id: c-73451
+  citata_originali: |
+    Žinoma, kad lietuviai tapo
+    „revizionistais per prievartą“. Pradžioje (ypač užsienio reikalų ministras
+    A. Voldemaras) prieš Varšuvą bandė atsilaikyti Vokietijos ar Sovietų Ru-
+    sijos padedami, tačiau pastarųjų tai neviliojo. O juk Lietuvai dar reikėjo
+    ieškoti paramos ir Vakaruose, o išnaudoti kaimynų konfliktus savo nau-
+    dai neužteko jėgų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75776
+
+- id: c-73452
+  citata_originali: |
+    Tapusi Tautų Sąjungos nare Vokietija nebegalėjo remti Lietuvos
+    ambicijų Vilniuje, tačiau būtent su Vokietija 1928 m. pasirašytos net aš-
+    tuonios sutartys ir pasiekta daugiausia. A. Voldemaras užsienio politiką
+    stumtelėjo radikalesne kryptimi, pabrėžęs, kad politika su Lenkija nesi-
+    keičia, tačiau be Vilniaus Lietuva nėra vienas kūnas. Neatsisakęs derybų
+    su Lenkija, manydamas jų metu parodyti, kad Vilniaus klausimas nėra
+    išspręstas, A. Voldemaras prašovė – 1927 m. balandį derybose Lenkija
+    atsisakė kalbėtis dėl Vilniaus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75775
+
+- id: c-73453
+  citata_originali: |
+    Seimas ir prezidentas (renkamas Seimo) ren-
+    kami trejiems metams. Konstitucija suteikė plačią autonomiją Lietuvoje
+    gyvenusioms tautinėms mažumoms, įteisino privalomą pradžios mokslą.
+    Vilniaus problema, įtempti santykiai su Lenkija iš dalies lėmė ir Lietu-
+    vos demokratijos lygį – šalyje buvo karo padėtis, dėl to vykdyta spaudos
+    cenzūra, piliečių susirinkimai apriboti, valdantieji baudė opozicijos pu-
+    blicistus; pasėdėjo kalėjime ir aršiausi kritikai tautininkai A. Voldemaras,
+    A. Smetona.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75781
+
+- id: c-73454
+  citata_originali: |
+    Prezidentas A. Smetona ir
+    ministras pirmininkas A. Voldemaras
+    Taip per Lietuvos miestų ir miestelių akmeninį grindinį
+    išdunda geležiniais ratlankiais kaustytas tautininkų lyderių vadelioja-
+    mas autoritarinis vežimas. Kol kas viešojoje erdvėje dominuoja ekstrava-
+    gantiškas, dėl savo oratorinių sugebėjimų geriausiai Vakaruose žinomas
+    lietuvis A. Voldemaras, užėmęs ne tik premjero, bet ir užsienio reikalų
+    ministro postus. Pasirodė, kad jis neturėjo naujų užsienio politikos idė-
+    jų, o A. Smetona stengėsi laikytis „vidurainės [A. Smetonos terminas –
+    Red.] linijos“ – nesusisieti su kokia nors konkrečia valstybe ar jų grupe.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75770
+
+- id: c-73455
+  citata_originali: |
+    Kariuomenėje įtakingi nacionalistai voldemari-
+    ninkai vis bandė pučų keliu grąžinti į valdžią A. Voldemarą, o 1934 m. gen.
+    Petro Kubiliūno vadovaujamas dalinių išvedimas į Kauno gatves buvo pa-
+    vojingiausias. Tačiau pučai nebuvo tiesiogiai nukreipti prieš A. Smetoną
+    ir laiku sustabdomi. Tik A. Voldemaras šį kartą nubaustas ypač rimtai – iš
+    Lietuvos provincijos miestelio Zarasų ištremtas į Paryžių...
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75784
+
+- id: c-73456
+  citata_originali: |
+    Dėl to 1927 m. spalio 15 d. Lietuva apskundė Lenkiją Tautų
+    Sąjungos Tarybai ir situacija tapo ypač įtempta, nes Lietuva nebuvo at-
+    šaukusi karo padėties su Lenkija. Lietuva ir Lenkija kaktomuša susidūrė
+    Ženevoje, kur Sąjungos Taryboje gruodžio 10 dieną J. Pilsudskis uždavė
+    A. Voldemarui klausimą „Karas ar taika?“ A. Voldemaras, neturėdamas
+    Lietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m., iš kairės:
+    Dovas Zaunius, ministras pirmininkas Augustinas Voldemaras ir
+    pasiuntinys Petras Klimas (H. Roger Viollet nuotrauka)
+
+    L I E T U V O S  I S T O R I J A
+    160
+    išeities, paprasčiausiai pasakė, jog karo padėties tarp Lietuvos ir Lenkijos
+    nėra.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75772
+
+- id: c-73457
+  citata_originali: |
+    Po gegužę įvykdyto studen-
+    tų eserų pasikėsinimo į A. Voldemaro gyvybę, 1929 m. rugsėjį visiems
+    ministrams in corpore „atsistatydinus“, turėjo atsistatydinti ir premjeras.
+    Rugsėjo 23 dieną ministru pirmininku prezidentas A. Smetona paskyrė
+    ekonomistą Juozą Tūbelį, o A. Voldemaras liko be nieko, nes neapdai-
+    riai atsisakė tapti užsienio reikalų ministru. Tylusis kombinacijų meistras
+    A. Smetona savo skalpeliu toliau raižė pūlinius – atsikratė karininkų per-
+    versmininkų apsupties, A. Voldemaro, o vėliau uždarė ir pusiau slaptą,
+    ginkluotą radikaliausių tautininkų organizaciją „Geležinis vilkas“, kuri
+    laikė A. Voldemarą savo vadu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75780
+
+- id: c-73458
+  citata_originali: |
+    Kol kas viešojoje erdvėje dominuoja ekstrava-
+    gantiškas, dėl savo oratorinių sugebėjimų geriausiai Vakaruose žinomas
+    lietuvis A. Voldemaras, užėmęs ne tik premjero, bet ir užsienio reikalų
+    ministro postus. Pasirodė, kad jis neturėjo naujų užsienio politikos idė-
+    jų, o A. Smetona stengėsi laikytis „vidurainės [A. Smetonos terminas –
+    Red.] linijos“ – nesusisieti su kokia nors konkrečia valstybe ar jų grupe.
+    A. Voldemaras buvo įsitikinęs, kad „mūsų priešų priešai yra mūsų drau-
+    gai“ ir laikėsi tautininkų pozicijos, jog Vilniaus klausimo sprendimas eina
+    per Maskvą ir Berlyną, todėl pragmatiškai ieškojo SSRS paramos prieš
+    VII Lietuvos žemės ūkio  ir pramonės parodos lankytojai
+    (Kaunas, 1928 m.)
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    159
+    Lenkiją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75777
+
+- id: c-73459
+  citata_originali: |
+    Gavusi naujo Vo-
+    kietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Taryba
+    pakvietė Augustiną Voldemarą suformuoti ministrų kabinetą. Kabinetas
+    pradėjo veikti 1918 m. lapkričio 11 d. Ekstravagantiškasis istorijos pro-
+    fesorius A. Voldemaras, tapęs dar ir užsienio reikalų ministru, gerokai
+    nustebino pareiškęs, kad neplanuoja kurti Lietuvos kariuomenės, nes esą
+    Lietuva nesiruošianti kariauti – užteksią milicijos…
+    Tačiau jau lapkričio 23-iąją A. Voldemarui teko skelbti mobilizaciją.
+    Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliu-
+    cijos eksportą, planuodami bolševizuoti Lenkiją, o per ją ir Vokietiją, ir
+    metė Raudonosios armijos divizijas paskui traukiančią namo vokiečių
+    kariuomenę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75773
+
+- id: c-73460
+  citata_originali: |
+    Būta ir savų klaidų – su nie-
+    kuo nesitardamas A. Voldemaras birželio mėnesį, atsakydamas į Didžio-
+    sios Britanijos atstovo J. Simpsono klausimą dėl požiūrio į federaciją su
+    Rusija atsakė, kad „Lietuva galėtų įsijungti į Rusijos federaciją maždaug
+    tokiais pagrindais, kaip Bavarija į Vokietijos sąjungą“ – Kaune apstulbusi
+    Lietuvos vyriausybė skubiai paskelbė, kad tai tik asmeninė A. Voldemaro
+    nuomonė...
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75783
+
+- id: c-73461
+  citata_originali: |
+    Palaipsniui pasikeitė ir Lietuvos Tarybos vertinimas: provokiška
+    orientacija ją kaltinusi lietuvių kairė, lenkai ir net Antantė turėjo pripa-
+    žinti, kad sunkiomis sąlygomis, svetimųjų varžoma Lietuvos Taryba suge-
+    bėjo išlaviruoti ir iškelti Lietuvos nepriklausomybės klausimą, išsivaduoti
+    iš Vokietijos politikos diktato ir paskubomis kūrė valdžios ir savivaldybių
+    įstaigas.
+    Versalio sistemoje
+    Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje
+    prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai
+    delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferenci-
+    jos ir veikė kuluaruose. Lietuvos delegacijai vadovavo A. Voldemaras, joje
+    dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Domi-
+    nykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs
+    iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75779
+
+- id: c-73462
+  citata_originali: |
+    Siekdami pateisinti gruodžio įvykius tautininkai ir krikščionys demo-
+    kratai skelbė Lietuvą išgelbėję nuo komunistų perversmo (1924 m. gruo-
+    džio 1 d. komunistų pučas Estijoje rodė esant tokią galimybę). Keturi
+    Lietuvos komunistų partijos (LKP) vadovai nuteisti mirties bausme ir po
+    dešimt dienų nuo perversmo pradžios sušaudyti – tai turėjo reikšti, kad
+    tikrieji kaltininkai nubausti, nors opozicinės partijos komunizmo pavo-
+    jaus nematė.
+    1926 m. gruodžio 17 d. perversmas –
+    šarvuočiai prie Vyriausiojo štabo
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    157
+    A. Smetona ir A. Voldemaras
+    atvirai pabrėždavo stiprių prezi-
+    dento galių būtinybę, nevertino
+    politinių partijų vaidmens, esą
+    atstovavusių tik dalies, o ne vi-
+    sos tautos valiai, ir neketino su-
+    grįžti į vadinamuosius „seimų
+    laikus“, prilygintus netvarkai ir
+    anarchijai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75767
+
+- id: c-73463
+  citata_originali: |
+    Vilniaus problema komplikavo ir Lietuvos bažnytinės provincijos su-
+    darymo ir konkordato su Vatikanu klausimus. Vyriausybei derantis su
+    Vatikanu dėl diplomatinių santykių opozicija apkaltino krikščionis de-
+    mokratus išsižadant Seinų ir Vilniaus vyskupijų. Tik A. Voldemarui pa-
+    vyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėjo 27 d. jis
+    pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios
+    padėtį valstybėje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75768
+
+- id: c-73464
+  citata_originali: |
+    1918 m. lapkričio 2 d. Taryba priėmė Laikinąją konstituciją, pati pagal
+    ją tapdama įstatymų leidimo organu, o Tarybos prezidiumas (pirminin-
+    kas A. Smetona ir du vicepirmininkai Justinas Staugaitis ir S. Šilingas)
+    drauge su ministrų kabinetu sudarė vykdomąją valdžią. Gavusi naujo Vo-
+    kietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Taryba
+    pakvietė Augustiną Voldemarą suformuoti ministrų kabinetą. Kabinetas
+    pradėjo veikti 1918 m. lapkričio 11 d. Ekstravagantiškasis istorijos pro-
+    fesorius A. Voldemaras, tapęs dar ir užsienio reikalų ministru, gerokai
+    nustebino pareiškęs, kad neplanuoja kurti Lietuvos kariuomenės, nes esą
+    Lietuva nesiruošianti kariauti – užteksią milicijos…
+    Tačiau jau lapkričio 23-iąją A. Voldemarui teko skelbti mobilizaciją.
+  citata_rodoma: "Ekstravagantiškasis istorijos pro-\nfesorius A. Voldemaras, tapęs dar ir užsienio reikalų ministru, gerokai \nnustebino pareiškęs, kad neplanuoja kurti Lietuvos kariuomenės, nes esą \nLietuva nesiruošianti kariauti – užteksią milicijos…\nTačiau jau lapkričio 23-iąją A. Voldemarui teko skelbti mobilizaciją."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75774
+
+- id: c-73465
+  citata_originali: |
+    Stiprėjant Europos tendencijai saugoti sienų neliečiamumą, A. Vol-
+    demaras nieko negalėjo pakeisti. Būdamas ir premjeru, ir užsienio rei-
+    kalų ministru jau ne visur spėjo, konfliktavo su keliais savo ministrais
+    ir pradėjo pretenduoti į vienvaldystę šalyje. Po gegužę įvykdyto studen-
+    tų eserų pasikėsinimo į A. Voldemaro gyvybę, 1929 m. rugsėjį visiems
+    ministrams in corpore „atsistatydinus“, turėjo atsistatydinti ir premjeras.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75769
+
+- id: c-73466
+  citata_originali: |
+    Šis sutiko, nes karininkai įvykdė jo
+    keltą sąlygą – perversmas pavyko be šūvio.
+    Spaudžiant perversmininkams prezidentas K. Grinius, gavęs valstiečių
+    liaudininkų vadovybės pritarimą, atstatydino M. Sleževičiaus vyriausybę
+    ir naują Ministrų kabinetą pavedė sudaryti tautininkui A. Voldemarui.
+    Gąsdinamas pilietinio karo galimybe, kuria galėjo pasinaudoti Lenkija,
+    sutiko atsistatydinti ir pats K. Grinius, įtikintas, kad naujoji valdžia lai-
+    kysis konstitucijos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75786
 
 ## Ryšiai
 - Rėmė Augustinas Voldemarą: [[objektai/grupes/Voldemarininkai]]

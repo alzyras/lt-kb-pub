@@ -20,6 +20,18 @@ tags:
 amziai:
   - 'XV'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # K. Gókski, Bitwa pod Grunwaldem
 
@@ -32,10 +44,14 @@ amziai:
 <a id="claim-t-31754"></a>
 - t-001
   global_id: t-31754
-  teiginys: '„Bitwa pod Grunwaldem“ 1888 m. buvo paskelbta „Biblioteka Warszawska“ numeriuose 559–561.'
+  teiginys: "„Bitwa pod Grunwaldem“ 1888 m. buvo paskelbta „Biblioteka Warszawska“ numeriuose 559–561."
+  temporaliniai_duomenys: "įvykio data: 1409 m.; įvykio data: 1888 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "937531-937879; hash=f33a861994356f94c6e26bd0de75ae73fba9cefa59b34587a4e7500ae66d9d78; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
-
+    - c-33603
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -47,8 +63,26 @@ amziai:
     11-19 p. — Gókski, K. : _Bitwa pod Grunwaldem,_ Biblioteka Warszawska,
     nr. 559-561, 1888. — Hevekeb, K. : _Die Schlacht bei Tannenberg,_ Diss.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33603
+  citata_originali: |
+    — Dundulis, B. : _Žemaičių sukilimai prieš teutoniškuosius paver­
+    gėjus 1401 ir 1409 m.,_ VUMD, t. 6, 1955, 118-147 p.—Ekdahl, S.:
+    _Die Flucht der Litauer in der Schlacht bei Tannenberg,_ ZfO, 12, 1, 1963.
+    11-19 p. — Gókski, K. : _Bitwa pod Grunwaldem,_ Biblioteka Warszawska,
+    nr. 559-561, 1888. — Hevekeb, K. : _Die Schlacht bei Tannenberg,_ Diss.
+  citata_rodoma: ": _Bitwa pod Grunwaldem,_ Biblioteka Warszawska,\nnr. 559-561, 1888. — Hevekeb, K. : _Die Schlacht bei Tannenberg,_ Diss."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31754

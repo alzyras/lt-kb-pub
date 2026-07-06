@@ -13,6 +13,18 @@ tags:
   - vieta
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Pavolgis
 
@@ -25,10 +37,30 @@ Jis suima savo valdžion visus Pavolgio, Juod­ marių pakraščio ir Krymo toto
 <a id="claim-t-36477"></a>
 - t-001
   global_id: t-36477
-  teiginys: '1427 m. Vytauto palaikomas Machmetas į savo valdžią paėmė Pavolgio, Juodmarių pakraščio ir Krymo totorius.'
+  teiginys: "1427 m. Vytauto palaikomas Machmetas į savo valdžią paėmė Pavolgio, Juodmarių pakraščio ir Krymo totorius."
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) rėmė Machmetas (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1427 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradiniame teiginyje klaidingai veiksmas priskirtas Vytautui, o citatoje jį atliko Machmetas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "692467-692743; hash=73bce3cecb56b81c0f62c2b5704a7d2a3c354cfb679ef27a7f6f2d484b41be78; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Machmetas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Machmetas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Machmetas tiesiogiai apibūdintas kaip Vytauto palaikomas."
   pagrindžia:
-    - c-001
-
+    - c-38597
+- susijęs iš [[objektai/ivykiai/Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų.md#claim-t-192040|Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų]]: Narbuto aiškinimu, svarbiausia gelonų ir budinų pasitraukimo priežastis buvo sarmatų ir kitų Pavolgio tautų plitimas į dešiniosios Dono pakrantės Skitiją.
+- susijęs iš [[objektai/ivykiai/Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų.md#claim-t-192487|Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų]]: Narbutas svarbiausia gelonų ir budinų pasitraukimo nuo Dono priežastimi laiko sarmatų bei kitų Pavolgio tautų plitimą į Skitiją apie 80 m. pr. Kr.
+- susijęs iš [[objektai/ivykiai/Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų.md#claim-t-192040|Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų]]: Narbuto aiškinimu, svarbiausia gelonų ir budinų pasitraukimo priežastis buvo sarmatų ir kitų Pavolgio tautų plitimas į dešiniosios Dono pakrantės Skitiją.
+- susijęs iš [[objektai/ivykiai/Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų.md#claim-t-192039|Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų]]: Narbutas sarmatų ir alanų plitimą, lėmusį gelonų bei budinų pasitraukimą nuo Dono, vadina sarmatų-alanų revoliucijomis.
+- susijęs iš [[objektai/ivykiai/Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų.md#claim-t-192041|Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų]]: Narbutas gelonų ir budinų pasitraukimą iš prie Dono buvusių valdų datuoja maždaug apie 80 m. pr. Kr.
+- susijęs iš [[objektai/ivykiai/Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų.md#claim-t-192039|Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų]]: Narbutas sarmatų ir alanų plitimą, lėmusį gelonų bei budinų pasitraukimą nuo Dono, vadina sarmatų-alanų revoliucijomis.
+- susijęs iš [[objektai/ivykiai/Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų.md#claim-t-192041|Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų]]: Narbutas gelonų ir budinų pasitraukimą iš prie Dono buvusių valdų datuoja maždaug apie 80 m. pr. Kr.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -41,8 +73,26 @@ Jis suima savo valdžion visus Pavolgio, Juod­ marių pakraščio ir Krymo toto
     marių pakraščio ir Krymo totorius. Ir taip Vytautas į viešpata­
     vimo galą savo planus dėl Totorijos buvo gangreit įvykdęs.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-38597
+  citata_originali: |
+    1427 mt. pradžioje jų buvo dar
+    5), bet 1427 met. gale Vytauto palaikomasis Machmetas įsiga­
+    lėjo galutinai. Jis suima savo valdžion visus Pavolgio, Juod­
+    marių pakraščio ir Krymo totorius. Ir taip Vytautas į viešpata­
+    vimo galą savo planus dėl Totorijos buvo gangreit įvykdęs.
+  citata_rodoma: "Jis suima savo valdžion visus Pavolgio, Juod­\nmarių pakraščio ir Krymo totorius. Ir taip Vytautas į viešpata­\nvimo galą savo planus dėl Totorijos buvo gangreit įvykdęs."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36477

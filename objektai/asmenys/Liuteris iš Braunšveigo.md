@@ -17,6 +17,18 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Liuteris iš Braunšveigo
 
@@ -29,10 +41,22 @@ Dusburgietis teigia, kad versti jis pradėjo dar didžiojo Ordino magistro Liute
 <a id="claim-t-60380"></a>
 - t-001
   global_id: t-60380
-  teiginys: 'Liuterio iš Braunšveigo valdymo laikais Mikalojus iš Jerošino pradėjo versti Dusburgiečio kroniką į vokiečių kalbą.'
+  teiginys: "Liuterio iš Braunšveigo valdymo laikais Mikalojus iš Jerošino pradėjo versti Dusburgiečio kroniką į vokiečių kalbą."
+  temporaliniai_duomenys: "įvykio data: 1335 m.; įvykio data: 1340 m.; įvykio data: apie 1340 m.; įvykio data: 1341 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys apie Liuterį pateiktas per neaiškų įvardį; citata remia aiškesnį sakinį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "53019-53347; hash=034079d521bb23b82b01b4438551439b21d26fab6da73d5b1c04415d47e2f286; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Mikalojus iš Jerošino: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Liuteris iš Braunšveigo: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Mikalojus iš Jerošino: mention_match, person, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liuteris iš Braunšveigo\" parinktas kaip owner_note_path. Targetas \"Mikalojus iš Jerošino\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-61012
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,8 +68,25 @@ Dusburgietis teigia, kad versti jis pradėjo dar didžiojo Ordino magistro Liute
     (1331 — 1335 m.) laikais, tačiau rankraštis buvo sunaikintas. Darbą Mikalojus baigė
     jau magistro Ditricho iš Altenburgo (1335—1341 m.) laikais, apie 1340 m.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-61012
+  citata_originali: |
+    IV-ajame dešimtmetyje Dusburgiečio kroniką eilėmis  į vokiečių kalbą išvertė
+    Mikalojus iš Jerošino. Versti jis pradėjo dar didžiojo Ordino magistro Liuterio iš Braunšveigo
+    (1331 — 1335 m.) laikais, tačiau rankraštis buvo sunaikintas. Darbą Mikalojus baigė
+    jau magistro Ditricho iš Altenburgo (1335—1341 m.) laikais, apie 1340 m.
+  citata_rodoma: "Versti jis pradėjo dar didžiojo Ordino magistro Liuterio iš Braunšveigo\n(1331 — 1335 m.) laikais, tačiau rankraštis buvo sunaikintas. Darbą Mikalojus baigė\njau magistro Ditricho iš Altenburgo (1335—1341 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60380

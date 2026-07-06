@@ -5,6 +5,18 @@ saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # miera
 
@@ -24,11 +36,14 @@ Vartojamos formos: `saikas`, `versta`, `nykštis`, `colis`, `pirštas`, `plašta
 ## Teiginiai
 
 <a id="claim-t-70031"></a>
-- t-001
+- t-005
   global_id: t-70031
-  teiginys: 'Miera arba saikas citatoje apima storumo ir tekumo matavimus, o svoriui minimas svaras arba voga.'
+  teiginys: "Miera arba saikas citatoje apima storumo ir tekumo matavimus, o svoriui minimas svaras arba voga."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  saltinio_vieta: "304835-305282; hash=395a49f5add6e347c12444d5bf471c8e6fe69e5c99786420e5a4390299f1014d; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
+    - c-09710
 - susijęs iš [[objektai/asmenys/Antanas Buračas.md#claim-t-183523|Antanas Buračas]]: Antanas Buračas viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir rėmė įmonių savarankiškumą bei rinkos laisvę.
 - susijęs iš [[objektai/asmenys/Antanas Buračas.md#claim-t-18810|Antanas Buračas]]: Antanas Buračas viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir pasisakė už įmonių savarankiškumą bei rinkos laisvę.
 - susijęs iš [[objektai/asmenys/Eduardas Vilkas.md#claim-t-183529|Eduardas Vilkas]]: Eduardas Vilkas su kitais ekonomistais viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir rėmė rinkos laisvę.
@@ -49,8 +64,21 @@ Vartojamos formos: `saikas`, `versta`, `nykštis`, `colis`, `pirštas`, `plašta
   citata_originali: |
     Miera, ar saikas, storumo buvo: žiupsnis, rieškutės, gniūžtis^1137 , našta, klėbys, ašis^1138 , sauja, grįžtis, kepurė, rakandą, druskinė, dvolikis^1139 , sėtuvė, pūras, bačka, vežimas. Miera, arba saikas, tekumo^1140 buvo: lašas, tauragė^1141 , kaušas, krūžas^1142 ,^ kipis^1143 , milžtuvė, legerė^1144 , vogonas^1145 , verpelė^1146 , bačka, bosas ir taip toliau. Svaras, arba voga^1147 : grūdas, svaras, stukas^1148 , pundas^1149 , birkova^1150.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-09710
+  citata_originali: |
+    Miera, ar saikas, storumo buvo: žiupsnis, rieškutės, gniūžtis^1137 , našta, klėbys, ašis^1138 , sauja, grįžtis, kepurė, rakandą, druskinė, dvolikis^1139 , sėtuvė, pūras, bačka, vežimas. Miera, arba saikas, tekumo^1140 buvo: lašas, tauragė^1141 , kaušas, krūžas^1142 ,^ kipis^1143 , milžtuvė, legerė^1144 , vogonas^1145 , verpelė^1146 , bačka, bosas ir taip toliau. Svaras, arba voga^1147 : grūdas, svaras, stukas^1148 , pundas^1149 , birkova^1150.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-70031

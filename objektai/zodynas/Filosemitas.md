@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Filosemitas
 
@@ -19,9 +31,20 @@ tags:
 <a id="claim-t-77795"></a>
 - t-001
   global_id: t-77795
-  teiginys: 'Filosemitu vadintas Antanas Smetona stabdė raginimus apriboti žydus ir pareiškė, kad Lietuvoje vietos užteks visiems.'
+  teiginys: "Filosemitu vadintas Antanas Smetona stabdė raginimus apriboti žydus ir pareiškė, kad Lietuvoje vietos užteks visiems."
+  semantiniai_rysiai: "Antanas Smetona (Lietuvos prezidentas, XX a.) gynė Žydai (0.66)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "341714-342261; hash=a1584e7d41a501089a4d62cdfe472e396f04fc66303b7b659298efc2745efae6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Žydai: 0.66"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Žydai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Claimas konkrečiai sieja Smetoną su raginimų apriboti žydus stabdymu, todėl tai galima laikyti žydų gynimu politiniame kontekste."
   pagrindžia:
-    - c-001
+    - c-75120
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77976|A. Smetona]]: A. Smetona agresyvesniems jaunalietuviams pareiškė, kad žydų apribojimų nereikia ir „vietos visiems užteks“.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75709|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona agresyvesniems jaunalietuviams pareiškė, kad Lietuvoje „vietos visiems užteks“.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75740|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems užteks“.
@@ -44,8 +67,32 @@ tags:
     A. Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems
     užteks“.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-75120
+  citata_originali: |
+    Daug žydų buvo laisvųjų profesijų
+    darbuotojų – 42 proc. gydytojų, kiek mažiau advokatų, meno žmonių,
+    žurnalistų, 32 dirbo prekyboje, 23 proc. pramonėje ir amatuose. Ketvir-
+    tajame dešimtmetyje gana agresyviai žydų prekybininkus ėmė puldinėti
+    verslininkai laikraštyje „Verslas“ – atvirai kėlė šūkį „Lietuva lietuviams“.
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    169
+    Tačiau valdžia efektyviai stabdė raginimus apriboti žydus, o filosemitas
+    A. Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems
+    užteks“.
+  citata_rodoma: "pramonėje ir amatuose. Ketvir-\ntajame dešimtmetyje gana agresyviai žydų prekybininkus ėmė puldinėti \nverslininkai laikraštyje „Verslas“ – atvirai kėlė šūkį „Lietuva lietuviams“.\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n169\nTačiau valdžia efektyviai stabdė raginimus apriboti žydus, o filosemitas \nA."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77795

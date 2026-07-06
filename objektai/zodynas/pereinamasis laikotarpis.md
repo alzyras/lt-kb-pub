@@ -16,6 +16,18 @@ tags:
 amziai:
   - 'XV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # pereinamasis laikotarpis
 
@@ -26,25 +38,62 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis.
 ## Teiginiai
 
 <a id="claim-t-72000"></a>
-- t-001
+- t-003
   global_id: t-72000
-  teiginys: 'Kazimiero laikai 1440–1492 m. Lietuvos istorijoje vadinami pereinamuoju laikotarpiu.'
+  teiginys: "Kazimiero laikai 1440–1492 m. Lietuvos istorijoje vadinami pereinamuoju laikotarpiu."
+  temporaliniai_duomenys: "įvykio data: 1440-1492; įvykio data: 1492 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Turinio fragmentas perrašytas į sakinį apie objekto reikšmę."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "15143-15412; hash=763f23a1591af67afa95ebd49f89c6e03ba2f3434314ad9fa3f452a7d12991b6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> ponų įsigalėjimo laikotarpis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "pereinamasis laikotarpis: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "ponų įsigalėjimo laikotarpis: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"pereinamasis laikotarpis\" parinktas kaip owner_note_path. Targetas \"ponų įsigalėjimo laikotarpis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-46924
 
 <a id="claim-t-72001"></a>
-- t-002
+- t-001
   global_id: t-72001
-  teiginys: 'Kazimiero laikai 1440–1492 m. vadinami pereinamuoju laikotarpiu.'
+  teiginys: "Kazimiero laikai 1440–1492 m. vadinami pereinamuoju laikotarpiu."
+  temporaliniai_duomenys: "įvykio data: 1440-1492; įvykio data: 1492 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "15143-15412; hash=763f23a1591af67afa95ebd49f89c6e03ba2f3434314ad9fa3f452a7d12991b6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> ponų įsigalėjimo laikotarpis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "pereinamasis laikotarpis: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "ponų įsigalėjimo laikotarpis: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"pereinamasis laikotarpis\" parinktas kaip owner_note_path. Targetas \"ponų įsigalėjimo laikotarpis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-46924
 
 <a id="claim-t-72002"></a>
-- t-003
+- t-002
   global_id: t-72002
-  teiginys: 'Pereinamasis laikotarpis siejamas su didžiųjų kunigaikščių monarchijos irimu ir ponų įsigalėjimu.'
+  teiginys: "Pereinamasis laikotarpis siejamas su didžiųjų kunigaikščių monarchijos irimu ir ponų įsigalėjimu."
+  temporaliniai_duomenys: "įvykio data: 1492 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "15143-15412; hash=763f23a1591af67afa95ebd49f89c6e03ba2f3434314ad9fa3f452a7d12991b6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> ponų įsigalėjimo laikotarpis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "pereinamasis laikotarpis: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "ponų įsigalėjimo laikotarpis: mention_match, thing, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"pereinamasis laikotarpis\" parinktas kaip owner_note_path. Targetas \"ponų įsigalėjimo laikotarpis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-46924
 - susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-82507|Kazimieras Jogailaitis]]: A. Šapokos redaguotoje „Lietuvos istorijoje“ Kazimiero Jogailaičio laikai 1440–1492 m. vadinami pereinamuoju laikotarpiu.
 - susijęs iš [[objektai/zodynas/ponų įsigalėjimo laikotarpis.md#claim-t-74034|ponų įsigalėjimo laikotarpis]]: A. Šapokos „Lietuvos istorijoje“ Kazimiero laikai (1440–1492 m.) priskirti pereinamajam ponų įsigalėjimo laikotarpiui.
 - susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-82514|Kazimieras Jogailaitis]]: Kazimieras Jogailaitis 1440 m. buvo išrinktas didžiuoju Lietuvos kunigaikščiu.
@@ -62,10 +111,33 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis.
     I. Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis
     1.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-003
     - t-001
+
+## Citatos
+
+- id: c-46924
+  citata_originali: |
+    Bažnyčios suvažiavimas Bazely ir bažnytinės unijos
+    klausimas 172
+    4. Zigmanto santykiai su Lenkija ir jo mirtis 173
+    5. Jogaila 174
+    B. Didžiųjų kunigaikščių monarchijos irimo ir ponų įsigalėjimo
+    laikotarpis
+    I. Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis
+    1.
+  citata_rodoma: "I. Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-72001
+    - t-72002
+    - t-72000

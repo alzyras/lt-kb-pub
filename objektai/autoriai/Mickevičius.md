@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - autorius
   - mokslininkas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Mickevičius
 
@@ -20,9 +32,22 @@ Jų tarpe buvo ir didysis poetas Mickevičius, kurio raštai jau tada susirenkan
 <a id="claim-t-05717"></a>
 - t-001
   global_id: t-05717
-  teiginys: 'Adomas Mickevičius buvo ištremtas į Rusiją, kai jau buvo mokytojas Kaune ir palaikė glaudžius ryšius su studentais.'
+  teiginys: "Adomas Mickevičius buvo ištremtas į Rusiją, kai jau buvo mokytojas Kaune ir palaikė glaudžius ryšius su studentais."
+  semantiniai_rysiai: "Adomas Mickevičius (poetas) keliavo į Rusija (0.88); Adomas Mickevičius (poetas) gyveno Kaunas (0.76)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "930392-930676; hash=956b71ae7a9281068c2e29b0b26c2c884a02f1adbf6a7cde5df9fb037a9ffc3f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Rusija: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Adomas Mickevičius (poetas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Rusija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Adomas Mickevičius buvo ištremtas į Rusiją."
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
-    - c-001
+    - c-06614
 - susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45926|Adomas Mickevičius (poetas)]]: A. Mickevičius buvo vienas organizacijų narių ir rašė apie Tėvynę Lietuvą.
 - susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45928|Adomas Mickevičius (poetas)]]: Adomas Mickevičius buvo vienas didžiųjų Vilniaus romantizmo mokyklos atstovų.
 - susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45930|Adomas Mickevičius (poetas)]]: Adomas Mickevičius buvo vienas iš dvidešimties apkaltintų asmenų, kurie buvo ištremti.
@@ -51,7 +76,6 @@ Jų tarpe buvo ir didysis poetas Mickevičius, kurio raštai jau tada susirenkan
 - susijęs iš Jieznas: Vasario 9 d. priešakiniai 7-ojo „lietuviškojo“ pulko daliniai po susišaudymo su lietuvių husarų žvalgais užėmė Jiezną.
 - susijęs iš Ukmergė: Vytautas veikė Bopartėnų, Ukmergės ir Kulvos srityse.
 - susijęs iš Ukmergė: Vytautas veikė Ukmergės, Kulvos ir Bopartėnų srityse.
-- susijęs iš [[objektai/paprociai/Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje.md#claim-t-187826|Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje]]: Masonų ložės ir studentų organizacijos sąmokslų nerezgė, bet kūrė valdžiai nepaklusnią atmosferą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -63,8 +87,26 @@ Jų tarpe buvo ir didysis poetas Mickevičius, kurio raštai jau tada susirenkan
     tais tebepalaikė glaudžius ryšius, siuntinėjo jiems savo raštų
     ir t.t. Tuo pat metu prasidėjo kratos ir kitose vietose.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-06614
+  citata_originali: |
+    Buvo ištremtas ir patsai filaretų vadas Tomas
+    Zanas. Taip pat buvo ištremtas į Rusiją ir Ad. Mickevičius,
+    kuris tuo tarpu jau buvo mokytoju Kaune, tačiau su studen-
+    tais tebepalaikė glaudžius ryšius, siuntinėjo jiems savo raštų
+    ir t.t. Tuo pat metu prasidėjo kratos ir kitose vietose.
+  citata_rodoma: "Taip pat buvo ištremtas į Rusiją ir Ad. Mickevičius,\nkuris tuo tarpu jau buvo mokytoju Kaune, tačiau su studen-\ntais tebepalaikė glaudžius ryšius, siuntinėjo jiems savo raštų\nir t.t."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05717

@@ -15,6 +15,18 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'XX a.'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Petras Griškevičius
 
@@ -25,18 +37,41 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 ## Teiginiai
 
 <a id="claim-t-64025"></a>
-- t-001
+- t-002
   global_id: t-64025
-  teiginys: 'Petras Griškevičius, būdamas LKP CK pirmuoju sekretoriumi, Michailo Gorbačiovo pertvarkos pradžioje laikėsi pasyviai.'
+  teiginys: "Petras Griškevičius, būdamas LKP CK pirmuoju sekretoriumi, Michailo Gorbačiovo pertvarkos pradžioje laikėsi pasyviai."
+  temporaliniai_duomenys: "įvykio data: 1972 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys klaidingai priskyrė iniciatyvą asmeniui; citata remia pasyvumo faktą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "481683-482781; hash=0a3b5d85c3730c23f23c8a920bd2cca90d644a4cd6a35394f63c8de281a10ae2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Petras Griškevičius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Petras Griškevičius\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-64900
 
 <a id="claim-t-64026"></a>
-- t-002
+- t-001
   global_id: t-64026
-  teiginys: 'Prasidėjus Michailo Gorbačiovo pertvarkai, LKP CK pirmasis sekretorius Petras Griškevičius Lietuvoje laikėsi pasyviai.'
+  teiginys: "Prasidėjus Michailo Gorbačiovo pertvarkai, LKP CK pirmasis sekretorius Petras Griškevičius Lietuvoje laikėsi pasyviai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "482133-483190; hash=6314eef9a0976e6c8f699b78513261284f5eab6f2b919015da26dae83db90450; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Petras Griškevičius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Petras Griškevičius\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-21936
 - susijęs iš [[objektai/zodynas/pertvarka perestroika.md#claim-t-22243|pertvarka perestroika]]: SSRS pradėjus Michailo Gorbačiovo pertvarką, LKP vadovai Petras Griškevičius ir Rimgaudas Songaila Lietuvoje laikėsi pasyviai.
 - susijęs iš [[objektai/posakiai/„Lietuvą padaryti internacionalinę“.md#claim-t-25373|„Lietuvą padaryti internacionalinę“]]: Petras Griškevičius ir Rimgaudas Songaila laikėsi pasyviai, o Nikolajus Mitkinas siekė „Lietuvą padaryti internacionalinę“.
 ## Reikšmingi paminėjimai
@@ -67,6 +102,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
     vos istorija mokyklose būtų dėstoma kaip pagrindinė istorijos pamokų tema,
     prabilta apie vadinamąsias Lietuvos istorijos „baltąsias dėmes“.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -100,8 +136,74 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
     vincijoje niekas nesikeitė, visuomenės nepasitenkinimas didėjo, kol ga-
     liausiai ji pati ėmėsi iniciatyvos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-21936
+  citata_originali: |
+    VI s k y r i u s
+    DAINUOJANTI
+    REVOLIUCIJA
+    SU SĄJŪDŽIU UŽ LIETUVĄ
+    S
+    SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos
+    politiką, Lietuvoje, kitaip nei Maskvoje, Ukrainoje ar
+    Gruzijoje, spengė tyla – pilki LKP CK pirmieji sekretoriai Petras Griš-
+    kevičius ir jį pakeitęs Rimgaudas Songaila laikėsi pasyviai, valdžios va-
+    džias perdavę maskviečiui, lietuviškai nekalbančiam antrajam sekretoriui
+    Nikolajui Mitkinui, kuris siekė „Lietuvą padaryti internacionalinę“. LKP
+    miestų ir rajonų komitetų sekretoriai toliau vykdė CK nurodymus, pro-
+    vincijoje niekas nesikeitė, visuomenės nepasitenkinimas didėjo, kol ga-
+    liausiai ji pati ėmėsi iniciatyvos.
+    Lietuvos Persitvarkymo Sąjūdis
+    1988–1990 metais
+    Valdžios nedraudžiamų klubų veikla kultūros, gamtos apsau-
+    gos, ekologijos ir kitais klausimais išjudino rašytojus, jie reikalavo, kad stu-
+    miama iš visuomenės apyvartos lietuvių kalba taptų oficiali kalba, kad Lietu-
+    vos istorija mokyklose būtų dėstoma kaip pagrindinė istorijos pamokų tema,
+    prabilta apie vadinamąsias Lietuvos istorijos „baltąsias dėmes“.
+  citata_rodoma: "VI s k y r i u s\nDAINUOJANTI  \nREVOLIUCIJA\nSU SĄJŪDŽIU UŽ LIETUVĄ\nS\nSRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos \npolitiką, Lietuvoje, kitaip nei Maskvoje, Ukrainoje ar \nGruzijoje, spengė tyla – pilki LKP CK pirmieji sekretoriai Petras Griš-\nkevičius ir jį pakeitęs Rimgaudas Songaila laikėsi pasyviai, valdžios va-\ndžias perdavę maskviečiui, lietuviškai nekalbančiam antrajam sekretoriui \nNikolajui Mitkinui, kuris siekė „Lietuvą padaryti internacionalinę“."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-64026
+
+- id: c-64900
+  citata_originali: |
+    O Sąjūdis – tautos frontas, suvienijęs plačiausius jos sluoks-
+    nius, labai įvairių pažiūrų, tačiau dar sinkretišką nediferencijuotą Lietu-
+    vos visuomenę, kurios priekyje stovėjo mokslo ir kultūros inteligentija,
+    kėlusi tautą visuotiniais, universaliais, pavergtai tautai ypač brangiais lais-
+    vės, demokratijos, nepriklausomybės idealais.
+    Protesto eisena Kauno Laisvės alėjoje Kaune  1972 m.
+    gegužės 18 d. KGB numeriais pažymėjo eisenos lyderius
+
+    VI s k y r i u s
+    DAINUOJANTI
+    REVOLIUCIJA
+    SU SĄJŪDŽIU UŽ LIETUVĄ
+    S
+    SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos
+    politiką, Lietuvoje, kitaip nei Maskvoje, Ukrainoje ar
+    Gruzijoje, spengė tyla – pilki LKP CK pirmieji sekretoriai Petras Griš-
+    kevičius ir jį pakeitęs Rimgaudas Songaila laikėsi pasyviai, valdžios va-
+    džias perdavę maskviečiui, lietuviškai nekalbančiam antrajam sekretoriui
+    Nikolajui Mitkinui, kuris siekė „Lietuvą padaryti internacionalinę“. LKP
+    miestų ir rajonų komitetų sekretoriai toliau vykdė CK nurodymus, pro-
+    vincijoje niekas nesikeitė, visuomenės nepasitenkinimas didėjo, kol ga-
+    liausiai ji pati ėmėsi iniciatyvos.
+  citata_rodoma: "KGB numeriais pažymėjo eisenos lyderius\n\nVI s k y r i u s\nDAINUOJANTI  \nREVOLIUCIJA\nSU SĄJŪDŽIU UŽ LIETUVĄ\nS\nSRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos \npolitiką, Lietuvoje, kitaip nei Maskvoje, Ukrainoje ar \nGruzijoje, spengė tyla – pilki LKP CK pirmieji sekretoriai Petras Griš-\nkevičius ir jį pakeitęs Rimgaudas Songaila laikėsi pasyviai, valdžios va-\ndžias perdavę maskviečiui, lietuviškai nekalbančiam antrajam sekretoriui \nNikolajui Mitkinui, kuris siekė „Lietuvą padaryti internacionalinę“. LKP \nmiestų ir rajonų komitetų sekretoriai toliau vykdė CK nurodymus, pro-\nvincijoje niekas nesikeitė, visuomenės nepasitenkinimas didėjo, kol ga-\nliausiai ji pati ėmėsi iniciatyvos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-64025

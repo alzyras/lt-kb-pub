@@ -13,6 +13,18 @@ amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Cigala iš Vienos
 
@@ -25,10 +37,26 @@ Jonas Čarnkovskis suėmė Cigalą iš Vienos, iškratė pasiuntinių nešulius,
 <a id="claim-t-186191"></a>
 - t-001
   global_id: t-186191
-  teiginys: 'Jonas Čarnkovskis suėmė Cigalą iš Vienos, iškratė pasiuntinių nešulius, atėmė imperatoriaus laišką ir paleido Cigalą.'
+  teiginys: "Jonas Čarnkovskis suėmė Cigalą iš Vienos, iškratė pasiuntinių nešulius, atėmė imperatoriaus laišką ir paleido Cigalą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Jonas Čarnkovskis buvo priešas Cigala iš Vienos (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1430 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia pašalinti dviprasmišką įvardį ir tiksliau perteikti, kad nešuliai buvo kelių pasiuntinių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "742005-742577; hash=8d49880fbfe5a6e37ad6585f8efb5cb7c03886fe7492e94b6ecf8e5c34b1a195; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_priesas -> Cigala iš Vienos: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jonas Čarnkovskis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Cigala iš Vienos: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Cigalos suėmimas tiesiogiai rodo priešišką Jono Čarnkovskio veiksmą jo atžvilgiu."
   pagrindžia:
-    - c-001
-
+    - c-169552
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -59,11 +87,46 @@ Jonas Čarnkovskis suėmė Cigalą iš Vienos, iškratė pasiuntinių nešulius,
 
     piežiaus sutikimo ir žinios pakelti ką į karalius.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-169552
+  citata_originali: |
+    Viskam
+    vadovauti paskyrė Joną Čar-
+    nkovskį. Šis ryžtingai įvykdė, kas jam buvo patikėta,
+    suėmė Cigalą iš Vienos bei vokietį Zigmantą Rotą;
+    iškratė jų nešulius ir atėmė imperatoriaus laišką, pa­
+    leido juos laisvėn. Laiške štai kas buvo rašoma: ,,Be rei­
+    kalo Vytautas abejoja, ar imperatorius turi galią be po-
+    1430 m e ta i
+    L en kai u žsto ja  keliu s,
+    su im a pa siu n tin iu s ii
+    a tim a  la išk u s
+    P o p iežia u s
+    p a d e d a ­
+    m as, J o g a ila  su tru k ­
+    d o
+    V y ta u tu i
+    v a in i­
+    k u o tis
+    424
+
+    ## Puslapis 423
+
+    piežiaus sutikimo ir žinios pakelti ką į karalius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186191
 
 ## Ryšiai
 - Priešai: [[objektai/asmenys/Jonas Čarnkovskis]]

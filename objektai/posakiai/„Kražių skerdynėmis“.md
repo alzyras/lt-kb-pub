@@ -15,6 +15,18 @@ tags:
   - tauta
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # „Kražių skerdynėmis“
 
@@ -27,16 +39,47 @@ amziai:
 <a id="claim-t-20847"></a>
 - t-001
   global_id: t-20847
-  teiginys: 'Sužeidimų, žūčių ir išprievartavimų lydėtus Kražių įvykius liaudis pavadino „Kražių skerdynėmis“.'
+  teiginys: "Sužeidimų, žūčių ir išprievartavimų lydėtus Kražių įvykius liaudis pavadino „Kražių skerdynėmis“."
+  semantiniai_rysiai: "Kazokai puolė Kražiai (0.84)"
+  temporaliniai_duomenys: "įvykio data: 1893 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradiniame teiginyje buvo faktų, kurių pateikta citata tiesiogiai nepagrindžia."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "232629-233084; hash=83d494030cec1a4ea5dffd7f14aad18fb825e8d8ea1cffeddd3058fdebc55b0c; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Kražiai: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kazokai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kražiai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad kazokai šturmavo Kražių bažnyčią."
   pagrindžia:
-    - c-001
+    - c-166888
 
 <a id="claim-t-183494"></a>
 - t-002
   global_id: t-183494
-  teiginys: '1893 m. Kražių bažnyčios gynimą nuo uždarymo ir kazokų šturmą liaudis pavadino „Kražių skerdynėmis“.'
+  teiginys: "1893 m. Kražių bažnyčios gynimą nuo uždarymo ir kazokų šturmą liaudis pavadino „Kražių skerdynėmis“."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Kazokai puolė Kražiai (0.84)"
+  temporaliniai_duomenys: "įvykio data: 1893 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata geriau palaiko sakinį, aiškiai susiejantį įvykius su posakiu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "232629-233084; hash=83d494030cec1a4ea5dffd7f14aad18fb825e8d8ea1cffeddd3058fdebc55b0c; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Kražiai: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kazokai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kražiai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Ištraukoje aiškiai aprašytas kazokų šturmas Kražiuose."
   pagrindžia:
-    - c-001
+    - c-166888
 - susijęs iš Kražių bažnyčia: 1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai.
 - susijęs iš [[objektai/grupes/Kazokai.md#claim-t-65308|Kazokai]]: 1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai.
 ## Reikšmingi paminėjimai
@@ -53,9 +96,29 @@ amziai:
     valdžios elgesys sukėlė ir blaiviau mąstančių rusų visuomenės sluoksnių
     pasipiktinimą, protestavo Vatikanas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-166888
+  citata_originali: |
+    Du įvykiai turėjo nemažą įtaką lietuvių tautinio sąmoningumo for-
+    mavimuisi. 1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti
+    kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirin-
+    kę miestelio gyventojai. Buvo sužeistų ir užmuštų, išprievartautų mote-
+    rų – liaudis tuos įvykius pavadino „Kražių skerdynėmis“. Brutalus rusų
+    valdžios elgesys sukėlė ir blaiviau mąstančių rusų visuomenės sluoksnių
+    pasipiktinimą, protestavo Vatikanas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183494
+    - t-20847

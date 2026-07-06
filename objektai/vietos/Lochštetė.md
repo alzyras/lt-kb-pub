@@ -18,6 +18,18 @@ tags:
   - sukilimas
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lochštetė
 
@@ -28,39 +40,98 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
 ## Teiginiai
 
 <a id="claim-t-58319"></a>
-- t-001
+- t-005
   global_id: t-58319
-  teiginys: 'Lochštetė buvo Ordino pilis Sembos pietvakarių kyšulyje, į pietvakarius nuo Fišhauzeno.'
+  teiginys: "Lochštetė buvo Ordino pilis Sembos pietvakarių kyšulyje, į pietvakarius nuo Fišhauzeno."
+  semantiniai_rysiai: "Lochštetė priklausė Semba (0.82); Lochštetė priklausė Girmava (0.78)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "403038-403199; hash=feb7e897953b33a636ca0082f916484f7f93590a0fed0c1b277c7ef8e6c73d8d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Semba: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lochštetė: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Semba: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Lochštetės pilis aiškiai lokalizuojama Sembos pietvakarių kyšulyje."
   pagrindžia:
-    - c-003
+    - c-58953
 
 <a id="claim-t-58321"></a>
 - t-002
   global_id: t-58321
-  teiginys: 'Henrikas Stangė žiemos metu įsiveržė į Sembą prie vietos, kur vėliau stovėjo Lochštetės pilis.'
+  teiginys: "Henrikas Stangė žiemos metu įsiveržė į Sembą prie vietos, kur vėliau stovėjo Lochštetės pilis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "338892-339559; hash=3b9756bfa006fdc779ceb6d68658d38bb0e9cea81131876b15f5d7a20c00bdb2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Girmava: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lochštetė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Girmava: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lochštetė\" parinktas kaip owner_note_path. Targetas \"Girmava\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-58952
 
 <a id="claim-t-58322"></a>
 - t-003
   global_id: t-58322
-  teiginys: 'Lochštetės pilis stovėjo Sembos pietvakarių kyšulyje.'
+  teiginys: "Lochštetės pilis stovėjo Sembos pietvakarių kyšulyje."
+  semantiniai_rysiai: "Lochštetė priklausė Semba (0.78)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "340600-340728; hash=79107958ada532485e2df488733c40946b0744551104e441c2523f96b59140e9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Semba: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lochštetė: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Semba: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Lochštetės pilis lokalizuojama Sembos pietvakarių kyšulyje."
   pagrindžia:
-    - c-004
+    - c-58955
 
 <a id="claim-t-58323"></a>
-- t-004
+- t-001
   global_id: t-58323
-  teiginys: 'Analų duomenimis, Lochštetės pilis pastatyta 1270 m., nors Petro Dusburgiečio kronikoje jos statyba aprašyta nedatuojant.'
+  teiginys: "Analų duomenimis, Lochštetės pilis pastatyta 1270 m., nors Petro Dusburgiečio kronikoje jos statyba aprašyta nedatuojant."
+  temporaliniai_duomenys: "pastatymo data: 1263 m.; pastatymo data: 1265 m.; pastatymo data: 1270 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūksta ir turi triukšmo; citata leidžia suformuluoti pilną faktą apie Lochštetę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "83417-83825; hash=e813d9b83678b2d41d33631e2d69a2a0c57ff61725c919e8ea67c37199719419; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dusburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lochštetė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Dusburgas: mention_match, author, gap=47"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lochštetė\" parinktas kaip owner_note_path. Targetas \"Dusburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-58956
 
 <a id="claim-t-58324"></a>
-- t-005
+- t-004
   global_id: t-58324
-  teiginys: 'Viklandsorto pilis vėliau buvo vadinama Lochštete pagal ten gyvenusio sembo Lauksteto vardą.'
+  teiginys: "Viklandsorto pilis vėliau buvo vadinama Lochštete pagal ten gyvenusio sembo Lauksteto vardą."
+  semantiniai_rysiai: "Laukstetas gyveno Semba (0.76); Lochštetė priklausė Semba (0.72)"
+  temporaliniai_duomenys: "įvykio data: 1265 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko pilies pavadinimo kilmę, pradinė formuluotė fragmentiška."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "401282-401670; hash=dfaf930cf29fd6b86cf4a73e7358b4c82198c2221a16cd05909d95eeb09d3d94; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Semba: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Laukstetas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Semba: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Laukstetas apibūdintas kaip ten, Sembos žemėje, gyvenęs sembas."
   pagrindžia:
-    - c-001
+    - c-58951
 - susijęs iš [[objektai/ivykiai/Tepliavos ir Lochštetės pilių pastatymas bei pasitraukimas iš Kroicburgo (1263-1270 m.).md#claim-t-62501|Tepliavos ir Lochštetės pilių pastatymas bei pasitraukimas iš Kroicburgo (1263-1270 m.)]]: Petro Dusburgiečio kronikoje Tepliavos ir Lochštetės pilių pastatymas aprašytas prieš pasitraukimą iš Kroicburgo, nors šis datuojamas 1263 m.
 - susijęs iš Kroicburgas: Kronikoje brolių pasitraukimas iš Kroicburgo datuojamas 1263 m., nors šis įvykis aprašomas po vėlesnių pilių statybos epizodų.
 - susijęs iš Kroicburgas: Petro Dusburgiečio kronikoje brolių pasitraukimas iš Kroicburgo datuojamas 1263 m., nors aprašomas po vėlesnių įvykių.
@@ -83,6 +154,7 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
 
                    113 (108).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -102,6 +174,7 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
     komtūras nelyginant bebaimis liūtas pastojo jiems kelią ir, norėdamas juos tol sulaikyti,
     kol jo kariuomenė užims saugesnę vietą, daugybę sužeidė ietimi.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -115,6 +188,7 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
     386 Ordino Laukstetai (D.— Locstete, vėliau — Lochstedt) — pilis Sembos pietvakarių
     kyšulyje, į pietvakarius nuo Fišhauzeno (dab. Primorskas) Girmavos valsčiuje.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -128,6 +202,7 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
     315 D.— castrum Lochstete, Jer.— burc. Lôchstete; Laukstetų pilis Sembos pietvakarių
     kyšulyje (žr. paaiškinimus D. III, 112, 3).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -144,11 +219,89 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
     pastatyta 1265 m.., o antroji 1270 m.138), o jau po to aprašoma, kaip broliai pasitraukė
     iš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
+## Citatos
+
+- id: c-58951
+  citata_originali: |
+    Apie tai, kaip Sembos žemėje buvo pastatytos Tepliavos ir Laukstetų pilys
+
+      Po antrosios atskalūnybės buvo pastatyta 1265 m. Tepliavos pilis, kurią prūsai vadino
+    Surgurbiu384, o ilgainiui— Viklandsorto385 pilis, kuri dabar vadinama Laukstetais386 nuo
+    vieno ten gyvenusio sembo, vadinamo Laukstetu, vardo, jas sustiprinant, kad būtų
+    lengviau tramdyti sembus.
+
+
+
+
+                   113 (108).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58324
+
+- id: c-58952
+  citata_originali: |
+    Daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną
+    aprašinėdami skyrium, nors šį bei tą reikia pasakyti. Kristburgo komtūras, brolis Henrikas,
+    vadinamas Stange313, gavęs magistro įsakymą, su didele kariuomene patraukė  į karą
+    prieš Sembą ir žiemos metu314 įsibrovė į ją apie tą vietą, kur šiuo metu stovi Laukstetų
+    pilis315, degindamas ir grobdamas abiejose [kelio] pusėse iki Girmavos kaimo316, daug
+    žmonių nukovė ir paėmė į nelaisvę, bet čia atskubėjo ginkluoti sembai. Mūsų minėtasis
+    komtūras nelyginant bebaimis liūtas pastojo jiems kelią ir, norėdamas juos tol sulaikyti,
+    kol jo kariuomenė užims saugesnę vietą, daugybę sužeidė ietimi.
+  citata_rodoma: "Kristburgo komtūras, brolis Henrikas,\nvadinamas Stange313, gavęs magistro įsakymą, su didele kariuomene patraukė  į karą\nprieš Sembą ir žiemos metu314 įsibrovė į ją apie tą vietą, kur šiuo metu stovi Laukstetų\npilis315, degindamas ir grobdamas abiejose [kelio] pusėse iki Girmavos kaimo316, daug\nžmonių nukovė ir paėmė į nelaisvę, bet čia atskubėjo ginkluoti sembai. Mūsų minėtasis\nkomtūras nelyginant bebaimis liūtas pastojo jiems kelią ir, norėdamas juos tol sulaikyti,\nkol jo kariuomenė užims saugesnę vietą, daugybę sužeidė ietimi."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58321
+
+- id: c-58953
+  citata_originali: |
+    386 Ordino Laukstetai (D.— Locstete, vėliau — Lochstedt) — pilis Sembos pietvakarių
+    kyšulyje, į pietvakarius nuo Fišhauzeno (dab. Primorskas) Girmavos valsčiuje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58319
+
+- id: c-58955
+  citata_originali: |
+    315 D.— castrum Lochstete, Jer.— burc. Lôchstete; Laukstetų pilis Sembos pietvakarių
+    kyšulyje (žr. paaiškinimus D. III, 112, 3).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58322
+
+- id: c-58956
+  citata_originali: |
+    Petro  iš Dusburgo kronikoje ne viskas išdėstyta chronologine tvarka, pvz.,  pilių
+    statyba. Apžvelgiant Didžiojo prūsų sukilimo laikus, iš pradžių (nedatuojant) kalbama
+    apie Tepliavos  ir Lochštetės pilių pastatymą (III, 112) (iš analų žinome, jog pirmoji
+    pastatyta 1265 m.., o antroji 1270 m.138), o jau po to aprašoma, kaip broliai pasitraukė
+    iš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118).
+  citata_rodoma: "Apžvelgiant Didžiojo prūsų sukilimo laikus, iš pradžių (nedatuojant) kalbama\napie Tepliavos  ir Lochštetės pilių pastatymą (III, 112) (iš analų žinome, jog pirmoji\npastatyta 1265 m.., o antroji 1270 m.138), o jau po to aprašoma, kaip broliai pasitraukė\niš Kroicburgo (įvykį kronikininkas datuoja 1263 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58323
 
 ## Ryšiai
 - Lochštetė priklausė [[objektai/vietos/Girmava]], [[objektai/vietos/Semba]]

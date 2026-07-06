@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Lietuvos istorijos žinių bazė",
-    pageTitleSuffix: " – LT KB",
+    pageTitle: "Lietuvos istorija",
+    pageTitleSuffix: " – Lietuvos istorija",
     enableSPA: true,
     enablePopovers: false,
     analytics: {

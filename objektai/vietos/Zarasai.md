@@ -16,6 +16,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Zarasai
 
@@ -26,11 +38,22 @@ Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės,
 ## Teiginiai
 
 <a id="claim-t-47471"></a>
-- t-001
+- t-003
   global_id: t-47471
-  teiginys: 'Voldemaras buvo ištremtas iš Zarasų į Paryžių.'
+  teiginys: "Voldemaras buvo ištremtas iš Zarasų į Paryžių."
+  semantiniai_rysiai: "A. Voldemaras keliavo į Paryžius (0.72)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "330938-331053; hash=e5b9379b0391066cb0ea0c147b25ea196110a69537b77f3e40da4eab4f1fb742; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Paryžius: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "A. Voldemaras: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Paryžius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Ištrėmimas į Paryžių tiesiogiai nurodo priverstinę judėjimo kryptį."
   pagrindžia:
-    - c-001
+    - c-24615
 - susijęs iš [[objektai/asmenys/K. Ladyga.md#claim-t-40250|K. Ladyga]]: I brigados vadas K. Ladyga įsakė pulti bolševikus Degučių plentu Zarasų kryptimi.
 - susijęs iš [[objektai/grupes/1-asis pėstininkų pulkas.md#claim-t-78160|1-asis pėstininkų pulkas]]: 1-asis pėstininkų pulkas naktį iš 23 į 24 d. palei Zarasų plentą nesėkmingai puolė „Bružų poziciją“.
 - susijęs iš [[objektai/grupes/11 brigada.md#claim-t-183651|11 brigada]]: Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais šiauriau nei Zarasų operaciją vykdžiusi I brigada.
@@ -72,11 +95,25 @@ Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės,
     Tik A. Voldemaras šį kartą nubaustas ypač rimtai – iš
     Lietuvos provincijos miestelio Zarasų ištremtas į Paryžių...
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-24615
+  citata_originali: |
+    Tik A. Voldemaras šį kartą nubaustas ypač rimtai – iš
+    Lietuvos provincijos miestelio Zarasų ištremtas į Paryžių...
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-47471
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/A. Voldemaras]], [[objektai/grupes/Ukmergės rinktinė]]

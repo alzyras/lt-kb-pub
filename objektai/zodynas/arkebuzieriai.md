@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - ginklas
   - sąvoka
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # arkebuzieriai
 
@@ -20,16 +32,36 @@ Lietuvos arkebuzieriai rėmė ugnimi husarų ataką, o švedų arkibuzieriai sav
 <a id="claim-t-42430"></a>
 - t-001
   global_id: t-42430
-  teiginys: 'Lietuvos arkebuzieriai rėmė ugnimi husarų ataką, o švedų arkibuzieriai savo ugnimi stengėsi husarus sulaikyti.'
+  teiginys: "Lietuvos arkebuzieriai rėmė ugnimi husarų ataką, o švedų arkibuzieriai savo ugnimi stengėsi husarus sulaikyti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "438393-438647; hash=5ad4b8de3b9fe0980cea365181ff403df88da2a496713b08d740488ebaa31e20; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> husarai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "arkebuzieriai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "husarai: mention_match, thing, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"arkebuzieriai\" parinktas kaip owner_note_path. Targetas \"husarai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-45501
 
 <a id="claim-t-42431"></a>
 - t-002
   global_id: t-42431
-  teiginys: 'Kitose tercijos rikiuotės vietose didžiąją dalį šaulių sudarė ne tokiais galingais ginklais aprūpinti arkebuzieriai.'
+  teiginys: "Kitose tercijos rikiuotės vietose didžiąją dalį šaulių sudarė ne tokiais galingais ginklais aprūpinti arkebuzieriai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "477075-477292; hash=82cd0ec208f1b64d5ab6f3b45a8738cc0c72a0f85d85dced301efdf11c850dd5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ginklai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "arkebuzieriai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Ginklai: mention_match, thing, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"arkebuzieriai\" parinktas kaip owner_note_path. Targetas \"Ginklai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-45500
 - susijęs iš [[objektai/asmenys/Vaina.md#claim-t-40499|Vaina]]: Rotmistro A. Vainos husarams buvo pasiųstos kelios kuršiečių reitarų kuopos kaip pastiprinimas.
 - susijęs iš [[objektai/grupes/Kuršiečiai.md#claim-t-40967|Kuršiečiai]]: Rotmistro A. Vainos husarams į pastiprinimą buvo pasiųstos kelios kuršiečių reitarų kuopos.
 - susijęs iš [[objektai/zodynas/muškietininkai.md#claim-t-42481|muškietininkai]]: Tercijos priekyje ir flanguose būdavo išrikiuojami muškietininkai.
@@ -47,6 +79,7 @@ Lietuvos arkebuzieriai rėmė ugnimi husarų ataką, o švedų arkibuzieriai sav
 
     galingais ginklais aprūpinti arkebuzieriai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -64,8 +97,45 @@ Lietuvos arkebuzieriai rėmė ugnimi husarų ataką, o švedų arkibuzieriai sav
     husarams buvo pasiųstas pastiprinimas —
     kelios kuršiečių reitarų kuopos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-45500
+  citata_originali: |
+    ie r. g“ sel
+
+    Flanguose Tercijos priekyje būdavo išrikiuojami
+    išrikiuota muškietininkai. Kitose tercijos rikiuotės
+    kavalerija vietose didžiąją dalį šaulių sudarė ne tokiais
+
+    galingais ginklais aprūpinti arkebuzieriai.
+  citata_rodoma: "g“ sel\n\nFlanguose Tercijos priekyje būdavo išrikiuojami\nišrikiuota muškietininkai. Kitose tercijos rikiuotės\nkavalerija vietose didžiąją dalį šaulių sudarė ne tokiais\n\ngalingais ginklais aprūpinti arkebuzieriai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-42431
+
+- id: c-45501
+  citata_originali: |
+    Rotmistro husarai
+    smogė priešininko pėstininkams. Lietuvos
+    arkebuzieriai rėmė ugnimi husarų ataką,
+    o švedų arkibuzieriai savo ugnimi sten-
+    gėsi husarus sulaikyti. Rotmistro A.Vainos
+    husarams buvo pasiųstas pastiprinimas —
+    kelios kuršiečių reitarų kuopos.
+  citata_rodoma: "Lietuvos\narkebuzieriai rėmė ugnimi husarų ataką,\no švedų arkibuzieriai savo ugnimi sten-\ngėsi husarus sulaikyti. Rotmistro A."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-42430

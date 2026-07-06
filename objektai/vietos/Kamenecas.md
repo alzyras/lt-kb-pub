@@ -12,6 +12,18 @@ tags:
   - kunigaikštis
   - valdovas
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kamenecas
 
@@ -24,37 +36,92 @@ tags:
 <a id="claim-t-86075"></a>
 - t-001
   global_id: t-86075
-  teiginys: 'Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas Podolės pilis.'
+  teiginys: "Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas Podolės pilis."
+  semantiniai_rysiai: "Kamenecas priklausė Podolė (0.82); Švitrigaila valdė Kamenecas (0.74)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "423262-424333; hash=3981265d982fd5fea8d6ad2c4bcc3e6ffc467f25faed1ee69a61c802b20ebace; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Podolė: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kamenecas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Podolė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Frazė tiesiogiai lokalizuoja Kamenecą tarp pilių Podolėje."
   pagrindžia:
-    - c-001
+    - c-82054
 
 <a id="claim-t-86076"></a>
 - t-002
   global_id: t-86076
-  teiginys: 'Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų Podolės pilių.'
+  teiginys: "Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų Podolės pilių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "424334-424805; hash=2ff665bb1565573323f6badeb2da1530ae7179ff52c3704e4f32e41c6439bb06; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Podolė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kamenecas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Podolė: mention_match, place, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kamenecas\" parinktas kaip owner_note_path. Targetas \"Podolė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-82055
 
 <a id="claim-t-184966"></a>
 - t-003
   global_id: t-184966
-  teiginys: 'Kamenecas buvo atimtas iš priešo po aštuonių apsiausties dienų.'
+  teiginys: "Kamenecas buvo atimtas iš priešo po aštuonių apsiausties dienų."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "479741-479993; hash=853325913ed73c113facbfadb06ec2bb5918daf4f5fd56b9f0e62b25f2ce6969; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-003
+    - c-168327
 
 <a id="claim-t-184967"></a>
 - t-004
   global_id: t-184967
-  teiginys: 'Vytautas už keturiasdešimt tūkstančių florinų atidavė karalystei ir karaliui Kamenecą, Smotričių, Skalą ir Červonogradą.'
+  teiginys: "Vytautas už keturiasdešimt tūkstančių florinų atidavė karalystei ir karaliui Kamenecą, Smotričių, Skalą ir Červonogradą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "600952-601424; hash=290280e80b76ca53e5f8f56ab732b848db5912369fa1a95ac55e872349624406; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kamenecas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kamenecas\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-168328
 
 <a id="claim-t-187579"></a>
 - t-005
   global_id: t-187579
-  teiginys: 'Moldavijos vaivada Steponas su turkų paša Malkoču kariavo Lenkijos žemėje nuo Kameneco iki Lvovo ir net Tarnovo.'
+  teiginys: "Moldavijos vaivada Steponas su turkų paša Malkoču kariavo Lenkijos žemėje nuo Kameneco iki Lvovo ir net Tarnovo."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "265487-265924; hash=e3e51e4e5dfa608bf7040a6998a7a471dd6513759a392b0521c2b6eb48f43992; match=ocr_normalized"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lvovas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kamenecas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lvovas: mention_match, place, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kamenecas\" parinktas kaip owner_note_path. Targetas \"Lvovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-005
+    - c-170527
 - susijęs iš [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis).md#claim-t-185986|Jonušas (Mazovijos kunigaikštis)]]: Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Poleksiją, užėmė Drohičiną, Melniką, Suražą bei Kamenecą.
 - susijęs iš [[objektai/zodynas/atamanas.md#claim-t-42433|atamanas]]: Karijotaičiai susidraugavo su vietiniais atamanais ir ėmė ginti Podolės žemę bei neduoti duoklės baskakams.
 - susijęs iš [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis).md#claim-t-185986|Jonušas (Mazovijos kunigaikštis)]]: Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Poleksiją, užėmė Drohičiną, Melniką, Suražą bei Kamenecą.
@@ -154,6 +221,7 @@ tags:
     apeigų Lietuvos kunigaikščių bei didikų - labiausiai iš kitų
     Algirdaičių tiko į didžiuosius kunigaikščius.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -174,6 +242,7 @@ tags:
     tinės Šv. Stanislovo katedroje jį iškilmingai paskelbė didžiuo­
     ju kunigaikščiu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -195,6 +264,7 @@ tags:
     ją, kur kas didesni rūpesčiai paragino skubėti į tėvy­
     nę.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -219,6 +289,7 @@ tags:
     Skalą, Červonogradą. Vėliau šių valdų vietininku kara­
     lius laikinai buvo paskyręs Spiteką.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -238,11 +309,123 @@ tags:
     Lvovo, ir net ligi Tamovo, už dešimties mylių nuo Kro­
     kuvos 4 3 . Sugrįžo, padarę Lenkijos žemei daug žalos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
+## Citatos
+
+- id: c-82054
+  citata_originali: |
+    Kazimiero mirtis —  Didysis kunigaikštis
+    Aleksandras suteikia Vilniui naujų privilegijų —  Jo vedybos su
+    didžiąja kunigaikštyte Elena —  Prašmatnios vestuvės Vilniuje —
+    Svečių namai - Sack Achmedas įkalinamas Vilniuje —  Miestas
+    sutvirtinamas siena nuo totorių antpuolių —  Vilniaus vyskupas
+    Albertas Taboras —  Aleksandro liga —  Alchemikas —  Karalius
+    Lydoje mirtinai suserga —  Totoriai žygiuoja į Lydą —  Karalių
+    gab ena į Vilnių —  Pergalė prie Kiecko —  Aleksandro mirtis
+    Vilniuje —  Vilniaus pilis Aleksandro laikais —  Monetų kalykla —
+    Dominikonai —  Vaistinė —  Gydy Lojai.
+    ---- • ----
+    209
+    III
+
+    ## Puslapis 226
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    Po Vytauto mirties karalius Vladislovas Jogaila netrukus
+    paskyrė savo vietininką Lietuvai. Švitrigaila, neseniai susi­
+    vienijęs su Vytautu, kuris jam buvo perleidęs Kamenecą ir
+    kitas pilis Podolėje, paskubėjo atvykti į Vilnių anksčiau nei
+    tas valdovas numirs ir, remiamas galingų šalininkų - rusų
+    apeigų Lietuvos kunigaikščių bei didikų - labiausiai iš kitų
+    Algirdaičių tiko į didžiuosius kunigaikščius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86075
+
+- id: c-82055
+  citata_originali: |
+    Jogaila taip pat
+    nesvyravo, ar jam, tikram broliui, pavesti savo valdžią Lie­
+    tuvoje, juolab kad žinojo, jog šį kartą aplenkdamas Švitri­
+    gailą, uoliai prisirišusį prie graikų tikėjimo ir todėl turintį
+    daug bičiulių, krašte sukeltų pilietinį karą1 . Taigi Švitrigaila
+    Lenkijos labui atsisakė Kameneco ir tolesnių pilių Podolė­
+    je2, ir Vilniaus vyskupas Mikalojus, karaliaus įsakymu, sos­
+    tinės Šv. Stanislovo katedroje jį iškilmingai paskelbė didžiuo­
+    ju kunigaikščiu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86076
+
+- id: c-168327
+  citata_originali: |
+    Praėjus kelioms
+    dienoms, pasidavė Suražas, vėliau po staigaus antpuolio
+    275
+
+    ## Puslapis 274
+
+    užėmė Melniką. Kamenecą atėmė iš priešo po as­
+    tuonių apsiausties dienų. Sėkmingai atgavus Poleksi-
+    ją, kur kas didesni rūpesčiai paragino skubėti į tėvy­
+    nę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184966
+
+- id: c-168328
+  citata_originali: |
+    Veikiau norėdamas len­
+    kus labiau palenkti į karalių, Vytautas galop sutiko nu­
+    sileisti, bet pareikalavo kaip atlyginimo keturiasdešimt
+    tūkstančių lenkų auksinų (vadinamųjų florinų). Kadan-
+    346
+
+    ## Puslapis 345
+
+    gi valstybės iždas buvo dėl karų ištuštėjęs, Vytautas,
+    Spitekui iš Melštino, Krokuvos vaivadai, parūpinus pini­
+    gų, atidavė karalystei ir karaliui Kamenecą, Smotričių,
+    Skalą, Červonogradą. Vėliau šių valdų vietininku kara­
+    lius laikinai buvo paskyręs Spiteką.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184967
+
+- id: c-170527
+  citata_originali: |
+    Tais pačiais metais Lietuvos žemę ištiko baisus ba­
+    das, ir paplito žmonėse prancūziškos ligos4 0 . Paskui,
+    sekančių metų vasarą bei rudenį4 I, atėjo Moldavijos
+    vaivada Steponas, o su juo — turkų sultono didysis pa­
+    ša, vardu Malkočas 4 2 , vedinas daugeliu žmonių, ir ka­
+    riavo po Lenkijos žemę, Kamenecu pradedant, ir ligi
+    Lvovo, ir net ligi Tamovo, už dešimties mylių nuo Kro­
+    kuvos 4 3 . Sugrįžo, padarę Lenkijos žemei daug žalos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187579
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Švitrigaila]]

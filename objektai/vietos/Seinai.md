@@ -17,6 +17,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Seinai
 
@@ -27,11 +39,21 @@ Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos v
 ## Teiginiai
 
 <a id="claim-t-181449"></a>
-- t-001
+- t-015
   global_id: t-181449
-  teiginys: 'Ratifikavus sutartį Lietuva neteko teisės reikšti teritorinių pretenzijų į Seinus ir Punską.'
+  teiginys: "Ratifikavus sutartį Lietuva neteko teisės reikšti teritorinių pretenzijų į Seinus ir Punską."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "526760-527239; hash=233c82bfb9cb89c0ffa5194b32e45af0a3396e3f76d6091ceebade0f6e157906; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Punskas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Seinai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Punskas: mention_match, place, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Seinai\" parinktas kaip owner_note_path. Targetas \"Punskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-165000
 - susijęs iš [[objektai/asmenys/K. Ramanauskas.md#claim-t-40252|K. Ramanauskas]]: Mjr. K. Ramanausko grupė turėjo iš Beržininko žygiuoti per Gibus ir Seinus prie Augustavo esančio Kaleitų ežero link.
 - susijęs iš [[objektai/ivykiai/Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga).md#claim-t-66458|Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)]]: 1920 m. rugsėjo 22 d. lenkai slapta pergrupavo pajėgas ir pradėjo puolimą ties Seinais bei Kapčiamiesčiu.
 - susijęs iš [[objektai/ivykiai/Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę.md#claim-t-66638|Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę]]: Kresmenos valsčiaus ieškoma ir į šiaurės rytus nuo Skomanto ežero, tarp Suvalkų ir Seinų.
@@ -68,11 +90,31 @@ Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos v
     se įgijo sieną su Rusija, Kaliningrado sritimi, Potsdamo konferencijoje
     atiduota 50-čiai metų administruoti SSRS.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-165000
+  citata_originali: |
+    Ra-
+    tifikavus sutartį ir įsigaliojus jos nuostatoms, Lenkija oficialiai atsisakė
+    bet kokių pretenzijų į Vilniaus kraštą. Savo ruožtu Lietuva nustojo teisės
+    reikšti savo teritorines pretenzijas į Seinus, Punską, nors sena istorija, tau-
+    tinių mažumų klausimas kartais dar kelia karštas diskusijas.
+    Atkūrusios nepriklausomybę Lietuvos valstybės teritorija Vakaruo-
+    se įgijo sieną su Rusija, Kaliningrado sritimi, Potsdamo konferencijoje
+    atiduota 50-čiai metų administruoti SSRS.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181449
 
 ## Ryšiai
 - Buvo žygio kryptis: [[objektai/asmenys/K. Ramanauskas]]

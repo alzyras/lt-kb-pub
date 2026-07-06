@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # skleistinė rikiuotė
 
@@ -19,10 +31,12 @@ Pėstininkams judant skleistinėse rikiuotėse miškinga arba raižyta vietove n
 <a id="claim-t-38776"></a>
 - t-001
   global_id: t-38776
-  teiginys: 'Pėstininkams judant skleistinėse rikiuotėse miškinga arba raižyta vietove neįmanoma išlaikyti reikiamo lygiavimo.'
+  teiginys: "Pėstininkams judant skleistinėse rikiuotėse miškinga arba raižyta vietove neįmanoma išlaikyti reikiamo lygiavimo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "564500-564804; hash=43753bb10eba9a745b20a201ebb4cacbca00e1033aad910ab77bce37e6c5004a; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
-
+    - c-40580
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -34,8 +48,25 @@ Pėstininkams judant skleistinėse rikiuotėse miškinga arba raižyta vietove n
     praradus rikiuotę, vienose vietose atsirastų dideli tarpai tarp pada-
     linių, kitur - kariai susigrūstų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-40580
+  citata_originali: |
+    Linijinei taktikai netikdavo bet kokia vietovė, ji turėjo būti gan
+    lygi. Pėstininkams judant skleistinėse rikiuotėse miškinga arba rai-
+    žyta vietove neįmanoma išlaikyti reikiamo lygiavimo. Batalionams
+    praradus rikiuotę, vienose vietose atsirastų dideli tarpai tarp pada-
+    linių, kitur - kariai susigrūstų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-38776

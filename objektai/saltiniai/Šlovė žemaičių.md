@@ -18,6 +18,18 @@ tags:
 amziai:
   - 'XVIII'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Šlovė žemaičių
 
@@ -28,19 +40,43 @@ poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje buvo
 ## Teiginiai
 
 <a id="claim-t-75538"></a>
-- t-001
+- t-002
   global_id: t-75538
-  teiginys: 'Simono Stanevičiaus poezijos knygoje išspausdintas eilėraštis „Šlovė žemaičių“ laikytas etninių lietuvių tautinio kultūrinio sąjūdžio poetiniu manifestu.'
+  teiginys: "Simono Stanevičiaus poezijos knygoje išspausdintas eilėraštis „Šlovė žemaičių“ laikytas etninių lietuvių tautinio kultūrinio sąjūdžio poetiniu manifestu."
+  temporaliniai_duomenys: "įvykio data: 1822 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys per ilgas ir apima pašalinius faktus, todėl sutelktas į eilėraštį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "209382-209952; hash=0887ca2056a4c2e720ed94bff6fe910f4b2e080c01aa8b27f6dcb7bb2703fcbe; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šlovė žemaičių: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šlovė žemaičių\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-73289
 
 <a id="claim-t-75539"></a>
-- t-002
+- t-001
   global_id: t-75539
-  teiginys: 'Eilėraštis „Šlovė žemaičių“ laikytas kone šio sąjūdžio himnu ar poetiniu manifestu.'
+  teiginys: "Eilėraštis „Šlovė žemaičių“ laikytas kone šio sąjūdžio himnu ar poetiniu manifestu."
+  temporaliniai_duomenys: "įvykio data: 1822 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "209382-209952; hash=0887ca2056a4c2e720ed94bff6fe910f4b2e080c01aa8b27f6dcb7bb2703fcbe; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> S. Daukantas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šlovė žemaičių: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "S. Daukantas: mention_match, author, gap=34"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šlovė žemaičių\" parinktas kaip owner_note_path. Targetas \"S. Daukantas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-73289
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -59,9 +95,35 @@ poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje buvo
     parašė pirmąją didelę Lietuvos istoriją lietuvių kalba, ji tarp entuziastų
     plito nuorašais.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+
+## Citatos
+
+- id: c-73289
+  citata_originali: |
+    Ši grupelė ir lai-
+    koma etninių lietuvių tautinio
+    kultūrinio sąjūdžio pradininkais.
+    Parašytas ir išleistas tiems lai-
+    kams novatoriškas elementorius
+    lietuvių kalba (žemaičių tarme),
+    poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje
+    buvo ir eilėraštis „Šlovė žemaičių“ – kone šio sąjūdžio himnas ar poetinis
+    manifestas, teigęs, kad žemaičių (lietuvių), kaip tautos, palaidoti nepa-
+    vyks. Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m.
+    parašė pirmąją didelę Lietuvos istoriją lietuvių kalba, ji tarp entuziastų
+    plito nuorašais.
+  citata_rodoma: "Ši grupelė ir lai-\nkoma etninių lietuvių tautinio \nkultūrinio sąjūdžio pradininkais. \nParašytas ir išleistas tiems lai-\nkams novatoriškas elementorius \nlietuvių kalba (žemaičių tarme), \npoetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje \nbuvo ir eilėraštis „Šlovė žemaičių“ – kone šio sąjūdžio himnas ar poetinis \nmanifestas, teigęs, kad žemaičių (lietuvių), kaip tautos, palaidoti nepa-\nvyks. Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75538
+    - t-75539

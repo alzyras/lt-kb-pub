@@ -14,6 +14,18 @@ atnaujinta: ''
 amziai:
   - 'XVI'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kariuomenės lauko stovyklos įrengimas apsupant vežimais
 
@@ -44,33 +56,83 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78696"></a>
-- t-001
+- t-004
   global_id: t-78696
-  teiginys: 'Kariuomenė stovykloje apsisupdavo amuniciją, proviantą ir kitus daiktus gabenusiais vežimais, palikdama tik kelis praėjimus.'
+  teiginys: "Kariuomenė stovykloje apsisupdavo amuniciją, proviantą ir kitus daiktus gabenusiais vežimais, palikdama tik kelis praėjimus."
+  temporaliniai_duomenys: "įvykio data: 1575 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis tekstas yra nutrūkusi citatos ištrauka."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "364815-365373; hash=3e128ee07fd0c40b87ac10f2b41b53968a896579b95c7c5c801b3a423dc40e95; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vežimai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kariuomenės lauko stovyklos įrengimas apsupant vežimais: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vežimai: mention_match, thing, gap=84"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kariuomenės lauko stovyklos įrengimas apsupant vežimais\" parinktas kaip owner_note_path. Targetas \"Vežimai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-75904
 
 <a id="claim-t-78697"></a>
-- t-002
+- t-005
   global_id: t-78697
-  teiginys: 'Susibūrusi kariuomenė lauko stovyklą apsupdavo amunicijos ir provianto vežimais, palikdama tik kelis saugomus praėjimus.'
+  teiginys: "Susibūrusi kariuomenė lauko stovyklą apsupdavo amunicijos ir provianto vežimais, palikdama tik kelis saugomus praėjimus."
+  temporaliniai_duomenys: "įvykio data: 1564 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas nutrūkęs fragmentas ir OCR triukšmas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "365067-365510; hash=32eadc164ad39eb8becb8379e03f2b98e25f685f8b333e945bebfbbd92704a8c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vežimai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kariuomenės lauko stovyklos įrengimas apsupant vežimais: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vežimai: mention_match, thing, gap=60"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kariuomenės lauko stovyklos įrengimas apsupant vežimais\" parinktas kaip owner_note_path. Targetas \"Vežimai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-43161
 
 <a id="claim-t-78698"></a>
-- t-003
+- t-006
   global_id: t-78698
-  teiginys: ') Lenkijos ir Lietuvos kariuomenių stovyklos aprašymo.'
+  teiginys: ") Lenkijos ir Lietuvos kariuomenių stovyklos aprašymo."
+  temporaliniai_duomenys: "įvykio data: 1575 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "364815-365373; hash=3e128ee07fd0c40b87ac10f2b41b53968a896579b95c7c5c801b3a423dc40e95; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Artilerija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kariuomenės lauko stovyklos įrengimas apsupant vežimais: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Artilerija: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kariuomenės lauko stovyklos įrengimas apsupant vežimais\" parinktas kaip owner_note_path. Targetas \"Artilerija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-75904
 
 <a id="claim-t-78699"></a>
-- t-004
+- t-003
   global_id: t-78699
-  teiginys: 'Vežimais apsuptoje kariuomenės lauko stovykloje prie kelių praėjimų statydavo artilerijos pabūklus, o už vežimų iškasdavo ilgą griovį.'
+  teiginys: "Vežimais apsuptoje kariuomenės lauko stovykloje prie kelių praėjimų statydavo artilerijos pabūklus, o už vežimų iškasdavo ilgą griovį."
+  temporaliniai_duomenys: "įvykio data: 1564 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai susietas su stovyklos įrengimo praktika."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "365067-365510; hash=32eadc164ad39eb8becb8379e03f2b98e25f685f8b333e945bebfbbd92704a8c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Artilerija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kariuomenės lauko stovyklos įrengimas apsupant vežimais: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Artilerija: mention_match, thing, gap=78"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kariuomenės lauko stovyklos įrengimas apsupant vežimais\" parinktas kaip owner_note_path. Targetas \"Artilerija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-43161
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -84,6 +146,7 @@ Nenurodyta
 
     1564 m. sausio 23 d. ULOS (CASNIKY) MŪŠIS 89
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -103,9 +166,49 @@ Nenurodyta
     praėjimai, prie kurių saugumo sumetimais statomi artilerijos pabūklai, kurių esama labai
     daug, tik nelabai didelių; išorėje už vežimų iškasamas ilgas ir platus griovys.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
     - t-001
+
+## Citatos
+
+- id: c-43161
+  citata_originali: |
+    Susibūrusi į vieną vietą, visa kariuomenė ap-
+    sisupa vežimais, kuriais gabenama amunicija, proviantas ir kiti dalykai: paliekami tik keli
+    praėjimai, prie kurių saugumo sumetimais statomi artilerijos pabūklai, kurių esama labai
+    daug, tik nelabai didelių; išorėje už vežimų iškasamas ilgas ir platus griovys. Tokiu būdu
+    kariai jaučiasi ne mažiau saugūs nei gerai įtvirtintame ir apsaugotame mieste.“
+
+    1564 m. sausio 23 d. ULOS (CASNIKY) MŪŠIS 89
+  citata_rodoma: "Susibūrusi į vieną vietą, visa kariuomenė ap-\nsisupa vežimais, kuriais gabenama amunicija, proviantas ir kiti dalykai: paliekami tik keli\npraėjimai, prie kurių saugumo sumetimais statomi artilerijos pabūklai, kurių esama labai\ndaug, tik nelabai didelių; išorėje už vežimų iškasamas ilgas ir platus griovys. Tokiu būdu\nkariai jaučiasi ne mažiau saugūs nei gerai įtvirtintame ir apsaugotame mieste.“\n\n1564 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78697
+    - t-78699
+
+- id: c-75904
+  citata_originali: |
+    Ištrauka iš Venecijos pasiuntinio Girolamo Lippomano (1575 m.) Lenkijos ir Lietuvos
+    kariuomenių stovyklos aprašymo.
+
+    „Nenutylėsiu ir būdo, kuriuo ši kariuomenė paprastai įsikuria stovyklose, nes šis būdas
+    labai skiriasi nuo kitų ir dėl to pažymėtinas. Susibūrusi į vieną vietą, visa kariuomenė ap-
+    sisupa vežimais, kuriais gabenama amunicija, proviantas ir kiti dalykai: paliekami tik keli
+    praėjimai, prie kurių saugumo sumetimais statomi artilerijos pabūklai, kurių esama labai
+    daug, tik nelabai didelių; išorėje už vežimų iškasamas ilgas ir platus griovys.
+  citata_rodoma: ") Lenkijos ir Lietuvos\nkariuomenių stovyklos aprašymo.\n\n„Nenutylėsiu ir būdo, kuriuo ši kariuomenė paprastai įsikuria stovyklose, nes šis būdas\nlabai skiriasi nuo kitų ir dėl to pažymėtinas. Susibūrusi į vieną vietą, visa kariuomenė ap-\nsisupa vežimais, kuriais gabenama amunicija, proviantas ir kiti dalykai: paliekami tik keli\npraėjimai, prie kurių saugumo sumetimais statomi artilerijos pabūklai, kurių esama labai\ndaug, tik nelabai didelių; išorėje už vežimų iškasamas ilgas ir platus griovys."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78698
+    - t-78696

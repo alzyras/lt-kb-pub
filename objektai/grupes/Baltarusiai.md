@@ -11,6 +11,18 @@ tags:
   - grupe
   - kraštas
   - tauta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Baltarusiai
 
@@ -19,28 +31,54 @@ tags:
 – baltarusiai, rusai ir ukrainiečiai kartu sudėjus. Ji propagavo autonominės Lietuvos, buvusios LDK ribose, idėją, kaip daugiakultūrį lietuvių, lenkų, baltarusių, tam tikra prasme ir žydų valstybinį darinį, kuriame pirmųjų trijų tautų kalbos turėtų valstybinį statusą.
 
 ## Teiginiai
+
 <a id="claim-t-187870"></a>
-- t-001
+- t-002
   global_id: t-187870
-  teiginys: 'Kraštiečių demokratų srovė siūlė, kad autonominėje Lietuvoje LDK ribose lietuvių, lenkų ir baltarusių kalbos turėtų valstybinį statusą.'
+  teiginys: "Kraštiečių demokratų srovė siūlė, kad autonominėje Lietuvoje LDK ribose lietuvių, lenkų ir baltarusių kalbos turėtų valstybinį statusą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Įvardytas subjektas ir išlaikytas citatos teiginys apie baltarusių kalbos statusą."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lenkija; mentioned_place: Lietuva"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "240774-241473; hash=4be84b667bf7f583276f2aac105548caaa13f4a6d6ef510900c2e08249e0c530; match=whitespace_regex"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
   pagrindžia:
-    - c-001
+    - c-170850
 
 <a id="claim-t-187871"></a>
-- t-002
+- t-001
   global_id: t-187871
-  teiginys: 'Kraštiečių demokratų srovė autonominę Lietuvą LDK ribose įsivaizdavo kaip daugiakultūrį lietuvių, lenkų, baltarusių ir iš dalies žydų darinį.'
+  teiginys: "Kraštiečių demokratų srovė autonominę Lietuvą LDK ribose įsivaizdavo kaip daugiakultūrį lietuvių, lenkų, baltarusių ir iš dalies žydų darinį."
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Įvardytas neaiškus įvardis ir sakinys susietas su baltarusių paminėjimu."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "240388-241340; hash=f608f6d9f44657fe4f6a6f0315e4270a0563ccff4747d9cf6e634774cfd0b29b; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
   pagrindžia:
-    - c-003
+    - c-170852
 
 <a id="claim-t-187872"></a>
 - t-003
   global_id: t-187872
-  teiginys: 'Baltarusiai įtraukiami į Istorinės Lietuvos, arba Lietuvos Didžiosios Kunigaikštystės, politinio, socialinio ir kultūrinio paveldo arealą.'
+  teiginys: "Baltarusiai įtraukiami į Istorinės Lietuvos, arba Lietuvos Didžiosios Kunigaikštystės, politinio, socialinio ir kultūrinio paveldo arealą."
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "2605-3074; hash=a128300b4d7629bf2389c1341e5def6cae04c8636e560291d37df73c1e2891b2; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Baltarusiai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Baltarusiai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-004
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-170851
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169696|Lietuvos Didžioji Kunigaikštija]]: Po antrojo Abiejų Tautų Respublikos padalijimo Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės.
 - susijęs iš [[objektai/grupes/Rusėnai.md#claim-t-74906|Rusėnai]]: LDK slavų rusėnų tauta formavosi atskirai nuo Maskvos rusų, o iš jos vėliau kilo šiuolaikinės baltarusių ir ukrainiečių tautos.
 - susijęs iš [[objektai/ivykiai/Antrasis LLV padalijimas.md#claim-t-20165|Antrasis LLV padalijimas]]: Po antrojo LLV padalijimo Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės.
@@ -56,12 +94,14 @@ tags:
 - susijęs iš [[objektai/zodynas/mokytojų seminarija.md#claim-t-72703|mokytojų seminarija]]: 1864 m. Molodečne įsteigta mokytojų seminarija negalėjo parengti pakankamai mokytojų Lietuvos ir baltarusių švietimo apygardoms.
 - susijęs iš [[objektai/zodynas/tuteišiai.md#claim-t-183480|tuteišiai]]: Tuteišiais vadinti rytinių ir pietrytinių lietuviškų žemių gyventojai, praradę lietuvio, bet neįgiję baltarusio etninės savimonės.
 - susijęs iš [[objektai/zodynas/tuteišiai.md#claim-t-45860|tuteišiai]]: Tuteišiais vadinti rytinių ir pietrytinių lietuviškų žemių gyventojai, praradę lietuvio, bet neįgiję baltarusio etninės savimonės.
+- susijęs iš [[objektai/zodynas/pilkapis.md#claim-t-192277|pilkapis]]: Teodoras Narbutas baltarusių pilkapių horizontalų pjūvį apibūdina kaip šiek tiek suplotos elipsės formą.
 - susijęs iš [[objektai/asmenys/Bazilijus Ciapinskis.md#claim-t-18848|Bazilijus Ciapinskis]]: Rusėnų ir baltarusių spaustuvininkas Bazilijus Ciapinskis antrojoje XVI a. pusėje spausdino raštus dviem stulpeliais.
 - susijęs iš [[objektai/asmenys/Bogdanas Chmelnickis.md#claim-t-186100|Bogdanas Chmelnickis]]: Kojelavičius Bogdano Chmelnickio vadovautą ukrainiečių sukilimą vadino Rusios baudžiauninkų sukilimu.
 - susijęs iš [[objektai/asmenys/Dominykas Semaško.md#claim-t-63540|Dominykas Semaško]]: Dominyko Semaškos argumentais Lietuvos delegacija rėmėsi derybose su Sovietų Rusija dėl didesnės teritorijos Rytuose.
 - susijęs iš [[objektai/asmenys/Juzefas Pilsudskis.md#claim-t-101666|Juzefas Pilsudskis]]: Juzefas Pilsudskis rėmė buvusios dvilypės Lenkijos ir Lietuvos valstybės atkūrimą, įsivaizduodamas ją kaip federaciją.
 - susijęs iš [[objektai/asmenys/Juzefas Pilsudskis.md#claim-t-101669|Juzefas Pilsudskis]]: Juzefo Pilsudskio šalininkai rėmė ryžtingą kovą pirmiausia prieš Rusiją ir nevengė teroristinių veiksmų.
 - susijęs iš [[objektai/asmenys/Konstantinas Kalinauskas.md#claim-t-63837|Konstantinas Kalinauskas]]: 1863 m. pabaigoje Konstantinas Kalinauskas pateko į sukilimo slopintojų rankas ir netrukus buvo viešai pakartas.
+- susijęs iš [[objektai/asmenys/Ksaveras Bogušas.md#claim-t-190918|Ksaveras Bogušas]]: Ksaveras Bogušas manė, kad slavų skoliniai lietuvių kalboje nereikalingi, nes lietuvis jiems gali rasti savo kalbos atitikmenų.
 - susijęs iš [[objektai/asmenys/M. E. Andriolli.md#claim-t-26453|M. E. Andriolli]]: M. E. Andriolli nutapė 1863 m. sukilimo sceną, kurioje jis iš mūšio lauko prie Dubičių išneša žuvusį kovų draugą.
 - susijęs iš [[objektai/asmenys/Mykolas Sleževičius.md#claim-t-75989|Mykolas Sleževičius]]: Mykolas Sleževičius žadėjo dalyti lenkų dvarininkų žemę bežemiams ir mažažemiams, todėl dauguma gyventojų parėmė vyriausybę.
 - susijęs iš [[objektai/asmenys/Mykolas Sleževičius.md#claim-t-75990|Mykolas Sleževičius]]: Mykolas Sleževičius nepriklausomybės kovose konsolidavo centrinę administraciją ir kvietė tautines mažumas priešintis įsiveržėliams.
@@ -87,6 +127,7 @@ tags:
 - susijęs iš [[objektai/posakiai/„niekuomet nebuvo karo padėtyje“ „nedraugiškas aktas“.md#claim-t-20927|„niekuomet nebuvo karo padėtyje“ „nedraugiškas aktas“]]: Lietuviai patenkino A. Jofės prašymą įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebuvo karo padėtyje“.
 - susijęs iš 1920 m. liepos 12 d. taika su Sovietų Rusija: Lietuviai sutiko įrašyti Adolfo Jofės prašytą nuostatą, kad Lietuva ir Sovietų Rusija niekuomet nebuvo karo padėtyje.
 - susijęs iš 1920 m. liepos 12 d. taika su Sovietų Rusija: Lietuviai sutiko įrašyti Adolfo Jofės prašytą nuostatą, kad Lietuva ir Sovietų Rusija niekuomet nebuvo karo padėtyje.
+- susijęs iš Ksaveras Bogušas, Rozprawa o począt. Nar. i jęz. Lit: Ksaveras Bogušas, Narbuto perteikimu, slavų kalbos priemaišas lietuvių kalboje laikė nereikalingomis, nes lietuvis galįs rasti lietuviškų atitikmenų.
 - susijęs iš LLV ir Rusijos taikos sutartis (1793 m.): 1793 m. Gardino Seimas turėjo pritarti naujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą.
 - susijęs iš Lietuvos Statutai: Lietuvos Statutai buvo parašyti oficialiąja LDK raštų kalba, kuri XVI–XVIII a. vadinta lietuvių kalba.
 - susijęs iš Lietuvos ir Sovietų Rusijos taikos sutartis (1920 m. liepos 12 d.): Lietuviai sutiko į 1920 m. taikos sutartį įrašyti, kad Lietuva ir Sovietų Rusija niekada nebuvo karo padėtyje.
@@ -104,9 +145,11 @@ tags:
 - susijęs iš [[objektai/zodynas/istorinė Lietuva.md#claim-t-75551|istorinė Lietuva]]: XVI–XVIII a. LDK bajorai, nepaisydami etninės kilmės, laikė save lietuviais.
 - susijęs iš [[objektai/zodynas/istorinė Lietuva.md#claim-t-75555|istorinė Lietuva]]: XVI-XVIII a. LDK bajorai, nepaisydami etninės kilmės, laikė save lietuviais.
 - susijęs iš [[objektai/zodynas/mokytojų seminarija.md#claim-t-72705|mokytojų seminarija]]: 1872 m. Panevėžyje įsteigta mokytojų seminarija rengė mokytojus visai Lietuvai, išskyrus Užnemunę.
+- susijęs iš [[objektai/zodynas/pilkapis.md#claim-t-192277|pilkapis]]: Teodoras Narbutas baltarusių pilkapių horizontalų pjūvį apibūdina kaip šiek tiek suplotos elipsės formą.
 - susijęs iš [[objektai/zodynas/rusėnų kalba LDK raštų kalba.md#claim-t-169932|rusėnų kalba LDK raštų kalba]]: Besiformuojanti rusėnų raštija ankstyvojoje Lietuvos istorijoje virto oficialia LDK raštų kalba.
 - susijęs iš [[objektai/zodynas/senalietuviai jaunalietuviai.md#claim-t-26556|senalietuviai jaunalietuviai]]: Nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino litvinais arba senalietuviais, bet dauguma jų integravosi į lenkų tautą.
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -121,11 +164,33 @@ tags:
     valstybė, ji galėtų konfederacijos arba lygiateisės federacijos ryšiais susisie-
     ti su Lenkija.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Baltarusiai įtraukiami į Istorinės Lietuvos, arba Lietuvos Didžiosios Kunigaikštystės, politinio, socialinio ir kultūrinio paveldo arealą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Nuo aušrininkų laikų įsigalėjusi vienmatė lietuvio samprata
+    trukdė mūsų istorinei sąmonei tinkamai atspindėti istorinį Lie­
+    tuvos palikimą. Juk Lietuvos istorija -  tai ne vien pagoniškas
+    tikėjimas, Vytauto galybė, Simonas Daukantas ir žemaičių ba­
+    jorų kultūrinis sąjūdis bei Vasario 16-osios signatarai. Istorinė
+    Lietuva, arba Lietuvos Didžioji Kunigaikštystė, -  tai lietuvių,
+    lenkų, žydų, baltarusių, ukrainiečių politinio, socialinio, kul­
+    tūrinio paveldo arealas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003
+
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -143,14 +208,36 @@ tags:
     baltarusių, tam tikra prasme ir žydų valstybinį darinį, kuriame pirmųjų trijų
     tautų kalbos turėtų valstybinį statusą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-- c-004
-  santrauka: 'Baltarusiai įtraukiami į Istorinės Lietuvos, arba Lietuvos Didžiosios Kunigaikštystės, politinio, socialinio ir kultūrinio paveldo arealą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+
+## Citatos
+
+- id: c-170850
+  citata_originali: |
+    Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kai-
+    riųjų, į komunistinę revoliuciją ir vadinamąjį proletarinį internacionalizmą
+    besiorientavusios, nelegaliai veikusios organizacijos, vienas kitas intelektua-
+    las, taip pat negausi LDK valstybingumo idėjos mylėtojų, vadinamoji „kraš-
+    tiečių“ (lenkiškai „krajovcų“) demokratų srovė. Ji propagavo autonominės
+    Lietuvos, buvusios LDK ribose, idėją, kaip daugiakultūrį lietuvių, lenkų,
+    baltarusių, tam tikra prasme ir žydų valstybinį darinį, kuriame pirmųjų trijų
+    tautų kalbos turėtų valstybinį statusą. Jei šis darinys taptų nepriklausoma
+    valstybė, ji galėtų konfederacijos arba lygiateisės federacijos ryšiais susisie-
+    ti su Lenkija.
+  citata_rodoma: "Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kai-\nriųjų, į komunistinę revoliuciją ir vadinamąjį proletarinį internacionalizmą \nbesiorientavusios, nelegaliai veikusios organizacijos, vienas kitas intelektua-\nlas, taip pat negausi LDK valstybingumo idėjos mylėtojų, vadinamoji „kraš-\ntiečių“ (lenkiškai „krajovcų“) demokratų srovė. Ji propagavo autonominės \nLietuvos, buvusios LDK ribose, idėją, kaip daugiakultūrį lietuvių, lenkų, \nbaltarusių, tam tikra prasme ir žydų valstybinį darinį, kuriame pirmųjų trijų \ntautų kalbos turėtų valstybinį statusą. Jei šis darinys taptų nepriklausoma \nvalstybė, ji galėtų konfederacijos arba lygiateisės federacijos ryšiais susisie-\nti su Lenkija."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187870
+
+- id: c-170851
   citata_originali: |
     Nuo aušrininkų laikų įsigalėjusi vienmatė lietuvio samprata
     trukdė mūsų istorinei sąmonei tinkamai atspindėti istorinį Lie­
@@ -160,11 +247,36 @@ tags:
     Lietuva, arba Lietuvos Didžioji Kunigaikštystė, -  tai lietuvių,
     lenkų, žydų, baltarusių, ukrainiečių politinio, socialinio, kul­
     tūrinio paveldo arealas.
-  citata_rodoma: ""
+  citata_rodoma: "Istorinė\nLietuva, arba Lietuvos Didžioji Kunigaikštystė, -  tai lietuvių,\nlenkų, žydų, baltarusių, ukrainiečių politinio, socialinio, kul­\ntūrinio paveldo arealas."
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
+  pagrindzia:
+    - t-187872
+
+- id: c-170852
+  citata_originali: |
+    Propagandos lygmeniu vyko konkurencinė kova tarp skirtingos ideo-
+    loginės pakraipos politinių grupuočių (neretai pasivadinusių partijomis),
+    veikusių atskirai lietuvių ir lenkų bendruomenių vardu, kurios daugiau ar
+    mažiau laikėsi atitinkamai arba lietuvių, arba lenkų etnolingvistinio naci-
+    onalizmo pozicijų ir a priori kitos pusės siekius laikė priešiškais ir iš esmės
+    neteisėtais. Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kai-
+    riųjų, į komunistinę revoliuciją ir vadinamąjį proletarinį internacionalizmą
+    besiorientavusios, nelegaliai veikusios organizacijos, vienas kitas intelektua-
+    las, taip pat negausi LDK valstybingumo idėjos mylėtojų, vadinamoji „kraš-
+    tiečių“ (lenkiškai „krajovcų“) demokratų srovė. Ji propagavo autonominės
+    Lietuvos, buvusios LDK ribose, idėją, kaip daugiakultūrį lietuvių, lenkų,
+    baltarusių, tam tikra prasme ir žydų valstybinį darinį, kuriame pirmųjų trijų
+    tautų kalbos turėtų valstybinį statusą.
+  citata_rodoma: "Propagandos lygmeniu vyko konkurencinė kova tarp skirtingos ideo-\nloginės pakraipos politinių grupuočių (neretai pasivadinusių partijomis), \nveikusių atskirai lietuvių ir lenkų bendruomenių vardu, kurios daugiau ar \nmažiau laikėsi atitinkamai arba lietuvių, arba lenkų etnolingvistinio naci-\nonalizmo pozicijų ir a priori kitos pusės siekius laikė priešiškais ir iš esmės \nneteisėtais. Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kai-\nriųjų, į komunistinę revoliuciją ir vadinamąjį proletarinį internacionalizmą \nbesiorientavusios, nelegaliai veikusios organizacijos, vienas kitas intelektua-\nlas, taip pat negausi LDK valstybingumo idėjos mylėtojų, vadinamoji „kraš-\ntiečių“ (lenkiškai „krajovcų“) demokratų srovė. Ji propagavo autonominės \nLietuvos, buvusios LDK ribose, idėją, kaip daugiakultūrį lietuvių, lenkų, \nbaltarusių, tam tikra prasme ir žydų valstybinį darinį, kuriame pirmųjų trijų \ntautų kalbos turėtų valstybinį statusą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187871
 
 ## Ryšiai
 - Baltarusiai gyveno [[objektai/vietos/Polesė]]

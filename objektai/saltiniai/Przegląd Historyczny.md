@@ -16,6 +16,18 @@ tags:
 amziai:
   - 'XIX'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Przegląd Historyczny
 
@@ -28,10 +40,22 @@ PH = Przegląd Historyczny, Varšuvoje nuo 1910 m. leidžiamas žurn.
 <a id="claim-t-31896"></a>
 - t-001
   global_id: t-31896
-  teiginys: '„Przegląd Historyczny“ yra nuo 1910 m. Varšuvoje leidžiamas žurnalas.'
+  teiginys: "„Przegląd Historyczny“ yra nuo 1910 m. Varšuvoje leidžiamas žurnalas."
+  temporaliniai_duomenys: "įvykio data: po 1910 m.; įvykio data: 1910 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas santrumpų sąrašo paaiškinimu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "38962-39434; hash=980b2ab3160be8937ae644938147ba97246a0914f3f1e5e88f77ddefb18a8ef0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Varšuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Przegląd Historyczny: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Varšuva: mention_match, place, gap=38"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Przegląd Historyczny\" parinktas kaip owner_note_path. Targetas \"Varšuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-33699
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -48,8 +72,31 @@ PH = Przegląd Historyczny, Varšuvoje nuo 1910 m. leidžiamas žurn.
     žurn.
     PHW = Przegląd Historyczno - Wojskowy.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33699
+  citata_originali: |
+    PfiW = Pfltzner, J. : Großfürst Witold von Litauen als Staatsmann
+    (Schriften der Philosophischen Fakultät der Deutschen
+    Universität in Prag, t. 6), Brünnas-Praga-Leipcigas-Viena
+    1930 (liet. vertimas J. Talmanto, Didysis Lietuvos Kuni­
+    gaikštis Vytautas kaip politikas, Kaunas (Švietimo Ministe­
+    rijos Knygų Leidimo Komisijos leidinys), 1930 - Vytauto
+    Didžiojo metai).
+    PH = Przegląd Historyczny, Varšuvoje nuo 1910 m. leidžiamas
+    žurn.
+    PHW = Przegląd Historyczno - Wojskowy.
+  citata_rodoma: "PH = Przegląd Historyczny, Varšuvoje nuo 1910 m. leidžiamas\nžurn.\nPHW = Przegląd Historyczno - Wojskowy."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31896

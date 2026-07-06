@@ -17,6 +17,18 @@ tags:
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Įsrutis
 
@@ -27,18 +39,47 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
 ## Teiginiai
 
 <a id="claim-t-182881"></a>
-- t-001
+- t-026
   global_id: t-182881
-  teiginys: '1336 m. nadruvių plote buvo pastatyta didelė keturių bokštų Įsruties pilis.'
+  teiginys: "1336 m. nadruvių plote buvo pastatyta didelė keturių bokštų Įsruties pilis."
+  temporaliniai_duomenys: "pastatymo data: 1336 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir perteikta pagrindinė citatos faktinė informacija."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "703264-703847; hash=524bbfce96bab9b4d281472b939ddf3cb0c14fb1f06f38d93d4ac5ba3497e0e0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bokštai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Įsrutis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Bokštai: mention_match, place, gap=7"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Įsrutis\" parinktas kaip owner_note_path. Targetas \"Bokštai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-166285
 
 <a id="claim-t-183818"></a>
-- t-002
+- t-027
   global_id: t-183818
-  teiginys: 'Maršalas organizavo žygį iš Įsruties į Kauną ir, anot šaltinyje cituojamos frazės, „atnešė stabmeldžiams visokių nelaimių“.'
+  teiginys: "Maršalas organizavo žygį iš Įsruties į Kauną ir, anot šaltinyje cituojamos frazės, „atnešė stabmeldžiams visokių nelaimių“."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1361 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs ir turi OCR triukšmo, bet citata leidžia suformuluoti aiškų sakinį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "150705-151033; hash=4b4b64af6460120ece08bc03345a0c9e9fd1852f8d36973c9157d3069173851a; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Įsrutis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Įsrutis\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-167203
 - susijęs iš [[objektai/asmenys/Svirdeika.md#claim-t-80723|Svirdeika]]: Svirdeika 1376 m. birželio 7 d. su savo pajėgomis įėjo į Narkyčius kartu su Algirdu ir Kęstučiu.
 - susijęs iš [[objektai/asmenys/Svirdeika.md#claim-t-80723|Svirdeika]]: Svirdeika 1376 m. birželio 7 d. su savo pajėgomis įėjo į Narkyčius kartu su Algirdu ir Kęstučiu.
 - susijęs iš Angerburgas: Angerburgo pilis minima tarp Lietuvai artimesnių pilių, įkurtų 1335 metais.
@@ -67,6 +108,7 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
     plote, iš visų pusių supamame didelių miškų masyve, buvo pasta­
     tyta didelė keturių bokštų pilis Įsrutis (Insterburg).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -87,11 +129,50 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
     Kauno mūrinės pilies statyba. Pirmoji Kauno pilis
     kronikose paminėta 1361 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-166285
+  citata_originali: |
+    Išsidirbo tuomet visa « reysų » sistema, nes reguliariai ir nustatytais
+    terminais į Žemaičius ir Aukštaičius buvo siunčiami judrus ir nedi­
+    deli kariuomenės daliniai, kad jie be vargo pajėgtų išsimaitinti ir
+    rečiau lietuvių apgyventose vietose. Iš pagrindinės ordino žygių
+    bazės Karaliaučiaus kelias iki uždaro lietuvių sodybų ploto buvo
+    gana tolimas. Jis kiek sutrumpėjo, kai reikšmingais 1336 metais,
+    prie Nemuno kryžiuočiams ėmus statytis naujas pilis, nadruvių
+    plote, iš visų pusių supamame didelių miškų masyve, buvo pasta­
+    tyta didelė keturių bokštų pilis Įsrutis (Insterburg).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182881
+
+- id: c-167203
+  citata_originali: |
+    Vasarą su gausiais svetimšalių būriais
+    ir savais kariais maršalas žygiavo Gardino
+    link, bandė pereiti Nemuną brasta, bet
+    jiems buvo sukliudyta. Grįžęs namo, jis vėl
+    organizavo žygį iš Įsruties į Kauną, „atnešė
+    stabmeldžiams visokių nelaimių“, bet per
+
+    Kauno mūrinės pilies statyba. Pirmoji Kauno pilis
+    kronikose paminėta 1361 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183818
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Svirdeika]]

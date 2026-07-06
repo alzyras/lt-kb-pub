@@ -1,0 +1,107 @@
+---
+tipas: asmuo
+pavadinimas: 'Genserikas'
+saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
+sukurta: ''
+atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Genserikas
+
+## Santrauka
+
+Narbutas Genseriką vadina galingu Afrikos vandalų karaliumi, su kuriuo Odoakras užmezgė draugiškus santykius ir tam tikromis sąlygomis gavo Siciliją.
+
+## Teiginiai
+
+<a id="claim-t-191270"></a>
+- t-001
+  global_id: t-191270
+  teiginys: "Narbutas Genseriką vadina galingu Afrikos vandalų karaliumi, su kuriuo Odoakras užmezgė draugiškus santykius ir tam tikromis sąlygomis gavo Siciliją."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Genserikas valdė Afrika (0.70)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "565120-565805; hash=4187ef8a6fbb65e4a28fa32db13cb4d9f0b58cf47c04e8796a14303ef9a54065; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Afrika: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Genserikas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Afrika: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Genserikas vadinamas Afrikos vandalų karaliumi, todėl jo valdžia siejama su Afrika."
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-174152
+- susijęs iš [[objektai/asmenys/Avitas.md#claim-t-191371|Avitas]]: Narbutas Avitą vaizduoja kaip visigotų išrinktą imperatorių, kuris 457 m., Ricimerui įsakius, atsisakė aukšto posto.
+- susijęs iš [[objektai/asmenys/Ricimeras.md#claim-t-191311|Ricimeras]]: Narbutas pasakoja, kad 457 m. svebų samdytas karvedys Ricimeras paėmė valdžią į savo rankas, Avitui sėdint imperatoriaus soste.
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Narbutas Genseriką vadina galingu Afrikos vandalų karaliumi, su kuriuo Odoakras užmezgė draugiškus santykius ir tam tikromis sąlygomis gavo Siciliją.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Tuo
+    metu Rytų rūmai nedviprasmiškai patvirtino Odoakrą
+    Italijos vietininku, pavesdami jam visą valdžią ir Dal­
+    matijoje, kurios imperatorius buvo miręs. Odoakras ne­
+    trukus perleido šią provinciją visigotų karaliui Evarikui,
+    norėdamas taip pelnyti jo palankumą, o kiek anksčiau
+    jis užmezgė draugiškus santykius su galingu Afrikos
+    vandalų karaliumi Genseriku, iš kurio tam tikromis są­
+    lygomis gavo Siciliją. Užsitikrinęs kaimyninių valstybių
+    vadovų Zenono, Evariko ir Genseriko, kurie galėjo jam
+    pakenkti, palankumą, jis, dorybingo ministro romėno Li-
+    berijaus remiamas, sutelkė visą dėmesį į Italijos vidaus
+    problemas; samdyta kariuomenė, kaip buvo žadėta, gavo
+    trečdalį žemės valdų1.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Citatos
+
+- id: c-174152
+  citata_originali: |
+    Tuo
+    metu Rytų rūmai nedviprasmiškai patvirtino Odoakrą
+    Italijos vietininku, pavesdami jam visą valdžią ir Dal­
+    matijoje, kurios imperatorius buvo miręs. Odoakras ne­
+    trukus perleido šią provinciją visigotų karaliui Evarikui,
+    norėdamas taip pelnyti jo palankumą, o kiek anksčiau
+    jis užmezgė draugiškus santykius su galingu Afrikos
+    vandalų karaliumi Genseriku, iš kurio tam tikromis są­
+    lygomis gavo Siciliją. Užsitikrinęs kaimyninių valstybių
+    vadovų Zenono, Evariko ir Genseriko, kurie galėjo jam
+    pakenkti, palankumą, jis, dorybingo ministro romėno Li-
+    berijaus remiamas, sutelkė visą dėmesį į Italijos vidaus
+    problemas; samdyta kariuomenė, kaip buvo žadėta, gavo
+    trečdalį žemės valdų1.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-191270
+
+## Ryšiai
+- Genserikas valdė [[objektai/vietos/Afrika]]

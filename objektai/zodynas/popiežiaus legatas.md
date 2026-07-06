@@ -10,6 +10,18 @@ tags:
   - ordinas
   - popiežius
   - sąvoka
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # popiežiaus legatas
 
@@ -22,9 +34,19 @@ Taip pat mūsų pirmtakas karalius Vytenis buvo pasiun­ tęs savo laišką ponu
 <a id="claim-t-86569"></a>
 - t-001
   global_id: t-86569
-  teiginys: 'Karalius Vytenis legatui Pranciškui siuntė laišką, prašydamas atsiųsti du pranciškonų ordino brolius.'
+  teiginys: "Karalius Vytenis legatui Pranciškui siuntė laišką, prašydamas atsiųsti du pranciškonų ordino brolius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "193781-194689; hash=389761b2bf32064570db8523d5c5943f1787dc2b586facf0caa435cec7f2ef6c; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pranciškonų ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "popiežiaus legatas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Pranciškonų ordinas: mention_match, group, gap=57"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"popiežiaus legatas\" parinktas kaip owner_note_path. Targetas \"Pranciškonų ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-82548
 - susijęs iš Maskva: Į suvažiavimą atvyko Vytautas, Jogaila, Maskvos, Tverės ir Riazanės kunigaikščiai, imperatorius Zigmantas ir popiežiaus legatas.
 - susijęs iš [[objektai/asmenys/Pisonas.md#claim-t-186248|Pisonas]]: Popiežiaus legatas Pisonas buvo pasiųstas iš Romos sutaikyti Žygimantą su Vasilijumi ir sustojo Vilniuje prieš kelionę į Maskvą.
 - susijęs iš [[objektai/asmenys/Trepka.md#claim-t-186168|Trepka]]: Lenkų bajoras Trepka, mokėjęs italų ir vengrų kalbas, išvyko pranešti Glinskiui karaliaus valią.
@@ -53,8 +75,36 @@ Taip pat mūsų pirmtakas karalius Vytenis buvo pasiun­ tęs savo laišką ponu
     namo broliai pasiuntė aplinkiniais keliais savo kariuomenę
     ir minėtą bažnyčią sudegino.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-82548
+  citata_originali: |
+    Iš tikrųjų, daugelį kartų mūsų pirmtakai, norėdami su­
+    daryti taiką, siuntė savo pasiuntinius ponams Rygos arki­
+    vyskupams, tačiau tie [teutonų ordino broliai] juos žiauriai
+    nužudydavo, kaip tai matyti iš atvejo, buvusio pono Isamo
+    metu, kai jis, kaip viešpaties Bonifacijaus atstovas, sudarė
+    taiką bei paliaubas tarp mūsų ir teutonų namo brolių ir sa­
+    vo laišką mums atsiuntė; tačiau, kai pasiuntiniai grįžo iš po­
+    no Isamo namo, pakeliui vienus jie užmušė, kitus pakorė
+    arba privertė, kad jie patys pasiskandintų.
+    Taip pat mūsų pirmtakas karalius Vytenis buvo pasiun­
+    tęs savo laišką ponui legatui Pranciškui ir ponui arkivysku­
+    pui Fridrichui, prašydamas, kad jie atsiųstų jam du brolius
+    iš pranciškonų ordino, [drauge] paskirdamas jiems vietą ir
+    jau pastatytą bažnyčią. Apie tai sužinoję, Prūsijos iš teutonų
+    namo broliai pasiuntė aplinkiniais keliais savo kariuomenę
+    ir minėtą bažnyčią sudegino.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86569

@@ -18,6 +18,18 @@ tags:
   - pilis
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Škotai
 
@@ -30,9 +42,23 @@ Anglija, Škotija ir Prancūzija gerokai papildė saduodama 12 pūdų vaško: du
 <a id="claim-t-86839"></a>
 - t-001
   global_id: t-86839
-  teiginys: 'Škotijos savanoriai kartu su anglais ir prancūzais papildė vokiečių riterių būrius Karaliaučiuje.'
+  teiginys: "Škotijos savanoriai kartu su anglais ir prancūzais papildė vokiečių riterių būrius Karaliaučiuje."
+  semantiniai_rysiai: "Škotai rėmė Vokiečiai (0.82); Anglai rėmė Vokiečiai (0.78); Prancūzai rėmė Vokiečiai (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1391 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys yra sugadintas OCR fragmentas, bet citata palaiko aiškų faktą apie škotus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "287229-289327; hash=28abb5bc03bb266e56436ba0f84b5163500a0fa508e0032137f2d7821ecc41cb; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Vokiečiai: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Škotai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Škotų savanoriai papildė vokiečių riterių būrius, todėl tai yra karinė parama."
   pagrindžia:
-    - c-001
+    - c-82818
 - susijęs iš [[objektai/asmenys/Vilhelmas Douglas.md#claim-t-87882|Vilhelmas Douglas]]: Vilhelmas Douglas buvo įžymus škotas, žuvęs dvikovoje per anglų ir škotų vaidus Karaliaučiuje.
 - susijęs iš [[objektai/paprociai/Riterių garbės puota prieš karo žygį.md#claim-t-87283|Riterių garbės puota prieš karo žygį]]: Kryžiuočių žygio metu Karaliaučiuje riterių garbės puota buvo nutraukta dėl anglų, škotų ir prancūzų vaidų.
 - susijęs iš [[objektai/asmenys/Boucicaut.md#claim-t-87490|Boucicaut]]: Riteris Boucicaut vadovavo prancūzams ir kitiems kariams žygyje, kurio dalyviai susijungė prie Kauno.
@@ -107,11 +133,79 @@ Anglija, Škotija ir Prancūzija gerokai papildė saduodama 12 pūdų vaško: du
     gistrą privertė baigti karo puotą, kariuomenei dar
     nepasiekus pagonių šalies sienų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-82818
+  citata_originali: |
+    Anglija, Škotija ir Prancūzija gerokai papildė sa-
+    duodama 12 pūdų vaško: duodecem
+    talenta cerae Pud dieta, de curia castri
+    nostri Viln. singulis quatuor tempori­
+    bus tria talenta solvi debent capitulo su-
+    prascripto etc [dvylika talentų vaško,
+    vadinamų pūdais, iš mūsų Vilniaus
+    pilies dvaro kiekvienais metais ke­
+    turiskart po tris talentus privalo
+    aukščiau aprašytai kapitulai mokė­
+    ti]. Už tą dovį karalius įpareigoja ka­
+    pitulą, kad jo sielos išganymo dėlei
+    nustatytomis dienomis būtų atlaiko­
+    mos mišios. Actum Vilnae, die domi­
+    nico infra octavas Ascensionis Chr. An­
+    no D-ni 1390. Sigillum appensile
+    [ Aktuota Vilniuje, Kristaus Žengimo
+    į dangų oktavoje, Viešpaties metais
+    1390. Prikabinamas antspaudas]. Ta
+    privilegija buvo patvirtinta Žygi­
+    manto 11518 m. in conventu generali
+    Brestensi [didžiajame Brastos kon­
+    vente]. Paneriai - tai palivarkas ir
+    kalnai, pavadinimą tokį gavę nuo to,
+    kad išsidėstę prie upės, kuri seniau
+    buvo vadinta Nerimi, dabar Vilija
+    (Panerys). Lietuvoj labai paplitęs pa­
+    protys gyvenvietes prie upių vadin­
+    ti, pridėjus prie upės pavadinimo
+    priešdėlį -pa: pvz.: Paširvintys - nuo
+    Širvintos upės; Pamerkys - nuo Mer­
+    kio upės; Pamusiai - nuo Musės
+    upės; Panevėžys - nuo Nevėžio; Pa­
+    dubysis - nuo Dubysos.
+    39
+    Valenrodas didžiuoju magistru iš­
+    rinktas 1391 m. Verbų sekmadienį,
+    tai yra kovo 12-ą, o mirė 1393 metų
+    liepos 25-ą.
+    130
+
+    ## Puslapis 147
+
+    Il KNYGA
+    vanoriais daugelį vokiečių riterių būrių, kurie, susirinkę Ka­
+    raliaučiuje, prie riterių garbės puotos stalų40, valiodavo už­
+    miršti apie sunkumus ir nesėkmes, patirtas per praėjusių me­
+    tų žygį. Pasitikėjimas tokia didžiule Ordino kariuomenės
+    galybe buvo taip visus pakerėjęs, jog ir didysis magistras, ir
+    jo svita, dar žygiui neprasidėjus, Lietuvą jau manė esant
+    nukariautą. Tačiau netrukus Karaliaučiuje prasidėję anglų
+    vaidai su škotais, Vilhelmo Douglo, įžymaus škoto, žuvu­
+    sio dvikovoje, mirtis, vėlei škotų nesutarimai su prancū­
+    zais - tai vis bloga lemiantys ženklai, kurie net didįjį ma­
+    gistrą privertė baigti karo puotą, kariuomenei dar
+    nepasiekus pagonių šalies sienų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86839
 
 ## Ryšiai
 - Priešai: [[objektai/grupes/Anglai]]

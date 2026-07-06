@@ -1,0 +1,113 @@
+---
+tipas: daiktas
+pavadinimas: 'Margutis'
+saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+sukurta: ''
+atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Margutis
+
+## Santrauka
+
+Mat rusai nuo senų senovės įpratę Velykų dieną do vanoti vienas kitam margutį kaip bičiuliškumo ženklą.
+
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
+## Teiginiai
+
+<a id="claim-t-193479"></a>
+- t-001
+  global_id: t-193479
+  teiginys: "Mat rusai nuo senų senovės įpratę Velykų dieną do vanoti vienas kitam margutį kaip bičiuliškumo ženklą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "390568-391133; hash=17ff869f862c65d99c8575bb9df0976a5a2f7720017bbc47331140e5d1fdcec1; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176180
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Mat rusai nuo senų senovės įpratę Velykų dieną do vanoti vienas kitam margutį kaip bičiuliškumo ženklą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Abiejų tautų
+    priesaika turinti sustiprinti amžinąją taiką. Kai, sutik­
+    dami su šitokiomis sąlygomis;
+    prisiekė valdovas Dimitrijus,
+    vyriausiasis šventikas, žmo­
+    nių vadinamas metropolitu,
+    viečė ir žymiausieji bajorai,
+    Algirdas,
+    tą
+    pačią
+    dieną
+    įžengęs į Maskvą, įsmeigė ietį į valdovo pilį ir apdo­
+    vanojo kunigaikštį, kariškai jį pasveikinęs prie pačių
+    altorių (,,Tad jau supratai, Dimitrijau, katras iš mu­
+    dviejų greičiau pakyla į karą"), velykiniu kiaušiniu.
+    Mat rusai nuo senų senovės įpratę Velykų dieną do­
+    vanoti vienas kitam margutį kaip bičiuliškumo ženklą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Citatos
+
+- id: c-176180
+  citata_originali: |
+    Abiejų tautų
+    priesaika turinti sustiprinti amžinąją taiką. Kai, sutik­
+    dami su šitokiomis sąlygomis;
+    prisiekė valdovas Dimitrijus,
+    vyriausiasis šventikas, žmo­
+    nių vadinamas metropolitu,
+    viečė ir žymiausieji bajorai,
+    Algirdas,
+    tą
+    pačią
+    dieną
+    įžengęs į Maskvą, įsmeigė ietį į valdovo pilį ir apdo­
+    vanojo kunigaikštį, kariškai jį pasveikinęs prie pačių
+    altorių (,,Tad jau supratai, Dimitrijau, katras iš mu­
+    dviejų greičiau pakyla į karą"), velykiniu kiaušiniu.
+    Mat rusai nuo senų senovės įpratę Velykų dieną do­
+    vanoti vienas kitam margutį kaip bičiuliškumo ženklą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193479

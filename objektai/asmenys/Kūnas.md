@@ -3,30 +3,95 @@ tipas: asmuo
 pavadinimas: 'Kūnas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kūnas
 
 ## Santrauka
 
-Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dubysa, Nevėžis ir Neris. Kūnas gyvas būdamas padalijo valdžią Kerniui ir Gimbutui, kad sūnums nepaliktų paveldimos neapykantos šaltinio.
+Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dubysa, Nevėžis ir Neris. Kūnas gyvas būdamas padalijo valdžią Kerniui ir Gimbutui, kad sūnums nepaliktų paveldimos neapykantos šaltinio. Vidurinis sūnus Kūnas atsikėlė prie Nevėžio upės žiočių, kur Įteka į Nemuną, ir įkūrė miestą, pavadino jį pagal savo vardą Kauno miestu5 .
 
 ## Teiginiai
 
 <a id="claim-t-186134"></a>
 - t-001
   global_id: t-186134
-  teiginys: 'Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dubysa, Nevėžis ir Neris.'
+  teiginys: "Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dubysa, Nevėžis ir Neris."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "99452-99751; hash=f02c0188b8aaec39c475990e986d8c60b68946646cc351c8aadff87f40f6e92b; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Nemunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kūnas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Nemunas: mention_match, place, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kūnas\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-169495
 
 <a id="claim-t-186135"></a>
 - t-002
   global_id: t-186135
-  teiginys: 'Kūnas gyvas būdamas padalijo valdžią Kerniui ir Gimbutui, kad sūnums nepaliktų paveldimos neapykantos šaltinio.'
+  teiginys: "Kūnas gyvas būdamas padalijo valdžią Kerniui ir Gimbutui, kad sūnums nepaliktų paveldimos neapykantos šaltinio."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "101058-101385; hash=7e1b35b7a823dbb8c35b682078c035060099f8c518435d35276e6c41595ffaa8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kernius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kūnas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kernius: mention_match, person, gap=37"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kūnas\" parinktas kaip owner_note_path. Targetas \"Kernius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-169496
+
+<a id="claim-t-193951"></a>
+- t-003
+  global_id: t-193951
+  teiginys: "Vidurinis sūnus Kūnas atsikėlė prie Nevėžio upės žiočių, kur Įteka į Nemuną, ir įkūrė miestą, pavadino jį pagal savo vardą Kauno miestu5 ."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "74223-74857; hash=a8f6135941b5e40ebb20f51b28490419ac4560ad3312b775c2335d9bbb70fa83; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176576
+
+<a id="claim-t-193952"></a>
+- t-004
+  global_id: t-193952
+  teiginys: "Neilgai trukus, mirė jo brolis Barkus, kuris gyveno Jurbarke, neturėdamas vaikų; jo brolis Kūnas perėmė ir tą savo brolio Barkaus dalį, ir Jurbarko miestą, ir ėmė viešpatauti toje jo dalyje."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "75584-75963; hash=e3bc811fc413cc6b15aa620374e1ea70d2ce00b5b638f05991bff0e05ccd3142; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176577
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82174|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis, būdamas nusilpęs kūnu, bet sveiko proto, nurodė po jo mirties išpildyti paskutinius įsakymus.
 - susijęs iš [[objektai/asmenys/Blinde.md#claim-t-190086|Blinde]]: Narbutas pasakoja legendą, kad moteris Blindė galėjo gimdyti iš įvairių kūno dalių, o žemės pavydas ją pavertė blindės medžiu.
 - susijęs iš [[objektai/asmenys/Hermanas iš Lichtenburgo.md#claim-t-184088|Hermanas iš Lichtenburgo]]: Hermanas iš Lichtenburgo gyveno Brandenburgo pilyje ir ant pliko kūno dėvėjo grandininius marškinius.
@@ -34,6 +99,7 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 - susijęs iš [[objektai/asmenys/Kazimieras Karigaila.md#claim-t-173188|Kazimieras Karigaila]]: Kazimieras Karigaila buvo nužudytas, o jo galva atskirta nuo kūno ir išniekinta karaliaus paniekinimui.
 - susijęs iš [[objektai/asmenys/Kazimieras Karigaila.md#claim-t-54977|Kazimieras Karigaila]]: Viena versija Kazimierą Karigailą vadina tikru karaliaus broliu ir teigia, kad po nužudymo nuo kūno buvo atskirta jo galva.
 - susijęs iš [[objektai/asmenys/Motiejus (Žemaičių ir Vilniaus vyskupas).md#claim-t-176555|Motiejus (Žemaičių ir Vilniaus vyskupas)]]: Vyskupas Motiejus 1430 m. spalio 27 d. užmerkė Vytautui akis ir jo kūną nulydėjo į Vytauto pastatytą katedrą.
+- susijęs iš [[objektai/asmenys/Sidonijus Apolinaras.md#claim-t-191355|Sidonijus Apolinaras]]: Sidonijus Apolinaras, Narbuto teigimu, rašė, kad gelonai kartais dažydavosi veidą, plaukus ir kūną raudona arba ruda spalva.
 - susijęs iš [[objektai/asmenys/Slavka.md#claim-t-186162|Slavka]]: Kambarinis Slavka savo kūnu bandė užstoti leisgyvį valdovą nuo smūgių, bet Jonas jį nuvilko į šalį ir išmetė pro langą.
 - susijęs iš [[objektai/asmenys/Ulrichas iš Magdeburgo.md#claim-t-60214|Ulrichas iš Magdeburgo]]: Petras Dusburgietis rašė, kad Ulrichas iš Magdeburgo gyveno Karaliaučiaus brolių konvente ir buvo itin stipraus kūno sudėjimo.
 - susijęs iš [[objektai/asmenys/Urbonas IV.md#claim-t-184137|Urbonas IV]]: 1261 m. popiežius Urbonas IV įsteigė Kristaus kūno šventę.
@@ -42,11 +108,11 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 - susijęs iš [[objektai/grupes/Dievo Kūno arkibrolija.md#claim-t-54837|Dievo Kūno arkibrolija]]: Dievo Kūno arkibrolija Vilniuje buvo įsteigta 1539 m. kardinolo Komendonio atsiųsta bule.
 - susijęs iš [[objektai/grupes/Dievo Kūno arkibrolija.md#claim-t-54838|Dievo Kūno arkibrolija]]: 1539 m. kardinolas Komendoni atsiuntė bulę, kuria buvo steigiama Dievo Kūno arkibrolija.
 - susijęs iš [[objektai/grupes/Dievo Kūno arkibrolija.md#claim-t-54839|Dievo Kūno arkibrolija]]: Dievo Kūno arkibrolijos arkikonfratrija buvo funduota 1573 m. vasario 3 d., o tų pačių metų lapkričio 27 d. iškilmingai įvesdinta.
+- susijęs iš [[objektai/grupes/Gelonai.md#claim-t-192388|Gelonai]]: Narbutas rašo, kad senovėje gelonai buvo laikomi geriausiais lankininkais ir turėjo paprotį dažyti kūną.
 - susijęs iš [[objektai/grupes/Lietuvos ponų taryba.md#claim-t-86732|Lietuvos ponų taryba]]: Po valdovo mirties ponų tarybos nariai buvo kviečiami atvykti prie mirusio valdovo kūno ir spręsti Respublikai kilusius pavojus.
 - susijęs iš [[objektai/grupes/Maloningosios Dievo Motinos brolija.md#claim-t-86808|Maloningosios Dievo Motinos brolija]]: 1589 m. liepos 29 d. Dievo Kūno koplyčioje buvo paskelbtas Maloningosios Dievo Motinos brolijos įkūrimas.
 - susijęs iš [[objektai/ivykiai/Henriko VII mirtis ir palaidojimas Pizoje (1313 m. rugpjūčio 24 d.).md#claim-t-62286|Henriko VII mirtis ir palaidojimas Pizoje (1313 m. rugpjūčio 24 d.)]]: 1313 m. rugpjūčio 24 d. Sienos grafystėje mirė imperatorius Henrikas VII, o jo kūnas buvo palaidotas Pizoje.
 - susijęs iš [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.).md#claim-t-09884|Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]: Per Ulos (Čašnikų) mūšį žuvo apie 8000–10000 maskvėnų, o P. Šuiskio kūnas buvo atvežtas į Vilnių ir palaidotas stačiatikių katedroje.
-- susijęs iš [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos.md#claim-t-05335|Aisčių laidotuvių ir vėlinių apeigos]]: Wulfstano aprašyti aisčiai mirusiojo kūną laikydavo mėnesius, iš jo turto keldavo puotas, o likutį išdalydavo per arklių lenktynes.
 - susijęs iš [[objektai/paprociai/Kristaus kūno šventės šventimas.md#claim-t-183990|Kristaus kūno šventės šventimas]]: 1310 metais popiežius Klemensas V Vieno susirinkime patvirtino Kristaus kūno šventę.
 - susijęs iš [[objektai/paprociai/Kristaus kūno šventės šventimas.md#claim-t-62134|Kristaus kūno šventės šventimas]]: 1261 metais popiežius Urbonas IV įsteigė Kristaus kūno šventę.
 - susijęs iš [[objektai/paprociai/Kristburgo brolių asketinė drausmė ir kasdienė geležinė grandinė.md#claim-t-62687|Kristburgo brolių asketinė drausmė ir kasdienė geležinė grandinė]]: Vienas brolis iki mirties kasdien ant pliko kūno juosėjo sunkią geležinę grandinę.
@@ -74,6 +140,8 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 - susijęs iš Luckas: 1452 m. vasarį Švitrigaila mirė Lucke, o jo kūnas buvo perkeltas į protėvių kapą Vilniaus katedroje.
 - susijęs iš Luckas: 1452 m. vasarį Švitrigaila mirė Lucke, o jo kūnas buvo perkeltas į Vilniaus katedrą.
 - susijęs iš Vilnius: Gedimino laiškas buvo duotas Vilniuje 1323 m. Kristaus Kūno dieną.
+- susijęs iš [[objektai/zodynas/Fajetono katastrofa.md#claim-t-192557|Fajetono katastrofa]]: Narbutas Fajetono katastrofą laiko legendinės senovės pasakojimu, galėjusiu priminti mažo dangaus kūno kritimą.
+- susijęs iš [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos.md#claim-t-192100|Aisčių laidotuvių ir vėlinių apeigos]]: Wulfstano aprašyti aisčiai mirusiojo kūną laikydavo mėnesius, iš jo turto keldavo puotas, o likutį išdalydavo per arklių lenktynes.
 - susijęs iš [[objektai/asmenys/Albertas (Karaliaučiaus komtūras).md#claim-t-60228|Albertas (Karaliaučiaus komtūras)]]: Dusburgiečio pasakojime per žygį prieš Lietuvą besimeldžiančiam Karaliaučiaus komtūrui Albertui prie burnos pasirodė komunijos paplotėlis.
 - susijęs iš [[objektai/asmenys/Augustas III.md#claim-t-82228|Augustas III]]: Augustas III privilegija suteikė Akademijos spaustuvei karališkosios spaustuvės titulą.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54954|Barbora Radvilaitė]]: Testamente nurodyta karalienės Barboros palaikus iš Šventojo Kazimiero koplyčios perkelti į Šv. Onos bažnyčią.
@@ -96,6 +164,7 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 - susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173331|Žygimantas Senasis]]: Žygimantui Senajam, kaip broliui ir įpėdiniui, buvo patikėta kunigaikštienės Elenos teisių globa.
 - susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-190317|Herodotas]]: Pasak Herodoto, skitai, laidodami savo karalius, užmušdavo jų mylimiausius tarnus.
 - susijęs iš [[objektai/daiktai/Durklas.md#claim-t-59683|Durklas]]: Neįvardytas asmuo praliejo kito žmogaus kraują, pervėręs jį durklu.
+- susijęs iš [[objektai/daiktai/Gintaras.md#claim-t-192495|Gintaras]]: Gintaras šaltinyje apibūdinamas kaip kietas, blizgus, skaidrus ir dėl šių savybių senovėje prilygintas brangakmeniams.
 - susijęs iš [[objektai/daiktai/Negęstančioji ugnis.md#claim-t-59695|Negęstančioji ugnis]]: Prūsai pagal senovinį paprotį garbino negęstančiąją ugnį.
 - susijęs iš [[objektai/daiktai/Paplotėlis.md#claim-t-59699|Paplotėlis]]: Žygio prieš Lietuvą metu broliui Albertui prie burnos pasirodė Viešpaties kūnas paplotėlio pavidalu.
 - susijęs iš [[objektai/daiktai/Vaidilų apeiginiai drabužiai.md#claim-t-189665|Vaidilų apeiginiai drabužiai]]: Narbutas rašė, kad vaidilų drabužio apačioje būdavo prisiūta maždaug pėdos ilgumo gyvulio plaukų kuokštų.
@@ -105,6 +174,7 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178797|Kryžiuočių ordinas]]: 1323 m. Vilniuje duotame rašte teigta, kad kryžiuočiai įmetė į ugnį Gedimino pasiuntinybės antspaudą.
 - susijęs iš [[objektai/grupes/Liuterionys.md#claim-t-01413|Liuterionys]]: Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
 - susijęs iš [[objektai/grupes/NKGB.md#claim-t-65926|NKGB]]: Prienų NKGB tardytojas Arkadijus Kruglovas prie durų paleido automato seriją.
+- susijęs iš [[objektai/grupes/Tisagetai.md#claim-t-192963|Tisagetai]]: Narbutas rašo, kad tisagetai maistui ir gėrimui vartojo kumelių pieną, galbūt sekdami budinais.
 - susijęs iš [[objektai/ivykiai/Brandenburgo pilies sunaikinimas ir atstatymas.md#claim-t-62752|Brandenburgo pilies sunaikinimas ir atstatymas (pilis)]]: Prūsams sunaikinus Brandenburgo pilį, Brandenburgo markgrafas toje pačioje vietoje pastatydino kitą pilį tuo pačiu vardu.
 - susijęs iš [[objektai/ivykiai/Kalniškės mūšis (1945 m. gegužės 16-17 d.).md#claim-t-71747|Kalniškės mūšis (1945 m. gegužės 16-17 d.)]]: Kalniškės mūšyje žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu Pušelė.
 - susijęs iš [[objektai/ivykiai/Kalniškės mūšis (1945 m. gegužės 16-17 d.).md#claim-t-71748|Kalniškės mūšis (1945 m. gegužės 16-17 d.)]]: Neifalta-Lakūnas per Kalniškės mūšį nežuvo; citatoje nurodoma, kad jis žuvo apie 1946 m.
@@ -118,6 +188,7 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 - susijęs iš [[objektai/ivykiai/Vilniaus katedros unijos atnaujinimo pasižadėjimas (1812 m. liepos 14 d.).md#claim-t-01846|Vilniaus katedros unijos atnaujinimo pasižadėjimas (1812 m. liepos 14 d.)]]: Vilniaus universiteto jaunuomenės iniciatyva 1812 m. liepos 14 d. Vilniaus katedroje iškilmingai pasižadėta atnaujinti uniją.
 - susijęs iš [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.).md#claim-t-86881|Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]: Pastačius Švč. Trejybės prieglaudą, dalis Vilijos tilto mokesčio turėjo būti skiriama ligonių maistui, drabužiams, vaistams ir kitoms reikmėms.
 - susijęs iš [[objektai/paprociai/Bendri Lietuvos ir Lenkijos seimai.md#claim-t-01937|Bendri Lietuvos ir Lenkijos seimai]]: Akte numatyti bendri seimai ir bendra karaliaus elekcija, tačiau jų vykdymo tvarka turėjo būti nustatyta vėliau.
+- susijęs iš [[objektai/paprociai/Gintaro vartojimas gydyme, vaistuose ir lakuose.md#claim-t-193020|Gintaro vartojimas gydyme, vaistuose ir lakuose]]: Narbutas rašo, kad seniau skystas gintaras, eteriniai aliejai ir balzamai buvo dedami į vaistus, o jo laikais gintaras naudotas lakuose.
 - susijęs iš [[objektai/paprociai/Kapinių šventinimas ir kapų šlakstymas švęstu vandeniu.md#claim-t-91922|Kapinių šventinimas ir kapų šlakstymas švęstu vandeniu]]: Kapinių šventinimo metu vyskupas šlakstė mirusiųjų kapus švęstu vandeniu.
 - susijęs iš [[objektai/paprociai/Kunigaikščių palaikų perkėlimas ir laidojimas Vilniaus katedroje.md#claim-t-87213|Kunigaikščių palaikų perkėlimas ir laidojimas Vilniaus katedroje]]: 1452 m. vasarį Lucke mirusio Švitrigailos kūnas buvo perkeltas į protėvių kapą Vilniaus katedroje.
 - susijęs iš [[objektai/paprociai/Laidotuvių palyda su kardų žvanginimu ir Pykuolio varymo šūksniais.md#claim-t-189925|Laidotuvių palyda su kardų žvanginimu ir Pykuolio varymo šūksniais]]: Narbutas aprašo laidotuvių paprotį, kai mirusįjį lydintys raiti giminaičiai ir bičiuliai žvangindavo kardais ir šūksniais vydavo Pykuolį.
@@ -178,6 +249,7 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 - susijęs iš [[objektai/zodynas/arkibrolija arkikonfratrija.md#claim-t-86582|arkibrolija arkikonfratrija]]: 1539 m. kardinolas Komendoni Vilniaus vyskupui Valerijonui Protasevičiui atsiuntė bulę dėl Dievo Kūno arkibrolijos steigimo.
 - susijęs iš [[objektai/zodynas/fraternitas.md#claim-t-70140|fraternitas]]: Akte brolija, arba fraternitas, siejama su viena tauta, viena visuomene, bendrais seimais ir bendrai renkamu karaliumi.
 - susijęs iš [[objektai/zodynas/fraternitas.md#claim-t-70141|fraternitas]]: Akte fraternitas siejama su viena brolija, viena tauta, viena visuomene, bendrais seimais ir bendrai renkamu karaliumi.
+- susijęs iš [[objektai/zodynas/gintaras.md#claim-t-192921|gintaras]]: Narbutas gerą gintarą apibūdina kaip kietą, blizgų, skaidrų ir senovėje brangakmeniams prilygintą sakų klasės daiktą.
 - susijęs iš [[objektai/zodynas/klauzūra.md#claim-t-58853|klauzūra]]: Nusiaubus žemę buvo sudeginta 250 parapinių bažnyčių, taip pat vienuolynų, koplyčių ir griežtos klauzūros moterų vienuolynų.
 - susijęs iš [[objektai/zodynas/klebono titulas.md#claim-t-86594|klebono titulas]]: Šv. Dvasios vienuolyno vyresnysis ir broliai prisiėmė panaikintą prieglaudos klebono titulą.
 - susijęs iš [[objektai/zodynas/vaivada kaštelionas.md#claim-t-86623|vaivada kaštelionas]]: Po Horodlės unijos akto Lietuvoje pagal Lenkijos pavyzdį buvo įvestos vaivados ir kašteliono tarnybos, apibrėžus jų pareigas.
@@ -195,6 +267,7 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
     minimui pavadintas Kaunu, po šiai dienai tebėra vie­
     nas iš žymiausių Lietuvoje.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -213,8 +286,131 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
     tarp Neries, Nevėžio ir Dauguvos, o jaunėliui Gimbu­
     tui paskyrė Žemaitiją.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: 'Vidurinis sūnus Kūnas atsikėlė prie Nevėžio upės žiočių, kur Įteka į Nemuną, ir įkūrė miestą, pavadino jį pagal savo vardą Kauno miestu5 .'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Vyriausias sūnus Barkus įkūrė mies­
+    tą prie Jūros upės, ir to kunigaikščio vardas susijungė
+    su upės vardu, kuri vadinosi Jūra, o kunigaikščio var­
+    das - —  Barkus, tai tas miestas imta vadinti Jurbarku 4 .
+    Vidurinis sūnus Kūnas atsikėlė prie Nevėžio upės
+    žiočių, kur Įteka į Nemuną, ir įkūrė miestą, pavadino
+    jį pagal savo vardą Kauno miestu5 .
+    O trečias sūnus Spera keliavo tolyn per girias į ry­
+    tus, kur saulė teka, ir persikėlė per Nevėžio upę, ir
+
+    ## Puslapis 41
+
+    per trečią upę — Širvintą, aptiko ežerą, dabinamą pie­
+    vų ir Įvairių medžių, pamėgo tą vietą, apsigyveno prie
+    to ežero ir tą ežerą pavadino savo vardu — Spera6 .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003
+
+- c-004
+  santrauka: 'Neilgai trukus, mirė jo brolis Barkus, kuris gyveno Jurbarke, neturėdamas vaikų; jo brolis Kūnas perėmė ir tą savo brolio Barkaus dalį, ir Jurbarko miestą, ir ėmė viešpatauti toje jo dalyje.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Neilgai trukus, mirė jo brolis Barkus, kuris gyveno
+    Jurbarke, neturėdamas vaikų; jo brolis Kūnas perėmė
+    ir tą savo brolio Barkaus dalį, ir Jurbarko miestą, ir
+    ėmė viešpatauti toje jo dalyje.
+    O tasai kunigaikštis Kūnas turėjo du sūnus: vieną
+    Kernių, o kitą Gimbutą8 . Beviešpataudamas Žemaičių
+    žemėje, ėmė stiprėti, plėstis ir pereidinėti per Neries
+    upę į Užnerio kraštą 9 .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-004
+
+## Citatos
+
+- id: c-169495
+  citata_originali: |
+    Kūno, arba
+    Kūnasijaus, valstybė buvo ribojama Nemunu, Duby­
+    sa, Nevėžiu ir Vilija, arba (gimtosios kalbos žodžiu)
+    Nerimi. Tų žemių sostinę įkurdino pačioje Neries ir
+    Nemuno santakoje. Tas miestas su pilimi, įkūrėjo at­
+    minimui pavadintas Kaunu, po šiai dienai tebėra vie­
+    nas iš žymiausių Lietuvoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186134
+
+- id: c-169496
+  citata_originali: |
+    Kokius jis nuveikė paminėtinus darbus,
+    vėlesnės kartos nežino. Gyvas būdamas, nusprendė ne­
+    palikti po mirties sūnums paveldimo neapykantos šal­
+    tinio, todėl pasistengė laiku padalyti valdžią. Kernu-
+    sijui, arba Kerniui, atidavė valdyti Lietuvos žemes
+    tarp Neries, Nevėžio ir Dauguvos, o jaunėliui Gimbu­
+    tui paskyrė Žemaitiją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186135
+
+- id: c-176576
+  citata_originali: |
+    Vyriausias sūnus Barkus įkūrė mies­
+    tą prie Jūros upės, ir to kunigaikščio vardas susijungė
+    su upės vardu, kuri vadinosi Jūra, o kunigaikščio var­
+    das - —  Barkus, tai tas miestas imta vadinti Jurbarku 4 .
+    Vidurinis sūnus Kūnas atsikėlė prie Nevėžio upės
+    žiočių, kur Įteka į Nemuną, ir įkūrė miestą, pavadino
+    jį pagal savo vardą Kauno miestu5 .
+    O trečias sūnus Spera keliavo tolyn per girias į ry­
+    tus, kur saulė teka, ir persikėlė per Nevėžio upę, ir
+
+    ## Puslapis 41
+
+    per trečią upę — Širvintą, aptiko ežerą, dabinamą pie­
+    vų ir Įvairių medžių, pamėgo tą vietą, apsigyveno prie
+    to ežero ir tą ežerą pavadino savo vardu — Spera6 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193951
+
+- id: c-176577
+  citata_originali: |
+    Neilgai trukus, mirė jo brolis Barkus, kuris gyveno
+    Jurbarke, neturėdamas vaikų; jo brolis Kūnas perėmė
+    ir tą savo brolio Barkaus dalį, ir Jurbarko miestą, ir
+    ėmė viešpatauti toje jo dalyje.
+    O tasai kunigaikštis Kūnas turėjo du sūnus: vieną
+    Kernių, o kitą Gimbutą8 . Beviešpataudamas Žemaičių
+    žemėje, ėmė stiprėti, plėstis ir pereidinėti per Neries
+    upę į Užnerio kraštą 9 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193952

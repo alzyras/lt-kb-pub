@@ -15,6 +15,18 @@ tags:
   - tauta
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvių konferencija Kaune (1943 m. balandžio 5 d.)
 
@@ -41,26 +53,61 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75127"></a>
-- t-001
+- t-003
   global_id: t-75127
-  teiginys: 'Naciai Lietuvių konferencija siekė paremti mobilizaciją, o lietuvių veikėjai norėjo išvengti represijų ir išgauti politinių nuolaidų.'
+  teiginys: "Naciai Lietuvių konferencija siekė paremti mobilizaciją, o lietuvių veikėjai norėjo išvengti represijų ir išgauti politinių nuolaidų."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "416452-417039; hash=2a2859e455e5085845c00d7fcb96c16f0f7799d2f09ab316926d95167bef3e71; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvių konferencija Kaune (1943 m. balandžio 5 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvių konferencija Kaune (1943 m. balandžio 5 d.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-73039
 
 <a id="claim-t-75128"></a>
-- t-002
+- t-001
   global_id: t-75128
-  teiginys: 'Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo poziciją ir leido lietuviams 1943 m. balandžio 5 d. Kaune sušaukti vadinamąją Lietuvių konferenciją.'
+  teiginys: "Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo poziciją ir leido lietuviams 1943 m. balandžio 5 d. Kaune sušaukti vadinamąją Lietuvių konferenciją."
+  temporaliniai_duomenys: "įvykio data: 1943 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus faktinis sakinys apie konferencijos sušaukimą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "415864-416451; hash=6ef02afaa51b0f872a5725456568504b16341b130cb2407c8d54c20525b7a687; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvių konferencija Kaune (1943 m. balandžio 5 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvių konferencija Kaune (1943 m. balandžio 5 d.)\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-23001
 
 <a id="claim-t-75129"></a>
-- t-003
+- t-002
   global_id: t-75129
-  teiginys: '1943 m. Lietuvių konferencijos sprendimai rodė dalyvių ir dalies visuomenės orientaciją į Vokietiją bei reikalavo kolaboruoti jos tarnybose.'
+  teiginys: "1943 m. Lietuvių konferencijos sprendimai rodė dalyvių ir dalies visuomenės orientaciją į Vokietiją bei reikalavo kolaboruoti jos tarnybose."
+  temporaliniai_duomenys: "įvykio data: 1943 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys per ilgas; citata leidžia suformuluoti glaustesnį enciklopedinį sakinį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "416281-416973; hash=6a01d6b9f6b93390f444db3e0c63f60b278a32fca22906fa7603291224337c02; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvių konferencija Kaune (1943 m. balandžio 5 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvių konferencija Kaune (1943 m. balandžio 5 d.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
-
+    - c-23002
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -76,8 +123,9 @@ Nenurodyta
     poziciją ir leido lietuviams 1943 m. balandžio 5 d. Kaune sušaukti vadi-
     namąją Lietuvių konferenciją.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -97,8 +145,9 @@ Nenurodyta
     orientaciją į Vokietiją: juos vykdant reikėjo kolaboruoti su Vokietija jos
     darbo ir karo tarnybų struktūrose.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -117,8 +166,68 @@ Nenurodyta
     darbo ir karo tarnybų struktūrose. Tačiau ir šį kartą Lietuvos jaunimo
     mobilizacija patyrė nesėkmę.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-23001
+  citata_originali: |
+    Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė
+    46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovy-
+    klą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,
+    suėmė daug pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA
+    grupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių. Dau-
+    guma suimtųjų išvežti į nacių koncentracijos stovyklas.
+    Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo
+    poziciją ir leido lietuviams 1943 m. balandžio 5 d. Kaune sušaukti vadi-
+    namąją Lietuvių konferenciją.
+  citata_rodoma: "Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo\npoziciją ir leido lietuviams 1943 m. balandžio 5 d. Kaune sušaukti vadi-\nnamąją Lietuvių konferenciją."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75128
+
+- id: c-23002
+  citata_originali: |
+    Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo
+    poziciją ir leido lietuviams 1943 m. balandžio 5 d. Kaune sušaukti vadi-
+    namąją Lietuvių konferenciją. Ja naciai siekė užsitikrinti lietuvių visuo-
+    menės paramą savo mobilizaciniams siekiams, suteikti jiems teisėtumo
+    regimybę, o lietuvių veikėjai – išsaugoti tautą, išvengti represijų, išgauti
+    iš Vokietijos didesnių politinių nuolaidų ir Lietuvos suverenumo. Nors
+    konferencijos dalyviai negailėjo aštrios kritikos okupacinei valdžiai, pri-
+    imti sprendimai atspindėjo jos dalyvių ir dalies Lietuvos visuomenės
+    orientaciją į Vokietiją: juos vykdant reikėjo kolaboruoti su Vokietija jos
+    darbo ir karo tarnybų struktūrose.
+  citata_rodoma: "Nors\nkonferencijos dalyviai negailėjo aštrios kritikos okupacinei valdžiai, pri-\nimti sprendimai atspindėjo jos dalyvių ir dalies Lietuvos visuomenės\norientaciją į Vokietiją: juos vykdant reikėjo kolaboruoti su Vokietija jos\ndarbo ir karo tarnybų struktūrose."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75129
+
+- id: c-73039
+  citata_originali: |
+    Ja naciai siekė užsitikrinti lietuvių visuo-
+    menės paramą savo mobilizaciniams siekiams, suteikti jiems teisėtumo
+    regimybę, o lietuvių veikėjai – išsaugoti tautą, išvengti represijų, išgauti
+    iš Vokietijos didesnių politinių nuolaidų ir Lietuvos suverenumo. Nors
+    konferencijos dalyviai negailėjo aštrios kritikos okupacinei valdžiai, pri-
+    imti sprendimai atspindėjo jos dalyvių ir dalies Lietuvos visuomenės
+    orientaciją į Vokietiją: juos vykdant reikėjo kolaboruoti su Vokietija jos
+    darbo ir karo tarnybų struktūrose. Tačiau ir šį kartą Lietuvos jaunimo
+    mobilizacija patyrė nesėkmę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75127

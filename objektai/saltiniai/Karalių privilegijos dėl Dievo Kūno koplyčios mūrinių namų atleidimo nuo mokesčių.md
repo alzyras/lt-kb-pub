@@ -17,6 +17,18 @@ tags:
   - saltinis
 amziai:
   - 'XVII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Karalių privilegijos dėl Dievo Kūno koplyčios mūrinių namų atleidimo nuo mokesčių
 
@@ -29,10 +41,22 @@ Mūrinius namus, kurie buvo skirti tos koplyčios paja­ moms, privilegijomis nu
 <a id="claim-t-88435"></a>
 - t-001
   global_id: t-88435
-  teiginys: 'Dievo Kūno koplyčiai skirtus mūrinius namus nuo mokesčių atleido Žygimantas III, Vladislovas IV ir Jonas Kazimieras.'
+  teiginys: "Dievo Kūno koplyčiai skirtus mūrinius namus nuo mokesčių atleido Žygimantas III, Vladislovas IV ir Jonas Kazimieras."
+  temporaliniai_duomenys: "įvykio data: 1601 m.; įvykio data: 1633 m.; įvykio data: 1664 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Faktas pagrįstas, bet teiginyje yra OCR skiemenavimo ir formos klaidų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "376357-377111; hash=042b28210469ccc1b918a4efcd9eeb8a2c93c545a879c8b6a024e694c5c650d2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jonas Kazimieras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Karalių privilegijos dėl Dievo Kūno koplyčios mūrinių namų atleidimo nuo mokesčių: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Jonas Kazimieras: mention_match, person, gap=99"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karalių privilegijos dėl Dievo Kūno koplyčios mūrinių namų atleidimo nuo mokesčių\" parinktas kaip owner_note_path. Targetas \"Jonas Kazimieras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-84414
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -54,8 +78,35 @@ Mūrinius namus, kurie buvo skirti tos koplyčios paja­ moms, privilegijomis nu
     liai: Žygimantas III - 1601 m.; Vladislovas IV - 1633 m.; Jo­
     nas Kazimieras -1664 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-84414
+  citata_originali: |
+    1577 metų gruodžio 19 dienos, o pirmesne 1539
+    metų Grigaliaus XIII bule buvo patvirtinta Vilniaus arkikon­
+    fratrija ir agreguota prie Romos, ką vėliau, 1646 metais, po­
+    piežius Inocentas X irgi patvirtino.
+    Tos Dievo koplyčios pajamas sudarė jai skirtas mokestis
+    nuo įvairių mūrinių namų, renkamas iš vietos didikų, 'bet
+    dėl pradangintų dokumentų pajamų dydis nėra žinomas;
+    tačiau kai kurie mūriniai namai ir dabar prie tos koplyčios
+    priklauso; jais disponuoja Vilniaus magistratas per savo val­
+    dytojus, o iš gautų pajamų tenkinami koplyčios poreikiai.
+    Mūrinius namus, kurie buvo skirti tos koplyčios paja­
+    moms, privilegijomis nuo mokesčių atleido Lenkijos kara­
+    liai: Žygimantas III - 1601 m.; Vladislovas IV - 1633 m.; Jo­
+    nas Kazimieras -1664 m.
+  citata_rodoma: "Mūrinius namus, kurie buvo skirti tos koplyčios paja­\nmoms, privilegijomis nuo mokesčių atleido Lenkijos kara­\nliai: Žygimantas III - 1601 m.; Vladislovas IV - 1633 m.; Jo­\nnas Kazimieras -1664 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88435

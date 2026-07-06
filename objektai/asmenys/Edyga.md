@@ -20,6 +20,18 @@ amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Edyga
 
@@ -30,18 +42,62 @@ Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­ jant Vorsklos nug
 ## Teiginiai
 
 <a id="claim-t-63557"></a>
-- t-001
+- t-002
   global_id: t-63557
-  teiginys: 'Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais.'
+  teiginys: "Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "217119-217419; hash=41a4ab9bc5ccba646c997209fd6583b6a46792023ac99c1883cc2f9c840383a7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Totoriai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Edyga: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Totoriai: mention_match, group, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Edyga\" parinktas kaip owner_note_path. Targetas \"Totoriai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-41899
 
 <a id="claim-t-63558"></a>
-- t-002
+- t-001
   global_id: t-63558
-  teiginys: 'Edygos vadovaujami totoriai 1414-1416 m. dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriaudami Kijevą ir Lucką.'
+  teiginys: "Edygos vadovaujami totoriai 1414-1416 m. dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriaudami Kijevą ir Lucką."
+  semantiniai_rysiai: "Totoriai puolė Kijevas (0.82); Totoriai puolė Podolė (0.82); Totoriai puolė Luckas (0.80); Edyga puolė Kijevas (0.76); Edyga puolė Podolė (0.76)"
+  temporaliniai_duomenys: "įvykio data: 1414-1416; įvykio data: 1416 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra faktinis, aiškus ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "301845-302244; hash=75278f33222cc331b126432a9b04c476ca3a053fd446fcf72b72b0b74811c63b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Kijevas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekste tiesiogiai sakoma, kad totoriai puldinėjo Kijevo kraštus."
   pagrindžia:
-    - c-002
+    - c-64553
+
+<a id="claim-t-183736"></a>
+- t-003
+  global_id: t-183736
+  teiginys: "Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "216952-217313; hash=c2f027ad72932759acad970d3dae3a86a81c823d9cae659d977f5a949cced2d1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuvos jungtinės pajėgos: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Edyga: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuvos jungtinės pajėgos: mention_match, group, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Edyga\" parinktas kaip owner_note_path. Targetas \"Lietuvos jungtinės pajėgos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-167124
 - susijęs iš [[objektai/asmenys/Timūr-Kutlukas.md#claim-t-183763|Timūr-Kutlukas]]: Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai.
 - susijęs iš [[objektai/asmenys/Timūr-Kutlukas.md#claim-t-40468|Timūr-Kutlukas]]: Timūr-Kutlukas vadovavo totorių pajėgoms, kuriose buvo ir Krymo emyro Edygos kariai.
 - susijęs iš [[objektai/grupes/Totorių pajėgos.md#claim-t-78528|Totorių pajėgos]]: Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai.
@@ -81,8 +137,9 @@ Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­ jant Vorsklos nug
     siuntė Vytautui daug galvijų, jaučių, avių,
     sveikino jį.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -99,6 +156,7 @@ Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­ jant Vorsklos nug
     mi patį Kijevą ir Lucką. Cemblakas iš savo sostinės turėjo per­
     sikelti į Vilnių, o Vytautas, užimtas tada karu su Vok.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -126,11 +184,78 @@ Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­ jant Vorsklos nug
     tarsi reikalavęs pavaldumo - visos Ordos
     pinigus žymėti Vytauto ženklu.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-41899
+  citata_originali: |
+    Totorių pajėgos
+    Aukso ordos chano Timūr-Kutluko,
+    Krymo emyro Edygos kariai.
+
+    Mūšis
+
+    Pokalbyje su chanu prieš mūšį Vytautas
+    tarsi reikalavęs pavaldumo - visos Ordos
+    pinigus žymėti Vytauto ženklu. Timūr-
+    Kutlukas, paprašęs trijų dienų pagalvoti,
+    siuntė Vytautui daug galvijų, jaučių, avių,
+    sveikino jį.
+  citata_rodoma: "Totorių pajėgos\nAukso ordos chano Timūr-Kutluko,\nKrymo emyro Edygos kariai.\n\nMūšis\n\nPokalbyje su chanu prieš mūšį Vytautas\ntarsi reikalavęs pavaldumo - visos Ordos\npinigus žymėti Vytauto ženklu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-63557
+
+- id: c-64553
+  citata_originali: |
+    Taigi tas rodo, kad ne visi sta­
+    čiatikiai buvo palankūs Vytauto pageidaujamai Bažnyčių
+    unijai.
+    Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­
+    jant Vorsklos nugalėtojui Edygai, 1414—1416 m. laikotarpyje
+    dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriauda­
+    mi patį Kijevą ir Lucką. Cemblakas iš savo sostinės turėjo per­
+    sikelti į Vilnių, o Vytautas, užimtas tada karu su Vok.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-63558
+
+- id: c-167124
+  citata_originali: |
+    Lietuvos jungtinės pajėgos
+
+    Lietuviai, žemaičiai, LDK rusų žemių ku-
+    nigaikščiai, Tochtamišo totoriai, talkinin-
+    kai iš Lenkijos, Kryžiuočių ordino kariai,
+    moldavai.
+
+    Totorių pajėgos
+    Aukso ordos chano Timūr-Kutluko,
+    Krymo emyro Edygos kariai.
+
+    Mūšis
+
+    Pokalbyje su chanu prieš mūšį Vytautas
+    tarsi reikalavęs pavaldumo - visos Ordos
+    pinigus žymėti Vytauto ženklu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183736
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/grupes/Totorių pajėgos]]

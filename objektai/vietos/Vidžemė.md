@@ -18,6 +18,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vidžemė
 
@@ -28,18 +40,39 @@ Tuomet, iš vienos pusės, turėdamas savo kariuomenę Vidžemėje, t.
 ## Teiginiai
 
 <a id="claim-t-69563"></a>
-- t-001
+- t-002
   global_id: t-69563
-  teiginys: 'XII-XIII a. sąvartoje latviai buvo įsikūrę dešiniajame Dauguvos krante, apimdami Latgaliją ir rytinę Vidžemės dalį.'
+  teiginys: "XII-XIII a. sąvartoje latviai buvo įsikūrę dešiniajame Dauguvos krante, apimdami Latgaliją ir rytinę Vidžemės dalį."
+  semantiniai_rysiai: "Latviai gyveno Dauguva (0.82); Latviai gyveno Latgalija (0.78); Latviai gyveno Vidžemė (0.78)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "761378-761790; hash=8e57347f367b7ee0f46d4ffc600e7754aa73f5d500d799f77a005d431fbdccd0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Dauguva: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Latviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Dauguva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Įsikūrimas Dauguvos krante tiesiogiai rodo gyvenamąją vietą."
   pagrindžia:
-    - c-001
+    - c-32522
 
 <a id="claim-t-69564"></a>
 - t-002
   global_id: t-69564
-  teiginys: 'Vidžemėje, Lietuvos pasienyje, jis turėjo savo kariuomenę.'
+  teiginys: "Vidžemėje, Lietuvos pasienyje, jis turėjo savo kariuomenę."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "761378-761790; hash=8e57347f367b7ee0f46d4ffc600e7754aa73f5d500d799f77a005d431fbdccd0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vidžemė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vidžemė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-68866
 - susijęs iš Burtnieko ežeras: XII–XIII a. sandūroje latvių gyvenama rytinė Vidžemės dalis siekė Burtnieko ežerą.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169591|Latviai]]: XII-XIII a. sandūroje latviai gyveno dešiniajame Dauguvos krante, dabartinėje Latgalijoje ir rytinėje Vidžemėje.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169591|Latviai]]: XII-XIII a. sandūroje latviai gyveno dešiniajame Dauguvos krante, dabartinėje Latgalijoje ir rytinėje Vidžemėje.
@@ -71,6 +104,7 @@ Tuomet, iš vienos pusės, turėdamas savo kariuomenę Vidžemėje, t.
     žemupį (apie Rygą), Kuršo šiaurinį galą ir visą Latvijos Baltijos
     kranto ruožą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -89,11 +123,51 @@ Tuomet, iš vienos pusės, turėdamas savo kariuomenę Vidžemėje, t.
     suvaldyti ir didikus ir bajoriją ir pasiekti absoliutiškos val-
     džios.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-32522
+  citata_originali: |
+    Latvijos Henrikas juos vadino « Lethi vel Le _t_ ­
+    _th_ igalli», kartą paaiškindamas « qui proprie dicuntur Lethigalli»
+    (X, 3). XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai,
+    kurie jau nuo seniau buvo įsikūrę dešiniajame Dauguvos krante,
+    apimdami dabartinę Latgaliją ir rytinę Vidžemės dalį nuo Aiz­
+    krauklės prie Dauguvos iki Burtnieko ežero. Toliau į vakarus gy­
+    veno suomių-ugrų kiltis lybiai, apimdami abiem pusėm Dauguvos
+    žemupį (apie Rygą), Kuršo šiaurinį galą ir visą Latvijos Baltijos
+    kranto ruožą.
+  citata_rodoma: "XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai,\nkurie jau nuo seniau buvo įsikūrę dešiniajame Dauguvos krante,\napimdami dabartinę Latgaliją ir rytinę Vidžemės dalį nuo Aiz­\nkrauklės prie Dauguvos iki Burtnieko ežero. Toliau į vakarus gy­\nveno suomių-ugrų kiltis lybiai, apimdami abiem pusėm Dauguvos\nžemupį (apie Rygą), Kuršo šiaurinį galą ir visą Latvijos Baltijos\nkranto ruožą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-69563
+
+- id: c-68866
+  citata_originali: |
+    Augustas irgi pasi-
+    ryžo prie jo prisidėti; Petrui palikęs Estiją, jis svajojo nusika-
+    riauti sau Livoniją (Vidžemę). Čia jis ketino susikurti savo nuo-
+    savą kunigaikštiją. Tuomet, iš vienos pusės, turėdamas savo ka-
+    riuomenę Vidžemėje, t. y. Lietuvos pasieny, o iš kitos pusės,
+    nuo Lenkijos netolimoje Saksonijoje, jis būtų galėjęs lengviau
+    suvaldyti ir didikus ir bajoriją ir pasiekti absoliutiškos val-
+    džios.
+  citata_rodoma: "Tuomet, iš vienos pusės, turėdamas savo ka-\nriuomenę Vidžemėje, t. y. Lietuvos pasieny, o iš kitos pusės,\nnuo Lenkijos netolimoje Saksonijoje, jis būtų galėjęs lengviau\nsuvaldyti ir didikus ir bajoriją ir pasiekti absoliutiškos val-\ndžios."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-69564
 
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Latviai]]

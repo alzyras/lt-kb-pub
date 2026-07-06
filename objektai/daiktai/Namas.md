@@ -5,6 +5,18 @@ saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Namas
 
@@ -37,16 +49,31 @@ Nenurodyta
 <a id="claim-t-08307"></a>
 - t-001
   global_id: t-08307
-  teiginys: 'Pirmasis giriose gyvenusių žmonių trobesys vadintas nams, namas arba namaitis.'
+  teiginys: "Pirmasis giriose gyvenusių žmonių trobesys vadintas nams, namas arba namaitis."
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  saltinio_vieta: "47711-48623; hash=2a2222864e71d5cd7c77a2e4cd53bd0a964db9c5b3e3bc0d8e22d1e178cbf2bb; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
+    - c-10262
 
 <a id="claim-t-08308"></a>
 - t-002
   global_id: t-08308
-  teiginys: 'Senovėj tame name atlikdavo visus namų darbus ir laikydavo reikmenis.'
+  teiginys: "Senovėj tame name atlikdavo visus namų darbus ir laikydavo reikmenis."
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  saltinio_vieta: "52774-53456; hash=a36cc51c1387875f4dbf5d76669e51b9c387df3d85ffca4e1615b7adf187ade5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kalnėnai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Namas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kalnėnai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Namas\" parinktas kaip owner_note_path. Targetas \"Kalnėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-10263
 - susijęs iš Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams.
 - susijęs iš Vilniaus pilis: Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-54961|Elena (vyskupas, XV–XVI a.)]]: Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams.
@@ -178,7 +205,6 @@ Nenurodyta
 - susijęs iš [[objektai/daiktai/Akademijos spaustuvės spaudmenys, popierius ir knygų egzemplioriai.md#claim-t-87069|Akademijos spaustuvės spaudmenys, popierius ir knygų egzemplioriai]]: Akademijos spaustuvė nuo kiekvienos naujai išspausdintos knygos turėjo duoti po vieną egzempliorių Lietuvos kancleriams ir Viešajai bibliotekai.
 - susijęs iš [[objektai/daiktai/Arbaletai.md#claim-t-186830|Arbaletai]]: Lietuvos metraštyje pasakojama, kad prieš vokiečius išjoję Mindaugo kariai buvo ginkluoti arbaletais.
 - susijęs iš [[objektai/daiktai/Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos.md#claim-t-87018|Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos]]: Barboros Radvilaitės rūmų griuvėsiai stovėjo tarp Katedros ir Šv. Jurgio bažnyčios prie Vilijos, kol 1828 m. buvo parduoti plytoms.
-- susijęs iš [[objektai/daiktai/Ietis.md#claim-t-186834|Ietis]]: Lietuvos metraštis pasakoja, kad Algirdas atrėmė savo ietį į Maskvos sieną ir liepė prisiminti, jog „lietuvių ietis“ stovėjo prie Maskvos.
 - susijęs iš [[objektai/daiktai/Kūtė.md#claim-t-08300|Kūtė]]: Namo tvarte, arba kūtėje, laikytos karvės, jaučiai ir avys, o už jo buvo atskira arklių kūtė.
 - susijęs iš [[objektai/daiktai/Kūtė.md#claim-t-08301|Kūtė]]: Už arklių kūtės dar buvo kiaulių kūtelė, o bandos tvarte laikydavo žąsis ir pyles.
 - susijęs iš [[objektai/daiktai/Skobnis.md#claim-t-59705|Skobnis]]: Martynas iš Golino su bendrais po žygio Sūduvoje sėdo už skobnies papietauti, bet juos užpuolė priešai.
@@ -319,12 +345,13 @@ Nenurodyta
 - susijęs iš Šventežeris: Narbutas Šventežerį sieja su Nemuno kairiajame krante minimais šventais ežerais ir miestelio vardu.
 - susijęs iš Žuvų turgus Vilniuje (sujungti pirminiai pavadinimai Žuvų turgavietė; Žuvų turgus Vilniuje): 1746 m. Kazimieras ir Mykolas Vežbickiai bibliotekai užrašė lėšas iš namų ir sklypų, tarp jų Liaudanskų mūrinio namo Žuvų turgavietės gale.
 - susijęs iš [[objektai/zodynas/Czuhskas.md#claim-t-189289|Czuhskas]]: Narbutas rašė, kad latviai naminius žalčius, garbintus kaip fetišus, vadino Czuhskas, o šiuos prietarus žinojo ir Lietuvos rusinai.
+- susijęs iš [[objektai/zodynas/Russ ir Ross.md#claim-t-192188|Russ ir Ross]]: Narbutas rašo, kad vienas lietuvių pamokslininkas iš Viikiškių Prūsijoje žodį Russ vertė į vokiečių kalbą kaip Stammorth.
+- susijęs iš [[objektai/zodynas/Russ ir Ross.md#claim-t-192192|Russ ir Ross]]: Narbuto aiškinimu, Russ atitinka lenkišką Gtomna osada, o dainelėje reiškia Ojcow dziedzina, tėviškę.
 - susijęs iš [[objektai/zodynas/Veldėmė.md#claim-t-07694|veldėmė]]: `Veldėmė` šiame tekste reiškia paveldimą žemės nuosavybę.
 - susijęs iš [[objektai/zodynas/Veldėmė.md#claim-t-07695|veldėmė]]: Veldėme laikytas gyvenimas ir gruntas, įgytas darbu ir galėtas dovanoti kaip savas daiktas.
 - susijęs iš [[objektai/zodynas/ariergardas.md#claim-t-185353|ariergardas]]: Maustas, Sudargas ir Masius puldinėjo atsitraukiančios kryžiuočių kariuomenės ariergardą, siekdami laimėti laiko lietuvių ir žemaičių pajėgoms.
 - susijęs iš [[objektai/zodynas/buožės darbo valstiečiai.md#claim-t-183405|buožės darbo valstiečiai]]: 1949 m. daugiau kaip pusė Lietuvos valstiečių įsiskolino valstybei už pieną ir mėsą, o tokių ūkių savininkai buvo nuteisti.
 - susijęs iš [[objektai/zodynas/grabnyčių diena.md#claim-t-58903|grabnyčių diena]]: Grabnyčių dieną, vasario 2-ąją, magistras Mangoldas įsiveržė į Sūduvos valsčių Kresmeną ir jį nusiaubė.
-- susijęs iš [[objektai/zodynas/jurisdikcija.md#claim-t-173021|jurisdikcija]]: Valerijono Bursos namų jurisdikcija palikta Vilniaus vyskupų įpėdiniams, nes namai stovėjo vyskupijos žemėje.
 - susijęs iš [[objektai/zodynas/kahalas.md#claim-t-86529|kahalas]]: Akademijos rektorius Juraha nuėmė viderkafto mokestį nuo Švarco namu vadinto mūro ir priskyrė jį kahale investuotoms sumoms.
 - susijęs iš [[objektai/zodynas/klierikų kolegija seminarija.md#claim-t-86475|klierikų kolegija seminarija]]: Vilniaus seminarijai prašyta karaliaus Stepono globos ir gynybos, kad ji galėtų nuolat gyvuoti ir klestėti.
 - susijęs iš [[objektai/zodynas/kustodas.md#claim-t-86532|kustodas]]: Janas Filipovičius buvo daktaras, kustodas ir Vilniaus kanauninkas, pardavęs karalienei Elenai paveldėtą sklypą Vilniaus pilyje.
@@ -341,6 +368,10 @@ Nenurodyta
 - susijęs iš [[objektai/zodynas/Šventieji ežerai.md#claim-t-189190|Šventieji ežerai]]: Narbutas rašo, kad Lydos apskrities Dubičių ežeras, dar vadintas Dub arba Duupe, vietos padavimuose laikytas šventu.
 - susijęs iš [[objektai/posakiai/Išmintis pasistatė sau namus, ji išsikirto septynis šulus.md#claim-t-89585|Išmintis pasistatė sau namus, ji išsikirto septynis šulus]]: Petras Dusburgietis rašo, kad Celestinas III Jeruzalėje „pastatė namus“ ir „išsikirto septynis šulus“, paskirdamas septynis kraštų komtūrus.
 - susijęs iš [[objektai/posakiai/Išmintis pasistatė sau namus, ji išsikirto septynis šulus.md#claim-t-89584|Išmintis pasistatė sau namus, ji išsikirto septynis šulus]]: Petras Dusburgietis „namus“ aiškina kaip Celestino III Jeruzalėje įkurtą ir pašventintą Teutonų ordino ligoninę.
+- susijęs iš [[objektai/daiktai/Ietis.md#claim-t-192078|Ietis]]: Lietuvos metraštis pasakoja, kad Algirdas atrėmė savo ietį į Maskvos sieną ir liepė prisiminti, jog „lietuvių ietis“ stovėjo prie Maskvos.
+- susijęs iš [[objektai/zodynas/Russ ir Ross.md#claim-t-192188|Russ ir Ross]]: Narbutas rašo, kad vienas lietuvių pamokslininkas iš Viikiškių Prūsijoje žodį Russ vertė į vokiečių kalbą kaip Stammorth.
+- susijęs iš [[objektai/zodynas/Russ ir Ross.md#claim-t-192192|Russ ir Ross]]: Narbuto aiškinimu, Russ atitinka lenkišką Gtomna osada, o dainelėje reiškia Ojcow dziedzina, tėviškę.
+- susijęs iš [[objektai/zodynas/jurisdikcija.md#claim-t-192171|jurisdikcija]]: Valerijono Bursos namų jurisdikcija palikta Vilniaus vyskupų įpėdiniams, nes namai stovėjo vyskupijos žemėje.
 - susijęs iš Jeruzalė: Popiežius Celestinas III Jeruzalėje įkūrė ir pašventino Švč. Marijos Teutonų ordino vienuolių ligoninę.
 ## Reikšmingi paminėjimai
 
@@ -359,8 +390,9 @@ Nenurodyta
         pylė paplavas ir kitą įurštą^183 vandenį, iš kurios duobės tekėjo pro namo pamatą į griovį, kursai
         išvestas buvo namo pasieniu lauko pusėj pakalniui.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -376,11 +408,51 @@ Nenurodyta
         šildės ir permerkti nuo lytaus ar krušos džiovinos, vasarą tenai valgė, rudenį ir žiemą stotkus arba
         baldus ir kitą namų padarynę, beje, žambius, akėčias, ant sulos kamaros sukeltus, laikė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-10262
+  citata_originali: |
+    Pirmasis jų trobesys tose giriose vadinos nams, arba namas, namaitis, dėl ko ir visa tauta nuo
+        prašaleičių nomadžiais buvo vadinama, beje, žmonės, namuose gyvenantys. Tas trobesys, kurį
+        šiandien dar daugioj vietoj gal regėti, buvo pailguotinas^182 ketvirtainis, be lubų, į pietus su
+        skliautais, kuriuose netoli nuo čiukuro buvo trys langeliai, rąste išpjauti, vienas aukščiau, o du
+        žemiau per du rąstu, platumo kaip balandis galėjo įlėkti, nuo vanago vejamas, ir dūmai išrūkti.
+        Po skliautais į pietus buvo durys, didžiosiomis vadinamos, pro kurias mažne su vežimu galėjo
+        įvažiuoti, nuo rytų pusės buvo mažosios durys, o šaly jų langelis nuo saulėtekio, taip pat rąste
+        per augumą nuo žemės dėl šviesos iškirstas; po tuo langeliu namo pusėj duobė iškasta, į kurią
+        pylė paplavas ir kitą įurštą^183 vandenį, iš kurios duobės tekėjo pro namo pamatą į griovį, kursai
+        išvestas buvo namo pasieniu lauko pusėj pakalniui.
+  citata_rodoma: "Pirmasis jų trobesys tose giriose vadinos nams, arba namas, namaitis, dėl ko ir visa tauta nuo\nprašaleičių nomadžiais buvo vadinama, beje, žmonės, namuose gyvenantys. Tas trobesys, kurį\nšiandien dar daugioj vietoj gal regėti, buvo pailguotinas^182 ketvirtainis, be lubų, į pietus su\nskliautais, kuriuose netoli nuo čiukuro buvo trys langeliai, rąste išpjauti, vienas aukščiau, o du\nžemiau per du rąstu, platumo kaip balandis galėjo įlėkti, nuo vanago vejamas, ir dūmai išrūkti.\nPo skliautais į pietus buvo durys, didžiosiomis vadinamos, pro kurias mažne su vežimu galėjo\nįvažiuoti, nuo rytų pusės buvo mažosios durys, o šaly jų langelis nuo saulėtekio, taip pat rąste\nper augumą nuo žemės dėl šviesos iškirstas; po tuo langeliu namo pusėj duobė iškasta, į kurią\npylė paplavas ir kitą įurštą^183 vandenį, iš kurios duobės tekėjo pro namo pamatą į griovį, kursai\nišvestas buvo namo pasieniu lauko pusėj pakalniui."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-08307
+
+- id: c-10263
+  citata_originali: |
+    Senovėj kalnėnai ir žemaičiai tame trobesy visus namų darbus atliko: alų, midų darė, žlugtį
+        žlugino, namo asloj dirbo ratus, tekinius, važius, roges, šlėdes^206 , arba šlajas, kubilus ir kitus indus,
+        žambius^207 , akėčias, milus ir tūbus^208 loviuose vėlė; trumpai sakant, jų namas buvo trobesys,
+        kuriame, kokiai norint esant pagadai, žmogus, nuo saulės ir nuo darganos paglemžtas^209 , galėjo
+        brūzti, kokį noris išsiėmęs knebinį, nesgi tenai visados ugnis kūrinos, prie kurios pablaka susėdę
+        šildės ir permerkti nuo lytaus ar krušos džiovinos, vasarą tenai valgė, rudenį ir žiemą stotkus arba
+        baldus ir kitą namų padarynę, beje, žambius, akėčias, ant sulos kamaros sukeltus, laikė.
+  citata_rodoma: "Senovėj kalnėnai ir žemaičiai tame trobesy visus namų darbus atliko: alų, midų darė, žlugtį\nžlugino, namo asloj dirbo ratus, tekinius, važius, roges, šlėdes^206 , arba šlajas, kubilus ir kitus indus,\nžambius^207 , akėčias, milus ir tūbus^208 loviuose vėlė; trumpai sakant, jų namas buvo trobesys,\nkuriame, kokiai norint esant pagadai, žmogus, nuo saulės ir nuo darganos paglemžtas^209 , galėjo\nbrūzti, kokį noris išsiėmęs knebinį, nesgi tenai visados ugnis kūrinos, prie kurios pablaka susėdę\nšildės ir permerkti nuo lytaus ar krušos džiovinos, vasarą tenai valgė, rudenį ir žiemą stotkus arba\nbaldus ir kitą namų padarynę, beje, žambius, akėčias, ant sulos kamaros sukeltus, laikė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-08308
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Celestinas III]], [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]], [[objektai/asmenys/Popiežius Celestinas III]]

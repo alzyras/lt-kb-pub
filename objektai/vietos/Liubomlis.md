@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Liubomlis
 
@@ -19,9 +31,22 @@ Teodoro Sanguškos dalis buvo Liubomlis.
 <a id="claim-t-187253"></a>
 - t-001
   global_id: t-187253
-  teiginys: 'Liubomlis buvo kunigaikščio Teodoro Sanguškos dalis.'
+  teiginys: "Liubomlis buvo kunigaikščio Teodoro Sanguškos dalis."
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "134222-134479; hash=642db576fdc04207fdee78e6c61ee55e6cd18decbe94b04560a94014535d8923; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  ryšio_patikimumas: "susije_su -> Sanguškos: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Liubomlis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Sanguškos: mention_match, group, gap=36"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liubomlis\" parinktas kaip owner_note_path. Targetas \"Sanguškos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
+    - c-170311
 - susijęs iš Cartoryskas: Lietuvos metraštyje Konstantino dalimi įvardijami Černigovas ir Cartoryskas.
 ## Reikšmingi paminėjimai
 
@@ -35,8 +60,26 @@ Teodoro Sanguškos dalis buvo Liubomlis.
     lis— Černigovas ir Cartoryskas Šeštas—Teodoras 1 2
     Sanguška l3 , jo dalis — Liubomlis M .
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-170311
+  citata_originali: |
+    Trečias — kunigaikštis Simonas Lengvenis6 , jo da­
+    lis— Mstislavlis7 . Ketvirtas — Vingaudas Andrius8 , jo
+    dalis — Triubčevskas9 . Penktas— Konstantinas l0 , jo da­
+    lis— Černigovas ir Cartoryskas Šeštas—Teodoras 1 2
+    Sanguška l3 , jo dalis — Liubomlis M .
+  citata_rodoma: "Šeštas—Teodoras 1 2  \nSanguška l3 , jo dalis — Liubomlis M ."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187253

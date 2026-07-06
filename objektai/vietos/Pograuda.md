@@ -14,6 +14,18 @@ tags:
   - vieta
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Pograuda
 
@@ -26,9 +38,23 @@ Nors Pograudos apylinkių gyventojai iš anksto buvo įspėti apie kryžiuočių
 <a id="claim-t-28246"></a>
 - t-001
   global_id: t-28246
-  teiginys: '1311 m. Brandenburgo komtūras su kariais nusiaubė Pograudos apylinkę, žudydamas ir imdamas žmones į nelaisvę.'
+  teiginys: "1311 m. Brandenburgo komtūras su kariais nusiaubė Pograudos apylinkę, žudydamas ir imdamas žmones į nelaisvę."
+  semantiniai_rysiai: "Kryžiuočių ordinas puolė Pograuda (0.72)"
+  temporaliniai_duomenys: "įvykio data: 1311 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas ilgas citatos fragmentas ir OCR triukšmas, paliktas pagrindinis faktas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "611204-611625; hash=28f3c2d9f6a37d126d817fc793e9cae7992ec6c6eadb996fe930a30639113f8d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Pograuda: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Pograuda: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai mini kryžiuočių puolimą Pograudos apylinkių kontekste."
   pagrindžia:
-    - c-001
+    - c-28150
 - susijęs iš [[objektai/ivykiai/Ordino žygiai į Pograudą ir Šalčininkus (1311 m.).md#claim-t-31462|Ordino žygiai į Pograudą ir Šalčininkus (1311 m.)]]: 1311 m. Brandenburgo komtūras su kariais nusiaubė Pograudos apylinkes, žudė žmones, ėmė belaisvius ir naikino ugnimi bei plėšimais.
 - susijęs iš [[objektai/ivykiai/Ordino žygiai į Pograudą ir Šalčininkus (1311 m.).md#claim-t-31462|Ordino žygiai į Pograudą ir Šalčininkus (1311 m.)]]: 1311 m. Brandenburgo komtūras su kariais nusiaubė Pograudos apylinkes, žudė žmones, ėmė belaisvius ir naikino ugnimi bei plėšimais.
 ## Reikšmingi paminėjimai
@@ -44,11 +70,30 @@ Nors Pograudos apylinkių gyventojai iš anksto buvo įspėti apie kryžiuočių
     pasiruošusius kovoti, išžudė visus belaisvius žmones ir visa, kas
     grobyje turėjo gyvybę»^15.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-28150
+  citata_originali: |
+    1311 ordinas turėjo vėl laikinų pasisekimų. Nors Pograudos
+    apylinkių gyventojai iš anksto buvo įspėti apie kryžiuočių puolimą,
+    Brandenburgo komtūras ir jo kariai sėkmingai teriojo apylinkę «ir
+    daugelį žmonių nužudė, ar paėmė į nelaisvę, stipriai viską naikin­
+    dami ugnimi ir plėšimais. Kai jie iš ten išėjo ir pamatė netikėlius,
+    pasiruošusius kovoti, išžudė visus belaisvius žmones ir visa, kas
+    grobyje turėjo gyvybę»^15.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-28246
 
 ## Ryšiai
 - Puolė Pograudą: [[objektai/grupes/Kryžiuočių ordinas]]

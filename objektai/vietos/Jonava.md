@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jonava
 
@@ -19,9 +31,19 @@ Tuo tarpu rusai atsiėmė Ukmergę, Jonavą ir Šiaulius.
 <a id="claim-t-02477"></a>
 - t-001
   global_id: t-02477
-  teiginys: 'Rusai atsiėmė Jonavą kartu su Ukmerge ir Šiauliais.'
+  teiginys: "Rusai atsiėmė Jonavą kartu su Ukmerge ir Šiauliais."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "934749-934889; hash=3799fe27e8e9613cd992c80801d403b5aa7b29446f750bf8db836afe1e3d3c46; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Šiauliai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jonava: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Šiauliai: mention_match, place, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonava\" parinktas kaip owner_note_path. Targetas \"Šiauliai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-02715
 - susijęs iš Jonavos azotinių trąšų gamykla: Septintąjį–aštuntąjį dešimtmetį Jonavos azotinių trąšų gamykla buvo pastatyta vykstant sparčiai Lietuvos industrializacijai.
 - susijęs iš [[objektai/grupes/Heinricho Hamano skrajojantis būrys.md#claim-t-19704|Heinricho Hamano skrajojantis būrys]]: Heinricho Hamano „skrajojantis būrys“ buvo iš lietuvių sudaryta zonderkomanda, vykdavusi į provincijos vietoves šaudyti.
 - susijęs iš [[objektai/grupes/Lietuvių policijos savisaugos batalionai.md#claim-t-19814|Lietuvių policijos savisaugos batalionai]]: Lietuvių savisaugos policijos grupės, tarp jų policijos batalionai, buvo įtrauktos į žudynių parengimą, aukų konvojavimą ir šaudymą.
@@ -46,8 +68,28 @@ Tuo tarpu rusai atsiėmė Ukmergę, Jonavą ir Šiaulius.
     Ukmergę, Jonavą ir Šiau-
     lius.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-02715
+  citata_originali: |
+    Tačiau puo-
+    limas nepasisekė. Netekęs
+    2.000 žmonių, Gelgaudas
+    pasitraukė į Raseinius.
+    Tuo tarpu rusai atsiėmė
+    Ukmergę, Jonavą ir Šiau-
+    lius.
+  citata_rodoma: "Tuo tarpu rusai atsiėmė\nUkmergę, Jonavą ir Šiau-\nlius."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-02477

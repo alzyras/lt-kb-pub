@@ -17,6 +17,18 @@ tags:
 amziai:
   - 'XIII'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Varakauskas R. Kautynės ties Ašerade (1279 m.) Iš lietuvių kovų prieš Livonijos ordiną XIII a
 
@@ -29,10 +41,23 @@ Dusburgietis teigia, kad varakauskas R.
 <a id="claim-t-61345"></a>
 - t-001
   global_id: t-61345
-  teiginys: 'R. Varakausko straipsnis apie 1279 m. kautynes ties Ašerade paskelbtas 1963 m. leidinyje „Istorija“ 4 tome.'
+  teiginys: "R. Varakausko straipsnis apie 1279 m. kautynes ties Ašerade paskelbtas 1963 m. leidinyje „Istorija“ 4 tome."
+  semantiniai_rysiai: "Lietuviai kariavo prieš Kryžiuočių ordinas (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1279 m.; įvykio data: apie 1279 m.; įvykio data: 1963 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinį įrašą, todėl galima suformuluoti faktą apie publikaciją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "802300-802476; hash=697671acc10611a49e0d087104724410baff4b6a9f7fee73b4e9cc6725864259; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai mini lietuvių kovas prieš ordiną; kandidatas atitinka ordino objektą."
   pagrindžia:
-    - c-001
-
+    - c-61977
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,8 +68,23 @@ Dusburgietis teigia, kad varakauskas R.
     ordiną XIII a.— Lietuvos TSR aukštųjų mokyklų mokslo darbai. Istorija, V., 1963, 4, p.
     123—134.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-61977
+  citata_originali: |
+    Varakauskas R. Kautynės ties Ašerade (1279 m.): Iš lietuvių kovų prieš Livonijos
+    ordiną XIII a.— Lietuvos TSR aukštųjų mokyklų mokslo darbai. Istorija, V., 1963, 4, p.
+    123—134.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-61345

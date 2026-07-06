@@ -9,18 +9,26 @@ datos:
   - '1967 m.'
 date_start: '1957'
 date_end: '1967'
-variantai:
-  - 'J. Lebedys'
-aliases:
-  - 'J. Lebedys'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - autorius
 amziai:
   - 'XX'
 periodo_grupes:
   - 'XX a.'
-tags:
-  - autorius
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jurgis Lebedys
 
@@ -29,23 +37,52 @@ tags:
 Lebedžio, Vilnius 1957, 31-35 p.
 
 ## Teiginiai
+
 <a id="claim-t-30687"></a>
 - t-001
   global_id: t-30687
-  teiginys: 'J. Lebedys kartu su K. Korsaku parengė „Lietuvių literatūros chrestomatiją“, išleistą Vilniuje 1957 m.'
+  teiginys: "J. Lebedys kartu su K. Korsaku parengė „Lietuvių literatūros chrestomatiją“, išleistą Vilniuje 1957 m."
+  temporaliniai_duomenys: "įvykio data: 1957 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "123419-124245; hash=8da866e4ffb394eba34824e4c26dda8db9dd7478aa889a841b397df814f656fa; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "J. Lebedys: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=86"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Lebedys\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-32973
 
 <a id="claim-t-188424"></a>
 - t-002
   global_id: t-188424
-  teiginys: 'Jurgis Lebedys parengė 1967 m. Vilniuje išleistus Simono Stanevičiaus „Raštus“.'
+  teiginys: "Jurgis Lebedys parengė 1967 m. Vilniuje išleistus Simono Stanevičiaus „Raštus“."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1967 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Kataloginis įrašas paverstas sakiniu apie Lebedžio parengimą. Palikta tik leidinio autorystės ir parengimo informacija."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "28302-28383; hash=fc9c45f4a0dcba919dc657ed83fd098ee8a86f85c95d21b42c8108ac428e5ed8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "J. Lebedys: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Lebedys\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-002
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
-
+    - c-171314
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -64,19 +101,60 @@ Lebedžio, Vilnius 1957, 31-35 p.
     historyk i apologeta, AW, X, 1935, 71-96 p.; XI, 1936, 117-172 p.**
     (^10) **Z. Ivinskis, LE, t. 26, 16 p.**
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Jurgis Lebedys parengė 1967 m. Vilniuje išleistus Simono Stanevičiaus „Raštus“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     9 Žr .-.Stanevičius S. Raštai / Parengė Jurgis Lebedys. -  V, 1967. -
     P. 216-303.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-32973
+  citata_originali: |
+    1 d., Kaunas 1934, 48-81 p.;
+    jis kildino Rotundą iš Veliuonos ; Z. Ivinskis, LE, t. 26, 15 p.; J. Jurgi­
+    nis :** **_Renesansas ir humanizmas Lietuvoje,_** **Vilnius 1965, 157-158 p.; JMTV,
+    118 p.; MLTE, III, 102-103 p.**
+    (^4) **JMTV, 116-132 p.**
+    (^5) **V. Maciūnas :** **_Orzechowski,_** **LE, t. 21, 216 p.**
+    (^6) **_Rozmowa litivina z polakem,_** **išl. J. Korzeniowski, Krokuva 1890
+    (Lenkų Mokslo Akad. leidinys, serijoje : Biblioteka pisarzów polskich).**
+    (^7) **Liet. išverstą ištrauką žr.** **_Lietuvių literatūros chrestomatijoj,_** **paruoštoj
+    K. Korsako ir J. Lebedžio, Vilnius 1957, 31-35 p.**
+    (^8) **Plg. I. Lappo, t. p., 70-76 p.**
+    (^9) **M. Baryczowa : Augustyn Rotundus Mieleski, wójt wileński, pierwszy
+    historyk i apologeta, AW, X, 1935, 71-96 p.; XI, 1936, 117-172 p.**
+    (^10) **Z. Ivinskis, LE, t. 26, 16 p.**
+  citata_rodoma: "**\n(^7) **Liet. išverstą ištrauką žr.** **_Lietuvių literatūros chrestomatijoj,_** **paruoštoj\nK. Korsako ir J. Lebedžio, Vilnius 1957, 31-35 p."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-30687
+
+- id: c-171314
+  citata_originali: |
+    9 Žr .-.Stanevičius S. Raštai / Parengė Jurgis Lebedys. -  V, 1967. -
+    P. 216-303.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188424

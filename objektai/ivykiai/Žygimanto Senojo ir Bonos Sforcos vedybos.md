@@ -15,6 +15,18 @@ tags:
   - pilis
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Žygimanto Senojo ir Bonos Sforcos vedybos
 
@@ -43,10 +55,22 @@ Nenurodyta
 <a id="claim-t-20595"></a>
 - t-001
   global_id: t-20595
-  teiginys: 'Žygimantas Senasis 1519 m. vedė Milano kunigaikštytę Boną Sforcą.'
+  teiginys: "Žygimantas Senasis 1519 m. vedė Milano kunigaikštytę Boną Sforcą."
+  temporaliniai_duomenys: "įvykio data: 1519 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys prasideda fragmentu; citata remia užbaigtą sakinį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "114376-114828; hash=f21819df431ffe2169c458733bda479708a2bffd322f5f75504956d9d528d5fb; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Milanas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimanto Senojo ir Bonos Sforcos vedybos: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Milanas: mention_match, place, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimanto Senojo ir Bonos Sforcos vedybos\" parinktas kaip owner_note_path. Targetas \"Milanas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-23316
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -62,8 +86,30 @@ Nenurodyta
     Žygimantui Senajam 1519 m. vedus Milano kunigaikštytę Boną Sforcą
     (Bona Sforza).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-23316
+  citata_originali: |
+    Lietuvos bėda, kad
+    ji dažnu atveju nesuspėjo ar neturėjo galimybių pasiekti „gilesnę“ Europą
+    ir europeizacija baigdavosi lenkėjimu. Ši aplinkybė išryškėjo reformacijos
+    metu, kai buvo pradėta kelti gyvųjų kalbų reikšmė.
+    Renesansas ir reformacija
+    Humanistinio išsilavinimo žmonių būta jau XV–XVI a.
+    sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko
+    Žygimantui Senajam 1519 m. vedus Milano kunigaikštytę Boną Sforcą
+    (Bona Sforza).
+  citata_rodoma: "sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-20595

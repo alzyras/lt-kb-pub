@@ -8,6 +8,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # etmonas
 
@@ -20,23 +32,64 @@ Greta didžiojo etmono M.
 <a id="claim-t-42451"></a>
 - t-001
   global_id: t-42451
-  teiginys: 'Kristupas Radvila vėliau tapo didžiuoju etmonu ir buvo vadinamas Perkūnu.'
+  teiginys: "Kristupas Radvila vėliau tapo didžiuoju etmonu ir buvo vadinamas Perkūnu."
+  semantiniai_rysiai: "Kristupas Radvila buvo sūnus Radvila (0.67)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "351776-352227; hash=0c20f3859f2a4927e191007ea8627fb8cdbdba6983c8216843e81db7d9ea0da6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Radvila: 0.67"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kristupas Radvila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Radvila: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata Kristupą Radvilą įvardija M. Radvilos sūnumi, nors kandidato „Radvila“ pastaba nėra visiškai specifinė."
   pagrindžia:
-    - c-001
+    - c-45514
 
 <a id="claim-t-187521"></a>
 - t-002
   global_id: t-187521
-  teiginys: 'Aleksandras, pasitaręs su ponu Petru, etmono vietą perdavė Konstantinui Ostrogiškiui.'
+  teiginys: "Aleksandras, pasitaręs su ponu Petru, etmono vietą perdavė Konstantinui Ostrogiškiui."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "260792-261102; hash=39718f094e1628a5883656bd5e243166f0ac8188ac85e2cd8da38606bd6df06f; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Trakai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "etmonas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Trakai: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"etmonas\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-002
+    - c-170472
 
 <a id="claim-t-187522"></a>
 - t-003
   global_id: t-187522
-  teiginys: 'Lietuvos metraštyje Žemaičių seniūnas ir LDK etmonas čeką Joną Cerniną su svetimšaliais pasiuntė į Polocką kaip įgulą.'
+  teiginys: "Lietuvos metraštyje Žemaičių seniūnas ir LDK etmonas čeką Joną Cerniną su svetimšaliais pasiuntė į Polocką kaip įgulą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "278279-278805; hash=5d09c7252dee32c6d3bfdabc7f9c8f1df7b5c869dc81933b996549fc0a7b3907; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Polockas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "etmonas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Polockas: mention_match, place, gap=54"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"etmonas\" parinktas kaip owner_note_path. Targetas \"Polockas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-003
+    - c-170473
 - susijęs iš [[objektai/asmenys/Avigenas.md#claim-t-186096|Avigenas]]: Kolonijos Agripinos arkivyskupas Avigenas su kariuomene patraukė į žygį ir jai vadovavo lyg etmonas.
 - susijęs iš [[objektai/asmenys/Jonas Chodkevičius.md#claim-t-63715|Jonas Chodkevičius]]: Jonas Chodkevičius buvo tarp geriausių tuo metu surinktų karių ir vėliau tapo Livonijos etmonu.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103053|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila paveikslo „Oršos mūšis“ fragmente vaizduojamas kaip buože užsimojęs lauko etmonas.
@@ -143,6 +196,7 @@ Greta didžiojo etmono M.
     Kunzo Lochnerio, XVI a.
     6 dešimtmetyje
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -160,6 +214,7 @@ Greta didžiojo etmono M.
     kiui2 4 . Ir pagal tą Trakų vaivados patarimą karalius
     davė etmono vietą kunigaikščiui Konstantinui2 5 .
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -181,8 +236,73 @@ Greta didžiojo etmono M.
     nės mieste, Prūsijoje, mirė Lenkijos karalius Olbrach-
     tas 6 0 , karaliaus Aleksandro brolis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-45514
+  citata_originali: |
+    buvo geriausi kariai, kuriuos tuo metu
+    buvo galima surinkti. Greta didžiojo
+    etmono M. Radvilos buvo jo šešio-
+    likmetis sūnus Kristupas Radvila,
+    vėliau tapęs didžiuoju etmonu ir
+    vadintas Perkūnu, lauko etmo-
+    nas Grigalius Chodkevičius,
+    būsimasis lauko etmonas
+    Romanas Sanguška, būsima-
+    sis Livonijos etmonas Jonas
+    Chodkevičius ir daugelis kitų.
+
+    Žygimanto Augusto
+    paradiniai šarvai, pa-
+
+    gaminti Niunberge meistro
+    Kunzo Lochnerio, XVI a.
+    6 dešimtmetyje
+  citata_rodoma: "Greta didžiojo\netmono M. Radvilos buvo jo šešio-\nlikmetis sūnus Kristupas Radvila,\nvėliau tapęs didžiuoju etmonu ir\nvadintas Perkūnu, lauko etmo-\nnas Grigalius Chodkevičius,\nbūsimasis lauko etmonas\nRomanas Sanguška, būsima-\nsis Livonijos etmonas Jonas\nChodkevičius ir daugelis kitų.\n\nŽygimanto Augusto\nparadiniai šarvai, pa-\n\ngaminti Niunberge meistro\nKunzo Lochnerio, XVI a."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-42451
+
+- id: c-170472
+  citata_originali: |
+    Ir didysis kunigaikštis Aleksandras, maty­
+    damas jį nebetvirtą esant, tarėsi su juo, kam po jo mir­
+    ties perduoti etmono vietą. Ponas Petras patarė per­
+    duoti Volynės kunigaikščiui Konstantinui Ostrogiš-
+    kiui2 4 . Ir pagal tą Trakų vaivados patarimą karalius
+    davė etmono vietą kunigaikščiui Konstantinui2 5 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187521
+
+- id: c-170473
+  citata_originali: |
+    Ir, apsupę Mstislavlio miestą, ilgokai stovėjo ir,
+    pridarę aplink miestą daug žalos, sugrįžo atgal5 8 .
+    Ponas Žemaičių seniūnas ir visos Lietuvos Didžio­
+    sios Kunigaikštystės etmonas ilgokai stovyklavo kalnuo­
+    se ir paskui nužygiavo į Lietuvą, čeką Joną Cerniną su
+    visais svetimšaliais nusiuntė į Polocką kaip įgulą5 9 .
+    Septyni tūkstančiai dešimtaisiais, o nuo Kristaus gi­
+    mimo tūkstantis penki šimtai pirmaisiais metais Toru-
+    nės mieste, Prūsijoje, mirė Lenkijos karalius Olbrach-
+    tas 6 0 , karaliaus Aleksandro brolis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187522

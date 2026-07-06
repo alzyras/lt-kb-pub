@@ -14,6 +14,18 @@ tags:
   - vieta
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vilniaus televizijos bokštas
 
@@ -26,10 +38,22 @@ amziai:
 <a id="claim-t-170926"></a>
 - t-001
   global_id: t-170926
-  teiginys: '1991 m. sausio 13-ąją, sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos laisvės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji pateko po tanko vikšrais ir mirė ligoninėje.'
+  teiginys: "1991 m. sausio 13-ąją, sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos laisvės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji pateko po tanko vikšrais ir mirė ligoninėje."
+  temporaliniai_duomenys: "įvykio data: 1967 m.; įvykio data: 1991 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie televizijos bokšto šturmą ir aukas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "502327-502837; hash=e3d6eada5f22bb6b59853bf0dc3b9587da474f7b8f198b4a7f27da7e5b408e28; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus televizijos bokštas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus televizijos bokštas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-155531
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,8 +68,29 @@ amziai:
     vės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji
     pateko po tanko vikšrais ir mirė ligoninėje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-155531
+  citata_originali: |
+    Aplink
+    AT-AS pastatą statomos betoninės sienos ir spygliuotų vielų užtvaros. Apie
+    12 val. nakties sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei
+    Lietuvos radijo ir televizijos komiteto pastatą, kurį tik savo kūnais gynė
+    daugiatūkstantinė taikių Lietuvos gyventojų minia. 1991 m. sausio 13-ąją,
+    sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos lais-
+    vės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji
+    pateko po tanko vikšrais ir mirė ligoninėje.
+  citata_rodoma: "1991 m. sausio 13-ąją, \nsovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos lais-\nvės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji \npateko po tanko vikšrais ir mirė ligoninėje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-170926

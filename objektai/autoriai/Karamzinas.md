@@ -3,10 +3,23 @@ tipas: autorius
 pavadinimas: 'Karamzinas'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Karamzinas
 
@@ -17,18 +30,61 @@ Karamzinas minimas kaip „Historya Państwa Rossyjsk.“ ir „Hist. Ros.“ nu
 ## Teiginiai
 
 <a id="claim-t-55009"></a>
-- t-001
+- t-002
   global_id: t-55009
-  teiginys: 'Balinskis teigė, kad Karamzinas Lietuvos istorijos įvykius dėstė gana paviršutiniškai.'
+  teiginys: "Balinskis teigė, kad Karamzinas Lietuvos istorijos įvykius dėstė gana paviršutiniškai."
+  semantiniai_rysiai: "Narimantas (Pinsko kunigaikštis) buvo sūnus Algirdas (Lietuvos valdovas) (0.92); Karigaila buvo sūnus Algirdas (Lietuvos valdovas) (0.92)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "280359-280731; hash=c4b5758e99e6a65b8fdf8716391cf953d710d2a7417eb715af509ebd9d2705e3; match=whitespace_regex"
+  sprendimo_priezastis: "gap::authors"
+  ryšio_patikimumas: "buvo_sunus -> Algirdas (Lietuvos valdovas): 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Narimantas (Pinsko kunigaikštis): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata Narimantą pateikia tarp Algirdo sūnų."
   pagrindžia:
-    - c-001
+    - c-55574
 
 <a id="claim-t-81928"></a>
-- t-002
+- t-003
   global_id: t-81928
-  teiginys: 'Karamzinas Mindaugo kilmės įrodymus laikė visiškais paistalais, nebent būtų priimtos didelės chronologinės klaidos.'
+  teiginys: "Karamzinas Mindaugo kilmės įrodymus laikė visiškais paistalais, nebent būtų priimtos didelės chronologinės klaidos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "122574-123113; hash=e302ea93f223f4977cac6f538435301a2cb891c4113940b2d21667820ec87363; match=whitespace_regex"
+  sprendimo_priezastis: "gap::authors"
+  ryšio_patikimumas: "susije_su -> Mindaugas (valdovas, XIII a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Karamzinas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Mindaugas (valdovas, XIII a.): mention_match, person, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karamzinas\" parinktas kaip owner_note_path. Targetas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-78452
+
+<a id="claim-t-190750"></a>
+- t-004
+  global_id: t-190750
+  teiginys: "Narbutas Karamziną priskiria mokslininkams, Ezechielio žodį Ross arba Russ aiškinusiems perkeltine galvos ar svarbiausio dalyko prasme."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "396423-396932; hash=9caf433a0aa4e1a540864ec682368dac1db2c7f8a023eb000ca106070a246b90; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ezechielis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Karamzinas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Ezechielis: mention_match, person, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karamzinas\" parinktas kaip owner_note_path. Targetas \"Ezechielis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-173632
 - susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176833|Vytenis (valdovas, XIII–XIV a.)]]: Karamzinas abejojo prielaida, kad Vytenis, lietuvis pagonis, galėjo būti rusino Vido Dovydavičiaus vaikaitis.
 ## Reikšmingi paminėjimai
 
@@ -48,6 +104,7 @@ Karamzinas minimas kaip „Historya Państwa Rossyjsk.“ ir „Hist. Ros.“ nu
     Karigailą nukirsdino. Hist. Ros. V,
     135.
   citata_rodoma: ''
+  teiginio_tipas: vertinimas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -74,8 +131,101 @@ Karamzinas minimas kaip „Historya Państwa Rossyjsk.“ ir „Hist. Ros.“ nu
     vardą, buvo rusino Vido Dovydavičiaus sūnus, arba, kad
     Vytenis, lietuvis pagonis, - jo vaikaitis?
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: 'Narbutas Karamziną priskiria mokslininkams, Ezechielio žodį Ross arba Russ aiškinusiems perkeltine galvos ar svarbiausio dalyko prasme.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Manydami, kad mūsų skaity­
+    tojai prisimena anksčiau šia tema sakytus dalykus (§55),
+    ir norėdami geriau suprasti visą dalyką, turime papildomai
+    aiškinti.
+    221
+    Šventajame Rašte, pas pranašą Ezechielį, mokslininkai
+    aptinka žodį Ross ar Russ, kurį vieni laiko tam tikros
+    tautos pavadinimu, kiti — asmenvardžiu, o dar kiti, kurių
+    pusėje yra ir Karamzinas, supranta jį perkeltine Gtowa,
+    Olomnošč, galvos, svarbiausio dalyko, prasme. Rytų ra­
+    šytojai, remdamiesi Korano aiškinimais, linkę pritarti pir­
+    mam požiūriui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003
+
+## Citatos
+
+- id: c-55574
+  citata_originali: |
+    K a-
+    r a m z i n, kuris apskritai I ietnvos
+    istorijos įvykius gan paviršutiniškai
+    yra išdėstęs, tiki tuo Strijkovskio pa­
+    sakojimu ir Vytauto charakterį nu­
+    sakydamas, visai nuo tikrovės nu­
+    toldamas, nurodo, esą nužudęs tris
+    Algirdo sūnus: Vygantą Kijeviškį
+    nunuodijo, Narimantą pakorė ant
+    medžio šakos pakabinęs ir nušovė,
+    Karigailą nukirsdino. Hist. Ros. V,
+    135.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-55009
+
+- id: c-78452
+  citata_originali: |
+    1
+    Ri'gii, Ui ERDVILAS.
+    45
+
+    ## Puslapis 62
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Karamzinas0, laikydamas tai labai abejotinu dalyku, o Min­
+    daugo kilmės įrodymus - visiškais paistalais, nebent būtų
+    priimtinos už tiesą didžiausios chronologinės klaidos ir su­
+    tikta su prielaida, kad Rusios kunigaikščių sūnūs, krikščio­
+    nys, galėjo turėti lietuviškus vardus ir būti pagonys. Ar ga­
+    lima būtų sutikti, tarkime, kad Traidenis, turėjęs lietuvišką
+    vardą, buvo rusino Vido Dovydavičiaus sūnus, arba, kad
+    Vytenis, lietuvis pagonis, - jo vaikaitis?
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-81928
+
+- id: c-173632
+  citata_originali: |
+    Manydami, kad mūsų skaity­
+    tojai prisimena anksčiau šia tema sakytus dalykus (§55),
+    ir norėdami geriau suprasti visą dalyką, turime papildomai
+    aiškinti.
+    221
+    Šventajame Rašte, pas pranašą Ezechielį, mokslininkai
+    aptinka žodį Ross ar Russ, kurį vieni laiko tam tikros
+    tautos pavadinimu, kiti — asmenvardžiu, o dar kiti, kurių
+    pusėje yra ir Karamzinas, supranta jį perkeltine Gtowa,
+    Olomnošč, galvos, svarbiausio dalyko, prasme. Rytų ra­
+    šytojai, remdamiesi Korano aiškinimais, linkę pritarti pir­
+    mam požiūriui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190750

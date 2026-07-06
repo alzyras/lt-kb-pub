@@ -2,6 +2,7 @@ import fs from "node:fs"
 import { QuartzPluginData } from "../plugins/vfile"
 import { collectCitationMetadata, collectClaimCount } from "../util/citationFilter"
 import { FullSlug, resolveRelative } from "../util/path"
+import { BrandLockup } from "./BrandLockup"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 // @ts-ignore
 import script from "./scripts/home-collection.inline"
@@ -22,6 +23,7 @@ type ObjectCard = {
   type: string
   quoteCount: number
   claimCount: number
+  relationCount: number
   summary: string
 }
 
@@ -359,7 +361,22 @@ function hubObjectCount(page: QuartzPluginData): number {
       return parsed
     }
   }
-  return new Set([...markdown.matchAll(/\[\[(objektai\/[^\]|#]+)(?:\|[^\]]+)?\]\]/g)].map((match) => match[1])).size
+  return new Set(
+    [...markdown.matchAll(/\[\[(objektai\/[^\]|#]+)(?:\|[^\]]+)?\]\]/g)].map((match) => match[1]),
+  ).size
+}
+
+function relationCount(markdown: string, selfSlug?: FullSlug): number {
+  const links = new Set<string>()
+  for (const match of markdown.matchAll(
+    /\[\[(objektai\/[^\]|#]+)(?:#[^\]|]+)?(?:\|[^\]]+)?\]\]/g,
+  )) {
+    const slug = match[1]?.trim()
+    if (slug && slug !== selfSlug) {
+      links.add(slug)
+    }
+  }
+  return links.size
 }
 
 function objectCards(allFiles: QuartzPluginData[]): ObjectCard[] {
@@ -375,6 +392,7 @@ function objectCards(allFiles: QuartzPluginData[]): ObjectCard[] {
         type: pageType(page),
         quoteCount: citation.quoteCount,
         claimCount,
+        relationCount: relationCount(markdown, page.slug as FullSlug),
         summary: trimSentence(extractSummary(markdown), 190),
       }
     })
@@ -391,13 +409,34 @@ function countByType(allFiles: QuartzPluginData[]): Map<string, number> {
 }
 
 function topCards(cards: ObjectCard[], limit: number): ObjectCard[] {
-  return [...cards]
-    .sort((a, b) => {
-      const scoreA = a.quoteCount * 4 + a.claimCount
-      const scoreB = b.quoteCount * 4 + b.claimCount
-      return scoreB - scoreA || a.title.localeCompare(b.title, "lt")
-    })
-    .slice(0, limit)
+  const score = (card: ObjectCard) => card.claimCount * 2 + card.quoteCount * 3 + card.relationCount
+  const ranked = [...cards].sort(
+    (a, b) => score(b) - score(a) || a.title.localeCompare(b.title, "lt"),
+  )
+  const selected: ObjectCard[] = []
+  const typeUse = new Map<string, number>()
+
+  for (const card of ranked) {
+    if ((typeUse.get(card.type) ?? 0) >= 2) {
+      continue
+    }
+    selected.push(card)
+    typeUse.set(card.type, (typeUse.get(card.type) ?? 0) + 1)
+    if (selected.length >= limit) {
+      return selected
+    }
+  }
+
+  for (const card of ranked) {
+    if (!selected.includes(card)) {
+      selected.push(card)
+    }
+    if (selected.length >= limit) {
+      return selected
+    }
+  }
+
+  return selected
 }
 
 function linkFromPage(page: QuartzPluginData, meta?: string): BrowseLink {
@@ -458,17 +497,13 @@ function largestHubLinks(
   const links = allFiles
     .filter((page) => String(page.slug ?? "").startsWith(prefix) && pageTitle(page))
     .map((page) => ({ page, count: hubObjectCount(page) }))
-    .sort(
-      (a, b) =>
-        b.count - a.count || pageTitle(a.page).localeCompare(pageTitle(b.page), "lt"),
-    )
+    .sort((a, b) => b.count - a.count || pageTitle(a.page).localeCompare(pageTitle(b.page), "lt"))
 
-  return (typeof limit === "number" ? links.slice(0, limit) : links)
-    .map(({ page, count }) => ({
-      ...linkFromPage(page, objectCountText(count)),
-      imageKey,
-      imageAlt,
-    }))
+  return (typeof limit === "number" ? links.slice(0, limit) : links).map(({ page, count }) => ({
+    ...linkFromPage(page, objectCountText(count)),
+    imageKey,
+    imageAlt,
+  }))
 }
 
 function browseGroups(
@@ -530,7 +565,8 @@ function sourceCards(cards: ObjectCard[], limit: number): ObjectCard[] {
 const HomeCollection: QuartzComponent = ({ fileData, allFiles }: QuartzComponentProps) => {
   const typeCounts = countByType(allFiles)
   const cards = objectCards(allFiles)
-  const highlights = topCards(cards, 6)
+  const highlights = topCards(cards, 9)
+  const [featuredHighlight, ...secondaryHighlights] = highlights
   const sources = sourceCards(cards, 4)
   const groups = browseGroups(allFiles, typeCounts)
   const spotlight = spotlightObjects(allFiles)
@@ -605,12 +641,22 @@ const HomeCollection: QuartzComponent = ({ fileData, allFiles }: QuartzComponent
             <button type="submit" aria-label="Ieškoti kolekcijoje">
               <span aria-hidden="true">→</span>
             </button>
-            <div
-              class="collection-search-suggestions"
-              data-collection-search-suggestions
-              hidden
-            />
+            <div class="collection-search-suggestions" data-collection-search-suggestions hidden />
           </form>
+          <dl class="collection-hero-stats" aria-label="Kolekcijos statistika">
+            <div>
+              <dt>Objektai</dt>
+              <dd>{objectTotal.toLocaleString("lt-LT")}</dd>
+            </div>
+            <div>
+              <dt>Teiginiai</dt>
+              <dd>{claimTotal.toLocaleString("lt-LT")}</dd>
+            </div>
+            <div>
+              <dt>Citatos</dt>
+              <dd>{quoteTotal.toLocaleString("lt-LT")}</dd>
+            </div>
+          </dl>
         </div>
       </section>
 
@@ -688,99 +734,92 @@ const HomeCollection: QuartzComponent = ({ fileData, allFiles }: QuartzComponent
         </div>
       </section>
 
-      <section class="collection-full-search" aria-labelledby="collection-full-search-title">
-        <div>
-          <p class="collection-kicker">Paieška</p>
-          <h2 id="collection-full-search-title">Ieškok visoje LT KB kolekcijoje</h2>
-        </div>
-        <div class="collection-full-search-actions">
+      <section class="collection-about-band" aria-labelledby="collection-about-title">
+        <div class="collection-about-copy">
+          <p class="collection-kicker">Apie svetainę</p>
+          <h2 id="collection-about-title" class="collection-about-brand-title">
+            <BrandLockup showTagline />
+          </h2>
           <p>
-            Atverk bendrą paiešką, jei ieškai konkretaus asmens, vietos, šaltinio, teiginio, datos
-            ar raktinio žodžio visame viešame korpuse.
-          </p>
-          <button type="button" data-collection-search-trigger="true">
-            Atidaryti paiešką
-          </button>
-        </div>
-      </section>
-
-      <section
-        class="collection-info-band collection-care-band"
-        aria-labelledby="collection-info-title"
-      >
-        <div>
-          <p class="collection-kicker">Tyrimo struktūra</p>
-          <h2 id="collection-info-title">Šaltiniai, ryšiai ir įrodymai vienoje vietoje.</h2>
-        </div>
-        <div class="collection-info-copy">
-          <p>
-            Kolekcija leidžia pereiti nuo šaltinio citatos iki objekto, nuo objekto iki laikotarpio,
-            nuo teiginio iki susijusių vietų, asmenų ir įvykių.
-          </p>
-          <p>
-            Tai darbo bazė, todėl skirtingų laikotarpių pasakojimai, legendiniai tekstai ir
-            poleminiai šaltiniai pateikiami kartu su jų kilme bei citavimo kontekstu.
+            Čia asmenys, vietos, įvykiai, šaltiniai, temos ir laikotarpiai sujungti per teiginius,
+            citatas ir ryšius. Pradėk nuo objekto arba paieškos, atsiversk jo teiginius, patikrink
+            citavimo kontekstą ir toliau sek susijusias temas, laikotarpius arba ryšių žemėlapį.
           </p>
         </div>
-      </section>
-
-      <section class="collection-editorial-band" aria-labelledby="collection-editorial-title">
-        <p class="collection-kicker">Kolekcijos skaitymas</p>
-        <h2 id="collection-editorial-title">
-          Pradėk nuo objekto, tada sek jo citatas, laikotarpius ir susijusias temas.
-        </h2>
-        <div>
+        <nav class="collection-about-actions" aria-label="Pradėti naršyti">
           <a href={resolveRelative(currentSlug, "objektai" as FullSlug)}>Objektai</a>
           <a href={resolveRelative(currentSlug, "temos" as FullSlug)}>Temos</a>
           <a href={resolveRelative(currentSlug, "laikotarpiai" as FullSlug)}>Laikotarpiai</a>
-        </div>
-      </section>
-
-      <section class="collection-stats" aria-label="Kolekcijos statistika">
-        <dl>
-          <div>
-            <dt>Objektai</dt>
-            <dd>{objectTotal.toLocaleString("lt-LT")}</dd>
-          </div>
-          <div>
-            <dt>Kategorijos</dt>
-            <dd>{categories.length}</dd>
-          </div>
-          <div>
-            <dt>Teiginiai</dt>
-            <dd>{claimTotal.toLocaleString("lt-LT")}</dd>
-          </div>
-          <div>
-            <dt>Citatos</dt>
-            <dd>{quoteTotal.toLocaleString("lt-LT")}</dd>
-          </div>
-        </dl>
+          <a href={resolveRelative(currentSlug, "zemelapis" as FullSlug)}>Žemėlapis</a>
+        </nav>
       </section>
 
       <section
         class="collection-section collection-highlights"
         aria-labelledby="collection-highlights-title"
       >
-        <div class="collection-section-heading">
+        <div class="collection-section-heading collection-section-heading-compact">
           <p>Akcentai</p>
-          <h2 id="collection-highlights-title">Kolekcijos akcentai</h2>
+          <div>
+            <h2 id="collection-highlights-title">Objektai, nuo kurių verta pradėti</h2>
+            <p class="collection-section-lead">
+              Atrinkta pagal teiginių, citatų ir tiesioginių ryšių kiekį, paliekant skirtingus
+              objektų tipus.
+            </p>
+          </div>
         </div>
-        <div class="collection-highlight-grid">
-          {highlights.map((card, index) => (
-            <a class="collection-highlight-card" href={resolveRelative(currentSlug, card.slug)}>
-              <span class="collection-card-image" aria-hidden="true">
-                {String(index + 1).padStart(2, "0")}
+        {featuredHighlight && (
+          <div class="collection-featured-object-grid">
+            <a
+              class="collection-featured-object"
+              href={resolveRelative(currentSlug, featuredHighlight.slug)}
+            >
+              <span class="collection-type-label">
+                {typeLabels.get(featuredHighlight.type) ?? featuredHighlight.type}
               </span>
-              <span class="collection-type-label">{typeLabels.get(card.type) ?? card.type}</span>
-              <h3>{card.title}</h3>
-              {card.summary && <p>{card.summary}</p>}
-              <span class="collection-card-meta">
-                {card.claimCount.toLocaleString("lt-LT")} teig. /{" "}
-                {card.quoteCount.toLocaleString("lt-LT")} cit.
+              <h3>{featuredHighlight.title}</h3>
+              {featuredHighlight.summary && <p>{featuredHighlight.summary}</p>}
+              <dl class="collection-object-stats">
+                <div>
+                  <dt>Teiginiai</dt>
+                  <dd>{featuredHighlight.claimCount.toLocaleString("lt-LT")}</dd>
+                </div>
+                <div>
+                  <dt>Citatos</dt>
+                  <dd>{featuredHighlight.quoteCount.toLocaleString("lt-LT")}</dd>
+                </div>
+                <div>
+                  <dt>Ryšiai</dt>
+                  <dd>{featuredHighlight.relationCount.toLocaleString("lt-LT")}</dd>
+                </div>
+              </dl>
+              <span class="collection-object-cta">
+                Atidaryti objektą <span aria-hidden="true">&gt;</span>
               </span>
             </a>
-          ))}
-        </div>
+            <div class="collection-highlight-list">
+              {secondaryHighlights.map((card, index) => (
+                <a class="collection-highlight-row" href={resolveRelative(currentSlug, card.slug)}>
+                  <span class="collection-highlight-index">
+                    {String(index + 2).padStart(2, "0")}
+                  </span>
+                  <span class="collection-highlight-main">
+                    <span class="collection-type-label">
+                      {typeLabels.get(card.type) ?? card.type}
+                    </span>
+                    <strong>{card.title}</strong>
+                    {card.summary && <small>{card.summary}</small>}
+                  </span>
+                  <span class="collection-highlight-stats">
+                    <span>{card.claimCount.toLocaleString("lt-LT")} teig.</span>
+                    <span>{card.quoteCount.toLocaleString("lt-LT")} cit.</span>
+                    <span>{card.relationCount.toLocaleString("lt-LT")} ryš.</span>
+                  </span>
+                </a>
+              ))}
+            </div>
+          </div>
+        )}
       </section>
 
       <section

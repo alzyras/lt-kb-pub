@@ -8,6 +8,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Žirgai
 
@@ -40,12 +52,23 @@ Nenurodyta
 <a id="claim-t-59717"></a>
 - t-001
   global_id: t-59717
-  teiginys: 'Henriko arklys naktį sustojo prie skardžio, nes matė pavojų, kurio raitelis tamsoje negalėjo išvysti.'
+  teiginys: "Henriko arklys naktį sustojo prie skardžio, nes matė pavojų, kurio raitelis tamsoje negalėjo išvysti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "611001-612143; hash=758e204c1e1b656e7da0609e1676e4e1cc00a9a712f19586e20634dd09f0358d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Henrikas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žirgai: owner_note_path, thing"
+  ryšio_targeto_parinkimas: "Henrikas: mention_match, author, gap=1"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žirgai\" parinktas kaip owner_note_path. Targetas \"Henrikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-60349
 - susijęs iš [[objektai/asmenys/Albrechtas (Prūsijos kunigaikštis).md#claim-t-87612|Albrechtas (Prūsijos kunigaikštis)]]: Albrechtas, Prūsijos kunigaikštis, testamente turėjo gauti du gerus žirgus ir būti paskutinės valios gynėju bei globėju.
 - susijęs iš [[objektai/asmenys/Dargis.md#claim-t-60261|Dargis]]: Dargis buvo Žiokos valsčiuje gyvenęs prūsas, nepakentęs baltų žirgų ir po Ditricho bandymų atsisakęs prietaro.
 - susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59839|Ditrichas (Sembos fogtas)]]: Sembos fogtas Ditrichas nupirko Dargiui baltą arklį, norėdamas atpratinti jį nuo prietaro dėl baltų žirgų.
+- susijęs iš [[objektai/asmenys/Fajetonas.md#claim-t-191267|Fajetonas]]: Graikų poetų sakmėje Fajetonas, saulės sūnus, nesuvaldė tėvo žirgų danguje ir sukėlė žemėje baisius padarinius.
 - susijęs iš [[objektai/asmenys/Henrikas iš Berkos.md#claim-t-60311|Henrikas iš Berkos]]: Henrikas iš Berkos iš Tiuringijos buvo paskirtas Ditricho iš Bernheimo pagalbininku su ginklanešiais ir daugybe žirgų.
 - susijęs iš [[objektai/asmenys/Henrikas iš Ceico.md#claim-t-60312|Henrikas iš Ceico]]: Henrikas iš Ceico iš Vitchendorfo kaimo buvo paskirtas Ditricho iš Bernheimo pagalbininku su ginklanešiais ir daugybe žirgų.
 - susijęs iš [[objektai/asmenys/Ibrahimas (Turkijos čiaušas).md#claim-t-87513|Ibrahimas (Turkijos čiaušas)]]: Turkijos imperatoriaus čiaušas Ibrahimas buvo atsiųstas pas karalių ir, atvykęs iš Maskvos, paliko Vilniuje tarnus, žirgus bei daiktus.
@@ -62,7 +85,6 @@ Nenurodyta
 - susijęs iš [[objektai/ivykiai/Livonijos raitelių žūtis Žemaitijoje (1466 m.).md#claim-t-185614|Livonijos raitelių žūtis Žemaitijoje (1466 m.)]]: Lietuvių pasalos išgąsdinti Livonijos raiteliai pasileido žirgais ir, suvirtę į užmaskuotus griovius, visi žuvo.
 - susijęs iš [[objektai/ivykiai/Naugardo pasidavimas Vytautui ir duoklės nustatymas.md#claim-t-186603|Naugardo pasidavimas Vytautui ir duoklės nustatymas]]: Lietuvos metraštis nurodo, kad Naugardas Vytauto iždui kasmet mokėjo dešimt tūkstančių auksinų, žirgus ir kailius, o Pskovas davė pusę tiek.
 - susijęs iš [[objektai/ivykiai/Ragainės brolių žirgų pagrobimas ir Ragainės bei Skalvių papilių sudeginimas (1295 m.).md#claim-t-62449|Ragainės brolių žirgų pagrobimas ir Ragainės bei Skalvių papilių sudeginimas (1295 m.)]]: 1295 m. birželio 19 d. lietuviai saloje prie Ragainės pilies pagrobė brolių žirgus ir galvijus.
-- susijęs iš [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos.md#claim-t-05333|Aisčių laidotuvių ir vėlinių apeigos]]: Aisčių laidotuvių apeigose mirusiųjų kapai darėsi turtingesni, o drauge su mirusiaisiais buvo pakasami išpuošti žirgai.
 - susijęs iš [[objektai/posakiai/Palikime savo žirgus toli užpakalyje.md#claim-t-09674|Palikime savo žirgus toli užpakalyje]]: Matas pasiūlė kryžiuočiams palikti žirgus užnugaryje ir pulti priešus pėsčiomis.
 - susijęs iš [[objektai/posakiai/Palikime savo žirgus toli užpakalyje.md#claim-t-09675|Palikime savo žirgus toli užpakalyje]]: „Palikime savo žirgus toli užpakalyje“ reiškė sumanymą atimti kariams viltį trauktis ir priversti juos nevengti mūšio.
 - susijęs iš [[objektai/posakiai/aš tą užstatytą arklį paėmiau už savo pinigus.md#claim-t-86853|aš tą užstatytą arklį paėmiau už savo pinigus]]: Formulė „aš tą užstatytą arklį paėmiau už savo pinigus“ buvo žydo priesaikos tekstas ginče dėl vogto žirgo.
@@ -73,6 +95,7 @@ Nenurodyta
 - susijęs iš [[objektai/zodynas/stabmeldys.md#claim-t-42510|stabmeldys]]: Stabmeldžiai svaidė ietis į krikščionis, o rusai strėlėmis sužeidė daug vyrų ir žirgų.
 - susijęs iš [[objektai/zodynas/žirgų kapai.md#claim-t-28617|žirgų kapai]]: Terminas „žirgų kapai“ kilo iš papročio šalia sudegintų žmonių lavonų su įkapėmis užkasti nedegintus žirgus.
 - susijęs iš [[objektai/zodynas/žygūnai.md#claim-t-58933|žygūnai]]: Prūsai siųsdavo žygūnus pas Lenkijos kunigaikštį reikalauti žirgų ir ryškiaspalvių drabužių.
+- susijęs iš [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos.md#claim-t-05332|Aisčių laidotuvių ir vėlinių apeigos]]: Aisčių laidotuvių apeigose mirusiųjų kapai darėsi turtingesni, o drauge su mirusiaisiais buvo pakasami išpuošti žirgai.
 - susijęs iš [[objektai/asmenys/Asianas Abrahimovičius.md#claim-t-87628|Asianas Abrahimovičius]]: Asianas Abrahimovičius buvo paskirtas vertėju Turkijos imperatoriaus čiaušui Ibrahimui, kuriam leista kurį laiką gyventi Vilniuje.
 - susijęs iš [[objektai/asmenys/Burnašas.md#claim-t-80731|Burnašas]]: Mengli-Girėjaus jaunesnieji sūnūs Fatihas ir Burnašas vadovavo žygiui į LDK gilumą.
 - susijęs iš [[objektai/asmenys/Danutė.md#claim-t-186193|Danutė]]: Danutė, Mazovijos kunigaikščio Jonušo žmona, atpažino į Mazoviją atvykusį tėvą ir padėjo jam grįžti į Lietuvą.
@@ -189,8 +212,34 @@ Nenurodyta
     bent žingsnį žengęs į priekį, jis paženklino save šventuoju kryžiaus ženklu ir pašlovino
     vardą viešpaties, per kurį išvengė šitokio siaubingo pavojaus.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-60349
+  citata_originali: |
+    Kartą
+    vakarėjant jis išvydo link jo atjojant juodų juodžiausiu žirgu raitelį, kuris jam tarė:
+    „Henrikai, eikš su manimi, bet vienui vienas, nuvesiu tave  į tokią vietą, kur tu pelnysi
+    didelį grobį“. Henrikas nudžiugo ir, užsėdęs savo žirgą, nusekė iš paskos visokiausiais
+    keliais ir šunkeliais. Galop jis prijojo vietą, kur jo arklys nebenorėjo toliau nė žingsnio
+    žengti, nors jį ir smarkiai ragino pentinais. Mat arklys matė pavojų, kurio raitelis nakties
+    tamsoje negalėjo išvysti. Galop Henrikas tarė savo arkliui, stipriai  jį paspausdamas
+    pentinais: „Vardan viešpaties— į priekį“. Tada jo bendras, tai yra velnias, atsistojo prieš
+    jį ir pasakė: „Tavo laimė, kad paminėjai savo dievo vardą, jeigu to nebūtum padaręs,
+    jau būtum negyvas nutrenktas  į šią pragarmę“. Pagautas siaubo, Henrikas liko stovėti
+    toje vietoje, iki aušros nedrįsdamas nei į priekį žengti, nei atgal trauktis; kai jis išvydo
+    neapsakomai aukštą skardį, nuo kurio galėjo nukristi į giliausią prarają, jeigu arklys būtų
+    bent žingsnį žengęs į priekį, jis paženklino save šventuoju kryžiaus ženklu ir pašlovino
+    vardą viešpaties, per kurį išvengė šitokio siaubingo pavojaus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-59717

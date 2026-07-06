@@ -14,6 +14,18 @@ tags:
   - vieta
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Leipcigas
 
@@ -24,32 +36,73 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
 ## Teiginiai
 
 <a id="claim-t-83727"></a>
-- t-001
+- t-003
   global_id: t-83727
-  teiginys: 'Vasarį stovyklininkas Pavlikas buvo iš anksto pasiųstas su pinigais, kad jie laiku pasiektų Mlodyčių Leipcige.'
+  teiginys: "Vasarį stovyklininkas Pavlikas buvo iš anksto pasiųstas su pinigais, kad jie laiku pasiektų Mlodyčių Leipcige."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "831088-831436; hash=829bfe1c430da76110c9bd593519d73b17c56542c4514ef0b7545d8a8b63b5a1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Liublinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Leipcigas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Liublinas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Leipcigas\" parinktas kaip owner_note_path. Targetas \"Liublinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-79985
 
 <a id="claim-t-83728"></a>
-- t-002
+- t-001
   global_id: t-83728
-  teiginys: 'Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige.'
+  teiginys: "Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "246933-247521; hash=2bbc96ee6e62bee734214199f58f7198537d85ea2c699ad142be9ea55c7bb389; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Leipcigas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Leipcigas\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-24233
 
 <a id="claim-t-83729"></a>
-- t-003
+- t-002
   global_id: t-83729
-  teiginys: 'Rugpjūčio 5 d. Turčinas nuvežė pinigus karališkajai didenybei į Leipcigą ir keitė lietuviškas monetas į lenkiškas.'
+  teiginys: "Rugpjūčio 5 d. Turčinas nuvežė pinigus karališkajai didenybei į Leipcigą ir keitė lietuviškas monetas į lenkiškas."
+  semantiniai_rysiai: "Turčinas keliavo į Leipcigas (0.85)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "828730-828941; hash=2a686b73dc8cf2694af52503322d92c5e6130ad3851d14bba4f49a2109a26ed8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Leipcigas: 0.85"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Turčinas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Leipcigas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Turčinas tiesiogiai minimas kaip nuvežęs pinigus į Leipcigą."
   pagrindžia:
-    - c-003
+    - c-79986
 
 <a id="claim-t-83730"></a>
 - t-004
   global_id: t-83730
-  teiginys: 'Pavlikas turėjo laiku pasiųsti pinigus Mlodyčiui į Leipcigą ir ponui Plockiui skolai sumokėti.'
+  teiginys: "Pavlikas turėjo laiku pasiųsti pinigus Mlodyčiui į Leipcigą ir ponui Plockiui skolai sumokėti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "831088-831436; hash=829bfe1c430da76110c9bd593519d73b17c56542c4514ef0b7545d8a8b63b5a1; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Plockis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Leipcigas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Plockis: mention_match, person, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Leipcigas\" parinktas kaip owner_note_path. Targetas \"Plockis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-79985
 - susijęs iš [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis.md#claim-t-101689|Mikalojus Konstantinas Čiurlionis (dailininkas)]]: Mikalojus Konstantinas Čiurlionis studijavo muziką ir dailę Varšuvoje bei Leipcige.
 - susijęs iš [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis.md#claim-t-101691|Mikalojus Konstantinas Čiurlionis (dailininkas)]]: Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige.
 - susijęs iš [[objektai/asmenys/Mlodyčius.md#claim-t-87919|Mlodyčius]]: Mlodyčiui į Leipcigą turėjo būti laiku pasiųsti pinigai skolai sumokėti iš lietuviškų monetų, jas keičiant į lenkiškas.
@@ -58,6 +111,7 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
 - susijęs iš Gerullis G. Die altpreussischen Ortsnamen: G. Gerullio veikalas „Die altpreussischen Ortsnamen“ išleistas Berlyne ir Leipcige 1922 m.
 - susijęs iš Grunau S. Preussische Chronik: S. Grunau „Preussische Chronik“ pirmasis tomas, parengtas M. Perlbacho, išleistas Leipcige 1875 m.
 - susijęs iš Historiae Polonicae libri XII Dziejų Polskich ksiąg dwanaście: Joanio Długossio „Historiae Polonicae libri XII“ išleista Frankfurte ir Leipcige 1711–1712 m.
+- susijęs iš Johann Severin Vater, Sprache der alten Preussen: Narbutas citavo Vaterio veikalą „Sprache der alten Preussen“, 1821 m. išleistą Leipcige leidinyje „Annalisten“.
 - susijęs iš Plinius C. Secundus Naturalis historiae libri XXXVII Ed. C. Mayhoff. Vol. V. Libri XXXI— XXXVII,—Lipsiae, 1897: C. Pliniaus Secundus veikalo „Naturalis historiae“ penktasis tomas, apimantis XXXI–XXXVII knygas, C. Mayhoffo parengtas Leipcige 1897 m.
 - susijęs iš S. F. Platonov Geschichte Russlands vom Beginn bis zur Jetztzeit: S. F. Platonovo „Geschichte Russlands vom Beginn bis zur Jetztzeit“ išleista Leipcige 1927 m.
 - susijęs iš S. F. Platonov, Geschichte Russlands vom Beginn bis zur Jetztzeit: S. F. Platonovo „Geschichte Russlands vom Beginn bis zur Jetztzeit“ išleista Leipcige 1927 m.
@@ -85,8 +139,9 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
     žinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs
     Varšuvoje ir Leipcige.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -105,6 +160,7 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
     Plockiui sumokėti skolą iš lietuviškų monetų, jas keičiant į
     lenkiškas, pridėjau 1310 flor. (23 fl.: 88) (6) 9 den.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -121,11 +177,67 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
     liet. monetas į lenkiškas, pridėjau prie 100 zl. po 8 flor. 614 zl.:
     išlaidos 52 zl., 5 gr.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-24233
+  citata_originali: |
+    Lietuviai pirmieji Vilniuje
+    įkūrė Lietuvių dailės draugiją, pra-
+    dėjo rengti viešas dailės parodas,
+    bet netrukus tie vietiniai dailininkai, kurie nenorėjo tapatintis su etninių
+    lietuvių tautinio sąjūdžio tikslais, įkūrė atskirą Vilniaus dailės draugiją. Kai
+    kas nelengvai apsispręsdavo, kuriai draugijai priklausyti, nors nebuvo drau-
+    džiama priklausyti ir abiem tuo pat metu. Kurį laiką taip elgėsi Mikalojus
+    Konstantinas Čiurlionis (1875–1911), beje, plačiausiai šiuo metu pasaulyje
+    žinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs
+    Varšuvoje ir Leipcige.
+  citata_rodoma: "Kurį laiką taip elgėsi Mikalojus\nKonstantinas Čiurlionis (1875–1911), beje, plačiausiai šiuo metu pasaulyje\nžinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs\nVaršuvoje ir Leipcige."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-83728
+
+- id: c-79985
+  citata_originali: |
+    Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­
+    aris [vasarį], kai buvo iš anksto pasiųstas su pinigais, kad
+    443
+
+    ## Puslapis 460
+
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    juos laiku pasiųstų JMCPP* : Mlodyčiui į Leipcigą ir ponui
+    Plockiui sumokėti skolą iš lietuviškų monetų, jas keičiant į
+    lenkiškas, pridėjau 1310 flor. (23 fl.: 88) (6) 9 den.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-83727
+    - t-83730
+
+- id: c-79986
+  citata_originali: |
+    Die 5 Augusti [rugpjūčio 5 dieną] per Turčiną, kai jo kara­
+    liškajai didenybei pinigus nuvežė į Leipcigą, pakeisdamas
+    liet. monetas į lenkiškas, pridėjau prie 100 zl. po 8 flor. 614 zl.:
+    išlaidos 52 zl., 5 gr.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-83729
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Turčinas]]

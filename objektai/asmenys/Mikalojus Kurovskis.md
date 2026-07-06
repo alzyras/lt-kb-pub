@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Mikalojus Kurovskis
 
@@ -17,10 +29,22 @@ Lenčicos seimas pasiuntė Gniezno arkivyskupą Mikalojų Kurovskį pas kryžiuo
 <a id="claim-t-186239"></a>
 - t-001
   global_id: t-186239
-  teiginys: 'Lenčicos seimas pasiuntė Gniezno arkivyskupą Mikalojų Kurovskį pas kryžiuočius skatinti magistrą taikiai baigti ginčą su Vytautu.'
+  teiginys: "Lenčicos seimas pasiuntė Gniezno arkivyskupą Mikalojų Kurovskį pas kryžiuočius skatinti magistrą taikiai baigti ginčą su Vytautu."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "650005-650443; hash=fc96861bf4f389981a5503e345e44768a6cfad2043f48128001d38035f9172ec; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gniezno: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mikalojus Kurovskis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Gniezno: mention_match, place, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mikalojus Kurovskis\" parinktas kaip owner_note_path. Targetas \"Gniezno\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-169600
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -37,8 +61,29 @@ Lenčicos seimas pasiuntė Gniezno arkivyskupą Mikalojų Kurovskį pas kryžiuo
     sakymo, nei tas, kad jo žmonės, pakėlę ginklą, jau
     traukia į Lietuvą.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-169600
+  citata_originali: |
+    Atleidęs žygūną, jis sušaukė Lenčicoje seimą.
+    Seimas pasiuntė Mikalojų Kurovskį, Gnezno, arkivys­
+    kupą, pas kryžiuočius, įpareigodamas, negailint pastan­
+    gų, visokiais būdais skatinti magistrą draugiškai už­
+    baigti ginčą su Vytautu. Arkivyskupas ryžtingai ėmėsi
+    jam patikėto uždavinio, tačiau, ką bedarydamas ir ką
+    besakydamas, negalėjo iš magistro išgauti kitokio at­
+    sakymo, nei tas, kad jo žmonės, pakėlę ginklą, jau
+    traukia į Lietuvą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186239

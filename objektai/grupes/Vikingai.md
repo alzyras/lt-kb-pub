@@ -15,6 +15,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vikingai
 
@@ -27,17 +39,41 @@ Ilgainiui paliai šitą kelią atsirado vikingų sodybų: tai buvo sodybos žmon
 <a id="claim-t-66261"></a>
 - t-001
   global_id: t-66261
-  teiginys: 'Palei upių prekybos kelią ilgainiui atsirado vikingų sodybų, kurių gyventojai saugojo pirklius nuo plėšikų.'
+  teiginys: "Palei upių prekybos kelią ilgainiui atsirado vikingų sodybų, kurių gyventojai saugojo pirklius nuo plėšikų."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "62824-63225; hash=e5ca1f857c36cc7dac37382c32e368313160c1a3be9b944326384cdfe388b599; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bizantija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vikingai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Bizantija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vikingai\" parinktas kaip owner_note_path. Targetas \"Bizantija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-46405
 
 <a id="claim-t-182930"></a>
 - t-002
   global_id: t-182930
-  teiginys: 'Prie Dauguvos ir Dniepro kelio į Bizantiją ilgainiui atsirado vikingų sodybų, saugojusių upe keliaujančius pirklius nuo plėšikų.'
+  teiginys: "Prie Dauguvos ir Dniepro kelio į Bizantiją ilgainiui atsirado vikingų sodybų, saugojusių upe keliaujančius pirklius nuo plėšikų."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "62934-63270; hash=46d3f0228dc3652a9eb2c60992ed47136625c8658fe64c19de9416448d55689f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bizantija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vikingai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Bizantija: mention_match, place, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vikingai\" parinktas kaip owner_note_path. Targetas \"Bizantija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-166331
 - susijęs iš Biarmija: Narbutas Biarmiją iki vikingų atsikraustymo į Didįjį Naugardą apibūdino kaip atskirą valstybę, palaikiusią santykius su Naugardo slavais.
+- susijęs iš [[objektai/zodynas/vitingas.md#claim-t-192272|vitingas]]: Teodoras Narbutas vitingų titulą aiškina kaip skandinavų vikingų įpėdinių išsaugotą titulą tarp Sambijos bajorų.
 - susijęs iš [[objektai/grupes/Biarmiai.md#claim-t-189431|Biarmiai]]: Narbutas rašė, kad iki vikingų atsikraustymo į Didįjį Naugardą Biarmija, palaikydama ryšius su Naugardo slavais, sudarė atskirą valstybę.
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65555|Kuršiai]]: Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus.
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65560|Kuršiai]]: Kuršiai XI a. jau rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.
@@ -64,8 +100,9 @@ Ilgainiui paliai šitą kelią atsirado vikingų sodybų: tai buvo sodybos žmon
     dybų: tai buvo sodybos žmonių, saugančių upe keliaujančius
     pirklius nuo plėšikų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -82,11 +119,47 @@ Ilgainiui paliai šitą kelią atsirado vikingų sodybų: tai buvo sodybos žmon
     pirklius nuo plėšikų. Tad nemaža tokių sodybų buvo ir Padau-
     guvy.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-46405
+  citata_originali: |
+    Skandinavai, būdami energingiausi iš šiaurės Europos tautų, tu-
+    rėjo nuolatinį upių susisiekimą su Bizantija. Vienas iš jų svar-
+    biųjų upių kelių į Bizantiją buvo Dauguva ir Dniepras (čia
+    jiems tekdavo sausuma pereiti tiktai nedidelį tarpą, skiriantį tų
+    upių aukštupius). Ilgainiui paliai šitą kelią atsirado vikingų so-
+    dybų: tai buvo sodybos žmonių, saugančių upe keliaujančius
+    pirklius nuo plėšikų.
+  citata_rodoma: "Ilgainiui paliai šitą kelią atsirado vikingų so-\ndybų: tai buvo sodybos žmonių, saugančių upe keliaujančius\npirklius nuo plėšikų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66261
+
+- id: c-166331
+  citata_originali: |
+    Vienas iš jų svar-
+    biųjų upių kelių į Bizantiją buvo Dauguva ir Dniepras (čia
+    jiems tekdavo sausuma pereiti tiktai nedidelį tarpą, skiriantį tų
+    upių aukštupius). Ilgainiui paliai šitą kelią atsirado vikingų so-
+    dybų: tai buvo sodybos žmonių, saugančių upe keliaujančius
+    pirklius nuo plėšikų. Tad nemaža tokių sodybų buvo ir Padau-
+    guvy.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182930
 
 ## Ryšiai
 - Vikingai keliavo į [[objektai/vietos/Naugardas]], [[objektai/vietos/Nemunas]]

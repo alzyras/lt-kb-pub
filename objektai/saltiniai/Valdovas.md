@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - saltinis
   - valdovas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Valdovas
 
@@ -20,10 +32,12 @@ Putino - Mykolaičio, VALDOVAS...
 <a id="claim-t-34993"></a>
 - t-001
   global_id: t-34993
-  teiginys: 'V. Putino-Mykolaičio „Valdovas“ yra istorinė šešių veiksmų drama.'
+  teiginys: "V. Putino-Mykolaičio „Valdovas“ yra istorinė šešių veiksmų drama."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "741072-741137; hash=910500dc0c9b6a384e00647a5dac9444fed560d7e001f369e9e3b053a03f9088; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
-
+    - c-36218
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -31,8 +45,21 @@ Putino - Mykolaičio, VALDOVAS...
   citata_originali: |
     27. V. Putino - Mykolaičio, VALDOVAS... Istorinė 6 veiksmų drama.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-36218
+  citata_originali: |
+    27. V. Putino - Mykolaičio, VALDOVAS... Istorinė 6 veiksmų drama.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-34993

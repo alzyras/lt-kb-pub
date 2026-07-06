@@ -19,6 +19,18 @@ tags:
 amziai:
   - 'XVIII'
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # „Šlovė žemaičių“
 
@@ -31,9 +43,22 @@ Parašytas ir išleistas tiems laikams novatoriškas elementorius lietuvių kalb
 <a id="claim-t-77862"></a>
 - t-001
   global_id: t-77862
-  teiginys: 'Simonas Stanevičius išleido poezijos knygą su eilėraščiu „Šlovė žemaičių“, vadinamu kone žemaičių sąjūdžio himnu ar poetiniu manifestu.'
+  teiginys: "Simonas Stanevičius išleido poezijos knygą su eilėraščiu „Šlovė žemaičių“, vadinamu kone žemaičių sąjūdžio himnu ar poetiniu manifestu."
+  temporaliniai_duomenys: "įvykio data: 1822 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pirminis teiginys per ilgas ir jungia kelis faktus; citata palaiko glaustesnį sakinį apie eilėraštį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "209468-210333; hash=3e77ab1a86c2a196bb8e57c616694770a49351300612e2ee27fedc4fea9e96a3; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "„Šlovė žemaičių“: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„Šlovė žemaičių“\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-75180
 - susijęs iš [[objektai/autoriai/Simonas Stanevičius.md#claim-t-169894|Simonas Stanevičius]]: Simonas Stanevičius išleido poezijos knygą su eilėraščiu „Šlovė žemaičių“, laikomu kone tautinio kultūrinio sąjūdžio himnu ar manifestu.
 - susijęs iš [[objektai/paprociai/Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba.md#claim-t-67138|Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba]]: Lietuvių kalba buvo išleistas novatoriškas elementorius, o Simonas Stanevičius išleido poezijos knygą su eilėraščiu „Šlovė žemaičių“.
 - susijęs iš Būdas senovės lietuvių, žemaičių ir kalnėnų: Simonas Daukantas išleido beletrizuotą etninių lietuvių kultūros studiją „Būdas senovės lietuvių, žemaičių ir kalnėnų“.
@@ -61,8 +86,34 @@ Parašytas ir išleistas tiems laikams novatoriškas elementorius lietuvių kalb
     studiją „Būdas senovės lietuvių, žemaičių ir kalnėnų“, seriją švietėjiškų,
     Simonas Daukantas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-75180
+  citata_originali: |
+    Parašytas ir išleistas tiems lai-
+    kams novatoriškas elementorius
+    lietuvių kalba (žemaičių tarme),
+    poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje
+    buvo ir eilėraštis „Šlovė žemaičių“ – kone šio sąjūdžio himnas ar poetinis
+    manifestas, teigęs, kad žemaičių (lietuvių), kaip tautos, palaidoti nepa-
+    vyks. Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m.
+    parašė pirmąją didelę Lietuvos istoriją lietuvių kalba, ji tarp entuziastų
+    plito nuorašais. Vėliau S. Daukantas persikėlė į Sankt Peterburgą, įsidar-
+    bino Rusijos valstybės Senato archyve, kad galėtų prieiti prie ten saugomų
+    Lietuvos istorijos dokumentų, parašė lietuvių kalba dar dvi dideles Lietu-
+    vos istorijos knygas, išleido plačią beletrizuotą etninių lietuvių kultūros
+    studiją „Būdas senovės lietuvių, žemaičių ir kalnėnų“, seriją švietėjiškų,
+    Simonas Daukantas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77862

@@ -11,11 +11,6 @@ datos:
   - '1950 m.'
 date_start: '1936'
 date_end: '1950'
-description: 'SSRS vaidmuo Lietuvos okupacijoje: 1939 m. įtakos sfera, 1940 m. ultimatumas, sovietinis valdymo modelis ir priklausoma pramonė.'
-socialDescription: 'Kaip SSRS įtakos sfera, ultimatumas ir sovietinis valdymo modelis keitė Lietuvos valstybę, aukštąjį mokslą ir pramonę.'
-seo_atnaujinta: '2026-07-02T23:12:35.364879+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,91 +20,263 @@ tags:
   - vieta
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # SSRS
 
 ## Santrauka
 
-SSRS Lietuvos istorijoje siejama su 1939 m. rugsėjo 28 d. slaptuoju protokolu, po kurio Lietuvos teritorija pateko į SSRS įtakos sferą. 1940 m. Viačeslavas Molotovas Juozui Urbšiui pareiškė, kad SSRS kariuomenė vis tiek įžygiuos į Lietuvą, o pavertus Lietuvą SSRS dalimi valdymas pertvarkytas pagal Sovietų Sąjungos modelį. Sovietinė sistema palietė represijas, aukštąjį mokslą ir pramonę, kuri tapo priklausoma nuo kitų SSRS regionų.
+Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į SSRS įtakos sferą. Sovietams kariaujant su Suomija Baltijos valstybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos kaip agresorė. Urbšiui pridėjo, kad nesvarbu, koks bus atsakymas, SSRS kariuomenė vis tiek įžygiuos į Lietuvą.
 
 ## Teiginiai
 
 <a id="claim-t-77326"></a>
-- t-001
+- t-009
   global_id: t-77326
-  teiginys: 'Pusė per pirmuosius sovietų okupacijos metus suimtų politiniais nusikaltimais apkaltintų asmenų 1941 m. išvežti į SSRS gilumą.'
+  teiginys: "Pusė per pirmuosius sovietų okupacijos metus suimtų politiniais nusikaltimais apkaltintų asmenų 1941 m. išvežti į SSRS gilumą."
+  temporaliniai_duomenys: "įvykio data: 1941 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Įvardytas neaiškus įvardis „jų“ ir suformuluotas pilnas sakinys."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "392105-392342; hash=8feea829e3e9800dc3c989712843c45023e37b6cdd8f4e78c1edc95e698e5402; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Sibiras: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "SSRS: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Sibiras: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"SSRS\" parinktas kaip owner_note_path. Targetas \"Sibiras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-74742
 
 <a id="claim-t-77327"></a>
-- t-002
+- t-007
   global_id: t-77327
-  teiginys: 'Lietuvos aukštosios mokyklos buvo pertvarkytos pagal SSRS aukštųjų mokyklų sistemą, o jose dėstytas privalomas marksizmo-leninizmo kursas.'
+  teiginys: "Lietuvos aukštosios mokyklos buvo pertvarkytos pagal SSRS aukštųjų mokyklų sistemą, o jose dėstytas privalomas marksizmo-leninizmo kursas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "456992-457666; hash=dbc9b90c4341dc5f77c64508951b4745be4bf1a759d015ac8581d63bd87dbd39; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "SSRS: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=53"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"SSRS\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-005
+    - c-24468
 
 <a id="claim-t-77328"></a>
-- t-003
+- t-011
   global_id: t-77328
-  teiginys: '1939 m. rugsėjo 28 d. slaptojo protokolo pagrindu Lietuvos teritorija pateko į SSRS įtakos sferą.'
+  teiginys: "1939 m. rugsėjo 28 d. slaptojo protokolo pagrindu Lietuvos teritorija pateko į SSRS įtakos sferą."
+  semantiniai_rysiai: "Lietuva priklausė SSRS (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1939 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs; citata palaiko trumpą aiškų faktą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "370630-371248; hash=cda34d05003c854e22e0e31a4d1edfd41534939b60f2977d01ff76597cc8339d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> SSRS: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "SSRS: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claimas tiesiogiai nurodo Lietuvos teritorijos patekimą į SSRS įtakos sferą."
   pagrindžia:
-    - c-010
+    - c-74746
 
 <a id="claim-t-77329"></a>
 - t-004
   global_id: t-77329
-  teiginys: 'Lietuvą pavertus SSRS dalimi, jos valdymo sistema buvo pertvarkoma pagal Sovietų Sąjungos modelį.'
+  teiginys: "Lietuvą pavertus SSRS dalimi, jos valdymo sistema buvo pertvarkoma pagal Sovietų Sąjungos modelį."
+  semantiniai_rysiai: "Lietuva priklausė SSRS (0.96)"
+  temporaliniai_duomenys: "įvykio data: po 1936 m.; įvykio data: 1936 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako Lietuvos valdymo pertvarkymą pagal SSRS modelį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "389510-390157; hash=8c1807a6fcd578dc719312f90262e16f73c15d6a2a9759d16e93b2a245bb0169; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> SSRS: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "SSRS: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Lietuva paversta SSRS sudedamąja dalimi."
   pagrindžia:
-    - c-003
+    - c-24464
 
 <a id="claim-t-77331"></a>
-- t-005
+- t-012
   global_id: t-77331
-  teiginys: 'Įsileidusi SSRS karines bazes Lietuva prarado viltis būti išrinkta į Tautų Sąjungos Tarybą.'
+  teiginys: "Įsileidusi SSRS karines bazes Lietuva prarado viltis būti išrinkta į Tautų Sąjungos Tarybą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "374282-374657; hash=94a2e18acb50457152e8268d37154d9bdf5e82e805f8e8a275dd5c82e9775ea4; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "SSRS: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"SSRS\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-74745
 
 <a id="claim-t-77332"></a>
-- t-006
+- t-010
   global_id: t-77332
-  teiginys: 'Dėl amžinai blogų SSRS santykių su kapitalistinėmis valstybėmis Lietuvos ir kitų sovietinių respublikų pramonė buvo izoliuota, o dėl glaudžių ryšių su žaliavų tiekėjais tapo visiškai priklausoma nuo kitų SSRS regionų.'
+  teiginys: "Dėl amžinai blogų SSRS santykių su kapitalistinėmis valstybėmis Lietuvos ir kitų sovietinių respublikų pramonė buvo izoliuota, o dėl glaudžių ryšių su žaliavų tiekėjais tapo visiškai priklausoma nuo kitų SSRS regionų."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "445355-445886; hash=7a54ed16a73c040eece0507afc3f9c1ebb8a7f52d394dce22b25100b43ec923c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "SSRS: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=46"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"SSRS\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-74744
 
 <a id="claim-t-77333"></a>
-- t-007
+- t-013
   global_id: t-77333
-  teiginys: 'Baltijos valstybėse galimybė atsidurti SSRS valdžioje buvo klaidingai suvokta kaip laikinas grįžimas į Nikolajaus II Rusiją.'
+  teiginys: "Baltijos valstybėse galimybė atsidurti SSRS valdžioje buvo klaidingai suvokta kaip laikinas grįžimas į Nikolajaus II Rusiją."
+  temporaliniai_duomenys: "įvykio data: 1940 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Patikslinta, kad citata pabrėžia klaidingą totalitarinio režimo nesuvokimą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "381409-382426; hash=86f62c1033091ee1989eb25602ee63baf265ff86f8bc6cccdcbc1979d69089a3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "SSRS: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=78"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"SSRS\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-011
+    - c-74747
 
 <a id="claim-t-77334"></a>
-- t-008
+- t-003
   global_id: t-77334
-  teiginys: 'Viačeslavas Molotovas Juozui Urbšiui pareiškė, kad nepaisant Lietuvos atsakymo SSRS kariuomenė įžygiuos į Lietuvą.'
+  teiginys: "Viačeslavas Molotovas Juozui Urbšiui pareiškė, kad nepaisant Lietuvos atsakymo SSRS kariuomenė įžygiuos į Lietuvą."
+  semantiniai_rysiai: "SSRS kariuomenė keliavo į Lietuva (0.90)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "377016-377781; hash=e36a8753e7db5f67c40c6062f5f3295f0dd8db0f62fd03e5842da7b18ea6b4a9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "SSRS kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Molotovo pareiškime tiesiogiai sakoma, kad SSRS kariuomenė įžygiuos į Lietuvą."
   pagrindžia:
-    - c-002
+    - c-24463
 
 <a id="claim-t-77335"></a>
-- t-009
+- t-006
   global_id: t-77335
-  teiginys: 'Lietuvos ir kitų sovietinių respublikų pramonė buvo izoliuota nuo kapitalistinių valstybių ir priklausoma nuo kitų SSRS regionų.'
+  teiginys: "Lietuvos ir kitų sovietinių respublikų pramonė buvo izoliuota nuo kapitalistinių valstybių ir priklausoma nuo kitų SSRS regionų."
+  temporaliniai_duomenys: "įvykio data: 1962-1969; įvykio data: 1969 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "445276-445734; hash=455e08a3c5c2db78ab10cdda00ae907d7aabac0ad4e84f06e74fce631a9ecbee; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "SSRS: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=115"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"SSRS\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-24467
 
 <a id="claim-t-77336"></a>
-- t-010
+- t-008
   global_id: t-77336
-  teiginys: 'Pavertus Lietuvą SSRS dalimi, jos valdymo sistema buvo pertvarkyta pagal Sovietų Sąjungos modelį.'
+  teiginys: "Pavertus Lietuvą SSRS dalimi, jos valdymo sistema buvo pertvarkyta pagal Sovietų Sąjungos modelį."
+  semantiniai_rysiai: "Lietuva priklausė SSRS (0.96)"
+  temporaliniai_duomenys: "įvykio data: po 1936 m.; įvykio data: 1936 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiksliai paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "389670-390224; hash=468094c3a253eab392bf7f445374c7a94fc23152488ee5dbffe272cb2d0b017d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> SSRS: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "SSRS: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Lietuva buvo paversta SSRS sudedamąja dalimi."
   pagrindžia:
-    - c-007
+    - c-74743
 
 <a id="claim-t-77337"></a>
-- t-011
+- t-002
   global_id: t-77337
-  teiginys: 'Sovietams kariaujant su Suomija Baltijos valstybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos kaip agresorė.'
+  teiginys: "Sovietams kariaujant su Suomija Baltijos valstybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos kaip agresorė."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "374140-374557; hash=f73d8c0edd1ea2d95e20c8e56ae37d3930aa7074f1496e218f7bcb92a51867b3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Anglija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "SSRS: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Anglija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"SSRS\" parinktas kaip owner_note_path. Targetas \"Anglija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-24462
+
+<a id="claim-t-183637"></a>
+- t-014
+  global_id: t-183637
+  teiginys: "Lietuvos aukštosios mokyklos buvo pertvarkytos pagal SSRS aukštųjų mokyklų sistemą, o jose dėstytas privalomas marksizmo-leninizmo kursas."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1950 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta į sklandesnį enciklopedinį sakinį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "457236-457775; hash=beb8571444ae2fd10419bdf7a5de0e2cfcd45e6fdc42d1f77e37fc60d40c10da; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "SSRS: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=53"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"SSRS\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-167029
 - susijęs iš [[objektai/ivykiai/Lietuvos kariuomenės įžengimas į Vilnių (1939 m. spalio pabaiga).md#claim-t-75152|Lietuvos kariuomenės įžengimas į Vilnių (1939 m. spalio pabaiga)]]: Vilniaus, istorinės sostinės, atgavimas buvo šviesus įvykis niūrioje Lietuvos priklausomybės nuo SSRS situacijoje.
 - susijęs iš Lietuvos SSR Konstitucija (1940 m.): 1940 m. Lietuvos SSR Konstitucija buvo patvirtinta pertvarkant Lietuvos valdymo sistemą pagal Sovietų Sąjungos modelį.
 - susijęs iš [[objektai/zodynas/savanoriškumo kamufliažas.md#claim-t-22296|savanoriškumo kamufliažas]]: Pavertus Lietuvą SSRS dalimi, savanoriškumo kamufliažo atsisakyta, o valdymo sistema pertvarkyta pagal Sovietų Sąjungos modelį.
@@ -526,6 +693,7 @@ SSRS Lietuvos istorijoje siejama su 1939 m. rugsėjo 28 d. slaptuoju protokolu, 
     tybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos
     kaip agresorė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -547,8 +715,9 @@ SSRS Lietuvos istorijoje siejama su 1939 m. rugsėjo 28 d. slaptuoju protokolu, 
     10 val. ryto. Žodžiu V. Molotovas J. Urbšiui pridėjo, kad nesvarbu, koks bus
     atsakymas, SSRS kariuomenė vis tiek įžygiuos į Lietuvą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
@@ -567,8 +736,9 @@ SSRS Lietuvos istorijoje siejama su 1939 m. rugsėjo 28 d. slaptuoju protokolu, 
     Liaudies vyriausybę, patvirtinta sovietinė konstitucija, kuri niekuo ne-
     siskyrė nuo 1936 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
@@ -584,8 +754,9 @@ SSRS Lietuvos istorijoje siejama su 1939 m. rugsėjo 28 d. slaptuoju protokolu, 
     tuvos ir kitų sovietinių respublikų pramonė buvo izoliuota, o dėl glaudžių
     ryšių su žaliavų tiekėjais tapo visiškai priklausoma nuo kitų SSRS regionų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
@@ -605,6 +776,7 @@ SSRS Lietuvos istorijoje siejama su 1939 m. rugsėjo 28 d. slaptuoju protokolu, 
     lomas marksizmo-leninizmo kursas), aukštosios mokyklos pertvarky-
     tos pagal SSRS aukštųjų mokyklų sistemą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -620,8 +792,9 @@ SSRS Lietuvos istorijoje siejama su 1939 m. rugsėjo 28 d. slaptuoju protokolu, 
     nusikaltimais asmenys. Pusė jų 1941 m. balandį–birželį išvežti į SSRS gi-
     lumą, daugiausia Sibirą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -640,8 +813,9 @@ SSRS Lietuvos istorijoje siejama su 1939 m. rugsėjo 28 d. slaptuoju protokolu, 
     siskyrė nuo 1936 m. Sovietų Sąjungoje priimtos vadinamosios J. Stalino
     konstitucijos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
@@ -659,6 +833,7 @@ SSRS Lietuvos istorijoje siejama su 1939 m. rugsėjo 28 d. slaptuoju protokolu, 
     Kauno hidroelektrinės statyboje mitingas pirmosios turbinos
     paleidimo proga.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -677,6 +852,7 @@ SSRS Lietuvos istorijoje siejama su 1939 m. rugsėjo 28 d. slaptuoju protokolu, 
     kaip agresorė. Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė mo-
     nopolizuoti Lietuvos užsienio prekybą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -697,6 +873,7 @@ SSRS Lietuvos istorijoje siejama su 1939 m. rugsėjo 28 d. slaptuoju protokolu, 
     SSRS įtakos sferą (už tai Vokietija gavo Liublino vaivadiją), Vokietijos
     spaudimą Lietuvai kaip ranka nuėmė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -723,6 +900,7 @@ SSRS Lietuvos istorijoje siejama su 1939 m. rugsėjo 28 d. slaptuoju protokolu, 
     tariamai demokratinį valdymą (oficialiai vadinamą „liaudies demokrati-
     ja“), per keletą savaičių šias valstybes įjungė į SSRS sudėtį.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -743,11 +921,241 @@ SSRS Lietuvos istorijoje siejama su 1939 m. rugsėjo 28 d. slaptuoju protokolu, 
     tųjų mokyklų reikalus, savo nuožiūra pakeitė Alma Mater pavadinimus
     (1950 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
+## Citatos
+
+- id: c-24462
+  citata_originali: |
+    Vokietija kartojo nebeturinti regione
+    interesų, Anglija ir Prancūzija kariavo, o sutriuškinus Lenkiją jų įtaka re-
+    gione apskritai sumažėjo.
+    SSRS 1940 metų ultimatumas ir
+    sovietų okupacija
+    Įsileidusi sovietų bazes Lietuva palaidojo viltis būti išrink-
+    ta į Tautų Sąjungos Tarybą. Sovietams kariaujant su Suomija Baltijos vals-
+    tybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos
+    kaip agresorė.
+  citata_rodoma: "Sovietams kariaujant su Suomija Baltijos vals-\ntybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos\nkaip agresorė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77337
+
+- id: c-24463
+  citata_originali: |
+    Birželio 10 dieną Kaune
+    sužinojus, kad A. Merkiui nesiseka normalizuoti situaciją, nutarta pasiųsti
+    į Maskvą ministrą J. Urbšį. Tačiau nei J. Urbšys, nei taikingas A. Smetonos
+    laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų Lietuvos
+    pareigūnų atleidimas nepadėjo – birželio 14-osios rytą vermachtui įžengus
+    į Paryžių, tos pat dienos vakare 11:45 J. Urbšys gavo iš V. Molotovo rankų
+    ultimatumą – pareikalauta, kad Lietuva įsileistų papildomus, jokia sutar-
+    timi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovieti-
+    nę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos
+    10 val. ryto. Žodžiu V. Molotovas J. Urbšiui pridėjo, kad nesvarbu, koks bus
+    atsakymas, SSRS kariuomenė vis tiek įžygiuos į Lietuvą.
+  citata_rodoma: "Žodžiu V. Molotovas J. Urbšiui pridėjo, kad nesvarbu, koks bus\natsakymas, SSRS kariuomenė vis tiek įžygiuos į Lietuvą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77334
+
+- id: c-24464
+  citata_originali: |
+    Visiems Lietuvos pasiuntiniams užsienio šalyse paskelbus protestus
+    prieš Lietuvos okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas
+    jų turtas. Dabar jau sujudo ir lietuviai JAV.
+    Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamuflia-
+    žo atsisakyta – valdymo sistema tvarkyta pagal Sovietų Sąjungos modelį:
+    rugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukš-
+    čiausiąja Taryba, kitą dieną formaliai aukščiausiąja respublikos vykdomą-
+    ja valdžia patvirtinta Lietuvos SSR liaudies komisarų taryba, kuri pakeitė
+    Liaudies vyriausybę, patvirtinta sovietinė konstitucija, kuri niekuo ne-
+    siskyrė nuo 1936 m.
+  citata_rodoma: "Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamuflia-\nžo atsisakyta – valdymo sistema tvarkyta pagal Sovietų Sąjungos modelį:\nrugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukš-\nčiausiąja Taryba, kitą dieną formaliai aukščiausiąja respublikos vykdomą-\nja valdžia patvirtinta Lietuvos SSR liaudies komisarų taryba, kuri pakeitė\nLiaudies vyriausybę, patvirtinta sovietinė konstitucija, kuri niekuo ne-\nsiskyrė nuo 1936 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77329
+
+- id: c-24467
+  citata_originali: |
+    1962–1969 m. pastatytas pirmasis
+    tokių namų mikrorajonas Vilniuje – Žirmūnai. Tokie vienodi, beveidžiai,
+    sunaudojantys daug energijos šildymui daugiabučių gyvenamųjų namų
+    rajonai tapo vienu ryškiausių sovietinės urbanizacijos ženklų.
+    Dėl amžinai blogų SSRS santykių su kapitalistinėmis valstybėmis Lie-
+    tuvos ir kitų sovietinių respublikų pramonė buvo izoliuota, o dėl glaudžių
+    ryšių su žaliavų tiekėjais tapo visiškai priklausoma nuo kitų SSRS regionų.
+  citata_rodoma: "Dėl amžinai blogų SSRS santykių su kapitalistinėmis valstybėmis Lie-\ntuvos ir kitų sovietinių respublikų pramonė buvo izoliuota, o dėl glaudžių\nryšių su žaliavų tiekėjais tapo visiškai priklausoma nuo kitų SSRS regionų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77335
+
+- id: c-24468
+  citata_originali: |
+    Sumažėjo lietuvių kalbos vaidmuo viešajame gyvenime – lietuvių kal-
+    ba išstumta iš milicijos, geležinkelio, oro uosto, daugumos valdžios įstai-
+    gų, įmonių – partija ir bet kokia administracija internacionalizmu laikė
+    kalbas, sakomas rusiškai. Populiarus to meto posakis, kad mylintis savo
+    tėvynę, kalbą, kultūrą rusas yra internacionalistas, mylintis savo kultūrą
+    ir kalbą lietuvis – nacionalistas, o mylintis savo kultūrą ir kalbą žydas –
+    sionistas, puikiai atspindėjo kompartijos ideologiją.
+    Lietuvos aukštosiose mokyklose mokslas politizuotas (dėstytas priva-
+    lomas marksizmo-leninizmo kursas), aukštosios mokyklos pertvarky-
+    tos pagal SSRS aukštųjų mokyklų sistemą.
+  citata_rodoma: "Lietuvos aukštosiose mokyklose mokslas politizuotas (dėstytas priva-\nlomas marksizmo-leninizmo kursas), aukštosios mokyklos pertvarky-\ntos pagal SSRS aukštųjų mokyklų sistemą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77327
+
+- id: c-74742
+  citata_originali: |
+    Suimtieji paskelbti už įstatymo ribų, jų turtas konfiskuotas.
+    Per vienerius sovietų okupacijos metus suimti 6 606 apkaltinti politiniais
+    nusikaltimais asmenys. Pusė jų 1941 m. balandį–birželį išvežti į SSRS gi-
+    lumą, daugiausia Sibirą.
+  citata_rodoma: "Per vienerius sovietų okupacijos metus suimti 6 606 apkaltinti politiniais \nnusikaltimais asmenys. Pusė jų 1941 m. balandį–birželį išvežti į SSRS gi-\nlumą, daugiausia Sibirą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77326
+
+- id: c-74743
+  citata_originali: |
+    Dabar jau sujudo ir lietuviai JAV.
+    Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamuflia-
+    žo atsisakyta – valdymo sistema tvarkyta pagal Sovietų Sąjungos modelį:
+    rugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukš-
+    čiausiąja Taryba, kitą dieną formaliai aukščiausiąja respublikos vykdomą-
+    ja valdžia patvirtinta Lietuvos SSR liaudies komisarų taryba, kuri pakeitė
+    Liaudies vyriausybę, patvirtinta sovietinė konstitucija, kuri niekuo ne-
+    siskyrė nuo 1936 m. Sovietų Sąjungoje priimtos vadinamosios J. Stalino
+    konstitucijos.
+  citata_rodoma: "Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamuflia-\nžo atsisakyta – valdymo sistema tvarkyta pagal Sovietų Sąjungos modelį: \nrugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukš-\nčiausiąja Taryba, kitą dieną formaliai aukščiausiąja respublikos vykdomą-\nja valdžia patvirtinta Lietuvos SSR liaudies komisarų taryba, kuri pakeitė \nLiaudies vyriausybę, patvirtinta sovietinė konstitucija, kuri niekuo ne-\nsiskyrė nuo 1936 m. Sovietų Sąjungoje priimtos vadinamosios J. Stalino \nkonstitucijos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77336
+
+- id: c-74744
+  citata_originali: |
+    Tokie vienodi, beveidžiai,
+    sunaudojantys daug energijos šildymui daugiabučių gyvenamųjų namų
+    rajonai tapo vienu ryškiausių sovietinės urbanizacijos ženklų.
+    Dėl amžinai blogų SSRS santykių su kapitalistinėmis valstybėmis Lie-
+    tuvos ir kitų sovietinių respublikų pramonė buvo izoliuota, o dėl glaudžių
+    ryšių su žaliavų tiekėjais tapo visiškai priklausoma nuo kitų SSRS regionų.
+    Pastatytos didžiulės gamyklos integruotos į Sovietų Sąjungos ūkio siste-
+    Kauno hidroelektrinės statyboje mitingas pirmosios turbinos
+    paleidimo proga.
+  citata_rodoma: "Dėl amžinai blogų SSRS santykių su kapitalistinėmis valstybėmis Lie-\ntuvos ir kitų sovietinių respublikų pramonė buvo izoliuota, o dėl glaudžių \nryšių su žaliavų tiekėjais tapo visiškai priklausoma nuo kitų SSRS regionų. \nPastatytos didžiulės gamyklos integruotos į Sovietų Sąjungos ūkio siste-\nKauno hidroelektrinės statyboje mitingas pirmosios turbinos \npaleidimo proga."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77332
+
+- id: c-74745
+  citata_originali: |
+    SSRS 1940 metų ultimatumas ir
+    sovietų okupacija
+    Įsileidusi sovietų bazes Lietuva palaidojo viltis būti išrink-
+    ta į Tautų Sąjungos Tarybą. Sovietams kariaujant su Suomija Baltijos vals-
+    tybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos
+    kaip agresorė. Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė mo-
+    nopolizuoti Lietuvos užsienio prekybą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77331
+
+- id: c-74746
+  citata_originali: |
+    Rugsėjo 17 dieną, SSRS įsiveržus į Lenkiją, demonstruojant pasiryžimą
+    ginti nepriklausomybę, Lietuvos prezidentas paskelbė dalinę mobilizaci-
+    ją. Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų (formaliai
+    kariuomenė padidinta, jei kariaujančios šalys peržengtų Lietuvos sieną).
+    Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentro-
+    pui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp
+    Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į
+    SSRS įtakos sferą (už tai Vokietija gavo Liublino vaivadiją), Vokietijos
+    spaudimą Lietuvai kaip ranka nuėmė.
+  citata_rodoma: "Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų (formaliai \nkariuomenė padidinta, jei kariaujančios šalys peržengtų Lietuvos sieną). \nTačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentro-\npui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp \nReicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į \nSSRS įtakos sferą (už tai Vokietija gavo Liublino vaivadiją), Vokietijos \nspaudimą Lietuvai kaip ranka nuėmė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77328
+
+- id: c-74747
+  citata_originali: |
+    Mintis „Po
+    kuo būti geriau – rusais ar vokiečiais“ nereiškė išankstinio pasidavimo
+    nuotaikų, o tik mažos valstybės realių galimybių įvertinimą – problema
+    karštai kedenta ne tik kavinėse, bet ir prezidentūroje – daugelis Europos
+    valstybių jau buvo nacių okupuotos, Lenkija – grobuonių pasidalyta, tad
+    ir Baltijos valstybėse suvokta, jog artėja jų eilė. Galimybė atsidurti „po
+    rusais“, taip pergyventi karo negandas, suprasta kaip laikinas grįžimas į
+    Nikolajaus II Rusiją, visiškai nesuvokiant totalitarinio SSRS bolševikų re-
+    žimo esmės, – jis valdė teroru, jėga izoliavo ir fiziškai naikino oponentus,
+    ideologiškai priešiškas politines ir socialines grupes.
+    Sovietų Sąjunga, pasinaudodama tarptautine padėtimi ir tuo, kad viso
+    pasaulio dėmesys buvo skirtas vokiečių įsiveržimui į Paryžių, 1940 m.
+    vasarą ne tik okupavo Lietuvą, Latviją ir Estiją, bet ir, prievarta įvedusi
+    tariamai demokratinį valdymą (oficialiai vadinamą „liaudies demokrati-
+    ja“), per keletą savaičių šias valstybes įjungė į SSRS sudėtį.
+  citata_rodoma: "Galimybė atsidurti „po \nrusais“, taip pergyventi karo negandas, suprasta kaip laikinas grįžimas į \nNikolajaus II Rusiją, visiškai nesuvokiant totalitarinio SSRS bolševikų re-\nžimo esmės, – jis valdė teroru, jėga izoliavo ir fiziškai naikino oponentus, \nideologiškai priešiškas politines ir socialines grupes.\nSovietų Sąjunga, pasinaudodama tarptautine padėtimi ir tuo, kad viso \npasaulio dėmesys buvo skirtas vokiečių įsiveržimui į Paryžių, 1940 m. \nvasarą ne tik okupavo Lietuvą, Latviją ir Estiją, bet ir, prievarta įvedusi \ntariamai demokratinį valdymą (oficialiai vadinamą „liaudies demokrati-\nja“), per keletą savaičių šias valstybes įjungė į SSRS sudėtį."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77333
+
+- id: c-167029
+  citata_originali: |
+    Populiarus to meto posakis, kad mylintis savo
+    tėvynę, kalbą, kultūrą rusas yra internacionalistas, mylintis savo kultūrą
+    ir kalbą lietuvis – nacionalistas, o mylintis savo kultūrą ir kalbą žydas –
+    sionistas, puikiai atspindėjo kompartijos ideologiją.
+    Lietuvos aukštosiose mokyklose mokslas politizuotas (dėstytas priva-
+    lomas marksizmo-leninizmo kursas), aukštosios mokyklos pertvarky-
+    tos pagal SSRS aukštųjų mokyklų sistemą. Valdžia atvirai kišosi į aukš-
+    tųjų mokyklų reikalus, savo nuožiūra pakeitė Alma Mater pavadinimus
+    (1950 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183637
 
 ## Ryšiai
 - Buvo siuntimo vieta: [[objektai/grupes/NKVD]]

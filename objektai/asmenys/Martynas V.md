@@ -10,11 +10,6 @@ datos:
   - '1431 m.'
 date_start: '1417'
 date_end: '1431'
-description: 'Popiežius Martynas V patvirtino Žemaičių vyskupiją, skyrė Vytautą ir Jogailą vikarais, bet nepritarė husitams ir karūnacijai.'
-socialDescription: 'Martynas V siejamas su Vytauto ir Jogailos byla prieš Ordiną, Žemaičių vyskupijos patvirtinimu bei popiežiaus pozicija dėl husitų ir karūnacijos.'
-seo_atnaujinta: '2026-07-02T20:14:54.835247+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,91 +21,298 @@ amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Martynas V
 
 ## Santrauka
 
-Popiežius Martynas V buvo svarbus Vytauto ir Jogailos politinių bei bažnytinių reikalų adresatas. 1417 m. jis paskyrė Vytautą ir Jogailą savo vikarais Lietuvai ir Rusijai, o 1421 m. galutinai patvirtino Žemaičių vyskupiją. Martynas V parėmė kai kuriuos Vytauto žygius prieš totorius, bet nepritarė ryšiams su husitais ir Vytauto karūnacijai.
+Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vytautui ir jo žmonai), lenkams pavyko įtikinti popiežių Martyną V, kad jis sulaikytų Vytauto vainikavimą.
 
 ## Teiginiai
 
-<a id="claim-t-184433"></a>
-- t-001
-  global_id: t-184433
-  teiginys: 'Popiežius Martynas V galutinai patvirtino Žemaičių vyskupiją.'
+<a id="claim-t-184440"></a>
+- t-011
+  global_id: t-184440
+  teiginys: "Popiežius Martynas V galutinai patvirtino Žemaičių vyskupiją."
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "346041-346316; hash=62fd6dafd42b18b1bd0804bee5e2d38d98fdfce997a715b7d849e1ecee9271a9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Martynas iš Golino: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Martynas V: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Martynas iš Golino: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas V\" parinktas kaip owner_note_path. Targetas \"Martynas iš Golino\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-167795
 
 <a id="claim-t-184434"></a>
 - t-002
   global_id: t-184434
-  teiginys: 'Martynas V paskyrė Vytautą vikaru Rusijos kraštuose, patvirtino Žemaičių vyskupiją ir parėmė Vytauto žygius prieš totorius.'
+  teiginys: "Martynas V paskyrė Vytautą vikaru Rusijos kraštuose, patvirtino Žemaičių vyskupiją ir parėmė Vytauto žygius prieš totorius."
+  teiginio_tipas: "faktas"
+  semantiniai_rysiai: "Martynas V paskyrė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.96); Martynas V rėmė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.90); Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo prieš Totoriai (0.86)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "316573-317255; hash=19d74678dc8772a52a037932ee391961dff82b46172ccc0a5bf3052c3779a773; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "paskyre -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Martynas V: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad Martynas V paskyrė Vytautą vikaru."
   pagrindžia:
-    - c-004
+    - c-167794
 
 <a id="claim-t-184435"></a>
-- t-003
+- t-005
   global_id: t-184435
-  teiginys: 'Popiežius Martynas V draudė kištis į lenkų ir lietuvių reikalus.'
+  teiginys: "Popiežius Martynas V draudė kištis į lenkų ir lietuvių reikalus."
+  teiginio_tipas: "faktas"
+  temporaliniai_duomenys: "įvykio data: 1428 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "351056-351514; hash=1b4b19434a15f628be781120d8a3a6da8e1a4b3e21f2ae38b79b127f8e3b4dd2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Martynas V: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas V\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-010
+    - c-167800
 
 <a id="claim-t-184436"></a>
-- t-004
+- t-001
   global_id: t-184436
-  teiginys: 'Martynas V keliais atvejais ragino Vytautą pasitraukti nuo husitų.'
+  teiginys: "Martynas V keliais atvejais ragino Vytautą pasitraukti nuo husitų."
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "971265-971662; hash=7789deebedee2a4eb455b71fe6ea5fa7ec129d2d41e3b0041a9678453ba1d50b; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Husitai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Martynas V: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Husitai: mention_match, group, gap=59"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas V\" parinktas kaip owner_note_path. Targetas \"Husitai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-167796
 
 <a id="claim-t-184437"></a>
-- t-005
+- t-003
   global_id: t-184437
-  teiginys: 'Popiežius Martynas V paragino imperatorių Zigmantą rūpintis Jogailos išlaisvinimu.'
+  teiginys: "Popiežius Martynas V paragino imperatorių Zigmantą rūpintis Jogailos išlaisvinimu."
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "427137-427647; hash=9b4f8d8688e831b749fe9fa54943809a7699f4afda4197d466b38d87aa0d660a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Martynas iš Golino: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Martynas V: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Martynas iš Golino: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas V\" parinktas kaip owner_note_path. Targetas \"Martynas iš Golino\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-167797
 
 <a id="claim-t-184438"></a>
-- t-006
+- t-009
   global_id: t-184438
-  teiginys: 'Popiežiui Martynui V Vytautas ir Jogaila pateikė bylą prieš Ordiną, kovodami prieš Breslavo sprendimą.'
+  teiginys: "Popiežiui Martynui V Vytautas ir Jogaila pateikė bylą prieš Ordiną, kovodami prieš Breslavo sprendimą."
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "477298-477565; hash=a6cc5a27f96bbf48420d54e1a78cf4424239970ae5ca8c0fc759ebf2a37c8d67; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Breslavas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Martynas V: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Breslavas: mention_match, place, gap=73"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas V\" parinktas kaip owner_note_path. Targetas \"Breslavas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-167799
 
 <a id="claim-t-184439"></a>
 - t-007
   global_id: t-184439
-  teiginys: 'Popiežius Martynas V 1417 m. gegužės 13 d. paskyrė Vytautą ir Jogailą savo vikarais pasauliniuose dalykuose Lietuvai ir Rusijai.'
+  teiginys: "Popiežius Martynas V 1417 m. gegužės 13 d. paskyrė Vytautą ir Jogailą savo vikarais pasauliniuose dalykuose Lietuvai ir Rusijai."
+  teiginio_tipas: "faktas"
+  temporaliniai_duomenys: "įvykio data: 1417 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Martyną V ir atitinka citatą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "283453-283900; hash=3cca5a6b6a081d0cfdea50bccec852a3cd45b0c9ae9797e374ec8805403e9acd; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Martynas V: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=98"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas V\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-167798
+
+<a id="claim-t-184440"></a>
+- t-011
+  global_id: t-184440
+  teiginys: "Popiežius Martynas V galutinai patvirtino Žemaičių vyskupiją."
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "346041-346316; hash=62fd6dafd42b18b1bd0804bee5e2d38d98fdfce997a715b7d849e1ecee9271a9; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Martynas iš Golino: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Martynas V: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Martynas iš Golino: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas V\" parinktas kaip owner_note_path. Targetas \"Martynas iš Golino\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-167795
+
+<a id="claim-t-184435"></a>
+- t-005
+  global_id: t-184435
+  teiginys: "Popiežius Martynas V draudė kištis į lenkų ir lietuvių reikalus."
+  teiginio_tipas: "faktas"
+  temporaliniai_duomenys: "įvykio data: 1428 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "351056-351514; hash=1b4b19434a15f628be781120d8a3a6da8e1a4b3e21f2ae38b79b127f8e3b4dd2; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Martynas V: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas V\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-167800
 
 <a id="claim-t-184442"></a>
-- t-010
+- t-006
   global_id: t-184442
-  teiginys: 'Martynas V paskyrė Vytautą vikaru Rusijos kraštuose, patvirtino Žemaičių vyskupiją ir 1424 m. parėmė jo žygius prieš totorius.'
+  teiginys: "Martynas V paskyrė Vytautą vikaru Rusijos kraštuose, patvirtino Žemaičių vyskupiją ir 1424 m. parėmė jo žygius prieš totorius."
+  teiginio_tipas: "faktas"
+  semantiniai_rysiai: "Martynas V paskyrė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.96); Martynas V rėmė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.90); Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo prieš Totoriai (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1424 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra tikslus, aiškus ir paremtas citatos duomenimis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "316573-317255; hash=19d74678dc8772a52a037932ee391961dff82b46172ccc0a5bf3052c3779a773; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "paskyre -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Martynas V: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad Martynas V paskyrė Vytautą vikaru."
   pagrindžia:
-    - c-004
+    - c-167794
 
 <a id="claim-t-184443"></a>
-- t-011
+- t-004
   global_id: t-184443
-  teiginys: 'Martyno V valdymo laikotarpis 1417–1431 m. sutapo su Vytauto įsigalėjimu Lietuvos bažnytiniame gyvenime.'
+  teiginys: "Martyno V valdymo laikotarpis 1417–1431 m. sutapo su Vytauto įsigalėjimu Lietuvos bažnytiniame gyvenime."
+  teiginio_tipas: "faktas"
+  temporaliniai_duomenys: "įvykio data: 1417-1431; įvykio data: 1431 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "316337-316674; hash=90e81749bb34c26fecbf7f36251d27dc994338bb0c6b81a0e47978abd6eccd31; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Martynas V: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=73"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas V\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-36446
+
+<a id="claim-t-184439"></a>
+- t-007
+  global_id: t-184439
+  teiginys: "Popiežius Martynas V 1417 m. gegužės 13 d. paskyrė Vytautą ir Jogailą savo vikarais pasauliniuose dalykuose Lietuvai ir Rusijai."
+  teiginio_tipas: "faktas"
+  temporaliniai_duomenys: "įvykio data: 1417 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Martyną V ir atitinka citatą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "283453-283900; hash=3cca5a6b6a081d0cfdea50bccec852a3cd45b0c9ae9797e374ec8805403e9acd; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Martynas V: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=98"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas V\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-167798
 
 <a id="claim-t-184445"></a>
-- t-013
+- t-008
   global_id: t-184445
-  teiginys: 'Vytautas ir Jogaila siekė iškelti Ordino bylą popiežiui Martynui V, kovodami prieš Breslavo sprendimą.'
+  teiginys: "Vytautas ir Jogaila siekė iškelti Ordino bylą popiežiui Martynui V, kovodami prieš Breslavo sprendimą."
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "477385-477652; hash=87242fe90723da73d704963566d8e479ddfda434dcb857c3c6ede158ec39dace; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Breslavas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Martynas V: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Breslavas: mention_match, place, gap=83"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas V\" parinktas kaip owner_note_path. Targetas \"Breslavas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-167793
 
 <a id="claim-t-184446"></a>
-- t-014
+- t-013
   global_id: t-184446
-  teiginys: 'Popiežius Martynas V 1421 m. rugsėjo 11 d. bule „Mirabilis Deus“ patvirtino savarankišką Žemaičių vyskupiją.'
+  teiginys: "Popiežius Martynas V 1421 m. rugsėjo 11 d. bule „Mirabilis Deus“ patvirtino savarankišką Žemaičių vyskupiją."
+  teiginio_tipas: "faktas"
+  temporaliniai_duomenys: "įvykio data: 1421 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus ir paremtas citatoje nurodyta bule bei data."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "292191-292381; hash=41175a1f3150ffeae002ab6571fb1006061b8bf1c84da0b2ad1f8caf9f4fec6f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Martynas iš Golino: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Martynas V: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Martynas iš Golino: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas V\" parinktas kaip owner_note_path. Targetas \"Martynas iš Golino\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-36445
 - susijęs iš [[objektai/ivykiai/Martyno V įsakymas atšaukti Kaributą (1422 m. lapkričio mėn.).md#claim-t-34547|Martyno V įsakymas atšaukti Kaributą (1422 m. lapkričio mėn.)]]: 1422 m. lapkritį popiežius Martynas V įsakė Vytautui per du mėnesius atšaukti Kaributą, grasindamas ekskomunika.
 - susijęs iš [[objektai/ivykiai/Slaptos derybos dėl Lietuvos karalystės paskelbimo ir popiežiaus Martyno V priešinimasis.md#claim-t-185643|Slaptos derybos dėl Lietuvos karalystės paskelbimo ir popiežiaus Martyno V priešinimasis]]: Popiežius Martynas V įspėjo Kulmo vyskupą neapvainikuoti Vytauto karaliaus vainiku ir nepakelti jo į Lietuvos karalius.
 - susijęs iš [[objektai/ivykiai/Vytauto ir Jogailos paskyrimas popiežiaus Martyno V vikariais Lietuvai ir Rusijai (1417 m. gegužės 13 d.).md#claim-t-34561|Vytauto ir Jogailos paskyrimas popiežiaus Martyno V vikariais Lietuvai ir Rusijai (1417 m. gegužės 13 d.)]]: 1417 m. gegužės 13 d. popiežius Martynas V paskyrė Vytautą ir Jogailą savo vikarais pasauliniuose dalykuose Lietuvai ir Rusijai.
@@ -133,6 +335,7 @@ Popiežius Martynas V buvo svarbus Vytauto ir Jogailos politinių bei bažnytini
     „Mirabilis Deus” (1421. IX. 11^1 ), kuria patvirtino savarankiš­
     ką Žemaičių Vyskupiją.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -149,6 +352,7 @@ Popiežius Martynas V buvo svarbus Vytauto ir Jogailos politinių bei bažnytini
     galėjimu. Vytautas vedė su juo labai plačią korespondenciją vi­
     sais svarbiausiais Lietuvos krikšto klausimais.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -164,6 +368,7 @@ Popiežius Martynas V buvo svarbus Vytauto ir Jogailos politinių bei bažnytini
     tam užbėgti už akių, bet pasivėlavo. Galų gale prieita prie išva­
     dos, kad teisingiausiai gali išspręsti ginčą tik ginklas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -186,6 +391,7 @@ Popiežius Martynas V buvo svarbus Vytauto ir Jogailos politinių bei bažnytini
     jos, draudė Vytautui remti husitus, nepritarė Vytauto karūna­
     cijai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -202,6 +408,7 @@ Popiežius Martynas V buvo svarbus Vytauto ir Jogailos politinių bei bažnytini
     piežius Martynas V galutinai patvirtino ir Žemaičių vyskupiją.
     Taigi šito Lietuvos krašto reikalai buvo visiškai sutvarkyti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -220,6 +427,7 @@ Popiežius Martynas V buvo svarbus Vytauto ir Jogailos politinių bei bažnytini
     bažnytinėmis bausmėmis grasindami — kaip nors nuo « heretikų »
     čekų atitrauktų^18.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -240,6 +448,7 @@ Popiežius Martynas V buvo svarbus Vytauto ir Jogailos politinių bei bažnytini
     3
     Stryjkowski, Ks.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -259,6 +468,7 @@ Popiežius Martynas V buvo svarbus Vytauto ir Jogailos politinių bei bažnytini
     gams žmonių krikštijimą, globoti kunigiją ir tikinčiuosius, ginti
     tikėjimą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -275,6 +485,7 @@ Popiežius Martynas V buvo svarbus Vytauto ir Jogailos politinių bei bažnytini
     iškelt Ordinui bylą ir pas popiežių Martyną V. Ordinas norėjo
     tam užbėgti už akių, bet pasivėlavo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -294,12 +505,191 @@ Popiežius Martynas V buvo svarbus Vytauto ir Jogailos politinių bei bažnytini
     83
     Popiežius Martynas V 1428 m. rašė Rusios karaliumi.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
     - t-009
+
+## Citatos
+
+- id: c-36445
+  citata_originali: |
+    Popiežius Martynas V, išklausęs Vytauto ir
+    paties Žemaičių vysk. Motiejaus nusiskundimų, atsiuntė bulę
+    „Mirabilis Deus” (1421. IX. 11^1 ), kuria patvirtino savarankiš­
+    ką Žemaičių Vyskupiją.
+  citata_rodoma: "Popiežius Martynas V, išklausęs Vytauto ir\npaties Žemaičių vysk. Motiejaus nusiskundimų, atsiuntė bulę\n„Mirabilis Deus” (1421. IX. 11^1 ), kuria patvirtino savarankiš­\nką Žemaičių Vyskupiją."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184446
+
+- id: c-36446
+  citata_originali: |
+    Tačiau visi žymesni Vytauto žygiai, ku­
+    rie lietė bažnytinį Lietuvos gyvenimą, buvo surišti su popiežium
+    Martynu V, kadangi su juo pasibaigė Vak. Bažnyčios schizma
+    ir jo valdymo laikotarpis (1417—1431) supuolė su Vytauto įsi­
+    galėjimu. Vytautas vedė su juo labai plačią korespondenciją vi­
+    sais svarbiausiais Lietuvos krikšto klausimais.
+  citata_rodoma: "Tačiau visi žymesni Vytauto žygiai, ku­\nrie lietė bažnytinį Lietuvos gyvenimą, buvo surišti su popiežium\nMartynu V, kadangi su juo pasibaigė Vak. Bažnyčios schizma\nir jo valdymo laikotarpis (1417—1431) supuolė su Vytauto įsi­\ngalėjimu. Vytautas vedė su juo labai plačią korespondenciją vi­\nsais svarbiausiais Lietuvos krikšto klausimais."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184443
+
+- id: c-167793
+  citata_originali: |
+    Maža to. Vytautas su
+    Jogaila išvien kovodami prieš Breslavo sprendimą, pasistengė
+    iškelt Ordinui bylą ir pas popiežių Martyną V. Ordinas norėjo
+    tam užbėgti už akių, bet pasivėlavo. Galų gale prieita prie išva­
+    dos, kad teisingiausiai gali išspręsti ginčą tik ginklas.
+  citata_rodoma: "Maža to. Vytautas su\nJogaila išvien kovodami prieš Breslavo sprendimą, pasistengė\niškelt Ordinui bylą ir pas popiežių Martyną V. Ordinas norėjo\ntam užbėgti už akių, bet pasivėlavo. Galų gale prieita prie išva­\ndos, kad teisingiausiai gali išspręsti ginčą tik ginklas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184445
+
+- id: c-167794
+  citata_originali: |
+    Vytautas vedė su juo labai plačią korespondenciją vi­
+    sais svarbiausiais Lietuvos krikšto klausimais. Martynas V pa­
+    skyrė Vytautą vikaru Rusijos kraštuose ir Livonijos vyskupijų
+    globėju, patvirtino Žemaičių vyskupiją ir apgynė ją nuo Rygos
+    arkivyskupo pretenzijų, parėmė Vytauto žygius prieš totorius,
+    uždedamas kunigijai kontribuciją (1424) tiems reikalams, leido
+    kurti Kamienco vyskupiją, suteikė indulgencijų jam ir jo pata­
+    rėjams. Iš kitos pusės, Martynas V dėl kai kurių dalykų Vy­
+    tautui ir nepritarė; jis neaprobavo Vytauto sumanymo suvie­
+    nyti abi Bažnyčias, nesutiko įkurti atskiros Lietuvai metropoli­
+    jos, draudė Vytautui remti husitus, nepritarė Vytauto karūna­
+    cijai.
+  citata_rodoma: "Vytautas vedė su juo labai plačią korespondenciją vi­\nsais svarbiausiais Lietuvos krikšto klausimais. Martynas V pa­\nskyrė Vytautą vikaru Rusijos kraštuose ir Livonijos vyskupijų\nglobėju, patvirtino Žemaičių vyskupiją ir apgynė ją nuo Rygos\narkivyskupo pretenzijų, parėmė Vytauto žygius prieš totorius,\nuždedamas kunigijai kontribuciją (1424) tiems reikalams, leido\nkurti Kamienco vyskupiją, suteikė indulgencijų jam ir jo pata­\nrėjams. Iš kitos pusės, Martynas V dėl kai kurių dalykų Vy­\ntautui ir nepritarė; jis neaprobavo Vytauto sumanymo suvie­\nnyti abi Bažnyčias, nesutiko įkurti atskiros Lietuvai metropoli­\njos, draudė Vytautui remti husitus, nepritarė Vytauto karūna­\ncijai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184434
+    - t-184442
+
+- id: c-167795
+  citata_originali: |
+    Iš Žemaičių krašto ir dalies
+    Sūdavijos (Užnemunio) Vytautas įkūrė Žemaičių seniūniją, ku­
+    ri gavo lygias teises su Lietuvos vaivadijomis. Taip pat po­
+    piežius Martynas V galutinai patvirtino ir Žemaičių vyskupiją.
+    Taigi šito Lietuvos krašto reikalai buvo visiškai sutvarkyti.
+  citata_rodoma: "Iš Žemaičių krašto ir dalies\nSūdavijos (Užnemunio) Vytautas įkūrė Žemaičių seniūniją, ku­\nri gavo lygias teises su Lietuvos vaivadijomis. Taip pat po­\npiežius Martynas V galutinai patvirtino ir Žemaičių vyskupiją.\nTaigi šito Lietuvos krašto reikalai buvo visiškai sutvarkyti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184440
+    - t-184433
+
+- id: c-167796
+  citata_originali: |
+    Kišdamasis į Čekijos reikalus ir tuo erzindamas imperatorių,
+    Vytautas oficialiai savo nusistatymą grindė pastangomis sutaikyti
+    husitus su Roma. Martynas V keliais atvejais ragino Vytautą
+    pasitraukti nuo husitų. Popiežius skatino Gniezno arkivyskupą ir
+    kitus vyskupus imtis žygio, kad jie Lietuvos kunigaikštį — net
+    bažnytinėmis bausmėmis grasindami — kaip nors nuo « heretikų »
+    čekų atitrauktų^18.
+  citata_rodoma: "Kišdamasis į Čekijos reikalus ir tuo erzindamas imperatorių,\nVytautas oficialiai savo nusistatymą grindė pastangomis sutaikyti\nhusitus su Roma. Martynas V keliais atvejais ragino Vytautą\npasitraukti nuo husitų. Popiežius skatino Gniezno arkivyskupą ir\nkitus vyskupus imtis žygio, kad jie Lietuvos kunigaikštį — net\nbažnytinėmis bausmėmis grasindami — kaip nors nuo « heretikų »\nčekų atitrauktų^18."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184436
+
+- id: c-167797
+  citata_originali: |
+    Lenkijos bajorai, pasipiktinę tokiu akiplėšišku Švitri­
+    gailos elgesiu, susirinkę Varkoje, nusprendė pirmiausia ofi­
+    cialiai nusiųsti pas jį pasiuntinius, kurie pareikalautų išlais­
+    vinti karalių, o jeigu tai nieko neduotų, - surengti žygį į
+    Lietuvą susirinkus ties Kijanų kaimu prie Viepšo4. Čia ener­
+    gingai reiškėsi popiežius Martynas V. Jis net imperatorių Zig­
+    mantą paragino rūpintis Jogailos išlaisvinimu ir pats asme­
+    niškai savo autoritetu didžiai prie to prisidėjo5. Buvo nuveikta
+    3
+    Stryjkowski, Ks.
+  citata_rodoma: "Lenkijos bajorai, pasipiktinę tokiu akiplėšišku Švitri­\ngailos elgesiu, susirinkę Varkoje, nusprendė pirmiausia ofi­\ncialiai nusiųsti pas jį pasiuntinius, kurie pareikalautų išlais­\nvinti karalių, o jeigu tai nieko neduotų, - surengti žygį į \nLietuvą susirinkus ties Kijanų kaimu prie Viepšo4. Čia ener­\ngingai reiškėsi popiežius Martynas V. Jis net imperatorių Zig­\nmantą paragino rūpintis Jogailos išlaisvinimu ir pats asme­\nniškai savo autoritetu didžiai prie to prisidėjo5. Buvo nuveikta\n3\nStryjkowski, Ks."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184437
+
+- id: c-167798
+  citata_originali: |
+    Konstanci­
+    jos susirikimas Vytautą padarė Livonijos vyskupų globė­
+    ju, nes šias vyskupijas Livonijos Ordinas, savo nepasotinama po­
+    litika, dažnai nuskriausdavo. Popiežius Martynas V, Konstan­
+    cijos susirinkime išrinktas, Vytautą ir Jogailą paskyrė
+    (1417. V. 13) savo vikarais pasauliniuose dalykuose Lietuvai
+    ir Rusijai, pavesdamas jiems kurti bažnyčias, lengvinti kuni­
+    gams žmonių krikštijimą, globoti kunigiją ir tikinčiuosius, ginti
+    tikėjimą.
+  citata_rodoma: "Konstanci­\njos susirikimas Vytautą padarė Livonijos vyskupų globė­\nju, nes šias vyskupijas Livonijos Ordinas, savo nepasotinama po­\nlitika, dažnai nuskriausdavo. Popiežius Martynas V, Konstan­\ncijos susirinkime išrinktas, Vytautą ir Jogailą paskyrė\n(1417. V. 13) savo vikarais pasauliniuose dalykuose Lietuvai\nir Rusijai, pavesdamas jiems kurti bažnyčias, lengvinti kuni­\ngams žmonių krikštijimą, globoti kunigiją ir tikinčiuosius, ginti\ntikėjimą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184439
+    - t-184444
+
+- id: c-167799
+  citata_originali: |
+    Lietuvių ir lenkų atstovai bendrai pareiškė
+    protestą ir griežtai atmetė sprendimą^4 ). Maža to. Vytautas su
+    Jogaila išvien kovodami prieš Breslavo sprendimą, pasistengė
+    iškelt Ordinui bylą ir pas popiežių Martyną V. Ordinas norėjo
+    tam užbėgti už akių, bet pasivėlavo.
+  citata_rodoma: "Lietuvių ir lenkų atstovai bendrai pareiškė\nprotestą ir griežtai atmetė sprendimą^4 ). Maža to. Vytautas su\nJogaila išvien kovodami prieš Breslavo sprendimą, pasistengė\niškelt Ordinui bylą ir pas popiežių Martyną V. Ordinas norėjo\ntam užbėgti už akių, bet pasivėlavo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184438
+
+- id: c-167800
+  citata_originali: |
+    Ambicija to žmogaus buvo pašėlusi; tą senų seniau­
+    siai buvo patyręs Zigmantas, o kryžiuočiai dar geriau žino­
+    jo. Kurstė ją tad visokiausiais būdais, karūnos Lietuvai pel­
+    nymą vaizduodami puikiausiu atpildu Vytautui už jo
+    laimėjimus, nenuilsdami stengėsi dvejus metus. Nepadėjo
+    šiuo atžvilgiu nei popiežiaus Martyno V draudimas liautis
+    kišusis į lenkų ir lietuvių reikalus83; nei ištvermingas lenkų
+    83
+    Popiežius Martynas V 1428 m. rašė Rusios karaliumi.
+  citata_rodoma: "Ambicija to žmogaus buvo pašėlusi; tą senų seniau­\nsiai buvo patyręs Zigmantas, o kryžiuočiai dar geriau žino­\njo. Kurstė ją tad visokiausiais būdais, karūnos Lietuvai pel­\nnymą vaizduodami puikiausiu atpildu Vytautui už jo \nlaimėjimus, nenuilsdami stengėsi dvejus metus. Nepadėjo \nšiuo atžvilgiu nei popiežiaus Martyno V draudimas liautis \nkišusis į lenkų ir lietuvių reikalus83; nei ištvermingas lenkų\n83\nPopiežius Martynas V 1428 m. rašė Rusios karaliumi."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184435
+    - t-184441
 
 ## Ryšiai
 - Martynas V paskyrė [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

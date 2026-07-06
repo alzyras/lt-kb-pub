@@ -16,6 +16,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Merkinės puolimas (1945 m. gruodžio 15 d.)
 
@@ -42,53 +54,139 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66775"></a>
-- t-001
+- t-006
   global_id: t-66775
-  teiginys: 'Adolfas Ramanauskas-Vanagas, pasitaręs su Juozu Vitkumi-Kazimieraičiu, nutarė telkti partizanus Merkinės puolimui.'
+  teiginys: "Adolfas Ramanauskas-Vanagas, pasitaręs su Juozu Vitkumi-Kazimieraičiu, nutarė telkti partizanus Merkinės puolimui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "942629-943129; hash=3e0ce1ac25281cb924e63f8a844e6f78e85d1c22af0da78b5419f0bb81b94beb; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Merkinė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Merkinės puolimas (1945 m. gruodžio 15 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Merkinė: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Merkinės puolimas (1945 m. gruodžio 15 d.)\" parinktas kaip owner_note_path. Targetas \"Merkinė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-43089
 
 <a id="claim-t-66776"></a>
-- t-002
+- t-008
   global_id: t-66776
-  teiginys: 'Per Merkinės puolimą partizanai užėmė NKVD būstinę, paštą, valsčiaus ir milicijos įstaigas.'
+  teiginys: "Per Merkinės puolimą partizanai užėmė NKVD būstinę, paštą, valsčiaus ir milicijos įstaigas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "949508-950104; hash=e604936328c3e8368aac6ac70e5ad18aba61413d2e0fd1702e9cd4af04a2428e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Merkinė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Merkinės puolimas (1945 m. gruodžio 15 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Merkinė: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Merkinės puolimas (1945 m. gruodžio 15 d.)\" parinktas kaip owner_note_path. Targetas \"Merkinė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-43090
 
 <a id="claim-t-66777"></a>
-- t-003
+- t-011
   global_id: t-66777
-  teiginys: 'Druskininkų bataliono grupei nenutraukus ryšio linijų tarp Merkinės ir Druskininkų, sovietai susisiekė su Alytumi ir išsikvietė pagalbą.'
+  teiginys: "Druskininkų bataliono grupei nenutraukus ryšio linijų tarp Merkinės ir Druskininkų, sovietai susisiekė su Alytumi ir išsikvietė pagalbą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "949508-950104; hash=e604936328c3e8368aac6ac70e5ad18aba61413d2e0fd1702e9cd4af04a2428e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Alytus: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Merkinės puolimas (1945 m. gruodžio 15 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Alytus: mention_match, place, gap=47"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Merkinės puolimas (1945 m. gruodžio 15 d.)\" parinktas kaip owner_note_path. Targetas \"Alytus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-43090
 
 <a id="claim-t-66779"></a>
-- t-004
+- t-007
   global_id: t-66779
-  teiginys: '1945 m. gruodžio 15 d. 11 val. A. Ramanauskas-Vanagas iššovė baltą raketą ir paskelbė atakos pradžią.'
+  teiginys: "1945 m. gruodžio 15 d. 11 val. A. Ramanauskas-Vanagas iššovė baltą raketą ir paskelbė atakos pradžią."
+  temporaliniai_duomenys: "įvykio data: 1945 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys turi aiškų veikėją, veiksmą ir datą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "947008-947341; hash=a77ce66a8314347c5cb3aaac1d11c9471839eda5f99ef9db9236980500f011dd; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Alytus: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Merkinės puolimas (1945 m. gruodžio 15 d.): owner_note_path, event"
+  ryšio_targeto_parinkimas: "Alytus: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Merkinės puolimas (1945 m. gruodžio 15 d.)\" parinktas kaip owner_note_path. Targetas \"Alytus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-167067
 
 <a id="claim-t-66780"></a>
-- t-005
+- t-009
   global_id: t-66780
-  teiginys: 'Prieš Merkinės puolimą 1945 m. gruodžio 5 d. prie Mardasavo NKVD dalinio užklupti žuvo keturi Marcinkonių bataliono partizanai.'
+  teiginys: "Prieš Merkinės puolimą 1945 m. gruodžio 5 d. prie Mardasavo NKVD dalinio užklupti žuvo keturi Marcinkonių bataliono partizanai."
+  temporaliniai_duomenys: "įvykio data: 1945 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia glaudesnio sakinio, pašalinant perteklinį vardų sąrašą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "942383-942794; hash=339940a0d01912a6c7353ac9ecfbad244d493f44303a62e61ac0fe7c14b2c2f0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Mardasavas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Merkinės puolimas (1945 m. gruodžio 15 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Mardasavas: mention_match, place, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Merkinės puolimas (1945 m. gruodžio 15 d.)\" parinktas kaip owner_note_path. Targetas \"Mardasavas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
+    - c-43086
 
 <a id="claim-t-66781"></a>
-- t-006
+- t-005
   global_id: t-66781
-  teiginys: '1945 m. gruodžio 5 d. prie Mardasavo žuvo Marcinkonių bataliono vadas Lionginas Švalkus-Šernas ir trys jo kovos draugai.'
+  teiginys: "1945 m. gruodžio 5 d. prie Mardasavo žuvo Marcinkonių bataliono vadas Lionginas Švalkus-Šernas ir trys jo kovos draugai."
+  temporaliniai_duomenys: "įvykio data: 1945 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "942383-942794; hash=339940a0d01912a6c7353ac9ecfbad244d493f44303a62e61ac0fe7c14b2c2f0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Mardasavas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Merkinės puolimas (1945 m. gruodžio 15 d.): owner_note_path, event"
+  ryšio_targeto_parinkimas: "Mardasavas: mention_match, place, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Merkinės puolimas (1945 m. gruodžio 15 d.)\" parinktas kaip owner_note_path. Targetas \"Mardasavas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-43086
 
 <a id="claim-t-183675"></a>
-- t-007
+- t-012
   global_id: t-183675
-  teiginys: '1945 m. gruodžio 15 d. 11 val. Adolfas Ramanauskas-Vanagas balta raketa paskelbė Merkinės puolimo pradžią.'
+  teiginys: "1945 m. gruodžio 15 d. 11 val. Adolfas Ramanauskas-Vanagas balta raketa paskelbė Merkinės puolimo pradžią."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1945 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis tekstas buvo tik datos fragmentas, o citata leidžia suformuoti faktinį sakinį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "947008-947341; hash=a77ce66a8314347c5cb3aaac1d11c9471839eda5f99ef9db9236980500f011dd; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Merkinė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Merkinės puolimas (1945 m. gruodžio 15 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Merkinė: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Merkinės puolimas (1945 m. gruodžio 15 d.)\" parinktas kaip owner_note_path. Targetas \"Merkinė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-167067
 - susijęs iš [[objektai/autoriai/Ričardas Čekutis.md#claim-t-40672|Ričardas Čekutis]]: Ričardas Čekutis kartu su Daliumi Žygeliu parašė tekstus apie 1945 m. Kiauneliškių, Kalniškės ir Merkinės kautynes.
 - susijęs iš Merkinė: Po 1945 m. gruodžio 15 d. Merkinės puolimo jame dalyvavę partizanų būriai pamažu atsitraukė iš Merkinės.
 - susijęs iš Merkinė: 1945 m. Merkinės puolimas buvo pasiūlytas kaip keršto priešui veiksmas.
@@ -115,8 +213,9 @@ Nenurodyta
     rinktinės vadui Adolfui Ramanauskui-
     Vanagui.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
@@ -146,6 +245,7 @@ Nenurodyta
     Būsimasis Dzūkijos partizanų vadas gimė mažažemių
     dzūkų ūkininkų šeimoje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -172,6 +272,7 @@ Nenurodyta
     todėl sovietai per Druskininkus susi-
     siekė su Alytumi ir išsikvietė pagalbą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -198,9 +299,114 @@ Nenurodyta
     taip pat vietinis Alytaus NKVD garnizo-
     nas, atvykęs į pagalbą užpultiesiems.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
     - t-004
+
+## Citatos
+
+- id: c-43086
+  citata_originali: |
+    Prieš mūšį
+    1945 m. gruodžio 5 d. prie Mardasavo
+
+    km., ant Merkio kranto netikėtai užklupti
+    NKVD dalinio, žuvo Marcinkonių bataliono
+    vadas Lionginas Švalkus-Šernas, Tomas
+    Kondrotas-Briedis, Adolfas Bilinskas-
+    Jurginas ir Martynas Navickas-Kardas.
+    Ryšininkas Juozas Jakavonis rado Merkiu
+    ant ledo lyties plaukiančią žuvusių par-
+    tizanų maldaknygę ir perdavė ją Merkio
+    rinktinės vadui Adolfui Ramanauskui-
+    Vanagui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66781
+    - t-66780
+
+- id: c-43089
+  citata_originali: |
+    Ryšininkas Juozas Jakavonis rado Merkiu
+    ant ledo lyties plaukiančią žuvusių par-
+    tizanų maldaknygę ir perdavė ją Merkio
+    rinktinės vadui Adolfui Ramanauskui-
+    Vanagui. Vanagas, pasitaręs su A apygar-
+    dos vadu Juozu Vitkumi-Kazimieraičiu,
+    nutarė sutelkti apylinkių partizanų da-
+    linius ir pulti Merkinės miestelį, at-
+    keršijant už kovos draugų žūtį.
+
+    Dainavos apygardos
+
+    ## Puslapis 233
+
+    Adolfas Ramanauskas-Vanagas
+
+    (1918-1957)
+
+    Būsimasis Dzūkijos partizanų vadas gimė mažažemių
+    dzūkų ūkininkų šeimoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66775
+
+- id: c-43090
+  citata_originali: |
+    Šis dar prieš Antrąjį pasaulinį karą į Vokietijos
+    kariuomenės ginkluotę priimtas kulkosvaidis
+    buvo vienas pirmųjų universaliųjų (bendrosios
+    paskirties) kulkosvaidžių
+
+    dviem kryptimis - nuo miestelio kapi-
+    nių ir nuo Vilniaus gatvės, iki pat mies-
+    telio centro nebuvo sutikta rimtesnio
+    pasipriešinimo. Partizanai užėmė NKVD
+    būstinę, paštą, valsčiaus ir milicijos įs-
+    taigas. Paaiškėjo, kad Druskininkų ba-
+    taliono grupei nepavyko įvykdyti jiems
+    pavestos užduoties ir nutraukti ryšio
+    linijų tarp Merkinės ir Druskininkų,
+    todėl sovietai per Druskininkus susi-
+    siekė su Alytumi ir išsikvietė pagalbą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66777
+    - t-66776
+
+- id: c-167067
+  citata_originali: |
+    1945 metų gruodžio 15 dieną 11 val.
+
+    A. Ramanauskas-Vanagas iššovė baltą
+
+    raketą, taip paskelbdamas atakos pra-
+
+    džią. Smarkiai sningant puolantieji judėjo
+
+    Sovietų pajėgos
+
+    Miestelyje gynėsi Merkinėje dislokuotas
+    vietos stribų bei enkavėdistų garnizonas,
+    taip pat vietinis Alytaus NKVD garnizo-
+    nas, atvykęs į pagalbą užpultiesiems.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183675
+    - t-66779

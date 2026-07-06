@@ -18,6 +18,18 @@ tags:
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Perloja
 
@@ -27,26 +39,59 @@ amziai:
 
 ## Teiginiai
 
-<a id="claim-t-50178"></a>
+<a id="claim-t-50179"></a>
 - t-001
-  global_id: t-50178
-  teiginys: 'Gruodžio 16 d. Marcinkonių bataliono vyrai puolė Perlojos stribų įgulą ir ją sunaikino.'
+  global_id: t-50179
+  teiginys: "Gruodžio 16 d. Marcinkonių bataliono vyrai puolė Perlojos stribų įgulą ir ją sunaikino."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "953687-953995; hash=c92f33acc1c603c3876be45056eb66b3a767e343a9865914a5fb27a3af7889b7; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
+    - c-43737
+
+<a id="claim-t-50179"></a>
+- t-001
+  global_id: t-50179
+  teiginys: "Gruodžio 16 d. Marcinkonių bataliono vyrai puolė Perlojos stribų įgulą ir ją sunaikino."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "953687-953995; hash=c92f33acc1c603c3876be45056eb66b3a767e343a9865914a5fb27a3af7889b7; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-43737
 
 <a id="claim-t-50180"></a>
-- t-003
+- t-002
   global_id: t-50180
-  teiginys: 'Kitą dieną Perlojoje Marcinkonių bataliono vyrai nukovė 5 stribus, o partizanai nuostolių nepatyrė.'
+  teiginys: "Kitą dieną Perlojoje Marcinkonių bataliono vyrai nukovė 5 stribus, o partizanai nuostolių nepatyrė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "953996-954321; hash=891a38e6868ab843c808845360ecc0e3ed45c497aa7d1a8ad30b44f8f55ab121; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> NKVD: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Perloja: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "NKVD: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Perloja\" parinktas kaip owner_note_path. Targetas \"NKVD\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-43738
 
 <a id="claim-t-50181"></a>
 - t-004
   global_id: t-50181
-  teiginys: 'Kitą dieną Perlojoje Marcinkonių bataliono vyrai nukovė dar 5 stribus ir patys nuostolių nepatyrė.'
+  teiginys: "Kitą dieną Perlojoje Marcinkonių bataliono vyrai nukovė dar 5 stribus ir patys nuostolių nepatyrė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "953996-954321; hash=891a38e6868ab843c808845360ecc0e3ed45c497aa7d1a8ad30b44f8f55ab121; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> NKVD: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Perloja: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "NKVD: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Perloja\" parinktas kaip owner_note_path. Targetas \"NKVD\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-43738
 - susijęs iš [[objektai/grupes/Marcinkonių batalionas.md#claim-t-41087|Marcinkonių batalionas]]: Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, todėl jie kitą, gruodžio 16 d. puolė Perlojos stribų įgulą ir ją sunaikino.
 - susijęs iš [[objektai/grupes/Marcinkonių batalionas.md#claim-t-41087|Marcinkonių batalionas]]: Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, todėl jie kitą, gruodžio 16 d. puolė Perlojos stribų įgulą ir ją sunaikino.
 - susijęs iš [[objektai/asmenys/Adolfas Ramanauskas-Vanagas.md#claim-t-63405|Adolfas Ramanauskas-Vanagas]]: Adolfas Ramanauskas-Vanagas vėliau įtarė, kad informacija apie rengiamą partizanų puolimą galėjo pasiekti priešą.
@@ -75,6 +120,7 @@ amziai:
     Operacijos metu žuvo 4 partizanai ir 2 buvo
     sužeisti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -94,12 +140,54 @@ amziai:
     ir nemažas kiekis šaudmenų, sunaikin-
     tas valsčius, dalinai milicija ir paštas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
     - t-003
+
+## Citatos
+
+- id: c-43737
+  citata_originali: |
+    pateko į iš anksto parengtą pasalą ir pa-
+    tyrę nuostolių buvo priversti grįžti atgal.
+    Marcinkonių bataliono vyrams buvo
+    nesmagu dėl savo pavėlavimo į kauty-
+    nes, todėl jie kitą, gruodžio 16 d. puolė
+    Perlojos stribų įgulą ir ją sunaikino.
+    Mūšio padariniai
+    Operacijos metu žuvo 4 partizanai ir 2 buvo
+    sužeisti.
+  citata_rodoma: "Marcinkonių bataliono vyrams buvo\nnesmagu dėl savo pavėlavimo į kauty-\nnes, todėl jie kitą, gruodžio 16 d. puolė\nPerlojos stribų įgulą ir ją sunaikino.\nMūšio padariniai\nOperacijos metu žuvo 4 partizanai ir 2 buvo\nsužeisti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-50178
+    - t-50179
+
+- id: c-43738
+  citata_originali: |
+    Priešo pusėje žuvo 15 NKVD karių
+    ir 2 stribai. Dar 5 stribai nukauti kitą dieną
+    Perlojoje Marcinkonių bataliono vyrų
+    (partizanai nuostolių nepatyrė). Paimtos 2
+    rašomosios mašinėlės, taip pat 4 nauji kul-
+    kosvaidžiai, keletas automatų bei šautuvų
+    ir nemažas kiekis šaudmenų, sunaikin-
+    tas valsčius, dalinai milicija ir paštas.
+  citata_rodoma: "Dar 5 stribai nukauti kitą dieną\nPerlojoje Marcinkonių bataliono vyrų\n(partizanai nuostolių nepatyrė). Paimtos 2\nrašomosios mašinėlės, taip pat 4 nauji kul-\nkosvaidžiai, keletas automatų bei šautuvų\nir nemažas kiekis šaudmenų, sunaikin-\ntas valsčius, dalinai milicija ir paštas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-50181
+    - t-50180
 
 ## Ryšiai
 - Puolė Perloją: [[objektai/grupes/Marcinkonių batalionas]]

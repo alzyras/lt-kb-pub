@@ -10,534 +10,1620 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1008 m.'
   - '1183 m.'
   - '1230 m.'
+  - '1306 m.'
   - '1385 m.'
   - '1387 m.'
   - '1390 m.'
-  - '1413 m.'
   - '1936 m.'
 date_start: '1008'
 date_end: '1936'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XI'
-  - 'XX'
-description: 'Lenkija Lietuvos istorijoje: lietuvių žygiai, Jogailos ir Vytauto laikų sąjunga, kultūrinė įtaka ir Vilniaus krašto klausimas.'
-socialDescription: 'Lenkijos ir Lietuvos ryšiai: nuo lietuvių žygių bei unijų iki kultūrinės įtakos, religinės tolerancijos ir Vilniaus krašto klausimo.'
-seo_atnaujinta: '2026-07-02T23:12:34.998655+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 tags:
   - bajorija
   - miestas
   - ordinas
   - valdovas
+amziai:
+  - 'XI'
+  - 'XX'
+media_total_count: '2'
+media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/8/80/Polska_w_10_wazniejszych_okresach_historycznych_%2880324737%29.jpg'
+media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3APolska_w_10_wazniejszych_okresach_historycznych_%2880324737%29.jpg'
+media_primary_directness: 'direct'
+media_primary_relation_type: 'map_of'
+media_primary_json: |-
+  {"mediaId":"m-1adde93f6c46b74406e796ba","title":"Polska w 10 wazniejszych okresach historycznych (80324737).jpg","caption":"Tytuł : Polska w 10 ważniejszych okresach historycznych : z herbami województw i ziem do niej należących Adres wydawniczy : Warszawa : Fr. Karpowicz, [1930] (Warszawa : Lit. Wł. Główczewski) Gatunek : mapa historyczna","creator":"Franciszek Autor Wydawca Karpowicz","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1930","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APolska_w_10_wazniejszych_okresach_historycznych_%2880324737%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/80/Polska_w_10_wazniejszych_okresach_historycznych_%2880324737%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}
+media_direct_json: |-
+  [{"mediaId":"m-1adde93f6c46b74406e796ba","title":"Polska w 10 wazniejszych okresach historycznych (80324737).jpg","caption":"Tytuł : Polska w 10 ważniejszych okresach historycznych : z herbami województw i ziem do niej należących Adres wydawniczy : Warszawa : Fr. Karpowicz, [1930] (Warszawa : Lit. Wł. Główczewski) Gatunek : mapa historyczna","creator":"Franciszek Autor Wydawca Karpowicz","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1930","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APolska_w_10_wazniejszych_okresach_historycznych_%2880324737%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/80/Polska_w_10_wazniejszych_okresach_historycznych_%2880324737%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-30432ed25eb3f8827e3fd107","title":"Poland under Boleslaw the Brave (80324737).jpg","caption":"Poland under Boleslaw the Brave Polska w 10 ważniejszych okresach historycznych Adres wydawniczy : Warszawa : Fr. Karpowicz, [1930] (Warszawa : Lit. Wł. Główczewski) Gatunek : mapa historyczna","creator":"Franciszek Autor Wydawca Karpowicz","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1930","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APoland_under_Boleslaw_the_Brave_%2880324737%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Poland_under_Boleslaw_the_Brave_%2880324737%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
+media_contextual_json: |-
+  []
+media_all_json: |-
+  [{"mediaId":"m-1adde93f6c46b74406e796ba","title":"Polska w 10 wazniejszych okresach historycznych (80324737).jpg","caption":"Tytuł : Polska w 10 ważniejszych okresach historycznych : z herbami województw i ziem do niej należących Adres wydawniczy : Warszawa : Fr. Karpowicz, [1930] (Warszawa : Lit. Wł. Główczewski) Gatunek : mapa historyczna","creator":"Franciszek Autor Wydawca Karpowicz","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1930","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APolska_w_10_wazniejszych_okresach_historycznych_%2880324737%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/80/Polska_w_10_wazniejszych_okresach_historycznych_%2880324737%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-30432ed25eb3f8827e3fd107","title":"Poland under Boleslaw the Brave (80324737).jpg","caption":"Poland under Boleslaw the Brave Polska w 10 ważniejszych okresach historycznych Adres wydawniczy : Warszawa : Fr. Karpowicz, [1930] (Warszawa : Lit. Wł. Główczewski) Gatunek : mapa historyczna","creator":"Franciszek Autor Wydawca Karpowicz","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1930","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APoland_under_Boleslaw_the_Brave_%2880324737%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Poland_under_Boleslaw_the_Brave_%2880324737%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
 ---
 # Lenkija
 
 ## Santrauka
 
-Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valstybė, su kuria Lietuvą siejo kariniai žygiai, prekybos kryptys, unijos ir politinės sąjungos. Po 1183 m. lietuvių žygiai dažnėjo ir pasiekė Lenkiją, o Jogailos ir Vytauto laikais Lietuvos ir Lenkijos ryšiai tapo svarbia valdžios bei gynybos dalimi. Vėlesniuose kontekstuose Lenkija minima dėl kultūrinės įtakos, religinės tolerancijos, Vilniaus krašto klausimo ir Lietuvos nepriklausomybės sampratos.
+Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pietų Lietuvos prekių ėmė plaukti per Lenkiją, — kai su šia prasidėjo Lietuvos santykiai. Tad Zigmantui nebeliko kito sąjungininko, kaip tik Lenkija, kuri jam padėjo net ruošiant sąmokslą. Senieji aktai, kuriais ji buvo surišta su Lenkija, jau nebegaliojo.
 
 ## Teiginiai
+
 <a id="claim-t-177338"></a>
-- t-001
+- t-097
   global_id: t-177338
-  teiginys: 'Šiaurės Europą dengęs ledynas, kuris buvo apėmęs Pabaltijį, šiaurės Lenkiją, vidurio Rusiją, ėmė trauktis iš Baltijos plotų.'
+  teiginys: "Šiaurės Europą dengęs ledynas, kuris buvo apėmęs Pabaltijį, šiaurės Lenkiją, vidurio Rusiją, ėmė trauktis iš Baltijos plotų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "263449-263926; hash=2184e41af9648dd098c58c91df4c0b738dde596637c5a81e9b1bc1b40f05b251; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=41"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-009
+    - c-161217
 
 <a id="claim-t-177339"></a>
-- t-002
+- t-031
   global_id: t-177339
-  teiginys: 'Lenkijos karalystės Seimas paskelbė šalinąs Nikolajų I iš Lenkijos karaliaus sosto ir perduodąs suverenitetą tautai.'
+  teiginys: "Lenkijos karalystės Seimas paskelbė šalinąs Nikolajų I iš Lenkijos karaliaus sosto ir perduodąs suverenitetą tautai."
+  temporaliniai_duomenys: "įvykio data: 1831 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys gramatiškas ir aiškiai paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "195706-196019; hash=ad4accabc46b77ec43470492ec7f88eeb10e386a8a03bc8ae467e2a25c0bf110; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> seimas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "seimas: mention_match, thing, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"seimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-046
+    - c-161274
 
 <a id="claim-t-177340"></a>
-- t-003
+- t-075
   global_id: t-177340
-  teiginys: 'Ratifikavus sutartį ir įsigaliojus jos nuostatoms, Lenkija oficialiai atsisakė bet kokių pretenzijų į Vilniaus kraštą.'
+  teiginys: "Ratifikavus sutartį ir įsigaliojus jos nuostatoms, Lenkija oficialiai atsisakė bet kokių pretenzijų į Vilniaus kraštą."
+  temporaliniai_duomenys: "įvykio data: 1600 m.; įvykio data: 1655 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "680171-680630; hash=982763714b52e2a59f906081174b46d23f0136f868771ce9247202e333fab235; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkijos bajorija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkijos bajorija: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Lenkijos bajorija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-019
+    - c-161228
 
 <a id="claim-t-177341"></a>
-- t-004
+- t-033
   global_id: t-177341
-  teiginys: 'Lenkiškai kalbantiems lietuviams linkstant į Lenkijos valstybingumo idėją, ryškėjo etnografinės Lietuvos nepriklausomybės siekis.'
+  teiginys: "Lenkiškai kalbantiems lietuviams linkstant į Lenkijos valstybingumo idėją, ryškėjo etnografinės Lietuvos nepriklausomybės siekis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "255370-256125; hash=61c5b65d2399a623947f1e8cc863eccfdd0f570d871c32a8a06a47ca8dcc19af; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gardinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gardinas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-027
+    - c-161245
 
 <a id="claim-t-177342"></a>
-- t-005
+- t-025
   global_id: t-177342
-  teiginys: 'Istorikai XVI–XVII a. Lenkijos religinę toleranciją apibūdino kaip Europoje neturėjusią analogo.'
+  teiginys: "Istorikai XVI–XVII a. Lenkijos religinę toleranciją apibūdino kaip Europoje neturėjusią analogo."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "135640-135905; hash=634a43b6e969243a37abe5c7e36a6e6d5e3fe5d37e4e58066a1a29fe7d51fd5f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=45"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-057
+    - c-161288
 
 <a id="claim-t-177343"></a>
-- t-006
+- t-090
   global_id: t-177343
-  teiginys: 'Autorių vertinimu, Lenkija buvo LDK mokytoja, nes stipriai veikė Lietuvos kultūrą.'
+  teiginys: "Autorių vertinimu, Lenkija buvo LDK mokytoja, nes stipriai veikė Lietuvos kultūrą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "114076-114375; hash=fc1d83326c1389180de19f90981b1262940e219ae4277bf42911c720d7865015; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=46"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-044
+    - c-161270
 
 <a id="claim-t-177344"></a>
-- t-007
+- t-084
   global_id: t-177344
-  teiginys: 'Totoriai nuniokojo Vengriją ir Lenkiją.'
+  teiginys: "Totoriai nuniokojo Vengriją ir Lenkiją."
+  semantiniai_rysiai: "Totoriai puolė Lenkija (0.91); Totoriai puolė Vengrija (0.91)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "697672-697794; hash=0cded861d9c3c4e38b76fc3f3a58ca8f0f1ad0e4feed9836c5c2d60e9c020654; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Lenkija: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad totoriai nuniokojo Lenkiją."
   pagrindžia:
-    - c-052
+    - c-161282
 
 <a id="claim-t-177345"></a>
-- t-008
+- t-053
   global_id: t-177345
-  teiginys: 'Užėmęs Vytauto valdytas pilis ir Gardiną, Jogaila patvarkė Lietuvos gynybą ir grįžo į Lenkiją.'
+  teiginys: "Užėmęs Vytauto valdytas pilis ir Gardiną, Jogaila patvarkė Lietuvos gynybą ir grįžo į Lenkiją."
+  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) keliavo į Lenkija (0.90); Jogaila (kunigaikštis, XIV–XV a.) gynė Lietuva (0.82)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "258350-259030; hash=34f875e2a233731058e9b37b28a490e2bd5fab991e543b10f034bc6728cd3dca; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Lenkija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Jogailos grįžimą į Lenkiją."
   pagrindžia:
-    - c-042
+    - c-161267
 
 <a id="claim-t-177346"></a>
-- t-009
+- t-049
   global_id: t-177346
-  teiginys: 'Lenkija siekė išsaugoti uniją, kad ji neliktų suardyta.'
+  teiginys: "Lenkija siekė išsaugoti uniją, kad ji neliktų suardyta."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "537551-537735; hash=6070193c58bd70710dd8fb8d21c821c513e74a428baf148a95d22250552f44d0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> unija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "unija: mention_match, thing, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"unija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-038
+    - c-161261
 
 <a id="claim-t-177348"></a>
-- t-010
+- t-015
   global_id: t-177348
-  teiginys: 'Po 1183 m. lietuvių žygiai padažnėjo ir kasmet vyko ne tik į Rusios žemes, bet ir į Lenkiją bei Livoniją.'
+  teiginys: "Po 1183 m. lietuvių žygiai padažnėjo ir kasmet vyko ne tik į Rusios žemes, bet ir į Lenkiją bei Livoniją."
+  semantiniai_rysiai: "Lietuviai surengė žygį į Lenkija (0.88); Lietuviai surengė žygį į Livonija (0.88)"
+  temporaliniai_duomenys: "įvykio data: po 1183 m.; įvykio data: 1183 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradžia „Vėliau“ buvo kontekstinė, todėl patikslintas laikas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "43032-43413; hash=3ee5f116f9cd8d055b05a8dc149bd5fe909f750de78bb5007281e4d863fab4fb; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Lenkija: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai mini lietuvių žygius į Lenkiją."
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-033
+    - c-161253
 
 <a id="claim-t-177349"></a>
-- t-011
+- t-050
   global_id: t-177349
-  teiginys: 'XIV a. Lenkijos miestai, tokie kaip Krokuva ir Liublinas, jau turėjo gotikos rūmų ir mūrinių gatvių vaizdą.'
+  teiginys: "XIV a. Lenkijos miestai, tokie kaip Krokuva ir Liublinas, jau turėjo gotikos rūmų ir mūrinių gatvių vaizdą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "238851-239839; hash=8d1581e09b5cf6ba6034363fa1a2d0b1cc35832c3879a5b0d9108fb6317f1710; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-056
+    - c-161287
 
 <a id="claim-t-177350"></a>
-- t-012
+- t-076
   global_id: t-177350
-  teiginys: 'XIV a. Lenkijoje jau buvo miestų, su kuriais lyginamos aplink Vilniaus pilis buvusios gyvenvietės.'
+  teiginys: "XIV a. Lenkijoje jau buvo miestų, su kuriais lyginamos aplink Vilniaus pilis buvusios gyvenvietės."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "238851-239839; hash=8d1581e09b5cf6ba6034363fa1a2d0b1cc35832c3879a5b0d9108fb6317f1710; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilniaus pilis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilniaus pilis: mention_match, place, gap=55"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Vilniaus pilis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-056
+    - c-161287
 
 <a id="claim-t-177351"></a>
-- t-013
+- t-041
   global_id: t-177351
-  teiginys: 'Sutriuškinus Lenkiją, Anglijos ir Prancūzijos įtaka regione sumažėjo, o Vokietija skelbė nebeturinti ten interesų.'
+  teiginys: "Sutriuškinus Lenkiją, Anglijos ir Prancūzijos įtaka regione sumažėjo, o Vokietija skelbė nebeturinti ten interesų."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "373954-374422; hash=5ca96c467758c80a56b8a859260810c7cf36b440052347ebf0f381944e353241; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Anglija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Anglija: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Anglija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-018
+    - c-161227
 
-<a id="claim-t-177352"></a>
-- t-014
-  global_id: t-177352
-  teiginys: 'Baltijos antantė negarantavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus krašto.'
+<a id="claim-t-177368"></a>
+- t-038
+  global_id: t-177368
+  teiginys: "Baltijos antantė negarantavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus krašto."
+  temporaliniai_duomenys: "įvykio data: 1934 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata remia tikslesnį subjektą – Baltijos antantę."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "356537-357101; hash=3a1075639ae7765ecd3b6f0fd7da05f872d046fae193d308759f682b54fac988; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-022
+    - c-161236
 
 <a id="claim-t-177353"></a>
-- t-015
+- t-086
   global_id: t-177353
-  teiginys: 'Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jos provincijų — Didlenkių ir Mažlenkių — atskiri astovų suvažiavimai, vadinami generaliniais seimeliais.'
+  teiginys: "Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jos provincijų — Didlenkių ir Mažlenkių — atskiri astovų suvažiavimai, vadinami generaliniais seimeliais."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "551274-551621; hash=b6111c9fe0817970dfd6d4a360ac4c478fe16739813a881352e0f9db5aa6268c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Didlenkiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Didlenkiai: mention_match, place, gap=66"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Didlenkiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-46570
 
 <a id="claim-t-177355"></a>
-- t-016
+- t-036
   global_id: t-177355
-  teiginys: '1922 m. sausį lenkai surengė rinkimus Vidurinėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos.'
+  teiginys: "1922 m. sausį lenkai surengė rinkimus Vidurinėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos."
+  temporaliniai_duomenys: "įvykio data: 1922 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Patikslintas citatoje vartojamas objektas ir pašalintas dviprasmiškumas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "290615-291164; hash=b58cc02954325938c0a9700b3929f14cdfd9d0fef03fcdc8da98e0cf42ea26a5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-047
+    - c-161276
 
 <a id="claim-t-177356"></a>
-- t-017
+- t-027
   global_id: t-177356
-  teiginys: 'Lenkijoje žydų ir armėnų vaidmuo buvo ryškesnis nei LDK, bet joje nebuvo tokių ryškių totorių ir karaimų bendruomenių.'
+  teiginys: "Lenkijoje žydų ir armėnų vaidmuo buvo ryškesnis nei LDK, bet joje nebuvo tokių ryškių totorių ir karaimų bendruomenių."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "137924-138458; hash=f83e5bf0c90acdcddfa08eb0347b6150023f773afe34404f9ad2abf939865e0c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Armėnai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Armėnai: mention_match, group, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Armėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-161210
 
 <a id="claim-t-177358"></a>
-- t-018
+- t-078
   global_id: t-177358
-  teiginys: 'Ordino vadovas siekė išardyti Lietuvos ir Lenkijos sąjungą ir 1390 m. sausio 19 d. per komtūrą sudarė sutartį su Vytautu.'
+  teiginys: "Ordino vadovas siekė išardyti Lietuvos ir Lenkijos sąjungą ir 1390 m. sausio 19 d. per komtūrą sudarė sutartį su Vytautu."
+  temporaliniai_duomenys: "įvykio data: 1390 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai apima citatoje nurodytą tikslą, datą ir sutarties sudarymą per komtūrą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "257326-258053; hash=2f57fc040dd8e78dd8c01edb59398aa1d27625b2d107bd3f079c86ddb3034bf7; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gardinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gardinas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-006
+    - c-161214
 
 <a id="claim-t-177359"></a>
-- t-019
+- t-085
   global_id: t-177359
-  teiginys: '1008 m. pabaigoje iš Lenkijos aisčių krikštyti išvyko misijonierius su 18 palydovų.'
+  teiginys: "1008 m. pabaigoje iš Lenkijos aisčių krikštyti išvyko misijonierius su 18 palydovų."
+  temporaliniai_duomenys: "įvykio data: 1008 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradiniame teiginyje yra neaiškus įvardis, todėl agentas sukonkretintas tiek, kiek leidžia citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "95256-95422; hash=2b8b90c645dc8bd9363e8d2949eb52ce1cf050aac639234e6c4516034ae6e8bf; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aisčiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Aisčiai: mention_match, group, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Aisčiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-054
+    - c-161285
 
 <a id="claim-t-177360"></a>
-- t-020
+- t-099
   global_id: t-177360
-  teiginys: 'Lietuvos pietvakariuose buvusi Lenkija tapo ilgamečio konflikto su Lietuva dalyve.'
+  teiginys: "Lietuvos pietvakariuose buvusi Lenkija tapo ilgamečio konflikto su Lietuva dalyve."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "735762-736217; hash=acf9a68d2a75a68f03f661bfb75cf90fa5ac8674976a4a64c08d928766af7e52; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-030
+    - c-161249
 
 <a id="claim-t-177361"></a>
-- t-021
+- t-082
   global_id: t-177361
-  teiginys: 'Magistras Hermanas pasiuntė Konradą iš Landsbergo ir kitą Ordino brolį pas Lenkijos kunigaikštį apžiūrėti Kulmo žemės.'
+  teiginys: "Magistras Hermanas pasiuntė Konradą iš Landsbergo ir kitą Ordino brolį pas Lenkijos kunigaikštį apžiūrėti Kulmo žemės."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "140517-141327; hash=3a08926ea2ea7a3df15eec38d0b2d5e3de0e7c9eead7cd799bb73c91431ff24e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kulmas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kulmas: mention_match, place, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Kulmas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-039
+    - c-161262
 
 <a id="claim-t-177362"></a>
-- t-022
+- t-024
   global_id: t-177362
-  teiginys: 'Abiejų Tautų Respublikoje vyravo Lenkija, nes Lietuva bendrame Seime turėjo tik trečdalį vietų.'
+  teiginys: "Abiejų Tautų Respublikoje vyravo Lenkija, nes Lietuva bendrame Seime turėjo tik trečdalį vietų."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "130479-130881; hash=4a451990e3768097c125860fa41570d7c3a6e78441dc1038c97a1b7dcfd12bca; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Didžioji Lenkija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Didžioji Lenkija: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Didžioji Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-029
+    - c-161248
 
 <a id="claim-t-177363"></a>
-- t-023
+- t-087
   global_id: t-177363
-  teiginys: 'Lenkija siekė išsaugoti uniją, nes Vytauto karūnacija galėjo visiškai nutraukti jos ryšius su Lietuva.'
+  teiginys: "Lenkija siekė išsaugoti uniją, nes Vytauto karūnacija galėjo visiškai nutraukti jos ryšius su Lietuva."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "537369-537648; hash=41e0f32d0bfb298d462a5338bda061f537dfa67ee2cdb189c6aba00d2f758810; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=94"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-040
+    - c-161263
 
 <a id="claim-t-177364"></a>
-- t-024
+- t-048
   global_id: t-177364
-  teiginys: 'Vytauto karūnacija Lenkijai kėlė pavojų, nes Lietuva galėjo visiškai išsivaduoti iš Lenkijos.'
+  teiginys: "Vytauto karūnacija Lenkijai kėlė pavojų, nes Lietuva galėjo visiškai išsivaduoti iš Lenkijos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "520733-521140; hash=13b09fc956a6289779375f4c2200e3a67bd3f8fbc610806f719f2869b3defa08; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-008
+    - c-161216
 
 <a id="claim-t-177365"></a>
-- t-025
+- t-028
   global_id: t-177365
-  teiginys: '1791 m. Lietuvos atstovų Spalio 20-osios pataisa neleido LLV Konstitucijos laikyti vien tik Lenkijos konstitucija.'
+  teiginys: "1791 m. Lietuvos atstovų Spalio 20-osios pataisa neleido LLV Konstitucijos laikyti vien tik Lenkijos konstitucija."
+  temporaliniai_duomenys: "įvykio data: 1791 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pirminis teiginys silpnai siejosi su Lenkija; citata leidžia suformuluoti tikslesnį sakinį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "157515-158159; hash=1598d422d3aabad070e58258cd86e098a0de60987b6101f2f96bd10333421847; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-031
+    - c-161251
 
 <a id="claim-t-177367"></a>
-- t-026
+- t-070
   global_id: t-177367
-  teiginys: 'Vokietijos ir Lenkijos karo metu voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai ragino vyriausybę jėga atsiimti Vilnių.'
+  teiginys: "Vokietijos ir Lenkijos karo metu voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai ragino vyriausybę jėga atsiimti Vilnių."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "355802-356241; hash=d9a36524ea27cb51f186a0f8e5e4e28eaabb85232ce233c34353ca20c056a008; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jaunieji tautininkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Jaunieji tautininkai: mention_match, group, gap=54"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Jaunieji tautininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-015
+    - c-161223
+
+<a id="claim-t-177368"></a>
+- t-038
+  global_id: t-177368
+  teiginys: "Baltijos antantė negarantavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus krašto."
+  temporaliniai_duomenys: "įvykio data: 1934 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata remia tikslesnį subjektą – Baltijos antantę."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "356537-357101; hash=3a1075639ae7765ecd3b6f0fd7da05f872d046fae193d308759f682b54fac988; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-161236
 
 <a id="claim-t-177371"></a>
-- t-028
+- t-081
   global_id: t-177371
-  teiginys: 'Lenkijos kunigaikštis, prūsų įbaugintas, duodavo jų pasiuntiniams reikalaujamus žirgus ir ryškiaspalvius drabužius.'
+  teiginys: "Lenkijos kunigaikštis, prūsų įbaugintas, duodavo jų pasiuntiniams reikalaujamus žirgus ir ryškiaspalvius drabužius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "135423-136074; hash=9c8ca5d02bf59b2d343f202c78ad4927f0deadb196a83f418866f61b48e72b42; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Drabužiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Drabužiai: mention_match, thing, gap=105"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Drabužiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-014
+    - c-161222
 
 <a id="claim-t-177373"></a>
-- t-029
+- t-047
   global_id: t-177373
-  teiginys: 'Per aštuoniolika laisvo valdymo metų Vytautas paskleidė savo įtaką rusų kraštuose, Lenkijoje ir Aukso Ordoje.'
+  teiginys: "Per aštuoniolika laisvo valdymo metų Vytautas paskleidė savo įtaką rusų kraštuose, Lenkijoje ir Aukso Ordoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "326158-326576; hash=91a002e2565ef203c8881b2d29df7a4778639a16f4d11303cc7e40c5c21fc0fb; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Auksinė Orda: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Auksinė Orda: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Auksinė Orda\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-023
+    - c-161237
 
 <a id="claim-t-177375"></a>
-- t-030
+- t-055
   global_id: t-177375
-  teiginys: 'Aleksandras dokumente tituluojamas Lenkijos karaliumi ir Lietuvos, Rusios, Prūsijos bei Žemaitijos didžiuoju kunigaikščiu.'
+  teiginys: "Aleksandras dokumente tituluojamas Lenkijos karaliumi ir Lietuvos, Rusios, Prūsijos bei Žemaitijos didžiuoju kunigaikščiu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "704846-705193; hash=dcbdfd1cf0eca1192c8a557dde7e6919effdfcacf298fdcc3d0a9246737962df; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-036
+    - c-161259
 
 <a id="claim-t-177376"></a>
-- t-031
+- t-039
   global_id: t-177376
-  teiginys: '1938 m. kovo 19 d. Lietuva priėmė Lenkijos ultimatumą, nes jis nelietė Vilniaus pripažinimo Lenkijai.'
+  teiginys: "1938 m. kovo 19 d. Lietuva priėmė Lenkijos ultimatumą, nes jis nelietė Vilniaus pripažinimo Lenkijai."
+  temporaliniai_duomenys: "įvykio data: 1938 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir nurodo citatoje pateiktą ultimatumo priėmimo priežastį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "95256-95422; hash=2b8b90c645dc8bd9363e8d2949eb52ce1cf050aac639234e6c4516034ae6e8bf; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=37"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-016
+    - c-161225
 
 <a id="claim-t-177377"></a>
-- t-032
+- t-065
   global_id: t-177377
-  teiginys: 'Lenkijoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruomenių kaip LDK.'
+  teiginys: "Lenkijoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruomenių kaip LDK."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "137924-138458; hash=f83e5bf0c90acdcddfa08eb0347b6150023f773afe34404f9ad2abf939865e0c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Isaakas ben Abrahamas iš Trakų: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Isaakas ben Abrahamas iš Trakų: mention_match, person, gap=59"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Isaakas ben Abrahamas iš Trakų\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-161210
 
 <a id="claim-t-177378"></a>
-- t-033
+- t-067
   global_id: t-177378
-  teiginys: 'Nors dalį ginčijamų žemių jau kontroliavo Lenkija, Adolfas Jofė sutiko Vilnių, Gardiną ir Lydą priskirti Lietuvai.'
+  teiginys: "Nors dalį ginčijamų žemių jau kontroliavo Lenkija, Adolfas Jofė sutiko Vilnių, Gardiną ir Lydą priskirti Lietuvai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "280107-280512; hash=755dd9ba311e4fa08d89935e483b41c108b0d07b11c750128cb70743660fabbb; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Adolfas Jofė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Adolfas Jofė: mention_match, person, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Adolfas Jofė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-035
+    - c-161257
 
 <a id="claim-t-177379"></a>
-- t-034
+- t-021
   global_id: t-177379
-  teiginys: 'Lietuvos suartėjimas su Lenkija lėmė epochos pobūdį, kai abi valstybes dažnai valdė tie patys valdovai.'
+  teiginys: "Lietuvos suartėjimas su Lenkija lėmė epochos pobūdį, kai abi valstybes dažnai valdė tie patys valdovai."
+  temporaliniai_duomenys: "įvykio data: iki 1572 m.; įvykio data: 1572 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys per bendras, o citata leidžia jį sukonkretinti."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "97659-98015; hash=51001c31ec063b19e585387e24b6f7a3a6c70165692795a9111e38dbd906f213; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jogailaičiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Jogailaičiai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Jogailaičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-043
+    - c-161269
 
 <a id="claim-t-177381"></a>
-- t-035
+- t-082
   global_id: t-177381
-  teiginys: 'Pirmiausia kurį nors Gediminaitį išsirinkdavo sau valdovu Lietuva, o paskui jį išsirinkdavo ir Lenkija.'
+  teiginys: "Pirmiausia kurį nors Gediminaitį išsirinkdavo sau valdovu Lietuva, o paskui jį išsirinkdavo ir Lenkija."
+  temporaliniai_duomenys: "įvykio data: 1948 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "543795-544093; hash=0add4fa4cece069e3f00f9aae0f0564f693864369f41482de51f0f75482b8564; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-24237
+    - c-175947
+    - c-121
 
 <a id="claim-t-177382"></a>
-- t-036
+- t-074
   global_id: t-177382
-  teiginys: '1994 m. balandžio 26 d. Lietuva ir Lenkija pasirašė draugiškų santykių ir gero kaimyninio bendradarbiavimo sutartį.'
+  teiginys: "1994 m. balandžio 26 d. Lietuva ir Lenkija pasirašė draugiškų santykių ir gero kaimyninio bendradarbiavimo sutartį."
+  temporaliniai_duomenys: "įvykio data: 1994 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys turi vertinamąją frazę, kurios enciklopediniam sakiniui nereikia."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "606630-606991; hash=6b36c4ff5ef4ca9683b972a2cbd2dda0284c82635dfac51e52a6c9184d03a8c7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-011
+    - c-161219
 
 <a id="claim-t-177383"></a>
-- t-037
+- t-087
   global_id: t-177383
-  teiginys: 'Lenkijoje Zamoiskis įgijo persvarą ir, vadovaudamas kariuomenei, neleido Maksimilijonui įžengti į Krokuvą.'
+  teiginys: "Lenkijoje Zamoiskis įgijo persvarą ir, vadovaudamas kariuomenei, neleido Maksimilijonui įžengti į Krokuvą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "606540-606818; hash=79ec34c46d1da67c53e8e9eaf853dd3f4e514b8bfa8d328b706a268f7a3722ea; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=98"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-055
+    - c-161286
 
 <a id="claim-t-177384"></a>
-- t-038
+- t-069
   global_id: t-177384
-  teiginys: '1938 m. kovo 19 d. Lietuva priėmė Lenkijos ultimatumą, nes jis nereikalavo pripažinti Vilniaus Lenkijai.'
+  teiginys: "1938 m. kovo 19 d. Lietuva priėmė Lenkijos ultimatumą, nes jis nereikalavo pripažinti Vilniaus Lenkijai."
+  temporaliniai_duomenys: "įvykio data: 1938 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia nurodyti metus ir aiškiau suformuluoti ultimatumo turinį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "95256-95422; hash=2b8b90c645dc8bd9363e8d2949eb52ce1cf050aac639234e6c4516034ae6e8bf; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=52"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-016
+    - c-161225
 
 <a id="claim-t-177386"></a>
-- t-039
+- t-089
   global_id: t-177386
-  teiginys: '1920 m. spalio 9 d. Lenkijos generolas Liucijanas Želigovskis įžengė į Vilnių dar prieš įsigaliojant Suvalkų susitarimui.'
+  teiginys: "1920 m. spalio 9 d. Lenkijos generolas Liucijanas Želigovskis įžengė į Vilnių dar prieš įsigaliojant Suvalkų susitarimui."
+  semantiniai_rysiai: "Vilnius priklausė Lenkija (0.94); Liucijanas Želigovskis užėmė Vilnius (0.90)"
+  temporaliniai_duomenys: "įvykio data: po 1920 m.; įvykio data: 1920 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia aiškiau susieti veikėją su Lenkija ir išplėsti inicialą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "285252-286022; hash=5e7f820690a9e67a830d75481dbbc6ebbe5ab8af60abe5c1b0babc385d22c567; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lenkija: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vilnius atiteko Lenkijai."
   pagrindžia:
-    - c-007
+    - c-161215
+
+<a id="claim-t-177387"></a>
+- t-064
+  global_id: t-177387
+  teiginys: "Istorikai XVI–XVII a. Lenkijos religinę toleranciją apibūdino kaip Europoje neturėjusią analogo."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "722076-722503; hash=6644a62598cb7e4ebcb041c04258e1e69112d81ad0e66b6f226e688d1e9f7292; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=45"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-161233
 
 <a id="claim-t-177388"></a>
-- t-041
+- t-032
   global_id: t-177388
-  teiginys: '1862 m. Kongresinėje Lenkijoje ir Lietuvoje susikūrė „raudonųjų“ organizacijos sukilimui rengti.'
+  teiginys: "1862 m. Kongresinėje Lenkijoje ir Lietuvoje susikūrė „raudonųjų“ organizacijos sukilimui rengti."
+  temporaliniai_duomenys: "įvykio data: 1862 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir faktas tiesiogiai susijęs su Kongresine Lenkija."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "201163-201454; hash=3dd8866e47918810b092252e8dbcb1d34e2718a339f2621a81153592ff7b769b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-010
+    - c-161218
 
 <a id="claim-t-177389"></a>
-- t-042
+- t-085
   global_id: t-177389
-  teiginys: 'Totoriai įsiveržė į Lenkiją, mūšyje nukovė Henriką, Lenkijos kunigaikštį, ir nuniokojo kraštą.'
+  teiginys: "Totoriai įsiveržė į Lenkiją, mūšyje nukovė Henriką, Lenkijos kunigaikštį, ir nuniokojo kraštą."
+  semantiniai_rysiai: "Totoriai puolė Lenkija (0.95); Totoriai puolė Vengrija (0.95)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "699223-699720; hash=84a46f3a7cfbec6886201d8750948e9744f93253740da61cb0f1a4f33f9efd98; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Lenkija: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo totorių įsiveržimą į Lenkiją."
   pagrindžia:
-    - c-051
+    - c-161281
 
 <a id="claim-t-177390"></a>
-- t-043
+- t-057
   global_id: t-177390
-  teiginys: 'Tikocine nukaldinti lenkiški grašiai turėjo būti priimami Lenkijoje ir Lietuvoje pagal lenkiškų grašių kainą.'
+  teiginys: "Tikocine nukaldinti lenkiški grašiai turėjo būti priimami Lenkijoje ir Lietuvoje pagal lenkiškų grašių kainą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "832475-834190; hash=57fee4f38e9ca3384a83dbfc4857a7c963e19901b60f735e5c67b1d56a86a898; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-053
+    - c-161284
 
 <a id="claim-t-177391"></a>
-- t-044
+- t-034
   global_id: t-177391
-  teiginys: 'Per derybas Lenkija jau kontroliavo dalį žemių, kurias A. Jofė sutiko priskirti Lietuvai kartu su Vilniumi.'
+  teiginys: "Per derybas Lenkija jau kontroliavo dalį žemių, kurias A. Jofė sutiko priskirti Lietuvai kartu su Vilniumi."
+  temporaliniai_duomenys: "įvykio data: 1795 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "280167-280582; hash=99fd9f8d2d0a84b0a425c88fdd99c2bcbed6d398e5695d310f2f7b39c3be7c11; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=68"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-026
+    - c-161243
 
 <a id="claim-t-177393"></a>
-- t-045
+- t-063
   global_id: t-177393
-  teiginys: 'Krėvos sutartį, autorių vertinimu, galima laikyti Lenkijos Karalystės ir Lietuvos didžiojo kunigaikščio susitarimu.'
+  teiginys: "Krėvos sutartį, autorių vertinimu, galima laikyti Lenkijos Karalystės ir Lietuvos didžiojo kunigaikščio susitarimu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "71043-71583; hash=3da2fc8b77cf70378f71ae26290f2d9624d3f0dd43de9bb2691522900652568c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkijos karalystė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkijos karalystė: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Lenkijos karalystė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-049
+    - c-161279
 
-<a id="claim-t-177394"></a>
-- t-046
-  global_id: t-177394
-  teiginys: 'Karalaitė Ona, pasilikusi Lenkijoje, turėjo likti su jai skirtomis valdomis, žemėmis ir pinigų sumomis.'
+<a id="claim-t-177405"></a>
+- t-054
+  global_id: t-177405
+  teiginys: "Karalaitė Ona, pasilikusi Lenkijoje, turėjo likti su jai skirtomis valdomis, žemėmis ir pinigų sumomis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "679343-680071; hash=f876152fa1cdb41a71f27b6a8ad7802a46074aec21046cd4d90c3c542a82ff93; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-037
+    - c-161260
 
 <a id="claim-t-177395"></a>
-- t-047
+- t-056
   global_id: t-177395
-  teiginys: '1570 m. sąraše nurodyta, kad už talerį Lenkijoje mokėta po 30 grašių, o Lietuvoje - po 25 lietuviškus grašius.'
+  teiginys: "1570 m. sąraše nurodyta, kad už talerį Lenkijoje mokėta po 30 grašių, o Lietuvoje - po 25 lietuviškus grašius."
+  temporaliniai_duomenys: "įvykio data: 1570 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis tekstas turi OCR ir antraštės triukšmo, bet citata pagrindžia aiškų faktą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "824882-825391; hash=4d90a70b8098be90c075addc4a8d9a660b2fb2dbd19edeb76dc5653ac639af42; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-061
+    - c-167242
 
 <a id="claim-t-177396"></a>
-- t-048
+- t-088
   global_id: t-177396
-  teiginys: 'Dėl Vokiečių ordino pavojaus LDK stiprino ryšius su Lenkija, o XV–XVI a. perėmė krikščionišką Vakarų kultūrą.'
+  teiginys: "Dėl Vokiečių ordino pavojaus LDK stiprino ryšius su Lenkija, o XV–XVI a. perėmė krikščionišką Vakarų kultūrą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "23890-24333; hash=6e875907dc7094424cf4795b174fe7f3018c36b077eacf3c7fcfcd1dc5ab0f6e; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-034
+    - c-161254
 
 <a id="claim-t-177397"></a>
-- t-049
+- t-098
   global_id: t-177397
-  teiginys: 'Vengrija ir Lenkija turėjo priversti ordiną grąžinti Lietuvai atimtas žemes ir ginti ją nuo kryžiuočių bei totorių.'
+  teiginys: "Vengrija ir Lenkija turėjo priversti ordiną grąžinti Lietuvai atimtas žemes ir ginti ją nuo kryžiuočių bei totorių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "717416-717679; hash=30e43f00b1a88bc34c8c075b814f9e8fbada1f70ef62c7d5bb95b4307205a7f6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=25"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-032
+    - c-161252
 
 <a id="claim-t-177399"></a>
-- t-050
+- t-019
   global_id: t-177399
-  teiginys: 'Krėvos sutartis parodė Lietuvos politinį atsigręžimą į artimiausią kaimynę Lenkiją.'
+  teiginys: "Krėvos sutartis parodė Lietuvos politinį atsigręžimą į artimiausią kaimynę Lenkiją."
+  temporaliniai_duomenys: "sutarties data: 1387 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia pašalinti publicistinę formuluotę ir palikti aiškų faktinį teiginį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "73011-73239; hash=1080197d3fc74e44af674bb4b5f97278c82da1894bde198c70539e848c6bcd31; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krėva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Krėva: mention_match, place, gap=75"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Krėva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-013
+    - c-161221
 
 <a id="claim-t-177400"></a>
-- t-051
+- t-012
   global_id: t-177400
-  teiginys: 'Lietuvoje, kaip ir Vidurio Europos šalyse (Lenkijoje, Čekijoje, Vengrijoje), skirtingai nei Rytų Europoje, nuo Viduramžių kūrėsi individualus valstiečių ūkis, o ne bendruomenė, formavosi bajorų pilietinė visuomenė, o ne rytietiškas centralizmas ar despotija.'
+  teiginys: "Lietuvoje, kaip ir Vidurio Europos šalyse (Lenkijoje, Čekijoje, Vengrijoje), skirtingai nei Rytų Europoje, nuo Viduramžių kūrėsi individualus valstiečių ūkis, o ne bendruomenė, formavosi bajorų pilietinė visuomenė, o ne rytietiškas centralizmas ar despotija."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "14170-14939; hash=1f10ad2e17fcb77fb2dfd0fb9c1e4f336130cd57571dac74c02a6f835ddea2ad; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=144"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-028
+    - c-161246
 
 <a id="claim-t-177401"></a>
-- t-052
+- t-088
   global_id: t-177401
-  teiginys: 'Lietuvos bajorija jautėsi sudaranti vieną luomą su Lenkijos bajorija, bet Lietuva pati rūpinosi savo gynyba ir sutartimis.'
+  teiginys: "Lietuvos bajorija jautėsi sudaranti vieną luomą su Lenkijos bajorija, bet Lietuva pati rūpinosi savo gynyba ir sutartimis."
+  semantiniai_rysiai: "Lietuvos bajorija buvo sąjungininkas su Lenkijos bajorija (0.68)"
+  temporaliniai_duomenys: "įvykio data: 1600 m.; įvykio data: 1655 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sutvarkytos kabutės ir paliktas citatos pagrįstas faktas apie santykį su Lenkija."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "680171-680630; hash=982763714b52e2a59f906081174b46d23f0136f868771ce9247202e333fab235; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Lenkijos bajorija: 0.68"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos bajorija: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lenkijos bajorija: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata rodo Lietuvos ir Lenkijos bajorijos laikymąsi vienu luomu, bet tai socialinis, ne formaliai politinis sąjungos ryšys."
   pagrindžia:
-    - c-050
+    - c-161280
 
 <a id="claim-t-177402"></a>
-- t-053
+- t-014
   global_id: t-177402
-  teiginys: 'Dėl Vokiečių ordino pavojaus LDK stiprino ryšius su Lenkija, o XVI a. viduryje sudarė uniją su Lenkijos Karalyste.'
+  teiginys: "Dėl Vokiečių ordino pavojaus LDK stiprino ryšius su Lenkija, o XVI a. viduryje sudarė uniją su Lenkijos Karalyste."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "23890-24333; hash=6e875907dc7094424cf4795b174fe7f3018c36b077eacf3c7fcfcd1dc5ab0f6e; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> unija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "unija: mention_match, thing, gap=34"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"unija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-034
+    - c-161254
 
 <a id="claim-t-177403"></a>
-- t-054
+- t-073
   global_id: t-177403
-  teiginys: 'Lenkijoje ūkiai iki 5 ha sudarė 72 proc. ūkių, o Lietuvoje tokio dydžio ūkių dalis siekė 62 proc.'
+  teiginys: "Lenkijoje ūkiai iki 5 ha sudarė 72 proc. ūkių, o Lietuvoje tokio dydžio ūkių dalis siekė 62 proc."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "606540-606818; hash=79ec34c46d1da67c53e8e9eaf853dd3f4e514b8bfa8d328b706a268f7a3722ea; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=49"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-161213
 
 <a id="claim-t-177404"></a>
-- t-055
+- t-092
   global_id: t-177404
-  teiginys: 'Apie 1500 m. Lenkijoje buvo trys stačiatikių vyskupijos, o LDK – šešios.'
+  teiginys: "Apie 1500 m. Lenkijoje buvo trys stačiatikių vyskupijos, o LDK – šešios."
+  temporaliniai_duomenys: "įvykio data: po 1387 m.; įvykio data: 1387 m.; įvykio data: 1500 m.; įvykio data: apie 1500 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir aiškiai lygina Lenkijos ir LDK vyskupijas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "135906-136269; hash=e1c6155e51d0c16bf7d6362f27264112a7c662aa5822d45249cb2540d8841530; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Stačiatikiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Stačiatikiai: mention_match, group, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Stačiatikiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-045
+    - c-161271
+
+<a id="claim-t-177405"></a>
+- t-054
+  global_id: t-177405
+  teiginys: "Karalaitė Ona, pasilikusi Lenkijoje, turėjo likti su jai skirtomis valdomis, žemėmis ir pinigų sumomis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "679343-680071; hash=f876152fa1cdb41a71f27b6a8ad7802a46074aec21046cd4d90c3c542a82ff93; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-161260
 
 <a id="claim-t-177406"></a>
-- t-057
+- t-083
   global_id: t-177406
-  teiginys: '1230 m. popiežius Grigalius IX patvirtino Lenkijos kunigaikščio susitarimą su Teutonų ordino broliais.'
+  teiginys: "1230 m. popiežius Grigalius IX patvirtino Lenkijos kunigaikščio susitarimą su Teutonų ordino broliais."
+  temporaliniai_duomenys: "įvykio data: 1230 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra faktinis sakinys apie Lenkijos kunigaikščio susitarimą ir popiežiaus patvirtinimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "146516-147222; hash=0c47ac53dc5d8a74b8cfa51751406da672b730f997e3900466530ed692dc8dd5; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Teutonai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Teutonai: mention_match, group, gap=36"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Teutonai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-024
+    - c-161240
 
 <a id="claim-t-177407"></a>
-- t-058
+- t-052
   global_id: t-177407
-  teiginys: 'Ordino viršininkas siekė pasinaudoti kaimynų nesutarimais ir išardyti Lietuvos bei Lenkijos sąjungą.'
+  teiginys: "Ordino viršininkas siekė pasinaudoti kaimynų nesutarimais ir išardyti Lietuvos bei Lenkijos sąjungą."
+  semantiniai_rysiai: "Kryžiuočių ordinas užėmė Kernavė (0.94)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "257326-258053; hash=2f57fc040dd8e78dd8c01edb59398aa1d27625b2d107bd3f079c86ddb3034bf7; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Kernavė: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kernavė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Ordino kariauna užėmė Kernavę."
   pagrindžia:
-    - c-006
+    - c-161214
 
 <a id="claim-t-177408"></a>
-- t-059
+- t-066
   global_id: t-177408
-  teiginys: 'Lenkiškai kalbantiems lietuviams linkstant į Lenkijos valstybingumo idėją, ryškėjo etnografinis Lietuvos nepriklausomybės siekis.'
+  teiginys: "Lenkiškai kalbantiems lietuviams linkstant į Lenkijos valstybingumo idėją, ryškėjo etnografinis Lietuvos nepriklausomybės siekis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "255370-256125; hash=61c5b65d2399a623947f1e8cc863eccfdd0f570d871c32a8a06a47ca8dcc19af; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gardinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gardinas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-027
+    - c-161245
 
 <a id="claim-t-177409"></a>
-- t-060
+- t-035
   global_id: t-177409
-  teiginys: '1920 m. rudenį Vilnius atiteko Lenkijai, kai ši sumušė Raudonąją armiją.'
+  teiginys: "1920 m. rudenį Vilnius atiteko Lenkijai, kai ši sumušė Raudonąją armiją."
+  semantiniai_rysiai: "Vilnius priklausė Lenkija (0.95)"
+  temporaliniai_duomenys: "įvykio data: po 1920 m.; įvykio data: 1920 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys neminėjo note objekto, o citata pagrindžia faktą apie Lenkiją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "285252-286022; hash=5e7f820690a9e67a830d75481dbbc6ebbe5ab8af60abe5c1b0babc385d22c567; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lenkija: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Vilnius atiteko Lenkijai."
   pagrindžia:
-    - c-007
+    - c-161215
 
 <a id="claim-t-177410"></a>
-- t-061
+- t-018
   global_id: t-177410
-  teiginys: 'Lenkijoje valstybingumą greta monarcho įkūnijo valstybės taryba ir jau pradėjęs veikti bajorų seimas.'
+  teiginys: "Lenkijoje valstybingumą greta monarcho įkūnijo valstybės taryba ir jau pradėjęs veikti bajorų seimas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "71043-71583; hash=3da2fc8b77cf70378f71ae26290f2d9624d3f0dd43de9bb2691522900652568c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=87"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-049
+    - c-161279
 
 <a id="claim-t-177411"></a>
-- t-062
+- t-083
   global_id: t-177411
-  teiginys: 'Liublino unijos metu Lenkijoje veikė Didžiosios ir Mažosios Lenkijos atstovų suvažiavimai, vadinti generaliniais seimeliais.'
+  teiginys: "Liublino unijos metu Lenkijoje veikė Didžiosios ir Mažosios Lenkijos atstovų suvažiavimai, vadinti generaliniais seimeliais."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "551274-551621; hash=b6111c9fe0817970dfd6d4a360ac4c478fe16739813a881352e0f9db5aa6268c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Didlenkiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Didlenkiai: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Didlenkiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-46570
 
 <a id="claim-t-177413"></a>
-- t-063
+- t-080
   global_id: t-177413
-  teiginys: 'Prūsai kelis kartus didelėmis pajėgomis užpuolė Lenkijos žemę, degino namus, žudė suaugusiuosius ir išvarė moteris bei vaikus.'
+  teiginys: "Prūsai kelis kartus didelėmis pajėgomis užpuolė Lenkijos žemę, degino namus, žudė suaugusiuosius ir išvarė moteris bei vaikus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "132269-133034; hash=84b728bbf317af37ea2ce60edb70f3b2abbb829657316ada1b1d3bf702ecc8bf; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Plockas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Plockas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Plockas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-020
+    - c-161230
 
 <a id="claim-t-177414"></a>
-- t-064
+- t-094
   global_id: t-177414
-  teiginys: 'Lietuvos ir Lenkijos tautų nelaimė paskatino visuomenes ir karalių bandyti gelbėti ATR valstybę.'
+  teiginys: "Lietuvos ir Lenkijos tautų nelaimė paskatino visuomenes ir karalių bandyti gelbėti ATR valstybę."
+  temporaliniai_duomenys: "įvykio data: 1791 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta pašalinant neaiškią pradžią ir išlaikant citatos prasmę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "580103-580885; hash=a3e1772be489efa10846e3c7ec95bb1b38e3379587c0b526445d2e50789e5410; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Biržai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Biržai: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Biržai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-048
+    - c-161277
 
 <a id="claim-t-177415"></a>
-- t-065
+- t-071
   global_id: t-177415
-  teiginys: 'Pagal naują tvarką į valstybinį žemės fondą pateko ir repatrijavusiųjų į Lenkiją žemė.'
+  teiginys: "Pagal naują tvarką į valstybinį žemės fondą pateko ir repatrijavusiųjų į Lenkiją žemė."
+  temporaliniai_duomenys: "įvykio data: 1948 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys jau tinkamas, bet perrašytas kaip glaustas faktas apie Lenkiją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "543795-544093; hash=0add4fa4cece069e3f00f9aae0f0564f693864369f41482de51f0f75482b8564; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-041
+    - c-161265
 
 <a id="claim-t-177418"></a>
-- t-066
+- t-017
   global_id: t-177418
-  teiginys: '1385 m. Krėvos sutartis su Lenkija leido Lietuvos didžiajam kunigaikščiui Jogailai tapti Lenkijos karaliumi.'
+  teiginys: "1385 m. Krėvos sutartis su Lenkija leido Lietuvos didžiajam kunigaikščiui Jogailai tapti Lenkijos karaliumi."
+  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) buvo valdovas Lenkija (0.92); Jogaila (kunigaikštis, XIV–XV a.) buvo valdovas Lietuva (0.90)"
+  temporaliniai_duomenys: "sutarties data: 1385 m.; sutarties data: 1387 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas kontekstinis žodis „Išeitis“ ir aiškiau suformuluotas faktas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "69543-69839; hash=907780fdbb05c82e6d554d08a42bf0cac96a420ab2315d77335a2d57dc5b1314; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_valdovas -> Lenkija: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Jogaila tapo Lenkijos karaliumi."
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-025
+    - c-161241
 
 <a id="claim-t-177419"></a>
-- t-067
+- t-077
   global_id: t-177419
-  teiginys: 'Po vestuvių Vilniuje karalius dėl karalystės reikalų greitai išskubėjo į Lenkiją.'
+  teiginys: "Po vestuvių Vilniuje karalius dėl karalystės reikalų greitai išskubėjo į Lenkiją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "251536-251934; hash=64c632e0b4323c8ac5381f007e0d4979acae6664f9e44e9c3ca8be70b8755c22; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Mazovija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Mazovija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Mazovija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-017
+    - c-161226
 
 <a id="claim-t-177420"></a>
-- t-068
+- t-084
   global_id: t-177420
-  teiginys: 'Lenkijoje Zamoiskis neleido Maksimilijonui įžengti į Krokuvą ir taip sudarė sąlygas karūnuoti Zigmantą.'
+  teiginys: "Lenkijoje Zamoiskis neleido Maksimilijonui įžengti į Krokuvą ir taip sudarė sąlygas karūnuoti Zigmantą."
+  temporaliniai_duomenys: "įvykio data: 1994 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "606630-606991; hash=6b36c4ff5ef4ca9683b972a2cbd2dda0284c82635dfac51e52a6c9184d03a8c7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=53"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-46573
 
 <a id="claim-t-177421"></a>
-- t-069
+- t-030
   global_id: t-177421
-  teiginys: 'Kai 1815 m. Vienos kongreso nutarimu iš didesnės dalies Varšuvos kunigaikštystės žemių, įskaitant Lietuvos Užnemunę, buvo sudaryta Lenkijos karalystė, vadinamoji Kongresinė Lenkija, jos sostas paveldėjimo teise perduotas Rusijos valdančiajai dinastijai.'
+  teiginys: "Kai 1815 m. Vienos kongreso nutarimu iš didesnės dalies Varšuvos kunigaikštystės žemių, įskaitant Lietuvos Užnemunę, buvo sudaryta Lenkijos karalystė, vadinamoji Kongresinė Lenkija, jos sostas paveldėjimo teise perduotas Rusijos valdančiajai dinastijai."
+  temporaliniai_duomenys: "įvykio data: 1815 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir tiksliai nusako Kongresinės Lenkijos sudarymą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "193037-193397; hash=568bd16581bac2c6bf0def9a75a2a24f68f17a0179c1bcd0e528726b3c715e1f; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Rusija: mention_match, place, gap=90"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Rusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-012
+    - c-161220
 
 <a id="claim-t-183044"></a>
-- t-070
+- t-089
   global_id: t-183044
-  teiginys: 'Zigmantui likus be kito sąjungininko, Lenkija padėjo jam net rengiant sąmokslą prieš Švitrigailą.'
+  teiginys: "Zigmantui likus be kito sąjungininko, Lenkija padėjo jam net rengiant sąmokslą prieš Švitrigailą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "355802-356241; hash=d9a36524ea27cb51f186a0f8e5e4e28eaabb85232ce233c34353ca20c056a008; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-058
+    - c-166436
+
+<a id="claim-t-183613"></a>
+- t-104
+  global_id: t-183613
+  teiginys: "Kai 1815 m. Vienos kongreso nutarimu iš didesnės dalies Varšuvos kunigaikštystės žemių, įskaitant Lietuvos Užnemunę, buvo sudaryta Lenkijos karalystė, vadinamoji Kongresinė Lenkija, jos sostas paveldėjimo teise perduotas Rusijos valdančiajai dinastijai."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1815 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "192733-193297; hash=e38d5a70ed071d6292c49cb9a536a66d01f47e52312481f06870635f38a26436; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Rusija: mention_match, place, gap=90"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Rusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-167005
+
+<a id="claim-t-183614"></a>
+- t-105
+  global_id: t-183614
+  teiginys: "1862 m. Kongresinėje Lenkijoje ir Lietuvoje susikūrė „raudonųjų“ organizacijos sukilimui rengti."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1862 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir tiksliai nusako „raudonųjų“ organizacijų susikūrimą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "201016-201261; hash=b91c1f8899587d807e6f1cd16ceafee93887ffa9daec5e1f8059976f2de3ffcb; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-167006
+
+<a id="claim-t-177395"></a>
+- t-056
+  global_id: t-177395
+  teiginys: "1570 m. sąraše nurodyta, kad už talerį Lenkijoje mokėta po 30 grašių, o Lietuvoje - po 25 lietuviškus grašius."
+  temporaliniai_duomenys: "įvykio data: 1570 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis tekstas turi OCR ir antraštės triukšmo, bet citata pagrindžia aiškų faktą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "824882-825391; hash=4d90a70b8098be90c075addc4a8d9a660b2fb2dbd19edeb76dc5653ac639af42; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  pagrindžia:
+    - c-167242
 
 <a id="claim-t-185002"></a>
-- t-074
+- t-109
   global_id: t-185002
-  teiginys: 'Žiniai apie Dorpato apiplėšimą pasiekus Lenkiją, Augustas paragino savo legatus tartis su kunigaikščiu Ivanu dėl Livonijos.'
+  teiginys: "Žiniai apie Dorpato apiplėšimą pasiekus Lenkiją, Augustas paragino savo legatus tartis su kunigaikščiu Ivanu dėl Livonijos."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "1247645-1248095; hash=ab84b3cc22ce40eb7a4e52eac93e06f6ec03074713b7dd32fc216957f2ce547c; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-062
+    - c-168363
 
 <a id="claim-t-188735"></a>
 - t-075
   global_id: t-188735
-  teiginys: 'Narbutas Lenkijos karalienės Jadvygos santuokai su Vladislovu priskyrė stebuklingą Lietuvos atvertimo poveikį.'
+  teiginys: "Narbutas Lenkijos karalienės Jadvygos santuokai su Vladislovu priskyrė stebuklingą Lietuvos atvertimo poveikį."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "704054-704726; hash=2a9bac7b75e3f46fd4b125ce692a66ee575142a7c9f32a0ec66bc4174c793bc5; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=74"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-063
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171624
+
 <a id="claim-t-188736"></a>
 - t-076
   global_id: t-188736
-  teiginys: 'Narbutas spėjo, kad kai kurie lietuviški herbai į Lenkijos herbynus pateko atsikėlus jais besinaudojusioms šeimoms.'
+  teiginys: "Narbutas spėjo, kad kai kurie lietuviški herbai į Lenkijos herbynus pateko atsikėlus jais besinaudojusioms šeimoms."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "722076-722503; hash=6644a62598cb7e4ebcb041c04258e1e69112d81ad0e66b6f226e688d1e9f7292; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkijos bajorai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkijos bajorai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Lenkijos bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-064
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171625
+
+<a id="claim-t-192687"></a>
+- t-110
+  global_id: t-192687
+  teiginys: "Narbutas nurodo, kad pavienių gintaro gabalų randama Lietuvoje, Lenkijoje, Silezijoje, Čekijoje ir kitose vietose."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "267076-267633; hash=19df40dae9e110730be2564c6d9c58ad694891eb0cd1f5a86c0f25e7cc4c4935; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Čekija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Čekija: mention_match, place, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Čekija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175457
+
+<a id="claim-t-193201"></a>
+- t-111
+  global_id: t-193201
+  teiginys: "Aisčiai vengte vengdavo misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikščiais aisčiai nuolat kovojo."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "95823-96265; hash=ee64887a980d5c4975a95676cb50ae2f4ea89cbda1b2c9d8d61e85bf73441b04; match=exact"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175945
+
+<a id="claim-t-193202"></a>
+- t-112
+  global_id: t-193202
+  teiginys: "Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pietų Lietuvos prekių ėmė plaukti per Lenkiją, — kai su šia prasidėjo Lietuvos santykiai."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "347717-348082; hash=6174e85d2d8faae9121a9025bf1f85ccefb453a43d1cb8d57d0bd7b7e2010b47; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-175946
+
+<a id="claim-t-193203"></a>
+- t-113
+  global_id: t-193203
+  teiginys: "Liublino seimas seimų vieta paskyrė Varšuvą arba kurį nors kitą Lenkijos miestą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "556632-556829; hash=e8b36dae82006b5f267fdfa3ecfbd6619be688520114ad12c501fb42bb52d0e3; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-175947
+
+<a id="claim-t-193204"></a>
+- t-114
+  global_id: t-193204
+  teiginys: "Kitaip tuo tarpu buvo Lenkijoje."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "566667-566985; hash=75818b274d87c8434553bfde6053ddc360b58016375519fc490840490c04d57d; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-175948
+
+<a id="claim-t-193419"></a>
+- t-115
+  global_id: t-193419
+  teiginys: "Valdovas, sugrįžęs iš Prūsijos, gavo ži nią apie vidaus nesantarvę Lenkijoje ir ryžosi ten žy giuoti."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "313416-314052; hash=f1cbc3bdbd820f663bc21d78dc9ea17b5bd960d6548fe5bcf996ce7cdcabc02e; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176141
+
+<a id="claim-t-193420"></a>
+- t-116
+  global_id: t-193420
+  teiginys: "Kai karalius išvyko į Lenkiją, neilgai vis dėlto jie pajėgė tramdyti širdyje tūnantį įniršį: neilgai trukus galingai prasiveržė į vie šumą tai, ką iki šiol slėpė."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "576061-576445; hash=7653bae7d1829796dabfa2cf8c63021ba6c576e88219bee72ec48f44266eb359; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176142
+
+<a id="claim-t-193644"></a>
+- t-117
+  global_id: t-193644
+  teiginys: "Lietuvos pagrindinėmis užsienio prekybos partnerėmis tapo Vokietija (pirmoje vietoje) ir Lenkija (antroje vietoje)."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "514448-514749; hash=6e07a7aaa2c563dc5df13b67b2f8efc27722cba46bde5100b5e57cc7d09e6a5a; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176314
+
+<a id="claim-t-193772"></a>
+- t-118
+  global_id: t-193772
+  teiginys: "Gediminas pradėjo derinti karo veiksmus prieš kryžiuočius su Lenkija."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "52334-52697; hash=39418e4b0c73fc1064282e2c0b6b7f674d6db73ce0cd8d9db65b0def202498ec; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176426
+
+<a id="claim-t-193773"></a>
+- t-119
+  global_id: t-193773
+  teiginys: "Lenkijos teritorija 1772 m. Rusijai buvo naudingiausia išlaikyti esamą padėtį (kon- | ep sekasi ie troliuoti ATR jos formaliai nepanaikinant), tačiau spaudžiant 2 Prūsijai sutiko su pirmu ATR padalijimu."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "581133-581419; hash=f1752b6071ef44804a14f053141f7ccd82b74feace6112eed42c06ff0e964e57; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176427
+
+<a id="claim-t-194029"></a>
+- t-120
+  global_id: t-194029
+  teiginys: "Paskui, sekančių metų vasarą bei rudenį4 I, atėjo Moldavijos vaivada Steponas, o su juo — turkų sultono didysis pa ša, vardu Malkočas 4 2 , vedinas daugeliu žmonių, ir ka riavo po Lenkijos žemę, Kamenecu pradedant, ir ligi Lvovo, ir net ligi Tamovo, už."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "265487-265924; hash=e3e51e4e5dfa608bf7040a6998a7a471dd6513759a392b0521c2b6eb48f43992; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-176651
 - susijęs iš Didžioji Lenkija: Po paliaubų sutarties Vytautas nuvyko į Lietuvą, o Jogaila išvyko į Didžiąją Lenkiją.
 - susijęs iš Vengrija: Totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną bei Henriką ir nuniokojo tas šalis.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-183536|Jogaila (kunigaikštis, XIV–XV a.)]]: Pagal 1385 m. Krėvos sutartį su Lenkija Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi.
@@ -557,6 +1643,7 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš E. Galvanausko nota dėl Lenkijos rytinių sienų nustatymo: E. Galvanausko nota prisidėjo prie 1923 m. kovo 15 d. sprendimo Vilnių palikti Lenkijai.
 - susijęs iš Opatovas: Opatovas yra Lenkijos Kielcų vaivadijos miestas, esantis apie 30 km į vakarus nuo Zavichosto ir Vislos.
 - susijęs iš Opatovas: Opatovas lokalizuojamas apie 30 km į vakarus nuo Zavichosto ir Vislos ir daugiau kaip 130 km į šiaurės rytus nuo Krokuvos.
+- susijęs iš [[objektai/asmenys/Jaroslavas.md#claim-t-190885|Jaroslavas]]: Narbuto pasakojimu, didysis kunigaikštis Jaroslavas 1031 m. iš Lenkijos išsivedė belaisvių ir arčiau Kijevo steigė jų kolonijas.
 - susijęs iš [[objektai/asmenys/Stasys Raštikis.md#claim-t-101707|Stasys Raštikis]]: 1939 m. balandį Stasys Raštikis dalyvavo Adolfo Hitlerio 50-mečio šventime, o gegužę oficialiai lankėsi Lenkijoje.
 - susijęs iš [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“.md#claim-t-183493|„jogailaičių Europa“ „krikščionybės forpostas“]]: Jogailaičių dinastija Lenkijos ir Lietuvos sostuose valdė iki 1572 m., o XV a. pabaigoje–XVI a. pradžioje užėmė ir Čekijos bei Vengrijos sostus.
 - susijęs iš Divilino paliaubų sutartis (1618 m.): Divilino paliaubų sutartimi Lietuvai buvo patvirtinta 1611 m. atgauta Smolensko sritis, o Lenkijai priskirti Černigovas ir Naugardas Sieverskas.
@@ -588,7 +1675,6 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš [[objektai/ivykiai/Vytauto misija pas Zigmantą ir nesėkmingos derybos su Vaclovu (1410 m.).md#claim-t-185658|Vytauto misija pas Zigmantą ir nesėkmingos derybos su Vaclovu (1410 m.)]]: Vytauto pastangos išsaugoti su Zigmantu ir Vaclovu sudarytą susitarimą nuėjo niekais.
 - susijęs iš [[objektai/paprociai/Politinių susitarimų tvirtinimas valstybiniais aktais, parašais ir antspaudais.md#claim-t-185882|Politinių susitarimų tvirtinimas valstybiniais aktais, parašais ir antspaudais]]: Žygimanto patvirtinto politinio susitarimo sąlygos buvo įtrauktos į valstybinius aktus ir patvirtintos parašais bei antspaudais.
 - susijęs iš Ambasadorių konferencijos sprendimas dėl Vilniaus ir sienų (1923 m. kovo 15 d.): Ambasadorių konferencija suprato Lietuvos notą kaip pageidavimą Vilnių priskirti Lenkijai ir patvirtino Lenkijos sieną su Rusija.
-- susijęs iš Prūsijos žemės kronika: 1292 m. Pukuveras pasiuntė savo sūnų Vytenį su didele kariuomene į Lenkijos Bresto žemę.
 - susijęs iš Rygos sutartis (1921 m.): 1923 m. Ambasadorių konferencija patvirtino Lenkijos sieną su Rusija pagal Rygos taikos sutartį ir paliko Vilnių Lenkijos pusėje.
 - susijęs iš Marijenburgas: Pagal 1466 m. Torno taiką Lenkijai atiteko Elbingas, Marijenburgas ir visa Varmijos vyskupystė.
 - susijęs iš Mažlenkiai: Liublino unijos metu Mažlenkiai buvo viena iš dviejų Lenkijos provincijų, rengusių atskirus generalinius seimelius.
@@ -619,6 +1705,7 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš [[objektai/asmenys/Ona Jogailaitė.md#claim-t-82639|Ona Jogailaitė]]: Karalaitė Ona Jogailaitė Lenkijoje turėjo likti su jai skirtomis valdomis, žemėmis ir pinigų sumomis.
 - susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176825|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis su aštuoniais šimtais vyrų įsibrovė į Lenkijos žemę ir per Sekmines užpuolė Lenčicos dvasininkus.
 - susijęs iš [[objektai/grupes/Lenkijos kariuomenė.md#claim-t-78205|Lenkijos kariuomenė]]: Pagal Juzefą Pilsudskį Vilnių užėmė ne Lenkijos kariuomenė, o Lucjano Żeligowskio vadovaujami Vilnijos daliniai.
+- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-192476|Totoriai]]: Narbutas rašo, kad totorių puldinėjimai tuo metu palietė Lenkiją ir Polesę nuo Bugo.
 - susijęs iš [[objektai/ivykiai/Rusijos finansų krizės poveikis Lietuvos ekonomikai (1998–1999 m.).md#claim-t-183271|Rusijos finansų krizės poveikis Lietuvos ekonomikai (1998–1999 m.)]]: Rusijos finansų krizė privertė Lietuvos eksportą persiorientuoti iš nestabilių Rytų rinkų į reiklesnes Vakarų rinkas.
 - susijęs iš Ambasadorių konferencijos sprendimas dėl Vilniaus ir sienų (1923 m. kovo 15 d.): Ambasadorių konferencija patvirtino Lenkijos sieną su Rusija pagal 1921 m. Rygos taikos sutartį ir naują Lietuvos bei Lenkijos demarkacijos liniją.
 - susijęs iš Ambasadorių konferencijos sprendimas dėl Vilniaus ir sienų (1923 m. kovo 15 d.): Ambasadorių konferencijos 1923 m. kovo 15 d. sprendimu istorinė Lietuvos sostinė Vilnius buvo palikta Lenkijai.
@@ -632,6 +1719,7 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77971|A. Smetona]]: 1936 m. kovą Kaune pasakyta A. Smetonos kalba užvėrė duris kompromisui su Lenkija.
 - susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-77996|A. Voldemaras]]: A. Voldemaras Vilniaus klausimo sprendimą siejo su Maskva ir Berlynu, todėl ieškojo SSRS paramos prieš Lenkiją.
 - susijęs iš [[objektai/asmenys/Adomas Jurgis Čartoriskis.md#claim-t-18759|Adomas Jurgis Čartoriskis]]: Adomas Jurgis Čartoriskis savo globojamą apygardą laikė plano atkurti Lenkijos arba Lenkijos ir Lietuvos valstybę parengiamąja grandimi.
+- susijęs iš [[objektai/asmenys/Adomas Stanislovas Naruševičius.md#claim-t-191114|Adomas Stanislovas Naruševičius]]: Naruševičius savo „Lenkijos istorijos“ pirmo tomo 7 puslapyje nurodė, kad agatirų kolonijų būta dešiniojoje Marus upės pakrantėje.
 - susijęs iš [[objektai/asmenys/Agota.md#claim-t-56965|Agota (kunigaikščio žmona, XIII a.)]]: Agotos valia Ordino broliai pasitelkė daug Lenkijos vyrų ir stojo į kovą su Prūsijos kariuomene.
 - susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-97303|Aldona Gediminaitė]]: Aldona Gediminaitė per krikštą buvo pavadinta Ona ir ištekinta už Lenkijos karaliaus Kazimiero Didžiojo.
 - susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-97305|Aldona Gediminaitė]]: Gedimino duktė Aldona 1325 m. ištekėjo už Vladislovo I Lokietkos sūnaus Kazimiero, būsimojo Lenkijos karaliaus Kazimiero III Didžiojo.
@@ -678,6 +1766,7 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176433|Jadvyga Jogailienė]]: 1386 m. vasario 18 d. Jogaila susituokė su Jadvyga, o kovo 4 d. buvo karūnuotas Lenkijos karaliumi.
 - susijęs iš [[objektai/asmenys/Jadvyga.md#claim-t-176410|Jadvyga]]: Liudviko Anjou duktė Jadvyga 1384 m. spalio 15 d. Krokuvoje buvo vainikuota Lenkijos „karaliumi“.
 - susijęs iš [[objektai/asmenys/Jadvyga.md#claim-t-176411|Jadvyga]]: Popiežius Grigalius X 1272 m. kanonizavo šventą Jadvygą, Lenkijos kunigaikštienę.
+- susijęs iš [[objektai/asmenys/Jaroslavas.md#claim-t-190885|Jaroslavas]]: Narbuto pasakojimu, didysis kunigaikštis Jaroslavas 1031 m. iš Lenkijos išsivedė belaisvių ir arčiau Kijevo steigė jų kolonijas.
 - susijęs iš [[objektai/asmenys/Jazbutas.md#claim-t-60148|Jazbutas]]: Lietuvis Jazbutas su penkiais šimtais rinktinių vyrų įsibrovė į Lenkiją, išsigabeno grobį ir įspėjo brolius prieš savo žygį.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-182809|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogailos laikais Lietuvos krikštas ir sąjunga su Lenkija neleido Vilniaus miestiečiams įgyti daugiau laisvių.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-182811|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogaila siekė Lenkijos sosto ir ketino sukurti naują galingą valstybę Šiaurės Europoje.
@@ -726,6 +1815,7 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63909|Martynas iš Golino]]: Rudino brolių įsakymu Martynas iš Golino su 17 kovos draugų leidosi vytis 20 Lenkijoje plėšikavusių prūsų.
 - susijęs iš [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas).md#claim-t-34813|Mikalojus (Gniezno arkivyskupas)]]: Gniezno arkivyskupas Mikalojus 1415 m. buvo į Konstanciją išsiųstos Lietuvos ir Lenkijos vyskupų delegacijos narys.
 - susijęs iš [[objektai/asmenys/Mikalojus Michalovskis.md#claim-t-87918|Mikalojus Michalovskis]]: Sandomiro vaivada Mikalojus Michalovskis, karaliaus ir Lenkijos senato siųstas į Vilnių, grasino Vytautui karu, jei šis neatsisakys savo sumanymo.
+- susijęs iš [[objektai/asmenys/Mykolas Lietuvis.md#claim-t-191962|Mykolas Lietuvis]]: Mykolas Lietuvis, Narbuto apibūdintas kaip Lenkijos mokslo amžiaus autorius, stengėsi įrodyti lietuvių ir lotynų kalbų vienodumą.
 - susijęs iš [[objektai/asmenys/Odoničius.md#claim-t-60396|Odoničius]]: Gnezno kunigaikštis Odoničius su kitais Lenkijos ir Pomeranijos kilmingaisiais atvyko į Prūsiją statyti Marienverderio miesto.
 - susijęs iš [[objektai/asmenys/Ona Jogailaitė.md#claim-t-82639|Ona Jogailaitė]]: Karalaitė Ona Jogailaitė Lenkijoje turėjo likti su jai skirtomis valdomis, žemėmis ir pinigų sumomis.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173211|Petras Goštautas]]: Petras Goštautas palaidojo nukankintus vienuolius, pakvietė naujų pranciškonų iš Lenkijos ir Smėlynėje pastatydino bažnyčią bei vienuolyną.
@@ -738,6 +1828,7 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš [[objektai/asmenys/Povilas Sapiega.md#claim-t-79154|Povilas Sapiega]]: Povilo Sapiegos vadovaujama Lietuvos kariuomenė su Lenkijos pajėgų pagalba 1661 m. išvadavo Vilnių, Kauną ir Gardiną.
 - susijęs iš [[objektai/asmenys/Pukuveras (Lietuvos karalius).md#claim-t-39631|Pukuveras (Lietuvos karalius)]]: Pukuveras pasiuntė savo sūnų Vytenį su didele kariuomene į Bresto žemę Lenkijoje.
 - susijęs iš [[objektai/asmenys/Pukuveras.md#claim-t-60195|Pukuveras (Lietuvos karalius, XIII a.)]]: 1292 m. Lietuvos karalius Pukuveras pasiuntė sūnų Vytenį su didele kariuomene į Lenkijos Bresto žemę.
+- susijęs iš [[objektai/asmenys/Reinchardas.md#claim-t-191458|Reinchardas]]: Narbutas nurodo, kad Reinchardas, remdamasis Foigtu, Stavaniją laikė buvusia į pietus nuo Galindos ir Sūduvos bei priklausiusia Lenkijai.
 - susijęs iš [[objektai/asmenys/Romanas Dmovskis.md#claim-t-19207|Romanas Dmovskis]]: Romano Dmovskio ir J. Pilsudskio šalininkai siekė išlaikyti Lietuvą Lenkijos sudėtyje.
 - susijęs iš [[objektai/asmenys/Russdorfas.md#claim-t-35271|Russdorfas]]: Russdorfas buvo numatytos sąjungos su Vytautu ir Zigmantu dalyvis; ši sąjunga turėjo būti nukreipta prieš Lenkiją.
 - susijęs iš [[objektai/asmenys/Sirputis (Traidenio brolis).md#claim-t-79156|Sirputis (Traidenio brolis)]]: Sirputis, ketvirtasis Traidenio brolis, perėmė Rytų krikščionybę ir Lietuvos valdovo pavedimu veikė prieš Lenkiją.
@@ -790,12 +1881,14 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš [[objektai/asmenys/Šymonas Askenazis.md#claim-t-26469|Šymonas Askenazis]]: Šymonas Askenazis buvo vyriausiasis Lenkijos derybininkas ir ketino telktis į federacijos konceptą, apeidamas Vilniaus temą.
 - susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-183582|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę, Voluinės, Kijevo ir Podolės vaivadijas.
 - susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173319|Žygimantas Senasis]]: Žygimantas Senasis dokumente vadintas Lenkijos karaliumi ir didžiuoju Lietuvos, Rusios, Prūsijos, Mazovijos bei Žemaitijos kunigaikščiu.
+- susijęs iš [[objektai/autoriai/Adomas Stanislovas Naruševičius.md#claim-t-191874|Adomas Stanislovas Naruševičius]]: Naruševičius Lenkijos istorijos I tomo 7 puslapyje nurodė, kad agatirų kolonijų būta dešiniojoje Marus upės pakrantėje.
 - susijęs iš [[objektai/autoriai/Bandkė.md#claim-t-190413|Bandkė]]: Narbutas rašė, kad Bandkė Lenkijos istorijoje lietuvių Gurką tapatino su slavų Gurovidu, bet Narbutas šį aiškinimą atmetė.
 - susijęs iš [[objektai/autoriai/Davies N.md#claim-t-17710|Davies N]]: N. Daviesas parašė veikalo „God’s Playground: A History of Poland“ pirmąjį tomą apie Lenkijos istorijos ištakas iki 1795 m.
 - susijęs iš [[objektai/autoriai/E. Thunert.md#claim-t-30599|E. Thunert]]: E. Thunert 1886 m. paskelbė darbą apie 1410 m. Lenkijos ir Vokiečių ordino karą iki 1411 m. vasario.
 - susijęs iš [[objektai/autoriai/G. F. Karpov.md#claim-t-29475|G. F. Karpov]]: G. F. Karpovas 1892 m. išleido SbRIO 35 tomą apie Lietuvos ir Lenkijos diplomatinius santykius su Maskva.
 - susijęs iš [[objektai/autoriai/Girolamo Lippomano.md#claim-t-40618|Girolamo Lippomano]]: Girolamo Lippomano 1575 m. aprašė Lenkijos ir Lietuvos kariuomenių stovyklos įsirengimo būdą.
 - susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-172868|J. Dlugošas]]: Petro Dusburgiečio leidinio įvade J. Dlugošas pristatomas kaip autorius, savo Lenkijos istorijos „Analuose, arba kronikose“ panaudojęs Mikalojaus iš Jerošino vertimą.
+- susijęs iš [[objektai/autoriai/J. Voigtas Foigtas.md#claim-t-191553|J. Voigtas Foigtas]]: Narbutas pašaipiai perteikė Reinchardo, paremto Foigtu, teiginį, kad Stavanija buvo į pietus nuo Galindos ir Sūduvos ir priklausė Lenkijai.
 - susijęs iš [[objektai/autoriai/Kochanovskis.md#claim-t-184239|Kochanovskis]]: Kochanovskis Lenkijos ir Lietuvos unijos sumanymą vadino genialia mintimi, pralenkusia amžius ir kartas.
 - susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179526|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: Wł. Semkowiczius išleido Vilniaus vyskupijos šaltinių tomą ir Lenkijos bei Lietuvos unijos aktus.
 - susijęs iš [[objektai/autoriai/M. Kromeris.md#claim-t-186288|M. Kromeris]]: 1573 m. M. Kromeris lotynišką Lenkijos aprašymą nusiuntė Vloclaveko vyskupui S. Karnkovskiui.
@@ -805,6 +1898,7 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš [[objektai/autoriai/Springmann, K.md#claim-t-54134|Springmann, K]]: K. Springmann 1923 m. Freiburge parengė disertaciją apie Lenkiją ir Vokiečių ordiną Konstancos susirinkimo metu.
 - susijęs iš [[objektai/autoriai/Springmann, K.md#claim-t-54135|Springmann, K]]: K. Springmannas 1923 m. Freiburge parengė disertaciją apie Lenkiją ir Vokiečių ordiną Konstancos susirinkimo laikais.
 - susijęs iš [[objektai/autoriai/Thunert, E.md#claim-t-31016|Thunert, E]]: E. Thunertas 1886 m. Dancige paskelbė darbą apie 1410-1411 m. Lenkijos ir Vokiečių ordino karą.
+- susijęs iš [[objektai/autoriai/Vincentas Kadlubekas.md#claim-t-190817|Vincentas Kadlubekas]]: Teodoro Narbuto cituotas Vincentas Kadlubekas aprašė Maslavo karą su Lenkijos karaliumi Kazimieru, kurio kariuomenėje kovojo jotvingiai, mozūrai ir prūsai.
 - susijęs iš [[objektai/autoriai/W. Maciejewska.md#claim-t-31067|W. Maciejewska]]: W. Maciejewska parašė darbą apie Lenkijos karalienę Jadvygą.
 - susijęs iš [[objektai/autoriai/Wł. Semkowiczius.md#claim-t-29646|Wł. Semkowiczius]]: Wł. Semkowiczius su J. Fijałeku išleido Vilniaus vyskupijos šaltinių tomą, o su St. Kutrzeba - Lenkijos ir Lietuvos unijos aktus.
 - susijęs iš [[objektai/daiktai/Karūna.md#claim-t-186813|Karūna]]: Vytautas laiške Zigmantui rašė, kad Zigmantas galėsiąs siųsti jam karūną tiesiog per Lenkiją.
@@ -934,6 +2028,7 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171439|Totoriai]]: Totoriai nuniokojo Vengriją ir Lenkiją.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-183669|Totoriai]]: Lietuva tuo metu turėjo keturis pagrindinius priešus: Prūsijos-Livonijos vokiečių ordiną, Maskvą, totorius ir Lenkiją.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-183905|Totoriai]]: Totoriai nuniokojo Vengriją ir Lenkiją.
+- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-192476|Totoriai]]: Narbutas rašo, kad totorių puldinėjimai tuo metu palietė Lenkiją ir Polesę nuo Bugo.
 - susijęs iš [[objektai/grupes/Vazų dinastija.md#claim-t-183192|Vazų dinastija]]: Valdant švedų kilmės Vazų dinastijai, Lietuvą ir Lenkiją 1654–1667 m. ištiko „tvanas“ – Rusijos ir Švedijos invazija.
 - susijęs iš [[objektai/grupes/Vazų dinastija.md#claim-t-75014|Vazų dinastija]]: Valdant švedų kilmės Vazų dinastijai, Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija 1654–1667 m.
 - susijęs iš [[objektai/grupes/Vengrai.md#claim-t-184584|Vengrai]]: Vengrai nusigręžė nuo jaunikaičio, todėl jis nieko nepešęs turėjo grįžti į Lenkiją.
@@ -1018,6 +2113,7 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš [[objektai/ivykiai/Lietuvos skundas prieš Lenkiją Tautų Sąjungai ir Ženevos „Karas ar taika “ susidūrimas (1927 m.).md#claim-t-101531|Lietuvos skundas prieš Lenkiją Tautų Sąjungai ir Ženevos „Karas ar taika “ susidūrimas (1927 m.)]]: Lenkijai ėmusis sankcijų prieš Vilniaus krašto lietuvių organizacijas, 1927 m. spalio 15 d. Lietuva apskundė Lenkiją Tautų Sąjungos Tarybai.
 - susijęs iš [[objektai/ivykiai/Lietuvos skundas prieš Lenkiją Tautų Sąjungai ir Ženevos „Karas ar taika “ susidūrimas (1927 m.).md#claim-t-101532|Lietuvos skundas prieš Lenkiją Tautų Sąjungai ir Ženevos „Karas ar taika “ susidūrimas (1927 m.)]]: Tautų Sąjungos Taryba ribą tarp Lietuvos ir Lenkijos pavadino administracine linija, bet nepripažino jos valstybine siena.
 - susijęs iš [[objektai/ivykiai/Lietuvos skundas prieš Lenkiją Tautų Sąjungai ir Ženevos „Karas ar taika “ susidūrimas (1927 m.).md#claim-t-101533|Lietuvos skundas prieš Lenkiją Tautų Sąjungai ir Ženevos „Karas ar taika “ susidūrimas (1927 m.)]]: Ženevoje Tautų Sąjungos Taryba rezoliucija patvirtino, kad karo padėties tarp Lietuvos ir Lenkijos nėra.
+- susijęs iš [[objektai/ivykiai/Lietuvos susijungimas su Lenkija Narbuto pasakojime.md#claim-t-191067|Lietuvos susijungimas su Lenkija Narbuto pasakojime]]: Narbuto vertinimu, susijungusi su Lenkija Lietuva atsisakė nepriklausomybės, neteko išorinės gynybos ir tapo niokojančių karų grobiu.
 - susijęs iš [[objektai/ivykiai/Lietuvos žydų sunaikinimas - Holokaustas.md#claim-t-75231|Lietuvos žydų sunaikinimas - Holokaustas]]: 1943 m. naciai naikino Lietuvos miestų getus ir vežė Lietuvos žydus į koncentracijos stovyklas Estijoje, Latvijoje ir Lenkijoje.
 - susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-169842|Liublino unija (1569 m.)]]: 1569 m. sudaryta Liublino unija sukūrė Abiejų Tautų Respubliką kaip Lietuvos ir Lenkijos suartėjimo nuo Jogailos ir Jadvygos vedybų padarinį.
 - susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-169844|Liublino unija (1569 m.)]]: Po Liublino unijos Steponui Batorui tapus Lenkijos ir Lietuvos valdovu, Livonijos kare pasiektos lemiamos pergalės prieš Maskvą.
@@ -1112,6 +2208,7 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš 1401 m. Vilniaus aktas dėl Lietuvos grįžimo Jogailos valdžion: 1401 m. Vilniaus akte Lietuvos ir Rusios didikai prisiekė ištikimybę Jogailai ir pagalbą prieš bendrą karaliaus bei Lenkijos priešą.
 - susijęs iš 1401 m. Vilniaus aktas dėl Lietuvos grįžimo Jogailos valdžion: 1401 m. aktu Vytautas laidavo, kad po jo mirties Lietuva ir Rusia pereis Jogailos valdžion ir bus prijungta prie Lenkijos.
 - susijęs iš 1411 m. Torunės taika: Taikos sutartis užbaigė Prūsijos karą, o karalius per Lietuvą sugrįžo į Lenkiją.
+- susijęs iš 1436 m. pasienio konvencija tarp Vladislovo Varniečio ir Povilo Rusdorfo: Narbutas rašo, kad 1436 m. Vladislovas Varnietis ir Povilas Rusdorfas sudarė pasienio konvenciją, nustačiusią Lenkijos ir Ordino sieną.
 - susijęs iš 1547 m. Žygimanto Augusto privilegija Martynui Paleckiui dėl stiklo liejyklos: Žygimantas Augustas suteikė Martynui Paleckiui ir jo palikuonims išimtinę teisę supirkti į Vilnių iš Lenkijos vežamą stiklą, išskyrus Venecijos stiklą.
 - susijęs iš 1920 m. liepos 12 d. taika su Sovietų Rusija: 1920 m. rugpjūtį Rusijos bolševikai intensyviai rengė sukilimą Lietuvoje, bet Lenkija juos sumušė.
 - susijęs iš 1920 m. liepos 12 d. taika su Sovietų Rusija: 1920 m. liepos 5–16 d. Spa konferencijoje didžiosios valstybės nurodė Lenkijai grąžinti Vilnių Lietuvai, ir Varšuva su tuo sutiko.
@@ -1228,6 +2325,7 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš Lietuva: Lietuva savo suvažiavimus laikė savitais seimais, kurie skyrėsi nuo Lenkijos provincijų seimelių.
 - susijęs iš Lietuva: Lietuvai ir Lenkijai seimų konstitucijos buvo rašomos atskirai, o vienos valstybės konstitucija kitoje negaliojo be specialaus priėmimo.
 - susijęs iš Lietuva: Pasirašius paliaubų sutartį, Vytautas nuvyko į Lietuvą, o karalius išvyko į Didžiąją Lenkiją.
+- susijęs iš Lietuva: Teodoras Narbutas Lietuvos susijungimą su Lenkija vertino kaip savanorišką nepriklausomybės atsisakymą ir niokojančių karų priežastį.
 - susijęs iš Liublinas: 1386 m. Jogaila nuvyko į Liubliną ir ten buvo išrinktas Lenkijos karaliumi.
 - susijęs iš Liublinas: 1569 m. Liubline lenkai reikalavo visiško Lietuvos ir Lenkijos sujungimo, o lietuviai siekė abiejų valstybių savarankiškumo.
 - susijęs iš Livonija: Didesnio uosto neturėjusi Lietuva buvo labiausiai suinteresuota kova dėl Livonijos, nes Lenkija turėjo Gdansko uostą.
@@ -1270,8 +2368,6 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš Rusija: 1795 m. Rusija, Austrija ir Prūsija galutinai pasidalijo Lenkijos ir Lietuvos valstybę, o didžioji Lietuvos dalis atiteko Rusijai.
 - susijęs iš Rusijos imperija: Rusijos imperijos valdžia 40 metų vykdė rusinimo politiką Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse.
 - susijęs iš Saksonija: Saksonija buvo nuo Lenkijos netolima teritorija.
-- susijęs iš Senieji Trakai: Vytautas įkurdino benediktinus Senuosiuose Trakuose, atkeldamas juos iš Mažosios Lenkijos Tynieco.
-- susijęs iš Senieji Trakai: Vytautas įkurdino benediktinus Senuosiuose Trakuose, atkeldamas juos iš Mažosios Lenkijos Tynieco.
 - susijęs iš Spa: Kai lenkų daliniai, spaudžiami bolševikų, ėmė trauktis, konferencijoje Spa 1920 m. liepos 5–16 d. didžiosios valstybės nurodė Lenkijai grąžinti Vilnių Lietuvai ir Varšuva sutiko.
 - susijęs iš Sūduva: Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą.
 - susijęs iš Tamovas: Tamovas kronikoje žymi tolimiausią Stepono ir Malkočo karo žygio Lenkijos žemėje ribą prie Krokuvos.
@@ -1312,7 +2408,10 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš [[objektai/zodynas/Personalinė unija.md#claim-t-182715|Personalinė unija (unija)]]: Personalinės unijos laikotarpiu Lietuvą ir Lenkiją valdė tie patys valdovai, nors valstybės liko atskiros.
 - susijęs iš [[objektai/zodynas/Pilininkas.md#claim-t-55266|Pilininkas]]: Lietuvoje pilininkai valdė miestą panašiai kaip Lenkijoje kaštelionai ir vykdė teisminę priežiūrą kartu su seniūnu.
 - susijęs iš [[objektai/zodynas/Tiesioginis valdymas.md#claim-t-22029|Tiesioginis valdymas]]: Lietuvos valdžiai terminuotai įvedus tiesioginį valdymą Vilniaus ir Šalčininkų rajonuose, santykiai su Lenkija nepablogėjo.
+- susijęs iš [[objektai/zodynas/ab ovo.md#claim-t-192294|ab ovo]]: Narbutas frazę „ab ovo“ sieja su praeities įvykių aiškinimu nuo tautos kilmės iki 1569 m. susijungimo su Lenkija.
+- susijęs iš [[objektai/zodynas/ab ovo.md#claim-t-192296|ab ovo]]: Narbutas „ab ovo“ vartoja kalbėdamas apie pasakojimą nuo tautos kilmės iki 1569 m. susijungimo su Lenkija.
 - susijęs iš [[objektai/zodynas/applicare prišlieti.md#claim-t-22058|applicare prišlieti]]: Jogaila sutartyje pažadėjo įvesti Lietuvoje katalikų tikėjimą, paleisti lenkų belaisvius ir „prišlieti“ Lietuvą prie Lenkijos.
+- susijęs iš [[objektai/zodynas/bevaldystė.md#claim-t-192140|bevaldystė]]: Narbutas aiškina, kad Bevaldystė čia reiškia lenkų valdymo sąmyšį, į kurį Lietuva pateko po susijungimo su Lenkija.
 - susijęs iš [[objektai/zodynas/buferinė valstybė saugumo kordonas cordon sanitaire.md#claim-t-101574|buferinė valstybė saugumo kordonas cordon sanitaire]]: Vakarų šalys, manydamos sukurti cordon sanitaire tarp Rusijos ir Vokietijos, į Lenkijos planus žiūrėjo palankiai, tačiau Lietuva manė juos keliant grėsmę savo sienoms ir atskiram valstybiniam gyvenimui.
 - susijęs iš [[objektai/zodynas/de facto.md#claim-t-75546|de facto]]: 1919 m. Lietuvą de facto pripažino Norvegija, Latvija ir Suomija, o 1920 m. - Prancūzija ir Lenkija.
 - susijęs iš [[objektai/zodynas/dominija.md#claim-t-173016|dominija]]: Vytauto valdytos Lietuvos dominijos, žemės, turtai ir kunigaikštijos turėjo tekti Jogailai, jo įpėdiniams, karūnai ir Lenkijos karalystei.
@@ -1345,12 +2444,16 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš [[objektai/autoriai/A. Vijūkas Kojelavičius.md#claim-t-187925|A. Vijūkas Kojelavičius]]: Amžininko Alberto Vijūko-Kojelavičiaus teigimu, Lenkijos kariuomenė dažnai stodavo į mūšį nepasvėrusi savo jėgų, vedina paniekos priešui.
 - susijęs iš [[objektai/autoriai/A. Vijūkas Kojelavičius.md#claim-t-187930|A. Vijūkas Kojelavičius]]: Albertas Vijūkas-Kojelavičius vertino Lenkijos kariuomenės elgesį kaip dažnai nepasvertą ir vedamą paniekos priešui.
 - susijęs iš Braclavas: Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę ir Voluinės, Kijevo bei Podolės, arba Braclavo, vaivadijas.
+- susijęs iš Senieji Trakai: Vytautas įkurdino benediktinus Senuosiuose Trakuose, atkeldamas juos iš Mažosios Lenkijos Tynieco.
+- susijęs iš [[objektai/zodynas/ab ovo.md#claim-t-192296|ab ovo]]: Narbutas „ab ovo“ vartoja kalbėdamas apie pasakojimą nuo tautos kilmės iki 1569 m. susijungimo su Lenkija.
+- susijęs iš [[objektai/zodynas/bevaldystė.md#claim-t-192140|bevaldystė]]: Narbutas aiškina, kad Bevaldystė čia reiškia lenkų valdymo sąmyšį, į kurį Lietuva pateko po susijungimo su Lenkija.
 - susijęs iš [[objektai/asmenys/A. Hitleris.md#claim-t-75628|A. Hitleris]]: 1939 m. balandį Lietuvos kariuomenės vadas S. Raštikis dalyvavo A. Hitlerio 50-mečio šventime.
 - susijęs iš [[objektai/asmenys/A. N. Trubeckojus.md#claim-t-39979|A. N. Trubeckojus]]: A. N. Trubeckojaus kariuomenė, turėjusi apie 15000 karių, užėmė Mstislavlį ir žygiavo Lietuvos gilumon Minsko link.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77968|A. Smetona]]: Priėmus Lenkijos ultimatumą premjeru tapęs kunigas Vladas Mironas buvo A. Smetonai artimas asmuo.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77973|A. Smetona]]: A. Smetona demokratiją Lietuvoje lygino su vaikams nupirktais per dideliais batais, nes parlamentarizmo tradicija dar nebuvo įsitvirtinusi.
 - susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-77997|A. Voldemaras]]: A. Voldemaras užsienio politiką pakreipė radikalesne kryptimi, pabrėždamas, kad be Vilniaus Lietuva nėra vienas kūnas.
 - susijęs iš [[objektai/asmenys/Adalbertas.md#claim-t-18754|Adalbertas]]: Šv. Adalberto misija Prūsijoje 997 m. baigėsi kankinyste.
+- susijęs iš [[objektai/asmenys/Adomas Bremenietis.md#claim-t-190836|Adomas Bremenietis]]: Narbutas rašo, kad Adomas Bremenietis Sembą siejo su rusais arba Rusia, bet Rusios nepriskyrė Prūsijos provincijoms.
 - susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45928|Adomas Mickevičius (poetas)]]: Adomas Mickevičius buvo vienas didžiųjų Vilniaus romantizmo mokyklos atstovų.
 - susijęs iš [[objektai/asmenys/Agota.md#claim-t-56966|Agota (kunigaikščio žmona, XIII a.)]]: Valdovė Agota po mūšio įsakė surinkti kovos lauke likusius pusgyvius Ordino brolius ir patikėti juos gydytojams.
 - susijęs iš [[objektai/asmenys/Agota.md#claim-t-56967|Agota (kunigaikščio žmona, XIII a.)]]: Agota kartu su Boleslovu, Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordino broliams Kulmo ir Lubavos žemes.
@@ -1431,6 +2534,7 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-184702|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Pasiuntiniai Lietuvoje prašė Gedimino dukters Aldonos rankos Kazimierui, o sutarta giminystė turėjo užtikrinti taiką.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188533|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas, remdamasis Strijkovskiu, mini, kad 1302 m. Gediminas suteikė herbą Krunevičiui.
 - susijęs iš [[objektai/asmenys/Gotardas Ketleris.md#claim-t-87504|Gotardas Ketleris]]: Maskvos ginklų sutriuškintas Gotardas Ketleris patikėjo Žygimantui Augustui save, ordiną ir valdas.
+- susijęs iš [[objektai/asmenys/Gotardas.md#claim-t-191405|Gotardas]]: Mazovijos kunigaikščio Konrado laikais Uchanės grafas Gotardas, Lukošiaus sūnus, kautynėse suėmė septynis jotvingių kunigaikštukus.
 - susijęs iš [[objektai/asmenys/Grigalius IX.md#claim-t-184074|Grigalius IX]]: 1230 m. popiežius Grigalius IX patvirtino susitarimą su Teutonų ordino broliais ir įpareigojo juos kovoti dėl netikėlių užimtų krikščionių žemių.
 - susijęs iš [[objektai/asmenys/H. Dembinskis.md#claim-t-40131|H. Dembinskis]]: Panerių mūšyje H. Dembinskio daliniai turėjo imituoti puolimą per Neries Žaliąjį tiltą, tačiau šio plano įgyvendinti nepavyko.
 - susijęs iš [[objektai/asmenys/Hanulas.md#claim-t-186207|Hanulas]]: 1385 m. Jogailos pasiuntinybėje į Lenkiją Hanulas dalyvavo kaip Vilniaus seniūnas.
@@ -1527,6 +2631,7 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš [[objektai/asmenys/Konradas (Mazovijos kunigaikštis).md#claim-t-59931|Konradas (Mazovijos kunigaikštis)]]: Kunigaikštis Konradas, prūsų įbaugintas, perduodavo jų pasiuntiniams žirgus ir ryškiaspalvius drabužius.
 - susijęs iš [[objektai/asmenys/Konradas (Mazovijos kunigaikštis).md#claim-t-59933|Konradas (Mazovijos kunigaikštis)]]: Konradas, žmonai Agotai ir sūnums pritarus, atidavė Teutonų namų ordino broliams Kulmo ir Lubavos žemes bei būsimas atkariautas žemes.
 - susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93419|Konradas (Mozūrijos kunigaikštis)]]: Mozūrų kunigaikštis Konradas, siekdamas pakrikštyti prūsus, įkurdino vyskupą Kristijoną Kulmo žemės pakraštyje.
+- susijęs iš [[objektai/asmenys/Konradas.md#claim-t-190906|Konradas]]: Narbuto pasakojime Konrado valdymo Mazovijoje metu Gotardas kautynėse suėmė septynis jotvingių kunigaikštukus, išsipirkusius sidabru.
 - susijęs iš [[objektai/asmenys/Konstantinas Kalinauskas.md#claim-t-63836|Konstantinas Kalinauskas]]: Sukilimo vadu Lietuvoje tapo Konstantinas Kalinauskas.
 - susijęs iš [[objektai/asmenys/Konstantinas Kalinauskas.md#claim-t-63837|Konstantinas Kalinauskas]]: 1863 m. pabaigoje Konstantinas Kalinauskas pateko į sukilimo slopintojų rankas ir netrukus buvo viešai pakartas.
 - susijęs iš [[objektai/asmenys/Korčiakas.md#claim-t-87537|Korčiakas]]: Kunigas Korčiakas buvo Aleksandro kapelionas; po Korčiako mirties Aleksandras Šv. Dvasios kleboniją perdavė dominikonams.
@@ -1584,6 +2689,7 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš [[objektai/asmenys/Olafas (pietų Švedijos kunigaikštis).md#claim-t-19181|Olafas (pietų Švedijos kunigaikštis)]]: Pietų Švedijos kunigaikštis Olafas buvo pakrikštytas 1008 m.
 - susijęs iš [[objektai/asmenys/Ona Jogailaitė.md#claim-t-54983|Ona Jogailaitė]]: Karalaitei Onai (Onai Jogailaitei) buvo dovanojami karalienės Barboros apdarai, vežimai, virtuvės rykai ir manta.
 - susijęs iš [[objektai/asmenys/Papakoda.md#claim-t-186245|Papakoda]]: Dėl tarno Papakodos suktybių nebuvo įvykdyta karalienės Bonos paskutinė valia, o jos turtas buvo iššvaistytas.
+- susijęs iš [[objektai/asmenys/Paulius Rusdorfas.md#claim-t-190960|Paulius Rusdorfas]]: Narbutas Paulių Rusdorfą vadino kryžiuočių magistru, 1436 m. su Vladislovu Varniečiu sudariusiu pasienio konvenciją.
 - susijęs iš [[objektai/asmenys/Paulius Rusdorfas.md#claim-t-87453|Paulius Rusdorfas]]: Paulius Rusdorfas kaip kryžiuočių magistras dalyvavo taikos sutartyje su Vytautu ir Mazovijos kunigaikščiais.
 - susijęs iš [[objektai/asmenys/Petras (Krokuvos vaivada).md#claim-t-186155|Petras (Krokuvos vaivada)]]: Petras, Krokuvos vaivada, buvo paskirtas vadovauti puolimui, per kurį plėšiant ir siaubiant smogta Švarnui.
 - susijęs iš [[objektai/asmenys/Petras I Didysis.md#claim-t-184427|Petras I Didysis]]: 1721 m. Petras I Didysis paskelbė Rusiją imperija.
@@ -1601,6 +2707,7 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš [[objektai/asmenys/Romanas Dmovskis.md#claim-t-183563|Romanas Dmovskis]]: Romanas Dmovskis buvo lenkų tautinių demokratų lyderis visų lenkų žemių mastu ir vadovavosi lenkų organinio nacionalizmo doktrina.
 - susijęs iš [[objektai/asmenys/Romanas Sanguška.md#claim-t-188606|Romanas Sanguška]]: Romanas Sanguška kariavo su Rusija ir, Narbuto apibūdinimu, kovojo kruvinus mūšius.
 - susijęs iš [[objektai/asmenys/Rusdorfas.md#claim-t-113963|Rusdorfas]]: Rusdorfas 1435 m. gruodžio 31 d. Bresto taikoje atstovavo Vokiečių-kryžiuočių ordino žemėms Prūsijoje, Livonijoje ir Vokietijoje.
+- susijęs iš [[objektai/asmenys/Saimsas.md#claim-t-191314|Saimsas]]: Anglas Saimsas, Narbuto perteikiama žinia, neseniai atrado didelių gintaro klodų Avos karalystėje.
 - susijęs iš [[objektai/asmenys/Simonas Kosakovskis.md#claim-t-19229|Simonas Kosakovskis]]: Simonas Kosakovskis 1792 m. vadovavo Vilniaus konfederacijai, pritarusiai Targovicos konfederacijai.
 - susijęs iš [[objektai/asmenys/Simonas Lengvenis.md#claim-t-183761|Simonas Lengvenis (valdovas, XIV a.)]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
 - susijęs iš [[objektai/asmenys/Simonas Lengvenis.md#claim-t-82663|Simonas Lengvenis (valdovas, XIV a.)]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
@@ -1666,6 +2773,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-90068|Vladislovas Lokietka]]: 1326 m. Lokietka paprašė Lietuvos karaliaus Gedimino atsiųsti karių, ir Gediminas jam davė 1200 raitelių.
 - susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-90071|Vladislovas Lokietka]]: Dusburgietis Vladislovą Lokietką vaizduoja kaip Gedimino sąjungininką, kovojusį prieš Ordiną dėl Pamario.
 - susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-90072|Vladislovas Lokietka]]: Vasario 1 d. Vladislovas Lokietka su 6 tūkstančiais karių įsibrovė į Kulmo žemę ir ją siaubė penkias dienas bei naktis.
+- susijęs iš [[objektai/asmenys/Vladislovas Varnietis.md#claim-t-190997|Vladislovas Varnietis]]: 1436 m. Lenkijos karalius Vladislovas Varnietis ir kryžiuočių magistras Povilas Rusdorfas sudarė pasienio konvenciją dėl sienos.
+- susijęs iš [[objektai/asmenys/Vladislovas Varnietis.md#claim-t-190998|Vladislovas Varnietis]]: Narbutas vietos padavimams priskiria teiginį, kad Mituva pavadinta nuo Vladislovo Varniečio laikais prie jos kranto buvusios muitinės.
 - susijęs iš [[objektai/asmenys/Vladislovas iš Opolijos.md#claim-t-35323|Vladislovas iš Opolijos]]: Vladislovas iš Opolijos buvo vienas kandidatų tapti Jadvygos vyru, bet lenkams nepatiko dėl kilmės iš Silezijos kunigaikščių giminės.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-05211|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Sugrįžęs iš ordino, Vytautas 1384–1389 m. tarnavo Jogailai ir rėmė jo politinius bei kultūrinius žygius.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176631|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1401 m. Vytautas davė Jogailai aktą, kad po jo mirties Lietuva ir Rusia pereis karaliaus valdžion.
@@ -1725,6 +2834,7 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173329|Žygimantas Senasis]]: 1514 m. raštas Varmės kanauninkui Andriui Kopernikui buvo siejamas su Lenkijos karaliumi Žygimantu Senuoju.
 - susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173331|Žygimantas Senasis]]: Žygimantui Senajam, kaip broliui ir įpėdiniui, buvo patikėta kunigaikštienės Elenos teisių globa.
 - susijęs iš [[objektai/asmenys/Žygimantas.md#claim-t-184908|Žygimantas]]: Žygimantas paprašė leisti į Maskvą grįžti pirkliams ir žygūnams, sulaikytiems po karališkųjų teisėjų suėmimo.
+- susijęs iš [[objektai/autoriai/Adomas Bremenietis.md#claim-t-190681|Adomas Bremenietis]]: Adomas Bremenietis, Narbuto teigimu, Sembą laikė besiribojančia su rusais arba Rusia, bet Rusios nepriskyrė Prūsijos provincijoms.
 - susijęs iš [[objektai/autoriai/Aleksandro Gvanjinio.md#claim-t-78740|Aleksandro Gvanjinio]]: Aleksandro Gvanjinio knygoje neįvardytas iliustracijoje vaizduojamas mūšis, bet labiausiai tikėtina, kad tai 1512 m. Lopušnos mūšis.
 - susijęs iš [[objektai/autoriai/Benjaminas iš Tudelio.md#claim-t-54999|Benjaminas iš Tudelio]]: Benjaminas iš Tudelio apibūdintas kaip žydų kilmės keliauninkas.
 - susijęs iš [[objektai/autoriai/Benjaminas iš Tudelio.md#claim-t-55000|Benjaminas iš Tudelio]]: Benjaminas iš Tudelio tvirtino, kad 1160 m. į Aleksandrijos uostą užsukdavo ir Krokuvos pirklių laivai.
@@ -1840,6 +2950,7 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80782|Abiejų Tautų Respublika]]: Abiejų Tautų Respublika per Gdanską aprūpino Vakarus javais ir sukūrė religinės tolerancijos bei bajoriškosios demokratijos tradiciją.
 - susijęs iš [[objektai/grupes/Abiejų Tautų Respublikos kariuomenė.md#claim-t-40843|Abiejų Tautų Respublikos kariuomenė]]: XVII a. Abiejų Tautų Respublikos kariuomenė pratęsė Europos riterių atakos tradiciją, kai Vakarų Europoje pralaužiamosios kavalerijos atakos nebenaudotos.
 - susijęs iš [[objektai/grupes/Abiejų Tautų konfederacija.md#claim-t-19623|Abiejų Tautų konfederacija]]: 1792 m. rugsėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į Abiejų Tautų konfederaciją.
+- susijęs iš [[objektai/grupes/Agatirai.md#claim-t-192950|Agatirai]]: Narbutas nurodo senovės tyrinėtojų teiginį, kad agatirai gyveno Marus, arba Maroszy, upės aukštupyje.
 - susijęs iš [[objektai/grupes/Ambasadorių Konferencija.md#claim-t-152689|Ambasadorių Konferencija]]: Ambasadorių Konferencija apkaltino Lietuvą Tautų Sąjungai, kad ji savo elgesiu Klaipėdoje gresianti suardyti taiką ir gerus internaciolinius santykius ir pareikalavo pritaikyti pakto 11 str.
 - susijęs iš [[objektai/grupes/Ambasadorių Konferencija.md#claim-t-152690|Ambasadorių Konferencija]]: E. Galvanauskas manė, kad per Ambasadorių konferenciją Lietuva Klaipėdos negaus, todėl nusistatė kraštą užimti jėga.
 - susijęs iš [[objektai/grupes/Armėnai.md#claim-t-88522|Armėnai]]: LDK katalikai armėnai buvo laikomi viena iš „tarpininkaujančių mažumų“.
@@ -1873,6 +2984,7 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš [[objektai/grupes/Jakobinų klubas.md#claim-t-19717|Jakobinų klubas]]: Jakobinų klubas oponavo oficialiai sukilimo valdžiai ir inicijavo Targovicos konfederatų egzekucijos sumanymą.
 - susijęs iš [[objektai/grupes/Jogailaičiai.md#claim-t-110661|Jogailaičiai]]: 1515 m. Vienos suvažiavimo kontekste Habsburgai, varžydamiesi su Jogailaičiais dėl Čekijos ir Vengrijos, nustojo remti Vokiečių ordiną ir Maskvą.
 - susijęs iš [[objektai/grupes/Jogailaičių dinastija.md#claim-t-183137|Jogailaičių dinastija]]: Jogailai tapus Lenkijos karaliumi 1386 m., atsirado Gediminaičių šakos Jogailaičių dinastija.
+- susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-192410|Jotvingiai]]: Narbutas rašo, kad Konrado valdymo metu Gotardas, Lukošiaus sūnus, kautynėse suėmė septynis jotvingių kunigaikštukus.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175541|Kalavijuočių ordinas]]: 1236 metais popiežius įsakė Livonijoje esantiems Kristaus karių ordino broliams vilkėti Teutonų ordino drabužius.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-187730|Kalavijuočių ordinas]]: Komentare Andriui Algirdaičiui priskiriamas siekis atplėšti Polocką nuo LDK ir 1385 m. spalio 10 d. pasiduoti Livonijos ordinui kaip vasalui.
 - susijęs iš [[objektai/grupes/Karaimai.md#claim-t-120189|Karaimai]]: Lietuvos didysis kunigaikštis Vytautas LDK apgyvendino ryškias musulmonų totorių ir karaimų bendruomenes.
@@ -2117,6 +3229,7 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš [[objektai/ivykiai/Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.).md#claim-t-66509|Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.)]]: Po pergalės broliai ir maldininkai grįžo namo su 1600 priešo žirgų ir kitu grobiu.
 - susijęs iš [[objektai/ivykiai/Bukovinos mūšis traukiantis Olbrachtui.md#claim-t-186658|Bukovinos mūšis traukiantis Olbrachtui (mūšis, XV a.)]]: Lietuvos metraštis pasakoja, kad karaliui Olbrachtui perėjus miškus ir Bukoviną, Moldavijos vaivada Steponas su savo žmonėmis pasuko atgal.
 - susijęs iš [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.).md#claim-t-41270|Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]: Chotino mūšis buvo paskutinė Jono Karolio Chodkevičiaus pasiekta pergalė.
+- susijęs iš [[objektai/ivykiai/Didelių gintaro gabalų radiniai prie Gdansko ir Įsruties.md#claim-t-191040|Didelių gintaro gabalų radiniai prie Gdansko ir Įsruties]]: Gintaro randama prie Vyslos ir Dauguvos žiočių, prie Ostrolenkos ir Narevo upės pakrantėse.
 - susijęs iš [[objektai/ivykiai/Didysis Vilniaus Seimas.md#claim-t-77882|Didysis Vilniaus Seimas]]: Didžiojo Vilniaus Seimo rezoliucijoje reikalauta suteikti Lietuvai autonomiją ir leisti Vilniuje turėti visuotiniu balsavimu renkamą Seimą.
 - susijęs iš [[objektai/ivykiai/Edukacinės komisijos įkūrimas.md#claim-t-183221|Edukacinės komisijos įkūrimas]]: Edukacinė komisija turėjo perimti panaikinto jėzuitų ordino švietimo sistemą.
 - susijęs iš [[objektai/ivykiai/Edukacinės komisijos įkūrimas.md#claim-t-66535|Edukacinės komisijos įkūrimas]]: Edukacinės komisijos sukūrimas 1773 m. kartais laikomas vienu iš Apšvietos epochos pradžios įvykių.
@@ -2133,6 +3246,7 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš [[objektai/ivykiai/Gestapo represijos už lietuvių mobilizacijos į SS boikotą (1943 m. kovas-birželis).md#claim-t-20194|Gestapo represijos už lietuvių mobilizacijos į SS boikotą (1943 m. kovas-birželis)]]: 1943 m. lietuvių pogrindis boikotavo vokiečių okupacinės valdžios agitaciją lietuviams stoti į SS batalioną.
 - susijęs iš [[objektai/ivykiai/Grigaliaus IX susitarimo patvirtinimas ir brolių paraginimas į kovą.md#claim-t-62796|Grigaliaus IX susitarimo patvirtinimas ir brolių paraginimas į kovą]]: 1230 m. popiežius Grigalius IX patvirtino susitarimą su Teutonų ordino broliais ir paragino juos kovoti.
 - susijęs iš [[objektai/ivykiai/Grigaliaus IX susitarimo patvirtinimas ir brolių paraginimas į kovą.md#claim-t-62797|Grigaliaus IX susitarimo patvirtinimas ir brolių paraginimas į kovą]]: Popiežius Grigalius IX patvirtino susitarimą su Teutonų ordino broliais ir įpareigojo juos atgauti krikščionims priklausančias žemes.
+- susijęs iš [[objektai/ivykiai/Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei poloviečių poslinkiai.md#claim-t-191013|Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei poloviečių poslinkiai]]: Teodoro Narbuto pasakojime Jaroslavas po 1031 m. žygio į Lenkiją belaisvius kėlė arčiau Kijevo, bet Rosės krašte kolonijų nesteigė dėl pečenegų.
 - susijęs iš [[objektai/ivykiai/Incidentas prie Lietuvos ir Lenkijos administracinės linijos (1938 m. kovo 11 d.).md#claim-t-20207|Incidentas prie Lietuvos ir Lenkijos administracinės linijos (1938 m. kovo 11 d.)]]: 1938 m. kovo 11 d. prie administracinės linijos Lietuvos pasienio policininkas nušovė liniją perėjusį lenkų kareivį.
 - susijęs iš [[objektai/ivykiai/Inovroclavo teismas dėl Pomeranijos (1320 m. balandis—1321 m. vasaris).md#claim-t-59646|Inovroclavo teismas dėl Pomeranijos (1320 m. balandis—1321 m. vasaris)]]: Vladislovo Lokietkos suvienyta Lenkija diplomatinėmis priemonėmis bandė atgauti kryžiuočių užgrobtą Pomeraniją.
 - susijęs iš [[objektai/ivykiai/Ivano Vasiljevičiaus karo prieš Aleksandrą planavimas.md#claim-t-186667|Ivano Vasiljevičiaus karo prieš Aleksandrą planavimas]]: Lietuvos metraštis Ivano Vasiljevičiaus karo prieš Aleksandrą sumanymą sieja su sąmokslu su Mengli-Girėjumi ir taika su Steponu.
@@ -2451,6 +3565,7 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš A. Viskontas, Vytautas D. L. K. ir Gardelio unija: A. Viskonto darbas „Vytautas D. L. K. ir Gardelio unija“ paskelbtas leidinyje „Lietuvių Tauta“, IV tome.
 - susijęs iš Abiejų Tautų tarpusavio įžadas: Turinyje „Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas“ nurodytas 91 puslapyje.
 - susijęs iš Abiejų Tautų tarpusavio įžadas: 1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsireikalavo pataisos, pavadintos Abiejų Tautų tarpusavio įžadu.
+- susijęs iš Adomo Bremenietio De situ Daniae: Narbutas rašo, kad Adomas Bremenietis Sembą siejo su rusais arba Rusios kraštu, bet jo nepriskyrė Prūsijos provincijoms.
 - susijęs iš Aleksandro privilegija Vilniaus auksakalių cechui: Vilniaus auksakalių cecho prašymu auksakalys Steponas Genseris buvo pašauktas į teismą dėl nepaklusimo Aleksandro privilegijai.
 - susijęs iš Aleksandro privilegija Vilniaus auksakalių cechui: Steponas Genseris kaltintas nepaklusęs Aleksandro suteiktai ir vėliau patvirtintai Vilniaus auksakalių cecho privilegijai.
 - susijęs iš Algirdo laiškas Konstantinopolio patriarchui (1371 m.): Algirdas laiškuose Bizantijos imperijai vadinosi bazileus, o Gediminas laiškuose Vakarams vartojo titulą rex.
@@ -2473,7 +3588,6 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš Dogelio rankraščiai Vilniaus universiteto bibliotekoje: Dogelio rankraščiuose buvo 1570 m. nuostolių, patirtų Lietuvos monetas keičiant į lenkiškus pinigus, sąrašas.
 - susijęs iš Fulvio Ruggieri aprašymas apie Lenkijos ir Lietuvos kariuomenes (1572 m.): Fulvio Ruggieri 1572 m. aprašė, kad kavalerijoje kapitonas vadovavo šimtui raitininkų, o pėstininkų kapitonas paprastai turėjo 200 pėstininkų.
 - susijęs iš Gardino vaizdas (1568 m.): 1568 m. Gardino vaizdo fragmente vaizduojamas Gardinas 1567 m. čia vykusio seimo metu.
-- susijęs iš Gazeta Warszawska: „Gazeta Warszawska“ buvo svarbi M. Balinskio publicistinės literatūros dalis.
 - susijęs iš Gedimino laiškai: Gediminas laiškuose Vakarams vadinosi karaliumi, vartodamas titulą rex.
 - susijęs iš Gedimino privilegijos Rygos pirkliams: Gedimino laikais Vilnius, regis, jau darėsi svarbiu prekybos centru, o Lietuvoje išliko jo privilegijų Rygos pirkliams pėdsakų.
 - susijęs iš Gegužės 3 d. konstitucija (1791 m.): Eidintas ir bendraautoriai Gegužės 3 d. konstituciją laiko riba tarp senosios bajoriškosios santvarkos ir moderniųjų laikų.
@@ -2504,6 +3618,7 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš Kėdainių sutartis su Švedija (1655 m.): Lietuvos magnatai 1655 m. sudarė Kėdainių sutartį su Švedija, tačiau švedams Lietuvoje įsitvirtinti nepavyko.
 - susijęs iš LDK Vyriausiojo Tribunolo Viešųjų reikalų knygos: 1785 m. kovo 14 d. LDK Vyriausiajam Tribunolui Vilniuje buvo pateikta Pabaisko bažnyčios ir klebonijos fundacijos privilegija.
 - susijęs iš Lenko pasikalbėjimu su lietuviu: 1564 m. mokslinti lietuviai paskelbė atsakymą Ožechovskiui knygutėje „Lenko pasikalbėjimu su lietuviu“.
+- susijęs iš Lenkų tautos istorija: Naruševičius „Lenkijos istorijos“ pirmo tomo 7 puslapyje nurodė, kad agatirų kolonijų būta dešiniojoje Marus, arba Maroszy, upės pakrantėje.
 - susijęs iš Lietuvos Didžiųjų Kunigaikščių metraštis: „Lietuvos Didžiųjų Kunigaikščių metraštis“ paskelbtas AkMD 3 tome 1957 m., p. 111-120.
 - susijęs iš Lietuvos Konstitucija (1928 m.): 1928 m. Lietuvos konstitucijoje Lietuvos sostine buvo įrašytas Vilnius.
 - susijęs iš Lietuvos Konstitucija (1938 m.): 1938 m. gegužę priimtoje naujoje konstitucijoje vėl buvo įrašyta, kad Vilnius yra Lietuvos sostinė.
@@ -2535,7 +3650,6 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš Pirmasis Lietuvos Statutas: Skelbdamas Pirmąjį Lietuvos Statutą, Žygimantas Senasis Vilniaus miestiečiams taikė Magdeburgo teisės bylinėjimosi laisvės principą.
 - susijęs iš Popiežiai lietuvių tautos priešai: Knyga „Popiežiai lietuvių tautos priešai“ citatoje apibūdinta kaip vienašališkai poleminė ir datuota 1948 m.
 - susijęs iš Popiežiai lietuvių tautos priešai: Knyga „Popiežiai lietuvių tautos priešai“ išleista 1948 m. ir Ivinskio apibūdinta kaip vienašališkai poleminė.
-- susijęs iš Prūsijos žemės kronika: 1292 m. Pukuveras pasiuntė savo sūnų Vytenį su didele kariuomene į Lenkijos Bresto žemę.
 - susijęs iš Radvilos laiškas dėl lenkų kalbos vartojimo (1615 m.): 1615 m. vienas Radvilų laiške teigė, kad Lietuvoje reikia vartoti lenkų kalbą.
 - susijęs iš Radvilų archyvo dekretų ir laiškų originalai: Radvilų archyvo dekretų ir laiškų originalų faksimilėse pateiktas Aleksandro Jogailaičio dovanojimas Vilniaus miestiečiui Maksimui.
 - susijęs iš Rygos sutartis (1921 m.): 1923 m. Ambasadorių konferencija patvirtino Lenkijos sieną su Rusija pagal Rygos taikos sutartį ir paliko Vilnių Lenkijos pusėje.
@@ -2642,6 +3756,7 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš Frankfurtas prie Oderio: 1326 m. Lenkijos ir Lietuvos kariuomenė įsiveržė į Brandenburgo valdas ir pasiekė Frankfurtą prie Oderio.
 - susijęs iš Frankfurtas prie Oderio: 1326 m. Lenkijos ir Lietuvos kariuomenė įsiveržė į Brandenburgo valdas ir pasiekė Frankfurtą prie Oderio.
 - susijęs iš Galicija: Po Lenkijos padalinimo Galicijoje išliko unitai, nes ši sritis buvo patekusi Austrijai.
+- susijęs iš Galinda: Galindos vakarinė siena prasidėjo prie Sasavos žemės, Hohenšteino ir Noidenburgo, o Alnos upe ribojosi su Varmija.
 - susijęs iš Gardinas: Kovo mėnesį karalius, padedamas Skirgailos, šturmu užėmė Vytauto valdos sostine vadintą Gardiną.
 - susijęs iš Gardinas: 1390 m. sausio pradžioje Vytautas, išsiuntęs šeimą iš Gardino į Prūsiją, dar labiau įtvirtino Gardiną kaip savo buveinę.
 - susijęs iš Gardinas: 1503 m. Gardine Lietuvos didysis kunigaikštis Aleksandras išleido privilegiją statyti Vilniaus gynybinę mūro sieną.
@@ -2719,8 +3834,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš Krokuva: Lenkijos poveikis LDK reiškėsi bažnytinės sistemos organizavimu, studijomis Krokuvos universitete, administracijos perėmimu ir ūkio reforma.
 - susijęs iš Krokuva: Lietuviai Lenkijoje puolė Sandomiro ir Krokuvos žemes.
 - susijęs iš Kujavija: Vengrijos karalius Zigmantas Liuksemburgietis laikė Kujaviją savo suvereniteto žeme ir norėjo ją parduoti Ordinui.
+- susijęs iš Kulmas: Petro Dusburgiečio kronikoje Kulmo ir Lubavo žemė įvardyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Kulmas: Vasario 1 d. Lenkijos karalius Lokietka su 6 tūkstančiais karių įsibrovė į Kulmo žemę ir ją siaubė penkias dienas bei naktis.
-- susijęs iš Kulmas: Mozūrų kunigaikštis Konradas vyskupą Kristijoną įkurdino Mozūrams priklausiusio Kulmo žemės pakraštyje.
 - susijęs iš Kulmo žemė: Ordino įsikūrimas Mazovijos kunigaikščio Konrado dovanotoje Kulmo žemėje laikomas Ordino veiklos Prūsijoje pagrindu.
 - susijęs iš Kulmo žemė: Magistras Hermanas pasiuntė Konradą iš Landsbergo ir dar vieną brolį apžiūrėti Kulmo žemės.
 - susijęs iš Kulmo žemė: 1231 m. Ordino magistras persikėlė per Vyslą į Kulmo žemę, pastatė Torunės pilį ir pradėjo sistemingą agresiją prieš prūsus.
@@ -2838,7 +3953,6 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš Opatovas: Opatovas lokalizuojamas apie 30 km į vakarus nuo Zavichosto ir Vislos ir daugiau kaip 130 km į šiaurės rytus nuo Krokuvos.
 - susijęs iš Pabaisko bažnyčia ir parapija: Pabaisko bažnyčios ir klebonijos fundacijos privilegija buvo sudaryta 1544 metais.
 - susijęs iš Pabaisko bažnyčia ir parapija: Pabaisko bažnyčia buvo pastatyta Šventosios Trejybės, Mergelės Marijos Ėmimo į dangų, šv. Egidijaus ir šv. Jurgio garbei.
-- susijęs iš Palanga: Sukilėliai planavo užimti Palangos ir Liepojos uostus.
 - susijęs iš Palanga: Jucevičiaus nuomone, prie Palangos gyvenę lietuviai žvejai Atrimpą vadino „Dzivsvits“.
 - susijęs iš Palenkė: Lietuvos ir Lenkijos teritoriniai ginčai dėl Palenkės žemės buvo pasiekę karinės konfrontacijos lygį.
 - susijęs iš Palenkė: Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę ir Voluinės, Kijevo bei Podolės vaivadijas.
@@ -2918,7 +4032,7 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš Sandomiras: 1429 m. rugsėjo 8 d. Jogaila Sandomire sukvietė savo senatorius į pasitarimą.
 - susijęs iš Seinai: Ratifikavus sutartį Lietuva neteko teisės reikšti teritorinių pretenzijų į Seinus ir Punską.
 - susijęs iš Semba: Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
-- susijęs iš Senieji Trakai: Vytautas įkurdino benediktinus Senuosiuose Trakuose.
+- susijęs iš Semba: Narbutas rašė, kad Adomas Bremenietis Sembą laikė besiribojančia su rusais arba Rusios kraštu.
 - susijęs iš Seversko žemės: Vilniaus seime lenkų atstovai reikalavo Lenkijai atiduoti Palenkę, Volynę, Kijevo ir Seversko žemes bei sudaryti uniją.
 - susijęs iš Silezija: Silezijoje, ties Byčina, Maksimilijonas pralaimėjo mūšį, pateko į Zamoiskio nelaisvę ir atsisakė sosto.
 - susijęs iš Skirsnemunė: 1431 m. birželio 19 d. Skirsnemunėje Švitrigaila pasirašė sutartį su Ordino kryžiuočių ir Livonijos šakomis.
@@ -2946,6 +4060,7 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš Tikocinas: Tikocine buvę ginklai ir karinė amunicija turėjo likti ten kaip valdovo nuosavoje pilyje.
 - susijęs iš Tlumačas: Tlumačas lokalizuojamas vakarų Ukrainos dalyje prie Stanislavo.
 - susijęs iš Tlumačas: 1440 m. birželio 6 d. Švitrigaila pasirodė Lenkijai priklausiusioje vakarų Ukrainos dalyje, Tlumače prie Stanislavo.
+- susijęs iš Toloma: Teodoras Narbutas nurodo, kad senovės tyrinėtojai Tolomą siejo su Valmieros apylinkėmis Uždauguvio skirstyme.
 - susijęs iš Torunė: Stalininkas Druzigeris Torunėje klaidingai pranešė, kad krikščionių kariuomenė žuvo mūšyje.
 - susijęs iš Torunė: Torunę 1235 m. pastatė kryžiuočiai.
 - susijęs iš Torunė: Torunę 1235 m. pastatė kryžiuočiai, Teutonų ordinui gausinant miestus ir pilis Baltijos pakrantėse.
@@ -3002,8 +4117,6 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš Viena: Narbutas rašė, kad Jeronimas, vykdamas per Lenkiją į Vieną, lenkų kunigams neatskleidė Viklifo raštų naujienos.
 - susijęs iš Vileika: Vileikos miestelio apylinkės Ašmenos paviete buvo paskirtos mobilizacijos vieta.
 - susijęs iš Viljandis: 1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Gediminas įsakė pastatyti mūrinę pilį Vilnelės ir Vilijos upių santakoje.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Pasak autoriaus, Gediminas, statydindamas pilį, iškasė Vilnelei kitą vagą.
 - susijęs iš Vilnia: Gediminas, statydindamas pilį, iškasė Vilniai naują vagą ir iškastomis žemėmis paaukštino Pilies kalną.
 - susijęs iš Vilniaus gubernija: Minėtų grupuočių teritorinės aspiracijos apėmė istorines etnines lietuvių žemes Vilniaus, Kauno, Suvalkų ir Gardino gubernijose.
 - susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: Vilniaus vyskupas Mikalojus Šv. Stanislovo katedroje iškilmingai paskelbė Švitrigailą didžiuoju kunigaikščiu.
@@ -3250,6 +4363,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš [[objektai/zodynas/reliacinis sprendimas.md#claim-t-86615|reliacinis sprendimas]]: 1586 m. liepos 11 d. Stepono Batoro reliaciniu sprendimu Vilniaus gyventojams įsakyta švęsti pagal naują kalendorių.
 - susijęs iš [[objektai/zodynas/revizionistinė valstybė revizionistai per prievartą.md#claim-t-22278|revizionistinė valstybė revizionistai per prievartą]]: Siekis atgauti Vilnių Lietuvą vedė į revizionistinių valstybių draugiją ir net grėsė nepriklausomybės praradimu.
 - susijęs iš [[objektai/zodynas/revizionistinė valstybė revizionistai per prievartą.md#claim-t-22279|revizionistinė valstybė revizionistai per prievartą]]: Lietuviai tapo „revizionistais per prievartą“.
+- susijęs iš [[objektai/zodynas/revoliucija.md#claim-t-192234|revoliucija]]: Teodoras Narbutas nesiliaujančias sarmatų revoliucijas pateikia kaip priežastį, dėl kurios agatirai nebegalėjo ramiai gyventi prie Marokos.
+- susijęs iš [[objektai/zodynas/revoliucija.md#claim-t-192238|revoliucija]]: Teodoras Narbutas rašo, kad nesiliaujančios sarmatų revoliucijos neleido agatirams ilgiau ramiai gyventi prie Marokos.
 - susijęs iš [[objektai/zodynas/rusėnų kalba LDK raštų kalba.md#claim-t-169928|rusėnų kalba LDK raštų kalba]]: Filologų manymu, LDK raštinėse vyravusią raštijos kalbą reikėtų vadinti rusėnų kalba.
 - susijęs iš [[objektai/zodynas/rusėnų kalba LDK slavų kanceliarinė kalba.md#claim-t-22295|rusėnų kalba LDK slavų kanceliarinė kalba]]: Filologai LDK raštinėse vyravusią raštijos kalbą siūlo vadinti rusėnų kalba.
 - susijęs iš [[objektai/zodynas/sambrūzdis.md#claim-t-185411|sambrūzdis]]: Lietuvoje kilęs sambrūzdis prieš Augustą aprimo, kai atėjo žinia apie Žygimanto mirtį.
@@ -3299,6 +4414,7 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš [[objektai/asmenys/Boleslovas Pamaldusis.md#claim-t-87638|Boleslovas Pamaldusis]]: Boleslovas Pamaldusis XIII a. paskelbė atmintiną privilegiją žydų tautos gyventojams Didžiojoje Lenkijoje.
 - susijęs iš [[objektai/daiktai/Švenčiausiosios Mergelės Marijos su kūdikėliu paveikslas.md#claim-t-59716|Švenčiausiosios Mergelės Marijos su kūdikėliu paveikslas]]: Sūduviai iš Lenkijos išsivežė Švenčiausiosios Mergelės Marijos su kūdikėliu paveikslą ir ketino mėtyti į jį ietis.
 - susijęs iš [[objektai/grupes/Edukacinė Komisija.md#claim-t-107740|Edukacinė Komisija]]: Edukacinė Komisija buvo įkurta kaip bendra Lietuvos ir Lenkijos institucija.
+- susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-192410|Jotvingiai]]: Narbutas rašo, kad Konrado valdymo metu Gotardas, Lukošiaus sūnus, kautynėse suėmė septynis jotvingių kunigaikštukus.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178861|Kryžiuočių ordinas]]: Lenkijos vasalu likęs Kryžiuočių ordinas savo sostinę perkėlė į Karaliaučių.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-182899|Kryžiuočių ordinas]]: Lenkijos vasalu likęs Kryžiuočių ordinas savo sostinę perkėlė į Karaliaučių.
 - susijęs iš [[objektai/ivykiai/Jazbuto pralaimėjimas tarp Alnos ir Narevo upių.md#claim-t-185800|Jazbuto pralaimėjimas tarp Alnos ir Narevo upių]]: Jazbutas, nuniokojęs kai kurias Lenkijos pasienio žemes, buvo sumuštas Henriko Cutsverto tarp Alnos ir Narevo upių.
@@ -3317,7 +4433,11 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos.md#claim-t-186607|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)]]: Lietuvos metraštis pasakoja, kad po pergalės prie Dubrovnos vokiečių vėliavos ir nuo magistro bei komtūrų nuplėštos barzdos padalytos Lenkijai ir Lietuvai.
 - susijęs iš [[objektai/ivykiai/Vytenio žygis į Bresto žemę ir Meinhardo atsitraukimas (1291 m.).md#claim-t-62954|Vytenio žygis į Bresto žemę ir Meinhardo atsitraukimas (1291 m.)]]: Pukuveras pasiuntė sūnų Vytenį su didele kariuomene į Bresto žemę, kur lietuviai žudė, ėmė belaisvius, degino ir grobė.
 - susijęs iš Lietuvos ir Sovietų Rusijos taikos sutartis (1920 m. liepos 12 d.): Maskva patvirtino, kad sutartis su Lietuva tebegalioja ir kad Lietuva turi suverenias teises į Vilnių.
+- susijęs iš Senieji Trakai: Vytautas įkurdino benediktinus Senuosiuose Trakuose.
+- susijęs iš [[objektai/zodynas/ab ovo.md#claim-t-192294|ab ovo]]: Narbutas frazę „ab ovo“ sieja su praeities įvykių aiškinimu nuo tautos kilmės iki 1569 m. susijungimo su Lenkija.
 - susijęs iš [[objektai/zodynas/dignitoriai.md#claim-t-77793|dignitoriai]]: 1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Lenkijos ir Lietuvos) dignitorių – ministrų.
+- susijęs iš [[objektai/zodynas/revoliucija.md#claim-t-192234|revoliucija]]: Teodoras Narbutas nesiliaujančias sarmatų revoliucijas pateikia kaip priežastį, dėl kurios agatirai nebegalėjo ramiai gyventi prie Marokos.
+- susijęs iš [[objektai/zodynas/revoliucija.md#claim-t-192238|revoliucija]]: Teodoras Narbutas rašo, kad nesiliaujančios sarmatų revoliucijos neleido agatirams ilgiau ramiai gyventi prie Marokos.
 - susijęs iš [[objektai/zodynas/vasalas.md#claim-t-111386|vasalas]]: Jogaila neatsisakė teisių į Lietuvą kaip į tėvoniją, todėl Lietuva valstybingumo neprarado, bet tapo Lenkijos vasale.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179239|Lietuviai]]: Aštuoni šimtai Lietuvos raitelių nuniokojo 10 kaimų Kersovu vadintoje Lenkijos žemės dalyje ir pasitraukė su dideliu grobiu.
 - susijęs iš [[objektai/zodynas/senatas.md#claim-t-185397|senatas]]: Pasitarus su Lietuvos senatu, į Lenkiją buvo išsiųsti Lietuvos didikai su dovanomis ir pažadais.
@@ -3334,6 +4454,7 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-184917|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: 1432 m. Žygimantas Kęstutaitis sutiko su sąlygomis, kuriomis tapo Lietuvos didžiuoju kunigaikščiu.
 - susijęs iš [[objektai/grupes/Kuršo kunigaikštystė.md#claim-t-71644|Kuršo kunigaikštystė]]: Po ilgų ginčų sutarta, kad Livonija ir Kuršo kunigaikštystė bus laikomos lygiai priklausančiomis Lietuvai ir Lenkijai.
 - susijęs iš [[objektai/grupes/Lenkijos karalystės kariuomenė.md#claim-t-23483|Lenkijos karalystės kariuomenė]]: Kai kurie Lenkijos karalystės kariuomenės daliniai prasiveržė atgal į Karalystės teritoriją, o kitų likučiai perėjo sieną su Prūsija.
+- susijęs iš [[objektai/asmenys/Konradas.md#claim-t-190906|Konradas]]: Narbuto pasakojime Konrado valdymo Mazovijoje metu Gotardas kautynėse suėmė septynis jotvingių kunigaikštukus, išsipirkusius sidabru.
 - susijęs iš [[objektai/asmenys/Ziemovitas.md#claim-t-93745|Ziemovitas]]: Mozūrų kunigaikštis Ziemovitas reiškė pretenzijas į Lenkijos sostą ir savo šalininkų buvo dukart išrinktas Lenkijos karaliumi.
 - susijęs iš [[objektai/asmenys/Ziemovitas.md#claim-t-93748|Ziemovitas]]: Mozūrų kunigaikštis Ziemovitas reiškė pretenzijas į Lenkijos sostą ir buvo dukart savo šalininkų išrinktas Lenkijos karaliumi.
 - susijęs iš [[objektai/grupes/Poznanės raitininkų eskadronai.md#claim-t-38997|Poznanės raitininkų eskadronai]]: Panerių mūšyje Poznanės raitininkų eskadronai buvo tarp Lenkijos sukilėlių kariuomenės dalinių.
@@ -3370,6 +4491,7 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-54992|Petras Goštautas]]: Po pranciškonų žudynių Goštautas palaidojo nukankintuosius, vėl atkvietė vienuolius iš Lenkijos ir pastatydino Mergelės Marijos bažnyčią bei vienuolyną Smėlynėje.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173211|Petras Goštautas]]: Petras Goštautas palaidojo nukankintus vienuolius, pakvietė naujų pranciškonų iš Lenkijos ir Smėlynėje pastatydino bažnyčią bei vienuolyną.
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -3379,11 +4501,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     ministeriai, o su Lenkijos kaimynais — Lenkų ministeriai. Lie-
     tuva daugiausia turėdavo"reikalų su sau artimiausia Maskva.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-035
+
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -3402,12 +4526,14 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     bių, ir šito dvilypio savarankiškumo žymės dar tebebuvo ne-
     išnykusios.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-062
     - t-015
+
 - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -3419,11 +4545,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     Byčina) pralaimėjo mūšį, pateko Zamoiskiui į nelaisvę ir buvo
     priverstas atsisakyti nuo sosto.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-068
+
 - c-004
   santrauka: 'Lenkijoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruomenių kaip LDK.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -3437,12 +4565,14 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     Būtent iš LDK karaimų bendruomenės iškilo žymiausias, tolerancijos
     tyrėjų dažnai minimas Isaakas ben Abrahamas iš Trakų (1525–1586).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-032
     - t-017
+
 - c-005
   santrauka: 'Lenkijoje ūkiai iki 5 ha sudarė 72 proc. ūkių, o Lietuvoje tokio dydžio ūkių dalis siekė 62 proc.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -3451,11 +4581,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     kijoje tokie sudaro 72 proc., Latvijoje – 41 proc., Lietuvoje ir Estijoje šio
     dydžio ūkių procentas panašus: 62 ir 64 proc.).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-054
+
 - c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3473,12 +4605,14 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     Maišiagalą, o prie pat sostinės su karių likučiais nusiaubė
     aplinkines žemes.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-058
     - t-018
+
 - c-007
   santrauka: '1920 m. rudenį Vilnius atiteko Lenkijai, kai ši sumušė Raudonąją armiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -3496,12 +4630,14 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     ligovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos
     (Litwa środkowa) sudarymą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-060
     - t-039
+
 - c-008
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -3513,11 +4649,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     su Lietuva. Be to, tuo pat metu paaiškėjo ir lietuvių pažiūra į
     uniją su Lenkija.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-024
+
 - c-009
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -3530,11 +4668,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     Pabaltijyje ir artimose srityse paliko dabartinį žemės reljefą (upes
     ir ežerus, kalvas ir žemumas) su charakteringomis morenomis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-010
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3543,11 +4683,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     bajorų jaunimas, tikėjęs, kad pavyks įtraukti į sukilimą valstiečius, ku-
     riuos, anot jų, turėjo nuvilti caro paskelbta baudžiavos naikinimo tvarka.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-041
+
 - c-011
   santrauka: '1994 m. balandžio 26 d. Lietuva ir Lenkija pasirašė draugiškų santykių ir gero kaimyninio bendradarbiavimo sutartį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -3563,11 +4705,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     Lenkijos pasirašyta draugiškų santykių ir gero kaimyninio bendradarbia-
     vimo sutartis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-036
+
 - c-012
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3578,11 +4722,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     nastijai. Lietuvos bajorija reiškė pageidavimus prisijungti prie šio darinio,
     tačiau Aleksandras I nesutiko.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-069
+
 - c-013
   santrauka: 'Krėvos sutartis parodė Lietuvos politinį atsigręžimą į artimiausią kaimynę Lenkiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -3592,11 +4738,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     atskleidė naują Lietuvos istorijos puslapį: Lietuva atsigręžė į Lenkiją.
     1387 m.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-050
+
 - c-014
   santrauka: 'Lenkijos kunigaikštis, prūsų įbaugintas, duodavo jų pasiuntiniams reikalaujamus žirgus ir ryškiaspalvius drabužius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -3611,11 +4759,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     šiems prie stalo smagiai bevalgant  ir begeriant, slapta įsakė perduoti minėtiesiems
     netikėlių pasiuntiniams jų drabužius bei žirgus165.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-028
+
 - c-015
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3628,11 +4778,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     problemą ir tikino lenkus, kad nė vienas Lietuvos kareivis neperžengs
     administracinės linijos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-026
+
 - c-016
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3644,12 +4796,14 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     miestų gatvėse ugningai skandavo „Marsz na Kowno“ („Marš į Kauną“),
     oficialiąją Varšuvą rezultatai tenkino.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-038
     - t-031
+
 - c-017
   santrauka: 'Po vestuvių Vilniuje karalius dėl karalystės reikalų greitai išskubėjo į Lenkiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -3663,11 +4817,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     Išties trumpas, bet itin nesėkmingas buvo Vilniui Skir­
     gailos valdymas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-067
+
 - c-018
   santrauka: 'Sutriuškinus Lenkiją, Anglijos ir Prancūzijos įtaka regione sumažėjo, o Vokietija skelbė nebeturinti ten interesų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -3682,11 +4838,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     Įsileidusi sovietų bazes Lietuva palaidojo viltis būti išrink-
     ta į Tautų Sąjungos Tarybą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-019
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3698,11 +4856,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     reikšti savo teritorines pretenzijas į Seinus, Punską, nors sena istorija, tau-
     tinių mažumų klausimas kartais dar kelia karštas diskusijas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-020
   santrauka: 'Prūsai kelis kartus didelėmis pajėgomis užpuolė Lenkijos žemę, degino namus, žudė suaugusiuosius ir išvarė moteris bei vaikus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -3719,11 +4879,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     netekusiam visų jo valdomų įtvirtinimų bei pilių, bepaliko Vyslos pakrantėje viena pilis,
     Plocku vadinama163.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-063
+
 - c-021
   santrauka: 'Istorikai XVI–XVII a. Lenkijos religinę toleranciją apibūdino kaip Europoje neturėjusią analogo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -3733,11 +4895,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     būdinę kaip neturinčią analogo Europoje, o Lenkiją – kaip didžiausią Eu-
     ropoje tolerancijos uostą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-040
+
 - c-022
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3751,12 +4915,14 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     plomatiniais ryšiais, o į visus kitus tarptautinės politikos įvykius Lietuva
     žiūrėjo tik per Vilniaus prizmę.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
     - t-027
+
 - c-023
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -3768,11 +4934,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     čių Ordino galybę, Vytauto valdžią dar labiau sutvirtino ir pra­
     skynė kelią į tikruosius jo didybės laikus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-029
+
 - c-024
   santrauka: '1230 m. popiežius Grigalius IX patvirtino Lenkijos kunigaikščio susitarimą su Teutonų ordino broliais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -3788,11 +4956,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     kančias, viešpaties kentėtas ant kryžiaus, ir atgauti netikėlių užimtas, bet krikščionims
     priklausomas žemes. Ragindamas juos į kovą, jis sakė (1 Mak 3.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-057
+
 - c-025
   santrauka: '1385 m. Krėvos sutartis su Lenkija leido Lietuvos didžiajam kunigaikščiui Jogailai tapti Lenkijos karaliumi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -3803,11 +4973,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     Lenkijos karaliumi. Viena iš sutarties sąlygų buvo Lietuvos krikštas, kurį
     Jogaila 1387 m., grįžęs iš Lenkijos, ir įgyvendino.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-066
+
 - c-026
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3819,11 +4991,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     ta išties mažai, priskirti Lietuvai. Lietuvai pripažinta teritorija buvo gana
     artima 1795 m. teritorijai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-044
+
 - c-027
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3839,12 +5013,14 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     teisę likti tautine mažuma, nes dauguma lietuvių vargiai būtų pritarę dva-
     rininkų privilegijoms.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-059
     - t-004
+
 - c-028
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3863,11 +5039,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     unijos idėją, o tai leidžia kalbėti apie Lietuvą kaip jungtį tarp lotyniško-
     sios Vidurio ir bizantinės Rytų Europos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-051
+
 - c-029
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3878,11 +5056,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provincijai (jos
     buvo dvi – Didžioji Lenkija su Poznane ir Mažoji Lenkija su Krokuva).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
+
 - c-030
   santrauka: 'Lietuvos pietvakariuose buvusi Lenkija tapo ilgamečio konflikto su Lietuva dalyve.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -3896,11 +5076,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     biavo, taip trečiame fronte broliui Liubartui labiausiai talkino
     Kęstutis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
 - c-031
   santrauka: '1791 m. Lietuvos atstovų Spalio 20-osios pataisa neleido LLV Konstitucijos laikyti vien tik Lenkijos konstitucija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -3917,11 +5099,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     jūrą ir įsitvirtinti Livonijoje kėlė konfliktus tarp ATR ir Rusijos bei XVII a.
     kariškai sustiprėjusios Švedijos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-025
+
 - c-032
   santrauka: 'Vengrija ir Lenkija turėjo priversti ordiną grąžinti Lietuvai atimtas žemes ir ginti ją nuo kryžiuočių bei totorių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -3933,11 +5117,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 
     (^5) **VMPL, I, nr.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-049
+
 - c-033
   santrauka: 'Po 1183 m. lietuvių žygiai padažnėjo ir kasmet vyko ne tik į Rusios žemes, bet ir į Lenkiją bei Livoniją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -3950,11 +5136,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     Plėšiamieji žygiai rodė didėjant lietuvių jėgą, jie tokių žygių skaičiumi
     pralenkė turtingus prūsus ar karingus kuršius.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-034
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3969,12 +5157,14 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     ryje buvo sudaryta unija su Lenkijos Karalyste ir susiformavo jungtinė
     valstybė – Abiejų Tautų Respublika.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-053
     - t-048
+
 - c-035
   santrauka: 'Nors dalį ginčijamų žemių jau kontroliavo Lenkija, Adolfas Jofė sutiko Vilnių, Gardiną ir Lydą priskirti Lietuvai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -3986,11 +5176,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     A. Jofė sutiko Vilnių ir tas žemes, net Gardiną ir Lydą, kur lietuvių gyven-
     ta išties mažai, priskirti Lietuvai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-033
+
 - c-036
   santrauka: 'Aleksandras dokumente tituluojamas Lenkijos karaliumi ir Lietuvos, Rusios, Prūsijos bei Žemaitijos didžiuoju kunigaikščiu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -4003,11 +5195,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     tuvos, Rusios, Prūsijos, Žemaitijos ir 1.1, kunigaikštis. Ponas
     ir tėvonis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-030
+
 - c-037
   santrauka: 'Karalaitė Ona, pasilikusi Lenkijoje, turėjo likti su jai skirtomis valdomis, žemėmis ir pinigų sumomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -4026,12 +5220,14 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     bijome dėl to, kad, mokant kraitį, ji galėtų netekti tų išmo­
     kėjimų, sumų, dvarų ir valdų, to, ką davė Dievas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-046
     - t-056
+
 - c-038
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -4040,11 +5236,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     Tą paaiškinus, vėl tenka grįžti prie tolimesnės Vytauto ka­
     rūnacijos klausimo raidos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-039
   santrauka: 'Magistras Hermanas pasiuntė Konradą iš Landsbergo ir kitą Ordino brolį pas Lenkijos kunigaikštį apžiūrėti Kulmo žemės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -4060,11 +5258,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     Kai šie vyko į Lenkiją, kunigaikštis buvo kažkur toli iškeliavęs, o į Lenkijos žemę įsibrovė
     prūsų kariuomenė  ir ją nuniokojo gaisrais  ir grobstymais.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-021
+
 - c-040
   santrauka: 'Lenkija siekė išsaugoti uniją, nes Vytauto karūnacija galėjo visiškai nutraukti jos ryšius su Lietuva.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -4075,11 +5275,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     Lenkija visa tai jautė ir matė. Reikėjo iš paskutiniųjų gelbėtis,
     kad unija pasiliktų nesuardyta.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-023
+
 - c-041
   santrauka: 'Pagal naują tvarką į valstybinį žemės fondą pateko ir repatrijavusiųjų į Lenkiją žemė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -4093,11 +5295,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     todėl pirmiausia imtasi priemonių prieš pasiturinčius valstiečius – jiems
     palikta iki 30 ha žemės, jie vadinami „buožėmis“, taip pat tuos, kurie nau-
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-065
+
 - c-042
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -4114,11 +5318,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     patvarkęs tolesnę Lietuvos gynybą, pargrįžo į Lenkiją. Tačiau
     Vilniaus diecezijos senųjų turto do- Vilnensis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-043
   santrauka: 'Lietuvos suartėjimas su Lenkija lėmė epochos pobūdį, kai abi valstybes dažnai valdė tie patys valdovai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -4129,11 +5335,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     dėjo lietuviškos kilmės Jogailaičių dinastija (iki 1572 m.), XV a. pabaigo-
     je–XVI a. pradžioje užėmusi taip pat Čekijos ir Vengrijos sostus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-034
+
 - c-044
   santrauka: 'Autorių vertinimu, Lenkija buvo LDK mokytoja, nes stipriai veikė Lietuvos kultūrą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -4144,11 +5352,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     organizavimu, studijomis Krokuvos universitete, administracinės sistemos
     perėmimu, ūkio reforma. Lenkija buvo LDK mokytoja.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-045
   santrauka: 'Apie 1500 m. Lenkijoje buvo trys stačiatikių vyskupijos, o LDK – šešios.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -4162,11 +5372,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     pačiai metropolijai Kijeve, o metropolitas reziduodavo ne tik Kijeve, bet ir
     Naugarduke bei Vilniuje.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-055
+
 - c-046
   santrauka: 'Lenkijos karalystės Seimas paskelbė šalinąs Nikolajų I iš Lenkijos karaliaus sosto ir perduodąs suverenitetą tautai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -4177,11 +5389,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     prasidėjo spontaniškai 1831 m. pavasariop Žemaitijoje dėl valdžios pa-
     skelbto rekrutų ėmimo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-047
   santrauka: '1922 m. sausį lenkai surengė rinkimus Vidurinėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -4195,11 +5409,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     federacijos idėjos su Lenkija galimybių, kad Rytų Europoje nebuvo įdieg-
     tas Šveicarijoje pasiteisinęs kantonų principas?
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-048
   santrauka: 'Lietuvos ir Lenkijos tautų nelaimė paskatino visuomenes ir karalių bandyti gelbėti ATR valstybę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -4232,11 +5448,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     Q KS o; Sluckas 2 garsiąją, valstybės gyvybingumą turėjusią
     padidinti 1791 m. gegužės 3 d. konstituciją.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-064
+
 - c-049
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -4249,12 +5467,14 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     kunigaikščio, kitos institucijos, kuri galėtų išreikšti Lietuvos valstybės va-
     lią, nebūta.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-061
     - t-045
+
 - c-050
   santrauka: 'Lietuvos bajorija jautėsi sudaranti vieną luomą su Lenkijos bajorija, bet Lietuva pati rūpinosi savo gynyba ir sutartimis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -4268,11 +5488,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     kartais net nesiklausdama lenkų, darė atskiras sutartis, 1655 m.,
     kaip matėm, buvo net pasiryžusi visiškai skirtis su Lenkija.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-052
+
 - c-051
   santrauka: 'Totoriai įsiveržė į Lenkiją, mūšyje nukovė Henriką, Lenkijos kunigaikštį, ir nuniokojo kraštą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -4285,11 +5507,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     galybę kitų, kuriuos ten stengė užtikti, o tas šalis pavertė dykromis, todėl daug žmonių
     vieno kalno dulkėmis maitinosi nelyginant miltais (Mart. p. 399).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-042
+
 - c-052
   santrauka: 'Totoriai nuniokojo Vengriją ir Lenkiją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -4298,11 +5522,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 
        Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol. 21,34).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-053
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -4340,11 +5566,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     kiškų grivinų baudą ir ši bauda į bet kurio mūsų valdų mies­
     to valdybą, tiek pilies, tiek miesto, būtų atnešta ir paduota.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-043
+
 - c-054
   santrauka: '1008 m. pabaigoje iš Lenkijos aisčių krikštyti išvyko misijonierius su 18 palydovų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -4360,11 +5588,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     Bet ir jo misijos
     nebuvo sėkmingos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
+
 - c-055
   santrauka: 'Lenkijoje Zamoiskis įgijo persvarą ir, vadovaudamas kariuomenei, neleido Maksimilijonui įžengti į Krokuvą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -4377,11 +5607,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     menei, jis atvykstančio Maksimilijono neįleido į Krokuvą
     Tuo būdu buvo karūnuotas atvykęs Zigmantas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-037
+
 - c-056
   santrauka: 'XIV a. Lenkijoje jau buvo miestų, su kuriais lyginamos aplink Vilniaus pilis buvusios gyvenvietės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -4409,12 +5641,14 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     laikui neįprastai dideli pastatai, kaip Krokuvos Gelumbės
     prekybos namai, statydinti Kazimiero Didžiojo.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
     - t-011
+
 - c-057
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -4423,11 +5657,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     ropoje tolerancijos uostą. Daugiakultūriškumas ir daugiakonfesiškumas
     kartais laikomi didžiausiu Lenkijos įnašu į Europos kultūrą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-058
   santrauka: 'Zigmantui likus be kito sąjungininko, Lenkija padėjo jam net rengiant sąmokslą prieš Švitrigailą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -4448,11 +5684,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     palikti Jogailai arba jo įpėdi-
     niams.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-070
+
 - c-059
   santrauka: 'Kai 1815 m. Vienos kongreso nutarimu iš didesnės dalies Varšuvos kunigaikštystės žemių, įskaitant Lietuvos Užnemunę, buvo sudaryta Lenkijos karalystė, vadinamoji Kongresinė Lenkija, jos sostas paveldėjimo teise perduotas Rusijos valdančiajai dinastijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -4469,11 +5707,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     Lenkija, jos sostas paveldėjimo teise perduotas Rusijos valdančiajai di-
     nastijai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-071
+
 - c-060
   santrauka: '1862 m. Kongresinėje Lenkijoje ir Lietuvoje susikūrė „raudonųjų“ organizacijos sukilimui rengti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -4484,11 +5724,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     1862 m. Kongresinėje Lenkijoje ir Lietuvoje susikūrė „raudonųjų“ or-
     ganizacijos sukilimui rengti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-072
+
 - c-061
   santrauka: 'Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkijoje moka po 30 grašių, juos ponas Motiejus Kaviečnijskis atsiuntė pro 1 Junii [birželio 1-ai] į Varšuvą, Lietuvoje už juos mokėdamas, Jo Karališkosios Didenybės paliepimu, po 25.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -4508,12 +5750,14 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     Karališkosios Didenybės paliepimu, po 25 lietuviškus gra­
     šius. Jiems išleista 15 florinų 26 grašiai ir 2 ą1g.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-073
     - t-047
+
 - c-062
   santrauka: 'Žiniai apie Dorpato apiplėšimą pasiekus Lenkiją, Augustas paragino savo legatus tartis su kunigaikščiu Ivanu dėl Livonijos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -4528,11 +5772,13 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     tams leido ką siūlyti dėl Livonijos ir net dėl taikos su
     Lietuva.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-074
+
 - c-063
   santrauka: 'Narbutas Lenkijos karalienės Jadvygos santuokai su Vladislovu priskyrė stebuklingą Lietuvos atvertimo poveikį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -4549,11 +5795,14 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     didžiausių privalumų priskiria jų nuolankumą bažnyčiai, kuri
     jų rūpesčiu į savo prieglobstį gavo 5 635 500 atverstų stabmel­
     džių.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-075
+
 - c-064
   santrauka: 'Narbutas spėjo, kad kai kurie lietuviški herbai į Lenkijos herbynus pateko atsikėlus jais besinaudojusioms šeimoms.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -4566,11 +5815,1631 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
     įvesta herbų vienovė.
     Bet mes turime kalbėti apie kai kuriuos ikiunijinių laikų
     herbus, mūsų pastebėtus senose Lietuvos bajorų sutartyse.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-076
+
+- c-065
+  santrauka: 'Narbutas nurodo, kad pavienių gintaro gabalų randama Lietuvoje, Lenkijoje, Silezijoje, Čekijoje ir kitose vietose.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Jūra dažnai išmeta gintarą, prikibusį prie
+    supuvusių šių medžių skiedrų, ir kartu patvirtina Plini-
+    jaus užrašytą Kapadokijos karaliaus Archelajo pasakoji­
+    mą, kad iš Indijos atvežama gintaro žaliavos, dar neat­
+    skirtos nuo medžių žievės1.
+    152
+    Pavienių gintaro gabalų randama beveik visur: Lie­
+    tuvoje, Lenkijoje, Silezijoje, Čekijoje, Halės žemės ang­
+    lių kasyklose, taip pat Danijos pakrantėse, nemažai ga­
+    balų išmesdavo Švedijos ežeras Maeleras. Kai kuriose Ja­
+    ponijos salose turėtų būti gintaro, nes tenykščiai gyven­
+    tojai žino, iš ko jis atsiranda2.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-077
+
+- c-066
+  santrauka: 'Aisčiai vengte vengdavo misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikščiais aisčiai nuolat kovojo.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Po šitų pirmųjų nepasisekusių misijų, buvo dar nemaža kitų,
+    tačiau jų visų darbas niekais nueidavo. Aisčiai vengte vengdavo
+    misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių
+    kunigaikščiais aisčiai nuolat kovojo. Todėl dabar tie kunigaikš-
+    čiai pradėjo vartoti prieš aisčius smurto jėgą: Pamario ir lenkų
+    kunigaikščiai kariavo su Prūsų kiltimis; su jotvingais kariavo
+    lenkai ir rytų Bažnyčiai priklausanti Voluinės kunigaikštija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-078
+
+- c-067
+  santrauka: 'Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pietų Lietuvos prekių ėmė plaukti per Lenkiją, — kai su šia prasidėjo Lietuvos santykiai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Ypač svarbus
+    centras buvo Kaunas: mat, prekybai labai patogi jo vieta — dvie-
+    jų didelių upių santakas.
+    Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis,
+    didelė dalis pietų Lietuvos prekių ėmė plaukti per Lenkiją, — kai
+    su šia prasidėjo Lietuvos santykiai. Per Lenkiją ypač buvo pa-
+    togu gabentis reikalingų ginklų, kurių ordinas niekuomet nepra-
+    leisdavo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-079
+
+- c-068
+  santrauka: 'Liublino seimas seimų vieta paskyrė Varšuvą arba kurį nors kitą Lenkijos miestą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    **Seimų vieta.** Liublino seimas seimų vieta paskyrė Varšuvą
+    arba kurį nors kitą Lenkijos miestą. Tačiau lietuviai visą laiką
+
+
+    reikalavo, kad seimai būtų šaukiami ir Lietuvoje ar bent pa-
+    sienyje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-080
+
+- c-069
+  santrauka: 'Kitaip tuo tarpu buvo Lenkijoje.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Į seimą
+    bajorai atvykdavo ne kaip atstovai, siųsti tam tikro luomo ar
+    apylinkės, bet kaip paprasti asmens, todėl jie čia taikydavosi
+    prie didikų, nuo kurių jie dažnai priklausydavo ekonomiškai.
+    Kitaip tuo tarpu buvo Lenkijoje. Ten bajorija _(šlėkta)_ jau
+    turėjo plačias politines teises, savivaldybes ir savus teismus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-081
+
+- c-070
+  santrauka: 'Valdovas, sugrįžęs iš Prūsijos, gavo ži nią apie vidaus nesantarvę Lenkijoje ir ryžosi ten žy giuoti.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Valdovas, sugrįžęs iš Prūsijos, gavo ži­
+    nią apie vidaus nesantarvę Lenkijoje ir ryžosi ten žy­
+    giuoti. Sutelkęs karius prie
+    S u g rįžęs iš P rū sijos,
+    Gardino, jis subūrė nemažą
+    p a tra u k ia  į L en k iją
+    kariuomenę ir, netrukdomas
+    mozūrų, o gal šiems nieko
+    nežinant (šitai rodosi panašu į tiesą), nes kariuomenė
+    buvo vedama slaptais ir be-
+    1306 m e ta i
+    veik nepraeinamais keliais
+    per Mazovijos miškus, įsi­
+    veržė į Didžiosios Lenkijos žemes. Staigiu antpuoliu
+    užėmė Kališo ir Stavišino miestus; gyventojai būtų nė
+    nepajutę ateinant priešo, jeigu šis nebūtų pradėjęs
+    183
+
+    ## Puslapis 182
+
+    siautėti miestuose degindamas ir žudydamas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-082
+
+- c-071
+  santrauka: 'Kai karalius išvyko į Lenkiją, neilgai vis dėlto jie pajėgė tramdyti širdyje tūnantį įniršį: neilgai trukus galingai prasiveržė į vie šumą tai, ką iki šiol slėpė.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Daugeliui atrodė, jog žaizda ap­
+    skritai ne pagydyta, bet tik sutvarstyta.
+    Tiesą sakant, tik asmeniškas karaliaus autoritetas ga­
+    lėjo sulaikyti tuos žmones, kad jie neaptemdytų džiaugs­
+    mingų iškilmių naujais sąmyšiais. Kai karalius išvyko
+    į Lenkiją, neilgai vis dėlto jie pajėgė tramdyti širdyje
+    tūnantį įniršį: neilgai trukus galingai prasiveržė į vie­
+    šumą tai, ką iki šiol slėpė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-083
+
+- c-072
+  santrauka: 'Lietuvos pagrindinėmis užsienio prekybos partnerėmis tapo Vokietija (pirmoje vietoje) ir Lenkija (antroje vietoje).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau krizė privertė Lietuvos eksportą persiorientuoti iš
+    nestabilių Rytų rinkų į reiklesnes Vakarų rinkas. Lietuvos pagrindinėmis
+    užsienio prekybos partnerėmis tapo Vokietija (pirmoje vietoje) ir Lenkija
+    (antroje vietoje). Greitai persiorientavusi į Vakarus Lietuvos ekonomika
+    išvengė nuosmukio.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-084
+
+- c-073
+  santrauka: 'Gediminas pradėjo derinti karo veiksmus prieš kryžiuočius su Lenkija.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Šiam tikslui jis pasitelkė ne
+    tik karines, bet ir informacines priemones, savo laiškais popie-
+    žiui ir vakarų visuomenei gerindamas Lietuvos įvaizdį ir taip
+    sumažindamas Vakarų Europos krikščionių teikiamą paramą
+    kryžiuočiams. Gediminas pradėjo derinti karo veiksmus prieš
+    kryžiuočius su Lenkija. Pasiekimai vakaruose Gediminui leido
+    plėsti savo valstybę rytuose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-085
+
+- c-074
+  santrauka: 'Lenkijos teritorija 1772 m. Rusijai buvo naudingiausia išlaikyti esamą padėtį (kon- | ep sekasi ie troliuoti ATR jos formaliai nepanaikinant), tačiau spaudžiant 2 Prūsijai sutiko su pirmu ATR padalijimu.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tai suerzino kaimyni-
+    Ž i : nes monarchijas ir tapo pirmojo padalijimo pretekstu.
+    Lenkijos teritorija 1772 m. Rusijai buvo naudingiausia išlaikyti esamą padėtį (kon-
+    | ep sekasi ie troliuoti ATR jos formaliai nepanaikinant), tačiau spaudžiant
+
+    2 Prūsijai sutiko su pirmu ATR padalijimu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-086
+
+- c-075
+  santrauka: 'Paskui, sekančių metų vasarą bei rudenį4 I, atėjo Moldavijos vaivada Steponas, o su juo — turkų sultono didysis pa ša, vardu Malkočas 4 2 , vedinas daugeliu žmonių, ir ka riavo po Lenkijos žemę, Kamenecu pradedant, ir ligi Lvovo, ir net ligi Tamovo, už.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Tais pačiais metais Lietuvos žemę ištiko baisus ba­
+    das, ir paplito žmonėse prancūziškos ligos4 0 . Paskui,
+    sekančių metų vasarą bei rudenį4 I, atėjo Moldavijos
+    vaivada Steponas, o su juo — turkų sultono didysis pa­
+    ša, vardu Malkočas 4 2 , vedinas daugeliu žmonių, ir ka­
+    riavo po Lenkijos žemę, Kamenecu pradedant, ir ligi
+    Lvovo, ir net ligi Tamovo, už dešimties mylių nuo Kro­
+    kuvos 4 3 . Sugrįžo, padarę Lenkijos žemei daug žalos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-087
+
+## Citatos
+
+- id: c-24237
+  citata_originali: |
+    Užsienio politika buvo vienodinama tik paties
+    karaliaus, nes visi santykiai su užsieniu buvo atliekami jo vardu.
+    Tačiau su Lietuvos kaimynais visus reikalus atlikdavo Lietuvos
+    ministeriai, o su Lenkijos kaimynais — Lenkų ministeriai. Lie-
+    tuva daugiausia turėdavo"reikalų su sau artimiausia Maskva.
+  citata_rodoma: "Tačiau su Lietuvos kaimynais visus reikalus atlikdavo Lietuvos\nministeriai, o su Lenkijos kaimynais — Lenkų ministeriai. Lie-\ntuva daugiausia turėdavo\"reikalų su sau artimiausia Maskva."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177381
+
+- id: c-46570
+  citata_originali: |
+    Generaliniai seime-
+    liai. Sudarant Liublino
+    uniją, Lenkijoje, be sei-
+    melių, dar būdavo daro-
+    mi dviejų jos provincijų
+    — Didlenkių ir Mažlen-
+    kių — atskiri astovų su-
+    važiavimai, vadinami
+    generaliniais sei-
+    meliais. Mat, anks-
+    čiau Lenkija buvo susi-
+    dėjusi iš dviejų valsty-
+    bių, ir šito dvilypio savarankiškumo žymės dar tebebuvo ne-
+    išnykusios.
+  citata_rodoma: "Sudarant Liublino\nuniją, Lenkijoje, be sei-\nmelių, dar būdavo daro-\nmi dviejų jos provincijų\n— Didlenkių ir Mažlen-\nkių — atskiri astovų su-\nvažiavimai, vadinami\ngeneraliniais sei-\nmeliais. Mat, anks-\nčiau Lenkija buvo susi-\ndėjusi iš dviejų valsty-\nbių, ir šito dvilypio savarankiškumo žymės dar tebebuvo ne-\nišnykusios."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177411
+    - t-177353
+
+- id: c-46573
+  citata_originali: |
+    Tuo tarpu Lenkijoj laimėjo Za-
+    moiskis. Būdamas hetmonas, vadovaudamas Lenkijos kariuo-
+    menei, jis atvykstančio Maksimilijono neįleido į Krokuvą
+    Tuo būdu buvo karūnuotas atvykęs Zigmantas. Maksimilijonas
+    dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties
+    Byčina) pralaimėjo mūšį, pateko Zamoiskiui į nelaisvę ir buvo
+    priverstas atsisakyti nuo sosto.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177420
+
+- id: c-161210
+  citata_originali: |
+    Tačiau XVII–XVIII a. bent jau Vilnius
+    prilygo, o gal net pradėjo lenkti (Vilniaus kaip „Lietuvos Jeruzalės“ idėja)
+    tokius žydų kultūros centrus kaip Krokuva, Liublinas ar Lvovas. Taigi net
+    jei žydų, o ypač armėnų, vaidmuo LDK buvo menkesnis nei Lenkijoje,
+    pastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruo-
+    menių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.
+    Būtent iš LDK karaimų bendruomenės iškilo žymiausias, tolerancijos
+    tyrėjų dažnai minimas Isaakas ben Abrahamas iš Trakų (1525–1586).
+  citata_rodoma: "bent jau Vilnius \nprilygo, o gal net pradėjo lenkti (Vilniaus kaip „Lietuvos Jeruzalės“ idėja) \ntokius žydų kultūros centrus kaip Krokuva, Liublinas ar Lvovas. Taigi net \njei žydų, o ypač armėnų, vaidmuo LDK buvo menkesnis nei Lenkijoje, \npastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruo-\nmenių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK. \nBūtent iš LDK karaimų bendruomenės iškilo žymiausias, tolerancijos \ntyrėjų dažnai minimas Isaakas ben Abrahamas iš Trakų (1525–1586)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177377
+    - t-177356
+
+- id: c-161213
+  citata_originali: |
+    Kaimynystėje vyravo ūkiai iki 5 ha (Len-
+    kijoje tokie sudaro 72 proc., Latvijoje – 41 proc., Lietuvoje ir Estijoje šio
+    dydžio ūkių procentas panašus: 62 ir 64 proc.).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177403
+
+- id: c-161214
+  citata_originali: |
+    1390 metų sausio pradžioje visą savo šei­
+    mą iš Gardino išsiuntęs į Prūsiją, ruošdamasis atnaujinti anks­
+    tesnes sutartis su didžiuoju magistru Konradu Ciolneriu, dar
+    labiau įtvirtino Gardiną kaip savo buveinę, sustiprino ir kitų
+    savo pilių gynybą. Tų karingų vienuolių viršininkas, greitas
+    pasinaudoti kaimynų nesutarimais, tik ir laukdamas pro­
+    gos išardyti Lietuvos ir Lenkijos sąjungą, vieną komtūrą at­
+    siuntė į Gardiną, kur tasai sausio 19 dieną netoli nuo šios
+    pilies sudarė sutartį su Vytautu. Netrukus po to Ordino
+    maršalas, vedinas 40 000 kryžiuočių kariauna, įsibrovė į Lie­
+    tuvą ir, susijungęs su Vytauto pulkais, užėmė Kernavę ir
+    Maišiagalą, o prie pat sostinės su karių likučiais nusiaubė
+    aplinkines žemes.
+  citata_rodoma: "Tų karingų vienuolių viršininkas, greitas\npasinaudoti kaimynų nesutarimais, tik ir laukdamas pro­\ngos išardyti Lietuvos ir Lenkijos sąjungą, vieną komtūrą at­\nsiuntė į Gardiną, kur tasai sausio 19 dieną netoli nuo šios\npilies sudarė sutartį su Vytautu. Netrukus po to Ordino\nmaršalas, vedinas 40 000 kryžiuočių kariauna, įsibrovė į Lie­\ntuvą ir, susijungęs su Vytauto pulkais, užėmė Kernavę ir\nMaišiagalą, o prie pat sostinės su karių likučiais nusiaubė\naplinkines žemes."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177407
+    - t-177358
+
+- id: c-161215
+  citata_originali: |
+    Lietuviai atmetė
+    bolševikų klasinės diferenciacijos schemą – M. Sleževičius pabrėžė, kad
+    lietuviai yra arba valstiečiai, arba jų vaikai, kad bus dalijama lenkų dva-
+    rininkų, kurių vaikai nuėjo į Lenkijos kariuomenę, žemė, kad jos gaus
+    bežemiai ir mažažemiai – dėl to dauguma gyventojų parėmė vyriausybę.
+    Pabuvęs Lietuvos rankose vos porą mėnesių Vilnius, Lenkijai sumušus
+    Raudonąją armiją, nuo 1920 m. rudens atiteko Lenkijai. Nors 1920 m.
+    spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį
+    susitarimą dėl kariuomenių demarkacijos linijos, paliekant Vilnių Lietu-
+    vos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen. L. Že-
+    ligovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos
+    (Litwa środkowa) sudarymą.
+  citata_rodoma: "Nors 1920 m. \nspalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį \nsusitarimą dėl kariuomenių demarkacijos linijos, paliekant Vilnių Lietu-\nvos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen. L. Že-\nligovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos \n(Litwa środkowa) sudarymą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177409
+    - t-177386
+
+- id: c-161216
+  citata_originali: |
+    Jei laisva, tai Vytautas turi teisę užsidėt karaliaus karūną; jei
+    ne, tai jam ir toliau tenka pasilikti Lenkijos vasalu. Vytauto
+    karūnacija Lenkijai kėlė didelį pavojų^1 ), nes per ją Lietuva ga­
+    lėjo visiškai išsivaduoti iš Lenkijos, o Lenkija dėl to būtų nete­
+    kusi Europoj tos galybės ir reikšmės, kurią turėjo susijungusi
+    su Lietuva. Be to, tuo pat metu paaiškėjo ir lietuvių pažiūra į
+    uniją su Lenkija.
+  citata_rodoma: "Vytauto\nkarūnacija Lenkijai kėlė didelį pavojų^1 ), nes per ją Lietuva ga­\nlėjo visiškai išsivaduoti iš Lenkijos, o Lenkija dėl to būtų nete­\nkusi Europoj tos galybės ir reikšmės, kurią turėjo susijungusi\nsu Lietuva. Be to, tuo pat metu paaiškėjo ir lietuvių pažiūra į\nuniją su Lenkija."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177364
+
+- id: c-161217
+  citata_originali: |
+    Skaičiuojant nuo pirmųjų žmogaus pėdsakų
+    ir baigiant istoriniais laikais, kada žilųjų laikų priešistorinius pa­
+    minklus pakeičia rašytieji šaltiniai, priešistoriniai laikai Pabaltijyje
+    apima bent 15-8 tūkstančius metų.
+    Šiaurės Europą dengęs ledynas, kuris buvo apėmęs Pabaltijį,
+    šiaurės Lenkiją, vidurio Rusiją, ėmė trauktis iš Baltijos plotų. Jis
+    Pabaltijyje ir artimose srityse paliko dabartinį žemės reljefą (upes
+    ir ežerus, kalvas ir žemumas) su charakteringomis morenomis.
+  citata_rodoma: "Šiaurės Europą dengęs ledynas, kuris buvo apėmęs Pabaltijį,\nšiaurės Lenkiją, vidurio Rusiją, ėmė trauktis iš Baltijos plotų. Jis\nPabaltijyje ir artimose srityse paliko dabartinį žemės reljefą (upes\nir ežerus, kalvas ir žemumas) su charakteringomis morenomis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177338
+
+- id: c-161218
+  citata_originali: |
+    1862 m. Kongresinėje Lenkijoje ir Lietuvoje susikūrė „raudonųjų“ or-
+    ganizacijos sukilimui rengti. „Raudonieji“ – prodemokratiškai nusiteikęs
+    bajorų jaunimas, tikėjęs, kad pavyks įtraukti į sukilimą valstiečius, ku-
+    riuos, anot jų, turėjo nuvilti caro paskelbta baudžiavos naikinimo tvarka.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177388
+
+- id: c-161219
+  citata_originali: |
+    čio demografinė padėtis pasikeitė lietuvių naudai, lenkų Vilniuje liko
+    20  proc. Nepaisant nepriklausomybės pradžioje susovietintų Vilniaus
+    krašto lenkų komunistinių funkcionierių planų (Maskvos inspiruota
+    akcija) turėti savo, jų supratimu, teritorinę autonomiją (į ją turėjo įeiti
+    Vilniaus apskritis, apimanti lenkiškus Vilniaus ir Šalčininkų rajonus),
+    Lietuvos valdžiai terminuotai įvedus juose tiesioginį valdymą, santykiai
+    su Lenkija nepablogėjo – Varšuva suprato, kas ten suka reikalus. 1994 m.
+    balandžio 26 d. santykius vaisingai vainikavo po ilgų derybų Lietuvos ir
+    Lenkijos pasirašyta draugiškų santykių ir gero kaimyninio bendradarbia-
+    vimo sutartis.
+  citata_rodoma: "1994 m. \nbalandžio 26 d. santykius vaisingai vainikavo po ilgų derybų Lietuvos ir \nLenkijos pasirašyta draugiškų santykių ir gero kaimyninio bendradarbia-\nvimo sutartis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177382
+
+- id: c-161220
+  citata_originali: |
+    Kai 1815 m. Vienos kongreso nu-
+    tarimu iš didesnės dalies Varšuvos kunigaikštystės žemių, įskaitant Lietu-
+    vos Užnemunę, buvo sudaryta Lenkijos karalystė, vadinamoji Kongresinė
+    Lenkija, jos sostas paveldėjimo teise perduotas Rusijos valdančiajai di-
+    nastijai. Lietuvos bajorija reiškė pageidavimus prisijungti prie šio darinio,
+    tačiau Aleksandras I nesutiko.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177421
+
+- id: c-161221
+  citata_originali: |
+    Dviejų šimtų metų istorija parodė: per Vokiečių ordinus to padaryti nebu-
+    vo įmanoma. Artimiausia Lietuvos kaimynė buvo Lenkija ir Krėvos sutartis
+    atskleidė naują Lietuvos istorijos puslapį: Lietuva atsigręžė į Lenkiją.
+    1387 m.
+  citata_rodoma: "Artimiausia Lietuvos kaimynė buvo Lenkija ir Krėvos sutartis \natskleidė naują Lietuvos istorijos puslapį: Lietuva atsigręžė į Lenkiją.\n1387 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177399
+
+- id: c-161222
+  citata_originali: |
+    3. Apie prūsams duotas dovanas, kuriomis norėta numalšinti jų žiaurumą
+
+       Ir anksčiau, kai minėtoji Lenkijos žemė dar nebuvo taip smarkiai siaubiama, kai
+    dar šis tas joje buvo likę, tas pats kunigaikštis buvo taip didžiai [prūsų] prispaustas ir
+    įbaugintas, kad nė karto nėra jiems drįsęs atsisakyti, kai tik šie pas jį atsiųsdavo žygūnus,
+    reikalaudami duoti žirgų ir ryškiaspalvių drabužių. Kai nebeturėjo kuo jų reikalavimų
+    patenkinti, pasikvietė  į pokylį savo kilminguosius bei kitus drauge su jų žmonomis  ir,
+    šiems prie stalo smagiai bevalgant  ir begeriant, slapta įsakė perduoti minėtiesiems
+    netikėlių pasiuntiniams jų drabužius bei žirgus165.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177371
+
+- id: c-161223
+  citata_originali: |
+    O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai
+    kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vy-
+    riausybę jėga atsiimti Vilnių. Užpuolusi Lenkiją Vokietija spaudė Lietuvą
+    žygiuoti į Vilnių, žadėdama paramą aviacija, tankais ir artilerija. Tačiau
+    Lietuvos vyriausybė, lenkams pralaimint mūšius ir be vokiečių galėda-
+    ma užimti Vilnių, suvokė žygį į Vilnių ne kaip karinę, o kaip politinę
+    problemą ir tikino lenkus, kad nė vienas Lietuvos kareivis neperžengs
+    administracinės linijos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177367
+
+- id: c-161225
+  citata_originali: |
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    179
+    dėl tos kovos baigties jis neturi iliuzijų, tad pasisako už taikų sprendimą.
+    Kadangi Vilniaus pripažinimo Lenkijai ultimatumas nelietė, kovo 19 die-
+    ną Lietuva ultimatumą priėmė. Nors tūkstančiai karštakošių Lenkijos
+    miestų gatvėse ugningai skandavo „Marsz na Kowno“ („Marš į Kauną“),
+    oficialiąją Varšuvą rezultatai tenkino.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177384
+    - t-177376
+
+- id: c-161226
+  citata_originali: |
+    Miestui teko būti liudytoju dviejų prašmatnių vestuvių:
+    Ziemovito, Mazovijos jaunesniojo kunigaikščio, už kurio Jo­
+    gaila išleido savo seserį Aleksandrą, ir Jonušo, vyresniojo
+    Mazovijos kunigaikščio, kuris vedė Vytauto seserį Oną. Po
+    to karalius, spiriamas karalystės reikalų, greitai išskubėjo į
+    Lenkiją, Vilnių palikęs.
+    Išties trumpas, bet itin nesėkmingas buvo Vilniui Skir­
+    gailos valdymas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177419
+
+- id: c-161227
+  citata_originali: |
+    istorinės sostinės, atgavimas buvo šviesos spindulėlis niūrioje situacijoje,
+    o Lietuva tapo priklausoma nuo SSRS (liaudyje tuojau paplito taiklus po-
+    sakis „Vilnius mūsų, o mes rusų“). Vokietija kartojo nebeturinti regione
+    interesų, Anglija ir Prancūzija kariavo, o sutriuškinus Lenkiją jų įtaka re-
+    gione apskritai sumažėjo.
+    SSRS 1940 metų ultimatumas ir
+    sovietų okupacija
+    Įsileidusi sovietų bazes Lietuva palaidojo viltis būti išrink-
+    ta į Tautų Sąjungos Tarybą.
+  citata_rodoma: "Vokietija kartojo nebeturinti regione \ninteresų, Anglija ir Prancūzija kariavo, o sutriuškinus Lenkiją jų įtaka re-\ngione apskritai sumažėjo.\nSSRS 1940 metų ultimatumas ir  \nsovietų okupacija\nĮsileidusi sovietų bazes Lietuva palaidojo viltis būti išrink-\nta į Tautų Sąjungos Tarybą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177351
+
+- id: c-161228
+  citata_originali: |
+    Abi valstybės įsipareigojo grįs-
+    ti savo santykius tarpusavio pagarba, pasitikėjimu, lygiateisiškumu, gera
+    kaimynyste ir remti viena kitos integraciją į Vakarų valstybių šeimą. Ra-
+    tifikavus sutartį ir įsigaliojus jos nuostatoms, Lenkija oficialiai atsisakė
+    bet kokių pretenzijų į Vilniaus kraštą. Savo ruožtu Lietuva nustojo teisės
+    reikšti savo teritorines pretenzijas į Seinus, Punską, nors sena istorija, tau-
+    tinių mažumų klausimas kartais dar kelia karštas diskusijas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177340
+
+- id: c-161230
+  citata_originali: |
+    2. Apie Lenkijos žemės nuniokojimą
+
+      Kadangi minėtasis kunigaikštis pačioje pradžioje jiems nedavė deramo atkirčio  ir
+    nesiėmė prieš žiaurius jų išpuolius bei kėslus tinkamiausio vaisto, jie, darydamiesi vis
+    įžūlesni, keletą kartų užpuolė Lenkijos žemę su didelėmis jėgomis ir pridarė jai štai tokių
+    nuostolių: sudeginę namus, iškapojo suaugusius žmones kalaviju, o moteris bei vaikus
+    išsivarė į amžiną vergovę; jei kartkartėmis kuri nėščia moteris, turėdama gimdyti, negalėjo
+    paskui juos toliau eiti, ją čia pat žudė; jie plėšė iš motinų rankų mažus vaikus ir juos
+    dobė, maustydami ant tvorų baslių. Štai šitaip jie nusiaubė visą žemę, ir kunigaikščiui,
+    netekusiam visų jo valdomų įtvirtinimų bei pilių, bepaliko Vyslos pakrantėje viena pilis,
+    Plocku vadinama163.
+  citata_rodoma: "2. Apie Lenkijos žemės nuniokojimą\n\n  Kadangi minėtasis kunigaikštis pačioje pradžioje jiems nedavė deramo atkirčio  ir\nnesiėmė prieš žiaurius jų išpuolius bei kėslus tinkamiausio vaisto, jie, darydamiesi vis\nįžūlesni, keletą kartų užpuolė Lenkijos žemę su didelėmis jėgomis ir pridarė jai štai tokių\nnuostolių: sudeginę namus, iškapojo suaugusius žmones kalaviju, o moteris bei vaikus\nišsivarė į amžiną vergovę; jei kartkartėmis kuri nėščia moteris, turėdama gimdyti, negalėjo\npaskui juos toliau eiti, ją čia pat žudė; jie plėšė iš motinų rankų mažus vaikus ir juos\ndobė, maustydami ant tvorų baslių."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177413
+
+- id: c-161233
+  citata_originali: |
+    Valstybinė religija ar dešimt konfesijų?
+    Istorikai XVI–XVII a. Lenkijos religinę toleranciją yra api-
+    būdinę kaip neturinčią analogo Europoje, o Lenkiją – kaip didžiausią Eu-
+    ropoje tolerancijos uostą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177387
+
+- id: c-161236
+  citata_originali: |
+    Todėl tik 1934 m. rugsėjo
+    12 d. Ženevoje sudaryta Baltijos valstybių politinė ir diplomatinė sąjun-
+    ga – Baltijos antantė arba Baltijos santarvė, siekusi stiprinti ekonominį,
+    socialinį, teisinį ir administracinį bendradarbiavimą. Tačiau ji negaran-
+    tavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus
+    krašto, nors sustiprino regiono šalių bendradarbiavimą.
+    Po nesėkmingų tiesioginių derybų su Lenkija apsiribota proginiais di-
+    plomatiniais ryšiais, o į visus kitus tarptautinės politikos įvykius Lietuva
+    žiūrėjo tik per Vilniaus prizmę.
+  citata_rodoma: "Ženevoje sudaryta Baltijos valstybių politinė ir diplomatinė sąjun-\nga – Baltijos antantė arba Baltijos santarvė, siekusi stiprinti ekonominį, \nsocialinį, teisinį ir administracinį bendradarbiavimą. Tačiau ji negaran-\ntavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus \nkrašto, nors sustiprino regiono šalių bendradarbiavimą.\nPo nesėkmingų tiesioginių derybų su Lenkija apsiribota proginiais di-\nplomatiniais ryšiais, o į visus kitus tarptautinės politikos įvykius Lietuva \nžiūrėjo tik per Vilniaus prizmę."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177352
+    - t-177368
+
+- id: c-161237
+  citata_originali: |
+    Vytautas Didysis, kaipo žymus ir galingas Lietuvos val­
+    dovas, pasireiškė jau prieš Žalgirio mūšį. Per aštuonioliką sa­
+    vo laisvo valdymo metų jis buvo gerai įsistiprinęs Lietuvoje ir
+    paskleidęs savo įtaką tolimuose rusų kraštuose, Lenkijoje ir net
+    Aukso Ordoje. Bet Žalgirio mūšis, kuriame jis palaužė Vokie­
+    čių Ordino galybę, Vytauto valdžią dar labiau sutvirtino ir pra­
+    skynė kelią į tikruosius jo didybės laikus.
+  citata_rodoma: "Per aštuonioliką sa­\nvo laisvo valdymo metų jis buvo gerai įsistiprinęs Lietuvoje ir\npaskleidęs savo įtaką tolimuose rusų kraštuose, Lenkijoje ir net\nAukso Ordoje. Bet Žalgirio mūšis, kuriame jis palaužė Vokie­\nčių Ordino galybę, Vytauto valdžią dar labiau sutvirtino ir pra­\nskynė kelią į tikruosius jo didybės laikus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177373
+
+- id: c-161240
+  citata_originali: |
+    6. Apie tai, kaip popiežius patvirtino visa, kas aukščiau išdėstyta, ir paskatino brolius į
+                                      kovų
+
+      Kai Romos  kurija  išgirdo (1230) minėtojo kunigaikščio pagalbos šauksmą apie
+    Lenkijos žemių nuniokojimą, švenčiausiasias tėvas bei valdovas popiežius Grigalius IX,
+    užjausdamas kunigaikštį ir norėdamas užbėgti už akių būsimiems pavojams, patvirtino
+    viešpaties vardu susitarimą su Teutonų namų ordino broliais, teisėtai  ir išmintingai
+    sudarytą, o minėtuosius brolius įpareigojo, pažadėjęs nuodėmių atleidimą, keršyti už
+    kančias, viešpaties kentėtas ant kryžiaus, ir atgauti netikėlių užimtas, bet krikščionims
+    priklausomas žemes. Ragindamas juos į kovą, jis sakė (1 Mak 3.
+  citata_rodoma: "6. Apie tai, kaip popiežius patvirtino visa, kas aukščiau išdėstyta, ir paskatino brolius į\n                                  kovų\n\n  Kai Romos  kurija  išgirdo (1230) minėtojo kunigaikščio pagalbos šauksmą apie\nLenkijos žemių nuniokojimą, švenčiausiasias tėvas bei valdovas popiežius Grigalius IX,\nužjausdamas kunigaikštį ir norėdamas užbėgti už akių būsimiems pavojams, patvirtino\nviešpaties vardu susitarimą su Teutonų namų ordino broliais, teisėtai  ir išmintingai\nsudarytą, o minėtuosius brolius įpareigojo, pažadėjęs nuodėmių atleidimą, keršyti už\nkančias, viešpaties kentėtas ant kryžiaus, ir atgauti netikėlių užimtas, bet krikščionims\npriklausomas žemes."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177406
+
+- id: c-161241
+  citata_originali: |
+    Lietuvos jėgos
+    išseko ir vertė ieškoti sąjungininko. Išeitis buvo 1385 m. sudaryta Krėvos
+    sutartis su Lenkija, pagal kurią Lietuvos didysis kunigaikštis Jogaila tapo
+    Lenkijos karaliumi. Viena iš sutarties sąlygų buvo Lietuvos krikštas, kurį
+    Jogaila 1387 m., grįžęs iš Lenkijos, ir įgyvendino.
+  citata_rodoma: "Išeitis buvo 1385 m. sudaryta Krėvos \nsutartis su Lenkija, pagal kurią Lietuvos didysis kunigaikštis Jogaila tapo \nLenkijos karaliumi. Viena iš sutarties sąlygų buvo Lietuvos krikštas, kurį \nJogaila 1387 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177418
+
+- id: c-161243
+  citata_originali: |
+    Lietuviai pre-
+    tendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardi-
+    no gubernijų žemes, kurias ir Rusijos vyriausybės tradiciškai vadindavo
+    lietuviškomis. Nors dalį tų žemių derybų metų jau kontroliavo Lenkija,
+    A. Jofė sutiko Vilnių ir tas žemes, net Gardiną ir Lydą, kur lietuvių gyven-
+    ta išties mažai, priskirti Lietuvai. Lietuvai pripažinta teritorija buvo gana
+    artima 1795 m. teritorijai.
+  citata_rodoma: "Nors dalį tų žemių derybų metų jau kontroliavo Lenkija, \nA. Jofė sutiko Vilnių ir tas žemes, net Gardiną ir Lydą, kur lietuvių gyven-\nta išties mažai, priskirti Lietuvai. Lietuvai pripažinta teritorija buvo gana \nartima 1795 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177391
+
+- id: c-161245
+  citata_originali: |
+    Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos
+    valstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo
+    kaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno,
+    Suvalkų ir Gardino gubernijose, dalis Kuršo. Kadangi Lenkijos ir Lietu-
+    vos bendros valstybės pasekmės išliko, lenkiškai kalbantiems lietuviams
+    vis labiau linkstant į lenkų kultūrinę orbitą ir Lenkijos valstybingumo
+    idėją, nesiruošiant konvertuotis į lietuvybę, kristalizavosi Lietuvos ne-
+    priklausomybės siekis etnografiniu pagrindu. Lietuviakalbės Lietuvos
+    kūrėjai lenkiškai kalbantiesiems nesiūlė jokių papildomų privilegijų, o tik
+    teisę likti tautine mažuma, nes dauguma lietuvių vargiai būtų pritarę dva-
+    rininkų privilegijoms.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177408
+    - t-177341
+
+- id: c-161246
+  citata_originali: |
+    Lietuva juk ne
+    kartą buvo okupuota ir prisijungta Rytų kaimynės.
+    Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pa-
+    kraščiams – Vidurio Europai. Lietuvoje, kaip ir Vidurio Europos šalyse
+    (Lenkijoje, Čekijoje, Vengrijoje), skirtingai nei Rytų Europoje, nuo Vidu-
+    ramžių kūrėsi individualus valstiečių ūkis, o ne bendruomenė, formavo-
+    si bajorų pilietinė visuomenė, o ne rytietiškas centralizmas ar despotija,
+
+    Įvadas •  L I E T U VA  –  V I D U R I O  E U R O P O S  D A L I S
+    13
+    vyravo vakarietiška kultūrinė orientacija ir katalikybė, o ne stačiatikybė,
+    nors buvo surastas integracijos modelis, pagimdęs lokalinės bažnytinės
+    unijos idėją, o tai leidžia kalbėti apie Lietuvą kaip jungtį tarp lotyniško-
+    sios Vidurio ir bizantinės Rytų Europos.
+  citata_rodoma: "Lietuvoje, kaip ir Vidurio Europos šalyse \n(Lenkijoje, Čekijoje, Vengrijoje), skirtingai nei Rytų Europoje, nuo Vidu-\nramžių kūrėsi individualus valstiečių ūkis, o ne bendruomenė, formavo-\nsi bajorų pilietinė visuomenė, o ne rytietiškas centralizmas ar despotija,\n\nĮvadas •  L I E T U VA  –  V I D U R I O  E U R O P O S  D A L I S\n13\nvyravo vakarietiška kultūrinė orientacija ir katalikybė, o ne stačiatikybė, \nnors buvo surastas integracijos modelis, pagimdęs lokalinės bažnytinės \nunijos idėją, o tai leidžia kalbėti apie Lietuvą kaip jungtį tarp lotyniško-\nsios Vidurio ir bizantinės Rytų Europos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177400
+
+- id: c-161248
+  citata_originali: |
+    Pavadinimas tarsi reiškė, kad
+    tai – lygiateisė dviejų valstybių sąjunga. Iš tikrųjų šioje sąjungoje vyravo
+    Lenkija. Aukščiausia (šalia valdovo) valdžios institucija – bendras Sei-
+    mas, susidėjęs iš Senato ir Atstovų rūmų ir rinkęs karalių. Seime Lietuva
+    turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provincijai (jos
+    buvo dvi – Didžioji Lenkija su Poznane ir Mažoji Lenkija su Krokuva).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177362
+
+- id: c-161249
+  citata_originali: |
+    Algirdui nepavyko sutramdyti kylančios Maskvos jėgos, kuri
+    nuo XV amž. galo vis labiau iš rytų ims grasinti Lietuvai, pa­
+    našiai kaip XIV amž. jos egzistencijai pastoviai grasė vokiečių
+    ordinas. Lietuvos pietvakariuose buvo dar ir trečia valstybė —
+    Lenkija, su kuria išsivystė ilgametis konfliktas. Kaip kryžiuočių
+    ir Maskvos atvejais Vilniaus ir Trakų valdovai darniai bendradar­
+    biavo, taip trečiame fronte broliui Liubartui labiausiai talkino
+    Kęstutis.
+  citata_rodoma: "jos egzistencijai pastoviai grasė vokiečių\nordinas. Lietuvos pietvakariuose buvo dar ir trečia valstybė —\nLenkija, su kuria išsivystė ilgametis konfliktas. Kaip kryžiuočių\nir Maskvos atvejais Vilniaus ir Trakų valdovai darniai bendradar­\nbiavo, taip trečiame fronte broliui Liubartui labiausiai talkino\nKęstutis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177360
+
+- id: c-161251
+  citata_originali: |
+    Taigi, LLV Konstitucija buvo antroji pasaulyje ir pirmoji Europoje, keliais
+    mėnesiais aplenkusi Prancūzijos konstituciją.
+    Pasauliui, net kai kuriems lietuviams ligi šiol ši konstitucija yra tik
+    Lenkijos konstitucija, nors Lietuvos atstovai 1791 m. rudenį padarė es-
+    minę Spalio 20-osios pataisą, Lietuvai užtikrinančią pusę visų pareigybių
+    valstybės institucijose.
+    Apšvieta ateina į LDK
+    Nuolatiniai karai su turkais, ypač Maskvos didžiąja kuni-
+    gaikštyste (vėliau – Rusija) dėl rytinių teritorijų, bandymai išeiti į Baltijos
+    jūrą ir įsitvirtinti Livonijoje kėlė konfliktus tarp ATR ir Rusijos bei XVII a.
+    kariškai sustiprėjusios Švedijos.
+  citata_rodoma: "Pasauliui, net kai kuriems lietuviams ligi šiol ši konstitucija yra tik \nLenkijos konstitucija, nors Lietuvos atstovai 1791 m. rudenį padarė es-\nminę Spalio 20-osios pataisą, Lietuvai užtikrinančią pusę visų pareigybių \nvalstybės institucijose. \nApšvieta ateina į LDK\nNuolatiniai karai su turkais, ypač Maskvos didžiąja kuni-\ngaikštyste (vėliau – Rusija) dėl rytinių teritorijų, bandymai išeiti į Baltijos \njūrą ir įsitvirtinti Livonijoje kėlė konfliktus tarp ATR ir Rusijos bei XVII a."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177365
+
+- id: c-161252
+  citata_originali: |
+    Už tai Liudvikas jam turėjo iš popie­
+    žiaus išrūpinti karaliaus karūną. Be to, Vengrija su Lenkija turėjo
+    priversti ordiną grąžinti Lietuvai atimtas jos žemes ir ją ginti nuo
+    kryžiuočių ir totorių. Abi pusi tą susitarimą patvirtino priesaiko-
+
+    (^5) **VMPL, I, nr.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177397
+
+- id: c-161253
+  citata_originali: |
+    Žinoma, kad
+    1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, per
+    kurį nusiaubė Pskovą, o pakeliui turbūt ir Polocką. Vėliau lietuvių žygiai
+    padažnėjo – kasmet vyko po vieną–du žygius ir ne tik į rusų pusę, bet ir
+    į Lenkiją bei Livoniją.
+    Plėšiamieji žygiai rodė didėjant lietuvių jėgą, jie tokių žygių skaičiumi
+    pralenkė turtingus prūsus ar karingus kuršius.
+  citata_rodoma: "Vėliau lietuvių žygiai \npadažnėjo – kasmet vyko po vieną–du žygius ir ne tik į rusų pusę, bet ir \nį Lenkiją bei Livoniją.\nPlėšiamieji žygiai rodė didėjant lietuvių jėgą, jie tokių žygių skaičiumi \npralenkė turtingus prūsus ar karingus kuršius."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177348
+
+- id: c-161254
+  citata_originali: |
+    Lietuva krikštijosi katalikišku krikštu, o jos
+    dalis Žemaitija tapo paskutiniu Europoje
+    apsikrikštijimo regionu – šiais įvykiais bai-
+    gė formuotis krikščioniškoji Europa.
+    Lietuvos Didžioji Kunigaikštija dėl Vo-
+    kiečių ordino pavojaus pamažu stiprino
+    ryšius su Lenkija, o XV–XVI a. perėmė
+    krikščionišką Vakarų kultūrą. XVI a. vidu-
+    ryje buvo sudaryta unija su Lenkijos Karalyste ir susiformavo jungtinė
+    valstybė – Abiejų Tautų Respublika.
+  citata_rodoma: "Lietuvos Didžioji Kunigaikštija dėl Vo-\nkiečių ordino pavojaus pamažu stiprino \nryšius su Lenkija, o XV–XVI a. perėmė \nkrikščionišką Vakarų kultūrą. XVI a. vidu-\nryje buvo sudaryta unija su Lenkijos Karalyste ir susiformavo jungtinė \nvalstybė – Abiejų Tautų Respublika."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177402
+    - t-177396
+
+- id: c-161257
+  citata_originali: |
+    Teritoriniai klausimai taip pat buvo sprendžiami palankiai. Lietuviai pre-
+    tendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardi-
+    no gubernijų žemes, kurias ir Rusijos vyriausybės tradiciškai vadindavo
+    lietuviškomis. Nors dalį tų žemių derybų metų jau kontroliavo Lenkija,
+    A. Jofė sutiko Vilnių ir tas žemes, net Gardiną ir Lydą, kur lietuvių gyven-
+    ta išties mažai, priskirti Lietuvai.
+  citata_rodoma: "Lietuviai pre-\ntendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardi-\nno gubernijų žemes, kurias ir Rusijos vyriausybės tradiciškai vadindavo \nlietuviškomis. Nors dalį tų žemių derybų metų jau kontroliavo Lenkija, \nA. Jofė sutiko Vilnių ir tas žemes, net Gardiną ir Lydą, kur lietuvių gyven-\nta išties mažai, priskirti Lietuvai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177378
+
+- id: c-161259
+  citata_originali: |
+    Kad savo metu nuveikti žmo­
+    nių darbai iš mirtingųjų atminties neišnyktų, gilios išmin­
+    ties karaliai ir valdovai sugalvojo tokius aktus ir darbus raš­
+    tais ir patikimais liudininkų parašais įmažinti. Todėl mes,
+    Aleksandras, Dievo malone Lenkijos karalius, didysis Lie­
+    tuvos, Rusios, Prūsijos, Žemaitijos ir 1.1, kunigaikštis. Ponas
+    ir tėvonis.
+  citata_rodoma: "Todėl mes,\nAleksandras, Dievo malone Lenkijos karalius, didysis Lie­\ntuvos, Rusios, Prūsijos, Žemaitijos ir 1.1, kunigaikštis. Ponas\nir tėvonis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177375
+
+- id: c-161260
+  citata_originali: |
+    Tačiau erži­
+    lai, Sviežepo kumeliai, kumeliukai, įvairūs jaunikliai ir tie,
+    kur yra, dar prie motinų privalo likti savo vietose dėl kai­
+    menės pagausinimo. Taip pat tikėjimu ir garbe prisaikdina­
+    me visus mūsų pareigūnus, kurie tuos reikalus tvarkys kaip
+    mūsų tarnai, kai to teks imtis, kad ištikimai, kaip doriems
+    žmonėms pridera, saugotų tuos daiktus ir niekam kitam ne­
+    duotų, tik pagal šį paskyrimą ir mūsų valią. Ir ypač, kad jos
+    didenybė karalaitė Ona, pasilikusi čia, Lenkijoje, liktų su jai
+    skirtomis valdomis, žemėmis ir pinigų sumomis, nors pa­
+    sitikėdami savo pavaldinių, garbingų žmonių, dorumu, ne­
+    bijome dėl to, kad, mokant kraitį, ji galėtų netekti tų išmo­
+    kėjimų, sumų, dvarų ir valdų, to, ką davė Dievas.
+  citata_rodoma: "Taip pat tikėjimu ir garbe prisaikdina­\nme visus mūsų pareigūnus, kurie tuos reikalus tvarkys kaip \nmūsų tarnai, kai to teks imtis, kad ištikimai, kaip doriems \nžmonėms pridera, saugotų tuos daiktus ir niekam kitam ne­\nduotų, tik pagal šį paskyrimą ir mūsų valią. Ir ypač, kad jos \ndidenybė karalaitė Ona, pasilikusi čia, Lenkijoje, liktų su jai \nskirtomis valdomis, žemėmis ir pinigų sumomis, nors pa­\nsitikėdami savo pavaldinių, garbingų žmonių, dorumu, ne­\nbijome dėl to, kad, mokant kraitį, ji galėtų netekti tų išmo­\nkėjimų, sumų, dvarų ir valdų, to, ką davė Dievas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177394
+    - t-177405
+
+- id: c-161261
+  citata_originali: |
+    Lenkija visa tai jautė ir matė. Reikėjo iš paskutiniųjų gelbėtis,
+    kad unija pasiliktų nesuardyta.
+    Tą paaiškinus, vėl tenka grįžti prie tolimesnės Vytauto ka­
+    rūnacijos klausimo raidos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177346
+
+- id: c-161262
+  citata_originali: |
+    Todėl kunigaikštis pasiuntė pas
+    minėtąjį brolį magistrą Hermaną laiškus per įgaliotus pasiuntinius, kurie papasakojo ir
+    jam, ir jo broliams, dėl kurių priežasčių leidosi į kelią; tada magistras, pasitaręs visais
+    klausimais su broliais ir apsvarstęs su jais šį keblų reikalą, davėsi galop kunigaikščio
+    įkalbamas, patartas popiežiaus, imperatoriaus Fridricho II  ir Vokietijos kunigaikščių,
+    kurie pasižadėjo, esant reikalui, jam padėti patarimais bei suteikti pagalbą. Taigi pas
+    Lenkijos kunigaikštį magistras pasiuntė brolį Konradą iš Landsbergo ir dar vieną savo
+    Ordino brolį pasidairyti Kulmo žemėje ir pažiūrėti, ar pasiuntiniai iš tikrųjų atvykę jo noru.
+    Kai šie vyko į Lenkiją, kunigaikštis buvo kažkur toli iškeliavęs, o į Lenkijos žemę įsibrovė
+    prūsų kariuomenė  ir ją nuniokojo gaisrais  ir grobstymais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177361
+
+- id: c-161263
+  citata_originali: |
+    Jei dar pridėsime apsikarūnavusio Vytauto ir visiškai nu­
+    trauktų unijos santykių perspektyvas, tai toks Lenkijos politikų
+    susinervavimas ir susirūpinimas mums nebus tiek nuostabus.
+    Lenkija visa tai jautė ir matė. Reikėjo iš paskutiniųjų gelbėtis,
+    kad unija pasiliktų nesuardyta.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177363
+
+- id: c-161265
+  citata_originali: |
+    Tačiau kolektyviza-
+    cija Lietuvoje strigo dėl partizaninio karo. Pagal naują tvarką į valstybinį
+    žemės fondą buvo paimta likusi be šeimininkų, taip pat pasitraukusiųjų
+    į Vakarus ar repatrijavusiųjų į Lenkiją žemė, į žemės fondą taip pat per-
+    duota konfiskuota partizanų ir tremtinių žemė. 1948 m. pavasarį kolek-
+    tyvinių ūkių organizavimas Lietuvos kaime sukėlė didelį pasipriešinimą,
+    todėl pirmiausia imtasi priemonių prieš pasiturinčius valstiečius – jiems
+    palikta iki 30 ha žemės, jie vadinami „buožėmis“, taip pat tuos, kurie nau-
+  citata_rodoma: "Tačiau kolektyviza-\ncija Lietuvoje strigo dėl partizaninio karo. Pagal naują tvarką į valstybinį \nžemės fondą buvo paimta likusi be šeimininkų, taip pat pasitraukusiųjų \nį Vakarus ar repatrijavusiųjų į Lenkiją žemė, į žemės fondą taip pat per-\nduota konfiskuota partizanų ir tremtinių žemė. 1948 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177415
+
+- id: c-161267
+  citata_originali: |
+    Kai visa tai vyko, karalius, matydamas
+    pavojų keliančias Vytauto užmačias, kita vertus, negalėda­
+    mas pasikliauti ir Skirgailos pasiruošimu apsiginti, mat jis,
+    vos tik gavęs valdžią, aplaidumu ir žiauriu elgesiu didesnę
+    pusę Lietuvos prieš save nuteikė, išsiuntė į Vilnių Karūnos
+    pakanclerį Mikalojų Moskoževskį, naujais Lenkijos pulkais
+    vediną, ir liepė įsikurti Vilniaus pilyse. Pats tuo metu už­
+    ėmęs Vytauto valdžioje buvusias pilis: Lucką, Brastą ir Su­
+    ražą, pagaliau kovo mėnesį, Skirgailos padedamas, štur­
+    mu užėmė ano valdos sostinę Gardiną ir šiaip taip
+    patvarkęs tolesnę Lietuvos gynybą, pargrįžo į Lenkiją. Tačiau
+    Vilniaus diecezijos senųjų turto do- Vilnensis.
+  citata_rodoma: "Pats tuo metu už­\nėmęs Vytauto valdžioje buvusias pilis: Lucką, Brastą ir Su­\nražą, pagaliau kovo mėnesį, Skirgailos padedamas, štur­\nmu užėmė ano valdos sostinę Gardiną ir šiaip taip\npatvarkęs tolesnę Lietuvos gynybą, pargrįžo į Lenkiją. Tačiau\nVilniaus diecezijos senųjų turto do- Vilnensis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177345
+
+- id: c-161269
+  citata_originali: |
+    Epochos pobūdį lėmė Lietuvos suartėjimas su Lenkija. Su nedidelėmis
+    išimtimis Lietuva, valdyta tų pačių valdovų (personalinė unija) kaip ir
+    Lenkija, nors valstybės buvo atskiros. Lenkijos ir Lietuvos sostuose sė-
+    dėjo lietuviškos kilmės Jogailaičių dinastija (iki 1572 m.), XV a. pabaigo-
+    je–XVI a. pradžioje užėmusi taip pat Čekijos ir Vengrijos sostus.
+  citata_rodoma: "Epochos pobūdį lėmė Lietuvos suartėjimas su Lenkija. Su nedidelėmis \nišimtimis Lietuva, valdyta tų pačių valdovų (personalinė unija) kaip ir \nLenkija, nors valstybės buvo atskiros. Lenkijos ir Lietuvos sostuose sė-\ndėjo lietuviškos kilmės Jogailaičių dinastija (iki 1572 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177379
+
+- id: c-161270
+  citata_originali: |
+    Tačiau viską nulė-
+    mė dar viena aplinkybė – didžiausią įtaką Lietuvos kultūrai darė lenkiškoji
+    civilizacija. Jos poveikis reiškėsi įvairiais pavidalais: bažnytinės sistemos
+    organizavimu, studijomis Krokuvos universitete, administracinės sistemos
+    perėmimu, ūkio reforma. Lenkija buvo LDK mokytoja.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177343
+
+- id: c-161271
+  citata_originali: |
+    Nuo 1387 m.
+    LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m. buvo tik
+
+    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
+    71
+    trys stačiatikių vyskupijos, o LDK – šešios, ir visos jos buvo pavaldžios tai
+    pačiai metropolijai Kijeve, o metropolitas reziduodavo ne tik Kijeve, bet ir
+    Naugarduke bei Vilniuje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177404
+
+- id: c-161274
+  citata_originali: |
+    Karalystės Seimas paskelbė pašalinąs Nikolajų I iš Lenkijos karaliaus
+    sosto ir perduodąs suverenitetą tautai. Tai reiškė Lenkijos karalystės ne-
+    priklausomybės paskelbimą ir karo su Rusija pradžią. Lietuvoje sukilimas
+    prasidėjo spontaniškai 1831 m. pavasariop Žemaitijoje dėl valdžios pa-
+    skelbto rekrutų ėmimo.
+  citata_rodoma: "Karalystės Seimas paskelbė pašalinąs Nikolajų I iš Lenkijos karaliaus \nsosto ir perduodąs suverenitetą tautai. Tai reiškė Lenkijos karalystės ne-\npriklausomybės paskelbimą ir karo su Rusija pradžią. Lietuvoje sukilimas \nprasidėjo spontaniškai 1831 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177339
+
+- id: c-161276
+  citata_originali: |
+    Lenkai, matydami Lietuvos vykdomą lenkų dvarininkų ekonominės
+    jėgos silpninimą (nepriklausomybės kare daugiausia lenkų dvaruose
+    vykdytos arklių, pašarų, maisto rekvizicijos) ir žemės valdų apkarpymą,
+    nebelaukė. 1922 m. sausį jie surengė rinkimus Vilniaus krašte – Viduri-
+    nėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos, o Lietuva liko „nei
+    karo, nei taikos“ situacijoje. Ar Lietuva nepralaimėjo neišnaudojusi visų
+    federacijos idėjos su Lenkija galimybių, kad Rytų Europoje nebuvo įdieg-
+    tas Šveicarijoje pasiteisinęs kantonų principas?
+  citata_rodoma: "1922 m. sausį jie surengė rinkimus Vilniaus krašte – Viduri-\nnėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos, o Lietuva liko „nei \nkaro, nei taikos“ situacijoje. Ar Lietuva nepralaimėjo neišnaudojusi visų \nfederacijos idėjos su Lenkija galimybių, kad Rytų Europoje nebuvo įdieg-\ntas Šveicarijoje pasiteisinęs kantonų principas?"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177355
+
+- id: c-161277
+  citata_originali: |
+    Ko gero, tai buvo
+    / m x Lo, nemalonus netikėtumas visoms ATR kon-
+    4 ; \ pee o Z a kuravusioms partijoms, net ir karalius
+    10 Klaipėdą Ožka Biržai ĮDaugpilis/ 2 Stanislovas Augustas Poniatovskis, rėmęsis
+    J Raseiniai K dai Bresauj) angeles a Rusijos karine galia, buvo sukrėstas tokio
+    f L 30 [e] įvykių eigos posūkio.
+    Be are US k. Didelė Lietuvos ir Lenkijos tautų ne-
+    LIETUVA Pe laimė vertė jy visuomenes, dalyvaujant net
+
+    =
+    a
+    o
+    60
+    =
+    I
+    o
+    o
+    m
+    =
+
+    X Geninias 6 M ir karaliui, bandyti gelbėti valstybę. Tai pa-
+    Balstogel a wx o augi as B skatino imtis pertvarkų, kurios peraugo į
+    OL Slanimas 5-MI8S 5 Nesvyžius 2 Ketverių metų seimo veiklą, kuris priėmė
+
+    Plockas |“ Belska o R as , i
+    Q KS o; Sluckas 2 garsiąją, valstybės gyvybingumą turėjusią
+    padidinti 1791 m. gegužės 3 d. konstituciją.
+  citata_rodoma: "Didelė Lietuvos ir Lenkijos tautų ne-\nLIETUVA Pe laimė vertė jy visuomenes, dalyvaujant net\n\n=\na\no\n60\n=\nI\no\no\nm\n=\n\nX Geninias 6 M ir karaliui, bandyti gelbėti valstybę. Tai pa-\nBalstogel a wx o augi as B skatino imtis pertvarkų, kurios peraugo į\nOL Slanimas 5-MI8S 5 Nesvyžius 2 Ketverių metų seimo veiklą, kuris priėmė\n\nPlockas |“ Belska o R as , i\nQ KS o; Sluckas 2 garsiąją, valstybės gyvybingumą turėjusią\npadidinti 1791 m. gegužės 3 d. konstituciją."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177414
+
+- id: c-161279
+  citata_originali: |
+    Sudarydamas Krėvos sutartį, Jogaila, kaip ankstyvasis monarchas, visą
+    valstybę laikė savo nuosavybe ir manė galįs elgtis su Lietuva kaip patinka.
+    Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teig-
+    ti, kad sutartį sudarė Lenkijos Karalystė ir Lietuvos didysis kunigaikštis.
+    Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės
+    taryba ir jau buvo pradėjęs veikti bajorų seimas), Lietuvoje, be didžiojo
+    kunigaikščio, kitos institucijos, kuri galėtų išreikšti Lietuvos valstybės va-
+    lią, nebūta.
+  citata_rodoma: "Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teig-\nti, kad sutartį sudarė Lenkijos Karalystė ir Lietuvos didysis kunigaikštis. \nKitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės \ntaryba ir jau buvo pradėjęs veikti bajorų seimas), Lietuvoje, be didžiojo \nkunigaikščio, kitos institucijos, kuri galėtų išreikšti Lietuvos valstybės va-\nlią, nebūta."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177410
+    - t-177393
+
+- id: c-161280
+  citata_originali: |
+    Byla traukėsi 8 metus
+    (1592—1600 m.), ir pagaliau Vilniaus vyskupu buvo paskirtas
+    lietuvis Voina. Tokių atsitikimų buvo ir daugiau. Lietuvos
+    bajorija jautėsi su Lenkijos bajorija sudaranti vieną luomą, vie-
+    ną bajorų visuomenę, arba, kaip tada sakydavo, vieną „tautą",
+    tačiau Lietuva rūpinosi ji pati: pati ją gynė nuo priešų, pati,
+    kartais net nesiklausdama lenkų, darė atskiras sutartis, 1655 m.,
+    kaip matėm, buvo net pasiryžusi visiškai skirtis su Lenkija.
+  citata_rodoma: "Tokių atsitikimų buvo ir daugiau. Lietuvos\nbajorija jautėsi su Lenkijos bajorija sudaranti vieną luomą, vie-\nną bajorų visuomenę, arba, kaip tada sakydavo, vieną „tautą\",\ntačiau Lietuva rūpinosi ji pati: pati ją gynė nuo priešų, pati,\nkartais net nesiklausdama lenkų, darė atskiras sutartis, 1655 m.,\nkaip matėm, buvo net pasiryžusi visiškai skirtis su Lenkija."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177401
+
+- id: c-161281
+  citata_originali: |
+    27. Apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­
+                                  lio, ir Henriko, Vroclavo kunigaikščio, žūtį
+
+       Tais pačiais metais rytų šalyse gyvenusi totorių tauta įsiveržė  į Vengriją ir Lenkiją,
+    kur mūšyje nukovė Kolomaną, Vengrijos karaliaus brolį, Henriką, Lenkijos kunigaikštį, ir
+    galybę kitų, kuriuos ten stengė užtikti, o tas šalis pavertė dykromis, todėl daug žmonių
+    vieno kalno dulkėmis maitinosi nelyginant miltais (Mart. p. 399).
+  citata_rodoma: "Apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­\n                              lio, ir Henriko, Vroclavo kunigaikščio, žūtį\n\n   Tais pačiais metais rytų šalyse gyvenusi totorių tauta įsiveržė  į Vengriją ir Lenkiją,\nkur mūšyje nukovė Kolomaną, Vengrijos karaliaus brolį, Henriką, Lenkijos kunigaikštį, ir\ngalybę kitų, kuriuos ten stengė užtikti, o tas šalis pavertė dykromis, todėl daug žmonių\nvieno kalno dulkėmis maitinosi nelyginant miltais (Mart. p. 399)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177389
+
+- id: c-161282
+  citata_originali: |
+    22. Apie Vengrijos ir Lenkijos nusiaubimą
+
+       Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol. 21,34).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177344
+
+- id: c-161284
+  citata_originali: |
+    Visiems bendrai ir kiekvie­
+    nam atskirai, kam tiktai reikės žinoti, pranešame, kad mes,
+    pasigailėję mūsų Lietuvos Didžiosios Kunigaikštystės pa­
+    valdinių dėl nuostolio, kurį savo Lietuvos monetų kalyklo­
+    je vietinėse mūsų Karalystės valstybėse iki šio laiko turėjo,
+    mūsų Lietuvos ir Lenkijos ponų tarybų patarimu, įsakėme
+    paskelbti, kaip visiems mūsų Karalystės pavaldiniams ben­
+    drai įsakome, kad lietuvišką monetą, su mūsų ir mūsų pro­
+    tėvių tikslais nukaldintą jų nuosava ir senąja kaina, tai yra,
+    du lietuvišku grašiu, imtų už pustrečio lenkiško grašio, ta­
+    čiau dėl to šį perspėjimą ir sąlygą skelbiame visiems, kad,
+    kai šiame seime, pagal bendras Lenkijos karalystės ir Lietu­
+    vos Didžiosios Kunigaikštystės privilegijas patvirtinsime,
+    vienodai nauja kalykla kaldintų, tuomet tik ta viena kalykla
+    pinigus kals, visas, kad ir kokios būtų lietuviškos monetos,
+    nukaldintos penkiasdešimtais aštuntais iki šešiasdešimt
+    penktųjų, dėl jos ir turės veikti šis ediktas, bus laisvai lei­
+    džiama mūsų kalyklai pagal tą pačią kainą pakeisti, tą mo­
+    netą jau mūsų kalėjai pagal tą aprašytą paprotį imti ir naują
+    už ją duoti privalės, kaip visa tai per konstituciją šio seimo
+    gale plačiau atlikta ir garantuota. O grašius, Tikocine len­
+    kiškų pavidalu nukaldintus, įsakome taip pat, kad kaip
+    Lenkijoje, taip ir Lietuvoje, kad būtų imami pagal lenkiškų
+    grašių kainą. Šiuo mūsų įsakymu norime, kad visi bendrai
+    445
+
+    ## Puslapis 462
+
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    mūsų pavaldiniai kaip Lenkijoje, taip ir Lietuvoje, ir kitose
+    mūsų karalystės valdose privalėtų išlaikyti dešimties len­
+    kiškų grivinų baudą ir ši bauda į bet kurio mūsų valdų mies­
+    to valdybą, tiek pilies, tiek miesto, būtų atnešta ir paduota.
+  citata_rodoma: "O grašius, Tikocine len­\nkiškų pavidalu nukaldintus, įsakome taip pat, kad kaip\nLenkijoje, taip ir Lietuvoje, kad būtų imami pagal lenkiškų\ngrašių kainą. Šiuo mūsų įsakymu norime, kad visi bendrai\n445\n\n## Puslapis 462\n\nVILNIAUS MIESTO ISTORIJA II TOMAS\nmūsų pavaldiniai kaip Lenkijoje, taip ir Lietuvoje, ir kitose\nmūsų karalystės valdose privalėtų išlaikyti dešimties len­\nkiškų grivinų baudą ir ši bauda į bet kurio mūsų valdų mies­\nto valdybą, tiek pilies, tiek miesto, būtų atnešta ir paduota."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177390
+
+- id: c-161285
+  citata_originali: |
+    Bo-
+    leslovas jo misi-
+    joms pažadėjo pa-
+    ramos. Pagaliau
+    1008 m. gale jis iš-
+    vyko iš Lenkijos
+    aisčių krikštyti net
+    su 18 palydovų.
+    Bet ir jo misijos
+    nebuvo sėkmingos.
+  citata_rodoma: "Pagaliau\n1008 m. gale jis iš-\nvyko iš Lenkijos\naisčių krikštyti net\nsu 18 palydovų.\nBet ir jo misijos\nnebuvo sėkmingos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177359
+
+- id: c-161286
+  citata_originali: |
+    Lietuviai
+    pareiškė, jog nesutinką
+    nei su vieno nei su antro
+    išrinkimu, ir išvažiavo namo. Tuo tarpu Lenkijoj laimėjo Za-
+    moiskis. Būdamas hetmonas, vadovaudamas Lenkijos kariuo-
+    menei, jis atvykstančio Maksimilijono neįleido į Krokuvą
+    Tuo būdu buvo karūnuotas atvykęs Zigmantas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177383
+
+- id: c-161287
+  citata_originali: |
+    Pagaliau Antakalnio vardas
+    pirm tikriausiai buvo duotas tik tai
+    vietovei, kurioje stovėjo pagonių šven­
+    tykla, o ne dabartiniam priemiesčiui,
+    109
+
+    ## Puslapis 126
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    Aplink pilį spietėsi miestas: medinės trobos, kurių didžiu­
+    ma aprūkusios nuo dūmų, nedailiai suręstos ir be jokios tvar­
+    kos palei klampius kelius išbarstytos. Visi tie pastatai, at­
+    skirti žiogriais, arba statinių tvoromis, su tarp jų įsiterpusiais
+    daržų ir pievų plotais, labiau panėšėjo į kelis didžiulius kai­
+    mus, besišliejančius prie pilių, negu į tokius miestus, kokie
+    jau XIV amžiuje puošė Lenkiją. Lietuvai, ilgai nuo krikščio­
+    niškojo pasaulio civilizacijos užsisklendusiai ir kryžiuočių
+    antpuolių tolydžio alinamai, dar nepažįstami buvo tie goti­
+    kos rūmai, apsupti aukštų sienų, iš kurių susidarė tiesios,
+    nors ir siauros Krokuvos ar Liublino gatvės, nei tokie, tam
+    laikui neįprastai dideli pastatai, kaip Krokuvos Gelumbės
+    prekybos namai, statydinti Kazimiero Didžiojo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177350
+    - t-177349
+
+- id: c-161288
+  citata_originali: |
+    Istorikai XVI–XVII a. Lenkijos religinę toleranciją yra api-
+    būdinę kaip neturinčią analogo Europoje, o Lenkiją – kaip didžiausią Eu-
+    ropoje tolerancijos uostą. Daugiakultūriškumas ir daugiakonfesiškumas
+    kartais laikomi didžiausiu Lenkijos įnašu į Europos kultūrą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-177342
+
+- id: c-166436
+  citata_originali: |
+    Švitrigaila ne tik
+    kad nenutraukė ryšių su savo
+    sąjungininku ordinu, bet dar pa-
+    darė naują sąjungą su Maskva ir
+    Tvere. Tad Zigmantui nebeliko
+    kito sąjungininko, kaip tik Len-
+    kija, kuri jam padėjo net ruo-
+    šiant sąmokslą. Jogailos atstovai
+    tuojau po perversmo atvyko į
+    Gardiną, ir Zigmantas sudarė su
+    jais sutartį, kuria pripažino savo
+    viršininku Lenkų karalių Jogai-
+    lą; mirdamas jis žadėjo Lietuvą
+    palikti Jogailai arba jo įpėdi-
+    niams.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183044
+
+- id: c-167005
+  citata_originali: |
+    L I E T U V O S  I S T O R I J A
+    104
+    1830–1831 metų sukilimas
+    Aleksandras I nutarė nekeršyti ištikimybės priesaiką jam
+    sulaužiusiai Lietuvos bajorijai ir viskas liko kaip buvę išskyrus tai, kad
+    milžiniškų kariuomenių žygiavimas per kraštą du kartus per pusę metų
+    turėjo skaudžių pasekmių ekonomikai. Kai 1815 m. Vienos kongreso nu-
+    tarimu iš didesnės dalies Varšuvos kunigaikštystės žemių, įskaitant Lietu-
+    vos Užnemunę, buvo sudaryta Lenkijos karalystė, vadinamoji Kongresinė
+    Lenkija, jos sostas paveldėjimo teise perduotas Rusijos valdančiajai di-
+    nastijai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183613
+
+- id: c-167006
+  citata_originali: |
+    Netrukus Varšuvoje ir Vilniuje
+    kilo patriotinių manifestacijų banga, nuslūgusi tik po to, kai vasaros pa-
+    baigoje caro valdžia įvedė karo padėtį.
+    1862 m. Kongresinėje Lenkijoje ir Lietuvoje susikūrė „raudonųjų“ or-
+    ganizacijos sukilimui rengti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183614
+
+- id: c-167242
+  citata_originali: |
+    Karalius Steponas
+
+    ## Puslapis 456
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    SĄRAŠAS VISŲ NUOSTOLIŲ LIETUVOS MONETAS
+    KEIČIANT J LENKIŠKUS PINIGUS
+    1570 METAIS
+    (Iš Dogelio rankraščių buv. Vilniaus universiteto bibliotekoje)
+    Pirmiausia už 3&1 talerį, už kurį Lenkijoje moka po 30
+    grašių, juos ponas Motiejus Kaviečnijskis atsiuntė pro 1  Junii
+    [birželio 1-ai] į Varšuvą, Lietuvoje už juos mokėdamas, Jo
+    Karališkosios Didenybės paliepimu, po 25 lietuviškus gra­
+    šius. Jiems išleista 15 florinų 26 grašiai ir 2 ą1g.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183857
+    - t-177395
+
+- id: c-168363
+  citata_originali: |
+    Apiplėšęs Dorpatą, išsivarė į nelaisvę miesto bei
+    apygardos valdytoją Dorpato vyskupą ir visą dvasinin­
+    kų kolegiją. Kai ši žinia pasiekė Lenkiją, Augustas, sku­
+    biai pasiuntęs žygūną, paragino savo legatus pasikal­
+    bėti su kunigaikščiu Ivanu ir dėl Livonijos reikalų. Tuo
+    tarpu priešas, apsvaigęs nuo šitokių laimėjimų ir pra­
+    radęs saiko jausmą, nei pats paisė teisingumo, nei lega­
+    tams leido ką siūlyti dėl Livonijos ir net dėl taikos su
+    Lietuva.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185002
+
+- id: c-171624
+  citata_originali: |
+    Pasakiau „stebuklingu būdu“, kadangi apaš­
+    tališkosios sostinės didžiausios pastangos, tiekos šventųjų kan­
+    kinių triūsas ir kraujas, beveik du šimtus metų trukę vokiečių
+    riterių karai negalėjo pasiekti to, ką pasiekė silpno žmogaus
+    patrauklumas. Lenkijos karalienės Jadvygos ranka, paduota
+    Vladislovui, sugebėjo tai įgyvendinti per vieną dieną. Auto­
+    rius sumini karaliaus Vladislovo Jogailos pagyrimus, išvardija
+    jo brolius, kalba apie triumfuojančią Lietuvoje Kristaus baž­
+    nyčią, giria apaštališkuosius karalius ir jo brolių darbus, prie
+    didžiausių privalumų priskiria jų nuolankumą bažnyčiai, kuri
+    jų rūpesčiu į savo prieglobstį gavo 5 635 500 atverstų stabmel­
+    džių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188735
+
+- id: c-171625
+  citata_originali: |
+    Vienas kitas aiškiai lietuviškas her­
+    bas įėjo į Lenkijos herbynus, tikriausiai atsikėlus šeimoms, ku­
+    rios tais herbais naudojosi. Tik 1413 metais, po Lietuvos uni­
+    jos su Lenkija Horodlės seime, abiejų tautų susijungimo žen-
+    klan Lenkijos bajorai suteikė savo herbus lietuvių bajorams ir
+    įvesta herbų vienovė.
+    Bet mes turime kalbėti apie kai kuriuos ikiunijinių laikų
+    herbus, mūsų pastebėtus senose Lietuvos bajorų sutartyse.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188736
+
+- id: c-175457
+  citata_originali: |
+    Jūra dažnai išmeta gintarą, prikibusį prie
+    supuvusių šių medžių skiedrų, ir kartu patvirtina Plini-
+    jaus užrašytą Kapadokijos karaliaus Archelajo pasakoji­
+    mą, kad iš Indijos atvežama gintaro žaliavos, dar neat­
+    skirtos nuo medžių žievės1.
+    152
+    Pavienių gintaro gabalų randama beveik visur: Lie­
+    tuvoje, Lenkijoje, Silezijoje, Čekijoje, Halės žemės ang­
+    lių kasyklose, taip pat Danijos pakrantėse, nemažai ga­
+    balų išmesdavo Švedijos ežeras Maeleras. Kai kuriose Ja­
+    ponijos salose turėtų būti gintaro, nes tenykščiai gyven­
+    tojai žino, iš ko jis atsiranda2.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192687
+
+- id: c-175945
+  citata_originali: |
+    Po šitų pirmųjų nepasisekusių misijų, buvo dar nemaža kitų,
+    tačiau jų visų darbas niekais nueidavo. Aisčiai vengte vengdavo
+    misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių
+    kunigaikščiais aisčiai nuolat kovojo. Todėl dabar tie kunigaikš-
+    čiai pradėjo vartoti prieš aisčius smurto jėgą: Pamario ir lenkų
+    kunigaikščiai kariavo su Prūsų kiltimis; su jotvingais kariavo
+    lenkai ir rytų Bažnyčiai priklausanti Voluinės kunigaikštija.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193201
+
+- id: c-175946
+  citata_originali: |
+    Ypač svarbus
+    centras buvo Kaunas: mat, prekybai labai patogi jo vieta — dvie-
+    jų didelių upių santakas.
+    Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis,
+    didelė dalis pietų Lietuvos prekių ėmė plaukti per Lenkiją, — kai
+    su šia prasidėjo Lietuvos santykiai. Per Lenkiją ypač buvo pa-
+    togu gabentis reikalingų ginklų, kurių ordinas niekuomet nepra-
+    leisdavo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193202
+
+- id: c-175947
+  citata_originali: |
+    **Seimų vieta.** Liublino seimas seimų vieta paskyrė Varšuvą
+    arba kurį nors kitą Lenkijos miestą. Tačiau lietuviai visą laiką
+
+
+    reikalavo, kad seimai būtų šaukiami ir Lietuvoje ar bent pa-
+    sienyje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193203
+
+- id: c-175948
+  citata_originali: |
+    Į seimą
+    bajorai atvykdavo ne kaip atstovai, siųsti tam tikro luomo ar
+    apylinkės, bet kaip paprasti asmens, todėl jie čia taikydavosi
+    prie didikų, nuo kurių jie dažnai priklausydavo ekonomiškai.
+    Kitaip tuo tarpu buvo Lenkijoje. Ten bajorija _(šlėkta)_ jau
+    turėjo plačias politines teises, savivaldybes ir savus teismus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193204
+
+- id: c-176141
+  citata_originali: |
+    Valdovas, sugrįžęs iš Prūsijos, gavo ži­
+    nią apie vidaus nesantarvę Lenkijoje ir ryžosi ten žy­
+    giuoti. Sutelkęs karius prie
+    S u g rįžęs iš P rū sijos,
+    Gardino, jis subūrė nemažą
+    p a tra u k ia  į L en k iją
+    kariuomenę ir, netrukdomas
+    mozūrų, o gal šiems nieko
+    nežinant (šitai rodosi panašu į tiesą), nes kariuomenė
+    buvo vedama slaptais ir be-
+    1306 m e ta i
+    veik nepraeinamais keliais
+    per Mazovijos miškus, įsi­
+    veržė į Didžiosios Lenkijos žemes. Staigiu antpuoliu
+    užėmė Kališo ir Stavišino miestus; gyventojai būtų nė
+    nepajutę ateinant priešo, jeigu šis nebūtų pradėjęs
+    183
+
+    ## Puslapis 182
+
+    siautėti miestuose degindamas ir žudydamas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193419
+
+- id: c-176142
+  citata_originali: |
+    Daugeliui atrodė, jog žaizda ap­
+    skritai ne pagydyta, bet tik sutvarstyta.
+    Tiesą sakant, tik asmeniškas karaliaus autoritetas ga­
+    lėjo sulaikyti tuos žmones, kad jie neaptemdytų džiaugs­
+    mingų iškilmių naujais sąmyšiais. Kai karalius išvyko
+    į Lenkiją, neilgai vis dėlto jie pajėgė tramdyti širdyje
+    tūnantį įniršį: neilgai trukus galingai prasiveržė į vie­
+    šumą tai, ką iki šiol slėpė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193420
+
+- id: c-176314
+  citata_originali: |
+    Tačiau krizė privertė Lietuvos eksportą persiorientuoti iš
+    nestabilių Rytų rinkų į reiklesnes Vakarų rinkas. Lietuvos pagrindinėmis
+    užsienio prekybos partnerėmis tapo Vokietija (pirmoje vietoje) ir Lenkija
+    (antroje vietoje). Greitai persiorientavusi į Vakarus Lietuvos ekonomika
+    išvengė nuosmukio.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193644
+
+- id: c-176426
+  citata_originali: |
+    Šiam tikslui jis pasitelkė ne
+    tik karines, bet ir informacines priemones, savo laiškais popie-
+    žiui ir vakarų visuomenei gerindamas Lietuvos įvaizdį ir taip
+    sumažindamas Vakarų Europos krikščionių teikiamą paramą
+    kryžiuočiams. Gediminas pradėjo derinti karo veiksmus prieš
+    kryžiuočius su Lenkija. Pasiekimai vakaruose Gediminui leido
+    plėsti savo valstybę rytuose.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193772
+
+- id: c-176427
+  citata_originali: |
+    Tai suerzino kaimyni-
+    Ž i : nes monarchijas ir tapo pirmojo padalijimo pretekstu.
+    Lenkijos teritorija 1772 m. Rusijai buvo naudingiausia išlaikyti esamą padėtį (kon-
+    | ep sekasi ie troliuoti ATR jos formaliai nepanaikinant), tačiau spaudžiant
+
+    2 Prūsijai sutiko su pirmu ATR padalijimu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193773
+
+- id: c-176651
+  citata_originali: |
+    Tais pačiais metais Lietuvos žemę ištiko baisus ba­
+    das, ir paplito žmonėse prancūziškos ligos4 0 . Paskui,
+    sekančių metų vasarą bei rudenį4 I, atėjo Moldavijos
+    vaivada Steponas, o su juo — turkų sultono didysis pa­
+    ša, vardu Malkočas 4 2 , vedinas daugeliu žmonių, ir ka­
+    riavo po Lenkijos žemę, Kamenecu pradedant, ir ligi
+    Lvovo, ir net ligi Tamovo, už dešimties mylių nuo Kro­
+    kuvos 4 3 . Sugrįžo, padarę Lenkijos žemei daug žalos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194029
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Mieška]], [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]], [[objektai/asmenys/Steponas Batoras]], [[objektai/asmenys/Ziemovitas]], [[objektai/asmenys/Žygimantas Senasis]]
@@ -4579,7 +7448,7 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
 - Puolė Lenkiją: [[objektai/asmenys/Jazbutas]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvių policijos savisaugos batalionai]], [[objektai/asmenys/Švitrigaila]], [[objektai/grupes/Totoriai]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
 - Gynė Lenkiją: [[objektai/grupes/Teutonai]]
 - Buvo siuntimo vieta: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Pukuveras (Lietuvos karalius)]], [[objektai/asmenys/Pukuveras|Pukuveras (Lietuvos karalius, XIII a.)]], [[objektai/asmenys/Skirgaila]]
-- Buvo žygio kryptis: [[objektai/asmenys/Jazbutas]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Sūduviai]], [[objektai/grupes/Totoriai]]
+- Buvo žygio kryptis: [[objektai/asmenys/Jaroslavas]], [[objektai/asmenys/Jazbutas]], [[objektai/grupes/Jotvingiai]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Sūduviai]], [[objektai/grupes/Totoriai]]
 - Prekiavo su: [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]
 - Gyvenamoji vieta: [[objektai/grupes/Dalomoji Komisija]], [[objektai/asmenys/Ona Jogailaitė]], [[objektai/grupes/Rusėnai]], [[objektai/grupes/Stačiatikiai]], [[objektai/grupes/Žydai]]
 - Turėjo priklausinį: [[objektai/grupes/Abiejų Tautų Respublika]], [[objektai/vietos/Braclavas]], [[objektai/vietos/Černigovas]], [[objektai/vietos/Didlenkiai]], [[objektai/vietos/Didžioji Lenkija]], [[objektai/grupes/Didžioji Lietuvos kunigaikštystė]], [[objektai/grupes/Edukacinė Komisija]], [[objektai/vietos/Horodlė]], [[objektai/vietos/Kamenecas]], [[objektai/daiktai/Karūna]], [[objektai/vietos/Kijevas]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Kuršo kunigaikštystė]], [[objektai/vietos/Latgala]], [[objektai/vietos/Lietuva]], [[objektai/grupes/Livonijos kunigaikštystė]], [[objektai/vietos/Marijenburgas]], [[objektai/vietos/Mažlenkiai]], [[objektai/vietos/Naugardas Sieverskas]], [[objektai/vietos/Niešava]], [[objektai/vietos/Niešavos kraštas|Niešavos kraštas (kraštas)]], [[objektai/vietos/Opatovas]], [[objektai/vietos/Palenkė]], [[objektai/vietos/Podolė]], [[objektai/grupes/Poznanės raitininkų eskadronai]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Šventasis Kryžius]], [[objektai/vietos/Ukraina]], [[objektai/vietos/Vakarų Prūsija]], [[objektai/vietos/Varmė]], [[objektai/vietos/Varmijos vyskupystė]], [[objektai/daiktai/Vėliavos]], [[objektai/vietos/Vidurinė Lietuva]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Voluinė]], [[objektai/vietos/Volynė]], [[objektai/vietos/Vysla]]

@@ -19,6 +19,18 @@ tags:
 amziai:
   - 'XV'
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vytauto privilegija Lietuvos žydams
 
@@ -29,12 +41,22 @@ Vilno ipso die Sanctae Priscae Virginis 67 et martyris anno D-ni 1401 [Lietuvos 
 ## Teiginiai
 
 <a id="claim-t-88357"></a>
-- t-001
+- t-002
   global_id: t-88357
-  teiginys: 'Vytauto privilegija Lietuvos žydams vėliau buvo paskelbta Pirmojo Lietuvos Statuto pradžioje.'
+  teiginys: "Vytauto privilegija Lietuvos žydams vėliau buvo paskelbta Pirmojo Lietuvos Statuto pradžioje."
+  semantiniai_rysiai: "Žydai gyveno Lietuva (0.72)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "325700-326302; hash=2f12abd07f8964c1355396aba21b0d0d1af9cb4df28120bc983c575d06fabd28; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Lietuva: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žydai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Junginys „Lietuvos žydams“ tiesiogiai lokalizuoja žydų grupę Lietuvoje, nors teiginio pagrindas yra privilegija."
   pagrindžia:
-    - c-001
-
+    - c-84336
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -56,8 +78,35 @@ Vilno ipso die Sanctae Priscae Virginis 67 et martyris anno D-ni 1401 [Lietuvos 
     wa o żydach, p. 107, Vilniuje, Zavadz-
     kio sp., 1807.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-84336
+  citata_originali: |
+    Reikšminga pergalė prie Griunvaldo pirmą kar­
+    tą pajudino jo tvirtus pamatus. Tačiau nėra likę ženklų, kad
+    Lietuvos sostinė tuo metu būtų turėjusi kokios naudos ar iš
+    prekybos, ar iš praplėstų gyventojų teisių; numanu, be abejo,
+    kad po Žemaičių perleidimo kryžiuočiams visus buvo apėmusi
+    apatija, ir miestiečių gyvenimas, pirma buvęs judresnis, ėmė
+    68
+    Ta privilegija, vėliau paskelbta Pir­
+    mojo Lietuvos Statuto pradžioje,
+    taip pat veikale C z a c k i O Litew­
+    skich i Polskich prawach, T. I, p. 93; o
+    jos tyrinėjimai žr. C z a c k i Rozpra­
+    wa o żydach, p. 107, Vilniuje, Zavadz-
+    kio sp., 1807.
+  citata_rodoma: "Tačiau nėra likę ženklų, kad \nLietuvos sostinė tuo metu būtų turėjusi kokios naudos ar iš \nprekybos, ar iš praplėstų gyventojų teisių; numanu, be abejo, \nkad po Žemaičių perleidimo kryžiuočiams visus buvo apėmusi \napatija, ir miestiečių gyvenimas, pirma buvęs judresnis, ėmė\n68\nTa privilegija, vėliau paskelbta Pir­\nmojo Lietuvos Statuto pradžioje, \ntaip pat veikale C z a c k i O Litew­\nskich i Polskich prawach, T. I, p. 93; o \njos tyrinėjimai žr. C z a c k i Rozpra­\nwa o żydach, p. 107, Vilniuje, Zavadz- \nkio sp., 1807."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88357

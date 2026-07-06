@@ -10,6 +10,18 @@ tags:
   - pilis
   - upė
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vechra
 
@@ -22,9 +34,20 @@ Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgi
 <a id="claim-t-32638"></a>
 - t-001
   global_id: t-32638
-  teiginys: 'Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo Jogailai paklusnumą.'
+  teiginys: "Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo Jogailai paklusnumą."
+  semantiniai_rysiai: "Sviatoslavas mirė Mstislavlis (0.93); Sviatoslavas mirė Vechra (0.86)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "789577-789832; hash=13e3c2800241dbfde22d1ab66dfaa4da4fa2e19ec6503fc9aba082582514517a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "mire -> Mstislavlis: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sviatoslavas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Mstislavlis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Sviatoslavas žuvo prie Mstislavlio."
   pagrindžia:
-    - c-001
+    - c-34072
 - susijęs iš [[objektai/asmenys/Sviatoslavas.md#claim-t-179685|Sviatoslavas]]: Sviatoslavas žuvo prie Mstislavlio ant Vechros kranto.
 - susijęs iš Mstislavlis: Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo paklusnumą Jogailai.
 - susijęs iš [[objektai/asmenys/Sviatoslavas.md#claim-t-179685|Sviatoslavas]]: Sviatoslavas žuvo prie Mstislavlio ant Vechros kranto.
@@ -43,11 +66,28 @@ Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgi
     Jogailai paklusnumą. O Skirgaila, sėkmingai apgulęs Polocką, kur
     jis pats atsisėdo, Andrių paėmė nelaisvėn ir išsiuntė Lenkijon.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-34072
+  citata_originali: |
+    Bet maištininkai greitai buvo įveikti. Pačiam Sviatoslavui žuvus
+    prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo
+    Jogailai paklusnumą. O Skirgaila, sėkmingai apgulęs Polocką, kur
+    jis pats atsisėdo, Andrių paėmė nelaisvėn ir išsiuntė Lenkijon.
+  citata_rodoma: "Pačiam Sviatoslavui žuvus\nprie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo\nJogailai paklusnumą. O Skirgaila, sėkmingai apgulęs Polocką, kur\njis pats atsisėdo, Andrių paėmė nelaisvėn ir išsiuntė Lenkijon."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-32638
 
 ## Ryšiai
 - Mirties vieta: [[objektai/asmenys/Sviatoslavas]]

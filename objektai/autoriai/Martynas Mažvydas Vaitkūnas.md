@@ -16,6 +16,18 @@ amziai:
   - 'XVI'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Martynas Mažvydas Vaitkūnas
 
@@ -34,25 +46,59 @@ Martynas Mažvydas Vaitkūnas šiame šaltinyje minimas kaip autorius, raštinin
 ## Teiginiai
 
 <a id="claim-t-64753"></a>
-- t-001
+- t-004
   global_id: t-64753
-  teiginys: 'Mažvydas rašė lietuviškas protestantiškas knygas.'
+  teiginys: "Mažvydas rašė lietuviškas protestantiškas knygas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "522078-522417; hash=c4bd7ab7cf8e0d6bfde13842a3c5e4bfd3481bf9a76366142e25a51a3d802729; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> protestantizmas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Martynas Mažvydas Vaitkūnas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "protestantizmas: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas Mažvydas Vaitkūnas\" parinktas kaip owner_note_path. Targetas \"protestantizmas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-00081
 
 <a id="claim-t-64754"></a>
-- t-002
+- t-005
   global_id: t-64754
-  teiginys: 'Martynas Mažvydas Vaitkūnas 1547 m. išleido pirmąjį lietuvišką katekizmą, kai kurias giesmes ir kelias tikybines knygutes.'
+  teiginys: "Martynas Mažvydas Vaitkūnas 1547 m. išleido pirmąjį lietuvišką katekizmą, kai kurias giesmes ir kelias tikybines knygutes."
+  temporaliniai_duomenys: "įvykio data: 1547 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "1213259-1213481; hash=b009812fdacd5b2375fe37b5fe5112a0c3ae49e655e6924d4b6920d263ddc696; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Martynas Mažvydas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Martynas Mažvydas Vaitkūnas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Martynas Mažvydas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas Mažvydas Vaitkūnas\" parinktas kaip owner_note_path. Targetas \"Martynas Mažvydas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-00082
 
 <a id="claim-t-64755"></a>
-- t-003
+- t-006
   global_id: t-64755
-  teiginys: 'Martynas Mažvydas Vaitkūnas siejamas su 1570 m. Mažvydo giesmynu.'
+  teiginys: "Martynas Mažvydas Vaitkūnas siejamas su 1570 m. Mažvydo giesmynu."
+  temporaliniai_duomenys: "įvykio data: 1570 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "1213603-1213629; hash=2b03e1d926236617db812d0e7920d28f7304831a80b3b85693b77dcd20b065ef; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Martynas Mažvydas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Martynas Mažvydas Vaitkūnas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Martynas Mažvydas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas Mažvydas Vaitkūnas\" parinktas kaip owner_note_path. Targetas \"Martynas Mažvydas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-00083
 - susijęs iš [[objektai/asmenys/Martynas Mažvydas.md#claim-t-19125|Martynas Mažvydas]]: Abraomo Kulviečio ir Martyno Mažvydo kultūrinė programa pateikė pirmą lietuvišką knygą ir pradėjo lietuviakalbės raštijos tradiciją.
 - susijęs iš [[objektai/asmenys/Martynas Mažvydas.md#claim-t-19126|Martynas Mažvydas]]: 1547 m. išleistas Martyno Mažvydo „Katekizmas“ laikomas Abraomo Kulviečio ir Stanislovo Rapolionio programos dalimi.
 - susijęs iš [[objektai/asmenys/Martynas Mažvydas.md#claim-t-19127|Martynas Mažvydas]]: Martynas Mažvydas siejamas su 1547 m. Karaliaučiuje išspausdintu „Katekizmu“, pirmąja knyga lietuvių kalba.
@@ -107,8 +153,9 @@ Martynas Mažvydas Vaitkūnas šiame šaltinyje minimas kaip autorius, raštinin
     lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi
     buvo skleidę protestantizmą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -121,8 +168,9 @@ Martynas Mažvydas Vaitkūnas šiame šaltinyje minimas kaip autorius, raštinin
     viečio. Be to, jis dar išleido keletą kitų reikalingų tikybinių
     knygučių. Kiti jo darbą tęsė toliau.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -132,8 +180,50 @@ Martynas Mažvydas Vaitkūnas šiame šaltinyje minimas kaip autorius, raštinin
   citata_originali: |
     1570 m. Mažvydo giesmynas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-00081
+  citata_originali: |
+    Tuo pat metu protestantizmas labai uoliai buvo platinamas
+    ir Mažojoje Lietuvoje. Ten buvo pradėta rūpintis liaudim, ku-
+    riai buvo spausdinamos lietuviškos protestantiškos knygos. Jas
+    rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų
+    lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi
+    buvo skleidę protestantizmą.
+  citata_rodoma: "Jas\nrašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų\nlietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi\nbuvo skleidę protestantizmą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-64753
+
+- id: c-00082
+  citata_originali: |
+    Mažvydas išleido 1547 m. pirmąjį lietuvišką katekizmą ir
+    kai kurias giesmes, kurių dalis buvo versta Rapagelionio ir Kul-
+    viečio. Be to, jis dar išleido keletą kitų reikalingų tikybinių
+    knygučių. Kiti jo darbą tęsė toliau.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-64754
+
+- id: c-00083
+  citata_originali: |
+    1570 m. Mažvydo giesmynas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-64755

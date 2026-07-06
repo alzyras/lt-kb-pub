@@ -13,6 +13,18 @@ tags:
   - grupe
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Draugija užsienio lietuviams remti
 
@@ -25,9 +37,23 @@ Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija.
 <a id="claim-t-77822"></a>
 - t-001
   global_id: t-77822
-  teiginys: 'Draugija užsienio lietuviams remti buvo sukurta padėti užsienio lietuviams ir palaikyti jų ryšius su tėvyne.'
+  teiginys: "Draugija užsienio lietuviams remti buvo sukurta padėti užsienio lietuviams ir palaikyti jų ryšius su tėvyne."
+  semantiniai_rysiai: "Draugija užsienio lietuviams remti rėmė Lietuviai (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1939 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako draugijos paskirtį ir remiasi citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "353497-354179; hash=49d9f47cefa5bbc4a0cbf9b373f4907bddb772639eea02cb158f2b3c3f92d6bf; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Lietuviai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Draugija užsienio lietuviams remti: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad draugija sukurta padėti užsienio lietuviams."
   pagrindžia:
-    - c-001
+    - c-75145
 - susijęs iš [[objektai/ivykiai/Draugijos Užsienio Lietuviams Remti įsikūrimas ir veikla (1932 m.).md#claim-t-01610|Draugijos Užsienio Lietuviams Remti įsikūrimas ir veikla (1932 m.)]]: 1932 m. įsikūrusi Draugija Užsienio Lietuviams Remti siekė kultūriškai ir, kiek įmanoma, materialiai remti užsienyje gyvenančius lietuvius.
 - susijęs iš [[objektai/ivykiai/Draugijos Užsienio Lietuviams Remti įsikūrimas ir veikla (1932 m.).md#claim-t-01611|Draugijos Užsienio Lietuviams Remti įsikūrimas ir veikla (1932 m.)]]: Draugija Užsienio Lietuviams Remti rūpinosi lietuviškomis mokyklomis, mokytojais ir knygomis išeivių bibliotekoms.
 - susijęs iš [[objektai/grupes/Draugija Užsienio Lietuviams Remti (DULR).md#claim-t-71617|Draugija Užsienio Lietuviams Remti (DULR)]]: DULR palaikė ryšius su išeiviais, padėdama jų ekskursijoms į Lietuvą, organizacijų suartinimui, sportininkų susitikimams ir menininkų pasirodymams.
@@ -52,11 +78,36 @@ Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija.
     176
     remti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-75145
+  citata_originali: |
+    Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Neprasigy-
+    venę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į
+    Pietų Amerikos šalis, nes JAV įvedė imigracijos kvotas. Per 20 metų iš
+    šalies emigravo apie 100 000 gyventojų, iš jų apie 30 proc. sudarė žydai,
+    vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV. Lietuviai vyko daugiausia į
+    Pietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų). Jiems
+    padėti ir palaikyti ryšius su tėvyne sukurta Draugija užsienio lietuviams
+    Gen. Antano Gustaičio sukonstruotas ir Kauno aviacijos dirbtuvėse
+    pagamintas lengvasis bombonešis ANBO VIII (1939 m.)
+
+    L I E T U V O S  I S T O R I J A
+    176
+    remti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77822
 
 ## Ryšiai
 - Draugija užsienio lietuviams remti rėmė [[objektai/grupes/Lietuviai]]

@@ -13,6 +13,18 @@ tags:
   - pinigai
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvos auksas
 
@@ -50,12 +62,41 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-13781"></a>
-- t-001
-  global_id: t-13781
-  teiginys: 'Iš užsienyje laikyto Lietuvos aukso pasisavintas tik Švedijos ir Šveicarijos bankuose saugotas auksas.'
+<a id="claim-t-13782"></a>
+- t-005
+  global_id: t-13782
+  teiginys: "Iš užsienyje laikyto Lietuvos aukso pasisavintas tik Švedijos ir Šveicarijos bankuose saugotas auksas."
+  semantiniai_rysiai: "Lietuvos auksas priklausė Lietuva (0.90)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "385567-386389; hash=6700323f80d405920f19b8006f0d13076071a0de6f92cfd4017122a1b05070b3; match=exact"
+  sprendimo_priezastis: "gap::items"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos auksas: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Frazė tiesiogiai nurodo, kad kalbama apie Lietuvai priklausantį auksą."
   pagrindžia:
-    - c-001
+    - c-16909
+
+<a id="claim-t-13782"></a>
+- t-005
+  global_id: t-13782
+  teiginys: "Iš užsienyje laikyto Lietuvos aukso pasisavintas tik Švedijos ir Šveicarijos bankuose saugotas auksas."
+  semantiniai_rysiai: "Lietuvos auksas priklausė Lietuva (0.90)"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "385567-386389; hash=6700323f80d405920f19b8006f0d13076071a0de6f92cfd4017122a1b05070b3; match=exact"
+  sprendimo_priezastis: "gap::items"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos auksas: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Frazė tiesiogiai nurodo, kad kalbama apie Lietuvai priklausantį auksą."
+  pagrindžia:
+    - c-16909
 - susijęs iš Švedija: Lietuvos auksas buvo pasisavintas tik iš Švedijos ir Šveicarijos bankuose saugotų atsargų.
 ## Reikšmingi paminėjimai
 
@@ -74,6 +115,7 @@ Nenurodyta
     Sąjungos valstybiniam bankui perduoti užsienyje laikomą Lietuvos auksą.
     Tačiau pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas auksas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -84,6 +126,30 @@ Nenurodyta
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
+
+## Citatos
+
+- id: c-16909
+  citata_originali: |
+    Iš tiesų Liaudies vyriausybė vykdė sovietų valią, nuo pirmų dienų griovė
+    Lietuvos valstybingumą, keitė administraciją: į svarbius vyriausybės pos-
+    tus buvo paskirti amnestuoti politiniai kaliniai komunistai – LKP vadovas
+    Antanas Sniečkus tapo Valstybės saugumo departamento direktoriumi, o
+    Mečislovas Gedvilas – vidaus reikalų ministru; birželio 25 dieną įteisinta
+    LKP (nors kitos politinės partijos neįteisintos), paleistas vadinamasis sme-
+    toninis Seimas, uždarytos visos nekomunistinės organizacijos, laikraščiai ir
+    žurnalai. Birželio 27-ąją Liaudies vyriausybė panaikino Lietuvos ir Vatika-
+    no konkordatą, o liepos 12-ąją, spaudžiant V. Dekanozovui, nutarta Sovietų
+    Sąjungos valstybiniam bankui perduoti užsienyje laikomą Lietuvos auksą.
+    Tačiau pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas auksas.
+  citata_rodoma: "Birželio 27-ąją Liaudies vyriausybė panaikino Lietuvos ir Vatika-\nno konkordatą, o liepos 12-ąją, spaudžiant V. Dekanozovui, nutarta Sovietų \nSąjungos valstybiniam bankui perduoti užsienyje laikomą Lietuvos auksą. \nTačiau pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas auksas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-13782
+    - t-13781
 
 ## Ryšiai
 - Lietuvos auksas priklausė [[objektai/vietos/Lietuva]]

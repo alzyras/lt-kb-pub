@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 38.
+Objektų skaičius: 39.
 
 ## Kaip naudoti
 
@@ -67,5 +67,6 @@ Objektų skaičius: 38.
 
 ### Žodynas
 - [amžinoji ugnis Gabija](../objektai/zodynas/am%C5%BEinoji%20ugnis%20Gabija)
+- [bažnytinė unija](../objektai/zodynas/ba%C5%BEnytin%C4%97%20unija)
 - [bažnytinės cenzūros ir pasaulietinė valdžia](../objektai/zodynas/ba%C5%BEnytin%C4%97s%20cenz%C5%ABros%20ir%20pasaulietin%C4%97%20vald%C5%BEia)
 - [schizmatikai graikų apeigų tikėjimas](../objektai/zodynas/schizmatikai%20graik%C5%B3%20apeig%C5%B3%20tik%C4%97jimas)

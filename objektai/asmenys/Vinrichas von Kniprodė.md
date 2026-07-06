@@ -17,6 +17,18 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vinrichas von Kniprodė
 
@@ -27,26 +39,61 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
 ## Teiginiai
 
 <a id="claim-t-117889"></a>
-- t-001
+- t-003
   global_id: t-117889
-  teiginys: 'Vinrichas von Kniprodė 1351–1382 m. buvo Vokiečių ordino magistras.'
+  teiginys: "Vinrichas von Kniprodė 1351–1382 m. buvo Vokiečių ordino magistras."
+  semantiniai_rysiai: "Kryžiuočių ordinas prekiavo su Europa (0.72)"
+  temporaliniai_duomenys: "įvykio data: 1351-1382; įvykio data: 1382 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Vinricho von Kniprodės pareigas ir datas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "43016-43809; hash=8c14990f86dc8f9e13587e6bad15b2558da591127357e2e5a6bda64b20e416b3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Europa: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Europa: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vokiečių ordino prekyba tiesiogiai siejama su Vakarų Europos miestais."
   pagrindžia:
-    - c-002
+    - c-108470
 
 <a id="claim-t-117890"></a>
-- t-002
+- t-004
   global_id: t-117890
-  teiginys: 'Vinricho von Kniprodės valdymo laikais Prūsų ordino valstybė Europoje kėlė nusistebėjimą ir pasigėrėjimą.'
+  teiginys: "Vinricho von Kniprodės valdymo laikais Prūsų ordino valstybė Europoje kėlė nusistebėjimą ir pasigėrėjimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "666798-667185; hash=18c03bb05ae156ad7797919b214cc7d8e98ae7db90efc9c1f03c8c5e2820730b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vinrichas von Kniprodė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=61"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vinrichas von Kniprodė\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-108471
 
 <a id="claim-t-117891"></a>
-- t-003
+- t-001
   global_id: t-117891
-  teiginys: 'Vinrichas von Kniprodė 1351–1382 m. turėjo Ordino magistro valdžią ir buvo laikomas veikliu bei energingu vokiečiu.'
+  teiginys: "Vinrichas von Kniprodė 1351–1382 m. turėjo Ordino magistro valdžią ir buvo laikomas veikliu bei energingu vokiečiu."
+  temporaliniai_duomenys: "įvykio data: 1351-1382; įvykio data: 1382 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "43544-43878; hash=699ea52ca6351f41c6e7c6e6482c8afaab248b0f0c94907673b302f80085170f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vinrichas von Kniprodė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vinrichas von Kniprodė\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-36534
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -59,8 +106,9 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
     Algirdu buvo pradėję tartis dėl krikšto. Apsikrikštijus būtų tu­
     rėję pasiliauti nuolatiniai Ordino puolimai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -83,6 +131,7 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
     prodė (1351—1382). Tiesa, savo valdymo pradžioje Kęstutis su
     Algirdu buvo pradėję tartis dėl krikšto.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -102,8 +151,66 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
     valstybė buvo visos Europos nusistebėjimo bei pasigėrėjimo
     objektas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-36534
+  citata_originali: |
+    Kęstučiui dar smarkiau, negu pirmtakū­
+    nams, tenka gintis nuo Ordino įsiveržimų, nes tada magistro
+    valdžią turėjo veiklus ir energingas vokietis Vinrichas von Kni­
+    prodė (1351—1382). Tiesa, savo valdymo pradžioje Kęstutis su
+    Algirdu buvo pradėję tartis dėl krikšto. Apsikrikštijus būtų tu­
+    rėję pasiliauti nuolatiniai Ordino puolimai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-117891
+
+- id: c-108470
+  citata_originali: |
+    Vokiečių Ordinas, bekariaudamas įsigijo Prūsuose didelius
+    žemės plotus ir juos kolonizuodamas, darėsi vis stipresnis, Lai­
+    mėjęs Vislos žiotis ir Pamarį (1309 metais) ir išplėtęs savo pre­
+    kybą su tolimais Vakarų Europos miestais, nors vis labiau tolo
+    nuo pirmykštės Ordino dvasios, bet turėdami pilną iždą pinigų,
+    daug stiprių pilių ir nuolat iš Vakarų Europos plaukiančių jėgų,
+    kryžiuočiai kasmet po kelis kartus puldavo Lietuvą, išniokoda­
+    mi plačias jos sritis, degindami gyvenamas vietas ir žmones iš­
+    sivesdami nelaisvėn. Kęstučiui dar smarkiau, negu pirmtakū­
+    nams, tenka gintis nuo Ordino įsiveržimų, nes tada magistro
+    valdžią turėjo veiklus ir energingas vokietis Vinrichas von Kni­
+    prodė (1351—1382). Tiesa, savo valdymo pradžioje Kęstutis su
+    Algirdu buvo pradėję tartis dėl krikšto.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-117889
+
+- id: c-108471
+  citata_originali: |
+    Nuo
+    1237 mt. abu Ordinai buvo susijungę į vieną, veikė vienos va­
+    dovybės valdžioje. Keturioliktas amžius, ypač jo antroji pusė
+    —Ordino (labiausiai kryžiuočių, kuris iš tikrųjų ir buvo svar­
+    biausioji jėga) klestėjimo laikotarpis. Jo hochmeisterio^1 ) didžio­
+    jo Vinricho von Kniprodės laikais (1351—1382) Prūsų Ordino
+    valstybė buvo visos Europos nusistebėjimo bei pasigėrėjimo
+    objektas.
+  citata_rodoma: "abu Ordinai buvo susijungę į vieną, veikė vienos va­\ndovybės valdžioje. Keturioliktas amžius, ypač jo antroji pusė\n—Ordino (labiausiai kryžiuočių, kuris iš tikrųjų ir buvo svar­\nbiausioji jėga) klestėjimo laikotarpis. Jo hochmeisterio^1 ) didžio­\njo Vinricho von Kniprodės laikais (1351—1382) Prūsų Ordino\nvalstybė buvo visos Europos nusistebėjimo bei pasigėrėjimo\nobjektas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-117890

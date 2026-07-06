@@ -15,6 +15,18 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'XX a.'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # I. Štai
 
@@ -27,10 +39,19 @@ Nors kryžiuočiai dėl aukščiau minėtojo reikalo mūsų įžei­ dimui sudeg
 <a id="claim-t-88063"></a>
 - t-001
   global_id: t-88063
-  teiginys: 'I. Štai kartu su V. Pašuta parengė leidinį „Gedimino laiškai“, kuriuo remiamasi cituojant laiško vertimą.'
+  teiginys: "I. Štai kartu su V. Pašuta parengė leidinį „Gedimino laiškai“, kuriuo remiamasi cituojant laiško vertimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "140210-141032; hash=b3d402413d2f2cae96ac04c07b9263ec82b32643fa7f042a00815bf2cc9a24b7; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "I. Štai: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"I. Štai\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-84042
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -55,8 +76,38 @@ Nors kryžiuočiai dėl aukščiau minėtojo reikalo mūsų įžei­ dimui sudeg
     kai, parengė V. Pašuta ir I. Štai, [vertė
     M- Ročka], Vilnius, Mintis, 1966.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-84042
+  citata_originali: |
+    Todėl prašome, kad jūs paskelbtumėte šį [laišką] žmo­
+    nėms miestuose, vietovėse bei kaimuose, kur tik kuriam nors
+    iš jūsiškių teks sakyti pamokslą.
+    Taip pat, jei bus [tarp jų] riterių ir ginklanešių, duosime
+    jiems pajamų ir žemės, kiek norės; pirkliams, meistrams, ra­
+    čiams, svaidomų pabūklų gamintojams, kurpiams ir [kitiems]
+    bet kokios srities amatininkams suteikiame laisvę; įeiti į mū­
+    sų žemę ir išeiti [iš jos] drauge su žmonomis, vaikais ir galvi­
+    jais be jokių rinkliavų arba muitų ir nedarant jokių kliūčių.
+    Nors kryžiuočiai dėl aukščiau minėtojo reikalo mūsų įžei­
+    dimui sudegino mūsų antspaudą, matyt, [tuo tikslu], kad
+    užgniaužtų dievo pradėtą [darbą] ir apdumtų žmonėms akis,
+    •  -
+    55
+    C' ■^la ir toliau cit. pagal Gedimino laiš­
+    kai, parengė V. Pašuta ir I. Štai, [vertė
+    M- Ročka], Vilnius, Mintis, 1966.
+  citata_rodoma: "Nors kryžiuočiai dėl aukščiau minėtojo reikalo mūsų įžei­\ndimui sudegino mūsų antspaudą, matyt, [tuo tikslu], kad \nužgniaužtų dievo pradėtą [darbą] ir apdumtų žmonėms akis,\n•  -\n55\nC' ■^la ir toliau cit. pagal Gedimino laiš­\nkai, parengė V. Pašuta ir I. Štai, [vertė \nM- Ročka], Vilnius, Mintis, 1966."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88063

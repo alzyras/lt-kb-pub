@@ -17,6 +17,18 @@ tags:
   - saltinis
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Dusburgo kronika
 
@@ -27,54 +39,128 @@ Kas liečia kopūstus, Dusburgo kronikoje yra pažymėta, jog jie prūsams buvę
 ## Teiginiai
 
 <a id="claim-t-102933"></a>
-- t-001
+- t-006
   global_id: t-102933
-  teiginys: 'Balińskis iš Dusburgo pasakojimo sprendė, kad Castrum Gedemini jau egzistavo 1304 metais, o Vilniaus pilis pastatyta tik 1322 metais.'
+  teiginys: "Balińskis iš Dusburgo pasakojimo sprendė, kad Castrum Gedemini jau egzistavo 1304 metais, o Vilniaus pilis pastatyta tik 1322 metais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "126914-127644; hash=edc28fbdbea24470403716f039f847f60fe1c002c0022391b0430fe7430c8be6; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dusburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dusburgo kronika: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Dusburgas: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dusburgo kronika\" parinktas kaip owner_note_path. Targetas \"Dusburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-96148
 
 <a id="claim-t-102934"></a>
-- t-002
+- t-003
   global_id: t-102934
-  teiginys: 'Iš Dusburgo žinių daroma išvada, kad Gedimino pilis buvo Lietuvos ar Žemaitijos pasienyje ir galėjo stovėti prie Nemuno.'
+  teiginys: "Iš Dusburgo žinių daroma išvada, kad Gedimino pilis buvo Lietuvos ar Žemaitijos pasienyje ir galėjo stovėti prie Nemuno."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "126914-127644; hash=edc28fbdbea24470403716f039f847f60fe1c002c0022391b0430fe7430c8be6; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dusburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dusburgo kronika: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Dusburgas: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dusburgo kronika\" parinktas kaip owner_note_path. Targetas \"Dusburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-96148
 
 <a id="claim-t-102935"></a>
-- t-003
+- t-007
   global_id: t-102935
-  teiginys: 'Dusburgo kronika prie 1317 m. mini Castrum Gedemini, kurio Ragainės komtūras Fridrichas de Libencelė neįstengė užimti.'
+  teiginys: "Dusburgo kronika prie 1317 m. mini Castrum Gedemini, kurio Ragainės komtūras Fridrichas de Libencelė neįstengė užimti."
+  temporaliniai_duomenys: "įvykio data: 1317 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinė formuluotė nutrūkusi ir turi OCR triukšmo; citata leidžia suformuluoti aiškų faktą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "126745-127051; hash=fbfee0e2b6651885a6698d952884981357cba8e3ad603de44459e28dec800ca4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dusburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dusburgo kronika: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Dusburgas: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dusburgo kronika\" parinktas kaip owner_note_path. Targetas \"Dusburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-96153
 
 <a id="claim-t-102936"></a>
-- t-004
+- t-001
   global_id: t-102936
-  teiginys: 'Dusburgo kronikoje pažymėta, kad kopūstai prūsams buvę nežinomi, o juos valgiusius ordino brolius prūsai lyginę su arkliais ir mulais.'
+  teiginys: "Dusburgo kronikoje pažymėta, kad kopūstai prūsams buvę nežinomi, o juos valgiusius ordino brolius prūsai lyginę su arkliais ir mulais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "380544-380994; hash=dadffcd7160fec4f617b89e62fefa77d7370f818c65b5c6efb9d47dfbdef33e0; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dusburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dusburgo kronika: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Dusburgas: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dusburgo kronika\" parinktas kaip owner_note_path. Targetas \"Dusburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-96151
 
 <a id="claim-t-102937"></a>
-- t-005
+- t-002
   global_id: t-102937
-  teiginys: 'Dusburgo kronika prie 1317 m. mini, kad Ragainės komtūras Fridrichas de Libencelė apgulė Gedimino pilį, bet jos neužėmė.'
+  teiginys: "Dusburgo kronika prie 1317 m. mini, kad Ragainės komtūras Fridrichas de Libencelė apgulė Gedimino pilį, bet jos neužėmė."
+  temporaliniai_duomenys: "įvykio data: 1317 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "126745-127051; hash=fbfee0e2b6651885a6698d952884981357cba8e3ad603de44459e28dec800ca4; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dusburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dusburgo kronika: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Dusburgas: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dusburgo kronika\" parinktas kaip owner_note_path. Targetas \"Dusburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-005
+    - c-96153
 
 <a id="claim-t-102938"></a>
-- t-006
+- t-005
   global_id: t-102938
-  teiginys: 'Michałas Balińskis atmetė Hartknocho nuomonę, kad Dusburgo minima Castrum Gedemini buvo Vilnius.'
+  teiginys: "Michałas Balińskis atmetė Hartknocho nuomonę, kad Dusburgo minima Castrum Gedemini buvo Vilnius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "125038-125899; hash=c254840b7227f22358223b94ce1bdc4bab1e4f69fc699887d2c645f173ed2f71; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dusburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dusburgo kronika: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Dusburgas: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dusburgo kronika\" parinktas kaip owner_note_path. Targetas \"Dusburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-96152
 
 <a id="claim-t-102939"></a>
-- t-007
+- t-004
   global_id: t-102939
-  teiginys: 'Dusburgo teigimu, Gedimino pasiuntinys Rygoje pareiškė, kad valdovas nesiuntė laiškų dėl savo ar valdinių krikšto.'
+  teiginys: "Dusburgo teigimu, Gedimino pasiuntinys Rygoje pareiškė, kad valdovas nesiuntė laiškų dėl savo ar valdinių krikšto."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "200202-200727; hash=e9b2799d8e1a3c62d7d48ea3007a66d7e49b12736d1d64fb6cd455e939615ad8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dusburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dusburgo kronika: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Dusburgas: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dusburgo kronika\" parinktas kaip owner_note_path. Targetas \"Dusburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
-
+    - c-96149
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -95,8 +181,9 @@ Kas liečia kopūstus, Dusburgo kronikoje yra pažymėta, jog jie prūsams buvę
     rum Gedemini jau 1304 metais buvo, o Vilniaus pilis tik 1322
     metais pastatyta.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -115,6 +202,7 @@ Kas liečia kopūstus, Dusburgo kronikoje yra pažymėta, jog jie prūsams buvę
     nebuvo siunčiami nei popiežiui, nei pajūrio miestams ar pro­
     vincijoms, turint tikslą juos viešai paskelbti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -133,6 +221,7 @@ Kas liečia kopūstus, Dusburgo kronikoje yra pažymėta, jog jie prūsams buvę
     Jau viduriniame geležies amžiuje žemės darbui buvo imta
     naudoti gyvulio traukiamoji jėga, pirmoje eilėje jaučių jungas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -159,6 +248,7 @@ Kas liečia kopūstus, Dusburgo kronikoje yra pažymėta, jog jie prūsams buvę
     provise intravit territorium Lettoviae, dictum Pograuden [neti­
     kėtai įsiveržė į Lietuvos teritoriją, vadinamą Pagraudenę].
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -175,9 +265,111 @@ Kas liečia kopūstus, Dusburgo kronikoje yra pažymėta, jog jie prūsams buvę
     chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė
     jos užimti, o tik sudegino papilį.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
     - t-003
+
+## Citatos
+
+- id: c-96148
+  citata_originali: |
+    387); anot jos, Ragainės komtūras Fridri­
+    chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė
+    jos užimti, o tik sudegino papilį. Trečią kartą šis papilys bu­
+    vo sudegintas 1324 metais; rašo apie tai Dusburgas, kad bir­
+    želio Il dieną, švintant, Ragainės komtūras Tomas Alden-
+    burgas ir 44 broliai su 400 žmonių iš Sembos ir Natangos
+    netikėtai užpuolė Gedimino pilies papilį ir plėnimis palei­
+    do8. Iš to, kas Dusburgo sakoma, peršasi išvados: pirma, kad
+    ta Gedimino pilis, kiek galima susivokti, buvo Lietuvos ar
+    Žemaitijos pasienyje, dėl šito ir su Strijkovskiu sutariama;
+    antra, kad galėjo net prie Nemuno stovėti; pagaliau, kad Cast­
+    rum Gedemini jau 1304 metais buvo, o Vilniaus pilis tik 1322
+    metais pastatyta.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-102933
+    - t-102934
+
+- id: c-96149
+  citata_originali: |
+    Anot amžininko Dusburgo(c.  352) pranešimo, Gedi­
+    minas nuleido pas popiežiaus nuncijus, atvykusius į Rygą
+    jo atvertimo reikalų tvarkyti, įžymų pasiuntinį, kuris iš pa­
+    ties valdovo lūpų gavęs pavedimą? dalyvaujant legatams,
+    gausiam būriui dvasininkų ir kitų tikinčiųjų, tvirtu balsu pa­
+    reiškęs, kad niekados jokie laiškai su karaliaus žinia, jo pa­
+    ties ar jo valdinių krikšto reikalu, jo valia nebuvo rašyti ir
+    nebuvo siunčiami nei popiežiui, nei pajūrio miestams ar pro­
+    vincijoms, turint tikslą juos viešai paskelbti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-102939
+
+- id: c-96151
+  citata_originali: |
+    Apie daržoves yra
+    teigiama, jog lietuviai jas pradėję auginti, kada jau buvo arčiau
+    susipažinę su slavų tautomis (J. Jaroszewicz). Kas liečia kopūstus,
+    Dusburgo kronikoje yra pažymėta, jog jie prūsams buvę nežinomi,
+    ir todėl prūsai, matydami ordino brolius valgant žoles (kopūstus),
+    lyginę juos su arkliais ir mulais (SRP, I, 90).
+    Jau viduriniame geležies amžiuje žemės darbui buvo imta
+    naudoti gyvulio traukiamoji jėga, pirmoje eilėje jaučių jungas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-102936
+
+- id: c-96152
+  citata_originali: |
+    Hartknochas Dusbur-
+    goe kronikos pastabose Gedimino pilį, vadintą Castrum Ge-
+    demini, turbūt stovėjusią kur nors Lietuvos su Prūsija
+    pasienyje ir tieka kartų Dusburgo minimą, taria esant Vil­
+    niumi: Ego puto hic intelligi urbem Vilnam, a Gedemino recens
+    tum conditam nimirum anno 1322 [Aš manau, kad Vilniaus
+    miestas gali būti taip suprantamas - būtent Gedimino įkur­
+    tas tik 1322 metais]. Tačiau atkreipus dėmesį į tai, ką Dus-
+    burgas, aprašomų įvykių amžininkas, todėl labiausiai ver­
+    tas pasitikėjimo, apie tą pilį byloja, ta Hartknocho nuomonė
+    negali atlaikyti. Pirmą kartą jį Dusburgas mini prie 1304 metų
+    (356 lape), pasakodamas, kaip brolis Eberhardas de Virnem-
+    burgas nusiaubė Lietuvos valsčių, vadintą Pagraudenef: im­
+    provise intravit territorium Lettoviae, dictum Pograuden [neti­
+    kėtai įsiveržė į Lietuvos teritoriją, vadinamą Pagraudenę].
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-102938
+
+- id: c-96153
+  citata_originali: |
+    Šitai vyko viešpataujant Lie­
+    tuvoje Vyteniui, kuris mirė apie 1315 metus. Kita užuomina
+    Dusburgo kronikoje apie Castrum Gedemini [Gedimino pilį]
+    yra prie 1317 m. (1. 387); anot jos, Ragainės komtūras Fridri­
+    chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė
+    jos užimti, o tik sudegino papilį.
+  citata_rodoma: "Kita užuomina \nDusburgo kronikoje apie Castrum Gedemini [Gedimino pilį] \nyra prie 1317 m. (1. 387); anot jos, Ragainės komtūras Fridri­\nchas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė \njos užimti, o tik sudegino papilį."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-102937
+    - t-102935

@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Komjaunimas
 
@@ -17,11 +29,36 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
 ## Teiginiai
 
 <a id="claim-t-65311"></a>
-- t-001
+- t-002
   global_id: t-65311
-  teiginys: 'Siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą, mokyklose steigiamos komjaunimo ir pionierių organizacijos, įrengiami Lenino kampeliai, leisti sienlaikraščiai.'
+  teiginys: "Siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą, mokyklose steigiamos komjaunimo ir pionierių organizacijos, įrengiami Lenino kampeliai, leisti sienlaikraščiai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "454175-454618; hash=4f2cd2062aaf7298f5f882b3f70e64d6740dc8a300d1db0b90d339ddef790e93; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> SSRS: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Komjaunimas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "SSRS: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Komjaunimas\" parinktas kaip owner_note_path. Targetas \"SSRS\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-65731
+
+<a id="claim-t-193540"></a>
+- t-003
+  global_id: t-193540
+  teiginys: "Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideologiškai nepatikimi mokytojai atleidžiami iš darbo."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "448652-449019; hash=59eef9a3c13d2ffe5e38b49ebe03059cb8518a33a07ecb4bd5153157e251c844; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  vertinimo_autorius: "rewrite_source_claims / reject"
+  pagrindžia:
+    - c-176220
 - susijęs iš [[objektai/grupes/Pionierių organizacijos.md#claim-t-183174|Pionierių organizacijos]]: Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas.
 - susijęs iš [[objektai/grupes/Pionierių organizacijos.md#claim-t-19963|Pionierių organizacijos]]: Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas.
 - susijęs iš [[objektai/asmenys/Vincas Kudirka.md#claim-t-78007|Vincas Kudirka]]: 1950 m. uždraustas ir Lietuvos himnas – Vinco Kudirkos „Tautiška giesmė“.
@@ -43,8 +80,59 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
     steigiamos komjaunimo ir pionierių organizacijos, įrengiami Lenino kam-
     peliai, leisti sienlaikraščiai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideologiškai nepatikimi mokytojai atleidžiami iš darbo.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Mokyklose įvestas privalomas J. Stalino konstitucijos, rusų kalbos
+    dėstymas, uždrausta tikyba, sumažintas lietuvių kalbos pamokų skaičius.
+    Universitete ir aukštosiose mokyklose iš kitų respublikų atsiųsti specialistai
+    dėstė tik rusiškai. Mokiniai buvo verčiami stoti į pionierių ir komjaunimo
+    organizacijas, ideologiškai nepatikimi mokytojai atleidžiami iš darbo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+## Citatos
+
+- id: c-65731
+  citata_originali: |
+    Ją ruošė totaliai kontroliuojama švieti-
+    mo sistema, o nepaklusnieji buvo baudžiami. Mokytojai verčiami studijuoti
+    V. Lenino, J. Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų
+    partijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžia-
+    gą. Siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą, mokyklose
+    steigiamos komjaunimo ir pionierių organizacijos, įrengiami Lenino kam-
+    peliai, leisti sienlaikraščiai.
+  citata_rodoma: "Siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą, mokyklose"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-65311
+
+- id: c-176220
+  citata_originali: |
+    Mokyklose įvestas privalomas J. Stalino konstitucijos, rusų kalbos
+    dėstymas, uždrausta tikyba, sumažintas lietuvių kalbos pamokų skaičius.
+    Universitete ir aukštosiose mokyklose iš kitų respublikų atsiųsti specialistai
+    dėstė tik rusiškai. Mokiniai buvo verčiami stoti į pionierių ir komjaunimo
+    organizacijas, ideologiškai nepatikimi mokytojai atleidžiami iš darbo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193540

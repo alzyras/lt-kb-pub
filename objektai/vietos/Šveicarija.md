@@ -17,6 +17,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Šveicarija
 
@@ -29,16 +41,53 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
 <a id="claim-t-169555"></a>
 - t-001
   global_id: t-169555
-  teiginys: 'Neutralioje Šveicarijoje susidaręs negausus lietuvių būrys šelpė lietuvius belaisvius Vokietijoje ir skleidė žinias apie lietuvių teises.'
+  teiginys: "Neutralioje Šveicarijoje susidaręs negausus lietuvių būrys šelpė lietuvius belaisvius Vokietijoje ir skleidė žinias apie lietuvių teises."
+  semantiniai_rysiai: "Lietuviai gyveno Šveicarija (0.72)"
+  temporaliniai_duomenys: "įvykio data: 1919 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys apima dvi temas, o apie Šveicariją tinka antra citatos dalis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "1080728-1081157; hash=9cdf7d0f43518b9eb0adf63b762530ac8100fdc47c4e3cabe2421d1e72675f90; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Šveicarija: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Šveicarija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Lietuvių būrys susidarė Šveicarijoje, todėl palaikomas lietuvių buvimas ar gyvenimas toje vietoje."
   pagrindžia:
-    - c-001
+    - c-154264
 
 <a id="claim-t-169557"></a>
 - t-002
   global_id: t-169557
-  teiginys: 'Antrojoje Lozanos konferencijoje nutarta politinės propagandos centrą įkurti Šveicarijoje ir remtis nepriklausomybės reikalavimu.'
+  teiginys: "Antrojoje Lozanos konferencijoje nutarta politinės propagandos centrą įkurti Šveicarijoje ir remtis nepriklausomybės reikalavimu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "1081489-1081942; hash=d314a1fa93423bfc36289745555c8dd945803805bee4aa9a46fcbff504d659dd; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šveicarija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šveicarija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-154266
+
+<a id="claim-t-193261"></a>
+- t-003
+  global_id: t-193261
+  teiginys: "Šveicarijos komitetai darbavosi ligi karo pabaigos."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "1082266-1082562; hash=dbfa9f751c640ee326f7df43765b6f0bec35c0c2def88338f153395f6985bffb; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-175993
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75723|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1940 m. birželį iš Lietuvos išvykęs Antanas Smetona per Vokietiją, Šveicariją ir Portugaliją pasitraukė į JAV.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77979|A. Smetona]]: 1940 m. birželį iš Lietuvos išvykęs A. Smetona per Vokietiją, Šveicariją ir Portugaliją pasiekė JAV.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75723|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1940 m. birželį iš Lietuvos išvykęs Antanas Smetona per Vokietiją, Šveicariją ir Portugaliją pasitraukė į JAV.
@@ -92,6 +141,7 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
     laisvius Vokietijoje ir skleidė žinias apie lietuvių tautą ir jos
     reikalaujamąsias teises savarankiškai tvarkytis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -111,11 +161,82 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
     ir čia sukurti Rusijos, Lietuvos ir Amerikos lietuvių tarybą; dar-
     bo pagrindu buvo paimtas nepriklausomybės reikalavimas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: 'Šveicarijos komitetai darbavosi ligi karo pabaigos.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Konfe-
+    rencija patvirtino Vilniaus konferencijos nutarimus ir iškėlė rei-
+    kalą būsimajai Lietuvai turėti uostą (Klaipėdą). Šveicarijos ko-
+    mitetai darbavosi ligi karo pabaigos.
+    Tokiais pat uždaviniais buvo susirūpinta Švedijoje ir Da-
+    nijoje, kur Rusijos lietuvių Komitetas nusiuntė savo atstovų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003
+
+## Citatos
+
+- id: c-154264
+  citata_originali: |
+    Lietuvių amerikiečių delegatai vėliau
+    prisidėjo prie Lietuvos delegacijos Paryžiuje bendrai ginti Lie-
+    tuvos reikalų taikos kongrese 1919 m.
+    Kitas labai negausus, bet aktyvus lietuvių būrys susidarė
+    neutralinėje Šveicarijoje. Ypačiai Amerikos lietuvių
+    organizacijų teikiamomis lėšomis tas būrys šelpė lietuvius be-
+    laisvius Vokietijoje ir skleidė žinias apie lietuvių tautą ir jos
+    reikalaujamąsias teises savarankiškai tvarkytis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169555
+
+- id: c-154266
+  citata_originali: |
+    Šita konferencija tegvildeno propagandos organizacijos
+    klausimus ir protestavo prieš vokiečių okupacijos žiaurumus
+    Lietuvoje ir krašto naikinimą.
+    Antroj Lozanos konferencijoj tų pačių metų birželio 30 —
+    liepos 4 d. dalyvavo iš okupuotosios Lietuvos atvykę delegatai.
+    Buvo nutarta politinės propagandos centrą padaryti Šveicarijoje
+    ir čia sukurti Rusijos, Lietuvos ir Amerikos lietuvių tarybą; dar-
+    bo pagrindu buvo paimtas nepriklausomybės reikalavimas.
+  citata_rodoma: "dalyvavo iš okupuotosios Lietuvos atvykę delegatai.\nBuvo nutarta politinės propagandos centrą padaryti Šveicarijoje\nir čia sukurti Rusijos, Lietuvos ir Amerikos lietuvių tarybą; dar-\nbo pagrindu buvo paimtas nepriklausomybės reikalavimas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169557
+
+- id: c-175993
+  citata_originali: |
+    Konfe-
+    rencija patvirtino Vilniaus konferencijos nutarimus ir iškėlė rei-
+    kalą būsimajai Lietuvai turėti uostą (Klaipėdą). Šveicarijos ko-
+    mitetai darbavosi ligi karo pabaigos.
+    Tokiais pat uždaviniais buvo susirūpinta Švedijoje ir Da-
+    nijoje, kur Rusijos lietuvių Komitetas nusiuntė savo atstovų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193261
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]

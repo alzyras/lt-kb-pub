@@ -19,6 +19,18 @@ amziai:
   - 'XVI'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Valerijonas (raštininkas)
 
@@ -29,18 +41,44 @@ periodo_grupes:
 ## Teiginiai
 
 <a id="claim-t-87465"></a>
-- t-001
+- t-002
   global_id: t-87465
-  teiginys: 'Valerijonas pasirašė 1533 m. spalio 23 d. Vilniuje rašytą dokumentą.'
+  teiginys: "Valerijonas pasirašė 1533 m. spalio 23 d. Vilniuje rašytą dokumentą."
+  temporaliniai_duomenys: "įvykio data: 1533 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citatoje dokumento pabaigoje nurodyta data, vieta ir įrašas „M.P. Valerijonas“."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "724355-725347; hash=5b67a576a2e4a51536c54420210a4cc4e8871a7779134073029a2306ee67f59a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Valerijonas (raštininkas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijonas (raštininkas)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-83444
 
 <a id="claim-t-87466"></a>
-- t-002
+- t-001
   global_id: t-87466
-  teiginys: '1533 m. spalio 23 d. Vilniuje datuotas karalienės Bonos laiškas buvo pasirašytas Valerijono.'
+  teiginys: "1533 m. spalio 23 d. Vilniuje datuotas karalienės Bonos laiškas buvo pasirašytas Valerijono."
+  temporaliniai_duomenys: "įvykio data: 1533 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia Valerijono parašą ant Vilniuje datuoto laiško."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "722602-723188; hash=8cb6bad8cf02ad17fca2d432a58a23e665c185c131f6523f4bb9845f2c740105; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antspaudas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Valerijonas (raštininkas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Antspaudas: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijonas (raštininkas)\" parinktas kaip owner_note_path. Targetas \"Antspaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-83445
 - susijęs iš [[objektai/asmenys/Juraha.md#claim-t-87530|Juraha]]: Akademijos rektorius Juraha 1756 m. Valerijono mūrinį namą priskyrė prie kolegijos.
 - susijęs iš [[objektai/asmenys/Valerijonas Protasevičius.md#claim-t-114011|Valerijonas Protasevičius (vyskupas)]]: 1579 m. Vilniuje duotą Bursos įkūrėjo atminimo aktą vyskupas Valerijonas pasirašė savo ranka.
 - susijęs iš [[objektai/grupes/Vilniaus žydų kahalas.md#claim-t-55107|Vilniaus žydų kahalas]]: Vilniaus kahalas iki 1763 m. Valerijono konvikto gyventojams mokėjo 8 procentus, o nuo 1763 m. - 3 procentus.
@@ -50,6 +88,7 @@ periodo_grupes:
 - susijęs iš Valerijono bursos: 1579 m. Vilniaus vyskupas Protasevičius nustatė, kad Akademijai užrašyti namai būtų vadinami Valerijono bursomis.
 - susijęs iš Švarco mūras: 1756 m. Akademijos rektorius tėvas Juraha Švarco vardu vadintą kolegijos namą perleido Valerijono bursai.
 - susijęs iš [[objektai/zodynas/kahalas.md#claim-t-86530|kahalas]]: Vilniaus kahalas iki 1763 m. nuo 5500 auksinų sumos Valerijono konvikto gyventojams mokėjo 8 procentus.
+- susijęs iš [[objektai/zodynas/jurisdikcija.md#claim-t-192171|jurisdikcija]]: Valerijono Bursos namų jurisdikcija palikta Vilniaus vyskupų įpėdiniams, nes namai stovėjo vyskupijos žemėje.
 - susijęs iš [[objektai/asmenys/Grigalius Astikas.md#claim-t-87510|Grigalius Astikas]]: Grigalius Astikas privilegijoje vadinamas išdaviku, po kurio Alantos dvaras 1581 m. vasario 13 d. dovanotas Gabrieliui Bekešui.
 - susijęs iš [[objektai/asmenys/Jonas Marija.md#claim-t-87726|Jonas Marija]]: Jonas Marija buvo architektas ir raižytojas, savo meno kūriniais papuošęs Vilnių.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103038|Jurgis Radvila (vyskupas, XVI a.)]]: Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė seminariją dvasinei jaunuomenei lavinti.
@@ -120,6 +159,7 @@ periodo_grupes:
     Sigismundus DEI gratia Rex Pol oniae Magnus Dux Litu-
     aniae, Russiae, totiusq.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -149,8 +189,73 @@ periodo_grupes:
     itališkosios giminės kerko, aplink įrašas lotyniškai:
     BONA Sfor.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-83444
+  citata_originali: |
+    IV KNYGA
+    pasakytum, kad turite paklusti teisei, pagal rašytus žemės
+    įstatymus iškeltumėte ir mūsų Pinsko ir Kobrino seniūnui
+    ponui Ivanui Michailovičiui apie tai po kurio laiko praneš­
+    tumėte ir apie visus tuos nuostolius, ir žemių, miškų ir pie­
+    vų aukščiau paminėtų grobimą ir ponios Jonienės kūdros
+    perkasimą su mūsų žmonėmis apžiūrėtumėte ir teisingumą
+    ten įvykdytumėte, kaip atrodys teisinga pagal Dievą ir jūsų
+    sąžinę taip, kad nenukentėtų nė viena pusė, kad mums dėl
+    to ponia Ona daugiau nesiskųstų. Rašyta Vilniuje Viešpa­
+    ties gimimo metais 1533 spalio mėnesio 23 dieną, 7 indikte.
+    M.P. Valerijonas
+
+    ## Puslapis 394
+
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    ŽYGIMANTO SENOJO RAŠTAS VILNIAUS MAGISTRATUI,
+    RAŠYTAS ANT POPIERIAUS SU PRISPAUSTU ANTSPAUDU
+    1538 METŲ BALANDŽIO 6-Ą, DĖL VYSKUPO NESIKIŠIMO
+    J TARNAUJANČIŲJŲ MIESTO JURISDIKCIJOJE TEISES
+    1533 METAIS
+    (Iš Vilniaus kapitulos archyvo rankraščių)
+    Sigismundus DEI gratia Rex Pol oniae Magnus Dux Litu-
+    aniae, Russiae, totiusq.
+  citata_rodoma: "Rašyta Vilniuje Viešpa­\nties gimimo metais 1533 spalio mėnesio 23 dieną, 7 indikte.\nM.P. Valerijonas\n\n## Puslapis 394\n\nVILNIAUS MIESTO ISTORIJA II TOMAS\nŽYGIMANTO SENOJO RAŠTAS VILNIAUS MAGISTRATUI, \nRAŠYTAS ANT POPIERIAUS SU PRISPAUSTU ANTSPAUDU  \n1538 METŲ BALANDŽIO 6-Ą, DĖL VYSKUPO NESIKIŠIMO \nJ TARNAUJANČIŲJŲ MIESTO JURISDIKCIJOJE TEISES \n1533 METAIS\n(Iš Vilniaus kapitulos archyvo rankraščių)\nSigismundus DEI gratia Rex Pol oniae Magnus Dux Litu- \naniae, Russiae, totiusq."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87465
+
+- id: c-83445
+  citata_originali: |
+    Taigi paveda­
+    me tau, kad apsigalvotumei ir nenorėtumei savo lengvabū­
+    diškumu mūsų malonės, kurią teikiame tos bažnyčios statu­
+    sui, erzinti. Nieku gyvu nenorėtumėme, kad tas ilgai užsitęstų.
+    Vilniuje, gegužės 6-ą V.M. 1514
+    ---- • ---
+    375
+
+    ## Puslapis 392
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    KARALIENĖ BONA,
+    1533 metų spalio mėnesio 23 dieną, 7 indikte,
+    rusų kalka Vilniuje datuotu laišku, su parašu Walerijan
+    (tikriausiai tai turėjo kūti raštininkas) ir prispaustu antspaudu;
+    antspaude yra Erelis, Vytis kei dvi dalys
+    itališkosios giminės kerko, aplink įrašas lotyniškai:
+    BONA Sfor.
+  citata_rodoma: "M. 1514\n---- • ---\n375\n\n## Puslapis 392\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nKARALIENĖ BONA,\n1533 metų spalio mėnesio 23 dieną, 7 indikte, \nrusų kalka Vilniuje datuotu laišku, su parašu Walerijan \n(tikriausiai tai turėjo kūti raštininkas) ir prispaustu antspaudu; \nantspaude yra Erelis, Vytis kei dvi dalys \nitališkosios giminės kerko, aplink įrašas lotyniškai:\nBONA Sfor."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87466

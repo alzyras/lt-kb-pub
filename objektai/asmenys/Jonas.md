@@ -18,6 +18,18 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jonas
 
@@ -30,9 +42,23 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 <a id="claim-t-60338"></a>
 - t-001
   global_id: t-60338
-  teiginys: '1324 m. grafas Jonas iš Španheimo atvyko į Prūsiją, bet dėl plono ledo nesiėmė veiksmų prieš tikėjimo priešus.'
+  teiginys: "1324 m. grafas Jonas iš Španheimo atvyko į Prūsiją, bet dėl plono ledo nesiėmė veiksmų prieš tikėjimo priešus."
+  semantiniai_rysiai: "Jonas keliavo į Prūsija (0.88)"
+  temporaliniai_duomenys: "kelionės data: 1324 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko glaustesnį sakinį apie Jono atvykimą ir neveikimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "675021-675409; hash=576e6b0362b7e8d939a614e3d7149f9e07aac63f4230f84d2ccb4d2401e07276; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jonas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Jonas atvyko į Prūsiją."
   pagrindžia:
-    - c-001
+    - c-60970
 - susijęs iš [[objektai/asmenys/Jonas (Alšėnų kunigaikštis).md#claim-t-87710|Jonas (Alšėnų kunigaikštis)]]: Alšėnų kunigaikštis Jonas pateko į nelaisvę, kai Vytautas atsitraukė po susidūrimo su kryžiuočiais ties Rudamina.
 - susijęs iš [[objektai/asmenys/Jonas (kancleris).md#claim-t-60342|Jonas (kancleris)]]: Kancleris Jonas buvo tarp liudytojų, dalyvavusių apie 1226 arba 1230 m. patvirtinant Kulmo ir Lubavos žemių dovanojimą Ordinui.
 - susijęs iš [[objektai/asmenys/Jonas (popiežius).md#claim-t-87522|Jonas (popiežius)]]: Popiežius Jonas turėjo atsiųsti pasiuntinius Gediminui, tačiau jų delsimas Gediminui kėlė didelį susirūpinimą.
@@ -66,6 +92,7 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 - susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: 1522 m. Vilniaus vyskupas Jonas prie Vilniaus katedros įkūrė penktąją scholastiko prelatūrą Katedros mokyklai išlaikyti.
 - susijęs iš Vilniaus katedra: 1522 m. Vilniaus vyskupas Jonas prie Vilniaus katedros įkūrė penktąją scholastiko prelatūrą Katedros mokyklai išlaikyti.
 - susijęs iš [[objektai/zodynas/oktava.md#claim-t-58859|oktava]]: 1330 m. per švento Martyno oktavą Jonas iš Endorfo nužudė didįjį magistrą Vernerį.
+- susijęs iš [[objektai/daiktai/Ietis.md#claim-t-192077|Ietis]]: 1329 m. Jonas Liuksemburgietis ir lietuvių didikas Margalis raiti susirėmė ietimis, o jas sulaužę ėmė kautis kalavijais.
 - susijęs iš [[objektai/asmenys/Albertas (Brandenburgo markgrafas).md#claim-t-60227|Albertas (Brandenburgo markgrafas)]]: Brandenburgo markgrafas Albertas buvo tarp didikų, pritarusių, kad Fridrichas prašytų popiežiaus patvirtinti ligoninę.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis Polockietis.md#claim-t-183726|Andrius Algirdaitis Polockietis]]: Andrius Algirdaitis Polockietis buvo vienas iš žymių Lietuvos kunigaikščių, žuvusių mūšyje.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis Polockietis.md#claim-t-40019|Andrius Algirdaitis Polockietis]]: Andrius Algirdaitis Polockietis žuvo mūšyje, kuriame krito keliasdešimt žymių Lietuvos kunigaikščių.
@@ -167,11 +194,33 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 
        349 (342). Apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinimą 1324 metais
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-60970
+  citata_originali: |
+    1324 viešpaties metais į Prūsiją atvyko valdovai Jonas ir Pilypas, grafai iš Španheimo,
+    iš Čekijos valdovas Petras iš Rozenbergo, jo dėdė Hermanas su daugybe riterių bei
+    ginklanešių ir daug kitų kilmingųjų iš Reino bei Elzaso, tačiau jie nieko tada nesiėmė
+    prieš tikėjimo priešus, nes ledas buvo plonas.
+
+
+
+
+       349 (342). Apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinimą 1324 metais
+  citata_rodoma: "1324 viešpaties metais į Prūsiją atvyko valdovai Jonas ir Pilypas, grafai iš Španheimo,\niš Čekijos valdovas Petras iš Rozenbergo, jo dėdė Hermanas su daugybe riterių bei\nginklanešių ir daug kitų kilmingųjų iš Reino bei Elzaso, tačiau jie nieko tada nesiėmė\nprieš tikėjimo priešus, nes ledas buvo plonas.\n\n\n\n\n   349 (342)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60338
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

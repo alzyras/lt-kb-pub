@@ -5,6 +5,18 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Laidotuvių palyda su kardų žvanginimu ir Pykuolio varymo šūksniais
 
@@ -28,16 +40,30 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-189925"></a>
 - t-001
   global_id: t-189925
-  teiginys: 'Narbutas aprašo laidotuvių paprotį, kai mirusįjį lydintys raiti giminaičiai ir bičiuliai žvangindavo kardais ir šūksniais vydavo Pykuolį.'
+  teiginys: "Narbutas aprašo laidotuvių paprotį, kai mirusįjį lydintys raiti giminaičiai ir bičiuliai žvangindavo kardais ir šūksniais vydavo Pykuolį."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "640309-640651; hash=d7ad9f02099f4405aae40be05e5d13975369f07062e5902d0c7b3c585e610b68; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kardas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Laidotuvių palyda su kardų žvanginimu ir Pykuolio varymo šūksniais: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kardas: mention_match, thing, gap=85"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Laidotuvių palyda su kardų žvanginimu ir Pykuolio varymo šūksniais\" parinktas kaip owner_note_path. Targetas \"Kardas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
-
+    - c-172808
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Narbutas aprašo laidotuvių paprotį, kai mirusįjį lydintys raiti giminaičiai ir bičiuliai žvangindavo kardais ir šūksniais vydavo Pykuolį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -48,8 +74,27 @@ Nenurodyta
     dą ir vis šaukia: „Ei, ei, bėkite, pykuoliai!“ (Gej, gej, begejte
     Pokole!) Tai yra varo šalin piktąjį dievą Pykuolį (Poklių) nuo
     mirusio asmens kūno.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-172808
+  citata_originali: |
+    Mirusįjį, vežamą į laidotuvių vietą, lydi raiti ginkluoti gi­
+    minaičiai ir bičiuliai, kurie šalia vežimo, ant kurio guli miru­
+    siojo palaikai, tolydžio mosikuoja kardais, čerškina kardą į kar­
+    dą ir vis šaukia: „Ei, ei, bėkite, pykuoliai!“ (Gej, gej, begejte
+    Pokole!) Tai yra varo šalin piktąjį dievą Pykuolį (Poklių) nuo
+    mirusio asmens kūno.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-189925

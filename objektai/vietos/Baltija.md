@@ -3,12 +3,25 @@ tipas: vieta
 pavadinimas: 'Baltija'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ordinas
   - pilis
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Baltija
 
@@ -18,39 +31,134 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 
 ## Teiginiai
 
-<a id="claim-t-67689"></a>
+<a id="claim-t-67690"></a>
 - t-001
-  global_id: t-67689
-  teiginys: '1252 m. Livonijos ordinas pradėjo statyti pilį vietoje, kur Kuršių marios jungiasi su Baltija.'
+  global_id: t-67690
+  teiginys: "1252 m. Livonijos ordinas pradėjo statyti pilį vietoje, kur Kuršių marios jungiasi su Baltija."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "129115-129317; hash=f87eb02629f2ecd2b53b64c0d650f084e08dc9c7b861b6e2583293d228107de0; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
+    - c-67494
+
+<a id="claim-t-67690"></a>
+- t-001
+  global_id: t-67690
+  teiginys: "1252 m. Livonijos ordinas pradėjo statyti pilį vietoje, kur Kuršių marios jungiasi su Baltija."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "129115-129317; hash=f87eb02629f2ecd2b53b64c0d650f084e08dc9c7b861b6e2583293d228107de0; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-67494
+
+<a id="claim-t-192613"></a>
+- t-003
+  global_id: t-192613
+  teiginys: "Narbutas rašo, kad apie Pitėją manyta jį antrąją kelionę vykus į šiaurės rytus ir atradus Baltijos salą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "601598-602034; hash=d577a6e935a63d40e3d68fbc2aee8266a163a1b6c04aec5228f75b02e7f51069; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Argonautai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Baltija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Argonautai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Baltija\" parinktas kaip owner_note_path. Targetas \"Argonautai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175383
+
+<a id="claim-t-192614"></a>
+- t-004
+  global_id: t-192614
+  teiginys: "Narbutas nurodo, kad Plinijaus Baltija, remiantis Hardua rankraščiais ir stebėjimais, turėtų vadintis Basilia."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  saltinio_vieta: "602787-603167; hash=54c4bac4aabb66287b0f4033aa8f7865acea2e78f39b1d0af6278f673feb520d; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Hardua: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Baltija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Hardua: mention_match, person, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Baltija\" parinktas kaip owner_note_path. Targetas \"Hardua\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
+  pagrindžia:
+    - c-175384
 - susijęs iš [[objektai/grupes/Baltai.md#claim-t-96086|Baltai]]: Baltais vadinama indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti rytiniame Baltijos jūros pakraštyje ir kalbanti giminiškomis kalbomis.
+- susijęs iš [[objektai/grupes/Gotai.md#claim-t-192401|Gotai]]: Narbutas gotais vadinamą tautą sieja su pajūriu nuo Oderio iki Vyslos, gitonų arba variagų vardais ir gintaro prekyba.
+- susijęs iš [[objektai/grupes/Kimbrai.md#claim-t-192933|Kimbrai]]: Narbutas aiškina, kad Baltijos pakrančių nelaimė išstūmė kimbrus iš jų gyvenamųjų vietų ir privertė trauktis į Rytus.
+- susijęs iš Semba: Narbutas, remdamasis Tunmanu, teigė, kad lietuvių protėviai prie Baltijos jūros tuojau užėmė Sembą ir gintaro kasyklas.
 - susijęs iš [[objektai/zodynas/glesum.md#claim-t-28586|glesum]]: Tacitas rašė, kad Aestii Baltijos jūros pakraščiuose ir krante rinko gintarą, kurį vadino glesum.
+- susijęs iš [[objektai/asmenys/Tunmanas.md#claim-t-191234|Tunmanas]]: Tunmanas savo tyrimais rodė, kad lietuvių tautos tėvai, atsikėlę prie Baltijos jūros, užėmė Sembą ir gintaro kasyklas.
 - susijęs iš Vysla: Lietuvių tauta, pasak Balińskio, buvo užėmusi Baltijos pakrantę nuo Dvinos iki Vyslos.
 - susijęs iš [[objektai/grupes/Venedai.md#claim-t-86774|Venedai]]: Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
 - susijęs iš Semba: Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
+- susijęs iš [[objektai/asmenys/Adomas Bremenietis.md#claim-t-190835|Adomas Bremenietis]]: Adomas Bremenietis, aprašydamas Baltijos jūros kraštus, minėjo didžiulę salą, vadinamą Estlandija.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176292|Algirdas (Lietuvos valdovas)]]: Valdant Ldk Algirdui 1345–1377 m. Lietuva tapo didvalstybe ir išplėtė teritoriją nuo Baltijos iki Juodosios jūros.
 - susijęs iš [[objektai/asmenys/Augustas II.md#claim-t-78943|Augustas II]]: Augustas II su Petru I susitarė atimti iš švedų Baltijos pajūrį ir į sąjungą įtraukė Daniją bei Brandenburgo kunigaikštį.
+- susijęs iš [[objektai/asmenys/Augustas Liudvikas fon Slėceris.md#claim-t-191120|Augustas Liudvikas fon Slėceris]]: Narbutas gina Slėcerį nuo kaltinimo melavimu, aiškindamas, kad jis galėjo remtis gerais senovės šaltiniais apie Baltiją.
 - susijęs iš [[objektai/asmenys/Borisas Jelcinas.md#claim-t-63521|Borisas Jelcinas]]: Po 1991 m. sausio 13 d. įvykių Vilniuje Borisas Jelcinas kreipėsi į Baltijos šalyse tarnaujančius karius, ragindamas nepasiduoti reakcijos jėgoms.
+- susijęs iš [[objektai/asmenys/Dalinas.md#claim-t-191497|Dalinas]]: Narbutas kritiškai rašo, kad Dalinas ir Kelsijus perdėtai skaičiavo Baltijos jūros nusekimą nuo Kristaus gimimo.
 - susijęs iš [[objektai/asmenys/Ernestas Galvanauskas.md#claim-t-169967|Ernestas Galvanauskas]]: Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgaliojimus patenkinti Lenkijos ekonominius interesus, garantuoti lenkams priėjimą prie Baltijos jūros, sudaryti konvencijas, įskaitant gynybinę, kad tik pavyktų susigrąžinti Vilnių.
+- susijęs iš [[objektai/asmenys/Fosas.md#claim-t-191399|Fosas]]: Narbuto kritikuojamas Fosas Austraviją, arba Glesariją, tapatino su fryzų sala Amelandu ir neigė Pitėjo lankymąsi Baltijos jūroje.
+- susijęs iš [[objektai/asmenys/Germanarikas.md#claim-t-191150|Germanarikas]]: Narbutas pažymi, kad Jordanas, vardydamas Germanariko valdomas gentis nuo Juodosios iki Baltijos jūros, jotvingių nemini.
+- susijęs iš [[objektai/asmenys/Hardua.md#claim-t-191407|Hardua]]: Narbuto teigimu, pagal Hardua rankraščius ir stebėjimus Plinijaus Baltija vadinta sala turėtų būti vadinama Basilia.
+- susijęs iš [[objektai/asmenys/Hartknochas.md#claim-t-190861|Hartknochas]]: Hartknochas, remdamasis vietos padavimais ir tyrimais, Baltijos pakrantės pokyčius siejo su smarkių šiaurinių vėjų sukeltais potvyniais Prūsijoje.
+- susijęs iš [[objektai/asmenys/Hartknochas.md#claim-t-190862|Hartknochas]]: Hartknochas pateikė žinių, kad prie Baltijos jūros ilgai gyvavo padavimai apie tenykščių genčių, ypač prūsų, ištakas.
+- susijęs iš [[objektai/asmenys/Johanas Fosas.md#claim-t-191282|Johanas Fosas]]: Pasak Narbuto, Johanas Fosas neigė Pitėjo lankymąsi Baltijos jūroje ir Austraviją tapatino su fryzų sala Amelandu.
 - susijęs iš [[objektai/asmenys/Josifas Stalinas.md#claim-t-101664|Josifas Stalinas]]: J. Stalino SSRS buvo laikoma jėga, prieš kurią Baltijos šalių pasipriešinimo dalyviai tikėjosi Vakarų žygio.
+- susijęs iš [[objektai/asmenys/Kelsijus.md#claim-t-191431|Kelsijus]]: Kelsijų ir Daliną Teodoras Narbutas kritikavo už skaičiavimą, kad Baltijos jūra nuo Kristaus gimimo nuseko 13 sieksnių ir po 4000 metų išnyks.
+- susijęs iš [[objektai/asmenys/Mela.md#claim-t-191297|Mela]]: Narbutas gynė Melą nuo Slėcerio kaltinimų ir svarstė, kad Mela žinias apie Baltijos pakrantes galėjo perimti iš gerų senovės šaltinių.
+- susijęs iš [[objektai/asmenys/Motiejus Strijkovskis.md#claim-t-190926|Motiejus Strijkovskis]]: Narbutas aiškina, kad Strijkovskis kimbrų pasitraukimą nuo Baltijos į Ilyriją datavo 190 metais prieš Kristaus gimimą.
+- susijęs iš [[objektai/asmenys/Olafas Dalinas.md#claim-t-191507|Olafas Dalinas]]: Teodoras Narbutas kritikavo Kelsijų ir Olafą Daliną dėl teiginio, kad nuo Kristaus gimimo Baltijos jūra nuseko 13 sieksnių.
 - susijęs iš [[objektai/asmenys/Petras I Didysis.md#claim-t-184422|Petras I Didysis]]: Augustas II ir Petras I sudarė sutartį atimti iš Švedijos Baltijos pajūrį.
 - susijęs iš [[objektai/asmenys/Petras I Didysis.md#claim-t-184424|Petras I Didysis]]: Maskvos caras Petras I Didysis ruošėsi prasiveržti į Baltijos jūrą, tam siekdamas išvyti švedus iš pajūrio.
+- susijęs iš [[objektai/asmenys/Plinijus Vyresnysis.md#claim-t-191095|Plinijus Vyresnysis]]: Narbutas teigė, kad sala, kurią Plinijus vadino Baltija, pagal Hardua rankraščius ir stebėjimus turėtų vadintis Basilia.
 - susijęs iš [[objektai/asmenys/Plinijus.md#claim-t-190200|Plinijus]]: Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus pastebėtą Saulės, arba Apolono, garbinimą prie Baltijos jūros.
+- susijęs iš [[objektai/asmenys/Plinijus.md#claim-t-190957|Plinijus]]: Narbutas teigė, kad sala, kurią Plinijus vadino Baltija, pagal Hardua rankraščius ir stebėjimus turėtų vadintis Basilia.
+- susijęs iš [[objektai/asmenys/Pompomijus Mela.md#claim-t-191151|Pompomijus Mela]]: Narbutas manė, kad Pompomijus Mela galbūt nesilankė prie Baltijos, bet galėjo remtis gerais senovės šaltiniais apie Šiaurės kraštus.
 - susijęs iš [[objektai/asmenys/Ponas Riteris.md#claim-t-190238|Ponas Riteris]]: Narbutas rašo, kad ponas Riteris savo „Siaurės senovės tyrimuose“ plačiai aptarė Saulės, arba Apolono, garbinimą prie Baltijos jūros.
+- susijęs iš [[objektai/asmenys/Protonas I.md#claim-t-191224|Protonas I]]: Teodoro Narbuto pasakojime karalius Protonas I su stipriu laivynu nuplaukė prie rytinių Baltijos pakrančių pulti rusų.
 - susijęs iš [[objektai/asmenys/R. fon der Goltzas.md#claim-t-40402|R. fon der Goltzas]]: 1919 m. pradžioje gen. R. fon der Goltzas buvo paskirtas vokiečių pajėgų Baltijos šalyse vadu.
 - susijęs iš [[objektai/asmenys/Riteris.md#claim-t-190239|Riteris]]: Narbutas nurodo, kad ponas Riteris „Šiaurės senovės tyrimuose“ plačiai aptarė saulės, arba Apolono, garbinimą prie Baltijos jūros.
+- susijęs iš [[objektai/asmenys/Slėceris.md#claim-t-191181|Slėceris]]: Narbuto vertinimu, Slėcerio nereikėjo kaltinti melu dėl Baltijos, nes jis galėjo remtis gerais senovės šaltiniais.
 - susijęs iš [[objektai/asmenys/Teobaldas fon Betmanas Holvegas.md#claim-t-26429|Teobaldas fon Betmanas Holvegas]]: Teobaldas fon Betmanas Holvegas 1916 m. balandį Reichstage pareiškė, kad Vokietija negrąžins Rusijai žmonių, gyvenančių nuo Baltijos jūros iki Voluinės pelkių.
+- susijęs iš [[objektai/asmenys/Tunmanas.md#claim-t-191234|Tunmanas]]: Tunmanas savo tyrimais rodė, kad lietuvių tautos tėvai, atsikėlę prie Baltijos jūros, užėmė Sembą ir gintaro kasyklas.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176741|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytauto valdymo užkariavimai pastūmė Lietuvos sienas nuo Baltijos iki Juodosios jūros.
+- susijęs iš [[objektai/autoriai/Adomas Bremenietis.md#claim-t-190679|Adomas Bremenietis]]: Adomas Bremenietis, Narbuto perteikimu, rašė apie didžiulę Baltijos jūros salą, vadintą Estlandija.
+- susijęs iš [[objektai/autoriai/Adomas Bremenietis.md#claim-t-190680|Adomas Bremenietis]]: Adomas Bremenietis, Narbuto aiškinimu, Balticum vardą siejo su Baltijos pakrančių baltais, priskirtais lietuvių genties tautoms.
+- susijęs iš [[objektai/autoriai/Augustas Liudvigas Šleceris.md#claim-t-190693|Augustas Liudvigas Šleceris]]: Teodoras Narbutas svarstė, kad Šleceris galėjo nesilankyti prie Baltijos, bet rėmėsi gerais senovės šaltiniais apie Šiaurės kraštus.
+- susijęs iš [[objektai/autoriai/Augustas Liudvikas fon Slėceris.md#claim-t-191571|Augustas Liudvikas fon Slėceris]]: Narbutas svarstė, kad Augustas Liudvikas fon Slėceris galbūt nesilankė prie Baltijos, bet galėjo remtis gerais senovės šaltiniais.
 - susijęs iš [[objektai/autoriai/B. Nerman.md#claim-t-30569|B. Nerman]]: B. Nermanas 1929 m. Stokholme paskelbė darbą apie Skandinavijos ir Rytų Baltijos ryšius vėlyvajame geležies amžiuje.
+- susijęs iš [[objektai/autoriai/Bajeris.md#claim-t-191536|Bajeris]]: Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum pavadinimo ryšį su Baltijos pakrančių gyventojais.
+- susijęs iš [[objektai/autoriai/Dalinas.md#claim-t-191668|Dalinas]]: Teodoro Narbuto vertinimu, Dalinas su Kelsijumi pernelyg įsismagino skaičiuodami Baltijos jūros nusekimą nuo Kristaus gimimo.
+- susijęs iš [[objektai/autoriai/Fosas.md#claim-t-191671|Fosas]]: Fosas, Narbuto teigimu, neigė Pitėjo lankymąsi Baltijos jūroje ir Austraviją, arba Glesariją, laikė fryzų sala Amelandu.
+- susijęs iš [[objektai/autoriai/Helmoldas.md#claim-t-190699|Helmoldas]]: Helmoldas, Narbuto perteikimu, Baltijos jūros pavadinimą kildino iš žodžio Balteus, reiškiančio „riterio diržą“.
 - susijęs iš [[objektai/autoriai/Ibrahim ibn Jakub.md#claim-t-100109|Ibrahim ibn Jakub]]: Keliautojas ir pirklys iš arabiškos Ispanijos, žydas Ibrahim ibn Jakub, per vakarų Europą atvykęs iki Baltijos jūros (Wismar), 973 m. savo kelionių aprašyme prūsus vadino « Burūs ».
+- susijęs iš [[objektai/autoriai/Kelsijus.md#claim-t-191676|Kelsijus]]: Narbutas kritiškai vertina Kelsijaus ir Dalino skaičiavimą, kad nuo Kristaus gimimo Baltijos jūra nuseko 13 sieksnių.
 - susijęs iš [[objektai/autoriai/M. Gimbutienė.md#claim-t-30831|M. Gimbutienė]]: M. Gimbutienė paskelbė darbą apie bronzos amžiaus kultūrą pietryčių Baltijos regione.
+- susijęs iš [[objektai/autoriai/Malte-Brunas.md#claim-t-190759|Malte-Brunas]]: Malte-Brunas Baltijos jūros pavadinimą kildino iš senovės skandinavų žodžio Balt arba Beet, reiškusio vandens telkinį.
 - susijęs iš [[objektai/autoriai/Manteuffel T.md#claim-t-60846|Manteuffel T]]: T. Manteuffelio „Papiestwo“ cituojamas prie teiginio, kad rutėnais dažnai vadinti pietinės Baltijos pakrantės ir Riugeno gyventojai.
+- susijęs iš [[objektai/autoriai/Mela.md#claim-t-191653|Mela]]: Narbuto svarstymu, Mela galėjo nesilankyti prie Baltijos, bet apie jos pakrantės salas remtis gerais senovės šaltiniais.
+- susijęs iš [[objektai/autoriai/Pisanskis.md#claim-t-191589|Pisanskis]]: Teodoras Narbutas Pisanskio „Pastabas apie Baltijos jūrą“ nurodo lygindamas senovės autorių teiginius apie vandens lygio kritimą.
+- susijęs iš [[objektai/autoriai/Pitėjas.md#claim-t-191549|Pitėjas]]: Teodoras Narbutas nurodo nuomonę, kad Pitėjas keliavo du kartus: į Britaniją ir į šiaurės rytus, kur atrado Baltijos salą.
 - susijęs iš [[objektai/autoriai/Plinijus.md#claim-t-190376|Plinijus]]: Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie Baltijos jūros.
 - susijęs iš [[objektai/autoriai/Plinijus.md#claim-t-190377|Plinijus]]: Narbutas Plinijumi grindė teiginį, kad romėnų laivai prieš Kristaus gimimą plaukiojo Baltijos jūroje.
+- susijęs iš [[objektai/autoriai/Plinijus.md#claim-t-190784|Plinijus]]: Teodoro Narbuto teigimu, Plinijaus Baltija pagal Hardua rankraščius ir stebėjimus turėtų vadintis Basilia.
 - susijęs iš [[objektai/autoriai/Rimbertas.md#claim-t-30954|Rimbertas]]: Rimbertas apie 875 m. parašė šv. Ansgaro gyvenimą, kuriame nušviečiami Baltijos pajūrio kariniai santykiai.
 - susijęs iš [[objektai/autoriai/Rimberto, Rimbertas.md#claim-t-30958|Rimberto, Rimbertas]]: Rimbertas apie 875 m. parašė šv. Ansgaro gyvenimą, kuriame nušviečiami Baltijos pajūrio kariniai santykiai.
 - susijęs iš [[objektai/autoriai/Riteris.md#claim-t-190403|Riteris]]: Narbutas nurodė, kad Riteris savo „Šiaurės senovės tyrimuose“ plačiai aptarė padavimą apie saulės garbinimą prie Baltijos jūros.
+- susijęs iš [[objektai/autoriai/Tunmanas.md#claim-t-190812|Tunmanas]]: Pasak Teodoro Narbuto, Tunmanas tyrimais rodė, kad lietuvių tautos tėvai, atsikėlę prie Baltijos jūros, užėmė Sembą ir gintaro kasyklas.
 - susijęs iš [[objektai/autoriai/Wulfstanas.md#claim-t-97235|Wulfstanas]]: Wulfstanas buvo jūrininkas, lankęsis Baltijos jūros pakraščių kraštuose ir perdavęs žinių karaliui Alfredui Didžiajam.
 - susijęs iš [[objektai/daiktai/Baltijos kelio gedulo kaspinai ir žvakutės.md#claim-t-13281|Baltijos kelio gedulo kaspinai ir žvakutės]]: Baltijos kelio gedulo kaspinai ir žvakutės priminė aukas ir didelių netekčių skausmą.
 - susijęs iš [[objektai/daiktai/Baltijos kelio gedulo kaspinai ir žvakutės.md#claim-t-13282|Baltijos kelio gedulo kaspinai ir žvakutės]]: Baltijos kelyje plevėsavo juodi gedulo kaspinai ir degė žvakutės.
@@ -62,15 +170,19 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 - susijęs iš [[objektai/grupes/Baltijos antantė.md#claim-t-19658|Baltijos antantė]]: Baltijos antantė negarantavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus krašto.
 - susijęs iš [[objektai/grupes/Baltijos valstybės.md#claim-t-65084|Baltijos valstybės]]: Sovietams kariaujant su Suomija Baltijos valstybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos kaip agresorė.
 - susijęs iš [[objektai/grupes/Europos Sąjunga.md#claim-t-74110|Europos Sąjunga]]: Lietuva, Latvija ir Estija pasirašė Europos asociacijos sutartis su ES, kuriose pripažintas Baltijos valstybių tikslas tapti ES narėmis.
+- susijęs iš [[objektai/grupes/Gotai.md#claim-t-192396|Gotai]]: Narbutas Skandinavijos gotus apibūdina kaip senus jūrų keliautojus, kurie Baltijos pakrantėse prekiavo ir dažniau plėšikavo.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178957|Kryžiuočių ordinas]]: Teutonų ordinas XIII a. pavergė prūsus, slopino lietuvių pagonybę ir Baltijos pakrantėse daugino miestus bei pilis.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169694|Lietuvos Didžioji Kunigaikštija]]: Lietuvos Didžiosios Kunigaikštijos atsiradimą pagreitino vokiečių riterių agresija ir jų kolonijinių valstybių kūrimasis prie Baltijos.
 - susijęs iš [[objektai/grupes/Lietuvos diplomatinė tarnyba.md#claim-t-19867|Lietuvos diplomatinė tarnyba]]: Lietuvos diplomatinės tarnybos diplomatai simboliškai atstovavo Lietuvai ir palaikė ryšius su kitų Baltijos šalių atstovais.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179435|Livonijos ordinas]]: Siena su Livonijos ordinu prasidėjo į Baltiją įtekančia Šventosios upe ir toliau rėmėsi senomis ribomis.
 - susijęs iš [[objektai/grupes/Lybiai.md#claim-t-96812|Lybiai]]: XII-XIII a. sandūroje lybiai gyveno abipus Dauguvos žemupio, šiauriniame Kurše ir Latvijos Baltijos pajūryje.
+- susijęs iš [[objektai/grupes/Lygai.md#claim-t-192955|Lygai]]: Teodoras Narbutas lygus siejo su senovės Baltijos jūros pietryčių pakrančių gyventojais.
 - susijęs iš [[objektai/grupes/Normanai.md#claim-t-86723|Normanai]]: Normanų piratų lankytas kraštas apėmė Baltijos jūros pakrantę nuo Vyslos žiočių iki Suomijos įlankos.
 - susijęs iš [[objektai/grupes/Normanai.md#claim-t-86724|Normanai]]: IX amžiuje Rusioje variagais vadinti normanai iš Skandinavijos Baltijos pakrantėse siekė plėšikavimo ir prekybos.
 - susijęs iš [[objektai/grupes/Rusijos Federacija.md#claim-t-108340|Rusijos Federacija]]: Rusijos valdžia SSRS griūtį vadina geopolitine katastrofa ir teigia, kad Baltijos valstybės neva savo noru įstojo į SSRS.
 - susijęs iš [[objektai/grupes/SSRS liaudies deputatų II suvažiavimas.md#claim-t-19999|SSRS liaudies deputatų II suvažiavimas]]: 1989 m. gruodį SSRS liaudies deputatų II suvažiavimas pasmerkė slaptųjų protokolų padarinius, bet tiesiogiai jų nesusiejo su Baltijos valstybių okupacija.
+- susijęs iš [[objektai/grupes/Skandinavai.md#claim-t-192457|Skandinavai]]: Narbutas spėjo, kad skandinavai iš Baltijos jūros per Nevą ir Ladogos ežerą galėjo pasiekti Pailmenės slavus.
+- susijęs iš [[objektai/grupes/Skitai.md#claim-t-192465|Skitai]]: Narbutas manė, kad skitai gintarą gaudavo keliu palei Baltijos jūrą ir tinkamiausia šio kelio upe laikė Nemuną.
 - susijęs iš [[objektai/grupes/Venedai.md#claim-t-86774|Venedai]]: Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
 - susijęs iš [[objektai/grupes/Čeltyčios.md#claim-t-189540|Čeltyčios]]: Narbutas Čeltyčias vaizdavo kaip Baltijos jūros vandenų nimfas, pajūrio žemaičių vaizduotėje gyvenusias gintaro rūmuose.
 - susijęs iš [[objektai/grupes/Švedai.md#claim-t-75063|Švedai]]: Švedija siekė viešpatauti Baltijos jūroje, vadindama šį tikslą dominium maris Baltici.
@@ -83,6 +195,9 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 - susijęs iš [[objektai/ivykiai/Baltijos šalių paskelbimas sovietų socialistinėmis respublikomis (1940 m. liepos 21 d.).md#claim-t-20169|Baltijos šalių paskelbimas sovietų socialistinėmis respublikomis (1940 m. liepos 21 d.)]]: 1940 m. liepos 21 d. trijų Baltijos šalių „parlamentai“ paskelbė savo šalis sovietų socialistinėmis respublikomis.
 - susijęs iš [[objektai/ivykiai/Baltijos šalių vyriausybių vadovų kreipimasis į Europos ekonominę bendriją (1990 m. gruodžio 14 d.).md#claim-t-20170|Baltijos šalių vyriausybių vadovų kreipimasis į Europos ekonominę bendriją (1990 m. gruodžio 14 d.)]]: 1990 m. gruodžio 14 d. Baltijos šalių vyriausybių vadovai pirmą kartą kreipėsi į EEB, prašydami paramą teikti tiesiogiai, o ne per Sovietų Sąjungą.
 - susijęs iš [[objektai/ivykiai/Europos asociacijos sutarčių pasirašymas su Baltijos valstybėmis.md#claim-t-20181|Europos asociacijos sutarčių pasirašymas su Baltijos valstybėmis]]: Lietuva, Latvija ir Estija pasirašė Europos asociacijos sutartis su ES, kuri pripažino Baltijos valstybių tikslą tapti jos narėmis.
+- susijęs iš [[objektai/ivykiai/Kimbrų epochos potvynis Baltijos pakrantėse.md#claim-t-191024|Kimbrų epochos potvynis Baltijos pakrantėse]]: Narbutas, remdamasis Hartknochu, kimbrų epochos potvynį sieja su dideliais Baltijos jūros krantų reljefo ir pavidalo pokyčiais Prūsijoje.
+- susijęs iš [[objektai/ivykiai/Kimbrų pergalė prieš konsulą Scipioną.md#claim-t-191870|Kimbrų pergalė prieš konsulą Scipioną]]: Teodoras Narbutas kimbrų pergalę prieš konsulą Scipioną 169 m. pr. Kr. siejo su nuo Baltijos pasitraukusiais kimbrais, kurių ainiai, jo manymu, gyveno prie Veronos.
+- susijęs iš [[objektai/ivykiai/Kimbrų pirmasis karas su romėnais prie Nortbėjos.md#claim-t-191066|Kimbrų pirmasis karas su romėnais prie Nortbėjos]]: Narbutas nurodo, kad Strijkovskis kimbrų pasitraukimą nuo Baltijos siejo su pirmuoju jų karu prieš romėnus prie Nortbėjos 190 m. pr. Kr.
 - susijęs iš [[objektai/ivykiai/Latvijos ir Estijos okupavimas po Lietuvos atkirtimo (1940 m. birželio 16 d.).md#claim-t-45353|Latvijos ir Estijos okupavimas po Lietuvos atkirtimo (1940 m. birželio 16 d.)]]: 1940 m. birželio 16 d. sovietų divizijos per Lietuvą atkirtusios Latviją ir Estiją nuo Vokietijos greitai okupavo abi Baltijos valstybes.
 - susijęs iš [[objektai/ivykiai/Lietuvos diplomatinės tarnybos darbo pabaiga (1991 m. rugsėjo 6 d.).md#claim-t-20296|Lietuvos diplomatinės tarnybos darbo pabaiga (1991 m. rugsėjo 6 d.)]]: Lietuvos diplomatinės tarnybos diplomatai atstovaujamose valstybėse simboliškai atstovavo Lietuvai ir palaikė ryšius su Baltijos šalių atstovais.
 - susijęs iš [[objektai/ivykiai/Lietuvos ir Rusijos sutarties dėl valstybinės sienos ir Baltijos jūros zonų pasirašymas (1997 m. spalis).md#claim-t-75149|Lietuvos ir Rusijos sutarties dėl valstybinės sienos ir Baltijos jūros zonų pasirašymas (1997 m. spalis)]]: 1997 m. spalį Lietuva ir Rusija pasirašė sutartį dėl valstybinės sienos, išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jūroje atskyrimo.
@@ -104,11 +219,17 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 - susijęs iš [[objektai/posakiai/geopolitine katastrofa.md#claim-t-26350|geopolitine katastrofa]]: Rusijos valdžia SSRS griūtį vadina geopolitine katastrofa ir teigia, kad Baltijos valstybės neva savo noru įstojo į SSRS.
 - susijęs iš [[objektai/posakiai/„nuo jūros iki jūros“.md#claim-t-26906|„nuo jūros iki jūros“]]: Formulė „nuo jūros iki jūros“ nusako teritorinę projekciją nuo Baltijos iki Juodosios jūros.
 - susijęs iš Baltijos valstybių santarvės ir bendradarbiavimo sutartis: Baltijos valstybių santarvės ir bendradarbiavimo sutartis buvo susijusi su Baltijos Valstybių Tarybos įkūrimu.
+- susijęs iš Christoph Hartknoch, Alt- und neues Preussen: Pasak Narbuto, Hartknochas pateikė žinių apie prie Baltijos jūros gyvavusius padavimus dėl tenykščių genčių, ypač prūsų, ištakų.
 - susijęs iš Europos (asociacijos) sutartys su ES: Lietuva, Latvija ir Estija pasirašė Europos asociacijos sutartis su ES, kuriose ES pripažino Baltijos valstybių tikslą tapti narėmis.
 - susijęs iš F. Ruzvelto įsakymas dėl Baltijos valstybių lėšų įšaldymo (1940 m. liepos 15 d.): 1940 m. liepos 15 d. F. Ruzvelto įsakymas įšaldė JAV bankuose laikytas Baltijos valstybių lėšas.
 - susijęs iš Historiarum liber VII adversus paganos: Alfredas Didysis, versdamas Orosijaus „Historiarum liber VII adversus paganos“, pridėjo žinių apie Baltijos jūros pakraščių tautas.
 - susijęs iš Historiarum liber VII adversus paganos: Alfredas Didysis, versdamas Orosijaus „Historiarum liber VII adversus paganos“, pridėjo žinių apie Baltijos pakraščių tautas ir aisčius.
 - susijęs iš Lietuvos ir Rusijos sutartis dėl valstybinės sienos ir dėl išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jūroje atskyrimo: 1997 m. spalį Lietuva ir Rusija pasirašė sutartį dėl valstybinės sienos, išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jūroje atskyrimo.
+- susijęs iš Lietuvos metraštis (Bychovco kronika): Narbutas rašo, kad Žemaitija nuo senovės plytėjo tarp Baltijos jūros, Latvijos ir Stavanijos, o per vidurį tekėjo Venta.
+- susijęs iš M. Strijkovskio kronika: Teodoro Narbuto aiškinimu, Strijkovskis taisė Rozencveigo datos prieštaravimą, kimbrų pasitraukimą nuo Baltijos pakrančių siedamas su 190 m. pr. Kr. karu Ilirijoje.
+- susijęs iš Pisanskio Pastabos apie Baltijos jūrą: Narbutas, lygindamas su Pisanskio pastabomis apie Baltijos jūrą, kritikuoja Kelsijaus ir Dalino skaičiavimą dėl jūros nusekimo.
+- susijęs iš Pisanskio Pastabos apie Baltijos jūrą: Pisanskis pastabose apie Baltijos jūrą rašė, kad jūra toliau plauna vakarines ir šiaurines Sambijos pakrantes.
+- susijęs iš Rozencveigo kronika: Teodoras Narbutas Rozencveigo kroniką siejo su pasakojimu apie kimbrų epochos potvynį, kuris esą buvęs iki prūsų įsikūrimo prie Baltijos jūros.
 - susijęs iš Tautų Sąjungos Statutas: Tautų Sąjungos Statuto 16 straipsnis galėjo reikalauti leisti užsienio kariuomenėms kirsti Baltijos valstybių teritoriją.
 - susijęs iš Вилинбахов В. Б. Балтийские славяне в русском эпосе и фольклоре: V. B. Vilinbachovo straipsnis apie baltijos slavus rusų epe ir folklore paskelbtas 1965 m. „Slavia Occidentalis“ 25 tome.
 - susijęs iš Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): XII amžiuje buvo geriau susipažinta su tolimesnėmis Baltijos jūros pakrantėmis.
@@ -129,13 +250,24 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 - susijęs iš Baltijos jūra: Narbutas čeltyčias apibūdino kaip Baltijos jūros vandenų nimfas, pajūrio žemaičių vaizduotėje gyvenusias gintaro rūmuose jūros gelmėse.
 - susijęs iš Baltijos jūra: Narbutas Palangą laikė senu uostamiesčiu, tai aiškindamas aukštesniu Baltijos jūros vandens lygiu arba dar smėliu neužnešta pakrante.
 - susijęs iš Baltijos jūra: Narbutas teigė, kad Krivių Krivaičio valdžia anksčiau apėmė žemes nuo Vyslos iki Dauguvos ir nuo Baltijos jūros į Rusios gilumą.
+- susijęs iš Baltijos jūra: Narbutas kimbrų pasitraukimą iš Baltijos jūros pakrančių aiškino stichine nelaime Šiaurės Europoje po maždaug penkių jų gyvenimo ten amžių.
+- susijęs iš Baltijos jūra: Narbutas aiškino, kad skitai gintarą turėjo gauti keliu palei į Baltijos jūrą įtekančią upę, labiausiai tapatintiną su Nemunu.
+- susijęs iš Baltijos jūra: Narbutas pasakoja, kad atvykėliai iš Juodosios jūros per miškingas stepes, vadintas Rusija, Podolija ir Lietuva, prasiskverbė iki Baltijos jūros.
+- susijęs iš Baltijos jūra: Narbutas perteikia Tunmano nuomonę, kad lietuvių tautos tėvai, atsikėlę prie Baltijos jūros, tuojau užėmė Sembą ir gintaro kasyklas.
+- susijęs iš Baltijos jūra: Narbutas Tikrosios Prūsijos sieną vedė Vyslos žemupiu, Baltijos jūra iki Nemunyno žiočių, toliau link Rusios, Širvintos ir Mazovijos.
+- susijęs iš Baltijos jūra: Narbutas pritarė stebėjimais grindžiamai išvadai, kad Baltijos jūra senka.
+- susijęs iš Baltijos jūra: Narbutas aiškino, kad į pietus nuo Baltijos krantų vandens atneštos nuolaužos sudarė naujus, gilius ir kai kur apsemtus žemės sluoksnius.
 - susijęs iš Bartos žemė: Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Latgalą ir Baltijos pajūrį tarp Priegliaus ir Dauguvos.
 - susijęs iš Dauguva: Narbutas Krivių Krivaičio valdžią vaizdavo kaip kadaise apėmusią žemes nuo Vyslos iki Dauguvos ir nuo Baltijos jūros į Rusios gilumą.
+- susijęs iš Didžioji Britanija: Narbutas perteikia nuomonę, kad Pitėjas pirmąją kelionę atliko į Britaniją, o antrąją - į šiaurės rytus, kur atrado Baltijos salą.
 - susijęs iš Dniepras: Nemuno ir Dniepro baseinai jungė valstybę su Baltijos ir Juodąja jūromis, todėl jos padėtis buvo patogi prekybai.
 - susijęs iš Kuršių marios: 1252 m. Livonijos ordinas pradėjo statyti pilį ten, kur Kuršių marios jungiasi su Baltija.
 - susijęs iš Latvija: Lemiamų kovų su bolševikais metu Šiaurės Lietuvoje ir Latvijoje susitelkė naujas Lietuvos ir kitų Baltijos valstybių priešas – bermontininkai.
 - susijęs iš Lenkija: Šiaurės Europą dengęs ledynas, kuris buvo apėmęs Pabaltijį, šiaurės Lenkiją, vidurio Rusiją, ėmė trauktis iš Baltijos plotų.
 - susijęs iš Livonija: Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos.
+- susijęs iš Podolė: Teodoras Narbutas Podoliją priskiria miškingoms stepėms, per kurias jo pasakojime iš Juodosios jūros link Baltijos keliavo atvykėliai.
+- susijęs iš Pripetė: Teodoras Narbutas Pantikapą tapatina su Pripete, jungiančia Baltijos ir Juodosios jūros vandens baseinus.
+- susijęs iš Prūsija: Narbutas tikrosios Prūsijos sieną aprašo ėjusią Vyslos žemupiu, Baltijos jūra iki Nemunyno žiočių ir toliau iki Širvintos upės.
 - susijęs iš Rusija: Šiaurės Europą dengęs ledynas, kuris buvo apėmęs Pabaltijį, šiaurės Lenkiją, vidurio Rusiją, ėmė trauktis iš Baltijos plotų.
 - susijęs iš Rusija: Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos.
 - susijęs iš Rusija: 1997 m. spalį Lietuva ir Rusija pasirašė sutartį dėl valstybinės sienos, išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jūroje atskyrimo.
@@ -144,7 +276,9 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 - susijęs iš Suomija: Sovietų Sąjungai kariaujant su Suomija, Baltijos valstybės vengė smerkti SSRS, nors ši buvo išmesta iš Tautų Sąjungos kaip agresorė.
 - susijęs iš Torunė: Torunę 1235 m. pastatė kryžiuočiai, Teutonų ordinui gausinant miestus ir pilis Baltijos pakrantėse.
 - susijęs iš Vilnius: Po 1991 m. sausio 13 d. įvykių Vilniuje Borisas Jelcinas kreipėsi į Baltijos šalyse tarnaujančius karius, ragindamas nešturmuoti civilinių pastatų.
+- susijęs iš Vindavos upė: Narbutas Vindavos upės pavadinimą laikė pėdsaku venedų slavų, galėjusių gyventi Baltijos pakrantėje tarp Vyslos ir Dauguvos žiočių.
 - susijęs iš Vysla: Narbutas mitologiniame aiškinime siejo Krivių Krivaičio valdžios ribas su žemėmis nuo Vyslos iki Dauguvos ir nuo Baltijos jūros į Rusios gilumą.
+- susijęs iš Vysla: Narbutas laikė neįtikėtina, kad vieninga lietuvių tauta būtų greitai pasklidusi nuo Vyslos iki Dauguvos ir nuo Baltijos iki Neries.
 - susijęs iš Šiaurės Lietuva: Lemiamų kovų su bolševikais įkarštyje Šiaurės Lietuvoje ir Latvijoje susitelkė naujas Lietuvos ir kitų Baltijos valstybių priešas – bermontininkai.
 - susijęs iš Šiaurės jūra: Šiaurės ir Baltijos jūrose suaktyvėjo prekyba, o jose įsigalėjo vokiškųjų miestų pirklių sąjunga Hanza.
 - susijęs iš Šiaurės jūra: Šiaurės ir Baltijos jūrose suaktyvėjo prekyba, o jose įsigalėjo vokiškųjų miestų pirklių sąjunga Hanza.
@@ -158,45 +292,89 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 - susijęs iš [[objektai/zodynas/Išskirtinė ekonominė zona ir žemyninis šelfas.md#claim-t-77796|Išskirtinė ekonominė zona ir žemyninis šelfas]]: 1997 m. spalį Lietuva ir Rusija pasirašė sutartį dėl valstybinės sienos bei išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jūroje atskyrimo.
 - susijęs iš [[objektai/zodynas/Variagai.md#claim-t-82106|Variagai]]: IX a. Rusioje variagais vadinti skandinavų normanai Baltijos pakrantėse vertėsi plėšikavimu ir prekyba.
 - susijęs iš [[objektai/zodynas/didvalstybė.md#claim-t-22119|didvalstybė]]: Valdant Ldk Algirdui 1345–1377 m., Lietuva tapo didvalstybe ir išplėtė teritoriją nuo Baltijos iki Juodosios jūros.
+- susijęs iš [[objektai/zodynas/judančios žemės sluoksniai.md#claim-t-192291|judančios žemės sluoksniai]]: Narbutas aiškina, kad judančios žemės sluoksniai turėjo būti sujudinti arba išplauti iš Baltijos jūros.
 - susijęs iš [[objektai/zodynas/kryžiaus žygių prie Baltijos jūros epocha.md#claim-t-42475|kryžiaus žygių prie Baltijos jūros epocha]]: Kryžiaus žygių prie Baltijos jūros epocha prasidėjo 1202 m., dabartinėje Latvijos teritorijoje įsikūrus Kalavijuočių ordinui.
 - susijęs iš [[objektai/zodynas/rutėnai Rutheni.md#claim-t-58831|rutėnai Rutheni]]: Istorijos šaltiniuose rutėnais dažnai vadinti Baltijos jūros pietinės pakrantės ir Riugeno salos gyventojai.
 - susijęs iš Vysla: Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
 - susijęs iš Vysla: Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
 - susijęs iš [[objektai/asmenys/A. Hitleris.md#claim-t-75628|A. Hitleris]]: 1939 m. balandį Lietuvos kariuomenės vadas S. Raštikis dalyvavo A. Hitlerio 50-mečio šventime.
 - susijęs iš [[objektai/asmenys/Andrejus Sacharovas.md#claim-t-75689|Andrejus Sacharovas]]: A. Sacharovas pasirašė 45 pabaltijiečių memorandumą kartu su estais, latviais, lietuviais ir rusų disidentais.
+- susijęs iš [[objektai/asmenys/Aristotelis.md#claim-t-191253|Aristotelis]]: Narbutas Aristotelį mini tarp autorių, kurie kalbėjo apie vandens lygio kritimą ir pateikė to įrodymų.
+- susijęs iš [[objektai/asmenys/Biorntelis.md#claim-t-191377|Biorntelis]]: Biorntelis, Narbuto vadinamas švedų autoriumi, manė, kad prie Veronos ir Trento gyvena iki 60 000 senovės kimbrų palikuonių.
 - susijęs iš [[objektai/asmenys/Borisas Jelcinas.md#claim-t-63519|Borisas Jelcinas]]: 1991 m. liepos 29 d. Borisas Jelcinas ir Vytautas Landsbergis pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
+- susijęs iš [[objektai/asmenys/Cronos.md#claim-t-191262|Cronos]]: Narbutas, remdamasis seniausiais padavimais, Cronos vaizduoja kaip Šiaurės Vakarų kraštų valdovą, laiko karalių arba Titaną, vadintą Saturnu.
+- susijęs iš [[objektai/asmenys/Cyras-Karbo.md#claim-t-191384|Cyras-Karbo]]: Narbutas rašo, kad Strijkovskis kimbrus siejo su mūšiu prie Nortbėjos, kur jie 190 m. pr. Kr. pirmą kartą kovėsi su Cyras-Karbo vadovaujamais romėnais.
 - susijęs iš [[objektai/asmenys/Eberhardas Sorcas.md#claim-t-186197|Eberhardas Sorcas]]: Įsruties komtūras Eberhardas Sorcas su 300 raitelių ir 500 pėstininkų buvo žygio metu užpultas ir sunaikintas.
 - susijęs iš [[objektai/asmenys/Edvardas Rydzas-Smiglas.md#claim-t-18881|Edvardas Rydzas-Smiglas]]: Edvardas Rydzas-Smiglas pakvietė generolą Stasį Raštikį oficialiai apsilankyti Lenkijoje.
+- susijęs iš [[objektai/asmenys/Eratostenas.md#claim-t-191949|Eratostenas]]: Teodoras Narbutas mini Eratosteną tarp autorių, kurie, pasak jo, kalbėjo apie vandens lygio kritimą ir pateikė akivaizdžių įrodymų.
+- susijęs iš [[objektai/asmenys/Fosas.md#claim-t-191398|Fosas]]: Fosas teigė, kad Pitėjas pasiekė tik Reiną arba daugiausia Elbės žiotis.
 - susijęs iš [[objektai/asmenys/Fridrichas, vadinamas Hole.md#claim-t-60280|Fridrichas, vadinamas Hole]]: Fridrichas, vadinamas Hole, su 100 raitelių iš Brandenburgo pilies patraukė į Sūduvą, o grįždamas iš Kirsnavos valsčiaus buvo nukautas su 30 vyrų.
+- susijęs iš [[objektai/asmenys/Homeras.md#claim-t-191278|Homeras]]: Narbutas nurodė, kad Homero kūriniuose Okeanas vadinamas pasaulį skalaujančia upe.
 - susijęs iš [[objektai/asmenys/I. Zolotarenko.md#claim-t-40142|I. Zolotarenko]]: I. Zolotarenka vadovavo apie 20 000 kazokų, kurie buvo apsiautę Gomelį bei kitus miestus ir priartėjo prie Senojo Bychovo.
+- susijęs iš [[objektai/asmenys/Johanas Fosas.md#claim-t-191281|Johanas Fosas]]: Johanas Fosas teigė, kad Pitėjas pasiekė tik Reiną arba daugiausia Elbės žiotis.
+- susijęs iš [[objektai/asmenys/Jokimas Rozencveigas.md#claim-t-191283|Jokimas Rozencveigas]]: Pasak Narbuto, prūsų kronikininkas Jokimas Rozencveigas buvo cituojamas pasakojant apie didžiulį kimbrų epochos potvynį, arba vietinį tvaną.
 - susijęs iš [[objektai/asmenys/Jonas Karolis Chodkevičius.md#claim-t-18977|Jonas Karolis Chodkevičius]]: 1605 m. Jonas Karolis Chodkevičius prie Kirchholmo vadovavo LDK kariuomenei, kuri nugalėjo 12 tūkst. švedų.
 - susijęs iš [[objektai/asmenys/Jonas Potockis.md#claim-t-190071|Jonas Potockis]]: Narbutas, remdamasis Jono Potockio tyrimais, siejo Retros šventyklos žynį Krewe, lietuvių stabus ir Meklenburgo bei Lužicos runų užrašus.
+- susijęs iš [[objektai/asmenys/Jordanas.md#claim-t-191084|Jordanas]]: Narbutas Jordano požiūrį pasitelkė svarstydamas, kad venedams priklausė ne viena jo veikalui reikšminga gentis.
 - susijęs iš [[objektai/asmenys/Karolis IV.md#claim-t-89885|Karolis IV]]: 1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo grąžinti kryžiuočių užgrobtas žemes.
 - susijęs iš [[objektai/asmenys/Kurtas Valdheimas.md#claim-t-19084|Kurtas Valdheimas]]: Kurtas Valdheimas buvo JT generalinis sekretorius, kuriam adresuotas 45 pabaltijiečių memorandumas.
 - susijęs iš [[objektai/asmenys/Michailas Gorbačiovas.md#claim-t-101681|Michailas Gorbačiovas]]: Gorbačiovo reformoms, o jį patį nuvers „vanagai“.
+- susijęs iš [[objektai/asmenys/Motiejus Pretorijus.md#claim-t-191214|Motiejus Pretorijus]]: Narbutas spėja, kad Hartknocho ir Pretorijaus turėtuose egzemplioriuose data galėjo būti klaidingai pakeista prieš 190 pridėjus vienetą.
+- susijęs iš [[objektai/asmenys/Ovidijus Nazonas.md#claim-t-191170|Ovidijus Nazonas]]: Narbutas Ovidijų Nazoną priskyrė autoriams, kalbėjusiems apie vandens lygio kritimą ir pateikusiems jo įrodymų.
+- susijęs iš [[objektai/asmenys/Ovidijus.md#claim-t-191305|Ovidijus]]: Narbutas Ovidijų priskyrė autoriams, kalbėjusiems apie vandens lygio kritimą ir pateikusiems jo įrodymų.
 - susijęs iš [[objektai/asmenys/P. Bermontas-Avalovas.md#claim-t-40379|P. Bermontas-Avalovas]]: Vokiečių remiamas buvęs carinės Rusijos kariuomenės pulkininkas P. Bermontas-Avalovas vadovavo Rusijos vakarų armijai.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173205|Petras Goštautas]]: Petras Goštautas pagonišką dievaičių buveinę pavertė bažnyčia ir pašventė ją Šv. Petro vardui.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-54993|Petras Goštautas]]: Petras Goštautas tradicijoje vadintas kunigaikščio Algirdo laikų didiku ir Vilniaus vaivada.
+- susijęs iš [[objektai/asmenys/Pitėjas Masilietis.md#claim-t-191135|Pitėjas Masilietis]]: Narbutas nurodė nuomonę, kad Pitėjas Masilietis keliavo du kartus: pirmą kartą į Britaniją, antrą kartą į šiaurės rytus.
+- susijęs iš [[objektai/asmenys/Pitėjas.md#claim-t-191220|Pitėjas]]: Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Britaniją, antrą kartą į šiaurės rytus.
+- susijęs iš [[objektai/asmenys/Plinijus Vyresnysis.md#claim-t-191091|Plinijus Vyresnysis]]: Plinijus rašė, kad sarmatai, venedai, skirtai ir tūriai gyvena iki Vyslos.
+- susijęs iš [[objektai/asmenys/Plinijus.md#claim-t-190953|Plinijus]]: Plinijus rašė, kad sarmatai, venedai, skirtai ir tūriai gyvena iki Vyslos.
+- susijęs iš [[objektai/asmenys/Pretorijus.md#claim-t-190961|Pretorijus]]: Teodoras Narbutas spėjo, kad Hartknocho ir Pretorijaus naudotuose egzemplioriuose kimbrų datos klaida galėjo atsirasti prie 190 pridėjus vienetą.
+- susijęs iš [[objektai/asmenys/Radlofas.md#claim-t-191229|Radlofas]]: Teodoro Narbuto pasakojime Radlofas manė, kad Lietuvos, Prūsijos, Žemaitijos, Kuršo ir Livonijos žemes galėjo užpilti sudužusios planetos nuolaužos.
+- susijęs iš [[objektai/asmenys/Ranonas.md#claim-t-191456|Ranonas]]: Teodoro Narbuto perteiktoje Danijos istorijos žinioje rusų karvedys Ranonas žuvo mūšyje, po kurio Rotala perėjo Danijos karaliui.
+- susijęs iš [[objektai/asmenys/Raskas.md#claim-t-191510|Raskas]]: Narbutas rašo, kad danų mokslininkas Raskas 1817 m. lietuvius kildino iš to paties „lizdo“ kaip ir Narbutas.
+- susijęs iš [[objektai/asmenys/Rasmusas Raskas.md#claim-t-191354|Rasmusas Raskas]]: Narbutas rašo, kad danų mokslininkas Rasmusas Raskas 1817 m. lietuvius kildino iš to paties „lizdo“ kaip ir Narbutas.
+- susijęs iš [[objektai/asmenys/Scipionas.md#claim-t-191462|Scipionas]]: Narbutas rašo, kad nuo Baltijos jūros pasitraukę senovės kimbrai 169 m. pr. Kr. pagarsėjo pergale prieš konsulą Scipioną.
 - susijęs iš [[objektai/asmenys/Stasys Antanas Bačkis.md#claim-t-19246|Stasys Antanas Bačkis]]: Stasys Antanas Bačkis 1983–1991 m. ėjo Lietuvos diplomatinės tarnybos diplomatijos šefo pareigas.
 - susijęs iš [[objektai/asmenys/Stasys Lozoraitis.md#claim-t-46324|Stasys Lozoraitis]]: Stasys Lozoraitis 1940–1983 m. ėjo Lietuvos diplomatinės tarnybos diplomatijos šefo pareigas.
 - susijęs iš [[objektai/asmenys/Stasys Raštikis.md#claim-t-101707|Stasys Raštikis]]: 1939 m. balandį Stasys Raštikis dalyvavo Adolfo Hitlerio 50-mečio šventime, o gegužę oficialiai lankėsi Lenkijoje.
+- susijęs iš [[objektai/asmenys/Strabonas.md#claim-t-191122|Strabonas]]: Narbutas mini spėjimą, kad Strabonas, kaip šališkas Pitėjo aiškintojas, daug ką jam priskyrė svetimo.
+- susijęs iš [[objektai/asmenys/Strabonas.md#claim-t-191123|Strabonas]]: Narbutas nurodo Straboną tarp autorių, kurie kalbėjo apie vandens lygio kritimą ir pateikė akivaizdžių įrodymų.
+- susijęs iš [[objektai/asmenys/Suroveckis.md#claim-t-191983|Suroveckis]]: Teodoro Narbuto vertinimu, Suroveckis gerai aiškino, kad venedų srityse buvo seniausios slavų gyvenamosios vietos.
+- susijęs iš [[objektai/asmenys/Vitechindas.md#claim-t-191483|Vitechindas]]: Narbutas Vitechindą aprašo kaip kronikininką, kuris padavimus apie prūsų ištakas mėgino nuspalvinti tariamu istoriškumu, siedamas juos su makedonais.
+- susijęs iš [[objektai/asmenys/Vulfstanas.md#claim-t-191186|Vulfstanas]]: Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pusėje apsilankė Estijoje.
 - susijęs iš [[objektai/asmenys/Vytautas Landsbergis.md#claim-t-170245|Vytautas Landsbergis]]: Vytautas Landsbergis ir B. Jelcinas 1991 m. liepos 29 d. buvo savo šalių parlamentų pirmininkai.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-05208|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santykių atsiradimu stepėje.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-05209|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytauto „arklių girdymas“ Juodojoje jūroje ilgai išliko žmonių atmintyje.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176708|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas susitaikė su pusbroliu Skirgaila ir sudarė su juo sąjungą prieš kiekvieną priešą, išskyrus Lenkijos karalių.
 - susijęs iš [[objektai/asmenys/Zigmantas Sierakauskas.md#claim-t-64425|Zigmantas Sierakauskas]]: 1863 m. pavasarį Zigmantas Sierakauskas buvo paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu.
 - susijęs iš [[objektai/autoriai/Adomas Bremenietis.md#claim-t-30554|Adomas Bremenietis]]: Adomas Bremenietis 1072-1076 m. veikalo „Gesta Hammaburgensis ecclesiae pontificum“ ketvirtoje knygoje pateikė žinių apie prūsus.
+- susijęs iš [[objektai/autoriai/Adomas Stanislovas Naruševičius.md#claim-t-190674|Adomas Stanislovas Naruševičius]]: Naruševičių Narbutas mini tarp autorių, kurių požiūris turėjo pagrįsti nuomonę, kad venedams priklausė Lietuvos istorijai svarbios gentys.
+- susijęs iš [[objektai/autoriai/Aristotelis.md#claim-t-191634|Aristotelis]]: Teodoras Narbutas Aristotelį mini tarp autorių, kurie, jo teigimu, kalbėjo apie vandens lygio kritimą ir pateikė įrodymų.
+- susijęs iš [[objektai/autoriai/Eratostenas.md#claim-t-191623|Eratostenas]]: Eratostenas Narbuto paminėtas tarp autorių, kurie, jo teigimu, kalbėjo apie vandens lygio kritimą.
 - susijęs iš [[objektai/autoriai/Faber K.md#claim-t-60698|Faber K]]: Faberio K. darbas „Geschichtliche“ cituojamas pastaboje apie Galtgarbių kalną ir legendinio Samo pilį.
 - susijęs iš [[objektai/autoriai/Hennenberger C.md#claim-t-64603|Hennenberger C]]: C. Hennenbergerio „Erclerung“ cituojamas prie pasakojimo apie Galtgarbių kalne buvusią Samo pilį ir prūsų uždegamus pavojų skelbiančius laužus.
+- susijęs iš [[objektai/autoriai/Henrikas Latvis.md#claim-t-190702|Henrikas Latvis]]: Teodoro Narbuto vertinimu, Henrikas Latvis nepastebėjo lietuvių gentyse „tamsumo pėdsakų“.
+- susijęs iš [[objektai/autoriai/Homeras.md#claim-t-190724|Homeras]]: Homero kūriniuose Okeanas vadinamas upe, skalaujančia pasaulį.
 - susijęs iš [[objektai/autoriai/Isaac Taylor.md#claim-t-19402|Isaac Taylor]]: Isaacas Tayloras veikale „The Origins of the Aryans“ svarstė lietuvių apgyventą teritoriją kaip galimą arijų kalbos lopšį.
+- susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-190732|J. Dlugošas]]: „Slavų senienų“ autoriaus nuomone, jau J. Dlugošo laikais slavai lietuvius laikė labai maža ir silpna tauta.
+- susijęs iš [[objektai/autoriai/Jordanas.md#claim-t-190741|Jordanas]]: Narbutas Jordano požiūrį pasitelkė kartu su Tacitu ir Naruševičiumi, svarstydamas venedams priklausiusių genčių klausimą.
 - susijęs iš [[objektai/autoriai/K. Būga.md#claim-t-64668|K. Būga]]: K. Būga manė, kad dauguma gotiškos kilmės žodžių į baltų kalbas pateko per slavus.
 - susijęs iš [[objektai/autoriai/K. Jaunius.md#claim-t-64676|K. Jaunius]]: K. Jaunius su K. Būga kelias gimines vadino aisčiais, remdamasis viduramžių raštais ir vietovardžiais.
+- susijęs iš [[objektai/autoriai/Ovidijus.md#claim-t-191901|Ovidijus]]: Narbutas nurodė, kad Eratostenas, Aristotelis, Strabonas ir Ovidijus kalbėjo apie vandens lygio kritimą.
 - susijęs iš [[objektai/autoriai/P. Tarasenka.md#claim-t-71551|P. Tarasenka]]: P. Tarasenka 1929 m. Kaune išleido veikalą „Lietuvos archeologijos medžiaga“.
 - susijęs iš [[objektai/autoriai/Petras Korkonas.md#claim-t-88080|Petras Korkonas]]: Petras Korkonas 1621 m. rašė, kad Petras Goštautas savo rankomis pasodino liepą priešais senosios bažnyčios duris.
+- susijęs iš [[objektai/autoriai/Plinijus.md#claim-t-190781|Plinijus]]: Teodoras Narbutas cituoja Plinijų, kad sarmatai, venedai, skirtai ir tūriai gyveno iki Vyslos.
+- susijęs iš [[objektai/autoriai/Radlofas.md#claim-t-191619|Radlofas]]: Narbutas mini Radlofo nuomonę, kad Lietuvos, Prūsijos, Žemaitijos, Kuršo ir Livonijos žemes galėjo užpilti sudužusios planetos nuolaužos.
 - susijęs iš [[objektai/autoriai/Sakso Gramatiko.md#claim-t-91954|Sakso Gramatiko]]: Manoma, kad Sakso Gramatiko Danijos istorijoje minimi Rutheni greičiausiai buvo venedai.
+- susijęs iš [[objektai/autoriai/Strabonas.md#claim-t-190795|Strabonas]]: Teodoras Narbutas Straboną mini tarp autorių, kalbėjusių apie vandens lygio kritimą ir pateikusių to įrodymų.
+- susijęs iš [[objektai/autoriai/Tacitas (romėnų rašytojas, I amžiaus gale).md#claim-t-190796|Tacitas (romėnų rašytojas, I amžiaus gale)]]: Teodoras Narbutas rašo, kad Tacitas gotus apibūdino kaip nuo senų laikų kairiojoje Vyslos žemupio pakrantėje gyvenusią tautą.
 - susijęs iš [[objektai/autoriai/Thunmanas.md#claim-t-88082|Thunmanas]]: Thunmano tyrinėjimus ir prielaidas apie lietuvių tautos kilmę Balinskis laikė panašiausiais į tiesą.
+- susijęs iš [[objektai/autoriai/V. Suroveckis.md#claim-t-191558|V. Suroveckis]]: Pasak Teodoro Narbuto, V. Suroveckis venedų srityse lokalizavo senovės slavų gyvenamąsias vietas ir aprašė jų krašto ribas.
+- susijęs iš [[objektai/autoriai/Vulfstanas (jūrininkas, IX amžius).md#claim-t-190819|Vulfstanas (jūrininkas, IX amžius)]]: Teodoras Narbutas Vulfstaną vadino skandinavų keliautoju ir nurodė, kad šis Estijoje apsilankė IX amžiaus antrojoje pusėje.
 - susijęs iš [[objektai/daiktai/Akmeniniai kovos kirviai.md#claim-t-71553|Akmeniniai kovos kirviai]]: Indoeuropiečiai, pasiekę Nemuno baseiną ir Baltijos jūrą, buvo ginkluoti akmeniniais kovos kirviais.
 - susijęs iš [[objektai/daiktai/Goštauto liepa.md#claim-t-87027|Goštauto liepa]]: 1621 metais Petras Korkonas rašė, kad Petro Goštauto pasodinta liepa buvo vešli, drūta ir vadinta Goštauto liepa.
+- susijęs iš [[objektai/daiktai/Valtys.md#claim-t-192075|Valtys]]: Narbutas rašo, kad rusai prie įėjimo į Rusnės įlanką stojo į mūšį susirinkę labai daug valčių.
 - susijęs iš [[objektai/daiktai/Čeltyčių gintaro rūmai.md#claim-t-189756|Čeltyčių gintaro rūmai]]: Narbutas Čeltyčias vaizdavo kaip Baltijos jūros nimfas, pajūrio žemaičių vaizduotėje gyvenusias gintaro rūmuose jūros gelmėse.
 - susijęs iš [[objektai/daiktai/Šernų amuletai.md#claim-t-47839|Šernų amuletai]]: Tacitas rašė, kad prie Baltijos jūros gyvenę Aestii garbino dievų motiną ir nešiojo šernų amuletus.
 - susijęs iš [[objektai/grupes/Bermontininkai.md#claim-t-40866|Bermontininkai]]: Bermontininkai buvo rusų monarchistų ir vokiečių organizuoti rusų bei vokiečių savanorių daliniai.
@@ -204,11 +382,15 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 - susijęs iš [[objektai/grupes/Bremeno pirkliai.md#claim-t-55061|Bremeno pirkliai]]: Apie 1192 m. kolonija iš Bremeno, regis, įkūrė Rygą.
 - susijęs iš [[objektai/grupes/Bremeno pirkliai.md#claim-t-80802|Bremeno pirkliai]]: Bremeno pirkliai 1158 metais atrado Dauguvos žiotis ir užmezgė vokiečių prekybinius ryšius su tenykščiu pamariu.
 - susijęs iš [[objektai/grupes/Chodkevičiai.md#claim-t-19666|Chodkevičiai]]: 1605 m. prie Kirchholmo J. K. Chodkevičiaus vadovaujama LDK kariuomenė, turėjusi 3 tūkst. raitelių, nugalėjo 12 tūkst. švedų.
+- susijęs iš [[objektai/grupes/Estai.md#claim-t-192377|Estai]]: Narbutas estų pavadinimą laikė gotišku ir kildino iš žodžio „Ėst“ arba „Aest“, reiškiančio rytus.
+- susijęs iš [[objektai/grupes/Estremidai.md#claim-t-192980|Estremidai]]: Narbuto aiškinimu, seni geografai estremidais vadino pakrančių gyventojus nuo Šv. Vincento kyšulio iki Vakarų Prancūzijos ir Pietų Anglijos krantų.
 - susijęs iš [[objektai/grupes/Europos Sąjunga.md#claim-t-183127|Europos Sąjunga]]: 2004 m. gegužės 1 d. Lietuva įstojo į Europos Sąjungą ir įgijo teisę kurti savo bei žemyno ateitį su kitomis demokratinėmis valstybėmis.
 - susijęs iš [[objektai/grupes/Europos Sąjunga.md#claim-t-74111|Europos Sąjunga]]: 2004 m. Lietuva buvo priimta į Europos Sąjungą ir Šiaurės Atlanto sutarties organizaciją.
 - susijęs iš [[objektai/grupes/Europos Sąjunga.md#claim-t-74113|Europos Sąjunga]]: Integracija į Europos Sąjungą – antras svarbiausias strateginis atsikūrusios Lietuvos užsienio politikos tikslas.
 - susijęs iš [[objektai/grupes/Europos Taryba.md#claim-t-19687|Europos Taryba (institucija)]]: 1993 m. Lietuva buvo priimta į Europos Tarybą.
 - susijęs iš [[objektai/grupes/Galai druidai.md#claim-t-189514|Galai druidai]]: Narbutas lietuvių religiją lygino su galų druidų tikėjimu, aiškindamas panašumą bendra senovės religijų ir tautų kilme.
+- susijęs iš [[objektai/grupes/Gitonai.md#claim-t-192971|Gitonai]]: Narbuto perteikiamame Sarmatijos aprašyme „venedų gitonai“ priskiriami mažesnėms gentims prie Vyslos žemupio.
+- susijęs iš [[objektai/grupes/Gotai.md#claim-t-192401|Gotai]]: Narbutas gotais vadinamą tautą sieja su pajūriu nuo Oderio iki Vyslos, gitonų arba variagų vardais ir gintaro prekyba.
 - susijęs iš [[objektai/grupes/Hanza.md#claim-t-10755|Hanza]]: XIII amžiuje Šiaurės ir Baltijos jūrose įsigalėjo vokiškųjų miestų pirklių sąjunga, vadinama Hanza.
 - susijęs iš [[objektai/grupes/Hanza.md#claim-t-116685|Hanza]]: Vytauto laikų Lietuva buvo kraštas, kurio negalėjo aplenkti Hanzos ir kiti pirkliai.
 - susijęs iš [[objektai/grupes/Herulai.md#claim-t-188192|Herulai]]: Narbutas herulus vaizdavo kaip gotų priešus, kai gotai, jo aiškinimu, jau buvo krikščionys ir niokojo baltų kraštų gentis.
@@ -220,6 +402,8 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175530|Kalavijuočių ordinas]]: 1202 m. dabartinės Latvijos teritorijoje įsikūręs Kalavijuočių ordinas siekė nukariauti ir jėga pakrikštyti pagonis baltus.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175544|Kalavijuočių ordinas]]: 1202 m. dabartinėje Latvijoje įsikūręs Kalavijuočių ordinas siekė nukariauti ir jėga pakrikštyti pagonis baltus.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175546|Kalavijuočių ordinas]]: 1202 m. dabartinės Latvijos teritorijoje įsikūręs Kalavijuočių ordinas siekė nukariauti, prievarta pakrikštyti ir pajungti pagonis baltus.
+- susijęs iš [[objektai/grupes/Kimbrai.md#claim-t-192933|Kimbrai]]: Narbutas aiškina, kad Baltijos pakrančių nelaimė išstūmė kimbrus iš jų gyvenamųjų vietų ir privertė trauktis į Rytus.
+- susijęs iš [[objektai/grupes/Kimbrai.md#claim-t-192934|Kimbrai]]: Narbutas, remdamasis Herodotu ir senovės tyrinėtojais, kimbrus laiko kadaise Prūsijoje viešėjusia gentimi.
 - susijęs iš [[objektai/grupes/Krikščionys.md#claim-t-188205|Krikščionys]]: Narbutas aiškina, kad gotai jau buvo krikščionys tuo metu, kai lietuvių tikėjimas, jo manymu, ėmė kilti į romėnų lygį.
 - susijęs iš [[objektai/grupes/Krivičiai.md#claim-t-188207|Krivičiai]]: Narbutas spėja, kad krivičių pavadinimas galėjo sietis su kriviais ir bendrais religiniais papročiais su lietuvių gentimis.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184498|Kryžiuočių ordinas]]: Kryžiuočiai, negalėdami sustabdyti niokojimo nei klasta, nei jėga, ryžosi prašyti paliaubų.
@@ -228,6 +412,8 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 - susijęs iš [[objektai/grupes/Liaudies seimas.md#claim-t-19796|Liaudies seimas (seimas)]]: Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo valstybės nuosavybe, o ūkininkai – žemės naudotojais.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179276|Lietuviai]]: Cituojamame aiškinime teigiama, kad žemaičiai nuo senų laikų save vadino lietuviais.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179290|Lietuviai]]: Tik X a. Lietuvos vardu Europai tapusi žinoma tauta citatoje siejama su trijų skirtingų kilmių gyventojų samplaika.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-192427|Lietuviai]]: Teodoras Narbutas Nemuno žemupio pakrantes laikė pirmąja lietuvių tautos buveine šiame krašte.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-192429|Lietuviai]]: Teodoras Narbutas, remdamasis padavimais ir senaisiais autoriais, teigė, kad lietuvių genties tautoms žemės priklausė dar gerokai prieš VI amžių.
 - susijęs iš [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis.md#claim-t-13478|Lietuvos Persitvarkymo Sąjūdis]]: 1989 m. kovą rinkimus į SSRS Aukščiausiąją Tarybą triuškinamai laimėjo Lietuvos Persitvarkymo Sąjūdžio kandidatai.
 - susijęs iš [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis.md#claim-t-26808|Lietuvos Persitvarkymo Sąjūdis]]: 1989 m. LPS kandidatams laimėjus rinkimus į SSRS Aukščiausiąją Tarybą, lietuvių tautinis išsivadavimas įgijo politinį pobūdį.
 - susijęs iš [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis.md#claim-t-26810|Lietuvos Persitvarkymo Sąjūdis]]: 1988–1990 m. Lietuvos Sąjūdžio kūrėjai prisidėjo prie Sovietų Sąjungos aneksijos įveikimo ir Nepriklausomybės atkūrimo.
@@ -238,10 +424,17 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 - susijęs iš [[objektai/grupes/Lybiai.md#claim-t-96811|Lybiai]]: Vokiečių pirkliai ir misionieriai, pradėję lankytis lybių gyvenamuose kraštuose, pirmiausia susidūrė su lybiais.
 - susijęs iš [[objektai/grupes/Lybiai.md#claim-t-96813|Lybiai]]: Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žiotyse ir dešiniajam jos žemupio krante gyveno jau net ir nearijų tauta — lybiai.
 - susijęs iš [[objektai/grupes/Maskvos kunigaikštija.md#claim-t-92727|Maskvos kunigaikštija]]: Maskvos kunigaikštija buvo apsupta žemių, kurios vienu ar kitu būdu pripažino Vytauto autoritetą.
+- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-192447|Prūsai]]: Pasak Hartknocho, prie Baltijos jūros nuo seno buvo žinomi padavimai apie tenykščių genčių, ypač prūsų, ištakas.
+- susijęs iš [[objektai/grupes/Rusai.md#claim-t-192453|Rusai]]: Pasak Karamzino ir kitų istorikų, Rusia vadintas kraštas egzistavo dar prieš epochą, kai slavai pradėjo vadintis rusais.
 - susijęs iš [[objektai/grupes/Rusijos kariuomenė.md#claim-t-66077|Rusijos kariuomenė]]: 1863 m. sukilimui slopinti Vilniaus karinėje apygardoje buvo sutelkta šimtatūkstantinė Rusijos armija, vėliau padidinta dar 1,5 karto.
 - susijęs iš [[objektai/grupes/Rusėnai.md#claim-t-74906|Rusėnai]]: LDK slavų rusėnų tauta formavosi atskirai nuo Maskvos rusų, o iš jos vėliau kilo šiuolaikinės baltarusių ir ukrainiečių tautos.
+- susijęs iš [[objektai/grupes/Skandinavai.md#claim-t-192458|Skandinavai]]: Narbutas rašė, kad Malte-Brunas Baltijos jūros pavadinimą kildino iš senovės skandinavų žodžio Balt arba Beet.
 - susijęs iš [[objektai/grupes/Skandinavai.md#claim-t-66129|Skandinavai]]: Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus.
 - susijęs iš [[objektai/grupes/Skyrai.md#claim-t-86826|Skyrai]]: Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidivarijų vardais.
+- susijęs iš [[objektai/grupes/Slavai.md#claim-t-192468|Slavai]]: Narbutas spėjo, kad skandinavai per Nevą ir Ladogos ežerą galėjo pasiekti Pailmenės slavus, gabenusius prekes į pietus.
+- susijęs iš [[objektai/grupes/Slavai.md#claim-t-192471|Slavai]]: Narbutas, remdamasis istorikais, rašė apie labai seną Rusią, egzistavusią iki epochos, kai slavai pradėjo vadintis rusais.
+- susijęs iš [[objektai/grupes/Slavai.md#claim-t-192472|Slavai]]: Danijos karalius Frotonas III pirmiausia kariavo su slavais, kurių karvedys Strunikas buvo nukautas.
+- susijęs iš [[objektai/grupes/Slavai.md#claim-t-192475|Slavai]]: V amžiaus pabaigoje slavų gyvenamosios vietovės, pasak Narbuto, plačiai driekėsi kraštuose, iš kurių germanai traukėsi į pietus.
 - susijęs iš [[objektai/grupes/Sovietų Sąjunga.md#claim-t-74923|Sovietų Sąjunga]]: 1940 m. vasarą Sovietų Sąjunga okupavo Lietuvą, Latviją ir Estiją, prievarta įvedė tariamą „liaudies demokratiją“ ir įjungė jas į SSRS.
 - susijęs iš [[objektai/grupes/Sovietų Sąjunga.md#claim-t-74924|Sovietų Sąjunga]]: 1940 m. birželio 15 d. į Lietuvą atvykusiam sovietų emisarui Vladimirui Dekanozovui atiteko reali aukščiausioji valdžia.
 - susijęs iš [[objektai/grupes/Tarptautinė darbo organizacija.md#claim-t-20037|Tarptautinė darbo organizacija]]: 1991 m. pabaigoje Lietuva buvo priimta į JT specializuotas įstaigas, tarp jų ir Tarptautinę darbo organizaciją.
@@ -249,6 +442,8 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171409|Totoriai]]: Algirdo reikalavimuose siūlyta iškelti kryžiuočius į rytų stepes ginti Europos šalių nuo totorių.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171426|Totoriai]]: Algirdo reikalavimuose siūlyta iškelti kryžiuočius į rytų stepes ginti Europos šalių nuo totorių.
 - susijęs iš [[objektai/grupes/UNESCO.md#claim-t-20052|UNESCO]]: 1991 m. pabaigoje Lietuva buvo priimta į UNESCO ir kitas JT specializuotas įstaigas.
+- susijęs iš [[objektai/grupes/Variagai (normanai).md#claim-t-192477|Variagai (normanai)]]: Narbutas rašo, kad Rimuko variagai buvo vadinti rus-variagais arba rusais ir laikyti karinga skandinavų gentimi.
+- susijęs iš [[objektai/grupes/Vilkai-liutikai.md#claim-t-192965|Vilkai-liutikai]]: Narbutas vilkų, arba Wilkow, tautą laiko priešistorine grupe, kurios vardas, jo teigimu, buvo įvairiai iškraipomas.
 - susijęs iš [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO).md#claim-t-75053|Šiaurės Atlanto sutarties organizacija (NATO)]]: 2004 m. Lietuva buvo priimta į Šiaurės Atlanto sutarties organizaciją ir Europos Sąjungą.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176141|Žemaičiai]]: Cituotame aiškinime žemaičiai laikomi tais pačiais žmonėmis kaip lietuviai, kalbančiais ta pačia kalba.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176148|Žemaičiai]]: Vytauto rūpesčiu žemaičiai Karaliaučiuje sudarė sutartį su Ordinu.
@@ -256,7 +451,9 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 - susijęs iš [[objektai/ivykiai/Baltijos kelias ir Molotovo–Ribentropo pakto padarinių pasmerkimas (1989 m.).md#claim-t-26364|Baltijos kelias ir Molotovo–Ribentropo pakto padarinių pasmerkimas (1989 m.)]]: LSSR Aukščiausiosios Tarybos komisija pasmerkė Molotovo–Ribentropo pakto padarinius – 1940 m. Lietuvos okupaciją ir neteisėtą prijungimą.
 - susijęs iš [[objektai/ivykiai/Baltijos valstybių okupavimas ir įjungimas į SSRS sudėtį (1940 m. vasara).md#claim-t-20168|Baltijos valstybių okupavimas ir įjungimas į SSRS sudėtį (1940 m. vasara)]]: 1940 m. vasarą Sovietų Sąjunga okupavo Lietuvą, Latviją ir Estiją ir per kelias savaites įjungė jas į SSRS sudėtį.
 - susijęs iš [[objektai/ivykiai/Brolio Fridricho Holės ir 30 vyrų žūtis Kirsnavos žygyje.md#claim-t-91910|Brolio Fridricho Holės ir 30 vyrų žūtis Kirsnavos žygyje]]: Brolis Fridrichas Holė su 100 raitelių žygiavo į Sūduvą, o grįžtant iš Kirsnavos valsčiaus priešai nukovė jį ir 30 vyrų.
+- susijęs iš [[objektai/ivykiai/Herulų atsiskyrimas prie Dunojaus ir kelionė į Tūlą Reitgotiją.md#claim-t-191044|Herulų atsiskyrimas prie Dunojaus ir kelionė į Tūlą Reitgotiją]]: Narbutas artimiausiu ir saugiausiu herulų keliu į Reitgotiją laikė maršrutą per Pamarį, Kujaviją, Mazoviją ir Prūsiją.
 - susijęs iš [[objektai/ivykiai/JAV Kongreso Perkeltųjų asmenų įstatymo priėmimas (1948 m. vidurys).md#claim-t-26374|JAV Kongreso Perkeltųjų asmenų įstatymo priėmimas (1948 m. vidurys)]]: 1948 m. viduryje JAV Kongresas priėmė Perkeltųjų asmenų įstatymą, numatantį įsileisti 205 tūkst. dipukų.
+- susijęs iš [[objektai/ivykiai/Kimbrų epochos potvynis Baltijos pakrantėse.md#claim-t-191025|Kimbrų epochos potvynis Baltijos pakrantėse]]: Narbutas rašo, kad Strijkovskis Karaliaučiuje turėjo Jokimo Rozencveigo veikalus, kuriuose buvo cituojamas kimbrų epochos potvynis.
 - susijęs iš [[objektai/ivykiai/Kėdainių sutarties sudarymas su Švedija.md#claim-t-101529|Kėdainių sutarties sudarymas su Švedija (sutartis)]]: Lietuvos magnatai 1655 m. sudarė Kėdainių sutartį su Švedija, tačiau švedams įsitvirtinti Lietuvoje nepavyko.
 - susijęs iš [[objektai/ivykiai/Kėdainių sutarties sudarymas su Švedija.md#claim-t-101530|Kėdainių sutarties sudarymas su Švedija (sutartis)]]: Lietuvos magnatai 1655 m. sudarė Kėdainių sutartį su Švedija, tačiau švedams įsitvirtinti Lietuvoje nepavyko.
 - susijęs iš [[objektai/ivykiai/LPS kandidatų pergalė SSRS Aukščiausiosios Tarybos rinkimuose ir LKP monopolio panaikinimas (1989 m.).md#claim-t-20250|LPS kandidatų pergalė SSRS Aukščiausiosios Tarybos rinkimuose ir LKP monopolio panaikinimas (1989 m.)]]: 1989 m. kovą LPS kandidatai laimėjo rinkimus į SSRS Aukščiausiąją Tarybą, o gruodžio 7 d. pataisos panaikino LKP valdžios monopolį.
@@ -278,13 +475,17 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 - susijęs iš [[objektai/ivykiai/Mindaugo pasiuntinių siuntimas pas popiežių (1251 m.).md#claim-t-31454|Mindaugo pasiuntinių siuntimas pas popiežių (1251 m.)]]: 1251 m. vidurvasarį iš kurijos išėjo šeši popiežiaus raštai Mindaugui arba jo reikalu kitiems adresatams.
 - susijęs iš [[objektai/ivykiai/Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.).md#claim-t-66803|Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.)]]: 1946 ir 1947 m. Lietuvoje pirmą kartą po karo vyko nedemokratiniai rinkimai į aukščiausias okupacinės valdžios institucijas.
 - susijęs iš [[objektai/ivykiai/Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.).md#claim-t-66804|Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.)]]: Pokario okupacinės valdžios rinkimuose kandidatus galėjo siūlyti tik komunistų partija, o rezultatai buvo klastojami skelbiant per 90 proc. dalyvavimą.
+- susijęs iš [[objektai/ivykiai/Prūsijos žemės drebėjimas 1303 m.md#claim-t-191071|Prūsijos žemės drebėjimas 1303 m]]: Prūsų kronikose minima, kad 1303 metais Prūsijoje įvyko žemės drebėjimas.
 - susijęs iš [[objektai/ivykiai/SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.).md#claim-t-183277|SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.)]]: Prieš invaziją sovietai pradėjo Baltijos šalių oro ir jūrų blokadą, o birželio 15-osios paryčiais atakavo Lietuvos pasienio postus.
 - susijęs iš [[objektai/ivykiai/SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.).md#claim-t-45442|SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.)]]: 1940 m. birželio 15-osios naktį Lietuvos vyriausybė svarstė, ar priešintis okupacijai, ar priimti SSRS ultimatumą.
 - susijęs iš [[objektai/ivykiai/SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.).md#claim-t-45447|SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.)]]: SSRS iš anksto rengėsi invazijai į Lietuvą: kūrė ligonines ir lagerius, permetė diversines grupes, pradėjo blokadą ir puolė pasienio postus.
 - susijęs iš [[objektai/ivykiai/Sausio 13-oji (1991 m.).md#claim-t-75268|Sausio 13-oji (1991 m.)]]: Sausio 13-osios herojai minimi tarp XX a. Lietuvos įnašą į Europos istoriją simbolizuojančių veikėjų.
 - susijęs iš [[objektai/ivykiai/Sovietų Sąjungos Lietuvos okupacija ir aneksija (1940 m.).md#claim-t-66905|Sovietų Sąjungos Lietuvos okupacija ir aneksija (1940 m.)]]: 1940 m. vasarą Sovietų Sąjunga okupavo Lietuvą ir, prievarta įvedusi tariamai demokratinį valdymą, per kelias savaites įjungė ją į SSRS sudėtį.
+- susijęs iš [[objektai/ivykiai/Vitechindo perteikiamas makedonų atvykimas į prūsų kraštus po Aleksandro Didžiojo mirties.md#claim-t-191872|Vitechindo perteikiamas makedonų atvykimas į prūsų kraštus po Aleksandro Didžiojo mirties]]: Narbutas rašo, kad Vitechindas padavimus apie prūsų ištakas nuspalvino pasakojimu apie makedonus po Aleksandro Didžiojo mirties.
 - susijęs iš [[objektai/ivykiai/Vladimiro Dekanozovo atvykimas į Lietuvą ir realios valdžios perėmimas (1940 m. birželio 15 d.).md#claim-t-20554|Vladimiro Dekanozovo atvykimas į Lietuvą ir realios valdžios perėmimas (1940 m. birželio 15 d.)]]: 1940 m. birželio 15 d. pavakare iš Maskvos į Lietuvą atvykusiam sovietų emisarui Vladimirui Dekanozovui atiteko reali aukščiausioji valdžia.
 - susijęs iš [[objektai/paprociai/Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika.md#claim-t-67037|Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika]]: Agentai buvo verbuojami ir iš čekistų, ir iš suimtų partizanų, o jų veikla buvo grindžiama griežta konspiracija.
+- susijęs iš [[objektai/paprociai/Senovės prūsų vaišingumas ir švelnūs papročiai.md#claim-t-192093|Senovės prūsų vaišingumas ir švelnūs papročiai]]: Narbutas Varmijos gyventojus vaizduoja kaip laikiusiusis švelnių papročių, labiausiai civilizuotus ir mažiausiai karingus.
+- susijęs iš [[objektai/paprociai/Senovės prūsų vaišingumas ir švelnūs papročiai.md#claim-t-192512|Senovės prūsų vaišingumas ir švelnūs papročiai]]: Narbutas Varmijos gyventojus vaizduoja kaip laikiusiusis švelnių papročių, labiausiai civilizuotus ir mažiausiai karingus.
 - susijęs iš [[objektai/paprociai/Vaidilučių saugoma Praurimės aukuro ugnis ir skaistybės įžadas.md#claim-t-189944|Vaidilučių saugoma Praurimės aukuro ugnis ir skaistybės įžadas]]: Narbutas nurodo, kad Birutė Praurimės aukurą prižiūrėjo beveik 18 metų.
 - susijęs iš [[objektai/posakiai/Gorbis ar Lietuva.md#claim-t-20828|Gorbis ar Lietuva]]: Vakarams pasirinkimas „Gorbis ar Lietuva“ buvo nelengvas, nes jie baiminosi pakenkti M. Gorbačiovo reformoms.
 - susijęs iš [[objektai/posakiai/Laisvę Lietuvai!.md#claim-t-13497|Laisvę Lietuvai!]]: 1972 m. gegužės 14 d. Romas Kalanta prieš pasidegdamas sušuko „Laisvę Lietuvai!“.
@@ -301,14 +502,17 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 - susijęs iš [[objektai/posakiai/„viešpataujanti“ „ponų tauta“.md#claim-t-20961|„viešpataujanti“ „ponų tauta“]]: Naciai manė, kad dėl rasinio ir kultūrinio pranašumo vokiečių tauta turi būti „viešpataujanti“ arba „ponų tauta“.
 - susijęs iš Atlanto chartija: Lietuvoje tikėta, kad JAV ir Didžioji Britanija įvykdys Atlanto chartijos pažadus grąžinti nepriklausomybę karo metu ją praradusioms šalims.
 - susijęs iš Deklaracija dėl politinio dialogo tarp ES ir Lietuvos: 1992 m. Lietuva ir ES priėmė deklaraciją dėl politinio dialogo tarp ES ir Lietuvos.
+- susijęs iš Hartknoch, Alt und neues Preussen oder Preussische Historien: Narbutas rašė, kad Hartknochas, remdamasis vietos padavimais ir tyrinėjimais, buvo įsitikinęs didelio Prūsijos potvynio tikrumu.
 - susijęs iš Historiarum liber VII adversus paganos: „Historiarum liber VII adversus paganos“ šiame veikale minima kaip Orosijaus knyga.
 - susijęs iš KGB kontržvalgybos sąvokų žodynas Kontržvalgybos žodynas: KGB kontržvalgybos organai agentus-smogikus laikė rezervu kovai su žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gaujomis karo metu.
 - susijęs iš KGB kontržvalgybos sąvokų žodynas: KGB kontržvalgybos organai agentus-smogikus laikė rezervu kovai su žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gaujomis karo metu.
 - susijęs iš Konstitucijos pataisos dėl LKP valdžios monopolio panaikinimo: 1989 m. gruodžio 7 d. konstitucijos pataisos panaikino LKP valdžios monopolį valstybėje ir visuomenėje.
 - susijęs iš Konstitucinis įstatymas, skelbęs Lietuvos nepriklausomą demokratinę respubliką: Lietuvos AS priėmė konstitucinį įstatymą, skelbusį, kad Lietuva yra Nepriklausoma Demokratinė Respublika.
+- susijęs iš Ksaveras Bogušas, Rozprawa: Narbuto teigimu, Ksavero Bogušo veikaluose rasti įrodymai rodė, kad herulai keliavo į Reitgotiją.
 - susijęs iš Kėdainių sutartis su Švedija (1655 m.): Lietuvos magnatai 1655 m. sudarė Kėdainių sutartį su Švedija, tačiau švedams Lietuvoje įsitvirtinti nepavyko.
 - susijęs iš Kėdainių sutartis su Švedija (1655 m.): Lietuvos magnatai 1655 m. sudarė Kėdainių sutartį su Švedija, tačiau švedams Lietuvoje įsitvirtinti nepavyko.
 - susijęs iš Lietuvos neutralumo įstatymas (1939 m.): Lietuva neutralumo įstatymą ratifikavo 1939 m. sausio 10 d., bet toliau manevravo tarp Varšuvos, Maskvos ir Berlyno.
+- susijęs iš M. Strijkovskio kronika: Teodoras Narbutas rašo, kad Strijkovskis Karaliaučiuje turėjo po ranka prūsų kronikininko Jokimo Rozencveigo veikalus apie kimbrų epochos potvynį.
 - susijęs iš Molotovo–Ribentropo paktas: 1939 m. rugpjūčio 23 d. Vokietija ir SSRS pasirašė nacių ir sovietų nepuolimo sutartį su papildomu slaptuoju protokolu.
 - susijęs iš Molotovo–Ribentropo paktas: Lietuvos SSR Aukščiausiosios Tarybos komisija viešai pasmerkė Molotovo–Ribentropo pakto ir slaptųjų protokolų padarinius Lietuvai.
 - susijęs iš Molotovo–Ribentropo paktas: 1989 m. rugpjūčio 23 d. Baltijos kelias paminėjo pakto pasirašymo 50-ąsias sukaktuves gyva žmonių grandine nuo Vilniaus iki Talino.
@@ -323,28 +527,37 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 - susijęs iš SSRS ultimatumas Lietuvai (1940 m. birželio 14 d.): Prieš invaziją sovietai pradėjo Baltijos šalių oro ir jūrų blokadą, o birželio 15-osios paryčiais atakavo kelis Lietuvos pasienio postus.
 - susijęs iš Tautų Sąjungos Statutas: 1938 m. Baltijos šalių ministrai nutarė neleisti užsienio kariuomenėms kirsti jų teritorijų net pagal Tautų Sąjungos Statuto 16 straipsnį.
 - susijęs iš The Origins of the Aryans: Isaacas Tayloras veikale „The Origins of the Aryans“ spėliojo, kad arijų kalbos lopšys galėjo būti lietuvių apgyventoje teritorijoje.
+- susijęs iš Wawrzyniec Surowiecki, Slavų kilmės tyrinėjimas: Narbutas rašo, kad Wawrzyniecas Surowieckis venedų kraštuose lokalizavo senųjų slavų gyvenamąsias vietas.
 - susijęs iš Žemės nacionalizavimo deklaracija: Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo valstybės nuosavybe, o ūkininkai – žemės naudotojais.
 - susijęs iš Žemės nacionalizavimo deklaracija: Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo valstybės nuosavybe, o ūkininkai – žemės naudotojais.
 - susijęs iš Aiviekstė: Lietuvos valstybės šiaurinė siena buvo brėžiama iki vietos, kur iš Liubano ežero ištekanti Aiviekstė įteka į Dauguvą.
 - susijęs iš Aizkrauklė: XII–XIII a. sąvartoje latvių gyvenama sritis dešiniajame Dauguvos krante driekėsi nuo Aizkrauklės iki Burtnieko ežero.
 - susijęs iš Alna: 1358 m. Lietuvos vyriausybė reikalavo grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros.
+- susijęs iš Amelandas: Pasak Narbuto, Fosas Austraviją, arba Glesariją, tapatino su fryzų sala Amelandu.
 - susijęs iš Aukaimis: Narbutas rašo, kad Aukaimio kaime slapstėsi vyriausiasis žynys Gintautas, miręs 1414 m. liepos 28 d., ir su juo baigėsi lietuvių stabmeldystė.
 - susijęs iš Australija: Dalis lietuvių tremtinių ir pabėgėlių po Antrojo pasaulinio karo pasuko į Australiją.
+- susijęs iš Austravija: Narbutas rašo, kad Fosas Austraviją, arba Glesariją, tapatino su fryzų Amelando sala, nors pats tokį aiškinimą vadino nepatikimu.
 - susijęs iš Barta: 1358 m. Lietuvos vyriausybė reikalavo grąžinti kryžiuočių užgrobtą Bartą ir kitas žemes.
 - susijęs iš Berlynas: Tačiau užsienio politikoje pakitimų neįvyko ir Lietuva tęsė manevrus tarp Varšuvos, Maskvos ir Berlyno, stengdamasi neįsivelti į karinį konfliktą.
 - susijęs iš Burtnieko ežeras: XII–XIII a. sandūroje latvių gyvenama rytinė Vidžemės dalis siekė Burtnieko ežerą.
+- susijęs iš Danija: Skandinavų padavimuose Starkateras vaizduojamas kaip auklėtas Danijos karaliaus Haroldo rūmuose kartu su karalaičiu Vikaru.
 - susijęs iš Daugava Dvina (sujungti pirminiai pavadinimai Daugava; Dvina): Pasak šaltinio, lietuvių tauta buvo užėmusi Baltijos pakrantę nuo Dvinos iki Vyslos.
 - susijęs iš Daugava Dvina (sujungti pirminiai pavadinimai Daugava; Dvina): Į rytus nuo Dvinos prie venedų gyvenviečių šliejosi estų, gausios suomių padermės atšakos, gyvenvietės.
 - susijęs iš Daugava Dvina (sujungti pirminiai pavadinimai Daugava; Dvina): Bremeno pirkliai 1158 m. atrado vakarinės Dvinos, arba Dauguvos, žiotis ir užmezgė prekybinius ryšius su tenykščiu pamariu.
+- susijęs iš Dauguva: Narbutas teigė, kad potvynių ir šiaurės vėjų sukelti pokyčiai labiausiai paveikė Baltijos pakrantes tarp Vyslos ir Dauguvos žiočių.
+- susijęs iš Dauguva: Narbutas atmetė mokslininkų nuomonę, kad gintaro kelio upė galėjusi būti Prieglius arba Vakarų Dauguva, ir rinkosi Nemuną.
 - susijęs iš Didžioji Britanija: Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lietuvos užsienio prekybą.
 - susijęs iš Didžioji Britanija: Po Antrojo pasaulinio karo dalis lietuvių tremtinių ir pabėgėlių pasuko į Didžiąją Britaniją, Kanadą ir Australiją.
 - susijęs iš Didžioji Britanija: Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lietuvos užsienio prekybą.
+- susijęs iš Dnepras: Narbutas teigė, kad jo laikų Dnepro vandens masė buvo perpus mažesnė negu senovėje, nors vaga išlaikė panašų plotį.
 - susijęs iš Dniepras: Vytauto valstybės teritoriją su Juodosios jūros kryptimi jungė platus Dniepro baseinas.
 - susijęs iš Dorpatas: Vytauto laikų Dorpatas buvo vienas iš prekybos centrų netoli Lietuvos.
+- susijęs iš Elbė: Fosas teigė, kad Pitėjas pasiekė tik Reiną arba toliausiai Elbės žiotis.
 - susijęs iš Estija: SSRS unifikacinė politika nusmukdė Latvijos ir Estijos lygį, bet leido Lietuvai pasivyti kaimynes pagal visus parametrus.
 - susijęs iš Estija: Latvija ir Estija vengė kištis į Lenkijos ir Lietuvos konfliktą dėl Vilniaus, abi gravitavo į Varšuvą, o Lietuva dėl Vilniaus problemos iškrisdavo iš perspektyvaus regioninio darinio su Lenkija priešakyje.
 - susijęs iš Gedimino bokštas: 1989 m. rugpjūčio 23 d. Baltijos kelio žmonių grandinė driekėsi nuo Gedimino bokšto Vilniuje iki Hermano bokšto Taline.
 - susijęs iš Hermano bokštas: 1989 m. rugpjūčio 23 d. Baltijos kelio žmonių grandinė driekėsi nuo Gedimino bokšto Vilniuje iki Hermano bokšto Taline.
+- susijęs iš Ilyrija: Narbutas rašo, kad Strijkovskis kimbrų pasitraukimą vedė nuo Baltijos pakrančių į Ilyriją, kur jie prie Nortbėjos kariavo su romėnais.
 - susijęs iš Islandija: 1991 m. vasario 11 d. Islandijos Altingas pirmasis pripažino Lietuvos nepriklausomybę.
 - susijęs iš Italija: Narbutas teigė, kad gotai lietuviams būtų primetę ne iš Italijos miestų išguitą romėnų stabmeldystę, o krikščionybę arba šiaurės asų religiją.
 - susijęs iš JAV: 1948 m. viduryje JAV Kongresas priėmė Perkeltųjų asmenų įstatymą, numačiusį įsileisti 205 tūkst. dipukų.
@@ -354,10 +567,12 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 - susijęs iš Kanada: Dalis lietuvių tremtinių ir pabėgėlių, neatvykusių į JAV, pasuko į Kanadą, Didžiąją Britaniją ir Australiją.
 - susijęs iš Karaliaučius: 1255 m. Karaliaučius iškilo padedant Čekijos karaliui Otokarui.
 - susijęs iš Karaliaučius: Karaliaučius iškilo 1255 metais, padedant Čekijos karaliui Otokarui.
+- susijęs iš Karaliaučius: Narbutas rašo, kad Strijkovskis, būdamas Karaliaučiuje, tikriausiai turėjo po ranka prūsų kronikininko Jokimo Rozencveigo veikalus.
 - susijęs iš Kaunas: Kaune atsirado jėzuitų kolegija, funduota brolių Vijūkų Kojelavičių.
 - susijęs iš Kaunas: 1972 m. gegužės 14 d. Romas Kalanta Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir pasidegė.
 - susijęs iš Kaunas: Narbutas perteikia Kosakovskio nuomonę, kad rastasis atvaizdas buvęs Kauno miesto dievas globėjas, kaip rodžiusi jo karūna.
 - susijęs iš Kauno miesto sodas (miestas): 1972 m. gegužės 14 d. Romas Kalanta Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir pasidegė.
+- susijęs iš Kerčės tvirtovė: Teodoro Narbuto pasakojime Kerčės tvirtovė stovi ant Pantikapėjos miesto griuvėsių.
 - susijęs iš Kijevo Rusia: Lietuva iki XII a. pabaigos buvo Rusios įtakoje, o vėliau savo antpuoliais ėmė bauginti Rusią ir Lenkiją.
 - susijęs iš Kijevo Rusia: Iki XII a. pabaigos Lietuva buvo Rusios įtakoje, o vėliau savo antpuoliais ėmė bauginti Rusią ir Lenkiją.
 - susijęs iš Klaipėda: 1252 m. Livonijos ordinas prie Kuršmarių ir Baltijos sandūros statytą pilį pavadino Memeliu, o senoji vietos sodyba vadinosi Klaipėda.
@@ -392,20 +607,27 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 - susijęs iš Maskva: Maskva minima kaip imperines ambicijas užauginusi rytų grėsmė Lietuvos sukurtai didvalstybei.
 - susijęs iš Mažoji Azija: Mažajai Azijai patekus į turkų valdžią, Viduržemio jūros prekybos centrai pamažu neteko reikšmės Europai.
 - susijęs iš Naugardukas: Naugardukas XIII amžiaus viduryje jau buvo Mindaugo sostinė.
-- susijęs iš Palanga: Livonijos kariai pasuko prie Baltijos jūros, tikėdamiesi apie Palangą rasti retesnių medžių ir lygesnį kelią.
+- susijęs iš Nemunas: Teodoras Narbutas Nemuno žemupio pakrantes laikė pirmąja lietuvių tautos buveine šiame krašte.
+- susijęs iš Nemunas: Narbuto pasakojime vilkų tauta nuo Neries žiočių dešiniuoju Nemuno krantu pasiekė Dubysą.
+- susijęs iš Nemunas: Teodoro Narbuto aprašyme po kurio laiko kryžiuočiai pastūmė Prūsijos sieną iki Nemuno žemupio.
 - susijęs iš Palanga: Narbutas daro išvadą, kad ant kalno prie Palangos nuolat degė Praurimės ugnis, saugota vaidilutėmis vadintų žynių.
+- susijęs iš Pamedė: Narbutas Pamedės gyventojus apibūdino kaip karingus ir kupinus normaniškos dvasios, o pačioje Pamedėje minėjo daug garbingų šeimų.
+- susijęs iš Pantikapėja: Narbuto aiškinime Pantikapėjos vardas Skitijos geografijoje galėjo žymėti ne vieną upę ar vietovę, nes Kerčė stovėjo ant Pantikapėjos griuvėsių.
 - susijęs iš Pomeranija: 1396 m. Vytautas sudarė laisvos prekybos sutartis su Štetino Pomeranijos hercogu, Rygos arkivyskupu elektu ir Dorpato vyskupu Ditrichu III Damerau.
 - susijęs iš Prieglius: 1358 m. Lietuvos vyriausybė reikalavo grąžinti kryžiuočių užgrobtas žemes iki Alnos, Priegliaus žemupio ir jūros.
 - susijęs iš Prūsija: Dusburgiečio kronikoje pabrėžiama, kad Ordino broliai apvalė „šventąją Prūsijos žemę“ nuo stabmeldystės.
 - susijęs iš Prūsija: Narbutas ginkluoto atvertimo eigą sieja su tikėjimo smukimu ir vardija ją nuo Livonijos iki Prūsijos, Lietuvos ir Žemaitijos.
+- susijęs iš Reinas: Foso aiškinimu, Pitėjas pasiekė tik Reiną arba daugiausia Elbės žiotis.
 - susijęs iš Rinava: Rinava buvo vakarinės Sembos centre, į šiaurės vakarus nuo Karaliaučiaus.
 - susijęs iš Rusia Rusios žemės: Algirdo ekspedicijos į Rusią iš lietuvių reikalavo mažiau jėgų negu kruvini mūšiai su Ordinu.
+- susijęs iš Rusia: Narbutas rašo, kad Frotono pasiųstas riteris ir slavų kunigaikštis Vinas pirmiausia nuvyko į Rusią, o iš jos žygiavo į maištaujančius kraštus.
 - susijęs iš Rusia: Algirdo ekspedicijos į Rusią iš lietuvių reikalavo mažiau jėgų negu kruvini mūšiai su Ordinu.
 - susijęs iš Rusija: Atkūrusi nepriklausomybę Lietuva vakaruose įgijo sieną su Rusijos Kaliningrado sritimi.
 - susijęs iš Rusija: Šiaurės Europą dengęs ledynas buvo apėmęs ir vidurio Rusiją.
 - susijęs iš Rusija: Karai su Maskvos didžiąja kunigaikštyste, vėliau Rusija, dėl rytinių teritorijų kėlė konfliktus tarp ATR ir Rusijos.
 - susijęs iš Rusija: Karai su Maskvos didžiąja kunigaikštyste, vėliau Rusija, dėl rytinių teritorijų kėlė konfliktus tarp ATR ir Rusijos.
 - susijęs iš Rusija: 1991 m. liepos 29 d. Vytautas Landsbergis ir Borisas Jelcinas pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
+- susijęs iš Rusnė: Narbutas manė, kad seniausia lietuvių gyvenvietė buvo prie dešiniosios Nemuno vagos dalies, vadintos Ruse, Rusne arba Rusnia.
 - susijęs iš Rusnė: Nustačius sieną, Nemunas, Rusnė ir Klaipėda buvo palikti Ordinui trijų mylių atstumu nuo Nemuno ir marių.
 - susijęs iš Ryga: 1989 m. rugpjūčio 23 d. Baltijos kelias buvo rankomis susikibusių žmonių grandinė Vilnius–Ryga–Talinas.
 - susijęs iš Rytų Prūsija: Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmečio tautinio lietuvių judėjimo planų dalis, nors LDK niekuomet Rytų Prūsijos, lietuvių vadinamos Mažąja Lietuva, nevaldė.
@@ -413,13 +635,19 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 - susijęs iš SSRS: Įsileidusi SSRS karines bazes Lietuva prarado viltis būti išrinkta į Tautų Sąjungos Tarybą.
 - susijęs iš SSRS: Baltijos valstybėse galimybė atsidurti SSRS valdžioje buvo klaidingai suvokta kaip laikinas grįžimas į Nikolajaus II Rusiją.
 - susijęs iš SSRS: Sovietams kariaujant su Suomija Baltijos valstybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos kaip agresorė.
+- susijęs iš Sarmatija: Narbutas cituoja geografą, kuris rašė, kad priešais Sarmatiją esančios žemės kartais atrodydavo kaip salos, o kartais kaip žemynas.
+- susijęs iš Sarmatija: Narbutas svarstė, kad Melos laikais priešais Sarmatiją plytėjusios žemės galėjo būti užliejamos ir kartais laikomos salomis.
 - susijęs iš Semba: Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
+- susijęs iš Semba: Narbutas, remdamasis Tunmanu, teigė, kad lietuvių protėviai prie Baltijos jūros tuojau užėmė Sembą ir gintaro kasyklas.
 - susijęs iš Stralsundas: Stralsundas buvo vienas Hanzos miestų, suteikusių lietuvių ir lenkų pirkliams panašias privilegijas.
 - susijęs iš Talinas: Balińskis Revelio, dabartinio Talino, atsiradimą siejo su danais.
 - susijęs iš Talinas: 1989 m. rugpjūčio 23 d. Gyvasis Baltijos kelias sujungė Vilnių, Rygą ir Taliną rankomis susikibusių žmonių grandine.
 - susijęs iš Torunė: Torunę 1235 m. pastatė kryžiuočiai.
+- susijęs iš Trentas: Narbuto pasakojime slėnyje tarp Veronos ir Trento dar turėję gyventi senovės kimbrų ainiai.
+- susijęs iš Vakarų Europa: Teodoras Narbutas siejo Vakarų Europą su kimbrų persikėlimu netrukus po 650 metų prieš Kristų ir jų giminyste su senovės germanais.
 - susijęs iš Varmė: XIV a. buvo įkurti beveik visi Varmės miestai.
 - susijęs iš Varmė: XIV amžiuje buvo įkurti beveik visi Varmės miestai.
+- susijęs iš Verona: Teodoras Narbutas rašė, kad netoli Veronos, slėnyje tarp Veronos ir Trento, dar turėtų gyventi senovės kimbrų ainiai.
 - susijęs iš Viduržemio jūra: Mažajai Azijai patekus į turkų valdžią, Viduržemio jūros prekybos centrai pamažu prarado reikšmę Europai.
 - susijęs iš Vidžemė: XII-XIII a. sąvartoje latviai buvo įsikūrę dešiniajame Dauguvos krante, apimdami Latgaliją ir rytinę Vidžemės dalį.
 - susijęs iš Vilniaus kraštas: Lietuvai atgauto Vilniaus ir Vilniaus krašto integracija reikalavo daug lėšų, nes karo metu kraštas buvo nualintas, o modernios pramonės įmonės išvežtos į SSRS.
@@ -433,37 +661,67 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 - susijęs iš Vysla: Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
 - susijęs iš Vysla: Lietuvių tautos atšakos užėmė Baltijos pakrantę nuo Dvinos iki Vyslos.
 - susijęs iš Vysla: Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
+- susijęs iš Vysla: Narbutas rašė, kad potvyniai ir ilgalaikiai šiaurės vėjai labiausiai paveikė Baltijos pakrantes tarp Vyslos ir Dauguvos žiočių.
 - susijęs iš Šeinfeldas: 1948 m. Šeinfeldo stovykloje Vokietijoje Lietuvos pabėgėliai rinkosi dalijamus drabužius.
 - susijęs iš Žemaitija: Vilniaus ir dalies Gardino gubernijų kraštas laikytas dviejų lietuvių padermių, Žemaitijos ir aukštutinės Lietuvos, gyvenviete.
 - susijęs iš [[objektai/zodynas/Euroatlantinė ir transatlantinė integracija.md#claim-t-183423|Euroatlantinė ir transatlantinė integracija]]: Glaudus trijų Baltijos valstybių bendradarbiavimas padėjo visoms sėkmingai integruotis į transatlantines organizacijas.
 - susijęs iš [[objektai/zodynas/Euroatlantinė ir transatlantinė integracija.md#claim-t-69999|Euroatlantinė ir transatlantinė integracija]]: Glaudus trijų Baltijos valstybių bendradarbiavimas padėjo visoms sėkmingai integruotis į transatlantines organizacijas.
+- susijęs iš [[objektai/zodynas/Fajetono katastrofa.md#claim-t-192285|Fajetono katastrofa]]: Narbutas Fajetono katastrofą laiko galimu prisiminimu apie nedidelės planetos arba mažesnio už Mėnulį palydovo kritimą.
+- susijęs iš [[objektai/zodynas/Fajetono katastrofa.md#claim-t-192286|Fajetono katastrofa]]: Narbutas Fajetono katastrofą sieja su galimu nedidelės planetos arba mažesnio už Mėnulį palydovo kritimu.
+- susijęs iš [[objektai/zodynas/Fajetono katastrofa.md#claim-t-192557|Fajetono katastrofa]]: Narbutas Fajetono katastrofą laiko legendinės senovės pasakojimu, galėjusiu priminti mažo dangaus kūno kritimą.
 - susijęs iš [[objektai/zodynas/Krivis Krewe Crive.md#claim-t-189109|Krivis Krewe Crive]]: Narbutas aiškina, kad kronikininkų tyla apie krivį nestebina, nes krivio veikimas dažnai ribojosi vietos vidaus reikalais.
 - susijęs iš [[objektai/zodynas/Krivis Krivių Krivaitis Crive.md#claim-t-189154|Krivis Krivių Krivaitis Crive]]: Narbutas aiškina, kad kronikininkų tyla apie krivį nestebina, nes krivio veikimas dažnai ribojosi vietos vidaus reikalais.
 - susijęs iš [[objektai/zodynas/Strungai Strungas.md#claim-t-189333|Strungai Strungas]]: Narbutas Vilija plaukiojusius krovininius laivus strungais kildino iš lietuviško žodžio „Strungas“ ir vaizdavo juos kaip upinių laivų milžinus.
 - susijęs iš [[objektai/zodynas/Szomoyth Auxtote.md#claim-t-86574|Szomoyth Auxtote]]: Szomoyth aiškinta kaip žemesnė žemė, o Auxtote – kaip aukštesnė žemė, palyginti su Žemaitija.
 - susijęs iš [[objektai/zodynas/Variagai.md#claim-t-55271|Variagai]]: IX a. Rusioje pirmieji normanai iš Skandinavijos buvo žinomi variagų vardu.
+- susijęs iš [[objektai/zodynas/Venedija ir venedų vardo formos.md#claim-t-192163|Venedija ir venedų vardo formos]]: Venedų vardą Teodoras Narbutas kildino iš senovės Šiaurės Europos kalbų žodžių Unda, Wend ir Wand.
 - susijęs iš [[objektai/zodynas/Vidivarijai.md#claim-t-54797|Vidivarijai]]: Vidivarijų vardas siejamas su nauja pasienio tauta, atsiradusia maišantis venedams, estams ir gotams.
 - susijęs iš [[objektai/zodynas/baltų tautų terminas.md#claim-t-02960|baltų tautų terminas]]: Svetimšaliai lietuvių kilmės tautoms vadinti vartojo baltų tautų terminą.
 - susijęs iš [[objektai/zodynas/dipukai displaced persons (DP).md#claim-t-101578|dipukai displaced persons (DP)]]: Prasidėjus Šaltajam karui, JAV keitė požiūrį į dipukus, o JAV Kongresas 1948 m. viduryje priėmė Perkeltųjų asmenų įstatymą.
 - susijęs iš [[objektai/zodynas/federacija federacinė valstybė.md#claim-t-101584|federacija federacinė valstybė]]: Pageidauta Lenkijos ir Lietuvos federacija nesusikūrė, o lietuviai iš lenkų galėjo tikėtis tik siauresnių etnografinių ribų Lietuvos.
 - susijęs iš [[objektai/zodynas/federacija federacinė valstybė.md#claim-t-183424|federacija federacinė valstybė]]: Lenkijos ir Lietuvos federacijos planas nesisekė, o lietuviai iš lenkų galėjo tikėtis tik siauresnių etnografinių Lietuvos ribų.
 - susijęs iš [[objektai/zodynas/glesum.md#claim-t-28586|glesum]]: Tacitas rašė, kad Aestii Baltijos jūros pakraščiuose ir krante rinko gintarą, kurį vadino glesum.
+- susijęs iš [[objektai/zodynas/judančios žemės sluoksniai.md#claim-t-192292|judančios žemės sluoksniai]]: Narbutas akmenų radimą aiškina tuo, kad kai kurie jų buvo užpustyti judančios žemės sluoksnių.
+- susijęs iš [[objektai/zodynas/judančios žemės sluoksniai.md#claim-t-192293|judančios žemės sluoksniai]]: Narbutas aiškina, kad Autorius „judančios žemės sluoksnius“ sieja su naujais, giliais, vietomis vandens užtvindytais sluoksniais.
 - susijęs iš [[objektai/zodynas/liaudies demokratija.md#claim-t-22212|liaudies demokratija]]: 1940 m. vasarą Sovietų Sąjunga Baltijos valstybėse prievarta įvedė tariamai demokratinį valdymą, oficialiai vadintą „liaudies demokratija“.
+- susijęs iš [[objektai/zodynas/Žemės revoliucija.md#claim-t-192283|Žemės revoliucija]]: Narbutas mini hipotezę, kad dideli ir maži uolienų luitai Žemės revoliucijos metu buvo išbarstyti po įvairias lygumas.
+- susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-190732|J. Dlugošas]]: „Slavų senienų“ autoriaus nuomone, jau J. Dlugošo laikais slavai lietuvius laikė labai maža ir silpna tauta.
+- susijęs iš [[objektai/zodynas/Venedija ir venedų vardo formos.md#claim-t-192163|Venedija ir venedų vardo formos]]: Venedų vardą Teodoras Narbutas kildino iš senovės Šiaurės Europos kalbų žodžių Unda, Wend ir Wand.
 - susijęs iš [[objektai/daiktai/Šernų amuletai.md#claim-t-47839|Šernų amuletai]]: Tacitas rašė, kad prie Baltijos jūros gyvenę Aestii garbino dievų motiną ir nešiojo šernų amuletus.
 - susijęs iš [[objektai/zodynas/Vidivarijai.md#claim-t-54797|Vidivarijai]]: Vidivarijų vardas siejamas su nauja pasienio tauta, atsiradusia maišantis venedams, estams ir gotams.
+- susijęs iš [[objektai/daiktai/Valtys.md#claim-t-192075|Valtys]]: Narbutas rašo, kad rusai prie įėjimo į Rusnės įlanką stojo į mūšį susirinkę labai daug valčių.
+- susijęs iš [[objektai/grupes/Gotai.md#claim-t-192396|Gotai]]: Narbutas Skandinavijos gotus apibūdina kaip senus jūrų keliautojus, kurie Baltijos pakrantėse prekiavo ir dažniau plėšikavo.
+- susijęs iš [[objektai/paprociai/Senovės prūsų vaišingumas ir švelnūs papročiai.md#claim-t-192093|Senovės prūsų vaišingumas ir švelnūs papročiai]]: Narbutas Varmijos gyventojus vaizduoja kaip laikiusiusis švelnių papročių, labiausiai civilizuotus ir mažiausiai karingus.
+- susijęs iš Rozencveigo kronika: Teodoras Narbutas Rozencveigo kroniką siejo su pasakojimu apie kimbrų epochos potvynį, kuris esą buvęs iki prūsų įsikūrimo prie Baltijos jūros.
+- susijęs iš [[objektai/zodynas/Fajetono katastrofa.md#claim-t-192285|Fajetono katastrofa]]: Narbutas Fajetono katastrofą laiko galimu prisiminimu apie nedidelės planetos arba mažesnio už Mėnulį palydovo kritimą.
+- susijęs iš [[objektai/zodynas/Fajetono katastrofa.md#claim-t-192286|Fajetono katastrofa]]: Narbutas Fajetono katastrofą sieja su galimu nedidelės planetos arba mažesnio už Mėnulį palydovo kritimu.
+- susijęs iš [[objektai/zodynas/Venedija ir venedų vardo formos.md#claim-t-192163|Venedija ir venedų vardo formos]]: Venedų vardą Teodoras Narbutas kildino iš senovės Šiaurės Europos kalbų žodžių Unda, Wend ir Wand.
+- susijęs iš [[objektai/zodynas/judančios žemės sluoksniai.md#claim-t-192291|judančios žemės sluoksniai]]: Narbutas aiškina, kad judančios žemės sluoksniai turėjo būti sujudinti arba išplauti iš Baltijos jūros.
+- susijęs iš [[objektai/zodynas/judančios žemės sluoksniai.md#claim-t-192292|judančios žemės sluoksniai]]: Narbutas akmenų radimą aiškina tuo, kad kai kurie jų buvo užpustyti judančios žemės sluoksnių.
+- susijęs iš [[objektai/zodynas/judančios žemės sluoksniai.md#claim-t-192293|judančios žemės sluoksniai]]: Narbutas aiškina, kad Autorius „judančios žemės sluoksnius“ sieja su naujais, giliais, vietomis vandens užtvindytais sluoksniais.
+- susijęs iš [[objektai/zodynas/Žemės revoliucija.md#claim-t-192283|Žemės revoliucija]]: Narbutas mini hipotezę, kad dideli ir maži uolienų luitai Žemės revoliucijos metu buvo išbarstyti po įvairias lygumas.
 - susijęs iš [[objektai/grupes/Normanai.md#claim-t-86724|Normanai]]: IX amžiuje Rusioje variagais vadinti normanai iš Skandinavijos Baltijos pakrantėse siekė plėšikavimo ir prekybos.
+- susijęs iš [[objektai/grupes/Slavai.md#claim-t-192475|Slavai]]: V amžiaus pabaigoje slavų gyvenamosios vietovės, pasak Narbuto, plačiai driekėsi kraštuose, iš kurių germanai traukėsi į pietus.
 - susijęs iš [[objektai/grupes/Čeltyčios.md#claim-t-189540|Čeltyčios]]: Narbutas Čeltyčias vaizdavo kaip Baltijos jūros vandenų nimfas, pajūrio žemaičių vaizduotėje gyvenusias gintaro rūmuose.
+- susijęs iš [[objektai/grupes/Lygai.md#claim-t-192955|Lygai]]: Teodoras Narbutas lygus siejo su senovės Baltijos jūros pietryčių pakrančių gyventojais.
+- susijęs iš [[objektai/grupes/Vilkai-liutikai.md#claim-t-192965|Vilkai-liutikai]]: Narbutas vilkų, arba Wilkow, tautą laiko priešistorine grupe, kurios vardas, jo teigimu, buvo įvairiai iškraipomas.
 - susijęs iš [[objektai/asmenys/Petras I Didysis.md#claim-t-184424|Petras I Didysis]]: Maskvos caras Petras I Didysis ruošėsi prasiveržti į Baltijos jūrą, tam siekdamas išvyti švedus iš pajūrio.
 - susijęs iš [[objektai/autoriai/Plinijus.md#claim-t-190377|Plinijus]]: Narbutas Plinijumi grindė teiginį, kad romėnų laivai prieš Kristaus gimimą plaukiojo Baltijos jūroje.
 - susijęs iš [[objektai/posakiai/at litus australe Slavi et Aisti et aliae diversae incolunt nationes.md#claim-t-31554|at litus australe Slavi et Aisti et aliae diversae incolunt nationes]]: Apie 830 m. Einhardas „Vita Caroli Magni“ pietiniame Baltijos krante minėjo slavus, aisčius ir kitas tautas.
+- susijęs iš Christoph Hartknoch, Alt- und neues Preussen: Pasak Narbuto, Hartknochas pateikė žinių apie prie Baltijos jūros gyvavusius padavimus dėl tenykščių genčių, ypač prūsų, ištakų.
 - susijęs iš [[objektai/daiktai/Čeltyčių gintaro rūmai.md#claim-t-189756|Čeltyčių gintaro rūmai]]: Narbutas Čeltyčias vaizdavo kaip Baltijos jūros nimfas, pajūrio žemaičių vaizduotėje gyvenusias gintaro rūmuose jūros gelmėse.
 - susijęs iš [[objektai/grupes/Normanai.md#claim-t-86723|Normanai]]: Normanų piratų lankytas kraštas apėmė Baltijos jūros pakrantę nuo Vyslos žiočių iki Suomijos įlankos.
 - susijęs iš [[objektai/ivykiai/Latvijos ir Estijos okupavimas po Lietuvos atkirtimo (1940 m. birželio 16 d.).md#claim-t-45353|Latvijos ir Estijos okupavimas po Lietuvos atkirtimo (1940 m. birželio 16 d.)]]: 1940 m. birželio 16 d. sovietų divizijos per Lietuvą atkirtusios Latviją ir Estiją nuo Vokietijos greitai okupavo abi Baltijos valstybes.
+- susijęs iš Nemunas: Teodoras Narbutas Nemuno žemupio pakrantes laikė pirmąja lietuvių tautos buveine šiame krašte.
+- susijęs iš [[objektai/grupes/Gotai.md#claim-t-192401|Gotai]]: Narbutas gotais vadinamą tautą sieja su pajūriu nuo Oderio iki Vyslos, gitonų arba variagų vardais ir gintaro prekyba.
+- susijęs iš [[objektai/asmenys/Pitėjas Masilietis.md#claim-t-191135|Pitėjas Masilietis]]: Narbutas nurodė nuomonę, kad Pitėjas Masilietis keliavo du kartus: pirmą kartą į Britaniją, antrą kartą į šiaurės rytus.
+- susijęs iš [[objektai/asmenys/Pitėjas.md#claim-t-191220|Pitėjas]]: Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Britaniją, antrą kartą į šiaurės rytus.
 - susijęs iš Šiaurės jūra: Šiaurės ir Baltijos jūrose suaktyvėjo prekyba, o jose įsigalėjo vokiškųjų miestų pirklių sąjunga Hanza.
 - susijęs iš Šiaurės jūra: Šiaurės ir Baltijos jūrose suaktyvėjo prekyba, o jose įsigalėjo vokiškųjų miestų pirklių sąjunga Hanza.
 - susijęs iš [[objektai/zodynas/Austurweg.md#claim-t-54800|Austurweg]]: Austurweg buvo normanų vartotas Baltijos jūros pakrantės nuo Vyslos žiočių iki Suomijos įlankos pavadinimas.
 - susijęs iš KGB kontržvalgybos sąvokų žodynas Kontržvalgybos žodynas: KGB kontržvalgybos organai agentus-smogikus laikė rezervu kovai su žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gaujomis karo metu.
 - susijęs iš KGB kontržvalgybos sąvokų žodynas: KGB kontržvalgybos organai agentus-smogikus laikė rezervu kovai su žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gaujomis karo metu.
+- susijęs iš [[objektai/ivykiai/Kimbrų epochos potvynis Baltijos pakrantėse.md#claim-t-191025|Kimbrų epochos potvynis Baltijos pakrantėse]]: Narbutas rašo, kad Strijkovskis Karaliaučiuje turėjo Jokimo Rozencveigo veikalus, kuriuose buvo cituojamas kimbrų epochos potvynis.
 - susijęs iš [[objektai/paprociai/Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma.md#claim-t-23361|Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma]]: 1989 m. rugpjūčio 23 d. apie du milijonai lietuvių, latvių ir estų Baltijos kelyje susikibo rankomis į daugiau kaip 650 km gyvą žmonių grandinę.
 ## Reikšmingi paminėjimai
 
@@ -476,6 +734,7 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
     nijos ordinas ėmė statyti pilį toje vietoje, kur Kuršmarės
     jungiasi su Baltija.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -483,10 +742,104 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
     - t-002
     - t-001
 
+- c-002
+  santrauka: 'Narbutas rašo, kad apie Pitėją manyta jį antrąją kelionę vykus į šiaurės rytus ir atradus Baltijos salą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Graikai, ypač
+    masiliečiai, tęsė finikiečių tyrimus, bet rašė eilėmis, pa­
+    vyzdžiui, apie argonautų kelionę; romėnai, kaip nuga­
+    lėtojai, pažengė toliau, tačiau apie kraštus, esančius už
+    Elbės ir Arkados žiočių, nepaliko jokių rašytinių žinių1.
+    Apie Pitėją manoma, jog jis keliavęs du kartus: pir­
+    mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado
+    Baltijos salą. Fosas teigia, jog jis pasiekė tik Reiną ar
+    toliausiai Elbės žiotis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003
+
+- c-003
+  santrauka: 'Narbutas nurodo, kad Plinijaus Baltija, remiantis Hardua rankraščiais ir stebėjimais, turėtų vadintis Basilia.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Aes­
+    tuarium, pasak lotyniško Pitėjo vertimo, reiškia negilias,
+    seklias vietas, kurios kartais būva apsemtos, o kartais —
+    sausos; toks aprašymas iš tikrųjų tinka senovės Prūsijai.
+    Sala, kurią Plinijus vadina Baltija, remdamasis visais
+    Hardua rankraščiais ir stebėjimais, turėtų vadintis Basi-
+    lia. Anot vienų, ji buvo vienos, anot kitų — trijų dienų
+    kelionės nuo sausumos atstumu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-004
+
+## Citatos
+
+- id: c-67494
+  citata_originali: |
+    Be to, užėmus pajūrį, Livonijoje ir Prūsuose veikiančios ordino
+    šakos galėtų susisiekti sausuma. Tam tikslui 1252 m. Livo-
+    nijos ordinas ėmė statyti pilį toje vietoje, kur Kuršmarės
+    jungiasi su Baltija.
+  citata_rodoma: "Tam tikslui 1252 m. Livo-\nnijos ordinas ėmė statyti pilį toje vietoje, kur Kuršmarės\njungiasi su Baltija."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67690
+    - t-67689
+
+- id: c-175383
+  citata_originali: |
+    Graikai, ypač
+    masiliečiai, tęsė finikiečių tyrimus, bet rašė eilėmis, pa­
+    vyzdžiui, apie argonautų kelionę; romėnai, kaip nuga­
+    lėtojai, pažengė toliau, tačiau apie kraštus, esančius už
+    Elbės ir Arkados žiočių, nepaliko jokių rašytinių žinių1.
+    Apie Pitėją manoma, jog jis keliavęs du kartus: pir­
+    mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado
+    Baltijos salą. Fosas teigia, jog jis pasiekė tik Reiną ar
+    toliausiai Elbės žiotis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192613
+
+- id: c-175384
+  citata_originali: |
+    Aes­
+    tuarium, pasak lotyniško Pitėjo vertimo, reiškia negilias,
+    seklias vietas, kurios kartais būva apsemtos, o kartais —
+    sausos; toks aprašymas iš tikrųjų tinka senovės Prūsijai.
+    Sala, kurią Plinijus vadina Baltija, remdamasis visais
+    Hardua rankraščiais ir stebėjimais, turėtų vadintis Basi-
+    lia. Anot vienų, ji buvo vienos, anot kitų — trijų dienų
+    kelionės nuo sausumos atstumu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192614
+
 ## Ryšiai
 - Buvo valdoma: [[objektai/grupes/Hanza]]
-- Buvo kelionės vieta: [[objektai/grupes/Estai]], [[objektai/grupes/Latviai]], [[objektai/grupes/Normanai]], [[objektai/grupes/Romėnai]]
-- Užėmė Baltiją: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Slavai]], [[objektai/grupes/Venedai]]
+- Buvo kelionės vieta: [[objektai/grupes/Estai]], [[objektai/grupes/Kimbrai]], [[objektai/grupes/Latviai]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Normanai]], [[objektai/asmenys/Pitėjas]], [[objektai/asmenys/Pitėjas Masilietis]], [[objektai/grupes/Romėnai]]
+- Užėmė Baltiją: [[objektai/grupes/Gotai]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Slavai]], [[objektai/grupes/Venedai]]
 - Buvo žygio kryptis: [[objektai/asmenys/Petras I Didysis]]
-- Gyvenamoji vieta: [[objektai/grupes/Agentai-smogikai]], [[objektai/grupes/Aisčiai]], [[objektai/grupes/Aušrėnai]], [[objektai/grupes/Baltai]], [[objektai/grupes/Čeltyčios]]
+- Prekiavo su: [[objektai/grupes/Gotai]]
+- Gyvenamoji vieta: [[objektai/grupes/Agentai-smogikai]], [[objektai/grupes/Aisčiai]], [[objektai/grupes/Aušrėnai]], [[objektai/grupes/Baltai]], [[objektai/grupes/Čeltyčios]], [[objektai/grupes/Kimbrai]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lygai]], [[objektai/grupes/Prūsai]], [[objektai/grupes/Slavai]], [[objektai/grupes/Venedai]], [[objektai/grupes/Vilkai-liutikai]]
 - Turėjo priklausinį: [[objektai/grupes/Baltijos valstybės]]

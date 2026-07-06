@@ -9,6 +9,18 @@ tags:
   - ežeras
   - ordinas
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Gelvonai
 
@@ -21,9 +33,20 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
 <a id="claim-t-41728"></a>
 - t-001
   global_id: t-41728
-  teiginys: 'Švitrigailos ir Ordino pajėgos iš Vilkmergės patraukė į pietus pro Pašilę keliu Gelvonų link.'
+  teiginys: "Švitrigailos ir Ordino pajėgos iš Vilkmergės patraukė į pietus pro Pašilę keliu Gelvonų link."
+  semantiniai_rysiai: "Švitrigaila keliavo į Pašilė (0.82); Švitrigaila keliavo į Gelvonai (0.78)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "277121-277480; hash=77e898e6e37832ca0149db62af2e528d953b28445ae89238b4e91f11791ef973; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Pašilė: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Pašilė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Švitrigailos pajėgų kelias tiesiogiai ėjo pro Pašilę."
   pagrindžia:
-    - c-001
+    - c-45099
 - susijęs iš Pašilė: Švitrigailos ir Ordino pajėgos iš Vilkmergės traukė į pietus pro Pašilę Gelvonų link.
 - susijęs iš [[objektai/asmenys/Albertas Tžasibroda.md#claim-t-87610|Albertas Tžasibroda]]: Albertas Tžasibroda turėjo žemę, iš kurios Sofija Simonovna privalėjo mokėti kviečių dešimtinę nuo visų laukų.
 - susijęs iš [[objektai/asmenys/Mykolas.md#claim-t-64008|Mykolas]]: Kunigaikštis Mykolas su lietuviais ir lenkais žygiavo pasitikti priešo.
@@ -51,11 +74,33 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
     Jos viena kitą pastebėjo šiauriau Žirnajų
     ežero, kur išteka Žirnajos upelis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-45099
+  citata_originali: |
+    Sprendžiant iš pagrindinių istorinių
+    šaltinių, Švitrigailos ir Ordino pajėgos iš
+    Vilkmergės patraukė į pietus pro Pašilę
+    ir toliau keliu Gelvonų link, einančiu
+    per dabartinį Pabaiską, vakarine Žirnajų
+    ežero pakrante. Žygimanto kariuomenė
+    traukė į šiaurę rytine to paties ežero puse.
+    Jos viena kitą pastebėjo šiauriau Žirnajų
+    ežero, kur išteka Žirnajos upelis.
+  citata_rodoma: "Sprendžiant iš pagrindinių istorinių\nšaltinių, Švitrigailos ir Ordino pajėgos iš\nVilkmergės patraukė į pietus pro Pašilę\nir toliau keliu Gelvonų link, einančiu\nper dabartinį Pabaiską, vakarine Žirnajų\nežero pakrante. Žygimanto kariuomenė\ntraukė į šiaurę rytine to paties ežero puse."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-41728
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Švitrigaila]]

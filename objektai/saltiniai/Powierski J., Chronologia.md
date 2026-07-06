@@ -18,6 +18,18 @@ tags:
   - saltinis
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Powierski J., Chronologia
 
@@ -30,10 +42,15 @@ Dusburgietis teigia, kad dabar siūlomos vėlesnės datos: pilis pradėta statyt
 <a id="claim-t-61249"></a>
 - t-001
   global_id: t-61249
-  teiginys: 'J. Powierskio „Chronologia“ siūlo vėlesnes datas: pilis pradėta 1279 m., o miesto lokacinė privilegija tikriausiai išduota 1286 m.'
+  teiginys: "J. Powierskio „Chronologia“ siūlo vėlesnes datas: pilis pradėta 1279 m., o miesto lokacinė privilegija tikriausiai išduota 1286 m."
+  temporaliniai_duomenys: "įvykio data: 1279 m.; įvykio data: 1281 m.; įvykio data: 1286 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata remia glaustą šaltinio pozicijos santrauką."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "525107-525321; hash=044d22276408f2bf5849ae303d6d3658ee9653f716f1cdf4f086f8e8402419bc; match=exact"
+  sprendimo_priezastis: "auto"
   pagrindžia:
-    - c-001
-
+    - c-61881
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,8 +61,23 @@ Dusburgietis teigia, kad dabar siūlomos vėlesnės datos: pilis pradėta statyt
     m.) į ją perkeltas konventas; miestui lokacinė privilegija išduota greičiausiai tik 1286 m.
     (Powierski J., Chronologia..., p. 5—31).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-61881
+  citata_originali: |
+    Dabar siūlomos vėlesnės datos: pilis pradėta statyti 1279 m. ir tuojau (arba 1281
+    m.) į ją perkeltas konventas; miestui lokacinė privilegija išduota greičiausiai tik 1286 m.
+    (Powierski J., Chronologia..., p. 5—31).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-61249

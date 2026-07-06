@@ -12,99 +12,221 @@ date_start: '1246'
 date_end: '1260'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XIII'
-description: 'Pamedėnai – Pamedėje gyvenusi prūsų grupė, XIII a. minima Ordino kovų, pilių puolimų ir 1260 m. Klaipėdos telkimo kontekste.'
-socialDescription: 'Kas buvo pamedėnai? XIII a. šaltiniuose jie minimi Pamedėje, Ordino kovose, atsimetimuose ir 1260 m. Klaipėdos žygyje prieš Lietuvą.'
-seo_atnaujinta: '2026-07-02T23:12:35.366785+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 tags:
   - grupe
   - kunigaikštis
   - ordinas
+amziai:
+  - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Pamedėnai
 
 ## Santrauka
 
-Pamedėnai buvo Pamedėje gyvenusi prūsų grupė, XIII a. minima Ordino kovų ir Prūsijos žemių konfliktų kontekste. Šaltiniuose jie pasirodo kaip Ordino spaudžiami, kartais jam ištikimi ar iš naujo pasiduodantys žmonės, susiję su pilimis, badu ir atsimetimais nuo krikščionybės. 1260 m. Klaipėdoje pamedėnai minimi tarp Ordino pavaldžių užgrobtų žemių karių, prievarta telktų prieš Lietuvą.
+Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių ordinų pajėgos, broliai riteriai ir i 4 jiems pavaldžių užgrobtų žemių “prievarta buriami kariai (prūsai - pamedėnai, notangai, varmiai, sembai, o taip pat kuršiai, estai ir kt.), iš.
 
 ## Teiginiai
+
 <a id="claim-t-78414"></a>
-- t-001
+- t-002
   global_id: t-78414
-  teiginys: 'Antra — Pamedė192, kurioje [gyveno] pamedėnai.'
+  teiginys: "Antra — Pamedė192, kurioje [gyveno] pamedėnai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "186626-186822; hash=eb0f91012ed5a7f461ec4b7be91b72cf68cfb19fae8f8bcd2706d8a3a10c90ff; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pagudėnai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pamedėnai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Pagudėnai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pamedėnai\" parinktas kaip owner_note_path. Targetas \"Pagudėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
-    - c-002
+    - c-75699
 
 <a id="claim-t-78415"></a>
-- t-002
+- t-008
   global_id: t-78415
-  teiginys: 'Pagudėnai prie Kristburgo užpuolė pilaitę, kurioje gyveno tikintieji pamedėnai, į ją įsiveržė ir ją sugriovė.'
+  teiginys: "Pagudėnai prie Kristburgo užpuolė pilaitę, kurioje gyveno tikintieji pamedėnai, į ją įsiveržė ir ją sugriovė."
+  semantiniai_rysiai: "Pagudėnai puolė Pamedėnai (0.70); Pagudėnai puolė Kristburgas (0.66)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "446137-446879; hash=b0fefd5f7aeb38b4d9c493e13c7b46f187e7e18838f9a2ead1be96a0c02df6c3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Pamedėnai: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pagudėnai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Pamedėnai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Claim teigia, kad pagudėnai puolė pilaitę, kurioje gyveno pamedėnai; ryšys į pamedėnus remiasi apgyventos pilaitės puolimu."
   pagrindžia:
-    - c-006
-    - c-011
+    - c-75704
+    - c-75712
 
 <a id="claim-t-78417"></a>
-- t-003
+- t-009
   global_id: t-78417
-  teiginys: 'Per badą pilyje broliai įkalbinėjo jiems ištikimus pamedėnus pasitraukti į kitas vietas, kad galėtų prasimaitinti.'
+  teiginys: "Per badą pilyje broliai įkalbinėjo jiems ištikimus pamedėnus pasitraukti į kitas vietas, kad galėtų prasimaitinti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "443605-444325; hash=147c4da1563cdfc9d5e25ef1ddcd87e66bf67ad57390295353647796a330ec9b; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pamedėnai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Prūsija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pamedėnai\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
-    - c-005
+    - c-75698
+    - c-75702
 
 <a id="claim-t-78419"></a>
-- t-004
+- t-006
   global_id: t-78419
-  teiginys: 'Pamedės Reisių valsčiuje gyvenę pamedėnai buvo puolami grobimais, gaisrais ir kraujo praliejimu.'
+  teiginys: "Pamedės Reisių valsčiuje gyvenę pamedėnai buvo puolami grobimais, gaisrais ir kraujo praliejimu."
+  semantiniai_rysiai: "Pamedėnai gyveno Pamedė (0.84)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "251200-251634; hash=a1c2fcc6f600c60fd41e230348f813b324e68832480c58c19069ea545fd7bc43; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Pamedė: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pamedėnai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Pamedė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Pamedės žemės Reisių valsčiuje gyveno žmonės, teiginyje įvardyti kaip pamedėnai."
+  vertinimo_atnaujinta: "2026-06-13T14:23:04Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-009
+    - c-75709
 
 <a id="claim-t-78420"></a>
-- t-005
+- t-010
   global_id: t-78420
-  teiginys: 'Belichovo pilis prie Osos priklausė kilmingam pamedėnui Jonui, Sarginio sūnui.'
+  teiginys: "Belichovo pilis prie Osos priklausė kilmingam pamedėnui Jonui, Sarginio sūnui."
+  semantiniai_rysiai: "Belichovas priklausė Pamedėnai (0.84)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "446068-446611; hash=b75184dc6f79f0cc753efab3debfd57726810d9d60441ab31a3301a9bd1e649e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Pamedėnai: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Belichovas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Pamedėnai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Belichovo pilis tiesiogiai įvardyta kaip priklausiusi kilmingam pamedėnui; leidžiamas artimiausias savininko objektas yra pamedėnai."
   pagrindžia:
-    - c-010
+    - c-75711
 
 <a id="claim-t-78421"></a>
-- t-006
+- t-011
   global_id: t-78421
-  teiginys: 'Per naują atsimetimą ištikimieji pamedėnai liko tarp tų, kurie nesusimokė atsimesti nuo krikščionybės.'
+  teiginys: "Per naują atsimetimą ištikimieji pamedėnai liko tarp tų, kurie nesusimokė atsimesti nuo krikščionybės."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "502304-502796; hash=6278348e32b277a512043301de8b1345f0ec2bbec524d5d1d3b8b174c1fe8704; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Elbingas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pamedėnai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Elbingas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pamedėnai\" parinktas kaip owner_note_path. Targetas \"Elbingas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-007
+    - c-75705
 
 <a id="claim-t-78422"></a>
-- t-007
+- t-012
   global_id: t-78422
-  teiginys: '1260 m. Klaipėdoje pamedėnai minimi tarp Ordino pavaldžių užgrobtų žemių karių, prievarta telktų prieš Lietuvą.'
+  teiginys: "1260 m. Klaipėdoje pamedėnai minimi tarp Ordino pavaldžių užgrobtų žemių karių, prievarta telktų prieš Lietuvą."
+  temporaliniai_duomenys: "įvykio data: 1260 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir suformuluotas faktas apie pamedėnus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "88586-89151; hash=9c5097834eb252e60b04ea040506a70a72bbc671cbaffbd32b1aca4d333702b3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pamedėnai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pamedėnai\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-75700
 
 <a id="claim-t-78423"></a>
-- t-008
+- t-001
   global_id: t-78423
-  teiginys: '1260 m. Klaipėdoje prieš Lietuvą sutelktose Ordino pajėgose buvo ir prievarta buriami pamedėnai.'
+  teiginys: "1260 m. Klaipėdoje prieš Lietuvą sutelktose Ordino pajėgose buvo ir prievarta buriami pamedėnai."
+  temporaliniai_duomenys: "įvykio data: 1260 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas faktinis sakinys apie pamedėnus ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "88586-89151; hash=9c5097834eb252e60b04ea040506a70a72bbc671cbaffbd32b1aca4d333702b3; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Estai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pamedėnai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Estai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pamedėnai\" parinktas kaip owner_note_path. Targetas \"Estai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-75700
 
 <a id="claim-t-78424"></a>
-- t-009
+- t-007
   global_id: t-78424
-  teiginys: 'Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.'
+  teiginys: "Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "306179-306545; hash=421ae153c535153610a6aa580a0c3eb51a9ff71f21f0a8629b351e1a6e6c7e5e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bartai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pamedėnai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Bartai: mention_match, group, gap=43"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pamedėnai\" parinktas kaip owner_note_path. Targetas \"Bartai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
-    - c-008
+    - c-75701
+    - c-75706
 
 <a id="claim-t-188290"></a>
 - t-010
   global_id: t-188290
-  teiginys: 'Narbutas rašo, kad pamedėnai turėjo prisiekti nepriimti krikščionių tikėjimo ir ginti savo senąjį tikėjimą.'
+  teiginys: "Narbutas rašo, kad pamedėnai turėjo prisiekti nepriimti krikščionių tikėjimo ir ginti savo senąjį tikėjimą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "306179-306545; hash=421ae153c535153610a6aa580a0c3eb51a9ff71f21f0a8629b351e1a6e6c7e5e; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Brandenburgas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pamedėnai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Brandenburgas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pamedėnai\" parinktas kaip owner_note_path. Targetas \"Brandenburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-012
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171183
 - susijęs iš [[objektai/asmenys/Henrikas iš Veidos.md#claim-t-184083|Henrikas iš Veidos]]: Henrikas iš Veidos užimtoje pamedėnų pilyje įkurdino brolius ir daug ginklanešių.
 - susijęs iš [[objektai/asmenys/Henrikas iš Veidos.md#claim-t-60137|Henrikas iš Veidos]]: Henrikas iš Veidos su broliais ir maldininkais užėmė pamedėnų pilį, stovėjusią vietoje, vėliau vadintoje Senuoju Kristburgu.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90018|Sventopelkas]]: Sventopelkas sutelkė savo kariuomenę ir Prūsijos naujakrikščius keršyti broliams dėl jų užimtos pamedėnų pilies.
@@ -142,6 +264,7 @@ Pamedėnai buvo Pamedėje gyvenusi prūsų grupė, XIII a. minima Ordino kovų i
 - susijęs iš [[objektai/asmenys/Henrikas iš Veidos.md#claim-t-60137|Henrikas iš Veidos]]: Henrikas iš Veidos su broliais ir maldininkais užėmė pamedėnų pilį, stovėjusią vietoje, vėliau vadintoje Senuoju Kristburgu.
 - susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89158|Pagudėnai]]: Pagudėnai prie Kristburgo užpuolė tikinčiųjų pamedėnų pilaitę, į ją įsiveržė ir ją sugriovė.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Per badą pilyje broliai įkalbinėjo jiems ištikimus pamedėnus pasitraukti į kitas vietas, kad galėtų prasimaitinti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -156,11 +279,13 @@ Pamedėnai buvo Pamedėje gyvenusi prūsų grupė, XIII a. minima Ordino kovų i
     reikmėms, taip kantriai  ir nuolankiai, kad jie ne tik neliūdėjo, bet visada džiūgavo,
     tikėdamiesi galop pelnysią rojaus linksmybes.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'Antra — Pamedė192, kurioje [gyveno] pamedėnai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -169,11 +294,13 @@ Pamedėnai buvo Pamedėje gyvenusi prūsų grupė, XIII a. minima Ordino kovų i
     visiškai nusiaubta. Antra — Pamedė192, kurioje [gyveno] pamedėnai. Trečia — Pagudė193,
     kurioje [gyveno] pagudėnai.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -193,12 +320,14 @@ Pamedėnai buvo Pamedėje gyvenusi prūsų grupė, XIII a. minima Ordino kovų i
     metu Rytų Europą užplūdusius totorius
     gausiai suverbuoti kryžininkai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
     - t-007
+
 - c-004
   santrauka: 'Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -214,11 +343,13 @@ Pamedėnai buvo Pamedėje gyvenusi prūsų grupė, XIII a. minima Ordino kovų i
     patvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir
     teisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-005
   santrauka: 'Per badą pilyje broliai įkalbinėjo jiems ištikimus pamedėnus pasitraukti į kitas vietas, kad galėtų prasimaitinti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -232,11 +363,13 @@ Pamedėnai buvo Pamedėje gyvenusi prūsų grupė, XIII a. minima Ordino kovų i
     laisves, kad galėtų ten prasimaitinti ir čia badu nenumirtų. Todėl jie visi ir pasitraukė,
     o pasiliko tik vienas kitas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-006
   santrauka: 'Pagudėnai prie Kristburgo užpuolė pilaitę, kurioje gyveno tikintieji pamedėnai, į ją įsiveržė ir ją sugriovė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -251,11 +384,13 @@ Pamedėnai buvo Pamedėje gyvenusi prūsų grupė, XIII a. minima Ordino kovų i
     žūties, pabėgdami  į pilį, kiti — gindamiesi viename miesto kuore, tuo tarpu likusieji
     buvo arba paimti į nelaisvę, arba užmušti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-007
   santrauka: 'Per naują atsimetimą ištikimieji pamedėnai liko tarp tų, kurie nesusimokė atsimesti nuo krikščionybės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -268,11 +403,13 @@ Pamedėnai buvo Pamedėje gyvenusi prūsų grupė, XIII a. minima Ordino kovų i
     užpuolė Elbingo komtūrą ir Helvigą iš Goldbacho, Kristburgo komtūrą477, bei jų padėjėjus
     ir juos išsivarė į nelaisvę.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-008
   santrauka: 'Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -289,11 +426,13 @@ Pamedėnai buvo Pamedėje gyvenusi prūsų grupė, XIII a. minima Ordino kovų i
     tos pačios priežasties ir Sventopelkas, Pomeranijos kunigaikštis, pavargęs nuo pastangų
       307 Henrikas Botelis Prūsijoje (Elbinge) žinomas nuo 1246 m., žuvo 1260 m.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-009
   santrauka: 'Pamedės Reisių valsčiuje gyvenę pamedėnai buvo puolami grobimais, gaisrais ir kraujo praliejimu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -307,11 +446,13 @@ Pamedėnai buvo Pamedėje gyvenusi prūsų grupė, XIII a. minima Ordino kovų i
 
       233  D.— castrum de Redino, Jer.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-010
   santrauka: 'Belichovo pilis prie Osos priklausė kilmingam pamedėnui Jonui, Sarginio sūnui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -325,11 +466,13 @@ Pamedėnai buvo Pamedėje gyvenusi prūsų grupė, XIII a. minima Ordino kovų i
     Elbingo su daugybe ginklanešių428 ir susirėmė su priešais ietimis; šiose kautynėse abi
     šalys patyrė didelių nuostolių sužeistaisiais.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-011
   santrauka: 'Pagudėnai prie Kristburgo užpuolė pilaitę, kurioje gyveno tikintieji pamedėnai, į ją įsiveržė ir ją sugriovė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -341,11 +484,13 @@ Pamedėnai buvo Pamedėje gyvenusi prūsų grupė, XIII a. minima Ordino kovų i
     įsibrovė  ir, pagavę bei išžudę visus žmones, išskyrus tuos, kurie suskubo pasprukti  į
     Kristburgo pilį, iš pagrindų sugriovė šią pilaitę417.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-012
   santrauka: 'Narbutas rašo, kad pamedėnai turėjo prisiekti nepriimti krikščionių tikėjimo ir ginti savo senąjį tikėjimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -356,11 +501,224 @@ Pamedėnai buvo Pamedėje gyvenusi prūsų grupė, XIII a. minima Ordino kovų i
     nelaikys savo tarpe jokio krikščionio ir geriau leisis iškapoja-
     mi, bet gins savo senąjį tikėjimą. Štai kaip dailiai žmonių gud­
     rybė moka daryti stebuklus lengvatikių akyse.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
+## Citatos
+
+- id: c-75698
+  citata_originali: |
+    Ilgainiui pilyje vėl kilo toks baisus badas,
+    kad broliai, pristigę maisto, ėmė įkalbinėti ir įtikinėti jiems ištikimus pamedėnus, prie
+    jų prisidėjusius, pasitraukti iš čia  į kitas vietas, žadėdami palikti jiems visas teises bei
+    laisves, kad galėtų ten prasimaitinti ir čia badu nenumirtų. Todėl jie visi ir pasitraukė,
+    o pasiliko tik vienas kitas. Kokia nuostabi, kokia dosni dievo malonė, mielaširdingai
+    suteikta broliams bei kitiems krikščionims ne tik šioje pilyje, bet ir visoje Prūsijos žemėje
+    ir leidusi jiems vargti šį beveik nepakeliamą vargą, be galo priešingą žmogaus gyvenimo
+    reikmėms, taip kantriai  ir nuolankiai, kad jie ne tik neliūdėjo, bet visada džiūgavo,
+    tikėdamiesi galop pelnysią rojaus linksmybes.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78417
+
+- id: c-75699
+  citata_originali: |
+    Lubavos191 [žemė], kuri prieš Teutonų ordino brolių atkilimą, galima sakyti, buvo
+    visiškai nusiaubta. Antra — Pamedė192, kurioje [gyveno] pamedėnai. Trečia — Pagudė193,
+    kurioje [gyveno] pagudėnai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78414
+
+- id: c-75700
+  citata_originali: |
+    Ordino pajėgos
+    1260 m. Klaipėdoje prieš Lietuvą buvo
+    sutelktos Livonijos ir Prūsijos kryžiuočių
+    ordinų pajėgos, broliai riteriai ir
+    i 4 jiems pavaldžių užgrobtų žemių
+    “prievarta buriami kariai (prūsai -
+    pamedėnai, notangai, varmiai, sem-
+    bai, o taip pat kuršiai, estai ir kt.), iš
+    Vokietijos žemių 30 naujai įstojusių Ordino
+    brolių būrys, Revelio (Talino) danų kariuo-
+    menė, vadovaujama švedų kunigaikščio
+    Karolio, turėjusio dar savo būrį. Į šią kry-
+    žiaus karo akciją buvo įtraukti ir prieš tuo
+    metu Rytų Europą užplūdusius totorius
+    gausiai suverbuoti kryžininkai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78423
+    - t-78422
+
+- id: c-75701
+  citata_originali: |
+    Apie šią skaudžią nelaimę, dievo lemtą broliams bei jų žmonėms, išgirdo Vokietijos
+    kunigaikščiai, kurie pajuto jiems begalinį palankumą. Įvyko šitaip todėl, kad pats Kristus,
+    kuris ir plaka, ir gydo, savo dvasios malonėmis sujaudino kai kuriems kunigaikščiams
+    širdis, tad  į Prūsijos žemę įsiveržė Brandenburgo markgrafas 1251 viešpaties metais
+    ir Merzeburgo vyskupas310 bei grafas Henrikas iš Svarcburgo kitais metais su daugybe
+    karių, o šių paskiri būriai niokodami žygiavo per minėtųjų atsimetėlių žemes, degindami ir
+    grobstydami, žudydami ir imdami į nelaisvę, kol šie taip buvo nukamuoti, kad nebegalėjo
+    nė atsikvėpti. Nuo tol pamedėnai, pagudėnai, varmiai, notangai ir bartai311, šitaip viską
+    patvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir
+    teisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78424
+
+- id: c-75702
+  citata_originali: |
+    Šitai sužinoję, prūsai
+    įtūžo, pagavo Samilį, pripylė jam į gerklę verdančio vandens ir, nuogą padėję ant ugnies,
+    tol kepino, kol jis, kad ir pusgyvis, dar galėjo kvėpuoti; paskui jį tokį nusiuntė broliams,
+    ten jis, ilgesnį laiką pasirgęs, galop pagijo. Ilgainiui pilyje vėl kilo toks baisus badas,
+    kad broliai, pristigę maisto, ėmė įkalbinėti ir įtikinėti jiems ištikimus pamedėnus, prie
+    jų prisidėjusius, pasitraukti iš čia  į kitas vietas, žadėdami palikti jiems visas teises bei
+    laisves, kad galėtų ten prasimaitinti ir čia badu nenumirtų. Todėl jie visi ir pasitraukė,
+    o pasiliko tik vienas kitas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78417
+
+- id: c-75704
+  citata_originali: |
+    Kai  broliai, padėję daug darbo  ir pasidarę daug  išlaidų, atstatė Marienverderio
+    miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė
+    prie Belichovo pilies427, pastatytos Osos pakrantėje ir priklausiusios vienam kilmingam
+    pamedėnui, vardu Jonas, Sarginio sūnui. Iš šios pilies išėjo brolis Konradas Švabas iš
+    Elbingo su daugybe ginklanešių428 ir susirėmė su priešais ietimis; šiose kautynėse abi
+    šalys patyrė didelių nuostolių sužeistaisiais. Po to priešai priartėjo prie Marienverderio
+    miesto ir po ilgų bei sunkių grumtynių vėl jį iš pagrindų sugriovė; vieni miestiečiai išvengė
+    žūties, pabėgdami  į pilį, kiti — gindamiesi viename miesto kuore, tuo tarpu likusieji
+    buvo arba paimti į nelaisvę, arba užmušti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78415
+
+- id: c-75705
+  citata_originali: |
+    Mat velnias, žmonių giminės
+    nedraugas ir tikėjimo priešas, apsigyvenęs jų širdyje, iš neapykantos taikai pakurstė
+    juos dar kartą sukelti maištą ir niekšingai pradėti karą. Jo patarti ir paskatinti, visi,
+    išskyrus ištikimuosius pamedėnus, susimokė dar kartą atsimesti nuo krikščionybės.
+    Tačiau niekas nedrįso viešai broliams priešintis, išskyrus pagudėnus476, kurie ginkluoti
+    užpuolė Elbingo komtūrą ir Helvigą iš Goldbacho, Kristburgo komtūrą477, bei jų padėjėjus
+    ir juos išsivarė į nelaisvę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78421
+
+- id: c-75706
+  citata_originali: |
+    Įvyko šitaip todėl, kad pats Kristus,
+    kuris ir plaka, ir gydo, savo dvasios malonėmis sujaudino kai kuriems kunigaikščiams
+    širdis, tad  į Prūsijos žemę įsiveržė Brandenburgo markgrafas 1251 viešpaties metais
+    ir Merzeburgo vyskupas310 bei grafas Henrikas iš Svarcburgo kitais metais su daugybe
+    karių, o šių paskiri būriai niokodami žygiavo per minėtųjų atsimetėlių žemes, degindami ir
+    grobstydami, žudydami ir imdami į nelaisvę, kol šie taip buvo nukamuoti, kad nebegalėjo
+    nė atsikvėpti. Nuo tol pamedėnai, pagudėnai, varmiai, notangai ir bartai311, šitaip viską
+    patvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir
+    teisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė. Tuo pat metu ir dėl
+    tos pačios priežasties ir Sventopelkas, Pomeranijos kunigaikštis, pavargęs nuo pastangų
+      307 Henrikas Botelis Prūsijoje (Elbinge) žinomas nuo 1246 m., žuvo 1260 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78424
+
+- id: c-75709
+  citata_originali: |
+    14. Apie daugelio pilių sunaikinimą ir pamedėnų pavergimą
+
+      Pamedės žemėje buvo valsčius, vardu Reisiai, kuriame gyveno daug garsių vyrų
+    ir drąsių karių; minėtasis valdovas, ryžtingai imdamasis darbo, drąsiai juos užpuolė,
+    kamuodamas grobstymais bei gaisrais ir nuleisdamas netikėliams daug kraujo. Smarkiai
+    užpuolė jų pilį, pastatytą prie Mukeros upės235, bei visas pilaites [omnia propugnacula],
+
+      233  D.— castrum de Redino, Jer.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78419
+
+- id: c-75711
+  citata_originali: |
+    148 (143). Apie antrąjį minėtojo Marienverderio miesto sugriovimą
+
+      Kai  broliai, padėję daug darbo  ir pasidarę daug  išlaidų, atstatė Marienverderio
+    miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė
+    prie Belichovo pilies427, pastatytos Osos pakrantėje ir priklausiusios vienam kilmingam
+    pamedėnui, vardu Jonas, Sarginio sūnui. Iš šios pilies išėjo brolis Konradas Švabas iš
+    Elbingo su daugybe ginklanešių428 ir susirėmė su priešais ietimis; šiose kautynėse abi
+    šalys patyrė didelių nuostolių sužeistaisiais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78420
+
+- id: c-75712
+  citata_originali: |
+    142 (137). Apie vienos pilaitės užkariavimą
+
+      Susibūrę pagudėnai vėl įsigeidė pradėti karą; patraukę prie Kristburgo, jie smarkiai
+    užpuolė vieną pilaitę, esančią netoliese, kurioje gyveno tikintieji pamedėnai, galop į ją
+    įsibrovė  ir, pagavę bei išžudę visus žmones, išskyrus tuos, kurie suskubo pasprukti  į
+    Kristburgo pilį, iš pagrindų sugriovė šią pilaitę417.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78415
+
+- id: c-171183
+  citata_originali: |
+    Tad vėl atsiduota tų dievų valios aiškintojų valdžiai. Šie užkei­
+    kė aitvarus, kad išnyktų, o pamedėnai turėjo iškilmingiausiai
+    prisiekti, kad nuo šiol nepriims krikščionių tikėjimo, niekada
+    nelaikys savo tarpe jokio krikščionio ir geriau leisis iškapoja-
+    mi, bet gins savo senąjį tikėjimą. Štai kaip dailiai žmonių gud­
+    rybė moka daryti stebuklus lengvatikių akyse.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188290
 
 ## Ryšiai
 - Puolė Pamedėnai: [[objektai/grupes/Pagudėnai]]

@@ -12,10 +12,22 @@ date_start: '1944'
 date_end: '1977'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XX'
 tags:
   - vieta
+amziai:
+  - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kanada
 
@@ -24,28 +36,67 @@ tags:
 Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvių tremtiniams ir pabėgėliams (tokių buvo apie 30 tūkst.), kiti pasuko į Didžiąją Britaniją, Kanadą, Australiją. Ji siekė išlaikyti Lietuvos valstybės tarptautinį pripažinimą tose šalyse, kurios nepripažino Lietuvos prievartinio įjungimo į SSRS sudėtį: JAV, Kanadoje, Brazilijoje (iki 1967 m.), Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje.
 
 ## Teiginiai
+
 <a id="claim-t-68041"></a>
-- t-001
+- t-002
   global_id: t-68041
-  teiginys: 'Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos tarptautinį pripažinimą Kanadoje ir kitose SSRS aneksijos nepripažinusiose šalyse.'
+  teiginys: "Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos tarptautinį pripažinimą Kanadoje ir kitose SSRS aneksijos nepripažinusiose šalyse."
+  temporaliniai_duomenys: "įvykio data: iki 1967 m.; įvykio data: iki 1977 m.; įvykio data: 1944 m.; įvykio data: 1967 m.; įvykio data: 1977 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradiniame teiginyje neaiškus įvardis, todėl reikia įvardyti veikėją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "461827-462369; hash=9a91af1e31115a228bcef4cadf1ab1c096ed7ab2c4d5bd03e6226b2b18ecc41f; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kanada: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kanada\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-67726
 
 <a id="claim-t-183598"></a>
-- t-002
+- t-003
   global_id: t-183598
-  teiginys: 'Dalis lietuvių tremtinių ir pabėgėlių, neatvykusių į JAV, pasuko į Kanadą, Didžiąją Britaniją ir Australiją.'
+  teiginys: "Dalis lietuvių tremtinių ir pabėgėlių, neatvykusių į JAV, pasuko į Kanadą, Didžiąją Britaniją ir Australiją."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "639426-639833; hash=7c9e5874c3290ee95bb24a7d2b342baf0ad2a9c406c75b34c6cc1ae35ed92a16; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Australija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kanada: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Australija: mention_match, place, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kanada\" parinktas kaip owner_note_path. Targetas \"Australija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-166990
 
 <a id="claim-t-188704"></a>
 - t-003
   global_id: t-188704
-  teiginys: 'Narbutas Kanadoje gyvenančių huronų laidotuvių apeigas lygino su aptariamu laidojimo papročių kontekstu.'
+  teiginys: "Narbutas Kanadoje gyvenančių huronų laidotuvių apeigas lygino su aptariamu laidojimo papročių kontekstu."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Huronai gyveno Kanada (0.91)"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "639426-639833; hash=7c9e5874c3290ee95bb24a7d2b342baf0ad2a9c406c75b34c6cc1ae35ed92a16; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Kanada: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Huronai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kanada: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Kanadoje gyvenančius huronus."
   pagrindžia:
-    - c-003
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171593
 - susijęs iš [[objektai/grupes/Huronai.md#claim-t-189489|Huronai]]: Narbutas huronų, Šiaurės Amerikoje ir Kanadoje gyvenančios tautos, laidotuvių apeigas laikė labai panašiomis į aptariamas apeigas.
 - susijęs iš Australija: Dalis lietuvių tremtinių ir pabėgėlių, neatvykusių į JAV, pasuko į Didžiąją Britaniją, Kanadą ir Australiją.
 - susijęs iš [[objektai/grupes/Huronai.md#claim-t-189489|Huronai]]: Narbutas huronų, Šiaurės Amerikoje ir Kanadoje gyvenančios tautos, laidotuvių apeigas laikė labai panašiomis į aptariamas apeigas.
@@ -54,6 +105,7 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
 - susijęs iš Australija: Dalis lietuvių tremtinių ir pabėgėlių, neatvykusių į JAV, pasuko į Didžiąją Britaniją, Kanadą ir Australiją.
 - susijęs iš Meksika: Meksika pateikiama kaip ispaniškosios kultūros laidos pavyzdys.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos tarptautinį pripažinimą Kanadoje ir kitose SSRS aneksijos nepripažinusiose šalyse.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -67,11 +119,13 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
     Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje,
     Šveicarijoje, Vatikane.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Dalis lietuvių tremtinių ir pabėgėlių, neatvykusių į JAV, pasuko į Kanadą, Didžiąją Britaniją ir Australiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -81,11 +135,13 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
     visiems norintiems lietuvių tremtiniams ir pabėgėliams (tokių buvo apie
     30 tūkst.), kiti pasuko į Didžiąją Britaniją, Kanadą, Australiją.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Narbutas Kanadoje gyvenančių huronų laidotuvių apeigas lygino su aptariamu laidojimo papročių kontekstu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -101,11 +157,66 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
     sius, sako jiems kalbas, užgeria, dovanoja jiems dovanų, kad
     būtų malonūs jų bičiuliams, kuriuos pamatys aname pasauly­
     je; verkia, priekaištauja, kam juos paliko.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-67726
+  citata_originali: |
+    1944 m. sausį A. Smetona žuvo Klivlande per gaisrą. Tad
+    lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rūpinosi
+    Lietuvos diplomatinė tarnyba (LDT), Lietuvos valstybingumo simbolis, gy-
+    vavusi per visą sovietų okupacijos laikotarpį. Ji siekė išlaikyti Lietuvos vals-
+    tybės tarptautinį pripažinimą tose šalyse, kurios nepripažino Lietuvos prie-
+    vartinio įjungimo į SSRS sudėtį: JAV, Kanadoje, Brazilijoje (iki 1967 m.),
+    Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje,
+    Šveicarijoje, Vatikane.
+  citata_rodoma: "Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje,"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-68041
+
+- id: c-166990
+  citata_originali: |
+    Baltijos valstybių ir Lenkijos pa-
+    bėgėlių bei tremtinių). Per trejus–ketverius metus į JAV pasisekė atvykti
+    visiems norintiems lietuvių tremtiniams ir pabėgėliams (tokių buvo apie
+    30 tūkst.), kiti pasuko į Didžiąją Britaniją, Kanadą, Australiją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183598
+
+- id: c-171593
+  citata_originali: |
+    Mes gi apie tai nieko negalime pasakyti*.
+    362
+
+    ## Puslapis 362
+
+    Huronų -  Šiaurės Amerikoje, Kanadoje, gyvenančios tau­
+    tos -  yra labai panašios laidotuvių apeigos. Kam nors mirus,
+    šeima ir kaimynai susirenka atsisveikinti: aprengia mirusiuo­
+    sius, sako jiems kalbas, užgeria, dovanoja jiems dovanų, kad
+    būtų malonūs jų bičiuliams, kuriuos pamatys aname pasauly­
+    je; verkia, priekaištauja, kam juos paliko.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188704
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]

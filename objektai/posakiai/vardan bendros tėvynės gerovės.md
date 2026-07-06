@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # vardan bendros tėvynės gerovės
 
@@ -17,10 +29,22 @@ Vardan bendros tėvynės gerovės lietuviai prašė paskirti Simoną Olelkaitį 
 <a id="claim-t-185484"></a>
 - t-001
   global_id: t-185484
-  teiginys: 'Vardan bendros tėvynės gerovės lietuviai prašė paskirti Simoną Olelkaitį Lietuvos vietininku.'
+  teiginys: "Vardan bendros tėvynės gerovės lietuviai prašė paskirti Simoną Olelkaitį Lietuvos vietininku."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "898541-899173; hash=1f3545aeedcfabd52f19c3e5ccac165d7b987e368188528e6e960dfdf6e6a2ae; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "vardan bendros tėvynės gerovės: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"vardan bendros tėvynės gerovės\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-168845
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,8 +68,36 @@ Vardan bendros tėvynės gerovės lietuviai prašė paskirti Simoną Olelkaitį 
     Slucko kunigaikštį, savo pusbrolio sūnų, garsų žygiais
     Algirdo proanūkį.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-168845
+  citata_originali: |
+    Esą visuomenė
+    galinti būti rami tik tada, kai karalius asmeniškai val­
+    dysiąs Lietuvą; svetur išvykusio karaliaus žodis ne­
+    greitai juos pasiekiąs ir paprastai negalįs būti veiks­
+    mingas. Kas be ko, jie visi neišpasakytai trokštą, kad
+    karalius asmeniškai juos valdytų, tačiau jie to nesitiki,
+    511
+
+    ## Puslapis 510
+
+    n es p u ik iai žino, jo g  len k ai nieku b ū d u  n esu tik sią, kad
+    karalius ilgam  atitrūktų nuo jų valstybės reikalų. Štai
+    to d ėl vardan b en d ro s tėvynės gerovės jie karštai mal­
+    d a u ją  paskirti Lietuvai vietininku Simoną Olelkaitį,
+    Slucko kunigaikštį, savo pusbrolio sūnų, garsų žygiais
+    Algirdo proanūkį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185484

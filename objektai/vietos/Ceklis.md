@@ -16,6 +16,18 @@ tags:
   - vieta
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Ceklis
 
@@ -28,30 +40,79 @@ Gi Mindaugo karūnavimosi metais per Ceklio dalybas daug žemių, esančių Žem
 <a id="claim-t-32099"></a>
 - t-001
   global_id: t-32099
-  teiginys: 'Mindaugo karūnavimo metais per Ceklio dalybas daug Žemaitijos žemių atiteko Livonijos ordinui.'
+  teiginys: "Mindaugo karūnavimo metais per Ceklio dalybas daug Žemaitijos žemių atiteko Livonijos ordinui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "504867-505430; hash=722c324f7ee0336bd82a014ab342220b0e7fd280105ba888ac779640b03b5ca8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ceklis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=55"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ceklis\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-31985
 
 <a id="claim-t-32100"></a>
 - t-002
   global_id: t-32100
-  teiginys: 'Ceklio srityje buvo paminėti 44 vietovardžiai, o ordinas savo valdžion paėmė plotą nuo Ventos aukštupio iki Veiviržo upės.'
+  teiginys: "Ceklio srityje buvo paminėti 44 vietovardžiai, o ordinas savo valdžion paėmė plotą nuo Ventos aukštupio iki Veiviržo upės."
+  temporaliniai_duomenys: "įvykio data: 1254 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta į sklandesnį sakinį, išlaikant citatos faktus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "505164-505551; hash=0da9d9a7d404330fe9dff98bc8c9926b745dd4b5f439eb8e26968aa8988387e6; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Venta: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ceklis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Venta: mention_match, place, gap=87"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ceklis\" parinktas kaip owner_note_path. Targetas \"Venta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-33813
 
 <a id="claim-t-184383"></a>
 - t-003
   global_id: t-184383
-  teiginys: 'Mindaugo karūnavimo metais per Ceklio dalybas Livonijos ordinui atiteko daug Žemaitijos ploto žemių.'
+  teiginys: "Mindaugo karūnavimo metais per Ceklio dalybas Livonijos ordinui atiteko daug Žemaitijos ploto žemių."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "504783-505163; hash=366e823309cf50e3db950ed60e6a1c92c299b65fa17c3d609a671e3a527c7e56; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ceklis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=25"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ceklis\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-167752
 
 <a id="claim-t-184384"></a>
 - t-004
   global_id: t-184384
-  teiginys: 'Ceklio srityje ordinas paėmė plotą nuo Ventos aukštupio per Minijos ir Jūros takoskyrą iki Veiviržo upės.'
+  teiginys: "Ceklio srityje ordinas paėmė plotą nuo Ventos aukštupio per Minijos ir Jūros takoskyrą iki Veiviržo upės."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "504867-505430; hash=722c324f7ee0336bd82a014ab342220b0e7fd280105ba888ac779640b03b5ca8; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Minija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ceklis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Minija: mention_match, place, gap=60"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ceklis\" parinktas kaip owner_note_path. Targetas \"Minija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-31985
 - susijęs iš Ceklio sritis: Kuršiams priskiriama Ceklio sritis istorinių laikų pradžioje siekė dešinįjį Ventos krantą.
 - susijęs iš Kuršas: Istorinių laikų angoje kuršiai dar buvo užėmę platų Žemaičių šiaurės vakarų kampą ir Klaipėdos apylinkę.
 ## Reikšmingi paminėjimai
@@ -69,12 +130,14 @@ Gi Mindaugo karūnavimosi metais per Ceklio dalybas daug žemių, esančių Žem
     Veiviržo upės, gaudamas du trečdaliu Kretingos, Telšių, Mažeikių
     ir vakarinėje dalyje Šiaulių apskrities.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-004
+    - t-005
 
 - c-002
   santrauka: 'Ceklio srityje buvo paminėti 44 vietovardžiai, o ordinas savo valdžion paėmė plotą nuo Ventos aukštupio iki Veiviržo upės.'
@@ -88,6 +151,7 @@ Gi Mindaugo karūnavimosi metais per Ceklio dalybas daug žemių, esančių Žem
     kariautos^138. Ordinas buvo dar gavęs žemių iš Žiemgalos vysku­
     pijos dalybų (1254 m.)^139.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -106,11 +170,67 @@ Gi Mindaugo karūnavimosi metais per Ceklio dalybas daug žemių, esančių Žem
     kurios sudarė Klaipėdos krašto plotą (nuo Minijos įtakos aukštyn
     Palangos pajūriu net iki Bartuvos).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-31985
+  citata_originali: |
+    Gi Mindaugo karūnavimosi metais per Ceklio dalybas daug žemių,
+    esančių Žemaičių plote, atiteko Livonijos ordinui. Dalybų dokumen­
+    tuose yra paminėtos vakarinės sritys — Duvzarė, Mėguva, Pilsotas,
+    kurios sudarė Klaipėdos krašto plotą (nuo Minijos įtakos aukštyn
+    Palangos pajūriu net iki Bartuvos). Dar platesnėje Ceklio srityje,
+    kurioje paminėti 44 vietovardžiai, ordinas savo valdžion paėmė
+    plotą nuo Ventos aukštupio per Minijos ir Jūros upių takoskyrą iki
+    Veiviržo upės, gaudamas du trečdaliu Kretingos, Telšių, Mažeikių
+    ir vakarinėje dalyje Šiaulių apskrities.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-32099
+    - t-184384
+    - t-005
+
+- id: c-33813
+  citata_originali: |
+    Dar platesnėje Ceklio srityje,
+    kurioje paminėti 44 vietovardžiai, ordinas savo valdžion paėmė
+    plotą nuo Ventos aukštupio per Minijos ir Jūros upių takoskyrą iki
+    Veiviržo upės, gaudamas du trečdaliu Kretingos, Telšių, Mažeikių
+    ir vakarinėje dalyje Šiaulių apskrities. Tos sritys figūravo kaip nu­
+    kariautos^138. Ordinas buvo dar gavęs žemių iš Žiemgalos vysku­
+    pijos dalybų (1254 m.)^139.
+  citata_rodoma: "Dar platesnėje Ceklio srityje,\nkurioje paminėti 44 vietovardžiai, ordinas savo valdžion paėmė\nplotą nuo Ventos aukštupio per Minijos ir Jūros upių takoskyrą iki\nVeiviržo upės, gaudamas du trečdaliu Kretingos, Telšių, Mažeikių\nir vakarinėje dalyje Šiaulių apskrities. Tos sritys figūravo kaip nu­\nkariautos^138. Ordinas buvo dar gavęs žemių iš Žiemgalos vysku­\npijos dalybų (1254 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-32100
+
+- id: c-167752
+  citata_originali: |
+    Dar legatas Vil­
+    helmas Modenietis buvo nustatęs, jog Kuršas esąs Prūsų žemės tąsa.
+    Gi Mindaugo karūnavimosi metais per Ceklio dalybas daug žemių,
+    esančių Žemaičių plote, atiteko Livonijos ordinui. Dalybų dokumen­
+    tuose yra paminėtos vakarinės sritys — Duvzarė, Mėguva, Pilsotas,
+    kurios sudarė Klaipėdos krašto plotą (nuo Minijos įtakos aukštyn
+    Palangos pajūriu net iki Bartuvos).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184383
 
 ## Ryšiai
 - Ceklis priklausė [[objektai/grupes/Kuršiai]]

@@ -18,6 +18,18 @@ tags:
   - posakis
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # „jogailaičių Europa“ „krikščionybės forpostas“
 
@@ -30,31 +42,95 @@ Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinast
 <a id="claim-t-101620"></a>
 - t-001
   global_id: t-101620
-  teiginys: 'XV a. pabaigoje–XVI a. pradžioje Jogailaičių dinastija valdė Lenkiją, Lietuvą, Čekiją ir Vengriją, todėl rytinė Vidurio Europa vadinta „jogailaičių Europa“.'
+  teiginys: "XV a. pabaigoje–XVI a. pradžioje Jogailaičių dinastija valdė Lenkiją, Lietuvą, Čekiją ir Vengriją, todėl rytinė Vidurio Europa vadinta „jogailaičių Europa“."
+  semantiniai_rysiai: "Jogailaičių dinastija valdė Lenkija (0.94); Jogailaičių dinastija valdė Lietuva (0.94); Jogailaičių dinastija valdė Čekija (0.94); Jogailaičių dinastija valdė Vengrija (0.94)"
+  temporaliniai_duomenys: "įvykio data: iki 1572 m.; įvykio data: 1572 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "97712-98163; hash=aedd018e69dd3bb9093b687da2a546eb67b2609db4937b4bf67a605b4935d95a; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Lenkija: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jogailaičių dinastija: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claimas tiesiogiai nurodo, kad Jogailaičių dinastija valdė Lenkiją."
   pagrindžia:
-    - c-001
+    - c-23626
 
 <a id="claim-t-101621"></a>
 - t-002
   global_id: t-101621
-  teiginys: 'Krikščionybės forposto idėja buvo nukreipta prieš stačiatikišką Maskvą ir siejosi su krikščioniškojo mentaliteto įsigalėjimu visuomenės elite.'
+  teiginys: "Krikščionybės forposto idėja buvo nukreipta prieš stačiatikišką Maskvą ir siejosi su krikščioniškojo mentaliteto įsigalėjimu visuomenės elite."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "98671-99315; hash=3c71ae980f41dc07a539b8e44489d610326fb6e0d3ff0b9f75fccf01fb7cf714; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "„jogailaičių Europa“ „krikščionybės forpostas“: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=64"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„jogailaičių Europa“ „krikščionybės forpostas“\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-23627
 
 <a id="claim-t-101622"></a>
 - t-003
   global_id: t-101622
-  teiginys: 'LDK visuomenei europėjant susiformavo leno teisė, feodai, baudžiava, bajorų luomas, luominė monarchija, cechai ir europinė švietimo sistema.'
+  teiginys: "LDK visuomenei europėjant susiformavo leno teisė, feodai, baudžiava, bajorų luomas, luominė monarchija, cechai ir europinė švietimo sistema."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "98671-99315; hash=3c71ae980f41dc07a539b8e44489d610326fb6e0d3ff0b9f75fccf01fb7cf714; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "„jogailaičių Europa“ „krikščionybės forpostas“: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=54"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„jogailaičių Europa“ „krikščionybės forpostas“\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-002
+    - c-23627
 
 <a id="claim-t-183493"></a>
 - t-004
   global_id: t-183493
-  teiginys: 'Jogailaičių dinastija Lenkijos ir Lietuvos sostuose valdė iki 1572 m., o XV a. pabaigoje–XVI a. pradžioje užėmė ir Čekijos bei Vengrijos sostus.'
+  teiginys: "Jogailaičių dinastija Lenkijos ir Lietuvos sostuose valdė iki 1572 m., o XV a. pabaigoje–XVI a. pradžioje užėmė ir Čekijos bei Vengrijos sostus."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Jogailaičių dinastija valdė Lenkija (0.93); Jogailaičių dinastija valdė Lietuva (0.93); Jogailaičių dinastija valdė Čekija (0.93); Jogailaičių dinastija valdė Vengrija (0.93)"
+  temporaliniai_duomenys: "valdymo laikotarpis: iki 1572 m.; valdymo laikotarpis: 1514 m.; valdymo laikotarpis: 1526 m.; valdymo laikotarpis: 1572 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip valdymo laikotarpis su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, bet citata palaiko pilną sakinį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "97840-98464; hash=b550490dc30af50eeb415b841aa6556de16753eb3d5c96b24fe6d72871111d24; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Lenkija: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jogailaičių dinastija: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Lenkijos sostas tiesiogiai siejamas su Jogailaičių dinastijos valdymu."
   pagrindžia:
-    - c-003
+    - c-166887
 
+<a id="claim-t-193615"></a>
+- t-005
+  global_id: t-193615
+  teiginys: "Nuosavybės santykiuose susiformuoja leno teisė, socialinėje ūkinėje struktūroje – riterio dvaras (feodas) ir baudžiava, politinėje ir socialinėje struktūroje – bajorų luomas ir luominė monarchija, miestų ūkyje – cechai, edukacijoje – europinė švietimo sistema."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "98671-99315; hash=3c71ae980f41dc07a539b8e44489d610326fb6e0d3ff0b9f75fccf01fb7cf714; match=exact"
+  sprendimo_priezastis: "auto"
+  pagrindžia:
+    - c-23627
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -68,8 +144,9 @@ Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinast
     šios epochos rytinė Vidurio Europa buvo tapusi „jogailaičių Europa“, o
     jogailaičių dinastija – pagrindine Habsburgų dinastijos konkurente.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -87,12 +164,14 @@ Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinast
     tis – krikščionybės forposto – idėja nukreipta prieš stačiatikišką Maskvą),
     susiformuoja bajorų tauta, turinti istorinę savimonę ir kilmės kroniką.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-003
+    - t-005
 
 - c-003
   santrauka: 'Jogailaičių dinastija Lenkijos ir Lietuvos sostuose valdė iki 1572 m., o XV a. pabaigoje–XVI a. pradžioje užėmė ir Čekijos bei Vengrijos sostus.'
@@ -109,8 +188,68 @@ Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinast
     patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemė-
     lapio.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
+## Citatos
+
+- id: c-23626
+  citata_originali: |
+    Su nedidelėmis
+    išimtimis Lietuva, valdyta tų pačių valdovų (personalinė unija) kaip ir
+    Lenkija, nors valstybės buvo atskiros. Lenkijos ir Lietuvos sostuose sė-
+    dėjo lietuviškos kilmės Jogailaičių dinastija (iki 1572 m.), XV a. pabaigo-
+    je–XVI a. pradžioje užėmusi taip pat Čekijos ir Vengrijos sostus. Taigi,
+    šios epochos rytinė Vidurio Europa buvo tapusi „jogailaičių Europa“, o
+    jogailaičių dinastija – pagrindine Habsburgų dinastijos konkurente.
+  citata_rodoma: "je–XVI a. pradžioje užėmusi taip pat Čekijos ir Vengrijos sostus. Taigi,"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-101620
+
+- id: c-23627
+  citata_originali: |
+    LDK visuomenė tampa europinė ir įsilieja į Va-
+    karų civilizaciją. Nuosavybės santykiuose susiformuoja leno teisė, socia-
+    linėje ūkinėje struktūroje – riterio dvaras (feodas) ir baudžiava, politinėje
+    ir socialinėje struktūroje – bajorų luomas ir luominė monarchija, miestų
+    ūkyje – cechai, edukacijoje – europinė švietimo sistema (katedrinės mo-
+    kyklos ir jų triviumas, kolegijos ir universitetas). Krikščioniškasis men-
+    talitetas įsigali bent jau tarp visuomenės elito (antemurale christianita-
+    tis – krikščionybės forposto – idėja nukreipta prieš stačiatikišką Maskvą),
+    susiformuoja bajorų tauta, turinti istorinę savimonę ir kilmės kroniką.
+  citata_rodoma: "tis – krikščionybės forposto – idėja nukreipta prieš stačiatikišką Maskvą),"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-101621
+    - t-101622
+    - t-193615
+
+- id: c-166887
+  citata_originali: |
+    Lenkijos ir Lietuvos sostuose sė-
+    dėjo lietuviškos kilmės Jogailaičių dinastija (iki 1572 m.), XV a. pabaigo-
+    je–XVI a. pradžioje užėmusi taip pat Čekijos ir Vengrijos sostus. Taigi,
+    šios epochos rytinė Vidurio Europa buvo tapusi „jogailaičių Europa“, o
+    jogailaičių dinastija – pagrindine Habsburgų dinastijos konkurente. Jo-
+    gailaičių Europa pradėjo vaidinti „krikščionybės forposto“ vaidmenį, tie-
+    sa, nevienodai sėkmingai. Lietuva, Lenkijos padedama, atsilaikė prieš sta-
+    čiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m.
+    patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemė-
+    lapio.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183493

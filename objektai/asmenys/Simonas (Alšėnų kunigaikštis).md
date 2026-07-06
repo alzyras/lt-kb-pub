@@ -18,6 +18,18 @@ amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Simonas (Alšėnų kunigaikštis)
 
@@ -30,17 +42,41 @@ periodo_grupes:
 <a id="claim-t-87573"></a>
 - t-001
   global_id: t-87573
-  teiginys: 'Alšėnų kunigaikštis Simonas prisidėjo prie Žygimanto žygio į Švitrigailos dvarą Ašmenoje.'
+  teiginys: "Alšėnų kunigaikštis Simonas prisidėjo prie Žygimanto žygio į Švitrigailos dvarą Ašmenoje."
+  semantiniai_rysiai: "Simonas (Alšėnų kunigaikštis) puolė Švitrigaila (0.76); Simonas (Alšėnų kunigaikštis) surengė žygį į Ašmena (0.75)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "436404-437940; hash=3aa0ec0c924649780a0a8a2fc26c76528679c9a750698704c0c43deee41afb17; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Švitrigaila: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Simonas (Alšėnų kunigaikštis): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Simonas minimas kaip Žygimanto sąjungininkas žygyje, kurio metu įsiveržta į Švitrigailos dvarą."
   pagrindžia:
-    - c-001
+    - c-83552
 
 <a id="claim-t-87574"></a>
 - t-002
   global_id: t-87574
-  teiginys: '1432 m. rugsėjo 3 d. Švitrigaila pranešė, kad Žygimantas ir Alšėnų kunigaikštis Simonas užpuolė jo dvarą Ašmenoje.'
+  teiginys: "1432 m. rugsėjo 3 d. Švitrigaila pranešė, kad Žygimantas ir Alšėnų kunigaikštis Simonas užpuolė jo dvarą Ašmenoje."
+  semantiniai_rysiai: "Simonas (Alšėnų kunigaikštis) puolė Švitrigaila (0.82); Simonas (Alšėnų kunigaikštis) puolė Ašmena (0.73)"
+  temporaliniai_duomenys: "valdymo laikotarpis: 1432 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Simonas (Alšėnų kunigaikštis) buvo valdovas Alšėnai“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata aiškiai nurodo datuotą pranešimą apie Simono dalyvavimą užpuolime."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "439369-439891; hash=96bde58f160f6a3d89e8dd2eccd55be7bde1997ed3bcb7f5d234af5e3cb62a79; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Švitrigaila: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Simonas (Alšėnų kunigaikštis): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citatoje Simonas kartu su Žygimantu įvardytas kaip Švitrigailos dvaro užpuolikas."
   pagrindžia:
-    - c-002
-
+    - c-83553
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -92,6 +128,7 @@ periodo_grupes:
     jo jau nerado, nes šis, ką tik įspėtas Trakų vaivados Manvy-
     do, lydimas kelių totorių vadų, išsigelbėjo pabėgdamas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -119,11 +156,93 @@ periodo_grupes:
     la pabėgęs į Smolenską, bet ne į Po­
     locką.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-83552
+  citata_originali: |
+    Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu­
+    rėdamas prie savęs tiktai nedidelę sargybą, o tuo metu Žy­
+    gimantas, susijungęs su Alšėnų kunigaikščiu Simonu, Nau­
+    garduko vaivada Petrašu Montgirdaičiu, Vilniaus vaivada
+    Goštautu ir daugeliu kitų bajorų, galingos kariuomenės
+    13
+    Tą patvirtina Slaptajame Karaliau­
+    čiaus archyve esantis Švitrigailos
+    laiškas, rašytas iš Vilniaus didžiajam
+    magistrui 1432 metų sausio 5 dieną.
+    Jame rašo, kad, gavęs laišką nuo ka­
+    raliaus, pastarasis išlaisvinęs Ram-
+    poldą ir Gastoldą ir jam atidavęs, ti­
+    kisi netrukus galėsiąs tą patį
+    didžiajam magistrui pranešti apie
+    landmaršalką bei kitus belaisvius,
+    kadangi jo pasiuntinys juos matęs
+    laisvus ir pietus su karaliumi val­
+    gančius pirmąją dieną. Žr. Kotze­
+    bue Switrig., p. 6 9 .
+    14
+    Dabartinė Ašmena, Vilniaus guber­
+    nijos apskrities miestas, nutolęs nuo
+    Vilniaus per 7 mylias, anais laikais
+    tebuvo kaimas, kitados išaugęs ša­
+    lia kunigaikščio dvaro, dabar Staros-
+    cino.-O pats miestas buvęs ten, kur
+    dabar stovi pranciškonų vienuoly­
+    nas bei mažas kaimelis, priklausan­
+    tis vienuolynui, čia pat, už dabarti­
+    nio miesto, vadinamas Senąja
+    Ašmena. Švitrigailos dvaras stovėjo
+    kaip tik toje vietoje, kur ir dabarti­
+    nis dvaras.
+    —  • —
+    215
+
+    ## Puslapis 232
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    priekyje skubiai ir slapčiomis nužygiavęs į Ašmeną, apie
+    rugpjūčio 28-ą įžūliai įsiveržė į Švitrigailos dvarą15, bet ten
+    jo jau nerado, nes šis, ką tik įspėtas Trakų vaivados Manvy-
+    do, lydimas kelių totorių vadų, išsigelbėjo pabėgdamas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87573
+
+- id: c-83553
+  citata_originali: |
+    Jur­
+    gio paveikslo ir 1.1. Antrasis laiškas
+    yra paties Švitrigailos rašytas didžia­
+    jam magistrui iš Polocko, likus 5 die­
+    noms iki Mergelės Marijos gimimo,
+    tai yra, 1432 metų rugsėjo 3 dieną,
+    kuriame jam praneša, kad kuni­
+    gaikštis Žygimantas ir Alšėnų kuni­
+    gaikštis Simonas užpuolę jo dvarą
+    Ašmenoje ir kad jis sėkmingai su to­
+    torių generolais pasiekęs Polocką ir
+    dėl to prašo skubiai padėti. Taigi
+    klysta Kojelavičius ir Strij-
+    k o v s k i s sakydami, kad Švitrigai­
+    la pabėgęs į Smolenską, bet ne į Po­
+    locką.
+  citata_rodoma: "1. Antrasis laiškas \nyra paties Švitrigailos rašytas didžia­\njam magistrui iš Polocko, likus 5 die­\nnoms iki Mergelės Marijos gimimo, \ntai yra, 1432 metų rugsėjo 3 dieną, \nkuriame jam praneša, kad kuni­\ngaikštis Žygimantas ir Alšėnų kuni­\ngaikštis Simonas užpuolę jo dvarą \nAšmenoje ir kad jis sėkmingai su to­\ntorių generolais pasiekęs Polocką ir \ndėl to prašo skubiai padėti. Taigi \nklysta Kojelavičius ir Strij- \nk o v s k i s sakydami, kad Švitrigai­\nla pabėgęs į Smolenską, bet ne į Po­\nlocką."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87574
 
 ## Ryšiai
 - Simonas (Alšėnų kunigaikštis) puolė [[objektai/vietos/Ašmena]], [[objektai/asmenys/Švitrigaila]]

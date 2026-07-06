@@ -10,6 +10,18 @@ tags:
   - kunigaikštis
   - miestas
   - sąvoka
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # vaitas
 
@@ -20,18 +32,38 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
 ## Teiginiai
 
 <a id="claim-t-86556"></a>
-- t-001
+- t-002
   global_id: t-86556
-  teiginys: 'Vaitas, tarybos nariai ir Vilniaus miestiečiai skundė Bogdaną Kievlą, kad jis perkėloje ties Vilniumi ėmė po grašį nuo krovinio.'
+  teiginys: "Vaitas, tarybos nariai ir Vilniaus miestiečiai skundė Bogdaną Kievlą, kad jis perkėloje ties Vilniumi ėmė po grašį nuo krovinio."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "465104-465875; hash=d13046214a01b3f2d8c7917da03e9e44e1bd06224baf1fbc72cc491ffde0e2fd; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilniaus miestiečių luomas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "vaitas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vilniaus miestiečių luomas: mention_match, group, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"vaitas\" parinktas kaip owner_note_path. Targetas \"Vilniaus miestiečių luomas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-82536
 
 <a id="claim-t-86557"></a>
-- t-002
+- t-001
   global_id: t-86557
-  teiginys: 'Vilniaus vaitui suteikta teisė spręsti ir bausti už miestiečių padarytus kriminalinius nusikaltimus.'
+  teiginys: "Vilniaus vaitui suteikta teisė spręsti ir bausti už miestiečių padarytus kriminalinius nusikaltimus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "442759-443442; hash=1fba7ac0d9ad33381f8c0112ed008929eb90c11028019eee75abc61581c72593; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "vaitas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"vaitas\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-82535
 - susijęs iš [[objektai/asmenys/Eustachijus Sidorovičius.md#claim-t-87664|Eustachijus Sidorovičius]]: Eustachijus Sidorovičius buvo vienas iš graikų tikėjimo Vilniaus pirklių įgaliotinių byloje prieš vaitą Stanislovą Sabiną.
 - susijęs iš [[objektai/asmenys/Feliksas Liangurga.md#claim-t-87500|Feliksas Liangurga]]: 1548 m. Feliksas Liangurga buvo iš Krokuvos kilęs Vilniaus vaitas ir uolus katalikas.
 - susijęs iš [[objektai/asmenys/Jachna Laurinavičius.md#claim-t-87599|Jachna Laurinavičius]]: Jachna Laurinavičius jau 1435 metais buvo Vilniaus vaitas ir 1492 metais dar ėjo šias pareigas.
@@ -70,7 +102,6 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
 - susijęs iš Decretum relationum Stephani Regis Poloniae inter nonnullos mercatores vilnenses et advocatum Vilnensem: 1586 m. liepos 11 d. karaliaus Stepono sprendimu visiems Vilniaus gyventojams įsakyta pagarbiai švęsti iškilmingas šventes pagal naują kalendorių.
 - susijęs iš Decretum relationum Stephani Regis Poloniae inter nonnullos mercatores vilnenses et advocatum Vilnensem: 1586 m. liepos 11 d. Stepono Batoro sprendimu Vilniaus gyventojams įsakyta švęsti įprastas šventes pagal naują kalendorių.
 - susijęs iš Lepumos vaito laiškas apie Švitrigailos pašalinimą ir Žygimanto paskelbimą: Slaptajame Karaliaučiaus archyve buvo keli laiškų originalai, aprašantys Švitrigailos pabėgimą.
-- susijęs iš Prūsijos žemės kronika: 1292 m. Pukuveras pasiuntė savo sūnų Vytenį su didele kariuomene į Lenkijos Bresto žemę.
 - susijęs iš Prūsijos žemės kronika: Narbutas rašė, kad Pretorijus Dusburgiečio kronikos vietoje minimą žynio lazdą vadino krivūle.
 - susijęs iš Stepono Batoro patvirtinta sutartis tarp Martyno Paleckio ir Vilniaus miesto dėl stiklo liejyklos: Miesto aktuose buvo karaliaus Stepono patvirtinta Martyno Paleckio, jo žmonos ir Vilniaus miesto sutartis dėl stiklo liejyklos.
 - susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: Vilniaus miesto taryba ginčijo Vilniaus katedros kapitulos jurisdikciją miesto gyventojų atžvilgiu.
@@ -104,6 +135,7 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
     dūręs [vaitas] privalėjo ne kitaip, tik pagal miesto teisę at­
     sakyti ir aiškintis dėl pateiktų priekaištų.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -138,8 +170,65 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
     velionio pono Olechnos Sudiman-
     taičio, vietininkai.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-82535
+  citata_originali: |
+    Privilegijose Žygimantas pareiškė, kad
+    atskirdamas visas lenkų, lietuvių ir rusų teises bei papro­
+    čius, amžiams suteikia miestui vokišką Magdeburgo teisę,
+    Krokuvos naudojamą nuo seno. Iš vaivadų ir visų karališ­
+    kųjų valdininkų buvo atimta galia kištis į miesto reikalus,
+    ir tik pačiam miesto vadovui, vadinamam vaitu, duota tei­
+    sė spręsti ir bausti už miestiečių padarytus kriminalinius
+    nusikaltimus. Taigi vaitui buvo suteikta tokia galia, kad
+    niekas negalėjo jo į teismą pakviesti, tiktai pats kunigaikš­
+    tis ir tik raštu, patvirtintu valdovo antspaudu, o ten atsi­
+    dūręs [vaitas] privalėjo ne kitaip, tik pagal miesto teisę at­
+    sakyti ir aiškintis dėl pateiktų priekaištų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86557
+
+- id: c-82536
+  citata_originali: |
+    D u b i ń s k i, 1.10.
+    41
+    Miesto archyve yra Aleksandro Jogai-
+    laičio, Lietuvos didžiojo kunigaikš­
+    čio, tokio turinio laiškas: „Vaitas, ta­
+    rybos nariai ir Vilniaus miestiečiai
+    skundė Bogdaną Kievlą, Vilniaus
+    vaivados ir valstybės kanclerio Mi­
+    kalojaus Radvilos vietininką, kad tas
+    Kievla perkėloje ties Vilniumi imąs
+    po grašį nuo krovinio, ko Vytauto ir
+    Žygimanto laikais nebūdavo. Tad
+    kunigaikščio Aleksandro nurody­
+    mu, vaivada Mikalojus išsiklausinė-
+    jo ir sužinojo, kad nuo seno nemo­
+    kėję to mokesčio vietininkui, tik po
+    grašį nuo krovinio keltininkams, ku­
+    rie krovinius praleidžia, ir kad tą
+    naują mokestį buvę įvedę Tomas ir
+    Zdanas, Vilniaus vaivados ir miru­
+    sio karaliaus Kazimiero kanclerio,
+    velionio pono Olechnos Sudiman-
+    taičio, vietininkai.
+  citata_rodoma: "10.\n41\nMiesto archyve yra Aleksandro Jogai- \nlaičio, Lietuvos didžiojo kunigaikš­\nčio, tokio turinio laiškas: „Vaitas, ta­\nrybos nariai ir Vilniaus miestiečiai \nskundė Bogdaną Kievlą, Vilniaus \nvaivados ir valstybės kanclerio Mi­\nkalojaus Radvilos vietininką, kad tas \nKievla perkėloje ties Vilniumi imąs \npo grašį nuo krovinio, ko Vytauto ir \nŽygimanto laikais nebūdavo. Tad \nkunigaikščio Aleksandro nurody­\nmu, vaivada Mikalojus išsiklausinė- \njo ir sužinojo, kad nuo seno nemo­\nkėję to mokesčio vietininkui, tik po \ngrašį nuo krovinio keltininkams, ku­\nrie krovinius praleidžia, ir kad tą \nnaują mokestį buvę įvedę Tomas ir \nZdanas, Vilniaus vaivados ir miru­\nsio karaliaus Kazimiero kanclerio, \nvelionio pono Olechnos Sudiman- \ntaičio, vietininkai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86556

@@ -18,6 +18,18 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Andriejus (Vilniaus vyskupas)
 
@@ -30,10 +42,21 @@ Rodos, kad Jogaila su Vytautu ir Vilniaus vysk.
 <a id="claim-t-35025"></a>
 - t-001
   global_id: t-35025
-  teiginys: 'Vilniaus vyskupas Andriejus su Jogaila ir Vytautu, rodos, susitarė sudaryti taiką su Ordinu.'
+  teiginys: "Vilniaus vyskupas Andriejus su Jogaila ir Vytautu, rodos, susitarė sudaryti taiką su Ordinu."
+  temporaliniai_duomenys: "sutarties data: 1397 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "412671-412918; hash=03d680c1203192ea37efc8235dc7b9a7cd75707938b16746f3117025c8f73d93; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Andriejus: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Andriejus (Vilniaus vyskupas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Andriejus: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Andriejus (Vilniaus vyskupas)\" parinktas kaip owner_note_path. Targetas \"Andriejus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-37982
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -45,8 +68,26 @@ Rodos, kad Jogaila su Vytautu ir Vilniaus vysk.
     daryti ir taiką su Ord., su kuriuo tų metų pradžioj buvo padarytos
     ginklų paliaubos.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-37982
+  citata_originali: |
+    Tuo reikalu jų abiejų susitarimas
+    turėjo įvykti 1397 m. pavasarį, būnant Jogailai Lietuvoj. Rodos,
+    kad Jogaila su Vytautu ir Vilniaus vysk. Andriejum susitarė pa­
+    daryti ir taiką su Ord., su kuriuo tų metų pradžioj buvo padarytos
+    ginklų paliaubos.
+  citata_rodoma: "Rodos,\nkad Jogaila su Vytautu ir Vilniaus vysk. Andriejum susitarė pa­\ndaryti ir taiką su Ord., su kuriuo tų metų pradžioj buvo padarytos\nginklų paliaubos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-35025

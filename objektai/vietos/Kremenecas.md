@@ -16,6 +16,18 @@ tags:
   - vieta
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kremenecas
 
@@ -28,16 +40,42 @@ Bet dėl savo naujo sąmokslo su ordinu, kurio dalinys jau Maskvos žygio metu �
 <a id="claim-t-32259"></a>
 - t-001
   global_id: t-32259
-  teiginys: 'Švitrigaila dėl naujo sąmokslo su ordinu buvo uždarytas į Kremeneco kalėjimą Volinijoje, iš kur pabėgo tik 1418 m.'
+  teiginys: "Švitrigaila dėl naujo sąmokslo su ordinu buvo uždarytas į Kremeneco kalėjimą Volinijoje, iš kur pabėgo tik 1418 m."
+  temporaliniai_duomenys: "įvykio data: 1407 m.; įvykio data: 1418 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, faktinis ir tiesiogiai pagrįstas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "879811-880293; hash=93b17503720d31a5ee8b7eeca8a1469578e813e98c10a18eba2be82f777d8e20; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kremenecas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kremenecas\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-33900
 
 <a id="claim-t-184990"></a>
 - t-002
   global_id: t-184990
-  teiginys: 'Karaliaus vadas Šafranecas prie Kremeneco smarkiai sumušė įsibrovėlius.'
+  teiginys: "Karaliaus vadas Šafranecas prie Kremeneco smarkiai sumušė įsibrovėlius."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "765111-765697; hash=69b49aee3832a514175648a430ce17766fdd6624693c2582283fdad3806b5abc; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Luckas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kremenecas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Luckas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kremenecas\" parinktas kaip owner_note_path. Targetas \"Luckas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-168351
 - susijęs iš [[objektai/asmenys/Jurgis Narimantaitis.md#claim-t-186118|Jurgis Narimantaitis]]: Jurgis Narimantaitis, Algirdo brolėnas, valdė Kremenecą Rusioje.
 - susijęs iš [[objektai/asmenys/Konradas Frankenbergas.md#claim-t-186228|Konradas Frankenbergas]]: Rusų sąmokslininkai nužudė sargybos viršininką Konradą Frankenbergą ir paleido Švitrigailą iš Kremeneco kalėjimo.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179672|Skirgaila]]: Skirgaila mirė 1395 m., po to Kremenecas vėl susijungė su Volynija.
@@ -64,6 +102,7 @@ Bet dėl savo naujo sąmokslo su ordinu, kurio dalinys jau Maskvos žygio metu �
     taikė su Didžiuoju Naugardu, kur, pačios respublikos prašymu,
     Vytautas grąžino sau ištikimą Lengvenį Algirdaitį^60.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -89,11 +128,55 @@ Bet dėl savo naujo sąmokslo su ordinu, kurio dalinys jau Maskvos žygio metu �
     drąsos, nei vilties, anaiptol, jų narsa rodėsi panaši į
     laukinių žvėrių įsiūtį.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-33900
+  citata_originali: |
+    Net Švitrigaila, kuris iš Maskvos Vosyliaus buvo gavęs eilę žemių^59 ,
+    grįžo atgal. Bet dėl savo naujo sąmokslo su ordinu, kurio dalinys
+    jau Maskvos žygio metu įtartinai laikėsi, Švitrigaila buvo uždary­
+    tas į Kremenetso (Volinijoje) kalėjimą, iš kur jam tepasisekė
+    pabėgti — vėl pas kryžiuočius — tik 1418 m.
+    Dar tebevykstant Maskvos žygiams, Vytautas 1407 m. susi­
+    taikė su Didžiuoju Naugardu, kur, pačios respublikos prašymu,
+    Vytautas grąžino sau ištikimą Lengvenį Algirdaitį^60.
+  citata_rodoma: "Bet dėl savo naujo sąmokslo su ordinu, kurio dalinys\njau Maskvos žygio metu įtartinai laikėsi, Švitrigaila buvo uždary­\ntas į Kremenetso (Volinijoje) kalėjimą, iš kur jam tepasisekė\npabėgti — vėl pas kryžiuočius — tik 1418 m.\nDar tebevykstant Maskvos žygiams, Vytautas 1407 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-32259
+
+- id: c-168351
+  citata_originali: |
+    Abie­
+    jų šalių pasiuntiniams ginči-
+    Išsk la id o  le n k ų  jė g a s
+    jantis dėl taikos sąlygų, Bo­
+    leslovas įsiveržė į Chelmo
+    apygardą, atėmė iš karaliaus Ratną, labai patogioje vie­
+    toje esančią bei svarbią tvirtovę, ir nusiaubė jo apylin­
+    kes. Bajorai, vadovaujami karaliaus vadų Cioleko ir
+    Šafraneco, griebėsi ginklo: pirmas baisiai sumušė įsi­
+    brovėlius netoli Chelmo, o antras — prie Kremeneco.
+    Tuo tarpu karalius po senovei iš visų pusių kamavo
+    antpuoliais Lucko pilį, tačiau apsuptieji neprarado nei
+    drąsos, nei vilties, anaiptol, jų narsa rodėsi panaši į
+    laukinių žvėrių įsiūtį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184990
 
 ## Ryšiai
 - Kremenecas priklausė [[objektai/vietos/Volynija]]

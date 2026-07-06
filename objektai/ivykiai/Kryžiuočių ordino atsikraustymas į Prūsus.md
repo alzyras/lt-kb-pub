@@ -17,6 +17,18 @@ tags:
   - ordinas
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kryžiuočių ordino atsikraustymas į Prūsus
 
@@ -39,26 +51,61 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-01676"></a>
-- t-001
+- t-002
   global_id: t-01676
-  teiginys: 'Gavęs kvietimą atvykti į Prūsus, Vokiečių ordinas bylinėjosi su Vengrijos karaliumi dėl siekio atgauti prarastas žemes.'
+  teiginys: "Gavęs kvietimą atvykti į Prūsus, Vokiečių ordinas bylinėjosi su Vengrijos karaliumi dėl siekio atgauti prarastas žemes."
+  temporaliniai_duomenys: "įvykio data: 1224 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pirminis teiginys gramatiškai taisytinas ir stilistiškai pasenęs."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "105563-105958; hash=86036d0a55f01d5fcce7247cc89b8ac734a4fd02ef0e56379052d10e6ad1be72; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vengrai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordino atsikraustymas į Prūsus: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Vengrai: mention_match, group, gap=41"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordino atsikraustymas į Prūsus\" parinktas kaip owner_note_path. Targetas \"Vengrai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-01916
 
 <a id="claim-t-01677"></a>
-- t-002
+- t-003
   global_id: t-01677
-  teiginys: '1230 m. pirmieji Vokiečių ordino atstovai jau buvo pasiekę Prūsų pasienį.'
+  teiginys: "1230 m. pirmieji Vokiečių ordino atstovai jau buvo pasiekę Prūsų pasienį."
+  temporaliniai_duomenys: "įvykio data: 1230 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pirminis teiginys suprantamas, bet stilistiškai pataisytinas viešai žinių bazei."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "106055-106285; hash=32d2be60da3987f4f5538cc135ebe436caea8fe13bf5709d48d2f25d692911ab; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsų žemė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_place_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordino atsikraustymas į Prūsus: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Prūsai: mention_match, place, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordino atsikraustymas į Prūsus\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-01915
 
 <a id="claim-t-01678"></a>
-- t-003
+- t-001
   global_id: t-01678
-  teiginys: 'Kunigaikštis Konradas pakvietė Vokiečių ordiną persikelti į Prūsus ir rūpintis vietinių bei aplinkinių krikščionių apsauga.'
+  teiginys: "Kunigaikštis Konradas pakvietė Vokiečių ordiną persikelti į Prūsus ir rūpintis vietinių bei aplinkinių krikščionių apsauga."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "103630-104118; hash=85128b6557667a79fb3e2cda02a30449329858913de116a0549d68435fcdd7bc; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordino atsikraustymas į Prūsus: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordino atsikraustymas į Prūsus\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
-
+    - c-01914
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -74,6 +121,7 @@ Nenurodyta
     veikti. Kunigaikštis Konradas jį pakvietė persikelti į Prūsus ir
     paimti į savo rankas vietinių ir aplinkinių krikščionių apsaugą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -93,6 +141,7 @@ Nenurodyta
     nuolatinį karą su aisčių
     kiltimis.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -109,8 +158,64 @@ Nenurodyta
     bylinėjosi su Vengrų karalium, norėdamas atgauti iš jo žemes. Nebe-
     turėdamas vilties jų atgauti, ordinas mielai priėmė kvietimą.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-01914
+  citata_originali: |
+    Bet riterių buvo ne-
+    daug, todėl ir jų pagalba buvo nedidelė: jie vos įstengdavo ap-
+    ginti savo pilį.
+    Jau Dobrinės ordiną steigdami, vyskupas ir kunigaikštis Kon-
+    radas susižinojo su vokiečių riterių ordinu, kurs kryžiaus karų
+    metu buvo įsteigtas Palestinoje; ten galutinai įsigalėjus turkams, jo
+    vadovybė ir daugumas brolių persikėlė į Europą ir neturėjo ko
+    veikti. Kunigaikštis Konradas jį pakvietė persikelti į Prūsus ir
+    paimti į savo rankas vietinių ir aplinkinių krikščionių apsaugą.
+  citata_rodoma: "Jau Dobrinės ordiną steigdami, vyskupas ir kunigaikštis Kon-\nradas susižinojo su vokiečių riterių ordinu, kurs kryžiaus karų\nmetu buvo įsteigtas Palestinoje; ten galutinai įsigalėjus turkams, jo\nvadovybė ir daugumas brolių persikėlė į Europą ir neturėjo ko\nveikti. Kunigaikštis Konradas jį pakvietė persikelti į Prūsus ir\npaimti į savo rankas vietinių ir aplinkinių krikščionių apsaugą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-01678
+
+- id: c-01915
+  citata_originali: |
+    1230 m. pirmieji ordino atstovai jau buvo Prūsų pasieny.
+    Čia jie gavo iš Konrado
+    žemių su Niešavos pi-
+    laite, o patys pasista-
+    tė Fogelzango pilį. Ne-
+    trukus iš tų pirmųjų
+    savo sodybų jie pradėjo
+    nuolatinį karą su aisčių
+    kiltimis.
+  citata_rodoma: "1230 m. pirmieji ordino atstovai jau buvo Prūsų pasieny.\nČia jie gavo iš Konrado\nžemių su Niešavos pi-\nlaite, o patys pasista-\ntė Fogelzango pilį."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-01677
+
+- id: c-01916
+  citata_originali: |
+    Į Vengriją ordinas buvo pakviestas kariauti su ją puo-
+    lančiais pagonimis kumanais. Bet Vengrijos karalius, pamatęs, kad or-
+    dinas čia ne jam tarnauja, bet ruošiasi sukurti savo valstybę, jį išvijo
+    (1224 m.). Kai ordinas gavo kvietimą atvykti į Prūsus, tuo metu jis
+    bylinėjosi su Vengrų karalium, norėdamas atgauti iš jo žemes. Nebe-
+    turėdamas vilties jų atgauti, ordinas mielai priėmė kvietimą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-01676

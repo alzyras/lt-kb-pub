@@ -8,11 +8,6 @@ datos:
   - '1767 m.'
 date_start: '1700'
 date_end: '1767'
-description: 'Jonas Kristupas Glaubicas – pagrindinis Vilniaus baroko mokyklos architektas, kūręs daugiakonfesiame XVIII a. Vilniuje ir LDK.'
-socialDescription: 'Jonas Kristupas Glaubicas formavo Vilniaus baroko mokyklą ir kūrė įvairioms XVIII a. Vilniaus religinėms bendruomenėms.'
-seo_atnaujinta: '2026-07-02T21:03:54.603763+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 amziai:
@@ -20,63 +15,181 @@ amziai:
   - 'XVIII'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jonas Kristupas Glaubicas
 
 ## Santrauka
 
-Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos architektas ir šios savitos stilistikos formuotojas. Iš vokiškų žemių atvykęs liuteronas XVIII a. kūrė daugiakonfesiame Vilniuje liuteronams, katalikams, graikams katalikams, stačiatikiams ir žydams. Jo 1737–1767 m. kūrybos laikotarpis vertinamas kaip vienas ryškiausių senosios Lietuvos civilizacijos reiškinių.
+Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos architektas ir šios mokyklos stilistikos formuotojas, kūręs daugiakonfesiame Vilniuje.
 
 ## Teiginiai
 
 <a id="claim-t-23201"></a>
 - t-001
   global_id: t-23201
-  teiginys: 'Jonas Kristupas Glaubicas įvardytas pagrindiniu Vilniaus baroko mokyklos architektu.'
+  teiginys: "Jonas Kristupas Glaubicas įvardytas pagrindiniu Vilniaus baroko mokyklos architektu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "120171-120656; hash=40ce3fc43d383a5e2fa74e5fc055f8db3a1ef6837f9aebd036fbd656a25b44ec; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jonas Kristupas Glaubicas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=48"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonas Kristupas Glaubicas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-21740
 
 <a id="claim-t-23202"></a>
 - t-002
   global_id: t-23202
-  teiginys: 'Jonas Kristupas Glaubicas buvo iš vokiškų žemių atvykęs liuteronas ir produktyviausias XVIII a. architektas Vilniuje bei LDK.'
+  teiginys: "Jonas Kristupas Glaubicas buvo iš vokiškų žemių atvykęs liuteronas ir produktyviausias XVIII a. architektas Vilniuje bei LDK."
+  semantiniai_rysiai: "Jonas Kristupas Glaubicas gyveno Vilnius (0.70)"
+  temporaliniai_duomenys: "įvykio data: 1700-1767; įvykio data: 1767 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "151884-152394; hash=4c55a79bdebdf929d1fcd41766e7a67950abfede92e5aad363d905e6c5ac9262; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Vilnius: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jonas Kristupas Glaubicas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas apibūdina jį kaip Vilniuje veikusį architektą ir teigia, kad jis pritapo daugiakonfesiame Vilniuje."
   pagrindžia:
-    - c-003
+    - c-25097
 
 <a id="claim-t-23203"></a>
 - t-003
   global_id: t-23203
-  teiginys: 'Jonas Kristupas Glaubicas kūrė liuteronams, katalikams, graikams katalikams, stačiatikiams ir žydams.'
+  teiginys: "Jonas Kristupas Glaubicas kūrė liuteronams, katalikams, graikams katalikams, stačiatikiams ir žydams."
+  temporaliniai_duomenys: "įvykio data: 1700-1767; įvykio data: 1767 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie asmens veiklą ir paremtas citata."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "151884-152394; hash=4c55a79bdebdf929d1fcd41766e7a67950abfede92e5aad363d905e6c5ac9262; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Stačiatikiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jonas Kristupas Glaubicas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Stačiatikiai: mention_match, group, gap=77"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonas Kristupas Glaubicas\" parinktas kaip owner_note_path. Targetas \"Stačiatikiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-25097
 
 <a id="claim-t-23204"></a>
 - t-004
   global_id: t-23204
-  teiginys: 'J. K. Glaubico 1737–1767 m. kūrybos laikotarpis įvardijamas kaip vienas ryškiausių senosios Lietuvos civilizacijos reiškinių.'
+  teiginys: "J. K. Glaubico 1737–1767 m. kūrybos laikotarpis įvardijamas kaip vienas ryškiausių senosios Lietuvos civilizacijos reiškinių."
+  temporaliniai_duomenys: "įvykio data: 1737-1767; įvykio data: 1767 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "152668-153165; hash=53e0815036d76567c3cc7c7a55ac1c183de9cfb4fb34ee7f79f0e93d922f7412; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jonas Kristupas Glaubicas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=86"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonas Kristupas Glaubicas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-21742
 
 <a id="claim-t-23205"></a>
 - t-005
   global_id: t-23205
-  teiginys: 'Jonas Kristupas Glaubicas laikomas pagrindiniu originalios Vilniaus baroko mokyklos architektu.'
+  teiginys: "Jonas Kristupas Glaubicas laikomas pagrindiniu originalios Vilniaus baroko mokyklos architektu."
+  temporaliniai_duomenys: "įvykio data: 1737-1767; įvykio data: 1767 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys palaikomas citatos, bet reikėjo paversti jį glaustu enciklopediniu sakiniu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "152668-153165; hash=53e0815036d76567c3cc7c7a55ac1c183de9cfb4fb34ee7f79f0e93d922f7412; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jonas Kristupas Glaubicas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=59"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonas Kristupas Glaubicas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-21742
 
 <a id="claim-t-23206"></a>
 - t-006
   global_id: t-23206
-  teiginys: 'Glaubicas suformavo baroko architektūrinio stiliaus atmainą, neturinčią analogo – Vilniaus baroko mokyklą.'
+  teiginys: "Glaubicas suformavo baroko architektūrinio stiliaus atmainą, neturinčią analogo – Vilniaus baroko mokyklą."
+  temporaliniai_duomenys: "įvykio data: 1737-1767; įvykio data: 1767 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "152668-153165; hash=53e0815036d76567c3cc7c7a55ac1c183de9cfb4fb34ee7f79f0e93d922f7412; match=whitespace_regex"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jonas Kristupas Glaubicas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=82"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonas Kristupas Glaubicas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-21742
+
+<a id="claim-t-23202"></a>
+- t-002
+  global_id: t-23202
+  teiginys: "Jonas Kristupas Glaubicas buvo iš vokiškų žemių atvykęs liuteronas ir produktyviausias XVIII a. architektas Vilniuje bei LDK."
+  semantiniai_rysiai: "Jonas Kristupas Glaubicas gyveno Vilnius (0.70)"
+  temporaliniai_duomenys: "įvykio data: 1700-1767; įvykio data: 1767 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "151884-152394; hash=4c55a79bdebdf929d1fcd41766e7a67950abfede92e5aad363d905e6c5ac9262; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Vilnius: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jonas Kristupas Glaubicas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas apibūdina jį kaip Vilniuje veikusį architektą ir teigia, kad jis pritapo daugiakonfesiame Vilniuje."
+  pagrindžia:
+    - c-25097
 
 <a id="claim-t-24544"></a>
 - t-008
   global_id: t-24544
-  teiginys: 'Jono Kristupo Glaubico kūrybos trisdešimtmetis 1737–1767 m. knygoje vertinamas kaip ryškus senosios Lietuvos civilizacijos reiškinys.'
+  teiginys: "Jono Kristupo Glaubico kūrybos trisdešimtmetis 1737–1767 m. knygoje vertinamas kaip ryškus senosios Lietuvos civilizacijos reiškinys."
+  temporaliniai_duomenys: "įvykio data: 1737-1767; įvykio data: 1767 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Vertinamajam teiginiui reikia aiškios atribucijos ir pilno vardo."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  saltinio_vieta: "152594-153013; hash=79f0739a91548df091c325908c57bd44013980f1ee49717f1f72f11024726f45; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jonas Kristupas Glaubicas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=100"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonas Kristupas Glaubicas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-25413
 - susijęs iš [[objektai/zodynas/Baroko epocha Vilniaus baroko mokykla.md#claim-t-21978|Baroko epocha Vilniaus baroko mokykla]]: XVIII a. susiformavo originali Vilniaus baroko mokykla, kurios pagrindiniu architektu laikomas Jonas Kristupas Glaubicas.
 - susijęs iš [[objektai/zodynas/Baroko epocha.md#claim-t-21979|Baroko epocha]]: XVIII a. susiformavo originali Vilniaus baroko mokykla, kurios pagrindiniu architektu laikomas Jonas Kristupas Glaubicas.
 - susijęs iš [[objektai/grupes/Vilniaus baroko mokykla.md#claim-t-183195|Vilniaus baroko mokykla]]: J. K. Glaubicas suformavo analogų neturinčią baroko architektūros atmainą – Vilniaus baroko mokyklą.
@@ -95,8 +208,9 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
     kurios pagrindinis architektas Jonas Kristupas Glaubicas (Johann Chris-
     toph Glaubitz) turėtų būti drąsiai įvesdintas į Europos baroko istoriją.
   citata_rodoma: ''
+  teiginio_tipas: vertinimas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -112,8 +226,9 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
     Tai leidžia pakelti J. K. Glaubicą į pačių reikšmingiausių Lietuvos istorijos
     asmenų rangą, nes prieš jo nuopelnus nublanksta epochos valdovų darbai.
   citata_rodoma: ''
+  teiginio_tipas: vertinimas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
@@ -133,8 +248,9 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
     daugiakonfesiame Vilniuje, kūrė ne tik savo bendruomenei – liuteronams,
     bet ir katalikams, graikams katalikams, stačiatikiams, žydams.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -152,11 +268,87 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
     co kūrybos trisdešimtmetis (1737–1767 m.) yra vienas ryškiausių senosios
     Lietuvos civilizacijos reiškinių, priklausomybės Vakarų civilizacijai ženklas.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
+## Citatos
+
+- id: c-21740
+  citata_originali: |
+    Jame randame šiuolaikinės artilerijos
+    ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-
+    orija.
+    XVII–XVIII a. barokinį kraštovaizdį architektūroje ir dailėje taip pat
+    nulėmė jėzuitai. Tik XVII a. vyravo „importinis“, ypač itališkas, barokas,
+    o XVIII a. buvo sukurta originali, vadinamoji Vilniaus baroko mokykla,
+    kurios pagrindinis architektas Jonas Kristupas Glaubicas (Johann Chris-
+    toph Glaubitz) turėtų būti drąsiai įvesdintas į Europos baroko istoriją.
+  citata_rodoma: "Tik XVII a. vyravo „importinis“, ypač itališkas, barokas, \no XVIII a. buvo sukurta originali, vadinamoji Vilniaus baroko mokykla, \nkurios pagrindinis architektas Jonas Kristupas Glaubicas (Johann Chris-\ntoph Glaubitz) turėtų būti drąsiai įvesdintas į Europos baroko istoriją."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-23201
+
+- id: c-21742
+  citata_originali: |
+    Bažnyčios su dviem grakščiais, skirtingai
+    dekoruotų tarpsnių bokštais tapo neatskiriamu katalikiškojo peizažo bruo-
+    žu, žymėjo rytinę katalikybės, kartu ir Vidurio Europos ribą. J. K. Glaubi-
+    co kūrybos trisdešimtmetis (1737–1767 m.) yra vienas ryškiausių senosios
+    Lietuvos civilizacijos reiškinių, priklausomybės Vakarų civilizacijai ženklas.
+    Tai leidžia pakelti J. K. Glaubicą į pačių reikšmingiausių Lietuvos istorijos
+    asmenų rangą, nes prieš jo nuopelnus nublanksta epochos valdovų darbai.
+  citata_rodoma: "Tai leidžia pakelti J. K. Glaubicą į pačių reikšmingiausių Lietuvos istorijos \nasmenų rangą, nes prieš jo nuopelnus nublanksta epochos valdovų darbai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-23204
+    - t-23205
+    - t-23206
+
+- id: c-25097
+  citata_originali: |
+    Pirmojoje XVIII a. pusėje susiformavo savita Vil-
+    niaus mokykla, kurios stilistikos formuotojas, produktyviausias XVIII a. ar-
+
+    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
+    83
+    chitektas ne tik Vilniuje, bet ir visoje LDK buvo iš vokiškų žemių atvykęs liu-
+    teronas Jonas Kristupas Glaubicas (apie 1700–1767 m.). Jis puikiai pritapo
+    daugiakonfesiame Vilniuje, kūrė ne tik savo bendruomenei – liuteronams,
+    bet ir katalikams, graikams katalikams, stačiatikiams, žydams.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-23202
+    - t-23203
+    - t-24543
+
+- id: c-25413
+  citata_originali: |
+    Ryškiausias ypatumas – ypač aukšti ir
+    liekni pagrindinio fasado bokštai. Bažnyčios su dviem grakščiais, skirtingai
+    dekoruotų tarpsnių bokštais tapo neatskiriamu katalikiškojo peizažo bruo-
+    žu, žymėjo rytinę katalikybės, kartu ir Vidurio Europos ribą. J. K. Glaubi-
+    co kūrybos trisdešimtmetis (1737–1767 m.) yra vienas ryškiausių senosios
+    Lietuvos civilizacijos reiškinių, priklausomybės Vakarų civilizacijai ženklas.
+  citata_rodoma: "J. K. Glaubi-\nco kūrybos trisdešimtmetis (1737–1767 m.) yra vienas ryškiausių senosios \nLietuvos civilizacijos reiškinių, priklausomybės Vakarų civilizacijai ženklas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-24544
 
 ## Ryšiai
 - Jonas Kristupas Glaubicas gyveno [[objektai/vietos/Vilnius]]

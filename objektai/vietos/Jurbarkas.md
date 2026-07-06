@@ -14,12 +14,24 @@ date_start: '1259'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XIII'
-  - 'XXI'
 tags:
   - pilis
   - vieta
+amziai:
+  - 'XIII'
+  - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jurbarkas
 
@@ -28,64 +40,153 @@ tags:
 Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurios žemaičiai taip pat neįstengė išgriauti.
 
 ## Teiginiai
+
 <a id="claim-t-83423"></a>
-- t-001
+- t-009
   global_id: t-83423
-  teiginys: 'Jurbarko pilis buvo sugriauta, todėl jos statytojas nebeturėjo ryšio su Klaipėdos pilimi.'
+  teiginys: "Jurbarko pilis buvo sugriauta, todėl jos statytojas nebeturėjo ryšio su Klaipėdos pilimi."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "139614-139887; hash=5a4392b9a90c4c4ac4914e88c2545d868b12678454dd445b91a28c0967bd4068; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Laužas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jurbarkas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Laužas: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jurbarkas\" parinktas kaip owner_note_path. Targetas \"Laužas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-46510
 
 <a id="claim-t-83425"></a>
-- t-002
+- t-010
   global_id: t-83425
-  teiginys: 'Po Durbės pralaimėjimo Jurbarko pilis buvo sugriauta.'
+  teiginys: "Po Durbės pralaimėjimo Jurbarko pilis buvo sugriauta."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "139614-139887; hash=5a4392b9a90c4c4ac4914e88c2545d868b12678454dd445b91a28c0967bd4068; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Durbė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jurbarkas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Durbė: mention_match, place, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jurbarkas\" parinktas kaip owner_note_path. Targetas \"Durbė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-002
+    - c-46510
 
 <a id="claim-t-83426"></a>
-- t-003
+- t-004
   global_id: t-83426
-  teiginys: 'Apgriautos pilies plytos buvo renkamos ir pardavinėjamos į Jurbarką krosnims bei dūmtraukiams mūryti.'
+  teiginys: "Apgriautos pilies plytos buvo renkamos ir pardavinėjamos į Jurbarką krosnims bei dūmtraukiams mūryti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "226784-226989; hash=c38560062b2ba4c71487236f45fd1faa02381e3cacd7b3630be9a913f0742dec; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Veliuona: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jurbarkas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Veliuona: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jurbarkas\" parinktas kaip owner_note_path. Targetas \"Veliuona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-79746
 
 <a id="claim-t-83427"></a>
-- t-004
+- t-008
   global_id: t-83427
-  teiginys: '1259 m. prie Nemuno buvo pastatyta Jurbarko pilis, kurios žemaičiai neįstengė išgriauti.'
+  teiginys: "1259 m. prie Nemuno buvo pastatyta Jurbarko pilis, kurios žemaičiai neįstengė išgriauti."
+  temporaliniai_duomenys: "pastatymo data: 1259 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  saltinio_vieta: "226784-226989; hash=c38560062b2ba4c71487236f45fd1faa02381e3cacd7b3630be9a913f0742dec; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Žemaičiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jurbarkas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Žemaičiai: mention_match, group, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jurbarkas\" parinktas kaip owner_note_path. Targetas \"Žemaičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-46509
 
 <a id="claim-t-83428"></a>
-- t-005
+- t-006
   global_id: t-83428
-  teiginys: 'Aprašomu metu apgriuvusios sienos ir bokštų plytos buvo renkamos ir pardavinėjamos į Jurbarką krosnims bei dūmtraukiams mūryti.'
+  teiginys: "Aprašomu metu apgriuvusios sienos ir bokštų plytos buvo renkamos ir pardavinėjamos į Jurbarką krosnims bei dūmtraukiams mūryti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  saltinio_vieta: "226784-226989; hash=c38560062b2ba4c71487236f45fd1faa02381e3cacd7b3630be9a913f0742dec; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bokštai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jurbarkas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Bokštai: mention_match, place, gap=48"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jurbarkas\" parinktas kaip owner_note_path. Targetas \"Bokštai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-003
+    - c-79746
 
 <a id="claim-t-184965"></a>
-- t-006
+- t-007
   global_id: t-184965
-  teiginys: 'Gediminas su kariuomene buvo įrengęs stovyklą tarp Jurbarko ir Kauno.'
+  teiginys: "Gediminas su kariuomene buvo įrengęs stovyklą tarp Jurbarko ir Kauno."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "139614-139887; hash=5a4392b9a90c4c4ac4914e88c2545d868b12678454dd445b91a28c0967bd4068; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jurbarkas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jurbarkas\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
-    - c-004
+    - c-168326
 
 <a id="claim-t-188701"></a>
 - t-007
   global_id: t-188701
-  teiginys: 'Narbutas Kidulių kaime, netoli Jurbarko kairiajame Nemuno krante, minėjo labai seną mūro pilį.'
+  teiginys: "Narbutas Kidulių kaime, netoli Jurbarko kairiajame Nemuno krante, minėjo labai seną mūro pilį."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "218913-219155; hash=97d801f3fcc0d520d290f572a4c34da1dea16e84128d1fc0febe21a3841c33f5; match=ocr_normalized_gapped"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kiduliai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jurbarkas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kiduliai: mention_match, place, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jurbarkas\" parinktas kaip owner_note_path. Targetas \"Kiduliai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-005
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171590
+
 <a id="claim-t-188702"></a>
 - t-008
   global_id: t-188702
-  teiginys: 'Narbutas Veliuoną apibūdino kaip menką miestelį dešiniajame Nemuno krante, esantį penkios mylios nuo Jurbarko.'
+  teiginys: "Narbutas Veliuoną apibūdino kaip menką miestelį dešiniajame Nemuno krante, esantį penkios mylios nuo Jurbarko."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "226784-226989; hash=c38560062b2ba4c71487236f45fd1faa02381e3cacd7b3630be9a913f0742dec; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Veliuona: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jurbarkas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Veliuona: mention_match, place, gap=92"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jurbarkas\" parinktas kaip owner_note_path. Targetas \"Veliuona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-006
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171591
 - susijęs iš [[objektai/asmenys/Kaributas.md#claim-t-97459|Kaributas]]: Kaributas, Jogailos brolis ir Naugardo Sieversko kunigaikštis, sukilo prieš Kęstutį, kai šis buvo apgulęs Jurbarką.
 - susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185489|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: Gediminas nestojo į atvirą kovą, kai kryžiuočiai užėmė Jurbarko ir Kauno pilis, o Livonijos kryžiuočiai atėmė Kuršą.
 - susijęs iš [[objektai/asmenys/Barkus.md#claim-t-186097|Barkus]]: Barkus prie Jūros žiočių pasistatė Jurbarko pilį ir gavo valdyti Žemaitijos dalį iki Kuršių įlankos.
@@ -126,6 +227,7 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
 - susijęs iš [[objektai/daiktai/Laivai.md#claim-t-12313|Laivai]]: 1382 m. pavasarį Kęstutis laivais Nemunu nuplaukė į Ordino sritį ir sustojo ties Jurbarku.
 - susijęs iš [[objektai/ivykiai/Vytauto išsiskyrimas su Ordinu ir trijų pilių sunaikinimas (1384 m. vasara–rudenis).md#claim-t-95965|Vytauto išsiskyrimas su Ordinu ir trijų pilių sunaikinimas (1384 m. vasara–rudenis)]]: Praėjus trims savaitėms po paskutinio susitarimo su Ordinu, Vytautas pradėjo vykdyti atsiskyrimo nuo kryžiuočių planą.
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -134,11 +236,13 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
     kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259
     m.), kurios žemaičiai taip pat neįstengė išgriauti.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -149,12 +253,14 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
     riauti Žemaičius, jis vėliau Klaipėdą perleido Prūsų kryžiuo-
     čiams (1328 m.).
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -167,12 +273,14 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
     vakarų pusės jau seniai buvo nugriauta, kad atsivertų vaiz­
     das į Nemuną.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
     - t-003
+
 - c-004
   santrauka: 'Gediminas su kariuomene buvo įrengęs stovyklą tarp Jurbarko ir Kauno.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -200,11 +308,13 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
     tarpu daugiau rūpėjo, kieno
     pusėje jėgų persvara.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-005
   santrauka: 'Narbutas Kidulių kaime, netoli Jurbarko kairiajame Nemuno krante, minėjo labai seną mūro pilį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -217,11 +327,14 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
 
     ko sienoje mačiau tos Dangaus karalienės bareljefinę figūrą iš
     nedailaus, bet labai patvaraus gipso.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-006
   santrauka: 'Narbutas Veliuoną apibūdino kaip menką miestelį dešiniajame Nemuno krante, esantį penkios mylios nuo Jurbarko.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -230,11 +343,125 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
     Ji turėjo savo šventyklą vietovėje, kuri iki šiol tebesivadina
     Veliuona (Wellona). Dabar tai menkas miestelis dešiniajame
     Nemuno krante, penkios mylios iki Jurbarko.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
+## Citatos
+
+- id: c-46509
+  citata_originali: |
+    Durbės mūšis (1260 m.) ir jo padariniai. Pasistatęs Klai-
+    pėdos pilį, Livonijos ordinas vėl ėmė pulti žemaičius. Po ilgų
+    kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259
+    m.), kurios žemaičiai taip pat neįstengė išgriauti.
+  citata_rodoma: "Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259\nm.), kurios žemaičiai taip pat neįstengė išgriauti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-83427
+
+- id: c-46510
+  citata_originali: |
+    Bet
+    dabar, po Durbės pralaimėjimo, jis buvo išvytas iš visos Žemai-
+    tijos. Jo pastatyta Jurbarko pilis buvo sugriauta; su Klaipėdos
+    pilim jis jau nebeturėjo ryšio. Nustojęs vilties veikiai nuka-
+    riauti Žemaičius, jis vėliau Klaipėdą perleido Prūsų kryžiuo-
+    čiams (1328 m.).
+  citata_rodoma: "Jo pastatyta Jurbarko pilis buvo sugriauta; su Klaipėdos\npilim jis jau nebeturėjo ryšio. Nustojęs vilties veikiai nuka-\nriauti Žemaičius, jis vėliau Klaipėdą perleido Prūsų kryžiuo-\nčiams (1328 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-83423
+    - t-83425
+
+- id: c-79746
+  citata_originali: |
+    Seniau jos sudarė ketvirtainį, kampuose su­
+    tvirtintą bokštais, vienas jų, aukštesnis už kitus, stovi išlai­
+    kęs pirmapradį pavidalą. Dabar sienos ir trys kiti bokštai
+    gerokai apgriauti, ypač per pastaruosius dvidešimt metų, o
+    šiuo metu netgi nedraudžiama plytas rinkti ir pardavinėti į
+    Jurbarką krosnims ir dūmtraukiams mūryti. Viena siena iš
+    vakarų pusės jau seniai buvo nugriauta, kad atsivertų vaiz­
+    das į Nemuną.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-83428
+    - t-83426
+
+- id: c-168326
+  citata_originali: |
+    Vis dėlto, kai, pilyje užkūrus laužą ir šitaip
+    7*
+    195
+
+    ## Puslapis 194
+
+    padavus pavojaus ženklą, kaimynai įspėti šoko gink­
+    luotis, magistras turėjo palikti pilį ramybėje. Nebetoli
+    su kariuomene buvo ir Gediminas, įrengęs stovyklą
+    tarp Jurbarko ir Kauno. Tai šen, tai ten liepsnojo prie­
+    šo padegti kaimai, kylantys
+    G ed im in a s
+    su m u ša
+    dūmai žadino skausmą, o
+    k ry ž iu o č iu s  ir a tim a
+    skausmas — drąsą, tačiau ap-
+    iš jų  Ž e m a itiją
+    dairiam
+    kunigaikščiui
+    tuo
+    tarpu daugiau rūpėjo, kieno
+    pusėje jėgų persvara.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184965
+
+- id: c-171590
+  citata_originali: |
+    Netoli Jurbarko, Nemuno kairiajame krante. Kidulių kai­
+    me, yra labai sena mūro pilis. 1805 metais vieno bokštelio lau­
+    125
+
+    ## Puslapis 125
+
+    ko sienoje mačiau tos Dangaus karalienės bareljefinę figūrą iš
+    nedailaus, bet labai patvaraus gipso.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188701
+
+- id: c-171591
+  citata_originali: |
+    Skaityk žemiau atitinkamus straipsnius.
+    Ji turėjo savo šventyklą vietovėje, kuri iki šiol tebesivadina
+    Veliuona (Wellona). Dabar tai menkas miestelis dešiniajame
+    Nemuno krante, penkios mylios iki Jurbarko.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188702
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

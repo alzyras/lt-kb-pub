@@ -11,14 +11,26 @@ date_start: '1291'
 date_end: '1836'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XIII'
-  - 'XIX'
 tags:
   - karalius
   - ordinas
   - popiežius
   - vieta
+amziai:
+  - 'XIII'
+  - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Sirija
 
@@ -27,35 +39,91 @@ tags:
 Dusburgietis teigia, kad aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą (1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą ir trumpai atpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms suartėti su totoriais — mongolais. Dusburgietis teigia, kad ši kronika, kaip ir atitinkami popiežiaus kurijos dokumentai, patvirtina tarybinėje istoriografijoje keliamą mintį, kad ekspansijos prieš arabų, slavų ir Pabaltijo tautas esmė ir varomosios jėgos buvusios vienodos, kad šios tautos turėjusios bendrą priešą71..
 
 ## Teiginiai
+
 <a id="claim-t-91383"></a>
-- t-001
+- t-003
   global_id: t-91383
-  teiginys: 'Kronikoje atpasakotoje kryžiaus žygių istorijoje aprašyti totorių-mongolų žygiai prieš Siriją ir kitas musulmoniškąsias šalis.'
+  teiginys: "Kronikoje atpasakotoje kryžiaus žygių istorijoje aprašyti totorių-mongolų žygiai prieš Siriją ir kitas musulmoniškąsias šalis."
+  semantiniai_rysiai: "Totoriai surengė žygį į Sirija (0.84); Mongolai surengė žygį į Sirija (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1291 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Rewrite failed deterministic gates: missing_factual_predicate"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "47803-48520; hash=5f96adbdbe1d5e0b77791124cdce0de10da29ff5fd9447a4b35a79c97249aa57; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Sirija: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Sirija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo totorių žygius prieš Siriją."
   pagrindžia:
-    - c-001
+    - c-87095
 
 <a id="claim-t-91384"></a>
-- t-002
+- t-001
   global_id: t-91384
-  teiginys: 'Dusburgo kronikoje aprašomi totorių-mongolų žygiai prieš Siriją ir kitas musulmoniškąsias šalis.'
+  teiginys: "Dusburgo kronikoje aprašomi totorių-mongolų žygiai prieš Siriją ir kitas musulmoniškąsias šalis."
+  semantiniai_rysiai: "Totoriai surengė žygį į Sirija (0.84); Mongolai surengė žygį į Sirija (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1291 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata tiesiogiai mini Siriją ir leidžia suformuluoti faktą apie jos aprašymą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "47803-48520; hash=5f96adbdbe1d5e0b77791124cdce0de10da29ff5fd9447a4b35a79c97249aa57; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Sirija: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Sirija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai mini totorių-mongolų žygius prieš Siriją."
   pagrindžia:
-    - c-001
+    - c-87095
 
 <a id="claim-t-91385"></a>
-- t-003
+- t-002
   global_id: t-91385
-  teiginys: 'Petras iš Dusburgo kryžiaus žygių istorijoje aprašė totorių ir mongolų žygius prieš Siriją bei kitas musulmoniškąsias šalis.'
+  teiginys: "Petras iš Dusburgo kryžiaus žygių istorijoje aprašė totorių ir mongolų žygius prieš Siriją bei kitas musulmoniškąsias šalis."
+  semantiniai_rysiai: "Totoriai surengė žygį į Sirija (0.84); Mongolai surengė žygį į Sirija (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1291 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata tiesiogiai mini Siriją ir leidžia pagrįsti konkretų faktą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "47803-48520; hash=5f96adbdbe1d5e0b77791124cdce0de10da29ff5fd9447a4b35a79c97249aa57; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Sirija: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Sirija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo totorių žygius prieš Siriją."
   pagrindžia:
-    - c-001
+    - c-87095
 
 <a id="claim-t-188835"></a>
 - t-004
   global_id: t-188835
-  teiginys: 'Narbutas rašo, kad Sirijos patriarchą Maskvoje lydėjęs arkidiakonas Povilas pasakojo apie Rusijos carui pavaldžių tautų dangaus kūnų garbinimą.'
+  teiginys: "Narbutas rašo, kad Sirijos patriarchą Maskvoje lydėjęs arkidiakonas Povilas pasakojo apie Rusijos carui pavaldžių tautų dangaus kūnų garbinimą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  saltinio_vieta: "317206-317485; hash=fe26cca7e674a171b5679b7237bd21fbfeb1c0390b1d4aa7f42edaec16585c86; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sirija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sirija\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-002
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171724
 - susijęs iš [[objektai/ivykiai/Totorių, armėnų ir gruzinų žygis į Siriją bei Palestiną (1311 m.).md#claim-t-62507|Totorių, armėnų ir gruzinų žygis į Siriją bei Palestiną (1311 m.)]]: 1311 m. totoriai su armėnais ir gruzinais žygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkst. raitelių.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171441|Totoriai]]: Totoriai su armėnais ir gruzinais nužygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkstančių raitelių.
 - susijęs iš [[objektai/grupes/Armėnai.md#claim-t-88520|Armėnai]]: Totoriai kartu su armėnais ir gruzinais žygiavo į Siriją bei Palestiną ir nukovė daugiau nei 10 tūkstančių raitelių.
@@ -82,6 +150,7 @@ Dusburgietis teigia, kad aprašęs Jeruzalės karalystės sostines Akono (Akros)
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171424|Totoriai]]: Petro Dusburgiečio kryžiaus žygių istorijoje pritariama popiežiaus kurijos pastangoms suartėti su totoriais-mongolais.
 - susijęs iš Jeruzalė: Aprašęs Jeruzalės karalystės sostinės Akono žlugimą 1291 m., Petras Dusburgietis pateikė Šventosios Žemės apraudojimą ir kryžiaus žygių santrauką.
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -95,6 +164,7 @@ Dusburgietis teigia, kad aprašęs Jeruzalės karalystės sostines Akono (Akros)
     vienodos, kad šios tautos turėjusios bendrą priešą71.
       Petras iš Dusburgo, kaip to meto publicistas, kėlė aktualius Ordino politikos klausimus.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -102,6 +172,7 @@ Dusburgietis teigia, kad aprašęs Jeruzalės karalystės sostines Akono (Akros)
     - t-001
     - t-003
     - t-002
+
 - c-002
   santrauka: 'Narbutas rašo, kad Sirijos patriarchą Maskvoje lydėjęs arkidiakonas Povilas pasakojo apie Rusijos carui pavaldžių tautų dangaus kūnų garbinimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -111,11 +182,50 @@ Dusburgietis teigia, kad aprašęs Jeruzalės karalystės sostines Akono (Akros)
     kidjakonas Povilas, kartu su Sirijos patriarchu viešėdamas Maskvoje,
     papasakojo apie pavaldžias Rusijos carui tautas, kurios garbino kaip
     dievus dangaus kūnus: saulę, mėnesi, žvaigždes ir kai kuriuos žvėris.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
+## Citatos
+
+- id: c-87095
+  citata_originali: |
+    Aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą
+    (1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą  ir trumpai
+    atpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms
+    suartėti su totoriais — mongolais  ir aprašomi pastarųjų žygiai prieš Siriją bei kitas
+    musulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108). Ši kronika, kaip  ir atitinkami
+    popiežiaus kurijos dokumentai, patvirtina tarybinėje istoriografijoje keliamą mintį, kad
+    ekspansijos prieš arabų, slavų ir Pabaltijo tautas esmė ir varomosios jėgos buvusios
+    vienodos, kad šios tautos turėjusios bendrą priešą71.
+      Petras iš Dusburgo, kaip to meto publicistas, kėlė aktualius Ordino politikos klausimus.
+  citata_rodoma: "), kronikininkas įdėjo savotišką šventosios žemės apraudojimą  ir trumpai\natpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms\nsuartėti su totoriais — mongolais  ir aprašomi pastarųjų žygiai prieš Siriją bei kitas\nmusulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108). Ši kronika, kaip  ir atitinkami\npopiežiaus kurijos dokumentai, patvirtina tarybinėje istoriografijoje keliamą mintį, kad\nekspansijos prieš arabų, slavų ir Pabaltijo tautas esmė ir varomosios jėgos buvusios\nvienodos, kad šios tautos turėjusios bendrą priešą71.\n  Petras iš Dusburgo, kaip to meto publicistas, kėlė aktualius Ordino politikos klausimus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91383
+    - t-91385
+    - t-91384
+
+- id: c-171724
+  citata_originali: |
+    24
+    Biblioteka dla čtenija. -  1836. -  IV -  S. 86. Ten rašoma, jog ar-
+    kidjakonas Povilas, kartu su Sirijos patriarchu viešėdamas Maskvoje,
+    papasakojo apie pavaldžias Rusijos carui tautas, kurios garbino kaip
+    dievus dangaus kūnus: saulę, mėnesi, žvaigždes ir kai kuriuos žvėris.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188835
 
 ## Ryšiai
 - Buvo žygio kryptis: [[objektai/grupes/Armėnai]], [[objektai/grupes/Gruzinai]], [[objektai/grupes/Mongolai]], [[objektai/grupes/Totoriai]]

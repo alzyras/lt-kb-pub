@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Laužas
 
@@ -39,9 +51,23 @@ Nenurodyta
 <a id="claim-t-186856"></a>
 - t-001
   global_id: t-186856
-  teiginys: 'Pagal komentare minimą J. Dlugošą, mirusio Algirdo palaikai Kukovaičio miške prie Maišiagalos buvo sudeginti ant laužo.'
+  teiginys: "Pagal komentare minimą J. Dlugošą, mirusio Algirdo palaikai Kukovaičio miške prie Maišiagalos buvo sudeginti ant laužo."
+  teiginio_tipas: "saltinio_vaizdinys"
+  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) buvo palaidotas Maišiagala (0.72); Algirdas (Lietuvos valdovas) buvo palaidotas Laužas (0.69)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  saltinio_vieta: "351147-351661; hash=48ba019e6a8e1edca13806b55938d06d24c38c9225673b9ee7fc3a5f2d6479bf; match=exact"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  ryšio_patikimumas: "buvo_palaidotas -> Maišiagala: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Maišiagala: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas nurodo Algirdo palaikų sudeginimo vietą prie Maišiagalos; tai artimiausias leistinas laidojimo vietos ryšys."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
-    - c-001
+    - c-170039
 - susijęs iš [[objektai/daiktai/Karinė apranga, ginklai ir grandinės padėkos aukoje.md#claim-t-189684|Karinė apranga, ginklai ir grandinės padėkos aukoje]]: Narbutas padėkos auką aprašė kaip apeigą, per kurią ant laužo sudegindavo žymų belaisvį su žirgu, karine apranga ir ginklais.
 - susijęs iš [[objektai/ivykiai/Algirdo palaikų sudeginimas Kukovaičio miške.md#claim-t-186691|Algirdo palaikų sudeginimas Kukovaičio miške]]: Redakcinė pastaba teigia, kad pagal J. Dlugošą Kukovaičio miške prie Maišiagalos ant laužo buvo sudeginti mirusio Algirdo palaikai.
 - susijęs iš [[objektai/ivykiai/Herasimo sąmokslas ir sudeginimas ant laužo.md#claim-t-01622|Herasimo sąmokslas ir sudeginimas ant laužo]]: Herasimas rengė sąmokslą perduoti Smolensko žemę Zigmantui, bet buvo susektas ir Švitrigailos įsakymu sudegintas ant laužo.
@@ -98,11 +124,32 @@ Nenurodyta
     (Jana Dlugosza, kanonika krakowsklcgo. dzlejów polsklch kslęg
     dwanascie (toliau — Dzieje), t. HI, Kraków. 1868, p. 444).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_vaizdinys
   statusas: verified
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-170039
+  citata_originali: |
+    ’*  Legenda apie Kukovaičio mišką, tapatinamą su Ročkalniu
+    prie Šventosios ties Deltuva, yra. veikiausiai, patekusi | Lietuvos
+    metraščių PS per Kęsgailas, Žemaičių senitinus ir Trakų kaštelionus,
+    kadangi Deltuva XV ir XVI a. pirm ojoje pusėje buvo Kęsgailų
+    tėviškė. Pagal J . Dlugošą Kukovaičio („Kokivvejtos'') m iške prie
+    Maišiagalos buvę sudeginti an t laužo mirusio Algirdo palaikai
+    (Jana Dlugosza, kanonika krakowsklcgo. dzlejów polsklch kslęg
+    dwanascie (toliau — Dzieje), t. HI, Kraków. 1868, p. 444).
+  citata_rodoma: "Legenda apie Kukovaičio mišką, tapatinamą su Ročkalniu \nprie Šventosios ties Deltuva, yra. veikiausiai, patekusi | Lietuvos \nmetraščių PS per Kęsgailas, Žemaičių senitinus ir Trakų kaštelionus, \nkadangi Deltuva XV ir XVI a. pirm ojoje pusėje buvo Kęsgailų \ntėviškė. Pagal J . Dlugošą Kukovaičio („Kokivvejtos'') m iške prie \nMaišiagalos buvę sudeginti an t laužo mirusio Algirdo palaikai \n(Jana Dlugosza, kanonika krakowsklcgo. dzlejów polsklch kslęg \ndwanascie (toliau — Dzieje), t. HI, Kraków. 1868, p. 444)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186856
 
 ## Ryšiai
 - Turėjo palaidotą asmenį: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

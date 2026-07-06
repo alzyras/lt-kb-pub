@@ -14,6 +14,18 @@ amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vasiljevičius (Maskvos valdovas)
 
@@ -26,16 +38,46 @@ Tverei susivienijus su maskvėnais, Vasiljevičius galėjo smarkiai sustiprinti 
 <a id="claim-t-186019"></a>
 - t-001
   global_id: t-186019
-  teiginys: 'Tverei susivienijus su maskvėnais, Vasiljevičius galėjo smarkiai sustiprinti savo jėgas.'
+  teiginys: "Tverei susivienijus su maskvėnais, Vasiljevičius galėjo smarkiai sustiprinti savo jėgas."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  temporaliniai_duomenys: "įvykio data: 1486 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie Vasiljevičių, bet pradinis teiginys sugadintas OCR antraštės."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "940028-940759; hash=52b0ba10683fb0597d6214889c038e1646ca007e4a8d3e810612ef94b1045e31; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vasiljevičius (Maskvos valdovas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vasiljevičius (Maskvos valdovas)\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
-    - c-001
+    - c-169380
 
 <a id="claim-t-186020"></a>
 - t-002
   global_id: t-186020
-  teiginys: 'Vasiljevičius, paisydamas paliaubų, atviro karo nepradėjo, bet nevengė daryti žalos Lietuvos valdoms.'
+  teiginys: "Vasiljevičius, paisydamas paliaubų, atviro karo nepradėjo, bet nevengė daryti žalos Lietuvos valdoms."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  semantiniai_rysiai: "Vasiljevičius (Maskvos valdovas) puolė Lietuva (0.57)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  saltinio_vieta: "940943-941493; hash=65b1b3e649479f1f21f8b942576bf7be0f7882ac5947f4d624510a2f4a327341; match=exact"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Lietuva: 0.57"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vasiljevičius (Maskvos valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys apibendrina Vasiljevičiaus veiksmus prieš Lietuvos valdas, nors konkreti žala aprašoma plačiau citatoje."
   pagrindžia:
-    - c-002
+    - c-169381
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-54956|Elena (vyskupas, XV–XVI a.)]]: Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti siekdamas užgesinti politinius vaidus.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-82283|Elena (vyskupas, XV–XVI a.)]]: Aleksandras nutarė vesti Ivano Vasiljevičiaus dukterį Eleną, siekdamas užgesinti kilusius tarpusavio vaidus.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54937|Aleksandras Jogailaitis]]: Aleksandras siekė užgesinti vaidus su Ivanu Vasiljevičiumi vesdamas jo dukterį Eleną.
@@ -88,7 +130,6 @@ Tverei susivienijus su maskvėnais, Vasiljevičius galėjo smarkiai sustiprinti 
 - susijęs iš Viazmos žemė: Vasiljevičius stengėsi nuslėpti savo brolio Andrejaus, Možaisko kunigaikščio, įsibrovimą į Viazmos žemę.
 - susijęs iš Vilnelė: Maksimui Vasiljevičiui buvo dovanota šienaujama pieva prie kelio į Užupį, už Vilnelės.
 - susijęs iš Vilnelė: Aleksandras dovanojo Maksimui Vasiljevičiui šienaujamą pievą už Vilnelės prie kelio iš miesto į Užupį.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Didysis kunigaikštis Aleksandras dovanojo Maksimui Vasiljevičiui šienaujamą pievą už Vilnelės prie kelio į Užupį.
 - susijęs iš [[objektai/zodynas/bojarinai.md#claim-t-86460|bojarinai]]: Didžioji kunigaikštytė Elena į Vilnių atvyko lydima bojarinų Simono Rapolovskio, Mykolo Rusalkos ir Prokopo Zinovjevičiaus.
 - susijęs iš [[objektai/zodynas/dijokas.md#claim-t-187550|dijokas]]: Maskvos didžiojo kunigaikščio Ivano Vasiljevičiaus pasiuntinių grupėje su Elena į Lietuvą vyko dijokas Vasilijus Kulešinas.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54937|Aleksandras Jogailaitis]]: Aleksandras siekė užgesinti vaidus su Ivanu Vasiljevičiumi vesdamas jo dukterį Eleną.
@@ -121,6 +162,7 @@ Tverei susivienijus su maskvėnais, Vasiljevičius galėjo smarkiai sustiprinti 
     jėgas, ji galėjo išvesti į kovos lauką ligi penkiasdešim­
     ties tūkstančių raitelių.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -149,11 +191,69 @@ Tverei susivienijus su maskvėnais, Vasiljevičius galėjo smarkiai sustiprinti 
     d a s
     apie smulkesnius išpuolius.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-169380
+  citata_originali: |
+    Kai Tvėrėje ar dėl
+    M a s k v o s
+    ku n ig a ik š-
+    Maskvos valdovo Vasiljevi-
+    tis užima T v e r ę
+    čiaus klastos, ar dėl kokių ki­
+    tų priežasčių kilo maištas, ku­
+    nigaikštis, valdinių išvytas iš savo senolių valdų, pabė­
+    go pas karalių. Žadėdamas amžiną santarvę ir deramą
+    karinę pagalbą bet kuriuo at-
+    1486 m e ta i
+    veju, jis ragino ir kalbino
+    karalių atkeršyti už jam pa­
+    darytą skriaudą, ypač dėl to, kad visa Tverė, atsikra­
+    čiusi teisėto kunigaikščio valdžios, susivienijo su mas-
+    kvėnais, o šia sąjunga Vasiljevičius galėjo smarkiai
+    sustiprinti savo jėgas, jeigu jam kuo greičiausiai nebū­
+    siąs duotas atkirtis. Tverė turėjo labai galingas karo
+    jėgas, ji galėjo išvesti į kovos lauką ligi penkiasdešim­
+    ties tūkstančių raitelių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186019
+
+- id: c-169381
+  citata_originali: |
+    To­
+    dėl, teisindamasis sudarytomis su Vasiljevičiumi paliau­
+    bomis, atleido pabėgėlį, tiesa, mandagiai ir nuoširdžiai
+    jį pagerbęs, bet nieko doro nepažadėjęs. Tuo tarpu Va­
+    siljevičius, nors, paisydamas paliaubų, atvirai ir ne­
+    pradėjo karo, bet žalos daryti nevengė. Jis ir pats atė­
+    mė iš Krošino kunigaikščių, Kęstučio sūnaus Vygando
+    palikuonių, geroką krašto dalį, ir stengėsi nuslėpti savo
+    brolio Andrejaus, Možaisko
+    1487 metai
+    kunigaikščio,
+    įsibrovimą
+    į
+    Siaubia L ie tu v o s v a i-
+    Viazmos žemę, nekalbant jau
+    d a s
+    apie smulkesnius išpuolius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186020
 
 ## Ryšiai
 - Dukterys: [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
